@@ -1,4 +1,4 @@
-**Last Revised: November 27, 2012**
+**Last Revised: December 18, 2012**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -174,303 +174,117 @@ Return To Parked Page Default Setting Upon Domain Name Expiration.  Upon domain
 
 If you submit an application for pre-registration of a domain name, Go Daddy does not guarantee that the name will be secured for you, or that you will have immediate access to the domain name if secured.  Go Daddy may use third-party service providers for the pre-registration services.
 
-11\. provisions specific to all registrations
+11\. prOVISIONS SPECIFIC TO ALL REgistrations
 
-You agree to be bound by the rules, policies, and agreements of each Registry from which you purchase a domain name registration, which may include, but are not limited to, Top Level Domain Registries and Second Level Domain Registries.
+You agree to be bound by the rules, policies and agreements of each Registry from which you purchase a domain name registration, which may include, but is not limited to, Top Level Domain Registries and Second Level Domain Registrations. You further agree to comply with the ICANN requirements, standards, policies, procedures, and practices for which each applicable Registry Operator has monitoring responsibility in accordance with the Registry Agreement between ICANN and itself or any other arrangement with ICANN. You further agree to comply with any operational standards, policies, procedures, and practices for the each Registry TLD established from time to time by the applicable Registry Operators in a non-arbitrary manner, which shall be effective thirty (30) days after email notice or posting on this Site.
 
-12\. PROVISIONS SPECIFIC TO .BIZ registrations
+**12\. provisions specific to .BIZ registrations**
 
-If you are registering a .BIZ domain name you also agree to:
+_Restrictions_.  Registrations in the .BIZ TLD must be used or intended to be used primarily for bona fide business or commercial purposes. For purposes of these restrictions, "bona fide business or commercial use" means the bona fide use or bona fide intent to use the domain name or any content, software, materials, graphics or other information thereon, to permit Internet users to access one or more host computers through the DNS (i) to exchange goods, services, or property of any kind. (ii) in the ordinary course of trade or business. or (iii) to facilitate the exchange of goods, services, information, or property of any kind or the ordinary course of trade or business. Registering a domain name solely for the purposes of selling, trading or leasing the domain name for compensation, or for the unsolicited offering to sell, trade or lease the domain name for compensation does not constitute a "bona fide business or commercial use" of that domain name.
 
-**.BIZ Restrictions**
+_Eligibility Requirements_.  As a .BIZ domain name registrant, you hereby certify to the best of your knowledge that (i) the registered domain name will be used primarily for bona fide business or commercial purposes and not exclusively for personal use or solely for the purposes of selling, trading or leasing the domain name for compensation or the unsolicited offering to sell, trade or lease the domain name for compensation. (ii) the domain name registrant has the authority to enter into this registration agreement. and (iii) the registered domain name is reasonably related to the registrant's business or intended commercial purpose at the time of registration.
 
-Registrations in the .BIZ TLD must be used or intended to be used primarily for bona fide business or commercial purposes. For purposes of the .BIZ Registration Restrictions ("Restrictions"), "bona fide business or commercial use" shall mean the bona fide use or bona fide intent to use the domain name or any content, software, materials, graphics or other information thereon, to permit Internet users to access one (1) or more host computers through the DNS:
+_Domain Name Dispute Policy_.  If you reserved or registered a .BIZ domain name through us, you agree to be bound by our current domain name dispute policy that is incorporated herein and made a part of this Agreement by reference. In addition, you hereby acknowledge that you have read and understood and agree to be bound by the terms and conditions of the following documents, as they may be amended from time to time, which are hereby incorporated and made an integral part of this Agreement:
 
-1.  To exchange goods, services, or property of any kind;
-2.  In the ordinary course of trade or business. or
-3.  To facilitate (i) the exchange of goods, services, information, or property of any kind. or, (ii) the ordinary course of trade or business. Registering a domain name solely for the purposes of (1) selling, trading or leasing the domain name for compensation, or (2) the unsolicited offering to sell, trade or lease the domain name for compensation shall not constitute a "bona fide business or commercial use" of that domain name.
+        i.       Uniform Domain Name Dispute Resolution Policy. and
 
-**.BIZ Certification**
-
-As a .BIZ domain name registrant, you hereby certify to the best of your knowledge that:
-
-1.  The registered domain name will be used primarily for bona fide business or commercial purposes and not (i) exclusively for personal use. or (ii) solely for the purposes of (1) selling, trading or leasing the domain name for compensation, or (2) the unsolicited offering to sell, trade or lease the domain name for compensation. More information on the .BIZ restrictions, which are incorporated herein by reference, are available online;
-2.  The domain name registrant has the authority to enter into the registration agreement. and
-3.  The registered domain name is reasonably related to the registrant's business or intended commercial purpose at the time of registration.
-
-**Domain Name Dispute Policy**
-
-If you reserved or registered a .BIZ domain name through us, you agree to be bound by our current domain name dispute policy that is incorporated herein and made a part of this Agreement by reference. Please take the time to familiarize yourself with that policy. In addition, you hereby acknowledge that you have read and understood and agree to be bound by the terms and conditions of the following documents, as they may be amended from time to time, which are hereby incorporated and made an integral part of this Agreement:
-
-1.  The Uniform Domain Name Dispute Policy;
-2.  The Start-up Trademark Opposition Policy ("STOP"). and
-3.  The Restrictions Dispute Resolution Criteria and Rules.
-
-The STOP sets forth the terms and conditions in connection with a dispute between a registrant of a .BIZ domain name ("Registrant") with any third party (other than Registry Operator or Registrar) over the registration or use of a .BIZ domain name registered by Registrant that is subject to the Intellectual Property Claim Service. The Intellectual Property Claim Service is a service introduced by Registry Operator to notify a trademark or service mark holder ("Claimant") that a second level domain name has been registered in which that Claimant claims intellectual property rights. In accordance with the STOP and its associated Rules, those Claimants will have the right to challenge registrations through independent ICANN-accredited dispute resolution providers.
+       ii.       Restrictions Dispute Resolution Policy.
 
 The UDRP sets forth the terms and conditions in connection with a dispute between a Registrant and any party other than the Registry Operator or Registrar over the registration and use of an Internet domain name registered by Registrant.
 
-The RDRP sets forth the terms under which any allegation that a domain name is not used primarily for business or commercial purposes shall be enforced on a case-by-case, fact specific basis by an independent ICANN-accredited dispute provider. None of the violations of the Restrictions will be enforced directly by or through Registry Operator. Registry Operator will not review, monitor, or otherwise verify that any particular domain name is being used primarily for business or commercial purposes or that a domain name is being used in compliance with the SUDRP or UDRP processes.
+The RDRP sets forth the terms under which any allegation that a domain name is not used primarily for business or commercial purposes shall be enforced on a case-by-case basis by an independent ICANN-accredited dispute provider. Registry Operator will not review, monitor, or otherwise verify that any particular domain name is being used primarily for business or commercial purposes or that a domain name is being used in compliance with the SUDRP or UDRP processes.
 
-**Domain Name Dispute Policy Modifications**
+_Domain Name Dispute Policy Modifications_.  You agree that we, in our sole discretion, may modify our dispute policy. We will post any such revised policy on our website at least thirty (30) calendar days before it becomes effective. You agree that, by maintaining the reservation or registration of your domain name after modifications to the dispute policy become effective, you have agreed to these modifications. You acknowledge that if you do not agree to any such modification, you may terminate this Agreement. We will not refund any fees paid by you if you cancel or terminate your Services with us.
 
-You agree that we, in our sole discretion, may modify our dispute policy. We will post any such revised policy on our website at least thirty (30) calendar days before it becomes effective. You agree that, by maintaining the reservation or registration of your domain name after modifications to the dispute policy become effective, you have agreed to these modifications. You acknowledge that if you do not agree to any such modification, you may terminate this Agreement. We will not refund any fees paid by you if you cancel or terminate your Services with us.
+_Domain Name Disputes_.  You agree that, if your use of our domain name registration services is challenged by a third party, you will be subject to the provisions specified in our dispute policy in effect at the time of the dispute. You agree that in the event a domain name dispute arises with any third party, you will indemnify and hold us harmless pursuant to the terms and conditions set forth below in this Agreement. If we are notified that a complaint has been filed with a judicial or administrative body regarding your use of our domain name registration services, you agree not to make any changes to your domain name record without our prior approval. We may not allow you to make changes to such domain name record until (i) we are directed to do so by the judicial or administrative body, or (ii) we receive notification by you and the other party contesting your registration and use of our domain name registration services that the dispute has been settled. Furthermore, you agree that if you are subject to litigation regarding your registration and use of our domain name registration services, we may deposit control of your domain name record into the registry of the judicial body by supplying a party with a registrar certificate from us.
 
-**Domain Name Disputes**
+_Reservation of Rights_.  We and the .BIZ Registry Operator, NeuLevel, Inc. expressly reserve the right to deny, cancel or transfer any registration that we deem necessary, in our discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, or to avoid any liability, civil or criminal, on the part of us and/or NeuLevel, Inc., as well as their affiliates, subsidiaries, officers, directors and employees. We and NeuLevel, Inc. also reserve the right to freeze a domain name during resolution of a dispute.
 
-You agree that, if your use of our domain name registration services is challenged by a third party, you will be subject to the provisions specified in our dispute policy in effect at the time of the dispute. You agree that in the event a domain name dispute arises with any third party, you will indemnify and hold us harmless pursuant to the terms and conditions set forth below in this Agreement. If we are notified that a complaint has been filed with a judicial or administrative body regarding your use of our domain name registration services, you agree not to make any changes to your domain name record without our prior approval. We may not allow you to make changes to such domain name record until (i) we are directed to do so by the judicial or administrative body, or (ii) we receive notification by you and the other party contesting your registration and use of our domain name registration services that the dispute has been settled. Furthermore, you agree that if you are subject to litigation regarding your registration and use of our domain name registration services, we may deposit control of your domain name record into the registry of the judicial body by supplying a party with a registrar certificate from us.
+_Indemnification_.  You agree to indemnify, defend and hold harmless us and the .BIZ Registry Operator, NeuLevel, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of the registration agreement.
 
-**Reservation of Rights**
+_One Year Registration_.  If you are registering a .BIZ domain name and you elect to take advantage of special pricing applicable to one-year registrations, we will automatically renew your domain name for an additional one-year period at the end of the first year term by taking payment from the Payment Method you have on file, unless you notify us that you do not wish to renew. You will be notified and given the opportunity to accept or decline the one-year renewal prior to your domain name expiration date. In the event you decide not to renew your one-year .BIZ domain name for a second year, your domain name registration will automatically revert back to us and we will gain full rights of registration to such domain name. You agree that if you delete or transfer your .BIZ domain name during the first year, you will automatically be charged the second year renewal fees.
 
-Go Daddy and the .BIZ Registry Operator, NeuLevel, Inc. expressly reserve the right to deny, cancel or transfer any registration that it deems necessary, in its discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, or to avoid any liability, civil or criminal, on the part of Go Daddy and/or NeuLevel, Inc., as well as their affiliates, subsidiaries, officers, directors and employees. Go Daddy and NeuLevel, Inc. also reserve the right to freeze a domain name during resolution of a dispute.
+**13\. provisions specific to .COM registrations**
 
-**Indemnification**
+You agree to indemnify, defend and hold harmless the .COM Registry Operator, VeriSign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
 
-You agree to indemnify, defend and hold harmless the .BIZ Registry Operator, NeuLevel, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of the registration agreement.
+**14\. provisions specific to .INFO registrations**
 
-13\. provisions specific to .COM and .NET registrations
+_Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the .INFO Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) acknowledge that the Registry Operator will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise Period or the Land Rush Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute over a Sunrise Registration.
 
-**Indemnification**
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .INFO Registry Operator, Afilias Limited, and its subcontractors, shareholders, directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-You agree to indemnify, defend and hold harmless the .COM .and NET Registry Operator, VeriSign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
+_Reservation of Rights_.  We and the .INFO Registry Operator expressly reserve the right to deny, cancel or transfer any registration, or place any domain name on registry lock, hold or similar status, that we deem necessary, in our discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of us and/or Registry Operator, as well as their affiliates, subsidiaries, officers, directors and employees, per the terms of the registration agreement, or to correct mistakes made by Registry Operator or us in connection with the domain name registration. We and Registry Operator also reserve the right to freeze a domain name during resolution of a dispute.
 
-14\. provisions specific to .INFO registrations
+_One Year Registration_.  If you are registering a .INFO domain name and you elect to take advantage of special pricing applicable to one-year registrations, we will automatically renew your domain name for an additional one-year period at the end of the first year term by taking payment from the Payment Method you have on file, unless you notify us that you do not wish to renew. You will be notified and given the opportunity to accept or decline the one-year renewal prior to your domain name expiration date. In the event you decide not to renew your one-year .INFO domain name for a second year, your domain name registration will automatically revert back to us and we will gain full rights of registration to such domain name. You agree that if you delete or transfer your .INFO domain name during the first year, you will automatically be charged the second year renewal fees.
 
-**Indemnification**
+**15\. PROVISIONS SPECIFIC TO .JOBS REGISTRATIONS**
 
-You agree to indemnify, defend and hold harmless the .INFO Registry Operator, Afilias Limited, and its subcontractors, shareholders, directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
+_Acknowledgements_.  You acknowledge and agree (i) to provide information regarding membership in a Human Resource Association, and the identity of any such association. (ii) to provide the URL of your existing company website. (iii) that you have read, understood and agree to be bound by the .JOBS Registry-Registrant Agreement (which is incorporated herein) as amended from time to time, the registrant eligibility requirements and the use restrictions. (iv) to abide by the SHRM Code of Ethics (which is incorporated herein). and (v) that the Registry Operator is an intended third-party beneficiary of this Agreement, with a right to enforce the terms and provisions contained herein.
 
-If you are registering a .INFO domain name you also agree to:
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .JOBS Registry Operator and its subcontractors, shareholders, directors, officers, employees, affiliates and agents of each of them from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation shall survive the termination or expiration of this Agreement.
 
-1.  Consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the .info Registry Operator and its designees and agents;
-2.  Submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy ("UDRP") and the Sunrise Dispute Resolution Policy ("SDRP");
-3.  Immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and
-4.  Acknowledge that the Registry Operator will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise Period or the Land Rush Period, including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute over a Sunrise Registration.
+_Reservation of Rights_.  We and the .JOBS Registry Operator expressly reserve the right to revoke, cancel, deny, transfer, suspend, terminate or otherwise modify the rights of a Registered Name Holder, without any notice thereto, in the event of non-compliance by the Registered Name Holder with any provision of this Agreement, the Registry-Registrant Agreement, the registrant eligibility requirements and the use restrictions including, but not limited to, submission or use of untruthful, incomplete or fraudulent registration information during the application process or subsequently thereto.
 
-15\. PROVISIONS SPECIFIC TO .JOBS REGISTRATIONS
+**16\. provisions specific to .MOBI Registrations**
 
-If you are registering a .JOBS domain name you also:
+_Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) that the Registry Operator and the Registry Service Provider will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the limited industry launch, Sunrise Period, Land Rush Period, the Sunrise Dispute Resolution Policy, the Premium Name Allocation Process, and the General Registration Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute made during the limited industry launch or over a Sunrise Registration.
 
-1.  Agree to provide information regarding membership in a Human Resource Association, and the identity of any such association;
-2.  Agree to provide the URL of your existing company website;
-3.  Acknowledge that you have read, understood and agree to be bound by the .JOBS Registry-Registrant agreement as amended from time to time, located here;
-4.  Agree to abide by the SHRM code of professional ethics as stated here;
-5.  Agree to indemnify, defend and hold harmless the Registry Operator and its subcontractors, shareholders, directors, officers, employees, affiliates and agents of each of them from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation shall survive the termination or expiration of this Agreement. and
-6.  Further acknowledge and agree that the Registry Operator is an intended third-party beneficiary of this Agreement, with a right to enforce the terms and provisions contained herein.
+You further acknowledge and agree that you shall comply with the requirements, standards, policies, procedures and practices set forth in the dotmobi Style Guide, which is hereby incorporated by reference. You consent to the monitoring of your website for compliance with the Style Guide, and acknowledge that the Style Guide is subject to modification by the dotmobi registry, and you acknowledge and agree that you will comply with any such changes in the time allotted.
 
-16\. provisions specific to .MOBI registrations
+_Indemnification_.  You agree to indemnify to the maximum extent permitted by law, defend and hold harmless Registry Operator, and its directors, officers, employees and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration and or use. You also agree to indemnify, defend and hold harmless Registry Services Provider, its subsidiaries and affiliates, and the directors, officers, employees and agents or each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration and or use. Both of these indemnification requirements shall survive the termination or expiration of this Agreement.
 
-You acknowledge and agree that you shall comply with the requirements, standards, policies, procedures and practices set forth in the dotmobi Style Guide, found here. You consent to the monitoring of your website for compliance with the Style Guide.
+_Reservation of Rights_.  We, the .MOBI Registry Operator and the Registry Services Provider, acting in consent with the Registry, expressly reserve the right to deny, cancel or transfer any registration that it deems necessary, in its discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of us and/or Registry Operator, as well as their affiliates, subsidiaries, officers, directors, representatives, employees and stockholders, for violations of the terms and conditions herein, or to correct mistakes made by Registry Operator or us in connection with the domain name registration. We and Registry Operator also reserve the right to freeze a domain name during resolution of a dispute.
 
-Further, you acknowledge and agree the Style Guide is subject to modification by the dotmobi registry, and you acknowledge and agree that you will comply with any such changes in the time allotted.
+_Third Party Beneficiary_.  Notwithstanding anything in this Agreement to the contrary, mTLD Top Level Domain Ltd. ("dotmobi"), the Registry Operator of the .MOBI TLD, is and shall be an intended third-party beneficiary of this Agreement. As such, the parties to this Agreement acknowledge and agree that the third-party beneficiary rights of dotmobi have vested and that dotmobi has relied on its third-party beneficiary rights under this Agreement in agreeing to us being a registrar for the .MOBI top level domain. Additionally, the third-party beneficiary rights of dotmobi shall survive any termination or expiration of this Agreement.
 
-You agree to indemnify to the maximum extent permitted by law, defend and hold harmless Registry Operator, and its directors, officers, employees and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration and or use, and this indemnification obligation survives the termination or expiration of this Agreement;
+**17\. provisions specific to .NAME registrATIONS**
 
-You agree to indemnify, defend and hold harmless Registry Services Provider, its subsidiaries and affiliates, and the directors, officers, employees and agents or each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration and or use, and this indemnification obligation survives the termination or expiration of this Agreement;
+_Eligibility Requirements_.  As a .NAME domain name registrant, you hereby certify to the best of your knowledge that the name you are registering is your legal, personal name, or that you own the intellectual property rights to that name. If at any time it is discovered that it is not your legal personal name, or your intellectual property, the .NAME Registry Operator, Global Name Registry (GNR) and us reserve the right to cancel your registration without refund, or transfer it to another party. In addition to the above, you agree to be bound by the provisions of the Eligibility Requirements Dispute Resolution Policy, which is incorporated herein.
 
-Acknowledge and agree that notwithstanding anything in this Agreement to the contrary, mTLD Top Level Domain Ltd. ("dotmobi"), the Registry Operator of the .MOBI TLD, is and shall be an intended third-party beneficiary of this Agreement. As such, the parties to this Agreement acknowledge and agree that the third-party beneficiary rights of dotmobi have vested and that dotmobi has relied on its third-party beneficiary rights under this Agreement in agreeing to Go Daddy being a registrar for the .MOBI top level domain. Additionally, the third-party beneficiary rights of dotmobi shall survive any termination or expiration of this Agreement.
+_Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) acknowledge that the Registry Operator will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise Period or the Land Rush Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute over a Sunrise Registration.
 
-You agree to comply with ICANN requirements, standards, policies, procedures, and practices for which dotmobi has responsibility in accordance with the Registry Agreement between ICANN and dotmobi or other arrangement with ICANN.
+_Indemnification_.  You agree to indemnify, defend and hold harmless GNR and its subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-You consent to the use, copying, distribution, publication, modification and other processing of your personal data by dotmobi and its designees and agents in a manner consistent with the purposes for which your personal data is collected by Go Daddy and submitted to dotmobi and with relevant mandatory local data protection, law and privacy.
+_Reservation of Rights_.  We and the Registry Operator expressly reserve the right to deny, cancel or transfer any registration or transaction, or place any registered domain name on registry lock, hold or similar status, or additionally for SLD email forwarding implement throttling/blocking and/or size limitations, that we deem necessary, in our discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of us and/or Registry Operator, as well as their affiliates, subsidiaries, officers, directors, and employees, per the terms of this Agreement, or to correct mistakes made by Registry Operator or us in connection with the domain name registration. We and Registry Operator also reserve the right to freeze a domain name during resolution of a dispute.
 
-You shall immediately correct and update your registration information for your registered domain name(s) during the registration term for each Registered Name.
+_Defensive Registration_.  A Defensive Registration is a registration designed for the protection of trademarks and service marks and may be granted to prevent a third party from registering a variation of a trademark or the exact trademark. If the name you wish to register is subject to a Defensive Registration, you have three (3) options: (i) you may register a variation of the name, (ii) you may challenge the Defensive Registration under the Eligibility Requirements Dispute Resolution Policy, or (iii) you may request Consent from the Defensive Registrant. You can request Consent by contacting the Defensive Registrant listed in the GNR Whois database and requesting consent to register the .NAME domain name. If the Defensive Registrant grants consent, they must confirm in writing that they grant consent. If the Defensive Registrant does not grant consent, you may wish to challenge the Defensive Registration under the ERDRP.
 
-You further agree to comply with operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator in a non-arbitrary manner as Registry Policies, applicable to all registrars and/or Registered Name Holders, and consistent with the Registry Agreement shall be effective upon thirty (30) days notice by Registry Operator to Registrar;
+_Acceptable Use Policy_.  You agree to be bound by the .NAME Acceptable Use Policy, which is hereby incorporated by reference. Among other limitations, this policy prohibits you from using your .NAME Email to engage in Spamming activities. You will be limited to a maximum of five hundred (500) messages sent from your .NAME at a time.
 
-You acknowledge and agree that dotmobi and Afilias Limited, acting in consent with dotmobi, reserves the right to deny, cancel or transfer any registration that it deems necessary, in its discretion (i) to protect the integrity and stability of the registry. (ii) to comply with all applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (iii) to avoid any liability, civil or criminal, on the part of dotmobi as well as its affiliates, subsidiaries, officers, directors, representatives, employees, and stockholders. (iv) for violations of the terms and conditions herein. (v) or to correct mistakes made by dotmobi or any registrar in connection with a domain name registration, and dotmobi also reserves the right to freeze a domain name during resolution of a dispute.
+**18\. provisions specific to.NET registrations**
 
-You acknowledge and agree to be bound by the terms and conditions of the initial launch and general operations of the Registry TLD, including without limitation the Limited Industry Launch, the Sunrise Period, the Land Rush Period, the Sunrise Dispute Resolution Policy, the Premium Name Allocation Process, and the General Registration Period, and further to acknowledge that Registry Operator and the Registry Service Provider has no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Limited Industry Launch, the Sunrise Period, the Land Rush Period, the Sunrise Dispute Resolution Policy, the Premium Name Allocation Process, and the General Registration Period including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute made during the limited industry launch or over a Sunrise Registration.
+You agree to indemnify, defend and hold harmless the .NET Registry Operator, VeriSign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
 
-You acknowledge and agree if the domain name being registered is a dotMobi Premium Name, and as such is listed here, then use of the domain name is also subject to the terms and conditions of the dotMobi Premium Name Agreement (formerly known as the dotMobi Auction Agreement) posted here, which is incorporated by reference herein.
+**19\. provisions specific to .ORG registrations**
 
-You acknowledge and agree that upon termination or expiration of the dotMobi Premium Name Agreement in accordance with the terms thereof: (i) any and all rights of Company to the Registration of the Domain Name, the Registration Code, and/or to create, launch, and/or operate the website shall be terminated, and all such rights shall revert to mTLD and (ii) mTLD may grant Registration rights to the Domain Name and/or rights to the Registration Code to any entity or person in its sole discretion, and Company shall have no rights or recourse against mTLD and/or Registrar relating to the registration or use of the Domain Name and/or Registration Code by any other such entity or person.
+_Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) acknowledge that the Registry Operator will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise Period or the Land Rush Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute over a Sunrise Registration.
 
-You Acknowledge and agree that Proxy or Proxy Registrations will not be allowed during the Sunrise Period, the Limited Industry Launch and the Premium Name Allocation and Auction Period, and in such an instance will constitute a material breach to this Agreement.
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .ORG Registry Operator, Public Interest Registry, and its subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-17\. provisions specific to .NAME registrATIONS
+_Reservation of Rights_.  We and the Registry Operator expressly reserve the right to deny, cancel or transfer any registration or transaction, or place any registered domain name on registry lock, hold or similar status, that we deem necessary, in our discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of us and/or Registry Operator, as well as their affiliates, subsidiaries, officers, directors, and employees, per the terms of this Agreement, or to correct mistakes made by Registry Operator or us in connection with the domain name registration. We and Registry Operator also reserve the right to place on registry lock, hold or similar status a domain name during resolution of a dispute.
 
-**Eligibility Requirements - Dispute Resolution**
+**20\. provisions specific to .us registrations**
 
-You represent and warrant that the name you are registering is your legal, personal name, or that you own the intellectual property rights to that name. If at any time it is discovered that it is not your legal personal name, or your intellectual property, the .NAME Registry Operator, Global Name Registry (GNR) and Go Daddy reserve the right to cancel your registration without refund, or transfer it to another party. In addition to the above you agree to be bound by the provisions of the entire Eligibility Requirements Dispute Resolution Policy.
+_Eligibility Requirements_.  As a .US domain name registrant, you hereby certify to the best of your knowledge that you meet all of the .US Nexus Requirements, which provide that registrants must be either (i) a natural person (a) who is a United States citizen, (b) who is a permanent resident of the United States or any of its possessions or territories, or (c) whose primary place of domicile is in the United States of America or any of its possessions. or (ii) an entity or organization that is (a) incorporated within one of the fifty United States, the district of Columbia, or any of the United States’ possessions or territories or (b) organized or otherwise constituted under the laws of a state of the United States of America, the District of Columbia or any of its possessions or territories. or (iii) a foreign entity or organization that has a bona fide presence in the United States of America or any of its possession or territories.
 
-**Consent - Defensive Registration**
+_Acknowledgements_.  You acknowledge and agree that we have requested specific information regarding how the Registrant meets the Nexus Requirements and that Registrant has willingly volunteered such information. Registrant understands and agrees that such information will be verified and will be shared with the .US Registry. You further acknowledge and agree that if such information cannot be verified, or if Registrant fails to continue to abide by the Nexus Requirements, the registered domain name shall be subject to immediate cancellation.
 
-A Defensive Registration is a registration designed for the protection of trademarks and service marks and may be granted to prevent a third party from registering a variation of a trademark or the exact trademark. If the name you wish to register is subject to a Defensive Registration, you have three (3) options: (i) you may register a variation of the name, (ii) you may challenge the Defensive Registration under the Eligibility Requirements Dispute Resolution Policy ("ERDRP"), or (iii) you may request Consent from the Defensive Registrant. You can request Consent by contacting the Defensive Registrant listed in the GNR Whois database and requesting consent to register the .NAME domain name. If the Defensive Registrant grants consent, they must confirm in writing that they grant consent. If the Defensive Registrant does not grant consent, you may wish to challenge the Defensive Registration under the ERDRP. The policy is available online.
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .US Registry Operator, NeuStar, and its directors, officers, employees, representatives, agents, affiliates, and stockholders from and against any and all claims, suits, actions, other proceedings, damages, liabilities, costs and expenses of any kind, including without limitation reasonable legal fees and expenses, arising out of or relating to the Registrant's domain name registration and use of any registered domain name. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-**Acceptable Use Policy**
+_.US Restrictions_.  The name servers listed for all .US domain names must be based within the United States of America or any of its possessions or territories. Further, you acknowledge and agree that you are not permitted to purchase private or proxy .US registrations. You shall register for any and all .US registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-You agree to be bound by the .NAME Acceptable Use Policy.  Among other limitations, this policy prohibits you from using your .NAME Email to engage in Spamming activities. You will be limited to a maximum of five hundred (500) messages sent from your .NAME at a time.
+_One Year Registration_.  If you are registering a .US domain name and you elect to take advantage of special pricing applicable to one-year registrations, we will automatically renew your domain name for an additional one-year period at the end of the first year term by taking payment from the Payment Method you have on file, unless you notify us that you do not wish to renew. You will be notified and given the opportunity to accept or decline the one-year renewal prior to your domain name expiration date. In the event you decide not to renew your one-year .US domain name for a second year, your domain name registration will automatically revert back to us and we will gain full rights of registration to such domain name. You agree that if you delete or transfer your .US domain name during the first year, you will automatically be charged the second year renewal fees.
 
-**Waiver of Liability**
-
-You agree that GNR and Go Daddy will have no liability of any kind for any loss or liability resulting from (i) the processing of registration requests prior to live SRS launch, including, without limitation, the ability or inability to obtain a domain name or email address registration using these processes. or (ii) any dispute over any domain name or email address registration, including the decision of any dispute resolution proceeding related to any of the foregoing.
-
-**Indemnification**
-
-You agree to indemnify, defend and hold harmless GNR, and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Item Holder's registration. You agree that this indemnification obligation shall survive the termination or expiration of this Agreement.
-
-18\. provisions specific to .ORG registrations
-
-**Indemnification**
-
-You agree to indemnify, defend and hold harmless the .ORG Registry Operator, Public Interest Registry, and its subcontractors, shareholders, directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
-
-19\. provisions specific to .us registrations
-
-You agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available online and are incorporated herein. These policies may prohibit you from changing, transferring, or assigning the name you have submitted as Registrant.
-
-The Registrant certifies that it meets the following Nexus Requirements to qualify to register to use a .US domain name.
-
-**A. Registrants must be either:**
-
-1.  A natural person (a) who is a United States citizen, (b) who is a permanent resident of the United States of America or any of its possessions or territories, or (c) whose primary place of domicile is in the United States of America or any of its possessions. or
-2.  An entity or organization that is (a) incorporated within one of the fifty (50) U.S. states, the district of Columbia, or any of the United States possessions or territories or (b) organized or otherwise constituted under the laws of a state of the United States of America, the District of Columbia or any of its possessions (including a federal, state, or local government of the United States, or a political subdivision thereof, and non-commercial organizations based in the United States). or
-3.  A foreign entity or organization that has a bona fide presence in the United States of America or any of its possession or territories that also (i) regularly engages in lawful activities (sales of goods or services or other business, commercial or non-commercial including not-for-profit activities) in the Unites States, or (ii) maintains an office or other property within the United States.
-
-**B. The name servers listed for all .US domain names must be based within the United States of America or any of its possessions or territories.**
-
-Registrant further certifies that Go Daddy has requested specific information regarding how the Registrant meets the Nexus requirement and that Registrant has willingly volunteered such information. Registrant understands and agrees that such information will be verified and will be shared with the .US Registry.
-
-Registrant understands and agrees that if such information cannot be verified, or if Registrant fails to continue to abide by the Nexus Requirements, the registered domain name shall be subject to immediate cancellation.
-
-**Indemnification**
-
-You agree to indemnify and hold harmless the .US Registry Operator, NeuStar, and its directors, officers, employees, representatives, agents, affiliates, and stockholders from and against any and all claims, suits, actions, other proceedings, damages, liabilities, costs and expenses of any kind, including without limitation reasonable legal fees and expenses, arising out of or relating to the Registrant's (i) .US domain name registration and (ii) use of any .US registered domain name.
-
-**.US Registration Restrictions**
-
-You understand and agree that when you register one of these domain names you are prohibited from using any profanity in the domain name pursuant to the .US Registration Review Policy available here. The definition of profanity can be found in _Federal Communications Commission v. Pacifica Foundation, 438 U.S. 726, 98 S. Ct. 3026, 57 L.Ed.2d 1073 (1978)._
-
-Further, you acknowledge and agree that you are not permitted to purchase private or proxy .US registrations. You shall register for any and all .US registrations using your personal information, which information you represent and warrant is current, accurate and complete.
-
-20\. provisions specific to .WS (WEBSITE) registrations
-
-**Indemnification**
+**21\. provisions specific to .WS registrations**
 
 You agree to indemnify, defend and hold harmless the .WS Registry Operator, Global Domains International, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
 
-You agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration policies for this ccTLD are available online and are incorporated herein.
+**22\. provisions specific to .XXX registrations**
 
-21\. provisions specific to ONE-YEAR .BIZ, .INFO, AND .US registrations
+_Acknowledgements._  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, eligibility requirements, policies and agreements, and any and all updates, revisions and modifications thereto, of the .XXX Registry Operator, ICM Registry, which are set forth on its website at www.icmregistry.com and are hereby incorporated by reference. You further acknowledge having read and understood and agree to be bound by the terms and conditions of the Registry Operator’s Registry-Registrant Agreement, which are incorporated herein.
 
-If you are registering a .INFO or .BIZ or .US domain name and you elect to take advantage of special pricing applicable to one-year registrations, Go Daddy will automatically renew your domain name for an additional one-year period at the end of the first year term by taking payment from the Payment Method you have on file, unless you notify Go Daddy that you do not wish to renew. You will be notified and given the opportunity to accept or decline the one-year renewal prior to your domain name expiration date. In the event you decide not to renew your one-year .info or .biz or .us domain name for a second year, your domain name registration will automatically revert back to Go Daddy and Go Daddy will gain full rights of registration to such domain name.
-
-You agree that if you delete or transfer your .INFO or .BIZ or .US domain name during the first year, you will automatically be charged the second year renewal fees.
-
-22\. provisions specific to .xxx registrations
-
-These terms and conditions (the “Agreement Schedule”) supplement the agreement between you and  Go Daddy (“Registrar”) that you use to Register or Reserve a name in the .XXX Top Level Domain (the “.XXX TLD”). As between you and ICM Registry, LLC (the “Registry”), in the event of any conflict between this Agreement Schedule and any of the terms of the Agreement with Registrar (the “Agreement”), this Agreement Schedule shall prevail.
-
-Capitalized terms used in this Agreement Schedule are specific to .XXX TLDs only (and do not apply to any other TLDs), unless the context provides otherwise.
-
-Please be aware that the Registry does not validate that the membership identification number (“Membership ID”) associated with an individual .XXX TLD is the correct Membership ID for such individual .XXX TLD. only that it is a valid Membership ID for any .XXX TLD.  As a registrant of an .XXX TLD, you are solely responsible for keeping your Membership ID secure and for any activity that occurs on your account, whether authorized by you or not.   
-
-A. GENERAL TERMS AND CONDITIONS
-
-1.  The Registry supports the protection of intellectual property. By applying to register or reserve a name in the .XXX TLD, you represent and warrant that neither your Registration nor your use of the name will infringe the intellectual property or other rights of any third party.
-
-2.  You acknowledge and agree to abide by all Registry Policies set forth on the Registry Website (www.icmregistry.com). You specifically acknowledge and agree that the Registry Policies may be modified by the Registry, and agree to comply with any such changes in the time period specified for compliance.
-
-3.  You agree to comply with applicable ICANN Requirements as set forth on the Registry Website.
-
-4.  You represent and warrant that you have provided current, complete, and accurate information in connection with your Registration Request or Reservation Request, and that you will correct and update this information to ensure that it remains current, complete, and accurate throughout the term of any resulting Registration or Reservation. Your obligation to provide current, accurate, and complete information is a material element of this Agreement Schedule, and the Registry reserves the right to immediately deny, cancel, terminate, suspend, lock, or transfer any Registration or Reservation if it determines, in its sole discretion, that the information is materially inaccurate.
-
-5.  You consent to the collection, use, processing, and/or disclosure of your personal information in the United States and in accordance with the Registry Privacy Policy posted on the Registry Website, and incorporated by reference here. If you are visiting the Registry Website from a country other than the country in which the Registry servers are located, your communications with the Registry may result in the transfer of information (including your membership account information) across international boundaries. you consent to such transfer.
-
-6.  You agree to submit to proceedings commenced under ICANN’s Uniform Domain Name Dispute Resolution Policy (“UDRP”), ICM’s Charter Eligibility Dispute Resolution Policy (“CEDRP”), and ICM’s Rapid Evaluation Service (“RES”), each as described on the Registry Website. You further agree to abide by the final outcome of any of those processes, subject to any appeal rights provided in those processes or the law, and you hereby release the Registry, its affiliates and service providers and/or IFFOR from any and all direct or indirect liability associated with such dispute resolution processes.
-
-7.  You acknowledge and agree that the Registry reserves the right to disqualify you or your agents from making or maintaining any Registrations or Reservations in the .XXX TLD if you are found to have repeatedly engaged in abusive registrations, in its sole discretion.
-
-8.  You acknowledge and agree that the Registry reserves the right to immediately deny, cancel, terminate, suspend, lock, or transfer any Reservation Request or Registration Request and any resulting Reservations or Registrations that it deems necessary, in its discretion, in furtherance of the following:
-
-1.  to enforce Registry Policies and ICANN Requirements, as amended from time to time;
-2.  to protect the integrity and stability of the Registry, its operations, and the .XXX TLD;
-3.  to comply with any applicable law, regulation, holding, order, or decision issued by a court, administrative authority, or dispute resolution service provider with jurisdiction over the Registry or you;
-4.  to establish, assert, or defend the legal rights of the Registry or a third party, or to avoid any liability, civil or criminal, on the part of the Registry as well as its affiliates, subsidiaries, owners, officers, directors, representatives, employees, contractors, and stockholders;
-5.  to correct mistakes made by the Registry or any Registrar in connection with a Registration or Reservation. or
-6.  as otherwise provided herein.
-
-9.  You agree to indemnify to the maximum extent permitted by law, defend and hold harmless the Registry, its affiliates and service providers, and the International Foundation for Online Responsibility (“IFFOR”), and each of their respective directors, owners, officers, employees, contractors, and agents, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your Registration or Reservation of, and/or your Registration Request or Registration Request for, any name in the .XXX TLD. You agree that the indemnifications stated herein survive termination of the Registrar-Registrant Agreement and this Agreement Schedule.
-
-10.  This Agreement Schedule, its interpretation, and all disputes between the parties arising in any manner hereunder, shall be governed by and construed in accordance with the internal laws of the State of Florida, without giving effect to any choice or conflict of law provision or rule (whether of the State of Florida or any other jurisdiction). You agree and submit to the exercise of personal jurisdiction of courts in the State of Florida for the purpose of litigating any such claim or action.
-
-11.  BY AGREEING TO THIS AGREEMENT SCHEDULE, YOU ARE: (1) WAIVING CLAIMS THAT YOU MIGHT OTHERWISE HAVE AGAINST THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS, AND/OR IFFOR BASED ON THE LAWS OF OTHER JURISDICTIONS, INCLUDING YOUR OWN. (2) IRREVOCABLY CONSENTING TO THE EXCLUSIVE JURISDICTION OF, AND VENUE IN, STATE OR FEDERAL COURTS IN THE STATE OF FLORIDA OVER ANY DISPUTES OR CLAIMS YOU HAVE WITH THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS, AND/OR IFFOR. AND (3) SUBMITTING YOURSELF TO THE PERSONAL JURISDICTION OF COURTS LOCATED IN THE STATE OF FLORIDA FOR THE PURPOSE OF RESOLVING ANY SUCH DISPUTES OR CLAIMS. YOU FURTHER AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO OUR SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
-
-12.  You acknowledge and agree that the Registry is and shall be an intended third party beneficiary of the obligations you undertake in this Agreement Schedule. You acknowledge and agree that the Registry’s third party beneficiary rights have vested, and shall survive any termination or expiration of your Registration or Reservation.
-
-13.  You acknowledge and agree that names in the .XXX TLD are provided “as is”, “with all faults” and “as available.” The Registry, its affiliates and service providers, and IFFOR make no express warranties or guarantees about such names.
-
-14.  TO THE GREATEST EXTENT PERMITTED BY LAW, THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS, AND IFFOR DISCLAIM IMPLIED WARRANTIES THAT THE .XXX TLD AND ALL SOFTWARE, CONTENT AND SERVICES DISTRIBUTED THROUGH THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS AND/OR IFFOR ARE MERCHANTABLE, OF SATISFACTORY QUALITY, ACCURATE, TIMELY, FIT FOR A PARTICULAR PURPOSE OR NEED, OR NON-INFRINGING. THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS AND/OR IFFOR DO NOT GUARANTEE THAT ANY NAME IN THE .XXX TLD, IFFOR SERVICES, OR REGISTRY OPERATIONS WILL MEET YOUR REQUIREMENTS, WILL BE ERROR-FREE, RELIABLE, WITHOUT INTERRUPTION OR AVAILABLE AT ALL TIMES. WE DO NOT GUARANTEE THAT THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE .XXX TLD, INCLUDING ANY SUPPORT SERVICES, WILL BE EFFECTIVE, RELIABLE, ACCURATE OR MEET YOUR REQUIREMENTS. WE DO NOT GUARANTEE THAT YOU OR THIRD PARTIES WILL BE ABLE TO ACCESS OR USE ANY NAME IN THE .XXX TLD (EITHER DIRECTLY OR THROUGH THIRD-PARTY NETWORKS) AT TIMES OR LOCATIONS OF YOUR CHOOSING. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY A REPRESENTATIVE OF THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS, AND/OR IFFOR SHALL CREATE A WARRANTY REGARDING OPERATIONS OF THE REGISTRY OR ANY NAME IN THE .XXX TLD.
-
-15.  THE REGISTRY, ITS AFFILIATES AND SERVICE PROVIDERS, AND/OR IFFOR SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES ARISING FROM YOUR USE OF, INABILITY TO USE, OR RELIANCE UPON A NAME IN THE .XXX TLD. THESE EXCLUSIONS APPLY TO ANY CLAIMS FOR LOST PROFITS, LOST DATA, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF THE REGISTRY, ITS AFFILIATES AND SERVICES PROVIDERS AND/OR IFFOR KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, THE REGISTRY’S LIABILITY, AND THE LIABILITY OF THE REGISTRY’S AFFILIATES AND SERVICE PROVIDERS, AND/OR IFFOR SHALL BE LIMITED TO THE MAXIUMUM EXTENT PERMITTED BY LAW. YOU FURTHER AGREE THAT IN NO EVENT SHALL THE REGISTRY’S, ITS AFFILIATES AND SERVICE PROVIDERS, AND/OR IFFOR’S TOTAL AGGREGATE LIABILITY EXCEED THE TOTAL AMOUNT PAID BY YOU FOR THE PARTICULAR PRODUCTS OR SERVICES THAT ARE THE SUBJECT OF THE CAUSE OF ACTION. YOU AGREE THAT THE RIGHTS STATED HEREIN SURVIVE TERMINATION OF THE AGREEMENT AND THIS AGREEMENT SCHEDULE.
-
-You may have additional consumer rights under your local laws that this Agreement Schedule cannot change.
-
-16.  The Registry reserves the right to modify, change, or discontinue any aspect of its services, agreements, this Agreement Schedule, including without limitation its prices and fees. You acknowledge and agree that the Registry, its affiliates and service providers, and/or IFFOR may provide any and all required notices, agreements, modifications and changes to this Agreement Schedule, and other information concerning the .XXX TLD electronically, by posting such items on the Registry Website. Your continued use of the Registry Website or your Registration and/or Reservation of any name in the .XXX TLD shall constitute your acceptance of the most current versions of those notices, agreements, modifications, and changes to this Agreement Schedule. In the event of any conflict between this Agreement Schedule and the notices, agreements, modifications or changes to this Agreement Schedule as posted from time to time on the Registry Website, the then-current terms of this Agreement Schedule posted on the Registry Website shall prevail.
-
-17.  You represent and warrant that your use of the Registry and/or any name in the .XXX TLD will not be for any illegal purposes, including without limitation:
-
-1.  any purposes that promote or encourage the promotion of child pornography or the exploitation of minors in any way;
-2.  the infringement of the intellectual property rights of any other person or entity;
-3.  the impersonation of any person or entity, or the submission of information on behalf of any other person or entity, without their express prior written consent;
-4.  the violation of privacy or publicity rights of any other person or entity;
-5.  the promotion or engagement in any spam or other unsolicited bulk email, or computer or network hacking or cracking. or
-6.  the interference with the operation of the Registry Website or services offered by the Registry and/or IFFOR.
-
-18.  Names in the .XXX TLD are intended for and available to Applicants and Registrants who are at least eighteen (18) years of age. By submitting a Registration Request, creating a Registration, or maintaining a Registration you represent and warrant that you are at least eighteen (18) years of age.
-
-19.  If you are entering into this Agreement Schedule on behalf of a corporate entity, you represent and warrant that you have the legal authority to bind such corporate entity to the terms and conditions contained in this Agreement Schedule, in which case the terms “you”, “your”, Applicant, or Registrant shall refer to such corporate entity. If, after your electronic acceptance of this Agreement Schedule, the Registry finds that you do not have the legal authority to bind such corporate entity, you will be personally responsible for the obligations contained in this Agreement Schedule, including but not limited to the payment obligations. The Registry shall not be liable for any loss or damage resulting from the Registry’s reliance on any instruction, notice, document, or communication reasonably believed by the Registry to be genuine and originating from an authorized representative of your corporate entity. If there is reasonable doubt about the authenticity of any such instruction, notice, document, or communication, the Registry reserves the right (but undertakes no duty) to require additional authentication from you.
-
-20.  Registry Website may contain links to third party websites that are not owned or controlled by the Registry. The Registry assumes no responsibility for the content, terms and conditions, privacy policies, or practices of any third party websites, including without limitation its service providers or dispute resolution providers.
-
-21.  No failure on the part of the Registry to exercise any power, right, privilege or remedy under this Agreement Schedule, and no delay on the part of the Registry in exercising any power, right, privilege or remedy under this Agreement Schedule, shall operate as a waiver of such power, right, privilege or remedy. and no single or partial exercise or waiver of any such power, right, privilege or remedy shall preclude any other or further exercise thereof or of any other power, right, privilege or remedy. The Registry shall not be deemed to have waived any claim arising out of this Agreement Schedule, or any power, right, privilege or remedy under this Agreement Schedule, unless the waiver of such claim, power, right, privilege or remedy is expressly set forth in a written instrument duly executed by the Registry. and any such waiver shall not be applicable or have any effect except in the specific instance in which it is given.
-
-22.  If any provision of this Agreement Schedule or the application thereof to any person, entity, or circumstances is determined to be invalid, illegal, or unenforceable in any jurisdiction, the remainder hereof, and the application of such provision to such person, entity, or circumstances in any other jurisdiction, shall not be affected thereby, and to this end the provisions of this Agreement Schedule shall be severable.
-
-23.  The Registry shall not be liable to you for any loss or damage resulting from any cause beyond its reasonable control (a “Force Majeure Event”) including, but not limited to, insurrection or civil disorder, war or military operations, national or local emergency, acts or omissions of government or other competent authority, compliance with any statutory obligation or executive order, fire, lightning, hurricane, explosion, flood, subsidence, weather of exceptional severity, and acts or omissions of persons of which the Registry is not responsible.
-
-24.  This Agreement Schedule (including its schedules, the privacy policy, the auction rules, the launch plan and related policies, as well as the domain name dispute resolution policies which are incorporated herein by this reference and form a part of it) constitutes the entire agreement between the parties concerning the subject matter of this Agreement Schedule and supersedes any prior agreements, representations, statements, negotiations, understandings, proposals or undertakings, oral or written, between the parties with respect to the subject matter expressly set forth herein.
-
-25.  In the event of termination of this Agreement Schedule, the following terms shall survive: Section 1.6, 1.9-1.15, 1.20, 1.23, and 1.25.
-
-B. ADDITIONAL TERMS FOR ALL SUNRISE APPLICANTS AND ALL LANDRUSH APPLICANTS
-
-1.  At the close of the Sunrise period, if more than one Sunrise application of any kind (AT, AD, or B) is made for a domain name, all Sunrise Applicants for that name will be notified of the claims made by the other Sunrise Applicants for that name and that name will proceed to auction, in accordance with the Auction Rules. You agree to be bound by the Auction Rules. In furtherance of this provision, by submitting a Sunrise application you agree that the Registry and/or its Validation Agent is authorized to share information relating to your Sunrise application with other Sunrise Applicants. In the event any Sunrise Applicant proceeds with a Registration, such Applicant will be deemed on notice of the intellectual property claims submitted by the other Sunrise Applicant(s) and may not claim lack of notice with regard to such Applicant(s) in any subsequent dispute proceeding. You acknowledge and agree that you may not use proxy services during the Sunrise period.
-
-2.  At the close of the Landrush period, if more than one Landrush application is made for a domain name, all Landrush applicants will be notified that the domain name will proceed to auction, in accordance with Auction Rules. You agree to be bound by the Auction Rules.
-
-C. ADDITIONAL TERMS FOR SUNRISE B (NON-COMMUNITY TRADEMARK) APPLICANTS
-
-1.  If you have submitted a Reservation Request under the Registry’s Sunrise B procedure, you acknowledge and agree that if your application is successful, your Reservation will not result in a Registration, does not convey any additional rights, including without limitation any additional intellectual property rights, and queries will resolve to a standard page that indicates that the name is reserved. You further acknowledge and agree that you may not in the future elect to convert this Reservation to a resolving Registration.
-
-2.  You acknowledge and agree that the Registry, its affiliates and service providers, and IFFOR shall have no liability of any kind for any direct or indirect loss or liability resulting from or arising in connection with the Sunrise processes, including, without limitation: (a) your ability or inability to reserve a name in the .XXX TLD through this process, and (b) any dispute between any parties arising in connection with this process.
-
-D. ADDITIONAL TERMS FOR REGISTRANTS OF NON-RESOLVING NAMES
-
-By applying to register a non-resolving name in .XXX TLD you acknowledge and agree that if your application is successful, your Registration will not resolve in the DNS. You further acknowledge and agree that you may not in the future elect to convert this Registration to a resolving Registration unless you subsequently qualify for membership in the Sponsored Community, complete the Membership Application Process on the Registry Website, and receive Membership Credentials that you provide to your Registrar.
-
-E. ADDITIONAL TERMS FOR MEMBERS OF THE SPONSORED COMMUNITY AND PROXY SERVICES
-
-1.  By applying to register a resolving name in the .XXX TLD, you represent and warrant that you are a member of the Sponsored Community or a Registry-approved proxy service acting on behalf of a member of the Sponsored Community.
-
-2.  In order to participate in the Registry’s Sunrise A or Landrush procedures, you acknowledge and agree that you must complete the Membership Application Process on the Registry Website within forty eight (48) hours after the close of either Sunrise or Landrush, as applicable to you. You further acknowledge and agree that if you do not complete the Membership Application Process within the above-referenced time frame, your request for a name in the .XXX TLD during the Sunrise A or Landrush procedures shall be deemed invalid.
-
-3.  If you are a member of the Sponsored Community, you represent and warrant that you have provided or will provide current, accurate and complete information in connection with the Membership Application Process, and will keep that information current. You understand that your Registration will not resolve unless and until you supply your Registrar with the Membership Credentials you received upon completing the Membership Application Process on the Registry Website.
-
-4.  If you are a Registry-authorized proxy service, you represent and warrant that (i) you have authenticated the member of the Sponsored Community that has provided or will provide the Membership Credentials in connection with the Registration, and (ii) you will comply with the most current version of the proxy service standards posted on the Registry Website.
-
-5.  You acknowledge and agree that Registry, its affiliates and service providers, and IFFOR shall have no liability of any kind for any direct or indirect loss or liability resulting from the proceedings and processes relating to the Sunrise Process, the Landrush process, General Availability period, or any process the Registry uses for allocating Premium Names or other names in the .XXX TLD, including without limitation: (a) the ability or inability of a Registrant to obtain a name in the .XXX TLD during these periods, and (b) any dispute, amongst any parties, arising in connection with any of those processes.
-
-6.  You acknowledge and agree that the content of websites in the .XXX TLD may not be appropriate, legal, and or available for use in all locations, and hosting the name in territories where such content is illegal is prohibited. If you choose to register and/or operate the name from a location outside the U.S., you do so on your own initiative. In all cases, you are responsible for compliance with local laws.
-
-F. ADDITIONAL TERMS APPLICABLE TO PREMIUM NAMES
-
-Notwithstanding Section 1.24 of this Agreement Schedule, you acknowledge and agree that if the name you are seeking to register is a Premium Name, as determined by the Registry in its sole discretion, then use of the name is also subject to the terms and conditions of a separate agreement between you and the Registry, and that your rights in any such names are also governed by the terms of that separate agreement.
-
-G. DEFINITIONS
-
-Any capitalized terms not otherwise defined in this Agreement Schedule have the means set forth on the Registry Website.
+_Membership ID_ _._  Please be aware that the Registry does not validate that the membership identification number (“Membership ID”) associated with an individual .XXX TLD is the correct Membership ID for such individual .XXX TLD. only that it is a valid Membership ID for any .XXX TLD.  As a registrant of an .XXX TLD, you are solely responsible for keeping your Membership ID secure and for any activity that occurs on your account, whether authorized by you or not.
 
 23\. OTHER COUNTRY CODE TOP LEVEL DOMAINS
 
@@ -478,470 +292,276 @@ You represent and warrant that you meet the eligibility requirements of each ccT
 
 24\. provisions specific to .AG registrations
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, Nic AG Limited’s, website, and which are incorporated herein.
+
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .AG Registry Operator and its directors, officers, shareholders, related companies, employees and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration and use thereof.
 
 25\. provisions specific to .AM registrations
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, ISOC-AM, website, which are incorporated herein. You further acknowledge having read and understood and agree to be bound by the BRS Media .AM Domain Name Registration Terms &. Conditions, which are also hereby incorporated by reference.
 
 26\. provisions specific to .ASIA registrations
 
-You represent and warrant that you meet all the eligibility requirements of this TLD. You further agree to be bound by any registry rules, policies and agreements for this TLD. The registration guidelines for this TLD are available here and are incorporated herein.
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, DotAsia Organisation Limited (“DotAsia”), website, and which are incorporated herein.
 
-You consent to the use, copying, distribution, publication, modification and other processing of your personal information by DotAsia Organisation Limited and its designees and agents in a manner consistent with the purposes specified pursuant to the Registry-Registrar agreement and with relevant mandatory local data protection laws and privacy.
+You further acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the .ASIA Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) submit to proceedings commenced under ICANN’s Charter Eligibility Dispute Resolution Policy. (iv) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. (v) comply with the .ASIA Charter Eligibility Requirement. and (vi) submit to proceedings commenced under other dispute resolution policies as set forth by DotAsia from time to time in the Registry Policies, including but not limited to expedited processes for suspension of a domain name by claims sought by intellectual property rights holders, Internet engineering and security experts or other competent claimants in the purpose of upholding the stability, security and integrity of the .ASIA Registry.
 
-You agree to correct and update the registration information for the domain name immediately during the registration term for the domain name.
+You, acting as Registrant Contact, represent and warrant that you have made known to the Charter Eligibility Declaration Contact (the "CED Contact"), and the CED Contact has agreed, that the Registrant Contact and the CED Contact will jointly be defined as the Registered Name Holder, and that it shall be jointly responsible for the domain name in the event of a dispute or a challenge over your legal entitlement to or the ownership of the domain name. The CED Contact shall be bound by the provisions in the DotAsia Organisation Limited's .ASIA Charter Eligibility Requirement Policy published from time to time. You, acting as Registrant Contact, agree that you have obtained an agreement from the CED Contact that you shall remain the Operating Contact for all operations of the domain name, including but not limited to domain name transfer and updates.
 
-You agree to comply with those ICANN requirements, standards, policies, procedures and practices for which DotAsia Organisation Limited has monitoring responsibility in accordance with the Registry Agreement or with other arrangements with ICANN.
+_Indemnification_.  You agree to indemnify, to the maximum extent permitted by law, defend and hold harmless DotAsia and its directors, officers, employees and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration and/or use. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-You agree to comply with all the operational standards, policies, procedures and practices for the .ASIA Registry as established from time to time in a non-arbitrary manner by DotAsia Organisation Limited ("Registry Policies"). You acknowledge that Registry Policies are applicable to all registrars and domain name registrants. Any changes to the Registry Policies by the DotAsia Organisation Limited that are consistent with the Registry Agreement shall be effective upon thirty (30) days' notice by DotAsia Organisation Limited to Registrar.
+_Reservation of Rights_.  We and the .ASIA Registry Operator expressly reserve the right to deny, cancel or transfer any registration that we deem necessary, in our discretion, to protect the integrity, security and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of us and/or Registry Operator, as well as their affiliates, subsidiaries, officers, directors and employees, per the terms of the registration agreement, or to correct mistakes made by Registry Operator or us in connection with the domain name registration. We and Registry Operator also reserve the right to freeze a domain name during resolution of a dispute.
 
-You agree to be bound by the terms and conditions as set down by DotAsia Organisation Limited during the initial launch and the general operations of the .ASIA TLD, including without limitation its Start-Up Policies where such terms and conditions include the submission to a binding arbitration for disputes arising from the Start-Up process or any allocation of domain names.
-
-You agree to submit to the proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy ("UDRP") and to proceedings commenced under ICANN's Charter Eligibility Dispute Resolution Policy ("CEDRP").
-
-You agree to submit to proceedings commenced under other dispute resolution policies as set forth by DotAsia Organisation Limited from time to time in the Registry Policies, including but not limited to expedited processes for suspension of a domain name by claims sought by intellectual property rights holders, Internet engineering and security experts or other competent claimants in the purpose of upholding the stability, security and integrity of the .ASIA Registry.
-
-You acknowledge and agree to comply with the .ASIA Charter Eligibility Requirement.
-
-You, acting as Registrant Contact, represent and warrant that you have made known to the Charter Eligibility Declaration Contact (the "CED Contact"), and the CED Contact has agreed, that the Registrant Contact and the CED Contact will jointly be defined as the Registered Name Holder, and that it shall be jointly responsible for the domain name in the event of a dispute or a challenge over your legal entitlement to or the ownership of the domain name. The CED Contact shall be bound by the provisions in the DotAsia Organisation Limited's .ASIA Charter Eligibility Requirement Policy published from time to time.
-
-You, acting as Registrant Contact, agree that it has obtained an agreement from the CED Contact that you shall remain the Operating Contact for all operations of the domain name, including but not limited to domain name transfer and updates.
-
-You agree to indemnify, to the maximum extent permitted by law, defend and hold harmless the Registry Operator DotAsia Organisation Limited and its director, officers, employees and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration and or use.
-
-Notwithstanding the other provisions in this Agreement, you agree that this indemnification obligation shall survive the termination or expiration of this Agreement.
-
-You acknowledge and agree that DotAsia Organisation Limited and Go Daddy, acting in consent with DotAsia Organisation Limited, reserves the right to deny, cancel or transfer any registration that it deems necessary, in its sole discretion (i) to protect the integrity, security and stability of the registry. (ii) to comply with all appropriate laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (iii) to avoid any liability, civil or criminal, on the part of DotAsia Organisation Limited, as well as its affiliates, subsidiaries, officers, directors, representatives, employees and stockholders. (iv) for violations of the terms and conditions herein. or (v) to correct mistakes made by DotAsia Organisation Limited, Go Daddy or any registrar in connection with a domain name registration. DotAsia Organisation Limited also reserves the right to freeze a domain name such as placing a domain name on hold, lock or other status during the resolution of a dispute.
-
-Notwithstanding anything in this Agreement to the contrary, DotAsia Organisation Limited, the Registry Operator of the .ASIA TLD, is and shall be an intended third-party beneficiary of this Agreement. As such, you acknowledge and agree that the third-party beneficiary rights of DotAsia Organisation Limited have vested and that it has relied on its third-party beneficiary rights under this Agreement in agreeing to Go Daddy being a registrar for the .ASIA TLD. Additionally, the third-party beneficiary rights of DotAsia Organisation Limited shall survive any termination or expiration of this Agreement.
-
-You acknowledge and agree that the submitting of a "Sunrise or General Pre-registration Application" does not ensure that a domain name shall be successfully awarded or registered. In the event that an application does not result in a successful registration, the registration fee shall be refunded. In the case of a "Sunrise Application" where an application fee was collected, that fee shall not be refunded.
-
-In the event there is a conflict between the provisions of this section and the other provisions of this Agreement, the provisions of this section shall control.  
+_Third Party Beneficiary_.  Notwithstanding anything in this Agreement to the contrary, DotAsia is and shall be an intended third-party beneficiary of this Agreement. As such, the parties to this Agreement acknowledge and agree that the third-party beneficiary rights of DotAsia have vested and that DotAsia has relied on its third-party beneficiary rights under this Agreement in agreeing to us being a registrar for the .ASIA top level domain. Additionally, the third-party beneficiary rights of DotAsia shall survive any termination or expiration of this Agreement.
 
 27\. provisions specific to .AT registrations
 
-You understand and agree that in order to register these domain names, a pre-registration DNS validation check is required by the Registry. You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available here and are incorporated herein.
+You understand and agree that in order to register a .AT domain name, a pre-registration DNS validation check is required by the Registry. If you are registering a .AT domain name, you further acknowledge and agree to obey, comply with and be bound by any and all registry rules, eligibility requirements, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s website, and which are incorporated herein.
 
-28\. provisions specific to .Au registrations
+**28\. provisions specific to .Au registrations**
 
-**1\. auDA AND REGISTRAR'S AGENCY**
+_auDA and Registrar’s Agency_. In this Agreement, **auDA** means .au Domain Administration Limited ACN 079 009 340, the .au domain names administrator. The Registrar acts as agent for auDA for the sole purpose, but only to the extent necessary, to enable auDA to receive the benefit of rights and covenants conferred to it under this Agreement. auDA is an intended third party beneficiary of this Agreement.
 
-1.1 In this agreement, **auDA** means .au Domain Administration Limited ACN 079 009 340, the .au domain names administrator.
+_auDA Published Policy_. In this clause, **auDA Published Policies** means those specifications and policies established and published by auDA from time to time on its website. Registrant must comply with all auDA Published Policies, as they are incorporated into and form a part of this Agreement. In the event of any inconsistency between any auDA Published Policy and this Agreement, then the auDA Published Policy will prevail to the extent of such inconsistency. Registrant acknowledges that under the auDA Published Policies (i) there are mandatory terms and conditions that apply to all domain names licences, and such terms and conditions are incorporated into, and form part of, this agreement, (ii) Registrant is bound by and must submit to the .au Dispute Resolution Policy. and (iii) auDA may delete or cancel the registration of a .AU domain name.
 
-1.2 The Registrar acts as agent for auDA for the sole purpose, but only to the extent necessary, to enable auDA to receive the benefit of rights and covenants conferred to it under this agreement. auDA is an intended third party beneficiary of this agreement.
+_auDA's Liabilities and Indemnity_. To the fullest extent permitted by law, auDA will not be liable to Registrant for any direct, indirect, consequential, special, punitive or exemplary losses or damages of any kind (including, without limitation, loss of use, loss or profit, loss or corruption of data, business interruption or indirect costs) suffered by Registrant arising from, as a result of, or otherwise in connection with, any act or omission whatsoever of auDA, its employees, agents or contractors. Registrant agrees to indemnify, keep indemnified and hold auDA, its employees, agents and contractors harmless from all and any claims or liabilities, arising from, as a result of, or otherwise in connection with, Registrant's registration or use of its .AU domain name. Nothing in this document is intended to exclude the operation of the _Trade Practices Act 1974_.
 
-**2\. auDA PUBLISHED POLICY**
+_Warrants_. You represent and warrant that each of the warranties to us and auDA, as specified in auDA's Mandatory Terms and Conditions Applying to .au Domain Name Licences (2008-07), and any other policy introduced by auDA in substitution, replacement or amendment to that policy. These warranties include, without limitation, that all information supplied to us for the registration of the domain name are true, complete and correct. You accept that auDA or we can cancel the registration of the domain name if any of these warranties are not true. 
 
-2.1 In this clause, **auDA Published Policies** means those specifications and policies established and published by auDA from time to time at http://ww.auda.org.au/policy/current-policies/.
+By submitting an application or renewing your domain name, you represent and warrant that: (a) all information provided to register or renew the domain name (including all supporting documents, if any) is true, complete and correct, and is not misleading in any way, and the application is made in good faith. (b) you meet, and will continue to meet, the eligibility criteria prescribed in auDA Published Policies for the domain name for the duration of the domain name license. (c) you have not previously submitted an application for the domain name with another registrar using the same eligibility criteria, and the other registrar has rejected the application. (d) you acknowledge and agree that even if the domain name is accepted for registration, your entitlement to register the domain name may be challenged by others who claim to have an entitlement to the domain name. and (e) you acknowledge and agree that auDA or the registrar can cancel the registration of the domain name if any of the warranties set forth above are found to be untrue, incomplete, incorrect or misleading.
 
-2.2 Registrant must comply with all auDA Published Policies, as if they were incorporated into, and form part of, this agreement. In the event of any inconsistency between any auDA Published Policy and this agreement, then the auDA Published Policy will prevail to the extent of such inconsistency.
+**29\. provisions specific to .BE registrations**
 
-2.3 Registrant acknowledges that under the auDA Published Policies:
-
-2.3.1 there are mandatory terms and conditions that apply to all domain names licences, and such terms and conditions are incorporated into, and form part of, this agreement. and
-
-2.3.2 Registrant is bound by, and must submit to, the .au Dispute Resolution Policy. and
-
-2.3.3 auDA may delete or cancel the registration of a .au domain name.
-
-**3\. auDA'S LIABILITIES AND INDEMNITY**
-
-3.1 To the fullest extent permitted by law, auDA will not be liable to Registrant for any direct, indirect, consequential, special, punitive or exemplary losses or damages of any kind (including, without limitation, loss of use, loss or profit, loss or corruption of data, business interruption or indirect costs) suffered by Registrant arising from, as a result of, or otherwise in connection with, any act or omission whatsoever of auDA, its employees, agents or contractors.
-
-3.2 Registrant agrees to indemnify, keep indemnified and hold auDA, its employees, agents and contractors harmless from all and any claims or liabilities, arising from, as a result of, or otherwise in connection with, Registrant's registration or use of its .au domain name.
-
-3.3 Nothing in this document is intended to exclude the operation of _Trade Practices Act 1974_.
-
-**4.  Warrants**
-
-You represent and warrant that each of the warranties to Go Daddy and auDA, as specified in auDA's Mandatory Terms and Conditions Applying to .au Domain Name Licences (2008-07), and any other policy introduced by auDA in substitution, replacement or amendment to that policy. These warranties include, without limitation, that all information supplied to Go Daddy for the registration of the Domain Name are true, complete and correct. The Licensee accepts that auDA or Go Daddy can cancel the registration of the Domain Name if any of these warranties are not true. 
-
-By submitting an application or renewing your domain, you represent and warrant that: (a) all information provided to register or renew the domain name (including all supporting documents, if any) is true, complete and correct, and is not misleading in any way, and the application is made in good faith. (b) you meet, and will continue to meet, the eligibility criteria prescribed in auDA Published Policies for the domain name for the duration of the domain name license. (c) you have not previously submitted an application for the domain name with another registrar using the same eligibility criteria, and the other registrar has rejected the application. (d) you acknowledge and agree that even if the domain name is accepted for registration, your entitlement to register the domain name may be challenged by others who claim to have an entitlement to the domain name. and (e) you acknowledge and agree that auDA or the registrar can cancel the registration of the domain name if any of the warranties set forth above are found to be untrue, incomplete, incorrect or misleading.
-
-29\. provisions specific to .BE registrations
-
-You understand and agree that in order to register these domain names, a pre-registration DNS validation check is required by the Registry. You agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available online and are incorporated herein.
+You understand and agree that in order to register a .BE domain name, a pre-registration DNS validation check is required by the Registry. If you are registering a .BE domain name, you acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, DNS.BE, website, and which are incorporated herein.
 
 **30\. provisions specific to .br registrations**
 
-You agree to be bound by the current and future .BR registry policies as detailed or linked to on the .br website, located here.
+If you are registering a .BR domain name, you acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, NIC.BR, website, and which are hereby incorporated by reference.
 
-**31\.** provisions specific to .bz registrations
+**31\. provisions specific to .BZ registrations**
 
-You agree to be bound by current future .BZ registry policies as detailed or linked to on the .BZ website, located here.
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, Belizenic, website, and which are incorporated herein.
 
-You acknowledge and agree that the .BZ registry reserves the right to instruct its registry services provider to deny, cancel, transfer or otherwise make unavailable any registration that it deems necessary, in its discretion: (1) to protect the integrity and stability of the registry. (2) to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (3) to avoid any liability, civil or criminal, on the part of the .BZ Registry, as well as its affiliates, subsidiaries, officers, directors, representatives, employees, and stockholders. (4) for violations of this Agreement. or (5) to correct mistakes made by the .BZ registry or any registrar in connection with a domain name registration. The .BZ registry also reserves the right to place on LOCK, HOLD or other similar status any domain name during resolution of a dispute.
+_Reservation of Rights_.  The .BZ Registry expressly reserves the right to instruct its registry services provider to deny, cancel, transfer or otherwise make unavailable any registration that it deems necessary, in its discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of the .BZ Registry, as well as its affiliates, subsidiaries, officers, directors, representatives, employees and stockholders, for violations of this Agreement, or to correct mistakes made by the .BZ Registry or us in connection with a domain name registration. The .BZ Registry also reserves the right to place on lock, hold or other similar status any domain name during resolution of a dispute.
 
-32\. provisions specific to .ca registrations
+**32\. provisions specific to .CA registrations**
 
-a. CIRA may, at its option, extend any period for the registration of a Domain Name at no charge to the Registrar or you for such further period of time as CIRA may determine, in its sole discretion;
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s, CIRA, website, and which are hereby incorporated by reference.
 
-b. You acknowledge and agree that CIRA shall not be liable to you for any loss, damage, or expense arising out of CIRA's failure or refusal to register a Domain Name, CIRA's failure or refusal to renew a Domain Name Registration, CIRA's registration of a Domain Name, CIRA's renewal of a Domain Name Registration, CIRA's failure or refusal to transfer a Domain Name Registration, CIRA's transfer of a Domain Name Registration, CIRA's failure or refusal to maintain or modify a Domain Name Registration, CIRA's maintenance of a Domain Name Registration, CIRA's modification of a Domain Name Registration, CIRA's failure to cancel a Domain Name Registration, CIRA's cancellation of a Domain Name Registration from the Registry, the loss of Membership in CIRA resulting from CIRA's cancellation of a Domain Name Registration from the Registry or from a Member's failure to comply with the Registry PRP, or CIRA's refusal to admit an applicant as a Member;
+You acknowledge and agree that registration of your selected domain name in your first application to CIRA shall not be effective until you have entered into and agreed to be bound by CIRA's Registrant Agreement.
 
-c. In no event shall you pursue any Claim against CIRA and in no event shall CIRA be liable for any direct, indirect, special, punitive, exemplary or consequential damages including, but not limited to, damages resulting from loss of use, lost profits, lost business revenue, or third-party damages or arising from any breach by the Registrar of its obligations under any agreement between the Registrar and a Registrant or the Registrar Agreement between CIRA and the Registrar;
+You acknowledge and agree that registration of a domain name does not create any proprietary right for you, the registrar, or any other person in the name used as a domain name or the domain name registration and that the entry of a domain name in the Registry or in the Whois shall not be construed as evidence or ownership of the domain name registered as a domain name. You shall not in any way transfer or purport to transfer a proprietary right in any domain name registration or grant or purport to grant as security or in any other manner encumber or purport to encumber a domain name registration.
 
-d. Registration of your selected Domain Name in its first application to CIRA shall not be effective until you have entered into and agreed to be bound by CIRA's Registrant Agreement;
+_Reservation of Rights_.  CIRA may, at its option, extend any period for the registration of a Domain Name at no charge to the registrar or you for such further period of time as CIRA may determine, in its sole discretion.
 
-e. The Registrar shall immediately give notice to you in the event that the Registrar is no longer a CIRA Certified Registrar, has had its certification as a CIRA Certified Registrar suspended or terminated, or the Registrar Agreement between CIRA and the Registrar is terminated or expires. CIRA may post notice of such suspension, termination, or expiry on its website and may, if CIRA deems appropriate, give notice to the Registrants thereof;
+CIRA shall have the right, at any time and from time to time, acting reasonably, to amend the Registrar Agreement between CIRA and the registrar, and any or all of the Registry PRP and to adopt new Registry PRP not yet in effect. Any such amendment will be binding and effective on the registrar thirty (30) days after CIRA gives notice of such amendment by email to the registrar. The registrar and you agree to promptly amend the agreement between the registrar and you to reflect any amendments to Section 4.2 of the Registrar Agreement between CIRA and the registrar.
 
-f. In the event that the Registrar is no longer a CIRA Certified Registrar, has had its certification as a CIRA Certified Registrar suspended or terminated or in the event the Registrar Agreement between CIRA and the Registrar is terminated or expires, you shall be responsible for changing its Registrar of Record to a new CIRA Certified Registrar within thirty (30) days of the earlier of notice thereof being given to you by (i) the Registrar or (ii) CIRA in accordance with CIRA's then current Registry PRP. provided, however, that if any of the Registrant's Domain Name Registration(s) is scheduled to expire within thirty (30) days of the giving of such notice, then you shall have thirty (30) days from the anniversary date of the registration(s), to register with a new CIRA certified registrar and to renew such Domain Name Registration(s) in accordance with the Registry PRP;
+You further acknowledge and agree that the registrar may make changes to the Administrative Contact details at any time without having to comply with the change of critical information approval process (as set out in the applicable Registry PRP), provided you have granted your registrar the authority to do so and have not revoked said authority. If you have two (2) or more registrars, only one (1) of your registrars may be granted said authority. You may at any time revoke said authority or provide said authority to another of your Registrars.
 
-g. You acknowledge and agree that, should there be insufficient funds prepaid by the Registrar in the CIRA Deposit Account to be applied in payment of any Fees, CIRA may in its sole discretion stop accepting applications for Domain Name Registrations from the Registrar, stop effecting registrations of Domain Names and transfers, renewals, modifications, and cancellations of Domain Name Registrations requested by the Registrar and stop performing other billable transactions requested by the Registrar not paid in full and CIRA may terminate the Registrar Agreement between CIRA and the Registrar;
+You acknowledge and agree that your registrar may, in accordance with the applicable Registry PRP, cancel your Domain Name Registrations within seven (7) days of activation and cancel the renewal of your domain name registration provided that the renewal term has not yet commenced.
 
-h. You shall not, directly or indirectly, through registration or use of its Domain Name or otherwise: (i) violate or contribute to the violation of the intellectual property rights or other rights of any other Person. ii. defame or contribute to the defamation of any other Person. or (ii) unlawfully discriminate or contribute to the unlawful discrimination of any other Person;
+_Limitations_.  You shall not, directly or indirectly, through registration or use of your domain name or otherwise violate or contribute to the violation of the intellectual property rights or other rights of any other person, defame or contribute to the defamation of any other person, or unlawfully discriminate or contribute to the unlawful discrimination of any other person.
 
-i. You agree that CIRA shall not be responsible for the use of any Domain Name in the Registry and that CIRA shall not be responsible in any way whatsoever for any conflict or dispute with or any actual or threatened Claim against a Registrar or you, including one relating to a registered or unregistered trade-mark, a corporate, business, or other trade-name, rights relating to a name or other identifying indicia of an individual or any other intellectual property rights of a third party or relating to the defamation of or unlawful discrimination with respect to any other Person;
+You acknowledge and agree that CIRA shall not be liable to you for any loss, damage, or expense arising out of CIRA's registration or failure or refusal to register a domain name, CIRA's renewal or failure or refusal to renew a domain name registration, CIRA's transfer or failure or refusal to transfer a domain name registration, CIRA's maintenance, modification, or failure or refusal to maintain or modify a domain name registration, CIRA's cancellation or failure to cancel a domain name registration, the loss of membership in CIRA resulting from CIRA's cancellation of a domain name registration from the Registry or from a member's failure to comply with the Registry PRP, or CIRA's refusal to admit an applicant as a member. You acknowledge and agree that CIRA shall not be liable to you for any loss, damage, or expense arising as a result of the disclosure or failure to disclose registrant information in the WHOIS or as permitted in the Registry PRP. You acknowledge and agree that CIRA shall not have any liability to you for any loss, damage or expense arising as a result of any correspondence from a third party which CIRA reviews or sends to you or for CIRA’s failure, or delay, in reviewing or sending such correspondence.
 
-j.  You shall not, directly or indirectly, through registration or use of its Domain Name or otherwise: (i) violate or contribute to the violation of the intellectual property rights or other rights of any other Person. (ii) defame or contribute to the defamation of any other Person. or (iii) unlawfully discriminate or contribute to the unlawful discrimination of any other Person;
+In no event shall you pursue any claim against CIRA and in no event shall CIRA be liable for any direct, indirect, special, punitive, exemplary or consequential damages including, but not limited to, damages resulting from loss of use, lost profits, lost business revenue, or third-party damages or arising from any breach by the registrar of its obligations under any agreement between the registrar and you or the Registrar Agreement between CIRA and the registrar.
 
-k. CIRA shall have the right, at any time and from time to time, acting reasonably, to amend the Registrar Agreement between CIRA and the Registrar, and any or all of the Registry PRP and to adopt new Registry PRP not yet in effect. Any such amendment will be binding and effective on the Registrar thirty (30) days after ICRA gives notice of such amendment by email to the Registrar. The Registrar and you agree to promptly amend the agreement between the Registrar and you to reflect any amendments to Section 4.2 of the Registrar Agreement between CIRA and the Registrar;
+You agree that CIRA shall not be responsible for the use of any domain name in the Registry and that CIRA shall not be responsible in any way whatsoever for any conflict or dispute with or any actual or threatened claim against a registrar or you, including one relating to a registered or unregistered trade-mark, a corporate, business, or other trade-name, rights relating to a name or other identifying indicia of an individual or any other intellectual property rights of a third party or relating to the defamation of or unlawful discrimination with respect to any other Person.
 
-l. You acknowledge and agree that registration of a Domain Name does not create any proprietary right for you, the Registrar, or any other Person in the name used as a Domain Name or the Domain Name Registration and that the entry of a Domain Name in the Registry or in the Whois shall not be construed as evidence or ownership of the Domain Name registered as a Domain Name. You shall not in any way transfer or purport to transfer a proprietary right in any Domain Name Registration or grant or purport to grant as security or in any other manner encumber or purport to encumber a Domain Name Registration;
+_CIRA Certified Registrar_.  The registrar shall immediately give notice to you in the event that it is no longer a CIRA Certified Registrar, has had its certification as a CIRA Certified Registrar suspended or terminated, or the Registrar Agreement between CIRA and the Registrar is terminated or expires. CIRA may post notice of such suspension, termination, or expiry on its website and may, if CIRA deems appropriate, give notice to the registrants thereof. In the event that the registrar is no longer a CIRA Certified Registrar, has had its certification as a CIRA Certified Registrar suspended or terminated or in the event the Registrar Agreement between CIRA and the Registrar is terminated or expires, you shall be responsible for changing your Registrar of Record to a new CIRA Certified Registrar within thirty (30) days of the earlier of notice thereof being given to you by (i) the Registrar or (ii) CIRA in accordance with CIRA's then current Registry PRP. provided, however, that if any of your domain name registrations are scheduled to expire within thirty (30) days of the giving of such notice, then you shall have thirty (30) days from the anniversary date of the registration(s), to register with a new CIRA certified registrar and to renew such domain name registration(s) in accordance with the Registry PRP.
 
-m. You further acknowledge and agree that the Registrar may make changes to the Administrative Contact details at any time without having to comply with the change of critical information approval process (as set out in the applicable Registry PRP), provided you have granted your Registrar the authority to do so and has not revoked said authority. If you have two (2) or more Registrars, only one (1) of your Registrars may be granted said authority. You may at any time revoke said authority or provide said authority to another of your Registrars;
+You acknowledge and agree that should there be insufficient funds prepaid by the registrar in the CIRA Deposit Account to be applied in payment of any fees, CIRA may in its sole discretion stop accepting applications for domain name registrations from the registrar, stop effecting registrations of domain names and transfers, renewals, modifications, and cancellations requested by the registrar and stop performing other billable transactions requested by the registrar not paid in full and CIRA may terminate the Registrar Agreement between CIRA and the Registrar.
 
-n. You acknowledge and agree that your Registrar may, in accordance with the applicable Registry PRP, cancel your Domain Name Registrations within seven (7) days of Activation and cancel the renewal of your Domain Name Registration provided that the renewal term has not yet commenced.
+**33\. provisions specific to .CC registrations**
 
-33\. provisions specific to .CC registrations
+_Acknowledgements_.  You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available here and are incorporated herein.
 
-You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available here and are incorporated herein.
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .CC Registry Operator, Verisign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name Holder's domain name registration.
 
-**Indemnification**
+**34\. PROVISIONS SPECIFIC TO .cn REGISTRATIONS**
 
-You agree to indemnify, defend and hold harmless the .CC Registry Operator, Verisign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name Holder's domain name registration.
+_Limitations on Registration_.  You may not register or use a domain name that is deemed by China Internet Network Information Center ("CNNIC") to (i) be against the basic principles prescribed in the Constitution of the Peoples Republic of China ("PRC"). (ii) jeopardize national security, leak state secrets, intend to overturn the government, or disrupt the state of integrity of the PRC. (iii) harm national honor and national interests of the PRC. (iv) instigate hostility or discrimination between different nationalities, or disrupt the national solidarity of the PRC. (v) violate the PRC's religion policies or propagate cult and feudal superstition. (vi) spread rumors, disturb public order or disrupt social stability of the PRC. (vii) spread pornography, obscenity, gambling, violence, homicide, terror or instigate crimes in the PRC. (viii) insult, libel against others and infringe other people's legal rights and interests in the PRC. or (ix) take any other action prohibited in laws, rules and administrative regulations of the PRC.
 
-34\. PROVISIONS SPECIFIC TO .cn REGISTRATIONS
+_Restrictions on Transfer of cnTLD Domain Names_.  You understand that you may not transfer to or from a domain name registrar that is headquartered or controlled by an entity located inside China.
 
-If you are registering a .CN domain name you also agree to:
+_Jurisdiction_.  For the adjudication of disputes concerning or arising from use of the registered .CN domain name, you agree to submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts of (1) your domicile state, (2) Arizona, and (3) the People's Republic of China.
 
-**Limitations on Registration**
+_Suspension of Service_.  You agree that your registration of a .CN domain name shall be subject to suspension, cancellation, or transfer pursuant to any NeuLevel or CNNIC adopted specification or policy.
 
-You may not register or use a domain name that is deemed by China Internet Network Information Center ("CNNIC") to:
+_Compliance with CNNIC Dispute Resolution Policy_.  You agree to obey, comply with and be bound by the CNNIC Dispute Resolution Policy and any and all updates, revisions and modifications, which may be made by CNNIC from time to time, and which is incorporated herein.
 
-1.  Be against the basic principles prescribed in the Constitution of the Peoples Republic of China ("PRC");
-2.  Jeopardize national security, leak state secrets, intend to overturn the government, or disrupt the state of integrity of the PRC;
-3.  Harm national honor and national interests of the PRC;
-4.  Instigate hostility or discrimination between different nationalities, or disrupt the national solidarity of the PRC;
-5.  Violate the PRC's religion policies or propagate cult and feudal superstition;
-6.  Spread rumors, disturb public order or disrupt social stability of the PRC;
-7.  Spread pornography, obscenity, gambling, violence, homicide, terror or instigate crimes in the PRC;
-8.  Insult, libel against others and infringe other people's legal rights and interests in the PRC. or
-9.  Take any other action prohibited in laws, rules and administrative regulations of the PRC.
+_Right to Accept Notice_.  You give us the right to accept written complaints from third parties against false and/or inaccurate Whois data and you agree to follow any procedural regulation that may exist between the .CN registry operator, currently NeuLevel Inc. and us.
 
-**Restrictions on Transfer of cnTLD Domain Names**
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .CN Registry Operator, NeuLevel, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-You understand that you may not transfer to or from a domain name registrar that is headquartered or controlled by an entity located inside China.
+_.CN Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .CN registrations. You shall register for any and all .CN registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-**Jurisdiction**
+**35\. provisions specific to .co registrations** 
 
-For the adjudication of disputes concerning or arising from use of the registered .cn Domain Name, you agree to submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts of (1) your domicile state, (2) Arizona, and (3) the People's Republic of China.
+_Acknowledgements_.  You shall comply with the operational standards, policies, procedures, and practices for the .CO TLD as set forth in the MINTIC Agreement as updated from time to time by the Registry in a non-arbitrary and non-discriminatory manner including, without limitation, adopted ICANN policies.
 
-**Suspension of Service:**
+You further hereby acknowledge and agree that (i) the registration and exclusive and perpetual right of use and enjoyment for any registered name may be cancelled if the Registry determines that you have provided information that is incorrect, false or inaccurate either in the initial registration process or in any subsequent communications or in the event you violate any of the terms of this Agreement. (ii) you will follow and be bound by all Registry policies (including, without limitation, the Administrator Privacy Policy), as the same may be updated, modified or replaced from time to time, and to subject yourself to any dispute resolution process for the resolution of disputes regarding registered names that may be adopted by Registry, as the same may be updated, modified or replaced from time to time including, but not limited to, any expedited processes for suspension of a domain name due to claims sought by intellectual property rights holders. (iii) your domain name may be suspended, terminated, canceled or transferred in the interest of safeguarding compliance with Registry's security or registration policies or as a result of a dispute resolution. (iv) all official contact, correspondence and/or other information sent from or on behalf of Registry or any other relevant official will be transmitted to the administrative contact information that appears in the Registry Database and that the designated administrative contact is authorized to receive all such communication and information. (v) you assume all responsibility and liability arising out of any assignment by you of the registered name including, without limitation, with respect to any users, clients, customers, licensees or other persons who may be using any sub-domain name of the registered name or any website associated with the registered name. (vi) neither acceptance of your registration request nor the actual registration of any registered eomain shall be deemed an indication that Registry or the Colombian Government has made any determination regarding the legality of the registration, the extent to which your registration and exclusive and perpetual right of use and enjoyment of the registered name may violate any applicable laws, rules, regulations, policies, procedures, ordinances or decrees or infringe on the rights of any other person, and that neither Registry nor the Colombian Government shall have any liability or responsibility arising therefrom. and (vii) shall be bound by the terms and conditions of the initial launch and general operation of the .CO TLD, including without limitation the sunrise and landrush periods, and the corresponding dispute resolution policies, and that administrator shall have no liability of any kind for any loss or liability resulting from (a) the ability or inability of you to obtain a registered name during these periods, or (b) the results of any dispute procedures.
 
-You agree that your registration of the .cnTLD domain name shall be subject to suspension, cancellation, or transfer pursuant to any NeuLevel or CNNIC adopted specification or policy.
+_Dispute Resolution_.  You acknowledge that you have read and understand and agree to be bound by the terms and conditions of the Uniform Domain Name Dispute Resolution Policy adopted by ICANN (the "UDRP"), as the same may be amended from time to time, and which is hereby incorporated and made an integral part of this Agreement. The UDRP policy, which is hereby adopted by Registrar as an Adopted ICANN Policy, sets forth the terms, conditions and procedures that govern disputes between you and any party other than the Registry over the registration and/or use of a registered name. Registry will not review, monitor, or otherwise verify that any particular registered name is being used in compliance with the UDRP process, any other Registry Policy or any Governmental Requirement.
 
-**Compliance with CNNIC Dispute Resolution Policy**
+_Indemnification_.  You agree to (within thirty days of demand) indemnify, defend and hold harmless the .CO Registry and us, and our respective affiliates and subsidiaries, as well as each of our respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating in any way to your domain name registration including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration. You shall not enter into any settlement or compromise of any such indemnifiable claim without our prior written consent, which consent shall not be unreasonably withheld. This indemnification obligation shall survive the termination or expiration of this Agreement for any reason.
 
-You agree to obey, comply with and be bound by the CNNIC Dispute Resolution Policy and any and all updates, revisions and modifications, which may be made by CNNIC from time to time. The CNNIC Dispute Resolution Policy may be currently accessed here.
+_Jurisdiction_.   The adjudication of all disputes, claims or controversies regarding the registration, ownership, use, transfer, assignment, loss, cancellation, or suspension of any registered name or otherwise relating to the .CO domain name between you and the Registry shall be governed exclusively by the laws of Colombia and that any such disputes, claims or controversies shall be brought and heard exclusively in the courts located in Bogotá, Colombia.
 
-**Right to Accept Notice**
+**36\. provisions specific to .DE registrations**
 
-You give Go Daddy the right to accept written complaints from third parties against false and/or inaccurate Whois data and you agree to follow any procedural regulation that may exist between the .CN registry operator, currently NeuLevel Inc. and Go Daddy.
+_Acknowledgements_.  You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available online and are incorporated herein.
 
-**Indemnification**
+_Registration Restrictions_.  You represent and warrant that you or your administrative contact has a German address, which cannot be a P.O. Box. You may not use the names of other top level domains (e.g. .ARPA, .COM, .EDU, .GOV, .INT, .NET, .NATO, .MIL, .ORG and all country-related TLDs) or German automobile identification numbers as domain names.
 
-You agree to indemnify, defend and hold harmless the .CN Registry Operator, NeuLevel, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
+In the event that you cannot fulfill the registration guidelines, you have the option of using a trustee service.  By using the .de trustee services, you agree to be bound by the .DE Trustee Agreement, which is hereby incorporated by reference.
 
-**.CN Registration Restrictions**
+_Local Presence Service_.  If you do not provide an administrative contact ("Admin-C") with a German address, then you shall be subject to the local presence service terms and conditions, which are part of the registration guidelines for this ccTLD. You also agree to the following:
 
-You acknowledge and agree that you are not permitted to purchase private or proxy .CN registrations. You shall register for any and all .CN registrations using your personal information, which information you represent and warrant is current, accurate and complete.
+         i.      We and you hereby request and authorize Key-Systems to list an individual designated by Key-Systems as Admin-C for the requested DENIC domain name(s). Neither Key-Systems nor the Admin-C are required to monitor the legality of the domain name use including, but not limited to, contents and services offered.
 
-35\. provisions specific to .co registrations 
+        ii.      We and you acknowledge and agree that Key-Systems and/or the Admin-C may, without any liability to you or any third party, take such steps as in the opinion of Key-Systems and/or the Admin-C are necessary in order to (a) limit Key-System's and/or the designated Admin-C's liability related to, directly or indirectly, the DENIC domain name(s). (b) comply with any laws, regulations or other legal requirements. and/or (c) address any letter, causes of action, suits, proceeding, complaints, cease and desist orders and demands of any kind or any other inquiry from DENIC or any other third party related to the DENIC domain name(s). Such actions may include, but are not limited to, (a) disabling the website pending resolution of the conflict and/or redirecting the DENIC domain name(s) to a blank page or placeholder. (b) cancelling the registration of the DENIC domain name(s). (c) ceasing administration of the domain name and placing it in a transit state. (d) removing or replacing the Admin-C from or in the Whois record, (e) redirecting the DENIC domain name(s) to an alternate IP address. (f) allowing the registration of the DENIC domain name(s) to lapse. (g) transferring the registration to an individual or entity which is awarded the registration through any court proceeding, arbitration, or by DENIC. (h) settling any and all third-party claims, whether threatened or made, arising out of your use of the DENIC domain name(s). and/or (i) terminating the Local Presence Service. We and you undertake to respond in writing to requests by Verisign and/or the Admin-C immediately within time limits set by Key-Systems and/or the Admin-C. Unless a different response deadline is requested in writing by Key-Systems and/or the Admin-C, we and you agree to respond in writing to such requests within forty-eight (48) hours. Correspondence sent to us or you shall be regarded as delivered. Key-Systems or the Admin-C may, at its own discretion, request a security for its expenses which may occur in case a third party alleges that the use of the domain name is an infringement of laws. The amount of security will be determined at the Admin-C discretion in accordance with the Court Costs (GKG) and the Attorney's Remuneration Act (RVG). The security must be paid in cash or guaranteed by a major German bank or savings bank (Sparkasse) within the time limit set by Key-Systems and/or the Admin-C.
 
-You agree to (within thirty days of demand) indemnify, defend and hold harmless the .co Registry and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration. You shall not enter into any settlement or compromise of any such indemnifiable claim without the Registry's prior written consent, which consent shall not be unreasonably withheld. This indemnification obligation shall survive the termination or expiration of this Agreement for any reason.
+       iii.      WE AND YOU ACKNOWLEDGE AND AGREE THAT KEY-SYSTEMS AND THE ADMIN-C SHALL HAVE NO LIABILITY TO YOU, US, OR ANY THIRD PARTY RELATED TO, DIRECTLY OR INDIRECTLY, THE LOCAL PRESENCE SERVICES AND/OR THE EXERCISE OF ANY OF THEIR RIGHTS UNDER THESE LOCAL PRESENCE SERVICES TERMS AND CONDITIONS. THIS LIMITATION APPLIES REGARDLESS OF WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, WARRANTY, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF VERISIGN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR SUCH DAMAGES WERE REASONABLY FORESEEABLE. BECAUSE CERTAIN JURISDICTIONS DO NOT PERMIT THE LIMITATION OR ELIMINATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, KEY-SYSTEM'S LIABILITY IN SUCH JURISDICTIONS SHALL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
 
-You shall comply with operational standards, policies, procedures, and practices for the .Co TLD as set forth in the MINTIC Agreement as updated from time to time by Registry in a non-arbitrary and non-discriminatory manner consistent with the MINTIC Agreement, including, without limitation, Adopted ICANN Policies.
+      iv.      We and you agree to release, defend, indemnify and hold harmless Key-Systems, its parent companies, subsidiaries, affiliates, shareholders, agents, directors, officers and employees and the individual designated as Admin-C for the DENIC domain name(s), from and against any and all claims (including, but not limited to, claims of trademark infringement or cybersquatting), demands, liabilities, losses, damages or costs, including reasonable attorneys' fees, arising out of or related in any way to, the Local Presence Services, the DEMINC domain name(s), and/or your use of the DEMIN domain name(s).
 
-You hereby acknowledge and agree that: a) the registration and exclusive and perpetual right of use and enjoyment for any Registered Name may be cancelled if Registry determines that you have provided information that is incorrect, false or inaccurate either in the initial registration process or in any subsequent communications or in the event you violate any of the terms of the MINTIC Agreement. b) you will follow and be bound by all Registry Policies (including, without limitation, the Administrator Privacy Policy), as the same may be updated, modified or replaced from time to time, and to subject themselves to any dispute resolution process for the resolution of disputes regarding Registered Names that may be adopted by Registry, as the same may be updated, modified or replaced from time to time, including, but not limited to, any expedited processes for suspension of a domain name due to claims sought by intellectual property rights holders. c) your domain name may be suspended, terminated, canceled or transferred in the interest of safeguarding compliance with Registry's security or registration policies or as a result of a dispute resolution. d) all official contact, correspondence and/or other information sent from or on behalf of Registry or any other relevant official will be transmitted to the administrative contact information that appears in the Registry Database and that the designated administrative contact is authorized to receive all such communication and information. e) all disputes, claims or controversies regarding the registration, ownership, use, transfer, assignment, loss, cancellation, or suspension of any Registered Name or otherwise relating to the .Co TLD between you and Registry shall be governed exclusively by the laws of Colombia and that any such disputes, claims or controversies shall be brought and heard exclusively in the courts located in Bogotá, Colombia. f) you assume all responsibility and liability arising out of any assignment by you of the Registered Name, including, without limitation, with respect to any users, clients, customers, licensees or other persons who may be using any sub-domain name of the Registered Name or any Website associated with the Registered Name. g) neither acceptance of your registration request nor the actual registration of any Registered Domain shall be deemed an indication that Registry or the Colombian Government has made any determination regarding the legality of the registration, the extent to which your registration and exclusive and perpetual right of use and enjoyment of the Registered Name may violate any applicable laws, rules, regulations, policies, procedures, ordinances or decrees or infringe on the rights of any other person, and that neither Registry nor the Colombian Government shall have any liability or responsibility arising therefrom. h) shall be bound by the terms and conditions of the initial launch and general operation of the .Co TLD, including without limitation the Sunrise and Landrush periods, and the corresponding dispute resolution policies, and that Administrator shall have no liability of any kind for any loss or liability resulting from (a) the ability or inability of you to obtain a Registered Name during these periods, or (b) the results of any dispute procedures.
+**37\. provisions specific to .ES registrations**
 
-You acknowledge you have read and understand and agrees to be bound by the terms and conditions of the Uniform Domain Name Dispute Resolution Policy adopted by ICANN, available at http://www.icann.org/en/udrp/udrp-policy-24oct99.htm (the "UDRP"), as the same may be amended from time to time and which is hereby incorporated and made an integral part of this Agreement.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-The UDRP policy, which is hereby adopted by Registrar as an Adopted ICANN Policy, sets forth the terms, conditions and procedures that govern disputes between you and any party other than the Registry over the registration and/or use of a Registered Name. Registry will not review, monitor, or otherwise verify that any particular Registered Name is being used in compliance with the UDRP process, any other Registry Policy or any Governmental Requirement.
+**38\. provisions specific to .EU registrations**
 
-36\. provisions specific to .DE registrations
+_Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .EU registrations. You shall register for any and all .EU registrations using your personal information, which information you represent and warrant is current, accurate and complete. Further, you acknowledge and agree that you are not permitted and shall not attempt to register any .EU registrations unless you have a physical presence in the European Union.
 
-You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available online and are incorporated herein.
+_Compliance with Applicable Law_.  You agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the European Registry of Internet Domain Names ("EURID").
 
-**.DE Registration Restrictions**
+_Compliance with EURID Rules_.  You agree to obey, comply with and be bound by EURID rules and regulations and any and all updates, revisions and modifications thereto, which may be made by EURID from time to time, including, but not limited to, their dispute policies, and the .EU Domain Name Registration Terms and Conditions and the .EU Domain Name Registration Policy, both of which are hereby incorporated by reference.
 
-You represent and warrant that you or your administrative contact has a German address, which cannot be a P.O. Box. You may not use the names of other top level domains (e.g. .ARPA, .COM, .EDU, .GOV, .INT, .NET, .NATO, .MIL, .ORG and all country-related TLDs) or German automobile identification numbers as domain names.
+_Compliance with EURID Domain Name Whois Policy_.  You agree to obey, comply with and be bound by the EURID Domain Name Whois Policy and any and all updates, revisions and modifications thereto, which may be made by EURID from time to time, and which is incorporated herein.
 
-In the event that you can not fulfill the registration guidelines, you have the option of using a trustee service.  By using the .de trustee services, you agree to be bound by the .DE Trustee Agreement, which is hereby incorporated by reference.
+_Jurisdiction_.  For the adjudication of disputes concerning or arising from use of the registered .EU domain name, you agree to submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts of (1) your domicile state, (2) the State of Arizona and (3) the United Kingdom.
 
-**.DE Local Presence Service**
+_Sunrise and General Pre-registration Applications_.  You acknowledge and agree that the submitting of a "Sunrise or General Pre-registration Application" does not ensure that a domain name shall be successfully awarded or registered. In the event that an application does not result in a successful registration, the registration fee shall be refunded. In the case of a "Sunrise Application" where an application fee was collected, a portion of that fee shall be refunded after the deduction of a handling fee, which you acknowledge and agree is subject to change based on fluctuations in the US Dollar and Euro exchange rates.
 
-If you do not provide an administrative contact ("Admin-C") with a German address, then you shall be subject to the local presence service terms and conditions, which are part of the registration guidelines for this ccTLD. You also agree to the following:
+_Dispute Resolution/ADR_.  EURID offers an alternative procedure for resolving disputes concerning .EU domain names, which can be found here. When applicable, you acknowledge such procedure and agree that you shall comply with and abide by its terms and conditions, which are also incorporated herein.
 
-1.  Go Daddy and you hereby request and authorize Key-Systems to list an individual designated by Key-Systems as Admin-C for the requested DENIC domain name(s). Neither Key-Systems nor the Admin-C are required to monitor the legality of the domain name use including, not limited to, contents and services offered.
-2.  Go Daddy and you acknowledge and agree that Key-Systems and/or the Admin-C may, without any liability to you or any third party, take such steps as in the opinion of Key-Systems and/or the Admin-C are necessary in order to (a) limit Key-System's and/or the designated Admin-C's liability related to, directly or indirectly, the DENIC domain name(s). (b) comply with any laws, regulations or other legal requirements. and/or (c) address any letter, causes of action, suits, proceeding, complaints, cease and desist orders and demands of any kind or any other inquiry from DENIC or any other third party related to the DENIC domain name(s). Such actions may include, but are not limited to, (a) disabling the website pending resolution of the conflict and/or redirecting the DENIC domain name(s) to a blank page or placeholder. (b) cancelling the registration of the DENIC domain name(s). (c) ceasing administration of the domain name and placing it in a transit state. (d) removing or replacing the Admin-C from or in the Whois record, (e) redirecting the DENIC domain name(s) to an alternate IP address. (f) allowing the registration of the DENIC domain name(s) to lapse. (g) transferring the registration to an individual or entity which is awarded the registration through any court proceeding, arbitration, or by DENIC. (h) settling any and all third-party claims, whether threatened or made, arising out of your use of the DENIC domain name(s). and/or (i) terminating the Local Presence Service. Go Daddy and you undertake to respond in writing to requests by Verisign and/or the Admin-C immediately within time limits set by Key-Systems and/or the Admin-C. Unless a different response deadline is requested in writing by Key-Systems and/or the Admin-C, Go Daddy and you agree to respond in writing to such requests within forty-eight (48) hours. Correspondence sent to Go Daddy or you shall be regarded as delivered. Key-Systems or the Admin-C may, at its own discretion, request a security for its expenses which may occur in case a third party alleges that the use of the domain name is an infringement of laws. The amount of security will be determined at the Admin-C discretion in accordance with the Court Costs (GKG) and the Attorney's Remuneration Act (RVG). The security must be paid in cash or guaranteed by a major German bank or savings bank (Sparkasse) within the time limit set by Key-Systems and/or the Admin-C.
-3.  Go Daddy AND YOU ACKNOWLEDGE AND AGREE THAT KEY-SYSTEMS AND THE ADMIN-C SHALL HAVE NO LIABILITY TO YOU, Go Daddy OR ANY THIRD PARTY RELATED TO, DIRECTLY OR INDIRECTLY, THE LOCAL PRESENCE SERVICES AND/OR THE EXERCISE OF ANY OF THEIR RIGHTS UNDER THESE LOCAL PRESENCE SERVICES TERMS AND CONDITIONS. THIS LIMITATION APPLIES REGARDLESS OF WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, WARRANTY, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF VERISIGN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR SUCH DAMAGES WERE REASONABLY FORESEEABLE. BECAUSE CERTAIN JURISDICTIONS DO NOT PERMIT THE LIMITATION OR ELIMINATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, KEY-SYSTEM'S LIABILITY IN SUCH JURISDICTIONS SHALL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
-4.  Go Daddy and you agree to release, defend, indemnify and hold harmless Key-Systems, its parent companies, subsidiaries, affiliates, shareholders, agents, directors, officers and employees and the individual designated as Admin-C for the DENIC domain name(s), from and against any and all claims (including, but not limited to, claims of trademark infringement or cybersquatting), demands, liabilities, losses, damages or costs, including reasonable attorneys' fees, arising out of or related in any way to, the Local Presence Services, the DEMINC domain name(s), and/or your use of the DEMIN domain name(s).
+**39\. provisions specific to .FM registrations**
 
-37\. provisions specific to .es registrations
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+**40\. Provisions specific to .fr registrations**
 
-38\. provisions specific to .EU registrations
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-**.EU Registration Restrictions**
+In the event that you cannot fulfill the registration guidelines, you have the option of using a trustee service.  By using the .FR trustee services, you agree to be bound by the .FR Trustee Agreement, which is hereby incorporated by reference.
 
-You acknowledge and agree that you are not permitted to purchase private or proxy .EU registrations. You shall register for any and all .EU registrations using your personal information, which information you represent and warrant is current, accurate and complete. Further, you acknowledge and agree that you are not permitted and shall not attempt to register any .EU registrations unless you have a physical presence in the European Union.
+**41\. provisions specific to .GS registrations**
 
-**Compliance with Applicable Law**
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-You agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the European Registry of Internet Domain Names ("EURID").
+**42\. provisions specific to .IN registrations**
 
-**Compliance with EURID Rules**
+_Acknowledgements_.  You agree to be bound by current and future .IN registry policies as indicated on the .IN registry website, and which are incorporated herein. You further acknowledge and agree the .IN registry reserves the right to instruct its registry services provider to deny, cancel, transfer or otherwise make unavailable any registration that it deems necessary, in its discretion to (i) protect the integrity and stability of the registry. (ii) comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (iii) avoid any liability, civil or criminal, on the part of the .IN Registry, as well as its affiliates, subsidiaries, officers, directors, representatives, employees, and stockholders. (iv) for violations of this Agreement (including its Exhibits). or (v) to correct mistakes made by the .IN registry or any registrar in connection with a domain name registration. The .IN registry also reserves the right to freeze a domain name during resolution of a dispute.
 
-You agree to obey, comply with and be bound by EURID rules and regulations and any and all updates, revisions and modifications thereto, which may be made by EURID from time to time, including, but not limited to, their dispute policies, and the .eu Domain Name Registration Terms and Conditions which may be found here and the .eu Domain Name Registration Policy which may be found here. 
+_Domain Name Dispute Policy_.  You agree to be bound by the policy and procedures for resolution of disputes concerning registered .IN domain names in accordance with the .IN Registry's Domain Name Dispute Resolution Policy.
 
-**Compliance with EURID Domain Name Whois Policy**
+**43\. PROVISIONS SPECIFIC TO .IT REGISTRATIONS**
 
-You agree to obey, comply with and be bound by the EURID Domain Name Whois Policy and any and all updates, revisions and modifications thereto, which may be made by EURID from time to time, which may be found here.
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, including without limitation the Assignment and Management of Domain Names in the ccTDL.IT and Dispute Resolution in the ccTLD.IT, both of which are hereby incorporated by this reference.
 
-**Jurisdiction**
+_Registration Restrictions_.  Unless you complete your domain name registration using our fee-based trustee service, you specifically represent and warrant that you (i) are a citizen or resident in a country belonging to the European Union (in the case of registration for natural persons). (ii) are established in a country belonging to the European Union (in the case of registration for other organizations). (iii) are entitled to the use and/or legal availability of the domain name applied for, and that it does not prejudice, with the request for registration, the rights of others. (iv) are aware and agree that in the case of erroneous or false declarations in this request, the Registry shall immediately revoke the domain name, or proceed with other legal actions (In such case the revocation shall not in any way give rise to claims against the Registry or us). (v) release the Registry and us from any liability resulting from the assignment and use of the domain name by the natural person or organization that has made the request. and (vi) accept Italian jurisdiction and laws of the Italian State.
 
-For the adjudication of disputes concerning or arising from use of the registered .EU domain name, you agree to submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts of (1) your domicile state, (2) the State of Arizona and (3) the United Kingdom.
+**44\. PROVISIONS SPECIFIC TO .JP registrationS**
 
-**Sunrise and General Pre-registration Applications**
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s website and are incorporated herein.
 
-You acknowledge and agree that the submitting of a "Sunrise or General Pre-registration Application" does not ensure that a domain name shall be successfully awarded or registered. In the event that an application does not result in a successful registration, the registration fee shall be refunded. In the case of a "Sunrise Application" where an application fee was collected, a portion of that fee shall be refunded after the deduction of a handling fee, which you acknowledge and agree is subject to change based on fluctuations in the US Dollar and Euro exchange rates.
+_Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here. 
 
-**.EU Dispute Resolution/ADR**
+**45\. provisions specific to .me registrationS** 
 
-EURID offers an alternative procedure for resolving disputes concerning .EU domain names, which can be found here. When applicable, you acknowledge such procedure and agree that you shall comply with and abide by its terms and conditions.
+_Acknowledgements_.  You acknowledge and agree to obey, comply and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and which are incorporated herein. 
 
-39\. provisions specific to .FM registrations
+You further acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of your personal data by the registry operator and its designees and agents. (ii) submit to proceedings commenced under any dispute policy implemented by the registry including, without limitation, the Domain Name Dispute Resolution Policy referenced on the registry’s website at www.domain.me/DRP. (iii) immediately correct and update the registration information for each registered name during the registration term for the registered name. and (iv) acknowledge that the registry will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise or Land Rush periods including, without limitation, the ability or inability of a registrant to obtain a registered name during these periods and the results of any dispute procedures.
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .ME Registry, its owners, subsidiaries, affiliates, subcontractors and agents, and the respective directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to your domain name registration or the use of any domain name registered in the TLD by or on your behalf.
 
-40\. Provisions specific to .fr registrations
+_Reservation of Rights_.  The Registry reserves the right to deny, cancel or transfer any registration or transaction, or place any domain names on registry lock, hold or similar status, that it deems necessary, in its sole discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, or any dispute resolution process, to avoid any liability, civil or criminal, on the part of the registry, as well as its owners, affiliates, subsidiaries, officers, directors, and employees, for violations of any of the policies, terms or conditions established by the registry including, without limitation, the Registry Policies, or to correct mistakes made by the registry or us in connection with a domain name registration. The Registry also reserves the right to place upon registry lock, hold or similar status a domain name during resolution of a dispute proceeding.
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+_Other Dispute Policies_.  You acknowledge and agree to submit to proceedings commenced under other dispute policies as set forth by the Registry from time to time including, but not limited to, expedited processes for suspension of a domain name by claims sought by intellectual property right holders, Internet engineering and security experts or other competent claimants in the purpose of upholding the stability, security and integrity of the registry system for the TLD.
 
-In the event that you can not fulfill the registration guidelines, you have the option of using a trustee service.  By using the .fr trustee services, you agree to be bound by the .FR Trustee Agreement, which is hereby incorporated by reference.
+**46\. provisions specific to .MS registrations**
 
-41\. provisions specific to .GS, .MS, .TC, and .VG registrations
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and which are incorporated herein.
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for these ccTLDs, which may be found here and here.
+**47\. provisions specific to .MX registrations**
 
-42\. provisions specific to .in registrations
+_Acknowledgements_.  You warrant and represent that you meet all of the eligibility requirements to register a .MX domain name, and you agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration policies for this ccTLD are available here and are incorporated herein.
 
-You agree to be bound by current and future .IN registry policies as indicated on the .IN registry website located here.
-
-You acknowledge and agree the .IN registry reserves the right to instruct its registry services provider to deny, cancel, transfer or otherwise make unavailable any registration that it deems necessary, in its discretion: (1) to protect the integrity and stability of the registry. (2) to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (3) to avoid any liability, civil or criminal, on the part of the .IN Registry, as well as its affiliates, subsidiaries, officers, directors, representatives, employees, and stockholders. (4) for violations of this Agreement (including its Exhibits). or (5) to correct mistakes made by the .IN registry or any registrar in connection with a domain name registration. The .IN registry also reserves the right to freeze a domain name during resolution of a dispute.
-
-You agree to be bound by the policy and procedures for resolution of disputes concerning registered .IN domain names in accordance with the .IN Registry's Domain Name Dispute Resolution Policy ("Dispute Policy").
-
-You agree to be bound by current and future .IN registry policies as indicated on the .IN registry website located at www.registry.in .
-
-You acknowledge and agree that the .IN registry reserves the right to instruct its registry services provider to deny, cancel, transfer or otherwise make unavailable any registration that it deems necessary, in its discretion: (1) to protect the integrity and stability of the registry. (2) to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (3) to avoid any liability, civil or criminal, on the part of the .IN Registry, as well as its affiliates, subsidiaries, officers, directors, representatives, employees, and stockholders. (4) for violations of this Agreement (including its Exhibits). or (5) to correct mistakes made by the .IN registry or any registrar in connection with a domain name registration. The .IN registry also reserves the right to freeze a domain name during resolution of a dispute.
-
-You agree to be bound by the policy and procedures for resolution of disputes concerning registered .IN domain names in accordance with the .IN Registry's Domain Name Dispute Resolution Policy ("Dispute Policy").
-
-43\. PROVISIONS SPECIFIC TO .IT REGISTRATIONS
-
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, including without limitation the "Rules of assignment and management of domain names in the ccTLD.it", which may be found here and the "Regulations for the resolution of disputes in the ccTLD.it", which may be found here. In addition, unless you complete your domain name registration using Go Daddy's fee-based trustee service, you specifically represent and warrant that you:
-
-1.  Are a citizen or resident in a country belonging to the European Union (in the case of registration for natural persons);
-2.  Are established in a country belonging to the European Union (in the case of registration for other organizations);
-3.  Are entitled to the use and/or legal availability of the domain name applied for, and that it does not prejudice, with the request for registration, the rights of others;
-4.  Are aware and agree that in the case of erroneous or false declarations in this request, the Registry shall immediately revoke the domain name, or proceed with other legal actions. In such case the revocation shall not in any way give rise to claims against the Registry or Go Daddy;
-5.  Release the Registry and Go Daddy from any liability resulting from the assignment and use of the domain name by the natural person or organization that has made the request. and
-6.  Accept Italian jurisdiction and laws of the Italian State.
-
- 44. PROVISIONS SPECIFIC TO .JP registrationS
-
-You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include:
-
-1.  TLDs, other than ccTLDs, as determined by ICANN;
-2.  Geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels;
-3.  Names of primary and secondary educational organizations;
-4.  Names of organizations related to Internet management;
-5.  Names required for .JP domain name operations. and
-6.  Character strings which may be confused with ASCII-converted Japanese domain names.
-
-The complete list of .JP Reserved Domains is available online.
-
-**Additional Requirements for .JP Registrants**
-
-You agree to be bound by any registry rules, policies, and agreements for this ccTLD, which are incorporated herein. You must choose from the following list of Japanese Prefecture codes and submit this information with your order. Prefecture codes are defined as follows:
-
-01 HOKKAIDO  
-13 SAITAMA  
-25 OSKA  
-37 TOKUSHIMA
-
-02 AOMORI  
-14 IBARAKI  
-26 WAKAYAMA  
-38 EHIME
-
-03 IWATE  
-15 TOCHIGI  
-27 HYOGO  
-39 KOCHI
-
-04 AKITA  
-16 GUNMA  
-28 TOYAMA  
-40 FUKUOKA
-
-05 YAMAGATA  
-17 YAMANASHI  
-29 FUKUI  
-41 SAGA
-
-06 MIYAGI  
-18 SHIZUOKA  
-30 ISHIKAWA  
-42 NAGASAKI
-
-07 FUKUSHIMA  
-19 GIFO  
-31 OKAYAMA  
-43 KUMAMOTO
-
-08 NIIGATA  
-20 AICHI  
-32 SHIMANE  
-44 OITA
-
-09 NAGANO  
-21 MIE  
-33 YAMAGUCHI  
-45 MIYAZAKI
-
-10 TOKYO  
-22 KYOTO  
-34 TOTTORI  
-46 KAGOSHIMA
-
-11 KANAGAWA  
-23 SHIGA  
-35 HIROSHIMA  
-47 OKINAWA
-
-12 CHIBA  
-24 NARA  
-36 KAGAWA
-
-45\. provisions specific to .me registrationS
-
-You acknowledge and agree to obey, comply and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
-
-You agree to indemnify, defend and hold harmless the .ME Registry, its owners, subsidiaries, affiliates, subcontractors and agents, and the respective directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to your domain name registration or the use of any domain name registered in the TLD by or on your behalf.
-
-46\. provisions specific to .MX registrations
-
-You agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration policies for this ccTLD are available here.
-
-You acknowledge and agree that in regards to disputes over domain name ownership, Go Daddy will not resolve disputes over ownership. If Go Daddy is provided with a filed court dispute in a court of competent jurisdiction, the domain name will remained locked pending the court's decision.
-
-You acknowledge and agree that during landrush registration, the .MX registry may decrease the registration fees over time. You agree that in the event you purchase a domain name, you are not entitled to a refund in the event the registration fees are decreased after your purchase.
-
-You agree to indemnify, defend and hold harmless the .MX registry operator, and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to your domain name registration.
-
-You acknowledge and agree a copy of the customer contact data you provide will be used as the initial domain name contact data and made public in the Whois database.
+_Limitations_.  You acknowledge and agree that by registering a domain name, you are not acquiring any property rights in that domain name. You further acknowledge and agree that we will not resolve disputes over domain name ownership. If we are provided with a filed court dispute in a court of competent jurisdiction, the domain name will remained locked pending the court's decision.
 
 IN NO EVENT SHALL THE .MX REGISTRY OPERATOR BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFIT OR GOODWILL, FOR ANY MATTER, WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF WARRANTIES, EITHER EXPRESS OR IMPLIED, ANY BREACH OF THIS AGREEMENT OR ITS INCORPORATED AGREEMENTS AND POLICIES YOUR INABILITY TO USE THE DOMAIN NAME, YOUR LOSS OF DATA OR FILES OR OTHERWISE, EVEN IF THE .MX REGISTRY OPERATOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-47\. Provisions specific to .nl registrations
+_Reservation of Rights_.  You acknowledge and agree that a copy of the customer contact data you provide will be used as the initial domain name contact data and made public in the Whois database. You further acknowledge and agree that the .MX Registry has the right to publish and to reveal to third parties the information of a domain name, both in the Whois and to competent authorities that may request it, and that the registrar has the right to share the information of a domain name with the Registry, and that the Registry has the right to migrate a domain name form the registrar to another registrar in case of completion of the contract.
 
-You represent and warrant that all information provided by you is correct, complete and complies with all .nl General Terms and Conditions for .NL Registrants, which may be found here.
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .MX registry operator, and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to your domain name registration.
 
-You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines are available here and are incorporated herein.
+**48\. Provisions specific to .nl registrations**
 
-48\. provisions specific to .NU registrations
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD including, but not limited to, the registration guidelines, which are hereby incorporated by this reference. You further represent and warrant that all information provided by you is correct, complete and complies with all .NL General Terms and Conditions for .NL Registrants, which are also incorporated herein.
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+**49\. provisions specific to .NU registrations**
 
-49\. provisions specific to .NZ registrations (.CO.NZ, .ORG.NZ, .NET.NZ)
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. You further acknowledge and accept that any disputes related to your registered domain name will be governed by ICANN’s Uniform Domain Name Dispute Resolution Policy and the .NU Domain Ltd. Uniform Domain Name Dispute Resolution Policy, both of which are also hereby incorporated by reference.
 
-You represent and warrant that you meet the eligibility requirements of this ccTLD. You understand and agree that in order to register these domain names, a pre-registration DNS validation check is required by the Registry. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available online and are incorporated herein.
+**50\. provisions specific to .NZ registrations**
 
-If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are incorporated and made a part of this Agreement herein.\[#TLDGroup=x#\]\[/#TLDGroup=x#\]
-
-**.NZ Registration Restrictions (.CO.NZ, .ORG.NZ, NET.NZ)**
-
-You represent and warrant that you are an identifiable individual over 18 years of age or a properly constituted organization.
-
-50\. provisions specific to .SC registrations
-
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+You represent and warrant that you meet the eligibility requirements of this ccTLD. You understand and agree that in order to register a .NZ domain name, a pre-registration DNS validation check is required by the Registry. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD, which are located here and are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated herein and made a part of this Agreement.
 
 **51\. provisions specific to .SE registrations**
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.  You acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. You further acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
 
-52\. provisions specific to .TK registrations
+**52\. provisions specific to .TC registrations**
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-53\. provisions specific to .TV registrations
+**53\. provisions specific to .TK registrations**
 
-You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available here and are incorporated herein.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. 
 
-**.TV Registration Restrictions**
+**54\. provisions specific to .TV registrations**
 
-If you are registering a multi-lingual .TV domain name, you are aware of and agree that the domain name must be less than sixteen (16) characters in length. The FAQ on multi-lingual .TV domain names is available here.
+You represent and warrant that you meet the eligibility requirements of this ccTLD. You further acknowledge and agree to be bound by any registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which are available here and are incorporated herein.
 
-54\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS
+**55\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
 
-If you are registering a .TW domain name you also agree to the following:
+_Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the Taiwan Network Information Center ("TWNIC").
 
-**Compliance with Applicable Law**
+_Compliance with TWNIC Rules_.  You further agree to obey, comply with and be bound by all TWNIC rules and regulations and any and all updates, revisions and modifications, which may be made by TWNIC from time to time, which are hereby incorporated and made an integral part of this Agreement:
 
-You agree to obey and comply with any and all applicable laws, regulations and administrative policies promulgated by the Taiwan Network Information Center ("TWNIC").
+         i.      Supervision and Guidance Regulation for Internet Protocol (IP) Address and Domain Name Registration and Management Services;
 
-**Compliance with TWNIC Rules**
+        ii.      Guidelines for Administration of Domain Name Registration;
 
-You agree to obey, comply with and be bound by TWNIC rules and regulations and their any and all updates, revisions and modifications, which may be made by TWNIC from time to time, including but not limited to:
+       iii.      Guidelines for Authorization of Domain Name Registration Services;
 
-1.  Supervision and Guidance Regulation for Internet Protocol (IP) Address and Domain Name Registration and Management Services here.
-2.  Guidelines for Administration of Domain Name Registration here.
-3.  Guidelines for Authorization of Domain Name Registration Services here.
-4.  TWNIC Domain Name Dispute Resolution Policy here.
-5.  Rules for TWNIC Domain Name Dispute Resolution Policy here.
+      iv.      TWNIC Domain Name Dispute Resolution Policy. and
 
-**Right to Accept Notice**
+       v.      Rules for TWNIC Domain Name Dispute Resolution Policy.
 
-You give Go Daddy the right to accept written complaints from third parties against false and/or inaccurate Whois data and you agree to follow any procedural regulation that may exist between the .TW registry operator, currently NeuLevel Inc. and Go Daddy.
+_Right to Accept Notice_.  You give us the right to accept written complaints from third parties against false and/or inaccurate Whois data and you agree to follow any procedural regulation that may exist between the .TW registry operator and us.
 
-**Governing Law**
+_Governing Law_.  With regards to .TW domain names only, this Agreement will be interpreted and governed by the Laws of Taiwan.
 
-With regards to .TW domain names, this Agreement will be interpreted and governed by the Laws of Taiwan.
+_Indemnification_.  You agree to indemnify, defend and hold harmless the .TW Registry Operator, NeuLevel, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
 
-**Indemnification**
+_.TW Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .TW registrations. You shall register for any and all .TW registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-You agree to indemnify, defend and hold harmless the .TW Registry Operator, NeuLevel, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration. This indemnification requirement shall survive the termination or expiration of this Agreement.
+**56\. provisions specific to .UK registrations**
 
-**.TW Registration Restrictions**
+You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD including, but not limited to, the Terms and Conditions of Domain Name Registration and the Rules for registering a .UK domain name, both of which are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated and made a part of this Agreement herein.
 
-You acknowledge and agree that you are not permitted to purchase private or proxy .TW registrations. You shall register for any and all .TW registrations using your personal information, which information you represent and warrant is current, accurate and complete.
+**57\. provisions specific to .VG registrations**
 
-55\. provisions specific to .UK registrations (.ORG.UK, .ME.UK, .CO.UK)
-
-You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available here and the rules are available here, and are incorporated herein.
-
-If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are incorporated and made a part of this Agreement herein.
-
-**56\. titles and headings. independent covenants. severability**
-
-The titles and headings of this Agreement are for convenience and ease of reference only and shall not be utilized in any way to construe or interpret the agreement of the parties as otherwise set forth herein.  Each covenant and agreement in this Agreement shall be construed for all purposes to be a separate and independent covenant or agreement.  If a court of competent jurisdiction holds any provision (or portion of a provision) of this Agreement to be illegal, invalid, or otherwise unenforceable, the remaining provisions (or portions of provisions) of this Agreement shall not be affected thereby and shall be found to be valid and enforceable to the fullest extent permitted by law.
-
-**57\. DEFINITIONS. CONFLICTS**
-
-Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Universal Terms of Service Agreement.  In the event there is a conflict between the provisions of this Agreement and the provisions of the Universal Terms of Service Agreement, the provisions of this Agreement shall control.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
