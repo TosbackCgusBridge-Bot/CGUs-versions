@@ -44,7 +44,8 @@ Navigation
         4.  Hawaii Ka'u
         5.  Jamaica Blue Mountain
         6.  Panama Paso Ancho
-        7.  Starbucks Reserve® Sun-Dried Sumatra Rasuna
+        7.  Starbucks Reserve® Cameroon Mount Oku
+        8.  Starbucks Reserve® Sun-Dried Sumatra Rasuna
     4.  Learn More
         
         1.  Learn About the Starbucks Roast
