@@ -90,8 +90,8 @@ Users' Most Picked TV Shows
 
 *   NCIS
 *   The Mentalist
-*   House
 *   Bones
+*   House
 *   CSI: Crime Scene Investigation
 
 More TV Shows Users' Most Picked Movies
