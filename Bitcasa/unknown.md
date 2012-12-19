@@ -1,14 +1,27 @@
-*   Learn More
-*   Download
-    *   Windows
-    *   Mac
-    *   Linux
-    *   Chrome
-*   Support
-*   Videos
-*   Developers
+Sign Up Log In
 
-Signup Portal Legal Terms of Service Privacy Policy DMCA Policy Pricing/Refunds Security Acceptable Use Terms of Service
+*   Downloads
+*   Learn More
+*   About Us
+*   Contact
+
+*   Downloads
+
+*   How It Works
+*   Pricing
+*   For Developers
+
+*   About Bitcasa
+*   Careers
+*   In the Press
+*   Our Blog
+
+*   Contact Us
+*   Support
+*   Legal
+*   Media Kit
+
+the boring stuff Terms of Service Privacy Policy DMCA Policy Pricing/Refunds Security Acceptable Use Terms of Service
 
 Thank you for using Bitcasa! These Terms of Service (the “Terms”) govern your access to and use of Bitcasa (“we” or “our”) websites and services (the “Services”), so please carefully read them before using the Services. By using the Services you agree to be bound by these Terms. If you are using the Services on behalf of an organization, you are agreeing to these Terms for that organization and promising that you have the authority to bind that organization to these terms. In that case, “you” and “your” will refer to that organization.
 
@@ -62,9 +75,7 @@ Copyright Agent
 Bitcasa, Inc.  
 274 Castro St #204  
 Mountain View, CA 94041  
-copyright@bitcasa.com
-
-Other Content
+copyright@bitcasa.com Other Content
 
 The Services may contain links to third-party websites or resources. Bitcasa does not endorse and is not responsible or liable for their availability, accuracy, the related content, products, or services. You are solely responsible for your use of any such websites or resources. Also, if we provide you with any software under an open source license, there may be provisions in those licenses that expressly conflict with these Terms, in which case the open source provisions will apply.
 
@@ -188,7 +199,7 @@ Bitcasa is currently free to use during an initial trial period.
 
 Premium Accounts (coming soon)
 
-Bitcasa offers you the option of increasing your account storage space beyond \[TBD\]GB either by inviting friends or for a fee. When you choose to increase available storage by paying a fee, your account will be converted to a Premium Account and will not be subject to some of the restrictions placed on Free Accounts as described below.
+Bitcasa offers you the option of increasing your account storage space beyond 10 GB either by inviting friends or for a fee. When you choose to increase available storage by paying a fee, your account will be converted to a Premium Account and will not be subject to some of the restrictions placed on Free Accounts as described below.
 
 Bitcasa accepts credit cards and will automatically charge your credit card monthly or yearly, depending upon which Premium Account you select. For credit cards denominated in a supported currency other than U.S. dollars (USD), your bank or credit card company may charge foreign conversion fees.
 
@@ -214,7 +225,7 @@ By signing up for a Bitcasa Premium Account and providing Bitcasa with your paym
 
 Free Accounts
 
-Bitcasa allows you to store up to \[TBD\]GB free of charge and allows you to increase your storage capacity for free by inviting your friends. For every friend who installs and registers with Bitcasa, both you and your friend get an extra \[TBD\]GB for life. Bitcasa reserves the right to terminate Free Accounts at any time, with or without notice. Without limiting the generality of the foregoing, if a Free Account is inactive for ninety (90) days, then Bitcasa may delete any or all of Your Files without providing additional notice.
+Bitcasa allows you to store up to 10 GB free of charge and allows you to increase your storage capacity for free by inviting your friends. For every friend who installs and registers with Bitcasa, both you and your friend get an extra \[TBD\]GB for life. Bitcasa reserves the right to terminate Free Accounts at any time, with or without notice. Without limiting the generality of the foregoing, if a Free Account is inactive for ninety (90) days, then Bitcasa may delete any or all of Your Files without providing additional notice.
 
 Security Overview
 
@@ -274,6 +285,24 @@ You agree not to misuse the Bitcasa services. For example, you must not, and mus
 *   publish or share materials that are unlawfully pornographic or indecent, or that advocate bigotry, religious, racial or ethnic hatred;
 *   violate the law in any way, or to violate the privacy of others, or to defame others.
 
-© 2012 Bitcasa. All Rights Reserved. Jobs | Media Kit | Blog | Press | Legal | Help &. Support | Contact Us
+*   Downloads
+*   Downloads
 
-*   Tweet
+*   Learn More
+*   How It Works
+*   Pricing
+*   For Developers
+
+*   About Us
+*   About Bitcasa
+*   Careers
+*   In the Press
+*   Our Blog
+
+*   Contact
+*   Contact Us
+*   Support
+*   Legal
+*   Media Kit
+
+© 2012 Bitcasa. All Rights Reserved.
