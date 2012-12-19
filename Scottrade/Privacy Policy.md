@@ -5,6 +5,8 @@ Skip to Main Content
 *   About Us   |  
 *   Customer Login
 
+Search Keywords or Symbols
+
 *   Why Scottrade?
     *   Reasons to Choose
     *   Switch to Scottrade
