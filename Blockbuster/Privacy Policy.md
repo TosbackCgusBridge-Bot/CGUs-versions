@@ -2,28 +2,40 @@
 
 Global Navigation
 
-*   Sign In
-*   Sign Up
-*   My Queue
-*   My Library
-*   Gifts
-*   Shopping Cart (0)
-*   Our Blog
-*   Help
+*   SIGN UP
+*   SIGN IN
+*   HELP
 
    
 
 *   Home
-*   Rent
-*   Buy
+*   Browse
+*   Shop
 *   On Demand
-*   Games
-*   Find a Store
+*   Stores
+*   Mobile
 
  
 
-*   Returning Members? Sign in |
-*   New to site? Sign up.
+*   Movies
+*   TV Shows
+*   Games
+
+*   Movies
+*   TV Shows
+*   Games
+*   Deals
+*   Gifts
+
+*   How On Demand Works
+*   On Demand Devices
+*   Rent
+*   Buy
+*   My Library
+
+*   Find a Store
+*   Promotions
+*   Membership
 
 Privacy Policy Updated November 20, 2008
 
@@ -177,65 +189,20 @@ Web: visit www.blockbuster.com, select 'Contact Us' and complete the contact for
 
 Postal Address: ATTN: Online Customer Care, 3000 Redbud Blvd, McKinney, TX 75069
 
-  Quick Links Email Exclusives FIND MOVIES
-
-*   Action Movies
-*   Adventure Movies
-*   Animation Movies
-*   Award Winning Movies
-*   Comedy Movies
-*   Documentary Movies
-*   Drama Movies
-
-*   Family Movies
-*   Fantasy Movies
-*   Fitness Movies
-*   Foreign Movies
-*   Horror Movies
-*   Independent Movies
-*   Kids Movies
-
-*   Music Movies
-*   Mystery Movies
-*   New Release Movies
-*   Performing Arts Movies
-*   Romance Movies
-*   Sci-Fi Movies
-*   Special Interest Movies
-
-*   Staff Picks
-*   Suspense Movies
-*   Top 100 Movies
-*   War Movies
-*   Western Movies
-*   View All Categories
-*   Watch Trailers
-
-ALL MOVIES Popular | # | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z ALL ACTORS AND DIRECTORS Popular | # | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z BLOCKBUSTER CORPORATE
+  Blockbuster
 
 *   About Us
+*   Blockbuster Blog
 *   News and Public Relations
 *   Careers
 *   Business Opportunities
 *   Investor Relations
-*   Contact Us
 *   Become an Affiliate
-*   Blockbuster Service Animal Policy
-*   Blockbuster @Home
-*   Gifts
-
- 
-
-*   Terms and Conditions of Use
-*   Privacy Policy
-*   How BLOCKBUSTER Online Works
-*   Movies
-*   Movie Downloads
-*   Rent Without Subscription
-*   Help
 *   Site Map
-*   Mobile Site
+*   Terms and Conditions
+*   Privacy Policy
 
-BLOCKBUSTER name, design and related marks are trademarks of Blockbuster L.L.C. © 2012 Blockbuster L.L.C. All rights reserved.
+BLOCKBUSTER name, design and related marks are trademarks of Blockbuster L.L.C.  
+© 2012 Blockbuster L.L.C. All rights reserved.
 
-Portions of Content Provided by Rovi Corporation. © 2012 Rovi Corporation.
+Portions of Content Provided by Rovi Corporation. © 2012 Rovi Corporation.
