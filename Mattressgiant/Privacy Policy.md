@@ -44,7 +44,6 @@ Find a store
     *   Kingsdown
     *   Hotel Maison
     *   ComforPedic Phenom by Simmons
-    *   My Side
     *   Spring Air
 *   Bedding
     *   Top Rated Bedding
