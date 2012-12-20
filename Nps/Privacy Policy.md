@@ -9,8 +9,6 @@ National Park Service U.S. Department of the Interior
 *   Kids
 *   About Us
 
-Advanced Search
-
 *   small
 *   medium
 *   large
@@ -40,7 +38,7 @@ If you do nothing during your visit but browse through the website, read pages, 
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees or authorized concessioners who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
 **Links to Other Sites**  
-Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you click one of these partner links, you are no longer on our site and are subject to the privacy policy of the new site.
 
 **More Information  
 **Department of Interior Privacy Statement  
@@ -61,4 +59,4 @@ Department of Interior Childrens Privacy Statement
 *   No Fear Act
 *   Diversity
 
-Last Updated: 7/29/2011
+Last Updated: 12/19/2012
