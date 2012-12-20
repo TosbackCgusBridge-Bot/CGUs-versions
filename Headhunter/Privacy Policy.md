@@ -5,7 +5,7 @@
 *   All Jobs
 *   Employers
 
-Welcome to **HeadHunter.com** Login/Register Email Address or Password is Invalid You must be logged in to use this feature, but Login is currently unavailable while we perform necessary maintenance. Please try again later. Your request to sign in has timed out. Please try again later. Authorizing  Register/Login  Automatically sign me in next time. New to HeadHunter.com? Forgot password? Protect Your Privacy and Safety
+Welcome to **HeadHunter.com** Login/Register Email Address or Password is Invalid You must be logged in to use this feature, but Login is currently unavailable while we perform necessary maintenance. Please try again later. Your request to sign in has timed out. Please try again later. Authorizing  Register/Login  Automatically sign me in next time. New to Headhunter.com? Forgot password? Protect Your Privacy and Safety
 
 CareerBuilder, LLC and its subsidiaries and divisions (collectively, “CareerBuilder”, “We” or “Our”) has drafted its Privacy Policy to ensure that you can use CareerBuilder’s sites on your own terms and completely anonymously if you so desire. CareerBuilder continues to strive to provide the safest possible environment for you to search for and apply to jobs.
 
