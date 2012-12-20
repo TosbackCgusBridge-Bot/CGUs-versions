@@ -7,16 +7,6 @@ LiveJournal Inc. takes your privacy seriously. We are committed to making best e
 *   San Francisco, CA 94104
 *   Attn: Safe Harbor Compliance Unit
 
-**Council of Better Business Bureaus, Inc.:** LiveJournal is further committed to referring any unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveJournal, you may contact:
-
-*   Council of Better Business Bureaus, Inc.
-*   BBB EU Safe Harbor
-*   4200 Wilson Boulevard, Suite 800
-*   Arlington, VA 22203
-*   Phone:  703-276-0100
-*   Web: http://www.bbb.org/us/
-*   Email: eusafeharbor@council.bbb.org
-
 Account and Profile Information
 
 **Registration:** LiveJournal collects certain personal information when you register for the Service, including your name, date of birth, contact information (collectively, “identifiable personal information”). We ask for your date of birth in order to verify that you are over 13 years of age, but you are free to hide your date of birth or just the year you were born as well as all other identifiable personal information that you do not wish to share.
