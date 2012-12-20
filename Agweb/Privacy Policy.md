@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Dec 19, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Dec 20, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -129,7 +129,7 @@ Dec 19, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Audio Market Commentary
     *   AgWeb Radio Audio Reports
     
-     
+    *   AgriTalk 
 *   Machinery
     
     *   News
@@ -239,11 +239,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Young Farmers: Win Trips to Chicago, United Kingdom
-*   Chobani Celebrates Grand Opening of World’s Largest Yogurt Manufacturing Plant in Twin Falls, Idaho
-*   Power Hour: Investing in Farmland Not Guaranteed
-*   World Dairy Expo Unveils 2013 Cattle Judges
-*   Membership Vote Establishes FarmFirst Dairy Cooperative
+*   ‘Farmer Style’ Becomes YouTube Sensation
+*   Capture the Upside or Protect Your Profit?
+*   Winter Storm in the Making
+*   Power Hour: How Will Crop insurance Affect Acreage Decisions?
+*   November Milk Production up 1%
+*   Midwest Producers Covering Variable Costs
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
