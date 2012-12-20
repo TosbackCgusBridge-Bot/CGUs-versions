@@ -82,7 +82,6 @@ Skip to main content
     *   Anniversary Gifts
     *   Baby Gifts
     *   Business Gifts
-    *   Engraved Gifts
     *   Fragrance
     *   Gift Cards
     *   Wedding Gifts
