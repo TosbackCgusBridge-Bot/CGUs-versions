@@ -1,5 +1,3 @@
-**PCH. Publishers Clearing House**
-
 **PCHbingo, PCHlotto and PCHslots Privacy Policy**
 
 Last Updated: December 1, 2012
@@ -111,69 +109,3 @@ As stated in this Privacy Policy we do not share information with third parties 
 **11\. Further Questions?**
 
 We welcome any questions or comments you may have regarding this privacy policy and our information sharing practices. To contact us, please click on the “Contact PCHbingo/PCHlotto/PCHslots" link or write directly to us at Consumer &. Privacy Affairs, 382 Channel Drive, Port Washington, New York, 11050. Or you may visit our online customer support tool at http://pch.custhelp.com/app/answers/detail/a\_id/174.
-
-Other Channels
-
-*   PCHsearch&win.com
-    
-    FAST Searches! MILLIONS in Prizes! INSTANT Winners!
-    
-*   PCHgames.com
-    
-    Play FREE PCH Games! Earn Tokens! WIN PRIZES!
-    
-
-*   PCHlotto.com
-    
-    Play For Big Cash Prizes! Win Instantly At PCHlotto.com!
-    
-*   PCHtv.com
-    
-    Watch, Then WIN! Enter Now For Your Chance At Millions!
-    
-
-*   PCHonlinesurveys.com
-    
-    Share opinions and earn rewards. Start taking Surveys today!
-    
-*   PCHsaveandwin.com
-    
-    Print Brand Name Coupons, SAVE Time &. Money!
-    
-
-Media Center
-
-*   Media Inquiries
-*   Sweepstakes Information
-*   Press Release
-*   Advertise With Us
-
-Customer Care Center
-
-*   Customer Service / Info Center
-*   FAQ
-*   Scam Prevention
-*   Pay Online
-
-*   About PCH
-*   Pay Online
-*   Magazines
-*   Merchandise
-*   Canadian Residents
-*   Privacy Policy
-*   Terms of Use
-*   Customer Service
-*   Official Rules
-*   Sweepstakes Facts
-
-NO PURCHASE OR FEE NECESSARY TO ENTER. A PURCHASE WON'T IMPROVE AN INDIVIDUAL'S CHANCE OF WINNING.
-
-&COPY. Copyright 2012 PCH.com. All Rights Reserved.
-
-*   Join the Discussion **PCHblog**
-*   Become a Fan **facebook**
-*   Follow us on **twitter**
-
-**Truste**
-
-All trademarks and registered trademarks appearing on this site are the property of their respective owners. Said owners do not endorse nor are they affiliated with pch.com or its promotions.
