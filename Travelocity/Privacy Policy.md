@@ -1,4 +1,4 @@
-Print|Close Privacy Policy A popup blocker closed the window.
+A popup blocker closed the window.
 
 What you can do:
 
