@@ -1,9 +1,3 @@
-User Notices of The Seattle Times Company
-
-*   Terms of Service
-*   Privacy Statement
-*   Copyright
-
 Privacy Policy
 
 **Last Updated: December 19, 2012**
