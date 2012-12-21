@@ -74,32 +74,3 @@ CareerBuilder, LLC
 Attn: Customer Service  
 5550-A Peachtree Parkway  
 Norcross, GA 30092
-
-Join Our Talent Network Stay Connected.  Why?
-
-*   Home
-*   Featured Jobs
-    *   Server
-    *   Host/Hostess
-    *   Chef
-    *   Restaurant Manager
-*   Featured Companies
-    *   Red Robin
-*   All Jobs
-
-Join
-
-*   Join Our Talent Network
-
-Navigation
-
-*   Home
-*   Contact Us
-*   All Jobs
-
-Terms
-
-*   Privacy Policy
-*   Terms and Conditions
-
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
