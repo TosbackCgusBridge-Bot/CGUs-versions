@@ -1,9 +1,4 @@
-*   Home
-*   Friends
-*   Groups
-*   Share
-
-SIGN IN | HELP Gather Privacy Policy
+Gather Privacy Policy
 
 At Gather.com ("Gather"), we strive to develop innovative products and services to benefit our users and registered users ("Members"). We recognize that privacy is an important issue, so we design and operate our products and services with your privacy in mind. This Privacy Policy outlines the types of personal information we may collect when you use our service at gather.com ("Service"), which is further described in the Terms of Service ("TOS") available at http://www.gather.com/userTerms.jsp, as well as some of the steps we take to secure it.
 
@@ -68,6 +63,3 @@ At Gather.com ("Gather"), we strive to develop innovative products and services 
 *   Gather may update and change this Policy from time to time.
 *   All updates and changes will be posted on this web page.
 *   We will notify you directly if we make significant changes to this Policy.
-
-Gather | Friends | Groups | Share About Gather | Engagement Marketing | Gather Points | Advertise on Gather | Gather Press | Privacy | Terms of Service | Community Guidelines  
-Books | Business | Celebs | Entertainment | Family | Food | Giveaways | Health | Money | Moms | News | Politics | Sports | Style | Technology | Travel | Writing Version 18263, "Zach". Copyright © 2012 Gather Inc. All rights reserved.
