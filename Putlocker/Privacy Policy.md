@@ -1,4 +1,4 @@
-Upload My Files Go Pro Login | Sign Up Privacy Policy
+Privacy Policy
 
 Thank you for visiting the PutLocker website located at www.PutLocker.com (the "Site"). The Site is an Internet property of PutLocker Ltd. and its affiliated companies ("PutLocker," "we" or "us"). This PutLocker Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site. (b) become a Member (as defined in the PutLocker Website Terms and Conditions ("Terms and Conditions")). and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information.
 
@@ -80,18 +80,3 @@ Our business changes constantly and our UK Privacy Policy may also change from t
 For any inquiries you may contact us at +44 0121 288 3422 Contacting Us about Privacy Questions or Concerns
 
 If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at privacy@PutLocker.com
-
-  
-Copyright 2010-2012 PutLocker Home  
-My Files  
-Go Pro  
-Android App  
-About Us  
-Contacts  
-Link to Us  
-Tell a Friend  
-FAQ  
-DMCA  
-Terms and Conditions  
-Privacy Policy  
-Follow @putlockercom
