@@ -1,4 +1,4 @@
-Search by Name, Email, Username or Phone Location (optional) What is Deep Web? Privacy Policy
+Privacy Policy
 
 Pipl was built with both its usefulness and your privacy in mind. This policy describes the types of personal information we may collect from our users and how we may use such information.  
 (this policy is not relevant in any way to public information about you or other people that is found on the web and subsequently available on our site. If you'd like to control or remove such information - please click here to learn how).
@@ -38,29 +38,3 @@ We reserves the right to disclose information to third parties if we believe we 
 **Transfer of information**  
 Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
 We reserve the right to transfer information in the event of a transfer of ownership of Pipl, such as acquisition by or merger with another company.
-
-*   Terms
-    
-    |
-    
-*   Privacy
-    
-    |
-    
-*   Directory
-    
-    |
-    
-*   Developers
-    
-    |
-    
-*   Help
-    
-    |
-    
-*   Contact
-    
-    |
-    
-*   © 2006-2012 pipl
