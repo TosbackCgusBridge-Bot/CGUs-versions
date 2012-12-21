@@ -1,6 +1,6 @@
 Log In Privacy Policy 1. Data Collection, Processing and Use
 
-On the occasion of your registration on http://www.phonedeck.com, you will be asked to provide information about your personal or other conditions such as your full name, address, birth date, email address, telephone number ("**Personal Data**"). These Personal Data will be handled by desk.io GmbH (http://www.phonedeck.com/Company/About) ("**Phonedeck**"), respectively by the involved payment provider with regard to the method of payment, in strict confidence according to the legal provisions. The Data will only be collected, processed and used for the purpose of executing the contract, unless you expressly consent to other uses. The Data are collected, used and processed electronically.
+On the occasion of your registration on http://www.phonedeck.com, you will be asked to provide information about your personal or other conditions such as your full name, address, birth date, email address, telephone number ("**Personal Data**"). These Personal Data will be handled by desk.io GmbH (http://www.phonedeck.com/company/about) ("**Phonedeck**"), respectively by the involved payment provider with regard to the method of payment, in strict confidence according to the legal provisions. The Data will only be collected, processed and used for the purpose of executing the contract, unless you expressly consent to other uses. The Data are collected, used and processed electronically.
 
 2\. Data Use
 
@@ -49,21 +49,21 @@ _Effective: September 01, 2011_
 
 *   Product
 *   Android
+*   iPhone
 *   Nokia
 *   Support
 
 *   Company
-*   About Us
+*   About us
 *   Press Room
 *   Jobs
 *   Contact
 
 *   Legal
 *   Privacy Policy
-*   Terms of Service
+*   Terms of Services
 *   Imprint
 
 *   Connect
 *   Facebook
 *   Twitter
-*   Blog
