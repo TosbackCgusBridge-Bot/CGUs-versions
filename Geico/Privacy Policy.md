@@ -146,5 +146,3 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Insurance Agency, Inc.
 
 The Effective Date of the revised Privacy Policy is June 21, 2012.
-
-*   © 1996- GEICO
