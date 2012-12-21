@@ -85,5 +85,5 @@ Or you can contact us by mail at:
 
 _Customer Care  
 About.com, Inc.  
-249 West 17th Street  
-New York, NY 10011_
+1500 Broadway, 6th Floor  
+New York, NY 10036_
