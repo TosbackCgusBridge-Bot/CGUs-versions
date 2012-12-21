@@ -1,42 +1,3 @@
-       
-
-Global Navigation
-
-*   SIGN UP
-*   SIGN IN
-*   HELP
-
-   
-
-*   Home
-*   Browse
-*   Shop
-*   On Demand
-*   Stores
-*   Mobile
-
- 
-
-*   Movies
-*   TV Shows
-*   Games
-
-*   Movies
-*   TV Shows
-*   Games
-*   Deals
-*   Gifts
-
-*   How On Demand Works
-*   On Demand Devices
-*   Rent
-*   Buy
-*   My Library
-
-*   Find a Store
-*   Promotions
-*   Membership
-
 Privacy Policy Updated November 20, 2008
 
 Blockbuster LLC ("Blockbuster") operates a variety of web sites ("Web Site" or "Site") including www.blockbuster.com and is committed to protecting the privacy of our Web Site users ("Users") and BLOCKBUSTER® members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Blockbuster will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
@@ -188,21 +149,3 @@ If Users have any questions or suggestions regarding our privacy policy, please 
 Web: visit www.blockbuster.com, select 'Contact Us' and complete the contact form
 
 Postal Address: ATTN: Online Customer Care, 3000 Redbud Blvd, McKinney, TX 75069
-
-  Blockbuster
-
-*   About Us
-*   Blockbuster Blog
-*   News and Public Relations
-*   Careers
-*   Business Opportunities
-*   Investor Relations
-*   Become an Affiliate
-*   Site Map
-*   Terms and Conditions
-*   Privacy Policy
-
-BLOCKBUSTER name, design and related marks are trademarks of Blockbuster L.L.C.  
-© 2012 Blockbuster L.L.C. All rights reserved.
-
-Portions of Content Provided by Rovi Corporation. © 2012 Rovi Corporation.
