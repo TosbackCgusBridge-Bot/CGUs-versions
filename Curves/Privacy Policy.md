@@ -1,4 +1,4 @@
-**PRIVACY POLICY**
+Privacy Policy
 
 The privacy policies described below are a promise made to our online visitors by Curves International, Inc. We respect the privacy of our online visitors. We may collect information on or through this site that can personally identify you. For example, we collect personally identifiable information which you volunteer to us to respond to visitor questions and comments about us and our products and services, and to mail e-newsletters. In addition, we may also collect demographic and other data for market research, advertising and promotional purposes, we may collect your site usage data through our use of Internet cookie technology or similar devices, or we may receive information about you from third parties under a requirement that your information is then subject to the terms of this policy while in our possession or control. Collectively, we call all of this information your Personal Data.
 
