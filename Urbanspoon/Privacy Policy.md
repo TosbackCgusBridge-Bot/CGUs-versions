@@ -1,4 +1,4 @@
-**Sign In** **Choose a city:**   Calgary    Los Angeles    New York    Portland    Vancouver    Washington State      **More Cities...**
+**Sign In** **Choose a city:**   Bellingham    Los Angeles    New York    Olympia    Victoria    Washington State      **More Cities...**
 
 Terms of Service
 
