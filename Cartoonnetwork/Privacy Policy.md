@@ -122,7 +122,7 @@ The Privacy Statement posted on this Site was updated on or about August 6, 2012
 The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences in content provided online, mobile or on other digital platforms or environments.
 
 Cartoon Network is home to your favorite cartoons, videos and free games. Play games online with your favorite Cartoon Network characters, like Naruto games and Star Wars: The Clone Wars games. Watch full episodes of your favorite TV shows like Total Drama Island and Pokemon! PRIVACY POLICY | TRADEMARK INFORMATION | TERMS OF USE | HELP | CONTACT US | EUALA  
-PARENT GUIDE | TV PARENTAL CONTROLS | CLOSE CAPTIONING | PRESS ROOM | ADVERTISE WITH US | WORK WITH US | INTERNATIONAL SITES  
+PARENT GUIDE | TV PARENTAL CONTROLS | CLOSED CAPTIONING | PRESS ROOM | ADVERTISE WITH US | WORK WITH US | INTERNATIONAL SITES  
   
 Use of this site signifies your agreement to the Terms of Use. TM &. © 2011 Cartoon Network. A Time Warner Company. All Rights Reserved.  
 CartoonNetwork.com is part of Turner Entertainment Digital which is part of the Turner Sports &. Entertainment Digital Network.  
