@@ -106,27 +106,9 @@ Attn: Returns
 5025 Campstool Rd  
 Cheyenne, WY 82007-1898
 
-Security Policy
+Terms of Use
 
-Please do not use email to send us your credit card information. Email communication is not secure.
-
-At Sierra Trading Post, the security of your personal information is our top priority. We insure confidentiality and security in three ways.
-
-Personal Information
-
-Personal information, including your credit card number, is encrypted and sent only over secure Internet lines. While using Secure Socket Layer (SSL) technology, your Microsoft Internet Explorer or Firefox browser will let you know when the line is secure. Internet Explorer and Firefox use a "lock" icon for their browsers. These "locks" will appear on the browser when using a secure line. On both browsers the "http:" pre-fix will read "https:" when accessing a secure server. If these indicators are present, you can be confident of a secure data transaction.
-
-Credit Card information
-
-We do not store complete credit card information on our web server. Once your order is placed, we send the order to our main order processing system using a "one-way" private network. If you choose to have us safely store your credit card number on our web server for future ordering convenience, we will only store partial information. If you choose not to store your credit card information with us, it will be deleted entirely from our web records.
-
-PCI Compliance
-
-We take your financial security seriously and are confident that we have made shopping on our website safe for all customers. We are compliant with the rigorous security requirements set by the PCI (Payment Card Industry) and have been certified PCI compliant by non-affiliated, third party licensing companies. We employ various firewalls and other security tactics to keep your information secure.
-
-While there is some risk inherent in every Internet transaction, you can rest assured that we are working overtime to ensure that risk is minimal.
-
-If you are still unsure about the security of your information or if you use a browser that does not support SSL technology, please call us toll free with your information at 1-800-713-4534 or fax us at 1-800-378-8946.
+Our Terms of Use are available on this page.
 
 Privacy Policy
 
@@ -197,11 +179,23 @@ Fax: 1-800-378-8946
 
 Live Chat Now Open 24/7
 
+California Privacy
+
+Notice to California Residents - Your California Privacy Rights
+
+If you are a California resident, California law provides that you be given the opportunity to opt out of our sharing your personal information with third parties that would use such personal information for their own direct marketing. Absent such an opt-out, we may share your information as described in the "Privacy Policy" above. Accordingly, per California law, we provide a way for you to opt out if you do not want us to share your information in this manner.
+
+If you are a California resident, you may ask us to refrain from sharing your personal information with third parties for their marketing purposes. Please tell us your preference by contacting Customer Service. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name and addresses under which you have been receiving communications from us. Please note that it may take us up to 30 days to fully process your opt-out request.
+
 Knives Policy
 
 The sale of certain knives, including without limitation "dangerous knives," is restricted by some federal, state, and local laws. When you purchase or order a knife from Sierra Trading Post by any method, you represent and agree to the following conditions of purchase: You are of legal age to purchase the knife ordered, and that knife can be legally purchased and possessed by you under your applicable local, state, county, city, and federal laws. You understand and agree that Sierra Trading Post does not offer any guarantee of performance or expectation, and that the knife by its very nature may be dangerous and potentially lethal. You assume all risks associated with ownership and use of the knife, and will not hold Sierra Trading Post responsible or liable for any injury resulting from ownership, use, misuse, or defect. You will not use any knife purchased from Sierra Trading Post for an unlawful purpose.
 
 Air Rifles Policy
+
+Sierra Trading Post has decided not to sell air rifles on-line.
+
+We remind all our customers of our Air Rifle Policy, which remains in effect.
 
 The sale of air rifles is restricted by some federal, state and local laws. When you order or purchase an air rifle from Sierra Trading Post by any method, you represent by your actions as a condition of purchase that:
 
