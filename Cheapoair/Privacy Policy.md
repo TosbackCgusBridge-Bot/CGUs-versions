@@ -138,9 +138,9 @@ Suite 1301
 New York, NY 10001  
 cservice@CheapOair.com**  
   If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact TRUSTe. TRUSTe will serve as a liaison with us to resolve your concerns.  
-  ADVERTISEMENT   Be the first to get our latest flight deals and discounts! PLUS, get $20 instantly\* You're All Set!  
+  ADVERTISEMENT   Be the first to get our latest flight deals and discounts! PLUS, save $20 instantly\*\* You're All Set!  
   
-Thanks for signing up to receive our newsletter! Be sure to check your email for a promo code to save $20\* off your next flight.  
+Thanks for signing up to receive our newsletter! Be sure to check your email for a promo code to save $20\*\* off your next flight.  
 \* Terms and Conditions   ADVERTISEMENT
 
 *   Quick Links:
