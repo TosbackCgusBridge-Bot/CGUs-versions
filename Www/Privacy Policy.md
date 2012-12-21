@@ -4,6 +4,8 @@ _An Official Web Site of the United States Government_
 
 Change Text Size
 
+*   Login
+
 Search form Search
 
 *   Home
@@ -16,7 +18,6 @@ Search form Search
     *   Geo Data
     *   Gallery
 *   Apps
-*   Communities
 *   Metrics
     *   Federal Agency
         *   Agency Participation
@@ -35,6 +36,21 @@ Search form Search
     *   Open Data Sites
     *   For Developers
 *   Blogs
+*   Communities
+    *   Business
+    *   Cities
+    *   Counties
+    *   Developer
+    *   Education
+    *   Energy
+    *   Ethics
+    *   Law
+    *   Manufacturing
+    *   Ocean
+    *   Restore the Gulf
+    *   Safety
+    *   States
+    *   Supply Chain
 
 Privacy Policy
 
