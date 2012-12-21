@@ -1,28 +1,3 @@
-National Park Service U.S. Department of the Interior
-
-*   Find a Park
-*   Discover History
-*   Explore Nature
-*   Working with Communities
-*   Get Involved
-*   Teachers
-*   Kids
-*   About Us
-
-*   small
-*   medium
-*   large
-
-  
-Connect with Us
-
-*   Facebook
-*   iTunes
-*   Twitter
-*   YouTube
-
-Privacy Statement
-
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website.
 
 **What We Collect and Store Automatically**  
@@ -43,20 +18,3 @@ Our website has many links to our partners, especially other federal agencies. I
 **More Information  
 **Department of Interior Privacy Statement  
 Department of Interior Childrens Privacy Statement
-
-*   Site Index
-*   Frequently Asked Questions
-*   Contact Us
-*   Disclaimer
-*   Accessibility
-
-*   World Heritage
-*   Privacy
-*   FOIA
-*   Notices
-*   DOI
-*   USA.gov
-*   No Fear Act
-*   Diversity
-
-Last Updated: 12/19/2012
