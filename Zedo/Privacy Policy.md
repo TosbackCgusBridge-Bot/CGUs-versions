@@ -1,27 +1,4 @@
-Follow @ZEDOinc Opt Out | Privacy | Contact | Customer Login ZEDO, Inc. ZEDO is a leading global ad platform company
-
-*   Home
-*   Publishers
-*   About Us
-*   News
-*   Blog
-
-*   Publishers
-*   About Us
-    *   Management Team
-    *   Board of Directors
-    *   Investors
-    *   Jobs
-    *   Privacy Policy
-    *   Fight Spyware
-    *   Opt Out
-*   News
-*   Blog
-*   Contact Us
-
-Search Search for: Get in touch Contact our sales representatives for more details.  
-  
-Contact Now Home >. About Us >. Privacy Policy ZEDO, Inc. Privacy Policy
+Home >. About Us >. Privacy Policy ZEDO, Inc. Privacy Policy
 
 _Updated May 2012_
 
@@ -90,31 +67,3 @@ If you have any comments or questions regarding this Privacy Statement, please c
 850 Montgomery St. Suite 150  
 San Francisco, CA 94133  
 Tel: 415-348-1975
-
-Comments are closed.
-
-Products ZEDO Ad Server  
-Self Service  
-Yield Optimizer  
-AdMagic  
-Rich Media  
-Ad Operations  
-Newspaper  
-Mobile Ad Serving  
-Resources Get Started  
-Customer Login  
-About Ad Servers  
-Privacy  
-Fight Spyware  
-Opt Out  
-For Ad Networks  
-For Advertisers About ZEDO Management Team  
-Board Of Directors  
-Investors  
-Jobs  
-News  
-Blog  
-Contact  
-Popular Viewable Impressions  
-The InView Debate  
-Ad Formats that work
