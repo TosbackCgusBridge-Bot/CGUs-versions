@@ -167,11 +167,11 @@ Learn more Other Resources
 *   Overview
 *   Protecting Yourself
 *   Defending Against Fraud
-    *   Fraudulent E-Mail Samples
+    *   Fraudulent Email Samples
 *   Doing Our Part
     *   Account Number Protection
     *   Electronic Shipping Security
-*   Privacy Policy (US only)
+*   Privacy Policy (U.S. only)
 *   Privacy Policy
 
 **Suspicious e-mails?**Learn more about fraudulent FedEx e-mails that may contain a virus_Click here_ Privacy Policy for "fedex.com"
