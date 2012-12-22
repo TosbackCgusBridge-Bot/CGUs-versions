@@ -6,7 +6,6 @@ Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x
     *   Military Gifts
     *   Pantry Essentials
     *   Fruit &. Nuts
-    *   Sweets &. Cookies
     *   **New!** Wine Gifts
     *   HoneyGold ® Ham
     *   Online Exclusives
