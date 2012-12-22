@@ -1,6 +1,6 @@
 *   Experian.com
-*   Personal Services
-*   Enterprise Services
+*   Personal
+*   Business
 *   Small Business
 *   About Experian
 *   Credit Education
