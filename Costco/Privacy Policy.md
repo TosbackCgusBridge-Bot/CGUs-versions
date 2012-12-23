@@ -1,4 +1,5 @@
-\[privacy-policy-1\_Slot 1\] Costco Wholesale Corporation Privacy Statement (United States and Puerto Rico)  
+\[privacy-policy-1\_Slot 1\] Costco Wholesale Corporation  
+Your Privacy Rights (United States and Puerto Rico)  
 Last Updated October 22, 2012
 
 This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our customers who: (1) shop in our United States and Puerto Rico warehouses or (2) use our website, www.costco.com.
