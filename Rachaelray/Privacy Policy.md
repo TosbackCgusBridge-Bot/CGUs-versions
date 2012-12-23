@@ -182,12 +182,12 @@ Tweet Advertisement Quick Links
 
 5 Most Recent Articles
 
-1.  ► TV PERSONALITY RACHAEL RAY TO DONATE MORE THAN $750,000 TO PETS IN NEED
-2.  ► Fun - and Healthy - School Treats for the Classroom
-3.  ► Back to School Jitters: Tips to ease your child's  
+1.  ► Commonly Asked Questions regarding Products
+2.  ► TV PERSONALITY RACHAEL RAY TO DONATE MORE THAN $750,000 TO PETS IN NEED
+3.  ► Fun - and Healthy - School Treats for the Classroom
+4.  ► Back to School Jitters: Tips to ease your child's  
     transition into the new school year
-4.  ► It's Back to School Time: Keep Your Kids Healthy this School Year
-5.  ► Now you can get things
+5.  ► It's Back to School Time: Keep Your Kids Healthy this School Year
 
 Advertisement Rachael Ray
 
