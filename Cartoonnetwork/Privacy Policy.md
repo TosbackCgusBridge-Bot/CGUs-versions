@@ -1,21 +1,3 @@
- 
-
-*   HOME
-*   GAMES
-*   SHOWS
-*   COMMUNITY
-*   SHOP
-*   SCHEDULE
-*   LIVE TV
-*   SEARCH
-
-X
-
-ENTER KEYWORDS
-
-ALL CARTOON NETWORK SHOWS Adventure Time Almost Naked Animals Annoying Orange Bakugan: Mechtanium Surge Batman: The Brave and the Bold Ben 10 Ben 10 Alien Force Ben 10 Ultimate Alien Beyblade Metal Fusion Boomerang Camp Lazlo Cartoon Network Universe: FusionFall Chowder Codename: Kids Next Door Courage the Cowardly Dog Cow &. Chicken DC Nation Destroy Build Destroy Dexter's Laboratory Dragons: Riders of Berk Dude, What Would Happen Ed, Edd n Eddy Firebreather Foster's Home for Imaginary Friends Generator Rex Green Lantern Hall of Game Hero: 108 Hole in The Wall Johnny Bravo Johnny Test Lego Level Up MAD Move It Movement My Gym Partner's a Monkey Ninjago NBA Pokemon: Black &. White Powerpuff Girls Redakai Regular Show Samurai Jack Scaredy Squirrel Scooby Doo! Mystery Incorporated Secret Mountain Fort Awesome Sidekick Star Wars: The Clone Wars Stop Bullying: Speak Up Teen Titans The Amazing World of Gumball The Garfield Show The Grim Adventures of Billy &. Mandy The Looney Tunes Show The Marvelous Misadventures of Flapjack The Problem Solverz The Secret Saturdays Time Squad TKO: Titanic Kungfubot Offensive Tom and Jerry Total Drama: Return to the Island Young Justice: Invasion CLOSE X PRIVACY POLICY | TRADEMARK INFORMATION | TERMS OF USE | PARENT GUIDE | HELP | TV PARENTAL CONTROLS | EUALA  
-CONTACT US | PRESS ROOM | WORK WITH US | INTERNATIONAL SITES Privacy Policy
-
 Thank you for visiting Cartoon Network. Your privacy is important to us. To better protect your privacy, and to help ensure a rewarding online experience for all visitors, we provide this Privacy Statement summarizing our online information practices and explaining the choices you can make about the way your information is collected and used. This Privacy Statement, where posted, applies to our information practices on Cartoon Network's Web sites (the "Sites") and for products and services we make available on various mobile devices or other platforms ("Apps"). This Privacy Statement does not apply to any other information collected by Cartoon Network and its affiliated entities through any other means. Cartoon Network and its affiliated entities are collectively referred to in this Privacy Statement as "Cartoon Network," "we" or "us."
 
 Cartoon Network is committed to providing fun, safe and secure Sites and Apps for people of all ages. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet. Because many visitors to the Sites are children, we make efforts to ensure that children access only the content that is appropriate for them. In addition, we employ special measures to help children protect their privacy while online. We do not ask children to disclose more personal information than is necessary for them to participate in a particular activity, and we take steps to prevent children from posting contact information.
@@ -120,14 +102,3 @@ The Privacy Statement posted on this Site was updated on or about August 6, 2012
 **X. A Final Note to Parents**
 
 The Internet offers a world of opportunity for children. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. Your efforts to instill responsible information practices will help steer your children to age-appropriate sites, and will go a long way toward ensuring that your children have enriching experiences in content provided online, mobile or on other digital platforms or environments.
-
-Cartoon Network is home to your favorite cartoons, videos and free games. Play games online with your favorite Cartoon Network characters, like Naruto games and Star Wars: The Clone Wars games. Watch full episodes of your favorite TV shows like Total Drama Island and Pokemon! PRIVACY POLICY | TRADEMARK INFORMATION | TERMS OF USE | HELP | CONTACT US | EUALA  
-PARENT GUIDE | TV PARENTAL CONTROLS | CLOSED CAPTIONING | PRESS ROOM | ADVERTISE WITH US | WORK WITH US | INTERNATIONAL SITES  
-  
-Use of this site signifies your agreement to the Terms of Use. TM &. © 2011 Cartoon Network. A Time Warner Company. All Rights Reserved.  
-CartoonNetwork.com is part of Turner Entertainment Digital which is part of the Turner Sports &. Entertainment Digital Network.  
-TM &. © 2011 Lucasfilm Ltd. All Rights Reserved. Used Under Authorization.  
-TM &. © 2012 DreamWorks Animation LLC. All Rights Reserved.  
-iPad and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.  
-STAR WARS and all characters, names and related indicia are © 2012 Lucasfilm Ltd. &. TM. All rights reserved.  
-THE LORD OF THE RINGS: © NLP? Middle-earth Ent. Lic. to New Line. (s12)
