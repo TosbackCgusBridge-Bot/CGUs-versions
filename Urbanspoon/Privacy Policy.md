@@ -1,5 +1,3 @@
-**Sign In** **Choose a city:**   Bellingham    Los Angeles    New York    Olympia    Victoria    Washington State      **More Cities...**
-
 Terms of Service
 
 Urbanspoon Privacy Policy
@@ -84,8 +82,3 @@ Your California privacy rights
 If you are a resident of California, you have the right to request information from us once every calendar year regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. You may request a copy of the information disclosed by sending an email to: legal@urbanspoon.com.
 
 We may provide this information in any format at our discretion which may not be specific to you.
-
-  
-Careers | Contact Us | Blog | Go Mobile | About Us | Terms of Service | Privacy | FAQ  
-
-Get Urbanspoon on the iPhone Partner Sites: Ask Answers | Life123 | Bloglines | Citysearch | Insider Pages | MerchantCircle
