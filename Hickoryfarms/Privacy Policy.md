@@ -1,14 +1,11 @@
 Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x Questions? Call **800.753.8558**   Log In Track Order Cart (0, $0.00)
 
 *   *   Sausage &. Cheese
-    *   Baskets &. Towers
-    *   New &. Classic Gifts
     *   Military Gifts
     *   Pantry Essentials
     *   Fruit &. Nuts
     *   **New!** Wine Gifts
     *   HoneyGold ® Ham
-    *   Online Exclusives
     *   Corporate Gifts
 *   *   $30 &. Under
     *   $40 &. Under
