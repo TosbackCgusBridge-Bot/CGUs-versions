@@ -152,6 +152,8 @@ Last update February 16, 2012
 *   » Content Policies
 *   » Copyright Infringement
 
+We've recently updated our privacy policy which you can review here.
+
 *   About Us
 *   Blog
 *   Help
