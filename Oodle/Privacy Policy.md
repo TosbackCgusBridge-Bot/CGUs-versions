@@ -128,7 +128,7 @@ Oodle may also disclose information with:
 *   Our partner web sites if you create an account on one of those sites.
 *   Service providers under contract who help us with business operations such as fraud investigations.
 
-If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy.
+We may share Personally Identifiable Information and other information about you with our parent company, affiliates, and subsidiaries for the use and benefit of those companies. If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy.
 
 International Users
 
@@ -136,7 +136,7 @@ The Sites are hosted in the United States. If you use the Sites from outside of 
 
 More Questions? If you have any questions about this Privacy Policy or want to report abuse, please contact us at abuse@oodle.com.
 
-Last update February 16, 2012
+Last update December 21, 2012
 
 *   About Oodle
 *   Marketplace for Mobile
