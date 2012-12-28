@@ -1,13 +1,13 @@
 This notice of privacy practices was updated on June 10, 2011.  
   
-This notice of privacy practices applies to information collected in Macy’s stores, online at macys.com, and via mobile applications (Macy’s iShop, macys.com accessed through your mobile device).  To view your separate Department Store National Bank Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
+This notice of privacy practices applies to information collected in Macy’s stores, online at macys.com, and via mobile applications (Macy’s iShop, macys.com accessed through your mobile device).  To view your separate Department Store National Bank Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
   
 This Notice of Privacy Practices explains:
 
 *   The kinds of information we collect;
 *   How we use information; 
 *   Our information sharing practices; 
-*   Customer Preferences and Opt-Out Choices. and
+*   Customer Preferences and Opt-Out Choices
 *   How you may access some of the information you provide to us.
 
 We encourage you to refer to this notice periodically so that you understand our current privacy practices.  
