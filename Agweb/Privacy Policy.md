@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Dec 27, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Dec 28, 2012 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -239,9 +239,9 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Ethanol’s Discount to Gasoline Widens to Biggest in 3 Months
-*   Farmers Need to Throw Weight Behind Export Initiatives
-*   Power Hour: Start Scenario Planning for 2013
+*   Young Farmers: See You in Chicago
+*   Join Farmers Feeding the World in Making a Difference
+*   Power Hour: Risk Management at Forefront in 2013
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
@@ -252,6 +252,6 @@ ALSO RECOMMENDED
 *   Nearly 2,000 Farmers Share Voting Intentions
 *   Farmers React to Obama's Atkinson, Ill., Town Hall
 *   High-Profile Crash of a Titan
-*   Ethanol Subsidy Under Fire
+*   Stamp Farms Declares Bankruptcy
 
       AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2012 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
