@@ -93,11 +93,19 @@ Oregon state law governs the interpretation of this Policy and applies to claims
 
 **Changes to This Online Privacy Policy**
 
-We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the top. If there are material changes to this Policy or in how adidas will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas is protecting your information.
+We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the bottom. If there are material changes to this Policy or in how adidas will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas is protecting your information.
 
 **How to Contact Us**
 
-If you have questions or comments about our privacy practices, please contact us by e-mail privacy.policy@adidas.com.
+If you have questions or comments about our privacy practices, please contact us by e-mail privacy.policy@adidas.com or by mail at the following address.
+
+adidas America
+
+Attn: Legal Privacy Policy
+
+5055 N Greeley Ave
+
+Portland, OR 97217
 
 If you have a question regarding a product or service, please contact Customer Service by e-mail customerservice@service.shopadidas.com.
 
@@ -113,4 +121,4 @@ For European Union and Swiss residents, any questions or concerns regarding the 
 
 To return to the Website, please use the "Back" button on your browser.
 
-REV: 06/21/2012
+REV: 12/28/2012
