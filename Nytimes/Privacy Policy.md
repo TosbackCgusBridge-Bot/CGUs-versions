@@ -256,14 +256,7 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help The best in women's fashion and beauty
-
-Also in T Magazine »
-
-*   Our favorite stories of 2012 in men's fashion
-*   A collection of the year's best in art, music and film
-
-  
+Search Help
 
 *   © 2012 The New York Times Company
 *   Site Map
