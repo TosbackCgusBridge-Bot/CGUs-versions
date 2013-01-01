@@ -100,4 +100,4 @@ MasterCard is a registered trademark of MasterCard International Incorporated.
   
 The name “The Approved Card” and the card design are trademarks of APPROVED LLC. All other trademarks and service marks are the property of their respective owners. The Approved Prepaid MasterCard is offered exclusively by APPROVED LLC and its authorized agents and is administered by RedWage LLC.  
   
-Copyright ©2012 APPROVED LLC. All rights reserved.
+Copyright ©2013 APPROVED LLC. All rights reserved.
