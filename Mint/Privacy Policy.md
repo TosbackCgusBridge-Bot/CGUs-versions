@@ -167,6 +167,6 @@ Intuit Inc.
 
 Intuit Legal Notice | Terms of Service | Privacy | About Intuit
 
-© 2012 Intuit, Inc. All rights reserved. Intuit and Quicken are registered trademarks of Intuit, Inc.  
+© 2013 Intuit, Inc. All rights reserved. Intuit and Quicken are registered trademarks of Intuit, Inc.  
 Terms, conditions, features, availability, pricing, fees, service and support options subject to change without notice.  
 iPad and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries.
