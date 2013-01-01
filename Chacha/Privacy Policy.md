@@ -146,4 +146,4 @@ Connect
 
 Become a ChaCha Fan on Facebook Follow ChaCha on Twitter
 
-© Copyright 2006-2012 ChaCha Search, Inc. – Experimental Use, All Rights Reserved, May Be Covered by US or Foreign Patents or Patents Pending. Copyright Notice _|_ Terms of Use _|_ Privacy
+© Copyright 2006-2013 ChaCha Search, Inc. – Experimental Use, All Rights Reserved, May Be Covered by US or Foreign Patents or Patents Pending. Copyright Notice _|_ Terms of Use _|_ Privacy
