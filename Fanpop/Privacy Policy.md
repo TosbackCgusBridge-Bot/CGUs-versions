@@ -97,4 +97,4 @@ Facebook Twitter Youtube
 
 In Partnership with BUZZMEDIA Entertainment. Fanpop is independently owned and operated.
 
-© 2006-2012 Fanpop, Inc., All Rights Reserved.
+© 2006-2013 Fanpop, Inc., All Rights Reserved.
