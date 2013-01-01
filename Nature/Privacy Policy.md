@@ -234,7 +234,7 @@ More Ratings
     *   Marketplace by Resolution
     *   Give a Gift
 
-Copyright © 2012 The Nature Conservancy.
+Copyright © 2013 The Nature Conservancy.
 
 *   Privacy Policy
 *   Terms of Use
