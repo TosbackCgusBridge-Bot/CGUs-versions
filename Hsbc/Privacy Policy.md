@@ -156,6 +156,6 @@ HSBC is licensed by DTC under U.S. Patent Nos. 5,910,988. 6,032,137. 5,717,868. 
 *   Terms &. Conditions
 *   Data Protection &. Privacy Statement
 *   Cookie Policy
-*   © Copyright HSBC Group 1992 - 2012 - All rights reserved.
+*   © Copyright HSBC Group 1992 - 2013 - All rights reserved.
 
 No endorsement or approval of any third parties or their advice, opinions, information, products or services is expressed or implied by any information on this Site or by any hyperlinks to or from any third party websites or pages. Your use of this website is subject to the terms and conditions governing it. Please read these terms and conditions before using the website.
