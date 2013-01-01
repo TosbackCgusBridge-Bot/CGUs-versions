@@ -322,4 +322,4 @@ You are entitled to access and correct your Data by doing so directly on the web
 *   CONTENT PARTNER PROGRAM
 *   PRIVACY POLICY
 
-Copyright © 2007-2012 Tube8.com, All Rights Reserved.
+Copyright © 2007-2013 Tube8.com, All Rights Reserved.
