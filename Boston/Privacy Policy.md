@@ -1,6 +1,6 @@
 Privacy Policy  
   
-This policy was last updated on **June 20, 2012**.  
+This policy was last updated on **December 31, 2012**.  
   
 This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.  
   
@@ -184,4 +184,4 @@ If, at any time, you wish to opt out of receiving any direct mail and/or telepho
   
 **CHANGES TO THIS POLICY**  
   
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this site thirty (30) days prior to taking effect and registered users will be notified via e-mail.
