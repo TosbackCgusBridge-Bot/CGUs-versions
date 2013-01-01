@@ -117,7 +117,7 @@ If you have any questions about this Privacy Policy or our information-handling 
 > New York, New York 10011  
 > privacy@vimeo.com
 
-©2012Vimeo, LLC. All rights reserved.
+©2013Vimeo, LLC. All rights reserved.
 
 Linked information: Cookies:
 
