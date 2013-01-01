@@ -153,6 +153,6 @@ TripAdvisor LLC
 Newton, MA 02464, USA  
   
 
-©2012 TripAdvisor LLC. All rights reserved.  
+©2013 TripAdvisor LLC. All rights reserved.  
 
 This Privacy Policy is effective as of July 1, 2011
