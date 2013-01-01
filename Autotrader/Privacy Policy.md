@@ -93,6 +93,6 @@ The web is an evolving medium. If we need to change our privacy policy at some p
 
 By using this service, you accept the terms of our Visitor Agreement. Privacy Statement. AdChoices
 
-© 2012 AutoTrader.com, Inc. All Rights Reserved. "AutoTrader.com" is a registered trademark of TPI Holdings, Inc. used under exclusive license.
+© 2013 AutoTrader.com, Inc. All Rights Reserved. "AutoTrader.com" is a registered trademark of TPI Holdings, Inc. used under exclusive license.
 
 Become a Fan of AutoTrader.com on Facebook Follow AutoTrader.com on Twitter See AutoTrader.com Videos on YouTube AutoTrader.com on Google+
