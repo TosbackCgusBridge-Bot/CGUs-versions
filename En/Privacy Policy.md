@@ -308,6 +308,6 @@ Searches:
     *   Softonic Newsletter
     *   OnSoftware
 
-Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2012 - All rights reserved
+Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2013 - All rights reserved
 
 Softonic logo
