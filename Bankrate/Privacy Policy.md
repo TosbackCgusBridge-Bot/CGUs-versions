@@ -155,4 +155,4 @@ Fax Number: (561)625-4540
 
 California privacy rights requests must include the reference “Request for California Privacy Information” on the subject line and in the body of the message and must include the e-mail address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified in this paragraph. 
 
-About us Advertise with Bankrate Partners Press Room Investor Relations Contact Us Sitemap Understanding Bankrate's rate averages ｩ 2012 Bankrate, Inc. All Rights Reserved. Privacy Policy/Your California Privacy Rights Terms of Use
+About us Advertise with Bankrate Partners Press Room Investor Relations Contact Us Sitemap Understanding Bankrate's rate averages ｩ 2013 Bankrate, Inc. All Rights Reserved. Privacy Policy/Your California Privacy Rights Terms of Use
