@@ -101,4 +101,4 @@ AOL.com | Download AOL | Get AIM | Free Email | Advertise with Us | AOL Inc. | P
 
 AOL.com is AOL's customizable portal experience on the Web, providing top news, movies, music, weather, finance, sports, horoscopes, an RSS Feed Reader and more. quick and easy access to AOL Mail, AOL Instant Messenger and MapQuest. as well as convenient access to third party services such as eBay, Gmail and Yahoo Mail, Twitter, Facebook and MySpace.
 
-© 2012, AOL Inc. All rights reserved. | Help | My Account
+© 2013, AOL Inc. All rights reserved. | Help | My Account
