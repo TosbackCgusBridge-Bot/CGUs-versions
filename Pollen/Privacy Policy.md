@@ -76,5 +76,5 @@ Or send us a message by clicking here.
 
 Important Information About Accepting/Declining Cookies
 
-Home  |   Site Map   |   Pollen Blog   |   F.A.Q.   |   Contact Us   |   About Us   |   Privacy Policy   |   Advertising   |   Allergy Links Copyright © 2012 IMS Health Incorporated. All rights reserved. Terms of Use  |  Pollen.com Mobile Site  
+Home  |   Site Map   |   Pollen Blog   |   F.A.Q.   |   Contact Us   |   About Us   |   Privacy Policy   |   Advertising   |   Allergy Links Copyright © 2013 IMS Health Incorporated. All rights reserved. Terms of Use  |  Pollen.com Mobile Site  
 Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 9/19/2012
