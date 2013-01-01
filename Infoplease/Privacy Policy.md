@@ -156,4 +156,4 @@ If you have any questions about this privacy statement, the practices of Family 
 
   
   Rights | Privacy | Terms of Use  
-© 2000-2012 Pearson Education, Inc. All rights reserved
+© 2000-2013 Pearson Education, Inc. All rights reserved
