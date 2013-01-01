@@ -212,6 +212,6 @@ Supermedia
 
 Data provided by one or more of the following: SuperMedia, Acxiom, Infogroup   |   \* Sponsored Results
 
-© 2009 - 2012 SuperMedia LLC. All rights reserved. \* Restrictions apply. For full details, see the Terms and Conditions for this program.
+© 2009 - 2013 SuperMedia LLC. All rights reserved. \* Restrictions apply. For full details, see the Terms and Conditions for this program.
 
 Feedback
