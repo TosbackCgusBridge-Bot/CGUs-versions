@@ -120,6 +120,6 @@ To cure your boredom visit Bored.com!
 
   
 
-Bored.com ©1996-2012. All Rights Reserved. Questions? Contact us
+Bored.com ©1996-2013. All Rights Reserved. Questions? Contact us
 
 Bored.com is a privately-owned website that features flash games, funny pictures, and videos. All original content, both graphical and textual is the intellectual property of Bored.com. All user-generated content including pictures, videos and creator-owned flash games is the intellectual property of their respective owners. If you have any questions, concerns, or believe this site is infringing on the DMCA act of 1998, please send us an e-mail .
