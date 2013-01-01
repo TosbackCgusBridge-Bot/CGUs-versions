@@ -124,4 +124,4 @@ Usage Guidelines
 *   Worldwide Offices
 *   Become a Gartner Client
 
-  About Gartner | Careers | Newsroom | Policies | Site Index | IT Glossary | Gartner Blog Network | Contact Gartner © 2012 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
+  About Gartner | Careers | Newsroom | Policies | Site Index | IT Glossary | Gartner Blog Network | Contact Gartner © 2013 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
