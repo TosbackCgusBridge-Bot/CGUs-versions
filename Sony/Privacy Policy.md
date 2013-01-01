@@ -306,7 +306,7 @@ These Terms and Conditions of Use and any additional terms posted on this Site t
 *   Terms and Conditions
 *   Privacy Policy/Your California Privacy Rights
 
-*   © 2012 Sony Corporation of America
+*   © 2013 Sony Corporation of America
 *   Voluntary Recall Programs
 
 Corporate Information
