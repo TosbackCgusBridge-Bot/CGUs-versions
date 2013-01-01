@@ -106,7 +106,7 @@ Contact EzineArticles
 
 EzineArticles.com
 
-© 2012 SparkNET  
+© 2013 SparkNET  
 All Rights Reserved Worldwide
 
 *   About Us
