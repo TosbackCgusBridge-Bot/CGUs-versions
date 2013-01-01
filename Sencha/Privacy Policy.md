@@ -206,4 +206,4 @@ Thanks for signing up!
 
 Find Sencha developers at SenchaDevs
 
-© 2012 Sencha Inc. All rights reserved.
+© 2013 Sencha Inc. All rights reserved.
