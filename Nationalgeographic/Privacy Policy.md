@@ -293,4 +293,4 @@ More From National Geographic
 *   Terms of Service
 *   Privacy Policy
 
-© 1996-2012 National Geographic Society. All rights reserved.
+© 1996-2013 National Geographic Society. All rights reserved.
