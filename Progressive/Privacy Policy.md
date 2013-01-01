@@ -134,7 +134,7 @@ Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon
 *   Dress Like Flo
 *   Rocket Cat Adventures
 
-We're Here 24/7. Call 1-800-PROGRESSIVE. Copyright 1995- 2012 Progressive Casualty Insurance Company. All Rights Reserved.
+We're Here 24/7. Call 1-800-PROGRESSIVE. Copyright 1995- 2013 Progressive Casualty Insurance Company. All Rights Reserved.
 
 Auto insurance prices and products are different when purchased directly from Progressive or through agents/brokers. Quotes on this page are for policies purchased directly. Quotes for policies sold through agents/brokers are available through ProgressiveAgent.com or via the Find Agent/Get Agent Quote button.
 
