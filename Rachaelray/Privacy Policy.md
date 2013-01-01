@@ -61,6 +61,8 @@ Rachael Ray
     *   Rach Home
     *   Rach in Tuscany
 *   Shop
+    *   Rachael Ray Products
+    *   Common Questions
 *   Videos
 *   Blogs
     *   Blogs Home
@@ -233,4 +235,4 @@ Partner Sites
 
 Site Map • About Us • FAQ • Advertise • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
 Visit us at: Facebook Twitter  
-™ and © 2007 - 2012 Rachael Ray Digital LLC
+™ and © 2007 - 2013 Rachael Ray Digital LLC
