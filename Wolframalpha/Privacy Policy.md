@@ -83,7 +83,7 @@ Effective as of March 5, 2009.
 *   Contact
 *   Connect
 
-*   © 2012 Wolfram Alpha LLC—A Wolfram Research Company
+*   © 2013 Wolfram Alpha LLC—A Wolfram Research Company
 *   Terms
 *   Privacy
 
