@@ -195,5 +195,5 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 Syfy International: Asia Australia Benelux France Germany Latin America Poland Portugal Romania Russia Spain UK  
   
-©2012, Syfy. All rights reserved.  
+©2013, Syfy. All rights reserved.  
 Independent Programming Report Tell us what you think about your favorite NBCU programs by becoming a TV panel member.
