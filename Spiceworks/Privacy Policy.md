@@ -112,5 +112,5 @@ Feedback
 If you have comments on the Spiceworks service or ideas on how to improve it, please send email to feedback@spiceworks.com. Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the service (or third party software or content) without further compensation or approval.
 
 The information contained in this web site is subject to change without notice.  
-Copyright © 2006-2012 Spiceworks, Inc. All rights reserved.  
+Copyright © 2006-2013 Spiceworks, Inc. All rights reserved.  
 Spiceworks, Inc. 7300 FM 2222, Bldg 3, Suite 100, Austin, TX 78730, USA
