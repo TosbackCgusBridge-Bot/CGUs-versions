@@ -170,7 +170,7 @@ United States
 *   United Kingdom
 *   United States
 
-©2012 Fitbit Inc. All rights reserved.
+©2013 Fitbit Inc. All rights reserved.
 
 *   Privacy Policy
 *   Terms of Use
