@@ -329,6 +329,6 @@ Can't get enough HowStuffWorks?
     Visitor Agreement
     
 
-©1998-2012 HowStuffWorks, Inc.
+©1998-2013 HowStuffWorks, Inc.
 
 HowStuffWorks.com CONTENT HowStuffWorks Web Slice 15
