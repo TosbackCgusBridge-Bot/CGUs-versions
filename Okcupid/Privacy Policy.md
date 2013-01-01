@@ -236,7 +236,7 @@ Or visit us in your mobile browser.
 *   Tests
 *   OkTrends
 
-OkCupid © 2012 \*Privacy policy revised Nov. 1, 2012 Free online dating
+OkCupid © 2013 \*Privacy policy revised Nov. 1, 2012 Free online dating
 
 *   Local dating
 *   Jewish dating
