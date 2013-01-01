@@ -146,4 +146,4 @@ No one under the age of 13 should provide any personal information. In general, 
 
 *   Opinion
 
-© 2012 The Christian Post. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20minutes. Privacy-Terms
+© 2013 The Christian Post. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20minutes. Privacy-Terms
