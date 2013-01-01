@@ -152,5 +152,5 @@ Grooveshark has been awarded TRUSTe's Privacy Seal signifying that this privacy 
 *   Contact
 *   Privacy
 
-Copyright © Escape Media Group 2007-2012. All Rights Reserved.  
+Copyright © Escape Media Group 2007-2013. All Rights Reserved.  
 Powered by Grooveshark
