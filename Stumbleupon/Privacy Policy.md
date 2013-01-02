@@ -12,7 +12,7 @@ Your browser appears to be out of date. Please upgrade to the latest version of 
 
 If you'd like to take your chances with your current browser, click here to continue.
 
-© 2012 StumbleUpon
+© 2013 StumbleUpon
 
 About StumbleUponAbout Us Blogs Press Center Jobs Management Terms Cookies Privacy Policy
 
