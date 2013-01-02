@@ -225,7 +225,7 @@ All times are London time
 *   MBA-Direct.com
 *   The Non-Executive Director
 
-*   © Copyright The Financial Times Ltd 2012. "FT" and "Financial Times" are trademarks of The Financial Times Ltd.  
+*   © Copyright The Financial Times Ltd 2013. "FT" and "Financial Times" are trademarks of The Financial Times Ltd.  
     
 *   Privacy policy
 *   Terms
