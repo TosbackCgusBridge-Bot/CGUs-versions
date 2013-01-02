@@ -131,4 +131,4 @@ This Privacy Policy and our Terms of Use , both as posted on our Websites and th
 Privacy Policy   |   User Agreement   |   Contact Us  
 © 2010 Shopzilla, Inc. 
 
-© 2012 Shopzilla
+© 2013 Shopzilla
