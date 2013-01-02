@@ -80,4 +80,4 @@ Your Comments or Concerns
 We welcome your feedback. If you have any comments or concerns about this Policy or would like to contact us for any reason, you may reach us via email at help@smugmug.com.
 
 Photo Sharing · About SmugMug · API · Browse Photos · Prints &. Gifts · Terms · Privacy · Contact · Login  
-© 2012 SmugMug, Inc.
+© 2013 SmugMug, Inc.
