@@ -83,4 +83,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 **QUESTIONS**  
 If you have questions or concerns regarding this please email us at privacy@imesh.com. You can also contact us by sending us postal mail at iMesh. P.O Box 373, Maplewood, NJ 07040, USA. Home | Support | For Parents | About Us | Copyrights | Top Songs | Top Albums | Join our Affiliate Program  
-Contact Us | Artists Registration | Privacy Policy | License Agreement © 1999-2012 iMesh Inc. All rights reserved.
+Contact Us | Artists Registration | Privacy Policy | License Agreement © 1999-2013 iMesh Inc. All rights reserved.
