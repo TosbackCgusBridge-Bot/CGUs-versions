@@ -138,7 +138,7 @@ Back to top More Information
 *   Jobs
 *   Mass Pay
 
-Copyright © 1999-2012 PayPal. All rights reserved.  
+Copyright © 1999-2013 PayPal. All rights reserved.  
 Consumer advisory- PayPal Pte. Ltd., the holder of PayPal's stored value  
 facility, does not require the approval of the Monetary Authority of Singapore.  
 Users are advised to read the terms and conditions carefully.
