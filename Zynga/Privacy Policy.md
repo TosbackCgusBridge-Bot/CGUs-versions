@@ -452,5 +452,5 @@ More
 *   Support
 *   Zynga Shop
 
-Copyright 2012 Zynga Inc. All rights reserved.  
+Copyright 2013 Zynga Inc. All rights reserved.  
 Use of this Web site constitutes acceptance of Zynga's Terms of Service and Privacy Policy
