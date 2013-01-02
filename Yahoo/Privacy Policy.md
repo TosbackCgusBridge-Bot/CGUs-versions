@@ -187,5 +187,5 @@ Yahoo! est susceptible de modifier sa politique en matière de données personne
 
 Pour toutes questions, suggestions ou autres préoccupations relatives à notre centre Yahoo! Données personnelles ou à la façon dont Yahoo! procède à la collecte et à l'utilisation des données vous concernant, utilisez ce formulaire en ligne.
 
-Copyright © 2012 Yahoo! Tous droits réservés.  
+Copyright © 2013 Yahoo! Tous droits réservés.  
 Données personnelles | Conditions d'utilisation
