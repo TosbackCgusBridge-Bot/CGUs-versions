@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Quentin Tarantino's "Django Unchained" stars Jamie Foxx
+Search Help Watch the year in Style
 
-Also in Movies »
+Also in Fashion »
 
-*   Watch anatomy of a scene: "Django Unchained"
-*   "West of Memphis," by Amy Berg
+*   Think you know the Stones style history? Test yourself.
+*   An army of new beauty products promising to combat the effects of the cold
 
   
 
