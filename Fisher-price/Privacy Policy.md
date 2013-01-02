@@ -235,7 +235,7 @@ If you have any questions, please do not hesitate to contact us!
 
 \- back to top -
 
-© 2012 Mattel, Inc. All Rights Reserved.  
+© 2013 Mattel, Inc. All Rights Reserved.  
 Updated January 4, 2012  
   
   
@@ -290,7 +290,7 @@ Email*   Subscribe
 Terms and Conditions
 
 *   **New** Privacy Policy |
-*   ©2012 Mattel, Inc. All Rights Reserved.
+*   ©2013 Mattel, Inc. All Rights Reserved.
 
 *   Home for Fisher-Price Toys &. more |
 *   Use of this U.S. site signifies your acceptance of the terms and conditions of use.
