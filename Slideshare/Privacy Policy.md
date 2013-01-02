@@ -66,6 +66,6 @@ _Effective September 25th, 2009_
 *   Engineering Blog
 *   Blog Widgets
 
-© 2012 SlideShare Inc. All rights reserved.
+© 2013 SlideShare Inc. All rights reserved.
 
 RSS Feed
