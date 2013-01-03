@@ -61,4 +61,4 @@ For immediate technical concerns or service issues **with Closed Captioning**, p
 For Your Home  For Your Business  Customer Support  Local Information  All About Us  
 Legal Notices  Network Management Information  Contact Us  Great Careers  Payment Center  Site Map
 
-Copyright 2012, Cable ONE Inc., All Rights Reserved.
+Copyright 2013, Cable ONE Inc., All Rights Reserved.
