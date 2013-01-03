@@ -1,4 +1,4 @@
-DEUSESFRITBR Décembre 2012
+DEUSESFRITBR Janvier 2013
 
 *   Objet
 *   Mentions légales
@@ -130,4 +130,4 @@ Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
 *   Forum SFR
-*   Forum Webmastering
+*   Forum Mobile
