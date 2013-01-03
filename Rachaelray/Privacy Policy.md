@@ -5,16 +5,15 @@ Rachael Ray
     *   Blog
     *   Food Articles
     *   Recipe Search
-    *   Christmas Cookie of the Day
+    *   Healthy Snacks &. Lunches
+    *   Quick &. Easy
     *   Recipes On the Go!
     *   Easy Weeknight Meals
-    *   Holiday Entertaining
     *   Seamus Mullen's Hero Foods
     *   Salads
     *   In Season Now
     *   Brunch
     *   Breakfast Guide
-    *   Healthy Snacks &. Lunches
     *   Cookware
     *   Cutlery
     *   Rachael Ray Store
@@ -39,10 +38,9 @@ Rachael Ray
 *   Kids
     *   Kids Home
     *   Kids Blog
-    *   Little Chefs
-    *   Halloween
+    *   Healthy Snacks &. Lunches
+    *   Quick &. Easy
     *   Mom Talk
-    *   Healthy Snacks
     *   Back to School
     *   Plan B Mom
     *   Kids Articles
