@@ -36,7 +36,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   BRZ vs Competition
         
     *   Impreza
@@ -72,7 +72,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   Impreza vs Competition
         
     *   Impreza WRX
@@ -108,7 +108,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   Impreza WRX vs Competition
         
     *   Legacy
@@ -144,7 +144,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   Legacy vs Competition
         
     *   Forester
@@ -180,7 +180,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   Forester vs Competition
         
     *   XV Crosstrek
@@ -216,7 +216,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   XV Crosstrek vs Competition
         
     *   Outback
@@ -252,7 +252,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   Outback vs Competition
         
     *   Tribeca
@@ -288,7 +288,7 @@ Log In to MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   Get a Brochure
+        *   View a Brochure
         *   Tribeca vs Competition
         
     *   Certified Pre-Owned
@@ -312,7 +312,7 @@ Log In to MySubaru | Help |
     
     *   More
     *   Overview
-    *   Get a Brochure
+    *   View a Brochure
     *   Dear Subaru
     *   Environment
     
@@ -469,7 +469,7 @@ We are committed to protecting your privacy and to being transparent about how w
 Explore Subaru
 
 *   Vehicles
-*   Get a Brochure
+*   View a Brochure
 *   Build Your Own
 *   Why Subaru
 *   Financial Tools
