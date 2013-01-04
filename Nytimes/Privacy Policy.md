@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Below the Line: The sets of "Argo"
+Search Help Titillation, with breeding and manners as the tease
 
 Also in Arts »
 
-*   Oscar vote deadline pushed back
-*   Ending the year with a feud or two
+*   Shirley MacLaine joins the cast of "Downton Abbey"
+*   TV's missed opportunities in 2012
 
   
 
