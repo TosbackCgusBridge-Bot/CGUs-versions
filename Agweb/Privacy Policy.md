@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 3, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 4, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -50,6 +50,7 @@ Jan 3, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Ready for the Ride: Managing Risk
     *   Pro Farmer Market Analysis
     
+    *   Pro Farmer's Marketing Education Series
     *   2013 Marketing Outlooks 
 *   Crops
     
@@ -239,10 +240,9 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   AgWeb Radio Schedule
-*   Long and Short New Year’s Resolutions
-*   Power Hour: Your 2013 Marketing Outlook
-*   NMPF to Focus on Passing New Farm Bill in 2013
+*   Save Money, Register Now for Top Producer Seminar
+*   Power Hour: Use Crop Insurance to Hedge Volatility
+*   Corn Rootworm Trends, 2013 Recommendations
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
