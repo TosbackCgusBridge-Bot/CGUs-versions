@@ -1,6 +1,6 @@
 **Legal Notices and Privacy Policy**  
 The North Face®, a division of VF Outdoor, Inc., (“The North Face”), provides this website to you subject to the following terms of use and privacy policy.    
- By using the website in any way, you are agreeing to comply with the terms of use. In addition, when using particular parts of the website such as shopping, forums, watching videos, blogs or Planet Explore, you agree to abide by any applicable posted guidelines for those services.   Should you object to any term or condition of the terms of use, any guidelines, or any subsequent modifications or become dissatisfied with website any way, your only recourse is to immediately discontinue use of this website.   The North Face may modify this terms of use, guidelines and privacy policy at any time without notice, effective upon its posting to the website. Your continued use of the website constitutes your acceptance to the updated terms of use, guidelines and privacy policy.   The North Face has the right, but is not obligated, to strictly enforce the terms of use through self-help, community moderation, active investigation, litigation and prosecution.  
+By using the website in any way, you are agreeing to comply with the terms of use. In addition, when using particular parts of the website such as shopping, forums, watching videos, blogs or Planet Explore, you agree to abide by any applicable posted guidelines for those services.   Should you object to any term or condition of the terms of use, any guidelines, or any subsequent modifications or become dissatisfied with website any way, your only recourse is to immediately discontinue use of this website.   The North Face may modify this terms of use, guidelines and privacy policy at any time without notice, effective upon its posting to the website. Your continued use of the website constitutes your acceptance to the updated terms of use, guidelines and privacy policy.   The North Face has the right, but is not obligated, to strictly enforce the terms of use through self-help, community moderation, active investigation, litigation and prosecution.  
 **Trademarks**  
 The North Face trademarks displayed on this website are trademarks or registered trademarks of The North Face and its affiliated companies in the United States and internationally.   All other trademarks are the sole property of their respective companies.   All use prohibited.  
 **Ownership**  
@@ -108,25 +108,28 @@ We hope this chat forum provides accurate, beneficial product information.  For
   
 **How can I report an inappropriate comment?**If you find an offensive, vulgar, or comment that otherwise violates our chat guidelines and Privacy Policy, please contact our Customer Service at 1-888-TNF-1968.  
   
-**VIPeak Terms &. Conditions**  
+  
+**VIPeak**  
 
-By registering to become a member (a "Member" or "you" or "your") of The North Face VIPeak rewards program ("VIPeak" or the "Program") and by participating in the Program, you (i)represent that you are 18 years of age or older and (ii) agree to the following Program Terms and Conditions (these "Terms").  VIPeak Program is sponsored by The North Face, a division of VF Outdoor, Inc. ("The North Face").
+Terms &. Conditions
 
-**1.** **VIPeak Overview**
+ By registering to become a member (a "Member" or "you" or "your") of The North Face(r) VIPeak rewards program ("VIPeak" or the "Program") and by participating in the Program, you (i) represent that you are 18 years of age or older and (ii) agree to the following Program Terms and Conditions (these "Terms").  VIPeak Program is sponsored by The North Face, a division of VF Outdoor, Inc. ("The North Face").
 
-When you join VIPeak, it allows you to earn Peak Points on your purchases made at The North Face stores and website.  You may also earn Peak Points by participating in certain special activities announced by The North Face from time to time.  Peak Points are earned on an annual basis from February 16th to February 15th of the subsequent year ("Peak Points Year").  At the end of a Peak Points Year, Members earning sufficient Peak Points, as described below, will earn reward certificates and/or access to a special VIPeak Reward Catalog where Peak Points can be redeemed for products and/or experiences (jointly, the "Peak Perks").
+1\. VIPeak Overview
 
-**2.** **Membership**
+When you join VIPeak, it allows you to earn Peak Points on your purchases made at The North Face stores and website.  You may also earn Peak Points by participating in certain special activities announced by The North Face from time to time.  Peak Points are earned on an annual basis from February 16th to February 15th of the subsequent year ("Peak Points Year").  At the end of a Peak Points Year, Members earning sufficient Peak Points, as described below, will earn reward certificates and/or access to a special VIPeak Reward Catalog where Peak Points can be redeemed for products and/or experiences (jointly, the "Peak Perks"). 
 
-A. Eligibility: You must be at least 18 years of age to become a member.  Employees of all VF Corporation brands and individuals receiving a discount or free product to represent a VF Corporation brand are not eligible.
+2\. Membership
+
+A. Eligibility: You must be at least 18 years of age to become a member.  Employees of all VF Corporation brands and individuals receiving a discount or free product to represent a VF Corporation brand are not eligible. 
 
 B. How to Join: You may register to become a VIPeak Member three different ways:
 
-  i. Online at www.thenorthface.com by creating an account and indicating that you want to be a VIPeak Member or if you already have an account at www.thenorthface.com, by merely indicating that you want to be a VIPeak Member.
+i. Online at www.thenorthface.com by creating an account and indicating that you want to be a VIPeak Member or if you already have an account at www.thenorthface.com, by merely indicating that you want to be a VIPeak Member. 
 
-  ii. On our Facebook page (https://www.facebook.com/thenorthface) by providing your name and email address and designating you want to be a VIPeak Member.  If you already have an account at www.thenorthface.com you will receive an email requesting that you confirm your request to become a Member.  If you do not have an account at www.thenorthface.com you will receive an email requesting that you confirm your request and set up an account at www.thenorthface.com so you will full access to all the Peak Perks.
+ii. On our Facebook page (https://www.facebook.com/thenorthface) by providing your name and email address and designating you want to be a VIPeak Member.  If you already have an account at www.thenorthface.com you will receive an email requesting that you confirm your request to become a Member.  If you do not have an account at www.thenorthface.com you will receive an email requesting that you confirm your request and set up an account at www.thenorthface.com so you will full access to all the Peak Perks.
 
-  iii. At any of The North Face stores by providing your name and email address to sign up to be a Member.  Once you make this request, if you already have an account at www.thenorthface.com you will receive an email requesting that you confirm your request to become a Member.  If you do not have an account at www.thenorthface.com when you provide your name and email address in store, you will receive an email requesting that you confirm your request and set up an account at www.thenorthface.com so you will full access to all the Peak Perks.
+iii. At any of The North Face stores by providing your name and email address to sign up to be a Member.  Once you make this request, if you already have an account at www.thenorthface.com you will receive an email requesting that you confirm your request to become a Member.  If you do not have an account at www.thenorthface.com when you provide your name and email address in store, you will receive an email requesting that you confirm your request and set up an account at www.thenorthface.com so you will full access to all the Peak Perks.
 
 Once you make the request on our Facebook page or at the store, you will be considered a Member and start earning Peak Points, but for complete access to all the Peak Perks (as described below), you must have or complete an e-commerce account online at www.thenorthface.com, which will also be your Program account.  To create an e-commerce account, go to www.thenorthface.com and click on "My Account" at the top of the home page and provide the information to create an account.
 
@@ -134,19 +137,19 @@ C. Accessing Peak Points Information and all the Peak Perks: You can be a Member
 
 D. Updating information: You are responsible for providing the correct email address to receive Peak Perks and to ensure proper accounting of Peak Points and receipt of Peak Perks.  As a result, each Member is responsible for maintaining accurate and updated personal information, including your email address.  You may update your personal information online at www.thenorthface.com/vipeak or by calling: 888-TNF-1968 / 888-863-1968.
 
-**3\. Earning Peak Points**
+3\. Earning Peak Points
 
 A. Peak Points can be earned during a Peak Points Year.  Once a Peak Points Year has concluded, the Peak Points that you have earned will be determined for that Peak Points Year and you will start at zero again for the new Peak Points Year.
 
-B. Shop at The North Face Retail Stores or www.thenorthface.com and automatically receive ten (10) Peak Points for every $1 (USD) spent on any eligible product that is purchased (a "Qualifying Purchase," as further described below).  The Peak Points will be added into your VIPeak account when you provide at the time of purchase your email address or phone number used to become a Member.  If you did not provide your email address or phone number at the time of purchase, you may call Customer Service at 888-TNF-1968 / 888-863-1968 and upon verification by Customer Service of your purchase or activity and that you did not previously receive Peak Points for the purchase or activity, the Peak Points will be added into your Program account.
+B. Shop at The North Face Retail Stores or www.thenorthface.com and automatically receive ten (10) Peak Points for every $1 (USD) spent on any eligible product that is purchased (a "Qualifying Purchase," as further described below).  The Peak Points will be added into your VIPeak account when you provide at the time of purchase your email address or phone number used to become a Member.  If you did not provide your email address or phone number at the time of purchase, you may call Customer Service at 888-TNF-1968 / 888-863-1968 and upon verification by Customer Service of your purchase or activity and that you did not previously receive Peak Points for the purchase or activity, the Peak Points will be added into your Program account. 
 
 C. Qualifying Purchases include regular and sale priced merchandise in The North Face Stores and online at www.thenorthface.com.  Peak Points will not be earned for purchases made through any outlet stores selling North Face products. No Peak Points are earned when purchasing Gift Cards or eGift Cards from The North Face, but you do earn Peak Points when redeeming a Gift Card or an eGift Card at The North Face Stores or online at www.thenorthface.com.  In addition, no Peak Points are earned for payment of sales tax, gift boxes or wrapping, or for shipping and handling costs..
 
 D. Peak Points may also be earned for participation in certain activities designated and announced by The North Face during the Peak Points Year.  Example activities could include: connecting with The North Face on social media, participating in the Endurance Challenge, initial sign up for email from The North Face or making a Clothestheloop donation.  Members may also be able to earn bonus Peak Points for making purchases of designated products or during a designated time as determined and announced by The North Face. The North Face reserves the right to make bonus Peak Points and other promotional offers available to select Members based on purchase activity, geographic location, Program participation, and/or information supplied by the Member.  The North Face reserves the right to add, withdraw, amend, or otherwise change bonus opportunities at any time at its sole discretion, with or without notice to Members.
 
-E. The Peak Points you have earned through a purchase (including bonus Peak Points for designated products, if applicable) by providing your phone or email address at the time of purchase, will be netted from your overall Peak Points total if the item is returned.  Returns of merchandise purchased in the prior Peak Points Year will be deducted from the Member's Peak Points balance in the current Peak Points Year.  Negative Peak Point balances never expire.  Peak Points have no cash value.  You cannot give or transfer your Peak Points to anyone else.
+E. The Peak Points you have earned through a purchase (including bonus Peak Points for designated products, if applicable) by providing your phone or email address at the time of purchase, will be netted from your overall Peak Points total if the item is returned.  Returns of merchandise purchased in the prior Peak Points Year will be deducted from the Member's Peak Points balance in the current Peak Points Year.  Negative Peak Point balances never expire.  Peak Points have no cash value.  You cannot give or transfer your Peak Points to anyone else.  
 
-4\. **Peak Perks - Member Benefits**
+4\. Peak Perks - Member Benefits
 
 A. After the end of each Peak Points Year, on approximately March 1st, the following Peak Perks will be provided to Members based upon their Peak Point balance for the just closed Peak Points Year:
 
@@ -154,41 +157,41 @@ Peak Points Earned
 
 Peak Perk(s)
 
-0 - 2,499 
+0 - 2,499
 
 No Peak Perk and Peak Points expire.
 
-2,500-9,999 
+2,500-9,999
 
 Reward Certificate - valued at 0.2% of the Peak Point balance.  For example, 5,000 Peak Points = $10.00 Reward Certificate.
 
 10,000 and over
 
- i. Access to the VIPeak Rewards Catalog from March 1 through March 31 and the right to redeem Peak Points for products and experiences in the Catalog.
+i. Access to the VIPeak Rewards Catalog from March 1 through March 31 and the right to redeem Peak Points for products and experiences in the Catalog.
 
- ii. After the VIPeak Rewards Catalog closes, on approximately April 1, each Member will be sent a Reward Certificate (valued at 0.2% of any Peak Point not used with the Catalog).
+ii. After the VIPeak Rewards Catalog closes, on approximately April 1, each Member will be sent a Reward Certificate (valued at 0.2% of any Peak Point not used with the Catalog).
 
-B. VIPeak Reward Certificates are sent electronically to the email associated with your VIPeak Program account. All Reward Certificates expire on December 27th of the year the Reward Certificate was issued, when any unused value will be removed. Reward Certificates are promotional items for Members of the VIPeak Program and are not Gift Cards or eGift Cards of The North Face.
+B. VIPeak Reward Certificates are sent electronically to the email associated with your VIPeak Program account. All Reward Certificates expire on December 27th of the year the Reward Certificate was issued, when any unused value will be removed. Reward Certificates are promotional items for Members of the VIPeak Program and are not Gift Cards or eGift Cards of The North Face. 
 
-C. Each Reward Certificate will contain a unique code and pin that may be used at The North Face Stores by providing the associate the code and pin or at www.thenorthface.com by entering the code and pin during checkout.  Prior to a Reward Certificate expiring, if the entire value of the Reward Certificate is not used when making a purchase, the remaining value of the Reward Certificate will be available for use with purchases from The North Face until no value remains on the Reward Certificate or it expires, whichever occurs first.  Reward Certificates may be redeemed at the same time as using The North Face coupons, certificates, discounts, or offers toward the purchase of products.  Reward Certificates are not redeemable for cash and no change/currency will be given for Reward Certificate redemption.
+C. Each Reward Certificate will contain a unique code and pin that may be used at The North Face Stores by providing the associate the code and pin or at www.thenorthface.com by entering the code and pin during checkout.  Prior to a Reward Certificate expiring, if the entire value of the Reward Certificate is not used when making a purchase, the remaining value of the Reward Certificate will be available for use with purchases from The North Face until no value remains on the Reward Certificate or it expires, whichever occurs first.  Reward Certificates may be redeemed at the same time as using The North Face coupons, certificates, discounts, or offers toward the purchase of products.  Reward Certificates are not redeemable for cash and no change/currency will be given for Reward Certificate redemption. 
 
-D. The code and pin on your Reward Certificate may be used by anyone, and you are solely responsible for protecting it from unauthorized use. If the unique code and pin for the Reward Certificate that is sent to you is used in a manner that was not authorized by you (even if the Reward Certificate is lost or stolen), The North Face will not replace Reward Certificate.  However, if you delete or lose the email in which you received your Reward Certificate, contact Customer Service at 888-TNF-1968 / 888-863-1968 and upon verification by Customer Service of your membership, an email with the same unique code and pin Reward Certificate will be resent to you.
+D. The code and pin on your Reward Certificate may be used by anyone, and you are solely responsible for protecting it from unauthorized use. If the unique code and pin for the Reward Certificate that is sent to you is used in a manner that was not authorized by you (even if the Reward Certificate is lost or stolen), The North Face will not replace Reward Certificate.  However, if you delete or lose the email in which you received your Reward Certificate, contact Customer Service at 888-TNF-1968 / 888-863-1968 and upon verification by Customer Service of your membership, an email with the same unique code and pin Reward Certificate will be resent to you. 
 
-E. The products and experiences available in the VIPeak Reward Catalog will be selected solely in the discretion of The North Face.  Items in the VIPeak Reward Catalog will be available while supplies last, so it is possible that an item selected by a Member from the VIPeak Reward Catalog will not be available.
+E. The products and experiences available in the VIPeak Reward Catalog will be selected solely in the discretion of The North Face.  Items in the VIPeak Reward Catalog will be available while supplies last, so it is possible that an item selected by a Member from the VIPeak Reward Catalog will not be available. 
 
 F. The North Face, in its sole discretion, may elect to change the Peak Perks and/or the value of the Peak Points at the beginning of any Peaks Point Year.  This could include no longer providing the VIPeak Catalog or changing the valuation of the Reward Certificate.
 
 G. VIPeak Members may also have early access to special events and be invited to participate in exclusive experiences for VIPeak Members.
 
-**5.** **Email and Privacy**
+5\. Email and Privacy
 
-A. By registering for the Program, you agree to receive transactional emails and promotional email offers and updates from the VIPeak Program and from The North Face.  As a benefit and condition of online enrollment in or registration for the Program, Members will be sent by email information about Program Peak Points and Reward Certificates, Program updates, and other related materials at the discretion of The North Face.   Members may not unsubscribe from transactional emails of the Program, but can cancel their membership in the Program as described below in the General Terms.  Members may unsubscribe from The North Face promotional emails at any time via the unsubscribe link in those emails.
+A. By registering for the Program, you agree to receive transactional emails and promotional email offers and updates from the VIPeak Program and from The North Face.  As a benefit and condition of online enrollment in or registration for the Program, Members will be sent by email information about Program Peak Points and Reward Certificates, Program updates, and other related materials at the discretion of The North Face.   Members may not unsubscribe from transactional emails of the Program, but can cancel their membership in the Program as described below in the General Terms.  Members may unsubscribe from The North Face promotional emails at any time via the unsubscribe link in those emails. 
 
 B. See The North Face Privacy Policy at http://www.thenorthface.com/en\_US/contact-us/legal-notices-and-privacy-policy/ for details on how your information is collected and used.
 
 6\. General Terms of the VIPeak Program
 
-A. Membership in the VIPeak Program and its benefits are offered at the discretion of The North Face, which reserves the right to terminate, change, limit, modify, or cancel any Program rules, regulations, benefits, or conditions of participation at the beginning of any Peak Points Year.  In the event of cancellation, Peak Perks will be issued according to the current Terms for Peak Points earned in the final Peaks Point Year.
+A. Membership in the VIPeak Program and its benefits are offered at the discretion of The North Face, which reserves the right to terminate, change, limit, modify, or cancel any Program rules, regulations, benefits, or conditions of participation at the beginning of any Peak Points Year.  In the event of cancellation, Peak Perks will be issued according to the current Terms for Peak Points earned in the final Peaks Point Year. 
 
 B. If The North Face changes or modifies these Terms for the next Peak Points Year, it will provide notice of any changes through these Terms.  Electing to remain a Member in the next Peak Points Year after a change in the Terms constitutes your acceptance of the revised Terms.  The revisions to the Program that North Face may make include any of the following changes: (i) increase or decrease the number of Peak Points earned on a Qualifying Purchase. (ii) increase the number of Peak Points required to earn a Reward Certificate and/or access to the VIPeak Reward Catalog. (iii) cease providing a VIPeak Catalog. (iv) change the method of becoming a Member. (v) institute or add blackout dates for earning Peak Points or using Peak Perks.
 
@@ -196,13 +199,13 @@ C. These Terms are void where and to the extent prohibited by law.
 
 D. In the event of a dispute over ownership of a VIPeak account, the registration will be declared to have been made by the authorized account holder of the email address submitted at the time of registration.  For purposes of these Terms, the "authorized account holder" is the natural person who is assigned to the submitted email address by an internet provider, online service provider, or other organization (e.g., business, educational institution, etc.) that is responsible for assigning email addresses for the domain associated with the submitted email address.
 
-E. Abuse of the Program, including failure to abide by these Terms, the sale or barter (or the attempted sale or barter) of Reward Certificates, Peak Points, or promotional offers, and any misrepresentation of fact relating thereto or other improper conduct as determined by The North Face in its sole judgment may result in cancellation of a Member's account and future disqualification from Program participation, forfeiture of all Peak Points accrued, and cancellation of previously issued but unused Reward Certificates. At our discretion we may prosecute abuse of the Program to the fullest extent of the law
+E. Abuse of the Program, including failure to abide by these Terms, the sale or barter (or the attempted sale or barter) of Reward Certificates, Peak Points, or promotional offers, and any misrepresentation of fact relating thereto or other improper conduct as determined by The North Face in its sole judgment may result in cancellation of a Member's account and future disqualification from Program participation, forfeiture of all Peak Points accrued, and cancellation of previously issued but unused Reward Certificates. At our discretion we may prosecute abuse of the Program to the fullest extent of the law   
 
-F. You may cancel your VIPeak membership at anytime by calling Customer Services at 888-TNF-1968 / 888-863-1968. If you cancel your VIPeak membership, your accrued Peak Points will be forfeited.
+F. You may cancel your VIPeak membership at anytime by calling Customer Services at 888-TNF-1968 / 888-863-1968. If you cancel your VIPeak membership, your accrued Peak Points will be forfeited. 
 
 G. Peak Points are not transferable and may not be combined among Members or conveyed by any means to anyone, including through a Member's estate, and may not pass to a Member's successors and assigns.  Accrued Peak Points do not constitute property of the Member.  Accrued Peak Points are not transferable by the Member upon death, as part of a domestic relations matter, or otherwise.
 
-H. By agreeing to participate in the VIPeak Program, you release VF Outdoor, Inc., its parent and subsidiaries and affiliate entities, and their respective, directors, officers, employees and agents (the "Released Parties") from all liability with respect to the misdirection or misuse of any Peak Points or Peak Perk, or the use of any Peak Perk by an individual other than VIPeak Member who earned the Peak Perk.  You further agree through your agreement to participate in the Program to release the Released Parties from and against any and all claims, damages, losses, liabilities, and other expenses (including, without limitation, attorney's fees) relating to your participation in the VIPeak Program, use of Reward Certificates, use of products or experiences from the VIPeak Reward Catalog, or agreement to these Terms.
+H. By agreeing to participate in the VIPeak Program, you release VF Outdoor, Inc., its parent and subsidiaries and affiliate entities, and their respective, directors, officers, employees and agents (the "Released Parties") from all liability with respect to the misdirection or misuse of any Peak Points or Peak Perk, or the use of any Peak Perk by an individual other than VIPeak Member who earned the Peak Perk.  You further agree through your agreement to participate in the Program to release the Released Parties from and against any and all claims, damages, losses, liabilities, and other expenses (including, without limitation, attorney's fees) relating to your participation in the VIPeak Program, use of Reward Certificates, use of products or experiences from the VIPeak Reward Catalog, or agreement to these Terms.
 
 I. The Released Parties make no warranty, express or implied, including, but not limited to, any warranties of merchantability or fitness for a particular purpose with respect to VIPeak Program, membership in VIPeak Program, or any products or services related to VIPeak Program.
 
