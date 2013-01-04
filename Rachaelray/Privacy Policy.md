@@ -29,8 +29,7 @@ Rachael Ray
     *   Travel Home
     *   Travel Blog
     *   Travel Articles
-    *   Holiday Gift Guide
-    *   Holiday Entertaining
+    *   Easy Entertaining
     *   Feedback
     *   Travel Tote Bags
     *   Evette Rios
