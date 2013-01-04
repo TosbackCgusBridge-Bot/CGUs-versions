@@ -1,8 +1,6 @@
 OkCupid.com: Free Online Dating
 
-*   Join us!
-
-Email or Username Password Lost your password? ?
+Join us! Email or Username Password Lost your password? ?
 
 Sign in
 
