@@ -42,7 +42,7 @@ Fitbit uses your personal information to:
 *   Deliver to you any administrative notices and communications relevant to your use of the Fitbit Products and Service;
 *   Provide you with updates regarding Fitbit Products and Services;
 *   Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity;
-*   Enforce the Fitbit Terms of Use. and
+*   Enforce the Fitbit Terms of Use.
 
 Disclosure to Third Parties
 
@@ -276,11 +276,11 @@ steps distance calories burned
   
 fitbit smiley clock Wearability
 
-Wear your zip somewhere near your torso. Some recommended places to wear it are:
+Wear your zip somewhere near your torso. To prevent losing your Zip, wear it:
 
 1.  1\. inside your pocket
 2.  2\. clipped to your bra
-3.  3\. clipped to your waistband or belt
+3.  3\. clipped on your pocket facing inward
 
 Sync with your computer
 
