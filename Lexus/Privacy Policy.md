@@ -5,21 +5,21 @@ My Lexus Owner Benefits Pay My Bill Lexus Enform® Scheduled Maintenance Knowled
 
 **Scope** This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
-**Scope** During 2011, Lexus shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.
+**Scope** During 2013, Lexus shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.
 
 Information Collected
 
 *   We collect personal information you choose to provide which may include your name, mailing address, e-mail address, and phone number together with certain demographic information from you in connection with surveys or from commercially available services.
 *   We collect and store "usage information" about how you use our Sites, such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the website that referred you to us and the pages you visit to help manage the Sites.
-*   We and our advertising service providers use cookies and web beacons to manage the Sites, tailor our communications with you, and personalize your experience on the Sites.
+*   We and our advertising service providers use cookies and Web beacons to manage the Sites, tailor our communications with you, and personalize your experience on the Sites.
 
 Uses and Sharing
 
-*   We use personal information to provide you with services or information you request, such as new vehicle information alerts, promotions and mailed brochures.
+*   We use personal information to provide you with services or information you request, such as new–vehicle information alerts, promotions and mailed brochures.
 *   We also use personal information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
 *   We share personal information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Sites.
 *   We also share personal information with companies affiliated with Lexus and our authorized dealers, dealer advertising associations and distributors for their own use.
-*   We, web publishers and other websites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other websites.
+*   We, Web publishers and other websites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other websites.
 
 Your Choices and Access
 
