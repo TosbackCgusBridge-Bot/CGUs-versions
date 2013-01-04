@@ -22,7 +22,6 @@ Skip to main content area
     *   Other Platforms
 *   news
     *   Press Releases
-    *   Fact Sheet
     *   Company Images
     *   Company Blog
     *   Engineering Blog
@@ -34,6 +33,7 @@ Skip to main content area
     *   Benefits
     *   Life at Zynga
 *   about
+    *   About Zynga
     *   Leadership Team
     *   Board of Directors
     *   Investors
@@ -64,7 +64,6 @@ Play now!
     *   Other Platforms
 *   news
     *   Press Releases
-    *   Fact Sheet
     *   Company Images
     *   Company Blog
     *   Engineering Blog
@@ -76,6 +75,7 @@ Play now!
     *   Benefits
     *   Life at Zynga
 *   about
+    *   About Zynga
     *   Leadership Team
     *   Board of Directors
     *   Investors
@@ -422,9 +422,8 @@ Games
 News
 
 *   Press Releases
-*   Company Blog
 *   Company Images
-*   Fact Sheet
+*   Company Blog
 *   Engineering Blog
 
 Careers
@@ -440,8 +439,8 @@ About
 
 *   About Zynga
 *   Leadership Team
+*   Board of Directors
 *   Investors
-*   Advertise
 
 More
 
@@ -450,7 +449,9 @@ More
 *   Privacy
 *   Security
 *   Support
+*   Zynga.org
 *   Zynga Shop
+*   Advertise
 
 Copyright 2013 Zynga Inc. All rights reserved.  
 Use of this Web site constitutes acceptance of Zynga's Terms of Service and Privacy Policy
