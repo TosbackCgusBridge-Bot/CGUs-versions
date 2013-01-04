@@ -224,6 +224,8 @@ We will revise or update this policy if our practices change, or as we develop b
         *    White House Podcasts
     *   UStream: (Privacy)
         *   The White House
+    *   Pinterest: (Privacy)
+        *   The White House
     
     Document Sharing
     
@@ -251,6 +253,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: November 26, 2012
+Updated: January 3, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
