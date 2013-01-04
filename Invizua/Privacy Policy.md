@@ -45,4 +45,4 @@ Home Knowledge Base Small Print Privacy Policy
 
 **Home**   **Omniscope** Download   **Support**   About Visokio Partners What's new in 2.7 Editions Forums Video tutorials &. reference Careers Contact us Demos &. screenshots Clients Knowledge Base Featured videos
 
-© Visokio 2012 | Privacy Policy | Terms of Use | Contact Us
+© Visokio 2013 | Privacy Policy | Terms of Use | Contact Us
