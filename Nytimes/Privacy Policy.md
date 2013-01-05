@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Titillation, with breeding and manners as the tease
+Search Help The fashions on the "Girls" are very much intentional
 
-Also in Arts »
+Also in Fashion »
 
-*   Shirley MacLaine joins the cast of "Downton Abbey"
-*   TV's missed opportunities in 2012
+*   A yearly date with Fleetwood Mac and the planner
+*   Bill Cunningham on Christmas week in the city
 
   
 
