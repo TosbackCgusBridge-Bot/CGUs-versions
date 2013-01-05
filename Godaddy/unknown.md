@@ -4,7 +4,9 @@ GoDaddy.com, LLC ("Go Daddy") supports the protection of intellectual property. 
 
 **Domain Name Dispute Claims**
 
-Please refer to the Uniform Domain Name Dispute Resolution Policy (the "UDRP") if you have a concern or dispute concerning a registered domain name. The UDRP covers domain names disputes. this policy specifically excludes domain name disputes.
+Please refer to the Uniform Domain Name Dispute Resolution Policy (the "UDRP") if you have a concern or dispute about a registered domain name. Any dispute regarding the registration of domain names will need to be sent either to the registrant, to an ICANN-approved arbitration provider, or the court system.  Please review our Attorney Tips for more information about submitting copies of court and legal documents to Go Daddy.
+
+This Trademark/Copyright Infringement policy specifically excludes domain name disputes and has been established to allow reporting of possible violations involving other Go Daddy products and services.
 
 **Go Daddy Auctions and Premium Domain Name Dispute Claims**
 
