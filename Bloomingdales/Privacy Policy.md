@@ -195,4 +195,4 @@ Does this answer your question? Please tell us how we can make this answer more 
 
 **Contact Us** for assistance with your shopping experience and other answers.
 
-  International Shopping    Site Map    Shipping Policy    Product Recall    Terms of Use    Privacy Practices    CA Privacy Rights      |     visually impaired customers essential accessibility™ © 2012 Bloomingdale's By Mail Ltd., dba bloomingdales.com. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
+  International Shopping    Site Map    Shipping Policy    Product Recall    Terms of Use    Privacy Practices    CA Privacy Rights      |     visually impaired customers essential accessibility™ © 2013 Bloomingdale's By Mail Ltd., dba bloomingdales.com. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
