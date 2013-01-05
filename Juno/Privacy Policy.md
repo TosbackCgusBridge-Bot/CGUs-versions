@@ -81,4 +81,4 @@ Juno believes it is especially important to protect children's and minors' priva
 Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | Privacy Statement | Your Privacy Rights | Terms of Service  
 United Online FTD Flowers | Memory Lane | MyPoints | NetZero | Juno | MySite
 
-© 1995-2012 Juno Online Services, Inc. Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
+© 1995-2013 Juno Online Services, Inc. Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
