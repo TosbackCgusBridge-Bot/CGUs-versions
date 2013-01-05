@@ -73,4 +73,4 @@ For other languages, click below:
 *   Careers
 *   Mobile Site
 
-© Copyright 2012 Autodesk, Inc. All rights reserved.   Privacy Policy — Legal Notices &. Trademarks — Report Noncompliance — Site Map
+© Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy Policy — Legal Notices &. Trademarks — Report Noncompliance — Site Map
