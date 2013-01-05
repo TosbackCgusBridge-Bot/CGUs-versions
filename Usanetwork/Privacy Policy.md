@@ -99,4 +99,4 @@ NBC.COM FEEDBACK
 Bldg. 1360 2nd Floor,  
 Universal City, CA 91608
 
-Independent Programming Report | Feedback | Terms of Service | Privacy Policy | AdChoices | ©2013 NBCUniversal, Inc. All Rights Reserved.
+Independent Programming Report | Closed Captioning | Feedback | Terms of Service | Privacy Policy | AdChoices | ©2013 NBCUniversal, Inc. All Rights Reserved.
