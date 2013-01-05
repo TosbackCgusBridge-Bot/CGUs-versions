@@ -11,8 +11,8 @@ Your Privacy Rights Print page
 *   Your Privacy Rights
 *   Legal Terms
 
-YOUR PRIVACY RIGHTS **Personal Information Sharing Practices for 2011** During 2011, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
-Learn more **Toyota Privacy Policy – Summary** This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated December 6th, 2011 **Information Collected**
+YOUR PRIVACY RIGHTS **Personal Information Sharing Practices for 2013** During 2012, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+Learn more **Toyota Privacy Policy – Summary** This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2013 **Information Collected**
 
 *   We collect personal information you choose to provide which may include your name, mailing address, e-mail address, and phone number together with certain demographic information from you in connection with surveys or from commercially available services.
 *   We collect and store "usage information" about how you use our Sites, such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the Web site that referred you to us and the pages you visit to help manage the Sites.
@@ -51,7 +51,7 @@ To read our full Privacy Policy click here.
 
 PRIVACY POLICY
 
-Last Updated December 6, 2011
+Last Updated January 1, 2013
 
 (Continental United States Only)
 
@@ -142,7 +142,7 @@ In accordance with our routine record keeping, we may delete certain records tha
 
 Toyota licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, Toyota may use third-party ad networks, publishers and other entities to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Information with these third parties, but ad network providers, data providers, publishers and other media-related companies, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and they may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other Web sites. We and they may use a variety of companies to serve advertisements.
 
-If you prefer to not receive targeted advertising, you can opt-out of some network advertising programs that use your information. To do so, please visit the DAA Opt-Out Page. Please note that even if you choose to remove your information (opt-out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
+If you prefer to not receive targeted advertising, you can opt-out of some network advertising programs that use your information. To do so, please visit the DAA Opt-Out Page. Please note that even if you choose to remove your information (opt-out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The DAA Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
 
 7\. CHILDREN'S PRIVACY
 
@@ -185,9 +185,9 @@ Toyota Customer Relations – Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501  
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2011**  
-(Effective as of January 01, 2012)  
-During 2011, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:  
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2013**  
+(Effective as of January 01, 2013)  
+During 2012, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:  
   
 Name  
 Address  
