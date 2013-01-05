@@ -25,7 +25,7 @@ All requests for permission regarding your content usage directed at ImageShack 
 
 Privacy
 
-All information provided by you to ImageShack is strictly confidential. ImageShack reserves the right to distribute aggregated non-personally-identifiable demographic information provided by you, but ImageShack will never release any personal information about you without your permission. However, ImageShack reserves the right to release your information if you have violated the ImageShack Terms of Service, or if the information is subpoenaed.
+Please see our Privacy Policy here.
 
 Privacy related to Advertisements
 
