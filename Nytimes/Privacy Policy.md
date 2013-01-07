@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help House hunting in ... Sicily
+Search Help First in fashion
 
-Also in Great Homes »
+Also in Style »
 
-*   Explore a baroque retreat in southern Italy
-*   What you get for ... $4 million
+*   Is your dog Ruff Club material?
+*   Childhood, uncensored
 
   
 
