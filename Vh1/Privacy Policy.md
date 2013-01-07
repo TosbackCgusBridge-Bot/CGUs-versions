@@ -11,7 +11,7 @@
 *   Shop
 *   VH1 Costar
 
-VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoPostedVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnpluggedCelebrity GossipVH1 BlogGreatest ListsMovie GossipVH1 &. Celeb Photos VH1 EMAILVH1 MUSIC AND  
+VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosCelebrity GossipVH1 BlogGreatest ListsMovie GossipVH1 &. Celeb PhotosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoPostedVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnplugged VH1 EMAILVH1 MUSIC AND  
 NEWS STRAIGHT  
 TO YOU» VH1 COSTARWatch Video  
 \+ More» VH1 EMAILGET YOUR DAILY  
@@ -252,14 +252,23 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.  
   
 
-2.  Home
-3.  Watch Video
-4.  Music
-5.  Shows
-6.  Gossip &. Pics
-7.  Artists.VH1
-8.  VH1 TV Schedule
-9.  GO Web
+2.  SHOWS
+3.  CELEBRITY
+4.  MUSIC
+5.  VIDEO
+6.  SCHEDULE
+7.  GO Web
+
+Visit VH1 On:
+
+*   Facebook
+*   Twitter
+*   Google +
+*   Tumblr
+*   Instagram
+*   foursquare
+*   Pinterest
+*   Youtube
 
 *   VH1 Sites
 *   Basketball Wives
@@ -300,5 +309,5 @@ Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Ri
 *   User Content Submission Agreement
 *   Closed Captioning Contact
 
-SPONSORS AD: ©2012 Viacom International Inc. All Rights Reserved.  
+SPONSORS AD: ©2013 Viacom International Inc. All Rights Reserved.  
 VH1 and all related titles and logos are trademarks of Viacom International Inc. Ad Choices logo Ad Choices
