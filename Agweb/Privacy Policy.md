@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 7, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 8, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -240,14 +240,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Share Your Opinions Via Text
-*   Know Your Cost of Production
-*   Top Producer Seminar Early Bird Rate Expires Jan. 7
-*   Program Information for January 5-6, 2013
-*   Drought Impact Fades, Markets Search for New Disaster
-*   Pre-Report Analysis, News of Jan. 11 Reports
-*   Controlling Our Risk
-*   Grain Markets Hit Hard by the Holidays
+*   Get a Blast of Market Information with Power Hour
+*   World Ag Expo Announces 2013 Top-10 New Product Winners
+*   Food-Safety Law Starts to Kick in Two Years After Outbreaks
+*   Power Hour: Corn Gains From 6-Month Low as Rain Threatens Argentine Crop
+*   From Cow to Cup
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
