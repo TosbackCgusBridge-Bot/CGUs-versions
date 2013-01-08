@@ -3,6 +3,7 @@ Fitbit Sign up • Log in
 *   Products
     
     *   Devices
+    *   **Flex™** Wireless Activity + Sleep Wristband
     *   **Zip™** Wireless Activity Tracker
     *   **One™** Wireless Activity + Sleep Tracker
     *   **Aria™** Wi-Fi Smart Scale
@@ -206,6 +207,8 @@ Explore
 
 Products
 
+*   Flex™  
+    Wireless Activity + Sleep Wristband
 *   Zip™  
     Wireless Activity Tracker
 *   One™  
