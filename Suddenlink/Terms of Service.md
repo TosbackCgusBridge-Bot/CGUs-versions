@@ -30,7 +30,7 @@
 
 Search Search
 
-*   Shop
+*   Order Online
 *   Television
 *   Internet
 *   Telephone
