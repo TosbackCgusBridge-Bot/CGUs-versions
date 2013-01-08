@@ -23,7 +23,7 @@ Im Folgenden möchten wir Ihnen kurz darstellen, wie die QUISMA GmbH Ihre person
 **Wer ist die verantwortliche Stelle?**  
 QUISMA GmbH (a GroupM company), Rosenheimer Straße 145d, 81671 München  
 Sitz der Gesellschaft: München, Registergericht: Amtsgericht München, Registernummer: HRB 153042  
-Vertretungsberechtigte Geschäftsführer: Ronald Paul, Norman Nötzold
+Vertretungsberechtigte Geschäftsführer: Johann Hermann, Ronald Paul, Sascha Wittler
 
 **Was sind personenbezogene Daten?**  
 Personenbezogene Daten sind alle Informationen über persönliche und sachliche Verhältnisse einer bestimmten oder bestimmbaren Person. Darunter fallen Informationen und Angaben wie zum Beispiel Ihr Name, Ihre Adresse oder Postanschrift und Ihre Telefonnummer. Auch Ihre E-Mail-Adresse gehört dazu, wenn sie einen solchen Bezug zu Ihrer Person aufweist, dass Sie identifizierbar sind. Informationen, mit deren Hilfe Ihre Identität nicht festgestellt werden kann, gehören dazu nicht.  
@@ -75,14 +75,15 @@ Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir 
 **Auskunft und Widerspruchsrecht**  
 Sie können zu jeder Zeit unentgeltlich Auskunft über die zu Ihrer Person gespeicherten Daten verlangen. Darüber hinaus haben Sie jederzeit das Recht, der weiteren Nutzung Ihrer personenbezogenen Daten für die Zukunft zu widersprechen. Ggfs. müssen Sie den Nachweis Ihrer Identität erbringen, bzw. dass es sich um Ihren Account handelt. Wenden Sie sich bitte in beiden Fällen an:
 
-Milena Stendenbach, betriebliche Datenschutzbeauftragte  
-Telefon: +49 (0) 89 44 23 82-0  
+Hannes Oenning  
+Lawyer – Data Protection Officer  
+Office: +49 (0) 69 96225 1110  
 privacy@quisma.com
 
 **Änderungsvorbehalt**  
 Die QUISMA GmbH behält sich das Recht vor, diese Erklärung zum Datenschutz unter Beachtung der rechtlichen Vorgaben jederzeit zu ändern.
 
-München, Mai 2012
+München, Januar 2013
 
 Bitte beachten Sie auch unsere Allgemeinen Geschäftsbedingungen.
 
