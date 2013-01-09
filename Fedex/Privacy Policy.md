@@ -283,4 +283,4 @@ Follow FedEx United States - English
 
 © FedEx 1995-
 
-Global Home|Site Map|fedex.com Terms of Use
+Global Home|Site Map|fedex.com Terms of Use|Security and Privacy
