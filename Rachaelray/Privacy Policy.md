@@ -9,7 +9,6 @@ Rachael Ray
     *   Quick &. Easy
     *   Recipes On the Go!
     *   Easy Weeknight Meals
-    *   Seamus Mullen's Hero Foods
     *   Salads
     *   In Season Now
     *   Brunch
