@@ -16,7 +16,10 @@ We're working with you to make a positive impact around the world in more than 3
 
 Sign up for our e-newsletter!
 
-*   Shop
+*   Fundraise
+    *   Help actor Ty Burrell  
+        win $50,000 for nature.  
+        **Donate at Crowdrise**
 *   Membership
     *   Become a Member
     *   Renew Membership
