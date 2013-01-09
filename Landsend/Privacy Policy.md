@@ -202,27 +202,6 @@ Enter Keyword or Item # Search
             *   Toddler (2T - 4T)
         *   School Uniforms
         *   Sale
-*   Gifts
-    
-    *   Shop Gifts For
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Home
-        
-    
-    *   Our Gift Shops
-        *   Gifts Under $30
-        *   Gifts Under $50
-        *   Holiday Surprises
-        *   Personalized Gifts
-        *   Dream Shop
-        *   Luxe Gifts
-        *   Gifts for Good Kids
-        *   Gifts from Titletown
-        *   Santa's Faves
-        *   Gift Cards
 *   Swim
     
     *   New Arrivals
@@ -286,7 +265,7 @@ Enter Keyword or Item # Search
         *   Little Kid (9 - 13)
         *   Toddler (5 - 8)
     *   Sale
-*   School
+*   School Uniforms
     
     *   Girls &. Women
         *   Big Kid
@@ -328,6 +307,7 @@ Enter Keyword or Item # Search
     *   Backpacks &. Lunch Boxes
     *   Totes
     *   Duffel Bags
+    *   Luggage Collections
     *   Carry-on Luggage
     *   Wheeled Luggage
     *   Upright Luggage
@@ -367,7 +347,6 @@ Enter Keyword or Item # Search
 *   Men
 *   Girls
 *   Boys
-*   Gifts
 *   Swim
 *   Outerwear
 *   Shoes
@@ -489,6 +468,7 @@ Service Extras
 Specialty Shops
 
 *   LE Business Outfitters
+*   Gifts
 *   Women's Plus Sizes
 *   Women's Petite Sizes
 *   School Uniforms
@@ -511,4 +491,4 @@ Policies
 *   Returns
 *   California Transparency Act
 
-Sears K-mart View Mobile Version ® Copyright 2012 Lands' End
+Sears K-mart View Mobile Version ® Copyright 2013 Lands' End
