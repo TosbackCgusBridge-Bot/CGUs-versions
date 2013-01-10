@@ -1,13 +1,13 @@
-This notice of privacy practices was updated on June 10, 2011.  
+This notice of privacy practices was updated on January 9, 2013.  
   
-This notice of privacy practices applies to information collected in Macy’s stores, online at macys.com, and via mobile applications (Macy’s iShop, macys.com accessed through your mobile device).  To view your separate Department Store National Bank Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
+This notice of privacy practices applies to information collected in Macy’s stores, online at macys.com, and via mobile applications (Macy’s iShop, macys.com accessed through your mobile device).  To view your separate Department Store National Bank Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
   
 This Notice of Privacy Practices explains:
 
 *   The kinds of information we collect;
 *   How we use information; 
 *   Our information sharing practices; 
-*   Customer Preferences and Opt-Out Choices
+*   Customer Preferences and Opt-Out Choices. and
 *   How you may access some of the information you provide to us.
 
 We encourage you to refer to this notice periodically so that you understand our current privacy practices.  
@@ -42,13 +42,19 @@ How We Use Information 
 
 We may use the information we collect to process a transaction, provide the products or services you request, to improve our Web site and stores, to enhance your shopping experience, and for marketing and promotional purposes.  We may combine information about you that we collect on-line, in our stores, via mobile applications, and from third party sources.  
   
-Cookies on macys.com  
+Cookies and Other Technologies on macys.com
+
   
-A cookie is a small piece of information sent by a Web site that is stored on your hard disk by your computer's browser.  A web beacon is an embedded image on a Web site that monitors a Web site’s activity.  
+This section addresses macys.com use of cookies and Flash Cookies.
+
+A cookie is a small piece of information sent by a Web site that is stored on your hard disk by your computer's browser.  A web beacon (also known as tracking pixels or clear GIF) is an embedded image on a Web site that monitors a Web site’s activity.  
   
 At macys.com, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. We use session cookies, for example, to add items to your shopping bag.  Persistent cookies last from visit to visit. they do not go away when you exit your browser. At macys.com, we use persistent cookies to give you a more personalized shopping experience and to help you navigate our Web site more efficiently.  For example, we use persistent cookies to show you items you have previously browsed.     
   
-Managing cookies preferences differs from browser to browser so please refer to your browser for further information.  If you would like to disable cookies and web beacons from macys.com, please use the help function in your web browser to restrict cookies from our Web site.  If you block cookies from macys.com, you will not be able to make purchases on our Web site.    
+Managing cookies preferences differs from browser to browser so please refer to your browser for further information.  If you would like to disable cookies and web beacons from macys.com, please use the help function in your web browser to restrict cookies from our Web site.  If you block cookies from macys.com, you will not be able to make purchases on our Web site.  
+
+A Flash Cookie (also known as Local Shared Object) is a data file stored on your computer by the web sites that you visit (click here for more details). From time to time, macys.com uses Flash Cookie(s) on the web site, for example, to enable or control Flash-based content. Flash Cookies provide similar functionality as the cookies (discussed above in this section), but are based on different technology and are persistent. To manage the Flash Cookie settings and preferences for your computer, please click here and you will be directed to the Settings Manager on Adobe's web site. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.  
+
   
 Back to Top
 
@@ -123,10 +129,6 @@ If you have questions about your order, you may check your order status online i
 If you have any additional questions, please call our Customer Service department at 1-888-529-2254.    
   
 If you are an international customer, and want to access your information, please click here.  
-  
-Information Security  
-  
-Please refer to the Security Policy for additional details.  
   
 Information About Children Under 13  
   
