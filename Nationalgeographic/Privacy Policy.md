@@ -1,16 +1,8 @@
 Skip to this page's content
 
-Advertisement Advertisement Advertisement National Geographic Society P.O. Box 98199 Washington, DC 20090-8199 USA 38.90531943278526, -77.0376992225647 800-647-5463
+Advertisement Advertisement Advertisement National Geographic Society P.O. Box 98199 Washington, DC 20090-8199 USA 38.90531943278526, -77.0376992225647 800-647-5463 Search National Geographic Searchnationalgeographic.com Submit
 
-Inspiring people to care about the planet since 1888
-
-Learn More »
-
-Search National Geographic Search nationalgeographic.com SiteVideo Submit
-
-*   Connect With Us
-
-Main Navigation
+*   Connect:
 
 *   Home
     *   Daily News
@@ -101,15 +93,21 @@ Main Navigation
     *   News
     *   Animal Jam
     *   Little Kids
+*   Subscriptions
+    *   National Geographic Magazine
+    *   National Geographic Kids
+    *   National Geographic Little Kids
+    *   National Geographic Traveler
 *   Shop
     *   Store Home
+    *   Genographic Kits
+    *   Best Sellers
+    *   New
+    *   Kids Shop
     *   Gift Finder
     *   Channel Shop
-    *   Kids Shop
+    *   Sale
     *   Shop by Catalog
-    *   Shop by Theme
-    *   Genographic Kits
-    *   Sale Items
     *   Email Signup
 
 Privacy Policy - Your Privacy Rights I. Scope of the Privacy Policy The National Geographic Society and our subsidiary, NGHT, LLC, which also is known as nationalgeographic.com (collectively, “National Geographic,” “we” or “our”) understand the importance of our customers’ privacy. This Privacy Policy tells you what information we collect about you when you visit this website (our “Site”) or use an online application that contains a link to this Privacy Policy. Our Privacy Policy also tells you how we use, share and protect this information. what choices you have about how this information is used. and how you can access and update this information. Our Site offers certain content, activities, games and services, which are referred to as the “Services.” This Privacy Policy applies to information collected on the Site where this Privacy Policy is posted, with the exception of the sections of this Site that are intended for visits from children under the age of 13, including www.nationalgeographic.com/kids, www.littlekids.nationalgeographic.com, and certain online features specifically designed for kids. In recognition of the need to provide additional privacy protections for children, we have a separate privacy policy that applies to those sections. To read the Kids' privacy policy, please click here. Certain aspects of this Privacy Policy also apply to the personally identifiable information we collect offline.  
