@@ -28,11 +28,7 @@ Mein SPIEGEL
 
   
   
-
-*   Drucken
-*   Feedback
-
-12.08.2010 11:29   Allgemeine Nutzungsbedingungen
+Allgemeine Nutzungsbedingungen
 
 **Liebe Leserin, lieber Leser,**
 
@@ -352,7 +348,11 @@ Alle Rechte vorbehalten
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
   
-  
+
+*   Datum: Donnerstag 12.08.2010 | 11:29 Uhr
+*   Artikel drucken
+*   Feedback
+
 Gliederung
 
 **A) Allgemeine Nutzungsbedingungen**
@@ -374,12 +374,6 @@ Gliederung
 *   2\. Reise
 *   3\. einestages.de
 
-  
-  
-  
-  
-  
-  
 TOP  
   
   
