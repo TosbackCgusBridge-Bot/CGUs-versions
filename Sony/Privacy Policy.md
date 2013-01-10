@@ -18,7 +18,6 @@
     *   Corporate Governance
 *   Careers
     *   Overview
-    *   Sony Corporation of America Jobs
     *   Internships
 *   Contacts
 
@@ -138,7 +137,6 @@ Corporate Responsibility
 Careers
 
 *   Overview
-*   Sony Corporation of America Jobs
 *   Internships
 
 Contacts
