@@ -3,7 +3,7 @@
       
 **Privacy Policy**
 
-Last Updated: May 25, 2006  
+Last Updated: 01/02/2013  
 
 Care2 takes seriously the issue of safeguarding your privacy online. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you use our many offerings.
 
@@ -36,6 +36,7 @@ Questions regarding this privacy statement should be submitted to Care2 Customer
 *   What tracking technologies does Care2 use?
 *   Does Care2 sell e-mail addresses to advertisers?
 *   How does Care2 secure its data storage?
+*   Data Retention Policy
 *   What are the privacy standards for Care2's marketplace partners and affiliates?
 *   What else should I know about my privacy?
 *   What happens if changes are made to the privacy policy?
@@ -145,6 +146,10 @@ With regards to e-mail communication with us, we read every message sent to us a
 How does Care2 secure its data storage?
 
 Care2's servers are located at a world-class co-location facility in California, USA. The facility has some of the most powerful physical security systems in the business, from advanced smoke detection and fire suppression systems to 24/7 secured access with motion sensors, video camera surveillance, and security breach alarms. Only certain Care2 employees are given access to the building. Access to the database is protected by a firewall and secure data lines and available only to certain Care2 employees on an as-necessary basis.
+
+Data Retention Policy
+
+Our data retention policy varies depending on the business and system needs, but remains in harmony with the other policies stated here. Our business systems and databases are securely stored and archived for disaster recovery purposes. Petition signatures are only retained in our databases for a 90 day period. Personal Messages in a members "SAVE" folder are retained indefinitely, while the remaining personal messages that have been read but not saved are purged after 2 years. Photos uploaded for sharing are resized for web display only and original larger images removed.
 
 What are the privacy standards for Care2's marketplace partners and affiliates?
 
