@@ -15,14 +15,6 @@
         
         E-mail Call Write
 *   Log In
-    *   Manage Your Policy and Pay Your Bill! Save ID
-        
-        Forgot password? Register
-        
-        **Make a Payment** (login not required)
-        
-        Plus, you can report a claim, print ID cards and customize the messages we send to you. Watch a quick demo.
-        
 
 #1 Auto Insurance Web Site for 2012 - Keynote® Systems
 
@@ -33,7 +25,7 @@ Progressive
 *   Claims Center
     *   Log in to: Report a Claim Track a Claim Immediate Response Vehicles How-to Report a Claim Service Centers Claims Offices Catastrophe Claims Windshield and Glass Repair Estimates Roadside Assistance Super Service Stories Provider Networks Not a Progressive Customer? Access your claim
 *   Customer Service
-    *   24/7 Access Online Demo Make a Payment (login not required) Log In to View or Update Your Policy Insurance Basics Car Insurance FAQs Insurance Terms Retrieve a Quote Find an Agent Contact Us
+    *   24/7 Access Log In to View or Update Your Policy Make a Payment (login not required) Insurance Basics Car Insurance FAQs Insurance Terms Retrieve a Quote Find an Agent Contact Us New to Progressive? Register Your Policy
 
 *   Contact Us
 *   Help
