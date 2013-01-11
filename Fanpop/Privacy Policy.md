@@ -84,7 +84,7 @@ Contact Us
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact privacy@fanpop.com.
 
-Facebook Twitter Youtube
+Facebook Twitter
 
 *   Fanpop Home
 *   About Us
