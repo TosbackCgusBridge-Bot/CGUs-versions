@@ -357,7 +357,6 @@ Company
 *   Corporate Responsibility
 *   SOA Foundation
 *   Careers
-*   Auto Show
 
 Subaru Privacy Policy
 
