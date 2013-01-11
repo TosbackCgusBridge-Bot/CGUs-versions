@@ -114,14 +114,14 @@ Parents of children under the age of 13 have the option to consent to the collec
 
 Zazzle Inc.  
 Attn: Privacy  
-1900 Seaport Blvd, 4th Floor  
+1800 Seaport Blvd, 4th Floor  
 Redwood City, CA 94063  
 coppa@zazzle.com  
 1(800)980-9890
 
 **How can I change, delete, or update my information?**
 
-Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at privacy@zazzle.com or Privacy c/o Zazzle Inc., 1900 Seaport Blvd., 4th Floor, Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at privacy@zazzle.com or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., 4th Floor, Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
 Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
