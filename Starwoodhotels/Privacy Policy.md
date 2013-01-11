@@ -17,6 +17,7 @@ Text Only
     *   中文(简体)
     *   Italiano
     *   Português
+    *   Русский
 
 *   Book &. Stay
 *   Our Company
