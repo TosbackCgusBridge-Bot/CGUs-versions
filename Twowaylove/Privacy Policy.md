@@ -82,7 +82,6 @@ DATING DIRECTORY
     *   Categories
     *   Advice and Guidelines
     *   Alternative Lifestyles
-    *   Animal Lovers
     *   Chat and Blogs
     *   Dating Related Sites
     *   Dating Site Webmasters
