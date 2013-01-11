@@ -1,4 +1,4 @@
-We gather certain types of information about the visitors to the Edmunds Automotive Network, and we believe our visitors should fully understand how we obtain and use that information. The Edmunds Automotive Network consists of Edmunds.com and InsideLine.com, any other Web site that we identify as a part of the Edmunds Automotive Network, the mobile versions of our websites, and any apps that we offer (for example, apps available through iTunes and on Facebook).
+We gather certain types of information about the visitors to the Edmunds Automotive Network, and we believe our visitors should fully understand how we obtain and use that information. The Edmunds Automotive Network consists of Edmunds.com, any other Web site that we identify as a part of the Edmunds Automotive Network, the mobile versions of our websites, and any apps that we offer (for example, apps available through iTunes and on Facebook).
 
 This Privacy Statement discloses what information we gather on our Web sites and how we use it. (Accordingly, this Privacy Statement is not applicable to information that we obtain through any other business activities.)
 
@@ -94,4 +94,4 @@ On the Edmunds Automotive Network you may see advertisements that include a noti
 **Changes to this Privacy Statement**  
 We reserve the right, in our sole discretion and at any time, to change this Privacy Statement. Changes will be effective when made and the updated Privacy Statement is posted on the Edmunds Automotive Network. provided, however, that (i) information collected prior to the time any change is posted will be used according to the provisions of this Privacy Statement that applied at the time the information was collected, and (ii) no such change shall be applicable to any dispute between you and us that arises prior to the time such change is effective.
 
-_Revised January 4, 2013_
+_Revised January 10, 2013_
