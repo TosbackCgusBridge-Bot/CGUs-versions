@@ -2,7 +2,7 @@ Privacy &. Security
 
 Effective February 8, 2012
 
-Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site www.JustAnswer.com. This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
+Inherent to transacting on the Internet is the collection of some personal information. JustAnswer ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site www.JustAnswer.com. This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
 
 JustAnswer® is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet, by promoting the use of fair information practices. JustAnswer has elected to disclose its information practices as a sign of its commitment to privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
 
