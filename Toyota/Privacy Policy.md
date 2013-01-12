@@ -435,22 +435,36 @@ Zip Code Advanced Search
 *   Toyota Newsroom
 *   sign up for info
 *   @Toyota: Express Lane -- RSS News Feed
-*   ©2008-2012 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+*   ©2008-2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
 
 *   Cars
-*   Trucks
 *   SUVs
-*   Minivan
-*   Crossovers
+*   Trucks
 *   Hybrids &. EVs
+*   Hybrid Cars
+*   Hybrid SUVs
+*   Crossovers
 *   Vehicles
 *   Fuel Economy
+*   Maintenance Tips
 *   Accessories
 *   Car Dealers
 *   Safety
+*   Car Tips
 *   Financial Tools
+*   Special Offers
 *   Entune™
 *   Facebook
 *   Twitter
 *   YouTube
 *   Google+
+*   Minivan
+*   Compact Cars
+*   Fuel Efficient Cars
+*   Fuel Efficient SUVs
+*   Choosing Your Fuel Efficient Vehicle
+*   Fuel Efficient Driving Techniques
+*   Fuel Economy Driving Tips
+*   In Car Technology
+*   Hands Free Tips
+*   Tips &. Services Checklist
