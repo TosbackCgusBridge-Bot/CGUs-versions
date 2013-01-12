@@ -10,12 +10,12 @@ We take your privacy seriously, and we want you to know how we collect, use, sha
 *   How we protect your information
 *   Your choices regarding your personal information
 
-This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy, (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
+This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
 
 Information We Collect
 
 **Information You Give Us**  
-We receive and may store any information you enter on our websites or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
+We receive and may store any information you enter on our websites, give to us in our stores or provide through our mobile applications. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
 
 The information we collect from you includes things like:
 
@@ -25,12 +25,13 @@ The information we collect from you includes things like:
 *   Your phone number
 *   Your credit card number and other payment information
 *   Your driver's license number
-*   Credit application information, such as your Social Security Number
+*   Credit application information, such as your Social Security number
 *   Demographic and lifestyle information, such as age, personal interests and product preferences
+*   Location information
 
 It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends &. Family Pickup person.
 
-**Information From Other Sources**  
+**Information from Other Sources**  
 We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
 
 **Automatic Information**  
@@ -40,8 +41,11 @@ One type of cookie may allow us to identify you as a particular Best Buy retail 
 
 To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies or web beacons. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
 
+**Location Information**  
+Some of our websites and mobile applications may collect certain information such as the type of mobile device you're using or your specific location to help you search for one of our stores. To allow any application to identify your location, you must enable this functionality through your mobile device's settings to allow the use of technologies such as Wi-Fi, GPS signals, cell tower position, or other technologies. Best Buy has no control over your device's settings.
+
 **Public Forums**  
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Our websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
 How We Use the Information We Collect
 
@@ -58,7 +62,7 @@ We use the information we collect for things like:
 *   Communicating things like special events, sweepstakes, promotions and surveys
 *   Processing Best Buy credit card or Reward Zone MasterCard applications
 *   Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online
-*   Facilitating interactions with Best Buy and others, such as enabling you to email a link to a friend
+*   Facilitating interactions with Best Buy and others, such as enabling you to e-mail a link to a friend
 *   Operating, evaluating and improving our business
 
 **Data Retention**  
@@ -68,7 +72,7 @@ How We Share the Information We Collect
 
 Best Buy does not sell, rent or trade your personal information to third parties.
 
-Best Buy Co., Inc. is the parent company of the Best Buy Companies ("Best Buy"), and as such, if you provide information to any of the businesses, stores or Web sites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities, including affiliates and subsidiaries.
+Best Buy Co., Inc. is the parent company of the Best Buy Companies ("Best Buy"), and as such, if you provide information to any of the businesses, stores or websites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities, including affiliates and subsidiaries.
 
 We may share your information with third parties to perform services on our behalf such as:
 
@@ -80,20 +84,20 @@ We may share your information with third parties to perform services on our beha
 *   Sending Best Buy marketing communications
 *   Fulfilling subscription services
 *   Conducting research and analysis
-*   Applying for credit cards &. processing credit card payments
+*   Applying for credit cards and processing credit card payments
 *   Providing chat functions
 
-Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We also may share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Best Buy, our customers, or others. to prevent harm or loss. or in connection with an investigation of suspected or actual unlawful activity.
+Sometimes we may be required to share personal information in response to a regulation, court order or subpoena. We may also share information when we believe it's necessary to comply with the law. We may also share information to respond to a government request or when we believe disclosure is necessary or appropriate to protect the rights, property or safety of Best Buy, our customers, or others. to prevent harm or loss. or in connection with an investigation of suspected or actual unlawful activity.
 
 We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
-We may share personal information in connection with financial products or services related to our business such as private label credit cards. We also may share personal information in connection with co-branded product or service offerings. For example, when you apply for a Best Buy credit card, we may share your personal information with our banking partners that issue the card.
+We may share personal information in connection with financial products or services related to our business such as private label credit cards. We may also share personal information in connection with co-branded product or service offerings. For example, when you apply for a Best Buy credit card, we may share your personal information with our banking partners that issue the card.
 
 How We Protect the Information We Collect
 
 Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. Best Buy cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
 
-We use a variety of information security measures to protect your online transactions with us. The Best Buy Web site uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our Web site such as ordering information including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.
+We use a variety of information security measures to protect your online transactions with us. The Best Buy websites use encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL protects information you submit via our websites such as ordering information, including your name, address and credit card number. Information you provide to us via our in-store kiosk does not traverse the public Internet.
 
 Your Choices Regarding the Information We Collect
 
@@ -106,9 +110,9 @@ You may choose to:
 
 To do any of these, let us know by one of these methods:
 
-*   Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us.
-*   Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information.
-*   Send an e-mail with your request and current contact information to PrivacyManager@bestbuy.com
+*   Follow the directions in a marketing e-mail or direct mail or mobile communication that you receive from us
+*   Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information
+*   Send an e-mail with your request and current contact information to: PrivacyManager@bestbuy.com
 *   Send a letter with your request and current contact information to:  
       
     Best Buy Corporate Campus  
@@ -136,9 +140,9 @@ We may need to update our Privacy Policy as Best Buy and our customers grow and 
 
 U.S.-EU **Safe Harbor Framework**
 
-Best Buy complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: http://export.gov/safeharbor.
+Best Buy complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the EU Safe Harbor Framework can be found at: http://export.gov/safeharbor.
 
-Best Buy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe privacy program applies only to information that is collected through this website.
+Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe privacy program applies only to information that is collected through this website.
 
 As part of our participation in the Safe Harbor Framework, Best Buy uses TRUSTe to resolve disputes relating to our compliance with the Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact Best Buy as provided below. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by clicking here. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -158,4 +162,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated: 5.23.2012
+Last Updated: 1.12.2013
