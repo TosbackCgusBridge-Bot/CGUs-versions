@@ -112,6 +112,8 @@ Our Terms of Use are available on this page.
 
 Privacy Policy
 
+ATTENTION: There is an updated privacy policy available here. The old policy is still temporarily available for your review below and will be replaced with the updated version.
+
 Sierra Trading Post Privacy Policy effective 03/26/12.
 
 Your privacy is important to us here at Sierra Trading Post.
