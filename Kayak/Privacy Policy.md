@@ -58,7 +58,7 @@ You have the right to choose whether or not to accept cookies. As the means by w
 
 KAYAK does make money by selling advertising as well as referrals from searches on our site. Our third party advertising partners often use Web beacons (single pixel GIF images) which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page to track when a click becomes a sale (cha ching).
 
-8\. Can We Email You Sometime
+8\. Can We Email You Sometime?
 
 Except for service announcements, administrative messages and those much-needed emails confirming your registration, providing you with account information, or relating directly to an itinerary or travel profiles created through the Trips Service, we will not send you any emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you, including targeted email marketing messages from us or our third party advertising partners. If you decide that you are no longer interested in receiving email communications from us, you may follow the instructions in our emails to unsubscribe from our email list or opt-out from your My Account pages
 
@@ -74,7 +74,7 @@ KAYAK does not knowingly collect Personal Data from people under the age of 18. 
 
 KAYAK reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how KAYAK will use your Personal Data, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information. If you have questions about our privacy policies, please send feedback.
 
-12\. Right to Information/ Rectification
+12\. Right to Information/Rectification
 
 You are entitled at any time and without any fee to obtain information about all your personal data that we store. Also, you can at any time withdraw your consent to the use of the data that you have given when the data were collected. In addition, you can always demand the deletion and the rectification of your data. However, statutory provisions, especially such regarding technical accounting and bookkeeping purposes, may prohibit such a deletion. In order to revoke your consent to the use of data, to obtain information or to demand a rectification, blocking or deletion, please contact:
 
