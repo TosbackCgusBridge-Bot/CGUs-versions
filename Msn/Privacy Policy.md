@@ -219,4 +219,4 @@ Antispambeleid
 
   
 Begin van pagina  
-Mijn gegevens ©2012 Microsoft Corporation. Alle rechten voorbehouden. Contact opnemen |Gebruiksvoorwaarden |Handelsmerken |Privacyverklaring
+Mijn gegevens ©2013 Microsoft Corporation. Alle rechten voorbehouden. Contact opnemen |Gebruiksvoorwaarden |Handelsmerken |Privacyverklaring
