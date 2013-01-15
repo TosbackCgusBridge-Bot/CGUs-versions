@@ -265,7 +265,7 @@ By participating in the Company Mobile program, you are agreeing to the terms an
 Carriers Supported  
 
 United States  
-AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Interop – Appalachian Wireless, Interop – Bluegrass Cellular, Interop – Centennial Cellular Corp, Interop – COX TMI WIRELESS, LLC, Interop – GCI Comms aka Alaska DigiTel, Interop – Illinois Valley, Interop – Immix Wireless, Interop – Inland Cellular, Interop – Nex-Tech, Interop – United Wireless, Interop – West Central Cellular, Interop ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile®, US Cellular Corp®, Verizon Wireless, Virgin Mobile USA
+AT&T, Boost Mobile, Cincinnati Bell, Cricket Communications, GetLisa, Appalachian Wireless, Bluegrass Cellular, Centennial Cellular Corp, COX TMI WIRELESS, LLC, GCI Comms aka Alaska DigiTel, Illinois Valley, Immix Wireless, Inland Cellular, Nex-Tech, United Wireless, West Central Cellular, ECIT Cellular One of East Central, MetroPCS, Nextel Communications, Sprint, T-Mobile®, US Cellular Corp®, Verizon Wireless, Virgin Mobile USA
 
   
 
