@@ -219,4 +219,4 @@ Política de anti-spam
 
   
 Início da página  
-Fale Conosco ©2012 Microsoft Corporation. Todos os direitos reservados. Entre em contato |Nota Legal |Marcas comerciais |Política de Privacidade
+Fale Conosco ©2013 Microsoft Corporation. Todos os direitos reservados. Entre em contato |Nota Legal |Marcas comerciais |Política de Privacidade
