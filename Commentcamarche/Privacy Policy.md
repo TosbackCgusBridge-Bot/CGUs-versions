@@ -41,8 +41,10 @@ Société Anonyme au capital de 1 893 212,05 euros,
 Le site CommentCaMarche.net est hébergé par :  
   
 Equinix France  
+114 rue Ambroise Croizat  
+93200 SAINT DENIS  
 SAS au capital de 23 510 900,40 €  
-RCS : Pontoise B 429 840 853  
+RCS : Bobigny B 429 840 853  
 Définitions
 
 *   **Utilisateur** : L'Utilisateur est toute personne qui utilise le Site ou l'un des services proposés sur le Site.
@@ -121,13 +123,13 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Cgu
 *   Conditions générales d'utilisation site internet
 *   Conditions générales de vente » Forum - Webmaster
-*   Les conditions générales de vente pour un site d'e-commerce » Fiches pratiques - e-administration
 *   Iphone probléme app store (Résolu) » Forum - IPhone
+*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Modèle de conditions générales de vente » Forum - Webmaster
-*   Cycle de vie d'un logiciel » Articles - Génie logiciel
+*   Site web pro : mentions légales et formulaire de contact » Conseils pratiques - e-communication
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
+*   Forum Mobile
 *   Forum SFR
-*   Forum Webmastering
