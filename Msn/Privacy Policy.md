@@ -219,4 +219,4 @@ Anti-Spam-Richtlinie
 
   
 Zum Seitenanfang  
-Verwalten Sie Ihr Profil ©2012 Microsoft Corporation. Alle Rechte vorbehalten. Kontaktieren Sie uns |Nutzungsbedingungen |Markenzeichen |Informationen zur Datensicherheit |Impressum
+Verwalten Sie Ihr Profil ©2013 Microsoft Corporation. Alle Rechte vorbehalten. Kontaktieren Sie uns |Nutzungsbedingungen |Markenzeichen |Informationen zur Datensicherheit |Impressum
