@@ -24,9 +24,11 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses p
 
 (3) contact you by email, mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission.
 
-(4) ensure materials on the website are presented in the most effective manner for you and your computer.
+(4) ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device.
 
 (5) collate and log numeric internet addresses to improve the website and to monitor website usage.
+
+(6) assess and understand customer feedback and identify usage hotspots.
 
 3.2 If you have subscribed to any of or services, we will use the information you provide to keep you updated on those services unless you tell us otherwise.
 
@@ -90,8 +92,8 @@ http://www.audiencescience.com/privacy
 
 10.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy.
 
-11\. If you don't feel we're adhering to this Policy, what should you do?
+11\. **If you don't feel we're adhering to this Policy, what should you do?**
 
 11.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly.
 
-_This Policy was last updated on May 24, 2012_.
+_This Policy was last updated on January 10, 2013._
