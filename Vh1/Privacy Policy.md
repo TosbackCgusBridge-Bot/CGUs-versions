@@ -11,7 +11,7 @@
 *   Shop
 *   VH1 Costar
 
-VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosCelebrity GossipVH1 BlogGreatest ListsMovie GossipVH1 &. Celeb PhotosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoPostedVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnplugged VH1 EMAILVH1 MUSIC AND  
+VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosCelebrity GossipBest Week EverVH1 BlogGreatest ListsMovie GossipVH1 &. Celeb PhotosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoPostedVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnplugged VH1 EMAILVH1 MUSIC AND  
 NEWS STRAIGHT  
 TO YOU» VH1 COSTARWatch Video  
 \+ More» VH1 EMAILGET YOUR DAILY  
@@ -281,13 +281,14 @@ Visit VH1 On:
 *   Tuner Blog
 *   VH1 Classic
 *   VH1 Mobile
+*   Best Week Ever
 
 *   Stay Connected
 *   VH1 on Facebook
 *   VH1 on Twitter
-*   VH1 on Myspace
+*   VH1 on Tumblr
+*   VH1 on Google+
 *   Newsletters
-*   Podcasts
 *   Add RSS Headlines
 
 *   Corporate
