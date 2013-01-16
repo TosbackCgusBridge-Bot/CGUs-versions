@@ -141,17 +141,17 @@ If you have any questions or comments regarding the IDG Publishing Network or it
 
 Last updated June 1, 2012.
 
-Contact Us  
-  
-  
+TechHive Articles
 
-\* Name (First Last)  
+*   These glasses keep your face out of photos (and other stuff you missed) January 16, 2013
+*   Facebook Graph Search: What it means for you (video) January 16, 2013
+*   Mercedes taps into technology to give drivers an assist January 15, 2013
 
-\* Email  
+PCWorld Articles
 
-Your Message  
-
- I am human
+*   Google gives developers an early hands-on with Project Glass January 16, 2013
+*   Five notable new features in Fedora Linux 18 'Spherical Cow' January 16, 2013
+*   This Nevada man does not have your lost cellphone January 15, 2013
 
   
 TechHive on Twitter (@TechHive)
