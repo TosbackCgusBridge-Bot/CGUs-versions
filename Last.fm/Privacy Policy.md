@@ -1,6 +1,6 @@
 Your privacy matters
 
-**Updated on: Tuesday 26 June 2012**
+**Updated on: Tuesday 15 January 2013**
 
 *   We have a pretty simple privacy policy. We are reasonably sure this won’t annoy anyone.
 *   The entry of personal data on this site is completely optional and will require you to setup an account with a password and an email address. Please choose a password that is not easy for someone else to guess, such as birthday, national identification number and phone number.
@@ -20,7 +20,7 @@ At Last.fm, we are fully committed to respecting your privacy and to protecting 
 
 The Policy explains how Last.fm collects and uses information. We hope that our candour will remove any concerns you may have and will make visiting the Website a rewarding experience.
 
-**If you would like to obtain information about how we may have shared your information with third parties for their direct marketing purposes, you may send such requests to us via postal mail at: Data Access Request, Last.fm Limited, Karen House, 1-11 Baches Street, London, N1 6DL or contact us via email at: legal@last.fm.**
+**If you would like to obtain information about how we may have shared your information with third parties for their direct marketing purposes, you may send such requests to us via postal mail at: Data Access Request, Last.fm Limited, 5-11 Lavington Street, London, SE1 0NZ or contact us via email at: legal@last.fm.**
 
 Although we endeavour to keep you up-to-date on all changes made to the Website, this Policy may be amended from time to time without notice to you. It is your responsibility to read the Policy carefully and review any changes that may have been made.
 
@@ -142,4 +142,4 @@ If you decide that you do not want your personal information to be used in the w
 
 20\. Effective Date
 
-This Privacy Policy is effective as of 26 June 2012.
+This Privacy Policy is effective as of Tuesday 15 January 2013.
