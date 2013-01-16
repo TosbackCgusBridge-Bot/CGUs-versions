@@ -9,7 +9,7 @@ Edition: U.S. / Global Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on September 19, 2012_
+_Last Updated on January 15, 2013_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, our mobile messaging services, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -217,7 +217,7 @@ If, at any time, you prefer not to receive e-mail marketing information from us,
 
 2\. Click here to manage your e-mail subscriptions from NYTimes.com. These include Today's Headlines, Ticketwatch, DealBook, Sophisticated Shopper, Movies Update, etc.
 
-3\. Click here and log in to your New York Times Online Store account. Click on the "My Account" section at the top of the navigational bar and proceed to "Update Account Info &. Password". On the Update Account page, scroll down to the Other Information section and uncheck "I would like to receive updates and promotions by email" to no longer receive e-mail communications from The Store.
+3\. Click here to log in to your New York Times Online Store account and then click the **Unsubscribe From Newsletter** button.
 
 4\. Click here to manage your subscription to The New York Times Events Newsletter (TimesTalks, Great Read in the Park, Arts and Leisure Weekend, Sunday with The Magazine, The New York Times Travel Show).
 
@@ -256,16 +256,16 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Starbucks will open a cafe in Vietnam
+Search Help Toasting and grinding spices
 
-Also in Dining &. Wine »
+Also in Video »
 
-*   Spices: When to grind, when to toast
-*   Garam masala: Many recipes, and even more uses
+*   Melissa Clark shows us how to make lemon ricotta cookies
+*   Mark Bittman shows us how to cook a steak
 
   
 
-*   © 2012 The New York Times Company
+*   © 2013 The New York Times Company
 *   Site Map
 *   Privacy
 *   Your Ad Choices
