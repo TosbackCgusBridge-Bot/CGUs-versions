@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 15, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 16, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -110,8 +110,7 @@ Jan 15, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Community
     *   Photo Galleries
     
-      
-     
+    *   Road to No. 1 Contest 
 *   Video
     
     *   AgWeb TV
@@ -121,7 +120,8 @@ Jan 15, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Corn College TV
     
     *   Leave a Legacy TV
-    *   AgDay: I-80 Harvest Tour 
+    *   AgDay: I-80 Harvest Tour
+    *   AgDay: The New Crop 
 *   Audio
     
     *   AgWeb Radio
@@ -240,8 +240,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Organic Valley Posts 20% Growth
-*   U.S. Beef, Pork Exports Dip Slightly. Lamb Rebounds
+*   World Dairy Expo Completes Dairy Cattle Judge List
+*   CWT Assists with 5.5 Million Pounds of Export Sales
+*   Top Trends for Buying, Financing and Leasing Equipment in the New Year
+*   Major Shift to Corn in the South
+*   Dairy Policy Deserves House Debate
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
