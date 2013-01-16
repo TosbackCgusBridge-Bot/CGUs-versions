@@ -41,7 +41,7 @@ Web site navigation links:
 
 Search the ETS web site:
 
-Search: ETS.orgGRE WebsitePRAXIS WebsiteTOEIC WebsiteTOEFL Website Legal ETS Home >. Legal >. Privacy and Security Privacy and Security
+Search: ETS.orgGRE WebsitePRAXIS WebsiteTOEFL WebsiteTOEIC Website Legal ETS Home >. Legal >. Privacy and Security Privacy and Security
 
 Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. In addition to the commitments set out in this Privacy Policy, ETS has taken steps to meet legal obligations in various countries with the aim of compliance with worldwide data privacy requirements. ETS will strive to treat your "personal data" according to applicable local laws which regulate inter-country process, access and transfer of personal data. This Privacy Policy ("Policy") discloses our information-gathering and dissemination practices for this website at www.ets.org ("Website"). 
 
