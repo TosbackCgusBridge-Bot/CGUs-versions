@@ -78,6 +78,7 @@ Sign up for our e-newsletter!
 *   Gift and Estate Planning
 *   Search
 *   All Hands on Earth
+*   How We Work
 
 Get Involved:
 
