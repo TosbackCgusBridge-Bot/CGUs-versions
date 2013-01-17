@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   These glasses keep your face out of photos (and other stuff you missed) January 16, 2013
-*   Facebook Graph Search: What it means for you (video) January 16, 2013
-*   Mercedes taps into technology to give drivers an assist January 15, 2013
+*   Hovercraft attempts to go Back To The Future (and other stuff you missed) January 17, 2013
+*   Raspberry Pi-powered pinball prowess prevails in this DIY creation January 16, 2013
+*   Electric motors come to big trucks by way of VIA January 16, 2013
 
 PCWorld Articles
 
-*   Google gives developers an early hands-on with Project Glass January 16, 2013
-*   Five notable new features in Fedora Linux 18 'Spherical Cow' January 16, 2013
-*   This Nevada man does not have your lost cellphone January 15, 2013
+*   RIM gets Visa approval for mobile payments via NFC January 17, 2013
+*   Lightweight 'Kite' tablet runs Ubuntu 12.04 and Android 4.0 January 16, 2013
+*   Obama calls for study on video-game violence January 16, 2013
 
   
 TechHive on Twitter (@TechHive)
