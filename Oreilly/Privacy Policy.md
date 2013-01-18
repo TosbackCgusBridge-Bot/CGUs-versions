@@ -132,14 +132,12 @@ Community
 *   RSS Feeds
 *   User Groups
 
-More O'Reilly Sites
+Partner Sites
 
-*   igniteshow.com
-*   makerfaire.com
 *   makezine.com
+*   makerfaire.com
 *   craftzine.com
-*   labs.oreilly.com
-*   Partner Sites
+*   igniteshow.com
 *   PayPal Developer Zone
 *   O'Reilly Insights on Forbes.com
 
