@@ -75,5 +75,6 @@ How to Contact Us
 *   Product Coupons and Promotions
 *   Terms and Conditions
 *   Privacy Notice
+*   About Ads
 
 © 2012 Procter &. Gamble. All claims valid only in the U.S.
