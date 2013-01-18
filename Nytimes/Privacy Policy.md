@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Real Husbands of Hollywood," with Nick Cannon and Kevin Hart
+Search Help "Midsummer," at the Clurman Theater
 
-Also in Arts »
+Also in Theater »
 
-*   Selling some of the memories behind Studio 54
-*   Brian Grazer moves ahead with James Brown biopic
+*   One man's Shakespeare is another's kick in the pants
+*   In Performance: Elizabeth Marvel
 
   
 
