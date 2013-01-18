@@ -156,8 +156,16 @@ Explore Related Content Contact Us If you have any questions or concerns feel fr
 *   Contact Us
 *   Help/FAQs
 *   Newsroom
-*   For Corporate Partners
-*   Feedback
+*   Working With Companies
+
+Our Sites
+
+*   All Hands Music
+*   Conservation Gateway
+*   Blog
+*   Magazine
+*   Nature Rocks
+*   Nature Works Everywhere
 
 Connect With Us
 
@@ -166,21 +174,18 @@ Connect With Us
 *   Facebook
 *   Youtube
 *   Flickr
+*   Mobile Apps
+*   Photos and Video
 
 About Us
 
-*   Blog
-*   News
 *   Vision and Mission
 *   Our Governance
-*   Our Accountability
 *   Financials
 *   Why We're Effective
-*   Private Lands Conservation
-*   Development by Design
-*   Campaign for a Sustainable Planet
 *   Diversity
 *   Careers
+*   Our Stories
 
 How We Work
 
@@ -188,14 +193,16 @@ How We Work
 *   Regions
 *   Urgent Issues
 
-Take Action
+Get Involved
 
 *   Adopt an Acre
 *   All Hands on Earth
 *   Plant a Billion Trees
-*   Send a Nature Ecard
+*   Use Your Outside Voice
+*   Send a Nature E-Card
 *   Green Living Tips
 *   Carbon Calculator
+*   Volunteer
 
 Where We Work
 
@@ -208,21 +215,21 @@ Where We Work
 *   North America
 *   South America
 
-The Science
+Our Science
 
 *   Conservation By Design
 *   Our Scientists
 *   Science Council
 *   Science Features
 
-Accountability
+Our Accountability
 
 The Nature Conservancy makes careful use of your support.
 
 More Ratings
 
 *   Donate
-    *   Donate Online
+    *   Donate Now
     *   Monthly Giving
     *   Memorials and Tributes
     *   Gift Planning
@@ -232,8 +239,6 @@ More Ratings
     *   Gift Memberships
     *   Member Benefits
 *   Shop
-    *   Marketplace by Resolution
-    *   Give a Gift
 
 Copyright © 2013 The Nature Conservancy.
 
