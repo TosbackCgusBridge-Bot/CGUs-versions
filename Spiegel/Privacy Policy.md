@@ -348,10 +348,10 @@ Alle Rechte vorbehalten
 Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 
   
+  
 
-*   Datum: Donnerstag 12.08.2010 | 11:29 Uhr
-*   Artikel drucken
-*   Feedback
+*   Donnerstag, 12.08.2010 – 11:29 Uhr
+*   Drucken Feedback
 
 Gliederung
 
@@ -374,6 +374,12 @@ Gliederung
 *   2\. Reise
 *   3\. einestages.de
 
+  
+  
+  
+  
+  
+  
 TOP  
   
   
