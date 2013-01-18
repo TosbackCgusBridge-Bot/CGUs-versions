@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Hovercraft attempts to go Back To The Future (and other stuff you missed) January 17, 2013
-*   Raspberry Pi-powered pinball prowess prevails in this DIY creation January 16, 2013
-*   Electric motors come to big trucks by way of VIA January 16, 2013
+*   The future of slotcar racing is here (and other stuff you missed) January 18, 2013
+*   Lawmaker: Mobile users should be able to delete data January 17, 2013
+*   Report: Asustek in talks to license Windows Phone 8 for handsets January 17, 2013
 
 PCWorld Articles
 
-*   RIM gets Visa approval for mobile payments via NFC January 17, 2013
-*   Lightweight 'Kite' tablet runs Ubuntu 12.04 and Android 4.0 January 16, 2013
-*   Obama calls for study on video-game violence January 16, 2013
+*   Meet 'Consort,' a brand-new classic Linux desktop January 18, 2013
+*   Brian Fargo talks Wasteland 2 and the future of PC gaming January 18, 2013
+*   Intel sales, profits slide for 2012, but data center business growing January 17, 2013
 
   
 TechHive on Twitter (@TechHive)
