@@ -3,7 +3,7 @@ PRIVACY POLICY
 
 Updated: November 2012
 
-In order to make your visits to the various online channels of Abercrombie &. Fitch as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Abercrombie pages on social media sites, such as Facebook, Twitter, YouTube, and Pinterest ("Social Media Pages").
+In order to make your visits to the various online channels of Abercrombie &. Fitch as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Abercrombie pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
 
 This privacy policy statement applies only to the information collected online through Abercrombie.com, microsites, or mobile sites of Abercrombie &. Fitch that expressly adopt, and display or link to, this policy (our “Websites”) or through our Social Media Pages.
 
@@ -39,7 +39,7 @@ Abercrombie &. Fitch collects personally identifiable information from you when 
 
 Categories of personally identifiable information collected online include name, address, gender, month and day of birth, email address, telephone number, mobile phone number, payment card information, recipient's name, address and email address, modeling information (including name, size stats, work information, and contact information), use of our Websites tied to one of these categories and other information you choose to provide, including through your personal social media accounts, as described below.
 
-4\. Information Collected If You Allow Us to Access Your Facebook, Twitter, YouTube, and Pinterest Accounts ("Personal Social Media Accounts")
+4\. Information Collected If You Allow Us to Access Your Facebook, Twitter, et al. ("Personal Social Media Accounts")
 
 Abercrombie &. Fitch may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Websites. If you chose to provide us information through your Personal Social Media Accounts, Abercrombie &. Fitch could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information. This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Websites. It is also possible that Abercrombie &. Fitch will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later.
 
