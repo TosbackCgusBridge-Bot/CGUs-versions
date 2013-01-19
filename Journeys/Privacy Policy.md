@@ -1,7 +1,7 @@
 **Terms of Use**  
 Welcome to the Journeys Web Site ("Site"). The Site reflects the family of brands including Journeys, Journeys Kidz and Shi by Journeys (collectively “Journeys”).Please review the following basic rules that govern your use of our Site (the "Agreement"). Please note that your use of our Site means that you agree to these rules.  
   
-This Privacy Policy was lasted updated on: March 8, 2012.  
+This Privacy Policy was lasted updated on: January 18, 2012.  
   
 **Changes to Privacy Policy**  
 We may from time to time change these rules. We will notify users of the Site of any changes by posting the revised policy reflecting them with a new effective date on this page. Your use of our Site following any such change means that you agree to the rules as changed. These rules--specifically including the "Customer Information Policy", "Use of Cookies", "Use of IP Addresses", and "Security" paragraphs below--apply to this website only and not to any other website or business activity of Genesco Inc. or any of its divisions, including Journeys, Journeys Kidz and/or Shi by Journeys.  
@@ -43,23 +43,6 @@ In addition to the third-party service providers discussed elsewhere in this pol
   
 MyBuys:  
 Journeys uses MyBuys to collect information regarding consumer preferences related to Journeys' products and the Site in order to merchandise the Site effectively and make product recommendations to the Site's customers.  MyBuys may use cookies and transparent GIF files to collect information on the Journeys' website as part of the service.  Consumers may review MyBuys' privacy policy at http://www.mybuys.com/privacy.html.  
-  
-BazaarVoice:  
-Journeys uses BazaarVoice as its product reviews software and service provider.  When reviewing a product on the Site, customers are required to create an account.  That account information is shared with BazaarVoice in order to help associate the review being written with the owner of the review.
-
-Currently, we use third party-placed tracking pixels and cookies and related or similar technologies for to help us understand how our website is used, to personalize our content, develop and improve our products and services including improving advertising, from the following business partner: Bazaarvoice, Inc.
-
-Bazaarvoice may collect information about your visits to our website, purchase activity, and your interaction with our products and social commerce services. Such information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
-
-This information allows us to offer social commerce services that allow you to share your opinion about the products on our website, to improve such social commerce service functionality, and to recognize you when you return. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf.
-
-A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. When you visit our website, Bazaarvoice may use both a session and a persistent cookie.
-
-A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie. A web beacon allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
-
-In addition to the anonymous information about your visits to our website, Bazaarvoice may also use the anonymous information about your visits to other websites within the Bazaarvoice Network to provide targeted advertisements and offers for our products and services.
-
-If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service providers, please visit Bazaarvoice  
   
 International Checkout:  
 Journeys allows international shoppers to obtain our products through the use of International Checkout.  When a customer on the Site chooses the International Checkout option, the products in the Site's shopping cart are transferred to an International Checkout cart.  The transaction then takes place completely on the InternationalCheckout.com website.  
