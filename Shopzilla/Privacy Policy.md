@@ -5,8 +5,8 @@ Shopzilla Privacy Policy
 *   Our Company
     *   Company Mission
     *   How We Came To Be
-    *   The Leadership Team
     *   Principles We Live By
+    *   The Leadership Team
 *   Our Brands
 *   Press Center
 *   Partners
