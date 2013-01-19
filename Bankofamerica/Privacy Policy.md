@@ -12,7 +12,7 @@ Search Header Enter keywords to search Start typing text in the entry field and 
 *   Privacylink and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Privacy Overview Online Privacy Notice Consumer Privacy Notice Your Privacy Choices End of submenu
 *   Account &. Card Securitylink and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Checking &. Savings Security Credit &. Debit Card Security ATM Security ShopSafe®Generate temporary credit card numbers for safe online shopping End of submenu
 *   Online &. Mobile Securitylink and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Online Banking Security Mobile Banking Security Email Fraud Trusteer Rapport®Free fraud protection while signed in to Online Banking SafePass®Authorize transactions using secure one-time Passcodes End of submenu
-*   Report a Problemlink and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Report a Suspicious Email Report a Lost or Stolen Card Resolve Identity Theft Deal with Data Compromise Resources FAQs Glossary External Links End of submenu
+*   Report a Problemlink and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Report a Suspicious Email Report a Lost or Stolen Card Resolve Identity Theft Understand Data Compromise Resources FAQs Glossary External Links End of submenu
 
 Bank of America Privacy &. Security Comprehensive protection. Confident banking.
 
@@ -314,7 +314,7 @@ Review our browser security requirements.
   Home Accessible Banking Privacy &. Security Careers Site Map
 
 Bank of America, N.A. Member FDIC. Equal Housing Lender . Link opens in new window.  
-© 2012 Bank of America Corporation. All rights reserved.
+© 2013 Bank of America Corporation. All rights reserved.
 
 Important Notice
 
