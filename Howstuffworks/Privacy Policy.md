@@ -256,6 +256,8 @@ Can't get enough HowStuffWorks?
     
     Science
     
+    StuffYouShouldKnow
+    
     Tech
     
 *   MORE STUFF
