@@ -111,11 +111,6 @@ Last Update: 29-September-2008
 
 *   All Privacy Officers
 
-Office of the Ombudsman
-
-*   +1 203 316 3334
-*   ombudsman@gartner.com
-
 Usage Guidelines
 
 *   usage.guidance@gartner.com
