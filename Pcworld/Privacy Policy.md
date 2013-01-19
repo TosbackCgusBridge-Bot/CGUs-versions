@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   The future of slotcar racing is here (and other stuff you missed) January 18, 2013
-*   Lawmaker: Mobile users should be able to delete data January 17, 2013
-*   Report: Asustek in talks to license Windows Phone 8 for handsets January 17, 2013
+*   Fake Facebook profiles for fake girlfriends (and other stuff you missed) January 19, 2013
+*   Hands on with Facebook Graph Search: Interesting, but disappointing January 18, 2013
+*   Future cars: Highlights from the Detroit Auto Show January 18, 2013
 
 PCWorld Articles
 
-*   Meet 'Consort,' a brand-new classic Linux desktop January 18, 2013
-*   Brian Fargo talks Wasteland 2 and the future of PC gaming January 18, 2013
-*   Intel sales, profits slide for 2012, but data center business growing January 17, 2013
+*   Six new features coming in LibreOffice 4.0 January 19, 2013
+*   Report: IE10 for Windows 7 nears final release January 19, 2013
+*   Can hardware help kill the password? Google thinks so January 18, 2013
 
   
 TechHive on Twitter (@TechHive)
