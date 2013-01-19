@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 18, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 19, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -240,13 +240,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Suspected Case of Bovine TB Discovered in Washington State Dairy Cow
-*   Small Fixes, Big Impact
-*   Tune In to AgriTalk for Cargill Update
-*   Wheat College Focuses On High-Yield Practices
-*   Join Us in Chicago for the Top Producer Seminar
-*   Salmonella Risk Assessment Now Available
-*   Power Hour: Another Bright Year for Farm Profits
+*   German Milk Farmer Prices Fall Below Costs, European Board Says
+*   Enlist Weed Control System Delayed By Slow Regulatory Process
+*   The Rules of Roller Chains
+*   Cargill Plant Closing Will Eventually Restore Balance
+*   Trade Sets Focus on $7.60 Corn
+*   Power Hour: Fed Voices Concern about Policies, Farmland Values
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
