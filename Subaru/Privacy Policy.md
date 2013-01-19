@@ -1,4 +1,4 @@
-Log In to MySubaru | Help |
+Log Into MySubaru | Help |
 
 *   Home
 *   Vehicles
