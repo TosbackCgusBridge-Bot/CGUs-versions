@@ -4,7 +4,6 @@
 *   Use It Every Day
 *   Safer Than Cash
 *   Low Monthly Fee
-*   TransUnion Services
 *   Protect Your Identity
 *   Your Emergency Fund
 *   The Credit Project
@@ -18,7 +17,6 @@
 
 *   Suze’s Advice
 *   The Approved Dashboard
-*   TransUnion Services
 *   Protect Your Identity
 *   Money Tools
 *   Pay Your Bills
