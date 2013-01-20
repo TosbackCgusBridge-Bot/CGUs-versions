@@ -2,7 +2,7 @@ English
 
 *   Español
 
-Locations Support Ship Track Manage Learn FedEx Office® Package, Envelope, or  
+Locations Support My Profile Ship Track Manage Learn FedEx Office ® Package, Envelope, or  
 Express Freight FedEx Express or FedEx Ground
 
 *   Create Shipment
@@ -16,8 +16,7 @@ Express Freight FedEx Express or FedEx Ground
 Freight Shipments FedEx Freight
 
 *   Generate Bill of Lading
-*   Get Rates
-*   Get Transit Times
+*   Get Rates and Transit Times
 *   Schedule a Pickup
 *   View Transit Maps
 *   Find FedEx Locations
@@ -48,8 +47,7 @@ Express Freight FedEx Express or FedEx Ground
 *   Obtain Proof of Delivery
 *   Track by TCN
 *   Access FedEx Tracking
-*   Track Using My FedEx
-*   Access FedEx Insight
+*   Access FedEx InSight
 *   Track Using FedEx Desktop
 
 Freight Shipments FedEx Freight
@@ -74,6 +72,7 @@ Air/Ocean Freight Forwarding FedEx Trade Networks
 
 Package, Envelope, or Express Freight FedEx Express or FedEx Ground
 
+*   Update My Profile
 *   View/Pay Bills
 *   Run Reports
 *   Submit Claims
@@ -89,8 +88,8 @@ Freight Shipments FedEx Freight
 *   Review Open Invoices
 *   Request Billing Adjustments
 *   Claims Resolution
-*   Go to My Account
 *   Access Address Book
+*   Set Account Default
 
 Expedited/Extra-care Handling FedEx Custom Critical
 
@@ -283,4 +282,4 @@ Follow FedEx United States - English
 
 © FedEx 1995-
 
-Global Home|Site Map|fedex.com Terms of Use|Security and Privacy
+Global Home|Site Map|fedex.com Terms of Use
