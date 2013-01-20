@@ -1,7 +1,7 @@
 ABERCROMBIE &. FITCH US  
 PRIVACY POLICY
 
-Updated: November 2012
+Updated: January 2013
 
 In order to make your visits to the various online channels of Abercrombie &. Fitch as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Abercrombie pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
 
@@ -13,7 +13,7 @@ Contents
 *   Information Collected on Pages Abercrombie &. Fitch Has on Social Media Sites
 *   Using Information We Collect Online
 *   Information We Share With Third Parties
-*   Cookies
+*   Cookies and Advertising
 *   Opt-Out
 *   If you Apply for a Job or Attend Casting Calls
 *   International Users
@@ -43,7 +43,7 @@ Categories of personally identifiable information collected online include name,
 
 Abercrombie &. Fitch may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Websites. If you chose to provide us information through your Personal Social Media Accounts, Abercrombie &. Fitch could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information. This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Websites. It is also possible that Abercrombie &. Fitch will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later.
 
-This privacy policy does not cover the privacy and security practices of Social Media Pages. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
+This privacy policy does not cover the privacy and security practices of social media sites. Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.
 
 5\. Information Collected Directly by Third Parties
 
@@ -77,7 +77,7 @@ You should also be aware that we may disclose specific information about you if 
 
 If Abercrombie &. Fitch were ever merged with or acquired by another company, or if it acquires another business entity or is involved in a corporate reorganization or other change of control, some or all of the personal information collected about you could be shared with this entity, and may also be retained by Abercrombie &. Fitch. Other than this acquisition, sale or reorganization, we do not sell or rent your email address to unrelated third parties.
 
-Cookies What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
+Cookies and Advertising What Are Cookies, Pixel Tags and URL Links, and How Are These Used on Our Websites or in Our Emails?
 
 Our Websites use, and our third party service providers may use, a browser feature known as a cookie, which assigns a unique identification to your computer. The cookies are typically stored on your computer's hard drive. The information collected when visiting our Websites may include the following: an IP address, the URL of the page from which you arrived. your browser type. other technical information about your device used to visit our Websites. the pages you view. the features you use. whether you create an account or become a member in The A&F Club program (collectively “Membership”), or sign in and where you go on our Websites once signed into your Membership. whether you complete a transaction. whether you have previously completed a survey. and the time of your visit. This information allows us to determine such things as which parts of our Websites are most visited or used, what products are browsed and/or purchased, the effectiveness of the Websites, your specific interaction with our Websites and difficulties you may experience in accessing our Websites. With this knowledge, we can improve the quality of your experience on our Websites by recognizing and delivering more of the most desired features and information, personalize your experience, and resolve access difficulties. In addition, our Websites use cookies to help keep track of items you put into your shopping cart, whether you purchase any or all of those items, and to tell us whether you have visited one of our Websites in the past. This allows you to maintain shopping carts between visits and allows us to inquire about your continued interest in items in your shopping cart or that you viewed on one of our Websites. Our Websites also use cookies to help keep track of checkout information, other than payment method information, while you remain on our site. In addition, the information collected by us or our service provider(s) may be linked to and combined with information that we collect about you from your visits to our Websites.
 
@@ -86,6 +86,10 @@ Our Websites use, and our third party service providers may also use, Pixel Tags
  
 
 In addition, our email communications to you may include a "click-through URL" linked to a particular page on one of our Websites. By clicking on one of the URLs, you will automatically enter one of our Websites and we may collect information related to the "click-through". You may avoid having this information collected by not clicking on the URL links in our email communications.
+
+How Do Others Use Cookies on Our Websites to Serve You Advertising?
+
+We contract with third party advertising companies which collect non-personally identifying information about you by placing cookies on your browser and/or using Pixel Tags when you visit our Websites. These advertising companies may use information about your visit to deliver our ads on other websites that are a part of their online advertising networks.  We receive aggregate information from these third parties to gauge our advertising effectiveness. To stop receiving cookie-based ads from a third party advertising company we use, click on the link included in the advertisement and follow the instructions on opting out.  We may use more than one third party company for this cookie-based advertising, which would require you to opt out of each company through the advertisement links.  If you would like more information about how cookie-based advertising works in general and more opt-out information, go to: http://www.aboutads.info/choices/  (you will leave this site for a centrally managed online site where you can specify your preference).
 
 Opt-Out
 
