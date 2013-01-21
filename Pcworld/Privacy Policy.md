@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
+*   Tracking tech abounds, but emerging tools offer a shield January 19, 2013
+*   FCC chief urges nationwide 'gigabit community' by 2015 January 19, 2013
 *   Review: Kobo Arc reinvents pinning content to folders January 19, 2013
-*   How to get the best gaming experience on Android January 19, 2013
-*   Fake Facebook profiles for fake girlfriends (and other stuff you missed) January 19, 2013
 
 PCWorld Articles
 
-*   Megaupload successor, Mega, launches this weekend January 19, 2013
-*   Six new features coming in LibreOffice 4.0 January 19, 2013
-*   Report: IE10 for Windows 7 nears final release January 19, 2013
+*   Conficker worm reappears January 20, 2013
+*   Google's Schmidt pushes Internet during visit to North Korea January 20, 2013
+*   Security and privacy talk mix with glitz and glam at Mega launch January 20, 2013
 
   
 TechHive on Twitter (@TechHive)
