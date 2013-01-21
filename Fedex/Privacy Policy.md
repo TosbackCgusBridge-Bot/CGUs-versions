@@ -89,7 +89,6 @@ Freight Shipments FedEx Freight
 *   Request Billing Adjustments
 *   Claims Resolution
 *   Access Address Book
-*   Set Account Default
 
 Expedited/Extra-care Handling FedEx Custom Critical
 
@@ -282,4 +281,4 @@ Follow FedEx United States - English
 
 © FedEx 1995-
 
-Global Home|Site Map|fedex.com Terms of Use
+Global Home|Site Map|fedex.com Terms of Use|Security and Privacy
