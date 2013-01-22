@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 21, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 22, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -240,15 +240,15 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Will Hay Be the Next Gold?
+*   Central California to Get New Cheese Processing Plant
+*   Join Missy Bauer at 2013 Ag Connect
+*   Be a Better Farm Manager
+*   Wheat Stocks Dropping. Seedings Lower than Expected
+*   Rain Will Determine 2013 Farmland Values
 *   Young Farmers: Join Us in Chicago
 *   Jump-start Your Succession Plan with a Legacy Project Workshop
 *   Program Information for January 19-20, 2012
-*   Bullish USDA Reports Extend Run for Corn, Wheat
-*   German Milk Farmer Prices Fall Below Costs, European Board Says
-*   Enlist Weed Control System Delayed By Slow Regulatory Process
-*   The Rules of Roller Chains
-*   Cargill Plant Closing Will Eventually Restore Balance
-*   Trade Sets Focus on $7.60 Corn
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
