@@ -101,7 +101,7 @@ Explore HSBC.com
         *   Frequently asked questions
 *   News and insight in News and insight
     
-    Get the latest news, analysis and commentary. Our economists and business specialists share their views.
+    Get the latest news, analysis and commentary. Our business specialists share their views.
     
     *   Insight
         
