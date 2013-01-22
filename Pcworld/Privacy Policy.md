@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Tracking tech abounds, but emerging tools offer a shield January 19, 2013
-*   FCC chief urges nationwide 'gigabit community' by 2015 January 19, 2013
-*   Review: Kobo Arc reinvents pinning content to folders January 19, 2013
+*   Leikr GPS sports watch promises color maps and exercise plans January 21, 2013
+*   Sony Xperia 10.1-inch tablet Z is thinner than iPad Mini January 21, 2013
+*   Power to the people: Crowdsourcing in politics January 21, 2013
 
 PCWorld Articles
 
-*   Conficker worm reappears January 20, 2013
-*   Google's Schmidt pushes Internet during visit to North Korea January 20, 2013
-*   Security and privacy talk mix with glitz and glam at Mega launch January 20, 2013
+*   Review: Roozz rents software in the cloud January 21, 2013
+*   RIM renames store to BlackBerry World as more content is added January 21, 2013
+*   Answer Line: An obscenely slow Internet connection when you're paying for a fast one January 21, 2013
 
   
 TechHive on Twitter (@TechHive)
