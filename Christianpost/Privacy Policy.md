@@ -4,11 +4,16 @@
 *   Politics
 *   Entertainment
 *   Tech &. Biz
-*   Living
 *   Opinion
-
+*   Blogs
 *   Video
 *   Photo
+*   More
+    *   Audio Bible
+    *   CP Blog
+    *   iPost
+    *   My Post
+    *   Books
 
 About The Christian Post About Us
 
@@ -23,8 +28,6 @@ About The Christian Post About Us
 
 Site Services
 
-*   Registration
-*   Login
 *   Finding Article
 *   Disclaimer
 *   Newsletter
@@ -130,20 +133,31 @@ Children's Online Privacy Protection Act
 
 No one under the age of 13 should provide any personal information. In general, ChristianPost.com does not knowingly collect personally identifiable information from children under 13. If in limited circumstances we do knowingly collect personally identifiable information from children under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected information from a child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as possible. If you believe the Web site has any information about anyone under 13, please contact us via our Contact Us page.
 
-*   Home
+*   About Us
+*   Contact Us
+*   Media Kit
+*   Archives
+*   Fan Faves
+*   Corrections
+*   Disclaimer
+*   Banners
+*   Employment
+*   Q&A
 
+*   Church &. Ministries
 *   U.S.
-
-*   world
-
+*   World
 *   Politics
-
-*   Health
-
 *   Entertainment
-
-*   Video
-
+*   Tech &. Biz
 *   Opinion
+*   Blogs
+*   Video
+*   Photo
+*   Audio Bible
+*   iPost
+*   Books
+*   Shopping
+*   Travel
 
-© 2013 The Christian Post. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20minutes. Privacy-Terms
+Copyright © 2013 The Christian Post , LLC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
