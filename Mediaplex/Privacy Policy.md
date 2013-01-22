@@ -12,12 +12,7 @@ LOG IN ⁄
 *   MOJO Mail
 *   MOJO Reports
 
-Mediaplex **Privacy** MOJO Privacy Statement
-
-*   Privacy Policy
-*   AdChoices
-*   Opt-Out
-*   Google Display Network
+Mediaplex® **Privacy** Privacy Statement
 
 MOJO Privacy Statement
 
@@ -149,39 +144,62 @@ It is the express will of the parties that this agreement and all related docume
   
 For more information or if you have questions or concerns regarding the Mediaplex Privacy Policy, please fill out our Corporate Feedback Form or you can send correspondence to the following address: Mediaplex, Attn: Privacy Officer, 30699 Russell Ranch Road, Suite 250, Westlake Village, CA 91362.
 
-*   Who We Are ⁄
-    *   What We Solve
-    *   How We're Different
-*   MOJO Ad Suite ⁄
-    *   Adserver
-    *   DSP
-    *   Rich Media
-    *   Dynamic Creative
-    *   Mobile
-    *   Video
-    *   Search
-*   Master Data Suite ⁄
-    *   Tag Management
-    *   DMP
-    *   Analytics
-    *   Attribution
-*   Services ⁄
-    *   Account Services
-    *   Creative Services
-    *   Marketing Analytics
-*   ABOUT ⁄
+ Call: 1.877.402.7539 
+
+Get started today First Name: Last Name: Company: Phone: Email:
+
+*   ROI Approach ⁄
+    *   Collect and Manage
+    *   Model and Interpret
+    *   Execute and Report
+*   Business Solutions ⁄
+    *   Master DMP
+        *   Overview
+        *   Full Service
+        *   Multichannel
+        *   Actionable
+    *   Master TMS
+        *   Overview
+        *   Agility
+        *   Performance
+        *   Control
+    *   Master Attribution
+        *   Overview
+        *   Brand-Specific
+        *   Causal Insights
+        *   Dedicated Team
+    *   Mojo Adserver
+        *   Overview
+        *   Ad Management
+        *   Cross-Channel
+        *   Optimization
+    *   Mojo DSP
+        *   Overview
+        *   Full Service
+        *   First Party Focus
+        *   Total Access
+    *   Mojo Rich Media
+        *   Overview
+        *   Capabilities
+        *   Smart Rich Data
+        *   Mobile Rich
+*   Mediaplex Thinking ⁄
     *   Blog
-    *   Associations
+    *   Whitepapers
+    *   Articles
+    *   Videos
+*   About Us ⁄
+    *   Press
     *   Careers
-    *   Offices
 *   Contact ⁄
+*   Privacy ⁄
+    *   Ad Choices
+    *   Opt Out
 
 *   ico-linkedin
 *   ico-twitter
+*   ico-facebook
+*   ico-wordpress
 
-Mediaplex © copyright 2012.  
+Mediaplex © Copyright 2012  
 All rights reserved.
-
-*   Contact
-*   Blog
-*   Privacy
