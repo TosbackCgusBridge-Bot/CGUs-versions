@@ -1,7 +1,5 @@
 The LivingSocial privacy policy (the “Privacy Policy”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and other information you submit to us through LivingSocial. By accessing or otherwise using the LivingSocial websites, e-mails or other services (collectively “LivingSocial”), you agree to the terms and conditions of this Privacy Policy (which is incorporated into and forms a part of the LivingSocial Conditions of Use) and consent to the processing of your information according to the Privacy Policy.
 
-This Privacy Policy is effective August 10, 2012. The Privacy Policy in effect prior to August 10, 2012 can be found here.
-
 *   Collection of Information
 *   Use and Disclosure of Information
 *   Choices About Your Information
@@ -47,7 +45,7 @@ _Social Media Information_
 
 Certain information you post or provide through LivingSocial for public posting, such as your name, profile, comments, collections and reviews, may be shared with other users and posted on publicly available portions of LivingSocial, including without limitation, social media applications and other public fora in which you choose to participate. Please keep in mind that if you choose to disclose Personal Information when posting comments or other information or content through LivingSocial, this information may become publicly available and may be collected and used by others, including people outside the LivingSocial community. Please also be aware that if you choose to share or tweet deals or your purchases, they will become publicly available on the Facebook and Twitter websites. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. We will not have any obligations with respect to any information that you post to parts of LivingSocial available to others, and recommend that you use caution when giving out personal information to others through social media networks or otherwise.
 
-You may choose to log in or access Living Social using the Facebook Connect feature. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store and use in accordance with this Privacy Policy any and all information available to us through the Facebook interface.
+You may choose to log in or access Living Social using the Facebook Connect feature or by downloading the LivingSocial mobile app through Facebook or another third party platform. By doing this, you are authorizing that third party platform to send us certain information from your account with them, and you authorize us to collect, store and use in accordance with this Privacy Policy any and all information available to us through the third party platform.
 
 _Feedback Information_
 
@@ -63,7 +61,7 @@ We may provide your Personal Information to third-party service providers or aff
 
 We may share some or all of your Personal Information with LivingSocial affiliated and group companies that are under a common control, so that they may send daily deal e-mails to you, in which case we will require them to honor this Privacy Policy.
 
-We use Google Analytics to better understand how visitors interact with our site. This service provides non-personally identifiable data including but not limited to data on where visitors came from, what actions they took on our site and where visitors went when they left our site. If you would like to learn more about this service, or about choices to opt out from it, please click here.
+We use Google Analytics to better understand how visitors interact with our site. This service provides non-personally identifiable data including but not limited to data on where visitors came from, what actions they took on our site and where visitors went when they left our site. If you would like to learn more about this service, or about choices to opt out from it, please click here. In addition, HasOffers provides us with analytics services related to downloads of our mobile app. If you would like to learn more about this service, or about choices to opt out from it, please click here.
 
 We may also develop non-personal information concerning LivingSocial users, using de-identification processes to help ensure that such information cannot reasonably be re-associated or connected with you as an individual. Generally, we aggregate this information and use it in statistical analysis to help us analyze patterns in the use of LivingSocial. This Privacy Policy does not limit our use or disclosure of de-identified information (i.e., that is not connected with you as a user) in any way, and we reserve the right to use and disclose such information to our partners, advertisers and other third parties in our discretion.
 
@@ -117,5 +115,4 @@ How to Contact Us
 
 If you have questions or concerns about our Privacy Policy, please contact us at: privacy@livingsocial.com.
 
-Last updated: July 13, 2012  
-The Privacy Policy in effect prior to August 10, 2012 can be found here.
+Last updated: January 22, 2013
