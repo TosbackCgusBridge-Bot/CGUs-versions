@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Leikr GPS sports watch promises color maps and exercise plans January 21, 2013
-*   Sony Xperia 10.1-inch tablet Z is thinner than iPad Mini January 21, 2013
-*   Power to the people: Crowdsourcing in politics January 21, 2013
+*   NASA sends the Mona Lisa to the Moon via space laser January 22, 2013
+*   Amazon rolls out in-app purchase option for PC, Mac, and Web games January 22, 2013
+*   AT&T to buy Alltel for $780 million January 22, 2013
 
 PCWorld Articles
 
-*   Review: Roozz rents software in the cloud January 21, 2013
-*   RIM renames store to BlackBerry World as more content is added January 21, 2013
-*   Answer Line: An obscenely slow Internet connection when you're paying for a fast one January 21, 2013
+*   Sony looks to ultraslim Xperia Tablet Z to rebuild its cachet January 22, 2013
+*   Surface Pro tablet, new Surface accessories to land on Feb. 9 January 22, 2013
+*   Mozilla's developer preview handset offers Firefox OS clues January 22, 2013
 
   
 TechHive on Twitter (@TechHive)
