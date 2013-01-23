@@ -37,6 +37,6 @@ HootSuite Media Inc. may periodically update this policy. We will notify you abo
 Any questions about this Privacy Policy should be addressed to HootSuite Twitter support at @hootsuite\_help or by mail at:
 
 **HootSuite Media Inc.**  
-37 Dunlevy Ave.  
+5 East 8th Avenue  
 Vancouver, BC, Canada  
-V6A 3A3
+V5T 4S8
