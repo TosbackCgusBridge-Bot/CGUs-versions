@@ -1,17 +1,20 @@
 Home Omniscope Download Forums Support Company   Knowledge Base
 
-*   Feature Matrix by Edition
-*   New Features by Release
-*   Downloading &. installing
-*   Licensing and activation
-*   Welcome screen
+*   Features by Edition
+*   New Features
+*   Licensing/Activation
+*   Installation
 *   Scaling &. Performance
-*   Import Data from Files
-*   File Deployment Options
-*   Automation Options
-*   Data Refresh Options
+*   Getting Started
+*   Data Sources
+*   Deployment/Publishing
+*   Automation
+*   Managing Refresh
+*   Integration Options
 *   Reference
-*   Small Print
+*   Specifications
+*   Troubleshooting
+*   Legal-Small Print
     *   EULA
     *   Privacy Policy
     *   Terms of Use
@@ -19,11 +22,7 @@ Home Omniscope Download Forums Support Company   Knowledge Base
     *   Commercial Publishing
     *   3rd Party Licenses
     *   Site attributions
-*   Specifications
-*   Web Services Integration
-*   Maps &. Coordinates
-*   Troubleshooting
-*   Miscellaneous
+*   Why Omniscope?
 
 Privacy Policy Visokio Privacy Policy Statement
 
@@ -39,7 +38,7 @@ We collect only the domain names of visitors, the email addresses of those who c
 
 If you do not want to receive email from us in the future, click on the unsubscribe link to the bottom of the email.
 
-Home Knowledge Base Small Print Privacy Policy
+Home Knowledge Base Legal-Small Print Privacy Policy
 
 *   Print
 
