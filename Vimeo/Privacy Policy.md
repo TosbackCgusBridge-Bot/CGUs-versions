@@ -1,6 +1,6 @@
 Vimeo.com Privacy Policy
 
-Last Updated: January 2011
+Last Updated: January 2013
 
 Vimeo, LLC respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of www.vimeo.com or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -16,7 +16,7 @@ _In General_. We may collect personal information that can identify you, such as
 *   **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
 *   **Information about others.** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient. Similarly, if you use our website to upload, share and/or distribute content (including videos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing and/or distribution.
 
-_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site.
+_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site. For more information on Cookies, please see our Cookie Policy.
 
 *   **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 *   **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
