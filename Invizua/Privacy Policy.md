@@ -4,13 +4,12 @@ Home Omniscope Download Forums Support Company   Knowledge Base
 *   New Features
 *   Licensing/Activation
 *   Installation
-*   Scaling &. Performance
 *   Getting Started
 *   Data Sources
 *   Deployment/Publishing
 *   Automation
-*   Managing Refresh
 *   Integration Options
+*   Scaling/Performance
 *   Reference
 *   Specifications
 *   Troubleshooting
