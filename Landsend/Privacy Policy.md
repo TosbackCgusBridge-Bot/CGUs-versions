@@ -307,6 +307,7 @@ Enter Keyword or Item # Search
     *   Backpacks &. Lunch Boxes
     *   Totes
     *   Duffel Bags
+    *   Luggage Collections
     *   Carry-on Luggage
     *   Wheeled Luggage
     *   Upright Luggage
