@@ -149,6 +149,10 @@ At any time during your use of the App, you can click the sharing button, pictur
 
 Turning the App's sharing button to “OFF” will prevent your actions taken from within the App (while the sharing button is set to “OFF”) from being posted to your unique profile page. In addition, your actions taken from within the App while the sharing button is set to “OFF” will not be displayed outside of the App, regardless of the App's settings described above. In this manner, the App's sharing button functions as an override to the App's settings to ensure you may control sharing of your activity from right within the App. If you have any questions concerning these privacy controls, please do not hesitate to Contact Us.
 
+RetailMeNot SMS Programs
+
+To utilize certain features of the Sites, you may be required to enter your mobile phone number. We will only use your mobile phone number to send you specific coupons that you have requested to be sent to your mobile device and to send you alerts, from time to time, related to special coupon offers. You can opt out of RetailMeNot SMS programs at any time by emailing appsupport@retailmenot.com or texting STOP to 42767 from your mobile device.
+
 7\. Accessing and Correcting Personal Information
 
 Keeping Personal Information about you current helps ensure that we offer you the best coupons available through our merchants and business partners. You can do several things to help keep Personal Information about you current. You can access, update and delete your Contact Information and the other information you provided us to use in your profile by logging into the Community and clicking on the "Profile" link.
