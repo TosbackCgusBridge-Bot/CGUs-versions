@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   NASA sends the Mona Lisa to the Moon via space laser January 22, 2013
-*   Amazon rolls out in-app purchase option for PC, Mac, and Web games January 22, 2013
-*   AT&T to buy Alltel for $780 million January 22, 2013
+*   You can now play Mario Kart for real, but banana peels are a very real risk January 23, 2013
+*   Nokia PureView to lead camera-phone tech, but where's everyone else? January 23, 2013
+*   Windows Phone 7.8 update expected this month January 23, 2013
 
 PCWorld Articles
 
-*   Sony looks to ultraslim Xperia Tablet Z to rebuild its cachet January 22, 2013
-*   Surface Pro tablet, new Surface accessories to land on Feb. 9 January 22, 2013
-*   Mozilla's developer preview handset offers Firefox OS clues January 22, 2013
+*   Review: Cut down your typing with Auto Text Expander January 23, 2013
+*   13 PC resellers accused of Windows piracy January 23, 2013
+*   Phone makers switch focus to batteries, not thickness January 23, 2013
 
   
 TechHive on Twitter (@TechHive)
