@@ -90,6 +90,7 @@ DATING DIRECTORY
     *   Ethnic and Interracial
     *   Foreign Brides
     *   International Dating
+    *   Mobile Dating
     *   Religious Dating
     *   Singles
     *   Speciality Dating
