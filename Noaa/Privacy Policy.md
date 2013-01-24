@@ -27,7 +27,7 @@ Search Criteria
 *   Emergency Information for NOAA Employees
 *   Weather Ready Nation
 
-Privacy Policy
+Protecting your privacy
 
 We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
 
@@ -82,4 +82,6 @@ Your Rights Under the Privacy Act
 
 More information about the Privacy Act can be found at the following off-site link: http://www.pueblo.gsa.gov/cic\_text/fed\_prog/foia/foia.htm
 
-NOAA Mobile | Privacy Policy | FOIA | Information Quality | Disclaimer | USA.gov | Ready.gov | Site Map | Contact Webmaster
+_Posted Jan. 23, 2013_
+
+NOAA Mobile | Protecting Your Privacy | FOIA | Information Quality | Disclaimer | USA.gov | Ready.gov | Site Map | Contact Webmaster
