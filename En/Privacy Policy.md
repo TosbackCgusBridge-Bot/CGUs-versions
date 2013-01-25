@@ -284,7 +284,6 @@ Searches:
     *   Help &. Support
     *   Jobs
     *   Softonic News
-    *   Comment on Softonic
     *   Legal Information
 *   Developers
     
