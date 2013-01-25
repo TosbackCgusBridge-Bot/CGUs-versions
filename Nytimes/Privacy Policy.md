@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Life and Times," an ambitious, brilliantly executed production
+Search Help American Evangelicals fuel Uganda's anti-L.G.B.T. crusade
 
-Also in Theater »
+Also in Video »
 
-*   A story about adultery and pitiless punishment
-*   When a lust for life is consummated
+*   True believers in justice
+*   The long wait
 
   
 
