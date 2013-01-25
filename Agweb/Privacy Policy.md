@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 24, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 25, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -240,11 +240,10 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   California Raises Minimum Milk Prices by Average 25.1 Cents
-*   USDA: December Milk Production Up 1.7%
-*   Power Hour: How Big Will the 2013 Corn Crop Be?
-*   DuPont Pioneer Introduces Soybean T Series for 2013
-*   DFA Feared Even Greater Judgment in Lawsuit Settlement
+*   December Dairy Cow Culling Slows
+*   Cotton Extends Longest Rally in Two Years
+*   Power Hour: Know Your Risks in Planting Corn in 2013
+*   Oregon State University Study: Cows Fed Flaxseed Produce More Nutritious Dairy Products
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
