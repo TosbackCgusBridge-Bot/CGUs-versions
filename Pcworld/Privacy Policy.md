@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   You can now play Mario Kart for real, but banana peels are a very real risk January 23, 2013
-*   Nokia PureView to lead camera-phone tech, but where's everyone else? January 23, 2013
-*   Windows Phone 7.8 update expected this month January 23, 2013
+*   Beyond the canvas: High tech art installations break free from traditional mediums January 24, 2013
+*   comScore's top 10 mobile apps: What wasn't there January 24, 2013
+*   Amazon finds its voice with Ivona acquisition January 24, 2013
 
 PCWorld Articles
 
-*   Review: Cut down your typing with Auto Text Expander January 23, 2013
-*   13 PC resellers accused of Windows piracy January 23, 2013
-*   Phone makers switch focus to batteries, not thickness January 23, 2013
+*   Review: Wipe EXIF metadata from your images using ExifCleaner January 24, 2013
+*   Meet Mageia, a rising Linux star January 24, 2013
+*   Office Web Apps v. Google Docs: Which suite works best for you? January 24, 2013
 
   
 TechHive on Twitter (@TechHive)
