@@ -50,7 +50,7 @@ Bitcasa respects others’ intellectual property and asks that you do too. We wi
 
 Copyright Agent  
 Bitcasa, Inc.  
-274 Castro St #204  
+215 Castro St 2nd Floor  
 Mountain View, CA 94041  
 copyright@bitcasa.com Other Content
 
