@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help American Evangelicals fuel Uganda's anti-L.G.B.T. crusade
+Search Help Oscar-winning costume designer dresses "Snow White"
 
-Also in Video »
+Also in Movies »
 
-*   True believers in justice
-*   The long wait
+*   A look at the Oscar nominations in top categories
+*   For "Beasts of the Southern Wild," accolades aplenty
 
   
 
