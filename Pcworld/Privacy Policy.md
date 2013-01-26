@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Beyond the canvas: High tech art installations break free from traditional mediums January 24, 2013
-*   comScore's top 10 mobile apps: What wasn't there January 24, 2013
-*   Amazon finds its voice with Ivona acquisition January 24, 2013
+*   The best and worst new TV shows of spring January 25, 2013
+*   The doctor will see you now…through the eyes of a robot January 25, 2013
+*   AT&T narrows loss, bumps up revenue on smartphone sales January 25, 2013
 
 PCWorld Articles
 
-*   Review: Wipe EXIF metadata from your images using ExifCleaner January 24, 2013
-*   Meet Mageia, a rising Linux star January 24, 2013
-*   Office Web Apps v. Google Docs: Which suite works best for you? January 24, 2013
+*   Cisco to sell Linksys home networking business to Belkin January 25, 2013
+*   Review: Update Your Shortcuts With Broken Shortcut Fixer January 25, 2013
+*   French court orders Twitter to identify racist tweeters January 25, 2013
 
   
 TechHive on Twitter (@TechHive)
