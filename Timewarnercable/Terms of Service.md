@@ -380,6 +380,7 @@ Support
 *   Channel Lineup
 *   Closed Captioning
 *   Welcome to TWC
+*   Parental Controls
 
 Contact Us
 
