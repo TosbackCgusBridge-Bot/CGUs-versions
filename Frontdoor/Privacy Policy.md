@@ -142,7 +142,7 @@ Your Account   Log Out Hi, Your Account   Log Out
     *   Home Plan Finder
 *   For Agents  For Agents
     
-    *   Log in/Sign Up
+    *   Log in
     *   Contact Us
     *   Find an Agent
     
