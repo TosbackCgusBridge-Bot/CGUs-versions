@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   The best and worst new TV shows of spring January 25, 2013
-*   The doctor will see you now…through the eyes of a robot January 25, 2013
-*   AT&T narrows loss, bumps up revenue on smartphone sales January 25, 2013
+*   New video standard is expected to be a bandwidth buster January 26, 2013
+*   How to draw up a Super Bowl HDTV game plan January 26, 2013
+*   Cool digital photo gadget bargains January 26, 2013
 
 PCWorld Articles
 
-*   Cisco to sell Linksys home networking business to Belkin January 25, 2013
-*   Review: Update Your Shortcuts With Broken Shortcut Fixer January 25, 2013
-*   French court orders Twitter to identify racist tweeters January 25, 2013
+*   Google's 'transparency report' doesn't reveal everything January 26, 2013
+*   Square Enix brings multiplayer to Tomb Raider January 26, 2013
+*   Web services battleground heads to Africa January 26, 2013
 
   
 TechHive on Twitter (@TechHive)
