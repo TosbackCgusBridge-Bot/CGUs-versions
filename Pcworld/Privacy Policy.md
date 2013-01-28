@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
+*   AT&T will buy mobile spectrum from Verizon for $1.9 billion January 26, 2013
 *   New video standard is expected to be a bandwidth buster January 26, 2013
-*   How to draw up a Super Bowl HDTV game plan January 26, 2013
 *   Cool digital photo gadget bargains January 26, 2013
 
 PCWorld Articles
 
-*   Google's 'transparency report' doesn't reveal everything January 26, 2013
-*   Square Enix brings multiplayer to Tomb Raider January 26, 2013
-*   Web services battleground heads to Africa January 26, 2013
+*   Facebook legal notice could get you cash, so don't trash it January 27, 2013
+*   Twitter's Vine ripe with users of video sharing service January 27, 2013
+*   Hacker collective Anonymous hits US government site January 27, 2013
 
   
 TechHive on Twitter (@TechHive)
