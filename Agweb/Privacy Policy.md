@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Jan 27, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Jan 28, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -240,16 +240,16 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Gear Up for the 2012 Top Producer Seminar
+*   Feedlot Purchases Fall, Surprising Some Analysts
+*   Dealing With Diesel
+*   Congress Passes Fiscal Cliff Bill That Extends Farm Policy
 *   Program Information for January 26-27, 2012
 *   Cattle Prices to Rise 7.3% in 2013, Allendale Says
 *   Weed Warriors
 *   Resistance Red Flags
 *   Technology Journal
 *   From Tools to Tractors
-*   Starter Test Plot Roundup
-*   When the Answer Is “No”
-*   It’s Not a Rut—It’s a Groove
-*   Pickup Innovations
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
