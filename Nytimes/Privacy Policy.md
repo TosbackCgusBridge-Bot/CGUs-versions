@@ -9,7 +9,7 @@ Edition: U.S. / Global Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on January 15, 2013_
+_Last Updated on January 28, 2013_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, our mobile messaging services, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -199,9 +199,9 @@ From time to time, The New York Times may obtain e-mail addresses from third par
 
 **The New York Times Home Delivery Web Account.** You may update and/or edit your Home Delivery account information online at the Home Delivery Web site by clicking on the link for Update Account. Should you require assistance, please call our toll free number, 1-800-NYTIMES.
 
-**Manage Your NYTimes.com Account at Member Center.** You may review and update your NYTimes.com membership or account information and access your transaction history in the Member Center.
+**Manage Your NYTimes.com Account in the My Account Area.** You may review and update your NYTimes.com membership or account information and access your transaction history in the My Account area.
 
-There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process. The E-mail Preferences tab is the place to go to sign up for our e-mail newsletters and manage your delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can reset your password here. If you need further assistance, please contact Customer Service.
+There are a number of things you can do in the My Account area to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process. The E-mail Preferences tab is the place to go to sign up for our e-mail newsletters and manage your delivery options. To gain access to the areas of the My Account area containing personal information, you will be asked to re-enter your password. If you do not remember your password, you can reset your password here. If you need further assistance, please contact Customer Service.
 
 **Manage Your New York Times Online Store Account.** Manage and update your account by logging in at www.nytstore.com. Simply click on the "My Account" section at the top of the navigational bar and proceed to "Edit Profile". You may securely update your shipping information, e-mail address and password registered to the account. Should you require assistance, please call us at 800-671-4332.
 
@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help The courtesy control malfunctions
+Search Help Danish-Israeli baker brings distinctive breads to the Big Apple
 
-Also on NYTimes.com
+Also in Dining &. Wine »
 
-*   Wanted: Mausoleum w/Wi-Fi, cable, river vu
-*   Sexual myopia
+*   Gatorade listens to a teen and changes its formula
+*   And the champion of cheese description is...
 
   
 
