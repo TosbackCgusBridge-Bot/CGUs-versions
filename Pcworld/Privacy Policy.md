@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   AT&T will buy mobile spectrum from Verizon for $1.9 billion January 26, 2013
-*   New video standard is expected to be a bandwidth buster January 26, 2013
-*   Cool digital photo gadget bargains January 26, 2013
+*   RentaCase tries the Netflix model on smartphone cases January 28, 2013
+*   Review: Garmin Forerunner 910XT is a great gadget for beginners January 28, 2013
+*   RIM cuts prices in European BlackBerry World store January 28, 2013
 
 PCWorld Articles
 
-*   Facebook legal notice could get you cash, so don't trash it January 27, 2013
-*   Twitter's Vine ripe with users of video sharing service January 27, 2013
-*   Hacker collective Anonymous hits US government site January 27, 2013
+*   Acer reports brisk Chromebook sales while Windows 8 still lags January 28, 2013
+*   Answer Line: Move data files from an SSD to a hard drive January 28, 2013
+*   Solid-state storage hits 2TB January 28, 2013
 
   
 TechHive on Twitter (@TechHive)
