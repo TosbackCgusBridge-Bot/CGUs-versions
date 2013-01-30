@@ -2,33 +2,24 @@
 
 We understand and share your concern about privacy. We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to privacy@ebags.com.
 
-*   What information does eBags collect?  
-    
-*   Our use of your information  
-    
-*   Does eBags share the information it receives?  
-    
-*   Accessing and updating your information  
-    
-*   Security  
-    
-*   A special note about children's privacy  
-    
-*   Privacy Policy changes  
-    
-*   Contacting eBags with question or comments  
-    
+*   What information does eBags collect?
+*   Our use of your information
+*   Does eBags share the information it receives?
+*   Accessing and updating your information
+*   Security
+*   A special note about children's privacy
+*   Privacy Policy changes
+*   Contacting eBags with question or comments
 
   
-What type of information does eBags collect?
 
-Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to make our products and services more efficient and customized to you. You are free to browse the eBags site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us.
+What type of information does eBags collect? Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to make our products and services more efficient and customized to you. You are free to browse the eBags site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us.
 
 **Automatic Information**  
 We automatically track certain information based upon your behavior on our site. We use this information to analyze our users' behavior, interests, and demographics to better understand and serve our shoppers. This information may include the URL that you just came from, which URL you next go to, what browser you are using and your IP address.
 
 **What about Cookies?**  
-"Cookies" are small pieces of information that a web site will store on your computer's hard drive. eBags will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 800-820-6126 .
+"Cookies" are small pieces of information that a web site will store on your computer's hard drive. eBags will use cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site, however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-820-6126.
 
 **Personally Identifiable Information**  
 This is information that you provide to us that is specific to you. We collect information such as your name, phone number, billing information, shipping information and other personal information as indicated on the forms throughout our site. You provide such information when you make a purchase, enter a contest or sweepstakes, fill out a survey or form, provide ratings or testimonials feedback, give or redeem a gift certificate, etc. Where possible, we indicate which fields are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature by omitting the information.
