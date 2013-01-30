@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   RentaCase tries the Netflix model on smartphone cases January 28, 2013
-*   Review: Garmin Forerunner 910XT is a great gadget for beginners January 28, 2013
-*   RIM cuts prices in European BlackBerry World store January 28, 2013
+*   US Air Force wants to install lasers on fighter jets. no word yet about sharks January 29, 2013
+*   Google Maps shows streets, prison camps in North Korea January 29, 2013
+*   RIM's BlackBerry 10 launch: A rundown of what to expect January 29, 2013
 
 PCWorld Articles
 
-*   Acer reports brisk Chromebook sales while Windows 8 still lags January 28, 2013
-*   Answer Line: Move data files from an SSD to a hard drive January 28, 2013
-*   Solid-state storage hits 2TB January 28, 2013
+*   10 killer new features in Word 2013 January 29, 2013
+*   Review: OpenPuff steganography tool hides confidential data in plain sight January 29, 2013
+*   Review: Tor Browser Bundle lets you browse in anonymity January 29, 2013
 
   
 TechHive on Twitter (@TechHive)
