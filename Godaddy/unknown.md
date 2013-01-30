@@ -1,4 +1,4 @@
-**Last Revised: January 11, 2013**
+**Last Revised: January 29, 2013**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -473,6 +473,8 @@ _Domain Name Dispute Policy_.  You agree to be bound by the policy and procedur
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, including without limitation the Assignment and Management of Domain Names in the ccTDL.IT and Dispute Resolution in the ccTLD.IT, both of which are hereby incorporated by this reference.
 
 _Registration Restrictions_.  Unless you complete your domain name registration using our fee-based trustee service, you specifically represent and warrant that you (i) are a citizen or resident in a country belonging to the European Union (in the case of registration for natural persons). (ii) are established in a country belonging to the European Union (in the case of registration for other organizations). (iii) are entitled to the use and/or legal availability of the domain name applied for, and that it does not prejudice, with the request for registration, the rights of others. (iv) are aware and agree that in the case of erroneous or false declarations in this request, the Registry shall immediately revoke the domain name, or proceed with other legal actions (In such case the revocation shall not in any way give rise to claims against the Registry or us). (v) release the Registry and us from any liability resulting from the assignment and use of the domain name by the natural person or organization that has made the request. and (vi) accept Italian jurisdiction and laws of the Italian State.
+
+If you use the trustee service for your .it domain registration, you acknowledge and agree that your registration is subject to the review and approval of the trustee.  The trustee service will review your registration request within twenty four hours of receipt.  If your registration request is approved, your domain name will be registered.  If your registration request is denied, your domain name will not be registered and you will receive a refund of any registration fees paid.
 
 **44\. PROVISIONS SPECIFIC TO .JP registrationS**
 
