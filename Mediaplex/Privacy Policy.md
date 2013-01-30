@@ -148,7 +148,7 @@ For more information or if you have questions or concerns regarding the Mediaple
 
 Get started today First Name: Last Name: Company: Phone: Email:
 
-*   ROI Approach ⁄
+*   Our Approach ⁄
     *   Collect and Manage
     *   Model and Interpret
     *   Execute and Report
