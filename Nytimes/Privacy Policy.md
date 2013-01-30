@@ -256,14 +256,7 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Danish-Israeli baker brings distinctive breads to the Big Apple
-
-Also in Dining &. Wine »
-
-*   Gatorade listens to a teen and changes its formula
-*   And the champion of cheese description is...
-
-  
+Search Help
 
 *   © 2013 The New York Times Company
 *   Site Map
