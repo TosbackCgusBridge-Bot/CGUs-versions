@@ -86,7 +86,7 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 
 *   Fanpop Home
 *   About Us
-*   Advertise on Fanpop
+*   Advertise
 *   FAQ
 *   Sitemap
 *   Terms of Service
