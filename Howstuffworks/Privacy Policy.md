@@ -256,8 +256,6 @@ Can't get enough HowStuffWorks?
     
     Science
     
-    StuffYouShouldKnow
-    
     Tech
     
 *   MORE STUFF
@@ -305,6 +303,8 @@ Can't get enough HowStuffWorks?
     Revision3
     
     Science Channel
+    
+    StuffYouShouldKnow
     
     TLC
     
