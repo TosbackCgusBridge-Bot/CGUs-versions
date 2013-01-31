@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   US Air Force wants to install lasers on fighter jets. no word yet about sharks January 29, 2013
-*   Google Maps shows streets, prison camps in North Korea January 29, 2013
-*   RIM's BlackBerry 10 launch: A rundown of what to expect January 29, 2013
+*   ARGUS-IS watches you from above with 368 phone camera sensors January 30, 2013
+*   RIM reinvents itself with new name, new BlackBerry 10 OS, new smartphones January 30, 2013
+*   The loathed CAPTCHA verification system gets the boot by Ticketmaster: Thank you! January 30, 2013
 
 PCWorld Articles
 
-*   10 killer new features in Word 2013 January 29, 2013
-*   Review: OpenPuff steganography tool hides confidential data in plain sight January 29, 2013
-*   Review: Tor Browser Bundle lets you browse in anonymity January 29, 2013
+*   Microsoft Surface Pro 64GB comes with only 23GB of available storage space January 30, 2013
+*   Targus Touch Pen adds touch capabilities to any Windows 8 laptop January 30, 2013
+*   Review: Switch lets you shut down any Windows computer remotely, even using Twitter January 30, 2013
 
   
 TechHive on Twitter (@TechHive)
