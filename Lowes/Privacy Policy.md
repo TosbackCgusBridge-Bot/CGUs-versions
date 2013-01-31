@@ -75,7 +75,6 @@ Back to Top Customer Confidentiality Policy
 
 Let us assure you:
 
-• We will not telemarket to you.  
 • We will never sell your information to others. That's a promise.  
 • Your participation is completely voluntary. 
 
