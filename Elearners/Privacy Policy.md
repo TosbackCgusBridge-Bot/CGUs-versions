@@ -18,6 +18,12 @@ Help Section
 *   Terms of Use
 *   Site Map
 
+Find Your Online Degree
+
+*   1\. Degree Level: -- Select --
+*   2\. Area of Study: -- Select --
+*   3\. Concentration: -- Select --
+
 Newsletter Signup
 
 Bonus! Free e-book:
@@ -25,12 +31,6 @@ Bonus! Free e-book:
 Get Set for Learning
 
 By entering my email address and clicking "Submit" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services.
-
-Find Your Online Degree
-
-*   1\. Degree Level: -- Select --
-*   2\. Area of Study: -- Select --
-*   3\. Concentration: -- Select --
 
 Home >. Privacy Policy Privacy Policy
 
