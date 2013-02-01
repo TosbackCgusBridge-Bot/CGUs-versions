@@ -35,7 +35,7 @@ City:
 Save My Location For Your Home For Your Business Customer Support Local Information All About Us **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Internet Acceptable Use Policy CableOne.Net High Speed Internet Access Service  
 Acceptable Use Policy
 
-Last modified: June, 2012
+Last modified: February, 2013
 
 Important Note: Cable One, Inc., may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Cable One residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.net. Complaints of violations of this policy by Cable One users can be directed to abuse@cableone.net. Visit http://www.cableone.net/Pages/networkmanagementdisclosure.aspx to review Cable ONEs Network Management Disclosure Statement.
 
@@ -150,6 +150,10 @@ Elite/Preferred Promotion or Bundle Customers: The following table (table 2) rep
 (A-La-Carte) 50 Mbps 100 Gigabytes 8 am – 12 Midnight 3 Pack Elite Promotion/Bundle 50 Mbps 100 Gigabytes 8 am – 12 Midnight 2 Pack Preferred Promotion/Bundle 50 Mbps 50 Gigabytes 8 am – 12 Midnight
 
 Users may monitor their bandwidth usage in the MyBandwidth section of http://myaccount.cableone.net. If during the first 90 days of usage, you exceed your data plan, the additional data usage fees will be waived upon request from you. Customers under contract who exceed their data plan after the first 90 days of their agreement can terminate their contract and not be subject to the early termination fees as specified in the early termination section.
+
+Data plan for 15Mbps Surfing Internet:
+
+**Data Plans for 15Mbps Surfing Internet** Package Type Data Speed Gigabyte Allocation per Month Measurement Period 15 Mbps Surfing Internet 15 Mbps 50 Gigabytes 8 am – 12 Midnight
 
 IV. VIOLATION OF THIS ACCEPTABLE USE POLICY
 
