@@ -65,7 +65,7 @@ Our sales and service representatives do not have access to the details of your 
 
 Location Services for Mobile Apps
 
-Your current location is only determined if you choose to use a function on our apps to determine your current location. If you allow your location to be obtained using a GEICO app, we will use this information to return your estimated location. We use this information solely to distinguish your current location and not to identify you. We do not save this data nor disclose it to any third parties. GEICO does not automatically track your location when you use our apps.
+Your current location is only determined if you choose to use a function on our apps to determine your current location. If you allow your location to be obtained using a GEICO app, we will use this information to return your estimated location. We use this information solely to distinguish your current location and not to identify you. GEICO does not automatically track your location when you use our apps.
 
 Access and Correction of Personal Information
 
@@ -145,4 +145,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Secure Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is June 21, 2012.
+The Effective Date of the revised Privacy Policy is January 24, 2013.
