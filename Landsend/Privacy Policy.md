@@ -313,6 +313,7 @@ Enter Keyword or Item # Search
     *   Kids' Luggage
     *   Briefcases &. Laptop Bags
     *   Toiletry Kits &. Travel Accessories
+    *   Diaper Bags
     *   Sale
 *   Sale
     
