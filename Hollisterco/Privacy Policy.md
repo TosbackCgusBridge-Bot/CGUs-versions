@@ -39,7 +39,7 @@ Hollister Co. collects personally identifiable information from you when you vol
 
 Categories of personally identifiable information collected online include name, address, gender, month and day of birth, email address, telephone number, mobile phone number, payment card information, recipient's name, address and email address, modeling information (including name, size stats, work information, and contact information), use of our Websites tied to one of these categories and any other information you choose to provide, including through your personal social media accounts, as described below.
 
-4\. Information Collected If You Allow Us to Access Your Facebook, Twitter, et al. ("Personal Social Media Accounts")
+4\. Information Collected If You Allow Us to Access Your Personal Social Media Accounts on Social Media Sites Such as Facebook, Twitter, et al. ("Personal Social Media Accounts")
 
 Hollister Co. may allow you to use your Personal Social Media Account information to provide us information requested when you participate in features on our Websites. If you chose to provide us information through your Personal Social Media Accounts, Hollister Co. could collect some, and possibly all, of the data indicated on the Request for Permission screen that you click to grant us permission to collect this information. This information could include: your name, profile picture, gender, networks, user ID, list of friends, birthday, likes, education history, work history, current city, hometown, interests, relationship status, and any other information you have shared with everyone on your Personal Social Media Accounts. Please keep in mind that your Personal Social Media Accounts may change the types of information that may be accessed when you use this process to provide us information, so you should carefully review the Request for Permission from your Personal Social Media Accounts prior to using this method of providing information to our Websites. It is also possible that Hollister Co. will be able to continue to collect this information from your Personal Social Media Accounts should the information be revised by you later.
 
@@ -146,6 +146,6 @@ Questions/Contact Us
 If you have any questions, comments or concerns regarding our privacy practices, please email us at Privacy\_Policy@HollisterCo.com or contact us at:
 
 Attn: Privacy Policy Manager  
-Abercrombie &. Fitch Fulfillment Company  
+Abercrombie &. Fitch Stores, Inc.  
 6301 Fitch Path  
 New Albany, Ohio 43054 USA
