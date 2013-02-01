@@ -43,7 +43,7 @@ Sign up for our e-newsletter!
     *   Habitats
     *   Regions
     *   Urgent Issues
-*   Blog
+*   Blogs
 *   Photos &. Video
 
 *   Home
@@ -162,7 +162,7 @@ Our Sites
 
 *   All Hands Music
 *   Conservation Gateway
-*   Blog
+*   Blogs
 *   Magazine
 *   Nature Rocks
 *   Nature Works Everywhere
