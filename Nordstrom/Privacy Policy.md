@@ -16,6 +16,7 @@ The Nordstrom family of companies is happy to provide further details of our pri
     *   Cookies, Web Beacons, and Other Similar Technologies
     *   Euclid Store Traffic Service
     *   Third Party Advertising and Links to Other Websites and Services
+    *   Social Media Interactions
     *   Your Information, Your Choice
     *   Children's Privacy
     *   Security
@@ -28,4 +29,4 @@ For information regarding Nordstrom Bank Privacy and Security, please see the No
 
 If you have any other questions or concerns regarding Nordstrom's access to or use of your personal information, please write us at PO Box 21986, Seattle, WA 98111-3986 or e-mail us at privacy@nordstrom.com.
 
-_8/30/2012_
+_1/29/2013_
