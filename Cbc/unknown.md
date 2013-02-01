@@ -1,9 +1,13 @@
-Copyright
+Policies
 
-All the information contained within these World Wide Web Pages is Copyright CBC/Radio-Canada. All Rights Reserved.
+**Policy on online content retention of radio or television programs**
 
-All Trademarks mentioned herein belong to their respective owners.
+Unless specifically stated otherwise, CBC does not commit to retaining radio or television program content online for any period of time.
 
-All the information contained in CBC/Radio-Canada World Wide Web pages is provided "as is". CBC/Radio-Canada disclaims all warranties with regard to this information, including all implied warranties of merchantability and fitness for a particular purpose. In no event shall CBC/Radio-Canada be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this information.
+In order to provide added value to its radio and television programs offering, CBC carries online elements of some of its radio and television programs. The purpose of online material retention is only to ease consultation by Internet users and not to set up nor to provide archives, unless when explicitly stated.
 
-The information contained in CBC/Radio-Canada World Wide Web pages could contain technical inaccuracies or typographical errors. CBC/Radio-Canada reserve the right to make changes to any information contained within its World Wide Web pages and to make improvements and or changes in the products and programs described in its World Wide Web pages at any time and without notice.
+**Journalistic Standards and Policies**
+
+The CBC occupies a unique position of trust. Not only is it the most substantial and broadly-based broadcast journalism organization in Canada, it is funded, through Parliament, by the people of Canada. The CBC therefore considers it a duty to provide consistent, high-quality information upon which all citizens may rely.
+
+The Journalistic Standards and Practices provide the policy framework within which CBC journalism seeks to meet the expectations and obligations it faces. The second edition received approval from the CBC Board of Directors in January, 2001.
