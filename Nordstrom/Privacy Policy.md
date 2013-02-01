@@ -59,6 +59,13 @@ Currently, we use third party-placed tracking pixels and cookies from the follow
 
 If you would like more information about this practice and to know your choices for not having this anonymous information used by third-party service providers, please visit http://www.networkadvertising.org/managing/opt\_out.asp
 
+**Social Media Interactions**  
+Nordstrom invites you to socialize and share your fashion inspiration, finds and purchases with your friends using Social Media tools such as Facebook, Twitter, Pinterest and Instagram. If you choose to use these tools, you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies. We also use Facebook Social Plugins to allow Facebook to share information and friends' activities with its members while they are on our website. For example, Social Plugins allow Facebook to show you and your friends' "Likes" on our product pages if you are logged into Facebook while shopping at Nordstrom.com. Nordstrom does not receive or control any of the content from Facebook Social Plugins. To remove a Facebook "Like" through Nordstrom, place your cursor in the "grayed out" Like button and click on the "X" that appears. This removes the "Like" from your Facebook Page, as well as from Nordstrom's websites. You can also delete comments made while at Nordstrom.com from your Facebook Page.
+
+For more information about Facebook Social Plugins and other social media tools, click here.
+
+We may allow you to sign in to your Nordstrom.com account using Facebook Connect. If you choose to do this, we may collect information necessary to facilitate social interactions such as friend lists, birthday, check-ins, basic profile information and your profile picture but only if the privacy settings you and your friends set within Facebook allow it. We will use the information we collect to create and facilitate an interactive social experience and to bring you products, services and programs from Nordstrom. Nordstrom will always comply both with its privacy policy as well as with Facebook Connect terms regarding use of Facebook profile information.
+
 **Links to Other Websites and Services**  
 Websites provided by the Nordstrom family of companies may include links to other Internet sites, content, or videos (embedded or direct links) maintained by third parties ('Linked Sites'). Nordstrom provides Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by Nordstrom of the Linked Sites. You access Linked Sites at your own risk and by accessing them you leave Nordstrom's website. Linked Sites are not under the control of Nordstrom and Nordstrom is not responsible for the contents of any Linked Site, including the privacy policies or tracking technologies they may use. We encourage you to check the applicable privacy policy to determine how they will handle any personally identifying information they collect from you.
 
@@ -76,6 +83,9 @@ Please note your preference as stated below:
 "I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events." (Please note that direct mail requests may take up to six to eight weeks to become effective.)
 
 To update your Wish List privacy settings, you may select "Private" (not searchable) to protect your Wish List information from being publicly searched on our site or you may select "Public" (searchable). To protect your privacy, we initially set your Wish List account to a "Private" setting.
+
+**California Privacy Rights**  
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates (such as Nordstrom Bank, HauteLook, and treasure&bond) for those entities direct marketing purposes. Nordstrom does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Nordstrom privacy practices, please contact us at privacy@nordstrom.com.
 
 **Children's Privacy**  
 Nordstrom Direct will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent.
@@ -153,4 +163,4 @@ membercare@hautelook.com
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
 
-_8/30/2012_
+_1/29/2013_
