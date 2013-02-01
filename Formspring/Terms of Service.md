@@ -1,0 +1,155 @@
+Terms of Service
+
+_Effective Date: Thursday, July 29, 2010_
+
+_Welcome to Formspring!_
+
+Formspring.me, Inc. (“ **_Formspring_** ”, or “ **_we_** ”) provides the website located at www.formspring.me (the “ **_Site_** ”) and its interactive platform available via the internet and mobile devices through which users can engage in conversational Q&A with other Formspring users by asking questions and giving answers (any and all of the foregoing the “ **_Services_** ”).
+
+Please read the following terms and conditions (“ **_Terms of Service_** ”) carefully. These Terms of Service and the Formspring Privacy Policy and the Formspring Community Rules, both incorporated herein by reference, govern your access to and use of the Site and Services. These Terms of Service are a legal agreement between you and Formspring and apply to you whether or not you are a non registered user, a Formspring Registered User (defined below) or a visitor just browsing the Site.
+
+Certain areas of the Site and Services (and your access to or use of Formspring Content) may have different terms and conditions posted or may require you to agree to and accept additional terms and conditions. If there is a conflict between these Terms of Service and terms and conditions posted for a specific area of the Site, Services or Formspring Content, the latter terms and conditions will take precedence with respect to your use of or access to that area of the Site, Services or Formspring Content.
+
+YOU ACKNOWLEDGE AND AGREE THAT, BY CLICKING THE “SUBMIT” BUTTON, BY ACCESSING OR USING THE SITE OR SERVICES, OR BY POSTING OR ACCESSING ANY CONTENT ON THE SITE OR THROUGH THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, THEN YOU HAVE NO RIGHT TO ACCESS OR USE THE SITE, SERVICES OR FORMSPRING CONTENT.
+
+Basic Principles
+
+Please read all of these Terms of Service carefully. Without limiting any of the term of these Terms of Service (including our Community Rules, following are a few basic principles that apply to your use of the Site and Services:
+
+*   You must be 13 years or older to use the Site and Services.
+*   You are responsible for all content you post via the Site and Services (See additional terms regarding your “ **_User Submissions_** ” below).
+*   Receiving questions from senders who have hidden their name via the Site and Services is entirely your choice. If you wish to opt out of receiving these questions via your Formspring account, update your Privacy Settings and select the option “Only Formspring members who share their name can ask you questions.”
+*   You may not use the Formspring Site or Services to abuse, harass, threaten, impersonate or intimidate anyone. If you become aware that a user is engaging in prohibited activity, please report such activity to Customer Support.
+*   If your Formspring account is terminated for any reason, you may not create another Formspring account without our express prior written permission to do so.
+*   You will not post the personally identifiable information of any individual or Formspring Registered User, including but not limited to his or her email addresses, full name or other sensitive information without their consent.
+
+Modification
+
+Formspring reserves the right, at its sole discretion, to modify, discontinue or terminate the Site or Services or to modify these Terms of Service, at any time and without prior notice. If we modify these Terms of Service, we will post the modification on the Site or otherwise provide you with notice of the modification. We will also update the “Last Updated Date” in these Terms of Service. By continuing to access or use the Site or Services after we have posted a modification to these Terms of Service or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Terms of Service. If the modified Terms of Service are not acceptable to you, your only recourse is to cease using the Site and Services.
+
+Eligibility and Access
+
+The Site, Services and Formspring Content are intended solely for persons who are 13 or older. Any access to or use of the Site, Services and Formspring Content by anyone under 13 is expressly prohibited. By accessing or using the Site, Services and Formspring Content you represent and warrant that you are 13 or older.
+
+In order to access certain features of the Site and Services and to post any User Submissions (defined below) on the Site or through the Services, you must register to create a Formspring account and become a “ **_Formspring Registered User_** ”.
+
+During the registration process, you will be required to provide certain information and you will establish a username and a password. You agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. Formspring reserves the right to suspend or terminate your Formspring account if any information provided during the registration process or thereafter proves to be inaccurate, not current or incomplete.
+
+You are responsible for safeguarding your password. You agree not to disclose your password to any third party and to take sole responsibility for any activities or actions under your Formspring account, whether or not you have authorized such activities or actions. You will immediately notify Formspring of any unauthorized use of your Formspring account.
+
+Privacy
+
+See Formspring’s Privacy Policy located at http://www.formspring.me/about/privacy for information and notices concerning Formspring’s collection and use of your personal information. If you have any questions about the Formspring Privacy Policy, please contact Formspring at privacy@formspring.me.
+
+Certain Definitions
+
+Certain types of content are made available through the Site and Services. “ **_Formspring Content_** ” means the text, data, graphics, images, photos, video or audiovisual content, hypertext links and any other content made available through the Site and Services, excluding User Submissions. “ **_User Submissions_** ” means the, text, data, graphics, images, photos, video or audiovisual content, hypertext links and any other content uploaded, transmitted or submitted by non registered users and Formspring Registered Users to or via the Site and Services, including, without limitation in their questions and answers or otherwise through their conversational interactions.
+
+Ownership
+
+The Site, Services and Formspring Content are protected by copyright, trademark, and other laws of the United States and foreign countries. Except as expressly provided in these Terms of Service, Formspring and its licensors exclusively own all right, title and interest in and to the Site, Services and Formspring Content, including all associated intellectual property rights. You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Site, Services or Formspring Content.
+
+User Submissions
+
+Formspring does not claim any ownership rights in any such User Submissions and nothing in these Terms of Service will be deemed to restrict any rights that you may have to use and exploit any such User Submissions.
+
+However, by making available any User Submissions through the Site and Services, you hereby grant to Formspring a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, copy, adapt, modify, distribute, publicly display, publicly perform, transmit, broadcast and otherwise exploit such User Submissions in any and all media or distribution methods. By way of example and not limitation Formspring may modify or adapt your User Submissions in order to transmit, display or distribute such submissions over computer networks and in various media and/or make changes to your User Submissions as are necessary to conform and adapt your User Submissions to any requirements or limitations of any networks, devices, services or media. Formspring also has the right to make your User Submissions available to other companies, organizations or individuals who partner with Formspring. Such uses by Formspring or other companies, organizations or individuals who partner with us may be made with no compensation to you with respect to your User Submissions or otherwise.
+
+You acknowledge and agree that you are solely responsible for all User Submissions that you make available through the Site or Services. Accordingly, you represent and warrant that: (i) you either are the sole and exclusive owner of all User Submissions that you make available through the Site or Services or you have all rights, licenses, consents and releases that are necessary to grant to Formspring the rights in such User Submissions, as contemplated under these Terms of Service. and (ii) neither the User Submissions nor your posting, uploading, publication, submission or transmittal of the User Submissions or Formspring’s use of the User Submissions (or any portion thereof) on, through or by means of the Site and the Services will infringe, misappropriate or violate a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
+
+Copyrighted Materials: No Infringing Use
+
+You will not use the Site or Services to offer, display, distribute, transmit, route, provide connections to or store any material that infringes copyrighted works or otherwise violates or promotes the violation of the intellectual property rights of any third party. Formspring has adopted and implemented a policy that provides for the termination in appropriate circumstances of the accounts of users or access to the Site and Services to users who repeatedly infringe or are believed to be or are charged with repeatedly infringing the rights of copyright holders. Please see the Formspring Copyright Policy for further information.
+
+Feedback
+
+We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site and Services (“ **_Feedback_** ”). You may submit Feedback by emailing us at support@formspring.me. You acknowledge and agree that all Feedback will be the sole and exclusive property of Formspring and you hereby irrevocably assign to Formspring and agree to irrevocably assign to Formspring all of your right, title, and interest in and to all Feedback, including without limitation all worldwide patent rights, copyright rights, trade secret rights, and other proprietary or intellectual property rights therein. At Formspring’s request and expense, you will execute documents and take such further acts as Formspring may reasonably request to assist Formspring to acquire, perfect, and maintain its intellectual property rights and other legal protections for the Feedback.
+
+Interactions between Users
+
+You are solely responsible for your interactions (including any disputes) with other users. You understand that Formspring does not in any way screen Formspring users. You are solely responsible for, and will exercise caution, discretion, common sense and judgment in, using the Site and Services and disclosing personal information to other Formspring users. You agree to take reasonable precautions in all interactions with other Formspring users, particularly if you decide to meet an Formspring user offline, or in person. Your use of the Site, Services, Formspring Content and any other content made available through the Site or Services is at your sole risk and discretion and Formspring hereby disclaims any and all liability to you or any third party relating thereto. Formspring reserves the right to contact Formspring users, in compliance with applicable law, in order to evaluate compliance with the rules and policies in these Terms of Service. You will cooperate fully with Formspring to investigate any suspected unlawful, fraudulent or improper activity via the Services.
+
+General Prohibitions
+
+You agree not to do any of the following while using the Site, Services or Formspring Content:
+
+*   Post, upload, publish, submit or transmit any text, graphics, images, software, music, audio, video, information or other material (including User Submissions) that: (i)infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy. (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability. (iii) is fraudulent, false, misleading or deceptive. (iv) is defamatory, obscene, pornographic, vulgar or offensive. (v)promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group. (vi) is violent or threatening or promotes violence or actions that are threatening to any other person. or (vii) promotes illegal or harmful activities or substances (including, but not limited to activities that promote or provide instructional information regarding the manufacture or purchase of illegal weapons or illegal substances).
+*   Use, display, mirror, frame or utilize framing techniques to enclose the Site or Services, or any individual element or materials within the Site or Services, Formspring’s name, any Formspring trademark, logo or other proprietary information, the content of any text or the layout and design of any page or form contained on a page, without Formspring’s express written consent;
+*   Access, tamper with, or use non-public areas of the Site or Services, Formspring’s computer systems, or the technical delivery systems of Formspring’s providers;
+*   Attempt to probe, scan, or test the vulnerability of any Formspring system or network or breach any security or authentication measures;
+*   Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Formspring or any of Formspring’s providers or any other third party (including another user) to protect the Site, Services or Formspring Content;
+*   Attempt to access or search the Site, Services or Formspring Content or download Formspring Content from the Site or Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Formspring or other generally available third party web browsers (such as Microsoft Internet Explorer, Mozilla Firefox, Safari or Opera);
+*   Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
+*   Use any meta tags or other hidden text or metadata utilizing a Formspring trademark, logo URL or product name without Formspring’s express written consent;
+*   Use the Site, Services or Formspring Content for any commercial purpose or the benefit of any third party or in any manner not permitted by these Terms of Service;
+*   Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Site, Services or Formspring Content to send altered, deceptive or false source-identifying information;
+*   Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Site, Services or Formspring Content;
+*   Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Site;
+*   Collect or store any personally identifiable information from the Site or Services from other users of the Site or Services without their express permission;
+*   Impersonate or misrepresent your affiliation with any person or entity;
+*   Violate any applicable law or regulation;
+*   Encourage or enable any other individual to do any of the foregoing.
+
+Formspring will have the right to investigate and prosecute violations of any of the above, including intellectual property rights infringement and Site and Services security issues, to the fullest extent of the law. Formspring may involve and cooperate with law enforcement authorities in prosecuting users who violate these Terms of Service. You acknowledge that Formspring has no obligation to monitor your access to or use of the Site, Services or Formspring Content or to review or edit any User Submissions, but has the right to do so for the purpose of operating the Site and Services, to ensure your compliance with these Terms of Service, or to comply with applicable law or the order or requirement of a court, administrative agency or other governmental body. Formspring reserves the right, at any time and without prior notice, to remove or disable access to any Formspring Content and any User Submissions, that Formspring, in its sole discretion, considers to be in violation of these Terms of Service or otherwise harmful to the Site or Services.
+
+Links
+
+The Site and Services may contain links to third-party websites or resources. You acknowledge and agree that Formspring is not responsible or liable for: (i) the availability or accuracy of such websites or resources. or (ii) the content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by Formspring of such websites or resources or the content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.
+
+Sweepstakes and Contests
+
+Formspring may operate sweepstakes, contests and similar promotions (collectively, “Promotions”) through the Site and Services. You should carefully review the rules (e.g., the “Official Rules”) of each Promotion in which you participate through the Site and Service, as they may contain additional important information about Formspring rights to and ownership of the submissions you make as part of the Promotions and as a result of your participation in such Promotion. To the extent that the terms and conditions of such Official Rules conflict with these Terms of Service, the terms and conditions of such Official Rules will control.
+
+Termination
+
+Without limiting other remedies, Formspring may at any time suspend, terminate, or refuse to provide you with access to the Site or Services. If Formspring terminates, disables or suspends your Formspring account for any reason your will not create another Formspring account without first receiving Formspring’s express written permission to do so. addition, Formspring may notify authorities or take any actions it deems appropriate, without notice to you, if Formspring suspects or determines, in its own discretion, that you may have or there is a significant risk that you have (i) failed to comply with any provision of these Terms of Service or any policies or rules established by Formspring. or (ii) engaged in actions relating to or in the course of using the Site or Services that may be illegal or cause liability, harm, embarrassment, harassment, abuse or disruption for you, Formspring users, Formspring or any other third parties or the Site or Services.
+
+Without limiting any other terms of these Terms of Service, you may stop using the Site and Services at any time.
+
+After any termination, you understand and acknowledge that we will have no further obligation to provide the Site or Services and all licenses and other rights granted to you by these Terms of Service will immediately cease. Formspring will not be liable to you or any third party for termination of the Site or Services or termination of your use of either. UPON ANY TERMINATION OR SUSPENSION, ANY CONTENT, MATERIALS OR INFORMATION (INCLUDING USER SUBMISSIONS) THAT YOU HAVE SUBMITTED ON THE SITE OR VIA THE SERVICES WILL NO LONGER BE ACCESSIBLE BY YOU VIA THE SERVICES THEREAFTER.
+
+Any suspension, termination or cancellation will not affect your obligations to Formspring under these Terms of Service (including, without limitation, proprietary rights and ownership, indemnification and limitation of liability), which by their sense and context are intended to survive such suspension, termination or cancellation.
+
+Disclaimers
+
+THE SITE, SERVICES, FORMSPRING CONTENT AND USER SUBMISSIONS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, FORMSPRING EXPLICITLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. FORMSPRING MAKES NO WARRANTY THAT THE SITE, SERVICES, FORMSPRING CONTENT OR USER SUBMISSIONS WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.
+
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED FROM FORMSPRING OR THROUGH THE SITE, SERVICES, FORMSPRING CONTENT OR USER SUBMISSIONS, WILL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
+
+Indemnity
+
+You agree to defend, indemnify, and hold Formspring, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with User Submissions, your access to or use of the Site, Services or Formspring Content, or your violation of these Terms of Service.
+
+Limitation of Liability
+
+You acknowledge and agree that, to the maximum extent permitted by law, the entire risk arising out of your access to and use of the Site, Services, Formspring Content and User Submissions and any other content therein remains with you. Neither Formspring nor any other party involved in creating, producing, or delivering the site, services or formspring content will be liable for any incidental, special, exemplary or consequential damages, including lost profits, loss of data or loss of goodwill, service interruption, computer damage or system failure or the cost of substitute products or services, arising out of or in connection with these terms of service or from the use of or inability to use the site, services or content therein, whether based on warranty, contract, tort (including negligence), product liability or any other legal theory, and whether or not formspring has been informed of the possibility of such damage, even if a limited remedy set forth herein is found to have failed of its essential purpose. you specifically acknowledge that formspring is not liable for the defamatory, offensive or illegal conduct of other users or third parties and that the risk of injury from the foregoing rests entirely with you.
+
+In no event will Formspring’S aggregate liability arising out of or in connection with these Terms of Service or from the use of or inability to use the site, services or content therein exceed one hundred U.S. dollars ($100). The limitations of damages set forth above are fundamental elements of the basis of the bargain between Formspring and you. Some jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, so the above limitation may not apply to you.
+
+Proprietary Rights Notices
+
+All trademarks, service marks, logos, trade names and any other proprietary designations of Formspring used herein are trademarks or registered trademarks of Formspring. Any other trademarks, service marks, logos, trade names and any other proprietary designations are the trademarks or registered trademarks of their respective parties.
+
+Controlling Law and Jurisdiction
+
+These Terms of Service and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions. The exclusive jurisdiction and venue of any action with respect to the subject matter of these Terms of Service will be the state and federal courts located in San Francisco, California, and each of the parties hereto waives any objection to jurisdiction and venue in such courts.
+
+Entire Agreement
+
+These Terms of Service (including the Privacy Policy and Community Rules) constitute the entire and exclusive understanding and agreement between Formspring and you regarding the Site, Services and Formspring Content, and these Terms of Service supersede and replace any and all prior oral or written understandings or agreements between Formspring and you regarding the Site, Services and Formspring Content.
+
+Assignment
+
+You may not assign or transfer these Terms of Service, by operation of law or otherwise, without Formspring’s prior written consent. Any attempt by you to assign or transfer these Terms of Service, without such consent, will be null and of no effect. Formspring may freely assign these Terms of Service. Subject to the foregoing, these Terms of Service will bind and inure to the benefit of the parties, their successors and permitted assigns.
+
+Notices
+
+You consent to the use of: (i) electronic means to complete these Terms of Service and to deliver any notices or other communications permitted or required hereunder. and (ii) electronic records to store information related to these Terms of Service or your use of the Site or Services. Any notices or other communications permitted to required hereunder, including those regarding modifications to these Terms of Service, will be in writing and given: (x) by Formspring via email if applicable (in each case to the address that you provide). or (y) by posting to the Site or Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
+
+General
+
+The failure of Formspring to enforce any right or provision of these Terms of Service will not constitute a waiver of future enforcement of that right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Formspring. Except as expressly set forth in these Terms of Service, the exercise by either party of any of its remedies under these Terms of Service will be without prejudice to its other remedies under these Terms of Service or otherwise. If for any reason a court of competent jurisdiction finds any provision of these Terms of Service invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms of Service will remain in full force and effect.
+
+Contacting Us
+
+If you have any questions about these Terms of Service, please contact Formspring at support@formspring.me.
