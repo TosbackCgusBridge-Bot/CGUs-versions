@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   ARGUS-IS watches you from above with 368 phone camera sensors January 30, 2013
-*   RIM reinvents itself with new name, new BlackBerry 10 OS, new smartphones January 30, 2013
-*   The loathed CAPTCHA verification system gets the boot by Ticketmaster: Thank you! January 30, 2013
+*   Professor holds virtual class in Minecraft, should win all the teaching awards January 31, 2013
+*   New search engine for Dotcom's Mega site may be boon for pirates January 31, 2013
+*   Review: Plantronics M55 works with several apps January 31, 2013
 
 PCWorld Articles
 
-*   Microsoft Surface Pro 64GB comes with only 23GB of available storage space January 30, 2013
-*   Targus Touch Pen adds touch capabilities to any Windows 8 laptop January 30, 2013
-*   Review: Switch lets you shut down any Windows computer remotely, even using Twitter January 30, 2013
+*   Big Windows 8 discount ends today January 31, 2013
+*   Synology DS213air review: Wireless feature doesn't add enough value January 31, 2013
+*   Review: Classic Shell brings the Start menu to Windows 8 for free January 31, 2013
 
   
 TechHive on Twitter (@TechHive)
