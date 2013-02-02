@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 25/01/2013Imprimer
+Dernière mise à jour : 01/02/2013Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
@@ -60,7 +60,7 @@ Article 4 : Remboursement de la différence Le remboursement de la différence c
 
 **I.** **Description de l’offre**
 
-Du 25/01/2013 au 01/02/2013, CDISCOUNT vous rembourse la différence, sous forme de bons d’achat, sur le prix au litre ou au kilo des produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire porteurs de l’offre si vous trouvez le prix au litre ou au kilo de ces produits moins cher ailleurs sur internet.
+Du 01/02/2013 14h au 03/02/2013 23h59, CDISCOUNT vous rembourse 10 fois la différence, sous forme de bon d’achat, sur le prix au litre ou au kilo des produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire porteurs de l’offre si vous trouvez le prix au litre ou au kilo de ces produits moins cher ailleurs sur internet.
 
 Par prix du produit au litre ou au kilo, Cdiscount entend le prix TTC affiché sur la fiche produit du site concurrent à l’exclusion de toute offre promotionnelle particulière (code de réduction, chèque cadeau ou autre) et  hors frais de port.
 
@@ -68,7 +68,7 @@ Par prix du produit au litre ou au kilo, Cdiscount entend le prix TTC affiché s
 
 Le remboursement de la différence sur les produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire  est soumis aux conditions suivantes :
 
-·         Vous devez passer commande d’un produit porteur de l’offre entre le 25/01/2013 et le 01/02/2013 sur le site www.cdiscount.com (hors produits vendus sur la Marketplace « C le Marché ») ;
+·         Vous devez passer commande d’un produit porteur de l’offre entre le 01/02/2013 14h et le 03/02/2013 23h59 sur le site www.cdiscount.com (hors produits vendus sur la Marketplace « C le Marché ») ;
 
 Les produits porteurs de l’offre sont identifiables grâce à la pastille ou au drapeau  _"Garantit les prix les plus bas"_ présent sur la fiche produit.
 
@@ -82,9 +82,14 @@ Les produits porteurs de l’offre sont identifiables grâce à la pastille ou 
 
 ·         L’offre est limitée à un remboursement par personne et par produit acheté sur le site www.cdiscount.com.
 
-Les produits éligibles à l’offre étant vendus sous forme de packs sur le site de Cdiscount, le montant de la différence du prix au litre ou au kilo sera multiplié par le nombre de litres ou kilos composant le pack vendu par Cdiscount.
+  
 
-_Ex : Si la différence du prix au litre est de 2€ entre le prix pratiqué par Cdiscount et le prix pratiqué par le site concurrent et que le produit éligible concerné est vendu en pack de 5 litres sur_ _www.cdiscount.com_ _, le remboursement de la différence sera égal à 5 fois 1€, soit 5€._
+Les produits éligibles à l’offre étant vendus sous forme de packs sur le site de Cdiscount, le montant de la différence du prix au litre ou au kilo sera multiplié par le nombre de litres ou kilos composant le pack vendu par Cdiscount puis multiplié par 10. 
+
+   
+_Ex: Si la différence du prix au litre est de 2€ entre le prix pratiqué par Cdiscount et le prix pratiqué par le site concurrent et que le produit éligible concerné est vendu en pack de 5 litres sur_ _www.cdiscount.com _le remboursement de la différence sera égal à 5 fois 1€, soit 5€, multiplié par 10 = 50€_  
+_  
+​  
 
 **III.** **Modalités**
 
