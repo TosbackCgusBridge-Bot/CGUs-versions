@@ -326,6 +326,9 @@ Toyota Customer Relations - Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501
 
+1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $795 for Cars, $845 for Small/Medium Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), and $995 for Large Trucks (Land Cruiser, Tundra and Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
+2.  2013 EPA-estimated mileage. Actual mileage will vary.
+
 Vehicles
 
 *   All Vehicles
@@ -346,6 +349,7 @@ Vehicles
 
 Resources
 
+*   Dealers
 *   Car Tips &. Advice
 *   Financial Tools
 *   Phone Compatibility &. Pairing
