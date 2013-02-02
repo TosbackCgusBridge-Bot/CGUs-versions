@@ -96,6 +96,7 @@ Explore HSBC.com
         *   Share plans
         *   USA Patriot Act certification
     *   Investor resources
+        *   Consensus financial estimates
         *   Investor contacts
         *   Electronic communication
         *   Frequently asked questions
