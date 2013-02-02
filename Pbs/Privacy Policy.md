@@ -46,7 +46,6 @@ PBS - Be more
     *   News Archive
 *   Pressroom
 *   Career Opportunities
-    *   Current Openings
     *   Working at PBS
 *   FAQs
     *   Satellite Services
