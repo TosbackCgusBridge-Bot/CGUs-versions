@@ -85,9 +85,9 @@ Fidelity takes great care to protect personal information about you and when we 
 *   You or your representative on applications or forms (for example, name, address, Social Security number, birth date, assets and income)
 *   You or your employer or plan sponsor if Fidelity provides them with recordkeeping services (for example, payroll, human resources, or benefits information)
 *   Transactional activity in your account (for example, trading history and balances)
-*   Other interactions with Fidelity (for example, discussions with our customer service staff or information you enter into our Websites)
+*   Other interactions with Fidelity (for example, discussions with our customer service staff or information you enter into our websites)
 *   Information from consumer reporting agencies (for example, to assess your creditworthiness for margin products)
-*   Information from other third party data services (for example, to verify your identity and to better understand your product and service needs)
+*   Information from other third-party data services (for example, to verify your identity and to better understand your product and service needs)
 *   You or your representative regarding your preferences (for example, your choice of electronic statement delivery, or the screen layout you specify if you use our Internet sites)
 *   Other sources with your consent or with the consent of your representative (for example, from other institutions if you transfer positions into Fidelity)
 
@@ -123,13 +123,45 @@ Information collected from investment professionals' customers is not shared wit
 
   Privacy online
 
-Privacy, security and service in our online operations are just as critical as in the rest of our business. Fidelity employs all of the safeguards described previously, along with the following Internet-specific practices.
+Privacy, security, and service in Fidelity's online operations are just as critical as in the rest of our business. We use firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Fidelity accounts and systems from unauthorized access.
 
-We use firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Fidelity accounts and systems from unauthorized access. We may also place cookies and similar files on your hard drive for purposes such as security, to facilitate site navigation, and to personalize your experience on our site.
+When you interact with us through online channels (for example, websites and mobile applications) owned and controlled by Fidelity Investments ("Fidelity websites"), Fidelity manages personal information in accordance with all of the practices and safeguards described previously.
 
-When you visit Fidelity's Internet sites, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Websites. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+When you visit Fidelity websites, we may collect technical and navigational information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on Fidelity websites. We use this information for a variety of purposes, such as maintaining the security of your online session, facilitating site navigation, improving Fidelity website design and functionality, and personalizing your experience on Fidelity websites. Additionally, the following policies and practices apply when you are online.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online advertising campaigns or analyze visitor activity on our Websites. We may permit these service providers to use cookies and other technologies, such as Web beacons or pixel tags, to perform these services for Fidelity. We do not share personally identifiable information about our customers with these third party service providers, and these service providers do not collect such information on our behalf.
+**Cookies and similar technologies**
+
+We use cookies and similar technologies to support the operation of Fidelity websites. Cookies are small amounts of data that a website sends to a web browser on a visitor's computer. Our cookies help us to collect information about visitors to Fidelity websites, including date and time of visits, pages viewed, amount of time spent on our sites, or general information about the device used to access the site. Fidelity cookies are also used for security purposes and to personalize your experience, such as customizing your screen layout.
+
+You can refuse or delete cookies. Most browsers and mobile devices offer their own settings to manage cookies. If you refuse a cookie when on a Fidelity website, or if you delete cookies, you may experience some inconvenience in your use of Fidelity websites. For example, you may not be able to sign in and access your account, or we may not be able to recognize you, your device, or your online preferences.
+
+Both Fidelity and third-party service providers we hire may use cookies and other technologies, such as web beacons or pixel tags, in online advertising as described below. We do not share personally identifiable information about our customers with these third-party service providers, and these service providers do not collect such information on our behalf.
+
+**Advertising on Fidelity websites**
+
+Fidelity advertises on some pages within the Fidelity websites, and when we do, we may use information about your relationship with us, such as the types of accounts you have, to tailor advertisements about Fidelity products and services that may be of interest to you.
+
+We may also use third-party service providers to help us determine which Fidelity products and services may be of interest to you. These service providers may collect information about your activity on Fidelity websites using cookies and other technologies to analyze, for example, pages visited on the Fidelity websites, search engine referrals, browsing patterns within the Fidelity websites, and responses to advertisements and promotions on Fidelity websites where we advertise. Such service providers may only collect and use such information for purposes specified by Fidelity and not for their own purposes.
+
+**Advertising on non-Fidelity websites**
+
+Fidelity also advertises our products and services on websites not affiliated with Fidelity. We contract with third-party advertising companies to display these ads, and they may use cookies and similar technologies to optimize the placement of our ads. We do not permit these companies to use information they collect on Fidelity's behalf for any purpose other than to assist them with advertising Fidelity products and services.
+
+When we hire third-party online advertising companies, they may provide you with Fidelity advertisements that may be relevant to your interests, as determined by your activity on Fidelity and non-Fidelity websites. Such advertisements are known as "interest-based advertisements."
+
+You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Fidelity interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see http://www.networkadvertising.org/managing/opt\_out.asp.
+
+**Connecting with Fidelity on social media sites**
+
+Fidelity provides experiences on social media platforms that enable online sharing and collaboration among users who have registered to use them. We may collect information you provide by interacting with us via social media, such as photographs, opinions, or Twitter handle. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is also subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+
+**Fidelity Mobile® apps**
+
+Fidelity Mobile® applications ("apps") allow you to access your accounts, trade securities, move money, and access news and research using wireless or mobile devices. Our privacy practices apply to any personal information or other information that we may collect through the apps.
+
+**Protecting children's privacy online**
+
+Fidelity websites are not directed to individuals under the age of thirteen (13). Fidelity does not intentionally collect information on Fidelity websites from those we actually know are under 13, and we request that these individuals do not provide personal information through the sites.
 
   Additional information
 
@@ -174,8 +206,8 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective July 2012  
-©1998-2012 FMR LLC. All Rights Reserved. Questions? 800-343-3548
+Effective January 2013   
+©1998-2013 FMR LLC. All Rights Reserved. Questions? 800-343-3548
 
 *   Find an Investor Center.
 
@@ -185,7 +217,7 @@ Effective July 2012
     and the Fidelity Funds  
     Privacy Notice (PDF).
 
-627309.2.0
+627309.3.0
 
 *   Mutual Funds
 *   ETFs
