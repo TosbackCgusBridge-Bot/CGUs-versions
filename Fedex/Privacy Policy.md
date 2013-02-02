@@ -132,7 +132,7 @@ Knowledge Sharing Resources and Information
 *   Expert Advice
 *   Articles
 *   Media Center
-*   Citizenship Blog
+*   FedEx Blog
 *   Developer Resource Center
 *   Compatible Solutions Program
 *   Industry Specific Solutions
