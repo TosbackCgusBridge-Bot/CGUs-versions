@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Professor holds virtual class in Minecraft, should win all the teaching awards January 31, 2013
-*   New search engine for Dotcom's Mega site may be boon for pirates January 31, 2013
-*   Review: Plantronics M55 works with several apps January 31, 2013
+*   Here's hoping this e-paper keyboard concept becomes a real product February 1, 2013
+*   True fiction movies February 1, 2013
+*   PlayStation 4 buzz begins as Sony teases February event February 1, 2013
 
 PCWorld Articles
 
-*   Big Windows 8 discount ends today January 31, 2013
-*   Synology DS213air review: Wireless feature doesn't add enough value January 31, 2013
-*   Review: Classic Shell brings the Start menu to Windows 8 for free January 31, 2013
+*   Microsoft releases free Bing apps for Office 365 February 1, 2013
+*   Microsoft CEO calls Office for iOS 'unnecessary' February 1, 2013
+*   Court refuses Apple's request to ban Samsung Galaxy Nexus February 1, 2013
 
   
 TechHive on Twitter (@TechHive)
