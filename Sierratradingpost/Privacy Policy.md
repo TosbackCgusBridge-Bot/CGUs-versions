@@ -32,10 +32,8 @@ Cheyenne, WY 82007-1898
 
 PayPal Returns &. Exchanges
 
-Returns &. Exchanges for orders made through PayPal are different than our normal return policies.
-
-*   Returns must be made within six (6) months in order to obtain the return credit back into your PayPal account. Returns made after six (6) months will be issued a store credit.
-*   Exchanges cannot be accepted - if you need to make an exchange, we can give you a refund or store credit for your return and then we recommend that you place a new order for the item you want. We apologize for any inconvenience.
+*   Returns for orders placed using PayPal or Bill Me Later adhere to our standard return policy and must be made within six (6) months in order to obtain the return credit back into your PayPal or Bill Me Later account. Returns made after six (6) months will be issued a store credit.
+*   Exchanges for orders placed using PayPal and Bill Me Later are different than our normal exchange policies. Exchanges cannot be accepted - if you need to make an exchange, we can give you a refund or store credit for your return and then we recommend that you place a new replacement order for the item you want. We apologize for any inconvenience.
 
 DirectShip Items Only – 60 - Day Return Policy and Return Process
 
