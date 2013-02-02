@@ -1,4 +1,3 @@
-Close Window  
 Privacy Notice
 
 **Avis Rent a Car System, LLC.**
