@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Feb 2, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Feb 3, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -240,9 +240,13 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Technology Takes Center Stage for John Deere
+*   Krone BiG M Powered by Cat Engine
+*   $4 Corn May Become the Norm Again
+*   Reinke Launches Variable Rate Irrigation Product
+*   T-L Introduces Variable-Rate Irrigation Options
+*   See the 2013 Top Producer of the Year Banquet
 *   Soybean Prices Surge
-*   Power Hour: Keep a Close Eye on Land Prices
-*   Cattle Inventory Down 2%
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
