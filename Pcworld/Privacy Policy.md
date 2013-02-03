@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Here's hoping this e-paper keyboard concept becomes a real product February 1, 2013
-*   True fiction movies February 1, 2013
-*   PlayStation 4 buzz begins as Sony teases February event February 1, 2013
+*   Apple phone sales overtake Samsung for the first time February 2, 2013
+*   Watch the Super Bowl commercials online, right here February 2, 2013
+*   What could go wrong with crowdsourced dating advice? (and other stuff you missed) February 2, 2013
 
 PCWorld Articles
 
-*   Microsoft releases free Bing apps for Office 365 February 1, 2013
-*   Microsoft CEO calls Office for iOS 'unnecessary' February 1, 2013
-*   Court refuses Apple's request to ban Samsung Galaxy Nexus February 1, 2013
+*   Microsoft Office subscription plan sparks questions, and here are answers February 2, 2013
+*   Samsung Galaxy ad pokes fun at Super Bowl trademark rules February 2, 2013
+*   How to create a strong password in wake of Twitter hack episode February 2, 2013
 
   
 TechHive on Twitter (@TechHive)
