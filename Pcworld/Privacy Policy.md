@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
+*   Samsung gains on Apple as the dominant mobile device maker February 3, 2013
+*   Where to watch the Super Bowl online February 3, 2013
 *   Apple phone sales overtake Samsung for the first time February 2, 2013
-*   Watch the Super Bowl commercials online, right here February 2, 2013
-*   What could go wrong with crowdsourced dating advice? (and other stuff you missed) February 2, 2013
 
 PCWorld Articles
 
-*   Microsoft Office subscription plan sparks questions, and here are answers February 2, 2013
-*   Samsung Galaxy ad pokes fun at Super Bowl trademark rules February 2, 2013
-*   How to create a strong password in wake of Twitter hack episode February 2, 2013
+*   Yahoo plugs hole that allowed hijacking of email accounts February 3, 2013
+*   Transparent displays may not be worth the hype February 3, 2013
+*   Spotify isn't music to their ears in the House of Representatives February 3, 2013
 
   
 TechHive on Twitter (@TechHive)
