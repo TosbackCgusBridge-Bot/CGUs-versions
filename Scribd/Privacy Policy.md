@@ -113,4 +113,4 @@ PLEASE CONTACT SCRIBD WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY NOTICE, 
 
   **Topic is closed for comments**  
 
-Help Desk Software by Zendesk
+Support Software by Zendesk
