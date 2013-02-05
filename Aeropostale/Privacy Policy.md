@@ -98,7 +98,7 @@ Last updated May 8, 2012.
   
 
 *   Email
-*   Aero Texts
+*   Mobile Signup
 *   *   Facebook
     *   Twitter
     *   YouTube
@@ -114,4 +114,4 @@ Last updated May 8, 2012.
 *   Terms of Use
 *   Privacy Policy
 
-International Shipping
+International Shipping Terms and Conditions Privacy Policy X
