@@ -294,7 +294,6 @@ Visit VH1 On:
 *   Corporate
 *   Jobs
 *   Advertising Contacts
-*   Advertising Specs
 *   Rhapsody.com
 *   Partners
 *   Public Affairs
