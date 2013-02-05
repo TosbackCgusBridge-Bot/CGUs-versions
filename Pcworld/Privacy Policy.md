@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Samsung gains on Apple as the dominant mobile device maker February 3, 2013
-*   Where to watch the Super Bowl online February 3, 2013
-*   Apple phone sales overtake Samsung for the first time February 2, 2013
+*   Wine project aims to bring Windows apps to Android February 4, 2013
+*   BlackBerry Z10 enjoys brisk sales starting outside the US February 4, 2013
+*   Panasonic improves color capture by digital cameras February 4, 2013
 
 PCWorld Articles
 
-*   Yahoo plugs hole that allowed hijacking of email accounts February 3, 2013
-*   Transparent displays may not be worth the hype February 3, 2013
-*   Spotify isn't music to their ears in the House of Representatives February 3, 2013
+*   How's Windows 8 doing? Microsoft reflects, 90 days in February 4, 2013
+*   $25 Raspberry Pi Model A ships in Europe and soon the world February 4, 2013
+*   Make Office 2013 more powerful with 10 killer apps February 4, 2013
 
   
 TechHive on Twitter (@TechHive)
