@@ -15,12 +15,12 @@ Home Omniscope Download Forums Support Company   Knowledge Base
 *   Troubleshooting
 *   Legal-Small Print
     *   EULA
-    *   Privacy Policy
-    *   Terms of Use
     *   Support Agreement
     *   Commercial Publishing
     *   3rd Party Licenses
+    *   Privacy Policy
     *   Site attributions
+    *   Terms of Use
 *   Why Omniscope?
 
 Privacy Policy Visokio Privacy Policy Statement
