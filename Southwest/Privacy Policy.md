@@ -93,18 +93,17 @@ As a Member of the Rapid Rewards® program, you may receive Rapid Rewards® e-ma
 We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards® or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save® and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.  
   
 For your convenience, a brief description of the periodic e-mails you may choose to receive from us is also provided in the list below along with links to either subscribe or unsubscribe (as applicable) to each option.    
-  
-  
+
 **Click 'n Save® Special Offers E-mail  
 **Weekly e-mail highlighting travel deals on flights, car rentals, hotels, cruises, and Southwest Vacations  
-Subscribe  
+Subscribe
 
-**In A Nutshell™ News &. Promotions E-mail  
-**Monthly newsletter-style e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers  
-Subscribe  
+**In A Nutshell™ News &. Promotions E-mail**  
+Monthly newsletter-style e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers  
+Subscribe
 
-**Rapid Rewards® E-mail Updates  
-**Rapid Rewards news and offers for Members only  
+**Rapid Rewards® E-mail Updates**  
+Rapid Rewards news and offers for Members only  
 Subscribe | Unsubscribe
 
 **Rapid Rewards® Reports  
