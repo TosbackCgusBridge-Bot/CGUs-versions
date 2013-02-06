@@ -24,6 +24,16 @@ Citing Data
 
 The agency's preferred citation for each dataset is included in its metadata. Users should also cite the date that data were accessed or retrieved from Data.gov. Finally, users must clearly state that "Data.gov and the Federal Government cannot vouch for the data or analyses derived from these data after the data have been retrieved from Data.gov."
 
+Disclaimer of Endorsement
+
+The information posted on the Data.gov website includes hypertext links, or pointers, to information created and maintained by other public and/or private organizations. Data.gov only provides these links and pointers for your information and convenience. When you select a link to an outside website, you are leaving the Data.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+*   The General Services Administration (GSA) and Data.gov **do not** control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on a linked website.
+*   GSA and Data.gov **do not** endorse the organizations sponsoring linked websites and we **do not** endorse the views they express or the products/services they offer.
+*   GSA and Data.gov **cannot** authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website.
+*   GSA and Data.gov **are not** responsible for transmissions users receive from linked websites.
+*   GSA and Data.gov **do not** guarantee that outside websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
+
 Public Participation
 
 In support of the Transparency and Open Government Initiative, recommendations from individuals, groups and organizations regarding the presentation of data, data types, and metadata will contribute to the evolution of Data.gov.
