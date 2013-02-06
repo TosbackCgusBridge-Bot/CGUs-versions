@@ -26,7 +26,7 @@ E-mail: Support form
 Internet: http://www.bigpoint.com  
   
 **Commissioner for Youth Protection**  
-Rechtsanwalt Dr. Andreas Lober  
+Lawyer Dr. Andreas Lober  
 Schulte Riesenkampff Rechtsanwaltsgesellschaft mbH  
 E-mail: YouthProtectionOfficer@bigpoint.com  
   
