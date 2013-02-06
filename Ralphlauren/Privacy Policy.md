@@ -2,7 +2,7 @@
 Privacy Notice Safe Harbor Privacy Policy  
 **Ralph Lauren Corporation**    **Privacy Notice**
 
-Ralph Lauren Corporation and its affiliates (collectively, "Polo Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Polo Ralph Lauren stores, Polo Ralph Lauren Factory Outlet Stores and Rugby stores (collectively, the "Stores"), and (iii) through the other channels described below. Polo Ralph Lauren is responsible for this website.
+Ralph Lauren Corporation and its affiliates (collectively, "Polo Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Polo Ralph Lauren stores, Polo Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Polo Ralph Lauren is responsible for this website.
 
 The Privacy Notice describes the types of personal information we collect on this site, in our Stores, and in other ways discussed below, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) tell us to refrain from communicating with you about our products or services, and (iv) answer any questions you may have about our privacy practices.
 
