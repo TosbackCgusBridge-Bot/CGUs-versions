@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Wine project aims to bring Windows apps to Android February 4, 2013
-*   BlackBerry Z10 enjoys brisk sales starting outside the US February 4, 2013
-*   Panasonic improves color capture by digital cameras February 4, 2013
+*   Chocolate faces might be the most terrifying use of 3D printing yet February 5, 2013
+*   This tiny Roomba-like robot cleans your iPad for you February 5, 2013
+*   Review: BodyMedia FIT is lightweight and accurate February 5, 2013
 
 PCWorld Articles
 
-*   How's Windows 8 doing? Microsoft reflects, 90 days in February 4, 2013
-*   $25 Raspberry Pi Model A ships in Europe and soon the world February 4, 2013
-*   Make Office 2013 more powerful with 10 killer apps February 4, 2013
+*   Sony adds large-screen Ultrabooks to Vaio lineup February 5, 2013
+*   Lenovo’s ThinkPad Helix delayed until March or April February 5, 2013
+*   SSD onslaught: Hard drives poised for double-digit revenue drop February 5, 2013
 
   
 TechHive on Twitter (@TechHive)
