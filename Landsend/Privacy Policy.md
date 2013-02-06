@@ -456,12 +456,14 @@ Shop Your Way Rewards℠
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-Service Extras
+Services
 
 *   Gift Cards
+*   Monogramming &. Embroidery
+*   Shop Your Way Rewards
 *   Shop Catalogs
 *   Catalog Requests
-*   Shop Your Way Rewards
+*   Email Subscription
 *   Glossary
 *   Site Map
 
@@ -477,11 +479,13 @@ Specialty Shops
 
 Company
 
+*   About Us
+*   The Lands' End Blog
+*   Careers
 *   As Seen In
 *   Sustainability
-*   Careers
-*   About Us
 *   Newsroom
+*   Affiliate Program
 
 Policies
 
