@@ -60,7 +60,7 @@ Our Services are not directed to persons under 13. We do not knowingly collect p
 
 9\. Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at privacy@bitcasa.com or at 274 Castro St #204, Mountain View, CA 94041.
+If you have any questions about this Privacy Policy, please contact us at privacy@bitcasa.com or at 215 Castro St. 2nd Floor, Mountain View, CA 94041.
 
 10\. Changes to our Privacy Policy
 
