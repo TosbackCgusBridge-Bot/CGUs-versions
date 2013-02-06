@@ -8,7 +8,7 @@ Your Stuff &. Your Privacy
 
 By using our Services you provide us with information, files, and folders that you submit to Bitcasa (together, “your stuff”). You retain full ownership to your stuff. We don’t claim any ownership to any of it. These Terms do not grant us any rights to your stuff or intellectual property except for the limited rights that are needed to run the Services, as explained below.
 
-We may need your permission to do things you ask us to do with your stuff, for example, hosting your data, or =sharing it at your direction. This includes product features visible to you, for example, image thumbnails or document previews. It also includes design choices we make to technically administer our Services, for example, how we redundantly backup data to keep it safe. You give us the permissions we need to do those things solely to provide the Services. This permission also extends to trusted third parties we work with to provide the Services, for example Amazon, which provides our storage space (again, only to provide the Services).
+We may need your permission to do things you ask us to do with your stuff, for example, hosting your data, or sharing it at your direction. This includes product features visible to you, for example, image thumbnails or document previews. It also includes design choices we make to technically administer our Services, for example, how we redundantly backup data to keep it safe. You give us the permissions we need to do those things solely to provide the Services. This permission also extends to trusted third parties we work with to provide the Services, for example Amazon, which provides our storage space (again, only to provide the Services).
 
 To be clear, aside from the rare exceptions we identify in our Privacy Policy, no matter how the Services change, we won’t share your content with others, including law enforcement, for any purpose unless you direct us to. How we collect and use your information generally is also explained in our Privacy Policy.
 
@@ -50,7 +50,7 @@ Bitcasa respects others’ intellectual property and asks that you do too. We wi
 
 Copyright Agent  
 Bitcasa, Inc.  
-215 Castro St 2nd Floor  
+215 Castro St. 2nd Floor  
 Mountain View, CA 94041  
 copyright@bitcasa.com Other Content
 
