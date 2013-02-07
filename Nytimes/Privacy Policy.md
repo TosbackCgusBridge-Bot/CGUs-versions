@@ -256,12 +256,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "How to Build a Country From Scratch"
+Search Help Most Facebook users have taken a break from the site
 
-Also in Video »
+Also in Tech »
 
-*   Super Bowl ads recall days gone by
-*   The Sonia Show
+*   Lackluster start for BlackBerry's new phone in Canada
+*   A billion-dollar club, and not so exclusive
 
   
 
