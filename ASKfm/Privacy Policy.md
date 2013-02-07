@@ -124,4 +124,4 @@ http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http
   
   
   
-To learn more about the Safe Harbour program, and to view Ask.com's certification, please visit http://www.export.gov/safeharbor/. About - Privacy - AskEraser - Popular Questions - AskGardening - About P.G. Wodehouse ©2012 IAC Search &. Media
+To learn more about the Safe Harbour program, and to view Ask.com's certification, please visit http://www.export.gov/safeharbor/. About - Privacy - AskEraser - Popular Questions - AskGardening - About P.G. Wodehouse ©2013 IAC Search &. Media
