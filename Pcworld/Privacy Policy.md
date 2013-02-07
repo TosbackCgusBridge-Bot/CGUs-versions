@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Chocolate faces might be the most terrifying use of 3D printing yet February 5, 2013
-*   This tiny Roomba-like robot cleans your iPad for you February 5, 2013
-*   Review: BodyMedia FIT is lightweight and accurate February 5, 2013
+*   Tiny, adorable microcopter UAVs gives British troops handheld reconnaissance February 6, 2013
+*   BlackBerry Q10 won't land stateside until May or June February 6, 2013
+*   Apple sticks with jailbreaking-is-evil warning February 6, 2013
 
 PCWorld Articles
 
-*   Sony adds large-screen Ultrabooks to Vaio lineup February 5, 2013
-*   Lenovo’s ThinkPad Helix delayed until March or April February 5, 2013
-*   SSD onslaught: Hard drives poised for double-digit revenue drop February 5, 2013
+*   Review: Use online data store Pastebin from the desktop with this handy portable app February 6, 2013
+*   Microsoft Surface Pro reviews: Device is good, not great, critics say February 6, 2013
+*   Box's new partner program could yield benefits to enterprise customers February 6, 2013
 
   
 TechHive on Twitter (@TechHive)
