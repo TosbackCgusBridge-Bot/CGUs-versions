@@ -1,4 +1,4 @@
-marimo.emit('writecapture93448261\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": null, "html": "$NEWLINE Privacy Policy$NEWLINE
+marimo.emit('writecapture69505931\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": null, "html": "$NEWLINE Privacy Policy$NEWLINE
 
 Last Updated: June 15, 2012
 
@@ -46,7 +46,7 @@ $NEWLINE
 
 $NEWLINE
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you\\u2019re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
 
 $NEWLINE
 
@@ -86,13 +86,15 @@ $NEWLINE
 
 $NEWLINE
 
-**Data Collected in Connection with Ad Serving and Targeting.** We use third-party Service Providers, such as ad networks, to serve advertising to you when you visit our Site. These Service Providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer. Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc. You can learn more about such data collection practices, and/or opt out of any use by our Service Providers’ of cookies to tailor advertising to your interests, by visiting aboutads.info.
+**Data Collected in Connection with Ad Serving and Targeting.** We use third-party Service Providers, such as ad networks, to serve advertising to you when you visit our Site. These Service Providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these Service Providers for these purposes generally does not identify you personally (in other words, the Service Providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer. Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc. You can learn more about such data collection practices, and/or opt out of any use by our Service Providers\\u2019 of cookies to tailor advertising to your interests, by visiting aboutads.info.
 
 $NEWLINE
 
-**Cox Media Group’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising.** CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit aboutads.info.
+**Cox Media Group\\u2019s Adherence to Self-Regulatory Principles for Online Behavioral Advertising.** CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit aboutads.info.
 
 $NEWLINE
+
+\\u00a0
 
 $NEWLINE
 
@@ -170,4 +172,4 @@ $NEWLINE
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
 
-$NEWLINE ", "id": "writecapture93448261", "widget\_prototype": "writecapture\_widget"}).
+$NEWLINE ", "id": "writecapture69505931", "widget\_prototype": "writecapture\_widget"}).
