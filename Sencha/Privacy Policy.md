@@ -196,6 +196,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 *   Twitter
 *   Tumblr
 *   Vimeo
+*   Google+
 
 Sign up for exclusive Sencha news! Sign up
 
