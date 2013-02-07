@@ -395,10 +395,8 @@ San Francisco, CA 94103
 Contact
 
 *   Player Support
-*   Advertisers
-*   Press
-*   Business Inquiries
 *   Billing Questions
+*   Advertisers
 *   Developers
 
 Games
