@@ -143,6 +143,12 @@ Accessing, Reviewing, and Changing Your Profile
 
 After registration You can review and change the information You submitted during registration. For instructions on how to do so visit the "Help" section of the Service.
 
+You may also reach our customer loyalty team in any of the following ways:
+
+*   Sending an email to support@speeddate.com
+*   Sending written correspondence to SpeedDate.com, P.O. Box 77552 San Francisco, CA 94107
+
+  
   
 
 Upon Your request We will remove Your membership data from Our active databases as soon as reasonably possible in accordance with Our policy and applicable law. To learn how to hide or remove Your profile so that others cannot view it visit the "Help" section of the Service. We may retain in Our files information You have requested be removed from Our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Use. Moreover, such prior information may never be completely removed from Our databases due to technical and legal constraints, including stored 'back up' systems. You should not expect that all of Your Information will be completely removed from Our databases in response to Your request.
