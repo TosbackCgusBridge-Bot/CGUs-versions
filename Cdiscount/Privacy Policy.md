@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 05/02/2013Imprimer
+Dernière mise à jour : 06/02/2013Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
@@ -53,28 +53,141 @@ CDISCOUNT se réserve le droit de ne pas valider votre commande pour tout motif 
 Ces emails sont envoyés à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.   
 A noter : Si vous ne recevez pas l’un des deux emails ci-dessus, nous vous recommandons de prendre contact avec notre Service Clients.
 
-Article 4 : Remboursement de la différence Le remboursement de la différence comment ça marche ? Cliquez ici Article 5 : Modalités de Paiement et Sécurisation **Modalités de Paiement**
+Article 4 : Remboursement de la différence Le remboursement de la différence comment ça marche ? Cliquez ici  
+  
 
-Les modalités du présent article ne s’appliquent pas à la vente de voyages, aux ventes privées qui ne peuvent être réglés que par Carte Bancaire au comptant.
+**Conditions particulières de l’opération « Garanti le moins cher » sur les produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire.**
 
-Les modalités de paiement suivantes peuvent être proposées par CDISCOUNT :
+**I.                    ** **Description de l’offre**
+
+CDISCOUNT vous rembourse 10 fois la différence, sous forme de bon d’achat, sur le prix au litre ou au kilo des produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire porteurs de l’offre si vous trouvez le prix au litre ou au kilo de ces produits moins cher ailleurs sur internet.
+
+Par prix du produit au litre ou au kilo, Cdiscount entend le prix TTC affiché sur la fiche produit du site concurrent à l’exclusion de toute offre promotionnelle particulière (code de réduction, chèque cadeau ou autre) et  hors frais de port.
+
+**II.                  ** **Conditions de l’offre**
+
+Le remboursement de la différence sur les produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire  est soumis aux conditions suivantes :
+
+·         Vous devez passer commande d’un produit porteur de l’offre sur le site www.cdiscount.com (hors produits vendus sur la Marketplace « C le Marché ») ;
+
+Les produits porteurs de l’offre sont identifiables grâce à la pastille ou au drapeau  _"Garantit les prix les plus bas"_ présent sur la fiche produit.
+
+·         Le produit vendu par le site concurrent doit être strictement identique à celui commandé sur notre site internet : Même contenance unitaire, même saveur ou même senteur ;
+
+·         Le délai de livraison ne doit pas être supérieur à celui proposé par Cdiscount de plus de 10 jours ;
+
+·         L’offre concurrente doit être proposée par un site français avec un paiement en euros ;
+
+·         La demande du client doit être transmise à Cdiscount dans un délai maximum de 24 heures suivant son achat ;
+
+·         L’offre est limitée à un remboursement par personne et par produit acheté sur le site www.cdiscount.com.
+
+  
+
+Les produits éligibles à l’offre étant vendus sous forme de packs sur le site de Cdiscount, le montant de la différence du prix au litre ou au kilo sera multiplié par le nombre de litres ou kilos composant le pack vendu par Cdiscount puis multiplié par 10. 
+
+   
+_Ex: Si la différence du prix au litre est de 2€ entre le prix pratiqué par Cdiscount et le prix pratiqué par le site concurrent et que le produit éligible concerné est vendu en pack de 5 litres sur _ _www.cdiscount.com _le remboursement de la différence sera égal à 5 fois 1€, soit 5€, multiplié par 10 = 50€_  
+_  
+​  
+
+ **III.                ** **Modalités**
+
+·         Dans les 24 heures qui suivent la validation de votre commande d’un produit porteur de l’offre, si vous trouvez le prix au litre ou au kilo de ce produit  moins cher ailleurs sur internet, vous devez adresser un email à l’adresse suivante garantiemoinscher@cdiscount.com en précisant obligatoirement :
+
+o   Votre n° de commande CDISCOUNT .
+
+o   Le prix au litre ou au kilo affiché sur le site concurrent de Cdiscount .
+
+o   L'adresse url exacte de la page ou est affiché le prix du produit au litre ou au kilo du produit sur le site.
+
+Attention, si vous ne précisez pas votre n° de commande, nous ne serons pas à même de retrouver votre commande et nous ne pourrons donc pas traiter votre demande de remboursement.
+
+·         Cdiscount.com s'engage à vous rembourser la différence de prix sous forme d'un bon d'achat valable 30 jours sur le sitewww.cdiscount.com;
+
+·         Ce bon d'achat sera crédité sur votre espace client 14 jours après l’expédition de votre colis. Bon d'achat utilisable sur tout le site www.cdiscount.com hors livres, développement photo, abonnement presse et téléphonie mobile, produits vendus sur la Marketplace « C le Marché », téléchargement de musique et offres partenaires. Bon d’achat non compensable, non-cessible, non remboursable et non convertible en numéraire.
+
+**IV.                ** **Exclusions**
+
+L’offre ne porte pas sur :
+
+·         Les produits soldés sur les sites concurrents ou sur www.cdiscount.com ;
+
+·         Les produits à prix coûtant ;
+
+·         Les produits « grande braderie » ;
+
+· Les produits dont les frais de port sont offerts sur www.cdiscount.com.
+
+·         Les commandes payées par une des cartes de crédit suivantes : Carte Cetelem, Aurore, Cofinoga, Carte Cdiscount, carte Casino ;
+
+·         Les commandes réglées par le mode de paiement « 4 fois » si le site concurrent ne propose pas cette facilité de paiement ;  
+
+·         Les sites comparateurs de prix ;
+
+·         Les produits épuisés sur le site concurrent au moment de la vérification.
+
+  
+Article 5 : Modalités de Paiement et Sécurisation **Modalités de Paiement**
+
+Les modalités du présent article ne s’appliquent pas à la vente de voyages, aux ventes privées qui ne peuvent être réglés que par Carte Bancaire au comptant.  
+  
+
+Les modalités de paiement suivantes peuvent être proposées par CDISCOUNT :  
+  
 
 *   \- Par carte bancaire
+    
+      
     
 *   \- par chèque bancaire :
     
 
-Votre commande est alors réservée pendant 7 jours. Au delà de ce délai, sans réception de votre chèque, elle sera annulée. La commande ne sera traitée qu’à réception de votre chèque et après validation.
+Votre commande est alors réservée pendant 7 jours. Au delà de ce délai, sans réception de votre chèque, elle sera annulée. La commande ne sera traitée qu’à réception de votre chèque et après validation.  
+  
 
 *   \- Paiement en « 4 fois » :
     
+      
+    
+    Le paiement en 4 fois peut être effectué par carte bancaire ou par chèque, aux conditions énumérées ci-dessous.
+    
+      
+    
 
-Le paiement en « 4 fois » par carte bancaire ou par chèque est accessible pour certaines commandes dont le montant total est compris entre 30€ et 2 000€.   
-Le prélèvement des échéances sur votre carte bancaire se répartit comme indiqué dans le tableau ci-dessous :
+> \- Le paiement en « 4 fois » par carte bancaire est accessible pour certaines commandes dont le montant total est compris entre 30€ et 2 000€.   
 
-Echéances Date de prélèvement 1ère échance Au jour de la commande 2ème échance Au 30ème jour suivant la commande 3ème échéance Au 60ème jour suivant la commande 4ème échéance Au 90ème jour suivant la commande  
-L’encaissement des chèques est effectué comme indiqué dans le tableau ci-dessous:   
-**Echéances** **Date d’encaissement des chèques** 1ère échance Encaissement du premier chèque au jour de la réception de vos 4 chèques 2ème échance Encaissement le 1er du mois suivant la commande 3ème échéance Encaissement le 1er du deuxième mois suivant la commande 4ème échéance Encaissement le 1er du troisième mois suivant la commande  
+> Le prélèvement des échéances sur votre carte bancaire se répartit comme indiqué dans le tableau ci-dessous :  
+> Echéances Date de prélèvement 1ère échance Au jour de la commande 2ème échance Au 30ème jour suivant la commande 3ème échéance Au 60ème jour suivant la commande 4ème échéance Au 90ème jour suivant la commande
+
+  
+
+> \- Le paiement en « 4 fois » par chèque bancaire est accessible pour certaines commandes dont le montant total est compris entre 100€ et 2 000€.   
+> L’encaissement des chèques est effectué comme indiqué dans le tableau ci-dessous: 
+
+> > > >   
+
+> **Echéances**
+
+> **Date d’encaissement des chèques**
+
+> 1ère échance
+
+> Encaissement du premier chèque au jour de la réception de vos 4 chèques
+
+> 2ème échance
+
+> Encaissement le 1er du mois suivant la commande
+
+> 3ème échéance
+
+> Encaissement le 1er du deuxième mois suivant la commande
+
+> 4ème échéance
+
+> Encaissement le 1er du troisième mois suivant la commande
+
+  
 
 Le TAEG applicable aux commandes payées en 4 fois par carte bancaire ou chèque est de 2.31%.
 
@@ -91,16 +204,15 @@ Cdiscount vous offre la possibilité de régler votre commande en espèce (dans 
 
 Lorsque vous choisissez le Paiement en Magasin, vous disposez d’un délai de 7 jours calendaires pour vous présenter dans le magasin Casino que vous aurez choisi afin de régler votre commande. Passé ce délai, votre commande sera annulée. Votre commande ne sera traitée et validée qu’après paiement.  
 Pour des raisons techniques,  ce mode de paiement :  
-  
 *    -    Ne peut être proposé qu’aux personnes dont l’adresse de facturation de commande se situe dans un périmètre      
-*        inférieur à 30 km autour de ces magasins ;  
+*         inférieur à 30 km autour de ces magasins ;  
     
 *     
     
-*    -      Ne peut être proposé pour les commandes partiellement payées par un bon d’achat ou par carte cadeau ;  
+*    -    Ne peut être proposé pour les commandes partiellement payées par un bon d’achat ou par carte cadeau ;  
     
 
- -      Ne peut être proposé pour les commandes contenant des produits de la Marketplace « C le Marché ».  
+ -    Ne peut être proposé pour les commandes contenant des produits de la Marketplace « C le Marché ».  
   
 Les magasins Casino auprès desquels vous pouvez régler votre commande sont :  
   
@@ -113,13 +225,11 @@ Les magasins Casino auprès desquels vous pouvez régler votre commande sont :
 *     
     
 
-\-  Les Supermarchés Casino :  
+         -  Les Supermarchés Casino :
 
              
 
-         - Paris St Didier,  
-         - Toulouse Pont des Demoiselles,  
-         - Marseille St Victoret
+         - Paris St Didier,         - Toulouse Pont des Demoiselles,          - Marseille St Victoret
 
   
   
@@ -136,19 +246,24 @@ Le service paiement flash est entièrement sécurisé, pour en savoir plus sur l
 
 *   \- par Carte Cdiscount(i) :
 
-La Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Pour connaître les avantages et les conditions de la MasterCard Cdiscount, cliquez ici.
+La Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Pour connaître les avantages et les conditions de la MasterCard Cdiscount, cliquez ici.  
+  
 
 *   \- par Carte Cofinoga
+*     
+    
 *   \- Par Crédit Classique - "Payez en plusieurs fois" :
 
 CDISCOUNT, en partenariat avec Banque Casino, vous offre la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 500 euros et 10 000 euro.   
 Pour connaître les conditions relatives à l’offre de Crédit Classique, cliquez ici  
 A noter : La commande sera expédiée après l’étude du dossier complet du souscripteur et dès validation de la demande de financement par Banque Casino.  
-Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
+**Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.**  
+  
 
 *   \- par PayPal :
 
-Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d’utilisation de Paypal qui s’appliquent.
+Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d’utilisation de Paypal qui s’appliquent.  
+  
 
 *   \- par Carte Aurore :
     
@@ -157,12 +272,7 @@ Pour tout renseignement concernant cette carte veuillez contacter le GIE Aurore
 Pour tout renseignement supplémentaire, rendez-vous sur www.aurore.com.
 
   
-CDISCOUNT se réserve le droit de ne pas proposer un ou plusieurs des modes de paiement ci-dessous, pour tout motif légitime, notamment dans l’hypothèse où :   
-\- le partenaire de paiement ne propose plus le service considéré,  
-\- l’une de vos précédentes commandes n’aurait pas été intégralement payée à échéance,   
-\- un litige relatif au paiement d’une de vos précédentes commandes serait en cours de traitement,  
-\- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.  
-  
+CDISCOUNT se réserve le droit de ne pas proposer un ou plusieurs des modes de paiement ci-dessous, pour tout motif légitime, notamment dans l’hypothèse où : - le partenaire de paiement ne propose plus le service considéré,- l’une de vos précédentes commandes n’aurait pas été intégralement payée à échéance, - un litige relatif au paiement d’une de vos précédentes commandes serait en cours de traitement,- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.  
 
 **Bons d’achat**
 
