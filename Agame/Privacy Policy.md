@@ -13,6 +13,7 @@ Search
 *   Social Games
 *   Racing
 *   Action
+*   Valentine's Day
 *   Girls
 *   Sports
 *   Skill
@@ -174,7 +175,7 @@ Welcome to Agame.com, your zone to play free online games. Stocked each day with
   
 Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?
 
-  SPIL GAMES © 2012
+  SPIL GAMES © 2013
 
 Terms of Use | Privacy Policy | Privacy Policy, Kids &. Parents
 
