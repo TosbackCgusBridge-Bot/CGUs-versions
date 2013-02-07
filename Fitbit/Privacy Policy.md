@@ -43,7 +43,7 @@ Fitbit uses your personal information to:
 *   Deliver to you any administrative notices and communications relevant to your use of the Fitbit Products and Service;
 *   Provide you with updates regarding Fitbit Products and Services;
 *   Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity;
-*   Enforce the Fitbit Terms of Use.
+*   Enforce the Fitbit Terms of Use. and
 
 Disclosure to Third Parties
 
@@ -198,6 +198,7 @@ Services
 
 Explore
 
+*   Where to buy
 *   Affiliates
 *   Corporate Wellness
 *   Foods by Restaurant
