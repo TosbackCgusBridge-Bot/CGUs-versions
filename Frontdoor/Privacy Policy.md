@@ -8,7 +8,7 @@
 
 HGTV FrontDoor Search in: For Sale For Rent Article &. Videos Agents Search Oops! Loading your account  Log In with Facebook
 
-Log In  Sign Up
+Log In
 
 Your Account   Log Out Hi, Your Account   Log Out 
 
