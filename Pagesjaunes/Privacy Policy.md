@@ -873,6 +873,7 @@ A propos
 *   FAQ
 *   Aide
 *   Widgets PagesJaunes
+*   Souscrire de la publicité
 
 Retrouvez PagesJaunes sur Facebook
 
