@@ -8,7 +8,7 @@ Sign Up / Log In
 
 Privacy Policy PlayFirst, Inc. Online Privacy Policy
 
-Last updated November 9, 2012
+Last updated February 7, 2013
 
 Welcome to PlayFirst.com!
 
@@ -90,8 +90,6 @@ Social Log-In. We may allow you to log into our Site or access the Services by u
 Advertisements that are managed by third parties may be placed on our website. These companies are called "Network Advertisers." Network advertisers who may place advertisements on our websites may also use cookies and web beacons to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Finally, once you've clicked on an advertisement or third party logo and have left our websites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
 
 Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
-
-**We do not knowingly collect personal information from children under 13.**
 
 Q3 How is your personal information used and shared?
 
