@@ -111,7 +111,7 @@ Contact Us
 
 Bored.com
 
-**Welcome to Bored.com** your home for fun games. Our website is equipped with **thousands of flash games** that you can play for free, every day! Looking for something else to keep you from being bored? You can visit our microsites or browse Classic Bored.com with tons of unique and entertaining content that will cure your boredom! You can spend all day on Bored.com and not even scratch the surface.
+**Welcome to Bored.com** your home for fun games. Our website is equipped with **thousands of flash games** that you can play for free, every day! Looking for something else to do? You can visit our microsites or browse CLASSIC bored.com with tons of unique and entertaining content that will cure your boredom! You can spend all day on Bored.com and not even scratch the surface.
 
   
 
