@@ -2,9 +2,9 @@ Add Allergy Alerts to Your Desktop Add Allergy Alerts to Your Website Get Your 2
 
 *   Allergy Forecast
 *   Allergy History
-*   Weather
+*   Weather Forecast
 *   UV Forecast
-*   Cold&Cough Forecast
+*   Cold &. Flu Forecast
 *   2 City Comparison
 
 *   About Allergies
@@ -15,7 +15,6 @@ Add Allergy Alerts to Your Desktop Add Allergy Alerts to Your Website Get Your 2
 *   Community
 
 *   Allergy Alert Emails
-*   Allergy Alert for Desktop
 *   iPhone Allergy Alert App
 *   Android Allergy Alert App
 *   Pollen.com Mobile
