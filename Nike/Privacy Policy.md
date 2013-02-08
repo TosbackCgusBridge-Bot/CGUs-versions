@@ -1,5 +1,4 @@
-Skip Navigation NIKE Digital Privacy Policy  
-  
+Skip Navigation   Back GET HELP NIKE Digital Privacy Policy  
 
 Effective February 21, 2012
 
@@ -133,4 +132,10 @@ Terms of Use
 Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our Terms of Use. Please visit our Terms of Use, which explains other terms governing the use of our products and services.  
 
   
-For questions or concerns, please contact Consumer Services/Privacy at: 1-800-806-6453 or NIKE Consumer Services/Privacy, One Bowerman Drive, Beaverton, OR 97005.
+For questions or concerns, please contact Consumer Services/Privacy at: 1-800-806-6453 or NIKE Consumer Services/Privacy, One Bowerman Drive, Beaverton, OR 97005.  
+  
+  
+  
+
+  
+Stores Near You Get Help Terms of Use Privacy Policy  United States ©2013 NIKE, Inc. All Rights Reserved
