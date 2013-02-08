@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Tiny, adorable microcopter UAVs gives British troops handheld reconnaissance February 6, 2013
-*   BlackBerry Q10 won't land stateside until May or June February 6, 2013
-*   Apple sticks with jailbreaking-is-evil warning February 6, 2013
+*   U.S. Postal Service gives in to Internet. kills Saturday mail delivery February 7, 2013
+*   Raspberry Pi's $25 camera add-on inches closer, may come next month February 7, 2013
+*   Microsoft launches campaign targeting Gmail's privacy policies February 7, 2013
 
 PCWorld Articles
 
-*   Review: Use online data store Pastebin from the desktop with this handy portable app February 6, 2013
-*   Microsoft Surface Pro reviews: Device is good, not great, critics say February 6, 2013
-*   Box's new partner program could yield benefits to enterprise customers February 6, 2013
+*   Review: Start Menu 8 is a free Window 8 Start Menu par excellence February 7, 2013
+*   Microsoft Surface Pro may get battery-extending cover February 7, 2013
+*   Configure Windows Explorer's (or File Explorer's) Navigation pane February 7, 2013
 
   
 TechHive on Twitter (@TechHive)
