@@ -2,7 +2,7 @@ CNBC.com Privacy Policy
 
 BUSINESS NEWS
 
-| Friday, 11 May 2012 | 7:49 AM ET
+Friday, 11 May 2012 | 7:49 AM ET
 
 This Privacy Policy was last updated on January 11, 2012.  
 
