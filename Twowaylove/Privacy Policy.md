@@ -136,7 +136,7 @@ DATING DIRECTORY
     *   Top Referrers
     *   Twitter
 
-Directory >. Privacy Policy Privacy Policy
+. Facebook   Twitter   StumbleUpon   Pinterest   RSS   Contact   Contact   RSS Directory >. Privacy Policy Privacy Policy
 
 Privacy Policy Overview
 
@@ -206,7 +206,7 @@ Contact
 
 If you have any additional questions about this Policy, you are encouraged to contact TWL. Our contact information is: TwoWayLove, Zürichweg 7, 8153 Zürich, Switzerland. You can also send any enquiries via email to: info\[at\]twowaylove.com or you can use the contact form of this site.
 
-  Facebook   Twitter   StumbleUpon   Pinterest   RSS   Contact   Contact   RSS
+  . Facebook   Twitter   StumbleUpon   Pinterest   RSS   Contact   Contact   RSS
 
 *   Contact
 *   Newsletter
