@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   U.S. Postal Service gives in to Internet. kills Saturday mail delivery February 7, 2013
-*   Raspberry Pi's $25 camera add-on inches closer, may come next month February 7, 2013
-*   Microsoft launches campaign targeting Gmail's privacy policies February 7, 2013
+*   Play This! Podcast: Ni no Kuni, Michel Gondry, and replacement knees February 8, 2013
+*   Space station astronauts use robotic camera tripods to take long-exposure photos February 8, 2013
+*   Robot learns to interact with the help of school kids, sadly won’t learn to love February 8, 2013
 
 PCWorld Articles
 
-*   Review: Start Menu 8 is a free Window 8 Start Menu par excellence February 7, 2013
-*   Microsoft Surface Pro may get battery-extending cover February 7, 2013
-*   Configure Windows Explorer's (or File Explorer's) Navigation pane February 7, 2013
+*   Bush family email hacked: Here's a security refresher February 8, 2013
+*   Review: Batch rename all of your files and MP3 music with File Renamer February 8, 2013
+*   Discuss and organize team projects with Dispatch February 8, 2013
 
   
 TechHive on Twitter (@TechHive)
