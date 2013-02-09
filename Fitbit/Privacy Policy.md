@@ -149,11 +149,7 @@ If you have questions, comments, concerns or feedback regarding this Policy or a
 
 This policy was last updated on January 6, 2012.
 
-Close Select color
-
-Fitbit Ultra comes in two color options
-
-Blue/Black Plum/Black Fitbit
+Fitbit
 
 *   About Fitbit
 *   Blog
