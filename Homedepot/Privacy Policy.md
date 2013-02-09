@@ -1,149 +1,166 @@
-**The Home Depot Privacy and Security Statement**
+We know that your privacy is very important to you. That's why protecting any personal information, such as your name, address, e-mail address or phone number that you provide to us is of the utmost importance to The Home Depot, Inc. and its subsidiaries, divisions, affiliates, brands and other The Home Depot companies ("The Home Depot "). As a result, we have prepared this Privacy and Security Statement to let you know about the manner in which we collect, use, disclose and otherwise manage the personal information you entrust to us at any of our The Home Depot store locations (the "Stores"), through any The Home Depot Call Centers (the "Call Centers"), through The Home Depot websites (the "Sites"), or through our authorized service providers ("Service Providers").
 
-The Home Depot values and respects the privacy of its customers and visitors. The purpose of this Privacy and Security Statement is to provide you with information about how The Home Depot collects, uses, and shares the information we collect from our customers and visitors. It also describes the choices you can make about our use of your information. Our collection efforts are designed to improve the shopping experience of our customers and to provide customers relevant information about our products, services, and promotions. 
+When you provide personal information at our Stores, our Call Centers, our Sites and to our Service Providers, you are consenting to the manner in which The Home Depot will collect, use, disclose and otherwise manage your personal information, as set out below.
 
-About this Policy
+For purposes of this Privacy Statement, The Home Depot Canada, The Home Depot Mexico, and Home Decorators Collection are considered separate businesses. The Privacy Statements for these businesses may be viewed at www.homedepot.ca/privacy, www.homedepot.com.mx/privacy, and www.homedecorators.com/privacy.
 
-Information We Collect
+**Collection and Use of Personal Information**
 
-How Information is Collected
+We may collect personal information that you provide us when you:
 
-How We Use Information
+*   Purchase, order, return, exchange or request certain information about our products and services;
+*   Request a quote and/or purchase one of our home services for your home or office;
+*   Sign up or register for loyalty club membership communications or offerings;
+*   Rent tools, equipment and/or trucks from one of our Stores;
+*   Request warranty or product repair services;
+*   Contact a Call Center or customer service desk;
+*   Sign up for and/or register for a clinic or workshop;
+*   Visit or register with our Sites or participate in another feature of our Sites, such as a bulletin board;
+*   Enter into a contest or sweepstakes or respond to one of our surveys. or
+*   Provide us with comments or suggestions.  
+    
 
-Information Sharing
+We may also collect personal information about you from our Service Providers.
 
-Your Privacy Preferences
+**Shopping at The Home Depot:** 
 
-Our Sites and Children
+When you purchase products and services at one of our Stores, you can do so anonymously when you pay with cash. If you use a credit or debit card for any of your purchases, we will collect your credit or debit card information and keep a history of your purchases. We use this information to process your orders, to ensure proper delivery, to better assist you when you visit or call us as well as to improve our product and service offerings.
 
-Your California Privacy Rights
+When you return previously purchased merchandise or request a refund or exchange, you may be asked to give your name, address, phone number and show information that identifies you, such as your driver's license. We collect this information to help prevent fraud.
 
-Security
+**Home Services and Tool Rentals:** When you purchase home services you will be asked for information such as your name, address, e-mail address and phone number. You may also be asked for your credit or debit card details along with a shipping or installation address. This information will help ensure the proper delivery of the services you order from The Home Depot and our Service Providers and to better assist you when you call us. For other services, such as truck rentals or certain equipment rentals, we may request that you present additional personal information and identification, such as a driver's license and verification of insurance.
 
-Links
+**Call Centers:** When you call one of our Call Centers about a product, delivery, an installation, a billing question or for customer service, you may be asked for information that identifies you along with additional information we need to help us promptly answer your question, such as your name and address and a phone number where we might contact you. We may retain this information to assist you in the future.
 
-More Questions?
+**Online Registration:** Registration is an optional service provided by our Sites. You do not have to register to browse or shop online. When you register, you are asked for personal information such as your name, address, phone number, e-mail address, a password that you select, and optionally, your interests. Your registration information may be used to help make your online shopping quicker and easier, by pre-filling certain parts of your shopping information. When you register you will have the opportunity to sign up for future marketing information from The Home Depot.
 
-Changes to this Privacy and Security Statement
+**Contests, Questions or Surveys:** When you ask a question, participate in a survey or enter a contest or sweepstakes at a Store, a The Home Depot sponsored event or through our Sites, we may collect your name, address, phone number and e-mail address. We use this information to administer your participation in a contest or sweepstakes. At the time you are entering a contest or sweepstakes, we may ask your permission to send you future marketing information from The Home Depot.
 
-**About this Policy**
+**Other Uses of Personal Information:** The Home Depot uses personal information, including information provided to us from our Service Providers, to continually assess and improve the products and services we offer. We would also like to inform you of products and services, sales and special offers that might benefit you. When you register online or participate in a survey, you will have the opportunity to sign up for e-mails about our products, services, sales and special offers.
 
-This Privacy and Security Statement describes the privacy practices of The Home Depot, Inc. and its subsidiaries, divisions, affiliates, brands and other The Home Depot companies ("The Home Depot", “our”, or “we”).  It applies to our interactions with our customers and visitors, including, but not limited to:
+We may also send you mail, e-mail or call you with information about our product and service offerings if you have provided us with your name and address, e-mail address or phone numbers at our Stores, Call Centers or Sites. If you would like to stop receiving such promotional information from The Home Depot, please see the Privacy Preferences/Opt-Out section of this Privacy and Security Statement or go to www.homedepot.com/privacypreferences for further instructions on how to register your preferences.
 
-*   Use of our websites, including mobile websites
-*   Visits to our stores or attendance at one of our events 
-*   Use of our applications for mobile phones, tablets or other smart devices
-*   Phone and email communications
-*   Social media interactions on our websites and other third party websites like Facebook, YouTube and Twitter
-*   Viewing our online advertisements or emails
+**Privacy Preferences / Opt-Out:** We now offer an on-line privacy preference page at www.homedepot.com/privacypreferences where you can register or change your preferences to receive or not receive marketing materials sent by phone, e-mail and mail. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed.
 
-This Privacy and Security Statement does not apply to the practices of The Home Depot Canada, The Home Depot Mexico, Home Decorators Collection, or Red Beacon. The privacy policy for Canada is www.homedepot.ca/privacy. The privacy policy for Mexico is www.homedepot.com.mx/privacy. The privacy policy for Home Decorators Collection is www.homedecorators.com/privacy. The privacy policy for Red Beacon is www.redbeacon.com/about/privacy.  Also, this policy does not apply to third-party websites accessible through our websites.
+For purposes of this Privacy Statement, The Home Depot Canada, The Home Depot Mexico and Home Decorators Collection are considered separate businesses. If you have provided information directly to either of these businesses and want to register or change your preferences you must do so directly with that business. The Privacy Statements and privacy preference options for these businesses may be viewed at www.homedepot.ca, www.homedepot.com.mx and www.homedecorators.com.
 
-**Information We Collect**
+**Information about Others:** At our Stores, Call Centers or on some of the pages on our Sites, you can submit information about other people and compose personalized messages to them. For example, you can order The Home Depot Gift Cards and merchandise and send them directly to a friend along with a personalized message composed by you. We consider the information you submit and the content of your personalized message to be a private communication between you and the recipient. The Home Depot will not use or disclose any information you provide about someone else for any purpose other than:
 
-**Contact information.** We may collect the names and user names of our customers and other visitors.  Additionally, we may collect your purchase history, billing and shipping addresses, phone numbers, email addresses, and other digital contact information. We may also collect information that you provide us about others.
+1\. To ship the order and confirm delivery;
 
-**Payment information.**  When you make a purchase we collect your payment information, including information from your credit or debit card, check, PayPal account or gift card. If you apply for a The Home Depot credit card, we might collect information related to your application.
+2\. To identify or resolve technical problems or customer service issues;
 
-**Returns information.** When you return a product to our stores or request a refund or exchange, we may collect information from you and ask you to provide your government issued ID. We use the information we collect from you and capture off of your government issued ID to help prevent fraud.  To learn more about our Returns Policy, click here.
+3\. As required by law and to comply with a court order or other legal process;
 
-**Demographic information.** We may collect information about products or services you like, reviews you submit, or where you shop.  We might also collect information like your age or gender.
+4\. To respond to claims that your personalized messages violate the rights of third parties. and
 
-**Location information.**  If you use our mobile websites or applications, we may collect location data obtained from your mobile device's GPS.  If you use our websites, we may collect location data obtained from your IP address.  We use this location data to find our nearest store to you, product availability at our stores near you and driving directions to our stores.
+5\. To protect the rights or property of The Home Depot and its affiliates
 
-**Other information.** If you use our websites, we may collect information about the browser you are using.  We might track the pages you visit, look at what website you came from, or what website you visit when you leave us. 
+**Your Suggestions:** We use your feedback, suggestions, survey information and comments solely to monitor and/or improve the use and features of our Stores, Call Centers, our Sites and our product and service offerings.  
+  
+**California Privacy Rights:** Read full disclosure here.
 
-**How Information is Collected**
+**Protecting Childrens' Privacy:**
 
-**We collect information directly from you.**  The following are a few examples of when we collect information from you:
+The Home Depot Sites are not intended for use by children under the age of 18. We do not knowingly collect personal information from children under the age of 18.
 
-*   During website or survey registration
-*   In connection with an online or in-store purchase
-*   If you use an online forum, submit a question or answer to our Product Q &. A or provide us with comments or reviews
-*   If you upload a photo or other digital content through one of our websites or applications 
-*   If you register for a loyalty program or apply for a The Home Depot credit card
-*   If you participate in a sweepstakes, contest, clinic or workshop
-*   If you rent equipment or vehicles or request warranty or other information
-*   If you return a product or use a rebate
-*   If you request we send you an electronic copy of your in-store receipt
-*   In connection with your interactions with us as a registered user of our websites.  For example, when you use the features of our My Account tool like Express Checkout, Address Book, Shopping Lists, Project Lists, etc.
+More information for parents about our Kids Workshops can be obtained from your local Home Depot Store. We do not offer an online application for our Kids Workshops.
 
-**We collect information from you passively.** We may use tracking tools like browser cookies, flash cookies, and web beacons.  
+**Disclosure of Personal Information** 
 
-**We collect information from other sources**. We may get information about you from third party business partners, like an updated address from a shipping vendor.  We may collect information about you from a friend. For example, if your friend purchases something for us to send to you.
+**Personal Information Disclosure: The Home Depot will not trade, rent or sell your personal information, without your prior consent, except as otherwise set out herein.**
 
-**We collect information from Affiliates of The Home Depot.**  We may get information about you from a company controlled by, or under common control with, The Home Depot (our “Affiliates”). 
+**The Home Depot Financial Products:** The Home Depot uses Service Providers to offer financial products, such as the The Home Depot credit card and home improvement loan. We may share personal information about The Home Depot consumers with these Service Providers in order to provide you with tailored information about products and services and special offers. These Service Providers also have their own privacy statement that sets out the manner in which they will collect, use and disclose personal information. We encourage you to review each Service Provider's privacy statement at the time you submit your application for such services.
 
-**How We Use Information**
+**Extended Warranty Services:** If you purchase a The Home Depot Extended Warranty Service you will be required to provide information such as your name and address to our warranty Service Provider. While these Service Providers are limited by contract in the way they may use your information to provide The Home Depot Warranty Services, we encourage you to review the Service Provider's privacy statement at the time you submit your personal information for such services.
 
-We use the information we collect for our business purposes, including:
+**Data Sharing for Catalog Mailings:** We may share your name, address and transactional information about products you have purchased from our catalogs with third party companies so that you may receive future catalog offerings about products and services that may be of interest to you. If you prefer not to have your information shared with third party companies for this purpose, please see the section above entitled Privacy Preferences/Opt-Out.
 
-**To respond to your questions and requests.** Examples include:
+**Other Service:** In the U.S., to serve you better, we may combine the personal information that you give us on our Sites and at our Stores or through our catalogs with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
 
-1.  Fulfilling orders or providing services
-2.  Entering you into a sweepstakes or sending you prizes you might have won 
-3.  Registering you for a particular website, loyalty program, or extended warranty service or providing you with information regarding such programs or services
-4.  Processing a return (to learn more about our Returns Policy, click here.
-5.  Responding to a product or service review
+**Companies that work with or on behalf of The Home Depot:** Some of our operations, such as our call centers, may be managed by unaffiliated companies. Also, if you purchase home services from The Home Depot, these services may not be provided by The Home Depot associates, but rather by reputable local or national companies with which we contract to provide such services. These companies may have access to your personal information on a confidential basis only to the extent necessary to perform their functions. In no event will these companies have the right to use your personal information for any reason other than to provide you with those specific services.  Information provided by you will be used by The Home Depot and its Service Providers to learn about the experiences of our customers so that we may enhance our programs and improve our level of service.
 
-**To improve our products and services.** We may use your information to make website or product and service improvements.    
+If your purchases are being shipped to you, we will share your shipping information on a confidential basis with our delivery service providers (U.S. Postal Service, Canada Post, or other delivery companies we or you select). Our delivery service providers are prohibited from using your personal information for any purpose other than making the delivery.
 
-**To look at website trends and customer interests.** We might use your information to customize your experience with us. We may also combine information we get from you with information about you we have received from third parties to assess trends and interests.
+**Sale of Business:** The Home Depot reserves the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets to a third party acquirer.
 
-**For security purposes.** We may use your information to protect our company, our customers, or our websites.  For example, we might use cameras in our stores to track store traffic or our stock.
+**Legal:** Please note that The Home Depot must provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law. We may also disclose personal information to assist us in collecting a debt owed by you.
 
-**For our marketing.**  In certain circumstances, we may send you communications about special Home Depot promotions or offers. For example, if you have registered on a website and indicated you want to receive this information or if you gave us your information in one of our stores.  We may also notify you of new website features or product and service offerings.  If permitted, we may also send information about offers from our Affiliates and other companies we think you might find interesting.  To manage our communications with you, follow the instructions in the Your Privacy Preferences section, below.
+**Access to Personal Information**
 
-**To communicate with you about your account or our relationship.** We may contact you to tell you about changes to this Privacy and Security Statement, the Terms of Use of our websites or mobile applications, or changes to any of our programs in which you might be enrolled. We may also tell you about issues with your orders or if there is a product recall.
+You may request access to the personal information that we have about you. As a registered user with our Sites, you can access your profile information at any time by:
 
-**For other uses we may disclose to you.**
+1\. Clicking on the "Sign In" button at the top of any page on the Sites on which you registered, then
 
-**Information Sharing**
+2\. Clicking on the "Your Account" button on the page header or on the "Your Account" link under Customer Support.
 
-We may share your information for our business purposes and as legally required or permitted, including:
+For further instructions on accessing the personal information that The Home Depot may have about you, please see the How to Contact Us section of this Privacy and Security Statement.
 
-**With third parties who perform services on our behalf**. We share information with our service providers, such as our delivery service providers who ship and deliver your online orders. We might also authorize our service providers to collect information on our behalf.  Some service providers may be located outside of the United States.  We might also share information with the vendors and manufacturers of our products and services to respond to your reviews and questions.
+**Additional Information about Our Sites**
 
-    **With any successor to all or part of our business**.  For example, if all or part of our business is sold we may sell our customer list as part of that transaction.   **If we think we have to in order to comply with the law**.  For example, we will disclose information to respond to a court order or subpoena.  We may also disclose information if a government agency or investigatory body requests it.   **With our business partners.** For example, we might share information with one of our Affiliates or a business partner who is running a joint promotion with us or who provides a product or service in partnership with us.   
+**Visiting Our Sites**: In general, you can visit our Sites without telling us who you are or providing us with any information. However, we collect the IP (Internet protocol) addresses of all visitors to our Sites and other related information such as page requests, browser type, operating system and average time spent on our Sites. We use this information to monitor and improve our Sites.
 
-**To protect us.**  For example, we will disclose information if we suspect fraud.  We will also share information as part of an investigation.
+**Cookies:** Our Sites use a technology called "cookies". A cookie is a tiny element of data that our Sites can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. All pages on our Sites where you are prompted to log in or that are customizable require that you accept cookies. If you have registered with our Sites, these cookies (1) may let us know who you are, (2) are necessary to access your account information (stored on our computers) in order to deliver products and personalized services, and (3) will provide us and our service providers with information that we will use to personalize our Sites in accordance with your preferences. Cookies are also required to optimize your shopping experience in that they allow you to add multiple items to your shopping basket before checking out. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Sites.
 
-**At your direction.** For example, if you ask us to provide your information to a third-party to facilitate the resolution of a dispute.
+**Tracer Tags:** Our Sites may also use a technology called "tracer tags". These may also be referred to as "Clear GIFs" or "Web Beacons". This technology allows us to understand which pages you visit on our Sites. These tracer tags are used to help us optimize and tailor our Sites for you and other future website visitors.  
+  
+**Online Advertising:** We partner with third-party ad networks to deliver online advertising about our products and services when you visit our Sites or other websites on the Internet. These partnerships help us provide you with advertisements that are tailored to your particular interests, improve and optimize your experience on our Sites, and track the effectiveness of marketing efforts. To facilitate these online advertising efforts, our ad network partners may use cookies, web beacons and similar technologies to collect information about your activities on our Sites or other websites. You can choose not to have your information collected for this purpose. To learn more about online advertising based on this form of information collection, including how you can opt out of such collection, click here.
 
-**Your Privacy Preferences**
+**Third Party Links:** Our Sites may include links to the websites of our business partners, vendors and advertisers. Except as provided herein, we will not provide any of your personal information to these third parties without your prior consent.
 
-You can register or change your preferences to receive or not receive marketing communications from us by clicking www.homedepot.com/privacypreferences or emailing us.  Please allow sufficient time for your preferences to be processed.  Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, asking you to review a product or service you have ordered, or notifying you of product recalls.   If you later opt back into getting marketing communications from us, we will remove your information from our opt-out databases. 
+The Home Depot provides links to third party websites as a convenience to the user. The inclusion of any link does not imply The Home Depot's endorsement of any other company, its websites, or its products and/or services. These linked websites have separate and independent privacy policies, which we recommend that you read carefully. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose and otherwise treat your personal information.
 
-Registered website users can update their information at the Your Account section of our website. If you are not a registered website user, you can contact us by email.
+**Security of Personal Information**
 
-**Our Sites and Children** Our websites and mobile applications are not created for children.  To our knowledge we do not collect information online from children under 18.  If you are a parent or guardian and think we have information about your child, please email customercare@homedepot.com. To learn more about how to protect your child online, visit the FTC’s www.OnGuardOnline.gov.  You may also want to read the helpful information about children and privacy that the FTC provides by clicking here. **Your CA Privacy Rights**
+We will maintain the confidentiality of all personal information collected in our Stores, our Call Centers, our Sites and from our Service Providers and will only disclose such information to employees and Service Providers who require such information for the purposes described in this Privacy and Security Statement. We maintain administrative, technical and physical safeguards to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control.
 
-If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information.  You can make a request one time each year. 
+**Security Measures on Our Sites**
 
-To exercise your rights, you can email us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
+**Secure Shopping:** When you place orders on our Sites, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our Sites from capturing and viewing your personal information.
 
-**Security**
+The Home Depot also takes the following measures to protect your personal information online:
 
-When you place orders on our websites, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (SSL) technology. SSL technology causes your browser to encrypt your order information before transmitting it to our secure server. SSL technology, an industry standard, is designed to prevent someone other than operators of our websites from capturing and viewing your personal information.
+**Passwords:** To provide you with an increased level of security, online access to your personal information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. The Home Depot will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).
 
-While we use industry standard means to protect our websites and your information, the Internet is not 100% secure. The measures we use are appropriate for the type of information we collect. We cannot promise that your use of our websites or mobile applications will be completely safe.  We encourage you to use caution when using the Internet. Online access to your personal information is protected with a password you select. We strongly recommend that you do not share your password.
+**Order Information**: Since any order information you provide to us on our Sites will be transmitted using a secure connection, if your Web browser cannot support this level of security, you will not be able to order products through our Sites. The most recent versions of Netscape Navigator™ and Microsoft Internet Explorer® can support a secure connection and can be downloaded for free from the Netscape and Microsoft website respectively.
 
-**Links** Our websites contain links to third party websites.   If you click on one of those links, you will be taken to websites we do not control.  This Privacy and Security Statement does not apply to the information practices of those websites.  You should read the privacy policies of other websites carefully.  We are not responsible for third party websites. **More Questions?**
+No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from unauthorized access, use or disclosure, The Home Depot cannot ensure or warrant the security of any information you transmit to us on our Sites.
 
-If you have additional questions you can call us at 1-800-553-3199, fax us at 1-877-496-9470, or reach us by email at thdCustomerCare@homedepot.com.  You can write to us at:
+**Who We Are**
 
-The Home Depot
+The Home Depot is comprised of a family of companies and divisions brought together to provide you with a full suite of home or office improvement products and services.
 
-Attention: Privacy Official Customer Care
+Click here for more information
 
-2455 Paces Ferry Road
+**How to Contact Us**
 
-Atlanta, GA 30339-4024
+We want to assure you that The Home Depot is dedicated to protecting your privacy.
 
-**Changes to This Privacy and Security Statement**
+You can contact us or otherwise communicate your privacy concerns by:
 
-Effective Date: January 1, 2004
+*   calling us at 1-800-553-3199
+*   faxing us at 1-877-496-9470
+*   e-mailing us at customercare@homedepot.com
+*   accessing your registration information on our Sites
+*   registering or changing your privacy preferences at www.homedepot.com/privacypreferences
+*   writing us at the address below (please include your e-mail address and phone number with your correspondence along with the information needed to support your request):
 
-Last Revision Date: February \_\_, 2013
+For residents of the United States, Mexico and other countries: The Home Depot, Inc. Attention: Privacy Official Customer Care 2455 Paces Ferry Road Atlanta, GA 30339-4024 For residents of Canada: The Home Depot of Canada Inc. Attention: Privacy Official 900-1 Concorde Gate Toronto, Ontario M3C 4H9
 
-From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy and Security Statement by posting an updated copy on our website.  Please check our website periodically for updates.
+**Changes to the Privacy and Security Statement**
+
+To help you track the changes to our Privacy and Security Statement, a history of material changes to our Privacy and Security Statement will be noted here, beginning with changes published after January 1, 2004.
+
+October 27, 2004: Revised to identify the The Home Depot companies covered by this Privacy Statement and to add a new method for registering or changing your marketing preferences and opt-out information.
+
+November 1, 2005: Added "Data Sharing for Catalog Mailings" under the Disclosure of Personal Information section. A Data Sharing section has also been added to the privacy preferences page where individuals can opt-out of data sharing. This change applies only to catalog purchases.
+
+August 17, 2007: Click here to view a redlined version of the privacy policy for changes made on August 16, 2007.  
+  
+May 6, 2010: Revised to provide information related to online advertising.
+
+Copyright © 2010 Homer TLC, Inc. All Rights Reserved. The Home Depot is a registered trademark of Homer TLC, Inc.
+
+Pour la version française de la Déclaration sur la sécurité et la confidentialité.
+
+_Last updated: May 2010_
