@@ -203,13 +203,13 @@ This policy was last updated August 1, 2011
   
 More From National Geographic
 
+*   Quiz: Coal vs. Natural Gas
+    
 *   Exploring the Deep
     
 *   Video: Meet Mel
     
 *   Shipping Container Homes
-    
-*   Top Consuming Countries
     
 *   Sustainable Earth
     
@@ -221,11 +221,7 @@ More From National Geographic
     
 *   Photos: Great Barrier Reef
     
-*   Photo of the Day at 10
-    
 *   Population 7 Billion
-    
-*   Namibia's Parks Pictures
     
 *   Places of a Lifetime
     
