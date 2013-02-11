@@ -5,7 +5,6 @@ Skip to Content
 *   RR.com
 *   About Us
 *   Investor Relations
-*   Weather Updates
 
 *   Español
 *   Other Sites
