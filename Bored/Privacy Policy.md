@@ -1,4 +1,4 @@
-BORED.COM
+BORED.COM   Follow @boredcom
 
 *   Home
 *   Popular
