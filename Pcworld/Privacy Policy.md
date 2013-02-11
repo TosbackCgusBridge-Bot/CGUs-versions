@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
+*   Mobile payments are forecast to hit $1 trillion by 2015 February 9, 2013
 *   Everything you ever wanted to know about solid-state lasers February 9, 2013
-*   Review: NuVo Wireless Audio System takes a few steps forward, and a couple back February 9, 2013
 *   The ins and outs of the Windows Phone Store February 9, 2013
 
 PCWorld Articles
 
-*   Microsoft's SkyDrive users store 1 billion docs in its cloud February 9, 2013
-*   Google's Schmidt gets option to sell a chunk of his stock February 9, 2013
-*   Malware also the handiwork of children, security firm finds February 9, 2013
+*   Banking malware is getting sneaker, security firms warn February 10, 2013
+*   IBM supercomputer takes on new role in health arena February 10, 2013
+*   Facebook tags illustrator to overhaul expression symbols February 10, 2013
 
   
 TechHive on Twitter (@TechHive)
