@@ -72,4 +72,4 @@ Santa Barbara, CA 93111
 *     
     
 
-© 2012 Virtual World Computing, LLC
+© 2013 Virtual World Computing, LLC
