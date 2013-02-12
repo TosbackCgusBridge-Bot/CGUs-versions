@@ -84,7 +84,7 @@ Rachael Ray
 *   Email Newsletters
 *   Yum-o! charity
 
-Follow RachFacebook Twitter home PRIVACY POLICY
+Follow RachFacebook Twitter home Privacy Policy
 
 _**Last modified on March 13, 2008  
 **_
