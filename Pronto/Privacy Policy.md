@@ -1,92 +1,126 @@
 Pronto.com - shop everywhere, right here Sign Up |  Login Account |  Logout
 
 *   shop by category
-    *   Baby
+    *   Women
         
-        *   Baby
-        *   Baby Gear
-        *   Baby Clothing
-        *   Nursery Furniture &. Decor
-        *   Baby Bath &. Potty
-        *   Baby Feeding
-        *   Baby Health &. Safety
-        *   Baby Toys
-        *   Just for Mom
-        *   more...
-    *   Books, Movies, &. Music
-        
-        *   Books, Movies, &. Music
-        *   Music
-        *   DVD &. Blu-Ray Movies
-        *   Books
-    *   Clothing &. Accessories
-        
-        *   Clothing &. Accessories
+        *   Women
         *   Women's Clothing
-        *   Men's Clothing
-        *   Girls Clothing
-        *   Boys Clothing
-        *   Baby Clothing &. Access...
+        *   Shoes
+        *   Bags
+        *   Accessories
+        *   Beauty
         *   Other Style
-    *   Computers
+    *   Men
         
-        *   Computers
-        *   Laptops
-        *   Netbooks
-        *   Desktops
-        *   E-Book Readers &. Tablets
-        *   Computer Monitors
-        *   Projectors &. Screens
-        *   Computer Drives &. Storage
-        *   Computer Networking
-        *   more...
-    *   Electronics
+        *   Men
+        *   Men's Clothing
+        *   Men's Shoes
+        *   Men's Bags &. Briefcases
+        *   Men's Accessories
+        *   Men's Grooming
+    *   Baby &. Kids
         
-        *   Electronics
-        *   Cameras
-        *   TV &. Video
-        *   Audio
-        *   Car &. GPS
-        *   Phones
-        *   Computers &. Software
-        *   Alarm Clocks
-        *   Service &. Support
-        *   more...
-    *   Flowers, Food, &. Gifts
-        
-        *   Flowers, Food, &. Gifts
-        *   Beer &. Liquor
-        *   Cards &. Stationery
-        *   Chocolate &. Candy
-        *   Cigars &. Pipes
-        *   Coffee &. Tea
-        *   Desserts &. Sweets
-        *   Flowers &. Plants
-        *   Gift Baskets
-        *   more...
-    *   Health &. Beauty
-        
-        *   Health &. Beauty
-        *   Cosmetics
-        *   Fragrance
-        *   Bath &. Body
-        *   Skin Care
-        *   Hair Care
-        *   Personal Care
-        *   Health Care
-        *   Fitness Equipment
-        *   more...
+        *   Baby &. Kids
+        *   Baby &. Kids Clothing
+        *   Baby Gear
+        *   Baby &. Kids Furniture
+        *   Nursery Decor
+        *   Kids &. Baby Bedding &. ...
+        *   Baby Care
+        *   Baby Toys
+        *   Other Baby
     *   Home &. Garden
         
         *   Home &. Garden
-        *   Home Appliances
+        *   Kitchen &. Tabletop
         *   Furniture
         *   Home Decor
+        *   Bedding &. Bath
+        *   Home Appliances
         *   Lighting
-        *   Bath
-        *   Bed
-        *   Kitchen
-        *   Dining
+        *   Outdoor Living
+        *   Tools &. Hardware
+        *   more...
+    *   Technology
+        
+        *   Technology
+        *   TV &. Video
+        *   Audio
+        *   Cameras
+        *   Car &. GPS
+        *   Computers
+        *   Phones
+        *   Video Games
+        *   Other Electronics
+    *   Drugstore
+        
+        *   Drugstore
+        *   Personal Care
+        *   Medicine Cabinet
+        *   First Aid Kits
+        *   Bandages
+        *   Supports &. Braces
+        *   Vitamins &. Supplements
+        *   Maternity Vitamins &. N...
+        *   Home Medical Supplies
+        *   more...
+    *   Sports &. Fitness
+        
+        *   Sports &. Fitness
+        *   Team Sports
+        *   Individual Sports
+        *   Fan Shop
+        *   Fitness Equipment
+        *   Outdoor Sports
+        *   Water Sports Equipment
+    *   Automotive Tools &. Hardware
+        
+        *   Automotive Tools &. Har...
+        *   Auto Body Parts
+        *   Automotive Accessories
+        *   Automotive Tools &. Equ...
+        *   Tires &. Wheels
+        *   Other Automotive Tools...
+    *   Books &. Media
+        
+        *   Books &. Media
+        *   Books
+        *   Movies &. TV
+        *   Music
+        *   Video Games
+    *   Crafts &. Sewing
+        
+        *   Crafts &. Sewing
+        *   Art Supplies
+        *   Children's Arts &. Crafts
+        *   Crafts
+        *   Jewelry Making
+        *   Knitting &. Crochet
+        *   Needlework
+        *   Scrapbooking Supplies
+        *   Sewing &. Quilting Supp...
+        *   more...
+    *   Flowers &. Gifts
+        
+        *   Flowers &. Gifts
+        *   Flowers &. Plants
+        *   Cards &. Stationery
+        *   Gift Baskets
+        *   Gift Wrapping
+        *   Baby Gifts
+        *   Cigars &. Pipes
+        *   Other Flowers, Food, &...
+    *   Grocery &. Gourmet
+        
+        *   Grocery &. Gourmet
+        *   Beer &. Spirits
+        *   Beverages
+        *   Condiments
+        *   Meat &. Seafood
+        *   Baking &. Cooking Mixes
+        *   Snacks
+        *   Spices
+        *   Chocolate &. Candy
         *   more...
     *   Musical Instruments
         
@@ -100,64 +134,41 @@ Pronto.com - shop everywhere, right here Sign Up |  Login Account |  Logout
         *   Recording Equipment
         *   DJ &. Performing Equipment
         *   more...
-    *   Office &. School
+    *   Office &. Industrial
         
-        *   Office &. School
-        *   Office &. School Electr...
-        *   Office Furniture
+        *   Office &. Industrial
         *   General Office &. Schoo...
-        *   Ink, Toner &. Ribbons
+        *   Writing Instruments
         *   Paper Supplies
         *   Office Storage &. Organ...
-        *   Writing Instruments
+        *   Calculators
+        *   Paper Shredders
+        *   Office Furniture
         *   Other Office
-    *   Sporting Goods
+    *   Party &. Wedding Supplies
         
-        *   Sporting Goods
-        *   Baseball &. Softball Eq...
-        *   Basketball Equipment
-        *   Camping, Hiking, &. Cli...
-        *   Cycling Gear
-        *   Fitness Equipment
-        *   Football Equipment
-        *   Golf Equipment
-        *   Hockey Equipment
-        *   more...
-    *   Tools &. Hardware
+        *   Party &. Wedding Supplies
+    *   Pet Supplies
         
-        *   Tools &. Hardware
-        *   Automotive Tools &. Har...
-        *   Doors &. Windows
-        *   Electrical Tools &. Har...
-        *   Flooring
-        *   Hand Tools
-        *   Ladders
-        *   Lawn &. Gardening Tools
-        *   Lighting
-        *   more...
-    *   Toys &. Games
+        *   Pet Supplies
+        *   Dog Supplies
+        *   Cat Supplies
+        *   Bird Supplies
+        *   Fish Supplies
+        *   Reptile Supplies
+        *   Small Pet Supplies
+        *   Other Pet Supplies
+    *   Toys &. Hobbies
         
-        *   Toys &. Games
-        *   Action Figures
+        *   Toys &. Hobbies
+        *   Action Figures &. Vehicles
         *   Children's Arts &. Crafts
-        *   Blocks &. Building Sets
-        *   Card &. Board Games
+        *   Building Sets &. Blocks
         *   Dolls &. Stuffed Toys
+        *   Games &. Puzzles
         *   Educational Toys &. Games
-        *   Lawn Games
+        *   Outdoor Play
         *   Pretend Play &. Dress-Up
-        *   more...
-    *   Video Games
-        
-        *   Video Games
-        *   Xbox 360 Games, Access...
-        *   PS3 Games, Accessories...
-        *   PS Vita Games, Accesso...
-        *   Nintendo Wii Games, Ac...
-        *   Nintendo 3DS Games, Ac...
-        *   Nintendo DS Games, Acc...
-        *   PSP Games, Accessories...
-        *   PS2 Games, Accessories...
         *   more...
     *   Holidays
         
