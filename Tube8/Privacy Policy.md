@@ -3,7 +3,7 @@ X Login to Tube 8 Password Forgot password ? Resend activation email ? Not a mem
 *   Home
 *   Categories
 *   Tags
-*   Premium
+*   Premium HD
 *   Live Girls
 *   Fuck Date
 
@@ -28,6 +28,7 @@ All Tube8AmateurAnalAsianBlowjobEbonyEroticFetishHardcoreIndianLatinaLesbianMatu
 *   18 USC 2257 Statement
 *   Content Partner Program
 *   Privacy Policy
+*   Parental Control
 
 TERMS OF USE
 
@@ -69,7 +70,7 @@ Tube8 allows/permits you to link to materials on the Website for personal, non-c
   
 You shall be solely responsible for any and all of your own User Submissions and the consequences of posting, uploading and publishing them. Furthermore, with User Submissions, you affirm, represent and/or warrant that:
 
-1.     you own or retain the necessary licenses, rights, consents, and permissions to use and authorize Tube8 to use all trademarks, copyrights, trade secrets, patents, or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the Website and these Terms of Service. and
+1\.      you own or retain the necessary licenses, rights, consents, and permissions to use and authorize Tube8 to use all trademarks, copyrights, trade secrets, patents, or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the Website and these Terms of Service. and
 
 2.     you will not post, or allow anyone else to post, any material that depicts any person under the age of 18 years and you have inspected and are maintaining written documentation sufficient to confirm that all subjects of your submissions are, in fact, over the age of 18 years.
 
@@ -249,7 +250,7 @@ Tube8.com username you created.
 
 Email us at affiliate@tube8.com
 
-PRIVACY POLICY
+Parental Control Tube 8 is rated with RTA. Parents, you can easily block access to this site. Please read this page for more information. PRIVACY POLICY
 
 This document details important information regarding the use and disclosure of User Data collected on Tube8.com The security of your Data is very important to Tube8.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
@@ -319,6 +320,7 @@ You are entitled to access and correct your Data by doing so directly on the web
 *   MOBILE PORN
 *   SITEMAP
 
+*   FEEDBACK FORUM
 *   CONTENT PARTNER PROGRAM
 *   PRIVACY POLICY
 
