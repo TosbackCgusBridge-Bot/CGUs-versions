@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Mobile payments are forecast to hit $1 trillion by 2015 February 9, 2013
-*   Everything you ever wanted to know about solid-state lasers February 9, 2013
-*   The ins and outs of the Windows Phone Store February 9, 2013
+*   This Week in Space: Astronaut serenades Earth, Curiosity drills into Mars February 11, 2013
+*   Samsung smart cameras with built-in Wi-Fi now available February 11, 2013
+*   Google plugs Nexus 4 and Google Now in Grammys ad February 11, 2013
 
 PCWorld Articles
 
-*   Banking malware is getting sneaker, security firms warn February 10, 2013
-*   IBM supercomputer takes on new role in health arena February 10, 2013
-*   Facebook tags illustrator to overhaul expression symbols February 10, 2013
+*   Microsoft Surface Pro sell-out flap: Is the tablet really that popular? February 11, 2013
+*   App Spotlight: DialMyCalls automates group calling, texting February 11, 2013
+*   Half of online shoppers may buy via social networks by 2015 February 11, 2013
 
   
 TechHive on Twitter (@TechHive)
