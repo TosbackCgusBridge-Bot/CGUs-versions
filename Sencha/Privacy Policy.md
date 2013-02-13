@@ -2,10 +2,10 @@ Skip Navigation
 
 *   Products
     *   Sencha Complete
-    *   Sencha Complete: Team
     *   Sencha Architect
-    *   Sencha Ext JS
     *   Sencha Touch
+    *   Sencha Ext JS
+    *   Sencha Desktop Packager
     *   Sencha GXT
     *   Sencha Animator
     *   Sencha.io
@@ -29,9 +29,9 @@ Skip Navigation
 *   Contact
 *   Store
     *   Sencha Complete
-    *   Sencha Complete: Team
     *   Sencha Architect
     *   Sencha Ext JS
+    *   Sencha Desktop Packager
     *   Sencha Touch Support
     *   Sencha GXT
     *   Sencha Animator
@@ -46,6 +46,7 @@ Skip Navigation
 *   Documentation
     *   Ext JS 4
     *   Ext JS 3
+    *   Desktop Packager
     *   Sencha GXT 3
     *   Sencha Touch 2
     *   Sencha Touch 1
@@ -159,10 +160,10 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 *   Products
     *   Sencha Complete
-    *   Sencha Complete: Team
     *   Sencha Architect
-    *   Sencha Ext JS
     *   Sencha Touch
+    *   Sencha Ext JS
+    *   Sencha Desktop Packager
     *   Sencha GXT
     *   Sencha Animator
     *   Sencha.io
