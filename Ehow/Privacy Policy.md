@@ -31,6 +31,8 @@ If you are not comfortable with this Privacy Policy or our Terms of Use, please 
     
     **Collection of Information by Third Parties**. Our Site may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. We do not provide any PII to these advertisers, third-party websites, or other businesses, although on occasion we may mutually share non-personally identifiable (e.g. demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology.
     
+    Click here to adjust your advertising preferences
+    
     **Promotions, Sweepstakes, and Contests**. From time to time, we may host a promotion, sweepstake, or contest on the Site. You may be asked to provide PII or permit the transfer to a third party of your PII in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collecting or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer or collection of PII to a third party.
     
 2.  What Does eHow Do With Collected Information?
@@ -89,4 +91,4 @@ If you are not comfortable with this Privacy Policy or our Terms of Use, please 
 
 Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
 
-Copyright © 2011. Demand Media, Inc.
+Copyright © 2013. Demand Media, Inc.
