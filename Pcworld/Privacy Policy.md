@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   This Week in Space: Astronaut serenades Earth, Curiosity drills into Mars February 11, 2013
-*   Samsung smart cameras with built-in Wi-Fi now available February 11, 2013
-*   Google plugs Nexus 4 and Google Now in Grammys ad February 11, 2013
+*   New Broadcom chip paves way for faster mobile data, voice over LTE February 12, 2013
+*   Cuddlebot might be the closest we ever get to real-life tribbles February 12, 2013
+*   Cloudrobots: Rock 'Em Sock 'Em Robots reborn February 12, 2013
 
 PCWorld Articles
 
-*   Microsoft Surface Pro sell-out flap: Is the tablet really that popular? February 11, 2013
-*   App Spotlight: DialMyCalls automates group calling, texting February 11, 2013
-*   Half of online shoppers may buy via social networks by 2015 February 11, 2013
+*   Bill Gates offers candid answers during Reddit's ask-me-anything-session February 12, 2013
+*   Facebook sued over 'Like' button by Dutch programmer's family February 12, 2013
+*   Microsoft to support Surface Pro tablet until 2017 February 12, 2013
 
   
 TechHive on Twitter (@TechHive)
