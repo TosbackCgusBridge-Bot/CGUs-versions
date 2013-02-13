@@ -177,6 +177,7 @@ Help
 *   Fitbit Online Help
 *   Returns &amp Warranty
 *   Setup &. Downloads
+*   Supported Syncing Devices
 
 Device Help
 
@@ -265,6 +266,8 @@ Have one of these devices? Download the Fitbit App from the App Store to sync yo
 *   **iPhone 4s** (and later)
 *   **iPad 3rd generation** (and later)
 *   **iPod Touch 5th generation** (and later)
+*   **Samsung Galaxy S III**
+*   **Samsung Galaxy Note II**
 
 Don't have one of the devices above? Get the Fitbit App to view the data from your most recent sync with your computer.
 
@@ -294,6 +297,9 @@ Zip can also sync with select Bluetooth(r) Smart mobile devices. We currently su
 
 *   **iPhone 4s** (and later)
 *   **iPad 3rd generation** (and later)
+*   **iPod touch 5th generation** (and later)
+*   **Samsung Galaxy S III**
+*   **Samsung Galaxy Note II**
 
   
   
