@@ -203,6 +203,8 @@ This policy was last updated August 1, 2011
   
 More From National Geographic
 
+*   Help Save the Colorado River
+    
 *   Quiz: Coal vs. Natural Gas
     
 *   Exploring the Deep
@@ -210,8 +212,6 @@ More From National Geographic
 *   Video: Meet Mel
     
 *   Shipping Container Homes
-    
-*   Sustainable Earth
     
 *   Visualizing Our Water Footprint
     
