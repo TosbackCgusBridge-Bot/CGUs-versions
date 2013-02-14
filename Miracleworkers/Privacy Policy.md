@@ -1,12 +1,13 @@
-Employers: Post a Job Already Registered? Sign In >. >.
+Already Registered? Sign In >>.
 
 *   Home
+*   Search Jobs
 *   My MiracleWorkers
-*   Find Jobs
-*   Post Resume
-*   Advice &. Resources
-*   Videos
+*   My Recommended Jobs
 *   All Jobs
+*   Advice &. Resources
+*   Employers Post a Job
+*   Sign In >>.
 
 Protect Your Privacy and Safety
 
@@ -290,46 +291,12 @@ Please be advised that CareerBuilder will never initiate a request for your pers
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
 
-MiracleWorkers.com
+© 2013 MiracleWorkers.com. All Rights Reserved. Customer Service: (877) 270-6318
 
-*   About Us
-*   Terms &. Conditions
-*   Privacy Guidelines
+Contact Us|Terms &. Conditions|Privacy Guidelines
 
-Top Categories
+Partner Sites: Therapy Jobs | Nursing Jobs | Allied Health Jobs | Job Search | IT Jobs | Management &. Executive Jobs
 
-*   Therapy Jobs
-*   Nursing Jobs
-*   Administrative Jobs
-*   Allied Health Jobs
-*   Dental Jobs
-*   Critical Care Jobs
-*   Imaging/Screening Jobs
-*   Mental Health Jobs
-*   Nursing Home/Care Jobs
-*   Hospice Jobs
-*   All Healthcare Categories
-
-Partner Sites
-
-*   Therapy Jobs
-*   Nursing Jobs
-*   Allied Health Jobs
-*   Job Search
-*   IT Jobs
-*   Management &. Executive Jobs
-*   Internships
-*   Retail Jobs
-*   Restaurant Jobs
-*   UK Nursing Jobs
-*   Jobs For Veterans
-
-Job Seeker Services
-
-*   Salary Calculator
-*   Resume Writing
-*   Free Career Test
-*   CB Institute
-*   Healthcare Talent Networks
+Internships | Retail Jobs | Restaurant Jobs | UK Nursing Jobs | Jobs For Veterans
 
 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
