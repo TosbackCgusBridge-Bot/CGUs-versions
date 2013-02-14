@@ -211,7 +211,7 @@ Thank you for your business.
 
 If you would like to submit a Purchase Order, please fax it to (866) 513-2570, or contact us:
 
-By Phone: 877-WAYFAIR (929-3247) or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594  
+By Phone: 877-WAYFAIR (877-929-3247) or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594  
 For Purchase Orders - (866) 513-2570 By Mail: Wayfair  
 177 Huntington Avenue, Suite 6000  
 Boston, MA   02115
