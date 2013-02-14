@@ -143,15 +143,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   New Broadcom chip paves way for faster mobile data, voice over LTE February 12, 2013
-*   Cuddlebot might be the closest we ever get to real-life tribbles February 12, 2013
-*   Cloudrobots: Rock 'Em Sock 'Em Robots reborn February 12, 2013
+*   PixelTone is an image editing app that takes voice commands February 13, 2013
+*   Opera switches to WebKit to develop new mobile, desktop browsers February 13, 2013
+*   RFLKT bike computer taps your iPhone's cycling potential February 13, 2013
 
 PCWorld Articles
 
-*   Bill Gates offers candid answers during Reddit's ask-me-anything-session February 12, 2013
-*   Facebook sued over 'Like' button by Dutch programmer's family February 12, 2013
-*   Microsoft to support Surface Pro tablet until 2017 February 12, 2013
+*   Researchers: Zero-day PDF exploit affects Adobe Reader 11, earlier versions February 13, 2013
+*   iFixit's Surface Pro teardown shows repairs won't be easy February 13, 2013
+*   Review: Autostarter X3 automates your regular computer operations with batch files February 13, 2013
 
   
 TechHive on Twitter (@TechHive)
