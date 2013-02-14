@@ -213,9 +213,9 @@ The Privacy Policy posted on this Site was updated on or about May 11, 2009.
 *   About PBS
 *   Donate
 *   TV Schedules
-*   Career Oportunities
+*   Career Opportunities
 *   Feedback
 *   Privacy Policy
 *   Terms of Use
 
-Copyright© 1995 – 2009 Public Broadcasting Service (PBS). All rights reserved.
+Copyright© 1995 – 2013 Public Broadcasting Service (PBS). All rights reserved.
