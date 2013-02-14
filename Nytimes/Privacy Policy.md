@@ -9,9 +9,9 @@ Edition: U.S. / Global Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on January 28, 2013_
+_Last Updated on February 13, 2013_
 
-This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, our mobile messaging services, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
+This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
 The New York Times Replica Edition, which is maintained by NewspaperDirect, maintains its own Privacy Policy.
 
@@ -49,7 +49,7 @@ _**Personal Information That You Give Us**_
 **Registration Information  
 **
 
-Registration for the NYT Services requires that you supply certain personal information, including, in most cases, a unique e-mail address and demographic information (ZIP code, age, sex, household income (optional), job industry and job title) to register. Purchases made through the NYT Services require that you supply your name, address, telephone number, e-mail address, credit card number or other billing information.
+Registration for the NYT Services may require that you supply certain personal information, including a unique e-mail address and demographic information (ZIP code, age, sex, household income, job industry and job title) to register.
 
 You may choose to log in, create an account or enhance your profile at NYTimes.com through the Facebook Connect feature on NYTimes.com. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the Facebook interface. After you have connected, Facebook also sends us additional information from your profile that allows us to display a Facebook module on the pages you view.
 
@@ -57,7 +57,7 @@ To disassociate your NYTimes.com registration from third party accounts, please 
 
 **Billing and Credit Card Information**
 
-To enable payment and donations on the NYT services, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
+To enable payment and donations on the NYT services, we collect and store name, address, telephone number, e-mail address, credit card information and other billing information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
 
 **User Generated Content and Public Activities (Including Comments, Reader Reviews and TimesPeople)**
 
@@ -79,21 +79,17 @@ Members of our Reader Panels agree to participate in surveys, polls or discussio
 
 **Special Events and Promotions**
 
-We often receive information regarding readers who may attend Times Talks, Arts &. Leisure Weekend and other New York Times Special Events and Promotions from sign-in and registration lists. Unless we indicate otherwise at the time we collect the information, we will use such information in accordance with our Privacy Policy.
-
-**Mobile Messaging Service**
-
-The New York Times uses the information collected from your interaction with The New York Times by Text Messaging Service (SMS) ("SMS Service") solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed to Third Parties, except as required by law, nor will we use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage, and their practices are governed by their own privacy policies.
-
-The New York Times collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The New York Times. When you send a text message to The New York Times or via The New York Times, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The New York Times uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service.
+We often receive information regarding readers who may attend Times Talks, Arts &. Leisure Weekend and other New York Times conferences, events and promotions from sign-in and registration lists. Unless we indicate otherwise at the time we collect the information, we will use such information in accordance with our Privacy Policy.
 
 _**Non-Personal Information Collected Using Technology**_
 
 **Information Collected by Us Using Technology**
 
+We use various Internet technologies to manage the NYT Services and track use of the Services. Non-personal information that we collect using these technologies may be combined with other information about you.
+
 **Device Information.** We may collect non-personal information about the computer, mobile device or other device you use to access the NYT Services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-**Cookies.** In providing the NYT Services, we use "cookies," Web beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including NYTimes.com, if your computer does not accept cookies from us. For more detailed information about our use of cookies, see Frequently Asked Questions About Cookies in our Help section.
+**Cookies, Beacons, Local Storage and Other Similar Technologies.** In providing the NYT Services, we use "cookies," Web beacons, HTML5 local storage and other similar technologies to manage access to and use of the Services, recognize you and provide personalization, as well as to help us understand where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including NYTimes.com, if your computer does not accept cookies from us. For more detailed information about our use of cookies and local storage, and how to manage them, see Frequently Asked Questions About Cookies and Similar Technologies in our Help section.
 
 The New York Times Home Delivery Web site also transmits non-personally identifiable Web site usage information about visitors to the servers of a reputable third party for the purpose of targeting our Internet banner advertisements on other sites. To do this, we use Web Beacons in conjunction with cookies provided by our third-party ad server on this site. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please click here.
 
@@ -159,7 +155,7 @@ The New York Times will periodically send you e-mail newsletters or promotional 
 
 **The New York Times**
 
-Except in the case of SchoolBook (www.nytimes.com/schoolbook), if you have registered to use the NYT Services, we will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. If you have registered for Schoolbook, we will share your registration information with WNYC, as we discuss here. WNYC’s privacy policy can be found here.
+If you have registered to use the NYT Services, we will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission.
 
 We also share information about our audience in aggregate or de-identified form. Nothing in this Privacy Policy is intended to restrict The New York Times's use of aggregated or de-identified information in any way.
 
@@ -229,9 +225,9 @@ If, at any time, you prefer not to receive mail or telephone solicitations origi
 
 **IS MY INFORMATION PROTECTED?**
 
-**Data Security:** To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place commercially reasonable physical, technical and administrative controls to protect the information. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place commercially reasonable physical, technical and administrative controls to protect the information. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
-**OTHER INFORMATION:**
+**OTHER INFORMATION**
 
 **Compliance With Legal Process  
 **
@@ -240,9 +236,9 @@ We may disclose personal information if we are required to do so by law or we ha
 
 **Children's Guidelines**
 
-**COPPA Compliance:** Except for The Learning Network (see below), The New York Times does not knowingly collect or store any personal information about children under the age of 13.
+**COPPA Compliance.** Except for The Learning Network (see below), The New York Times does not knowingly collect or store any personal information about children under the age of 13.
 
-**The Learning Network:** The Learning Network is a free service for parents, teachers and students, and does not require registration. The Student Connections section is specifically directed at students, grades 6 to 12. Within this section, the Ask a Reporter page and the Student Letters page allow students to either send a question to a Times reporter or submit a letter to the editor, providing their first name, grade, state/country and, optionally, their e-mail address. The information requested on these pages is used solely for participation in these activities, and is not shared or sold to third parties. If an e-mail address is provided, it will only be used for a one-time response back to the child. After responding to the child, the e-mail address is deleted. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we're concerned about a parent's right to consent to the collection and use of their child's personal information, when a question or letter is published, only the student's first name, grade and state/country appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please use this form to contact the Learning Network.
+**The Learning Network.** The Learning Network is a free service for parents, teachers and students, and does not require registration. The Student Connections section is specifically directed at students, grades 6 to 12. Within this section, the Ask a Reporter page and the Student Letters page allow students to either send a question to a Times reporter or submit a letter to the editor, providing their first name, grade, state/country and, optionally, their e-mail address. The information requested on these pages is used solely for participation in these activities, and is not shared or sold to third parties. If an e-mail address is provided, it will only be used for a one-time response back to the child. After responding to the child, the e-mail address is deleted. Access to the above services is not conditioned on more information than is reasonably necessary to provide the services. Because we're concerned about a parent's right to consent to the collection and use of their child's personal information, when a question or letter is published, only the student's first name, grade and state/country appear on the site. To request removal of this information (non-personally identifiable) or to review or remove the optional e-mail address (personal information collected), please use this form to contact the Learning Network.
 
 These children's guidelines have been developed with the recognition that Internet technology evolves rapidly and that underlying business models are still not established. Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practice with respect to the use of children's personal information, the changes will be posted on this page thirty days prior to taking effect and will not affect children's personal information previously collected.
 
