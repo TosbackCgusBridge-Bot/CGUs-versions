@@ -72,7 +72,7 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 Privacy Policy Updates
 
-If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you. Changes take effect 30 days after they are posted to the Site. This policy was last updated effective March 18, 2013.
+If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you. Changes take effect 30 days after they are posted to the Site. This policy was last updated effective March 21, 2013.
 
 Questions
 
