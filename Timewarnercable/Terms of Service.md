@@ -20,7 +20,7 @@ Skip to Content
     
     Our services may not be available in your area
     
-    Please enter the ZIP Code for your location. If you entered your ZIP Code correctly, visit cablemover.com to contact the cable company serving your area.
+    You are visiting from an area we don’t currently service. Please enter your home ZIP Code, or visit CableMover.com to find a provider in your area.
     
     Cookies are not enabled
     
