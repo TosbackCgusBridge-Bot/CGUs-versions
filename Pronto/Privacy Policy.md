@@ -321,27 +321,13 @@ Search our site All CategoriesApparelAppliancesAutomotiveBabyBooksComputerElectr
 *   Shop Local
 *   About Us
 *   In the News
+*   MegaDeal.jp
+
 *   Privacy Policy
 *   Terms of Service
 *   Help
 *   Site Map
 
-International Sites:
-
-*   MegaDeal.jp
-*   Dealecke.de
-*   Superprix.com
-*   DealHop.co.uk
-
-Partner Sites:
-
-*   The Writers Network
-*   Home and Garden Ideas
-*   Beauty &. Style
-*   Money &. Business
-*   doGift
-*   Sports and Fitness Ideas
-
 Though we strive to provide accurate information, Pronto is not responsible for any errors in product related information on our service and we encourage you to verify any such information with each merchant. Please report any errors in pricing or information that you see on Pronto.
 
-© 2005 - 2012 Pronto LLC All rights reserved.
+© 2005 - 2013 Pronto LLC All rights reserved.
