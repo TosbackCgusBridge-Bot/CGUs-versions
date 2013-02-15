@@ -21,10 +21,12 @@ Enter Keyword or Item # Search
 *   Women
     
     *   New Arrivals
-    *   Outerwear
+    *   Swimsuits
         *   Regular
         *   Petite
         *   Plus Size
+        *   Petite Plus
+        *   Tall
     *   Knit Tops, Polos &. Turtlenecks
         *   Regular
         *   Petite
@@ -56,12 +58,10 @@ Enter Keyword or Item # Search
         *   Regular
         *   Petite
         *   Plus Size
-    *   Swimsuits
+    *   Outerwear
         *   Regular
         *   Petite
         *   Plus Size
-        *   Petite Plus
-        *   Tall
     *   Sleepwear
         *   Regular
         *   Petite
@@ -78,10 +78,6 @@ Enter Keyword or Item # Search
 *   Men
     
     *   New Arrivals
-    *   Outerwear
-        *   Regular
-        *   Big
-        *   Tall
     *   Pants
         *   Regular
         *   Tall
@@ -89,6 +85,7 @@ Enter Keyword or Item # Search
         *   Regular
         *   Big
         *   Tall
+    *   Shorts &. Swimwear
     *   Sweaters
         *   Regular
         *   Big
@@ -108,11 +105,14 @@ Enter Keyword or Item # Search
     *   Shoes
         *   Regular
         *   Wide
+    *   Outerwear
+        *   Regular
+        *   Big
+        *   Tall
     *   Socks &. Underwear
     *   Sleepwear
         *   Regular
         *   Tall
-    *   Shorts &. Swimwear
     *   Belts &. Accessories
     *   Activewear
         *   Regular
@@ -123,7 +123,7 @@ Enter Keyword or Item # Search
     
     *   Girls
         *   New Arrivals
-        *   Outerwear
+        *   Swim
             *   Big Kid (7 - 16)
             *   Little Kid (4 - 6x)
             *   Toddler (2T - 4T)
@@ -153,19 +153,19 @@ Enter Keyword or Item # Search
             *   Big Kid (1 - 7)
             *   Little Kid (9 - 13)
             *   Toddler (5 - 8)
-        *   Backpacks, Lunch Boxes &. Luggage
-            *   Big Kid (7 - 16)
-            *   Little Kid (4 - 6x)
-        *   Swim
+        *   Outerwear
             *   Big Kid (7 - 16)
             *   Little Kid (4 - 6x)
             *   Toddler (2T - 4T)
+        *   Backpacks, Lunch Boxes &. Luggage
+            *   Big Kid (7 - 16)
+            *   Little Kid (4 - 6x)
         *   School Uniforms
         *   Sale
     
     *   Boys
         *   New Arrivals
-        *   Outerwear
+        *   Swim
             *   Big Kid (8 - 20)
             *   Little Kid (4 - 7)
             *   Toddler (2T - 4T)
@@ -193,13 +193,13 @@ Enter Keyword or Item # Search
             *   Big Kid (1 - 7)
             *   Little Kid (9 - 13)
             *   Toddler (5 - 8)
-        *   Backpacks, Lunch Boxes &. Luggage
-            *   Big Kid (8 - 20)
-            *   Little Kid (4 - 7)
-        *   Swim
+        *   Outerwear
             *   Big Kid (8 - 20)
             *   Little Kid (4 - 7)
             *   Toddler (2T - 4T)
+        *   Backpacks, Lunch Boxes &. Luggage
+            *   Big Kid (8 - 20)
+            *   Little Kid (4 - 7)
         *   School Uniforms
         *   Sale
 *   Swim
@@ -296,6 +296,7 @@ Enter Keyword or Item # Search
     *   Decorative Pillows &. Home Décor
     *   Seasonal Décor &. Gifts
     *   Bath
+    *   Beach Towels
     *   Outdoor Living
     *   Furniture
     *   Kids' Home
