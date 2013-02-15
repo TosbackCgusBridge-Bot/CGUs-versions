@@ -51,6 +51,8 @@ Legal Information
 
 Privacy policy
 
+Last revised February 13, 2013.
+
 This Privacy Policy describes the information collected by OkCupid.com, operated by Humor Rainbow, Inc., (**we**, **us** or **OkCupid**), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
@@ -107,7 +109,7 @@ With whom we share your information
 
 **Personal information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-**Service providers:** We may share your personal information, which may include your name and contact information (including email address), with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+**Service providers:** We may share your personal information, which may include your name and contact information (including email address), with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service (including through our users who moderate flagged content for the OkCupid community) and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
 **Other IAC businesses.** We are part of the IAC family of businesses (go to www.iac.com for a listing of these businesses). IAC’s businesses include the online dating websites match.com, chemistry.com, singlesnet.com, datehookup.com and the websites operated by People Media (ourtime.com, seniorpeoplemeet.com, blackpeoplemeet.com and other sites listed on peoplemedia.com). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with the IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the IAC Consumer Privacy statement.
 
@@ -121,7 +123,7 @@ When we believe disclosure is appropriate in connection with efforts to investig
 
 In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-**Anonymized and non-personally-identifiable information.** We may share non-personally-identifiable information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites of third parties, and to analyze and report on advertising you see. We may combine non-personally-identifiable information we collect with additional non-personally-identifiable information collected from other sources. We also may share anonymized, non-personally-identifiable information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business and other analysis.
+**Anonymized and non-personally-identifiable information.** We may share non-personally-identifiable information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites of third parties, and to analyze and report on advertising you see. We may combine non-personally-identifiable information we collect with additional non-personally-identifiable information collected from other sources. We also may share anonymized, non-personally-identifiable information with third parties, including advisors, writers, researchers, partners, advertisers and investors. This data may be used for commercial and research purposes and analysis, including for studies, articles, and essays, as well as media and entertainment purposes.
 
 back to top
 
@@ -229,12 +231,12 @@ Or visit us in your mobile browser.
 *   Help
 *   Careers
 *   Press
-*   Legal\*
+*   Legal
 *   Success
 *   Tests
 *   OkTrends
 
-OkCupid © 2013 \*Privacy policy revised Nov. 1, 2012 Free online dating
+OkCupid © 2013 Free online dating
 
 *   Local dating
 *   Jewish dating
