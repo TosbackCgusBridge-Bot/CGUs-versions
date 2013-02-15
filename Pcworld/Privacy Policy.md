@@ -4,6 +4,7 @@
     *   **Macworld**
 *   **Custom Content**
     *   **Content Portfolio**
+    *   **Video Examples**
 *   **Specs &. Dates**
     *   **Digital Specs**
     *   **PCWorld Magazine**
@@ -14,7 +15,7 @@
     *   **Permissions**
     *   **Press**
 
-NavigationOur BrandsTechHivePCWorldMacworldCustom ContentContent PortfolioSpecs &. DatesDigital SpecsPCWorld MagazineMacworld MagazineRatesContact UsEditorial TeamPermissionsPress PCWorld Privacy Policy About Ad Choices  About Our Advertising
+NavigationOur BrandsTechHivePCWorldMacworldCustom ContentContent PortfolioVideo ExamplesSpecs &. DatesDigital SpecsPCWorld MagazineMacworld MagazineRatesContact UsEditorial TeamPermissionsPress PCWorld Privacy Policy About Ad Choices  About Our Advertising
 
 PCWorld strives to deliver the most relevant content and ads to our readers. The advertising included on our site enables us to deliver the reporting resources required to create the high-quality journalism, research and analysis our audience expects from us.
 
@@ -143,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   PixelTone is an image editing app that takes voice commands February 13, 2013
-*   Opera switches to WebKit to develop new mobile, desktop browsers February 13, 2013
-*   RFLKT bike computer taps your iPhone's cycling potential February 13, 2013
+*   Why HP could embrace Android for tablets February 14, 2013
+*   MULTiPAD is a funky iPad-driven video remix made with lots of iOS apps February 14, 2013
+*   Google keeps Bing, Yahoo at bay in search business February 14, 2013
 
 PCWorld Articles
 
-*   Researchers: Zero-day PDF exploit affects Adobe Reader 11, earlier versions February 13, 2013
-*   iFixit's Surface Pro teardown shows repairs won't be easy February 13, 2013
-*   Review: Autostarter X3 automates your regular computer operations with batch files February 13, 2013
+*   SugarSync 2.0 goes public, we go hands-on February 14, 2013
+*   New Yelp-like site lets you rate business apps February 14, 2013
+*   Review: Decor8 lets you customize the Windows 8 Start and lock screens February 14, 2013
 
   
 TechHive on Twitter (@TechHive)
