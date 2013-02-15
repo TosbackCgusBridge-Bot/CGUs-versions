@@ -10,38 +10,41 @@
     *   Corolla $16,230 starting msrp 1 27/34 est. mpg 2 Explore Build
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
     *   Camry $22,235 starting msrp 1 25/35 est. mpg 2 Explore Build
-    *   Sienna $26,585 starting msrp 1 18/25 est. mpg 2 Explore Build
     *   Avalon $30,990 starting msrp 1 21/31 est. mpg 2 Explore Build
+    *   Sienna $26,585 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
     *   Tacoma  
-        Regular Cab $17,625 starting msrp 1 21/25 est. mpg 2 Explore Build
+        Double Cab $22,525 starting msrp 1 19/24 est. mpg 2 $32,150 as shown Explore Build
     *   Tacoma  
         Access Cab $20,415 starting msrp 1 21/25 est. mpg 2 Explore Build
     *   Tacoma  
-        Double Cab $22,525 starting msrp 1 19/24 est. mpg 2 $32,150 as shown Explore Build
+        Regular Cab $17,625 starting msrp 1 21/25 est. mpg 2 Explore Build
     *   Tundra  
-        Regular Cab $25,455 starting msrp 1 16/20 est. mpg 2 Explore Build
+        CrewMax $30,635 starting msrp 1 13/17 est. mpg 2 $41,730 as shown Explore Build
     *   Tundra  
         Double Cab $27,665 starting msrp 1 15/20 est. mpg 2 $30,940 as shown Explore Build
     *   Tundra  
-        CrewMax $30,635 starting msrp 1 13/17 est. mpg 2 $41,730 as shown Explore Build
+        Regular Cab $25,455 starting msrp 1 16/20 est. mpg 2 Explore Build
 3.  Crossovers &. SUVs
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
-    *   FJ Cruiser $27,030 starting msrp 1 16/20 est. mpg 2 Explore Build
     *   Venza $27,850 starting msrp 1 20/26 est. mpg 2 Explore Build
     *   Highlander $29,020 starting msrp 1 20/25 est. mpg 2 Explore Build
+    *   FJ Cruiser $27,030 starting msrp 1 16/20 est. mpg 2 Explore Build
     *   4Runner $31,490 starting msrp 1 17/22 est. mpg 2 Explore Build
     *   Sequoia $42,455 starting msrp 1 13/18 est. mpg 2 Explore Build
     *   Land Cruiser $78,555 starting msrp 1 13/18 est. mpg 2 Explore Build
 4.  Hybrids &. EVs
-    *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
-    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
     *   Camry Hybrid $26,140 starting msrp 1 43/39 est. mpg 2 Explore Build
-    *   Prius _v_ $26,650 starting msrp 1 44/40 est. mpg 2 Explore Build
-    *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpg 2 Explore Build
     *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 Explore Build
+    *   RAV4 EV $49,800 starting msrp 1 103/76 est. driving range  
+        / est. mpge 4 Explore Build
     *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
-    *   RAV4 EV $49,800 starting msrp 1 103/76 est. mpg 2 Explore Build
+    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
+    *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
+    *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpge  
+        / est. hybrid  
+        mode mpg 3 Explore Build
+    *   Prius _v_ $26,650 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
     *   Upcoming Vehicles View More Info
     *   Concept Vehicles See Vehicles
@@ -328,6 +331,8 @@ Torrance, CA 90501
 
 1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $795 for Cars, $845 for Small/Medium Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), and $995 for Large Trucks (Land Cruiser, Tundra and Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 2.  2013 EPA-estimated mileage. Actual mileage will vary.
+3.  51 city/49 highway/50 combined mpg estimates. Actual mileage will vary.
+4.  MPGe based on 2013 EPA ratings. Actual MPGe will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions. Battery capacity will decrease with time and use. For more information on MPGe and range, please see www.fueleconomy.gov.
 
 Vehicles
 
