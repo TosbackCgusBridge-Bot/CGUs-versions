@@ -66,6 +66,8 @@ You have the right to ask us not to process your personal data for marketing pur
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
+When you give us your information you will receive emails from us with product and offer updates.  At any point in time click here to unsubscribe.
+
 Access to information
 
 You have the right to access information held about you. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
