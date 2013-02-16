@@ -2,7 +2,36 @@ Terms of Service What's Squidoo? Squidoo is the free (yes, free), simple tool th
   
 So, congratulations. You're participating in one of the realest, coolest, most powerful free publishing platforms online. We're thrilled to work with you. And now, the TOS proper...  
   
-The principals in these Terms do not change, though the specific enforcement of our content standards may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to the terms that were in place when you joined the service. By continuing to use Squidoo, you're agreeing to the terms in place each time you create new content. 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
+The principals in these Terms do not change, though the specific enforcement of our content standards may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to the terms that were in place when you joined the service. By continuing to use Squidoo, you're agreeing to the terms in place each time you create new content. TOS Table of Contents
+
+1.  Terms of Service
+2.  1\. YES, I AGREE!
+3.  2\. The big picture: Description of Service
+4.  3\. The rules
+5.  4\. The content: who owns it?
+6.  5\. About royalties
+
+More
+
+1.  Terms of Service
+2.  1\. YES, I AGREE!
+3.  2\. The big picture: Description of Service
+4.  3\. The rules
+5.  4\. The content: who owns it?
+6.  5\. About royalties
+7.  6\. Resale of service
+8.  7\. Squidoo can modify or discontinue the service
+9.  8\. External software
+10.  9\. Squidoo can terminate your use of the service
+11.  10\. Squidoo proprietary rights
+12.  11\. Disclaimer of waranties
+13.  12\. Limitation of liability
+14.  13\. Miscellaneous, but important, terms
+15.  14\. Dispute resolution
+16.  15\. Trademarks
+17.  16\. Good Practice
+
+Less 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
   
 These Terms apply to anyone who uses Squidoo (the Service), from our Members and Lensmasters, to people stopping by and using the social tools featured on Squidoo Lenses (ie, the free, single pages set up by our Lensmasters).  
   
@@ -146,6 +175,10 @@ Plexodex
 SquidOffers  
 SquidWho  
 Squidaholic  
-SquidU
+SquidU 16. Good Practice We take our terms of service seriously, and we work to be good internet citizens. That means that if you use Squidoo to help you workaround the rules of Facebook, Pinterest, Twitter or other services, we'll consider that a violation of our TOS and will take action, possibly including locking your lenses or deleting your account.  
+  
+Don't spam other networks or other sites. Don't use Squidoo as a veiling tool when you could use these services in the way they're intended. Pushing your affiliate links onto other services doesn't work and it's selfish, too, hurting the rest of us.  
+  
+On the other hand, YES, please use Squidoo when you have something personal and unique to say. We like that and so do the other services that you and the rest of the squids use.
 
 WHEW! You made it. You read the whole Squidoo Terms of Service. Please let us know how we can do better. And thanks!
