@@ -22,9 +22,9 @@ Was this answer helpful? Yes No   Your rating has been submitted, please tell u
 Answers others found helpful
 
 *   How do I unsubscribe from emails or postal mail?
-*   Do you have a price guarantee?
 *   What are cookies and why does OnlineShoes.com use them?
 *   Why do you require my email address and phone number to place an order?
+*   Do you have a price guarantee?
 *   Is my personal order information secure?
 
 Share
