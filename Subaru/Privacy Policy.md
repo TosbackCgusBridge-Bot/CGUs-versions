@@ -149,28 +149,28 @@ Log Into MySubaru | Help |
         
     *   Forester
         
-        Starting at **$21,295\***
+        Starting at **$21,995\***
         
         Forester
         
-        Big enough for nature, small enough for your garage.
+        A whole lot to love.
         
-        Forester 2.5X shown
+        Forester 2.5i Touring shown
         
         Up to
         
-        27
+        32
         
         MPG\*\* highway
         
-        21 MPG city
+        24 MPG city
         
         *   Symmetrical All-Wheel Drive
-        *   Vehicle Dynamics Control (VDC)
+        *   SUBARU BOXER® engine
         *   Bluetooth® hands-free connectivity
-        *   170 hp SUBARU BOXER® engine
+        *   Flexible cargo areas
         
-        Starting at $21,295\*
+        Starting at $21,995\*
         
         *   Shopping Tools
         *   Request a Quote
@@ -180,7 +180,6 @@ Log Into MySubaru | Help |
         *   Vehicle Specs
         *   Reviews
         *   Build Your Own
-        *   View a Brochure
         *   Forester vs Competition
         
     *   XV Crosstrek
