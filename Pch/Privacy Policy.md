@@ -1,8 +1,8 @@
-**PCH. Publishers Clearing House** Truste. Click to verify
+Privacy Policy Truste. Click to verify
 
 **Publishers Clearing House Privacy Policy**
 
-Last Updated: October 6, 2012
+Last Updated: December 22, 2012
 
 At Publishers Clearing House we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. Unless otherwise noted, the information and descriptions in this online Privacy Policy are limited strictly to online transactions and do not apply to the off line privacy, data collection and data transfer policies of Publishers Clearing House.
 
@@ -140,68 +140,4 @@ o 13. U.S. – EU Safe Harbor Framework Compliance. Publishers Clearing House co
 
 **14\. Further Questions?** We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. To contact us, please visit the Info Center of the site or write directly to Christopher L. Irving, Consumer &. Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050.
 
-Other Channels
-
-*   PCHsearch&win.com
-    
-    FAST Searches! MILLIONS in Prizes! INSTANT Winners!
-    
-*   PCHgames.com
-    
-    Play FREE PCH Games! Earn Tokens! WIN PRIZES!
-    
-
-*   PCHlotto.com
-    
-    Play For Big Cash Prizes! Win Instantly At PCHlotto.com!
-    
-*   PCHtv.com
-    
-    Watch, Then WIN! Enter Now For Your Chance At Millions!
-    
-
-*   PCHonlinesurveys.com
-    
-    Share opinions and earn rewards. Start taking Surveys today!
-    
-*   PCHsaveandwin.com
-    
-    Print Brand Name Coupons, SAVE Time &. Money!
-    
-
-Media Center
-
-*   Media Inquiries
-*   Sweepstakes Information
-*   Press Release
-*   Advertise With Us
-
-Customer Care Center
-
-*   Customer Service / Info Center
-*   FAQ
-*   Scam Prevention
-*   Pay Online
-
-*   About PCH
-*   Pay Online
-*   Magazines
-*   Merchandise
-*   Canadian Residents
-*   Privacy Policy
-*   Terms of Use
-*   Customer Service
-*   Official Rules
-*   Sweepstakes Facts
-
-NO PURCHASE OR FEE NECESSARY TO ENTER. A PURCHASE WON'T IMPROVE AN INDIVIDUAL'S CHANCE OF WINNING.
-
-&COPY. Copyright 2012 PCH.com. All Rights Reserved.
-
-*   Join the Discussion **PCHblog**
-*   Become a Fan **facebook**
-*   Follow us on **twitter**
-
-**Truste**
-
-All trademarks and registered trademarks appearing on this site are the property of their respective owners. Said owners do not endorse nor are they affiliated with pch.com or its promotions.
+© 2013 PCH | About Us | Contact Us | Privacy Policy
