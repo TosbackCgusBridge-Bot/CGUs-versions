@@ -16,7 +16,7 @@ We're working with you to make a positive impact around the world in more than 3
 
 Sign up for our e-newsletter!
 
-*   Shp
+*   Shop
 *   Membership
     *   Become a Member
     *   Renew Membership
