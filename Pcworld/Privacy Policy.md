@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Why HP could embrace Android for tablets February 14, 2013
-*   MULTiPAD is a funky iPad-driven video remix made with lots of iOS apps February 14, 2013
-*   Google keeps Bing, Yahoo at bay in search business February 14, 2013
+*   This man is a cyborg who can 'hear' colors February 15, 2013
+*   Watch as NASA livestreams asteroid 2012 DA14's visit February 15, 2013
+*   BitTorrent targets creative pros with new file-delivery service February 15, 2013
 
 PCWorld Articles
 
-*   SugarSync 2.0 goes public, we go hands-on February 14, 2013
-*   New Yelp-like site lets you rate business apps February 14, 2013
-*   Review: Decor8 lets you customize the Windows 8 Start and lock screens February 14, 2013
+*   Google+ suffers outage Friday morning February 15, 2013
+*   Microsoft warns of looming retirement for Windows 7 RTM February 15, 2013
+*   Computer History Museum shares original Photoshop code February 15, 2013
 
   
 TechHive on Twitter (@TechHive)
