@@ -141,4 +141,10 @@ Careers
 
 Contacts
 
-Terms and Conditions Privacy Policy/Your California Privacy Rights FAQ Terms and Conditions | Privacy Policy/Your California Privacy Rights | FAQ © 2013 Sony Corporation of America | Voluntary Recall Programs Shop Sony Sony.com Global Home
+Terms and Conditions Privacy Policy/Your California Privacy Rights FAQ
+
+Terms and Conditions | Privacy Policy/Your California Privacy Rights | FAQ
+
+© 2013 Sony Corporation of America | Voluntary Recall Programs
+
+Shop Sony Sony.com Global Home
