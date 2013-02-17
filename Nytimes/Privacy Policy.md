@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Beyoncé: Life Is but a Dream"
+Search Help Obama bid for Europe trade pact stirs hope on both sides
 
-Also in Arts »
+Also in Video »
 
-*   New York theater trying to capture the mad magic of its legendary bombs
-*   Sorting through images of Mozart
+*   The dawn of computer love
+*   Digital artists behind "Life of Pi"
 
   
 
