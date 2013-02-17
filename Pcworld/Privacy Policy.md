@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   This man is a cyborg who can 'hear' colors February 15, 2013
-*   Watch as NASA livestreams asteroid 2012 DA14's visit February 15, 2013
-*   BitTorrent targets creative pros with new file-delivery service February 15, 2013
+*   Consumers to companies: Stop eavesdropping on social nets! February 16, 2013
+*   Facebook defends Graph Search's privacy controls for teens February 16, 2013
+*   The best adventure games on Android February 16, 2013
 
 PCWorld Articles
 
-*   Google+ suffers outage Friday morning February 15, 2013
-*   Microsoft warns of looming retirement for Windows 7 RTM February 15, 2013
-*   Computer History Museum shares original Photoshop code February 15, 2013
+*   Reddit will accept bitcoin payment for premium service February 16, 2013
+*   12 infuriating Office 2013 flaws (and how to fix them) February 16, 2013
+*   Drones a target of U.S. House bill February 16, 2013
 
   
 TechHive on Twitter (@TechHive)
