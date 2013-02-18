@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Consumers to companies: Stop eavesdropping on social nets! February 16, 2013
-*   Facebook defends Graph Search's privacy controls for teens February 16, 2013
-*   The best adventure games on Android February 16, 2013
+*   Wikivoyage emerges from legal cloud as the travel site grows February 17, 2013
+*   Destiny: Bungie's Next Big Thing February 17, 2013
+*   HTC counts down to next week's launch of the M7 phone February 17, 2013
 
 PCWorld Articles
 
-*   Reddit will accept bitcoin payment for premium service February 16, 2013
-*   12 infuriating Office 2013 flaws (and how to fix them) February 16, 2013
-*   Drones a target of U.S. House bill February 16, 2013
+*   Google retail stores might be a smart move, analysts say February 17, 2013
+*   Microsoft reopens 128GB Surface Pro online orders February 17, 2013
+*   LinkedIn revamping Jobs tool to open more doors for workers February 17, 2013
 
   
 TechHive on Twitter (@TechHive)
