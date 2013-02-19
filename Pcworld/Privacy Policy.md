@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Wikivoyage emerges from legal cloud as the travel site grows February 17, 2013
-*   Destiny: Bungie's Next Big Thing February 17, 2013
-*   HTC counts down to next week's launch of the M7 phone February 17, 2013
+*   Pirate Bay charges piracy by pro-copyright organization February 18, 2013
+*   Sony trims PlayStation Vita price by one-third in Japan February 18, 2013
+*   LG's Optimus G Pro challenges Samsung Galaxy Note II February 18, 2013
 
 PCWorld Articles
 
-*   Google retail stores might be a smart move, analysts say February 17, 2013
-*   Microsoft reopens 128GB Surface Pro online orders February 17, 2013
-*   LinkedIn revamping Jobs tool to open more doors for workers February 17, 2013
+*   Cyberattack threatens most businesses, Deloitte survey says February 18, 2013
+*   EU privacy regulators to rule on Google policy changes February 18, 2013
+*   App Spotlight: Sendboo translates multi-lingual messages on the fly February 18, 2013
 
   
 TechHive on Twitter (@TechHive)
