@@ -13,7 +13,6 @@ Search
 *   Social Games
 *   Racing
 *   Action
-*   Valentine's Day
 *   Girls
 *   Sports
 *   Skill
