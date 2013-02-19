@@ -187,4 +187,4 @@ We can also be reached at 1-800-283-7674 or by email at online@officemax.com.
 
 Return to Top
 
- legal notices  privacy policy © 2012 OMX, Inc.
+ legal notices  privacy policy © 2013 OMX, Inc.
