@@ -58,7 +58,6 @@ _Effective September 25th, 2009_
 *   **Pro &. more**
 *   Go PRO New
 *   Business Solutions
-*   Advertise on SlideShare
 
 *   **Developers &. API**
 *   Developers Section
