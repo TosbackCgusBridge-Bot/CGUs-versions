@@ -2,8 +2,9 @@ Privacy Policy
 
   
 **Homestead Technologies, Inc.**  
-180 Jefferson Drive  
-Menlo Park, CA 94025  
+305 Walnut Street  
+Suite 300  
+Redwood City, CA 94063  
   
 **PRIVACY POLICY**  
 Last Updated September 17, 2012
@@ -73,4 +74,4 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 This file was last modified September 17, 2012
 
    
-© 2012 Homestead Technologies Inc. All Rights Reserved.
+© 2013 Homestead Technologies Inc. All Rights Reserved.
