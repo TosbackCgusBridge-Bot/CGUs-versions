@@ -90,7 +90,7 @@ A formal agreement between nonaffiliated financial companies that together marke
   
 Suze’s Story   |   News   |   Privacy Policy   |   Cardholder Agreement   |   Contact Us   |   SuzeOrman.com  
   
-\* Subject to mandatory identification confirmation as required by the USA PATRIOT Act. The USA PATRIOT Act is a federal law that requires all financial institutions to obtain, verify and record information that identifies each person who opens a card account. What this means for you: When you open a card account, we will ask for your name, address, date of birth and other information that will allow us to reasonably identify you. We may also ask to see your driver’s license or other identifying documents at any time.  
+\* Subject to mandatory identification confirmation as required by the USA PATRIOT Act. The USA PATRIOT Act is a federal law that requires all financial institutions to obtain, verify and record information that identifies each person who opens a card account. What this means for you: When you open a card account, we will ask for your name, address, date of birth and other information that will allow us to reasonably identify you. We may also ask to see a copy of your driver’s license or other identifying documents at any time.  
   
 The Approved Prepaid MasterCard is issued by The Bancorp Bank pursuant to license from MasterCard International Incorporated. This Card can be used everywhere Debit MasterCard is accepted. The Bancorp Bank. Member FDIC.  
   
