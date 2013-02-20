@@ -187,7 +187,7 @@ Please email us at internationalprivacy@bloomingdales.com.
 
 Does this answer your question? Please tell us how we can make this answer more useful. \*Email:Required \*Your Feedback:Required \* required fields  
 
-*   Return Policy
+*   Return &. Exchange Policy
 *   Shipping Policy
 *   Returns &. Exchanges: Returning to a Store
 *   Terms of Use
