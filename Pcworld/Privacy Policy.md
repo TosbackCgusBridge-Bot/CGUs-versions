@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Pirate Bay charges piracy by pro-copyright organization February 18, 2013
-*   Sony trims PlayStation Vita price by one-third in Japan February 18, 2013
-*   LG's Optimus G Pro challenges Samsung Galaxy Note II February 18, 2013
+*   After Monday Twitter hack, Burger King reigns again February 19, 2013
+*   HTC One has a super-sharp screen. arrives in late March February 19, 2013
+*   Lego loom means you’ll never have to shop for clothes again February 19, 2013
 
 PCWorld Articles
 
-*   Cyberattack threatens most businesses, Deloitte survey says February 18, 2013
-*   EU privacy regulators to rule on Google policy changes February 18, 2013
-*   App Spotlight: Sendboo translates multi-lingual messages on the fly February 18, 2013
+*   HP quadruples virtual machines in new blade server February 19, 2013
+*   Microsoft to deliver Lync-Skype integration in June February 19, 2013
+*   Cisco puts a huge value on the 'Internet of everything' February 19, 2013
 
   
 TechHive on Twitter (@TechHive)
