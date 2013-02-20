@@ -36,14 +36,15 @@
 4.  Hybrids &. EVs
     *   Camry Hybrid $26,140 starting msrp 1 43/39 est. mpg 2 Explore Build
     *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 Explore Build
-    *   RAV4 EV $49,800 starting msrp 1 103/76 est. driving range  
-        / est. mpge 4 Explore Build
+    *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
+        driving range 3 /  
+        mpge 4 Explore Build
     *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
     *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
     *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
-    *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpge  
-        / est. hybrid  
-        mode mpg 3 Explore Build
+    *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpge 5 /  
+        est. hybrid  
+        mode mpg 6 Explore Build
     *   Prius _v_ $26,650 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
     *   Upcoming Vehicles View More Info
