@@ -902,4 +902,4 @@ est un service PagesJaunes Groupe
 *   Données personnelles
 *   Conditions d'utilisation
 
-© 2011 PagesJaunes
+© 2013 PagesJaunes
