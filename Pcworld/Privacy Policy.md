@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   After Monday Twitter hack, Burger King reigns again February 19, 2013
-*   HTC One has a super-sharp screen. arrives in late March February 19, 2013
-*   Lego loom means you’ll never have to shop for clothes again February 19, 2013
+*   Interactive map shows every meteor to hit Earth in the last 4300 years February 20, 2013
+*   3Doodler brings your poorly drawn critters to 3D-printed life February 20, 2013
+*   Google Glass video preview shows previously unrevealed functionality February 20, 2013
 
 PCWorld Articles
 
-*   HP quadruples virtual machines in new blade server February 19, 2013
-*   Microsoft to deliver Lync-Skype integration in June February 19, 2013
-*   Cisco puts a huge value on the 'Internet of everything' February 19, 2013
+*   Office 2013 pricing loophole discounts suite by as much as $40 February 20, 2013
+*   Surface sales aren't dominating, and that's OK with Microsoft's Ballmer February 20, 2013
+*   Operators set stage for international Wi-Fi roaming February 20, 2013
 
   
 TechHive on Twitter (@TechHive)
