@@ -78,15 +78,7 @@ Enter Keyword or Item # Search
 *   Men
     
     *   New Arrivals
-    *   Pants
-        *   Regular
-        *   Tall
     *   Polos, T-Shirts &. Turtlenecks
-        *   Regular
-        *   Big
-        *   Tall
-    *   Shorts &. Swimwear
-    *   Sweaters
         *   Regular
         *   Big
         *   Tall
@@ -94,6 +86,10 @@ Enter Keyword or Item # Search
         *   Regular
         *   Big
         *   Tall
+    *   Pants
+        *   Regular
+        *   Tall
+    *   Shorts &. Swimwear
     *   Sport Shirts
         *   Regular
         *   Big
@@ -102,18 +98,22 @@ Enter Keyword or Item # Search
         *   Regular
         *   Tall
         *   Short
-    *   Shoes
-        *   Regular
-        *   Wide
     *   Outerwear
         *   Regular
         *   Big
         *   Tall
+    *   Sweaters
+        *   Regular
+        *   Big
+        *   Tall
+    *   Shoes
+        *   Regular
+        *   Wide
+    *   Belts &. Accessories
     *   Socks &. Underwear
     *   Sleepwear
         *   Regular
         *   Tall
-    *   Belts &. Accessories
     *   Activewear
         *   Regular
         *   Tall
