@@ -56,5 +56,5 @@ This policy became effective February 6, 2009.
 *   Advertising
 *   Mobile Website
 
-Copyright © ASMALLWORLD Holdings Inc.  
+Copyright © ASMALLWORLD AG  
 All rights reserved.
