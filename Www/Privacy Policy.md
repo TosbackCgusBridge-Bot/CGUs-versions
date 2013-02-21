@@ -161,6 +161,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *    @Blog44
         *   @Brundage44
         *   @DavidAgnew44
+        *   @FLOTUS
         *   @JEarnest44
         *   @JesseCLee44
         *   @JoiningForces
@@ -175,6 +176,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @PressSec
         *   @ProjectMyGov
         *   @VJ44
+        *   @VP
         *   @WethePeople
         *   @WhiteHouse
         *   @WHLive
@@ -253,6 +255,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: January 3, 2013
+Updated: February 20, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
