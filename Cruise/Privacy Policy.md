@@ -68,14 +68,16 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 When you give us your information you will receive emails from us with product and offer updates.  At any point in time click here to unsubscribe.
 
-Access to information
+On an annual basis we may check with you that you still want to be unsubscribed from our marketing activity.
+
+**Access to information**
 
 You have the right to access information held about you. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-Changes to our privacy policy
+**Changes to our privacy policy**
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.
 
-Contact
+**Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to marketing@cruise.co.uk
