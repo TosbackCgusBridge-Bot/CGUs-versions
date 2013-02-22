@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Interactive map shows every meteor to hit Earth in the last 4300 years February 20, 2013
-*   3Doodler brings your poorly drawn critters to 3D-printed life February 20, 2013
-*   Google Glass video preview shows previously unrevealed functionality February 20, 2013
+*   CyanogenMod 10.1 adds HDR photography to many Android devices February 21, 2013
+*   Is Google really working on a Chrome OS touchscreen notebook? February 21, 2013
+*   OneID unveils free Chrome add-on for filling out forms February 21, 2013
 
 PCWorld Articles
 
-*   Office 2013 pricing loophole discounts suite by as much as $40 February 20, 2013
-*   Surface sales aren't dominating, and that's OK with Microsoft's Ballmer February 20, 2013
-*   Operators set stage for international Wi-Fi roaming February 20, 2013
+*   Review: Dexpot makes virtual desktops feel like a native part of Windows February 21, 2013
+*   Canon's Mixed Reality headset delivers augmented reality for an eye-watering price tag February 21, 2013
+*   Answer Line: Why do I get so much spam? February 21, 2013
 
   
 TechHive on Twitter (@TechHive)
