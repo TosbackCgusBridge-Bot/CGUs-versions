@@ -31,7 +31,7 @@ The Website is operated by NFL Enterprises LLC on behalf of the National Footbal
 
 We own the information collected via the Website and we may use it for our own purposes, including marketing. Please note that this Privacy Policy applies only to information collected on the NFL.com website. it does not apply to any other information collected or obtained through other means or information collected by the thirty-two individual NFL member clubs (the "Member Clubs").
 
-NFL Enterprises LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements www.truste.com/privacy\_seals\_and\_services/consumer\_privacy/privacy-programs-requirements.html including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at dm.notices@nfl.com. If you are not satisfied with our response you can contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint.
+NFL Enterprises LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements www.truste.com/privacy\_seals\_and\_services/consumer\_privacy/privacy-programs-requirements.html including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at NFLPrivacy@nfl.com. If you are not satisfied with our response you can contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint.
 
 This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information visit http://www.export.gov/safeharbor/.
 
@@ -154,11 +154,11 @@ The Website incorporates reasonable safeguards to protect the security, integrit
 
 7\. DATA RETENTION
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at dm.notices@nfl.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at NFLPrivacy@nfl.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 8\. CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
 
-The Website and the NFL Mobile application ("NFL Mobile") may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment to NFL Mobile, the user name with which you registered for the Website and your current location will be made publicly available on the Website and through NFL Mobile. By using the commenting features of the Website and NFL Mobile, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at dm.notices@nfl.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+The Website and the NFL Mobile application ("NFL Mobile") may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. In addition, when you post a comment to NFL Mobile, the user name with which you registered for the Website and your current location will be made publicly available on the Website and through NFL Mobile. By using the commenting features of the Website and NFL Mobile, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at NFLPrivacy@nfl.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 9\. A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
 
@@ -172,17 +172,17 @@ By using the Website, you signify your agreement to the terms of this Privacy Po
 
 11\. CORRECTING/UPDATING PERSONAL INFORMATION
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. You may request that we do so by emailing us at dm.notices@nfl.com, signing into your online account and making the desired changes, or via mail at: NFL.com user information, 345 Park Avenue, New York, NY 10154. We will respond to your request within 20 business days.
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. You may request that we do so by emailing us at NFLPrivacy@nfl.com, signing into your online account and making the desired changes, or via mail at: NFL.com user information, 345 Park Avenue, New York, NY 10154. We will respond to your request within 20 business days.
 
 12\. YOUR CALIFORNIA PRIVACY RIGHTS
 
 California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to CAPrivacyRights@nfl.com or write us at CA Privacy Rights, NFL Digital Media Group, 345 Park Avenue, New York, NY 10154.
 
-If you have any questions about this Privacy Policy or our privacy practices, contact dm.notices@nfl.com.
+If you have any questions about this Privacy Policy or our privacy practices, contact NFLPrivacy@nfl.com.
 
 13\. QUESTIONS ABOUT THIS PRIVACY POLICY
 
-If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at dm.notices@nfl.com or:  
+If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at NFLPrivacy@nfl.com or:  
 NFL Digital Media Group  
 345 Park Avenue, 5th Floor  
 New York, NY 10154  
