@@ -8,6 +8,12 @@ Skip to main content **eLearners.com** Sign In | Register 
 *   Education Resources
 *   Blogs
 
+Find Your Online Degree
+
+*   1\. Degree Level: -- Select --
+*   2\. Area of Study: -- Select --
+*   3\. Concentration: -- Select --
+
 Help Section
 
 *   About Us
@@ -17,12 +23,6 @@ Help Section
 *   Privacy Policy
 *   Terms of Use
 *   Site Map
-
-Find Your Online Degree
-
-*   1\. Degree Level: -- Select --
-*   2\. Area of Study: -- Select --
-*   3\. Concentration: -- Select --
 
 Newsletter Signup
 
