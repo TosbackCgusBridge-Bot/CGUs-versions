@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   CyanogenMod 10.1 adds HDR photography to many Android devices February 21, 2013
-*   Is Google really working on a Chrome OS touchscreen notebook? February 21, 2013
-*   OneID unveils free Chrome add-on for filling out forms February 21, 2013
+*   Google Pixel Chromebook: Will it push the search giant into the retail business? February 22, 2013
+*   Orange unveils its first LTE smartphone under its name February 22, 2013
+*   Monkeys can now control robots with their minds February 22, 2013
 
 PCWorld Articles
 
-*   Review: Dexpot makes virtual desktops feel like a native part of Windows February 21, 2013
-*   Canon's Mixed Reality headset delivers augmented reality for an eye-watering price tag February 21, 2013
-*   Answer Line: Why do I get so much spam? February 21, 2013
+*   Watch for mobile malware and targeted attacks, McAfee warns February 22, 2013
+*   Why Google bothered to make the Chromebook Pixel February 22, 2013
+*   CloudOn 4.0 brings virtual Microsoft Office to Android smartphones February 22, 2013
 
   
 TechHive on Twitter (@TechHive)
