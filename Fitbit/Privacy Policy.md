@@ -43,7 +43,7 @@ Fitbit uses your personal information to:
 *   Deliver to you any administrative notices and communications relevant to your use of the Fitbit Products and Service;
 *   Provide you with updates regarding Fitbit Products and Services;
 *   Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity;
-*   Enforce the Fitbit Terms of Use. and
+*   Enforce the Fitbit Terms of Use.
 
 Disclosure to Third Parties
 
@@ -172,21 +172,18 @@ United States
 *   Privacy Policy
 *   Terms of Use
 
-Help
+Products
 
-*   Fitbit Online Help
-*   Returns &amp Warranty
-*   Setup &. Downloads
-*   Supported Syncing Devices
+*   Flex™  
+    Wireless Activity + Sleep Wristband
+*   Zip™  
+    Wireless Activity Tracker
+*   One™  
+    Wireless Activity + Sleep Tracker
+*   Aria™  
+    Wi-Fi Smart Scale
 
-Device Help
-
-*   Zip Tracker Help
-*   One Tracker Help
-*   Ultra Tracker Help
-*   Aria Scale Help
-
-Services
+Shop Devices Services
 
 *   Mobile Apps
 *   Premium Reports
@@ -203,18 +200,21 @@ Explore
 *   Calories in Foods
 *   Search Foods
 
-Products
+Help
 
-*   Flex™  
-    Wireless Activity + Sleep Wristband
-*   Zip™  
-    Wireless Activity Tracker
-*   One™  
-    Wireless Activity + Sleep Tracker
-*   Aria™  
-    Wi-Fi Smart Scale
+*   Fitbit Online Help
+*   Returns &amp Warranty
+*   Setup &. Downloads
+*   Supported Syncing Devices
 
-Shop Devices OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Wearability
+Device Help
+
+*   Zip Tracker Help
+*   One Tracker Help
+*   Ultra Tracker Help
+*   Aria Scale Help
+
+OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Wearability
 
 Wear your Fitbit One somewhere near your torso during the day. Some recommended places to wear it are:
 
