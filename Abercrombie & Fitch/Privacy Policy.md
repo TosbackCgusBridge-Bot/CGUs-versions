@@ -1,7 +1,7 @@
 ABERCROMBIE &. FITCH US  
 PRIVACY POLICY
 
-Updated: January 2013
+Updated: February 2013
 
 In order to make your visits to the various online channels of Abercrombie &. Fitch as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Abercrombie pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
 
@@ -89,7 +89,7 @@ In addition, our email communications to you may include a "click-through URL" l
 
 How Do Others Use Cookies on Our Websites to Serve You Advertising?
 
-We contract with third party advertising companies which collect non-personally identifying information about you by placing cookies on your browser and/or using Pixel Tags when you visit our Websites. These advertising companies may use information about your visit to deliver our ads on other websites that are a part of their online advertising networks.  We receive aggregate information from these third parties to gauge our advertising effectiveness. To stop receiving cookie-based ads from a third party advertising company we use, click on the link included in the advertisement and follow the instructions on opting out.  We may use more than one third party company for this cookie-based advertising, which would require you to opt out of each company through the advertisement links.  If you would like more information about how cookie-based advertising works in general and more opt-out information, go to: http://www.aboutads.info/choices/  (you will leave this site for a centrally managed online site where you can specify your preference).
+We contract with third party advertising companies which collect non-personally identifying information about you by placing cookies on your browser and/or using Pixel Tags when you visit our Websites. These advertising companies may use and share the information gathered about your visit to our Websites to deliver our ads on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness. To stop receiving cookie-based ads from a third party advertising company we use, click on the link included in the advertisement and follow the instructions on opting out.  We may use more than one third party company for this cookie-based advertising, which would require you to opt out of each company through the advertisement links.  If you would like more information about how cookie-based advertising works in general and more opt-out information, go to: http://www.aboutads.info/choices/  (you will leave this site for a centrally managed online site where you can specify your preference).
 
 Opt-Out
 
