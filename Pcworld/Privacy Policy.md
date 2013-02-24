@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Google Pixel Chromebook: Will it push the search giant into the retail business? February 22, 2013
-*   Orange unveils its first LTE smartphone under its name February 22, 2013
-*   Monkeys can now control robots with their minds February 22, 2013
+*   Japan gets a crash course in cybersecurity, from LOLcats to remote hacks and viruses February 23, 2013
+*   Study of Chinese hackers is dangled as phishing bait February 23, 2013
+*   iWatch interest reflects the lure of wearable computing February 23, 2013
 
 PCWorld Articles
 
-*   Watch for mobile malware and targeted attacks, McAfee warns February 22, 2013
-*   Why Google bothered to make the Chromebook Pixel February 22, 2013
-*   CloudOn 4.0 brings virtual Microsoft Office to Android smartphones February 22, 2013
+*   Microsoft Azure service restored after being downed by expired SSL certificate February 23, 2013
+*   Microsoft suffers another temporary Surface Pro shortage February 23, 2013
+*   Google expansion is latest employee perk designed to spark innovation February 23, 2013
 
   
 TechHive on Twitter (@TechHive)
