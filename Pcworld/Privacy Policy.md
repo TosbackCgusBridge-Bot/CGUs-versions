@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Japan gets a crash course in cybersecurity, from LOLcats to remote hacks and viruses February 23, 2013
-*   Study of Chinese hackers is dangled as phishing bait February 23, 2013
-*   iWatch interest reflects the lure of wearable computing February 23, 2013
+*   Huawei shows LTE-equipped Ascend P2 with beefy battery February 24, 2013
+*   Hands on with Samsung's Galaxy Note 8.0 tablet February 24, 2013
+*   Video: Getting ready for Mobile World Congress February 24, 2013
 
 PCWorld Articles
 
-*   Microsoft Azure service restored after being downed by expired SSL certificate February 23, 2013
-*   Microsoft suffers another temporary Surface Pro shortage February 23, 2013
-*   Google expansion is latest employee perk designed to spark innovation February 23, 2013
+*   Software firms lobby Congress to defend patent protection February 24, 2013
+*   Lenovo unveils quad-core tablets running Android 4.2 February 24, 2013
+*   Firefox to begin blocking third-party cookies by default February 24, 2013
 
   
 TechHive on Twitter (@TechHive)
