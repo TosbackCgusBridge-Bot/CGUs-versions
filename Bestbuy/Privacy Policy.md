@@ -124,7 +124,8 @@ Interest-Based Advertising
 
 We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.    
    
-To learn more about interest-based advertising and your privacy, including how to opt out of such advertising, visit our partner websites.
+To learn more about interest-based advertising (also called behavioral advertising), visit www.aboutads.info.  
+To opt-out of interest-based advertising, visit Evidon's Profile Manager tool. Profile Manager also allows you to update the interest-based information collected by certain companies.
 
 Protecting Children's Privacy
 
