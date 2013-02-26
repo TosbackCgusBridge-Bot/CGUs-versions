@@ -33,6 +33,7 @@ Skip to main content area
     *   Benefits
     *   Life at Zynga
 *   about
+    *   Our Story
     *   About Zynga
     *   Leadership Team
     *   Board of Directors
@@ -75,6 +76,7 @@ Play now!
     *   Benefits
     *   Life at Zynga
 *   about
+    *   Our Story
     *   About Zynga
     *   Leadership Team
     *   Board of Directors
