@@ -160,4 +160,4 @@ No one under the age of 13 should provide any personal information. In general, 
 *   Shopping
 *   Travel
 
-Copyright © 2013 The Christian Post , LLC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
+Copyright © 2013 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
