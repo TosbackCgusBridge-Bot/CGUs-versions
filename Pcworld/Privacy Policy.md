@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Huawei shows LTE-equipped Ascend P2 with beefy battery February 24, 2013
-*   Hands on with Samsung's Galaxy Note 8.0 tablet February 24, 2013
-*   Video: Getting ready for Mobile World Congress February 24, 2013
+*   Asus crosses smartphone, tablet to make PadFone Infinity, Fonepad February 25, 2013
+*   App.net introduces invitation-only free accounts February 25, 2013
+*   Crysis 3 Review: Savage beauty in glorious high definition February 25, 2013
 
 PCWorld Articles
 
-*   Software firms lobby Congress to defend patent protection February 24, 2013
-*   Lenovo unveils quad-core tablets running Android 4.2 February 24, 2013
-*   Firefox to begin blocking third-party cookies by default February 24, 2013
+*   Five surprisingly great things about Outlook 2013 February 25, 2013
+*   Businesses get new marketplace for used IT gear February 25, 2013
+*   iOS plus inspired design equals awesome 'iWatch' February 25, 2013
 
   
 TechHive on Twitter (@TechHive)
