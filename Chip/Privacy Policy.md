@@ -95,32 +95,19 @@ Klicken Sie in der rechten Spalte im untersten Kasten den Button "OPT-OUT"
   
   
 **6.3 Einsatz von weiteren Messverfahren (IVW)**  
-Unsere Website nutzt das „Skalierbare Zentrale Messverfahren“ (SZM) der Fa. INFOnline für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie (siehe Abschnitt Cookies) mit der Kennung „ivwbox.de“ oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet.  
-Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.  
+Unsere Website nutzt das „Skalierbare Zentrale Messverfahren" (SZM) der INFOnline GmbH (http://www.infonline.de) für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote.  
   
-Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen:  
+Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie mit der Kennung „ioam.de" , „ivwbox.de“ oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet.  
   
-optout.ivwbox.de  
-Klicken Sie in der Box den oberen Button "Opt-Out-Cookie"  
+Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen.  
   
+Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.  
   
+Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – http://www.ivw.eu) sind oder an der Studie „internet facts" der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma - www.agma-mmc.de), sowie der IVW veröffentlicht und können unter www.agof.de, www.agma-mmc.de und http://www.ivw.eu eingesehen werden. Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.  
   
-Unsere Website nutzt den „Mobile Sensor“ der Fa. spring GmbH &. Co. KG, Saarlouis für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme Messwerte erhoben.  
+Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu).  
   
-Diese Messung verwendet zur Wiedererkennung von mobilen Endgeräten einen Cookie und eine Signatur, die aus verschiedenen, automatisch übertragenen Informationen Ihres Endgerätes erstellt wird.  
-  
-IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet.  
-  
-Unsere Webseite nimmt damit an der Reichweitenmessung der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF – www.agof.de) teil. Die AGOF weist in regelmäßigen Abständen die Nutzungsstatistiken der teilnehmenden Angebote in der Studien AGOF „mobile facts“ aus.  
-  
-Die Reichweitenmessung für mobile Werbeträger wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Messung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer für die mobile Nutzung optimierten Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.  
-  
-Genauere Informationen zu dem Verfahren können Sie auf der Webseite der AGOF einsehen.  
-  
-Sie können dieser Datenverarbeitung unter folgendem Link widersprechen:  
-http://optout.2cnt.net/agof/  
-  
-Durch einen Klick auf den dort hinterlegten Link wird durch das System ein sogenannter “Stop-Cookie” gesetzt, der die weitere Erfassung von Aktivitäten des Clients durch das System unterbindet. Diese Unterbindung bleibt bis zur Löschung des Stop-Cookies durch den Nutzer in Kraft.  
+Sie können der Datenverarbeitung durch das SZM unter folgenden Links widersprechen: http://optout.ioam.de und http://optout.ivwbox.de  
   
 
 **7\. Verwendung des Facebook "Gefällt mir"-Buttons** Einklappen
