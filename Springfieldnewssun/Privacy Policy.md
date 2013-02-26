@@ -1,4 +1,4 @@
-marimo.emit('writecapture35348272\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": null, "html": "$NEWLINE Privacy Policy$NEWLINE
+marimo.emit('writecapture44478643\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": null, "html": "$NEWLINE Privacy Policy$NEWLINE
 
 Last Updated: June 15, 2012
 
@@ -172,4 +172,4 @@ $NEWLINE
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
 
-$NEWLINE ", "id": "writecapture35348272", "widget\_prototype": "writecapture\_widget"}).
+$NEWLINE ", "id": "writecapture44478643", "widget\_prototype": "writecapture\_widget"}).
