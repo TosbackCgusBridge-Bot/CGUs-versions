@@ -1,12 +1,12 @@
-This is the main privacy policy for guardian.co.uk, guardiannews.com, and for certain services provided through the websites by Guardian News &. Media Limited and Guardian News &. Media LLC ("GNM").
+This is the main privacy policy for guardian.co.uk, guardiannews.com, and for certain services provided through these and other Guardian websites and applications ("our sites") by Guardian News &. Media Limited, and Guardian News &. Media LLC ("GNM").
 
-At guardian.co.uk and guardiannnews.com we collect different types of information about our users for four main reasons:  
+At GNM we collect different types of information about our users for four main reasons:  
 1\. To provide personalised services unique to individual users.  
 2\. To help us to monitor and improve the services we offer  
 3\. To sell advertising space on the site. This helps us to keep the site free of charge.  
 4\. With user consent, to market services to individuals users.
 
-There may be additional privacy policies that apply to certain services on guardian.co.uk and guardiannews.com. Please read these at the time you register or subscribe for these services on these sites.
+There may be additional privacy policies that apply to certain services at GNM. Please read these at the time you register or subscribe for these services on these sites.
 
 Please follow the links below for further information.
 
@@ -39,9 +39,7 @@ Please follow the links below for further information.
 
 7\. Where we or our service providers transfer data out of the European Economic Area (EEA) this is only ever done with the relevant protections required by UK law being in place.
 
-  
-
-How we use your information
+**How we use your information**
 
 **What information do we collect?**
 
@@ -57,15 +55,17 @@ We may also ask some further, voluntary questions during registration for certai
 
 **Logging in using social networking credentials**
 
-If you log-in to guardian.co.uk and/or guardiannews.com using a Facebook log-in as a means of authentication you grant permission to Facebook to share your user details. This will include your name, email address, date of birth and location which will then be used to form a Guardian Identity, and you may use your picture from Facebook as part of your profile. Authenticating also permits the sharing of your gender, networks, user ID and any other information you choose to share according to your Facebook account settings. If you remove the Guardian app from your Facebook settings, our access to this additional information will cease.
+If you log-in to our sites using a Facebook log-in as a means of authentication you grant permission to Facebook to share your user details. This will include your name, email address, date of birth and location which will then be used to form a Guardian Identity, and you may use your picture from Facebook as part of your profile. Authenticating also permits the sharing of your gender, networks, user ID and any other information you choose to share according to your Facebook account settings. If you remove the Guardian app from your Facebook settings, our access to this additional information will cease.
 
-If you log-in to guardian.co.uk and/or guardiannews.com using a twitter log-in as a means of authentication we receive your avatar and twitter username.
+If you log-in to our sites using a google log-in as a means of authentication you grant permission to google to share your user details. This will include your name, email address, date of birth, gender and location which will then be used to form a Guardian Identity, and you may use your picture from google as part of your profile. Authenticating also permits the sharing of your networks, user ID and any other information you choose to share according to your google account settings. If you remove the Guardian from your google settings, our access to this additional information will cease.
+
+If you log-in to our sites using a twitter log-in as a means of authentication we receive your avatar and twitter username.
 
 **Use of children's data**
 
-Except for children's books, guardian.co.uk and guardiannews.com do not knowingly collect or store any personal information about children under the age of 16. Children's books is a service for children which requires parental consent to join, no personal information on children is displayed on the site, and all contributions are moderated prior to being published. For any questions concerning children's books, please contact: Children's books, Guardian News and Media, 90 York Way, London, N1 9GU or by emailing childrens.books@guardian.co.uk.
+Except for children's books, GNM does not knowingly collect or store any personal information about children under the age of 16. Children's books is a service for children which requires parental consent to join, no personal information on children is displayed on the site, and all contributions are moderated prior to being published. For any questions concerning children's books, please contact: Children's books, Guardian News and Media, 90 York Way, London, N1 9GU or by emailing childrens.books@guardian.co.uk.
 
-Updating your personal information
+**Updating your personal information**
 
 We offer a 'My details' page (also known as Dashboard), where you can update your personal information at any time, and change your marketing preferences. You can get to this page from most pages on the site - simply click on the 'My details' link at the top of the screen when you are signed in.
 
@@ -73,7 +73,7 @@ We offer a 'My details' page (also known as Dashboard), where you can update you
 
 We will not share your personal information with others for marketing purposes unless you have given us your permission. With your permission we will share your information only with carefully chosen third parties.
 
-GNM may make available third party services, such as Guardian Garden Centre or Guardian Bookshop, though guardian.co.uk and/or guardiannews.com, although we are not necessarily operating these sites. Any information which is collected by GNM when you access a third party service is processed under this Privacy Policy. Information collected by third party operators themselves is governed by their own privacy policies.
+GNM may make available third party services, such as Guardian Garden Centre or Guardian Bookshop, through our sites, although we are not necessarily operating these sites. Any information which is collected by GNM when you access a third party service is processed under this Privacy Policy. Information collected by third party operators themselves is governed by their own privacy policies.
 
 Please note that we reserve the right to access and disclose personal data to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.
 
@@ -87,7 +87,7 @@ We use cookies for a number of reasons:
 
 1\. For statistical purposes to track how many individual unique users we have and how often they visit our websites. We collect data listing which of our pages are most frequently visited and by which types of users and from which countries.
 
-2\. We use third parties to collect anonymous user information, sometimes through cookies and web beacons. Click here to learn more about how we use a third party service to collect and use information on guardian.co.uk and guardiannews.com.
+2\. We use third parties to collect anonymous user information, sometimes through cookies and web beacons. Click here to learn more about how we use a third party service to collect and use information on guardian.co.uk, guardiannews.com and m.guardian.co.uk.
 
 3\. GNM and third party advertisers will generate statistical cookies to track advertising impressions and conversions. There is further information on this in the Online Behavioural Advertising section of this privacy policy.
 
@@ -103,11 +103,11 @@ For more information about cookies and managing them, including how to turn them
 
 By using the sites you are agreeing to the use of cookies as described.
 
-About our advertising
+**About our advertising**
 
 In late 2005 we launched a new advertising service called Online Behavioural Advertising (OBA). OBA allows us to deliver targeted advertising to visitors to our website. OBA works by showing you adverts that are based on your browsing patterns and your interaction with the site, and delivering adverts which we believe may be of interest to you.
 
-As you browse guardian.co.uk or guardiannews.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in.
+As you browse our sites some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in.
 
 This information we collect about behaviour on your computer enables us to group it with computers that show similar behaviour. We can then display advertising to your computer which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink.
 
@@ -115,9 +115,9 @@ It is important to remember that none of the OBA techniques we employ uses or re
 
 We may also share anonymised behavioural data with advertising partners. This may mean that when you are on other websites you are served advertising based on your behaviour on guardian.co.uk and guardiannews.com, and on guardian.co.uk and guardiannnews.com you may be served advertising based on your behaviour on other sites.
 
-Behavioural retargeting is another form of OBA that enables us and some of our advertising partners to show you ads based on browsing patterns and interactions with the site away from guardian.co.uk or guardiannews.com. For example, if you have visited the website of an online clothes shop you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This is allows companies to advertise to website visitors who leave their website without making a purchase. The privacy policy of criteo, one of the partners that we work with for behavioural retargeting is here: criteo.com/en/privacy-policy.
+Behavioural retargeting is another form of OBA that enables us and some of our advertising partners to show you ads based on browsing patterns and interactions with the site away from our sites. For example, if you have visited the website of an online clothes shop you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This is allows companies to advertise to website visitors who leave their website without making a purchase. The privacy policy of criteo, one of the partners that we work with for behavioural retargeting is here: criteo.com/en/privacy-policy.
 
-If you want to opt out of receiving online behavioural advertising this does not mean that you will no longer receive advertising when you are using guardian.co.uk or guardiannews.com. It just means that the advertising you see will not be customised for you.
+If you want to opt out of receiving online behavioural advertising this does not mean that you will no longer receive advertising when you are using our sites. It just means that the advertising you see will not be customised for you.
 
 If you would like more information about OBA and how to opt out of it, please visit youronlinechoices.com or networkadvertising.org (if accessing from the US.)
 
@@ -125,21 +125,21 @@ Please visit audiencescience.com/privacy.asp and quantcast.com/privacy for the p
 
 **Other Advertising**
 
-Guardian.co.uk and guardiannews.com contain contextual affiliate links from which we may earn revenue. Our articles are never influenced by advertisers or affiliates, nor are they written for the purpose of promoting a product, except when clearly branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.
+Our sites contain contextual affiliate links from which we may earn revenue. Our articles are never influenced by advertisers or affiliates, nor are they written for the purpose of promoting a product, except when clearly branded as a 'sponsored feature' or 'advertisement feature' or 'sponsor's content'.
 
 **Legal information and how to contact us**
 
-For the purposes of the UK Data Protection Act 1998, the Data Controller for guardian.co.uk, guardiannews.com and services provided through the websites by GNM is Guardian News &. Media Limited, King's Place, 90 York Way, London N1 9GU.
+For the purposes of the UK Data Protection Act 1998, the Data Controller for guardian.co.uk, guardiannews.com and services provided through the websites by GNM is Guardian News &. Media Limited, King's Place, 90 York Way, London N1 9GU.
 
 If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding GNM's use of personal data please contact the Data Protection Manager at the above address, or by email to dataprotection@guardian.co.uk.
 
-**Dispute Resolution for Guardian News &. Media LLC**
+Dispute Resolution for Guardian News &. Media LLC
 
-Our American office, Guardian News And Media LLC participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with Safe Harbor you should first contact GNM (using the contact details provided above).
+Our American office, Guardian News and Media LLC participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with Safe Harbor you should first contact GNM (using the contact details provided above).
 
 If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe, by fax to 415-520-3420, or by mail to Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
-Changes to the privacy policy
+**Changes to the privacy policy**
 
 Should we elect to change our privacy policy we will post the changes here. Where the changes are significant, we may also choose to email all our registered users with the new details. Where required by law, will we obtain your consent to make these changes.
 
@@ -160,3 +160,5 @@ October 2011: Information on plugins and dispute resolution for Guardian News &.
 February 2012: Additional provision included in 'How we use your information' to address certain data that we may collect, especially in the context of certain Apps and geographical location data.
 
 April 2012: Information on logging onto our sites using social networking log-ins as a means of authentication.
+
+February 2013: Applicability of policy to other websites and applications added.
