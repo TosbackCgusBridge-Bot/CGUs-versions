@@ -1,28 +1,27 @@
-Untitled Document Close
-
-**EXPRESS ONLINE PRIVACY POLICY**  
+CLOSE X EXPRESS ONLINE PRIVACY POLICY **EXPRESS ONLINE PRIVACY POLICY**  
   
 When you visit Express through its websites, pages on social media websites or through one of our mobile applications, we collect certain information to enhance your online experience.  To make it easier for you to understand what Express collects and uses through its various online channels, we have combined several privacy policies to provide this summary.  As a result of this combination, you will notice two sections that were not in our prior www.express.com privacy policy that address location information collected through our mobile applications and what happens on pages that Express has on social media sites.  While offered before, for ease of reference, we have gathered your choices on how your information is disclosed into one section.  
   
-The online channels covered by this privacy policy include (1) www.express.com, m.express.com or any other Express website which links to this policy (our “Websites”), (2) Express pages on social media sites, such as Facebook (including the Express Shop on Facebook), Twitter and YouTube (“Social Media Pages”), and (3) mobile applications available for various smartphones provided by Express (“Mobile Applications”).  The term “Online Channels” is used in this policy to refer to all of these channels.  If a statement is only applicable to a specific Website, channel or channels, we will so specify. This policy also explains how Express uses and discloses information it collects through its Online Channels.  Your use of the Websites, purchase through one of the Websites or purchase through an Express Social Media Page signifies acceptance of the terms of this privacy policy.  
+The online channels covered by this privacy policy include (1) www.express.com, m.express.com or any other Express website which links to this policy (our "Websites"), (2) Express pages on social media sites, such as Facebook (including the Express Shop on Facebook), Twitter and YouTube ("Social Media Pages"), and (3) mobile applications available for various smartphones provided by Express ("Mobile Applications").  The term "Online Channels" is used in this policy to refer to all of these channels.  If a statement is only applicable to a specific Website, channel or channels, we will so specify. This policy also explains how Express uses and discloses information it collects through its Online Channels.  Your use of the Websites, purchase through one of the Websites or purchase through an Express Social Media Page signifies acceptance of the terms of this privacy policy.  
   
   
-**WHAT LOCATION INFORMATION DO WE COLLECT?   
+**WHAT LOCATION INFORMATION DO WE COLLECT?  
 WHAT INFORMATION DO WE COLLECT ONLINE?  
 WHAT HAPPENS ON PAGES THAT EXPRESS HAS ON SOCIAL MEDIA SITES?  
-HOW DO WE USE INFORMATION THAT WE COLLECT?    
-WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?    
-HOW DO WE USE COOKIES?    
-WHAT CHOICES DO YOU HAVE OVER HOW YOUR INFORMATION IS USED?   
-WHAT SHOULD VISITORS FROM OUTSIDE THE U.S. KNOW?    
-HOW CAN YOU UPDATE YOUR PERSONAL INFORMATION?    
-PRIVACY OF CHILDREN** **LINKS TO OTHER WEBSITES AND SERVICES    
-HOW WILL YOU KNOW WHEN WE UPDATE OUR PRIVACY POLICY?    
-WHERE SHOULD YOU DIRECT YOUR QUESTIONS?    
+HOW DO WE USE INFORMATION THAT WE COLLECT?  
+WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?  
+HOW DO WE USE COOKIES?  
+WHAT CHOICES DO YOU HAVE OVER HOW YOUR INFORMATION IS USED?  
+WHAT SHOULD VISITORS FROM OUTSIDE THE U.S. KNOW?  
+HOW CAN YOU UPDATE YOUR PERSONAL INFORMATION?  
+PRIVACY OF CHILDREN  
+****LINKS TO OTHER WEBSITES AND SERVICES  
+HOW WILL YOU KNOW WHEN WE UPDATE OUR PRIVACY POLICY?  
+WHERE SHOULD YOU DIRECT YOUR QUESTIONS?  
 SECURITY STATEMENT  
-YOUR CALIFORNIA PRIVACY RIGHTS**   
+YOUR CALIFORNIA PRIVACY RIGHTS**  
   
-This Privacy Policy is effective June 2012.  
+This Privacy Policy is effective September 2011.  
   
 **What Location Information Do we Collect?**   
   
@@ -32,13 +31,13 @@ Some services provided through the Express Mobile Applications will require the 
   
 **Collection of General Information:**  
   
-Express gathers aggregate general browsing and usage information on all of its Online Channels.  This may include navigational information about where visitors go on our Online Channels and information about the technical efficiencies of our online services (i.e. time to connect to our Websites or Mobile Applications, time to download pages, etc.). This information allows us to see which areas of each Online Channel are most visited and helps us better understand our customers’ experiences with the Express Online Channels. This helps us improve the quality of your online experiences by recognizing and delivering more of the preferred features, areas and services. In the process of gathering navigational information, we may also collect information such as domain type, browser version, service provider, type of smartphone, and IP address, which will provide information regarding a visitor’s use of our Websites or Mobile Applications (such as the time of a visitor’s last visit to a page on our site).  
+Express gathers aggregate general browsing and usage information on all of its Online Channels.  This may include navigational information about where visitors go on our Online Channels and information about the technical efficiencies of our online services (i.e. time to connect to our Websites or Mobile Applications, time to download pages, etc.). This information allows us to see which areas of each Online Channel are most visited and helps us better understand our customers' experiences with the Express Online Channels. This helps us improve the quality of your online experiences by recognizing and delivering more of the preferred features, areas and services. In the process of gathering navigational information, we may also collect information such as domain type, browser version, service provider, type of smartphone, and IP address, which will provide information regarding a visitor's use of our Websites or Mobile Applications (such as the time of a visitor's last visit to a page on our site).  
   
 **Collection of Personal Information:**  
   
 Express may ask you to provide personal information through its Online Channels.  For example, when you establish or update an account on an Express Website (including establishing an account for our loyalty program), sign up for (thus, consent to receive) our emails, register through an Express Mobile Application, provide information directly to Express through a Social Media Page, enter a sweepstakes or contest, voluntarily participate in a survey, quiz or poll, shop online, make a purchase (including purchasing and sending a gift card), check the status of an order or review order history.  
   
-Categories of information collected include name, address (shipping and billing), email address, recipient’s name and e-mail address, order information, order number, telephone number, credit card information, gender, birthday, social media names, preferences, wish lists, profile information you may create on the social media sites where you interact with Express Social Media Pages, information about your friends on these social media sites,  and demographic information if you voluntarily participate in a survey, quiz or poll.   
+Categories of information collected include name, address (shipping and billing), email address, recipient's name and e-mail address, order information, order number, telephone number, credit card information, gender, birthday, social media names, preferences, wish lists, profile information you may create on the social media sites where you interact with Express Social Media Pages, information about your friends on these social media sites,  and demographic information if you voluntarily participate in a survey, quiz or poll.   
   
 On www.express.com, you may also provide information to set up a profile and job agent if you are interested in a career with Express, LLC.  The information you submit at www.express.com to create a career profile will include name, e-mail address, postal address, phone and, if you have one, your resume, plus the type of position you are seeking.  
   
@@ -48,11 +47,11 @@ Express may allow you to use your Facebook account information to provide us inf
   
 Personal information may be collected through Express Social Media Pages directly by Express and the social media site hosting the page.   
   
-Personal Information collected directly by Express: The collection of personal information directly by Express on its Social Media Pages is addressed under Collection of Personal Information above.  Examples of how personal information may be directly collected on Express Social Media Pages include providing information through (1) a Facebook application or form which links to this Privacy Policy, and (2) through the Express Shop that is located on the Express page on Facebook.  Express will use and share the information we collect on our Social Media Pages in the manner specified below in “How do we use the information that we collect?”  
+Personal Information collected directly by Express: The collection of personal information directly by Express on its Social Media Pages is addressed under Collection of Personal Information above.  Examples of how personal information may be directly collected on Express Social Media Pages include providing information through (1) a Facebook application or form which links to this Privacy Policy, and (2) through the Express Shop that is located on the Express page on Facebook.  Express will use and share the information we collect on our Social Media Pages in the manner specified below in "How do we use the information that we collect?"  
   
 Personal Information collected by the social media sites: This Privacy Policy does not cover the privacy and security practices of the social media sites on which Express has Social Media Pages.  Please review privacy policies and terms of service on the social media sites if you have any questions about their privacy or security practices.  
   
-The social media sites where Express has it Social Media Pages may provide aggregate information and analysis to Express about visitors’ use of our Social Media Pages, but this does not occur on the Express Shop portion of our Social Media Page on Facebook.  This allows us to better understand and analyze our user growth, general demographic information about the users of our social media pages and interaction with content on our Social Media Pages.  Overall, this information may be used to help us understand the types of visitors and users of our social media pages and use of the content.  
+The social media sites where Express has it Social Media Pages may provide aggregate information and analysis to Express about visitors' use of our Social Media Pages, but this does not occur on the Express Shop portion of our Social Media Page on Facebook.  This allows us to better understand and analyze our user growth, general demographic information about the users of our social media pages and interaction with content on our Social Media Pages.  Overall, this information may be used to help us understand the types of visitors and users of our social media pages and use of the content.  
   
 **HOW DO WE USE THE INFORMATION THAT WE COLLECT?**  
   
@@ -86,12 +85,12 @@ WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES?**
   
 We may use third parties to help us provide services to you, such as developing and/or hosting our Websites, Social Media Pages and Mobile Applications, fulfilling orders, processing payments, monitoring site activity, conducting surveys, processing gift card orders, maintaining our database and administering e-mails, drawings or sweepstakes or contests that we sponsor. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third party service providers, we will require that such information be maintained by them in confidence, unless otherwise specified in this Privacy Policy or otherwise specifically required by Official Rules for sweepstakes.  
   
-Prior to July 6, 2010 Express.com shared your e-mail address with Bath &. Body Works, The Limited, Victoria’s Secret, and other companies affiliated with Bath and Body Works and Victoria’s Secret.  If you provide your email address to us after July 7, 2008 (including updating your e-mail information), provided you have not opted out of receiving marketing emails from us, your email address may also be shared with other companies, so that those businesses may send you information about their products.   
+Prior to July 6, 2010 Express.com shared your e-mail address with Bath &. Body Works, The Limited, Victoria's Secret, and other companies affiliated with Bath and Body Works and Victoria's Secret.  If you provide your email address to us after July 7, 2008 (including updating your e-mail information), provided you have not opted out of receiving marketing emails from us, your email address may also be shared with other companies, so that those businesses may send you information about their products.   
   
 Express makes names and postal addresses in its direct mailing list available to other companies.  
 When you send an E-mail a Friend from an Express Online Channel, we will send your selected recipient your e-mail address, message, and your selected outfit or item(s). We may include an opportunity for the recipient to sign up to receive promotional materials from Express.  
   
-World Financial Network National Bank (WFNNB) issues and owns the Express credit card accounts. If you are a U.S.  resident and apply online for an Express credit card with WFNNB or, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB’s privacy policies.  
+World Financial Network National Bank (WFNNB) issues and owns the Express credit card accounts. If you are a U.S.  resident and apply online for an Express credit card with WFNNB or, once opened, you elect to pay your account online, you will be providing your personal information directly to WFNNB and the information you provide to WFNNB would be subject to WFNNB's privacy policies.  
   
 We may occasionally participate in sweepstakes or contests with other companies where we will share information collected for the sweepstakes or contest.  In other instances we may join with another company and provide a link to a website hosted by the other company. In those instances where you will register for the sweepstakes or contest by going to the linked website, you will be providing personal information, such as name, postal address, e-mail address, telephone number and gender directly to the company that is hosting the sweepstakes or contest website. However, some, if not all, of the personal information that you provide on the sweepstakes or contest website may be provided to us by the company hosting the sweepstakes.  
   
@@ -105,24 +104,27 @@ In addition, we may participate with certain unrelated companies who will link y
   
 1\. What are cookies?  
   
-Express Online Channels may use a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer’s hard drive and are used by Express, somtimes in conjunction with pixel tags, to help track clicks and pass information as you go through the pages within the specific Online Channel visited.  Cookies also help us keep track of how many items you put into your shopping bag and to remember you when you return to Express. We may also use a cookie and/or a pixel tag (also known as web bugs) in e-mails to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Cookies and pixel tags can allow us to associate navigational information from browsing visits with personal information you provide at our site.  
+Express Online Channels may use a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used by Express to help track clicks and pass information as you go through the pages within the specific Online Channel visited.  Cookies also help us keep track of how many items you put into your shopping bag and to remember you when you return to Express. We may also use a cookie and/or a technology known as clear gifs or web bugs which are typically stored in e-mails to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience. Cookies can allow us to associate navigational information from browsing visits with personal information you provide at our site.  
   
-2\. How do third parties use cookies on our Websites?  
+2\. Do we share information from cookies with third parties?  
+We may share non-transactional behavioral data collected through the use of cookies after July 7, 2008 with other businesses.   
   
-Advertising: We use third parties to place Express advertisements on our Website and other websites. Some of these third parties use technology (such as cookies and/or pixel tags) to collect information when you visit an Express Website. These selected companies may use information (not including your name, address, credit card information, email address, or telephone number) about your choice to visit and where you visit on our Website and whether you elect to make a purchase. These third parties also use this technology to collect information about your visits to other websites. This collected information assists us in placing targeted advertisements about our products and services on other websites that you visit or that are visited by others likely to be interested in our products and services. These selected companies also provide information to us so we can gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes.  
+3\. How do third parties use cookies on our Websites?  
+  
+Advertising: We select third-party advertising companies and allow them to collect non-personally identifiable information by placing cookies when you choose to visit them and when you visit an Express Website. These selected companies may use information (not including your name, address, credit card information, email address, or telephone number) about your choice to visit and your visits to our Websites and other websites to provide advertisements about our products and services on this and other websites. These selected companies also provide this information to us which we use to gauge the effectiveness of the advertisements they place about our products and services and for marketing purposes.  
   
 Express does not use third-party behavioral advertising cookies on its Social Media Pages or Mobile Applications.  However, the social media sites hosting the Social Media Pages may use third-party behavioral advertising cookies.   
   
 Analysis: We have also selected companies that will assist us in better understanding your use of our Websites, Mobile Applications and the Express Shop on Facebook.  These companies will place cookies on your computer upon a visit to one of our Websites or the Express Shop on Facebook or your use of a Mobile Application to collect information on our behalf and may also make use of web bugs. These companies may use both third-party and first-party cookies. Blocking cookies served from third-party domains will not block the first-party cookies. The information these companies collect educates us on such things as search engine referral, how you navigate around the Website, Mobile Application or the Express Shop on Facebook you have elected to visit or download, traffic driven by banner ads, responses to email, unique visitor identification, and product browsing and purchasing information, and allows us to better serve your interests and provide you with more personalized product offerings. Express does not allow these companies to collect credit card, username or password information.  The information collected on our behalf is analyzed and returned to Express. We may allow these companies to use collected data on an aggregate basis.  The analysis of this information is required to be maintained by these service providers in confidence.  
   
 **WHAT CHOICES DO YOU HAVE OVER HOW YOUR INFORMATION IS USED?**  
-Express Mobile Application Collection of Location Information: You may elect not to allow location information to be collected when it is requested through the Mobile Application or you can choose to not allow by turning off location services on your mobile device.  If you choose “Don’t Allow” on a Mobile Application, you can then select any of the top metro areas noted and the Mobile Application will then only provide information relevant to that specific metro area and not collect your specific location.  
+Express Mobile Application Collection of Location Information: You may elect not to allow location information to be collected when it is requested through the Mobile Application or you can choose to not allow by turning off location services on your mobile device.  If you choose "Don't Allow" on a Mobile Application, you can then select any of the top metro areas noted and the Mobile Application will then only provide information relevant to that specific metro area and not collect your specific location.  
   
 Express Email: If you no longer want to receive email from Express, you can follow the removal instructions located at the bottom of the next e-mail you receive from Express. Please be aware, even if you elect not to receive e-mail, or subsequently ask to be removed from receiving email from Express, you may still receive e-mails sent by a friend using E-mail a Friend and e-mail confirmations for online purchases, whether made at an Express Website, through our Express Shop located on the Express page on Facebook, or through an Express Mobile Application.  
   
 Direct Mailing: If you no longer wish to receive our direct mailings or have your name and address shared with other companies (other than third parties who provide services to Express) please call us at 1-800-749-0564.  
   
-Third-party Advertising Cookies: If you would like more information about the use of third-party advertising cookies and to know your choices with respect to third-party advertising cookies, click here.  
+Third-party Advertising Cookies: If you would like more information about the use of third-party advertising cookies and to know your choices about no longer having information from these cookies used by third-party advertising companies or provided to us, click here.  
 Third-party Analytic Cookies: As a visitor to www.express.com, you have the option to deactivate the ability of our third-party service providers to analyze your browsing and purchasing behavior on www.express.com . You may also choose to continue to benefit from the improved shopping experience which this analysis allows us to provide to you. Since this opt-out relies on cookies, if you delete your cookies, you will need to opt-out again. To learn more about the various levels of privacy and confidentiality you can select with respect to these companies and to exercise your choice,  
 Click Here To Opt-Out of 2o7.net Cookie Tracking Now.  
   
@@ -138,11 +140,11 @@ If you are visiting an Express Online Channel from a location outside of the U.S
   
 **HOW CAN YOU UPDATE YOUR PERSONAL INFORMATION?**  
   
-If you need to update personal information associated with an account created with Express through an Online Channel (such as your name, mailing address, phone number or e-mail address), just sign  into your account by using your password and revise the information in the account.  You can also update your personal information associated with an Express Mobile Application through the registration page.  If you have other questions regarding your personal information, you may contact us as specified below under “Where should you direct your questions?”  
+If you need to update personal information associated with an account created with Express through an Online Channel (such as your name, mailing address, phone number or e-mail address), just sign  into your account by using your password and revise the information in the account.  You can also update your personal information associated with an Express Mobile Application through the registration page.  If you have other questions regarding your personal information, you may contact us as specified below under "Where should you direct your questions?"  
 **  
 PRIVACY OF CHILDREN**  
   
-To ensure compliance with the Children’s Online Privacy Protection Act of 1998, Express does not knowingly collect or maintain information provided by children under the age of 13 on our Online Channels.   
+To ensure compliance with the Children's Online Privacy Protection Act of 1998, Express does not knowingly collect or maintain information provided by children under the age of 13 on our Online Channels.   
 With respect to Express Mobile Applications, the Terms of Service for Express Mobile Applications provide that these mobile applications are intended for individuals who are 18 or older and you affirm this upon registration.  
   
 **LINKS TO OTHER WEBSITES AND SERVICES**  
