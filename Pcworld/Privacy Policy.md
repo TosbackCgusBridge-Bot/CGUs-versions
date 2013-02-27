@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Asus crosses smartphone, tablet to make PadFone Infinity, Fonepad February 25, 2013
-*   App.net introduces invitation-only free accounts February 25, 2013
-*   Crysis 3 Review: Savage beauty in glorious high definition February 25, 2013
+*   New motion tech makes mobile devices far more self-aware February 26, 2013
+*   NEC seeing double with dual-screen smartphone February 26, 2013
+*   One of Pluto's moons may be named Vulcan. Spock nowhere to be found February 26, 2013
 
 PCWorld Articles
 
-*   Five surprisingly great things about Outlook 2013 February 25, 2013
-*   Businesses get new marketplace for used IT gear February 25, 2013
-*   iOS plus inspired design equals awesome 'iWatch' February 25, 2013
+*   Review: Postbox is a slick, affordable desktop email client that plays nice with Gmail February 26, 2013
+*   Individual tabs gain nifty new features in pre-release Chrome and Firefox builds February 26, 2013
+*   Facing legal threats in Sweden, The Pirate Bay divides and multiplies February 26, 2013
 
   
 TechHive on Twitter (@TechHive)
