@@ -35,6 +35,9 @@
 *   Baby Toys
 *   Role Play
 
+*   Sweeps
+*   Share Your Moment Sweepstakes Official Rules
+
 *   Family Playtime
 *   Playtime Guide
 *   Sharing Moments of Joy
