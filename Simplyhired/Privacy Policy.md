@@ -1,4 +1,4 @@
-Post Your Resume • Sign In Keywords
+Upload Resume • Sign In Keywords
 
 job title, skills or company
 
@@ -76,7 +76,7 @@ This Privacy Policy was last updated: April 21, 2010
 
 This Privacy Policy is effective as of: June 22, 2006
 
-Local Salaries Trends Blog Post a Job Employers Publishers Job Search Browse About Help © 2013 Simply Hired, Inc. Privacy Terms **Africa:**
+Local Salaries Trends Blog Post a Job Employer Solutions Publisher Solutions Job Search Browse About Help © 2013 Simply Hired, Inc. Privacy Terms **Africa:**
 
 *   South Africa Jobs
 
