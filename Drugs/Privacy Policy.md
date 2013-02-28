@@ -4,7 +4,7 @@ For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.
 
 **For third party advertising information and opt-out options please click here**.
 
-TRUSTeTRUSTe's program requirements
+TRUSTe TRUSTe's program requirements
 
 If you have questions or concerns regarding this statement, you should first contact:
 
