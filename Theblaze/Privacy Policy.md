@@ -1,10 +1,10 @@
-**THEBLAZE.Com LLC – PRIVACY POLICY**
+**TheBlaze.com – PRIVACY POLICY**
 
 Last Updated: August 30, 2010
 
 **A. Our Commitment to Privacy**
 
-THEBLAZE.COM LLC (“THEBLAZE”) realizes the importance of respecting and protecting your privacy.
+THEBLAZE INC (“THEBLAZE”) realizes the importance of respecting and protecting your privacy.
 
 This privacy policy (“Privacy Policy”) discloses the information that THEBLAZE gathers on the web site THEBLAZE.COM that THEBLAZE owns (the “Site”), as well as ways in which THEBLAZE processes and, sometimes, shares such information and how you can correct or change that information. The Site also includes versions designed for browsing on mobile devices and the use of such devices is governed by this Privacy Policy as well.
 
@@ -135,7 +135,7 @@ THEBLAZE provides you with the following options for removing your Personally Id
 
 1.  You can send an email to contact@theblaze.com. or
 2.  You can send mail to the following postal address:**  
-    THEBLAZE.COM LLC,** **1270 Avenue of the Americas, 9** **th** **Floor, New York, New York 10036**  
+    THEBLAZE INC,** **1133 Avenue of the Americas, 34** **th** **Floor, New York, New York 10036**  
     Attention: Scott Baker, Managing Editor
 
 **E. Important Disclosures, Practices and Contact Information**
@@ -188,6 +188,6 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to contact THEBLAZE at:
 
-**THEBLAZE.COM LLC, 1270 Avenue of the Americas, 9** **th** **Floor, New York, New York 10036, Attn: Scott Baker, Managing Editor.**
+**THEBLAZE INC, 1133 Avenue of the Americas, 34** **th** **Floor, New York, New York 10036, Attn: Scott Baker, Managing Editor.**
 
 Email: contact@theblaze.com
