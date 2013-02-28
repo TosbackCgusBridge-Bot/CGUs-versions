@@ -3,9 +3,9 @@
 
 My Lexus Owner Benefits Pay My Bill Lexus Enform® Scheduled Maintenance Knowledge Center/Guide Lexus Magazine Lexus Navigation Vehicle Search CPO Overview Vehicle Library SEDANS SUVS CONVERTIBLES HYBRIDS PERFORMANCE FUTURE All VEHICLES \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • • \[1\] • • \[1\] • • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • \[1\] • \[2\] • Originally $375,000 \[1\] • All 500 units sold • 552 hp \[2\] • F Vehicles • F SPORT Vehicles • F SPORT Accessories Concept Vehicle  Concept Vehicle  Future Vehicle Shopping Tools Build Your Lexus Find a Dealer Financial Services Explore financing and apply for credit Accessories Genuine accessories and F Sport™ accessories Special Offers Find special financing offers in your area Sign Up Receive exclusive news and more
 
-**Scope** This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
+This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
-**Scope** During 2013, Lexus shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.
+During 2012, Lexus shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.
 
 Information Collected
 
