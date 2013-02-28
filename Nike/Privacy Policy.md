@@ -1,4 +1,4 @@
-Skip Navigation   Back GET HELP NIKE Digital Privacy Policy  
+Skip Navigation   Back NIKE Digital Privacy Policy  
 
 Effective February 21, 2012
 
@@ -138,4 +138,4 @@ For questions or concerns, please contact Consumer Services/Privacy at: 1-800-80
   
 
   
-Stores Near You Get Help Terms of Use Privacy Policy  United States ©2013 NIKE, Inc. All Rights Reserved
+Stores Near You Get Help Terms of Use Privacy Policy ©2013 NIKE, Inc. All Rights Reserved
