@@ -69,7 +69,7 @@ The full Microsoft Online Privacy Statement contains links to supplementary info
 
 •
 
-The sign in credentials (e-mail address and password) used to sign in to most Microsoft sites and services are part of the Microsoft account.
+The sign in credentials (e-mail address and password) used to sign in to most Microsoft sites and services are part of the Windows Live ID.
 
 •
 
