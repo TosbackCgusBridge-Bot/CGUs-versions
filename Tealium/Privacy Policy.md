@@ -118,3 +118,6 @@ This policy was last updated on November 22, 2011.
 *   © 2013 Tealium, Inc.
 *   Privacy Policy
 *   Site Map
+
+*   Follow @tealium
+*   rss
