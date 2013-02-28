@@ -1,7 +1,7 @@
       **PriceGrabber Terms of Use and Privacy Statement  
 ** 
 
-Last Modified August 29, 2012
+Last Modified February 19th, 2013
 
 PriceGrabber.com Inc., a Delaware Corporation, including its successors and assigns, ("PriceGrabber") operates the PriceGrabber Internet shopping sites (including, without limitation, www.pricegrabber.com, www.bottomdollar.com, www.preciomania.com, and www.precomania.com) and certain co-branded versions of its site under contract other third parties (collectively, the "Site"). You may only use the Site pursuant to the following terms and conditions, which you accept by your use of the Site. Use of the Site is subject to additional terms and conditions defined by our content providers ("Licensors") as stipulated on applicable pages of the Site, which you accept by your use of the Site. PriceGrabber, reserves the right to modify or revise these Terms of Use and/or Privacy Statement or its other policies at any time at its sole discretion. Any such modifications to the Terms of Use and Privacy Statement shall be effective within forty-eight (48) hours of being posted on the Site unless otherwise stated by PriceGrabber, in writing. You are bound by such modifications or revisions, and should therefore visit this page frequently to review the terms. Your continued use of the Site following PriceGrabber’s posting of any changes or modifications to these Terms of Use and/or Privacy Statement will constitute your acceptance of such changes or modifications. In the event that you do not agree to any changes or modifications of these Terms of Use and/or Privacy Statement, you should not continue to use the Site.
 
@@ -37,6 +37,18 @@ You agree that you shall not post or provide any information to/for the Sites:
 In contributing or submitting any content to the Site, you agree not to use a false or misleading email address, impersonate any person or entity, or otherwise provide any misleading information as to the origin of any content that you submit. You should also note your obligations to indemnify PriceGrabber (among others) for the content you submit as set forth in the indemnity section, below.
 
 You agree that you will not use any device, software or routine to bypass our robot exclusion headers, or to interfere or attempt to interfere with the proper working of the Site or any sales being conducted through the Site. You agree that you will not take any action that imposes an unreasonable or disproportionately large load on PriceGrabber's computer systems or communications infrastructure. You agree that you will not use any software robot, spider, other automatic device or manual process to monitor or copy Site pages or the content contained therein without PriceGrabber's prior written consent.
+
+**REVIEW GUIDELINES**
+
+Review only one product at a time, based on your own experience. Do not copy material from other sources.
+
+If you wish to comment on the seller, please post a Merchant Review.
+
+Describe why you would or would not recommend that others purchase this product. Be Specific.
+
+Remember, offensive language &. commercial endorsements are not allowed.
+
+Contact information, such as email addresses, phone numbers, or URLs, is strictly prohibited and will result in the deletion of the post.
 
 **MERCHANT REVIEWS**
 
