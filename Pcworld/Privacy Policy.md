@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   New motion tech makes mobile devices far more self-aware February 26, 2013
-*   NEC seeing double with dual-screen smartphone February 26, 2013
-*   One of Pluto's moons may be named Vulcan. Spock nowhere to be found February 26, 2013
+*   Voyager car smartpone looks to make driving and dialing safe February 27, 2013
+*   MWC 2013 Day Two: A busy day for devices February 27, 2013
+*   3D prints get the spa treatment to remove unsightly molding lines February 27, 2013
 
 PCWorld Articles
 
-*   Review: Postbox is a slick, affordable desktop email client that plays nice with Gmail February 26, 2013
-*   Individual tabs gain nifty new features in pre-release Chrome and Firefox builds February 26, 2013
-*   Facing legal threats in Sweden, The Pirate Bay divides and multiplies February 26, 2013
+*   App Spotlight: TigerText promises to keep text messages private and secure February 27, 2013
+*   Change the default behavior for new tabs in Internet Explorer February 27, 2013
+*   Third time's the charm? Adobe patches even more critical Flash vulnerabilities February 27, 2013
 
   
 TechHive on Twitter (@TechHive)
