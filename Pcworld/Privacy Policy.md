@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Voyager car smartpone looks to make driving and dialing safe February 27, 2013
-*   MWC 2013 Day Two: A busy day for devices February 27, 2013
-*   3D prints get the spa treatment to remove unsightly molding lines February 27, 2013
+*   Flexible glass displays still years away, says Corning February 28, 2013
+*   Russian meteorite was just an common large space rock February 28, 2013
+*   15 non-payment uses for NFC February 28, 2013
 
 PCWorld Articles
 
-*   App Spotlight: TigerText promises to keep text messages private and secure February 27, 2013
-*   Change the default behavior for new tabs in Internet Explorer February 27, 2013
-*   Third time's the charm? Adobe patches even more critical Flash vulnerabilities February 27, 2013
+*   Avast's all-new antivirus lineup packs in new features, a redesigned interface February 28, 2013
+*   CEO says ARM will learn from its mistakes with Windows RT February 28, 2013
+*   China claims its military and defense sites were hacked by U.S. attackers February 28, 2013
 
   
 TechHive on Twitter (@TechHive)
