@@ -7,29 +7,30 @@ The principals in these Terms do not change, though the specific enforcement of 
 1.  Terms of Service
 2.  1\. YES, I AGREE!
 3.  2\. The big picture: Description of Service
-4.  3\. The rules
-5.  4\. The content: who owns it?
-6.  5\. About royalties
+4.  3\. The Rules
+
+6.  4\. The content: who owns it?
 
 More
 
 1.  Terms of Service
 2.  1\. YES, I AGREE!
 3.  2\. The big picture: Description of Service
-4.  3\. The rules
-5.  4\. The content: who owns it?
-6.  5\. About royalties
-7.  6\. Resale of service
-8.  7\. Squidoo can modify or discontinue the service
-9.  8\. External software
-10.  9\. Squidoo can terminate your use of the service
-11.  10\. Squidoo proprietary rights
-12.  11\. Disclaimer of waranties
-13.  12\. Limitation of liability
-14.  13\. Miscellaneous, but important, terms
-15.  14\. Dispute resolution
-16.  15\. Trademarks
-17.  16\. Good Practice
+4.  3\. The Rules
+
+6.  4\. The content: who owns it?
+7.  5\. About royalties
+8.  6\. Resale of service
+9.  7\. Squidoo can modify or discontinue the service
+10.  8\. External software
+11.  9\. Squidoo can terminate your use of the service
+12.  10\. Squidoo proprietary rights
+13.  11\. Disclaimer of waranties
+14.  12\. Limitation of liability
+15.  13\. Miscellaneous, but important, terms
+16.  14\. Dispute resolution
+17.  15\. Trademarks
+18.  16\. Good Practice
 
 Less 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
   
@@ -49,66 +50,123 @@ You will be responsible for any activities that take place under your name and p
   
 And, of course, Squidoo promises to never ever ever (did we mention ever?) rent or sell your personal information, and you will never receive email from a third party as a result of your relationship with us, unless we explicitly ask and you explicitly opt in to do so.  
   
-When becoming a Lensmaster, you have the ability to turn ON a feature called "contact the Lensmaster"--this function allows people to send emails to you, without seeing your email address. The feature starts turned off, to protect you. You have the right to be contacted by readers with questions or comments. You also have the right not to. It's up to you to manage any email you get from your readers. Squidoo cannot mediate email disputes that happen in your personal inbox. 3. The rules Here are the big picture rules. Please remember that Squidoo reserves the right to cancel your account if we suspect that you're spamming, sharing illegal content, abusing or maligning another community member or individual, or any other activities that don't fit the spirit of the site. We promise not to do this without fair cause. By following the below rules, we're betting you'll be just fine.  
-  
+When becoming a Lensmaster, you have the ability to turn ON a feature called "contact the Lensmaster"--this function allows people to send emails to you, without seeing your email address. The feature starts turned off, to protect you. You have the right to be contacted by readers with questions or comments. You also have the right not to. It's up to you to manage any email you get from your readers. Squidoo cannot mediate email disputes that happen in your personal inbox. 3. The Rules Here are the big picture rules. Please remember that Squidoo reserves the right to cancel your account if we suspect that you're spamming, sharing illegal content, abusing or maligning another community member or individual, or any other activities that don't fit the spirit of the site. We promise not to do this without fair cause. By following the below rules, we're betting you'll be just fine.
 
   
 *   You are solely responsible for your conduct and any data, text, information, screen names, links, graphics, photos, profiles, audio and video clips, and links ("Content") that you submit, post and display on your Lens or via the Service.  
+      
+      
     
 *   You cannot Spam. We hate Spam. Everyone hates Spam. Meet our Zero Tolerance Policy: You cannot modify, adapt or hack the Squidoo website, your own lenses, or anyone else's lenses. You also cannot use your Squidoo lenses or our platform to spam or attack others online, on the site or off. This includes such behaviour as automatically redirecting traffic from your lenses to other pages, introducing viruses to the site, spamming bloggers, email spam to lensmasters or others, and more. If our community reports you for this activity--even if your lenses and actions just SMELL spammy, you'll likely have your account deleted.  
+      
+      
     
 *   You also cannot create spam lenses (multiple lenses that carry the same content, lenses that are irrelevant to the topic, lenses that are uncurated and lifted from other sites, Squidoo accounts with several lenses devoid of multiple modules of handpicked content, accounts trying to promote the same service on hundreds of matching lenses, or anything the Squidoo officials deem to be Spam). Period.  
+      
+      
     
-*   We run regular and periodic reviews of lenses to enforce our policies, including (but not limited to): acting against known spam content,  
-    locking lenses on topics we can't support, 'doorway' lenses that exist solely to promote an affiliate program, and most recently we have also  
-    increased our systematic intolerance of aggressively duplicated (unoriginal) content, article spinning (yikes), and plagiarism. We aim to support high-quality, original and useful lifestyle content that real readers will be glad to land on. So, in addition to enforcing our TOS, we reserve the right to unpublish lenses that have shallow or lower-quality writing, as well as lenses that point to other sites that have been flagged as low quality or spam.  
+*   We run regular and periodic reviews of lenses to enforce our policies, including (but not limited to): acting against known spam content, locking lenses on topics we can't support, 'doorway' lenses that exist solely to promote an affiliate program, and most recently we have also increased our systematic intolerance of aggressively duplicated (unoriginal) content, article spinning (yikes), and plagiarism. We aim to support high-quality, original and useful lifestyle content that real readers will be glad to land on. So, in addition to enforcing our TOS, we reserve the right to unpublish lenses that have shallow or lower-quality writing, as well as lenses that point to other sites that have been flagged as low quality or spam.  
+      
+      
     
 *   You must not abuse, harass, threaten, malign, flame or intimidate other Lensmasters, staff, others who use the Service, bloggers or others online. Nor may you upload, post or otherwise include any Content that is defamatory, libelous, tortuous, vulgar, obscene, invasive of privacy, racially or ethnically objectionable, hateful, promotes or provides instructional information about illegal activities, or promotes any act of cruelty to animals or certain vegetables.  
+      
+      
     
 *   You must not impersonate another Lensmaster or any official of Squidoo. This also extends to falsely claiming to be a "Giant Squid" (one of our VIP members) or volunteer Citizen Squid or Angel or any of our other community awards and positions. If you trick someone into thinking you're something you're not, we'll lock your account.  
+      
+      
     
 *   Thou shalt not create X-rated lenses. Creating X-rated lenses may result in having your lens or entire account locked and/or deleted.  
+      
+      
     
 *   Your lensmaster bio pics MUST be G-rated. Using R or X-rated avatars may result in having your entire account deleted.  
+      
+      
     
 *   If SquidStaff believes your lens to be grossly miscategorized, they reserve the right to re-categorize your lens right away or lock it.  
+      
+      
     
 *   You cannot create Lenses or use the Service for any illegal or unauthorized purpose, or to promote or make solicitations for any illegal or unauthorized activity.  
+      
+      
     
 *   You cannot use the Service to distribute, share or solicit Content belonging to third parties without proper authorization from the owner(s) of that Content. You must respect the proprietary and intellectual property rights of others (including trademark, copyright and trade secrecy) in creating your Lens. Squidoo is a fair harbor platform and can't endorse the content on our pages. if you have an issue with another user's content, please contact that individual directly first. Failing that, please send us a note, and we may be able to review or lock the lens in question.  
+      
+      
     
-*   You must not, in the use of Squidoo, violate any Federal, state or local laws. If you are creating a Lens outside of the United States, you must comply with all local laws regarding online conduct and acceptable content  
+*   You must not, in the use of Squidoo, violate any Federal, state or local laws. If you are creating a Lens outside of the United States, you must comply with all local laws regarding online conduct and acceptable content.  
+      
+      
     
-*   **The Squidoo Respect Everyone Policy:** You cannot abuse other lensmasters, bloggers, organizations and individuals online and off. Wait, did we mention this one yet? Probably because we're serious. Abuse = flaming people in the SquidU forum, harming their lenses for your own gain, publicly maligning other members of the community, emailing threatening notes to lensmasters, and more. If our forum moderators or community report you for these activities, your lenses could get locked or deleted.  
+*   **The Squidoo Respect Everyone Policy:** You cannot abuse other lensmasters, bloggers, organizations and individuals online and off. Wait, did we mention this one yet? Probably because we're serious. Abuse = flaming people in the SquidooHQ forum, harming their lenses for your own gain, publicly maligning other members of the community, emailing threatening notes to lensmasters, and more. If our forum moderators or community report you for these activities, your lenses could get locked or deleted.  
+      
+      
     
 *   You cannot transmit content in breach of a confidentiality or fiduciary obligation you may have.  
+      
+      
     
 *   We've said this already but it's worth saying again: You cannot attempt to automatically redirect surfers to other domains, mislead surfers of the origins of the Content contained in your Lens, or use your Lens as storage for remote loading or to a website outside of the Squidoo website.  
+      
+      
     
 *   You cannot manipulate our affiliate partners (like ebay and Amazon, but not limited to those) by purchasing items from your own lenses in order to snag an extra commission. This will result in defaulting your royalties to charity.  
+      
+      
     
 *   You may not develop restricted or password-only Lenses, or hidden pages or images (those not linked to from another accessible page).  
+      
+      
     
 *   You cannot interfere with or disrupt the Service, or any servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service.  
+      
+      
     
 *   You cannot collect or store personal data about other users, except that you may encourage surfers to contact you and you may, in return, contact them back.  
+      
+      
     
 *   **Note: Squidoo does not endorse or recommend ratings swaps.** And, in fact, if you spam people asking for them, you'll assuredly lose. Building a so-called business on ratings swaps or traffic exchanges could mean you did a whole lot of work for a whole lot of nothing.  
+      
+      
     
 *   Squidoo reserves the right to change our LensRank algorithm at any time.  
+      
+      
     
 *   **The end of spambait:** Some topics are just irresistible to spammers. These are topics that don't generally exist in the real world, that aren't particularly useful, and that are very profitable to people who spam. So, here's where we draw the line between junk and spam. There are topics we're just not going to let people write about. We wish we didn't have to do that, but it's the best plan available to remove the bad actors that want to take advantage, while keeping the site open for passionate people of all stripes. So the deal is: you can't build any content in these areas on Squidoo. If you are interested in these areas, it's entirely possible you will bump into our filter (we call it the SquidDon't filter), and if you do, we hope you'll just walk away, not try to be clever and get around it. Hey, there must be other things you're passionate about in this world. Why not make a lens on that, and leave the online texasholdem4u pages out. Even better, we hope that 99% of you won't even know it's there.  
+      
+      
     
 *   If your lens exists to send people to a site that offers illegal downloads of movies, games, or music, we will suspend it, and will probably suspend ALL your lenses. It's a violation of the DMCA and our policies. We understand that more options are becoming available to watch TV shows and movies online, some paid and some free. However, writing lenses about this topic can be tricky. These lenses are almost always flagged and locked by our community for appearing to be a violation of our TOS and DMCA laws. If you choose to create lenses about free online media sources, please keep in mind:  
+      
+      
+    
     1.  If we doubt your resource, or if your lens is reported as spam, we may end up locking your lens, possibly for good.  
+          
+          
         
     2.  If you actively spam, regardless of your topic, your lens will probably be locked for good.  
+          
+          
         
     3.  The most successful lenses revolve around not-found-anywhere-else content. There are plenty of great ways to uses links as resources, and if your lens has no original content, it could get flagged or locked.
-*   Even further clarification of our Terms of Service for those that need it to be clarified:  
+    
+      
+      
+    **Even further clarification of our Terms of Service for those that need it to be clarified:**  
+      
+      
     1.  If you make a lens filled with repetitive language designed to bait the search engines, we'll probably delete it. We are looking for useful, updated material that is written by a person, for a person.  
+          
+          
         
     2.  If you make lots and lots of cookie cutter lenses, each one mirroring the next, we will probably delete them. See #1.  
+          
+          
         
     3.  Hosting content used without permission, copied and pasted articles, and/or uncredited images and language is against our TOS. For best results, just be you. Yup, we're more strict than the law states, and we also don't allow PLRs, purchased articles, etc. If you didn't write it, it isn't yours to use.
 
