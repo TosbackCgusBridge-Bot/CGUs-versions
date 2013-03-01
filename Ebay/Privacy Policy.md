@@ -158,7 +158,7 @@ We may disclose personal information to respond to legal requirements, enforce o
 
 We may also share your personal information with:
 
-*   Members of the eBay Inc. corporate family to provide joint content and services (like registration, transactions, and customer support), to help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches, and to guide decisions about their products, sites, applications, services and tools, and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services and will use your personal information in compliance with their this Privacy Policy and our global privacy standards.
+*   Members of the eBay Inc. corporate family to provide joint content and services (like registration, transactions, and customer support), to help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches, and to guide decisions about their products, sites, applications, services and tools, and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services and will use your personal information in compliance with their Privacy Policy and our global privacy standards.
     
 *   Service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, affiliate and rewards programs, site operations, and co-branded credit cards).
     
