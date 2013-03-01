@@ -3,7 +3,7 @@
 *   Find a Dealer
 
 *   Owners
-*   English Espanol
+*   English Español
 
 1.  Cars &. Minivan
     *   Yaris $14,370 starting msrp 1 30/37 est. mpg 2 Explore Build
@@ -38,7 +38,7 @@
     *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 Explore Build
     *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
         driving range 3 /  
-        mpge 4 Explore Build
+        mpge 4 Explore
     *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
     *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
     *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
@@ -338,14 +338,14 @@ Torrance, CA 90501
 Vehicles
 
 *   All Vehicles
+*   Search Inventory
 *   Cars
 *   Trucks
 *   SUVs
 *   Crossovers
-*   Hybrids
+*   Hybrids &. EV
 *   Hybrid Cars
 *   Hybrid SUVs
-*   Search Inventory
 *   Certified Used
 *   Toyota Rent a Car
 *   Toyota Mobility
@@ -355,20 +355,18 @@ Vehicles
 
 Resources
 
-*   Dealers
-*   Car Tips &. Advice
 *   Financial Tools
 *   Phone Compatibility &. Pairing
 *   Entune®
 *   Accessories
 *   Contact Us
 *   FAQs
+*   Car Tips &. Advice
 
 About Toyota
 
 *   Our Company
-*   Our News
-*   Awards
+*   Toyota USA Newsroom
 *   Careers
 *   Toyota Worldwide
 *   Toyota Financial Services
@@ -380,4 +378,4 @@ Toyota Social
 *   Twitter
 *   Youtube
 
-Search   RSS Sign Up For Updates English Espanol \[#\] View All Disclosures © 2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only   Privacy Policy Legal Terms Site Map Ad Choices
+Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map Ad Choices
