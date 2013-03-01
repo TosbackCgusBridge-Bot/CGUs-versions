@@ -241,13 +241,14 @@ Effective January 2013 
 *   Inside Fidelity
 *   International
 
-Connect with Fidelity Locate an Investor Center by ZIP Code Please enter a valid ZIP code
+Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP code
 
 *   Facebook
 *   Twitter
-*   Mobile
+*   YouTube
+*   Fidelity Mobile®
 
-Copyright 1998-2012 FMR LLC. All Rights Reserved.
+Copyright 1998-2013 FMR LLC. All Rights Reserved.
 
 *   Terms of Use
 *   Privacy
