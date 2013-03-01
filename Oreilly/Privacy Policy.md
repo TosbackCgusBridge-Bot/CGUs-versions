@@ -129,6 +129,7 @@ Community
 *   Membership
 *   Newsletters
 *   O'Reilly Answers
+*   O'Reilly Chimera _(beta)_
 *   RSS Feeds
 *   User Groups
 
