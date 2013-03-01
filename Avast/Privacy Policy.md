@@ -280,7 +280,7 @@ We make every effort to conduct our business in a fair and responsible manner. I
     
     *   (1) You can always reach us by email at customerservice@avast.com. Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
     *   (2) If you prefer, you can send paper mail to AVAST Software, Budejovicka 1518/13A, 140 00 Praha 4, Czech Republic. Be sure to write "Attention: Privacy" in the address so we know where to direct your correspondence.
-*   For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: http://ec.europa.eu/justice/policies/privacy/nationalcomm/index\_en.htm.
+*   For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm.
     
 *   For residents of the United States: If you live in the U.S. and you have a dispute regarding our handling of your personal data, you may contact the FTC for information. See http://www.ftc.gov/bcp/index.shtml. You may also contact the attorney general of the state where you live.
     
