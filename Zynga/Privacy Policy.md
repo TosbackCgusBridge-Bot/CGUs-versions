@@ -5,43 +5,11 @@ Skip to main content area
 *   Zynga.org
 
 *   games
-    *   Play on Zynga.com
-    *   Featured Games
-    *   Bubble Safari
-    *   CastleVille
-    *   Hidden Chronicles
-    *   CityVille
-    *   Empires &. Allies
-    *   FarmVille
-    *   Pioneer Trail
-    *   Zynga Poker
-    *   Words with Friends
-    *   Mafia Wars
-    *   Facebook Games
-    *   Mobile Games
-    *   Other Platforms
 *   news
-    *   Press Releases
-    *   Company Images
-    *   Company Blog
-    *   Engineering Blog
 *   careers
-    *   About Careers
-    *   US Careers
-    *   International Careers
-    *   University Careers
-    *   Benefits
-    *   Life at Zynga
 *   about
-    *   Our Story
-    *   About Zynga
-    *   Leadership Team
-    *   Board of Directors
-    *   Investors
 
-Zynga
-
-Play now!
+Zynga Play now!
 
 *   Investors
 *   Support
