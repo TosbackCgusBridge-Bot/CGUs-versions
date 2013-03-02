@@ -26,6 +26,7 @@ Sign up for our e-newsletter!
 *   Donate
     *   Donate Now
     *   Monthly Giving
+    *   Gift &. Estate Planning
     *   Memorial and Tribute Giving
     *   Gift Ideas
     *   More Ways to Give
@@ -246,5 +247,3 @@ Copyright © 2013 The Nature Conservancy.
 *   Terms of Use
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
-
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
