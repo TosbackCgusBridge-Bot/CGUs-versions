@@ -148,7 +148,7 @@ From time to time, HP participates in marketing initiatives with other companies
 
   
 
-HP may transfer your personal information to other HP-owned business entities in the US and Worldwide. . By accessing HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
+HP may transfer your personal information to other HP-owned business entities in the US and Worldwide. By accessing HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
 
   
 
@@ -306,7 +306,7 @@ You may be able to disable web beacons in email messages by not downloading imag
 If you choose to receive marketing emails or newsletters from HP as specified in Your choices and selecting your privacy preferences, HP may automatically collect personal information about you. For example, through web beacons and personalized URLs embedded in these emails or newsletters, HP can track whether you've opened those messages and whether you've clicked on links contained within those messages. For more information on embedded web links, see below.
 
   
-Embeded Web links
+Embedded Web links
 
 Emails from HP, Internet keyboard keys preconfigured by HP, and promotional icons preinstalled on your PC desktop often use links designed to lead you to a relevant area on the Web, after redirection through HP's servers. The redirection system allows HP to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.
 
