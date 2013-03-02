@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Flexible glass displays still years away, says Corning February 28, 2013
-*   Russian meteorite was just an common large space rock February 28, 2013
-*   15 non-payment uses for NFC February 28, 2013
+*   BigDog robot can hurl cinderblocks with ease, is more loyal than other robots March 1, 2013
+*   BlackBerry Z10 gets first software update March 1, 2013
+*   $99 Ouya Android gaming console ships in March March 1, 2013
 
 PCWorld Articles
 
-*   Avast's all-new antivirus lineup packs in new features, a redesigned interface February 28, 2013
-*   CEO says ARM will learn from its mistakes with Windows RT February 28, 2013
-*   China claims its military and defense sites were hacked by U.S. attackers February 28, 2013
+*   Windows 8 uptake slows for third straight month March 1, 2013
+*   Review: Swizzle sweeps out your inbox March 1, 2013
+*   MegaUpload loses a round in copyright violation charges March 1, 2013
 
   
 TechHive on Twitter (@TechHive)
