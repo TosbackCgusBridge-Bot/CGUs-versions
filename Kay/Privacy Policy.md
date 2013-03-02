@@ -2,26 +2,6 @@ Privacy
 
 At kay.com, we are committed to ensuring our customers' privacy. In order to do this, we adhere to the privacy standards we've set for ourselves and those set by the Direct Marketing Association ("The DMA"), of which we are a member. The DMA's privacy standards are aimed at assisting online marketers such as ourselves in meeting consumer expectations with respect to their personal information.
 
-SMS Terms &. Conditions
-
-Kay Jewelers Alerts
-
-SMS Terms &. Conditions
-
-Disclosure: You will receive info and promotional alerts from Kay Jewelers
-
-Text KAY to 553935 to join Kay Jewelers Alerts. 3 msgs/mo. You will receive promotional offers and alerts. Reply HELP for help. Reply STOP to cancel. Standard text messaging and data rates apply.
-
-Compatible carriers include (USA): AT&T, T-Mobile®, Verizon Wireless, Sprint, Nextel, Boost, Alltel, U.S. Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile®.
-
-Compatible Carriers (CDN): Aliant Mobility, Bell Mobility, Fido, Mobilicity, MTS, NorthernTel Mobility, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Virgin Mobile Canada, Vidéotron, WIND Mobile
-
-To discontinue receiving SMS messages from Kay Jewelers, text STOP to 553935. You may opt-out at any time.
-
-For additional help, text HELP to 553935 or visit www.Kay.com. You can also call 1.800.527.8029.
-
-Kay Jewelers respects your right to privacy. You can view our privacy policy above.
-
 What personal information is collected?
 
 When you visit kay.com, your internet service provider is automatically recognized, but you cannot be identified as an individual. Kay.com will track use of the website by our visitors, however, unless you sign in as a customer such tracking will be done anonymously. You are not required to provide kay.com with any information in order to browse the kay.com website. If you choose to provide information in connection with your use of kay.com, including but not limited to, your name, your date of birth, your email address and your telephone number, this information will only be used as described in this policy.
@@ -121,3 +101,23 @@ Kay Jewelers
 Akron, OH 44333
 
 The links/logos for the DMA, VeriSign, Verified by Visa and MasterCard SecureCode set forth below are our industry affiliations whose standards of privacy and information security we adhere to:
+
+SMS Terms &. Conditions
+
+Kay Jewelers Alerts
+
+SMS Terms &. Conditions
+
+Disclosure: You will receive info and promotional alerts from Kay Jewelers
+
+Text KAY to 553935 to join Kay Jewelers Alerts. 3 msgs/mo. You will receive promotional offers and alerts. Reply HELP for help. Reply STOP to cancel. Standard text messaging and data rates apply.
+
+Compatible carriers include (USA): AT&T, T-Mobile®, Verizon Wireless, Sprint, Nextel, Boost, Alltel, U.S. Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile®.
+
+Compatible Carriers (CDN): Aliant Mobility, Bell Mobility, Fido, Mobilicity, MTS, NorthernTel Mobility, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Virgin Mobile Canada, Vidéotron, WIND Mobile
+
+To discontinue receiving SMS messages from Kay Jewelers, text STOP to 553935. You may opt-out at any time.
+
+For additional help, text HELP to 553935 or visit www.Kay.com. You can also call 1.800.527.8029.
+
+Kay Jewelers respects your right to privacy. You can view our privacy policy above.
