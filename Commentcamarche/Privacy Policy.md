@@ -45,6 +45,7 @@ Equinix France
 93200 SAINT DENIS  
 SAS au capital de 23 510 900,40 €  
 RCS : Bobigny B 429 840 853  
++33 (0) 155 87 22 00  
 Définitions
 
 *   **Utilisateur** : L'Utilisateur est toute personne qui utilise le Site ou l'un des services proposés sur le Site.
