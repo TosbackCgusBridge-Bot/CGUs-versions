@@ -175,11 +175,13 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @Pfeiffer44
         *   @PressSec
         *   @ProjectMyGov
+        *   @Simas44
         *   @VJ44
         *   @VP
         *   @WethePeople
         *   @WhiteHouse
         *   @WHLive
+        *   @WHVine
         *   @WHWeb
     *   MySpace (Privacy)
         *   The White House
@@ -228,6 +230,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *   The White House
     *   Pinterest: (Privacy)
         *   The White House
+    *   Vine: (Privacy)
     
     Document Sharing
     
@@ -255,6 +258,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: February 20, 2013
+Updated: March 1, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
