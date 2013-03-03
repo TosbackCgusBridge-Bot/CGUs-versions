@@ -468,7 +468,7 @@ QUARTERLY ENTRY PERIODS LISTED BELOW:
 Entry Period Begins  
 12:01 a.m. ET: Entry Ends  
 11:59:59 p.m. ET: Drawing Date: Entries must be  
-received by: 1/29/12 4/28/12 5/3/12 5/2/12 4/29/12 7/28/12 8/2/12 8/1/12 7/29/12 10/27/12 11/1/12 10/31/12 10/28/12 2/2/13 2/7/13 2/6/13
+received by: 2/3/2013 5/4/2013 5/9/2013 5/8/2013 (all forms of entry) 5/5/2013 8/3/2013 8/8/2013 8/7/2013 8/4/2013 11/2/2013 11/7/2013 11/6/2013 11/3/2013 2/1/2014 2/6/2014 2/5/2014
 
 Mail-in entries will be entered into the drawing period based on the date of receipt of entry. **LIMIT:** One entry per month per email or household address. One prize per person or household over each Sweepstakes Period. **NO entry will be carried forward** to another drawing period. To enter all four drawings, you must enter one time per Drawing Period.
 
