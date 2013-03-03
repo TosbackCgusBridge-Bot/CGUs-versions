@@ -231,6 +231,7 @@ We will revise or update this policy if our practices change, or as we develop b
     *   Pinterest: (Privacy)
         *   The White House
     *   Vine: (Privacy)
+        *   @WHVine
     
     Document Sharing
     
