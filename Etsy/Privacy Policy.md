@@ -2,7 +2,7 @@ Privacy Policy
 
 At Etsy, we value our community. You trust us with your information, and we’re serious about that responsibility. We believe in transparency, and we’re committed to being upfront about our privacy practices, including how we treat personal information we collect or receive. We know you care about your privacy, too, so we provide settings that allow you to control how certain information is used on Etsy. This policy explains our privacy practices for Etsy.com and services provided by Etsy, Inc. (“Etsy”).  
   
-Current version published: October 9, 2012
+Current version published: March 4, 2013
 
   
 **Verified Best Practices  
@@ -69,7 +69,7 @@ Some messages from Etsy are service-related and required for members. Examples o
   
 As a member, Etsy may also send you messages related to certain features on the site or your activity. Etsy may also send you news or updates about changes to our site or services. By default, members will receive these messages via email, but you may choose to opt-out of getting certain emails under your account settings.  
   
-Etsy offers optional email newsletters. You must opt-in or subscribe to begin receiving newsletters, and subscription is available to both members and non-members. Members may subscribe or unsubscribe from optional newsletters under your account settings or by following the instructions contained in the newsletter emails. Non-members may subscribe by providing an email address, which will only be used by Etsy for these newsletters. Non-members may unsubscribe from newsletters by following the instructions contained in the newsletter emails.  
+Etsy offers optional email newsletters. When you register for an account, or choose to subscribe, you will receive newsletters from us. Newsletters are available to both members and non-members. Members may subscribe or unsubscribe from optional newsletters under your account settings or by following the instructions contained in the newsletter emails. Non-members may subscribe by providing an email address, which will only be used by Etsy for these newsletters. Non-members may unsubscribe from newsletters by following the instructions contained in the newsletter emails.  
   
 A contact-importer feature is available to help you locate and connect with your friends and contacts who may be members of Etsy (see _Findability_). If someone in your contact list is not already a member, you may invite them to join Etsy. Recipients of invitations may opt out of receiving future invitations by following instructions in the invitation message.
 
