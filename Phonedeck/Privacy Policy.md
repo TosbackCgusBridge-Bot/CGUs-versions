@@ -1,6 +1,19 @@
-Log In Privacy Policy 1. Data Collection, Processing and Use
+Here's how you stay in touch. Get Phonedeck now - download the free app!
 
-On the occasion of your registration on http://www.phonedeck.com, you will be asked to provide information about your personal or other conditions such as your full name, address, birth date, email address, telephone number ("**Personal Data**"). These Personal Data will be handled by desk.io GmbH (http://www.phonedeck.com/company/about) ("**Phonedeck**"), respectively by the involved payment provider with regard to the method of payment, in strict confidence according to the legal provisions. The Data will only be collected, processed and used for the purpose of executing the contract, unless you expressly consent to other uses. The Data are collected, used and processed electronically.
+_Don't know which version to download? Just scan this QR  
+image with your phone and we will guide you.  
+_
+
+*   Features
+*   FAQ
+*   Sign In
+
+*   Get the app
+*   Sign In
+
+Get the app Privacy Policy 1. Data Collection, Processing and Use
+
+On the occasion of your registration on http://www.phonedeck.com, you will be asked to provide information about your personal or other conditions such as your full name, address, birth date, email address, telephone number ("**Personal Data**"). These Personal Data will be handled by desk.io GmbH (http://www.phonedeck.com/about) ("**Phonedeck**"), respectively by the involved payment provider with regard to the method of payment, in strict confidence according to the legal provisions. The Data will only be collected, processed and used for the purpose of executing the contract, unless you expressly consent to other uses. The Data are collected, used and processed electronically.
 
 2\. Data Use
 
@@ -38,32 +51,18 @@ Phonedeck explicitly notifies you, that data protection and data privacy during 
 
 Phonedeck shall be entitled to change this Data Privacy Statement by observing the applicable data protection provisions. Whenever this Privacy Statement is changed, Phonedeck will notify this on its website and inform you.
 
-Contact
+8\. Contact
 
 If you have further questions or comments about the Data Privacy Provisions, please contact us at: contact@phonedeck.com.
 
 _Effective: September 01, 2011_
 
-*   © 2012 Phonedeck
-*   All rights reserved.
-
-*   Product
-*   Android
-*   iPhone
-*   Nokia
-*   Support
-
-*   Company
-*   About us
-*   Press Room
+*   About
 *   Jobs
 *   Contact
 
-*   Legal
-*   Privacy Policy
-*   Terms of Services
-*   Imprint
+*   text.home.tweet.action
 
-*   Connect
-*   Facebook
-*   Twitter
+*   Terms of Service
+*   Privacy Policy
+*   Imprint
