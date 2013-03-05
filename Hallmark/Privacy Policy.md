@@ -106,7 +106,7 @@ We seek high standards in credit card security to better protect the information
 
 How secure is my Hallmark.com account information?
 
-To protect your account information, Hallmark.com asks that you enter a valid user name and password before buying anything using your account information. Hallmark.com does not store credit card information.
+To protect your account information, Hallmark.com asks that you enter a valid user name and password before buying anything using your account information. We may also collect personal information to make purchasing easier for you in the future. For example, if you give us permission to store your billing information, you won't have to fill out the shipping and billing address each time you make a purchase on our site.
 
 Hallmark also has security measures to protect the loss, misuse, and change of your information. Only certain employees and agents of Hallmark.com have access to this information. This information is only used for completing your order.
 
