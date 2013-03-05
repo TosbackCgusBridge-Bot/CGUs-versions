@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Surface tablets, big screen TVs will be good buys in March March 3, 2013
-*   ICANN publishes list of disputed domain names March 3, 2013
-*   Robotic dog retrofitted with advanced technology helps researchers March 3, 2013
+*   This Week in Space: A romantic getaway to Mars and a disappearing radiation belt March 4, 2013
+*   Computerized eyewear pioneer sounds Google Glass alarm March 4, 2013
+*   Filabot turns recyclable plastic into 3D printing material March 4, 2013
 
 PCWorld Articles
 
-*   Bank of America says hackers lifted its data from a partner March 3, 2013
-*   HP still innovating, still cutting jobs to restructure, CEO says March 3, 2013
-*   Google posts compression code Zopfli to speed downloads March 2, 2013
+*   HP's ARM servers to get Texas Instruments chips March 4, 2013
+*   Five ways to job hunt using Facebook March 4, 2013
+*   Microsoft sends cut-off notices to Office 365 preview users March 4, 2013
 
   
 TechHive on Twitter (@TechHive)
