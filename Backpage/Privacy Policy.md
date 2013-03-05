@@ -56,8 +56,8 @@ If you are a California resident and have provided personal information to the S
 We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at support@backpage.com or mailing your request to:  
   
 Backpage.com LLC  
-PO Box 21328  
-Phoenix, AZ 85034   
+PO Box 192307  
+Dallas, TX 75219 USA  
   
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.  
   
