@@ -1,21 +1,4 @@
-Mint.com Log in Sign up Remember my email Forgot your password? Skip top navigation WHAT IS MINT? HOW IT WORKS FIND SAVINGS COMMUNITY COMPANY
-
-*   active Overview
-*   active See all accounts
-*   active Auto categorization
-*   active Easy budgeting
-*   active Timely alerts
-*   active Safe and secure
-*   active What's free
-*   active Helpful graphs
-*   active Achieve your goals
-*   active Find savings
-*   active Track investments
-*   active Mobile apps
-*   active Bill reminders
-
-  
-Watch an overview video Privacy and Security Policy
+Privacy and Security Policy
 
 Date Last Revised: **February 19, 2010**
 
@@ -158,15 +141,3 @@ If you have questions, comments, concerns or feedback regarding this Privacy and
 
 Intuit Inc.  
 2632 Marine Way, Mountain View, CA, 94043
-
-*   Security|
-*   Help|
-*   Blog|
-*   Jobs|
-*   Site Map
-
-Intuit Legal Notice | Terms of Service | Privacy | About Intuit
-
-© 2013 Intuit, Inc. All rights reserved. Intuit and Quicken are registered trademarks of Intuit, Inc.  
-Terms, conditions, features, availability, pricing, fees, service and support options subject to change without notice.  
-iPad and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries.
