@@ -1,4 +1,10 @@
-X Login to Tube 8 Password Forgot password ? Resend activation email ? Not a member yet? Sign up here X Sponsored text link Under player banner
+X Login to Tube 8 Password Forgot password ? Resend activation email ? Not a member yet? Sign up here Nice work!
+
+You are now following videos from .
+
+Control who you follow on the Following page.
+
+X X Sponsored text link Under player banner
 
 *   Home
 *   Categories
@@ -322,6 +328,7 @@ You are entitled to access and correct your Data by doing so directly on the web
 
 *   FEEDBACK FORUM
 *   CONTENT PARTNER PROGRAM
+*   WEBMASTERS
 *   PRIVACY POLICY
 
 Copyright © 2007-2013 Tube8.com, All Rights Reserved.
