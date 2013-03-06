@@ -355,6 +355,7 @@ Vehicles
 
 Resources
 
+*   Dealers
 *   Financial Tools
 *   Phone Compatibility &. Pairing
 *   Entune®
