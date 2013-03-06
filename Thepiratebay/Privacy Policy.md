@@ -1,6 +1,6 @@
 **Search Torrents**  |  Browse Torrents  |  Recent Torrents  |  TV shows  |  Music  |  Top 100  
   
-Audio Video Applications Games Other AllMusicAudio booksSound clipsFLACOtherMoviesMovies DVDRMusic videosMovie clipsTV showsHandheldHighres - MoviesHighres - TV shows3DOtherWindowsMacUNIXHandheldIOS (iPad/iPhone)AndroidOther OSPCMacPSxXBOX360WiiHandheldIOS (iPad/iPhone)AndroidOtherE-booksComicsPicturesCoversPhysiblesOther Usage policy  Usage policy for The Pirate Bay system.
+Audio Video Applications Games Other AllMusicAudio booksSound clipsFLACOtherMoviesMovies DVDRMusic videosMovie clipsTV showsHandheldHD - MoviesHD - TV shows3DOtherWindowsMacUNIXHandheldIOS (iPad/iPhone)AndroidOther OSPCMacPSxXBOX360WiiHandheldIOS (iPad/iPhone)AndroidOtherE-booksComicsPicturesCoversPhysiblesOther Usage policy  Usage policy for The Pirate Bay system.
 
 Our site (and all of its contents) is free of charge for anyone for personal usage. Organisations (for instance, but not limited to, non-profit or companies) may use the system if they clear this with the system operators first. Permission for organisations/companies is not needed for obvious "well meaning" usage, i.e. distributing works of cultural benefit for the end user.
 
@@ -26,5 +26,5 @@ Login | Register | Language / Select language | About | Legal threats | Blog
 Contact us | Usage policy | Downloads | Promo | Doodles | Search Cloud | Tag Cloud | Forum | **TPB T-shirts**  
 Bayfiles | BayImg | PasteBay | Follow TPB on Twitter | Follow TPB on Facebook  
 
-6.164.429 registered users. Last updated 07:00:04.  
-53.537.269 peers (37.279.923 seeders + 16.257.346 leechers) in 4.381.935 torrents.
+6.166.120 registered users. Last updated 07:00:07.  
+55.332.875 peers (39.012.309 seeders + 16.320.566 leechers) in 4.366.205 torrents.
