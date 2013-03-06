@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Alexander Wang's debut at Balenciaga
+Search Help Melissa Clark makes kimchi radish pickle
 
-Also in Style »
+Also in Video »
 
-*   H&M crashes Paris Fashion Week
-*   Street style: military inspired
+*   Bill Cunningham: right on red
+*   In Performance: "Much Ado About Nothing"
 
   
 
