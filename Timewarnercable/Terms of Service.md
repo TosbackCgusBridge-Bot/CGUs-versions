@@ -381,7 +381,8 @@ Support
 *   Channel Lineup
 *   Closed Captioning
 *   Welcome to TWC
-*   Parental Controls
+*   TV Parental Controls
+*   Internet Safety
 
 Contact Us
 
