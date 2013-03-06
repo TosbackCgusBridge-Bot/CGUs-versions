@@ -65,4 +65,4 @@ Az epulettar.hu kötelezettséget vállal arra, hogy felhasználóinak bármely 
 Az adatok felvétele, rögzítése és kezelése során az Alepelveknél rögzített korlátozásokat minden esetben betartja, tevékenységéről az érintettet annak igénye szerint, elektronikus levelezés útján tájékoztatja. Az epulettar.hu kötelezi magát, hogy gondoskodik az adatok biztonságáról, megteszi továbbá azokat a technikai és szervezési intézkedéseket és kialakítja azokat az eljárási szabályokat, amelyek biztosítják, hogy a felvett, tárolt, illetve kezelt adatok védettek legyenek, illetőleg megakadályozza azok megsemmisülését, jogosulatlan felhasználását és jogosulatlan megváltoztatását.
 
 *    nyomtatás
-*    küldés
+*     küldés
