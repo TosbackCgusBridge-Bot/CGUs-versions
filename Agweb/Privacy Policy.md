@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Mar 6, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Mar 7, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -69,7 +69,10 @@ Mar 6, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Corn College
     *   2012 Pro Farmer Midwest Crop Tour
     *   Seed
-    *   2012 FIRST Seed Trials 
+    *   2012 FIRST Seed Trials
+    *   Weed Warriors
+    
+     
 *   Livestock
     
     *   Dairy
@@ -241,8 +244,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Power Hour: Dow Climbs to Record High
-*   CWT Assists with 15.2 Million Pounds of Dairy Export Sales
+*   Buy time this spring with nitrogen stabilizers
+*   New Deere Tech at Commodity Classic
+*   EPA and Washington Dairies Reach Agreement to Reduce Nitrate in Local Groundwater
+*   Power Hour: Pre-Report Analysis of March 8 Reports
+*   Snow Closes Federal Offices, Disrupts Flights on East Coast
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
