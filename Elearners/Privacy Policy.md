@@ -4,7 +4,7 @@ Skip to main content **eLearners.com** Sign In | Register 
 *   Online Certificates
 *   Online Courses
 *   Online Colleges
-*   Local Campus Colleges
+*   Campus Colleges
 *   Education Resources
 *   Blogs
 
