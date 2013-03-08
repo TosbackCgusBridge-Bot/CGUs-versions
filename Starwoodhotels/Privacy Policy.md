@@ -871,7 +871,7 @@ Destination Guides
 All rights reserved.
 
 *   Website Terms of Use |
-*   Updated Privacy Statement
+*   Privacy Statement
 *   | Text Only
 
 Close X Get a Better View
