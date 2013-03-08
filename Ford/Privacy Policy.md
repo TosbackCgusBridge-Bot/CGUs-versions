@@ -8,7 +8,7 @@ This Privacy Statement applies to www.ford.com and its related mobile site, whic
 
 The business purpose of this website is to provide visitors: (1) with knowledge of the features and benefits of the complete line of cars, crossovers, SUVs and trucks. (2) with purchasing-related information such as available incentives, services, product inventory and dealership contacts. (3) the ability to save and share certain content that is of interest to you such as your favorite vehicles, technologies, and photos and videos. (4) the opportunity to enter sweepstakes and purchase items. and (5) the opportunity to share your story regarding a Ford Motor Company product.
 
-On certain portions of this website, you may have the opportunity to request information or a contact from your local dealer through various shopping tools. These shopping tools include Build and Price, Search Dealer Inventory, Request a Local Quote, and Trade-in Value. When you provide your personal information in those instances, it is collected by FordDirect, an independent company that assists our dealers. If you choose to provide your personal information to FordDirect, please note that it will be subject to the Privacy Policy of http://www.shoppingtools.ford.com/Privacy .
+On certain portions of this website, you may have the opportunity to request information or a contact from your local dealer through various shopping tools. These shopping tools include Build and Price, Search Dealer Inventory, Incentives and Offers, Request a Local Quote, and Trade-in Value. When you provide your personal information in those instances, it is collected by FordDirect, an independent company that assists our dealers. If you choose to provide your personal information to FordDirect, please note that it will be subject to the Privacy Policy of http://www.shoppingtools.ford.com/Privacy .
 
 Certain features that are available on www.ford.com may not be available on the related mobile site.
 
@@ -141,7 +141,7 @@ Customer Relationship Center
 P.O. Box 6248  
 Dearborn, MI 48126
 
-You will be asked for name and address so that we may be able to process your changes. ford.com will use reasonable efforts to correct any factual inaccuracies in your information.
+You will be asked for name and address so that we may be able to process your changesford.com will use reasonable efforts to correct any factual inaccuracies in your information.
 
 The scope of access available for this request is for information stored in the database that holds the data for ford.com. Any personal information that has been collected from you on other Company websites will not be accessible or changeable through the processing of this request.
 
@@ -218,4 +218,4 @@ ford.com is committed to working with consumers to obtain a fair and rapid resol
 
 Occasionally we may update the privacy statement for ford.com in order to reflect any changes to the website or our privacy practices. If we make any updates to this statement, including any updates reflecting material changes to our Online Behavioral/Interest-Based Advertising practices, the new statement will be posted to the website ten (10) days prior to the changes taking effect.
 
-The effective date of this privacy statement is 12/11/2012
+The effective date of this privacy statement is 3-6-2013
