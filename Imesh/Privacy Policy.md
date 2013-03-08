@@ -1,4 +1,4 @@
-Home Download What's New? Support iMesh Box Privacy Policy Download iMesh in your language  Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website (www.imesh.com). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.  
+Home Download What's New? Support iMesh Box Blog Privacy Policy Download iMesh in your language  Welcome to iMesh. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the iMesh software, iMesh MediaBar and the iMesh website (www.imesh.com). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.  
   
 **INFORMATION COLLECTION**  
 iMesh takes your privacy very seriously. In order to provide you with the highest quality service, we do collect certain information from you in accordance with the following guidelines.  
