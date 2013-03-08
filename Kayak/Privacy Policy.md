@@ -38,7 +38,7 @@ KAYAK may disclose to authorized law enforcement personnel the personal data fro
 
 You Are The Boss
 
-KAYAK members and site visitors have control over the use of their personal data. Since you are the boss on KAYAK, you always can change your account settings in the "My Profile" page on KAYAK.
+KAYAK members and site visitors have control over the use of their personal data. Since you are the boss on KAYAK, you always can change your account settings in the "My Profile" page on KAYAK. Further, you can always delete your account here.
 
 Protecting Your Information
 
