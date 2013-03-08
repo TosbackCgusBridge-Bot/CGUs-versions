@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Paris street style
+Search Help "The Audience," starring Helen Mirren
 
-Also in T Magazine »
+Also in Theater »
 
-*   Orlebar Brown's swimwear designs provide alternatives to loud surf Jams and ill-fitting board shorts.
-*   Photos of The Moment: Valentino
+*   "Talley's Folly," revived at The Roundabout
+*   "As You Like It," at The New Victory Theater
 
   
 
