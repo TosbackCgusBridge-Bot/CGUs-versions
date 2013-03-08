@@ -1,4 +1,4 @@
-Skip Navigation   Back NIKE Digital Privacy Policy  
+Skip Navigation   Back GET HELP NIKE Digital Privacy Policy  
 
 Effective February 21, 2012
 
