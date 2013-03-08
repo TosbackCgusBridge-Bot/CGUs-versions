@@ -66,13 +66,13 @@ Within this Policy you will find:
 *   Protect Yourself: Watch Out for Online Fraud
 *   Special Notice to California Residents
 
-Children 
+Children
 
 We do not knowingly collect Personal Information (as defined below) online from children under the age of 13. If a child provides us with this type of information online, please contact us to have the account deactivated by sending us an email at etsinfo@ets.org or by calling us at **1-609-921-9000**.
 
 Back to Top
 
-Information We Collect  Personal Information 
+Information We Collect Personal Information
 
 We collect and store Personal Information that you provide voluntarily when using our Website. Personal Information is information that can identify you as a specific individual ("Personal Information"). You are responsible for providing accurate and complete information. For example, you might provide us the following information: responses and survey information and/or site registrations, test registration information, order information and payment information. Personal data does not include anonymized aggregate or statistical information from which such identification cannot be reconstituted.
 
@@ -80,7 +80,7 @@ If you register for a test, create an online account, or request one of our othe
 
 Back to Top
 
-Non-personal Information 
+Non-personal Information
 
 When you visit any page on our Website, we use a program that monitors and evaluates the Website's traffic. It automatically records every visitor's host, domain name, pages visited, length of user session, browser type and/or IP address. This information does not contain Personal Information. We use this information to find out how many people visit the Website to determine the areas of greatest interest on our Website, and to make improvements to the Website. 
 
@@ -88,7 +88,7 @@ When you visit and interact with our Website, ETS and third parties with whom ET
 
 Back to Top
 
-Cookies 
+Cookies
 
 As with many other sites, our Website may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. Cookies, by themselves, will not be used by ETS to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit the Website. If you want to disable the use of cookies or remove them at any time from your computer, you can disable or delete them using your browser (consult your browser's "Help" menu to learn how to delete cookies). however, you must enable cookies to access certain information on our Website. Note that in limited instances, such as when you register for a test or create an online account, cookies may contain and be associated with the Personal Information we collect.
 
@@ -96,13 +96,13 @@ We may also collect data by using "pixel tags," "web beacons," "clear GIFs" or s
 
 Back to Top
 
-Third-party Advertisers 
+Third-party Advertisers
 
 In addition, we may use third-party advertisers to serve or track advertisements on other websites. Please note that these third parties also may use cookies, pixel tags and other technologies to, among other things, enable such third parties to record which ads your browser has loaded and which site pages you may have been viewing when the ads were delivered or accessed. Use of such third-party sites is subject to the terms of use and privacy policies of those third parties. ETS does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
 Back to Top
 
-How We Use Your Personal Information 
+How We Use Your Personal Information
 
 We use your Personal Information to:
 
@@ -118,7 +118,7 @@ Based upon your specific relationship(s) with ETS, we may use your Personal Info
 
 Back to Top
 
-Disclosure of Your Personal Information 
+Disclosure of Your Personal Information
 
 We disclose your Personal Information to certain third parties with whom we have a direct or indirect business or contract relationship, to provide the products and services you have requested. For example, when you register for a test, we will provide certain registration information to entities that administer the tests in your area. If you ask us to, we will disclose your test scores to schools and others.
 
@@ -136,7 +136,7 @@ Based upon your specific relationship(s) with ETS, we may disclose your Personal
 
 Back to Top
 
-Choice to Opt Out and Access to Your Information 
+Choice to Opt Out and Access to Your Information
 
 When you register for a test online or create an account, you will have the ability to opt out of receiving certain communications from ETS, including voicemail or email. If you do not opt out at registration, but later decide that you would prefer not to receive email communications from ETS, please contact that particular testing program through www.ets.org. Remember, however, that ETS may still send email or call you in order to provide a product or service that you request.
 
@@ -144,13 +144,13 @@ Except as otherwise specified in an Other Agreement, you can also access your Pe
 
 Back to Top
 
-Links to Third-party Sites 
+Links to Third-party Sites
 
 This Website may contain links to other third-party websites. ETS does not control the privacy policies or practices of these third-party sites. You should review those policies before providing any information. ETS is not responsible for the content or practices of any linked third-party sites, and we provide these links solely for the convenience and information of our visitors. Specifically, if you use a credit card to pay for any products or services, ETS is not responsible for any information you provide regarding the credit card on this Website or by linking through to a credit card processor's website.
 
 Back to Top
 
-Security 
+Security
 
 ETS has established safeguards to help prevent unauthorized access to or misuse of your Personal Information, but cannot guarantee that your Personal Information will never be disclosed in a manner inconsistent with this Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or relevant Web policies).
 
@@ -162,19 +162,19 @@ ETS has contracted with a company to host our online store. This company uses it
 
 Back to Top
 
-Changes 
+Changes
 
 ETS reserves the right to change this Policy to respond to new laws, regulations or technology, or for other business reasons. Please check this Website from time to time to review any such changes.
 
 Back to Top
 
-Governing Law and Jurisdiction 
+Governing Law and Jurisdiction
 
 You agree that any claim, action or proceeding arising out of this Policy, or your use of the Website, shall be governed by and construed in accordance with the laws of the United States and the State of New Jersey, without regard to principles of conflict of laws. Any claim, action or proceeding related to this Policy will be resolved exclusively in the state or federal courts located in the State of New Jersey and you consent to the jurisdiction of those courts.
 
 Back to Top
 
-Contact Information 
+Contact Information
 
 If you have any questions or concerns about the Website or security policies, you may contact us by:
 
@@ -192,7 +192,7 @@ USA
 
 Back to Top
 
-Protect Yourself: Watch Out for Online Fraud  Don't get reeled in.
+Protect Yourself: Watch Out for Online Fraud Don't get reeled in.
 
 In a technique called "phishing," thieves set up fraudulent websites that look official. They may send emails to draw you to the site. Often, people visit the site and give Personal Information in an unsecured environment, making Social Security numbers and credit card information available to thieves.
 
@@ -225,7 +225,7 @@ If you suspect that you may be a victim of phishing:
 
 Back to Top
 
-Special Notice to California Residents 
+Special Notice to California Residents
 
 Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared Personal Information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of Personal Information shared. If you are a California resident and wish to make such a request, please send an email to etsinfo@ets.org and include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty (30) days of receiving such a request. 
 
