@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   RetroN 4 lets you play all your retro games on your HDTV March 6, 2013
-*   France increases its anti-piracy efforts as similar measures roll out in U.S. March 6, 2013
-*   Jupiter's moon Europa shows signs of salt water beneath its icy surface March 6, 2013
+*   ViralSearch can trace all those Harlem Shake videos to the source March 7, 2013
+*   Reinventing payphones for the 21st century March 7, 2013
+*   Review: Vaya Bags Recycled Bike Tube Laptop Bag March 7, 2013
 
 PCWorld Articles
 
-*   How Apple's iWatch could revolutionize mobile security March 6, 2013
-*   Meet the Deal Nerd: big savings on powerful PCs, 4K TVs, &. more March 6, 2013
-*   LinkedIn wins dismissal of lawsuit seeking damages for massive password breach March 6, 2013
+*   Facebook turns News Feed into 'personalized newspaper' March 7, 2013
+*   Google beefs up Chrome OS IT controls March 7, 2013
+*   Review: SocialBro analyzes your Twitter community March 7, 2013
 
   
 TechHive on Twitter (@TechHive)
