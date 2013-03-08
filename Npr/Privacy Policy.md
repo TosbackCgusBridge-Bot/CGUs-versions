@@ -1,4 +1,4 @@
-NPR Shop | NPR Social Media | Login | Register
+NPR Shop | NPR Social Media | Sign In | Register
 
 Find a Station
 
