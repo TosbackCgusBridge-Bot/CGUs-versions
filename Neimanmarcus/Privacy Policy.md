@@ -34,7 +34,9 @@ Security &. Privacy
     
     From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
     
-    When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions.
+    When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions. When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. Similarly, our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
+    
+    The Information We Collect was last updated March 7, 2013.
     
     How We Use the Information We Collect
     
@@ -86,11 +88,13 @@ Security &. Privacy
     
     Cookies, Web Beacons, and How We Use Them
     
-    A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer to a website.
+    A "cookie" is a small data file stored by your Web browser on your computer or mobile device \[hard drive\]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer or mobile device to a website.
     
-    We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the website as well as to identify the pages you click on during your visit to our site and the name of the website you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies.
+    We use cookies and web beacons to keep track of what you have in your shopping cart and to remember you when you return to the website as well as to identify the pages you click on during your visit to our site and the name of the website you visited immediately before clicking to NeimanMarcus.com. We use this information to improve our site design, product assortments, customer service, and special promotions. You can, of course, disable cookies and web beacons on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies. We may also use web beacons, and other technologies, to help track whether our communications are reaching you, to measure their effectiveness, or to collect certain non-personal information about your computer, device, or browser in order to allow us to better design future communications to you.
     
     We may contract with third parties who may use cookies and web beacons and collect information on our behalf or provide services such as credit card processing, shipping, promotional services, or data management. We call them our Customer Care Partners. These third parties are prohibited by our contract with them from sharing that information with anyone other than us or our other Customer Care Partners.
+    
+    This Cookies, Web Beacons, and How We Use Them was last updated on March 7, 2013.
     
     Children's Privacy
     
