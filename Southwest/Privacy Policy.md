@@ -4,13 +4,11 @@ Southwest Airlines cares about your privacy.  When you visit the Southwest Airl
 
 Information Collection and Use Purchases
 
-If you purchase a product or service from us, we request certain personally identifiable information from you during the purchase process.  You must provide contact information (such as name, phone number, and address) and billing information (such as a credit card number and expiration date) in order to complete a purchase.  
-  
-We use this information for billing purposes, to fill your orders, and for other purposes discussed in this privacy policy.  If we have trouble processing an order we will use this information to contact you.  
-  
-**Privacy Policy**
+If you purchase a product or service from us, we request certain personally identifiable information from you during the purchase process.  You must provide contact information (such as name, phone number, and address) and billing information (such as a credit card number and expiration date) in order to complete a purchase.
 
-The Transportation and Security Administration (TSA) requires you to provide your full name, date of birth, and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560.  You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area.  TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice.  For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at www.tsa.gov.
+Additionally, the Transportation and Security Administration (TSA) requires us to request, and you to provide, your full name, date of birth, and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560.  You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area.  TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice.  For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at www.tsa.gov.
+
+We use the information we collect during the purchase process, including the information we collect and submit to the TSA, for billing purposes, to fill your orders, for administrative, analytical, correspondence, and operational purposes, to customize advertisements and offers and for other marketing purposes, and for other purposes discussed in this privacy policy. If we have trouble processing an order, we will use this information to contact you.
 
 Contests &. Surveys
 
@@ -40,7 +38,7 @@ www.southwest.com/ding
 
 Forward-to-a-Friend and Refer-a-Friend
 
-You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion.  Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest
+You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion.  Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
 
 Non Personally Identifiable Information We Collect
 
@@ -72,15 +70,15 @@ Southwest Account, SWABIZ®, Travel Guide, and Rapid Rewards® Registration
 
 You are not required to establish a Southwest account (also referred to as a SWABIZ Traveler account for the uses of our SWABIZ web site designed for corporate use) to use this web site, however some features of our site are not available to unregistered users.  For example, you must have a Rapid Rewards, Southwest or SWABIZ account to save your travel preferences (such as the type of rental car you prefer or your favorite travel routes) for future travel arrangements made through our website, store credit card information so that you do not need to re-enter it for future purchases, have access to special Members-only promotions and discounts, or provide ratings, reviews or comments in our Travel Guide section of the web site.
 
-If you would like to take advantage of the conveniences available through special Southwest account or SWABIZ features, you must first register for a Southwest or SWABIZ account.  Additional features are available to Rapid Rewards Members.  To take advantage of those additional features, you must first enroll in the Rapid Rewards program.  During registration, you are required to provide contact information (which may include name, address, phone number, e-mail address, and birth date), 
+If you would like to take advantage of the conveniences available through special Southwest account or SWABIZ features, you must first register for a Southwest or SWABIZ account. Additional features are available to Rapid Rewards Members. To take advantage of those additional features, you must first enroll in the Rapid Rewards program. During registration, you are required to provide contact information (which may include name, address, phone number, e-mail address, and birth date).
 
 Additionally you have the option to provide demographic information  and travel preferences to us. we encourage you to submit this information so we can provide you a more personalized experience on our site and send you valuable offers.  We may use the preferences you store in your profile to send you special targeted e-mails based on these preferences.  For example, if you express a preference for a specific type of rental car, we may send you special offers for renting this type of vehicle.
 
 **Rapid Rewards Program**
 
-If you do not already have a Rapid Rewards account, you can easily establish one during the Southwest account or SWABIZ registration process.  Electing to establish a Rapid Rewards account will enroll you in the Southwest Airline frequent flyer program and give you the opportunity to earn rewards.  You will not be able to earn points toward  reward flights if you elect to not sign up for this program.  As a Rapid Rewards Member, you may also receive special offers by e-mail simply for being a Member of the Rapid Rewards program.
+If you do not already have a Rapid Rewards account, you can easily establish one during the Southwest account or SWABIZ registration process. Electing to establish a Rapid Rewards account will enroll you in the Southwest Airline frequent flyer program and give you the opportunity to earn rewards. You will not be able to earn points toward reward flights if you elect to not sign up for this program. As a Rapid Rewards Member, you may also receive special offers by e-mail simply for being a Member of the Rapid Rewards program.
 
-We may use the personally identifiable information you provide when you become a Rapid Rewards Member for analytical, administrative, marketing, correspondence or other operational or business purposes.  For more information on how we may use your personally identifiable information as a Rapid Rewards Member please see our **Customer Communications** section below.
+We may use the personally identifiable information you provide when you become a Rapid Rewards Member for analytical, administrative, marketing, correspondence or other operational or business purposes. For more information on how we may use your personally identifiable information as a Rapid Rewards Member please see our **Customer Communications** section below.
 
 Customer Communications Post Purchase E-mail Communication
 
@@ -215,4 +213,4 @@ Changes in Privacy Policy
 
 This privacy policy is current as of the effective date set forth below.  Southwest Airlines Co. reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles.  If we make changes to this Privacy Policy we will notify you by publication here. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances.
 
-Updated: August 29, 2012
+Updated: March 7, 2013
