@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   ViralSearch can trace all those Harlem Shake videos to the source March 7, 2013
-*   Reinventing payphones for the 21st century March 7, 2013
-*   Review: Vaya Bags Recycled Bike Tube Laptop Bag March 7, 2013
+*   AT&T promises no phone unlocking worries for customers March 8, 2013
+*   This motion-controlled 3D display makes us feel like we're living in the future March 8, 2013
+*   Google Glass could identify you by your clothes March 8, 2013
 
 PCWorld Articles
 
-*   Facebook turns News Feed into 'personalized newspaper' March 7, 2013
-*   Google beefs up Chrome OS IT controls March 7, 2013
-*   Review: SocialBro analyzes your Twitter community March 7, 2013
+*   As PC sales stall, Samsung exec has harsh words for Windows 8 March 8, 2013
+*   The 4 security controls your business should take now March 8, 2013
+*   What are all these iOS apps doing in my Recycle Bin? March 8, 2013
 
   
 TechHive on Twitter (@TechHive)
