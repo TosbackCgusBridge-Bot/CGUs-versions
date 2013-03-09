@@ -58,4 +58,4 @@ Indeed has further committed to refer unresolved privacy complaints under the US
 12\. Contacts If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us by email or writing to us at the applicable address above.
 
    
-Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - Publisher/API - About - Contact ©2013 Indeed - Cookies Use, Privacy and Terms
+Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Contact ©2013 Indeed - Cookies Use, Privacy and Terms
