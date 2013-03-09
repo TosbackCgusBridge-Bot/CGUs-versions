@@ -1,20 +1,21 @@
 TheStreet Network: TheStreet | StockPickr | BankingMyWay | RealMoney
 
 *   Home 10 simple ways to avoid college debt
+*   tax  
+    center
+*   retirement 401K  |  IRA  |  Long-Term Care
 *   smart  
     spending Budgeting  |  Bargains/Deals  |  Technology  |  Autos
 *   money /  
     investing Savings  |  Credit/Debt  |  Stocks &. Funds  |  Bonds  |  Taxes  |  Insurance  |  Education Planning  |  News
 *   family Kids  |  Marriage/Divorce  |  Family Health
 *   career Employment  |  Students/Gen Y  |  Work/Life Balance
-*   retirement 401K  |  IRA  |  Long-Term Care
 *   real  
     estate Buying  |  Selling  |  Renting  |  Refinancing   |  Extreme Real Estate   |  Improvements   |  Foreclosure
 *   small  
     business Launching  |  Financing  |  Marketing  |  Women &. Small Business
 *   lifestyle Food &. Drink  |  Luxury  |  Travel
-*   tax  
-    center 10 simple ways to avoid college debt
+10 simple ways to avoid college debt
 
 Hot Topics    |  wheels   |  unemployment   |  taxes   |  politics   |  managing debt   |  careers   |  More Topics » Posted September 03, 2006 Privacy Policy
 
