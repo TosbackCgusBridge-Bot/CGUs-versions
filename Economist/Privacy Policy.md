@@ -67,8 +67,9 @@ Definitions
 "The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
 
 *   The Economist
-*   Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
+*   Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Events and Economist Corporate Network
 *   CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
+*   Bazian
 *   Clearstate
 *   EuroFinance Conferences
 *   European Voice
