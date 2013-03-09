@@ -147,7 +147,7 @@ Best Games
 Best Game Types
 
 *   Skateboarding
-*   Math
+*   cool-math-games
 *   Baseball
 *   War Games
 *   Bubble Shooter
