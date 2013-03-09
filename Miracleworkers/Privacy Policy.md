@@ -1,8 +1,8 @@
 Already Registered? Sign In >>.
 
 *   Home
-*   Search Jobs
 *   My MiracleWorkers
+*   Search Jobs
 *   My Recommended Jobs
 *   All Jobs
 *   Advice &. Resources
