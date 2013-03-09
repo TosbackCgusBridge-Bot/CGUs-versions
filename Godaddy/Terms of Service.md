@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: January 10, 2013**
+**Last Revised: March 8, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -23,7 +23,7 @@ Whether you are simply browsing or using this Site or purchase Services, your us
 *   Permissions Policy
 *   Direct Affiliate Program Service Agreement
 
-The terms “we”, “us” or “our” shall refer to Go Daddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
+The terms “we”, “us” or “our” shall refer to Go Daddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
 Go Daddy may, in its sole and absolute discretion, change or modify this Agreement, and any policies or agreements which are incorporated herein, at any time, and such changes or modifications shall be effective immediately upon posting to this Site.  Your use of this Site or the Services after such changes or modifications have been made shall constitute your acceptance of this Agreement as last revised.  If you do not agree to be bound by this Agreement as last revised, do not use (or continue to use) this Site or the Services.  In addition, Go Daddy may occasionally notify you of changes or modifications to this Agreement by email.  It is therefore very important that you keep your shopper account (“Account”) information current.  Go Daddy assumes no liability or responsibility for your failure to receive an email notification if such failure results from an inaccurate email address.
 
@@ -39,7 +39,11 @@ _Accounts_.  In order to access some of the features of this Site or use some o
 
 _Transfer of Data Abroad_.  If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information (including your Account information) across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-****4**. GENERAL RULES OF CONDUCT**
+****4**. AVAILABILITY OF WEBSITE/SERVICES**
+
+Subject to the terms and conditions of this Agreement and our other policies and procedures, we shall use commercially reasonable efforts to attempt to provide this Site and the Services available at this Site on a twenty-four (24) hours a day, seven (7) days a week basis throughout the term of this Agreement. You acknowledge and agree that from time to time this Site may be inaccessible or inoperable for any reason including, but not limited to, equipment malfunctions. periodic maintenance, repairs or replacements that we undertake from time to time. or causes beyond our reasonable control or that are not reasonably foreseeable including, but not limited to, interruption or failure of telecommunication or digital transmission links, hostile network attacks, network congestion or other failures. You acknowledge and agree that we have no control over the availability of this Site or the Service available at this Site on a continuous or uninterrupted basis, and that we assume no liability to you or any other party with regard thereto.
+
+****5**. GENERAL RULES OF CONDUCT**
 
 You acknowledge and agree that:
 
@@ -60,7 +64,7 @@ You acknowledge and agree that:
 5.  You will not modify or alter any part of this Site or the Services found at this Site or any of its related technologies.
 6.  You will not access Go Daddy Content (as defined below) or User Content through any technology or means other than through this Site itself, or as Go Daddy may designate.
 7.  You agree to back-up all of your User Content so that you can access and use it when needed. Go Daddy does not warrant that it backs-up any Account or User Content, and you agree to accept as a risk the loss of any and all of your User Content.
-8.  You will not use this Site or the Services found at this Site, including any of Go Daddy’s related technologies, for any commercial use without Go Daddy’s express prior written consent.
+8.  You will not re-sell or provide the Services for a commercial purpose, including any of Go Daddy’s related technologies, without Go Daddy's express prior written consent.
 9.  You agree to provide government-issued photo identification and/or government-issued business identification as required for verification of identity when requested.
     
 10.  You are aware that Go Daddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you do not have any reasonable expectation of privacy during those calls. indeed you hereby consent to allow Go Daddy, in its sole discretion, to record the entirety of such calls regardless of whether Go Daddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted in evidence any legal proceeding in which Go Daddy is a party.
@@ -68,7 +72,7 @@ You acknowledge and agree that:
 
 Go Daddy reserves the right to modify, change, or discontinue any aspect of this Site or the Services found at this Site, including without limitation prices and fees for the same, at any time.
 
-****5**. YOUR USE OF Go Daddy CONTENT AND USER CONTENT**
+****6**. YOUR USE OF Go Daddy CONTENT AND USER CONTENT**
 
 In addition to the general rules above, the provisions in this Section 5 apply specifically to your use of Go Daddy Content and User Content posted to Go Daddy’s corporate websites (i.e., those sites which Go Daddy directly controls or maintains).  The applicable provisions are not intended to and do not have the effect of transferring any ownership or licensed rights (including intellectual property rights) you may have in content posted to your hosted websites.
 
@@ -78,7 +82,7 @@ _User Content_ _._ Some of the features of this Site or the Services found at th
 
 _Security_ _._ You agree not to circumvent, disable or otherwise interfere with the security-related features of this Site or the Services found at this Site (including without limitation those features that prevent or restrict use or copying of any Go Daddy Content or User Content) or enforce limitations on the use of this Site or the Services found at this Site, the Go Daddy Content or the User Content therein.
 
-****6**. Go Daddy'S USE OF USER CONTENT**
+****7**. Go Daddy'S USE OF USER CONTENT**
 
 The provisions in this Section 6 apply specifically to Go Daddy’s use of User Content posted to Go Daddy’s corporate websites (i.e., those sites which Go Daddy directly controls or maintains).  The applicable provisions are not intended to and do not have the effect of transferring any ownership or licensed rights (including intellectual property rights) you may have in content posted to your hosted websites.
 
@@ -99,11 +103,29 @@ If you have a website hosted by Go Daddy or another service provider, you shall 
 
 However, if you post or publish your User Content to this Site, you authorize Go Daddy to use the intellectual property and other proprietary rights in and to your User Content to enable inclusion and use of the User Content in the manner contemplated by this Site and this Agreement.  Accordingly, you hereby grant Go Daddy a worldwide, non-exclusive, royalty-free, sublicensable (through multiple tiers), and transferable license to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content in connection with this Site and Go Daddy’s (and Go Daddy’s affiliates’) business(es), including without limitation for promoting and redistributing all or part of this Site in any media formats and through any media channels without restrictions of any kind and without payment or other consideration of any kind, or permission or notification, to you or any third party. You also hereby grant each User of this Site a non-exclusive license to access your User Content (with the exception of User Content that you designate “private” or “password protected”) through this Site, and to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content as permitted through the functionality of this Site and under this Agreement. The above licenses granted by you in your User Content terminate within a commercially reasonable time after you remove or delete your User Content from this Site. You understand and agree, however, that Go Daddy may retain (but not distribute, display, or perform) server copies of your User Content that have been removed or deleted. The above licenses granted by you in your User Content are perpetual and irrevocable.  Notwithstanding anything to the contrary contained herein, Go Daddy shall not use any User Content that has been designated “private” or “password protected” by you for the purpose of promoting this Site or Go Daddy’s (or Go Daddy’s affiliates’) business(es). 
 
-****7**. MONITORING OF CONTENT. ACCOUNT TERMINATION POLICY**
+****8**. SUPPORT COMMUNITY**
+
+The Support Community is operated and controlled by Go Daddy and is geared towards users of Go Daddy products and services. It aims to create a place where users can exchange ideas and share tips and tricks that they have found helpful in using Go Daddy products and services. Users can participate through various forums, including product groups, product blogs, discussion groups, idea sharing and the like. The Support Community is not a replacement for Go Daddy’s technical and billing support services accessible via telephone or email on the Go Daddy website. Go Daddy does not endorse any of the ideas, opinions, recommendations, advice or other content expressed on the Support Community, and Go Daddy expressly disclaims any liability or responsibility for any content posted on the Support Community by its users.
+
+_Rules of Conduct_.  In addition to the General Rules of Conduct herein that are applicable to all products and services, the following rules of conduct also apply to your use of the Support Community. You acknowledge and agree that:
+
+            i.          You will not impersonate any other person or entity, or submit content on behalf of any other person or entity without their express prior written consent;
+
+            ii.          You will not submit content in exchange for payment or consideration received from any third party;
+
+            iii.         You will treat your access to the forums and other users with respect;
+
+            iv.         You will not submit content that provides any non-public information about another user, Go Daddy or any of Go Daddy’s employees or customers (including the names and contact information);
+
+            v.         You will not submit content or links to content that is harassing, defamatory, abusive, pornographic, X-rated, obscene, contains malware, spam, phishing or is otherwise objectionable as determined by us in our sole and absolute discretion. and
+
+            vi.         You will not submit content that contains third party advertising, spam, chain letters or any other solicitation, including solicitation of lawsuits (links that connect to commercial websites will not be considered unauthorized solicitations unless the link or website content appears to be intended as a means of solicitation or part of an “affiliate” program, as determined by us in our sole and absolute discretion).
+
+****9**. MONITORING OF CONTENT. ACCOUNT TERMINATION POLICY**
 
 Go Daddy generally does not pre-screen User Content (whether posted to a website hosted by Go Daddy or posted to this Site).  However, Go Daddy reserves the right (but undertakes no duty) to do so and decide whether any item of User Content is appropriate and/or complies with this Agreement. Go Daddy may remove any item of User Content (whether posted to a website hosted by Go Daddy or posted to this Site) and/or terminate a User’s access to this Site or the Services found at this Site for posting or publishing any material in violation of this Agreement, or for otherwise violating this Agreement (as determined by Go Daddy in its sole and absolute discretion), at any time and without prior notice. Go Daddy may also terminate a User’s access to this Site or the Services found at this Site if Go Daddy has reason to believe the User is a repeat offender.  If Go Daddy terminates your access to this Site or the Services found at this Site, Go Daddy may, in its sole and absolute discretion, remove and destroy any data and files stored by you on its servers.
 
-****8**. ADDITIONAL RESERVATION OF RIGHTS**
+****10**. ADDITIONAL RESERVATION OF RIGHTS**
 
 Go Daddy expressly reserves the right to deny, cancel, terminate, suspend, lock, or modify access to (or control of) any Account or Services (including the right to cancel or transfer any domain name registration) for any reason (as determined by Go Daddy in its sole and absolute discretion), including but not limited to the following: (i) to correct mistakes made by Go Daddy in offering or delivering any Services (including any domain name registration), (ii) to protect the integrity and stability of, and correct mistakes made by, any domain name registry, (iii) to assist with our fraud and abuse detection and prevention efforts, (iv) to comply with court orders against you and/or your domain name or website and applicable local, state, national and international laws, rules and regulations, (v) to comply with requests of law enforcement, including subpoena requests, (vi) to comply with any dispute resolution process, (vii) to defend any legal action or threatened legal action without consideration for whether such legal action or threatened legal action is eventually determined to be with or without merit, or (viii) to avoid any civil or criminal liability on the part of Go Daddy, its officers, directors, employees and agents, as well as Go Daddy’s affiliates, including, but not limited to, instances where you have sued or threatened to sue Go Daddy.
 
@@ -111,19 +133,19 @@ Go Daddy expressly reserves the right to review every Account for excessive spac
 
 Go Daddy expressly reserves the right to terminate, without notice to you, any and all Services where, in Go Daddy's sole discretion, you are harassing or threatening Go Daddy and/or any of Go Daddy's employees.
 
-****9**. NO SPAM. LIQUIDATED DAMAGES**
+****11**. NO SPAM. LIQUIDATED DAMAGES**
 
 You acknowledge you have read, understand and agree to be bound by Go Daddy’s Anti-Spam Policy referenced above and available here.  You agree Go Daddy may immediately terminate any Account which it believes, in its sole and absolute discretion, is transmitting or is otherwise connected with any spam or other unsolicited bulk email. In addition, if actual damages cannot be reasonably calculated then you agree to pay Go Daddy liquidated damages in the amount of $1.00 for each piece of spam or unsolicited bulk email transmitted from or otherwise connected with your Account.
 
-****10**. TRADEMARK AND/OR COPYRIGHT CLAIMS**
+****12**. TRADEMARK AND/OR COPYRIGHT CLAIMS**
 
 Go Daddy supports the protection of intellectual property.  If you would like to submit (i) a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark, or (ii) a copyright claim for material on which you hold a bona fide copyright, please refer to Go Daddy’s Trademark and/or Copyright Infringement Policy referenced above and available here.
 
-****11**. LINKS TO THIRD-PARTY WEBSITES**
+****13**. LINKS TO THIRD-PARTY WEBSITES**
 
 This Site and the Services found at this Site may contain links to third-party websites that are not owned or controlled by Go Daddy. Go Daddy assumes no responsibility for the content, terms and conditions, privacy policies, or practices of any third-party websites. In addition, Go Daddy does not censor or edit the content of any third-party websites. By using this Site or the Services found at this Site, you expressly release Go Daddy from any and all liability arising from your use of any third-party website. Accordingly, Go Daddy encourages you to be aware when you leave this Site or the Services found at this Site and to review the terms and conditions, privacy policies, and other governing documents of each other website that you may visit.
 
-****12**. DISCLAIMER OF REPRESENTATIONS AND WARRANTIES**
+****14**. DISCLAIMER OF REPRESENTATIONS AND WARRANTIES**
 
 YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT YOUR USE OF THIS SITE AND THE SERVICES FOUND AT THIS SITE SHALL BE AT YOUR OWN RISK AND THAT THIS SITE AND THE SERVICES FOUND AT THIS SITE ARE PROVIDED “AS IS”, “AS AVAILABLE” AND “WITH ALL FAULTS”. Go Daddy, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS DISCLAIM ALL WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. Go Daddy, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS MAKE NO REPRESENTATIONS OR WARRANTIES ABOUT (I) THE ACCURACY, COMPLETENESS, OR CONTENT OF THIS SITE, (II) THE ACCURACY, COMPLETENESS, OR CONTENT OF ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, AND/OR (III) THE SERVICES FOUND AT THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, AND Go Daddy ASSUMES NO LIABILITY OR RESPONSIBILITY FOR THE SAME.
 
@@ -131,7 +153,7 @@ IN ADDITION, YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT NO ORAL OR WRITTEN INFO
 
 THE FOREGOING DISCLAIMER OF REPRESENTATIONS AND WARRANTIES SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW, AND shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****13**. LIMITATION OF LIABILITY**
+****15**. LIMITATION OF LIABILITY**
 
 IN NO EVENT SHALL Go Daddy, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY OTHER PERSON OR ENTITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING ANY THAT MAY RESULT FROM (I) THE ACCURACY, COMPLETENESS, OR CONTENT OF THIS SITE, (II) THE ACCURACY, COMPLETENESS, OR CONTENT OF ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (III) THE SERVICES FOUND AT THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (IV) PERSONAL INJURY OR PROPERTY DAMAGE OF ANY NATURE WHATSOEVER, (V) THIRD-PARTY CONDUCT OF ANY NATURE WHATSOEVER, (VI) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL CONTENT, PERSONAL INFORMATION, FINANCIAL INFORMATION OR OTHER INFORMATION AND DATA STORED THEREIN, (VII) ANY INTERRUPTION OR CESSATION OF SERVICES TO OR FROM THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (VIII) ANY VIRUSES, WORMS, BUGS, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR FROM THIS SITE OR ANY SITES LINKED (THROUGH HYPERLINKS, BANNER ADVERTISING OR OTHERWISE) TO THIS SITE, (IX) ANY USER CONTENT OR CONTENT THAT IS DEFAMATORY, HARASSING, ABUSIVE, HARMFUL TO MINORS OR ANY PROTECTED CLASS, PORNOGRAPHIC, “X-RATED”, OBSCENE OR OTHERWISE OBJECTIONABLE, AND/OR (X) ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF THIS SITE OR THE SERVICES FOUND AT THIS SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL OR EQUITABLE THEORY, AND WHETHER OR NOT Go Daddy IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -141,11 +163,11 @@ IN ADDITION, You SPECIFICALLY ACKNOWLEDGE AND agree that in no event shall Go Da
 
 THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW, AND shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****14**. INDEMNITY**
+****16**. INDEMNITY**
 
 You agree to protect, defend, indemnify and hold harmless Go Daddy and its officers, directors, employees, and agents, from and against any and all claims, demands, costs, expenses, losses, liabilities and damages of every kind and nature (including, without limitation, reasonable attorneys’ fees) imposed upon or incurred by Go Daddy directly or indirectly arising from (i) your use of and access to this Site or the Services found at this Site. (ii) your violation of any provision of this Agreement or the policies or agreements which are incorporated herein. and/or (iii) your violation of any third-party right, including without limitation any intellectual property or other proprietary right.  The indemnification obligations under this section shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****15**. FEES AND PAYMENTS**
+****17**. FEES AND PAYMENTS**
 
 You acknowledge and agree that your Payment Method may be charged by one of our affiliated entities, Go Daddy Domains Canada, Inc., Go Daddy India Domains and Hosting Services Pvt Ltd, or Go Daddy Europe, Ltd. 
 
@@ -665,35 +687,35 @@ The Card is like cash in that it may be used immediately without identification.
 
 Go Daddy reserves the right, in its sole discretion, to deem any value on a Card not redeemed within five (5) years from purchase date to be expired.
 
-****16**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
+****18**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
 
 Please be advised that if a customer has an outstanding account balance (a credit positive balance) for three (3) years or more for any reason, and (i) Go Daddy is unable to issue payment to such customer or (ii) Go Daddy issued payment to such customer in the form of a paper check, but the check was never cashed, then Go Daddy shall turn over such account balance to the State of Arizona in accordance with state law.  You acknowledge and agree that in either case (i) or (ii) above, Go Daddy may withhold a dormancy charge in an amount equal to the lesser of $15.00 or the total outstanding account balance associated with such customer.    
 
-****17**. SUCCESSORS AND ASSIGNS**
+****19**. SUCCESSORS AND ASSIGNS**
 
 This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, successors and assigns.
 
-****18**. NO THIRD-PARTY BENEFICIARIES**
+****20**. NO THIRD-PARTY BENEFICIARIES**
 
 Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
-****19**. U.S. EXPORT LAWS**
+****21**. U.S. EXPORT LAWS**
 
 This Site and the Services found at this Site are subject to the export laws, restrictions, regulations and administrative acts of the United States Department of Commerce, Department of Treasury Office of Foreign Assets Control (“OFAC”), State Department, and other United States authorities (collectively, “U.S. Export Laws”).  Users shall not use the Services found at this Site to collect, store or transmit any technical information or data that is controlled under U.S. Export Laws.  Users shall not export or re-export, or allow the export or re-export of, the Services found at this Site in violation of any U.S. Export Laws.  None of the Services found at this Site may be downloaded or otherwise exported or re-exported (i) into (or to a national or resident of) any country with which the United States has embargoed trade. or (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Denied Persons List, or any other denied parties lists under U.S. Export Laws.  By using this Site and the Services found at this Site, you agree to the foregoing and represent and warrant that you are not a national or resident of, located in, or under the control of, any restricted country. and you are not on any denied parties list. and you agree to comply with all U.S. Export Laws (including “anti-boycott”, “deemed export” and “deemed re-export” regulations).  If you access this Site or the Services found at this Site from other countries or jurisdictions, you do so on your own initiative and you are responsible for compliance with the local laws of that jurisdiction, if and to the extent those local laws are applicable and do not conflict with U.S. Export Laws.  If such laws conflict with U.S. Export Laws, you shall not access this Site or the Services found at this Site.  The obligations under this section shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****20**. COMPLIANCE WITH LOCAL LAWS**
+****22**. COMPLIANCE WITH LOCAL LAWS**
 
 Go Daddy makes no representation or warranty that the content available on this Site or the Services found at this Site are appropriate in every country or jurisdiction, and access to this Site or the Services found at this Site from countries or jurisdictions where its content is illegal is prohibited.  Users who choose to access this Site or the Services found at this Site are responsible for compliance with all local laws, rules and regulations. 
 
-****21**. GOVERNING LAW. JURISDICTION. VENUE. WAIVER OF TRIAL BY JURY**
+****23**. GOVERNING LAW. JURISDICTION. VENUE. WAIVER OF TRIAL BY JURY**
 
 Except for disputes governed by the Uniform Domain Name Dispute Resolution Policy referenced above and available here, this Agreement shall be governed by and construed in accordance with the federal law of the United States and the state law of Arizona, whichever is applicable, without regard to conflict of laws principles.  You agree that any action relating to or arising out of this Agreement shall be brought in the state or federal courts of Maricopa County, Arizona, and you hereby consent to (and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to) jurisdiction and venue in the state and federal courts of Maricopa County, Arizona.  You agree to waive the right to trial by jury in any action or proceeding that takes place relating to or arising out of this Agreement.
 
-****22**. TITLES AND HEADINGS. INDEPENDENT COVENANTS. SEVERABILITY**
+****24**. TITLES AND HEADINGS. INDEPENDENT COVENANTS. SEVERABILITY**
 
 The titles and headings of this Agreement are for convenience and ease of reference only and shall not be utilized in any way to construe or interpret the agreement of the parties as otherwise set forth herein.  Each covenant and agreement in this Agreement shall be construed for all purposes to be a separate and independent covenant or agreement.  If a court of competent jurisdiction holds any provision (or portion of a provision) of this Agreement to be illegal, invalid, or otherwise unenforceable, the remaining provisions (or portions of provisions) of this Agreement shall not be affected thereby and shall be found to be valid and enforceable to the fullest extent permitted by law.
 
-****23**. CONTACT INFORMATION**
+****25**. CONTACT INFORMATION**
 
 If you have any questions about this Agreement, please contact us by email or regular mail at the following address:
 
@@ -704,5 +726,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 1/10/2013  
+Revised: 3/8/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
