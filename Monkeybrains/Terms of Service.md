@@ -12,6 +12,7 @@ Projects
   
 MonkeyBrains Links **Local** **Support** **Offsite** Press Wireless: MissionLocal.org - MonkeyBrains Me  
 Wireless: InformationWeek Interview  
+Satellite: BoingBoing and TechDirt  
 Fiber: SF Chronicle - Pushing for faster Internet  
 Wireless: MissionLocal.org - Internet for All  
 Wireless: MissionMission.org - Forget Internet Cafes  
