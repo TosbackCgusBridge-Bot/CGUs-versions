@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   AT&T promises no phone unlocking worries for customers March 8, 2013
-*   This motion-controlled 3D display makes us feel like we're living in the future March 8, 2013
-*   Google Glass could identify you by your clothes March 8, 2013
+*   Defiance moves seamlessly between game and TV show March 9, 2013
+*   Product pricing and tech journalism March 9, 2013
+*   Google Glass unwelcome at Seattle bar over privacy concerns March 9, 2013
 
 PCWorld Articles
 
-*   As PC sales stall, Samsung exec has harsh words for Windows 8 March 8, 2013
-*   The 4 security controls your business should take now March 8, 2013
-*   What are all these iOS apps doing in my Recycle Bin? March 8, 2013
+*   Vintage software, including games, find a home in archives March 9, 2013
+*   LTE broadcast may help Qualcomm salvage Flo TV March 9, 2013
+*   Sony chairman, ex-CEO Stringer to leave amid restructuring March 9, 2013
 
   
 TechHive on Twitter (@TechHive)
