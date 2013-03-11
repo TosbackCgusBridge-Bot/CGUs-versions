@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Defiance moves seamlessly between game and TV show March 9, 2013
-*   Product pricing and tech journalism March 9, 2013
-*   Google Glass unwelcome at Seattle bar over privacy concerns March 9, 2013
+*   FCC chairman pushes for more spectrum, research, innovation March 10, 2013
+*   Facebook Graph Search challenges eager marketers March 10, 2013
+*   Crackdown on SMS spammers could boost use of SIM mules March 10, 2013
 
 PCWorld Articles
 
-*   Vintage software, including games, find a home in archives March 9, 2013
-*   LTE broadcast may help Qualcomm salvage Flo TV March 9, 2013
-*   Sony chairman, ex-CEO Stringer to leave amid restructuring March 9, 2013
+*   Virgin Atlantic loads up flights to carry half a terabyte of data March 10, 2013
+*   Education 'app store' launches with support from Gates March 10, 2013
+*   Kaspersky acknowledges a bug that causes a system freeze March 10, 2013
 
   
 TechHive on Twitter (@TechHive)
