@@ -78,6 +78,10 @@ You have the right to access information held about you. Any access request may 
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.
 
+**Call Recording**
+
+Calls may be recorded for training &. quality purposes.
+
 **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to marketing@cruise.co.uk
