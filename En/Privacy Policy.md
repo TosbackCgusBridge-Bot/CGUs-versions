@@ -287,9 +287,9 @@ Searches:
     *   Legal Information
 *   Developers
     
+    *   Softonic Developer Center
     *   Upload and Manage your Software
     *   Promote your Software
-    *   Softonic Ads
 *   Partners
     
     *   Advertising Opportunities
