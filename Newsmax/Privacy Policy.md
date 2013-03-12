@@ -44,6 +44,11 @@ Newsmax has established reasonable precautions to protect collected Personal Dat
 
 If you have any questions or concerns regarding this Privacy Policy, please contact: 800-485-4350.
 
-Questions or concerns regarding Newsmax's data protection practices should be addressed to: **customerservice@newsmax.com**.
+Questions or concerns regarding Newsmax's data protection practices should be e-mailed to: **customerservice@newsmax.com**.
+
+or mailed to:
+
+1501 Northpoint Parkway, Suite 104  
+West Palm Beach, FL 33407 USA
 
 If you choose to contact Newsmax via e-mail about this policy, please mark the subject heading of your e-mail "Privacy Inquiry."
