@@ -16,7 +16,7 @@
 *   Disputes
 *   Member Log In
 
-Online Personal Credit Reports
+Online Personal Credit Reports En Español
 
 **Updated: July 22, 2007**
 
@@ -61,7 +61,7 @@ Experian reserves the right to change this privacy policy at any time. Therefore
 
 Please note: This privacy policy applies only to this on-line Web site and application(s). It does not apply to any products or services offered through other channels.
 
-**Consumerinfo.com (CIC) Privacy Policy:**
+Consumerinfo.com (CIC) Privacy Policy:
 
 **What Is Our Commitment To You:**  
 We are sensitive to your privacy concerns, and are committed to letting you know what information is being collected on our Sites, how the information is being used and what choices you have regarding the collection and use of the information. Please take a moment to review this privacy notice and feel free to contact us with any questions at privacy@consumerinfo.com.
