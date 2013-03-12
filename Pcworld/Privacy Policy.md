@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   FCC chairman pushes for more spectrum, research, innovation March 10, 2013
-*   Facebook Graph Search challenges eager marketers March 10, 2013
-*   Crackdown on SMS spammers could boost use of SIM mules March 10, 2013
+*   Mico headphones try to read your mind, will play breakup music when you need it March 11, 2013
+*   Authors want a rewrite on Amazon's domain name grab March 11, 2013
+*   Raptuya is Skynet--I mean, a robot cloud network March 11, 2013
 
 PCWorld Articles
 
-*   Virgin Atlantic loads up flights to carry half a terabyte of data March 10, 2013
-*   Education 'app store' launches with support from Gates March 10, 2013
-*   Kaspersky acknowledges a bug that causes a system freeze March 10, 2013
+*   App Spotlight: Ringya turns printed contact lists into smartphone contact lists March 11, 2013
+*   Review: WordWeb dictionary is a crossword-puzzle fan's dream March 11, 2013
+*   Microsoft gives away three months of Office 365 to college students March 11, 2013
 
   
 TechHive on Twitter (@TechHive)
