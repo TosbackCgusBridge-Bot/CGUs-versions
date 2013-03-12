@@ -79,7 +79,7 @@ You agree to be bound by any of the changes made in the terms of this policy. Co
   
 Contact Viumbe You may send Viumbe requests, responses, questions and complaints, by contacting Viumbe at contact@viumbe.com, or by post mail to:  
 Viumbe, LLC  
-1550 Bryant St., Suite 535  
+1550 Bryant St., Suite 470  
 San Francisco, CA 94103.  
   
 Last updated: March 31, 2011.
