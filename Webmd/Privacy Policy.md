@@ -231,7 +231,7 @@ See more benefits Sign Up Why WebMD? My WebMD Show Menu
 *   My Account
 *   Sign Out
 
-FacebookTwitterPinterest WebMD Home About WebMD Policies Email a Friend Print Article
+FacebookTwitterPinterest WebMD HomeAbout WebMD Policies Email a Friend Print Article
 
 En español
 
