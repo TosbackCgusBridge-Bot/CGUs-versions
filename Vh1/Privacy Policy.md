@@ -274,7 +274,7 @@ Visit VH1 On:
 *   Basketball Wives
 *   Love &. Hip Hop
 *   Mob Wives
-*   T.I. &. Tiny:
+*   T.I. &. Tiny
 *   VH1 Celebrity
 *   Top 20 Countdown
 *   VH1 Blog
