@@ -11,7 +11,7 @@ Data Policy
 
 Last updated on October 2nd, 2012
 
-This policy is designed to provide you with information regarding about data collection and use in connection with our products and services.  If you have questions about your listing, please click here.
+This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your listing, please click here.
 
 **A. INFORMATION WE COLLECT FROM YOU**
 
