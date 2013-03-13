@@ -163,6 +163,7 @@ United States
 *   Deutschland
 *   España
 *   France
+*   日本
 *   New Zealand
 *   United Kingdom
 *   United States
