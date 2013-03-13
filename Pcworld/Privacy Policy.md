@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Mico headphones try to read your mind, will play breakup music when you need it March 11, 2013
-*   Authors want a rewrite on Amazon's domain name grab March 11, 2013
-*   Raptuya is Skynet--I mean, a robot cloud network March 11, 2013
+*   Torrent live broadcasts with new BitTorrent service March 12, 2013
+*   Healthy changes, healthy apps March 12, 2013
+*   Activision's Call of Duty does game microtransactions correctly March 12, 2013
 
 PCWorld Articles
 
-*   App Spotlight: Ringya turns printed contact lists into smartphone contact lists March 11, 2013
-*   Review: WordWeb dictionary is a crossword-puzzle fan's dream March 11, 2013
-*   Microsoft gives away three months of Office 365 to college students March 11, 2013
+*   AMD's new laptop chips inspired by mobile devices, gaming consoles March 12, 2013
+*   ModernMix runs Modern apps on the Windows 8 desktop March 12, 2013
+*   Review: RetroUI tries to fix Windows 8's usability woes, but only makes them worse March 12, 2013
 
   
 TechHive on Twitter (@TechHive)
