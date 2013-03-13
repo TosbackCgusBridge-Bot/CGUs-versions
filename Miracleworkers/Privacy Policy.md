@@ -1,4 +1,4 @@
-Already Registered? Sign In >>.
+Register or Sign In >>. | Employers
 
 *   Home
 *   My MiracleWorkers
@@ -6,7 +6,7 @@ Already Registered? Sign In >>.
 *   My Recommended Jobs
 *   All Jobs
 *   Advice &. Resources
-*   Employers Post a Job
+*   Post Resume
 *   Sign In >>.
 
 Protect Your Privacy and Safety
