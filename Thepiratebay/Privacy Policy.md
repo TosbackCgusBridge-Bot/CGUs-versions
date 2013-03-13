@@ -26,5 +26,5 @@ Login | Register | Language / Select language | About | Legal threats | Blog
 Contact us | Usage policy | Downloads | Promo | Doodles | Search Cloud | Tag Cloud | Forum | **TPB T-shirts**  
 Bayfiles | BayImg | PasteBay | Follow TPB on Twitter | Follow TPB on Facebook  
 
-6.174.511 registered users. Last updated 06:00:06.  
-45.110.387 peers (34.451.278 seeders + 10.659.109 leechers) in 4.427.778 torrents.
+6.175.814 registered users. Last updated 06:00:05.  
+44.618.677 peers (33.837.933 seeders + 10.780.744 leechers) in 4.392.269 torrents.
