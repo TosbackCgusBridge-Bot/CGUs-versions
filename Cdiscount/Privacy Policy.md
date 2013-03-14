@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 06/02/2013Imprimer
+Dernière mise à jour : 13/03/2013Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
@@ -60,7 +60,7 @@ Article 4 : Remboursement de la différence Le remboursement de la différence c
 
 **I.                    ** **Description de l’offre**
 
-CDISCOUNT vous rembourse 10 fois la différence, sous forme de bon d’achat, sur le prix au litre ou au kilo des produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire porteurs de l’offre si vous trouvez le prix au litre ou au kilo de ces produits moins cher ailleurs sur internet.
+CDISCOUNT vous rembourse la différence, sous forme de bon d’achat, sur le prix au litre ou au kilo des produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire porteurs de l’offre si vous trouvez le prix au litre ou au kilo de ces produits moins cher ailleurs sur internet.
 
 Par prix du produit au litre ou au kilo, Cdiscount entend le prix TTC affiché sur la fiche produit du site concurrent à l’exclusion de toute offre promotionnelle particulière (code de réduction, chèque cadeau ou autre) et  hors frais de port.
 
@@ -68,11 +68,9 @@ Par prix du produit au litre ou au kilo, Cdiscount entend le prix TTC affiché s
 
 Le remboursement de la différence sur les produits des rayons Animalerie, Hygiène/Beauté, Soin du linge et Alimentaire  est soumis aux conditions suivantes :
 
-·         Vous devez passer commande d’un produit porteur de l’offre sur le site www.cdiscount.com (hors produits vendus sur la Marketplace « C le Marché ») ;
-
-Les produits porteurs de l’offre sont identifiables grâce à la pastille ou au drapeau  _"Garantit les prix les plus bas"_ présent sur la fiche produit.
-
-·         Le produit vendu par le site concurrent doit être strictement identique à celui commandé sur notre site internet : Même contenance unitaire, même saveur ou même senteur ;
+      Vous devez passer commande d’un produit du magasin "Supermarché" du site  www.cdiscount.com (hors produits vendus sur la Marketplace « C le Marché ») .  
+  
+ Le produit vendu par le site concurrent doit être strictement identique à celui commandé sur notre site internet : Même contenance unitaire, même saveur ou même senteur ;
 
 ·         Le délai de livraison ne doit pas être supérieur à celui proposé par Cdiscount de plus de 10 jours ;
 
@@ -84,22 +82,20 @@ Les produits porteurs de l’offre sont identifiables grâce à la pastille ou
 
   
 
-Les produits éligibles à l’offre étant vendus sous forme de packs sur le site de Cdiscount, le montant de la différence du prix au litre ou au kilo sera multiplié par le nombre de litres ou kilos composant le pack vendu par Cdiscount puis multiplié par 10. 
+Les produits éligibles à l’offre étant vendus sous forme de packs sur le site de Cdiscount, le montant de la différence du prix au litre ou au kilo sera multiplié par le nombre de litres ou kilos composant le pack vendu par Cdiscount. 
 
    
-_Ex: Si la différence du prix au litre est de 2€ entre le prix pratiqué par Cdiscount et le prix pratiqué par le site concurrent et que le produit éligible concerné est vendu en pack de 5 litres sur _ _www.cdiscount.com _le remboursement de la différence sera égal à 5 fois 1€, soit 5€, multiplié par 10 = 50€_  
-_  
-​  
+_Ex: Si la différence du prix au litre est de 2€ entre le prix pratiqué par Cdiscount et le prix pratiqué par le site concurrent et que le produit éligible concerné est vendu en pack de 5 litres sur _ _www.cdiscount.com _le remboursement de la différence sera égal à 5 fois 1€, soit 5€.__ ​  
 
  **III.                ** **Modalités**
 
 ·         Dans les 24 heures qui suivent la validation de votre commande d’un produit porteur de l’offre, si vous trouvez le prix au litre ou au kilo de ce produit  moins cher ailleurs sur internet, vous devez adresser un email à l’adresse suivante garantiemoinscher@cdiscount.com en précisant obligatoirement :
 
-o   Votre n° de commande CDISCOUNT .
+    o Votre n° de commande CDISCOUNT .
 
-o   Le prix au litre ou au kilo affiché sur le site concurrent de Cdiscount .
+    o   Le prix au litre ou au kilo affiché sur le site concurrent de Cdiscount .
 
-o   L'adresse url exacte de la page ou est affiché le prix du produit au litre ou au kilo du produit sur le site.
+    o   L'adresse url exacte de la page ou est affiché le prix du produit au litre ou au kilo du produit sur le site.
 
 Attention, si vous ne précisez pas votre n° de commande, nous ne serons pas à même de retrouver votre commande et nous ne pourrons donc pas traiter votre demande de remboursement.
 
