@@ -78,7 +78,15 @@ Enter Keyword or Item # Search
 *   Men
     
     *   New Arrivals
+    *   Pants
+        *   Regular
+        *   Tall
     *   Polos, T-Shirts &. Turtlenecks
+        *   Regular
+        *   Big
+        *   Tall
+    *   Shorts &. Swimwear
+    *   Sweaters
         *   Regular
         *   Big
         *   Tall
@@ -86,10 +94,6 @@ Enter Keyword or Item # Search
         *   Regular
         *   Big
         *   Tall
-    *   Pants
-        *   Regular
-        *   Tall
-    *   Shorts &. Swimwear
     *   Sport Shirts
         *   Regular
         *   Big
@@ -98,22 +102,18 @@ Enter Keyword or Item # Search
         *   Regular
         *   Tall
         *   Short
+    *   Shoes
+        *   Regular
+        *   Wide
     *   Outerwear
         *   Regular
         *   Big
         *   Tall
-    *   Sweaters
-        *   Regular
-        *   Big
-        *   Tall
-    *   Shoes
-        *   Regular
-        *   Wide
-    *   Belts &. Accessories
     *   Socks &. Underwear
     *   Sleepwear
         *   Regular
         *   Tall
+    *   Belts &. Accessories
     *   Activewear
         *   Regular
         *   Tall
@@ -316,6 +316,58 @@ Enter Keyword or Item # Search
     *   Toiletry Kits &. Travel Accessories
     *   Diaper Bags
     *   Sale
+*   For the Home
+    
+    *   Home
+        *   New Arrivals
+        *   Bedding
+        *   Bedding Collections
+        *   Pillows, Comforters &. Basics
+        *   Blankets &. Throws
+        *   Decorative Pillows &. Home Décor
+        *   Seasonal Décor &. Gifts
+        *   Bath
+        *   Beach Towels
+        *   Outdoor Living
+        *   Furniture
+        *   Kids' Home
+        *   Totes &. Bags
+        *   Dog Shop
+        *   Sale
+    
+    *   Luggage
+        *   Backpacks &. Lunch Boxes
+        *   Totes
+        *   Duffel Bags
+        *   Carry-on Luggage
+        *   Wheeled Luggage
+        *   Upright Luggage
+        *   Kids' Luggage
+        *   Briefcases &. Laptop Bags
+        *   Toiletry Kits &. Travel Accessories
+        *   Diaper Bags
+        *   Sale
+*   For the Home
+    
+    *   New Arrivals
+    *   Bedding
+    *   Bedding Collections
+    *   Pillows, Comforters &. Basics
+    *   Blankets &. Throws
+    *   Decorative Pillows &. Home Décor
+    *   Seasonal Décor &. Gifts
+    *   Bath
+    *   Outdoor Living
+    *   Backpacks &. Lunch Boxes
+    *   Totes &. Bags
+    *   Luggage
+    *   Briefcases &. Laptop Bags
+    *   Furniture
+    *   Kids' Home
+    *   Toiletry Kits &. Travel Accessories
+    *   Dog Shop
+    *   For the Home Sale
+    *   Luggage Sale
 *   Sale
     
     *   Women
