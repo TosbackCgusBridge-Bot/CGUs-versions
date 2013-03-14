@@ -2,6 +2,7 @@ Skip Navigation
 
 *   Products
     *   Sencha Complete
+    *   Sencha Touch Bundle
     *   Sencha Architect
     *   Sencha Touch
     *   Sencha Ext JS
@@ -29,6 +30,7 @@ Skip Navigation
 *   Contact
 *   Store
     *   Sencha Complete
+    *   Sencha Touch Bundle
     *   Sencha Architect
     *   Sencha Ext JS
     *   Sencha Desktop Packager
@@ -160,6 +162,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 *   Products
     *   Sencha Complete
+    *   Sencha Touch Bundle
     *   Sencha Architect
     *   Sencha Touch
     *   Sencha Ext JS
