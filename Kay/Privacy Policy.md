@@ -104,19 +104,23 @@ The links/logos for the DMA, VeriSign, Verified by Visa and MasterCard SecureCod
 
 SMS Terms &. Conditions
 
-Kay Jewelers Alerts
+Kay Jewelers Mobile Alerts
 
 SMS Terms &. Conditions
 
 Disclosure: You will receive info and promotional alerts from Kay Jewelers
 
-Text KAY to 553935 to join Kay Jewelers Alerts. 3 msgs/mo. You will receive promotional offers and alerts. Reply HELP for help. Reply STOP to cancel. Standard text messaging and data rates apply.
+Text JOIN to 553935 to join Kay Jewelers Mobile Alerts, 3 msgs/mo. You will receive promotional offers and alerts. Reply HELP for help. Reply STOP to 553935 to cancel Kay Jewelers Mobile Alerts. Standard text messaging and data rates apply.
+
+Text JOIN to 688538 to join Kay Outlet Mobile Alerts, 3 msgs/mo. You will receive promotional offers and alerts. Reply HELP for help. Reply STOP to 688538 to cancel Kay Outlet Mobile Alerts. Standard text messaging and data rates apply.
 
 Compatible carriers include (USA): AT&T, T-Mobile®, Verizon Wireless, Sprint, Nextel, Boost, Alltel, U.S. Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile®.
 
 Compatible Carriers (CDN): Aliant Mobility, Bell Mobility, Fido, Mobilicity, MTS, NorthernTel Mobility, Rogers Wireless, SaskTel Mobility, Télébec Mobilité, TELUS Mobility, Virgin Mobile Canada, Vidéotron, WIND Mobile
 
 To discontinue receiving SMS messages from Kay Jewelers, text STOP to 553935. You may opt-out at any time.
+
+To discontinue receiving SMS messages from Kay Outlet, text STOP to 688538. You may opt-out at any time.
 
 For additional help, text HELP to 553935 or visit www.Kay.com. You can also call 1.800.527.8029.
 
