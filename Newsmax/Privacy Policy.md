@@ -1,6 +1,6 @@
 Newsmax Privacy Policy **Last updated: March 12, 2013**
 
-Newsmax Media, Inc., including newsmax.com, newsmaxhealth.com, moneynews.com, newsmaxworld.com, lignet.com, fbtalliance.com, shop.newsmax.com, the Newsmax Magazine Mobile Application and any other affiliated sites or mobile applications operated by Newsmax Media, Inc. (the “Newsmax Offerings”), is committed to maintaining the privacy of all visitors to the Newsmax Offerings as described by this Privacy Policy. BY USING THE NEWSMAX OFFERINGS, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE NEWSMAX OFFERINGS. YOUR CONTINUED USE OF THE NEWSMAX OFFERINGS INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO.
+Newsmax Media, Inc., including newsmax.com, newsmaxhealth.com, moneynews.com, newsmaxworld.com, lignet.com, fbtalliance.com, shop.newsmax.com, the Newsmax Magazine Mobile Application, and any other affiliated sites or mobile applications operated by Newsmax Media, Inc. (the “Newsmax Offerings”), is committed to maintaining the privacy of all visitors to the Newsmax Offerings as described by this Privacy Policy. BY USING THE NEWSMAX OFFERINGS, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF OUR PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE NEWSMAX OFFERINGS. YOUR CONTINUED USE OF THE NEWSMAX OFFERINGS INDICATES TO US THAT YOU HAVE READ AND AGREE WITH OUR PRIVACY POLICY AND THAT YOU ACCEPT ANY CHANGES THERETO, WHETHER OR NOT YOU HAVE ACTUALLY REVIEWED EITHER THE POLICY OR ANY CHANGES THERETO.
 
 This Privacy Policy explains how we collect your Personal Data (as defined below) on the Newsmax Offerings, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. This Privacy Policy represents our current (as of the last updated date, above) data collection and usage practices. Newsmax will from time to time review and revise these practices. We will post any changes to this Privacy Policy here. Please refer back to this Privacy Policy on a regular basis. For the purposes of this Privacy Policy, "Newsmax", "we", "us", and "our" means Newsmax Media, Inc. and its affiliates.
 
@@ -42,10 +42,7 @@ Newsmax has established reasonable precautions to protect collected Personal Dat
 
 **Contact Information for Newsmax**
 
-If you have any questions or concerns regarding this Privacy Policy, please call: 800-485-4350 or mail:
-
-1501 Northpoint Parkway, Suite 104  
-West Palm Beach, FL 33407 USA
+If you have any questions or concerns regarding this Privacy Policy, please call: 800-485-4350, or mail: Newsmax Media, 1501 Northpoint Parkway, Suite 104, West Palm Beach, FL 33407.
 
 Questions or concerns regarding Newsmax's data protection practices should be e-mailed to: **customerservice@newsmax.com**.
 
