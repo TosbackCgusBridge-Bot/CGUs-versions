@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Torrent live broadcasts with new BitTorrent service March 12, 2013
-*   Healthy changes, healthy apps March 12, 2013
-*   Activision's Call of Duty does game microtransactions correctly March 12, 2013
+*   Spotify reportedly launching free streaming music service overseas March 13, 2013
+*   Amazon permanently drops prices on its 8.9" Kindle Fire HD tablets March 13, 2013
+*   Review: The MetaWatch Frame is a very cool smartwatch March 13, 2013
 
 PCWorld Articles
 
-*   AMD's new laptop chips inspired by mobile devices, gaming consoles March 12, 2013
-*   ModernMix runs Modern apps on the Windows 8 desktop March 12, 2013
-*   Review: RetroUI tries to fix Windows 8's usability woes, but only makes them worse March 12, 2013
+*   Create gorgeous animated business presentations with Prezi March 13, 2013
+*   Review: Magix Page &. Layout Designer includes advanced tools for beginner users March 13, 2013
+*   New Google site aims to help webmasters of hacked sites March 13, 2013
 
   
 TechHive on Twitter (@TechHive)
