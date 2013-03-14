@@ -4,6 +4,7 @@
 *   Business Terms
 *   Billing Terms
 *   API Terms
+*   Service Terms
 
 _Last Updated: February 28, 2013_
 
