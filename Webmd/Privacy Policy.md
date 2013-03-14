@@ -90,7 +90,7 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     
     WebMD cuts through the hype to reveal the best kept secrets for healthy hair.
     
-    Living Healthy at a Glance
+    Must-See Diet, Fitness &. Beauty Info
     
     Living Healthy Centers
     
@@ -136,7 +136,7 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     
     Protect yourself and your family by learning which health precautions and vaccines are advised for your destination.
     
-    Family &. Pregnancy at a Glance
+    Our Best Pregnancy &. Parenting Tips
     
     Family and Pregnancy Centers
     
@@ -231,7 +231,7 @@ See more benefits Sign Up Why WebMD? My WebMD Show Menu
 *   My Account
 *   Sign Out
 
-FacebookTwitterPinterest WebMD HomeAbout WebMD Policies Email a Friend Print Article
+FacebookTwitterPinterest WebMD Home About WebMD Policies Email a Friend Print Article
 
 En español
 
