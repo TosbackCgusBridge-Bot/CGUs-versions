@@ -136,17 +136,17 @@ If you prefer, you may opt-out by calling our Member Care Team toll-free at (800
 
 **Contacts: ** If you have any questions, concerns, or suggestions regarding this privacy policy, please contact us online to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
 
-March 02, 2012 Read More Arden O’Connor. © Lajla LeBlanc
+March 02, 2012 Read More Lion in Maasai Mara, Kenya, Africa. © Kenneth K. Coe
+
+**Close Encounters with Nature**
+
+Whether scary or exciting, nature has a way of sneaking up on you. See stories
+
+Arden O’Connor. © Lajla LeBlanc
 
 **Nature Matters**
 
 Hear some of nature's success stories and see how nature matters to us all. Watch videos
-
-Painting by Claude Monet
-
-**Nature Inspires Art**
-
-The natural world has played a vital role in great works of art throughout the ages. View art
 
 Donate to The Nature Conservancy Coast live oak trees punctuate the prairie grasslands at Chimineas Ranch, a protected wildlife corridor linking the Carrizo Plain National Monument with Los Padres National Forest, located within San Luis Obispo County, California. © Mark Dolyak When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
 
