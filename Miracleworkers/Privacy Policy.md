@@ -3,10 +3,10 @@ Register or Sign In >>. | Employers
 *   Home
 *   My MiracleWorkers
 *   Search Jobs
+*   Post Resume
 *   My Recommended Jobs
 *   All Jobs
 *   Advice &. Resources
-*   Post Resume
 *   Sign In >>.
 
 Protect Your Privacy and Safety
