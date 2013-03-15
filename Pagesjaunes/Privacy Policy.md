@@ -78,7 +78,9 @@
     compte PagesJaunes    
     
 
-Les recherches PagesJaunes Mentions légales - Conditions d'utilisation Le site http://www.pagesjaunes.fr/ est édité par :
+Les recherches PagesJaunes
+
+Mentions légales - Conditions d'utilisation Le site http://www.pagesjaunes.fr/ est édité par :
 
 **PagesJaunes**  
 7, avenue de la Cristallerie  
@@ -149,7 +151,7 @@ Jean-Pierre Remy
     \-      vous permettre d’utiliser nos services ;  
     \-      vous informer sur les services pour lesquels vous avez exprimé un intérêt et qui vous sont proposés sur notre site ;  
     \-      vous proposer de participer à des jeux ou des concours ;  
-    \-      vous proposer des offres publicitaires et des informations sur notre site en rapport avec vos centres d’intérêt et, éventuellement, avec votre localisation ;  
+    \-      vous proposer des offres publicitaires et des informations sur notre site en rapport avec vos centres d’intérêt et, éventuellement, avec une localité ;  
     \-      nous permettre d'établir des statistiques et comptages de fréquentation et d'utilisation des diverses rubriques et contenus de notre site et de nos services notamment afin d’adapter lesdites rubriques et lesdits contenus en fonction de votre navigation.  
       
     Le cas échéant, le formulaire de collecte pourra être accompagné d'une case à cocher vous permettant d'accepter ou de refuser que vos données soient utilisées à des fins commerciales pour le compte de tiers, et/ou cédées à des tiers.  
@@ -168,7 +170,7 @@ Jean-Pierre Remy
       
     \- de vous permettre d'accéder à des espaces réservés et personnels de notre site ou de nos services, tels que votre compte personnel, sur la base de données personnelles que vous nous avez antérieurement confiées . dans ce cas, vous pourrez accéder à des contenus personnalisés ou qui vous sont réservés ;  
       
-    \- d'adapter les contenus publicitaires insérés dans nos services aux centres d'intérêts et, éventuellement, avec votre localisation, qui résultent des données de navigation de votre terminal parmi les rubriques de notre site ou de nos services, sans que nous n'ayons de données personnelles permettant de vous identifier ou de vous contacter directement ;  
+    \- d'adapter les contenus publicitaires insérés dans nos services aux centres d'intérêts et, éventuellement, avec une localité, qui résultent des données de navigation de votre terminal parmi les rubriques de notre site ou de nos services, sans que nous n'ayons de données personnelles permettant de vous identifier ou de vous contacter directement ;  
       
     \- d'adapter les contenus publicitaires insérés dans nos services aux données personnelles que vous nous avez confiées et qui sont associées à un cookie, ainsi qu'aux centres d'intérêts qui résultent des données de navigation de votre terminal parmi les rubriques de notre site ou de nos services.  
       
@@ -176,9 +178,26 @@ Jean-Pierre Remy
     \- au bout de 90 jours lorsque ces informations servent à vous adresser des publicités et des contenus personnalisés ;  
     \- au bout de 6 mois lorsque ces informations servent à établir des statistiques et comptages de fréquentation et d'utilisation des diverses rubriques et contenus de notre site et de nos services.  
       
-    Pour de plus amples informations sur les cookies veuillez vous reporter à notre Charte relative à la Protection des Données Personnelles en cliquant ICI  
-      
-    Les cookies tiers  
+    Pour de plus amples informations sur les cookies veuillez vous reporter à notre Charte relative à la Protection des Données Personnelles en cliquant ICI
+    
+*   Lieu favori  
+     
+    
+    En vue d’adapter les informations que nous diffusons sur la page d’accueil de notre site par rapport à une localité déterminée, nous utilisons la technique des cookies.
+    
+    Pour ce faire, nous procédons de la manière suivante :
+    
+    1.    Lors de votre première visite sur notre site, les informations affichées concernent la localité de Paris par défaut.
+    
+    Lors des visites suivantes :
+    
+    2\. Si vous avez choisi un lieu favori, les informations affichées concerneront ce lieu.
+    
+    A tout moment, vous pouvez décider de changer de lieu favori ou de ne plus en définir un en décochant la case correspondante.
+    
+    3\. Si vous n’avez pas choisi de lieu favori, les informations affichées concerneront la localité correspondant à la recherche que vous avez effectuée sur notre site.
+    
+*   Les cookies tiers  
       
     Lorsque vous accédez à notre site, un ou plusieurs cookies de sociétés partenaires (« cookies tiers ») sont susceptibles d’être placés dans votre terminal. Ces cookies tiers ont pour finalité d’identifier vos centres d’intérêt au travers des produits consultés sur notre site et de collecter des données de navigation afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de nos sites.  
       
