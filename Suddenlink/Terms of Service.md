@@ -44,9 +44,11 @@ Search Search
 *   Seguridad
 *   Beneficios VIP
 
+*   My Account
 *   Support
 *   Email
 
+*   My Account
 *   Apoyo
 *   Email
 
