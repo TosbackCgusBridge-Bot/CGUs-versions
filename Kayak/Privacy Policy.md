@@ -1,4 +1,4 @@
-_Effective as of 3 November 2011_
+_Effective as of 8 March 2013_
 
 Our goal is to make KAYAK the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the privacy feedback form.
 
@@ -32,7 +32,7 @@ KAYAK may disclose to authorised law enforcement personnel the Personal Data fro
 
 5\. You Are The Boss
 
-KAYAK members and site visitors have control over the use of their Personal Data. Since you are the boss on KAYAK, you always can change your account settings in the "My Account" pages on KAYAK. How does it feel to be such a big shot?
+KAYAK members and site visitors have control over the use of their Personal Data. Since you are the boss on KAYAK, you always can change your account settings in the "My Account" pages on KAYAK. How does it feel to be such a big shot? Furthermore, you can always delete your account here.
 
 6\. Protecting Your Information
 
@@ -86,4 +86,4 @@ Fraumünsterstrasse 16
 8001 Zürich  
 Switzerland
 
-Last updated: 3 November 2011
+Last updated: 8 March 2013
