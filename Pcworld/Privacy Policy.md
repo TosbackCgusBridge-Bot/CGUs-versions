@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Spotify reportedly launching free streaming music service overseas March 13, 2013
-*   Amazon permanently drops prices on its 8.9" Kindle Fire HD tablets March 13, 2013
-*   Review: The MetaWatch Frame is a very cool smartwatch March 13, 2013
+*   Used Samsung Galaxy smartphone values in line with used iPhones March 14, 2013
+*   Earth's largest radio telescope is officially open for business March 14, 2013
+*   Knitting a pi blanket is a great way celebrate Pi Day March 14, 2013
 
 PCWorld Articles
 
-*   Create gorgeous animated business presentations with Prezi March 13, 2013
-*   Review: Magix Page &. Layout Designer includes advanced tools for beginner users March 13, 2013
-*   New Google site aims to help webmasters of hacked sites March 13, 2013
+*   How to advertise on social media: Step-by-step on 4 networks March 14, 2013
+*   For a fully free desktop OS, try Trisquel GNU/Linux 6.0 March 14, 2013
+*   Three great alternatives to Google Reader March 14, 2013
 
   
 TechHive on Twitter (@TechHive)
