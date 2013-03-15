@@ -63,7 +63,7 @@ View All Vehicles Shopping Tools
 *   Search Inventory
 
 *   Financial Tools
-*   What fits my budget?
+*   What Fits My Budget?
 *   Estimate Payments
 
 *   Buy or Lease Quiz
@@ -379,4 +379,4 @@ Toyota Social
 *   Twitter
 *   Youtube
 
-Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map Ad Choices
+Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map AdChoices
