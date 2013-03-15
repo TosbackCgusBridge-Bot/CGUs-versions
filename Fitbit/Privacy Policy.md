@@ -1,4 +1,4 @@
-Fitbit Sign up • Log in
+Fitbit Log in • Get Started
 
 *   Products
     
