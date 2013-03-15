@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Mar 14, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Mar 15, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -244,14 +244,13 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Farm Bureau Pres: More Optimistic On Immigration Reform Than Past Decade
-*   Dairy Council of California Launches New Website to Teach Healthy Eating, Benefits of Milk
-*   If You're Hedging the Margin, Don’t Try To Guess the Market
-*   California Dairies, Inc. Supports Stand-Alone Margin Insurance
-*   National Milk Producers Federation Reaffirms Support of Dairy Security Act in Farm Bill
-*   Blunt pushes ag issues into budget resolution
-*   Blunt: We must set budget priorities
-*   Joe Bastardi: Oceans, not CO2 driving weather changes
+*   Cong. Peterson: No Farm Bill Without a Dairy Program
+*   Cong. Peterson: There is a Make It Hurt Campaign
+*   Lucas: USDA Did Not Ask for Flexibility
+*   College Students Participate in 8th Annual Western Regional Dairy Challenge
+*   Dairy Nightmares
+*   Lucas Views Ryan Budget Number as "Guidance"
+*   Wheat Heads for Longest Rally Since July
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
