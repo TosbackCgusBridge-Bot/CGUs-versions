@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Devotees of sex play want to make their voices heard
+Search Help Stark luxury
 
-Also in Style »
+Also in T Magazine »
 
-*   The big names in Milan fashion present fall 2013 collections
-*   Alexander Wang takes charge of Balenciaga
+*   Seats of power
+*   Sling on one of these color-block totes in a mix of rose, black and cream
 
   
 
