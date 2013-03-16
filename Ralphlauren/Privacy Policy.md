@@ -1,6 +1,7 @@
   >> Privacy &. Security    Choose a link to select a section.  
-Privacy Notice Safe Harbor Privacy Policy  
-**Ralph Lauren Corporation**    **Privacy Notice**
+Website and Store Privacy Policy Safe Harbor Privacy Policy  
+Mobile Application Privacy Notice  
+**Ralph Lauren Corporation**    Website and Store Privacy Policy
 
 Ralph Lauren Corporation and its affiliates (collectively, "Polo Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Polo Ralph Lauren stores, Polo Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Polo Ralph Lauren is responsible for this website.
 
@@ -273,7 +274,7 @@ Switzerland
   
 Email: eu.privacy@poloralphlauren.com  
 Back to Top  
-   Safe Harbor Privacy Policy  
+Safe Harbor Privacy Policy  
 We at Ralph Lauren Corporation ("Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the European Economic Area ("EEA") and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.  
   
 For purposes of this Policy:  
@@ -356,4 +357,37 @@ Attention: Marco Kerschen
 1214 Vernier  
 Switzerland  
   
-Back to Top
+Mobile Application Privacy Notice  
+This Mobile Application Privacy Notice applies to each of the Ralph Lauren mobile applications ("Apps"). We are not responsible for the content, use or privacy practices of any third-party sites linked from or otherwise accessible from the Apps which are not operated by Ralph Lauren.  
+  
+**Personal Information You Provide and How We Use It**  
+  
+Through our Apps, you can find the location of the nearest Ralph Lauren store by entering your zip code or by allowing the Apps to use your current location to locate the nearest store. You also may access Ralph Lauren's website from the Apps. When you visit our website, we may collect certain personal information about you as described above in the Privacy Notice applicable to our website.  
+  
+We may share personal information we collect through the Apps with service providers that perform services on our behalf and our affiliates. We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets.  
+  
+The Apps are not directed to or marketed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen through the App. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen through the Apps, we will delete the information from our records.  
+  
+**Access**  
+  
+We provide you with reasonable access to personal information we have retained about you and the ability to review, correct or update this information. To request access, please write to the address specified in the "Contact Us" section below.  
+  
+**Security**  
+  
+We maintain administrative, technical and physical safeguards to help protect the personal information you provide through the Apps.  
+  
+**Changes to the Mobile App Privacy Notice**  
+  
+We may update this Mobile App Privacy Notice periodically and without prior notice. We will post a notice on the Ralph Lauren.com website and on the Mobile App Privacy Notice appearing on the App itself to notify you of any significant changes and indicate at the bottom of this page when the Notice was most recently updated.  
+  
+**Contact Us**  
+  
+If you have any questions or comments about this Mobile App Privacy Notice, please contact us by writing to:  
+  
+Ralph Lauren Corporation  
+Attention: Chief Privacy Officer  
+625 Madison Avenue  
+11th Floor  
+New York, New York 10022  
+  
+**Effective Date of Mobile Application Privacy Notice:** February 25, 2013 Back to Top
