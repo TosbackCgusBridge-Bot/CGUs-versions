@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Mar 15, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Mar 16, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -244,13 +244,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Cong. Peterson: No Farm Bill Without a Dairy Program
-*   Cong. Peterson: There is a Make It Hurt Campaign
-*   Lucas: USDA Did Not Ask for Flexibility
-*   College Students Participate in 8th Annual Western Regional Dairy Challenge
-*   Dairy Nightmares
-*   Lucas Views Ryan Budget Number as "Guidance"
-*   Wheat Heads for Longest Rally Since July
+*   No Dairy Title Equals No Farm Bill
+*   Help AgWeb Honor Farmers on March 19
+*   Brazil Shipping Delays Spur U.S. Crop Demand
+*   MLV and Killed Vaccines Both Have a Home on the Dairy
+*   Tillamook Voted ‘America’s Best’ at U.S. Championship Cheese Contest
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
