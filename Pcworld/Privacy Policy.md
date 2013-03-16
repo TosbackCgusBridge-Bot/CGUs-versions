@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Used Samsung Galaxy smartphone values in line with used iPhones March 14, 2013
-*   Earth's largest radio telescope is officially open for business March 14, 2013
-*   Knitting a pi blanket is a great way celebrate Pi Day March 14, 2013
+*   Nintendo Wii U sales disappoint, prognosis mixed March 15, 2013
+*   Telepathy One may be a sleeker, more fashionable alternative to Google Glass March 15, 2013
+*   Review: Samsung HM3300 delivers impressive call quality March 15, 2013
 
 PCWorld Articles
 
-*   How to advertise on social media: Step-by-step on 4 networks March 14, 2013
-*   For a fully free desktop OS, try Trisquel GNU/Linux 6.0 March 14, 2013
-*   Three great alternatives to Google Reader March 14, 2013
+*   Opinion: CISPA isn’t the evil, privacy-infringing legislation you think it is March 15, 2013
+*   Three easy ways to find the Windows 8 Control Panel March 15, 2013
+*   LogMeIn limits freeloaders to 10 PCs. So what? March 15, 2013
 
   
 TechHive on Twitter (@TechHive)
