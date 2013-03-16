@@ -291,4 +291,4 @@ Return to previous page
 *   Manage Your Account
 *   Apply now
 
-    Quality, service and value since 1910. Your satisfaction is our guarantee! ©BLAIR 2000-2012 | 220 Hickory St., Warren, PA 16366 | Site Map | Popular Searches | Solutions | Clothing Pages
+    Quality, service and value since 1910. Your satisfaction is our guarantee! ©BLAIR 2000-2013 | 220 Hickory St., Warren, PA 16366 | Site Map | Popular Searches | Solutions | Clothing Pages
