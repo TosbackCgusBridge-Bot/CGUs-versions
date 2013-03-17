@@ -2,13 +2,13 @@ Privacy Policy
 
 Effective Date: February 13, 2013
 
-This Privacy Statement (" **_Privacy Statement_** ") explains how WhaleShark Media, Inc. ("RetailMeNot", "us", "our", and "we"), collects and uses information when you interact with us. This Privacy Statement applies to all users of RetailMeNot's website published at www.RetailMeNot.com and any mobile applications (such as our iPhone and Android Applications), electronic services, social networking sites (including the RetailMeNot on Facebook application), individual, business partner-specific, merchant-specific, or area-specific sites we offer that are branded “RetailMeNot” and link or reference this Privacy Statement (collectively, the " **_Sites_** ").
+This Privacy Statement (" **_Privacy Statement_** ") explains how RetailMeNot, Inc. ("RetailMeNot", "us", "our", and "we"), collects and uses information when you interact with us. This Privacy Statement applies to all users of RetailMeNot's website published at www.RetailMeNot.com and any mobile applications (such as our iPhone and Android Applications), electronic services, social networking sites (including the RetailMeNot on Facebook application), individual, business partner-specific, merchant-specific, or area-specific sites we offer that are branded “RetailMeNot” and link or reference this Privacy Statement (collectively, the " **_Sites_** ").
 
 Please read this Privacy Statement carefully. This Privacy Statement replaces and supersedes the last version of this Privacy Statement for all users (including for those users that registered prior to the Effective Date and any affiliates who participate in the RMN Affiliate Program). If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with the Sites.
 
 Please Contact Us if you have any questions or comments about our privacy practices or this Privacy Statement. You can reach us via postal mail at the following address:
 
-WhaleShark Media, Inc.  
+RetailMeNot, Inc.  
 Attention: Legal Department  
 301 Congress Avenue, Suite 700  
 Austin, Texas 78701  
@@ -171,7 +171,7 @@ Safe Harbor
 
 RetailMeNot complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. RetailMeNot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/
 
-In compliance with the US-EU Safe Harbor Principles, RetailMeNot commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact us at legal@whalesharkmedia.com.
+In compliance with the US-EU Safe Harbor Principles, RetailMeNot commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact us at legal@rmn.com.
 
 RetailMeNot has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
@@ -181,7 +181,7 @@ This Privacy Statement only addresses the use and disclosure of information by R
 
 11\. Communities
 
-Our Sites may contain Communities and other areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. Please avoid publicly posting Personal Information. If you have questions about Personal Information posted in our Communities, please contact legal@whalesharkmedia.com.
+Our Sites may contain Communities and other areas where you may be able to publicly post information, communicate with others such as discussion boards or blogs, review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages from other parties. Please avoid publicly posting Personal Information. If you have questions about Personal Information posted in our Communities, please contact legal@rmn.com.
 
 12\. Changes to this Privacy Statement
 
@@ -193,9 +193,9 @@ RetailMeNot does not intend that any portion of the Sites will be accessed or us
 
 14\. California Privacy Rights
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RetailMeNot pursuant to Section 1798.83 of the California Civil Code, please contact us via email to legal@whalesharkmedia.com, or by writing us at the following address:
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by RetailMeNot pursuant to Section 1798.83 of the California Civil Code, please contact us via email to legal@rmn.com, or by writing us at the following address:
 
-WhaleShark Media, Inc.  
+RetailMeNot, Inc.  
 Attention: Legal Department  
 301 Congress Avenue, Suite 700  
 Austin, Texas 78701
