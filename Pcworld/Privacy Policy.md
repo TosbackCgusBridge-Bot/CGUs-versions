@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Nintendo Wii U sales disappoint, prognosis mixed March 15, 2013
-*   Telepathy One may be a sleeker, more fashionable alternative to Google Glass March 15, 2013
-*   Review: Samsung HM3300 delivers impressive call quality March 15, 2013
+*   E-paper ventures outdoors to provide a scoreboard in Japan March 16, 2013
+*   Facebook shuts off data tap to startup MessageMe app March 16, 2013
+*   Two charged with gift-card hacking scheme March 16, 2013
 
 PCWorld Articles
 
-*   Opinion: CISPA isn’t the evil, privacy-infringing legislation you think it is March 15, 2013
-*   Three easy ways to find the Windows 8 Control Panel March 15, 2013
-*   LogMeIn limits freeloaders to 10 PCs. So what? March 15, 2013
+*   Sophisticated Trojan horses target banks, Symantec says March 16, 2013
+*   Mobile computing and social media innovation can mean less user control March 16, 2013
+*   Cyber crime punishment questioned by Internet advocacy group March 16, 2013
 
   
 TechHive on Twitter (@TechHive)
