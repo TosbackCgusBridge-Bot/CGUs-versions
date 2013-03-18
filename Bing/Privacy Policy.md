@@ -237,45 +237,43 @@ If you do not want the service to store your customized settings on Microsoft se
 
 If you consent to send location information to an app, that information will be used to provide the service you’ve requested, as well as to improve our products and services. You can stop sending location information by going to the “Privacy” options of Windows 8 or, to stop sending location information to a specific app, go to the “Settings” of that app, then “Permissions” and disable location.
 
-Bing ApplicationsBing Applications
+Bing BarBing Bar
 
-Bing applications, such as Bing Bar and Bing Desktop, use Bing search services to provide you with quick and convenient ways to access information such as searching the internet, weather forecasts, traffic reports, or other information depending on the features of the application (not all Bing applications or features are available in every country).  When you use Bing applications, information about your computer and how you use the application, such as operating system, browser information or buttons you click are collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services.  If you choose to participate in the Bing Improvement Program, we also additional collect information about how you use the Bing application, information about your searches, and the addresses of the websites you visit (when using a Bing browser plug-in).
+The Bing Bar gives you a quick, convenient way to search the internet, check your email, weather forecasts, traffic reports, road maps, and Facebook. (Some features may not be available in your country or region). When you use the Bing Bar, certain information is collected and shared with Microsoft and used in order to operate the Bing Bar services and to help improve Bing Bar and other Microsoft products and services, including information about your computer, your searches, addresses of websites you visit, and how you use Bing Bar. If you elect not to participate in the Improvement Program more limited information will be collected.
 
-Bing applications provide a number of features and services which collect and use additional information as follows and are described further in the details sections.
+The Bing Bar provides a number of features and services which collect and use additional information as follows and are described further in the details sections.
 
-*   **Searching** with the Bing application
+*   **Searching** with the Bing Bar
 *   **Autosuggest** to provide you with search suggestions
-*   **Bing Experience Improvement Program** is an optional program to improve the quality and performance of our products and services.
+*   **Bing Bar Experience Improvement Program** is an optional program to improve the quality and performance of our products and services.
+*   **AutoFill** Some older versions of the Bing Bar include an optional feature that can automatically fill out forms on Web sites with information such as your address, passwords, and credit card information so that you do not have to repeatedly type the same information or remember multiple passwords.
 
-Bing applications, such as Bing Bar and Bing Desktop, use Bing search services to provide you with quick and convenient ways to access information such as searching the internet, weather forecasts, traffic reports, or other information depending on the features of the application (not all Bing applications or features are available in every country).  When you use Bing applications, information about your computer and how you use the application, such as operating system, browser information or buttons you click are collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services.  If you choose to participate in the Bing Improvement Program, we also collect additional information about how you use the Bing application, information about your searches, and the addresses of the websites you visit (when using a Bing browser plug-in).
+The Bing Bar gives you a quick, convenient way to search the internet, check your email, weather forecasts, traffic reports, road maps, and Facebook. (Some features may not be available in your country or region). When you use the Bing Bar, certain information is collected and shared with Microsoft and used in order to operate the Bing Bar services and to help improve Bing Bar and other Microsoft products and services. You may also choose to participate in optional programs such as the Bing Bar Experience Improvement program that, as described in more detail below, collects additional information including information about your computer, your searches, addresses of websites you visit, and how you use Bing Bar. If you elect not to participate in the Improvement Program more limited information will be collected.
 
-When you install Bing applications we collect information that tells us if the Bing application was installed properly, the installation date, the Bing application version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the Bing application and issues associated with different versions of the Bing application and different systems. When you click on buttons and interact with the Bing application, we will collect this information to assist in improving the Bing application features.
+When you install the Bing Bar we collect information that tells us if the Bing Bar was installed properly, the installation date, the Bing Bar version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the Bing Bar and issues associated with different versions of the Bing Bar and different systems. When you click on buttons and interact with the Bing Bar, we will collect this information to assist in improving the Bing Bar features.
 
-If you have installed a Bing application plug-in to your browser, such as Bing Bar, when you visit a Microsoft site a cookie may be generated and shared with other Microsoft sites. The cookie includes information about the Bing application plug-in version and install date to help Microsoft determine whether or not to provide you with additional information about the plug-in and any updated versions. When InPrivate browsing is selected the Bing application plug-in does not collect or send any data to us unless you specifically re-enable the plug-in during that browsing session. You can learn more about how to use InPrivate here.
+Bing Bar and issues associated with different versions of the Bing Bar and different systems. When you click on buttons and interact with the Bing Bar, we will collect this information to assist in improving the Bing Bar features.
 
-Bing applications provide a number of features and services which collect and use additional information. Those Bing Bar features and services are described below:
+When you visit a Microsoft site with the Bing Bar installed, a cookie may be generated and shared with other Microsoft sites. The cookie includes information about the Bing Bar version and install date to help Microsoft determine whether or not to provide you with additional information about the Bing Bar and any updated versions. When InPrivate browsing is selected the Bing Bar does not collect or send any data to us unless you specifically re-enable Bing Bar in that browsing session. You can learn more about how to use InPrivate here.
 
-*   **Searching with the Bing application.** When you type a query in the Bing application, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the Collecting Your Information section of this statement.
-*   **Autosuggest.** The characters that you type into a Bing search will be sent to Microsoft in order to provide you with real-time Search Suggestions.
-*   **Bing Experience Improvement Program.** If you are using a Bing application and you have chosen to participate in the Bing Experience Improvement program, information about how you use the Bing application will be sent to Microsoft. If you are using a Bing browser plug-in, such as Bing Bar, information about the websites that you visit will be sent to Microsoft. This information helps us to improve the quality and performance of our products and services and to help prevent spam and phishing scams from reaching your inbox. While the Bing application browser plug-in is enabled, the information about the websites accessed are collected to improve search ranking and relevance and the performance of Bing services.
+The Bing Bar provides a number of features and services which collect and use additional information. Those Bing Bar features and services are described below:
+
+*   **Searching with the Bing Bar.** When you type a query in the Bing Bar, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described at the top of this Supplement.
+*   **Autosuggest.** The characters that you type into the Bing Bar will be sent to Microsoft in order to provide you with real-time Search Suggestions.
+*   **Bing Bar Experience Improvement Program.** If you’ve chosen to participate in the Bing Bar Experience Improvement program, information about the websites that you visit and how you use Bing Bar will be sent to Microsoft. This information helps us to improve the quality and performance of our products and services and to help prevent spam and phishing scams from reaching your inbox. While the Bing Bar is enabled, the information about the websites accessed by the browser Bing Bar is installed on is collected to improve search ranking and relevance and the performance of Bing services.
+    
+    To help protect your privacy we do not use any of the information collected through the Bing Bar Experience Improvement Program to identify, contact or target advertising to you, and we take steps to store such information separately from any account information we may have that directly identifies you, such as name, e-mail address, or phone numbers. Finally, we delete the information collected through the Bing Bar Experience Program at eighteen months.
+    
+    You may stop participating in the program at any time. **To stop participating in the program:**
+    
+    1.  Start your Internet browser.
+    2.  On the right side of Bing Bar, click the Toolbar settings button.
+    3.  Click **Quality**, select **No, I don't want to participate**, and then click **Close.**
+    
+*   **AutoFill.** Some older versions of the Bing Bar include an optional feature that can automatically fill out forms on Web sites with information such as your address, passwords, and credit card information so that you do not have to repeatedly type the same information or remember multiple passwords. This information is encrypted and saved on your computer. it is not sent to Microsoft. The Toolbar will prompt you to create a single "form fill password." You must enter the form fill password every time you wish to automatically enter a stored credit card number and once per browser session to automatically enter a stored passwords.
     
 
-To help protect your privacy we do not use any of the information collected through the Bing Experience Improvement Program to identify, contact or target advertising to you, and we take steps to store such information separately from any account information we may have that directly identifies you, such as name, e-mail address, or phone numbers. Finally, we delete the information collected through the Bing Experience Program at eighteen months. 
-
-You may stop participating in the Bing Experience program at any time. **To stop participating in the program follow the steps below depending on the application you are using:**
-
-1.  Bing Bar
-    *   Start your Internet browser.
-    *   On the right side of Bing Bar, click the Toolbar settings button.
-    *   Click **Quality**, select **No, I don't want to participate**, and then click **Close.**
-
-1.  Bing Desktop:
-    *   Open Bing Desktop
-    *   On the right side of Bing Desktop, click the Settings button
-    *   Click **Quality** and select “**No, I do not want to participate**”
-    *   Click the **Settings** button again to close and accept changes
-
-1.  Other Bing applications:  Go to the Settings section of the application you are using.
+If you don't see some or all of the features described in this topic, you may have an older version of Bing Bar. To install the latest version of Bing Bar with all the newest features, go to the Bing Bar Download website. You may stop using the Bing Bar at any time. You may also uninstall the Bing Bar from Add/Remove Programs in the Windows Control Panel.
 
 ChildrenChildren
 
