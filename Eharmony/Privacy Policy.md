@@ -138,7 +138,8 @@ If you have any questions about this privacy statement, the practices of this si
 Site Administrator  
 eHarmony, Inc.  
 P.O. Box 3640  
-Santa Monica, CA 90408 USA
+Santa Monica, CA 90408 USA  
+(855) 290-5581
 
 **Acceptance of Privacy Statement**
 
@@ -150,7 +151,7 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy statement was last revised on April 24, 2012.
+This privacy statement was last revised on August 20, 2012.
 
   
   
@@ -158,4 +159,4 @@ This privacy statement was last revised on April 24, 2012.
   
   
 
-Copyright © 2000-2012 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
+Copyright © 2000-2013 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
