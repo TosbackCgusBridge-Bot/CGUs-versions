@@ -214,9 +214,8 @@ View the following policies regarding the Cox Price Lock Guarantee and Monthly D
 
 **Current Policies:**
 
-*   24 Month Price Lock Guarantee – Arkansas, Connecticut, Idaho, Iowa, Kansas, Louisiana, Nebraska, Ohio, Oklahoma and Rhode Island
+*   24 Month Price Lock Guarantee – All locations except Arizona
 *   24 Month Price Lock Guarantee – Arizona
-*   24 Month Price Lock Guarantee – California, Florida, Georgia, Nevada and Virginia
 *   12 Month Price Lock Guarantee – Arizona, Connecticut, Louisiana, Ohio and Rhode Island 
 
 **  
