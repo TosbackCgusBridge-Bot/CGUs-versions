@@ -34,7 +34,7 @@ Cookies and Privacy Information for Collaborate - Wimba Classroom
 Cookies and Privacy Information for Mobile Central  
 Cookies and Privacy Information for Mobile Learn  
 Cookies and Privacy Information for Mobile Portal  
-Cookies and Privacy Information for Blackboard Mobile
+ 
 
 Support for SSL Encryption
 
