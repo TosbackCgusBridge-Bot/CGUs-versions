@@ -12,7 +12,7 @@
 
 The Nature Conservancy. Protecting nature. Preserving life.™
 
-We're working with you to make a positive impact around the world in more than 30 countries, all 50 United States and your backyard. Support our work
+We're working with you to make a positive impact around the world in more than 35 countries, all 50 United States and your backyard. Support our work
 
 Sign up for our e-newsletter!
 
