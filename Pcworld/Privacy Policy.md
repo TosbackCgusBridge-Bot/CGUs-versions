@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Play This! Podcast: Tomb Raider, SimCity, and Justified March 18, 2013
-*   Pinterest rolls out redesign, emphasizes discovery March 18, 2013
-*   New BlackBerry PlayBook--don't hold your breath March 18, 2013
+*   ABC may offer live streaming apps, but not for cord cutters March 19, 2013
+*   Second computer glitch stalls NASA's Mars rover March 19, 2013
+*   Lockheed Martin develops a saltwater filter with graphene March 19, 2013
 
 PCWorld Articles
 
-*   Like Ubuntu Linux? This week, help make it better March 18, 2013
-*   End is in sight for free Microsoft Office 2013 Preview March 18, 2013
-*   App Spotlight: Scan business cards straight to your Salesforce account March 18, 2013
+*   Microsoft taking bribery allegations 'seriously' March 19, 2013
+*   Review: SyncUp syncs data whether you're logged on or not March 19, 2013
+*   Samsung Chromebook 3: Cheaper, more productive alternative to a tablet March 19, 2013
 
   
 TechHive on Twitter (@TechHive)
