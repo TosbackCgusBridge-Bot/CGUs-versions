@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Painting's removal stirs outcry
+Search Help New Pope shifts tone at Vatican
 
-Also in Arts »
+Also in Video »
 
-*   "Salt Sugar Fat" - how the food giants hooked us
-*   Madonna weighs in on Boy Scouts' gay ban
+*   A new cookie for a new Pope's followers
+*   A Catholic group supporting G.L.B.T. rights talks about what they want from Pope Francis
 
   
 
