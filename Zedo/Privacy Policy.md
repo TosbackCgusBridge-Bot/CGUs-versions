@@ -1,4 +1,4 @@
-Home >. About Us >. Privacy Policy ZEDO, Inc. Privacy Policy
+ZEDO, Inc. >. About Us >. Privacy Policy ZEDO, Inc. Privacy Policy
 
 _Updated May 2012_
 
