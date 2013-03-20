@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Mar 19, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Mar 20, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -57,22 +57,19 @@ Mar 19, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Crop Comments
     *   Planting News and Updates
     *   Online Field Guide
-    *   2012 Pest Watch
     *   Corn
-    
     *   Soybeans
+    
     *   Cotton
     *   Wheat
     *   Hay and Forage
     *   Ask an Agronomist
-    
     *   Corn College
+    
     *   2012 Pro Farmer Midwest Crop Tour
     *   Seed
     *   2012 FIRST Seed Trials
-    *   Weed Warriors
-    
-     
+    *   Weed Warriors 
 *   Livestock
     
     *   Dairy
@@ -244,10 +241,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Schmahl: Do Dairy Imports Significantly Affect Prices?
-*   Farmers Feeding the World Records $2.1 Million from Farm Journal Media
-*   World Dairy Expo Unveils 2013 Recognition Award Winners
-*   Bullish Bets Jump Most Since July
+*   European Parliament Second Guesses Dairy Quota End
+*   Know Your Own Dairy’s Numbers
+*   2013 Colorado Corn Planting Likely at 1.4 Million Acres
+*   USDA: February Milk Production Climbs 0.6%
+*   Power Hour: Corn Futures Rise as Cold Hinders Fieldwork
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
