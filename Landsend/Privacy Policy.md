@@ -78,15 +78,7 @@ Enter Keyword or Item # Search
 *   Men
     
     *   New Arrivals
-    *   Pants
-        *   Regular
-        *   Tall
     *   Polos, T-Shirts &. Turtlenecks
-        *   Regular
-        *   Big
-        *   Tall
-    *   Shorts &. Swimwear
-    *   Sweaters
         *   Regular
         *   Big
         *   Tall
@@ -94,6 +86,10 @@ Enter Keyword or Item # Search
         *   Regular
         *   Big
         *   Tall
+    *   Pants
+        *   Regular
+        *   Tall
+    *   Shorts &. Swimwear
     *   Sport Shirts
         *   Regular
         *   Big
@@ -102,18 +98,22 @@ Enter Keyword or Item # Search
         *   Regular
         *   Tall
         *   Short
-    *   Shoes
-        *   Regular
-        *   Wide
     *   Outerwear
         *   Regular
         *   Big
         *   Tall
+    *   Sweaters
+        *   Regular
+        *   Big
+        *   Tall
+    *   Shoes
+        *   Regular
+        *   Wide
+    *   Belts &. Accessories
     *   Socks &. Underwear
     *   Sleepwear
         *   Regular
         *   Tall
-    *   Belts &. Accessories
     *   Activewear
         *   Regular
         *   Tall
@@ -142,7 +142,7 @@ Enter Keyword or Item # Search
         *   Accessories
             *   Big Kid (7 - 16)
             *   Little Kid (4 - 6x)
-        *   Tights, Socks &. Underwear
+        *   Tights &. Socks
             *   Big Kid (7 - 16)
             *   Little Kid (4 - 6x)
         *   Sleepwear
@@ -294,7 +294,6 @@ Enter Keyword or Item # Search
     *   Pillows, Comforters &. Basics
     *   Blankets &. Throws
     *   Decorative Pillows &. Home Décor
-    *   Seasonal Décor &. Gifts
     *   Bath
     *   Beach Towels
     *   Outdoor Living
@@ -325,7 +324,6 @@ Enter Keyword or Item # Search
         *   Pillows, Comforters &. Basics
         *   Blankets &. Throws
         *   Decorative Pillows &. Home Décor
-        *   Seasonal Décor &. Gifts
         *   Bath
         *   Beach Towels
         *   Outdoor Living
@@ -355,7 +353,6 @@ Enter Keyword or Item # Search
     *   Pillows, Comforters &. Basics
     *   Blankets &. Throws
     *   Decorative Pillows &. Home Décor
-    *   Seasonal Décor &. Gifts
     *   Bath
     *   Outdoor Living
     *   Backpacks &. Lunch Boxes
