@@ -45,7 +45,7 @@ Legal Notices &. Trademarks
 *   Code of Business Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 
-Privacy Statement - UPDATED MARCH 27, 2012
+Privacy Statement - UPDATED MARCH 19, 2013
 
 Click here to access the privacy statement in English: Privacy Statement
 
@@ -56,16 +56,16 @@ For other languages, click below:
 *   Déclaration sur la confidentialité d’Autodesk
 *   Autodesk Datenschutzerklärung
 *   Autodesk adatvédelmi nyilatkozat
-*   Informativa sulla privacy di Autodesk
+*   Informativa sulla privacy Autodesk
 *   Autodeskプライバシーステートメント
 *   개인 정보 보호 정책
-*   Oświadczenie firmy Autodesk na temat prywatności
-*   Declaração de Privacidade da Autodesk
-*   Правила конфиденциальности Autodesk
+*   Polityka Autodesk dotycząca ochrony prywatności
+*   Declaração de privacidade da Autodesk
+*   Заявление о конфиденциальности Autodesk
 *   Autodesk 隐私保护声明
 *   Declaración de privacidad de Autodesk
 *   Autodesk 隱私聲明
-*   Tuyên ngôn Bảo mật Tính riêng tư của Autodesk
+*   Tuyên Bố Bảo Mật Autodesk
 *   Pernyataan Privasi Autodesk
 *   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk
 
@@ -73,4 +73,4 @@ For other languages, click below:
 *   Careers
 *   Mobile Site
 
-© Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy Policy — Legal Notices &. Trademarks — Report Noncompliance — Site Map
+© Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy (updated) — Legal Notices &. Trademarks — Report Noncompliance — Site Map
