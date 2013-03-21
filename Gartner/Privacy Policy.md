@@ -111,10 +111,6 @@ Last Update: 29-September-2008
 
 *   All Privacy Officers
 
-Usage Guidelines
-
-*   usage.guidance@gartner.com
-
 *   General Contacts
 *   Worldwide Offices
 *   Become a Gartner Client
