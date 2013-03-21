@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help New Pope shifts tone at Vatican
+Search Help "The Bodyguard" at the Adelphi Theater
 
-Also in Video »
+Also in Arts »
 
-*   A new cookie for a new Pope's followers
-*   A Catholic group supporting G.L.B.T. rights talks about what they want from Pope Francis
+*   TimesTalks with Cyndi Lauper and Harvey Fierstein
+*   "The Accursed" by Joyce Carol Oates
 
   
 
