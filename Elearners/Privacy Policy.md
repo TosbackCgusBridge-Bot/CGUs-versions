@@ -200,18 +200,17 @@ Popular Topics:
 
 *   Online Colleges
 *   Online Degrees
-*   Online Certificates
 *   Online Courses
 *   Online Schools
-*   Campus Schools
+*   Campus Colleges
 
-Online Degrees by Level:
+Degrees by Level:
 
-*   Associate Degrees
-*   Bachelor Degrees
-*   Master Degrees
-*   Doctorate Degrees
-*   Certificates
+*   Online Associates Degrees
+*   Online Bachelor Degrees
+*   Online Masters Degrees
+*   Online Doctorate Degrees
+*   Online Certificate Programs
 
 Most Popular Degrees:
 
@@ -223,21 +222,15 @@ Most Popular Degrees:
 *   Education &. Teaching Degrees
 *   Computer Science Degrees
 
-Social Media:
-
-eLearners on:
+Follow eLearners on:
 
 About Us:
 
-*   Employment Opportunities
-*   Affiliate Programs
-*   Advertising
-*   Press &. Media
 *   FAQs
-*   Site Map
-*   Privacy Policy
-*   Terms of Use
 *   Legal Notices
+*   Terms of Use
+*   Privacy Policy
+*   Site Map
 
 Resources &. Tools:
 
