@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   ABC may offer live streaming apps, but not for cord cutters March 19, 2013
-*   Second computer glitch stalls NASA's Mars rover March 19, 2013
-*   Lockheed Martin develops a saltwater filter with graphene March 19, 2013
+*   Microsoft revives 'smoked' campaign to tout Windows Phone speed March 20, 2013
+*   AT&T tempts landline users to move to wireless phone services with contract-free offer March 20, 2013
+*   A $99 Amazon tablet would be good for consumers, bad for everyone else March 20, 2013
 
 PCWorld Articles
 
-*   Microsoft taking bribery allegations 'seriously' March 19, 2013
-*   Review: SyncUp syncs data whether you're logged on or not March 19, 2013
-*   Samsung Chromebook 3: Cheaper, more productive alternative to a tablet March 19, 2013
+*   How to disable Office 2013's start screen March 20, 2013
+*   Review: MuseScore is powerful and free musical notation software March 20, 2013
+*   Review: HP LaserJet Pro 200 color Printer M251nw March 20, 2013
 
   
 TechHive on Twitter (@TechHive)
