@@ -1,24 +1,22 @@
 POLITIQUE DE CUEILLETTE ET DE PROTECTION DE RENSEIGNEMENTS PERSONNELS ÉNONCÉ GÉNÉRAL
 
-La protection de votre vie privée est importante pour lapresse.ca inc. (« **lapresse.ca** »). Nous méritons votre confiance et souhaitons faire en sorte qu'elle résulte d'une excellente connaissance et compréhension de ce à quoi vous vous engagez lorsque vous visitez notre site Web ou que vous effectuez une transaction avec lapresse.ca.
+La protection de votre vie privée est importante pour La Presse, ltée (« La Presse »). Nous méritons votre confiance et souhaitons faire en sorte qu'elle résulte d'une excellente connaissance et compréhension de ce à quoi vous vous engagez lorsque vous interagissez avec un employé de La Presse ou l'un de ses représentants ou sous-contractants, que vous visitez notre site Web (www.lapresse.ca), que vous utilisez l'une ou l'autre de nos applications mobiles ou que vous effectuez une transaction avec nous en personne, par téléphone ou par l'entremise de notre site Web ou de l'une de nos applications mobiles.
 
-Nous savons que votre vie privée vous tient à cœur. Vos renseignements personnels, c'est à dire toute information vous concernant comme personne physique et qui permet de vous identifier (exemple : nom, adresse de résidence, adresse de courriel personnelle, numéro de téléphone au domicile ou cellulaire personnel) (les « **renseignements personnels** »), sont précieux. La cueillette de ces renseignements nous permet de vous offrir des produits et des services qui vous intéressent, de répondre promptement et adéquatement à vos besoins et, en partenariat avec vous, d'améliorer sans cesse notre contribution à votre qualité de vie.
+Nous savons que votre vie privée vous tient à cœur. Vos renseignements personnels, c'est à dire toute information vous concernant comme personne physique et qui permet de vous identifier (exemple : nom, adresse de résidence, adresse de courriel personnelle, numéro de téléphone au domicile ou cellulaire personnel, date de naissance) (les « **renseignements personnels** »), sont précieux. La cueillette de ces renseignements nous permet de vous offrir des produits et des services qui vous intéressent, de répondre promptement et adéquatement à vos besoins et, en partenariat avec vous, d'améliorer sans cesse notre contribution à votre qualité de vie.
 
 Il est donc essentiel de partager avec vous notre politique en matière de vie privée relative à la cueillette, à l'usage et à la communication des renseignements personnels que vous nous communiquez. En connaissant et en contrôlant les cueillettes, les usages et les communications de renseignements personnels que vous nous confiez, vous serez en mesure de faire des choix éclairés.
 
 Bien qu'il ne soit pas notre intention de modifier fréquemment ou substantiellement les pratiques ci-après décrites, il pourrait arriver que nous le fassions pour mieux vous servir à l'avenir ou compte tenu de l'évolution de la technologie. Voilà pourquoi, nous vous invitons à en revoir le contenu régulièrement.
 
-Veuillez noter que votre nom, titre, numéro de téléphone ou adresse de travail ne constituent pas des renseignements personnels aux fins de la présente politique.
-
 NOTRE POLITIQUE DE CONFIDENTIALITÉ DES RENSEIGNEMENTS PERSONNELS
 
-lapresse.ca a pour politique de gérer la collecte, l'utilisation et la communication des renseignements personnels conformément aux normes énoncées dans la _Loi sur la protection des renseignements personnels et les documents électroniques_. Dans certaines circonstances, des renseignements personnels peuvent être recueillis, utilisés ou communiqués à l'insu de la personne concernée ou sans son consentement. Ces exceptions incluent, de façon non exhaustive, les renseignements personnels recueillis pour des fins légales, de sécurité ou encore pour la détection et la prévention de fraudes
+La Presse a pour politique de gérer la collecte, l'utilisation et la communication des renseignements personnels conformément aux exigences des lois applicables en la matière, y compris aux normes énoncées dans la _Loi sur la protection des renseignements personnels et les documents électroniques_. Dans certaines circonstances, des renseignements personnels peuvent être recueillis, utilisés ou communiqués à l'insu de la personne concernée ou sans son consentement. Ces exceptions incluent, de façon non exhaustive, les renseignements personnels recueillis pour des fins légales, de sécurité ou encore pour la détection et la prévention de fraudes.
 
 A. PRINCIPES GÉNÉRAUX
 
-Dans sa cueillette et gestion de renseignements personnels, lapresse.ca s'engage à respecter votre vie privée et à mettre en application les 10 principes de protection suivants, sauf lorsque la loi l'en exempte :
+Dans sa cueillette et gestion de renseignements personnels, La Presse s'engage à respecter votre vie privée et à mettre en application les 10 principes de protection suivants conformément au code type sur la protection des renseignements personnels de l'Association canadienne de normalisation, sauf lorsque la loi l'en exempte:
 
-1.  Désigner et faire connaître les personnes responsables chez lapresse.ca du suivi de la présente politique
+1.  Désigner et faire connaître les personnes responsables chez La Presse du suivi de la présente politique
 2.  Recevoir et traiter toute plainte relative à la mise en œuvre de la présente politique et des pratiques qui en découlent
 3.  Déterminer pourquoi des renseignements personnels sont recueillis
 4.  Obtenir votre consentement
@@ -29,89 +27,95 @@ Dans sa cueillette et gestion de renseignements personnels, lapresse.ca s'engage
 9.  Rendre facilement accessible l'information relative aux pratiques en place et qui touchent les renseignements personnels
 10.  Donner accès aux renseignements personnels qui vous concernent et en permettre la rectification
 
-1\. Désigner et faire connaître les personnes responsables chez lapresse.ca du suivi de la présente politique
+1\. Désigner et faire connaître les personnes responsables chez La Presse du suivi de la présente politique
 
-Tous les employés de lapresse.ca sont responsables de la politique et des pratiques de lapresse.ca en matière de gestion des renseignements personnels. Il est toutefois important pour lapresse.ca que vous puissiez identifier facilement des personnes ressources avec lesquelles communiquer à ce propos, au besoin. Voilà pourquoi certains employés se verront, de temps à autre, attribuer une responsabilité particulière à cet égard. En envoyant vos commentaires aux coordonnées ci-dessous, nous nous assurerons de les faire parvenir à la personne désignée.
+Tous les employés de La Presse sont responsables de la politique et des pratiques de La Presse en matière de gestion des renseignements personnels. Il est toutefois important pour La Presse que vous puissiez identifier facilement des personnes ressources avec lesquelles communiquer à ce propos, au besoin. Voilà pourquoi certains employés se verront, de temps à autre, attribuer une responsabilité particulière à cet égard. En envoyant vos commentaires aux coordonnées ci-dessous, nous nous assurerons de les faire parvenir à la personne désignée.
 
 2\. Recevoir et traiter toute plainte relative à la mise en œuvre de la présente politique et des pratiques qui en découlent
 
-Toute demande ou plainte relative à la mise en œuvre de la présente politique peut être adressée à lapresse.ca aux coordonnées suivantes :
+Toute demande ou plainte relative à la mise en œuvre de la présente politique peut être adressée à La Presse aux coordonnées suivantes :
 
-Adresse postale :
+Adresse postale :  
 
-lapresse.ca  
+La Presse  
 Service à la clientèle  
 7, rue Saint-Jacques  
 Montréal (Québec) H2Y 1K9
 
-commentaires@lapresse.ca  
+Courriel : commentaires@lapresse.ca  
 Téléphone : 1 866 806-1804  
 Télécopieur : 514 285-7123  
 
 3\. Déterminer pourquoi des renseignements personnels sont recueillis
 
-lapresse.ca détermine, avant ou au moment de la cueillette de renseignements personnels, les fins auxquelles ces renseignements sont destinés. Cette information est accessible sur le site Web de lapresse.ca ou en communiquant avec lapresse.ca par courriel, par courrier régulier adressé à lapresse.ca, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
+La Presse détermine, avant ou au moment de la cueillette de renseignements personnels les fins auxquelles ces renseignements sont destinés (et vous en avise à ce moment) et comprennent, entre autres, les fins suivantes :
+
+*   Établir et maintenir des relations commerciales de confiance avec ses clients et fournir un service de qualité;
+*   Connaître les besoins et les préférences de ses clients;
+*   Satisfaire les exigences des lois et de la règlementation.
 
 Les renseignements personnels recueillis ne sont utilisés qu'aux fins ainsi déterminées sauf exceptions découlant de la loi ou avec votre consentement au nouvel usage.
 
 4\. Obtenir le consentement
 
-lapresse.ca obtient votre consentement à la cueillette, à l'usage et à la communication de tout renseignement personnel le concernant sauf exceptions découlant de la loi.
+La Presse obtient votre consentement à la cueillette, à l'usage et à la communication de tout renseignement personnel le concernant sauf exceptions découlant de la loi.
 
 5\. Limiter la cueillette de renseignements personnels
 
-lapresse.ca ne recueille que les renseignements personnels nécessaires suivant les circonstances. lapresse.ca indique, le cas échéant, le caractère obligatoire ou facultatif d'une demande de renseignements personnels et les conséquences découlant de votre choix de ne pas communiquer l'un ou l'autre de ces renseignements.
+La Presse ne recueille que les renseignements personnels nécessaires suivant les circonstances. La Presse indique, le cas échéant, le caractère obligatoire ou facultatif d'une demande de renseignements personnels et les conséquences découlant de votre choix de ne pas communiquer l'un ou l'autre de ces renseignements.
 
 6\. Limiter les usages et les communications de renseignements personnels
 
-lapresse.ca n'utilise et ne communique les renseignements personnels que pour les fins pour lesquelles ils ont été recueillis ou qu'avec votre consentement ou dans les cas autorisés par la loi.
+La Presse n'utilise et ne communique les renseignements personnels que pour les fins pour lesquelles ils ont été recueillis ou qu'avec votre consentement ou dans les cas autorisés par la loi.
 
 7\. Promouvoir l'exactitude des renseignements personnels au moment de leur utilisation ou de leur communication
 
-lapresse.ca prend des mesures raisonnables pour s'assurer que les renseignements personnels sont à jour et exacts au moment de les utiliser ou de les communiquer. Vous êtes invité à y contribuer en communiquant promptement à lapresse.ca tout changement à apporter à votre profil ou en signalant sans délai toute erreur qui se serait produite. Vous pouvez ce faire en accédant à votre profil sur le site Web de lapresse.ca ou en communiquant avec lapresse.ca par courriel, par courrier régulier adressé à lapresse.ca, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
+La Presse prend des mesures raisonnables pour s'assurer que les renseignements personnels sont à jour et exacts au moment de les utiliser ou de les communiquer. Vous êtes invité à y contribuer en communiquant promptement à La Presse tout changement à apporter à votre profil ou en signalant sans délai toute erreur qui se serait produite. Vous pouvez ce faire en accédant à votre profil sur le site Web de La Presse ou en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
 
 8\. Protéger les renseignements personnels
 
-lapresse.ca protège, par les mesures de sécurité appropriées selon les circonstances, les renseignements personnels qui lui sont confiés.
+La Presse protège, par les mesures de sécurité appropriées selon les circonstances, les renseignements personnels qui lui sont confiés.
 
 9\. Rendre facilement accessible l'information relative aux pratiques en place et qui touchent aux renseignements personnels
 
-lapresse.ca rend accessible sa politique de protection de la vie privée relative à la cueillette, à l'usage et à la communication de renseignements personnels. Vous pouvez la consulter sur le site Web de lapresse.ca ou en obtenir une copie en communiquant avec lapresse.ca par courriel, par courrier régulier adressé à lapresse.ca, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
+La Presse rend accessible sa politique de protection de la vie privée relative à la cueillette, à l'usage et à la communication de renseignements personnels. Vous pouvez la consulter sur le site Web de La Presse ou en obtenir une copie en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
 
 10\. Donner accès aux renseignements personnels qui vous concernent et en permettre la rectification
 
-lapresse.ca vous permet, sous réserve des conditions et des exceptions prévues à la loi, d'avoir accès aux renseignements personnels qui vous concernent et que lapresse.ca détient à votre sujet. lapresse.ca vous informera, sur demande, de l'existence de renseignements personnels qui vous concernent, de l'usage qui en est fait et du fait qu'ils ont été communiqués à des tiers, et vous permettra de les consulter. Il vous sera aussi possible de contester l'exactitude et l'intégralité des renseignements et d'y faire apporter les corrections appropriées.
+La Presse vous permet, sous réserve des conditions et des exceptions prévues à la loi, d'avoir accès aux renseignements personnels qui vous concernent et que La Presse détient à votre sujet. La Presse vous informera, sur demande, de l'existence de renseignements personnels qui vous concernent, de l'usage qui en est fait et du fait qu'ils ont été communiqués à des tiers, et vous permettra de les consulter. Il vous sera aussi possible de contester l'exactitude et l'intégralité des renseignements et d'y faire apporter les corrections appropriées.
 
 B. INSTANCES DE CUEILLETTE DE RENSEIGNEMENTS PERSONNELS
 
-En règle générale, le site Web de lapresse.ca ne sert pas d'outil de collecte de renseignements personnels. Toutefois, dans certaines circonstances, lapresse.ca peut vous demander de vous inscrire et de lui fournir votre nom et certains renseignements personnels comme lorsque vous vous inscrivez à un concours, placez des commentaires sur notre site Web ou si vous êtes membre de lapresse.ca. Vous pouvez refuser toujours de ce faire. Dans tels cas, vous aurez néanmoins accès à la majeure partie du site Web mais vous ne pourrez accéder aux sections exigeant votre inscription.
+En règle générale, les appels téléphoniques, les envois de courriel, le site Web et les applications mobiles de La Presse ne servent pas d'outil de collecte de renseignements personnels. Toutefois, dans certaines circonstances, La Presse peut vous demander de vous inscrire et de lui fournir votre nom et certains renseignements personnels comme lorsque vous vous inscrivez à un concours, souscrivez à un abonnement, placez des commentaires sur notre site Web ou par l'entremise d'une application mobile, si vous créez un compte « Ma Presse » ou si vous vous abonnez à l'une de nos infolettres. Vous pouvez toujours refuser de ce faire. Dans un tel cas, vous aurez néanmoins accès à la majeure partie du site Web et/ou des fonctionnalités des applications mobiles mais vous ne pourrez accéder aux sections ou aux fonctionnalités exigeant votre inscription.
 
 Si vous acceptez de vous inscrire, les renseignements que vous fournirez serviront essentiellement aux fins suivantes, autres que les fins expressément désignées lors de votre inscription :
 
-*   aider lapresse.ca à assurer la pertinence de son site Web en adaptant le contenu à vos besoins personnels;
-*   aider lapresse.ca à évaluer et améliorer son site Web;
-*   permettre à lapresse.ca, dans les sections « Commentaires », d'assurer le respect des règles de bienséance et la qualité des échanges;
-*   vous informer de tout fait ou événement susceptible de vous intéresser.
+*   aider La Presse à assurer la pertinence de ses produits et services, de son site Web et de ses applications mobiles en adaptant le contenu à vos besoins personnels;
+*   aider La Presse à évaluer et améliorer ses produits et services, son site Web et ses applications mobiles;
+*   permettre à La Presse, dans les sections « Commentaires », d'assurer le respect des règles de bienséance et la qualité des échanges;
+*   vous informer de tout fait, événement, produit, service ou offre susceptible de vous intéresser.
 
-lapresse.ca ne divulguera pas les renseignements personnels ainsi recueillis à une tierce partie. Par contre, il est possible que lapresse.ca utilise ces renseignements aux fins de recherches ou de statistiques. Dans ces circonstances, la transmission de telles recherches ou statistiques ne divulguerait pas votre identité ou vos renseignements personnels.
+La Presse ne divulguera pas les renseignements personnels ainsi recueillis à une tierce partie autrement que ce qui est prévu par la loi. Par contre, il est possible que La Presse utilise ces renseignements aux fins de recherches ou de statistiques. Dans ces circonstances, la transmission de telles recherches ou statistiques ne divulguerait pas votre identité ou vos renseignements personnels.
 
-lapresse.ca gère toutes les campagnes de marketing direct qui sont effectuées sur son site Web. Nous ne transmettons aucun renseignement personnel à de tierces parties à de telles fins.
+La Presse gère toutes les campagnes de marketing direct qui sont effectuées sur son site Web ou ses applications numériques. Nous ne transmettons aucun renseignement personnel à de tierces parties à de telles fins.
 
-Vous pouvez choisir de vous désinscrire des services requérant votre inscription en tout temps en modifiant votre profil ou en communiquant avec lapresse.ca par courriel, par courrier régulier adressé à lapresse.ca, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
+Vous pouvez choisir de vous désinscrire des services requérant votre inscription en tout temps en modifiant votre profil ou en communiquant avec La Presse par courriel, par courrier régulier adressé à La Presse, Service à la clientèle, 7 rue St-Jacques, Montréal, Canada H2Y 1K9 ou par téléphone au 1 866 806-1804.
 
 C. PERSONNES MINEURES
 
 Si vous avez moins de 18 ans, veuillez obtenir la permission d'un parent ou de votre tuteur avant de nous transmettre des renseignements personnels. Si vous êtes un parent, nous vous encourageons également à prendre connaissance de l'usage de l'internet que fait votre enfant.
 
-D. COOKIES
+D. COOKIES ET DISPOSITIFS D'ANALYSE D'AUDIENCE
 
 Certaines pages de notre site Web requièrent l'envoi de témoins (_cookies_). Le témoin consiste en un fichier installé sur le disque dur de votre ordinateur et contient des informations améliorant la communication entre notre serveur et votre fureteur. Notre serveur installe sur votre ordinateur un témoin permanent lors d'une première visite et selon les applications utilisées, d'autres témoins permanents ou temporaires servant à gérer techniquement certains choix que vous faites pourraient être utilisés.
 
-Des cookies peuvent être placés sur votre navigateur par notre serveur de gestion publicitaire.
+Des témoins peuvent être placés sur votre navigateur par notre serveur de gestion publicitaire.
 
 Soyez assurés qu'aucun renseignement personnel n'est conservé dans les témoins.
 
 Vous pouvez refuser ou désactiver les témoins. Pour ce faire, consultez les options de configuration de votre navigateur. Dans ce cas, certaines fonctions de notre site Web ne seront plus disponibles.
+
+Nos applications mobiles peuvent se servir de dispositifs, tels que des logiciels, d'analyse d'audience afin d'obtenir des informations sur les données d'utilisation et les modèles de trafic de nos applications et ainsi améliorer leur contenu et la qualité de notre service.
 
 LA PROTECTION DES RENSEIGNEMENTS PERSONNELS PAR AD TECH
 
