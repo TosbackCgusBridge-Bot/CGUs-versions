@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 13/03/2013Imprimer
+Dernière mise à jour : 21/03/2013Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
@@ -250,7 +250,7 @@ La Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau 
     
 *   \- Par Crédit Classique - "Payez en plusieurs fois" :
 
-CDISCOUNT, en partenariat avec Banque Casino, vous offre la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 500 euros et 10 000 euro.   
+CDISCOUNT, en partenariat avec Banque Casino, vous offre la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 600 euros et 10 000 euro.   
 Pour connaître les conditions relatives à l’offre de Crédit Classique, cliquez ici  
 A noter : La commande sera expédiée après l’étude du dossier complet du souscripteur et dès validation de la demande de financement par Banque Casino.  
 **Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.**  
