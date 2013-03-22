@@ -2,7 +2,7 @@ English
 
 *   Español
 
-Locations Support My Fedex Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
+Locations Support My FedEx Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
 Express Freight FedEx Express or FedEx Ground
 
 *   Create Shipment
