@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Microsoft revives 'smoked' campaign to tout Windows Phone speed March 20, 2013
-*   AT&T tempts landline users to move to wireless phone services with contract-free offer March 20, 2013
-*   A $99 Amazon tablet would be good for consumers, bad for everyone else March 20, 2013
+*   French students' group seeks $50M in criminal damages from Twitter March 21, 2013
+*   BlackBerry 10 to hit key U.S. market Friday March 21, 2013
+*   Google Glass to enable (something like) telekinesis March 21, 2013
 
 PCWorld Articles
 
-*   How to disable Office 2013's start screen March 20, 2013
-*   Review: MuseScore is powerful and free musical notation software March 20, 2013
-*   Review: HP LaserJet Pro 200 color Printer M251nw March 20, 2013
+*   Mozilla: Has Firefox become too customizable? March 21, 2013
+*   Review: Dooble enters the crowded field of alternative browsers March 21, 2013
+*   Big monitor demand grows as overall display market shrinks March 21, 2013
 
   
 TechHive on Twitter (@TechHive)
