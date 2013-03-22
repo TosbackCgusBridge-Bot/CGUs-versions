@@ -332,8 +332,10 @@ Torrance, CA 90501
 
 1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $795 for Cars, $845 for Small/Medium Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), and $995 for Large Trucks (Land Cruiser, Tundra and Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 2.  2013 EPA-estimated mileage. Actual mileage will vary.
-3.  51 city/49 highway/50 combined mpg estimates. Actual mileage will vary.
+3.  EPA-rated driving range when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
 4.  MPGe based on 2013 EPA ratings. Actual MPGe will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions. Battery capacity will decrease with time and use. For more information on MPGe and range, please see www.fueleconomy.gov.
+5.  2013 EPA combined estimated miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
+6.  51 city/49 highway/50 combined mpg estimates. Actual mileage will vary.
 
 Vehicles
 
