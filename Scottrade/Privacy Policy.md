@@ -1,6 +1,6 @@
 Scottrade Privacy Statement
 
-The Scottrade Brokerage Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services.
+The Scottrade Brokerage Privacy Statement describes how we collect and protect your personal information in the course of providing you with financial services...
 
 Our Privacy Policy  
 
