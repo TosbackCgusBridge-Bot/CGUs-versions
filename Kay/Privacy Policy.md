@@ -122,6 +122,8 @@ To discontinue receiving SMS messages from Kay Jewelers, text STOP to 553935. Yo
 
 To discontinue receiving SMS messages from Kay Outlet, text STOP to 688538. You may opt-out at any time.
 
-For additional help, text HELP to 553935 or visit www.Kay.com. You can also call 1.800.527.8029.
+For additional help, text HELP to 553935 or visit www.kay.com. You can also call 1.800.527.8029.
+
+For additional help, text HELP to 688538 or visit www.kayoutlet.com. You can also call 1.800.527.8029.
 
 Kay Jewelers respects your right to privacy. You can view our privacy policy above.
