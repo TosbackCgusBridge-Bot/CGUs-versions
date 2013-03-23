@@ -1,4 +1,4 @@
-**Last Revised: March 20, 2013**
+**Last Revised: March 22, 2013**
 
 Go Daddy Respects your privacy
 
@@ -46,7 +46,7 @@ Website Builder incorporates the Google Places API.  Google, Inc.’s ability
 
 This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over teh Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
 Please view our Secure Ordering page for further details.
 
@@ -60,7 +60,7 @@ The information you send to us may be stored and used to improve this Site, our 
 
 We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
 
 **Google Analytics**
 
