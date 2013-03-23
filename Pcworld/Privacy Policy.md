@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   French students' group seeks $50M in criminal damages from Twitter March 21, 2013
-*   BlackBerry 10 to hit key U.S. market Friday March 21, 2013
-*   Google Glass to enable (something like) telekinesis March 21, 2013
+*   Barnes &. Noble is now just giving Nooks away March 22, 2013
+*   Torrent site IsoHunt loses copyright-infringement lawsuit appeal March 22, 2013
+*   Ford's new Fusion Energi hybrid gives driver choice of motors March 22, 2013
 
 PCWorld Articles
 
-*   Mozilla: Has Firefox become too customizable? March 21, 2013
-*   Review: Dooble enters the crowded field of alternative browsers March 21, 2013
-*   Big monitor demand grows as overall display market shrinks March 21, 2013
+*   Review: Wizardry Online brings 1981 dungeon crawling into the MMO era March 22, 2013
+*   Is a 'bring your own support' movement killing the help desk? March 22, 2013
+*   Review: Free Video Call Recorder for Skype records unlimited video and audio for free March 22, 2013
 
   
 TechHive on Twitter (@TechHive)
