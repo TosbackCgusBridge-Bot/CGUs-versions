@@ -195,7 +195,7 @@ The help function of your browser should contain instructions to set your comput
 
 Third Party Cookies
 
-To opt out of third-party cookies, visit the Network Advertising Initiative website and the Digital Advertising Alliancewebsite
+To opt out of third-party cookies, visit the Network Advertising Initiative website and the Digital Advertising Alliance website
 
 California Residents
 
