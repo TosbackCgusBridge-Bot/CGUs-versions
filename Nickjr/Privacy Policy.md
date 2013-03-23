@@ -1,6 +1,6 @@
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 05/23/2012
+**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 03/22/2013
 
 Welcome! This Privacy Policy governs the websites and online services within the Nickelodeon Group, which includes the websites and online services listed here, including those operated by NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites. how such information is used and stored. when such information may be disclosed to third parties. how users, parents, and guardians can control the use and disclosure of collected information. and how information is protected.
 
@@ -135,9 +135,9 @@ We may request or collect certain information when you visit the Nickelodeon Sit
 
 Registration information is used to enable visitors to take advantage of site offerings. respond to visitor’s requests for products, services, and information. manage games. serve appropriate material. customize the content you see when you visit the Nickelodeon Sites. and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
 
-**B. Social Platform Registrations and Social Media Plugins**: Some of the Nickelodeon Sites permit or require you to register or log into your account via a social networking platform such as Facebook Connect or Flux, or permit you to use social media plugins such as the Facebook “Like” or Google “+1” buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us.
+**B. Social Platform Registrations and Social Media Plugins**: Some of the Nickelodeon Sites permit or require you to register or log into your account via a social networking platform such as Login with Facebook or Flux, or permit you to use social media plugins such as the Facebook “Like” or Google “+1” buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us.
 
-When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Nickelodeon Sites, and they may notify your connections on the social networking platform about your use of the Nickelodeon Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Facebook Connect, please go here. For more information on Flux, please go here. Please note that their privacy policies may be different from our own and we encourage you to read them.
+When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Nickelodeon Sites, and they may notify your connections on the social networking platform about your use of the Nickelodeon Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Login with Facebook, please go here. For more information on Flux, please go here. Please note that their privacy policies may be different from our own and we encourage you to read them.
 
 **C. Computer Information Collected by Us**:  When visitors come to a Site, we automatically collect certain information from their computers or mobile devices, such as the type of computer operating system (e.g., Windows XP or Mac OS), the visitor's IP address, the web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for mobile devices), information about the websites visited before and after visiting the Site, the web pages and advertisements viewed and links clicked on within the Nickelodeon Sites, interactions with e-mail messages sent by a Site or the Viacom family of companies (_e.g._, links clicked on and whether the messages were opened or forwarded), information collected through the use of unique identifiers such as cookies (see below), information regarding the Internet service provider, and other standard server log information ("Computer Information").
 
@@ -153,10 +153,26 @@ Our Third Party Advertising Service Providers (as defined in Section D) do not h
 
 You have a number of options with respect to the Tracking Technologies set by the Nickelodeon Sites:
 
-*   You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must complete both of the following steps:
+*   You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must complete both of the steps following your browser type below:
     
 
-1.  Delete existing Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. _and_
+*   **Internet Explorer**
+
+1.  Delete existing Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. and
+    
+2.  Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+    
+
+*   **Google Chrome**
+
+1.  Delete existing Tracking Technologies through the “Clear Browsing Data...” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. and
+    
+2.  Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+    
+
+*   **Mozilla Firefox**
+
+1.  Delete existing Tracking Technologies through the “Clear Recent History...” sub-option of the “History” menu option of your browser or otherwise as directed by your browser’s support feature. and
     
 2.  Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
     
@@ -176,7 +192,7 @@ You should be aware that different rules might apply to the collection, use or d
 
 With respect to the Tracking Technologies set by Third Party Advertising Service Providers and advertisers (and outside the control of the Nickelodeon Sites), you have a number of options:
 
-*   You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Demdex and DoubleClick by using those Providers’ opt-out tools.  You can access Demdex’s tool at http://www.donottarget.com/ and DoubleClick’s at http://www.google.com/intl/en/privacy/ads/.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network Advertising Initiative’s Opt-Out Tool and/or the Self-Regulatory Program for Online Behavioral Advertising Please click on the links to these tools to learn more about your choices. 
+*   You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe and DoubleClick by using those Providers’ opt-out tools.  You can access Adobe’s tool at http://www.donottarget.com/ and DoubleClick’s at http://www.google.com/intl/en/policies/technologies/ads/.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network Advertising Initiative’s Opt-Out Tool and/or the Self-Regulatory Program for Online Behavioral Advertising Please click on the links to these tools to learn more about your choices. 
     
 
 *   Please note the following with respect to opting out of Tracking Technologies set by Third Party Advertising Service Providers and advertisers:
