@@ -115,7 +115,7 @@ Please review our Privacy Policy, which governs the use of personal information 
 
 13\. Miscellaneous
 
-This Agreement (including the Privacy Policy), as modified from time to time, constitutes the entire agreement between You, the Network and Stack Exchange with respect to the subject matter hereof. This Agreement replaces all prior or contemporaneous understandings or agreements, written or oral, regarding the subject matter hereof. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. Stack Exchange shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Stack Exchange’s reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. This Agreement is not assignable, transferable or sublicensable by Subscriber except with Stack Exchange’s prior written consent. Stack Exchange may assign this Agreement in whole or in part at any time without Subscriber’s consent. This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware without regard to the conflict of laws provisions thereof. No agency, partnership, joint venture, or employment is created as a result of this Agreement and Subscriber does not have any authority of any kind to bind Stack Exchange in any respect whatsoever. Any notice to the Network that is required or permitted by this Agreement shall be in writing and shall be deemed effective upon receipt, when sent by confirmed e-mail to team@stackexchange.com or when delivered in person by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to _Stack Exchange Inc., One Exchange Plaza, 26th Floor, New York, NY, 10006, Attn: Legal Dept._
+This Agreement (including the Privacy Policy), as modified from time to time, constitutes the entire agreement between You, the Network and Stack Exchange with respect to the subject matter hereof. This Agreement replaces all prior or contemporaneous understandings or agreements, written or oral, regarding the subject matter hereof. The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. Stack Exchange shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Stack Exchange’s reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. This Agreement is not assignable, transferable or sublicensable by Subscriber except with Stack Exchange’s prior written consent. Stack Exchange may assign this Agreement in whole or in part at any time without Subscriber’s consent. This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware without regard to the conflict of laws provisions thereof. No agency, partnership, joint venture, or employment is created as a result of this Agreement and Subscriber does not have any authority of any kind to bind Stack Exchange in any respect whatsoever. Any notice to the Network that is required or permitted by this Agreement shall be in writing and shall be deemed effective upon receipt, when sent by confirmed e-mail to team@stackexchange.com or when delivered in person by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to _Stack Exchange Inc., 110 William St, 28th Floor, New York, NY, 10038, Attn: Legal Dept._
 
 14\. Community Moderators
 
@@ -155,8 +155,8 @@ Designated Agent
 
 **Attn:** Copyright Agent  
 Stack Exchange Inc.  
-One Exchange Plaza, 26th Floor  
-New York, NY 10006  
+110 William St, 28th Floor  
+New York, NY 10038  
 
 **Tel:** +1 (212) 279-2335  
 **Fax:** +1 (212) 279-2077  
@@ -170,4 +170,4 @@ about blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2013 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2013.3.22.567
+2013.3.23.568
