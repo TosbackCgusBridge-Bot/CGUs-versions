@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Barnes &. Noble is now just giving Nooks away March 22, 2013
-*   Torrent site IsoHunt loses copyright-infringement lawsuit appeal March 22, 2013
-*   Ford's new Fusion Energi hybrid gives driver choice of motors March 22, 2013
+*   Could Google Glass someday start breakfast or do chores? March 23, 2013
+*   Bing boosts Twitter, Facebook findings in search results March 23, 2013
+*   California senator pushes electronic privacy protection March 23, 2013
 
 PCWorld Articles
 
-*   Review: Wizardry Online brings 1981 dungeon crawling into the MMO era March 22, 2013
-*   Is a 'bring your own support' movement killing the help desk? March 22, 2013
-*   Review: Free Video Call Recorder for Skype records unlimited video and audio for free March 22, 2013
+*   New report details cyberwar rules, puts hackers in crosshairs March 23, 2013
+*   8 myths about the smartwatch revolution March 23, 2013
+*   Juniper to unveil new advanced switch, promises networking improvements March 23, 2013
 
   
 TechHive on Twitter (@TechHive)
