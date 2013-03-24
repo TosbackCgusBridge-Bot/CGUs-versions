@@ -1,6 +1,6 @@
 Go to: Navigation Content Footer
 
-Keyboard accessibility ( Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset)
+Alt+A to show this section, Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset
 
 HSBC Cookie Policy
 
@@ -132,6 +132,7 @@ You seem to have arrived on a page that no longer exists. Use the links on the r
 Why not visit: About Citizenship Investor relations News and insight Careers
 
 *   Contact us
+*   Search
 
 About HSBC
 
