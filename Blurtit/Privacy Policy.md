@@ -5,7 +5,7 @@ Blurtit.
 *   Discover
 *   Login
 
-Asking is unavailable at this time.
+Sorry! We're in Beta and this feature is currently unavailable. To ask and answer questions, apply to become a Beta tester.
 
 *   About
 *   Advertise
