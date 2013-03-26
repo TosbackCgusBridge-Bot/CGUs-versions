@@ -1,11 +1,9 @@
 Autodesk 2D and 3D Design and Engineering Software
 
 *   Products
-*   Solutions
-*   Purchase
 *   Support
-*   Community
-*   Store
+*   Communities
+*   Buy
 
 *   Cart
 *   Company
@@ -373,6 +371,5 @@ Passwords to be avoided are:
 Back to top
 
 *   Careers
-*   Mobile Site
 
 © Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy (updated) — Legal Notices &. Trademarks — Report Noncompliance — Site Map
