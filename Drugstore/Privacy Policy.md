@@ -86,7 +86,7 @@ By using our Web site (including through our customer service line), you consent
 We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at privacy@drugstore.com or write us:  
 drugstore.com, inc.  
 Privacy Officer  
-411 108th Ave NE, Suite 1400  
+411 108th Ave NE, Suite 1600  
 Bellevue, WA 98004  
 Last updated: May 4, 2012  
 Copyright © 2012 drugstore.com, inc. All rights reserved.
