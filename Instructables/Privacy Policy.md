@@ -1,11 +1,9 @@
 Autodesk 2D and 3D Design and Engineering Software
 
 *   Products
-*   Solutions
-*   Purchase
 *   Support
-*   Community
-*   Store
+*   Communities
+*   Buy
 
 *   Cart
 *   Company
