@@ -115,9 +115,8 @@ If you have any questions about this Privacy Policy or our information-handling 
 > **Vimeo, LLC**  
 > 555 West 18th Street  
 > New York, New York 10011  
-> privacy@vimeo.com
 
-©2013Vimeo, LLC. All rights reserved.
+©2013 Vimeo, LLC. All rights reserved.
 
 Linked information: Cookies:
 
