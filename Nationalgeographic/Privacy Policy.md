@@ -32,6 +32,7 @@ Advertisement Advertisement Advertisement National Geographic Society P.O. Box 9
     *   Wallpapers
     *   Photo Tips
     *   Photographers
+    *   Your Shot
     *   Buy Prints
     *   Video
     *   Newsletters
