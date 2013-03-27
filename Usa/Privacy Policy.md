@@ -370,6 +370,7 @@ Passwords to be avoided are:
 
 Back to top
 
+*   Sign Up For Email
 *   Careers
 
 © Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy (updated) — Legal Notices &. Trademarks — Report Noncompliance — Site Map
