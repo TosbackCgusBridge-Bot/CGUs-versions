@@ -61,7 +61,7 @@ _Effective: September 01, 2011_
 *   Jobs
 *   Contact
 
-*   text.home.tweet.action
+*   Tweet
 
 *   Terms of Service
 *   Privacy Policy
