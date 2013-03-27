@@ -123,14 +123,14 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Conditions generales d'utilisation
 *   Condition générales d'utilisation
 *   Cgu
-*   Conditions generales de vente » Forum - Webmaster
-*   Modèle conditions générales de vente gratuit » Forum - Webmaster
+*   Conditions générales de vente » Forum - Webmaster
+*   Iphone probléme app store (Résolu) » Forum - IPhone
+*   Modèle de conditions générales de vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Se désabonner canalsat » Forum - Vos droits sur internet
-*   Résiliation bouygues télécom » Forum - Bouygues Télécom
+*   Comment , accepter les nouvelles conditions d'itunes ? » Forum - IPhone
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
-*   Forum SFR
-*   Forum Bouygues Télécom
+*   Forum Webmastering
+*   Forum iPhone
