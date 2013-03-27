@@ -4,8 +4,8 @@
 *   Safe harbor
 
 Legal information **Bigpoint, Inc.**  
-500 Howard St. Suite 300  
-San Francisco, CA 94105 / USA  
+795 Folsom St. First Floor  
+San Francisco CA 94107 / USA  
   
 **Our business portal**  
 http://www.bigpoint.net  
@@ -126,7 +126,7 @@ We reserve the right to change this privacy policy from time to time. When we do
   
 10 CONTACT US
 
-If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.: Bigpoint Inc. Attention Privacy 500 Howard Street Suite 300 San Francisco, CA 94105 USA Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s). You can also reach us under: +1(415) 821-8112 If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal-us@bigpoint.net
+If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.: Bigpoint Inc. Attention Privacy 795 Folsom St. First Floor San Francisco CA 94107 USA Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s). You can also reach us under: +1(415) 821-8112 If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal-us@bigpoint.net
 
   
   
