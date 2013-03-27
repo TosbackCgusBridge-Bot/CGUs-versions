@@ -67,7 +67,7 @@ For other languages, click below:
 *   Pernyataan Privasi Autodesk
 *   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk
 
+*   Sign Up For Email
 *   Careers
-*   Mobile Site
 
 © Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy (updated) — Legal Notices &. Trademarks — Report Noncompliance — Site Map
