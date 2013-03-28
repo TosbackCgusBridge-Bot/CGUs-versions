@@ -1,8 +1,7 @@
-**The EarthLink Consumer Privacy Policy dated December 28, 2012 has been updated from the October 31, 2003 version to address new technologies and applicable privacy laws but there are no material changes to EarthLink's privacy policies or procedures.**
-
 **1\. What does the EarthLink Consumer Privacy Policy cover?**
 
-This Privacy Policy covers (i) the collection, use and retention of personally identifiable information ("PII") from our customers and visitors to www.earthlink.net under the Consumer tab ("EarthLink Consumer Website") and (ii) your options with regard to that collection and use.   The EarthLink Consumer Website and the services and products offered on or through the EarthLink Consumer Website are collectively referred to in this Privacy Policy as the "EarthLink Consumer Services".  
+This Privacy Policy covers (i) the collection, use and retention of personally identifiable information ("PII") from our customers and visitors to www.earthlink.net under the Consumer tab ("EarthLink Consumer Website") and (ii) your options with regard to that collection and use.   The EarthLink Consumer Website and the services and products offered on or through the EarthLink Consumer Website are collectively referred to in this Privacy Policy as the "EarthLink Consumer Services".
+
 EarthLink is committed to protecting the privacy and security of your PII and will not share, sell or license your PII except in very limited circumstances as described below.   All PII collected by EarthLink including, but not limited to, via the Internet, via any EarthLink Consumer mobile application, via mail or over the telephone is protected by the terms of this Privacy Policy.
 
 **2\. What is PII?**
@@ -74,7 +73,7 @@ This Privacy Policy does not apply to information about you collected by third p
 
 This Privacy Policy does not apply to the PII of EarthLink Business' customers. The EarthLink Business privacy policy is located at http://www.earthlinkbusiness.com/about-us/legal/privacy-policy.xea.
 
-Anonymous and/or aggregated data that does not identify any specific individuals are outside the scope of this Privacy Policy. Sometimes we share Non-PII with other companies that help us deliver and improve the EarthLink Consumer Services. Some EarthLink customers have co-branded personal start pages that are cosponsored by third parties. EarthLink may share Non-PII with such third parties in order to more effectively market co-branded products or services to EarthLink customers who use these co-branded personal start pages. EarthLink also shares Non-PII with third parties that assist EarthLink in analyzing the results of surveys or the traffic on the EarthLink Consumer Website. 
+Anonymous and/or aggregated data that does not identify any specific individuals are outside the scope of this Privacy Policy. Sometimes we share Non-PII with other companies that help us deliver and improve the EarthLink Consumer Services. Some EarthLink customers have co-branded personal start pages that are cosponsored by third parties. EarthLink may share Non-PII with such third parties in order to more effectively market co-branded products or services to EarthLink customers who use these co-branded personal start pages. EarthLink also shares Non-PII with third parties that assist EarthLink in analyzing the results of surveys or the traffic on the EarthLink Consumer Website.
 
 If you post any comments to any of the public areas of the EarthLink Consumer Website such as blogs, forums or "Ask Email Guy," your comments can be read or used by other visitors to the EarthLink Consumer Website and any PII that you post in such public areas could be used by other visitors to contact you or for other purposes.  You should exercise caution when deciding to disclose any information in these public areas. EarthLink is not responsible for any PII you choose to submit through these or other features.
 
@@ -88,7 +87,7 @@ EarthLink recommends that children ask a parent for permission before sending an
 
 **11\. California Privacy Rights**
 
-California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of PII to third parties for their own direct marketing purposes.  If you are a California resident and want to make such a request, please **contact us** at earthlinkconsumerprivacy@earthlink.com or EarthLink, Inc., Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309 and include your name and the address. Please note that under California law, businesses are only required to respond to a customer request for this information once during any calendar year.
+California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of PII to third parties for their own direct marketing purposes.  If you are a California resident and want to make such a request, please **contact us** at earthlinkconsumerprivacy@corp.earthlink.com or EarthLink, Inc., Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309 and include your name and the address. Please note that under California law, businesses are only required to respond to a customer request for this information once during any calendar year.
 
 **12\. International Visitors**
 
@@ -102,8 +101,8 @@ In addition, if any of the revisions to this Privacy Policy will materially affe
 
 **14\. How to Contact Us**
 
-Please contact us if you have any questions about this Privacy Policy or its implementation, at earthlinkconsumerprivacy@earthlink.com or EarthLink, Inc., Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309.
+Please contact us if you have any questions about this Privacy Policy or its implementation, at earthlinkconsumerprivacy@corp.earthlink.com or EarthLink, Inc., Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309.
 
 Effective Date:  December 28, 2012
 
-This EarthLink Consumer Privacy Policy dated December 28, 2012 updates the previous version dated October 31, 2003.
+This EarthLink Consumer Privacy Policy dated December 28, 2012 updates the previous version dated October 31, 2003 to address new technologies and applicable privacy laws but there are no material changes to EarthLink's privacy policies or procedures from the October 31, 2003 version.
