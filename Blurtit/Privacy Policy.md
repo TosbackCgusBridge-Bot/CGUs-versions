@@ -5,8 +5,6 @@ Blurtit.
 *   Discover
 *   Login
 
-Sorry! We're in Beta and this feature is currently unavailable. To ask and answer questions, apply to become a Beta tester.
-
 FAQ's How helpful are you?
 
 You know things no one else knows, so we’d love you to share your knowledge and become helpful to others. On Blurtit you’ll build a reputation and followers - who will also be helpful to you.
