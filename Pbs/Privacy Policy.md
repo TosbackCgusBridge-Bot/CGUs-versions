@@ -44,7 +44,6 @@ PBS - Be more
     *   Mobile Club Terms of Use
 *   News
     *   News Archive
-*   Pressroom
 *   Career Opportunities
     *   Current Openings
     *   Working at PBS
@@ -56,6 +55,7 @@ PBS - Be more
 *   Contact Us
     *   Program Producer Contacts
     *   Press Contacts
+*   Pressroom
 
 Privacy Policy
 
