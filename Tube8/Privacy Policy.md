@@ -1,6 +1,6 @@
 X Login to Tube 8 Password Forgot password ? Resend activation email ? Not a member yet? Sign up here Nice work!
 
-You are now following videos from .
+You are now following .
 
 Control who you follow on the Following page.
 
