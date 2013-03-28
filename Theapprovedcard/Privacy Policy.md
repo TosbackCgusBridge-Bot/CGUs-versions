@@ -4,7 +4,6 @@
 *   Use It Every Day
 *   Safer Than Cash
 *   Low Monthly Fee
-*   Protect Your Identity
 *   Your Emergency Fund
 *   The Credit Project
 *   Teach Your Teens Financial Responsibility
@@ -17,7 +16,6 @@
 
 *   Suze’s Advice
 *   The Approved Dashboard
-*   Protect Your Identity
 *   Money Tools
 *   Pay Your Bills
 *   Share Cards
