@@ -18,9 +18,8 @@ or:
 Copyright Agent  
 The North Face Website  
 VF Outdoor, Inc.  
-2013 Farallon Drive ,  
-San Leandro , CA  
-94577  
+2601 Harbor Bay Parkway Alameda, CA 94502  
+  
 You must provide our Agent with the following Notice:   
 1\. Identify the material on the website that you claim is infringing, with enough detail so that we may locate it on the website;  
 2\. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;  
@@ -75,39 +74,7 @@ We do not knowingly collect or solicit personal information from children under 
 If you would like to opt-out from receiving The North Face emails, please contact Customer Service, or manage your email preferences within the "My Account" section of our website.  
 Telephone(888) TNF-1968  
 Emailtnfsupport@vfc.com  
-Corporate AddressThe North FaceVF Outdoor, Inc.2013 Farallon DriveSan Leandro, CA 94577      **Chat &. Shop Basics**  
-This forum is designed for you to interact with others who are browsing a product at the same time.  We encourage you to share your expertise on products, recommended uses, and knowledge of product features with others in the ‘chat’ with you.  Read what others are saying, gain product insights, and help others make informed decisions.   
-We hope this chat forum provides accurate, beneficial product information.  For remaining questions, or to validate any comments provided in a chat, please contact our Customer Service for further product information.  
-**Who’s in the Room?**You’ll never know who you will find in a discussion.  From professional athletes, to your favorite neighbor, to your newfound nemesis, chat rooms are open and available to all.  As such we’d like to remind you, that like swimming without a lifeguard, to please chat at your own risk.  Read more on our Privacy Policy.  
-  
-**What should I say?**  
-
-*   Ask product-related questions  
-    
-
-*   Share product knowledge   
-    
-
-*   Give product comparisons 
-
-  
-**What shouldn’t I say?**Please mind your p’s and q’s.  We strongly encourage chat participants to share beneficial product knowledge in a friendly, casual manner.  Any inappropriate or vulgar content is frowned upon, and will be removed.  The North Face is not responsible, and can not be held liable, for content or events that transpire from chats. To learn more about our guidelines, please read our Privacy Policy.    
-**Do not post:**
-
-*   Personal identifiable information (name, address, etc.)  
-    
-
-*   Obscene, offensive, or immoral comments  
-    
-
-*   Copyrighted material  
-    
-
-*   Solicitations, advertisements, or any other form of “spam”
-
-  
-**How can I report an inappropriate comment?**If you find an offensive, vulgar, or comment that otherwise violates our chat guidelines and Privacy Policy, please contact our Customer Service at 1-888-TNF-1968.  
-  
+Corporate AddressThe North FaceVF Outdoor, Inc. 2601 Harbor Bay Parkway Alameda, CA 94502  
   
 **VIPeak**  
 
@@ -153,7 +120,7 @@ E. The Peak Points you have earned through a purchase (including bonus Peak Poin
 
 A. After the end of each Peak Points Year, on approximately March 1st, the following Peak Perks will be provided to Members based upon their Peak Point balance for the just closed Peak Points Year:
 
-Peak Points Earned
+**Peak Points Earned**
 
 Peak Perk(s)
 
