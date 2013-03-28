@@ -187,7 +187,7 @@ Sorry your account has been blocked Login\*Required fields Please enter valid em
   
   
   
-Please Wait....  Remember me Forgot My Password PlayFirst develops great mobile games for family and friends At PlayFirst, we believe you can have fun anywhere, any time and at any age.That’s why we’re committed to creating mobile games for everyone to enjoy,including the fan-favorite DASH® and Stars series of games like Diner Dash®, SpongeBob Diner Dash® and Mall Stars™.  
+Please Wait....  Remember me Forgot My Password PlayFirst develops great mobile games for family and friends At PlayFirst, we believe you can have fun anywhere, any time and at any age.That’s why we’re committed to creating mobile games for everyone to enjoy,including the fan-favorite DASH® series of games like Diner Dash®, SpongeBob Diner Dash®.  
 
 *   All Games |
 *   iPad Games |
@@ -199,8 +199,7 @@ Please Wait....  Remember me Forgot My Password PlayFirst develops great mobile
 *   About |
 *   Support |
 *   Jobs |
-*   Help |
 *   Privacy |
 *   Contact Us
 
-SIGN UP FOR OUR NEWSLETTER © Copyright PlayFirst, Inc. 2012
+SIGN UP FOR OUR NEWSLETTER © Copyright PlayFirst, Inc. 2013
