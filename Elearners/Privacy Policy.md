@@ -250,7 +250,6 @@ Our Partners:
 *   UniversitiesAbroad.com
 *   ChristianEducation.com
 *   TestDriveCollege.com
-*   TestDriveGradSchool.com
 
 Copyright eLearners.com 1999 - 2013
 
