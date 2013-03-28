@@ -109,7 +109,7 @@ Most computer systems and browsers offer their own privacy settings. We encourag
 You can also:
 
 *   register for the National Do Not Call List at donotcall.gov/default.aspx;
-*   register for the Direct Marketing Association’s Mail Preference Service at dmachoice.org/MPS/proto1.php. and/or
+*   register for the Direct Marketing Association’s Mail Preference Service at dmachoice.org/register.php. and/or
 *   click _unsubscribe_ on the bottom of e-mails and follow the instructions.
 
   
