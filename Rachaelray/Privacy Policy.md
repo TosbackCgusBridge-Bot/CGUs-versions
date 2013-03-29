@@ -7,7 +7,7 @@ Rachael Ray
     *   Recipe Search
     *   Healthy Snacks &. Lunches
     *   Quick &. Easy
-    *   Recipes On the Go!
+    *   Easter
     *   Easy Weeknight Meals
     *   Salads
     *   In Season Now
