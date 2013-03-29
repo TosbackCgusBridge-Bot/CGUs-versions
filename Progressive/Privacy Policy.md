@@ -102,7 +102,6 @@ More
 *   Articles, Blogs, and RSS
 *   Connect with Progressive
 *   Mobile Apps and Services
-*   Auto Insurance Information
 *   PerkShare®
 
 Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon
