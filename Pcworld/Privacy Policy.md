@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Don’t like Excel? This spreadsheet-based RPG might change your mind March 27, 2013
-*   Chat app Line releases safety guide for girl teens after string of incidents March 27, 2013
-*   MakerBot teams with Ouya to let you print your own game console shell March 27, 2013
+*   Up close with Intel's perceptual computing technology March 28, 2013
+*   Need a scribe? Just have a robot arm write for you March 28, 2013
+*   Look in the mirror: Adults apparently text while driving even more than teens do March 28, 2013
 
 PCWorld Articles
 
-*   How the world’s largest cyberattack slows down your Internet use March 27, 2013
-*   How to set up public Wi-Fi at your business March 27, 2013
-*   Review: Create stunning websites in minutes for free with Tackk March 27, 2013
+*   Researchers find new point-of-sale malware called BlackPOS March 28, 2013
+*   Google: We won't sue open-source users or developers over specified patents March 28, 2013
+*   Top Deal Nerd Picks: Linksys EA6500 Wireless-AC Router, Rugged USB HDD, more March 28, 2013
 
   
 TechHive on Twitter (@TechHive)
