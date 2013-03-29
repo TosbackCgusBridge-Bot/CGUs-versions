@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help The Hotel del Coronado's past lives
+Search Help Russia's Cossack revival
 
-Also in T Magazine »
+Also in Video »
 
-*   Now showing | The Abraham Archives
-*   Greg Kessler captures the transformations of real women, with professional makeup by Tina Turnbow
+*   President Obama's girls
+*   Coyote hunting in Utah
 
   
 
