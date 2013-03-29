@@ -9,18 +9,18 @@ Search
 *   Login
 *   Register
 
-*   Scoreboard
-*   Standings
-*   Schedule
-*   Stats
-*   Players
+*   Scores
 *   News
 *   Video
+*   Standings
+*   Stats
+*   Schedule
+*   Players
 *   Teams
 *   Fantasy
 *   MLB.TV
 *   Shop
-*   Mobile
+*   Apps
 *   Tickets
 
 Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Official Info Skip to main content
