@@ -148,4 +148,5 @@ Shop O'Reilly
 *   Contact Us
 *   Shipping Information
 *   Ordering &. Payment
+*   Affiliate Program
 *   The O'Reilly Guarantee
