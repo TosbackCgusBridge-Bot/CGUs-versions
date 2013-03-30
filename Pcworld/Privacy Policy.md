@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Up close with Intel's perceptual computing technology March 28, 2013
-*   Need a scribe? Just have a robot arm write for you March 28, 2013
-*   Look in the mirror: Adults apparently text while driving even more than teens do March 28, 2013
+*   Panasonic's Micro Color Splitter could double the brightness of color photos March 29, 2013
+*   Games grow more social, ditch Facebook March 29, 2013
+*   Meet Cyro, the giant autonomous robot jellyfish that could soon roam the seas March 29, 2013
 
 PCWorld Articles
 
-*   Researchers find new point-of-sale malware called BlackPOS March 28, 2013
-*   Google: We won't sue open-source users or developers over specified patents March 28, 2013
-*   Top Deal Nerd Picks: Linksys EA6500 Wireless-AC Router, Rugged USB HDD, more March 28, 2013
+*   4 things Microsoft Office 'Gemini' needs to succeed March 29, 2013
+*   Google, Mozilla want to turbocharge 3D games in your browser March 29, 2013
+*   SlideShark broadcasts slideshows from your phone or tablet to the Web March 29, 2013
 
   
 TechHive on Twitter (@TechHive)
