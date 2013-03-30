@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Russia's Cossack revival
+Search Help Site to be seen: Victoria Beckham
 
-Also in Video »
+Also in T Magazine »
 
-*   President Obama's girls
-*   Coyote hunting in Utah
+*   The top 10 Indian films of the shoe designer Christian Louboutin
+*   Where to eat, drink and stay in Seoul
 
   
 
