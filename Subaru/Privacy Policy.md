@@ -5,290 +5,246 @@ Log Into MySubaru | Help |
     *   View All Vehicles
     *   BRZ
         
-        Starting at **$25,495\***
+        Starting at **$25,495**
         
-        BRZ
+        2013 BRZ
+        
+        Starting at
+        
+        $25,495
+        
+        MSRP\*
+        
+        Up to
+        
+        34/25 MPG\*\*
+        
+        Highway/City
         
         Buttoned-up engineering, unbuttoned.
         
-        BRZ Limited shown
+        Explore
         
-        Up to
-        
-        34
-        
-        MPG\*\* highway
-        
-        25 MPG city
-        
-        *   Direct-injected SUBARU BOXER® engine
-        *   Voice-activated GPS navigation system
-        *   Bluetooth® hands-free phone and audio
-        *   Torsen® limited-slip differential
-        
-        Starting at $25,495\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   View a Brochure
-        *   BRZ vs Competition
+        
+        BRZ Limited shown
         
     *   Impreza
         
-        Starting at **$17,895\***
+        Starting at **$17,895**
         
-        Impreza
+        2013 Impreza
+        
+        Starting at
+        
+        $17,895
+        
+        MSRP\*
+        
+        Up to
+        
+        36/27 MPG\*\*
+        
+        Highway/City
         
         Plenty of smart and fun options that will make you fall in love with your car.
         
-        Impreza 2.0i Limited shown
+        Explore
         
-        Up to
-        
-        36
-        
-        MPG\*\* highway
-        
-        27 MPG city
-        
-        *   Symmetrical All-Wheel Drive
-        *   SUBARU BOXER® engine
-        *   Vehicle Dynamics Control (VDC)
-        *   Bluetooth® hands-free connectivity
-        
-        Starting at $17,895\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   View a Brochure
-        *   Impreza vs Competition
+        
+        Impreza 2.0i Limited shown
         
     *   Impreza WRX
         
-        Starting at **$25,795\***
+        Starting at **$25,795**
         
-        Impreza WRX
+        2013 Impreza WRX
+        
+        Starting at
+        
+        $25,795
+        
+        MSRP\*
+        
+        Up to
+        
+        25/19 MPG\*\*
+        
+        Highway/City
         
         If you like fast, you'll love faster.
         
-        WRX Premium shown
+        Explore
         
-        Up to
-        
-        25
-        
-        MPG\*\* highway
-        
-        19 MPG city
-        
-        *   265 hp SUBARU BOXER® engine
-        *   Sport-tuned 4-wheel independent suspension
-        *   Bluetooth® hands-free phone and audio
-        *   Performance-design front seats
-        
-        Starting at $25,795\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   View a Brochure
-        *   Impreza WRX vs Competition
+        
+        WRX Premium shown
         
     *   Legacy
         
-        Starting at **$20,295\***
+        Starting at **$20,295**
         
-        Legacy
+        2013 Legacy
+        
+        Starting at
+        
+        $20,295
+        
+        MSRP\*
+        
+        Up to
+        
+        32/24 MPG\*\*
+        
+        Highway/City
         
         Intelligence you can feel.
         
-        Legacy 3.6R Limited shown
+        Explore
         
-        Up to
-        
-        32
-        
-        MPG\*\* highway
-        
-        24 MPG city
-        
-        *   DOHC 2.5-liter SUBARU BOXER® engine
-        *   Symmetrical All-Wheel Drive
-        *   Vehicle Dynamics Control (VDC)
-        *   Bluetooth® hands-free connectivity
-        
-        Starting at $20,295\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   View a Brochure
-        *   Legacy vs Competition
+        
+        Legacy 3.6R Limited shown
         
     *   Forester
         
-        Starting at **$21,995\***
+        Starting at **$21,995**
         
-        Forester
+        2014 Forester
+        
+        Starting at
+        
+        $21,995
+        
+        MSRP\*
+        
+        Up to
+        
+        32/24 MPG\*\*
+        
+        Highway/City
         
         A whole lot to love.
         
-        Forester 2.5i Touring shown
+        Explore
         
-        Up to
-        
-        32
-        
-        MPG\*\* highway
-        
-        24 MPG city
-        
-        *   Symmetrical All-Wheel Drive
-        *   SUBARU BOXER® engine
-        *   Bluetooth® hands-free connectivity
-        *   Flexible cargo areas
-        
-        Starting at $21,995\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   Forester vs Competition
+        
+        Forester 2.5i Touring shown
         
     *   XV Crosstrek
         
-        Starting at **$21,995\***
+        Starting at **$21,995**
         
-        XV Crosstrek
+        2013 XV Crosstrek
         
-        Built with the right amount of everything.
+        Starting at
+        
+        $21,995
+        
+        MSRP\*
+        
+        Up to
+        
+        33/25 MPG\*\*
+        
+        Highway/City
+        
+        Love where it takes you.
+        
+        Explore
+        
+        *   Overview
+        *   Photos &. Videos
+        *   Key Features
+        *   Compare
+        *   Build Your Own
         
         XV Crosstrek 2.0i Limited shown
         
-        Up to
-        
-        33
-        
-        MPG\*\* highway
-        
-        25 MPG city
-        
-        *   2.0-liter DOHC SUBARU BOXER® engine
-        *   Symmetrical All-Wheel Drive
-        *   Vehicle Dynamics Control (VDC)
-        *   Bluetooth® hands-free connectivity
-        
-        Starting at $21,995\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
-        *   Photos &. Videos
-        *   Key Features
-        *   Vehicle Specs
-        *   Reviews
-        *   Build Your Own
-        *   View a Brochure
-        *   XV Crosstrek vs Competition
+        Introducing the  
+        2014 XV Crosstrek Hybrid
         
     *   Outback
         
-        Starting at **$23,495\***
+        Starting at **$23,495**
         
-        Outback
+        2013 Outback
+        
+        Starting at
+        
+        $23,495
+        
+        MSRP\*
+        
+        Up to
+        
+        30/24 MPG\*\*
+        
+        Highway/City
         
         When leaving it all behind, start with your limitations.
         
-        Outback 2.5i Premium shown
+        Explore
         
-        Up to
-        
-        30
-        
-        MPG\*\* highway
-        
-        24 MPG city
-        
-        *   Symmetrical All-Wheel Drive
-        *   DOHC 2.5-liter SUBARU BOXER® engine
-        *   Vehicle Dynamics Control (VDC)
-        *   Bluetooth® hands-free connectivity
-        
-        Starting at $23,495\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   View a Brochure
-        *   Outback vs Competition
+        
+        Outback 2.5i Limited shown
         
     *   Tribeca
         
-        Starting at **$32,595\***
+        Starting at **$32,595**
         
-        Tribeca
+        2013 Tribeca
         
-        Roomy interior, stylish exterior, the Tribeca offers the best of all worlds.
+        Starting at
         
-        Tribeca 3.6R Limited shown
+        $32,595
+        
+        MSRP\*
         
         Up to
         
-        21
+        21/16 MPG\*\*
         
-        MPG\*\* highway
+        Highway/City
         
-        16 MPG city
+        Roomy interior, stylish exterior. It’s the best of all worlds.
         
-        *   Engine-speed-sensing power steering
-        *   3-stage heated front seats
-        *   Leather-trimmed upholstery
-        *   Harman Kardon audio system
+        Explore
         
-        Starting at $32,595\*
-        
-        *   Shopping Tools
-        *   Request a Quote
-        *   Find a Dealer
+        *   Overview
         *   Photos &. Videos
         *   Key Features
-        *   Vehicle Specs
-        *   Reviews
+        *   Compare
         *   Build Your Own
-        *   View a Brochure
-        *   Tribeca vs Competition
+        
+        Tribeca 3.6R Limited shown
         
     *   Certified Pre-Owned
         *   Certified Pre-Owned
