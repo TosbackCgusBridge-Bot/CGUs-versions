@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Site to be seen: Victoria Beckham
+Search Help Winter is prime in Puglia
 
-Also in T Magazine »
+Also in Travel »
 
-*   The top 10 Indian films of the shoe designer Christian Louboutin
-*   Where to eat, drink and stay in Seoul
+*   IKEA and Marriot International are teaming up to create Moxy, a chain of budget hotels across Europe
+*   Among the vines in Chile, villas and views
 
   
 
