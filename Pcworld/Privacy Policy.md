@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Panasonic's Micro Color Splitter could double the brightness of color photos March 29, 2013
-*   Games grow more social, ditch Facebook March 29, 2013
-*   Meet Cyro, the giant autonomous robot jellyfish that could soon roam the seas March 29, 2013
+*   Army goes open source for simulations in training March 30, 2013
+*   How to make your own version of the game 'Deep Sea' March 30, 2013
+*   A quick and dirty guide to backyard astronomy March 30, 2013
 
 PCWorld Articles
 
-*   4 things Microsoft Office 'Gemini' needs to succeed March 29, 2013
-*   Google, Mozilla want to turbocharge 3D games in your browser March 29, 2013
-*   SlideShark broadcasts slideshows from your phone or tablet to the Web March 29, 2013
+*   Dell's SEC report describes challenges for PC makers March 30, 2013
+*   Listen for the next big thing on Twitter: #TwitterChats March 30, 2013
+*   Outdated (and vulnerable) Java usage abounds, analysis finds March 30, 2013
 
   
 TechHive on Twitter (@TechHive)
