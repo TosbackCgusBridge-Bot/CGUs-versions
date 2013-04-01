@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Army goes open source for simulations in training March 30, 2013
-*   How to make your own version of the game 'Deep Sea' March 30, 2013
-*   A quick and dirty guide to backyard astronomy March 30, 2013
+*   iPhone 5 launch trounced Galaxy S4 in Twitter traffic March 31, 2013
+*   Google's unified messaging app Babble: The downside March 31, 2013
+*   Facebook research: What our usage reveals about us March 30, 2013
 
 PCWorld Articles
 
-*   Dell's SEC report describes challenges for PC makers March 30, 2013
-*   Listen for the next big thing on Twitter: #TwitterChats March 30, 2013
-*   Outdated (and vulnerable) Java usage abounds, analysis finds March 30, 2013
+*   Brace for more mega-DDoS attacks, security experts warn March 31, 2013
+*   Global tech spending forecast to hit $3.8 trillion in 2013 March 31, 2013
+*   Office on iOS, Android would be a big winner, analyst says March 31, 2013
 
   
 TechHive on Twitter (@TechHive)
