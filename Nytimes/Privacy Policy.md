@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Winter is prime in Puglia
+Search Help The reincarnation of Seoul
 
-Also in Travel »
+Also in T Magazine »
 
-*   IKEA and Marriot International are teaming up to create Moxy, a chain of budget hotels across Europe
-*   Among the vines in Chile, villas and views
+*   Where to eat, drink and stay in South Korea's capital
+*   The short list on where to eat, sleep and view art in Brussels
 
   
 
