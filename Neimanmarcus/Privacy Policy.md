@@ -34,9 +34,13 @@ Security &. Privacy
     
     From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
     
-    When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions. When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. Similarly, our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
+    When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions.
     
-    The Information We Collect was last updated March 7, 2013.
+    When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. If you give us such permission, you can later decide to opt-out of geo-location tracking by sending an email to geo\_optout@neimanmarcus.com with your MAC address (which can be found on most mobile devices under the "settings" menu).
+    
+    Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
+    
+    The Information We Collect was last updated April 1, 2013.
     
     How We Use the Information We Collect
     
