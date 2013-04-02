@@ -5,9 +5,9 @@ Rachael Ray
     *   Blog
     *   Food Articles
     *   Recipe Search
+    *   Pinterest Pins
     *   Healthy Snacks &. Lunches
     *   Quick &. Easy
-    *   Easter
     *   Easy Weeknight Meals
     *   Salads
     *   In Season Now
