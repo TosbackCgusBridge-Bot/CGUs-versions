@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   iPhone 5 launch trounced Galaxy S4 in Twitter traffic March 31, 2013
-*   Google's unified messaging app Babble: The downside March 31, 2013
-*   Facebook research: What our usage reveals about us March 30, 2013
+*   Is this the face of Facebook's new phone? April 1, 2013
+*   Leaked BlackBerry roadmap promises two phablets, widescreen tablet this year April 1, 2013
+*   Scientists create biological transistors, the final step toward 'computerized cells' April 1, 2013
 
 PCWorld Articles
 
-*   Brace for more mega-DDoS attacks, security experts warn March 31, 2013
-*   Global tech spending forecast to hit $3.8 trillion in 2013 March 31, 2013
-*   Office on iOS, Android would be a big winner, analyst says March 31, 2013
+*   China slams U.S. for discriminating against nation's tech vendors April 1, 2013
+*   All out of Pi: $25 Raspberry Pi sells out in U.S. April 1, 2013
+*   Battle for Dell risks customer confidence, analysts say April 1, 2013
 
   
 TechHive on Twitter (@TechHive)
