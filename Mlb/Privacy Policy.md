@@ -9,13 +9,13 @@ Search
 *   Login
 *   Register
 
-*   Scores
+*   Scoreboard
+*   Standings
+*   Schedule
+*   Stats
+*   Players
 *   News
 *   Video
-*   Standings
-*   Stats
-*   Schedule
-*   Players
 *   Teams
 *   Fantasy
 *   MLB.TV
