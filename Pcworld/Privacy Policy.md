@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Is this the face of Facebook's new phone? April 1, 2013
-*   Leaked BlackBerry roadmap promises two phablets, widescreen tablet this year April 1, 2013
-*   Scientists create biological transistors, the final step toward 'computerized cells' April 1, 2013
+*   Yahoo Mail gets Dropbox support to handle large attachments April 2, 2013
+*   Craft your own cotton candy machine from an old hard drive April 2, 2013
+*   Astronauts go from Earth to the ISS in a record six hours April 2, 2013
 
 PCWorld Articles
 
-*   China slams U.S. for discriminating against nation's tech vendors April 1, 2013
-*   All out of Pi: $25 Raspberry Pi sells out in U.S. April 1, 2013
-*   Battle for Dell risks customer confidence, analysts say April 1, 2013
+*   Microsoft updates Outlook.com calendar with Metro look, greater connectivity April 2, 2013
+*   Voice Ads Coming to Your Mobile Devices April 2, 2013
+*   Amazon Cloud is great, but not for business April 2, 2013
 
   
 TechHive on Twitter (@TechHive)
