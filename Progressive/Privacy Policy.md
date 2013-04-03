@@ -16,7 +16,7 @@
         E-mail Call Write
 *   Log In
 
-#1 Auto Insurance Web Site for 2012 - Keynote® Systems
+#1 Auto Insurance Site
 
 Progressive
 
@@ -63,9 +63,9 @@ Mayfield Village, Ohio 44143
 
 Call: 1-440-461-5000
 
-AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home #1 Insurance Web Site
+AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home #1 Insurance Website
 
-Progressive again wins the #1 spot on Keynote® System's Q2 2011 Insurance Carrier Scorecard.
+Progressive has sat atop 20 of the last 21 Keynote® Systems Insurance Carrier Scorecards.
 
 More
 
@@ -128,5 +128,7 @@ Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon
 We're Here 24/7. Call 1-800-PROGRESSIVE. Copyright 1995- 2013 Progressive Casualty Insurance Company. All Rights Reserved.
 
 Auto insurance prices and products are different when purchased directly from Progressive or through agents/brokers. Quotes on this page are for policies purchased directly. Quotes for policies sold through agents/brokers are available through ProgressiveAgent.com or via the Find Agent/Get Agent Quote button.
+
+No. 1 auto insurance site ranking from Keynote® Competitive Research, the industry analysis group of Keynote Systems.
 
 \*\*Learn more about comparison rates, which are available from Progressive DirectÂ® in most states and situations. Rate comparisons provided here are based on our Progressive Direct auto insurance product and Progressive Direct's credit evaluation, and do not include prices and products available from Progressive agents. Consumers can select a different credit evaluation when they obtain competitor rate service.
