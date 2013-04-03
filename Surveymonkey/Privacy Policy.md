@@ -50,12 +50,12 @@ Versions: February 5, 2013 (current)March 28, 2012June 27, 2011 Privacy Policy L
 
 **This privacy policy explains how SurveyMonkey handles your personal information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of legalese. The policy is structured so you can quickly find answers to the questions which interest you the most.**
 
-This privacy policy applies to all the products, services and websites offered by SurveyMonkey.com, LLC, SurveyMonkey Europe Sarl, and their affiliates, except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by SurveyMonkey.com, LLC inside of the United States and by SurveyMonkey Europe Sarl outside of the United States.
+This privacy policy applies to all the products, services and websites offered by SurveyMonkey Inc., SurveyMonkey Europe Sarl, and their affiliates, except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by SurveyMonkey Inc. inside of the United States and by SurveyMonkey Europe Sarl outside of the United States.
 
   
-**TRUSTe.** SurveyMonkey.com, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and our privacy practices have been reviewed TRUSTe, an independent third party, for compliance with TRUSTe’s program requirements, which include transparency, accountability and choice regarding the collection and use of your personal information.
+**TRUSTe.** SurveyMonkey Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and our privacy practices have been reviewed TRUSTe, an independent third party, for compliance with TRUSTe’s program requirements, which include transparency, accountability and choice regarding the collection and use of your personal information.
 
-**European Safe Harbors.** SurveyMonkey.com, LLC complies with the US-EU and US-Swiss Safe Harbor Frameworks developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries and Switzerland. We have certified, and TRUSTe has verified, that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. View our certification on the U.S. Department of Commerce's Safe Harbor website.
+**European Safe Harbors.** SurveyMonkey Inc. complies with the US-EU and US-Swiss Safe Harbor Frameworks developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries and Switzerland. We have certified, and TRUSTe has verified, that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. View our certification on the U.S. Department of Commerce's Safe Harbor website.
 
 **Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301, USA, or electronically through this form. You may contact TRUSTe if feel your question has not been satisfactorily addressed.
 
@@ -183,7 +183,7 @@ PRIVACY FOR SURVEY CREATORS
     **By clicking "I Agree" or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:**
     
     *   You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to **cookies, IP addresses and log files**.
-    *   Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States by SurveyMonkey.com, LLC, in Luxembourg by SurveyMonkey Europe Sarl and in Portugal by SurveyMonkey Spain, Sucursal em Portugal.
+    *   Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States by SurveyMonkey Inc., in Luxembourg by SurveyMonkey Europe Sarl and in Portugal by SurveyMonkey Spain, Sucursal em Portugal.
     *   You consent and agree that we may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.
     *   You consent to us sharing your personal data with relevant persons working for service providers who assist us to provide our services.
     *   If you have enabled cookies on your web browser, you consent to our use of cookies as described in this privacy policy.
@@ -261,7 +261,7 @@ PRIVACY FOR SURVEY RESPONDENTS
     **By clicking "I Agree" or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:**
     
     *   You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to **cookies, IP addresses and log files**.
-    *   Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States by SurveyMonkey.com, LLC, in Luxembourg by SurveyMonkey Europe Sarl and in Portugal by SurveyMonkey Spain, Sucursal em Portugal.
+    *   Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States by SurveyMonkey Inc., in Luxembourg by SurveyMonkey Europe Sarl and in Portugal by SurveyMonkey Spain, Sucursal em Portugal.
     *   You consent and agree that we may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.
     *   You consent to us sharing your personal data with relevant persons working for service providers who assist us to provide our services.
     *   If you have enabled cookies on your web browser, you consent to our use of cookies as described in this privacy policy.
@@ -278,10 +278,6 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Google+
 *   YouTube
 
-*   Help:
-*   FAQs &. Tutorials
-*   Contact Support
-
 *   About Us:
 *   Management Team
 *   Board of Directors
@@ -290,13 +286,14 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Contact Us
 *   Jobs
 *   Sitemap
+*   Help
 
 *   Policies:
 *   Terms of Use
 *   Privacy Policy
 *   Anti-Spam Policy
 *   Security Statement
-*   Email Opt-Out
+*   Survey Opt-Out
 
 *   Dansk
 *   Deutsch
@@ -314,7 +311,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Svenska
 *   中文(繁體)
 
-Copyright © 1999-2012 SurveyMonkey
+Copyright © 1999-2013 SurveyMonkey
 
 *   Truste
 *   BBOnline
