@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Apr 2, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Apr 3, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -243,9 +243,7 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   AgSource Genetic Selection Guide Offers Progeny Projections
-*   Power Hour: USDA Delivers a Grain Stocks Surprise
-*   Quick Tips to Better Manage Silage
+*   CWT Assists with 7.5 Million Pounds of Exports
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
