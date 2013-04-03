@@ -389,15 +389,6 @@ Enter Keyword or Item # Search
     *   Not Quite Perfect
 *   canvas
 *   lebo
-    
-    *   ABOUT LANDS' END BUSINESS OUTFITTERS
-        
-        Lands' End is a leading provider of logo'd apparel and gear for companies of all sizes.
-        
-        Visit Lands' End Business Outfitters The Lands' End Business Outfitters site does not share a shopping cart with this site.
-        
-        We'll save your items for up to 2 weeks (product availability is subject to change).
-        
 
 *   Women
 *   Men
