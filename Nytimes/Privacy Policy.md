@@ -1,4 +1,3 @@
-*   Subscribe: Digital / Home Delivery
 *   Help
 
 *   Home Page
