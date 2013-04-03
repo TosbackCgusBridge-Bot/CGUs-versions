@@ -64,6 +64,7 @@ Explore HSBC.com
     Learn about our investment case, our internal controls and how we handle risk. Find financial results, dividend information and investor presentations.
     
     *   Investing in HSBC
+        *   Annual General Meeting
         *   Latest financial results
         *   Credit ratings
         *   Investor Day 2012
