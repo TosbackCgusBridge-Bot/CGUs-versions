@@ -3,24 +3,25 @@ To learn about our efforts to improve the accessibility and usability of our web
 *   日本語
 *   Español
 *   한국어
+*   繁體中文
 
 Search
 
 *   Login
 *   Register
 
-*   Scoreboard
-*   Standings
-*   Schedule
-*   Stats
-*   Players
+*   Scores
 *   News
 *   Video
+*   Standings
+*   Stats
+*   Schedule
+*   Players
 *   Teams
 *   Fantasy
 *   MLB.TV
 *   Shop
-*   Apps
+*   Mobile
 *   Tickets
 
 Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Official Info Skip to main content
