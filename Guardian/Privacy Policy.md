@@ -53,6 +53,8 @@ The minimum information we need to register a user is an email address and a pas
 
 We may also ask some further, voluntary questions during registration for certain services (for example, Professional Networks) so we can gain a clearer understanding of our users. This also enables us to personalise services for our users.
 
+Following registration you may be sent regular editorial emails from the Guardian. You will be able to unsubscribe from these at any time.
+
 **Logging in using social networking credentials**
 
 If you log-in to our sites using a Facebook log-in as a means of authentication you grant permission to Facebook to share your user details. This will include your name, email address, date of birth and location which will then be used to form a Guardian Identity, and you may use your picture from Facebook as part of your profile. Authenticating also permits the sharing of your gender, networks, user ID and any other information you choose to share according to your Facebook account settings. If you remove the Guardian app from your Facebook settings, our access to this additional information will cease.
