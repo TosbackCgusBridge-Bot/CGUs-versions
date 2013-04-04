@@ -6,7 +6,7 @@ Skip to main content **eLearners.com** Sign In | Register 
 *   Online Colleges
 *   Campus Colleges
 *   Education Resources
-*   Blogs
+*   News
 
 Find Your Online Degree
 
