@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Yahoo Mail gets Dropbox support to handle large attachments April 2, 2013
-*   Craft your own cotton candy machine from an old hard drive April 2, 2013
-*   Astronauts go from Earth to the ISS in a record six hours April 2, 2013
+*   Mozilla, Samsung collaborating on the browser of the future April 3, 2013
+*   Rdio takes social recommendations act to movies, TV with Vdio April 3, 2013
+*   Introducing TechHive's Digital Photography Superguide April 3, 2013
 
 PCWorld Articles
 
-*   Microsoft updates Outlook.com calendar with Metro look, greater connectivity April 2, 2013
-*   Voice Ads Coming to Your Mobile Devices April 2, 2013
-*   Amazon Cloud is great, but not for business April 2, 2013
+*   US, South Korea join forces to prevent cyberattacks by North Korea April 3, 2013
+*   How to fast-charge your iPhone or iPad using a standard USB port April 3, 2013
+*   Google simplifies integration of SMS and voice with App Engine April 3, 2013
 
   
 TechHive on Twitter (@TechHive)
