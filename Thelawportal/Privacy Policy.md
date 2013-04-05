@@ -38,7 +38,7 @@ We welcome your questions and comments about our web site. Please email us at su
   
   
   
-seal background criminal records  
+ 
 
 *   Terms &. Conditions
 *   Privacy Policy
