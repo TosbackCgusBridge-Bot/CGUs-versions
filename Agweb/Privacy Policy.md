@@ -1,7 +1,7 @@
 Skip to main content
 
-  AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Apr 4, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+  AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN Machinery  
+Apr 5, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -149,7 +149,8 @@ Apr 4, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Implement &. Tractor
     *   National Farm Machinery Show
     
-    *   Machinery Classifieds 
+    *   Machinery Classifieds
+    *   Machinery News 
 
 Facebook| Twitter| Share | Email| Print   Privacy Policy AgWeb Privacy Policy
 
@@ -244,11 +245,9 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Does Your 2013 Crop Mix Differ from Previous Years?
-*   Nutrition: Stretch feed supplies
-*   Four Changes, Big Impact
-*   A Low SCC Takes Work
-*   Corn Joins Bear Market as Drought-Driven Rally Ends
+*   Dairy Security Act Would Have Increased Farm Milk Prices More Than $1.00 Per Cwt. Had it Been in Effect Last Year, NMPF Official Tells Midwest Dairy Leaders
+*   Power Hour: Shifts in Planting Acres
+*   Washington State Dairy Fined $17,000 for Violating Water Pollution Control Act
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
@@ -261,4 +260,4 @@ ALSO RECOMMENDED
 *   Nearly 2,000 Farmers Share Voting Intentions
 *   Farmers React to Obama's Atkinson, Ill., Town Hall
 
-      AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2013 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
+      AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN Machinery The Homepage of Agriculture About Farm Journal Media|About Our Magazines|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2013 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
