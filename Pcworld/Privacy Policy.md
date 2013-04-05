@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Mozilla, Samsung collaborating on the browser of the future April 3, 2013
-*   Rdio takes social recommendations act to movies, TV with Vdio April 3, 2013
-*   Introducing TechHive's Digital Photography Superguide April 3, 2013
+*   Rare earth metals might be a little less rare thanks to Japanese sea mud April 4, 2013
+*   Vizible shows images tweeted by people around you April 4, 2013
+*   Google search dominance may not last in mobile age April 4, 2013
 
 PCWorld Articles
 
-*   US, South Korea join forces to prevent cyberattacks by North Korea April 3, 2013
-*   How to fast-charge your iPhone or iPad using a standard USB port April 3, 2013
-*   Google simplifies integration of SMS and voice with App Engine April 3, 2013
+*   PCWorld Digital Magazine Enhanced iPad Edition now available to subscribers for free April 4, 2013
+*   Hack attack by Anonymous vandalizes North Korea's Twitter and Flickr accounts April 4, 2013
+*   Hands on with the MLB.tv Windows 8 app: More bunt than home run April 4, 2013
 
   
 TechHive on Twitter (@TechHive)
