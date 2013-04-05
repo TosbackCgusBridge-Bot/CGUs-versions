@@ -5,6 +5,7 @@ Shopping Cart
 *   Home
 *   Shop
 *   News &. Commentary
+    *   Programming
     *   O'Reilly Radar
     *   Strata
     *   Tools of Change for Publishing
