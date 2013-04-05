@@ -180,10 +180,9 @@ Jean-Pierre Remy
       
     Pour de plus amples informations sur les cookies veuillez vous reporter à notre Charte relative à la Protection des Données Personnelles en cliquant ICI
     
-*   Lieu favori  
-     
+*   Lieu favori
     
-    En vue d’adapter les informations que nous diffusons sur la page d’accueil de notre site par rapport à une localité déterminée, nous utilisons la technique des cookies.
+*   En vue d’adapter les informations que nous diffusons sur la page d’accueil de notre site par rapport à une localité déterminée, nous utilisons la technique des cookies.
     
     Pour ce faire, nous procédons de la manière suivante :
     
