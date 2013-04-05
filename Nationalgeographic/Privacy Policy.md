@@ -1,6 +1,11 @@
 Skip to this page's content
 
-Advertisement Advertisement Advertisement National Geographic Society P.O. Box 98199 Washington, DC 20090-8199 USA 38.90531943278526, -77.0376992225647 800-647-5463 Search National Geographic Searchnationalgeographic.com Submit
+Advertisement Advertisement Advertisement National Geographic Society P.O. Box 98199 Washington, DC 20090-8199 USA 38.90531943278526, -77.0376992225647 800-647-5463 Search National Geographic Searchnationalgeographic.com
+
+*   Search NationalGeographic.com
+*   Search Video
+
+Submit
 
 *   Connect:
 
