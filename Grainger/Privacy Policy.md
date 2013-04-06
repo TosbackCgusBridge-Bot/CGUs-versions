@@ -1,7 +1,5 @@
 Privacy Policy
 
-**Privacy Policy** | Security Policy | Catalog Terms of Purchase | Terms of Access | Terms of Registration
-
 About This Policy  
 Information We Collect  
 How We Collect Information  
@@ -13,7 +11,7 @@ Links
 Policy Updates  
 Non-US Users
 
-Last Revised: 10/31/2012
+Last Revised: 10/2012
 
 **About This Policy**  
 This notice describes the information practices of W.W. Grainger, Inc. and its subsidiaries, divisions, affiliates, and brands (collectively “We”) as it relates to the websites on which this policy is posted (“Site”). This includes mobile websites and smart phone applications. It does not apply to information We might collect on other sites or in other forums, including by email or offline.
@@ -59,24 +57,7 @@ The Sites are operated in the United States. If you are located outside of the U
 **Policy Updates**  
 From time to time We may change our privacy policies because of changes in the relevant and applicable legal or regulatory requirements, changes in our business or business practices, or in our attempts to better serve our customers. Notice of any material changes in the manner in which We handle personally identifiable information under this policy will be provided on the Sites. Please check the Site periodically for updates. Policy updates shall be effective the date the change is posted on the Site. By continuing to use the Site after We post any changes, you agree to the terms of the updated policy.
 
-**About Grainger’s Ads &. Tracking Activities**  
-
-**Our Interest-Based Advertising** On Grainger-owned and operated sites Grainger displays interest-based advertising using information you make available to us when you interact with our sites, content, or services. Interest-based ads, also sometimes referred to as personalized or targeted ads, are displayed to you based on information from activities such as purchasing on our sites, visiting sites that contain Grainger content or ads, interacting with Grainger tools, or using our other services.  
   
-The information we collect enables us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly.  
-  
-Below are details of the technologies we use and the data capture we are able to do, along with ways, that you, as customers, can control these. **Our Interest-Based Ads on Other Websites** We may work with online advertising companies to provide you with advertising on third party sites that you visit that is as relevant and useful as possible. These ads may be based on information you submit on our websites or third party sites, or your activities or behaviors on our websites or on third party sites. The information gathered may be used to serve you with advertisements on our websites or on third party websites. **Opting Out of Seeing Interest-Based Ads** The third parties we work with all participate in the Self-Regulatory Program for Online Behavioral Advertising. This program provides consumers with the ability to opt-out of having their online behavior recorded for advertising purposes. If you want to opt out, visit http://www.aboutads.info/choices/ **Technologies We Use** We –or vendors we have hired– use several common data collection technologies including cookies, pixel tags, and similar technologies. These technologies are used to understand the activities and behaviors of our consumers and website visitors. We do this for many reasons, including the following:
-
-*   To recognize new visitors to our websites.
-*   To recognize past customers.
-*   To present more personalized content, to improve your website experience, optimize your shopping experience, and provide site and service enhancements.
-*   To serve customized advertising (whether on our website or others you visit).
-*   So we can better understand our audience, our customers, our website visitors, and their respective interests.
-
-**Controlling These Technologies** You may control our use of cookies. How you do so depends on the type of cookie. You can configure your browser to reject browser cookies. To control flash cookies go to http://www.macromedia.com/support/documentation/en/flashplayer/help/  
-settings\_manager07.html Why? Because flash cookies do not reside in your browser, and thus your browser settings will not affect them.  
-  
-NOTE: If you configure your computer to block cookies, you may not be able to access certain functionality on our sites.  
 
 **Questions**  
 If users have any questions or suggestions regarding our privacy policy, please contact Us as follows: by email at feedback@ic.grainger.com, or mail at 681 Commerce St. Burr Ridge, IL 60527,  
