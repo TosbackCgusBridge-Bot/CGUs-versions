@@ -38,9 +38,8 @@ Tealium
 
 Privacy Policy US Office
 
-445 Marine View Avenue  
-Suite 320  
-Del Mar, CA 92014
+11085 Torreyana Road  
+San Diego, CA 92121
 
 Tel: +1 (858) 779-1344  
 Fax: +1 (858) 345-3844
