@@ -1,4 +1,4 @@
-**Last Revised: March 22, 2013**
+**Last Revised: April 5, 2013**
 
 Go Daddy Respects your privacy
 
@@ -6,7 +6,7 @@ This Privacy Policy describes how we collect and use the personally identifiable
 
 Go Daddy has been awarded TRUSTe's Privacy Seal signifying that its Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personally identifiable information.  This Privacy Policy covers the website www.godaddy.com and our mobile application. The TRUSTe program does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its lead privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at privacy@godaddy.com or call (480) 505-8800.  If you are not satisfied with our response, please contact TRUSTe.
 
-**Go Daddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from  European Union member countries.  **Go Daddy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.****
+**Go Daddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from  European Union member countries.  Go Daddy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.**
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
