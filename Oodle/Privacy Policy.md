@@ -165,4 +165,4 @@ We've recently updated our privacy policy which you can review here.
 *   Add my listings to a Facebook Page
 *   Get Marketplace on your Phone
 
-© Copyright 2013 Oodle, Inc. All rights reserved.
+© Copyright 2013 California Voices, Inc. All rights reserved.
