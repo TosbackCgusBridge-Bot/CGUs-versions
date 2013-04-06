@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help David Byrne's "Here Lies Love"
+Search Help What you get for ... $2.3 million
 
-Also in Theater »
+Also in Real Estate »
 
-*   A featherweight but irresistible play about celebrity false bonding
-*   "Good With People" at 59E59 Theaters
+*   Explore a triplex penthouse at The Pierre with an asking price of $125 million
+*   Renovation, Italian style
 
   
 
