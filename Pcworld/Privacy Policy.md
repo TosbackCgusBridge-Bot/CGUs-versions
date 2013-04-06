@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Rare earth metals might be a little less rare thanks to Japanese sea mud April 4, 2013
-*   Vizible shows images tweeted by people around you April 4, 2013
-*   Google search dominance may not last in mobile age April 4, 2013
+*   EyeFly film adds glasses-free 3D to your iPhone 5 April 5, 2013
+*   Will ATMs with video chat be the end of live tellers? April 5, 2013
+*   Kindle and Raspberry Pi join forces in this wireless terminal hack April 5, 2013
 
 PCWorld Articles
 
-*   PCWorld Digital Magazine Enhanced iPad Edition now available to subscribers for free April 4, 2013
-*   Hack attack by Anonymous vandalizes North Korea's Twitter and Flickr accounts April 4, 2013
-*   Hands on with the MLB.tv Windows 8 app: More bunt than home run April 4, 2013
+*   Windows 8 laptops can't command Windows 7 prices April 5, 2013
+*   Samsung infringed Apple patent on text selection, says ITC judge April 5, 2013
+*   Review: MotionArtist lets artists become animators without learning code April 5, 2013
 
   
 TechHive on Twitter (@TechHive)
