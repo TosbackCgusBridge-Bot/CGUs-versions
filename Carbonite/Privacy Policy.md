@@ -1,12 +1,12 @@
 Privacy Policy
 
-This Privacy Policy is subject to and incorporated into the terms of service (the "Terms") between You and Carbonite. You may access the Terms at www.carbonite.com or by clicking Terms. Capitalized words used in this Privacy Policy without definition have the meaning given to them in the Terms. By agreeing to the Terms and installing, accessing or using the Services, You are agreeing to this Privacy Policy and the terms contained herein.
+This Privacy Policy is subject to and incorporated into the terms of service (the "Terms") between You and Carbonite Inc., its affiliates, licensors, and subsidiaries, including Zmanda, Inc., (collectively, "Carbonite"). You may access the Terms at www.carbonite.com or by clicking Terms. Capitalized words used in this Privacy Policy without definition have the meaning given to them in the Terms. By agreeing to the Terms and installing, accessing or using the Services, You are agreeing to this Privacy Policy and the terms contained herein.
 
 This Privacy Policy applies to Carbonite's collection and use of personally identifying information that Carbonite may gather when You contact us, visit our web site or purchase, license or use the Services. By installing, accessing or using the Services, You expressly consent to the collection, processing and use of Your personal information according to this Privacy Policy.
 
 HOW CARBONITE USES INFORMATION
 
-**Personal Information.** Carbonite collects personal information relevant to Your subscription with Carbonite, including Your name, mailing address, phone number, e-mail address and credit card information. This information collected will be used by Carbonite in order to service Your account and in accordance with the terms of this Privacy Policy.
+**Personal Information.** Carbonite collects personal information relevant to Your subscription with Carbonite, including Your name, mailing address, phone number, e-mail address and credit card information. This information collected will only be used by Carbonite in order to service Your account and in accordance with the terms of this Privacy Policy.
 
 **Cookies and Other Technologies.** Carbonite uses "cookies" and other technologies to collect data that enables us to better understand and improve the usability, performance and effectiveness of our website. Cookies are files sent to Your browser and stored on Your computer. If You do not want Carbonite to send cookies to Your browser, You can set Your browser options to reject cookies or notify You when a website tries to put a cookie into Your browser. Rejecting cookies may affect Your ability to use some features of the Services.
 
