@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media MyMachinery.com Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Implement &. Tractor Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN Machinery  
-Apr 6, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Apr 7, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -246,6 +246,7 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
+*   Should 2013 be a “Do-Nothing” Marketing Year?
 *   Corn, Soybean Prices Continue Downward Spiral
 *   This Week's Pro Farmer Newsletter is Available
 *   Power Hour: Despite Price Drops, Marketing Opportunities Remain
