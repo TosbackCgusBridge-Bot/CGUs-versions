@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   EyeFly film adds glasses-free 3D to your iPhone 5 April 5, 2013
-*   Will ATMs with video chat be the end of live tellers? April 5, 2013
-*   Kindle and Raspberry Pi join forces in this wireless terminal hack April 5, 2013
+*   IsoHunt wants a second chance in Hollywood copyright fight April 6, 2013
+*   Pro tip: Process your photographs with bacteria April 6, 2013
+*   Lens filters protect your pricey camera glass: Here are your options April 6, 2013
 
 PCWorld Articles
 
-*   Windows 8 laptops can't command Windows 7 prices April 5, 2013
-*   Samsung infringed Apple patent on text selection, says ITC judge April 5, 2013
-*   Review: MotionArtist lets artists become animators without learning code April 5, 2013
+*   Sneaky malware hides behind mouse movement, experts say April 6, 2013
+*   Microsoft prepares to patch Windows 8 on Tuesday April 6, 2013
+*   Tablets will take over in three years, Gartner estimates April 6, 2013
 
   
 TechHive on Twitter (@TechHive)
