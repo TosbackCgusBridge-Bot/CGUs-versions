@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   IsoHunt wants a second chance in Hollywood copyright fight April 6, 2013
-*   Pro tip: Process your photographs with bacteria April 6, 2013
-*   Lens filters protect your pricey camera glass: Here are your options April 6, 2013
+*   British Library leads a team to archive UK web resources April 7, 2013
+*   Revamped mobile browser engines rev up rivalries April 7, 2013
+*   Google must defend privacy policies to 6 European agencies April 7, 2013
 
 PCWorld Articles
 
-*   Sneaky malware hides behind mouse movement, experts say April 6, 2013
-*   Microsoft prepares to patch Windows 8 on Tuesday April 6, 2013
-*   Tablets will take over in three years, Gartner estimates April 6, 2013
+*   Hands off the smartphone map, California court tells drivers April 7, 2013
+*   London School of Fashion exhibition shows 3D-printed fashions April 7, 2013
+*   Mobile device security plan defended by Army April 7, 2013
 
   
 TechHive on Twitter (@TechHive)
