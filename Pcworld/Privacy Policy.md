@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   British Library leads a team to archive UK web resources April 7, 2013
-*   Revamped mobile browser engines rev up rivalries April 7, 2013
-*   Google must defend privacy policies to 6 European agencies April 7, 2013
+*   LED matrix helps visualize the favorite colors of Twitter users April 8, 2013
+*   MōVI is a new camera stabilizer that works like witchcraft April 8, 2013
+*   Samsung's new "Galaxy Win" phone is a slightly whimpier Galaxy S3 April 8, 2013
 
 PCWorld Articles
 
-*   Hands off the smartphone map, California court tells drivers April 7, 2013
-*   London School of Fashion exhibition shows 3D-printed fashions April 7, 2013
-*   Mobile device security plan defended by Army April 7, 2013
+*   Zimbra to make HTML5 push in next version April 8, 2013
+*   Intel doubles speed of Thunderbolt interconnect April 8, 2013
+*   Microsoft tempts XP laggards with $84 upgrade discount April 8, 2013
 
   
 TechHive on Twitter (@TechHive)
