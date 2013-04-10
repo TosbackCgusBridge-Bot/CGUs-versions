@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   LED matrix helps visualize the favorite colors of Twitter users April 8, 2013
-*   MōVI is a new camera stabilizer that works like witchcraft April 8, 2013
-*   Samsung's new "Galaxy Win" phone is a slightly whimpier Galaxy S3 April 8, 2013
+*   US Navy says laser weapons are coming. expect pew-pewing to begin next year April 9, 2013
+*   Privacy details for Facebook's new Home software April 9, 2013
+*   Revisit Jurassic Park in blocky, non-3D Minecraft April 9, 2013
 
 PCWorld Articles
 
-*   Zimbra to make HTML5 push in next version April 8, 2013
-*   Intel doubles speed of Thunderbolt interconnect April 8, 2013
-*   Microsoft tempts XP laggards with $84 upgrade discount April 8, 2013
+*   Oracle rolls out new in-memory applications, scaled-down Big Data Appliance April 9, 2013
+*   Review: SmartDeblur restores blurred images, indulges CSI fantasies April 9, 2013
+*   Rural carriers complain about broadband obstacles April 9, 2013
 
   
 TechHive on Twitter (@TechHive)
