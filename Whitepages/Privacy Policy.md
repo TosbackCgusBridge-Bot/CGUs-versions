@@ -10,7 +10,7 @@ Go Back
   
 Data Policy
 
-Last updated on October 2nd, 2012
+Last updated on April 9, 2013.
 
 This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your listing, please click here.
 
@@ -22,7 +22,7 @@ We collect information in order to provide useful products and services to you a
 
 **2\. What kinds of information do you collect?**
 
-We collect information that (i) you provide to us or authorize us to collect from your social media account(s) and (ii) information about your use of our products and services (e.g., browser type, search categories, location).
+We collect information that (i) you provide to us or authorize us to collect as a result of using our products (_e.g._ social media accounts, call and text logs, etc.) and (ii) information about your use of our products and services (e.g., browser type, search categories, location).
 
 **3\. How do you use the information you collect?**
 
