@@ -32,6 +32,7 @@ Tealium
     *   *   About Us
         *   Management
         *   Investors
+        *   Events
         *   Digital Velocity
         *   TMU
         *   Careers
