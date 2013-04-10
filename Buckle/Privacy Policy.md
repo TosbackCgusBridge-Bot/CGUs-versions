@@ -132,7 +132,7 @@ Phone: 888-427-7786
 TDD/TTY: 800-695-1788
 
 *   Buckle Credit Card  
-    B-Rewards | Apply | Online Bill Pay
+    Benefits | Apply | Online Bill Pay
 *   Gift Card  
     Buy | Check Balance
 *   Store Locations  
@@ -169,12 +169,13 @@ TDD/TTY: 800-695-1788
 *   Women's Rock Revival Jeans
 *   Men's Rock Revival Jeans
 
-*   Stay In Touch
+*   Stay in Touch
 *   Like us on Facebook
-*   View us on Youtube
+*   View us on YouTube
 *   Find us on Pinterest
+*   Follow us on Instagram
 *   Follow us on Twitter
-*   Read Our Blog
+*   Read our Blog
 
 © 2013 The Buckle Inc.  
 Privacy Policy | Transparency In Supply Chains | Site Index
