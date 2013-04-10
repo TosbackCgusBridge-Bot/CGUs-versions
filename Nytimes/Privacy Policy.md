@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help What's in a (dog) name?
+Search Help Thatcher, through bold British headlines
 
 Also in Video »
 
-*   Do dried blueberries provide the same antioxidant benefits as fresh berries?
-*   You don't have to eat olive oil to benefit from it
+*   Margaret Thatcher's famous words
+*   How Thatcher changed Britain
 
   
 
