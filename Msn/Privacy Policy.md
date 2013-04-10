@@ -26,7 +26,7 @@ This Privacy Policy applies to all users, including both those who use some of t
 
 **Services Offered with Microsoft**
 
-We work with Microsoft to bring you certain features for some of the FSD Sites.  By providing information to or using the FSD Sites, you agree that we may share your information with Microsoft. Microsoft's use of your information is governed by Microsoft's Privacy Policy, which can be found here: http://privacy.microsoft.com/en-us/default.mspx.
+We work with Microsoft to bring you certain features for some of the FSD Sites.  By providing information to or using the FSD Sites, you agree that we may share your information with Microsoft. Microsoft's use of your information is governed by Microsoft's Privacy Policy, which can be found here: http://go.microsoft.com/fwlink/?LinkId=248688.
 
 **Services Offered with Publishers**  
 
