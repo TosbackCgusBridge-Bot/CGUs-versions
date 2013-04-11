@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   US Navy says laser weapons are coming. expect pew-pewing to begin next year April 9, 2013
-*   Privacy details for Facebook's new Home software April 9, 2013
-*   Revisit Jurassic Park in blocky, non-3D Minecraft April 9, 2013
+*   10 features we want to see in the next Xbox April 10, 2013
+*   Forget Skynet, enter Seanet? Autonomous sea-faring robots are here April 10, 2013
+*   Bad news for BlackBerry 10: Survey says most Americans don't care April 10, 2013
 
 PCWorld Articles
 
-*   Oracle rolls out new in-memory applications, scaled-down Big Data Appliance April 9, 2013
-*   Review: SmartDeblur restores blurred images, indulges CSI fantasies April 9, 2013
-*   Rural carriers complain about broadband obstacles April 9, 2013
+*   Phantom flying drone captures stunning, stable video April 10, 2013
+*   Want Microsoft Office on iOS or Android? You may wait until 2014 April 10, 2013
+*   How to switch back to Firefox's old download manager April 10, 2013
 
   
 TechHive on Twitter (@TechHive)
