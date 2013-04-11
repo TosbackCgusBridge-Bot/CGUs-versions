@@ -239,7 +239,7 @@ Resources &. Tools:
 *   Financial Aid &. Budgeting
 *   Careers
 *   Student Life
-*   Online Education Blogs
+*   Education in the News
 
 Our Partners:
 
