@@ -129,4 +129,4 @@ Company
 *   Careers
 *   Affiliates
 
-Activate Card Parent Tools Unlock Items Language Select ENGLISH PORTUGUÊS FRANÇAIS ESPAÑOL DEUTSCH Club Penguin™ Disney Online Studios Canada Inc. © Disney. All rights reserved. \* Updated on January 11, 2012 | Terms of Use | Privacy Policy \*
+Activate Card Parent Tools Unlock Items Language Select ENGLISH PORTUGUÊS FRANÇAIS ESPAÑOL DEUTSCH Club Penguin™ Disney Canada Inc. © Disney. All rights reserved. \* Updated on January 11, 2012 | Terms of Use | Privacy Policy \*
