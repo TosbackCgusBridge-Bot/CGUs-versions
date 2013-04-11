@@ -52,7 +52,7 @@ Important information:
 
 Privacy Policy - Full Policy
 
-Sam's Club recognizes the importance of our Members' privacy. We believe that privacy is more than an issue of compliance – it is one of trust. We strive to manage your personal information based on our basic belief of respect for the individual. This policy describes:
+Sam's Club recognizes the importance of our Members' privacy. We believe that privacy is more than an issue of compliance ? it is one of trust. We strive to manage your personal information based on our basic belief of respect for the individual. This policy describes:
 
 *   How and why we collect your personal information.
 *   How your information is used and protected.
