@@ -94,7 +94,9 @@ How to update, correct, or delete your information
 
 **Snailmail**: To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to or call 800-998-9938 or 707-829-0515.
 
- 
+  Sign up today to receive special discounts,  
+product alerts, and news from O'Reilly. Privacy Policy >  
+View Sample Newsletter >.
 
 *   Twitter
 *   YouTube
