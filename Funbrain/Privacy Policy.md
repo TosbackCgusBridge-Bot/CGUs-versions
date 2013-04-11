@@ -19,7 +19,7 @@ Help
 
 Privacy Statement: (Revised January, 2010)
 
-Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the Terms of Use (of which this privacy statement is a part) posted on this site.
+Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the the Terms of Use (of which this privacy statement is a part) posted on this site.
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this site. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision.
 
@@ -156,4 +156,5 @@ If you have any questions about this privacy statement, the practices of Family 
 
   
   Rights | Privacy | Terms of Use  
-© 2000-2013 Pearson Education, Inc. All rights reserved
+© 2000-2013 Pearson Education, Inc. All rights reserved  
+  Fatal error: Call to undefined function tv\_ifsite() in /site/html/template/fen.com/trailer.php on line 264
