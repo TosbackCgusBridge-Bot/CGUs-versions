@@ -238,25 +238,28 @@ Participating Sites
 *   WayfairSupply.com
 *   AllModern.com
 
-Program-Specific Membership Benefits &. Restrictions A Member that makes a Qualifying Purchase (defined below) may earn "Rewards Dollars" equal to three percent (3%) of the Net Amount (defined below) paid for the Qualifying Purchase.
+Program-Specific Membership Benefits &. Restrictions A Member that makes a Qualifying Purchase (defined below) may earn "Rewards Dollars" equal to three percent (3%) of the Net Amount (defined below) paid for that purchase. Enrollment in the Rewards Program is automatic after the Effective Date (set forth above) with registration at any of the Participating Sites.
 
 The Rewards Program offers two (2) tiers of Membership: Rewards and Rewards Gold.
 
 Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Shipping Fees for Qualifying Purchases: • Free for orders over $49  
-• $4.99 Flat Rate for orders $49 and under Free Redemption Period Three months from date on which Qualifying Purchase is made Anytime during the Rewards Gold Membership Period\* Membership Fee None $20
+• $4.99 Flat Rate for orders $49 and under Free Redemption Period Three months from date on which Rewards-Eligible Purchase is made Anytime during the Rewards Gold Membership Period\* Membership Fee None $20
 
-\*If Rewards Gold Membership is not renewed, then Rewards Dollars expire three months after the end of the Rewards Gold Membership Period during which the Qualifying Purchase was made.
+\*If Rewards Gold Membership is not renewed, then Rewards Dollars expire three months after the end of the Rewards Gold Membership Period.
+
+"**Rewards-Eligible Purchase**" means a purchase placed online or over the phone of one or more products from a Participating Site that is paid in full. The purchase of gift cards and/or gift certificates is excluded from this definition.
 
 "**Net Amount**" means the cash amount paid (in U.S. Dollars) by the Member for the product(s) purchased in the Qualifying Purchase after applying discounts or other credits or deductions.
 
-"**Qualifying Purchase**" means an online purchase of one or more products from a Participating Site that is paid in full and shipped to a qualifying address in the forty-eight contiguous United States. A purchase of any product with a special shipping charge noted is not a Qualifying Purchase. Additional exclusions may apply to certain products. please contact Customer Service for details.
+"**Rewards Gold Qualifying Purchase**" means an online purchase of one or more products from a Participating Site that is paid in full and shipped to a qualifying address in the forty-eight contiguous United States. A purchase of any product with a special shipping charge noted is not a Rewards Gold Qualifying Purchase. Additional exclusions may apply to certain products. please contact Customer Service for details.
 
 "**Rewards Gold Membership Period**" is 12 months.
 
 *   Rewards Dollars are earned only on future purchases from a Participating Site. Rewards Dollars are not awarded for purchases made before the Effective Date (set forth above).
 *   Rewards Dollars are not redeemable for cash.
-*   Rewards Dollars are not awarded for purchases of gift cards and/or gift certificates, purchases paid for in whole or in part with Rewards Dollars or purchases made though any of Wayfair's partners' sites.
-*   If the Net Amount of a Qualifying Purchase changes for any reason (e.g., return), the number of Rewards Dollars awarded for the Qualifying Purchase will be adjusted to reflect the modified Net Amount. Rewards Dollars will be credited to a Member's account within approximately two (2) business days after the closing of each Qualifying Purchase. Rewards Dollars award are rounded down to the nearest cent.
+*   Rewards Dollars are not awarded for purchases of gift cards and/or gift certificates, purchases paid for in whole with Rewards Dollars or purchases made through any of Wayfair's partners' sites. The balance of a Purchase paid for in part with Rewards Dollars is eligible for Rewards Dollar earning.
+*   If the Net Amount of a Rewards-Eligible Purchase changes for any reason (e.g., return), the number of Rewards Dollars awarded for the Rewards-Eligible Purchase will be adjusted to reflect the modified Net Amount.
+*   Rewards Dollars will be credited to a Member's account within approximately two (2) business days after the closing of each Rewards-Eligible Purchase. Rewards Dollars awarded are rounded down to the nearest cent.
 
 **Rewards Gold Membership Fees** A member may cancel Rewards Gold Membership at any time but fees paid for Rewards Gold Membership are non-refundable. Wayfair reserves the right to change the Rewards Gold Membership fees on thirty (30) days' advance notice to Members. Wayfair processes cancellation requests immediately but a credit card provider may require several days to process a cancellation request. Wayfair is not responsible for delays caused by a credit card company or other third party.
 
@@ -266,7 +269,7 @@ Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Sh
 
 **Rewards Dollars Balance** Members can check the Rewards Dollars balance in their accounts at any time by logging in at My Account. A valid email address and password are required to view the Rewards Dollars balance in an account. Wayfair is not liable for any failure, delay or error in crediting Rewards Dollars to an account. Each Member is responsible for any and all activity occurring in or through his/her account, including the redemption of Rewards Dollars, whether or not the activity was authorized.
 
-**Inactivity/Cancellation** If a Member does not make a Qualifying Purchase or use his/her Rewards Dollars during the applicable Redemption Period, Wayfair will zero out any and all Rewards Dollars earned and also may cancel the Member's participation in the Rewards Program. A Member may cancel Rewards Program membership by calling 877-WAYFAIR (877-929-3247) and/or sending an email to service@wayfair.com. Upon cancellation, all Rewards Dollars in a Member's account are forfeited.
+**Expiration** If a Member does not make a Rewards-Eligible Purchase or use his/her Rewards Dollars during the applicable Redemption Period (see above), Wayfair will zero out any and all Rewards Dollars. A member may cancel out their Rewards Dollars Balance by calling 877-WAYFAIR (877-929-3247) and/or sending an email to service@wayfair.com, but Members recognized on any of the Participating Sites are unable to opt-out of the program.
 
 **Non-Transferability and Non-Aggregation of Rewards Dollars** Rewards Dollars and any other right, obligation or benefit of the Rewards Program may not be transferred, assigned, sold, traded or bartered by any Member or any other person, without Wayfair's prior written consent, which Wayfair may withhold in its sole discretion, and any attempt to do any of the foregoing shall be null and void. In addition, Rewards Dollars are for the Member's personal use only. Members may not aggregate Rewards Dollars from multiple accounts or use Rewards Dollars for the purpose of purchasing products from the Participating Sites on behalf of others or for the purpose of reselling such products to others.
 
