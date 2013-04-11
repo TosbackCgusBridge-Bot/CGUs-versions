@@ -36,3 +36,5 @@ Customer Care
 2800 Southcross Drive West  
 PO Box 1219  
 Burnsville, MN 55337-0219
+
+Copyright © Northern Tool + Equipment All Rights Reserved.
