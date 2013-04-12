@@ -1,4 +1,11 @@
-  United States Online Privacy Statement Effective Date: August 01, 2011  
+  United States Online Privacy Statement
+
+Effective Date: April 11, 2013
+
+  
+ 
+
+**What is Covered by This Statement?**  
   
 This Online Privacy Statement describes how American Express collects information when you:
 
@@ -12,7 +19,10 @@ This Statement also explains how American Express (or our Vendors) uses and shar
   
 All Internet sites have the ability to collect information about you. We encourage you to read the privacy statements of every site you visit.  
   
+  
 **What’s in this Online Privacy Statement:**  
+  
+What is Covered by This Statement?  
 How Do We Collect Information?  
 How Do We Use Information?  
 How Do We Share Information?  
@@ -42,7 +52,7 @@ Sometimes we (or our Vendors) collect information through Cookies or Other Web T
   
 **How Do We Use Information?**  
   
-We (or our Vendors) use information collected as described in this Statement, sometimes combined with information from Other Sources, in the following ways:
+We (or our Vendors) use information covered by this Statement, sometimes combined with information from Other Sources, in the following ways:
 
 *   To deliver products and services. For example, to:
     *   recognize you when you return to our sites;
@@ -76,7 +86,7 @@ We may share Personal Information as required or permitted by law:
 *   to combat fraud or criminal activity, and to protect the rights of American Express or others;
 *   within the American Express Family of Companies;
 *   with Vendors (who are required to safeguard Personal Information) that help us operate our business;
-*   with financial institutions, Co-brand Partners, and other Business Partners with whom we jointly offer products and services (but they may not use this information to independently market their own products or services);
+*   with financial institutions, Co-brand Partners, and other Business Partners with whom we jointly offer products and services (but they may not use this information to independently market their own products or services to you unless you have consented);
 *   with a purchaser of any of the American Express Family of Companies (or their assets). or
 *   with your consent.
 
@@ -91,15 +101,14 @@ We may share Non-Personal Information:
   
 You may tell us to stop sending you marketing information. We will still communicate with you in connection with servicing your account, fulfilling your request, or administering any promotion or any program in which you may have elected to participate. Materials we send you may still include some offers or promotions.  
   
-It may take some time for us to process your request and, consistent with applicable law, could take up to 30 days.  
+It may take some time for us to process your request, consistent with applicable law.  
   
 If you have more than one account with us, you must tell us your choices separately for each account.  
   
-**If you do not want to receive targeted online ads,** **Click here** **If you do not want to be tracked on our sites for reporting functions performed for our sites,** **Click here**  **To customize your direct marketing from us and to make other privacy choices, read below.** **Cardmembers:** Go to americanexpress.com, log in, and update your privacy preferences. or  
+**If you do not want to receive Targeted Advertising from American Express** **Click here**  **To customize your direct marketing from us and to make other privacy choices, read below.** **Cardmembers:** Go to americanexpress.com, log in, and update your privacy preferences. or  
 Click _unsubscribe_ on the bottom of e-mails and follow the instructions. or  
 Call 1-800-297-8378 (does not apply for e-mail opt-out).  
-_If your card is not issued by American Express, you must contact your issuer to opt out._   **Non-Personal Information Sharing Opt Out**  
-If you do not want us to share your Non-Personal Information covered by this Statement with our Business Partners for their own analysis, research, and marketing purposes, click here. **Publishing Customers:** American Express Publishing is not covered by this Statement. To see its privacy statement, go to amexpub.com/privacy/. **Global Prepaid Customers including PASS, reloadable prepaid cards, travelers cheques, and gift cards:** Call 1-800-722-8614. **Personal Savings Customers:** Call 1-800-446-6307. **Merchants:** Go to americanexpress.com/merchants, log in to Online Merchant Services, and select “_update your e-mail address;_” or  
+_If your card is not issued by American Express, you must contact your issuer to opt out._   If you do not want us to share your Non-Personal Information covered by this Statement with our Business Partners for their own analysis, research, and marketing purposes, click here. **Publishing Customers:** American Express Publishing is not covered by this Statement. To see its privacy statement, go to amexpub.com/privacy/. **Other Customers, including customers of Global Prepaid Personal Savings, and Serve:** Call 1-855-AXP-PRIV or visit the website associated with your product. **Merchants:** Go to americanexpress.com/merchants, log in to Online Merchant Services, and select “_update your e-mail address;_” or  
 Call 1-800-528-5200.  
   
 **What other choices do you have?**  
@@ -110,14 +119,13 @@ You can also:
 
 *   register for the National Do Not Call List at donotcall.gov/default.aspx;
 *   register for the Direct Marketing Association’s Mail Preference Service at dmachoice.org/register.php. and/or
-*   click _unsubscribe_ on the bottom of e-mails and follow the instructions.
+*   click _unsubscribe_ on the bottom of e-mails and follow the instructions or go to americanexpress/preferences.
 
-  
   
 **Other Information**  
   
-**How can Cardmembers update their Personal Information related to their Card account?**  
-Cardmembers can log in to their Card accounts at americanexpress.com to correct or update their Personal Information. They can also call the number on the back of their Card.  
+**How can you update your Personal Information?**  
+Cardmembers can log in to their Card accounts at americanexpress.com to correct or update their Personal Information. They can also call the number on the back of their Card. Non cardmembers can call the customer service number associated with their product.  
   
 **How do we keep your Personal Information safe and secure?**  
 We use reasonable administrative, technical, and physical security measures to protect your Personal Information. These measures include computer safeguards and secured files and buildings. Please do not send us any Personal Information through unsecured channels, including e-mail or social media sites.  
@@ -131,10 +139,8 @@ Our sites are not for children under 13 years old. We do not knowingly solicit d
 **Can this Statement change?**  
 We may change this Statement at any time. Changes are effective when we post them on this site.  
   
-  
 **Questions About this Statement?**  
-  
-If you have questions about this Online Privacy Statement, call 1-800-THE-CARD (1-800-843-2273) or the number on the back of your Card if you are a Cardmember.  
+If you have questions about this Online Privacy Statement, call 1-800-THE-CARD (1-800-843-2273).  
   
   
 **Glossary**  
@@ -143,7 +149,7 @@ If you have questions about this Online Privacy Statement, call 1-800-THE-CARD (
   
 **American Express Family of Companies -** American Express Company, American Express Centurion Bank, American Express Bank, FSB, American Express Travel Related Services, American Express Publishing, and any other company owned and/or controlled by American Express Company.  
   
-**Business Partners -** any third parties with which we conduct business and have a contractual relationship such as businesses that accept American Express. Business Partners are not Vendors.  
+**Business Partners -** any third parties with which we conduct business and have a contractual relationship such as businesses that accept American Express. Business Partners typically are not Vendors.  
   
 **Clickstream Data -** usage and browsing information, such as a user’s page viewing history and clicks on items within a website, usually stored in log files.  
   
@@ -161,10 +167,11 @@ If you have questions about this Online Privacy Statement, call 1-800-THE-CARD (
   
 **Personal Information -** information that can identify a person, such as name, address, telephone number, and e-mail address.  
   
+**Targeted Advertising -** Ads We, or our Vendors, display on websites outside the American Express Family of Companies based on the preferences or interests inferred from data collected from a particular computer or device regarding Web viewing behaviors over time and across different websites.  
+  
 **Third-Party Ad-Servers -** companies that provide the technology to place ads on websites and track ad performance.  
   
-**Vendor -** any third party that performs business operations on behalf of American Express, such as printing, mailing, and other communications services (e-mail, direct mail, etc), marketing, data processing, servicing, collections, or ad management. Vendors are not Business Partners.  
+**Vendor -** any third party that performs business operations on behalf of American Express, such as printing, mailing, and other communications services (e-mail, direct mail, etc), marketing, data processing, servicing, collections, or ad management. Vendors typically are not Business Partners.  
   
-Revised Online Privacy Statement FAQ  
   
 FEEDBACK
