@@ -77,9 +77,9 @@ You will be notified when your personal information is collected by any third pa
   
 **Customer Service,  
 CheapOair.com,  
-213 West 35th Street  
-Suite 1301  
-New York, NY 10001  
+135 W 50th Street  
+Suite 500  
+New York, NY 10020  
 cservice@CheapOair.com**  
   If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact TRUSTe. TRUSTe will serve as a liaison with us to resolve your concerns.  
   ADVERTISEMENT
