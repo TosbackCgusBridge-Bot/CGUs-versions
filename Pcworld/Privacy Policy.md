@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   10 features we want to see in the next Xbox April 10, 2013
-*   Forget Skynet, enter Seanet? Autonomous sea-faring robots are here April 10, 2013
-*   Bad news for BlackBerry 10: Survey says most Americans don't care April 10, 2013
+*   Dungeon Hunter 4 and the trouble with the free-to-play fun tax April 11, 2013
+*   Use Google Inactive Account Manager to control your online presence after you die April 11, 2013
+*   3D printing comes to phones and games at MakerBot's first hackathon April 11, 2013
 
 PCWorld Articles
 
-*   Phantom flying drone captures stunning, stable video April 10, 2013
-*   Want Microsoft Office on iOS or Android? You may wait until 2014 April 10, 2013
-*   How to switch back to Firefox's old download manager April 10, 2013
+*   Products with faster USB speeds to reach market in 2014 April 11, 2013
+*   US Congress panel approves Internet freedom bill April 11, 2013
+*   End is in sight for Intel's Atom netbook-specific processors April 11, 2013
 
   
 TechHive on Twitter (@TechHive)
