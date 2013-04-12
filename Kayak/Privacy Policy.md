@@ -42,7 +42,7 @@ KAYAK members and site visitors have control over the use of their personal data
 
 Protecting Your Information
 
-KAYAK has a security program intended to keep the information stored in our systems protected from unauthorized access. We store your information in secure data centers located in the United States. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business.
+KAYAK has a security program intended to keep the information stored in our systems protected from unauthorized access. We store your information in secure data centers located in the United States and in Switzerland. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business.
 
 Cookies (Not The Kind You Eat With Milk)
 
@@ -66,7 +66,7 @@ KAYAK does not knowingly collect PII information from people under the age of 18
 
 Our Website is Run from the United States
 
-Our website is run from the United States and is intended for U.S. customers. our servers and data centers are located in the U.S. If you are accessing our website from outside the U.S., by providing us information about you, you agree that the information may be transferred and stored in the U.S., a jurisdiction which may have different and/or less stringent privacy and data security protections than those of your own jurisdiction.
+Our website is run from the United States and is intended for U.S. customers. our servers and data centers are located in the U.S and in Switzerland. If you are accessing our website from outside the U.S., by providing us information about you, you agree that the information may be transferred and stored in the U.S. and in Switzerland, each a jurisdiction which may have different and/or less stringent privacy/data security protections than those of your own jurisdiction.
 
 Should We Evolve, Change, Self Actualise
 
