@@ -164,4 +164,4 @@ Need Help?
 *   Or Contact Us
 *   Or write to us at Ancestry.com  360 West 4800 North, Provo, UT 84604
 
-© 2002-2012 Ancestry.com
+© 2002-2013 Ancestry.com
