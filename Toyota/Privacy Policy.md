@@ -39,7 +39,7 @@
     *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
         driving range 3 /  
         mpge 4 Explore
-    *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
+    *   Highlander Hybrid $46,370 starting msrp 1 28/28 est. mpg 2 Explore Build
     *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
     *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
     *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpge 5 /  
