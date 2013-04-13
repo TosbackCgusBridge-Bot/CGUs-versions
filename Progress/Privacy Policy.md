@@ -38,6 +38,7 @@
     *   A5 Cabriolet
     *   S5 Cabriolet
     *   RS 5 Coupe
+    *   RS 5 Cabriolet
 *   A6
     *   The 2013 Audi A6 **Starting at $42,200\***
         
