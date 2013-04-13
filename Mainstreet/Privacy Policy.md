@@ -124,7 +124,7 @@ Please note that this Privacy Policy will not apply to your independent relation
 
 Questions or comments regarding this policy should be directed to privacy@thestreet.com. TheStreet reserves the right to modify this policy.
 
-Credit health &. ability to get better % rates. That's the Score. Brokerage Partners Sponsored Links
+Brokerage Partners Sponsored Links
 
 *   _MOST VIEWED_
 *   _MOST COMMENTED_
