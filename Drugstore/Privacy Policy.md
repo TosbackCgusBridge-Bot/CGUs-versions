@@ -97,9 +97,13 @@ By using our website (including use of our customer service line), you consent t
   
 **Your Comments**  
 We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at privacy@drugstore.com or write us:  
+  
 drugstore.com, inc.  
 Privacy Officer  
 411 108th Ave NE, Suite 1600  
 Bellevue, WA 98004  
+  
+1-800-drugstore (1-800-378-4786)  
+  
 Last updated: April 11, 2013  
 Copyright © 2013 drugstore.com, inc. All rights reserved.
