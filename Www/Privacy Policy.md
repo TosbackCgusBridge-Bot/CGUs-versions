@@ -208,6 +208,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *    Kori Schulman
     *   SoundCloud: (Privacy)
         *    White House
+    *   Thunderclap: (Privacy)
     
      Video &. Multimedia
     
@@ -261,6 +262,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: March 25, 2013
+Updated: April 12, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
