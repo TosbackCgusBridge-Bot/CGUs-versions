@@ -216,6 +216,16 @@ Home Offices: Bloomington, IL 61710-001
 
 7/12©
 
+Securities Issued by State Farm VP Management Corp. For more information, call 1-800-447-4930 (Mutual Funds) or 1-888-702-2307 (Variable Products).
+
+**Securities, insurance and annuity products are not FDIC insured, are not bank guaranteed and are subject to investment risk, including possible loss of principal.**
+
+State Farm VP Management Corp. is a separate entity from those State Farm entities which provide banking and insurance products.
+
+Neither State Farm nor its agents provide investment, tax, or legal advice.
+
+AP2013/04/1027
+
 Privacy Links
 
 *   State Privacy Rights
