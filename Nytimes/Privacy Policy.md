@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help A billion-dollar gift gives the Met a new perspective (Cubist)
+Search Help Look of the Moment: Catherine, the Duchess of Cambridge
 
-Also in Arts »
+Also in T Magazine »
 
-*   12-year-old building at MoMA is doomed
-*   Explore Lauder's world-class collection of Cubist art
+*   Southern exposure
+*   Cozy escapes, for the recluse and the foodie alike
 
   
 
