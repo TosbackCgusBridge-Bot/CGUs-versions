@@ -1,4 +1,4 @@
-DEUSESFRITBR Avril 2013
+DEUSESFRITBR Mars 2013
 
 *   Objet
 *   Mentions légales
@@ -120,17 +120,17 @@ Le présent contrat est conclu pour une durée indéterminée à compter de l'Ut
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
-*   Conditions générales d'utilisation
-*   CGU
-*   Conditions d'utilisation
-*   Conditions générales de vente » Forum - Webmaster
+*   Conditions generales d'utilisation
+*   Condition générales d'utilisation
+*   Cgu
+*   Conditions generales de vente » Forum - Webmaster
+*   Modèle conditions générales de vente gratuit » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Iphone probléme app store (Résolu) » Forum - IPhone
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Se désabonner canalsat » Forum - Vos droits sur internet
+*   Résiliation bouygues télécom » Forum - Bouygues Télécom
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
-*   Forum Internet
-*   Forum Windows XP
+*   Forum SFR
+*   Forum Bouygues Télécom
