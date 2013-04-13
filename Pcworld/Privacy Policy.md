@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Dungeon Hunter 4 and the trouble with the free-to-play fun tax April 11, 2013
-*   Use Google Inactive Account Manager to control your online presence after you die April 11, 2013
-*   3D printing comes to phones and games at MakerBot's first hackathon April 11, 2013
+*   Verizon kills the 20-month upgrade, halts device swaps April 12, 2013
+*   DARPA makes an indoor GPS chip that's smaller than a penny April 12, 2013
+*   PSA: Rockstar Games releases official Grand Theft Audio playlists on Spotify and iTunes April 12, 2013
 
 PCWorld Articles
 
-*   Products with faster USB speeds to reach market in 2014 April 11, 2013
-*   US Congress panel approves Internet freedom bill April 11, 2013
-*   End is in sight for Intel's Atom netbook-specific processors April 11, 2013
+*   Rackspace challenges lawsuit-happy patent holder April 12, 2013
+*   Designer shows off $17.8 million diamond-encrusted iPhone April 12, 2013
+*   Adoption of DDR4 memory facing delays April 12, 2013
 
   
 TechHive on Twitter (@TechHive)
