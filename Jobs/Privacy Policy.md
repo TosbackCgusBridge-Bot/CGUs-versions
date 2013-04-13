@@ -1,5 +1,5 @@
 **Employers:**   Post Jobs   |   Search Resumes  
-Jobs.net Find Jobs   |   Post a Resume   |   My Jobs.net Account   |   Career Advice  |   Resources  |  All Jobs  |  Career Fairs Protect Your Privacy and Safety
+Jobs.net Find Jobs   |   Post a Resume   |   My Jobs.net Account   |   Career Advice  |   Resources  |  All Jobs  |  Career Fairs  |  Create a Visual Resume Protect Your Privacy and Safety
 
 Effective Date: September 15, 2010
 
