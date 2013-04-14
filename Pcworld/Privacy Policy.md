@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Verizon kills the 20-month upgrade, halts device swaps April 12, 2013
-*   DARPA makes an indoor GPS chip that's smaller than a penny April 12, 2013
-*   PSA: Rockstar Games releases official Grand Theft Audio playlists on Spotify and iTunes April 12, 2013
+*   White House wants better privacy in cyber intelligence sharing plan April 13, 2013
+*   FAA says Hijack-a-jet app works only on simulator April 13, 2013
+*   Facebook Home panned by some early users April 13, 2013
 
 PCWorld Articles
 
-*   Rackspace challenges lawsuit-happy patent holder April 12, 2013
-*   Designer shows off $17.8 million diamond-encrusted iPhone April 12, 2013
-*   Adoption of DDR4 memory facing delays April 12, 2013
+*   Green tech: Wi-Fi, not storage, is the power hog, researchers say April 13, 2013
+*   Windows 8's lagging phone hampers PC sales, analyst says April 13, 2013
+*   Hackers said to have attacked WordPress blogs April 13, 2013
 
   
 TechHive on Twitter (@TechHive)
