@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   White House wants better privacy in cyber intelligence sharing plan April 13, 2013
-*   FAA says Hijack-a-jet app works only on simulator April 13, 2013
-*   Facebook Home panned by some early users April 13, 2013
+*   Should Samsung put its smartphones on a diet? April 14, 2013
+*   Shylock Trojan aims for global targets, Symantec warns April 14, 2013
+*   Movie tickets via NFC phones offered first in Singapore April 14, 2013
 
 PCWorld Articles
 
-*   Green tech: Wi-Fi, not storage, is the power hog, researchers say April 13, 2013
-*   Windows 8's lagging phone hampers PC sales, analyst says April 13, 2013
-*   Hackers said to have attacked WordPress blogs April 13, 2013
+*   Common security flaws leave applications open to amateur hackers, security report says April 14, 2013
+*   Rockmelt shifts focus, tests a PC interface to the digital life April 14, 2013
+*   YouTube videos play up the crude to appeal to youths April 14, 2013
 
   
 TechHive on Twitter (@TechHive)
