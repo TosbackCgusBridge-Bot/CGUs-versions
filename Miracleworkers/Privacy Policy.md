@@ -298,3 +298,5 @@ Contact Us|Terms &. Conditions|Privacy Guidelines
 Partner Sites: Therapy Jobs | Nursing Jobs | Allied Health Jobs | Job Search | IT Jobs | Management &. Executive Jobs
 
 Internships | Retail Jobs | Restaurant Jobs | UK Nursing Jobs | Jobs For Veterans
+
+This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
