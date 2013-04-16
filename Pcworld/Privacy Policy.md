@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Should Samsung put its smartphones on a diet? April 14, 2013
-*   Shylock Trojan aims for global targets, Symantec warns April 14, 2013
-*   Movie tickets via NFC phones offered first in Singapore April 14, 2013
+*   Adobe launches Lightroom 5 beta April 15, 2013
+*   Canon wants to help you learn photography with this DSLR simulator April 15, 2013
+*   Top 5 Things Your Car Knows About You April 15, 2013
 
 PCWorld Articles
 
-*   Common security flaws leave applications open to amateur hackers, security report says April 14, 2013
-*   Rockmelt shifts focus, tests a PC interface to the digital life April 14, 2013
-*   YouTube videos play up the crude to appeal to youths April 14, 2013
+*   Review: Slice your AVI files up into separate files with AVI Splitter April 15, 2013
+*   Facebook affirms its privacy commitment with national campaign April 15, 2013
+*   A vision for Microsoft’s smartwatch and four more Surface family members April 15, 2013
 
   
 TechHive on Twitter (@TechHive)
