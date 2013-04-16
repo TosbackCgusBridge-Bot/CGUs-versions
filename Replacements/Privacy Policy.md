@@ -71,13 +71,13 @@ Find This For Me!
 
 Use our industry-leading, no-obligation "Find This For Me" service to get the pieces you need - start here!
 
-300,000 Patterns!
+390,000 Patterns!
 
-We carry over 13 million pieces in old and new tableware and collectibles, some over 100 years old!
+We carry over 12 million pieces in old and new tableware and collectibles, some over 100 years old!
 
 Easy Returns
 
-30-day return policy on all purchases, satisfaction assured in 300,000 patterns!
+30-day return policy on all purchases, satisfaction assured in 390,000 patterns!
 
 Contact Us
 
