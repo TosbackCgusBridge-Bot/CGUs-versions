@@ -97,7 +97,7 @@ Klicken Sie in der rechten Spalte im untersten Kasten den Button "OPT-OUT"
 **6.3 Einsatz von weiteren Messverfahren (IVW)**  
 Unsere Website nutzt das „Skalierbare Zentrale Messverfahren" (SZM) der INFOnline GmbH (http://www.infonline.de) für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote.  
   
-Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie mit der Kennung „ioam.de" , „ivwbox.de“ oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet.  
+Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie mit der Kennung „ioam.de" , „ivwbox.de“, ein LocalStorage Objekt oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet.  
   
 Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen.  
   
