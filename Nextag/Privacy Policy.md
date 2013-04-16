@@ -10,7 +10,6 @@
 *   Sign Up
 *   Sign out
 *   Help
-*   0
 
 Search for:
 
