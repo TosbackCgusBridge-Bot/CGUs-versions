@@ -205,7 +205,6 @@ select a topic
 *   List Your Products
 *   Partner With Us
 *   In the News
-*   Management Team
 *   Contact Us
 *   Terms of Service
 *   Mobile App
@@ -321,7 +320,6 @@ Search our site All CategoriesApparelAppliancesAutomotiveBabyBooksComputerElectr
 *   Shop Local
 *   About Us
 *   In the News
-*   MegaDeal.jp
 
 *   Privacy Policy
 *   Terms of Service
