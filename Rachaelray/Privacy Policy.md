@@ -68,6 +68,7 @@ Rachael Ray
     *   The Cleaning Lady
     *   Evette
     *   How to cook like an Italian
+    *   J.M. Hirsch
     *   Josh Ozersky
     *   Last minute lady
     *   Louisa Shafia
