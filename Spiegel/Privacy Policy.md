@@ -392,10 +392,11 @@ Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     Versicherung vergleichen
 *   Bußgeld-  
     rechner
-*   Ferientermine
 *   Eurojackpot
+*   Lottozahlen
 
 *   AUTO UND FREIZEIT
+*   Ferientermine
 *   Bücher  
     bestellen
 *   eBooks  
