@@ -107,12 +107,11 @@
     *   TTS Roadster
     *   TT RS
 *   R8
-    *   The 2012 Audi R8 **R8 4.2 Starting at $114,200\***
+    *   The 2014 Audi R8 **R8 4.2 Starting at $114,900\***
         
         *   View R8 Overview
-        *   Build Your Audi R8
         
-        A rare and exclusive supercar with high-design, captivating refinement and a heritage of racing dominance. With a mid-mounted V8 or V10 engine, quattro® all-wheel drive and an aluminum and magnesium Audi Space Frame (ASF®), the R8 Coupe offers handling and balance worthy of any racetrack.
+        A rare and exclusive supercar with high-design, captivating refinement and a heritage of racing dominance. With a mid-mounted V8 or V10 engine, quattro® all-wheel drive and, Audi Ultra® lightweight technology, the R8 Coupe offers handling and balance worthy of any racetrack.
         
     *   Also Available
     *   R8 Spyder
