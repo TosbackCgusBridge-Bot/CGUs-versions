@@ -1,4 +1,4 @@
-Help
+BostonGlobe.com is currently available to all readers. Help
 
 **Boston.com**
 
@@ -13,7 +13,6 @@ Log In
 *   Subscribe:
 *   Digital
 *   Home Delivery
-*   Log In
 
 Search: Sections
 
@@ -231,7 +230,6 @@ Learn more
 
 My Account
 
-*   Log in
 *     My Saved List
 *   Manage home delivery
 
