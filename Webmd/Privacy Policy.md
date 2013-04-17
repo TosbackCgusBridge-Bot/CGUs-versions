@@ -125,9 +125,9 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     *   Quiz: Weird, Crazy Dreams
     *   Food &. Fitness Planner: Personalize Your Weight Loss Plan
     
-    WebMD the Magazine App
+    WebMD Allergy App for iPhone
     
-    Get every issue of WebMD the Magazine with a free subscription for your iPad.
+    Fight allergies with daily forecasts, local alerts, and personalized tips.
 *   Family &. Pregnancy
     
     Featured Content
@@ -168,9 +168,9 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     *   Quiz: Know How to Avoid The Next Toddler Meltdown?
     *   WebMD Vaccine Tracker: Manage Vaccinations for Your Entire Family
     
-    WebMD Baby App
+    WebMD Pregnancy App for iPhone
     
-    Get parenting tips, track schedules, and create a mobile baby book.
+    The big day is coming! Get organized and track baby's weekly development.
 *   News &. Experts
     
     News
