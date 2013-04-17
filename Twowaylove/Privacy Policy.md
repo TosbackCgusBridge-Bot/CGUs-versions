@@ -57,15 +57,7 @@ DATING DIRECTORY
     
     Add Link/URL →
     
-    Adding your dating or dating related website to TwoWayLove will put your site in front of people who are looking for the very thing you offer, additionally increasing your own Search Engine ranking, it really is a win-win.
-    
-    Add Link/URL - Basic →
-    
-    Basic link submission is free. You get a keyword rich backlink to your site. Your site and details will also be included in our Syndicated Feed (RSS), Twitter and Facebook page.
-    
-    Add Link/URL - Premium →
-    
-    Premium gives you everything in Basic, plus an enhanced package. priority validation, personal support, greater prominence, better SEO, lifetime inclusion, and more.
+    Adding your dating or dating related website to TwoWayLove will put your site in front of people who are looking for the very thing you offer, additionally increasing your own Search Engine ranking, it really is a win-win. Get a keyword-rich unique-page backlinked to your site. Your site and details will also be included in our Syndicated Feed (RSS), Twitter and Facebook page. Get personal support, greater prominence, better SEO, and more.
     
     On-Page Advertising →
     
