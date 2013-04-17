@@ -1,5 +1,4 @@
-*   **VI.Privacy Policy**
-    
+*   Privacy Policy
     1.  **The Type of Information the Service Collects:**
         1.  The following Privacy Policy summarizes the various ways we treat personally identifiable and other information about you and your computer, mobile or other device when you access, visit and/or use the Service. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites, applications, destinations, or services linked to from the Service.
             
