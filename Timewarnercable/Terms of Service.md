@@ -39,324 +39,121 @@ Search
 *   Careers
 *   Investor Relations
 
-Terms
+Privacy
 
 *   About Us
 *   Legal
-*   Terms, Conditions &. Policies
-*   Terms of Service
+*   Privacy Policy
 
-Terms of Service Back To Terms &. Conditions SHARE
+Website Privacy Policy Back to About Us SHARE
 
 *   Twitter
 *   Facebook
 *   LinkedIn
 
-PRINT Terms of Service WELCOME TO TIME WARNER CABLE!
+PRINT
 
-The services that you receive from Time Warner Cable are subject to the terms identified in your Residential Services Subscription Agreement, Work Order, Acceptable Use Policy, this Terms of Service, and any Addendums, as discussed in the Residential Services Subscriber Agreement. These agreements have been provided to you in your Connection Kit and are also available online at http://help.twcable.com/html/policies.html.
+The information Time Warner Cable collects about you at http://www.timewarnercable.com, and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability. Time Warner Cable, together with Road Runner and Time Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
 
-**Billing &. Payment**
+What Does This Privacy Policy Cover?
 
-We may request that you pre-pay the charges for your first month’s service and any installation or equipment fees are payable at the time of installation. Thereafter, we will bill you for your services every month in advance. Charges for additional items (for instance, Pay-Per-View movies and events, international and directory assistance calling, additional services and features) will be billed the following billing cycle. Your monthly Time Warner Cable bill will identify your recurring service charges, additional charges and applicable taxes, fees and surcharges. These taxes, fees and surcharges may include, among others, federal and state excise taxes and fees, state and local sales and business taxes and service-specific charges, such as federal and state universal service contributions, E911 support charges and regulatory and franchise fees. You may request from Time Warner Cable a list of applicable fees, taxes and surcharges.
+This Privacy Policy (the "Privacy Policy") applies to your use of the Website. This Privacy Policy does not govern Time Warner Cable’s treatment of information it collects and receives about you other than through this Website, for example in connection with any other services provided to you by Time Warner Cable. Time Warner Cable also has a Subscriber Privacy Notice that applies to its subscription services, which is located at http://help.twcable.com/html/policies.html.
 
-Payment in full for all billed charges, including additional charges and all taxes, fees and surcharges, must be received by the date indicated on your bill to avoid late fees and other charges. Please report any billing errors immediately. In order to receive credit for disputed charges, such charges must be reported within 30 days of the day on which you receive your bill unless otherwise specified under applicable law. A late fee may be assessed upon any outstanding undisputed balance due that remains after the due date appearing on your bill.
+This Privacy Policy covers how Time Warner Cable treats information that Time Warner Cable collects and receives about you via this Website, including the personal information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
-Nonpayment of any portion of your Time Warner Cable bill may result in interruption or disconnection of any and all services, including Digital Home Phone services. You are liable for payment for all services rendered by Time Warner Cable and billed to your account. It is your responsibility to mail or make payment in a timely manner to ensure receipt by TWC on or prior to the due date. If you know that your payment will be late, call our Customer Service department so we can make arrangements to avoid service interruption and reconnection fees, or, sign up for PayXpress and pay your bill online.
+How Does Time Warner Cable Collect and Use Information About You?
 
-All equipment, including converters, terminals, remote controls and cable modems provided by Time Warner Cable are the property of Time Warner Cable and must be returned if you move or terminate your service. Your account will be charged a fee for any equipment which is not returned to Time Warner Cable at the time your service is disconnected. This charge also applies should any of the equipment be stolen from your home or returned damaged beyond the normal wear and tear.
+Time Warner Cable will not share your personally identifiable information with third parties for their marketing purposes without your consent.
 
-**“Adult at Home” Policy**
+The information learned from this Website's users will help Time Warner Cable provide an enhanced online experience for its subscribers. Time Warner Cable tracks certain information about users (as further described below), including, but not limited to, the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., Road Runner). By having this information, Web pages optimized for a particular visitor's preferences are automatically made available to that visitor. Other use of this information may include review of the number of visitors to this Site as well other internal and administrative purposes.
 
-Our installers and technicians will not enter your home to perform any work unless a responsible adult is present. We realize this may cause an inconvenience for some of our customers, but this policy is essential to protect you and our employees.
+Personally identifiable data (as further described below) about visitors to this Site are collected by Time Warner Cable, for example, when users register or subscribe for newsletters, accounts or features, change services or service settings (such as your Digital Phone settings) on our Website, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, message board, blog, or other similar open forum on our Website, submit a comment or question to us using a "contact us" or similar feature on our Website, or send us an e-mail, or in any other way submit personal information to us via our Website.
 
-**Equipment**
+We may use your personally identifiable information to send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.
 
-Time Warner Cable will repair and/or replace the equipment we use to provide your services at no charge if the repair or replacement is not the result of your negligence, fault, or theft from your home. If you are experiencing problems with your service, contact your local Customer Service office. Customer Service contact information is available online at http://www.timewarnercable.com or you may call Customer Service by dialing \*611 from your Digital Home Phone. Time Warner Cable does not repair equipment owned by you such as DVD players, telephones and televisions and is only responsible for bringing service to the input of such equipment.
+Time Warner Cable sites (other than this Site), as well as any other third party sites linked to from this Site, may each have different privacy policies and practices. Time Warner Cable is not responsible for the information practices of non-Time Warner Cable sites, or channels or areas of this Site, that are operated by third parties. You should carefully review these other privacy policies in order to determine how each third party may use any personal information you provide.
 
-**Home Wiring**
+Here are the types of information Time Warner Cable gathers and how this information is used:
 
-The following notice will serve to inform you of your options regarding the home wiring located within your dwelling that is used to provide cable service. Home wiring is the cable which runs from your TV set to a point approximately twelve inches outside of your dwelling unit. It includes extra outlets, splitters, connections and fittings or wall plates attached to the wire but does not include devices such as converters, descramblers, CableCARDs, A/B switches, parental lockout devices, security devices and the like.
+Website Usage Information
 
-Pursuant to FCC regulations, all customers are given the option to acquire the home wiring within their dwelling unit upon termination of cable service. However, even prior to termination of cable service, we allow our customers to remove, replace, rearrange, repair or maintain any cable wiring located within the interior space of the customer’s dwelling unit so long as such actions do not interfere with our ability to meet FCC technical standards or to provide services to you or your neighbors. For example, you may not attach any device or equipment to your home wiring in a way that impairs the integrity of the local cable system, such as by creating signal leakage, or which may cause a violation of government regulations. Furthermore, you may not attach devices or equipment to the wiring which alone or together result in a degradation of signal quality to you or your neighbors.
+Time Warner Cable receives and stores certain types of website usage information whenever you interact with our Website. Here are the types of website usage information Time Warner Cable gathers and how it is used.
 
-If you choose to have us remove, replace, rearrange or maintain the wiring inside your home, you have the choice of paying our regular hourly service charge on a per-visit basis or of purchasing our optional line protection plan for a small monthly fee. This optional program covers most but not all home wiring problems. For example, it does not cover damage to home wiring caused by you or any third party should you attempt to undertake your own removal, replacement, rearrangement, repair, extension or maintenance of that wiring. Furthermore, we are not responsible for problems relating to the operation of customer-owned consumer electronics equipment such as televisions, VCRs, DVRs, home antennas, etc., which may be connected to home wiring. We are, however, responsible for problems relating to any equipment which you lease from us, other than problems caused by tampering, neglect or abuse.
+Cookies
 
-You also have the option of removing, repairing, rearranging or maintaining the home wiring yourself or of hiring a qualified outside contractor to do the work for you. It is extremely important that only high quality home wiring materials be used and that these materials be properly installed in order to avoid signal leakage and to maintain signal quality in compliance with FCC technical regulations. If you choose to install, replace or repair your own wiring, or hire a third party contractor to do it for you, we will be happy to furnish at cost the necessary wiring and connectors that will meet required technical standards, or provide you with a list of technical specifications for the equipment should you choose to purchase it elsewhere.
+We may use "cookies" to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our Web site and what you look at and purchase. They may store, for example, the information in your shopping cart, and/or your username and/or password. All of these purposes serve to improve and personalize your experience on our Website.
 
-_Please Note..._
+Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies (technically known as Flash “local shared objects”). However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web site or certain areas or features of the Web site.
 
-In the event improper installation by anyone other than us or the use of improper materials causes signal degradation and/or leakage, you may be held responsible for the cost of rectifying the problem. Also, we may be required under federal law to terminate your cable service until the problem can be remedied.
+Clear GIFs
 
-**Disconnection**
+We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies, in the Website and/or in our communications with you, for example, to enable us to know whether you have visited a Web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message.
 
-You may request that your services be disconnected at any time. We will schedule a disconnect appointment for you, or you may come to our cable office to return any Time Warner Cable equipment (converter boxes/remote controls/modems). Unless otherwise provided by applicable law, billing for any disconnected services will stop on the date that the service disconnection takes effect and all equipment is returned. If you are enrolled in a Price Lock Guarantee (“PLG”) package, you will be subject to an early termination fee if you disconnect your service before the end of your PLG term.
+IP Address and Clickstream Data
 
-**Moving?**
+Our server automatically collects data about your server's Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that's automatically assigned to your computer by your Internet service provider (i.e., if you are using your Road Runner account, us) whenever you're on the Internet. When you request pages from our Website, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another site or a search engine). the pages you visit on this Website. the site you visit after this Website. the ads you see and/or click on. other information about the type of Web browser, computer, platform, related software and settings you are using. any search terms you have entered on this Website or a referral site. and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Website. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider.
 
-If you are moving within our service area, we will be glad to schedule an appointment to install Time Warner Cable services at your new location. Please notify us at least 10 days prior to your move and we’ll arrange to transfer your services. Some fees and restrictions may apply. When you transfer your services, your account must be in current standing and any credits and charges from your previous service address will be transferred to your new account address. These credits and charges may take up to two months to appear on your Time Warner Cable bill.
+Ads and Content displayed to you on the Site may be customized to your interests and preferences, based on your personal information and web site usage information, including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
 
-Specific Terms Regarding Digital Home Phone Service
+Any or all of these activities with regard to web site usage Information may be performed on our behalf by our services providers.
 
-Time Warner Cable offers several different Digital Home Phone Calling Plans. All Digital Home Phone Calling Plans include popular calling features, including Call Waiting, Caller ID, Call Waiting ID, Call Forwarding, Speed Dialing, Three-Way Calling and Anonymous Call Rejection. Voice Mail and special features are available for an extra monthly charge. All rates and fees are subject to change. Current rates are available at http://www.timewarnercable.com.
+Short Message Service
 
-**Calling Plans**
+We may make available a service through which you can receive messages on your wireless device via short message service (“SMS Service”). If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes from Time Warner Cable.
 
-*   Digital Home Phone Unlimited Nationwide service allows you to call anyone, anytime, anywhere in the United States, U.S. Territories and Canada as frequently as you like for one simple monthly price, based on the package of services you purchase from Time Warner Cable. Current rates and offers are available at http://www.timewarnercable.com. Additional charges apply for taxes, fees, international calling and calls to directory assistance and operator services. Digital Home Phone may be used to make calls using other long distance providers, calling cards and dial around (10-10-) services.
+Your wireless carrier’s standard rates apply to these messages, and you may change your mind at any time by following the instructions on the Site or in the message you receive. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges. To use the SMS Service, you must be 18 years of age or older and reside in the United States. You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
-*   Digital Home Phone Unlimited Instate allows you to call anyone, anytime, anywhere within your state as frequently as you like for one simple monthly price based on the package of services you get from Time Warner Cable. Information regarding current rates, offers and identifying your calling area is available at http://www.timewarnercable.com. Additional charges apply for taxes, fees, international calling and directory assistance and operator services calls. Digital Home Phone Unlimited may be used to make calls using other long distance providers, calling cards and dial around (10-10-) services.
+You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. We may also access the content of your account and/or wireless account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
 
-*   Digital Home Phone Unlimited Local allows you to call anyone, anytime, anywhere within the boundaries of your local calling area as frequently as you like for one simple monthly price, based on the package of services you purchase from Time Warner Cable. Information regarding current rates, offers and local calling area information is available at http://www.timewarnercable.com. Additional charges apply for taxes, fees, international calling, directory assistance and operator services calls. Digital Home Phone Unlimited Local may be used to make calls using other long distance providers, calling cards and dial around (10-10-) services.
+Third Party Ad Services and Providers
 
-*   International OnePrice™ Calling allows you to call more than 100 countries for an additional flat monthly fee. The International OnePrice™ Calling Plan is available to residential customers subscribing to any Digital Home Phone Calling plan identified above and applies only to calls terminating on landline phones and to calls terminating on cell phones based in the following countries: China, Hong King, India, Macau, Paraguay and Thailand. A current list of countries included in the International OnePrice™ Calling Plan is available at http://www.timewarnercable.com. Calls to other locations will incur charges at current Time Warner Cable rates, which can be found at http://www.timewarnercable.com. Calls to satellite phones, special services numbers, including international toll-free and caller-paid services (900 numbers), calls to chat lines and calls to cell phones are not included and will incur additional per-minute charges. Current rates and offers are available at http://www.timewarnercable.com. Additional charges apply for taxes, fees, directory assistance and operator services calls. Three-way calling and call forwarding features cannot be used with the International OnePrice™ Calling Plan. The International OnePrice™ Calling Plan provides up to 1,000 minutes of calling time per month, based upon your monthly Time Warner Cable billing cycle. TWC reserves the right to monitor usage for possible abuse of service.
+We may use third-party advertising services companies to serve ads when you visit our Website. We are not using ad serving companies as of the date of this Privacy Policy, however we may add such companies at a later date, and if we do so we will revise this Privacy Policy accordingly.
 
-*   Seasonal Service allows you to temporarily suspend Digital Home Phone service without losing your telephone number or access to 911 and voicemail. When you have Seasonal Service, you cannot make any outbound calls, except calls to 911 or to Time Warner Cable service, and all inbound callers will be sent to your voicemail, if active, or hear a busy signal. To activate Seasonal Service, you must be a current Digital Home Phone service subscriber. You must also identify the date that Seasonal Service should become active and the date when your Digital Home Phone service should be restored. Seasonal Service may be activated up to two times per year, and, when activated, Seasonal Service must remain in place for a minimum of two months and a maximum of six months. Seasonal Service may not be activated for more than six months per year. When activating Seasonal Service, your account balance must be current and you must provide a temporary billing address, pay your bill in advance for the period during which Seasonal Service will be active, or sign up for automatic payment. If you have more than one Digital Home Phone line, you must activate Seasonal Service on all lines at the same time. You may not change your directory listing selection or activate or deactivate voicemail while Seasonal Service is active. Please note that Seasonal Service will not support alarm or home monitoring systems, as outbound calling capability will be suspended while Seasonal Service is active. Current rates and offers are available at http://www.timewarnercable.com.
+These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer Web site at http://www.networkadvertising.org/understanding-online-advertising.
 
-Your Digital Home Phone charges will appear as a series of line items on your Time Warner Cable bill. You may view details of your outbound international, directory assistance and operator service calls and charges at any time by logging in to the Time Warner Cable secure web site, which you may access by clicking on “MyServices” at http://www.timewarnercable.com. Also, you may request a mailed copy of your recent outbound calling details by contacting your local Customer Service office. Customer Service contact information is available online at http://www.timewarnercable.com or you may call Customer Service by dialing \*611 from your Digital Home Phone. If you are an International OnePrice™ Calling Plan subscriber, calls to countries included in the International OnePrice™ Calling Plan will be identified but charges will only appear for calls that are not included in the plan or exceed the monthly calling limit.
+Personal Information
 
-Except for calls made under the International OnePrice™ Calling Plan, all calls to international locations will be billed on a per-minute basis. Current rates for calls to all locations outside the United States, Canada, Mexico, the Caribbean and U.S. Territories can be found at http://www.timewarnercable.com. Charges for directory assistance, operator services, voicemail, unpublished listings and seasonal service plans (“Additional Charge Services”) are not included in Digital Home Phone Calling Plans and will be billed separately, based on usage. Additional information about Digital Home Phone Calling Plans, rates and additional charge services may be found at http://www.timewarnercable.com.
+Time Warner Cable also receives and stores information that may personally identify you. Visitors to the Website who decide to register or login to timewarnercable.com in order to request a more personalized Website experience, or accept any of the various promotions and other product or service offerings (i.e., security downloads) that may be made available on the Website from time to time, may be asked to enter certain types of personally identifiable information that will allow Time Warner Cable to provide those promotions and offerings to the visitor. The types of personally identifiable information that may be collected include: name, postal address, email address and phone number. Time Warner Cable account number, CPNI customer code, Website login, user ID and/or password information. social security number. short message service or text message address or other wireless device address. instant messaging address. credit card or other payment information. demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual. Certain other information collected, such as security questions, may be used by Time Warner Cable to verify your identity in the event that you lose or forget your Website login credentials.
 
-Digital Home Phone is compatible with most home monitoring and security systems. Time Warner Cable does not install, support or service third party monitored security systems. If you plan to use Digital Home Phone with your home monitoring and security system, you must contact your service provider in order to test the compatibility of the service with Digital Home Phone. Time Warner Cable will not be responsible for the cost of conducting any tests or configuring your monitoring or security system.
+Does Time Warner Cable Ever Share Information with Other Parties?
 
-**Emergency 911 Access**
+Disclosure of Information to Outside Parties:
 
-Our Digital Home Phone service cable modem is electrically powered, and Digital Home Phone service, including access to emergency 9-1-1 and home security services, may not operate in the event of an electrical power outage. If a power outage occurs in your home and if your cable modem is equipped with a battery, it may enable back-up service for a limited period of time or not at all, depending on the circumstances. If your local TWC system loses power or experiences other service issues, the battery in your cable modem, if any, will not provide back-up service and Digital Home Phone will not be available. You may not move your Digital Home Phone voice-enabled modem to a new address. If you do so, Enhanced 9-1-1 services will not operate properly as emergency operators will be unable to accurately identify your location in an emergency. If you would like to establish service at a new address you must call Time Warner Cable.
+Time Warner Cable will not disclose information about you to any other party except under the circumstances as described below, or as otherwise provided in this Privacy Policy or required or permitted by law:
 
-**National Do Not Call List**
+If you give us your consent, we may share your personally identifiable information with third parties (such as co-sponsors of our sweepstakes, contests and other offerings) pursuant to the terms of your consent.
 
-If you would like to add or remove your number from the National Do Not Call List, you may do so by calling 1-888-382-1222 or online at www.donotcall.gov.
+Time Warner Cable may share your information with its affiliates, service providers and other third parties that help to operate our business and this Website and deliver the products and services available on or through the Website.
 
-Specific Provisions Regarding Video Services
+When you contribute to a "public" area or feature of our Website, such as a chat room, bulletin board, blog or other open forum that we may make available on or through our Website, the information that you submit will be made available to other users. For this reason, we recommend that you not submit any sensitive information on these areas of the Site, including your full name, home address, phone number, financial information, or other information that would enable users to locate you.
 
-**Products, Services and Pricing**
+Time Warner Cable provides your information to trusted partners who work on behalf of or with Time Warner Cable and under confidentiality agreements. However, these companies do not have any independent right to share this information.
 
-Time Warner Cable provides customers with a wide selection of programming choices. All customers must subscribe to Basic service to access other programming choices, including tiers of service and services offered on a per program or per channel basis. A complete list of programming choices, together with prices and terms and conditions for subscription are available in the pamphlet provided to you upon subscription to our service, upon request, or online at http://www.timewarnercable.com
+When Time Warner Cable believes it should, it will respond to subpoenas, court orders, legal process, and to establish or exercise Time Warner Cable’s legal rights or defend against legal claims.
 
-**Instructions on How to Use Your Cable Service**
+Time Warner Cable shares information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to Time Warner Cable’s property or the physical safety of any person, violations of Time Warner Cable’s terms of use or as otherwise allowed by law.
 
-Instructions on how to use your cable service are outlined in our Connections Kit, which may be provided to you when your services are installed. This information is also available by request from your local Time Warner Cable office or on-line at http://www.timewarnercable.com.
+In the event that Time Warner Cable, or any affiliated entity, or substantially all of its assets related to a particular geographical region, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
 
-**Pricing and Service Changes**
+  Security
 
-Unless otherwise provided by applicable law, Time Warner Cable will notify you 30 days in advance of any price or service change. Notice of these changes may be provided on your monthly bill, as a bill insert, as a separate mailing, in the Legal Notice section of the newspaper, on the cable system channel(s) or through other written means.
+Time Warner Cable will take steps to protect the security and integrity of all sensitive information provided to this Site. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers.
 
-**Complaint Procedures**
+You are responsible for maintaining the strict confidentiality of your account password and any Website login or user ID information, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, login or user ID, whether or not such access or use has been authorized by or on behalf of you.
 
-If you have a complaint about your service, billing, or terms and conditions of service, you may call us directly using the Time Warner Cable toll free number provided on your monthly bill. In addition, where applicable, we have identified on your monthly bill the franchising authority that you may contact should we fail to resolve your complaint.
+In the event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.
 
-**Maintenance**
+Time Warner Cable online products and services and applications are for the sole use of Time Warner Cable customers in managing their accounts and the products and services they receive. If you choose to provide access to certain of your account data to third parties (for example, you forward voice mail sound files to third parties via our Digital Phone Manager product) Time Warner Cable cannot be held responsible for any release of account or personal data that occurs as a result of such transmissions or access that you provide to others.
 
-Our technicians must periodically test and occasionally repair our cable equipment throughout the cable system. Cable repair may cause a temporary loss of cable service to an entire neighborhood known as a “maintenance outage.” If your cable is not working properly, contact Customer Service. If a maintenance outage is affecting your area, you will be informed when you call. If the problem is not being caused by maintenance, we will determine the source of the problem and will restore your service as quickly as possible.
+Changes to This Privacy Policy
 
-**Service &. Installation**
+Time Warner Cable will occasionally update this Privacy Policy at Time Warner Cable’s sole discretion. Please check the Website frequently to see recent changes. Such changes and/or modifications shall become effective immediately upon posting thereof. Without limiting the foregoing, Time Warner Cable may occasionally notify you by email about changes to the Website and/or this Privacy Policy, or provide notices of such changes by displaying notices or links to notices to you generally on the Website.
 
-Installation and service call appointments are scheduled in advance. If we cannot meet a scheduled commitment, we will attempt to notify you and reschedule the appointment for a convenient time.
+Contacting Us
 
-**Service Interruptions**
+If you have any questions regarding this Privacy Policy, or the privacy practices of Time Warner Cable in connection with this Website, you may contact us at TWC.privacy@twcable.com.
 
-Time Warner Cable maintains a high standard of technical operations within our cable systems and responds promptly to most service interruptions. On occasion, service interruptions may arise due to unforeseen problems such as power outages, electrical storms, severe weather conditions, equipment failures, auto accidents involving utility poles, and in some cases, loss of signal at the origination point of the program. In addition, twice a year our satellite reception is disrupted by activity from the sun. This disturbance, which affects most cable and satellite companies within the United States, occurs at the end of February and again in October, due to direct alignment of the sun with our satellite and our earth stations. Unless otherwise provided by applicable law, if you experience a verifiable service outage of more than two hours and notify us in a timely manner, we’ll credit your account for such loss of service.
-
-**Sports Blackouts**
-
-Professional sporting events, both local and national, may be subject to blackouts per the league’s broadcast rules. Due to these blackouts, not all programming and services will be available in all areas and programming may be subject to change.
-
-**Cable Service Theft**
-
-Unauthorized cable hookups are a violation of the Residential Services Subscription Agreement. Tampering with or altering a cable system or converter to receive unauthorized services is a Federal crime punishable by fines and/or imprisonment. We have the technology necessary to detect unauthorized hookups, and we conduct periodic system checks.
-
-**Consumer Guide to Cable and Home Entertainment Equipment**
-
-With cable TV connected to your home entertainment system, you enjoy the best choice, convenience and value. Extra steps may be required for cable TV to work effectively with various equipment. This guide provides information about when cable TV is compatible with your equipment and when it may not be, as well as other information on how to use your cable service. If you don’t find your particular situation described in this guide, please call us or visit our website. (You’ll find our phone number on the accompanying billing statement.) We’ll work with you to determine the cable setup and equipment appropriate for your needs.
-
-Time Warner Cable provides video in both analog and digital formats. Some of our video services are scrambled (analog) or encrypted (digital) and require equipment from us to view, while others are made available “in the clear” and therefore can be viewed on direct-connect TVs and other devices. In order to view a given programming offering, you must (1) subscribe to the appropriate package or tier, and (2) have the necessary equipment, as described below.
-
-**Analog “In The Clear” Video**
-
-Analog “in the clear” video can be viewed on most TVs without additional equipment. However, some older TVs and other consumer electronics devices directly connected to the cable TV system cannot tune to all of the in-the-clear analog channels we provide. For example, older analog TV sets with mechanical tuners typically cannot receive any broadcast stations or other channels we offer that are carried on channel positions other than VHF 2 through 13. Channel positions are indicated on the channel line-ups periodically provided to subscribers and available on the Time Warner Cable website. Even if you have a TV, VCR or DVR advertised as “cable ready,” it still may not be able to receive all of the channels we provide, or be able to tune in all cable channels without some interference.
-
-If any of these situations applies to your equipment, you will need an extended tuner called a converter to enable you to tune in to all of the unscrambled analog channels to which you subscribe. Converters are available for a nominal fee from our company or may be purchased from a retail store (where available).
-
-To help ease the confusion about whether a TV, VCR or DVR is really “cable-ready,” the Federal Communications Commission does not allow TVs, VCRs and DVRs manufactured or imported for sale in the United States after October 31, 1994 to be marketed as “cable-ready” or “cable compatible” unless they meet certain channel tuning and other performance standards.
-
-**Digital “In The Clear” Video**
-
-Much of the digital video that we provide is encrypted and therefore only can be viewed using digital cable ready equipment, such as a digital cable set-top box or a CableCARD-equipped Unidirectional Digital Cable Product (“UDCP”). See below for additional details. However, digital services provided as part of the Basic Service Tier, including local broadcast television stations’ standard definition (“SD”) and high definition (“HD”) signals, are transmitted in the clear. As a result, they may be viewed using digital TVs and other devices that include a QAM tuner (also known as “ClearQAM” devices) directly connected to the cable TV system. Please refer to the manual for your digital TV or other television reception device to determine whether it includes a QAM tuner and, if so, how to utilize your device to access the in-the-clear digital services to which you subscribe.  
-
-PLEASE NOTE: Occasionally it is necessary for us to make adjustments to the way that the programming services we carry are organized on our physical plant. For customers with digital cable set-top boxes, this is a seamless process.However, a customer using a ClearQAM device connected directly to our cable TV service may not be able to continue viewing certain in-the-clear channels until he or she accesses the settings menu on their device and performs a new channel scan. in this event, you would not need to obtain any additional equipment. Each ClearQAM device is unique, and the procedure for performing a channel scan is specific to that device. Therefore, we unfortunately cannot provide you with step-by-step instructions. However, if you lose access to certain services on a ClearQAM device or cannot access all of the in-the-clear services to which you subscribe, we recommend that you consult the manual that came with your ClearQAM device or contact the manufacturer directly.
-
-**Scrambled Video**
-
-In addition, because we scramble certain channels we offer (both analog and digital), you will need a descrambler if you want to receive scrambled channels regardless of whether your TV, VCR or DVR is capable of receiving all of our unscrambled channels or is “cable ready.” For instance, because all customers do not subscribe to every programming service offered, we may use scrambling technology to deliver a secure signal to authorized homes. Scrambling is a method of technically altering a signal to render it unviewable on a customer’s TV or other equipment without an authorized descrambler.
-
-The number of scrambled channels and service levels vary among different cable systems. However, all Pay-Per-View and Video On Demand, and most digital programming (other than digital broadcast signals) will require a descrambler. With a descrambler, customers may then choose from several different service options and often can change packages without the need for a home appointment.
-
-Descramblers are available for a fee from our company, and will consist of either a converter box with a built-in descrambler or a converter box that comes with a separate descrambler module called a CableCARD that that plugs into the box. You also may purchase a CableCARD-ready UDCP at certain retail outlets, but to descramble services you will need to lease a CableCARD from Time Warner Cable. You can purchase and use any UDCP with a Time Warner Cable-provided CableCARD to access our one-way cable TV offerings.
-
-The availability of CableCARD-compatible equipment from third parties is outside our control. Moreover, due to device limitations, UDCPs cannot access our “two-way” cable services, such as the electronic program guide, Pay-Per-View, Video on Demand, StartOver™ (where available) or switched digital video (“SDV”) services. Customers will be able to access these two-way services using descrambler equipment available from Time Warner Cable.
-
-Please note that we are the only authorized provider of any CableCARD or other type of descrambler used to receive our services. You should be aware that the use of any descrambler on our cable system obtained from a third party and not authorized by us is illegal and is subject to criminal prosecution pursuant to 47 U.S.C. § 553. If you have any questions relating to the need for separate descrambler and converter devices, please call us for additional information.
-
-In addition, in the event that you require a converter or descrambler for service, some features on your TV, VCR or DVR may be limited. For example, without special additional equipment, you may not be able to use picture-in-picture, channel review and display features. You may not be able to record one program while viewing another or record consecutive programs on different channels. We can provide you with special equipment you may need to better enable utilization of these features. Except in the case of descramblers, this equipment may also be purchased from local retail outlets. If such equipment is purchased or leased from us, a custom installation fee and/or a monthly equipment rental fee may apply. In addition, if you can see images or hear sound from scrambled channels that you do not subscribe to, you may request those channels be blocked. Please call us for details.
-
-Switched Digital Video (“SDV”) and the Tuning Adapter
-
-You should be aware that we intend to continue to expand our deployment of SDV two-way technology. SDV allows us to use bandwidth more efficiently by delivering certain channels only on an as-needed basis. As a result, SDV enables us to increase the number of high-definition channels and other programming services we offer. As indicated above, channels that are delivered using SDV cannot be accessed on one-way CableCARD-compatible devices available at retail, but can be received through equipment available from Time Warner Cable. Also, as we continue to deploy Tru2way technology in our cable systems and as devices incorporating Tru2way technology become available at retail, customers also will be able to access our two-way services using such devices.
-
-In addition, Time Warner Cable has worked with the rest of the cable industry and TiVo Inc. to develop an external device called the Tuning Adapter. The Tuning Adapter is designed to work in conjunction with compatible UDCPs (such as HD TiVo and Moxi HD digital video recorders (“DVRs”) and certain Media Center PCs connected to CableCARD-equipped Digital Cable Tuners (also known as OCURs) and running the Microsoft Windows 7 operating system) to allow you to receive programming delivered using SDV technology, but not our other interactive features (such as the Electronic Programming Guide, Video On Demand, and other two-way services that, by design, your UDCP cannot access) while you continue to enjoy all the features of your DVR. For more information, please visit http://www.timewarnercable.com/tuningadapter. 
-
-**Special Equipment**
-
-In cases where you require a converter and/or a descrambler, special equipment is available to make your cable service more compatible with your existing home electronics equipment. Installation and equipment charges may apply.
-
-Bypass switches - If you would like to receive the portion of your one-way cable lineup which is unscrambled directly from your television rather than through the converter, a “bypass switch” feature is available. A bypass switch will allow for the simultaneous recording and viewing of different programs, the consecutive recording of programming on different channels, and the use of picture-in-picture displays in most cases where at least one of the channels is not scrambled. Depending on availability, the switch may be part of your converter or descrambler, or it may be a separate device.
-
-Parental lockout devices - If you find any of the channels included in the service levels you have requested to be objectionable, you can arrange for the installation of a device, or program a device you may already have, to restrict the viewability of such channels.
-
-Custom setups - If you would like to receive two scrambled signals at the same time (for example, so that you can watch one channel while recording another) it may be necessary to install different equipment or even two descramblers on one TV or DVR.
-
-We’re committed to helping you get the most out of your cable television service. Please feel free to contact us so that we may discuss the cable setup and equipment appropriate for your needs. Please also let us know if you are experiencing equipment compatibility problems and we will work to find the best solution for you. As new technologies and services become available, additional equipment compatibility problems may arise that may require other special equipment or solutions.
-
-**Compatible Remote Controls**
-
-We use converters or descramblers that work in conjunction with some universal remote controls available for purchase at retail stores. These universal remotes may be used in place of the ones we provide at a nominal monthly fee. The following is a representative list of compatible universal remote controls currently available from retail stores.
-
-**BRAND** **MODEL**  
-**Logitech Harmony** 880 966208-0403  
-H659 966193-0403  
-915-000002 966230-0403  
-966187-0403 9662300-0403  
-890  
-  
-  
-  
-**Master Remote Control** RFS100 RSF200  
-  
-  
-**One For All** URC-8820 URC-6131N  
-  
-  
-**Phillips** PH301S PM435S  
-  
-  
-**RCA** RCU310 RCU300TMS  
-RCR450 RCR460  
-D770 RCR860  
-RCR660 RCR412C  
-RCR612  
-  
-  
-  
-**Sony** RMVL600 RMV310  
-RMV202 RMAX1400  
-  
-  
-**Universal Remote** R5G R7G  
-FX1 URC-R76  
-URC-R5G URCRF10  
-URCRF20  
-  
-  
-  
-**Zenith** ZEN760 ZN5DSS
-
-Although every effort has been made to provide you with a complete and accurate list of universal remote controls, other remotes might be available that will work with your home electronics equipment. Should you have a question about the compatibility of a remote control, please call us.
-
-_Please Note..._
-
-Although these remote controls are compatible with the converters, descramblers or other equipment we currently offer, they may not be functional should equipment technology change.
-
-Specific Terms Regarding TWC WiFi™ Service  
-
-To use the TWC WiFi™ service (the “WiFi Service”) you must read and agree to these Terms of Service.
-
-**General**
-
-These Terms of Service, as well as your TWC Customer Agreement (if applicable), form a binding agreement between you and Time Warner Cable Inc. (and its affiliates and subsidiaries) (“TWC”, “we”, “us”).
-
-By accepting these Terms of Service, you represent that you are of legal age to agree to these Terms of Service or, if you are a minor accessing the WiFi Service as a “Sub User” under a TWC residential customer account, that you have obtained your parent’s or legal guardian’s consent, and the consent of the primary account holder (if different), to do so. If you do not agree to these Terms of Service, you should not check the “I have read and agree to the Terms of Service” box and may not use the WiFi Service.
-
-**Time Warner Cable Customers**  
-If you are a Time Warner Cable Business Class customer, the terms of your Time Warner Cable Business Class Master Agreement (including any usage restrictions, disclaimers and limitations on liability) are hereby incorporated into, and made a part of these Terms of Service, and shall apply to your use of the WiFi Service.
-
-If you are a Time Warner Cable residential customer, the terms of the following agreements and policies (collectively, the “Residential Service Agreement”) (including any usage restrictions, disclaimers and limitations on liability) are hereby incorporated into, and made a part of these Terms of Service, and shall apply to your use of the WiFi Service:
-
-*   the Time Warner Cable Residential Services Subscriber Agreement and all Customer Agreements referred to therein. and  
-    
-*   the Time Warner Cable Subscriber Privacy Notice.  
-      
-    
-
-The WiFi Service shall be considered part of TWC’s “Services,” as that term is defined and used in the Time Warner Cable Business Class Master Agreement or the Residential Service Agreement, as applicable (your “TWC Customer Agreement”). If any provision of these Terms of Service is inconsistent with the terms of your TWC Customer Agreement, these Terms of Service will control solely as to your use of the WiFi Service.
-
-**WiFi Service Access for Time Warner Cable Customers**
-
-A. If you are (i) receiving a Time Warner Cable Business Class Data Service, or (ii) are an authorized employee or branch office of a Time Warner Cable Business Class Data Service customer, you may access the WiFi Service free of charge using the email address and password provided through your (or your employer’s, as applicable) Time Warner Cable Business Class customer account.
-
-B. If you are a Time Warner Cable residential customer who subscribes (i) to Time Warner Cable home Internet service at a qualifying level as determined by TWC or (ii) to Time Warner Cable Mobile Internet service, you may access the WiFi Service free of charge using the email address and password provided through your Time Warner Cable residential customer account.
-
-C. In no event will you or the applicable Time Warner Cable account holder be entitled to receive any refunds or credits for any interruption or failure of the WiFi Service.
-
-**WiFi Service Access for Patrons of a Time Warner Cable Customer**  
-If you are not a Time Warner Cable customer who qualifies to receive the WiFi Service as described in Section 3 above but are the patron of a Time Warner Cable customer that is offering a WiFi Service access point at the customer’s location, you may access the WiFi Service at such location by following the instructions on the WiFi Service sign-in page. Your access to the WiFi Service will be limited to a maximum of two hours within any 24-hour period. You will not be entitled to receive any refunds or credits for any interruption or failure of the WiFi Service.
-
-**WiFi Service Access with Access Pass**  
-If you are not a Time Warner Cable customer who qualifies to receive the WiFi Service as described in Section 3 above, you may access the WiFi Service using an “Access Pass” if Access Passes are available in your area. Where available, you may purchase an Access Pass by following the instructions on the WiFi Service sign-in page. Access Passes can be purchased for 1-hour, 24-hour, 7-day and 30-day access period.
-
-In order to purchase an Access Pass, you must create a WiFi Service account by providing all information requested on the WiFi Service registration pages, including a valid credit card number as the payment method for the Access Pass you select. You agree to pay all fees charged for the WiFi Service based upon the Access Pass you select, plus any applicable taxes. Charges will be incurred at the time of purchase. In the event we are unable to charge WiFi Service fees to the credit card number you have provided, you remain responsible for any such fees and agree to pay by another means acceptable to us. You will not be entitled to receive any refunds or credits for any interruption or failure of the WiFi Service.
-
-Each Access Pass entitles you to a continuous period of WiFi Service commencing as of the time of your Access Pass purchase and continuing for the time period you have selected (either 1 hour, 24 hours, 7 days or 30 days). You do not need to stay logged to the WiFi Service during your Access Pass access window, and are free to sign out and sign back in again at any time prior to the expiration of that window.
-
-**WiFi Service Access with Promotion Code**  
-If you are not a Time Warner Cable customer who qualifies to receive the WiFi Service as described in Section 3 above, and you received a promotion code for a free WiFi Service trial period, you are entitled to access the WiFi Service for free for the trial period. You can redeem your promotion code by entering it on the WiFi Service sign-in page.
-
-Use of a promotion code entitles you to a continuous period of WiFi Service commencing as of the time you enter your promotion code and access the WiFi Service and continuing for the free trial period. You do not need to stay logged to the WiFi Service during your free trial period access window, and are free to sign out and sign back in again at any time prior to the expiration of that window. You will not be entitled to receive any refunds or credits for any interruption or failure of the WiFi Service.
-
-**Devices and Coverage**  
-If you are a Time Warner Cable customer who qualifies to receive the WiFi Service as described in Section 3, there is no restriction on the number of devices you may use to connect to the WiFi Service, provided however, that no more than three devices can be connected simultaneously under your account at any one time. For all other customers receiving the WiFi Service, there is no restriction on the number of devices you may use to connect to the WiFi Service, provided however, that no more than two devices can be connected simultaneously under your account at any one time.
-
-Devices will automatically be disconnected from the WiFi Service after 15 minutes of inactivity.
-
-To access the WiFi Service, you must be located within the coverage area of an available access point, and you must have a WiFi enabled device that meets the technical specifications for the WiFi Service. In addition, if you are a Time Warner Cable customer accessing the WiFi Service at no charge, your Time Warner Cable account must be in good standing.
-
-**Auto Connect**  
-Your WiFi Service may include an “Auto Connect” feature which if provided by TWC, will automatically log your WiFi-enabled device on to the WiFi Service when the device is within the coverage area of an available access point. Where available, the Auto Connect feature provides automatic log-on for 60 days, after which you would need to reselect the option.
-
-**CableWiFi™ Roaming**  
-If you are outside of our WiFi Service coverage area, you may be able to access the WiFi hotspots of one of our roaming partners for free by looking for the “CableWiFi™” network name. In order to use these WiFi hotspots, you must be a Time Warner Cable Business Class Data Services customer, or a Time Warner Cable residential customer who subscribes to: Time Warner Cable home Internet service at a qualifying level as determined by TWC. or Time Warner Cable Mobile Internet service. If you choose to use a CableWiFi hotspot, you will no longer be accessing Time Warner Cable’s WiFi network but instead will be roaming on the network of one of our roaming partners. These Terms of Service do not apply when you are roaming on another provider’s network. You will be subject to additional terms and conditions determined by the applicable provider (including usage conditions and/or restrictions that may differ from Time Warner Cable’s usage policies). In addition, that provider’s privacy policy will apply to your use of the provider’s network. Your use of the CableWiFi service may be terminated or suspended by us or our CableWiFi roaming partners if we or our roaming partners believe these Terms of Service or the applicable terms and conditions of our CableWiFi roaming partners have been violated.
-
-**Consent to Data Collection and Use**  
-To provide the WiFi Service to you, we and our partners and licensors may need to collect data about you, including your Time Warner Cable email address and password, the configuration of your WiFi-enabled device and the unique device identifier (“Device ID”) associated with your device (such as a serial number and/or MAC address). We also may collect usage data relating to your use of the WiFi Service, which data will be collected in the aggregate and linked only to your Device ID. You hereby agree and consent to our and our partners' and licensors' collection, use, transmission, processing and maintenance of such data in connection with our provision of the WiFi Service (including for purposes of improving the WiFi Service, contacting you regarding the WiFi Service or other TWC products or services, and providing customer support and maintenance for the WiFi Service).
-
-We will use and disclose any personally identifiable information that we may collect from you in connection with your use of the WiFi Service (for example, your email address) in accordance with the terms of the Time Warner Cable Subscriber Privacy Notice.
-
-**Your Responsibilities**  
-You may not provide any person who is not a member of your household with access to the WiFi Service, whether for a fee or otherwise. You agree to take reasonable precautions to prevent others from gaining unauthorized access to your WiFi Service account. You will be responsible for all activities taking place under your WiFi Service account.
-
-You must (a) provide accurate and complete WiFi Service sign-in and registration information, (b) provide all equipment (i.e., a WiFi enabled device that meets the technical specifications for the WiFi Service) to connect to the WiFi Service, (c) protect the password, username and security information you use to access the WiFi Service, (d) notify us immediately of any unauthorized use of your WiFi Service account, and (e) comply with all applicable local, state, federal and international laws and regulations, including copyright and intellectual property rights laws, in your use of the WiFi Service.
-
-**Disclaimer of Warranties**  
-THE WIFI SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, WHATSOEVER INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN THOSE WARRANTIES THAT ARE IMPLIED BY, AND INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER, THE LAWS APPLICABLE TO THESE TERMS OF SERVICE. WE MAKE NO WARRANTIES THAT THE WIFI SERVICE WILL BE UNINTERRUPTED OR ERROR FREE, SECURE, OR FREE OF VIRUSES, WORMS, DISABLING CODE OR CONDITIONS, OR THE LIKE, OR THAT THE WIFI SERVICE WILL PERFORM AT A PARTICULAR SPEED, BANDWIDTH OR THROUGHPUT RATE.  
-
-THE WIFI SERVICE SHOULD NOT BE RELIED ON FOR CRITICAL USES. THE WIFI SERVICE USES RADIO TRANSMISSIONS, SO YOU MAY NOT BE ABLE TO USE THE WIFI SERVICE IF YOUR WIRELESS DEVICE IS NOT WITHIN RANGE OF AN AVAILABLE ACCESS POINT. EVEN WITHIN A COVERAGE AREA, THERE ARE MANY FACTORS THAT MAY IMPACT AVAILABILITY AND QUALITY OF THE WIFI SERVICE, INCLUDING NETWORK CAPACITY, TERRAIN, TREES, PLACEMENT OF BUILDINGS AND THE CHARACTERISTICS OF YOUR WIRELESS DEVICE AND ANY DEVICE TO WHICH IT IS ATTACHED. DATA DELAYS AND OMISSIONS MAY OCCUR.
-
-WE MAKE NO WARRANTIES AS TO THE SECURITY OF YOUR COMMUNICATIONS VIA THE WIFI SERVICE OR THAT THIRD PARTIES WILL NOT GAIN UNAUTHORIZED ACCESS TO OR MONITOR YOUR COMPUTER(S) OR OTHER DEVICES OR ONLINE WIRELESS COMMUNICATIONS. YOU AGREE THAT NEITHER WE NOR ANY OF OUR AFFILIATES OR SUBSIDIARIES, OR ANY OF OUR OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS (COLLECTIVELY, THE “TWC PARTIES”) WILL HAVE ANY LIABILITY FOR ANY SUCH UNAUTHORIZED ACCESS. YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE WIFI SERVICE IS AT YOUR SOLE RISK AND THAT YOU ARE SOLELY RESPONSIBLE FOR SECURING YOUR EQUIPMENT AND COMMUNICATIONS.
-
-**Limitation of Liabilities**  
-IN NO EVENT (INCLUDING NEGLIGENCE) WILL TWC OR ANY OF THE OTHER TWC PARTIES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF, INABILITY TO USE, OR THE QUALITY OF, THE WIFI SERVICE. FURTHER, OUR LIABILITY, AND THE LIABILITY OF THE OTHER TWC PARTIES, RELATING TO THE WIFI SERVICE WILL NOT EXCEED, AND YOUR EXCLUSIVE REMEDY FOR ANY LOSS, DAMAGE OR INJURY ARISING FROM YOUR USE OF THE WIFI SERVICE (REGARDLESS OF THE NATURE THEREOF) IS LIMITED TO, THE FEE(S) PAID BY YOU FOR THE WIFI SERVICE.
-
-**Indemnification**  
-If a third party sues TWC based on your use of the WiFi Service, you will indemnify TWC (in other words, make us whole) for any losses, including reasonable attorneys’ fees, that TWC suffers.
-
-**Changes to These Terms of Service**  
-We reserve the right to change these Terms of Service at any time without prior notice to you by amending the online version posted on the WiFi Service website. Any such changes to the Terms of Service will be effective upon posting of the revised Terms of Service on the WiFi Service website. Your continued use of the WiFi Service following any change to these Terms of Service constitutes your consent to such change and your agreement to be bound to the Terms of Service as so modified.
-
-**Suspension or Termination of Rights**  
-We may suspend, restrict or terminate your access to or use of the WiFi Service at any time and for any reason (including if we believe that you have violated or acted inconsistently with the letter or spirit of these Terms of Service or your TWC Customer Agreement) and without prior notice to you, and you agree that we will have no liability to you as a result of such suspension, restriction or termination. We reserve the right to take any steps that we believe are necessary or appropriate to enforce and/or verify your compliance with these Terms of Service and, where applicable, the terms of your TWC Customer Agreement.
-
-**Miscellaneous**  
-If a court or similar body determines that a portion of these Terms of Service is invalid or unenforce­able, the remaining portion of these Terms of Service will remain in full force and effect. The invalid or unenforceable portion should be interpreted as closely as possible (consistent with the law in your area) so as to reflect the intention of the original. Except with our prior written consent, you may not transfer or assign to any other person (in other words, make another person legally responsible for) the rights granted by or your obligation to comply with these Terms of Service.
-
-These Terms of Service, together with your TWC Customer Agreement (if applicable), constitute the entire agreement between you and TWC relating to the WiFi Service. You are not entitled to rely on any other agreements or undertakings relating to the WiFi Service.
+Last updated: September 2012.
 
 Products
 
