@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Adobe launches Lightroom 5 beta April 15, 2013
-*   Canon wants to help you learn photography with this DSLR simulator April 15, 2013
-*   Top 5 Things Your Car Knows About You April 15, 2013
+*   Facebook 6.0 delivers new look to iOS apps April 16, 2013
+*   Microsoft exec talks mobile smack, trashes iOS as 'boring,' Android as 'a mess' April 16, 2013
+*   Have a dog laugh at you when you lose a ball in Duck Hunt Pinball April 16, 2013
 
 PCWorld Articles
 
-*   Review: Slice your AVI files up into separate files with AVI Splitter April 15, 2013
-*   Facebook affirms its privacy commitment with national campaign April 15, 2013
-*   A vision for Microsoft’s smartwatch and four more Surface family members April 15, 2013
+*   Keep your calendar out of the cloud with Efficient Calendar April 16, 2013
+*   Lawmakers question patent complaint process at USITC April 16, 2013
+*   American Airlines grounds all flights on computer glitch April 16, 2013
 
   
 TechHive on Twitter (@TechHive)
