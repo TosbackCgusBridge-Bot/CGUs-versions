@@ -1,12 +1,13 @@
 Skip to main content
 
 *   Membership
+*   Blog
 *   Fun Stuff
 *   Parents
 *   Products
 *   Help
 
-Language Select ENGLISH PORTUGUÊS FRANÇAIS ESPAÑOL DEUTSCH play now Privacy Policy
+play now Privacy Policy
 
 **Print**
 
@@ -129,4 +130,4 @@ Company
 *   Careers
 *   Affiliates
 
-Activate Card Parent Tools Unlock Items Language Select ENGLISH PORTUGUÊS FRANÇAIS ESPAÑOL DEUTSCH Club Penguin™ Disney Canada Inc. © Disney. All rights reserved. \* Updated on January 11, 2012 | Terms of Use | Privacy Policy \*
+Activate Card Parent Tools Unlock Items Language Select DEUTSCH ENGLISH ESPAÑOL FRANÇAIS PORTUGUÊS Club Penguin™ Disney Canada Inc. © Disney. All rights reserved. \* Updated on January 11, 2012 | Terms of Use | Privacy Policy \*
