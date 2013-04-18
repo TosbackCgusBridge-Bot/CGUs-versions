@@ -185,7 +185,7 @@ Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_
   
   
   
-Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | New! Privacy Policy | Your Privacy Rights | New! Terms of Service  
+Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | Privacy Policy | Your Privacy Rights | Terms of Service  
 United Online FTD Flowers | Memory Lane | MyPoints | NetZero | Juno | MySite
 
 © 1995-2013 Juno Online Services, Inc. Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
