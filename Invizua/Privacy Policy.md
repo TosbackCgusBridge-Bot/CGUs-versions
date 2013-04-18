@@ -23,7 +23,7 @@ Home Omniscope Download Forums Support Company   Knowledge Base
     *   Terms of Use
 *   Why Omniscope?
 
-Privacy Policy Visokio Privacy Policy Statement
+Privacy Policy Visokio Privacy Policy Statement What we do with data about you, and data you may send to us
 
 Protecting the privacy and data belonging to our clients and users of our site(s) is important to Visokio. This Privacy Policy describes how we use and protect any information or data files you provide to us.
 
