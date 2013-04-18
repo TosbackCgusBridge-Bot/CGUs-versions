@@ -26,7 +26,7 @@ Back to Top
 
 HOW WE USE YOUR INFORMATION
 
-We use your personal information to (i) deliver products that you have ordered. (ii) to contact you or the product recipient(s) in the event of any order or delivery difficulties. (iii) for verification purposes. (iv) to respond to your inquiries. (iv) to market our products and services to you by providing you with information about our merchandise, promotions, services, Kohl's Charge and Site. and/or (v) for other purposes typically associated with electronic and mobile commerce web sites and tools. By using this Site, you agree to the terms of this Policy and Kohl’s Corporation’s (and its affiliates’) use of your information as described in this Policy.
+We use your personal information to (i) deliver products that you have ordered. (ii) to contact you or the product recipient(s) in the event of any order or delivery difficulties. (iii) for verification purposes. (iv) to respond to your inquiries. (iv) to market our products and services to you by providing you with information about our merchandise, promotions, services, and Site. and/or (v) for other purposes typically associated with electronic and mobile commerce web sites and tools. By using this Site, you agree to the terms of this Policy and Kohl’s Corporation’s (and its affiliates’) use of your information as described in this Policy.
 
 Back to Top
 
