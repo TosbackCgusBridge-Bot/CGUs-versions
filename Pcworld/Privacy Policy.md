@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Facebook 6.0 delivers new look to iOS apps April 16, 2013
-*   Microsoft exec talks mobile smack, trashes iOS as 'boring,' Android as 'a mess' April 16, 2013
-*   Have a dog laugh at you when you lose a ball in Duck Hunt Pinball April 16, 2013
+*   Need to control your futuristic bionic robot hand? There's an app for that April 17, 2013
+*   Testing cell networks across America: Part One April 17, 2013
+*   Nintendo game purchased at Goodwill for eight bucks is a $15,000 collectors’ find April 17, 2013
 
 PCWorld Articles
 
-*   Keep your calendar out of the cloud with Efficient Calendar April 16, 2013
-*   Lawmakers question patent complaint process at USITC April 16, 2013
-*   American Airlines grounds all flights on computer glitch April 16, 2013
+*   Intel invokes Apple's Knowledge Navigator to envision future smartphones April 17, 2013
+*   Why Mailbox for iOS is a better email app for business April 17, 2013
+*   Microsoft adds two-factor authentication to keep accounts secure April 17, 2013
 
   
 TechHive on Twitter (@TechHive)
