@@ -1,4 +1,4 @@
-TheStreet Network: TheStreet | StockPickr | BankingMyWay | RealMoney Powered by  
+TheStreet Network: TheStreet | StockPickr | BankingMyWay | RealMoney
 
 *   Home 10 simple ways to avoid college debt
 *   tax  
