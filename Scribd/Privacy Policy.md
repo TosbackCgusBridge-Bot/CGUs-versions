@@ -11,7 +11,7 @@ posted this on March 02, 2009 12:05 am
 
 *   Tweet
 
-March 18, 2013
+April 18, 2013
 
 Scribd values the privacy of the users, subscribers, publishers, members, and others who visit and use the Scribd Platform (collectively or individually, “You” or “Users”).
 
@@ -47,7 +47,7 @@ This Privacy Notice is incorporated into and is subject to the Scribd Platform T
 
 **3\. When Scribd Discloses Information**
 
-*   Scribd does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent, except that if you have provided us with an email address, Scribd may provide a hashed version of it to its advertising partners, RapLeaf and Bizo, to enable better targeted advertising where RapLeaf and Bizo already possesses your email address.  If RapLeaf or Bizo do not already have your email address in their records, they cannot use the hashed version that we provide.  For more information on RapLeaf’s privacy practices, and to opt out, please visit https://www.rapleaf.com/privacy.  For more information on Bizo's privacy practices, and to opt out, please visit http://www.bizo.com/businessProfessionals/index
+*   Scribd does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent, except that if you have provided us with an email address, Scribd may provide a hashed version of it to its advertising partners, RapLeaf, Bizo, and LiveRamp, to enable better targeted advertising where RapLeaf, Bizo, and LiveRamp already possesses your email address.  If RapLeaf, Bizo, or LiveRamp do not already have your email address in their records, they cannot use the hashed version that we provide.  For more information on RapLeaf’s privacy practices, and to opt out, please visit https://www.rapleaf.com/privacy.  For more information on Bizo's privacy practices, and to opt out, please visit http://www.bizo.com/businessProfessionals/index. For more information on LiveRamp's privacy practices, and to opt out, please visit http://liveramp.com/data-privacy-policy/.
 *   Scribd may disclose aggregated or other types of non-personally identifiable information to third parties for various purposes, including marketing or promotional uses. For example, Scribd may disclose non-personally identifiable information to interested third parties to assist them in understanding the usage, viewing, and demographic patterns on the the Scribd Platform.
 *   Please be aware that any personally identifiable information that you voluntarily choose to display on the Scribd Platform – such as when you publish attribution credits for documents or profile information – becomes publicly available and may be collected and used by others without restriction.
 *   We may disclose User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services. fulfill orders. conduct data analysis and create reports. offer certain functionality. and assist Scribd in improving the Scribd Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
