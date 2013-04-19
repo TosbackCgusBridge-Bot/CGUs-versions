@@ -97,6 +97,8 @@ Because Chrysler operates globally, we may transfer your Personal Information wi
 
 If you are visiting from Canada, the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more strict than U.S. law, please note that you are transferring your personal data to Chrysler in the United States. By providing your personal data you consent to that transfer.
 
+Chrysler complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and adheres to the Safe Harbor privacy principles. Information on both Safe Harbors may be found at http://www.export.gov/safeharbor/.
+
 CHANGES TO THIS PRIVACY STATEMENT BY CHRYSLER
 
 In the future we may change our Privacy Statement and we will post the new Privacy Statement on our Websites or Applications. Your continued use of this Website or Application following a change in the Privacy Statement represents consent to the new Privacy Statement to the fullest extent permitted by law. We encourage you to periodically review this Privacy Statement.
