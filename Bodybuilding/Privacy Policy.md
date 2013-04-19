@@ -10,7 +10,9 @@ Bodybuilding.com Terms Of Use, Privacy Policy, And IPhone EULA by Bodybuilding.c
 *   Forum Rules
 *   Social Media Policy Disclaimer
 *   Contacting Us
+*   EU Conditions Of Use
 
+  
 Bodybuilding.com Terms Of Use1. Introduction
 
 Welcome to the Internet sites of Bodybuilding.com. The Bodybuilding.com sites include Bodybuilding.com, BodySpace, TeenBodybuilding.com, Bodybuilders.com, and other Internet sites on which these terms of use are posted. Bodybuilding.com sites are collectively referred to herein as "Site," Sites," "we," "us" or "our."
