@@ -107,7 +107,7 @@
     *   TTS Roadster
     *   TT RS
 *   R8
-    *   The 2014 Audi R8 **R8 4.2 Starting at $114,900\***
+    *   The Audi R8 **R8 4.2 Starting at $114,900\***
         
         *   View R8 Overview
         
