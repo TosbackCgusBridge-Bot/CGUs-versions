@@ -14,17 +14,21 @@ Skip to Content
 
 *   ChangeClose GO We could not determine your location
     
-    Our services may not be available in your area.  
-      
-    Please enter the ZIP Code for your location. If you entered your ZIP Code correctly, visit cablemover.com to contact the cable company serving your area.
+    Check that your ZIP code is correct.
+    
+    If your ZIP code is correct, click on www.cablemover.com to find the cable company serving your area.
     
     Our services may not be available in your area
     
-    You are visiting from an area we don’t currently service. Please enter your home ZIP Code, or visit CableMover.com to find a provider in your area.
+    Make sure you entered your zip code correctly.
+    
+    If you entered your zip code correctly, visit cablemover.com to contact the cable company serving your area.
     
     Cookies are not enabled
     
-    You do not have cookies enabled. In order for us to serve you better, please enable cookies
+    You do not have cookies enabled.
+    
+    In order for us to serve you better, please enable cookies.
     
     Please change location
 
