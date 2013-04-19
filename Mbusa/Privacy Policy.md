@@ -144,4 +144,4 @@ We use cookies to enable MBUSA to automate access and data entry functions of ou
 **Disabling Cookies**  
 You may adjust your Web browser to either alert you of the use of cookies or refuse to accept cookies. For Internet Explorer or AOL users, you can click on the Start button and then select Control Panel, Internet Options, and the Security tab. If you click on the Custom button, you will be able to see the cookie options. For Netscape users, in the browser, select File, Preferences, and then Advanced to view the cookie options. Be aware that if you elect not to accept cookies, the Site may not function properly or may not permit access.
 
-/mercedes policies \[ \] true
+/mercedes policies \[ { "vehicleClass" : "E" , "vehicleBodyStyle" : "SDN" , "vehicleMessage" : "Build available in late April" } ,{ "vehicleClass" : "E" , "vehicleBodyStyle" : "WGN" , "vehicleMessage" : "Build available in late April" } \] true
