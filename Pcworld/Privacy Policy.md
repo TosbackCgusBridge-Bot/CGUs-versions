@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Need to control your futuristic bionic robot hand? There's an app for that April 17, 2013
-*   Testing cell networks across America: Part One April 17, 2013
-*   Nintendo game purchased at Goodwill for eight bucks is a $15,000 collectors’ find April 17, 2013
+*   Failed authentication frequently thwarts online shoppers April 18, 2013
+*   TomTom ditches Nike for new GPS sport watches April 18, 2013
+*   Six-legged Mantis Walking Machine will slowly lumber into your nightmares April 18, 2013
 
 PCWorld Articles
 
-*   Intel invokes Apple's Knowledge Navigator to envision future smartphones April 17, 2013
-*   Why Mailbox for iOS is a better email app for business April 17, 2013
-*   Microsoft adds two-factor authentication to keep accounts secure April 17, 2013
+*   U.S. carriers set up warnings to prevent 'bill shock' April 18, 2013
+*   US Senate moves toward Internet sales tax vote April 18, 2013
+*   TSMC aims to tighten mobile chip manufacturing race with Intel April 18, 2013
 
   
 TechHive on Twitter (@TechHive)
