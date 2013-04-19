@@ -20,11 +20,12 @@ KidsHealth from Nemours for Parents for Kids for Teens
 
 Teachers - Looking for Health Lessons? Visit KidsHealth in the Classroom What Other Parents Are Reading
 
-*   Helping With Homework
-*   Power Player: Steven's Story
-*   After-School Snacks
-*   Flu Prevention
-*   Weekly Pregnancy Calendar
+*   All About Allergies
+*   Scary News Report? What to Say
+*   Safety Tips: Baseball
+*   Easy Meal: Confetti Quinoa
+*   Connect With Us: Social Media
+*   Pregnant? Your Baby's Growth
 
   
 Privacy Policy and Terms of Use KidsHealth>. Parents>. KH Misc.>. Privacy Policy and Terms of Use
