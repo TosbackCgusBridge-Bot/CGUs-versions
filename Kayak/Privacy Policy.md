@@ -1,34 +1,38 @@
-_Effective as of November 8, 2012_
+_Effective as of April 18, 2013_
 
 Our goal is to make KAYAK the most trusted company in online travel.
 
-KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates to help you make your purchase. Registration on KAYAK is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares.
+KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates to help you make your purchase. Registration on KAYAK is strictly voluntary. You do get some valuable information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares.
 
 What's Your Sign?
 
-KAYAK does not collect any of your personally identifiable information (“PII”) when you do basic searches on the site. However, certain services we provide require you to authorize us to collect PII, including your name (and the traveler name, if different), email address, phone number, password, credit card information and billing address. Our software uses the PII to personalize and manage the KAYAK website for you. Here are some examples of services we can provide if you authorize us to use your PII:
+KAYAK does not collect any of your personally identifiable information (“PII”) when you do basic searches on the site. However, certain services we provide require you to authorize us to collect PII, including your name (and the traveler name, if different), email address, phone number, password, credit card information, passport number and billing address. Our software uses the PII to personalize and manage the KAYAK website for you. Here are some examples of services we can provide if you authorize us to use your PII:
 
-With your credit card information and billing address, we can facilitate your reservations. and
+With your credit card information and billing address, we can facilitate your reservations.
 
-If you choose KAYAK personal trip management service (the “My Trips Service”), you authorize us to collect certain parts of the travel information in order to create and maintain your travel itineraries.
+Your name, travel dates, destination, itinerary, supplier (airline, hotel etc.), passport number, email address, telephone number, credit card information and billing address may be necessary to process your booking on our site.
 
-So, remember, if you do decide to use any of these KAYAK services and give us information about you, you are telling us that this information is true, accurate and current. Also, you are telling us that you have the authorization to provide us with that information.
+If you choose KAYAK personal trip management service (the “My Trips Service”), you authorize us to collect your travel information in order to create and maintain your travel itineraries.
+
+So, remember, if you do decide to use any of these KAYAK services and give us PII about you, you are telling us that this PII is true, accurate and current. Also, you are telling us that you have the authorization to provide us with that PII.
 
 In order to make our site more efficient, we may also collect certain information (such as destination or site usage behavior) based on your use of KAYAK. We may use this information to display advertising that you find interesting and suppress advertising that you might find boring or annoying. For example, we might show you travel offers from your home airport. Also, we may use this information to send you targeted email-marketing messages that you might find interesting.
 
-To help us debug problems with our software (rare as they are ;) ), we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us.
+To help us debug problems with our software, we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us.
 
 We'll Keep You In The Loop
 
-When you choose to register with us, KAYAK logs you in automatically using your email address. This makes it easier as you don't have to create and remember a login identifier. The use of your email address for login also allows KAYAK to assist you with forgotten passwords issues. If you do register with us, KAYAK will save your information and recognize you regardless of where you login. So if you are visiting friends and using their computer, we'll know it's you and display your searches and preferences when you do login.
+When you choose to register with us, KAYAK logs you in automatically using your email address. This makes it easier as you don't have to create and remember a login identifier. The use of your email address for login also allows KAYAK to assist you with forgotten passwords issues. If you do register with us, KAYAK will save your information and recognize you regardless of where you login. So if you are using a friend's computer or mobile device, we'll know it's you and display your searches and preferences when you do login.
 
-KAYAK gives you the option of receiving emails from us. We think they are quite amusing, but you may not laugh, and so we allow you to opt out any time. Our emails are sent from a KAYAK address and are sent to your real email address. If you are a registered user and send email booking confirmations to our My Trips Service, we will recognize you. If you’ve never registered on KAYAK and you send us email booking confirmations, we’ll send you an email asking you to register. We’ll also send you an email if you send us your email booking confirmations but we are unable to recognize the travel provider or otherwise to create your consolidated itinerary. Every email that we send has an opt-out URL, so you can be unsubscribed when you want. We do hate spam at KAYAK and suspect that you do too.
+KAYAK gives you the option of receiving emails from us. We think they are quite amusing, but you may not laugh, and so we allow you to opt out any time. Our emails are sent from a KAYAK address and are sent to your real email address. If you are a registered user and send email booking confirmations to our My Trips Service, we will recognize you. If you’ve never registered on KAYAK and you send us email booking confirmations, we’ll send you an email asking you to register. We’ll also send you an email if you send us your email booking confirmations but we are unable to recognize the travel provider or otherwise to create your consolidated itinerary. Every email that we send has an opt-out URL, so you can be unsubscribed when you want.
 
 In This Case Sharing Is Not Caring
 
 We may share information you provide us with third parties for our legitimate business purposes, including vendors who perform services on our behalf. For example we may share your name, contact information, and billing information with our vendors in order to process your booking request. We may also share your information from time to time as otherwise described to you at the time of collection.
 
-What's yours is yours. We won't sell your name, email address, phone number, credit card information or billing address to anyone. There might be an exception in the event KAYAK itself is sold or if there is otherwise a change in corporate ownership. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that information can be collected and used by others.
+What's yours is yours. We won't sell your name, email address, phone number, credit card information, passport number or billing address to anyone. There might be an exception in the event KAYAK itself is sold or if there is otherwise a change in corporate ownership. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that PII can be collected and used by others.
+
+If you book on our site, we will share your PII with the selected hotels, airlines and car rental companies to complete your booking and/or to comply with applicable law. We may also share this PII with our corporate affiliates.
 
 From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.
 
@@ -42,13 +46,13 @@ KAYAK members and site visitors have control over the use of their personal data
 
 Protecting Your Information
 
-KAYAK has a security program intended to keep the information stored in our systems protected from unauthorized access. We store your information in secure data centers located in the United States and in Switzerland. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business.
+KAYAK has a security program intended to keep the PII stored in our systems protected from unauthorized access. We store your PII in secure data centers located in the United States and in Switzerland. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business.
 
 Cookies (Not The Kind You Eat With Milk)
 
-When you visit KAYAK we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on you computer in a small file. For example, when you decide to login as a KAYAK member, we store encrypted information. We and our advertising partners may use transparent pixels that, if used, allow us and our advertising partners to track website usage information, such as the number of times a given web page has been viewed and whether and when you have opened a HTML email.
+When you visit KAYAK we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on you computer or mobile device in a small file. For example, when you decide to login as a KAYAK member, we store encrypted information. We and our advertising partners may use transparent pixels that, if used, allow us and our advertising partners to track website usage information, such as the number of times a given web page has been viewed and whether and when you have opened a HTML email.
 
-KAYAK does make money by selling advertising as well as referrals from searches on our site. We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+KAYAK does make money by selling advertising as well as referrals from searches on our site. We use third-party advertising companies to serve ads when you visit our web site. These companies may use PII (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
 To learn how to manage how we – and our vendors– use cookies and other tracking tools, please click here.
 
@@ -62,15 +66,15 @@ Although we work with responsible third parties, their business policies may inc
 
 Big Kids Only Please
 
-KAYAK does not knowingly collect PII information from people under the age of 18. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
+KAYAK does not knowingly collect PII from people under the age of 18. If we become aware of the fact that a minor is attempting to submit this PII, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
 
 Our Website is Run from the United States
 
-Our website is run from the United States and is intended for U.S. customers. our servers and data centers are located in the U.S and in Switzerland. If you are accessing our website from outside the U.S., by providing us information about you, you agree that the information may be transferred and stored in the U.S. and in Switzerland, each a jurisdiction which may have different and/or less stringent privacy/data security protections than those of your own jurisdiction.
+Our website is run from the United States and is intended for U.S. customers. our servers and data centers are located in the U.S and in Switzerland. If you are accessing our website from outside the U.S., by providing us PII about you, you agree that the PII may be transferred and stored in the U.S. and in Switzerland, each a jurisdiction which may have different and/or less stringent privacy/data protection and data security protections than those of your own jurisdiction.
 
 Should We Evolve, Change, Self Actualise
 
-KAYAK reserves the right to modify this Privacy Policy at any time. If there are material changes to this statement on how KAYAK will use your PII, we will prominently post these changes prior to implementing them and if you are registered with us, attempt to email you using your current email address on record with us regarding these material changes. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this Privacy Policy at the time you provided us with your information.
+KAYAK reserves the right to modify this Privacy Policy at any time. If there are material changes to this statement on how KAYAK will use your PII, we will prominently post these changes prior to implementing them and if you are registered with us, attempt to email you using your current email address on record with us regarding these material changes.
 
 If you have questions about our privacy practices or need assistance with exercising or understanding your privacy choices, please contact our Privacy Officer at or you may write to:
 
@@ -79,4 +83,4 @@ Attention: Privacy Officer
 55 North Water Street, Suite 1  
 Norwalk, CT 06854.
 
-Last updated: November 8, 2012
+Last updated: April 18, 2013
