@@ -1,9 +1,11 @@
 Autodesk 2D and 3D Design and Engineering Software
 
 *   Products
+*   Solutions
+*   Purchase
 *   Support
-*   Communities
-*   Buy
+*   Community
+*   Store
 
 *   Cart
 *   Company
@@ -68,5 +70,6 @@ For other languages, click below:
 
 *   Sign Up For Email
 *   Careers
+*   Mobile Site
 
-© Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy (updated) — Legal Notices &. Trademarks — Report Noncompliance — Site Map
+© Copyright 2013 Autodesk, Inc. All rights reserved.   Privacy — Legal Notices &. Trademarks — Report Noncompliance — Site Map
