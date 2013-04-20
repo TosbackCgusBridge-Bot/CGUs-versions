@@ -292,7 +292,7 @@ Log Into MySubaru | Help |
     *   Enthusiasts Subaru Gear, owner stories, Subaru Rally, events, publications and more.
     
     *   Benefits of Ownership Learn about the Subaru Rewards Card, insurance discounts and more.
-    *   Parts &. Service Find a local certified Subaru service dealer and Subaru parts.
+    *   Parts &. Service Shop parts, accessories &. tires online. Download Subaru parts brochures.
     
     *   More
     *   Overview
