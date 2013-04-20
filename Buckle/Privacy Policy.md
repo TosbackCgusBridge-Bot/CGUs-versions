@@ -143,11 +143,10 @@ TDD/TTY: 800-695-1788
 *   The Buckle Inc.
 *   About Buckle
 *   Buckle Believes
-*   Investor Information
+*   Investors
 *   Press Releases
 
 *   Jobs &. Careers
-*   Our Story
 *   Opportunities
 *   Why Buckle?
 *   Apply
