@@ -1,4 +1,4 @@
-**Last Revised: April 5, 2013**
+**Last Revised: April 19, 2013**
 
 Go Daddy Respects your privacy
 
@@ -38,10 +38,6 @@ Any telephone calls or emails initiated by you through the Near.me site will be 
 
 If you are a business owner that has created an Online Advertising Page to advertise your business, you will be prompted to enter information about your business, including your business name, business address, and business hours. The business information that you enter will be publicly displayed on your Online Advertising Page.
 
-**For Website Builder Users Only**
-
-Website Builder incorporates the Google Places API.  Google, Inc.’s ability to use and share information collected by the Google Places API is governed by the Google Privacy Policy.  
-
 **Security**
 
 This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
@@ -74,7 +70,7 @@ Google’s ability to use and share information collected by Google Analytics ab
 
 **For Website Builder Users Only**
 
-Website Builder incorporates the Google Places API.  Google's ability to use and share information collected by the Google Places API is governed by the Google Privacy Policy.  
+Website Builder incorporates the Google Places API.  Google's ability to use and share information collected by the Google Places API is governed by the Google Privacy Policy.
 
 **Supplementation of Information**
 
