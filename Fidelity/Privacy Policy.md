@@ -228,7 +228,7 @@ Effective January 2013 
 *   Stock Research
 *   Online Trading
 *   Annuities
-*   Term Life Insurance
+*   Life Insurance
 *   529 Plans
 
 *   IRAs
