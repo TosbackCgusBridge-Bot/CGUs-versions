@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Failed authentication frequently thwarts online shoppers April 18, 2013
-*   TomTom ditches Nike for new GPS sport watches April 18, 2013
-*   Six-legged Mantis Walking Machine will slowly lumber into your nightmares April 18, 2013
+*   TechHive Video Update: Home-made robots April 19, 2013
+*   Amazon, Netflix roll out more original programming April 19, 2013
+*   DASH is the foldable hexapod that runs like a cockroach April 19, 2013
 
 PCWorld Articles
 
-*   U.S. carriers set up warnings to prevent 'bill shock' April 18, 2013
-*   US Senate moves toward Internet sales tax vote April 18, 2013
-*   TSMC aims to tighten mobile chip manufacturing race with Intel April 18, 2013
+*   Chromebooks vie to replace netbooks April 19, 2013
+*   App Spotlight: StreetBid sends custom postcards to your customers April 19, 2013
+*   Wall Street Beat: Tech bellwethers report mixed quarter April 19, 2013
 
   
 TechHive on Twitter (@TechHive)
