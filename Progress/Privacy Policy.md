@@ -115,6 +115,8 @@
         
     *   Also Available
     *   R8 Spyder
+    *   R8 GT
+    *   R8 GT Spyder
 *   S
     *   The Audi S Models **Enhanced Performance and Unrivaled Styling Define the S Models**
         
