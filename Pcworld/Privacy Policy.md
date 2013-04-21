@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   TechHive Video Update: Home-made robots April 19, 2013
-*   Amazon, Netflix roll out more original programming April 19, 2013
-*   DASH is the foldable hexapod that runs like a cockroach April 19, 2013
+*   Yahoo CEO reaffrims decision to prohibit telecommuting April 20, 2013
+*   Review: Samsung Galaxy Note 8.0 is pricey but has its charms April 20, 2013
+*   Shoot now, focus later: Change the focus after you take a photo April 20, 2013
 
 PCWorld Articles
 
-*   Chromebooks vie to replace netbooks April 19, 2013
-*   App Spotlight: StreetBid sends custom postcards to your customers April 19, 2013
-*   Wall Street Beat: Tech bellwethers report mixed quarter April 19, 2013
+*   Trojan horse malware destroys delivery files to hide its tactics April 20, 2013
+*   Google comes clean(er) about Glass: What you need to know April 20, 2013
+*   10 tips to secure funding for a cybersecurity program April 20, 2013
 
   
 TechHive on Twitter (@TechHive)
