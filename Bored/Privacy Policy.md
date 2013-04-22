@@ -1,16 +1,16 @@
 mlns="http://www.w3.org/1999/xhtml" xml:lang="en">.
 
-Bored? Play Free online Games, Fun Stuff to do @bored.com BORED.COM Follow @boredcom
+Bored? Play Free online Games, Fun Stuff to do @bored.com BORED.COM
 
 *   Popular Games
 *   Stickman
 *   Shooting
 *   Puzzle
 *   Escape
-*   Point &. Click
-*   Girls
+*   PNC
+*   Funny Pix
 
-Funny Pictures Animations Top Rated Games Fun Sites Dumb Sites Humor Sites Strategy Action Privacy Policy
+Animations Top Rated Games Fun Sites Dumb Sites Humor Sites Strategy Action Girls Privacy Policy
 
 We value the trust you place in us and we are committed to safeguarding your privacy. Bored.com ("Bored" or the "Site") is operated by Bored.com Ltd ("we", "us" or "Bored") and is designed to be a fun and entertaining free computer gaming site.
 
@@ -104,12 +104,14 @@ Like Bored.com?
 
 *   Like us on Facebook
 *   Follow us on Twitter
+*   Follow our blog
 
   
 Contact Us
 
 *   Contact Bored.com
 *   Advertise on Bored.com
+*   Webmasters: Free Games for your site
 
 Bored.com
 
