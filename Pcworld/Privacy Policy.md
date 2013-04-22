@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Yahoo CEO reaffrims decision to prohibit telecommuting April 20, 2013
-*   Review: Samsung Galaxy Note 8.0 is pricey but has its charms April 20, 2013
-*   Shoot now, focus later: Change the focus after you take a photo April 20, 2013
+*   Novell unveils Filr as a local alternative to Dropbox April 21, 2013
+*   CISPA protesters rally, but this Internet blackout may fizzle April 21, 2013
+*   Study shows brainwaves could be security for wearable tech April 21, 2013
 
 PCWorld Articles
 
-*   Trojan horse malware destroys delivery files to hide its tactics April 20, 2013
-*   Google comes clean(er) about Glass: What you need to know April 20, 2013
-*   10 tips to secure funding for a cybersecurity program April 20, 2013
+*   Services seek money in social messaging as SMS declines April 21, 2013
+*   MusicBrainz breach reminds all to keep passwords unique April 21, 2013
+*   CBS affiliates see Twitter accounts hijacked. Password security in focus April 21, 2013
 
   
 TechHive on Twitter (@TechHive)
