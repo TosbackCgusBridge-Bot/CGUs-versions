@@ -1,4 +1,4 @@
-BostonGlobe.com is currently available to all readers. Help
+Boston Globe stories were available to all this past week. starting today Globe stories are available for subscribers only. Subscribe now. Help
 
 **Boston.com**
 
@@ -13,6 +13,7 @@ Log In
 *   Subscribe:
 *   Digital
 *   Home Delivery
+*   Log In
 
 Search: Sections
 
@@ -230,6 +231,7 @@ Learn more
 
 My Account
 
+*   Log in
 *     My Saved List
 *   Manage home delivery
 
