@@ -76,5 +76,4 @@
         
         Also as discussed above in Section 2(B), if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.
         
-        Addtionally, you may click here to be removed from our promotional mailing lists  
-        . If you opt-out of promotional mailings from Conde Nast, you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account/profile.
+        Addtionally, you may click here to be removed from our promotional mailing lists. If you opt-out of promotional mailings from Conde Nast, you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account/profile.
