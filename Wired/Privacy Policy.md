@@ -8,7 +8,7 @@ Last Revised: March 21, 2012
 
 1.  **I.Introduction**
     
-    This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a "Service”) provided by Condé Nast, its parent, subsidiaries and/or affiliates (“we,” "us," or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
+    This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a "Service”) provided by Cond&233. Nast, its parent, subsidiaries and/or affiliates (“we,” "us," or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
     
     Please read this User Agreement and Privacy Policy carefully. You can access this User Agreement and Privacy Policy any time in the footer of the Service's home page or initial screen. **Your access, visitation and/or use of the Service, including without limitation any registration on any aspect of the Service, will constitute your agreement to this User Agreement and Privacy Policy.** If you do not agree with the terms and conditions of this User Agreement and Privacy Policy, you may not access, visit and/or use the Service.
     
@@ -337,8 +337,7 @@ Last Revised: March 21, 2012
         
         Also as discussed above in Section 2(B), if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.
         
-        Addtionally, you may click here to be removed from our promotional mailing lists  
-        . If you opt-out of promotional mailings from Conde Nast, you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account/profile.
+        Addtionally, you may click here to be removed from our promotional mailing lists. If you opt-out of promotional mailings from Conde Nast, you may continue to receive certain communications from us, such as transactional or relationship messages, and/or messages about your account/profile.
         
 
 **If you don't agree to the terms contained in this User Agreement and Privacy Policy, you must immediately exit the Service.**
