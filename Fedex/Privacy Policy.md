@@ -47,6 +47,7 @@ Express Freight FedEx Express or FedEx Ground
 *   Obtain Proof of Delivery
 *   Track by TCN
 *   Access FedEx Tracking
+*   Customize your Delivery
 *   Access FedEx InSight
 *   Track Using FedEx Desktop
 
