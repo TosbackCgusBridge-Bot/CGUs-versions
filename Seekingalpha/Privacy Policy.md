@@ -1,4 +1,4 @@
-Seeking Alpha
+Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1)
 
 *   Home |
 *   Portfolio |
