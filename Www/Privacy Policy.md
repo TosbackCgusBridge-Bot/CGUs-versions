@@ -161,6 +161,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *    @Blog44
         *   @Brundage44
         *   @DavidAgnew44
+        *   @DrBiden
         *   @FLOTUS
         *   @JEarnest44
         *   @JesseCLee44
@@ -234,6 +235,7 @@ We will revise or update this policy if our practices change, or as we develop b
     *   Pinterest: (Privacy)
         *   The White House
     *   Vine: (Privacy)
+        *   @WhiteHouse
         *   @WHVine
     
     Document Sharing
@@ -262,6 +264,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: April 12, 2013
+Updated: April 22, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
