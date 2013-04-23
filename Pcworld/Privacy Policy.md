@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Novell unveils Filr as a local alternative to Dropbox April 21, 2013
-*   CISPA protesters rally, but this Internet blackout may fizzle April 21, 2013
-*   Study shows brainwaves could be security for wearable tech April 21, 2013
+*   IBM 'overclocks' solar energy collector tech with supercomputer cooling April 22, 2013
+*   #Flock is a Twitter integrated-cuckoo clock that chirps when others tweet at you April 22, 2013
+*   Review: Isotoner Smartouch 2.0 touchscreen gloves April 22, 2013
 
 PCWorld Articles
 
-*   Services seek money in social messaging as SMS declines April 21, 2013
-*   MusicBrainz breach reminds all to keep passwords unique April 21, 2013
-*   CBS affiliates see Twitter accounts hijacked. Password security in focus April 21, 2013
+*   Skitch brings markup tools to Evernote PDFs April 22, 2013
+*   IBM snatches UrbanCode for DevOps prowess April 22, 2013
+*   Five Ways to Improve Your Enterprise Social Networking Strategy April 22, 2013
 
   
 TechHive on Twitter (@TechHive)
