@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: March 20, 2013**
+**Last Revised: April 23, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -687,6 +687,10 @@ The Card is like cash in that it may be used immediately without identification.
 
 Go Daddy reserves the right, in its sole discretion, to deem any value on a Card not redeemed within five (5) years from purchase date to be expired.
 
+_**(H) Expired Domain Name Purchases**_
+
+For expired domains names purchased through Your account, You acknowledge and agree that You are responsible for payment within forty-eight (48) hours of auction close for the successful bid amount plus the one (1) year renewal fee (from the end of the domain name’s previous registration period), plus ICANN fee, if applicable, or any valid payment method associated with the account, will be charged on the third day following the auction close.
+
 ****18**. UNCLAIMED PROPERTY. DORMANCY CHARGES**
 
 Please be advised that if a customer has an outstanding account balance (a credit positive balance) for three (3) years or more for any reason, and (i) Go Daddy is unable to issue payment to such customer or (ii) Go Daddy issued payment to such customer in the form of a paper check, but the check was never cashed, then Go Daddy shall turn over such account balance to the State of Arizona in accordance with state law.  You acknowledge and agree that in either case (i) or (ii) above, Go Daddy may withhold a dormancy charge in an amount equal to the lesser of $15.00 or the total outstanding account balance associated with such customer.    
@@ -726,5 +730,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 3/20/2013  
+Revised: 4/23/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
