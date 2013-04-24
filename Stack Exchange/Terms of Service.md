@@ -127,21 +127,24 @@ Stack Exchange has adopted the following policy toward copyright infringement wi
 
 Reporting Copyright Infringements
 
-If You believe that content residing or accessible on the Network infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent at the address below:
+If You believe that content residing or accessible on the Network infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent at the address below (all received notices will be posted in full to Chilling Effects Clearinghouse):
 
 1.  Identification of the work or material being infringed.
 2.  Identification of the material that is claimed to be infringing, including its location, with sufficient detail so that Stack Exchange is capable of finding and verifying its existence.
 3.  Contact information about the notifying party (the Notifying Party), including name, address, telephone number and e-mail address.
 4.  A statement that the Notifying Party has a good faith belief that the material is not authorized by the copyright owner, its agent or law.
 5.  A statement made under penalty of perjury that the information provided in the notice is accurate and that the Notifying Party is authorized to make the complaint on behalf of the copyright owner.
-6.  The Notifying Party's physical or electronic signature. After the Designated Agent receives notification of an alleged infringement that meets all of the requirements above, Stack Exchange shall:
-7.  Disable access to or remove material that it has a reasonable, good faith belief is copyrighted material that has been illegally copied and distributed by any subscriber to the Network.
-8.  Stack Exchange will then immediately notify the subscriber responsible for the allegedly infringing material (the Offending Subscriber) that it has removed or disabled access to the material.
-9.  Stack Exchange reserves the right, at its discretion, to immediately terminate the account of any subscriber who is the subject of repeated takedown notices.
+6.  The Notifying Party's physical or electronic signature.
+
+After the Designated Agent receives notification of an alleged infringement that meets all of the requirements above, Stack Exchange shall:
+
+1.  Disable access to or remove material that it has a reasonable, good faith belief is copyrighted material that has been illegally copied and distributed by any subscriber to the Network.
+2.  Stack Exchange will then immediately notify the subscriber responsible for the allegedly infringing material (the Offending Subscriber) that it has removed or disabled access to the material.
+3.  Stack Exchange reserves the right, at its discretion, to immediately terminate the account of any subscriber who is the subject of repeated takedown notices.
 
 Filing Copyright Counterclaims
 
-A subscriber who believes they are the wrongful subject of a copyright takedown notice may file a counter notification with Stack Exchange by providing the following items in writing to the Designated Agent at the address below:
+A subscriber who believes they are the wrongful subject of a copyright takedown notice may file a counter notification with Stack Exchange by providing the following items in writing to the Designated Agent at the address below (all received notices will be posted in full to Chilling Effects Clearinghouse):
 
 *   The specific URLs of material that Stack Exchange has removed or to which Stack Exchange has disabled access.
 *   User’s name, address, telephone number, and email address.
@@ -158,8 +161,8 @@ Stack Exchange Inc.
 110 William St, 28th Floor  
 New York, NY 10038  
 
-**Tel:** +1 (212) 279-2335  
-**Fax:** +1 (212) 279-2077  
+**Tel:** +1 (212) 232-8280  
+**Fax:** +1 (212) 785-4578  
 **Email:** dmca@stackexchange.com  
 
 Thank you!
@@ -170,4 +173,4 @@ about blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2013 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2013.4.18.590
+2013.4.23.597
