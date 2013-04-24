@@ -11,7 +11,7 @@ San Francisco CA 94107 / USA
 http://www.bigpoint.net  
   
 **Corporate information**  
-CEO: Heiko Hubertz  
+CEO: Khaled Helioui  
   
 **Notice of incorporation**  
 Bigpoint Inc. is a corporation founded according to the bylaws of the state of Delaware. Filing number: 4412637, Secretary of State for the state of Delaware.  
@@ -324,7 +324,7 @@ Safe harbor Up Safe Harbor Policy
   
 SAFE HARBOR POLICY
 
-Bigpoint Inc. provides online games that are true download-free entertainment worlds. Information can be processed on an organization's own computers or on computers hosted by Bigpoint GmbH, Germany. In the latter case, Bigpoint GmbH is an Application Service Provider (ASP).  
+Bigpoint Inc. provides online games that are true download free entertainment worlds.. Information can be processed on an organization's own computers or on computers hosted by Bigpoint GmbH, Germany. In the latter case, Bigpoint GmbH is an Application Service Provider (ASP).  
   
 Bigpoint Inc. respects individual privacy and values the confidence of their customers, employees, business partners and others. Bigpoint Inc. prides itself on upholding the highest ethical standards in its business practices. Bigpoint Inc. shall not knowingly allow the property of a Customer to be used for any purpose other than the Customer's processing, shall keep such Customer Proprietary Information confidential, and shall not disclose any such Customer Proprietary Information for any other purpose unless instructions are received in writing from an officer of the Customer. To help ensure and protect the confidentiality of a Customer's business and to prevent unauthorized persons from gaining access to a Customer's records, Bigpoint Inc. shall adhere to best practice security procedures.  
   
@@ -387,10 +387,11 @@ CONTACT INFORMATION
 Questions or comments regarding this Policy should be submitted to the following person by mail as follows:  
   
 Bigpoint Inc.  
-500 Howard Street, Suite 300  
-San Francisco, CA 94105  
-Phone: +1(415) 821.8100  
-Fax: +1(415) 821.8199  
+795 Folsom St. First Floor  
+San Francisco CA 94107  
+USA  
+Phone: 646 - 405 1037  
+Fax: 646 – 405 1027  
 
   
   
