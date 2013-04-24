@@ -1,9 +1,13 @@
 *   **PagesJaunes**
 *   PagesBlanches
+*   PagesPro
 
-*   Annuaire inversé
-*   Petites Annonces
-*   Guides Pratiques Fermer le menu Guides pratiques
+*   Annuaire  
+    inversé
+*   Petites  
+    Annonces
+*   Guides  
+    Pratiques Fermer le menu Guides pratiques
     
     Les Guides Pratiques PagesJaunes
     
@@ -27,28 +31,28 @@
     *   **Consultez tous les guides**  
         Auto-Moto, BtoB, Démarches, Emploi, High-Tech...  
         \+ de 300 guides
-*   Plus de services Fermer le menu Plus de services
+*   Plus de  
+    services Fermer le menu Plus de services
     
     Plus de services PagesJaunes
     
-    *   Participez, donnez votre avis
+    *   Consultez l'information pratique de votre ville
+        
+        *   S'inscrire à la newsletter
+    
+    *   Devenez acteur de votre ville
         *   Annoncer un événement
         *   Ecrire un avis
+    
+    *   Renseignements téléphoniques
+        *   118008 par téléphone
+        *   118008 gratuit par SMS
     
     *   Découvrez les autres modes de recherche
         *   Recherche détaillée
         *   Recherche par le nom France Entière
         *   Recherche de pros avec vidéos
         *   Recherche par la carte
-    
-    *   Utilisez PagesJaunes en mobilité
-        *   Mobile
-        *   Ipad
-        *   GPS
-    
-    *   Renseignements téléphoniques
-        *   118008 par téléphone
-        *   118008 gratuit par SMS
     
     *   Appelez à l'étranger
         *   Annuaires du monde
@@ -63,8 +67,10 @@
         *   Modifiez et enrichissez gratuitement  
             vos informations
     
-    *   Recherche B2B pagespro
-        *   Recherche par SIRET, NAF ...
+    *   Utilisez PagesJaunes en mobilité
+        *   Mobile
+        *   Ipad
+        *   GPS
     
     PagesJaunes :
     
@@ -74,8 +80,41 @@
 
 *   Se connecter
     
-    S'inscrire ou s'identifier à son  
-    compte PagesJaunes    
+    Le compte PagesJaunes
+    
+    Bénéficiez vite de tous les services du compte ! Ecrivez des avis sur des professionnels, créez votre carnet d'adresses, mettez à jour vos coordonnées, recevez toute l'actualité de votre ville...
+    
+    S'identifier à son compte PagesJaunesS'identifier à son compte PagesJaunes
+    
+    Avec Facebook
+    
+    **Connectez vous à votre compte PagesJaunes en 1 clic.**
+    
+    Plus de mot de passe à retenir.
+    
+    Aucun contenu ne sera publié sans votre permission.
+    
+    Se connecter avec Facebook
+    
+    Avec vos identifiants PagesJaunes
+    
+    S'identifier
+    
+    Se créer un compte PagesJaunesSe créer un compte PagesJaunes
+    
+    Avec Facebook Connect
+    
+    **Créez votre compte PagesJaunes via Facebook en quelques secondes.**
+    
+    Plus facile et rapide.
+    
+    Aucun contenu ne sera publié sans votre permission.
+    
+    Créer un compte avec Facebook
+    
+    Sans Facebook Connect
+    
+    Se créer un compte PagesJaunes
     
 
 Les recherches PagesJaunes
