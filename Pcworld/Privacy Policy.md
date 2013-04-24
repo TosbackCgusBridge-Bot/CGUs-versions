@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   IBM 'overclocks' solar energy collector tech with supercomputer cooling April 22, 2013
-*   #Flock is a Twitter integrated-cuckoo clock that chirps when others tweet at you April 22, 2013
-*   Review: Isotoner Smartouch 2.0 touchscreen gloves April 22, 2013
+*   Spend wisely: $15 checks for iPhone 4 'antennagate' settlement roll in April 23, 2013
+*   This Week in Space: Get in line to go to Mars April 23, 2013
+*   Review: HeartMath Inner Balance helps you take a few deep breaths April 23, 2013
 
 PCWorld Articles
 
-*   Skitch brings markup tools to Evernote PDFs April 22, 2013
-*   IBM snatches UrbanCode for DevOps prowess April 22, 2013
-*   Five Ways to Improve Your Enterprise Social Networking Strategy April 22, 2013
+*   Twitter hackers take over AP account with false tweet April 23, 2013
+*   Microsoft's Surface Pro to ship in 24 more countries April 23, 2013
+*   New Nokia Lumia 928 Rumored to Become Verizon’s Flagship Phone April 23, 2013
 
   
 TechHive on Twitter (@TechHive)
