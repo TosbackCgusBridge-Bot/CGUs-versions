@@ -16,7 +16,7 @@ Skip to Main Content. Search Fidelity.com: Press up or down arrows for suggestio
     *   Viewpoints
 *   Research
 *   *   Learning Center 
-    *    Watch List 
+    *   Watch List 
     *   Alerts 
     *   Quotes 
     *   Markets &. Sectors 
@@ -28,6 +28,15 @@ Skip to Main Content. Search Fidelity.com: Press up or down arrows for suggestio
     *   IPOs 
     *   Annuities
 *   Guidance &. Retirement
+*   *   Retirement Planning 
+    *   Investment Guidance 
+    *   Taxes 
+    *   Saving for College 
+    *   Estate Planning &. Inheritance 
+    *   Insurance 
+    *   Charitable Giving 
+    *   Wealth Management 
+    *   Calculators &. Tools
 *   Investment Products
 *   *   Trading 
     *   Stocks 
