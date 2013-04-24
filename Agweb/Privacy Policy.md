@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Apr 23, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Apr 24, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -97,6 +97,8 @@ Apr 23, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     
     *   Technology on the Move
     *   Top Producer Seminar Recordings 
+*   Land
+    *   Lands of America 
 *   Fun
     
     *   Discussions
@@ -247,11 +249,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Spring Wheat Planting Behind Schedule
-*   Dickrell: Immigration Reform’s Bare-Knuckle Brawl
-*   10% of U.S. Cotton Crop in the Ground
-*   Little Progress Made in Corn Planting
-*   Power Hour: $5 Corn, $12 Soybeans Good 2013 Goals
+*   Reasons for Dairy Demand Growth
+*   Fake Tweet Erasing $136 Billion Shows Markets Still Need Humans
+*   Dairy Enters a ‘Bull-Oriented’ Market
+*   Power Hour: Survey Finds Nearly 30% of Farmland Sales are for Cash
+*   Record-Low Corn Planting Progress
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
@@ -264,4 +266,4 @@ ALSO RECOMMENDED
 *   Nearly 2,000 Farmers Share Voting Intentions
 *   Farmers React to Obama's Atkinson, Ill., Town Hall
 
-      AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Homepage of Agriculture About Farm Journal Media|Careers|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2013 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
+      AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN The Home Page of Agriculture About Farm Journal Media|Careers|Contact Us|Advertise|Lite Version|RSS|Twitter|Facebook|YouTube © 2013 Farm Journal, Inc. All Rights Reserved|Web site design and development by AmericanEagle.com|Site Map|Privacy Policy|Terms &. Conditions
