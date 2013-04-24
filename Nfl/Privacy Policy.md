@@ -10,7 +10,7 @@ Loading… Sign In | Register
 *   Fantasy Football
 *   News &. Media
 *   Video
-*   Scores &. Stats
+*   Schedules
 *   Fans
 *   Watch NFL Games Live
 *   Events
@@ -245,29 +245,6 @@ More NFL Sites
 © 2012 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the National Football League.The team names, logos and uniform designs are registered trademarks of the teams indicated. All other NFL-related trademarks are trademarks of the National Football League. NFL footage © NFL Productions LLC.
 
  
-
-*   NFL Rush | PLAY 60
-*   NFL Youth Tackle
-*   USA Football
-*   NFL International
-*   NFL On Location
-*   NFL Extra Points
-*   Rule Book | History
-*   Contact Us | FAQ | PR
-*   Jobs: League | Team
-*   NFLHealthandSafety.com
-*   NFL Auction
-
-*   NFL Shop
-*   NFL Ticket Exchange
-*   NFL Women's Apparel
-*   Media | Licensing
-*   Profootballhof.com
-*   NFL Communications
-*   In The Community
-*   NFL Player Care
-*   Player Engagement
-*   Media Guides
 
 *   Bills
 *   Dolphins
