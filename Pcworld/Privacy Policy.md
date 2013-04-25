@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Spend wisely: $15 checks for iPhone 4 'antennagate' settlement roll in April 23, 2013
-*   This Week in Space: Get in line to go to Mars April 23, 2013
-*   Review: HeartMath Inner Balance helps you take a few deep breaths April 23, 2013
+*   Amazon plans own set-top box for fall, report claims April 24, 2013
+*   Hands on with the HAPIfork April 24, 2013
+*   Humans Rights Watch leads a campaign to stop killer robots, isn't joking around April 24, 2013
 
 PCWorld Articles
 
-*   Twitter hackers take over AP account with false tweet April 23, 2013
-*   Microsoft's Surface Pro to ship in 24 more countries April 23, 2013
-*   New Nokia Lumia 928 Rumored to Become Verizon’s Flagship Phone April 23, 2013
+*   Tumblr updates iOS app for wider social media sharing April 24, 2013
+*   Collaborate in real time with cross-platform mindmapper Coggle April 24, 2013
+*   MetroPCS shareholders OK merger with T-Mobile USA April 24, 2013
 
   
 TechHive on Twitter (@TechHive)
