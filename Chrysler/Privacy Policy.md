@@ -11,8 +11,12 @@ Privacy Statement
 *   Changes to This Privacy Statement by Chrysler
 *   Contacting Chrysler
 
+  
+
 Chrysler Group LLC  
-Effective Date: February 1, 2012 Privacy Statement INTRODUCTION
+Effective Date: February 1, 2012
+
+Privacy Statement INTRODUCTION
 
 Welcome to the Chrysler Group LLC and our family of companies ("Chrysler"). At Chrysler, we believe it is important to protect the privacy of our customers and guests and be transparent with our practices. We know that you care about how your personal information is collected, used, and shared and we want to help you make knowledgeable choices about the information you provide to us. This Privacy Statement ("Privacy Statement") explains and summarizes how Chrysler collects, uses, and protects your information, including the personal information that you may provide to us or that we may collect from you as you interact with us. We will update this Privacy Statement from time to time, so please check back with us periodically.
 
