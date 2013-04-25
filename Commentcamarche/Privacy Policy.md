@@ -132,5 +132,5 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
-*   Forum Windows XP
 *   Forum Webmastering
+*   Consommation et internet
