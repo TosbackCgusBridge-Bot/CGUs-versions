@@ -1,4 +1,6 @@
-Boston Globe stories were available to all this past week. starting today Globe stories are available for subscribers only. Subscribe now. Help
+Boston Globe stories were available to all last week. today Globe stories are available for subscribers only. Subscribe now.
+
+Help
 
 **Boston.com**
 
