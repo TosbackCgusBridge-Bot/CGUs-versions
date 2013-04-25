@@ -147,8 +147,8 @@ TDD/TTY: 800-695-1788
 *   Press Releases
 
 *   Jobs &. Careers
-*   Opportunities
 *   Why Buckle?
+*   Opportunities
 *   Apply
 
 *   Help?
