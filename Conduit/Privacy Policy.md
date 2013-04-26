@@ -9,7 +9,7 @@ GUIDELINES&. POLICIES
 
 Website Privacy Policy
 
-The Conduit Website Privacy Policy has been updated on June 17, 2012. By accessing and using the Conduit technology and the Conduit website following such update, you indicate that you have read and agree to the updated terms and conditions of the Conduit Website Privacy Policy.
+The Conduit Website Privacy Policy has been updated on April 24, 2013. By accessing and using the Conduit technology and the Conduit website following such update, you indicate that you have read and agree to the updated terms and conditions of the Conduit Website Privacy Policy.
 
 This is the privacy policy ("Privacy Policy") for conduit.com and/or other web sites owned and operated by Conduit Ltd. ("Website") that applies to your use of the Website and covers how Conduit Ltd. ("Conduit" "we," "us," or "our") treats information that it collects and receives about you via the Website, including the personal information we collect through the Website regarding the various features, programs, services, and software that Conduit provides to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. These offerings are subject to the privacy policies of such third parties.
 
@@ -25,9 +25,19 @@ Certain areas of the Website as well as third party websites linked to or access
 
 We, our service providers, advertisers and partners may collect various types of non-PII when you visit the Website. Examples of non-PII that may be collected from visitors include: Internet protocol address, the type of browser (e.g., Firefox, Internet Explorer), type of operating system, (e.g., Microsoft Windows or Mac OS), domain name of Internet service provider (e.g., Comcast, Verizon or AT&T), Web pages visited, Websites visited before and after visiting the Website, type of handheld or mobile device used to view the Website (e.g., iPhone, Blackberry), location information, content accessed and advertisements shown and/or clicked. We may use third parties to conduct web analytics and similar services with respect to an individual's interaction with our Website.
 
-We may use third party service providers to deliver ads on our Website. These service providers may use cookies (as defined below) or other tracking technologies to identify your activity on our Website and on third party websites. Tracking data collected by these service providers is used to decide which ads you see both on our Website and on other third party websites. However, this tracking information does not identify you personally and is not combined with personally identifiable information. One of the ad service providers is Pricegong. Their privacy policy can be found at www.pricegong.com.
+We may use third party service providers to deliver ads on our Website. These service providers may use cookies (as defined below) or other tracking technologies to identify your activity on our Website and on third party websites. Tracking data collected by these service providers is used to decide which ads you see both on our Website and on other third party websites. However, this tracking information should not identify you personally and should not be combined with personally identifiable information.
 
-In addition to this Website Privacy Policy Conduit maintains additional legal and privacy policies for the Conduit powered software and applications. Such policies are available at http://www.conduit.com/privacy/Default.aspx.
+Additionally, we may share certain information we collect from search boxes on the site to deliver more targeted ads and offers as further detailed below.
+
+Search Data
+
+As part of the functionality available on the Website, we may offer you search features provided by us and/or other third parties. Additionally, we may use Cookies in the web search services we provide to you. These Cookies collect and store information about your search activity when you use our web search services. This information may be shared with third party applications that use search data to function or to offer you more customized information and services. The information collected and stored by these Cookies may include Personally Identifiable Information, depending on your search query. For instance, if you search your own name Personally Identifiable Information would be included in the search query. By using the search features provided by us, you are consenting to grant Conduit permission to use Cookies regarding your use of web search.
+
+Additional Services
+
+Conduit may share the information it receives from the Cookies with other third parties in order to serve you ads and provide you with relevant offers and services. You can opt out from permitting us to share this search information contained in Cookies through a link on the bottom of the search homepage or by sending an e-mail to support@conduit.com.
+
+In addition to this Website Privacy Policy Conduit maintains additional legal and privacy policies for the Conduit powered software and applications. Such policies are available at http://www.conduit.com/privacy/.
 
 Registration
 
@@ -44,11 +54,11 @@ You have the option to choose to receive occasional email updates from Conduit. 
 Mobile/Social Network services
 
 Conduit may offer to end users of conduit powered applications, additional features and services that provide access to mobile and social networks. The privacy policies that apply to such features and services can be found at:  
-http://www.conduit.com/privacy/ConduitPrivacy.aspx and  
-http://www.conduit.com/privacy/ConduitMobilePrivacy.aspx
+http://www.conduit.com/privacy/ConduitPrivacy and  
+http://www.conduit.com/privacy/ConduitMobilePrivacy
 
 You can sign in to your social network website through the Website. When you elect to sign in, you will be asked to grant us access to certain information from your social network profile.  
-This information may include friends or contacts lists, notes, updates and photos, and may be used by Conduit to help you customize your Website experience, suggest new features and content that may be relevant to you or provide Conduit with data for statistical purposes. If you elect to permit Conduit to access this information, Conduit may be able to see and use this information and such action may change your preexisting privacy settings, however Conduit does not have control over the privacy settings of your social network provider. Please see your social network provider policies for any questions or concerns regarding such policies. **Conduit does not sell or rent any Personal Identifiable Information it compiles through Social Networks to any third parties**. Conduit may provide non-identifiable, general statistical and demographic information derived from information from your Social Network to its Publishers from time to time. You may limit Conduit access to your social network account(s) at any time by changing your social network settings.
+This information may include friends or contacts lists, notes, updates and photos, and may be used by Conduit to help you customize your Website experience, suggest new features and content that may be relevant to you or provide Conduit with data for statistical purposes. If you elect to permit Conduit to access this information, Conduit may be able to see and use this information and such action may change your preexisting privacy settings, however Conduit does not have control over the privacy settings of your social network provider. Please see your social network provider policies for any questions or concerns regarding such policies. **Conduit does not sell or rent any Personal Identifiable Information it compiles through Social Networks to any third parties.** Conduit may provide non-identifiable, general statistical and demographic information derived from information from your Social Network to its Publishers from time to time. You may limit Conduit access to your social network account(s) at any time by changing your social network settings.
 
 "Tell–A–Friend"
 
@@ -68,8 +78,7 @@ Conduit may disclose PII to any of its subsidiaries. We require that our subsidi
 
 Conduit may engage in business relations with third party companies and offer unique services to clients of such companies within a private label environment. For such purposes, some pages of the Website may be branded with both the Conduit brand and the third party brand. The third party may not use the private label environment to collect any PII. This Privacy Policy applies to all of the pages in the private label environment.
 
-Conduit uses the Crazyegg service to help it understand how people use the Website. To understand Crazyegg's practices go to the Crazyegg privacy policy  
-at: http://www.crazyegg.com/privacy. Crazyegg, and not Conduit, is responsible for the Crazyegg privacy policy and any choices set forth in that policy.
+Conduit uses third party service(s) to help it understand how people use the Website. These third parties have their own information collection practices. Please contact us at support@conduit.com for specific information about these third party services.
 
 If you entered the Website by clicking an affiliated link or promotion on another Website, or if you used a site that provides universal registration services to sign up for Conduit services, we will store the ID of that affiliate site in our database along with your computer's User ID. We do this to ensure that the affiliate site receives proper credit for any subsequent toolbar or app you may build using our platform.
 
@@ -113,6 +122,6 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 Conduit  
 Attn: Legal Department, Privacy Policy Issues  
-950 Tower Lane, Suite 1788, Foster City, CA 94404  
-  
-\[Last updated: June 17, 2012\]
+950 Tower Lane, Suite 1788, Foster City, CA 94404
+
+\[Last updated: April 24, 2013\]
