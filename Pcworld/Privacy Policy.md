@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Amazon plans own set-top box for fall, report claims April 24, 2013
-*   Hands on with the HAPIfork April 24, 2013
-*   Humans Rights Watch leads a campaign to stop killer robots, isn't joking around April 24, 2013
+*   Rumor roundup: What we might see at Nokia's Lumia launch event April 25, 2013
+*   Ignition interlock for phones curbs distracted driving April 25, 2013
+*   Nerdiest proposal ever? Watch someone pop the question using an aerial drone April 25, 2013
 
 PCWorld Articles
 
-*   Tumblr updates iOS app for wider social media sharing April 24, 2013
-*   Collaborate in real time with cross-platform mindmapper Coggle April 24, 2013
-*   MetroPCS shareholders OK merger with T-Mobile USA April 24, 2013
+*   Windows and Android Tablets Gain Ground on Apple’s iPad April 25, 2013
+*   Review: R-Drive Image backs up anything April 25, 2013
+*   Civil rights coalition says EU data protection bill threatens citizens' rights April 25, 2013
 
   
 TechHive on Twitter (@TechHive)
