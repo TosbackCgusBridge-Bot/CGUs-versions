@@ -11,6 +11,8 @@
     
 *   *   View More >
     
+*   *   Gear, toys, and more essentials for baby
+    
 *   *   Playtime Guide
     *   Sharing Moments of Joy
     *   Parenting Topics
