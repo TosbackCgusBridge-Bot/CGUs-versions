@@ -320,7 +320,7 @@ In an effort to protect the rights of copyright owners, Bigpoint maintains a pol
 These Terms of Service shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws rules. You expressly agree that the exclusive jurisdiction for any claim or dispute under the Terms of Service and or your use of the Site resides in the federal or state courts located in the State of California, County of San Francisco, and you further expressly agree to submit to the personal jurisdiction of such courts for the purpose of litigating any such claim or action.  
 Except where prohibited, you agree that any and all disputes, claims and causes of action arising out of, or connected with, your play of any Game or participation in any Tournament shall be resolved individually, without resort to any form of class action, and exclusively by the appropriate court located in the State of California, County of San Francisco.  
 If any provision of these Terms of Service is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Service, which shall remain in full force and effect. No waiver of any provision in these Terms of Service shall be deemed a further or continuing waiver of such provision or any other provision.  
-Safe harbor Up Safe Harbor Policy  
+Safe harbor Safe Harbor Policy  
   
 SAFE HARBOR POLICY
 
