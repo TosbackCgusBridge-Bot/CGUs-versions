@@ -3,7 +3,7 @@ Blurtit.
 *   Ask
 *   Topics
 *   Discover
-*   Login
+*   Sign in
 
 FAQ's How helpful are you?
 
