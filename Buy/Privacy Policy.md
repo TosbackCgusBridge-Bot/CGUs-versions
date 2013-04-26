@@ -222,6 +222,7 @@ This Privacy Policy will explain the following regarding use of our site:
     > Buy.Com, Inc.  
     > 85 Enterprise  
     > Aliso Viejo, CA 92656  
+    > 949-389-2000  
     
 12.  How can this Privacy Policy be changed?  
     This Privacy Policy was last changed on January 31, 2013. If Rakuten.com Shopping makes changes to any terms or conditions of the Privacy Policy, then the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
