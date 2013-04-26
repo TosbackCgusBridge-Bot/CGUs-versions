@@ -1,6 +1,6 @@
 Privacy Policy
 
-_March 7, 2013_
+_April 25, 2013_
 
   
 
@@ -50,7 +50,7 @@ Third parties that support the NYP Services by serving advertisements or providi
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see here. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the NYP Services.
 
-**Information from Other Sources.** We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners.
+**Information from Other Sources.** We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our NYP Affiliates or business partners.
 
   
   
@@ -67,15 +67,15 @@ We use the information we collect from and about you for these additional purpos
 
 **To provide co-branded services and features.** We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on NYP Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy.
 
-**To deliver relevant advertisements.** NYP and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the NYP Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info, and to opt-out of such advertising networks’ and services’ advertising practices, go to www.aboutads.info/choices.
+**To deliver relevant advertisements.** NYP and our service providers may use the information we collect from and about you to deliver ads to you when you use the NYP Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info, and to opt-out of such advertising networks’ and services’ advertising practices, go to www.aboutads.info/choices.
 
-**To contact you. NYP may periodically send promotional materials or notifications related to the NYP Services.** If you want to stop receiving promotional materials follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the NYP Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+**To contact you.** NYP may periodically send promotional materials or notifications related to the NYP Services. If you want to stop receiving promotional materials follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the NYP Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-**To share with our Company Affiliates.** NYP may share your information with NYP Affiliates for the purposes described in this Privacy Policy. A link to a website that lists NYP Affiliates can be found at the beginning of this policy. Users who visit NYP Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. NYP and News America Incorporated are the parties responsible for the management of the jointly-used personal information.\]
+**To share with our NYP Affiliates.** NYP may share your information with NYP Affiliates for the purposes described in this Privacy Policy. A link to a website that lists NYP Affiliates can be found at the beginning of this policy. Users who visit NYP Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. NYP and News America Incorporated are the parties responsible for the management of the jointly-used personal information.
 
 **To share with business partners.** NYP may share your information with business partners to permit them to send you marketing communications consistent with your choices.
 
-**To protect the rights of NYP and others.** There may be instances when NYP may disclose your information, including situations where NYP has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of NYP, our Company Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use). (ii) protect the safety, privacy, and security of users of the NYP Services or members of the public. (iii) protect against fraud or for risk management purposes. (iv) comply with the law or legal process. or (v) respond to requests from public and government authorities.
+**To protect the rights of NYP and others.** There may be instances when NYP may disclose your information, including situations where NYP has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of NYP, our NYP Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use). (ii) protect the safety, privacy, and security of users of the NYP Services or members of the public. (iii) protect against fraud or for risk management purposes. (iv) comply with the law or legal process. or (v) respond to requests from public and government authorities.
 
 **To complete a merger or sale of assets.** If NYP sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, NYP may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
@@ -89,7 +89,14 @@ NYP uses commercially reasonable administrative, technical, personnel and physic
 
 **5\. USER ACCESS AND CONTROL**
 
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at Onlinehelp@nypost.com. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.  
+If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at Onlinehelp@nypost.com. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
+
+  
+  
+
+If you are a California resident, you may request that we not share your personal information on a going-forward basis with NYP Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to Onlinehelp@nypost.com with "NYPost.com: Disclosure Opt-out" in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
+
+  
   
 
 **6\. OTHER IMPORTANT INFORMATION**
@@ -102,7 +109,9 @@ If you would like to access, review, correct, update, suppress, or otherwise lim
 
 **Collection of Personal Financial Information by a Payment Service.** In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service.
 
-**Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+**Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
 
 **Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the NYP Services or otherwise.
 
