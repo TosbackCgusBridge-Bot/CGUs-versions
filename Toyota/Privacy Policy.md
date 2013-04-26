@@ -383,5 +383,6 @@ Toyota Social
 *   Facebook
 *   Twitter
 *   Youtube
+*   Google+
 
 Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map AdChoices
