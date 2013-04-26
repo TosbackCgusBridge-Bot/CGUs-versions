@@ -306,11 +306,8 @@ Log Into MySubaru | Help |
 Company
 
 *   Overview
-*   Environment
 *   Partnerships
 *   News
-*   Corporate Responsibility
-*   SOA Foundation
 *   Careers
 
 Subaru Privacy Policy
@@ -424,29 +421,13 @@ Explore Subaru
 
 *   Vehicles
 *   View a Brochure
-*   Build Your Own
 *   Why Subaru
+*   Build Your Own
 *   Financial Tools
 *   Find a Dealer
 *   Owners
 *   Certified Pre-Owned
 *   Site Map
-
-Company
-
-*   About Subaru
-*   Careers
-*   Environment
-*   Partnerships
-*   News
-*   Corporate Social Responsibility
-*   Proud Home
-*   Contact Us
-
-Community
-
-*   SOA Foundation
-*   Corporate Responsibility
 
 Enthusiasts
 
@@ -458,6 +439,22 @@ Enthusiasts
 *   Subaru Gear
 *   Drive Magazine
 *   Drive Performance
+
+Company
+
+*   About Subaru
+*   Careers
+*   Partnerships
+*   News
+*   Contact Us
+
+Responsibility
+
+*   Corporate Responsibility
+*   Philosophy
+*   Community
+*   SOA Foundation
+*   Environment
 
 Other Sites
 
