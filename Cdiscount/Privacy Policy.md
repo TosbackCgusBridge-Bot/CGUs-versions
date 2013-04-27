@@ -1,6 +1,6 @@
 Conditions Générales de Vente c mon espace client
 
-Dernière mise à jour : 21/03/2013Imprimer
+Dernière mise à jour : 26/04/2013Imprimer
 
 Article 1 : Champs d’Application et Modification des Conditions Générales de Vente Les présentes conditions générales de vente s’appliquent à toutes commandes passées sur le site Internet www.cdiscount.com.  
   
