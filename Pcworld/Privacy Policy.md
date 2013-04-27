@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Rumor roundup: What we might see at Nokia's Lumia launch event April 25, 2013
-*   Ignition interlock for phones curbs distracted driving April 25, 2013
-*   Nerdiest proposal ever? Watch someone pop the question using an aerial drone April 25, 2013
+*   Wolfram Alpha nerd-crunches your Facebook activity, turns your social life into data April 26, 2013
+*   Voxiebox might finally make 3D tabletop gaming a reality April 26, 2013
+*   Free Game Friday: Yetis, ninja and more April 26, 2013
 
 PCWorld Articles
 
-*   Windows and Android Tablets Gain Ground on Apple’s iPad April 25, 2013
-*   Review: R-Drive Image backs up anything April 25, 2013
-*   Civil rights coalition says EU data protection bill threatens citizens' rights April 25, 2013
+*   Dutchman arrested in connection with large DDoS attack on Spamhaus April 26, 2013
+*   Wolfram Alpha study of Facebook users details relationship cycles April 26, 2013
+*   North Korea close to 2 million 3G subscribers April 26, 2013
 
   
 TechHive on Twitter (@TechHive)
