@@ -1,4 +1,4 @@
-*   Church &. Ministries
+*   Church &. Ministry
 *   U.S.
 *   World
 *   Politics
