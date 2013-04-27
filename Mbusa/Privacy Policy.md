@@ -8,10 +8,6 @@ Daimler AG Data Protection Code of Conduct
 
 Accessing and Updating Your Information
 
-You may update, review, or correct your Personal Information at any time online by accessing your password-protected registration page via the "Online Portfolio" at our Site. You may also email us or call us at 1-800-FOR-MERCEDES (1-800-367-6372).
-
-  
-
 **Freedom of Choice  
 **If you do not want your Personal Information to be made available to any third party, please contact us at mailmaster@mbusa.com so we can block your data accordingly. Note, however, that certain services and/or functions of our Site may not be available if you elect to block your Personal Information. Further, if, in connection with your use of a particular service, we ask to use your Personal Information in a way not described in this online privacy statement and you do not wish to permit that use, you can choose not to use that particular service. Otherwise, your use of such service will be your consent to the use of your Personal Information in the way described.
 
@@ -144,4 +140,4 @@ We use cookies to enable MBUSA to automate access and data entry functions of ou
 **Disabling Cookies**  
 You may adjust your Web browser to either alert you of the use of cookies or refuse to accept cookies. For Internet Explorer or AOL users, you can click on the Start button and then select Control Panel, Internet Options, and the Security tab. If you click on the Custom button, you will be able to see the cookie options. For Netscape users, in the browser, select File, Preferences, and then Advanced to view the cookie options. Be aware that if you elect not to accept cookies, the Site may not function properly or may not permit access.
 
-/mercedes policies \[ { "vehicleClass" : "E" , "vehicleBodyStyle" : "SDN" , "vehicleMessage" : "Build available in late April" } ,{ "vehicleClass" : "E" , "vehicleBodyStyle" : "WGN" , "vehicleMessage" : "Build available in late April" } \] true
+/mercedes policies \[ \] true
