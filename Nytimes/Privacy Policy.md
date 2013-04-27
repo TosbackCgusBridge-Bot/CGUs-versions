@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Haute punk
+Search Help Judging "Gatsby" by its cover(s)
 
 Also in Arts »
 
-*   MTV orders TV pilot based on "Scream" horror series
-*   Slide show: Scenes from Coachella
+*   Netflix looks back on its near-death spiral
+*   Soros buys into J.C. Penney
 
   
 
