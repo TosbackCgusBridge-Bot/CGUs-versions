@@ -47,6 +47,8 @@
         mode mpg 6 Explore Build
     *   Prius _v_ $26,650 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
+    *   2014 4Runner  
+        Coming Fall 2013 View More Info
     *   2014 Tundra  
         Coming Fall 2013 View More Info
     *   2014 Highlander  
