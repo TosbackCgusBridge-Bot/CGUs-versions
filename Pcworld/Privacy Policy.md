@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Wolfram Alpha nerd-crunches your Facebook activity, turns your social life into data April 26, 2013
-*   Voxiebox might finally make 3D tabletop gaming a reality April 26, 2013
-*   Free Game Friday: Yetis, ninja and more April 26, 2013
+*   Nintendo boosts Wii U performance with upgrade April 27, 2013
+*   4 steps to reclaim your social media after a hack attack April 27, 2013
+*   Numbers game: Why analyst says iPhone market share will exceed Android April 27, 2013
 
 PCWorld Articles
 
-*   Dutchman arrested in connection with large DDoS attack on Spamhaus April 26, 2013
-*   Wolfram Alpha study of Facebook users details relationship cycles April 26, 2013
-*   North Korea close to 2 million 3G subscribers April 26, 2013
+*   North Korea close to 2 million 3G subscribers April 27, 2013
+*   Google Fiber divides users into the haves and have nots April 27, 2013
+*   Supercomputer dedicated that is fastest one owned by a college April 27, 2013
 
   
 TechHive on Twitter (@TechHive)
