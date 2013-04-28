@@ -94,5 +94,5 @@ Find United on:
 
 Business Services | Cargo | Careers | unitedcontinentalholdings.com | United Hub  
 Contract of Carriage | Lengthy Tarmac Delay Plan | Our United Customer Commitment | Legal Information | Privacy Policy | Site Map | Search united.com | Travel Agents  
-Copyright © 2013 United Air Lines, Inc.  
+Copyright © 2013 United Airlines, Inc.  
 All rights reserved.
