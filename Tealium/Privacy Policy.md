@@ -17,7 +17,7 @@ Tealium
 *   Partners
     *   *   Partner Program
         *   Agencies
-        *   Contact
+        *   Vendors
 *   Resources
     *   *   Webinars
         *   White Papers
