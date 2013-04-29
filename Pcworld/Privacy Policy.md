@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Nintendo boosts Wii U performance with upgrade April 27, 2013
-*   4 steps to reclaim your social media after a hack attack April 27, 2013
-*   Numbers game: Why analyst says iPhone market share will exceed Android April 27, 2013
+*   Malware found scattered by cyber espionage attacks April 28, 2013
+*   LivingSocial's breach draws advice from security experts April 28, 2013
+*   Facebook Likes are worth $174 to your brand April 28, 2013
 
 PCWorld Articles
 
-*   North Korea close to 2 million 3G subscribers April 27, 2013
-*   Google Fiber divides users into the haves and have nots April 27, 2013
-*   Supercomputer dedicated that is fastest one owned by a college April 27, 2013
+*   Windows Blue may help, but Microsoft still faces hurdles April 28, 2013
+*   Kaspersky founder warns nations face growing cyberattack threats April 28, 2013
+*   4 video editors that are up to the task for both amateurs and pros April 28, 2013
 
   
 TechHive on Twitter (@TechHive)
