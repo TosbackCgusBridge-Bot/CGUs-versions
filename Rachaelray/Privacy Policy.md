@@ -6,12 +6,12 @@ Rachael Ray
     *   Food Articles
     *   Recipe Search
     *   Pinterest Pins
+    *   Brunch
     *   Healthy Snacks &. Lunches
     *   Quick &. Easy
     *   Easy Weeknight Meals
     *   Salads
     *   In Season Now
-    *   Brunch
     *   Breakfast Guide
     *   Cookware
     *   Cutlery
