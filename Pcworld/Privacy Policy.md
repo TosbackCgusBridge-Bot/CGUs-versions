@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Malware found scattered by cyber espionage attacks April 28, 2013
-*   LivingSocial's breach draws advice from security experts April 28, 2013
-*   Facebook Likes are worth $174 to your brand April 28, 2013
+*   HuffPost Live is coming to cable April 29, 2013
+*   This six-foot-tall rideable mecha is just for kids, costs as much as a new car April 29, 2013
+*   Meet the new Galaxy Tab, just like the old Galaxy Tab April 29, 2013
 
 PCWorld Articles
 
-*   Windows Blue may help, but Microsoft still faces hurdles April 28, 2013
-*   Kaspersky founder warns nations face growing cyberattack threats April 28, 2013
-*   4 video editors that are up to the task for both amateurs and pros April 28, 2013
+*   Gartner: Worldwide CRM revenue grew 12.5 percent in 2012 April 29, 2013
+*   Future of computer interaction on display in Paris April 29, 2013
+*   Epilogue to von Simson book on strategy puts the spotlight on innovation April 29, 2013
 
   
 TechHive on Twitter (@TechHive)
