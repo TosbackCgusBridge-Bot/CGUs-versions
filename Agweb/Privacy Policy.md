@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Apr 29, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+Apr 30, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -86,19 +86,19 @@ Apr 29, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   AgWeb Profit Center
     *   Taxes
     *   Insurance
-    *   Land
     *   Legacy Project
-    
     *   The Farm CPA blog
+    
     *   Ultimate Farm Quest
     *   Margin Calculators
     *   AgWeb App Store
     *   Ask A Margins Expert
-    
     *   Technology on the Move
+    
     *   Top Producer Seminar Recordings 
 *   Land
-    *   Lands of America 
+    *   Land for Sale
+    *   LandOwner Newsletter 
 *   Fun
     
     *   Discussions
@@ -251,15 +251,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Aquifer Depletion Causes Delta Blues
-*   Work the Market
-*   Sustainable Strategy
-*   Risks and Rewards
-*   Legal Ease: Ag in the Courtroom
-*   Before You Park It
-*   The Challenge of Going Beyond Sustainability
-*   Program Information for April 27-28, 2012
-*   Hay Acres Up—Slightly
+*   Spring Wheat is 12% Planted, USDA Says
+*   U.S. Dairy Exports Increase in Early 2013
+*   Corn Crop 5% Planted, USDA Reports
+*   CWT Assists with 2 Million Pounds of Export Sales
+*   Maximize Corn Ear Count at Planter Setup
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
