@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Custom content brought to you by Mountain Dew
+Search Help Rhapsody in blue (and white)
 
-Also in Business »
+Also in T Magazine »
 
-*   CNN suffers from self-inflicted damage
-*   "Duck Dynasty" finale sets ratings record for A&E
+*   Made in Africa
+*   John Derian for Astier de Villatte
 
   
 
