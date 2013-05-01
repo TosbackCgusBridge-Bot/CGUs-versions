@@ -1,5 +1,7 @@
 Terms and conditions › Privacy Policy
 
+O2 has sold its home broadband and home phone business to Sky. Telefonica UK Limited’s rights under the following customer contracts and policies have been assigned to Sky Home Communications Limited and Sky Home Communications Limited has agreed to perform all obligations under these contracts and policies. If you have entered into a new contract on or after \[30 April 2013 \], instead of Telefonica UK Limited, you will be contracting with Sky Home Communications Ltd (Company no. 5262862) of Grant Way, Isleworth, Middlesex TW7 5QD.
+
 Privacy Policy of Telefónica UK Limited (referred to in this policy as "we", "us "and "O2")
 
 Contents
