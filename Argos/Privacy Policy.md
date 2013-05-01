@@ -1,4 +1,4 @@
-Privacy Policy
+\>. Customer services >. Privacy Policy Privacy Policy
 
 (Updated 23rd May 2012)
 
