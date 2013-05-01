@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   HuffPost Live is coming to cable April 29, 2013
-*   This six-foot-tall rideable mecha is just for kids, costs as much as a new car April 29, 2013
-*   Meet the new Galaxy Tab, just like the old Galaxy Tab April 29, 2013
+*   Microsoft's IllumiRoom project transforms whole rooms into video games April 30, 2013
+*   Verizon rolls out mostly pointless cloud-storage service April 30, 2013
+*   Curiosity rover may be in trouble after a month of silence April 30, 2013
 
 PCWorld Articles
 
-*   Gartner: Worldwide CRM revenue grew 12.5 percent in 2012 April 29, 2013
-*   Future of computer interaction on display in Paris April 29, 2013
-*   Epilogue to von Simson book on strategy puts the spotlight on innovation April 29, 2013
+*   Twitter opens self-service ads to everyone April 30, 2013
+*   Oracle lands $100 million ERP project covering 34 colleges April 30, 2013
+*   Doxie One makes on-the-go scanning simple April 30, 2013
 
   
 TechHive on Twitter (@TechHive)
