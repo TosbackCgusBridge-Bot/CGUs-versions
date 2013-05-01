@@ -120,17 +120,15 @@ Le présent contrat est conclu pour une durée indéterminée à compter de l'Ut
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
-*   Conditions generales d'utilisation
-*   Condition d'utilisation
-*   Conditions d'utilisation
+*   Conditions générales
 *   Conditions générales de vente » Forum - Webmaster
+*   Conditions générales d'utilisation » Articles - Guide d'utilisation
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
+*   Forum Windows XP
 *   Forum Webmastering
-*   Consommation et internet
