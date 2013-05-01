@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-Apr 30, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 1, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -251,11 +251,10 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Spring Wheat is 12% Planted, USDA Says
-*   U.S. Dairy Exports Increase in Early 2013
-*   Corn Crop 5% Planted, USDA Reports
-*   CWT Assists with 2 Million Pounds of Export Sales
-*   Maximize Corn Ear Count at Planter Setup
+*   Power Hour: Planting Progress Lowest Since 1985
+*   AGCO, CNH See Increased Tractor Demand
+*   Video series on cattle transportation available
+*   Wheat Yields Forecast at 45 Bu. in 12 Central Kansas Fields
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
