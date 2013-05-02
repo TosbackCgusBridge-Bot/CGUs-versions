@@ -60,12 +60,12 @@ Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loa
 *   Urban Youth Academy
 *   _Diverse Business Partners_
     *   Home
-    *   About DBP
-    *   Supplier info
-    *   Vendors Spotlight
+    *   About
+    *   Supplier Info
+    *   Vendor Info
     *   Calendar
-    *   References &. Resources
-    *   Search Opportunities
+    *   Resources
+    *   Opportunities
     *   Diverse Business Summit
 *   MLB Tryout Camps
 *   _Television_
