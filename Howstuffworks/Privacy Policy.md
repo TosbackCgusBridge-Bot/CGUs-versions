@@ -282,9 +282,7 @@ Can't get enough HowStuffWorks?
     
     Animal Planet
     
-    Consumer Guide Auto
-    
-    Consumer Guide Products
+    Animal Planet Live
     
     Destination America
     
