@@ -35,12 +35,12 @@
 
 *   Products
 *   Find a Product
-*   Babygear
-*   Baby Toys
-*   Role Play
+
+*   Baby
+*   Gear, toys, and more essentials for baby
 
 *   Sweeps
-*   Share Your Moment Sweepstakes Official Rules
+*   Share the Joy Sweepstakes Official Rules
 
 *   Family Playtime
 *   Playtime Guide
