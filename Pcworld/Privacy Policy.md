@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Microsoft's IllumiRoom project transforms whole rooms into video games April 30, 2013
-*   Verizon rolls out mostly pointless cloud-storage service April 30, 2013
-*   Curiosity rover may be in trouble after a month of silence April 30, 2013
+*   AT&T offers oversized LG Optimus G Pro Android phone May 1, 2013
+*   This giant storm on Saturn looks both stunning and terrifying May 1, 2013
+*   Virgin Galactic SpaceShipTwo goes supersonic in its first rocket-powered flight May 1, 2013
 
 PCWorld Articles
 
-*   Twitter opens self-service ads to everyone April 30, 2013
-*   Oracle lands $100 million ERP project covering 34 colleges April 30, 2013
-*   Doxie One makes on-the-go scanning simple April 30, 2013
+*   Aging networking protocols abused in DDoS attacks May 1, 2013
+*   Facebook's big data plans include warehouses, faster analytics May 1, 2013
+*   Mozilla moves to stop spyware company from spoofing Firefox May 1, 2013
 
   
 TechHive on Twitter (@TechHive)
