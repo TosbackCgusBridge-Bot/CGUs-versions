@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   AT&T offers oversized LG Optimus G Pro Android phone May 1, 2013
-*   This giant storm on Saturn looks both stunning and terrifying May 1, 2013
-*   Virgin Galactic SpaceShipTwo goes supersonic in its first rocket-powered flight May 1, 2013
+*   3D-print your Minecraft masterpieces with Printcraft May 2, 2013
+*   Facebook's "Trusted Contacts" lets friends bail you out of a hack attack May 2, 2013
+*   Ludum Dare 26's 48-hour challenge is up! Lets find some gems May 2, 2013
 
 PCWorld Articles
 
-*   Aging networking protocols abused in DDoS attacks May 1, 2013
-*   Facebook's big data plans include warehouses, faster analytics May 1, 2013
-*   Mozilla moves to stop spyware company from spoofing Firefox May 1, 2013
+*   Would you use a cloud-based version of Windows? May 2, 2013
+*   Insect-like flying robot developed by Harvard researchers May 2, 2013
+*   Mobile Ads Lead to Revenue Growth for Facebook May 2, 2013
 
   
 TechHive on Twitter (@TechHive)
