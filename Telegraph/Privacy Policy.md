@@ -52,6 +52,8 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses p
 
 (3) administer services to you and to advertisers.
 
+(4) meter the number of pages you view for the purpose of administering subscriptions to The Telegraph.
+
 5.3 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
 
 5.4 NetRatings UK Limited are one of the third parties we use to provide us with information about how users use our website. Click here to learn more information about how we use their third party service to collect and use information about this website.
@@ -96,4 +98,4 @@ http://www.audiencescience.com/privacy
 
 11.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly.
 
-_This Policy was last updated on January 10, 2013._
+_This Policy was last updated on May 2, 2013._
