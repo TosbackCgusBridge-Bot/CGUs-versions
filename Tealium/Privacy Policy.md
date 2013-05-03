@@ -42,6 +42,7 @@ Privacy Policy US Office
 11085 Torreyana Road  
 San Diego, CA 92121
 
+Sales: (888) 622-2050  
 Tel: +1 (858) 779-1344  
 Fax: +1 (858) 345-3844
 
