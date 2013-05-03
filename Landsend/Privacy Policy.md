@@ -389,6 +389,12 @@ Enter Keyword or Item # Search
     *   Not Quite Perfect
 *   canvas
 *   lebo
+    
+    *   ABOUT LANDS' END BUSINESS OUTFITTERS
+        
+        Lands' End is a leading provider of logo'd apparel and gear for companies of all sizes.
+        
+        Visit Lands' End Business Outfitters The Lands' End Business Outfitters site does not share a shopping cart with this site.
 
 *   Women
 *   Men
@@ -411,6 +417,8 @@ Homepage >. Customer Service >. Legal Policies >. Privacy
     *   Returns
     *   Contact Us
     *   Order History
+    *   Gift Cards
+    *   Manage Email Subscription
     *   Services
     *   Legal Policies
         *   Privacy
@@ -534,6 +542,12 @@ Policies
 *   Returns
 *   California Transparency Act
 
+Sustainability
+
+We're a proud partner of the National Forest Foundation
+
+LEARN MORE
+
 Shop Our E-Catalog
 
 Environmentally friendly, easy to shop and always at your fingertips.
@@ -542,7 +556,7 @@ BROWSE CATALOG
 
 Connect with us
 
-From tablet to smart phone, we're everywhere you are.
+From tablet to smartphone, we're everywhere you are.
 
 LEARN MORE
 
