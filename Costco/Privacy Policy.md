@@ -44,7 +44,7 @@ We respect your right to privacy. We do not sell, rent, share or disclose person
 
 A. What is Personal Information?
 
-Personal information is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, Internet (IP) address and information about an individual&rsquo;s purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centersbelow). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account.
+Personal information is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, Internet (IP) address and information about an individual's purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centersbelow). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account.
 
 B. Collection of Personal Information
 
