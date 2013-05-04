@@ -1,4 +1,4 @@
-GoDaddy.com, LLC Subpoena Policy
+**GoDaddy.com, LLC Subpoena Policy**
 
 Go Daddy's Privacy Policy prohibits the release of customer or account information without express permission from the customer, except when required by law, to conform to the edicts of the law, or to comply with legal process properly served on Go Daddy or one of its affiliates.
 
@@ -40,3 +40,61 @@ Go Daddy's subpoena compliance costs are as follows:
 *   Research - $75.00/hour
 *   Federal Express - Cost as Billed
 *   Copies - $.25/page
+
+**SUBMITTING COURT AND OTHER LEGAL DOCUMENTS TO GODADDY.COM, LLC**
+
+You can contact the Domain Disputes Department at Go Daddy with questions regarding UDRP proceedings, litigation or other legal disputes involving domain names registered with Go Daddy or website content hosted with Go Daddy.   Please review the following information and contact us regarding domain name disputes before filing a new legal action or if you have any other questions:
+
+ **Hours of Operation:** Monday-Friday 8am-5pm (Mountain Time)
+
+                **Email address:** domaindisputes@godaddy.com     
+
+**If Go Daddy is the registrar of the domain name in dispute or is hosting the content that is the subject of my complaint, do I need to name Go Daddy in the legal action I file?**
+
+No.  It is not necessary to name Go Daddy in a legal dispute regarding a domain name registered or hosted at Go Daddy.  Go Daddy will comply with any Order issued by a court of competent jurisdiction regarding the final disposition of the domain name or website at issue. 
+
+**Is it necessary to name Domains By Proxy in a legal action I file if the domain name uses Domains by Proxy’s privacy service?**
+
+No.  It is not necessary to name Domains by Proxy in a legal dispute.  Domains by Proxy is a private registration service and has no control over the domain name or any associated website content.  Like Go Daddy, Domains By Proxy will comply with any Order issued by a court of competent jurisdiction.
+
+**What is the best way to submit court documents to Go Daddy?**
+
+Documents can be sent to domaindisputes@godaddy.com.  Electronic copies via email are preferred and do not need to be followed up with hard copies.
+
+**What should be included in court orders sent to Go Daddy?**
+
+Court orders should be as specific as possible, but at a minimum, must include:
+
+•   The affected domain name(s) and, for content we are hosting, the specific URLs where the hosted content is located. (Please only provide us with orders for content we host.)
+
+•   The specific action that Go Daddy is being requested to take regarding the domain name and/or associated website.
+
+•   If plaintiff is seeking control of a customer’s Go Daddy account, the court order must specify the Go Daddy account number. (Please only pursue this option if all domain names in the account are related to the litigation.)
+
+**Can non-US based court documents be submitted?**
+
+Yes.  If the documents are not in English, we require the following:
+
+•   Original court-stamped copy, **and**
+
+•   A certified translation of the court-stamped copy into English.
+
+**Are there additional requirements for Settlement Agreements?**
+
+Yes.  In order for Go Daddy to implement terms associated with a settlement agreement, the settlement agreement must:
+
+•   Involve litigation;
+
+•   Have notarized signatures from both parties;
+
+•   Specify the affected domain name(s). and
+
+•   Include a statement that the litigation will be dismissed with prejudice.
+
+**Are there additional requirements for Receiverships?**
+
+Yes. All receivership orders must:
+
+•   Explicitly list the domain name(s) that are to be moved separately from other assets, and
+
+•   State that the Receiver is to manage and/or sell the domain name(s).
