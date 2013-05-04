@@ -403,6 +403,7 @@ Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     kaufen
 *   Partnersuche
 *   Arztsuche
+*   DSL-Vergleich
 
 *   ENERGIE
 *   Gasanbieter-  
