@@ -215,15 +215,7 @@ Device Help
 *   Ultra Tracker Help
 *   Aria Scale Help
 
-OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Wearability
-
-Wear your Fitbit One somewhere near your torso during the day. Some recommended places to wear it are:
-
-*   clipped to your bra
-*   clipped to your waistband or pocket
-*   inside your pocket
-
-Press to change display
+OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Press to change display
 
 Your Fitbit One is always tracking, even when the display is asleep. Press the button to view your stats.
 
