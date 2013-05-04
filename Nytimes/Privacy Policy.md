@@ -5,7 +5,7 @@
 *   Video
 *   Most Popular
 
-Edition: U.S. / Global Search All NYTimes.com
+Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
