@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: April 23, 2013**
+**Last Revised: May 3, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -12,9 +12,7 @@ This Universal Terms of Service Agreement (this “Agreement”) is entered into
 Whether you are simply browsing or using this Site or purchase Services, your use of this Site and your electronic acceptance of this Agreement signifies that you have read, understand, acknowledge and agree to be bound by this Agreement, along with the following policies and agreements, which are incorporated herein by reference:
 
 *   Privacy Policy
-*   Anti-Spam Policy
-*   Civil Subpoena Policy
-*   Criminal Subpoena Policy
+*   Subpoena Policy
 *   Dispute On Transfer Away Form
 *   Uniform Domain Name Dispute Resolution Policy
 *   ICANN Transfer Dispute Resolution Policy
@@ -135,7 +133,39 @@ Go Daddy expressly reserves the right to terminate, without notice to you, any a
 
 ****11**. NO SPAM. LIQUIDATED DAMAGES**
 
-You acknowledge you have read, understand and agree to be bound by Go Daddy’s Anti-Spam Policy referenced above and available here.  You agree Go Daddy may immediately terminate any Account which it believes, in its sole and absolute discretion, is transmitting or is otherwise connected with any spam or other unsolicited bulk email. In addition, if actual damages cannot be reasonably calculated then you agree to pay Go Daddy liquidated damages in the amount of $1.00 for each piece of spam or unsolicited bulk email transmitted from or otherwise connected with your Account.
+_No Spam._  We do not tolerate the transmission of spam. We monitor all traffic to and from our web servers for indications of spamming and maintain a spam abuse complaint center to register allegations of spam abuse. Customers suspected to be using our products and services for the purpose of sending spam are fully investigated. If we determine there is a problem with spam, we will take the appropriate action to resolve the situation. Our spam abuse complaint center can be reached by email at abuse@godaddy.com.
+
+We define spam as the sending of Unsolicited Commercial Email (UCE), Unsolicited Bulk Email (UBE) or Unsolicited Facsimiles (Fax), which is email or facsimile sent to recipients as an advertisement or otherwise, without first obtaining prior confirmed consent to receive these communications from the sender. This can include, but is not limited to, the following:
+
+        i.      Email Messages
+
+       ii.      Newsgroup postings
+
+      iii.      Windows system messages
+
+      iv.      Pop-up messages (aka "adware" or "spyware" messages)
+
+       v.      Instant messages (using AOL, MSN, Yahoo or other instant messenger programs)
+
+      vi.      Online chat room advertisements
+
+     vii.      Guestbook or Website Forum postings
+
+    viii.      Facsimile Solicitations
+
+      ix.      Text/SMS Messages
+
+We will not allow our servers and services to be used for the purposes described above. In order to use our products and services, you must not only abide by all applicable laws and regulations, which include the Can-Spam Act of 2003 and the Telephone Consumer Protection Act, but you must also abide by this no spam policy. Commercial advertising and/or bulk emails or faxes may only be sent to recipients who have "opted-in" to receive messages from the sender specifically. They must include a legitimate return address and reply-to address, the sender's physical address, and an opt-out method in the footer of the email or fax. Upon request by us, conclusive proof of opt-in may be required for an email address or fax number.
+
+If we determine the services in question are being used in association with spam, we will re-direct, suspend, or cancel any web site hosting, domain registration, email boxes or other applicable services for a period of no less than two (2) days. The registrant or customer will be required to respond by email to us stating that they will cease to send spam and/or have spam sent on their behalf. We will require a non-refundable reactivation fee to be paid before the site, email boxes and/or services are reactivated. In the event we determine the abuse has not stopped after services have been restored the first time, we may terminate the hosting and email boxes associated with the domain name in question.
+
+We encourage all customers and recipients of email generated from our products and services to report suspected spam. Suspected abuse can be reported by email or through our Spam Abuse Complaint Center on the Web.
+
+Web: https://www.godaddy.com/gdshop/spamreport/spamreport.asp
+
+Email: abuse@godaddy.com
+
+_Liquidated Damages._  You agree that we may immediately terminate any Account which we believe, in our sole and absolute discretion, is transmitting or is otherwise connected with any spam or other unsolicited bulk email. In addition, if actual damages cannot be reasonably calculated then you agree to pay us liquidated damages in the amount of $1.00 for each piece of spam or unsolicited bulk email transmitted from or otherwise connected with your Account.
 
 ****12**. TRADEMARK AND/OR COPYRIGHT CLAIMS**
 
@@ -730,5 +760,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 4/23/2013  
+Revised: 5/3/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
