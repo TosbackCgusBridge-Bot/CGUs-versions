@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   3D-print your Minecraft masterpieces with Printcraft May 2, 2013
-*   Facebook's "Trusted Contacts" lets friends bail you out of a hack attack May 2, 2013
-*   Ludum Dare 26's 48-hour challenge is up! Lets find some gems May 2, 2013
+*   TitanArm gives you superhuman strength, is the perfect excuse to skip the gym May 3, 2013
+*   What I'm Playing: Wish upon a Star (Command) May 3, 2013
+*   3D printer? Staples says, 'Yeah, we've got that' May 3, 2013
 
 PCWorld Articles
 
-*   Would you use a cloud-based version of Windows? May 2, 2013
-*   Insect-like flying robot developed by Harvard researchers May 2, 2013
-*   Mobile Ads Lead to Revenue Growth for Facebook May 2, 2013
+*   Accused SpyEye creator extradited to the US May 3, 2013
+*   Microsoft to grow Office 365's capacity to import contacts from third-party tools May 3, 2013
+*   Retailers share blame for poor Windows 8 sales May 3, 2013
 
   
 TechHive on Twitter (@TechHive)
