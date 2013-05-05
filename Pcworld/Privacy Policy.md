@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   TitanArm gives you superhuman strength, is the perfect excuse to skip the gym May 3, 2013
-*   What I'm Playing: Wish upon a Star (Command) May 3, 2013
-*   3D printer? Staples says, 'Yeah, we've got that' May 3, 2013
+*   Spam's birthday and Hotmail's closure lead email milestones May 4, 2013
+*   3D-printable gun specs to be available next week, provider says May 4, 2013
+*   How to work through the Camera Raw dilemma May 4, 2013
 
 PCWorld Articles
 
-*   Accused SpyEye creator extradited to the US May 3, 2013
-*   Microsoft to grow Office 365's capacity to import contacts from third-party tools May 3, 2013
-*   Retailers share blame for poor Windows 8 sales May 3, 2013
+*   Twitter needs to grow up and take responsibility, some say May 4, 2013
+*   Windows RT tablets already may be doomed, analysts say May 4, 2013
+*   Cyberattack affected US defense contractor over three-year period May 4, 2013
 
   
 TechHive on Twitter (@TechHive)
