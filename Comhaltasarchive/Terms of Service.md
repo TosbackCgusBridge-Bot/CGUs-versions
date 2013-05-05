@@ -1,0 +1,133 @@
+Terms &. Conditions
+
+This Statement on "Ethics, Terms &. Conditions" must be read and accepted by all patrons of the Comhaltas Archive before a research account will be created. For a more general description of the Comhaltas Archive, refer to the page About the Comhaltas Archive.
+
+*   Ethics Statement
+*   Ethical and Permitted Usage of Recordings
+*   Notice and Takedown policy
+*   Terms of Use for User-contributed Content
+*   Copyright
+*   Acceptable Use Policy
+*   Privacy and Web Log Files
+*   Data protection
+*   Other Websites
+*   Legal Disclaimer
+*   Governing Law
+
+Ethics Statement
+
+The recordings and documents in the Comhaltas Archive were either collected directly by Comhaltas, or governed by licence agreements between Comhaltas and its Licensors. The material is intended solely for the purposes of teaching, learning and research. Any misuse of the materials such as illegal file sharing, misquotation, misappropriation or decontextualisation constitutes a breach of these agreements. Please treat the materials with respect as a failure to do so constitutes a breach of the trust we have built up with the performers and contributors to this Archive.
+
+Comhaltas has established a framework for including recordings in online delivery projects that considers both legal and ethical issues. Comhaltas respects the intellectual property rights, including moral rights of the rights owners. Comhaltas actively pursues a continued process of engagement with local rights holders as part of a broader mission to protect and represent the adherents of Irish cultural traditions.
+
+Due effort has been made to ensure sensitive material has been cleared for use or has been removed from wider access. The material is available on an "await claim" basis, and rights holders are encouraged to contact us with any problems. Our Notice and Takedown clauses are published on our website so that material can be removed if a copyright holder objects to its inclusion, and agreements with local musicians and collectors are in place where appropriate to clear rights in musical and literary works.
+
+Ethical and permitted usage of recordings
+
+We adopt the following statement on traditional cultural materials, based on a similar statement prepared by the British Library and the World Intellectual Property Organization:
+
+Comhaltas has digitised these collections of recordings and made them available purely for the purposes of safeguarding them and for making them available for non-commercial research, study and private enjoyment. The collections include culturally sensitive materials, among them ethnographic sound recordings. These recordings should not be altered or used in ways that might be derogatory to the local communities who are traditional custodians of the traditional music, lyrics, knowledge, stories, performances and other creative materials embodied in the sound and video recordings.
+
+While Comhaltas, or contributors to its collections, may be the owner of intellectual property in the digitisations of the recordings and in the recordings themselves, Comhaltas recognises that broader rights and interests in intangible cultural heritage, including traditional music and other creative materials embodied in the recordings may, under national, customary and other laws, reside with the traditional custodians of such materials. Therefore the prior informed consent of Comhaltas and/or other contributing third parties, as well as the traditional custodians is required for the republication and commercial use of part or whole of these materials.
+
+Comhaltas always seeks to take account of cultural sensitivities and any religious or other restrictions in the recordings its possesses and/or owns. Where possible, the location and date of the recording, the names of original performers and traditional custodians of the music, and the lyrics, knowledge, stories and performances embodied in the recordings have been identified. Comhaltas takes considerable care not to distort or alter this underlying material in any derogatory way. In the event, however, that any community or community representative feels aggrieved by the digitisation and making available of these materials, Comhaltas invites such community to contact it via the address below in order to resolve the matter amicably through mutual discussion.
+
+Notice and Takedown policy
+
+If you are a rights holder and are concerned that you have found material on any Comhaltas website for which you have not given permission, or is not covered by a limitation or exception in national law, please contact us in writing stating the following:
+
+*   Your contact details.
+*   The full details of the material in question.
+*   The exact and full url (web address) where you found the material.
+*   A statement that, under penalty of perjury, you are the rights holder or are an authorised representative.
+*   Any supporting documentation or circumstances about which we should be made aware.
+
+  
+
+Our contact details:
+
+Comhaltas Ceoltóirí Éireann (Archive)  
+32 Belgrave Square  
+Monkstown, Co. Dublin  
+Ireland
+
+  
+
+Email: archive@comhaltas.ie
+
+Upon receipt of a written notification the 'Notice and Takedown' procedure is then invoked as follows:
+
+1\. Comhaltas will acknowledge receipt of your complaint by email or letter and will make an initial assessment of the validity and plausibility of the complaint.  
+2\. Upon receipt of a valid complaint the material will be temporarily removed from the Comhaltas website pending an agreed solution.  
+3\. Comhaltas will contact the contributor who deposited the material, if relevant. The contributor will be notified that the material is subject to a complaint, under what allegations, and will be encouraged to assuage the complaints concerned.  
+4\. The complainant and the contributor will be encouraged to resolve the issue swiftly and amicably and to the satisfaction of both parties, with the following possible outcomes:
+
+*   The material is replaced on Comhaltas website unchanged.
+*   The material is replaced on Comhaltas website with changes.
+*   The material is permanently removed from the website.
+
+If the contributor and the complainant are unable to agree a solution, the material will remain unavailable through Comhaltas until a time when a resolution has been reached.
+
+Terms of Use for User-contributed Content
+
+Several aspects of the Comhaltas Archive website allow end-users to contribute original material, for example through the suggestion of item notes or through tune and performer identifications. These user-contributed functionalities (Features) require some special rights to be agreed.
+
+If you use the Features you are deemed to have agreed to abide by all of the following Terms and Conditions together with any amendments thereto (both of which are non-negotiable) under which the Features are offered, and to be bound by them. Breach of any of these Terms and Conditions or any revised Terms and Conditions that we may from time to time impose may result in the blocking of your access to the Comhaltas Archive website.
+
+You acknowledge that any material posted is done so at your own risk. and we cannot guarantee the continued availability of your material within the Features. Your name and login ID may be displayed alongside your material. This personal information will not be used, or disclosed to third parties, except for the purposes of running the Features, or otherwise in accordance with our Terms of Use.
+
+By posting material on the Comhaltas website you hereby grant us a non-exclusive, worldwide, royalty-free, irrevocable licence to use your material within the Features. For the avoidance of doubt, we will not use your material for any commercial purposes whatsoever, or for any purpose other than that set out in this clause. We reserve the right to change or remove the Features without notice at any stage if we deem this necessary or circumstances arise that are outside our control. and to remove any material that does not comply with the rules. Any decision to remove such material is final and no correspondence will be entered into.
+
+If you choose to use these Features, you are warranting that you have full right, power and authority to provide the material, and that such material does not infringe any third party rights. You are hereby indemnifying us against any actions brought against us for any alleged infringement of third party rights arising from the use of the material within the Features.
+
+Copyright
+
+Much of the content of this website is copyright by Comhaltas Ceoltóirí Éireann and by others. You are agreeing to abide by all copyright notices and restrictions attached to the content and not to remove or alter any such notice or restriction. It is part of your responsibility as a patron of the Comhaltas Archive to be aware of and to comply with all applicable laws governing copyrighted material. Some of our materials are licensed under a Creative Commons license which grants you limited rights to copy and re-use this content, but only under the condition that your use be non-commercial, and that attribution is provided to Comhaltas and to the original performer/collector. Details of the Creative Commons licensing scheme can be found at creativecommons.org.
+
+Comhaltas has made every reasonable effort to locate, contact and acknowledge copyright owners and wishes to be informed by any copyright owners who are not properly identified and acknowledged on this website so that we may make any necessary corrections.
+
+Acceptable Use Policy
+
+The content of this website can be accessed, printed and downloaded in an unaltered form with copyright acknowledged. Any content printed or downloaded may not be sold, resold or licensed in whole or in part without the prior written consent of Comhaltas.
+
+You agree not to:
+
+*   impersonate another person or use a false name or a name you are unauthorised to use or create a false identity or e-mail address or try to mislead others as to the identity or origin of any communications;
+*   make available or upload files that contain software or other material, data or information not owned or licensed to you or collect information about others (eg names/addresses) without their prior consent;  
+    damage, interfere with or disrupt access to the website or any of the services delivered through such website or do anything which may interrupt or impair their functionality;
+*   publish, post, distribute, disseminate or otherwise transmit defamatory, offensive, infringing, obscene, indecent or other unlawful or objectionable material or information;
+*   threaten, harass, stalk, abuse, disrupt, cause inconvenience or distress or otherwise violate the rights (including rights of privacy and publicity) of others;
+*   use the content or the website for any illegal or improper purpose,  
+    Comhaltas retains the right to prevent you from accessing the website or any of the services provided through the website, without prejudice to any of our accrued rights, where we in our reasonable discretion consider that you are contravening our Acceptable Use Policy or any other term or condition of these Terms of Use.
+
+Other individuals and organisations wishing to make Comhaltas content accessible through their websites are encouraged to create hypertext links to the required content on this website.
+
+Privacy and Web Log Files
+
+In common with most websites, the Comhaltas website logs certain information about every request sent to it. This information is used for system administration, internal research and for producing usage statistics. Summary statistics are extracted from this data and some of these may be made publicly available, but these do not include information from which individuals could be identified. Relevant subsets of this data may be used as part of investigations of computer misuse involving this site (see also the Legal Disclaimer below). Data may also on occasion be used to enable investigation of technical problems on the website. Otherwise logged information is not passed to any third party except if required by law. Comhaltas may use the contents of web logs to investigate the effectiveness of features and content within the Comhaltas Archive site, and to that end we may look carefully at search terms entered and results retrieved.
+
+Data protection
+
+From time to time we will use electronic forms on this site to gather personal information for purposes directly related to a service, function or activity of Comhaltas. When we do so we will let you know the purpose for which the information is being collected (including if the information is to be published). Completion of and submission of any form on this website is entirely at the discretion of you, the website user.
+
+In using and submitting forms on this website you agree that Comhaltas may use any personal data of yours that you supply through the forms. Comhaltas respects your privacy and seeks to protect your personal data:
+
+*   Comhaltas will only collect and use your information to administer, support, improve and obtain feedback on its services
+*   Comhaltas may also use this information to assess what Comhaltas products, events and services may be of interest to you and to personalise our service and marketing efforts
+*   Comhaltas may also contact you to obtain feedback on services and any improvements we can make
+*   You have the right to ask us at any time not to contact you by way of direct marketing
+*   Comhaltas will not disclose your personal data to any other organisation without your permission.
+
+Other Websites
+
+The Comhaltas website provides links to other independent sites such as thesession.org and others, but this policy statement applies only to direct use of this website (comhaltasarchive.ie). You will need to consult the providers of other websites for information on their policies.
+
+Legal Disclaimer
+
+Comhaltas has prepared the content of this website responsibly and carefully, but disclaims all warranties, express or implied, as to the accuracy of the information contained in any of the materials on this website or on other linked websites or on any subsequent links.
+
+Comhaltas shall not be liable for any losses or damages (including without limitation consequential loss or damage) whatsoever from the use of, or reliance on, the information in its website, or from the use of the Internet generally. Any links to other websites do not constitute an endorsement or an approval by Comhaltas of any products, services, policies or opinions of the organisation or individual.
+
+Governing Law
+
+These Terms and Conditions shall be governed by and construed in accordance with Irish law. You hereby submit to and agree that the sole jurisdiction and venue for any actions that may arise under or in relation to the subject matter hereof shall be the Irish courts. Of course, we would certainly hope to resolve any such dispute amicably if at all possible.
