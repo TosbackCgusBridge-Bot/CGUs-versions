@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Spam's birthday and Hotmail's closure lead email milestones May 4, 2013
-*   3D-printable gun specs to be available next week, provider says May 4, 2013
-*   How to work through the Camera Raw dilemma May 4, 2013
+*   Facebook blocks rival Path's access to friends features May 5, 2013
+*   Website 'spoofing' still fools users, security study reveals May 5, 2013
+*   Play This! Podcast: Monaco, Bravest Warriors, and the clothes they wear on TV May 5, 2013
 
 PCWorld Articles
 
-*   Twitter needs to grow up and take responsibility, some say May 4, 2013
-*   Windows RT tablets already may be doomed, analysts say May 4, 2013
-*   Cyberattack affected US defense contractor over three-year period May 4, 2013
+*   Windows 8's complexity leaves it vulnerable, Kaspersky says May 5, 2013
+*   Mobile computing on the go a novelty overseas May 5, 2013
+*   Microsoft pledges patch for zero-day bug in Internet Explorer 8 May 5, 2013
 
   
 TechHive on Twitter (@TechHive)
