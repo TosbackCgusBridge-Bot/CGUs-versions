@@ -72,7 +72,7 @@ Krux complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Fram
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Krux commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Krux via: email at: privacy@kruxdigital.com or postal mail at 181 South Park, #2, San Francisco, CA 94107.
 
-Krux has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Krux, please visit the BBB EU SAFE HARBOR web site here  for more information and to file a complaint.
+Krux has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Krux, please visit the BBB EU SAFE HARBOR web site **here** for more information and to file a complaint.
 
 **Changes and questions**
 
