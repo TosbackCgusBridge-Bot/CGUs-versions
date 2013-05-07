@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Facebook blocks rival Path's access to friends features May 5, 2013
-*   Website 'spoofing' still fools users, security study reveals May 5, 2013
-*   Play This! Podcast: Monaco, Bravest Warriors, and the clothes they wear on TV May 5, 2013
+*   United Nations report says no to killer robots May 6, 2013
+*   Kinect sensor modified for wheelchair gaming May 6, 2013
+*   GameStop will halt trade-ins of PlayStation 2 games on June 1 May 6, 2013
 
 PCWorld Articles
 
-*   Windows 8's complexity leaves it vulnerable, Kaspersky says May 5, 2013
-*   Mobile computing on the go a novelty overseas May 5, 2013
-*   Microsoft pledges patch for zero-day bug in Internet Explorer 8 May 5, 2013
+*   Dell boosts cloud portfolio with Enstratius buy May 6, 2013
+*   Intel releases key details of its Atom redesign May 6, 2013
+*   Review: Futuremark looks beyond the PC with new 3DMark May 6, 2013
 
   
 TechHive on Twitter (@TechHive)
