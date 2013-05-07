@@ -210,6 +210,7 @@ Help
 
 Device Help
 
+*   Flex Tracker Help
 *   Zip Tracker Help
 *   One Tracker Help
 *   Ultra Tracker Help
