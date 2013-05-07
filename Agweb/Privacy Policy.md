@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 6, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 7, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -127,7 +127,10 @@ May 6, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Leave a Legacy TV
     *   AgDay: I-80 Harvest Tour
     *   AgDay: The New Crop
-    *   AgDay: I-80 Planting Tour 
+    *   AgDay: I-80 Planting Tour
+    *   Tout Live Video Updates
+    
+     
 *   Radio
     
     *   Farm Journal Market Radio
@@ -252,15 +255,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Cold, snow at start of May could injure corn seeds
-*   Tighten Planter Bolts and Bushings to Prevent Bounce
-*   John's World: “Africa Is Not For Sissies”
-*   Program Information for May 4-5, 2012
-*   Corn Planter Inspection Helps Preserve Dollars
-*   April Showers (and Snow) Bring Market Chaos
-*   Dollar Weakens Amid Bets Fed Will Maintain Stimulus
-*   A Mechanic's Commencement Comments
-*   Neck-and-Neck Race in the Grain Markets
+*   Spring Wheat is 23% Planted, USDA Says
+*   New Mexico Cheese Plant to Expand to Produce More Whey
+*   Soybean Planting Progress Officially Behind
+*   Asian Currencies Complete Best Rally Since September
+*   Corn Planting Tops 10% Complete
+*   Weather Adds Premium to New-Crop Corn
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
