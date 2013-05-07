@@ -304,7 +304,7 @@ For example, a Prize may include one or more of the following:
   
 Prize may include multiple home goods products.
 
-**The Approximate Retail Value ("ARV") of the Prize during a Promotion is up to $900.00**
+**The Approximate Retail Value ("ARV") of the Prize during a Promotion is up to $5,000.00**
 
 _\*For the Prize, the home goods products style, color and size are subject to in-stock availability. Any applicable taxes are the sole responsibility of the winner._
 
