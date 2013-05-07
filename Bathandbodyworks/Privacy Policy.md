@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Signature: Buy 3 Get 2 Free
+        *   Today Only: $5 Body Lotion
         *   New Arrivals
         *   Online Only: Buy 3 Get 2 Free
         *   Travel Body Care: 3 for $10
-        *   Body Care: Up to 50% Off
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   3-Wick Candles: 2 for $22
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
         *   Mini Candles: 3 for $10
         *   Scentportables: Buy 4 Get 2 Free
+        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
@@ -102,7 +102,7 @@ Welcome! **(Log in)**
         *   Pineapple Mango
         *   View All Fragrances
 *   *   Features
-        *   Hand Soap: 6 for $20
+        *   Hand Soap: 7 for $20
         *   PocketBac: 5 for $5
         *   New! Italy Inspired Soap
         *   Fresh Picked Market
@@ -136,11 +136,11 @@ Welcome! **(Log in)**
         *   Tuscan Vineyard
         *   View All Fragrances
 *   *   Features
-        *   Aromatherapy Body Wash: $6
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
+        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -213,10 +213,10 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   3-Wick Candles: 2 for $22
-        *   Online Only: Buy 3 Get 2 Free
+        *   Hand Soap: 7 for $20
+        *   Today Only: $5 Body Lotion
+        *   Body Care: Buy 3 Get 2 Free
         *   Wallflowers: 6 for $24
-        *   Hand Soap: 6 for $20
         *   Wallflowers Refills: 3 for $20
     *   Body &. Bath
         
