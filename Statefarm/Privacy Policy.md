@@ -28,6 +28,7 @@ State Farm Insurance - Auto, Life, Fire
         *   Get Insurance Quotes
         *   Find an Agent
         *   Manage Your Policy
+        *   Make a Payment
         *   Payment Options
         *   Claims Center
         *   Repair Facility Locator
@@ -74,6 +75,7 @@ State Farm Insurance - Auto, Life, Fire
         *   Quick Links
         *   Find an ATM
         *   Manage Your Accounts
+        *   Make a Payment
         *   Find an Agent
         *   Lost Card
         *   Contact Us
