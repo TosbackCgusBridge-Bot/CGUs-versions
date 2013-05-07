@@ -1,4 +1,4 @@
-**GoDaddy.com, LLC Subpoena Policy**
+**GoDaddy.com, LLC Subpoena Policy/Attorney Tips**
 
 Go Daddy's Privacy Policy prohibits the release of customer or account information without express permission from the customer, except when required by law, to conform to the edicts of the law, or to comply with legal process properly served on Go Daddy or one of its affiliates.
 
