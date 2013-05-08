@@ -11,7 +11,6 @@
     *   The 2013 Audi A3 **Starting at $27,270\***
         
         *   View A3 Overview
-        *   Build Your Audi A3
         
         Why should those wanting a compact, efficient\* car settle for less quality or driving pleasure? The Audi A3 may cast a modest shadow, but its handling and powertrains, when combined with its roomy interior and available signature Audi technologies, make it a small car with a disproportionate level of desirability.
         
