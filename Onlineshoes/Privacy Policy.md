@@ -24,8 +24,8 @@ Answers others found helpful
 *   How do I unsubscribe from emails or postal mail?
 *   What are cookies and why does OnlineShoes.com use them?
 *   Why do you require my email address and phone number to place an order?
-*   Do you have a price guarantee?
 *   Is my personal order information secure?
+*   If I change my billing information, will it update my order that’s in processing?
 
 Share
 
