@@ -1,6 +1,6 @@
-Effective Date: November 1, 2012  
+Effective Date: May 7, 2013  
   
-This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes &. Noble enterprise which consists of (a) Barnes &. Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, "Barnes &. Noble"). (b) businesses and operations managed or operated by Barnes &. Noble. (c) websites owned, operated and managed by Barnes &. Noble, including each website that links to this Privacy Policy, and eBookstores operated by Barnes &. Noble (collectively, "Barnes &. Noble Websites"). and (d) Barnes &. Noble's devices, content and applications. Protecting the privacy and security of your personal information is a priority at Barnes &. Noble, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses. More detailed information about specific practices and the operation of Barnes &. Noble Devices (as defined below) and Retail Apps (as defined below) is contained in the Barnes &. Noble Mobile Privacy Supplement which is incorporated into, and subject to, this Privacy Policy.  
+This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes &. Noble enterprise which consists of (a) Barnes &. Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, "Barnes &. Noble"). (b) businesses and operations managed or operated by Barnes &. Noble. (c) websites owned, operated and managed by Barnes &. Noble, including each website that links to this Privacy Policy, and any digital content stores operated by Barnes &. Noble (collectively, "Barnes &. Noble Websites"). and (d) Barnes &. Noble's devices, content and applications. Protecting the privacy and security of your personal information is a priority at Barnes &. Noble, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses. More detailed information about specific practices regarding Barnes &. Noble and NOOK mobile devices ("Devices") and mobile applications developed and maintained by Barnes &. Noble and NOOK ("Apps") is contained in the Barnes &. Noble Mobile Privacy Supplement which is incorporated into, and subject to, this Privacy Policy. To review the prior version of Barnes &. Noble's Privacy Policy, please click here.  
   
 **By doing business with or interacting with Barnes &. Noble in the manner described in this Privacy Policy at any time, you are accepting the practices described in this Privacy Policy and you consent to the application of this Privacy Policy to the collection, storage, use and disclosure of all your personal and other information as described.**  
   
@@ -11,6 +11,8 @@ Barnes &. Noble reserves the right to modify or amend this Privacy Policy at any
 Clarity: We strive to communicate clearly about your privacy and how we handle your personal information.  
 Security: We follow security standards, processes and procedures that are designed to protect your personal information.  
 Integrity: We do not sell or rent your personal information and respect your preferences with respect to your personal information.  
+  
+Below you will find answers to the following frequently asked questions about how we collect, use and share your personal information:  
   
 1\. What is the personal information that we collect?  
 2\. Why do we collect personal information?  
@@ -23,36 +25,30 @@ Integrity: We do not sell or rent your personal information and respect your pre
 9\. What other information about Barnes &. Noble's Privacy Policy would I want to know?  
 **1\. What is the personal information that we collect?**  
   
-Depending on how you choose to interact with our stores and the Barnes &. Noble Websites, we may collect personal information from you, for example your name, e-mail address, billing address, shipping address, phone number and credit card information. We may also collect other information (i) regarding your interaction with Barnes &. Noble Websites. (ii) regarding your interaction with Barnes &. Noble mobile devices distributed and sold by Barnes &. Noble, including but not limited to NOOK® , NOOK Color™, NOOK Tablet™, NOOK Simple Touch™, NOOK Simple Touch with GlowLight™, NOOK® HD and NOOK® HD+ (collectively, "Device\[s\]"). (iii) regarding your interaction with any Barnes &. Noble mobile applications distributed or sold by Barnes &. Noble, including any related third party mobile device and user information (collectively "Retail Apps"), or (iv) that you otherwise provide to us, including your use of Devices, purchase history and online browsing of products and services. For more information about information collected through Retail Apps and Devices, read the Barnes &. Noble Mobile Privacy Supplement.  
+Depending on how you choose to interact with the Barnes &. Noble enterprise, we may collect personal information from you, for example your name, e-mail address, billing address, shipping address, phone number, credit card information, date of birth and other persistent identifiers that can be used to personally identify you. If you rent, purchase or otherwise place orders for textbooks from Barnes &. Noble College Booksellers, we may also collect your student or faculty identification number, financial aid number, your driver license number and information regarding courses you enroll in or teach. We may also collect other personal information regarding your interaction with Barnes &. Noble Websites, Devices and Apps, including usage information, the items that you browse, purchase, download, read, watch and otherwise access, and your geographic location. For further details about personal information collected through Apps and Devices, please read the Barnes &. Noble Mobile Privacy Supplement.  
   
 **2\. Why do we collect personal information?**  
   
 We collect your personal information in an effort to provide you with a superior customer experience and, as necessary, to administer our business. It allows us to provide you with easy access to our products and services, with a particular focus on the items and programs that may be of most interest to you. For more information as to why we collect personal information, please see the section below entitled: "How do we use your personal information?"  
   
-Your personal information also allows us to communicate with you about special offers, promotions, and other marketing programs and news that may be of interest to you. You always have the opportunity to unsubscribe from promotional emails by following the instructions included in each marketing email or by changing your preferences in your "MY B&N" account .  
+Your personal information also allows us to communicate with you about special offers, promotions, and other marketing programs and news that may be of interest to you. You always have the opportunity to unsubscribe from promotional emails by following the instructions included in each marketing email or by changing your preferences in your account.  
   
 **3\. How do we collect your personal information?**  
   
-**(a). Information that you provide to us**  
+**(a) Information that you provide to us**  
   
-As a general matter, you can browse in our stores and on the Barnes &. Noble Websites without submitting your personal information to us. However, there are a number of circumstances in which you may need to provide us with your personal information. The most common of these circumstances include:  
+As a general matter, you can browse in our stores and on the Barnes &. Noble Websites without submitting your personal information to us, although we may receive and collect certain personal information automatically, as outlined in Section 3(b) of this Privacy Policy, including site analytics regarding our websites, information your Internet browser automatically sends when you visit our websites, and information collected by cookies.  
   
 
 *   Making a purchase or placing an order
-*   Creating an account online or on a Device
-*   Enrolling in our Member loyalty program
-*   Enrolling in our Educator program
-*   Enrolling in our B&N Kids' Club™ program
-*   Submitting a customer review, a list, or other user-created content or participating in Barnes &. Noble Book Clubs
-*   Posting a blog, or participating in an online interactive community
-*   Signing up for Lark Crafts, Sterling Publishing, Inc. and Pixiq Email Newsletters
+*   Creating an account or joining the Member Loyalty Program
 *   Applying for a Barnes &. Noble MasterCard
-*   Creating a "My B&N" or "My NOOK" Profile
 *   Signing up for Invite-a-Friend Emails
-*   Contacting customer service
 *   Using specific features of your Device
 *   Contacting customer service
-*   Additional Website, Device or Retail App Features
+*   Additional Barnes &. Noble Website, Device or App Features
+*   Interacting with social networking sites
+*   Entering a sweepstakes or contest
 
   
   
@@ -60,71 +56,43 @@ For your convenience, we have provided a summary description of each of these ci
   
 **Making a purchase or placing an order**  
   
-When you make a purchase or place an order in our stores or place an order online, you may need to submit personal information to us.  
+When you make a purchase, rent or place an order in our stores, place an order online or purchase, download, rent or stream books, periodicals, movies, television shows and other digital content ("Digital Content"), you may need to submit personal information to us.  
   
-**Creating an account online or on a Device**  
+**Creating an account **or joining the Member Loyalty Program****  
   
-You can create a password-protected barnesandnoble.com account to purchase or download eBooks, digital magazines, digital newspapers, digital journals and other periodicals, blogs, other digital content ("Digital Content"), to complete your online order, to save items to an online Wish List, or to join a barnesandnoble.com, Pixiq.com, or LarkCrafts.com online interactive community. You can also create a password-protected SparkNotes.com or ecosystemlife.com account. Also, you are required to create a password-protected Device account to register your Device or other electronic reading device(s) and to purchase and download NOOK Media's eReader Software. To create any of these accounts, we will ask you to provide us with personal information. If you use your online account to make a purchase or download, we will use the personal information stored in your account and/or require you to input additional personal information, such as credit card information, to complete your order or download.  
-  
-**Enrolling in our Member loyalty program**  
-  
-When you enroll in our Member loyalty program, we will ask you to submit personal information as part of your Member profile. The personal information you submit is held in a Member database. When you use your membership, the transaction information for your purchase, including personal information, is copied and stored in the Member database so that we can administer the Member program.  
-  
-**Enrolling in our Educator Program**  
-  
-When you enroll in our Educator Program, we will ask you to submit personal and school/institution information as part of your Educator profile. The personal and school information you submit is held in a database. When you use your discount card, the transaction information for your purchase, including personal information, is copied and stored in the database so that we can administer the Educator program.  
-  
-**Enrolling in the Barnes &. Noble Kids' Club™ Program**  
-  
-When you enroll in the B&N Kids' Club™ Program, we will ask you to submit personal information as part of your B&N Kids' Club™ account, including the names/nicknames and birthdates of the children you include in your profile. The personal information you submit is held in a database. When you use your Member card or B&N Kids' Club™ loyalty card, the transaction information for your purchase, including personal information, is copied and stored in the database so that we can administer the B&N Kids' Club™ program.  
-  
-**Submitting a customer review, a list, or other user-created content or participating in Barnes &. Noble Book Clubs**  
-  
-You may choose to submit an online customer review or to participate in Barnes &. Noble Book Clubs. Because any information you choose to post with your customer review or in the Book Clubs will be available on the Internet, we can make no assurances that others will not use, or misuse, that information.  
-  
-**Posting a blog, or participating in an online interactive community**  
-  
-You may choose to submit or post information as part of a blog or online interactive community. Because any information you choose to post will be available on the internet, we can make no assurance that others will not use, or misuse that information.  
+In order to use Devices, certain Apps and features of Barnes &. Noble Websites, or to purchase or access Digital Content, you may be required to create a password-protected user account and provide us with personal information when you do so. Similarly, when you enroll in our Member Loyalty Program, we will ask you to submit personal information as part of your member profile. We will store and use this information to administer the programs and services in which you choose to participate, and as permitted by this Privacy Policy.  
   
 **Applying for a Barnes &. Noble MasterCard**  
   
-When you apply for a Barnes &. Noble MasterCard, you will need to submit personal information directly to Barclays Bank Delaware, the issuer of the MasterCard. Personal information that you provide directly to Barclays Bank Delaware is subject to the bank's privacy policies, practices and procedures, not Barnes &. Noble's.  
+When you apply for a Barnes &. Noble MasterCard, you will need to submit personal information directly to the issuer of the MasterCard. Personal information that you provide directly to the issuer is subject to the bank's privacy policies, practices and procedures, not Barnes &. Noble's.  
   
-In addition, we disclose certain personal information to Barclays Bank Delaware in connection with the administration of the Barnes &. Noble MasterCard program. Barclays Bank Delaware does not have the right to use the personal information we provide beyond what is necessary to assist us or to administer this program. Barclays Bank Delaware is contractually obliged to maintain the confidentiality and security of the personal information we provide and is restricted from using such information in any way not expressly authorized by us.  
+In addition, we disclose certain personal information to the issuer of the MasterCard in connection with the administration of the Barnes &. Noble MasterCard program. The issuer does not have the right to use the personal information we provide beyond what is necessary to assist us or to administer this program. The issuer is contractually obliged to maintain the confidentiality and security of the personal information we provide and is restricted from using such information in any way not expressly authorized by us.  
   
-**Creating a "My B&N" or "My NOOK" Profile**  
+**Signing up for Invite-a-Friend Features**  
   
-You may choose to submit personal information when you create a My B&N, My NOOK or similar profile on your Device or on a Barnes &. Noble Website or our Retail Apps.  
+Our Invite-a-Friend feature is located in various areas of certain Barnes &. Noble Websites and within certain Devices. By clicking on 'Email' or 'Find friends from contacts' on your Device, customers can email a link to a friend which will invite the friend to view the Barnes &. Noble Website page or attend the event described on that page.  
   
-**Signing up for Invite-a-Friend Emails**  
+The 'Find friends from contacts' feature on the Device may access the contacts you have entered into your Device in order to generate such emails. To remove yourself from these mailings, please call our Customer Service Center at 1-800-THE-BOOK (1-800-824-2665). Individuals calling from abroad should call us at 1-201-559-3882.  
   
-Our Invite-a-Friend feature is located in various areas of certain Barnes &. Noble Websites. This feature appears as an 'Email' link on the pages listed below. By clicking on 'Email', customers can email a link to a friend which will invite the friend to view the Barnes &. Noble Website page or attend the event described on that page:  
+**Using specific features of **Barnes &. Noble Websites, Devices and Apps****  
   
-
-*   Product Page
-*   My B&N Profile Page
-*   My B&N EssentiaList
-*   My B&N Favorite Books List
-*   My B&N Favorite DVDs List
-*   My B&N Favorite Music List
-*   My B&N Reading Now List
-*   Wish List
-*   Store Event
-
-  
-Recipients of Invite-a-Friend emails can remove themselves from these mailings by calling our Customer Service Center at 1-800-THE-BOOK (1-800-824-2665). Individuals calling from abroad should call us at 201-559-3882.  
-  
-**Using specific features of your Device**  
-  
-Your Device may provide you with the ability to enter (either directly, or by authorizing Barnes &. Noble to download the information from a third party such as a social networking website) your information such as your contacts, or images you may submit to us to help us locate products for you. For more information about information collected through Devices, read the Barnes &. Noble Mobile Privacy Supplement.  
+Barnes &. Noble Websites, Devices and Apps may provide you with the ability to enter (either directly, or by authorizing Barnes &. Noble to download the information from a third party such as a social networking website) your information such as your contacts, calendar entries or photos, or images you may submit to us to help us locate products for you. For further details about personal information collected through Devices and Apps, please read the Barnes &. Noble Mobile Privacy Supplement.  
   
 **Contacting Customer Service**  
   
 When you contact customer service, we may ask you to provide, or confirm, personal information so that we can better serve you.  
   
-**Additional Website, Device or Retail App Features**  
+**Additional Website, Device or App Features**  
   
-From time to time we may offer or provide new or additional Barnes &. Noble Website, Device or Retail App features and functionality. Such features or functionality may request or require you to submit personal information to us in order to use such feature or functionality.  
+From time to time we may offer or provide new or additional Barnes &. Noble Website, Device or App features and functionality. Such features or functionality may request or require you to submit personal information to us in order to use such feature or functionality.  
+  
+**Entering a Sweepstakes or Contest**  
+  
+If you enter a sweepstakes or contest we offer, we may ask you to provide personal information so that we can consider your entry and, if you win, so that you may redeem your prize.  
+  
+**Interacting with Social Networking Sites  
+  
+**Our Devices and Apps may provide you with the ability to enter (directly, or by authorizing us to download the information from a third party such as a social networking site or application) personal information such as contacts or lists of friends. These or related applications may also allow you to provide information directly to social networking sites including information about your purchases, physical location, or comments. However, we will not provide any of your information to social networking sites without your express consent.  
   
 **(b) Information automatically collected**  
   
@@ -133,8 +101,9 @@ There are circumstances in which we automatically receive and collect informatio
 
 *   Cookies
 *   Pixel tags or clear Graphics Interchange Format files, known as GIFs
-*   Your Device or Retail Apps you use
-*   Business partners, contractors, shared databases, and other third parties whom may occasionally share information with us
+*   Your Device or Apps you use
+*   Wireless networks operated by Barnes &. Noble in retail stores
+*   Business partners, contractors, shared databases, and other third parties who may occasionally share information with us, including UltraViolet™
 
   
   
@@ -142,35 +111,39 @@ For your convenience, we have provided a summary description of each of these ci
   
 **Information automatically collected when you visit Barnes &. Noble Websites**  
   
-When you visit a Barnes &. Noble Website, we automatically record information that your browser sends whenever you visit such Barnes &. Noble Website. For example, we may receive and collect: the name of the domain and host from which you access the Internet. the Internet Protocol (IP) address of the computer you are using. the date and time you access the Barnes &. Noble Website. and the Internet address of the website from which you linked directly to the Barnes &. Noble Website. We use this information to monitor the usage of the Barnes &. Noble Websites and as necessary for our business.  
+When you visit a Barnes &. Noble Website, we automatically record information that your browser sends us. For example, we may receive and collect: the name of the domain and host from which you access the Internet. the Internet Protocol (IP) address of the computer you are using. the date and time you access the Barnes &. Noble Website. and the Internet address of the website from which you linked directly to the Barnes &. Noble Website. We may also collect information regarding search queries run on the Barnes &. Noble Website. We use this information to monitor the usage of the Barnes &. Noble Websites and as necessary for our business.  
   
-**Information collected using cookies**Like many online retailers, we use cookies to recognize you as you use or return to the Barnes &. Noble Websites. This is done so that we can personalize and enhance your browsing and shopping experience. "Cookies" are small files that we place on your computer's hard drive to collect information about your activities on a Barnes &. Noble Website. Cookies help us to: (1) speed navigation, keep track of items in your shopping bag and provide you with content that is tailored to you. (2) remember information you gave us so that you do not have to re-enter it. (3) determine the effectiveness of some of our marketing efforts and communications. and (4) monitor the total number of visitors, pages viewed, and the total number of banners displayed.  
+**Information collected using cookies**Like many online retailers, we and/or our third party providers use cookies to recognize you as you use or return to the Barnes &. Noble Websites. This is done so that we can personalize and enhance your browsing and shopping experience. "Cookies" are small files that we place on your computer's hard drive to collect information about your activities on a Barnes &. Noble Website. Cookies help us to: (1) speed navigation, keep track of items in your shopping bag and provide you with content that is tailored to you. (2) remember information you gave us so that you do not have to re-enter it. (3) determine the effectiveness of some of our and our third party partners' marketing efforts and communications. and (4) monitor the total number of visitors, pages viewed, and the total number of banners displayed.  
   
 Browsers are typically set to create cookies automatically. You can choose to have your browser notify you when cookies are being written to your computer or accessed, or you can disable cookies entirely. If you disable cookies, however, you will not be able to place items in a Barnes &. Noble Website shopping bag, and therefore you will not be able to place an order with us online. Also, by not using cookies, some Barnes &. Noble Website features and services may not function properly.  
   
-_Site Analytics_: We work with a third party service provider to help us better understand how you use the Barnes &. Noble Websites. This third party service provider will place cookies on your computer to collect information. The information this third party service provider collects will tell us things like which search engine referred you to the Barnes &. Noble Website, how you navigated around the Barnes &. Noble Website, what you purchased and what traffic is driven by banner ads and emails. This information will help us to better serve you and provide you with more personalized information and product offerings. We do not allow this third party service provider to collect your credit card information, e-mail address or password information. This third party service provider may only use your personal information to perform services for us. This third party service provider is contractually required to maintain all of the information it collects and analyzes for us securely and in confidence. This third party service provider may not share your personal information with anyone else, or use it for any other purpose, except on an aggregate, non-personal basis. For more information, view this third party's privacy policy.  
+Additionally, we work with a third party service provider to help us better understand how you use the Barnes &. Noble Websites. This third party service provider will place cookies on your computer to collect information such as how you were referred to the Barnes &. Noble Website, how you navigated around the Barnes &. Noble Website, what you purchased and what traffic is driven by banner ads and emails. This information will help us to better serve you and provide you with more personalized information and product offerings. We do not allow this third party service provider to collect your credit card information, e-mail address or password information. This third party service provider may only use your personal information to perform services for us and may not share your personal information with anyone else, or use it for any other purpose, except on an aggregated, non- personally identifiable basis. For more information, please view this third party's privacy policy.  
   
-Please note that this third party service provider collects data on the Barnes &. Noble Websites using first-party data collection. As a result, blocking cookies from third-party domains will not block these first-party cookies. As a visitor to a Barnes &. Noble Website, you may choose to opt-out of this third party's analysis of your browsing and purchasing behavior on such Barnes &. Noble Website. To opt-out on a Barnes &. Noble Website click here.  
+You may choose to opt-out of this third party's analysis of your browsing and purchasing behavior on such Barnes &. Noble Website. To do so, please click here.  
   
 **By doing business with or interacting with Barnes &. Noble, you consent to the use of the tracking technologies as described above.**  
   
-**Information collected using pixel tags or clear GIFs**  
+**Information collected in connection with marketing e-mails and using pixel tags or clear GIFs**  
   
-To help us understand the effectiveness of certain of our communications and marketing efforts, we may use "message format" and "message open" sensing technologies that use pixel tags or clear GIFs (which are also called web beacons). These technologies allow us to know if your e-mail program is able to accept HTML e-mails and, if it is, to: (1) send you e-mails in that format. and (2) determine if you have opened our e-mail messages. For this purpose, we tie the pixel tags and clear gifs to personally identifiable information.  
+To help us understand the effectiveness of certain of our communications and marketing efforts, we may use sensing technologies that use pixel tags or clear GIFs (which are also called web beacons). These technologies allow us to determine the effectiveness of our e-mail and advertising and marketing efforts. For this purpose, we tie the pixel tags and clear gifs to personally identifiable information. We may also collect information regarding the links within such marketing materials that you click on and purchase statistics regarding items you buy following receipt of such marketing.  
   
-**Information collected from Devices or Retail Apps**  
+**Information collected from Devices or Apps**  
   
-When you use a Device or our Retail Apps, we automatically collect information through the Device or Retail App when it is connected to the Internet. For example, we may receive and collect information concerning device registration, settings, usage, firmware version, search queries, downloads, sideloaded content, configuration, and or service information relating to any malfunction of the Device or Retail App.  
+When you use a Device or our Apps, we automatically collect information through the Device or App when it is connected to the Internet. For example, we may receive and collect information concerning device registration, settings, usage, firmware version, signal strength, search queries, network interaction, the name of the network from which you access the Internet, the Internet Protocol (IP) address of the device you are using, unique device identifiers (UDIDs), downloads, sideloaded content, configuration, or service information relating to any malfunction of the Device or App. This may include information regarding your reading or, in the case of videos, viewing behavior on such Devices or Apps, such as books or videos opened, page turns, bookmarks, annotations, or customer reviews.  
   
-In addition, to provide location-based services on Devices or through Retail Apps, Barnes &. Noble, NOOK Media and third party application providers may automatically collect geographic location information (including real-time geographic location) or other location-based information about you and your Device or other mobile device on which the Retail App is installed. This information may be used to provide certain device or application functionality or to offer, provide and improve products and services.  
+In addition, to provide location-based services on Devices or through Apps, Barnes &. Noble and third party application providers may automatically collect real-time geographic location information or other location-based information about you and your Device or other mobile device on which the App is installed. This information may be used to provide certain device or application functionality or to offer, provide and improve products and services.  
   
-For more information about information collected through Devices and Retail Apps, read the Barnes &. Noble Mobile Privacy Supplement.  
+For more information about information collected through Devices and Apps, please read the Barnes &. Noble Mobile Privacy Supplement.  
   
 **Information collected from outside sources**  
   
-We may periodically collect personal information and other information about you from business partners, contractors and other third parties. This includes, but is not limited to, instances in which you affirmatively authorize third parties to provide us with information. Such information may be collected via, but not limited to, software applications that you download or use on your Device.  
+We may collect personal information and other information about you from business partners, contractors and other third parties. This includes, but is not limited to, instances in which you affirmatively authorize third parties to provide us with information. Such information may be collected via, but not limited to, software applications that you download or use on your Device or that otherwise allow you to interact with the Barnes &. Noble enterprise. For example, if you link your UltraViolet account with your account with us, we may collect certain information regarding movies or television shows you have purchased from third parties as part of your UltraViolet collection of digital content.  
   
-This information may be used for a number of purposes including sending postal mail and e-mail, fulfilling orders, removing repetitive or unnecessary information from customer lists, analyzing data, providing marketing support, customer authentication, providing search results and links (including paid listings and links), providing customer service , and processing credit card payments.  
+If you rent or purchase textbooks from Barnes &. Noble College Booksellers, we may also collect information about you from your college or university. This information may be used for a number of purposes including providing our services to you, sending postal mail and e-mail, fulfilling orders, removing repetitive or unnecessary information from customer lists, analyzing data, providing marketing support, customer authentication, providing search results and links (including paid listings and links), providing customer service and processing credit card payments.  
+  
+**Information collected from UltraViolet**  
+  
+If you link your account with us to your UltraViolet account, we may collect information regarding UltraViolet-enabled movies and television shows you have purchased from third party retailers. This will enable you to download or stream movies or television shows from us that you have purchased from us from such third parties. For more information, please view the UltraViolet privacy policy located at www.uvvu.com.  
   
 **Information collected from visitors from outside the United States**  
   
@@ -180,19 +153,13 @@ If you are visiting Barnes &. Noble or a Barnes &. Noble Website from outside th
   
 **4\. How do we use personal information?**  
   
-Barnes &. Noble uses your personal information to provide you with a superior customer experience at our stores and on and through the Barnes &. Noble Websites, Devices and Retail Apps, and, as necessary, to administer our business. For example, we use your personal information to:  
+Barnes &. Noble uses your personal information to provide you with a superior customer experience and, as necessary, to administer our business. For example, we use your personal information to:  
   
 
-*   Provide you with products and services and information, including the Barnes &. Noble Websites and online interactive communities, your Devices, Digital Content, your Retail Apps and software, and display associated content and advertising;  
+*   Provide you with products, services and information, including product and subject recommendations and other information in Barnes &. Noble retail stores, through e-mails from the Barnes &. Noble enterprise, and on the Barnes &. Noble Websites and online interactive communities, your Devices, Digital Content, Apps and software, and display associated content and advertising;  
       
     
-*   Administer our Member program;  
-      
-    
-*   Administer our Educator program;  
-      
-    
-*   Administer the Barnes &. Noble Kids' Club™ program;  
+*   Administer our programs;  
       
     
 *   Provide customer service;  
@@ -210,7 +177,7 @@ Barnes &. Noble uses your personal information to provide you with a superior cu
 *   Customize and enhance the Barnes &. Noble Websites and advertising;  
       
     
-*   Make communications necessary to notify you regarding security, privacy, and administrative issues;  
+*   Make communications necessary to notify you regarding security, privacy, and administrative issues. and  
       
     
 *   Manage our business.
@@ -224,19 +191,22 @@ Protecting the privacy and security of your personal information is a priority a
 Barnes &. Noble shares your personal information with:  
   
 
-*   **Other entities within the Barnes &. Noble enterprise.** Many of our customers purchase items from us both online and in our stores. In addition, Barnes &. Noble owns and operates other operations and businesses and we share and use your personal information with our other business units and operations and may continue to do so even after such business units or operations are sold. We share your personal information within the Barnes &. Noble enterprise (i) to help to ensure that you have a superior shopping or browsing experience no matter where you choose to shop or browse with us, (ii) to provide customer support and related services, (iii) to provide other services and products that might be of interest to you, (iv) to provide and/or manage certain cross-company promotions or programs (e.g. to honor your Barnes &. Noble Member Program rewards), (v) to facilitate purchases of Devices or content (or other products) from within the Barnes &. Noble enterprise, (vi) if we provide you with in store services and/or customer support for Devices and content, (vii) in connection with our commercial arrangements and business relationships within the Barnes &. Noble enterprise (e.g., to facilitate services provided by NOOK Media with respect to the operation of certain Barnes &. Noble Websites and the Barnes &. Noble Bookstore application), and (viii) as otherwise reasonably determined to provide a comprehensive retail and digital content experience for our joint customers.  
+*   **Other entities within the Barnes &. Noble enterprise.** Many of our customers purchase items from us both online and in our stores. In addition, Barnes &. Noble owns and operates other operations and businesses and we share and use your personal information with our other business units and operations and may continue to do so even after such business units or operations are sold. We share your personal information within the Barnes &. Noble enterprise (i) to help to ensure that you have a superior shopping or browsing experience no matter where you choose to shop or browse with us, (ii) to provide customer support and related services, (iii) to provide other services and products that might be of interest to you, (iv) to provide and/or manage certain cross-company promotions or programs (_e.g_. to honor your Barnes &. Noble Member Program rewards), (v) to facilitate purchases of Devices or content (or other products) from within the Barnes &. Noble enterprise, (vi) if we provide you with in store services and/or customer support for Devices and content, (vii) in connection with our commercial arrangements and business relationships within the Barnes &. Noble enterprise, and (viii) as otherwise reasonably determined to provide a comprehensive retail and digital content experience for our joint customers.  
       
     
-*   **Partners** We provide personal information to our partners that provide product and service offerings or technologies that we think may be of interest to you. Our partnerships may also result in products and services that allow you to publish Digital Content that may be shared with our partners. We may offer you the opportunity to opt-in to receive information from our partners, which may result in your personal information being shared with our partners. The use of your information by our partners and their vendors and contractors will be subject to the privacy policies of our vendors once such information is transferred.  
+*   **Partners** **.** We provide personal information to our partners that provide product and service offerings or technologies that we think may be of interest to you. Our partnerships may also result in products and services that allow you to publish Digital Content that may be shared with our partners. We may offer you the opportunity to opt-in to receive information from our partners, which may result in your personal information being shared with our partners. The use of your information by our partners and their vendors and contractors will be subject to the privacy policies of our vendors once such information is transferred.  
       
     
-*   _Microsoft Corporation._ NOOK Media may share your personal information with Microsoft Corporation ("Microsoft") and its affiliates and subsidiaries under certain circumstances. Microsoft has invested in NOOK Media. If you consent to such sharing (including, without limitation, in connection with using a Microsoft Live ID log-in), Microsoft may use your personal information to provide products and services to you related to your Device, Digital Content and Barnes &. Noble and Microsoft services and products. These products and services may include, without limitation: (i) to enable purchases of Digital Content by you and provide Digital Content to you, (ii) to allow you to access, view and consume your Digital Content and provide related services to you, (iii) to publish certain Digital Content created by users and customers (as may be more fully set forth in any applicable terms or policies related thereto), (iv) to create and manage cross company user accounts and applications related to your Devices and Digital Content, including in connection with the integration between the Microsoft user and ID systems and Microsoft commerce platform and our products and services, (v) to offer joint Microsoft/Barnes &. Noble product or service offerings, (vi) to provide customer support, (vii) to provide information to you regarding Microsoft product and service offerings, and (viii) as otherwise reasonably determined by NOOK Media. Please note that any information provided to Microsoft will be treated by Microsoft in accordance with its applicable privacy policies in effect from time to time. Please refer to Microsoft's website for information related to Microsoft's collection, use and sharing of information that it obtains.  
+*   **Microsoft Corporation.** As part of our ongoing partnership with Microsoft Corporation ("Microsoft"), we may share your personal information with Microsoft and its affiliates and subsidiaries under certain circumstances. If you consent to such sharing (including, without limitation, in connection with using a Microsoft account), Microsoft may use your personal information to provide products and services to you related to your Device, Digital Content and Barnes &. Noble and Microsoft services and products. These products and services may include, without limitation: (i) to enable purchases of Digital Content by you and provide Digital Content to you, (ii) to allow you to access, view and consume your Digital Content and provide related services to you, (iii) to publish certain Digital Content created by users and customers (as may be more fully set forth in any applicable terms or policies related thereto), (iv) to create and manage cross company user accounts and applications related to your Devices and Digital Content, including in connection with the integration between the Microsoft user and ID systems and Microsoft commerce platform and our products and services, (v) to offer joint product or service offerings, (vi) to provide customer support, (vii) to provide information to you regarding Microsoft product and service offerings, and (viii) as otherwise reasonably determined by us. Please note that any information provided to Microsoft will be treated by Microsoft in accordance with its applicable privacy policies in effect from time to time. Please refer to Microsoft's website for information related to Microsoft's collection, use and sharing of information that it obtains.  
       
     
-*   **Service providers, subcontractors and agents who perform services on our behalf.**We provide personal information to third party service providers, subcontractors, and agents that work under contract on our behalf to provide certain services. These third parties do not have the right to use personal information we provide to them in any way that is not authorized by Barnes &. Noble. They are contractually obligated to use such information only as necessary to assist us and to maintain the confidentiality and security of such information.  
+*   **Service providers, subcontractors and agents who perform services on our behalf.** We provide personal information to third party service providers, subcontractors, and agents that work under contract on our behalf to provide certain services. These third parties do not have the right to use personal information we provide to them in any way that is not authorized by Barnes &. Noble. They are contractually obligated to use such information only as necessary to assist us and to maintain the confidentiality and security of such information.  
       
     
-*   **Third party providers of products and services.** These are third parties that provide products and services you may purchase or request from or through us. These third parties do not have the right to use personal information we provide to them in any way that is not authorized by Barnes &. Noble or explicitly permitted by you. They are contractually obligated to use such information only as necessary to assist us, or as you have explicitly permitted, and to maintain the confidentiality and security of such information.  
+*   **Third party providers of products and services.** These are third parties that provide products and services you may purchase or request from or through us. These third parties do not have the right to use personal information we provide to them in any way that is not authorized by Barnes &. Noble. They are contractually obligated to use such information only as necessary to assist us and to maintain the confidentiality and security of such information.  
+      
+    
+*   **UltraViolet.** If you purchase UltraViolet-enabled movies or television shows from us, we may provide you with the opportunity to link your account with us to your UltraViolet account. This will enable you to download or stream movies or television shows that you have purchased from us from third party retailers who are part of the UltraViolet content ecosystem. For more information, please view the UltraViolet privacy policy located at www.uvvu.com.  
       
     
 *   **Third Party Membership Programs.** We work with certain third party entities to help them administer their own membership or rewards programs by providing them with purchasing information about their customers who make purchase from Barnes &. Noble. We disclose only the information that is necessary to make these third party programs work and to support your membership in them. This information usually includes your name and e-mail address as well as the dollar amount of the purchases made at Barnes &. Noble. We require such entities to obtain your consent before we provide them with this information, which they usually do as part of their own membership or participation rules.  
@@ -254,14 +224,17 @@ Barnes &. Noble shares your personal information with:
 *   **Other websites operated by Barnes &. Noble.** In some instances, we may operate a Barnes &. Noble Website on behalf of a third party. If you provide information in connection with a Barnes &. Noble Website operated by Barnes &. Noble on behalf of a third party, that information may be shared between Barnes &. Noble and the third party. Although Barnes &. Noble's treatment of the information is governed by this policy, the third party's treatment of your information will be subject to the third party's privacy policy.  
       
     
-*   **Sales, Mergers, and Acquisitions**. If Barnes &. Noble becomes involved in a merger, acquisition, restructuring, reorganization, or any form of sale or other disposition of some or all of its assets, personal information may be provided to the entities and advisors involved subject to a confidentiality agreement, and we will provide notice to you at your email address on file before any personal information is finally transferred and becomes subject to a different privacy policy. Such a transaction may involve us (i) retaining the right to continue to use transferred personal information in addition to the right of the transferee to use such information and (ii) engaging in additional transfers of personal information (including new personal information) with the transferee from time to time following such a transaction.  
+*   **Your college or university**. Barnes &. Noble College Booksellers may offer the ability to rent or purchase products or services through financial aid, student loans or similar programs. We may share your information with your college or university, lenders or other providers in order to process payments if you choose these payment methods.  
+      
+    
+*   **Sales, Mergers, and Acquisitions**. If Barnes &. Noble becomes involved in a merger, acquisition, restructuring, reorganization, or any form of sale or other disposition of some or all of its assets, personal information and your transaction history may be provided to the entities and advisors involved subject to a confidentiality agreement, and we will provide notice to you at your email address on file before any personal information is finally transferred and becomes subject to a different privacy policy. Such a transaction may involve us (i) retaining the right to continue to use transferred personal information in addition to the right of the transferee to use such information, and (ii) engaging in additional transfers of personal information (including new personal information) with the transferee from time to time following such a transaction.  
       
     
 *   **To Fulfill Your Requests For Products or Services**  
       
-    In connection with some Digital Content orders placed on Barnes &. Noble Websites, in order to complete your transaction, we may need to forward your name, magazine, catalog or newspaper order, email address, and shipping or billing address to our content providers. The content providers will share your magazine, catalog or newspaper order information as well as your name and address, or name and e-mail and shipping or billing addresses with the magazine, catalog or newspaper publisher and magazine, catalog or newspaper circulation auditors. Magazine, catalog and newspaper publishers may use this information to fulfill your order and for other purposes. Your credit card information will not be shared with them.  
+    In connection with some Digital Content orders, in order to complete your transaction, we may need to forward your name, magazine, catalog or newspaper order, email address, and shipping or billing address to our content providers. The content providers will share your magazine, catalog or newspaper order information as well as your name and address, or name and e-mail and shipping or billing addresses with the magazine, catalog or newspaper publisher and magazine, catalog or newspaper circulation auditors. Magazine, catalog and newspaper publishers may use this information to fulfill your order and for other purposes. Your credit card information will not be shared with them.  
       
-    In connection with purchases of certain Digital Content through Barnes &. Noble Websites operated by Barnes &. Noble, we may need to forward information about you (including, for example, your Internet Protocol (IP) address) to the digital content provider in order to enable you to download or purchase Digital Content from or through that provider. In each such instance, the Digital Content provider is obligated to use such information in accordance with its own privacy policy and applicable law.
+    In connection with purchases of certain Digital Content, we may need to forward information about you (including, for example, your Internet Protocol (IP) address) to the Digital Content provider in order to enable you to download or purchase Digital Content from or through that provider. In each such instance, the Digital Content provider is obligated to use such information in accordance with its own privacy policy and applicable law.
 
   
   
@@ -269,7 +242,7 @@ Barnes &. Noble shares your personal information with:
   
 **We take significant and appropriate security measures, including physical, technological and procedural measures, to help to safeguard your personal information and to prevent unauthorized access and disclosure. In addition, we use industry-standard technology, such as Secure Sockets Layer (SSL) encryption technology in the transmission of certain sensitive personal information, designed to prevent unauthorized persons from gaining access to your personal information, and, as technology develops, we intend to take additional measures to improve security.  
   
-We want you to feel confident whenever you visit us in our stores, on the Barnes &. Noble Websites or otherwise. While we are focused on the security of your personal information and follow strict standards, processes and procedures that are designed to protect your personal information, you must remember that the Internet is a global communications vehicle open to threats, viruses and intrusions from others and so we cannot promise, and you should not expect, that we will be able to protect your personal information at all times and in all circumstances.  
+We want you to feel confident whenever you visit us in our stores, on the Barnes &. Noble Websites, or use Barnes &. Noble Devices or Apps. While we are focused on the security of your personal information and follow strict standards, processes and procedures that are designed to protect your personal information, you must remember that the Internet is a global communications vehicle open to threats, viruses and intrusions from others and so we cannot promise, and you should not expect, that we will be able to protect your personal information at all times and in all circumstances.  
   
 **7\. How do we respect your choices about your personal information?  
   
@@ -277,19 +250,21 @@ We want you to feel confident whenever you visit us in our stores, on the Barnes
   
 
 *   Making a purchase or download or placing an order
-*   Creating an account online or on a Device
-*   Joining the Barnes &. Noble online community
+*   Creating an account
+*   Joining a Barnes &. Noble online community
 *   Enrolling in our Member program
-*   Signing up for Lark Crafts, Sterling Publishing, Inc. and Pixiq Email Newsletters
+*   Signing up for Newsletters
 *   Signing up with eBookstores operated by Barnes &. Noble
-*   Signing up for the SparkNotes.com email newsletter
 *   Entering a sweepstakes or a contest  
       
-    **Where you have consented to receiving Promotional Communications from the Barnes &. Noble enterprise including Barnes &. Noble Booksellers, barnesandnoble.com, the Barnes &. Noble Member program, the Barnes &. Noble Educator program. the Barnes &. Noble Gift Card website, Barnes &. Noble Devices, SparkNotes.com, or Sterling Publishing Company, Inc., you may choose to opt out at any time by following the instructions below.**  
+    **Where you have con** **sented to receiving Promotional Communications from the Barnes &. Noble enterprise** **, you may choose to opt-** **out at any time by following the instructions below** **.**  
       
       
     
 *   **For Barnes &. Noble Booksellers**: At any time, a customer may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions, or by e-mailing our Customer Service Department by clicking here.  
+      
+    
+*   **For Barnes &. Noble College Booksellers**: At any time, a customer may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions.  
       
     
 *   **For barnesandnoble.com:** Any account holder can opt-out of the receipt of any promotional communications by logging onto their Account and following the instructions under "Communication Preferences". If you do not have a barnesandnoble.com account, you may opt-out of the receipt of such communications by selecting the link at the bottom of any promotional e-mail communication and following the instructions.  
@@ -328,27 +303,21 @@ If you have any questions about this Privacy Policy, please contact us at privac
   
 **9\. What other information about Barnes &. Noble's Privacy Policy would I want to know?**  
   
-**Barnes &. Noble Policies for Minors, including Children under the age of 13.**  
+**Barnes &. Noble Policies for Minors, including children under the age of 13.**  
   
-Except as noted below with respect to Kid's Profiles: (i) our products and services are marketed for and directed towards purchase by adults or with the consent of adults. (ii) Individuals under the age of 18 ("Minors") are not permitted to use Barnes &. Noble Websites or Retail Apps without the supervision of a parent or legal guardian. (iii) we do not knowingly collect or solicit personal information from children under the age of 13 or knowingly allow such persons to register for an online account or to post personal information on the Barnes &. Noble Websites. and (iv) should we learn that someone under the age of 13 has provided any personal information to or on any of the Barnes &. Noble Websites, we will remove that information as soon as possible.  
+Barnes &. Noble is committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information of Minors under the age of 13, including the Children's Online Privacy Protection Act of 1998.  
   
-**Kid's Profiles**  
+Except as noted below : (i) our products and services are marketed for and directed towards purchase by adults or with the consent of adults. (ii) Individuals under the age of 18 ("Minors") are not permitted to use Barnes &. Noble Websites or Apps without the supervision of a parent or legal guardian. (iii) we do not knowingly collect or solicit personal information from children under the age of 13 or knowingly allow such persons to register for an online account or to post personal information on the Barnes &. Noble Websites. and (iv) should we learn that someone under the age of 13 has provided any personal information to or on any of the Barnes &. Noble Websites, we will remove that information as soon as possible.  
   
-Barnes &. Noble does not permit Minors to create a master account with Barnes &. Noble or register a Device in his or her name. However, certain Devices do offer parents and legal guardians the opportunity to create a personal profile for their child, including children under the age of 13, to allow for a more personalized Device experience (a "Kid's Profile").  
+If we direct certain Devices features or Apps to Minors who may be under the age of 13, we require the parent or legal guardian to provide verifiable consent to such Minor's use of our products and services and our collection of personal information in connection with such use. In these cases, we require validation of credit card information already on file with us and we will then e-mail the master account holder to give notice that we have received such consent. If no credit card information is on file, or if the credit card is invalid, we will not register that you have consented. With your consent, we may collect, use and share information regarding Minors under the age of 13 consistent with this Privacy Policy. Please see the sections above for detailed information on how we do so.  
   
-The creation of a Kid's Profile requires that the parent or legal guardian provide Barnes &. Noble with verifiable consent to Barnes &. Noble's collection of information in connection with the child's use of the Kid's Profile. Upon creation of a Kid's Profile, Barnes &. Noble will validate credit card information already on file with us and e-mail the master account holder to give notice that we have received consent. If no credit card information is on file, or if the credit card is invalid, Barnes &. Noble will not permit the creation of a Kid's Profile. In order for a parent or legal guardian of a child who is under the age of 13 to create a Kid's Profile on the Device, that child's parent or legal guardian must first create a master user account and authorize the creation of a Kid's Profile for the child who is under 13.  
-  
-During the Kid's Profile setup process, Barnes &. Noble will collect the first name or nickname and month and year of birth of your child. This information will be used to tailor the Device content experience and/or suggest books and other content that might be of interest to you and your child. You may enable your child to browse and/or shop in the NOOK store on the Barnes &. Noble Websites. If you do so, Barnes &. Noble may collect information regarding items your child browses and/or purchases in order to make our services more interesting and useful to you. Your child may also be able to post ratings and provide feedback regarding items available for purchase in the NOOK store on the Barnes &. Noble Websites, and this information will be posted to Barnes &. Noble Websites in the name of the master account holder. Barnes &. Noble may share the information it collects about your child with its affiliated companies to help to ensure that you have a superior shopping or browsing experience no matter where you choose to shop or browse within the Barnes &. Noble enterprise. Barnes &. Noble may also share the information it collects about your child with third party service providers Barnes &. Noble may engage to assist with services related to the Device and Barnes &. Noble Websites. These third party service providers are obligated to keep your information and your child's information confidential and must use the information only in connection with providing services to Barnes &. Noble. Additionally, your child may use NOOK software features to take notes or create other content on the Device. Barnes &. Noble may collect and store this information on Barnes &. Noble servers for the purpose of providing a seamless user experience, but Barnes &. Noble will not use such information for any other purpose without your consent. Please be advised that NOOK Media may operate Barnes &. Noble's Kids Profile service in the future.  
-  
-Barnes &. Noble encourages parents and legal guardians to advise their children not to include any personally identifiable information such as first and last name or physical or email address when creating notes with NOOK software, posting ratings or feedback in the NOOK store or otherwise utilizing a Device. Although Barnes &. Noble does warn children not to include personally identifiable information in the notes they create or in the ratings they post, it is possible that a child may inadvertently provide Barnes &. Noble with personally identifiable information in the context of such notes or ratings. By creating a Kid's Profile, you agree if your child inadvertently provides personally identifiable information to Barnes &. Noble that Barnes &. Noble may collect and maintain that information.  
-  
-If you are a parent or guardian believes your child under the age of 13 has submitted personal information or other information to Barnes &. Noble without your consent, please contact privacy@barnesandnoble.com. Once Barnes &. Noble verifies that you are the parent or legal guardian, at your request, Barnes &. Noble will promptly provide to you information regarding what, if any, personal information Barnes &. Noble has collected about your child and how it has been used or shared. Barnes &. Noble will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same. Barnes &. Noble is committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information of children under the age of 13, including the Children's Online Privacy Protection Act of 1998.  
+If you are a parent or guardian who believes that your Minor under the age of 13 has submitted personal information or other information to us without your consent, please contact privacy@barnesandnoble.com. Once we verify that you are the parent or legal guardian, at your request, we will promptly provide to you information regarding what, if any, personal information we have collected about your child and how it has been used or shared. We will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same.  
   
 **Your access rights and updates to your information**  
   
 You have the right to ask us not to use your personal information for direct marketing purposes. You also have the right to request a copy of the personal information that we hold about you and to have any inaccuracies rectified. Please note that, as permitted by law, we may charge a nominal fee for information requests and may require you to prove your identity. Following a request, we will use reasonable efforts to supply, correct or delete personal information about you in our files. Please address written requests and questions about this to privacy@barnesandnoble.com. We will respond to all access requests within 30 days.  
   
-**Third Party Applications:** We are not responsible for third party applications you may download and install on your Devices. While Barnes &. Noble takes every effort to ensure that applications offered through our Application Stores meet compatibility and safety testing criteria, this Privacy Policy does not cover any data collection, use, or sharing by those applications, unless the provider of an application has entered into a separate agreement with us as a business partner to share your personal information. In such a case, we would require our business partner to disclose their data collection and sharing practices with you, and obtain your prior affirmative consent. Our use of any shared data under such an agreement would then be governed by our privacy policy. All other collection of personal information by a third party application provider shall be subject to the terms of such provider's privacy policy.  
+**Third Party Applications:** We are not responsible for third party applications you may download and install on your Devices. While Barnes &. Noble uses reasonable efforts to ensure that applications offered through our Application Stores meet compatibility and safety testing criteria, this Privacy Policy does not cover any data collection, use, or sharing by mobile device manufacturers, network service providers or third party application providers, unless such party has entered into a separate agreement with us as a business partner to share your personal information. In such a case, we would require our business partner to disclose their data collection and sharing practices with you, and obtain your prior affirmative consent. Our use of any shared data under such an agreement would then be governed by our privacy policy. All other collection of personal information by a third party application provider shall be subject to the terms of such provider's privacy policy.  
   
 **Third Party Websites and Web-Tracking**  
   
@@ -356,7 +325,7 @@ We may partner with third party distributors of advertisements to deliver advert
   
 Please understand that Barnes &. Noble does not control these third party cookies, and you should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies.  
   
-Whenever you click on links and banners on any Barnes &. Noble Website that take you to a third party website, you will be subject to the third party's privacy policies, not Barnes &. Noble's. This Privacy Policy applies solely to information collected by Barnes &. Noble.  
+Whenever you click on links and banners on any Barnes &. Noble Website that take you to a third party website, you will be subject to the third party's privacy policies, not Barnes &. Noble's. This Privacy Policy applies solely to information collected by the Barnes &. Noble enterprise.  
   
 In addition, our website includes links to other websites whose privacy practices may differ from those of Barnes &. Noble. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.  
   
@@ -368,4 +337,8 @@ Barnes &. Noble complies with the U.S. - E.U. Safe Harbor framework and the U.S.
   
 **Terms of Use**  
   
-If you choose to visit the Barnes &. Noble Websites, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitation on damages, resolution of disputes, and application of the law of the State of New York. Address information for Barnes &. Noble can be found at http://www.barnesandnoble.com/help/cds2.asp?PID=8184. .
+Any dispute between you and us regarding the privacy of your personal information is subject to this Privacy Policy and the terms of use or terms of service applicable to our product or service you use, including limitation on damages, resolution of disputes, and application of the law of the State of New York.  
+  
+**Contact Information  
+  
+**The address for Barnes &. Noble is 122 Fifth Avenue, New York, NY 10011. The address for NOOK Media is 76 Ninth Avenue, New York, NY 10011. .
