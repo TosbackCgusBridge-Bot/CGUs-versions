@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 7, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 8, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -255,12 +255,9 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Spring Wheat is 23% Planted, USDA Says
-*   New Mexico Cheese Plant to Expand to Produce More Whey
-*   Soybean Planting Progress Officially Behind
-*   Asian Currencies Complete Best Rally Since September
-*   Corn Planting Tops 10% Complete
-*   Weather Adds Premium to New-Crop Corn
+*   Is ACRE or DCP Best for Your Farm?
+*   Power Hour: Be Ready for a Summer Price Rally
+*   CWT Assists with 1.9 Million Pounds of Cheese Export Sales
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
