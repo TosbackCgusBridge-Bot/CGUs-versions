@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   United Nations report says no to killer robots May 6, 2013
-*   Kinect sensor modified for wheelchair gaming May 6, 2013
-*   GameStop will halt trade-ins of PlayStation 2 games on June 1 May 6, 2013
+*   This Week in Space: Sarah Brightman wants to go to into orbit May 7, 2013
+*   Eidos isolates sights and sounds, lets you tune out that annoying coworker May 7, 2013
+*   San Francisco adds social networking element to emergency, disaster planning May 7, 2013
 
 PCWorld Articles
 
-*   Dell boosts cloud portfolio with Enstratius buy May 6, 2013
-*   Intel releases key details of its Atom redesign May 6, 2013
-*   Review: Futuremark looks beyond the PC with new 3DMark May 6, 2013
+*   Seagate unleashes first consumer SSD May 7, 2013
+*   AutoIt scripting increasingly used by malware developers May 7, 2013
+*   HP turns to design for reversal of PC fortunes May 7, 2013
 
   
 TechHive on Twitter (@TechHive)
