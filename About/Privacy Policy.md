@@ -1,4 +1,4 @@
-_Updated February 25, 2013_
+_Updated May 7, 2013_
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About" or "we") websites, including About.com, About.net, AllExperts.com, CalorieCount.com, ConsumerSearch.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services"). Specifically, the policy outlines the types of information that may be gathered when you register for or use the Services, and the ways in which that information may be used.
 
@@ -62,7 +62,7 @@ Communication with Guides and other Contributors to the Services
 
 Information Collected by Third-Parties and Your Ad Choices
 
-Third parties may collect information about you through the Services, including through use of the technologies described above, in Section 3. We may not have access to, nor control over, these third parties' data collection practices and we do not assume any liability related to their collection or use.
+Third parties may collect information about you through the Services, including through use of the technologies described above. We may not have access to, nor control over, these third parties' data collection practices and we do not assume any liability related to their collection or use.
 
 For instance, in addition to our own systems, we may use DoubleClick, DoubleClick Mobile, Google, Google AdMob, nRelate (which is an affiliate of About, Inc.) and other third-party Ad Servers and data management platforms to serve and display Advertisements. They may use cookies, pixel trackers, or other internet or mobile technology to collect non-personal and/or anonymous information about your use of the Services. In certain cases, you have options and choices about the collection and use of information by third parties on our Websites:
 
@@ -102,6 +102,6 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 Or you can contact us by mail at:
 
 _Customer Care  
-About.com, Inc.  
+About, Inc.  
 1500 Broadway, 6th Floor  
 New York, NY 10036_
