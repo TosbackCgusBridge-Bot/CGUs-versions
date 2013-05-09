@@ -2,37 +2,7 @@ Terms of Service What's Squidoo? Squidoo is the free (yes, free), simple tool th
   
 So, congratulations. You're participating in one of the realest, coolest, most powerful free publishing platforms online. We're thrilled to work with you. And now, the TOS proper...  
   
-The principals in these Terms do not change, though the specific enforcement of our content standards may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to the terms that were in place when you joined the service. By continuing to use Squidoo, you're agreeing to the terms in place each time you create new content. TOS Table of Contents
-
-1.  Terms of Service
-2.  1\. YES, I AGREE!
-3.  2\. The big picture: Description of Service
-4.  3\. The Rules
-
-6.  4\. The content: who owns it?
-
-More
-
-1.  Terms of Service
-2.  1\. YES, I AGREE!
-3.  2\. The big picture: Description of Service
-4.  3\. The Rules
-
-6.  4\. The content: who owns it?
-7.  5\. About royalties
-8.  6\. Resale of service
-9.  7\. Squidoo can modify or discontinue the service
-10.  8\. External software
-11.  9\. Squidoo can terminate your use of the service
-12.  10\. Squidoo proprietary rights
-13.  11\. Disclaimer of waranties
-14.  12\. Limitation of liability
-15.  13\. Miscellaneous, but important, terms
-16.  14\. Dispute resolution
-17.  15\. Trademarks
-18.  16\. Good Practice
-
-Less 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
+The principals in these Terms do not change, though the specific enforcement of our content standards may change from time to time. you can always check in on the most current version here. By your continuing use of the service, you're agreeing to the terms that were in place when you joined the service. By continuing to use Squidoo, you're agreeing to the terms in place each time you create new content. 1. YES, I AGREE! By using Squidoo.com's platform and community forums, you are agreeing to the following terms and conditions ("Terms of Service") on this page, we well as the policies outlined in our SquidDon't and Squidspam and Policy Update pages that supplement our TOS.  
   
 These Terms apply to anyone who uses Squidoo (the Service), from our Members and Lensmasters, to people stopping by and using the social tools featured on Squidoo Lenses (ie, the free, single pages set up by our Lensmasters).  
   
@@ -240,3 +210,15 @@ Don't spam other networks or other sites. Don't use Squidoo as a veiling tool wh
 On the other hand, YES, please use Squidoo when you have something personal and unique to say. We like that and so do the other services that you and the rest of the squids use.
 
 WHEW! You made it. You read the whole Squidoo Terms of Service. Please let us know how we can do better. And thanks!
+
+Creating original lenses is a requirement on Squidoo. The Scroll of Originality is an addendum to our Terms of Service.  
+  
+We at Squidoo believe that original, handcrafted, written-and-loved-and-tended-by-you content is not only the most enjoyable to write, but also the most useful for readers to discover, and the most likely to get spread to other people.  
+  
+Even better, let's put a face on the word 'content.' On its own, 'content' is a broad, generic, vague term. What we've found works best for our Squidoo writers is opinion content. First hand reviews. Recommendations. Storytelling. Experience sharing. As we said 5 years ago when we started the company, Squidoo is an opportunity for you to share your point of view, your take on a specific topic. That's why lenses are called lenses -- they snap your point of view in to focus.  
+  
+This is a handshake, a thank you, and a reminder to keep writing original lenses. Lenses that no one else could have written better or more uniquely than we know you can. It also comes with extra tips, to save you from spending time and energy on a low-quality, non-original lens that winds up getting removed.  
+  
+Read the rest of the Scroll of Originality.  
+  
+We run regular and periodic reviews of lenses to enforce our policies, including acting against spam, locking lenses on topics we can't support, locking low-quality lenses, and most recently we have increased our systematic intolerance of duplicated content and plagiarism. We reserve the right to take down content that violates our Terms of Service and editorial standards, without warning.
