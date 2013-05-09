@@ -1,6 +1,6 @@
 Miniclip Privacy Policy
 
-Last updated: 25th February 2013
+Last updated: 7th May 2013
 
 Miniclip is committed to providing fun and exciting digital entertainment across all its products and services, such as Miniclip.com (and its related sub-sites) and all applications available on smartphone devices, tablets, browser and desktop (together, the "**Services**"). Miniclip.com is the property of Miniclip SA "**Miniclip**". Miniclip respects the privacy concerns of all users of its Services. Miniclip does not target its Services to users under 13 years of age, but does take measures to help protect the privacy of those who are.
 
@@ -10,7 +10,7 @@ In this Privacy Policy ‘non-personal data’ means data that does not identify
 
 Information we collect
 
-We may log IP addresses and drop cookies or flash cookies to prevent abuse of the Services or to provide and/or enhance them. If you register to use the Services we will collect the date of birth, username, password and email address of users 13 years and older and we may collect other information such as your mobile phone number and smartphone device type. We may also collect non-personal data from registered users. For instance, we may collect data relating to registered users’ use of the website and the Services, as well as that relating to their activities, such as high scores, game rankings, league rankings, game challenges, avatars etc.
+We may log IP addresses and drop cookies or flash cookies to prevent abuse of the Services or to provide and/or enhance them. If you register to use the Services we will collect the date of birth, username, password and email address of users 13 years and older and we may collect other information such as your mobile phone number and smartphone device type. We may also collect non-personal data from registered users. For instance, we may collect data relating to registered users’ use of the website and the Services, as well as that relating to their activities, such as high scores, game rankings, league rankings, game challenges, avatars etc. We don't store the email addresses of users under 13. Email addresses of users under 13 are one-way hashed, then encrypted. This non-retrievable format is only used for password retrieval and for logging in.
 
 We may collect non-personal data from users of the Services, whether registered or not, such as a user’s browser version, operating system version, country, city, page loading time, type of device, number of visits, time using the Services, network, demographic estimates, flow-through the website and/or Services or referral source, which may then be aggregated. We may use non-personal data that we collect from you to improve the Services or to support advertising services.
 
@@ -50,4 +50,4 @@ This Privacy Policy is part of Miniclip’s Terms and Conditions to which you ag
 
 Internet Safety
 
-Miniclip is a Certified Participant of the Better Business Bureau’s, CARU Kids Privacy Safe Harbor Program: http://www.caru.org/caru.aspx?id=275582381. The information practices of Miniclip.com have been reviewed and meet the standards of the Children's Advertising Review Unit's Kid's Privacy Safe Harbor Program. Miniclip recommends that parents take time to communicate and educate their children about Internet Safety. Please see the Miniclip Internet Safety webpage for information on Internet Safety: http://www.miniclip.com/games/page/en/internet-safety/
+Miniclip recommends that parents take time to communicate and educate their children about Internet Safety. Please see the Miniclip Internet Safety webpage for information on Internet Safety: http://www.miniclip.com/games/page/en/internet-safety/
