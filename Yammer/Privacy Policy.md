@@ -1,5 +1,5 @@
 *   Terms of Use
-*   Privacy Policy
+*   Privacy
 *   DMCA Policy
 *   Business Terms
 *   Billing Terms
