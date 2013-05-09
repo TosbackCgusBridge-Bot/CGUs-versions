@@ -20,7 +20,7 @@ By displaying the TRUSTe "Trustmark," we let you know:
 
 This Privacy Statement applies to all Web sites owned by Symantec that display the Symantec or the Norton logo, except for the sites referred to in section 1.2 below and for Web sites hosted by third parties authorized to display the Symantec name and/or corporate logo.
 
-1.0 Privacy Statement Structure and Related Documents 1.1 ContentsClick on one of the links below to jump to the listed section:
+1.0 Privacy Statement Structure and Related Documents 1.1 Contents Click on one of the links below to jump to the listed section:
 
 1.  Privacy Statement Structure and Related Documents
 2.  Symantec Privacy Practices
@@ -474,7 +474,7 @@ Performance Cookies (Third Party) **Host** **Cookie** beacon-1.newrelic.com JSES
 
 *   Remembers the user has filled in the required profile form to reach the protected downloads, for up to 30 days after the browser session has been closed.
 
-Functionality Cookies (Third Party) **Host** **Cookie** Second2 Personal\_UID Targeting CookiesNone on these sites. 3.3 Web Beacons
+Functionality Cookies (Third Party) **Host** **Cookie** Second2 Personal\_UID Targeting Cookies None on these sites. 3.3 Web Beacons
 
 Symantec may use Web Beacons - also known as single pixel or clear GIFs - on its web sites to analyze traffic patterns such as the frequency of use of particular parts of the site. The data collected helps us learn what information is of most interest to our customers and what offers our customers would most like to see. If you do not want to assist Symantec in improving its Web sites, you can “opt-out” of this web sites analysis by disabling JavaScript on your computer. If you disable JavaScript, some of the features on our web sites will not work.
 
@@ -512,7 +512,7 @@ In other jurisdictions, we may offer you these choices at the time you give us y
 
 If you are on a Symantec web page that requires personal information to be submitted but does not offer communication choices, or if you would like to change your preferences for information that you have previously provided, please use one of the communication channels at the bottom of this statement (see section 11 for details).
 
-4.3 Other Privacy ConsiderationsPlease remember that information you submit in a discussion groups or forums, like "Ask Symantec", will be deemed public information and will not be kept as confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are participating in such discussion groups or forums. For further details, please see our Social Media Privacy Policy. 4.4 Updating or Correcting Your Personal Information
+4.3 Other Privacy Considerations Please remember that information you submit in a discussion groups or forums, like "Ask Symantec", will be deemed public information and will not be kept as confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are participating in such discussion groups or forums. For further details, please see our Social Media Privacy Policy. 4.4 Updating or Correcting Your Personal Information
 
 You have the right to update or correct or remove your personal information. If you believe that Symantec does not have your most current personal information, you can update it at your Norton Account, at your Symaccount or through the other communication channels at the bottom of this notice. If requested, and to the extent permissible by applicable law relating to the retention of records or otherwise not required for valid business purposes (such as fulfillment of transactions), you may request that we use our best efforts to remove such data from Symantec repositories.
 
@@ -544,7 +544,7 @@ For example, you may decide to purchase a license to a number of Symantec softwa
 
 We require that all such contractors keep the personal information of our customers secure and confidential. We have contractually bound third parties to such restrictions and require that these contractors provide for appropriate technical and organizational measures to secure the data, that they use personal information only on behalf of Symantec and that they do not share personal information with others or use your personal information for their own marketing purposes.
 
-5.4 Legal DisclosuresPlease be advised that in certain instances, it may be necessary for Symantec to disclose your personal information to government officials or otherwise as required by applicable law. No personal information will be disclosed to any law enforcement agency or governmental agency except in response to:  
+5.4 Legal Disclosures Please be advised that in certain instances, it may be necessary for Symantec to disclose your personal information to government officials or otherwise as required by applicable law. No personal information will be disclosed to any law enforcement agency or governmental agency except in response to:  
 
 *   A subpoena, warrant or other process issued by a court of competent jurisdiction;
 *   A legal process having the same consequence as a court-issued request for information, in that Symantec would be in breach of local law were it to refuse to provide such information, and it or its officers, executive or employees would be subject to liability for failing to honor such legal process, provided there is a legal basis to do so, or,
@@ -572,7 +572,7 @@ We collect certain aggregate and non-personal information when users visit our w
 
 We collect this information either through “cookie” technology or with “web beacons,” as explained above.
 
-7.4 Web Site TrafficThrough our various tracking methods discussed above and using log files, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Symantec’s Web site. Such information is not correlated with any personal information. 8.0 IP AddressesSymantec collects and retains, for a limited period of time, internet protocol (IP) address information, of its customers, for the following purposes:
+7.4 Web Site Traffic Through our various tracking methods discussed above and using log files, we may track domain names, IP addresses, and browser types from people who visit our site. We use this information to track aggregate traffic patterns throughout Symantec’s Web site. Such information is not correlated with any personal information. 8.0 IP Addresses Symantec collects and retains, for a limited period of time, internet protocol (IP) address information, of its customers, for the following purposes:
 
 *   subscription and registration,
 *   to provide technical support;
@@ -597,7 +597,7 @@ We also link to co-branded Web sites that are maintained by Symantec and one or 
 
 We encourage you to read the privacy policies on any co-branded site to which you link for information on the privacy practices of that site.
 
-10.0 Statement ChangesIn the event there is a major change to Symantec's privacy practices, a prominent notice will be posted on our Web site. If the change involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use. 11.0 Symantec Contact InformationSymantec has created a Privacy Program Office, which is part of Legal and Public Affairs. If you have any questions or comments concerning this Statement, or if you would like to change your communication preferences, update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us using one of the options below:  
+10.0 Statement Changes In the event there is a major change to Symantec's privacy practices, a prominent notice will be posted on our Web site. If the change involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use. 11.0 Symantec Contact Information Symantec has created a Privacy Program Office, which is part of Legal and Public Affairs. If you have any questions or comments concerning this Statement, or if you would like to change your communication preferences, update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us using one of the options below:  
 
 1.  Customer Profile Form at: https://www-secure.symantec.com/custserv/cgi-bin/cs\_privacy\_dyn.cgi
 2.  Customer Support in your country or region – by telephone, e-mail, or regular mail;
@@ -612,7 +612,7 @@ We encourage you to read the privacy policies on any co-branded site to which yo
     > Email: privacy@symantec.com
     
 
-12.0 Regional Privacy PoliciesDifferent countries, states, and other entities may require specific policies to be provided, and so, will only apply to you provided you live in the jurisdiction set out in the sub-sections below. 12.1 North America 12.1.1 TRUSTeSymantec is a licensee of the TRUSTe Privacy Program as noted above, which is applicable solely to North America. 12.1.2 Your California Privacy RightsBeginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Symantec who are California residents to request certain information regarding Symantec’s disclosure of personal information to third parties for their direct marketing purposes. To request such information, please contact us using one of the options listed above in section 11.0. 12.2 European Economic AreaIn respect to data transfers from the European Economic Area, to the United States or to other countries outside the European Economic Area, Symantec has taken steps to ensure adequate protection for such data transfers in accordance with European and national data protection legislation. For example, Symantec has entered into appropriate data transfer agreements based on the model clauses approved by the European Commission to provide adequate protection for data transfers between Symantec entities and between Symantec and third parties located outside the European Economic Area. 12.2.1 Germany
+12.0 Regional Privacy Policies Different countries, states, and other entities may require specific policies to be provided, and so, will only apply to you provided you live in the jurisdiction set out in the sub-sections below. 12.1 North America 12.1.1 TRUSTe Symantec is a licensee of the TRUSTe Privacy Program as noted above, which is applicable solely to North America. 12.1.2 Your California Privacy Rights Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Symantec who are California residents to request certain information regarding Symantec’s disclosure of personal information to third parties for their direct marketing purposes. To request such information, please contact us using one of the options listed above in section 11.0. 12.2 European Economic Area In respect to data transfers from the European Economic Area, to the United States or to other countries outside the European Economic Area, Symantec has taken steps to ensure adequate protection for such data transfers in accordance with European and national data protection legislation. For example, Symantec has entered into appropriate data transfer agreements based on the model clauses approved by the European Commission to provide adequate protection for data transfers between Symantec entities and between Symantec and third parties located outside the European Economic Area. 12.2.1 Germany
 
 In transferring your information to Symantec, you understand that your name, postal address, phone number, E-mail address, VAT ID (optional), company name (optional), and information about selected product(s), will be transferred from our online store to the producer and licensor Symantec Corporation (350 Ellis Street, Mountain View, CA 94043, U.S.A.), Symantec Limited (Ballycoolin Business Park, Blanchardstown, Dublin 15, Ireland) (Billing, Shipping) und Symantec (Deutschland) GmbH, Wappenhalle, Konrad-Zuse-Platz 2-5, D-81829 München, **www.symantec.com**  
 (German consumer contact and support).
