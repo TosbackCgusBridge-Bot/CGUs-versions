@@ -35,3 +35,9 @@ WSHH also reserves the right to, but is not obligated to, refuse to disclose con
   
 
 **Information Our Advertising Partners Automatically Collect**: We use third party advertisements to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  WSHH has no control over these ad providers' practices and you should review their privacy policies and steps for managing cookies.
+
+  
+
+  
+  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt\_out.asp
