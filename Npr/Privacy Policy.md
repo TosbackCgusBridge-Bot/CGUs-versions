@@ -133,6 +133,7 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
     *   Email
 *   Comment
 
+*   NPR Home
 *   News
 *   Arts &. Life
 *   Music
@@ -148,7 +149,7 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
 *   Shop
 
 *   Logout
-*   Sign In/Register
+*   Sign In / Register
 
 Support NPR NPR Shop
 
@@ -218,9 +219,10 @@ Support The Programs You Love
     *   Blogs
     *   Help
 
-©2012 NPR
+©2013 NPR
 
 *   Contact
 *   Terms of Use
 *   Privacy
+*   Sponsorship Choices
 *   Text-Only
