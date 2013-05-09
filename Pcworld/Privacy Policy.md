@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   This Week in Space: Sarah Brightman wants to go to into orbit May 7, 2013
-*   Eidos isolates sights and sounds, lets you tune out that annoying coworker May 7, 2013
-*   San Francisco adds social networking element to emergency, disaster planning May 7, 2013
+*   Don't forget your umbrella (ella, ella) with these 5 free weather apps May 8, 2013
+*   Software update brings better Google+ integration to Glass May 8, 2013
+*   'Gaming in Color' hopes to document diversity in gaming May 8, 2013
 
 PCWorld Articles
 
-*   Seagate unleashes first consumer SSD May 7, 2013
-*   AutoIt scripting increasingly used by malware developers May 7, 2013
-*   HP turns to design for reversal of PC fortunes May 7, 2013
+*   Intel: Keeping up with Moore's Law is becoming a challenge May 8, 2013
+*   Senators seek sanctions against countries supporting cyberattacks May 8, 2013
+*   Review: Wappwolf automatically converts and syncs your files May 8, 2013
 
   
 TechHive on Twitter (@TechHive)
