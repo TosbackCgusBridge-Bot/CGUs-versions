@@ -33,7 +33,7 @@ Search: Sections
 
 Today’s Paper   My Saved Privacy policy
 
-This policy was last updated on **December 31, 2012**.
+This policy was last updated on **May 8, 2013**.
 
 This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the “Services”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Boston Globe” include Boston.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.
 
