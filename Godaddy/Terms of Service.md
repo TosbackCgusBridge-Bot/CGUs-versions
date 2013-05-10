@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: May 3, 2013**
+**Last Revised: May 9, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -17,8 +17,7 @@ Whether you are simply browsing or using this Site or purchase Services, your us
 *   Uniform Domain Name Dispute Resolution Policy
 *   ICANN Transfer Dispute Resolution Policy
 *   Trademark and/or Copyright Infringement Policy
-*   Brand Guidelines
-*   Permissions Policy
+*   Brand Guidelines and Permissions
 *   Direct Affiliate Program Service Agreement
 
 The terms “we”, “us” or “our” shall refer to Go Daddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
@@ -225,19 +224,25 @@ _**(B) GOOD AS GOLD PREPAID SERVICES**_
 
 _Service Details_
 
-By using Good As Gold Prepaid Services, you may transfer funds to Go Daddy in order to fund your Good As Gold Prepaid Services account (“Good As Gold Account”).  You may then use your Good As Gold Account to purchase any Services.  You may fund your Good As Gold Account by providing (i) a paper check (from your personal or business checking account, as appropriate), (ii) a money order, or (iii) a wire transfer.  All payments must be for the full amount required at purchase.  All paper checks and money orders may be delayed up to ten (10) business days until the money is credited, which may delay your use of the Services, and any paper check or money order that does not clear will result in a $25.00 processing fee by Go Daddy, which may be debited from your Good As Gold Account.  The $25.00 processing fee is in addition to any fee(s) your bank may charge you.  
+By using Good As Gold Prepaid Services, you may transfer funds to Go Daddy in order to fund your Good As Gold Prepaid Services account (“Good As Gold Account”).  You may then use your Good As Gold Account to purchase any Services.  You may fund your Good As Gold Account by providing (i) a paper check (from your personal or business checking account, as appropriate), (ii) a money order, or (iii) a wire transfer.  All payments must be for the full amount required at purchase.    
 
 You acknowledge that funds transferred to your Good As Gold Account will be held by Go Daddy and will not accrue or pay interest for your benefit. To the extent any interest may accrue, you understand and agree that Go Daddy shall be entitled to receive and keep any such amounts to cover costs associated with Good As Gold Prepaid Services.
 
-You acknowledge that all transactions using Good As Gold Prepaid Services will be conducted in U.S. dollars and that it is your responsibility to arrange for foreign currency translations prior to funding your Good As Gold Account. Wire transfers received by Go Daddy in foreign currencies will be returned and you will be responsible for the cost of returning such funds. Your Good As Gold Account must be funded on an initial basis with no less than $100.00 paid in U.S. funds. You agree that you will be responsible for all wire transfer fees, both incoming and outgoing, associated with your Good As Gold Account. Any non-U.S. wire transfers may be subject to fees by your bank, intermediary banks, or Go Daddy’s bank, which may reduce the amount of the money received by Go Daddy’s bank and subsequently funded into your Good As Gold Account. Customers funding a Good As Gold Account with a wire of $1,000.00 or more shall not be subject to a $20.00 wire transfer processing fee from Go Daddy. You hereby expressly authorize Go Daddy (i) to reduce your Good As Gold Account by the amount of wire transfer fees Go Daddy incurs in order to receive your funds. and/or (ii) to charge a twenty-dollar ($20.00) service fee (“Service Fee”) in connection with the termination of your Good As Gold Account.  All fees are subject to change at any time, and such changes shall be posted online and effective immediately without need for further notice to you.
+You acknowledge that all transactions using Good As Gold Prepaid Services will be conducted in U.S. dollars.
+
+Your Good As Gold Account must be funded on an initial basis with no less than funds equivalent to $100.00 U.S. dollars.
+
+All paper checks and money orders may be delayed up to ten (10) business days until the money is credited, which may delay your use of the Services, and any paper check or money order that does not clear will result in a $25.00 processing fee by Go Daddy, which may be debited from your Good As Gold Account.  The $25.00 processing fee is in addition to any fee(s) your bank may charge you.
+
+Wire transfers may be initiated in foreign currency to fund your Good As Gold Account, however the natural currency of the Wild West Domains bank account is U.S. Dollars.  Foreign currency wires will be automatically converted and deposited in U.S. Dollars.  Please note that exchange rate fees may apply.  You agree that you will be responsible for all wire transfer fees, both incoming and outgoing, associated with your Good As Gold Account. Any non-U.S. wire transfers may be subject to fees by your bank, intermediary banks, or Go Daddy’s bank, which may reduce the amount of the money received by Go Daddy’s bank and subsequently funded into your Good As Gold Account. Customers funding a Good As Gold Account with a wire of $1,000.00 or more shall not be subject to a $20.00 wire transfer processing fee from Go Daddy. You hereby expressly authorize Go Daddy (i) to reduce your Good As Gold Account by the amount of wire transfer fees Go Daddy incurs in order to receive your funds. and/or (ii) to charge a twenty-dollar ($20.00) service fee (“Service Fee”) in connection with the termination of your Good As Gold Account.  All fees are subject to change at any time, and such changes shall be posted online and effective immediately without need for further notice to you.
 
 You can verify the remaining funds in your Good As Gold Account at any time by logging into “Manage Your Account” or through the shopping cart on the Go Daddy website. Should you decide to terminate your Good As Gold Account (or should Go Daddy opt to terminate your Good As Gold Account because you have breached an obligation under the Good As Gold Service Agreement), then the balance in your Good As Gold Account will be refunded, net the Service Fee.
+
+Additional funds may be added to your Good As Gold Account at any time. The preferred minimum increment for funds transfers and checks is $100.00.
 
 _Your Use of Good As Gold Prepaid Services_
 
 Use of funds in your Good As Gold Account can only be made through the Go Daddy purchase process at Go Daddy’s website. Purchases may not be made unless there are sufficient, available funds in your Good As Gold Account at the time of purchase to cover the entire purchase amount, including any related fees as set forth herein or in other relevant agreements.
-
-Additional funds may be added to your Good As Gold Account at any time. The minimum increment for funds transfers is $100.00.
 
 You will be able to access your Good As Gold Account activity and records from the “Manage Your Account” link on Go Daddy’s website. Your Good As Gold Account will show purchases and the amount of funds remaining in your Good As Gold Account. Go Daddy reserves the right at all times to disclose any information about your Good As Gold Account as Go Daddy deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part from your Good As Gold Account, in the sole and absolute discretion of Go Daddy.
 
@@ -760,5 +765,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 5/3/2013  
+Revised: 5/9/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
