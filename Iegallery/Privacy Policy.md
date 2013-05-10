@@ -324,6 +324,6 @@ If you have questions regarding one of our privacy statements, you should first 
 *   If you have a Windows Live password question, please visit Live Help.
 *   For general Microsoft privacy issues, please contact us by using our Web form.
 
-Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA • 425-882-8080
+Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA
 
 To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
