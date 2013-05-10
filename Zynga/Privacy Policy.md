@@ -38,11 +38,11 @@ Zynga Play now!
     *   Engineering Blog
 *   careers
     *   About Careers
-    *   US Careers
-    *   International Careers
-    *   University Careers
-    *   Benefits
+    *   Careers by Category
+    *   Careers by Location
     *   Life at Zynga
+    *   Benefits
+    *   University Careers
 *   about
     *   Our Story
     *   About Zynga
@@ -397,11 +397,11 @@ News
 Careers
 
 *   About Careers
-*   US Careers
-*   International Careers
-*   University Careers
-*   Benefits
+*   Careers by Category
+*   Careers by Location
 *   Life at Zynga
+*   Benefits
+*   University Careers
 
 About
 
