@@ -85,7 +85,7 @@ It is possible that by fraud or deception we may receive information given to us
 
 Questions regarding children's privacy should be directed to:  
 InfoSpace, Inc.  
-601 108th Avenue NE, Suite 1200  
+10900 NE 8th Street, Ste. 800  
 Bellevue, Washington 98004 USA  
 \+ (1) 425.201.6100 phone  
 \+ (1) 425.201.6150 fax
