@@ -93,6 +93,9 @@ Log Into MySubaru | Help |
         
         WRX Premium shown
         
+        Introducing the  
+        Subaru WRX Concept
+        
     *   Legacy
         
         Starting at **$20,295**
