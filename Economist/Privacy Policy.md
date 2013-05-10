@@ -72,7 +72,6 @@ Definitions
 *   Bazian
 *   Clearstate
 *   EuroFinance Conferences
-*   European Voice
 *   TVC Group
 
 A "customer" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Economist Group business.
