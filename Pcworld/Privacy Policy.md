@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Don't forget your umbrella (ella, ella) with these 5 free weather apps May 8, 2013
-*   Software update brings better Google+ integration to Glass May 8, 2013
-*   'Gaming in Color' hopes to document diversity in gaming May 8, 2013
+*   Tesla CEO Musk tweets driverless cars "still a few years from production" May 9, 2013
+*   Robots can assemble Ikea furniture, potentially save your marriage May 9, 2013
+*   RIAA expands gold and platinum record awards to streamed music May 9, 2013
 
 PCWorld Articles
 
-*   Intel: Keeping up with Moore's Law is becoming a challenge May 8, 2013
-*   Senators seek sanctions against countries supporting cyberattacks May 8, 2013
-*   Review: Wappwolf automatically converts and syncs your files May 8, 2013
+*   Make your passwords harder to crack May 9, 2013
+*   Intel acquires two mobile-focused software companies May 9, 2013
+*   PC makers see lower prices, less touch in Windows' future May 9, 2013
 
   
 TechHive on Twitter (@TechHive)
