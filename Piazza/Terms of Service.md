@@ -1,6 +1,6 @@
 Piazza Terms of Service
 
-Last updated: March 31, 2013.
+Last updated: May 2, 2013.
 
 Welcome to Piazza. These Terms of Service ("Terms") govern your access to and use of the services, websites, and applications offered by Piazza (collectively, the "Service"). Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Service you agree to be bound by these Terms.
 
