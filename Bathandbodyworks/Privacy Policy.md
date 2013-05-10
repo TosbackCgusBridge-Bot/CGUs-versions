@@ -7,9 +7,9 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Signature: Buy 3 Get 2 Free
-        *   $10 Forever Red Body Lotion
+        *   Online Only: $6 Body Care
+        *   $8 Forever Red Shower Gel
         *   New Arrivals
-        *   Online Only: Buy 3 Get 2 Free
         *   Travel Body Care: 3 for $10
     *   Lotions &. Creams
         
@@ -44,12 +44,12 @@ Welcome! **(Log in)**
     *   Top Fragrances
         
         *   Aruba Coconut
-        *   Bali Mango
         *   Beautiful Day
         *   Capri Seaside Citrus
         *   Forever Red
         *   Japanese Cherry Blossom
         *   Moonlight Path
+        *   Pure Paradise
         *   Rome Honeysuckle Amore
         *   Sweet Pea
         *   Venice Dolce Berry
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
+        *   3-Wick Candles: 2 for $22
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
         *   Mini Candles: 3 for $10
         *   Scentportables: Buy 4 Get 2 Free
-        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
@@ -103,7 +103,7 @@ Welcome! **(Log in)**
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
-        *   Hand Soap: 7 for $20
+        *   Hand Soap: 6 for $20
         *   PocketBac: 5 for $5
         *   New! Italy Inspired Soap
         *   Fresh Picked Market
@@ -214,8 +214,9 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Hand Soap: 7 for $20
-        *   Body Care: Buy 3 Get 2 Free
+        *   3-Wick Candles: 2 for $22
+        *   Online Only: $6 Body Care
+        *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
     *   Body &. Bath
@@ -267,11 +268,11 @@ Welcome! **(Log in)**
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
 *   *   Features
+        *   Let's Go to Italy!
         *   Beautiful Day
         *   Fresh Picked Market
         *   Meet Us in Paradise
         *   We Love Coconuts
-        *   America's Sweethearts
 
 *   *   Features
         *   Mother's Day Gifts
