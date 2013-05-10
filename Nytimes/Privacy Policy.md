@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Bill Cunningham: Hats Off
+Search Help House hunting in ... Bali
 
-Also in Video »
+Also in Real Estate »
 
-*   Marc Bittman shows us how to make "The Big Mac of desserts"
-*   Melissa Clark makes a classic Middle Eastern dish featuring a spicy tomato sauce with eggs baked on top
+*   Explore a three-bedroom among palms and rice paddies
+*   Properties for $870,000
 
   
 
