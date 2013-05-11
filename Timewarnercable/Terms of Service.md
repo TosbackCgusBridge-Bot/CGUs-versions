@@ -210,7 +210,7 @@ Follow Us
 *   Twitter
 *   YouTube
 *   Untangled Blog
-*   TWC Community Forums
+*   TWC Forums
 
 *   Privacy Policy
 *   Terms, Conditions &. Policies
