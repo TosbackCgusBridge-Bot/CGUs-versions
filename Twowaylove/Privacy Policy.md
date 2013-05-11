@@ -57,7 +57,7 @@ DATING DIRECTORY
     
     Add Link/URL →
     
-    Adding your dating or dating related website to TwoWayLove will put your site in front of people who are looking for the very thing you offer, additionally increasing your own Search Engine ranking, it really is a win-win. Get a keyword-rich unique-page backlinked to your site. Your site and details will also be included in our Syndicated Feed (RSS), Twitter and Facebook page. Get personal support, greater prominence, better SEO, and more.
+    Adding your dating or dating related website to TwoWayLove will put your site in front of people who are looking for the very thing you offer, additionally increasing your own Search Engine ranking, it really is a win-win. Get a keyword-rich unique-page backlinked to your site. Your site and details will also be included in our Syndicated Feed (RSS), Twitter and Facebook page. Get personal support, greater prominence, better SEO, and more. Need to make a payment?
     
     On-Page Advertising →
     
@@ -119,6 +119,7 @@ DATING DIRECTORY
     *   Facebook
     *   New Sites
     *   Newsletter
+    *   Payment
     *   Privacy
     *   RSS Feed
     *   Terms
