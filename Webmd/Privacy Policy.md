@@ -409,7 +409,7 @@ Most browser software can be set to reject Cookies. Most browsers offer instruct
 
 Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can opt out of Cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site or TRUSTe’s Preference Manager at http://preferences.truste.com/. This website will also allow you to review the Ad Server's privacy policies. You can find additional information and resources about how to opt out of advertising and related Cookies by visiting the World Privacy Forum's Site.
 
-We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests. To read about how to opt out of targeted advertising on the WebMD mobile sites see the section of this policy named _TRUSTed Ads Program Ad Choices _below__
+We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests. To read about how to opt out of targeted advertising on the WebMD mobile sites see the section of this policy named _TRUSTed Ads Program Ad Choices_ below
 
 TRUSTed Ads Program Ad Choices
 
@@ -496,7 +496,7 @@ WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode stan
 
 Effective Date: May 06, 2013
 
-©2012 WebMD, LLC. All rights reserved.
+©2013 WebMD, LLC. All rights reserved.
 
 About Us
 
