@@ -1,12 +1,3 @@
-AOL
-
-*   Privacy Main
-*   Privacy FAQ
-*   Preferences
-*   Relevant Topics
-*   Terms of Service
-*   Help
-
 Print AOL Privacy Policy
 
 This privacy policy applies to the information AOL Inc. collects about you as a user of AOL sites, services, and the software we use to provide you our services. Some of these services may provide you with additional information and choices about your privacy, which you should review.
@@ -96,9 +87,3 @@ European Union Residents:  AOL adheres to the EU-US Safe Harbor Privacy Princip
 
 _Last Updated_  
 _03-30-2012_
-
-AOL.com | Download AOL | Get AIM | Free Email | Advertise with Us | AOL Inc. | Privacy | Terms of Service | Site Map | About Our Ads
-
-AOL.com is AOL's customizable portal experience on the Web, providing top news, movies, music, weather, finance, sports, horoscopes, an RSS Feed Reader and more. quick and easy access to AOL Mail, AOL Instant Messenger and MapQuest. as well as convenient access to third party services such as eBay, Gmail and Yahoo Mail, Twitter, Facebook and MySpace.
-
-© 2013, AOL Inc. All rights reserved. | Help | My Account
