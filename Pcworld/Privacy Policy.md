@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   TechHive TechWatch: YouTube backlash, iPad frustration and very creepy games May 10, 2013
-*   Sid Meier's Ace Patrol: When free is worth paying for May 10, 2013
-*   Banned 3D printed gun files will never truly vanish from the Web May 10, 2013
+*   Nexus 4 may be nearing the end of its short, tough life May 11, 2013
+*   Tech Trek: Honolulu, Hawaii May 11, 2013
+*   National Park apps aid your trek from sea to shining sea May 11, 2013
 
 PCWorld Articles
 
-*   Bing brings integrated Facebook comments and Likes to searches May 10, 2013
-*   Wi-Fi in the sky may get a speed boost thanks to the FCC May 10, 2013
-*   Korora Linux 18 aims to deliver a friendlier Fedora May 10, 2013
+*   Cybercrooks reportedly hang out in Latin America, Caribbean May 11, 2013
+*   Microsoft's Patch Tuesday features IE8 zero-day fix May 11, 2013
+*   Underwater spy robot created by Virginia Tech researchers May 11, 2013
 
   
 TechHive on Twitter (@TechHive)
