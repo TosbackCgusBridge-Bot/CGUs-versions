@@ -1,4 +1,4 @@
-Bloomberg Privacy Policy Last Updated: March 15, 2012
+Last Updated: June 5, 2012
 
 Bloomberg L.P. ("BLP") respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to this Web site, any newsletters subscribed to via this Web site, information collected and provided to BLP when you subscribe to the digital edition of Bloomberg Businessweek at third-party websites and applications, and information collected offline when you subscribe to the print edition of Bloomberg Businessweek, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by BLP, its general and limited partners, and its subsidiaries, and their respective general partners and affiliates (collectively "Bloomberg"), unless expressly indicated by Bloomberg (such as by including a link to this Privacy Policy on other Bloomberg websites or on Bloomberg mobile applications).
 
@@ -56,12 +56,10 @@ If you have questions regarding this Privacy Policy, please contact us by clicki
 
 Your California Privacy Rights
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by BLP to its affiliates and/or third parties for their direct marketing purposes. With respect to such entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include “California Privacy Rights” in the Subject line of your email. You may also make such a request by writing to us at:
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by BLP to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include “California Privacy Rights” in the Subject line of your email. You may also make such a request by writing to us at:
 
 Bloomberg L.P. Attn: Legal Department 731 Lexington Avenue New York, NY 10022
 
 Modifications To This Privacy Policy
 
 BLP reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
-
-© Bloomberg - Terms of Service - Privacy Policy - Feedback
