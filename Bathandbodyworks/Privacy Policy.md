@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   $20 VIP Tote, $119 Value!
         *   Signature: Buy 3 Get 2 Free
         *   Online Only: $6 Body Care
-        *   $10 Forever Red Mini Mist
+        *   $10 Select Forever Red, Limited Time Only!
         *   New Arrivals
+        *   Travel Body Care: 3 for $10
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   $20 VIP Tote, $119 Value!
         *   3-Wick Candles: 2 for $22
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
         *   Mini Candles: 3 for $10
+        *   Scentportables: Buy 4 Get 2 Free
     *   Candles
         
         *   3-Wick Candles
@@ -103,11 +103,11 @@ Welcome! **(Log in)**
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
-        *   $20 VIP Tote, $119 Value!
         *   Hand Soap: 6 for $20
         *   PocketBac: 5 for $5
         *   New! Italy Inspired Soap
         *   Fresh Picked Market
+        *   The Kitchen Collection
     *   Hand Soap
         
         *   Foaming Soap
@@ -137,11 +137,11 @@ Welcome! **(Log in)**
         *   Tuscan Vineyard
         *   View All Fragrances
 *   *   Features
-        *   $20 VIP Tote, $119 Value!
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
+        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -184,7 +184,6 @@ Welcome! **(Log in)**
         *   Spa Accessories
         *   Shea Socks
 *   *   Features
-        *   $20 VIP Tote, $119 Value!
         *   Mother's Day Gifts
         *   Online Exclusives
         *   Up to 50% Off Select Items
@@ -215,11 +214,11 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   $20 VIP Tote, $119 Value!
         *   3-Wick Candles: 2 for $22
         *   Online Only: $6 Body Care
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
+        *   Wallflowers Refills: 3 for $20
     *   Body &. Bath
         
         *   Body Lotion
