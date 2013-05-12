@@ -1,12 +1,3 @@
-About Us
-
-*   History
-*   Our Team
-*   Partners
-*   Press Room
-*   Jobs
-*   Help Center
-
 Privacy Policy
 
 At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. We want to describe our privacy practices concerning the information collected through the Ask.com website and our Ask mobile applications in a clear and concise way. Below we generally describe what information we collect when you use the Ask service, how we protect that information, how long we retain it, whom we share it with, and what your privacy options are.
@@ -124,7 +115,3 @@ http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http
 Ask.com has further committed to refer unresolved privacy complaints under the US-EU and EU-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 To learn more about the Safe Harbor program, and to view Ask.com’s certification, please visit http://www.export.gov/safeharbor/.
-
-Follow Us:
-
-History  - Our Team  - Partners  - Press Room  - Jobs  - Terms of Service  - Privacy  - Blog  - Help  - Feedback      ©2013 Ask.com
