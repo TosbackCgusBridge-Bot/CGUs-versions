@@ -1,4 +1,4 @@
-DEUSESFRITBR Mai 2013
+DEUSESFRITBR Avril 2013
 
 *   Objet
 *   Mentions légales
@@ -124,11 +124,11 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Conditions générales de vente » Forum - Webmaster
 *   Conditions générales d'utilisation » Articles - Guide d'utilisation
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
 *   Forum Internet
-*   Forum Webmastering
+*   Forum Windows XP
