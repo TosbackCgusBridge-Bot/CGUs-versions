@@ -23,11 +23,11 @@ _**Connecting to our site means that you accept this policy agreement.**_
 _Last updated: 2012-07-04_
 
 Login | Register | Language / Select language | About | Legal threats | Blog  
-Contact us | Usage policy | Downloads | Promo | Doodles | Search Cloud | Tag Cloud | Forum | **TPB T-shirts**  
+Contact us | Usage policy | Downloads | Promo | Doodles | Tag Cloud | Forum | **TPB T-shirts**  
 Bayfiles | BayImg | PasteBay | Follow TPB on Twitter | Follow TPB on Facebook  
 
-6.247.069 registered users. Last updated 07:00:06.  
-68.994.799 peers (50.249.308 seeders + 18.745.491 leechers) in 4.643.577 torrents.  
+6.248.265 registered users. Last updated 07:00:05.  
+66.314.440 peers (48.794.282 seeders + 17.520.158 leechers) in 4.682.903 torrents.  
 
   
 BitCoin: **1Kqzbv4ekpJX3ohYWGEzMqzvf27VjBux35**  
