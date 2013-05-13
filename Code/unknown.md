@@ -1,17 +1,40 @@
-Additional Terms: Google Project Hosting
+Google Project Hosting: User Content and Conduct Policy
 
-In addition to the Google Terms of Service, the following additional terms apply to your use of Google Project Hosting:
+From time to time, we may modify these policies so please check back here. Also, when applying our policies, we may make exceptions based on artistic, educational, documentary, historical, or scientific considerations or where there are other substantial benefits to the public from not taking action.
 
-"Content" means all information, data, code, text, software, music, sound, photographs, graphics, video, messages or other materials you provide to Google or Google provided to you through the Service.
+**1\. Sexually Explicit Material:** Do not post content that contains nudity, graphic sex acts, or sexually explicit material. Do not post content that drives traffic to commercial pornography sites.
 
-Appropriate Conduct.
+**2\. Violent or Bullying Behavior:** Do not post depictions of gratuitous violence. Do not threaten, harass or bully other users.
 
-You agree to comply with the Google Project Hosting User Content and Conduct Policy, as may be updated, available at http://code.google.com/projecthosting/policy.html (or any other URL that Google may provide).
+**3\. Hate Speech:** Do not post content that promotes hatred or violence towards groups of people based on their race or ethnic origin, religion, disability, gender, age, veteran status, or sexual orientation/gender identity.
 
-Personal Non-Commercial Use
+**4\. Impersonation or Deceptive Behavior:** Do not use our products to impersonate other people.
 
-You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of Google services, use of Google services, or access to Google services except as otherwise expressly provided in the terms or as specifically authorized in a separate written agreement.
+**5\. Personal and Confidential Information:** Do not post other people's private and confidential information, such as credit card numbers or confidential national ID numbers.
 
-Export Control.
+**6\. Intellectual Property:** Don't infringe on the intellectual property rights of others, including patent, trademark, trade secret, copyright, and other proprietary rights. For more information or to file a DMCA request, please visit our copyright procedures Help Center at http://www.google.com/support/bin/static.py?page=ts.cs&ts=1114905.
 
-When posting Content to the Google Code website (http://code.google.com) or when sharing Content obtained from this website with others, you agree that you are solely responsible for complying with U.S. export control regulations, including the Export Administration Regulations ("EAR"), and all other applicable export and import laws and regulations. These regulations require that all postings of open source encryption code be simultaneously reported by email to the U.S. government. You are responsible for submitting this email report to the U.S. government in accordance with procedures described in: http://www.bis.doc.gov/encryption/PubAvailEncSourceCodeNofify.html and Section 740.13(e) of the EAR. Users residing in countries on the United States Office of Foreign Assets Control sanction list, including Cuba, Iran, North Korea, Sudan and Syria, may not post or access Content available through the Google Code website.
+**7\. Illegal Activities:** Don't use our products to engage in illegal activities or to promote dangerous and illegal acts.
+
+**8\. Malicious Products:** Don't transmit viruses, malware or any other malicious or destructive code. We don't allow content that harms or interferes with the operation of the networks, servers, or other infrastructure of Google or any third-parties. However, we do allow projects that host open source malware code for security reasons, but not binary/downloadable modules.
+
+**9\. Account Hijacking:** Don't access another user's account without their permission. Don't use our products for phishing scams.
+
+**10\. Child safety:** We have a zero tolerance policy towards content that exploits children, including child pornography and content that encourages or promotes sexual attraction towards children.
+
+**11\. Spam:** Spam of all forms is prohibited. Spam includes, but is not limited to, unwanted promotional or commercial content, and unwanted or mass solicitation.
+
+**12\. Generic File Hosting:** Google Project Hosting is meant for the facilitation of software development and the storage of artifacts related to software development. Storage of data that is not relevant to software development is not allowed without the express permission of Google.
+
+Enforcement of Our Content and Conduct Policy
+
+If you encounter content or a user that you believe violates the above policies, please report it to us by writing a post about the violation on the Google Code Project Hosting Group.
+
+Our team reviews these reports for policy violations. If a user or their content does not violate our policies, we will not take any action. If they are in violation, we may take one or more of the following actions based on the severity of the violation:
+
+*   Block all access to the content except by the author
+*   Delete the content
+*   Disable the user's access to one of more Google products
+*   Disable the user's access to his/her Google account
+*   Report the user to law enforcement
+*   If applicable, debit the user's account to refund buyers
