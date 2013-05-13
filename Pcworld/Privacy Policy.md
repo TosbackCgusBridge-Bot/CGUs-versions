@@ -150,9 +150,9 @@ TechHive Articles
 
 PCWorld Articles
 
-*   Cybercrooks reportedly hang out in Latin America, Caribbean May 11, 2013
-*   Microsoft's Patch Tuesday features IE8 zero-day fix May 11, 2013
-*   Underwater spy robot created by Virginia Tech researchers May 11, 2013
+*   Dell teams with Airbus to help pilots take flight data digital May 12, 2013
+*   Desktop chips zip along to faster speeds May 12, 2013
+*   'Google Play Games' leaks ahead of I/O signaling new social features May 12, 2013
 
   
 TechHive on Twitter (@TechHive)
