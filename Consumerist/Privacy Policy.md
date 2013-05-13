@@ -1,5 +1,3 @@
-Privacy Policy
-
 **Consumer Media LLC Privacy Policy**
 
 Last updated on April 15, 2013
@@ -139,7 +137,3 @@ If you wish to deactivate your account, you may do so through your user profile.
 **DISPUTES**
 
 Any disputes regarding this Privacy Policy are subject to our User Agreement.
-
-Tell a friend:
-
-*   More
