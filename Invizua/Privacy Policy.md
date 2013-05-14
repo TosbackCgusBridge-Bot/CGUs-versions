@@ -41,6 +41,6 @@ Home Knowledge Base Legal-Small Print Privacy Policy
 
 *   Print
 
-**Home**   **Omniscope** Download   **Support**   About Visokio Partners What's new in 2.7 Editions Forums Video tutorials &. reference Careers Contact us Demos &. screenshots Clients Knowledge Base Featured videos
+**Home**   **Omniscope** Download   **Support**   About Visokio Partners What's new? Editions Forums Video tutorials &. reference Careers Contact us Demos &. screenshots Clients Knowledge Base Featured videos
 
 © Visokio 2013 | Privacy Policy | Terms of Use | Contact Us
