@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 13, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 14, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -255,15 +255,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Shift Residue to Help Corn Thrive
-*   Additional Alfalfa Winterkill Resources
-*   World Hunger Gets Renewed Attention
-*   Program Information for May 11-12, 2012
-*   Rewind Rootless Corn Syndrome
-*   Slow Planting, Record Acres Equal Lower Prices?
-*   WASDE: Meat, Poultry, Milk Production Forecast Higher
-*   WASDE: Rice Supplies, Projected Use Down
-*   WASDE Report Forecasts Record U.S. Milk Production in 2014
+*   Spring Wheat Almost 50% Planted, USDA Says
+*   Wisconsin Dairy Group Urges House and Senate Ag Committee Leaders to Support Margin Insurance Without Supply Management
+*   A Slow Go for Soybean Planting
+*   Corn Planting Progress Doubles
+*   U.S. Credit Swaps Record Biggest Four-Day Rise Since March
+*   U.S. Corn’s Big Bad Wolf: Weather, China or Neither?
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
