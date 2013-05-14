@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Nexus 4 may be nearing the end of its short, tough life May 11, 2013
-*   Tech Trek: Honolulu, Hawaii May 11, 2013
-*   National Park apps aid your trek from sea to shining sea May 11, 2013
+*   Play This! Podcast: Starseed Pilgrim, YouTube videos, 80s TV, and The Sims May 13, 2013
+*   Zact becomes the latest carrier to rethink wireless plans May 13, 2013
+*   This wooden record lets you listen to Radiohead the low-tech way May 13, 2013
 
 PCWorld Articles
 
-*   Dell teams with Airbus to help pilots take flight data digital May 12, 2013
-*   Desktop chips zip along to faster speeds May 12, 2013
-*   'Google Play Games' leaks ahead of I/O signaling new social features May 12, 2013
+*   Review: Track and follow up emails with Right Inbox for Gmail May 13, 2013
+*   Intel loses ground as world's top semiconductor company, survey says May 13, 2013
+*   PCWorld Digital Magazine now available in a variety of Enhanced formats, and offered free for print subscribers May 13, 2013
 
   
 TechHive on Twitter (@TechHive)
