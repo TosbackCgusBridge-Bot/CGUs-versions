@@ -1,6 +1,5 @@
-Geeknet, INC. PRIVACY STATEMENT ("PRIVACY STATEMENT")
+      Privacy Statement
 
-  
 **(Last Updated October 29, 2012)**  
 **(Effective Date May 24, 2008)**
 
@@ -16,7 +15,7 @@ Geeknet reserves the right to update and change this Privacy Statement from time
 
 Geeknet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at legal@geek.net If you are not satisfied with our response you can contact TRUSTe here.
 
-NOTICE
+Notice
 
 Geeknet provides this Privacy Statement to make users aware of Geeknet privacy practices, and of the choices a user may make about the way the user's information is collected and used.
 
@@ -75,10 +74,10 @@ Geeknet may use the personally identifiable information a user submits for any p
 2.  To generate statistical studies;
 3.  To conduct market research and planning by sending user surveys;
 4.  To notify user referrals of Geeknet services, information, or products when a user requests that Geeknet send such information to referrals;
-5.  To improve services, information, and products.
+5.  To improve services, information, and products;
 6.  To help a user complete a transaction, or provide services or customer support to users and to recipients of Geeknet products;
 7.  To communicate with the user and with recipients of Geeknet products;
-8.  To update users and recipients of Geeknet products about services, information, and products.
+8.  To update users and recipients of Geeknet products about services, information, and products;
 9.  To personalize a Site for the user;
 10.  To notify the user of any changes with a Site which may affect the user;
 11.  To enforce terms of use on a Site. and
@@ -94,13 +93,13 @@ If you choose to send a gift certificate to a geek in your life, we will ask you
 
 Your friend may contact us at http://www.thinkgeek.com/bug-us to request that we remove this information from our database.
 
-CHOICE/OPT OUT
+Choice/Opt Out
 
 A user makes the decision whether to proceed with activities that request personally identifiable information, such as online contact us and order forms. If a user does not provide requested information, the user may not be able to complete certain transactions.
 
 Users who use the personally identifiable information of other users agree to use such information only for:
 
-1.  Using services offered through a Site.
+1.  Using services offered through a Site;
 2.  Site transaction-related purposes and not for unsolicited commercial messages. or
 3.  Other purposes that the other user expressly chooses.
 
@@ -126,7 +125,7 @@ Photographs
 
 Users may have the opportunity to submit photographs to the Sites for product promotions, contests, and other purposes to be disclosed at the time of request. In these circumstances, the Sites are designed to allow the public to view, download, save, and otherwise access the photographs posted. By submitting a photograph, users waive any privacy expectations users have with respect to the security of such photographs, and Geeknet's use or exploitation of users' likeness. All photographs submitted to Geeknet become the property of Geeknet and will not be returned.
 
-ONWARD TRANSFER
+Onward Transfer
 
 **With whom may Geeknet share information**
 
@@ -156,15 +155,15 @@ Links to third party web sites
 
 Links to third party web sites or widgets to enable sharing of information through social networks on the Sites are provided solely as a convenience to the user. When a user uses these links, the user leaves the Sites. Geeknet has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. Geeknet does not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If a user decides to access any of the linked sites, Geeknet encourages the user to read their privacy statements. The user accesses such sites at user's own risk.
 
-Bankruptcy or Sale of business
+Bankruptcy or sale of business
 
 Geeknet reserves the right to share or transfer personally identifiable information and aggregate information to a third party should Geeknet ever file for bankruptcy or in the event of a sale, merger or acquisition of Geeknet, provided such third party agrees to adhere to the terms of this Privacy Statement.
 
-DATA INTEGRITY AND ACCESS
+Data integrity and access
 
 Should a user find inaccuracies in such user's information, or desire to close an account or view or remove the personally identifiable information Geeknet may have regarding the user, the user may contact Geeknet through the communication methods described below, or when technically feasible, directly on a Site. Geeknet will make commercially reasonable efforts to respond to requests for access, updating or removal within thirty (30) days of receiving requests. Geeknet may decline to process users' access, updating or removal requests concerning their personally identifiable information if the requests require disproportionate technical effort, jeopardize the privacy of other users, are inconsistent with our legal obligations, or are impractical (for instance, requests concerning information residing on backup tapes).
 
-SECURITY
+Security
 
 To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, Geeknet implements physical, electronic, and managerial procedures to safeguard and secure the information Geeknet collects. Geeknet uses encryption when using the Internet to transfer or receive requested sensitive personally identifiable information. However, Geeknet does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information.
 
@@ -176,7 +175,7 @@ Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at legal@geek.net and we will deactivate your account and will retain and use your information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-ENFORCEMENT
+Enforcement
 
 In the event Geeknet becomes aware that the security of a Site has been compromised or user's personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to security attacks or fraud, Geeknet reserves the right to take reasonable appropriate measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities. In the event of a data breach, Geeknet will make reasonable efforts to notify affected individuals if Geeknet believes that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law.
 
