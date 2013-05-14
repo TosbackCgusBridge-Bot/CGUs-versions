@@ -1,23 +1,3 @@
-*   Home
-*   Showcase
-*   Learn More
-*   _loves_
-*   Pricing &. Sign–Up
-
-*   Login
-*   Need help?
-
-Privacy Policy
-
-*   Unbeatable personal support
-
-*   Fully customizable
-
-*   Tons of beautiful themes
-
-Start Now 14 day  
-free trial
-
 1\. What This Privacy Policy Covers
 
 1.1 This Privacy Policy explains how TypePad, Inc. ("we", "us", "our" or "TypePad") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of TypePad's Web sites (each, a "Site" and, collectively, the "Sites"), any of TypePad's services (each, a "Service" and, collectively, the "Services") and any of TypePad's software ("Software").
@@ -205,14 +185,3 @@ Attention: Legal Department
 Last updated March 4, 2011
 
 Copyright © 2011 TypePad, Inc. All rights reserved.
-
-*   United Kingdom
-*   France
-*   Japan
-*   United States
-
-*   Help Center
-*   Privacy Policy
-*   Terms of Service
-*   Copyrights
-*   saymedia.com
