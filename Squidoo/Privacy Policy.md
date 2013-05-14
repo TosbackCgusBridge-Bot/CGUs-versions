@@ -103,6 +103,10 @@ When becoming a Lensmaster, you have the ability to turn ON a feature called "co
       
       
     
+*   You cannot promote "get rich quick" schemes, ebooks, videos or manuals on Squidoo.  
+      
+      
+    
 *   Squidoo reserves the right to change our LensRank algorithm at any time.  
       
       
