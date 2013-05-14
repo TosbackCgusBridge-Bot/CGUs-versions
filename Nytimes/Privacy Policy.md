@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Polishing glass slippers and kinky boots
+Search Help 2013 Tony Awards special section
 
 Also in Arts »
 
-*   And the nominees should be ...
-*   Remember the vulture
+*   Riding a fast sled to the Tonys
+*   Tony Awards: 1948-2012
 
   
 
