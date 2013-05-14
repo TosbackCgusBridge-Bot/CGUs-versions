@@ -8,9 +8,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   Signature: Buy 3 Get 2 Free
         *   Online Only: $6 Body Care
-        *   $10 Select Forever Red, Limited Time Only!
         *   New Arrivals
         *   Travel Body Care: 3 for $10
+        *   Up to 50% Off Select Items
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   3-Wick Candles: 2 for $22
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
         *   Mini Candles: 3 for $10
         *   Scentportables: Buy 4 Get 2 Free
+        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
@@ -184,7 +184,7 @@ Welcome! **(Log in)**
         *   Spa Accessories
         *   Shea Socks
 *   *   Features
-        *   Mother's Day Gifts
+        *   Editor's Picks
         *   Online Exclusives
         *   Up to 50% Off Select Items
     *   Shop By Price
@@ -214,7 +214,6 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   3-Wick Candles: 2 for $22
         *   Online Only: $6 Body Care
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
@@ -275,9 +274,9 @@ Welcome! **(Log in)**
         *   We Love Coconuts
 
 *   *   Features
-        *   Mother's Day Gifts
         *   Online Exclusives
         *   Up to 50% Off Select Items
+        *   Editor's Picks
     *   Shop By Price
         
         *   $15 &. Under Gifts
