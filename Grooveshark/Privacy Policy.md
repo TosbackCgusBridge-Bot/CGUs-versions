@@ -1,16 +1,3 @@
-Grooveshark
-
-*   About
-*   Careers
-*   Artists
-*   Press
-*   Causes
-*   Legal
-*   Help
-*   Listen Now
-
-Privacy Policy Our promise to our users
-
 **Last Updated:** March 4, 2013
 
 **Effective Date:** March 4, 2013
@@ -140,41 +127,3 @@ XIV. Contact:
     *   Escape Media Group, Inc. (Grooveshark)  
         201 SE 2nd Ave., Suite 201  
         Gainesville, FL 32601
-
-*   Legal Overview
-*   Terms of Service
-*   Artist Profile Terms of Service
-*   Privacy Policy
-*   DMCA Takedown Policy
-*   DMCA Complaint Form
-
-*   " ...the social networking aspect of Grooveshark keeps the conversation about music going, and promotes more song sales (labels profit)... "
-    
-*   " ...In the turbulent, choppy waters where P2P networks and copyright law chomp at each other's fins for dominance, there's at least one beast that thinks it has a solution to keep everyone happy. Its name: Grooveshark. "
-    
-*   " I can honestly say it's even better than Pandora. The service is called Grooveshark, and from what I experienced they have as much music on their library as the others. "
-    
-*   " Grooveshark tracks the best users so you know who can be trusted to deliver quality content. "
-    
-*   " In the turbulent, choppy waters where P2P networks and copyright law chomp at each other's fins for dominance, there's at least one beast that thinks it has a solution to keep everybody happy. Its name: Grooveshark. "
-    
-*   " If you're looking for a way to grab music from peer-to-peer networks without that nagging feeling that you're depriving a starving artist of her next meal (or a label exec of that Learjet upgrade), Grooveshark might help. "
-    
-*   " Grooveshark: a new music service that I can see a lot of potential in. "
-    
-*   " Finally a way to have access to millions of songs, without feeling guilty. "
-    
-
-*   Happiness Find any song in the world and listen to it instantly.
-*   Discovery Get introduced to new music and new friends.
-*   Freedom Add your tunes to Grooveshark and access them from anywhere.
-
-*   Help
-*   Blog
-*   Artists
-*   Careers
-*   Contact
-*   Privacy
-
-Copyright © Escape Media Group 2007-2013. All Rights Reserved.  
-Powered by Grooveshark
