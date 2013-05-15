@@ -9,7 +9,7 @@ AOL
 
 AOL Privacy Policy Highlights
 
-This notice provides highlights of the full privacy policy and covers the collection and use of information when you use AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
+This notice provides highlights of the full privacy policy and covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
 
 Personal Information
 
@@ -44,12 +44,13 @@ You can opt-out of targeted advertising delivered by the AOL Advertising Network
 How to Contact Us **AOL Privacy**  
 22000 AOL Way  
 Dulles, VA 20166  
-privacyquestions@aol.com
+privacyquestions@aol.com What's New
+
+*   Additional information related to our Mobile Practices.
+*   Clarification on practices related to Advertising, Analytics, and Privacy.
 
 Print
 
 AOL.com | Download AOL | Get AIM | Free Email | Advertise with Us | AOL Inc. | Privacy | Terms of Service | Site Map | About Our Ads
-
-AOL.com is AOL's customizable portal experience on the Web, providing top news, movies, music, weather, finance, sports, horoscopes, an RSS Feed Reader and more. quick and easy access to AOL Mail, AOL Instant Messenger and MapQuest. as well as convenient access to third party services such as eBay, Gmail and Yahoo Mail, Twitter, Facebook and MySpace.
 
 © 2013, AOL Inc. All rights reserved. | Help | My Account
