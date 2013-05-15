@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Play This! Podcast: Starseed Pilgrim, YouTube videos, 80s TV, and The Sims May 13, 2013
-*   Zact becomes the latest carrier to rethink wireless plans May 13, 2013
-*   This wooden record lets you listen to Radiohead the low-tech way May 13, 2013
+*   BlackBerry CEO: BBM to be released as a free app on iOS and Android this summer May 14, 2013
+*   It is a good day to Bing: Microsoft adds Klingon support May 14, 2013
+*   Track your G-force with the Lit action activity tracker May 14, 2013
 
 PCWorld Articles
 
-*   Review: Track and follow up emails with Right Inbox for Gmail May 13, 2013
-*   Intel loses ground as world's top semiconductor company, survey says May 13, 2013
-*   PCWorld Digital Magazine now available in a variety of Enhanced formats, and offered free for print subscribers May 13, 2013
+*   TechAmerica: US tech employment grows slightly in 2012 May 14, 2013
+*   Adobe releases critical security updates for Reader, Flash Player and ColdFusion May 14, 2013
+*   T-Mobile Stores to Introduce the New Nokia Lumia 925 May 14, 2013
 
   
 TechHive on Twitter (@TechHive)
