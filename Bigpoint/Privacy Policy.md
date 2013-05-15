@@ -51,7 +51,7 @@ Before a child under 13 can use a Game, Bigpoint requires registration and conse
 
 1.2 PERSONAL INFORMATION FROM USERS OVER 13
 
-Bigpoint only collects information that personally identifies you ("Personal Information") from you when you: (1) register on the Site. (2) register to use a Game. (3) contact us. (4) order products and services from us. and (5) participate in our surveys or promotional activities. Personal Information may include the following categories of information: Contact Data (such as your name, address, email address). Financial Data (such as your account or credit card information). and Demographic Data (such as zip code and age). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or Tournament entries, any information provided in such communication may be collected as Personal Information.
+Bigpoint only collects information that personally identifies you ("Personal Information") from you when you: (1) register on the Site. (2) register to use a Game. (3) contact us. (4) order products and services from us. and (5) participate in our surveys or promotional activities. Personal Information may include the following categories of information: Contact Data (such as your name, address, email address, telephone number). Financial Data (such as your account or credit card information). and Demographic Data (such as zip code and age). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or Tournament entries, any information provided in such communication may be collected as Personal Information.
 
 1.3 NON –PERSONAL INFORMATION
 
@@ -102,7 +102,7 @@ To manage the information Bigpoint receives about you from the SNS where you pla
   
 6 SECURITY
 
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from Site visitors.
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect and store from Site visitors such as keeping the sensitive data behind a firewall, regular monitoring of our security program and computer systems for evidence of unauthorized use or access to personal information as well as physical security measures to guard against unauthorized access to systems where we store the information.
 
   
   
