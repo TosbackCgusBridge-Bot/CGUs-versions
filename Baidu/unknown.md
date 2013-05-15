@@ -86,7 +86,7 @@ To expedite our ability to process your request, please use the following format
 Send the above-mentioned materials and your contact information in writing to the following address:  
   
 Baidu.com  
-No.10,10th Street, Shangdi, Haidian District, Beijing 100085  
+No.10,10th  Street, Shangdi, Haidian District, Beijing 100085  
 PRC  
   
 Attn: Legal Department  
@@ -108,7 +108,7 @@ To expedite our ability to process your counter notification, please use the fol
   
 Send above mentioned materials and contact information in writing to the following address:  
 Baidu.com  
-No.10,10th Street, Shangdi, Haidian District, Beijing 100085  
+No.10,10th  Street, Shangdi, Haidian District, Beijing 100085  
 PRC  
   
 Attn: Legal Department
