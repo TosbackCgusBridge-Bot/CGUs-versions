@@ -1,5 +1,6 @@
+Downloads News Features Answers
+
 *   Login
-*   Create an account
 
 You are here:
 
@@ -279,22 +280,18 @@ Searches:
 *   Aaaaaall software
 
 *   About us
-    
     *   Softonic Info
     *   Help &. Support
     *   Jobs
     *   Softonic News
     *   Legal Information
 *   Developers
-    
     *   Softonic Developer Center
     *   Upload and Manage your Software
     *   Promote your Software
 *   Partners
-    
     *   Advertising Opportunities
 *   Users
-    
     *   Become a fan of Softonic
     *   Follow us @Softonic
     *   Google+
@@ -308,5 +305,3 @@ Searches:
     *   OnSoftware
 
 Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2013 - All rights reserved
-
-Softonic logo
