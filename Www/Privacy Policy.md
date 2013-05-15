@@ -184,6 +184,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @WethePeople
         *   @WhiteHouse
         *   @WHLive
+        *   @WHVideo
         *   @WHVine
         *   @WHWeb
     *   MySpace (Privacy)
@@ -266,6 +267,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: April 26, 2013
+Updated: May 14, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
