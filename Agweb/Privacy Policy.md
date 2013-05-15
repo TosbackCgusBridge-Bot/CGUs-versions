@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 14, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 15, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -255,12 +255,10 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Spring Wheat Almost 50% Planted, USDA Says
-*   Wisconsin Dairy Group Urges House and Senate Ag Committee Leaders to Support Margin Insurance Without Supply Management
-*   A Slow Go for Soybean Planting
-*   Corn Planting Progress Doubles
-*   U.S. Credit Swaps Record Biggest Four-Day Rise Since March
-*   U.S. Corn’s Big Bad Wolf: Weather, China or Neither?
+*   Missouri Analysis Shows Dairy Security Act Better
+*   U.S. Stocks Advance on Increased Optimism
+*   Power Hour: Huge Corn Crop Still Possible
+*   Somatic Cell Count in DHI Herds Averaged 200,000 in 2012
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
