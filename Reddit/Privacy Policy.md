@@ -11,7 +11,7 @@ About this Policy
 
 3 reddit is an open platform that allows you to communicate about anything you want on any topic you want. We collect some information in order for you to have an account you can use to participate on the site, and other information that is necessary to make the service work. Our goal in developing our privacy practices is to allow your participation to remain as anonymous as you choose and we don’t sell or profit from the information you share with us.
 
-4 We do take efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and gaming and other activities that violate the TOS. We also share your information when we are legally required to do so. Please read this privacy policy carefully. It describes what information we collect, how it is used, and when it is shared so you can make smart decisions about how you use reddit! We think it strikes a good balance and respects you – our users – who make this whole thing possible. Let us know what you think.
+4 We do take efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and gaming and other activities that violate the user agreement. We also share your information when we are legally required to do so. Please read this privacy policy carefully. It describes what information we collect, how it is used, and when it is shared so you can make smart decisions about how you use reddit! We think it strikes a good balance and respects you – our users – who make this whole thing possible. Let us know what you think.
 
 What Information We Collect Registration Information
 
@@ -49,7 +49,7 @@ Your Private Information Is Never for Sale
 
 Reddit Will Not Disclose Your Information Unless Required by Law
 
-15 We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or legal request. If we are going to release your information, we will do our best to provide you with notice in advance via reddit's private messaging system unless we are prohibited by court order from doing so.
+15 We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, we will do our best to provide you with notice in advance via reddit's private messaging system unless we are prohibited by court order from doing so (e.g., an order under 18 U.S.C. § 2705(b)).
 
 Your Information May Be Disclosed By Us In An Emergency or to Keep our Services Running
 
@@ -99,9 +99,9 @@ International Visitors
 
 28 reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. reddit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view reddit's certification, please visit http://www.export.gov/safeharbor/.
 
-Children Under 14
+Children Under 13
 
-29 Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 14 may not create an account with us. If you believe someone 13 or younger is using our site without parental consent, please contact us.
+29 Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
 
 Changes to This Policy
 
