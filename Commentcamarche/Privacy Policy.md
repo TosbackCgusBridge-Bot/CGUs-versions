@@ -1,4 +1,4 @@
-DEUSESFRITBR Mai 2013
+DEUSESFRITBR Avril 2013
 
 *   Objet
 *   Mentions légales
@@ -130,5 +130,5 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
-*   Consommation et internet
 *   Forum Internet
+*   Forum Windows XP
