@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   BlackBerry CEO: BBM to be released as a free app on iOS and Android this summer May 14, 2013
-*   It is a good day to Bing: Microsoft adds Klingon support May 14, 2013
-*   Track your G-force with the Lit action activity tracker May 14, 2013
+*   Google combines camera and cloud into a new darkroom May 15, 2013
+*   Epson brings hands-free YouTube to smart glasses May 15, 2013
+*   Google knocks Facebook down a peg with Google+ overhaul May 15, 2013
 
 PCWorld Articles
 
-*   TechAmerica: US tech employment grows slightly in 2012 May 14, 2013
-*   Adobe releases critical security updates for Reader, Flash Player and ColdFusion May 14, 2013
-*   T-Mobile Stores to Introduce the New Nokia Lumia 925 May 14, 2013
+*   Google brings voice-enabled search to the desktop May 15, 2013
+*   Syrian Internet service comes back online May 15, 2013
+*   Google improves interface, photos in Google+ social network May 15, 2013
 
   
 TechHive on Twitter (@TechHive)
