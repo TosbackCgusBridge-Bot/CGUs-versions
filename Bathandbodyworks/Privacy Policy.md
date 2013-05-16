@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Signature: Buy 3 Get 2 Free
-        *   Online Only: $6 Body Care
+        *   Men's Shave Collection: $6
         *   New Arrivals
+        *   Online Only: Buy 3 Get 2 Free
         *   Travel Body Care: 3 for $10
-        *   Up to 50% Off Select Items
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -48,11 +48,11 @@ Welcome! **(Log in)**
         *   Capri Seaside Citrus
         *   Forever Red
         *   Japanese Cherry Blossom
+        *   Malibu Heat
         *   Moonlight Path
         *   Pure Paradise
         *   Rome Honeysuckle Amore
         *   Sweet Pea
-        *   Venice Dolce Berry
         *   Warm Vanilla Sugar
         *   View All Fragrances
         
@@ -139,9 +139,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
+        *   Wexler: Buy 1 Get 1 50% Off
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
-        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -214,7 +214,7 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Online Only: $6 Body Care
+        *   Online Only: Buy 3 Get 2 Free
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
