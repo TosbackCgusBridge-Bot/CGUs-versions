@@ -5,7 +5,7 @@ Sign On | Customer Service | Locations | Apply | Home
   Privacy Policies
 
 *   U.S. Consumer Privacy Policy
-*   \>Online Privacy Policy
+*   \>Online and Mobile Privacy Policy
 *   Social Security Number Protection Policy
 *   Health Information Notice
 
