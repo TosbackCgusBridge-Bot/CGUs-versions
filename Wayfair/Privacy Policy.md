@@ -273,6 +273,10 @@ Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Sh
 
 **Non-Transferability and Non-Aggregation of Rewards Dollars** Rewards Dollars and any other right, obligation or benefit of the Rewards Program may not be transferred, assigned, sold, traded or bartered by any Member or any other person, without Wayfair's prior written consent, which Wayfair may withhold in its sole discretion, and any attempt to do any of the foregoing shall be null and void. In addition, Rewards Dollars are for the Member's personal use only. Members may not aggregate Rewards Dollars from multiple accounts or use Rewards Dollars for the purpose of purchasing products from the Participating Sites on behalf of others or for the purpose of reselling such products to others.
 
+**Rewards Gold Program Limitations** Certain products are not eligible for free shipping under the Rewards Gold program and will be designated as ineligible on the product detail page and/or in the shopping cart.
+
+**Rewards Gold Program Benefits are Non-Transferable** Wayfair reserves the right to deny customers enrollment in the Rewards Gold program at our discretion. Rewards Gold members are prohibited from using Rewards Gold benefits for the purpose of resale. Violation of this policy will be grounds for termination from the Rewards Gold program.
+
 Wayfair Giveaway Sweepstakes Official Rules
 
 **NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE DOES NOT INCREASE YOUR CHANCES OF WINNING. VOID WHERE PROHIBITED. Wayfair Giveaway Sweepstakes ("Promotion") begins each week at 12:00:00 PM Eastern Time ("ET") on Monday and ends at 11:59:59 AM ET on the following Monday (the "Promotion Period"). For the avoidance of confusion, each Promotion Period or week is a separate and distinct Promotion.** _The computer clock of the Sponsor is the official time-keeping device in the Promotion._
