@@ -8,7 +8,7 @@ Sign Up / Log In
 
 Privacy Policy PlayFirst, Inc. Online Privacy Policy
 
-Last updated February 7, 2013
+Last updated May 15, 2013
 
 Welcome to PlayFirst.com!
 
@@ -119,6 +119,10 @@ If you participate in chat, online forums, tips, have a public profile, or post 
 Service Providers
 
 We occasionally employ other companies to perform services necessary to our internal operations. For example, we may partner with other companies to fulfill an order for games, deliver promotional emails, or provide customer service. While providing services for us, these companies may access your personal information, and are required to use it solely as directed by us for the purpose of our requested service. These companies are obligated to maintain your personal information in confidence. We may also provide postal addresses to the U.S. Post Office or other couriers for delivery purposes.
+
+When you use PlayFirst website or download a PlayFirst mobile application by or through a third-party platform (such as Facebook), you allow us to access and collect certain information from such platform account. You also allow us to access and share information contained in cookies placed on your device by such platform as permitted by the terms of your agreement and privacy setting with such platform.
+
+We may share such information with certain service providers who work with us to support the internal operations of our website or mobile application. For example, we use a third-party service for ad tracking and to help us prepare website and mobile application analytics. We do not allow this third-party ad tracking and analytics company to send emails, notifications, or other communications to our end users. If you would like to opt out of such ad tracking and analytics, please visit https://www.optoutmobile.com/. Your choice to opt out of ad tracking and analytics services does not limit our ability to email you or collect other information from you for other vendors, subject to the terms of this privacy policy.
 
 Purchase or Sale of Businesses
 
