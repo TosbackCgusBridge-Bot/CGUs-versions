@@ -1,4 +1,4 @@
-PLEASE NOTE that our privacy policy has changed, effective June 23, 2010.
+PLEASE NOTE that our privacy policy has changed, effective May 10, 2010.
 
 J.Crew Group, Inc. and our family of brands, which include, but are not limited to J.Crew, crewcuts and Madewell (collectively, "J.Crew") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
 
@@ -168,4 +168,4 @@ We may update our privacy policy from time to time. Whenever we make a change, w
                     One Ivy Crescent  
                     Lynchburg, VA 24513-1001
 
-Effective as of June 23, 2010.
+Effective as of May 10, 2013.
