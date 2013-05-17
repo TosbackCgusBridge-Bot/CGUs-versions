@@ -13,7 +13,7 @@ A cookie is a small amount of data placed on the computer of a user by a website
 
 Why do websites use cookies?
 
-Webpages have no memory. A user who surfs from page to page within a website is not recognised as the same user across pages. Cookies enable the user's browser to be recognised by the website. Therefore, cookies are mainly used to remember the choices a user has made (e.g., remembering the language you speak), or to recognise recurring visitors to the site.
+Webpages have no memory. A user who surfs from page to page within a website is not recognized as the same user across pages. Cookies enable the user's browser to be recognized by the website. Therefore, cookies are mainly used to remember the choices a user has made (e.g., remembering the language you speak), or to recognize recurring visitors to the site.
 
   
 
