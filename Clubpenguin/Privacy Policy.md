@@ -30,6 +30,7 @@ play now Privacy Policy
     *   Český
     *   Magyar
     *   Român
+    *   Bŭlgariya
 
 Updated: January 11, 2012
 
