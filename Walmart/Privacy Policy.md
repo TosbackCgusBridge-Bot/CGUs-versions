@@ -261,9 +261,9 @@ Email Privacy Office - Please feel free to contact the privacy office with any q
 
 **Mail:**  
 Walmart Corporate  
-Privacy Office, MS #505  
-508 SW 8th Street  
-Bentonville, AR 72716-0505
+Privacy Office, MS #0160  
+702 SW 8th Street  
+Bentonville, AR 72716-0160
 
 Your California Privacy Rights
 
