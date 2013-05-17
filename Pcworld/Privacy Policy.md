@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Google combines camera and cloud into a new darkroom May 15, 2013
-*   Epson brings hands-free YouTube to smart glasses May 15, 2013
-*   Google knocks Facebook down a peg with Google+ overhaul May 15, 2013
+*   Testing cell networks across America: Phone crime is real May 16, 2013
+*   Yahoo ups cool quotient with Twitter content May 16, 2013
+*   Over 200 asteroids strike Mars each year (the poor thing!) May 16, 2013
 
 PCWorld Articles
 
-*   Google brings voice-enabled search to the desktop May 15, 2013
-*   Syrian Internet service comes back online May 15, 2013
-*   Google improves interface, photos in Google+ social network May 15, 2013
+*   Google eases Android app development with a new IDE May 16, 2013
+*   Windows 8 won't hit critical mass in enterprises, Forrester says May 16, 2013
+*   SAP builds out HANA platform and ecosystem May 16, 2013
 
   
 TechHive on Twitter (@TechHive)
