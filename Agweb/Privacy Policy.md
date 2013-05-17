@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 16, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 17, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -24,19 +24,19 @@ May 16, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     
     *   Pinpoint Weather &. Radar
     *   Extended Forecast
-    *   Daily Ag Weather Updates
-    *   Agronomic and Weather News
-    *   Drought Coverage
-    
-    *   Daily Temperature Ranges
-    *   Observed Rainfall
-    *   Heating Degree Days
-    *   Crop Moisture Levels
-    *   Long-Range Temperature Outlook
-    
+    *   National Forecast
     *   Severe Weather Forecast
-    *   Palmer Drought Index
-    *   Cumulative Rainfall 
+    *   Weather News
+    
+    *   Drought Coverage
+    *   Crop Moisture Levels
+    *   Cumulative Rainfall
+    *   Daily Temperature Ranges
+    *   Heating Degree Days
+    
+    *   Long-Range Temperature Outlook
+    *   Observed Rainfall
+    *   Palmer Drought Index 
 *   Markets
     
     *   Farm Journal Market Radio
@@ -120,15 +120,15 @@ May 16, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     
     *   AgWeb TV
     *   AgDay Television
-    *   AgDay: Future of Farming
     *   U.S. Farm Report
     *   Corn College TV
-    
     *   Leave a Legacy TV
-    *   AgDay: I-80 Harvest Tour
+    
+    *   AgDay: Future of Farming
     *   AgDay: The New Crop
     *   AgDay: I-80 Planting Tour
     *   Tout Live Video Updates
+    *   AgDay: Farm Favorites
     
      
 *   Radio
@@ -255,11 +255,11 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Corn at $4 or $10: Plan Ahead for Both
-*   Cotton Drops as World Inventories May Climb
-*   Goodlatte, Scott Will Fight On
-*   Research Spins Low-Value Cotton Into White Gold
-*   NMPF Lauds House Agriculture Committee Vote on Dairy
+*   Check Your 10-Day Weather Forecast
+*   Where to Now? 5 Questions to Ask Yourself
+*   First Quarter Volumes of U.S. Dairy Exports Recover from Soft Q4
+*   Consumers’ Outlooks on U.S. Economy Improve to Five-Month High
+*   Novel Cell Line IDs All Foot-and-Mouth Virus Serotypes
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
