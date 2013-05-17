@@ -6,10 +6,10 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Signature: Buy 3 Get 2 Free
+        *   Signature: Buy 3 Get 3 Free
+        *   Online Only: Buy 3 Get 3 Free
         *   Men's Shave Collection: $6
         *   New Arrivals
-        *   Online Only: Buy 3 Get 2 Free
         *   Travel Body Care: 3 for $10
     *   Lotions &. Creams
         
@@ -214,7 +214,7 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Online Only: Buy 3 Get 2 Free
+        *   Online Only: Buy 3 Get 3 Free
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
