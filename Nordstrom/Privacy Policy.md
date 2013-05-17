@@ -1,12 +1,12 @@
 **Nordstrom Privacy Policy Overview**  
-Welcome to Nordstrom. As a customer of the Nordstrom family of companies, your trust is our most important asset. We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession. In order to preserve your trust, we want you to understand what personally identifiable or personal information we may collect from you, how we use such information, and the choices you have regarding our use of this information.
+Welcome to Nordstrom. As a customer of the Nordstrom family of companies, your trust is our most important asset. We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession. In order to preserve your trust, we want you to understand what personal information we may collect from you, how we use such information, and the choices you have regarding our use of this information.
 
 In this policy, "personal information" means any information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip), e-mail address, telephone number, etc.
 
 This Privacy Policy governs your experience in our US stores and on this website unless otherwise indicated.
 
 **Categories of Information We Collect**  
-We collect personally identifiable information when communicating or interacting with you through Nordstrom.com, our stores or the Nordstrom family of companies. Some examples include:
+We collect personal information when communicating or interacting with you through Nordstrom.com, our stores or the Nordstrom family of companies. Some examples include:
 
 *   registering for a shopping account, Wish List or Product Review account on our website
 *   when you request that merchandise be sent to you or others, make purchases or returns with us, place an order with us online, via phone, mail, e-mail or fax, or request an e-receipt
@@ -17,7 +17,7 @@ We collect personally identifiable information when communicating or interacting
 *   your Financial Account numbers when transacting with us
 *   interacting with our websites or mobile sites, mobile applications and services
 *   when you participate in any of our programs such as contests, sweepstakes, surveys, loyalty programs, wedding programs etc.
-*   when you apply for employment which may include your social security or social insurance number
+*   when you apply for employment which may include your social security number or social insurance number
 *   working with our salespeople who assist you with your fashion needs and purchases
 *   through communications with you, or through the Nordstrom family of companies
 *   contacting us with a comment, question or complaint
@@ -163,7 +163,7 @@ To access the Nordstrom Canada Privacy Policy click here.
 For more information about our Careers Privacy Policy click here.
 
 **Business Transitions**  
-As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Nordstrom, Inc. or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your Personal Information can continue to be used as set forth in this Privacy Policy.
+As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Nordstrom, Inc. or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this Privacy Policy.
 
 **Policy Changes**  
 This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on our website.
