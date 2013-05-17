@@ -135,6 +135,6 @@ Google Maps and Google Earth map information and photographic imagery are used u
 Under the terms of the license, you are permitted to copy or use the Google Maps/Google Earth images on your site as long as Google Maps/Google Earth trade names, trademarks, service marks, logos, domain names and other distinctive brand features are not deleted or in any manner altered. Please note that you are subject to Google's privacy policy when using this service.  
   
 
-_This privacy policy page was updated on Jan. 28, 2013_
+_This privacy policy page was updated on May 16, 2013_
 
 NOAA Mobile | Protecting Your Privacy | FOIA | Information Quality | Disclaimer | USA.gov | Ready.gov | Site Map | Contact Webmaster
