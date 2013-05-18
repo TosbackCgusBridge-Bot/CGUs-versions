@@ -6,9 +6,9 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Signature: Buy 3 Get 3 Free
-        *   Online Only: Buy 3 Get 3 Free
+        *   Signature: Buy 3 Get 2 Free
         *   Men's Shave Collection: $6
+        *   Online Only: Buy 3 Get 2 Free
         *   New Arrivals
         *   Travel Body Care: 3 for $10
     *   Lotions &. Creams
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
+        *   Small Candles: $5
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
         *   Mini Candles: 3 for $10
         *   Scentportables: Buy 4 Get 2 Free
-        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
@@ -214,7 +214,7 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Online Only: Buy 3 Get 3 Free
+        *   Online Only: Buy 3 Get 2 Free
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
         *   Wallflowers Refills: 3 for $20
