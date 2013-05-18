@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 17, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 18, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -255,11 +255,12 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Check Your 10-Day Weather Forecast
-*   Where to Now? 5 Questions to Ask Yourself
-*   First Quarter Volumes of U.S. Dairy Exports Recover from Soft Q4
-*   Consumers’ Outlooks on U.S. Economy Improve to Five-Month High
-*   Novel Cell Line IDs All Foot-and-Mouth Virus Serotypes
+*   Bipartisan U.S. House Group Produces Tentative Immigration Plan
+*   Wheat Heading for Biggest Weekly Drop Since March on Output Gain
+*   Markets Focus on Rapid Planting Pace
+*   Power Hour: Farm Debt on the Increase
+*   First-Ever U.S. Precision Dairy Conference and Expo
+*   New Exacta™ One-Step CIP Detergent
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
