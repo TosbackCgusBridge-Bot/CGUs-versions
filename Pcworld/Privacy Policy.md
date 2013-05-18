@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Testing cell networks across America: Phone crime is real May 16, 2013
-*   Yahoo ups cool quotient with Twitter content May 16, 2013
-*   Over 200 asteroids strike Mars each year (the poor thing!) May 16, 2013
+*   NASA satellites reveal how melting glaciers contribute to rising seas May 17, 2013
+*   Hackers get busy with Glass at Google's invitation May 17, 2013
+*   Could a Tumblr deal fix Yahoo's square reputation? May 17, 2013
 
 PCWorld Articles
 
-*   Google eases Android app development with a new IDE May 16, 2013
-*   Windows 8 won't hit critical mass in enterprises, Forrester says May 16, 2013
-*   SAP builds out HANA platform and ecosystem May 16, 2013
+*   Alleged tech support scammers settle FTC charges May 17, 2013
+*   Review: Mash your motor with Euro Truck Simulator 2 May 17, 2013
+*   Police arrest Anonymous suspects in Italy May 17, 2013
 
   
 TechHive on Twitter (@TechHive)
