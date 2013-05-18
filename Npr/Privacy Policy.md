@@ -23,7 +23,7 @@ Skip to Main Content Toggle search
     *   Visit NPR
     *   Sign Up: Newsletters
     *   Book a Speaker
-    *   Request Permissiions
+    *   Request Permissions
 *   Support
     *   Support Us
     *   Foundation Grants
