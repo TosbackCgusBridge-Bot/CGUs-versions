@@ -320,15 +320,15 @@ Important Notice
 
 You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.
 
-Continue Return to Bank of America Opt Out of Behavioral Information Use
+Continue Return to Bank of America Opt out of relationship based or online behavioral advertising on our Sites
 
-Opting out means that third-party technology will not be used to serve ads tailored to your use of the Bank of America websites. You will continue to receive online advertising. however, by opting out, the advertising you receive when you visit the Bank of America websites may not be as relevant to you or tailored to your interests.
+When you opt out, you may still receive online advertising while on our sites.  Opting out means the content and advertisements you receive on our non-servicing sites (i.e. before sign-in) will be generic and will not be based on your relationship, preferences or behavior.  PLEASE NOTE: When you access account servicing pages in our sites (i.e. after sign-in) you may still see content and advertising that is customized based on your account relationships with us. 
 
-In order for this behavioral marketing opt out to work on your computer, your browser must be set to accept cookies. If you delete this cookie, buy a new computer, access Bank of America websites from a different computer, login under a different screen name or change web browsers, you will need to opt out again.
+In order for relationship based or behavioral advertising opt outs from our sites to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our site from a different device, login under a different screen name, or change web browsers, you will need to opt out again.
 
-If your browser has scripting disabled, you do not need to opt out, as behavioral marketing technology does not work when scripting is disabled. Please check your browser’s security settings to validate whether scripting is active or disabled. The opt-out will take effect upon your next visit using the same computer to Bank of America websites.
+If your browser has scripting disabled, you do not need to opt out, as relationship based or online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
 
-I wish to opt out of having anonymous behavioral information used by Bank of America’s advertising service providers to serve advertising to me on the Bank of America websites.
+The opt-out will take effect upon your next visit using the same device to Bank of America websites. Click on Submit to opt out of having relationship based and/or certain Other Information used to provide customized content and advertising on Bank of America's non-servicing sites (i.e. before sign-in). 
 
 Submit Cancel You have successfully opted out of behavioral targeting
 
