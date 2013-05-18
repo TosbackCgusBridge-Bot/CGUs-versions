@@ -1,4 +1,8 @@
-Legal Copyright
+Legal Intellectual property
+
+Canonical’s intellectual property rights policy governs your use of Canonical’s intellectual property.
+
+Copyright
 
 The website HTML, text, images audio, video, software or other content that is made available on this website or otherwise hosted by Canonical are the property of someone - the author in the case of content produced elsewhere and reproduced here with permission, or Canonical or its content suppliers. Before you use this content in some way please take care to ensure that you have the relevant rights and permissions from the copyright holder.
 
@@ -12,7 +16,7 @@ Trademarks
 
 Any trademarks, logos and service marks displayed on this website are the property of their owners, whether Canonical or third parties. For example, Linux is a registered trademark of Linus Torvalds. Debian is a trademark of Software in the Public Interest, Inc. Windows is a trademark of Microsoft Corporation.
 
-Canonical owns a number of trademarks, including UBUNTU, KUBUNTU, EDUBUNTU, and XUBUNTU, and use of these is subject to compliance with Canonical’s trademark policy.
+Canonical owns a number of trademarks, including UBUNTU, KUBUNTU, EDUBUNTU, and XUBUNTU, and use of these is subject to compliance with Canonical’s intellectual property rights’ policy.
 
 Privacy policy
 
