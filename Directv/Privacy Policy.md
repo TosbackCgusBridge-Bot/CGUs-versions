@@ -31,7 +31,7 @@ This Policy explains our practices in the following areas:
 7\. How you may access and correct your personally identifiable information.  
 8\. Changes to this Policy.
 
-If you have questions about this Policy, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail (www. directv.com/email), or mail:
+If you have questions about this Policy, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail (www.directv.com/email), or mail:
 
 **DIRECTV Privacy Policy**  
 **P.O. Box 6550**  
