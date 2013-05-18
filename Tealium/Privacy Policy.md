@@ -55,7 +55,10 @@ London, W1S 1JY
 
 Germany
 
-+49 711 16121012
+Neuer Wall 50  
+20354 Hamburg
+
++49 408 22186462
 
 Privacy Policy
 
