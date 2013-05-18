@@ -292,8 +292,8 @@ Zip can also sync with select Bluetooth(r) Smart mobile devices. We currently su
 *   **iPhone 4s** (and later)
 *   **iPad 3rd generation** (and later)
 *   **iPod touch 5th generation** (and later)
-*   **Samsung Galaxy S III**
-*   **Samsung Galaxy Note II**
+*   **Samsung Galaxy S III, S4**
+*   **Samsung Galaxy Note II, Note 10.1**
 
   
   
