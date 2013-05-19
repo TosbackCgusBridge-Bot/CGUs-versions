@@ -1,4 +1,4 @@
-United.com is currently undergoing maintenance, you may experience slower response times. We apologize for the inconvenience. United States - English Change CountryClose
+United States - English Change CountryClose
 
 Please select your location or where you receive credit card billing statements to see pricing in your local currency.
 
