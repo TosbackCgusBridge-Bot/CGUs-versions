@@ -1,40 +1,52 @@
-Staples Price Match Guarantee
+Staples price–match guarantee
 
-**How does Staples' price–match guarantee work?**
+**How does Staples’ price–match guarantee work?**
 
 If you find a lower price on a new identical item, just show us the lower price when you buy the item at Staples and we will match the price, or within 14 days of your Staples purchase and we will give you the difference (see full policy below for details).
 
 **Which competitors will Staples price match?**
 
-Staples retail stores will price match prices at brick-n-mortar retail stores and at Staples.com.
+Staples retail stores will price match prices at competitors’ brick-n- mortar retail stores and at Staples.com.
 
-Staples.com will price match prices at select competitors' websites and Staples' retail stores. These select competitors are: Amazon, Best Buy, Costco, Dell, Hewlett Packard, Office Depot, Office Max, Quill, Medical Arts Press, Reliable, Sam's Club, Wal-Mart, WB Mason, and Xerox. Items must be sold and shipped by one of these competitors.
+Staples.com will price match select competitors’ websites as well as Staples’ retail stores. These select competitors are: Amazon, Best Buy, Costco, Dell, Hewlett Packard, Office Depot, Office Max, Quill, Medical Arts Press, Reliable, Sam’s Club, Wal—mart, WB Mason and Xerox. Items must be sold and shipped by one of these competitors.
 
 **Which items does Staples price match?**
 
-Almost everything we sell. The item must be identical, including model number, components and U.S. warranty. The item must be in stock and available for purchase at that price from an authorized U.S. reseller, whose authorization we reserve the right to verify. For wireless phones and other items with a service plan, only in-store purchases are eligible for price match. The plan, provider and other terms must be the same. Products and services purchased online at our Mobile Phone sales &. service site are not eligible for price match.
+Almost everything we sell. The item must be identical, including model number, components and U.S. warranty. The item must be in stock and available for purchase at that price from an authorized U.S. reseller, whose authorization we reserve the right to verify. For wireless phones and other items with a service plan, only in—store purchases are eligible for price match. The plan, provider and other terms must be the same. Products and services purchased online at our Mobile Phone sales &. service site are not eligible for price match.
 
-**Which items and services aren't available for price match?**
+**Which items and services aren’t available for price match?**
 
-We don't price match to competitor or our own local or special events (e.g., grand opening, anniversary, clearance or liquidation sales). We also don't price match: our Staples® EasyTechsm services. We don't price match items sold on auction sites. taxes and typographical errors. and gift cards, gift checks, or merchandise credits.
+We don’t price match to competitors’ or our own local special events (e.g. grand opening, anniversary, clearance, timed sales or liquidation sales). We don’t price match: our Staples® EasyTechsm services. our third—party providers’ products and services (e.g., custom printing) or items sold on auction sites. taxes. warranties. typographical errors. gift cards. or merchandise credits.
 
 **How do Staples coupons and rebates contribute to the Staples price?**
 
-All coupons and rebates (including Easy Rebatessm, instant rebates or savings, and Staples or manufacturer mail-in rebates) are deducted from the price of the Staples product when calculating a price match.
+All coupons and rebates (including Staples dollars off, Reward redemption codes, Gift checks, Easy Rebates sm and mail in rebates, instant savings) are deducted from the price of the Staples product when calculating a price match.
 
-**Will Staples match a competitor's price for a product where the competitor also offers an instant rebate, mail—in rebate, gift check or gift card, or free or discounted item?**
+When calculating a price match, we’ll deduct any available Staples coupons and/or Staples Rebates (Rewards, Dollars off, instant savings, easy and mail in rebates) from the Staples price to arrive at a net price. For example, if you buy an item from us for $200 and use a $20 Rewards and there is a $20 instant savings, the Net price is $160. If another company’s price is $160 or more, the price match will not be approved as the Staples price is equivalent or better. Another example: If you buy an item from us for $159 and you have a coupon for $25 off a $100 order, as well as a $20 mail-in rebate, the net price is $114. If another company’s price is $110, your price match savings would be $4.
 
-If a competitor offers a product that comes with an instant rebate, mail—in rebate, gift check or gift card, or similar discount, we will only match the price you pay at the point of purchase and will not take such discounts into account. If a competitor offers a product that comes with a free or discounted item and Staples does not carry the free or discounted item, we will only match the price you pay at the point of purchase and will not take the free or discounted item into account.
+**What does “proration of coupons” mean?**
+
+Proration of coupons means the dollars off coupons (Staples coupons, Rewards, gift checks) are proportionally deducted from the prices of items on an order.
+
+What effect will the proration of coupons have on a price match?
+
+The prorated discount from all coupons on the order will be used when calculating Staples’ price. The application of coupons can mean a specific purchase won’t qualify for price match. Similarly, a purchase that has a price match discount may no longer be eligible for a coupon if the adjusted order total no longer meets the minimum requirements of the coupon.
+
+**Will Staples match a competitor’s price for a product where the competitor also offers an instant rebate, mail—in rebate, gift check or gift card, or free or discounted item?**
+
+If a competitor offers a product that comes with an instant rebate, mail—in rebate, gift check/gift card, or similar discounts, we will not take these discounts into account. If a competitor offers a product that comes with a free or discounted item, and Staples does not carry the free or discounted item, we will only match the price you pay at the point of purchase, and will not take the free or discounted item into account.
 
 **Are delivery charges included in the price match?**
 
-It will depend on whether your Staples.com order received free shipping, and whether the competitor offers free shipping. If your Staples.com order received free shipping and the competitor offers free shipping, we will price match the product without considering shipping charges. If your Staples order received free shipping and the competitor does not offer free shipping, we will include an appropriate shipping charge in the competitor's price before price matching. If your Staples.com order did not receive free shipping and the competitor offers free shipping but the product does not qualify for such free shipping, or the competitor does not offer free shipping, we will include shipping charges on both products before price matching.
+It will depend on whether your Staples.com order will receive free shipping, and whether the competitor’s order will offer free shipping.
 
-**Are quantities limited on price–matched products?**
+If your Staples.com order will receive free shipping, and the competitor’s order will receive free shipping, we will price match the product without considering shipping charges. If your Staples.com order will receive free shipping and the competitor order will not receive free shipping, we will include an appropriate shipping charge in the competitor’s price before calculating the price match. If your Staples.com order does not receive free shipping, and the competitor’s order offers free shipping, we will deduct the Staples shipping charge from the competitor’s price, so that the Staples Price Match item total is the same as what the competitor is selling the product for.
 
-We may limit the quantities of price—matched items, particularly if the competitor does. In addition, we reserve the right to limit quantities sold to a customer.
+**Are quantities limited on price matched products?**
 
-Policy information is available by calling 1-800-333-3330. For price match, see customer service desk in store or call 1-800-333-3330. This policy is subject to change without notice. Effective as of December 5, 2011.
+We may limit the quantity of the price matched item, particularly if the other company has set a limit. In addition, we reserve the right to limit quantities sold to a customer.
+
+Our price match guarantee is available at www.staples.com/pricematch when you place an order, or is available by calling 1—800—333—3330. For an in-store price match, please see an associate at our customer service desk at your local store. This policy is subject to change without notice. Effective as of 5.2.2013
 
 Return Policy
 
