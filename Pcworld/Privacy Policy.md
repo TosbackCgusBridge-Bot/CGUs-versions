@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   NASA satellites reveal how melting glaciers contribute to rising seas May 17, 2013
-*   Hackers get busy with Glass at Google's invitation May 17, 2013
-*   Could a Tumblr deal fix Yahoo's square reputation? May 17, 2013
+*   Science Wrap: Google and NASA are building a quantum-computer-powered AI May 18, 2013
+*   How to capture a sense of speed with panning May 18, 2013
+*   31 animated GIFs for when you graduate college May 18, 2013
 
 PCWorld Articles
 
-*   Alleged tech support scammers settle FTC charges May 17, 2013
-*   Review: Mash your motor with Euro Truck Simulator 2 May 17, 2013
-*   Police arrest Anonymous suspects in Italy May 17, 2013
+*   FBI urges banks to share data, tactics to fight cyberattacks May 18, 2013
+*   Google I/O's Apps news was low-key but significant May 18, 2013
+*   Smartphone security in the workplace a tough issue with BYOD May 18, 2013
 
   
 TechHive on Twitter (@TechHive)
