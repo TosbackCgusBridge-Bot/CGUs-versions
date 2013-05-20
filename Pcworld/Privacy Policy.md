@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Science Wrap: Google and NASA are building a quantum-computer-powered AI May 18, 2013
-*   How to capture a sense of speed with panning May 18, 2013
-*   31 animated GIFs for when you graduate college May 18, 2013
+*   Malware's invisibility is its best weapon, Trend Micro exec says May 19, 2013
+*   Technology patent trolls snubbed in Congress May 19, 2013
+*   Bitcoin boosters rally to assure Congress of currency's worth May 19, 2013
 
 PCWorld Articles
 
-*   FBI urges banks to share data, tactics to fight cyberattacks May 18, 2013
-*   Google I/O's Apps news was low-key but significant May 18, 2013
-*   Smartphone security in the workplace a tough issue with BYOD May 18, 2013
+*   Bitcoin developer talks regulation, open source and the elusive Satoshi Nakamoto May 19, 2013
+*   As tablets rival laptops, Asus straddles both formats May 19, 2013
+*   Report: Yahoo board OKs deal to buy Tumblr for $1.1 billion May 19, 2013
 
   
 TechHive on Twitter (@TechHive)
