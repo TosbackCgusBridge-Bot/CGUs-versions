@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help What's the best way to market an app?
+Search Help New technology inspires a rethinking of light
 
 Also in Business »
 
-*   Online hiring tools are changing recruiting techniques
-*   Riding the momentum created by a cheeky video
+*   By 2023, a changed world in energy
+*   Mobile chargers prepare for their day in the sun
 
   
 
