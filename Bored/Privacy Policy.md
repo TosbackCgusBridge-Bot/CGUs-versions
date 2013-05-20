@@ -1,6 +1,6 @@
 mlns="http://www.w3.org/1999/xhtml" xml:lang="en">.
 
-Bored? Play Free Games, Fun Stuff to do @bored.com BORED.COM
+Bored? Play Free Games, Fun Stuff to do @bored.com BORED.COM REALLY BORED? CLICK HERE TO RANDOMIZE
 
 *   Popular Games
 *   Stickman
