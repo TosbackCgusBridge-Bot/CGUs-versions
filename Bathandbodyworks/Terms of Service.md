@@ -7,8 +7,8 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Signature: Buy 3 Get 2 Free
+        *   Online Only: $6 Body Care
         *   Men's Shave Collection: $6
-        *   Online Only: Buy 3 Get 2 Free
         *   New Arrivals
         *   Travel Body Care: 3 for $10
     *   Lotions &. Creams
@@ -62,8 +62,8 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Small Candles: $5
+        *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
-        *   Wallflowers Refills: 3 for $20
         *   Mini Candles: 3 for $10
         *   Scentportables: Buy 4 Get 2 Free
     *   Candles
@@ -139,9 +139,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
-        *   Wexler: Buy 1 Get 1 50% Off
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
+        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -214,10 +214,10 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Online Only: Buy 3 Get 2 Free
+        *   Online Only: $6 Body Care
+        *   Wallflowers Refills: $6
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
-        *   Wallflowers Refills: 3 for $20
     *   Body &. Bath
         
         *   Body Lotion
