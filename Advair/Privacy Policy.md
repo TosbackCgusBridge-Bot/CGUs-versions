@@ -1,5 +1,4 @@
-  
-**GlaxoSmithKline Internet Privacy Statement**
+GlaxoSmithKline Internet Privacy Statement
 
 GSK respects the privacy of visitors to our online sites. GSK will only collect your personally identifiable information, such as your name, address, telephone number, or e-mail address, when you provide it to us at this website. GSK and/or the companies we hire will use this information to comply with your request for information or as otherwise disclosed to you on the web page when you submit your information to us. From time to time, we may refer to this information to better understand your needs and how we can improve our products and services. We may use this information to contact you. We will not sell or otherwise transfer the personally identifiable information you provide to us at this website to any third parties for their own use unless we tell you when you submit your information to us that we intend to do so.
 
@@ -29,7 +28,5 @@ As a convenience to our visitors, GSK's sites currently contain links to a numbe
 
 From time to time, GSK may decide to modify its practices and policies, and we reserve the right to revise this GSK Internet Privacy Statement as necessary to disclose such changes in our practices and policies. Any such changes to this GSK Internet Privacy Statement will be promptly communicated on this page. Any information that you submit before the change in policy will be used by GSK and/or the companies we hire in a manner that is consistent with the GSK Internet Privacy Statement in effect at the time you submitted your information. Continued use of our sites after receiving notice of a change in our privacy statement shall indicate your consent to the use of newly-submitted information in accordance with the changed, amended, or updated GSK Internet Privacy Statement.
 
-   
-  
 This site is intended for US residents only.  
 © 2004-2012 GlaxoSmithKline - All Rights Reserved - Updated July 19, 2004
