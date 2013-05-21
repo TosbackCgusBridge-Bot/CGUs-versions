@@ -1,4 +1,4 @@
-Effective Date:  December 1, 2011  
+Effective Date:  May 17, 2013  
   
 This privacy policy applies when you are obtaining information about Equifax Corporation through the US Equifax.com web site.  
   
