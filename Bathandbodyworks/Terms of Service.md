@@ -8,9 +8,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   Signature: Buy 3 Get 2 Free
         *   Online Only: $6 Body Care
-        *   Men's Shave Collection: $6
         *   New Arrivals
         *   Travel Body Care: 3 for $10
+        *   Up to 50% Off Select Items
     *   Lotions &. Creams
         
         *   Body Lotion
