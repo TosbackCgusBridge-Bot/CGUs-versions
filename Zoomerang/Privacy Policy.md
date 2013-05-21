@@ -16,6 +16,7 @@
     *   Market Exploration
     *   Innovation Research
     *   In-Store Activation
+        *   TOUCH Point Mapping
     *   Shopper Research
     *   Advanced Analytics
     *   Service Bureau
