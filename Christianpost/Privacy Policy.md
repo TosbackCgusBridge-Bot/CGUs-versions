@@ -15,7 +15,7 @@
     *   My Post
     *   Books
 
-About The Christian Post About Us
+About Us
 
 *   General Information »
 *   Statement of Faith »
