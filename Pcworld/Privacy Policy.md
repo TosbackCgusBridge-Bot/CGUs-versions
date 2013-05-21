@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Malware's invisibility is its best weapon, Trend Micro exec says May 19, 2013
-*   Technology patent trolls snubbed in Congress May 19, 2013
-*   Bitcoin boosters rally to assure Congress of currency's worth May 19, 2013
+*   Here's a 3D-printed 'cloaking device' you could make at home May 20, 2013
+*   Sony vs. Microsoft game console wars reignite May 20, 2013
+*   Lightpack protects your precious eyesight while watching TV May 20, 2013
 
 PCWorld Articles
 
-*   Bitcoin developer talks regulation, open source and the elusive Satoshi Nakamoto May 19, 2013
-*   As tablets rival laptops, Asus straddles both formats May 19, 2013
-*   Report: Yahoo board OKs deal to buy Tumblr for $1.1 billion May 19, 2013
+*   Chinese hackers resume attacks on U.S. targets May 20, 2013
+*   Review: Connectify Dispatch combines network adapters to increase speed and reliability May 20, 2013
+*   Attack on Telenor was part of large cyberespionage operation with Indian origins, report says May 20, 2013
 
   
 TechHive on Twitter (@TechHive)
