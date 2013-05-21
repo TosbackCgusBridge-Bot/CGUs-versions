@@ -1,7 +1,7 @@
 Skip to main content
 
   AgWeb.com Farm Journal Legacy Project Top Producer Dairy Today Beef Today Pro Farmer Ag Day TV US Farm Report AgriTalk Cattle-Exchange.com Farm Journal Media Ultimate Farm Quest Corn College Marketing Rally Farmers Feeding the World Farmers Feeding the World - test Outdoors on the Farm Baxter Black Machinery Minute Consumer Ag Connection Radio AgWeb Radio Tractor Tales PFA Pioneer Blog TPEN  
-May 20, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
+May 21, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin  
 
 *   News
     
@@ -111,11 +111,7 @@ May 20, 2013 Home| Tools| Events| Blogs| Discussions Sign UpLogin
     *   Agriculture Facts
     *   A Day in Agriculture
     *   Community
-    *   Photo Galleries
-    *   Road to No. 1 Contest
-    
-    *   March Mayhem Bracket Challenge
-    *   March Mayhem Pick 'em Challenge 
+    *   Photo Galleries 
 *   Video
     
     *   AgWeb TV
@@ -255,12 +251,13 @@ ALSO RECOMMENDED
 *   LATEST HEADLINES
 *   MOST COMMENTED
 
-*   Program Information for May 18-19, 2013
-*   Bipartisan U.S. House Group Produces Tentative Immigration Plan
-*   Wheat Heading for Biggest Weekly Drop Since March on Output Gain
-*   Markets Focus on Rapid Planting Pace
-*   Power Hour: Farm Debt on the Increase
-*   First-Ever U.S. Precision Dairy Conference and Expo
+*   Spring Wheat Nears 70% Planted
+*   Dickrell: Is the Dairy Debate Asking The Wrong Question?
+*   Soybeans 24% Planted, USDA Says
+*   Record-Breaking Spike in Corn Planting Progress
+*   U.S. 10-Year Yield Drops Before Bernanke Talk
+*   Corn Planting Report Holds Soybean Clues
+*   Reduced, delayed cotton planting increase demand
 
 *   Benefits of a weed-management program
 *   Enter Project Fresh Start for a Planter Makeover
