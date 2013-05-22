@@ -6,7 +6,6 @@ Skip to main content **eLearners.com** Sign In | Register 
 *   Online Colleges
 *   Campus Colleges
 *   Education Resources
-*   News
 
 Find Your Online Degree
 
@@ -24,15 +23,7 @@ Help Section
 *   Terms of Use
 *   Site Map
 
-Newsletter Signup
-
-Bonus! Free e-book:
-
-Get Set for Learning
-
-By entering my email address and clicking "Submit" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services.
-
-Home >. Privacy Policy Privacy Policy
+Privacy Policy
 
 eLearners.com, a part of the Student Prospecting Division of EducationDynamics, LLC, is a licensee of the TRUSTe Privacy Program.eLearners.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@elearners.com. If you are not satisfied with our response you can contact TRUSTe here.
 
@@ -190,29 +181,34 @@ Postal Address: 5 Marine View Plaza, Suite 212, Hoboken, NJ 07030
 
 This updated policy is effective as of October 24, 2012
 
-Find Your Online Degree
+Newsletter Signup
 
-*   1\. Degree Level: -- Select --
-*   2\. Area of Study: -- Select --
-*   3\. Concentration: -- Select --
+Bonus! Free e-book:
+
+Get Set for Learning
+
+Your Name \* Your Email Address \*
+
+By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services.
 
 Popular Topics:
 
 *   Online Colleges
 *   Online Degrees
+*   Online Certificates
 *   Online Courses
-*   Online Schools
-*   Campus Colleges
+*   Campus Schools
 
-Degrees by Level:
+Online Degrees By Level
 
-*   Online Associates Degrees
-*   Online Bachelor Degrees
-*   Online Masters Degrees
-*   Online Doctorate Degrees
-*   Online Certificate Programs
+*   Associate Degrees
+*   Bachelor Degrees
+*   Master Degrees
+*   Doctoral Degrees
+*   Certificate Programs
+*   Courses
 
-Most Popular Degrees:
+Popular Degrees:
 
 *   Nursing Degrees
 *   Business &. MBA Degrees
@@ -222,35 +218,22 @@ Most Popular Degrees:
 *   Education &. Teaching Degrees
 *   Computer Science Degrees
 
-Follow eLearners on:
-
-About Us:
-
-*   FAQs
-*   Legal Notices
-*   Terms of Use
-*   Privacy Policy
-*   Site Map
-
-Resources &. Tools:
-
-*   Online Learning
-*   Degrees &. Programs
-*   Financial Aid &. Budgeting
-*   Careers
-*   Student Life
-*   Education in the News
-
 Our Partners:
 
-*   Graduate School Programs
+*   Grad Schools
 *   EarnMyDegree.com
 *   EducationConnection.com
 *   StudyAbroad.com
 *   UniversitiesAbroad.com
 *   ChristianEducation.com
 *   TestDriveCollege.com
+*   TestDriveGradSchool.com
+
+About eLearners:
+
+*   FAQs
+*   Site Map
+
+Privacy Policy | Terms of Use | Legal Notice
 
 Copyright eLearners.com 1999 - 2013
-
-Unsubscribe From Email
