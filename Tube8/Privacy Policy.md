@@ -19,7 +19,7 @@ All Tube8AmateurAnalAsianBlowjobEbonyEroticFetishHardcoreIndianLatinaLesbianMatu
 *   Signup
 *   Login
 
-*   My Videos
+*   My Profile
 *   Trending
 *   Blog
 
@@ -238,7 +238,7 @@ CONTENT PARTNER PROGRAM
 
 Tube8 does not charge any upfront fees to join or upload. We receive compensation through your existing PPS or RevShare affiliate program. We only get paid when you get paid.
 
-All videos you upload will be posted and public on Tube8.com. We will select the best videos to be featured on the homepage, exposing it to hundreds of thousands of page views daily. To increase your chances of having you video selected we prefer longer clips, niched content and higher quality. Regardless of whether your content is featured on Tube8's homepage, your content will be available via your profile page.
+All videos you upload will be posted and public on Tube8.com. We will select the best videos to be featured on the homepage, exposing it to hundreds of thousands of page views daily. To increase your chances of having your video selected we prefer longer clips, niched content and higher quality. Regardless of whether your content is featured on Tube8's homepage, your content will be available via your profile page.
 
 For owners of multiple sites, we offer an easy method to target your ads to spcific videos without the need for multiple user accounts.
 
@@ -269,7 +269,7 @@ DATA COLLECTED
     *   Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
 *   **Content Uploaded to the site:** Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 *   **Cookies:** When you visit Tube8.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Tube8.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-*   **Log File Information:** When you visit Tube8.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+*   **Log File Information:** When you visit Tube8.com, our servers may record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 *   **Emails:** If you contact us, we may keep a record of that correspondence.
 
 **USES**
