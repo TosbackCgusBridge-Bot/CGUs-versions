@@ -1,6 +1,7 @@
 *   Shop
 *   Compras
 *   My Suddenlink Mi Suddenlink
+*   Help Ayudo
 *   Business Empresas
     *   Advertising
     *   Publicidad
@@ -45,11 +46,9 @@ Search Search
 *   Beneficios VIP
 
 *   My Account
-*   Support
 *   Email
 
-*   My Account
-*   Apoyo
+*   Mi Cuenta
 *   Email
 
 Residential Services Agreement Effective 10/07/2011  
