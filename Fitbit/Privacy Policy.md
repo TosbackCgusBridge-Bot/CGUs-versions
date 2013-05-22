@@ -188,7 +188,7 @@ Shop Devices Services
 
 *   Mobile Apps
 *   Premium Reports
-*   App Gallery &amp Partners
+*   App Gallery &. Partners
 *   Developer APIs
 
 Explore
@@ -204,7 +204,7 @@ Explore
 Help
 
 *   Fitbit Online Help
-*   Returns &amp Warranty
+*   Returns &. Warranty
 *   Setup &. Downloads
 *   Supported Syncing Devices
 
@@ -260,8 +260,8 @@ Have one of these devices? Download the Fitbit App from the App Store to sync yo
 *   **iPhone 4s** (and later)
 *   **iPad 3rd generation** (and later)
 *   **iPod Touch 5th generation** (and later)
-*   **Samsung Galaxy S III**
-*   **Samsung Galaxy Note II**
+*   **Samsung Galaxy S III, S4**
+*   **Samsung Galaxy Note II, Note 10.1**
 
 Don't have one of the devices above? Get the Fitbit App to view the data from your most recent sync with your computer.
 
