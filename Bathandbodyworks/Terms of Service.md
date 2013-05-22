@@ -61,8 +61,8 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Small Candles: $5
         *   Wallflowers Refills: $6
+        *   Small Candles: $5
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
         *   Scentportables: Buy 4 Get 2 Free
@@ -137,11 +137,11 @@ Welcome! **(Log in)**
         *   Tuscan Vineyard
         *   View All Fragrances
 *   *   Features
+        *   Aromatherapy Body Wash: $6
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
-        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
