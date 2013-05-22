@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Here's a 3D-printed 'cloaking device' you could make at home May 20, 2013
-*   Sony vs. Microsoft game console wars reignite May 20, 2013
-*   Lightpack protects your precious eyesight while watching TV May 20, 2013
+*   Researchers find critical vulnerabilities in popular game engines May 21, 2013
+*   Call of Duty: Ghosts aims for perfection May 21, 2013
+*   Unity adds free mobile game development for Android and iOS May 21, 2013
 
 PCWorld Articles
 
-*   Chinese hackers resume attacks on U.S. targets May 20, 2013
-*   Review: Connectify Dispatch combines network adapters to increase speed and reliability May 20, 2013
-*   Attack on Telenor was part of large cyberespionage operation with Indian origins, report says May 20, 2013
+*   New Intel CEO creates mysterious 'New Devices' division May 21, 2013
+*   Microsoft makes a play for the living room with Xbox One May 21, 2013
+*   Review: Fantashow makes (almost) fantastic videos May 21, 2013
 
   
 TechHive on Twitter (@TechHive)
