@@ -1,31 +1,85 @@
-1-800-Progressive
-
-*   About
-    *   Progressive Overview Jobs Investors Newsroom Sponsorships Progressive Web Sites TV Commercials
-*   Careers
-    *   Career Opportunities
-        
-        Thinking about a career with Progressive?
-        
-        Search Jobs
-*   Contact
-    *   Keep in Touch!
-        
-        Question or comment? We want to hear from you.
-        
-        E-mail Call Write
-*   Log In
-
 #1 Auto Insurance Site
 
-Progressive
+*   About
+    *   Progressive Overview
+    *   Jobs
+    *   Investors
+    *   Newsroom
+    *   Sponsorships
+    *   Progressive Web Sites
+    *   TV Commercials
+*   Careers Career Opportunities
+    
+    Thinking about a career with Progressive?
+    
+    Search Jobs
+*   Contact Keep in Touch!
+    
+    Question or comment? We want to hear from you.
+    
+    *   E-mail
+    *   Call
+    *   Write
+*   Log In
 
-*   Insurance Choices
-    *   Auto Insurance Coverage Availability Discounts Home Insurance Coverage Availability Policy Types Motorcycle Insurance Coverage Availability Discounts More Insurance Choices Life Insurance Boat Insurance RV Insurance Commercial Auto Insurance Renters Insurance Mobile Home Insurance Health Insurance Snowmobile Insurance See all Insurance Choices
-*   Claims Center
-    *   Log in to: Report a Claim Track a Claim Immediate Response Vehicles How-to Report a Claim Service Centers Claims Offices Catastrophe Claims Windshield and Glass Repair Estimates Roadside Assistance Super Service Stories Provider Networks Not a Progressive Customer? Access your claim
+*   Insurance Choices Auto Insurance
+    
+    *   Coverage
+    *   Availability
+    *   Discounts
+    
+    Home Insurance
+    
+    *   Coverage
+    *   Availability
+    *   Policy Types
+    
+    Motorcycle Insurance
+    
+    *   Coverage
+    *   Availability
+    *   Discounts
+    
+    More Insurance Choices
+    *   Life Insurance
+    *   Boat Insurance
+    *   RV Insurance
+    *   Commercial Auto Insurance
+    *   Renters Insurance
+    *   Mobile Home Insurance
+    *   Health Insurance
+    *   Snowmobile Insurance
+    *   See all Insurance Choices
+*   Claims Center Log in to:
+    
+    *   Report a Claim
+    *   Track a Claim
+    
+    *   Immediate Response Vehicles
+    *   How-to Report a Claim
+    *   Service Centers
+    *   Claims Offices
+    *   Catastrophe Claims
+    *   Windshield and Glass
+    *   Repair Estimates
+    *   Roadside Assistance
+    *   Super Service Stories
+    *   Provider NetworksNot a Progressive Customer?Access your claim
 *   Customer Service
-    *   24/7 Access Log In to View or Update Your Policy Make a Payment (login not required) Insurance Basics Car Insurance FAQs Insurance Terms Retrieve a Quote Find an Agent Contact Us New to Progressive? Register Your Policy
+    
+    *   24/7 Access
+    *   Log In to View or Update Your Policy
+    *   Make a Payment  
+        (login not required)
+    
+    Insurance Basics
+    *   Car Insurance FAQs
+    *   Insurance Terms
+    *   Retrieve a Quote
+    *   Find an Agent
+    *   Contact UsNew to Progressive?Register Your Policy
+
+Search / Keywords 1-800-PROGRESSIVE
 
 *   Contact Us
 *   Help
@@ -41,7 +95,7 @@ Progressive
 *   Home
 *   Privacy &. Security
 
-Progressive Privacy Policy Adjust Font: A A A
+Progressive Privacy Policy Back
 
 Please select from the following list to review the Privacy Policy for your state:
 
@@ -59,11 +113,11 @@ To obtain additional information regarding our Privacy Policy, write to:
 Peter Albert, Privacy Officer  
 The Progressive Group of Insurance Companies  
 6300 Wilson Mills Road  
-Mayfield Village, Ohio 44143
-
+Mayfield Village, Ohio 44143  
+  
 Call: 1-440-461-5000
 
-AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home #1 Insurance Website
+Back Back Get an Online Quote! Zip Code AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home Quote with a Local Agent Retrieve a Quote #1 Insurance Website
 
 Progressive has sat atop 20 of the last 21 Keynote® Systems Insurance Carrier Scorecards.
 
@@ -84,27 +138,13 @@ More
 *   Health Insurance
 *   Umbrella Insurance
 
-*   Home
-*   /
-*   Web Site Accessibility
-*   /
-*   Site Map
-*   /
-*   Help
-*   /
-*   Privacy &. Security
-*   /
-*   Terms of Use
-
 *   RESOURCES
 *   Vehicle Resources
 *   Insurance Basics
-*   Articles, Blogs, and RSS
+*   Progressive Blog
 *   Connect with Progressive
 *   Mobile Apps and Services
 *   PerkShare®
-
-Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon
 
 *   ABOUT PROGRESSIVE
 *   Progressive Overview
@@ -125,10 +165,19 @@ Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon
 *   Dress Like Flo
 *   Rocket Cat Adventures
 
-We're Here 24/7. Call 1-800-PROGRESSIVE. Copyright 1995- 2013 Progressive Casualty Insurance Company. All Rights Reserved.
+Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon Google Plus Icon
 
-Auto insurance prices and products are different when purchased directly from Progressive or through agents/brokers. Quotes on this page are for policies purchased directly. Quotes for policies sold through agents/brokers are available through ProgressiveAgent.com or via the Find Agent/Get Agent Quote button.
+*   Home
+*   Web Site Accessibility
+*   Site Map
+*   Help
+*   Privacy &. Security
+*   Terms of Use
+
+**We're Here 24/7. Call 1-800-PROGRESSIVE.**
+
+Copyright 1995 - 2013. Progressive Casualty Insurance Company. All Rights Reserved.
+
+We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Quotes for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Quote with a Local Agent button.
 
 No. 1 auto insurance site ranking from Keynote® Competitive Research, the industry analysis group of Keynote Systems.
-
-\*\*Learn more about comparison rates, which are available from Progressive DirectÂ® in most states and situations. Rate comparisons provided here are based on our Progressive Direct auto insurance product and Progressive Direct's credit evaluation, and do not include prices and products available from Progressive agents. Consumers can select a different credit evaluation when they obtain competitor rate service.
