@@ -115,4 +115,4 @@ Last Update: 29-September-2008
 *   Worldwide Offices
 *   Become a Gartner Client
 
-  About Gartner | Careers | Newsroom | Policies | Site Index | IT Glossary | Gartner Blog Network | Contact Gartner © 2013 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
+  About | Careers | Contact | Gartner Blog Network | IT Glossary | Newsroom | Policies | Site Index | Webinars © 2013 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
