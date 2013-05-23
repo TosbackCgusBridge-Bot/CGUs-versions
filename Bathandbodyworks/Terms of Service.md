@@ -6,8 +6,8 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Signature: Buy 3 Get 2 Free
-        *   Online Only: $6 Body Care
+        *   Signature: Buy 3 Get 3 Free
+        *   Online Only: Buy 3 Get 3 Free
         *   New Arrivals
         *   Travel Body Care: 3 for $10
         *   Up to 50% Off Select Items
@@ -61,10 +61,10 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Wallflowers Refills: $6
-        *   Small Candles: $5
+        *   3-Wick Candles: 2 for $22
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
+        *   Wallflowers Refills: 3 for $20
         *   Scentportables: Buy 4 Get 2 Free
     *   Candles
         
@@ -137,11 +137,11 @@ Welcome! **(Log in)**
         *   Tuscan Vineyard
         *   View All Fragrances
 *   *   Features
-        *   Aromatherapy Body Wash: $6
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
+        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -214,8 +214,9 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Online Only: $6 Body Care
-        *   Wallflowers Refills: $6
+        *   Online Only: Buy 3 Get 3 Free
+        *   3-Wick Candles: 2 for $22
+        *   Wallflowers Refills: 3 for $20
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
     *   Body &. Bath
