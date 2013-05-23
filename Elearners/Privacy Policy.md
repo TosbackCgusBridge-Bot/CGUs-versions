@@ -221,13 +221,12 @@ Popular Degrees:
 Our Partners:
 
 *   Grad Schools
-*   EarnMyDegree.com
-*   EducationConnection.com
-*   StudyAbroad.com
-*   UniversitiesAbroad.com
-*   ChristianEducation.com
-*   TestDriveCollege.com
-*   TestDriveGradSchool.com
+*   EarnMyDegree
+*   EducationConnection
+*   StudyAbroad
+*   UniversitiesAbroad
+*   ChristianEducation
+*   TestDriveCollege
 
 About eLearners:
 
