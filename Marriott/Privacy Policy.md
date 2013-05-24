@@ -34,7 +34,7 @@ EUROPE
 *   Ireland (English)
 *   Poland (Polski)
 *   Portugal (Português)
-*   European Union Privacy Statement (English)
+*   European Union and Switzerland Privacy Statement (English)
 
 LATIN AMERICA
 
