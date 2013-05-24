@@ -1,24 +1,13 @@
-*   **My AutoTrader**
+My AutoTrader: Sign in Sign up Sign in with Facebook Error. Try again later.
 
-*   Sign in
+Save cars, searches &. time. Always FREE!
 
-*   Sign up
-
-*   Sign in with Facebook Error. Try again later.
-
-*   FIND
-    *   Cars for Sale
-    
-    *   Local Dealers
-*   RESEARCH
-    *   Car News &. Car Reviews
-*   SELL OR TRADE
-    *   Sell Your Car
-    
-    *   Trade In Your Car
-
+*   Find Cars for Sale
+*   Car Research
+*   Sell Your Car
+*   Trade In Your Car
+*   Find Local Dealers
 *   Loans
-
 *   Insurance
 
 *   Visitor Agreement
