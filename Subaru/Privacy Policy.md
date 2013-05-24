@@ -438,7 +438,6 @@ Enthusiasts
 *   Dear Subaru
 *   Rally
 *   Events
-*   Performance Tuning
 *   Subaru Gear
 *   Drive Magazine
 *   Drive Performance
