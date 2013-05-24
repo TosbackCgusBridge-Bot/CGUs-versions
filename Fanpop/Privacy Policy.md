@@ -1,3 +1,5 @@
+Verifying user and password... Username: Password: Remember me Login with Facebook Forgot password
+
  *   Join Fanpop
 *   Sign In
 
