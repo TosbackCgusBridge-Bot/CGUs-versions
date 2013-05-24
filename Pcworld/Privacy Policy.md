@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Low-cost autonomous car technology aims to reduce deaths, pollution May 22, 2013
-*   Light up her face (and finger) with this LED engagement ring May 22, 2013
-*   Facebook now lets you broadcast your bad taste in Pandora stations May 22, 2013
+*   Twitter: Now brought to you by more ads May 23, 2013
+*   Watch this Space: Kerbal Space Program is a blast May 23, 2013
+*   How to photograph the moon May 23, 2013
 
 PCWorld Articles
 
-*   Study ranks US least riskiest place to open data center May 22, 2013
-*   Saving Google Maps destinations for easy navigation May 22, 2013
-*   Nvidia, Citrix crank up virtual desktop delivery May 22, 2013
+*   Next-generation Kinect for Windows won't be for the average user May 23, 2013
+*   With an SSD, backups are more important than ever May 23, 2013
+*   Powerful thin clients may be alternative to PCs May 23, 2013
 
   
 TechHive on Twitter (@TechHive)
