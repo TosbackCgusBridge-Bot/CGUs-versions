@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Twitter: Now brought to you by more ads May 23, 2013
-*   Watch this Space: Kerbal Space Program is a blast May 23, 2013
-*   How to photograph the moon May 23, 2013
+*   Sony and Lego join forces to blur the lines between blocks and video games May 24, 2013
+*   Nerdy latte art will make you smile, still can't make Grumpy Cat happy May 24, 2013
+*   Dear Ashton Kutcher, I don't think you know how to use Twitter May 24, 2013
 
 PCWorld Articles
 
-*   Next-generation Kinect for Windows won't be for the average user May 23, 2013
-*   With an SSD, backups are more important than ever May 23, 2013
-*   Powerful thin clients may be alternative to PCs May 23, 2013
+*   Proposed law would make reprogramming cellphone IDs a crime May 24, 2013
+*   Puppet gets a more expressive configuration language May 24, 2013
+*   Considering a Linux career? Four tips for new college grads May 24, 2013
 
   
 TechHive on Twitter (@TechHive)
