@@ -1,4 +1,5 @@
-Login to OnePass | Settings | Help Search Legal Main Menu
+Login to OnePass | Settings | Help Search Beginning in June, Thomson Reuters News &. Insight content will be available exclusively on WestlawNext®, as part of its Practitioner Insights offering. On June 21, the Thomson Reuters News &. Insight website, iPhone® app and newsletters will be discontinued. See Frequently Asked Questions to learn more.  
+Legal Main Menu
 
 *   Home
 *   News
@@ -191,6 +192,7 @@ Our Privacy Statement may change at any time. If our information practices chang
 
 *   Contact Us
 *   Privacy Policy
+*   Site Closing FAQ
 *   Terms of Use
 *   Copyright
 *   Site Map
