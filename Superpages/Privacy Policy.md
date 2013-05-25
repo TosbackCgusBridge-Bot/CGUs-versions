@@ -208,10 +208,8 @@ E-mail Exclusives
 
 Sign up to receive special offers and promotions from Superpages.com
 
-Supermedia
-
 Data provided by one or more of the following: SuperMedia, Acxiom, Infogroup   |   \* Sponsored Results
 
-© 2009 - 2013 SuperMedia LLC. All rights reserved. \* Restrictions apply. For full details, see the Terms and Conditions for this program.
+Copyright © 2013 Dex Media, Inc. All rights reserved. \* Restrictions apply. For full details, see the Terms and Conditions for this program.
 
 Feedback
