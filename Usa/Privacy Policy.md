@@ -36,6 +36,7 @@ Legal Notices &. Trademarks
 *   Privacy Statement
 *   Copyright Information
 *   Trademarks
+*   Linking to Autodesk
 *   Export Compliance
 *   Autodesk Subscription Terms and Conditions
 *   Per-Incident Support Terms and Conditions
