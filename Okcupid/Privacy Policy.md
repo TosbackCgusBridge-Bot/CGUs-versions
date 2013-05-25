@@ -254,5 +254,3 @@ OkCupid © 2013 Free online dating
 *   Brooklyn dating
 *   Atlanta dating
 *   Portland dating
-
-On Off
