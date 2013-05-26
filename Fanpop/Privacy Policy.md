@@ -1,11 +1,4 @@
-Verifying user and password... Username: Password: Remember me Login with Facebook Forgot password
-
- *   Join Fanpop
-*   Sign In
-
-Advertisement
-
-Fanpop! - What are you a fan of? ﻿ ﻿
+﻿
 
 _Last Updated: August 2010_
 
@@ -85,16 +78,3 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 Contact Us
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact privacy@fanpop.com.
-
-*   Fanpop Home
-*   About Us
-*   Advertise
-*   FAQ
-*   Sitemap
-*   Terms of Service
-*   Privacy Policy
-*   Contact Us
-
-In Partnership with BUZZMEDIA Entertainment. Fanpop is independently owned and operated.
-
-© 2006-2013 Fanpop, Inc., All Rights Reserved.
