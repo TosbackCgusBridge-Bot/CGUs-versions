@@ -1,21 +1,4 @@
-*   **Our Brands**
-    *   **TechHive**
-    *   **PCWorld**
-    *   **Macworld**
-*   **Custom Content**
-    *   **Content Portfolio**
-    *   **Video Examples**
-*   **Specs &. Dates**
-    *   **Digital Specs**
-    *   **PCWorld Magazine**
-    *   **Macworld Magazine**
-    *   **Rates**
-*   **Contact Us**
-    *   **Editorial Team**
-    *   **Permissions**
-    *   **Press**
-
-NavigationOur BrandsTechHivePCWorldMacworldCustom ContentContent PortfolioVideo ExamplesSpecs &. DatesDigital SpecsPCWorld MagazineMacworld MagazineRatesContact UsEditorial TeamPermissionsPress PCWorld Privacy Policy About Ad Choices  About Our Advertising
+PCWorld Privacy Policy About Ad Choices  About Our Advertising
 
 PCWorld strives to deliver the most relevant content and ads to our readers. The advertising included on our site enables us to deliver the reporting resources required to create the high-quality journalism, research and analysis our audience expects from us.
 
@@ -141,58 +124,3 @@ The IDG Publishing Network is intended for individuals age 13 and over. Personal
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to postmasterhelp@idgcommunications.com or write to us at IDG Publishing Network, C/O Customer Service, TSG, IDG Communications, Inc., 5 Speen St., Framingham, MA 01701.
 
 Last updated June 1, 2012.
-
-TechHive Articles
-
-*   Here's how designers built the largest Lego X-Wing Fighter in the world May 25, 2013
-*   Malware roundup: Tiffany's, Tibetans, iOs are targeted May 25, 2013
-*   San Francisco hardware accelerator shows off projects May 25, 2013
-
-PCWorld Articles
-
-*   Google defends its use of proprietary tech in Hangouts May 25, 2013
-*   Smartphone chips may power servers, researchers say May 24, 2013
-*   Google pushes wireless access in emerging markets, report says May 24, 2013
-
-  
-TechHive on Twitter (@TechHive)
-
-Sick of the same boring Instagram filters? These seven iOS apps give you serious (and weird) creative photo controls. http://t.co/48uyjkA6
-
-by TechHive
-
-Ballmer hints at a more device-and-service oriented Microsoft. Read between the lines: more MS hardware. http://t.co/wrPVQHgq
-
-by TechHive
-
-Another year, another generation of the basic Kindle. @mperenson reviews the latest version of the venerable e-reader: http://t.co/nOERpqOt
-
-by TechHive
-
-PCWorld on Twitter (@PCWorld)
-
-The Cocoon plugin for Chrome watches your back when you browse the web: http://t.co/S6eMPhMl
-
-by PCWorld
-
-Our reviewer @nateralph thinks XCOM: Enemy Unknown is a brilliant tactical strategy game for the PC: http://t.co/ZSxLeyLI
-
-by PCWorld
-
-Enjoy a list of PC peripherals that resemble some out of this world sci-fi props! http://t.co/q5srtYuZ
-
-by PCWorld
-
-Macworld on Twitter (@Macworld)
-
-Our own @dmoren and @lexfri are joined by contributor @GlennF to talk about the iOS 6 quirks that are still out there. http://t.co/rqJ1DAHh
-
-by Macworld
-
-Let our @BodyofBreen show you how to do more with Mountain Lion’s Contacts app: http://t.co/cqv5t2si
-
-by Macworld
-
-Andy @Ihnatko’s tribute to @BBEdit, a Mac classic: http://t.co/bQnUvzmJ
-
-by Macworld
