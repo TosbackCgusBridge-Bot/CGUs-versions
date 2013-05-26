@@ -68,6 +68,7 @@ Don't Be Shy! If you have any questions regarding this Privacy Policy or informa
 
 you can contact us at:
 
+*   **URL:** http://support.photobucket.com/home
 *   **Email:** support@photobucket.com
 *   **Address:** Photobucket.com, Inc. P.O. Box 13003, Denver, CO 80201
 
