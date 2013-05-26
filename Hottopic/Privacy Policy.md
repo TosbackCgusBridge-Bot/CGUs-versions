@@ -1,3 +1,6 @@
+  
+Privacy Policy Untitled Document
+
 **PRIVACY POLICY**
 
 **Introduction**
@@ -12,7 +15,7 @@ We want you to enjoy your experience on the Sites, so it’s important for you t
 
 **Persons Under 13**
 
-For information regarding our policy for the collection of Personal Information (defined below) from children under 13 on www.hottopic.com, please see our children's online privacy policy available at: **http://community.hottopic.com/content/childrens-privacy-policy** **.**
+For information regarding our policy for the collection of Personal Information (defined below) from children under 13 on www.hottopic.com, please see our children's online privacy policy available at: **http://www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy/ChildrensPrivacyPolicy.jsp** **.**
 
 **Information You Provide To Us**
 
@@ -112,4 +115,8 @@ Hot Topic reserves the right to change this Privacy Policy at any time without n
 
 Hot Topic’s mailing address is 18305 East San Jose Avenue, City of Industry, CA, 91748, our customer service telephone number is 800.892.8674, and our customer service email address for questions about this Privacy Policy is **privacy@hottopic.com**.
 
-This Privacy Policy was last updated November 09, 2010.
+**Advertising OPT-OUT**
+
+You may choose to opt out of receiving marketing messages from 3rd party advertisers that use cookies to track repeat users and maintain campaign information. Click here for details.
+
+This Privacy Policy was last updated May 15, 2010.
