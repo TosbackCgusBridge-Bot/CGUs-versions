@@ -1,18 +1,3 @@
-My AutoTrader: Sign in Sign up Sign in with Facebook Error. Try again later.
-
-Save cars, searches &. time. Always FREE!
-
-*   Find Cars for Sale
-*   Car Research
-*   Sell Your Car
-*   Trade In Your Car
-*   Find Local Dealers
-*   Loans
-*   Insurance
-
-*   Visitor Agreement
-*   Feedback
-
 Privacy Statement
 
 Effective Date: **January 2013**
@@ -120,33 +105,3 @@ Our website is not directed at or intended for children under 13 and we will not
 CHANGES TO THIS PRIVACY STATEMENT
 
 If we need to change our privacy policy at some point in the future, we will post the revised Privacy Statement on this website together with an updated reference to its Effective date to reflect the date of the amendment. Your continued use of this website following the effective date of any such amendment shall be deemed to constitute your agreement to the terms of this Privacy Statement as amended. By visiting AutoTrader.com, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our Visitor Agreement.
-
-*   Browse Cars for Sale
-*   Browse Special Offers
-*   Search for Car Dealers
-*   Browse Car Dealers
-*   Sell a Car
-*   Help
-*   Fraud Awareness
-
-*   Car Research
-*   New Cars
-*   Used Cars
-*   Certified Cars
-*   New Car Models
-*   Car Model Information
-*   AutoTrader.com Mobile
-
-*   About AutoTrader.com
-*   Press Room
-*   Jobs at AutoTrader.com
-*   Contact Us
-*   Become an AutoTrader.com Dealer
-*   Corporate Information
-*   Site Map
-
-By using this service, you accept the terms of our Visitor Agreement. Privacy Statement. AdChoices
-
-© 2013 AutoTrader.com, Inc. All Rights Reserved. "AutoTrader.com" is a registered trademark of TPI Holdings, Inc. used under exclusive license.
-
-Become a Fan of AutoTrader.com on Facebook Follow AutoTrader.com on Twitter See AutoTrader.com Videos on YouTube AutoTrader.com on Google+
