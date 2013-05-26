@@ -1,13 +1,4 @@
-Internships, part-time jobs and entry-level careers sign in employer resources
-
-*   HOME
-*   RESUME
-*   FIND JOBS
-*   ADVICE &. RESOURCES
-*   RECOMMENDED JOBS
-*   ALL JOBS
-
-  Protect Your Privacy and Safety
+Protect Your Privacy and Safety
 
 We have updated our privacy policy to make it easier to read and understand. Now, Users can navigate directly from the Table of Contents to any privacy topic of interest. We also have eliminated several privacy policies that applied to specific products and have combined them into one privacy policy that applies to all products sold in the United States. Our revised policy also covers our recently developed products, such as our Work@ or NetworkEffect social network applications, and provides updated information regarding personal protection while job searching online.
 
@@ -288,58 +279,3 @@ Help Us Monitor Fraud
 Please be advised that CareerBuilder will never initiate a request for your personal information via email or pop-up window. If you ever receive a request for this type of sensitive information, please do not respond and immediately contact CareerBuilder customer service at **(866) 438-1485** or report the suspected fraud using our feedback form.
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
-
-CareerRookie.com
-
-*   About Us
-*   Contact Us
-*   Terms &. Conditions
-*   Privacy Guidelines
-*   CareerRookie on Facebook
-*   Follow Us on Twitter
-*   Career Center Resources
-*   College Talent Networks
-
-Top Categories
-
-*   Part Time Jobs
-*   Entry Level Healthcare Jobs
-*   Information Technology Jobs
-*   Accounting Jobs
-*   Engineering Jobs
-*   Bank &. Finance Jobs
-*   Marketing Jobs
-*   Entry Level Jobs
-*   Internships
-*   Masters Degree Jobs
-
-Partner Sites
-
-*   Job Search
-*   Retail Jobs
-*   IT Jobs
-*   Healthcare Jobs
-*   Nursing Jobs
-*   Restaurant Jobs
-*   Veterans Jobs
-*   Management &. Executive Jobs
-*   Green Jobs
-*   Training Courses
-*   Security Clearance Jobs
-
-CareerRookie Vertical Channels
-
-*   Accounting Careers
-*   Insurance Careers
-*   Retail Careers
-*   CareerRookie Magazine
-
-  
-Job Seeker Services
-
-*   Salary Calculator
-*   Resume Writing
-*   Free Career Test
-*   CB Institute
-
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
