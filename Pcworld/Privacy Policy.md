@@ -144,15 +144,15 @@ Last updated June 1, 2012.
 
 TechHive Articles
 
-*   Sony and Lego join forces to blur the lines between blocks and video games May 24, 2013
-*   Nerdy latte art will make you smile, still can't make Grumpy Cat happy May 24, 2013
-*   Dear Ashton Kutcher, I don't think you know how to use Twitter May 24, 2013
+*   Here's how designers built the largest Lego X-Wing Fighter in the world May 25, 2013
+*   Malware roundup: Tiffany's, Tibetans, iOs are targeted May 25, 2013
+*   San Francisco hardware accelerator shows off projects May 25, 2013
 
 PCWorld Articles
 
-*   Proposed law would make reprogramming cellphone IDs a crime May 24, 2013
-*   Puppet gets a more expressive configuration language May 24, 2013
-*   Considering a Linux career? Four tips for new college grads May 24, 2013
+*   Google defends its use of proprietary tech in Hangouts May 25, 2013
+*   Smartphone chips may power servers, researchers say May 24, 2013
+*   Google pushes wireless access in emerging markets, report says May 24, 2013
 
   
 TechHive on Twitter (@TechHive)
