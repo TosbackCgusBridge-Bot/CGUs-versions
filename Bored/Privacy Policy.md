@@ -7,7 +7,8 @@ Bored? Play Free Games, Fun Stuff to do @bored.com BORED.COM
 *   Shooting
 *   Puzzle
 *   Escape
-*   Point &. Click
+*   PNC
+*   Im Bored
 
 Funny Pictures Animations Top Rated Games Fun Sites Dumb Sites Humor Sites Strategy Action Privacy Policy
 
