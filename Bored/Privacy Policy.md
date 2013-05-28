@@ -1,17 +1,4 @@
-mlns="http://www.w3.org/1999/xhtml" xml:lang="en">.
-
-Bored? Play Free Games, Fun Stuff to do @bored.com BORED.COM
-
-*   Popular Games
-*   Stickman
-*   Shooting
-*   Puzzle
-*   Skill
-*   Escape
-*   PNC
-*   Im Bored
-
-funny status updates Funny Pictures Animations Top Rated Games Fun Dumb Humor Strategy Action Quizzes Privacy Policy
+Privacy Policy
 
 We value the trust you place in us and we are committed to safeguarding your privacy. Bored.com ("Bored" or the "Site") is operated by Bored.com Ltd ("we", "us" or "Bored") and is designed to be a fun and entertaining free computer gaming site.
 
@@ -76,56 +63,3 @@ Changes To and Questions About This Policy:
 We reserve the right to change this Privacy Policy from time to time. Before using this Site, recheck this page and review the "effective date" posted on the top of the Privacy Policy in effect at that time. If it has recently changed, make sure you review it and still agree with its terms. It will apply to any interactions you have at the Site and information you provide to us or at this Site. Your continued use of the Site or our services, or communications with us will evidence your agreement to the terms thereof.
 
 If you have questions or comments about this privacy policy, please contact us. But note that whether or not you have questions or comments, use of our site indicates your agreement to the terms hereof as written.
-
-Game Categories
-
-*   iPhone &. iPad Games
-*   Stickman
-*   Action
-*   Shooting
-*   Puzzle
-*   Skill Games
-*   Escape
-*   Halloween Games
-*   Racing
-*   Point &. Click
-*   Strategy
-*   Quizzes
-
-Bored Links
-
-*   Girls Games
-*   Funny Animations
-*   Fun Links
-*   Humor Links
-*   Images
-*   Quizzes
-*   Crossword Puzzles
-
-Like Bored.com?
-
-*   Like us on Facebook
-*   Follow us on Twitter
-*   Follow our blog
-
-  
-Contact Us
-
-*   Contact Bored.com
-*   Advertise on Bored.com
-*   Webmasters: Free Games for your site
-
-Bored.com
-
-**Welcome to Bored.com** your home for fun games. Our website is equipped with **thousands of flash games** that you can play for free, every day! Looking for something else to do? You can visit our microsites or browse CLASSIC bored.com with tons of unique and entertaining content that will cure your boredom! You can spend all day on Bored.com and not even scratch the surface.
-
-  
-
-Just remember:  
-To cure your boredom visit Bored.com!
-
-  
-
-Bored.com ©1996-2013. All Rights Reserved. Questions? Contact us
-
-Bored.com is a privately-owned website that features flash games, funny pictures, and videos. All original content, both graphical and textual is the intellectual property of Bored.com. All user-generated content including pictures, videos and creator-owned flash games is the intellectual property of their respective owners. If you have any questions, concerns, or believe this site is infringing on the DMCA act of 1998, please send us an e-mail .
