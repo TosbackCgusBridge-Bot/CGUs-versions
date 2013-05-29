@@ -1,37 +1,4 @@
-To continue getting breaking news and the full stories from The Boston Globe, subscribe today.
-
-Help
-
-**Boston.com**
-
-Classifieds_:_
-
-*   Cars
-*   Jobs
-*   Real Estate
-
-Log In
-
-*   Subscribe:
-*   Digital
-*   Home Delivery
-*   Log In
-
-Search: Sections
-
-*   News
-*   Metro
-*   Arts
-*   Business
-*   Sports
-*   Opinion
-*   Lifestyle
-*   Magazine
-*   Insiders
-*   Today's Paper
-*     My Saved
-
-Today’s Paper   My Saved Privacy policy
+Privacy policy
 
 This policy was last updated on **May 8, 2013**.
 
@@ -224,38 +191,3 @@ By Mail: Boston.com and BostonGlobe.com, 135 Morrissey Blvd., Boston, MA 02125, 
 **CHANGES TO THIS POLICY**
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this site thirty (30) days prior to taking effect and registered users will be notified via e-mail.
-
-Learn more
-
-*   Subscribe
-*   Boston Globe Insiders
-*   EPaper Edition
-
-My Account
-
-*   Log in
-*     My Saved List
-*   Manage home delivery
-
-Contact
-
-*   Help
-*   FAQs
-*   Globe newsroom
-*   Advertise
-
-Social
-
-*   Facebook
-*   Twitter
-*   Google+
-
-More
-
-*   Archives
-*   Privacy policy
-*   Terms of service
-*   Terms of purchase
-*   Work here
-
-© 2013 The New York Times Company
