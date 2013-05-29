@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Memorial Event: Up to 50% Off
         *   Signature: Buy 3 Get 3 Free
         *   Online Only: Buy 3 Get 3 Free
         *   New Arrivals
         *   Travel Body Care: 3 for $10
+        *   Save Up to 50% Off Select Items
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Memorial Event: Up to 50% Off
-        *   3-Wick Candles: 2 for $22
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
         *   Wallflowers Refills: 3 for $20
+        *   Scentportables: Buy 4 Get 2 Free
+        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
@@ -103,11 +103,11 @@ Welcome! **(Log in)**
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
-        *   Memorial Event: Up to 50% Off
         *   Hand Soap: 6 for $20
         *   PocketBac: 5 for $5
         *   New! Italy Inspired Soap
         *   Fresh Picked Market
+        *   Save Up to 50% Off Select Items
     *   Hand Soap
         
         *   Foaming Soap
@@ -137,11 +137,11 @@ Welcome! **(Log in)**
         *   Tuscan Vineyard
         *   View All Fragrances
 *   *   Features
-        *   Memorial Event: Up to 50% Off
-        *   Aromatherapy Body Lotion: $6
+        *   Aromatherapy Body Wash: $6
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip Gloss: Buy 2 Get 1 Free
+        *   Eucalyptus Spearmint
     *   Aromatherapy
         
         *   Stress Relief
@@ -184,9 +184,9 @@ Welcome! **(Log in)**
         *   Spa Accessories
         *   Shea Socks
 *   *   Features
-        *   Memorial Day Event - Save Up to 50%
         *   Editor's Picks
         *   Online Exclusives
+        *   Save Up to 50% Off Select Items
     *   Shop By Price
         
         *   $15 &. Under Gifts
@@ -276,7 +276,7 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Online Exclusives
-        *   Memorial Day Event - Save Up to 50%
+        *   Save Up to 50% Off Select Items
         *   Editor's Picks
     *   Shop By Price
         
