@@ -1,4 +1,4 @@
-GUIDELINES&. POLICIES
+GUIDELINES &. POLICIES
 
 *   Overview
 *   Website Privacy
