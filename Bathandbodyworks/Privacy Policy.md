@@ -61,9 +61,9 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
+        *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
-        *   Wallflowers Refills: 3 for $20
         *   Scentportables: Buy 4 Get 2 Free
         *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
@@ -215,8 +215,7 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Online Only: Buy 3 Get 3 Free
-        *   3-Wick Candles: 2 for $22
-        *   Wallflowers Refills: 3 for $20
+        *   Wallflowers Refills: $6
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
     *   Body &. Bath
