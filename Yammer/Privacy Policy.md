@@ -6,6 +6,8 @@
 *   API Terms
 *   Service Terms
 
+English | Español | Русский | Indonesia | Français | Deutsch | Português | 中文(简体) | 日本語 | Nederlands | Türkçe | Українська
+
 _Last Updated: February 28, 2013_
 
 **Yammer Privacy Statement**
