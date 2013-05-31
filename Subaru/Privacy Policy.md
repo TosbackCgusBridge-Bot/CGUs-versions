@@ -455,6 +455,7 @@ Responsibility
 *   Corporate Responsibility
 *   Philosophy
 *   Community
+*   Diversity
 *   SOA Foundation
 *   Environment
 
