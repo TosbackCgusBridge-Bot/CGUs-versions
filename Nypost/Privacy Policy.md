@@ -71,7 +71,7 @@ We use the information we collect from and about you for these additional purpos
 
 **To contact you.** NYP may periodically send promotional materials or notifications related to the NYP Services. If you want to stop receiving promotional materials follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the NYP Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-**To share with our NYP Affiliates.** NYP may share your information with NYP Affiliates for the purposes described in this Privacy Policy. A link to a website that lists NYP Affiliates can be found at the beginning of this policy. Users who visit NYP Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. NYP and News America Incorporated are the parties responsible for the management of the jointly-used personal information.
+**To share with our NYP Affiliates.** NYP may share your information with NYP Affiliates for the purposes described in this Privacy Policy. A link to a website that lists NYP Affiliates can be found at the beginning of this policy. Users who visit NYP Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
 
 **To share with business partners.** NYP may share your information with business partners to permit them to send you marketing communications consistent with your choices.
 
