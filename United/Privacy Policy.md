@@ -65,6 +65,7 @@ Sign In | My Account | Contact Us
     *   Travel for Military &. Government Personnel
     *   Travel Products
     *   Trip Insurance
+    *   Subscriptions
 *   About United
     *   Advertise with Us
     *   Branding
