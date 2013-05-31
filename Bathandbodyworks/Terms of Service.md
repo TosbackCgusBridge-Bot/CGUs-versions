@@ -8,8 +8,8 @@ Welcome! **(Log in)**
 *   *   Features
         *   Signature: Buy 3 Get 3 Free
         *   Online Only: Buy 3 Get 3 Free
+        *   Travel Body Care: $3
         *   New Arrivals
-        *   Travel Body Care: 3 for $10
         *   Save Up to 50% Off Select Items
     *   Lotions &. Creams
         
@@ -61,9 +61,9 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
+        *   Wallflowers Refills: 3 for $20
         *   Scentportables: Buy 4 Get 2 Free
         *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
@@ -184,6 +184,7 @@ Welcome! **(Log in)**
         *   Spa Accessories
         *   Shea Socks
 *   *   Features
+        *   Father's Day Gifts
         *   Editor's Picks
         *   Online Exclusives
         *   Save Up to 50% Off Select Items
@@ -215,9 +216,9 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Online Only: Buy 3 Get 3 Free
-        *   Wallflowers Refills: $6
         *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
+        *   Wallflowers Refills: 3 for $20
     *   Body &. Bath
         
         *   Body Lotion
