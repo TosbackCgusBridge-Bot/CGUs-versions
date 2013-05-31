@@ -22,7 +22,6 @@ Please follow the links below for further information.
 **Legal information and how to contact us**  
 **Changes to the privacy policy**
 
-  
 **Our principles**
 
 1\. We do our utmost to protect user privacy through the appropriate use of the security technology. This means:  
@@ -85,6 +84,7 @@ Any third parties who access your data in the course of providing services on ou
 
 Some GNM webpages use plugins from third party platforms (such as the 'Facebook Recommend' function). Information about your visit to GNM websites may be collected by these third party providers on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
 
+  
 **Use of Cookies**
 
 We use cookies for a number of reasons:
@@ -125,7 +125,9 @@ If you want to opt out of receiving online behavioural advertising this does not
 
 If you would like more information about OBA and how to opt out of it, please visit youronlinechoices.com or networkadvertising.org (if accessing from the US.)
 
-Please visit audiencescience.com/privacy.asp and quantcast.com/privacy for the privacy policy of our online behavioural targeting technology providers.
+Please visit audiencescience.com/privacy.asp, quantcast.com/privacy and flurry.com/privacy-policy.html for the privacy policy of our online behavioural targeting technology providers.
+
+Advertising on mobile devices may require the collection and sharing of the unique device ID with companies who purchase advertising space on the mobile application.
 
 **Other Advertising**
 
@@ -166,3 +168,5 @@ February 2012: Additional provision included in 'How we use your information' to
 April 2012: Information on logging onto our sites using social networking log-ins as a means of authentication.
 
 February 2013: Applicability of policy to other websites and applications added.
+
+May 2013:  Information on mobile device advertising added.
