@@ -4,36 +4,50 @@ This notice of privacy practices applies to information collected in Macy’s st
   
 This Notice of Privacy Practices explains:
 
-*   The kinds of information we collect;
-*   How we use information; 
-*   Our information sharing practices; 
-*   Customer Preferences and Opt-Out Choices. and
-*   How you may access some of the information you provide to us.
+*   The kinds of information we collect
+*   How we use information 
+*   Our information sharing practices 
+*   Customer Preferences and Opt-Out Choices
+*   How you may access some of the information you provide to us
 
 We encourage you to refer to this notice periodically so that you understand our current privacy practices.  
   
 If you have any questions about this notice, please contact our Customer Service department:
 
 *   By mail at:  
-    Macy's Credit and Customer Services,  
-    ATTN: Privacy Office,  
-    P.O. Box 8215, Mason, OH 45040;
-*   By phone at 1-888-529-2254. or
-*   Via e-mail at privacy.master@macys.com.
+    Macy's Credit and Customer Services  
+    ATTN: Privacy Office  
+    P.O. Box 8215, Mason, OH 45040
+*   By phone at 1.888.529.2254
+*   Via e-mail at privacy.master@macys.com
 
-Your access of and use of our Web site means you agree to the terms in this notice of privacy practices and our Legal Notice.
+Your access of and use of our web site means you agree to the terms in this notice of privacy practices and our Legal Notice.
 
   
 Information We Collect  
   
-We collect information from a variety of sources, including information provided by you, information we collect when you visit our Web site or stores, and information we collect about you from third party sources.  
+We collect information from a variety of sources, including information provided by you, information we collect when you visit our Web site or stores and information we collect about you from third party sources.  
   
 The following are examples of the types of information we may collect:
 
-*   Information you provide: name, address (billing and shipping), zip code, e-mail address, telephone number(s), mobile number(s), credit card number(s), birth date, password and etc.;
-*   Information associated with use of our Web site: macys.com uses  the information gathered from cookies and web beacons, such as IP address, to enhance your experience on our Web site;
-*   Information associated with doing business with Macy’s: transaction information, including the items purchased, and the date and time of your transaction;
-*   Information from third party sources: we may receive your updated shipping information from a third party carrier;
+*   Information you provide:
+*   *   Name
+    *   Address (billing and shipping)
+    *   Zip code
+    *   e-mail address
+    *   Telephone number(s)
+    *   Mobile number(s)
+    *   Credit card number(s)
+    *   Birth date
+    *   Password
+*   Information associated with use of our Web site:
+*   *   macys.com uses the information gathered from cookies and web beacons, such as IP address to enhance your experience on our Web site.
+*   Information associated with doing business with Macy’s:
+*   *   Transaction information, including:
+    *   *   Items purchased
+        *   Date and time of your transaction
+*   Information from third party sources:
+*   *   We may receive your updated shipping information from a third party carrier.
 
 Back to Top
 
@@ -44,7 +58,6 @@ We may use the information we collect to process a transaction, provide the prod
   
 Cookies and Other Technologies on macys.com
 
-  
 This section addresses macys.com use of cookies and Flash Cookies.
 
 A cookie is a small piece of information sent by a Web site that is stored on your hard disk by your computer's browser.  A web beacon (also known as tracking pixels or clear GIF) is an embedded image on a Web site that monitors a Web site’s activity.  
@@ -76,7 +89,7 @@ We work with a third party company, Coremetrics, to assist us in better understa
   
 Coremetrics analyzes the information it collects from macys.com and returns it to us through an encrypted connection.  We do not share credit card or password information with Coremetrics.  
   
-Coremetrics may only use information we share with them about our Web site visitors to perform services for us.  Coremetrics is required to maintain all of the information it collects and analyzes securely and in confidence.  For more information, please view the Coremetrics privacy policy.  To learn more about opting-out of Coremetrics analysis of your browsing and purchasing behavior please refer to Your Contact Preferences and Opt-Out Choices in this notice.  
+Coremetrics may only use information we share with them about our Web site visitors to perform services for us.  Coremetrics is required to maintain all of the information it collects and analyzes securely and in confidence.  For more information, please view the Coremetrics privacy policy.  To learn more about opting-out of Coremetrics analysis of your browsing and purchasing behavior, please refer to Your Contact Preferences and Opt-Out Choices in this notice.  
   
 Back to Top
 
@@ -84,39 +97,57 @@ Customer Preferences and Opt-Out Choices
   
 E-mail: To opt-out of receiving promotional or marketing e-mails from macys.com, you may:
 
-*   unsubscribe by signing into your account on macys.com, clicking on my profile and indicating your opt-out preference,
-*   use the unsubscribe link at the bottom of any e-mail sent by macys.com,
-*   contact us by regular mail at MCCS Customer Service, ATTN: Privacy Office, P.O. Box 8215, Mason, OH 45040, or
-*   contact Customer Service at 1-888-529-2254
+*   Unsubscribe by signing into your account on macys.com, clicking on my profile and indicating your opt-out preference.
+*   Use the unsubscribe link at the bottom of any e-mail sent by macys.com.
+*   Contact us:
+*   *   By mail at:  
+        Macy's Credit and Customer Services  
+        ATTN: Privacy Office  
+        P.O. Box 8215, Mason, OH 45040
+    *   By phone at 1.888.529.2254
 
 Note:  It may take up to 10 business days to process your request.     
   
 Mobile Marketing: To opt-out of mobile marketing, you may:
 
-*   reply STOP to any macys.com text message on your mobile phone/wireless device,
-*   contact Customer Service at 1-888-529-2254, or
-*   contact us by regular mail at MCCS Customer Service, ATTN: Privacy Office, P.O. Box 8215, Mason, OH 45040
+*   Reply STOP to any macys.com text message on your mobile phone/wireless device.
+*   Contact us:
+*   *   By mail at:  
+        Macy's Credit and Customer Services  
+        ATTN: Privacy Office  
+        P.O. Box 8215, Mason, OH 45040
+    *   By phone at 1.888.529.2254
 
 Note:  Please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.  
   
 Direct Mail or Telemarketing: To opt-out of receiving direct mail or telemarketing calls, you may:
 
-*   contact Customer Service at 1-888-529-2254, or
-*   contact us by regular mail at MCCS Customer Service, ATTN: Privacy Office, P.O. Box 8215, Mason, OH 45040.  If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state one of the following:
-*   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail)
-    *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
-    *   "NO PHONE OR MAIL OFFERS" (if you don't want to receive either)
+*   Contact us:
+*   *   By mail at:  
+        Macy's Credit and Customer Services  
+        ATTN: Privacy Office  
+        P.O. Box 8215, Mason, OH 45040
+    *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state one of the following:
+        *   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail)
+            *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
+            *   "NO PHONE OR MAIL OFFERS" (if you don't want to receive either)
+    *   By phone at 1.888.529.2254.
 
 Note: Because listings often are prepared well in advance (12-16 weeks, in many cases) you may continue to receive some offers after you send us your request.  
   
 Third Party Sharing: If you prefer that we not disclose your information to third parties for marketing purposes, you can:
 
-*   contact us by regular mail at MCCS Customer Service, ATTN: Privacy Office, P.O. Box 8215, Mason, OH 45040.  If you choose to write to us, please include your name, address, phone number,  and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request, or
-*   contact Customer Service at 1-888-529-2254.  
+*   Contact us:
+*   *   By mail at:  
+        Macy's Credit and Customer Services  
+        ATTN: Privacy Office  
+        P.O. Box 8215, Mason, OH 45040
+    *   *   If you choose to write to us, please include your name, address, phone number,  and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.
+    *   By phone at 1.888.529.2254.
 
-Online Behavioral Advertising:  Online behavioral advertising uses information about you to provide relevant, targeted advertising of interest to you.  Please click here for additional information on online behavioral advertising.   If you would like to opt-out of online behavioral advertising, please click here.  Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative.  If you opt-out, you may continue to see or receive online advertising from macys.com, however, these ads may not be as relevant to you.  
+Online Behavioral Advertising:  Online behavioral advertising uses information about you to provide relevant, targeted advertising of interest to you.  Please click here for additional information on online behavioral advertising.   If you would like to opt-out of online behavioral advertising, please click here.  Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative.  If you opt-out, you may continue to see or receive online advertising from macys.com. however, these ads may not be as relevant to you.  
   
-Coremetrics:  As a macys.com user, you may choose to opt-out of Coremetrics' analysis of your browsing and purchasing behavior on our Web site or you may choose to allow Coremetrics to analyze your behavior anonymously.  Please click here to learn more about the various levels of privacy and confidentiality you can select, with respect to Coremetrics, on our site and to exercise your opt-out choices.  
+Coremetrics:  As a macys.com user, you may choose to opt-out of Coremetrics' analysis of your browsing and purchasing behavior on our Web site or you may choose to allow Coremetrics to analyze your behavior anonymously.  Please click here to learn more about the various levels of privacy and confidentiality you can select, with respect to Coremetrics, on our site and to exercise your opt-out choices.  
   
 Back to Top
 
@@ -126,13 +157,13 @@ If you are a registered user of macys.com, you can update your information in My
   
 If you have questions about your order, you may check your order status online in My Order.  
   
-If you have any additional questions, please call our Customer Service department at 1-888-529-2254.    
+If you have any additional questions, please call our Customer Service department at 1.888.529.2254.    
   
 If you are an international customer, and want to access your information, please click here.  
   
 Information About Children Under 13  
   
-The Children's Online Privacy Protection Act imposes requirements on Web sites that collect personal information about children under 13 (for example - name, address, e-mail address, social security number etc.)  Our policy is not to collect any personal information on any person under 13.  For this reason, our online sweepstakes, e-mail and mobile sign ups are restricted to entrants who are at least 13.  
+The Children's Online Privacy Protection Act imposes requirements on Web sites that collect personal information about children under 13 (for example - name, address, e-mail address, social security number, etc.)  Our policy is not to collect any personal information on any person under 13.  For this reason, our online sweepstakes, e-mail and mobile sign ups are restricted to entrants who are at least 13.  
   
 If this policy changes, macys.com will revise this portion of its notice of privacy practices and will comply with the requirements of the Children's Online Privacy Protection Act, which includes providing notice and choice to each child's parent or guardian before collecting any personal information.  
   
@@ -142,7 +173,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
   
 International Customer Privacy  
   
-To fill international orders, macys.com partners with Borderfree, Inc. (“FiftyOne”).  Borderfree will carefully process your personal information, with at least the same level of privacy protection set forth in the U.S. - EU Safe Harbor Privacy Principles and the U.S. - Swiss Safe Harbor Privacy Principles established by the U.S. Department of Commerce.  Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
+To fill international orders, macys.com partners with Borderfree, Inc. (formerly FiftyOne).  Borderfree will carefully process your personal information with at least the same level of privacy protection set forth in the U.S. - EU Safe Harbor Privacy Principles and the U.S.  Swiss Safe Harbor Privacy Principles established by the U.S. Department of Commerce.  Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.  
   
 When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfree.  On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from macys.com.  
   
@@ -152,7 +183,7 @@ Once you agree that Borderfree may share your personal information with macys.c
   
 We adhere to both the EU and Swiss Safe Harbor Privacy Principles.  We have certified to the U.S. Department of Commerce, the European Union and Switzerland that our processing of personal data is in compliance with these principles and we perform periodic self-assessments to verify ongoing compliance.  
   
-Macys.com is committed to resolving any customer concerns regarding their privacy.  If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, macys.com will attempt to directly resolve the complaint.  Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its applicable commercial rules.  
+macys.com is committed to resolving any customer concerns regarding their privacy.  If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, macys.com will attempt to directly resolve the complaint.  Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its applicable commercial rules.  
   
 International Centre for Dispute Resolution  
 A Division of the American Arbitration Association  
@@ -161,8 +192,10 @@ Voorhees, NJ 08043
 Phone: 856-435-6401  
 E-mail box: casefiling@adr.org  
   
-Customers shipping internationally who wish to contact macys.com to
+Customers shipping internationally who wish to contact macys.com to:
 
-*   inquire about or update their personal information
-*   make a complaint about the collection or use of their personal information
-*   comment on or ask questions regarding this notice please e-mail us at internationalprivacy@macys.com.
+*   Inquire about or update their personal information
+*   Make a complaint about the collection or use of their personal information
+*   Comment on or ask questions regarding this notice
+
+please e-mail us at internationalprivacy@macys.com.
