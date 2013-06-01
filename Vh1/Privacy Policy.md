@@ -11,7 +11,7 @@
 *   Shop
 *   VH1 Costar
 
-VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosCelebrity GossipBest Week EverVH1 BlogGreatest ListsMovie GossipPhotosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnplugged Last Modified: December 2, 2011 **Go to Terms of Use Agreement** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
+VH1 BlogVH1 Tuner Music BlogVH1 CelebrityBest Week EverVH1 MobileVH1 ClassicAll VideosFull EpisodesMusic VideosCelebrity GossipThe Gossip TableBest Week EverVH1 BlogGreatest ListsMovie GossipPhotosArtists.VH1Behind The MusicGreatest ListsMusic VideosPop Up VideoVH1 ClassicVH1 Soul VH1 StorytellersVH1 Top 20VH1 Tuner Music BlogYou Oughta KnowUnplugged Last Modified: December 2, 2011 **Go to Terms of Use Agreement** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 This is the privacy policy ("Privacy Policy") for VH1.com ("Site," "we," "us," or "our") an Internet website offered in cooperation with the VH1 television channel or programming service ("VH1 Channel"). The VH1 Channel and the Site (together, "VH1") are provided by Viacom Media Networks ("VMN"), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the "Parent Companies").  
   
 **This Privacy Policy is intended to explain our privacy practices and covers the following areas:**
