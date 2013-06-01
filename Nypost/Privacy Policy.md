@@ -1,6 +1,6 @@
 Privacy Policy
 
-_April 25, 2013_
+_May 30, 2013_
 
   
 
