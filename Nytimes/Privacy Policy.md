@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Self-driving cars for testing are supported by U.S.
+Search Help Just one look: Oscar de la Renta's resort collection
 
-Also in Business »
+Also in T Magazine »
 
-*   Dell begins campaign to support leveraged buyout
-*   How to cure the college dropout syndrome
+*   Hidden Venice
+*   A French movie star turned sultry singer-songwriter
 
   
 
