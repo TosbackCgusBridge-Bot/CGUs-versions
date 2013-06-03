@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Just one look: Oscar de la Renta's resort collection
+Search Help "After Earth" with Will and Jaden Smith
 
-Also in T Magazine »
+Also in Arts »
 
-*   Hidden Venice
-*   A French movie star turned sultry singer-songwriter
+*   "Shadow Dancer," a thriller set in Britain
+*   Warning: Woman wields a scalpel
 
   
 
