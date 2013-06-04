@@ -57,6 +57,9 @@ Rachael Ray
 *   Rach
     *   Rach Home
     *   Rach in Tuscany
+    *   My Year in Meals
+    *   The Book of Burger
+    *   Look + Cook
 *   Shop
     *   Rachael Ray Products
     *   Common Questions
