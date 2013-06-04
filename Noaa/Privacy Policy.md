@@ -25,7 +25,7 @@ Search Criteria
 *   NOAA In Your State
 *   Budget Information
 *   Emergency Information for NOAA Employees
-*   Weather Ready Nation
+*   Weather-Ready Nation
 
 Protecting your privacy online
 
