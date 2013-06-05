@@ -33,11 +33,7 @@ Explore the all-new A3 quattro®Four is superior to two.
 
 More than 30 years ago, Audi quattro® became the first permanent all-wheel drive system designed for passenger vehicles. Today, it plays an essential role in the Audi experience, insuring its place as an engineering legend.
 
-Experience quattro® Audi. Engineered for Iron Man.
-
-Iron Man is once again in a fight for his life against an unknown villain, bent on his destruction. Weapon of choice, a suit. Car of choice, an Audi R8.
-
-Learn more The Audi range The Audi range The Audi range SedansStarting at $32,500 View models CoupesStarting at $37,850 View models ConvertiblesStarting at $41,650 View models SUVs, crossovers, and wagonsStarting at $35,900 View models Audi ownership Audi ownership Audi ownership myAudi
+Experience quattro® The Audi range The Audi range The Audi range SedansStarting at $32,500 View models CoupesStarting at $37,850 View models ConvertiblesStarting at $41,650 View models SUVs, crossovers, and wagonsStarting at $35,900 View models Audi ownership Audi ownership Audi ownership myAudi
 
 Get on the fast track to choosing the right finance or lease options, viewing technology tutorials, exploring genuine Audi parts and accessories, finding the service you need and more.
 
