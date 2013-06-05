@@ -1,101 +1,16 @@
-#1 Auto Insurance Site
+Search / Keywords
 
-*   About
-    *   Progressive Overview
-    *   Jobs
-    *   Investors
-    *   Newsroom
-    *   Sponsorships
-    *   Progressive Web Sites
-    *   TV Commercials
-*   Careers Career Opportunities
-    
-    Thinking about a career with Progressive?
-    
-    Search Jobs
-*   Contact Keep in Touch!
-    
-    Question or comment? We want to hear from you.
-    
-    *   E-mail
-    *   Call
-    *   Write
+*   Insurance
+*   Claims
+*   Your Policy
+
+*   Make a Payment
 *   Log In
-
-*   Insurance Choices Auto Insurance
-    
-    *   Coverage
-    *   Availability
-    *   Discounts
-    
-    Home Insurance
-    
-    *   Coverage
-    *   Availability
-    *   Policy Types
-    
-    Motorcycle Insurance
-    
-    *   Coverage
-    *   Availability
-    *   Discounts
-    
-    More Insurance Choices
-    *   Life Insurance
-    *   Boat Insurance
-    *   RV Insurance
-    *   Commercial Auto Insurance
-    *   Renters Insurance
-    *   Mobile Home Insurance
-    *   Health Insurance
-    *   Snowmobile Insurance
-    *   See all Insurance Choices
-*   Claims Center Log in to:
-    
-    *   Report a Claim
-    *   Track a Claim
-    
-    *   Immediate Response Vehicles
-    *   How-to Report a Claim
-    *   Service Centers
-    *   Claims Offices
-    *   Catastrophe Claims
-    *   Windshield and Glass
-    *   Repair Estimates
-    *   Roadside Assistance
-    *   Super Service Stories
-    *   Provider NetworksNot a Progressive Customer?Access your claim
-*   Customer Service
-    
-    *   24/7 Access
-    *   Log In to View or Update Your Policy
-    *   Make a Payment  
-        (login not required)
-    
-    Insurance Basics
-    *   Car Insurance FAQs
-    *   Insurance Terms
-    *   Retrieve a Quote
-    *   Find an Agent
-    *   Contact UsNew to Progressive?Register Your Policy
-
-Search / Keywords 1-800-PROGRESSIVE
-
-*   Contact Us
-*   Help
-*   Privacy &. Security
-    *   E-mail Fraud
-    *   Protect Your Identity
-    *   Web Site Security
-    *   Report Fraud
-*   Terms of Use
-*   Site Map
-*   Web Site Accessibility
 
 *   Home
 *   Privacy &. Security
 
-Progressive Privacy Policy Back
+1-800-Progressive Progressive Privacy Policy Back
 
 Please select from the following list to review the Privacy Policy for your state:
 
@@ -117,67 +32,78 @@ Mayfield Village, Ohio 44143
   
 Call: 1-440-461-5000
 
-Back Back Get an Online Quote! Zip Code AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home Quote with a Local Agent Retrieve a Quote #1 Insurance Website
+Back
 
-Progressive has sat atop 20 of the last 21 Keynote® Systems Insurance Carrier Scorecards.
+Back Quote &. Buy Online Zip Code AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home
 
-More
+*   Quote with a Local Agent
+*   Retrieve a Quote
 
-*   INSURANCE CHOICES
-*   Auto Insurance
-*   Local Car Insurance
-*   Motorcycle Insurance
-*   Boat Insurance
-*   RV Insurance
-*   Commercial Auto Insurance
-*   Truck Insurance
-*   Homeowners Insurance
-*   Renters Insurance
-*   Business Insurance
-*   Life Insurance
-*   Health Insurance
-*   Umbrella Insurance
+Privacy &. Security
 
-*   RESOURCES
-*   Vehicle Resources
-*   Insurance Basics
-*   Progressive Blog
-*   Connect with Progressive
-*   Mobile Apps and Services
-*   PerkShare®
+*   E-mail Fraud
+*   Protect Your Identity
+*   Web Site Security
+*   Report Fraud
 
-*   ABOUT PROGRESSIVE
-*   Progressive Overview
-*   Jobs
-*   Investors
-*   Newsroom
-*   Sponsorships
-*   TV Commercials
-*   Progressive Web Sites
+#1 Auto Insurance Website for 2012 - Keynote® Systems
 
-*   FEATURED CONTENT
-*   Name Your Price®
-*   Snapshot®
-*   Pet Injury Coverage
-*   Comparison Rates
-*   Car Insurance Australia
-*   Seguros para autos
-*   Dress Like Flo
-*   Rocket Cat Adventures
+*   *   INSURANCE CHOICES
+    *   Auto Insurance
+    *   Local Car Insurance
+    *   Motorcycle Insurance
+    *   Boat Insurance
+    *   RV Insurance
+    *   Commercial Auto Insurance
+    *   Truck Insurance
+    *   Homeowners Insurance
+    *   Renters Insurance
+    *   Business Insurance
+    *   Life Insurance
+    *   Health Insurance
+    *   Umbrella Insurance
+*   *   RESOURCES
+    *   Vehicle Resources
+    *   Insurance Basics
+    *   Progressive Blog
+    *   Mobile Apps and Services
+    *   PerkShare®
+*   *   ABOUT PROGRESSIVE
+    *   Progressive Overview
+    *   Jobs
+    *   Investors
+    *   Newsroom
+    *   Sponsorships
+    *   TV Commercials
+    *   Progressive Web Sites
+*   *   FEATURED CONTENT
+    *   Name Your Price®
+    *   Snapshot®
+    *   Pet Injury Coverage
+    *   Comparison Rates
+    *   Car Insurance Australia
+    *   Seguros para autos
+    *   Dress Like Flo
+    *   Rocket Cat Adventures
 
-Follow us online: RSS Icon YouTube Icon Facebook Icon Twitter Icon Google Plus Icon
+Follow us
 
 *   Home
-*   Web Site Accessibility
+*   Log In
+*   Make a Payment
+*   Quote with a Local Agent
+*   Contact Us
+
+*   Website Accessibility
 *   Site Map
 *   Help
 *   Privacy &. Security
 *   Terms of Use
 
-**We're Here 24/7. Call 1-800-PROGRESSIVE.**
+We're Here 24/7. Call 1-800-Progressive.
 
 Copyright 1995 - 2013. Progressive Casualty Insurance Company. All Rights Reserved.
 
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Quotes for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Quote with a Local Agent button.
 
-No. 1 auto insurance site ranking from Keynote® Competitive Research, the industry analysis group of Keynote Systems.
+Mobile quotes are for policies purchased directly from Progressive. Not available in all states and situations.
