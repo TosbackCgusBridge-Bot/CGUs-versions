@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help What to watch on day 10 at the French Open
+Search Help TimesTalks: "The New Digital Age"
 
-Also in Sports »
+Also in Video »
 
-*   Tennis goes high-tech, and that's just in the stands
-*   Tennis coaches see advantages of video analysis
+*   A smartphone challenge in Times Square
+*   You say GIF, I say GIF
 
   
 
