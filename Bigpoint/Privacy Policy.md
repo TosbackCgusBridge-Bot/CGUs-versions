@@ -41,7 +41,9 @@ EFFECTIVE DATE: JUNE 30, 2012
 
 This Privacy Policy describes the types of personal and non-personal information we collect on www.bigpoint.com and related websites that link to this Privacy Policy (the "Site") and through the registration and use of games developed and/or published by Bigpoint, Inc. (the "Games"), how we use such information and to whom and under what circumstances we may disclose it. By using the Site and Games, which are operated by Bigpoint Inc. you agree to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. In this policy, "Bigpoint" refers to Bigpoint, Inc. and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to Bigpoint as "We" or "Us". If you do not agree to the terms of this Privacy Policy, please do not use the Site or Games. If you access our games from a third party Social Networking Service ("SNS"), you may be required to also read and accept the SNS’s Terms of Service and Privacy Policy.
 
-  
+Table of Contents
+
+ COLLECTION OF INFORMATION ACCESS TO INFORMATION YOU PROVIDE TO US USE OF INFORMATION DISCLOSURE OF INFORMATION HOW TO ACCESS AND MODIFY YOUR INFORMATION SECURITY US-EU and US-SWITZERLAND SAFE HARBOR THIRD PARTY WEBSITES CHANGE TO THIS PRIVACY POLICY CONTACT US AdServer Opt-Out  
   
 1 COLLECTION OF INFORMATION
 
@@ -65,11 +67,15 @@ When you use a Game provided through an SNS such as Facebook, where our games ar
 
 We enable users to chat and otherwise communicate in games and on our websites. We take measures so that chat users cannot disclose personal information, including filters and live moderation. We strongly encourage you not to disclose personal information of yourself or others in such chats or other public communication in our games our on our websites. Be aware that such information can be read, collected, stored and used by other users. Any such disclosure is at your own discretion and we are not responsible for any information you choose to disclose in such way.
 
+Back to top
+
   
   
 2 ACCESS TO INFORMATION YOU PROVIDE TO US
 
 You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request to stop.en@bigpoint.com
+
+Back to top
 
   
   
@@ -78,11 +84,15 @@ You may access any personal information you provide to us, correct or modify any
 We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services. (2) to contact you when necessary. (3) to review Site usage and operations. (4) to address problems with the Site, our business or our products and services. and (5) to protect the security or integrity of the Site and our business. We may also use the information we collect from and about you to contact you with information and promotional materials and offers from our company, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. We do not share personal information of children under 13 with third parties for their marketing purposes. If you would prefer not to receive such promotional communications, please follow the unsubscribe instructions within the email you received when setting up your account.  
 In addition to Personal Information and Non-Personal Information collected, you may choose to share information about yourself through other content ("Content"), such as in games or forums. Any information shared with other players are considered public and at your own discretion.
 
+Back to top
+
   
   
 4 DISCLOSURE OF INFORMATION
 
 Bigpoint Inc. may disclose information collected from and about you as follows: (1) to our related companies, business partners and service providers to perform a business, professional or technical support function for us or to fulfill your product or service request. (2) as necessary if we believe that there has been a violation of the Site Terms of Use, or our rights, or the rights of any third party. (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. and (4) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. (5) We may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. We do not share personal information of children under 13 in this way. You may request that we do not share your personal information with third parties, which may prohibit access to certain features and elements of the Site. To do so, please send an email, with "Disclosure Opt-Out" in the subject line, to stop.en@bigpoint.com. We may provide your information to third party companies to perform services on our behalf, including payment processing, data analysis, email deliver, customer support, and various marketing activities. Any third party service provider is required to maintain the confidentiality of the information disclosed to them and to maintain at least the same level of privacy protection as provided by us. Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/choose ." You expressly acknowledge that Bigpoint has no liability regarding any data collection process engaged by a third party while you are utilizing a Bigpoint service or while on a Bigpoint website. If you play a Game at a third-party SNS, Bigpoint will be able to access and store information about you as described herein. The categories of information you share will depend, in part, on the privacy settings you have established at the SNS where you access the application. The SNS may allow you to control how you share information with a third-party application (for example, a Bigpoint game as an application on the SNS website) through your privacy settings on the SNS. Bigpoint does not control the privacy settings made available through the SNS to the users of the SNS. Bigpoint refers you to the SNS’ privacy policy posted on the SNS’ site to determine what options are available regarding privacy settings on the SNS.
+
+Back to top
 
   
   
@@ -98,11 +108,15 @@ To manage the information Bigpoint receives about you from the SNS where you pla
 *   Your California Privacy Rights If you are a resident of California, you may request that we not share your personal information with third parties for their own marketing purposes. To do so, please send an email, with "California Opt-Out" in the subject line, to stop.en@bigpoint.com.
 *   If you have questions regarding this Privacy Policy, please contact us at privacy@bigpoint.net
 
+Back to top
+
   
   
 6 SECURITY
 
 We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect and store from Site visitors such as keeping the sensitive data behind a firewall, regular monitoring of our security program and computer systems for evidence of unauthorized use or access to personal information as well as physical security measures to guard against unauthorized access to systems where we store the information.
+
+Back to top
 
   
   
@@ -110,11 +124,15 @@ We have taken certain physical, electronic, contractual, and managerial steps to
 
 Bigpoint may transfer information to or receive information from our Affiliates (which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership) for our legitimate business purposes. We may store information about site visitors and players on servers and equipment located in the United States and other countries. Personal data collected within Switzerland and the European Union ("EU") may be transferred to, and stored at, a location outside of Switzerland and the EU. The data collected may be processed by employees operating outside of Switzerland and the EU who work for Bigpoint, one of our Affiliates, or one of our vendors. By submitting your personal data, use of the Bigpoint site or playing Bigpoint games, you agree to this transfer, storing or processing. Bigpoint Inc. complies with the Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of online user data from Switzerland and the EU. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. If you have reported data privacy concerns to Bigpoint and do not feel that they have been adequately addressed, you may contact legal-us@bigpoint.net.
 
+Back to top
+
   
   
 8 THIRD PARTY WEBSITES
 
 The Site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.
+
+Back to top
 
   
   
@@ -122,11 +140,15 @@ The Site may contain links to third-party websites, which may have privacy polic
 
 We reserve the right to change this privacy policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you.
 
+Back to top
+
   
   
 10 CONTACT US
 
 If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.: Bigpoint Inc. Attention Privacy 795 Folsom St. First Floor San Francisco CA 94107 USA Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s). You can also reach us under: +1(415) 821-8112 If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal-us@bigpoint.net
+
+Back to top
 
   
   
@@ -140,6 +162,8 @@ Once you've set the blocker, advertising delivered through our technology can no
   
 OptIn | OptOut  
   
+
+Back to top
 
 Terms &. Conditions Up  
 BIGPOINT INC.  
@@ -330,11 +354,15 @@ Bigpoint Inc. respects individual privacy and values the confidence of their cus
   
 As an ASP, Bigpoint Inc. has certain responsibilities for protecting the privacy of a Customer's information including any personal information being maintained in an Customer's files. Each Customer, as the collector and user of that information, has primary responsibility for the privacy of that information. The Safe Harbor Privacy Policy (the "Policy") sets forth the privacy principles that Bigpoint Inc. follows with respect to personal information transferred from the European Union (EU) to the United States.
 
-  
+Table of Contents
+
+ SAFE HARBOR DEFINITIONS PRIVACY PRINCIPLES LIMITATION ON APPLICATION OF PRINCIPLES CONTACT INFORMATION CHANGES TO THIS SAFE HARBOR PRIVACY POLICY   
   
 SAFE HARBOR
 
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect personal privacy, Bigpoint Inc. adheres to the Safe Harbor Principles.
+
+Back to top
 
   
   
@@ -345,6 +373,8 @@ For purposes of this Policy, the following definitions shall apply:
 "Personal information" means any information or set of information that identifies or is used by or on behalf of a Company to identify an individual. Personal information does not include information that is encoded or anonymyzed, or publicly available information that has not been combined with non-public personal information.  
   
 "Sensitive personal information" means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns an individual's health. In addition, Bigpoint Inc. will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+
+Back to top
 
   
   
@@ -374,11 +404,15 @@ Bigpoint Inc. will provide individuals with reasonable mechanisms to exercise th
   
 **DISPUTE RESOLUTION:** Any questions or concerns regarding the use or disclosure of personal information should be directed to the Bigpoint Inc. Privacy Office at the address given below. Bigpoint Inc. will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy.
 
+Back to top
+
   
   
 LIMITATION ON APPLICATION OF PRINCIPLES
 
 Adherence by Bigpoint Inc. to these Safe Harbor Principles may be limited (a) to the extent required to respond to a legal or ethical obligation. and (b) to the extent expressly permitted by an applicable law, rule or regulation.
+
+Back to top
 
   
   
@@ -393,6 +427,8 @@ USA
 Phone: 646 - 405 1037  
 Fax: 646 – 405 1027  
 
+Back to top
+
   
   
 CHANGES TO THIS SAFE HARBOR PRIVACY POLICY
@@ -404,3 +440,5 @@ www.bigpoint.com
 This policy can be viewed on the Bigpoint Inc. web page.  
   
 EFFECTIVE DATE: June 16, 2008
+
+Back to top
