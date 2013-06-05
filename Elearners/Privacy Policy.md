@@ -215,7 +215,7 @@ Popular Degrees:
 *   Psychology Degrees
 *   Religion Degrees
 *   Criminal Justice Degrees
-*   Education &. Teaching Degrees
+*   Education Degrees
 *   Computer Science Degrees
 
 Our Partners:
