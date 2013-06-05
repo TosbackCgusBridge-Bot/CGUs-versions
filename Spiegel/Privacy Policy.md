@@ -1,30 +1,31 @@
   
   
 
+*   Home
+*   Video
+*   Themen
+*   Forum
+*   English
+*   DER SPIEGEL
+*   SPIEGEL TV
+*   Abo
+*   Shop
+
 *   Schlagzeilen
-*   Hilfe
-*   RSS
-*   Newsletter
-*   Mobil
 *   Wetter
 *   TV-Programm
+*   mehr ▼
+    *   Hilfe
+    *   RSS
+    *   Newsletter
+    *   Mobil
 
 Mein SPIEGEL
 
-*   NACHRICHTEN
-*   VIDEO
-*   THEMEN
-*   FORUM
-*   ENGLISH
-*   DER SPIEGEL
-*   SPIEGEL TV
-*   ABO
-*   SHOP
+*   Mein SPIEGEL
 
 *   Home
 *   \>Mein SPIEGEL
-
-*   Mein SPIEGEL
 
   
   
@@ -340,6 +341,7 @@ Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
 Diesen Artikel...
 
 *   Drucken
+*   Nutzungsrechte
 *   Feedback
 *   Merken
 
@@ -351,7 +353,8 @@ Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
   
 
 *   Donnerstag, 12.08.2010 – 11:29 Uhr
-*   Drucken Feedback
+*   Drucken
+*   Nutzungsrechte Feedback
 
 Gliederung
 
@@ -380,10 +383,7 @@ Gliederung
   
   
   
-TOP  
-  
-  
-Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
+TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   AUTO UND FREIZEIT
 *   Benzinpreis-  
