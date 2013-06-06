@@ -1,4 +1,4 @@
-**Last Revised: May 20, 2013**
+**Last Revised: June 5, 2013**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -500,6 +500,10 @@ _Dispute Resolution_.  You acknowledge that you have read and understand and ag
 _Indemnification_.  You agree to (within thirty days of demand) indemnify, defend and hold harmless the .CO Registry and us, and our respective affiliates and subsidiaries, as well as each of our respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating in any way to your domain name registration including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration. You shall not enter into any settlement or compromise of any such indemnifiable claim without our prior written consent, which consent shall not be unreasonably withheld. This indemnification obligation shall survive the termination or expiration of this Agreement for any reason.
 
 _Jurisdiction_.   The adjudication of all disputes, claims or controversies regarding the registration, ownership, use, transfer, assignment, loss, cancellation, or suspension of any registered name or otherwise relating to the .CO domain name between you and the Registry shall be governed exclusively by the laws of Colombia and that any such disputes, claims or controversies shall be brought and heard exclusively in the courts located in Bogotá, Colombia.
+
+**provisions specific to .cz registrations**
+
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here, and which are incorporated herein by reference.
 
 **37\. provisions specific to .DE registrations**
 
