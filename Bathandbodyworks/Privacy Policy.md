@@ -241,11 +241,11 @@ Welcome! **(Log in)**
     *   Top Fragrances
         *   Black Amethyst
         *   Black Raspberry Vanilla
+        *   Coconut Vanilla
         *   Country Apple
         *   Dark Kiss
         *   Forever Sunshine
         *   Juniper Breeze
-        *   Sun-Ripened Raspberry
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Explore Our Studio
