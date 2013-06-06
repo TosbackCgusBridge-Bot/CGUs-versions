@@ -1,3 +1,5 @@
+Effective: May 7, 2012
+
 The Adobe Privacy Policy describes the privacy practices of Adobe’s websites, products, online services, and apps.
 
 Jump to:
@@ -18,65 +20,46 @@ Jump to:
 *   Will this privacy policy change?
 *   Who can I contact with questions or concerns?
 
-ADOBE PRIVACY POLICY
-
-Effective May 7, 2012
-
 What does this privacy policy cover?
 
-This privacy policy describes the privacy practices of Adobe’s websites, as well as our products, online services, and apps that include a link to this policy (we refer to our products, online services, and apps as "applications"). This privacy policy also applies to Adobe’s marketing and advertising practices. Companies acquired by Adobe may operate under their own privacy policies (learn more). We also provide additional privacy-related information for certain Adobe websites and applications. Please also see the Adobe Terms of Use and any additional Terms of Use or Product License Agreements that may apply to the website or application you are using. 
+This privacy policy describes the privacy practices of Adobe’s websites, as well as our products, online services, and apps that include a link to this policy (we refer to our products, online services, and apps as "applications"). This privacy policy also applies to Adobe’s marketing and advertising practices. Companies acquired by Adobe may operate under their own privacy policies (learn more). We also provide additional privacy-related information for certain Adobe websites and applications. Please also see the Adobe Terms of Use and any additional Terms of Use or Product License Agreements that may apply to the website or application you are using.  
 
 To the top What information does Adobe collect about me?
 
-**Adobe ID, registration and customer support**
-
+**Adobe ID, registration and customer support**  
 When you register to use an Adobe website or application, create an Adobe ID, or contact us for support or other offerings, Adobe collects information that identifies you. This may include your name, company name, email address, or payment information. We may also sometimes collect other information that does not identify you, such as your job title or industry. Some of this information is required and other information is optional (more information about what specific Adobe websites and applications collect). For student and teacher editions of our applications, information regarding your eligibility is required. To help keep our databases current and to provide you the most relevant content and experiences, we may combine information from you with information from public sources and our trusted partners, in accordance with applicable law. For example, from these sources, we may learn the company size and industry of our business customers.
 
-**Adobe websites and applications**
-
+**Adobe websites and applications**  
 We collect information about how you use our websites and applications, including when you use a desktop product feature that takes you online (such as a photo syncing feature). We may collect information that your browser or device typically sends to our servers whenever you visit an Adobe website, or when an Adobe desktop product feature takes you online. For example, your browser or device may tell us your IP address (which may tell us generally where you are located) and the type of browser and device you used. When you visit an Adobe website, your browser may also tell us information such as the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website. Adobe may collect information about how you use our websites and applications by using cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous (for example, see the Adobe Product Improvement Program) or it may be associated with you. Learn more about the information that specific Adobe websites or applications may collect. Learn about your privacy choices regarding how we use this information.
 
-**Adobe product activation and automatic updates**
-
+**Adobe product activation and automatic updates**  
 When you activate your Adobe product, we collect certain information about your device, the Adobe product, and your product serial number (learn more). Some of our products include features that connect to our servers and offer you the ability to install updates to the product. We may keep track of information such as whether the update was successful or not.
 
-**Adobe emails**
-
+**Adobe emails**  
 Emails we send you may include a web beacon that tells Adobe whether you have received or opened the email, or clicked a link within the email. If you do not want us to collect this information from Adobe marketing emails, you can opt out of receiving Adobe marketing emails.
 
-**Adobe online advertising**
-
+**Adobe online advertising**  
 Adobe advertises online in a variety of ways, including displaying Adobe ads to you across the Internet on websites and in apps. We collect information about which ads are displayed, which ads are clicked on, and on which web page the ad was displayed. Learn more about Adobe’s advertising practices.
 
-**Buttons, tools, and content from other companies**
-
+**Buttons, tools, and content from other companies**  
 Adobe websites and applications may include buttons, tools, or content that link to other companies’ services (for example, a Facebook "Like" button). We may collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, or view an Adobe web page containing them, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information.
 
-**Adobe social networking pages and social sign-on services**
-
+**Adobe social networking pages and social sign-on services**  
 Adobe has its own pages on many social networking sites (for example, the Adobe® Photoshop® team’s Facebook page). You may also be able to sign in to an Adobe website or application using a social networking account, such as a Facebook account. We may collect information when you interact with our social networking pages or use these sign-on features. Learn more about Adobe’s social networking practices.
 
 To the top How does Adobe use the information it collects about me?
 
 Adobe uses the information we collect about you in a number of ways, such as:
 
-• Providing you with the Adobe websites and applications for which you have registered, as well as any services, support, or information you have requested
-
-• Better understanding how our websites and applications are being used so we can improve them
-
-• Diagnosing problems in our websites and applications
-
-• Tailoring a website, application, or Adobe marketing to your likely interests
-
-• Sending you business messages such as those related to payments or expiration of your subscription
-
-• Sending you information about Adobe, new application releases, special offers, and similar information (learn more)
-
-• Conducting market research about our customers, their interests, and the effectiveness of our marketing campaigns
-
-• Reducing fraud, software piracy, and protecting our customers as well as Adobe
-
-• As further described for a specific Adobe website or application
+*   Providing you with the Adobe websites and applications for which you have registered, as well as any services, support, or information you have requested
+*   Better understanding how our websites and applications are being used so we can improve them
+*   Diagnosing problems in our websites and applications
+*   Tailoring a website, application, or Adobe marketing to your likely interests
+*   Sending you business messages such as those related to payments or expiration of your subscription
+*   Sending you information about Adobe, new application releases, special offers, and similar information (learn more)
+*   Conducting market research about our customers, their interests, and the effectiveness of our marketing campaigns
+*   Reducing fraud, software piracy, and protecting our customers as well as Adobe
+*   As further described for a specific Adobe website or application
 
 Learn about your privacy choices regarding how we use your information.
 
@@ -96,17 +79,14 @@ Adobe works with companies that help us run our business. These companies provid
 
 Adobe may also share your personal information:
 
-• When you agreed to the sharing.
-
-• Within the Adobe family of companies for purposes described in this privacy policy.  
-
-• With our resellers and other sales partners if you are a business customer and agreed to receive Adobe marketing communications. Note that we do not share personal information about consumers with third parties for their own marketing purposes unless the consumer agreed to that sharing.
-
-• When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process (learn more).
-
-• When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites or applications against attacks, or protect the property and safety of Adobe, our customers and users, or the public.
-
-• If we merge with or are acquired by another company. we sell an Adobe website, application, or business unit or all or a substantial portion of our assets are acquired by another company. In those cases your information will likely be one of the assets that is transferred.  
+*   When you agreed to the sharing.
+*   Within the Adobe family of companies for purposes described in this privacy policy.  
+    
+*   With our resellers and other sales partners if you are a business customer and agreed to receive Adobe marketing communications. Note that we do not share personal information about consumers with third parties for their own marketing purposes unless the consumer agreed to that sharing.
+*   When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process (learn more).
+*   When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites or applications against attacks, or protect the property and safety of Adobe, our customers and users, or the public.
+*   If we merge with or are acquired by another company, we sell an Adobe website, application, or business unit or all or a substantial portion of our assets are acquired by another company. In those cases your information will likely be one of the assets that is transferred.  
+    
 
 We may share or publish aggregate information that doesn’t specifically identify you, such as statistical information about visitors to our websites or statistical  information about how customers use our applications and hosted services.
 
@@ -144,7 +124,7 @@ Adobe has been awarded TRUSTe's Privacy Seal signifying that this privacy policy
 
 To the top Will this privacy policy change?
 
-If we change or update this privacy policy to allow Adobe to use or share your previously collected personal information in a materially different way, then the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated before the change or update become effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+Occasionally, we may change or update this privacy policy to allow Adobe to use or share your previously collected personal information in a materially different way. If we do, the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated before the change or update becomes effective. We encourage you to periodically review the Adobe Privacy Center for the latest information on our privacy practices.
 
 To the top Who can I contact with questions or concerns?
 
