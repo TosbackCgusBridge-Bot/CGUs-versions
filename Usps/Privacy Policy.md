@@ -121,7 +121,7 @@ Skip Footer Navigation
     *   No FEAR Act EEO Data ›
 *   ON ABOUT.USPS.COM
     *   Newsroom ›
-    *   Mail Service Updates ›
+    *   USPS Service Alerts ›
     *   Forms &. Publications ›
     *   Careers ›
     *   Site Index ›
