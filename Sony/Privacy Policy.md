@@ -147,4 +147,4 @@ Terms and Conditions | Privacy Policy/Your California Privacy Rights | FAQ
 
 © 2013 Sony Corporation of America | Voluntary Recall Programs
 
-Shop Sony Sony.com Global Home
+Shop Sony Global Home
