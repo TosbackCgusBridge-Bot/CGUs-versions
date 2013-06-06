@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help TimesTalks: "The New Digital Age"
+Search Help Bill Cunningham: Spoke spinners
 
 Also in Video »
 
-*   A smartphone challenge in Times Square
-*   You say GIF, I say GIF
+*   How to trim asparagus
+*   Beach hair in 5 easy steps
 
   
 
