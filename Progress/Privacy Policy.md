@@ -17,11 +17,13 @@
 
 Search here. Find anything.
 
-Nothing compares or keeps up The all-new 2013 Audi RS 5
+The Summer of Audi Event
 
-With a potent 450-hp 4.2-liter FSI® V8, Audi quattro® all-wheel drive with sport differential and a flawless interior, the Audi RS 5 is the quickest way to put distance between you and everything else.
+It’s time to explore the Summer of Audi special offers, put the top down and take to the open road. Get ready for the signature Audi performance and luxury. 
 
-Discover the all-new Audi RS 5 TDI® clean dieselGetting more from less.
+  
+
+See special offers TDI® clean dieselGetting more from less.
 
 Audi pioneered TDI® clean diesel engines to deliver more torque, lower fuel consumption and reduce CO2 emissions, compared to equivalent gasoline engines. The result of this revolutionary engineering delivers remarkable performance, while achieving increased fuel economy.
 
