@@ -1,12 +1,40 @@
-USA characters welcome. Facebook Twitter Apps Games Social Shop Privacy Policy
+Skip to main content USA Network USA Shows x
+
+*   Burn Notice
+*   Covert Affairs
+*   CSI
+*   Graceland
+*   House
+*   Law &. Order: CI
+*   Law &. Order: SVU
+*   The Moment
+*   NCIS
+*   NCIS: Los Angeles
+*   Necessary Roughness
+*   Psych
+*   Royal Pains
+*   Suits
+*   Summer Camp
+*   White Collar
+*   WWE Raw
+
+Full Episodes Social Schedule More x More on USA
+
+*   Character Arcade
+*   Characters Unite
+*   Shop
+*   USA Sync
+*   USA Summer
+*   Follow Us on Facebook
+*   Follow Us on Twitter
+
+Privacy Policy Privacy Policy
 
 **This Privacy Policy was last updated on August 14, 2007.**  
   
 **Introduction:** These websites which are located at the domain nbc.com (the "Site") are operated by NBC Universal. ("NBC Universal" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at NBCUniPrivacy@nbcuni.com or at the address at the end of this policy.
 
-**
-
-PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.  
+**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.  
   
 1\. Types of Information Collected  
 .   Personal Data  
@@ -27,9 +55,7 @@ PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULL
 12\. Other Terms and Conditions  
 13\. Site Location  
 14\. Changes to this Privacy Policy  
-15\. Contacting NBC Universal Regarding Your Privacy
-
-**
+15\. Contacting NBC Universal Regarding Your Privacy**
 
 **1\. Types of Information Collected:**  
 **Personal Data:** Personally Identifiable Information ("Personal Data") is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters. register for membership services such as chat rooms or message boards. participate in chat rooms, blogs or other user forums. respond to polls or surveys. purchase merchandise via the Site. register for sweepstakes, contests and other promotional opportunities. or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices ("Other Services"). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.  
@@ -99,4 +125,11 @@ NBC.COM FEEDBACK
 Bldg. 1360 2nd Floor,  
 Universal City, CA 91608
 
-Independent Programming Report | Closed Captioning | Feedback | Terms of Service | Privacy Policy | AdChoices | ©2013 NBCUniversal, Inc. All Rights Reserved.
+*   Independent Programming Report
+*   Closed Captioning
+*   Terms of Service
+*   Privacy Policy
+*   Help
+*   AdChoices
+
+©2013 NBCUniversal, Inc. All Rights Reserved. A Division of NBC Universal
