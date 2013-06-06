@@ -41,7 +41,7 @@ Recipients of our e-mail marketing messages can unsubscribe from receiving promo
 
 Site visitors can also request that their personal information not be shared with third parties solely for e-mail marketing purposes by sending their request with “do not share” in the subject line to feedback@ic.grainger.com. Because mailing lists are prepared in advance of each promotion, you may be sent a couple of promotions before the change is effective.
 
-You have certain choices about the ads you see and our tracking activities.Â  To learn more about those choices and our advertising and tracking activities, click here.
+You have certain choices about the ads you see and our tracking activities. To learn more about those choices and our advertising and tracking activities, click here.
 
 **Security**  
 Our Site uses industry-standard encryption technology to provide for the security of your credit card numbers. In addition, We have put in place reasonable procedural and technical standards to protect the security of our Sites and information We maintain. However, We cannot guarantee that any electronic commerce is totally secure. We encourage you to take affirmative steps to protect yourself online, including ensuring that any online account information you have remains secure.
