@@ -1,11 +1,12 @@
 *   Home
-*   My HeadHunter
-*   Job Search
-*   Recommended Jobs
+*   My Profile
+*   Search Jobs
+*   Post Resume
+*   My Recommended Jobs
 *   All Jobs
-*   Employers
+*   Sign In / Register
 
-Welcome to **HeadHunter.com** Login/Register Email Address or Password is Invalid You must be logged in to use this feature, but Login is currently unavailable while we perform necessary maintenance. Please try again later. Your request to sign in has timed out. Please try again later. Authorizing  Register/Login  Automatically sign me in next time. New to HeadHunter.com? Forgot password? Protect Your Privacy and Safety
+Protect Your Privacy and Safety
 
 We have updated our privacy policy to make it easier to read and understand. Now, Users can navigate directly from the Table of Contents to any privacy topic of interest. We also have eliminated several privacy policies that applied to specific products and have combined them into one privacy policy that applies to all products sold in the United States. Our revised policy also covers our recently developed products, such as our Work@ or NetworkEffect social network applications, and provides updated information regarding personal protection while job searching online.
 
@@ -287,9 +288,12 @@ Please be advised that CareerBuilder will never initiate a request for your pers
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
 
+Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Free Career Test | DegreeDriven.com  
+CB Institute | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
+
 About Us
 
-*   Why Headhunter
+*   About Headhunter
 *   Privacy
 *   Terms &. Conditions
 
@@ -314,10 +318,8 @@ Partner Sites
 *   Retail Jobs
 *   Resume Writing
 
-HeadHunter Office Chicago, IL  
-200 N. LaSalle St  
+HeadHunter Office 200 N. LaSalle St  
 Suite 1100  
 Chicago, IL 60601  
-(866)438-1485  
-
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+(866) 438-1485  
+© 2013 HeadHunter.com. All Rights Reserved. Customer Service: 877-857-6861 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
