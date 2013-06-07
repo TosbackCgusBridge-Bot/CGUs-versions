@@ -53,7 +53,7 @@ We use the personal information you provide voluntarily to send information you'
 *   When you order books directly from us, or request book catalogs, we add you to our snailmail list, and we'll send you catalogs and other marketing pieces.
 *   When you enter a contest or sweepstakes, we may ask for your name, address, and email address so we can administer the contest and communicate with entrants about the results.
 
-We share customer information only with affiliated companies (see http://www.oreilly.com/affiliates.html) and as described below:
+We share customer information only with affiliated companies and as described below:
 
 *   With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
 *   We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of O'Reilly Media, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
