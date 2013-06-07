@@ -19,9 +19,7 @@ Search here. Find anything.
 
 The Summer of Audi Event
 
-It’s time to explore the Summer of Audi special offers, put the top down and take to the open road. Get ready for the signature Audi performance and luxury. 
-
-  
+It's time to explore the Summer of Audi special offers, put the top down and take to the open road. Get ready for the signature Audi performance and luxury.
 
 See special offers TDI® clean dieselGetting more from less.
 
