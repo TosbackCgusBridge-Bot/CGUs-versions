@@ -53,6 +53,8 @@
         Coming Fall 2013 View More Info
     *   2014 Highlander  
         Coming Early 2014 View More Info
+    *   2014 Corolla  
+        Coming Early 2014 View More Info
     *   Concept Vehicles See Vehicles
 
 Please enable JavaScript to get the full experience.
