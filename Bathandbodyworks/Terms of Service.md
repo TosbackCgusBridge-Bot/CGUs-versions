@@ -137,11 +137,11 @@ Welcome! **(Log in)**
         *   Tuscan Vineyard
         *   View All Fragrances
 *   *   Features
+        *   Wexler: Buy 1 Get 1 50% Off
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip Gloss: Buy 2 Get 1 Free
         *   Eucalyptus Spearmint
-        *   Save Up to 50% Off Select Items
     *   Aromatherapy
         
         *   Stress Relief
