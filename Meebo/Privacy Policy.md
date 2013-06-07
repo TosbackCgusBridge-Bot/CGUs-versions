@@ -50,4 +50,4 @@ Deleting your Meebo account does not currently automatically remove your persona
 
 **Comments and Questions**
 
-Anyone who has any questions or concerns about this privacy policy can contact Meebo Customer Service at www.meebo.com/support/contact/.
+Anyone who has any questions or concerns about this privacy policy can contact Meebo Customer Service at dashboard-support@meebo-inc.com.
