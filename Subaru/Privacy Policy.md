@@ -1,7 +1,9 @@
 Log Into MySubaru | Help |
 
 *   Home
+    
 *   Vehicles
+    
     *   View All Vehicles
     *   BRZ
         
@@ -260,28 +262,62 @@ Log Into MySubaru | Help |
     
 *   Why Subaru
     
-    *   All-Wheel Drive Learn why Symmetrical All-Wheel Drive offers better control.
-    *   SUBARU BOXER® Engine See how this unique horizontal design improves balance.
-    *   Safety See how every Subaru is built with your safety as our priority.
+    *   All-Wheel Drive
+        
+        Learn why Symmetrical All-Wheel Drive offers better control.
+        
+    *   SUBARU BOXER® Engine
+        
+        See how this unique horizontal design improves balance.
+        
+    *   Safety
+        
+        See how every Subaru is built with your safety as our priority.
+        
     
-    *   Engineering &. Technology All the options, including Bluetooth, GPS and Satellite Radio
-    *   Industry Reviews &. Awards See what the industry experts are saying about Subaru.
-    *   Vehicle Comparison Tool Stack up every Subaru model against the competition.
+    *   Engineering &. Technology
+        
+        All the options, including Bluetooth, GPS and Satellite Radio
+        
+    *   Industry Reviews &. Awards
+        
+        See what the industry experts are saying about Subaru.
+        
+    *   Vehicle Comparison Tool
+        
+        Stack up every Subaru model against the competition.
+        
     
     *   More
     *   Overview
     *   View a Brochure
     *   Dear Subaru
     *   Environment
+    *   Corporate Responsibility
     
 *   Financial Tools
     
-    *   Special Offers See all the national deals for every Subaru model.
-    *   Financing Options Helpful information on financing or leasing your new Subaru.
-    *   Trade-In Appraisal Get a quick look at how much your current vehicle is worth.
+    *   Special Offers
+        
+        See all the national deals for every Subaru model.
+        
+    *   Financing Options
+        
+        Helpful information on financing or leasing your new Subaru.
+        
+    *   Trade-In Appraisal
+        
+        Get a quick look at how much your current vehicle is worth.
+        
     
-    *   Payment Calculator Estimate your monthly cost based on finance rate and trade-in.
-    *   Guaranteed Trade-In Program Trading up? Get the most value for your old Subaru.
+    *   Payment Calculator
+        
+        Estimate your monthly cost based on finance rate and trade-in.
+        
+    *   Guaranteed Trade-In Program
+        
+        Trading up? Get the most value for your old Subaru.
+        
     
     *   More
     *   Overview
@@ -290,12 +326,27 @@ Log Into MySubaru | Help |
     
 *   For Owners
     
-    *   MySubaru Vehicles Keep track of your vehicle records online and get valuable service coupons.
-    *   Resource Center Key resources for some of the most often asked vehicle features.
-    *   Enthusiasts Subaru Gear, owner stories, Subaru Rally, events, publications and more.
+    *   MySubaru Vehicles
+        
+        Keep track of your vehicle records online and get valuable service coupons.
+        
+    *   Resource Center
+        
+        Key resources for some of the most often asked vehicle features.
+        
+    *   Enthusiasts
+        
+        Subaru Gear, owner stories, Subaru Rally, events, publications and more.
+        
     
-    *   Benefits of Ownership Learn about the Subaru Rewards Card, insurance discounts and more.
-    *   Parts &. Service Shop parts, accessories &. tires online. Download Subaru parts brochures.
+    *   Benefits of Ownership
+        
+        Learn about the Subaru Rewards Card, insurance discounts and more.
+        
+    *   Parts &. Service
+        
+        Shop parts, accessories &. tires online. Download Subaru parts brochures.
+        
     
     *   More
     *   Overview
@@ -303,6 +354,7 @@ Log Into MySubaru | Help |
     *   Love Every Mile
     
 *   Build Your Own
+    
 
 *   Change Find a Dealer
 
