@@ -1,5 +1,7 @@
 Privacy Policy
 
+_(Effective December 1, 2012)_
+
 At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. We want to describe our privacy practices concerning the information collected through the Ask.com website and our Ask mobile applications in a clear and concise way. Below we generally describe what information we collect when you use the Ask service, how we protect that information, how long we retain it, whom we share it with, and what your privacy options are.
 
 By using our website, toolbar, or our mobile application, you consent to our collection and use of your data as described in this privacy policy. If you install an Ask Toolbar, you will be subject to end user license terms that describe what information Ask.com collects when you use the Ask Toolbar and how that information may be used. In addition, when you sign up for an account with Ask, we also collect personal information from you. We may combine the information you submit under your account with information we collect from your use of our services in order to provide you with a better experience and to improve the quality of our services.
