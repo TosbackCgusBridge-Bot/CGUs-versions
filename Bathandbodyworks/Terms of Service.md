@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Small Candles: $5
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
         *   Wallflowers Refills: 3 for $20
         *   Scentportables: Buy 4 Get 2 Free
+        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
@@ -90,16 +90,15 @@ Welcome! **(Log in)**
         *   Room Sprays &. Mists
         *   Scentportable Car Fresheners
     *   Top Fragrances
+        *   Apple Crumble
         *   Caribbean Escape
-        *   Espresso Bar
-        *   Gelato
         *   Honeysuckle
         *   Japanese Cherry Blossom
         *   Lilac Blossom
         *   Limoncello
         *   Mahogany Teakwood
-        *   Market Peach
-        *   Pineapple Mango
+        *   Seaside Escape
+        *   Summer Boardwalk
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
@@ -191,7 +190,7 @@ Welcome! **(Log in)**
     *   Shop By Price
         
         *   $15 &. Under Gifts
-        *   $25 &. Under Gifts
+        *   $20 &. Under Gifts
         *   $35 &. Under Gifts
         
         Shop Gift Sets
@@ -281,7 +280,7 @@ Welcome! **(Log in)**
     *   Shop By Price
         
         *   $15 &. Under Gifts
-        *   $25 &. Under Gifts
+        *   $20 &. Under Gifts
         *   $35 &. Under Gifts
         
         Shop Gift Sets
