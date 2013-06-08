@@ -1,6 +1,6 @@
 Your Privacy Rights  
 
-We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on September 14, 2012, describes the information we collect and how we use it.
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on June 7, 2013, describes the information we collect and how we use it.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -33,7 +33,7 @@ Email: preferences@llbean.com
 We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:
 
 *   Place an order from our catalogs or on our Web site
-*   Make a purchase at one of our stores
+*   Make a purchase at one of our stores (we do not require personal information, such as zip, name, address or email, as a condition of accepting payment by credit or debit card)
 *   Return an item or make an exchange
 *   Inquire about our services
 *   Request a catalog
