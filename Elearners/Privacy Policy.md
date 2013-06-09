@@ -214,22 +214,13 @@ Popular Degrees:
 *   Business &. MBA Degrees
 *   Psychology Degrees
 *   Religion Degrees
-*   Criminal Justice Degrees
 *   Education Degrees
 *   Computer Science Degrees
 
-Our Partners:
-
-*   Grad Schools
-*   EarnMyDegree
-*   EducationConnection
-*   StudyAbroad
-*   UniversitiesAbroad
-*   ChristianEducation
-*   TestDriveCollege
-
 About eLearners:
 
+*   About Us
+*   Our Partners
 *   FAQs
 *   Site Map
 
