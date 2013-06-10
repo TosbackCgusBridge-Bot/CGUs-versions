@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
+        *   Small Candles: $5
         *   Wallflowers: 6 for $24
         *   Mini Candles: 3 for $10
         *   Wallflowers Refills: 3 for $20
         *   Scentportables: Buy 4 Get 2 Free
-        *   $5 Room Sprays &. Home Fragrance Oils
     *   Candles
         
         *   3-Wick Candles
