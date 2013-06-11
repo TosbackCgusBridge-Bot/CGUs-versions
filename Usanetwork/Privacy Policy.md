@@ -3,7 +3,7 @@ Skip to main content USA Network USA Shows x
 *   Burn Notice
 *   Covert Affairs
 *   CSI
-*   Graceland
+*   New! Graceland
 *   House
 *   Law &. Order: CI
 *   Law &. Order: SVU
@@ -14,7 +14,7 @@ Skip to main content USA Network USA Shows x
 *   Psych
 *   Royal Pains
 *   Suits
-*   Summer Camp
+*   New! Summer Camp
 *   White Collar
 *   WWE Raw
 
