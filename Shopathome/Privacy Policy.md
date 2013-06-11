@@ -119,6 +119,6 @@ If you have any questions or concerns about this Privacy Policy or our practices
 
 ShopAtHome.com  
 Attn: Privacy  
-7100 East Belleview Avenue, #208  
+5575 DTC Parkway, Suite 300  
 Greenwood Village, CO 80111  
 Email: privacy@shopathome.com
