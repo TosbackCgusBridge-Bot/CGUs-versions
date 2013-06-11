@@ -15,31 +15,25 @@ Legal **information**
 
 Legal **information**
 
-**Intershare, S.L.** (in Spain) and **Softonic International S.L.** (rest of the world),  
-are companies that co-own (the national domains of France, Germany, Italy, Brazil, China, Japan, Netherlands and Poland), its blog http://blog.en.softonic.com/, Onsoftware.com, Ongames.com and its blog (hereinafter referred to as SOFTONIC).
+**Softonic International S.L.** owns, amongst others, the corresponding country domains of Spain, France, Germany, Italy, Brazil, China, Japan, The Netherlands, Turkey, Korea and Poland, the blog http://en.onsoftware.com, Ongames.com and its blog (hereinafter referred to as SOFTONIC).
 
 *   Address: C/Rosselló i Porcel, 21, 17th floor, 08016, Barcelona, Spain
 *   Tel. + 34 936 01 27 00
-*   Fax. +34 93 396 92 92
+*   Fax. + 34 93 396 92 92
 *   moc.cinotfos@anolecrab.
-*   **Intershare, S.L.**: Tax Identification Number: B-62134341. Filed with the Mercantile Registry of Barcelona, Book 32517, Page 37, Sheet 210880.
-*   **Softonic International S.L.**: Tax Identification Number: B-63920920. Filed with the Mercantile Registry of Barcelona, Book 3775, Page 106, Sheet B312051.
+*   Softonic International S.L.: Tax Identification Number: B-62134341. Filed with the Mercantile Registry of Barcelona, Book 3251743674, Page 37213, Sheet B 210880, Entry 25.
 
 Personal Data **Protection Policy**
 
-1.  Information rights and express consent In Spain:
+1.  Information rights and express consent
     
-    The data protection policy governs access and use of the Softonic website that Softonic (Intershare, S.L. and Softonic International S.L.) make available, free of charge, to Internet users interested in the site's services and content (hereafter "**Users**").
+    The data protection policy governs access and use of the Softonic website that Softonic makes available, free of charge, to Internet users interested in the site's services and content (hereafter "**Users**").
     
-    According to what is set forth in Data Protection Regulations, Intershare, S.L., as owner of the Website for Spain, informs the User that files containing personal data of users and customers have been created by Softonic, who accepts responsibility for the files, dully filed with the corresponding public entity.
-    
-    Rest of the world:
-    
-    According to what is set forth in current Data Protection Regulations, Softonic International S.L., as owner of the Website for the rest of the world, except for Spain, informs the User that files containing personal data from users and customers have been created by Softonic, which accepts responsibility for the files, duly filed with the corresponding public entity.
+    According to what is set forth in Data Protection Regulations, Softonic International S.L., as owner of the Website for Spain and for the rest of the world, informs the User that files containing personal data of users and customers have been created, and accepts responsibility for the files, dully filed with the corresponding public entity.
     
     Softonic does not sell or rent its users’ personal data to third parties with commercial purposes without the users’ prior consent. However, Softonic is enabled to disclose personal data in order to (i) fulfill a legal requirement, (ii) demand the fulfillment of our policies, (iii) answer claims regarding the breach or protection of any third party’s rights or its property or security, in the event they are affected by advertisements or contents. Softonic is enabled, as well, to share or transfer your personal information to:
     
-    Members of the Softonic group (Intershare, S.L./Softonic International S.L.): Softonic International S.L., Intershare, S.L., Softonic Inc., Softonic Hong Kong, Softonic Japan K.K. contract services from suppliers that help us with our internal operations in order to provide joint content and services (such as registration, transactions, or customer service), to make the prevention and detection of potentially illegal acts or breaches of our policies easier, or to make decisions regarding products, services and communications. To that end, the User expressly permits Softonic to transfer its personal data for the sole purposes specified in the Privacy Policy.
+    Members of the Softonic group: Softonic International S.L., Softonic Inc., Softonic Hong Kong, Softonic Japan K.K. contract services from suppliers that help us with our internal operations in order to provide joint content and services (such as registration, transactions, or customer service), to make the prevention and detection of potentially illegal acts or breaches of our policies easier, or to make decisions regarding products, services and communications. To that end, the User expressly permits Softonic to transfer its personal data for the sole purposes specified in the Privacy Policy.
     
 2.  Purpose
     
@@ -50,13 +44,13 @@ Personal Data **Protection Policy**
     *   To inform the Users about anything related to the software.
     *   To study and analyze information provided by the Users in order to evaluate new trends or services.
     *   To share and send contents and opinions.
-    *   To send e-communications with promotional and informative purposes regarding the software sector or any others that could be interesting, as the ones indicated on clause 7 below.
+    *   To send electronic communications for promotional and informative purposes regarding the software sector or any other sectors that might be interesting, such as the ones indicated in clause 7 below.
     
     The personal data belonging to Users such as companies, individual authors or group of programmers provided via forms available at "Authors Services" are collected by Softonic with the following purposes:
     
     *   Option only for companies that sell software.
     *   Sale and promotion of software and other content related to electronic means, PC, Mac, mobiles and/or any other electronic communication device.
-    *   To send e-communications with promotional and informative purposes regarding the software sector or any others that could be interesting, as the ones indicated on clause 7 below.
+    *   To send electronic communications for promotional and informative purposes regarding the software sector or any other sectors that might be interesting, such as the ones indicated in clause 7 below.
 3.  Mandatory or optional nature of the information provided by the User and reliability of the information
     
     The User must complete the fields specified with an asterisk (\*) in the registration form, as they are strictly necessary to respond to its request. The filling of the other fields is voluntary.  
@@ -114,7 +108,7 @@ Personal Data **Protection Policy**
     *   Franchises
     *   Financial services:
         *   Finance
-        *   Private bank
+        *   Private banking
         *   Stock market and investments
         *   Brokers
         *   Credit: Loans and mortgages
@@ -148,7 +142,7 @@ Personal Data **Protection Policy**
         *   Rural tourism
         *   Holidays and weekends
         *   Business trips
-    *   Children’s products:
+    *   Children's products:
         *   Products for Babies
         *   Children's shoes
         *   Toys / Educational games
@@ -170,7 +164,7 @@ Personal Data **Protection Policy**
     
     Softonic offers its Users, via previous subscription through his or her personal account, the following services:
     
-    *   All about Software (weekly subscription): The User will receive at his or her e-mail account all the information required to choose the best software: programs’ comparisons, analysis and others.
+    *   All about Software (weekly subscription): The User will receive at his or her e-mail account all the information required to choose the best software: programs' comparisons, analysis and others.
     *   Notices and alerts through e-mail related to downloading programs.
     
     Softonic has established two mechanisms by which users can reject said services, simply and at zero cost.
@@ -204,8 +198,8 @@ Personal Data **Protection Policy**
     
     If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at:
     
-    Softonic  
-    C/Rosselló i Porcel, 21, 12th floor,  
+    Softonic International S.L.  
+    C/Rosselló i Porcel, 21, 17th floor,  
     08016, Barcelona,  
     Spain  
     
@@ -247,8 +241,6 @@ Personal Data **Protection Policy**
     Any doubts or question related to this Personal Data Protection Policy can be sent by email to moc.cinotfos@lagel.
     
 
-5 May 2011
-
 Copyright
 
 All rights of use are reserved.
@@ -269,8 +261,6 @@ The legitimacy of the intellectual or industrial property rights relating to con
 *   **A description of the content that is protected by intellectual property rights and its location on the website.**
 *   Evidence of the existence, ownership and validity of the intellectual property rights in question.
 *   A clear declaration that the complaining party will take full responsibility for the accuracy of the details and information submitted in the notification discussed in this section.
-
-Date: 7 January 2010
 
 Searches:
 
@@ -303,5 +293,7 @@ Searches:
     *   Softonic Moba
     *   Softonic Newsletter
     *   OnSoftware
+
+The name and logo of Softonic are registered trademarks of SOFTONIC INTERNATIONAL S.L.
 
 Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2013 - All rights reserved
