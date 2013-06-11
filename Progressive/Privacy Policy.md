@@ -88,6 +88,8 @@ Privacy &. Security
 
 Follow us
 
+Facebook Icon Twitter Icon Google Plus Icon YouTube Icon RSS Icon
+
 *   Home
 *   Log In
 *   Make a Payment
