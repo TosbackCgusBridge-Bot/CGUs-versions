@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
+        *   Sale: Up to 75% Off
+        *   Select Body Care: $3
+        *   Body Care: Up to 50% Off
+        *   Select Aromatherapy: $6
         *   Signature: Buy 3 Get 2 Free
-        *   New Arrivals
-        *   Online Only: Buy 3 Get 2 Free
-        *   Travel Body Care: 3 for $10
-        *   Save Up to 50% Off Select Items
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -43,15 +43,15 @@ Welcome! **(Log in)**
         *   Accessories
     *   Top Fragrances
         
-        *   Aruba Coconut
         *   Beautiful Day
-        *   Capri Seaside Citrus
+        *   Cotton Blossom
+        *   Exotic Coconut
         *   Forever Red
         *   Japanese Cherry Blossom
-        *   Malibu Heat
+        *   Juniper Breeze
         *   Moonlight Path
         *   Pure Paradise
-        *   Rome Honeysuckle Amore
+        *   Sheer Freesia
         *   Sweet Pea
         *   Warm Vanilla Sugar
         *   View All Fragrances
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Small Candles: $5
+        *   Sale: Up to 75% Off
+        *   Wallflowers Refills: $6
+        *   Select Candles: 50% Off
+        *   Select Home Fragrance: $3
         *   Wallflowers: 6 for $24
-        *   Mini Candles: 3 for $10
-        *   Wallflowers Refills: 3 for $20
-        *   Scentportables: Buy 4 Get 2 Free
     *   Candles
         
         *   3-Wick Candles
@@ -102,11 +102,10 @@ Welcome! **(Log in)**
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
+        *   Sale: Up to 75% Off
         *   Hand Soap: 7 for $20
+        *   Select Soap: $3
         *   PocketBac: 5 for $5
-        *   New! Italy Inspired Soap
-        *   Fresh Picked Market
-        *   Save Up to 50% Off Select Items
     *   Hand Soap
         
         *   Foaming Soap
@@ -125,22 +124,23 @@ Welcome! **(Log in)**
         *   Hand Cream
         *   Hand Wash
     *   Top Fragrances
+        *   Black Raspberry Vanilla
         *   Caribbean Escape
         *   Fresh Picked Strawberries
         *   Fresh Picked Tangerines
-        *   Italian Lavender
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
         *   Peach Bellini
-        *   Sicilian Lemon
-        *   Tuscan Vineyard
+        *   Rainkissed Leaves
+        *   Vanilla Berry Sorbet
+        *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Features
-        *   Wexler: Buy 1 Get 1 50% Off
+        *   Sale: Up to 75% Off
+        *   Select Aromatherapy Bodycare: $6
+        *   Mix &. Match Bodycare: Buy 2 Get 1 Free
+        *   Aromatherapy: Buy 2 Get 1 Free
         *   True Blue Spa: Buy 2 Get 1 Free
-        *   C.O. Bigelow: Buy 2 Get 1 Free
-        *   Lip Gloss: Buy 2 Get 1 Free
-        *   Eucalyptus Spearmint
     *   Aromatherapy
         
         *   Stress Relief
@@ -159,7 +159,7 @@ Welcome! **(Log in)**
         Lip
         
         *   Lip Gloss
-        *   Lip Balms &. Treatments
+        *   Lip Balm &. Wands
         
         Face Care
         *   Skin Treatments
@@ -183,10 +183,10 @@ Welcome! **(Log in)**
         *   Spa Accessories
         *   Shea Socks
 *   *   Features
+        *   Save Up to 75% Off Select Items
+        *   Up to 50% Off Select Gifts &. Accessories
         *   Father's Day Gifts
-        *   Editor's Picks
         *   Online Exclusives
-        *   Save Up to 50% Off Select Items
     *   Shop By Price
         
         *   $15 &. Under Gifts
@@ -214,10 +214,11 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
+        *   Sale: Up to 75% Off
+        *   Select Body Care: $3
         *   Hand Soap: 7 for $20
-        *   Online Only: Buy 3 Get 2 Free
-        *   Wallflowers: 6 for $24
-        *   Wallflowers Refills: 3 for $20
+        *   Wallflowers Refills: $6
+        *   Up to 50% Off Body Care
     *   Body &. Bath
         
         *   Body Lotion
@@ -240,11 +241,11 @@ Welcome! **(Log in)**
     *   Top Fragrances
         *   Black Amethyst
         *   Black Raspberry Vanilla
-        *   Coconut Vanilla
         *   Country Apple
         *   Dark Kiss
-        *   Forever Sunshine
+        *   Exotic Coconut
         *   Juniper Breeze
+        *   Sheer Freesia
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Explore Our Studio
@@ -274,9 +275,10 @@ Welcome! **(Log in)**
         *   Meet Us in Paradise
 
 *   *   Features
+        *   Save Up to 75% Off Select Items
+        *   Up to 50% Off Select Gifts &. Accessories
+        *   Father's Day Gifts
         *   Online Exclusives
-        *   Save Up to 50% Off Select Items
-        *   Editor's Picks
     *   Shop By Price
         
         *   $15 &. Under Gifts
