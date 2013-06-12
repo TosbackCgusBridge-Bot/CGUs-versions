@@ -1,4 +1,5 @@
-*   Help
+*   Subscribe: Digital / Home Delivery
+        campaign: nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2 -- 218268, creative: bar1\_abTest\_hover -- 340400, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
@@ -252,14 +253,7 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Kinky Boots" dances to the top of the Tonys
-
-Also in Arts »
-
-*   Neil Patrick Harris dazzles as host of Tony Awards
-*   In Performance: Shalita Grant
-
-  
+Search Help
 
 *   © 2013 The New York Times Company
 *   Site Map
@@ -273,3 +267,11 @@ Also in Arts »
 *   Help
 *   Contact Us
 *   Site Feedback
+
+campaign: nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2 -- 218268, creative: abTest\_anchoredAd\_campaign2 -- 340411, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1 http://graphics8.nytimes.com/adx/images/ADS/34/04/ad.340411
+
+Try unlimited access to NYTimes.com for just 99¢.
+
+Already a subscriber?
+
+Lorem ipsum dolor sit amet.
