@@ -1,6 +1,6 @@
   United States Online Privacy Statement
 
-Effective Date: April 11, 2013
+Effective Date: June 11, 2013
 
   
  
@@ -122,6 +122,8 @@ You can also:
 *   click _unsubscribe_ on the bottom of e-mails and follow the instructions or go to americanexpress/preferences.
 
   
+We participate in the Digital Advertising Alliance (DAA) self-regulatory program and adhere to the DAA Principles for Online Behavioral Advertising. Click here to learn more about the DAA.  
+
 **Other Information**  
   
 **How can you update your Personal Information?**  
@@ -173,5 +175,6 @@ If you have questions about this Online Privacy Statement, call 1-800-THE-CARD (
   
 **Vendor -** any third party that performs business operations on behalf of American Express, such as printing, mailing, and other communications services (e-mail, direct mail, etc), marketing, data processing, servicing, collections, or ad management. Vendors typically are not Business Partners.  
   
+
   
 FEEDBACK
