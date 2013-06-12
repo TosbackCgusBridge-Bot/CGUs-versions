@@ -2,10 +2,10 @@ Top home | about | sitemap
 
 *   NEW SITES
 *   TOP SITES
-    *   Most Hits
+    *   Most Popular
     *   Highest Ranking
     *   Top Rated
-    *   Best Referrers
+    *   Top Referrers
 *   RESOURCES
     *   All Categories
     *   Add URL
@@ -105,4 +105,5 @@ Free Newsletter  
 RSS Feed    
 Pinterest    
 Stumbleupon    
+Google+    
 +41 76 794 7813 &nbsp Follow @twowaylove\_com ©2009-2013 TwoWayLove.com Dating Directory - All rights reserved -  Made in Switzerland
