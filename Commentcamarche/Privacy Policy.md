@@ -124,13 +124,13 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Conditions generales
 *   Conditions générales d'utilisation site internet
 *   Conditions générales de vente » Forum - Webmaster
-*   Conditions générales d'utilisation » Articles - Guide d'utilisation
+*   Modèle de conditions générales de vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Conditions générales d'utilisation » Articles - Guide d'utilisation
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
 
 Communautés d'assistance et de conseils.
 
-*   Forum Vos droits sur internet
 *   Forum Internet
 *   Forum Webmastering
+*   Forum iPhone
