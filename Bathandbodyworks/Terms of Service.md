@@ -103,8 +103,8 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Hand Soap: 7 for $20
         *   Select Soap: $3
+        *   Hand Soap: 6 for $20
         *   PocketBac: 5 for $5
     *   Hand Soap
         
@@ -216,9 +216,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Select Body Care: $3
-        *   Hand Soap: 7 for $20
         *   Wallflowers Refills: $6
         *   Up to 50% Off Body Care
+        *   Up to 50% Off Select Items
     *   Body &. Bath
         
         *   Body Lotion
