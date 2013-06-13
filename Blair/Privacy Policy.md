@@ -456,7 +456,6 @@ Customer Service
 Email Us  
 FAQs  
   
-  
 Site Map  
 
 About Us
@@ -474,6 +473,7 @@ Shopping Services
 Access My Account  
 Check Order Status  
 Pay Blair VIP Credit Card Bill  
+Buy Gift Cards  
 Place Catalog Order  
 Request a Catalog  
 © 2013 BLAIR, 220 Hickory St., Warren, PA 16366
