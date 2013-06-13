@@ -1,15 +1,24 @@
+Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank, N.A., Walnut Creek, CA., and Synovus Bank, Columbus GA.
+
 *   Home
 *   About Us
 *   Newsroom
 *   Contact Us
 
-*   Products
+*   Merchants
 *   Banks
-*   Partners
-*   Markets
-*   Compliance
+*   Integrated Partners
+*   Associations
+*   Resources
 
-Privacy Policy
+» Client Login
+
+*   Home
+*   About Us
+*   Newsroom
+*   Contact Us
+
+Privacy Policy Privacy Policy
 
 Veracity Payment Solutions (“Veracity”) is dedicated to providing our customers, partners, and suppliers with the best products and services. Veracity recognizes the importance of protecting the privacy of all information provided by users of our web site, registrants for our events, recipients of our emails and all other customers of our products and services. We are committed to protecting your privacy and will only use the information that we collect about you lawfully. We will not share, sell or rent your information to any third party, and will exercise all reasonable efforts to keep the information provided secure.
 
@@ -23,55 +32,18 @@ We may use cookies to:
 *   Compile anonymous statistics on website use
 *   Gather information on the type of Internet browser and operating systems used
 
-*   Quick Login
+Get A Free Quote Questions? Email Us Sign Up to Recieve Our Newsletter Watch our video on why you should choose Veracity for all your payment needs.
+
+*   Merchants
+*   Banks
+*   Integrated Partners
+*   Associations
+*   Resources
+*   Client Login
+*   Home
+*   About Us
+*   Newsroom
 *   Contact Us
-*   Subscribe to RSS
 
-*   Symphony Payment Suite™
-    
-    Veracity Payment Solutions offers Symphony Payment Suite, the latest in web-powered technology to streamline your payment processes, safeguard your customer data and eliminate the need for credit card...
-    
-    Learn More
-    
-*   Payment Gateway
-    
-    The Payment Gateway is the core performer of the virtual suite offering powerful, flexible and affordable Web technology for securely processing your payment transactions. The Gateway supports any eCommerce...
-    
-    Learn More
-    
-*   Virtual POS
-    
-    Utilize a secure, reliable and cost-effective system for authorization and management of payment transactions over the Internet. It is easy to turn your computer into a versatile all-in-one payments tool...
-    
-    Learn More
-    
-*   E-Commerce Toolkit
-    
-    This scalable solution contains integration tools simple enough for new online businesses, yet comprehensive enough for the most demanding e-commerce professional. From a basic “Buy” button and shopping...
-    
-    Learn More
-    
-
-*   Automatic Payment
-    
-    Recurring transactions, such as subscriptions or installment payments are more convenient and efficient with this flexible, secure web-based solution.
-    
-    Learn More
-    
-*   Secure Card Vault
-    
-    With tokenization capabilities you can store your customer credit card, electronic check and other sensitive data in a secure and reliable industry compliant (PCI, PABP) environment without the need to...
-    
-    Learn More
-    
-*   IVR Payment
-    
-    Veracity's Interactive Voice Response (IVR) option is a simple phone-based payments solution that can be used by merchants and their customers to manage and processes payment transactions
-    
-    Learn More
-    
-*   ACH Processing
-    
-    Veracity’s ACH (Automated Clearing House) processing solution works very similar to a paper check without the hassle and expense of handling the paper.
-    
-    Learn More
+Facebook Twitter © Copyright 2012 Veracity Payment Solutions, Inc. | All Rights Reserved  
+Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank, N.A., Walnut Creek, CA., and Synovus Bank, Columbus GA.
