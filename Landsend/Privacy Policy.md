@@ -566,4 +566,4 @@ Make every purchase rewarding. Join today. Earn today. It's free.
 
 JOIN NOW
 
-Sears K-mart View Mobile Version ® Copyright 2013 Lands' End
+Sears K-mart ® Copyright 2013 Lands' End
