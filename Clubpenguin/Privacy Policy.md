@@ -6,6 +6,7 @@ Skip to main content
 *   Parents
 *   Products
 *   Help
+*   Apps
 
 play now Privacy Policy
 
