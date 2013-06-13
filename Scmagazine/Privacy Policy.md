@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Last updated: May 2012**
+**Last updated: June 2013**
 
 US Privacy Policy | International Privacy Policy
 
