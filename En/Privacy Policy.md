@@ -80,15 +80,7 @@ Personal Data **Protection Policy**
     
     **If you are a minor under fourteen and you have accessed this Website without letting your parents know, please do not register as a User.**
     
-7.  Messenger Connect
-    
-    By using Messenger Connect, the user is transferring his/her Messenger data to his/her Softonic user profile.
-    
-    By doing so, a user already registered on Softonic will link his/her Messenger profile to his/her existing Softonic profile, while users who are not previously registered on Softonic will sign up, accepting Softonic's terms and conditions of use, in order to link the two accounts. As laid out in Softonic's legal policy, only users over the age of 14 may register.
-    
-    Softonic complies with privacy and data protection legislation.
-    
-8.  Electronic communications
+7.  Electronic communications
     
     By completing and submitting an electronic form to Softonic, Users expressly consent to receive bulletins concerning the most relevant news, innovation, and information regarding the website, as well as electronic communications relating to the sector and the following sectors:
     
@@ -171,11 +163,11 @@ Personal Data **Protection Policy**
     
     To do so the user must enter the access menu and de-activate the relevant sending options in the electronic communications section. Users can also deactivate this service by clicking on the unsubscribe option at the bottom of the e-mails received.
     
-9.  Security
+8.  Security
     
     Softonic informs Users that it has adopted the technical and organizational measures laid down by law to protect their personal data and to prevent it from being altered, lost, handled or accessed without authorization, bearing in mind the status of the technology, nature of the data saved and the risks to which they are exposed, in accordance with all the regulations in force.
     
-10.  Cookies and IPs
+9.  Cookies and IPs
     
     The User agrees to cookies and IP tracking. Our software and the site's traffic analyzer use cookies and IP trackers that collect data for statistical purposes, including: date of first visit, number of visits, date of last visit, URL and domain, operating system, browser and screen resolution. The User is also free to de-activate and/or eliminate cookies by following the instructions given by their Internet browser.
     
@@ -190,7 +182,7 @@ Personal Data **Protection Policy**
     Softonic also uses cookies related to the Nielsen measuring system.  
     Softonic does not spam and only handles data provided by the Users via the Website or email messages.
     
-11.  Right to Acces, Correct and Cancel Data
+10.  Right to Acces, Correct and Cancel Data
     
     The User is entitled to access this information, correct it if there are mistakes and cancel their Softonic account.
     
@@ -207,15 +199,15 @@ Personal Data **Protection Policy**
     
     Personal data processing, as well as commercial electronic communications, are in accordance with the regulations currently in force.
     
-12.  Modification of the Data Protection Policy
+11.  Modification of the Data Protection Policy
     
     Softonic reserves the right to modify this policy to adapt it to future legislative or case law developments.
     
-13.  Applicable Law
+12.  Applicable Law
     
     Unless a specific local regulation sets forth the contrary, the Data Protection Policy and the rest of the Legal Conditions concerning the website are governed by Spanish law.
     
-14.  Contents provided by SOFTONIC users
+13.  Contents provided by SOFTONIC users
     
     By providing content on SOFTONIC's Web sites, the user declares that he or she is the legitimate owner of the intellectual and industrial property rights or is authorized to distribute the content and communicate it to the public, and authorizes and therefore expressly assigns to SOFTONIC the content provided so that it may be copied, distributed, and publically communicated through any electronic means, primarily Internet and e-mail, throughout the world, and for an indefinite period of time.
     
@@ -236,7 +228,7 @@ Personal Data **Protection Policy**
     
     Any user who uploads content that contravenes the laws in force shall assume sole responsibility for the damages and consequences that arise therefrom, releasing SOFTONIC from any liability.
     
-15.  Questions regarding this Policy
+14.  Questions regarding this Policy
     
     Any doubts or question related to this Personal Data Protection Policy can be sent by email to moc.cinotfos@lagel.
     
