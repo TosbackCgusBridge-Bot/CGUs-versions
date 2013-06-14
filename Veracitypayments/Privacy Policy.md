@@ -11,26 +11,54 @@ Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank,
 *   Associations
 *   Resources
 
-» Client Login
+» Client Login **NEWS:** TSYS Signs Contract Extension With Veracity Payment Solutions Veracity Payments Announces $80M Commitment from Great Hill Partners Veracity Payment Solutions Named as One of the Top Merchant Acquirers Veracity Payment Solutions Purchase Worldnet Payment Gateway Software Boosterthon Fun Run Selects Veracity Payment Solutions for Gateway Solution
 
-*   Home
-*   About Us
-*   Newsroom
-*   Contact Us
+*   Quick Links
+*   Featured Product
+*   Symphony Payment Suite
+*   Customer Care
 
-Privacy Policy Privacy Policy
+**What’s better than a word-of-mouth recommendation?** A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual will continue to come back, because he or she is anxious to reap the benefits of your loyalty card program. Gift cards and loyalty cards, whether physical or virtual, earn the same thing: Extra business and recognition for your organization. Featured Posts From the Veracity Blog The Many Ways Your Business Can Benefit from Gift Card ProgramsMarch 30, 2013
 
-Veracity Payment Solutions (“Veracity”) is dedicated to providing our customers, partners, and suppliers with the best products and services. Veracity recognizes the importance of protecting the privacy of all information provided by users of our web site, registrants for our events, recipients of our emails and all other customers of our products and services. We are committed to protecting your privacy and will only use the information that we collect about you lawfully. We will not share, sell or rent your information to any third party, and will exercise all reasonable efforts to keep the information provided secure.
+What’s better than a word-of-mouth recommendation? A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual … Continue reading →
 
-Cookies
+The Simple Secret to Implementing Loyalty ProgramsMarch 29, 2013
 
-When you visit our website we may send you a cookie. A cookie stores a small data file on your computer. This file enables us to recognize you each time you visit us. Cookies help us in many ways, for example, by saving your region and language preference and for purposes of collecting non-personal data. Our web security cookies are not used to collect personal information on this web site.
+“Handling gift cards and loyalty programs is a natural extension of the whole business of transacting, from both the customer and merchant perspectives,” says Rick Caldarella, vice president of product management at Veracity Payment Services. That’s why Veracity offers a … Continue reading →
 
-We may use cookies to:
+View Veracity Blog Product Highlights
 
-*   Count the number of times you visit our sites
-*   Compile anonymous statistics on website use
-*   Gather information on the type of Internet browser and operating systems used
+Symphony Payment Suite™
+
+The latest in web-powered technology to help you streamline your payment processes.
+
+Automatic Payment
+
+Web-based solution for recurring transactions such as subscriptions or installmnet payments.
+
+Payment Gateway
+
+Core performer of the virtual suite offereing powerful, affordable web technology.
+
+Secure Card Vault
+
+Tokenization capabilities allow you to securely store your customers’ sensitive data.
+
+Virtual POS
+
+Manage your transactions by turning your computer into a virtual all-in-one payments tool.
+
+IVR Payment
+
+A simple, phone-based payments solution to manage and process payment transactions.
+
+E-Commerce Toolkit
+
+Integration tools for new online businesses and demanding e-commerce professionals alike.
+
+ACH Processing
+
+Works very similar to a paper check without the hassle and expense of handling the paper.
 
 Get A Free Quote Questions? Email Us Sign Up to Recieve Our Newsletter Watch our video on why you should choose Veracity for all your payment needs.
 
