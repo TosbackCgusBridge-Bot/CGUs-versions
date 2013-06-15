@@ -9,7 +9,7 @@ Welcome! **(Log in)**
         *   Sale: Up to 75% Off
         *   Select Body Care: $3
         *   Body Care: Up to 50% Off
-        *   Select Aromatherapy: $6
+        *   Select Aromatherapy: $5
         *   Signature: Buy 3 Get 2 Free
     *   Lotions &. Creams
         
@@ -137,7 +137,7 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Aromatherapy Bodycare: $6
+        *   Select Aromatherapy Bodycare: $5
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
         *   Aromatherapy: Buy 2 Get 1 Free
         *   True Blue Spa: Buy 2 Get 1 Free
@@ -217,7 +217,7 @@ Welcome! **(Log in)**
         *   Sale: Up to 75% Off
         *   Select Body Care: $3
         *   Wallflowers Refills: $6
-        *   Up to 50% Off Body Care
+        *   $4 &. Up Body Care
         *   Up to 50% Off Select Items
     *   Body &. Bath
         
