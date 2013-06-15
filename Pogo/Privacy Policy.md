@@ -16,7 +16,7 @@ VI. What Happens To The Information EA Collects?
 VII. Where Is The Information Held?  
 VIII. How Does EA Protect Your Personal Information?  
 IX. Review, Correction of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account  
-X. A Special Note About Children.  
+X. A Special Note About Children  
 XI. Public Information Including User Generated Content, Online Forums, Blogs And Profiles  
 XII. Third Party Sites  
 XIII. Products Offered In Partnership With Third Party(s)  
