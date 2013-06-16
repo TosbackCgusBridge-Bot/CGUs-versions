@@ -90,7 +90,7 @@ This Privacy Policy is effective as of April 10, 2013
  **Standard Image Link Sign-Up Policy**  
  **Customer Feedback (Contact Us) Policy**  
   
-You may contact us by e-mail at information@NADAguides.com. Or you can call us at 800-966-6232 or PO Box 7800, Costa Mesa, CA 92628. Privacy Policy  
+You may contact us by e-mail at \[email protected\]. Or you can call us at 800-966-6232 or PO Box 7800, Costa Mesa, CA 92628. Privacy Policy  
 
 General Policy
 
