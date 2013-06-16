@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Body Care: $3
-        *   Body Care: Up to 50% Off
+        *   Select Body Care: $3 &. Up
+        *   $3 &. Up Online Exclusive Body Care
+        *   Body Care: $4 &. Up
         *   Select Aromatherapy: $5
-        *   Signature: Buy 3 Get 2 Free
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -184,8 +184,7 @@ Welcome! **(Log in)**
         *   Shea Socks
 *   *   Features
         *   Save Up to 75% Off Select Items
-        *   Up to 50% Off Select Gifts &. Accessories
-        *   Father's Day Gifts
+        *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
         
@@ -215,10 +214,10 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Body Care: $3
+        *   Select Body Care: $3 &. Up
+        *   $3 &. Up Online Exclusive Body Care
         *   Wallflowers Refills: $6
-        *   $4 &. Up Body Care
-        *   Up to 50% Off Select Items
+        *   Select Body Care: $4 &. Up
     *   Body &. Bath
         
         *   Body Lotion
@@ -276,8 +275,7 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Save Up to 75% Off Select Items
-        *   Up to 50% Off Select Gifts &. Accessories
-        *   Father's Day Gifts
+        *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
         
