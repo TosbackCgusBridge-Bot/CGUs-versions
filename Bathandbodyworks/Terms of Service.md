@@ -181,7 +181,6 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
         *   Spa Accessories
-        *   Shea Socks
 *   *   Features
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
@@ -207,8 +206,6 @@ Welcome! **(Log in)**
         *   PocketBac Holders
         *   Soap Accessories
         *   Candle Accessories
-        *   Shea Socks
-        *   Totes
     *   More Gift Giving
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
@@ -298,8 +295,6 @@ Welcome! **(Log in)**
         *   PocketBac Holders
         *   Soap Accessories
         *   Candle Accessories
-        *   Shea Socks
-        *   Totes
     *   More Gift Giving
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
