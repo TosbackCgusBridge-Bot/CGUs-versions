@@ -10,7 +10,7 @@ Welcome! **(Log in)**
         *   Select Body Care: $3 &. Up
         *   $3 &. Up Online Exclusive Body Care
         *   Body Care: $4 &. Up
-        *   Select Aromatherapy: $5
+        *   Select Aromatherapy: $6
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -137,7 +137,7 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Aromatherapy Bodycare: $5
+        *   Select Aromatherapy Bodycare: $6
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
         *   Aromatherapy: Buy 2 Get 1 Free
         *   True Blue Spa: Buy 2 Get 1 Free
