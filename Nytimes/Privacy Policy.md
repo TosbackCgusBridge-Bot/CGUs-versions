@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Tech companies tread lightly in statements on U.S. spying
+Search Help Lawsuit tries creative approach against Fannie and Freddie bailout
 
 Also in Dealbook »
 
-*   Dole Food receives unsolicited takeover offer from C.E.O.
-*   Want to commit insider trading? Here's how not to do it
+*   A warning shot on management buyouts
+*   "Wolf of Wall Street": Boiler-room antics on the big screen
 
   
 
