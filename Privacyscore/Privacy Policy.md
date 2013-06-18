@@ -67,4 +67,4 @@ Please stay in touch.
 
 We encourage questions and comments on our privacy policy, and anything else that can help improve our service. Please contact us at privacy@privacychoice.org or use our contact form.
 
-Copyright © 2012 PrivacyChoice LLC - privacyscore is a trademark of PrivacyChoice
+Copyright © 2013 AVG Netherlands BV
