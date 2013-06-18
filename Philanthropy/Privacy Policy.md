@@ -1,3 +1,5 @@
+June 17, 2013
+
 **
 
 The Chronicle is committed to protecting the privacy of its subscribers and other users of its online services. The following policies apply to Philanthropy.com and any other Chronicle of Philanthropy Web sites.
@@ -37,6 +39,10 @@ As is standard practice on many Web sites, The Chronicle uses "cookies" and othe
 We reserve the right to place a cookie on your computer with a unique, anonymous number to ensure that your browser does not see the same advertisement repeatedly, to present ads in a series or sequence, and to measure the number of unique visitors who have viewed a particular ad. We use cookies to store visitors' preferences, record past activity at a site in order to provide better service when visitors return, and to customize Web page content based on visitors' browser type or other information that the visitor has provided.
 
 In addition, advertisers may elect to use third-party advertising companies to serve ads on our Web site. In the course of delivering these advertisements, the third-party advertisers may place or recognize a unique cookie on your computer. We do not have access to these cookies or any information that they may contain. You may block cookies from loading but doing so may prevent our site from working properly in your browser.
+
+Third party analytics
+
+We use third party service providers, including Inspectlet, Google Analytics, and other companies, to evaluate and analyze the activities of visitors to our Site, including the use of our Services. We use analytics to help us improve our Site and our Services, performance and user experiences. These third party service providers will use cookies and other tracking technologies to conduct the analytics. One of our analytics providers, Inspectlet, will have access to personal information that you submit through this Site. Inspectlet’s access to and use of your personal information is governed by its privacy policy: https://www.inspectlet.com/legal#privacy.
 
 IP addresses
 
