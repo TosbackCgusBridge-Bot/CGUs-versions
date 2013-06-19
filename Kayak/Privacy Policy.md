@@ -32,7 +32,7 @@ We may share information you provide us with third parties for our legitimate bu
 
 What's yours is yours. We won't sell your name, email address, phone number, credit card information, passport number or billing address to anyone. There might be an exception in the event KAYAK itself is sold or if there is otherwise a change in corporate ownership. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that PII can be collected and used by others.
 
-If you book on our site, we will share your PII with the selected hotels, airlines and car rental companies to complete your booking and/or to comply with applicable law. We may also share this PII with our corporate affiliates.
+If you book on our site, we will share your PII with the selected online travel agencies, hotels, airlines and car rental companies to complete your booking and/or to comply with applicable law. We may also share this PII with our corporate affiliates.
 
 From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.
 
