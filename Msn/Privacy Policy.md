@@ -1,4 +1,4 @@
-Click Here to Install Silverlight United Kingdom Change | All Microsoft Sites Search Microsoft.com for:  
+United Kingdom Change | All Microsoft Sites Search Microsoft.com for:  
 Microsoft Online Privacy Statement Supplemental Privacy Information • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Support Services • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Games for Windows LIVE and Xbox.com Related Links • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
 
 (last updated April 2012)  
