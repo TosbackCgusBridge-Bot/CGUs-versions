@@ -1,47 +1,113 @@
-_We recommend that you view our Privacy Policy online or on your mobile device for a better design and navigation experience and the ability to seamlessly access links and other documents. This version is provided so that you can print a version of our full Privacy Policy in a single document._
+Verizon is Committed to Protecting Your Privacy
 
-Infórmate sobre nuestras políticas de privacidad para aplicaciones y servicios.
+Protecting our customers' privacy is an important priority at Verizon and we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options with regard to that collection and use. Key elements of our full privacy policy are summarized below.
 
-Lee las políticas para las aplicaciones y servicios que utilizas.
+Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.  
+Read more
 
-Apps and Services Menu Gizmo
+Information We Collect and How We Use It
 
-*   Message+
-*   Hum
-*   Smart Family
-*   Gizmo
-*   AppFlash
-*   Wild and Seek
-*   Navigator
-*   Care Smart
+Verizon collects and uses information about our customers and website visitors for a variety of purposes. Information is obtained when you interact with us, when you use our products and services, and when you visit our websites.
 
-*   Message+
-*   Hum
-*   Smart Family
-*   Gizmo
-*   AppFlash
-*   Wild and Seek
-*   Navigator
-*   Care Smart
+This information is used to deliver, provide, and repair products or services. establish and maintain customer accounts and billing records. contact you about our products and services and better direct specific offers or promotions to you. monitor website statistics. manage and protect our networks. monitor our customer service employees. and establish your online account. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.
 
-Gizmo Introducción
+We may also obtain consumer information such as demographic and interest data from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and to direct marketing offers.  
+Read more
 
-Los productos y servicios de Gizmo de Verizon incluyen tablets y accesorios vestibles, así como la aplicación GizmoHub que les permite a los padres ubicar y supervisar el uso de los dispositivos Gizmo. Las prácticas de privacidad de Gizmo están cubiertas por la Política de privacidad de Verizon, así como por las prácticas que se describen aquí. Si hay un conflicto entre las dos políticas, las prácticas descritas en esta política regirán cuando utilices los productos y servicios de Gizmo. Lee la Política de privacidad de Verizon
+Information Provided to or Used by Third-Party Advertisers
 
-Información que recopilamos y cómo se utiliza.
+You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, third-party advertisers seek to provide advertising that they believe is more relevant to your interests. In these instances, cookies may be placed and used by advertising companies to collect information about your visit to our websites and may be combined with similar information obtained from other websites. We also may provide third-party advertisers with geographic or demographic information that allows them to tailor their ads. This information does not identify you individually. You have choices about how to limit the use of your information.  
+Read more
 
-Recopilamos información cuando instalas los servicios de Gizmo a través de la aplicación GizmoHub, incluyendo tu nombre, número de teléfono móvil, dirección de correo electrónico y nombre, edad y sexo del niño. Según el dispositivo Gizmo que utilice tu niño, podemos recopilar identificadores e información de geolocalización del dispositivo. Los accesorios vestibles Gizmo también pueden recopilar en número de pasos dados, uso de llamadas y mensajes de texto e mensajes intercambiados entre el accesorio vestible y la aplicación GizmoHub. Las tablet Gizmo recopilan información de uso de GizmoTab Kids World, tal como nombres de aplicaciones usadas y uso.  
+Information We Share  
+Within the Verizon Family of Companies:
+
+Verizon shares customer information within our family of companies for operational purposes. We also share customer information within our family of companies for our own marketing purposes unless you advise us not to. Specific laws govern our sharing and use of certain customer information known as Customer Proprietary Network Information.  
+Read more
+
+Outside the Verizon Family of Companies:
+
+Except in certain circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and to the extent reasonably necessary for them to perform work on our behalf. Verizon may also share certain information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
+Read more
+
+How to Limit the Sharing and Use of Your Information  
+Your Choices
+
+*   Customer Information:
+    
+    You may choose to opt out of the sharing of specific customer information, within the Verizon family of companies for certain marketing purposes.  
+    Read more
+    
+*   Telemarketing:
+    
+    You may request to be removed from the Verizon telemarketing lists at any time.  
+    Read more
+    
+*   Marketing Email, Postal Mail and Door-to-Door Calls:
+    
+    You may opt out of receiving marketing-related emails, text messages, or postal mailings or prevent door-to-door marketing.  
+    Read more
+    
+*   Information Used for Online Advertising:
+    
+    You have choices about whether certain information collected on websites, including Verizon's, is used to customize advertising based on predictions generated from your visits over time and across different websites.  
+    Read more
+    
+*   Wireless Location Services:
+    
+    Verizon Wireless services that use mobile device location data provide you with notice about the collection and use of this data as well as choices about whether specific location-tracking features available on your phone are turned on.  
+    Read more
+    
+*   FiOS TV Services:
+    
+    Specific cable-related privacy protections apply to Verizon's FiOS TV subscribers.  
+    Read more
+    
+*   Geographic and Relevant Mobile Advertising:
+    
+    Verizon wireline Internet access customers may opt-out of participating in certain geographically-based advertising programs. Verizon Wireless Internet customers may opt-out of participating in relevant mobile advertising programs.  
+    Read more
+    
+*   Business and Marketing Reports:
+    
+    Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.  
+    Read more
+    
+*   Parental Controls:
+    
+    Age-based content controls are available for parents of Verizon's Internet, Wireless and TV services.  
+    Read more
+    
+
+Information Security
+
+Verizon has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of customer information we maintain.  
+Read more
+
+Contact Information
+
+If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, you may contact us at:  
   
-La información que recopilamos se utiliza para proporcionar, mantener, respaldar y mejorar los servicios de Gizmo, lo cual incluye proporcionarte información de geolocalización precisa de tus dispositivos Gizmo y análisis.  
-  
-Recopilamos solo la información razonablemente necesaria de los dispositivos Gizmo para proporcionar los servicios de Gizmo. Los productos y servicios de Gizmo no permiten que los niños pongan su información personal a disposición del público.
+Verizon Privacy Office  
+1320 North Courthouse Road  
+9th Floor  
+Arlington, VA 22201  
+Fax: 703-351-3669  
+Email: privacyoffice@verizon.com
 
-Información que compartimos.
+Accessing and Updating Your Information
 
-Compartimos información con proveedores y socios que trabajan en nuestro nombre. Estos proveedores y socios pueden usar la información personal compartida con ellos solamente para fines relacionados con la prestación de servicios de Gizmo.
+You may correct inaccuracies in your information by calling a customer service representative or by accessing your online account and updating your information.  
+Read more
 
-Tus opciones.
+Changes to the Privacy Policy
 
-Se les pide a los padres que proporcionen determinados consentimientos cuando instalan los servicios de Gizmo a través de la aplicación GizmoHub. Específicamente, se les pide a los padres que consientan que todos los dispositivos Gizmo que están enlazados con la aplicación recopilen identificadores y geolocalización de dispositivo, y para que los accesorios vestibles Gizmo recopilen los pasos dados y el uso de llamadas y mensajes de texto. Los padres pueden revocar su consentimiento en cualquier momento, sin embargo, ciertos servicios de Gizmo no estarán disponibles sin consentimiento. Los padres pueden consultar la información recopilada de los dispositivos Gizmo, como identificadores de dispositivo, geolocalización, pasos, información del uso de llamadas y mensajes, y uso de la aplicación Kids World. Para obtener más información o asistencia con estas elecciones, y ver la información recolectada, puedes contactarnos en gizmopalsupport@verizonwireless.com.
+If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism.  
+Read more
 
-**Última actualización: octubre de 2019**
+Verizon is a licensee of the TRUSTe Privacy Program.  
+Read more
+
+Updated September 2011
+
+© 2009, 2011 Verizon. All Rights Reserved.
