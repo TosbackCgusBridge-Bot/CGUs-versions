@@ -1,4 +1,4 @@
-Click Here to Install Silverlight United States Change | All Microsoft Sites Search Microsoft.com for:  
+United States Change | All Microsoft Sites Search Microsoft.com for:  
 Microsoft Online Privacy Notice Highlights
 
   
