@@ -1,4 +1,4 @@
-Clique aqui para instalar o Silverlight Brasil Alterar | Todos os sites da Microsoft Procurar no Microsoft.com por:  
+Brasil Alterar | Todos os sites da Microsoft Procurar no Microsoft.com por:  
 Microsoft Online Privacy Statement Informações complementares sobre privacidade • Bing • Messenger • Publicidade da Microsoft • Candidatar a um Emprego na Microsoft • Leitor de Tag da Microsoft • MSN • Office.com • Serviços de Suporte • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jogos para o Windows LIVE e Xbox.com Links relacionados • Iniciativas de Privacidade da FTC • Segurança em Casa • Declaração de Privacidade da Silverlight • Computação Confiável
 
 (última atualização em Abril-12)  
