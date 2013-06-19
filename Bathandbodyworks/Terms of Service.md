@@ -8,8 +8,8 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Select Body Care: $3 &. Up
-        *   $3 &. Up Online Exclusive Body Care
         *   Body Care: $4 &. Up
+        *   Online Only Body Care: $3 &. Up
         *   Select Aromatherapy: $6
     *   Lotions &. Creams
         
@@ -62,8 +62,8 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
+        *   Select Candles: $9
         *   Wallflowers Refills: $6
-        *   Select Candles: 50% Off
         *   Select Home Fragrance: $3
         *   Wallflowers: 6 for $24
     *   Candles
@@ -212,7 +212,7 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Select Body Care: $3 &. Up
-        *   $3 &. Up Online Exclusive Body Care
+        *   Online Only Body Care: $3 &. Up
         *   Wallflowers Refills: $6
         *   Select Body Care: $4 &. Up
     *   Body &. Bath
