@@ -34,12 +34,12 @@ It may also include information you give us about other people, such as the name
 **Information from Other Sources**  
 We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
 
-**Automatic Information**  
-Like many other websites, we also collect information through cookies and other automated means. Cookies are commonly used by websites to save data on your computer. The information we collect from cookies may include your IP address, browser and device characteristics, referring URLs, and a record of your interactions with our websites. We use cookies to create a more personalized shopping experience on our websites.
+**Automatic Information Collection**  
+We collect information related to your interactions on our websites, such as your IP address, your browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. The information we collect and the technologies we use are designed to create a superior, personalized shopping experience.
 
-One type of cookie may allow us to identify you as a particular Best Buy retail store customer when you visit our websites and to link your activities on our websites to your interactions with us in our stores. In combination with other information we collect, this cookie may facilitate the tailoring of advertisements and offers to you, sometimes in connection with interest-based advertising.
+Cookies and related technology also allow us to identify you as a particular Best Buy retail store customer when you visit our websites, and to link your activities on our websites to your interactions with us in our stores. In combination with other information we collect, this information is also used to create a superior, personalized shopping experience.
 
-To help us understand and enhance our interactions with visitors to our websites, we may permit web analytics providers to collect information on our websites using automated tools like cookies or web beacons. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
+To help us understand and enhance our interactions with you, we may permit web analytics and other providers to collect and process information on our websites using the technologies described above. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
 
 **Location Information**  
 Some of our websites and mobile applications may collect certain information such as the type of mobile device you're using or your specific location to help you search for one of our stores. To allow any application to identify your location, you must enable this functionality through your mobile device's settings to allow the use of technologies such as Wi-Fi, GPS signals, cell tower position, or other technologies. Best Buy has no control over your device's settings.
@@ -163,4 +163,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated: 1.12.2013
+Last Updated: 6/19/2013
