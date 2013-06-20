@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Soaps
         *   Select Body Care: $3 &. Up
-        *   Body Care: $4 &. Up
-        *   Online Only Body Care: $3 &. Up
-        *   Select Aromatherapy: $6
+        *   Body Care: Up to 50% Off
+        *   Online Only Body Care: $4 &. Up
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -62,10 +62,10 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Candles: $9
+        *   One Day Deal: Soaps
+        *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
         *   Select Home Fragrance: $3
-        *   Wallflowers: 6 for $24
     *   Candles
         
         *   3-Wick Candles
@@ -103,14 +103,12 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Soap: $3
-        *   Hand Soap: 6 for $20
+        *   One Day Deal: Soaps
         *   PocketBac: 5 for $5
     *   Hand Soap
         
         *   Foaming Soap
         *   Deep Cleansing Soap
-        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
@@ -137,10 +135,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Soaps
         *   Select Aromatherapy Bodycare: $6
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
         *   Aromatherapy: Buy 2 Get 1 Free
-        *   True Blue Spa: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -212,9 +210,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Select Body Care: $3 &. Up
-        *   Online Only Body Care: $3 &. Up
+        *   Online Only Body Care: $4 &. Up
         *   Wallflowers Refills: $6
-        *   Select Body Care: $4 &. Up
+        *   Body Care: Up to 50% Off
     *   Body &. Bath
         
         *   Body Lotion
@@ -228,7 +226,6 @@ Welcome! **(Log in)**
         
         *   Deep Cleansing Soap
         *   Foaming Soap
-        *   Moisturizing Soap
         
         For the Home
         *   Candles
