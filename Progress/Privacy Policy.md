@@ -21,7 +21,11 @@ The Summer of Audi Event
 
 It's time to explore the Summer of Audi special offers, put the top down and take to the open road. Get ready for the signature Audi performance and luxury.
 
-See special offers TDI® clean dieselGetting more from less.
+See special offers The 24 Hours of Le MansWe're out to make history again.
+
+Le Mans is a grueling test of both man and machine, a 24-hour-long race, and the only breaks are pit stops. The trick with pit stops? Not needing as many. And thanks to TDI® clean diesel, we didn't. Last year, Audi made history by being the first team to win the race in a hybrid.
+
+Fuel your passion for motorsport TDI® clean dieselGetting more from less.
 
 Audi pioneered TDI® clean diesel engines to deliver more torque, lower fuel consumption and reduce CO2 emissions, compared to equivalent gasoline engines. The result of this revolutionary engineering delivers remarkable performance, while achieving increased fuel economy.
 
