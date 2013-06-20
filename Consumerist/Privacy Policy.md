@@ -56,7 +56,9 @@ The Help function on most browsers contains information on how to set your brows
 
 We accept no free samples or corporate sponsorships.  We accept no outside advertising other than  promotional materials from our legally affiliated organizations, which include two non-profit organizations, Consumers Union of United States, Inc., doing business as Consumer Reports, a 501(c)(3) nonprofit organization and Consumers Union Action Fund, Inc., a 501(c)(4) nonprofit consumer advocacy organization.  These organizations do not accept outside advertising.
 
-Consumer Reports may use cookies on our Site, for example, to advertise its products and services. Consumer Reports’ use of cookies is governed by its privacy policy, which is accessible here http://www.consumerreports.org/privacy.
+Consumer Reports may use cookies on our Site, for example, to advertise its products and services. Consumer Reports’ use of cookies is governed by its privacy policy, which is accessible here  
+http://www.consumerreports.org/privacy  
+.
 
 To prevent other sites from placing cookies on your computer, you will need to visit each Web site and use their cookie-removal process or set your browser cookie filter accordingly.
 
@@ -84,7 +86,11 @@ We may purchase or establish a business or sell one or more of our businesses an
 
 We reserve the right to share your personal information with legal authorities if required by law, for example, to comply with a court order or subpoena, or if we determine in our sole discretion that it is necessary to investigate, prevent or take action regarding suspected illegal activities, any violations of our User Agreement, or in connection with any safety or security concerns.
 
-Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (http://consumerist.com/user-agreement/)(e.g., libels them or infringes their intellectual property rights), then in accordance with our User Agreement(http://consumerist.com/user-agreement/), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
+Please be aware that if you register as a commenter on one of our Sites and a third party subsequently complains that one or more of your comments breaches our User Agreement (  
+http://consumerist.com/user-agreement/  
+)(e.g., libels them or infringes their intellectual property rights), then in accordance with our User Agreement(  
+http://consumerist.com/user-agreement/  
+), we will make reasonable efforts to contact you and alert you to the situation. If we are required to by law to disclose your contact information, we will first attempt to contact you to provide an opportunity to respond to such request.
 
 **Mandatory Disclosure for Certain Promotional Offers, Sweepstakes or Contests**
 
