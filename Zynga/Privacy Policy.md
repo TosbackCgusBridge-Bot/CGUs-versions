@@ -61,7 +61,7 @@ Privacy
     *   Cookies
     *   Privacy Policy
 
-Privacy Policy Languages EnglishFrançaisDeutschItaliano日本語Portuguese, InternationalEspañol
+Privacy Policy Languages EnglishFrançaisDeutschItaliano日本語한국어Portuguese, InternationalEspañol
 
 (Last updated on September 30, 2011)
 
