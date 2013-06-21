@@ -15,7 +15,7 @@ Date of Last Revision: March, 2012
 
 This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia (the “Site” or “Service”) and services that are owned and operated by Wikia, Inc ("the Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls.
 
-The Information We Collect, And What We Do With It Edit In General Edit
+The Information We Collect, And What We Do With It In General
 
 In order to sign up for a Wikia account, your chosen username, a valid email address, password, and date of birth are required. “Optional information” that we request you provide may include your first name, last name, and your gender. We may also request that you provide additional “optional information” such as your interests and hobbies for purposes of enhancing your profile among the Wikia community. Any “optional information” you choose to provide may be made public. We use this information to improve your experience with the Service, including the proper targeting of advertisements.
 
@@ -31,11 +31,11 @@ You are not required to register for an account or to provide any personal infor
 
 Wikia collects all the information you provide when you modify the content of a page or the Service (such as making edits, uploading images, etc.) An indicator that you provided that information is left on the History tab associated with the edited page or appropriate special/image page. on the Recent Changes link, in the Community box on the left side of the wiki pages, and in your user contributions.
 
-Online behavioral advertisingEdit
+Online behavioral advertising
 
 This site works with third parties, including advertising companies and website analysis firms, who use cookies to collect Non-Personally Identifiable Information ("Non-PII") when you visit our Site and third party sites about your surfing activities. This Non-PII, collected through cookies, is typically used by these third party advertising networks to serve you with advertisements while on third party sites tailored to meet your preferences and likely interests. If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out, or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site, http://www.networkadvertising.org/managing/opt\_out.asp
 
-Sharing Your Information Edit
+Sharing Your Information
 
 Wikia only shares your information with others in the following circumstances:
 
