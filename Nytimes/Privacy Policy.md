@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Bill Cunningham: Darned if they do
+Search Help Marriage, the job
 
-Also in Video »
+Also in Arts »
 
-*   The trial of Whitey Bulger
-*   Bill Nye's battle for science
+*   "Seven American Deaths and Disasters"
+*   Neil Patrick Harris set to star in "Hedwig" on Broadway
 
   
 
@@ -275,7 +275,7 @@ Also in Video »
 *   Contact Us
 *   Site Feedback
 
-campaign: nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2 -- 218268, creative: abTest\_anchoredAd\_campaign2 -- 340411, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1 http://graphics8.nytimes.com/adx/images/ADS/34/04/ad.340411
+campaign: nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2 -- 218268, creative: abTest\_anchoredAd\_campaign3 -- 341215, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1 http://graphics8.nytimes.com/adx/images/ADS/34/12/ad.341215 http://www.nytimes.com/adx/bin/adx\_click.html?type=goto&opzn&page=www.nytimes.com/content/help/front.html&pos=Inv1&sn2=d03cb75/c6402728&sn1=92a70746/3460ccb4&camp=nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2&ad=abTest\_anchoredAd\_campaign3&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D218268%26adxa%3D341215%26page%3Dwww.nytimes.com/content/help/front.html%26pos%3DInv1%26campaignId%3D3JRUW
 
 Try unlimited access to NYTimes.com for just 99¢.
 
