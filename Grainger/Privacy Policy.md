@@ -11,7 +11,7 @@ Links
 Policy Updates  
 Non-US Users
 
-Last Revised: 10/2012
+Last Revised: 06/2013
 
 **About This Policy**  
 This notice describes the information practices of W.W. Grainger, Inc. and its subsidiaries, divisions, affiliates, and brands (collectively “We”) as it relates to the websites on which this policy is posted (“Site”). This includes mobile websites and smart phone applications. It does not apply to information We might collect on other sites or in other forums, including by email or offline.
