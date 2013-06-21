@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: Soaps
         *   Select Body Care: $3 &. Up
         *   Body Care: Up to 50% Off
         *   Online Only Body Care: $4 &. Up
+        *   One Day Deal: $5 Body Care
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -62,10 +62,10 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: Soaps
         *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
         *   Select Home Fragrance: $3
+        *   One Day Deal: $5 Body Care
     *   Candles
         
         *   3-Wick Candles
@@ -103,12 +103,15 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: Soaps
+        *   Select Soap: $3
+        *   One Day Deal: $5 Body Care
+        *   Hand Soap: 6 for $20
         *   PocketBac: 5 for $5
     *   Hand Soap
         
         *   Foaming Soap
         *   Deep Cleansing Soap
+        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
@@ -135,10 +138,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: Soaps
-        *   Select Aromatherapy Bodycare: $6
+        *   Select Aromatherapy Bodycare: 50% Off
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
         *   Aromatherapy: Buy 2 Get 1 Free
+        *   One Day Deal: $5 Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -183,6 +186,7 @@ Welcome! **(Log in)**
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
         *   Online Exclusives
+        *   One Day Deal: $5 Body Care
     *   Shop By Price
         
         *   $15 &. Under Gifts
@@ -212,7 +216,7 @@ Welcome! **(Log in)**
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4 &. Up
         *   Wallflowers Refills: $6
-        *   Body Care: Up to 50% Off
+        *   One Day Deal: $5 Body Care
     *   Body &. Bath
         
         *   Body Lotion
@@ -226,6 +230,7 @@ Welcome! **(Log in)**
         
         *   Deep Cleansing Soap
         *   Foaming Soap
+        *   Moisturizing Soap
         
         For the Home
         *   Candles
