@@ -510,6 +510,7 @@ Policies
 *   Corrections Policy
 *   Editorial Policy
 *   Privacy Policy
+*   Our Sponsors
 *   Terms and Conditions of Use
 
 Important Information &. FAQs
@@ -517,7 +518,6 @@ Important Information &. FAQs
 *   Community Overview
 *   Privacy FAQs
 *   Privacy Terms
-*   Our Sponsors
 *   How We Protect Your Information
 *   Spam FAQs
 *   How to Change Your Profile Settings
