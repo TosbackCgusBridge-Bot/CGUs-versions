@@ -106,7 +106,7 @@ We may change from time to time the terms of Our Privacy Policy. The mention of 
 If you have any questions, you can contact us through our contact form.
 
 If you have questions or other inquiries, please use our email form  
-Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com Connect with id.net Y8.com project : free videos, animation, music, photo and games storage started year 2006.
+Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com Y8.com project : free videos, animation, music, photo and games storage started year 2006.
 
 *   English
 *   Руcский
