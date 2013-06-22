@@ -177,8 +177,8 @@ Services
 
 Support
 
-*   Browse Support Topics
-*   Program Your Remote Tool
+*   Browse Support
+*   Program Your Remote
 *   Channel Lineup
 *   Closed Captioning
 *   Welcome to TWC
