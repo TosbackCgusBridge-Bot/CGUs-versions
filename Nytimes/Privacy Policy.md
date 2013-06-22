@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Marriage, the job
+Search Help The top five menswear shows in London
 
-Also in Arts »
+Also in T Magazine »
 
-*   "Seven American Deaths and Disasters"
-*   Neil Patrick Harris set to star in "Hedwig" on Broadway
+*   Explore the creation of Bulgari's Isabella Rossellini bag
+*   Black-and-white summer-to-fall finds
 
   
 
