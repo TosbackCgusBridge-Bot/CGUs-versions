@@ -12,11 +12,11 @@ Please note that the California “Shine the Light” law does not cover all inf
 
 **PJ MEDIA PRIVACY POLICY**
 
-This policy was last updated May 2013
+This policy was last updated June 2013
 
 **GENERAL**
 
-PJ Media, LLC., dba PJMedia, PJTV and Next Generation (“PJM”), is committed to maintaining the privacy of personal information that you provide to us when using www.PJMedia.com, www.PJTV.com and NextGeneration.TV (the “Site” or “Sites”). The term Site includes any additional websites we may subsequently implement. This Privacy Policy describes how we treat personal information received about you when you visit or become a member of any of our Sites.
+PJ Media, LLC., dba PJMedia, PJTV and Next Generation (“PJM”), is committed to maintaining the privacy of personal information that you provide to us when using www.PJMedia.com, www.PJTV.com and NextGeneration.TV(the “Site” or “Sites”). The term Site includes any additional websites we may subsequently implement. This Privacy Policy describes how we treat personal information received about you when you visit or become a member of any of our Sites.
 
 We may make content or services from other websites available to you from links located on the Sites. These other websites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such website to determine how that site protects your privacy.
 
@@ -76,7 +76,9 @@ We may disclose and use Personally Identifiable Information and other informatio
 
 **Comments:** The Comments section of any Site provides you with an opportunity to tell us what you think about our content, and read what other readers have to say, and possibly to upload other content such as user-generated videos. When you register to use our comments feature, you are giving us the right to make your comments public and to make public the screen name you choose.
 
-**Other User Submitted Content:** We may provide you with the opportunity to submit other content to our Sites, such as videos.  If you choose to submit material to us, we may ask for information about you and the material you submitted.  We may make public any information that you provide including your name, location and e-mail address.
+**Other User Submitted Content:** We may provide you with the opportunity to submit other content to our Sites for viewing by our readers, such as videos, photographs, blog posts or articles.  If you choose to submit material to us, we may ask for information about you and the material you submitted.  We may make public any information that you provide including your name, location and e-mail address.
+
+**Other User Submitted Information:** We may provide you with the opportunity to submit and save information relating to our Sites and various areas on our Sites, such as books you’ve read, movies seen, reviews, etc. Submitting this information is voluntary. You will be told which information is visible to either other users of that area, or the public. Please read this information carefully so you can choose whether you wish to submit this information or not.
 
 **MEMBER MESSAGES**
 
@@ -154,7 +156,7 @@ Other cookies that you may receive during your sessions here are from actual Thi
 **Third party cookie information for emails.**  
 We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://aboutads.info/choices or http://www.networkadvertising.org/choices/
 
-Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
+Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
 
 **So what’s in it for our members?**
 
