@@ -10,29 +10,20 @@ As used in this Terms of Use Agreement, "we" and "us" means Plentyoffish or any 
 
 We reserve the right to modify this Agreement at any time. Such modified Agreement will become effective and will apply to Your subscription upon our posting such Agreement to the Website. Your continued use of our Service after such a modification has been posted shall be deemed to constitute acceptance by You of any such modified Agreement. It is Your obligation to review the Agreement and to become aware of any modifications. ELIGIBILITY You must be 18 years of age or older to visit or use this Website or the Services in any manner. By visiting the Website or accepting these Terms of Use, You represent and warrant to Plentyoffish that You: (i) are 18 years of age or older, and that You have the right, authority and capacity to agree to and abide by the Agreement. (ii) will use the Website in a manner consistent with any and all applicable laws and regulations. and (iii) have not been convicted of any felony and are not required to register as a sex offender with any government authority. USER AGREEMENT This Agreement constitutes Your agreement with Plentyoffish with respect to Your use of the Service. You must abide by all of the terms and conditions of the Agreement in order to become or remain an authorized user of the Service. RIGHT TO USE Your right to use the Service is subject to any limitations, conditions and restrictions established by us from time to time, in our sole discretion. We may alter, suspend or discontinue any aspect of the Service at any time, including the availability of any Service feature, database or content. We may also impose limits on certain features and aspects of the Service or restrict Your access to parts or all of the Service without notice or liability and for any reason. CODE OF CONDUCT You agree to use the Service in accordance with the following Code of Conduct:
 
-a. You will keep all information provided to You through the Service as private and confidential and will not give such information to anyone without the permission of the person who provided it to You.
+1.  You will keep all information provided to You through the Service as private and confidential and will not give such information to anyone without the permission of the person who provided it to You.
+2.  You will not use the Service to engage in any form of harassment or offensive behavior, including but not limited to the posting of communications, pictures or recordings which contain libelous, slanderous, abusive or defamatory statements, or racist, pornographic, obscene, or otherwise offensive language.
+3.  You will not forward chain letters through the Service.
+4.  You will not use the Service to infringe the privacy rights, property rights, or any other rights of any person.
+5.  You will not post messages, pictures or recordings or use the Service in any way that;
 
-b. You will not use the Service to engage in any form of harassment or offensive behavior, including but not limited to the posting of communications, pictures or recordings which contain libelous, slanderous, abusive or defamatory statements, or racist, pornographic, obscene, or otherwise offensive language.
+1.  violates, plagiarizes or infringes upon the rights of any third party, including but not limited to any copyright or trade-mark law, privacy or other personal or proprietary rights, or
+2.  is fraudulent or otherwise unlawful or violates any law.
 
-c. You will not forward chain letters through the Service.
-
-d. You will not use the Service to infringe the privacy rights, property rights, or any other rights of any person.
-
-e. You will not post messages, pictures or recordings or use the Service in any way that;
-
-i. violates, plagiarizes or infringes upon the rights of any third party, including but not limited to any copyright or trade-mark law, privacy or other personal or proprietary rights, or
-
-ii. is fraudulent or otherwise unlawful or violates any law.
-
-f. You will not use the Service to distribute, promote or otherwise publish any material containing any solicitation for funds, advertising or solicitation for goods or services. Parties responsible for the distribution, promotion or publication of any material containing any solicitation for funds, advertising or solicitation for goods or services agree to pay Plentyoffish One Thousand US Dollars ($1000.00) per account involved with such activities to cover expenses involved with investigation and prosecution of such activities.
-
-g. You will not use the Service to distribute or upload any virus, or malicious software of any type, or do anything else that might cause harm to the Service, the Website, Plentyoffish, its systems, or any other members' systems in any way.
-
-h. You will not post or transmit in any manner any contact information including but not limited to email addresses, "instant messenger" nicknames or contact information, telephone numbers, postal addresses, URLs, and full names through publicly posted information on the Website and through its Services.
-
-i. You will not cause the Service to be accessed through any automated or robotic means, including but not limited to the rapid access of the site as in a denial-of-service attack. Such restriction shall not apply to legitimate search engine activity that does not place an unreasonable burden on the Service.
-
-j. You will not use a third-party application such as a mobile smart phone application, social media or other Web page widget, or any other such mobile, social media, Web, or desktop application to access the Service, except where such application is either provided by us or endorsed by us. Such restriction shall not apply to a browser application which merely displays the pages of the Service in their entirety without modification or reformulation of content.
+7.  You will not use the Service to distribute, promote or otherwise publish any material containing any solicitation for funds, advertising or solicitation for goods or services. Parties responsible for the distribution, promotion or publication of any material containing any solicitation for funds, advertising or solicitation for goods or services agree to pay Plentyoffish One Thousand US Dollars ($1000.00) per account involved with such activities to cover expenses involved with investigation and prosecution of such activities.
+8.  You will not use the Service to distribute or upload any virus, or malicious software of any type, or do anything else that might cause harm to the Service, the Website, Plentyoffish, its systems, or any other members' systems in any way.
+9.  You will not post or transmit in any manner any contact information including but not limited to email addresses, "instant messenger" nicknames or contact information, telephone numbers, postal addresses, URLs, and full names through publicly posted information on the Website and through its Services.
+10.  You will not cause the Service to be accessed through any automated or robotic means, including but not limited to the rapid access of the site as in a denial-of-service attack. Such restriction shall not apply to legitimate search engine activity that does not place an unreasonable burden on the Service.
+11.  You will not use a third-party application such as a mobile smart phone application, social media or other Web page widget, or any other such mobile, social media, Web, or desktop application to access the Service, except where such application is either provided by us or endorsed by us. Such restriction shall not apply to a browser application which merely displays the pages of the Service in their entirety without modification or reformulation of content.
 
 MONITORING OF INFORMATION We may use third-party advertising companies, such as Yahoo!, Google, and Microsoft, to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see www.aboutads.info/choices.
 
@@ -71,41 +62,29 @@ For the purposes of this Policy, “personal information” means information ab
 
 We have appointed a Privacy Officer who is responsible for our compliance with this Policy. Information on how to contact the Privacy Officer can be found below. COLLECTION AND USE OF PERSONAL INFORMATION We collect two types of information through our Website: personal information and non-personal information. The types of information we collect depend on the nature of Your interaction with us. _Personal information_ We may collect personal information such as:
 
-a. Your contact information – for example, Your name and email address;
-
-b. Your personal preferences – for example, language preferences, and marketing consent. and
-
-c. Your profile information – for example, photographs You upload, and other information You provide in Your personal profile, such as Your interests, marital status, Your height, weight and occupation.
+1.  Your contact information – for example, Your name and email address;
+2.  Your personal preferences – for example, language preferences, and marketing consent. and
+3.  Your profile information – for example, photographs You upload, and other information You provide in Your personal profile, such as Your interests, marital status, Your height, weight and occupation.
 
 _Non-personal information_ Non-personal information does not identify You as an individual. For example:
 
-a. we may collect certain non-personal data when You visit our Website, such as the type of browser You are using or the referring URL. or
-
-b. we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes. We may, for example, summarize our data to determine that a certain percentage of users are male, aged 18 to 25.
+1.  we may collect certain non-personal data when You visit our Website, such as the type of browser You are using or the referring URL. or
+2.  we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes. We may, for example, summarize our data to determine that a certain percentage of users are male, aged 18 to 25.
 
 You may choose not to provide us with Your personal information. However, if You make this choice we may not be able to provide You with the service, or information that You requested. For example, we require Your email address in order to verify Your account, which is necessary so that notifications may be sent to You electronically. Should You no longer wish to receive notifications from Plentyoffish when You receive a message from another Plentyoffish user or when another user adds You as a favorite, You may turn these notifications off through Mail Settings (http://www.pof.com/mailsettings.aspx). Plentyoffish will not send You notifications after Your account is deleted. USE OF PERSONAL INFORMATION We may use Your personal information for a number of different business purposes, for example to:
 
-a. create and display Your online dating profile to other users of the Website;
+1.  create and display Your online dating profile to other users of the Website;
+2.  show other users when You have viewed their profiles;
+3.  compare Your profile and preferences with that of other users to provide both You and other users with potential matches;
+4.  provide customer support to assist You with Your questions or complaints;
+5.  conduct surveys in order to improve our services;
+6.  advise You of changes to our services, or new services that we may implement from time to time;
+7.  measure and improve the effectiveness of our Website or our marketing endeavours;
+8.  detect and protect against fraud and error;
+9.  track and analyze Your preferences to better understand Your service needs and eligibility. and
+10.  for other purposes as described in this Policy.
 
-b. show other users when You have viewed their profiles;
-
-c. compare Your profile and preferences with that of other users to provide both You and other users with potential matches;
-
-d. provide customer support to assist You with Your questions or complaints.
-
-e. conduct surveys in order to improve our services;
-
-f. advise You of changes to our services, or new services that we may implement from time to time;
-
-g. measure and improve the effectiveness of our Website or our marketing endeavours.
-
-h. detect and protect against fraud and error;
-
-i. track and analyze Your preferences to better understand Your service needs and eligibility. and
-
-j. for other purposes as described in this Policy.
-
-We limit the personal information we collect and use to that which is necessary to fulfill our business purposes. We will not collect, sell, distribute or use personal information for any other purposes without Your further consent, except to the extent as required by law or as authorized by Applicable Privacy Laws. YOUR CONSENT When You choose to provide us with Your personal information You consent to the use of Your personal information as identified in this Policy and as may be further identified at the time of collection. _Express Consent_ Sometimes You will be asked to give Your express consent to our collection, use or disclosure of personal information – for example, by being asked to check a box to indicate Your consent to receive marketing communications. _Implied Consent_ Other times, You may provide Your implied consent to our collection, use or disclosure of personal information when we can reasonably conclude that You have given consent by some action You have taken or an action You have decided not to take. Generally, this occurs where the purpose for the use of Your personal information would be reasonably apparent to You – for example, when You provide us with personal information through forms to populate Your online dating profile, You provide us with implied consent to publish that information for other users of the Website to view. _Withdrawing Your Consent_ You may notify us at any time that You wish to withdraw or change Your consent to our use and disclosure of Your information. We will accommodate Your request subject to legal and contractual restrictions. INFORMATION WE MAY COLLECT DIRECTLY FROM YOU Listed here are some further examples of the ways that we collect personal information directly from You and how we use it. _Follow-Up and Surveys_ From time to time, we may send You a follow-up letter to thank You for Your use of the Website, or we may contact You to ensure that You are completely satisfied.
+We limit the personal information we collect and use to that which is necessary to fulfill our business purposes. We will not collect, sell, distribute or use personal information for any other purposes without Your further consent, except to the extent as required by law or as authorized by Applicable Privacy Laws. YOUR CONSENT When You choose to provide us with Your personal information You consent to the use of Your personal information as identified in this Policy and as may be further identified at the time of collection. _Express Consent_ Sometimes You will be asked to give Your express consent to our collection, use or disclosure of personal information – for example, by being asked to check a fine\_print\_content to indicate Your consent to receive marketing communications. _Implied Consent_ Other times, You may provide Your implied consent to our collection, use or disclosure of personal information when we can reasonably conclude that You have given consent by some action You have taken or an action You have decided not to take. Generally, this occurs where the purpose for the use of Your personal information would be reasonably apparent to You – for example, when You provide us with personal information through forms to populate Your online dating profile, You provide us with implied consent to publish that information for other users of the Website to view. _Withdrawing Your Consent_ You may notify us at any time that You wish to withdraw or change Your consent to our use and disclosure of Your information. We will accommodate Your request subject to legal and contractual restrictions. INFORMATION WE MAY COLLECT DIRECTLY FROM YOU Listed here are some further examples of the ways that we collect personal information directly from You and how we use it. _Follow-Up and Surveys_ From time to time, we may send You a follow-up letter to thank You for Your use of the Website, or we may contact You to ensure that You are completely satisfied.
 
 We may use contact information collected online to conduct occasional surveys and other customer research. These surveys are entirely voluntary and You may easily decline to participate. _Our Website_ Our Website can be browsed anonymously. However, to engage in certain special features or functions of our Website, You may be asked to provide certain personal information, such as Your email address or demographic information. We use this information to create Your account, contact and correspond with You about Your account, respond to Your inquiries, and monitor functions of our Website that You choose to use. _Our Mobile Applications_ If You use any mobile device to access our site and download any of our applications, we may collect device information (such as Your mobile device ID, model and manufacturer), operating system and version information, and IP address.
 
@@ -115,25 +94,19 @@ By registering for a for-fee service and providing Your credit card details, Ple
 
 To provide increased availability of the Website, some of these operations may result in personal information collected by Plentyoffish being stored outside Canada and, as a result, such personal information stored outside of Canada may be accessible to law enforcement and regulatory authorities in accordance with applicable laws of countries outside Canada. _Information Shared Amongst Our Affiliates, Subsidiaries and Divisions_ We may share personal information gathered on our Website with and amongst our corporate subsidiaries, affiliates or divisions for internal business purposes in accordance with this Policy. If we do, we will ensure that Your information continues to be used only in accordance with this Policy and Your expressed choices. _Legal Disclosure_ We may disclose Your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies. SECURITY OF PERSONAL INFORMATION The security of Your personal information is a high priority for us. We maintain appropriate safeguards and current security standards to protect Your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse. For example, electronic records are stored in secure, limited-access servers. we employ technological tools like firewalls and passwords. and we ensure our employees are trained on the importance of maintaining the security and confidentiality of personal information. Reasonably secure methods are used whenever we destroy personal information. For example, we currently use SSL encryption with a 2048 bit RSA key digital certificate. However, no system can be completely secure. While Plentyoffish takes steps to secure Your information, we do not promise, and You should not expect, that Your personal information will always remain secure. REQUESTS FOR ACCESS TO AND CORRECTION OF PERSONAL INFORMATION Applicable Privacy Laws allows any individual the right to access and/or request the correction of errors or omissions in his or her personal information that is in our custody or under our control. Our Privacy Officer will assist the individual with the access request. This includes:
 
-a. identification of personal information under our custody or control. and
-
-b. information about how personal information under our control may be or has been used by us.
+1.  identification of personal information under our custody or control. and
+2.  information about how personal information under our control may be or has been used by us.
 
 We will respond to requests within the time allowed by Applicable Privacy Laws and will make every effort to respond as accurately and completely as possible. Any corrections made to personal information will be promptly sent to any organization it was disclosed to.
 
 In certain exceptional circumstances, we may not be able to provide access to certain personal information it holds about an individual. For security purposes, not all personal information is accessible and amendable by the Privacy Officer. If access or corrections cannot be provided, we will notify the individual making the request within 30 days, in writing, of the reasons for the refusal. REMOVAL OF YOUR INFORMATION We keep Your information only as long as we need it for legitimate business purposes and to meet any legal requirements. Personal information used to make a decision that directly affects an individual will be kept for at least one year after such a decision. We have retention standards that meet these parameters. CONCERNS OR QUESTIONS REGARDING OUR COMPLIANCE Questions or concerns regarding our compliance with this Policy may be directed to the Privacy Officer, Markus Frind, at legal@plentyoffish.com. Digital Millennium Copyright Act Notice If You believe that Your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible on this Site, please notify Plentyoffish’s copyright agent, as set forth in the Digital Millennium Copyright Act of 1998 (DMCA). For Your complaint to be valid under the DMCA, You must provide the following information in writing:
 
-1\. An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
-
-2\. Identification of the copyrighted work that You claim is being infringed;
-
-3\. Identification of the material that is claimed to be infringing and where it is located on the Site;
-
-4\. Information reasonably sufficient to permit PLENTYOFFISH to contact You, such as Your address, telephone number, and e-mail address;
-
-5\. A statement that You have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law. and
-
-6\. A statement, made under penalty of perjury, that the above information is accurate, and that You are the copyright owner or are authorized to act on behalf of the owner.
+1.  An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+2.  Identification of the copyrighted work that You claim is being infringed;
+3.  Identification of the material that is claimed to be infringing and where it is located on the Site;
+4.  Information reasonably sufficient to permit PLENTYOFFISH to contact You, such as Your address, telephone number, and e-mail address;
+5.  A statement that You have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law. and
+6.  A statement, made under penalty of perjury, that the above information is accurate, and that You are the copyright owner or are authorized to act on behalf of the owner.
 
   
 The above information must be submitted to the following DMCA Agent:
