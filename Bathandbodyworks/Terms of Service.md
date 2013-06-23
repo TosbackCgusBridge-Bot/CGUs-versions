@@ -123,6 +123,7 @@ Welcome! **(Log in)**
         Related Products
         *   Hand Cream
         *   Hand Wash
+        *   Fresh Picked Body Care
     *   Top Fragrances
         *   Black Raspberry Vanilla
         *   Caribbean Escape
