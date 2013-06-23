@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help The top five menswear shows in London
+Search Help 36 hours in Vancouver, British Columbia
 
-Also in T Magazine »
+Also in Travel »
 
-*   Explore the creation of Bulgari's Isabella Rossellini bag
-*   Black-and-white summer-to-fall finds
+*   Vancouver views
+*   In Milan, a surge of burger spots
 
   
 
