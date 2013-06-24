@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help 36 hours in Vancouver, British Columbia
+Search Help A playwright inspired by Barbra Streisand's home
 
-Also in Travel »
+Also in Theater »
 
-*   Vancouver views
-*   In Milan, a surge of burger spots
+*   In Performance: Michael Urie in "Buyer and Cellar"
+*   Disney shows in development
 
   
 
