@@ -29,7 +29,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
@@ -59,7 +58,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
@@ -89,7 +87,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
@@ -102,7 +99,7 @@ Log Into MySubaru | Help |
         
         Starting at **$20,295**
         
-        2013 Legacy
+        2014 Legacy
         
         Starting at
         
@@ -122,7 +119,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
@@ -152,7 +148,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
@@ -182,7 +177,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
@@ -195,7 +189,7 @@ Log Into MySubaru | Help |
         
         Starting at **$23,495**
         
-        2013 Outback
+        2014 Outback
         
         Starting at
         
@@ -215,11 +209,10 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
-        Outback 2.5i Limited shown
+        Outback 2.5i Premium shown
         
     *   Tribeca
         
@@ -245,7 +238,6 @@ Log Into MySubaru | Help |
         
         *   Overview
         *   Photos &. Videos
-        *   Key Features
         *   Compare
         *   Build Your Own
         
