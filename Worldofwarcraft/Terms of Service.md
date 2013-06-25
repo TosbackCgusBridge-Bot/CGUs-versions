@@ -1,8 +1,9 @@
 World of Warcraft Terms of Use  
-WORLD OF WARCRAFT® **TERMS OF USE AGREEMENT**  
-Last Updated August 22, 2012
+Last Updated: August 22, 2012
 
-**YOU SHOULD CAREFULLY READ THE FOLLOWING WORLD OF WARCRAFT TERMS OF USE AGREEMENT (THE “TERMS OF USE” OR “AGREEMENT”). IF YOU DO NOT AGREE WITH ALL OF THE TERMS OF THIS AGREEMENT, YOU MUST CLICK “REJECT.” IF YOU REJECT THIS AGREEMENT WITHIN THIRTY (30) DAYS AFTER FIRST PURCHASING A LICENSE TO THE WORLD OF WARCRAFT SOFTWARE, YOU MAY CALL (800)757-7707 TO REQUEST A FULL REFUND OF THE PURCHASE PRICE. ONCE YOU AGREE TO THESE TERMS OF USE, THE BATTLE.NET TERMS OF USE, AND THE WORLD OF WARCRAFT END USER LICENSE AGREEMENT, YOU WILL NO LONGER BE ELIGIBLE FOR A REFUND.**
+YOU SHOULD CAREFULLY READ THE FOLLOWING WORLD OF WARCRAFT TERMS OF USE AGREEMENT (THE “TERMS OF USE” OR “AGREEMENT”).
+
+**IF YOU REJECT THIS AGREEMENT WITHIN THIRTY (30) DAYS AFTER FIRST PURCHASING A LICENSE TO THE WORLD OF WARCRAFT SOFTWARE, YOU MAY CALL (800)757-7707 TO REQUEST A FULL REFUND OF THE PURCHASE PRICE. ONCE YOU AGREE TO THESE TERMS OF USE, THE BATTLE.NET TERMS OF USE, AND THE WORLD OF WARCRAFT END USER LICENSE AGREEMENT, YOU WILL NO LONGER BE ELIGIBLE FOR A REFUND.**
 
 Welcome to Blizzard Entertainment, Inc.’s (“Blizzard”) World of Warcraft® (the “Game”). The Game includes two components: (a) the software program along with any accompanying materials or documentation (collectively, the “Game Client”), and (b) Blizzard’s proprietary World of Warcraft online service (the “Service”). Your use of the Game Client is subject to the World of Warcraft End User License Agreement (the “EULA“). Your use of the Service is subject to this Terms of Use and the Battle.net Terms of Use Agreement (“BNET TOU“), incorporated herein by this reference. You must accept the EULA, the Terms of Use and the BNET TOU (collectively, the “Blizzard Agreements”) prior to playing the Game.
 
