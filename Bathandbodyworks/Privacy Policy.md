@@ -103,9 +103,8 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Select Soap: $3
-        *   Hand Soap: 6 for $20
-        *   PocketBac: 5 for $5
+        *   Hand Soap: $3
+        *   PocketBacs: 5 for $5
     *   Hand Soap
         
         *   Foaming Soap
@@ -139,9 +138,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Select Aromatherapy Bodycare: 50% Off
+        *   True Blue Spa: Buy 2 Get 2 Free
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
         *   Aromatherapy: Buy 2 Get 1 Free
-        *   True Blue Spa: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
