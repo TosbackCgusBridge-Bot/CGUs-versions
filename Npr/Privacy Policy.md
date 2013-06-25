@@ -181,7 +181,7 @@ For international users, please note that it may be necessary to transfer your i
 If you have any questions or comments concerning our Privacy Policy, please Contact Us.
 
 *   Share
-    *   0Facebook
+    *   16Facebook
     *   1Twitter
     *   Google+
     *   Email
