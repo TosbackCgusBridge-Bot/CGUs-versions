@@ -475,4 +475,4 @@ Pay Blair VIP Credit Card Bill
 Buy Gift Cards  
 Place Catalog Order  
 Request a Catalog  
-© 2013 BLAIR, 220 Hickory St., Warren, PA 16366
+© BLAIR 2000-2013 | 220 Hickory St., Warren, PA 16366
