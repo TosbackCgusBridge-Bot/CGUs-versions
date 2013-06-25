@@ -17,10 +17,9 @@ Sie haben auf unserer Website die Möglichkeit, unseren Online-Chatservice koste
 **Die Unternehmen der Telekom Deutschland GmbH nehmen gerne Kontakt mit Kunden auf, um über Angebote und Neuigkeiten bei Produkten und Dienstleistungen zu informieren. Wenn Sie sich auf unseren Websites registrieren lassen oder Dienste und Produkte bestellen, werden wir Sie bitten, uns anzugeben, ob Sie direkte Werbemitteilungen erhalten möchten. Selbstverständlich erhalten Sie als Kunde der Telekom auch unabhängig von dieser Einwilligung weiterhin die notwendigen Informationen über wichtige Änderungen im Zusammenhang mit bestehenden Dienstleistungsverträgen (z.B. Tarifänderungen).  
   
 
-**Datenkontrolle beim Facebook "Gefällt mir"-Button**  
-Einige der Telekom Angebotseiten enthalten einen Facebook "Gefällt mir"-Button, mit dem Sie Ihren Freunden und Bekannten die Angebote der Telekom empfehlen können. Damit die volle Datenkontrolle bei Ihnen liegt, wird beim Laden der Seite an Stelle des tatsächlichen Facebook "Gefällt mir"-Buttons ein ausgegrautes Bild des Buttons angezeigt. Erst mit einem Klick auf dieses Bild wird der Datenaustausch durch das Laden des Facebook "Gefällt mir"-Buttons aktiviert.  
+**Datenkontrolle bei den eingesetzten Social Media Plugins**  
+Einige der Telekom Angebotseiten enthalten Buttons von Social Media Netzwerken, mit dem Sie Ihren Freunden und Bekannten die Angebote der Telekom empfehlen können. Damit die volle Datenkontrolle bei Ihnen liegt, zeigen wir beim Laden der Seite an Stelle der tatsächlichen Social Plugins ausgegraute Bilder der jeweiligen Funktionen (Facebook-Like-Button, Google +1, Twitter-Button) an. Erst mit einem Klick auf das Häkchen neben den Bildern wird der Datenaustausch durch das Laden des jeweiligen Social Plugins mit der Webseite aktiviert. Wenn Sie mit Ihrem Klick ein Plugin aktivieren, können folgende Daten an die Seitenbetreiber übermittelt werden:  
   
-Aktivieren Sie mit einem Klick den Facebook "Gefällt mir"-Button, können folgende Daten an Facebook übermittelt werden:  
 \- IP-Adresse  
 \- Browserinformationen und Betriebssystem  
 \- Bildschirmauflösung  
@@ -28,7 +27,7 @@ Aktivieren Sie mit einem Klick den Facebook "Gefällt mir"-Button, können folge
 \- Herkunft der Besucher, wenn Sie einem Link gefolgt sind (Referrer)  
 \- URL der aktuellen Seite
 
-Unterhalb des Facebook "Gefällt mir"-Buttons haben Sie die Möglichkeit, die Einwilligung zur Anzeige des Buttons auf dieser Seite mit Wirkung für die Zukunft zu widerrufen. Beim nächsten Seitenaufruf wird dann erneut ein ausgegrautes Bild anstelle des aktiven Facebook "Gefällt mir"-Buttons gezeigt und es werden keine Daten übermittelt.  
+Sie können die Einwilligung zur Anzeige der Social Plugins auf dieser Seite mit Wirkung für die Zukunft widerrufen. Beim nächsten Seitenaufruf wird dann erneut ein ausgegrautes Bild anstelle des aktiven Social Plugins gezeigt und es werden keine Daten mehr übermittelt.  
   
 
 **Conversion Tracking**  
