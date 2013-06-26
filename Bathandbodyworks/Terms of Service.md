@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
+        *   Today Only: $4 Body Cream
         *   Select Body Care: $3 &. Up
-        *   Body Care: Up to 50% Off
         *   Online Only Body Care: $4 &. Up
-        *   Select Aromatherapy: 50% Off
+        *   Signature: Buy 3 Get 2 Free
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -62,10 +62,10 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
+        *   Today Only: $4 Body Cream
         *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
         *   Select Home Fragrance: $3
-        *   Wallflowers: 6 for $24
     *   Candles
         
         *   3-Wick Candles
@@ -78,7 +78,6 @@ Welcome! **(Log in)**
         Wallflowers
         
         *   Fragrance Plugs
-        *   Novelty Fragrance Plugs
         *   Fragrance Bulbs
         *   2-Pack Refills
         *   Pluggable Fragrance Sets
@@ -104,6 +103,7 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Hand Soap: $3
+        *   Today Only: $4 Body Cream
         *   PocketBacs: 5 for $5
     *   Hand Soap
         
@@ -137,10 +137,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   Today Only: $4 Body Cream
         *   Select Aromatherapy Bodycare: 50% Off
         *   True Blue Spa: Buy 2 Get 2 Free
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
-        *   Aromatherapy: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -181,8 +181,10 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
         *   Spa Accessories
+        *   Shea Socks
 *   *   Features
         *   Save Up to 75% Off Select Items
+        *   $4 Body Cream, Today Only!
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
@@ -206,15 +208,16 @@ Welcome! **(Log in)**
         *   PocketBac Holders
         *   Soap Accessories
         *   Candle Accessories
+        *   Shea Socks
     *   More Gift Giving
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
+        *   Today Only: $4 Body Cream
         *   Select Body Care: $3 &. Up
-        *   Online Only Body Care: $4 &. Up
+        *   Online Only Body Care: $4
         *   Wallflowers Refills: $6
-        *   Body Care: Up to 50% Off
     *   Body &. Bath
         
         *   Body Lotion
@@ -295,6 +298,7 @@ Welcome! **(Log in)**
         *   PocketBac Holders
         *   Soap Accessories
         *   Candle Accessories
+        *   Shea Socks
     *   More Gift Giving
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
