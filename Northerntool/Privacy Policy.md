@@ -37,4 +37,8 @@ Customer Care
 PO Box 1219  
 Burnsville, MN 55337-0219
 
-Copyright © Northern Tool + Equipment All Rights Reserved.
+Email Deals  
+Weekly Sales, Specials + Exclusives Email Address  
+First Name  
+ZIP Code  
+Northern will not sell, trade, share or rent your email address.
