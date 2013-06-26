@@ -26,7 +26,7 @@ We value your privacy. This policy describes how we handle personal information.
     *   From non-State Farm parties, including consumer reporting agencies that provide us with driving records, claim histories, and credit information
 *   How We Use Information About You
     
-    We use customer information, including consumer report information, to:
+    We use customer information, sometimes including consumer report information, to:
     
     *   Underwrite and rate your policies and accounts
     *   Process your claims
@@ -36,13 +36,13 @@ We value your privacy. This policy describes how we handle personal information.
     *   Offer you other insurance and financial services products that may suit your needs
 *   How We Share Information
     
-    We share information about our transactions (such as payments) and experiences (such as an auto claim) with you within our State Farm family of companies and with State Farm agents to help meet your current product and service needs. We share information about you with persons or organizations inside or outside our family of companies for our everyday business purposes and as permitted or required by law. We share information about you with companies that perform marketing or other services for us or with whom we have joint marketing agreements. These agreements allow us to provide a broader selection of insurance and financial products to you.
+    We share information about you, including information about our transactions (such as payments) and experiences (such as an auto claim) with you, within our State Farm family of companies and with State Farm agents to help meet your current product and service needs. We share information about you with persons or organizations inside or outside our family of companies for our everyday business purposes and as permitted or required by law. We share information about you with companies that perform marketing or other services for us or with whom we have joint marketing agreements. These agreements allow us to provide a broader selection of insurance and financial products to you.
     
     We share information with consumer reporting agencies and with other entities as needed to handle your claim and to protect against fraud and unauthorized transactions. For example, we might share name, address, and coverage information with an auto body shop to speed up repairs on auto damage claims.
     
 *   To Limit the Sharing of Information Within the State Farm Family of Companies
     
-    We share information within our State Farm family of companies so we do not have to ask you for the same information again. If you prefer to limit sharing information such as your driving record, claim history with other companies, and credit information, call your State Farm agent or 1-800-865-6035.
+    We share information within our State Farm family of companies, for example, so we do not have to ask you for the same information again. If you prefer to limit sharing information such as your driving record, claim history with other companies, and credit information, call your State Farm agent or 1-800-865-6035.
     
     *   If you are an existing customer and have already told us your information sharing preferences, no action is needed unless you want to change your preference.
     *   Your choice will apply to your joint policyholders/accountholders on shared policies/accounts.
