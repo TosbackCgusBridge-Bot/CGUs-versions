@@ -1,8 +1,8 @@
-Privacy &. Security
+Privacy &. Security Privacy &. Security Privacy Statement
 
 This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Web site, microsites, or mobile sites of our brands and lines of business that expressly adopt, and display or link to, this policy. These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean your identifying information (like name, home address, and email address), and descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to all our brands and lines of business (i.e., Victoria's Secret, Victoria's Secret Pink, and Pink Nation) as "we," "us," or "our" throughout this privacy policy.
 
-This privacy policy answers these questions:
+**This privacy policy answers these questions:**
 
 *   What personal information is collected at our Web site, and how is it used?
 *   How does this Web site interact with third-party Web sites and content?
@@ -20,7 +20,7 @@ What personal information is collected at our Web site and how is it used?
     
     We collect personal information directly from you to do all the things typically associated with Web sites. Examples of the information we collect include name, address, telephone number, mobile phone number, email address, personal preferences, credit card number, purchase and ordering information, demographical information, responses to survey questions and sizing information.
     
-    This information is collected at various places: for instance, when you check out with your online order. subscribe to catalogs, email offers, and mobile messaging offers. participate in surveys;join Victoria's Secret Pink Nation. enter contests or sweepstakes. or interact with special-event or program offers.
+    This information is collected at various places: for instance, when you check out with your online order. subscribe to catalogs, email offers, and mobile messaging offers. participate in surveys. join Victoria's Secret Pink Nation. enter contests or sweepstakes. or interact with special-event or program offers.
     
     We may also collect information that you provide about people you know. For example, we collect your gift recipient's contact information to process your gift orders. We use personally identifying information to do things like:
     
@@ -140,9 +140,7 @@ What choices do you have over how your information is used?
     
 5.  5\.  Cookies, Clear Gifs, and Online Network Advertising
     
-    You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser's instructions on how to block and clear cookies. Note that blocking cookies may not block the "first-party" cookies that are placed on your computer when you visit this site. By first-party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our Web sites and other Web sites. Otherwise, clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Web sites rely on their cookies to provide you with services or features that you have requested or expect. With respect to cookies used as part of a survey, if you do not want the use of cookies to associate survey responses with your behavior on the site, you can elect to not take the survey.
-    
-    If you want to opt out of the display of our online advertising, which appears on other Web sites, and which is based on the association of your online information with your offline information through interactions with us (purchase information, in particular), then please click the preference icon that may appear on such advertising. Additionally, if you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, click here (you'll then leave this site for a centrally managed online site where you may specify your preferences).
+    You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser's instructions on how to block and clear cookies. Note that blocking cookies may not block the "first-party" cookies that are placed on your computer when you visit this site. By first-party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our Web sites and other Web sites. Otherwise, clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Web sites rely on their cookies to provide you with services or features that you have requested or expect. With respect to cookies used as part of a survey, if you do not want the use of cookies to associate survey responses with your behavior on the site, you can elect to not take the survey. If you want to opt out of the display of our online advertising, which appears on other Web sites, and which is based on the association of your online information with your offline information through interactions with us (purchase information, in particular), then please click the preference icon that may appear on such advertising. Additionally, if you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, click here (you'll then leave this site for a centrally managed online site where you may specify your preferences).
     
 6.  6\.  Other Marketers
     
@@ -216,5 +214,3 @@ Please click here to view any material and substantive changes made since the la
 This Privacy Statement is effective January 14, 2013
 
 Back To Top
-
-Close
