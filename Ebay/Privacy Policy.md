@@ -89,7 +89,7 @@ Wir können Ihre personenbezogenen Daten außerdem weitergeben an:
     
 *   Andere eBay-Mitglieder in Deutschland oder im Ausland. Beispielsweise können andere Mitglieder, mit denen Sie eine Transaktion abwickeln, Ihre E-Mail-Adresse einsehen und Ihre Kontaktdaten und Ihre Postanschrift anfordern, um die Transaktion abzuschließen.
     
-*   Sonstige Dritte, an die wir auf Ihr ausdrückliches Verlangen Ihre Daten senden (oder solche über die Sie ausdrücklich benachrichtigt wurden und denen Sie zugestimmt haben, als Sie die spezifische Leistung genutzt haben.
+*   Sonstige Dritte, an die wir auf Ihr ausdrückliches Verlangen Ihre Daten senden (oder solche über die Sie ausdrücklich benachrichtigt wurden und denen Sie zugestimmt haben, als Sie die spezifische Leistung genutzt haben).
     
 *   Strafverfolgungs- oder andere Behörden oder Dritte aufgrund eines Auskunftsersuchens im Zusammenhang mit einem Ermittlungsverfahren oder wegen eines Verdachts einer Straftat, einer rechtswidrigen Handlung oder andere Handlungen, aus denen sich für uns, Sie oder ein anderes eBay-Mitglied eine rechtliche Haftung ergeben kann. Dabei können von uns die folgenden personenbezogenen Daten offengelegt werden: aktueller und bisherige(r) Mitgliedsname(n), Name, Ort, Bundesland, Telefonnummer, E-Mail-Adresse, Betrugsbeschwerden und Gebots- und Angebotsübersicht und alle anderen Informationen, die wir für relevant halten.
     
