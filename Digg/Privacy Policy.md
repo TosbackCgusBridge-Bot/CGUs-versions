@@ -1,8 +1,8 @@
-News.me Privacy Policy
+News.me Privacy Policy News.me Privacy Policy
 
 Digg knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy.
 
-This Privacy Policy describes the policies and procedures of News.me, Inc. ("we" or "us") on the collection, use and disclosure of your information on http://www.digg.com and the related services, features, content or applications we offer (collectively, "Digg"). In connection with your use of Digg, we receive information about you from various sources, including: (i) through your Digg user account (your "Account"). (ii) your use of Digg generally. and (iii) from third party websites and services. When you use Digg, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy.
+This Privacy Policy describes the policies and procedures of News.me, Inc. ("we" or "us") on the collection, use and disclosure of your information on http://www.digg.com, the Digg Reader, and the related services, features, content or applications we offer (collectively, "Digg"). In connection with your use of Digg, we receive information about you from various sources, including: (i) through your Digg user account (your "Account"). (ii) your use of Digg generally. and (iii) from third party websites and services. When you use Digg, you are consenting to the collection, transfer, manipulation, storage, transmission, disclosure and other uses of your information as described in this Privacy Policy.
 
 **What Does This Privacy Policy Cover?**
 
@@ -16,29 +16,33 @@ The information we gather enables us to personalize, improve and continue to ope
 
 _Sign-In Information:_
 
-When you create an Account or login using your Twitter and/or Facebook credentials, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account with Digg and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, including without limitation, notifications regarding the Services and, upon your request, email digests of content shared by those that you follow on Digg, Twitter, and Facebook. You may unsubscribe from these messages through your Account settings, although we regardless reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
+When you create an Account or login using your Twitter, Facebook, and/or Google credentials, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account with Digg and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, including without limitation, notifications regarding the Services and, upon your request, email digests of content shared by those that you follow on Digg, Twitter, Facebook, and/or Google. You may unsubscribe from these messages through your Account settings, although we regardless reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 
 _User Content and URL Information:_
 
-Digg allows you to provide content to Digg, such as the ability to digg and Submit collections of content and uniform resource locators ("URLs"), written descriptions of content or URLs, comments, text, images and video. We also collect and store information regarding the content in your Digg, Twitter, and Facebook feeds and the original URL, and associate that information with your Account. We also collect and store (i) the time and date on which the content was first dugg, submitted, or shared and (ii) information on the channels through which the content was shared, e.g., to other Digg users, Twitter followers, and/or Facebook friends.
+Digg allows you to provide content to Digg, such as the ability to digg and Submit collections of content and uniform resource locators ("URLs"), written descriptions of content or URLs, comments, text, images and video. We may also collect and store information regarding the content in your Digg, Twitter, Facebook, and /or Google feeds and the original URL, and associate that information with your Account. We also collect and store (i) the time and date on which the content was first dugg, submitted, or shared and (ii) information on the channels through which the content was shared, e.g., to other Digg users, Twitter followers, Facebook friends, and/or Google connections.
 
-We share certain information about you, such as your username, any avatar or image you elect to post, your Twitter and/or Facebook username, your reading feeds through Digg, Twitter, Facebook and other Third Party Services, and other information you elect to make public to your followers in Digg, your followers on Twitter, and your friends on Facebook,. This may include Personal Information, but only to the extent that you decide to share such information with others.
+We share certain information about you, such as your username, any avatar or image you elect to post, your Twitter, Facebook, and/or Google username, your reading feeds through Digg, Twitter, Facebook, Google, and other Third Party Services, and other information you elect to make public to your followers in Digg, your followers on Twitter, your friends on Facebook, and/or your connections on Google. This may include Personal Information, but only to the extent that you decide to share such information with others.
 
 We may retain content submitted by you to Digg indefinitely, even after you terminate your Account.
 
+_Digg Reader Information:_
+
+If you are a Digg Reader user, we will maintain information about the sources and subscriptions, including RSS and other content feeds, that you choose to follow. We will collect and store (i) all articles and posts that are part of your subscribed feeds, (ii) data associated with those items, such as the time and date they were published, (iii) whether and when you viewed, saved, or marked them as read, (iv) information related to your organizational choices, such as the folders or tags you assign to sources, and (v) information necessary to complete actions you may choose to take with particular items, such as digging, saving, liking, recommending, or sharing to Third Party Services. If
+
 _Metrics and Analytics:_
 
-We collect information about accesses of content curated through Digg. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the curated content. (ii) the time and date of each access. and (iii) information about sharing of curated content.
+We collect information about accesses of content curated through Digg, as well as interactions with Digg Reader. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the curated content or interacting with Digg Reader. (ii) the time and date of each access or interactions. and (iii) information about sharing of curated content or content appearing in Digg Reader.
 
 _Information Collected From Third Party Services:_
 
-Some features of Digg allow you to share your Digg curated content through Third Party Services and your content from Third Party Services through Digg. If you choose to connect Digg to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts. We may otherwise collect information about how you are using Digg to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us.
+Some features of Digg allow you to share your Digg curated content and Digg Reader content through Third Party Services, as well as your content from Third Party Services through Digg. If you choose to connect Digg to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts. We may otherwise collect information about how you are using Digg to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us.
 
 _IP Address Information and Other Information Collected Automatically:_
 
-We automatically receive and record information from the Digg application or your web browser when you interact with Digg, Including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with Digg (e.g., what content you have clicked on).
+We automatically receive and record information from the Digg application or your web browser when you interact with Digg, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with Digg (e.g., what content you have clicked on).
 
-Generally, Digg automatically collects usage information, such as the number and frequency of users accessing Digg and various curated streams of content. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of Digg so that we can analyze and improve them.
+Generally, Digg automatically collects usage information, such as the number and frequency of users accessing Digg, Digg Reader, and its various streams of content. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of Digg so that we can analyze and improve them.
 
 _Information Collected Using Cookies:_
 
@@ -60,23 +64,11 @@ Digg is designed to help you share information that you or people you choose to 
 
 _Public Digg Activity Information:_
 
-Much of your activity on and through Digg is public by default. This includes, but is not limited to:
-
-URLs that you have "dugg" or URLs submitted to Digg.
-
-URLs within your feeds from Third Party Services that you access through Digg and feeds from third parties that you elect to follow.
-
-Content that you have selected to curate on your Account, the corresponding URL(s), the time and date that content was curated, and metrics and analytics information for your curated content, as described above. and
-
-Aggregate non-personal information about what content you have accessed through Digg and associated metrics and analytics information, as described above.
-
-Some of this information may be associated with your Account and some of this information is publicly accessible to other Digg users who choose to follow your curated content. This information may still be accessible through other means, such as our API services.
-
-Please also remember that if you choose to provide Personal Information using certain features of Digg, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading this information may use or disclose it to other individuals or entities without our control and without your knowledge. Therefore, we urge you to think carefully about including any specific information you may deem private in content that you create or submit through Digg.
+Some of your activity on and through Digg is public by default. This includes, but is not limited to, URLs that you have "dugg" or URLs submitted to Digg. Individuals reading this information may use or disclose it to other individuals or entities without our control and without your knowledge. Therefore, we urge you to think carefully about these actions.
 
 _Information You Elect to Share:_
 
-In addition to reviewing this Privacy Policy, you should also review the terms of services and privacy policies of any Third Party Services that you access through Digg. Digg respects the privacy settings/ policies that you have selected with Third Party Services, and only shares information consistent with those privacy settings and policies.
+In addition to reviewing this Privacy Policy, you should also review the terms of service and privacy policies of any Third Party Services that you access through Digg. Digg respects the privacy settings/policies that you have selected with Third Party Services, and only shares information consistent with those privacy settings and policies.
 
 You may otherwise access Third Party Services through Digg, for example by accessing curated content. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those privacy policies. This Privacy Policy only governs information collected on or through Digg.
 
@@ -106,15 +98,15 @@ Except as set forth above, you will be notified when your Personal Information m
 
 _Email Communications:_
 
-If you sign up for The Daily Digg email via the Digg website or in any other Digg application, you will receive an email once daily summarizing popular content on Digg. Digg users that follow you will occasionally receive email digests that include information about what you have shared through Digg.
+If you sign up for The Daily Digg email via the Digg website or in any other Digg application, you will receive an email once daily highlighting some curated or other content on Digg.
 
-Regardless of whether you decide to receive The Daily Digg, as part of Digg, you may occasionally receive from us email and other communication relating to your Account. These emails will only be sent for purposes important to Digg, such as password recovery.
+Regardless of whether you decide to receive The Daily Digg, as part of Digg, you may occasionally receive from us email and other communication relating to your Account. These emails will only be sent for important purposes, such as password recovery.
 
-We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+We may receive a confirmation when you open an email from us. We use this confirmation to improve email deliverability or our customer service.
 
 **Is Information About Me Secure?**
 
-Your Account information (including your Twitter and Facebook logins) is protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+Your Account information (including your Twitter, Facebook, Google or other third-party logins) is protected for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
 We endeavor to protect Account information to ensure that it is kept private. however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
@@ -128,7 +120,7 @@ Registered and unregistered users can access all of the above information.
 
 **How Can I Delete My Account?**
 
-Should you ever decide to delete your Account, you may do so by visiting digg.com/settings or by visiting Account Settings in the Digg iPhone application. If you terminate and delete your Account, any association between your Account and information stored by in connection with Digg will no longer be accessible. However, given the nature of sharing using Digg, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. If you would like us to remove such stored information, please send us an email at support@digg.com.
+Should you ever decide to delete your Account, you may do so by visiting digg.com/settings or by visiting Account Settings in the Digg mobile application. If you terminate and delete your Account, any association between your Account and information stored by, or in connection with, Digg will no longer be accessible. However, given the nature of sharing using Digg, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. If you would like us to remove such stored information, please send us an email at support@digg.com.
 
 **What Choices Do I Have Regarding My Information?**
 
@@ -144,4 +136,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding privacy using Digg, please send us a detailed message to: support@digg.com. We will make every effort to resolve your concerns.
 
-Effective Date: July 31, 2012
+Effective Date: June 25, 2013
