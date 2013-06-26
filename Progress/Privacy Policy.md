@@ -21,9 +21,9 @@ The Summer of Audi Event
 
 It's time to explore the Summer of Audi special offers, put the top down and take to the open road. Get ready for the signature Audi performance and luxury.
 
-See special offers The 24 Hours of Le MansWe're out to make history again.
+See special offers The 24 Hours of Le Mans 2013Audi makes history again.
 
-Le Mans is a grueling test of both man and machine, a 24-hour-long race, and the only breaks are pit stops. The trick with pit stops? Not needing as many. And thanks to TDI® clean diesel, we didn't. Last year, Audi made history by being the first team to win the race in a hybrid.
+Le Mans is a grueling test of both man and machine, a 24-hour-long race, that pushes the limits of endurance and engineering. With TDI® clean diesel and e-tron® technology Audi captured an unbelievable twelfth Le Mans victory.
 
 Fuel your passion for motorsport TDI® clean dieselGetting more from less.
 
@@ -45,7 +45,11 @@ Explore myAudi Audi Financial Services
 
 Audi Financial Services makes financing and account management easy and convenient.
 
-Compare financing options Tutorial videos
+Compare financing options
+
+*   Manage account
+
+Tutorial videos
 
 Demystify your Audi and discover all it can do. These easy-to-understand how-to videos can help you do everything from personalize your vehicle controls to set up Audi connect®.
 
