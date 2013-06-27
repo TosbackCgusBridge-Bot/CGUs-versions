@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Paula Deen on race in 2012 TimesTalk
+Search Help Milan Men's Fashion Week: Giorgio Armani
 
-Also in Video »
+Also in T Magazine »
 
-*   What's in the Senate immigration bill
-*   Sailing by the sun
+*   Men's wear gets a dose of flower power
+*   A Victorian house in London, built with mirrors
 
   
 
