@@ -1,5 +1,21 @@
 **Employers:**   Post Jobs   |   Search Resumes  
-Jobs.net Find Jobs   |   Post a Resume   |   My Jobs.net Account   |   Career Advice  |   Resources  |  All Jobs  |  Career Fairs  |  Create a Visual Resume Protect Your Privacy and Safety
+Jobs.net
+
+Find Jobs
+
+All Jobs
+
+Post a Resume
+
+Create a Visual Resume
+
+Resources
+
+Join a Talent Network
+
+Job Seeker Community
+
+Are you an employer? Employer Talent Network Connect   Are you a Job Seeker? My Jobs.net Account Protect Your Privacy and Safety
 
 Effective Date: September 15, 2010
 
