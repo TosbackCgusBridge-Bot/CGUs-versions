@@ -495,7 +495,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   **WEITERE**
 *   Hilfe
 *   Kontakt
-*   Nachdrucke
+*   Nutzungsrechte
 *   Datenschutz
 *   Impressum
 
