@@ -7,7 +7,7 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Today Only: $4 Body Cream
+        *   One Day Deal: $6 Fine Fragrance Mist
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4 &. Up
         *   Signature: Buy 3 Get 2 Free
@@ -62,7 +62,7 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Today Only: $4 Body Cream
+        *   One Day Deal: $6 Fine Fragrance Mist
         *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
         *   Select Home Fragrance: $3
@@ -103,7 +103,7 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Hand Soap: $3
-        *   Today Only: $4 Body Cream
+        *   One Day Deal: $6 Fine Fragrance Mist
         *   PocketBacs: 5 for $5
     *   Hand Soap
         
@@ -137,7 +137,7 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Today Only: $4 Body Cream
+        *   One Day Deal: $6 Fine Fragrance Mist
         *   Select Aromatherapy Bodycare: 50% Off
         *   True Blue Spa: Buy 2 Get 2 Free
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
@@ -184,7 +184,7 @@ Welcome! **(Log in)**
         *   Shea Socks
 *   *   Features
         *   Save Up to 75% Off Select Items
-        *   $4 Body Cream, Today Only!
+        *   One Day Deal: $6 Fine Fragrance Mist
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
@@ -214,7 +214,7 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Today Only: $4 Body Cream
+        *   One Day Deal: $6 Fine Fragrance Mist
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4
         *   Wallflowers Refills: $6
