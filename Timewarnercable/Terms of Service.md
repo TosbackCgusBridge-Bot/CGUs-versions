@@ -219,4 +219,4 @@ Follow Us
 *   California Privacy Rights
 *   Website Terms of Use
 
-© 2004-2013 Time Warner Cable Inc. All rights reserved. Time Warner Cable and the Time Warner Cable logo are trademarks of Time Warner Inc. Used under license.
+© 2004-2013 Time Warner Cable Enterprises LLC. All rights reserved. Time Warner Cable and the Time Warner Cable logo are trademarks of Time Warner Inc., used under license.
