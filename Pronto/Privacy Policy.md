@@ -1,4 +1,4 @@
-Pronto.com - shop everywhere, right here Sign Up |  Login Account |  Logout
+Pronto.com - shop everywhere, right here
 
 *   shop by category
     *   Women
@@ -186,6 +186,8 @@ Pronto.com - shop everywhere, right here Sign Up |  Login Account |  Logout
     *   view all brands
     *   view all stores
 *   Sale!
+
+Sign Up |  Login Account |  Logout
 
 *   Home
 *   About
