@@ -21,13 +21,11 @@ This Privacy Policy applies to the Redbox web sites that post this policy (inclu
 
 *   COMMUNITY FORUMS, USER CONTENT AND POSTING INFORMATION THROUGH OUR PLATFORMS
 *   HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
-
-*   When You Agree to Receive Information From Third Parties or Otherwise Request That We Share Your Information
-*   Third Parties Providing Services on Our Behalf
-*   Sweepstakes, Contests and Promotions
-*   Administrative and Legal Reasons
-*   Business Transfers
-
+    *   When You Agree to Receive Information From Third Parties or Otherwise Request That We Share Your Information
+    *   Third Parties Providing Services on Our Behalf
+    *   Sweepstakes, Contests and Promotions
+    *   Administrative and Legal Reasons
+    *   Business Transfers
 *   YOUR CALIFORNIA PRIVACY RIGHTS
 *   THIRD PARTY CONTENT, ANALYTICS PROVIDERS AND AD SERVERS
 *   CHANGING YOUR INFORMATION AND UPDATING YOUR PREFERENCES AND SUBSCRIPTIONS
@@ -93,7 +91,7 @@ We may also record information regarding the use of our Kiosks. This information
 **Information Third Parties Provide About You and Social Media Interactions**
 
   
-Redbox may receive information about you from third parties. For example, if you are on another web site and you agree to receive information from Redbox, that web site will forward your contact and other information to us so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook applications or a similar application or feature on a third party web site) through which you post content or allow us to collect (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected.  In addition, we may receive information about you if other users of a third party web site give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third party web site, application or interactive service.   
+Redbox may receive information about you from third parties. For example, if you are on another web site and you agree to receive information from Redbox, that web site will forward your contact and other information to us so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook applications or a similar application or feature on a third party web site) through which you post content or allow us to collect (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected.  In addition, we may receive information about you if other users of a third party web site give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third party web site, application or interactive service. 
 
 We also may verify or supplement the information we collect with outside records from third parties in order to provide you with information, services or goods you have requested, to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.  We may combine the information we receive from those other sources with information we collect through the Redbox Platforms. In those cases, we will apply this Privacy Policy to the combined information.
 
