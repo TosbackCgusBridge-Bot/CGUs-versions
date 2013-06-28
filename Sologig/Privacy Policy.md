@@ -1,12 +1,11 @@
-Employers: Post a Job Already Registered? Sign In >. >.
-
 *   Home
+*   My Profile
 *   Search Jobs
-*   My Sologig
-*   My Recommended Jobs
-*   Articles
+*   Post Resume
+*   Recommendations
 *   All Jobs
-*   Employers
+*   Articles
+*   Sign In / Register
 
 Protect Your Privacy and Safety
 
@@ -290,11 +289,42 @@ Please be advised that CareerBuilder will never initiate a request for your pers
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
 
-© 2010 Sologig.com. All Rights Reserved.
+Partner Sites: Full-Time Jobs | Jobs.net | Consulting Job | Restaurant Jobs | Employment Resources | Salary Calculator | Free Career Test | DegreeDriven.com  
+CB Institute | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | Resume Writing
 
-Contact Us|Privacy Guidelines|Terms &. Conditions|Skills Index|Browse IT Jobs
+About Us
 
-Partner Sites: Management &. Executive Jobs | Full-Time Jobs | Accounting Jobs | Retail Jobs | Restaurant Jobs | Employment Resources | Salary Calculator | Free Career Test | DegreeDriven.com  
-CB Institute | Entry level Jobs | Internships | Healthcare Jobs | Therapy Jobs | Allied Health Jobs | Nursing Jobs | IT Talent Networks | Resume Writing
+*   About Sologig
+*   Privacy
+*   Terms &. Conditions
 
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+  
+Browse Jobs
+
+*   Civil Engineering Jobs
+*   Java Developer Jobs
+*   PHP Developer Jobs
+*   Ruby Developer Jobs
+*   All Jobs
+
+Employers
+
+*   Post Jobs
+*   Sologig for Employers
+
+  
+Partner Sites
+
+*   Management Jobs
+*   Healthcare Jobs
+*   Accounting Jobs
+*   Entry Level Jobs
+*   Retail Jobs
+*   Transportation Jobs
+*   Resume Writing
+
+Sologig Office 200 N. LaSalle St  
+Suite 1100  
+Chicago, IL 60601  
+(866) 438-1485  
+© 2013 Sologig.com. All Rights Reserved. Customer Service: 877-857-6861 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
