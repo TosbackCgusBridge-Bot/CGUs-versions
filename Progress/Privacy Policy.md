@@ -1,6 +1,4 @@
 *   Home
-
-*   Home
 *   Models
 *   Inventory
 *   Innovation
@@ -21,9 +19,9 @@ The Summer of Audi Event
 
 It's time to explore the Summer of Audi special offers, put the top down and take to the open road. Get ready for the signature Audi performance and luxury.
 
-See special offers The 24 Hours of Le Mans 2013Audi makes history again.
+See special offers The 24 Hours of Le MansWe're out to make history again.
 
-Le Mans is a grueling test of both man and machine, a 24-hour-long race, that pushes the limits of endurance and engineering. With TDI® clean diesel and e-tron® technology Audi captured an unbelievable twelfth Le Mans victory.
+Le Mans is a grueling test of both man and machine, a 24-hour-long race, and the only breaks are pit stops. The trick with pit stops? Not needing as many. And thanks to TDI® clean diesel, we didn't. Last year, Audi made history by being the first team to win the race in a hybrid.
 
 Fuel your passion for motorsport TDI® clean dieselGetting more from less.
 
@@ -35,7 +33,7 @@ The small car making big news. A culmination of dynamic design, visionary techno
 
 Explore the all-new A3 quattro®Four is superior to two.
 
-More than 30 years ago, Audi quattro® became the first permanent all-wheel drive system designed for passenger vehicles. Today, it plays an essential role in the Audi experience, insuring its place as an engineering legend.
+More than 30 years ago, Audi quattro® became the first permanent all-wheel drive system designed for passenger vehicles. Today, it plays an essential role in the Audi experience, insuring its place as an engineering legend.  
 
 Experience quattro® The Audi range The Audi range The Audi range SedansStarting at $32,500 View models CoupesStarting at $37,850 View models ConvertiblesStarting at $41,650 View models SUVs, crossovers, and wagonsStarting at $35,900 View models Audi ownership Audi ownership Audi ownership myAudi
 
