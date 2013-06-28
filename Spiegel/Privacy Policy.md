@@ -399,8 +399,6 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Ferientermine
 *   Bücher  
     bestellen
-*   eBooks  
-    kaufen
 *   Partnersuche
 *   Arztsuche
 *   DSL-Vergleich
