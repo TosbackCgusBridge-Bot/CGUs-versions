@@ -129,15 +129,16 @@ We retain information only for as long as we need it. In relation to the followi
 7\. Accessing your Information
 
 1.  If you are an O2 Portal Registered Customer, you may verify, update or amend the personal information you have provided to O2 online at any time by clicking on "My details" under the heading "My O2". The 'opt-in' on the website allows you to select whether you receive marketing information from O2 only, or from our business partners. You can opt-out of either or both at any time.
-2.  We can supply certain types of personal information on request: including but not limited to billing, name and address, aggregated phone usage. Requests should be made in writing and include your name, mobile telephone number and proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and address (for example, a copy of a utility bill or bank statement), and the information you require. We'll charge you £10 to cover the administrative cost of supplying the requested information. If we hold any inaccurate information about you, please tell us and we will correct it.
-    *   Our address is: Data Controller
-    *   Telefónica UK Limited
-    *   Arlington Business Centre
-    *   Suite N
-    *   Free Post RLUY-JUEY-KYHR
-    *   Leeds
-    *   West Yorkshire
-    *   LS11 0NE
+2.  We can supply certain types of personal information on request: including but not limited to billing, name and address, aggregated phone usage. Requests should be made in writing and include your name, mobile telephone number and proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and address (for example, a copy of a utility bill or bank statement), and the information you require. We'll charge you £10 to cover the administrative cost of supplying the requested information. If we hold any inaccurate information about you, please tell us and we will correct it.  
+      
+    Our address is:  
+    Data Controller – Subject Access  
+    Telefónica UK Limited  
+    5 Reynoldston Close  
+    Brackmills Industrial Estate  
+    Northampton  
+    Northamptonshire  
+    NN4 7BX
 
 8\. Changes to this Policy
 
