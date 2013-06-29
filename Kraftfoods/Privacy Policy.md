@@ -1,4 +1,4 @@
-Effective Date: May 15, 2013 Kraftfoods.com Privacy Notice This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
+Effective Date: June 28, 2013 Kraftfoods.com Privacy Notice This website is owned and operated by Kraft Foods Group, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information.
 
 *   Information We Collect
     *   Personally-Identifiable Information
@@ -18,7 +18,7 @@ Effective Date: May 15, 2013 Kraftfoods.com Privacy Notice This website is owned
     *   How We Share Your Information
     *   Links To Other Websites
     *   Your Choices
-    *   Children’s Privacy
+    *   Children’s Information
     *   How We Protect Your Information
     *   Updates To This Privacy Notice
     *   How To Contact Us
@@ -113,15 +113,9 @@ Your Choices
 
 You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the "Your Profile" section of the site. If you’re not registered with this site, you can change your preferences by clicking here. If you prefer, you can cancel your registration altogether. E-mail us if you wish to take this action.
 
-Children's Privacy
+Children's Information
 
-Some portions of our website may be directed to children under 13. In these areas of our website, our conduct is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus. If you are under 13, please be sure to read this notice with your parent or legal guardian.
-
-We do not knowingly collect personally-identifiable information from children under 13 on our website, except as permitted by legal requirements and the CARU guidelines. We sometimes offer promotions on our website, such as contests, sweepstakes and games, which children may enter. In those cases, we do not require a child to disclose more information than is reasonably necessary to participate in the promotion as a condition of participation. If we need more than just your child’s first name (or screen name) and e-mail address for your child to participate in a particular online promotion, we will ask your child for your e-mail address so that we can notify you of your child’s request and obtain your permission. When we ask for your permission, we will tell you what we will do with the information that you or your child provides us. In addition, if a child under 13 signs up with us for an email newsletter or other online activity that requires more than one online contact, we also ask the child for your email address so that we can notify you and give you the opportunity to opt your child out of further communications from us. Unless you have explicitly consented, we do not (i) use your child’s personal information for any purpose other than to complete the promotion or (ii) share the information with third parties except as described above in this Privacy Notice. We do not keep your (or your child’s) email address unless you tell us it is okay.
-
-We permit children under the age of 13 to contact us through the website "Contact Us" link with questions or comments. We request only the child’s first name and e-mail address and use that information solely to respond directly to the child on a one-time basis. We do not use the information to recontact the child and we delete the child’s personal information from our database after responding to the child’s inquiry.
-
-Upon proper identification, a parent may review any personal information we have collected from his or her child if we still have the information in our database. The parent also may request that the child’s information be deleted from our database and may refuse to permit further collection or use of the child’s information. If you are a parent and wish to exercise these rights, please contact us as described below.
+This site is intended for general audiences and Kraft does not knowingly collect any personal information from children under the age of 13.
 
 How We Protect Your Information
 
@@ -147,6 +141,6 @@ E-mail us.
 
 We would be happy to answer your questions or hear your concerns.
 
-© 2011 Kraft Foods
+© 2013 Kraft Foods
 
 Printer-Friendly VersionSend to a Friend
