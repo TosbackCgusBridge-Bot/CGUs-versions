@@ -23,7 +23,7 @@ _May 30, 2013_
 
 **1\. INTRODUCTION**
 
-New York Post (“NYP” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “NYP Services”). By using the NYP Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“NYP Affiliates”) is available at www.newscorp.com.
+New York Post (“NYP” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “NYP Services”). By using the NYP Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“NYP Affiliates”) is available here.
 
 As set forth in our Terms of Use, the NYP Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
