@@ -32,7 +32,7 @@ You have selected:
 City:  
 \- or - Zipcode:  
     
-Save My Location For Your Home For Your Business Customer Support Local Information All About Us **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Terms &. Conditions
+Save My Location Order Now For Your Home For Your Business Customer Support Local Information **You are here:** Home Terms &. Conditions Closed Captioning Copyright Notice Privacy Policy Internet AUP Annual Notice (PDF) Network Management Cable Service Guard Terms &. Conditions
 
 **Terms and Conditions**
 
