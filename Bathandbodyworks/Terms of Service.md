@@ -7,7 +7,7 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: 50% Off Aromatherapy
+        *   One Day Deal! $2.50 Wallflowers Single Bulbs
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4 &. Up
         *   Signature: Buy 3 Get 3 Free
@@ -62,10 +62,10 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: 50% Off Aromatherapy
+        *   One Day Deal! $2.50 Wallflowers Single Bulbs
         *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
-        *   Select Home Fragrance: $3
+        *   Buy 4 Get 2 Free Scentportables
     *   Candles
         
         *   3-Wick Candles
@@ -103,7 +103,7 @@ Welcome! **(Log in)**
 *   *   Features
         *   Sale: Up to 75% Off
         *   Hand Soap: $3
-        *   One Day Deal: 50% Off Aromatherapy
+        *   One Day Deal! $2.50 Wallflowers Single Bulbs
         *   PocketBacs: 5 for $5
     *   Hand Soap
         
@@ -137,10 +137,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: 50% Off Aromatherapy
+        *   One Day Deal! $2.50 Wallflowers Single Bulbs
+        *   Select Aromatherapy: 50% Off
         *   True Blue Spa: Buy 2 Get 2 Free
-        *   Aromatherapy: Buy 2 Get 1 Free
-        *   C.O. Bigelow: Buy 2 Get 1 Free
+        *   Mix &. Match Bodycare: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -183,7 +183,7 @@ Welcome! **(Log in)**
         *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
-        *   One Day Deal: 50% Off Aromatherapy
+        *   One Day Deal! $2.50 Wallflowers Single Bulbs
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
@@ -212,7 +212,7 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
-        *   One Day Deal: 50% Off Aromatherapy
+        *   One Day Deal! $2.50 Wallflowers Single Bulbs
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4
         *   Wallflowers Refills: $6
@@ -265,11 +265,9 @@ Welcome! **(Log in)**
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
 *   *   Features
-        *   Let's Go to Italy!
+        *   Summer Paradise!
         *   Beautiful Day
         *   Lakeside
-        *   Fresh Picked Market
-        *   Meet Us in Paradise
 
 *   *   Features
         *   Save Up to 75% Off Select Items
