@@ -52,7 +52,7 @@ Skip to Main Content Search this site:
     *   Seniors Social Security, Medicare, health plans, nursing homes
 *   Visit &. Play
     
-    *   Activities &. Events Local events, fairs, farmers markets, hunting and fishing, wine and food, parks
+    *   Activities &. Events Events, fairs, farmers markets, parks, and things to do
     *   Arts &. Culture Museums, arts, history, wine and food, parks
     
     *   California Shopping Passes, tickets, sales and auctions, bonds, excess lands, surplus property, vehicles, equipment, lottery, souvenirs, gifts, special plates
