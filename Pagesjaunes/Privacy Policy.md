@@ -925,12 +925,10 @@ A propos
 
 *   PagesJaunes Groupe
 *   PagesJaunes recrute
-*   Ecrire à PagesJaunes
-*   Plan du site
-*   FAQ
-*   Aide
-*   Widgets PagesJaunes
 *   Souscrire de la publicité
+*   Widgets PagesJaunes
+*   Plan du site
+*   Aide
 
 Retrouvez PagesJaunes sur Facebook
 
