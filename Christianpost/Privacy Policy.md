@@ -157,7 +157,6 @@ No one under the age of 13 should provide any personal information. In general, 
 *   Audio Bible
 *   iPost
 *   Books
-*   Shopping
 *   Travel
 
 Copyright © 2013 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
