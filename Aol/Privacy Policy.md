@@ -71,7 +71,19 @@ AOL has established safeguards to help prevent unauthorized access to or misuse 
 
 Protecting Children
 
-AOL Services are intended for a general audience, and children under the age of thirteen should not register without the consent of a parent or guardian. AOL offers services directed toward children such as the AOL Kids service and parentally controlled screen names. For information about our practices for the handling of children's online data please review our Note to Parents.
+AOL Services are intended for a general audience, and children under the age of thirteen should not register without the consent of a parent or guardian.  When you register your child for an AOL email address, you consent to allow your child to use all AOL Services. See Collection of your AOL Information above to learn about the ways AOL may collect information from your child.  
+   
+Please contact us with any questions about our Children's Privacy Practices:  
+  
+By mail:  
+AOL Children's Online Privacy  
+ATT: H2A:H09  
+22000 AOL Way  
+Dulles, VA 20166-9302  
+  
+By phone:  
+(888) 206-6088  
+ 
 
 How to Contact Us
 
@@ -86,4 +98,4 @@ AOL may update this Privacy Policy from time to time, and so you should review t
 European Union Residents:  AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
 
 _Last Updated_  
-_05-14-2013_
+_06-28-2013_
