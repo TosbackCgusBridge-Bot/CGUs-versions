@@ -1,4 +1,4 @@
-Effective August 23, 2012:
+Effective June 28, 2013:
 
 This web site or mobile application ("Site") is owned and operated by a Sears Holdings Corporation entity or licensee ("Sears Holdings"). At Sears Holdings, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at webmaster@customerservice.sears.com. This Privacy Policy applies to information collected through this Site.**Please note that our subsidiary LandsEnd will continue to maintain its own privacy policy. You may view LandsEnd privacy policy by clicking http://www.landsend.com/customerservice/services\_policies/PS\_privacy.html**
 
@@ -44,14 +44,12 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click here (insert Link to Children's Privacy Policy here) to read our Children's Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Each Sears Holding's family of Sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed below for that Site.
 
 *   Collection of children's personal information
 *   Use of children's personal information
 *   The method of obtaining parental consent
 *   The method of obtaining access to the child's information
-
-Each Sears Holding's family of Sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed above for that Site.
 
 What About Links to Other Sites?
 
