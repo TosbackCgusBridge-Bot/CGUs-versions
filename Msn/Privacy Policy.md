@@ -1,6 +1,6 @@
 **FOX Sports Digital Privacy Policy**
 
-Effective Date: October 10, 2012
+Effective Date: June 28, 2013
 
 Table of Contents:  
 **1\. INTRODUCTION  
