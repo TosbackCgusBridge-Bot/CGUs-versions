@@ -133,4 +133,4 @@ Communautés d'assistance et de conseils.
 
 *   Forum Webmastering
 *   Forum Internet
-*   Forum Vos droits sur internet
+*   Forum Messagerie
