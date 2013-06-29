@@ -1,4 +1,4 @@
-**Effective October 26, 2011:**
+**Effective June 28, 2013:**
 
 *   What Type of Information Do We Collect?
 *   What Information Do We Share and with Whom?
@@ -80,7 +80,7 @@ Back to top
 
 How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click here to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed below for that Site.
 
   
 
@@ -88,10 +88,6 @@ Please click here to read our Children’s Online Privacy Policy for information
 *   Use of children’s personal information
 *   The method of obtaining parental consent
 *   The method of obtaining access to the child’s information
-
-  
-
-Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed above for that Site.
 
 Back to top
 
