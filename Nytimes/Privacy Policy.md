@@ -253,12 +253,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Paul McCarthy: WS"
+Search Help Downsizing, gone big
 
-Also in Arts »
+Also in Real Estate »
 
-*   The White Snow Project
-*   Here's Snow White. Don't bring the kids.
+*   Explore an 1880s stone house in Hampstead, London
+*   Homes for $699,000
 
   
 
