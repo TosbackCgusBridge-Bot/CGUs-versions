@@ -1,6 +1,6 @@
 Your Privacy Rights  
 
-We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on June 7, 2013, describes the information we collect and how we use it.
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on July 1, 2013, describes the information we collect and how we use it.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -17,6 +17,7 @@ Email: preferences@llbean.com
 *   Using Information We Collect
 *   Information We Share with Others and Your Privacy Rights
 *   Your Choices about Communication from L.L.Bean
+*   Third Party Catalog Opt-Out Services
 *   Cookies and Pixel Tags
 *   How We Use Email
 
@@ -94,7 +95,7 @@ To opt-out of direct personalized advertising on the Internet from L.L.Bean, cli
 
 **Third Party Catalog Opt-Out Services**
 
-Over the past several years, many third party services have become available to help consumers opt-out of catalog mailings. We currently do not honor requests made through these services, with the exception of Catalog Choice. We made this decision after careful consideration of customer service, data protection, privacy and whether or not fees were associated with the service. It is important to us that consumers not have to pay to make a catalog opt-out request. Catalog Choice met all of our requirements. If you prefer to use their service, we welcome you to visit their Web Site at catalogchoice.org. Whether you use Catalog Choice or contact us directly with your mailing preferences, we are committed to meeting your needs.
+Many third-party services are available to help you opt out of catalog mailings. After careful consideration of customer service, data protection, privacy and fees, L.L.Bean no longer honors requests made by these organizations. We do not think you should have to pay third parties to opt out of catalog mailings. We prefer to hear from you directly so we can best meet your needs—we want you to be satisfied with the communications you receive and are happy to honor your preference requests. Contacting us is easy. please refer to **Your Choices About Communication from L.L.Bean** in the section above.
 
  return to top
 
