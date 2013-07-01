@@ -7,8 +7,8 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Online Exclusive Body Care
         *   Select Body Care: $3 &. Up
-        *   Online Only Body Care: $4 &. Up
         *   Signature: Buy 3 Get 3 Free
         *   Body Care: Up to 50% Off
     *   Lotions &. Creams
@@ -62,10 +62,10 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Online Exclusive Body Care
         *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
         *   Select Home Fragrance: $3
-        *   Wallflowers: 6 for $24
     *   Candles
         
         *   3-Wick Candles
@@ -102,6 +102,7 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Online Exclusive Body Care
         *   Select Hand Soap: $3
         *   Hand Soap: 6 for $20
         *   PocketBacs: 5 for $5
@@ -137,10 +138,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Online Exclusive Body Care
         *   Select Aromatherapy: 50% Off
         *   True Blue Spa: Buy 2 Get 2 Free
         *   Mix &. Match Bodycare: Buy 2 Get 1 Free
-        *   Aromatherapy: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -183,6 +184,7 @@ Welcome! **(Log in)**
         *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
+        *   One Day Deal: Online Exclusive Body Care
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
@@ -211,8 +213,8 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: Online Exclusive Body Care
         *   Select Body Care: $3 &. Up
-        *   Online Only Body Care: $4
         *   Wallflowers Refills: $6
         *   Body Care: Up to 50% Off
     *   Body &. Bath
