@@ -3,7 +3,6 @@
 *   What Type of Information Do We Collect?
 *   What Information Do We Share and with Whom?
 *   Can I Disable Cookies?
-*   How Do We Handle Personally Identifiable Information Collected on Children?
 *   What About Links to Other Sites?
 *   What About Online Advertisements?
 *   Is My Information Secure?
@@ -75,19 +74,6 @@ Back to top
 Can I Disable Cookies?
 
 Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable cookies, please note that you may not be able to take full advantage of a personalized experience on this Site and on other Sears Holdings family of business Sites.
-
-Back to top
-
-How Do We Handle Personally Identifiable Information Collected on Children?
-
-Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed below for that Site.
-
-  
-
-*   Collection of children’s personal information
-*   Use of children’s personal information
-*   The method of obtaining parental consent
-*   The method of obtaining access to the child’s information
 
 Back to top
 
