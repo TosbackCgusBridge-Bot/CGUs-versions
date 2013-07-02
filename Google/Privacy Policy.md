@@ -1,6 +1,6 @@
 Datenschutzerklärung
 
-Zuletzt geändert am: 27. Juli 2012 (archivierte Versionen anzeigen)
+Zuletzt geändert am: 24. Juni 2013 (archivierte Versionen anzeigen)
 
 Sie können unsere Dienste auf vielfältige Weise nutzen – um nach Informationen zu suchen und diese zu teilen, um mit anderen zu kommunizieren oder um neue Inhalte zu erstellen. Wenn Sie uns Informationen mitteilen, zum Beispiel durch Erstellung eines Google-Kontos, sind wir in der Lage diese Dienste noch zu verbessern – indem wir Ihnen relevantere Suchergebnisse und Werbung anzeigen, Ihnen dabei helfen, mit anderen in Kontakt zu treten oder schneller und einfacher Inhalte mit anderen zu teilen. Wir möchten, dass Sie als Nutzer unserer Dienste verstehen, wie wir Informationen nutzen und welche Möglichkeiten Sie haben, um Ihre Daten zu schützen.
 
@@ -73,7 +73,7 @@ Transparenz und Wahlmöglichkeit
 Jeder hat unterschiedliche Bedenken im Hinblick auf den Datenschutz. Unser Ziel ist, Klarheit darüber zu schaffen, welche Informationen wir erheben, damit Sie sinnvolle Entscheidungen über deren Verwendung treffen können. Sie können beispielsweise:
 
 *   Durch Nutzung des Google-Dashboards bestimmte Arten von Informationen, die mit Ihrem Google-Konto verknüpft sind, überprüfen und verwalten.
-*   Durch Nutzung des Anzeigenvorgaben-Managers Ihre Anzeigenvorgaben für Werbung überprüfen und bearbeiten, wie beispielsweise die Kategorien, die Sie möglicherweise interessieren. Hier können Sie auch bestimmte Google-Werbedienste deaktivieren.
+*   Mithilfe der Anzeigeneinstellungen können Sie Ihre Anzeigenvorgaben für Werbung überprüfen und bearbeiten, wie beispielsweise die Kategorien, die Sie möglicherweise interessieren. Hier können Sie auch bestimmte Google-Werbedienste deaktivieren.
 *   Durch Nutzung unseres Editors Ihr Google-Profil aufrufen und dessen Darstellung gegenüber bestimmten Personen anpassen.
 *   Kontrollieren, mit wem Sie Informationen teilen.
 *   Informationen aus vielen unserer Dienste exportieren.
