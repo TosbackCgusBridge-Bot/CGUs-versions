@@ -244,10 +244,12 @@ Support The Programs You Love
     *   Car Talk
     *   The Diane Rehm Show
     *   Fresh Air
+    *   Here &. Now
     *   Morning Edition
     *   On The Media
     *   On Point
     *   Talk of the Nation
+    *   Science Friday
     *   TED Radio Hour
     *   Tell Me More
     *   Wait Wait...Don't Tell Me!
