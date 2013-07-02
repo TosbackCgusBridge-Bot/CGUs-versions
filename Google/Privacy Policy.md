@@ -1,6 +1,6 @@
 Privacybeleid
 
-Laatst aangepast: 27 juli 2012 (gearchiveerde versies weergeven)
+Laatst aangepast: 24 juni 2013 (gearchiveerde versies weergeven)
 
 U kunt onze services op verschillende manieren gebruiken: om informatie te zoeken en te delen, met andere mensen te communiceren of nieuwe inhoud te maken. Wanneer u gegevens met ons deelt, bijvoorbeeld door een Google-account te maken, kunnen we die services nog beter maken, om u relevantere zoekresultaten en advertenties te laten zien, u in contact te brengen met andere mensen of het delen van inhoud sneller en gemakkelijker te maken. We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw gegevens gebruiken en op welke manieren u uw privacy kunt beschermen.
 
@@ -73,7 +73,7 @@ Duidelijkheid en keuzemogelijkheden
 Mensen maken zich op verschillende manieren zorgen over hun privacy. Het is ons doel duidelijk te zijn over de gegevens die we verzamelen, zodat u weloverwogen beslissingen kunt nemen over hoe uw gegevens worden gebruikt. U kunt bijvoorbeeld:
 
 *   Bepaalde soorten gegevens die zijn gekoppeld aan uw Google-account, controleren en beheren via Google Dashboard.
-*   Uw advertentievoorkeuren, zoals welke categorieën u interesseren, weergeven en bewerken via Beheer van advertentievoorkeuren. U kunt zich hier ook afmelden voor bepaalde advertentieservices van Google.
+*   Uw advertentievoorkeuren, zoals welke categorieën u interesseren, weergeven en bewerken via Advertentie-instellingen. U kunt zich hier ook afmelden voor bepaalde advertentieservices van Google.
 *   Onze editor gebruiken om te bekijken en aan te passen hoe uw Google-profiel wordt weergegeven aan bepaalde mensen.
 *   Beheren met wie u gegevens deelt.
 *   Gegevens verwijderen uit veel van onze services.
