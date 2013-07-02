@@ -1,6 +1,6 @@
 Política de Privacidade
 
-Última modificação: 27 de julho de 2012 (visualizar versões arquivadas)
+Última modificação: 24 de junho de 2013 (visualizar versões arquivadas)
 
 Existem muitas maneiras diferentes pelas quais você pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo. Quando você compartilha informações conosco, por exemplo, criando uma Conta do Google, podemos tornar esses serviços ainda melhores – mostrar-lhe resultados de pesquisa e anúncios mais relevantes, ajudá-lo a se conectar com pessoas ou tornar o compartilhamento com outras pessoas mais rápido e fácil. Quando você usa nossos serviços, queremos ser claros quanto ao modo como estamos usando suas informações e ao modo como você pode proteger sua privacidade.
 
@@ -73,7 +73,7 @@ Transparência e escolha
 As pessoas têm diferentes preocupações sobre privacidade. Nosso objetivo é a clareza quanto às informações que coletamos, de modo que você possa fazer escolhas importantes sobre como elas são usadas. Por exemplo, você pode:
 
 *   Rever e controlar determinados tipos de informações ligados a sua Conta do Google por meio do Google Dashboard.
-*   Visualizar e editar suas preferências de anúncios, como as categorias que podem interessar a você, por meio do Gerenciador de preferências de anúncio. Você também pode desautorizar (“opt-out”) determinados tipos de serviços de anúncio aqui.
+*   O usuário pode visualizar e editar suas preferências de anúncios, como as categorias de seu interesse, por meio das Configurações de anúncios. O usuário também pode desativar determinados serviços de anúncios da Google aqui.
 *   Use nosso editor para ver e ajustar a forma como seu Perfil do Google é mostrado a indivíduos em particular.
 *   Controle com quem você compartilha informações.
 *   Obtenha informações de muitos de nossos serviços.
