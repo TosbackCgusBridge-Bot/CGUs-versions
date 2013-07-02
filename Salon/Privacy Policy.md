@@ -77,7 +77,7 @@ _**Business Transfers/Bankruptcy.**_ If we are acquired by or merged with anothe
 
 User Generated Content
 
-Certain portions of our Services permit registered users to post comments, e.g., in response to an article. Any information that you post to our Services may be viewable by other visitors to our Services. We are not responsible for the privacy of any information that you choose to post, or for the accuracy of any information contained in those postings. Any information that you disclose becomes public information. We cannot prevent such information from being used in a manner that may violate this Policy, the law or your personal privacy.
+Certain portions of our Services permit registered users to post content, including, for example, commenting on an article, posting a picture, etc. Any information that you post to our Services may be viewable by other visitors to our Services. We are not responsible for the privacy of your submissions, or for the accuracy of any information contained in those submissions. Any information that you disclose becomes public information. We cannot prevent such information from being used in a manner that may violate this Policy, the law or your personal privacy.
 
 Advertising
 
