@@ -1,4 +1,4 @@
-You have successfully validated your e-mail address. Privacy Policy
+Privacy Policy
 
 This privacy policy was last updated on August 1, 2012.
 
