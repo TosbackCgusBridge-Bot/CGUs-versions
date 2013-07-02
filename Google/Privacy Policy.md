@@ -1,6 +1,6 @@
 Règles de confidentialité
 
-Date de la dernière modification : 27 juillet 2012 (voir les versions archivées)
+Date de la dernière modification : 24 juin 2013 (voir les versions archivées)
 
 Vous pouvez avoir recours à nos services pour toutes sortes de raisons – pour rechercher et partager des données, pour communiquer avec d’autres personnes ou pour créer de nouveaux contenus. En partageant vos données avec nous, par exemple lorsque vous créez un Compte Google, vous nous permettez d’améliorer encore la qualité de ces services – en améliorant la pertinence des annonces et des résultats qui vous sont proposés, en vous aidant à établir des contacts ou en facilitant et en accélérant le partage de vos données. En tant qu’utilisateur de nos services, nous souhaitons que vous compreniez comment nous utilisons vos données et de quelles manières vous pouvez protéger votre vie privée.
 
@@ -73,7 +73,7 @@ Transparence et liberté de choix
 Les préoccupations en matière de confidentialité diffèrent d’une personne à l’autre. Nous souhaitons faire preuve de transparence sur la façon dont nous collectons et utilisons les données qui vous concernent, afin que vous disposiez de tous les éléments pour faire des choix informés. Vous pouvez par exemple effectuer les actions ci-dessous :
 
 *   Utiliser Google Dashboard pour vérifier et contrôler certains types de données liés à votre Compte Google.
-*   Utiliser le Gestionnaire de Préférences pour les Annonces pour consulter et modifier vos préférences en matière de publicité, telles que les catégories d’annonces susceptibles de vous intéresser. Vous pouvez également utiliser cet outil pour désactiver certains services publicitaires Google.
+*   Grâce aux paramètres des annonces, vous pouvez consulter et modifier vos préférences en matière d’annonces, telles que les catégories susceptibles de vous intéresser. Vous pouvez également choisir de désactiver certains services publicitaires Google.
 *   Utiliser notre outil d’édition pour visualiser la façon dont certaines personnes voient votre Profil Google et pour l’ajuster en conséquence.
 *   Contrôler avec qui vous partagez vos données.
 *   Supprimer des données de plusieurs de nos services.
