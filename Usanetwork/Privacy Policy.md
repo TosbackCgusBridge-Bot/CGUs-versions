@@ -5,7 +5,7 @@ Skip to main content USA Network USA Shows x
 *   CSI
 *   New! Graceland
 *   House
-*   Law &. Order: CI
+*   Law &. Order: Criminal Intent
 *   Law &. Order: SVU
 *   The Moment
 *   NCIS
@@ -16,7 +16,7 @@ Skip to main content USA Network USA Shows x
 *   Suits
 *   New! Summer Camp
 *   White Collar
-*   WWE Raw
+*   WWE Monday Night Raw
 
 Full Episodes Social Schedule More x More on USA
 
