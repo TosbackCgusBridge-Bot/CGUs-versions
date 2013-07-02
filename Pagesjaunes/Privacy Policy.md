@@ -149,7 +149,7 @@ Jean-Pierre Remy
       
     Vous pouvez consultez la liste des traitements vous concernant en vous adressant au Correspondant Informatique et Libertés (CIL) de PagesJaunes par voie postale à l’adresse suivante : PagesJaunes – Correspondant Informatique et Libertés – 7, avenue de la Cristallerie – 92317 Sèvres Cedex ou par courrier électronique à l'adresse cil-pjg@pagesjaunes.fr .  
       
-    Pour mieux connaître vos droits et vos devoirs, vous pouvez également consulter le site de la Commission Nationale de l’Informatique et des Libertés www.cnil.fr.  
+    Pour mieux connaître vos droits et vos devoirs, vous pouvez également consulter le site de la Commission Nationale de l’Informatique et des Libertés www.cnil.fr.
     
       
     **1\. Identité du responsable du traitement**  
@@ -235,7 +235,17 @@ Jean-Pierre Remy
     
     3\. Si vous n’avez pas choisi de lieu favori, les informations affichées concerneront la localité correspondant à la recherche que vous avez effectuée sur notre site.
     
-*   Les cookies tiers  
+*   Historique de recherches et de résultats
+    
+*    Nous vous proposons de bénéficier d’un historique de vos recherches et de vos résultats. Pour cela, les saisies de vos recherches ainsi que les professionnels consultés sont historisés dans votre navigateur Internet. Votre historique est effacé automatiquement au bout de 60 jours. Vous pouvez à tout moment le désactiver et l’effacer en cliquant  sur le bouton « Désactiver et effacer mon historique » sur la page suivante.
+    
+*    Sachez que la prise en compte de la désactivation et de l’effacement de votre historique repose sur un cookie. Par conséquent, si vous désactivez tous les cookies de votre terminal ou si vous changez de terminal, nous ne saurons plus que vous avez choisi cette option.
+    
+     Par ailleurs, nous ne vous permettons pas d’historiser les professionnels ayant un lien avec des activités relatives aux origines raciales ou ethniques, aux opinions politiques, philosophiques ou religieuses, à l’appartenance syndicale, à la santé ou la vie sexuelle.  C’est pour cette raison que vous ne verrez pas apparaître ces professionnels dans votre historique.
+    
+     Si vous souhaitez cependant les conserver, nous vous invitons à vous créer un Carnet d’adresses (via votre compte utilisateur), pour pouvoir y stocker volontairement toutes les coordonnées de professionnels que vous souhaitez et y accéder par la suite. 
+    
+    Les cookies tiers  
       
     Lorsque vous accédez à notre site, un ou plusieurs cookies de sociétés partenaires (« cookies tiers ») sont susceptibles d’être placés dans votre terminal. Ces cookies tiers ont pour finalité d’identifier vos centres d’intérêt au travers des produits consultés sur notre site et de collecter des données de navigation afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de nos sites.  
       
@@ -264,7 +274,7 @@ Jean-Pierre Remy
     Vues immersives  
       
     Conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée par la loi du 6 août 2004, vous pouvez nous signalez un contenu inapproprié ou nous demander de « flouter » une image si vous arrivez à vous reconnaitre ou à reconnaitre un membre de votre famille. Par ailleurs, tout résident, locataire ou propriétaire, lorsqu'il est seul occupant d'un immeuble ou d'une maison ainsi que l'ensemble des copropriétaires d'un immeuble peuvent demander la suppression d’une vue immersive de cet immeuble ou maison sous réserve de fournir un justificatif de domicile.   
-    Vous pouvez exercer les droits ci-dessus décrits en utilisant le formulaire prévu à cet effet sur le site web  www.urbandive.com, rubrique « signaler une image » à partir de l’image en question, ou en écrivant à Mappy – Réclamation, 9 rue Maurice Mallet - Immeuble Central Park – 92130 Issy-les-Moulineaux en nous indiquant la localisation exacte de la prise de vue.  
+    Vous pouvez exercer les droits ci-dessus décrits en utilisant le formulaire prévu à cet effet sur le site web  www.urbandive.com, rubrique « signaler une image » à partir de l’image en question, ou en écrivant à Mappy – Réclamation, 9 rue Maurice Mallet - Immeuble Central Park – 92130 Issy-les-Moulineaux en nous indiquant la localisation exacte de la prise de vue.
     
       
     Cookies  
@@ -523,9 +533,8 @@ Ce site et son contenu sont la propriété exclusive de PagesJaunes© Tous droit
 *   Haut de page
     
 
-**Conditions d'utilisation :** **mentions particulières** **pour réserver un hôtel en ligne  
-  
-**
+**Conditions d'utilisation :** **mentions particulières** **pour réserver un hôtel en ligne**  
+ 
 
 Le service de réservation d’hôtels accessible sur www.pagesjaunes.fr(« Service de Réservation PagesJaunes »)  permet aux internautes de chercher et de faire des réservations en ligne de chambres d’hôtel.  
   
@@ -586,9 +595,8 @@ Les conditions générales applicables peuvent être modifiées à tout moment, 
 
 Haut de page
 
-**Article 2. Utilisation du Service de  Réservation PagesJaunes  
-  
-**
+**Article 2. Utilisation du Service de  Réservation PagesJaunes**  
+ 
 
  2.1 Capacité – Utilisation du Service de Réservation PagesJaunes  
 Le Service de Réservation PagesJaunes a notamment pour objet d’assister le Client dans la recherche et la réservation de Prestations proposées par les Prestataires Touristiques.  
@@ -686,9 +694,8 @@ Il sera procédé au débit du montant total de la ou les Prestations (pas de fr
 
 Les cartes des réseaux Carte Bleue, Visa, Eurocard/Mastercard sont acceptées. PagesJaunes se réserve le droit de ne pas accepter certaines cartes émises en dehors du territoire français.
 
-**Article 5. Service Clients et réclamations  
-  
-**
+**Article 5. Service Clients et réclamations**  
+ 
 
 Toute demande d'informations, de précisions et réclamations éventuelles doit être adressée à ConstellationNetwork®/ PagesJaunes - Service Custumer Care : 230, rue James Watt – 66000 Perpignan, qui les collecte au nom et pour le compte des Prestataires Touristiques :  
 \- soit par téléphone au numéro suivant : 04 68 68 65 21  
@@ -780,10 +787,9 @@ Les présentes Conditions Générales, et plus généralement tout contrat concl
   
 Tout litige relatif à leur interprétation et/ou à leur exécution relève des tribunaux français.
 
-**Article 13. Reproduction des articles** **R. 211-3 à R. 211-11 du Code du tourisme  
+**Article 13. Reproduction des articles** **R. 211-3 à R. 211-11 du Code du tourisme**  
   
-  
-**
+ 
 
 Article R. 211-3  
 Sous réserve des exclusions prévues aux troisième et quatrième alinéas de l'article L. 211-7, toute offre et toute vente de prestations de voyages ou de séjours donnent lieu à la remise de documents appropriés qui répondent aux règles définies par la présente section.
