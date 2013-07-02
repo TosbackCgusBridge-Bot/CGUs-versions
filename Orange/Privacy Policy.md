@@ -6,7 +6,7 @@ En tant quinternaute, lorsque vous utilisez un des services du portail www.ora
 
   
 
-Les Données communiquées par vous, le cas échéant, lors de l'utilisation d'un des services proposés sur le Portail sont traitées soit par FRANCE TELECOM, si ce service est proposé et exploité par FRANCE TELECOM, soit par une société tierce partenaire si ce service est proposé et exploité par une société tierce partenaire. Si les Données de l'utilisateur sont traitées par FRANCE TELECOM, les droits mentionnés au paragraphe précédent sont rappelés et précisés dans chacune des Conditions Générales d'Utilisation (Ci-après dénommées CGU) du service concerné et à tout moment vous pourrez accéder, modifier ou supprimer ses Données selon les conditions mentionnées dans ces CGU. Si les Données sont communiquées à une société tierce partenaire, vous êtes invité à prendre connaissance de la politique de données personnelles de cette société tierce.
+Les Données communiquées par vous, le cas échéant, lors de l'utilisation d'un des services proposés sur le Portail sont traitées soit par Orange, si ce service est proposé et exploité par Orange, soit par une société tierce partenaire si ce service est proposé et exploité par une société tierce partenaire. Si les Données de l'utilisateur sont traitées par Orange, les droits mentionnés au paragraphe précédent sont rappelés et précisés dans chacune des Conditions Générales d'Utilisation (Ci-après dénommées CGU) du service concerné et à tout moment vous pourrez accéder, modifier ou supprimer ses Données selon les conditions mentionnées dans ces CGU. Si les Données sont communiquées à une société tierce partenaire, vous êtes invité à prendre connaissance de la politique de données personnelles de cette société tierce.
 
   
 
@@ -14,4 +14,4 @@ En outre, lorsque vous visualisez ou cliquez sur des bandeaux publicitaires lors
 
   
 
-Pour plus d'information sur nos engagements en matière de données personnelles, France TELECOM vous invite à consulter la Charte d'Orange relative à la protection des données personnelles et de la vie privée.
+Pour plus d'information sur nos engagements en matière de données personnelles, Orange vous invite à consulter la Charte d'Orange relative à la protection des données personnelles et de la vie privée.
