@@ -1,7 +1,5 @@
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 06/28/2013
-
 Welcome! This Privacy Policy governs the websites and online services within the Nickelodeon Group, which includes the websites and online services listed here, including those operated by NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites. how such information is used and stored. when such information may be disclosed to third parties. how users, parents, and guardians can control the use and disclosure of collected information. and how information is protected.
 
 Our visitors’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Nickelodeon Sites permitting such visitors.  Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries.  Younger visitors should always check with their parents or guardians before entering information on any website and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
