@@ -1,7 +1,5 @@
 TERMS OF USE AND SALE
 
-TÉRMINOS DE USO Y VENTA
-
 Updated April 2013
 
   
