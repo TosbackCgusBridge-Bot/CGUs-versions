@@ -1,4 +1,4 @@
-Shop P.S. from Aéropostale
+Live Love Shop P.S. from Aéropostale
 
 *   My Account
 *   Track Order
