@@ -159,7 +159,7 @@ We may also transfer and disclose user information, including Personal Informati
 **Business Transfers**
 
   
-Redbox may share Personal Information with its parent, Coinstar, Inc., or its subsidiaries and affiliates, primarily for business and operational purposes. Redbox also reserves the right to disclose and transfer all information related to a Site, our mobile applications and our Kiosks, including Personal Information: (i) to a subsequent owner, co-owner or operator of a Site or applicable database. or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of certain of Redbox’s ownership interests, assets, or both, or other company change, including, without limitation, during the course of any due diligence process.
+Redbox may share Personal Information with its parent, Outerwall, Inc., or its subsidiaries and affiliates, primarily for business and operational purposes. Redbox also reserves the right to disclose and transfer all information related to a Site, our mobile applications and our Kiosks, including Personal Information: (i) to a subsequent owner, co-owner or operator of a Site or applicable database. or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of certain of Redbox’s ownership interests, assets, or both, or other company change, including, without limitation, during the course of any due diligence process.
 
   
 **THIRD PARTY CONTENT, ANALYTICS PROVIDERS AND AD SERVERS**
