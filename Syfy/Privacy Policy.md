@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Defiance - Sneak Peek - Past is Prologue Defiance - Sneak Peek - Past is Prologue
+Syfy Video Ark Hunter Chronicles - Director's Cut Ark Hunter Chronicles - Director's Cut
 
-Catch a sneak peek of Defiance, Monday 9/8c
+Watch the full Ark Hunter Chronicles from Defiance the game.
 
-Top 10 Must See Moments Top 10 Must See Moments
+Is that Datak in a Soccer Pub? Is that Datak in a Soccer Pub?
 
-Here are our top 10 Must See Moments so far from Defiance. What are yours?
+Tony and Grant share a hilarious story about Datak Tarr showing up at a Celtic pub.
 
-Who is a Bigger Threat - Datak or Stahma? Who is a Bigger Threat - Datak or Stahma?
+Defiance - Sneak Peek - Season Finale Defiance - Sneak Peek - Season Finale
 
-See who Tony Curran (Datak) and Jaime Murray (Stahma) say is the biggest threat between Datak &. Stahma Tarr.
+Get a sneak peek of the season finale of Defiance Monday 9/8c.
 
-Jaime Murray - Favorite Scene Jaime Murray - Favorite Scene
+Lets Hope She Has Malpractice Insurance Lets Hope She Has Malpractice Insurance
 
-In this exclusive interview, Jaime Murray talks about her favorite scene to shoot during Defiance.
+On Doc Yewlls operating table, Irisas body undergoes a startling transformation.
 
 *   FAQ
 *   Feedback
