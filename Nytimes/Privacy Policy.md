@@ -1,5 +1,4 @@
-*   Subscribe: Digital / Home Delivery
-        campaign: nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2 -- 218268, creative: bar1\_abTest\_hover -- 340400, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+*   Help
 
 *   Home Page
 *   Today's Paper
@@ -253,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Reactions to DOMA on social media
+Search Help Winklevoss twins plan first fund for bitcoins
 
-Also in Video »
+Also in Dealbook »
 
-*   Made in L.A.: Two interior design stores
-*   Italian hand gestures: A short history
+*   What is a bitcoin?
+*   The essential Wall Street summer reading list
 
   
 
@@ -274,11 +273,3 @@ Also in Video »
 *   Help
 *   Contact Us
 *   Site Feedback
-
-campaign: nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2 -- 218268, creative: abTest\_anchoredAd\_campaign3 -- 341215, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1 http://graphics8.nytimes.com/adx/images/ADS/34/12/ad.341215 http://www.nytimes.com/adx/bin/adx\_click.html?type=goto&opzn&page=www.nytimes.com/content/help/front.html&pos=Inv1&sn2=d03cb75/c6402728&sn1=92a70746/3460ccb4&camp=nyt2013\_abTest\_multiTest\_anchoredAd\_bar1\_part2&ad=abTest\_anchoredAd\_campaign3&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D218268%26adxa%3D341215%26page%3Dwww.nytimes.com/content/help/front.html%26pos%3DInv1%26campaignId%3D3JRUW
-
-Try unlimited access to NYTimes.com for just 99¢.
-
-Already a subscriber?
-
-Lorem ipsum dolor sit amet.
