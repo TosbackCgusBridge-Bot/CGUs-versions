@@ -71,6 +71,10 @@ Haymarket eSeminars also automatically receives and records information on our s
 
 If you have any questions, please contact eSeminars@haymarketmedia.com.
 
+**Social Rewards Program**
+
+A number of Haymarket’s sites have online social rewards programs. Registering to an applicable site automatically enrolls you in these programs. Any applicable site activity can be published in the various activity leaderboards. If you would prefer not to have your activity published you can change this by selecting the Settings button within the leaderboard and de-selecting the ‘Publish Activity’ tickbox.
+
 **Email A Friend**
 
 If you choose to use our referral service to inform a friend about our Digital Offering, products, or services, we will ask you for your friend's name and email address. We will send your friend a one-time e-mail inviting them to visit the Digital Offering. We may store this information for the purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend may contact the us at web@haymarketmedia.com to have their information removed from our database.
