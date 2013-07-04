@@ -418,7 +418,6 @@ More
 *   Security
 *   Support
 *   Zynga.org
-*   Zynga Shop
 *   Advertise
 
 Copyright 2013 Zynga Inc. All rights reserved.  
