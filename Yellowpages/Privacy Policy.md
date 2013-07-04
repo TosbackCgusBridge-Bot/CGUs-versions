@@ -40,7 +40,7 @@ Our privacy commitments are fundamental to the way we do business every day. The
 *   You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
 *   We want to hear from you. You can send us questions or feedback on our privacy policy.
 
-Print our current full policy Updated Privacy Policy
+View our current policy Updated Privacy Policy
 
 Privacy Policy Updated 06-29-13 Careers Contact Us Terms of Use Site Map Accessibility  
 Advertising Choices Broadband Information
