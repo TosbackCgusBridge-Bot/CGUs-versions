@@ -11,9 +11,9 @@ This year we made some minor changes to the policy. To make sure that the change
 Thank you for being a loyal DIRECTV customer.  
   
 
-PRIVACY POLICY Printable Privacy Policy (English)    View Current Privacy Policy
+PRIVACY POLICY Printable Privacy Policy (English)   
 
-Printable Privacy Policy (Spanish)    View Current Privacy Policy (Spanish)
+Printable Privacy Policy (Spanish)   
 
 **Effective as of June 24, 2013, until replaced**
 
