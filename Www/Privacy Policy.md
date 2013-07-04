@@ -158,7 +158,8 @@ We will revise or update this policy if our practices change, or as we develop b
         *   Educate to Innovate
         *   White House Live application
     *   Twitter (Privacy)
-        *    @Blog44
+        *   @AmbassadorRice
+        *   @Blog44
         *   @Brundage44
         *   @DavidAgnew44
         *   @DrBiden
@@ -228,7 +229,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *   Inside the White House
         *   Music and the Arts
         *   White House White Board
-    *   Flickr: (Privacy)
+    *   Flickr: (Privacy)
         *   The White House
         *   Let's Move
     *   iTunes: (Privacy)
@@ -240,6 +241,9 @@ We will revise or update this policy if our practices change, or as we develop b
     *   Vine: (Privacy)
         *   @WhiteHouse
         *   @WHVine
+    *   Instagram: (Privacy)
+        *   The White House
+        *   First Lady Michelle Obama
     
     Document Sharing
     
@@ -267,6 +271,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: May 14, 2013
+Updated: July 3, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
