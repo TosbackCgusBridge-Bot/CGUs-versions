@@ -1,4 +1,4 @@
-Skip to main content USA Network USA Shows x
+Skip to main content USA Network USA Shows close
 
 *   Burn Notice
 *   Covert Affairs
@@ -18,7 +18,7 @@ Skip to main content USA Network USA Shows x
 *   White Collar
 *   WWE Monday Night Raw
 
-Full Episodes Social Schedule More x More on USA
+Full Episodes Social Schedule More close More on USA
 
 *   Character Arcade
 *   Characters Unite
