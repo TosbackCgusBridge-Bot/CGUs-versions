@@ -1,8 +1,4 @@
-Privacy Policy
-
-Print
-
-GEICO Respects Your Privacy
+Privacy Policy GEICO Respects Your Privacy
 
 Protecting your privacy is very important to us. Policyholders like you have trusted us with their insurance needs for over 75 years, and we take our obligation to safeguard and secure your personal information very seriously. We want you to understand how we protect your privacy and when we collect and use your information.
 
