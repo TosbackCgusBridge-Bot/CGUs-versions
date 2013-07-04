@@ -291,4 +291,4 @@ Effective Date January 9, 2013.
 
 Online Safety >>
 
-English Español - México Português - Brasil Français Deutsch Italiano हिन्दी 中文 (简体) 日本語 More Bahasa Melayu Basa Jawa Español - América Latina Español - España Magyar Nederlands Português Русский Română Türkçe বাংলা 中文 (繁軆) मराठी ਪੰਜਾਬੀ ไทย © 2013 Tagged Inc. Mobile About Blog Users Privacy Terms Online Safety Report Abuse Help
+© 2013 Tagged Inc. Mobile About Blog Users Privacy Terms Online Safety Report Abuse Help English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย
