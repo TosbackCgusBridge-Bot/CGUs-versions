@@ -178,7 +178,7 @@ Wayfair's Copyright Policy
 
 Last Updated: March 22, 2013
 
-This Copyright Policy describes Wayfair's policy of prohibiting any information or materials that violate another party's intellectual property rights from appearing on www.Wayfair.com, www.AllModern.com, www.JossandMain.com, www.WayfairSupply.com and their related domains (collectively, the "**Site**").
+This Copyright Policy describes Wayfair's policy of prohibiting any information or materials that violate another party's intellectual property rights from appearing on www.Wayfair.com, www.AllModern.com, www.JossandMain.com, www.WayfairSupply.com, and their related domains (collectively, the "**Site**").
 
 The Digital Millennium Copyright Act of 1998 (the "**DMCA**") provides recourse for a copyright owner who believes that material appearing on the Internet infringes his, her or its rights under U.S. copyright law. Wayfair complies with the DMCA by responding to notices and counter-notices that meet the then-current DMCA requirements. Please visit http://www.copyright.gov/ for details about current DMCA requirements.
 
