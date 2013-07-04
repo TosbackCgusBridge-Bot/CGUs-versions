@@ -2,6 +2,7 @@ A Summary of Bass Pro Outdoors Online, LLC's Privacy and Security Statement Bass
   
 If you have further questions regarding this Statement, please contact us:  
   
+
 *   by email at: privacy@basspro.com and include your name and telephone number or email or postal address so that we can contact you. or  
       
      
