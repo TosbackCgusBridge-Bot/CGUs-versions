@@ -1,6 +1,6 @@
 Salon.com Privacy Policy
 
-Last Revised August 16, 2012.
+Last Revised July 1, 2013.
 
 We respect your privacy, and we want you to know how we use the information you provide to us. This privacy policy (“Privacy Policy”) applies to your use of our website located at www.salon.com, as well as to all other online websites (collectively, the “Site”) and mobile applications (the “Application”), blogs and interactive applications operated by Salon Media Group Inc. (“Salon,” “us” or “we”), collectively our “Services,” unless a different policy is provided on a particular website or application. In this Privacy Policy, we describe the information we collect, how Salon uses and discloses the information, and your choices regarding our information collection practices.
 
