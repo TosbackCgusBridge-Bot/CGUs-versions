@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: 50% Off True Blue Spa
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4 &. Up
         *   Signature: Buy 3 Get 3 Free
-        *   Body Care: Up to 50% Off
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -62,10 +62,10 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: 50% Off True Blue Spa
         *   Select Candles: Up to 50% Off
         *   Wallflowers Refills: $6
         *   Select Home Fragrance: $3
-        *   Wallflowers: 6 for $24
     *   Candles
         
         *   3-Wick Candles
@@ -101,6 +101,7 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: 50% Off True Blue Spa
         *   Select Hand Soap: $3
         *   Hand Soap: 6 for $20
         *   PocketBacs: 5 for $5
@@ -136,10 +137,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: 50% Off True Blue Spa
         *   Select Aromatherapy: 50% Off
         *   Aromatherapy: Buy 2 Get 2 Free
-        *   True Blue Spa: Buy 2 Get 1 Free
-        *   Mix &. Match Bodycare: Buy 2 Get 1 Free
+        *   C.O. Bigelow: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -182,6 +183,7 @@ Welcome! **(Log in)**
         *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
+        *   One Day Deal: 50% Off True Blue Spa
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
@@ -210,10 +212,10 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
+        *   One Day Deal: 50% Off True Blue Spa
         *   Select Body Care: $3 &. Up
         *   Online Only Body Care: $4
         *   Wallflowers Refills: $6
-        *   Body Care: Up to 50% Off
     *   Body &. Bath
         
         *   Body Lotion
