@@ -3,282 +3,283 @@ Privacy Notice
 **Avis Rent a Car System, LLC.**
 
 **Privacy Notice**  
-Notice Last Updated: July 21, 2011
+Notice Last Updated: May 6, 2013
 
 *   **Purpose of this Privacy Notice**
-*   **Who is Covered under this Privacy Notice**
-*   **What Personally Identifiable Information ABG Collects**
-*   **How ABG Collects Personally Identifiable Information**
-*   **How Personally Identifiable Information is Used and Disclosed by ABG**
+*   **Scope of this Privacy Notice**
+*   **Accountability**
+*   **Consent**
+*   **How We Collect Your Information**
+*   **What Personal Information ABG Collects**
+*   **Limiting Use, Disclosure, and Retention**
+*   **How Personal information is Used and Disclosed by ABG**
 *   **Website and Internet Privacy**
-    *   **Website Tracking and the Use of Cookies and Other Technologies**
-    *   **Visting Third-Party Websites**
-    *   **Linking your ABG Accounts to Your Social Profiles**
-    *   **How We Protect the Security of Personally Identifiable Information**
-    *   **How to Correct or Update Personally Identifiable Information that ABG Maintains**
-    *   **How to Opt-out of Receiving Marketing Materials from ABG**
-*   **Children's Privacy**
-*   **Applicable Law and Jurisdiction**
+
+*   **Website Tracking and the Use of Cookies and Other Technologies**
+*   **Visiting Third Party Websites**
+*   **Linking your ABG Accounts to Your Social Profiles**
+
+*   **Safeguards**
+*   **How to Opt-out of Receiving Marketing Materials from ABG**
+*   **Individual Access**
+*   **Accuracy**
 *   **Changes to this Privacy Notice**
-
-This is the United States privacy notice ("Privacy Notice") of Avis Budget Group, Inc. and its subsidiaries and affiliates, including without limitation Avis Rent A Car System, LLC, Budget Rent A Car System, Inc. and Budget Truck Rental, LLC (collectively, "ABG," "we," "us," or "our").
-
-We at ABG recognize the importance of protecting your personally identifiable information. To demonstrate our commitment to maintaining the privacy of your personally identifiable information, we have created this Privacy Notice to disclose our privacy practices for the personally identifiable information that we collect and receive through use of our products and services either offline or online. Our online operations include all the websites of ABG (collectively, the "Websites").
-
-By submitting your personally identifiable information to us, you consent to ABG's use and disclosure of your personally identifiable information as set forth in this Privacy Notice. Your use and/or continued use of ABG websites signifies your consent that your information may be transferred to or stored on servers and processed outside the country of your residence. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected. If you do not agree with the terms of this Privacy Notice, please do not submit any information to ABG either offline or through our Websites.
-
-This Privacy Notice is incorporated into, and part of, the Terms of Use, which governs each ABG Website:  
-  
-ABG has been awarded TRUSTe's Privacy Seal signifying that this privacy notice and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. TRUSTe's certification covers only the ABG Websites that link to this TRUSTe approved privacy notice. If you have questions or complaints regarding our privacy notices or practices, please contact us at avisprivacy@avis.com. If you are not satisfied with our response you can contact TRUSTe here.
+*   **Openness and Challenging Compliance**
 
 **Purpose of this Privacy Notice**
 
-We recognize the importance of protecting your personally identifiable information (which includes your name, address, telephone number, date of birth, e-mail address, credit or debit card information, and other contact information,) that you provide to ABG (collectively, "PII"). The purpose of this Privacy Notice is to tell you how ABG strives to better serve you by keeping you informed of promotions, products and services, while, at the same time, safeguarding your PII. This Privacy Notice sets forth our policies regarding the collection, use and disclosure of your PII both through our online and offline operations. This Privacy Notice also explains how you can correct or change the PII we hold about you, or opt-out of receiving certain marketing materials.
+This is the United States privacy notice ("Privacy Notice") of Avis Budget Group, Inc. and its subsidiaries and affiliates, including Budget Rent a Car System, Inc., Avis Rent A Car System LLC and Avis Budget Car Rental, LLC (collectively, "ABG," "we," "us" or "our"). This Privacy Notice explains how ABG collects, uses, retain and discloses your personal information in compliance with applicable United States federal or state privacy legislation ("Privacy Laws"). Please see "Scope of this Privacy Notice" for important information regarding our independent licensees or franchisees. This Privacy Notice also explains how you can correct or change the personal information we hold about you, or opt-out of receiving certain marketing materials.
 
-**Who is Covered under this Privacy Notice**
+We strongly recommend that you read this Privacy Notice and check it on a regular basis in the event we make changes.
 
-This Privacy Notice is applicable to PII that you provide to ABG. This Privacy Notice applies to all of the products, services and Websites offered by ABG or its subsidiaries or affiliated companies.
+ABG has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information that may be collected through these websites. www.avis.com, www.avisrewards.com, www.avisagent.com, www.budget.com and www.budgettruck.com and information collected through our mobile sites m.avis.com, m.budget.com and our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact one of our Privacy Officers with the contact information below. If you are not satisfied with our response you can contact TRUSTe here
 
-This Privacy Notice does not apply to those ABG locations that are owned and operated by an independent licensee that is neither owned nor controlled by ABG or any ABG affiliate or subsidiary. Each independent licensee collects PII and uses the PII for its own purposes. ABG does not control the independent licensee's use of this PII. For credit card transactions, the independent licensee - not ABG - collects and processes credit card information and receives payment for the vehicle rental services. Thus, the independent licensee is subject to the merchant rules of the credit card processors it selects. This Privacy Notice also does not apply to an independent licensee's website. These licensees may also use email campaigns and other methods of telephone, electronic and direct mail solicitation without our consent or knowledge and are solely responsible for their content and methods of identifying and contacting addressees.
+**Scope of this Privacy Notice**
 
-**What Personally Identifiable Information ABG Collects**
+This Privacy Notice is applicable to personal information that you provide to ABG in the United States.
 
-You generally are not required to provide us with PII when visiting our Websites. However, when you make a reservation, rent a vehicle, and/or join one of our programs, we need to collect certain information about you to provide or improve our services. The service that you choose will determine what information we collect from you. Here are some examples of information we collect from you:
+This Privacy Notice does not apply to personal information you provide to any ABG entities located outside of the United States.
 
-> Name
-> 
-> Email Address
-> 
-> Home and/or Business Address
-> 
-> Telephone Numbers at which we can contact you
-> 
-> Date of Birth
-> 
-> Payment Information (i.e. debit or credit card and expiration date - security code is obtained for transaction only and is not retained)
-> 
-> Information from your Driver's License or other Government issued identification (e.g., Passport)
+This Privacy Notice does not apply to personal information you provide to companies outside the ABG group of companies that may be affiliated with ABG, as those companies will have their own privacy notices.
 
-When you rent a vehicle, we will also record non-personally identifiable information about your rental (e.g. where you rented the vehicle, where and when you returned the vehicle, payment arrangements, insurance preferences, gas consumption, mileage and other information related to the vehicle). This information is necessary in order to administer your rental reservation and/or process your transaction.
+Additionally, this Privacy Notice does not apply to those ABG-branded locations that are owned and operated by an independent licensee or franchisee. Each independent licensee and franchisee collects, uses and discloses personal information for its own purposes and pursuant to its own privacy notice. ABG does not control the independent licensee's or franchisee's use of this personal information. For credit card transactions, the independent licensee or franchisee - not ABG - collects and processes credit card information and receives payment for the vehicle rental services. Thus, the independent licensee or franchisee is subject to the merchant rules of the credit card processors it selects. This Privacy Notice also does not apply to an independent licensee's website. Licensees and franchisees may also use email campaigns and other methods of telephone, electronic, and direct mail solicitation without our consent or knowledge and are solely responsible for their content and methods of identifying and contacting addressees. These licensees and franchisees are solely responsible for complying with Privacy Laws.
 
-We may also need certain information from you when you request any of the following services or equipment: Special Needs/Optional Equipment. Special Offers/Discounts. Partner Member Numbers. use of a corporate or other discount number and other vehicle preferences. For example, if you wish to use a discount that ABG provides to members of an association/affiliate to which you belong, we may collect information about your membership to verify and provide you with the correct discount for our services.
+**Accountability**
 
-In addition, to better serve our more frequent renters, ABG offers customized rental services on a membership basis such as Preferred Service, President's Club, Chairman's Club, Fastbreak or the Weekender Club. If you wish to join and request one of these services, ABG may need more information than is required for providing standard vehicle rental service in order to provide you with these customized services.
+ABG has appointed a Privacy Officer. If you have questions regarding this policy or concerns with respect to ABG's compliance with the requirements of any Privacy Laws, you may contact ABG's Privacy Officer.
 
-**How ABG Collects Personally Identifiable Information by Avis**
+**Consent**
 
-The PII we collect from you will be with your express or implied consent. How we collect this information will depend on how you use our services. We may collect this information directly from you by telephone, fax, postal mail, email, at the counter, upon completion of an application or enrollment form, or through your use of our Websites or the Internet. To the extent you use our Websites, we may also collect information about your use of our Websites, transactional and account information, e-mail and other information related to communications to our Websites. We may also collect information about you indirectly through a travel agent, an account program in which you or your employer participates or through one of our partner programs when you deal with us through those means. Additionally, our affiliates and third parties may provide us with information about you.
+When you submit your personal information to us, we obtain your express or implied consent to the collection, use, retention and disclosure of your personal information in accordance with this Privacy Notice and any additional information provided to you at the point of collection.
 
-You may choose not to provide some of your PII to us, but this may prevent us from providing our services to you, or limit our ability to provide you with the level of service that you would otherwise expect from us.
+We or an unaffiliated service provider may process and/or store your personal information, as permitted by this Privacy Notice, outside of the United States. Your personal information will be also be subject to the laws of those other jurisdictions, including, in certain circumstances, requirements to make production of or provide access to your personal information to courts, law enforcement agencies, regulatory agencies or security authorities in those other jurisdictions. At any time, you can opt-out of our use and disclosure of your personal information for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for the same.
 
-**How Personally Identifiable Information is Used and Disclosed by ABG**
+**How We Collect Your Information**
 
-_Usage_
+We may collect your personal information directly from you by telephone, fax, postal mail, email, at the counter, upon completion of an application or enrollment form, or through your use of our website or the Internet (including using our online reservation system). To the extent you use our website, we may also collect information (both personal and non-personal information) about your use of our website, transactional and account information, e-mail and other information related to communications to our website.
 
-We strive to ensure that we give you a stress-free rental experience and are dedicated to building a rewarding and lasting relationship with every customer. To provide the level of service we believe you expect from us, we may use your PII for the following purposes:
+You may choose not to provide some or all of your personal information to us, but this may prevent us from providing our services to you, or limit our ability to provide you with the level of service that you would otherwise expect from us.
 
-> Provide and administer the services that you request, and communicate with you regarding such services and offerings;
-> 
-> Research, develop, manage, protect and improve our Websites and services;
-> 
-> Maintain and develop our service-oriented software and other business systems. and
-> 
-> Analyze data, or to have a third party do so on our behalf.
+We may also collect personal information about you indirectly through a travel agent, an account program in which you or your employer participates or through one of our partner programs when you deal with us through those means. Additionally, if you have consented to third parties selling or renting your personal information, we may obtain additional information about you from them, including demographic information, such as the number and ages of children, and financial information, such as income bracket. As the specific type of information will vary depending upon what consent you have provided to such third parties, you may contact us using one of the methods described below in order to get a list of the information about you.
 
-We may also use your information - both PII and non-personally identifiable information - for other purposes. For example, PII may be needed to process and track your transactions or to send you information about our affiliates' and business partners' products and services and other information and materials that may be of interest to you. If you use our Websites, we may also use your information to evaluate what portions of our Websites are visited more often than others, determine where visitors came from, where they go, and how long they stay on a particular page, or on our Websites in general.
+**What Personal information ABG Collects**
 
-From time to time, we also may combine your PII with information obtained from other sources, including third parties, in order to provide you with more customized services and product offerings. To do this, it is often necessary to share your information with trusted vendors and business partners, such as companies that manage accounts, offer affinity, frequent-user, and reward programs, and companies that perform marketing services and other business operations for us. For more information, see below under "Disclosing."
+When you make a reservation, rent a car, and/or join any of ABG's programs, we collect certain information about you in order to provide our services, marketing and other purposes described in this policy. Here are some examples of information we collect about you:
 
-_Disclosing_
+*   Name
+*   Email Address
+*   Home and/or Business Address
+*   Telephone Numbers at which we can contact you
+*   Date of Birth
+*   Payment Information (i.e. debit or credit card and expiration date - security code is obtained for transaction only and is not retained)
+*   Information from and about your Driver's License or other Government issued identification (e.g., Passport), including whether your license is valid and in good standing
+*   Rental history with us, including any accidents with our cars
+*   Communications with you relating to customer service inquiries and complaints
+*   Information about your device such as the operating system version and application version
 
-We may disclose your PII to affiliated and non-affiliated organizations including, for example:
+We may also need certain information from you when you request any of the following services and/or equipment: Special Needs/Optional Equipment, Special Offers/Discounts, Partner Member Numbers, use of an ABG preferred account number or discount number, Frequent Traveler numbers and Car Preferences. For example, if you wish to use a discount that ABG provides to members of an association to which you belong, we will collect information about your membership in that association, both to verify your membership and to provide you with the correct discount for our services.
 
-> To your company or organization if you use our services under a corporate or other commercial account;
-> 
-> To one of our program partners (e.g. if you are a member of an affiliate program, such as a relocation company or frequent traveler program and you have asked us to send details of your rental agreement with us to obtain your benefits from that program);
-> 
-> To entities that provide services on our behalf;
-> 
-> To any intermediary you use, such as a travel agent, broker or booking engine, in relation to any aspect of your rental;
-> 
-> To independent licensees for use in providing the services and offerings which you have requested and to communicate with you regarding such services and offerings;
-> 
-> To your credit card issuer;
-> 
-> To credit reporting and fraud checking agencies;
-> 
-> To debt collection agencies, if you fail to pay monies owed to us;
-> 
-> To government or private organizations responsible for the processing or handling of traffic or parking related violations;
-> 
-> To driver licensing authorities, directly or through intermediary organizations, when needed to verify compliance with ABG's safe driver criteria for qualified drivers and/or to verify license information. and
-> 
-> To government, regulatory and law enforcement agencies where the disclosure is required or authorized by law, and otherwise as we believe is necessary or appropriate to satisfy any law, regulation or other governmental request, to operate our Websites properly, or to protect or defend our rights or the rights or well-being of our employees, users or others or if you are involved (or are suspected by governmental authorities or our security functions to be involved) in any illegal activity, even without a subpoena, warrant or court order.
+In addition, to better serve our more frequent travelers, ABG offers customized rental services on a membership basis. If you wish to join and request one of these services, such as Preferred Service, President's Club, Chairman's Club, Avis Weekender Club, Avis First, AWD, Fastbreak, RapidRez, BCD, or other loyalty or membership program, ABG may need more information than is required for providing standard car rental service in order to provide you with these customized services.
 
-We may disclose your PII to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such PII to send you information about their products and services and other information and materials that may be of interest to you. You may opt-out of us disclosing your PII for these purposes through one of the methods described in this Privacy Notice.
+When you rent a vehicle, we will also record non-personal information about your rental (e.g. where you rented the car, where and when you returned the car, payment arrangements, insurance preferences, gas consumption, mileage and other information related to the vehicle rental) in order to administer your rental reservation and/or process your transaction. Some of our rental locations are equipped with video monitoring for security purposes, which may capture your image while you are on our property. Notices are posted at these locations.
 
-We may share your PII with other non-affiliated third parties, such as entities that provide services for our Websites or for our business (e.g., advertisers, ad servers, content providers, services providers, credit card processors, data processors, website development and support, fulfillment services providers, e-mail list hosting companies and distribution companies) that use such PII on our behalf consistent with this Privacy Notice. These types of third parties are not permitted to use your PII for any secondary purposes.
+We also collect information (including personal information) from you when you visit our websites. See Website and Internet Privacy.
 
-We may also transfer or assign your PII to third parties as a result of or in connection with a sale, merger, consolidation, change in control, transfer of assets, reorganization, or liquidation.
+**Limiting Use, Disclosure, and Retention**
 
-We operate globally so we may need to send your PII overseas as part of our normal business operations. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected.
+The purposes for which we use and disclose your personal information is provided in "How Personal Information is Used and Disclosed by ABG".
+
+We retain the personal information of our customers for as long as necessary to fulfill the purposes for which it was originally collected and/or as long as necessary to meet any legal, auditing, or account requirements.
+
+**How Personal Information is Used and Disclosed by ABG**
+
+**Usage**  
+We strive to ensure that we give you a stress-free rental experience and are dedicated to building a rewarding and lasting relationship with every customer. To provide the level of service we believe you expect from us, we may use your personal information for the following purposes:
+
+*   Provide and administer the services that you request, and communicate with you regarding such services and offerings;
+*   Research, develop, manage, protect and improve our website and services;
+*   Maintain and develop our service-oriented software and other business systems. and
+*   Analyze data, or to have a third party do so on our behalf, in order to provide customized services and product offerings.
+*   Respond to customer service inquiries and complaints;
+*   Keep track of the device the reservations came from.
+
+We may also use your information - both personal and non-personal information - for other purposes. For example, personal information may be needed to process and track your transactions or to send you information about our affiliates' and business partners' products and services and other information and materials that may be of interest to you. If you use our website, we may also use your information to evaluate what portions of our website are visited more often than others, determine where visitors came from, where they go, and how long they stay on a particular page, or on our websites in general.
+
+We also may combine your personal information with information obtained from other sources, including third parties (for more information, see above under "How We Collect Your Information"), in order to provide you with more customized services and product offerings. To do this, it is often necessary to share your information with trusted vendors and business partners, such as companies that manage accounts, offer affinity, frequent-user, and reward programs, and companies that perform marketing services and other business operations for us. For more information, see below under "Disclosing.".
+
+If you have not opted out of receiving marketing materials, we may use and disclose your personal information to offer you products and services provided by ABG and its licensees and franchisees worldwide. We may also use your personal information to offer you products and services provided by ABG System program partner organizations (see "About the ABG System" below). While these organizations change over time, our program partners are generally from the transportation, vacation, and other travel related sectors. A list of our affiliates and current program partner organizations may be obtained by contacting us through one of the methods included in this Privacy Notice.
+
+**Disclosing**  
+We may be legally required to disclose your personal information to third parties. In other instances, we may need to disclose your personal information to be able to provide you with the services you request. We may disclose your personal information to the following entities:
+
+*   To your company or organization if you use our services under a corporate, membership or other commercial account.
+*   To one of our program partners (e.g. if you are a member of a frequent traveler program and you have asked us to send it details of your rental agreement with us to obtain your benefits from that program).
+*   To entities that provide services on our behalf;
+*   To any intermediary you use, such as a travel agent, broker or booking engine, in relation to any aspect of your rental.
+*   To independent licensees for use in providing the services and offerings which you have requested and to communicate with you regarding such services and offerings.
+*   To your credit card issuer.
+*   To credit reporting and fraud checking agencies.
+*   To debt collection agencies, if you fail to pay monies owed to us.
+*   To government or private organizations responsible for the processing or handling of traffic or parking related violations.
+*   To driver licensing authorities, directly or through intermediary organizations, when needed to verify compliance with ABG's safe driver criteria for qualified drivers and/or to verify license information. and
+*   To government, regulatory and law enforcement agencies where the disclosure is required or authorized by law, and otherwise as we believe is necessary or appropriate to satisfy any law, regulation or other governmental request, to operate our websites properly, or to protect or defend our rights or the rights or well-being of our employees, users or others or if you are involved (or are suspected by governmental authorities or our security functions to be involved) in any illegal activity, even without a subpoena, warrant or court order.
+
+We may disclose your personal information to our non-affiliated business partners for their use both on our behalf and for their own business purposes with your consent. For example, our business partners may use such personal information to send you information about their products and services and other information and materials that may be of interest to you. You may opt out of us disclosing your personal for these purposes at any time through one of the methods described in this Privacy Notice.
+
+We may share your personal information with other non-affiliated third parties that provide services for our websites or for our business (e.g., advertisers, ad servers, content providers, services providers, credit card processors, data processors, website development and support, fulfillment services providers, e-mail list hosting companies and distribution companies) and that use such personal information on our behalf consistent with this Privacy Notice. These types of third parties are not permitted to use your personal information for any purpose other than what we are engaging them to do.
+
+We may also transfer or assign your personal information to third parties as a result of or in connection with a sale, merger, amalgamation, consolidation, change in control, transfer of assets, reorganization, or liquidation.
 
 **Website and Internet Privacy**
 
-If you use our Websites or otherwise interact with us via the Internet, the following privacy-related policies also apply:
+If you use our website or otherwise interact with us via the Internet, the following privacy-related policies also apply:
 
 **Website Tracking and the Use of Cookies and Other Technologies**
 
-If you use our Websites, certain information may be collected from your computer in the course of your use of our Websites. As with many websites, we may use both session based and persistent "cookies" and/or other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons, tracker GIFs and "clickstream" data logs) in our Websites or in our electronic communications with you to enhance the functionality of our Websites and services. These technologies also make your transactions and other activities more convenient and efficient.
+If you use our website, certain information may be collected from your computer in the course of your use of our website. We may use both session based and persistent "cookies" and/or other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons, tracker GIFs and "clickstream" data logs) in our website or in our electronic communications with you to enhance the functionality of our website and services. These technologies also make your transactions and other activities more convenient and efficient.
 
-_Cookies_
-
+**Cookies**  
 "Cookies" are small amounts of data that a website can send to your web browser and store on your computer. It is our policy not to save sensitive data, such as passwords or credit card information in cookies.
 
-Most web browsers are initially set up to accept cookies. You have the option of disabling or refusing cookies at any time in your browser preferences. However, note that some parts of our Websites will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences, and/or may have difficulty completing transactions.
+Most web browsers are initially set up to accept cookies. You have the option of disabling or refusing cookies at any time via your browser preferences. However, note that some parts of our website will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences, and/or may have difficulty completing transactions.
 
-The use of cookies is an industry standard, and as such, you will find that most major websites use them. ABG and ABG's affiliates have two (2) primary uses for cookies. First, we use them to specify a user's preferences. For example, we use cookies to store information about your travel preferences or rental history so you don't have to tell us repeatedly your preferences. Second, we use cookies to track Website usage trends and patterns. This helps us understand our users' needs better and improve areas of our Websites.
+We also use Flash cookies, which can save information between browsing sessions. They can also track other websites that you visit. They can also be used to re-create other cookies if they are unavailable in subsequent sessions. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
 
-_IP Addresses_
+ABG has two (2) primary uses for cookies. First, we use them to specify a user's preferences. For example, we use cookies to store information about your travel preferences or rental history so you don't have to tell us repeatedly your preferences. Second, we use cookies to track website usage trends and patterns. This helps us understand our users' needs better and improve areas of our website. We will also use the information to tailor our marketing efforts to be specific to what we believe you will find interesting and relevant.
 
-An IP address is a unique number that is automatically assigned to your computer whenever you are surfing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages. This allows us to gather useful information and data about our customers' use of the site, such as the Web pages viewed on www.avis.com.
+**IP Addresses**  
+An IP address is a unique number that is automatically assigned to your computer whenever you are surfing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages. This allows us to gather useful information and data about our customers' use of the site, such as the Web pages viewed on www.avis.com, www.avisrewards.com, www.avisagent.com, www.budget.com, and www.budgettruck.com.
 
-ABG collects IP addresses for the purposes of: helping us diagnose problems with our main computers, for system administration, to report aggregated information to our business partners, and to audit the use of our Website. When users request Web pages from our Web Site, our Web servers log the User's IP address. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user will remain anonymous to us. For example, we collect and/or track the home server domain name, the type of computer, and the type of Web browser used by you to access this Web Site. Such collection and tracking information is gathered by us as you navigate through our Websites, and will be used by us for our business purposes only.
+ABG collects IP addresses for the purposes of: helping us diagnose problems with our main computers, for system administration, to report aggregated information to our business partners, and to audit the use of our website. When users request Web pages from our Website, our Web servers log the User's IP address. For example, we collect and/or track the home server domain name, the type of computer, and the type of Web browser used by you to access this Website. Such collection and tracking information is gathered by us as you navigate through our website, and will be used by us for our business purposes only.
 
-In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our Website Terms of Use or to protect our service, site, users or others.
+Although a user's session will be logged, the user will ordinarily remain anonymous to us. In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our website Terms of Use or to protect our service, site, users, or others.
 
-_Third Party Use of Technology_
+**Geolocation**  
+If you choose to allow it, our applications may collect location markers (geolocation data) using a GPS device built into or attached to your computer or mobile device or other methods, such as mapped wifi routers or cell identifiers from broadcast towers. You may adjust the settings of your computer or mobile device to turn off transmission of geolocation data at any time by updating the settings on your device.
 
-Third parties (including, but not limited to, software vendors, advertisers, ad servers, content providers, and services providers) may also use similar technologies by or through our Websites or through their own websites. In connection therewith, such entities may collect information about you and your usage activity on this and other websites. ABG does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information.
+**Third Party Use of Technologies**  
+Third parties (including, but not limited to, software vendors, advertisers, ad servers, content providers, and services providers) may also use similar technologies by or through our website or through their own websites. In connection therewith, such entities may collect information about you and your usage activity on this and other websites. ABG does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information.
 
-We may use third-party servicing technology and service providers to serve ads on our behalf across the Internet and sometimes on our Websites. They may collect non-personally identifiable information about your visits to our Websites, and your interaction with our products and services. They may also use non-personally identifiable information about your visits to send you targeted advertisements for goods and services. This information is collected through the use of a pixel tag, or similar technology which is industry standard technology used by most major websites. If you would like more information about this practice and to know your choices about not having this non-personally identifiable information used, please visit http://www.networkadvertising.org/managing/opt\_out.asp.
+We use third-party servicing technology and service providers to serve ads on our behalf across the Internet and sometimes on our website. They may collect non-personal information about your visits to our website, and your interaction with our products and services. They may also use non-personal information about your visits to send you targeted advertisements for goods and services. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-We may also share Website usage information about visitors to our Websites with selected third parties, such as DoubleClick, Inc., for the purpose of targeting our Internet banner advertisements on our Websites and other websites. To do this, we use web beacons and cookies provided by our third-party ad server on our Site. In connection therewith, such third parties may have access to and use non-personalized information about your online usage activity. The use of advertising cookies and web beacons sent by such third-party Web servers is standard for commercial activity in the Internet industry. Get more information about our third-party ad server, its use of cookies and how to opt-out.
+We may also share website usage information about visitors to our website with selected third parties for the purpose of targeting our Internet banner advertisements on our website and other websites. To do this, we use web beacons and cookies provided by our third-party ad server on our Site. In connection therewith, such third parties may have access to and use non-personalized information about your online usage activity. The use of advertising cookies and web beacons sent by such third-party Web servers is standard for commercial activity in the Internet industry. Get more information about our third-party ad server, its use of cookies and how to opt-out.
 
-_Web Beacons_
+**Web Beacons**  
+Our third party tracking utility partners employ a software technology called Web beacons, that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. We do not tie the information gathered by web beacons to our customer's personal information.
 
-Web pages may contain an electronic file called a web beacon that allows a website to count users who have visited that page or to access certain cookies. We are currently partnering with Yahoo! who utilizes web beacons in the following ways:
+**Mobile Analytics**  
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
 
-> Yahoo! uses web beacons to conduct research on behalf of certain partners on their websites and also for auditing purposes.
-> 
-> Information recorded through these web beacons is used to report aggregate information about Yahoo! users to our partners. This aggregate information may include demographic and usage information. No PII about you is shared with partners from this research.
-> 
-> When conducting research, Yahoo!'s practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out of Yahoo! using this information for this research.
+**Visiting Third Party Websites**
 
-Note: This opt-out applies to a specific browser rather than a specific user. Therefore you will have to opt-out separately from each computer or browser that you use.
+Our website or mobile site may contain Links to third party websites. These websites are not under the control of ABG are provided solely for the convenience of our users. Our Privacy Notice does not apply to such websites and we do not control the privacy practices of these third party websites. We encourage you to check the terms of use and privacy policies of such sites before disclosing any personal information via such sites.
 
-**Visiting Third-Party Websites**
-
-Our Websites may contain links or references to third party websites. These websites are outside of our control, and the privacy policies of these sites may differ from our own. Please be aware that we have no control over these third-party websites and our Privacy Notice does not apply to such websites. We encourage you to check the terms of use and privacy policies of such sites before disclosing any PII via such sites.
-
-Occasionally when linking to a third-party website from our Websites, you may still see ABG affiliate logo or an ABG affiliate website frame. This is to provide you with a seamless experience when visiting our Websites. In these cases, you are no longer on our Websites but the third-party website, and therefore the information collection practices of the third party's website may differ from ABG's. The privacy notice of the third party site will govern how information collected from you is used by the owner of the website. You can always know what website you are on by checking the Uniform Resource Locator (URL) in the location bar within your browser.
+Even if you see an ABG affiliate logo or an ABG affiliate website frame, you should not assume that you are on an ABG website. You can see what website you are on by checking the Uniform Resource Locator (URL) in the location bar within your browser. If you are on a third party website, your personal information will be subject to the privacy practices of that third party. The information collection practices of the third party's website will apply, and may differ from ABG's. The privacy notice of the third party site will govern how information collected from you is used and disclosed by the owner of the website.
 
 **Linking your ABG Accounts to Your Social Profiles**
 
-_Social Authentication_
+**Social Authentication**  
+In order to provide you with more personalized services, we may give you the option of linking your social profiles with your ABG accounts on our website. Currently, some of our websites allow you to link social profiles from Facebook, Twitter, LinkedIn, Google and Windows Live. We may add or remove the availability of any or all platforms at any time in our sole discretion. This functionality is entirely optional for all users and you may link or unlink your account(s) at any time by updating your settings on the applicable website.
 
-In order to provide you with more personalized services, we may give you the option of linking your social profiles with your ABG accounts on our Websites. Currently, some of our Websites allow you to link social profiles from Facebook, Twitter, LinkedIn, Google and Windows Live. We may add or remove the availability of any or all platforms at any time in our sole discretion. This functionality is entirely optional for all users and you may link or unlink your account(s) at any time.
+What Information is Collected from Your Social Profiles and What It's Used for If you exercise the option to link your social profile to any of our website, we may collect personal information and additional information from your social profiles, which will be used by ABG and agents acting on our behalf to customize your ABG customer experience. Some examples of the type of information we may collect from these social profiles include:
 
-_What Information is Collected from Your Social Profiles and What It's Used for_
-
-If you exercise the option to link your social profile to any of our Websites, we may collect PII and additional information from your social profiles, which will be used by ABG and agents acting on our behalf to customize your ABG customer experience. Some examples of the type of information we may collect from these social profiles include:
-
-> Profile picture, gender, marital status, sexual preference, birthday, list of friends (but not the information on your friends' social profiles unless they have also linked their profiles)
-> 
-> Professional Information such as prior and current work history
-> 
-> Personal Likes, Activities and Interest Information
+*   profile picture, gender, marital status, sexual preference, birthday, list of friends (but not the information on your friends' social profiles unless they have also linked their profiles)
+*   Professional Information such as prior and current work history
+*   Personal Likes, Activities and Interest Information
 
 The information we collect may be used to:
 
-> Serve you customized offers and deals on our Websites
-> 
-> Send you email offers with special deals and discounts
-> 
-> Send you offers by mobile phone text messages
-> 
-> Update your profile information on our Websites
-> 
-> Publish check-in and check-out information to your linked social media accounts
-> 
-> Share your upcoming trips with friends
-> 
-> View your friends' that have linked their profiles upcoming trips
+*   Serve you customized offers and deals on our website
+*   Send you email offers with special deals and discounts
+*   Send you offers by mobile phone text messages
+*   Update your profile information on our website
+*   Publish check-in and check-out information to your linked social media accounts
+*   Share your upcoming trips with friends
+*   View your friends' that have linked their profiles upcoming trips
 
-_Unlinking Your Accounts_
-
+**Unlinking Your Accounts**  
 You may unlink your social profiles at any time. In order to unlink your profiles, you must log into each ABG account that has been linked, click on the "Social Media Preferences" tab, and then select "Unlink" next to the social media channel you wish to unlink.
 
-_Social Sharing_
-
+**Social Sharing**  
 In an effort to provide our customers with new ways of sharing content, we have enabled some of our online content to be shared on social websites through hosted sharing links and icons. Users who share content and links through their social media profiles should be aware that all activities of this nature are public.
 
 Please note, when you share (with or without adding your own comments) any of our content on your social media profile, that action is governed by the privacy notice of that social media platform, and not ABG's Privacy Notice. We do not track or store a record of those comments or actions.
 
-If you choose to participate in posting or sharing activities, you are electing to share and display such public activities via our Websites. Due to the public nature of your posting or sharing your posts may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on third-party websites, blogs or feeds. **WE ARE NOT RESPONSIBLE FOR ANY PII YOU CHOOSE MAKE PUBLIC VIA YOUR SHARED POSTS.**
+If you choose to participate in posting or sharing activities, you are electing to share and display such public activities via our website. Due to the public nature of your posting or sharing, your posts may appear on our websites, be included in RSS feeds, APIs (application program interfaces), and may also be made available to other websites via other formats. As a result, your public activities may appear on third-party websites, blogs, or feeds. WE ARE NOT RESPONSIBLE FOR ANY PERSONAL INFORMATION YOU CHOOSE TO MAKE PUBLIC VIA YOUR SHARED POSTS.
 
-**How We Protect the Security of Personally Identifiable Information**
+**Social Media Features**  
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-The security of your PII is important to us. We exercise reasonable care in implementing generally accepted standards of security to protect your PII from loss, misuse and unauthorized access, disclosure, alteration or destruction, such as firewalls and Secure Socket Layer (SSL) encryption for some of your more sensitive PII. It is our policy to retain PII for as long as we believe appropriate for the purposes for which the PII was collected or as required by applicable law.
+**Safeguards**
 
-Unfortunately, "perfect security" does not exist on the Internet, and no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your PII, we cannot guarantee that PII stored on our servers, or transmitted to or from a user, will be free from unauthorized access. By using our Websites and corresponding with us, you acknowledge that you understand and agree to assume these risks.
+We use firewalls and Secure Socket Layer (SSL) encryption to protect some of your more sensitive personal information. We employ administrative, technical and physical safeguards to protect your personal information from unauthorized access, modification or disclosure. However, we do not guarantee security of personal information transmitted over the Internet or stored by us and your use of our website and services are subject to our Terms of Use, including disclaimers of liability.
 
-You are responsible for maintaining the strict confidentiality of your account passcode, membership numbers and pin numbers, and you will be responsible for any access to or use of our Websites by you or any person or entity using a passcode provided to you, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee, relative or agent. In the event of the unauthorized use of your passcode, account, or membership number, or any other breach of security involving your information as it pertains to ABG, you agree to immediately notify us. It is your sole responsibility to ensure that you exit from your account at the end of each session, control the dissemination and use of your passcode, control access to and use of your account and membership number, and notify us when you desire to cancel your account on our Websites. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
+You are responsible for maintaining the strict confidentiality of your account passcode, membership numbers and pin numbers, and you will be responsible for any access to or use of our website by you or any person or entity using a passcode provided to you, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee, relative or agent. In the event of the unauthorized use of your passcode, account, or membership number, or any other breach of security involving your information as it pertains to ABG, you agree to immediately notify us. It is your sole responsibility to ensure that you exit from your account at the end of each session, control the dissemination and use of your passcode, control access to and use of your account and membership number, and notify us when you desire to cancel your account on our website. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
 
-It is our policy that we will never request your sensitive PII, such as your credit card number, passcode, membership number or pin number, in an e-mail, text or on a website that is not located at the domain name used by ABG or an affiliate (for example Avis.com, Budget.com Budgettruck.com). If you receive an e-mail or other correspondence requesting that you provide any such information via e-mail or to a website that is not on such domain name, please do not provide such information, and report such request to our privacy officer at avisprivacy@avis.com.
+We do not request your sensitive personal information, such as your credit card number, passcode, membership number or pin number, in an e-mail, text or on a website that is not located at the domain name used by ABG or an affiliate (for example Avis.com, Avis.ca, Budget.com, Budget.ca, Budgettruck.com or Budgettruck.ca). IF YOU RECEIVE AN E-MAIL OR OTHER CORRESPONDENCE REQUESTING THAT YOU PROVIDE ANY SUCH INFORMATION VIA E-MAIL OR TO A WEBSITE THAT IS NOT ON SUCH DOMAIN NAME, PLEASE DO NOT PROVIDE SUCH INFORMATION, AND REPORT SUCH REQUEST TO OUR PRIVACY OFFICER AT ABGprivacy@avisbudget.com.
 
-In the unlikely event that we believe that the security of your PII in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your current e-mail address, we may notify you by e-mail.
+**How to Opt-Out of Receiving Marketing Materials from Us**
 
-**How to Correct or Update Personally Identifiable Information that ABG Maintain**
+You can opt-out of our use and disclosure of your personal information for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for same, by the methods provided below. Please note that it often takes some time to process these requests. Therefore, it is possible that you may receive promotions scheduled prior to our receipt of your withdrawal of consent.
 
-If you have provided your PII to us, you can update the PII we hold about you. You play an active role in assisting ABG maintain the accuracy of your PII. Your prompt notification to us of any changes to your PII will assist us greatly in keeping your information accurate and up-to-date. If we don't agree to make the changes, you may challenge our decision.
+To easily manage your all of your preferences, please log onto your account with us at https://www.avis.com/car-rental/profile/login.ac. You will be able to request an opt out for receiving marketing materials from us for all of the email accounts you have linked to your account.
 
-If you wish to contact us to access or correct your PII we have, or to inquire or provide feedback about our privacy practices, you can email us directly at avisemail@avisbudget.com or write to us at:
+Alternately, or if you do not have an account with us, you may click on the unsubscribe link in any promotional or marketing e-mail that you have received from us, or you can email us directly at custserv@avis.com for Avis or budgetcustomerservice@budgetgroup.com for Budget. However, if you use more than one e-mail address, then you must follow this procedure for each of your e-mail addresses.
 
-> > Avis Rent A Car System, LLC.  
-> > 6 Sylvan Way  
-> > Parsippany, NJ 07054  
-> > ATTN: Privacy Officer
+We may also provide additional methods for you to opt-out of having your personal information used or disclosed for promotional and marketing purposes, such as by clicking on a checkbox located on the page of our website on which your personal information is collected, or otherwise made available when you make reservations.
 
-We will respond to any access requests within 30 days of our receipt of the request.
+Please note that your option not to receive promotional and marketing material: (a) will not preclude us from corresponding with you, by e-mail or otherwise, regarding your preexisting business relationship with us (e.g., your account status and activity or our responses to questions or inquiries you pose to us, or confirmations for existing reservations). (b) will not preclude us, including our employees, contractors, agents and other representatives, from retaining and accessing your personal information, and using and disclosing it as described in this Privacy Notice for purposes other than sending you promotional and marketing materials.
 
-For customer service issues, please email us at custserv@avis.com.
+**Individual Access**
 
-**How to Opt-Out of Receiving Marketing Materials from ABG**
+You may access any personal information that we have collected about you subject to certain exceptions. We will normally provide access without charge unless you either request access to a large volume of information, or we have to access archived records to obtain the information. In these circumstances, we may impose a reasonable fee. We will advise you of that fee in advance. You may challenge the reasonableness of the cost. Details of how to contact us are set out below. There may be instances where we may not be able to provide you access to your personal information, for certain reasons. Among these are: it has been destroyed or deleted after expiry of applicable retention periods, it contains personal information of other persons or it contains commercially sensitive or proprietary information owned by us. If we are unable to provide you access, we will explain why and document that for our records.
 
-You can opt-out of our use and disclosure of your PII for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for same, by the methods provided below. Upon requesting an opt out, your consent will be withdrawn, however, please note that it often takes some time to process these requests. Therefore, it is possible that you may receive promotions scheduled prior to our receipt of your withdrawal of consent.
+**Accuracy**
 
-To opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word "Unsubscribe" in the subject line or you can email us directly at avisemail@avisbudget.com. (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)
+If you have provided your personal information to us, you can update the personal information we hold about you. You play an active role in assisting ABG maintain the accuracy of your personal information. Your prompt notification to us of any changes to your personal information will assist us greatly in keeping your information accurate and up-to-date. If we don't agree to make the changes, you may challenge our decision.
 
-To opt-out of any other promotional mailings from ABG and our partners: you may visit us at www.avis.com/car-rental/content/privacy-preference.ac, or you may write to us at:
-
-> > Avis Rent A Car System, LLC.  
-> > 6 Sylvan Way  
-> > Parsippany, NJ 07054  
-> > ATTN: Privacy Officer
-
-For customer service issues, please email us at custserv@avis.com.
-
-We may also provide additional methods for you to opt-out of having your PII used or disclosed for promotional and marketing purposes, such as by clicking on a checkbox located on the page of our Websites on which your PII is collected, or otherwise made available when you make reservations.
-
-Please note that your option not to receive promotional and marketing material: (a) will not preclude us from corresponding with you, by e-mail or otherwise, regarding your preexisting business relationship with us (e.g., your account status and activity or our responses to questions or inquiries you pose to us, or confirmations for existing reservations). (b) will not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your PII for our internal business purposes. and (c) will not preclude us from disclosing your PII as described in this Privacy Notice for purposes other than sending you promotional and marketing materials.
-
-**Children's Privacy**
-
-Our Websites are not directed to children under the age of 13. If you are under the age of 13, then please stop using our Websites or our products and services and do not provide us with PII of any kind whatsoever.
-
-It is our policy not to knowingly solicit children under the age of 13 for PII or otherwise contact children for any purpose. Further, it is ABG's policy to not knowingly allow children under the age of 13 to use our Websites or our products and services. It is our policy to not knowingly exchange with any third party the PII of children under the age of 13.
-
-We encourage parents and guardians to take an active role in monitoring their children's use of the Internet. It is possible that by fraud or deception, we may receive the PII of children under the age of 13. If we are notified or otherwise become aware of this, we will immediately delete the PII from our servers. If you want to notify us of our receipt of PII by children under the age of 13, please contact our privacy officer at avisprivacy@avis.com.
-
-Some links on our Websites may possibly lead to the websites of third-parties that are directed to children. ABG does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information that address children's privacy.
-
-**Applicable Law and Jurisdiction**
-
-This Privacy Notice will be governed by the laws of the State of New Jersey, without regard to its conflict of law principals. By providing any PII to us, you fully understand and unambiguously consent to the transfer of such PII to, and the collection and processing of such PII in, the United States and other countries or territories. You agree that any cause of action that may arise under this Privacy Notice will be commenced and be heard in the appropriate court in Morris County in the State of New Jersey. You agree to submit to the personal and exclusive jurisdiction and exclusive venue of the courts located within Morris County in the State of New Jersey or the United States District Court for the District of New Jersey.
+If you wish to contact us to access or correct your personal information we have, or to inquire or provide feedback about our privacy practices, or if you wish to cancel your account or request to have your personal information deleted, you can email us directly at ABGprivacy@avisbudget.com or write to us.
 
 **Changes to this Privacy Notice**
 
-This Privacy Notice applies to all information we collect or receive, on or after the effective date of this Privacy Notice, from individuals who provide us with such information for the purpose of obtaining products and services from ABG or using our Websites.
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Notice. This Privacy Notice applies to information we collect or receive, on or after the effective date of this Privacy Notice, from individuals who provide us with such information for the purpose of obtaining products and services from ABG or using our website. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Notice. **If we materially change the way your personal information will be used, we notify you by way of either prominent posting on our Website(s), e-mail and/or mail. We encourage you to periodically review this Privacy Notice in order to keep apprised of any changes.**
+**Openness and Challenging Compliance**
+
+You may contact us at the following to: 1) inquire about our privacy practices, 2) provide feedback and comments, 3) access or correct your personal information, 4) challenge our compliance with Privacy Laws, or 5) if you are not satisfied with the way in which we handle your inquiry.
+
+**Privacy Officer**  
+
+*   **a. Mail:** Privacy Officer, Avis Budget Group, Inc., 6 Sylvan Way, Parsippany, NJ 07054
+*   **b. Phone:** 973-496-0202
+*   **c. Fax:** 973-496-3444
+*   **d. Email:** ABGprivacy@avisbudget.com
+
+**FOR CUSTOMER SERVICES ISSUES, PLEASE CONTACT:**
+
+**Avis - Customer Service**  
+Tel: 1-800-352-7900  
+Email: custserv@avis.com  
+U.S. Mail:  
+P.O. Box 699000  
+Tulsa, OK 74169-9000  
+Hours of Operation:  
+7:30 a.m. - 7:30 p.m. CST **Budget Customer Service**  
+Tel: 1-800-621-2844  
+Email: budgetcustomerservice@budgetgroup.com  
+U.S. Mail:  
+P.O. Box 699000  
+Tulsa, OK 74169-9000  
+Hours of Operation:  
+7:30 a.m. - 7:30 p.m. CST **Budget Truck Rental Customer Service**  
+Tel: 1-800-462-8343  
+Email: btr-customerservice@avisbudget.com  
+U.S. Mail:  
+P.O. Box 699000  
+Tulsa, OK 74169-9000  
+Hours of Operation:  
+7:30 a.m. - 7:30 p.m. CST
+
+**About the ABG System** Avis Budget Group is a leading global provider of vehicle rental services through its Avis and Budget brands, with 10,000 rental locations in approximately 175 countries around the world. Avis Budget Group operates most of its car rental offices in North America, Europe and Australia directly, and operates primarily through licensees in other parts of the world. Avis Budget Group has approximately 29,000 employees and is headquartered in Parsippany, N.J. For more information, visit www.avisbudgetgroup.com
+
+.
