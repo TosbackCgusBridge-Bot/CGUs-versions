@@ -61,3 +61,12 @@ From time to time, we may send you e-mails with promotional offers if you opt-in
 Will I Receive Notice of Changes to the Privacy Policy?
 
 As mentioned above, from time to time we may modify this Privacy Policy to reflect industry initiatives or changes in the law, changes in our collection or use practices, or changes in our Site's features or technology, and such modifications shall be effective upon posting on this Site. Your continued use of this Site after we post a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
+
+How Do We Handle Personally Identifiable Information Collected on Children?
+
+Each Sears Holding's family of Sites that may be directed to children under 13 will contain a specific version of our Children's Online Privacy Policy that will address specifically each of the points listed below for that Site.
+
+*   Collection of children's personal information
+*   Use of children's personal information
+*   The method of obtaining parental consent
+*   The method of obtaining access to the child's information
