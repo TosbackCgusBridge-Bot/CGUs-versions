@@ -11,6 +11,7 @@ Search
 *   Home
 *   Best Games
 *   Social Games
+*   Summer Games
 *   Racing
 *   Action
 *   Girls
