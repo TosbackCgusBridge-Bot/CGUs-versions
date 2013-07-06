@@ -2,107 +2,68 @@ Customer Service›Policies
 
 Our 100% Satisfaction Guarantee
 
-When you do business with Sierra Trading Post, you're getting the best guarantee out there. If you are not happy with your purchase for any reason, please return it to us as soon as possible.
-
-*   Products returned within six (6) months of the order date will be refunded by original payment method
-*   Products returned six (6) months or more after the order date will be refunded by gift card
-*   If we make a mistake in filling your order, we will gladly refund the shipping charges
-
-Learn more about our 100% Satisfaction Guarantee
-
-Send all Returns to:  
-Sierra Trading Post  
-Attn: Returns  
-5025 Campstool Rd  
-Cheyenne, WY 82007-1898
+When you do business with Sierra Trading Post, you're getting the best guarantee out there. If you are not happy with your purchase for any reason, please return it to us as soon as possible. We will make it right! Learn more about us!
 
 Return Policy
 
 *   Products returned within six (6) months of the order date will be refunded by original payment method
-*   Products returned six (6) months or more after the order date will be refunded by gift card
+*   Products returned six (6) months or more after the order date will be refunded by store merchandise credit
 *   If we make a mistake in filling your order, we will gladly refund the shipping charges
 
-If you use the Return Label included with your original order, a return shipping fee of $5.95 will be charged for all merchandise returned for a refund, replacement or for an exchange within the 48 contiguous U.S. A return shipping fee of $9.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us. Shipping of Exchange products from our warehouse to you is $2.95 for all addresses in the 48 contiguous U.S. (excludes AK, HI).
+For U.S. customer convenience, there is a prepaid UPS return shipping label included within your original order. Returns for refund will be subject to a $6.95 return shipping fee ($10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.
 
-Send all Returns to:  
-Sierra Trading Post  
-Attn: Returns  
-5025 Campstool Rd  
-Cheyenne, WY 82007-1898
+Exchange &. Return Options:
 
-PayPal Returns &. Exchanges
+1\. Create Instant Store Credit for Exchange or Replacement Products
 
-*   Returns for orders placed using PayPal or Bill Me Later adhere to our standard return policy and must be made within six (6) months in order to obtain the return credit back into your PayPal or Bill Me Later account. Returns made after six (6) months will be issued a store credit.
-*   Exchanges for orders placed using PayPal and Bill Me Later are different than our normal exchange policies. Exchanges cannot be accepted - if you need to make an exchange, we can give you a refund or store credit for your return and then we recommend that you place a new replacement order for the item you want. We apologize for any inconvenience.
+Exchanges and Returns are quick and easy. Just follow the online exchange/return process to add Instant Store Credit to your account. it's the fastest way to return an item for exchange or replacement, and you may start shopping for a new item immediately. The Instant Store Credit will remain on your account for 6 months. Once you’ve made it through the online exchange/return process and printed a label, you must return your unwanted items within 10 days.
 
-DirectShip Items Only – 60 - Day Return Policy and Return Process
+Use your Instant Store Credit and receive FREE return shipping and FREE shipping on your next order\*. Online Instant Store Credit is valid only for addresses within the contiguous 48 United States only. Excludes AK, HI, all U.S. territories, possessions and all international orders. Orders placed within the last 6 months are eligible for Instant Store Credit (Exchanges and Returns FAQs\*).
 
-Do not return DirectShip items to Sierra Trading Post. DirectShip items must be returned within 60 days to the vendor for your return to be processed and a refund or exchange to be issued. Please follow the instructions below.
+Create Instant Store Credit Now
 
-*   Contact Sierra Trading Post Customer Service and tell them that you want to return a DirectShip item
-*   Please give the representative the reason(s) for return
-*   Request a Return Label be sent
-*   Repack the item and attach the Return Label
-*   The shipping company will pick up the item
-*   Customer pays a return shipping fee equal to the original shipping cost on all returned DirectShip items, unless the product was sent in error, damaged during shipping or is defective (to be determined during the return process)
-*   A credit (less any return shipping fees) will only be issued after the item has been inspected and the return process is completed by the vendor
+2\. Traditional Exchanges, Replacements, &. Returns
 
-Return Options
+If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI, all U.S. territories and possessions). We will process your return or exchange after it arrives.
 
-Sierra Trading Post offers you two options for returning merchandise to us for exchanges, replacements or refunds: Return Express (you must create/log into My Account) and Traditional Returns. Addresses within the contiguous 48 U.S. benefit from our low $5.95 return shipping fee ($9.95 AK, HI, all U.S. possessions and territories). This fee covers shipping from you to us. Replacement or Exchange products will be shipped from our warehouse to your address for $2.95 (contiguous 48 U.S. only. Excludes AK, HI and all U.S. possessions and territories). Outside the U.S.? View our international return and exchange information.
+If you choose not to use our prepaid label, you will be responsible for paying all return shipping costs up front.
 
-Return Express - Receive Instant Credit for Replacement Products
+*   Please send your return to:
+*   Sierra Trading Post
+*   Attn: Returns
+*   5025 Campstool Rd
+*   Cheyenne, WY 82007-1898
 
-Use Return Express. it's the fastest way to process return, exchange and replacement orders. When you use your Return Express instant store credit within seven (7) days you also receive $2.95 Replacement Shipping ($2.95 Shipping is valid for addresses in the contiguous 48 United States only. Excludes AK, HI., all U.S. territories and possessions. Excludes all International Orders). Orders placed in the last 6 months are eligible for Return Express.
+International Exchanges &. Returns
 
-Use Return Express now >
+For more information on International Exchanges and Returns, please click here.
 
-Traditional Return, Replacement or Exchange
+Please follow the packing and return instructions to ensure prompt service:
 
-If you prefer a Traditional Return, simply fill out the form on the back of your invoice. We will process your return after it arrives. Please follow the Return Shipping instructions to ensure prompt service.
+*   Please clean any garments and repack items in sturdy packaging
+*   Please include a copy of your invoice in the box
+*   If you do not have your invoice, check your email and reprint the invoice if you went through our online exchange/return program. Otherwise, please enclose your Customer Number, Full Name and Billing Address with your return package. Enclosing this information helps us expedite your return.
+*   If you use the Return Label included with your original order, a return shipping fee of $6.95 will be charged for all returns within the 48 contiguous US. A return shipping fee of $10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.
+*   For the nearest UPS drop-off location visit http://www.ups.com and select the Locations Tab to find a drop-off location near you.
+*   If you need to use an alternate carrier for the return, use the return address label and make sure that your package is prepaid and insured. COD packages will not be accepted.
 
-To Request an Exchange, use one of these three options.
+PayPal, Bill Me Later, and V.Me by Visa Exchanges &. Returns
 
-*   Fill out the Exchange form on the back of your invoice
-*   Email CustomerService@sierratradingpost.com
-*   Request an exchange by phone by calling toll-free 1.800.713.4534 (Mon.-Fri. 5am-10pm. Sat. 7am-4pm MT)
+Returns for orders placed using PayPal, V.me by Visa and Bill Me Later adhere to our standard return policy and must be made within six (6) months in order to obtain the return credit back into your PayPal, V.me by Visa or Bill Me Later account. Returns made after six (6) months will be issued a store merchandise credit.
 
-Send all Returns to:  
-Sierra Trading Post  
-Attn: Returns  
-5025 Campstool Rd  
-Cheyenne, WY 82007-1898
+Exchanges for orders placed using PayPal, V.me by Visa and Bill Me Later are different than our normal exchange policies. Exchanges cannot be accepted - if you need to make an exchange, we can give you a refund or store credit for your return and then we recommend that you place a new replacement order for the item you want. We apologize for any inconvenience.
 
-Return Shipping Instructions
+DirectShip Items Only: 60-Day Return Policy and Return Process
 
-Your satisfaction is our #1 priority. If you need to make a return, replacement or exchange, please follow the directions to ensure a prompt return and quick replacement, exchange, or refund.
+DirectShip items must be returned within 60 days to the vendor for your return to be processed and a refund or exchange to be issued. Do not return DirectShip items to Sierra Trading Post. Please follow the instructions below:
 
-*   Please clean any garments and repack items in sturdy packaging.
-*   Please include a copy of your invoice.
-*   If you do not have your invoice, please enclose your Customer Number, Full Name and Billing Address with your return package. Enclosing this information helps us expedite your return.
-*   Use the UPS label provided in your package to ship your return. For Returns Express users, you may print one during the Return Express process.
-*   If you use the Return Label included with your original order, a return shipping fee of $5.95 will be charged for all returns within the 48 contiguous U.S. A return shipping fee of $9.95 will be charged for AK, HI, all U.S. territories and possesions. This fee covers return shipping from you to us.
-*   Shipping from us to you on any exchange or replacement order is $2.95.
-*   Drop the package off at any UPS drop-off location. Visit http://www.ups.com and select the Locations Tab to find a drop-off location near you.
-*   If you need to use an alternate carrier for the return, use the return address label to the right and make sure that your package is prepaid and insured. COD packages will not be accepted.
-
-Shipping on your exchange order is $2.95 within the contiguous U.S.A. (excludes AK, HI, and all U.S. territories and possessions). All international exchange orders will be charged a shipping fee consistent with the order amount being exchanged.
-
-Send all Returns to:  
-Sierra Trading Post  
-Attn: Returns  
-5025 Campstool Rd  
-Cheyenne, WY 82007-1898
-
-International Returns &. Exchanges
-
-For more information on International Shipping and Returns, please click here.
-
-Send all Returns to:  
-Sierra Trading Post  
-Attn: Returns  
-5025 Campstool Rd  
-Cheyenne, WY 82007-1898
+*   1\. Contact Sierra Trading Post Customer Service and tell them that you want to return a DirectShip item
+*   2\. Please give the representative the reason(s) for return
+*   3\. Request a Return Label be sent
+*   4\. Repack the item and attach the Return Label
+*   5\. The shipping company will pick up the item
+*   6\. Customer pays a return shipping fee equal to the original shipping cost on all returned DirectShip items, unless the product was sent in error, damaged during shipping or is defective (to be determined during the return process)
+*   7\. A credit (less any return shipping fees) will only be issued after the item has been inspected and the return process is completed by the vendor
 
 Terms of Use
 
