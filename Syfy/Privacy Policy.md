@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Ark Hunter Chronicles - Director's Cut Ark Hunter Chronicles - Director's Cut
+Syfy Video Shooting the Shtako - Episode 111 Shooting the Shtako - Episode 111
+
+Kevin Murphy sits down to discuss Episode 11 with Tony Curran and Grant Bowler.
+
+Ark Hunter Chronicles - Director's Cut Ark Hunter Chronicles - Director's Cut
 
 Watch the full Ark Hunter Chronicles from Defiance the game.
 
@@ -262,10 +266,6 @@ Tony and Grant share a hilarious story about Datak Tarr showing up at a Celtic p
 Defiance - Sneak Peek - Season Finale Defiance - Sneak Peek - Season Finale
 
 Get a sneak peek of the season finale of Defiance Monday 9/8c.
-
-Lets Hope She Has Malpractice Insurance Lets Hope She Has Malpractice Insurance
-
-On Doc Yewlls operating table, Irisas body undergoes a startling transformation.
 
 *   FAQ
 *   Feedback
