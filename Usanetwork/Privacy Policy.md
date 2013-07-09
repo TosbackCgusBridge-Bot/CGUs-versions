@@ -22,6 +22,7 @@ Full Episodes Social Schedule More close More on USA
 
 *   Character Arcade
 *   Characters Unite
+*   Movies
 *   Shop
 *   USA Sync
 *   USA Summer
