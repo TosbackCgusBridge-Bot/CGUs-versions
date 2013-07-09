@@ -164,8 +164,6 @@ We do not intend to collect personal information from children under 13 online. 
 
 U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act. Click here to read that Privacy Statement.
 
-Click here to find out how to obtain a copy of the information your child has provided to Michaels, to update the information or instruct us to no longer contact your child.
-
 Top Contact Us
 
 If you have questions or concerns regarding your privacy, please contact Michaels directly.
