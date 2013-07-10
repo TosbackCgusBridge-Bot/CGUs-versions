@@ -92,7 +92,7 @@ You are entitled at any time and without any fee to obtain information about all
 
 Or in writing to:
 
-KAYAK Europe GmbH  
+KAYAK Europe LLC  
 attn Privacy Officer  
 Fraumünsterstrasse 16  
 8001 Zürich  
