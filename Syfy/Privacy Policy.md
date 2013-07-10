@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Defiance - Sneak Peek - Season Finale Defiance - Sneak Peek - Season Finale
+Syfy Video Amanda &. Kenya's Goodbye - Cast Interview Amanda &. Kenya's Goodbye - Cast Interview
 
-Get a sneak peek of the season finale of Defiance Monday 9/8c.
+Mia Kirshner shares her thoughts on Amanda &. Kenya's goodbye scene.
 
-Shooting the Shtako - Episode 11 Shooting the Shtako - Episode 11
+Datak's Bloody Body - Cast Interview Datak's Bloody Body - Cast Interview
 
-Kevin Murphy sits down to discuss Episode 11 with Tony Curran and Grant Bowler.
+Jaime Murray shares the insight on seeing Datak bloody in the season finale.
 
-Ark Hunter Chronicles - Director's Cut Ark Hunter Chronicles - Director's Cut
+Shooting the Shtako - Episode 12 Shooting the Shtako - Episode 12
 
-Watch the full Ark Hunter Chronicles from Defiance the game.
+Kevin Murphy sits down to discuss Episode 12 with Grant Bowler and Stephanie Leonidas.
 
-Top 10 Must See Moments Top 10 Must See Moments
+Shooting the Shtako - Episode 12 - Mia Kirshn ... Shooting the Shtako - Episode 12 - Mia Kirshner
 
-10 Must See Moments from Defiance that had us talking!
+Kevin Murphy sits down to discuss Episode 12 with Mia Kirschner.
 
 *   FAQ
 *   Feedback
