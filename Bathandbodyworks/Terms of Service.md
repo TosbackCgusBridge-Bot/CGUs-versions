@@ -44,16 +44,16 @@ Welcome! **(Log in)**
     *   Top Fragrances
         
         *   Beautiful Day
-        *   Exotic Coconut
+        *   Coconut Water Chill
         *   Forever Red
         *   Forever Sunshine
         *   Japanese Cherry Blossom
-        *   Malibu Heat
         *   Moonlight Path
         *   Pure Paradise
+        *   Sugar Berry Smash
         *   Sweet Pea
         *   Warm Vanilla Sugar
-        *   Wild Honeysuckle
+        *   White Mango Chill
         *   View All Fragrances
         
         Brands
