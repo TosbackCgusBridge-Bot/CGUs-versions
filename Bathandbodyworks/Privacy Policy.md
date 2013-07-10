@@ -44,16 +44,16 @@ Welcome! **(Log in)**
     *   Top Fragrances
         
         *   Beautiful Day
-        *   Cotton Blossom
         *   Exotic Coconut
         *   Forever Red
+        *   Forever Sunshine
         *   Japanese Cherry Blossom
-        *   Juniper Breeze
+        *   Malibu Heat
         *   Moonlight Path
         *   Pure Paradise
-        *   Sheer Freesia
         *   Sweet Pea
         *   Warm Vanilla Sugar
+        *   Wild Honeysuckle
         *   View All Fragrances
         
         Brands
@@ -93,10 +93,8 @@ Welcome! **(Log in)**
         *   Honeysuckle
         *   Japanese Cherry Blossom
         *   Lilac Blossom
-        *   Limoncello
         *   Mahogany Teakwood
         *   Seaside Escape
-        *   Summer Boardwalk
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
@@ -108,7 +106,6 @@ Welcome! **(Log in)**
         
         *   Foaming Soap
         *   Deep Cleansing Soap
-        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
@@ -136,10 +133,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
+        *   Wexler: Buy 1 Get 1 50% Off
         *   Shower Smoothies: $10
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
-        *   Lip: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -233,12 +230,12 @@ Welcome! **(Log in)**
         *   Wallflowers 2-Pack Refills
         *   Wallflowers Single Refills
     *   Top Fragrances
-        *   Black Amethyst
         *   Black Raspberry Vanilla
+        *   Cherry Blossom
         *   Country Apple
         *   Dark Kiss
         *   Exotic Coconut
-        *   Juniper Breeze
+        *   Secret Wonderland
         *   Sheer Freesia
         *   Wild Honeysuckle
         *   View All Fragrances
