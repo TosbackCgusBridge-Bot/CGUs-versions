@@ -51,7 +51,7 @@ The Site includes Content concerning computer hardware, software and related pro
 
 Notices
 
-IDGCSMB may give notice to you through general posting on the Service, through postal notification, or through E-mail notification, in its sole discretion. You may give notice to IDGCSMB via E-mail at webmaster@pcworld.com.com, by postal mail to 501 Second Street, San Francisco, CA 94107U.S.A., or via facsimile to (415) 243-0500.
+IDGCSMB may give notice to you through general posting on the Service, through postal notification, or through E-mail notification, in its sole discretion. You may give notice to IDGCSMB via E-mail at webmaster@pcworld.com.com, by postal mail to 501 Second Street, San Francisco, CA 94107U.S.A., or via facsimile to (415) 442-1891.
 
 IDGCSMB reserves the right, in its sole discetion, to restrict or block the access of any subscriber to the Service, or any section thereof.
 
