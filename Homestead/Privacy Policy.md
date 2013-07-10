@@ -1,4 +1,17 @@
-Privacy Policy
+Navigation:
+
+*   Create a Website
+*   Features
+*   Customer Sites
+*   Design Templates
+*   Sell Online
+
+Log In Webmail
+
+*   Sales: **(800) 986-0958**
+*   Questions? Chat Live Now
+
+Privacy Policy
 
   
 **Homestead Technologies, Inc.**  
@@ -73,5 +86,82 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 This file was last modified September 17, 2012
 
-   
-© 2013 Homestead Technologies Inc. All Rights Reserved.
+Get your website today Try it Free »
+
+*   Award-winning website building software
+*   Free for the first 30 days, $4.99/mo thereafter
+*   No commitment, cancel any time
+
+\*Website Offer Details
+
+Your 30-day free trial period begins when you click on "Click Here to Finish" during the registration process. After the 30-day trial period, you will automatically be billed $4.99 per month for the Starter package, unless you upgrade to another package during sign-up or after your trial period. If you upgrade to a different package, you will be charged that package's monthly fee. Additional fees apply for add-on services. Terms, conditions, pricing, features, service and support are subject to change without notice.
+
+Everything  
+you need to create  
+a great website! Try It Free
+
+FREE for 30 days! Then pay only $4.99 per month.\*
+
+ 
+
+*    
+    
+    **Website Builder**No coding required.  
+    Point, click and publish!
+    
+*    
+    
+    **Photo Albums**Edit and showcase your photos
+    
+*    
+    
+    **Custom Menus**Add, remove, or modify menu items
+    
+*    
+    
+    **Facebook**Get visitors to Like you
+    
+*    
+    
+    **250,000 Images**Search less, design more
+    
+*    
+    
+    **Maps**Give visitors directions
+    
+*    
+    
+    **Forms**Collect sales leads with online forms
+    
+*    
+    
+    **Polls**Conduct online polls
+    
+
+*   Build a Website
+    *   Create a Website
+    *   Features
+    *   Customer Sites
+    *   Design Gallery
+*   Create an Online Store
+    *   How it Works
+    *   Basic Store
+    *   Advanced Ecommerce
+    *   Features
+*   Let us Design Your Site
+    *   How it Works
+    *   Features
+    *   Sample Sites
+*   Get Traffic
+    *   WebListings
+    *   Features
+*   About Us
+    *   Why Homestead
+    *   Directory
+    *   Blog
+    *   Community
+    *   Affiliate Program
+    *   Account Log In
+    *   Webmail Log In
+
+© 2013 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
