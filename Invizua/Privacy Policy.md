@@ -12,7 +12,6 @@ Home Omniscope Download Forums Support Company   Knowledge Base
 *   Scaling/Performance
 *   Reference
 *   Specifications
-*   Troubleshooting
 *   Legal-Small Print
     *   EULA
     *   Support Agreement
