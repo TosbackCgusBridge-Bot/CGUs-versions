@@ -227,15 +227,17 @@ Following a support incident, we may send you a survey about your experience and
 
 To review and edit your personal information collected through our support services, and for any other inquiries regarding our support services, please contact us by using our Web form. Some business customers may purchase enhanced support offerings (e.g. Premier etc.). These offerings are covered by their own contract terms and notices.
 
-Payment DataPayments Data When you make online purchases, you will be asked to provide information, which may include your payment instrument number (e.g., credit card, PayPal), your name and billing address, and the security code associated with your payment instrument (e.g., the CSV) and other financial data (“Payment Information”). This section describes the collection and use of Payment Information.
+Payment DataPayment Data
 
-Payment Data is the information that you provide when making an online purchase through the Services. This may include your name, billing address, your payment instrument number (e.g., credit card), the security code associated with your payment instrument (e.g., the CSV) and other financial data.
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number (_e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument (_e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
 
-We use Payment Data to complete transactions, as well as to detect and prevent fraud.  In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, for fraud prevention and credit risk reduction purposes. 
+Payment Data is the information that you provide when you make online purchases. This may include your payment instrument number (_e.g.,_ credit card, PayPal), your name and billing address, and the security code associated with your payment instrument (_e.g.,_ the CSV or CVV). This section provides additional information regarding the collection and use of your payment information.
 
-When you provide Payment Data while authenticated, we will store that data to help you complete future transactions.  We do not, however, retain the security code associated with your Payment instrument in this manner.
+Payment Data is used to complete your transaction, as well as for the detection and prevention of fraud. In support of these uses, Microsoft may share your Payment Data with banks and other entities that process payment transactions or other financial services, and for fraud prevention and credit risk reduction.
 
-To remove or modify Payment Data, please contact Customer Support.  After you close your account or remove Payment Data, however, Microsoft may retain your Payment Data for as long as reasonably necessary to complete your existing transactions, to comply with Microsoft’s legal and reporting requirements, and to detect and prevent fraud. 
+When you provide Payment Data while logged in with your Microsoft or organizational account we will store that data to help you complete future transactions. 
+
+You may update or remove the payment instrument information associated with your Microsoft account by logging in at https://commerce.microsoft.com. You may remove the payment instrument information associated with your organizational account by contacting Customer Support. After you close your account or remove a payment instrument, however, Microsoft may retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with Microsoft’s legal and reporting requirements, and for the detection and prevention of fraud.
 
 Microsoft accountMicrosoft account
 
