@@ -6,7 +6,7 @@ Effective Date: July 19th, 2011
 
   
 
-This privacy policy (the "Privacy Policy") describes the personal information ("Information") collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed SpeedDate.com, Inc. ™ ("SpeedDate").
+This privacy policy (the "Privacy Policy") describes the personal information ("Information") collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed SpeedDate.com Limited ("SpeedDate").
 
 The term "You" (and its variants) refers to You as a user of the Service and the term "Us" (and its variants) refers to SpeedDate™.Â 
 
