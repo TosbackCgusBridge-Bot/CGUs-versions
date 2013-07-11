@@ -77,6 +77,6 @@ Attn: Legal Department, Website Privacy
 12405 Powerscourt Drive  
 Saint Louis, Missouri 63131
 
-If you have any questions about our services, your dealings with this site or to contact someone about the services offered by Charter, please contact us by calling 1-888-GET CHARTER.
+If you have any questions about our services, your dealings with this site or to contact someone about the services offered by Charter, please contact us by calling
 
 Effective: May 4, 2010
