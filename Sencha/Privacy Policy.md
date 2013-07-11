@@ -44,7 +44,11 @@ Skip Navigation
 *   Log in / Register Username Password Log in Remember Me? Register for a Sencha account »
 *   Forum
 *   App Gallery
-*   Learn
+*   Developers
+    *   Learn
+    *   SenchaDevs
+    *   Sencha Market
+    *   Sencha Try
 *   Documentation
     *   Ext JS 4
     *   Ext JS 3
