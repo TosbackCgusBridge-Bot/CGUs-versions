@@ -196,11 +196,10 @@ If you believe in good faith that material appearing on the Site infringes your 
 You must submit any notification of an alleged copyright infringement to Wayfair's Copyright Agent by mail or email as set forth below:
 
 Wayfair Copyright Agent  
-Attn: Michael K. Barron, Esq.  
-Bingham McCutchen LLP  
-One Federal Street  
-Boston, MA 02110  
-Email: wayfaircopyrightagent@bingham.com (with the subject line "Wayfair DMCA Notice")
+Attn: Wayfair Legal  
+177 Huntington Avenue, Suite 6000  
+Boston, MA  02115  
+Email: legal@wayfair.com (with the subject line "Wayfair DMCA Notice")
 
 If you fail to comply with all of the above requirements, your DMCA Notice will not be valid. Please note that you may be liable for damages, including court costs and attorneys' fees, if you materially misrepresent that materials on the Site are infringing a copyright.
 
@@ -218,11 +217,10 @@ If you believe in good faith that your own copyrighted material has been removed
 You may submit your counter notification to Wayfair's Copyright Agent by mail or email as set forth below:
 
 Wayfair Copyright Agent  
-Attn: Michael K. Barron, Esq.  
-Bingham McCutchen LLP  
-One Federal Street  
-Boston, MA 02110  
-Email: wayfaircopyrightagent@bingham.com (with the subject line "Wayfair DMCA Notice")
+Attn: Wayfair Legal  
+177 Huntington Avenue, Suite 6000  
+Boston, MA  02115  
+Email: legal@wayfair.com (with the subject line "Wayfair DMCA Notice")
 
 Upon receipt of a counter notice, Wayfair's Copyright Agent may send a copy of it to the original complaining party informing that party that Wayfair may replace the removed content or cease disabling it. Unless the copyright owner files an action seeking a court order against Wayfair, the removed content may be replaced or access to it restored by Wayfair.
 
