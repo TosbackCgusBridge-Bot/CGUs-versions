@@ -40,7 +40,7 @@ For full-price products, "Suggested Price" or "Sugg. Price" refers to the manufa
 
 Special Offers
 
-Occasionally we will offer special promotions to our customers that we refer to as "special offers" or "special offer". This can include a gift with purchase, free shipping, manufacturer offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
+Occasionally we will offer special promotions to our customers that we refer to as "special offers" or "special offer". This can include a gift with purchase, free shipping, vendor offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
 
 Inaccuracy Disclaimer
 
