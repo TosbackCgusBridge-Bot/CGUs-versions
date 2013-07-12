@@ -61,20 +61,23 @@ Please enable JavaScript to get the full experience.
 
 View All Vehicles Shopping Tools
 
-*   Request a Quote
-*   Accessories Guide
+*   Explore
+*   Build and Price
 *   Compare Vehicles
-
+*   Find Your Match
 *   View Brochures
+
+*   Shop
 *   Local Specials
 *   Search Inventory
+*   Request a Quote
+*   Accessories Guide
 
+*   Buy
 *   Financial Tools
-*   What Fits My Budget?
-*   Estimate Payments
-
-*   Buy or Lease Quiz
-*   Credit Guides
+*   Get Trade-In Value
+*   Toyota Certified Used Vehicles
+*   Contact a Dealer
 
 Support Site Help
 
