@@ -1,6 +1,6 @@
 **Byliner Privacy Policy**
 
-Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com (the “site”) and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
+Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com or our mobile applications (such as our iPhone app) and related services (together, the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Information We Collect**
 
@@ -84,7 +84,7 @@ It is our policy to provide notifications, whether such notifications are requir
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-The date of the most recent update to this Privacy Policy is November 16, 2012.
+The date of the most recent update to this Privacy Policy is July 11, 2013.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us, or send mail to:
 
