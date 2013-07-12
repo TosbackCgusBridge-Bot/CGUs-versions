@@ -931,10 +931,12 @@ A propos
 
 *   PagesJaunes Groupe
 *   PagesJaunes recrute
-*   Souscrire de la publicité
-*   Widgets PagesJaunes
+*   Ecrire à PagesJaunes
 *   Plan du site
+*   FAQ
 *   Aide
+*   Widgets PagesJaunes
+*   Souscrire de la publicité
 
 Retrouvez PagesJaunes sur Facebook
 
