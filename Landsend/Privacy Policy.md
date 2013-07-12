@@ -163,19 +163,12 @@ Enter Keyword or Item # Search
 *   Kids
     
     *   Girls
-        *   Swim
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
+        *   Backpacks &. Lunch Boxes
         *   Tops
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
         *   Dresses
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Shorts
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
@@ -196,11 +189,19 @@ Enter Keyword or Item # Search
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
+        *   Shorts
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
         *   Outerwear
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
         *   Hats, Gloves &. Scarves
+        *   Swim
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
         *   Tights, Socks &. Underwear
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
@@ -222,15 +223,11 @@ Enter Keyword or Item # Search
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   School Uniform
-        *   Backpacks &. Lunch Boxes
+        *   School Uniforms
         *   Sale
     
     *   Boys
-        *   Swim
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
+        *   Backpacks &. Lunch Boxes
         *   Tops
             *   Big Kid (7-20)
             *   Little Kid (4-7)
@@ -246,12 +243,16 @@ Enter Keyword or Item # Search
         *   Sweaters
             *   Big Kid (7-20)
             *   Little Kid (4-7)
+        *   Blazers &. Jackets
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
         *   Outerwear
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
         *   Hats, Gloves &. Scarves
-        *   Blazers &. Jackets
+        *   Swim
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
@@ -276,8 +277,7 @@ Enter Keyword or Item # Search
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   School Uniform
-        *   Backpacks &. Lunch Boxes
+        *   School Uniforms
         *   Sale
 *   Swim
     
