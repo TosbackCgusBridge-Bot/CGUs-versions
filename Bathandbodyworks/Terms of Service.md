@@ -106,7 +106,6 @@ Welcome! **(Log in)**
         
         *   Foaming Soap
         *   Deep Cleansing Soap
-        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
@@ -177,6 +176,7 @@ Welcome! **(Log in)**
         *   Men's
         *   Travel
         *   Beauty Accessories
+        *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
