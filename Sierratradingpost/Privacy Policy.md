@@ -10,7 +10,7 @@ Return Policy
 *   Products returned six (6) months or more after the order date will be refunded by store merchandise credit
 *   If we make a mistake in filling your order, we will gladly refund the shipping charges
 
-For U.S. customer convenience, there is a prepaid UPS return shipping label included within your original order. Returns for refund will be subject to a $6.95 return shipping fee ($10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.
+For U.S. customer convenience, there is a prepaid UPS return shipping label included within your original order. Returns for refund will be subject to a $6.95 return shipping fee ($10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.)
 
 Exchange &. Return Options:
 
@@ -24,7 +24,7 @@ Create Instant Store Credit Now
 
 2\. Traditional Exchanges, Replacements, &. Returns
 
-If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI, all U.S. territories and possessions). We will process your return or exchange after it arrives.
+If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI, all U.S. territories and possessions). We will process your return or exchange after it arrives(please note: requests for item exchange using the traditional method will be subject to availability). For traditional exchange and replacement requests, a $2.95 shipping fee will apply to the new order.
 
 If you choose not to use our prepaid label, you will be responsible for paying all return shipping costs up front.
 
