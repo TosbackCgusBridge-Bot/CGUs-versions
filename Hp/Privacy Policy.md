@@ -335,7 +335,7 @@ In addition to the collection and usage practices described in the HP Online Pri
 
   
 
-*   **Account Set-Up.**If you set up an account to receive services we provide through your webOS device, we will collect your name, phone number, email address and account settings to process your registration and provide those services.
+*   **Account Set-Up.** If you set up an account to receive services we provide through your webOS device, we will collect your name, phone number, email address and account settings to process your registration and provide those services.
 *   **On-Device Services.** If you use services we provide through your webOS device, we will collect information relevant to providing the services and as you designate. For example:
 
 *   **Device Diagnostics, Analytics and Updates.** In order to improve our product and service offerings, your webOS device includes remote diagnostics, analytics, and software update services. Your webOS device collects technical information related to your device (including serial number, unique device identifier, diagnostic information, usage and crash logs, application configurations, etc.) as required to help identify and troubleshoot issues, and to provide and improve service.
