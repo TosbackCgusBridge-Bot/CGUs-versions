@@ -53,9 +53,10 @@ Google Ireland Limited
 Klicken Sie auf der Seite auf den Button "Deaktivierungs-Add-on für Browser herunterladen"  
   
 Adobe SiteCatalyst Limited  
-Klicken Sie am Ende der Seite auf den Button "Opt-out"  
+Klicken Sie hier für den Adobe SiteCatalyst "Opt-out"  
   
 
+Valiton  
 vInsight-Tracker, einen Webanalysedienst der Valiton GmbH  
 Sollte sich der Status bei Klick nicht ändern, wurden in Ihrem Browser vermutlich Cookies deaktiviert. Bitte aktivieren Sie cookies für \*.chip.de und versuchen es erneut.
 
