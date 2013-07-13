@@ -132,5 +132,5 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 Communautés d'assistance et de conseils.
 
 *   Forum Webmastering
-*   Forum SFR
 *   Forum Vos droits sur internet
+*   Forum SFR
