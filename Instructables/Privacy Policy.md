@@ -44,6 +44,7 @@ Legal Notices &. Trademarks
 *   Terms of Service: Autodesk® 360 and Other Services
 *   Code of Business Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
+*   Education Terms of Use
 
 Privacy Statement - UPDATED MARCH 19, 2013
 
