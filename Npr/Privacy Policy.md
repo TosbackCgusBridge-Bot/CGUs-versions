@@ -21,6 +21,7 @@ Skip to Main Content Toggle search
     *   Contact Us
     *   Shop NPR
     *   Visit NPR
+    *   Events
     *   Sign Up: Newsletters
     *   Book a Speaker
     *   Request Permissions
@@ -33,7 +34,7 @@ Skip to Main Content Toggle search
 *   Press
     *   Releases and Statements
     *   Photos and Logos
-    *   Fact Sheet
+    *   Fact Sheet (PDF)
     *   Media Relations Contacts
 *   Jobs
     *   Culture
