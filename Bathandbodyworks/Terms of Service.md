@@ -133,10 +133,10 @@ Welcome! **(Log in)**
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Wexler: Buy 1 Get 1 50% Off
         *   Shower Smoothies: $10
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
+        *   Lip: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -176,7 +176,6 @@ Welcome! **(Log in)**
         *   Men's
         *   Travel
         *   Beauty Accessories
-        *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
