@@ -94,4 +94,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: November 25, 2012_
 
-TOP AUTHORS: The Opinion Leaders TOP USERS: StockTalkers | Instablogs Mobile Apps  |      RSS Feeds  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2013 Seeking Alpha Follow @SeekingAlpha
+TOP AUTHORS: The Opinion Leaders TOP USERS: StockTalkers | Instablogs Follow @SeekingAlpha Mobile Apps  |      RSS Feeds  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2013 Seeking Alpha
