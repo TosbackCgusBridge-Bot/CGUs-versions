@@ -128,7 +128,7 @@ We may share personal information about you with various Fidelity corporate affi
 
 Additionally, if you interact with Fidelity directly as an individual investor (including joint account holders) or if Fidelity provides services to your employer or plan sponsor, we may exchange certain information about you with Fidelity financial services affiliates, such as our brokerage and insurance companies, for their use in marketing products and services as allowed by law.
 
-Information collected from investment professionals' customers is not shared with Fidelity affiliates for marketing purposes, except with your consent or the consent of your investment professional and as allowed by law.
+Information collected from investment professionals' customers is not shared with Fidelity affiliates for marketing purposes, except with your consent and as allowed by law.
 
   Privacy online
 
@@ -215,18 +215,18 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective January 2013   
+Effective June 2013   
 ©1998-2013 FMR LLC. All Rights Reserved. Questions? 800-343-3548
 
 *   Find an Investor Center.
 
-2012 Privacy Notice
+2013 Privacy Notice
 
 *   View the Fidelity Investments  
     and the Fidelity Funds  
     Privacy Notice (PDF).
 
-627309.3.0
+627309.4.0
 
 *   Mutual Funds
 *   ETFs
