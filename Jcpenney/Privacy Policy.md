@@ -26,7 +26,7 @@ See "Changes To This Policy" for a description of the most recent revisions.
     
 *   updating your jcpenney contact information
     
-*   your jcpenney credit account
+*   your jcpenney credit card account
     
 *   online security
     
