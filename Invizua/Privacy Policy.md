@@ -1,10 +1,10 @@
 Home Omniscope Download Forums Support Company   Knowledge Base
 
 *   Features by Edition
+*   Getting Started
 *   New Features
 *   Licensing/Activation
 *   Installation
-*   Getting Started
 *   Data Sources
 *   Deployment/Publishing
 *   Automation
