@@ -62,7 +62,7 @@ Welcome! **(Log in)**
         *   View All Brands
 *   *   Features
         *   Sale: Up to 75% Off
-        *   All 3-Wick Candles: $12
+        *   Select Candles: 50% Off
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
         *   Room Sprays: $4
@@ -177,6 +177,7 @@ Welcome! **(Log in)**
         *   Men's
         *   Travel
         *   Beauty Accessories
+        *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
