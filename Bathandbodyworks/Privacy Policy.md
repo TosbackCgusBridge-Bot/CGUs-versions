@@ -106,6 +106,7 @@ Welcome! **(Log in)**
         
         *   Foaming Soap
         *   Deep Cleansing Soap
+        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
