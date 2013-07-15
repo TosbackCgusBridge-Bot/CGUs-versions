@@ -45,8 +45,8 @@ Skip Navigation
 *   Forum
 *   App Gallery
 *   Developers
-    *   Learn
-    *   SenchaDevs
+    *   Developer Center
+    *   Sencha Devs
     *   Sencha Market
     *   Sencha Try
 *   Documentation
@@ -180,6 +180,10 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   FAQ
 *   Training
     *   Courses
+*   Developer Center
+*   Sencha Devs
+*   Sencha Market
+*   Sencha Try
 
 *   Company
     *   Team
@@ -192,7 +196,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 *   Blog
 *   Forum
-*   Learn
 *   API Docs
 *   App Gallery
 *   Resource Library
