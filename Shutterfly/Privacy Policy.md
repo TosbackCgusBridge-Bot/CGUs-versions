@@ -96,7 +96,7 @@ You have the right and ability to edit your member account information on any of
 
 9\. Confidentiality and Security
 
-We use a secure server (SSL) to encrypt all of your personal information. We also have other physical, electronic and procedural safeguards that comply with federal regulations to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of any of your personal information.
+We use a secure server (SSL) to encrypt your personal financial information. We use other physical, electronic and procedural safeguards to protect the security and confidentiality of the personal information we have collected, and to prevent unauthorized access to or disclosure of your personal information.
 
 10\. Third Party Sites
 
