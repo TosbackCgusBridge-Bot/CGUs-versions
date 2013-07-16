@@ -1,5 +1,3 @@
-Terms of Service
-
 Urbanspoon Privacy Policy
 
 (As of August 30, 2011)
