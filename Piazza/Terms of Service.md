@@ -1,8 +1,8 @@
 Piazza Terms of Service
 
-Last updated: May 2, 2013.
+Last updated: July 14, 2013
 
-Welcome to Piazza. These Terms of Service ("Terms") govern your access to and use of the services, websites, and applications offered by Piazza (collectively, the "Service"). Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Service you agree to be bound by these Terms.
+Welcome to Piazza. These Terms of Service ("**Terms**") govern your access to and use of the services, websites, and applications offered by Piazza (collectively, the "**Service**"). Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Service you agree to be bound by these Terms.
 
 We may revise these Terms from time to time. The most current version will always be on this page (or such other page as the Service may indicate). If the revision, in Piazza’s sole discretion, is material Piazza will notify you via posting to our website. By continuing to access or use the Service after those revisions become effective, you agree to be bound by the revised Terms.
 
@@ -10,39 +10,29 @@ These Terms apply to all who access the Service ("Users").
 
 1.  Use of Our Service
     
-    You may use the Service only if you can form a binding contract with Piazza, and only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations. You must provide accurate information, including your first and last name, when you create your account on Piazza
+    You may use the Service only if you can form a binding contract with Piazza, and only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations. You must provide accurate information, including your first and last name, when you create your account on Piazza.
     
     While Piazza strives to create the most user-friendly and collaborative experience possible, all aspects of the Service are subject to change or elimination at Piazza's sole discretion.
     
     You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password. We encourage you to use "strong" passwords (that use a combination of upper and lower case letters, numbers and symbols) with your account. Piazza will not be liable for any loss or damage arising from your failure to comply with this instruction. You must notify Piazza immediately of any breach of security or unauthorized use of your account.
     
-      
-    
-2.  Member Accounts
-    
-    When you register for a member account with the Service, you will provide us information about yourself, such as your name and email address. By connecting to the Service with a third-party service, you give us permission to access and use your information from that service as permitted by that service, and to store your log-in credentials for that service.
-    
-    When you visit Piazza or send emails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by email or by posting notices on this site. You agree that all Terms, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
-    
-    Other users may provide us with your name, email address, and other information when enrolling you in a class or other group on the Service. If you add a group or class, you may also provide us with course information, including instructor information, syllabus, homework and lecture notes. If you send us an email or a message through the Service, we may retain the content of your messages, your email address and our responses.
-    
-    If you create a profile, certain member information, including without limitation your name, groups, school and any additional content that you submit on your profile will be displayed to other users at your school or in your groups to facilitate user interaction within our services. Any content you upload to your profile, along with any personal information or content that you voluntarily disclose online in a manner other users can view becomes publicly available, and can be collected and used by others. If you want to delete or disable your profile, please contact us at team@piazza.com.
+    You represent that you are over the age of thirteen (13) years old. If you are over thirteen, but under the legal age of majority, your parent or legal guardian must consent to these Terms and Privacy Policy, and affirm that they accept this Agreement on behalf of, and bear all legal and financial responsibility and liability for your use of the Service.
     
       
     
-3.  Rules
+2.  Rules
     
     You must not do any of the following while accessing or using the Service: (i) use the Service for any unlawful purposes or for promotion of illegal activities (ii) access or search or attempt to access or search the Service by any means (automated or non-automated) other than through the currently available, published interfaces that are provided by Piazza (and only pursuant to these Terms), unless you have been specifically allowed to do so in a separate Terms with Piazza (crawling the Service is permissible in accordance with these Terms, but scraping the Service without the prior written consent of Piazza except as permitted by these Terms is expressly prohibited). (iii) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Service to create altered, deceptive or false source-identifying information. or (iv) interfere with or disrupt (or attempt to do so) the access of any user, host or network, including, without limitation, sending invalid data, virus, worms, overloading, flooding, spamming, mail-bombing the Service, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Service. (v) use to Service to spam anyone;. (vi) access or interfere with non-public areas of the Service, Piazza’s computer systems orthe servers running the Service. (vii) collecting or harvesting any personally identifiable information, including account names, from the Service. (viii) using the Service for any commercial solicitation purposes without Piazza’s written permission. (ix) impersonating another person or otherwise misrepresenting your affiliation with a person or entity(xi) probe, scan or test the vulnerability of any system or network or breach or circumvent any security or authentication measures we may use to prevent or restrict access to the Service or use of the Service or the content therein.
     
       
     
-4.  User Content
+3.  User Content
     
     Areas of the Service allow you to submit, post and display information, text, graphics or other materials ("User Content"). You retain ownership of all User Content you submit, post, display or otherwise make available on the Service.
     
       
     
-5.  Your License to Piazza
+4.  Your License to Piazza
     
     By submitting, posting or displaying User Content on or through the Service, you grant Piazza a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such User Content. Such license is limited to providing the Service and your User Content will not be used for publicity, advertising or any public statements without your prior consent.
     
@@ -58,7 +48,7 @@ These Terms apply to all who access the Service ("Users").
     
       
     
-6.  Piazza’s License to You
+5.  Piazza’s License to You
     
     Subject to these Terms, Piazza grants you a worldwide, non-exclusive, non-assignable, revocable, license to use the Service as it is provided to you by Piazza for your personal, noncommercial use only.
     
@@ -68,7 +58,7 @@ These Terms apply to all who access the Service ("Users").
     
       
     
-7.  FERPA
+6.  FERPA
     
     This section applies only to those users who access the Service in connection with classes offered by your educational agency or institution (the “School”) that is subject to the Family Educational Rights and Privacy Act (FERPA). Piazza acknowledges that certain information about the School's students is contained in records maintained by Piazza and that this information can be confidential by reason of the Family and Educational Rights and Privacy Act of 1974 (20 U.S. C. 1232g) and related School policies unless valid consent is obtained from the School’s students or their legal guardians. Both parties agree to protect these records in accordance with FERPA and School policy. To the extent permitted by law, nothing contained herein shall be construed as precluding either party from releasing such information to the other so that each can perform its respective responsibilities. The School shall advise Piazza whenever any students have provided consent to release information to an extent broader than as provided for by FERPA or School policy.
     
@@ -76,23 +66,17 @@ These Terms apply to all who access the Service ("Users").
     
       
     
-8.  Proprietary Rights
+7.  Proprietary Rights
     
     All right, title and interest in and to the Service (excluding your User Content), are and will remain the exclusive property of Piazza and its licensors. All materials therein, including, without limitation, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music, and all intellectual property rights related thereto, are the exclusive property of Piazza and its licensors (including other Users who post User Content to the Service). The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Except as explicitly provided herein, nothing in these Terms gives you a right to use the Piazza name or any of the Piazza trademarks, logos, domain names and other distinctive brand features.
     
     Any feedback, comments, or suggestions you may provide regarding the Service is entirely voluntary and we will be free to use such feedback, comments or suggestions without any obligation to you.
     
-    The Service may include advertisements, which may be targeted to the User Content or information on the Service, queries made through the Service, or other information. The types and extent of advertising on the Service are subject to change. In consideration for Piazza granting you access to and use of the Service, you agree that Piazza and its third party providers and partners may place such advertising on the Service. You may have the opportunity to opt-out of advertising. We do not give your User Content or information to advertisers without your consent.
+    The Service may include advertisements, which may be targeted to the User Content or information on the Service, queries made through the Service, or other information. The types and extent of advertising on the Service are subject to change. In consideration for Piazza granting you access to and use of the Service, you agree that Piazza and its third party providers and partners may place such advertising on the Service. You may have the opportunity to opt-out of advertising. We do not give your User Content or information to advertisers without your consent. Piazza Careers is a program where users can learn about and connect with companies to explore job opportunities. Participation in Piazza Careers is wholly optional and you may opt-out of the program at any time.
     
       
     
-9.  Privacy
-    
-    Piazza values your privacy. Please review our Privacy Policy to learn more about how we collect and use information about you via the Service. By using the Service you consent to the transfer of your information to the United States and/or other countries for storage, processing and use by Piazza.
-    
-      
-    
-10.  DMCA Notice
+8.  DMCA Notice
     
     It is Piazza's policy to respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 ("DMCA"). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Service, please notify Piazza's copyright agent as set forth in the DMCA. For your complaint to be valid under the DMCA, you must provide the following information in writing:
     
@@ -121,13 +105,13 @@ These Terms apply to all who access the Service ("Users").
     
       
     
-11.  Third-Party Links
+9.  Third-Party Links
     
     The Service may contain links to third-party websites, and other resources that are not owned or controlled by Piazza. These links do not imply any endorsement by Piazza does not endorse or the assumption of any responsibility for any such third-party sites, information, materials, products, or services. If you access a third party website or resource from the Service, you do so at your own risk, and you understand that these Terms and Piazza's Privacy Policy do not apply to your use of such links. You expressly relieve Piazza from any and all liability arising from your use of any third-party website, service, or content. You acknowledge and agree that Piazza is not responsible or liable for: (i) the availability or accuracy of such websites or resources. or (ii) the content, products, or services on or available from such websites or resources.
     
       
     
-12.  Disclaimers and Indemnity
+10.  Disclaimers and Indemnity
     
     Your access to and use of the Service or any User Content is at your own risk. You understand and agree that the Service is provided to you on an "AS IS" and "AS AVAILABLE" basis. Without limiting the foregoing, PIAZZA AND ITS PARTNERS DISCLAIM ANY WARRANTIES, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. We make no warranty and disclaim all responsibility and liability for the completeness, accuracy, availability, timeliness, security or reliability of the Service or any content thereon. Piazza will not be responsible or liable for any harm to your computer system, loss of data, or other harm that results from your access to or use of the Service, or any User Content. You also agree that Piazza has no responsibility or liability for the deletion of, or the failure to store or to transmit, any User Content and other communications maintained by the Service. We make no warranty that the Service will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from Piazza or through the Service, will create any warranty not expressly made herein.
     
@@ -141,53 +125,19 @@ These Terms apply to all who access the Service ("Users").
     
       
     
-13.  General
+11.  General
     
-    1.  Governing Law
-        
-        You agree that: (i) the Service shall be deemed solely based in California. and (ii) the Service shall be deemed a passive one that does not give rise to personal jurisdiction over Piazza, either specific or general, in jurisdictions other than California. These Terms shall be governed by the internal substantive laws of the State of California, without respect to its conflict of laws principles. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Unless submitted to arbitration as set forth in the following paragraph, any claim or dispute arising in connection with the Service shall be decided exclusively by a court of competent jurisdiction located in Santa Clara County, California, and you consent to the jurisdiction of and venue in such courts and waive any objection as to inconvenient forum.
-        
-          
-        
-    2.  Arbitration
-        
-        For any claim (excluding claims for injunctive or other equitable relief) under these Terms where the total amount of the award sought is less than $10,000, the party requesting relief may elect to resolve the dispute through binding non-appearance-based arbitration. The party electing such arbitration shall initiate the arbitration through an established alternative dispute resolution ("ADR") provider mutually agreed upon by the parties. The ADR provider and the parties must comply with the following rules: a) the arbitration shall be conducted by telephone, online and/or be solely based on written submissions, as selected by the party initiating the arbitration. b) the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties. and c) any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
-        
-          
-        
-    3.  Entire Agreement/Severability
-        
-        These Terms, together with any amendments and additional agreements you may enter into with Piazza in connection with the Service, shall constitute the entire agreement between you and Piazza concerning the Service. If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms, which shall remain in full force and effect. These Terms supersede and replace any prior agreements between Piazza and you regarding the Service.
-        
-          
-        
-    4.  No Waiver
-        
-        No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Piazza's failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision.
-        
-          
-        
+    You agree that: (i) the Service shall be deemed solely based in California. and (ii) the Service shall be deemed a passive one that does not give rise to personal jurisdiction over Piazza, either specific or general, in jurisdictions other than California. These Terms shall be governed by the internal substantive laws of the State of California, without respect to its conflict of laws principles. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Unless submitted to arbitration as set forth in the following paragraph, any claim or dispute arising in connection with the Service shall be decided exclusively by a court of competent jurisdiction located in Santa Clara County, California, and you consent to the jurisdiction of and venue in such courts and waive any objection as to inconvenient forum.
     
-      
+    For any claim (excluding claims for injunctive or other equitable relief) under these Terms where the total amount of the award sought is less than $10,000, the party requesting relief may elect to resolve the dispute through binding non-appearance-based arbitration. The party electing such arbitration shall initiate the arbitration through an established alternative dispute resolution ("ADR") provider mutually agreed upon by the parties. The ADR provider and the parties must comply with the following rules: a) the arbitration shall be conducted by telephone, online and/or be solely based on written submissions, as selected by the party initiating the arbitration. b) the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties. and c) any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
     
-14.  Assignment
+    These Terms, together with any amendments and additional agreements you may enter into with Piazza in connection with the Service, shall constitute the entire agreement between you and Piazza concerning the Service. If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms, which shall remain in full force and effect. These Terms supersede and replace any prior agreements between Piazza and you regarding the Service.
+    
+    No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Piazza's failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision.
     
     These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Piazza without restriction. Any attempted transfer or assignment in violation hereof shall be null and void.
     
       
     
 
-Please contact us at team@piazza.com with any questions regarding this Agreement.
-
-  
-Recent Updates
-
-August 24, 2012: we have updated the Terms to reflect several new features, including public Course Homepages and User Profiles.
-
-May 29, 2011: we have added a FERPA compliant section to our Terms of Use.
-
-February 3, 2011: we have made some changes around User Content license rights. Piazza has always allowed you to remove or edit your content. the license has been reworded to more clearly outline your rights.
-
-January 19, 2010: we have updated our Terms of Use, please review it closely.
-
-April 11, 2013: we have updated Terms to reflect several new features, including Piazza Groups.
+Please contact us at team@piazza.com with any questions regarding these Terms.
