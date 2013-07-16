@@ -1,6 +1,6 @@
 Privacy Policy
 
-_Last revised October 24, 2012_
+_Last revised June 5, 2013_
 
 Our Commitment to Privacy
 
@@ -57,8 +57,8 @@ Does Gap Inc. share my information?
 
 We may share your personal information in the following ways:
 
-*   When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Athleta), we may share that information with our other Gap Inc. brands.
-*   If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, or Piperlime merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
+*   When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, Athleta or Intermix), we may share that information with our other Gap Inc. brands.
+*   If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Intermix merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.
 *   We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information.
 *   We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.
 *   We may share information about you if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Gap Inc. or others.
@@ -108,6 +108,8 @@ How does Gap Inc. use cookies and other tracking technologies?
 Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
 For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)
+
+We may also use our own cookies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising that utilizes our cookies, please click here. Please see the section below to learn more about behavioral or interest based online advertising that uses third party tracking technologies.
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
