@@ -1,10 +1,3 @@
-Privacy Policy General Inquiries
-
-For general inquiries, contact the Chronicle operator.
-
-415-777-1111  
-Toll-free USA 800-247-6642
-
   
   
   
