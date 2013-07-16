@@ -1,38 +1,3 @@
-Skip to main content
-
-*   Membership
-*   Blog
-*   Fun Stuff
-*   Parents
-*   Products
-*   Help
-*   Apps
-
-play now Privacy Policy
-
-**Print**
-
-**Download PDF**
-
-*   Select Language
-    
-    *   English
-    *   Español
-    *   Français
-    *   Português
-    *   Deutsch
-    *   Dansk
-    *   Norsk
-    *   Svenska
-    *   Suomi
-    *   Türkçe
-    *   Polska
-    *   Nederlands
-    *   Český
-    *   Magyar
-    *   Român
-    *   Bŭlgariya
-
 Updated: January 11, 2012
 
 Disney Club Penguin ("Club Penguin") is operated and presented to users in all locations by Disney Online Studios Canada Inc. (formerly known as Club Penguin Entertainment Inc.) located at 500-1628 Dickson Avenue, Kelowna, British Columbia, Canada VIY 9X1. This Privacy Policy covers use of information collected by Club Penguin.
@@ -115,21 +80,3 @@ To help ensure a rewarding online experience for our visitors, we provide you wi
     The privacy policy set out above is effective as of January 11, 2012, and applies to all information previously obtained by Club Penguin. We reserve the right to change the privacy policy at our sole discretion. Club Penguin users will be informed of any such change by us posting a new privacy policy on the Club Penguin website and the effective date of any change of privacy policy will be clearly marked. As required by law, we will not use PII in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
     
     Club Penguin is a licensee of the TRUSTe Children’s Online Privacy Seal Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/consumers/watchdog\_complaint.php.
-    
-
-Quick Links
-
-*   Help
-*   Awards
-*   Global Citizenship
-*   Contact
-
-Company
-
-*   Company
-*   About
-*   News
-*   Careers
-*   Affiliates
-
-Activate Card Parent Tools Unlock Items Language Select DEUTSCH ENGLISH ESPAÑOL FRANÇAIS PORTUGUÊS Club Penguin™ Disney Canada Inc. © Disney. All rights reserved. \* Updated on January 11, 2012 | Terms of Use | Privacy Policy \*
