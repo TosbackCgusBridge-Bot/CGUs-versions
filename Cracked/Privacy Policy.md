@@ -1,6 +1,3 @@
-1.  Home
-2.  Privacy Policy
-
 Privacy Policy
 
 This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website http://www.cracked.com.com/ (the "Site") and the software, games and other services we provide on or through the Site (together with the Site, the "Service").
@@ -16,9 +13,9 @@ BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE T
     2.  **Information in Public Areas of the Site**. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
 2.  AUTOMATIC INFORMATION COLLECTION
     1.  **Cookies**. Like many Web sites, we use "cookies". Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn of, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as:
-        1.  the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+        1.  the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours.
         2.  the date and time you access the Site and pages you visit;
-        3.  your computer's IP address and information about its operating system, platform and the Web browser type and version you use;
+        3.  your computer's IP address and information about its operating system, platform and the Web browser type and version you use.
         4.  demographic and other non-personally identifiable profile information about you. and
         5.  information to combat fraud or misuse.
     2.  **Pixel Tags**. In our e-mails to you, we use "pixel tags" to determine if your email software or service can display html-formatted e-mail (this helps us optimize the size of our e-mail messages and conserve bandwidth).
@@ -37,8 +34,8 @@ BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE T
     3.  Business Transfer. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, mergers, restructurings, changes of control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII is subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
     4.  **Affiliates**. We may share PII, non-PII and other information with our corporate affiliates. Some of our most significant affiliates are identified on the website of our parent company, Demand Media, Inc. (www.demandmedia.com). Corporate affiliates are those entities that we control, are controlled by us, or are under common control with us and any joint venture in which any of the controlled entities may participate from time to time. Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Likewise, we may obtain information about you from our corporate affiliates or from your visits to other web sites that we or our corporate affiliates control. We may share information about you with our corporate affiliates and our corporate affiliates may share information with us using cookie or any other available technology.
     5.  **Compliance and Safety**. We may release PII when we believe release is appropriate to:
-        1.  comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
-        2.  make disclosures under programs intended to prevent potential crimes or investigate persons;
+        1.  comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement.
+        2.  make disclosures under programs intended to prevent potential crimes or investigate persons.
         3.  enforce or apply agreements, including the Terms. or
         4.  protect the rights, property, or safety of Cracked.com, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
 5.  INFORMATION SECURITY
