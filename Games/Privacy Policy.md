@@ -78,21 +78,23 @@ Our Commitment to Security
 
 AOL has established safeguards to help prevent unauthorized access to or misuse of your AOL information, but cannot guarantee that your information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or AOL and its affiliated providers' policies). To protect your privacy and security, we may use passwords or other technologies to register or authenticate you and enable you to take advantage of AOL Services, and before granting access or making corrections to your AOL information.
 
-Protecting Children
+Children's Privacy
 
-AOL Services are intended for a general audience, and children under the age of thirteen should not register without the consent of a parent or guardian.  When you register your child for an AOL email address, you consent to allow your child to use all AOL Services. See Collection of your AOL Information above to learn about the ways AOL may collect information from your child.  
+AOL Services are intended for a general audience.  We do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act.  By providing your consent in such circumstances, you agree that your child may use all AOL Services and that we may collect, use, and disclose your child’s personal information consistent with this privacy policy.   
    
-Please contact us with any questions about our Children's Privacy Practices:  
-  
+If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information, you may contact us:  
+   
 By mail:  
 AOL Children's Online Privacy  
 ATT: H2A:H09  
 22000 AOL Way  
 Dulles, VA 20166-9302  
-  
-By phone:  
-(888) 206-6088  
- 
+   
+By phone: (888) 206-6088  
+   
+By email  
+   
+For a list of the types of authorized third parties that may collect personal information through the AOL Services, please visit Advertising, Analytics, and Privacy.
 
 How to Contact Us
 
