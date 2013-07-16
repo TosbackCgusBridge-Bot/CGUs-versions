@@ -1,16 +1,16 @@
-Privacy Policy ALBERTSONS PRIVACY POLICY
+**Albertson’s Privacy Policy**
 
-Albertsons respects your privacy and is committed to safeguarding your personally identifiable information or “personal information” from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our website, shop at our stores, use our products or access our services, or otherwise interact with us. It also describes how your personal information is used or disclosed and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
+Albertson’s respects your privacy and is committed to safeguarding your personally identifiable information or “personal information” from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our website, shop at our stores, use our products or access our services, or otherwise interact with us. It also describes how your personal information is used or disclosed and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
 
-CONSENT TO PRIVACY POLICY
+**CONSENT TO PRIVACY POLICY**
 
 By accessing our website or obtain information or services or providing personal information to us through other means, you are agreeing to the terms of this Privacy Policy.
 
-DEFINITION OF PERSONAL INFORMATION
+**DEFINITION OF PERSONAL INFORMATION**
 
 We define the term “personal information” to mean any information that we directly associate with or use to identify a specific person. This may include an address, phone number, email address, fax number, online registration or financial account, when associated with a person’s name. Our definition does not include “aggregate personal information,” which is information that we collect about a group or category of persons or services, or “de-identified information,” which is information from which we or our agents have removed any information that can be used to specifically identify a person, and this policy does not restrict or limit our collection or use of those types of information.
 
-COLLECTION OF PERSONAL INFORMATION
+**COLLECTION OF PERSONAL INFORMATION**
 
 We may collect your personal information through one or more of the following methods.
 
@@ -22,7 +22,7 @@ We may collect your personal information through one or more of the following me
 
 *   **Cookies, Web Beacons and Similar Technologies.** We may use cookies, web beacons and similar technologies to manage our website and email messages, and we may collect information about your activities online at our website. We may link this information with other personal information about you. We may also allow third parties to serve ads on our websites, and if you visit their websites, they may collect information about your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices with respect to the collection, use, disclosure and protection of your personal information.
 
-OUR USE OF PERSONAL INFORMATION
+**OUR USE OF PERSONAL INFORMATION**
 
 We may use your personal information for a variety of purposes, including but not limited to:
 
@@ -37,7 +37,7 @@ We may use your personal information for a variety of purposes, including but no
 *   Keeping a record of our interactions with you if you place an order or otherwise deal with our representatives over the telephone or online
 *   Preventing, investigating or providing notice of fraud, unlawful or criminal activity, or unauthorized access to or use of personal information, our website or data systems. or to meet legal obligations
 
-DISCLOSURE OF PERSONAL INFORMATION
+**DISCLOSURE OF PERSONAL INFORMATION**
 
 We do not sell or rent your personal information to third parties in the ordinary course of our business, nor do we share it with them for their own direct marketing purposes. Notwithstanding, upon the occurrence of certain corporate transactions, your personal information may be disclosed or transferred as described under the caption “Certain Business Transfers” below. We may also share your personal information with our parent corporation or affiliated companies for their use in a manner similar to the purposes described above under the caption “Our Use of Personal Information.” Our practices with respect to the disclosure of personal information are described below.
 
@@ -49,45 +49,45 @@ We do not sell or rent your personal information to third parties in the ordinar
 
 *   **Certain Business Transfers.** Your personal information may be disclosed as part of a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets, and could be transferred to a third party as one of the business assets in such a transaction. It may also be disclosed in the event of insolvency, bankruptcy or receivership.
 
-HEALTH INFORMATION/PHARMACIES
+**HEALTH INFORMATION/PHARMACIES**
 
-Our pharmacies collect protected health information, which includes your medical and personal history, prescription profile for fulfillment of pharmacy orders, and other health-related information that you, your doctor or your insurance carrier provides to us. This information is most often used to process your prescriptions, provide you with health care information or services, or to contact you with questions and respond to your inquiries. This information is subject to our notice of privacy practices that more specifically describes how we may use or disclose your protected health information. You may request a copy of our notice of privacy practices when you visit any of our pharmacies or by contacting us using one of the methods listed under the caption “How to Contact Us” that appears below.
+Our pharmacies collect protected health information, which includes your medical and personal history, prescription profile for fulfillment of pharmacy orders, and other health-related information that you, your doctor or your insurance carrier provides to us. This information is most often used to process your prescriptions, provide you with health care information or services, or to contact you with questions and respond to your inquiries. This information is subject to our notice of privacy practices that more specifically describes how we may use or disclose your protected health information. You may also request a copy of our notice of privacy practices when you visit any of our pharmacies or by contacting us using one of the methods listed under the caption “How to Contact Us” that appears below.
 
-INFORMATION PERTAINING TO CHILDREN
+**INFORMATION PERTAINING TO CHILDREN**
 
 We do not intend to or knowingly collect personal information online from children under the age of 13, and we encourage parents or guardians to participate in and monitor their children’s online activity. If a child under 13 has provided personal information, a parent or guardian may inform us of that fact by contacting us using one of the methods listed under the caption “How to Contact Us” that appears below, and we will then delete the information from our database. If you are under the age of 13, do not provide us with any personal information either directly, on any website bulletin boards or by other means.
 
-ACCESS TO AND RETENTION OF PERSONAL INFORMATION
+**ACCESS TO AND RETENTION OF PERSONAL INFORMATION**
 
 We do not maintain all of your personal information in a form that you can access or update, and some items, such as transaction records, may not be changed. Accordingly, we will determine and may limit what may be accessed and how, and we may keep a record of changes (including deletions) and disclose them for lawful purposes. We keep your personal information for as long as we think is necessary or advisable, and we reserve the right to retain it to the full extent not prohibited by law. You may review your personal information that is readily accessible or request that it be updated by contacting our Customer Interaction Center using one of the methods listed under the caption “How to Contact Us” that appears below.
 
-SECURITY OF PERSONAL INFORMATION
+**SECURITY OF PERSONAL INFORMATION**
 
 We take various physical, electronic and procedural measures to protect your personal information from unauthorized disclosure or misuse. We employ Secure Sockets Layer (SSL) technology, a commonly employed method of encrypted communication used on the Internet, to encrypt during transmission, sensitive personal information you input, including credit card numbers. However, because no data security systems are completely secure, we do not warrant that any personal information that you provide to us will be secure or safe from unauthorized access. If you provide any personal information to us, you do so at your own risk.
 
-LINKS TO OTHER WEBSITES
+**LINKS TO OTHER WEBSITES**
 
 Our website may contain links to websites operated by third parties. When you visit their websites, they may collect information about your visit and use it to provide advertisements to you. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. Each of these linked websites may maintain its own policies about the collection, use and protection of your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices.
 
-CHANGES TO THIS POLICY
+**CHANGES TO THIS POLICY**
 
 We will modify this Privacy Policy if our practices change. We will notify you of such changes by posting the modified version on our website and indicating the date it was last modified. We encourage you to visit our website periodically to view the latest version of this Privacy Policy.
 
-OPT-OUT CHOICES
+**OPT-OUT CHOICES**
 
-We may send you email messages, direct mail offers, or other communications regarding products or services unless you specifically ask us not to do so when you  access our website or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to Albertsons (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below. We will endeavor to process your opt-out request in a commercially reasonable time.
+We may send you email messages, direct mail offers, or other communications regarding products or services unless you specifically ask us not to do so when you  access our website or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to Albertson’s (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below. We will endeavor to process your opt-out request in a commercially reasonable time.
 
-*   **Printed Materials:** To opt out of receiving printed marketing materials at your postal address, such as advertisements, flyers or postcards, contact Albertsons at the address below.
-*   **Emails:** To opt out of receiving marketing materials via email, use the method provided in the email or contact Albertsons at the address below.
-*   **Facsimiles:** If you have consented to receiving facsimile messages, you may opt out of receiving them by using the method provided in the facsimile message or by contacting Albertsons at the address below.
-*   **Voice or Text Messages:** To opt out of receiving in-person voice messages by telephone, contact Albertsons at the address below. If you have consented to receiving prerecorded voice messages or text messages, you may opt out of receiving them by using the method provided in the prerecorded voice message or text message, or by contacting Albertsons at the address below.
+*   **Printed Materials:** To opt out of receiving printed marketing materials at your postal address, such as advertisements, flyers or postcards, contact Albertson’s at the address below.
+*   **Emails:** To opt out of receiving marketing materials via email, use the method provided in the email or contact Albertson’s at the address below.
+*   **Facsimiles:** If you have consented to receiving facsimile messages, you may opt out of receiving them by using the method provided in the facsimile message or by contacting Albertson’s at the address below.
+*   **Voice or Text Messages:** To opt out of receiving in-person voice messages by telephone, contact Albertson’s at the address below. If you have consented to receiving prerecorded voice messages or text messages, you may opt out of receiving them by using the method provided in the prerecorded voice message or text message, or by contacting Albertson’s at the address below.
 
-HOW TO CONTACT US
+**HOW TO CONTACT US**
 
-If you have any questions, comments or concerns about this Privacy Policy or privacy-related comments or questions, please contact Albertsons by mail as follows:
+If you have any questions, comments or concerns about this Privacy Policy or privacy-related comments or questions, please contact Albertson’s by mail as follows:
 
-**Mailing Address** Attn: Albertsons Customer Service, 250 Parkcenter Blvd., Boise, ID  83706
+**Mailing Address** Attn: Albertson’s Customer Service, 250 Parkcenter Blvd., Boise, ID  83706
 
 **Effective Date: February 8, 2012**
 
-© 2006 – 2012 Albertsons LLC. All rights reserved.
+© 2006 – 2012 Albertson’s LLC. All rights reserved.
