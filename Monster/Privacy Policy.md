@@ -1,264 +1,62 @@
-Monster is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to this web site.
+**Your Privacy Rights**
 
-By registering or by using this site, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Statement. Please read this Statement carefully as it affects your rights and liabilities under law. If you disagree with the way we collect and process personal information collected on the Web site, please do not use it.
+Monster collects information about you and uses this information to help you connect with employers and other job seekers and to provide other services to you. This policy describes how your information is collected and used and your choices with respect to your personal information. We encourage you to review our full Privacy Policy for detailed information on our information and privacy practices.
 
-  We self-certify compliance with  
-  
-  
-  
 Scope of this Policy
 
-This policy applies to monster.com and its associated community sites, including but not limited to PoliceLink.monster.com, NursingLink.monster.com, etc. (the “Site” or Sites”), which are owned by Monster Worldwide, Inc. or its affiliated companies (“Monster”). It is Monster’s policy to comply with data protection legislation. This regulates the processing of information relating to you and grants you various rights in respect of your personal data.
+This policy applies to information we collect on sites and applications owned or controlled by Monster Worldwide, Inc. or its affiliated companies ("Monster").
 
-The Sites contain links to other web sites over which we have no control. Monster is not responsible for the privacy policies or practices of other web sites to which you choose to link from this site. We encourage you to review the privacy policies of those other web sites so you can understand how they collect, use and share your information.
+Monster is not responsible for the data use practices of ad networks, other parties with whom we work with to provide you personalized services, or those who access your information on our sites or applications.
 
-We also do not control the data use practices of either (a) employers or others who may access your information on this site, or (b) third party Ad Networks and other third parties with whom we work to serve you personalized ads on our sites. We encourage you to review the privacy policies and opt-out choices of those third parties so you can understand how they collect, use and share your information.
+Information We Collect   We self-certify compliance with:  
+  
+  
+  
 
-Information We Collect and Retain
+We collect the personal information you choose to provide us. We also collect non-personal information about you, which includes demographic information and how you use and interact with Monster. We may also acquire information about you from third parties to further personalize and enhance your experience.
 
-You do not have to give us any personal information in order to perform job searches or to read the content portions of our Site. We collect the following general types of information about you when you visit our Sites: personal information, demographic information, behavioral information, and indirect information. Sometimes we collect combinations of all these types of information. In each case, it is indicated on the web site whether any personal or demographic data must be provided to use the requested service or not.
+How We Use Information
 
-_Personal information_ is information that can be used to identify you, or any other individual to whom the information may relate, personally. We do not collect personal information unless you choose to provide it to us. Some examples of personal information that we collect in some areas of our Site, depending on the services you use and local law, are:
+We use the information we collect about you to deliver the products and services we offer, respond to you, and operate and improve our sites and applications. Our services include showing you personalized content and advertising on Monster or other sites with which we have a business relationship. We may use your information to contact you about Monster updates, conduct surveys, or to provide informational and service-related communications, including important security updates.
 
-*   Your name
-*   Address
-*   Email address
-*   Telephone number
-*   Credit card number
-*   Contact information
-*   Billing information
-*   Information about third parties, such as references or contacts, that you provide to us if you have their express written consent to do so
+Information you share in public areas of Monster or place in the searchable resume database may be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but we cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information you give to us, so you should not post sensitive information to Monster.
 
-_Demographic information_ is information that is not unique to you in the sense that it refers to selected population characteristics, such as your ZIP code or postal code, age, preferences, gender, race or ethnicity, occupation, career history, interests and favorites.
+How We Share Information
 
-We also collect _behavioral information_ regarding how you use our sites and mobile applications, the areas of our site that you visit, what services you access, and information about your computer hardware and software including your IP address, geolocation, browser and operating system type, domain names, access times and referring Web site addresses. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services.
+We share your information with third parties who help us deliver our products and services to you. These third parties may not use your information for any other purpose.
 
-In addition, Monster may collect _indirect information_ about you when you use certain third party services on our web site. For example if you provide a title of ‘Mrs.’ we will assume you are female.
+With your consent, we may use your information to contact you about products or services available from our affiliates.
 
-We may personalize the advertising that you are shown on our sites or other sites with which we have a business relationship. In order to provide this personalization, in addition to information we collect about you on our sites, we acquire information (including personal, demographic, behavioral and indirect information) about you from third parties who provide it to us.
+With your consent, we may disclose your information to third parties who may contact you about their products or services.
 
-How Information is Used
+We also share information where legally required.
 
-We use the information we gather on the web site for the purposes of providing our services, responding to any queries you may have, operating and improving the web site, fostering a positive user experience and delivering the products and services that we offer to jobseekers and employers. Our services include the display of personalized products, content, and advertising relating to your career experience and interests, either on our site or other sites with which we have a business relationship. The information we gather on any Monster web site may be shared within the Monster group of companies on a worldwide basis in order to deliver these products and services. Some Monster companies may be located in countries that do not have legislation that guarantees adequate protection of personal information as defined by your country of residence.
+We may disclose and transfer information to a third party who acquires any or all of Monster’s business units.
 
-By registering with Monster, by managing your profile, or opting in when presented with choices, you have consented for us to use your information, subject to local law, in the following ways:
+How We Store Information
 
-*   to allow you to create an account;
-*   to create a profile for you based on information that you have provided to us.
-*   to contact you about Monster Site updates, informational and service-related communications, including important security updates;
-*   to provide you additional communications, information, and promotions such as newsletters and career advice;
-*   to inform you of other products or services available from Monster or its affiliates (“Affiliates” means entities that control, are controlled by or are under common control with Monster Worldwide, Inc.).
-*   to enable you to provide feedback, to contact us and for us to respond to you;
-*   to conduct surveys, questionnaires, promotions and contests, and to provide the results thereof such as success stories and contest winners;
-*   to provide information about you and your potential interest in job postings to employer customers;
-*   to provide products and services to employer customers to complete the recruitment and hiring process, such as accessing the searchable resume database;
-*   to provide products and services that enable users to network, post information on bulletin boards, view and compare profiles, and career background and experience;
-*   to generate internal reports about the use of our site. and
-*   to provide ‘forward to a friend’ features.
+We store your information to make your interaction with Monster more efficient, practical, and relevant. You may review, update, or delete the personal information you share with us at any time by accessing your account. When you delete your personal information, we will retain logs and non-personal information about you along with an archival copy of your information, which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using Monster, we are unable to delete the information from their systems.
 
-Some of our products and services, such as our searchable resume database and networking, enable third parties to see your personal information and to contact you. Profile information may be used for networking with other community members or may be visible to employers who are using the Monster Sites. In addition, portions of your searchable resume (but not your contact information) may be made public in your networking profile.
+If you change your mind about receiving communications from Monster or other parties, you may change your preferences by logging into your account to adjust your notification settings.
 
-**Information you post in public areas of the site or place in the searchable resume database will be accessed, used, and stored by others around the world, including those in countries that might not have legislation that guarantees adequate protection of personal information as defined by your country of residence.** By providing your personal information for inclusion in our database, you acknowledge that you consent to your information being used as described here. While Monster takes measures to safeguard your information from unauthorized access or inappropriate use by third parties, Monster does not control these third parties and we are not responsible for their use of information you post or otherwise make available in public areas of the Monster Sites. Accordingly, you should ensure that you do not post sensitive information, including personality profiles, to any Monster Site.
+You may also turn off cookies. This will adversely affect your use of Monster.
 
-Disclosure of Information to Others
+Other Information
 
-We disclose to third parties within your country and abroad your personal information, combined personal, demographic, behavioral or indirect information, as set forth below:
+Monster is not intended for children under 13 years of age.
 
-1\. We may share your information with third parties who help us in the delivery of our own products and services to you. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals may be located in a country whose data protection legislation is different from your country, and they will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party or use that data for any other purpose. We will remain responsible for any information shared in this way.
+We participate in the U.S. Department of Commerce’s Safe Harbor Framework and we are a member of TRUSTe.
 
-2\. We may disclose such information to third parties if you consent to such disclosure. For example, if you make your resume searchable, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume. If you indicate by configuring your profile that you would like to receive information about the opportunities, products or services of third parties, we supply your contact information to select third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third party.
+For more information on how to protect yourself online, visit the Security Center.
 
-We also share aggregated anonymous information about visitors to the Sites with Monster’s clients, partners, other Site visitors, and other third parties so that they can understand the kinds of visitors to the Sites and how those visitors use the Sites in order to serve advertisements to you on our Sites or other sites with which we have a business relationship. We may also aggregate on an anonymous basis data regarding job qualifications, schooling, age, experience level or other information relevant to the job search or competition among job seekers for any such job. Such aggregated data does not identify users individually, and may be made available to employers or fellow job seekers or community members.
+Contact Information
 
-We supply technology, hosting, hiring management and related services to other leading companies to power recruitment areas on their Web sites (sometimes referred to as “Hosted Career Sites”). Personal and/or demographic information supplied by you in Hosted Career Sites becomes part of the Monster database, but it is not accessible by anyone other than you, Monster, and the company concerned without your consent. If you attempt to register with Monster after registering with a Hosted Career Site, Monster will recognize your information and you will be able to use the information you provided to the Hosted Career Site in your account registration.
-
-Information gathered on a page in a Hosted Career Site area or on a co-branded page may be retained by both Monster and the other company. In that instance, the use of such information by the other company will be subject to the privacy policy of that company and Monster is not responsible for that company's use of your personal or demographic information.
-
-If you apply for a position through a Hosted Career Site or a co-branded site, you may be asked to provide information on your age, gender or race where permitted by law. You should understand that, if provided, this information should only be used by employers in accordance with applicable law. However, Monster is not responsible for the actions of such employers. All such information provided will be kept separate by Monster from your expression of interest in any job opportunity. Providing this information is strictly voluntary and you will not be subject to any adverse action or treatment from Monster if you choose not to provide this information.
-
-If you apply for a position on Monster through a Hosted Career Site, you may be asked to provide information on your gender, race, or other protected status, or for a government identity number where permitted by applicable law. Some employers are required by law to gather this information from job applicants for reporting and record-keeping requirements. You should understand that if provided, this information may only be used by employers only in accordance with applicable law and they should not use it in making any negative employment decisions. All information provided will be kept separate from your expression of interest in any job opportunity. Providing this information is subject to local law.
-
-3\. We disclose information if legally required to do so, or at our discretion pursuant to a request from a governmental entity or if we believe in good faith – after considering your privacy interests and other factors – that such action is necessary to: (a) conform to legal requirements or comply with legal process. (b) protect our rights or property or our affiliated companies. (c) prevent a crime or protect national security. or (d) protect the personal safety of users or the public. Because Monster Worldwide, Inc. is a US company and information collected on our Sites is stored in whole or in part in the United States, your information may become subject to U.S. law.
-
-4\. We may disclose and transfer such information to a third party who acquires any or all of Monster’s business units, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Monster becomes the subject of an insolvency proceeding, whether voluntary or involuntary, Monster or its liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court. You will be notified of the sale of all or a substantial portion of our business to a third party by email or through a prominent notice posted on the Sites.
-
-Again, in each of these situations, the recipients of your data may potentially be located in any country in the world. If you are a resident in any EU member state, for example, you must be aware that the EU authorities do not generally consider that the regulations of non-EU countries ensure an adequate or equivalent level of protection as compared to the EU data protection regulations.
-
-An Important Note about Your Resume
-
-When you create or post a resume to the Sites, that resume is stored in our searchable resume database in the United States. You may control the status of your resume by setting it to private or public.
-
-If you set your resume as private, it is not searchable by potential employers or other with access to our resume database.  You may still use your resume to apply online to a job. **If you do apply online to a job, your resume will be transferred to the relevant employer, who may retain a copy of your resume or distribute it to third parties.** We cannot control their use or retention of your resume information.
-
-If you set your resume as public, but want your contact information to be confidential, your resume will be searchable by potential employers, but we will hide your contact information and current company.  You must also remove your contact information from your uploaded or copy and paste text resume.  You should be aware that if you have a rare skill or job title, for example, it may still be possible for you to be identified even without your contact details being included. If you are worried about being identified, you should not include specific details by which you could be identified. **If you use a confidential resume to apply to a job online, the employer to whom you send your resume will be able to view your contact information in order to contact you about your application.**
-
-If you allow your resume to be searchable without making it confidential, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume.  Employers or other parties with access to our searchable resume database may be located in countries whose data protection legislation may not be equivalent to the laws in your country.  For example, your resume may be viewed and accessed by employers outside the European Economic Area who have access to our searchable database. By making your resume searchable, you are expressly consenting to such transfers of data.
-
-**We attempt to limit access to our searchable resume database to legitimate users such as paying employers, recruiters, hiring managers, headhunters and human resource professionals, as well as law enforcement and national security agencies, but cannot guarantee that other parties will not gain access to this database.** We cannot control the use made of resumes by third parties who access such resumes while they are in our searchable database. You may remove your resume from our searchable database at any time. details of how to do this are given below. However, employers, recruiters and others who have paid for access to that database, as well as parties who have otherwise gained access to the database may have retained a copy of your resume in their own files or databases. We cannot control the retention, use or privacy of resumes or profiles that have been downloaded by third parties.  Accordingly, you should not put sensitive information, personality profiles, or other information you would not want made public, in your resume.
-
-If you provide us with details of a reference, it is your responsibility to ensure that the person is aware that you have forwarded his/her details and has consented in writing for you to do so.
-
-If you use our facilities to build a resume or to post a resume in our database of jobseekers’ resumes, then you will be providing us with personal data we will use in accordance with this Statement. Your resume must not contain sensitive data relating to your (i) racial or ethnic origin (ii) political beliefs (iii) philosophical or religious beliefs (iv) membership of a trade union or political party (v) physical or mental health or genetic makeup (vi) addictions, sexual life (vii) the commission of criminal offences or proceedings and associated penalties or fines, or (viii) any Social Security Number or national identification number, if you set your resume as private unless you have previously sent to us your written consent that we may process your sensitive personal data, if Monster determines this to be a requirement of applicable law. If your resume does contain such data and you set your resume as public, then you agree that we may retain this information and use it in accordance with this Statement. We cannot control third parties’ access to such information from our searchable database.
-
-Posting Your Information to Public Areas of Monster
-
-Please remember that if you post any of your personal information in public areas of Monster, such as in online forums or chat rooms, or in the searchable resume database, such information may be collected and used by others over whom Monster has no control. We cannot control the use made by third parties of information you post or otherwise make available in public areas of Monster.
-
-Your Choices About Your Information 
-
-Because managing your career is a life-long process, we retain all the information we gather about you in an effort to make your repeat use with us more efficient, practical and relevant until you change or remove your personal data as described below. You may have access to, review, correct, update, change or delete your account profile information or resume at any time. Simply log into your account, go to your profile or resume, and make the necessary changes. You may delete your resume from Monster’s online database at any time by accessing your account. Before providing you with a copy of your personal information or correcting, updating or deleting such information, we reserve the right to verify and authenticate your identity and the personal information to which you have requested access. Access to or correction, updating or deletion of your personal information may be denied or limited by Monster if it would violate another person’s rights and/or as otherwise permitted by applicable law. We will respond to information access requests within 30 days of receipt. If we require additional time to provide access to your information, we will acknowledge receipt of your request within 30 days and promptly supplement our response within the time period required by applicable law. We will respond to information access requests within 30 days of receipt. If we require additional time to provide access to your information, we will acknowledge receipt of your request within 30 days and promptly supplement our response within the time period required by applicable law.
-
-If you wish to delete or close your account or account profile information altogether, please click here to contact us. An email will be sent to you to confirm that your personal information has been deleted (save for an archival copy which is not accessible by you or third parties on the Internet). The archival copy is retained only for as long as Monster reasonably considers necessary for audit and record purposes. We will also retain logs, demographic, indirect, and statistical information that may relate to you but do not identify you personally. If your personal information was previously accessed by others using our Sites, we are not able to delete the information or copies thereof from their systems.
-
-If you are a job seeker with a public resume and have not logged onto the web site for an extended period, we may make your resume unsearchable. Separately, and regardless of your resume privacy setting, if you do not log into your account for a significant period of time, it will expire and be scheduled for deletion. Our current expiration and deletion period is 36 months. we may extend or reduce this period in order to adjust to changing hiring patterns. If we change the period, we will update this notice. You will, always receive an email from us before we delete your resume, and you always have the ability to delete your resume at any time by logging into your account. Deletion of expired accounts occurs on a periodic basis and includes the deletion of all applicable account data including resumes and contact information.
-
-If you do not want your information to be processed as described by this policy, you make revoke your consent to our Privacy Policy. If you wish to do so, please click here to contact us. However, please note that if you do withdraw your consent, you may not be able to use the relevant services and your account and profile information will be deleted.
-
-If you previously opted to receive newsletters, commercial e-mails or other communications from Monster or third parties, but subsequently change your mind, you may opt-out by editing your account profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your account profile.
-
-Important Information
-
-_**Security**_
-
-You are responsible for ensuring that your log-in credentials (your username and password) are kept confidential.
-
-Monster has implemented technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. Notwithstanding such measures, the Internet is an open system and we cannot guarantee that unauthorized third parties will not be able to defeat those measures or use your personal information for improper purposes. Moreover, one of our primary purposes is to provide you with a platform to broadcast the information in your resume and profile widely in order to maximize your career opportunities. Such an environment does present a risk that unauthorized third parties will view this data, so you should refer to our Security Center for additional information on conducting a safe job search. Further, your resume should not contain any sensitive data that you would not want made public. You should be aware that resumes may be monitored by your current employer.
-
-When you place an order online at Monster, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. Monster uses a service company to process its credit card transactions. For further information on this company’s privacy and security practices, please click here.
-
-We also use cookies, web beacons, and Java Script to administer our site and deliver a personalized experience. For additional detailed information on each of these, please see below.
-
-_**Children**_
-
-Monster is not intended for, nor do we knowingly collect information from, children under the age of 13.
-
-_**Safe Harbor and International Transfers**_
-
-Monster complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Monster has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Monster’s certification, please visit http://www.export.gov/safeharbor/. If you would like to contact us directly about the Safe Harbor program, please contact us.
-
-Monster Worldwide, Inc., and Monster Worldwide Technologies, LLC. are members of the TRUSTe privacy seal program, the TRUSTe E.U. Safe Harbor seal program and the TRUSTe dispute resolution program.  Please consult the TRUSTe Web site http://www.truste.com for more information concerning TRUSTe’s privacy programs and dispute resolution procedures.  The TRUSTe programs cover only information collected through Monster, and does not cover information that may be collected through software downloaded from the Sites.
-
-If you live outside the EEA, Monster endeavors to comply with applicable law for the international transfer of your personal information.
-
-Changes to Privacy Statement
-
-If we decide to materially change the substance of this Privacy Statement, we will, where required, contact you via the email address that you maintain in your profile. We will also post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
-
-Legal and Contact Information
-
-Your data is submitted to Monster Worldwide, Inc. and is hosted and stored in a database on servers situated in the United States owned and maintained by Monster Worldwide Technologies, LLC, a Delaware corporation, whose principal place of business is at 622 Third Avenue, New York 10017, New York, USA. Monster Worldwide, Inc., a Delaware corporation with its principal place of business at 5 Clock Tower Place, Maynard, MA 01754, USA, is the legal entity determining the purposes and means of processing the information gathered at the Sites and is the data controller of all data stored in the Monster database.
-
-If, at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to contact us online or at
+You may contact us online for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER (1-800-666-7837), or write to us at:
 
 Privacy Office  
-  
 Monster Worldwide, Inc.  
 5 Clock Tower Place  
 Suite 500  
 Maynard, MA 01754
 
-We will use reasonable efforts to answer promptly your question or resolve your problem. If you feel we have not properly addressed your question, you may contact TRUSTe.
-
-Your California Rights
-
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
-
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
-
-As stated in our Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
-
-California customers may request further information about our compliance with this law by e-mailing privacystatement@monster.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
-
-Use of Cookies, Web Beacons, and Java Script _**Cookies:**_ Monster uses "cookies" to help personalize and maximize your online experience and time online, including for storing user preferences, improving search results and ad selection, and tracking user trends.
-
-A cookie is a text file that is either stored in your computer’s memory temporarily (a “session” cookie) or placed on your hard drive (a “persistent” cookie) by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer and can only be read by a web server in the domain that issued the cookie to you.
-
-When you return to the Monster site, cookies enable us to retrieve the information you previously provided, so you can easily use the features that you customized. Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. For example, if you personalize Monster pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences).
-
-We predominately use “session” cookies, which are not permanently stored on your hard drive. Session cookies expire after two hours of inactivity or when you close your browser. When you carry out a job search or apply online a large amount of data is processed by our system and transferred through each page of the search or application process. This information includes your job search criteria, data that identifies your resume, covering letter, the job you are applying for, your right to work in the relevant country and the results of any questionnaire you have completed as part of the online application process as well as demographic information that is not unique to you. “Session” cookies allow us to keep track of this data until you have completed your search or application. We also use cookies to identify users who have been banned from using our forums for behavior that contradicts our terms of use and to track click streams, for load balancing and to enable you to navigate through the site using redirection pages.
-
-We use “persistent” cookies primarily to ensure that we do not show you pages that you have already seen and to personalize your site experience and save you time. “Persistent” Cookies enable us to recognize whether you have responded to any poll or seen an advertisement or information notice placed on the site so that we do not show you the poll, advertisement or notice again the next time you visit our site. If you are a recruiter and have an alliance arrangement in place with Monster we also use “persistent” cookies to recall your alliance status and display your correct pricing information when you access our site. The “persistent” cookies we use will remain on your computer after you have left our site and will expire when you log out of the Site or 60 days after your last visit for security cookies, 90 days after your last visit for poll response and alliance cookies, or two years after your last visit for advertisement and information notice cookies.
-
-We also allow other companies to display advertisements to you while you are visiting our Sites. Because your web browser must request these advertisements from the other companies’ servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. Monster has no control over, and is not responsible for, the practices of those third party advertisers. Monster encourages you to review the policies of such advertisers.
-
-You will find additional information about the following third party ad servers at www.doubleclick.com. www.atlassolutions.com/privacy. and www.omniture.com/en/privacy. We use other third party ad servers as well. a way to opt out of third party cookies is to modify your browser settings to decline cookies as described at the end of this statement. You may also click here to see a list of many of the companies that Monster works with in connection with serving personalized ads. Otherwise, if you do not wish to allow your session visitation information on our Sites to be aggregated and analyzed by Omniture, or used by Omniture to tailor dynamic content to your specific interests, you may utilize the following opt out mechanism www.omniture.com/en/privacy/policy#optout.
-
-We use persistent cookies and related technologies (such as web beacons described below) to determine and track direct and indirect candidate application traffic in response to Job Postings either on Monster or on the websites of third parties through Monster’s Career-Ad-Network (described below). We also allow persistent third party cookies as part of online advertising campaigns to determine and track site traffic landing from Monster’s advertising banners that have been placed on the websites of third parties. The data collected via these cookies is anonymous and the information is not linked to your personally identifiable information without your permission. The “persistent” cookies placed by our third party ad servers will remain on your computer after you have left our site for up to 20 years unless you choose to delete them.
-
-We also use “persistent” cookies in connection with our Career Ad Network (“CAN”). The CAN cookie is used to display relevant job ads to you on Monster and when you visit other web sites. The information collected by the CAN cookie is treated in accordance with the policies and practices described in our Privacy Statement above. The “persistent” cookie we use in CAN will remain on your computer after you have left our site and will expire six months after it was set.
-
-You have the ability to update or opt-out of the CAN cookie by clicking on the following link: http://can.monster.com/cookie-technology.aspx. Monster enforces your opt-out of CAN by setting a “blocking cookie”. In order for the blocking cookie to work on your computer, your browser must be set to accept third party cookies. The blocking cookie for CAN will last for five years. however, if you delete your browser cookies, your opt-out cookie, as well as any updates you may have made, will also be deleted. In addition, your opt-out only applies in the browser you are using at the time you opt-out and only on the computer you are using at such time. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Opting-out of the CAN cookie does not mean you will no longer receive online advertising from CAN. It does mean that the ads delivered to you by CAN will no longer be tailored to your Web browsing patterns. Once you opt-out CAN no longer maintains a targeting cookie on your computer, so the ads will be general in nature and could be repetitive.
-
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
-
-You have the ability to accept or decline cookies at any time by modifying your browser settings. See below for instructions. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the web site.
-
-Additionally, Monster uses “Flash cookies”, also known as “Local Shared Objects”, to preserve video player settings and for user authentication purposes. You can adjust your settings for your Flash cookies here.
-
-_**Web Beacons**_ : Monster Web pages and the Web pages of our partners also utilize electronic images known as Web beacons (sometimes called single-pixel gifs, clear gifs or action tags) that allow us to collect certain information about users’ visits to these Web pages (including the number of users who have visited those pages), measure and improve the effectiveness of advertisements and job postings, and deliver co-branded services. Web beacons are not used to access your personally identifiable information. they are a technique used to compile aggregated statistics about web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of page view and a description of the page on which the Web beacon resides. This information may be shared with third party processors for processing on behalf of Monster, as well as with clients, partners, and other third parties so that they can understand the kinds of visitors to the Web pages, how those visitors use those Web Pages, and the effectiveness of their advertisements and job postings. (You will find information about a current third-party processor used by Monster at www.atlassolutions.com. We may use other third party processors as well.)
-
-Because Web beacons are the same as any other content request included in the recipe page, you cannot opt out or refuse them. However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
-
-_**JavaScript:**_ Monster also uses JavaScript, for example, within certain advertisements. JavaScript is a script language that enhances the functionality of websites, particularly in respect to pictures. We are not collecting any personal data via JavaScript but use it to inform employers about how many applicants have clicked on email addresses embedded in their job ads, for example. You may deactivate JavaScript via your browser settings or activate it the same way. If you disable JavaScript you will not be able to use some of the functions of the website.
-
-Thank you for using Monster.
-
-Update effective 23 August 2010
-
-Instructions for removing cookies The main browser types are listed below. If you have a different browser type, please refer to the ‘Help’ file.
-
-**Internet Explorer 7.0**
-
-Choose Tools and then Internet Options  
-Click the Privacy tab  
-Move the slider to choose your preferred settings.  
-For more specialized cookie settings, click on “Advanced”
-
-**Internet Explorer 6.0**
-
-Choose Tools and then Internet Options  
-Click the Privacy tab  
-Move the slider to choose your preferred settings  
-The default setting is medium and the menu allows you to select the level of "filtering" on the basis of (a) the source of the cookie and (b) whether the source has a privacy policy  
-For more specialized cookie settings click on “Advanced”
-
-**Mozilla Firefox 3.0**
-
-Click on the Tools Menu  
-Select Options  
-Select Preferences  
-Select the Privacy panel and choose your preferred settings
-
-**Mozilla Firefox 2.0**
-
-Click on Tools, then Options (or Edit | Preferences on Linux)  
-Select the Privacy icon in the left-hand panel  
-Click on Cookies.  
-Choose your preferred settings.
-
-Note that the option to block third-party cookies has been removed from Firefox 2's user interface. Firefox 2 users who wish to limit allowed cookies to those set by the originating website can use about:config to modify the preference network.cookie.cookieBehavior to "1". To modify this property simply type "about:config" (without quotes) in the Location Bar, press Enter and modify the value in the resulting page.
-
-Other options for the network.cookie.cookieBehavior preference are set out below:
-
-"0"  All cookies are allowed. (Default)  
-"1"  Only cookies from the originating server are allowed.  
-"2"  No cookies are allowed. 
-
-**Netscape Navigator**
-
-Choose Preferences from the Edit menu.  
-Select Privacy &. Security, then select Cookies.  
-Choose your preferred settings.
-
-**Opera**
-
-Click on the File menu on the Opera tool bar  
-Go to Preferences at the bottom of the File menu  
-Click Privacy and select one of the available options
-
-**Safari 1.0 (MacOS X)**
-
-Choose Preferences from Safari menu  
-Select Security icon  
-Cookie settings are shown in window  
-Choose your preferred settings
+If you feel your question or concern is not fully addressed, you may contact TRUSTe for further assistance.
