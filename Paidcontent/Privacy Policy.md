@@ -1,4 +1,4 @@
-Effective December 1, 2011
+Privacy Policy
 
 As used in this Privacy Policy, “GigaOM” refers to all websites (including GigaOM.com, GigaOM Pro, and GigaOM Events), mobile sites, applications, and other properties or services owned or operated by Giga Omni Media, Inc.
 
