@@ -1,5 +1,3 @@
-Privacy Policy
-
 Table of contents:
 
 This document contains the privacy policy of the LEGO Group. Please feel free to browse the policy. If you are looking for specific information, you may use the following links, which will take you directly to individual sections of this policy.
