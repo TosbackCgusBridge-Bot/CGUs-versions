@@ -1,4 +1,4 @@
-Live Chat **PRIVACY POLICY**
+**PRIVACY POLICY**
 
 **This is the web site of Modnique.com**  
   
