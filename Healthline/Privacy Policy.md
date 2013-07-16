@@ -1,5 +1,3 @@
-Healthline - Privacy PolicyPrivacy Policy
-
 Internet privacy is an issue that we take very seriously. Healthline is committed to protecting your privacy. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
 
 What information does Healthline collect, and how is it used?
@@ -12,7 +10,7 @@ Currently, Healthline Networks, DoubleClick (Healthline's ad server and a divisi
 
 The entities collecting this anonymous information use it to improve the overall quality of the online experience, including product monitoring and improvement, and targeted advertising on and off Healthline.com.
 
-If you wish to opt-out of the use of anonymous data, you can opt-out of this practice in one of two ways: (1) you can disable cookies, although this may negatively affect your online experience as most sites require cookies for very basic browsing. (2) you can opt-out of data use with each individual partner through the Network Advertising Initiative gateway opt-out site http://www.networkadvertising.org/optout\_nonppii.asp. At that site you can also review the privacy policies of those Ad Servers. For users wishing to prevent use of their information for targeted advertising, we recommend opting out of Google and Tacoda.
+If you wish to opt-out of the use of anonymous data, you can opt-out of this practice in one of two ways: (1) you can disable cookies, although this may negatively affect your online experience as most sites require cookies for very basic browsing. (2) you can opt-out of data use with each individual partner through the Network Advertising Initiative gateway opt-out sitehttp://www.networkadvertising.org/optout\_nonppii.asp. At that site you can also review the privacy policies of those Ad Servers. For users wishing to prevent use of their information for targeted advertising, we recommend opting out of Google and Tacoda.
 
 Use Of 'Cookies'
 
@@ -24,7 +22,7 @@ Some Healthline web pages use web beacons in conjunction with cookies to compile
 
 Third-party Media Companies
 
-We use third-party advertising companies and networks to serve ads. These third-party ad servers and network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: http://networkadvertising.org/consumer/opt\_out.asp.
+We use third-party advertising companies and networks to serve ads. These third-party ad servers and network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here:http://networkadvertising.org/consumer/opt\_out.asp.
 
 Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthline. If you click on an advertisement on Healthline and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.
 
@@ -54,8 +52,8 @@ Special Policy With Regards to Information from Children Under Thirteen
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Healthline will never knowingly request personally identifiable information from anyone under the age of 13 without parental consent. When we do receive information (with parental consent) from users under the age of 13, we will never voluntarily share their personally identifiable information with third parties, regardless of their stated preference given at registration.
 
-Effective: June 2010. Material changes to this policy will be posted here.
+Effective: May 2012. Material changes to this policy will be posted here.
 
-If you have additional questions, please contact us at privacypractices@healthline.com. Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on themselves).
+If you have additional questions, please contact us at privacypractices@healthline.com. Please note that while we are happy to answer general questions, in order to protect the privacy of our users, we do not answer specific questions about the information collected about specific users (including users who may request access to the information collected on themselves).
 
-Online privacy is in the regulatory purview of the Federal Trade Commission. For more information or to lodge a complaint, please visit the FTC's Consumer Response Center: https://www.ftccomplaintassistant.gov/
+Online privacy is in the regulatory purview of the Federal Trade Commission. For more information or to lodge a complaint, please visit the FTC's Consumer Response Center: https://www.ftccomplaintassistant.gov/
