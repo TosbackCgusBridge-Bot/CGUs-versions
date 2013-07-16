@@ -1,5 +1,3 @@
-Kinja Terms of Use
-
 Welcome to Kinja! By using Kinja (including by simply viewing content on Kinja.com (the “Site”), you are agreeing that you, and each person you allow to access Kinja through your account, will abide by the terms of the following User Agreement, which is summarized here, and set forth in its entirety below. This User Agreement is between you and Kinja (“We” or the “Company”), and it governs your access to and use of the services, websites, and applications offered by Kinja (the "Service"). Your access to and use of the Service is conditioned on your acceptance of and compliance with this agreement.
 
 Summary
