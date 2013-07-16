@@ -1,5 +1,3 @@
-Privacy Policy
-
 This privacy policy covers all of the Kinja sites ("Kinja"). Please read this statement carefully before using or proceeding to access Kinja. Your use of Kinja indicates you have read and understood this Privacy Policy and indicates your agreement to abide by the Terms of Service in effect.
 
 1\. Information Collection
