@@ -1,5 +1,3 @@
-Privacy Statement
-
 This website (the " **Site** ") is operated by Cars.com, a division of Classified Ventures, LLC (" **Cars.com** "). This Privacy Statement (the "Statement") describes Cars.com's collection, use and disclosure of information practices in connection with the Site. This Statement applies to the national version of the Site, located at www.cars.com, as well as to any versions of the Site that Cars.com operates, including versions or pages that Cars.com co-brands or private labels with its newspaper and broadcast affiliates, third-party distribution partners and other partners (collectively, " **Affiliates** "). For example, you may have arrived at a co-branded version of the Site from an Affiliate's website, in which case, that Affiliate will be clearly identified at the top of the home page of this Site. In this Statement, Cars.com refers to those versions of the Site as " **Affiliate Versions** ." Please be aware that Cars.com may share any information you submit through this Site with Affiliates, as described below. During your visit to any Affiliate Version, the Affiliate may independently collect other information from you.
 
 For purposes of clarification, this Statement also describes Cars.com's collection, use, and disclosure practices with respect to any personally identifiable information and Usage Data (as defined below) that is provided to Cars.com by any of its third-party distribution partners that display Cars.com vehicle listings.
@@ -26,14 +24,14 @@ Information Use
 
 Personally Identifiable Information. Personally identifiable information collected by Cars.com through your use of the Site may be stored on servers or in a cookie on your computer and may be used by Cars.com for any of the following purposes:
 
-> *   To confirm or fulfill a request that you make (e.g., in order to send you a price quote or other information you have requested, Cars.com may share your contact information with a participating Cars.com dealer and/or manufacturer).
-> *   To follow up on any request that you have previously made (e.g., Cars.com may contact you to determine whether the dealer and/or manufacturer responded to your original request).
-> *   To communicate with you regarding the Cars.com service (e.g., Cars.com may send you emails or call you to confirm a price quote request or to notify you that you have received a lead regarding a vehicle you have advertised or to request that you participate in a survey).
-> *   To send promotional materials, newsletters or other content via email or otherwise. If you no longer wish to receive a particular email newsletter or other promotion from Cars.com, you must follow the opt-out instructions included in such email newsletters and promotions.
-> *   To permit third parties (to whom Cars.com may disclose personally identifiable information specifically for direct marketing purposes) to send you promotional or informational messages, but only if you have first affirmatively agreed to receive such messages.
-> *   To improve your user experience.
-> *   To manage Cars.com's business and its relationships with Affiliates, customers, and other third parties to which Cars.com may disclose personally identifiable information pursuant to this Statement.
-> *   For Site administration, analysis, research, development, optimization and other internal purposes, including, without limitation, to compile Usage Data.
+*   To confirm or fulfill a request that you make (e.g., in order to send you a price quote or other information you have requested, Cars.com may share your contact information with a participating Cars.com dealer and/or manufacturer).
+*   To follow up on any request that you have previously made (e.g., Cars.com may contact you to determine whether the dealer and/or manufacturer responded to your original request).
+*   To communicate with you regarding the Cars.com service (e.g., Cars.com may send you emails or call you to confirm a price quote request or to notify you that you have received a lead regarding a vehicle you have advertised or to request that you participate in a survey).
+*   To send promotional materials, newsletters or other content via email or otherwise. If you no longer wish to receive a particular email newsletter or other promotion from Cars.com, you must follow the opt-out instructions included in such email newsletters and promotions.
+*   To permit third parties (to whom Cars.com may disclose personally identifiable information specifically for direct marketing purposes) to send you promotional or informational messages, but only if you have first affirmatively agreed to receive such messages.
+*   To improve your user experience.
+*   To manage Cars.com's business and its relationships with Affiliates, customers, and other third parties to which Cars.com may disclose personally identifiable information pursuant to this Statement.
+*   For Site administration, analysis, research, development, optimization and other internal purposes, including, without limitation, to compile Usage Data.
 
 **Usage Data:** Usage Data is used by Cars.com for administrative, analytical, research, optimization and other purposes. For example, Cars.com may use statistical analyses of Usage Data in order to measure interest in the various areas of the Site, for development purposes and to inform advertisers and partners in aggregate and anonymous terms about consumers who click on their advertising or other messages. IP addresses are also used for systems administration and troubleshooting purposes.
 
@@ -87,6 +85,8 @@ As noted above, Affiliates and other third parties may collect information about
 
 If you would like more information about the information collection practices of some of these third-party advertising companies and learn which of these companies allow you to opt out of this type of information collection, please click here.
 
-If you have any questions about this Privacy Statement, please email us at or use our online feedback form.
+If you have any questions about this Privacy Statement, please email us at feedback@cars.com or use our online feedback form.
 
 ©2010 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
+
+Last updated on 6/14/12
