@@ -1,4 +1,4 @@
-TERMS OF USE AND SALE
+Terms of Use and Sale
 
 Updated April 2013
 
