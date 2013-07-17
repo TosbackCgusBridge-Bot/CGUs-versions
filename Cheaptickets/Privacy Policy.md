@@ -1,6 +1,6 @@
 CheapTickets® Privacy Policy
 
-Effective March 1, 2013
+EffectiveApril 3, 2013
 
 Your privacy is very important to Trip Network, Inc. (d/b/a CheapTickets). This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services (“you”) on our Site (defined below), in telephone or e-mail communications, or in interviews, surveys, contests, promotions, raffles or sweepstakes.
 
@@ -130,7 +130,7 @@ When we send e-mails or e-newsletters, we may insert a pixel tag in the e-mail. 
 In order to provide certain services to you, we may on occasion supplement the Personal Information you submitted to us with information from third party sources:
 
 *   **Address Verification:** If you Book Products or Services, we use third parties in order to verify your address information during the credit card authorization process.
-*   **Enhancement of Profile Information:** We obtain marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers for which we think you would be interested.  To enrich our profiles of individual customers, we tie this information to the Personal Information you submitted to us.
+*   **Enhancement of Profile Information:** We obtain marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers for which we think you would be interested.  To enrich our profiles of individual customers, we tie this information to the Personal Information you submitted to us. If you choose to link any of your social media accounts to your account, you will be given the option to log into your account using the credentials from any such social media accounts. When you choose to use this log-in feature, we obtain information from all of the social media accounts that you have chosen to link to your account. Such information may include, for example, your name, date of birth, gender, location, profile photo, interests, activities, likes, check-ins, languages, e-mail address, mailing address, telephone number, professional information, contacts or similar information. You may unlink any of your social media accounts from your account by modifying your account settings. When you do so, we will stop obtaining new information from such social media accounts.
 
 return to top
 
@@ -256,7 +256,7 @@ return to top
 
 A cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Site. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie.
 
-When you access our Site, we may place cookies, pixel tags or other code on your computer to collect Session Data. These technologies are used to help us recognize you when you visit our Site again or to help us customize your online experience. Unless you specifically informs us of your identity (e.g., by registering with us), we will not know who you are.
+When you access our Site, we may place cookies, pixel tags or other code on your computer to collect Session Data. These technologies are used to help us recognize you when you visit our Site again or to help us customize your online experience. Unless you specifically informs us of your identity (e.g., by registering with us or signing into your account using your social media account credentials), we will not know who you are.
 
 Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. You can learn more about the use of cookies by clicking here or here.
 
