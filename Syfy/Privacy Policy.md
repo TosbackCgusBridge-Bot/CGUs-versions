@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Amanda &. Kenya's Goodbye - Cast Interview Amanda &. Kenya's Goodbye - Cast Interview
+Syfy Video Smurfs 2 Chase Smurfs 2 Chase
 
-Mia Kirshner shares her thoughts on Amanda &. Kenya's goodbye scene.
+Catch a sneak peek of Smurfs 2 during Joe Rogan Questions Everything July 31st at 10/9c
 
-Datak's Bloody Body - Cast Interview Datak's Bloody Body - Cast Interview
+Exclusive Interview with Joe Rogan Exclusive Interview with Joe Rogan
 
-Jaime Murray shares the insight on seeing Datak bloody in the season finale.
+Joe Rogan reveals what to expect in his upcoming new Syfy show "Joe Rogan Questions Everything."
 
-Shooting the Shtako - Episode 12 Shooting the Shtako - Episode 12
+Monster Twist Monster Twist
 
-Kevin Murphy sits down to discuss Episode 12 with Grant Bowler and Stephanie Leonidas.
+The competition takes a surprise turn and the contestants face a monstrous challenge with a twist!
 
-Shooting the Shtako - Episode 12 - Mia Kirshn ... Shooting the Shtako - Episode 12 - Mia Kirshner
+Make it Reign Make it Reign
 
-Kevin Murphy sits down to discuss Episode 12 with Mia Kirschner.
+In the main challenge, the contestants must create a Goblin king. The foundation challenge involves creating an original queen character that represents them as an artist.
 
 *   FAQ
 *   Feedback
