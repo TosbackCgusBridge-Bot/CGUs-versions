@@ -205,8 +205,6 @@ Online Degrees By Level
 *   Bachelor Degrees
 *   Master Degrees
 *   Doctoral Degrees
-*   Certificate Programs
-*   Courses
 
 Popular Degrees:
 
