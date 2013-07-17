@@ -1,6 +1,6 @@
 QUAKE LIVE Legal Notices
 
-QUAKE LIVE © 2007-2012, Id Software LLC. All Rights Reserved. QUAKE LIVE, QUAKE and ID are trademarks or registered trademarks of Id Software LLC in the United States and/or other countries. All other trademarks and trade names are the properties of their respective owners.
+QUAKE LIVE? © 2007-2012, Id Software LLC. All Rights Reserved. QUAKE LIVE, QUAKE and ID are trademarks or registered trademarks of Id Software LLC in the United States and/or other countries. All other trademarks and trade names are the properties of their respective owners.
 
 QUAKE LIVE may utilize any of the following software libraries.
 
@@ -188,3 +188,5 @@ The ..::LvL Open Game Source License (OGSL) has been set-up to encourage creator
   
 For more information about OGSL, including a blank template visit:  
 http://lvl.sourceforge.net/lvl-ogsl.php
+
+"Fuse" ? 2013 Ferdinand List, used under a Creative Commons Attribution 3.0 Unported License: http://creativecommons.org/licenses/by/3.0/deed.en\_US
