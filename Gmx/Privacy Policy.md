@@ -22,7 +22,7 @@ Im Übrigen sind wir ebenfalls berechtigt, Ihre im Zusammenhang mit der Vertrags
 *   Postalische Werbung oder postalische Markt- oder Meinungsforschung
 *   Spendenwerbung für gemeinnützige Organisationen
 
-Sie haben die Möglichkeit, der genannten weitergehenden Datenverwendung jederzeit durch schriftliche Mitteilung an die 1&1 Mail &. Media GmbH, Datenschutz, Zweigniederlassung München, Frankfurter Ring 129, 80807 München oder per E-Mail an datenschutz@gmxnet.de zu widersprechen. Im Falle des Widerspruchs kann es aus technischen Gründen kurzfristig noch zu weiteren Zusendungen kommen.
+Sie haben die Möglichkeit, der genannten weitergehenden Datenverwendung jederzeit durch schriftliche Mitteilung an die 1&1 Mail &. Media GmbH, Datenschutz, Zweigniederlassung München, Sapporobogen 6-8, 80637 München oder per E-Mail an datenschutz@gmxnet.de zu widersprechen. Im Falle des Widerspruchs kann es aus technischen Gründen kurzfristig noch zu weiteren Zusendungen kommen.
 
 Adress- und Negativdaten werden an andere Konzernunternehmen und eine zentrale Datei übermittelt, die von der United Internet AG, Montabaur, zum Zwecke des Schutzes aller Konzernunternehmen geführt wird. Anderen Konzernunternehmen werden diese Daten bei berechtigtem Interesse zweckgebunden zur Verfügung gestellt.
 
