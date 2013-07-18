@@ -144,7 +144,7 @@
 
 Intermarkets Privacy Policy
 
-Revised: August 17, 2011
+Revised: July 17, 2013
 
 Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites.
 
@@ -198,9 +198,9 @@ Intermarkets cooperates with government and law enforcement officials and privat
 
 Cookie Opt-Out Procedure
 
-IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, CLICK **HERE** TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH AN OPT-OUT COOKIE.
+IF YOU DO NOT WANT INTERMARKETS TO SERVE ADVERTISING TO YOU USING OUR COOKIE, CLICK HERE TO REPLACE YOUR UNIQUE INTERMARKETS COOKIE WITH OPT-OUT COOKIES FROM AOL ADVERTISING AND LOTAME SOLUTIONS.
 
-YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING **HERE**.
+YOU CAN ALSO OPT OUT OF RECEIVING COOKIES FROM OTHER MEMBERS OF THE NETWORK ADVERTISING INITIATIVE BY CLICKING HERE.
 
 This opt-out functionality is cookie-based. When you receive this cookie, Intermarkets’ systems will know that you have opted out and will not attempt to assign other Intermarkets cookies in the future. In order for the opt-out to work on your computer, your Web browser must be set to accept third-party cookies and the Intermarkets opt-out cookie must remain on your computer for us to recognize you as an opt-out user. If you buy a new computer, change Web browsers, or delete this cookie, you will need to perform the opt-out task again.
 
