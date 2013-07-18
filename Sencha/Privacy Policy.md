@@ -9,7 +9,7 @@ Skip Navigation
     *   Sencha Architect
     *   Sencha Desktop Packager
     *   Sencha Animator
-    *   Sencha.io
+    *   Sencha Space
 *   Support
     *   Sencha Care
     *   Sencha Services
@@ -173,7 +173,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Architect
     *   Sencha Desktop Packager
     *   Sencha Animator
-    *   Sencha.io
+    *   Sencha Space
 
 *   Support
     *   Sencha Services
