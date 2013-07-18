@@ -7,8 +7,8 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Online Only Body Care: $4 &. Up
         *   Select Body Care: $5
+        *   Online Only Body Care: $5 &. Up
         *   Signature: Buy 3 Get 2 Free
         *   Body Care: Up to 50% Off
     *   Lotions &. Creams
@@ -106,6 +106,7 @@ Welcome! **(Log in)**
         
         *   Foaming Soap
         *   Deep Cleansing Soap
+        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
@@ -206,8 +207,7 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
-        *   3-Wick Candles: $12
-        *   Body Care: $4 &. Up
+        *   Body Care: $5 &. Up
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
     *   Body &. Bath
