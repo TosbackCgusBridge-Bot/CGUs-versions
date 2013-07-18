@@ -1,8 +1,8 @@
-PRIVACY AND COOKIE POLICY Last Updated: June, 2013 This privacy and cookie policy (“**Privacy Policy**”) applies to information collected through the Outbrain family of web sites, web pages, interactive features, applications, widgets, blogs and their respective contents at the following URLs: **_Outbrain.com_** , whether accessed via computer, mobile device or other technology (collectively, the “**Service**”). The Service is offered by Outbrain Inc. and its subsidiaries and affiliated companies, third party developers and other partners (collectively, “**Outbrain**,” or “**we**”, “**us**”, “**our**”).
+PRIVACY AND COOKIE POLICY Last Updated: July 16, 2013 This privacy and cookie policy (“**Privacy Policy**”) applies to information collected through the Outbrain family of web sites, web pages, interactive features, applications, widgets, blogs and their respective contents at the following URLs: **_Outbrain.com_** , whether accessed via computer, mobile device or other technology (collectively, the “**Service**”). The Service is offered by Outbrain Inc. and its subsidiaries and affiliated companies, third party developers and other partners (collectively, “**Outbrain**,” or “**we**”, “**us**”, “**our**”).
 
 Outbrain is committed to protecting your information. This Privacy Policy explains what information we may collect through the Service, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities.  
   
-When you use the Service, we employ “cookies” and other similar tracking devices to help us collect and store information about you and other users of the Service. You can read more about the cookies and how you may be able to reduce the number of cookies you receive by clicking **here** .  
+When you use the Service, we employ “cookies” and other similar tracking devices to help us collect and store information about you and other users of the Service. You can read more about the cookies we use by clicking **here** .  
   
 Please read this Privacy Policy carefully, because by using the Service you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our **Terms of Use** , which governs your use of the Service and our **Customer Terms** , which govern any content you provide or promote to or through the Service.
 
@@ -20,6 +20,8 @@ Please read this Privacy Policy carefully, because by using the Service you are 
 **11.CONTACT US**
 
 1.  **1\. INFORMATION WE COLLECT THROUGH THE SERVICE** **.**
+
+  
 
 **Information We Collect Automatically**  
 Whenever you visit or interact with the Service, Outbrain, as well as any third-party vendors and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Service is accessed and used (“**Usage Information**”). Usage Information may include, in part, browser type, operating system, an estimate of your geographic location associated with your IP address, the page served, the time, referring URLs and other information normally transmitted in HTTP requests. This statistical data provides us with information about the use of the Service, such as how many visitors visit a specific page on which the Service is installed, how long they stay on that page, the type of content on that page, which hyperlinks, if any, they “click” on and how they generally engage with that page. This information helps us keep the Service fresh and interesting to our users and tailor content to each visitor’s interests. Usage Information is generally non-identifying, but if Outbrain associates it with you as a specific and identifiable person (for example, because you have registered for the Service), Outbrain treats it as “**Personal Information**” (i.e. information that could reasonably be used to contact you or to identify you personally, such as your name, e-mail address, telephone number, or home address) and will use it to provide you with more targeted recommendations.  
@@ -65,14 +67,15 @@ We may also use third party redirects, which will redirect you through a third p
 
 If the privacy of your clicks on recommendations, or the pages you visit is a concern for you, we urge you to do the following:
 
-Do NOT click any recommendation you do not want to be associated with.  
-Opt out of Outbrain's personalization tracking. You may do this by clicking on the “Opt-Out” button at the bottom of this privacy policy.
+*   Do NOT click any recommendation you do not want to be associated with.
+*   Opt out of Outbrain's personalization tracking.
+You may do this by clicking on the “Opt-Out” button at the bottom of this Privacy Policy.
 
 When you opt out of Outbrain's personalization tracking, we will no longer use information about the pages you visit to tailor our internal recommendations and promoted content recommendations to your interests. We will still use information about the document you are viewing to provide you internal recommendations and promoted content recommendations on that page.
 
 **Opting out of Outbrain personalization tracking does not mean you will no longer receive internal recommendations and promoted content recommendations from Outbrain.** It does mean that the internal recommendations and promoted content recommendations we serve you will not be personalized based on pages you read in the Outbrain network. You will likely receive less benefit from the Service since our recommendations will not be as well tailored to your interests.
 
-**We place cookies on your Device to prevent personalization tracking.** Opting out of personalization tracking is not the same as blocking cookies. When you opt out of Outbrain personalization tracking, we will place a special Outbrain cookie on your Device that informs our servers not to record information about the pages you're visiting. If you browse the web from several Devices, you will need to opt out from each Device to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new Device, change browsers or delete this cookie, you will need to perform this opt-out task again.
+**We place cookies on your Device to prevent personalization tracking.** Opting out of personalization tracking is not the same as blocking cookies. When you opt out of Outbrain personalization tracking, we will place a special Outbrain cookie on your Device that informs our servers not to record information about the pages you're visiting. If you browse the web from several Devices, you will need to opt out from each Device to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new Device, change browsers or delete this cookie (or clear all cookies), you will need to perform this opt-out task again.
 
 1.  **5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.**
 
