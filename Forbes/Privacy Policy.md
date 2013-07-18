@@ -3,7 +3,7 @@
   
 FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: May 25, 2012_
+_Revised and posted as of: July 17, 2013_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
 
@@ -23,7 +23,7 @@ This privacy policy covers the website and activities of Forbes.com. Other Forbe
 
 Please be aware that Forbes.com sponsors, advertisers and partners or affiliates with co-branded modules or sections on Forbes.com may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
-Forbes.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums.
+Forbes.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at privacy@forbes.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Gathering of Information Voluntary Submission
 
@@ -73,6 +73,8 @@ Registered users may change the information stored in their member profile such 
 
 You may also request to delete your personal account if you wish to do so. Please email us at the contact information included below. We will respond to your request within 30 business days.
 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 Sharing of Information
 
 When you are on an area of Forbes.com and are asked for personal information, you are sharing that information with Forbes.com as well as business partners and vendors providing hosting and other services for Forbes.com.
@@ -94,6 +96,8 @@ We offer widgets that are hosted on Forbes.com, like our embeddable video player
 Aggregate, Anonymous Information With Advertisers
 
 Forbes.com derives the majority of its revenue from advertising and sharing information is essential to keeping our services affordable to users. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 As Necessary to Provide Services to You
 
