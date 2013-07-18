@@ -15,7 +15,7 @@ Our Privacy Policy
 
 Lamps Plus, Inc. (“Lamps Plus” or “we” or “us”) has created this privacy policy (this "Privacy Policy") in order to demonstrate its commitment to user, visitor, subscriber, and customer privacy with regard to the Lamps Plus web site located at lampsplus.com (the “Website”). Privacy on the Website is of great importance to us. Because we gather important information from our users, visitors and customers (collectively “Subscribers” or “you” or “your”), we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. By accessing the Website, you acknowledge and agree to this Privacy Policy and also agree to the Terms of Use of the Website located here.
 
-You can visit most of the pages on LAMPS PLUS without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our site. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are.
+You can visit most of the pages on Lamps Plus without ever telling us who you are, as we do not ask users to register or establish an account with us in order to browse our site. We may track the Internet domain address from which people visit us and look at this data for user trends and statistics, but individual site visitors remain anonymous, unless, at some point, you tell us who you are.
 
 However, when you use our online services like joiningLamps Plus Rewards or our e-mail list, saving viewed products in an online Wish List, leaving a product review, entering a sweepstakes, or purchasing a product from us online, you agree to tell us something about yourself.
 
@@ -89,7 +89,7 @@ back to top | main help
 
 Unsubscribing From Our E-mail List
 
-If you've joined our e-mail list, you may unsubscribe of it at any time. Please visit the Lamps Plus E-Mail page and follow the on-screen directions, or you may call 1-800-782-1967. Unsubscribe instructions are also included with each Lamps Plus e-mail.
+If you've joined our e-mail list, you may unsubscribe of it at any time. Please visit the Lamps Plus E-Mail page and follow the on-screen directions, or you may call 800-782-1967. Unsubscribe instructions are also included with each Lamps Plus e-mail.
 
 If you choose to unsubscribe from one of our e-mail Lists, CAN-SPAM legislation stipulates that your address be removed within 10 business days. In most cases, Lamps Plus will remove your address within 5 business days, and you will receive no further mailings from us.
 
@@ -101,7 +101,7 @@ back to top | main help
 
 Unsubscribing From Our Catalog Mailing List
 
-If you purchase something from us, we may occasionally send you a printed catalog through the mail. If you prefer not to receive our catalog, cancel at any time by e-mailing us at catalogservice@LampsPlus.com with "remove" as the subject line and your name and address in the body of the message, or you may call 1-800-782-1967. Your name will be removed from our mailing list within two weeks of your request. Due to the nature of catalog mailing preparation, however, you may receive mailed catalogs up to 90 days after your request.
+If you purchase something from us, we may occasionally send you a printed catalog through the mail. If you prefer not to receive our catalog, cancel at any time by e-mailing us at catalogservice@LampsPlus.com with "remove" as the subject line and your name and address in the body of the message, or you may call 800-782-1967. Your name will be removed from our mailing list within two weeks of your request. Due to the nature of catalog mailing preparation, however, you may receive mailed catalogs up to 90 days after your request.
 
 back to top | main help
 
@@ -125,7 +125,7 @@ back to top | main help
 
 Policy Changes
 
-If we decide to change our policy in whole or in part, we will inform you by posting a notice on our web site. The new policy will apply to all current and past users of our web site and will replace any prior policies. This policy was posted in May of 2007 and last updated in April of 2012.
+If we decide to change our policy in whole or in part, we will inform you by posting a notice on our web site. The new policy will apply to all current and past users of our web site and will replace any prior policies. This policy was posted in May of 2007 and last updated in April of 2013.
 
 Additional Information
 
