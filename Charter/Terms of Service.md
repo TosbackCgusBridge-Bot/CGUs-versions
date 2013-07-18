@@ -4,6 +4,7 @@ The links below provide you access to Charter's policies &. agreements.
 
 *   Website Use Terms and Conditions
 *   Commercial Acceptable Use Policy
+*   Purchase Order Terms and Conditions for Goods and/or Services
 *   Commercial Terms of Service
 *   Electronic Bill Payment Terms and Conditions
 *   Residential HSI Acceptable Use Policy
@@ -39,21 +40,21 @@ Acceptable Use Policy - Commercial Customers
 
 IN ORDER TO PROVIDE HIGH QUALITY CUSTOMER SERVICE AND TO ENSURE THE INTEGRITY OF CHARTER COMMERCIAL HIGH-SPEED INTERNET ACCESS ("SERVICE"), CHARTER HAS ADOPTED THIS ACCEPTABLE USE POLICY.
 
-PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD CUSTOMER IS USED HEREIN TO REFER TO ANY PERSON, ENTITY OR BUSINESS ORGANIZATION THAT SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY TERMINATE THE CUSTOMER’S SERVICE WITHOUT NOTICE, AT CHARTER’S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER’S SERVICE, VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER’S SOLE DISCRETION WITHOUT PRIOR NOTICE.
+PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD CUSTOMER IS USED HEREIN TO REFER TO ANY PERSON, ENTITY OR BUSINESS ORGANIZATION THAT SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY TERMINATE THE CUSTOMER'S SERVICE WITHOUT NOTICE, AT CHARTER'S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER'S SERVICE, VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER'S SOLE DISCRETION WITHOUT PRIOR NOTICE.
 
 **1\. USE**
 
-The commercial high-speed Internet access service provided to the Customer is being provided solely for use in Customer’s business and any unauthorized access by a third party to e-mail, Internet access, or any other function of the Service is in violation of this Policy and relieves Charter of any affirmative obligations it may have.
+The commercial high-speed Internet access service provided to the Customer is being provided solely for use in Customer's business and any unauthorized access by a third party to e-mail, Internet access, or any other function of the Service is in violation of this Policy and relieves Charter of any affirmative obligations it may have.
 
 Customer will not resell or redistribute, nor allow others to resell or redistribute, access to the Service in any manner, except as expressly provided in any contract for service. The limitation on resale or redistribution of access includes, but is not limited to, hosting applications such as the provision of e-mail, FTP and Telnet access.
 
 Charter reserves the right to disconnect or reclassify the Service for failure to comply with any portion of this provision or this Policy.
 
-Any violation of these policies may lead to prosecution under state and/or federal law and/or termination of Customer’s Service.
+Any violation of these policies may lead to prosecution under state and/or federal law and/or termination of Customer's Service.
 
 **2\. END USERS**
 
-Customer is responsible for ensuring that all end users of the Service comply with this AUP. Charter may disconnect Service if an end user violates this AUP. The Customer must make contact information publicly available, and must respond in a timely manner to any complaints. Charter shall consider any complaints regarding the Customer’s end users to apply to the Customer. Customer is responsible for any and all e-mail addresses associated with the Customer’s account.
+Customer is responsible for ensuring that all end users of the Service comply with this AUP. Charter may disconnect Service if an end user violates this AUP. The Customer must make contact information publicly available, and must respond in a timely manner to any complaints. Charter shall consider any complaints regarding the Customer's end users to apply to the Customer. Customer is responsible for any and all e-mail addresses associated with the Customer's account.
 
 The Customer is responsible for any misuse of the Service, whether by authorized or unauthorized end users. Therefore, the Customer must take steps to ensure that others do not gain unauthorized access to the Service. Customer is solely responsible for the security of (i) any device Customer chooses to connect to the Service, including any data stored or shared on that device and (ii) any access point to the Service.
 
@@ -61,13 +62,13 @@ If the Customer sells or resells advertising or web space to a third party, then
 
 **3\. NO ILLEGAL OR FRAUDULENT USE**
 
-Customer will not use, nor allow others to use, the Service to violate any applicable federal, state, local or international laws (including, but not limited to, the Children’s Online Privacy Protection Act). Customer will not use, nor allow others to use, the Service to commit a crime, act of terrorism, or fraud, or to plan, encourage or help others to commit a crime or fraud, including but not limited to, acts of terrorism, engaging in a pyramid or ponzi scheme, or sending chain letters.
+Customer will not use, nor allow others to use, the Service to violate any applicable federal, state, local or international laws (including, but not limited to, the Children's Online Privacy Protection Act). Customer will not use, nor allow others to use, the Service to commit a crime, act of terrorism, or fraud, or to plan, encourage or help others to commit a crime or fraud, including but not limited to, acts of terrorism, engaging in a pyramid or ponzi scheme, or sending chain letters.
 
 **4\. NO COPYRIGHT OR TRADEMARK INFRINGEMENT**
 
 Customer will not use, nor allow others to use, the Service to send or receive any information which infringes the patents, trademarks, copyrights, trade secrets or proprietary rights of any other person, entity or business organization. This includes, but is not limited to, digitization of music, movies, photographs or other copyrighted materials or software.
 
-Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe a Charter customer has infringed the copyright owner’s work(s). If Charter receives a notice from a copyright owner alleging a Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. If Charter receives more than one notice alleging copyright infringement on the Customer’s part, Customer may be deemed a "repeat copyright infringer." Charter reserves the right to terminate the accounts and access to the Service of repeat copyright infringers.
+Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe a Charter customer has infringed the copyright owner's work(s). If Charter receives a notice from a copyright owner alleging a Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. If Charter receives more than one notice alleging copyright infringement on the Customer's part, Customer may be deemed a "repeat copyright infringer." Charter reserves the right to terminate the accounts and access to the Service of repeat copyright infringers.
 
 **5\. NO THREATS OR HARASSMENT**
 
@@ -79,7 +80,7 @@ Customer will not use, nor allow others to use, the Service to harm or attempt t
 
 **7\. NO "SPAMMING"**
 
-Customer will not use, nor allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation ("spamming"). Charter reserves the right, in Charter’s sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. This prohibition against spamming is applicable to mass mailings by Customers in conjunction with third parties and is designed to maintain Service quality for all Customers. Mass mailings are those sent to more than 150 recipients by Customer or in conjunction with a third party to any group of recipients. Customer is responsible for maintaining confirmed opt-in records and must provide them to Charter upon request. The term "opt-in" means that recipient has signed up for mailings voluntarily.
+Customer will not use, nor allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation ("spamming"). Charter reserves the right, in Charter's sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. This prohibition against spamming is applicable to mass mailings by Customers in conjunction with third parties and is designed to maintain Service quality for all Customers. Mass mailings are those sent to more than 150 recipients by Customer or in conjunction with a third party to any group of recipients. Customer is responsible for maintaining confirmed opt-in records and must provide them to Charter upon request. The term "opt-in" means that recipient has signed up for mailings voluntarily.
 
 **8\. NO "HACKING"**
 
@@ -99,7 +100,7 @@ Customer will not post, nor allow others to post, a similar item to more than si
 
 **12\. NO EXCESSIVE USE OF BANDWIDTH**
 
-If Charter determines, in Charter’s sole discretion, that Customer is using an excessive amount of bandwidth over the Charter network infrastructure for Internet access or other functions using public network resources, Charter may at any time and without notice, suspend excessive bandwidth capability, suspend Customer’s access to the Service, require Customer to pay additional fees in accordance with Charter’s then-current, rates for such service, or terminate Customer’s account.
+If Charter determines, in Charter's sole discretion, that Customer is using an excessive amount of bandwidth over the Charter network infrastructure for Internet access or other functions using public network resources, Charter may at any time and without notice, suspend excessive bandwidth capability, suspend Customer's access to the Service, require Customer to pay additional fees in accordance with Charter's then-current, rates for such service, or terminate Customer's account.
 
 **13\. NO "VIRUSES"**
 
@@ -111,9 +112,107 @@ The failure by Charter or its affiliates to enforce any provision of this AUP sh
 
 **15\. REVISIONS TO POLICY**
 
-Charter reserves the right to update or modify this Policy at any time and from time to time with or without prior notice. Continued use of the Service will be deemed acknowledgment and acceptance of the policy. Notice of modifications to this Policy may be given by posting such changes to Charter’s homepage www.charter.com , by electronic mail or by conventional mail.
+Charter reserves the right to update or modify this Policy at any time and from time to time with or without prior notice. Continued use of the Service will be deemed acknowledgment and acceptance of the policy. Notice of modifications to this Policy may be given by posting such changes to Charter's homepage www.charter.com , by electronic mail or by conventional mail.
 
 Acceptable Use Policy, Version 4.1
+
+*   Terms of Service/Policies
+
+Charter Purchase Order Terms and Conditions For Goods and/or Services  
+Terms and Conditions of Purchase:  
+
+In consideration of the mutual covenants and agreements contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Charter and Vendor (as defined below) agree as follows:
+
+**1\. Basis of Bargain** . Unless the parties have entered into a separate general or master agreement ("Master Agreement"), in which case the terms of such Master Agreement shall govern and the purchase order ("PO") terms herein that conflict with such Master Agreement, shall be of no effect unless issued after the lawful termination of such Master Agreement, these "PO" terms and conditions submitted by Charter Communications Operating, LLC (hereinafter "Charter") to vendor/supplier (hereinafter "Vendor") form the basis of the bargain for the Goods and/or Services (as defined below) and constitutes the entire agreement between Charter and Vendor with respect thereto. Charter will review Vendor's quote or proposal, and if approved, Charter will then issue an appropriate PO to Vendor. Charter's obligation to accept delivery of any Vendor Goods and/or Services is contingent upon Vendor's acceptance of these terms and conditions. These PO terms and conditions control over any Vendor terms and conditions regardless of the means of delivery (e.g., with any invoice, a statement of sale, a sales order acknowledgement or any other Vendor document), all of which shall be deemed rejected and null and void unless otherwise explicitly agreed to in writing and signed by both parties prior to Vendor's shipment of Goods and/or commencement of the Services. Charter may amend these terms and conditions at any time by posting a revised version on its website located at www.charter.com/poterms. The revised version will become effective at the time it is posted. Vendor will comply with the posted terms and conditions at the time a PO is issued and dated by Charter, or alternatively, if it is not dated by Charter at the time it is received by Vendor. Unless otherwise indicated on a PO or in a separate written agreement between Charter and Vendor, all PO's are nonexclusive and Charter does not make any commitment or guarantee for any minimum or maximum amount of purchases.
+
+**2\. Select Definitions** . As used herein, the following terms have the meaning ascribed to them as set forth below:
+
+“Charter” means Charter Communications Operating, LLC and may include any of Charter’s controlled affiliates.  
+“Delivery Date” means each specific date enumerated in the applicable PO requiring delivery by Vendor.  
+“End-of-Life” means any termination of manufactured Goods.  
+“Goods” means all items of hardware or software, or other tangible products or items as set out in the applicable PO.  
+“PO” means a Purchase Order submitted by Charter’s authorized representative.  
+“Rejected Goods” means any Goods that are damaged, defective or do not conform to required specifications.  
+“Services” means the labor and effort necessary to fulfill the duties, commitments, obligations, and responsibilities of Vendor as set out in the applicable PO. Services may include, without limitation, providing ideas, concepts, recommendations, interpretations, procedures, practices, processes, training, advice, knowledge, skill, talent, expertise and other such intangibles. All right, title and interest in and to the Services, shall, at all times and in perpetuity after the expiration or earlier termination of the work or deliverable, belong to, and remain with Charter.
+
+**3.** **Vendor’s Acceptance or Rejection** . Upon the earliest to occur of: a) Vendor’s commencement of work on the Goods or Services ordered by Charter in the applicable PO. b) Vendor’s shipment of Goods. c) Charter’s receipt of Goods delivered by Vendor. or d) Vendor’s written notice to Charter accepting Charter’s PO, will be deemed Vendor’s acceptance of and agreement with the terms and conditions hereof. Vendor will sell and, if applicable, license the Goods and/or Services to Charter subject to (i) the provisions of these terms and conditions, (ii) any quote or proposal accepted by Charter in writing, and (iii) all applicable Charter policies related to privacy, security and access to Charter’s networks, systems, equipment, property or premises made known to Vendor. In the event Charter does not receive notice of acceptance from Vendor or delivery of Goods from Vendor has not occurred within the time frame specified in the applicable PO or, if no time frame is indicated in the applicable PO, withinthirty (30) days after the date Charter places such PO with Vendor (beginning on the date of the applicable PO), then Charter may deem that Vendor has rejected Charter’s PO. In addition, Charter may deem that Vendor has rejected the applicable PO if Vendor partially accepts any terms (whether communicated by notice or otherwise \[including, but not limited to, delivery of Goods that fail to conform fully with Charter’s order or any delivery that fails in any way to conform with the applicable PO\]). In either event, Charter may avail itself of alternative vendors and shall not incur any penalties or be assessed any costs or damages in doing so.
+
+**4\. Price, Authorization, and Taxes** . Charter will pay the applicable PO price for the Goods and/or Services as set forth in the applicable PO (which may include the costs of producing, acquiring, selling, furnishing, providing and delivering the Goods to the specified delivery point). Any price increase that does not conform to the applicable PO must be explicitly approved by Charter in advance and in writing. All additional expenditures or costs not set forth in an applicable PO must be authorized by Charter in a separate, itemized written invoice. Any tax, duty or similar charge that Charter may be required to pay or collect for the Goods and/or Services including, without limitation, sales, use, export, excise, ad valorem and value added taxes, will be billed to Charter by Vendor as a separate line item. Charter will pay only the tax itemized on the invoice. Vendor is responsible for all taxes related to the Goods and/or Services not appropriately itemized on the invoice.
+
+**5\. Inspection** . All PO Goods and/or Services are subject to Charter’s inspection and approval. Rejected Goods and/or Services will be returned at Vendor’s expense and risk. If within 30 days of delivery any Goods and/or Services are rejected by Charter, then Charter will determine in its sole discretion whether it will accept either: a) a refund, b) a credit, or c) a replacement of the Goods and/or Services. In the event Charter decides upon replacement Goods and/or Services, Vendor must obtain new shipping instructions from Charter. Any replacement Goods and/or Services delivered without new shipping instructions may be returned to Vendor at Vendor’s expense and risk for reshipment in accordance with Charter’s specifications. Goods supplied in excess of specified quantities may be either returned to Vendor at Vendor’s expense and risk or retained by Charter without additional charge. Neither inspection nor payment by Charter for Goods and/or Services will constitute Charter’s acceptance thereof.
+
+Should Charter receive a shortage of Goods, or receive Goods that are damaged, defective and/or non-conforming which is not apparent upon initial inspection but may become apparent upon further examination or use of such Goods, then Charter reserves the right to return the Goods to Vendor with all rights Charter has with respect to Rejected Goods. Charter shall be entitled to full indemnity and reimbursement for all damages, loss or expense of any kind incurred by Charter in connection with defective, non-conforming, recalled or damaged Goods delivered by or on behalf of Vendor including, without limitation, labor, downtime, freight, storage, replacement, repossession, truck rolls, transportation, Charter service outages, third-party property damage and all other costs that directly or indirectly arise from defective, non-conforming, recalled or damaged Goods, unless caused solely by Charter’s willful or gross negligence.
+
+**6\. Transportation and Packaging** .
+
+(a) Shipping Requirements. When requested by Charter, Vendor will hold and consolidate orders and Vendor will ship only once per day, per destination. All shipments will be Vendor’s domestic shipping point. Freight charges will be paid by Vendor and invoiced by Vendor to Charter, with no mark-up or uplift. Vendor is required to use an unaffiliated, nationally recognized, carrier unless otherwise agreed to by Charter in writing. Charter shall receive Vendor’s most favorable shipping rates. Misdirected shipments will be reshipped to the correct destination and Charter shall be entitled to deduct from Vendor’s invoice(s) any costs incurred by Charter as a result thereof. Vendor will be liable for risk of loss and excess freight charges resulting from noncompliance with Charter’s routing instructions, or, if no such instructions from Charter have been given, deviation from normal service or routing by Vendor.
+
+(b) Delivery Dates. Unless otherwise mutually agreed, Vendor is required to meet the delivery dates specified in any PO. In the event a delivery date is not met, then, without limiting any other rights and remedies available to Charter at law or in equity, Vendor agrees to: (i) reposition Charter to the front of Vendor’s manufacturing/shipping schedule. and (ii) immediately ship the pertinent Goods to Charter. Vendor will use reasonable efforts to maintain a safety stock inventory on long lead-time Goods.
+
+(c) Packaging Requirements. Vendor shall preserve, package, handle and pack all Goods ordered by Charter hereunder so as to protect such Goods from loss or damage and in conformance with acceptable commercial practices, government regulations and other applicable standards agreed to by the Parties. Packages and containers, including each box, shall be marked according to Charter’s requirements. Vendor shall utilize the following guidelines and requirements in packing Good(s):
+
+*   Each Goods container shall be labeled with the item master number (if applicable) and Goods description.
+*   Date sensitive material shall be noted on the outside of the pertinent container.
+*   Case quantity shall be noted on case lots.
+*   Box quantity shall be noted on each box.
+*   Multiple items shall not be packaged in the same box.
+*   Bar coding, including the Charter part number, PO number, and container quantity.
+
+Vendor shall be responsible for all loss, damage or harm to any of the Goods which are damaged during transit as a result of Vendor’s inadequate or improper packing and stuffing, or failure to pack and ship in accordance with these terms and conditions.
+
+**7\. Payment Terms** . Charter will pay undisputed and accurate invoices by wiring payment via Automated Clearing House, or such other mutually agreed upon electronic payment method, within sixty (60) days of Charter’s receipt of the pertinent invoice. For any Vendor unable to accept Automated Clearing House or other mutually agreed upon electronic payment method, Charter will pay undisputed and accurate invoices by mailing payment within sixty (60) days of Charter’s receipt of the pertinent invoice. Charter may execute a two percent (2%) payment discount if payment is made within twenty (20) days of the invoice date, or a one percent (1%) payment discount if payment is made within forty (40) days of the invoice date. Disputed, incorrect or incomplete invoices may result in delayed payment and may be returned by Charter to Vendor for correction and reissue. Payment of any invoice shall not constitute acceptance or approval of the respective Goods and/or Services. Each invoice must contain a reference to the applicable PO number.
+
+**8\. Change Orders** . Charter may at any time issue a change order to the drawings, designs, requirements or specifications applicable to the Goods and/or Services. If any change order affects the cost of the Goods and/or Services, an equitable adjustment, as mutually agreed upon, will be made in the purchase price. Vendor cannot make any substitution of any Goods and/or Services without Charter’s prior written approval.
+
+**9\. Suspension or Termination** . Charter reserves the right to suspend (for a reasonable period) or terminate any PO at any time for convenience (without cause), in whole or in part, by providing prior written notice to Vendor. In such event, Vendor shall immediately stop all production or processing of the Goods and/or all work associated with the Services and cause any suppliers and/or subcontractors to cease all production or processing related to the applicable Goods and/or all work associated with the Services. Upon a termination under this Section by Charter, Charter shall pay Vendor the following amounts: (i) the PO price for all unpaid Goods and/or Services delivered to and accepted by Charter. and (ii) the actual cost incurred (exclusive of profit) by Vendor up to the date of termination, as properly allocable under generally accepted accounting practices, of Goods in the process of delivery and/or Services that have been concluded (where the Goods have actually left Vendor's point of shipping origin). In no event will Charter's payment for Goods and/or Services exceed the applicable PO price. Notwithstanding anything to the contrary stated herein, Vendor will not be paid for Goods and/or Services, work or costs incurred by Vendor or Vendor's suppliers and subcontractors that Vendor could reasonably have avoided after receipt of a notice of termination. Charter may terminate any PO, in whole or in part, for cause, and Charter will not be liable to Vendor for any amount other than for the Goods and/or Services delivered to and accepted by Charter in writing up to the date of termination, and Vendor shall be liable to Charter for all costs, expenses and damages sustained by Charter due to the cause that gave rise to the termination. For purposes of this Section, the "date of termination" shall be the date of the notice of termination sent by Charter to Vendor, and "cause" shall mean any failure of Vendor to fulfill any of the warranties set forth herein or otherwise or any failure to comply with the terms and conditions hereof (including but not limited to the delivery by Vendor of Goods and/or Services that are damaged, defective, or otherwise do not conform to specifications).
+
+**10\. Goods Warranties** . Without in any way disclaiming implied remedies or limiting remedies for breach, Vendor represents and warrants that: (i) all Goods delivered will be free from defect of material and workmanship, will be merchantable, safe, fit and appropriate for the purpose for which Goods of that kind are normally used. (ii) all Goods will substantially conform to the specifications, drawings, requirements and/or descriptions of the Goods that are made a part hereof and will be equivalent in all respects to any samples approved by Charter. (iii) all trademarks, trade names, patents, copyrights, intellectual property, trade secrets, rights of publicity and all other proprietary or protected interests (other than those of Charter) used by Vendor in connection with the Goods are either owned by Vendor or Vendor has all authorizations and licenses necessary to deliver the Goods to Charter. (iv) Vendor has all rights necessary to grant a license for Charter’s use of all software Goods and all software will substantially conform to published specifications current at the time of delivery or, if customized, to Charter’s specifications. (v) all Goods will be produced, labeled, shipped, invoiced, furnished, provided and delivered in compliance with all laws, regulations and ordinances, including without limitation, U.S. import and export laws. and (vi) Vendor will comply with all additional requirements of Charter when the procurement, performance, delivery, or provision of the Goods necessitate that an employee, agent or subcontractor of Vendor work within or upon Charter’s premises for thirty (30) days or more. For third party Goods, Vendor hereby assigns or agrees to otherwise pass through, to the extent possible, the manufacturer’s or licensor’s warranties.
+
+**11\.** **End-of-Life** . Vendor will provide Charter with no less than six (6) months’ prior written notice of any termination of the manufacturing of any Goods (“End-of-Life”). Any applicable PO issued prior to the end of such six (6) month period will be fulfilled without interruption. Vendor will make available for Charter (if necessary) maintenance, support, repair service and replacement parts for at least two (2) years following the pertinent End-of-Life for all Goods.
+
+**12\. Services Warranties** . If Vendor provides any Services to Charter, then Vendor represents and warrants that it: (i) possesses adequate skill, training, expertise, knowledge and experience to perform the Services in a competent and professional manner. (ii) has sufficient personnel and equipment available to perform the Services within the milestones, timelines and time frames specified by Charter. (iii) all Vendor personnel, agents, representatives and contractors will abide by Charter’s work rules and regulations made known to Vendor when performing the Services. (iv) will deliver and perform the Services in substantial conformance with the requirements, specifications and instructions of Charter. (v) possesses or will possess all necessary rights, whether owned or acquired from third parties, to grant to Charter the stated ownership interests and licenses in and to the Services delivered hereunder (including, if necessary any right, title, and interest in and to all work or work product developed or produced in connection with the Services). (vi) will perform the Services in a good and workmanlike manner and in compliance with applicable laws, regulations and ordinances. (vii) will provide Services and any associated deliverables that do not and will not infringe upon, violate or misappropriate the patent, copyright, trade secret, intellectual property or other protected rights or interests of any third party and Vendor has not received any communication from any third Party alleging an infringement, violation or misappropriation. (viii) will maintain insurance as required herein or in compliance with applicable law so long as the Services are being provided. (ix) will assign and transfer to Charter all warranties, including warranties granted to Vendor and warranties granted to third party(s) associated with any Services in order for Charter to utilize the Services including any and all components, software, or hardware, when and as appropriate and to the extent permissible. and (x) will not do or perform any act not required by these terms and conditions and will not warehouse any materials or items required to create or deliver the Services other than as expressly set out in the applicable PO and to do so will entitle Charter to immediately terminate its relationship with Vendor.
+
+**13\. Vendor Indemnification.** Vendor shall, at its own cost and expense, reimburse, indemnify and hold Charter and its officers, directors, employees, agents, parent, subsidiaries and affiliates harmless from and against all claims, demands, actions, damages, loss, expense and/or liabilities including, without limitation, claims of infringement, personal injuries and death, property damage, litigation expenses and reasonable attorneys’ fees, connected with or arising from the delivery, nature, or intended use of the Goods and/or Services, a breach of Vendor’s warranties or obligations under these terms and conditions, or the acts or omissions of Vendor.
+
+**14\. Insurance** . Vendor shall obtain and maintain, at its expense, commercial general liability insurance to cover liabilities attributable to the Goods and/or Services and Vendor’s conduct in performance of its obligations hereunder in such amounts and with such companies and containing such other reasonable provisions satisfactory to Charter. Vendor’s insurance will be considered the primary coverage for claims relating to the Goods and/or Services. Vendor shall maintain workers’ compensation insurance in compliance with applicable law. If requested by Charter, Vendor will submit certificates of insurance, in which Charter shall be named as an additional insured party. If Vendor does not provide Charter with certificates of insurance when requested or if, in Charter’s opinion, Vendor’s insurance coverage does not provide adequate coverage, and Vendor does not furnish evidence of acceptable coverage within fifteen (15) days after Charter so notifies Vendor, Charter shall have the right to: (a) immediately terminate any applicable PO(s) and all outstanding authorizations of expenditure in whole or in part. or (b) withhold payment for the Goods until evidence of acceptable coverage is provided. Vendor shall not pursue any claim against Charter relating to the Goods until Vendor first makes claim against Vendor’s insurance.
+
+**15\. Limitation of Charter’s Liability** . In no event will Charter be liable to vendor for LOST OR anticipated profits or for incidental or consequential damages under any pURCHASE oRDER. cHARTER’S MAXIMUM AGGREGATE LIABILITY on any claim of any kind arising out of or in connection with thE GOODS AND/OR SERVICES DELIVERED UNDER any purchase order WILL BE LIMITED TO THE TOTAL AMOUNT PAID BY CHARTER TO VENDOR for the goods and/or services. IF GOODS and/or services are ONGOING, CHARTER’S MAXIMUM AGGREGATE LIABILITY TO VENDOR WILL BE LIMITED TO THE TOTAL AMOUNT PAID BY CHARTER TO VENDOR DURING THE six (6) MONTHS PRIOR TO THE LAST EVENT OCCURRING GIVING RISE TO LIABILITY.
+
+**16\. Remedies** . Each party’s rights and remedies are cumulative and additional to remedies provided at law or in equity. A waiver of a breach of any term or condition by either party does not constitute a waiver of a subsequent breach of the same provision or a breach of any other provision.
+
+**17\. Excusable Delays** . Vendor will not be liable for delays in delivery and Charter will not be liable for delays in receiving the Goods and/or Services when the delays are caused by acts of nature, acts of the U.S. government or any state or political subdivision, or other such causes beyond the reasonable control of the parties and without the fault or negligence of either party (each or collectively, a “Force Majeure Event”). Any delay in providing the Goods and/or Services (including but not limited to those arising from the occurrence of a Force Majeure Event) may not extend beyond thirty (30) days without Charter’s written approval.
+
+**18\. Law and Jurisdiction** . These terms and conditions will be governed by the laws of Missouri and specifically with the UCC Code of Missouri as to the duties, obligations and rights of the parties to the extent not expressly set forth herein. Vendor and Charter each submit to the exclusive venue and jurisdiction of the federal and state courts of St. Louis, Missouri (including the greater metropolitan area) for disputes pertaining to the Goods and/or Services delivered under any applicable PO. Vendor must file any claim alleging or otherwise resulting from a breach by Charter of any obligations arising with respect to these terms and conditions within one (1) year after the pertinent cause of action arises.
+
+**19\. Confidentiality** .
+
+(a) Definition of Confidential Information. For purposes hereof, “**Confidential** **Information**” means (i) information contained in any correspondence, quotes, proposals or written communications concerning a PO. (ii) the pricing and/or quantity of Goods ordered under any PO and/or the delivery timeframes with respect to such ordered Goods. (iii) information set forth in any PO and/or any change order. (iv) information originally disclosed by either party to the other in written, graphic, machine-readable or any other tangible medium, to the extent marked with a “confidential,” “proprietary” or similar legend. and (v) information originally disclosed orally by either party, to the extent identified as confidential at the time of such original disclosure.
+
+(b) Exceptions. Confidential Information shall not include information which: (i) was acquired by a party prior to the time of its disclosure by the other party, as shown by the files of the receiving party in existence at the time of disclosure, and at a time when the receiving party was under no obligation to the disclosing party to keep such information confidential. (ii) is or becomes available in the public domain through no act of the receiving party that violates this Section 19. (iii) is received by the receiving party from a third person or entity that is not known by the receiving party to be sharing such information in violation of the rights of the other party. (iv) is developed by, or on behalf of, the receiving party without any use of Confidential Information of the disclosing party. or (v) is at any time furnished to a third party by the party to whom such information belongs without restrictions on such third party’s rights to disclose.
+
+(c) Obligations. The receiving party shall: (i) treat the disclosing party’s Confidential Information as it does its own valuable and sensitive information of a similar nature, and, in any event, with not less than a reasonable degree of care and protection. (ii) not divulge the disclosing party’s Confidential Information to any third party, except: (A) the officers, directors, attorneys, accountants, independent auditors, employees, parent company, lenders (current and prospective, and including any of their attorneys and advisors) and/or investment bankers (current and prospective, and including any of their attorneys and advisors) of the receiving party, on a need to know basis and provided such third party is subject to confidentiality provisions at least as restrictive as those set forth in this Section 19 (each of the parties described in this clause (A) may hereinafter be referred to as an “**Authorized Third Party**”). or (B) subject to Section 19(d) herein, in order to comply with applicable law. (iii) refrain from copying the disclosing party’s Confidential Information, in whole or in part, except as required in furtherance of the uses permitted hereunder and subject to the accurate reproduction of all proprietary legends and notices located in the originals. and (iv) not use the disclosing party’s Confidential Information, except as necessary for the receiving party to perform its obligations in accordance with these terms and conditions.
+
+(d) Required Disclosure. If the receiving party becomes compelled to disclose any Confidential Information of the disclosing party pursuant to applicable laws, rules or regulations, or pursuant to the rules and regulations of any stock exchange or stock association on which securities of the receiving party may be traded from time to time (each, a “**Legal Requirement**”), the receiving party shall, to the extent not otherwise prohibited by law, provide the disclosing party with prompt notice of any such Legal Requirement and shall cooperate with the disclosing party, at the disclosing party’s expense, in seeking to obtain any protective order or other arrangement pursuant to which the confidentiality of the disclosing party’s Confidential Information is preserved. If such an order or arrangement is not obtained, the receiving party shall disclose only that portion of the disclosing party’s Confidential Information as is required pursuant to such Legal Requirement.
+
+(e) Return or Destruction of Confidential Information. Liability for Authorized Third Parties. Upon the disclosing party’s written request, the receiving party shall return, or certify the destruction of, all of the disclosing party’s Confidential Information. The receiving party shall, in all events, be responsible to the disclosing party for any action or inaction by any Authorized Third Party in violation of the provisions of this Section 19.
+
+(f) Advertising/Publicity. Neither party shall use the other party’s names, marks, codes, drawings or specifications in any advertising, promotional efforts or publicity of any kind without the prior written permission of the other party. Neither party shall issue any press release or any other public announcement regarding any applicable PO, including the existence thereof, without the prior written approval of the other party.
+
+(g) Equitable Relief. Each party acknowledges that the rights being protected by the terms of this Section 19 are of a special, unique, unusual and extraordinary character, which gives them a particular value, and the disclosing party may be irreparably injured by a breach of this Section 19 by the receiving party. In addition to any other remedies available at law or in equity to the disclosing party, the disclosing party shall, without having to post bond, be entitled to seek equitable relief, including injunctive relief and specific performance, in the event of any breach of the provisions of this Section 19 by the receiving party.
+
+(h) Survival. The obligations of confidentiality set forth in this Section 19 shall survive for three (3) years from the date of or earlier termination of the applicable PO to which these terms and conditions apply.
+
+**20\. Assignment** . Vendor may not assign any PO, in whole or in part, without the written consent of Charter. The provisions of the following sections will survive the termination of a PO and the delivery of Goods: “Inspection and Rejection,” “Warranties;” “Vendor Indemnification,” “Limitation of Charter’s Liability;” “Remedies;” “Law and Jurisdiction” and “Confidentiality.”
+
+**21\. No Third Party Beneficiaries** . The parties agree that the terms and conditions hereof and the parties’ respective performance of obligations are not intended to benefit any person or entity not a party to the applicable PO, that the consideration provided by each party only runs to the parties thereto, and that no person or entity not a party to the applicable PO shall have any rights under it nor the right to require the performance by either of the respective parties.
+
+**22\. Notice** . Any notice required by the terms and conditions hereof must be in writing and must be sent overnight by a nationally recognized courier service or postage prepaid by certified mail, return receipt requested. Notices to Charter will be sent to: 6399 South Fiddler’s Green Circle, Sixth Floor, Greenwood Village, CO 80111, Attention: Strategic Procurement, with a copy to Charter Communications, Inc. at 12405 Powerscourt Drive, St. Louis, MO 63131, Attention: Legal Department. Notices to Vendor will be sent to Vendor at Vendor’s address listed on the applicable PO unless Charter is informed otherwise by Vendor. Notice is deemed given (effective) upon the date of receipt thereof when sent by courier service or five (5) days after being placed in the United States mail when sent by certified mail.
+
+**23\. Amendments** . **These terms and conditions may not be amended, superseded or replaced by terms and conditions of sale that are part of a Vendor’s invoice, statement of sale, sales order acknowledgement, other Vendor document or any other means unless Charter expressly agrees in advance to such amendment, superseding or replacement as evidenced by authorized signature by the appropriate Charter representative and in any event, not by action or inaction after receipt of a Vendor document.**
+
+**24\. Independent Contractor** . The parties agree that Vendor and its employees and agents are independent contractors for all purposes and not employees or partners of, or joint venturers with, Charter. Nothing herein or in any applicable PO shall be deemed to constitute a fiduciary relationship between Charter and Vendor, nor shall anything be deemed to create an agency relationship between Vendor and Charter. Neither Vendor nor Charter shall be or become liable or bound by any representation, act or omission whatsoever of the other. Vendor will furnish at its cost and expense all labor, equipment, materials, travel, supervision, training and any other items necessary to provide the Good s and/or Services. Vendor will be solely responsible at all times for withholding or payment of all Federal, State and local income and other payroll taxes with respect to its employees, including contributions from them as required by law, and for its acts and omissions or the acts and omissions of its agents, employees, and subcontractors.
+
+**25.** **Entire Agreement** . These terms and conditions, together with the applicable PO(s) and/or any attachments issued or entered into pursuant to these terms and conditions, constitute the entire agreement between the parties. Any prior or contemporaneous oral or written communications or agreements of the parties with respect to the Goods and/or Services not expressly set forth herein, in the applicable PO and/or attachments are of no force or effect and these terms and conditions supersede all other prior or contemporaneous representations, discussions, negotiations and agreements, whether written or oral between the parties relating to the subject matter hereof. No waiver of any provision hereof or any right or obligation of a party will be effective unless in writing and signed by the party waiving such provision or right. The failure of either party to enforce a right shall not constitute a waiver.
 
 *   Terms of Service/Policies
 
@@ -323,21 +422,21 @@ Acceptable Use Policy - Commercial Customers
 
 IN ORDER TO PROVIDE HIGH QUALITY CUSTOMER SERVICE AND TO ENSURE THE INTEGRITY OF CHARTER COMMERCIAL HIGH-SPEED INTERNET ACCESS ("SERVICE"), CHARTER HAS ADOPTED THIS ACCEPTABLE USE POLICY.
 
-PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD CUSTOMER IS USED HEREIN TO REFER TO ANY PERSON, ENTITY OR BUSINESS ORGANIZATION THAT SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY TERMINATE THE CUSTOMER’S SERVICE WITHOUT NOTICE, AT CHARTER’S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER’S SERVICE, VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER’S SOLE DISCRETION WITHOUT PRIOR NOTICE.
+PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD CUSTOMER IS USED HEREIN TO REFER TO ANY PERSON, ENTITY OR BUSINESS ORGANIZATION THAT SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY TERMINATE THE CUSTOMER'S SERVICE WITHOUT NOTICE, AT CHARTER'S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER'S SERVICE, VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER'S SOLE DISCRETION WITHOUT PRIOR NOTICE.
 
 **1\. USE**
 
-The commercial high-speed Internet access service provided to the Customer is being provided solely for use in Customer’s business and any unauthorized access by a third party to e-mail, Internet access, or any other function of the Service is in violation of this Policy and relieves Charter of any affirmative obligations it may have.
+The commercial high-speed Internet access service provided to the Customer is being provided solely for use in Customer's business and any unauthorized access by a third party to e-mail, Internet access, or any other function of the Service is in violation of this Policy and relieves Charter of any affirmative obligations it may have.
 
 Customer will not resell or redistribute, nor allow others to resell or redistribute, access to the Service in any manner, except as expressly provided in any contract for service. The limitation on resale or redistribution of access includes, but is not limited to, hosting applications such as the provision of e-mail, FTP and Telnet access.
 
 Charter reserves the right to disconnect or reclassify the Service for failure to comply with any portion of this provision or this Policy.
 
-Any violation of these policies may lead to prosecution under state and/or federal law and/or termination of Customer’s Service.
+Any violation of these policies may lead to prosecution under state and/or federal law and/or termination of Customer's Service.
 
 **2\. END USERS**
 
-Customer is responsible for ensuring that all end users of the Service comply with this AUP. Charter may disconnect Service if an end user violates this AUP. The Customer must make contact information publicly available, and must respond in a timely manner to any complaints. Charter shall consider any complaints regarding the Customer’s end users to apply to the Customer. Customer is responsible for any and all e-mail addresses associated with the Customer’s account.
+Customer is responsible for ensuring that all end users of the Service comply with this AUP. Charter may disconnect Service if an end user violates this AUP. The Customer must make contact information publicly available, and must respond in a timely manner to any complaints. Charter shall consider any complaints regarding the Customer's end users to apply to the Customer. Customer is responsible for any and all e-mail addresses associated with the Customer's account.
 
 The Customer is responsible for any misuse of the Service, whether by authorized or unauthorized end users. Therefore, the Customer must take steps to ensure that others do not gain unauthorized access to the Service. Customer is solely responsible for the security of (i) any device Customer chooses to connect to the Service, including any data stored or shared on that device and (ii) any access point to the Service.
 
@@ -345,13 +444,13 @@ If the Customer sells or resells advertising or web space to a third party, then
 
 **3\. NO ILLEGAL OR FRAUDULENT USE**
 
-Customer will not use, nor allow others to use, the Service to violate any applicable federal, state, local or international laws (including, but not limited to, the Children’s Online Privacy Protection Act). Customer will not use, nor allow others to use, the Service to commit a crime, act of terrorism, or fraud, or to plan, encourage or help others to commit a crime or fraud, including but not limited to, acts of terrorism, engaging in a pyramid or ponzi scheme, or sending chain letters.
+Customer will not use, nor allow others to use, the Service to violate any applicable federal, state, local or international laws (including, but not limited to, the Children's Online Privacy Protection Act). Customer will not use, nor allow others to use, the Service to commit a crime, act of terrorism, or fraud, or to plan, encourage or help others to commit a crime or fraud, including but not limited to, acts of terrorism, engaging in a pyramid or ponzi scheme, or sending chain letters.
 
 **4\. NO COPYRIGHT OR TRADEMARK INFRINGEMENT**
 
 Customer will not use, nor allow others to use, the Service to send or receive any information which infringes the patents, trademarks, copyrights, trade secrets or proprietary rights of any other person, entity or business organization. This includes, but is not limited to, digitization of music, movies, photographs or other copyrighted materials or software.
 
-Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe a Charter customer has infringed the copyright owner’s work(s). If Charter receives a notice from a copyright owner alleging a Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. If Charter receives more than one notice alleging copyright infringement on the Customer’s part, Customer may be deemed a "repeat copyright infringer." Charter reserves the right to terminate the accounts and access to the Service of repeat copyright infringers.
+Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe a Charter customer has infringed the copyright owner's work(s). If Charter receives a notice from a copyright owner alleging a Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. If Charter receives more than one notice alleging copyright infringement on the Customer's part, Customer may be deemed a "repeat copyright infringer." Charter reserves the right to terminate the accounts and access to the Service of repeat copyright infringers.
 
 **5\. NO THREATS OR HARASSMENT**
 
@@ -363,7 +462,7 @@ Customer will not use, nor allow others to use, the Service to harm or attempt t
 
 **7\. NO "SPAMMING"**
 
-Customer will not use, nor allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation ("spamming"). Charter reserves the right, in Charter’s sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. This prohibition against spamming is applicable to mass mailings by Customers in conjunction with third parties and is designed to maintain Service quality for all Customers. Mass mailings are those sent to more than 150 recipients by Customer or in conjunction with a third party to any group of recipients. Customer is responsible for maintaining confirmed opt-in records and must provide them to Charter upon request. The term "opt-in" means that recipient has signed up for mailings voluntarily.
+Customer will not use, nor allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation ("spamming"). Charter reserves the right, in Charter's sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. This prohibition against spamming is applicable to mass mailings by Customers in conjunction with third parties and is designed to maintain Service quality for all Customers. Mass mailings are those sent to more than 150 recipients by Customer or in conjunction with a third party to any group of recipients. Customer is responsible for maintaining confirmed opt-in records and must provide them to Charter upon request. The term "opt-in" means that recipient has signed up for mailings voluntarily.
 
 **8\. NO "HACKING"**
 
@@ -383,7 +482,7 @@ Customer will not post, nor allow others to post, a similar item to more than si
 
 **12\. NO EXCESSIVE USE OF BANDWIDTH**
 
-If Charter determines, in Charter’s sole discretion, that Customer is using an excessive amount of bandwidth over the Charter network infrastructure for Internet access or other functions using public network resources, Charter may at any time and without notice, suspend excessive bandwidth capability, suspend Customer’s access to the Service, require Customer to pay additional fees in accordance with Charter’s then-current, rates for such service, or terminate Customer’s account.
+If Charter determines, in Charter's sole discretion, that Customer is using an excessive amount of bandwidth over the Charter network infrastructure for Internet access or other functions using public network resources, Charter may at any time and without notice, suspend excessive bandwidth capability, suspend Customer's access to the Service, require Customer to pay additional fees in accordance with Charter's then-current, rates for such service, or terminate Customer's account.
 
 **13\. NO "VIRUSES"**
 
@@ -395,7 +494,7 @@ The failure by Charter or its affiliates to enforce any provision of this AUP sh
 
 **15\. REVISIONS TO POLICY**
 
-Charter reserves the right to update or modify this Policy at any time and from time to time with or without prior notice. Continued use of the Service will be deemed acknowledgment and acceptance of the policy. Notice of modifications to this Policy may be given by posting such changes to Charter’s homepage www.charter.com , by electronic mail or by conventional mail.
+Charter reserves the right to update or modify this Policy at any time and from time to time with or without prior notice. Continued use of the Service will be deemed acknowledgment and acceptance of the policy. Notice of modifications to this Policy may be given by posting such changes to Charter's homepage www.charter.com , by electronic mail or by conventional mail.
 
 Acceptable Use Policy, Version 4.1
 
@@ -403,7 +502,7 @@ Acceptable Use Policy – Residential Customers
 
 IN ORDER TO PROVIDE HIGH QUALITY CUSTOMER SERVICE AND TO INSURE THE INTEGRITY OF CHARTER HIGH-SPEED™ INTERNET SERVICE, INCLUDING BUT NOT LIMITED TO ANY SERVICE FEATURES THAT MAY BE AVAILABLE (E.G., ELECTRONIC MAIL, PORTAL COMPONENTS, VIDEO MAIL, HOME NETWORKING, ETC.) AND ANY EQUIPMENT USED TO PROVIDE CHARTER HIGH-SPEED INTERNET SERVICE (COLLECTIVELY "SERVICE"), CHARTER COMMUNICATIONS ("CHARTER") HAS ADOPTED THIS ACCEPTABLE USE POLICY ("POLICY"). THIS POLICY, INCLUDING ITS USE RESTRICTIONS, IS IN ADDITION TO THE RESTRICTIONS CONTAINED IN THE CHARTER HIGH-SPEEED INTERNET SUBSCRIBER AGREEMENT.
 
-PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD "CUSTOMER" IS USED HEREIN TO REFER TO ANY INDIVIDUAL WHO SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY SUSPEND OR TERMINATE THE CUSTOMER’S ACCOUNT OR TO UNDERTAKE NETWORK MANAGEMENT ACTIONS DESCRIBED HEREIN WITHOUT NOTICE, AT CHARTER’S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER’S ACCOUNT VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER’S SOLE DISCRETION WITHOUT PRIOR NOTICE. BY USING THE SERVICE, CUSTOMER AGREES TO ABIDE BY, AND REQUIRE OTHERS USING THE SERVICE THROUGH CUSTOMER’S ACCOUNT TO ABIDE BY, THE TERMS OF THIS AUP. CHARTER REGULARLY UPDATES AND AMENDS THIS AUP AND CUSTOMER SHOULD CONSULT CHARTER’S WEBSITE TO BE SURE CUSTOMER REMAINS IN COMPLIANCE. IF CUSTOMER DOES NOT AGREE TO BE BOUND BY THESE TERMS, CUSTOMER SHOULD IMMEDIATELY STOP THE USE OF THE SERVICES AND NOTIFY THE CHARTER CUSTOMER SERVICE DEPARTMENT SO THAT CUSTOMER’S ACCOUNT MAY BE CLOSED. CUSTOMER’S CONTINUED USE OF THE SERVICE WILL CONSTITUTE CUSTOMER’S ACCEPTANCE OF AND AGREMEENT TO THIS POLICY AND ANY POSTED AMENDMENTS TO THIS POLICY.
+PLEASE READ THIS ACCEPTABLE USE POLICY PRIOR TO ACCESSING THE SERVICE. THE WORD "CUSTOMER" IS USED HEREIN TO REFER TO ANY INDIVIDUAL WHO SUBSCRIBES TO THE SERVICE. BY USING THE SERVICE, CUSTOMER AGREES TO THE TERMS OF THIS ACCEPTABLE USE POLICY. CHARTER RESERVES THE RIGHT TO IMMEDIATELY SUSPEND OR TERMINATE THE CUSTOMER'S ACCOUNT OR TO UNDERTAKE NETWORK MANAGEMENT ACTIONS DESCRIBED HEREIN WITHOUT NOTICE, AT CHARTER'S SOLE DISCRETION, IF CUSTOMER OR OTHERS WHO USE CUSTOMER'S ACCOUNT VIOLATE THIS ACCEPTABLE USE POLICY. CHARTER ALSO RESERVES THE RIGHT TO IMMEDIATELY REMOVE ANY MATERIAL OR INFORMATION THAT VIOLATES THIS POLICY FOR ANY REASON WHATSOEVER AT CHARTER'S SOLE DISCRETION WITHOUT PRIOR NOTICE. BY USING THE SERVICE, CUSTOMER AGREES TO ABIDE BY, AND REQUIRE OTHERS USING THE SERVICE THROUGH CUSTOMER'S ACCOUNT TO ABIDE BY, THE TERMS OF THIS AUP. CHARTER REGULARLY UPDATES AND AMENDS THIS AUP AND CUSTOMER SHOULD CONSULT CHARTER'S WEBSITE TO BE SURE CUSTOMER REMAINS IN COMPLIANCE. IF CUSTOMER DOES NOT AGREE TO BE BOUND BY THESE TERMS, CUSTOMER SHOULD IMMEDIATELY STOP THE USE OF THE SERVICES AND NOTIFY THE CHARTER CUSTOMER SERVICE DEPARTMENT SO THAT CUSTOMER'S ACCOUNT MAY BE CLOSED. CUSTOMER'S CONTINUED USE OF THE SERVICE WILL CONSTITUTE CUSTOMER'S ACCEPTANCE OF AND AGREMEENT TO THIS POLICY AND ANY POSTED AMENDMENTS TO THIS POLICY.
 
 1\. USE
 
@@ -417,7 +516,7 @@ Customer will not use, or allow others to use, the Service to violate any applic
 
 Customer will not use, or allow others to use, the Service to send or receive, or otherwise use any information which infringes the patents, trademarks, copyrights, trade secrets or proprietary rights of any other person or entity. This includes, but is not limited to, digitization of music, movies, photographs or other copyrighted materials or software. Customer must obtain appropriate authorization from such other person or entity prior to sending, receiving or using such materials. Customer represents and warrants that Customer is the author and copyright owner and/or authorized licensee with respect to any hosted content and Customer further represents and warrants that no hosted content violates the trademark, copyright, domain name or intellectual property rights of any third party. Charter assumes no responsibility, and Customer assumes all risks regarding the determination of whether material is in the public domain, or may otherwise be used for such purposes.
 
-Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe that a Charter customer has infringed the copyright owner’s work(s). If Charter receives a notice from a copyright owner alleging any Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. Charter may determine that Customer is a repeat copyright infringer if Charter learns that Customer has engaged in online copyright infringement on more than one occasion. Charter reserves the right to suspend or terminate the accounts of repeat copyright infringers.
+Charter is registered under the Digital Millennium Copyright Act of 1998 (DMCA). Under the DMCA, copyright owners have the right to notify Charter if they believe that a Charter customer has infringed the copyright owner's work(s). If Charter receives a notice from a copyright owner alleging any Customer has committed copyright infringement, Charter will notify the Customer of the alleged infringement. Charter may determine that Customer is a repeat copyright infringer if Charter learns that Customer has engaged in online copyright infringement on more than one occasion. Charter reserves the right to suspend or terminate the accounts of repeat copyright infringers.
 
 4\. NO THREATS, HARASSMENT OR TORTIOUS CONDUCT
 
@@ -429,7 +528,7 @@ Customer will not use, or allow others to use, the Service to harm or attempt to
 
 6\. NO "SPAMMING"
 
-Customer will not use, or allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation ("spamming"). Charter reserves the right, in Charter’s sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. Forging, altering, or removing electronic mail headers is prohibited. Deceiving any recipient as to the identity of the sender through any process is prohibited. Customer may not, or allow others to, reference Charter or the Charter network in any email in an attempt to mislead the recipient.
+Customer will not use, or allow others to use, the Service to send unsolicited messages or materials, bulk e-mail, or other forms of solicitation ("spamming"). Charter reserves the right, in Charter's sole discretion, to determine whether such posting or transmission constitutes unsolicited messages or materials. Forging, altering, or removing electronic mail headers is prohibited. Deceiving any recipient as to the identity of the sender through any process is prohibited. Customer may not, or allow others to, reference Charter or the Charter network in any email in an attempt to mislead the recipient.
 
 7\. NO "HACKING"
 
@@ -477,7 +576,7 @@ Customer will not use, or allow others to use, the Service to transmit computer 
 
 Neither Charter nor any of its affiliates, suppliers, or agents have any obligation to monitor transmissions or postings (including, but not limited to, e-mail, newsgroup, and instant message transmission as well as materials available on the personal web pages and online storage features) made on the Service. However, Charter and its affiliates, suppliers, and agents have the right to monitor these transmissions and postings from time to time for violations of this Policy, including for purposes of management of the network and implementing limitation of bandwidth use and to disclose, block, or remove them in accordance with the Subscriber Agreement and any other applicable agreements and policies.
 
-17\. OTHER SERVICE PROVIDERS’ ACCEPTABLE USE POLICIES
+17\. OTHER SERVICE PROVIDERS' ACCEPTABLE USE POLICIES
 
 Charter obtains services from and relies upon many other entities to provide the Service to Customer. Where Customer accesses services of other entities through the Service, Customer agrees to and shall abide by the publicized acceptable use policies of such other known entities.
 
@@ -502,85 +601,85 @@ CHARTER REGULARLY UPDATES AND AMENDS THIS AGREEMENT, THE AUP, AND THE CUSTOMER P
 
 1\. Equipment Needs for Provision of the Service
 
-To use the Service, Customer must have a personal computer , an Ethernet network interface, a modem, and operating system software meeting Charter’s then-applicable minimum requirements.
+To use the Service, Customer must have a personal computer , an Ethernet network interface, a modem, and operating system software meeting Charter's then-applicable minimum requirements.
 
-1.1 Computer Equipment: The personal computer that Customer uses to access the Service must meet minimum configuration standards. Please refer to System Requirements for the current specifications. The minimum configuration standards may change, and Charter will make reasonable efforts to support previously acceptable configurations. however, Charter is not obligated to continue to provide such support. Charter may supply equipment such as modems, gateways, routers, or wireless cards, for a fee, to operate the Service. Customer acknowledges that such equipment may require updates and/or changes to the software resident in the equipment and that Customer may be required to perform such updates and/or changes. Notwithstanding, Customer hereby authorizes Charter to perform updates and/or changes, on-site or remotely from time to time as Charter deems necessary, in Charter’s sole discretion.
+1.1 Computer Equipment: The personal computer that Customer uses to access the Service must meet minimum configuration standards. Please refer to System Requirements for the current specifications. The minimum configuration standards may change, and Charter will make reasonable efforts to support previously acceptable configurations. however, Charter is not obligated to continue to provide such support. Charter may supply equipment such as modems, gateways, routers, or wireless cards, for a fee, to operate the Service. Customer acknowledges that such equipment may require updates and/or changes to the software resident in the equipment and that Customer may be required to perform such updates and/or changes. Notwithstanding, Customer hereby authorizes Charter to perform updates and/or changes, on-site or remotely from time to time as Charter deems necessary, in Charter's sole discretion.
 
 Charter does not provide technical assistance for third-party hardware or software, including but not limited to home networks other than the Charter Home Networking Service or gaming systems. Any questions concerning third-party hardware or software should be directed to the manufacturer of that product. Charter has no responsibility for the operation or support, maintenance or repair of any equipment, software or services that Customer elects to use in connection with the Services.
 
 Customer will not connect any equipment, other than equipment authorized by Charter, to the cable modem outlet. Customer understands that failure to comply with this restriction may cause damage to the Charter network and subject Customer to liability for damages and/or criminal prosecution. Customer may not alter, modify or tamper with the Equipment or the Service, or permit any other person to do the same that is not authorized by Charter.
 
-1.2 Network Interface: When Charter installs the Service, Customer will need a network interface card or adapter providing an Ethernet. If Customer does not have a network interface, it may be possible for Customer to purchase from Charter. This interface will become Customer’s property, even if Customer terminates the Service.
+1.2 Network Interface: When Charter installs the Service, Customer will need a network interface card or adapter providing an Ethernet. If Customer does not have a network interface, it may be possible for Customer to purchase from Charter. This interface will become Customer's property, even if Customer terminates the Service.
 
 1.3 Cable Modem: Customer may purchase or lease the cable modem. If Customer leases the modem, Customer must return it to Charter at the end of the lease period. If Customer purchases the cable modem, Charter reserves the right to download firmware to meet current requirements. Charter currently supports many DOCSIS compliant standard cable modems. Please refer to System Requirements for the currently-supported modems.
 
-1.4 Software: At the time of installation of the Service, Charter may provide Customer with common Charter or third-party software (e.g., a browser and plug-ins) to enable and enhance the Service. Charter does not support third-party software. If Customer has any questions concerning third-party software, Customer should contact the software manufacturer directly. Any and all software provided by Charter is the property of Charter and/or its suppliers and licensors. Charter hereby grants Customer a nonexclusive, nontransferable license to use and to install on Customer’s computer system(s) the software for use solely in connection with the Service. Customer’s license to use any software provided by Charter and its suppliers and licensors is contingent upon Customer’s compliance with all use and other restrictions contained in this Agreement and the AUP. It is a material breach for Customer to copy, duplicate, reverse engineer or in any way modify, change, tamper with or interfere with any software provided to Customer by Charter. Upon any termination or expiration of this Agreement or the disconnection of Customer’s Service, this license will terminate and Customer agrees to then destroy all copies of the software that were delivered to Customer (including by erasing and deleting the software from Customer’s computer system). Customer hereby represents and warrants to Charter that Customer owns the operating system software and associated use/license rights thereto for the computers that are connected to the Charter network.
+1.4 Software: At the time of installation of the Service, Charter may provide Customer with common Charter or third-party software (e.g., a browser and plug-ins) to enable and enhance the Service. Charter does not support third-party software. If Customer has any questions concerning third-party software, Customer should contact the software manufacturer directly. Any and all software provided by Charter is the property of Charter and/or its suppliers and licensors. Charter hereby grants Customer a nonexclusive, nontransferable license to use and to install on Customer's computer system(s) the software for use solely in connection with the Service. Customer's license to use any software provided by Charter and its suppliers and licensors is contingent upon Customer's compliance with all use and other restrictions contained in this Agreement and the AUP. It is a material breach for Customer to copy, duplicate, reverse engineer or in any way modify, change, tamper with or interfere with any software provided to Customer by Charter. Upon any termination or expiration of this Agreement or the disconnection of Customer's Service, this license will terminate and Customer agrees to then destroy all copies of the software that were delivered to Customer (including by erasing and deleting the software from Customer's computer system). Customer hereby represents and warrants to Charter that Customer owns the operating system software and associated use/license rights thereto for the computers that are connected to the Charter network.
 
-1.5 Security: Customer acknowledges and agrees that when using the Service to access the Internet or any other online network or service, there are certain risks that may enable other Internet users to gain access to or use of Customer’s equipment. Customer is responsible for taking and should take all appropriate security measures when using the Service, including those recommended in Charter’s Internet Security website. Those recommendations can be found at http://security.charter.com and are incorporated into this Agreement by reference. Customer is responsible for any misuse of the Service that occurs through Customer’s account whether by a member of Customer’s household or an authorized or unauthorized third-party.
+1.5 Security: Customer acknowledges and agrees that when using the Service to access the Internet or any other online network or service, there are certain risks that may enable other Internet users to gain access to or use of Customer's equipment. Customer is responsible for taking and should take all appropriate security measures when using the Service, including those recommended in Charter's Internet Security website. Those recommendations can be found at http://security.charter.com and are incorporated into this Agreement by reference. Customer is responsible for any misuse of the Service that occurs through Customer's account whether by a member of Customer's household or an authorized or unauthorized third-party.
 
-1.6 Cookies: Customer may access their Charter e-mail account at www.charter.net, or by using the user’s software application (e.g. Outlook, Outlook Express, Incredimail, and Apple Mail). When accessing e-mail at www.charter.net, Customer must have their browser configured to accept cookies. www.Charter.net will notify the user, if their browser is not configured to accept cookies.
+1.6 Cookies: Customer may access their Charter e-mail account at www.charter.net, or by using the user's software application (e.g. Outlook, Outlook Express, Incredimail, and Apple Mail). When accessing e-mail at www.charter.net, Customer must have their browser configured to accept cookies. www.Charter.net will notify the user, if their browser is not configured to accept cookies.
 
 2\. General Subscriber Responsibilities and Warranties
 
 Customer warrants that he or she is at least 18 years of age.
 
-Customer agrees that the subscription is personal to Customer and agrees not to assign, transfer, resell or sublicense Customer’s rights as a subscriber unless specifically allowed by this Agreement. The Service and the Charter Equipment shall be used only by Customer and by members of Customer’s immediate household living with Customer at the same address. Customer acknowledges that Customer is executing this Agreement on behalf of all persons who use the Charter Equipment and/or Service by means of the Customer Equipment. Customer agrees that Customer is solely responsible and liable for any and all breaches of the terms and conditions of this Agreement, whether such breach results from Customer’s use of the Service or by another using Customer’s computer.
+Customer agrees that the subscription is personal to Customer and agrees not to assign, transfer, resell or sublicense Customer's rights as a subscriber unless specifically allowed by this Agreement. The Service and the Charter Equipment shall be used only by Customer and by members of Customer's immediate household living with Customer at the same address. Customer acknowledges that Customer is executing this Agreement on behalf of all persons who use the Charter Equipment and/or Service by means of the Customer Equipment. Customer agrees that Customer is solely responsible and liable for any and all breaches of the terms and conditions of this Agreement, whether such breach results from Customer's use of the Service or by another using Customer's computer.
 
-The identifying information that Customer has provided and will provide to Charter during the term of this Agreement, including without limitation Customer’s legal name, address, telephone number(s), the number of computers on which the Service is being accessed and payment data (including without limitation information provided when authorizing recurring payments) is accurate, complete and current. Customer agrees to promptly notify Charter, in accordance with the terms of this Agreement, upon the occurrence of any change in the status of Customers’ account (e.g., change in individuals authorized to use Customer’s account) or if there is any change in the information that Customer has provided to Charter. Failure to provide and maintain accurate information constitutes a breach of this Agreement.
+The identifying information that Customer has provided and will provide to Charter during the term of this Agreement, including without limitation Customer's legal name, address, telephone number(s), the number of computers on which the Service is being accessed and payment data (including without limitation information provided when authorizing recurring payments) is accurate, complete and current. Customer agrees to promptly notify Charter, in accordance with the terms of this Agreement, upon the occurrence of any change in the status of Customers' account (e.g., change in individuals authorized to use Customer's account) or if there is any change in the information that Customer has provided to Charter. Failure to provide and maintain accurate information constitutes a breach of this Agreement.
 
-When Customer completes registration for the Service, Customer must select a user name and password to be used by Customer to access the Service. Customer agrees that Customer is responsible for anyone using Customer’s computer system, password or name or user name in connection with the Service and for ensuring that anyone who does use the Service through Customer’s computer or access to the Service, does so in accordance with the terms and conditions of this Agreement. Customer agrees to take all reasonable measures necessary to ensure that the Service is not used by another without Customer’s consent.
+When Customer completes registration for the Service, Customer must select a user name and password to be used by Customer to access the Service. Customer agrees that Customer is responsible for anyone using Customer's computer system, password or name or user name in connection with the Service and for ensuring that anyone who does use the Service through Customer's computer or access to the Service, does so in accordance with the terms and conditions of this Agreement. Customer agrees to take all reasonable measures necessary to ensure that the Service is not used by another without Customer's consent.
 
-Charter requires Customer to comply with the terms of Charter’s Acceptable Use Policy ("AUP"). A copy of that Acceptable Use Policy can be found on Charter’s website at Acceptable Use Policy and is incorporated into this Agreement by reference. Please review the AUP regularly as Charter updates and amends that policy.
+Charter requires Customer to comply with the terms of Charter's Acceptable Use Policy ("AUP"). A copy of that Acceptable Use Policy can be found on Charter's website at Acceptable Use Policy and is incorporated into this Agreement by reference. Please review the AUP regularly as Charter updates and amends that policy.
 
-Customer shall be responsible for procuring and installing patches, any and all anti-virus and firewall software/ hardware and operating system patches, up-dates, or supplements that may be necessary for (i) the protection and maximum functionality of Customer’s computer and related equipment and (ii) the protection of Charter’s network and other customers. For purposes of clarification, Charter hereby disclaims any and all responsibility and liability for any damages that may arise from Customer’s failure to procure or install the aforementioned security software and /or hardware.
+Customer shall be responsible for procuring and installing patches, any and all anti-virus and firewall software/ hardware and operating system patches, up-dates, or supplements that may be necessary for (i) the protection and maximum functionality of Customer's computer and related equipment and (ii) the protection of Charter's network and other customers. For purposes of clarification, Charter hereby disclaims any and all responsibility and liability for any damages that may arise from Customer's failure to procure or install the aforementioned security software and /or hardware.
 
 3\. Monitoring The Services and Privacy
 
 Charter is concerned with issues of privacy. Charter has no obligation to monitor content. However, Customer agrees that Charter has the right to monitor the Service (including but not limited to, content and Customer equipment as it may affect the Service from time to time) in accordance with this Agreement, the AUP and its Internet Service Privacy Statement. A copy of the Internet Service Privacy Statement can be found on Charter's website at Your Privacy Rights and is incorporated into this Agreement by reference.
 
-For content residing on Charter’s servers, Charter reserves the right at all times and without notice to remove, restrict access to, or make unavailable, and to monitor, review, retain and/or disclose any content or other information in Charter’s possession about or related to Customer, Customer’s use of the Service or otherwise as necessary to satisfy any applicable law, or otherwise to preserve the security of the System or Charter’s customer information.
+For content residing on Charter's servers, Charter reserves the right at all times and without notice to remove, restrict access to, or make unavailable, and to monitor, review, retain and/or disclose any content or other information in Charter's possession about or related to Customer, Customer's use of the Service or otherwise as necessary to satisfy any applicable law, or otherwise to preserve the security of the System or Charter's customer information.
 
-Customer also authorizes Charter to make inquiries and to receive information about Customer’s credit history from others and to utilize such information in its decision regarding its provision of the Service to Customer. In addition, Customer agrees that Charter may collect and disclose information concerning Customer and Customer’s use of the Service in the manner and for the purposes set forth here and in Charter’s Internet Service Privacy Statement.
+Customer also authorizes Charter to make inquiries and to receive information about Customer's credit history from others and to utilize such information in its decision regarding its provision of the Service to Customer. In addition, Customer agrees that Charter may collect and disclose information concerning Customer and Customer's use of the Service in the manner and for the purposes set forth here and in Charter's Internet Service Privacy Statement.
 
-In order to protect the privacy of Customer’s account information, Charter may require that Customer use a security code or other method, in addition to the user name and password referenced in Section 2 of this Agreement, to confirm Customer’s identity when requesting or otherwise accessing account information, making changes to the Service or performing other functions related to the Service through Charter’s customer service representatives. Customer may also choose to designate an authorized user of Customer’s account (an "Authorized User"), who will be able to access Customer’s account information and make changes to Customer’s account. Once established, an Authorized User will be required to authenticate his/her identity in the same manner as Customer and according to Charter’s Authorized User Policy.
+In order to protect the privacy of Customer's account information, Charter may require that Customer use a security code or other method, in addition to the user name and password referenced in Section 2 of this Agreement, to confirm Customer's identity when requesting or otherwise accessing account information, making changes to the Service or performing other functions related to the Service through Charter's customer service representatives. Customer may also choose to designate an authorized user of Customer's account (an "Authorized User"), who will be able to access Customer's account information and make changes to Customer's account. Once established, an Authorized User will be required to authenticate his/her identity in the same manner as Customer and according to Charter's Authorized User Policy.
 
 4\. Customer Payment Obligations
 
-4.1 Service Fees: Charter will bill Customer a standard monthly fee for the Service. Customer agrees to pay the bill by its due date and to be responsible for any and all charges, damages and costs that Customer or anyone using Customer’s account incurs. If Customer leases equipment from Charter, additional monthly charges will apply. In addition, Customer agrees to pay all applicable taxes. Charter may also charge a monthly support maintenance fee or a per instance support charge, depending on Customer location, for technical support services related to the Service including, but not limited to, repairs or for any Service features, such as Charter’s Home Networking Service ("HN Service"). Charter may change the amount of the standard monthly fee, the modem rental fee, or any applicable monthly maintenance fee upon thirty (30) days written notice. Charter will identify any per instance support charges to Customer prior to providing any technical support that would result in such charge(s). Subject to applicable law, Customer must notify Charter of any billing errors or other requests for refund within thirty (30) days of the date on which the error occurred.
+4.1 Service Fees: Charter will bill Customer a standard monthly fee for the Service. Customer agrees to pay the bill by its due date and to be responsible for any and all charges, damages and costs that Customer or anyone using Customer's account incurs. If Customer leases equipment from Charter, additional monthly charges will apply. In addition, Customer agrees to pay all applicable taxes. Charter may also charge a monthly support maintenance fee or a per instance support charge, depending on Customer location, for technical support services related to the Service including, but not limited to, repairs or for any Service features, such as Charter's Home Networking Service ("HN Service"). Charter may change the amount of the standard monthly fee, the modem rental fee, or any applicable monthly maintenance fee upon thirty (30) days written notice. Charter will identify any per instance support charges to Customer prior to providing any technical support that would result in such charge(s). Subject to applicable law, Customer must notify Charter of any billing errors or other requests for refund within thirty (30) days of the date on which the error occurred.
 
-4.2 Installation Fees: Charter may charge Customer a one-time installation fee. In some circumstances, an additional installation fee may be required when customer adds additional Service features, such as Charter’s HN Service. Charter shall notify Customer of such fee prior to installation. Customer shall not be eligible to receive the applicable Service feature unless Customer pays any applicable installation fee.
+4.2 Installation Fees: Charter may charge Customer a one-time installation fee. In some circumstances, an additional installation fee may be required when customer adds additional Service features, such as Charter's HN Service. Charter shall notify Customer of such fee prior to installation. Customer shall not be eligible to receive the applicable Service feature unless Customer pays any applicable installation fee.
 
-4.3 Late Fees, NSF Fees, Collection Expenses and Termination for Unpaid Balances: If Customer’s payments are not current, Charter may impose a late fee, the Service may be disconnected without notice, and Charter may remove Charter’s equipment from Customer’s premises. Charter may charge an insufficient funds fee (NSF Fee) of $25 or to the extent permissible under applicable law for all returned checks and bankcard/credit card charge backs. The Customer must replace/pay the returned check or declined card amount (plus applicable NSF Fee), and in any event, the Customer acknowledges and agrees that Charter has the right to present to Customer’s banking institution for payment via electronic funds transfer, any returned check or declined card amount and the applicable NSF Fee. Customer will also be liable to pay Charter for all attorneys’ fees, collection fees or other expenses arising from efforts to collect any unpaid balances on Customer’s account.
+4.3 Late Fees, NSF Fees, Collection Expenses and Termination for Unpaid Balances: If Customer's payments are not current, Charter may impose a late fee, the Service may be disconnected without notice, and Charter may remove Charter's equipment from Customer's premises. Charter may charge an insufficient funds fee (NSF Fee) of $25 or to the extent permissible under applicable law for all returned checks and bankcard/credit card charge backs. The Customer must replace/pay the returned check or declined card amount (plus applicable NSF Fee), and in any event, the Customer acknowledges and agrees that Charter has the right to present to Customer's banking institution for payment via electronic funds transfer, any returned check or declined card amount and the applicable NSF Fee. Customer will also be liable to pay Charter for all attorneys' fees, collection fees or other expenses arising from efforts to collect any unpaid balances on Customer's account.
 
 4.4. Charges for Online Services, Internet Transactions or Toll Charges For Dial-Up Service: Through use of the Service, Customer may access certain information, products, and services of others, for which there is a charge. These include, for example, certain on-line services such as America Online. Customer agrees that Customer is solely responsible for all fees or charges for these on-line services, products or information.
 
-4.5. Credit Inquiries: Customer authorizes Charter to make inquiries and to receive information about Customer’s credit experience from others, to enter this information in Customer file, and to disclose this information concerning Customer to appropriate third parties for reasonable business purposes.
+4.5. Credit Inquiries: Customer authorizes Charter to make inquiries and to receive information about Customer's credit experience from others, to enter this information in Customer file, and to disclose this information concerning Customer to appropriate third parties for reasonable business purposes.
 
 4.6. Payment by Credit Card, Debit Card or ACH Transfer: If Customer has elected to be billed by credit card, debit card or ACH transfer, Customer agrees that he/she will automatically be billed each month for any amounts due under this Agreement. If Customer makes payment by check, Customer authorizes Charter and its agents to collect this item electronically.
 
 5\. Limited Warranty – Modem
 
-In the event Customer purchases a cable modem from Charter in conjunction with the Service, Charter provides a limited one (1) year warranty against any defect in materials or workmanship of the modem purchased directly from Charter. This limited warranty shall supersede any and all manufacturer warranties. In the event there is a problem with the modem that cannot be corrected either over the telephone or onsite, Charter will replace the equipment with either a new or refurbished unit at Charter’s option. In addition, Charter does not guarantee that the equipment it replaces will be the same make or model as the originally purchased equipment. This warranty expressly excludes defects in the modem caused by acts of nature, such as, but not limited to, lightning damage. damage from misuse or neglect. water damage. loss of programming or data. or installation. To obtain warranty service, please contact Your local Charter office for assistance.
+In the event Customer purchases a cable modem from Charter in conjunction with the Service, Charter provides a limited one (1) year warranty against any defect in materials or workmanship of the modem purchased directly from Charter. This limited warranty shall supersede any and all manufacturer warranties. In the event there is a problem with the modem that cannot be corrected either over the telephone or onsite, Charter will replace the equipment with either a new or refurbished unit at Charter's option. In addition, Charter does not guarantee that the equipment it replaces will be the same make or model as the originally purchased equipment. This warranty expressly excludes defects in the modem caused by acts of nature, such as, but not limited to, lightning damage. damage from misuse or neglect. water damage. loss of programming or data. or installation. To obtain warranty service, please contact Your local Charter office for assistance.
 
 6\. Disclaimer of Warranties and Limitation of Liability
 
-6.1 No Warranty: CUSTOMER AGREES THAT CUSTOMER USES THE SERVICE AND ANY SOFTWARE AND EQUIPMENT SUPPLIED BY CHARTER AT CUSTOMER’S SOLE RISK. THE SERVICE AND CHARTER EQUIPMENT ARE PROVIDED ON AN "AS-IS BASIS" AND EXCEPT TO THE LIMITED EXTENT SPECIFICALLY STATED IN SECTION 5, IF APPLICABLE, WITHOUT WARRANTIES OF ANY KIND, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE AND MERCHANTABILITY. CHARTER DOES NOT WARRANT UNINTERRUPTED USE OF SERVICE. CHARTER DOES NOT WARRANT THAT THE SERVICE WILL BE ERROR-FREE OR FREE OF ANY VIRUSES, WORMS, SPAM, POP-UP ADVERTISING, SPYWARE, ADWARE OR OTHER HARMFUL COMPONENTS, EVEN IF COUNTERMEASURES HAVE BEEN DEPLOYED. CHARTER DOES NOT WARRANT THAT ANY DATA OR FILES CUSTOMER SENDS OR RECEIVES VIA THE SERVICE WILL BE TRANSMITTED IN UNCORRUPTED FORM, WITHIN A REASONABLE TIME, OR FREE FROM UNAUTHORIZED ACCESS BY OTHERS OR THAT OTHER USERS WILL BE UNABLE TO GAIN ACCESS TO CUSTOMER’S COMPUTER. THIS INCLUDES, BUT IS NOT LIMITED TO, INCIDENTS OF FILE SHARING, PRINT SHARING OR USE OF OTHER MEANS THAT ENABLE INTERNET USERS TO GAIN ACCESS TO CUSTOMER’S EQUIPMENT OR TO MONITOR CUSTOMER’S ACTIVITY AND CONDUCT WHILE USING THE SERVICE.
+6.1 No Warranty: CUSTOMER AGREES THAT CUSTOMER USES THE SERVICE AND ANY SOFTWARE AND EQUIPMENT SUPPLIED BY CHARTER AT CUSTOMER'S SOLE RISK. THE SERVICE AND CHARTER EQUIPMENT ARE PROVIDED ON AN "AS-IS BASIS" AND EXCEPT TO THE LIMITED EXTENT SPECIFICALLY STATED IN SECTION 5, IF APPLICABLE, WITHOUT WARRANTIES OF ANY KIND, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE AND MERCHANTABILITY. CHARTER DOES NOT WARRANT UNINTERRUPTED USE OF SERVICE. CHARTER DOES NOT WARRANT THAT THE SERVICE WILL BE ERROR-FREE OR FREE OF ANY VIRUSES, WORMS, SPAM, POP-UP ADVERTISING, SPYWARE, ADWARE OR OTHER HARMFUL COMPONENTS, EVEN IF COUNTERMEASURES HAVE BEEN DEPLOYED. CHARTER DOES NOT WARRANT THAT ANY DATA OR FILES CUSTOMER SENDS OR RECEIVES VIA THE SERVICE WILL BE TRANSMITTED IN UNCORRUPTED FORM, WITHIN A REASONABLE TIME, OR FREE FROM UNAUTHORIZED ACCESS BY OTHERS OR THAT OTHER USERS WILL BE UNABLE TO GAIN ACCESS TO CUSTOMER'S COMPUTER. THIS INCLUDES, BUT IS NOT LIMITED TO, INCIDENTS OF FILE SHARING, PRINT SHARING OR USE OF OTHER MEANS THAT ENABLE INTERNET USERS TO GAIN ACCESS TO CUSTOMER'S EQUIPMENT OR TO MONITOR CUSTOMER'S ACTIVITY AND CONDUCT WHILE USING THE SERVICE.
 
 CUSTOMER ACKNOWLEDGES AND UNDERSTANDS THAT CHARTER UTILIZES ANTI-SPAM SOFTWARE AND THAT SUCH SECURITY TECHNOLOGY IS A FEATURE OF THE SERVICE THAT MAY BLOCK INCOMING AND OUTGOING ELECTRONIC MAIL. CHARTER DOES NOT WARRANT THAT SUCH FEATURE WILL BLOCK ALL UNWANTED MAIL/SPAM OR THAT ALL MAIL THAT IS BLOCKED CONSTITUTES UNWANTED MAIL/ SPAM. CONSISTENT WITH OTHER STATEMENTS SET FORTH IN THIS SECTION, CHARTER DOES NOT WARRANT THAT SUCH FEATURE WILL BE ERROR-FREE.
 
-In addition, in its sole discretion, Charter may make available to Customer security software, such as anti-virus software, firewall software, "pop-up" advertising blocking software, parental control software, anti-spyware or anti-adware software for Customer’s use on Customer’s computer system(s) in conjunction with the Service. Any such security software provided by Charter to Customer is intended to provide only a minimal level of protection to Customer’s computer system(s). CUSTOMER UNDERSTANDS AND AGREES THAT CHARTER AND ITS THIRD-PARTY SUPPLIERS OF ANY SUCH SECURITY SOFTWARE DO NOT GUARANTEE ITS ACCURACY, EFFICACY OR PERFORMANCE. CUSTOMER UNDERSTANDS AND AGREES THAT CHARTER AND ITS THIRD-PARTY SUPPLIERS ARE NOT RESPONSIBLE FOR ANY DAMAGE TO CUSTOMER’S COMPUTER SYSTEM(S) OR THE INFORMATION STORED ON IT THAT MAY RESULT FROM THE SECURITY SOFTWARE OR ITS NON-PERFORMANCE.
+In addition, in its sole discretion, Charter may make available to Customer security software, such as anti-virus software, firewall software, "pop-up" advertising blocking software, parental control software, anti-spyware or anti-adware software for Customer's use on Customer's computer system(s) in conjunction with the Service. Any such security software provided by Charter to Customer is intended to provide only a minimal level of protection to Customer's computer system(s). CUSTOMER UNDERSTANDS AND AGREES THAT CHARTER AND ITS THIRD-PARTY SUPPLIERS OF ANY SUCH SECURITY SOFTWARE DO NOT GUARANTEE ITS ACCURACY, EFFICACY OR PERFORMANCE. CUSTOMER UNDERSTANDS AND AGREES THAT CHARTER AND ITS THIRD-PARTY SUPPLIERS ARE NOT RESPONSIBLE FOR ANY DAMAGE TO CUSTOMER'S COMPUTER SYSTEM(S) OR THE INFORMATION STORED ON IT THAT MAY RESULT FROM THE SECURITY SOFTWARE OR ITS NON-PERFORMANCE.
 
-When Customer uses the Service and/or accesses Charter web sites, Customer may encounter links allowing Customer to visit web sites operated or owned by third parties ("Third Party Site(s)"). Charter provides these links as a convenience and they are not under the control or ownership of Charter. The presence of a link to any Third Party Site is not an endorsement by Charter of the Third Party Site, an acknowledgment of any affiliation with its operators or owners, or a warranty of any type regarding any information or offer on the Third Party Site. Customer’s use of any third party site is governed by the various legal agreements and policies posted at that web site.
+When Customer uses the Service and/or accesses Charter web sites, Customer may encounter links allowing Customer to visit web sites operated or owned by third parties ("Third Party Site(s)"). Charter provides these links as a convenience and they are not under the control or ownership of Charter. The presence of a link to any Third Party Site is not an endorsement by Charter of the Third Party Site, an acknowledgment of any affiliation with its operators or owners, or a warranty of any type regarding any information or offer on the Third Party Site. Customer's use of any third party site is governed by the various legal agreements and policies posted at that web site.
 
-CUSTOMER UNDERSTANDS AND AGREES THAT CHARTER DOES NOT GUARANTEE THAT ANY PARTICULAR AMOUNT OF BANDWIDTH ON THE CHARTER NETWORK OR THAT ANY SPEED OR THROUGHPUT OF CUSTOMER’S CONNECTION TO THE CHARTER NETWORK WILL BE AVAILABLE TO CUSTOMER. Customer understands and agrees that the speed of the Service provided at Customer’s site will vary depending upon a number of factors, including Customer’s computer system(s) and associated equipment, Internet traffic, and other factors such as system capacity limitations, governmental actions, events beyond Charter’s control, and system failures, modifications, upgrades and repairs.
+CUSTOMER UNDERSTANDS AND AGREES THAT CHARTER DOES NOT GUARANTEE THAT ANY PARTICULAR AMOUNT OF BANDWIDTH ON THE CHARTER NETWORK OR THAT ANY SPEED OR THROUGHPUT OF CUSTOMER'S CONNECTION TO THE CHARTER NETWORK WILL BE AVAILABLE TO CUSTOMER. Customer understands and agrees that the speed of the Service provided at Customer's site will vary depending upon a number of factors, including Customer's computer system(s) and associated equipment, Internet traffic, and other factors such as system capacity limitations, governmental actions, events beyond Charter's control, and system failures, modifications, upgrades and repairs.
 
-Customer understands that Charter may use various tools and techniques in order to efficiently manage its networks and to ensure compliance with Charter’s AUP ("Network Management Tools"). These may include detecting malicious traffic patterns and preventing the distribution of viruses or other malicious code, and managing network resources through techniques such as limiting the number of peer-to-peer sessions Customer can conduct at the same time, limiting the aggregate bandwidth available for certain usage protocols such as peer-to-peer and newsgroups, and such other Network Management Tools as Charter may from time to time determine appropriate.
+Customer understands that Charter may use various tools and techniques in order to efficiently manage its networks and to ensure compliance with Charter's AUP ("Network Management Tools"). These may include detecting malicious traffic patterns and preventing the distribution of viruses or other malicious code, and managing network resources through techniques such as limiting the number of peer-to-peer sessions Customer can conduct at the same time, limiting the aggregate bandwidth available for certain usage protocols such as peer-to-peer and newsgroups, and such other Network Management Tools as Charter may from time to time determine appropriate.
 
 Customer further understands and agrees that, to allocate bandwidth across all of its users, Charter may employ traffic-management technology, including but not limited to packet-reset technology, which technology may materially slow the uploading of certain files.
 
-Customer’s sole and exclusive remedies under this Agreement are as set forth in this Agreement. Because some States do not allow the exclusion or limitation of implied warranties, some of the above exclusions may not apply to Customer.
+Customer's sole and exclusive remedies under this Agreement are as set forth in this Agreement. Because some States do not allow the exclusion or limitation of implied warranties, some of the above exclusions may not apply to Customer.
 
-6.2 Limitation of Liability/Exclusive Remedy: CHARTER’S ENTIRE LIABILITY AND CUSTOMER’S EXCLUSIVE REMEDY WITH RESPECT TO THE USE OF THE SERVICE OR ITS SOFTWARE AND EQUIPMENT, OR ANY BREACH BY CHARTER OF ANY OBLIGATION CHARTER MAY HAVE UNDER THIS AGREEMENT, SHALL BE CUSTOMER’S ABILITY TO TERMINATE THE SERVICE OR TO OBTAIN THE REPLACEMENT OR REPAIR OF ANY DEFECTIVE SOFTWARE OR EQUIPMENT PROVIDED BY CHARTER TO CUSTOMER. IN ADDITION, CHARTER SHALL NOT BE LIABLE FOR DAMAGES FOR FAILURE TO FURNISH, OR THE DEGRADATION OR INTERRUPTION OF, ANY SERVICES, FOR ANY LOST DATA OR CONTENT, IDENTIFY THEFT, FOR ANY TV, MONITOR OR SCREEN BURN-IN, PIN MISALIGNMENT, UNEVEN TV, MONITOR OR SCREEN WEAR, STUCK PIXELS, PHOSPHOR BURN, FILES OR SOFTWARE DAMAGE, REGARDLESS OF CAUSE. CHARTER SHALL NOT BE LIABLE FOR DAMAGE TO PROPERTY OR FOR INJURY TO ANY PERSON ARISING FROM THE INSTALLATION, MAINTENANCE OR REMOVAL OF EQUIPMENT, SOFTWARE, WIRING OR THE PROVISION OF SERVICES.
+6.2 Limitation of Liability/Exclusive Remedy: CHARTER'S ENTIRE LIABILITY AND CUSTOMER'S EXCLUSIVE REMEDY WITH RESPECT TO THE USE OF THE SERVICE OR ITS SOFTWARE AND EQUIPMENT, OR ANY BREACH BY CHARTER OF ANY OBLIGATION CHARTER MAY HAVE UNDER THIS AGREEMENT, SHALL BE CUSTOMER'S ABILITY TO TERMINATE THE SERVICE OR TO OBTAIN THE REPLACEMENT OR REPAIR OF ANY DEFECTIVE SOFTWARE OR EQUIPMENT PROVIDED BY CHARTER TO CUSTOMER. IN ADDITION, CHARTER SHALL NOT BE LIABLE FOR DAMAGES FOR FAILURE TO FURNISH, OR THE DEGRADATION OR INTERRUPTION OF, ANY SERVICES, FOR ANY LOST DATA OR CONTENT, IDENTIFY THEFT, FOR ANY TV, MONITOR OR SCREEN BURN-IN, PIN MISALIGNMENT, UNEVEN TV, MONITOR OR SCREEN WEAR, STUCK PIXELS, PHOSPHOR BURN, FILES OR SOFTWARE DAMAGE, REGARDLESS OF CAUSE. CHARTER SHALL NOT BE LIABLE FOR DAMAGE TO PROPERTY OR FOR INJURY TO ANY PERSON ARISING FROM THE INSTALLATION, MAINTENANCE OR REMOVAL OF EQUIPMENT, SOFTWARE, WIRING OR THE PROVISION OF SERVICES.
 
 FOR CERTAIN PRODUCT OFFERINGS, CHARTER MAY OFFER A LIMITED 30-DAY, NO RISK MONEY-BACK GUARANTEE. ANY SUCH LIMITED GUARANTEE IS SUBJECT TO THE SPECIFIC CONDITIONS INCLUDED WITH THE OFFER. IN NO EVENT SHALL CHARTER LIABILITY TO CUSTOMER FOR ANY CLAIM ARISING OUT OF THIS AGREEMENT EXCEED THE AMOUNT PAID BY CUSTOMER TO ACCESS AND USE THE SERVICE FOR A PERIOD OF THREE MONTHS. CUSTOMER HEREBY RELEASES CHARTER FROM ANY AND ALL OBLIGATIONS, LIABILITIES AND CLAIMS IN EXCESS OF THIS LIMITATION.
 
@@ -588,7 +687,7 @@ IN NO EVENT SHALL CHARTER BE LIABLE FOR ANY BREACH OF WARRANTY, DIRECT, INDIRECT
 
 CUSTOMER ACKNOWLEDGES AND AGREES THAT CHARTER HAS SET ITS PRICING FOR THE SERVICE AND ENTERED INTO THIS AGREEMENT IN RELIANCE UPON THE LIMITATIONS OF LIABILITY SET FORTH HEREIN, AND THAT THE SAME FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN THE PARTIES. CUSTOMER UNDERSTANDS AND AGREES THAT THE LIMITATIONS AND EXCLUSIONS OF LIABILITY AND DISCLAIMERS IN THE AGREEMENT WILL SURVIVE AND APPLY EVEN IF FOUND TO HAVE FAILED OF THEIR ESSENTIAL PURPOSE.
 
-6.3 Right of Entry and Damage to Customer’s Home or Business Computer During Installation: Customer agrees to permit Charter to enter Customer’s home and property at reasonable times to install, connect, disconnect, repair or inspect the equipment used to provide the Service. If Customer is not the owner of the premises upon which the Service is to be installed or serviced, Customer represents and warrants that Customer has obtained the consent of the owner of the premises for Charter personnel and/or its agents to enter the premises for the purposes described above. Charter will not enter Customer’s home to install or repair Customer’s Service unless an adult is present in Customer’s home at the time of the service call. Customer authorizes any other adult resident or guest at Customer’s residence to grant Charter access to Customer’s premises, if Customer is not at home when Charter makes a service visit. Customer acknowledges and agrees that installation or repair of the Service or Customer’s cable system may require Charter personnel and/or its agents to open Customer’s computer. Charter neither represents, warrants, nor covenants that such modifications will not disrupt the normal operation of Customer’s computer. Charter shall not be liable for any damage, loss or destruction to Customer’s home or Customer’s computer equipment whatsoever during installation or repair, including but not limited to any damage to, or loss or destruction of, any hardware, software, files or data. Charter is also not responsible for returning Customer’s computer to its original configuration. If Customer is not the owner of the premises, Customer shall indemnify and hold Charter harmless from and against any claims of the owner of the premises arising out of the performance of this Agreement.
+6.3 Right of Entry and Damage to Customer's Home or Business Computer During Installation: Customer agrees to permit Charter to enter Customer's home and property at reasonable times to install, connect, disconnect, repair or inspect the equipment used to provide the Service. If Customer is not the owner of the premises upon which the Service is to be installed or serviced, Customer represents and warrants that Customer has obtained the consent of the owner of the premises for Charter personnel and/or its agents to enter the premises for the purposes described above. Charter will not enter Customer's home to install or repair Customer's Service unless an adult is present in Customer's home at the time of the service call. Customer authorizes any other adult resident or guest at Customer's residence to grant Charter access to Customer's premises, if Customer is not at home when Charter makes a service visit. Customer acknowledges and agrees that installation or repair of the Service or Customer's cable system may require Charter personnel and/or its agents to open Customer's computer. Charter neither represents, warrants, nor covenants that such modifications will not disrupt the normal operation of Customer's computer. Charter shall not be liable for any damage, loss or destruction to Customer's home or Customer's computer equipment whatsoever during installation or repair, including but not limited to any damage to, or loss or destruction of, any hardware, software, files or data. Charter is also not responsible for returning Customer's computer to its original configuration. If Customer is not the owner of the premises, Customer shall indemnify and hold Charter harmless from and against any claims of the owner of the premises arising out of the performance of this Agreement.
 
 6.4 Damage to Equipment Owned by Charter: All equipment provided by Charter shall remain its sole property throughout the term of this Agreement, unless expressly stated otherwise. Customer agrees that Customer will not sell, transfer, lease, assign or otherwise encumber any equipment leased by Charter to Customer. Customer agrees to pay the full retail cost for the repair or replacement of any lost, stolen, damaged or unreturned Equipment, together with any costs incurred by Charter in obtaining or attempting to regain possession of leased equipment.
 
@@ -596,19 +695,19 @@ CUSTOMER ACKNOWLEDGES AND AGREES THAT CHARTER HAS SET ITS PRICING FOR THE SERVIC
 
 6.6 Mailbox Deactivation: Customer agrees that Charter owns any and all mailboxes associated with the Service and may reclaim such mailboxes at any time for any reason. Charter may also limit the number of new email addresses that can be created within a 24 hour time period. Customer agrees that if Customer does not access a Charter mailbox for a period of six months, Charter may deactivate the mailbox. Customer understands that Charter will delete the contents of the mailbox, if any, at that time. If after that time, Customer does not access such Charter mailbox for an additional period of three months, Charter shall have the right to reassign such mailbox.
 
-6.7 Mail Storage: If Customer elects to store electronic mail on Charter’s server(s), such electronic mail is subject to deletion three days after Customer first retrieves such electronic mail. Regardless of the retrieval protocol used by Customer, in no event will Charter be responsible for maintaining, and Charter will not guarantee storage of, such electronic mail for any period of time. Charter also reserves the right to enforce email storage limits.
+6.7 Mail Storage: If Customer elects to store electronic mail on Charter's server(s), such electronic mail is subject to deletion three days after Customer first retrieves such electronic mail. Regardless of the retrieval protocol used by Customer, in no event will Charter be responsible for maintaining, and Charter will not guarantee storage of, such electronic mail for any period of time. Charter also reserves the right to enforce email storage limits.
 
-6.8 Network Security and Management: Customer agrees that Charter may block traffic to and from any source, including, without limitation, the deletion of any electronic mail, as it deems necessary to secure its network and/or eliminate spam. Charter may take other actions, in its sole discretion, to manage or protect its network or to benefit the greatest number of its subscribers, including, but not limited to, traffic prioritization and protocol filtering, and in some instances, suspend or terminate access by Customer to the network. Charter may take these actions, with or without notice, in situations where Charter believes, in its sole discretion, that Customer may harm the Charter network or disrupt the performance of the Service for other users or where Customer is transmitting or is otherwise connected with what Charter considers in its sole discretion to be spam. Customer agrees that Charter is entitled to damages if Customer is transmitting or is otherwise connected with spam. Customer agrees Charter is entitled to actual damages, however, if actual damages cannot be reasonably calculated, Customer agrees to pay Charter liquidated damages of five dollars (U.S. $5.00) for each piece of spam transmitted from or otherwise connected with Customer’s account.
+6.8 Network Security and Management: Customer agrees that Charter may block traffic to and from any source, including, without limitation, the deletion of any electronic mail, as it deems necessary to secure its network and/or eliminate spam. Charter may take other actions, in its sole discretion, to manage or protect its network or to benefit the greatest number of its subscribers, including, but not limited to, traffic prioritization and protocol filtering, and in some instances, suspend or terminate access by Customer to the network. Charter may take these actions, with or without notice, in situations where Charter believes, in its sole discretion, that Customer may harm the Charter network or disrupt the performance of the Service for other users or where Customer is transmitting or is otherwise connected with what Charter considers in its sole discretion to be spam. Customer agrees that Charter is entitled to damages if Customer is transmitting or is otherwise connected with spam. Customer agrees Charter is entitled to actual damages, however, if actual damages cannot be reasonably calculated, Customer agrees to pay Charter liquidated damages of five dollars (U.S. $5.00) for each piece of spam transmitted from or otherwise connected with Customer's account.
 
 7\. Indemnification
 
-Customer agrees to indemnify and hold harmless Charter, its parents, subsidiaries, members, affiliates, officers and employees from any claims brought against Charter related to Customer’s use of the Service or the violation of the Acceptable Use Policy or the Privacy Policy, including, but not limited to, claims that Customer’s use of the Service infringed on the patent, copyright, trademark or other intellectual property right of any third party, claims arising from any breach or alleged breach by Customer of this Agreement or the AUP, or any claim resulting from Customer’s negligence. Customer agrees to pay any attorneys’ fees incurred by Charter in bringing any action related to the Service or a breach of the terms of this Agreement.
+Customer agrees to indemnify and hold harmless Charter, its parents, subsidiaries, members, affiliates, officers and employees from any claims brought against Charter related to Customer's use of the Service or the violation of the Acceptable Use Policy or the Privacy Policy, including, but not limited to, claims that Customer's use of the Service infringed on the patent, copyright, trademark or other intellectual property right of any third party, claims arising from any breach or alleged breach by Customer of this Agreement or the AUP, or any claim resulting from Customer's negligence. Customer agrees to pay any attorneys' fees incurred by Charter in bringing any action related to the Service or a breach of the terms of this Agreement.
 
 8\. Termination of the Service
 
-8.1 Customer’s Right to Terminate the Service: Customer may terminate the Service at any time by calling Customer’s local customer service department. Email submissions to Charter shall not constitute effective notice. Upon termination, Customer agrees to pay any outstanding account balance and Customer will return any leased equipment to Charter within ten (10) days of termination of account. If Customer does not return leased equipment within ten (10) days of the date of termination of Customer’s account, Charter reserves the right to charter customer for up to the full retail value of the leased equipment, which Customer failed to return. IF CUSTOMER CANCELS THE SERVICE FOR ANY REASON, CHARTER WILL NOT BE REQUIRED TO REFUND TO CUSTOMER ANY PORTION OF THE MONTHLY CHARGES PAID BY CUSTOMER FOR THE MONTH IN WHICH CANCELLATION OCCURS.
+8.1 Customer's Right to Terminate the Service: Customer may terminate the Service at any time by calling Customer's local customer service department. Email submissions to Charter shall not constitute effective notice. Upon termination, Customer agrees to pay any outstanding account balance and Customer will return any leased equipment to Charter within ten (10) days of termination of account. If Customer does not return leased equipment within ten (10) days of the date of termination of Customer's account, Charter reserves the right to charter customer for up to the full retail value of the leased equipment, which Customer failed to return. IF CUSTOMER CANCELS THE SERVICE FOR ANY REASON, CHARTER WILL NOT BE REQUIRED TO REFUND TO CUSTOMER ANY PORTION OF THE MONTHLY CHARGES PAID BY CUSTOMER FOR THE MONTH IN WHICH CANCELLATION OCCURS.
 
-8.2 Charter’s Right to Suspend/Terminate the Service: The Service and all Service features are subject to availability on an ongoing basis. Customer understands that Charter may cease to offer the Service or any Service feature at any time. Charter may suspend, disconnect and/or terminate the Service at any time without prior notice if Charter believes in its sole discretion that Customer has:
+8.2 Charter's Right to Suspend/Terminate the Service: The Service and all Service features are subject to availability on an ongoing basis. Customer understands that Charter may cease to offer the Service or any Service feature at any time. Charter may suspend, disconnect and/or terminate the Service at any time without prior notice if Charter believes in its sole discretion that Customer has:
 
 *   (a) Failed to pay Customer's bill when due.
 *   (b) Threatened or harassed any Charter employee or contractor;
@@ -616,11 +715,11 @@ Customer agrees to indemnify and hold harmless Charter, its parents, subsidiarie
 *   (d) Violated any other provision of this Service Agreement.
 *   If Customer is disconnected for any reason and/or service is suspended in accordance with this agreement, Customer may be charged (i) a reasonable disconnection and/or a reconnection fee and/or (ii) for service during the period of suspension in accordance with applicable federal and state law.
 
-8.3 Rights Upon Termination: In the event that Customer’s account is suspended, disconnected, and/or terminated, no refund, including any fees Customer paid to Charter, will be granted. no online time or credits (for example, points in an online game) will be credited to Customer, nor can it be converted to cash or another form of reimbursement. Moreover, Charter will not be responsible for the return of data stored on Charter’s servers, such as web and e-mail servers. Customer agrees that Charter has no obligation to visit Customer’s home upon termination to reconfigure Customer’s computer.
+8.3 Rights Upon Termination: In the event that Customer's account is suspended, disconnected, and/or terminated, no refund, including any fees Customer paid to Charter, will be granted. no online time or credits (for example, points in an online game) will be credited to Customer, nor can it be converted to cash or another form of reimbursement. Moreover, Charter will not be responsible for the return of data stored on Charter's servers, such as web and e-mail servers. Customer agrees that Charter has no obligation to visit Customer's home upon termination to reconfigure Customer's computer.
 
 9\. Home Networking
 
-Customer may elect to receive the HN Service to facilitate the simultaneous, multiple connection to the Service from up to five (5) personal computing devices within Customer’s single household. Customer shall be solely responsible for and shall indemnify and hold Charter harmless from and against any and all claims and expenses (including reasonable attorneys’ fees) arising out of Customer’s use or misuse of the HN Service. Customer acknowledges and agrees that the HN Service may only be used for residential, non-commercial purposes. Customer further acknowledges that the HN Service may still be subject to the security risks outlined in Section 1.5 of this Agreement, and that the disclaimer of warranty set forth in Section 6.1 of this Agreement will continue to apply to use of the HN Service. Use of the HN Service for commercial purposes is strictly prohibited. \[Please contact the local Charter office to inquire about the availability of commercial service options.\]
+Customer may elect to receive the HN Service to facilitate the simultaneous, multiple connection to the Service from up to five (5) personal computing devices within Customer's single household. Customer shall be solely responsible for and shall indemnify and hold Charter harmless from and against any and all claims and expenses (including reasonable attorneys' fees) arising out of Customer's use or misuse of the HN Service. Customer acknowledges and agrees that the HN Service may only be used for residential, non-commercial purposes. Customer further acknowledges that the HN Service may still be subject to the security risks outlined in Section 1.5 of this Agreement, and that the disclaimer of warranty set forth in Section 6.1 of this Agreement will continue to apply to use of the HN Service. Use of the HN Service for commercial purposes is strictly prohibited. \[Please contact the local Charter office to inquire about the availability of commercial service options.\]
 
 10\. Miscellaneous
 
@@ -632,15 +731,15 @@ Customer may elect to receive the HN Service to facilitate the simultaneous, mul
 
 10.4 Severability: If any term, covenant, condition or portion of this Agreement shall, to any extent, be invalid or unenforceable, the remainder of this Agreement, shall not be affected and each remaining term, covenant or condition shall be valid and enforceable to the fullest extent permitted by law.
 
-10.5 Changes to the Agreement: Charter may change, amend, alter, or modify this Agreement at any time. Charter may notify Customer of any change either by posting that change on Charter's website (www.charter.com), by sending Customer an e-mail or by U.S. mail. If Customer continues to use the Service after such notice has been made of a change, Customer agrees that such continued use shall be deemed to be Customer’s acceptance of those changes. The updated, online version of this Agreement shall supersede any prior version of this Agreement that may have been included in any software or related materials provided by Charter. This Agreement should be read in conjunction with Charter’s AUP and all other applicable policies.
+10.5 Changes to the Agreement: Charter may change, amend, alter, or modify this Agreement at any time. Charter may notify Customer of any change either by posting that change on Charter's website (www.charter.com), by sending Customer an e-mail or by U.S. mail. If Customer continues to use the Service after such notice has been made of a change, Customer agrees that such continued use shall be deemed to be Customer's acceptance of those changes. The updated, online version of this Agreement shall supersede any prior version of this Agreement that may have been included in any software or related materials provided by Charter. This Agreement should be read in conjunction with Charter's AUP and all other applicable policies.
 
-10.6 No Assignment: Customer may not assign this Agreement, or Customer’s rights or obligations under this Agreement, without Charter’s prior written consent. Charter may transfer or assign any portion or all of this Agreement at any time without notice to Customer, and Customer waives any such notice which may be required.
+10.6 No Assignment: Customer may not assign this Agreement, or Customer's rights or obligations under this Agreement, without Charter's prior written consent. Charter may transfer or assign any portion or all of this Agreement at any time without notice to Customer, and Customer waives any such notice which may be required.
 
 10.7 Waiver: Except as otherwise provided herein, the failure of any party to enforce any provision of this Agreement will not constitute or be construed as a waiver of such provision or of the right to enforce such provision.
 
-10.8 Contact Information: If Customer experiences a problem with the Service, Customer may contact Customer’s local customer service which can be located using Charter’s website at (www.Charter.com ).
+10.8 Contact Information: If Customer experiences a problem with the Service, Customer may contact Customer's local customer service which can be located using Charter's website at (www.Charter.com ).
 
-10.9 Consent to Phone, Mail and Email Contact: Customer consents to Charter calling the phone numbers and emailing any email addresses Customer has supplied to Charter, including mobile and wireless numbers, for any purpose, including the marketing of its current and future Services. Customer agrees that such phone calls may be made using any method, including an automatic dialing system or an artificial or recorded voice. If Customer’s wireless or mobile provider charges Customer for receipt of such messages, Customer acknowledges and agrees that Customer is responsible for paying such charges. Upon Customer’s request, the phone numbers and/or email addresses that Customer has previously provided will be removed from Charter’s marketing list. Customer can make this request by calling Charter or visiting Privacy Settings and requesting to be placed on Charter’s Do Not Call list and/or Do Not Email list. Charter may still contact customer by phone or through email for non-marketing purposes.
+10.9 Consent to Phone, Mail and Email Contact: Customer consents to Charter calling the phone numbers and emailing any email addresses Customer has supplied to Charter, including mobile and wireless numbers, for any purpose, including the marketing of its current and future Services. Customer agrees that such phone calls may be made using any method, including an automatic dialing system or an artificial or recorded voice. If Customer's wireless or mobile provider charges Customer for receipt of such messages, Customer acknowledges and agrees that Customer is responsible for paying such charges. Upon Customer's request, the phone numbers and/or email addresses that Customer has previously provided will be removed from Charter's marketing list. Customer can make this request by calling Charter or visiting Privacy Settings and requesting to be placed on Charter's Do Not Call list and/or Do Not Email list. Charter may still contact customer by phone or through email for non-marketing purposes.
 
 10.10 Information For California Residents Only:  
 Under California Civil Code Section 1789.3, California residents are entitled to the following specific consumer rights information:
@@ -655,7 +754,7 @@ St. Louis, Missouri 63131-3660
 
 (b) Complaints. California residents with complaints may also contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at: State of California, Department of Consumer Affairs, 1625 North Market Boulevard, Sacramento, CA 95834 or by telephone at: (916) 445-1254.
 
-(c) Charges. Charges to Customer imposed by Charter for use of the Service are as follows: Current rates for using the Service are in Charter’s Pricing Schedule, which is provided to Customer with the installation kit, may be included in Charter’s Services Guide and may be posted at Charter’s website (www.Charter.com). Charter reserves the right to change fees, surcharges, and monthly fees or to institute new fees at any time, all pursuant to Section 4 of this Agreement.
+(c) Charges. Charges to Customer imposed by Charter for use of the Service are as follows: Current rates for using the Service are in Charter's Pricing Schedule, which is provided to Customer with the installation kit, may be included in Charter's Services Guide and may be posted at Charter's website (www.Charter.com). Charter reserves the right to change fees, surcharges, and monthly fees or to institute new fees at any time, all pursuant to Section 4 of this Agreement.
 
 For information regarding notification of the sharing of certain personal information with third parties, under California Civil Code Sections 1798.82 – 1798.84 click here: Your Privacy Rights.
 
@@ -677,11 +776,16 @@ The Charter Residential 30 Day Money Back Guarantee applies to Charter products 
 *   Local and state taxes will apply. Franchise fees and other fees or charges may apply. The Money Back Guarantee does not include and the customer is responsible for all such taxes, franchise fees and other fees incurred in connection with receipt of the service.
 *   The Money Back Guarantee also does not apply to one-time charges such as Pay-Per-View and On Demand TV charges and/or directory assistance, operator assistance, and long distance (domestic or internal) call phone charges. Customer is responsible for paying all such charges.
 
-*   Terms of Service/Policies
+Use the links below to view telephone service condition and rate information by Charter company.
 
-Use the links below to view telephone tariff information for your state.
+Charter Advanced Services Companies
 
-Federal Interstate Services Access Tariff
+*   Charter Advanced Services Terms and Conditions
+*   Charter Advanced Services Price Guide
+
+Charter Fiberlink Companies
+
+Federal Interstate Services
 
 *   Federal Interstate Access Services Tariff
 
@@ -733,18 +837,18 @@ Massachusetts
 
 Michigan
 
-Local and Intrastate Interexchange Tariff
+> Local and Intrastate Interexchange Tariff
 
 *   Promotions
 *   Charter Fiberlink - Michigan, LLC Local Exchange Services Tariff
 *   Charter Fiberlink CC VIII, LLC Local Exchange Services Tariff
 
-Intrastate Access Tariff
+> Intrastate Access Tariff
 
 *   Charter Fiberlink - Michigan, LLC Intrastate Access Services Tariff
 *   Charter Fiberlink CC VIII, LLC Intrastate Access Services Tariff
 
-Local and Interexchange Service, Price and Terms Guide
+> Local and Interexchange Service, Price and Terms Guide
 
 *   Fiberlink-Michigan, LLC and Charter Fiberlink CC VIII, LLC Service, Price and Terms Guide
 
@@ -846,417 +950,414 @@ International Rate Information
 
 *   International Rates
 
-*   Terms of Service/Policies
-
-Procedure for Submitting a Copyright Infringement Claim
-
-Charter Communications is registered under the Digital Millennium Copyright Act of 1998 ("DMCA") (_See_ 17 U.S.C. §512).  Under the DMCA, copyright owners have the right to notify Charter Communications if they believe that a Charter customer has infringed the copyright owner’s work(s).  If you believe that a Charter Communications’ customer has copied your work in a way that constitutes copyright infringement, you may file a Notification of Claimed Infringement with Charter Communications’ designated DMCA agent.  The DMCA provides the following procedure for parties to follow who wish to file a Notification of Claimed Infringement with Charter Communications.
-
-To serve a Notification of Claimed Infringement on Charter Communications or any affiliated entities, send your Notification to:
-
-**Designated Agent:  
-**Laurie Jill Wood
-
-**Address to which Notification should be sent:  
-Attn: DMCA Agent**  
-Charter Communications  
-12405 Powerscourt Drive  
-St. Louis, Missouri 63131-3674
-
-**Facsimile Number:  
-**314-909-0609
-
-**Telephone number:  
-**314-965-0555
-
-**Email address:  
-**DMCA@charter.net
-
-**To be effective under the DMCA, the Notification of Claimed Infringement must be a written communication provided to Charter Communications’ designated agent and must include the following information:**
-
-1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single Notification, a representative list of such works at that site. 
-3.  Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and the infringing IP address, time, date, and the time zone to permit Charter Communications to locate the material. 
-4.  Information reasonably sufficient to permit Charter Communications to contact the complaining party, such as an address, telephone number and if available, an electronic mail address at which the complaining party may be contacted.
-5.  A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
-6.  A statement that the information in the Notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-
-Upon receipt of a Notification of Copyright Infringement from a copyright owner that contains the required information described in 1 through 6 above, Charter Communications will notify the customer of the alleged infringement and remove or disable access to the material that is alleged to be infringing if hosted on a Charter domain.  No personal, customer information is shared with the copyright owner unless required by law.
-
-If Charter receives more than one Notice of Copyright Infringement on the customer’s part, the customer may be deemed a ‘repeat copyright infringer.’  Charter Communications reserves the right to terminate the accounts of ‘repeat copyright infringers.’
-
-Procedure to File a DMCA Counter-Claim
-
-If you have received a notice of copyright infringement and you believe that a copyright holder has accused you in error, you may file a DMCA Counter-Claim with Charter Communications’ designated agent. 
-
-**To be effective, a Counter-Claim must be a written communication provided to Charter Communications’ designated agent and must include the following information:**
-
-1.  A physical or electronic signature of the subscriber.
-2.  Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
-3.  A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
-4.  The subscriber’s name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber’s address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification or an agent of such person.
-
-Upon receipt of a DMCA Counter-Claim, Charter Communications will provide the complaining party with a copy of the DMCA Counter-Claim.  When Charter receives a Counter-Claim that meets the requirements of the DMCA, Charter will process the Counter-Claim in accordance with the requirements of the DMCA .
-
-**NOTE** :  The information on this page is provided to you for informational purpose only, and is not intended as legal advice.  If you believe you rights under United States copyright law have been infringed, you should consult with you attorney.
-
-*   Terms of Service/Policies
-
-Price Guarantee Service Agreement Details
-
-*   $29.98 (mo 1-12) / $39.98 (mo 13-24) Price Guarantee Package
-*   $34.99 Price Guarantee Package
-*   $34.99 Price Guarantee Package (Preview)
-*   $39.98 (mo 1-12) / $49.98 (mo 13-24) Price Guarantee Package
-*   $39.99 Price Guarantee Package
-*   $44.98 (mo 1-12) / $54.98 (mo 13-24) Price Guarantee Package
-*   $59.98 Price Guarantee Package
-*   $59.98 (mo 1-12) / $99.98 (mo 13-24) Price Guarantee Package
-*   $64.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
-*   $64.98 Price Guarantee Package
-*   $69.98 (mo 1-12) / $89.98 (mo 13-24) Price Guarantee Package
-*   $79.98 Price Guarantee Package
-*   $79.98 (mo 1-12) / $89.98 (mo 13-24) Price Guarantee Package
-*   $89.97 Price Guarantee Package
-*   $89.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
-*   $89.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
-*   $89.98 Price Guarantee Bundle Package
-*   $94.97 Price Guarantee Package
-*   $99.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
-*   $99.97 (mo 1-12) / $119.97 (mo 13-24) Price Guarantee Package
-*   $114.97 Price Guarantee Package
-*   $114.97 Price Guarantee Package (Preview)
-*   $124.97 Price Guarantee Package
-*   $124.98 Price Guarantee Bundle Package
-*   $139.97 Price Guarantee Package
-*   $154.97 Price Guarantee Package
-*   $224.97 Price Guarantee Package
-*   $29.99 Price Guarantee Package
-*   $79.98 Price Guarantee Package (includes Digital View)
-*   $109.97 Price Guarantee Package
-*   $118.97 Price Guarantee Package
-*   $119.97 Price Guarantee Package
-*   $119.98 Price Guarantee Package
-*   $133.97 Price Guarantee Package
-*   $144.97 Price Guarantee Package
-*   $149.97 Price Guarantee Package
-*   $179.97 Price Guarantee Package
-*   $189.97 Price Guarantee Package
-*   $239.96 Price Guarantee Package
-
-*   Terms of Service/Policies
-
-Complaint Procedures for Michigan
-
-Charter maintains offices and trained maintenance staff to be promptly available to Customers upon request. Our toll-free customer service number is 888-438-2427. Technical personnel will be dispatched as warranted. Charter strives to resolve any complaints concerning its Service as expeditiously as possible. Should a Customer have any unresolved complaint regarding quality of Service, Equipment malfunctions, or similar matters, the Customer should contact us at the local office identified on the enclosed statement. If a complaint remains unresolved, the Customer may write a brief explanation of the complaint and actions taken, and bring them to the attention of the corporate office by mailing to Charter, Attention: Customer Complaint, 941 Charter Commons Drive, Town and Country, MO 63017. If a customer has attempted to resolve the dispute through the processes outlined above, the customer may file a complaint with the Michigan Public Service Commission. The Commission's toll-free customer service number is 1-866-552-7725 and the Public Service Commission website address is: www.michigan.gov/mpsc. In addition, your local franchise authority contact information is listed on your monthly statement.
-
-*   Terms of Service/Policies
-
-Important Information about Charter Telephone 911 Services &. Battery Back-up
-
-To help you quickly respond to emergencies, Charter provides emergency 911 services much like traditional telephone companies. Should you ever need to access emergency services – fire, police, or ambulance – just dial the familiar digits "**9-1-1**," using your **Charter Telephone** Service. Your call will be routed directly to the nearest public-safety operator, who will dispatch the appropriate services. With Enhanced 911, emergency services will be able to quickly find you – your telephone number and address are electronically routed to the operator the moment your call goes through.
-
-**Charter Telephone** provides your home with telephone service using a Multimedia Terminal Adaptor (MTA), or a telephone modem, that requires electrical power in your home. As is the case with cordless phones, your **Charter Telephone** equipment will not work in the event of a power outage, and you will not be able to make or receive calls, including 911 calls, unless at the time of ordering service you chose to have a battery-slotted MTA installed and have purchased and installed a battery into the appropriate slot in the MTA. In a power outage, a cordless telephone, and other equipment connected to the telephone line that requires electricity, such as telecommunications devices used to assist with disabilities, will not work unless they have a battery that allows them to function for a period of time without electricity to your residence.  You are responsible for providing and installing batteries for your cordless telephone and other telecommunications devices and to ensure that they operate during a power outage.
-
-You are also responsible for the purchase of the MTA backup battery for which you will be assessed a one-time charge at the time of order entry.  If you would like to order an initial backup battery or extra backup batteries, or if you would like to upgrade your MTA to a model that includes a slot for a backup battery, you should contact **Charter Customer Care** at **1-888-438-2427**. 
-
-The backup battery is designed only to power your MTA to enable calling, including 911 calling, for up to eight hours of standby time and approximately five hours of talk time, in the event of a power outage.
-
-You are also responsible for monitoring the status of the back-up battery and for ensuring that the battery is charging normally.  Please note the following battery status light conditions after the unit has been connected and powered:
-
-*   If the status light is green and flashing, this denotes that the installed battery is taking a charge. This is the unit’s normal operating mode upon being newly installed.
-*   A steady green light represents a fully charged battery. this typically takes a few hours after initial power-up.
-*   Amber light signifies that the battery is discharging or not able to charge.  If the unit displays an amber light, the battery should be replaced.
-
-The lithium-ion backup battery  generally provides 6 to 10 years of service life.  The back-up battery can safely be stored within the following temperature range: °F -4 to 140/(°C -20 to 60).  However it is important to note that storage of back-up batteries above 77°F (25°C) will significantly reduce life of the battery and is not recommended.
-
-Whenever commercial power or its equivalent is required to operate services of facilities provided by the Company at the customer’s premises, the customer shall:  furnish such power which shall be suitable for the purpose;  provide and maintain all necessary power wiring and power outlets in a suitable location and in a safe fashion. and allow the Company access to the power supply, if necessary. In the event of a power failure, no allowance is made for interruption of service and the Company shall not be held liable for such an interruption of service.  Nor shall the company be liable for any property damage or personal injury, or any other alleged damage or injury, caused by any customer-provided power supply, wiring, or power outlet.
-
-*   Terms of Service/Policies
-
-All Customers
-
-CHARTER COMMUNICATIONS TERMS AND CONDITIONS OF RESIDENTIAL SERVICE ("AGREEMENT")
-
-Following are the terms and conditions that govern the relationship between you ("you," "your," or "customer") and the subsidiary of Charter Communications® that operates the cable system in your area ("Charter," "we," "us," or "our") regarding your cable service ("Video Service"). If Charter provides Charter Telephone® service ("Telephone") in your area, Telephone will be provided through the Charter telephone affiliate servicing your area, and you will be bound by that affiliate's tariff on file with the State telephone regulatory authority and/or the tariffs or other terms of service located on Charter's website at www.charter.com. If you receive Charter High-Speed® Internet service ("HSI"), you will also be bound by the Charter High Speed Internet Subscriber Agreement and Acceptable Use Policy, both located at www.charter.com. Each of the Video Service, Telephone and HSI are a "Service" and collectively the "Services". The Services are also subject to the Annual Notice that you will receive each year, which contains, among other things, Charter's Privacy Policy.
-
-This is an important contract between you and Charter. Please retain this and all accompanying documents referred to herein or regarding your Services with your important papers. Your signature on the work order presented to you upon installation of Video Service and/or your continued use of Video Service are evidence of your agreement to the terms and conditions set forth herein. We may change our prices, fees, the Services and/or the terms and conditions of this Agreement, or any other customer agreement in the future, and we will provide you advanced notice of any such changes. Your continued use of the Services more than 30 days after notice of the change, shall be considered your acknowledgement and acceptance of the changes. The current version of this Agreement and all documents referred to herein may always be found at www.charter.com. You may not modify this Agreement by making any typed, handwritten, or any other changes to it for any purpose. For purposes of this Agreement, "affiliate" means any subsidiary with Charter Communications, Inc.
-
-Unless you have entered into a Term Contract (term defined below), you have subscribed to Service to be provided on a month-to-month basis. PURSUANT TO SUCH MONTH-TO-MONTH SERVICE RELATIONSHIP, CHARTER WILL CONTINUE TO PROVIDE YOU AND YOU WILL BE RESPONSIBLE FOR THE SERVICE(S) TO WHICH YOU HAVE SUBSCRIBED, IN EACH SUCCESSIVE MONTH UNTIL THIS AGREEMENT IS TERMINATED IN ACCORDANCE WITH ITS TERMS.
-
-If you are a customer of commercial services, sold under the Charter Business® brand, this Agreement does NOT apply to you.
-
-CHARGES AND BILLING
-
-You agree to pay all charges associated with Service, including, but not limited to, installation charges, disconnect charges, monthly service charges, equipment charges, service call charges, applicable federal, state, and local taxes and any fees or payment obligations imposed or permitted by governmental or quasi-governmental bodies for the sale, installation, use, or provision of Service. You warrant that you owe no monies to Charter from prior accounts with Charter. In the event that Charter finds that you owe any amounts from an undisclosed prior account, Charter may apply any funds received from you to such prior account, and suspend or terminate Service until all amounts owed are paid in full. You agree to pay any regulatory recovery fees for municipal, state and federal government fees, assessments or payment obligations imposed or permitted.
-
-You are responsible for paying any government imposed fees and taxes, including franchise fees. Charter will review on a quarterly and annual basis the amount it collects in franchise fees and taxes and start refunding to current subscribers franchise fees and taxes it may have collected in excess of sums due to governmental authorities within 15 months of the end of each calendar year. In some cases, you may be billed for franchise fees that relate to time periods before you began receiving service. Charter will not bill you for these past franchise fees more than 4 years after the year they are incurred by Charter. Franchise fees resulting from an audit by your franchising authority are incurred at the time those fees are assessed.
-
-Video price information for your community can be found on the current rate card for the cable television system in your area.
-
-Term Contracts. If you have completed a separate service agreement with Charter in which you commit to subscribe to any Service for a minimum term ("Term Contract"), your price and special terms for such Service is as specified in such contract. Refer to www.charter.com/visitors/policies for details.
-
-30 Day Guarantee. Charter may offer a limited 30-day money-back guarantee in certain circumstances. Refer to www.charter.com/visitors/policies for details.
-
-You authorize us to make inquiries and to receive information about your credit, to retain this information in your account, and to disclose this information to third parties for reasonable business purposes.
-
-Billing Procedure. Unless you have signed a Term Contract, Service is provided to you on a month-to-month basis. You will be billed monthly, in advance, for recurring service charges, equipment charges, taxes and fees. In addition, you must pay, on or before the day we install Service, the first month's service charges, equipment charges, any pre-payments or deposits, and any installation charges. You may be billed for some programming after it has been provided to you. this may include, but is not limited to charges for on-demand or pay-per-view movies or events. Your first bill may include pro-rated charges for Service you have received. If you make partial payment of any bill, we will apply that payment to the outstanding charges in the amounts and proportions that we determine. However, we do not waive our rights to collect the full balance owed to us by accepting partial payment. Subject to applicable law, if you intend to dispute a charge or request a billing credit, you must contact us within sixty (60) days of the date on the bill. You waive any disputes or credits that you do not report within sixty (60) days.
-
-Failure to Pay. You may be billed late fees, charges and assessments related to late payments or non-payments if for any reason (a) Charter does not receive from you any required payment for Service by the payment due date or (b) you pay less than the full amount due for Service. We do not anticipate that you will fail to pay for Service on a timely basis, and we do not extend credit to customers. Any late fees, charges, and assessments due to late payment or nonpayment do not constitute interest, credit service charges, finance charges or penalties. A late fee is intended to be a reasonable advance estimate of costs to manage past due accounts and may be charged through the disconnection date (e.g., the following, if applicable, the additional expense associated with preparing additional bill statements, processing Customer's service records, mailing additional notices, tracking past due accounts, responding to inquiries regarding past due balances, making collection telephone calls, performing special procedures to process past due payments, generating work orders, performing necessary field work to collect past due accounts, etc.). The amount of any late fee and other separate or additional charges are set forth in current rate card for the cable television system in your area. Charter's late fee practices may be revised to comply with applicable federal, state or local laws, rules or regulations. If you fail to pay the full amount due for Service then Charter, at its sole discretion in accordance with applicable law, may also suspend or disconnect any or all other Services you receive. Should you wish to resume a Service after any suspension, we may require you to pay a reconnection fee. Should you wish to reinstate any or all Services after disconnection, we may require you to pay an installation fee and/or service activation fee. These fees are in addition to all past due charges and other fees. Reconnection of Service is subject to our credit policies, this Agreement and applicable law.
-
-3rd Party Charges. You acknowledge that you may incur charges for non-Charter services with third-party service providers that are separate from the amounts you are charged by Charter. These may include charges resulting from purchasing goods through your Video Service or otherwise. You are solely responsible for all charges payable to such third parties, including all applicable taxes. In addition, you are solely responsible for protecting the security of credit card and other personal information you provide to others in connection with such transactions.
-
-Payment by Credit or Debit Card, Check or Electronic Bill Pay. If you use a credit or debit card to pay for Service, use of the card is governed by the card issuer agreement for that card, and you must refer to that agreement for your rights and liabilities as a cardholder. If Charter does not receive payment from your credit or debit card issuer or its agents, you agree to pay all amounts due upon demand. If you make payment by check, you authorize Charter to collect such payment electronically. You may not amend or modify this Agreement with any restrictive endorsements (such as "paid in full"), releases, or other statements on or accompanying checks or other payments accepted by Charter. any such notations shall have no legal effect. If your card issuer or financial institution refuses payment for insufficient funds, closed or unauthorized accounts, or any other reason, you will be charged a insufficient fund charge (as set forth in the applicable Video Service rate card for the cable television system in your area) for each instance in which such payment is refused. You hereby authorize Charter to collect any declined amount and the insufficient funds charge(s) electronically from the subject account. In addition, your Service may be suspended. This fee is in addition to any charges your financial institution may assess. If initially rejected, Charter will make additional multiple attempts to execute the payment for up to thirty days following the initial refusal. If you sign up for electronic bill pay service, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all bill payments that you authorize using the electronic bill payment service, and you accept responsibility for all activities that occur through the use of your account or password. If you believe that your bill payment password or other means to access your account has been lost or stolen, you must notify us at once by calling your local office, during normal customer service hours.
-
-Deposit. We may require you to pay a refundable deposit when you activate Service or receive certain Equipment in connection with Service or if you fail to pay any amounts when they are due. If we disconnect your Service or are otherwise required under applicable law to refund the deposit, we shall return a sum equal to the amount you paid (without interest unless otherwise required by law) minus any amounts due on your account (including without limitation, any amounts owed for Services or for any Equipment that is damaged, altered, or not returned).
-
-CHANGES TO SERVICES
-
-Subject to applicable law, we have the right to change our Services, Equipment and rates or charges, at any time with or without notice, if you continue to receive Service after the change, it will constitute your acceptance of the change. We also may rearrange, delete, add to or otherwise change programming or features or offerings of Video Service. If we do give you notice, it may be provided on your monthly bill, as a bill insert, in a newspaper or through other means of communication permitted under applicable law.
-
-Parental control is available to block or restrict certain programming or channels. Information on how to enable this feature is available from Charter upon request and at www.charter.com.It is your sole responsibility to activate or otherwise enable this feature and to update settings if Charter rearranges, deletes, adds or changes programming.
-
-ACCESS TO PREMISES
-
-You agree to allow us and our agents to access or enter your property where Service or Equipment will be provided (the "Premises"), in order to install, configure, maintain, inspect, upgrade, replace and remove Service and/or Equipment, and you agree to provide our employees and agents a safe working environment. You warrant that you are the owner of the Premises or that if you are not the owner, you have the authority to give us access to the Premises and agree to indemnify us from all owner claims in connection with the installation and provision of Service. You agree to supply us or our agent, upon request, the owner's name, address and phone number and/or evidence that the owner has authorized you to grant access to us and our agents to the Premises. You authorize any other adult resident or adult guest at the Premises to grant us access to the Premises.
-
-EQUIPMENT
-
-Charter Equipment together with Customer Equipment is collectively referred to herein as "Equipment".
-
-Charter Equipment. You agree that all Charter Equipment belongs to us and will not be deemed fixtures to or in any way part of the Premises. Charter Equipment includes all new or reconditioned equipment installed, provided or leased to you by us, including but not limited to, cabling or wiring and related electronic devices, set top boxes, remotes, access cards, cable modems and any other hardware. You agree to use Charter Equipment only for Service pursuant to this Agreement and will not use Equipment or Service, directly or indirectly, for any unlawful purpose or in violation of any Charter policy. We may remove or change Charter Equipment at our discretion at any time Service is active or following the termination of your Service. You agree that our addition, removal, or change to Charter Equipment may interrupt Service. You may not sell, lease, abandon or give away Charter Equipment, or permit any other service provider to use Charter Equipment. Charter Equipment may only be used in the Premises. If you attempt to install or use Charter Equipment or Service at a location other than the Premises, Service may fail to function. At your request, we may relocate Charter Equipment within the Premises for an additional charge. You will not allow anyone other than Charter employees or agents to service Charter Equipment. You are directly responsible for loss, repair, replacement and other costs, damages, fees and/or unreturned equipment charges if you do not return Charter Equipment to us undamaged, reasonable wear and tear excepted.
-
-Customer Equipment. Customer Equipment consists of hardware or services that you elect to use and provide ("Customer Equipment") in connection with Services or Equipment. You agree to allow us and our agents the right to install hardware in Customer Equipment, send software downloads to Customer Equipment and install, configure, maintain, inspect or upgrade Customer Equipment to the extent necessary to provide Service. You warrant that you are either the owner of Customer Equipment or that you have the authority to give us access to Customer Equipment. Charter has no responsibility for the operation or support, maintenance or repair of any Customer Equipment.
-
-CHARTER DOES NOT WARRANT THAT CUSTOMER EQUIPMENT NOT MEETING MINIMUM TECHNICAL SPECIFICATIONS WILL ENABLE SUCCESSFUL INSTALLATION, ACCESS, OPERATION OR USE OF SERVICES. YOU ACKNOWLEDGE THAT ANY SUCH INSTALLATION, ACCESS, OPERATION, OR USE COULD CAUSE CUSTOMER EQUIPMENT TO FAIL TO OPERATE OR CAUSE DAMAGE TO CUSTOMER EQUIPMENT, YOU, YOUR PREMISES OR CHARTER EQUIPMENT. NEITHER CHARTER NOR ANY OF ITS AFFILIATES, SUPPLIERS OR AGENTS SHALL HAVE ANY LIABILITY WHATSOEVER FOR ANY SUCH FAILURE OR DAMAGE. YOUR USE OF CUSTOMER EQUIPMENT THAT DOES NOT MEET MINIMUM TECHNICAL SPECIFICATIONS MAY PREVENT PROVISION OF SERVICE.
-
-Unauthorized Attachments. You agree not to attach any unauthorized device to Equipment or Services. If you make any unauthorized connection to, tamper with or modify Equipment, Services or our cable system or receive services without authorization, we may terminate your Service, recover damages and/or pursue all remedies available under applicable law. You agree not to install anything to intercept or receive Services or to assist any person in intercepting or receiving our Services. You will not take action by attachment or otherwise to impair the integrity of our cable system, degrades signal quality or strength or create signal leakage.
-
-Unauthorized reception of Service may result in criminal fines and imprisonment.
-
-Inside Wiring. You may install inside wiring, such as additional cable wiring and outlets, provided it does not interfere with the normal operations of our network. If you have us install inside wiring, we will charge you for that service. We consider all inside wiring your property, or the property of whomever owns the Premises. Accordingly, you are responsible for the repair and maintenance of inside wiring. You may subscribe to a wire maintenance service from us, and we will charge you for that service. If you do not own the Premises, contact the owner about the repair or maintenance of inside wiring.
-
-USE OF SERVICES
-
-You agree that Service and Equipment will be used only for personal, residential, non-commercial purposes and will not be duplicated except in compliance with applicable law. You will not exhibit any programming (including PPV, VOD or digital music) in a commercial establishment or for commercial purposes, and if you fail to abide by this restriction we may terminate or suspend Service and you accept liability for all claims made as a result of such commercial exhibition. You will not resell or permit another to resell Service in whole or in part. Use of Equipment or Service for transmission, communications or storage of any information, data or material in violation of any regulation or law is prohibited. Charter has the sole right to determine what constitutes inappropriate use of Equipment and Service. Charter has no obligation to monitor content, however you agree that Charter has the right to monitor content and disclose any information necessary to comply with any law or regulation, to operate our Service properly or to protect us and our other customers.
-
-You have sole responsibility for ensuring that all users of Equipment and Services understand and comply with this Agreement and any applicable Charter policies. You agree to indemnify, defend and hold Charter and its affiliates, suppliers, and agents harmless from and against all claims, damages, expenses (including reasonable attorney fees), and other liability arising out of the use of Service, Equipment or the breach of this Agreement or any Charter policies by you or any other user of Services. You agree to comply with all end user license requirements relative to the Equipment.
-
-ASSIGNMENT
-
-This Agreement and Service furnished hereunder may not be assigned by you to any other person, successor tenant or occupant, or to any other address without the prior express authorization of Charter. You agree to notify us immediately of any changes of ownership or occupancy of the Premises. We may freely assign our rights and obligations under this Agreement with or without notice to you.
-
-TERMINATION
-
-Term. This Agreement will be in effect from the time that Service is activated until it is terminated as provided for by this Agreement.
-
-Your Termination Rights. Unless you have signed a Term Contract, you may terminate this Agreement for any reason at any time by notifying Charter in person at your local Charter office, the address of which is located on your statement, by sending a written notice to such address or by calling our customer service number located on your bill statement.
-
-Charter's Termination Rights. Under the conditions listed below, subject to applicable law, we reserve the right to act immediately and without notice to terminate or suspend Service. We may take these actions if we: (1) determine that use of Services does not comply with this Agreement or any of our policies, (2) determine that use of Services interferes with our ability to provide Service to you or others, (3) reasonably believe that use of the Services may violate any applicable laws, (4) determine that you have threatened, harassed or endangered the safety of our personnel or agents. Subject to applicable law or the terms of any agreements with governmental authorities, Charter shall bill your for all applicable fees and charges until this Agreement has terminated, Service has been disconnected, and/or all Charter Equipment has been returned (including continued charges for applicable Services through the later to occur of the termination or disconnection of Service or your return of Charter Equipment).
-
-Obligations upon Termination. Whether Service is terminated by you or Charter and subject to applicable law or the terms of any agreements with governmental authorities, Charter shall bill you for all applicable fees and charges until this Agreement has terminated, Service has been disconnected, and/or all Charter Equipment has been returned (including continued charges for applicable Services through the later to occur of the termination or disconnection of Service or your return of Charter Equipment).
-
-Upon termination of this Agreement you will: immediately cease all use of Service and Charter Equipment and pay in full all fees accrued for the Service through the termination date. Within ten (10) days of the termination date you will return all Charter Equipment to our local office in good working order, normal wear and tear excepted. If you fail to return any Charter Equipment, or Charter Equipment is damaged in addition to other rights it may have hereunder, Charter reserves the right to charge you an unreturned equipment fee, as set forth on the current rate card for the cable television system in your area, or if no such fee is specified, an amount equal to the replacement value of such equipment. Furthermore, Charter has the right to charge such rate card specified amount (or if and only to the limited extent applicable, the replacement value) to any payment card that Charter has on file for you in connection with such charges. Upon our request, you will permit us and our employees, agents, contractors, and representatives to access the Premises to disconnect Service.
-
-NO WARRANTY
-
-EQUIPMENT AND SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER CHARTER NOR ITS AFFILIATES, SUPPLIERS, EMPLOYEES, AGENTS OR CONTRACTORS, WARRANTS THAT CHARTER EQUIPMENT OR SERVICE WILL MEET YOUR REQUIREMENTS, PROVIDE UNINTERRUPTED USE, OR OPERATE AS REQUIRED. ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF PERFORMANCE, NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY, ARE HEREBY DISCLAIMED AND EXCLUDED UNLESS OTHERWISE PROHIBITED OR RESTRICTED BY APPLICABLE LAW.
-
-LIMITATION OF LIABILITY
-
-The limitations of liability set forth in this Section apply to any acts, omissions, and negligence of Charter and its third-party service providers, agents and suppliers (and their respective officers, employees, agents, contractors or representatives) which would otherwise give rise to a cause of action in contract, tort or under any other legal doctrine.
-
-EQUIPMENT. EXCEPT FOR WILLFUL MISCONDUCT, NEITHER CHARTER NOR ANY OF ITS AFFILIATES, SUPPLIERS, EMPLOYEES, AGENTS OR CONTRACTORS SHALL HAVE ANY LIABILITY WHATSOEVER FOR ANY DAMAGE, LOSS, OR DESTRUCTION TO CUSTOMER EQUIPMENT OR PREMISES WITH RESPECT TO ITS INSTALLATION, MAINTENANCE OR OTHERWISE RELATED TO THE PROVISION OF THE SERVICES. WITHOUT ABROGATING OR OTHERWISE LIMITING THE FOREGOING LIMITATION, IN THE EVENT OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT BY CHARTER, ITS SUPPLIERS, EMPLOYEES, AGENTS OR CONTRACTORS, WE MAY PAY AT OUR SOLE DISCRETION A MAXIMUM OF $500. THIS SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY RELATING TO SUCH ACTIVITY.YOU UNDERSTAND THAT CUSTOMER EQUIPMENT MAY NEED TO BE ACCESSED EITHER BY YOU OR BY US OR OUR AGENTS, IN CONNECTION WITH THE INSTALLATION OR REPAIR OF SERVICES. THIS MAY VOID WARRANTIES PROVIDED BY THE MANUFACTURER. NEITHER CHARTER NOR ANY OF ITS AFFILIATES, SUPPLIERS, OR AGENTS SHALL HAVE ANY LIABILITY WHATSOEVER AS THE RESULT OF THE VOIDING OF ANY SUCH WARRANTIES. YOU WAIVE ALL CLAIMS AGAINST CHARTER FOR INTERFERENCE, DISRUPTION, OR INCOMPATIBILITY BETWEEN CHARTER EQUIPMENT OR SERVICE AND ANY OTHER SERVICE, SYSTEMS, OR EQUIPMENT. IN THE EVENT OF SUCH INTERFERENCE, DISRUPTION, OR INCOMPATIBILITY, YOUR SOLE REMEDY SHALL BE TO TERMINATE SERVICE.
-
-FURTHERMORE, UNDER NO CIRCUMSTANCES SHALL CHARTER BE LIABLE TO CUSTOMER FOR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SERVICE OR ANY ACTS OR OMISSIONS ASSOCIATED THEREWITH, INCLUDING ANY ACTS OR OMISSIONS BY SUBCONTRACTORS OF CHARTER, OR RELATING TO ANY SERVICES FURNISHED, WHETHER SUCH CLAIM IS BASED ON BREACH OF WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY AND REGARDLESS OF THE CAUSES OF SUCH LOSS OR DAMAGES OR WHETHER ANY OTHER REMEDY PROVIDED HEREIN FAILS. CHARTER'S ENTIRE LIABILITY AND CUSTOMER'S EXCLUSIVE REMEDY WITH RESPECT TO THE USE OF THE SERVICES OR ANY BREACH BY CHARTER OF ANY OBLIGATION CHARTER MAY HAVE UNDER THESE TERMS AND CONDITIONS OF SERVICE OR APPLICABLE LAW, SHALL BE CUSTOMER'S ABILITY TO TERMINATE THE SERVICE OR TO OBTAIN THE REPLACEMENT OR REPAIR OF ANY DEFECTIVE EQUIPMENT PROVIDED BY CHARTER. IN NO EVENT SHALL CHARTER'S LIABILITY TO CUSTOMER FOR ANY CLAIM ARISING OUT OF THIS AGREEMENT EXCEED THE AMOUNT PAID BY CUSTOMER DURING THE PRECEDING THIRTY (30) DAY PERIOD.
-
-Disruption of Service. In no event shall Charter be liable for any failure or interruption of Service, including without limitation those failures and interruptions resulting in part or entirely from circumstances beyond our control. Subject to applicable law, credit with respect to your recurring monthly subscription fee may be given for qualifying Service outages.
-
-DISPUTES
-
-You hereby acknowledge and agree that Charter may elect to resolve all controversies, disputes or claims of any kind arising hereunder (whether raised by you or Charter) through binding arbitration.
-
-It is the intent of the parties hereto that the agreement to arbitrate disputes hereunder, shall be interpreted and applied broadly such that all reasonable doubts as to whether such dispute may be fairly submitted to arbitration, shall be decided in favor of arbitration. The parties' agreement to arbitrate includes, but is not limited to, all disputes arising from or relating to this Agreement and its formation, and any and all other agreements or matters arising between the parties (including all disputes regardless of the theory of liability).
-
-Any such arbitration (and in the alternative without limiting the foregoing, any and all suits) arising from or concerning this Agreement shall be filed and or otherwise handled and/or decided in the state in which the Services were rendered to you, and in no other place. You hereby irrevocably consent to the authority of the arbiter chosen by Charter or in the alternative, to the jurisdiction of such court or courts in the state in which Services were rendered to you, and agree to appear in any such action upon written notice thereof.
-
-In the event of litigation between the parties which is not referred to arbitration for any reason whatsoever, or in the event any court of competent jurisdiction refuses to compel arbitration of a dispute between the parties, then the parties: (i) agree to waive, to the fullest extent permitted by law, any right to trial by jury as (ii) agree to waiver any right to, or claim for, any punitive or exemplary damages against the other, and against any affiliates, owners, employees, or agents of the other. and (iii) agree that each party shall be limited in the recovery of any damages to recovery of the actual damages sustained by it. Notwithstanding the foregoing, if Charter is permitted to seek injunctive relief under this Agreement, Charter may, at its option, bring such action in the county in which the Services were rendered.
-
-PRIVACY AND SECURITY
-
-Charter will provide you with a copy of our customer privacy policy at the time we provide Service to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of our privacy notice by going to www.charter.com. You assume sole responsibility for all privacy, security and other risks associated with providing personally identifiable information to third parties via the Service. To the extent that Charter is expressly required to do so by applicable law, we will provide notice to you of a breach of the security of certain personally identifiable information about you. You agree that Charter may collect and disclose information concerning you and your use of Service in the manner and for the purposes set forth here and in our privacy policy. In order to protect the privacy of your account information, Charter may require that you use a security code or other method, in addition to the user name and password to confirm your identity when requesting or otherwise accessing account information or making changes to your Service through Charter's customer service representatives. You may also choose to designate an authorized user of your account (an "Authorized User"), who will be able to access your account information and make changes to your account. Once established, an Authorized User may be required to authenticate his/her identity in the same manner according to Charter's policies.
-
-GENERAL
-
-The Service shall only be provided to Customer at the address where Charter's installation is performed. Customer may not transfer Customer's rights or obligations to the Service to any successor tenant or occupant or to any other address without Charter's prior written consent.
-
-If any portion of this Agreement is held to be unenforceable, only the unenforceable portion shall be severed and rendered null and void, the Agreement shall otherwise remain in full and effect and be construed in accordance with applicable law as nearly as possible to reflect the original intentions of the parties. If Charter fails to insist upon or enforce strict performance of any provision of this Agreement, it does not thereby waive any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Agreement.
-
-Information for California Residents Only:
-
-Under California Civil Code Section 1789.3, California residents are entitled to the following specific consumer rights information:
-
-> (a) Contact Information. Customers can contact Charter at:  
-> Charter Communications  
-> Attn: Customer Care  
-> 12405 Powerscourt Drive  
-> St. Louis, Missouri 63131-3660  
-> 1-888-GET-CHARTER  
->   
-> (b) Complaints. California residents with complaints may also contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at: State of California, Department of Consumer Affairs, 1625 North Market Boulevard, Sacramento, CA 95834 or by telephone at: (916) 445-1254.  
->   
-> (c) Charges. Charges to Customer imposed by Charter for use of the Service are as follows: Current rates for using the Service are in Charter's Pricing Schedule, which is provided to Customer with the installation kit, may be included in Charter's Services Guide and may be posted at Charter's website (www.Charter.com). Charter reserves the right to change fees, surcharges, and monthly fees or to institute new fees at any time, all pursuant to this Agreement.
-
-For information regarding notification of the sharing of certain personal information with third parties, under California Civil Code Sections 1798.82 – 1798.84 visit www.charter.com Your Privacy Rights.
-
-*   Terms of Service/Policies
-
-CHARTER COMMUNICATIONS NETWORK MANAGEMENT PRACTICES
-
-Charter’s Acceptable Use Policy (the “AUP”) and the practices outlined herein, describe how Charter monitors the overall traffic on its network as key segments approach peak utilization levels (described below). When congestion occurs Charter will temporarily manage usage activity to maintain quality of service for all customers and to enable all users to access a “fair share” of the network capacity.  Charter does not target specific protocols.  Charter’s experience is that under these management techniques, incidents of noticeable congestion have been rare under normal operating conditions.
-
-Technical detail
-
-Charter’s network software continuously examines aggregate traffic usage data for individual segments of the network.
-
-Each cable modem on Charter’s network is connected to the CMTS through the ports on the CMTS. These ports can be either “downstream” ports or “upstream” ports (the term “port” also applies to virtual channels, also known as “bonded groups,” in a DOCSIS 3.0 environment).  If overall usage of a CMTS upstream or downstream port reaches a near congestion threshold for a defined period of time, then Charter’s software examines bandwidth usage data for subscribers in the affected network segment to determine which subscribers are using a disproportionate share of the bandwidth. If the software determines that one or subscribers have been the source of high volumes of network traffic over a particular time interval, traffic originating from those subscribers will be assigned a lower priority status temporarily.  If the affected network segment does not actually become congested, traffic assigned a lower priority status will not be delayed.  If such network segment becomes congested, lower priority traffic could be delayed compared to higher priority traffic.  The corresponding subscriber’s traffic returns to normal priority status once his or her bandwidth usage drops below a set threshold over a particular time interval.
-
-Charter currently uses the following settings for congestion management:
-
-*   Upstream Port Utilization Threshold: average of 70% of the total aggregate bandwidth for the port
-*   Downstream Port Utilization Threshold: average of 70% of the total aggregate bandwidth for the port
-*   Port Utilization Duration: approximately 15 minutes
-*   Subscriber Consumption Threshold: average of 70% or more of provisioned upstream or downstream bandwidth (Because provisioned bandwidth varies by account, users of higher speed tiers will have correspondingly higher User Consumption Thresholds)
-*   Subscriber Consumption Duration: approximately 15 minutes
-*   Release Criteria: consumption <. 50% of provisioned upstream or downstream bandwidth for approximately 15 minutes.  These release criteria are intended to minimize user Quality of Service oscillation, that is, a situation in which a particular user could cycle repeatedly between BE and PBE. In our experience, a user’s traffic rarely remains in a managed state longer than the initial 15-minute period.
-
-These settings may change over time.
-
-Charter generally designates traffic as either “priority best effort” traffic or “best effort” traffic. Most modern cable modems attached to Charter’s network include a “bootfile” which includes information about the subscriber’s service account to ensure that the service functions properly.  This bootfile contains information that supports these different priorities for Internet traffic going to and from the cable modem.  Priority best effort is the normal priority.  If congestion management has been triggered and traffic to a particular modem has been designated best effort, traffic could be delayed compared to higher priority traffic.  CMTS ports have what is commonly called a “scheduler” that puts all the packets coming from or going to cable modems on that particular port in a queue and then handles them in turn. A certain number of packets can be processed by the scheduler in any given moment. for each time slot, priority best effort traffic will be given priority access to the available capacity, and best effort traffic will be processed on a space-available basis.  A rough analogy would be to busses that empty and fill up every two milliseconds. As empty busses arrive, the waiting packets fill up the “seats” on the bus. During non-congested periods, the bus will usually have several empty seats, but during congested periods, the bus will fill up and some packets may have to wait for the next bus. In congested periods, best effort packets might have to wait for the next bus if all seats are first filled by priority best effort packets.  This all takes place in two millisecond increments, so even if the packets miss 50 “busses,” the delay only will be about one-tenth of a second.
-
-Congestion can occur in any IP network, and, when it does, packets can be affected, delayed, lost, or dropped. Because of this, IP applications and protocols have been designed to deal with delayed or dropped packets. 
-
-Typically, a user whose traffic is in a best effort state during actual congestion may find that a webpage loads sluggishly, a peer-to-peer upload takes somewhat longer to complete, or a VoIP call sounds choppy.  Of course, the same thing could happen to the customers on a port that is congested in the absence of any congestion management. the difference here is that the effects of any such delays are shifted toward those who have been placing the greatest burden on the network, instead of being distributed randomly among the users of that port without regard to their consumption levels.
-
-Charter’s AUP prohibits certain misuse of the service and does not permit a customer to operate a web server, FTP server, file server or game server or to run any other server applications or to provide network or host services to others from a residential account.  Charter is currently retiring DOCSIS 1.0 modems because they are no longer compliant with our network specifications and network performance specifications, and may in the future retire other equipment that impairs the ability of our network to perform. 
-
-Our statements regarding CableCARD use as outlined in our Annual Notice describes Charter’s support for CableCARD devices.
-
-Security
-
-Charter uses a number of different methods to help protect the security of our customers and network and the availability of our service.  We block the usage of certain ports that are associated with known vulnerabilities. restrict access to private, internal and management IP space. and take steps to limit the amount of unsolicited emails you receive at your Charter email address.  In addition, we look for devices that are scanning or attacking our network and, when they originate from our network, we contact our customers to help them secure their device but in some instances we may have to suspend or terminate their service.  To help prevent our network from being overwhelmed, we limit the frequency and volume of certain transactions, such as DHCP requests, email recipients and SMTP sessions.  We modify our security practices from time to time to adapt to new or changed security threats.  Finally, Charter customers that use the Charter Security Suite® can, for example, establish their own firewalls, scan to help identify and remove spyware and viruses, block harmful websites and implement parental controls.  For more information about the Charter Security Suite or to read our security educational materials, please visit www.charter.com/security.
-
-Charter provides a wide variety of Internet services with different speeds and features. Click here \[http://www.charter.com/\] for details and typical uses.  Actual uses will vary by customer.  Charter Internet is rated for the speeds indicated, but individual experiences may vary depending on factors such as source and route of traffic outside of our network and periods of peak usage of our network.  Charter is a volunteer currently participating in national performance tests sponsored by the Federal Communications Commission (FCC). In its 2011 report, the FCC reported that Charter’s national average sustained upload and download performance exceeded advertised speed met advertised speeds over a 24-hour Monday-Sunday basis  
-
-and was greater than 95% of advertised speed during the “busy hour” between 7:00 p.m. and 11:00 p.m. on weeknights.  The FCC specifically tested selected downstream and upstream tiers, and recorded performance during the “busy hour” as shown in the table:
-
-Performance Characteristics
-
-Service
-
-Mean during  
-Busy Hour
-
-Mean  
-Latency during Busy Hour
-
-12 Mbps DS
-
-12.04 Mbps
-
-29.27 ms
-
-18 Mbps DS
-
-16.29 Mbps
-
-29.08 ms
-
-25 Mbps DS
-
-21.46 Mbps
-
-31.33 ms
-
-1 Mbps US
-
-1.09 Mbps
-
-2 Mbps US
-
-2.13 Mbps
-
-3 Mbps US
-
-3.22 Mbps
-
-Individual performance may vary.
-
-Like Charter’s Internet services, Charter Phone service is based on internet protocol, but the provision of Charter Phone service should not have any discernible effect on your Internet services.  As Charter develops other Internet protocol services, Charter intends to manage them so that they should also have no discernible effect on your Internet services.  
-
-Commercial Terms
-
-Charter provides a wide variety of Internet services at different prices. Extras are also available for additional charges. Click here for details.
-
-Charter’s AUP and the practices outlined herein describe certain usage limits, under which residential service usage for customers should not exceed a certain number of Gigabytes of data per month, depending on the service level.
-
-Sometimes Internet service, or a bundle including Internet service, is offered with a price guaranty for a term, and a prorated early termination fees will apply if the offer is terminated by customer before the end of the 24-month term.  The terms of service for each offer describe each early termination fee. Click here for current terms.
-
-Charter monitors network traffic patterns for business analysis and network planning.  Charter maintains records of the assignment of IP addresses to subscribers and a temporary record of recent traffic to assist with troubleshooting. Charter’s Internet services employs technology to respond to subscribers who mistype or otherwise enter an invalid web address and directs the subscriber to a message page which suggests potential links that the user may have been looking for.  Unless required by valid legal process, Charter does not store other traffic records unique to a household or share them with any third-party. From time to time, Charter may provide our aggregated traffic analysis with outside technical consultants with the expertise to assist us with traffic analysis. As part of our Terms of Service, Charter reserves the right to monitor individual traffic.
-
-Redress Options
-
-Charter customers who have questions or concerns regarding our network management practice, planning, or traffic controls, should contact us at the number shown on your monthly bill.  If the question cannot be resolved by customer service representatives, the inquiries or complaints will be handled in accordance with our standard customer complaint practices.
-
-If you are an edge technology or service provider with questions or concerns, please contact us at is PriorityEscalationTeam@chartercom.com. Personnel with the appropriate knowledge to address such issues will seek to resolve your inquiries or complaints or escalate them for resolution.
-
-*   Terms of Service/Policies
-
-Rate Card Information
-
-*   CT – Heritage Village
-*   CT – Newtown
-*   CT – Willimatic
-*   CT – Winstead
-*   MA – Auburn
-*   MA – Bar, Berlin, Brook, Charl, Groton, Harv, Hubbard, Oak, Pep, Rut, Sut, Uxb
-*   MA – Belchertown, Hadley
-*   MA – Boylston
-*   MA – Brimfield
-*   MA – Chicopee
-*   MA – Connecticut
-*   MA – Douglas
-*   MA – Dudley
-*   MA – Dunstable, Millville, Wales
-*   MA – East Longmeadow
-*   MA – Easthampton
-*   MA – Grafton
-*   MA – Hampden
-*   MA – Hinsdale, Lanesboro, West Stockbridge
-*   MA – Holden
-*   MA – Leicester
-*   MA – Ludlow
-*   MA – Millbury
-*   MA – New Hampshire
-*   MA – Northborough
-*   MA – Northbridge
-*   MA – Oxford
-*   MA – Paxton
-*   MA – Southampton
-*   MA – Southborough
-*   MA – Southbridge
-*   MA – Spencer
-*   MA – Sturbridge
-*   MA – Upton
-*   MA – Vermont
-*   MA – Webster
-*   MA – West Boylston
-*   MA – West Brookfield
-*   MA – Westborough
-*   MA – Westport
-*   MA – Wilbraham
-*   MA – Worcester
-*   NH – Brookline, Hollis
-*   NY – Berlin, Petersburgh
-*   NY – Chatham, Ghent, Canaan, Copake, Austerlitz, Ancram, Hillsdale, New Lebanon
-*   NY – Plattsburgh
+*   Procedure for Submitting a Copyright Infringement Claim
+    
+    Charter Communications is registered under the Digital Millennium Copyright Act of 1998 ("DMCA") (_See_ 17 U.S.C. §512).  Under the DMCA, copyright owners have the right to notify Charter Communications if they believe that a Charter customer has infringed the copyright owner's work(s).  If you believe that a Charter Communications' customer has copied your work in a way that constitutes copyright infringement, you may file a Notification of Claimed Infringement with Charter Communications' designated DMCA agent.  The DMCA provides the following procedure for parties to follow who wish to file a Notification of Claimed Infringement with Charter Communications.
+    
+    To serve a Notification of Claimed Infringement on Charter Communications or any affiliated entities, send your Notification to:
+    
+    **Designated Agent:  
+    **Laurie Rowlett
+    
+    **Address to which Notification should be sent:  
+    Attn: DMCA Agent**  
+    Charter Communications  
+    12405 Powerscourt Drive  
+    St. Louis, Missouri 63131-3674
+    
+    **Facsimile Number:  
+    **314-909-0609
+    
+    **Telephone number:  
+    **314-965-0555
+    
+    **Email address:  
+    **DMCA@charter.net
+    
+    **To be effective under the DMCA, the Notification of Claimed Infringement must be a written communication provided to Charter Communications' designated agent and must include the following information:**
+    
+    1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single Notification, a representative list of such works at that site. 
+    3.  Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and the infringing IP address, time, date, and the time zone to permit Charter Communications to locate the material. 
+    4.  Information reasonably sufficient to permit Charter Communications to contact the complaining party, such as an address, telephone number and if available, an electronic mail address at which the complaining party may be contacted.
+    5.  A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+    6.  A statement that the information in the Notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+    
+    Upon receipt of a Notification of Copyright Infringement from a copyright owner that contains the required information described in 1 through 6 above, Charter Communications will notify the customer of the alleged infringement and remove or disable access to the material that is alleged to be infringing if hosted on a Charter domain.  No personal, customer information is shared with the copyright owner unless required by law.
+    
+    If Charter receives more than one Notice of Copyright Infringement on the customer's part, the customer may be deemed a 'repeat copyright infringer.'  Charter Communications reserves the right to terminate the accounts of 'repeat copyright infringers.'
+    
+    Procedure to File a DMCA Counter-Claim
+    
+    If you have received a notice of copyright infringement and you believe that a copyright holder has accused you in error, you may file a DMCA Counter-Claim with Charter Communications' designated agent. 
+    
+    **To be effective, a Counter-Claim must be a written communication provided to Charter Communications' designated agent and must include the following information:**
+    
+    1.  A physical or electronic signature of the subscriber.
+    2.  Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
+    3.  A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+    4.  The subscriber's name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber's address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification or an agent of such person.
+    
+    Upon receipt of a DMCA Counter-Claim, Charter Communications will provide the complaining party with a copy of the DMCA Counter-Claim.  When Charter receives a Counter-Claim that meets the requirements of the DMCA, Charter will process the Counter-Claim in accordance with the requirements of the DMCA .
+    
+    **NOTE** :  The information on this page is provided to you for informational purpose only, and is not intended as legal advice.  If you believe you rights under United States copyright law have been infringed, you should consult with you attorney.
+    
+    *   Terms of Service/Policies
+    
+    Price Guarantee Service Agreement Details
+    
+    *   $29.98 (mo 1-12) / $39.98 (mo 13-24) Price Guarantee Package
+    *   $34.99 Price Guarantee Package
+    *   $34.99 Price Guarantee Package (Preview)
+    *   $39.98 (mo 1-12) / $49.98 (mo 13-24) Price Guarantee Package
+    *   $39.99 Price Guarantee Package
+    *   $44.98 (mo 1-12) / $54.98 (mo 13-24) Price Guarantee Package
+    *   $59.98 Price Guarantee Package
+    *   $59.98 (mo 1-12) / $99.98 (mo 13-24) Price Guarantee Package
+    *   $64.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
+    *   $64.98 Price Guarantee Package
+    *   $69.98 (mo 1-12) / $89.98 (mo 13-24) Price Guarantee Package
+    *   $79.98 Price Guarantee Package
+    *   $79.98 (mo 1-12) / $89.98 (mo 13-24) Price Guarantee Package
+    *   $89.97 Price Guarantee Package
+    *   $89.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
+    *   $89.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
+    *   $89.98 Price Guarantee Bundle Package
+    *   $94.97 Price Guarantee Package
+    *   $99.97 (mo 1-12) / $109.97 (mo 13-24) Price Guarantee Package
+    *   $99.97 (mo 1-12) / $119.97 (mo 13-24) Price Guarantee Package
+    *   $114.97 Price Guarantee Package
+    *   $114.97 Price Guarantee Package (Preview)
+    *   $124.97 Price Guarantee Package
+    *   $124.98 Price Guarantee Bundle Package
+    *   $139.97 Price Guarantee Package
+    *   $154.97 Price Guarantee Package
+    *   $224.97 Price Guarantee Package
+    *   $29.99 Price Guarantee Package
+    *   $79.98 Price Guarantee Package (includes Digital View)
+    *   $109.97 Price Guarantee Package
+    *   $118.97 Price Guarantee Package
+    *   $119.97 Price Guarantee Package
+    *   $119.98 Price Guarantee Package
+    *   $133.97 Price Guarantee Package
+    *   $144.97 Price Guarantee Package
+    *   $149.97 Price Guarantee Package
+    *   $179.97 Price Guarantee Package
+    *   $189.97 Price Guarantee Package
+    *   $239.96 Price Guarantee Package
+    
+    *   Terms of Service/Policies
+    
+    Complaint Procedures for Michigan
+    
+    Charter maintains offices and trained maintenance staff to be promptly available to Customers upon request. Our toll-free customer service number is 888-438-2427. Technical personnel will be dispatched as warranted. Charter strives to resolve any complaints concerning its Service as expeditiously as possible. Should a Customer have any unresolved complaint regarding quality of Service, Equipment malfunctions, or similar matters, the Customer should contact us at the local office identified on the enclosed statement. If a complaint remains unresolved, the Customer may write a brief explanation of the complaint and actions taken, and bring them to the attention of the corporate office by mailing to Charter, Attention: Customer Complaint, 941 Charter Commons Drive, Town and Country, MO 63017. If a customer has attempted to resolve the dispute through the processes outlined above, the customer may file a complaint with the Michigan Public Service Commission. The Commission's toll-free customer service number is 1-866-552-7725 and the Public Service Commission website address is: www.michigan.gov/mpsc. In addition, your local franchise authority contact information is listed on your monthly statement.
+    
+    *   Terms of Service/Policies
+    
+    Important Information about Charter Telephone 911 Services &. Battery Back-up
+    
+    To help you quickly respond to emergencies, Charter provides emergency 911 services much like traditional telephone companies. Should you ever need to access emergency services – fire, police, or ambulance – just dial the familiar digits "**9-1-1**," using your **Charter Telephone** Service. Your call will be routed directly to the nearest public-safety operator, who will dispatch the appropriate services. With Enhanced 911, emergency services will be able to quickly find you – your telephone number and address are electronically routed to the operator the moment your call goes through.
+    
+    **Charter Telephone** provides your home with telephone service using a Multimedia Terminal Adaptor (MTA), or a telephone modem, that requires electrical power in your home. As is the case with cordless phones, your **Charter Telephone** equipment will not work in the event of a power outage, and you will not be able to make or receive calls, including 911 calls, unless at the time of ordering service you chose to have a battery-slotted MTA installed and have purchased and installed a battery into the appropriate slot in the MTA. In a power outage, a cordless telephone, and other equipment connected to the telephone line that requires electricity, such as telecommunications devices used to assist with disabilities, will not work unless they have a battery that allows them to function for a period of time without electricity to your residence.  You are responsible for providing and installing batteries for your cordless telephone and other telecommunications devices and to ensure that they operate during a power outage.
+    
+    You are also responsible for the purchase of the MTA backup battery for which you will be assessed a one-time charge at the time of order entry.  If you would like to order an initial backup battery or extra backup batteries, or if you would like to upgrade your MTA to a model that includes a slot for a backup battery, you should contact **Charter Customer Care** at **1-888-438-2427**. 
+    
+    The backup battery is designed only to power your MTA to enable calling, including 911 calling, for up to eight hours of standby time and approximately five hours of talk time, in the event of a power outage.
+    
+    You are also responsible for monitoring the status of the back-up battery and for ensuring that the battery is charging normally.  Please note the following battery status light conditions after the unit has been connected and powered:
+    
+    *   If the status light is green and flashing, this denotes that the installed battery is taking a charge. This is the unit's normal operating mode upon being newly installed.
+    *   A steady green light represents a fully charged battery. this typically takes a few hours after initial power-up.
+    *   Amber light signifies that the battery is discharging or not able to charge.  If the unit displays an amber light, the battery should be replaced.
+    
+    The lithium-ion backup battery  generally provides 6 to 10 years of service life.  The back-up battery can safely be stored within the following temperature range: °F -4 to 140/(°C -20 to 60).  However it is important to note that storage of back-up batteries above 77°F (25°C) will significantly reduce life of the battery and is not recommended.
+    
+    Whenever commercial power or its equivalent is required to operate services of facilities provided by the Company at the customer's premises, the customer shall:  furnish such power which shall be suitable for the purpose;  provide and maintain all necessary power wiring and power outlets in a suitable location and in a safe fashion. and allow the Company access to the power supply, if necessary. In the event of a power failure, no allowance is made for interruption of service and the Company shall not be held liable for such an interruption of service.  Nor shall the company be liable for any property damage or personal injury, or any other alleged damage or injury, caused by any customer-provided power supply, wiring, or power outlet.
+    
+    *   Terms of Service/Policies
+    
+    All Customers
+    
+    CHARTER COMMUNICATIONS TERMS AND CONDITIONS OF RESIDENTIAL SERVICE ("AGREEMENT")
+    
+    Following are the terms and conditions that govern the relationship between you ("you," "your," or "customer") and the subsidiary of Charter Communications® that operates the cable system in your area ("Charter," "we," "us," or "our") regarding your cable service ("Video Service"). If Charter provides Charter Telephone® service ("Telephone") in your area, Telephone will be provided through the Charter telephone affiliate servicing your area, and you will be bound by that affiliate's tariff on file with the State telephone regulatory authority and/or the tariffs or other terms of service located on Charter's website at www.charter.com. If you receive Charter High-Speed® Internet service ("HSI"), you will also be bound by the Charter High Speed Internet Subscriber Agreement and Acceptable Use Policy, both located at www.charter.com. Each of the Video Service, Telephone and HSI are a "Service" and collectively the "Services". The Services are also subject to the Annual Notice that you will receive each year, which contains, among other things, Charter's Privacy Policy.
+    
+    This is an important contract between you and Charter. Please retain this and all accompanying documents referred to herein or regarding your Services with your important papers. Your signature on the work order presented to you upon installation of Video Service and/or your continued use of Video Service are evidence of your agreement to the terms and conditions set forth herein. We may change our prices, fees, the Services and/or the terms and conditions of this Agreement, or any other customer agreement in the future, and we will provide you advanced notice of any such changes. Your continued use of the Services more than 30 days after notice of the change, shall be considered your acknowledgement and acceptance of the changes. The current version of this Agreement and all documents referred to herein may always be found at www.charter.com. You may not modify this Agreement by making any typed, handwritten, or any other changes to it for any purpose. For purposes of this Agreement, "affiliate" means any subsidiary with Charter Communications, Inc.
+    
+    Unless you have entered into a Term Contract (term defined below), you have subscribed to Service to be provided on a month-to-month basis. PURSUANT TO SUCH MONTH-TO-MONTH SERVICE RELATIONSHIP, CHARTER WILL CONTINUE TO PROVIDE YOU AND YOU WILL BE RESPONSIBLE FOR THE SERVICE(S) TO WHICH YOU HAVE SUBSCRIBED, IN EACH SUCCESSIVE MONTH UNTIL THIS AGREEMENT IS TERMINATED IN ACCORDANCE WITH ITS TERMS.
+    
+    If you are a customer of commercial services, sold under the Charter Business® brand, this Agreement does NOT apply to you.
+    
+    CHARGES AND BILLING
+    
+    You agree to pay all charges associated with Service, including, but not limited to, installation charges, disconnect charges, monthly service charges, equipment charges, service call charges, applicable federal, state, and local taxes and any fees or payment obligations imposed or permitted by governmental or quasi-governmental bodies for the sale, installation, use, or provision of Service. You warrant that you owe no monies to Charter from prior accounts with Charter. In the event that Charter finds that you owe any amounts from an undisclosed prior account, Charter may apply any funds received from you to such prior account, and suspend or terminate Service until all amounts owed are paid in full. You agree to pay any regulatory recovery fees for municipal, state and federal government fees, assessments or payment obligations imposed or permitted.
+    
+    You are responsible for paying any government imposed fees and taxes, including franchise fees. Charter will review on a quarterly and annual basis the amount it collects in franchise fees and taxes and start refunding to current subscribers franchise fees and taxes it may have collected in excess of sums due to governmental authorities within 15 months of the end of each calendar year. In some cases, you may be billed for franchise fees that relate to time periods before you began receiving service. Charter will not bill you for these past franchise fees more than 4 years after the year they are incurred by Charter. Franchise fees resulting from an audit by your franchising authority are incurred at the time those fees are assessed.
+    
+    Video price information for your community can be found on the current rate card for the cable television system in your area.
+    
+    Term Contracts. If you have completed a separate service agreement with Charter in which you commit to subscribe to any Service for a minimum term ("Term Contract"), your price and special terms for such Service is as specified in such contract. Refer to www.charter.com/visitors/policies for details.
+    
+    30 Day Guarantee. Charter may offer a limited 30-day money-back guarantee in certain circumstances. Refer to www.charter.com/visitors/policies for details.
+    
+    You authorize us to make inquiries and to receive information about your credit, to retain this information in your account, and to disclose this information to third parties for reasonable business purposes.
+    
+    Billing Procedure. Unless you have signed a Term Contract, Service is provided to you on a month-to-month basis. You will be billed monthly, in advance, for recurring service charges, equipment charges, taxes and fees. In addition, you must pay, on or before the day we install Service, the first month's service charges, equipment charges, any pre-payments or deposits, and any installation charges. You may be billed for some programming after it has been provided to you. this may include, but is not limited to charges for on-demand or pay-per-view movies or events. Your first bill may include pro-rated charges for Service you have received. If you make partial payment of any bill, we will apply that payment to the outstanding charges in the amounts and proportions that we determine. However, we do not waive our rights to collect the full balance owed to us by accepting partial payment. Subject to applicable law, if you intend to dispute a charge or request a billing credit, you must contact us within sixty (60) days of the date on the bill. You waive any disputes or credits that you do not report within sixty (60) days.
+    
+    Failure to Pay. You may be billed late fees, charges and assessments related to late payments or non-payments if for any reason (a) Charter does not receive from you any required payment for Service by the payment due date or (b) you pay less than the full amount due for Service. We do not anticipate that you will fail to pay for Service on a timely basis, and we do not extend credit to customers. Any late fees, charges, and assessments due to late payment or nonpayment do not constitute interest, credit service charges, finance charges or penalties. A late fee is intended to be a reasonable advance estimate of costs to manage past due accounts and may be charged through the disconnection date (e.g., the following, if applicable, the additional expense associated with preparing additional bill statements, processing Customer's service records, mailing additional notices, tracking past due accounts, responding to inquiries regarding past due balances, making collection telephone calls, performing special procedures to process past due payments, generating work orders, performing necessary field work to collect past due accounts, etc.). The amount of any late fee and other separate or additional charges are set forth in current rate card for the cable television system in your area. Charter's late fee practices may be revised to comply with applicable federal, state or local laws, rules or regulations. If you fail to pay the full amount due for Service then Charter, at its sole discretion in accordance with applicable law, may also suspend or disconnect any or all other Services you receive. Should you wish to resume a Service after any suspension, we may require you to pay a reconnection fee. Should you wish to reinstate any or all Services after disconnection, we may require you to pay an installation fee and/or service activation fee. These fees are in addition to all past due charges and other fees. Reconnection of Service is subject to our credit policies, this Agreement and applicable law.
+    
+    3rd Party Charges. You acknowledge that you may incur charges for non-Charter services with third-party service providers that are separate from the amounts you are charged by Charter. These may include charges resulting from purchasing goods through your Video Service or otherwise. You are solely responsible for all charges payable to such third parties, including all applicable taxes. In addition, you are solely responsible for protecting the security of credit card and other personal information you provide to others in connection with such transactions.
+    
+    Payment by Credit or Debit Card, Check or Electronic Bill Pay. If you use a credit or debit card to pay for Service, use of the card is governed by the card issuer agreement for that card, and you must refer to that agreement for your rights and liabilities as a cardholder. If Charter does not receive payment from your credit or debit card issuer or its agents, you agree to pay all amounts due upon demand. If you make payment by check, you authorize Charter to collect such payment electronically. You may not amend or modify this Agreement with any restrictive endorsements (such as "paid in full"), releases, or other statements on or accompanying checks or other payments accepted by Charter. any such notations shall have no legal effect. If your card issuer or financial institution refuses payment for insufficient funds, closed or unauthorized accounts, or any other reason, you will be charged a insufficient fund charge (as set forth in the applicable Video Service rate card for the cable television system in your area) for each instance in which such payment is refused. You hereby authorize Charter to collect any declined amount and the insufficient funds charge(s) electronically from the subject account. In addition, your Service may be suspended. This fee is in addition to any charges your financial institution may assess. If initially rejected, Charter will make additional multiple attempts to execute the payment for up to thirty days following the initial refusal. If you sign up for electronic bill pay service, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all bill payments that you authorize using the electronic bill payment service, and you accept responsibility for all activities that occur through the use of your account or password. If you believe that your bill payment password or other means to access your account has been lost or stolen, you must notify us at once by calling your local office, during normal customer service hours.
+    
+    Deposit. We may require you to pay a refundable deposit when you activate Service or receive certain Equipment in connection with Service or if you fail to pay any amounts when they are due. If we disconnect your Service or are otherwise required under applicable law to refund the deposit, we shall return a sum equal to the amount you paid (without interest unless otherwise required by law) minus any amounts due on your account (including without limitation, any amounts owed for Services or for any Equipment that is damaged, altered, or not returned).
+    
+    CHANGES TO SERVICES
+    
+    Subject to applicable law, we have the right to change our Services, Equipment and rates or charges, at any time with or without notice, if you continue to receive Service after the change, it will constitute your acceptance of the change. We also may rearrange, delete, add to or otherwise change programming or features or offerings of Video Service. If we do give you notice, it may be provided on your monthly bill, as a bill insert, in a newspaper or through other means of communication permitted under applicable law.
+    
+    Parental control is available to block or restrict certain programming or channels. Information on how to enable this feature is available from Charter upon request and at www.charter.com.It is your sole responsibility to activate or otherwise enable this feature and to update settings if Charter rearranges, deletes, adds or changes programming.
+    
+    ACCESS TO PREMISES
+    
+    You agree to allow us and our agents to access or enter your property where Service or Equipment will be provided (the "Premises"), in order to install, configure, maintain, inspect, upgrade, replace and remove Service and/or Equipment, and you agree to provide our employees and agents a safe working environment. You warrant that you are the owner of the Premises or that if you are not the owner, you have the authority to give us access to the Premises and agree to indemnify us from all owner claims in connection with the installation and provision of Service. You agree to supply us or our agent, upon request, the owner's name, address and phone number and/or evidence that the owner has authorized you to grant access to us and our agents to the Premises. You authorize any other adult resident or adult guest at the Premises to grant us access to the Premises.
+    
+    EQUIPMENT
+    
+    Charter Equipment together with Customer Equipment is collectively referred to herein as "Equipment".
+    
+    Charter Equipment. You agree that all Charter Equipment belongs to us and will not be deemed fixtures to or in any way part of the Premises. Charter Equipment includes all new or reconditioned equipment installed, provided or leased to you by us, including but not limited to, cabling or wiring and related electronic devices, set top boxes, remotes, access cards, cable modems and any other hardware. You agree to use Charter Equipment only for Service pursuant to this Agreement and will not use Equipment or Service, directly or indirectly, for any unlawful purpose or in violation of any Charter policy. We may remove or change Charter Equipment at our discretion at any time Service is active or following the termination of your Service. You agree that our addition, removal, or change to Charter Equipment may interrupt Service. You may not sell, lease, abandon or give away Charter Equipment, or permit any other service provider to use Charter Equipment. Charter Equipment may only be used in the Premises. If you attempt to install or use Charter Equipment or Service at a location other than the Premises, Service may fail to function. At your request, we may relocate Charter Equipment within the Premises for an additional charge. You will not allow anyone other than Charter employees or agents to service Charter Equipment. You are directly responsible for loss, repair, replacement and other costs, damages, fees and/or unreturned equipment charges if you do not return Charter Equipment to us undamaged, reasonable wear and tear excepted.
+    
+    Customer Equipment. Customer Equipment consists of hardware or services that you elect to use and provide ("Customer Equipment") in connection with Services or Equipment. You agree to allow us and our agents the right to install hardware in Customer Equipment, send software downloads to Customer Equipment and install, configure, maintain, inspect or upgrade Customer Equipment to the extent necessary to provide Service. You warrant that you are either the owner of Customer Equipment or that you have the authority to give us access to Customer Equipment. Charter has no responsibility for the operation or support, maintenance or repair of any Customer Equipment.
+    
+    CHARTER DOES NOT WARRANT THAT CUSTOMER EQUIPMENT NOT MEETING MINIMUM TECHNICAL SPECIFICATIONS WILL ENABLE SUCCESSFUL INSTALLATION, ACCESS, OPERATION OR USE OF SERVICES. YOU ACKNOWLEDGE THAT ANY SUCH INSTALLATION, ACCESS, OPERATION, OR USE COULD CAUSE CUSTOMER EQUIPMENT TO FAIL TO OPERATE OR CAUSE DAMAGE TO CUSTOMER EQUIPMENT, YOU, YOUR PREMISES OR CHARTER EQUIPMENT. NEITHER CHARTER NOR ANY OF ITS AFFILIATES, SUPPLIERS OR AGENTS SHALL HAVE ANY LIABILITY WHATSOEVER FOR ANY SUCH FAILURE OR DAMAGE. YOUR USE OF CUSTOMER EQUIPMENT THAT DOES NOT MEET MINIMUM TECHNICAL SPECIFICATIONS MAY PREVENT PROVISION OF SERVICE.
+    
+    Unauthorized Attachments. You agree not to attach any unauthorized device to Equipment or Services. If you make any unauthorized connection to, tamper with or modify Equipment, Services or our cable system or receive services without authorization, we may terminate your Service, recover damages and/or pursue all remedies available under applicable law. You agree not to install anything to intercept or receive Services or to assist any person in intercepting or receiving our Services. You will not take action by attachment or otherwise to impair the integrity of our cable system, degrades signal quality or strength or create signal leakage.
+    
+    Unauthorized reception of Service may result in criminal fines and imprisonment.
+    
+    Inside Wiring. You may install inside wiring, such as additional cable wiring and outlets, provided it does not interfere with the normal operations of our network. If you have us install inside wiring, we will charge you for that service. We consider all inside wiring your property, or the property of whomever owns the Premises. Accordingly, you are responsible for the repair and maintenance of inside wiring. You may subscribe to a wire maintenance service from us, and we will charge you for that service. If you do not own the Premises, contact the owner about the repair or maintenance of inside wiring.
+    
+    USE OF SERVICES
+    
+    You agree that Service and Equipment will be used only for personal, residential, non-commercial purposes and will not be duplicated except in compliance with applicable law. You will not exhibit any programming (including PPV, VOD or digital music) in a commercial establishment or for commercial purposes, and if you fail to abide by this restriction we may terminate or suspend Service and you accept liability for all claims made as a result of such commercial exhibition. You will not resell or permit another to resell Service in whole or in part. Use of Equipment or Service for transmission, communications or storage of any information, data or material in violation of any regulation or law is prohibited. Charter has the sole right to determine what constitutes inappropriate use of Equipment and Service. Charter has no obligation to monitor content, however you agree that Charter has the right to monitor content and disclose any information necessary to comply with any law or regulation, to operate our Service properly or to protect us and our other customers.
+    
+    You have sole responsibility for ensuring that all users of Equipment and Services understand and comply with this Agreement and any applicable Charter policies. You agree to indemnify, defend and hold Charter and its affiliates, suppliers, and agents harmless from and against all claims, damages, expenses (including reasonable attorney fees), and other liability arising out of the use of Service, Equipment or the breach of this Agreement or any Charter policies by you or any other user of Services. You agree to comply with all end user license requirements relative to the Equipment.
+    
+    ASSIGNMENT
+    
+    This Agreement and Service furnished hereunder may not be assigned by you to any other person, successor tenant or occupant, or to any other address without the prior express authorization of Charter. You agree to notify us immediately of any changes of ownership or occupancy of the Premises. We may freely assign our rights and obligations under this Agreement with or without notice to you.
+    
+    TERMINATION
+    
+    Term. This Agreement will be in effect from the time that Service is activated until it is terminated as provided for by this Agreement.
+    
+    Your Termination Rights. Unless you have signed a Term Contract, you may terminate this Agreement for any reason at any time by notifying Charter in person at your local Charter office, the address of which is located on your statement, by sending a written notice to such address or by calling our customer service number located on your bill statement.
+    
+    Charter's Termination Rights. Under the conditions listed below, subject to applicable law, we reserve the right to act immediately and without notice to terminate or suspend Service. We may take these actions if we: (1) determine that use of Services does not comply with this Agreement or any of our policies, (2) determine that use of Services interferes with our ability to provide Service to you or others, (3) reasonably believe that use of the Services may violate any applicable laws, (4) determine that you have threatened, harassed or endangered the safety of our personnel or agents. Subject to applicable law or the terms of any agreements with governmental authorities, Charter shall bill your for all applicable fees and charges until this Agreement has terminated, Service has been disconnected, and/or all Charter Equipment has been returned (including continued charges for applicable Services through the later to occur of the termination or disconnection of Service or your return of Charter Equipment).
+    
+    Obligations upon Termination. Whether Service is terminated by you or Charter and subject to applicable law or the terms of any agreements with governmental authorities, Charter shall bill you for all applicable fees and charges until this Agreement has terminated, Service has been disconnected, and/or all Charter Equipment has been returned (including continued charges for applicable Services through the later to occur of the termination or disconnection of Service or your return of Charter Equipment).
+    
+    Upon termination of this Agreement you will: immediately cease all use of Service and Charter Equipment and pay in full all fees accrued for the Service through the termination date. Within ten (10) days of the termination date you will return all Charter Equipment to our local office in good working order, normal wear and tear excepted. If you fail to return any Charter Equipment, or Charter Equipment is damaged in addition to other rights it may have hereunder, Charter reserves the right to charge you an unreturned equipment fee, as set forth on the current rate card for the cable television system in your area, or if no such fee is specified, an amount equal to the replacement value of such equipment. Furthermore, Charter has the right to charge such rate card specified amount (or if and only to the limited extent applicable, the replacement value) to any payment card that Charter has on file for you in connection with such charges. Upon our request, you will permit us and our employees, agents, contractors, and representatives to access the Premises to disconnect Service.
+    
+    NO WARRANTY
+    
+    EQUIPMENT AND SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER CHARTER NOR ITS AFFILIATES, SUPPLIERS, EMPLOYEES, AGENTS OR CONTRACTORS, WARRANTS THAT CHARTER EQUIPMENT OR SERVICE WILL MEET YOUR REQUIREMENTS, PROVIDE UNINTERRUPTED USE, OR OPERATE AS REQUIRED. ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF PERFORMANCE, NON-INFRINGEMENT, TITLE, FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY, ARE HEREBY DISCLAIMED AND EXCLUDED UNLESS OTHERWISE PROHIBITED OR RESTRICTED BY APPLICABLE LAW.
+    
+    LIMITATION OF LIABILITY
+    
+    The limitations of liability set forth in this Section apply to any acts, omissions, and negligence of Charter and its third-party service providers, agents and suppliers (and their respective officers, employees, agents, contractors or representatives) which would otherwise give rise to a cause of action in contract, tort or under any other legal doctrine.
+    
+    EQUIPMENT. EXCEPT FOR WILLFUL MISCONDUCT, NEITHER CHARTER NOR ANY OF ITS AFFILIATES, SUPPLIERS, EMPLOYEES, AGENTS OR CONTRACTORS SHALL HAVE ANY LIABILITY WHATSOEVER FOR ANY DAMAGE, LOSS, OR DESTRUCTION TO CUSTOMER EQUIPMENT OR PREMISES WITH RESPECT TO ITS INSTALLATION, MAINTENANCE OR OTHERWISE RELATED TO THE PROVISION OF THE SERVICES. WITHOUT ABROGATING OR OTHERWISE LIMITING THE FOREGOING LIMITATION, IN THE EVENT OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT BY CHARTER, ITS SUPPLIERS, EMPLOYEES, AGENTS OR CONTRACTORS, WE MAY PAY AT OUR SOLE DISCRETION A MAXIMUM OF $500. THIS SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY RELATING TO SUCH ACTIVITY.YOU UNDERSTAND THAT CUSTOMER EQUIPMENT MAY NEED TO BE ACCESSED EITHER BY YOU OR BY US OR OUR AGENTS, IN CONNECTION WITH THE INSTALLATION OR REPAIR OF SERVICES. THIS MAY VOID WARRANTIES PROVIDED BY THE MANUFACTURER. NEITHER CHARTER NOR ANY OF ITS AFFILIATES, SUPPLIERS, OR AGENTS SHALL HAVE ANY LIABILITY WHATSOEVER AS THE RESULT OF THE VOIDING OF ANY SUCH WARRANTIES. YOU WAIVE ALL CLAIMS AGAINST CHARTER FOR INTERFERENCE, DISRUPTION, OR INCOMPATIBILITY BETWEEN CHARTER EQUIPMENT OR SERVICE AND ANY OTHER SERVICE, SYSTEMS, OR EQUIPMENT. IN THE EVENT OF SUCH INTERFERENCE, DISRUPTION, OR INCOMPATIBILITY, YOUR SOLE REMEDY SHALL BE TO TERMINATE SERVICE.
+    
+    FURTHERMORE, UNDER NO CIRCUMSTANCES SHALL CHARTER BE LIABLE TO CUSTOMER FOR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SERVICE OR ANY ACTS OR OMISSIONS ASSOCIATED THEREWITH, INCLUDING ANY ACTS OR OMISSIONS BY SUBCONTRACTORS OF CHARTER, OR RELATING TO ANY SERVICES FURNISHED, WHETHER SUCH CLAIM IS BASED ON BREACH OF WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY AND REGARDLESS OF THE CAUSES OF SUCH LOSS OR DAMAGES OR WHETHER ANY OTHER REMEDY PROVIDED HEREIN FAILS. CHARTER'S ENTIRE LIABILITY AND CUSTOMER'S EXCLUSIVE REMEDY WITH RESPECT TO THE USE OF THE SERVICES OR ANY BREACH BY CHARTER OF ANY OBLIGATION CHARTER MAY HAVE UNDER THESE TERMS AND CONDITIONS OF SERVICE OR APPLICABLE LAW, SHALL BE CUSTOMER'S ABILITY TO TERMINATE THE SERVICE OR TO OBTAIN THE REPLACEMENT OR REPAIR OF ANY DEFECTIVE EQUIPMENT PROVIDED BY CHARTER. IN NO EVENT SHALL CHARTER'S LIABILITY TO CUSTOMER FOR ANY CLAIM ARISING OUT OF THIS AGREEMENT EXCEED THE AMOUNT PAID BY CUSTOMER DURING THE PRECEDING THIRTY (30) DAY PERIOD.
+    
+    Disruption of Service. In no event shall Charter be liable for any failure or interruption of Service, including without limitation those failures and interruptions resulting in part or entirely from circumstances beyond our control. Subject to applicable law, credit with respect to your recurring monthly subscription fee may be given for qualifying Service outages.
+    
+    DISPUTES
+    
+    You hereby acknowledge and agree that Charter may elect to resolve all controversies, disputes or claims of any kind arising hereunder (whether raised by you or Charter) through binding arbitration.
+    
+    It is the intent of the parties hereto that the agreement to arbitrate disputes hereunder, shall be interpreted and applied broadly such that all reasonable doubts as to whether such dispute may be fairly submitted to arbitration, shall be decided in favor of arbitration. The parties' agreement to arbitrate includes, but is not limited to, all disputes arising from or relating to this Agreement and its formation, and any and all other agreements or matters arising between the parties (including all disputes regardless of the theory of liability).
+    
+    Any such arbitration (and in the alternative without limiting the foregoing, any and all suits) arising from or concerning this Agreement shall be filed and or otherwise handled and/or decided in the state in which the Services were rendered to you, and in no other place. You hereby irrevocably consent to the authority of the arbiter chosen by Charter or in the alternative, to the jurisdiction of such court or courts in the state in which Services were rendered to you, and agree to appear in any such action upon written notice thereof.
+    
+    In the event of litigation between the parties which is not referred to arbitration for any reason whatsoever, or in the event any court of competent jurisdiction refuses to compel arbitration of a dispute between the parties, then the parties: (i) agree to waive, to the fullest extent permitted by law, any right to trial by jury as (ii) agree to waiver any right to, or claim for, any punitive or exemplary damages against the other, and against any affiliates, owners, employees, or agents of the other. and (iii) agree that each party shall be limited in the recovery of any damages to recovery of the actual damages sustained by it. Notwithstanding the foregoing, if Charter is permitted to seek injunctive relief under this Agreement, Charter may, at its option, bring such action in the county in which the Services were rendered.
+    
+    PRIVACY AND SECURITY
+    
+    Charter will provide you with a copy of our customer privacy policy at the time we provide Service to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of our privacy notice by going to www.charter.com. You assume sole responsibility for all privacy, security and other risks associated with providing personally identifiable information to third parties via the Service. To the extent that Charter is expressly required to do so by applicable law, we will provide notice to you of a breach of the security of certain personally identifiable information about you. You agree that Charter may collect and disclose information concerning you and your use of Service in the manner and for the purposes set forth here and in our privacy policy. In order to protect the privacy of your account information, Charter may require that you use a security code or other method, in addition to the user name and password to confirm your identity when requesting or otherwise accessing account information or making changes to your Service through Charter's customer service representatives. You may also choose to designate an authorized user of your account (an "Authorized User"), who will be able to access your account information and make changes to your account. Once established, an Authorized User may be required to authenticate his/her identity in the same manner according to Charter's policies.
+    
+    GENERAL
+    
+    The Service shall only be provided to Customer at the address where Charter's installation is performed. Customer may not transfer Customer's rights or obligations to the Service to any successor tenant or occupant or to any other address without Charter's prior written consent.
+    
+    If any portion of this Agreement is held to be unenforceable, only the unenforceable portion shall be severed and rendered null and void, the Agreement shall otherwise remain in full and effect and be construed in accordance with applicable law as nearly as possible to reflect the original intentions of the parties. If Charter fails to insist upon or enforce strict performance of any provision of this Agreement, it does not thereby waive any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of this Agreement.
+    
+    Information for California Residents Only:
+    
+    Under California Civil Code Section 1789.3, California residents are entitled to the following specific consumer rights information:
+    
+    > (a) Contact Information. Customers can contact Charter at:  
+    > Charter Communications  
+    > Attn: Customer Care  
+    > 12405 Powerscourt Drive  
+    > St. Louis, Missouri 63131-3660  
+    > 1-888-GET-CHARTER  
+    >   
+    > (b) Complaints. California residents with complaints may also contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at: State of California, Department of Consumer Affairs, 1625 North Market Boulevard, Sacramento, CA 95834 or by telephone at: (916) 445-1254.  
+    >   
+    > (c) Charges. Charges to Customer imposed by Charter for use of the Service are as follows: Current rates for using the Service are in Charter's Pricing Schedule, which is provided to Customer with the installation kit, may be included in Charter's Services Guide and may be posted at Charter's website (www.Charter.com). Charter reserves the right to change fees, surcharges, and monthly fees or to institute new fees at any time, all pursuant to this Agreement.
+    
+    For information regarding notification of the sharing of certain personal information with third parties, under California Civil Code Sections 1798.82 – 1798.84 visit www.charter.com Your Privacy Rights.
+    
+    *   Terms of Service/Policies
+    
+    CHARTER COMMUNICATIONS NETWORK MANAGEMENT PRACTICES
+    
+    Charter's Acceptable Use Policy (the "AUP") and the practices outlined herein, describe how Charter monitors the overall traffic on its network as key segments approach peak utilization levels (described below). When congestion occurs Charter will temporarily manage usage activity to maintain quality of service for all customers and to enable all users to access a "fair share" of the network capacity.  Charter does not target specific protocols.  Charter's experience is that under these management techniques, incidents of noticeable congestion have been rare under normal operating conditions.
+    
+    Technical detail
+    
+    Charter's network software continuously examines aggregate traffic usage data for individual segments of the network.
+    
+    Each cable modem on Charter's network is connected to the CMTS through the ports on the CMTS. These ports can be either "downstream" ports or "upstream" ports (the term "port" also applies to virtual channels, also known as "bonded groups," in a DOCSIS 3.0 environment).  If overall usage of a CMTS upstream or downstream port reaches a near congestion threshold for a defined period of time, then Charter's software examines bandwidth usage data for subscribers in the affected network segment to determine which subscribers are using a disproportionate share of the bandwidth. If the software determines that one or subscribers have been the source of high volumes of network traffic over a particular time interval, traffic originating from those subscribers will be assigned a lower priority status temporarily.  If the affected network segment does not actually become congested, traffic assigned a lower priority status will not be delayed.  If such network segment becomes congested, lower priority traffic could be delayed compared to higher priority traffic.  The corresponding subscriber's traffic returns to normal priority status once his or her bandwidth usage drops below a set threshold over a particular time interval.
+    
+    Charter currently uses the following settings for congestion management:
+    
+    *   Upstream Port Utilization Threshold: average of 70% of the total aggregate bandwidth for the port
+    *   Downstream Port Utilization Threshold: average of 70% of the total aggregate bandwidth for the port
+    *   Port Utilization Duration: approximately 15 minutes
+    *   Subscriber Consumption Threshold: average of 70% or more of provisioned upstream or downstream bandwidth (Because provisioned bandwidth varies by account, users of higher speed tiers will have correspondingly higher User Consumption Thresholds)
+    *   Subscriber Consumption Duration: approximately 15 minutes
+    *   Release Criteria: consumption <. 50% of provisioned upstream or downstream bandwidth for approximately 15 minutes.  These release criteria are intended to minimize user Quality of Service oscillation, that is, a situation in which a particular user could cycle repeatedly between BE and PBE. In our experience, a user's traffic rarely remains in a managed state longer than the initial 15-minute period.
+    
+    These settings may change over time.
+    
+    Charter generally designates traffic as either "priority best effort" traffic or "best effort" traffic. Most modern cable modems attached to Charter's network include a "bootfile" which includes information about the subscriber's service account to ensure that the service functions properly.  This bootfile contains information that supports these different priorities for Internet traffic going to and from the cable modem.  Priority best effort is the normal priority.  If congestion management has been triggered and traffic to a particular modem has been designated best effort, traffic could be delayed compared to higher priority traffic.  CMTS ports have what is commonly called a "scheduler" that puts all the packets coming from or going to cable modems on that particular port in a queue and then handles them in turn. A certain number of packets can be processed by the scheduler in any given moment. for each time slot, priority best effort traffic will be given priority access to the available capacity, and best effort traffic will be processed on a space-available basis.  A rough analogy would be to busses that empty and fill up every two milliseconds. As empty busses arrive, the waiting packets fill up the "seats" on the bus. During non-congested periods, the bus will usually have several empty seats, but during congested periods, the bus will fill up and some packets may have to wait for the next bus. In congested periods, best effort packets might have to wait for the next bus if all seats are first filled by priority best effort packets.  This all takes place in two millisecond increments, so even if the packets miss 50 "busses," the delay only will be about one-tenth of a second.
+    
+    Congestion can occur in any IP network, and, when it does, packets can be affected, delayed, lost, or dropped. Because of this, IP applications and protocols have been designed to deal with delayed or dropped packets. 
+    
+    Typically, a user whose traffic is in a best effort state during actual congestion may find that a webpage loads sluggishly, a peer-to-peer upload takes somewhat longer to complete, or a VoIP call sounds choppy.  Of course, the same thing could happen to the customers on a port that is congested in the absence of any congestion management. the difference here is that the effects of any such delays are shifted toward those who have been placing the greatest burden on the network, instead of being distributed randomly among the users of that port without regard to their consumption levels.
+    
+    Charter's AUP prohibits certain misuse of the service and does not permit a customer to operate a web server, FTP server, file server or game server or to run any other server applications or to provide network or host services to others from a residential account.  Charter is currently retiring DOCSIS 1.0 modems because they are no longer compliant with our network specifications and network performance specifications, and may in the future retire other equipment that impairs the ability of our network to perform. 
+    
+    Our statements regarding CableCARD use as outlined in our Annual Notice describes Charter's support for CableCARD devices.
+    
+    Security
+    
+    Charter uses a number of different methods to help protect the security of our customers and network and the availability of our service.  We block the usage of certain ports that are associated with known vulnerabilities. restrict access to private, internal and management IP space. and take steps to limit the amount of unsolicited emails you receive at your Charter email address.  In addition, we look for devices that are scanning or attacking our network and, when they originate from our network, we contact our customers to help them secure their device but in some instances we may have to suspend or terminate their service.  To help prevent our network from being overwhelmed, we limit the frequency and volume of certain transactions, such as DHCP requests, email recipients and SMTP sessions.  We modify our security practices from time to time to adapt to new or changed security threats.  Finally, Charter customers that use the Charter Security Suite® can, for example, establish their own firewalls, scan to help identify and remove spyware and viruses, block harmful websites and implement parental controls.  For more information about the Charter Security Suite or to read our security educational materials, please visit www.charter.com/security.
+    
+    Charter provides a wide variety of Internet services with different speeds and features. Click here \[http://www.charter.com/\] for details and typical uses.  Actual uses will vary by customer.  Charter Internet is rated for the speeds indicated, but individual experiences may vary depending on factors such as source and route of traffic outside of our network and periods of peak usage of our network.  Charter is a volunteer currently participating in national performance tests sponsored by the Federal Communications Commission (FCC). In its 2011 report, the FCC reported that Charter's national average sustained upload and download performance exceeded advertised speed met advertised speeds over a 24-hour Monday-Sunday basis  
+    
+    and was greater than 95% of advertised speed during the "busy hour" between 7:00 p.m. and 11:00 p.m. on weeknights.  The FCC specifically tested selected downstream and upstream tiers, and recorded performance during the "busy hour" as shown in the table:
+    
+    Performance Characteristics
+    
+    Service
+    
+    Mean during  
+    Busy Hour
+    
+    Mean  
+    Latency during Busy Hour
+    
+    12 Mbps DS
+    
+    12.04 Mbps
+    
+    29.27 ms
+    
+    18 Mbps DS
+    
+    16.29 Mbps
+    
+    29.08 ms
+    
+    25 Mbps DS
+    
+    21.46 Mbps
+    
+    31.33 ms
+    
+    1 Mbps US
+    
+    1.09 Mbps
+    
+    2 Mbps US
+    
+    2.13 Mbps
+    
+    3 Mbps US
+    
+    3.22 Mbps
+    
+    Individual performance may vary.
+    
+    Like Charter's Internet services, Charter Phone service is based on internet protocol, but the provision of Charter Phone service should not have any discernible effect on your Internet services.  As Charter develops other Internet protocol services, Charter intends to manage them so that they should also have no discernible effect on your Internet services.  
+    
+    Commercial Terms
+    
+    Charter provides a wide variety of Internet services at different prices. Extras are also available for additional charges. Click here for details.
+    
+    Charter's AUP and the practices outlined herein describe certain usage limits, under which residential service usage for customers should not exceed a certain number of Gigabytes of data per month, depending on the service level.
+    
+    Sometimes Internet service, or a bundle including Internet service, is offered with a price guaranty for a term, and a prorated early termination fees will apply if the offer is terminated by customer before the end of the 24-month term.  The terms of service for each offer describe each early termination fee. Click here for current terms.
+    
+    Charter monitors network traffic patterns for business analysis and network planning.  Charter maintains records of the assignment of IP addresses to subscribers and a temporary record of recent traffic to assist with troubleshooting. Charter's Internet services employs technology to respond to subscribers who mistype or otherwise enter an invalid web address and directs the subscriber to a message page which suggests potential links that the user may have been looking for.  Unless required by valid legal process, Charter does not store other traffic records unique to a household or share them with any third-party. From time to time, Charter may provide our aggregated traffic analysis with outside technical consultants with the expertise to assist us with traffic analysis. As part of our Terms of Service, Charter reserves the right to monitor individual traffic.
+    
+    Redress Options
+    
+    Charter customers who have questions or concerns regarding our network management practice, planning, or traffic controls, should contact us at the number shown on your monthly bill.  If the question cannot be resolved by customer service representatives, the inquiries or complaints will be handled in accordance with our standard customer complaint practices.
+    
+    If you are an edge technology or service provider with questions or concerns, please contact us at is PriorityEscalationTeam@chartercom.com. Personnel with the appropriate knowledge to address such issues will seek to resolve your inquiries or complaints or escalate them for resolution.
+    
+    *   Terms of Service/Policies
+    
+    Rate Card Information
+    *   CT – Heritage Village
+    *   CT – Newtown
+    *   CT – Willimatic
+    *   CT – Winstead
+    *   MA – Auburn
+    *   MA – Bar, Berlin, Brook, Charl, Groton, Harv, Hubbard, Oak, Pep, Rut, Sut, Uxb
+    *   MA – Belchertown, Hadley
+    *   MA – Boylston
+    *   MA – Brimfield
+    *   MA – Chicopee
+    *   MA – Connecticut
+    *   MA – Douglas
+    *   MA – Dudley
+    *   MA – Dunstable, Millville, Wales
+    *   MA – East Longmeadow
+    *   MA – Easthampton
+    *   MA – Grafton
+    *   MA – Hampden
+    *   MA – Hinsdale, Lanesboro, West Stockbridge
+    *   MA – Holden
+    *   MA – Leicester
+    *   MA – Ludlow
+    *   MA – Millbury
+    *   MA – New Hampshire
+    *   MA – Northborough
+    *   MA – Northbridge
+    *   MA – Oxford
+    *   MA – Paxton
+    *   MA – Southampton
+    *   MA – Southborough
+    *   MA – Southbridge
+    *   MA – Spencer
+    *   MA – Sturbridge
+    *   MA – Upton
+    *   MA – Vermont
+    *   MA – Webster
+    *   MA – West Boylston
+    *   MA – West Brookfield
+    *   MA – Westborough
+    *   MA – Westport
+    *   MA – Wilbraham
+    *   MA – Worcester
+    *   NH – Brookline, Hollis
+    *   NY – Berlin, Petersburgh
+    *   NY – Chatham, Ghent, Canaan, Copake, Austerlitz, Ancram, Hillsdale, New Lebanon
+    *   NY – Plattsburgh
