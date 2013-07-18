@@ -72,7 +72,7 @@ Privacy Policy Changes eBags reserves the right to change, modify, add or remove
 
 Contacting eBags If you have further questions about eBags' Privacy Policy or comments on how we can improve the eBags shopping experience, please do not hesitate to email us at privacy@ebags.com.
 
-Need more help? You can refer to our Help Center or email one of our friendly Customer Help Specialists at help@ebags.com.
+Need more help? You can refer to our Help Center, email one of our friendly Customer Help Specialists at help@ebags.com or call 1-800-820-6126.
 
 You may also write to us at:  
 Privacy Manager  
