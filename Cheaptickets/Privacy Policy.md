@@ -1,6 +1,6 @@
 CheapTickets® Privacy Policy
 
-EffectiveApril 3, 2013
+Effective April 3, 2013
 
 Your privacy is very important to Trip Network, Inc. (d/b/a CheapTickets). This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services (“you”) on our Site (defined below), in telephone or e-mail communications, or in interviews, surveys, contests, promotions, raffles or sweepstakes.
 
