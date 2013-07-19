@@ -1,6 +1,24 @@
-MY ACCOUNT  |  HELP
+*   STORES &. EVENTS
+*    | 
+*   USD
+*    | 
+*   MY ACCOUNT
+*    | 
+*   MY BROWN BAG
 
-MY BROWN BAG
+*   DESIGNERS
+*   What's New
+*   WOMEN
+*   SHOES
+*   HANDBAGS
+*   JEWELRY &. ACCESSORIES
+*   BEAUTY
+*   MEN
+*   KIDS
+*   HOME
+*   GIFTS
+*   THE REGISTRY
+*   SALE
 
 Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Orders Shipping &. Delivery Returns Bloomingdale's Credit Card Loyallist Rewards Furniture &. Mattresses Products &. Pricing Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Friday: 9AM - 9PM, Saturday 9AM - 7PM, Sunday 11AM - 7PM Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
@@ -195,4 +213,36 @@ Does this answer your question? Please tell us how we can make this answer more 
 
 **Contact Us** for assistance with your shopping experience and other answers.
 
-  International Shopping    Site Map    Shipping Policy    Product Recall    Terms of Use    Privacy Practices    CA Privacy Rights      |     visually impaired customers essential accessibility™ © 2013 Bloomingdale's By Mail Ltd., dba bloomingdales.com. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
+*   CUSTOMER SERVICE
+    *   Shipping Policy
+    *   Returns &. Exchanges
+    *   Product Recall
+*   MY ACCOUNT
+    *   Order Status
+    *   My Loyallist
+    *   My Profile
+*   CREDIT SERVICES
+    *   Pay Bill Online
+    *   Manage My Credit Account
+    *   Apply for a Credit Card
+*   COMPANY
+    *   About Us
+    *   b.Cause
+    *   Careers
+*   WAYS TO SHOP
+    *   Online &. Mobile
+    *   Stores
+    *   Outlets
+
+ 
+
+*   Terms of Use/
+*   Privacy/
+*   CA Privacy Rights/
+*   CA Transparency in Supply Chains Act/
+*   Visually Impaired Customers/
+
+*   Essential Accessibility
+
+  
+© 2013 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
