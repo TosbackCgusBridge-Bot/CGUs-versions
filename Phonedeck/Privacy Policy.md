@@ -1,8 +1,7 @@
 Here's how you stay in touch. Get Phonedeck now - download the free app!
 
 _Don't know which version to download? Just scan this QR  
-image with your phone and we will guide you.  
-_
+image with your phone and we will guide you._
 
 *   Features
 *   FAQ
