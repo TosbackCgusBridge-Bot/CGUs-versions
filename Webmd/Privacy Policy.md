@@ -38,9 +38,10 @@ Skip to content Enter Search Keywords. Use the arrow keys to navigate suggestion
     
     Resources
     
-    *   **WebMD Expert Blogs:** Read expert views and commentary on popular health topics.
-    *   **WebMD Communities:** Connect with people like you, and get expert guidance on living a healthy life.
-    *   **WebMD Physician Directory:** Find a doctor in your area.
+    *   **Expert Blogs:** Read expert views and commentary on popular health topics.
+    *   **Communities:** Connect with people like you, and get expert guidance on living a healthy life.
+    *   **Insurance Guide:** Get ready for changes to your health care coverage.
+    *   **Physician Directory:** Find a doctor in your area.
     
     WebMD Pain Coach
     
