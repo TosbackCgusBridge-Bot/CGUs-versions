@@ -134,7 +134,7 @@ Téléphone : 01.46.23.30.00
 L'hébergement est assuré par PagesJaunes.  
 Directeur de rédaction et de publication :
 
-Jean-Pierre Remy
+Christophe Pingard
 
 *   Données personnelles |
 *   Protection de la vie privée |
