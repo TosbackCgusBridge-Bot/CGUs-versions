@@ -62,6 +62,8 @@ Collection and use of data is subject to the privacy policies of those third par
 
 To stop collection of information in connection with the use of our products and services, you will need to stop using them. To stop information collection for purposes of relevant online advertising, click here. To stop collection of browsing information via supporting web browsers, click here.  At this time, there is no industry solution to opt-out of receiving relevant mobile advertising.
 
+To opt-out of WhitePages mobile app marketing program tracking, click here.
+
 **6\. What about interest-based advertising?**
 
 We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, click here.
