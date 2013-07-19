@@ -182,11 +182,13 @@ For international users, please note that it may be necessary to transfer your i
 If you have any questions or comments concerning our Privacy Policy, please Contact Us.
 
 *   Share
-    *   16Facebook
-    *   1Twitter
+    *   Facebook
+    *   Twitter
     *   Google+
     *   Email
 *   Comment
+
+Support comes from:
 
 *   NPR Home
 *   News
@@ -205,6 +207,10 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
 
 *   Logout
 *   Sign In / Register
+
+NPR thanks our sponsors
+
+Become an NPR sponsor
 
 Support NPR NPR Shop
 
