@@ -80,11 +80,15 @@ In order to use our forums, you must first complete the registration form and cr
 
 Orders
 
-If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fulfil your order. If we have trouble processing an order, we will use this information to contact you. We may also use this information to contact you about the products or services on our site which you have purchased or which may be related including information related to renewing your support subscription.
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fulfill your order. If we have trouble processing an order, we will use this information to contact you. We may also use this information to contact you about the products or services on our site which you have purchased or which may be related including information related to renewing your support subscription.
 
 Surveys or Contests
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to better understand our customers and to tailor any information that we may send you relating to our product or services. By participating in a contest, you give us permission to publicize your name and company affiliation solely in connection with the contest.
+
+Event Video
+
+Attendees at Sencha hosted or sponsored events authorize us and our assigns to use and distribute video captured at these events for promotional and/or other purposes, including name, company, and transcribed content, in whole or in part.
 
 Communications from the Site Special Offers and Updates
 
