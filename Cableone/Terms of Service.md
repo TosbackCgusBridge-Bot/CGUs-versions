@@ -2,7 +2,6 @@
     *   My Account
     *   My Bill
     *   My Mail
-    *   My Spam
     *   My Phone
     *   My Domain
 
