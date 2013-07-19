@@ -8,10 +8,8 @@ Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Co
 
 PRIVACY POLICY
 
-**Last Updated: March 20, 2013**
-
-_(Click here to see the old Juno Privacy Policy._)
-
+**Last Updated: March 20, 2013**  
+  
 **Introduction: What This Privacy Policy Covers**  
 
 > Juno Online Services, Inc. ("**Juno**", "**we**" or "**our**") is committed to protecting your privacy. This privacy policy ("**Policy**") applies to Juno Internet and mobile websites (the "**Sites**") and Juno services (the "**Services**"). The purpose of this Policy is to disclose Juno's practices related to information we collect from you and have about you. Please read this Policy carefully. You may select any of the links below or simply scroll down the page to read each section.
