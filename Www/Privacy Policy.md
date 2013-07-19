@@ -167,13 +167,13 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @JEarnest44
         *   @JesseCLee44
         *   @JoiningForces
-        *   @JonCarson44
         *   @JSmith44
         *   @KS44
         *   @LaCasaBlanca
         *   @LetsMove  
         *   @Macon44
         *   @NSCPress
+        *   @PAniskoff44
         *   @PeteSouza
         *   @Pfeiffer44
         *   @PressSec
@@ -271,6 +271,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: July 3, 2013
+Updated: July 18, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
