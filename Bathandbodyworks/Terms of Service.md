@@ -71,6 +71,7 @@ Welcome! **(Log in)**
         *   3-Wick Candles
         *   Small Candles
         *   Mini Candles
+        *   Mason Jar Candles
         *   Candle Accessories
         *   View All Candles
         
