@@ -35,7 +35,7 @@ In addition to the cookies Microsoft may set when you visit our web sites, third
     
     1.  Click "Tools" and then select "Internet Options"
     2.  Click the "Privacy" tab at the top of the window
-    3.  Move the slider up or down to select the types of cookies you wish to block
+    3.  Move the slider up or down to indicate the rules you want to apply for blocking cookies 
     
     Instructions for blocking cookies in other browsers are available at http://www.allaboutcookies.org/manage-cookies/.
     
@@ -54,16 +54,16 @@ In addition to the cookies Microsoft may set when you visit our web sites, third
     
     Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
     
-*   **Browser Controls for “Do Not Track” and Tracking Protection.** Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
+*   **Browser Controls for “Do Not Track” and Tracking Protection.** Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
     
-    Internet Explorer 9 has a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit. For more information about Tracking Protection Lists and how to find them, please see the Internet Explorer privacy statement or Internet Explorer Help.
+    Internet Explorer 9 and 10 have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit. Additionally, in Internet Explorer 10 you may switch DNT "off" or "on" independently, if you'd like.  For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer privacy statement or Internet Explorer Help.
     
 *   **Advertising Opt-Out Controls.** Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use. Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft). These pages include:
     *   Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/
     *   Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt\_out.asp
     *   In Europe, you may also visit Your Online Choices: http://www.youronlinechoices.com/
 
-Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/. Please note that opting out does not mean that you will stop getting ads or see fewer ads. however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from being collected.
+Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/. Please note that opting out does not mean that you will stop getting ads or see fewer ads. however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from going to our servers, but it does stop our creation or updating of profiles that might be used for behavioral advertising.
 
 **Our Use of Web Beacons**
 
@@ -73,11 +73,13 @@ We may also work with other companies that advertise on Microsoft sites to place
 
 Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations. These web beacons may allow the third parties to set or read a cookie on your computer. We prohibit third parties from using web beacons on our sites to collect or access your personal information. Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:
 
-*   Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
+*    Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
 *   Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
 *   Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
 *   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
 *   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+
+  
 
 **Other Similar Technologies**
 
