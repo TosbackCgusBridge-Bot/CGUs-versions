@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: June 17, 2013**
+**Last Revised: July 19, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -81,7 +81,7 @@ _Security_ _._ You agree not to circumvent, disable or otherwise interfere with 
 
 ****7**. Go Daddy'S USE OF USER CONTENT**
 
-The provisions in this Section 6 apply specifically to Go Daddy’s use of User Content posted to Go Daddy’s corporate websites (i.e., those sites which Go Daddy directly controls or maintains).  The applicable provisions are not intended to and do not have the effect of transferring any ownership or licensed rights (including intellectual property rights) you may have in content posted to your hosted websites.
+The provisions in this Section 7 apply specifically to Go Daddy’s use of User Content posted to Go Daddy’s corporate websites (i.e., those sites which Go Daddy directly controls or maintains).  The applicable provisions are not intended to and do not have the effect of transferring any ownership or licensed rights (including intellectual property rights) you may have in content posted to your hosted websites.
 
 _Generally_.  You shall be solely responsible for any and all of your User Content or User Content that is submitted through your Account, and the consequences of, and requirements for, distributing it.
 
@@ -106,17 +106,12 @@ The Support Community is operated and controlled by Go Daddy and is geared towar
 
 _Rules of Conduct_.  In addition to the General Rules of Conduct herein that are applicable to all products and services, the following rules of conduct also apply to your use of the Support Community. You acknowledge and agree that:
 
-            i.          You will not impersonate any other person or entity, or submit content on behalf of any other person or entity without their express prior written consent;
-
-            ii.          You will not submit content in exchange for payment or consideration received from any third party;
-
-            iii.         You will treat your access to the forums and other users with respect;
-
-            iv.         You will not submit content that provides any non-public information about another user, Go Daddy or any of Go Daddy’s employees or customers (including the names and contact information);
-
-            v.         You will not submit content or links to content that is harassing, defamatory, abusive, pornographic, X-rated, obscene, contains malware, spam, phishing or is otherwise objectionable as determined by us in our sole and absolute discretion. and
-
-            vi.         You will not submit content that contains third party advertising, spam, chain letters or any other solicitation, including solicitation of lawsuits (links that connect to commercial websites will not be considered unauthorized solicitations unless the link or website content appears to be intended as a means of solicitation or part of an “affiliate” program, as determined by us in our sole and absolute discretion).
+1.  You will not impersonate any other person or entity, or submit content on behalf of any other person or entity without their express prior written consent;
+2.  You will not submit content in exchange for payment or consideration received from any third party;
+3.  You will treat your access to the forums and other users with respect;
+4.  You will not submit content that provides any non-public information about another user, Go Daddy or any of Go Daddy’s employees or customers (including the names and contact information);
+5.  You will not submit content or links to content that is harassing, defamatory, abusive, pornographic, X-rated, obscene, contains malware, spam, phishing or is otherwise objectionable as determined by us in our sole and absolute discretion. and
+6.  You will not submit content that contains third party advertising, spam, chain letters or any other solicitation, including solicitation of lawsuits (links that connect to commercial websites will not be considered unauthorized solicitations unless the link or website content appears to be intended as a means of solicitation or part of an “affiliate” program, as determined by us in our sole and absolute discretion).
 
 ****9**. MONITORING OF CONTENT. ACCOUNT TERMINATION POLICY**
 
@@ -765,5 +760,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 6/17/2013  
+Revised: 7/19/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
