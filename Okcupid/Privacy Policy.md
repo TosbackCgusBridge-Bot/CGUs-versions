@@ -219,16 +219,6 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 back to top
 
-Your promotion summary
-
-*   Visitors
-*   Messages
-*   Ratings
-
-Okay
-
-close Oops! Oops! Something went wrong
-
 Mobile OkCupid
 
 *   Get our iPhone app
