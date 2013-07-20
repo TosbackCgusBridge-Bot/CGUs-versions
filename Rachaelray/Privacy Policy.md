@@ -4,7 +4,6 @@ Rachael Ray
     *   Food Home
     *   Blog
     *   Food Articles
-    *   4th of July
     *   Recipes On the Go!
     *   Recipe Search
     *   Pinterest Pins
