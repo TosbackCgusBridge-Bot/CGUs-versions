@@ -71,6 +71,8 @@ Job Seeker Services
 *   Restaurant Jobs
 *   Healthcare Jobs
 *   Teacher Jobs
+*   Oil Jobs
+*   Mining Jobs
 
 Employers
 
