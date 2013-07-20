@@ -178,6 +178,7 @@ Welcome! **(Log in)**
         *   Men's
         *   Travel
         *   Beauty Accessories
+        *   Spa Accessories
 *   *   Features
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
