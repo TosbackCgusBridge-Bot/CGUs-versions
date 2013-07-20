@@ -776,11 +776,16 @@ The Charter Residential 30 Day Money Back Guarantee applies to Charter products 
 *   Local and state taxes will apply. Franchise fees and other fees or charges may apply. The Money Back Guarantee does not include and the customer is responsible for all such taxes, franchise fees and other fees incurred in connection with receipt of the service.
 *   The Money Back Guarantee also does not apply to one-time charges such as Pay-Per-View and On Demand TV charges and/or directory assistance, operator assistance, and long distance (domestic or internal) call phone charges. Customer is responsible for paying all such charges.
 
-*   Terms of Service/Policies
+Use the links below to view telephone service condition and rate information by Charter company.
 
-Use the links below to view telephone tariff information for your state.
+Charter Advanced Services Companies
 
-Federal Interstate Services Access Tariff
+*   Charter Advanced Services Terms and Conditions
+*   Charter Advanced Services Price Guide
+
+Charter Fiberlink Companies
+
+Federal Interstate Services
 
 *   Federal Interstate Access Services Tariff
 
@@ -832,18 +837,18 @@ Massachusetts
 
 Michigan
 
-Local and Intrastate Interexchange Tariff
+> Local and Intrastate Interexchange Tariff
 
 *   Promotions
 *   Charter Fiberlink - Michigan, LLC Local Exchange Services Tariff
 *   Charter Fiberlink CC VIII, LLC Local Exchange Services Tariff
 
-Intrastate Access Tariff
+> Intrastate Access Tariff
 
 *   Charter Fiberlink - Michigan, LLC Intrastate Access Services Tariff
 *   Charter Fiberlink CC VIII, LLC Intrastate Access Services Tariff
 
-Local and Interexchange Service, Price and Terms Guide
+> Local and Interexchange Service, Price and Terms Guide
 
 *   Fiberlink-Michigan, LLC and Charter Fiberlink CC VIII, LLC Service, Price and Terms Guide
 
