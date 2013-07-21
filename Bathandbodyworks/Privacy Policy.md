@@ -65,7 +65,7 @@ Welcome! **(Log in)**
         *   Select Candles: 50% Off
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
-        *   Room Sprays: $4
+        *   Mason Jar Candles: 2 for $15
     *   Candles
         
         *   3-Wick Candles
