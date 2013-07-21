@@ -2,7 +2,7 @@ English
 
 *   Español
 
-Locations Support My Fedex Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
+Locations Support My FedEx Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
 Express Freight FedEx Express or FedEx Ground
 
 *   Create Shipment
@@ -47,7 +47,6 @@ Express Freight FedEx Express or FedEx Ground
 *   Obtain Proof of Delivery
 *   Track by TCN
 *   Access FedEx Tracking
-*   Customize your Delivery
 *   Access FedEx InSight
 *   Track Using FedEx Desktop
 
@@ -107,7 +106,7 @@ Air/Ocean Freight Forwarding FedEx Trade Networks
 *   Go to My Account
 *   WorldTariff
 *   Reference
-*   Product Database
+*   My Products
 
 Starting Point All the Basics
 
