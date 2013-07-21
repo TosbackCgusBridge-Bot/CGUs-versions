@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "As You Like It," at the Delacorte Theater in Central Park
+Search Help House hunting in ... Jamaica
 
-Also in Theater »
+Also in Real Estate »
 
-*   A slew of London revivals focuses on the idea of married people misbehaving
-*   In Performance: Christopher Denham
+*   Property prices jump in St. Petersburg
+*   Explore this three-bedroom property near the Blue Lagoon in Portland Parish
 
   
 
