@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Smurfs 2 Chase Smurfs 2 Chase
+Syfy Video Dropping Gummy Bears Dropping Gummy Bears
 
-Catch a sneak peek of Smurfs 2 during Joe Rogan Questions Everything July 31st at 10/9c
+It's all fun and games until someone gets splashed with a margarita. Highlight from Haven panel, Comic-Con 2013.
 
-Exclusive Interview with Joe Rogan Exclusive Interview with Joe Rogan
+Don't I Owe You a Hug? - Comic-Con 2013 Exclu ... Don't I Owe You a Hug? - Comic-Con 2013 Exclusive
 
-Joe Rogan reveals what to expect in his upcoming new Syfy show "Joe Rogan Questions Everything."
+Audience members asked questions and got exclusive hugs in return. Highlight from Haven panel, Comic-Con 2013.
 
-Monster Twist Monster Twist
+Don't I Owe You a Hug? Part 2 - Comic-Con 201 ... Don't I Owe You a Hug? Part 2 - Comic-Con 2013 Exclusive
 
-The competition takes a surprise turn and the contestants face a monstrous challenge with a twist!
+And the hugs just keep on comin'. Highlight from Haven panel, Comic-Con 2013.
 
-Make it Reign Make it Reign
+Ron Moore Revisiting Battlestar Galactica - C ... Ron Moore Revisiting Battlestar Galactica - Comic-Con 2013 Exclusive
 
-In the main challenge, the contestants must create a Goblin king. The foundation challenge involves creating an original queen character that represents them as an artist.
+Ron Moore reflects on what it meant to sit down with his son and rewatch Battlestar. Highlight from this year's Helix panel at Comic-Con 2013.
 
 *   FAQ
 *   Feedback
