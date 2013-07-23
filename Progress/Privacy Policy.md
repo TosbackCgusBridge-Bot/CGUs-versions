@@ -12,6 +12,7 @@
 *   Disclaimer
 *   Privacy policy
 *   Audi collection store
+*   Interest based ads
 
 Search here. Find anything.
 
@@ -68,6 +69,7 @@ Explore Audi
 *   Disclaimer
 *   Privacy policy
 *   Audi collection store
+*   Interest based ads
 
 Audi of America. All rights reserved.
 
