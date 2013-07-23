@@ -174,6 +174,7 @@ TDD/TTY: 800-695-1788
 *   View us on YouTube
 *   Find us on Pinterest
 *   Follow us on Instagram
+*   Follow us on Twitter
 *   Read our Blog
 
 © 2013 The Buckle Inc.  
