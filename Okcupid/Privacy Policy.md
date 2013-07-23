@@ -221,7 +221,7 @@ back to top
 
 Mobile OkCupid
 
-*   Get our iPhone app
+*   Get our iPhone &. iPad app
 *   Get our Android app
 
 Or visit us in your mobile browser.
