@@ -1,11 +1,7 @@
 Apps Games News Features Answers
 
+*   Search
 *   Login
-
-You are here:
-
-*   Home >.
-    *   **Legal information**
 
 Legal **information**
 
