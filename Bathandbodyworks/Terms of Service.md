@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
+        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Select Body Care: $5
         *   Online Only Body Care: $5 &. Up
         *   Signature: Buy 3 Get 2 Free
-        *   Body Care: Up to 50% Off
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
+        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Select Candles: 50% Off
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
-        *   Mason Jar Candles: 2 for $15
     *   Candles
         
         *   3-Wick Candles
@@ -99,6 +99,7 @@ Welcome! **(Log in)**
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
+        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Select Soaps: $3
         *   Hand Soap: 6 for $20
@@ -133,11 +134,11 @@ Welcome! **(Log in)**
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Features
+        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Shower Smoothies: $10
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
-        *   Lip: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -178,6 +179,7 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
 *   *   Features
+        *   $20 VIP, Over $80 Value!
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
         *   Online Exclusives
@@ -206,6 +208,7 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
+        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Body Care: $5 &. Up
         *   Wallflowers Refills: $6
