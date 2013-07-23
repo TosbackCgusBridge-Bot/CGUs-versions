@@ -172,8 +172,6 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 
 *   Follow
 
-*   Pinterest
-
 *   Directory
 *   Add or Edit a Business
 *   Daily Deals
