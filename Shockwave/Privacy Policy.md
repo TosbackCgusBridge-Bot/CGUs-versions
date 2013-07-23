@@ -32,6 +32,8 @@ search site search web
 *   Family &. Kids
 *   Music &. Photos
 
+We're making Shockwave.com even better! While we're making these improvements, site login, registration and purchasing will be down on Monday, July 29th. But don't worry—you can still play your favorite online and download games! Game on!
+
 About Shockwave
 
 *   About Shockwave
