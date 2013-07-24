@@ -8,9 +8,9 @@ Welcome! **(Log in)**
 *   *   Features
         *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
+        *   Signature: Buy 3 Get 3 Free
+        *   Online Only Body Care: Buy 3 Get 3 Free
         *   Select Body Care: $5
-        *   Online Only Body Care: $5 &. Up
-        *   Signature: Buy 3 Get 2 Free
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -210,7 +210,7 @@ Welcome! **(Log in)**
 *   *   Features
         *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
-        *   Body Care: $5 &. Up
+        *   Body Care: Buy 3 Get 3 Free
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
     *   Body &. Bath
