@@ -1,7 +1,5 @@
 Hinweise zum Datenschutz
 
-28.11.2012, 13:54 Uhr
-
 **Vertragsabschluss und Besuch unserer Internetseite**
 
 *   Allgemeine Datenschutzhinweise (PDF)
@@ -60,6 +58,11 @@ Darüber hinausgehende personenbezogene Daten wie (Ihr) Name, (Ihre) Anschrift, 
 **Verwendung und Weitergabe der genannten personenbezogenen Daten**  
   
 Wir nutzen Ihre personenbezogenen Daten nur zum Zwecke der technischen Administration der Internetseite und zur Erfüllung Ihrer Wünsche und Anforderungen. Nur dann, wenn Sie uns zuvor Ihre Einwilligung erteilt haben, nutzen wir diese Daten auch für produktbezogene Umfragen und Marketingzwecke, und auch dann nur in dem für jeden spezifischen Fall erforderlichen Maße. Eine Weitergabe an Dritte erfolgt nicht, es sei denn, Sie haben dem zugestimmt oder wir sind aufgrund gesetzlicher Bestimmungen zur Weitergabe gegenüber staatlichen Stellen verpflichtet.
+
+  
+**Verwendung und Weitergabe von nicht-personenbezogenen Daten**
+
+Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dienste (z. B. Softwareupdates) bereitstellen können, die Ihren Bedürfnissen entsprechen und an Ihrem Wohnort verfügbar sind, berücksichtigen wir keinerlei personenbezogenen Informationen sondern lediglich Ihre aktuelle Produktausstattung und die Verfügbarkeit von Angeboten. Wir speichern diese Informationen in Form sogenannter "Cookies" anonymisiert auf Ihrem Computer, damit wir die Inhalte unserer Internetseite nach Ihren Präferenzen optimieren können. Eine Weitergabe an Dritte erfolgt nicht.
 
   
 **Informationsservices**
