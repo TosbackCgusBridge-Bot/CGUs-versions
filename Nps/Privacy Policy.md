@@ -16,5 +16,5 @@ You may choose to provide us with personal information, as in e-mail with a comm
 Our website has many links to our partners, especially other federal agencies. In a few cases we link to private organizations. When you click one of these partner links, you are no longer on our site and are subject to the privacy policy of the new site.
 
 **More Information  
-**Department of Interior Privacy Statement  
-Department of Interior Childrens Privacy Statement
+**Department of Interior Privacy Policy  
+Department of Interior Childrens Privacy Policy
