@@ -6,7 +6,7 @@
 *   English Español
 
 1.  Cars &. Minivan
-    *   Yaris $14,370 starting msrp 1 30/37 est. mpg 2 Explore Build
+    *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 Explore Build
     *   Corolla $16,230 starting msrp 1 27/34 est. mpg 2 Explore Build
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
     *   Camry $22,235 starting msrp 1 25/35 est. mpg 2 Explore Build
