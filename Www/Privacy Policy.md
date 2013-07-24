@@ -161,6 +161,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @AmbassadorRice
         *   @Blog44
         *   @Brundage44
+        *   @Cecilia44
         *   @DavidAgnew44
         *   @DrBiden
         *   @FLOTUS
@@ -271,6 +272,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: July 18, 2013
+Updated: July 23, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
