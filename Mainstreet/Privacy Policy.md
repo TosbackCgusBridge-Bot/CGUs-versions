@@ -142,7 +142,6 @@ Brokerage Partners Sponsored Links
 *   Sitemap
 *   Masthead
 *   Archive
-*   Newsletter
 
   
   
