@@ -59,7 +59,6 @@ Skip Navigation
     *   Touch Charts
     *   Sencha Architect
     *   Sencha Animator
-    *   Sencha.io
 *   Cart 0
 
 Home / Legal Privacy Policy
