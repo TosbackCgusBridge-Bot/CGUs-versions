@@ -20,11 +20,11 @@ The Stack Exchange application programming interfaces (the “API Services”) a
 
 1\. API Attribution
 
-All Applications must ensure they visually indicate that the Stack Exchange Network is the source of the content provided through the API Services (section 3a of the Stack Exchange Terms of Service). Applications which may in any way be indexed by search enginges must adhere to all Attribution rules defined in the Stack Exchange Terms of Service. For applications that lack access to web browsing services, simple text versions of URLs (instead of hyperlinks) will be sufficient. Exceptions to these attribution rules must be requested in advance of deploying any Applications.
+All Applications must ensure they visually indicate that the Stack Exchange Network is the source of the content provided through the API Services (section 3a of the Stack Exchange Terms of Service). Applications which may in any way be indexed by search engines must adhere to all Attribution rules defined in the Stack Exchange Terms of Service. For applications that lack access to web browsing services, simple text versions of URLs (instead of hyperlinks) will be sufficient. Exceptions to these attribution rules must be requested in advance of deploying any Applications.
 
 2\. Stack Exchange Trademark and Brand Guidelines
 
-Stack Exchange Inc. logos, branding, and other copyrighted content returned by the API may be used unmodified for the purposes of identification (ie. identifying content on Stack Overflow with the Stack Overflow logo). Other uses of Stack Exchange Inc. content are subject to the Stack Exchange Trademark Guidelines
+Stack Exchange Inc. logos, branding, and other copyrighted content returned by the API may be used unmodified for the purposes of identification (ie. identifying content on Stack Overflow with the Stack Overflow logo). Other uses of Stack Exchange Inc. content are subject to the Stack Exchange Trademark Guidelines.
 
 3\. Termination
 
@@ -36,4 +36,4 @@ about blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2013 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2013.7.18.639
+2013.7.23.641
