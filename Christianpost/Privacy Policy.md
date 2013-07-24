@@ -62,15 +62,15 @@ The Christian Post does not grant permission for its articles to appear on a non
 For any other use, advance permission must be obtained from the author. Please contact the general administrator for copyright permission via our Contact Us page or by sending a letter and self-addressed envelope to the address below:
 
 The Christian Post  
-10 G Street NE, Suite 710  
-Washington, DC 20002  
+1919 M Street NW, Suite 100B  
+Washington, DC 20036  
 Fax: (202) 280-1313
 
 In the event you believe that any content posted on the Web site infringes your copyright or other intellectual-property rights, you may notify ChristianPost.com by providing the information required by the Online Copyright Infringement Liability Limitation Action of the Digital Millennium Copyright Act, 17 U.S.C. 512, to ChristianPost.com's copyright administrator:
 
 The Christian Post  
-10 G Street NE, Suite 710  
-Washington, DC 20002  
+1919 M Street NW, Suite 100B  
+Washington, DC 20036  
 Attention: Intellectual Property Rights  
 
 User Generated Content
@@ -132,6 +132,10 @@ When you make a purchase, we ask you to provide your credit card information so 
 Children's Online Privacy Protection Act
 
 No one under the age of 13 should provide any personal information. In general, ChristianPost.com does not knowingly collect personally identifiable information from children under 13. If in limited circumstances we do knowingly collect personally identifiable information from children under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected information from a child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as possible. If you believe the Web site has any information about anyone under 13, please contact us via our Contact Us page.
+
+About Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt\_out.asp
 
 *   About Us
 *   Contact Us
