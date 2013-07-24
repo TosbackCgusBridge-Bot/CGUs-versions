@@ -96,7 +96,7 @@ This Privacy Policy explains how Comcast will use the information that you provi
 
 Certain Comcast Apps provide you with features that are not found on the Comcast Sites. You can read disclosures related to those app-specific features here:
 
-*   XFINITY Family app
+*   Family Point by Comcast Labs
 
 What is outside the scope of this Privacy Policy?
 
