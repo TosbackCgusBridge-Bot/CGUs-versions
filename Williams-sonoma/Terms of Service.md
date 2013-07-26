@@ -40,29 +40,25 @@ For full-price products, "Suggested Price" or "Sugg. Price" refers to the manufa
 
 Special Offers
 
-Occasionally we will offer special promotions to our customers that we refer to as "special offers" or "special offer". This can include a gift with purchase, free shipping, vendor offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
+Occasionally we will offer special promotions to our customers that we refer to as "special offers" or "special offer". This can include a gift with purchase, free shipping, manufacturer offers, or other promotional activity associated with a product purchase. These offers may be for a limited time only.
 
 Inaccuracy Disclaimer
 
 From time to time there may be information on our Web Site or in our catalog that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. Williams-Sonoma, Inc. Brands reserves the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order).
 
-Australian customers
-
-You may have rights under the _Australian Consumer Law_ that are in addition to your rights under these Terms and Conditions. Nothing in these Terms and Conditions excludes, restricts or modifies those rights. To the fullest extent permitted by law, Williams-Sonoma, Inc.'s liability for breach of any consumer guarantee, which cannot be excluded, is limited at the option of Williams-Sonoma, Inc. to: (a) In the case of services supplied or offered by Williams-Sonoma, Inc. which are not of a kind ordinarily acquired for personal, domestic or household use or consumption (i) the supply of services again, or (ii) the payment of the cost of having services supplied again. and (b) In the case of goods supplied or offered by Williams-Sonoma, Inc. which are not of a kind ordinarily acquired for personal, domestic or household use or consumption (i) replacing, or paying the cost of replacing the goods, or (ii) repairing or paying the cost of repairing the goods. To the extent that Williams-Sonoma, Inc. can exclude liability, it does so.
-
 \* \* \* \* \* \* \* \* \* \*
 
 Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California.
 
-Last Updated: November 2012
+Last Updated: June 2013
 
 Back to Top
 
 Privacy Policy
 
-We are part of the "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase contact information means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
-As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers. (2) honor customers' requests not to share their contact information with other marketers. and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
+As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise to American Consumers. We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers. (2) honor customers' requests not to share their contact information with other marketers. and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
 Collecting Information About You
 
@@ -99,10 +95,10 @@ Opting Out Of Marketing And Transfers. Updating and Deleting Information About Y
 
 We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an email. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use either of the following statements in your message to us:
 
-*   "I prefer not to receive email advertisements, such as updates regarding products and services, special promotions  
-    or upcoming events."
-*   "I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and  
-    services, special promotions or upcoming events."
+*   I prefer not to receive email advertisements, such as updates regarding products and services, special promotions  
+    or upcoming events.
+*   I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and  
+    services, special promotions or upcoming events.
 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.
 
@@ -126,7 +122,7 @@ For European Union or Swiss residents, any questions or concerns regarding the u
 
 Cookies
 
-When you visit our web sites, we send one or more "cookies" to your computer or other device. We may also use cookies in emails that you receive from us. A "cookie" is a small data file that is placed on the hard drive of your computer when you visit a web site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
+When you visit our web sites, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A cookie is a small data file that is placed on the hard drive of your computer when you visit a web site. A session cookie expires immediately when you end your session (i.e., close your browser). A persistent cookie stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
 Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking here. In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
@@ -154,30 +150,11 @@ Policy Changes
 
 If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web sites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our web sites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
 
-Australian Residents
-
-In addition to the above terms, the following terms of this Privacy Policy also apply to Australian residents using this website:
-
-*   You consent to (i) the disclosure, transfer and storage of information about you (including contact information) by us to  
-    our Select Partners and our Service Providers located in the United States and in other countries in accordance with  
-    this Privacy Policy and (ii) all other practices and actions described in this Privacy Policy.
-*   You acknowledge that by consenting to the disclosure of information about you to our Select Partners and/or our  
-    Service Providers our obligations under the Privacy Act 1988 (Cth) now or in the future (if any) to ensure that our  
-    Select Partners and/or Service Providers comply with their privacy policies and/or any applicable privacy principles  
-    under the Privacy Act 1988 (Cth) may cease.
-*   You acknowledge that the data privacy laws of the United States and other countries where our Select Partners and/or  
-    Service Providers are located may not provide the same level of protection for your information as Australia.
-*   You consent to receive direct marketing (including electronic marketing materials) from us, until such time as you  
-    unsubscribe from such, and for us to provide your details to and to receive direct marketing (including electronic  
-    marketing materials) from our Select Partners and others.
-
-You may email us and request us to provide details of the information, including contact information, that we hold about you in which case we may require you to pay the reasonable cost of providing access to any such information (but we will not charge you for lodging a request for access).
-
 Your Feedback
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an email.
 
-Effective Date: November 8 2012
+Effective Date: June 2013
 
 Back to Top
 
