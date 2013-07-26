@@ -105,6 +105,8 @@ We will retain your Personal Information for as long as your account status is a
 
 12\. Privacy Settings
 
+**Ning 2.0 Networks** – If you belong to a Network that was created prior to March 11, 2013, which we refer to as a “Ning 2.0 Network”, the following privacy settings are available on that Network:
+
 As a Network Creator, you control certain privacy settings on your Network (known as “Network Privacy Settings”). Network Creators can edit these settings at any time by signing in to your Network and clicking on “Privacy” from the “My Network” page. Network Creators can choose from the following Network Privacy Settings:
 
 *   **Public**\- Your Network is visible to everyone (Members and non-Members). Anyone can sign up to be a Member. As for which parts of your Network are visible to non-Members, there are two further options:
@@ -122,6 +124,28 @@ To further enhance Network privacy, Network Creators can set “Private – Only
 *   **Just Me** – Only you can view your content.
 
 These settings are not retroactive, so if you’d like these privacy settings to apply to content you’ve uploaded in the past, you must update the privacy settings of the individual content item you previously uploaded. Even if you’ve changed your privacy settings as described above for your profile, certain portions of your basic profile page (such as your name and profile photo), will always be visible to people who can access the Network. The remaining portion of your basic profile (such as gender, location and age/birthday), can be hidden or disabled by accessing the “Profile” section of your Settings page. Regardless of the individual privacy settings selected by a Member, please note that Network Creators and their designated administrators will still be able to view that Network’s profile pages, lists of friends and content in full.
+
+**Ning 3.0 Networks** – If you belong to a Network that was created on or after March 11, 2013, which we refer to as a “Ning 3.0 Network”, the following privacy settings are available on that Network:
+
+With Ning 3.0 Networks, there is no single privacy setting on your Network to make all pages private or all pages public. Instead, you set the privacy option for each individual page you create, which allows you to choose highly customized network privacy options. Network Creators can edit the privacy of each page by signing in to your Network, clicking on “Site &. Pages” in the Social Site Manager and going to the General section of each page. This is where you can set access permissions for a page.
+
+Network Creators can choose from the following Page Privacy Settings:
+
+*   **Everyone (Public)**\- This means that everyone (members and non-members alike) can view this page.
+*   **Members**\- Only Members of the Network can view this page. visitors will be prompted to sign in.
+*   **Featured Members**\- Only featured Members and Administrators of the Network can view this view page.
+*   **Administrators**\- Only Administrators of the Network can view this page.
+*   **Member Category**\- Only Members of a specific member category can view this page.
+
+In addition, Members and Network Creators can edit their personal privacy settings to hide their age, gender or birthdate. To edit your profile page settings and information, click on the pencil icon that appears at the top of the profile page. From here, you and your Members can edit the privacy settings. Profile pages are public by default so they can be crawled by search engines, which means that member profiles will end up in online search results. Information that you provide, like your name, photo and profile, is public and will appear in search results both on the Network and on search engines.However, as a Network Creator, if you would like to keep member profiles on your Network from showing up in search results, you’ll want to edit your “Robots.txt” file to specifically block search engines from crawling your Network’s profile pages. You can add the following to your “Robots.txt” file on the Network to keep search engines from crawling all profile pages:
+
+User-agent: \*  
+Disallow: /member/
+
+Note:  
+If you renamed this feature, go to your Site &. Pages manager and find the URL ending that is associated with this feature. Simply replace the “member” above to whatever is in your URL ending. For example, if your Members feature can be found at indoormusicfestivals.ning.com/artists, then you’ll want to use “/artists/” in your Robots.txt file.
+
+As with Ning 2.0 Networks, regardless of the individual privacy settings selected by a Member, Network Creators and their designated administrators will still be able to view that Network’s profile pages, lists of friends and content in full.
 
 13\. Email Communications and Unsolicited Commercial Email
 
