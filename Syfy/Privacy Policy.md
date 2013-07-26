@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Dropping Gummy Bears Dropping Gummy Bears
+Syfy Video Joe Rogan Answers Everything - Episode 1 Joe Rogan Answers Everything - Episode 1
 
-It's all fun and games until someone gets splashed with a margarita. Highlight from Haven panel, Comic-Con 2013.
+Listen into Joe's exclusive after-show podcast after gathering all the information from his hunt for Big Foot.
 
-Don't I Owe You a Hug? - Comic-Con 2013 Exclu ... Don't I Owe You a Hug? - Comic-Con 2013 Exclusive
+Jesse Rath and Babies - Comic-Con 2013 Exclus ... Jesse Rath and Babies - Comic-Con 2013 Exclusive
 
-Audience members asked questions and got exclusive hugs in return. Highlight from Haven panel, Comic-Con 2013.
+Will Alak and Christie hear the pitter patter of little feet? Highlight from this year's Defiance panel at Comic-Con 2013.
 
-Don't I Owe You a Hug? Part 2 - Comic-Con 201 ... Don't I Owe You a Hug? Part 2 - Comic-Con 2013 Exclusive
+Datak's Nose - Comic-Con 2013 Exclusive Datak's Nose - Comic-Con 2013 Exclusive
 
-And the hugs just keep on comin'. Highlight from Haven panel, Comic-Con 2013.
+Tony Curran's mother doesn't approve of her own son's nose. Highlight from this year's Defiance panel at Comic-Con 2013.
 
-Ron Moore Revisiting Battlestar Galactica - C ... Ron Moore Revisiting Battlestar Galactica - Comic-Con 2013 Exclusive
+Have You Entered the Contest? Have You Entered the Contest?
 
-Ron Moore reflects on what it meant to sit down with his son and rewatch Battlestar. Highlight from this year's Helix panel at Comic-Con 2013.
+Enter the contest for Defiance to win!
 
 *   FAQ
 *   Feedback
@@ -276,7 +276,7 @@ Ron Moore reflects on what it meant to sit down with his son and rewatch Battles
 *   Advertising
 *   Closed Captioning
 
-Syfy International: Asia Australia Benelux France Germany Latin America Poland Portugal Russia Spain UK  
+Syfy International: Asia Australia Benelux France Germany Latin America Poland Portugal Spain UK  
   
 ©2013, Syfy. All rights reserved.  
 Independent Programming Report Tell us what you think about your favorite NBCU programs by becoming a TV panel member.
