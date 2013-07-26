@@ -1,8 +1,8 @@
-_If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@venturacountystar.com._
+_If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at webmaster@vcstar.com._
 
 PRIVACY POLICY (Effective July 1, 2008)
 
-Welcome to VenturaCountyStar.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov ).
+Welcome to vcstar.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov ).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
@@ -38,7 +38,7 @@ In certain instances we may also share your personally identifiable information 
 
 **(5) Other:** Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request. (b) conform with the requirements of the law or legal process. (c) protect or defend our legal rights or property, our Website, or other users. or (d) in an emergency to protect the health and safety of our Website's users or the general public.
 
-**(6) Your California Privacy Rights:** Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: VenturaCountyStar.com, c/o Ventura County Star, P.O. Box 6006. Camarillo, CA 93010.
+**(6) Your California Privacy Rights:** Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: vcstar.com, c/o Ventura County Star, P.O. Box 6006. Camarillo, CA 93010.
 
 **D. PUBLIC FORUMS**
 
@@ -46,7 +46,7 @@ We may offer chat rooms, blogs, message boards, bulletin boards, or similar publ
 
 **E. CHILDREN**
 
-The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at webmaster@venturacountystar.com . A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at webmaster@vcstar.com . A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
 
 **F. KEEPING YOUR INFORMATION SECURE**
 
@@ -58,7 +58,7 @@ Our Website may link to or contain links to other third party websites that we d
 
 **H. CONTACT &. OPT-OUT INFORMATION**
 
-You may contact us as at webmaster@venturacountystar.com if: (a) you have questions or comments about our Privacy Policy. (b) wish to make corrections to any personally identifiable information you have provided. (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies. or (d) wish to withdraw your consent to sharing your personally identifiable information with others. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
+You may contact us as at webmaster@vcstar.com if: (a) you have questions or comments about our Privacy Policy. (b) wish to make corrections to any personally identifiable information you have provided. (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies. or (d) wish to withdraw your consent to sharing your personally identifiable information with others. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
 **I. Google DFP Location Privacy**
 
@@ -88,7 +88,7 @@ PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE WEBSITE. BY ACCESSING 
 
 You agree that these Terms of Use are supported by good and valuable consideration, the receipt and sufficiency of which you hereby acknowledge. Such consideration includes, without limitation, your use of the Website and the materials and information available on the same and the possibility of publication or publicity of your User Content (as defined in Section 5).
 
-In addition to these Terms of Use, we have established a Privacy Policy to explain how we collect and use information about you. A copy of this Privacy Policy can be found here: http://www.venturacountystar.com/privacy/#2 and is incorporated by reference into these Terms of Use. By accessing or using the Website, you are also signifying your acknowledgement and agreement to our Privacy Policy.
+In addition to these Terms of Use, we have established a Privacy Policy to explain how we collect and use information about you. A copy of this Privacy Policy can be found here: http://www.vcstar.com/privacy/#2 and is incorporated by reference into these Terms of Use. By accessing or using the Website, you are also signifying your acknowledgement and agreement to our Privacy Policy.
 
 **2\. INTELLECTUAL PROPERTY**
 
@@ -108,7 +108,7 @@ The Website and included content (and any derivative works or enhancements of th
 
 **(A)** In order to access or use some features of the Website, you may have to become a registered user. If you are under the age of thirteen, then you are not permitted to register as a user or otherwise submit personal information.
 
-**(B)** If you become a registered user, you will provide true, accurate and complete registration information and, if such information changes, you will promptly update the relevant registration information. During registration, you will create a user name and password (a "Membership"), which may permit you access to certain areas of the Website not available to non-registered users. You are responsible for safeguarding and maintaining the confidentiality of your Membership. You are solely responsible for the activity that occurs under your Membership, whether or not you have authorized the activity. You agree to notify us immediately at webmaster@venturacountystar.com of any breach of security or unauthorized use of your Membership.
+**(B)** If you become a registered user, you will provide true, accurate and complete registration information and, if such information changes, you will promptly update the relevant registration information. During registration, you will create a user name and password (a "Membership"), which may permit you access to certain areas of the Website not available to non-registered users. You are responsible for safeguarding and maintaining the confidentiality of your Membership. You are solely responsible for the activity that occurs under your Membership, whether or not you have authorized the activity. You agree to notify us immediately at webmaster@vcstar.com of any breach of security or unauthorized use of your Membership.
 
 **5\. USER CONTENT**
 
