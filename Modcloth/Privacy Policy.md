@@ -66,7 +66,7 @@ All of the personal information we collect from our customers is for the purpose
 
 17.  **Under 13?**
 
-ModCloth.com is intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any personal information to ModCloth.com. We will promptly delete any personal information from a person under the age of 13 should we discover that we have collected such information from a person under the age of 13 without verification of parental consent. If you believe we may have collected information from a person under the age of 13, please promptly contact \[email protected\] so we can correct.
+ModCloth.com is intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any personal information to ModCloth.com. We will promptly delete any personal information from a person under the age of 13 should we discover that we have collected such information from a person under the age of 13 without verification of parental consent. If you believe we may have collected information from a person under the age of 13, please promptly contact support@modcloth.com so we can correct.
 
 *   **Information Sharing**
     
@@ -106,7 +106,7 @@ Any personal information or image content you voluntarily disclose online in a m
     
     Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2012 will receive information regarding 2011 sharing activities).
     
-    To obtain this information from ModCloth please send an email message to \[email protected\] with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Not all information sharing is covered by the "Shine the Light" requirements, and only information on covered sharing will be included in our response.
+    To obtain this information from ModCloth please send an email message to support@modcloth.com with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Not all information sharing is covered by the "Shine the Light" requirements, and only information on covered sharing will be included in our response.
     
 *   **Privacy Policy Updates**
     
@@ -116,4 +116,4 @@ Any personal information or image content you voluntarily disclose online in a m
     
 *   **Contact Us**
     
-    We welcome your questions, comments, and concerns about this Privacy Policy and Site. You can reach us at: 651 Brannan Street, Suite 300 San Francisco, CA, 94107 888-495-9699 \[email protected\] Thank you for choosing ModCloth.com! Sincerely, The ModCloth Team
+    We welcome your questions, comments, and concerns about this Privacy Policy and Site. You can reach us at: 651 Brannan Street, Suite 300 San Francisco, CA, 94107 888-495-9699 support@modcloth.com Thank you for choosing ModCloth.com! Sincerely, The ModCloth Team
