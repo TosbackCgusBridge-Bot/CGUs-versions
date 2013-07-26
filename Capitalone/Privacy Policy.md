@@ -26,7 +26,7 @@ A separate document entitled _Capital One Privacy and Opt Out Notice_ explains h
 _Third-Party Advertising  
 _We may partner with third parties such as Yahoo, Microsoft (Atlas technology) and \[x+1\] to deliver advertisements and monitor activities on our own website and other websites.  We may monitor advertisement “click-throughs,” Web traffic, statistics, and/or other activities in order to improve browsing experiences on our website.  Our partners may use cookies, Web beacons, and/or other monitoring technologies to compile statistics about website visitors.
 
-These third parties are subject to their own privacy policies.  If you prefer that Yahoo not record information about your site visits, you may visit Yahoo at http://info.yahoo.com/privacy/us/yahoo/opt\_out/targeting/details.html to register your preference.  You may also register your preference for a number of other third-party advertisers including Microsoft (Atlas technology) and \[x+1\] at http://www.networkadvertising.org/managing/index.asp or you may adjust your browser settings to reject cookies.
+These third parties are subject to their own privacy policies.  If you prefer that Yahoo not record information about your site visits, you may visit Yahoo at http://info.yahoo.com/privacy/us/yahoo/opt\_out/targeting/details.html to register your preference.  You may also register your preference for a number of other third-party advertisers including Microsoft (Atlas technology) and \[x+1\] at http://www.networkadvertising.org/choices/ or you may adjust your browser settings to reject cookies.
 
 Sharing Information
 
