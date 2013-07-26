@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
-        *   Signature: Buy 3 Get 3 Free
-        *   Online Only Body Care: Buy 3 Get 3 Free
         *   Select Body Care: $5
+        *   Signature: Buy 3 Get 2 Free
+        *   Online Only Body Care: Buy 3 Get 2 Free
+        *   Body Care: Up to 50% Off
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
-        *   Select Candles: 50% Off
+        *   3-Wick Candles: 2 for $22
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
+        *   Mason Jar Candles: 2 for $15
     *   Candles
         
         *   3-Wick Candles
@@ -99,7 +99,6 @@ Welcome! **(Log in)**
         *   Watermelon Lemonade
         *   View All Fragrances
 *   *   Features
-        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Select Soaps: $3
         *   Hand Soap: 6 for $20
@@ -134,11 +133,11 @@ Welcome! **(Log in)**
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Features
-        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
         *   Shower Smoothies: $10
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
+        *   Lip: Buy 2 Get 1 Free
     *   Aromatherapy
         
         *   Stress Relief
@@ -179,15 +178,14 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
 *   *   Features
-        *   $20 VIP, Over $80 Value!
         *   Save Up to 75% Off Select Items
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
         
-        *   $15 &. Under Gifts
         *   $20 &. Under Gifts
-        *   $35 &. Under Gifts
+        *   $30 &. Under Gifts
+        *   $40 &. Under Gifts
         
         Shop Gift Sets
         
@@ -208,11 +206,11 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   $20 VIP, Over $80 Value!
         *   Sale: Up to 75% Off
-        *   Body Care: Buy 3 Get 3 Free
+        *   3-Wick Candles: 2 for $22
+        *   Body Care: Buy 3 Get 2 Free
+        *   Hand Soap: 6 for $20
         *   Wallflowers Refills: $6
-        *   Wallflowers: 6 for $24
     *   Body &. Bath
         
         *   Body Lotion
@@ -272,9 +270,9 @@ Welcome! **(Log in)**
         *   Online Exclusives
     *   Shop By Price
         
-        *   $15 &. Under Gifts
         *   $20 &. Under Gifts
-        *   $35 &. Under Gifts
+        *   $30 &. Under Gifts
+        *   $40 &. Under Gifts
         
         Shop Gift Sets
         
