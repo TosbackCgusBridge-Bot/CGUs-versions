@@ -39,4 +39,4 @@ From time to time, AutoZone may modify this Privacy Policy. AutoZone will notify
 
 How to Contact Us
 
-If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via e-mail..
+If you have questions about this privacy statement, the practices of this site or your dealings with this site, please contact AutoZone via e-mail.
