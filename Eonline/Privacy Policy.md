@@ -149,7 +149,7 @@ From time to time, we may revise this Privacy Policy to reflect industry initiat
 
 9\. Notice to California Residents
 
-Residents of the State of California may request a list of all third parties to which this Website has disclosed certain information during the preceding year for those third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us by email at privacy@comcastnets.com">privacy@comcastnets.com or by mail at 5750 Wilshire Blvd., Los Angeles, California 90036, Attn: E! Legal Affairs
+Residents of the State of California may request a list of all third parties to which this Website has disclosed certain information during the preceding year for those third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us by email at privacy@comcastnets.com or by mail at 5750 Wilshire Blvd., Los Angeles, California 90036, Attn: E! Legal Affairs
 
 For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
