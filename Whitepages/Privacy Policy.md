@@ -1,8 +1,8 @@
 Go to WhitePages.com  
 Customer Support
 
-*   FAQ
 *   Known Issues
+*   FAQ
 *   Contact
 *   Give Feedback
 
