@@ -1,5 +1,7 @@
 _Effective as of 1 July 2013_
 
+Cookies
+
 Our goal is to make KAYAK the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the feedback form.
 
 KAYAK is a search engine that saves you time and money. We search the web for the best fares and rates. Registration on KAYAK is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares. If you choose to book via our site, you will need to provide us with certain personal information.
