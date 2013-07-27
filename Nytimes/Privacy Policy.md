@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help How we stay stylish on wheels
+Search Help House hunting in ... Majorca
 
-Also in Style »
+Also in Real Estate »
 
-*   Orange is the makeup color for summer
-*   Looking hip in the Chicago heat
+*   Explore a Majorcan farm dating to the 13th century
+*   Amy Arbus's one-woman show with a view
 
   
 
