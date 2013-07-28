@@ -1,5 +1,3 @@
-create a shockwave account! login | sign up
-
 games brought to you by
 
 *   online games
