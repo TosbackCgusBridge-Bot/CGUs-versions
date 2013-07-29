@@ -1,5 +1,4 @@
 **Employers:**   Post Jobs   |   Search Resumes  
-Jobs.net
 
 Find Jobs
 
