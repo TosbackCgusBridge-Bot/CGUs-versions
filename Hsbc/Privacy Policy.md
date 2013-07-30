@@ -118,10 +118,13 @@ Explore HSBC.com
     
     *   Life at HSBC
         
-    *   Our people
-        
-    *   Programmes
-        *   International Management
+    *   Students and graduates
+        *   Working for HSBC
+        *   Opportunities
+        *   Our people
+        *   Community and people
+        *   Events
+        *   Frequently asked questions
 
 *   Home
 *   \>
@@ -174,8 +177,7 @@ News and insight
 Careers
 
 *   Life at HSBC
-*   Our people
-*   Programmes
+*   Students and graduates
 
 HSBC  
 banking services
