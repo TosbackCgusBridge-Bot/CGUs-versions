@@ -7,6 +7,7 @@ Below you will find the updated Privacy Policy for www.expedia.com. We value you
 *   Your choices with respect to the collection and use of your information
 *   Cookies and other technologies
 *   Display of tailored advertising/Your choices
+*   Using the Expedia mobile phone and tablet Apps (the "Mobile Apps")
 *   How we protect your information
 *   Children's privacy
 *   External links
@@ -16,7 +17,7 @@ Below you will find the updated Privacy Policy for www.expedia.com. We value you
 
 What information we collect from you
 
-In General. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, fax number, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member. book travel. complete a traveler profile. participate in a survey, contest, or sweepstakes. ask us a question. or initiate other transactions on our site.
+In General. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member. book travel. complete a traveler profile. participate in a survey, contest, or sweepstakes. ask us a question. or initiate other transactions on our site.
 
 Travel Companion Information. When you make a reservation for someone else through this website, we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing us with their personal information and travel preferences, as any access to view or change their information will be available only through your account.
 
@@ -45,7 +46,7 @@ This website may share your information with the following entities:
 
 *   Referring websites. If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites use of your personal information and we encourage you to review the privacy policies of any website that referred you here.
 
-*   Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotwire, and hotels.com, as well as international corporate affiliates such as Expedia.co.uk. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
+*   Companies within our corporate family. We may share your personal information with our parent company and corporate affiliates, including Hotwire and hotels.com, as well as international corporate affiliates such as Expedia.co.uk. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our parent company and corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They also will comply with applicable laws governing the transmission of promotional communications and, at a minimum, give you an opportunity in any commercial email they send to choose not to receive such email messages in the future.
 
 We also may share your information:
 
@@ -71,7 +72,7 @@ Your choices with respect to collection and use of your information
 
 *   You also can add or update information and close your account as described above.
 
-*   When you register as a member on this site, you will be given a choice as to whether you want to receive email messages from us about special offers. As a registered member, you can modify your choice at any time on the Member Profile page. Whether registered as a member or not, you will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them.
+*   You will be given the opportunity to unsubscribe from commercial emails in any such message that we send you. If you are a registered member, you can also modify your choice at any time on the Member Profile page. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them.
 
 *   You may have the opportunity on our website to provide a mobile number in order to receive day-of-travel flight alerts. You may discontinue these alerts at any time.
 
@@ -106,6 +107,19 @@ Please note that we do not have access to or control over cookies or other techn
 
 Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, Expedia.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click here to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
 
+Using the Expedia mobile phone and tablet Apps (the "Mobile Apps")
+
+When you use an Expedia Mobile App, we collect and use information about you in the same way and for the same purposes as we do when you use our website.
+
+In addition to this, we also use some other information that we collect automatically when you use our Mobile Apps. Specifically:
+
+*   We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you.
+*   Each Mobile App also sends us the device's unique device identifier (or "UID"), a sequence of numbers or characters that are unique to your mobile device. We use this only on the first opening of the Mobile App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools.
+*   When you use a Mobile App, you can choose to allow access to your current location – provided by your mobile device using GPS or similar technologies – in order to identify nearby hotels or airports. If you choose to allow access, this location data may be collected anonymously as part of search requests logged by our servers. You can switch off the Mobile App’s access to your location at any time through your phone settings menu.
+*   Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the UID, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+
+You always have the ability to control what information a Mobile App sends to us. You can exercise this control either by changing the settings of the Mobile App under its setting menu or changing the settings of your mobile device. Alternatively, you can remove the Mobile App from your mobile device entirely and access our services through our website.
+
 How we protect your information
 
 We want you to feel confident about using this website to make travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
@@ -130,4 +144,4 @@ How you can contact us
 
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us using our customer service and feedback form.
 
-This Privacy Policy is effective as of September 12, 2012.
+This Privacy Policy is effective as of July 27, 2013.
