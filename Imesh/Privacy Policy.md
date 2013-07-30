@@ -5,6 +5,7 @@ Language: English English Español Français Deutsch Italiano Nederlands Polski 
 *   WHAT'S NEW
 *   SUPPORT
 *   IMESH BOX
+*   BLOG
 
 Follow @iMeshmusic Privacy Policy
 
