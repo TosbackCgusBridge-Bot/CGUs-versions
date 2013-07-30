@@ -290,6 +290,10 @@ Can't get enough HowStuffWorks?
     
     Discovery Fit &. Health
     
+    Discovery News
+    
+    FWThinking
+    
     HSW Brazil
     
     HSW China
@@ -302,13 +306,19 @@ Can't get enough HowStuffWorks?
     
     Science Channel
     
-    StuffYouShouldKnow
+    Stuff You Should Know
+    
+    Stuff to Blow Your Mind
+    
+    Stuff of Genius
     
     TLC
     
     Discovery Education
     
     Discovery Retreats
+    
+    Store
     
 *   CUSTOMER SERVICE
     
