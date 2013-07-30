@@ -251,9 +251,9 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Joe Rogan Answers Everything - Episode 1 Joe Rogan Answers Everything - Episode 1
+Syfy Video A Year From Now You Won't Recognize This Plac ... A Year From Now You Won't Recognize This Place
 
-Listen into Joe's exclusive after-show podcast after gathering all the information from his hunt for Big Foot.
+Defiance, the show comes back June 2014 but that doesn't mean it ends. Go to Defiance.com
 
 Jesse Rath and Babies - Comic-Con 2013 Exclus ... Jesse Rath and Babies - Comic-Con 2013 Exclusive
 
