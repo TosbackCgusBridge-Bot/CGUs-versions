@@ -1,5 +1,3 @@
-create a shockwave account! login | sign up
-
 games brought to you by
 
 *   online games
@@ -32,7 +30,7 @@ search site search web
 *   Family &. Kids
 *   Music &. Photos
 
-We're making Shockwave.com even better! While we're making these improvements, site login, registration and purchasing will be down on Wednesday, July 31st. But don't worry—you can still play your favorite online and download games! Game on!
+We're making Shockwave.com even better! While we're making these improvements, site login, registration and purchasing are unavailable. But don't worry—you can still play your favorite online and download games! Game on!
 
 About Shockwave
 
@@ -82,5 +80,5 @@ More Addicting Games!
 *   Privacy Policy
 *   Copyright Compliance Policy
 
-© 1999-2013 Atom Entertainment, Inc., a Viacom Media Networks Company. All rights reserved.  
+© 1999- Atom Entertainment, Inc., a Viacom Media Networks Company. All rights reserved.  
 Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.
