@@ -13,7 +13,7 @@ We value your privacy. This policy describes how we handle personal information.
     *   We afford our prospective and former customers the same protections as existing customers with respect to the use of personal information.
 *   We Protect Customer Information
     
-    We maintain physical, electronic, and procedural safeguards that comply with federal and state regulations to guard nonpublic personal information. In addition, we regularly review our policies and practices, monitor our computer networks, and test the strength of our security.
+    We maintain physical, electronic, and procedural safeguards to guard nonpublic personal information and to comply with federal and state laws. In addition, we regularly review our policies and practices, monitor our computer networks, and test the strength of our security.
     
 *   Information We Collect
     
@@ -42,7 +42,7 @@ We value your privacy. This policy describes how we handle personal information.
     
 *   To Limit the Sharing of Information Within the State Farm Family of Companies
     
-    We share information within our State Farm family of companies, for example, so we do not have to ask you for the same information again. If you prefer to limit sharing information such as your driving record, claim history with other companies, and credit information, call your State Farm agent or 1-800-865-6035.
+    We share information within our State Farm family of companies so, for example, we do not have to ask you for the same information again. If you prefer to limit sharing information such as your driving record, claim history with other companies, and credit information, call your State Farm agent or 1-800-865-6035.
     
     *   If you are an existing customer and have already told us your information sharing preferences, no action is needed unless you want to change your preference.
     *   Your choice will apply to your joint policyholders/accountholders on shared policies/accounts.
@@ -101,4 +101,4 @@ Home Offices: Bloomington, IL 61710-0001
   
   
 
-Last Updated 6/13©
+Last Updated 7/13©
