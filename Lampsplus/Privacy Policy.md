@@ -35,17 +35,17 @@ We maintain relationships with select business partners whom we have deemed to b
 
 In addition, when we join with another company to offer or provide services, products, sweepstakes, contests, or promotions, we and the other company may cross-reference our customer databases to identify common customers. We and the other company may use that existing information to identify future promotional opportunities and to fulfill promotional or contractual obligations.
 
-If you prefer that we do not share your name and address with other marketers, please email us at customerservice@LampsPlus.com.
+If you prefer that we do not share your name and address with other marketers, please email us at CustomerService@LampsPlus.com.
 
 Your California Privacy Rights
 
 Lamps Plus complies with Section 1798.83 of the California Civil Code – the ‘Shine the Light Law’.
 
-Under Section 1798.83 of the California Civil Code, residents of California that have an established business relationship with Lamps Plus and that have provided certain personal information to Lamps Plus (“California Consumer”) have the right to request certain information fromLamps Plus . California Consumers may request that Lamps Plus  disclose (i) the types of personal information shared with third parties for those third parties’ direct marketing purposes, if any and (ii) the identity of any such third party with whom Lamps Plus has shared personal information, if any, during the previous calendar year.
+Under Section 1798.83 of the California Civil Code, residents of California that have an established business relationship with Lamps Plus and that have provided certain personal information to Lamps Plus (“California Consumer”) have the right to request certain information from Lamps Plus . California Consumers may request that Lamps Plus  disclose (i) the types of personal information shared with third parties for those third parties’ direct marketing purposes, if any and (ii) the identity of any such third party with whom Lamps Plus has shared personal information, if any, during the previous calendar year.
 
 California Consumers may make one such request each year.
 
-To submit a request for information please email Lamps Plus at customerservice@LampsPlus.com. Please include "Request for California Privacy Information" in the subject line and in the body of your e-mail. Lamps Plus will respond with the requested information, if any, to the email.
+To submit a request for information please email Lamps Plus at CustomerService@LampsPlus.com. Please include "Request for California Privacy Information" in the subject line and in the body of your e-mail. Lamps Plus will respond with the requested information, if any, to the email.
 
 Contests and Promotions
 
@@ -101,19 +101,19 @@ back to top | main help
 
 Unsubscribing From Our Catalog Mailing List
 
-If you purchase something from us, we may occasionally send you a printed catalog through the mail. If you prefer not to receive our catalog, cancel at any time by e-mailing us at catalogservice@LampsPlus.com with "remove" as the subject line and your name and address in the body of the message, or you may call 800-782-1967. Your name will be removed from our mailing list within two weeks of your request. Due to the nature of catalog mailing preparation, however, you may receive mailed catalogs up to 90 days after your request.
+If you purchase something from us, we may occasionally send you a printed catalog through the mail. If you prefer not to receive our catalog, cancel at any time by e-mailing us at CatalogService@LampsPlus.com with "remove" as the subject line and your name and address in the body of the message, or you may call 800-782-1967. Your name will be removed from our mailing list within two weeks of your request. Due to the nature of catalog mailing preparation, however, you may receive mailed catalogs up to 90 days after your request.
 
 back to top | main help
 
 Unsubscribing From Marketing Partnerships
 
-If you prefer that we do not share your name and address with other marketers, please email us at customerservice@LampsPlus.com.
+If you prefer that we do not share your name and address with other marketers, please email us at CustomerService@LampsPlus.com.
 
 back to top | main help
 
 Protecting Children
 
-We take special care to protect the safety and privacy of children. Our site is for general audiences and we do not permit children under the age of 18 to purchase products. If you are under 18 you may purchase from LampsPlus.com only with the involvement of a parent or guardian. However, LAMPS PLUS does not wish to collect any personal information (or any information at all) from any persons under 13 years old. If you are under 13 years old, you may not use the Website.
+We take special care to protect the safety and privacy of children. Our site is for general audiences and we do not permit children under the age of 18 to purchase products. If you are under 18 you may purchase from LampsPlus.com only with the involvement of a parent or guardian. However, Lamps Plus does not wish to collect any personal information (or any information at all) from any persons under 13 years old. If you are under 13 years old, you may not use the Website.
 
 back to top | main help
 
@@ -129,6 +129,6 @@ If we decide to change our policy in whole or in part, we will inform you by pos
 
 Additional Information
 
-This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to LAMPS PLUS’ Administrator by emailing us or by certified mail addressed to the following: Lamps Plus Customer Relations, 20250 Plummer Street, Chatsworth, CA 91311.
+This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to Lamps Plus’ Administrator by emailing us or by certified mail addressed to the following: Lamps Plus Customer Relations, 20250 Plummer Street, Chatsworth, CA 91311.
 
 back to top | main help
