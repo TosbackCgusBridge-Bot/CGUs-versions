@@ -48,7 +48,7 @@ If you have any questions about this notice, please contact our Customer Service
 
       Mason, OH 45040
 
-*   By phone at 1-888-529-2254. or
+*   By phone at 1-888-922-7026
 *   Via email at privacy.master@bloomingdales.com
 
 Your access of and use of our Web site means you agree to the terms in this notice of privacy practices and our Legal Notice
@@ -106,7 +106,7 @@ Coremetrics may only use information we share with them about our Web site visit
 *   unsubscribe by signing into your account on bloomingdales.com, clicking on my profile and indicating your opt-out preference,
 *   use the unsubscribe link at the bottom of any e-mail sent by bloomingdales.com,
 *   contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040, or
-*   contact Customer Service at 1-888-529-2254
+*   contact Customer Service at 1-888-922-7026
 
 Note: It may take up to 10 business days to process your request.
 
@@ -117,14 +117,14 @@ Note: It may take up to 10 business days to process your request.
 **Mobile Marketing**: To opt-out of mobile marketing, you may:
 
 *   reply STOP to any Bloomingdale's text message on your mobile phone/wireless device,
-*   contact Customer Service at 1-888-529-2254, or
+*   contact Customer Service at 1-888-922-7026
 *   contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040
 
 Note: Please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.
 
 **Direct Mail or Telemarketing**: To opt-out of receiving direct mail or telemarketing calls, you may:
 
-*   contact Customer Service at 1-888-529-2254, or
+*   contact Customer Service at 1-888-922-7026
 *   contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040. If you choose to write us, please include your name, address, phone number, and the last four digits of your Bloomingdale's proprietary or American Express co-brand credit card account number (if you have one), and state one of the following:
 *   "NO MAIL OFFERS" (if you do not want to receive offers by mail).
 *   "NO PHONE OFFERS" (if you do not want to receive offers by phone). or
@@ -135,7 +135,7 @@ Note: Because listings often are prepared well in advance of an offering (12 - 1
 **Third Party Sharing**: If you prefer that we not disclose your information to third parties for marketing purposes, you can:
 
 *   Contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040. If you choose to write to us, please include your name, address and the last four digits of your Bloomingdale's proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request, or
-*   Contact Customer Service at 1-888-529-2254,
+*   Contact Customer Service at 1-888-922-7026,
 
 **Online Behavioral Advertising**: Online behavioral advertising uses information about you to provide relevant, targeted advertising of interest to you. Please click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive advertising from bloomingdales.com, however, these ads may not be as relevant to you.
 
@@ -147,7 +147,7 @@ If you are a registered user of bloomingdales.com, you can update your informati
 
 If you have questions about your order, you may check your order status online in My Order.
 
-If you have any additional questions, please call our Customer Service department at 1-888-529-2254.
+If you have any additional questions, please call our Customer Service department at 1-888-922-7026.
 
 If you are an international customer and want access to your information, please click here.
 
@@ -167,13 +167,13 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 **International Customer Privacy**
 
-To fill international orders, bloomingdales.com partners with FiftyOne, Inc. ("FiftyOne"). FiftyOne will carefully process your personal information, with at least the same level of privacy protection set forth in the the U.S. - EU Safe Harbor Privacy Principles and the U.S. - Swiss Safe Harbor Privacy Principles and as established by the U.S. Department of Commerce. FiftyOne also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.
+To fill international orders, bloomingdales.com partners with Borderfree, Inc. ("Borderfree"). Borderfree will carefully process your personal information, with at least the same level of privacy protection set forth in the the U.S. - EU Safe Harbor Privacy Principles and the U.S. - Swiss Safe Harbor Privacy Principles and as established by the U.S. Department of Commerce. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.
 
-When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by FiftyOne. On the checkout page you will be required to submit personal information to FiftyOne to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from bloomingdales.com.
+When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfr. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from bloomingdales.com.
 
-FiftyOne will notify bloomingdales.com of the approval of your order, and bloomingdales.com will then ship approved orders to FiftyOne. Simultaneously, FiftyOne will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, FiftyOne makes the sale to you as the merchant of record. When ordering a product, you will be presented with FiftyOne's terms and conditions. You must agree to them to receive the product(s) you ordered.
+Borderfree will notify bloomingdales.com of the approval of your order, and bloomingdales.com will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions. You must agree to them to receive the product(s) you ordered.
 
-Once you have agreed that FiftyOne may share your personal information with bloomingdales.com, that data is protected by this notice of privacy practices and you consent to the transfer and storage of that information on our servers located in the United States.
+Once you have agreed that Borderfree may share your personal information with bloomingdales.com, that data is protected by this notice of privacy practices and you consent to the transfer and storage of that information on our servers located in the United States.
 
 We adhere to both the EU and Swiss Safe Harbor Privacy Principles. We have certified to the U.S. Department of Commerce, Switzerland, and the European Union that our processing of personal data is in compliance with these principles and we perform periodic self-assessments to verify ongoing compliance.
 
