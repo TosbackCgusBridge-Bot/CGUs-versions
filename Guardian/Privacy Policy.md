@@ -1,4 +1,4 @@
-This is the main privacy policy for guardian.co.uk, guardiannews.com, and for certain services provided through these and other Guardian websites and applications ("our sites") by Guardian News &. Media Limited, and Guardian News &. Media LLC ("GNM").
+This is the main privacy policy for theguardian.com and for certain services provided through these and other Guardian websites and applications ("our sites") by Guardian News &. Media Limited, and Guardian News &. Media LLC ("GNM").
 
 If you use GuardianWitness, please read the GuardianWitness privacy policy.
 
@@ -66,7 +66,7 @@ If you log-in to our sites using a twitter log-in as a means of authentication w
 
 **Use of children's data**
 
-Except for children's books, GNM does not knowingly collect or store any personal information about children under the age of 16. Children's books is a service for children which requires parental consent to join, no personal information on children is displayed on the site, and all contributions are moderated prior to being published. For any questions concerning children's books, please contact: Children's books, Guardian News and Media, 90 York Way, London, N1 9GU or by emailing childrens.books@guardian.co.uk.
+Except for children's books, GNM does not knowingly collect or store any personal information about children under the age of 16. Children's books is a service for children which requires parental consent to join, no personal information on children is displayed on the site, and all contributions are moderated prior to being published. For any questions concerning children's books, please contact: Children's books, Guardian News and Media, 90 York Way, London, N1 9GU or by emailing childrens.books@theguardian.com.
 
 **Updating your personal information**
 
@@ -117,7 +117,7 @@ This information we collect about behaviour on your computer enables us to group
 
 It is important to remember that none of the OBA techniques we employ uses or requires us to collect information such as your name, email address, postal address or telephone number.
 
-We may also share anonymised behavioural data with advertising partners. This may mean that when you are on other websites you are served advertising based on your behaviour on guardian.co.uk and guardiannews.com, and on guardian.co.uk and guardiannnews.com you may be served advertising based on your behaviour on other sites.
+We may also share anonymised behavioural data with advertising partners. This may mean that when you are on other websites you are served advertising based on your behaviour on theguardian.com, and on theguardian.com you may be served advertising based on your behaviour on other sites.
 
 Behavioural retargeting is another form of OBA that enables us and some of our advertising partners to show you ads based on browsing patterns and interactions with the site away from our sites. For example, if you have visited the website of an online clothes shop you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This is allows companies to advertise to website visitors who leave their website without making a purchase. The privacy policy of criteo, one of the partners that we work with for behavioural retargeting is here: criteo.com/en/privacy-policy.
 
@@ -135,9 +135,9 @@ Our sites contain contextual affiliate links from which we may earn revenue. Our
 
 **Legal information and how to contact us**
 
-For the purposes of the UK Data Protection Act 1998, the Data Controller for guardian.co.uk, guardiannews.com and services provided through the websites by GNM is Guardian News &. Media Limited, King's Place, 90 York Way, London N1 9GU.
+For the purposes of the UK Data Protection Act 1998, the Data Controller for theguardian.com and services provided through the websites by GNM is Guardian News &. Media Limited, King's Place, 90 York Way, London N1 9GU.
 
-If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding GNM's use of personal data please contact the Data Protection Manager at the above address, or by email to dataprotection@guardian.co.uk.
+If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding GNM's use of personal data please contact the Data Protection Manager at the above address, or by email to dataprotection@theguardian.com.
 
 Dispute Resolution for Guardian News &. Media LLC
 
@@ -170,3 +170,5 @@ April 2012: Information on logging onto our sites using social networking log-in
 February 2013: Applicability of policy to other websites and applications added.
 
 May 2013:  Information on mobile device advertising added.
+
+July 2013: References to guardian.co.uk and guardiannews.com replaced with references to theguardian.com.
