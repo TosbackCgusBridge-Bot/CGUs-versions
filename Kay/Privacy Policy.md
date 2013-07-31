@@ -44,7 +44,7 @@ We may send you catalogs or e-mails to inform you of new products, services and 
 
    Kay Jewelers
 
-   Attn: Customer Relations
+   Attn: Corporate Customer Care
 
    375 Ghent Road
 
@@ -70,7 +70,7 @@ That notice is available here or you may call 1-800-844-7130, or write:
 
 Kay Jewelers
 
-Attn: Credit Customer Service
+Attn: Corporate Customer Care
 
 375 Ghent Road
 
