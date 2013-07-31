@@ -1,4 +1,6 @@
-PLEASE NOTE that our privacy policy has changed, effective May 10, 2013.
+**Click here to see our updated privacy policy, which goes into effect on August 30, 2013.**
+
+EFFECTIVE May 10, 2013.
 
 J.Crew Group, Inc. and our family of brands, which include, but are not limited to J.Crew, crewcuts and Madewell (collectively, "J.Crew") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
 
