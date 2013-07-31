@@ -177,4 +177,4 @@ S
 
 *   Software Disclaimer
 
-Retrieved from "https://wiki.sonic.net/wiki/Category:Policies"
+Retrieved from "https://wiki.sonic.net/index.php?title=Category:Policies&oldid=4475"
