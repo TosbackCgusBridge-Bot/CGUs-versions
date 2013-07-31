@@ -61,11 +61,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
+        *   $6 Candle with any purchase
         *   Sale: Up to 75% Off
-        *   3-Wick Candles: 2 for $22
+        *   3-Wick Candles: 50% Off
         *   Wallflowers Refills: $6
         *   Wallflowers: 6 for $24
-        *   Mason Jar Candles: 2 for $15
     *   Candles
         
         *   3-Wick Candles
@@ -107,6 +107,7 @@ Welcome! **(Log in)**
         
         *   Foaming Soap
         *   Deep Cleansing Soap
+        *   Moisturizing Soap
         *   Soap Accessories
         
         Hand Sanitizer
@@ -122,7 +123,7 @@ Welcome! **(Log in)**
         *   Fresh Picked Body Care
     *   Top Fragrances
         *   Apple Mango
-        *   Black Raspberry Vanilla
+        *   Black Cherry Merlot
         *   Caribbean Escape
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
@@ -207,10 +208,10 @@ Welcome! **(Log in)**
         *   Gift Wrap
 *   *   Features
         *   Sale: Up to 75% Off
-        *   3-Wick Candles: 2 for $22
         *   Body Care: Buy 3 Get 2 Free
         *   Hand Soap: 6 for $20
         *   Wallflowers Refills: $6
+        *   Wallflowers: 6 for $24
     *   Body &. Bath
         
         *   Body Lotion
