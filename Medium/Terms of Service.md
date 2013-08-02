@@ -131,7 +131,7 @@ Any notice to Medium under this Agreement shall be in writing and shall be effec
 
 Medium deals with copyright infringement on Medium Services in accordance with the Digital Millennium Copyright Act. We have a policy of terminating repeat copyright infringers in appropriate circumstances. For information on the DMCA, you may look here http://www.citmedialaw.org/legal-guide/copyright-claims-based-user-content or here http://chillingeffects.org/dmca512/faq.cgi .
 
-The contact information for Medium’s Designated Agent for receipt of notices of claimed infringement is here:.
+The contact information for Medium’s Designated Agent for receipt of notices of claimed infringement is here:
 
 The Obvious Corporation  
 800 Market Street, Suite 800  
