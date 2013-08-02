@@ -1,7 +1,7 @@
 1.  Home /
 2.  Privacy Policy
 
-Privacy Policy. Keeping your information top secret.
+Privacy Policy. Keeping your information top secret. Privacy Policy  
 
 Effective Date August 3, 2010
 
