@@ -33,7 +33,7 @@ License Agreements
 
 License Agreements
 
-CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S End User License Agreement — Type S View More Returns
+End User License Agreement — Type S CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S View More Returns
 
 Returns
 
