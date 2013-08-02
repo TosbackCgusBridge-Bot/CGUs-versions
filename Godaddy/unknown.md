@@ -1,4 +1,4 @@
-**Last Revised: July 22, 2013**
+**Last Revised: July 31, 2013**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -576,7 +576,7 @@ _Registration Restrictions_.  You represent and warrant that you have a local p
 
 **46\. PROVISIONS SPECIFIC TO .LA REGISTRATIONS**
 
-You ackknowlege and agree to obey, comply with and be bound by any and all registry rules, polices and agreements and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, polices and agreements and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
 
 **47\. provisions specific to .me registrationS** 
 
