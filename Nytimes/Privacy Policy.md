@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Why Netflix matters
+Search Help Summing up the Lincoln Center Festival
 
-Also in Video »
+Also in Theater »
 
-*   Vows: Christine and Indra
-*   Intersection: Bicycle style in the Pearl
+*   Hollywood's big bet on Broadway adaptations
+*   Decades after a strike, still living with the fallout
 
   
 
