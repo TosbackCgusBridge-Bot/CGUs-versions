@@ -1,8 +1,8 @@
 Go to WhitePages.com  
 Customer Support
 
-*   Known Issues
 *   FAQ
+*   Known Issues
 *   Contact
 *   Give Feedback
 
@@ -86,6 +86,7 @@ If you have any questions about this policy, please write to WhitePages Privacy 
 
 *   Quick Find
     *   FAQ
+    *   Known Issues
     *   Other
     *   Text Lookup
     *   WhitePages
