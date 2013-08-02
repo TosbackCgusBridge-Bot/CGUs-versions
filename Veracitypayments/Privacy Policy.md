@@ -11,7 +11,7 @@ Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank,
 *   Associations
 *   Inside Buzz
 
-» Client Login **NEWS:** Why Retailers Should Adopt Mobile Payments EMV: Reap Rewards by Adopting Early Veracity Payment Solutions Continues Momentum Implementing Payment Solutions for Small and Medium-Sized Merchants Veracity Payment Solutions CFO Stephanie Sharp Named Finalist in Atlanta Business Chronicle CFO of the Year Awards Small Business Association of Michigan Signs With Midwest Transaction Group for Member Payment Services
+» Client Login **NEWS:** Veracity Payment Solutions Continues Momentum Implementing Payment Solutions for Small and Medium-Sized Merchants Veracity Payment Solutions CFO Stephanie Sharp Named Finalist in Atlanta Business Chronicle CFO of the Year Awards Small Business Association of Michigan Signs With Midwest Transaction Group for Member Payment Services Veracity Payment Solutions Appoints Rick Caldarella as Vice President of Product Management Veracity Payment Solutions Appoints Matt Thatcher as Executive Vice President of Business Development
 
 *   Quick Links
 *   Featured Product
