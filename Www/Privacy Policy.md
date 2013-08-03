@@ -165,10 +165,12 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @DavidAgnew44
         *   @DrBiden
         *   @FLOTUS
+        *   @HealthCareTara
         *   @JEarnest44
         *   @JesseCLee44
         *   @JoiningForces
         *   @JSmith44
+        *   @Katie44
         *   @KS44
         *   @LaCasaBlanca
         *   @LetsMove  
@@ -180,7 +182,9 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @PressSec
         *   @ProjectMyGov
         *   @Rhodes44
+        *   @Schultz44
         *   @Simas44
+        *   @Vargas44
         *   @VJ44
         *   @VP
         *   @WethePeople
@@ -272,6 +276,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: July 23, 2013
+Updated: August 2, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
