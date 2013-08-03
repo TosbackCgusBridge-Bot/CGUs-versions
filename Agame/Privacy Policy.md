@@ -9,15 +9,16 @@ Newbie   Level 1 0 points
 Search
 
 *   Home
-*   Best Games
 *   Social Games
 *   Racing
 *   Action
-*   Girls
+*   MMO
 *   Sports
 *   Skill
-*   Multiplayer
+*   Girls
 *   Adventure
+*   War Games
+*   Skateboarding
 *   Puzzle
 *   Board &. Card
 *   Sonic Games
