@@ -11,8 +11,8 @@
 *   Careers
 *   Disclaimer
 *   Privacy policy
-*   Audi collection store
 *   Interest based ads
+*   Audi collection store
 
 Search here. Find anything.
 
@@ -68,8 +68,8 @@ Explore Audi
 *   Careers
 *   Disclaimer
 *   Privacy policy
-*   Audi collection store
 *   Interest based ads
+*   Audi collection store
 
 Audi of America. All rights reserved.
 
