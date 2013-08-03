@@ -213,7 +213,8 @@ For GM Family First participants, you may correct your information by contacting
 
 **●** GM Military Discount
 
-**●** Credit Union Discount from GM
+**●** Credit Union Discount from GM  
+    
 
 **Changes to Privacy Statement**  
   
