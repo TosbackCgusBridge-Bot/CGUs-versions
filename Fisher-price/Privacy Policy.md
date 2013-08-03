@@ -8,7 +8,7 @@
     *   Baby Toys
     *   Special Offers
     
-*   *   View More >
+*   *   View More
     
 *   *   Gear, toys, and more essentials for baby
     
