@@ -10,7 +10,7 @@ Welcome! **(Log in)**
         *   Select Body Care: $5
         *   Signature: Buy 3 Get 2 Free
         *   Online Only Body Care: Buy 3 Get 2 Free
-        *   Body Care: Up to 50% Off
+        *   Try Our New Fragrances: $8 or 2 for $12
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -89,14 +89,15 @@ Welcome! **(Log in)**
         *   Room Sprays &. Mists
         *   Scentportable Car Fresheners
     *   Top Fragrances
-        *   Apple Crumble
-        *   Caribbean Escape
-        *   Honeysuckle
+        *   Autumn
         *   Japanese Cherry Blossom
-        *   Lilac Blossom
+        *   Leaves
+        *   Lemon Mint Leaf
         *   Mahogany Teakwood
-        *   Seaside Escape
-        *   Watermelon Lemonade
+        *   Marshmallow Fireside
+        *   Pumpkin Caramel Latte
+        *   Pumpkin Cupcake
+        *   Sweet Cinnamon Pumpkin
         *   View All Fragrances
 *   *   Features
         *   Sale: Up to 75% Off
@@ -254,16 +255,14 @@ Welcome! **(Log in)**
     *   Top Fragrances
         *   Aruba Coconut
         *   Bali Mango
-        *   Caribbean Escape
         *   Coconut Cove
         *   Forever Red
-        *   Honeysuckle
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
+        *   Berry Sangria
+        *   Coconut Leaves
 *   *   Features
-        *   Summer Paradise!
-        *   Beautiful Day
-        *   Lakeside
+        *   We Love Pumpkin
 
 *   *   Features
         *   Save Up to 75% Off Select Items
