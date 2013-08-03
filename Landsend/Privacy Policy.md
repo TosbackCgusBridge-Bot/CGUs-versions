@@ -81,7 +81,7 @@ Enter Keyword or Item # Search
         *   Regular
         *   Plus
         *   Petite
-    *   Footwear
+    *   Shoes
         *   Regular
         *   Wide
         *   Regular Calf
@@ -439,9 +439,8 @@ Enter Keyword or Item # Search
         *   More Featured Shops
         *   New Arrivals
         *   Cardigan Shop
-        *   One Item Three Ways
-        *   Summer Look Book
         *   The Starfish Collection
+        *   Landmark Handbags
         *   Shop By Fit
         *   Regular
         *   Plus
@@ -462,7 +461,7 @@ Enter Keyword or Item # Search
         *   Outerwear
         *   Hats, Gloves &. Scarves
         *   Sleepwear
-        *   Footwear
+        *   Shoes
         *   Socks, Tights &. Underwear
         *   Accessories
         *   Activewear
@@ -478,6 +477,8 @@ Enter Keyword or Item # Search
     *   Canvas Lands' End
     *   More Featured Shops
     *   New Arrivals
+    *   Super-T™ Collection
+    *   No Iron Shop
     *   Wear to Work
     *   Shop By Fit
     *   Regular
@@ -515,6 +516,7 @@ Enter Keyword or Item # Search
         *   Shoes
         *   More Featured Shops
         *   New Arrivals
+        *   First Day Looks
         *   Girls Knit Kit
         *   Boys Iron Knee
         *   Shop By Age Range
@@ -620,6 +622,7 @@ Enter Keyword or Item # Search
         *   Hotel Bed &. Bath Collection
         *   Storage &. Organization
         *   For the Dorm
+        *   Game Day Gear
     *   *   Categories
         *   Bedding
         *   Bath
