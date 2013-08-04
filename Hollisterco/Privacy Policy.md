@@ -147,6 +147,8 @@ Updating Personal Information in Your Account
 
 If you have created an online account or become a member of the Club Cali program (collectively “Membership”) we prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information, including your billing address, preferred shipping information, payment details, and contact information. Just sign in to your Membership with your email address and password, and you'll see an overview page where you can update your information.
 
+To request to have your account cancelled send an email to Privacy\_Policy@HollisterCo.com and include the email address of the account you wish to cancel.
+
 Privacy of Children
 
 Our Websites that link to this privacy policy are not directed at anyone under the age of 13, and no one under the age of 13 should provide personal information on these Websites.
