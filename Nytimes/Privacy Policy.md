@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help House hunting in ... Amsterdam
+Search Help "Shida" is Jeannette Bayardelle's solo showcase
 
-Also in Real Estate »
+Also in Theater »
 
-*   Tour this canal-side home in Amsterdam
-*   Real estate Q &. A
+*   Fighting Shakespeare's wars on "Henry VI" battlefields
+*   "I Forgive You, Ronald Reagan," at the Beckett Theater
 
   
 
