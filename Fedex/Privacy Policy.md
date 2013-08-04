@@ -2,7 +2,7 @@ English
 
 *   Español
 
-Locations Support My FedEx Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
+Locations Support My Fedex Rewards My Profile Ship Track Manage Learn FedEx Office ® Menu Package, Envelope, or  
 Express Freight FedEx Express or FedEx Ground
 
 *   Create Shipment
@@ -133,7 +133,7 @@ Knowledge Sharing Resources and Information
 *   Expert Advice
 *   Articles
 *   Media Center
-*   FedEx Blog
+*   Citizenship Blog
 *   Developer Resource Center
 *   Compatible Solutions Program
 *   Industry Specific Solutions
@@ -158,10 +158,10 @@ Learn more Other Resources
 
 *   Print Online
 *   Signs and Banners
-*   Print and Go
+*   Mobile Printing
 *   Computer Services
 *   Business Cards
-*   Business Resource Center
+*   Ideas and Solutions
 
 Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile
 
