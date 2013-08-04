@@ -131,7 +131,7 @@ Enter Keyword or Item # Search
         *   Big
         *   Short
     *   Ties
-    *   Footwear
+    *   Shoes
         *   Regular
         *   Regular Calf
         *   Wide
@@ -218,7 +218,7 @@ Enter Keyword or Item # Search
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
             *   Infant/Toddler
-        *   Footwear
+        *   Shoes
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
@@ -272,7 +272,7 @@ Enter Keyword or Item # Search
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
             *   Infant/Toddler
-        *   Footwear
+        *   Shoes
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
@@ -496,7 +496,7 @@ Enter Keyword or Item # Search
     *   Pants
     *   Sportcoats &. Blazers
     *   Ties
-    *   Footwear
+    *   Shoes
     *   Sleepwear
     *   Shorts
     *   Swimwear
@@ -542,7 +542,7 @@ Enter Keyword or Item # Search
         *   Tights, Socks &. Underwear
         *   Accessories
         *   Sleepwear
-        *   Footwear
+        *   Shoes
         *   School Uniform
         *   Sale
     *   Boys
@@ -558,7 +558,7 @@ Enter Keyword or Item # Search
         *   Ties &. Accessories
         *   Socks &. Underwear
         *   Sleepwear
-        *   Footwear
+        *   Shoes
         *   School Uniform
         *   Sale
     *    quality. value. service. **guaranteed. period.**®
