@@ -124,13 +124,13 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Modèle conditions générales d'utilisation
 *   Condition generale d'utilisation
 *   Conditions générales de vente » Forum - Webmaster
-*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Modèle de conditions générales de vente » Forum - Webmaster
-*   Mentions légales et CGV en ANGLAIS » Forum - Webmaster
-*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Conditions générales d'utilisation » Articles - Guide d'utilisation
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
 
 Communautés d'assistance et de conseils.
 
 *   Forum Webmastering
-*   Forum Vos droits sur internet
-*   Forum SFR
+*   Forum Internet
+*   Forum Messagerie
