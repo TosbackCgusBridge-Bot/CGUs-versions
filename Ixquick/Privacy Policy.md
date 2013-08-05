@@ -30,7 +30,7 @@ _Ixquick does not use identifying cookies._Cookies are small pieces of data that
 
 External Links
 
-As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Ixquick has no control, and who are not covered by this privacy policy. Ixquick is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Ixquick.com website. Ixquick offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these site. Furher information on this great privacy tool can be found here.
+As a search engine, and as an advertising publisher, you will find various links on our site, including but not limited to search results and sponsored results. These sites are owned and maintained by independent companies, over which Ixquick has no control, and who are not covered by this privacy policy. Ixquick is not liable or responsible for the content of these sites, or their collection of information and its use. Please note that this privacy policy applies only to the Ixquick.com website. Ixquick offers a proxy function that allows the users to see the information on external sites without disclosing their IP address to these sites. Furher information on this great privacy tool can be found here.
 
 Email addresses
 
@@ -38,7 +38,7 @@ When you send comments, questions, suggestions, or feedback to Ixquick via email
 
 Children Under 13 Years of Age
 
-_Note that we do not collect any peronal data at all._As a consequence Ixquick does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.
+_Note that we do not collect any personal data at all._As a consequence Ixquick does not knowingly request, collect, or share personally identifiable information from users under the age of 13 either. We feel protecting children's privacy online is very important.
 
 Information Sharing
 
