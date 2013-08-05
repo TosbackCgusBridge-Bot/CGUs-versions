@@ -7,10 +7,10 @@ Welcome! **(Log in)**
 
 *   *   Features
         *   Sale: Up to 75% Off
-        *   Travel Body Care: 3 for $6
-        *   Select Body Care: $5
         *   Signature: Buy 3 Get 2 Free
         *   Online Only Body Care: Buy 3 Get 2 Free
+        *   Try Our New Fragrances: $8 or 2 for $12
+        *   Sale: Up to 75% Off
     *   Lotions &. Creams
         
         *   Body Lotion
