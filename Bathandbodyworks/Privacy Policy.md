@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Sale: Up to 75% Off
+        *   Sale: Up to 50% Off
         *   Signature: Buy 3 Get 2 Free
         *   Online Only Body Care: Buy 3 Get 2 Free
-        *   Try Our New Fragrances: $8 or 2 for $12
-        *   Sale: Up to 75% Off
+        *   Try Our New Fragrances: $10
+        *   $5 Select Signature Body Care
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -62,11 +62,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   $6 Candle with any purchase
-        *   Sale: Up to 75% Off
+        *   Sale: Up to 50% Off
         *   3-Wick Candles: 50% Off
-        *   Wallflowers Refills: $6
+        *   Wallflowers Refills: 3 for $20
         *   Wallflowers: 6 for $24
+        *   Mason Jar Candles: 2 for $15
     *   Candles
         
         *   3-Wick Candles
@@ -101,9 +101,8 @@ Welcome! **(Log in)**
         *   Sweet Cinnamon Pumpkin
         *   View All Fragrances
 *   *   Features
-        *   Sale: Up to 75% Off
-        *   Select Soaps: $3
-        *   Hand Soap: 6 for $20
+        *   Sale: Up to 50% Off
+        *   Hand Soap: 7 for $20
         *   PocketBac: 5 for $5
     *   Hand Soap
         
@@ -136,11 +135,11 @@ Welcome! **(Log in)**
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Features
-        *   Sale: Up to 75% Off
-        *   Shower Smoothies: $10
+        *   Sale: Up to 50% Off
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip: Buy 2 Get 1 Free
+        *   Aromatherapy
     *   Aromatherapy
         
         *   Stress Relief
@@ -181,7 +180,7 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
 *   *   Features
-        *   Save Up to 75% Off Select Items
+        *   Save Up to 50% Off Select Items
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
@@ -209,10 +208,10 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Sale: Up to 75% Off
+        *   Sale: Up to 50% Off
+        *   Hand Soap: 7 for $20
         *   Body Care: Buy 3 Get 2 Free
-        *   Hand Soap: 6 for $20
-        *   Wallflowers Refills: $6
+        *   Wallflowers Refills: 3 for $20
         *   Wallflowers: 6 for $24
     *   Body &. Bath
         
@@ -266,7 +265,7 @@ Welcome! **(Log in)**
         *   We Love Pumpkin
 
 *   *   Features
-        *   Save Up to 75% Off Select Items
+        *   Save Up to 50% Off Select Items
         *   25% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
