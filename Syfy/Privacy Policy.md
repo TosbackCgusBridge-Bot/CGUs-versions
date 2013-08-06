@@ -251,11 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Warehouse 13 Reel - Comic-Con 2013 Warehouse 13 Reel - Comic-Con 2013
-
-See what's in store for the new season of Warehouse 13 at Comic-Con 2013!
-
-A Year From Now You Won't Recognize This Plac ... A Year From Now You Won't Recognize This Place
+Syfy Video A Year From Now You Won't Recognize This Plac ... A Year From Now You Won't Recognize This Place
 
 Defiance, the show comes back June 2014 but that doesn't mean it ends. Go to Defiance.com
 
@@ -266,6 +262,10 @@ Will Alak and Christie hear the pitter patter of little feet? Highlight from thi
 Datak's Nose - Comic-Con 2013 Exclusive Datak's Nose - Comic-Con 2013 Exclusive
 
 Tony Curran's mother doesn't approve of her own son's nose. Highlight from this year's Defiance panel at Comic-Con 2013.
+
+Have You Entered the Contest? Have You Entered the Contest?
+
+Enter the contest for Defiance to win!
 
 *   FAQ
 *   Feedback
