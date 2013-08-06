@@ -17,7 +17,7 @@ UCLA works in a distributed information technology environment. therefore, polic
 
 UCLA Name and Trademark
 
-UCLA®, UCLA Bruins®, University of California Los Angeles® and all related trademarks are the property of The Regents of the University of California. UCLA names and trademarks may not be used by third parties without specific written permission as outlined in UCLA Policy 110 (see www.adminvc.ucla.edu/appm/).
+UCLA®, UCLA Bruins®, University of California Los Angeles® and all related trademarks are the property of The Regents of the University of California. UCLA names and trademarks may not be used by third parties without specific written permission as outlined in UCLA Policy 110 (see http://www.adminpolicies.ucla.edu/app/Default.aspx?&id=110).
 
 Other trademarks, service marks, and trade names used in the ucla.edu web space are the property of their respective owners.
 
