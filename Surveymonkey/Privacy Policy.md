@@ -270,7 +270,8 @@ PRIVACY FOR SURVEY RESPONDENTS
 8.  Additional information for Japanese users
     *   You agree that you are responsible for notifying the respondents of surveys that you create using our services about how SurveyMonkey may use the respondents’ survey responses and personal data as described in this privacy policy and obtaining prior consent from respondents to disclose their personal data to SurveyMonkey.
 
-*   Follow Us:
+*   Community:
+*   Developers
 *   Facebook
 *   Twitter
 *   LinkedIn
@@ -293,23 +294,26 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Privacy Policy
 *   Anti-Spam Policy
 *   Security Statement
-*   Survey Opt-Out
 
-*   Dansk
-*   Deutsch
+_°_
+
+*   Language:
 *   English
 *   Español
-*   Français
-*   한국어
-*   Italiano
-*   Nederlands
-*   日本語
-*   Norsk
 *   Português
+*   Deutsch
+*   Nederlands
+*   Français
 *   Русский
-*   Suomi
+*   Italiano
+*   Dansk
 *   Svenska
+*   日本語
+*   한국어
 *   中文(繁體)
+*   Türkçe
+*   Norsk
+*   Suomi
 
 Copyright © 1999-2013 SurveyMonkey
 
