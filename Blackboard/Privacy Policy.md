@@ -18,6 +18,7 @@ The European Union has enacted privacy laws and regulations which seek to better
 To help with compliance with this regulation, Blackboard has provided the following summaries about the use of cookies within Blackboard Products and Services.
 
 Cookies and Privacy Information for Blackboard Learn  
+Cookies and Privacy Information for Blackboard xpLor  
 Cookies and Privacy Information for Xythos Filer  
 Cookies and Privacy Information for Xythos Drive  
 Cookies and Privacy Information for SafeAssign  
@@ -34,7 +35,6 @@ Cookies and Privacy Information for Collaborate - Wimba Classroom
 Cookies and Privacy Information for Mobile Central  
 Cookies and Privacy Information for Mobile Learn  
 Cookies and Privacy Information for Mobile Portal  
- 
 
 Support for SSL Encryption
 
