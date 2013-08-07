@@ -6,11 +6,11 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Sale: Up to 50% Off
         *   Signature: Buy 3 Get 2 Free
         *   Online Only Body Care: Buy 3 Get 2 Free
         *   Try Our New Fragrances: $10
         *   $5 Select Signature Body Care
+        *   Body Care: Up to 50% Off
     *   Lotions &. Creams
         
         *   Body Lotion
@@ -44,17 +44,17 @@ Welcome! **(Log in)**
         *   Accessories
     *   Top Fragrances
         
-        *   Beautiful Day
-        *   Coconut Water Chill
-        *   Forever Red
-        *   Forever Sunshine
+        *   Sexy Dahlia Rush
+        *   Sweet Peony Dream
         *   Japanese Cherry Blossom
+        *   Forever Red
         *   Moonlight Path
-        *   Pure Paradise
-        *   Sugar Berry Smash
         *   Sweet Pea
+        *   Twilight Woods
+        *   Cashmere Glow
         *   Warm Vanilla Sugar
-        *   White Mango Chill
+        *   Coconut Water Chill
+        *   Sweet Cinnamon Pumpkin
         *   View All Fragrances
         
         Brands
@@ -62,11 +62,11 @@ Welcome! **(Log in)**
         *   Aromatherapy
         *   View All Brands
 *   *   Features
-        *   Sale: Up to 50% Off
-        *   3-Wick Candles: 50% Off
-        *   Wallflowers Refills: 3 for $20
         *   Wallflowers: 6 for $24
+        *   Wallflowers Refills: 3 for $20
         *   Mason Jar Candles: 2 for $15
+        *   Mini Candles: 3 for $10
+        *   Scentportables: Buy 4 Get 2 Free
     *   Candles
         
         *   3-Wick Candles
@@ -101,9 +101,9 @@ Welcome! **(Log in)**
         *   Sweet Cinnamon Pumpkin
         *   View All Fragrances
 *   *   Features
-        *   Sale: Up to 50% Off
         *   Hand Soap: 7 for $20
         *   PocketBac: 5 for $5
+        *   Sale: Up to 50% Off
     *   Hand Soap
         
         *   Foaming Soap
@@ -135,11 +135,11 @@ Welcome! **(Log in)**
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Features
-        *   Sale: Up to 50% Off
         *   True Blue Spa: Buy 2 Get 1 Free
         *   C.O. Bigelow: Buy 2 Get 1 Free
         *   Lip: Buy 2 Get 1 Free
         *   Aromatherapy
+        *   Mini Body Care
     *   Aromatherapy
         
         *   Stress Relief
@@ -180,9 +180,9 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
 *   *   Features
-        *   Save Up to 50% Off Select Items
-        *   25% Off Select Gift Sets
+        *   Up to 50% Off Select Gift Sets
         *   Online Exclusives
+        *   Save Up to 50% Off Select Items
     *   Shop By Price
         
         *   $20 &. Under Gifts
@@ -208,11 +208,11 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Sale: Up to 50% Off
         *   Hand Soap: 7 for $20
         *   Body Care: Buy 3 Get 2 Free
         *   Wallflowers Refills: 3 for $20
         *   Wallflowers: 6 for $24
+        *   Sale: Up to 50% Off
     *   Body &. Bath
         
         *   Body Lotion
@@ -259,14 +259,14 @@ Welcome! **(Log in)**
         *   Black Cherry Merlot
         *   Vanilla Buttercream
         *   Japanese Cherry Blossom
-        *   Kitchen Lemon
-        *   Eucalyptus Spearmint
+        *   Sexy Dahlia Rush
+        *   Sweet Peony Dream
 *   *   Features
         *   We Love Pumpkin
 
 *   *   Features
         *   Save Up to 50% Off Select Items
-        *   25% Off Select Gift Sets
+        *   Up to 50% Off Select Gift Sets
         *   Online Exclusives
     *   Shop By Price
         
