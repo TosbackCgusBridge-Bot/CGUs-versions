@@ -160,7 +160,7 @@ For your package safety, it is best to have someone available to sign for your o
 *   Orders are available for pickup during regular store hours.
 *   You'll be required to sign for your order when you pick it up.
 *   Participating stores cannot accept orders with oversized items such as furniture or safes.
-*   Once your order is delivered to a store, you are responsible for picking it up.
+*   Once your order is delivered to a store, you are responsible for picking it up within 15 days.
 *   We're sorry, but individual stores will not deliver orders once they have arrived in store.
 
 US Privacy Policy
