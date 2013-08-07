@@ -18,7 +18,7 @@ This information is necessary to process your order, and we assure you that your
 
 You will have the option of saving your personal information in our secure system for future purchases. The information is stored in the form of a "cookie" in your computer. Even though you need cookies to be enabled to make an online purchase, it is not necessary to save information via cookies if you choose not to.
 
-PacSun collaborates with government agencies and security organizations to prevent fraud and fraudulent use of your personal information. During fraud prevention investigations, we may share information with the agencies that assist us, as permitted and required by US law. This information will never be used for marketing purposes. Usage is strictly assigned to assist and prevent fraud investigations.
+PacSun collaborates with government agencies and security organizations to prevent fraud and fraudulent use of your personal information. During fraud prevention investigations, we may share information with the agencies that assist us, as permitted and required by US law. Usage is strictly assigned to assist and prevent fraud investigations.
 
 If you're still not comfortable shopping online and want to phone in your order, by all means do so.
 
@@ -32,7 +32,7 @@ Register once, save time every time. By registering with PacSun.com, your checko
 
 EMAIL &. CATALOG SUBSCRIPTIONS
 
-Email sign-up is available during check-out and on every page of our website. If you sign up for our emails, you'll be the first to hear about up-coming sales, online exclusive discounts, contests and more. You can sign up to receive our PacSun email newsletter, outlet emails and our seasonal catalog. You'll always be able to unsubscribe from of these subscriptions, and we have a Contact Preference Center where you can manage these subscriptions so you only get what you're interested in. And no, we'll never sell or share your info with another company other than as provided herein or if you give us permission.
+Email sign-up is available during check-out and on every page of our website. If you sign up for our emails, you'll be the first to hear about up-coming sales, online exclusive discounts, contests and more. You can sign up to receive our PacSun email newsletter, outlet emails and our seasonal catalog. You'll always be able to unsubscribe from of these subscriptions, and we have a Contact Preference Center where you can manage these subscriptions so you only get what you're interested in.
 
 ONLINE CONTEST &. SWEEPSTAKES
 
