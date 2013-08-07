@@ -2,7 +2,7 @@
 
 **Shutterfly Online Privacy and Security**
 
-Last Updated: September 17, 2012
+Last Updated: April 1, 2013
 
 Shutterfly and its family of companies, Tiny Prints, Wedding Paper Divas, and Treat, take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -35,7 +35,7 @@ You may access and use the Sites solely for your personal, noncommercial use. Ex
 
 2\. Cookies
 
-Like many websites, we use cookies to collect anonymous visitor information. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
+Like many websites, we use cookies to collect anonymous visitor information. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser. They make it possible for us to store the contents of your shopping cart until you are ready to check out, recognize your browser when you visit and provide you with information about products that interest you. By doing this, we can personalize your return visits and save you time during checkout. We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by us, click here. It is possible to prevent cookies from being used in your browser by turning the feature off, but in order to enjoy the benefits of being a registered user, your browser must be set to accept cookies.
 
 3\. Authorized Third Parties
 
@@ -67,7 +67,7 @@ We use anonymous information, such as that pertaining to web pages you’ve view
 
 5\. Information Sharing With Third Parties
 
-From time to time we share the personal information we collect with trusted companies who work with or on behalf of Shutterfly and its family of companies. We may share personal information between our family of companies. We may also combine personal information with publicly available information and information we receive from or cross-reference with our partners. These companies may use your personal information to enhance and personalize your shopping experience with us, to communicate with you about products and events that may be of interest to you and for other promotional purposes. Information sharing allows us to introduce new resources based on your interests and needs. With that in mind, when you purchase an item, your customer information may be shared with other select companies whose products and services you may find useful and those select companies will handle, store, retain, use, share and access personal information in accordance with their own privacy policies, and Shutterfly and its family of companies disclaims any and all liability relating thereto.
+From time to time we share the personal information we collect with trusted companies who work with or on behalf of Shutterfly and its family of companies. We may share personal information between our family of companies. We may also combine personal information with publicly available information and information we receive from or cross-reference with our partners. These companies may use your personal information to enhance and personalize your shopping experience with us, to communicate with you about products and events that may be of interest to you and for other promotional purposes. Personal information shared with our marketing partners to deliver advertising tailored to your interests will be made anonymous by a third party. Information sharing allows us to introduce new resources based on your interests and needs. With that in mind, when you purchase an item, your customer information may be shared with other select companies whose products and services you may find useful and those select companies will handle, store, retain, use, share and access personal information in accordance with their own privacy policies, and Shutterfly and its family of companies disclaims any and all liability relating thereto.
 
 If you would prefer that we do not share your personal information with such third parties for their direct marketing purposes, you may submit an opt-out request as described in the section, “Opting Out of Information Sharing”.
 
