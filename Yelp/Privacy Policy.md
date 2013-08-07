@@ -1,4 +1,4 @@
-  Privacy Policy
+Privacy Policy
 
 **Last Updated on November 27, 2012.** This Privacy Policy is effective immediately for users registering for personal accounts after that date and will become effective on December 27, 2012 for pre-existing users. To review the previous policy, please click here.
 
