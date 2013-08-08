@@ -6,8 +6,8 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Signature: Buy 3 Get 2 Free
-        *   Online Only Body Care: Buy 3 Get 2 Free
+        *   Signature: Buy 3 Get 3 Free
+        *   Online Only Body Care: Buy 3 Get 3 Free
         *   Try Our New Fragrances: $10
         *   $5 Select Signature Body Care
         *   Body Care: Up to 50% Off
@@ -123,14 +123,14 @@ Welcome! **(Log in)**
         *   Hand Wash
         *   Fresh Picked Body Care
     *   Top Fragrances
-        *   Apple Mango
         *   Black Cherry Merlot
         *   Caribbean Escape
+        *   Fresh Picked Farm Stand Apple
+        *   Fresh Picked Sweet Clementine
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
         *   Peach Bellini
         *   Rainkissed Leaves
-        *   Strawberry Hibiscus
         *   Vanilla Berry Sorbet
         *   Wild Honeysuckle
         *   View All Fragrances
@@ -180,9 +180,9 @@ Welcome! **(Log in)**
         *   Travel
         *   Beauty Accessories
 *   *   Features
-        *   Up to 50% Off Select Gift Sets
+        *   Gift Sets: Up to 50% Off
         *   Online Exclusives
-        *   Save Up to 50% Off Select Items
+        *   Sale: Up to 50% Off
     *   Shop By Price
         
         *   $20 &. Under Gifts
@@ -208,8 +208,8 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
+        *   Body Care: Buy 3 Get 3 Free
         *   Hand Soap: 7 for $20
-        *   Body Care: Buy 3 Get 2 Free
         *   Wallflowers Refills: 3 for $20
         *   Wallflowers: 6 for $24
         *   Sale: Up to 50% Off
