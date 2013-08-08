@@ -27,7 +27,7 @@ In the unlikely event that NADAguides, one of its business units or substantiall
 
 Changes to this privacy policy  
   
-NADAguides may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates.  
+NADAguides may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the bottom of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates.  
   
 
 Privacy Policies  
