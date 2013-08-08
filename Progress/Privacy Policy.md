@@ -32,11 +32,11 @@ Tutorial videos
 
 Demystify your Audi and discover all it can do. These easy-to-understand how-to videos can help you do everything from personalize your vehicle controls to set up Audi connect®.
 
-View all videos More from Audi More from Audi More from Audi Audi SportPerformance has evolved.
+View all videos More from Audi More from Audi More from Audi Defining momentsFirst, ignore the rulebook.
 
-Performance engineered for the driver was born on the racetrack and tuned for the open road. Every ounce of innovation is designed to make each moment in an Audi performance model more epic than the last.
+For more than a hundred years we've stared adversity in the face. When they said it can't be any lighter, we defied them. When they said it can't go faster, we proved them wrong. Whenever they said it couldn't be done, we simply did it. This is the undying spirit at our core. This is Truth in Engineering.
 
-See the D.N.A. of Audi Sport Audi Certified pre-ownedScrutiny is in the eye of the beholder.
+See Audi defining moments Audi Certified pre-ownedScrutiny is in the eye of the beholder.
 
 Once a vehicle passes our exacting inspection process, you'll find it pretty difficult to tell the difference between a new Audi and Audi Certified pre-owned vehicle. We're pretty sure you'll appreciate our fastidious nature.
 
