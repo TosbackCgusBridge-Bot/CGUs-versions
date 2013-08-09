@@ -6,8 +6,8 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Signature: Buy 3 Get 3 Free
-        *   Online Only Body Care: Buy 3 Get 3 Free
+        *   Signature: Buy 3 Get 2 Free
+        *   Online Only Body Care: Buy 3 Get 2 Free
         *   Try Our New Fragrances: $10
         *   $5 Select Signature Body Care
         *   Body Care: Up to 50% Off
@@ -208,8 +208,8 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Body Care: Buy 3 Get 3 Free
         *   Hand Soap: 7 for $20
+        *   Body Care: Buy 3 Get 2 Free
         *   Wallflowers Refills: 3 for $20
         *   Wallflowers: 6 for $24
         *   Sale: Up to 50% Off
