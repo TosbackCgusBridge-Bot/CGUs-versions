@@ -163,7 +163,7 @@ Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of cl
 
 Notification must be submitted to the following Designated Agent: Ryan DeLuca.
 
-Full Address of Designated Agent to Which Notification Should be Sent: 2026 S Silverstone Way, Meridian, ID 83642, USA.
+Full Address of Designated Agent to Which Notification Should be Sent: 5777 N Meeker Ave, Boise, ID 83713, USA.
 
 To be effective, the notification must be in writing and include each of the following: (a) a physical or electronic signature of person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. (b) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site. (c) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material. (d) information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted. (e) a statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. and (f) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -171,7 +171,7 @@ We may give you notice that we have removed or disabled access to certain materi
 
 It is our policy to terminate relationships regarding content with third parties who repeatedly infringe the copyrights of others.
 
-Last modified on February 17, 2009.
+Last modified on August 8, 2013.
 
   
   
@@ -179,7 +179,7 @@ Bodybuilding.com Privacy Policy
 
 We are committed to protecting the privacy and security of the users of our Sites.
 
-This Privacy Policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Sites. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. If you have any questions or concerns about our Privacy Policy, please send an e-mail to webmaster@bodybuilding.com or contact us at: 2026 S Silverstone Way, Meridian, ID 83642, USA.
+This Privacy Policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Sites. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. If you have any questions or concerns about our Privacy Policy, please send an e-mail to webmaster@bodybuilding.com or contact us at: 5777 N Meeker Ave, Boise, ID 83713, USA.
 
 Scope Of Privacy Policy
 
@@ -275,7 +275,7 @@ Your Acceptance Of These Terms
 
 By using any of the Sites, you signify your acceptance of our Privacy Policy, your promise to comply with the representations you make and contained in the Privacy Policy and Terms of Use, and your understanding of the scope and limitations of the protections provided under the Privacy Policy and Terms of Use. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to our Terms of Use or Privacy Policy will mean that you accept those changes.
 
-Last modified on May 6, 2013.
+Last modified on August 8, 2013.
 
   
   
@@ -323,7 +323,7 @@ The Company's collection, use, sharing and transfer of any data generated, or an
 
 10\. Copyright Infringement
 
-We have the right to terminate, in appropriate circumstances as determined by Company in its sole discretion, the Application of users who are infringe copyright. Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement must be sent to Bodybuilding.com, LLC's designated agent: BodyBuilding.com, LLC, Attention: Erica W. Stump, Esq., 2026 S. Silverstone Way, Meridian, ID 83642.
+We have the right to terminate, in appropriate circumstances as determined by Company in its sole discretion, the Application of users who are infringe copyright. Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement must be sent to Bodybuilding.com, LLC's designated agent: BodyBuilding.com, LLC, Attention: Bill Carter, 5777 N Meeker Ave, Boise, ID 83713.
 
 To be effective, the notification must be a written communication that includes the following: (a) a physical or electronic signature of the person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. (b) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site. (c) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material. (d) information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted. (e) a statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. and (f) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -389,7 +389,7 @@ If any provision of this Agreement shall be unlawful, void, or unenforceable, th
 
 Your use of the Application includes the ability to enter into agreements electronically. YOU ACKNOWLEDGE THAT YOUR ELECTRONIC SUBMISSIONS CONSTITUTE YOUR AGREEMENT AND INTENT TO BE BOUND BY THIS AGREEMENT. YOU REPRESENT THAT YOU ARE OF A SUFFICIENT LEGAL AGE NECESSARY TO LEGALLY ENTER INTO AND BE BOUND BY LEGAL AGREEMENTS FORMED THROUGH THE APPLICATION. IF YOU ARE UNDER THE AGE OF 18, USE OF THE APPLICATION SHOULD ONLY OCCUR WITH THE INVOLVEMENT OF YOUR PARENT OR GUARDIAN.
 
-Last modified on June 15, 2010.
+Last modified on August 8, 2013.
 
   
   
@@ -399,8 +399,8 @@ If you have any questions about these Terms Of Use, Privacy Policy, iPhone EULA,
 
 Ryan DeLuca  
 Bodybuilding.com  
-2026 S Silverstone Wy  
-Meridian, ID 83642  
+5777 N Meeker Ave  
+Boise, ID 83713  
 USA  
 Phone: 1-877-991-3411 (Toll-Free) or +1-208-377-9002 (International)  
 Email: webmaster@bodybuilding.com
