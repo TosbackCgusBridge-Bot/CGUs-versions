@@ -4,7 +4,7 @@ _Effective Date: Thursday, July 29, 2010_
 
 _Welcome to Formspring!_
 
-Formspring.me, Inc. (“ **_Formspring_** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Formspring website located at www.formspring.me (the “ **_Site_** ”). If you have questions or concerns regarding this Privacy Policy, you should first contact Formspring at privacy@formspring.me or at the following address: Privacy Matters c/o Formspring.me, Inc., 182 Howard Street, PMB #531, San Francisco, California 94105.
+Helpa Services Inc. (“ **_Formspring_** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Formspring website located at www.formspring.me (the “ **_Site_** ”). If you have questions or concerns regarding this Privacy Policy, you should first contact Formspring at privacy@formspring.me or at the following address: Privacy Matters c/o Helpa Services Inc., 1333 Second St, Suite 400, Santa Monica, CA 90401.
 
 This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on the home page of the Site and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are advised to consult this Privacy Policy regularly for any changes.
 
@@ -104,4 +104,4 @@ The Site contains links to other websites and online services that are not owned
 
 Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at privacy@formspring.me or at Privacy Matters c/o Formspring.me, Inc., 182 Howard Street PMB #531, San Francisco, California 94105.
+If you have any questions about this Privacy Policy, please contact us at privacy@formspring.me or at Privacy Matters c/o Helpa Services Inc, 1333 Second St, Suite 400, Santa Monica, CA 90401.
