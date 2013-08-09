@@ -36,10 +36,6 @@ Visit our Compensation Portal
 *   HELP
 *   CareerBuilder Job Seeker Customer Service: **(866) 438-1485**
 *   **Get Connected:**
-    *   Facebook
-    *   Twitter
-    *   YouTube
-    *   Blog
 
 CareerBuilder
 
