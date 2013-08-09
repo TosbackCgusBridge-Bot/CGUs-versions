@@ -3,7 +3,7 @@ Onlinedatenschutzbestimmungen von Microsoft
 (Letzte Aktualisierung: April 12)  
 Auszüge aus den Datenschutzbestimmungen anzeigen
 
-Auf dieser Seite Erfassung persönlicher Daten Verwendung Ihrer persönlichen Daten Weitergabe Ihrer persönlichen Daten Zugriff auf Ihre persönlichen Daten Kommunikationspräferenzen Anzeigen von Werbung (Ablehnung) Sicherheit Ihrer persönlichen Daten Erfassung und Nutzung persönlicher Daten von Kindern Verwendung von Cookies Verwendung von Webbeacons Kontrolle von unerwünschten E-Mails („Spam“) TRUSTe-Zertifizierung Durchsetzung dieser Datenschutzbestimmungen Änderungen an diesen Datenschutzbestimmungen Kontaktinformationen
+Auf dieser Seite Erfassung persönlicher Daten Verwendung Ihrer persönlichen Daten Weitergabe Ihrer persönlichen Daten Zugriff auf Ihre persönlichen Daten Kommunikationspräferenzen Anzeigen von Werbung (Ablehnung) Sicherheit Ihrer persönlichen Daten Erfassung und Nutzung persönlicher Daten von Kindern Verwendung von Cookies Verwendung von Webbeacons Kontrolle von unerwünschten E-Mails („Spam“) Durchsetzung dieser Datenschutzbestimmungen Änderungen an diesen Datenschutzbestimmungen Kontaktinformationen
 
 We self-certify compliance with:  
 
@@ -181,10 +181,6 @@ Microsoft arbeitet möglicherweise mit anderen Unternehmen, die auf Microsoft-We
 Zum Seitenanfang Kontrolle von unerwünschten E-Mails („Spam“)
 
 Microsoft ist bestrebt, die Zahl unerwünschter kommerzieller E-Mails („Spam“) zu minimieren. Microsoft verfolgt eine strenge Anti-Spam-Richtlinie, die die Verwendung eines Hotmail-Kontos von Windows Live oder eines anderen E-Mail-Kontos von Microsoft zum Senden von Spam-E-Mails verbietet. Microsoft verkauft, verleast oder vermietet keine Adressen von E-Mail-Abonnenten an Drittanbieter. Obwohl Microsoft die verwendeten Technologien ständig überprüft und neue Technologien implementiert, z. B. erweiterte Filtermethoden, gibt es keine Technologie, die das Senden und Empfangen unerwünschter E-Mails vollständig unterbinden kann. Wenn Sie Tools zum Schutz vor Junk-E-Mails verwenden und sich im Internet vorsichtig bei der Weitergabe Ihrer E-Mail-Adresse verhalten, können Sie die Anzahl unerwünschter E-Mails wesentlich reduzieren.
-
-Zum Seitenanfang TRUSTe-Zertifizierung
-
-Microsoft wurde mit dem TRUSTe-Datenschutzsiegel ausgezeichnet, das bestätigt, dass diese Datenschutzbestimmungen und -verfahren gemäß den Anforderungen an Transparenz, Rechenschaftspflicht und Auswahl bei der Erfassung und Nutzung persönlicher Informationen im Rahmen des TRUSTe-Programms verifiziert wurden. Das TRUSTe-Programm gilt nicht für Informationen, die durch herunterladbare Software erfasst werden können. TRUSTe ist eine unabhängige Organisation, die es sich zum Ziel gesetzt hat, das Vertrauen der Konsumenten und Organisationen in das Internet durch die weltweite Vergabe des Datenschutz-Gütesiegels und innovativer Lösungen zur Datensicherheit zu fördern.
 
 Zum Seitenanfang Durchsetzung dieser Datenschutzbestimmungen
 
