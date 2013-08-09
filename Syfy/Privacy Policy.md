@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video A Year From Now You Won't Recognize This Plac ... A Year From Now You Won't Recognize This Place
+Syfy Video Warehouse 13 Reel - Comic-Con 2013 Warehouse 13 Reel - Comic-Con 2013
 
-Defiance, the show comes back June 2014 but that doesn't mean it ends. Go to Defiance.com
+See what's in store for the new season of Warehouse 13 at Comic-Con 2013!
 
-Jesse Rath and Babies - Comic-Con 2013 Exclus ... Jesse Rath and Babies - Comic-Con 2013 Exclusive
+Growing and Changing - Highlight from Comic - ... Growing and Changing - Highlight from Comic - Con 2013
 
-Will Alak and Christie hear the pitter patter of little feet? Highlight from this year's Defiance panel at Comic-Con 2013.
+This show has been through it all. Warehouse 13 highlight from Comic-Con 2013.
 
-Datak's Nose - Comic-Con 2013 Exclusive Datak's Nose - Comic-Con 2013 Exclusive
+Becoming a Family - Highlight from Comic - Co ... Becoming a Family - Highlight from Comic - Con 2013
 
-Tony Curran's mother doesn't approve of her own son's nose. Highlight from this year's Defiance panel at Comic-Con 2013.
+The cast has become a family. Warehouse 13 Panel Highlight from Comic-Con 2013
 
-Have You Entered the Contest? Have You Entered the Contest?
+Secret Weapon of the Show - Comic - Con 2013 ... Secret Weapon of the Show - Comic - Con 2013 Exclusive
 
-Enter the contest for Defiance to win!
+The success of Warehouse 13 can be pinpointed to this secret weapon. Warehouse 13 Panel at Comic-Con 2013
 
 *   FAQ
 *   Feedback
