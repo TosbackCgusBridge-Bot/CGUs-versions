@@ -263,6 +263,7 @@ Welcome! **(Log in)**
         *   Sweet Peony Dream
 *   *   Features
         *   We Love Pumpkin
+        *   New! Sweet &. Sexy Collection
 
 *   *   Features
         *   Save Up to 50% Off Select Items
