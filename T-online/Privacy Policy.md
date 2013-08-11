@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Datenschützer in Sachsen mit immer mehr Arbeit
 *   Studie: Unternehmen sehen wachsende Gefahr durch Datenklau-Attacken
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Russland verteidigt Snowden-Asyl
 *   Snowden soll bei Amerikanern in Moskau unterkommen
 *   Snowden bei Amerikanern in Moskau untergekommen
-*   USA "sehr enttäuscht" über Russlands Asyl für Snowden
 
 schließen schließen
 
+*   USA "sehr enttäuscht" über Russlands Asyl für Snowden
 *   Snowden geht es in Russland laut Vertrautem gut
 *   Snowden darf ein Jahr in Russland bleiben
 *   Telekommunikationsanbieter helfen laut Medien Geheimdiensten
@@ -113,7 +114,6 @@ schließen schließen
 *   Edward Snowden hat Transitbereich des Moskauer Flughafens verlassen
 *   Snowden erhält vorläufiges Asyl in Russland
 *   Kreml: Fall Snowden belastet Beziehungen zu USA nicht
-*   Anwalt: Snowden erhält vorläufiges Asyl in Russland
 
 *   Kundencenter
 *   Preise und AGB
