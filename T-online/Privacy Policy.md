@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Edward Snowdens Vater und Anwalt reisen nach Moskau
 *   Datenschützer in Sachsen mit immer mehr Arbeit
 *   Studie: Unternehmen sehen wachsende Gefahr durch Datenklau-Attacken
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Steinmeier: Merkel fehlt Rückgrat in NSA-Affäre
 *   Russland verteidigt Snowden-Asyl
 *   Snowden soll bei Amerikanern in Moskau unterkommen
-*   Snowden bei Amerikanern in Moskau untergekommen
 
 schließen schließen
 
+*   Snowden bei Amerikanern in Moskau untergekommen
 *   USA "sehr enttäuscht" über Russlands Asyl für Snowden
 *   Snowden geht es in Russland laut Vertrautem gut
 *   Snowden darf ein Jahr in Russland bleiben
@@ -113,7 +114,6 @@ schließen schließen
 *   Snowden erhält vorläufiges Asyl in Russland
 *   Edward Snowden hat Transitbereich des Moskauer Flughafens verlassen
 *   Snowden erhält vorläufiges Asyl in Russland
-*   Kreml: Fall Snowden belastet Beziehungen zu USA nicht
 
 *   Kundencenter
 *   Preise und AGB
