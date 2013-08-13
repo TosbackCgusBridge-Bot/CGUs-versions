@@ -75,10 +75,6 @@ The sign in credentials (e-mail address and password) used to sign in to most Mi
 
 For more information on how to help protect your personal computer, your personal information and your family online, visit our online safety resources.
 
-•
-
-Microsoft is a member of the TRUSTe privacy seal program.
-
 How to Contact Us  
 
 For more information about our privacy practices, go to the full Microsoft Online Privacy Statement.
