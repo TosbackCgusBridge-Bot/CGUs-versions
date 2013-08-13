@@ -1,10 +1,10 @@
 Nederland Wijzigen | Alle Microsoft sites Zoek op Microsoft.com naar:  
-Microsoft Online Privacy Statement Aanvullende privacy-informatie • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Ondersteuningsservices • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, spellen voor Windows LIVE en Xbox.com Gerelateerde links • FTC Privacy Initiatives • Security at Home • Silverlight Privacyverklaring • Trustworthy Computing
+Microsoft Online Privacy Statement Aanvullende privacy-informatie • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, spellen voor Windows LIVE en Xbox.com Gerelateerde links • FTC Privacy Initiatives • Security at Home • Silverlight Privacyverklaring • Trustworthy Computing
 
 (Voor het laatst geüpdated in april-12)  
 Lees belangrijkste punten van de privacyverklaring
 
-Op deze pagina Het verzamelen van persoonlijke informatie Het gebruik van persoonlijke informatie Het delen van persoonlijke informatie Het openbaar maken van uw persoonlijke informatie Communicatievoorkeuren Weergeven van advertenties (opt-out) Het beveiligen van uw persoonlijke informatie Het verzamelen en gebruik van persoonlijke informatie van kinderen Het gebruik van cookies Het gebruik van webbakens Het beheren van ongevraagde e-mail ("Spam") TRUSTe Certification Afdwingen van deze Privacyverklaring Wijzigingen in deze Privacyverklaring Hoe contact met ons op te nemen
+Op deze pagina Het verzamelen van persoonlijke informatie Het gebruik van persoonlijke informatie Het delen van persoonlijke informatie Het openbaar maken van uw persoonlijke informatie Communicatievoorkeuren Weergeven van advertenties (opt-out) Het beveiligen van uw persoonlijke informatie Het verzamelen en gebruik van persoonlijke informatie van kinderen Het gebruik van cookies Het gebruik van webbakens Het beheren van ongevraagde e-mail ("Spam") Afdwingen van deze Privacyverklaring Wijzigingen in deze Privacyverklaring Hoe contact met ons op te nemen
 
 We self-certify compliance with:  
 
@@ -182,10 +182,6 @@ Als laatste, we kunnen ook samenwerken met andere bedrijven die advertenties pla
 Begin van pagina Het beheren van ongevraagde e-mail ("Spam")
 
 Microsoft maakt zich zorgen over het beheren van ongevraagde commerciële e-mail, oftewel "spam". Microsoft voert een strikt Antispambeleid waarin het gebruik van een Windows Live Hotmail of ander door Microsoft geleverde e-mailaccount voor het versturen van spam wordt verboden. Microsoft verkoopt, least of verhuurt haar lijst met e-mailabonnementen niet aan derden. . Hoewel Microsoft continu actief bezig is met het opnieuw analyseren en implementeren van nieuwe technologie, zoals uitgebreide filterfuncties, bestaat er geen technologie die voor 100 procent zal voorkomen dat ongevraagde e-mail wordt verstuurd of ontvangen. Het gebruik van 'junk e-mailtools' en voorzichtig zijn in het delen van uw e-mailadres als u online bent, draagt bij aan het reduceren van de hoeveelheid ongevraagde e-mail die u ontvangt.
-
-Begin van pagina TRUSTe Certification
-
-Microsoft heeft de TRUSTe's Privacy Seal prijs ontvangen waarmee wordt aangegeven dat deze privacyverklaring en ons beleid onder de loep zijn genomen door TRUSTe om te kijken of ze voldoen aan de programmavereisten van TRUSTe's waaronder transparantie, verantwoordelijkhied, en keuzes met betrekking tot het verzamelen en gebruik van uw persoonlijke informatie. Het TRUSTe programma gaat niet over informatie die misschien wordt verzameld via software die kan worden gedownload. De missie van TRUSTe, als onafhankelijke derde, is het vergroten van online vetrouwen tussen consumenten en gebruikers wereldwijd via haar belangrijkste privacy label en innovatieve oplossingen voor het vertrouwen.
 
 Begin van pagina Afdwingen van deze Privacyverklaring
 
