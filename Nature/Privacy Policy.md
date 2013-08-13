@@ -136,17 +136,17 @@ If you prefer, you may opt-out by calling our Member Care Team toll-free at (800
 
 **Contacts: ** If you have any questions, concerns, or suggestions regarding this privacy policy, please contact us online to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
 
-March 02, 2012 Read More Lion in Maasai Mara, Kenya, Africa. © Kenneth K. Coe
+March 02, 2012 Read More The Burn Specialist, Mary Lata: The U.S. Forest Service is setting controlled fires in Arizona to clear brush and tinder, and to reduce fuel loads in overgrown forests. © Chris Crisman
 
-**Close Encounters with Nature**
+**Nature's Inspiring Stories**
 
-Whether scary or exciting, nature has a way of sneaking up on you. See stories
+Nature springs to life in _Nature Conservancy_ magazine. Read
 
-Arden O’Connor. © Lajla LeBlanc
+Henslow's sparrow. © Chris Helzer/TNC
 
-**Nature Matters**
+**Donate Today**
 
-Hear some of nature's success stories and see how nature matters to us all. Watch videos
+The most vital habitats on Earth need your support. Make a donation
 
 Donate to The Nature Conservancy Coast live oak trees punctuate the prairie grasslands at Chimineas Ranch, a protected wildlife corridor linking the Carrizo Plain National Monument with Los Padres National Forest, located within San Luis Obispo County, California. © Mark Dolyak When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
 
