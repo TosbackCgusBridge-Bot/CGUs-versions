@@ -1,10 +1,10 @@
 France Modifier | Tous les sites Microsoft Rechercher sur Microsoft France :  
-Microsoft Online Privacy Statement Informations supplémentaires sur la confidentialité • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Support Services • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jeux pour Windows LIVE et Xbox.com Liens connexes • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
+Microsoft Online Privacy Statement Informations supplémentaires sur la confidentialité • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jeux pour Windows LIVE et Xbox.com Liens connexes • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
 
 (dernière mise à jour en avr.-12)  
 consultez les points essentiels de la Déclaration de confidentialité
 
-Sur cette page Collecte de vos données personnelles Utilisation de vos données personnelles Partage de vos données personnelles Accès à vos données personnelles Préférences de communication Affichage de publicités (Option de retrait) Sécurité de vos données personnelles Collecte et utilisation des données personnelles des enfants Utilisation de témoins de connexion (cookies) Utilisation des balises Web Contrôle du courrier indésirable (« Pourriel ») Certification TRUSTe Application de cette déclaration de confidentialité Modification de cette déclaration de confidentialité Comment nous contacter
+Sur cette page Collecte de vos données personnelles Utilisation de vos données personnelles Partage de vos données personnelles Accès à vos données personnelles Préférences de communication Affichage de publicités (Option de retrait) Sécurité de vos données personnelles Collecte et utilisation des données personnelles des enfants Utilisation de témoins de connexion (cookies) Utilisation des balises Web Contrôle du courrier indésirable (« Pourriel ») Application de cette déclaration de confidentialité Modification de cette déclaration de confidentialité Comment nous contacter
 
 We self-certify compliance with:  
 
@@ -182,10 +182,6 @@ Nous pouvons collaborer avec des sociétés qui font de la publicité sur les si
 Haut de page Contrôle du courrier indésirable (« Pourriel »)
 
 Le contrôle des messages publicitaires non sollicités est une priorité pour Microsoft. Microsoft a établi une Politique d'Anti-Pourriel extrêmement rigoureuse, qui interdit l'utilisation de Windows Live Hotmail ou d'autres comptes de courriels fournis par Microsoft pour envoyer des pourriels. Microsoft ne vend ni ne loue ses listes d'abonnés de courriels à des tiers. . Même si Microsoft poursuit l'étude et l'implémentation de nouvelles technologies, par exemple les fonctions de filtrage avancées, il n'existe aucune méthode absolument fiable permettant d'éviter l'envoi ou la réception de courriels indésirables. Pour limiter la réception de ce type de courriels, utilisez des outils de protection contre les courriels indésirables et soyez prudent lorsque vous communiquez votre adresse de messagerie en ligne.
-
-Haut de page Certification TRUSTe
-
-Microsoft a été décerné le Privacy Seal de TRUSTe qui signifie que cette déclaration de confidentialité et nos pratiques ont été vérifiées par TRUSTe pour la conformité aux exigences du programme TRUSTe y compris la transparence, la responsabilisation et le choix concernant la collecte et l'utilisation de vos renseignements personnels. Le programme TRUSTe ne couvre pas les informations qui peuvent être collectées par les logiciels téléchargeables. La mission de TRUSTe, comme un tiers indépendant, est d'accélérer la confiance en ligne parmi des consommateurs et des organisations au niveau mondial grâce à sa marque de confiance de confidentialité majeure et ses solutions innovantes de confiance.
 
 Haut de page Application de cette déclaration de confidentialité
 
