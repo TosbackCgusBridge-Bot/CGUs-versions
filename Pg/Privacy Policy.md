@@ -74,7 +74,7 @@ How to Contact Us
 *   Consumer Relations
 *   Product Coupons and Promotions
 *   Terms and Conditions
-*   Privacy Notice
+*   Privacy
 *   Ad Choices
 
-© 2012 Procter &. Gamble. All claims valid only in the U.S.
+© 2013 Procter &. Gamble. All claims valid only in the U.S.
