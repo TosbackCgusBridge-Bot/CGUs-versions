@@ -1,10 +1,10 @@
 Brasil Alterar | Todos os sites da Microsoft Procurar no Microsoft.com por:  
-Microsoft Online Privacy Statement Informações complementares sobre privacidade • Bing • Messenger • Publicidade da Microsoft • Candidatar a um Emprego na Microsoft • Leitor de Tag da Microsoft • MSN • Office.com • Serviços de Suporte • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jogos para o Windows LIVE e Xbox.com Links relacionados • Iniciativas de Privacidade da FTC • Segurança em Casa • Declaração de Privacidade da Silverlight • Computação Confiável
+Microsoft Online Privacy Statement Informações complementares sobre privacidade • Bing • Messenger • Publicidade da Microsoft • Candidatar a um Emprego na Microsoft • Leitor de Tag da Microsoft • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jogos para o Windows LIVE e Xbox.com Links relacionados • Iniciativas de Privacidade da FTC • Segurança em Casa • Declaração de Privacidade da Silverlight • Computação Confiável
 
 (última atualização em Abril-12)  
 exibir os destaques da declaração de privacidade
 
-Nesta página Coleta de suas informações pessoais Uso de suas informações pessoais Compartilhamento de suas informações pessoais Acesso às suas informações pessoais Preferências de comunicação Exibição de publicidade (Opt-Out) Segurança de suas informações pessoais Coleta e uso de informações pessoais de crianças Uso de cookies Uso de Web beacons Controlando emails não solicitados ("Spam") Certificação TRUSTe Aplicação desta Declaração de privacidade Alterações nesta Declaração de Privacidade Informações para contato
+Nesta página Coleta de suas informações pessoais Uso de suas informações pessoais Compartilhamento de suas informações pessoais Acesso às suas informações pessoais Preferências de comunicação Exibição de publicidade (Opt-Out) Segurança de suas informações pessoais Coleta e uso de informações pessoais de crianças Uso de cookies Uso de Web beacons Controlando emails não solicitados ("Spam") Aplicação desta Declaração de privacidade Alterações nesta Declaração de Privacidade Informações para contato
 
 We self-certify compliance with:  
 
@@ -182,10 +182,6 @@ Por fim, podemos negociar com outras empresas que anunciam nos sites da Microsof
 Início da página Controlando emails não solicitados ("Spam")
 
 A Microsoft se preocupa com o controle de emails comerciais não solicitados, ou seja, "spam". A Microsoft tem uma estritaPolítica de anti-spam proibindo o uso de um Windows Live Hotmail ou outras contas de e-mail fornecidos pela Microsoft a enviar spam. A Microsoft não vende, não arrenda nem aluga suas listas de assinantes de email a terceiros. . Embora a Microsoft esteja sempre examinando e implementando novas tecnologias, como recursos de filtragem expandidos, no momento, não há uma tecnologia disponível que evite completamente o envio e o recebimento de emails não solicitados. O uso de ferramentas para lixo eletrônico e a cautela no compartilhamento do seu endereço de email enquanto estiver online ajudarão a reduzir a quantidade de emails não solicitados que você recebe.
-
-Início da página Certificação TRUSTe
-
-A Microsoft foi premiada com Selo de Privacidade da TRUSTe, significando que esta declaração de privacidade e nossas práticas foram revistas pela TRUSTe para o cumprimento dos requisitos do programa TRUSTe incluindo transparência, responsabilidade e escolha quanto à coleta e utilização de suas informações pessoais. O programa TRUSTe não cobre informações que podem ser coletadas através de software para download. A missão da TRUSTe, como um terceiro independente, é acelerar a confiança on-line entre os consumidores e organizações a nível mundial através da sua marca de confiança de privacidade líder e soluções de confiança inovadoras.
 
 Início da página Aplicação desta Declaração de privacidade
 
