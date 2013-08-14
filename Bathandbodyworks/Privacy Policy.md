@@ -6,8 +6,8 @@ Welcome! **(Log in)**
 *   Shopping Bag: 0
 
 *   *   Features
-        *   Signature: Buy 3 Get 2 Free
-        *   Online Only Body Care: Buy 3 Get 2 Free
+        *   Signature: Buy 3 Get 3 Free
+        *   Online Only Body Care: Buy 3 Get 3 Free
         *   Try Our New Fragrances: $10
         *   $5 Select Signature Body Care
         *   Body Care: Up to 50% Off
@@ -44,17 +44,19 @@ Welcome! **(Log in)**
         *   Accessories
     *   Top Fragrances
         
+        *   Sweet Cinnamon Pumpkin
+        *   Vermont Honey Apple
+        *   Aspen Caramel Woods
+        *   Napa Autumn Blackberry
         *   Sexy Dahlia Rush
         *   Sweet Peony Dream
         *   Japanese Cherry Blossom
-        *   Forever Red
-        *   Moonlight Path
-        *   Sweet Pea
-        *   Twilight Woods
-        *   Cashmere Glow
         *   Warm Vanilla Sugar
-        *   Coconut Water Chill
-        *   Sweet Cinnamon Pumpkin
+        *   Twilight Woods
+        *   Moonlight Path
+        *   Forever Red
+        *   Cashmere Glow
+        *   Sweet Pea
         *   View All Fragrances
         
         Brands
@@ -91,17 +93,13 @@ Welcome! **(Log in)**
         *   Scentportable Car Fresheners
     *   Top Fragrances
         *   Autumn
-        *   Japanese Cherry Blossom
         *   Leaves
-        *   Lemon Mint Leaf
         *   Mahogany Teakwood
-        *   Marshmallow Fireside
-        *   Pumpkin Caramel Latte
         *   Pumpkin Cupcake
         *   Sweet Cinnamon Pumpkin
         *   View All Fragrances
 *   *   Features
-        *   Hand Soap: 7 for $20
+        *   Hand Soap: 6 for $20
         *   PocketBac: 5 for $5
         *   Sale: Up to 50% Off
     *   Hand Soap
@@ -124,15 +122,10 @@ Welcome! **(Log in)**
         *   Fresh Picked Body Care
     *   Top Fragrances
         *   Black Cherry Merlot
-        *   Caribbean Escape
         *   Fresh Picked Farm Stand Apple
         *   Fresh Picked Sweet Clementine
         *   Japanese Cherry Blossom
         *   Kitchen Lemon
-        *   Peach Bellini
-        *   Rainkissed Leaves
-        *   Vanilla Berry Sorbet
-        *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Features
         *   True Blue Spa: Buy 2 Get 1 Free
@@ -208,9 +201,9 @@ Welcome! **(Log in)**
         *   E-Gifts &. Gift Cards
         *   Gift Wrap
 *   *   Features
-        *   Hand Soap: 7 for $20
-        *   Body Care: Buy 3 Get 2 Free
+        *   Body Care: Buy 3 Get 3 Free
         *   Wallflowers Refills: 3 for $20
+        *   Hand Soap: 6 for $20
         *   Wallflowers: 6 for $24
         *   Sale: Up to 50% Off
     *   Body &. Bath
@@ -234,12 +227,12 @@ Welcome! **(Log in)**
         *   Wallflowers Single Refills
     *   Top Fragrances
         *   Black Raspberry Vanilla
+        *   Brown Sugar &. Fig
         *   Cherry Blossom
         *   Country Apple
         *   Dark Kiss
         *   Exotic Coconut
         *   Secret Wonderland
-        *   Sheer Freesia
         *   Wild Honeysuckle
         *   View All Fragrances
 *   *   Explore Our Studio
@@ -258,12 +251,13 @@ Welcome! **(Log in)**
         *   Pumpkin Cupcake
         *   Black Cherry Merlot
         *   Vanilla Buttercream
+        *   Aspen Caramel Woods
         *   Japanese Cherry Blossom
-        *   Sexy Dahlia Rush
-        *   Sweet Peony Dream
+        *   Vermont Honey Apple
 *   *   Features
         *   We Love Pumpkin
         *   New! Sweet &. Sexy Collection
+        *   New! Fall Traditions Collection
 
 *   *   Features
         *   Save Up to 50% Off Select Items
