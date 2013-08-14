@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
+*   Grüne klagen wegen Datenabfrage durch Polizei
+*   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
 *   Edward Snowdens Vater und Anwalt reisen nach Moskau
 *   Datenschützer in Sachsen mit immer mehr Arbeit
 *   Studie: Unternehmen sehen wachsende Gefahr durch Datenklau-Attacken
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
-*   Steinmeier: Merkel fehlt Rückgrat in NSA-Affäre
-*   Russland verteidigt Snowden-Asyl
-*   Snowden soll bei Amerikanern in Moskau unterkommen
 
 schließen schließen
 
+*   Steinmeier: Merkel fehlt Rückgrat in NSA-Affäre
+*   Russland verteidigt Snowden-Asyl
+*   Snowden soll bei Amerikanern in Moskau unterkommen
 *   Snowden bei Amerikanern in Moskau untergekommen
 *   USA "sehr enttäuscht" über Russlands Asyl für Snowden
 *   Snowden geht es in Russland laut Vertrautem gut
@@ -111,9 +114,6 @@ schließen schließen
 *   USA «sehr enttäuscht» über Russlands Asyl für Snowden
 *   Snowden darf ein Jahr in Russland bleiben
 *   Anwalt: Snowden bleibt vorerst in Russland - «Keine Reisepläne»
-*   Snowden erhält vorläufiges Asyl in Russland
-*   Edward Snowden hat Transitbereich des Moskauer Flughafens verlassen
-*   Snowden erhält vorläufiges Asyl in Russland
 
 *   Kundencenter
 *   Preise und AGB
