@@ -5,6 +5,7 @@ The links below provide you access to Charter's policies &. agreements.
 *   Website Use Terms and Conditions
 *   Commercial Acceptable Use Policy
 *   Commercial Terms of Service
+*   Purchase Order Terms and Conditions for Goods and/or Services
 *   Electronic Bill Payment Terms and Conditions
 *   Residential HSI Acceptable Use Policy
 *   Residential HSI Customer Agreement
