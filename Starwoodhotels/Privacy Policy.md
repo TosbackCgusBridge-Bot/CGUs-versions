@@ -55,6 +55,7 @@ We have provided this Privacy Statement as an explanation of the information we 
 *   CONTACT US
 *   UPDATES TO THE PRIVACY STATEMENT
 
+  
 THE WORLD OF STARWOOD:
 
 In order to provide multiple access points to the services and products we offer, Starwood Hotels &. Resorts Worldwide, Inc. operates directly, or through its affiliates or service providers, many web sites, including www.starwood.com, www.starwoodhotels.com, www.starwoodvo.com, www.sheraton.com, www.stregis.com, www.westin.com, www.luxurycollection.com, www.whotels.com, www.alofthotels.com,  www.lemeridien.com, www.starwoodhotels.com/element, www.fourpoints.com, www.preferredguest.com, and www.spg.com. Any one of these web sites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
