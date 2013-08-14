@@ -2,8 +2,6 @@
 
 *   Products
 *   Travel
-*   Radar
-*   Deals
 
 *   null
 *   Log In
@@ -178,7 +176,6 @@ Mobile Merchants My Account About Us Customer Service How Are We Doing?
 More Fun Stuff
 
 *   Travel
-*   Deals
 *   Blog
 
 © 1999-2013, Nextag, Inc.
