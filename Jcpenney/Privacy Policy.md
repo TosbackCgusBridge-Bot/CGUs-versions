@@ -149,19 +149,19 @@ You can update or correct your name, address, telephone number, or email address
 
  
 
-**your jcp credit account**
+**your jcpenney credit card account**
 
   
-If you have an account under one of the jcpenney credit programs from GE Capital Retail Bank (GECRB), a separate privacy policy applies to each program.  The privacy policy describes GECRB’s collection, use, and protection of information about you and your jcpenney credit account. To obtain GECRB’s privacy policy for your jcpenney credit account, you may:
+If you have an account under one of the JCPenney Credit programs from GE Capital Retail Bank (GECRB), a separate privacy policy applies to each program.  The privacy policy describes GECRB’s collection, use, and protection of information about you and your JCPenney Credit account. To obtain GECRB’s privacy policy for your JCPenney Credit account, you may:
 
-*   click here to view GECRB’s privacy policies in connection with jcpenney credit programs
-*   write to jcpenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007, or,
+*   click here to view GECRB’s privacy policies in connection with JCPenney Credit programs
+*   write to JCPenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007, or,
 *   call 1.800.542.0800 (Puerto Rico, U.S. Virgin Islands and Guam residents call 1.800.981.8400)
 
-You can update or correct your name, address, or telephone number for your jcpenney credit account, or check the status of your account by:
+You can update or correct your name, address, or telephone number for your JCPenney Credit account, or check the status of your account by:
 
 *   click here to access your jcpenney credit account information on-line
-*   writing to  jcpenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007  
+*   writing to  JCPenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007  
 *   call 1.800.542.0800 (Puerto Rico, US Virgin Islands and Guam residents call 1.800.981.8400)
 
 **additional information about jcp.com**
