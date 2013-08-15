@@ -18,7 +18,6 @@ Search
 *   Girls
 *   Adventure
 *   War Games
-*   Humorous Games
 *   Skateboarding
 *   Puzzle
 *   Board &. Card
