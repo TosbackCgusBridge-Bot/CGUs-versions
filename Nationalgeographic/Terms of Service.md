@@ -1,8 +1,8 @@
 Acceptance of Terms  
 
-THESE TERMS AND CONDITIONS OF SERVICE (the “Terms”) ARE A LEGAL AND BINDING AGREEMENT BETWEEN YOU AND NATIONAL GEOGRAPHIC governing your use of this Service, www.nationalgeographic.com, which includes but is not limited to products, software and services offered by way of the website such as any “Video Player,” “Uploader,” and other applications that link to these Terms (the “Service”). “National Geographic” includes National Geographic Society, its subsidiaries, and its licensees that produce or distribute NG Products). A NG Product is defined as "a product of National Geographic, a subsidiary, affiliate, joint venturer, or licensee of National Geographic, in any language, over which National Geographic has Editorial Control.” For the purposes of this Agreement, "Editorial Control" means the right to review, consult regarding, formulate standards for, or to exercise a veto over the appearance, text, use, or promotion of the NG Product.  
+THESE TERMS AND CONDITIONS OF SERVICE (the "Terms") ARE A LEGAL AND BINDING AGREEMENT BETWEEN YOU AND NATIONAL GEOGRAPHIC governing your use of this Service, www.nationalgeographic.com, which includes but is not limited to products, software and services offered by way of the website such as any "Video Player," "Uploader," and other applications that link to these Terms (the "Service"). "National Geographic" includes National Geographic Society, its subsidiaries, and its licensees that produce or distribute NG Products. An NG Product is defined as "a product of National Geographic, a subsidiary, affiliate, joint venturer, or licensee of National Geographic, in any language, over which National Geographic has Editorial Control." For the purposes of this Agreement, "Editorial Control" means the right to review, consult regarding, formulate standards for, or to exercise a veto over the appearance, text, use, or promotion of the NG Product.  
   
-Please review the Terms fully before you continue to use the Service. By using the Service, you agree to be bound by the Terms. You shall also be subject to any additional terms posted with respect to individual sections of the Service. Please review our Privacy Policy, which also governs your use of the Service, to understand our practices. If you do not agree, please discontinue using the Service. National Geographic reserves the right to change the Terms at any time without prior notice. Your continued access or use of the Service after such changes indicates your acceptance of the Terms as modified. It is your responsibility to review the Terms regularly. The Terms were last updated on 1 June 2013.  
+Please review the Terms fully before you continue to use the Service. By using the Service, you agree to be bound by the Terms. You shall also be subject to any additional terms posted with respect to individual sections of the Service. Please review our Privacy Policy, which also governs your use of the Service, to understand our practices. If you do not agree, please discontinue using the Service. National Geographic reserves the right to change the Terms at any time without prior notice. Your continued access or use of the Service after such changes indicates your acceptance of the Terms as modified. It is your responsibility to review the Terms regularly. The Terms were last updated on 14 August 2013.  
   
 Your use and browsing of the Service is at your risk. If you are dissatisfied with any of the materials contained in the Service, with the quality of service, or with these Terms, your sole and exclusive remedy is to discontinue accessing and using the Service.
 
@@ -32,10 +32,10 @@ The Service is owned by National Geographic. All of the content featured or disp
   
 Advertisements for third-party entities are not considered Content for the purposes of this Section. However, these advertisements are owned or licensed by their respective third-party entities and are subject to protections similar to those set forth in these Terms.  
   
-Pursuant to the copyright and trademark laws of the United States, you agree:
+Pursuant to the copyright and trademark laws of the United States, _you agree_:  
 
 1.  That you may only download Content that National Geographic designates as offered for download to any single computer a single copy of any Content for personal and noncommercial use.
-2.  To not reproduce, distribute, modify, re-post on another Service (regardless of the server on which the Content is stored), or sell any Content without specific written authorization from National Geographic, unless such use is pursuant to Educational Use of Content of this agreement.
+2.  To not reproduce, distribute, modify, re-post on another Service (regardless of the server on which the Content is stored), or sell any Content without specific written authorization from National Geographic, unless such use is pursuant to **Educational Use of Content** of this agreement.
 3.  To maintain any and all copyright or other proprietary notices embedded in or attached to any Content.
 4.  To refrain from framing, inline linking, or mirroring any portion of the Service.
 5.  You retain all of your ownership rights in material you upload, comments you post, or other content you provide to the Service (“Your Content”).
@@ -61,7 +61,7 @@ Washington, DC 20036-4688
   
 By e-mail: infringementnotice@nationalgeographic.com  
   
-THIS CONTACT INFORMATION IS ONLY FOR REPORTING ALLEGED COPYRIGHT INFRINGEMENTS. CONTACT INFORMATION FOR OTHER MATTERS IS PROVIDED ELSEWHERE ON THE SITE. HIGHLIGHTS  
+**THIS CONTACT INFORMATION IS ONLY FOR REPORTING ALLEGED COPYRIGHT INFRINGEMENTS. CONTACT INFORMATION FOR OTHER MATTERS IS PROVIDED ELSEWHERE ON THE SITE.** HIGHLIGHTS  
 
 You can use only the Content that we designate as available for download or other uses. If you do download or use Content, respect others’ rights.  
   
@@ -69,42 +69,9 @@ We claim no ownership of anything you post or upload (for example, images, video
   
 You give us permission to display Your Content on technology platforms operated by us and our partners. You also allow us to identify you as the source of Your Content by name or your profile picture.  
   
-If we select Your Content for use in an NG Product that is that is not in the context of, in direct promotion of, or otherwise strongly identified with (beyond mere attribution), the special section or community of the Service to which it was submitted, we will pay you at our established rates (provided your contact email is up to date, you complete any necessary payment paperwork, and there is no US law that prohibits us from making a payment to you).  
+If we select Your Content for use in an NG Product that is that is not in the context of, in direct promotion of, or otherwise strongly identified with (beyond mere attribution), the special section or community of the Service to which it was submitted, we will pay you at our established rates (provided your contact email is up to date, you complete any necessary payment paperwork, and there is no U.S. law that prohibits us from making a payment to you).  
   
 We take copyright very seriously. If you think you have suffered an infringement, please follow the instructions in the last section of these Terms of Service to notify us.
-
-The National Geographic Archive  
-
-The National Geographic Archive online product is subject to all of these Terms of Service, including particularly the commitment that you will not reproduce, distribute, modify, re-post on another Service (regardless of the server on which the Content is stored), or sell any Content without specific written authorization from National Geographic. In addition, to the extent you are authorized to use the National Geographic Archive product through a login ID, such use is authorized only for personal and non-commercial purposes. Use by libraries, which include without limitation all academic, school (K-12), public, government, corporate and special libraries, worldwide, is prohibited.
-
-Educational Use of Content  
-
-With respect to Content designated as available for download for educational purposes (“Downloadable Content”), Educators or Learners may download and exhibit such Downloadable Content on a stand-alone basis or embed in their own presentations, handouts, worksheets, other educational aids, homework, school reports, and other educational assignments or projects. For the purposes of this Agreement, “Educators or Learners” consists of librarians, teachers, support staff, administrators and other staff of educational institutions, students, and adults supporting such students’ learning. The following restrictions apply to all Downloadable Content:
-
-*   Educators or Learners are prohibited from disseminating Downloadable Content beyond such Educator’s or Learner’s particular educational institution, organization, or home.
-*   Under no circumstances may an Educator or Learner use Downloadable Content for commercial purposes.
-*   Educators or Learners may make no modifications to Downloadable Content and must preserve all National Geographic or Licensor credits, copyright notices and other proprietary notices.
-*   Educators or Learners may neither make use of nor allow or enable the use of Downloadable Content in a manner in which it is re-posted, framed, or mirrored on any other websites, regardless of educational use, but may store Downloadable Content on password-protected computer networks administered by the Educator’s or Learner’s school or school system.
-*   Educators or Learners may post only products the Educator or Learner has created that contain Downloadable Content and only to a password-protected website administered by the Educator’s or Learner’s school or school system or by National Geographic.
-*   Educators or Learners who embed Downloadable Content in the form of video material (e.g. through a video player) must also comply with the NG Terms of Service Your Conduct with respect to Video Players.
-
-HIGHLIGHTS  
-
-Educator and students may download Content for use in educational presentations, handouts, homework, projects, etc.  
-  
-You cannot use this content for commercial purposes, or distribute beyond your school, organization or home.  
-  
-You may post and store Downloadable Content only to password-protected school websites.
-
-Shopping  
-
-Certain sections of this Service may allow you to purchase different types of products and services online that are provided by third parties. National Geographic has no responsibility for the quality, accuracy, timeliness, reliability or any other aspect of these products and services. If you make a purchase from a merchant on the Service, or on a third-party website that you have accessed via a link on the Service, the information obtained during your visit to that merchant’s online store or site, and the information that you give as part of the transaction, such as your credit card number and contact information, may be collected by both the merchant and National Geographic. A merchant may have privacy and data collection practices that are different from National Geographic. National Geographic has no responsibility or liability for these independent policies. In addition, when you purchase products or services on or through the Service, you may be subject to additional terms and conditions that specifically apply to your purchase or use of such products or services. For more information regarding a merchant, its online store, its privacy policies, and/or any additional terms and conditions that may apply, visit that merchant’s website and click on its information links or contact the merchant directly. You release National Geographic and its affiliates from any damages that you incur, and agree not to assert any claims against National Geographic or any of its affiliates, arising from your purchase or use of any products or services made available by third parties through the Service.  
-  
-You agree to be financially responsible for all purchases made by you or someone acting on your behalf through the Service. You agree to use the Service, and to purchase services or products through the Service, for legitimate, non-commercial purposes only. You also agree not to make any purchases for speculative, false or fraudulent purposes or for the purpose of anticipating demand for a particular product or service. You agree to only purchase goods or services for yourself or for another person for whom you are legally permitted to do so. When making a purchase for a third party that requires you to submit the third party's personal information to us or a merchant, you represent that you have obtained the express consent of such third party to provide such third party's personal information.
-
-HIGHLIGHTS  
-
-If you follow a link to a third party site for shopping or anything else, National Geographic has no responsibility for that third party. Surf safely.
 
 Liability  
 
@@ -126,38 +93,97 @@ Don’t look at our website while you are flying a plane, driving a car, skiing,
 
 Your Conduct  
 
-National Geographic wants to encourage an open exchange of information and ideas on the Service. You can expect the Service to include information and opinions from a variety of individuals and organizations other than National Geographic. National Geographic neither endorses nor guarantees the accuracy of any Your Content. National Geographic may review Your Content from time to time and may take steps to remove inappropriate Your Content that comes to its attention. however, National Geographic engages in no routine monitoring of Your Content on the Service. There is no substitute for healthy skepticism and your own good judgment.  
+National Geographic wants to encourage an open exchange of information and ideas on the Service. You can expect the Service to include information and opinions from a variety of individuals and organizations other than National Geographic. National Geographic neither endorses nor guarantees the accuracy of any of Your Content. National Geographic may review Your Content from time to time and may take steps to remove inappropriate Your Content that comes to its attention. however, National Geographic engages in no routine monitoring of Your Content on the Service. There is no substitute for healthy skepticism and your own good judgment.  
   
 You agree to assume full and sole responsibility for any Your Content you post to the Service, and you agree to:
 
-1.  Abide by the Community at National Geographic Rules for Members (which are fully incorporated into these Terms);
+1.  Abide by the _National Geographic Community Rules_ (which are fully incorporated into these Terms);
 2.  Post Your Content that is relevant to and appropriate for the specific topic and designed to help people share information and supports National Geographic's mission of inspiring people to care about the world.
-3.  Represent that you are the owner of Your Content, or are making your submission with express consent of the owner, that you have obtained all third party releases and permissions necessary for National Geographic’s use, in accordance with the license you grant in paragraph 5 of Intellectual Property Issues above, of any Your Content that you post, and nothing you post will infringe on the rights of others.
-4.  Neither post nor transmit any unlawful, obscene, defamatory, threatening, pornographic, harassing, hateful, racially or ethnically offensive Your Content, or Your Content that encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or any other Your Content that infringes on the ability of others to enjoy the Service or is otherwise inappropriate;
+3.  Represent that you are the owner of Your Content, or are making your submission with express consent of the owner, that you have obtained all third party releases and permissions necessary for National Geographic’s use, in accordance with the license you grant in paragraph 5 of **Intellectual Property Issues** above, of any Your Content that you post, and nothing you post will infringe on the rights of others;
+4.  Neither post nor transmit any unlawful, obscene, defamatory, threatening, pornographic, harassing, hateful, racially or ethnically offensive Your Content, or Your Content that encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or any otherYour Content that infringes on the ability of others to enjoy the Service or is otherwise inappropriate;
 5.  Refrain from posting any personal information of your own such as your email address, phone number, address, etc., and refrain from soliciting personal information from any user. However, if you do choose to post any personal information it means that you are making that information public and allowing everyone to use and access that information, and to associate it with you (i.e. your user name and if applicable any profile photo);
 6.  Neither post nor transmit through the Service any Your Content that constitutes advertising or solicitation with respect to any product or service;
 7.  Not post anonymously or impersonate any other person.
 8.  Use no automated means, including spiders, robots, offline readers, crawlers, data mining tools, or the like to download or store data from the Service. Exception is made for publicly available Internet search engines (e.g., Google, Bing) and non-commercial public archives (e.g., archive.org) that comply with our Terms of Service but not for any archive that hosts, promotes, or links primarily to infringing or unauthorized content. and
-9.  Not to alter or modify any part of the Service, make no use that would interfere with or disrupt the Service or servers or networks connected to the Service, make no Your Content available (whether through upload, post, email, transmit, or otherwise) that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, and neither circumvent nor disable any security or data-protection measures implemented by National Geographic.
+9.  Not to alter or modify any part of the Service, make no use that would interfere with or disrupt the Service or servers or networks connected to the Service, make none of Your Content available (whether through upload, post, email, transmit, or otherwise) that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, and neither circumvent nor disable any security or data-protection measures implemented by National Geographic.
 10.  Not to translate, reverse engineer, decompile, disassemble, or attempt to discover any source code or underlying ideas or algorithms of the object code of any portion of the Service
 
-CAUTION: ANY ATTEMPT BY ANY PERSON TO DELIBERATELY DAMAGE THE SITE IS A VIOLATION OF CRIMINAL AND CIVIL LAWS. SHOULD SUCH AN ATTEMPT BE MADE, NATIONAL GEOGRAPHIC RESERVES THE RIGHT TO SEEK DAMAGES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW.  
+**CAUTION:** ANY ATTEMPT BY ANY PERSON TO DELIBERATELY DAMAGE THE SITE IS A VIOLATION OF CRIMINAL AND CIVIL LAWS. SHOULD SUCH AN ATTEMPT BE MADE, NATIONAL GEOGRAPHIC RESERVES THE RIGHT TO SEEK DAMAGES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW.  
   
-You must provide and are solely responsible for all hardware and/or software necessary to access the Service. You assume the entire cost of and responsibility for any damage to, and all necessary maintenance, repair or correction of, that hardware and/or software.
+You must provide and are solely responsible for all hardware and/or software necessary to access the Service. You assume the entire cost of and responsibility for any damage to, and all necessary maintenance, repair or correction of, that hardware and/or software. HIGHLIGHTS  
 
-HIGHLIGHTS  
-
-**Do** share freely. We encourage an open exchange of information and ideas.  
+Do share freely. We encourage an open exchange of information and ideas.  
   
-**Don’t** be unpleasant, dishonest, inappropriate, or otherwise violate the Community at National Geographic Rules for Members.
+Don’t be unpleasant, dishonest, or inappropriate. follow the _National Geographic Community Rules_.
 
 Indemnification  
 
 You agree to indemnify, defend, and hold harmless National Geographic. its affiliates and partners. and their respective officers, directors, employees, agents, members, licensors, representatives, and third party providers to the Service from and against all losses, expenses, damages, and costs, including attorneys' fees, resulting from any violation of these Terms. National Geographic reserves the right to assume, at its sole expense, the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with National Geographic.
 
+The National Geographic Archive  
+
+The National Geographic Archive online product is subject to all of these Terms of Service, including particularly the commitment that you will not reproduce, distribute, modify, re-post on another Service (regardless of the server on which the Content is stored), or sell any Content without specific written authorization from National Geographic. In addition, to the extent you are authorized to use the National Geographic Archive product through a login ID, such use is authorized only for personal and non-commercial purposes. Use by libraries, which include without limitation all academic, school (K-12), public, government, corporate and special libraries, worldwide, is prohibited.
+
+Educational Use of Content  
+
+With respect to Content designated as available for download for educational purposes (“Downloadable Content”), Educators or Learners may download and exhibit such Downloadable Content on a stand-alone basis or embed in their own presentations, handouts, worksheets, other educational aids, homework, school reports, and other educational assignments or projects. For the purposes of this Agreement, “Educators or Learners” consists of librarians, teachers, support staff, administrators and other staff of educational institutions, students, and adults supporting such students’ learning. The following restrictions apply to all Downloadable Content:
+
+*   Educators or Learners are prohibited from disseminating Downloadable Content beyond such Educator’s or Learner’s particular educational institution, organization, or home.
+*   Under no circumstances may an Educator or Learner use Downloadable Content for commercial purposes.
+*   Educators or Learners may make no modifications to Downloadable Content and must preserve all National Geographic or Licensor credits, copyright notices and other proprietary notices.
+*   Educators or Learners may neither make use of nor allow or enable the use of Downloadable Content in a manner in which it is re-posted, framed, or mirrored on any other websites, regardless of educational use, but may store Downloadable Content on password-protected computer networks administered by the Educator’s or Learner’s school or school system.
+*   Educators or Learners may post only products the Educator or Learner has created that contain Downloadable Content and only to a password-protected website administered by the Educator’s or Learner’s school or school system or by National Geographic.
+*   Educators or Learners who embed Downloadable Content in the form of video material (e.g. through a video player) must also comply with the NG Terms of Service Your Conduct with respect to Video Players.
+
 HIGHLIGHTS  
 
-You agree to hold National Geographic, its affiliates and partners, harmless against any bad thing that happens as a result of any violation by you of these terms.
+Educators and students may download Content for use in educational presentations, handouts, homework, projects, etc.  
+  
+You cannot use this content for commercial purposes, or distribute beyond your school, organization or home.  
+  
+You may post and store Downloadable Content only to password-protected school websites.
+
+Online Courses (MOOCs)  
+
+From time to time National Geographic provides Massive Online Open Courses (“Online Courses”) through different providers (e.g. Google, Udacity, Coursera, etc.) (each a “Platform”). By accessing and/or using the Platform or Online Courses, you agree to be bound by these additional Terms of Service, whether you are a “Visitor,” meaning you simply browse the Online Courses, including, without limitation, through a mobile or other wireless device, or otherwise use the Online Courses without being registered. or a “Student,” meaning that you have registered to use the Online Courses and will complete the homework assignments and exams. or an “Attendee;” meaning that you have registered to use the Online Courses and that you intend to audit the Online Courses, i.e., attend or view lectures online without completing homework assignments, exams or other course work. The term “Course User” refers to a Visitor, Student or Attendee.
+
+*   Age Restrictions. Registration and participation on the Platform is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions on the Platform, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Site is not intended for children under 13. If you are under 13 years of age, do not use the Site. In addition, those who wish to register and participate must meet the minimum requirements laid out in the Terms of Use (of which this is one section), any independent Terms of Use for any Platform, and abide by the Honor Code. In addition, certain Online Courses may have additional eligibility requirements, as specified on the specific Online Courses. If you do not qualify or do not agree to these terms, you may not register as a Student or an Attendee.
+*   Content Disclaimer. The text and other material in Online Courses may include the opinion of the specific instructor and are not statements of advice, opinion, or information from National Geographic. If you feel you might be offended by the content of the Online Courses, you should refrain from registering for the Online Courses.
+*   Online Courses and Certificates of Completion. National Geographic and the instructors of the Online Courses reserve the right to cancel, interrupt or reschedule any Online Courses or modify its content as well as the point value or weight of any assignment, exam or other evaluation of progress. Online Courses offered are subject to the Disclaimer of Warranties / Limitation of Liabilities found in Liability above. For some Online Courses, subject to your satisfactory performance in the Online Courses as determined in the sole discretion of the instructors, you may be awarded a statement acknowledging your completion of the class ("Statement of Accomplishment") or Continuing Education Units (“CEU”). The term “Recognition” refers to a Statement of Accomplishment and/or CEU. Recognition, if provided to you, would be from National Geographic and/or from the instructors. The type of Recognition, if provided to you, will be explicitly stated in the Online Courses. Further, National Geographic reserves the right to offer or not offer any such Recognition for an Online Courses. You acknowledge that the Statement of Accomplishment does not convey academic credit and will not stand in the place of a course taken at an accredited institution. You acknowledge that neither the instructors of any Online Courses nor National Geographic will be involved in any attempts to get the course recognized by any educational or accredited institution, unless explicitly stated otherwise by in the Online Courses. The format of the Recognition will be determined at the discretion of National Geographic and the instructors, and may vary by class in terms of formatting, e.g., whether or not it reports your detailed scores or grades in the class, and in other ways. Where CEU is provided, the format will conform to CEU requirements.  
+      
+    You may not take any Online Courses offered by National Geographic or use any Recognition as part of any tuition-based or for-credit certification or program for any college, university, or other academic institution without the express written permission from National Geographic. Such use of an Online Course or Recognition is a violation of these Terms of Use.  
+      
+    
+*   Intellectual Property Rights and License. All content or other material available through the Online Courses, including but not limited to online lectures, speeches, video lessons, quizzes, presentation materials, homework assignments, programming assignments, programs, code, and other images, text, layouts, arrangement, displays, illustrations, documents, materials, audio and video clips, HTML and files (collectively, the “Course Content”), are the property of National Geographic and/or its affiliates or licensors and are protected by copyright, patent and/or other proprietary intellectual rights under United States and foreign law. In consideration for your agreement to these Terms of Service, National Geographic grants you a personal, non-exclusive, non-transferable license to access and use the Online Courses and Course Content. You may download Course Content identified as available for download only for your own personal, non-commercial use. You may not otherwise copy, reproduce, retransmit, distribute, publish, commercially exploit or otherwise transfer any Course Content, nor may you modify or create derivatives works of the Course Content.
+*   Course User Conduct. Online Courses are public and open forums. You agree to assume full and sole responsibility for any of Your Content you post to the Online Courses. Course User conduct is subject to standards described in the “Your Conduct” section of these Terms of Service above, which includes your obligation to abide by the Community at National Geographic Rules for Members.
+*   Termination Rights. You acknowledge that for the purpose of any National Geographic Online Courses your sole relationship is with National Geographic. National Geographic has the right to cancel, delay, reschedule or alter the format of any Online Courses at any time, and that National Geographic has no liability to you for any such action. If you no longer desire to participate in the Online Courses, you may terminate your participation therein upon notice to National Geographic.
+*   Feedback. National Geographic may, in National Geographic’s sole discretion, utilize, in any manner National Geographic deems appropriate, all comments and suggestions, whether written or oral, furnished by any Course User to National Geographic in connection with Online Courses (“Feedback”). Course User assigns to National Geographic all right, title and interest, including, without limitation, all intellectual property rights, in and to the Feedback.
+*   Research. Records of your activity in Online Courses may be used for researching online education intended to improve future Online Courses and contribute to overall knowledge in the field. This research will involve analyzing patterns about the use of the site and user submitted resources and comments. You may also be asked if you are willing to respond to survey questions or be interviewed for the research. Individual participants will not be identified, and reasonable efforts will be made to avoid including information that could be connected to any individual, school or district, in all research reports. In the interests of this research, you may be exposed to variations in the course materials that should have no substantive effect on your learning experience. All research findings will be reported at the aggregate level and will not expose your personal identity.
+
+HIGHLIGHTS  
+
+If you participate in an Online Course offered by National Geographic, please review these Terms of Service. National Geographic may offer an Online Course through a Platform (such as Google, Udacity, Coursera, etc.), and you agree to be subject to any additional terms and conditions of that Platform.
+
+Shopping  
+
+Certain sections of this Service may allow you to purchase different types of products and services online that are provided by third parties. National Geographic has no responsibility for the quality, accuracy, timeliness, reliability or any other aspect of these products and services. If you make a purchase from a merchant on the Service, or on a third-party website that you have accessed via a link on the Service, the information obtained during your visit to that merchant’s online store or site, and the information that you give as part of the transaction, such as your credit card number and contact information, may be collected by both the merchant and National Geographic. A merchant may have privacy and data collection practices that are different from National Geographic. National Geographic has no responsibility or liability for these independent policies. In addition, when you purchase products or services on or through the Service, you may be subject to additional terms and conditions that specifically apply to your purchase or use of such products or services. For more information regarding a merchant, its online store, its privacy policies, and/or any additional terms and conditions that may apply, visit that merchant’s website and click on its information links or contact the merchant directly. You release National Geographic and its affiliates from any damages that you incur, and agree not to assert any claims against National Geographic or any of its affiliates, arising from your purchase or use of any products or services made available by third parties through the Service.  
+  
+You agree to be financially responsible for all purchases made by you or someone acting on your behalf through the Service. You agree to use the Service, and to purchase services or products through the Service, for legitimate, non-commercial purposes only. You also agree not to make any purchases for speculative, false or fraudulent purposes or for the purpose of anticipating demand for a particular product or service. You agree to only purchase goods or services for yourself or for another person for whom you are legally permitted to do so. When making a purchase for a third party that requires you to submit the third party's personal information to us or a merchant, you represent that you have obtained the express consent of such third party to provide such third party's personal information.
+
+HIGHLIGHTS  
+
+If you follow a link to a third party site for shopping or anything else, National Geographic has no responsibility for that third party. Surf safely.
+
+Video Player  
+
+With respect to your use of any Video Player offered on the Service, you also agree:
+
+1.  If you use a Video Player on your website, you must include a prominent link back to the Service on the pages containing the Video Player and you may not modify, build upon, or block any portion of the Video Player in any way;
+2.  You may embed videos using the Video Player, provided you do not embed the Video Player on any website or other location that (i) contains or hosts content that is unlawful, infringing, pornographic, obscene, defamatory, threatening, harassing, vulgar, indecent, profane, hateful, or racially or ethnically offensive, (ii) encourages criminal conduct, gives rise to civil liability, violates any law, rule, or regulation, or infringes any right of any third party including intellectual property rights, (iii) is otherwise inappropriate or objectionable to National Geographic (in National Geographic’s sole discretion), or (iv) links to infringing or unauthorized content (collectively, "Unsuitable Material").
+3.  You are prohibited from embedding the Video Player into any hardware or software application, even for non-commercial purposes. National Geographic reserves the right to prevent embedding to any website or other location that National Geographic finds inappropriate or objectionable (as determined by National Geographic in its sole discretion). and
+4.  You may make no use of the Video Player for any commercial use, without the prior written authorization of National Geographic. provided, however, that you may use the Video Player to show National Geographic content on an ad-enabled blog or website, provided the primary purpose of using the Video Player is not to gain advertising or any other form of revenue (e.g. license fees, subscriptions, etc.). Prohibited commercial uses include, without limitation, any use of the Video Player that National Geographic finds, in its sole discretion, to use National Geographic resources or Your Content with the effect of competing with or displacing the market for National Geographic content.
+
+  
 
 Miscellaneous  
 
@@ -167,4 +193,36 @@ These Terms and any other operating rules or terms currently posted on the Servi
 
 HIGHLIGHTS  
 
-All disputes regarding these Terms of Service, with the exception of copyright claims, will be settled by arbitration in Washington DC, under its laws.
+All disputes regarding these Terms of Service, with the exception of copyright claims, will be settled by arbitration in Washington, D.C., under its laws.
+
+More From National Geographic
+
+*   Help Save the Colorado River
+    
+*   Quiz: Coal vs. Natural Gas
+    
+*   Exploring the Deep
+    
+*   Video: Meet Mel
+    
+*   Shipping Container Homes
+    
+*   Visualizing Our Water Footprint
+    
+*   Time-Lapse Dam Removal
+    
+*   Photos: Waterscapes
+    
+*   Photos: Great Barrier Reef
+    
+*   Population 7 Billion
+    
+*   Places of a Lifetime
+    
+*   Extreme Photos
+    
+*   Your Hawaii Photos
+    
+*   Photos: Alien "Hot Spots"
+    
+*   Your Puppy Pictures
