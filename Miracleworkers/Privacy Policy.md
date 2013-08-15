@@ -1,5 +1,3 @@
-Register or Sign In >>. | Employers
-
 *   Home
 *   My MiracleWorkers
 *   Search Jobs
@@ -291,12 +289,40 @@ Please be advised that CareerBuilder will never initiate a request for your pers
 
 If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety.
 
-© 2013 MiracleWorkers.com. All Rights Reserved. Customer Service: (877) 270-6318
-
-Contact Us|Terms &. Conditions|Privacy Guidelines
-
 Partner Sites: Therapy Jobs | Nursing Jobs | Allied Health Jobs | Job Search | IT Jobs | Management &. Executive Jobs
 
 Internships | Retail Jobs | Restaurant Jobs | UK Nursing Jobs | Jobs For Veterans
 
-This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+About Us
+
+*   About MiracleWorkers
+*   Privacy
+*   Terms &. Conditions
+
+  
+Browse Jobs
+
+*   Therapy Jobs
+*   Nursing Jobs
+*   Allied Health Jobs
+
+Employers
+
+*   Post Jobs
+*   MiracleWorkers for Employers
+
+  
+Partner Sites
+
+*   Therapy Jobs
+*   Nursing Jobs
+*   Allied Health Jobs
+*   Jobs Search
+*   IT Jobs
+*   Management &. Executive Jobs
+
+MiracleWorkers Office 200 N. LaSalle St  
+Suite 1100  
+Chicago, IL 60601  
+(866) 438-1485  
+© 2013 MiracleWorkers.com. All Rights Reserved. Customer Service: (877) 270-6318 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
