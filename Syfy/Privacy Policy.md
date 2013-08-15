@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off Bloopers Face Off Bloopers
-
-There's always something funny around the corner.
-
-The Many Words of McKenzie Westmore The Many Words of McKenzie Westmore
+Syfy Video The Many Words of McKenzie Westmore The Many Words of McKenzie Westmore
 
 Lets take a look back at what McKenzie Westmore does best.
 
-Face Off - Season 5 Preview Face Off - Season 5 Preview
+Face Off Bloopers Face Off Bloopers
 
-Check out this special preview of Season 5.
+There's always something funny around the corner.
 
-Inside the Costumes: Becky Q&A Inside the Costumes: Becky Q&A
+The Winner Tells All: Episode 1 - Anthony The Winner Tells All: Episode 1 - Anthony
 
-Get to know more about the hero of Cosplay, Becky Young!
+Season 4 Winner Anthony Kosar critiques the season 5 premiere and answers your questions. Check back each week to get some more insight!
+
+The Winner Tells All: Episode 1 - Rayce The Winner Tells All: Episode 1 - Rayce
+
+Season 2 Winner Rayce Bird critiques the season 5 premiere and answers your questions! Come back each week to get more insight!
 
 *   FAQ
 *   Feedback
