@@ -39,36 +39,4 @@ By submitting Your Content, you grant us the non-exclusive right to use your con
 
 **If you violate any of these guidelines, Your Content will not be accepted and your account may be suspended or blocked. CBC/Radio-Canada reserves the right to not open a forum on any given story or to close a forum at any time without notice and to reject the publication of any of Your Content. CBC/Radio-Canada reserves the right to change these Content Submission Guidelines at any time without notice.**
 
-FREQUENTLY ASKED QUESTIONS
-
-**How is Your Content Moderated?**
-
-On CBC platforms most of Your Content is moderated. That means that we read it before it is published to make sure it adheres to our Content Submission Guidelines. We will do our best to get it up promptly. We may edit Your Content and to ensure that Your Content is posted, we do ask that you follow these Content Submission Guidelines to create a thriving conversation. We moderate through a variety of moderation techniques including pre-moderation (before publishing), post-moderation (after publishing) and reactive moderation (in response to concerns).
-
-Contributors to CBC.ca start with "Standard" status, meaning they are subject to pre-moderation.
-
-As of April 2010, we added a new status called "Trusted". Contributors with "Trusted" status by-pass pre-moderation, their submissions are posted immediately.
-
-A contributor becomes a "Trusted" member of the CBC.ca online community by being a frequent contributor with a good reputation (i.e: almost all submissions by the member fall within our Content Submission Guidelines and are suitable for publishing).
-
-**What if I see content I don’t like?**
-
-If you think someone else's content violates the Content Submission Guidelines, you have an opportunity to respond by clicking on the "Reporting" link associated with the content and explaining the problem (ie. Report Abuse). We’ll investigate.
-
-**Comments**
-
-**How do I comment?**
-
-Comments are solicited at the bottom of most news stories, blogs and other CBC/Radio-Canada content. In most cases, you need to log in or create an account before commenting. You can create an account in our Member Centre or as otherwise indicated by CBC.
-
-**What about including personal information in comments?**
-
-If sharing more about yourself is relevant to Your Content that you are submitting, go ahead. You can also update your profile and username at any time. Any updates will be retroactive and associated with all Your Content submitted in the past. We do not accept comments containing phone numbers or email addresses since it is private information.
-
-**More Information**
-
-For more details, read CBC/Radio-Canada's section on Submissions in the Terms of Use.
-
-We look forward to receiving Your Content.
-
-Lasted Updated: July 2012
+Lasted Updated: Aug 2013
