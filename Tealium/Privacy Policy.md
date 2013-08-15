@@ -9,6 +9,7 @@ Tealium
         *   Features
         *   Benefits
         *   Supported Tags
+        *   Digital 100
         *   DataCloud
         *   Mobile Tagging
 *   Customers
