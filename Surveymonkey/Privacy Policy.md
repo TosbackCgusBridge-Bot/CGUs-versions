@@ -42,7 +42,6 @@
 *   Information
     *   Security Statement
 *   Requests &. Forms
-    *   Survey Opt-in/out Form
     *   Federal 508 VPAT Template
     *   SurveyMonkey's W-9 Form
 
