@@ -180,38 +180,29 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 DMCA
 
-In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at http://lcweb.loc.gov/copyright/), Tube8 will respond expeditiously to claims of copyright infringement that are reported to Tube8's designated copyright agent identified below. Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability. Tube8 reserves the right at its sole and entire discretion, to remove content and terminate the accounts of Tube8 users who infringe, or appear to infringe, the intellectual property or other rights of third parties.  
   
-If you believe that your copywriten work has been copied in a way that constitutes copyright infringement, please provide Tube8's copyright agent the following information:
-
-1.     A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-
-2.     Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at the Website.
-
-3.     Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Tube8 to locate the material.
-
-4.     Information reasonably sufficient to permit Tube8 to contact the complaining party, including a name, address, telephone number and, if available, an email address at which the complaining party may be contacted.
-
-5.     A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law. and
-
-6.     A statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-
+DMCA Notice of Copyright Infringement  
+It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (For content of the act please refer to http://www.copyright.gov) and/or any other applicable intellectual property legislation or laws. Responses may include removing or disabling access to material claimed to be the subject of infringing activity and/or terminating subscribers. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the owner of the affected content so that they may make a counter notification pursuant to sections 512(g)(2) and (3) of that Act. It is our policy to document all notices of alleged infringement on which we act.  
   
-All claims of copyright infringement on or regarding this Website should be delivered to Tube8's designated copyright agent at the following address:  
+To file a notice of infringement with us, you can submit the notification through the form provided here. This method is the fastest method for submission:  
   
-**Copyright Contact Information:**  
-If you prefer to contact us via postal mail,  
-Email, you may do so here:  
+http://www.copyrightcomplianceagency.com/s/tube8.com  
   
-**DMCA Complaints**  
-Registered Agent: Joe C.  
-33 Larnakos Avenue  
-1st Floor, Suite 101  
-1046 Nicosia, Cyprus  
-Phone: 357-2266-2320  
-Email: copyright@tube8.com  
+This form is designed to help the copyright owners identify their content accurately and help speed up the process of content take-down should such material proved to be infringing upon the rights of the IP owner.  
+  
+Please note that you will be liable for damages (including court costs and attorneys' fees) if you materially misrepresent that a product or activity is infringing your copyrights.  
+  
+If you would prefer to submit your claim by postal mail or email, please provide us with all information required by the Digital Millennium Copyright Act and send your notice to the following addresses:  
+  
+**Attn:**  
+Legal Team at Copyright Compliance Agency  
+Equity House  
+84 Albert Street  
+Belize City,  
+Belize  
+tube8.com@copyrightcomplianceagency.com  
 
-We apologize for any kind of misuse of our service and promise to do our best to find and terminate abusive files.
+Please note: Copyright Compliance Agency cannot guarantee recipient of all mail unless it is sent by registered mail. Submitting your notice through any means other than the form may slow down the process of investigation of claims..
 
 18 USC 2257 STATEMENT
 
@@ -241,7 +232,7 @@ All videos you upload will be posted and public on Tube8.com. We will select the
 
 For owners of multiple sites, we offer an easy method to target your ads to spcific videos without the need for multiple user accounts.
 
-INCREASE YOUR EXPOSURE TODAY
+INCREASE YOUR EXPOSURE TODAY!
 
 It's easy to join **Tube8.com's Paid Content Partner Program:**
 
@@ -305,6 +296,7 @@ You are entitled to access and correct your Data by doing so directly on the web
 *   Erotic
 *   Fetish
 *   Hardcore
+*   HD
 *   Indian
 *   Latina
 *   Lesbian
@@ -313,7 +305,6 @@ You are entitled to access and correct your Data by doing so directly on the web
 *   Teen
 *   Gay
 *   Shemale
-*   HD
 
 *   HOME
 *   TERMS OF USE
