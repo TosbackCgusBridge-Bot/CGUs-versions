@@ -1,7 +1,7 @@
 **THE SWISS COLONY AND SWISSCOLONY.COM PRIVACY POLICY**  
-Last modified May 1, 2011  
+Last modified August 15, 2013  
   
-This is the privacy policy ("Privacy Policy") of The Swiss Colony, LLC and the SwissColony.com website (sometimes referred to as the "Site"). We want you to understand the types of information we gather about you, how we use it, and the steps we take to safeguard it. Throughout this policy, "The Swiss Colony" means The Swiss Colony, LLC Throughout this policy, "We," "Our," and "Us" means "Our Family of Companies". "Our Family of Companies" is also sometimes referred to herein as "Affiliates". Please "click here" to see a current listing of Our Family of Companies.  
+This is the privacy policy ("Privacy Policy") of The Swiss Colony and the SwissColony.com website (sometimes referred to as the "Site"). We want you to understand the types of information we gather about you, how we use it, and the steps we take to safeguard it. Throughout this policy, "The Swiss Colony" means The Swiss Colony, LLC Throughout this policy, "We," "Our," and "Us" means "Our Family of Companies". "Our Family of Companies" is also sometimes referred to herein as "Affiliates". Please "click here" to see a current listing of Our Family of Companies.  
   
 This policy applies to information collected from you at the Site. It also applies to information that We may collect from you elsewhere or by other means (for example, if you contact our customer service and/or ordering departments by mail or telephone), unless We inform you otherwise. When you provide personal information at the Site or by other means, you are consenting to the manner in which We will collect, store, use and disclose that information as set forth below.  
   
