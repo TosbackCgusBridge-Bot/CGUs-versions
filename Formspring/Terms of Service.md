@@ -39,7 +39,7 @@ You are responsible for safeguarding your password. You agree not to disclose yo
 
 Privacy
 
-See Spring.me’s Privacy Policy located at http://www.formspring.me/about/privacy for information and notices concerning Spring.me’s collection and use of your personal information. If you have any questions about the Spring.me Privacy Policy, please contact Spring.me at privacy@spring.me.
+See Spring.me’s Privacy Policy located at http://spring.me/about/privacy for information and notices concerning Spring.me’s collection and use of your personal information. If you have any questions about the Spring.me Privacy Policy, please contact Spring.me at privacy@spring.me.
 
 Certain Definitions
 
