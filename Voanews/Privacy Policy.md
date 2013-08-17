@@ -1,4 +1,39 @@
-Terms of Use/Privacy Policy **INTRODUCTION**  
+Terms of Use/Privacy Policy - VOA News **VOA**Sites by Language **Top Stories:**
+
+*   More Deaths In Egypt Protests
+*   Mugabe Rival Withdraws Election Challenge
+
+*   English WorldwideEnglishvoanews.comLearning Englishlearningenglish.voanews.com
+*   Eastern &. Central EuropeShqipZeriamerikes.comBosanskivijestiglasaamerike.com����������������gr.voanews.com��������������������mk.voanews.comSrpskiglasamerike.net��������������������chastime.com
+*   Eurasia��������������amerikayidzayn.comAzerbaijaniamerikaninsesi.org���������������������amerikiskhma.com��������������golos-ameriki.ru
+*   Central AsiaO���zbekamerikaovozi.com
+
+*   East &. Southeast AsiaBurmeseburmese.voanews.com������voacantonese.com������voachinese.comBahasa Indonesiavoaindonesia.com���������������khmer.voanews.comKhmervoacambodia.com���������voakorea.com���������lao.voanews.com���������voathai.com���������������������voatibetan.comTibetanvoatibetanenglish.comTi���ng Vi���tvoatiengviet.com
+*   South Asia���������������voabangla.com������darivoa.com��������pashtovoa.com���� ���� ���� �������� ����������voadeewaradio.com��������urduvoa.com
+
+*   AfricaAfaan Oromoovoaafaanoromoo.com������������amharic.voanews.comFran��aislavoixdelamerique.comHausavoahausa.comKinyarwandaradiyoyacuvoa.comKirundiradiyoyacuvoa.comNdebelevoandebele.comPortugu��svoaportugues.comShonavoashona.comSoomaaligavoasomali.comKiswahilivoaswahili.com������������tigrigna.voanews.comZimbabwevoazimbabwe.com
+*   Middle East / North Africa����������ir.voanews.com����������dengiamerika.comKurdidengeamerika.comT��rk��eamerikaninsesi.com
+*   Latin AmericaCreolevoanouvel.comEspa��olvoanoticias.com
+
+VOA
+
+*   Log in
+*   Sign up
+*   Log out
+
+*   Home
+*   USA
+*   Africa
+*   Asia
+*   Mideast
+*   Europe
+*   Science &. Tech
+*   Health
+*   Entertainment
+*   Economy
+*   Programs
+
+**Audio menu** **Listen** Africa Live Global Live Music MixLatest Newscast Terms of Use/Privacy Policy**INTRODUCTION**  
   
 This website, all websites linked in the ‘Sites by Language’ tab at the top of this page, as well as all news, information, and features available on these websites (collectively, “VOA News and Information Websites”), are services provided by The Voice of America (“VOA”), an element of the Broadcasting Board of Governors (“BBG”).  
   
@@ -126,4 +161,41 @@ Choice of Law - These Terms of Use shall be governed by and construed under the 
   
 Choice of Forum - To the extent permissible by law, you hereby consent to personal jurisdiction and venue in the U.S. District Court for the District of Columbia, and hereby agree that any disputes pertaining to these Terms of Use or to your use of VOA News and Information Websites shall be litigated in a Federal court located in the District of Columbia.  
   
-Severability - If for any reason any provision of these terms of use is found unenforceable, that provision will be enforced to the maximum extent permissible, and the remainder of these Terms of Use will continue in full force and effect.
+Severability - If for any reason any provision of these terms of use is found unenforceable, that provision will be enforced to the maximum extent permissible, and the remainder of these Terms of Use will continue in full force and effect. Services:PodcastRSSMail SubscriptionMobile VOAnews.com
+
+*   USA
+*   Africa
+*   Asia
+*   Mideast
+*   Europe
+*   Americas
+
+*   Science &. Technology
+*   Health
+*   Arts &. Entertainment
+*   Business &. Economy
+*   Blogs
+*   Video
+*   Editorials
+
+About VOA
+
+*   Media Relations
+*   Contact Us
+*   Job Opportunities
+*   Terms of Use/Privacy Policy
+*   Our Languages
+*   Usage Requests
+
+Our Partners
+
+*   RFE/RL
+*   Radio Free Asia
+*   MBN
+*   Radio Marti
+
+Our Broadcasts
+
+*   Frequencies and Schedules
+*   Pronunciation Guide
+*   Broadcast Programs
