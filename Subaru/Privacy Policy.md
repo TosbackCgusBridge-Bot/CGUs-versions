@@ -462,6 +462,7 @@ We are committed to protecting your privacy and to being transparent about how w
 *   Follow us
 *   See our videos
 *   Follow on Pinterest
+*   Follow on Instagram
 *   Get email updates
 
 Explore Subaru
