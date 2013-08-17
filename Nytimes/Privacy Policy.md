@@ -252,12 +252,36 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Born to ride
+Search Help City Hall's invisible library
 
-Also in Sports »
+Also in Video »
 
-*   Dominicans on A-Rod
-*   76ers owner expected to buy Devils
+*   An attack on equality
+*   A year on Mars
+
+  
+Pogue reviews the Moto X
+
+Also in Video »
+
+*   The secret life of business class seats
+*   Catching up on jobs
+
+  
+Bill Cunningham: Leather skirts in summer
+
+Also in Video »
+
+*   Entry hall accessories
+*   Sketching and swatching
+
+  
+Bean salad with tomato vinaigrette
+
+Also in Video »
+
+*   Anita Lo's Shanghainese feast
+*   Finding one's own masala
 
   
 
