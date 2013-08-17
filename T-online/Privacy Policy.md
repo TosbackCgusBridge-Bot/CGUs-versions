@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
 *   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
 *   Grüne klagen wegen Datenabfrage durch Polizei
 *   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Datenschützer in Sachsen mit immer mehr Arbeit
 *   Studie: Unternehmen sehen wachsende Gefahr durch Datenklau-Attacken
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
-*   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
 
 schließen schließen
 
+*   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
 *   Steinmeier: Merkel fehlt Rückgrat in NSA-Affäre
 *   Russland verteidigt Snowden-Asyl
 *   Snowden soll bei Amerikanern in Moskau unterkommen
@@ -113,7 +114,6 @@ schließen schließen
 *   USA «sehr enttäuscht» über Russlands Asyl für Snowden
 *   USA «sehr enttäuscht» über Russlands Asyl für Snowden
 *   Snowden darf ein Jahr in Russland bleiben
-*   Anwalt: Snowden bleibt vorerst in Russland - «Keine Reisepläne»
 
 *   Kundencenter
 *   Preise und AGB
