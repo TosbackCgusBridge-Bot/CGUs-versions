@@ -58,6 +58,7 @@ Sign up for our e-newsletter!
         *   Trustees
         *   Executive Team
         *   Latin America Conservation Council
+        *   Investment Policy
         *   Ethics and Compliance
         *   Terms of Use
     *   Our Accountability
