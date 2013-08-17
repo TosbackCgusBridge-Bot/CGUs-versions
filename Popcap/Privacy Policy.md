@@ -131,9 +131,9 @@ EA also obtains personal and non-personal information from third parties as disc
   
 If you sign up to play EA games through a PlayStation®3 computer entertainment system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.  
   
-**2\. Xbox LIVE**  
+**2\. Xbox Live**  
   
-If you sign up to play EA games through Microsoft's Xbox LIVE Service, Microsoft will provide your Xbox LIVE user account information to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's Xbox LIVE titles. By signing up to play EA's Xbox LIVE titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your Gamertag, email address, state or province, country, language and age but does not include credit card number or other financial account information.  
+If you sign up to play EA games through Microsoft's Xbox Live Service, Microsoft will provide your Xbox Live user account information to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's Xbox Live titles. By signing up to play EA's Xbox Live titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your Gamertag, email address, state or province, country, language and age but does not include credit card number or other financial account information.  
   
 **3\. Wii U**  
   
