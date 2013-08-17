@@ -116,7 +116,11 @@ On occasion, we may use personal information for new, unanticipated uses not pre
 
 This policy became effective on 13 May 2013.
 
-A Small World . Net A Small World . Net A Small World . Net
+Error ×
+
+An Error Has Occurred.
+
+Close A Small World . Net A Small World . Net A Small World . Net
 
 *   About Us
 *   Our Foundation
