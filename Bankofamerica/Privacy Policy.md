@@ -1,10 +1,12 @@
-Skip to main content Privacy &. Security
+skip to main content Privacy &. Security
 
 *   Sign In
 *   Home
 *   Locations
 *   Contact Us
 *   Help
+
+Search Bank of America
 
 *   Overview
 *   Privacylink and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Privacy Overview Online Privacy Notice Consumer Privacy Notice Your Privacy Choices End of submenu
