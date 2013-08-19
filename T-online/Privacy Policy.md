@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
+*   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
+*   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
+*   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
 *   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
 *   Grüne klagen wegen Datenabfrage durch Polizei
 *   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
+
+schließen schließen
+
 *   Edward Snowdens Vater und Anwalt reisen nach Moskau
 *   Datenschützer in Sachsen mit immer mehr Arbeit
 *   Studie: Unternehmen sehen wachsende Gefahr durch Datenklau-Attacken
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
-
-schließen schließen
-
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
 *   Steinmeier: Merkel fehlt Rückgrat in NSA-Affäre
 *   Russland verteidigt Snowden-Asyl
@@ -109,10 +113,6 @@ schließen schließen
 *   Snowden bei Amerikanern in Moskau untergekommen
 *   USA "sehr enttäuscht" über Russlands Asyl für Snowden
 *   Snowden geht es in Russland laut Vertrautem gut
-*   Snowden darf ein Jahr in Russland bleiben
-*   Telekommunikationsanbieter helfen laut Medien Geheimdiensten
-*   USA «sehr enttäuscht» über Russlands Asyl für Snowden
-*   USA «sehr enttäuscht» über Russlands Asyl für Snowden
 *   Snowden darf ein Jahr in Russland bleiben
 
 *   Kundencenter
