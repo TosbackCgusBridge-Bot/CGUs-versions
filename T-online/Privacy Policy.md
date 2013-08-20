@@ -91,10 +91,10 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
-*   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
 *   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
 *   Grüne klagen wegen Datenabfrage durch Polizei
