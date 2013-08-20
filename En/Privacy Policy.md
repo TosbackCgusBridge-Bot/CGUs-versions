@@ -267,6 +267,7 @@ Searches:
     *   Softonic Developer Center
     *   Upload and Manage your Software
     *   Promote your Software
+    *   Monetize your software
 *   Partners
     *   Advertising Opportunities
 *   Users
