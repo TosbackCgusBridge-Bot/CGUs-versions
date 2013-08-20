@@ -20,7 +20,7 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 *   Womens
 *   Mens
 *   For Your Home
-*   Web Exclusives
+*   Scandia Woods
 *   Jewelry
 *   Clearance
 
@@ -442,7 +442,6 @@ One or more patents may apply to this Site or those of our affiliated brands, in
   
   
 
-  
   
 
 Sign Up for Email
