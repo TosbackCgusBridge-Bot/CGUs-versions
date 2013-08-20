@@ -1,7 +1,7 @@
 *   Shop
 *   Compras
 *   My Suddenlink Mi Suddenlink
-*   Help Ayudo
+*   Help Ayuda
 *   Business Empresas
     *   Advertising
     *   Publicidad
@@ -29,14 +29,14 @@
 *   Web
 *   Site
 
-Search Search
-
-*   Order Online
+*   Order Now
 *   Television
 *   Internet
-*   Telephone
+*   Phone
 *   Security
+*   Total Home
 *   VIPperks
+*   Innovations
 
 *   Contáctanos
 *   Televisión
