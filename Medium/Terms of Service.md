@@ -27,6 +27,7 @@ To keep from having to type long lawyerly word chains over and over, these Terms
 *   “User” or “you”, we mean you, whether you are a person or acting on behalf of an entity you are authorized to bind;
 *   “Content”, we mean any creative expression including video, audio, photographs, images, illustrations, animations, logos, tools, written posts, replies, and comments, information, data, text, software, scripts, executable files, graphics, and interactive features, any of which may be generated, provided, or otherwise made accessible on or through Medium Services. and
 *   “User Content”, we mean all Content that is posted or otherwise provided or transferred to Medium Services by a user, including you.
+*   “User Comments” means any comments, recommends, feedback, likes, or other Content posted by Users that is not included in the body of a Medium post.
 
 **Who Can Use Our Services**
 
@@ -55,9 +56,11 @@ We may require you to utilize a third-party account and authorization service, s
 
 **You retain ownership of all intellectual property rights in your User Content.** Medium (and/or other third parties) retains ownership of intellectual property rights in all Content other than User Content.
 
-By furnishing your User Content to Medium, **you give Medium a broad license** to use your User Content as it operates and evolves its business. That license has a number of different features: it is a perpetual, non-exclusive, worldwide, royalty-free, sublicensable, transferable license to utilize all copyright rights now in existence or that may arise in the future with respect to your User Content, in any medium that now exists or may arise in the future, as well as to do anything else that is reasonably appropriate to our Service and its use of your User Content (including, but not limited to, use of your name in association with your User Content to identify you as the contributor). The license has no restriction as to the medium, dissemination method, type of Service we may offer, or the type of systems or products that may be used in conjunction with your User Content. The reason for this broad license is that no one can fully imagine and plan for how a service like the Medium Service may evolve. We need this protection so that we don’t find someday that our evolution and expansion have roadblocks because of any restrictions on the User Content on which we have come to rely.
+By furnishing your User Content to Medium, **you give Medium a non-exclusive** worldwide, royalty-free, sublicensable, transferable license to utilize all copyright rights now in existence or that may arise in the future with respect to your User Content, in any medium that now exists or may arise in the future, as well as to do anything else that is reasonably appropriate to our Service and its use of your User Content (including, but not limited to, use of your name in association with your User Content to identify you as the contributor). The license has no restriction as to the medium, dissemination method, type of Service we may offer, or the type of systems or products that may be used in conjunction with your User Content.
 
-A reminder: This license is perpetual, which means that it continues even if you stop using Medium Services. We need this primarily because of the shared, social nature of Content on Medium. For example, when you post something publicly, others may choose to comment on it, embedding your Content in a social dialogue that cannot later be erased without retroactively censoring the speech of others.
+This license shall be irrevocable and remain in effect for so long as your User Content is available on Medium. You are free to remove or delete your User Content at any time, in which case this license shall terminate after a commercially reasonable period of time. You understand and agree, however, that Medium may retain, but not display or distribute, server copies of your User Content.
+
+The above license you grant to Medium for your User Comments is perpetual and irrevocable.
 
 You represent that you have all of the necessary rights to grant this license to Medium for all User Content you submit.
 
@@ -69,7 +72,7 @@ You agree that you won’t post User Content that violates, or otherwise use you
 
 **Deleting Your User Content**
 
-When you delete particular items of your User Content from Medium Services, we will make reasonable efforts to make it inaccessible and to cease use of it. However, we have to point out, and you understand and agree, that there may be a delay because of operational requirements. Moreover, notwithstanding your effort to delete it, your Subscriber Content may remain available and stored on our servers through the accounts of other Users, particularly when others have referred to it, quoted it, or commented on it.
+When you delete particular items of your User Content from Medium Services, we will make reasonable efforts to make it inaccessible and to cease use of it. However, we have to point out, and you understand and agree, that there may be a delay because of operational requirements.
 
 INTERLUDE
 
