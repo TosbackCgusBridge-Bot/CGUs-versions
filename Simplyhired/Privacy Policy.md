@@ -1,4 +1,4 @@
-Upload Resume • Sign In Keywords
+Find Jobs | Post Jobs | Upload Resume | Sign In | Keywords
 
 job title, skills or company
 
