@@ -1,4 +1,4 @@
-Photobucket.com Terms of Use Last revised October 4, 2012
+Photobucket.com Terms of Use Last revised August 20, 2013
 
 Thank you for visiting Photobucket.com (the "**Site**"), operated by Photobucket.com, Inc. ("**Photobucket**" or "**we**" or "**us**"). Please carefully read these Terms of Use ("**Terms**") so you understand how we operate this Site, what we can offer and how we can work together. Please also read our Privacy Policy and Copyright and IP Policy. By using the Site and the Photobucket Services (even if you're just visiting), you are agreeing to the Terms and Privacy Policy posted at the time of your visit.
 
@@ -8,7 +8,7 @@ Photobucket offers photo and video storage, story creation products and sharing 
 
 Our Customers
 
-**The Site is open to anyone 14 years of age or older**, but some of the Photobucket Services are only available to registered members ("**Members**"). You can visit the Site without registering and we will consider you a "**User**."
+**The Site is open to anyone 13 years of age or older**, but some of the Photobucket Services are only available to registered members ("**Members**"). You can visit the Site without registering and we will consider you a "**User**."
 
 Membership Responsibilities
 
@@ -17,7 +17,7 @@ When you become a Member, you agree to the following:
 *   You have provided true information when you registered to be a Member;
 *   You have given us a valid email address, and we may confirm upon registration, or at any time thereafter, via a confirming e-mail which may require a response to complete your registration or keep it active;
 *   You will notify us if something changes;
-*   You are 14 years of age or older;
+*   You are 13 years of age or older;
 *   You are not breaking any laws when you use the Photobucket Services. and
 *   You will not violate these Terms as a Member.
 
