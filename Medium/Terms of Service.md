@@ -58,7 +58,7 @@ We may require you to utilize a third-party account and authorization service, s
 
 By furnishing your User Content to Medium, **you give Medium a non-exclusive** worldwide, royalty-free, sublicensable, transferable license to utilize all copyright rights now in existence or that may arise in the future with respect to your User Content, in any medium that now exists or may arise in the future, as well as to do anything else that is reasonably appropriate to our Service and its use of your User Content (including, but not limited to, use of your name in association with your User Content to identify you as the contributor). The license has no restriction as to the medium, dissemination method, type of Service we may offer, or the type of systems or products that may be used in conjunction with your User Content.
 
-This license shall be irrevocable and remain in effect for so long as your User Content is available on Medium. You are free to remove or delete your User Content at any time, in which case this license shall terminate after a commercially reasonable period of time. You understand and agree, however, that Medium may retain, but not display or distribute, server copies of your User Content.
+This license shall remain in effect for so long as your User Content is available on Medium. You are free to remove or delete your User Content at any time, in which case this license shall terminate after a commercially reasonable period of time. You understand and agree, however, that Medium may retain, but not display or distribute, server copies of your User Content.
 
 The above license you grant to Medium for your User Comments is perpetual and irrevocable.
 
