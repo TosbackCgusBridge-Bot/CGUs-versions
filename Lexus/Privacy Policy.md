@@ -50,7 +50,7 @@ To read more about contact information
 *   You Tube
 *   Goolge Plus
 
-Mobile About Lexus Contact Lexus Careers Your Privacy Rights Legal Terms Lexus Enform® Mobile Lexus Mobile Info Corporate Information Press Release Owner Benefits Lexus International About This Site Sign Up for News Contact Information Knowledge Center Recall Information
+Mobile About Lexus Contact Lexus Careers Your Privacy Rights Legal Terms AdChoices Lexus Enform® Mobile Lexus Mobile Info Corporate Information Press Release Owner Benefits Lexus International About This Site Sign Up for News Contact Information Knowledge Center Recall Information
 
 Vehicle(s) shown may feature optional equipment.
 
