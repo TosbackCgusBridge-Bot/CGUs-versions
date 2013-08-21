@@ -16,6 +16,10 @@ Your Personal Information
 
 Our site uses forms for you to request information, products and services. We collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. Collected information is used for the benefit of Wayfair to send information to customers about orders, to fulfill orders, to process and collect payments, to send promotional marketing material about our company and partners, and to contact customers about orders when necessary. Demographic and profile data is also collected at our sites. We use this data to tailor your experiences at our sites, to show you content that we think you might be interested in, and to display the content according to your preferences.
 
+Accessing and Updating Your Email Preferences
+
+If you are a registered user, you may change your preferences to receive or not to receive email or other communications from us by logging in to your account and indicating those preferences on the "My account" section of our Site.
+
 Third-Party Service Providers
 
 We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, providing marketing assistance such as tailoring content on our sites and serving ads on our behalf, providing search results and links, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
