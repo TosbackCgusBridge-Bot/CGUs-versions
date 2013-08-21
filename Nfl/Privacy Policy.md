@@ -22,7 +22,7 @@ Loading… Sign In | Register
 *   Mobile
 
 NFL.com Privacy Policy   Effective Date: August 16, 2001  
-Updated: March 30, 2011  
+Updated: August 16, 2013  
   
 
 This privacy policy (the "Privacy Policy") applies to this website (the "Website"). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
@@ -33,7 +33,7 @@ We own the information collected via the Website and we may use it for our own p
 
 NFL Enterprises LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements www.truste.com/privacy\_seals\_and\_services/consumer\_privacy/privacy-programs-requirements.html including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at NFLPrivacy@nfl.com. If you are not satisfied with our response you can contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint.
 
-This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information visit http://www.export.gov/safeharbor/.
+NFL Enterprises LLC complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. NFL Enterprises LLC adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NFL Enterprises LLC's certification, please visit http://www.export.gov/safeharbor/.
 
 When this Privacy Policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
