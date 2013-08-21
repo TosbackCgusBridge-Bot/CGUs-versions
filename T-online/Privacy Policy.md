@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
 *   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
 *   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
 *   Grüne klagen wegen Datenabfrage durch Polizei
-*   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
 
 schließen schließen
 
+*   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
 *   Edward Snowdens Vater und Anwalt reisen nach Moskau
 *   Datenschützer in Sachsen mit immer mehr Arbeit
 *   Studie: Unternehmen sehen wachsende Gefahr durch Datenklau-Attacken
@@ -113,7 +114,6 @@ schließen schließen
 *   Snowden bei Amerikanern in Moskau untergekommen
 *   USA "sehr enttäuscht" über Russlands Asyl für Snowden
 *   Snowden geht es in Russland laut Vertrautem gut
-*   Snowden darf ein Jahr in Russland bleiben
 
 *   Kundencenter
 *   Preise und AGB
