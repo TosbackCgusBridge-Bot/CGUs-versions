@@ -16,7 +16,7 @@ Table of Contents:
 
 **1\. INTRODUCTION**
 
-Fox Sports Digital ("FSD"), which is operated and controlled by Fox Networks Group, Inc., has developed this Privacy Policy to describe how we collect, use and disclose information. This Privacy Policy applies to the sports-related websites, mobile sites, applications ("apps"), widgets, and other content and services that are linked to this Privacy Policy (collectively, the "FSD Sites"), including Foxsports.com, Foxsoccer.com, Speed.com, FoxDeportes.com, SoonerSports.tv and FOXSportsNext.com.
+Fox Sports Digital ("FSD"), which is operated and controlled by Fox Networks Group, Inc., has developed this Privacy Policy to describe how we collect, use and disclose information. This Privacy Policy applies to the sports-related websites, mobile sites, applications ("apps"), widgets, and other content and services that are linked to this Privacy Policy (collectively, the "FSD Sites"), including Foxsports.com, Foxsoccer.com, Speed.com, FoxDeportes.com, SoonerSports.tv and Scout.com.
 
 By providing personal information to us and using the FSD Sites, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies ("FSD Affiliates") click here.
 
@@ -30,7 +30,7 @@ We work with Microsoft to bring you certain features for some of the FSD Sites.Â
 
 **Services Offered with Publishers**  
 
-FOX Sports Next works with local website owners and content providers (collectively "Publishers") to bring you certain features for some of the FOX Sports Next services, such as magazines, message boards and premium forums (the "FOX Sports Next Services"). By providing information to, or using, those FOX Sports Next Services, you agree that we may share your information with the applicable Publisher.Click here for a list of Publishers. Be sure to check the applicable Publisher's privacy policy that governs the Publisher's use of your information.
+Scout.com works with local website owners and content providers (collectively "Publishers") to bring you certain features for some of the Scout.com services, such as magazines, message boards and premium forums (the "Scout.com Services"). By providing information to, or using, those Scout.com Services, you agree that we may share your information with the applicable Publisher.Click here for a list of Publishers. Be sure to check the applicable Publisher's privacy policy that governs the Publisher's use of your information.
 
 **2\. COLLECTION OF INFORMATION**
 
