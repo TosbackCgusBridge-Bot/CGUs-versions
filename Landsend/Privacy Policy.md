@@ -133,7 +133,6 @@ Enter Keyword or Item # Search
     *   Ties
     *   Shoes
         *   Regular
-        *   Regular Calf
         *   Wide
     *   Sleepwear
         *   Regular
@@ -302,7 +301,6 @@ Enter Keyword or Item # Search
     *   Beach Towels
     *   Totes
     *   Water Shoes
-    *   Sale
 *   Outerwear
     
     *   Women
@@ -314,7 +312,6 @@ Enter Keyword or Item # Search
         *   Regular
         *   Tall
         *   Big
-        *   Big &. Tall
     *   Girls
         *   Big Kid (7-20)
         *   Little Kid (4-7)
@@ -326,7 +323,6 @@ Enter Keyword or Item # Search
     *   Hat Gloves &. Scarves
     *   Long Underwear
     *   Snow Boots
-    *   Sale
 *   Shoes
     
     *   Women
@@ -336,19 +332,17 @@ Enter Keyword or Item # Search
         *   Wide Calf
     *   Men
         *   Regular
-        *   Regular Calf
         *   Wide
     *   Girls
         *   Big Kid (7-20)
-        *   Little Kid (4-7)
         *   Little Kid/Big Kid
+        *   Little Kid (4-7)
         *   Toddler (2T-4T)
     *   Boys
         *   Big Kid (7-20)
         *   Little Kid/Big Kid
         *   Little Kid (4-7)
         *   Toddler (2T-4T)
-    *   Sale
 *   School Uniforms
     
     *   Girls &. Women
