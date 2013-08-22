@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
+*   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
 *   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
 *   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
-*   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
-*   Grüne klagen wegen Datenabfrage durch Polizei
 
 schließen schließen
 
+*   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
+*   Grüne klagen wegen Datenabfrage durch Polizei
 *   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
 *   Edward Snowdens Vater und Anwalt reisen nach Moskau
 *   Datenschützer in Sachsen mit immer mehr Arbeit
@@ -112,8 +114,6 @@ schließen schließen
 *   Russland verteidigt Snowden-Asyl
 *   Snowden soll bei Amerikanern in Moskau unterkommen
 *   Snowden bei Amerikanern in Moskau untergekommen
-*   USA "sehr enttäuscht" über Russlands Asyl für Snowden
-*   Snowden geht es in Russland laut Vertrautem gut
 
 *   Kundencenter
 *   Preise und AGB
