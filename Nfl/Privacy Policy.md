@@ -10,16 +10,19 @@ Loading… Sign In | Register
 *   Fantasy Football
 *   News &. Media
 *   Video
+*   Scores
 *   Schedules
-*   Fans
+*   Standings
+*   Stats
 *   Watch NFL Games Live
-*   Events
 *   Tickets
 *   Shop
+*   Fans
 
-*   NFL Network
+*   nfl evolution
 *   En Español
 *   Mobile
+*   NFL Network
 
 NFL.com Privacy Policy   Effective Date: August 16, 2001  
 Updated: August 16, 2013  
