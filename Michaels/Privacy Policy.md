@@ -162,7 +162,7 @@ We believe it is important to provide added protection for children online. We e
 
 We do not intend to collect personal information from children under 13 online. When we do collect personal information from children, we do so in compliance with applicable country children's data protection laws.
 
-U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act. Click here to read that Privacy Statement.
+U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act.
 
 Top Contact Us
 
@@ -257,7 +257,8 @@ To stop the messages coming to your phone, you can opt out of the program via SM
   
 Terms &. Conditions
 
-By participating in the Company Mobile program, you are agreeing to the terms and conditions presented here. To view Privacy Policy, click here.
+Terms and Conditions  
+By participating in the Michaels Mobile Program, you agree to the terms and conditions stated herein.
 
   
 Carriers Supported  
@@ -275,4 +276,4 @@ Top
 
 This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
 
-Last Updated: March 2012
+Last Updated: August 2013
