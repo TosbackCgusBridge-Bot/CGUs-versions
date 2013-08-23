@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Staatsanwaltschaft gegen Gerichtsentscheidung in Feuerwehr-Affäre
+*   Amtsgericht zu Feuerwehr-Affäre: Durchsuchung war rechtswidrig
 *   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
 *   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
 *   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
 *   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
-*   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
-*   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
 
 schließen schließen
 
+*   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
+*   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
 *   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
 *   Grüne klagen wegen Datenabfrage durch Polizei
 *   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
@@ -112,8 +114,6 @@ schließen schließen
 *   Snowden in Russland untergetaucht - Spähvereinbarungen aufgehoben
 *   Steinmeier: Merkel fehlt Rückgrat in NSA-Affäre
 *   Russland verteidigt Snowden-Asyl
-*   Snowden soll bei Amerikanern in Moskau unterkommen
-*   Snowden bei Amerikanern in Moskau untergekommen
 
 *   Kundencenter
 *   Preise und AGB
