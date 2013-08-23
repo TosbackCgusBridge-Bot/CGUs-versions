@@ -110,7 +110,7 @@ Enter Keyword or Item # Search
         *   Tall
         *   Big
         *   Big and Tall
-    *   Sport Shirts
+    *   Casual Button-down Shirts
         *   Regular
         *   Tall
         *   Big
@@ -368,7 +368,8 @@ Enter Keyword or Item # Search
         *   Bedding
         *   Bath
         *   Beach Towels
-        *   Decorative Pillows &. Home Décor
+        *   Throws &. Home Décor
+        *   Storage &. Organization
         *   Backpacks, Luggage &. Bags
         *   Seasonal Décor &. Gifts
         *   Outdoor Living
