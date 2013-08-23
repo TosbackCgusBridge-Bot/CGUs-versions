@@ -6,7 +6,7 @@ Inherent to transacting on the Internet is the collection of some personal infor
 
 JustAnswer® is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet, by promoting the use of fair information practices. JustAnswer has elected to disclose its information practices as a sign of its commitment to privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
 
-For queries and concerns pertaining to the Site, click HERE to contact us. In the event your privacy-related query is not acknowledged within a reasonable time frame, or is not addressed to your satisfaction, you may contact TRUSTe at http://clicktoverify.truste.com/pvr.php?page=validate&page=complaint&url. TRUSTe shall then work as a liaison to help us resolve your concerns.
+For queries and concerns pertaining to the Site, click HERE to contact us. In the event your privacy-related query is not acknowledged within a reasonable time frame, or is not addressed to your satisfaction, you may contact TRUSTe at https://feedback-form.truste.com/watchdog/request. TRUSTe shall then work as a liaison to help us resolve your concerns.
 
 **Because your privacy is important to us, JustAnswer® operates by the following principles.**
 
