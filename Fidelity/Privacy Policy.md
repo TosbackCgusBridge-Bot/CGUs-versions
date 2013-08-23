@@ -1,55 +1,77 @@
-Skip to Main Content. Search Fidelity.com: Press up or down arrows for suggestions. Press Escape to return to the Search field. **Customer Service** **Open an Account** **Log In** Main Navigation: Most Main navigation links display sub menus. The Guidance and Retirement link takes you to the Guidance and Retirement Overview.
+Skip to Main Content. Fidelity.com Home
+
+*   Customer Service
+*   Open An Account
+*   Log In
+
+*   Customer Service
+*   Open An Account
+*   Log Out
+
+Search Fidelity.com Search Fidelity.com Find quote
 
 *   Accounts &. Trade
-*   *   Portfolio 
-    *   Account Positions 
-    *   Trade 
-    *   Transfer Money/Shares 
-    *   BillPay 
-    *   Update Accounts/Features 
-    *   Statements 
-    *   Full View
-*   Employer Benefits
+    *   Close
+    *   PortfolioLog In Required
+    *   Account PositionsLog In Required
+    *   TradeLog In Required
+    *   Transfer Money / SharesLog In Required
+    *   BillPayLog In Required
+    *   Full ViewLog In Required
+    *   Update Accounts / Features
+    *   StatementsLog In Required
 *   News &. Insights
-*   *   News 
-    *   Insights 
+    *   Close
+    *   News
+    *   Insights
     *   Viewpoints
 *   Research
-*   *   Learning Center 
-    *   Watch List 
-    *   Alerts 
-    *   Quotes 
-    *   Markets &. Sectors 
-    *   Stocks 
-    *   Options 
-    *   ETFs 
-    *   Mutual Funds 
-    *   Fixed Income &. Bonds 
-    *   IPOs 
+    *   Close
+    *   Watch ListLog In Required
+    *   Quotes
+    *   AlertsLog In Required
+    *   Mutual Funds
+    *   Stocks
+    *   Fixed Income &. Bonds
+    *   ETFs
+    *   Options
+    *   Markets &. Sectors
+    *   IPOs
     *   Annuities
+    *   Learning Center
 *   Guidance &. Retirement
-*   *   Retirement Planning 
-    *   Investment Guidance 
-    *   Taxes 
-    *   Saving for College 
-    *   Estate Planning &. Inheritance 
-    *   Insurance 
-    *   Charitable Giving 
-    *   Wealth Management 
+    *   Close
+    *   Investment Guidance
+    *   Retirement Planning
+    *   Wealth Management
+    *   Estate Planning &. Inheritance
+    *   Taxes
+    *   Saving For College
+    *   Charitable Giving
+    *   Life Insurance
     *   Calculators &. Tools
 *   Investment Products
-*   *   Trading 
-    *   Stocks 
-    *   Options 
-    *   ETFs 
-    *   Mutual Funds 
-    *   Fixed Income &. Bonds 
-    *   Cash Management 
-    *   529 College Savings 
-    *   Annuities 
-    *   Insurance 
-    *   Retirement &. IRA 
+    *   Close
+    *   Mutual Funds
+    *   Retirement &. IRAs
+    *   Trading
+    *   Stocks
+    *   Fixed Income &. Bonds
+    *   ETFs
+    *   Options
+    *   Cash Management
     *   Managed Accounts
+    *   529 College
+    *   Annuities
+    *   Life Insurance
+
+*   Customer Service
+*   Open An Account
+*   Log In
+
+*   Customer Service
+*   Open An Account
+*   Log Out
 
 *   **Home**»
 
