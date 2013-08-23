@@ -255,6 +255,10 @@ Syfy Video Face Off - Sneak Peek - Gettin' Goosed Face Off - Sneak Peek - Gettin
 
 After a mini-challenge inspired by the demon in Insidious (featuring guests James Wan and Lin Shayne), the contestants must create a modern twist to a Mother Goose character. Plus: A double elimination!
 
+Winner Tells All: Episode 2 - Rayce Winner Tells All: Episode 2 - Rayce
+
+Season 2 Winner Rayce Bird critiques the season 5, episode 2 and answers your questions! Come back each week to get more insight!
+
 The McKenzie Westmore Supercut The McKenzie Westmore Supercut
 
 Lets take a look back at what McKenzie Westmore does best.
@@ -262,10 +266,6 @@ Lets take a look back at what McKenzie Westmore does best.
 Face Off Bloopers Face Off Bloopers
 
 There's always something funny around the corner.
-
-Heroes of Cosplay - Sneak Peek - Emerald City ... Heroes of Cosplay - Sneak Peek - Emerald City ComiCon
-
-Catch a sneak peek of episode 2 of Heroes of Cosplay.
 
 *   FAQ
 *   Feedback
