@@ -6,7 +6,7 @@ Terms &. Conditions
 
 Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
 
-Please take a few minutes to review these Terms and Conditions. Your purchase of products from us constitutes your agreement to follow these Terms and Conditions and to be bound by them.
+Please take a few minutes to review these Terms and Conditions. These Terms and Conditions apply to your access and use of the Web Site and our mobile applications. Your use of our Web Site or our mobile application constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
 These Terms and Conditions May Change
 
@@ -30,7 +30,7 @@ Back to Top
 
 Disclaimer
 
-This Web Site and all Content available on this Web Site are provided on an "as is" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of this Web Site, that your use of this Web Site is at your sole risk, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use of this Web Site, and that Williams-Sonoma, Inc. Brands shall not be liable for any damages of any kind related to your use of this Web Site.
+This Web Site and our mobile applications, and all Content available on this Web Site, our mobile applications, or both, are provided on an "as is" and "as available" basis without warranties of any kind, whether express, implied, statutory, or otherwise, including without limitation warranties of title or implied warranties of merchantability, non-infringement, or fitness for a particular purpose. You acknowledge, by your use of this Web Site or our mobile applications, as applicable, that your use is at your sole risk, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use, and that Williams-Sonoma, Inc. Brands shall not be liable for any damages of any kind related to your use of this Web Site or our mobile applications. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for damages. Accordingly, some of the above limitations and disclaimers may not apply to you. To the extent we may not, as a matter of applicable law, disclaim any warranty or limit our liability, the scope and duration of such warranty and the extent of our liability will be the minimum permitted under such law.
 
 Product Pricing Information
 
@@ -50,23 +50,25 @@ From time to time there may be information on our Web Site or in our catalog tha
 
 Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California.
 
-Last Updated: June 2013
+Last Updated: August 2013
 
 Back to Top
 
 Privacy Policy
 
-We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase contact information means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase contact information means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise to American Consumers. We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers. (2) honor customers' requests not to share their contact information with other marketers. and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
 Collecting Information About You
 
-There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
+There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
 
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.
 
-In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. We may also receive anonymous usage data from your mobile phone or other device you use to access our web sites or our mobile applications, including location data.
+
+If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
 
 Using Information About You
 
@@ -154,7 +156,7 @@ Your Feedback
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an email. Outside of the U.S., you can call us at 405.717.6139 or send us an email.
 
-Effective Date: June 2013
+Effective Date: August 15, 2013
 
 Back to Top
 
