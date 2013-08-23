@@ -65,13 +65,13 @@ Log Into MySubaru | Help |
         
     *   Impreza WRX
         
-        Starting at **$25,795**
+        Starting at **$25,995**
         
-        2013 Impreza WRX
+        2014 Impreza WRX
         
         Starting at
         
-        $25,795
+        $25,995
         
         MSRP\*
         
