@@ -5,7 +5,7 @@ Shopping Cart
 *   Home
 *   Shop
 *   News &. Commentary
-    *   O'Reilly Animals
+    *   O'Reilly Animals.
     *   Programming
     *   O'Reilly Radar
     *   Strata
