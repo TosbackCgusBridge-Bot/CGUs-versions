@@ -36,7 +36,7 @@ You can track the progress of your international package(s) here: <a target="\_b
 
 Who should I contact if I have questions relating to my order after I have made a purchase?
 
-Please contact us at <a href="mailto:internationalsales@dillards.com">internationalsales@dillards.com</a>. or 817-831-5482 and Dillard's will gladly assist you with any questions relating to your international order.
+Please contact us at <a href="mailto:internationalsales@dillards.com">internationalsales@dillards.com</a>. or 817-831-5482 and Dillard's will gladly assist you with any questions relating to your international order. Dillard's Call Center Hours are: Monday through Saturday 7:00 am to 10:00 pm (GMT-6), Sunday 12:00 (noon) to 6:00 pm (GMT-6).
 
 How much duty and taxes are charged on international orders?
 
