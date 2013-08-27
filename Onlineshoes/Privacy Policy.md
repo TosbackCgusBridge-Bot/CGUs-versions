@@ -25,7 +25,7 @@ Answers others found helpful
 *   What are cookies and why does OnlineShoes.com use them?
 *   Why do you require my email address and phone number to place an order?
 *   Is my personal order information secure?
-*   If I change my billing information, will it update my order that’s in processing?
+*   How do I make a return?
 
 Share
 
