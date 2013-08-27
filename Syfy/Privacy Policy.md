@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Gettin' Goosed Face Off - Sneak Peek - Gettin' Goosed
+Syfy Video Face Off - Next Episode - Gettin' Goosed Face Off - Next Episode - Gettin' Goosed
+
+Catch the next episode of Face Off, Tuesdays at 9/8c.
+
+Face Off - Sneak Peek - Gettin' Goosed Face Off - Sneak Peek - Gettin' Goosed
 
 After a mini-challenge inspired by the demon in Insidious (featuring guests James Wan and Lin Shayne), the contestants must create a modern twist to a Mother Goose character. Plus: A double elimination!
 
@@ -262,10 +266,6 @@ Season 2 Winner Rayce Bird critiques the season 5, episode 2 and answers your qu
 The McKenzie Westmore Supercut The McKenzie Westmore Supercut
 
 Lets take a look back at what McKenzie Westmore does best.
-
-Face Off Bloopers Face Off Bloopers
-
-There's always something funny around the corner.
 
 *   FAQ
 *   Feedback
