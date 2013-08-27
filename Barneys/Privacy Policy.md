@@ -2,7 +2,7 @@ Privacy Policy Secure ordering
 
 Protecting your online order information on Barneys.com is very important to us. In our shopping checkout process, we use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing SSL.
 
-Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Saturday, 9.00am - 12.00am, and Sunday 10.00am - 11.00pm, EST.
+Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Friday, 9.00am - 9.00pm, and Saturday - Sunday 11:30am - 8.00pm, ET.
 
 Privacy Policy
 
