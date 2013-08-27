@@ -12,6 +12,7 @@ Below you will find the updated Privacy Policy for www.expedia.com. We value you
 *   Children's privacy
 *   External links
 *   Visiting our website from outside the United States
+*   U.S.-Swiss Safe Harbor Framework
 *   Changes to this Privacy Policy
 *   How you can contact us
 
@@ -136,6 +137,10 @@ Visiting our website from outside the United States
 
 If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
+U.S.-Swiss Safe Harbor Framework
+
+As described in our Safe Harbor Privacy Statement, we comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.
+
 Changes to this Privacy Policy
 
 We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website.
@@ -144,4 +149,4 @@ How you can contact us
 
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us using our customer service and feedback form.
 
-This Privacy Policy is effective as of July 27, 2013.
+This Privacy Policy is effective as of August 22, 2013.
