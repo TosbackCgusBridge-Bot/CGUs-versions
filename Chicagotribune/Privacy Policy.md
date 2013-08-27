@@ -29,7 +29,7 @@ We may collect information about you during your use of the Services, including 
 *   Sign up to receive SMS (text message) notifications;
 *   Download or use one of our mobile applications;
 *   Connect with the Services or otherwise allow us to access certain information about you via a social networking site (“SNS”). or
-*   Post user-generated content to any of our websites.
+*   Post user-generated content to or on any of our Services.
 
 We may collect and store your user ID associated with a SNS account that you use to sign in to your Tribune account or connect or use with the Services. When you sign in to your Tribune account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize Tribune to collect, store, and use in accordance with this Privacy Policy any and all information available to Tribune through the SNS interface, including without limitation any information that you have made public in connection with your SNS account, information that the SNS shares with us, or information that is disclosed as being shared during the sign-in process.  
   
@@ -97,7 +97,7 @@ To ensure that you have some control over the information we have about you, you
   
 **How we protect information.**  
   
-We have implemented reasonable administrative, technical, and physical security measures to protect against the loss, misuse and alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable.  
+We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable.  
   
 **Linked sites and advertisements.**  
   
