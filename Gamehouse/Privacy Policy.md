@@ -140,7 +140,7 @@ Privacy Policy Group
 RealNetworks, Inc.  
 P.O. Box 91123  
 Seattle, WA 98111-9233  
-https://real.custhelp.com/app/ask/support\_type/1  
+https://realnetworks.zendesk.com/anonymous\_requests/new
 
 SPECIFIC TOPICS
 
