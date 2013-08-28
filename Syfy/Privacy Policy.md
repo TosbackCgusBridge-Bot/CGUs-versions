@@ -257,15 +257,15 @@ Catch the next episode of Face Off, Tuesdays at 9/8c.
 
 Face Off - Sneak Peek - Gettin' Goosed Face Off - Sneak Peek - Gettin' Goosed
 
-After a mini-challenge inspired by the demon in Insidious (featuring guests James Wan and Lin Shayne), the contestants must create a modern twist to a Mother Goose character. Plus: A double elimination!
-
-Winner Tells All: Episode 2 - Rayce Winner Tells All: Episode 2 - Rayce
-
-Season 2 Winner Rayce Bird critiques the season 5, episode 2 and answers your questions! Come back each week to get more insight!
+After a mini-challenge inspired by the demon in Insidious, the contestants must create a modern twist to a Mother Goose character. Plus: A double elimination!
 
 The McKenzie Westmore Supercut The McKenzie Westmore Supercut
 
 Lets take a look back at what McKenzie Westmore does best.
+
+Heroes of Cosplay - Sneak Peek - MegaCon Heroes of Cosplay - Sneak Peek - MegaCon
+
+Catch a sneak peek of the next episode of Heroes of Cosplay!
 
 *   FAQ
 *   Feedback
