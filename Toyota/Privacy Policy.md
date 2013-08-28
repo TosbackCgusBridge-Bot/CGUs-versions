@@ -7,24 +7,14 @@
 
 1.  Cars &. Minivan
     *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 Explore Build
-    *   Corolla $16,230 starting msrp 1 27/34 est. mpg 2 Explore Build
+    *   Corolla $16,800 starting msrp 1 29/37 est. mpg 2 $19,000 as shown Explore Build
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
     *   Camry $22,235 starting msrp 1 25/35 est. mpg 2 Explore Build
     *   Avalon $30,990 starting msrp 1 21/31 est. mpg 2 Explore Build
     *   Sienna $26,585 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
-    *   Tacoma  
-        Double Cab $22,525 starting msrp 1 19/24 est. mpg 2 $32,150 as shown Explore Build
-    *   Tacoma  
-        Access Cab $20,415 starting msrp 1 21/25 est. mpg 2 Explore Build
-    *   Tacoma  
-        Regular Cab $17,625 starting msrp 1 21/25 est. mpg 2 Explore Build
-    *   Tundra  
-        CrewMax $30,635 starting msrp 1 13/17 est. mpg 2 $41,730 as shown Explore Build
-    *   Tundra  
-        Double Cab $27,665 starting msrp 1 15/20 est. mpg 2 $30,940 as shown Explore Build
-    *   Tundra  
-        Regular Cab $25,455 starting msrp 1 16/20 est. mpg 2 Explore Build
+    *   Tacoma $17,625 starting msrp 1 21/25 est. mpg 2 $31,305 as shown Explore Build
+    *   Tundra $25,455 starting msrp 1 16/20 est. mpg 2 $30,940 as shown Explore Build
 3.  Crossovers &. SUVs
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
     *   Venza $27,850 starting msrp 1 20/26 est. mpg 2 Explore Build
@@ -40,7 +30,7 @@
         driving range 3 /  
         mpge 4 Explore
     *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
-    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
+    *   Prius $24,200 starting msrp 1 50/48 est. mpg 2 Explore Build
     *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
     *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpge 5 /  
         est. hybrid  
@@ -53,8 +43,6 @@
         Coming Fall 2013 View More Info
     *   2014 Highlander  
         Coming Early 2014 View More Info
-    *   2014 Corolla  
-        Coming Fall 2013 View More Info
     *   Concept Vehicles See Vehicles
 
 Please enable JavaScript to get the full experience.
