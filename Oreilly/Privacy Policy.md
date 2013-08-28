@@ -3,18 +3,15 @@ Your Account
 Shopping Cart
 
 *   Home
-*   Shop
-*   News &. Commentary
-    *   O'Reilly Animals.
+*   Shop Books &. Videos
+*   Blogs
     *   Programming
-    *   O'Reilly Radar
+    *   Radar
     *   Strata
-    *   Tools of Change for Publishing
-*   Answers
+    *   Animals
 *   Safari Books Online
 *   Conferences
-*   School of Technology
-*   Community
+*   IT Courses &. Certificates
 
 *   Contacts
 *   Tim O'Reilly
@@ -25,7 +22,6 @@ Shopping Cart
 *   Writing for O'Reilly
 *   RSS Feeds
 *   Terms of Service
-*   Twitter YouTube Slideshare Facebook RSS
 
 O'Reilly Media Privacy Policy Purpose and Scope
 
