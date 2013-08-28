@@ -1,4 +1,4 @@
-**Last Revised: August 12, 2013**
+**Last Revised: August 27, 2013**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -59,6 +59,8 @@ If you fail to renew your domain name in the timeframes indicated in this Agreem
 If your domain name is deleted, the Registry also provides a 30-day Redemption Grace Period during which you may pay Go Daddy a redemption fee and redeem your domain name. The redemption fee is currently $80.00 USD and is subject to change under the terms of this Agreement. If you do not redeem your domain name prior to the end of the Registry's Redemption Grace Period the Registry will release your name and it will become available for registration on a first-come-first-served basis.
 
 Renewal Grace Periods and Redemption Grace Periods vary for different ccTLDs. Please refer to the specific terms for the applicable TLD. In the event there is a conflict between the provisions of this paragraph and the ccTLD terms, the ccTLD terms shall control.
+
+Our registration expiration notification policy and associated fees are described here.
 
 **_(C) FREE PRODUCT terms_**
 
@@ -620,21 +622,25 @@ You represent and warrant that you meet the eligibility requirements of this ccT
 
 **53\. provisions specific to .SE registrations**
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. You further acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference. You further acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
 
-**54\. provisions specific to .TC registrations**
+**54\. provisions specific to .So registrations**
 
-You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference. 
 
-**55\. provisions specific to .TK registrations**
+**55\. provisions specific to .TC registrations**
+
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference.
+
+**56\. provisions specific to .TK registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. 
 
-**56\. provisions specific to .TV registrations**
+**57\. provisions specific to .TV registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further acknowledge and agree to be bound by any registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which are available here and are incorporated herein.
 
-**57\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
+**58\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the Taiwan Network Information Center ("TWNIC").
 
@@ -658,10 +664,10 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .TW Re
 
 _.TW Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .TW registrations. You shall register for any and all .TW registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-**58\. provisions specific to .UK registrations**
+**59\. provisions specific to .UK registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD including, but not limited to, the Terms and Conditions of Domain Name Registration and the Rules for registering a .UK domain name, both of which are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated and made a part of this Agreement herein.
 
-**59\. provisions specific to .VG registrations**
+**60\. provisions specific to .VG registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
