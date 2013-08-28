@@ -209,7 +209,7 @@ Does this answer your question? Please tell us how we can make this answer more 
 *   What is the shipping policy?
 *   How do I return an item purchased at a Bloomingdale's store?
 *   Terms of Use
-*   CA Privacy Rights
+*   Security Policy
 
 **Contact Us** for assistance with your shopping experience and other answers.
 
