@@ -36,7 +36,7 @@ We reserves the right to disclose information to third parties if we believe we 
 \* Protect the rights, property or safety of Pipl, its users and the public.
 
 **Developers Portal &. API**  
-Our Developers Portal and API are managed by Mashery, please refer to their privacy policy for more information.
+Our Developers Portal and API are powered by a third party, please note that when you use the portal or the API you agree to their policy as wells as to ours, please refer to their privacy page for more information.
 
 **Transfer of information**  
 Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
