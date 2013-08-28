@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
 *   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
 *   NSA-Überwachung: Datenschützer Thilo Weichert bemängelt Aufklärung
 *   Guido Westerwelle will weiter mit USA über Freihandelsabkommen diskutieren
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Datenschützer Weichert rät zur Nutzung deutscher E-Mail-Diensten
 *   Staatsanwaltschaft gegen Gerichtsentscheidung in Feuerwehr-Affäre
 *   Amtsgericht zu Feuerwehr-Affäre: Durchsuchung war rechtswidrig
-*   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
 
 schließen schließen
 
+*   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
 *   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
 *   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
 *   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
@@ -113,7 +114,6 @@ schließen schließen
 *   Grüne klagen wegen Datenabfrage durch Polizei
 *   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
 *   Edward Snowdens Vater und Anwalt reisen nach Moskau
-*   Datenschützer in Sachsen mit immer mehr Arbeit
 
 *   Kundencenter
 *   Preise und AGB
