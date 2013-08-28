@@ -196,6 +196,7 @@ Support
 *   Welcome to TWC
 *   TV Parental Controls
 *   Internet Safety
+*   Accessibility
 
 Contact Us
 
