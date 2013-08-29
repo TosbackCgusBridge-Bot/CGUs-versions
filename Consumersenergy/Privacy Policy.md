@@ -1,4 +1,4 @@
-Consumers Energy Privacy Statement REVISED OCTOBER 01, 2010  
+Consumers Energy Privacy Statement
 
 Privacy is a high priority at Consumers Energy. This statement has been designed to help you understand what information we gather from our online guests and what we do with it. Our Security Statement explains the steps we take to protect sensitive information.  
   
@@ -22,12 +22,12 @@ Consumers Energy, a subsidiary of CMS Energy, gathers general information from a
 
 When you come to our site, we gather statistical information such as your Internet Provider and pages visited within our site. This is used to help us continually improve our website and compile broad demographic information.  (See our statement regarding “cookies.”)
 
-In a few areas of our website we request specific information from our guests. Basically, we only ask for information we need, when we need it. In most cases you can decline to provide the information. In these cases, if you decide not to provide the information, or provide incorrect information, you will not be able to take full advantage of the services offered. Sensitive information is handled in a secure manner (See Security Statement for more details).  
+In a few areas of our website we request specific information from our guests. Basically, we only ask for information we need, when we need it. In most cases you can decline to provide the information. In these cases, if you decide not to provide the information, or provide incorrect information, you will not be able to take full advantage of the services offered. Sensitive information is handled in a secure manner (See Security Statement for more details).
 
 Back to top  
   
 
-How do I change, delete or opt-out of a service?   
+How do I change, delete or opt-out of a service? 
 
 To change or delete information previously provided, or opt-out of a service you previously enrolled in, do one of the following:
 
@@ -101,3 +101,5 @@ If you have any questions about this Privacy Statement, the practices of this si
 Back to top
 
 Check back to the Consumers Energy homepage often to see what other services we have to offer. For help using this system, please contact us by e-mail or call Customer Service toll-free at (800) 477-5050.
+
+REVISED OCTOBER 01, 2010
