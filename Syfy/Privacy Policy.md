@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Next Episode - Gettin' Goosed Face Off - Next Episode - Gettin' Goosed
+Syfy Video Face Off - Next Episode - Subterranean Terror Face Off - Next Episode - Subterranean Terror
 
-Catch the next episode of Face Off, Tuesdays at 9/8c.
+Catch the next episode of Face Off, Tuesdays at 9/8c
 
-Face Off - Sneak Peek - Gettin' Goosed Face Off - Sneak Peek - Gettin' Goosed
+Winner Tells All: Episode 3 - Anthony Winner Tells All: Episode 3 - Anthony
 
-After a mini-challenge inspired by the demon in Insidious, the contestants must create a modern twist to a Mother Goose character. Plus: A double elimination!
+Season 4 winner J. Anthony Kosar critiques S5, Episode 3 &. answers your questions!
 
-The McKenzie Westmore Supercut The McKenzie Westmore Supercut
+Face Off - Sneak Peek - Subterranean Terror Face Off - Sneak Peek - Subterranean Terror
 
-Lets take a look back at what McKenzie Westmore does best.
+Catch a sneak peek of the next episode of Face Off!
 
-Heroes of Cosplay - Sneak Peek - MegaCon Heroes of Cosplay - Sneak Peek - MegaCon
+Queen of Cosplay - Yaya Han Queen of Cosplay - Yaya Han
 
-Catch a sneak peek of the next episode of Heroes of Cosplay!
+Yaya is both Queen and Ambassador of Cosplay. Watch Heroes of Cosplay Tuesdays at 10/9c
 
 *   FAQ
 *   Feedback
