@@ -20,12 +20,11 @@ Enter Keyword or Item # Search
 
 *   Women
     
-    *   Swimsuits
+    *   Outerwear
         *   Regular
         *   Plus
         *   Petite
         *   Tall
-        *   Petite Plus
     *   Knit Tops, Polos &. Turtlenecks
         *   Regular
         *   Plus
@@ -71,11 +70,12 @@ Enter Keyword or Item # Search
         *   Petite
         *   Tall
         *   Petite Plus
-    *   Outerwear
+    *   Swimsuits
         *   Regular
         *   Plus
         *   Petite
         *   Tall
+        *   Petite Plus
     *   Hats, Gloves &. Scarves
     *   Sleepwear
         *   Regular
