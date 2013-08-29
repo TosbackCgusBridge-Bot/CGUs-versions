@@ -122,14 +122,14 @@ About O'Reilly
 Community
 
 *   Authors
+*   Webcasts
 *   Community &. Featured Users
 *   Forums
-*   Membership
 *   Newsletters
 *   O'Reilly Answers
 *   RSS Feeds
 *   User Groups
-*   O'Reilly Chimera (beta)
+*   O'Reilly Atlas (beta)
 
 Partner Sites
 
