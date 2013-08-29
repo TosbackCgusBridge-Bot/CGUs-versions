@@ -21,12 +21,12 @@ Skip to Main Content Toggle search
     *   Contact Us
     *   Shop NPR
     *   Visit NPR
+    *   Volunteer
     *   Events
     *   Sign Up: Newsletters
     *   Book a Speaker
     *   Request Permissions
 *   Support
-    *   Support Us
     *   Foundation Grants
     *   Major Gifts
     *   NPR Foundation
