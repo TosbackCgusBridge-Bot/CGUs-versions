@@ -34,7 +34,6 @@ By submitting Your Content, you grant us the non-exclusive right to use your con
 
 *   Respect other people's privacy by not including personal information in Your Content (such as phone numbers and email addresses) or private dialogue.
 *   Be sensitive in 'Your Content' regarding the death or injury of private individual, especially children.
-*   Any words or your full message in bold, underlined, italics or all CAPS will not be allowed (this makes it difficult to read and in online speak is considered yelling unless it is an acronym in which case using CAPS is permitted).
 *   Make it personal, not commercial by leaving out press releases and commercial promotions.
 
 **If you violate any of these guidelines, Your Content will not be accepted and your account may be suspended or blocked. CBC/Radio-Canada reserves the right to not open a forum on any given story or to close a forum at any time without notice and to reject the publication of any of Your Content. CBC/Radio-Canada reserves the right to change these Content Submission Guidelines at any time without notice.**
