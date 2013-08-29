@@ -3,14 +3,14 @@ Like Share Print IRS Privacy Policy
 Para ver esta página en español haga clic aquí.
 
 **IRS Privacy Policy  
-****Your Privacy Right** **s  
+Your Privacy Rights  
 IRS Office of Privacy  
 Access to Privacy Impact Assessments  
 Statistical Information  
 Security  
 If You Send Us Information Online  
-Customer Surveys  
-****Cookies  
+Customer Satisfaction Surveys  
+Cookies  
 Links to Other Sites**
 
 IRS Privacy Policy
@@ -39,4 +39,4 @@ _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the TIGTA website.
 
-Page Last Reviewed or Updated: 2013-04-30
+Page Last Reviewed or Updated: 2013-08-28
