@@ -41,7 +41,7 @@ U.S. Return Policy Política de devoluciones en EE. UU. View More Service Contra
 
 Service Contracts
 
-TWG Innovative Solutions, Inc. In-Home Service After Remote Diagnosis (AVAILABILITY VARIES. CONSULT YOUR INVOICE TO DETERMINE IF YOU PURCHASED THIS AGREEMENT) Service Contracts for Consumer Customers Solution Station Phone Support Service View More Warranties
+In-Home Printer Service After Remote Diagnosis Dell In-Home Service After Remote Diagnosis (Availability varies. Consult your invoice to determine if you purchased this agreement.) Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After Remote Diagnosis, Parts Only and Advance Exchange) View More Warranties
 
 Warranties
 
