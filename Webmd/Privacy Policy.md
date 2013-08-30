@@ -72,6 +72,10 @@ Symptoms| Doctors| Health Insurance
     
     Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
     
+    Learn More WebMD Interaction Checker
+    
+    Check your Rx, OTC and herbal medications for interactions. Be sure your drug regimen is safe.
+    
     Learn More
     
     Drug News
