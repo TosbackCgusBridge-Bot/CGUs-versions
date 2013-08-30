@@ -14,7 +14,7 @@
     *   Sienna $26,585 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
     *   Tacoma $17,625 starting msrp 1 21/25 est. mpg 2 $31,305 as shown Explore Build
-    *   Tundra $25,455 starting msrp 1 16/20 est. mpg 2 $30,940 as shown Explore Build
+    *   Tundra $25,920 starting msrp 1 16/20 est. mpg 2 $38,845 as shown Explore Build
 3.  Crossovers &. SUVs
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
     *   Venza $27,850 starting msrp 1 20/26 est. mpg 2 Explore Build
@@ -38,8 +38,6 @@
     *   Prius _v_ $26,650 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
     *   2014 4Runner  
-        Coming Fall 2013 View More Info
-    *   2014 Tundra  
         Coming Fall 2013 View More Info
     *   2014 Highlander  
         Coming Early 2014 View More Info
@@ -105,7 +103,9 @@ Learn more
 *   We also use personal information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
 *   We share personal information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Sites.
 *   We also share personal information with companies affiliated with Toyota and our authorized dealers, dealer advertising associations and distributors for their own use.
+*   If you choose to participate in a Program, your Personal Information may also be shared with our Program partners and may be used by our Program partners if you indicate your interest in receiving communications directly from that company.
 *   We, Web publishers and other Web sites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other Web sites.
+*   We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. We do not share Personal Information with these providers (unless, of course, you give us permission).
 
 Learn more  
 
