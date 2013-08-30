@@ -91,17 +91,22 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
+*   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
+*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
+*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
+*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
 *   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
 *   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
+
+schließen schließen
+
 *   NSA-Überwachung: Datenschützer Thilo Weichert bemängelt Aufklärung
 *   Guido Westerwelle will weiter mit USA über Freihandelsabkommen diskutieren
 *   NSA-Affäre: Datenschützer rät zur Nutzung deutscher Email-Dienstleister
 *   Datenschützer Weichert rät zur Nutzung deutscher E-Mail-Diensten
 *   Staatsanwaltschaft gegen Gerichtsentscheidung in Feuerwehr-Affäre
-
-schließen schließen
-
 *   Amtsgericht zu Feuerwehr-Affäre: Durchsuchung war rechtswidrig
 *   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
 *   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
@@ -109,11 +114,6 @@ schließen schließen
 *   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 *   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
 *   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
-*   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
-*   Minister Breitner: Kritik an Funkzellenabfragen unberechtigt
-*   Datenschutzbeauftragter warnt Unternehmen vor Spionage-Attacken
-*   Grüne klagen wegen Datenabfrage durch Polizei
-*   Rechtsexperte rät zu kürzerer Speicherung von Vorratsdaten
 
 *   Kundencenter
 *   Preise und AGB
