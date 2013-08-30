@@ -259,13 +259,13 @@ Winner Tells All: Episode 3 - Anthony Winner Tells All: Episode 3 - Anthony
 
 Season 4 winner J. Anthony Kosar critiques S5, Episode 3 &. answers your questions!
 
+Gettin' Goosed Morphs Gettin' Goosed Morphs
+
+Check out the morphs from episode 3, "Gettin' Goosed".
+
 Face Off - Sneak Peek - Subterranean Terror Face Off - Sneak Peek - Subterranean Terror
 
 Catch a sneak peek of the next episode of Face Off!
-
-Queen of Cosplay - Yaya Han Queen of Cosplay - Yaya Han
-
-Yaya is both Queen and Ambassador of Cosplay. Watch Heroes of Cosplay Tuesdays at 10/9c
 
 *   FAQ
 *   Feedback
