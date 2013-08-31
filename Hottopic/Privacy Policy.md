@@ -80,8 +80,9 @@ Internet Department
 Opt-Outs  
 18305 East San Jose Avenue  
 City of Industry, CA 91748  
-(626) 709-1194 Fax**  
-internetadministrator@hottopic.com
+(626) 709-1194 Fax  
+Click here to opt-out of emails.  
+**internetadministrator@hottopic.com
 
 We may contact you for service-related purposes (such as, but not limited to, notice that we have changed the Sites or the Privacy Policy) when we believe it necessary or advisable to do so. You may not opt out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate your account. You understand that any such termination of your account may involve deletion of your Personal Information from our live databases.  Hot Topic will not have any liability to you for any termination of your account or related deletion of your information.
 
