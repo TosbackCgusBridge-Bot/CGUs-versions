@@ -7,7 +7,6 @@ Skip Navigation
     *   Sencha Ext JS
     *   Sencha GXT
     *   Sencha Architect
-    *   Sencha Desktop Packager
     *   Sencha Animator
     *   Sencha Space
 *   Support
@@ -33,7 +32,6 @@ Skip Navigation
     *   Sencha Touch Bundle
     *   Sencha Architect
     *   Sencha Ext JS
-    *   Sencha Desktop Packager
     *   Sencha Touch Support
     *   Sencha GXT
     *   Sencha Animator
@@ -52,7 +50,6 @@ Skip Navigation
 *   Documentation
     *   Ext JS 4
     *   Ext JS 3
-    *   Desktop Packager
     *   Sencha GXT 3
     *   Sencha Touch 2
     *   Sencha Touch 1
@@ -174,7 +171,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Ext JS
     *   Sencha GXT
     *   Sencha Architect
-    *   Sencha Desktop Packager
     *   Sencha Animator
     *   Sencha Space
 
