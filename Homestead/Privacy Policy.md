@@ -1,10 +1,20 @@
 Navigation:
 
 *   Create a Website
-*   Features
-*   Customer Sites
-*   Design Templates
+    *   How it Works
+    *   Features
+    *   Customer Sites
+    *   Design Templates
+    *   Get a Domain
 *   Sell Online
+*   Get Traffic
+    *   Overview
+    *   SEO Services
+    *   Paid Search Ads
+    *   WebListings
+    *   Traffic Booster
+*   Design it for You
+*   Plans &. Pricing
 
 Log In Webmail
 
@@ -91,18 +101,17 @@ This file was last modified September 17, 2012
     *   Features
     *   Customer Sites
     *   Design Gallery
-*   Create an Online Store
+    *   Get a Domain
+*   Sell Online
     *   How it Works
-    *   Basic Store
-    *   Advanced Ecommerce
-    *   Features
+*   Get Traffic
+    *   SEO Services
+    *   Paid Search Ads
+    *   WebListings
+    *   Traffic Booster
 *   Let us Design Your Site
     *   How it Works
-    *   Features
     *   Sample Sites
-*   Get Traffic
-    *   WebListings
-    *   Features
 *   About Us
     *   Why Homestead
     *   Directory
