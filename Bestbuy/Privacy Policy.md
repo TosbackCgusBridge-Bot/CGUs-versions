@@ -5,39 +5,47 @@ We take your privacy seriously, and we want you to know how we collect, use, sha
 **This Privacy Policy tells you:**
 
 *   What information we collect
+  
 *   How we use that information
+  
 *   How we may share that information
+  
 *   How we protect your information
+  
 *   Your choices regarding your personal information
 
-This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
+This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
 
 Information We Collect
 
 **Information You Give Us**  
-We receive and may store any information you enter on our websites, give to us in our stores or provide through our mobile applications. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
+We receive and may store any information you enter on our websites or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a Wish List, write a review, or use any of our services.
 
 The information we collect from you includes things like:
 
 *   Your name
+  
 *   Your mailing address
+  
 *   Your e-mail address
+  
 *   Your phone number
+  
 *   Your credit card number and other payment information
+  
 *   Your driver's license number
+  
 *   Credit application information, such as your Social Security number
+  
 *   Demographic and lifestyle information, such as age, personal interests and product preferences
-*   Location information
 
 It may also include information you give us about other people, such as the name and address of a gift recipient, or the name and contact info of a Friends &. Family Pickup person.
 
 **Information from Other Sources**  
 We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
 
-**Automatic Information Collection**  
-We collect information related to your interactions on our websites, such as your IP address, your browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. The information we collect and the technologies we use are designed to create a superior, personalized shopping experience.
-
-Cookies and related technology also allow us to identify you as a particular Best Buy retail store customer when you visit our websites, and to link your activities on our websites to your interactions with us in our stores. In combination with other information we collect, this information is also used to create a superior, personalized shopping experience.
+**Automated Information Collection**  
+We collect information related to your interactions with our websites and apps to create a superior, personalized shopping experience, whether you are online or in our stores. This information includes your IP address, browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. These technologies may also allow us to identify you as a particular Best Buy retail store customer when you visit our websites, and to link your activities on our websites to your interactions with us in our stores.
 
 To help us understand and enhance our interactions with you, we may permit web analytics and other providers to collect and process information on our websites using the technologies described above. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
 
@@ -120,6 +128,7 @@ To do any of these, let us know by one of these methods:
     7601 Penn Avenue South  
     Richfield, MN 55423-3645
 
+  
 Interest-Based Advertising
 
 We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.    
@@ -135,21 +144,27 @@ Links to Other Websites
 
 Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.
 
+Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button \[and Widgets, such as the Share this button or interactive mini-programs that run on our site\]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 Privacy Policy Updates
 
-We may need to update our Privacy Policy as Best Buy and our customers grow and evolve. If we make significant changes to the Privacy Policy, we'll post a prominent message on our website(s).
+We may need to update our Privacy Policy as Best Buy and our customers grow and evolve. If we make material changes, including any change in ownership or uses of your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
 
 U.S.-EU **Safe Harbor Framework**
 
-Best Buy complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the EU Safe Harbor Framework can be found at: http://export.gov/safeharbor.
+Best Buy Co., Inc. complies with the U.S.- E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. Best Buy Co., Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Best Buy Co., Inc.'s certification, please visit: http://export.gov/safeharbor.
 
-Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe privacy program applies only to information that is collected through this website.
+If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above.
 
-As part of our participation in the Safe Harbor Framework, Best Buy uses TRUSTe to resolve disputes relating to our compliance with the Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact Best Buy as provided below. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by clicking here. TRUSTe will then serve as a liaison with us to resolve your concerns.
+Best Buy Co., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com and does not cover information that may be collected behind the log in on our website.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at PrivacyManager@bestbuy.com. If you are not satisfied with our response you can contact TRUSTe here.
 
 Have Questions?
 
-If you have any questions about our Privacy Policy, we'll do our best to answer them. Here's how to contact us:
+If you have any questions about our Privacy Policy or practices, we'll do our best to answer them. Here's how to contact us:
 
 **Phone:**  
 1-888-BEST BUY (1-888-237-8289)
@@ -163,4 +178,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated: 6/19/2013
+Last Updated: 7/01/2013
