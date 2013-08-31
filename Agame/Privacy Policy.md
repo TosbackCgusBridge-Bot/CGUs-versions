@@ -175,4 +175,4 @@ Did you know that: you can rate every game you play, you can share your favorite
 
 Terms of Use | Privacy Policy | Privacy Policy, Kids &. Parents
 
-About Us | Advertise with Us | Submit a Game | Get Free Games | Help &. Contact
+About Us | Advertise with Us | Submit a Game | Get Free Games | Help &. Contact | Cookies
