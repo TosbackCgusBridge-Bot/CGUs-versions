@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Rostock: Freiwillige Feuerwehr wieder im Dienst
+*   Windows 8 den Datenhunger abgewöhnen
 *   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
 *   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
-*   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
-*   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
 
 schließen schließen
 
+*   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
+*   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
 *   NSA-Überwachung: Datenschützer Thilo Weichert bemängelt Aufklärung
 *   Guido Westerwelle will weiter mit USA über Freihandelsabkommen diskutieren
 *   NSA-Affäre: Datenschützer rät zur Nutzung deutscher Email-Dienstleister
@@ -112,8 +114,6 @@ schließen schließen
 *   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
 *   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
 *   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
-*   "Spiegel": Deutsche Apothekenrechenzentren verkaufen Patientendaten
-*   «Spiegel»: Deutsche Apothekenrechenzentren verkaufen Patientendaten
 
 *   Kundencenter
 *   Preise und AGB
