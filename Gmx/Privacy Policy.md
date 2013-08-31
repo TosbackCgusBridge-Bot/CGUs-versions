@@ -60,7 +60,7 @@ Sie können das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie
 
 Zielgruppenbezogene Werbung
 
-Zur Steuerung zielgruppenbezogener Werbung werden durch die 1&1 Mail &. Media GmbH Informationen über Ihre Aktivitäten auf unserer Webseite (z.B. geklickte Werbebanner, besuchte Unterseiten etc.) unter einem Pseudonym erfasst und gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet, um Ihnen im Rahmen unserer Angebote interessengerechte Werbung auszuliefern. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet. Das anerkannte Datenschutzgütesiegel vom Unabhängigen Landeszentrum für Datenschutz (ULD) bestätigt die datenschutzrechtliche Zulässigkeit unseres für Werbeeinblendungen verwendeten Systems TGP_open_.
+Zur Steuerung zielgruppenbezogener Werbung werden durch die 1&1 Mail &. Media GmbH Informationen über Ihre Aktivitäten auf unserer Webseite (z.B. geklickte Werbebanner, besuchte Unterseiten etc.) unter einem Pseudonym erfasst und gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet, um Ihnen im Rahmen unserer Angebote interessengerechte Werbung auszuliefern. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet.
 
 Eine persönliche Identifikation ist aufgrund dieser Maßnahmen nicht möglich.
 
