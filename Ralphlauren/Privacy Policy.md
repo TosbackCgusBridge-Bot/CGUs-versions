@@ -266,13 +266,13 @@ If you are located in the EEA or Switzerland, please
   
 Write to:  
   
-Ralph Lauren Europe SARL  
-Attention: European Head of the Legal Division  
+Ralph Lauren Europe Sàrl  
+Attention: General Counsel EMEA  
 24, Route de la Galaise  
 1228 Plan-Les-Ouates  
 Switzerland  
   
-Email: eu.privacy@poloralphlauren.com  
+Email: eu.privacy@ralphlauren.com  
 Back to Top     Safe Harbor Privacy Policy    Last modified: August 17, 2013 We at Ralph Lauren Corporation ("Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.  
   
 For purposes of this Policy:  
@@ -353,8 +353,8 @@ New York, New York 10022
   
 or  
   
-Ralph Lauren Europe SARL  
-Attention: European Head of the Legal Division  
+Ralph Lauren Europe Sàrl  
+Attention: General Counsel EMEA  
 24, Route de la Galaise,  
 1228 Plan-Les-Ouates  
 Switzerland  
