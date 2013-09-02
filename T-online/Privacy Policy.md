@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 *   Rostock: Freiwillige Feuerwehr wieder im Dienst
 *   Windows 8 den Datenhunger abgewöhnen
 *   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
-*   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
 
 schließen schließen
 
+*   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
 *   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
 *   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
 *   NSA-Überwachung: Datenschützer Thilo Weichert bemängelt Aufklärung
@@ -113,7 +114,6 @@ schließen schließen
 *   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
 *   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
 *   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
-*   Apotheken verkaufen Patientendaten an Marktforschungsunternehmen
 
 *   Kundencenter
 *   Preise und AGB
