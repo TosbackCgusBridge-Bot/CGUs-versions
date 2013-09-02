@@ -116,6 +116,10 @@ Searching your email address book is the easiest way to find your friends on Blu
 *   Contact
 *   Support
 
+*    Sign up
+*    Sign up
+*    Sign up
+
 Questions
 
 *   Ask
