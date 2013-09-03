@@ -123,14 +123,14 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Conditions générales d'utilisation
 *   Conditions générales
 *   Condition d'utilisation
-*   Conditions générales de vente » Forum - Webmaster
-*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Modèle de conditions générales de vente » Forum - Webmaster
+*   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Mentions légales et CGV en ANGLAIS » Forum - Webmaster
-*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Oscaro.com » Sites
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
 
 Communautés d'assistance et de conseils.
 
 *   Forum Webmastering
-*   Forum SFR
+*   Forum Internet
 *   Forum Vos droits sur internet
