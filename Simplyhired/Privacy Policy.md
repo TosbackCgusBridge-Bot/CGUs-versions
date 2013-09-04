@@ -76,37 +76,4 @@ This Privacy Policy was last updated: April 21, 2010
 
 This Privacy Policy is effective as of: June 22, 2006
 
-Local Jobs Job Salaries Job Trends Get Hired Blog Post a Job Employer Solutions Publisher Solutions Job Search Browse Jobs About Simply Hired Help © 2013 Simply Hired, Inc. Privacy Terms **Africa:**
-
-*   South Africa Jobs
-
-**Europe:**
-
-*   Austria Jobs
-*   Belgium Jobs
-*   France Jobs
-*   Germany Jobs
-*   Ireland Jobs
-*   Italy Jobs
-*   Netherlands Jobs
-*   Portugal Jobs
-*   Russia Jobs
-*   Spain Jobs
-*   Sweden Jobs
-*   Switzerland Jobs
-*   UK Jobs
-
-**Americas:**
-
-*   Argentina Jobs
-*   Brazil Jobs
-*   Canada Jobs
-*   Mexico Jobs
-
-**Asia/Pacific:**
-
-*   Australia Jobs
-*   China Jobs
-*   India Jobs
-*   Japan Jobs
-*   Korea Jobs
+Local Jobs Job Salaries Job Trends Get Hired Blog Post a Job Employer Solutions Publisher Solutions Job Search Browse Jobs About Simply Hired Help © 2013 Simply Hired, Inc. Privacy Terms
