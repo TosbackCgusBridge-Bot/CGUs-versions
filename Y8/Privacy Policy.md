@@ -1,13 +1,6 @@
-Play Free Games at Y8.com. Play an online game now! Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games. All free to play and download. games anims Logged in as:  
-  
-My games ()  
-My Profile  
-Log out  
-Not logged in.  
-**Anon. User**  
-My games  
-Log in  
-Register  
+Play Free Games at Y8.com. Play an online game now!
+
+Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games.
 
 *     English
 
@@ -34,7 +27,24 @@ Register
 *     Indonesia
 *     العربية
 
-Best of all games New Games Best of new games Most Popular Games Games for girls Categories
+*   My games ()
+*   My Profile
+*   Log out
+
+*   Not logged in.
+*   My games
+*   Log in
+*   Register
+
+*   games
+*   anims
+
+*   Best of all games
+*   New Games
+*   Best of new games
+*   Most Popular Games
+*   Games for girls
+*   Categories
 
 PRIVACY POLICY
 
@@ -105,8 +115,11 @@ Parents, if you would like to review your child's personal information, ask to h
 We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
 If you have any questions, you can contact us through our contact form.
 
-If you have questions or other inquiries, please use our email form  
-Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com Y8.com project : free videos, animation, music, photo and games storage started year 2006.
+If you have questions or other inquiries, please use our email form
+
+Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
+
+Y8.com project : free videos, animation, music, photo and games storage started year 2006.
 
 *   English
 *   Руcский
