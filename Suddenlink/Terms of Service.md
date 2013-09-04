@@ -15,7 +15,7 @@
 *   Español
 *   TV Lineup
 *   Suddenlink FYI
-*   Check Availability
+*   Find Offers
 *   Suddenlink2GO
 *   Contact Us
 *   My Account
