@@ -61,7 +61,7 @@ If you wish to request the deletion of an unauthorized profile you may contact u
   
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
   
-**Tell-A-Friend**  
+**Tell a friend**  
   
 If you choose to use our referral service to tell a friend about our Service, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. New IT Solutions Ltd. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  
   
