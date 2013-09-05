@@ -18,7 +18,7 @@ We may choose to review public content for compliance with our community guideli
 
 Sending Your Stuff
 
-The Services provide features that allow you to send your stuff to others or to make it public. There are many things that users may do with that stuff (for example, copy it, modify it, re-send it). Please consider carefully what you choose to share or make public. Bitcasa has no responsibility for that activity.
+The Services provide features that allow you to send your stuff to others via a link. When you elect to send stuff via a link, please be aware that the stuff you sent is now available in the public domain so others can access it. There are many things that other users may do with that stuff (for example: view it, download it, copy it, re-send it). Please consider carefully what you choose to send publicly. Bitcasa has no responsibility for that activity.
 
 Your Responsibilities
 
