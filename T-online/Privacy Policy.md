@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook-Datenschutz-Bestimmungen wollen Erlaubnis für personalisierte Werbung
+*   Polizei weist Generalverdacht des Datenmissbrauchs zurück
+*   Erneut ungesichertes Aktendepot entdeckt
 *   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 *   Rostock: Freiwillige Feuerwehr wieder im Dienst
 *   Windows 8 den Datenhunger abgewöhnen
 *   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
 *   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
-*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
-*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
-*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 
 schließen schließen
 
+*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
+*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
+*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
 *   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
 *   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
@@ -111,9 +114,6 @@ schließen schließen
 *   Datenschützer Weichert rät zur Nutzung deutscher E-Mail-Diensten
 *   Staatsanwaltschaft gegen Gerichtsentscheidung in Feuerwehr-Affäre
 *   Amtsgericht zu Feuerwehr-Affäre: Durchsuchung war rechtswidrig
-*   Breitner will Polizei für Internet-Kriminalität besser ausrüsten
-*   Rostocker Stadtwehrführer: Lösung bis Ende der Woche
-*   Feuerwehr-Spähsoftware: Datenschutzbeauftragter fordert Aufklärung
 
 *   Kundencenter
 *   Preise und AGB
