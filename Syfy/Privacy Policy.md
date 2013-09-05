@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Next Episode - Subterranean Terror Face Off - Next Episode - Subterranean Terror
+Syfy Video Face Off - Next Episode - Mother Earth Goodne ... Face Off - Next Episode - Mother Earth Goodness
 
 Catch the next episode of Face Off, Tuesdays at 9/8c
 
-Face Off - Sneak Peek - Subterranean Terror Face Off - Sneak Peek - Subterranean Terror
+Subterranean Terror Morphs Subterranean Terror Morphs
 
-Catch a sneak peek of the next episode of Face Off!
+See all the creations from the Subterranean Terror challenge!
 
-Winner Tells All: Episode 3 - Anthony Winner Tells All: Episode 3 - Anthony
+Winner Tells All: Episode 4 - Rayce Winner Tells All: Episode 4 - Rayce
 
-Season 4 winner J. Anthony Kosar critiques S5, Episode 3 &. answers your questions!
+Season 2 winner Rayce Bird critiques S5, Episode 4 &. answers your questions!
 
-Gettin' Goosed Morphs Gettin' Goosed Morphs
+Heroes of Cosplay - Next Episode - Planet Com ... Heroes of Cosplay - Next Episode - Planet Comic Con
 
-Check out the morphs from episode 3, "Gettin' Goosed".
+Catch the next episode of Heroes of Cosplay as they travel to Planet Comic Con
 
 *   FAQ
 *   Feedback
