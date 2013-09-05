@@ -128,10 +128,10 @@ In order to protect your privacy and United’s proprietary databases and system
 
 How can you contact us?
 
-If you have comments or questions about this Privacy Policy, please email us at customervoice9@united.com. Please reference this Privacy Policy in those communications.
+If you have comments or questions about this Privacy Policy, submit your inquiry to United Customer Service. Please reference this Privacy Policy in those communications.
 
 Legal effect and changes to the policy
 
-As indicated, this Privacy Policy is not a contract nor does it otherwise create any legal rights or obligations. Rather, this Privacy Policy merely reflects guidelines setting forth United’s intended business practices. However, by using this website, and/or by providing personal information to United online or off-line, you consent to the collection and use of such information by United, its affiliates, partners, contractors and permitted agents as herein described and consistent with applicable laws. Also, United, in its discretion, may amend, interpret, modify, or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use constitutes your consent to those changes. A version of this Privacy Policy has been effective since October 15, 2002 and was last updated in November 2011.
+As indicated, this Privacy Policy is not a contract nor does it otherwise create any legal rights or obligations. Rather, this Privacy Policy merely reflects guidelines setting forth United’s intended business practices. However, by using this website, and/or by providing personal information to United online or off-line, you consent to the collection and use of such information by United, its affiliates, partners, contractors and permitted agents as herein described and consistent with applicable laws. Also, United, in its discretion, may amend, interpret, modify, or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use constitutes your consent to those changes. A version of this Privacy Policy has been effective since October 15, 2002, and was last updated on September 4, 2013.
 
 Thank you for taking the time to read this Privacy Policy.
