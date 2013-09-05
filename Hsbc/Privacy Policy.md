@@ -41,6 +41,8 @@ Explore HSBC.com
         *   Golf
         *   Rugby
         *   Wimbledon Championships
+    *   Procurement
+        
 *   Citizenship in Citizenship
     
     We recognise that we have responsibilities not only towards our customers, employees and shareholders but also to the countries and communities in which we operate.
@@ -148,6 +150,7 @@ About HSBC
 *   Structure and network
 *   Advertising
 *   Sponsorship
+*   Procurement
 
 Citizenship
 
