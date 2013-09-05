@@ -1,82 +1,46 @@
-ft.com/help FT HelpQuotesAll contentSearch Sign in Site tour Register Subscribe Welcome Your account Site tour Sign out Email address Password Forgot password?
+*   Skip to main content, accesskey 's'
+*   Homepage, accesskey '1'
 
-Remember me on this computer Sign in
+Financial Times FT.com Subscribe to FT.com or view and edit your subscription details. Search FT.com  
+All times are London time Search News in the FT.com site Search Search Quotes in the FT.com site Quotes
 
-*   Help 
-    
-*   Account Queries 
-    *   Signing in
-    *   Changing your details
-    *   Changing a subscription
-    *   Payment queries
-*   Registering &. Subscribing 
-    *   Personal subscriptions
-    *   Registering for free
-*   Mobile 
-    *   Android app
-    *   Web app
-    *   How to Spend It app
-    *   Mobile website
-*   Tools &. Services 
-    *   Lexicon
-    *   ePaper
-    *   Search
-    *   Clippings
-    *   Alerts hub
-    *   Commenting
-    *   RSS
-    *   Press Cuttings
-    *   Social media Q&A
-    *   Back to FT.com
-    
-*   Newspaper 
-    *   About the newspaper
-    *   Subscription queries
-*   Markets Data 
-    *   Markets Data overview
-    *   Portfolio
-    *   Equity screener
-    *   Economic calendar
-    *   Interactive charting
-    *   Funds &. ETFs
-*   Product Blog 
-    
+FT Privacy Policy
 
-Print Email Share Financial Times privacy policy
+Breadcrumb trail navigation:
+
+*   FT Home
+*    > Help
+*    > FT Privacy Policy
+
+Resources FT ePaper FT newspaper View regional print editions in full with a searchable archive. Available to premium subscribers only Track the news FT RSS feeds
+
+Have FT.com headlines delivered live to your RSS reader
+
+FT Twitter Feeds
+
+Related content and features Services and tools
+
+*   HELP
+*   LEGAL
+*   CONTACT US
+*   SITE MAP
+
+FT.com T&Cs | FTN T&Cs | Privacy | Copyright | Security | Third Party  
+| Cookie Policy | How to Manage Cookies
+
+FINANCIAL TIMES PRIVACY POLICY
 
 Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@ft.com.
 
 Our sites contain links to third party sites which are not subject to this privacy policy. We recommend that you read the privacy policy of any such sites that you visit.
 
-**Information Collected**
+Information Collected
 
 Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy.
 
-> Company:The Financial Times Ltd
-> 
-> Registered Office:Number One Southwark Bridge, London SE1 9HL
-> 
-> Registered Number:227590
-> 
-> Data Protection Registration Number:Z7087146
-> 
-> Company:FT Personal Finance Ltd
-> 
-> Registered Office:Number One Southwark Bridge, London SE1 9HL
-> 
-> Registered Number:3855520
-> 
-> Data Protection Registration Number:Z7670392
-> 
-> Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
-> 
-> Registered Office:Number One Southwark Bridge, London SE1 9HL
-> 
-> Registered Number:139844
-> 
-> Data Protection Registration Number:ZVK463
+Company:The Financial Times Ltd Registered Office:Number One Southwark Bridge, London SE1 9HL Registered Number:227590 Data Protection Registration Number:Z7087146 Company:FT Personal Finance Ltd Registered Office:Number One Southwark Bridge, London SE1 9HL Registered Number:3855520 Data Protection Registration Number:Z7670392 Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe Registered Office:Number One Southwark Bridge, London SE1 9HL Registered Number:1398449 Data Protection Registration Number:ZVK463
 
-We collect personally identifiable information about you (your “Data”) through:
+We collect personally identifiable information about you (your "Data") through:
 
 *   the use of enquiry and registration forms
 *   your purchase of any our products or services
@@ -99,7 +63,8 @@ The elements of your Data that we collect may include:
 
 We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our Cookies Policy for more details.
 
-**Use and Disclosure of Personal Information**  
+Back to the top Use and Disclosure of Personal Information
+
 We use your Data for purposes which may include:
 
 *   providing our users with a personalised service
@@ -128,35 +93,35 @@ We also use information in aggregate form (so that no individual user is identif
 
 We use technology on the registration, subscription and manage my account pages of some of our websites, which may record user movements, including page scrolling, mouse clicks and text entered. It will not record financial information such as credit or debit card details. The data we collect in this way helps us to identify usability issues, to improve the assistance and technical support we can provide to users and is also used for aggregated and statistical reporting purposes.
 
-**Use of Cookies and Other Tracking Devices**
+Back to the top Use of Cookies and Other Tracking Devices
 
 Please refer to our Cookies Policy.
 
-**Security Policy**
+Back to the top Security Policy
 
 Financial Times businesses have appropriate measures in place to ensure that our users’ Data is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. User Data may be transferred outside the FT group to data processors such as fulfilment houses but they will act only on our instructions to provide the services required.
 
-**Transfer of Data**
+Back to the top Transfer of Data
 
 The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the FT sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your Data to third party organisations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to any transfer of your Data to organisations based outside the European Economic Area.
 
-**User Access and Control of Data**
+Back to the top User Access and Control of Data
 
 If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact help@ft.com visit the “Contact Us” section of our website (excluding Investors Chronicle, FDI Intelligence, FT Adviser, Exec-Appointments, MBA-Direct.com, Non-execs.com, Ignites Europe and Mandatewire.com websites).
 
-Investors Chronicle
+_Investors Chronicle_
 
 If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact ic.cs@ft.com, visit manage account or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
 
-FDI Intelligence
+_FDI Intelligence_
 
 If you are a user of FDI products and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact fdiintelligence@ft.com, visit manage my account or ph +44 (0)20 7775 6896.
 
-FT Adviser
+_FT Adviser_
 
 If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact ftadviser.enquiries@ft.com, phone 0845 456 1516 or visit manage my account
 
-Exec-Appointments, MBA-Direct.com and Non-execs.com
+_Exec-Appointments, MBA-Direct.com and Non-execs.com_
 
 If you wish to amend any of the Data that we hold about you or update your marketing preferences, please sign into your account below and go to your personal profile or phone +44 (0) 207 873 4909.
 
@@ -166,17 +131,17 @@ mba-direct.com account
 
 non-execs.com account
 
-Ignites Europe
+_Ignites Europe_
 
 If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please visit the “Preferences” or “Contact Us” section of our website or phone UK +44 (0) 20 7775 6668 or US +1 212 542 1245.
 
 Calls made to these numbers may be recorded for training and quality control purposes.
 
-Mandatewire
+_Mandatewire_
 
 If you wish to amend any of the date which we hold about you, or update your marketing preferences, please contact contact.mandatewire@ft.com or phone (UK)+44 (0)20 7775 6080 or (NYC) +1212-542-1245
 
-All users
+_All users_
 
 In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting the Privacy Officer by e-mail at privacy.officer@ft.com or writing to:
 
@@ -184,78 +149,83 @@ Company Secretary The Financial Times Ltd Number One Southwark Bridge London SE1
 
 We may charge the statutory allowable fee for provision of this information.
 
-**Children Under 14**
+Back to the top Children Under 14
 
 We do not intentionally collect any information on children under 14 years of age. We will undertake to delete any details of such users where a parent or guardian has notified us that any such details have been obtained.
 
-**Changes to this Policy**
+Back to the top Changes to this Policy
 
 This policy is effective from 22nd May 2012. From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.enhancements.
 
-Our Customer Service Centres
+Back to the top
 
-UK &. Europe Email: help@ft.com  
-Call: +44 (0)207 775 6248 US &. Canada Email: help@ft.com  
-Call: +1 917 551 5005 Asia Email: subseasia@ft.com  
-Call: +632 982 5780 Middle-East &. Africa Email: help@ft.com  
-Call: +44 (0)207 775 6248
-
-For our general list of all our contact information click here.
-
-Interactive
-
+*   Front page
+*   World
+*   Companies
+*   Markets
+*   Global Economy
+*   Lex
+*   Comment
+*   Management
+*   Personal Finance
+*   Life &. Arts
 *   Video
-*   Blogs
-*   Podcasts
-*   Interactive graphics
-*   Audio slideshows
+*   Podcast
+*   Interactive
+*   In depth
+*   Special Reports
+*   Jobs &. classified
+*   Services &. tools
+    *   Subscribe to FT.com
+    *   News by email
+    *   Edit your profile
+    *   Portfolio
+    *   FT Lexicon
+    *   FT clippings
+    *   RSS news feeds
+    *   FT Mobile
+    *   FT Cityline
+    *   In today's FT
+    *   Corporate packages
 
-Tools
+*   News feeds and alerts
+    *   Get FT RSS feeds
+    *   Email news briefings
+    *   Email news alerts
+    *   Get FT news on your mobile
 
-*   Portfolio
-*   FT Lexicon
-*   FT clippings
-*   Currency converter
-*   MBA rankings
-*   Today's newspaper
-*   FT press cuttings
-*   FT ePaper
+*   \* Minimum delay 15 minutes
 
-Updates
+All times are London time
 
-*   Alerts Hub
-*   Daily briefings
-*   FT on your mobile
-*   Share prices on your phone
-*   RSS feeds
+*   FT Home
 
-Quick links
-
-*   Special reports
-*   Mergermarket
-*   How to spend it
-
-Services
-
-*   Subscriptions
-*   Corporate subscriptions
-*   Syndication
-*   Conferences
-*   Annual reports
-*   Jobs
-*   Non-Executive Directors' Club
-*   Businesses for sale
-*   Contracts &. tenders
-*   Analyst research
-*   Company announcements
-
+*   Site map
+*   Contact us
+*   About us
 *   Help
-*   •Contact us
-*   •About us
-*   •Sitemap
-*   •Advertise with the FT
-*   •Terms &. Conditions
-*   •Privacy Policy
-*   •Copyright
 
-**© The Financial Times Ltd 2013** FT and 'Financial Times' are trademarks of The Financial Times Ltd.
+*   Advertise with the FT
+*   Media centre
+*   FT Newspaper subscriptions
+*   FT Conferences
+*   FT Syndication
+*   Corporate subscriptions
+*   FT Group
+*   Careers at the FT
+
+*   Partner sites: Chinese FT.com
+*   The Mergermarket Group
+*   Investors Chronicle
+*   Exec-Appointments.com
+*   Money Media
+*   The Banker
+*   fDi Intelligence
+*   MBA-Direct.com
+*   The Non-Executive Director
+
+*   © Copyright The Financial Times Ltd 2013. "FT" and "Financial Times" are trademarks of The Financial Times Ltd.  
+    
+*   Privacy policy
+*   Terms
+*   Cookie policy
