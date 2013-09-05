@@ -3,7 +3,7 @@ Skip to main content USA Network USA Shows Shows close
 *   Burn Notice
 *   Covert Affairs
 *   CSI
-*   New! Graceland
+*   Graceland
 *   House
 *   Law &. Order: Criminal Intent
 *   Law &. Order: SVU
