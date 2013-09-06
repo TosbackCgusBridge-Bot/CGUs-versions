@@ -17,7 +17,7 @@
     *   Tundra $25,920 starting msrp 1 16/20 est. mpg 2 $38,845 as shown Explore Build
 3.  Crossovers &. SUVs
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
-    *   Venza $27,850 starting msrp 1 20/26 est. mpg 2 Explore Build
+    *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 Explore Build
     *   Highlander $29,020 starting msrp 1 20/25 est. mpg 2 Explore Build
     *   FJ Cruiser $27,030 starting msrp 1 16/20 est. mpg 2 Explore Build
     *   4Runner $31,490 starting msrp 1 17/22 est. mpg 2 Explore Build
