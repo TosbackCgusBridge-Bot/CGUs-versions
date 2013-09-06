@@ -1,6 +1,6 @@
 Your Privacy Rights - Privacy Policy FANDANGO PRIVACY POLICY
 
-This Privacy Policy was last updated on: March 19, 2013.
+This Privacy Policy was last updated on: September 4, 2013.
 
 **NOTICE OF ARBITRATION PROVISIONS: Your use of our Site or other Service is subject to binding individual arbitration of any disputes which may arise, as provided in Paragraph 18 of the Terms of Use. Please read the arbitration provisions carefully and do not use our Site or other Service if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this Privacy Policy or our privacy practices) as provided in the Terms of Use.**
 
@@ -202,7 +202,7 @@ This section of the Policy governs your use of any Fandango software application
 
 12\. APPLICABLE LAW
 
-1.  We control and operate the Site and any other Service from the State of New York in the United States. The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of New York without regard to its conflict of law provisions. This Site or other Service is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site or other Service is appropriate for use in any particular jurisdiction. Those who choose to access the Site or other Service do so at their own initiative and are responsible for complying with all local laws, rules and regulations. If you are located in a country outside the United States and submit personal information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Policy.
+1.  The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of New York without regard to its conflict of law provisions. This Site or other Service is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site or other Service is appropriate for use in any particular jurisdiction. Those who choose to access the Site or other Service do so at their own initiative and are responsible for complying with all local laws, rules and regulations. If you are located in a country outside the United States and submit personal information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Policy.
     
 
 13\. YOUR CALIFORNIA PRIVACY RIGHTS (California residents)
