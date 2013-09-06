@@ -303,8 +303,6 @@ You are entitled to access and correct your Data by doing so directly on the web
 *   Mature
 *   Strip
 *   Teen
-*   Gay
-*   Shemale
 
 *   HOME
 *   TERMS OF USE
