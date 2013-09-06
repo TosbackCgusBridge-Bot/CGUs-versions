@@ -76,4 +76,4 @@ This Privacy Policy was last updated: April 21, 2010
 
 This Privacy Policy is effective as of: June 22, 2006
 
-Local Jobs Job Salaries Job Trends Get Hired Blog Post a Job Employer Solutions Publisher Solutions Job Search Browse Jobs About Simply Hired Help © 2013 Simply Hired, Inc. Privacy Terms
+Local Jobs Job Salaries Job Trends Get Hired Blog Post a Job Employer Solutions Publisher Solutions Job Search Browse Jobs About Simply Hired Send Feedback Help © 2013 Simply Hired, Inc. Privacy Terms
