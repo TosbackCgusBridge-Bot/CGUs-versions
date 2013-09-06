@@ -7,7 +7,7 @@ Geeknet, Inc. and its subsidiaries ("Geeknet"), operate the Internet sites Geek.
 
 Geeknet complies with the United States ("US")/European Union ("EU") and US/Swiss Safe Harbor frameworks as set forth by the US Department of Commerce regarding the transfer of personally identifiable information from the EU and Switzerland to the United States.
 
-We self-certify compliance with
+We self-certify compliance with:
 
 Geeknet agrees to notify users of the following privacy principles: Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. For additional information about what to do if you have questions or concerns about our Safe Harbor program, please see the enforcement section below.
 
