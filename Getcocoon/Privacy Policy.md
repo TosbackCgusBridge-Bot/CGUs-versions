@@ -69,7 +69,5 @@ Santa Barbara, CA 93111
     *   Facebook
     *   YouTube
     *   RSS Feed
-*     
-    
 
 © 2013 Virtual World Computing, LLC
