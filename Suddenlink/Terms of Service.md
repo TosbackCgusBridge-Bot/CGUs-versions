@@ -29,7 +29,7 @@
 *   Web
 *   Site
 
-*   Order Now
+*   Find Offers
 *   Television
 *   Internet
 *   Phone
