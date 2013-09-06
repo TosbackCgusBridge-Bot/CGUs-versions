@@ -157,7 +157,7 @@ Log Into MySubaru | Help |
         
         Starting at **$21,995**
         
-        2013 XV Crosstrek
+        2014 XV Crosstrek
         
         Starting at
         
