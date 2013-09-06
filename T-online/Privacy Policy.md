@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Landgericht entscheidet im Feuerwehrstreit
+*   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
 *   Facebook-Datenschutz-Bestimmungen wollen Erlaubnis für personalisierte Werbung
 *   Polizei weist Generalverdacht des Datenmissbrauchs zurück
 *   Erneut ungesichertes Aktendepot entdeckt
 *   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 *   Rostock: Freiwillige Feuerwehr wieder im Dienst
 *   Windows 8 den Datenhunger abgewöhnen
-*   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
-*   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
 
 schließen schließen
 
+*   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
+*   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
@@ -112,8 +114,6 @@ schließen schließen
 *   Guido Westerwelle will weiter mit USA über Freihandelsabkommen diskutieren
 *   NSA-Affäre: Datenschützer rät zur Nutzung deutscher Email-Dienstleister
 *   Datenschützer Weichert rät zur Nutzung deutscher E-Mail-Diensten
-*   Staatsanwaltschaft gegen Gerichtsentscheidung in Feuerwehr-Affäre
-*   Amtsgericht zu Feuerwehr-Affäre: Durchsuchung war rechtswidrig
 
 *   Kundencenter
 *   Preise und AGB
