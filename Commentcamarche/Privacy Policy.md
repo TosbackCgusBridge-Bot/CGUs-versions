@@ -121,8 +121,8 @@ Droit applicable et juridiction compétente
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
 *   Conditions générales d'utilisation
-*   Conditions générales
 *   Condition d'utilisation
+*   Conditions générales
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Mentions légales et CGV en ANGLAIS » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
