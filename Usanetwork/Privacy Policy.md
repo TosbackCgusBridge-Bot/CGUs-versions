@@ -7,6 +7,7 @@ Skip to main content USA Network USA Shows Shows close
 *   House
 *   Law &. Order: Criminal Intent
 *   Law &. Order: SVU
+*   New! Modern Family
 *   The Moment
 *   NCIS
 *   NCIS: Los Angeles
@@ -25,7 +26,6 @@ Full Episodes Social Schedule More More on USA close
 *   Movies
 *   Shop
 *   USA Sync
-*   USA Summer
 *   Follow Us on Facebook
 *   Follow Us on Twitter
 
