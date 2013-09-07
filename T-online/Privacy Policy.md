@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
+*   Überwachungsgegner protestieren
+*   Facebook ist Informationsquelle Nr.1 im Internet bei jungen Leuten
+*   EU-Kommissarin: Europa ist beim Datenschutz "zahnloser Tiger"
+*   Snowden-Dokumente: NSA knackt Verschlüsselung im Internet
 *   Landgericht entscheidet im Feuerwehrstreit
 *   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
-*   Facebook-Datenschutz-Bestimmungen wollen Erlaubnis für personalisierte Werbung
 *   Polizei weist Generalverdacht des Datenmissbrauchs zurück
+
+schließen schließen
+
 *   Erneut ungesichertes Aktendepot entdeckt
 *   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 *   Rostock: Freiwillige Feuerwehr wieder im Dienst
 *   Windows 8 den Datenhunger abgewöhnen
-
-schließen schließen
-
 *   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
 *   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
@@ -110,10 +114,6 @@ schließen schließen
 *   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
 *   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
 *   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
-*   NSA-Überwachung: Datenschützer Thilo Weichert bemängelt Aufklärung
-*   Guido Westerwelle will weiter mit USA über Freihandelsabkommen diskutieren
-*   NSA-Affäre: Datenschützer rät zur Nutzung deutscher Email-Dienstleister
-*   Datenschützer Weichert rät zur Nutzung deutscher E-Mail-Diensten
 
 *   Kundencenter
 *   Preise und AGB
