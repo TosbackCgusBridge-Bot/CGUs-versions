@@ -257,5 +257,3 @@ RETURN TO TOP
 *   Privacy Policy
 *   Terms &. Conditions
 *   Contact Us
-
-Intermarkets Named to Inc. 5000 List for Fifth Consecutive Year.
