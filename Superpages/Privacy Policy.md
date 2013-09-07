@@ -2,7 +2,6 @@
 *   Find People
 *   Buy Cars
 *   Maps
-*   Daily Deals
 *   Helpful Tips
 *   Local Weather
 *   Lottery Results
@@ -176,7 +175,6 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 
 *   Directory
 *   Add or Edit a Business
-*   Daily Deals
 *   Delivery Opt-Out
 *   Maps &. Directions
 *   Social Media
