@@ -1,6 +1,6 @@
 Help Center >  Privacy Policy
 
-  Privacy Policy
+Privacy Policy
 
 Effective Date: August 30, 2012
 
