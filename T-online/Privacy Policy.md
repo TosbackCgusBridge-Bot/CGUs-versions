@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   «Freiheit statt Angst» - Überwachungsgegner protestieren
+*   "Freiheit statt Angst": Überwachungsgegner protestieren
+*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren
 *   Facebook ist Informationsquelle Nr.1 im Internet bei jungen Leuten
 *   EU-Kommissarin: Europa ist beim Datenschutz "zahnloser Tiger"
 *   Snowden-Dokumente: NSA knackt Verschlüsselung im Internet
-*   Landgericht entscheidet im Feuerwehrstreit
-*   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
-*   Polizei weist Generalverdacht des Datenmissbrauchs zurück
 
 schließen schließen
 
+*   Landgericht entscheidet im Feuerwehrstreit
+*   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
+*   Polizei weist Generalverdacht des Datenmissbrauchs zurück
 *   Erneut ungesichertes Aktendepot entdeckt
 *   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 *   Rostock: Freiwillige Feuerwehr wieder im Dienst
@@ -111,9 +114,6 @@ schließen schließen
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
-*   Friedrich: 50-Milliarden-Schaden durch Wirtschaftsspionage
-*   Facebook weist Großteil der deutschen Anfragen nach Nutzerdaten ab
-*   Rostocker Feuerwehrstreit: Feuerwehr sagt Gespräch mit Stadt ab
 
 *   Kundencenter
 *   Preise und AGB
