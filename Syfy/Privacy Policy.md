@@ -251,7 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Next Episode - Mother Earth Goodne ... Face Off - Next Episode - Mother Earth Goodness
+Syfy Video Face Off - Next Episode - Mother Earth Goddes ... Face Off - Next Episode - Mother Earth Goddess
 
 Catch the next episode of Face Off, Tuesdays at 9/8c
 
