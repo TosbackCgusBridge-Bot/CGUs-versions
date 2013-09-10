@@ -255,6 +255,10 @@ Syfy Video Face Off - Next Episode - Mother Earth Goddes ... Face Off - Next Epi
 
 Catch the next episode of Face Off, Tuesdays at 9/8c
 
+Face Off - Sneak Peek - Mother Earth Goodness Face Off - Sneak Peek - Mother Earth Goodness
+
+The contestants must create a character inspired by Mother Earth, but incorporate something of their own mothers in the piece.
+
 Subterranean Terror Morphs Subterranean Terror Morphs
 
 See all the creations from the Subterranean Terror challenge!
@@ -262,10 +266,6 @@ See all the creations from the Subterranean Terror challenge!
 Winner Tells All: Episode 4 - Rayce Winner Tells All: Episode 4 - Rayce
 
 Season 2 winner Rayce Bird critiques S5, Episode 4 &. answers your questions!
-
-Heroes of Cosplay - Next Episode - Planet Com ... Heroes of Cosplay - Next Episode - Planet Comic Con
-
-Catch the next episode of Heroes of Cosplay as they travel to Planet Comic Con
 
 *   FAQ
 *   Feedback
