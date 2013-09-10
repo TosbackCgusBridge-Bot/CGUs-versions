@@ -59,8 +59,6 @@ Explore HSBC.com
         *   Sustainability risk
         *   Youth education
         *   Case studies
-    *   Purchasing
-        
 *   Investor relations in Investor relations
     
     Learn about our investment case, our internal controls and how we handle risk. Find financial results, dividend information and investor presentations.
@@ -157,7 +155,6 @@ Citizenship
 *   Our values
 *   Diversity and inclusion
 *   Sustainability
-*   Purchasing
 
 Investor relations
 
