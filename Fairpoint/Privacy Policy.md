@@ -156,7 +156,8 @@ Attn: Privacy
     *   Terms &. Conditions
     *   Customer Network Information
     *   Regulatory Notices
-    *   Tariffs, Catalogs and Price Lists
+    *   Tariffs, Catalogs and Price Lists
+    *   Service Agreements
 *   Connect With Us
     
 
