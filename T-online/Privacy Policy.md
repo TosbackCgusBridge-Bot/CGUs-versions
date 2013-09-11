@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
 *   Facebook verschiebt Start der neuen Nutzungsbedingungen
 *   «Freiheit statt Angst» - Überwachungsgegner protestieren
 *   "Freiheit statt Angst": Überwachungsgegner protestieren
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren
 *   EU-Kommissarin: Europa ist beim Datenschutz "zahnloser Tiger"
-*   Snowden-Dokumente: NSA knackt Verschlüsselung im Internet
 
 schließen schließen
 
+*   Snowden-Dokumente: NSA knackt Verschlüsselung im Internet
 *   Landgericht entscheidet im Feuerwehrstreit
 *   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
 *   Polizei weist Generalverdacht des Datenmissbrauchs zurück
@@ -111,7 +112,6 @@ schließen schließen
 *   Windows 8 den Datenhunger abgewöhnen
 *   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
 *   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
-*   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 *   Bericht: Britischer Geheimdienst zapft Daten aus Deutschland ab
 
