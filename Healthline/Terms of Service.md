@@ -41,4 +41,4 @@ Except as expressly provided in a particular "legal notice" on the Healthline Si
 
 Thank you for your cooperation. We hope you find the Healthline site helpful and convenient to use! Questions or comments regarding this website, including any reports of non-functioning links, should be directed by electronic mail to info@healthline.com or via U.S. mail to Healthline at 660 Third Street, San Francisco, CA 94107.
 
-Copyright (c) 2005-2012 Healthline Networks, Inc. All Rights Reserved.
+Copyright (c) 2005-2013 Healthline Networks, Inc. All Rights Reserved.
