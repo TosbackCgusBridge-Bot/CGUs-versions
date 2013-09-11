@@ -3,10 +3,6 @@ Print | Close CONSTANT CONTACT® PRIVACY STATEMENT
 
 Effective September 9, 2013
 
-  
-
-Please review this updated privacy statement for additional information regarding the ways in which we share personal information with third parties. If you have previously provided us with personal information and would like to opt-out of having your information shared as described under "Sharing of Information" below you may do so at any time by emailing privacy@constantcontact.com.
-
 At Constant Contact, Inc. (including its wholly-owned subsidiary, SinglePlatform, LLC), we respect and protect the privacy of our customers and those who use our websites, products and services. This privacy statement provides details about how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information that is associated with such information. This privacy statement applies to the Constant Contact website, the Single Platform website, products and services that are located in the roving.com, constantcontact.com and singleplatform.com domains and any other sites owned or operated by Constant Contact (the "Sites"). Constant Contact, Inc. is located at 1601 Trapelo Road, Waltham, MA 02451.
 
 The summary below provides the key concepts of the full Constant Contact Privacy Statement. If you have questions, please click on the headers in the summary or refer to the full text below.
