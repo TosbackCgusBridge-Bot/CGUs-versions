@@ -88,7 +88,7 @@ Attn: Internet Services Department
 PO Box 9100  
 Medford, OR 97501-0700
 
-Our toll-free customer service lines are available 5 AM - 9 PM PST, Monday thru Friday and 6 AM - 7 PM PST on Saturday and Sunday (subject to change).
+Our toll-free customer service lines are available 5 AM - 11 PM PST, Sunday thru Saturday (subject to change).
 
 By providing personal information through this Website you explicitly agree to our collection and use of all such information as described in this privacy policy. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. This may involve sharing certain information with affiliated companies or third parties. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Policy. You further agree that the information you provide is current, accurate and complete and that you will update it if there are any changes.
 
