@@ -31,18 +31,18 @@ These Terms of Sale ("Agreement") apply to your purchase of products and/or serv
 
 License Agreements
 
-License Agreements
+If you purchased software from Dell or a Dell reseller, your order acknowledgement, invoice or receipt will include the name of the software titles(s) that you purchased. The software license agreement applicable to your use of Dell software is available here (including Dell software preinstalled on Dell hardware or made available to you by download, disk media or otherwise, at no additional cost).
 
 End User License Agreement — Type S CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S View More Returns
 
-Returns
+Consumer customers have, for a short period and in line with Dell’s Terms and Conditions of Sale, the right to cancel their purchase contract and return the product in line with applicable distance selling legislation. A reasonable charge will be payable to cover the costs of collection and this will simply be deducted from your refund.
 
 U.S. Return Policy Política de devoluciones en EE. UU. View More Service Contracts
 
-Service Contracts
+If you have purchased service(s) from Dell or a Dell reseller, your quote, order acknowledgement, invoice or receipt will include the name of the service(s) that you purchased. If you do not have your invoice but purchased direct from Dell, a copy of your invoice can be requested. Click here for details of our locally available Consumer service terms.
 
 In-Home Printer Service After Remote Diagnosis Dell In-Home Service After Remote Diagnosis (Availability varies. Consult your invoice to determine if you purchased this agreement.) Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After Remote Diagnosis, Parts Only and Advance Exchange) View More Warranties
 
-Warranties
+Click here for details of Dell’s warranties for products, services and softwares.
 
 Dell Limited Hardware Warranty Garantías limitadas de hardware View More
