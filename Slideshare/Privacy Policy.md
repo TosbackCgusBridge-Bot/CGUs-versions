@@ -5,7 +5,7 @@ SlideShare. Present yourself. Upload Login or Signup Go Pro × × × × × ×
 *   Guidelines
 *   Privacy Policy
 
-Privacy Policy Preview
+Privacy Policy
 
 SlideShare LLC and its affiliates (including LinkedIn Corporation and LinkedIn Ireland Limited, each and collectively referred to herein as “SlideShare”) provide this Privacy Policy (**“Privacy Policy”**) to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from Visitors (as defined below) of http://www.slideshare.net (this **“Site”**). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting a prominent notice on the Site. Please consult this page regularly for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service.
 
