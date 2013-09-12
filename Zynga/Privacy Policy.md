@@ -372,7 +372,6 @@ Contact
 Games
 
 *   Play on Zynga.com
-*   Featured Games
 *   Bubble Safari
 *   CastleVille
 *   Hidden Chronicles
@@ -383,9 +382,9 @@ Games
 *   Zynga Poker
 *   Words with Friends
 *   Mafia Wars
+*   Slots
 *   Facebook Games
 *   Mobile Games
-*   Other Platforms
 
 News
 
