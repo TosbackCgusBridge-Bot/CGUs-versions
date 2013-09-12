@@ -6,8 +6,8 @@ customers &. websites on
 Trustworthiness?**  |  
   **REPUTATION**  
  E-Insure Services, Inc. licensee of the **TRUSTe  
-**Privacy Program for EINSURANCE .com  
-**TRUSTe** is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.EINSURANCE.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+**Privacy Program for einsurance .com  
+**TRUSTe** is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.einsurance.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact our Customer Service online, by email custsvc@einsure.com, or by telephone (312) 372-7400.  If you do not receive acknowledgement of or your inquiry has not been satisfactorily addressed, you should contact TRUSTe. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -17,7 +17,7 @@ E-Insure Services, Inc., recognizes the importance of protecting the privacy of 
 
 Information Collection
 
-E-Insure Services, Inc., is the sole owner of the information collected on **EINSURANCE.com**. E-Insure collects information from our users at the following points on this website:
+E-Insure Services, Inc., is the sole owner of the information collected on **einsurance.com**. E-Insure collects information from our users at the following points on this website:
 
 *   Support Requests
 *   Disussion Topics &. Editorial Comments
@@ -27,7 +27,7 @@ E-Insure Services, Inc., is the sole owner of the information collected on **EIN
 
 User Registration
 
-Many of the services available on **EINSURANCE.com** require no registration, and may be accessed anonymously. Others, such as insurance quotes, require that a user first complete a registration form. During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code. This information uniquely identifies the user's account with \`E-Insure Services and enables us to select insurance providers that do business in the user's geographic region. The user may provide more extensive contact and personal information as well, such as cell phone, fax number, home phone number, height and weight and personal business affiliation though this is not required. We will occasionally contact the user via the provided e-mail address regarding the administration of the user's account. Subject to the user's approval, we may also use this information to contact the user about services on our site about which the user has expressed an interest.
+Many of the services available on **einsurance.com** require no registration, and may be accessed anonymously. Others, such as insurance quotes, require that a user first complete a registration form. During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code. This information uniquely identifies the user's account with \`E-Insure Services and enables us to select insurance providers that do business in the user's geographic region. The user may provide more extensive contact and personal information as well, such as cell phone, fax number, home phone number, height and weight and personal business affiliation though this is not required. We will occasionally contact the user via the provided e-mail address regarding the administration of the user's account. Subject to the user's approval, we may also use this information to contact the user about services on our site about which the user has expressed an interest.
 
 Insurance Quotes
 
@@ -116,7 +116,7 @@ Links
 
 This Web site contains links to other sites. Please be aware that E-Insure Services is not responsible for the privacy practices of such other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every Web site that collects personally identifying information.
 
-**This privacy statement applies solely to information collected by this Web site**. In certain cases—specifically when a user is filling out an application for one of E-Insure's on-line quote engine partners—E-Insure uses framing technology to present content from our and our partner's Web sites simultaneously. In every such case, we will clearly identify the framed partner Web page as an outside entity. E-Insure will _not_ allow any framed any web page to collect a user's personal information unless the page provides a level of security that meets our own high standard. Our site features access to the search engine Google where you have access to search for insurance sites or to browse the world wide web. Keep in mind that if you enter information in this search engine you will be taken off the EINSURANCE.com web site.
+**This privacy statement applies solely to information collected by this Web site**. In certain cases—specifically when a user is filling out an application for one of E-Insure's on-line quote engine partners—E-Insure uses framing technology to present content from our and our partner's Web sites simultaneously. In every such case, we will clearly identify the framed partner Web page as an outside entity. E-Insure will _not_ allow any framed any web page to collect a user's personal information unless the page provides a level of security that meets our own high standard. Our site features access to the search engine Google where you have access to search for insurance sites or to browse the world wide web. Keep in mind that if you enter information in this search engine you will be taken off the einsurance.com web site.
 
 Feedback
 
@@ -198,4 +198,4 @@ Opt-Out Tool for blocking and removing your behavorial data captured by particpa
 
 \[ Back to Top \]
 
-EINSURANCE refers to one web service and privacy policy operating on the following website domain names: EINSURANCE.com, e-insurance.com, einsure.com, E-Insure.com
+EINSURANCE refers to one web service and privacy policy operating on the following website domain names: einsurance.com, e-insurance.com, einsure.com, E-Insure.com
