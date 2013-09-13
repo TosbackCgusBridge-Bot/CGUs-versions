@@ -11,7 +11,7 @@
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
     *   Camry $22,235 starting msrp 1 25/35 est. mpg 2 Explore Build
     *   Avalon $30,990 starting msrp 1 21/31 est. mpg 2 Explore Build
-    *   Sienna $26,585 starting msrp 1 18/25 est. mpg 2 Explore Build
+    *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
     *   Tacoma $17,625 starting msrp 1 21/25 est. mpg 2 $31,305 as shown Explore Build
     *   Tundra $25,920 starting msrp 1 16/20 est. mpg 2 $38,845 as shown Explore Build
@@ -19,10 +19,10 @@
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
     *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 Explore Build
     *   Highlander $29,020 starting msrp 1 20/25 est. mpg 2 Explore Build
-    *   FJ Cruiser $27,030 starting msrp 1 16/20 est. mpg 2 Explore Build
+    *   FJ Cruiser $27,130 starting msrp 1 16/20 est. mpg 2 Explore Build
     *   4Runner $31,490 starting msrp 1 17/22 est. mpg 2 Explore Build
     *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 Explore Build
-    *   Land Cruiser $78,555 starting msrp 1 13/18 est. mpg 2 Explore Build
+    *   Land Cruiser $78,755 starting msrp 1 13/18 est. mpg 2 Explore Build
 4.  Hybrids &. EVs
     *   Camry Hybrid $26,140 starting msrp 1 43/39 est. mpg 2 Explore Build
     *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 Explore Build
@@ -30,7 +30,7 @@
         driving range 3 /  
         mpge 4 Explore
     *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
-    *   Prius $24,200 starting msrp 1 50/48 est. mpg 2 Explore Build
+    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
     *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
     *   Prius Plug-in $32,000 starting msrp 1 95/50 est. mpge 5 /  
         est. hybrid  
