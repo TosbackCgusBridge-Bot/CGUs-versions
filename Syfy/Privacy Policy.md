@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Next Episode - Mother Earth Goddes ... Face Off - Next Episode - Mother Earth Goddess
+Syfy Video Face Off - Next Episode - Trick or Treat Face Off - Next Episode - Trick or Treat
 
 Catch the next episode of Face Off, Tuesdays at 9/8c
 
-Face Off - Sneak Peek - Mother Earth Goodness Face Off - Sneak Peek - Mother Earth Goodness
+Face Off - Sneak Peek - Trick or Treat Face Off - Sneak Peek - Trick or Treat
 
-The contestants must create a character inspired by Mother Earth, but incorporate something of their own mothers in the piece.
+Contestants must reimagine iconic Halloween characters like the scarecrow, the devil and more.
 
-Subterranean Terror Morphs Subterranean Terror Morphs
+Winner Tells All: Episode 5 - Anthony Winner Tells All: Episode 5 - Anthony
 
-See all the creations from the Subterranean Terror challenge!
+Season 4 winner Anthony Kosar give you his thoughts on Season 5 Episode 3!
 
-Winner Tells All: Episode 4 - Rayce Winner Tells All: Episode 4 - Rayce
+Mother Earth Goodness Morphs Mother Earth Goodness Morphs
 
-Season 2 winner Rayce Bird critiques S5, Episode 4 &. answers your questions!
+Check out the morphs from Mother Earth Goodness.
 
 *   FAQ
 *   Feedback
