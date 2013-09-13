@@ -286,48 +286,13 @@ Information from users outside the United States
 
 If you're outside the United States, your information will be sent to and stored in the United States, where our servers are located. By using our sites and apps, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
 
-*   Partner Sites:
-*   Expedia
-*   |
-*   Floraflora
-*   |
-*   Gifts
-*   |
-*   Hotels
-*   |
-*   Hotwire
-*   |
-*   Online Shopping
-*   |
-*   Shoebuy
-*   |
-*   Ticketmaster
-
-*   Pronto.com
-*   ProntoStyle.com
-*   ProntoTech.com
-*   ProntoHome.com
-*   ProntoKids.com
-*   BabyPronto.com
-
-Search our site All CategoriesApparelAppliancesAutomotiveBabyBooksComputerElectronicsFlowers and GiftsHealth and BeautyHome and GardenJewelry and WatchesMoviesMusicOfficePetsSports and OutdoorToys &. GamesVideo Games
-
+*   About Us
 *   Advertise With Us
 *   List Your Products
-*   Partners
 *   Partner With Us
-*   We're Hiring
-
-*   Infographics
-*   Shop Local
-*   About Us
-*   In the News
-
+*   Help
 *   Privacy Policy
 *   Terms of Service
-*   Help
 *   Site Map
 
-Though we strive to provide accurate information, Pronto is not responsible for any errors in product related information on our service and we encourage you to verify any such information with each merchant. Please report any errors in pricing or information that you see on Pronto.
-
-© 2005 - 2013 Pronto LLC All rights reserved.
+© 2005 - 2013 Pronto, LLC. All Rights Reserved.
