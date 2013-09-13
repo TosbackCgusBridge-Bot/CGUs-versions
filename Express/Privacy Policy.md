@@ -122,7 +122,7 @@ Express Mobile Application Collection of Location Information: You may elect not
   
 Express Email: If you no longer want to receive email from Express, you can follow the removal instructions located at the bottom of the next e-mail you receive from Express. Please be aware, even if you elect not to receive e-mail, or subsequently ask to be removed from receiving email from Express, you may still receive e-mails sent by a friend using E-mail a Friend and e-mail confirmations for online purchases, whether made at an Express Website, through our Express Shop located on the Express page on Facebook, or through an Express Mobile Application.  
   
-Direct Mailing: If you no longer wish to receive our direct mailings or have your name and address shared with other companies (other than third parties who provide services to Express) please call us at 1-800-749-0564.  
+Direct Mailing: If you no longer wish to receive our direct mailings or have your name and address shared with other companies (other than third parties who provide services to Express) please call us at 1-800-477-8844.  
   
 Third-party Advertising Cookies: If you would like more information about the use of third-party advertising cookies and to know your choices about no longer having information from these cookies used by third-party advertising companies or provided to us, click here.  
 Third-party Analytic Cookies: As a visitor to www.express.com, you have the option to deactivate the ability of our third-party service providers to analyze your browsing and purchasing behavior on www.express.com . You may also choose to continue to benefit from the improved shopping experience which this analysis allows us to provide to you. Since this opt-out relies on cookies, if you delete your cookies, you will need to opt-out again. To learn more about the various levels of privacy and confidentiality you can select with respect to these companies and to exercise your choice,  
@@ -157,7 +157,7 @@ As we continue to offer our visitors new and different types of content and serv
   
 **WHERE SHOULD YOU DIRECT YOUR QUESTIONS?**  
   
-If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us at talk@expressfashion.com.  
+If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us at talk@express.com.  
 **  
 SECURITY STATEMENT**  
   
