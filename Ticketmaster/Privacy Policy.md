@@ -111,32 +111,4 @@ What we will do if there is an update to this policy.
 
 From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-Ad Choices
-
-**We use common tracking technologies.**
-
-We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
-
-*   To recognize new or past customers.
-*   To store your password if you are registered on our sites.
-*   To improve our website.
-*   To serve you with advertising content in which we think you will be interested. To do so, we may observe your behaviors on this website and other websites. We may also collect information about your browsing history.
-*   To better understand the interests of our customers and our website visitors.
-
-You can control tracking tools.
-
-Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go here. Why? Because flash cookies cannot be controlled through your browser settings.
-
-If you block cookies on your browser, certain features on our sites may not work.
-
-Some ads may be served based on tracking.
-
-We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "online behavioral advertising."
-
-You can opt-out of online behavioral advertising.
-
-To opt out of having your online behavioral advertising, click here.
-
-  
-
-© 2012 Live Nation Entertainment, Inc. All rights reserved.
+© 2013 Live Nation Entertainment, Inc. All rights reserved.
