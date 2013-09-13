@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   iPhone 5s: Fingerabdrucksensor hat noch Schwächen und ist optional
+*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
+*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 *   NSA gesteht Rechtsbruch im großen Stil ein
 *   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
 *   Facebook verschiebt Start der neuen Nutzungsbedingungen
 *   «Freiheit statt Angst» - Überwachungsgegner protestieren
-*   "Freiheit statt Angst": Überwachungsgegner protestieren
-*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
-*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 
 schließen schließen
 
+*   "Freiheit statt Angst": Überwachungsgegner protestieren
+*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
+*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren
 *   EU-Kommissarin: Europa ist beim Datenschutz "zahnloser Tiger"
 *   Snowden-Dokumente: NSA knackt Verschlüsselung im Internet
@@ -111,9 +114,6 @@ schließen schließen
 *   Erneut ungesichertes Aktendepot entdeckt
 *   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 *   Rostock: Freiwillige Feuerwehr wieder im Dienst
-*   Windows 8 den Datenhunger abgewöhnen
-*   Facebook: Bericht über Zahl an Regierungsanfragen veröffentlicht
-*   Minister im Landtags-Innenausschuss zum Feuerwehrstreit
 
 *   Kundencenter
 *   Preise und AGB
