@@ -160,17 +160,23 @@ We will revise or update this policy if our practices change, or as we develop b
     *   Twitter (Privacy)
         *   @AmbassadorRice
         *   @Blog44
+        *   @Bobby44
         *   @Brundage44
+        *   @Cabinet
         *   @Cecilia44
         *   @DavidAgnew44
         *   @DrBiden
         *   @FLOTUS
         *   @HealthCareTara
+        *   @Inouye44
         *   @JEarnest44
         *   @JesseCLee44
         *   @JoiningForces
+        *   @Jordan44
         *   @JSmith44
         *   @Katie44
+        *   @KLewis44
+        *   @Lehrich44
         *   @KS44
         *   @LaCasaBlanca
         *   @LetsMove  
@@ -181,7 +187,9 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @Pfeiffer44
         *   @PressSec
         *   @ProjectMyGov
+        *   @Racusen44
         *   @Rhodes44
+        *   @Rosholm44
         *   @Schultz44
         *   @Simas44
         *   @Vargas44
@@ -276,6 +284,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: August 2, 2013
+Updated: September 12, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
