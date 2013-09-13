@@ -5,7 +5,7 @@
 *   My Recommended Jobs
 *   All Jobs
 *   Advice &. Resources
-*   Sign In >>.
+*   Sign In
 
 Protect Your Privacy and Safety
 
