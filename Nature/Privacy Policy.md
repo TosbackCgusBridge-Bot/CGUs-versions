@@ -8,7 +8,8 @@
     *   Español
     *   Indonesian
     *   Português
-    *   中文
+    *   节体中文
+    *   繁體中文
 
 The Nature Conservancy. Protecting nature. Preserving life.™
 
