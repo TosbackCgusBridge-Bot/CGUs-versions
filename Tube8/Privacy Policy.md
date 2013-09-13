@@ -13,8 +13,6 @@ X X Sponsored text link Under player banner
 *   Live Girls
 *   Fuck Date
 
-*   Follow
-
 *   Signup
 *   Login
 
