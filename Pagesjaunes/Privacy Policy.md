@@ -116,6 +116,7 @@
     
     Se créer un compte PagesJaunes
     
+    Fermer
 
 Les recherches PagesJaunes
 
@@ -876,91 +877,3 @@ Lorsque, après le départ de l'acheteur, le vendeur se trouve dans l'impossibil
 Les dispositions du présent article sont applicables en cas de non-respect de l'obligation prévue au 13° de l'article R. 211-4.
 
 Haut de page
-
-**Professionnels**, pilotez votre communication, optimisez votre référencement local et vos contenus sur PagesJaunes Business Center
-
-*   Référencez-vous gratuitement  
-    sur pagesjaunes.fr
-*   Annoncez sur pagesjaunes.fr et optimisez  
-    votre visibilité : toutes nos solutions
-*   Modifiez et enrichissez gratuitement  
-    vos informations
-
-Les annonceurs
-
-*   Nos derniers sites Internet
-*   Nos sites Internet
-
-Recherche de personnes
-
-*   A
-*   B
-*   C
-*   D
-*   E
-*   F
-*   G
-*   H
-*   I
-*   J
-*   K
-*   L
-*   M
-*   N
-*   O
-*   P
-*   Q
-*   R
-*   S
-*   T
-*   U
-*   V
-*   W
-*   X
-*   Y
-*   Z
-
-PagesJaunes et l'éco-responsabilité
-
-*   Découvrez la charte éco-responsabilité PagesJaunes
-*   Recevoir / ne plus recevoir les annuaires imprimés
-*   Professionnels, déclarez votre engagement éco-responsable
-*   Feuilleter les annuaires en ligne
-
-A propos
-
-*   PagesJaunes Groupe
-*   PagesJaunes recrute
-*   Souscrire de la publicité
-*   Widgets PagesJaunes
-*   Plan du site
-*   Aide
-
-Retrouvez PagesJaunes sur Facebook
-
-Sites Pages Jaunes
-
-*   PagesPro
-*   Pages Jaunes Marketing Services
-*   MarketingConnect
-*   Mappy
-*   Kap'Stages
-*   Urbandive
-*   Annonces Jaunes
-*   A Vendre A Louer
-*   ComprendreChoisir.com
-*   Editus
-*   Embauche.com
-*   QDQ
-*   Keltravo
-*   123pages
-*   123people
-*   123deal
-
-est un service PagesJaunes Groupe
-
-*   Charte du groupe
-*   Données personnelles
-*   Conditions d'utilisation
-
-© 2013 PagesJaunes
