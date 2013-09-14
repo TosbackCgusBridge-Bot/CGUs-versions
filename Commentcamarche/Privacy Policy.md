@@ -1,4 +1,4 @@
-DEUSESFRITBR Septembre 2013
+DEUSESFRITBR Août 2013
 
 *   Objet
 *   Mentions légales
@@ -121,16 +121,16 @@ Droit applicable et juridiction compétente
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
 *   Conditions générales d'utilisation
-*   Condition d'utilisation
 *   Conditions générales
-*   Conditions générales de vente » Forum - Webmaster
+*   Condition d'utilisation
+*   Modèle Condition Générale de Vente » Forum - Webmaster
+*   Mentions légales et CGV en ANGLAIS » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Oscaro.com » Sites
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
 
 Communautés d'assistance et de conseils.
 
-*   Forum Vos droits sur internet
-*   Forum Mobile
+*   Forum Internet
 *   Forum Webmastering
+*   Forum Vos droits sur internet
