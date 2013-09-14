@@ -1,51 +1,36 @@
 Skip to Content
 
-*   Your Home
+*   *   Your Home
+    *   Your Business
+    *   TWC Central
+    *   About Us
+    *   Investor Relations
+    *   Careers
     
-*   Your Business
-    
-*   TWC Central
-    
-*   About Us
-    
-*   Investor Relations
-    
-*   Careers
-    
-*   TWC Media
-    
-*          Check Email
-    
-
+*   *   Change
+        *   GO
+        *   We could not determine your location
+            
+            Check that your ZIP code is correct.
+            
+            If your ZIP code is correct, click on www.cablemover.com to find the cable company serving your area.
+            
+            We could not determine your location
+            
+            Make sure you entered your zip code correctly.
+            
+            If you entered your zip code correctly, visit cablemover.com to contact the cable company serving your area.
+            
+            Cookies are not enabled
+            
+            You do not have cookies enabled.
+            
+            In order for us to serve you better, please enable cookies.
+            
+            Please change location
 *   Español
-*   Sign In
-    *   MyServices
-    *   Register for a  
-        TWC ID
 
-*   ChangeClose GO We could not determine your location
-    
-    Check that your ZIP code is correct.
-    
-    If your ZIP code is correct, click on www.cablemover.com to find the cable company serving your area.
-    
-    Our services may not be available in your area
-    
-    Make sure you entered your zip code correctly.
-    
-    If you entered your zip code correctly, visit cablemover.com to contact the cable company serving your area.
-    
-    Cookies are not enabled
-    
-    You do not have cookies enabled.
-    
-    In order for us to serve you better, please enable cookies.
-    
-    Please change location
-
-Search
-
-*   Follow Us
+FOLLOW US
 
 *   Company Overview
 *   Leadership
@@ -53,8 +38,6 @@ Search
 *   News
 *   Careers
 *   Investor Relations
-
-Privacy
 
 *   About Us
 *   Legal
