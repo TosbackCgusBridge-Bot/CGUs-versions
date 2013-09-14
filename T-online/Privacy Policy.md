@@ -91,10 +91,10 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
-*   iPhone 5s: Fingerabdrucksensor hat noch Schwächen und ist optional
-*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
-*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
+*   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
+*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
+*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   NSA gesteht Rechtsbruch im großen Stil ein
 *   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
 *   Facebook verschiebt Start der neuen Nutzungsbedingungen
