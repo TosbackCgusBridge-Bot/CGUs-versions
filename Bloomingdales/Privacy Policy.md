@@ -207,9 +207,9 @@ Does this answer your question? Please tell us how we can make this answer more 
 
 *   What is the return and exchange policy?
 *   What is the shipping policy?
-*   How do I return an item purchased at a Bloomingdale's store?
 *   Terms of Use
 *   Security Policy
+*   CA Privacy Rights
 
 **Contact Us** for assistance with your shopping experience and other answers.
 
