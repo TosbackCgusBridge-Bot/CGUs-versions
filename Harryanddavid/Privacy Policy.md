@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective: July 18, 2012
+Effective: September 12, 2013
 
 *   Information We Collect
 *   Using the Information We Collect
@@ -149,7 +149,7 @@ Harry &. David and our brands may disclose your personal information to third pa
 
 Cookies
 
-A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may be used to enable us to track and target your interests for the purpose of enhancing your experience on our Websites. Some cookies are deleted once you leave our Website (“Session cookies”) while other cookies remain after your leave our Website (“Persistent cookies”) so that you are recognized when you return to the Website. We may use persistent cookies to enable us to provide services to you, including, “Remember Me,” order history, address book, My Gift History, etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer Service. If you reject certain cookies, you may still browse our Website. however, you may not be able to purchase or have access to all of our services.
+A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may be used to enable us to track and target your interests for the purpose of enhancing your experience on our Websites. Some cookies are deleted once you leave our Website (“Session cookies”) while other cookies remain after your leave our Website (“Persistent cookies”) so that you are recognized when you return to the Website. We may use persistent cookies to enable us to provide services to you, including, “Remember Me,” order history, address book, My Gift History, etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer Service. We may also use technologies such as our own cookies to provide you with enhanced online display advertising. To opt out of advertising provided by Harry &. David, click here. If you reject certain cookies, you may still browse our Website. however, you may not be able to purchase or have access to all of our services.
 
 We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on this Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services. This information is collected through the use of pixel tags or cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit http://www.networkadvertising.org/.
 
