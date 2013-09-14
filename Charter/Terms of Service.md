@@ -11,6 +11,7 @@ The links below provide you access to Charter's policies &. agreements.
 *   Residential HSI Customer Agreement
 *   Residential 30-Day Guarantee
 *   Charter Telephone Tariff Information (includes Customer Terms and Conditions)
+*   Charter Unlimited Calling to Mexico Plan Acceptable Usage Policy (AUP)
 *   Procedure for Submitting a Notice of Claimed Copyright Infringement
 *   Residential Price Guarantee Terms and Conditions
 *   Complaint Procedures for Michigan
