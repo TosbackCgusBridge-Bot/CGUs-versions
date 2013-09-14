@@ -6,6 +6,7 @@ Skip to main content USA Network USA Shows Shows close
 *   Graceland
 *   House
 *   Law &. Order: Criminal Intent
+*   New! Modern Family
 *   The Moment
 *   NCIS
 *   NCIS: Los Angeles
@@ -13,7 +14,7 @@ Skip to main content USA Network USA Shows Shows close
 *   Psych
 *   Royal Pains
 *   Suits
-*   New! Summer Camp
+*   Summer Camp
 *   White Collar
 *   WWE Monday Night Raw
 
