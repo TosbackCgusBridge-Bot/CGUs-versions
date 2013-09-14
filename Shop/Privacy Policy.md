@@ -7,9 +7,9 @@ _Lenovo Privacy practices on the Web_
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
-Lenovo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@lenovo.com. If you are not satisfied with our response you can contact TRUSTe here.
+Lenovo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by using our short Privacy Submission Form. If you are not satisfied with our response you can contact TRUSTe here.
 
-Personal information Data Retention Using and Sharing Personal Information Supplementing Information Fulfilling your transaction request Use of Suppliers Marketing Use Mergers and Acquisitions Communications from the Site Cookies, Web Beacons and Other Technologies Choice Flash LSOs Live Chat Service Quality Monitoring Customer Testimonials/Comments/Reviews Online Advertising Lenovo Human Resources Web Sites (including Recruitment) Personalized URL Link Information for Business Partners Disclosures Required By Law Lenovo Supplier Administration Privacy Technology Lenovo Discussion Forums, Blogs, and Chat Rooms Links to non-Lenovo Web sites Other Lenovo Web Site Notices Notification of Changes Our Worldwide Practices Privacy Questions and Access Information Security and Quality    
+Personal information Use of Suppliers Using and Sharing Personal Information Mergers and Acquisitions Fulfilling your transaction request Cookies, Web Beacons and Other Technologies Marketing Use Flash LSOs Communications from the Site Service Quality Monitoring Choice Online Advertising Live Chat Personalized URL Link Customer Testimonials/Comments/Reviews Disclosures Required By Law Lenovo Human Resources Web Sites (including Recruitment) Privacy Technology Information for Business Partners Links to non-Lenovo Web sites Lenovo Supplier Administration Social Media Widgets Lenovo Discussion Forums, Blogs, and Chat Rooms Notification of Changes Other Lenovo Web Site Notices Privacy Questions and Access Our Worldwide Practices   Information Security and Quality   Data Retention   Supplementing Information    
 Personal information
 
 In general, you can visit Lenovo on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
@@ -46,7 +46,7 @@ Email A Page: If you choose to use our referral service to email a page about ou
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form or in "My Account" on your preferences page.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@lenovo.com
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by using our short Privacy Submission Form.
 
  **Back to top** Live Chat
 
@@ -54,7 +54,7 @@ In some contexts, you may elect to chat with us to obtain assistance. If our liv
 
  **Back to top** Customer Testimonials/Comments/Reviews
 
-From time to time, we post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+From time to time, we post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at Privacy Submission Form.
 
  **Back to top** Lenovo Human Resources Web Sites (including Recruitment)
 
@@ -70,7 +70,7 @@ If you represent a Lenovo supplier, you may visit a Lenovo Web site intended spe
 
  **Back to top** Lenovo Discussion Forums, Blogs, and Chat Rooms
 
-If you participate in a Lenovo discussion forum, blog, or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Lenovo, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. We are not responsible for the personally identifiable information you choose to submit in these forums. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Lenovo. To request removal of your personal information from our blog or community forum, contact us at privacy@lenovo.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you participate in a Lenovo discussion forum, blog, or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Lenovo, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. We are not responsible for the personally identifiable information you choose to submit in these forums. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Lenovo. To request removal of your personal information from our blog or community forum, contact us at Privacy Submission Form. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
  **Back to top** Other Lenovo Web Site Notices
 
@@ -88,7 +88,7 @@ We follow generally accepted industry standards to protect the personally identi
 
  **Back to top** Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@lenovo.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at Privacy Submission Form. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
  **Back to top** Supplementing Information
 
@@ -96,11 +96,11 @@ From time to time we may supplement information you give us via a Lenovo Web sit
 
  **Back to top** Use of Suppliers
 
-In some cases Lenovo uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is Lenovo's practice to require such suppliers to handle information in a manner consistent with Lenovo's policies and these third parties may not use your informationfor their own marketing purposes.
+In some cases Lenovo uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is Lenovo's practice to require such suppliers to handle information in a manner consistent with Lenovo's policies and these third parties may not use your information for their own marketing purposes.
 
  **Back to top** Mergers and Acquisitions
 
-Circumstances may arise where, whether for strategic or other business reasons, Lenovo decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Lenovo’s practice to seek appropriate protection for information in these types of transactions.
+Circumstances may arise where, whether for strategic or other business reasons, Lenovo decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Lenovo's practice to seek appropriate protection for information in these types of transactions.
 
  **Back to top** Cookies, Web Beacons and Other Technologies
 
@@ -146,19 +146,21 @@ Technology will increasingly help give you more control over your personal infor
 
 Lenovo Web sites may contain links to other Web sites. Lenovo is not responsible for the privacy practices or the content of those other Web sites.
 
+ **Back to top** Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
  **Back to top** Notification of Changes
 
-This privacy statement was last updated on March 21, 2011. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way.
+This privacy statement was last updated on September 13, 2013. A notice will be posted on our Web site home page for 30 days prior to the change becoming effective whenever this privacy statement is changed in a material way.
 
  **Back to top** Privacy Questions and Access
 
-If you have a question about this statement, you can send an email to the Lenovo Web site coordinator. The address for this is privacy@lenovo.com. You can also contact us at this address if you have a question about Lenovo's handling of your information.
+Questions about this statement or about Lenovo's handling of your information may be submitted by filling out a short submission form.
 
 If you wish to obtain a copy of particular information you provided to Lenovo, or if you become aware the information is incorrect and you would like us to correct it contact us at lnvinfo@lenovo.com.
 
 Before Lenovo is able to provide you with any information or correct any inaccuracies or to delete information that you have provided, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond to your request for access within 30 days.
-
-If you have questions or concerns regarding the site's privacy statement, please send them to Lenovo at: privacy@lenovo.com.
 
 This Web site is maintained by Lenovo or one of its subsidiaries around the world.
 
