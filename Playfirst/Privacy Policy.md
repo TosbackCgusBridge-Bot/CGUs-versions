@@ -204,6 +204,7 @@ Please Wait....  Remember me Forgot My Password PlayFirst develops great mobile
 *   Support |
 *   Jobs |
 *   Privacy |
+*   Terms of Service |
 *   Contact Us
 
 SIGN UP FOR OUR NEWSLETTER © Copyright PlayFirst, Inc. 2013
