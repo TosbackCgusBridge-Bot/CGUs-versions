@@ -263,7 +263,7 @@ Winner Tells All: Episode 5 - Anthony Winner Tells All: Episode 5 - Anthony
 
 Season 4 winner Anthony Kosar give you his thoughts on Season 5 Episode 3!
 
-Mother Earth Goodness Morphs Mother Earth Goodness Morphs
+Mother Earth Goddess Morphs Mother Earth Goddess Morphs
 
 Check out the morphs from Mother Earth Goodness.
 
