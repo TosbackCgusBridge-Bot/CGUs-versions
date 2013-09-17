@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook veröffentlicht erstmals Nutzerzahlen für Deutschland
+*   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 *   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   NSA gesteht Rechtsbruch im großen Stil ein
 *   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
-*   Facebook verschiebt Start der neuen Nutzungsbedingungen
-*   «Freiheit statt Angst» - Überwachungsgegner protestieren
 
 schließen schließen
 
+*   «Freiheit statt Angst» - Überwachungsgegner protestieren
 *   "Freiheit statt Angst": Überwachungsgegner protestieren
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
@@ -113,7 +114,6 @@ schließen schließen
 *   Polizei weist Generalverdacht des Datenmissbrauchs zurück
 *   Erneut ungesichertes Aktendepot entdeckt
 *   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
-*   Rostock: Freiwillige Feuerwehr wieder im Dienst
 
 *   Kundencenter
 *   Preise und AGB
