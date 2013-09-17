@@ -1,7 +1,7 @@
 reddit privacy policy _effective May 15, 2013_
 
-> your privacy is a core reddit value.  
-> we strive to create a policy worthy of you.
+> your privacy is genuinely important to us.  
+> here's how we manage and use your data.
 
 1 We take protecting your privacy seriously, and we want you to understand exactly how and why we use your information. This document is our Privacy Policy, which describes what information we collect and what it's used for. It applies to all interactions with reddit.com, including content posted through iReddit, and interactions with our site through the button and widget. However, other services we own – such as redditgifts – and loosely affiliated but independent services (for instance, radio reddit) have their own terms, and you should review them on each service's respective website.
 
