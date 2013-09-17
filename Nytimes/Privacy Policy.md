@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Porters of Machu Picchu
+Search Help House hunting in ... Panama City
 
-Also in Video »
+Also in Real Estate »
 
-*   In Performance: Hallie Foote
-*   Anatomy of a Scene: "Mother of George"
+*   Where the Berlin Wall once stood, an architect creates a home that is "completely free" and open
+*   What you get for ...$1,300,000
 
   
 
