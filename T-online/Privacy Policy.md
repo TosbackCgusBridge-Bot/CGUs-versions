@@ -91,7 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
-*   Facebook veröffentlicht erstmals Nutzerzahlen für Deutschland
+*   Facebook: Erstmals Nutzerzahlen für Deutschland veröffentlicht
 *   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 *   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
