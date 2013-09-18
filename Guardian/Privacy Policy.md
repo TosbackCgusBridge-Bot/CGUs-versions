@@ -152,3 +152,9 @@ May 2013: Information on mobile device advertising added.
 July 2013: References to guardian.co.uk and guardiannews.com replaced with references to theguardian.com.
 
 August 2013: Policy reviewed by the Plain English Campaign and awarded Crystal Mark.
+
+Sign up for the Guardian Today
+
+Our editors' picks for the day's top news and commentary delivered to your inbox each morning.
+
+Sign up for the daily email
