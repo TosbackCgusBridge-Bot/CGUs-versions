@@ -259,7 +259,7 @@ Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Sh
 
 *   Rewards Dollars are earned only on future purchases from a Participating Site. Rewards Dollars are not awarded for purchases made before the Effective Date (set forth above).
 *   Rewards Dollars are not redeemable for cash.
-*   Rewards Dollars are not awarded for purchases of gift cards and/or gift certificates, purchases paid for in whole with Rewards Dollars or purchases made through any of Wayfair's partners' sites. The balance of a Purchase paid for in part with Rewards Dollars is eligible for Rewards Dollar earning.
+*   Rewards Dollars are not awarded for purchases of gift cards and/or gift cards, purchases paid for in whole with Rewards Dollars or purchases made through any of Wayfair's partners' sites. The balance of a Purchase paid for in part with Rewards Dollars is eligible for Rewards Dollar earning.
 *   If the Net Amount of a Rewards-Eligible Purchase changes for any reason (e.g., return), the number of Rewards Dollars awarded for the Rewards-Eligible Purchase will be adjusted to reflect the modified Net Amount.
 *   Rewards Dollars will be credited to a Member's account within approximately two (2) business days after the closing of each Rewards-Eligible Purchase. Rewards Dollars awarded are rounded down to the nearest cent.
 
@@ -336,21 +336,21 @@ _\*For the Prize, the home goods products style, color and size are subject to i
 
 **SPONSOR:** Wayfair LLC, 177 Huntington, Ave., Suite 6000, Boston, MA 02115
 
-Wayfair Gift Certificate Terms and Conditions
+Wayfair Gift Card Terms and Conditions
 
-The following terms and conditions (the "Terms") apply to any Wayfair electronic gift certificate originally purchased by you or someone on your behalf (the "gift certificate") through the Wayfair website. Gift certificates are issued by Wayfair LLC (referred to hereinafter as either "Wayfair", "we", "us" or "our"). By purchasing a gift certificate, accepting and retaining a gift certificate, or using a gift certificate, you agree to these Terms.
+The following terms and conditions (the "Terms") apply to any Wayfair electronic gift card originally purchased by you or someone on your behalf (the "gift card") through the Wayfair website. Gift cards are issued by Wayfair LLC (referred to hereinafter as either "Wayfair", "we", "us" or "our"). By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
 
-*   Gift certificates are only valid in the United States of America and Canada. Void where prohibited.
-*   Gift certificates can only be redeemed through one of the Wayfair websites.
-*   Gift certificates cannot be used to purchase gift certificates or gift cards.
-*   Gift certificates are not redeemable for cash and cannot be returned for a cash refund, except to the extent required by law.
-*   Use of the gift certificate is limited to the amount of funds held on the gift certificate. The full amount of each purchase, including taxes, will be deducted from the funds held on the gift certificate, up to the total funds available on the gift certificate. Any unused balance will be placed in the recipient's gift certificate account and is not transferable. If you make a purchase and there are insufficient funds held on the gift certificate to cover that purchase, you must pay the difference by a valid credit card or debit card.
-*   The risk of loss and title for gift certificates pass to the purchaser upon our electronic transmission to the purchaser. We are not responsible for and will not replace lost or stolen gift certificates. Protect your gift certificate as if it were cash and safeguard the gift certificate from authorized use.
-*   Wayfair may provide gift certificate purchasers with information about the redemption status of gift certificates.
-*   Wayfair reserves the right to change these Terms from time to time in its discretion. Such revised terms will be effective as to any gift certificates purchased after the date said revised Terms are posted to the Wayfair websites.
-*   Resale of a gift certificate or use for unauthorized advertising, marketing, sweepstakes or other promotional purposes is strictly prohibited. Your right to use the funds on the gift certificate is a limited right, subject to these Terms and applicable law. We are not responsible for pricing, typographical, or other errors, in any offer and reserve the right to cancel any orders resulting from such errors.
-*   If we suspect any fraud or misuse in connection with a gift certificate, we reserve the right in our discretion to suspend or terminate use of the gift certificate.
-*   The consideration paid for the gift certificate, including any unredeemed balances, is the property of the Wayfair.
+*   Gift cards are only valid in the United States of America and Canada. Void where prohibited.
+*   Gift cards can only be redeemed through one of the Wayfair websites.
+*   Gift cards cannot be used to purchase gift cards or gift cards.
+*   Gift cards are not redeemable for cash and cannot be returned for a cash refund, except to the extent required by law.
+*   Use of the gift card is limited to the amount of funds held on the gift card. The full amount of each purchase, including taxes, will be deducted from the funds held on the gift card, up to the total funds available on the gift card. Any unused balance will be placed in the recipient's gift card account and is not transferable. If you make a purchase and there are insufficient funds held on the gift card to cover that purchase, you must pay the difference by a valid credit card or debit card.
+*   The risk of loss and title for gift cards pass to the purchaser upon our electronic transmission to the purchaser. We are not responsible for and will not replace lost or stolen gift cards. Protect your gift card as if it were cash and safeguard the gift card from authorized use.
+*   Wayfair may provide gift card purchasers with information about the redemption status of gift cards.
+*   Wayfair reserves the right to change these Terms from time to time in its discretion. Such revised terms will be effective as to any gift cards purchased after the date said revised Terms are posted to the Wayfair websites.
+*   Resale of a gift card or use for unauthorized advertising, marketing, sweepstakes or other promotional purposes is strictly prohibited. Your right to use the funds on the gift card is a limited right, subject to these Terms and applicable law. We are not responsible for pricing, typographical, or other errors, in any offer and reserve the right to cancel any orders resulting from such errors.
+*   If we suspect any fraud or misuse in connection with a gift card, we reserve the right in our discretion to suspend or terminate use of the gift card.
+*   The consideration paid for the gift card, including any unredeemed balances, is the property of the Wayfair.
 *   We do not currently collect or maintain any personally identifiable information regarding the purchasers of the Cards. However, we reserve the right to obtain personal information about you in accordance with the privacy policy found here if such information is necessary to service the Card or respond to your inquiries or for other purposes.
 *   If any one or more of the covenants, agreements, provisions or terms of these Terms shall be for any reason whatsoever held invalid, then such covenants, agreements, provisions or terms shall be deemed severable from the remaining covenants, agreements, provisions or terms of these Terms shall in no way affect the validity or enforceability of the other provisions of these Terms.
 *   These Terms sets forth the entire understanding of the parties relating to the subject matter hereof, and all prior understandings, written or oral, are superseded by these Terms. All terms and conditions set forth herein are applicable to the extent permitted by law.
