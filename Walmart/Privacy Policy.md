@@ -2,7 +2,7 @@ Walmart Privacy Policy - Highlights Scope:
 
 This Policy applies to customer information we collect in the United States and Puerto Rico at Walmart retail stores ("stores") and through our websites (for purposes of this Policy, "websites" includes our mobile applications).  
   
-Walmart has specific Notices of Privacy Practices for its personal information practices relating to the Pharmacy and Vision Center operations in our retail stores. These **Notices** are available at each Pharmacy and Vision Center.
+Walmart has a specific Notice of Privacy Practices for its personal information practices relating to our Health and Wellness operations (Pharmacy and Vision Center) in our retail stores. This **Notice** is available at each Pharmacy and Vision Center.
 
 Information We Collect:
 
@@ -70,7 +70,7 @@ Notice and Scope of Our Privacy Practices
 
 Our goal is to provide clear, prominent, and easily accessible information about our privacy practices. This Policy applies to customer information we collect in the United States and Puerto Rico at Walmart retail stores ("stores") and through our websites (for purposes of this Policy, "websites" includes our mobile applications).
 
-Walmart has specific Notices of Privacy Practices for its personal information practices relating to the Pharmacy and Vision Center operations in our retail stores. These Notices are available at each Pharmacy and Vision Center.
+Walmart has a specific Notice of Privacy Practices for its personal information practices relating to our Health and Wellness operations (Pharmacy and Vision Center) in our retail stores. This notice is available at each Pharmacy and Vision Center.
 
 Our Pledge of Accountability
 
@@ -121,7 +121,7 @@ Walmart uses your information to offer and provide our products and services and
 *   To send you information about our products, services, and promotions. and
 *   To protect the security or integrity of our websites and our business.
 
-To accomplish these purposes, we may combine personal and non-personal information we collect th with offline information, including information from third parties. We may transfer or disclose your information within our corporate family of companies for these purposes.
+To accomplish these purposes, we may combine personal and non-personal information we collect with offline information, including information from third parties. We may transfer or disclose your information within our corporate family of companies for these purposes.
 
 **How We Disclose Your Information Outside Walmart**  
   
@@ -211,7 +211,7 @@ Privacy Protections for Specific Types of Information
 
 **Pharmacy and Vision Center**  
   
-When you use our Pharmacies or Vision Centers, you may provide us with your health information so that we may process your request. We understand the sensitive nature of such information and respect your privacy by keeping it confidential in accordance with laws and our policies. Our privacy policies for personal health information describe how we protect the information and how you may access it. The policies are provided to you by the Pharmacy or Vision Center at the first time of service or can be requested at any time at your local Walmart.
+When you use our Pharmacies or Vision Centers, you may provide us with your health information so that we may process your request. We understand the sensitive nature of such information and respect your privacy by keeping it confidential in accordance with laws and our policies. Our Notice of Privacy Practices for personal health information describes how we protect the information and how you may access it. The notice is provided to you by the Pharmacy or Vision Center at the first time of service or can be requested at any time at your local Walmart.
 
 **Financial Products and Services**  
   
@@ -274,4 +274,4 @@ Our privacy Policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.
 
-Last Updated: April 26, 2012
+Last Updated: September 17, 2013
