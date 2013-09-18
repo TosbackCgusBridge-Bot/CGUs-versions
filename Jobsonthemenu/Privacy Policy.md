@@ -29,31 +29,22 @@ We may obtain information about you from various sources, including the Talent N
 
 The types of information we may obtain include:
 
-· Your Personal Information, if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information in order to perform job searches or to read the content portions of the Talent Network.
-
-· Username and password for the account you may establish on the Talent Network.
-
-· Your demographic information (such as zip or postal code, occupation, education and experience, and if you choose to provide it, age, gender and race or ethnicity). We collect this information either through the registration process, from your resume or in the manner described above.
-
-· Job search behavior and preferences, and a record of the searches that you make on the Talent Network. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches.
-
-· Other details that you may submit to us or that may be included in the information provided to us by third parties.
+*   Your Personal Information, if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information in order to perform job searches or to read the content portions of the Talent Network.
+*   Username and password for the account you may establish on the Talent Network.
+*   Your demographic information (such as zip or postal code, occupation, education and experience, and if you choose to provide it, age, gender and race or ethnicity). We collect this information either through the registration process, from your resume or in the manner described above.
+*   Job search behavior and preferences, and a record of the searches that you make on the Talent Network. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches.
+*   Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
 We collect information stored in your social media profile that you authorize us to access when you use your social media profile to enact features on the Talent Network, such as the ability to pre-populate our registration form or a job application, or the ability to see which of your friends have contacts with employers that interest you.
 
 In addition, when you visit the Talent Network, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail below. The information we may collect by automated means includes:
 
-· Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type).
-
-· Pages and URLs that refer visitors to the Talent Network, also pages and URLs that visitors exit to once they leave the Talent Network.
-
-· Dates and times of visits to the Talent Network.
-
-· Information on actions taken on the Talent Network (such as page views, site navigation patterns and job view or application activity).
-
-· A general geographic location (such as country and city) from which a visitor accesses the Talent Network.
-
-· Search terms that visitors use to reach the Talent Network.
+*   Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type).
+*   Pages and URLs that refer visitors to the Talent Network, also pages and URLs that visitors exit to once they leave the Talent Network.
+*   Dates and times of visits to the Talent Network.
+*   Information on actions taken on the Talent Network (such as page views, site navigation patterns and job view or application activity).
+*   A general geographic location (such as country and city) from which a visitor accesses the Talent Network.
+*   Search terms that visitors use to reach the Talent Network.
 
 (Return to Top)
 
