@@ -13,7 +13,7 @@
     *   Avalon $30,990 starting msrp 1 21/31 est. mpg 2 Explore Build
     *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
-    *   Tacoma $17,625 starting msrp 1 21/25 est. mpg 2 $31,305 as shown Explore Build
+    *   Tacoma $17,875 starting msrp 1 21/25 est. mpg 2 $31,670 as shown Explore Build
     *   Tundra $25,920 starting msrp 1 16/20 est. mpg 2 $38,845 as shown Explore Build
 3.  Crossovers &. SUVs
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
@@ -359,7 +359,7 @@ Resources
 *   Dealers
 *   Financial Tools
 *   Phone Compatibility &. Pairing
-*   Entune®
+*   Entune® App Suite
 *   Accessories
 *   Contact Us
 *   FAQs
