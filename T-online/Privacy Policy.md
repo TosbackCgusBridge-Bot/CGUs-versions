@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
+*   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
 *   Facebook: Erstmals Nutzerzahlen für Deutschland veröffentlicht
 *   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 *   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
-*   NSA gesteht Rechtsbruch im großen Stil ein
-*   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
 
 schließen schließen
 
+*   NSA gesteht Rechtsbruch im großen Stil ein
+*   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
 *   «Freiheit statt Angst» - Überwachungsgegner protestieren
 *   "Freiheit statt Angst": Überwachungsgegner protestieren
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
@@ -112,8 +114,6 @@ schließen schließen
 *   Landgericht entscheidet im Feuerwehrstreit
 *   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
 *   Polizei weist Generalverdacht des Datenmissbrauchs zurück
-*   Erneut ungesichertes Aktendepot entdeckt
-*   Bouffier hält Vorratsdatenspeicherung für unverzichtbar
 
 *   Kundencenter
 *   Preise und AGB
