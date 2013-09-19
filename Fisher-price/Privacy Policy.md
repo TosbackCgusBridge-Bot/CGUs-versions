@@ -3,12 +3,9 @@
 *   International
 *   En Español
 
-*   *   Find a Product
-    *   Babygear
-    *   Baby Toys
-    *   Special Offers
-    
-*   *   View More
+*   *   Age Baby-on-the-way Birth-6 months 6-12 months 12-24 months 2-3 years 3-4 years 4-5 years 5+ years
+    *   Brands View All >.
+    *   Category Babygear Baby Toys Battery Powered Ride-Ons Digital Play Dollhouses &. Dolls Learning Toys Playsets with Figures Sports &. Outdoor Toys Toy Cars, Trucks &. Vehicles Train Sets View All
     
 *   *   Gear, toys, and more essentials for baby
     
