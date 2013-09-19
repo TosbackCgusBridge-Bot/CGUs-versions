@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Next Episode - Trick or Treat Face Off - Next Episode - Trick or Treat
+Syfy Video Face Off - Next Episode - Living Art Face Off - Next Episode - Living Art
 
 Catch the next episode of Face Off, Tuesdays at 9/8c
 
-Face Off - Sneak Peek - Trick or Treat Face Off - Sneak Peek - Trick or Treat
+Face Off - Sneak Peek - Living Art Face Off - Sneak Peek - Living Art
 
-Contestants must reimagine iconic Halloween characters like the scarecrow, the devil and more.
+Catch the sneak peek for Face Off's next episode, Tuesdays at 9/8c
 
-Winner Tells All: Episode 5 - Anthony Winner Tells All: Episode 5 - Anthony
+Winner Tells All: Episode 6 - Rayce Winner Tells All: Episode 6 - Rayce
 
-Season 4 winner Anthony Kosar give you his thoughts on Season 5 Episode 3!
+Hear what past season 2 winner, Rayce Bird, has to say about the latest episode of Face Off.
 
-Mother Earth Goddess Morphs Mother Earth Goddess Morphs
+Trick or Treat Morphs Trick or Treat Morphs
 
-Check out the morphs from Mother Earth Goodness.
+Check out the morphs from Trick or Treat
 
 *   FAQ
 *   Feedback
