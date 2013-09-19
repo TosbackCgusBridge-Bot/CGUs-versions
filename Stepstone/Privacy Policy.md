@@ -40,7 +40,7 @@ Please note that the terms of use and privacy statements of such linked sites ma
 
 Attachments, Content
 
-Please ensure that you do not send us any attachments that contain worms or viruses. Personal details provided to StepStone AS should not contain:
+Please ensure that you do not send us any attachments that contain worms or viruses. Personal details provided to StepStone GmbH should not contain:
 
 *   Information on illnesses
 *   Information on pregnancy
@@ -50,11 +50,11 @@ Please ensure that you do not send us any attachments that contain worms or viru
 
 The information you send us must be accurate and must not infringe the rights of third parties, contravene official regulations or breach public policy ("Illegal Content"). Please note that you shall undertake to indemnify us against all claims made against us as a consequence of your failure to prevent Illegal Content appearing in any information you provide.
 
-Rights Reserved by StepStone AS
+Rights Reserved by StepStone GmbH
 
-StepStone AS does not warrant that the services offered on its web site are available at certain times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone AS.
+StepStone GmbH does not warrant that the services offered on its web site are available at certain times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone GmbH.
 
-Systematic backups of the servers are carried out regularly. In so far as you transfer data to StepStone AS- regardless of type - we recommend that you store safety backup copies of your data.
+Systematic backups of the servers are carried out regularly. In so far as you transfer data to StepStone GmbH- regardless of type - we recommend that you store safety backup copies of your data.
 
 We reserve the right to change, extend, limit or withdraw its services or to delete data without notice at any time. You have no right to claim publication.
 
@@ -62,7 +62,7 @@ Other
 
 You agree to use the Internet at your own risk. We have no liability for any down times on our web site caused by technical problems or access to the Internet.
 
-StepStone AS 's Privacy Statement will apply in addition to these Terms of Use. We reserve the right to amend these Terms of Use from time to time. The invalidity or incompleteness of any individual provision of these Terms of Use will not effect the validity of the remaining terms.
+StepStone GmbH 's Privacy Statement will apply in addition to these Terms of Use. We reserve the right to amend these Terms of Use from time to time. The invalidity or incompleteness of any individual provision of these Terms of Use will not effect the validity of the remaining terms.
 
 These Terms of Use replace all other terms of use previously applicable to the use of our web site.
 
@@ -98,11 +98,11 @@ Please note that JavaScript technology is used on our web sites.
 
 Interruption of services, withdrawal or changes of services, deletion of data
 
-StepStone AS does not guarantee or warrant that the services are available at specific times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone AS. Systematic backups of the servers are carried out regularly. In so far as data have been transferred to StepStone AS - regardless their form - we recommend that you create your own backup copies. StepStone AS reserves the right to delete a publication, without reason at any time without notice. The user has no right to claim publication. StepStone AS reserves the right to change, extend, limit or withdraw its services at any time. Therefore, StepStone AS shall not be liable for any deleted data or loss of data.
+StepStone GmbH does not guarantee or warrant that the services are available at specific times. Disturbances, interruptions or a possible breakdown of the online service cannot be excluded by StepStone GmbH. Systematic backups of the servers are carried out regularly. In so far as data have been transferred to StepStone GmbH - regardless their form - we recommend that you create your own backup copies. StepStone GmbH reserves the right to delete a publication, without reason at any time without notice. The user has no right to claim publication. StepStone GmbH reserves the right to change, extend, limit or withdraw its services at any time. Therefore, StepStone GmbH shall not be liable for any deleted data or loss of data.
 
 Links
 
-Our web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our visitors to be aware of this when they leave StepStone AS, and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Statement applies only to information collected on our web site.
+Our web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our visitors to be aware of this when they leave StepStone GmbH, and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Statement applies only to information collected on our web site.
 
 Privacy Statement changes
 
@@ -114,12 +114,16 @@ Miscellaneous
 
 If you should have any concerns or queries in relation to our Privacy Statement please contact us:
 
-StepStone AS, Head office Oslo  
-Thunes vei 2  
-0274 Oslo, Norway
+StepStone GmbH  
+Axel-Springer-Str. 65  
+10969 Berlin  
+Amtsgericht Charlottenburg, HRB 129324 B  
+UStID: DE249166292
 
-Tel: +47 2203 33 30  
-Fax: +47 22 03 33 60
+T +49 30 398 0620  
+F +49 30 398 09111
+
+**Managing Directors:** Ralf Baumann, Thorsten Otte
 
 E-mail : stepstone@stepstone.no
 
@@ -127,4 +131,4 @@ This Privacy Statement replaces all other privacy statements previously applicab
 
   
 sitemap | Press | Contact | Join StepStone  
-Copyright © 1996−2013 StepStone AS. All rights reserved. | Join StepStone | Terms of use | Privacy statement | sitemap
+Copyright © 1996−2013 StepStone GmbH. All rights reserved. | Join StepStone | Terms of use | Privacy statement | sitemap
