@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Ethan Hawke and others on favorite Shakespeare moments
+Search Help Bill Cunningham: Sunset
 
-Also in Theater »
+Also in Video »
 
-*   A guide to Shakespeare in the new season
-*   Costume sketches for some coming Shakespeare productions in New York
+*   Broccoli salad with hazelnut romesco
+*   Vows: Joe and Thos
 
   
 
