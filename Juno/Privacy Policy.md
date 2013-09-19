@@ -179,6 +179,8 @@ Digital Advertising Alliance: http://www.aboutads.info/choices
   
 Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp  
   
+JumpTap: https://opt.jumptap.com/optout/opt  
+  
   
   
   
