@@ -22,7 +22,7 @@ This Trademark/Copyright Infringement policy specifically excludes domain name d
 
 **A. Trademark Claims**
 
-1\. If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office or, for foreign marks, registered with the appropriate intellectual property organization of your country. state registrations are not considered valid for these purposes), Go Daddy requests that the Complaining Party substantiate such claim by either: (i) filling out the form available here, or (ii) providing the following information via email to TrademarkClaims@godaddy.com.  The words "Trademark Claim" should appear in the subject line.
+1\. If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country. state registrations and registrations on the Supplemental Register are not considered valid for these purposes), Go Daddy requests that the Complaining Party substantiate such claim by either: (i) filling out the form available here, or (ii) providing the following information via email to TrademarkClaims@godaddy.com.  The words "Trademark Claim" should appear in the subject line.
 
 To be considered effective, a notification of a claimed trademark violation must include the following information:
 
