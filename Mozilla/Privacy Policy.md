@@ -80,7 +80,7 @@ Mozilla uses the information provided by cookies and clear gifs to develop a bet
 
 Opt-out Procedures
 
-If you do not want to allow your session visitation information on the Mozilla websites to be aggregated and analyzed by Mozilla (or its third-party analytics providers) you may utilize the following opt-out mechanisms listed here. Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from Mozilla, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
+If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on. The add-on keeps your visits anonymous and prohibits any data from being sent to Google Analytics. Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from Mozilla, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
 
 Mozilla Ads
 
