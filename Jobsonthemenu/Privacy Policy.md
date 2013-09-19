@@ -158,3 +158,34 @@ We do not knowingly collect or solicit information from anyone under the age of 
 You can direct questions regarding this Privacy Policy to CareerBuilder by emailing us at customer.service@careerbuilder.com or by letter to CareerBuilder at 5550-A Peachtree Parkway, Norcross, Georgia 30092, Attention: Customer Service. Please include your name and email address in email requests, and your name and postal address in mail requests.
 
 (Return to Top)
+
+Join Our Talent Network Stay Connected.  Why?
+
+*   Home
+*   Featured Jobs
+    *   Server
+    *   Host/Hostess
+    *   Chef
+    *   Restaurant Manager
+*   Featured Companies
+    *   Red Robin
+*   All Jobs
+
+Join
+
+*   Join Our Talent Network
+
+Navigation
+
+*   Home
+*   Contact Us
+*   All Jobs
+*   Privacy Policy
+*   Terms &. Conditions
+
+Terms
+
+*   Privacy Policy
+*   Terms and Conditions
+
+This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
