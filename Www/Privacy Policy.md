@@ -181,6 +181,7 @@ We will revise or update this policy if our practices change, or as we develop b
         *   @LaCasaBlanca
         *   @LetsMove  
         *   @Macon44
+        *   @Maley44
         *   @NSCPress
         *   @PAniskoff44
         *   @PeteSouza
@@ -284,6 +285,6 @@ We will revise or update this policy if our practices change, or as we develop b
     
 7.  Updates to this privacy policy
 
-Updated: September 12, 2013
+Updated: September 19, 2013
 
 Previous version(s) of this policy may be accessed on the archive page.
