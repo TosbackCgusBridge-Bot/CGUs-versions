@@ -88,6 +88,8 @@ Explore HSBC.com
         
     *   Fixed income securities
         
+    *   Regulatory capital securities
+        
     *   Governance
         *   Board committees
         *   Corporate governance codes
@@ -165,6 +167,7 @@ Investor relations
 *   Events and presentations
 *   Stock exchange announcements
 *   Fixed income securities
+*   Regulatory capital securities
 *   Governance
 *   Investor resources
 
