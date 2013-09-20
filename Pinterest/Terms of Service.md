@@ -104,7 +104,7 @@ Unfortunately, people post bad stuff on user-generated content sites like Pinter
 
 9\. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, PINTEREST SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PRODUCTS. (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE PRODUCTS, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES. OR (C) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. IN NO EVENT SHALL PINTEREST'S AGGREGATE LIABILITY EXCEED ONE HUNDRED U.S. DOLLARS (U.S. $100.00).
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, PINTEREST SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PRODUCTS. (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE PRODUCTS, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES. OR (C) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. IN NO EVENT SHALL PINTEREST'S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE PRODUCTS EXCEED ONE HUNDRED U.S. DOLLARS (U.S. $100.00).
 
 More simply put:
 
@@ -116,7 +116,7 @@ For any dispute you have with Pinterest, you agree to first contact us and attem
 
 11\. Governing Law and Jurisdiction
 
-These Terms shall be governed by the laws of the State of California, without respect to its conflict of laws principles. We each agree to submit to the personal jurisdiction of a state court located in Santa Clara County, California or the United States District Court for the Northern District of California, for any actions not subject to Section 10 (Arbitration).
+These Terms shall be governed by the laws of the State of California, without respect to its conflict of laws principles. We each agree to submit to the personal jurisdiction of a state court located in San Francisco County, California or the United States District Court for the Northern District of California, for any actions not subject to Section 10 (Arbitration).
 
 Our Products are controlled and operated from the United States, and we make no representations that they are appropriate or available for use in other locations.
 
