@@ -46,9 +46,9 @@ Zynga Play now!
 *   about
     *   Our Story
     *   About Zynga
-    *   Leadership Team
     *   Board of Directors
     *   Investors
+    *   Leadership Team
 
 Follow @zynga
 
@@ -405,9 +405,9 @@ Careers
 About
 
 *   About Zynga
-*   Leadership Team
 *   Board of Directors
 *   Investors
+*   Leadership Team
 
 More
 
