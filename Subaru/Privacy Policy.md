@@ -216,13 +216,13 @@ Log Into MySubaru | Help |
         
     *   Tribeca
         
-        Starting at **$32,595**
+        Starting at **$34,095**
         
-        2013 Tribeca
+        2014 Tribeca
         
         Starting at
         
-        $32,595
+        $34,095
         
         MSRP\*
         
