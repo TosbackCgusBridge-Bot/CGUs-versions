@@ -100,7 +100,7 @@ To update your Wish List privacy settings, you may select "Private" (not searcha
 We respect your need to be able to access and update the personal information that you have provided to us. If you have registered online, you may access and update your personal information at any time by logging into your account. You may also request access and update your personal information by e-mail or writing to the Nordstrom Privacy Office at the contact information set out below (subject to certain exceptions and as prescribed by law). We may request certain personal information to verify the identity of the individual seeking access to their personal information records.
 
 **California Privacy Rights**  
-California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates (such as Nordstrom Bank, HauteLook, and treasure&bond) for those entities direct marketing purposes. Nordstrom does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Nordstrom privacy practices, please contact us at privacy@nordstrom.com.
+California law entitles residents to ask us for a notice describing what categories of personal information we share with third parties or with corporate affiliates (such as Nordstrom Bank, and HauteLook) for those entities direct marketing purposes. Nordstrom does not provide any personal information to third parties for their own direct marketing purposes. If you want to request a notice or have any questions about Nordstrom privacy practices, please contact us at privacy@nordstrom.com.
 
 **Children's Privacy**  
 Nordstrom will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If you are under 13 years old please do not provide your information on our website.
@@ -156,6 +156,9 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Nordstrom comm
 
 Nordstrom has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Nordstrom, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
+**In-Store Prosthesis Privacy Policy**  
+To access the Nordstrom In-Store Prosthesis Privacy Policy click here.
+
 **Canada Privacy Policy**  
 To access the Nordstrom Canada Privacy Policy click here.
 
@@ -187,4 +190,4 @@ membercare@hautelook.com
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
 
-_5/15/2013_
+_9/20/2013_
