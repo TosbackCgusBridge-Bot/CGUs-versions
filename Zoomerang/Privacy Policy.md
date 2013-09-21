@@ -139,7 +139,7 @@ Support
     *   Press Releases
     *   Support
 
-Copyright © 2012 MarketTools, a MetrixLab Company. All rights reserved.
+Copyright © 2013 MarketTools, a MetrixLab Company. All rights reserved.
 
 *   Sitemap
 *   Customer Support
