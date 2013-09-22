@@ -67,8 +67,9 @@ Job Seeker Services
 *   Restaurant Jobs
 *   Healthcare Jobs
 *   Teacher Jobs
-*   Oil Jobs
+*   Oil and Gas Jobs
 *   Mining Jobs
+*   Utility Jobs
 
 Employers
 
