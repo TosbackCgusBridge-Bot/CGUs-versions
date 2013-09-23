@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Zachary Quinto: A playwright's home, an actor's muse
+Search Help Pogue reviews the iPhone 5S
 
-Also in Fashion »
+Also in Video »
 
-*   A groomer polishes the looks of male celebrities
-*   Swaddle blankets: Baby's own fashion statement
+*   The sailors and their flying machines
+*   56 ways of saying I don't remember
 
   
 
