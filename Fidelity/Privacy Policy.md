@@ -59,9 +59,10 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Fixed Income &. Bonds
     *   ETFs
     *   Options
+    *   Sector Investing
     *   Cash Management
     *   Managed Accounts
-    *   529 College
+    *   529 College Savings
     *   Annuities
     *   Life Insurance
 
