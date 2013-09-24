@@ -89,6 +89,7 @@ Get more conversions on your dating site  Home
  Lisa's Blog  
  Webmasters  
  Advertising  
+ Rates  
  Terms of Service  
  Privacy Policy  
  Dating Alliance  
