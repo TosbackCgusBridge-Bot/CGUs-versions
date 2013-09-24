@@ -2,22 +2,10 @@ Rachael Ray
 
 *   Food
     *   Food Home
-    *   Blog
-    *   Food Articles
-    *   Recipes On the Go!
-    *   Recipe Search
-    *   Pinterest Pins
-    *   Brunch
-    *   Grill Guide
-    *   Healthy Snacks &. Lunches
-    *   Quick &. Easy
-    *   Easy Weeknight Meals
-    *   Salads
     *   In Season Now
-    *   Breakfast Guide
-    *   Cookware
-    *   Cutlery
-    *   Rachael Ray Store
+    *   Recipes On the Go!
+    *   Quick &. Easy
+    *   Grill Guide
 *   Recipes
     *   Rachael Ray's Recipes
     *   Recipe Search
@@ -25,72 +13,25 @@ Rachael Ray
     *   Weekly Round-Up
     *   Budget Meals
     *   Recipe Collections
-    *   Lactose Free Guide
-*   Home & Away
-    *   Travel Home
-    *   Travel Blog
-    *   Travel Articles
+*   Home &. Family
+    *   Home &. Family Home
     *   Easy Entertaining
-    *   Feedback
-    *   Travel Tote Bags
-    *   Evette Rios
-    *   The Cleaning Lady
-*   Kids
-    *   Kids Home
-    *   Kids Blog
-    *   Healthy Snacks &. Lunches
-    *   Quick &. Easy
-    *   Mom Talk
-    *   Back to School
-    *   Plan B Mom
-    *   Kids Articles
+    *   Travel
+    *   Kids &. Parenting
     *   Yum-o!
-    *   Yum-o! Recipes
-    *   Yum-o! Kitchen Tools
-    *   Wellness Guide
-    *   Apron Strings
 *   Pets
     *   Pets Home
+    *   Recipes for Pets
     *   Rachael's Rescue
-    *   Pet Lovers Blog
     *   Nutrish for Pets
-    *   Pooch Fave Recipes
-*   Rach
-    *   Rach Home
-    *   Rach in Tuscany
-    *   My Year in Meals
-    *   The Book of Burger
-    *   Look + Cook
 *   Shop
     *   Rachael Ray Products
     *   Common Questions
-*   Videos
-*   Blogs
-    *   Blogs Home
-    *   The Accidental Housewife
-    *   Cheryl
-    *   Christina
-    *   The Cleaning Lady
-    *   Evette
-    *   How to cook like an Italian
-    *   J.M. Hirsch
-    *   Josh Ozersky
-    *   Last minute lady
-    *   Louisa Shafia
-    *   Maria Betar
-    *   On Kappys Plate
-    *   Patrick Decker
-    *   Pet Lovers
-    *   Plan B Mom
-    *   Questions for the Cook
-    *   Rach
-    *   Rodney Cutler
-    *   Saira
+*   About
+    *   About RachaelRay.com
+    *   About Rachael Ray
 
-*   Email Newsletters
-*   Yum-o! charity
-
-Follow RachFacebook Twitter Privacy Policy
+Privacy Policy
 
 _**Last modified on March 13, 2008  
 **_
@@ -171,7 +112,13 @@ This Privacy Policy shall be governed by the laws of the State of New York, with
   
 ™ and © 2007 - 2011 Rachael Ray Digital LLC.  All rights reserved. 
 
-Tweet Advertisement Quick Links
+Connect With Us! Like RachaelRay.com on Facebook Follow @rachael\_ray RachaelRay.com on Pinterest Sign up for our Newsletter Follow @rachael\_ray Sign up for our newsletters \* indicates required First Name \* Email Address \* **Email Format**
+
+*   html
+*   text
+*   mobile
+
+Advertisement Quick Links
 
 *   Rachael Ray's Bio
 *   Rachael's Recipes
@@ -179,7 +126,6 @@ Tweet Advertisement Quick Links
 *   Rachael's Products
 *   Rach's Rescue
 *   About Us
-*   Advertise with Us
 *   Yum-o! Charity
 *   Facebook
 *   Twitter
@@ -205,22 +151,19 @@ Food
 
 *   Recipe search
 *   Newest recipes
-*   Food Blog
 *   Rachael Ray recipes
 *   Weekly Round-Up
 
-Features on rr.com
+Features
 
 *   Healthy Snacks and Lunch
 *   Back to School
 *   Budget Meals
-*   Weekly Round Up
 *   Newsletter Sign Ups
 
 Products
 
 *   Cookware
-*   Cutlery
 *   EVOO, Stock and Vinegar
 *   Food Totes and Lunch bags
 *   Bakeware
@@ -235,6 +178,6 @@ Partner Sites
 *   Nutrish for Pets
 *   Rachael Ray Store
 
-Site Map • About Us • FAQ • Advertise • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
+Site Map • About Us • FAQ • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
 Visit us at: Facebook Twitter  
 ™ and © 2007 - 2013 Rachael Ray Digital LLC
