@@ -6,6 +6,8 @@ We are committed to providing a fun, entertaining, and safe website for people o
 
 To help ensure a rewarding online experience for our visitors, we provide you with this Privacy Policy that describes the information practices of the Club Penguin website (www.clubpenguin.com), including how we collect, use and disclose personal information.
 
+  
+
 1.  The Information We Collect
     
     We require consent from a parent when a child wants to register.  As described in this Privacy Policy, we directly collect from child users during our initial registration process a parent's email address, the child's account name, and the child's password. When a Club Penguin child registrant acquires a paid membership, we may collect additional personally identifiable information ("PII") from the registrant's parent. The types of PII that may be collected at that time include the parent's full name, email address, and credit card (or other payment method) billing information including mailing address. The Club Penguin website does not condition a child's participation in an online activity on the child providing more personal information than is reasonably necessary for that activity.
