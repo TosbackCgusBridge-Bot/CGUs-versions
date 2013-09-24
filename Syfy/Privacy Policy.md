@@ -251,11 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Next Episode - Living Art Face Off - Next Episode - Living Art
-
-Catch the next episode of Face Off, Tuesdays at 9/8c
-
-Face Off - Sneak Peek - Living Art Face Off - Sneak Peek - Living Art
+Syfy Video Face Off - Sneak Peek - Living Art Face Off - Sneak Peek - Living Art
 
 Catch the sneak peek for Face Off's next episode, Tuesdays at 9/8c
 
@@ -266,6 +262,10 @@ Hear what past season 2 winner, Rayce Bird, has to say about the latest episode 
 Trick or Treat Morphs Trick or Treat Morphs
 
 Check out the morphs from Trick or Treat
+
+Best Costumes - Planet Comicon - Part 2 Best Costumes - Planet Comicon - Part 2
+
+See the best of the costumes from Planet Comicon!
 
 *   FAQ
 *   Feedback
