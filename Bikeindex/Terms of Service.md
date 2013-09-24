@@ -72,4 +72,4 @@ Section E: General Conditions
     
 11.  The failure of Bike Index to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and GitHub and govern your use of the Service, superseding any prior agreements between you and Bike Index (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under Illinois law.
     
-12.  Questions about the Terms of Service should be sent to contact@bikeindex.org.
+12.  Questions about the Terms of Service should be sent to \[email protected\].
