@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Urteil: LKA muss genetischen Fingerabdruck löschen
+*   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
+*   Gericht prüft Speicherung von genetischem Fingerabdruck
 *   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
 *   Facebook-Like fällt in USA unter Recht auf Meinungsfreiheit
 *   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
 *   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
 *   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
-*   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
-*   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
-*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 
 schließen schließen
 
+*   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
+*   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
+*   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   NSA gesteht Rechtsbruch im großen Stil ein
 *   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
@@ -111,9 +114,6 @@ schließen schließen
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren
 *   EU-Kommissarin: Europa ist beim Datenschutz "zahnloser Tiger"
-*   Snowden-Dokumente: NSA knackt Verschlüsselung im Internet
-*   Landgericht entscheidet im Feuerwehrstreit
-*   Innenministerium verweigert laut Schaar Auskunft in Spähaffäre
 
 *   Kundencenter
 *   Preise und AGB
