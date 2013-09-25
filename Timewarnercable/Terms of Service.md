@@ -43,7 +43,11 @@ FOLLOW US
 *   Legal
 *   Privacy Policy
 
-Website Privacy Policy Back to About Us SHARE
+Website Privacy Policy
+
+  
+
+Back to About Us SHARE
 
 *   Twitter
 *   Facebook
