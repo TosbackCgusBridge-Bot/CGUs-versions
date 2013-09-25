@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Living up to the Willy Wonka legacy
+Search Help Remote controls, without the AAA batteries
 
-Also in Video »
+Also in Tech »
 
-*   Anatomy of a Scene: "Prisoners"
-*   56 ways of saying I don't remember
+*   The human behind a favorite spambot, Horse\_eBooks
+*   Twitter adds CBS to its stable of big advertising partners
 
   
 
