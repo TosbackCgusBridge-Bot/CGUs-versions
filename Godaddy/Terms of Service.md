@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: September 15, 2013**
+**Last Revised: September 24, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -193,7 +193,7 @@ You agree to protect, defend, indemnify and hold harmless Go Daddy and its offic
 
 ****17**. FEES AND PAYMENTS**
 
-You acknowledge and agree that your Payment Method may be charged by one of our affiliated entities, Go Daddy Domains Canada, Inc., Go Daddy India Domains and Hosting Services Pvt Ltd, or Go Daddy Europe, Ltd. 
+You acknowledge and agree that your Payment Method may be charged by one of our affiliated entities, Go Daddy Domains Canada, Inc., Go Daddy India Domains and Hosting Services Pvt Ltd, or Go Daddy Europe, Ltd. If, during your purchase, your payment was identified as being processed in the United States, your transaction will be processed by GoDaddy.com, LLC, 14455 N. Hayden Rd., Scottsdale, AZ 85260. if your payment was identified as being processed in Canada, your transaction will be processed by Go Daddy Domains Canada, Inc., 2900-550 Burrard Street, Vancouver, BC V6C 043. if your payment was identified as being processed in the United Kingdom, your transaction will be processed by Go Daddy Europe, Ltd., 5 New Street Square, London EC4A3TW. if your payment was identified as being processed in India, your transaction will be processed by Go Daddy India Domains and Hosting Services India Pvt Ltd, Flat 101, Sai Krishna Enclave, 6-1-132/99, Plot No. 99, Skanagiri, Padmaraonagar 50061. 
 
 **_(A) GENERAL TERMS, INCLUDING AUTOMATIC RENEWAL TERMS_**
 
@@ -760,5 +760,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 9/15/2013  
+Revised: 9/24/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
