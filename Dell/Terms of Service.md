@@ -41,7 +41,7 @@ Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contra
 
 Service Contracts
 
-In-Home Printer Service After Remote Diagnosis Dell In-Home Service After Remote Diagnosis (Availability varies. Consult your invoice to determine if you purchased this agreement.) Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After Remote Diagnosis, Parts Only and Advance Exchange) View More Warranties
+Service Contracts for Consumer Customers In-Home Printer Service After Remote Diagnosis Dell In-Home Service After Remote Diagnosis (Availability varies. Consult your invoice to determine if you purchased this agreement.) View More Warranties
 
 Warranties
 
