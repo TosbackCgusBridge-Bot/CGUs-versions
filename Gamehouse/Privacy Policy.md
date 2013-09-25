@@ -2,7 +2,7 @@ Privacy Policy
 
 **REALNETWORKS, INC., AND AFFILIATED ENTITIES**
 
-_This document was last updated Dec 11, 2012._
+_This document was last updated September 25, 2013._
 
 This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and worldwide subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse and Zylom (collectively "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, services and websites.
 
@@ -57,6 +57,8 @@ HOW DO WE USE YOUR NON-PERSONAL INFORMATION?
   
 *   Better understand how our products are used.
 
+We also may share or disclose your personal information or the content of files you upload using RealNetworks’ products or services to comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
+
 **THIRD PARTY ADVERTISING – GENERAL  
 **We allow third-party advertising companies to serve ads when you visit our websites or interact with our products or services. These companies use non-personal information about your visits in order to provide advertisements of interest to you.
 
@@ -100,7 +102,7 @@ HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
 
 To access your account information and preferences, select "Manage My Account" from the menus in the RealPlayer (usually under the "Help" menu) or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
 
-If you created an account with RealNetworks, you may review and update your account on the web at www.real.com or by selecting "My Account," and logging in using your name and password. If you have forgotten a username or password, you can use our online help resources or contact customer service at: (866) 834-5509 Monday - Friday, 8 am - 5 PM Pacific Time.
+If you created an account with RealNetworks, you may review and update your account on the web at www.real.com or by selecting "My Account," and logging in using your name and password. If you have forgotten a username or password, you can use our online help resources or contact customer service at: 1-866-420-5780 Monday - Friday, 8 am - 5 PM Pacific Time.
 
 USE OF COOKIES
 
