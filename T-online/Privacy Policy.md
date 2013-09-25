@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Opposition will Filmen von Demos per Klage kippen
+*   Facebook in China: Shanghai bekommt Zugang zu sozialem Netzwerk
 *   Urteil: LKA muss genetischen Fingerabdruck löschen
 *   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
 *   Gericht prüft Speicherung von genetischem Fingerabdruck
 *   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
-*   Facebook-Like fällt in USA unter Recht auf Meinungsfreiheit
 *   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
 *   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
-*   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
 
 schließen schließen
 
+*   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 *   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
@@ -113,7 +114,6 @@ schließen schließen
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 *   Überwachungsgegner protestieren
-*   EU-Kommissarin: Europa ist beim Datenschutz "zahnloser Tiger"
 
 *   Kundencenter
 *   Preise und AGB
