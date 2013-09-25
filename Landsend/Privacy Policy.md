@@ -91,20 +91,25 @@ Enter Keyword or Item # Search
         *   Tall
     *   Plus Size Clothing
     *   Petite Clothing
+    *   New Arrivals
     *   Sale
 *   Men
     
-    *   Dress Shirts
+    *   Outerwear
         *   Regular
         *   Tall
         *   Big
-        *   Big and Tall
     *   Polos, T-shirts &. Turtlenecks
         *   Regular
         *   Tall
         *   Big
         *   Big and Tall
-    *   Casual Buttondown Shirts
+    *   Dress Shirts
+        *   Regular
+        *   Tall
+        *   Big
+        *   Big and Tall
+    *   Casual Button-down Shirts
         *   Regular
         *   Tall
         *   Big
@@ -124,15 +129,18 @@ Enter Keyword or Item # Search
         *   Tall
         *   Big
         *   Short
-    *   Ties
-    *   Shoes
-        *   Regular
-        *   Wide
     *   Sleepwear
         *   Regular
         *   Tall
         *   Big
         *   Big and Tall
+    *   Shoes
+        *   Regular
+        *   Wide
+    *   Ties
+    *   Belts &. Accessories
+    *   Socks &. Underwear
+    *   Hats, Gloves &. Scarves
     *   Shorts
         *   Regular
         *   Tall
@@ -141,23 +149,24 @@ Enter Keyword or Item # Search
         *   Regular
         *   Big
         *   Big and Tall
-    *   Outerwear
-        *   Regular
-        *   Tall
-        *   Big
-    *   Hats, Gloves &. Scarves
-    *   Socks &. Underwear
-    *   Belts &. Accessories
     *   Activewear
         *   Regular
         *   Tall
         *   Big
+    *   New Arrivals
     *   Sale
 *   Kids
     
     *   Girls
-        *   Backpacks &. Lunch Boxes
+        *   Outerwear
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
         *   Tops
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
+        *   Sweaters &. Cardigans
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
@@ -174,7 +183,7 @@ Enter Keyword or Item # Search
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   Sweaters &. Cardigans
+        *   Shorts
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
@@ -182,19 +191,18 @@ Enter Keyword or Item # Search
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   Shorts
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Outerwear
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Hats, Gloves &. Scarves
+        *   Sleepwear
+            *   Big Kid (7-20)
+            *   Little Kid/Big Kid
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
+            *   Infant/Toddler
         *   Swim
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
+        *   Backpacks &. Lunch Boxes
         *   Tights, Socks &. Underwear
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
@@ -205,50 +213,51 @@ Enter Keyword or Item # Search
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
             *   Infant/Toddler
-        *   Sleepwear
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-            *   Infant/Toddler
         *   Shoes
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
         *   School Uniforms
+        *   New Arrivals
         *   Sale
     
     *   Boys
-        *   Backpacks &. Lunch Boxes
+        *   Outerwear
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
         *   Tops
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Pants
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Shorts
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
         *   Sweaters
             *   Big Kid (7-20)
             *   Little Kid (4-7)
+        *   Pants
+            *   Big Kid (7-20)
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
         *   Blazers &. Jackets
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   Outerwear
+        *   Hats, Gloves &. Scarves
+        *   Sleepwear
+            *   Big Kid (7-20)
+            *   Little Kid/Big Kid
+            *   Little Kid (4-7)
+            *   Toddler (2T-4T)
+            *   Infant/Toddler
+        *   Shorts
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   Hats, Gloves &. Scarves
         *   Swim
             *   Big Kid (7-20)
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
+        *   Backpacks &. Lunch Boxes
         *   Ties &. Accessories
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
@@ -259,18 +268,13 @@ Enter Keyword or Item # Search
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
-        *   Sleepwear
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-            *   Infant/Toddler
         *   Shoes
             *   Big Kid (7-20)
             *   Little Kid/Big Kid
             *   Little Kid (4-7)
             *   Toddler (2T-4T)
         *   School Uniforms
+        *   New Arrivals
         *   Sale
 *   Swim
     
@@ -361,15 +365,15 @@ Enter Keyword or Item # Search
     *   Home
         *   Bedding
         *   Bath
-        *   Beach Towels
         *   Throws &. Home Décor
         *   Storage &. Organization
-        *   Backpacks, Luggage &. Bags
         *   Seasonal Décor &. Gifts
+        *   Backpacks, Luggage &. Bags
+        *   Beach Towels
         *   Outdoor Living
-        *   Furniture
         *   Kids Home
         *   Dog Shop
+        *   New Arrivals
         *   Sale
     
     *   Luggage
