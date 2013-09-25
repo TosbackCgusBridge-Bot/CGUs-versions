@@ -84,6 +84,10 @@ The avast! Forum is accessible from the "Community" pages or "Support" section o
 *   Once registered for **avast! Forum** you may control your privacy settings by visiting your "Profile" page. You can modify your settings at any time. You can also view your past posts, usage stats, password settings, and user profile as seen by others. You have the option to provide additional information if you wish. You may provide personal text. disclose your birth date and age. identify your gender, ICQ number, messenger username, or website name and address. disclose your physical location. and select an avatar or personalized picture. Any information you provide here will be visible to other users. The following minimum items of information will be available to all users, regardless of your profile settings: your username, your total number of posts and posts per day, the date and time you registered, your local time, and the date and time of your last activity.
     
 
+Jumpshot user forum.
+
+The posts on the Jumpshot user forum (https://jumpshot.uservoice.com) are accessible solely via your existing Jumpshot Account. Before submitting a post you should ensure that you did not enter any personal data. Search engines can and do collect information from the discussion forums and can publish it even if the information has been deleted from our servers. Deletion or correction of such postings held in a cache by third parties such as search engines is not always possible.
+
 Support Portal.
 
 You may also join the **Support Portal** at support.avast.com. Certain features require registration in order to participate. Registration for the Support Portal is separate from registration for avast! Forum. When you register for the Support Portal you will be asked to provide your full name and email address, and select a password. No other information is required to register. This information is not shared with other users.
@@ -91,6 +95,10 @@ You may also join the **Support Portal** at support.avast.com. Certain features 
 avast! Account.
 
 **avast! Account** (my.avast.com) is a tool which permits you to register multiple products using a single registration and authentication system. If you choose to use **avast! Account** you will be asked to provide your first name, last name, and email address. You will also be asked to select a password. We may use this information for purposes of validating your license, providing support, delivering additional products and services, and enabling you to change your **avast! Account** and/or product settings.
+
+Jumpshot Account.
+
+**Jumpshot Account** is a tool that permits you to register your personal details when you use Jumpshot.
 
 Third-party content and sites.
 
@@ -146,10 +154,12 @@ Some of our product offerings are required to collect additional personal inform
     
 *   avast! EasyPass: **avast! EasyPass** is a program that stores user passwords under a single master password and permits the user to log on to multiple sites using a unitary sign-on credential. Passwords are stored on user PCs by the **avast! EasyPass** application. Passwords may be backed up on a remote server, and certain other identifying information may also be stored remotely. The **avast! EasyPass** service is provided by a third party under contract with Avast, and the privacy policy, terms of service, and end user license agreement (EULA) of the third party apply to any information that users provide in connection with the **avast! EasyPass** service.
     
+*   Jumpshot: **Jumpshot** is a bootable Linux-based antivirus program that removes tough malware. In order to use it, the following information must be stored: (a) your name, surname, email address, password hash, originating IP address, display name and number of scanned systems. (b) scanned systems history including data about operating system, hostnames and usernames of the systems, patch level, system health, hardware information (including CPU), graphics card information, hard drive information, system hard drive boot sectors, system´s hard drive volume headers. (c) system data information- list of computer software installed, directory listing of software, registry name and entries, registry hives and executables. (d) wifi connection security information, i.e. the used level of the connection´s encryption.
+    
 *   Other products: There may be other products (current or future) that require that we collect certain types of personal information in order to enable full product functionality. We will always inform you prior to collecting any such information, usually in the terms of service or end user license agreement (EULA) applicable to the product in question.
     
 
-The information described above, when collected by the Avast software, is generally not correlated with any other personal information related to you that Avast may be processing, such as information provided during the process of ordering and downloading the software. Unless you have permitted otherwise, the information collected by the Avast software is used anonymously in aggregation with similar information from other users of the software for analytical purposes to identify new viruses and threats, for improvement and development of the software, and for statistical purposes.
+The information described above, when collected by the Avast software, is generally not correlated with any other personal information related to you that Avast may be processing, such as information provided during the process of ordering and downloading the software. AVAST reserves the right to use the information collected by the Avast software anonymously in aggregation with similar information from other users of the software for any purpose whatsoever including their use for analytical purposes to identify new viruses and threats, for improvement and development of the software and AVAST’s other future products and services, and for statistical purposes.
 
 In-product messaging.
 
@@ -280,7 +290,7 @@ We make every effort to conduct our business in a fair and responsible manner. I
     
     *   (1) You can always reach us by email at customerservice@avast.com. Please type “PRIVACY REQUEST” in the message line of your email so we can have the appropriate member of the Avast team respond.
     *   (2) If you prefer, you can send paper mail to AVAST Software, Budejovicka 1518/13A, 140 00 Praha 4, Czech Republic. Be sure to write "Attention: Privacy" in the address so we know where to direct your correspondence.
-*   For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm.
+*   For residents of the European Union and Switzerland: If you live in the EU or Switzerland and you have a dispute regarding our handling of your personal data, you may contact the Data Protection Authority(ies) in your jurisdiction. Information on Data Protection Authorities in Europe can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index\_en.htm.
     
 *   For residents of the United States: If you live in the U.S. and you have a dispute regarding our handling of your personal data, you may contact the FTC for information. See http://www.ftc.gov/bcp/index.shtml. You may also contact the attorney general of the state where you live.
     
