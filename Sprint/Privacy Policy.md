@@ -1,11 +1,11 @@
-Effective date: October 1, 2012
+Last updated: September 3, 2013
 
-IMPORTANT NOTICE: Our privacy policy has been updated to reflect that Sprint will be introducing two new programs: 1) Mobile Advertising – to make the mobile ads you see on your device more relevant to you (You must opt in to this program) and 2) Reporting &. Analytics – to create and share certain business and marketing reports (You may opt out of this program.). We will not share any information that identifies you personally under either of these new programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.  
+IMPORTANT NOTICE: Sprint's opt-in Mobile Advertising program, which makes the mobile ads you see on your device more relevant to you, and Sprint's opt-out Reporting and Analytics program, which creates and shares certain business and marketing reports, are governed by this privacy policy. We do not share any information that identifies you personally under either of these programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.  
 (En Español)
 
-Sprint Nextel Privacy Policy
+Sprint Corporation Privacy Policy
 
-This Privacy Policy ("Policy") describes how Sprint Nextel ("Sprint") will collect, access, use or disclose your personal information. It applies to all of our products, services, and web sites ("Services"). A few of our Services are covered by different privacy policies and in the event of a conflict between the two, the product or service specific policy governs. For example, we may have a separate policy or agreement for certain products, services or brands. Our collection, access, use, disclosure and safeguarding of your personal information is subject to U.S. law.
+This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will collect, access, use or disclose your personal information. It applies to all of our products, services, and web sites ("Services"). A few of our Services are covered by different privacy policies and in the event of a conflict between the two, the product or service specific policy governs. For example, we may have a separate policy or agreement for certain products, services or brands. Our collection, access, use, disclosure and safeguarding of your personal information is subject to U.S. law.
 
 *   INFORMATION COLLECTED
 *   USE OF PERSONAL INFORMATION
@@ -38,7 +38,7 @@ We use your personal information for a variety of purposes, including providing 
 *   Anonymize or aggregate personal information for various purposes like market analysis or traffic flow analysis and reporting.
 *   Monitor, evaluate or improve our products, Services, systems, or networks.
 *   Customize or personalize your experience with our Services.
-*   Customize or personalize online advertising to bring you information about products and services of Sprint Nextel or others that may interest you, including co-branded offers.
+*   Customize or personalize online advertising to bring you information about products and services of Sprint or others that may interest you, including co-branded offers.
 
 Back to top
 
@@ -83,7 +83,9 @@ INFORMATION CHOICES AND CHANGES
 
 We offer you choices regarding how we contact you for marketing-related communications and whether we use information regarding your online or mobile web activities for marketing purposes. We also offer you choices regarding the use of de-identified information to make ads you see on your mobile device more relevant and to produce or facilitate production of business and marketing reports shared with third parties. Visit sprint.com/privacy to learn about your choices and how to register your privacy preferences with us.
 
-You also may register a do-not-contact request by calling Sprint customer care or sending an email to officeofprivacy@sprint.com. If you register a do-not-contact request, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your accounts or our ongoing business relations. If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Sprint account information, you may create an online account and manage your account online. For more information, visit www.sprint.com.
+You also may register a do-not-contact request by calling Sprint customer care or sending an email to officeofprivacy@sprint.com. If you register a do-not-contact request, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your accounts or our ongoing business relations. For details on Sprint’s do-not-contact practices, including how we honor consumer and business customer do-not-contact requests, please visit sprint.com/privacy.
+
+If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Sprint account information, you may create an online account and manage your account online. For more information, visit www.sprint.com.
 
 Back to top
 
@@ -107,6 +109,6 @@ Back to top
 
 INTERNATIONAL DATA PRIVACY POLICY
 
-Our International Data Privacy Policy informs you about our practices and policies regarding the collection, use, disclosure, transfer, storage, and processing of personal information in connection with Services offered by Sprint, its subsidiaries, affiliates, and agents (collectively "Sprint "). This policy applies to any personal information collected by Sprint business units outside the U.S..
+Our International Data Privacy Policy informs you about our practices and policies regarding the collection, use, disclosure, transfer, storage, and processing of personal information collected outside the United States in connection with Services offered by Sprint, its subsidiaries, affiliates, and agents.
 
 Back to top
