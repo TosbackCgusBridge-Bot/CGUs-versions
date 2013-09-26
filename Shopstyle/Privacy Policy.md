@@ -87,11 +87,11 @@ We at POPSUGAR Inc. (“POPSUGAR,” “we,” “us,” “our”) know that ou
     *   You may be able to add, update, or delete information as explained in Section 10 above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at community@popsugar.com. Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 12.  CHANGES TO THIS PRIVACY POLICY
     
-    We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.
+    We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website, updating the Effective Date of this Privacy Policy, or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.
     
 13.  QUESTIONS OR CONCERNS
     
     If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street, San Francisco, California, 94104, ATTN: POPSUGAR Inc. We will make every effort to resolve your concerns.
     
 
-Effective Date: September 17, 2013
+Effective Date: September 25, 2013
