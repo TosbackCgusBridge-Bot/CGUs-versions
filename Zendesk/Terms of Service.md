@@ -1,4 +1,4 @@
-Terms &. Conditions
+Terms of Service
 
 **EFFECTIVE:  MARCH 1, 2013**
 
