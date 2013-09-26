@@ -203,7 +203,7 @@ Please email us at internationalprivacy@bloomingdales.com.
   
  
 
-Does this answer your question? Please tell us how we can make this answer more useful. \*Email:Required \*Your Feedback:Required \* required fields  
+Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
 
 *   What is the return and exchange policy?
 *   What is the shipping policy?
