@@ -251,17 +251,17 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Living Art Face Off - Sneak Peek - Living Art
+Syfy Video Face Off - Sneak Peek - Cosmic Circus Face Off - Sneak Peek - Cosmic Circus
 
-Catch the sneak peek for Face Off's next episode, Tuesdays at 9/8c
+Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
 
-Winner Tells All: Episode 6 - Rayce Winner Tells All: Episode 6 - Rayce
+Winner Tells All: Episode 7 - Anthony Winner Tells All: Episode 7 - Anthony
 
-Hear what past season 2 winner, Rayce Bird, has to say about the latest episode of Face Off.
+Season 4 winner Anthony Kosar critiques the cast's make up from S5, Episode 7.
 
-Trick or Treat Morphs Trick or Treat Morphs
+Literally - Bonus Scene Literally - Bonus Scene
 
-Check out the morphs from Trick or Treat
+Literally. Literally. Literally.
 
 Best Costumes - Planet Comicon - Part 2 Best Costumes - Planet Comicon - Part 2
 
