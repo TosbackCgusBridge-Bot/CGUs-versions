@@ -1,7 +1,7 @@
 **Privacy Policy  
 Last Revised: January 9, 2012**
 
-Backpage.com and its affiliates, including but not limited to Village Voice Media Holdings, LLC (collectively, the “Site”) respect your privacy. Here's our Privacy Policy for this Site:
+Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
 **Acceptance of Privacy Policy**
 
