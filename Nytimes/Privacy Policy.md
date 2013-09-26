@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Remote controls, without the AAA batteries
+Search Help What happened to the Maxim Man?
 
-Also in Tech »
+Also in Fashion »
 
-*   The human behind a favorite spambot, Horse\_eBooks
-*   Twitter adds CBS to its stable of big advertising partners
+*   Kerry Washington's Emmy beauty look
+*   Bill Cunningham | Getting Real
 
   
 
