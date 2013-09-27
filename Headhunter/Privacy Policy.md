@@ -316,7 +316,6 @@ Partner Sites
 *   Accounting Jobs
 *   Entry Level Jobs
 *   Retail Jobs
-*   Resume Writing
 
 HeadHunter Office 200 N. LaSalle St  
 Suite 1100  
