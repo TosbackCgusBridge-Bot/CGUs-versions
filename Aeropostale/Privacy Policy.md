@@ -1,21 +1,18 @@
-Live Love Dream P.S. from Aéropostale
+Aéropostale Live Love Dream P.S. from Aéropostale
 
 *   My Account
-*   Track Order
-*   Help
+*   Customer Service
 *   Store Locator
 *   shipping to:
-*   My Bag: 0 Items $0.00
 
-Aéropostale
+My Bag: 0 Items $0.00 Aéropostale Go
 
-*   Sign Up For Email
-*   Wishlist
-*   Search:
+*   Blog
+*   Gift Cards
+*   Email Sign Up Sign Up Sign up for Aéropostale emails Sign up for P.S. From Aéropostale emails
 
 *   Aero Girls
 *   Aero Guys
-*   Aero Gift Center
 *   Aero Sale
 
 Safety, Security and Privacy
