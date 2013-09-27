@@ -52,6 +52,6 @@ We welcome your feedback on this document in our feedback forum.
 
 *   **FORMAT:**
 *   mobile
-*   regular
+*   standard
 
 Still have questions? try our help desk discussion forum. \[?\] You can also send us a note.
