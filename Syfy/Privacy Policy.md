@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Cosmic Circus Face Off - Sneak Peek - Cosmic Circus
+Syfy Video Haven Trivia Challenge! Haven Trivia Challenge!
+
+Check out the cast of Haven playing a fun game about Haven!
+
+Kristen's Video Blog: Episode 4 Kristen's Video Blog: Episode 4
+
+Kristen gives you more insight into investigating the paranormal in a mine.
+
+Face Off - Sneak Peek - Cosmic Circus Face Off - Sneak Peek - Cosmic Circus
 
 Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
 
 Winner Tells All: Episode 7 - Anthony Winner Tells All: Episode 7 - Anthony
 
 Season 4 winner Anthony Kosar critiques the cast's make up from S5, Episode 7.
-
-Literally - Bonus Scene Literally - Bonus Scene
-
-Literally. Literally. Literally.
-
-Best Costumes - Planet Comicon - Part 2 Best Costumes - Planet Comicon - Part 2
-
-See the best of the costumes from Planet Comicon!
 
 *   FAQ
 *   Feedback
