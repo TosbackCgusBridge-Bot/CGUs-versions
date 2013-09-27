@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help What happened to the Maxim Man?
+Search Help "Hers to Lose"
 
-Also in Fashion »
+Also in Video »
 
-*   Kerry Washington's Emmy beauty look
-*   Bill Cunningham | Getting Real
+*   ScienceTake: A frog's secret to sticking
+*   App smart: Best apps for iOS7
 
   
 
