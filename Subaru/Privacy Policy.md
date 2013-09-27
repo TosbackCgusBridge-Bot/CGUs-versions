@@ -333,7 +333,7 @@ Log Into MySubaru | Help |
     
     *   Benefits of Ownership
         
-        Learn about the Subaru Rewards Card, insurance discounts and more.
+        Learn more about Subaru added protection and insurance discounts.
         
     *   Parts &. Service
         
@@ -507,7 +507,6 @@ Responsibility
 Other Sites
 
 *   Subaru Motors Finance
-*   Subaru Rewards Card
 *   Subaru Global
 *   Subaru Power Products
 *   STIS
