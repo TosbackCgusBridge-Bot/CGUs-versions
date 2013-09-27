@@ -1,4 +1,4 @@
-**STATEMENT OF PRIVACY (UNITED STATES ONLY)**
+**STATEMENT OF PRIVACY ( 9/20/2013, UNITED STATES ONLY)**
 
 American Honda Motor Company, Inc. (American Honda) is considerate of the privacy of our visitors and the individual sensitivities of personal information.  At American Honda, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. Because privacy and consumer trust are important to us, we provide this privacy statement for you to explain our policies in detail. While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust.   Our goal is to protect your information.
 
@@ -233,8 +233,9 @@ Honda Titling A-D LPs
 **Privacy Policy Overview**  
 American Honda Finance Corporation ("AHFC") respects and protects customer privacy.  We know privacy is important to you and is vital to our business.  As required by law, this document explains our Privacy Policy.  We want you to know how we keep our customer information private and secure and how we use the information to provide you a broad range of financial services and products to serve you better.
 
-**How do we protect information?**  
-We maintain physical and electronic safeguards as well as policies and procedures that comply with federal regulations and prevent unauthorized access to customer information.  In addition, we only permit access to information about you to our employees who need to know that information to provide products or services to you and to service your account.
+**How do we protect information?**
+
+We maintain physical and electronic safeguards and have policies and procedures that are intended to prevent unauthorized access to consumer information.
 
 **AHFC collects information from**
 
@@ -264,6 +265,6 @@ We may also disclose:
 
 \* information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
 
-If we change our policy on how we handle your information, we will notify you in advance.
+If we modify our privacy policy on how we handle your personal information, we will post the revised information here, with a revised "effective date" at the top of this privacy policy. If there are material changes to this privacy policy or in how we will use your personal information, we may notify you by other means, such as sending an email to you or by posting a notice of such changes on our website. We encourage you to periodically review this statement to be informed of how we are protecting your information.
 
 BACK TO TOP
