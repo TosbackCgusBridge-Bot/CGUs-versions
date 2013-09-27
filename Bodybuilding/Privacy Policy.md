@@ -161,9 +161,9 @@ We have adopted and implemented a policy that provides for the termination, in a
 
 Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement must be sent to our Designated Agent.
 
-Notification must be submitted to the following Designated Agent: Ryan DeLuca.
+Notification must be submitted to the following Designated Agent: Bill Carter.
 
-Full Address of Designated Agent to Which Notification Should be Sent: 5777 N Meeker Ave, Boise, ID 83713, USA.
+Full Address of Designated Agent to Which Notification Should be Sent: 5777 N. Meeker Ave., Boise, ID 83713, USA, (208) 377-3326, legal@bodybuilding.com
 
 To be effective, the notification must be in writing and include each of the following: (a) a physical or electronic signature of person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. (b) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site. (c) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material. (d) information reasonably sufficient to permit us to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted. (e) a statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. and (f) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
