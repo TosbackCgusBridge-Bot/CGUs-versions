@@ -168,7 +168,7 @@ Join Our Talent Network Stay Connected.  Why?
     *   Chef
     *   Restaurant Manager
 *   Featured Companies
-    *   Red Robin
+    *   Main Event Entertainment
 *   All Jobs
 
 Join
