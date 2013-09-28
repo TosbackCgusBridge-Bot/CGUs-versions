@@ -138,7 +138,7 @@ If you prefer, you may opt-out by calling our Member Care Team toll-free at (800
 
 **Contacts: ** If you have any questions, concerns, or suggestions regarding this privacy policy, please contact us online to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
 
-March 02, 2012 Read More The Burn Specialist, Mary Lata: The U.S. Forest Service is setting controlled fires in Arizona to clear brush and tinder, and to reduce fuel loads in overgrown forests. © Chris Crisman
+March 02, 2012 Read More Estancia Monte Dinero, Rio Gallegos, Argentina. © Nick Hall
 
 **Nature's Inspiring Stories**
 
