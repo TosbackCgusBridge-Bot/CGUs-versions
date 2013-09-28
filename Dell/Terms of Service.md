@@ -37,7 +37,7 @@ End User License Agreement — Type S CONTRATO DE LICENCIA DE USUARIO FINAL — 
 
 Returns
 
-Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contracts
+U.S. Return Policy Política de devoluciones en EE. UU. View More Service Contracts
 
 Service Contracts
 
