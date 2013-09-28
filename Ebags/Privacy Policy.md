@@ -41,7 +41,7 @@ Our Affiliate Program is administered by Commission Junction. Any information co
 Does eBags share the information it receives? The following describes some of the ways that your personally identifiable information may be disclosed:
 
 **Fulfillment**  
-During the purchase process, we will share your information with certain intermediaries (e.g. UPS, APX, USPS, FedEx, Paymentech, Product Manufacturers) strictly to process and ship your order.
+During the purchase process, we will share your information with certain intermediaries (e.g. UPS, APX, USPS, FedEx, Payment Processing Service Provider, Product Manufacturers) strictly to process and ship your order.
 
 **Promotional Offers**  
 At times we may present or send offers to select eBags subscribers on behalf of other parties. When we do this, we do not give that company your personally identifiable information without your consent. If you do not want to receive such communications, please edit your account preferences.
@@ -64,7 +64,7 @@ As a customer, subscriber or contest entrant, you will occasionally receive e-ma
 
 You may ask to have your account information removed from our active databases. however, because we keep track of past purchases, you cannot delete information associated with past purchases. Such information will be deactivated as soon as reasonably possible based on your account activity. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
-Security The eBags Security Pledge protects you while you shop at eBags so that you never have to worry about credit card safety. We guarantee that every transaction you make at eBags will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at eBags. eBags' servers use Secure Sockets Layer (SSL), an encryption technology that works with Netscape, Microsoft Internet Explorer, and AOL's browser, so that only eBags can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.
+Security The eBags Security Pledge protects you while you shop at eBags so that you never have to worry about credit card safety. We guarantee that every transaction you make at eBags will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at eBags. eBags' servers use Secure Sockets Layer (SSL), an encryption technology that works with all modern web browsers, so that only eBags can read a buyer's personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will transmit the entire credit card number to the appropriate credit card company during order processing.
 
 A special note about children's privacy You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 
