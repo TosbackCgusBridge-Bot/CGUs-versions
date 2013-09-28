@@ -1,4 +1,4 @@
-Datenschutzerklärung und Nutzungsbedingungen Länderauswahl: DeutschlandUnited KingdomEspañaFranceItaliaNederlandPolska
+Datenschutzerklärung und Nutzungsbedingungen Länderauswahl: DeutschlandUnited KingdomEspañaFranceItaliaNederlandPolskaРоссия
 
 *   TOP\_NAVI
     *   Über QUISMA
