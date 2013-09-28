@@ -40,14 +40,13 @@ Hier finden Sie die Allgemeinen Nutzungsbedingungen (im Folgenden auch "Nutzungs
 *   **SPIEGEL ONLINE:** Mein SPIEGEL, u. a. mit Newsletter, Merkliste, Mein Depot und Meine Unternehmen. Forum, einestages, E-Paper
 *   **manager magazin Online:** Mein manager magazin, u.a. mit Newsletter, Mein Depot und Meine Unternehmen. Blogs
 *   **Harvard Business Manager Online:** persönlicher Bereich Mein HBM
-*   **New Scientist Deutschland Online:** Mein New Scientist, E-Paper, Leserkommentare
 
 Durch das Anklicken des entsprechenden Feldes bei der Registrierung erklären Sie, dass Sie die Nutzungsbedingungen gelesen haben und mit ihnen einverstanden sind. Sie können sie auch ausdrucken oder herunterladen. Die Datenschutzbestimmungen können Sie auch außerhalb der Nutzungsbedingungen lesen.
 
 A) Allgemeine Nutzungsbedingungen 1. Geltungsbereich
 
 (1)  
-Die Nutzungsbedingungen gelten für alle registrierungspflichtigen Dienste, die auf den Seiten von SPIEGEL ONLINE, manager magazin Online, Harvard Business Manager Online und New Scientist Deutschland Online angeboten werden.
+Die Nutzungsbedingungen gelten für alle registrierungspflichtigen Dienste, die auf den Seiten von SPIEGEL ONLINE, manager magazin Online und Harvard Business Manager Online angeboten werden.
 
 (2)  
 Die Nutzungsbedingungen sind jederzeit im Internet abrufbar und können ausgedruckt werden. Sie gelten für alle einmaligen und fortlaufenden Leistungen, soweit keine spezielleren Regelungen eingreifen.  
@@ -149,7 +148,7 @@ Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprech
 (12)  
 **Informationen zur Einbindung von Facebook:**
 
-SPIEGEL ONLINE und New Scientist Deutschland Online führen den Empfehlen-Button von Facebook ein, so können Sie bequem Artikel empfehlen und Ihre Freunde werden darüber informiert. Klicken Sie auf den Button, dann werden Sie in einem neuen Fenster zur Anmeldung bei Facebook aufgefordert. In diesem Fall wird auch ein Facebook-Cookie auf Ihrem Rechner platziert.
+SPIEGEL ONLINE führt den Empfehlen-Button von Facebook ein, so können Sie bequem Artikel empfehlen und Ihre Freunde werden darüber informiert. Klicken Sie auf den Button, dann werden Sie in einem neuen Fenster zur Anmeldung bei Facebook aufgefordert. In diesem Fall wird auch ein Facebook-Cookie auf Ihrem Rechner platziert.
 
 Wenn Sie den Button nicht anklicken oder nicht bei Facebook eingeloggt sind, wird auch kein Facebook-Cookie auf Ihrem Rechner platziert. Wenn Sie Facebook-Nutzer und eingeloggt sind und auf den Button klicken, wird diese Information an Ihr Facebook-Profil übermittelt. Andere Nutzer können dann sehen, dass Sie diesen Artikel empfehlen. Welche Nutzer genau diese Information bekommen, hängt davon ab, welche Privatsphäre-Einstellungen Sie auf Facebook vorgenommen haben.
 
@@ -241,9 +240,7 @@ Eine etwaige Ungültigkeit einer Bestimmung dieses Vertrags berührt nicht die G
 (7)  
 Durch diese Vereinbarungen wird zwischen dem Anbieter und dem Nutzer kein gesellschaftsrechtliches Verhältnis begründet.
 
-TOP B) Besondere Nutzungsbedingungen 1. Nutzungsbedingungen für die Foren von SPIEGEL ONLINE und New Scientist Deutschland Online
-
-Die folgenden Bedingungen gelten analog für die Forumsfunktionen auf New Scientist Deutschland Online.
+TOP B) Besondere Nutzungsbedingungen 1. Nutzungsbedingungen für die Foren von SPIEGEL ONLINE
 
 **Liebe Leserin, lieber Leser,**
 
