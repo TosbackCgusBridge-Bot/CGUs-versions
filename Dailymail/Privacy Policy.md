@@ -27,6 +27,7 @@ Privacy notice
     
 *   Your IP address, this is a number that identifies a specific network device on the internet and is required for your device and is required for your device to communicate with websites
 *   Technical information from your device relating to the service you receive
+*   Information relating to the location of the device you use to access our Site.
 
 Please do not submit your personal information to us if you do not wish us to collect it.
 
@@ -39,11 +40,23 @@ Please note, the Site makes message boards, blogs and other such user generated 
   
 **Email a friend and share this article facilities**
 
-  
 Please note, when you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
 
-**  
-How we may use your information**
+  
+
+Location-based and user specific services
+
+Delivery of certain content on the Site requires you to agree to the use of your location (for example to deliver content, advertising or services such as weather that need to be relevant to where you are) along with an anonymous device identifier to enable us to recognise your browser or mobile device and provide these services across subsequent visits to our Site.
+
+To enable the delivery of these services we will use(i) the latitude and longitude of your location and (ii) your Identifier for Advertisers (IFA) code for your iPhone, or the Android ID on Android or, place a unique cookie on the browser of your device when you first visit the Site , or a similar identifier as applicable (each a “Device Identifier”). See our Cookies notice for more information on the use of cookies and Device Identifiers on our Site.
+
+Your location will be determined either from a lookup of your public IP address (sent in the request for content to our servers) from a public GeoIP database (effectively giving us the location of your Internet Service Provider), or directly from the device depending on its capabilities and the permissions granted to access this information.
+
+If you consent, your location and Device Identifier will be used so that we can, together with our advertisers, provide content and advertising which is relevant to both you and your location (called “Personalised Advertising”). Please see Internet Based Advertising, Advertising Services below for further information.
+
+You can unsubscribe from these user and location based services or withdraw your consent to receiving Personalised Advertising at any time by setting the ‘Do Not Track’ preference in your browser. More information about how to do this is available by visiting our ‘controlling interest based advertising and other third party cookies’ page. You can also set the ‘Limit Ad Tracking’ property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through many of the apps that do this available in the Play Store.  You can also stop all information collection by uninstalling applications on your device. You may use the standard uninstall process available as part of your mobile device.
+
+**How we may use your information**
 
   
 By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
@@ -61,6 +74,7 @@ By using this Site, you agree that we may collect, hold, process and use your in
 *   To send you periodic newsletters about your chosen services
 *   To send you direct marketing.  This may include communications by post, telephone or email or SMS about us and our business partners’ products and services, events and special offers, including where applicable, for a reasonable time after you have ceased to be a reader of ours
 *   To provide you with personalised services, such as providing with you with viewing recommendations and tailored advertising.  This includes where we have agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you
+*   To provide you with location based services such as weather information based on your location
 *   To provide you with advertising more relevant to your interests and your online behaviour through the use of cookies when you visit our website(s)
 
 We may share your personal information with other companies within the DMGT group of companies
@@ -200,7 +214,11 @@ Neither we, nor the companies who show ads on our sites sell data collected from
 
 It’s easy to control interest based advertising and manage your cookies if you want to.  For more information, see our ‘controlling interest based advertising and other third party cookies’ page or visit or our privacy policy and cookie FAQs.
 
-  
+Device Identifiers
+
+A Device Identifier is a tool with an equivalent function to that of a cookie which is used to target and track the effectiveness of content and advertising delivered to users of our mobile applications.
+
+You can reset your Device Identifier at any time through the Advertising settings on your iPhone, or opt out of sending this information by setting the ‘Limit Ad Tracking’ option located in the on your iPhone.
 
 **Contacting us and accessing your personal information**
 
