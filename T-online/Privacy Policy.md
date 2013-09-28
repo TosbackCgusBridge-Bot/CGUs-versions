@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Bericht: Datenschützer in Polizeiakademie sammelte selber Daten
+*   Datenschützer beschäftigen sich in Bremen mit Spähaffäre
 *   Opposition will Filmen von Demos per Klage kippen
 *   Facebook in China: Shanghai bekommt Zugang zu sozialem Netzwerk
 *   Urteil: LKA muss genetischen Fingerabdruck löschen
 *   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
 *   Gericht prüft Speicherung von genetischem Fingerabdruck
 *   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
-*   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
-*   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
 
 schließen schließen
 
+*   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
+*   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
 *   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
 *   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 *   iPhone 5s: Fingerabdrucksensor hat laut Apple noch Schwächen
@@ -112,8 +114,6 @@ schließen schließen
 *   «Freiheit statt Angst» - Überwachungsgegner protestieren
 *   "Freiheit statt Angst": Überwachungsgegner protestieren
 *   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
-*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
-*   Überwachungsgegner protestieren
 
 *   Kundencenter
 *   Preise und AGB
