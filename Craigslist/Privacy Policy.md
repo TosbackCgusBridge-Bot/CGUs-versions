@@ -1,6 +1,6 @@
 craigslist  
 online community Updated:  
-Sep 15th 2008 04:29 PM about >. privacy policy Privacy Policy  
+Sep 28th 2013 01:39 PM about >. privacy policy Privacy Policy
 
 craigslist has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by craigslist from time to time. craigslist will provide notice of materially significant changes to this privacy policy by posting notice on the craigslist site.
 
@@ -35,7 +35,7 @@ craigslist has established this privacy policy to explain to you how your inform
 
 4\. Archiving and display of craigslist postings by search engines and other sites
 
-Search engines and other sites not affiliated with craigslist - including archive.org, google.com, and groups.yahoo.com - archive or otherwise make available craigslist postings, including resumes
+Search engines and other sites not affiliated with craigslist—including archive.org, google.com, and groups.yahoo.com—archive or otherwise make available craigslist postings, including resumes
 
 5\. Circumstances in which craigslist may release information
 
