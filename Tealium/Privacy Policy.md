@@ -1,67 +1,122 @@
+*   Contact Tealium
+*   Products Products back
+    *   Overview
+    *   Tag Management Suite Tag Management Suite back
+        *   Overview
+        *   Tealium iQ
+        *   Privacy
+        *   Mobile Tagging
+        *   Tealium Audit
+*   Solutions Solutions back
+    *   Solutions by Role Solutions by Role back
+        *   Overview
+        *   Digital Marketing
+        *   IT
+        *   Web Analytics
+        *   Executives
+    *   Solutions by Industry Solutions by Industry back
+        *   Overview
+        *   E-Commerce
+        *   Media &. Publishing
+        *   Technology Services
+*   Partners Partners back
+    *   Overview
+    *   SYNC Program
+    *   SYNC for Agencies
+    *   SYNC for Vendors
+    *   Partner Contact
+*   Education Education back
+    *   Overview
+    *   Tealium University
+    *   Tealium Learning Community
+    *   Digital Velocity
+*   Resources
+*   Company Company back
+    *   Overview
+    *   About Us
+    *   Leadership
+    *   Customers
+    *   Press Releases
+    *   News Coverage
+    *   Investors
+    *   Events
+    *   Digital 100
+    *   Careers
+
 Tealium
 
-*   Request Demo
-*   Contact Us
-*   Customer Login
+rows
 
 *   Products
-    *   *   Tealium iQ
-        *   Features
-        *   Benefits
-        *   Supported Tags
-        *   Digital 100
-        *   DataCloud
-        *   Mobile Tagging
-*   Customers
-    *   *   Clients
-        *   Testimonials
+*   Solutions
 *   Partners
-    *   *   Partner Program
-        *   Agencies
-        *   Vendors
+*   Education
 *   Resources
-    *   *   Webinars
-        *   White Papers
-        *   Data Sheets
-        *   Case Studies
-*   Blog
-*   News
-    *   *   Press Releases
-        *   News Coverage
-        *   Recognition
 *   Company
-    *   *   About Us
-        *   Management
-        *   Investors
-        *   Events
-        *   Digital Velocity
-        *   TMU
-        *   Careers
 
-Privacy Policy US Office
+*   Blog
+*   Contact Us
 
-11085 Torreyana Road  
-San Diego, CA 92121
+*   🔒Login
+*   Request a Demo
 
-Sales: (888) 622-2050  
-Tel: +1 (858) 779-1344  
-Fax: +1 (858) 345-3844
+*   Tag Management Suite
+    *   Tealium iQ
+    *   Privacy
+    *   Mobile Tagging
+    *   Tealium Audit
 
-United Kingdom
+*   Solutions by Role
+    *   Web Analytics
+    *   Digital Marketing
+    *   IT
+    *   Executives
+*   Solutions by Industry
+    *   E-Commerce
+    *   Media &. Publishing
+    *   Technology Services
 
-20 Hanover Square  
-London, W1S 1JY
+*   Partners
+    *   SYNC for Agencies
+    *   SYNC for Technology Vendors
+    *   Partner Contact
+    *   Certified Vendor Request
 
-+44 (0) 207 084 6268
+Join our Partner Community!  
+Learn more about our fast-growing digital marketing ecosystem »
 
-Germany
+*   Education
+    *   Digital Velocity Conference
+    *   Tealium University
+    *   Tealium Learning Community
 
-Neuer Wall 50  
-20354 Hamburg
+Digital Velocity 2014  
+Learn more about our user conference »
 
-+49 408 22186462
+*   Company
+    *   About Us
+    *   Customers
+    *   Leadership
+    *   Investors
+    *   Press Releases
+    *   News Coverage
+    *   Events
+    *   Digital 100
+    *   Careers
 
-Privacy Policy
+Come See Us at Shop.org  
+View our upcoming shows »
+
+Request a demo
+
+Privacy Policy Default Menu
+
+*   Products
+*   Solutions
+*   Partners
+*   Education
+*   Resources
+*   About Us
 
 This privacy policy addresses Tealium’s (hereafter referred to as “the Company”) current practices and policies with regard to data collected through this web site. The term “personal data” refers to personally identifiable information about you, such as your name, mailing address, e-mail address, telephone number, and any other information that identifies you personally.
 
@@ -75,17 +130,11 @@ The Company is continually improving and adding new services and offerings and n
 
 Personal Data Collected Through This Web Site
 
-The only personal data the Company currently collects through this web site is the information you give us when filling out an online form or sending us an email. This includes, for example, the information you provide when you send us your comments or requests for information or when subscribing to Company newsletter.
-
-The Company uses the information to respond to your e-mail or provide you with the information you requested. The Company also uses this information to help us improve the content and functionality of our web sites, to better understand the interests of the people and organizations that use our web site, and to improve our programs and services. The Company may use this information to contact you in the future to tell you about programs and services that we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications from us.
-
-The Company may share your personal data with consultants and other third parties who act for or on behalf of the Company, for further processing or analysis. In addition, there may be some other, limited circumstances in which the Company may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.
+The only personal data the Company currently collects through this web site is the information you give us when filling out an online form or sending us an email. This includes, for example, the information you provide when you send us your comments or requests for information or when subscribing to Company newsletter. The Company uses the information to respond to your e-mail or provide you with the information you requested. The Company also uses this information to help us improve the content and functionality of our web sites, to better understand the interests of the people and organizations that use our web site, and to improve our programs and services. The Company may use this information to contact you in the future to tell you about programs and services that we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications from us. The Company may share your personal data with consultants and other third parties who act for or on behalf of the Company, for further processing or analysis. In addition, there may be some other, limited circumstances in which the Company may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.
 
 Anonymous Data Collected Through This Web Site
 
-In addition to the information you provide when you use our web site, The Company uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use.
-
-This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. The Company uses this anonymous data and may share it with third-parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.
+In addition to the information you provide when you use our web site, The Company uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use. This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. The Company uses this anonymous data and may share it with third-parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.
 
 Cookies
 
@@ -109,20 +158,76 @@ This privacy policy forms part of our web site Terms of Use and as such shall be
 
 Questions About our Privacy Policy
 
-If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
+If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us. This policy was last updated on November 22, 2011.
 
-This policy was last updated on November 22, 2011.
+Ready to Learn More? Request a Demo
 
-*   Tag Management
-*   Universal Tag
-*   Tag Management Console
-*   Blog
-*   Company
-*   Contact
+See first-hand how Tealium can help you succeed.
+
+Learn More Free Resources
+
+White papers and other resources to help you succeed.
+
+Learn More View Products
+
+Find the solution that is right for your business.
+
+Learn More United States
+
+11085 Torreyana Road  
+San Diego, CA 92121  
   
-*   © 2013 Tealium, Inc.
-*   Privacy Policy
-*   Site Map
+Sales: (888) 622-2050  
+Tel: +1 (858) 779-1344  
+Fax: +1 (858) 345-3844
 
-*   Follow @tealium
-*   rss
+United Kingdom
+
+20 Hanover Square  
+London, W1S1JY  
++44 (0) 20 70 84 62 68
+
+Germany
+
+Neuer Wall 50  
+20354 Hamburg  
++49 408 22186462
+
+*   Products
+    *   Tag Management Suite
+    *   Data Distribution Suite
+*   Solutions
+    *   Web Analytics
+    *   Digital Marketing
+    *   IT
+    *   Executives
+    *   E-Commerce
+    *   Media &. Publishing
+    *   Technology Services
+*   Partners
+    *   SYNC for Agencies
+    *   SYNC for Technology Vendors
+*   Education
+    *   Digital Velocity Conference
+    *   Tealium University
+    *   Tealium Learning Community
+*   Resources
+    *   Resources
+*   Company
+    *   About Us
+    *   Customers
+    *   Leadership
+    *   Investors
+    *   Press Releases
+    *   News Coverage
+    *   Events
+    *   Digital 100
+    *   Careers
+
+Copyright © 2013 Tealium. All Rights Reserved.
+
+*   Site Map
+*   Terms of Use
+*   Privacy Policy
+
+linkedinfacebooktwitterrss
