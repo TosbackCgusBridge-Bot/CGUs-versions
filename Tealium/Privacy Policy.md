@@ -5,14 +5,19 @@
         *   Overview
         *   Tealium iQ
         *   Privacy
-        *   Mobile Tagging
-        *   Tealium Audit
+        *   Mobile
+        *   Audit
+    *   Data Distribution Suite Data Distribution Suite back
+        *   Overview
+        *   AudienceStream
+        *   EventStream
+        *   ServerStream
 *   Solutions Solutions back
     *   Solutions by Role Solutions by Role back
         *   Overview
+        *   Web Analytics
         *   Digital Marketing
         *   IT
-        *   Web Analytics
         *   Executives
     *   Solutions by Industry Solutions by Industry back
         *   Overview
@@ -21,24 +26,24 @@
         *   Technology Services
 *   Partners Partners back
     *   Overview
-    *   SYNC Program
     *   SYNC for Agencies
     *   SYNC for Vendors
     *   Partner Contact
+    *   Vendor Request
 *   Education Education back
     *   Overview
+    *   Digital Velocity
     *   Tealium University
     *   Tealium Learning Community
-    *   Digital Velocity
 *   Resources
 *   Company Company back
     *   Overview
     *   About Us
-    *   Leadership
     *   Customers
+    *   Leadership
+    *   Investors
     *   Press Releases
     *   News Coverage
-    *   Investors
     *   Events
     *   Digital 100
     *   Careers
@@ -63,8 +68,15 @@ rows
 *   Tag Management Suite
     *   Tealium iQ
     *   Privacy
-    *   Mobile Tagging
-    *   Tealium Audit
+    *   Mobile
+    *   Audit
+*   Data Distribution Suite
+    *   AudienceStream
+    *   EventStream
+    *   ServerStream
+
+Tealium AudienceStream is Here!  
+The industry's first audience discovery and digital data distribution platform »
 
 *   Solutions by Role
     *   Web Analytics
@@ -75,6 +87,9 @@ rows
     *   E-Commerce
     *   Media &. Publishing
     *   Technology Services
+
+The Rise of Data Activism!  
+Download our latest whitepaper »
 
 *   Partners
     *   SYNC for Agencies
