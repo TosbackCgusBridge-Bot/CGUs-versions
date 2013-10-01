@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help For Cicely Tyson and Kerry Washington, roles of a lifetime
+Search Help A wave of sewing jobs as orders pile up at U.S. factories
 
-Also in Fashion »
+Also in Business »
 
-*   Modern Love: Rallying to keep the game alive
-*   Garde Robe: High-end clothes storage
+*   British game maker behind Candy Crush seeking I.P.O. in U.S.
+*   How a debt-ceiling crisis could become a financial crisis
 
   
 
