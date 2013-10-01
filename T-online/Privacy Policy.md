@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Datenschützer treffen sich zur Herbstkonferenz
 *   Bericht: Datenschützer in Polizeiakademie sammelte selber Daten
 *   Datenschützer beschäftigen sich in Bremen mit Spähaffäre
 *   Opposition will Filmen von Demos per Klage kippen
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Urteil: LKA muss genetischen Fingerabdruck löschen
 *   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
 *   Gericht prüft Speicherung von genetischem Fingerabdruck
-*   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
 
 schließen schließen
 
+*   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
 *   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
 *   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
 *   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
@@ -113,7 +114,6 @@ schließen schließen
 *   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
 *   «Freiheit statt Angst» - Überwachungsgegner protestieren
 *   "Freiheit statt Angst": Überwachungsgegner protestieren
-*   Überwachungsgegner protestieren - bis zu 30 000 Teilnehmer erwartet
 
 *   Kundencenter
 *   Preise und AGB
