@@ -94,11 +94,11 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
     *   Food Network
     *   Cooking Channel
     *   Travel Channel
-    *   GAC
-    *   FrontDoor.com
+    *   Great American Country
+    *   FrontDoor
     *   HGTVRemodels.com
     *   Food.com
-    *   CityEats.com
+    *   CityEats
     
 
 ​
