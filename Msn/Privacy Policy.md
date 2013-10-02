@@ -1,7 +1,7 @@
 Brasil Alterar | Todos os sites da Microsoft Procurar no Microsoft.com por:  
 Microsoft Online Privacy Statement Informações complementares sobre privacidade • Bing • Messenger • Publicidade da Microsoft • Candidatar a um Emprego na Microsoft • Leitor de Tag da Microsoft • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jogos para o Windows LIVE e Xbox.com Links relacionados • Iniciativas de Privacidade da FTC • Segurança em Casa • Declaração de Privacidade da Silverlight • Computação Confiável
 
-(última atualização em Abril-12)  
+(Última atualização Agosto de 2013)  
 exibir os destaques da declaração de privacidade
 
 Nesta página Coleta de suas informações pessoais Uso de suas informações pessoais Compartilhamento de suas informações pessoais Acesso às suas informações pessoais Preferências de comunicação Exibição de publicidade (Opt-Out) Segurança de suas informações pessoais Coleta e uso de informações pessoais de crianças Uso de cookies Uso de Web beacons Controlando emails não solicitados ("Spam") Aplicação desta Declaração de privacidade Alterações nesta Declaração de Privacidade Informações para contato
