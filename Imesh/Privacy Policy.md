@@ -79,6 +79,18 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 In an endeavor to improve the customer experience we may also purchase marketing data from third parties and add it to our existing user database, to better target our features, services and offers in which we think you may be interested. To enrich our profiles of existing customers, we may tie this information to personally identifiable information that you have given to us.
 
+If you believe that iMesh has charged you in error, you must contact us within 60 days of the charge being billed to your account, either by clicking on the support link in the iMesh website (http://support.imesh.com) or click on "Contact support" in iMesh application.
+
+iMesh reserves the right to refuse your refund request if iMesh reasonably believes (i) that you are attempting to exploit this refund policy in violation of these terms, for example, by making repetitive refund requests in respect of the same Product. (ii) if you are in breach of these terms or (iii) if iMesh reasonably suspects that you are using our Products or Software fraudulently or in contravention of these terms or that your User Account is being used by a third party fraudulently.
+
+All payments made prior to termination as provided herein, including any advance charge or payment for the subscription term during which you terminate your subscription, are nonrefundable. Termination of your subscription shall not relieve you of any obligations to pay accrued charges.
+
+Cancellation notice:
+
+Please note that canceling your subscription (whether by email to us or in writing) will be performed through the iMesh helpdesk by our ticketing system. Helpdesk hours are from Monday - Friday between 9am – 5pm (EST) (excluding federal U.S. holidays). Please be aware that if you open a support ticket, the ticket processing will commence 2 business days (i.e, 48 hours) after the opening time/date stamp of the ticket (U.S. weekdays days only), and iMesh deems the "receipt" of your ticket to be 48 hours after the ticket is opened. If you choose to cancel your subscription, your subscription cancellation will be effective at the end of your current billing cycle, so remember that you must submit your cancellation ticket at least 48 hours prior to the end of your current cycle.
+
+You have the right to regrets for purchasing your subscription. Our cooling-off policy rule gives you three days to cancel purchases and received a full refund extends until midnight of the third business day after the sale.
+
 In addition to the foregoing, we may disclose your personally identifiable information if we believe such action is necessary to: (a) comply with the law or legal process served on iMesh. (b) protect and defend the rights or property of iMesh (including the enforcement of our agreements). or (c) act in urgent circumstances to protect the personal safety of users of iMesh services or members of the public.
 
 LINKS
