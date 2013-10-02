@@ -1,7 +1,7 @@
 France Modifier | Tous les sites Microsoft Rechercher sur Microsoft France :  
 Microsoft Online Privacy Statement Informations supplémentaires sur la confidentialité • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Jeux pour Windows LIVE et Xbox.com Liens connexes • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
 
-(dernière mise à jour en avr.-12)  
+(dernière mise à jour en août 2013)  
 consultez les points essentiels de la Déclaration de confidentialité
 
 Sur cette page Collecte de vos données personnelles Utilisation de vos données personnelles Partage de vos données personnelles Accès à vos données personnelles Préférences de communication Affichage de publicités (Option de retrait) Sécurité de vos données personnelles Collecte et utilisation des données personnelles des enfants Utilisation de témoins de connexion (cookies) Utilisation des balises Web Contrôle du courrier indésirable (« Pourriel ») Application de cette déclaration de confidentialité Modification de cette déclaration de confidentialité Comment nous contacter
