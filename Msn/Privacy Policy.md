@@ -1,7 +1,7 @@
 Nederland Wijzigen | Alle Microsoft sites Zoek op Microsoft.com naar:  
 Microsoft Online Privacy Statement Aanvullende privacy-informatie • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, spellen voor Windows LIVE en Xbox.com Gerelateerde links • FTC Privacy Initiatives • Security at Home • Silverlight Privacyverklaring • Trustworthy Computing
 
-(Voor het laatst geüpdated in april-12)  
+(laatste update augustus 2013)  
 Lees belangrijkste punten van de privacyverklaring
 
 Op deze pagina Het verzamelen van persoonlijke informatie Het gebruik van persoonlijke informatie Het delen van persoonlijke informatie Het openbaar maken van uw persoonlijke informatie Communicatievoorkeuren Weergeven van advertenties (opt-out) Het beveiligen van uw persoonlijke informatie Het verzamelen en gebruik van persoonlijke informatie van kinderen Het gebruik van cookies Het gebruik van webbakens Het beheren van ongevraagde e-mail ("Spam") Afdwingen van deze Privacyverklaring Wijzigingen in deze Privacyverklaring Hoe contact met ons op te nemen
