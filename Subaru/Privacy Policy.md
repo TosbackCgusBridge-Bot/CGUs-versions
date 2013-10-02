@@ -244,12 +244,6 @@ Log Into MySubaru | Help |
         Tribeca 3.6R Limited shown
         
     *   Certified Pre-Owned
-        *   Certified Pre-Owned
-            
-            Fully checked, factory-covered
-            
-            and ready for more adventures.
-            
         
     
 *   Why Subaru
