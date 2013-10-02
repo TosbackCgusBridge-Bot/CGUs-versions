@@ -2,7 +2,7 @@ United States Change | All Microsoft Sites Search Microsoft.com for:
 Microsoft Online Privacy Notice Highlights
 
   
-(last updated August 2011)
+(last updated August 2013)
 
   
 Scope  
