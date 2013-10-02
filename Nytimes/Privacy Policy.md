@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help A wave of sewing jobs as orders pile up at U.S. factories
+Search Help An off-road retreat for a '60s pop star
 
-Also in Business »
+Also in Real Estate »
 
-*   British game maker behind Candy Crush seeking I.P.O. in U.S.
-*   How a debt-ceiling crisis could become a financial crisis
+*   Family compounds, by elevator
+*   Carrying debt after retirement
 
   
 
@@ -282,11 +282,3 @@ Also in Business »
 *   Help
 *   Contact Us
 *   Site Feedback
-
-campaign: nyt2013\_abTest\_anchoredAd\_sept -- 225312, creative: yt2013\_abTest\_anchoredAd\_sept\_ad -- 349061, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv1 http://graphics8.nytimes.com/adx/images/ADS/34/90/ad.349061 http://www.nytimes.com/adx/bin/adx\_click.html?type=goto&opzn&page=www.nytimes.com/content/help/front.html&pos=Inv1&sn2=d03cb75/c6402728&sn1=9bcd924e/6f958001&camp=nyt2013\_abTest\_anchoredAd\_sept&ad=yt2013\_abTest\_anchoredAd\_sept\_ad&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D225312%26adxa%3D349061%26page%3Dwww.nytimes.com/content/help/front.html%26pos%3DInv1%26campaignId%3D3JRUW
-
-Try unlimited access to NYTimes.com for just 99¢.
-
-Already a subscriber?
-
-Lorem ipsum dolor sit amet.
