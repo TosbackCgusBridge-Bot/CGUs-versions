@@ -143,6 +143,7 @@ Advertisement Rachael Ray
 
 *   Bio
 *   Recipes
+*   Blogs
 *   Facebook
 *   Twitter
 *   Products
