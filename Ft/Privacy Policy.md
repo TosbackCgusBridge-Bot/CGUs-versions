@@ -252,10 +252,10 @@ Services
 *   Help
 *   •Contact us
 *   •About us
-*   •Sitemap
 *   •Advertise with the FT
 *   •Terms &. Conditions
 *   •Privacy Policy
 *   •Copyright
+*   •Cookie policy
 
 **© The Financial Times Ltd 2013** FT and 'Financial Times' are trademarks of The Financial Times Ltd.
