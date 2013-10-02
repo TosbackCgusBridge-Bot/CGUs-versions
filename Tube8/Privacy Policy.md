@@ -13,19 +13,13 @@ X X Sponsored text link Under player banner
 *   Live Girls
 *   Fuck Date
 
-*   Signup
-*   Login
+Sign up Login Upload
 
-*   My Profile
-*   Trending
-*   Blog
-
-*   Upload
-*   Shemale
-*   Gay
 *   Straight
-    
+*   Gay
+*   Shemale
 
+*   ADVERTISE
 *   Terms of use
 *   Dmca
 *   18 USC 2257 Statement
@@ -286,6 +280,27 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@tube8.com.
 
+Advertise On Tube8 Name: \*Email: Subject: Tube8 advertising
+
+*   Tube8 Advertising
+*   Report inappropriate content
+*   Feedback
+
+Type: Type: Type of Content
+
+*   Video
+*   Ads
+*   Profile
+*   Other
+
+Spot/Placement: Screenshot: My site: I'm interested in: Global Traffic
+
+*   Global Traffic
+*   Geo-Targeted Traffic
+
+Link to content being reported: \*Comments:  
+Send For more information, please contact a TrafficJunky representative at www.trafficjunky.net/contact\_us
+
 *   Amateur
 *   Anal
 *   Asian
@@ -302,19 +317,19 @@ You are entitled to access and correct your Data by doing so directly on the web
 *   Strip
 *   Teen
 
-*   HOME
-*   TERMS OF USE
+*   Blog
+*   Trending
+*   Content Partner Program
+*   Advertise
+*   Mobile Porn
+*   Webmasters
+
+*   Terms
+*   Privacy
+*   18 USC 2257 Statement
 *   DMCA
-*   18 USC 2257 STATEMENT
+*   Feedback Forum
+*   Site Map
+*   Contact Us
 
-*   CONTACT US
-*   ADVERTISE
-*   MOBILE PORN
-*   SITEMAP
-
-*   FEEDBACK FORUM
-*   CONTENT PARTNER PROGRAM
-*   WEBMASTERS
-*   PRIVACY POLICY
-
-Copyright © 2007-2013 Tube8.com, All Rights Reserved.
+Copyright © 2007-2013 Tube8.com, All Rights Reserved:
