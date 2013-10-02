@@ -1,6 +1,6 @@
 Onlinedatenschutzbestimmungen von Microsoft
 
-(Letzte Aktualisierung: April 12)  
+(Letzte Aktualisierung August 2013)  
 Auszüge aus den Datenschutzbestimmungen anzeigen
 
 Auf dieser Seite Erfassung persönlicher Daten Verwendung Ihrer persönlichen Daten Weitergabe Ihrer persönlichen Daten Zugriff auf Ihre persönlichen Daten Kommunikationspräferenzen Anzeigen von Werbung (Ablehnung) Sicherheit Ihrer persönlichen Daten Erfassung und Nutzung persönlicher Daten von Kindern Verwendung von Cookies Verwendung von Webbeacons Kontrolle von unerwünschten E-Mails („Spam“) Durchsetzung dieser Datenschutzbestimmungen Änderungen an diesen Datenschutzbestimmungen Kontaktinformationen
