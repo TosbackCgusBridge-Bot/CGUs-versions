@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Datenschützer beenden Herbstkonferenz in Bremen
+*   Facebook verbessert Graph Search: Gezielt nach Postings suchen
+*   Datenschützer fordern Zeichen von künftiger Bundesregierung
+*   Datenschützer treffen sich zur Herbstkonferenz in Bremen
 *   Datenschützer treffen sich zur Herbstkonferenz
 *   Bericht: Datenschützer in Polizeiakademie sammelte selber Daten
 *   Datenschützer beschäftigen sich in Bremen mit Spähaffäre
 *   Opposition will Filmen von Demos per Klage kippen
-*   Facebook in China: Shanghai bekommt Zugang zu sozialem Netzwerk
-*   Urteil: LKA muss genetischen Fingerabdruck löschen
-*   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
-*   Gericht prüft Speicherung von genetischem Fingerabdruck
 
 schließen schließen
 
+*   Urteil: LKA muss genetischen Fingerabdruck löschen
+*   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
+*   Gericht prüft Speicherung von genetischem Fingerabdruck
 *   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
 *   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
 *   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
@@ -111,9 +114,6 @@ schließen schließen
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   Ministerium: Polizei im Land hat dreimal Drohnen eingesetzt
 *   NSA gesteht Rechtsbruch im großen Stil ein
-*   Philipp Rösler kritisiert amerikanische IT-Konzerne wegen Datensicherheit
-*   «Freiheit statt Angst» - Überwachungsgegner protestieren
-*   "Freiheit statt Angst": Überwachungsgegner protestieren
 
 *   Kundencenter
 *   Preise und AGB
