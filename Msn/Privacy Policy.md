@@ -1,7 +1,7 @@
 United Kingdom Change | All Microsoft Sites Search Microsoft.com for:  
 Microsoft Online Privacy Statement Supplemental Privacy Information • Bing • Messenger • Microsoft Advertising • Microsoft Employment Candidates • Microsoft Tag Reader • MSN • Office.com • Windows Live • Windows Live ID • WindowsMedia.com • Xbox LIVE, Games for Windows LIVE and Xbox.com Related Links • FTC Privacy Initiatives • Security at Home • Silverlight Privacy Statement • Trustworthy Computing
 
-(last updated April 2012)  
+(last updated August 2013)  
 view the privacy statement highlights
 
 On This Page Collection of Your Personal Information Use of Your Personal Information Sharing of Your Personal Information Accessing Your Personal Information Communication Preferences Display of Advertising (Opt-Out) Security of Your Personal Information Collection and Use of Children's Personal Information Use of Cookies Use of Web Beacons Controlling Unsolicited E-mail ("Spam") Enforcement of This Privacy Statement Changes to This Privacy Statement How to Contact Us
