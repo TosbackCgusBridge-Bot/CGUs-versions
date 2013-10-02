@@ -10,6 +10,7 @@ Top home | about | sitemap
     *   All Categories
     *   Add URL
     *   Advertising
+    *   Pricing
     *   Dating Alliance
     *   Lisa's Blog
     *   Seal of Trust
@@ -89,7 +90,7 @@ Get more conversions on your dating site  Home
  Lisa's Blog  
  Webmasters  
  Advertising  
- Rates  
+ Pricing  
  Terms of Service  
  Privacy Policy  
  Dating Alliance  
