@@ -63,9 +63,9 @@ Intel does not normally collect the personal information of children under the a
 
 Transfer of Personal Information
 
-Intel may transfer your personal information to Intel Corporation in the US or to any Intel subsidiary worldwide. We may transfer your personal information to third parties located in another country for purposes of processing, storage, or fulfillment.
+Intel may transfer your personal information to Intel Corporation in the U.S. or to any Intel subsidiary worldwide. We may transfer your personal information to third parties located in another country for purposes of processing, storage, or fulfillment.
 
-We participate in the U.S. Department of Commerce's Safe Harbor principles for off-line, online, and manually processed personal data.
+Intel complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Intel has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view Intel's certification, please visit http://www.export.gov/safeharbor/. 
 
 How to Contact Us
 
@@ -77,4 +77,4 @@ M/S RNB4-145
 2200 Mission College Blvd.  
 Santa Clara, CA 95054 USA
 
-**Last updated:** April 2009
+**Last updated:** October 2013
