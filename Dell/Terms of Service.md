@@ -33,15 +33,15 @@ License Agreements
 
 License Agreements
 
-End User License Agreement — Type S CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S View More Returns
+CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S End User License Agreement — Type S View More Returns
 
 Returns
 
-U.S. Return Policy Política de devoluciones en EE. UU. View More Service Contracts
+Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contracts
 
 Service Contracts
 
-Service Contracts for Consumer Customers In-Home Printer Service After Remote Diagnosis Dell In-Home Service After Remote Diagnosis (Availability varies. Consult your invoice to determine if you purchased this agreement.) View More Warranties
+Solution Station Phone Support Service TWG Innovative Solutions, Inc. In-Home Service After Remote Diagnosis (AVAILABILITY VARIES. CONSULT YOUR INVOICE TO DETERMINE IF YOU PURCHASED THIS AGREEMENT) Single Incident Expired Warranty Support (assistance offered to troubleshoot software or hardware issue) View More Warranties
 
 Warranties
 
