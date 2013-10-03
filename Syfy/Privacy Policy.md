@@ -251,17 +251,17 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Cosmic Circus Face Off - Sneak Peek - Cosmic Circus
+Syfy Video Face Off - Sneak Peek - Mortal Sins Face Off - Sneak Peek - Mortal Sins
 
-Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
+Catch a sneak peek of the next episode of Face Off, Tuesdays at 9/8c
 
-Winner Tells All: Episode 7 - Anthony Winner Tells All: Episode 7 - Anthony
+Winner Tells All: Episode 8 - Rayce Winner Tells All: Episode 8 - Rayce
 
-Season 4 winner Anthony Kosar critiques the cast's make up from S5, Episode 7.
+Season 2 winner Rayce Bird critiques the cast's make up from S5, Episode 8.
 
-Literally - Bonus Scene Literally - Bonus Scene
+Cosmic Circus Morphs Cosmic Circus Morphs
 
-Literally. Literally. Literally.
+Take a look at the morphs from Season 5, Episode 8, Cosmic Circus.
 
 Best Costumes - Planet Comicon - Part 2 Best Costumes - Planet Comicon - Part 2
 
