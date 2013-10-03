@@ -56,7 +56,7 @@ If you're not 100% satisfied with your Staples purchase, return it for any reaso
 
 **Holiday Return Policy**
 
-**Any electronic or furniture product, which usually fall within the 14-day return policy, purchased between 11/22/12 and 12/24/12 may be returned until 1/12/13 or as regular policy allows, whichever is later. This applies to all electronic and furniture products within Staples regularly posted 14-day return policy. All electronic and furniture purchases made on or after 12/26/12 will observe our existing return policy.**
+**Any electronic or furniture product, which usually fall within the 14-day return policy, purchased between 11/22/13 and 12/24/13 may be returned until 1/12/14 or as regular policy allows, whichever is later. This applies to all electronic and furniture products within Staples regularly posted 14-day return policy. All electronic and furniture purchases made on or after 12/26/13 will observe our existing return policy.**
 
 **All other terms and conditions of our return policy apply.**
 
@@ -71,6 +71,10 @@ Unopened boxed software that we currently sell may be returned for a full refund
 **Technology and Business Machines**
 
 Technology and business machines may only be returned within 14 days of the date of receipt, including Staples® brand technology and business machine products.
+
+**Cancellation policy for AppleCare+**
+
+Customers who purchased AppleCare+ at Staples may return to Staples to cancel AppleCare within 30 days to receive a full refund. Staples cannot cancel AppleCare+ for customers who purchased the AppleCare elsewhere. All requests to cancel AppleCare+ beyond 30 days must be directed to Apple to receive a pro-rated refund.
 
 **Furniture**
 
