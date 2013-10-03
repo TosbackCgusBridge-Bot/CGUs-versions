@@ -1,15 +1,15 @@
       **PriceGrabber Terms of Use and Privacy Statement  
 ** 
 
-Last Modified February 19th, 2013
+Last Modified September 13th, 2013
 
-PriceGrabber.com Inc., a Delaware Corporation, including its successors and assigns, ("PriceGrabber") operates the PriceGrabber Internet shopping sites (including, without limitation, www.pricegrabber.com, www.bottomdollar.com, www.preciomania.com, and www.precomania.com) and certain co-branded versions of its site under contract other third parties (collectively, the "Site"). You may only use the Site pursuant to the following terms and conditions, which you accept by your use of the Site. Use of the Site is subject to additional terms and conditions defined by our content providers ("Licensors") as stipulated on applicable pages of the Site, which you accept by your use of the Site. PriceGrabber, reserves the right to modify or revise these Terms of Use and/or Privacy Statement or its other policies at any time at its sole discretion. Any such modifications to the Terms of Use and Privacy Statement shall be effective within forty-eight (48) hours of being posted on the Site unless otherwise stated by PriceGrabber, in writing. You are bound by such modifications or revisions, and should therefore visit this page frequently to review the terms. Your continued use of the Site following PriceGrabber’s posting of any changes or modifications to these Terms of Use and/or Privacy Statement will constitute your acceptance of such changes or modifications. In the event that you do not agree to any changes or modifications of these Terms of Use and/or Privacy Statement, you should not continue to use the Site.
+PriceGrabber.com Inc., a Delaware Corporation, including its successors and assigns, ("PriceGrabber") operates the PriceGrabber Internet shopping sites (including, without limitation, www.pricegrabber.com, www.bottomdollar.com, www.preciomania.com, and www.precomania.com) and certain co-branded versions of its site under contract other third parties (collectively, the "Site"). You may only use the Site pursuant to the following terms and conditions, which you accept by your use of the Site. Use of the Site is subject to additional terms and conditions defined by our content providers ("Licensors") as stipulated on applicable pages of the Site, which you accept by your use of the Site. PriceGrabber, reserves the right to modify or revise these Terms of Use and/or Privacy Statement or its other policies at any time at its sole discretion. Any such modifications to the Terms of Use and Privacy Statement shall be effective within forty-eight (48) hours of being posted on the Site unless otherwise stated by PriceGrabber, in writing. You are bound by such modifications or revisions, and should therefore visit this page frequently to review the terms. Your continued use of the Site following PriceGrabber's posting of any changes or modifications to these Terms of Use and/or Privacy Statement will constitute your acceptance of such changes or modifications. In the event that you do not agree to any changes or modifications of these Terms of Use and/or Privacy Statement, you should not continue to use the Site.
 
 **LICENSE AND SITE ACCESS**
 
 PriceGrabber grants you a non-exclusive right and license to access and use the Site for personal, noncommercial purposes, other than to purchase or sell items through the Site's Storefronts Service, or to purchase items from third-party merchants accessible via links on the Site. This license does not include and strictly prohibits: any resale of the Site or its contents. any collection and use of any product listings, descriptions, or prices other than as expressly authorized herein. any derivative use of the Site or its contents. or any use of data mining, robots, or similar data gathering and extraction tools. The Site, including its operation, interface and contents, are covered by United States copyright laws and international laws and treaties, and may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any unauthorized commercial purpose without the express prior written consent of PriceGrabber. Any unauthorized use shall immediately terminate the licenses and rights granted by PriceGrabber and any Licensors hereunder, and may subject you to civil and/or criminal prosecution. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to any page of the Site so long as the link does not portray PriceGrabber, its subsidiaries, affiliates, Licensors, co-brand partners and other partners or its or their respective services in a false, misleading, derogatory or otherwise offensive or damaging manner. You may not use any PriceGrabber, Licensor, subsidiary, affiliate, co-brand partner, or other partner logo or other proprietary graphic or trademark as part of a link to the Site without first obtaining the express written consent of PriceGrabber, the subsidiary, affiliate, co-brand partner or other partner or Licensor (as applicable).
 
-PriceGrabber does not guarantee continuous, uninterrupted or secure access to its services or the Site, and the operation of the Site may be interfered with by numerous factors outside or within PriceGrabber’s control.
+PriceGrabber does not guarantee continuous, uninterrupted or secure access to its services or the Site, and the operation of the Site may be interfered with by numerous factors outside or within PriceGrabber's control.
 
 **CONTENT**
 
@@ -18,6 +18,8 @@ PriceGrabber provides a number of different services to assist you in comparison
 PriceGrabber does not sell, resell or license any of the products listed on the Site, nor is PriceGrabber acting as an agent of sale, and PriceGrabber disclaims any responsibility for, or liability related to, such products and services (see Disclaimer of Warranties and Limitation of Liability, below). Any questions, complaints or claims related to any product should be directed to the appropriate merchant or seller.
 
 PriceGrabber does not warrant that product descriptions, pricing, editorial commentary or any other content of the Site, regardless of its source, is accurate, complete, reliable, current or error-free. Site content is provided for informational purposes only and does not constitute an endorsement by PriceGrabber of any product, merchant, seller, service, or any reviews or comments thereof regardless of the source of such review or comment. PriceGrabber assumes no liability for inaccuracy or incompleteness in its search results, editorial content, user ratings (e.g. user merchant rating, or user product rating) or other content on the Site.
+
+A note about Mature Content Channel Listings. PriceGrabber provides a platform for the display of materials which may, in some jurisdictions, be considered "mature" content. No representation or warranty is made regarding the types of products, their use or any compliance with law related to their display or use. Availability of such content is reserved for users self-identifying as meeting the age requirements for access.
 
 **CONTENT SUBMISSION**
 
@@ -29,7 +31,7 @@ You agree that you shall not post or provide any information to/for the Sites:
 *   that infringes any third party's copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy.
 *   that violates any law, statute, ordinance or regulation in any applicable jurisdictions (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination, false advertising and privacy).
 *   that is, or may reasonably be considered to be, defamatory, hateful, racially or religiously biased or offensive (including the use of swear words), unlawfully threatening or unlawfully harassing to any individual, partnership or corporation.
-*   for which you were compensated or granted any consideration by any third party;
+*   for which you were compensated or granted any consideration by any third party.
 *   that seeks to obtain a commercial advantage;
 *   that includes any information that references other web sites, addresses, email addresses, contact information, phone numbers or other personal information such as credit card numbers. or
 *   that contains any computer viruses, worms or other damaging or potentially damaging computer programs or files.
@@ -71,7 +73,7 @@ In order to submit a merchant review you may be required to have a Confirmed Mem
 
 PriceGrabber may provide links to the sites of third-party merchants, affiliated companies, co-brand partners and other parties. These links are provided solely as a convenience to you, and do not constitute an endorsement by PriceGrabber of the content of such third-party sites nor of the business practices of such other businesses, entities or individuals. PriceGrabber is not responsible for examining or evaluating, and does not warrant or claim responsibility in any way, the products, services, offerings or business practices of any of these businesses, entities or individuals or the content of their web sites. You should carefully review their privacy statements and other conditions of use.
 
-PriceGrabber has no control over the business practices of any third-party merchant or seller, nor does it controlin any way the quality, safety or legality of any item listed on the Site or any business transaction that occurs asa result of products listed on the Site.
+PriceGrabber has no control over the business practices of any third-party merchant or seller, nor does it controlin any way the quality, safety or legality of any item listed on the Site or any business transaction that occurs as a result of products listed on the Site.
 
 IN THE EVENT OF A DISPUTE BETWEEN YOU AND A MERCHANT LISTED ON THE SITE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU RELEASE PRICEGRABBER, ITS SUBSIDIARIES, AFFILIATES, CO-BRAND PARTNERS OR OTHER THIRD PARTIES UNDER CONTRACT WITH PRICEGRABBER, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND LEGAL REPRESENTATIVES FROM AND AGAINST CLAIMS AND DAMAGES OF ANY KIND, KNOWN AND UNKNOWN, SUSPECTED AND UNSUSPECTED, DISCLOSED AND UNDISCLOSED, ARISING OUT OF OR IN ANY WAY CONNECTED WITH SUCH A DISPUTE.
 
@@ -99,6 +101,7 @@ PriceGrabber disclaims any responsibility for the content of any third party mat
 
 Written notification must be submitted to the following Designated Agent:
 
+  
 By Mail:  
 PriceGrabber.com Inc.  
 Attn: General Counsel  
@@ -140,29 +143,43 @@ Upon receipt of a Counter Notification containing the information as outlined in
 
 If any provision of these Terms of Use and Privacy Statement or the Member Agreement is held to be invalid, void or unenforceable for any reason, such provision shall be struck and the remaining provisions shall remain enforceable. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. You agree that these Terms of Use and Privacy Statement and the Member Agreement and all agreements and notices incorporated herein may be automatically assigned by PriceGrabber, in our sole discretion, to a third party. You may not assign your obligations to any other entity.
 
+**A Special Note about Children's Privacy**
+
+You must be at least 18 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our website only in conjunction with your parents or guardians.
+
 **SITE POLICIES**
 
 Please review PriceGrabber's other policies posted on the Site, which are incorporated herein by reference.
 
-PriceGrabber Member Agreement (http://www.pricegrabber.com/info\_memtermsofuse.php)  
-Storefront Transaction Protection Policy  
-(http://www.pricegrabber.com/info\_policies.php/policy=protection)  
-Listing Policy (http://www.pricegrabber.com/info\_policies.php/policy=listing)  
-Forms of Payment Policy (http://www.pricegrabber.com/info\_policies.php/policy=payment)  
-Shipping Policy (http://www.pricegrabber.com/info\_policies.php/policy=shipping)  
-Fees and Billing Policy (http://www.pricegrabber.com/info\_policies.php/policy=billing)  
-Member Rating System Policy (http://www.pricegrabber.com/info\_policies.php/policy=rating)  
-Member Account Levels Policy (http://www.pricegrabber.com/info\_policies.php/policy=accounts)  
-Trading Limit Policy (http://www.pricegrabber.com/info\_policies.php/policy=limit)  
+PriceGrabber Member Agreement (http://www.pricegrabber.com/info\_memtermsofuse.php)
+
+Storefront Transaction Protection Policy (http://www.pricegrabber.com/info\_policies.php/policy=protection)
+
+Listing Policy (http://www.pricegrabber.com/info\_policies.php/policy=listing)
+
+Forms of Payment Policy (http://www.pricegrabber.com/info\_policies.php/policy=payment)
+
+Shipping Policy (http://www.pricegrabber.com/info\_policies.php/policy=shipping)
+
+Fees and Billing Policy (http://www.pricegrabber.com/info\_policies.php/policy=billing)
+
+Member Rating System Policy (http://www.pricegrabber.com/info\_policies.php/policy=rating)
+
+Member Account Levels Policy (http://www.pricegrabber.com/info\_policies.php/policy=accounts)
+
+Trading Limit Policy (http://www.pricegrabber.com/info\_policies.php/policy=limit)
+
 Fees Refund Policy (http://www.pricegrabber.com/info\_policies.php/policy=refund)
 
 **ADDRESS FOR NOTICE**
 
-Notices to PriceGrabber (other than as aforementioned for Digital Millennium Copyright Act infringement notices) can be sent by accessing the following link: http://www.pricegrabber.com/info\_notices.php. PriceGrabber's mailing address is:
+Notices to PriceGrabber (other than as aforementioned for Digital Millennium Copyright Act infringement notices) can be sent by accessing the following link: http://www.pricegrabber.com/info\_notices.php.
+
+PriceGrabber's mailing address is:
 
 PriceGrabber.com Inc.  
 4859 W. Slauson Ave. #259  
-Los Angeles, CA 90056  
+Los Angeles, CA 90056
 
 **PRIVACY POLICY**
 
@@ -174,11 +191,11 @@ PriceGrabber will not disclose your personal information to any third party unle
 
 In certain instances, PriceGrabber may request that you provide secondary information (e.g., demographic information), which we may use, for example, to learn more about our customers and to develop and improve our services. Any requests for secondary information will be marked "optional" (or its equivalent). We may compile your personal information with that collected from other customers to create aggregate data. Aggregate data is information about groups of customers and, once compiled, will in no way identify you as an individual. We may disclose aggregate data to our business affiliates, advertisers, and other parties.
 
-Our web servers collect from Site visitors’ statistical information regarding what pages are visited, the date and time of the visits, how long it took a user to download a page, and the TCP/IP address of the user. These automated server functions do not collect this information in a manner intended to identify your individual use of the Site, nor do we use this information for any such purpose. This information is collected to assist us in maintaining a high quality site, as well as, providing necessary traffic information to our advertisers. We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the product codes and prices for merchandise that visitors purchase, and the pages visited. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here: http://www.omniture.com/privacy/policy#optout
+Our web servers collect from Site visitor's statistical information regarding what pages are visited, the date and time of the visits, how long it took a user to download a page, and the TCP/IP address of the user. These automated server functions do not collect this information in a manner intended to identify your individual use of the Site, nor do we use this information for any such purpose. This information is collected to assist us in maintaining a high quality site, as well as, providing necessary traffic information to our advertisers. We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the product codes and prices for merchandise that visitors purchase, and the pages visited. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here: http://www.omniture.com/privacy/policy#optout
 
 **Cookie Information:**
 
-The Site contains cookie technology, which collects non-personal information about you which is used to customize the Site for your future use. For example, we utilize a cookie in the BottomLinePrice feature of the Site to store the zip code that you are using to provide customized shipping and sales tax information. In conjunction with our in-house advertising, we use third-party advertising companies to place customized advertisements on the pages you view on the Site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to the Site. These companies may use non-personal information collected by the cookies about your visits to the Site and other web sites in order to provide you with advertisements about goods and services of interest to you. You can prevent the use of cookies on your computer by adjusting the privacy settings in your browser.
+The Site contains cookie technology, which collects non-personal information about you which is used to customize the Site for your future use. For example, we utilize a cookie in the BottomLinePriceTM. feature of the Site to store the zip code that you are using to provide customized shipping and sales tax information. In conjunction with our in-house advertising, we use third-party advertising companies to place customized advertisements on the pages you view on the Site. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to the Site. These companies may use non-personal information collected by the cookies about your visits to the Site and other web sites in order to provide you with advertisements about goods and services of interest to you. You can prevent the use of cookies on your computer by adjusting the privacy settings in your browser.
 
 The Site contains links to web sites of third parties. PriceGrabber is not responsible for the actions of these third parties, including their privacy practices and any content posted on their web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personal information. PriceGrabber adheres to industry recognized standards to secure any personal information in our possession, and to secure it from unauthorized access and tampering. However, as is true with all online actions, it is possible that third parties may unlawfully intercept transmissions of personal information, or other users of the Site may misuse or abuse your personal information that they may collect from the Site.
 
