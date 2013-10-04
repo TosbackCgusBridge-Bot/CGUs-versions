@@ -263,9 +263,9 @@ Cosmic Circus Morphs Cosmic Circus Morphs
 
 Take a look at the morphs from Season 5, Episode 8, Cosmic Circus.
 
-Best Costumes - Planet Comicon - Part 2 Best Costumes - Planet Comicon - Part 2
+Ghost Mine - Sneak Peek - Wandering Mine Ghost Mine - Sneak Peek - Wandering Mine
 
-See the best of the costumes from Planet Comicon!
+Catch a sneak peek of the next episode of Ghost Mine, Wednesdays at 10/9c.
 
 *   FAQ
 *   Feedback
