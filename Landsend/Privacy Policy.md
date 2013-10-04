@@ -298,7 +298,6 @@ Enter Keyword or Item # Search
         *   Toddler (2T-4T)
     *   Beach Towels
     *   Totes
-    *   Water Shoes
 *   Outerwear
     
     *   Women
@@ -366,6 +365,7 @@ Enter Keyword or Item # Search
         *   Bedding
         *   Bath
         *   Throws &. Home Décor
+        *   Kitchen &. Dining
         *   Storage &. Organization
         *   Seasonal Décor &. Gifts
         *   Backpacks, Luggage &. Bags
