@@ -16,6 +16,7 @@ Skip Navigation
 *   Training
     *   Open Enrollment
     *   Courses
+    *   Sencha Certification Program
 *   Company
     *   Overview
     *   Team
@@ -179,6 +180,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   FAQ
 *   Training
     *   Courses
+    *   Sencha Certification Program
 *   Developer Center
 *   Sencha Devs
 *   Sencha Market
