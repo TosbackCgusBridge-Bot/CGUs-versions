@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Plaid forever: Grunge is still influential | Bill Cunningham
+Search Help "Paraíso": The beauty and danger of window cleaners' work
 
 Also in Video »
 
-*   Doggie weight watchers
-*   Rio's chicken wings at home
+*   "No Ordinary Passenger"
+*   "Bodies on the Border"
 
   
 
