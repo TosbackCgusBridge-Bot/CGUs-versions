@@ -282,6 +282,8 @@ Can't get enough HowStuffWorks?
     
     Animal Planet
     
+    Animalist
+    
     Animal Planet Live
     
     Destination America
