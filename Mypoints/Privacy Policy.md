@@ -120,14 +120,9 @@ We may use contractors or vendors to help us provide some of the services at our
 **14\. Changes to this Privacy Policy**  
 We may amend this policy from time to time. If we make any material changes in the way we use your personally identifiable information collected at this site (www.mypoints.com) we will notify you by email and at the top of this Privacy Policy web page. For questions and concerns about the information collected or used at this site, please contact memberservices@mypoints.com.  
   
-**15\. TRUSTe Privacy Certification**  
-MyPoints is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. MyPoints has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. The TRUSTe program only covers information that is collected through this website and **does not** cover information that may be collected through any software downloaded from this website.  
-  
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at memberservices@mypoints.com or at:  
   
 MyPoints.com  
 Attention: Member Services (Privacy)  
 50 California Street, 3rd Floor  
-San Francisco, CA 94111  
-  
-If you do not feel as though your question or concern has been addressed, or we do not provide you with an acknowledgement of your issue, you should contact TRUSTe through their TRUSTe Watchdog Dispute Resolution Process at: (http://www.truste.org/consumers/watchdog\_complaint.php).
+San Francisco, CA 94111
