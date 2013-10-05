@@ -243,7 +243,6 @@ More NFL Sites
 *   Pro Football Hall of Fame
 *   NFL Ticket Exchange
 *   NFL Shop
-*   NFL Women's Apparel
 *   Licensing
 
 © 2013 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the National Football League.The team names, logos and uniform designs are registered trademarks of the teams indicated. All other NFL-related trademarks are trademarks of the National Football League. NFL footage © NFL Productions LLC.
