@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Kundendaten durch Panne in Vodafone-Shop auf der Straße gelandet
 *   Facebook-Seiten: Verwaltungsgericht verhandelt über Klagen
 *   Kalifornien geht gegen «Rachepornos» vor
 *   Datenschützer legen Forderungspaket für neue Bundesregierung vor
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Datenschützer beenden Herbstkonferenz in Bremen
 *   Facebook verbessert Graph Search: Gezielt nach Postings suchen
 *   Datenschützer fordern Zeichen von künftiger Bundesregierung
-*   Datenschützer treffen sich zur Herbstkonferenz in Bremen
 
 schließen schließen
 
+*   Datenschützer treffen sich zur Herbstkonferenz in Bremen
 *   Datenschützer treffen sich zur Herbstkonferenz
 *   Bericht: Datenschützer in Polizeiakademie sammelte selber Daten
 *   Datenschützer beschäftigen sich in Bremen mit Spähaffäre
@@ -113,7 +114,6 @@ schließen schließen
 *   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
 *   Datenschützer Schaar fordert mehr Transparenz von Geheimdiensten
 *   iPhone 5s: Datenschützer warnt vor Fingerscanner in iPhone
-*   Göring-Eckardt reicht wegen "Handygate" Verfassungsbeschwerde ein
 
 *   Kundencenter
 *   Preise und AGB
