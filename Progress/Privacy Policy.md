@@ -4,7 +4,6 @@
 *   Innovation
 *   myAudi
 *   Search
-*   Audi and "Ender's Game"
 
 *   Find a dealer
 *   About Audi
