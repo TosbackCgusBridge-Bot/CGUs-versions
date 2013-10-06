@@ -31,6 +31,7 @@ Zynga Play now!
     *   Facebook Games
     *   Mobile Games
     *   Other Platforms
+    *   Slots
 *   news
     *   Press Releases
     *   Company Images
@@ -373,6 +374,7 @@ Games
 
 *   Play on Zynga.com
 *   Bubble Safari
+*   Slots
 *   CastleVille
 *   Hidden Chronicles
 *   CityVille
@@ -382,7 +384,6 @@ Games
 *   Zynga Poker
 *   Words with Friends
 *   Mafia Wars
-*   Slots
 *   Facebook Games
 *   Mobile Games
 
