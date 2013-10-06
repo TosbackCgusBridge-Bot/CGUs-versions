@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help The Week's Movies: "Gravity," "A Touch of Sin" and "A.C.O.D."
+Search Help An Italian town says yes, please, to cheese
 
-Also in Video »
+Also in T Magazine »
 
-*   Boehner: "This isn't some damned game"
-*   Snowboarding at the Cardrona halfpipe
+*   Iceland's otherworldly beauty
+*   Paris Fashion Week: Alexander McQueen
 
   
 
