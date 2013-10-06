@@ -7,13 +7,13 @@ Log Into MySubaru | Help |
     *   View All Vehicles
     *   BRZ
         
-        Starting at **$25,595**
+        Starting at **$25,495**
         
-        2014 BRZ
+        2013 BRZ
         
         Starting at
         
-        $25,595
+        $25,495
         
         MSRP\*
         
