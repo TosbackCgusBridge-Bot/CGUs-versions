@@ -11,8 +11,8 @@ My Bag: 0 Items $0.00 Aéropostale Go
 *   Gift Cards
 *   Email Sign Up Sign Up Sign up for Aéropostale emails Sign up for P.S. From Aéropostale emails
 
-*   Aero Girls
-*   Aero Guys
+*   Girls
+*   Guys
 *   ROOM
 *   Aero Sale
 
