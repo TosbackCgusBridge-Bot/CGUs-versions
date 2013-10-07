@@ -89,32 +89,6 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 *   E-Mail Center - Kalender
 
-mehr zum Thema alle passenden Artikel
-
-*   EU-Kommissarin: Deutschland beim Datenschutz gefordert
-*   Reding fordert Vorreiterrolle Deutschlands beim Datenschutz
-*   Kundendaten durch Panne in Vodafone-Shop auf der Straße gelandet
-*   Facebook-Seiten: Verwaltungsgericht verhandelt über Klagen
-*   Kalifornien geht gegen «Rachepornos» vor
-*   Datenschützer legen Forderungspaket für neue Bundesregierung vor
-*   Datenschützer beenden Herbstkonferenz in Bremen
-*   Datenschützer beenden Herbstkonferenz in Bremen
-
-schließen schließen
-
-*   Facebook verbessert Graph Search: Gezielt nach Postings suchen
-*   Datenschützer fordern Zeichen von künftiger Bundesregierung
-*   Datenschützer treffen sich zur Herbstkonferenz in Bremen
-*   Datenschützer treffen sich zur Herbstkonferenz
-*   Bericht: Datenschützer in Polizeiakademie sammelte selber Daten
-*   Datenschützer beschäftigen sich in Bremen mit Spähaffäre
-*   Opposition will Filmen von Demos per Klage kippen
-*   Urteil: LKA muss genetischen Fingerabdruck löschen
-*   Chaos Computer Club überlistet Fingerabdrucksensor des iPhone 5s
-*   Gericht prüft Speicherung von genetischem Fingerabdruck
-*   Landgericht: Durchsuchung von Rostocker Feuerwehr war rechtens
-*   NSA-Spähaffäre: Grüne und Linke fordern mehr Datensicherheit
-
 *   Kundencenter
 *   Preise und AGB
 *   Datenschutz
