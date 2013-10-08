@@ -1,4 +1,4 @@
-Motorola Mobility LLC (“Motorola”) – a Google company – recognizes that privacy and security are important for our customers and website users. This statement describes how Motorola collects, uses and safeguards information you provide when using \[motorola.com\]. By using this website, you consent to the collection and use of your information by Motorola as described in the policy currently in effect. Any changes to this statement will be posted on our websites, so please check back periodically to ensure that you have the most current statement.
+Motorola Mobility LLC (“Motorola”) – a Google company – recognizes that privacy and security are important for our customers and website users. This statement describes how Motorola collects, uses and safeguards information you provide when using motorola.com. By using this website, you consent to the collection and use of your information by Motorola as described in the policy currently in effect. Any changes to this statement will be posted on our websites, so please check back periodically to ensure that you have the most current statement.
 
 What information is collected at motorola.com and how is it used?
 
