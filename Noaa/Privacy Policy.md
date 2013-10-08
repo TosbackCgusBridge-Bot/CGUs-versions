@@ -2,8 +2,8 @@
 NOAA.gov and most associated web sites  
 are unavailable.  
   
-Only web sites necessary to protect lives  
-and property will be maintained.  
+Specific NOAA web sites necessary to protect lives  
+and property are operational and will be maintained.  
   
 See Weather.gov for critical weather  
 information or contact USA.gov for more  
