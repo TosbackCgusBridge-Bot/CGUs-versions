@@ -23,7 +23,7 @@ Safety, Security and Privacy
 *   Privacy Policy
 *   Canadian Privacy Policy
 
-Goto helpdesk
+Go to helpdesk
 
 **Privacy Policy**
 
