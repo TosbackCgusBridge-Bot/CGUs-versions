@@ -19,6 +19,7 @@ Zynga Play now!
     *   Play on Zynga.com
     *   Featured Games
     *   Bubble Safari
+    *   Slots
     *   CastleVille
     *   Hidden Chronicles
     *   CityVille
@@ -31,7 +32,6 @@ Zynga Play now!
     *   Facebook Games
     *   Mobile Games
     *   Other Platforms
-    *   Slots
 *   news
     *   Press Releases
     *   Company Images
