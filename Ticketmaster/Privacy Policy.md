@@ -1,4 +1,4 @@
-Last Updated July 20, 2012
+Last Updated October 08, 2013
 
 This Privacy Policy applies to the sites and apps where it appears.
 
@@ -58,7 +58,7 @@ You have certain choices about how we use your information.
 
 **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click here or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-**You can modify information you have given us.** To modify or delete information you gave us, click on My Live Nation or My Ticketmaster, as applicable, and follow the instructions to modify your profile. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
+**You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
 **You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click here.
 
@@ -78,7 +78,7 @@ Parents, you can also learn more about how to protect children's privacy online 
 
 We use standard security measures.
 
-We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
 
 We are TRUSTe certified.
 
