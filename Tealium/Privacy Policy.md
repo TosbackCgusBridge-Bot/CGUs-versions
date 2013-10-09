@@ -1,4 +1,5 @@
 *   Contact Tealium
+*   Blog
 *   Products Products back
     *   Overview
     *   Tag Management Suite Tag Management Suite back
@@ -119,8 +120,8 @@ Learn more about our user conference »
     *   Digital 100
     *   Careers
 
-Come See Us at Shop.org  
-View our upcoming shows »
+Webinar: Digital Data Distribution  
+Have you been able to realize the promise of “big data”?
 
 Request a demo
 
