@@ -6,362 +6,171 @@ You must have Cookies enabled on your Web browser to fully interact with our sit
 
 JavaScript is not enabled on your browser
 
-You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.) Customer Service / Store Locator / Track Order / Gift Cards Sign In / Create Account Shopping Bag
+You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.)
 
-Ship to:Change
+*   Help Center
+    *   Contact Us
+    *   Order Tracking
+    *   FAQ
+    *   Live Chat
+*   Store Locator
+*   Gift Cards
+*   Business Outfitters
+*   My Bag0
+*   My Account
+    *   Sign In
+    *   Create an Account
+    *   Manage Account
+    *   Edit Order
+    *   Order History
+    *   Log Out
+*   Ship To
 
-Enter Keyword or Item # Search
+Lands' End
 
 *   Women
-    
-    *   Outerwear
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-    *   Knit Tops, Polos &. Turtlenecks
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Shirts &. Blouses
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Sweaters &. Cardigans
+    *   *   Outerwear Shop
+        *   Shoes &. Boots
+        *   Canvas Lands' End
+        
+        *   Featured Shops
+        *   New Arrivals
+        *   Starfish Collection
+        *   Cardigan Shop
+        *   Sport Knit Collection
+        *   Sale
+        *   Canvas Lands' End
+        
+        *   Shop By Size Range
         *   Regular
         *   Plus
         *   Petite
         *   Tall
         *   Petite Plus
-    *   Pants &. Crops
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Shorts
-        *   Regular
-        *   Plus
-        *   Petite
-    *   Dresses
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Petite Plus
-    *   Skirts
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Blazers &. Jackets
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Swimsuits
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Hats, Gloves &. Scarves
-    *   Sleepwear
-        *   Regular
-        *   Plus
-        *   Petite
-    *   Shoes
-        *   Regular
-        *   Wide
-        *   Regular Calf
-        *   Wide Calf
-    *   Socks, Tights &. Underwear
-    *   Accessories
-        *   Regular
-        *   Plus
-    *   Activewear
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-    *   Plus Size Clothing
-    *   Petite Clothing
-    *   New Arrivals
-    *   Sale
-*   Men
-    
-    *   Outerwear
-        *   Regular
-        *   Tall
-        *   Big
-    *   Polos, T-shirts &. Turtlenecks
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-    *   Dress Shirts
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-    *   Casual Button-down Shirts
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-    *   Sweaters &. Cardigans
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-    *   Pants
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-    *   Sportcoats &. Blazers
-        *   Regular
-        *   Tall
-        *   Big
-        *   Short
-    *   Sleepwear
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-    *   Shoes
-        *   Regular
-        *   Wide
-    *   Ties
-    *   Belts &. Accessories
-    *   Socks &. Underwear
-    *   Hats, Gloves &. Scarves
-    *   Shorts
-        *   Regular
-        *   Tall
-        *   Big and Tall
-    *   Swimwear
-        *   Regular
-        *   Big
-        *   Big and Tall
-    *   Activewear
-        *   Regular
-        *   Tall
-        *   Big
-    *   New Arrivals
-    *   Sale
-*   Kids
-    
-    *   Girls
+        *   Tall Plus
+    *   *   Categories
         *   Outerwear
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Tops
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
+        *   Knit Tops, Polos &. Turtlenecks
+        *   Shirts &. Blouses
         *   Sweaters &. Cardigans
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Dresses
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Pants &. Leggings
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   Skirts &. Skorts
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
+        *   Pants &. Crops
         *   Shorts
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
+        *   Dresses
+        *   Skirts
         *   Blazers &. Jackets
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
+        *   Swimsuits
         *   Hats, Gloves &. Scarves
         *   Sleepwear
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-            *   Infant/Toddler
+        *   Shoes
+        *   Socks, Tights &. Underwear
+        *   Accessories
+        *   Activewear
+*   Men
+    *   *   Made to Work
+        *   Outerwear Shop
+        *   Shoes &. Boots
+        *   Canvas Lands' End
+        
+        *   Featured Shops
+        *   New Arrivals
+        *   No-Iron Collection
+        *   At the Office
+        *   Sale
+        *   Canvas Lands' End
+        
+        *   Shop By Size Range
+        *   Regular
+        *   Tall
+        *   Short
+        *   Big
+        *   Big &. Tall
+    *   *   Categories
+        *   Outerwear
+        *   Polos, T-shirts &. Turtlenecks
+        *   Dress Shirts
+        *   Casual Button-down Shirts
+        *   Sweaters &. Cardigans
+        *   Pants
+        *   Sportcoats &. Blazers
+        *   Sleepwear
+        *   Shoes
+        *   Ties
+        *   Belts &. Accessories
+        *   Socks &. Underwear
+        *   Hats, Gloves &. Scarves
+        *   Shorts
+        *   Swimwear
+        *   Activewear
+*   Kids
+    *   *   Outerwear Shop
+        *   Girls Shoes &. Boots
+        *   Boys Shoes &. Boots
+        *   School Uniforms
+        
+        *   Featured Shops
+        *   New Arrivals
+        *   Boys Iron Knee
+        *   Girls Knit Kit
+        *   Sale
+        
+        *   Shop By Age Range
+        *   *   Toddler Girl (2T-4T)
+            *   Little Girl (size 4-7)
+            *   Big Girl (size 7-20)
+            
+            *   Toddler Boy (2T-4T)
+            *   Little Boy (size 4-7)
+            *   Big Boy (size 7-20)
+    *   *   Girls
+        *   Outerwear
+        *   Tops
+        *   Sweaters &. Cardigans
+        *   Dresses
+        *   Pants &. Leggings
+        *   Skirts &. Skorts
+        *   Shorts
+        *   Blazers &. Jackets
+        *   Hats, Gloves &. Scarves
+        *   Sleepwear
         *   Swim
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Backpacks &. Lunch Boxes
         *   Tights, Socks &. Underwear
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Accessories
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Infant/Toddler
         *   Shoes
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   School Uniforms
-        *   New Arrivals
-        *   Sale
-    
-    *   Boys
+    *   *   Boys
         *   Outerwear
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Tops
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Sweaters
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
         *   Pants
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Blazers &. Jackets
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Hats, Gloves &. Scarves
         *   Sleepwear
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-            *   Infant/Toddler
         *   Shorts
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Swim
-            *   Big Kid (7-20)
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Backpacks &. Lunch Boxes
         *   Ties &. Accessories
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Infant/Toddler
         *   Socks &. Underwear
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
         *   Shoes
-            *   Big Kid (7-20)
-            *   Little Kid/Big Kid
-            *   Little Kid (4-7)
-            *   Toddler (2T-4T)
-        *   School Uniforms
-        *   New Arrivals
-        *   Sale
-*   Swim
-    
-    *   Women
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-    *   Men
-        *   Regular
-        *   Big
-        *   Big and Tall
-    *   Girls
-        *   Big Kid (7-20)
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-    *   Boys
-        *   Big Kid (7-20)
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-    *   Beach Towels
-    *   Totes
 *   Outerwear
-    
-    *   Women
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-    *   Men
-        *   Regular
-        *   Tall
-        *   Big
-    *   Girls
-        *   Big Kid (7-20)
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-    *   Boys
-        *   Big Kid (7-20)
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-    *   Hat Gloves &. Scarves
-    *   Long Underwear
-    *   Snow Boots
-*   Shoes
-    
-    *   Women
-        *   Regular
-        *   Wide
-        *   Regular Calf
-        *   Wide Calf
-    *   Men
-        *   Regular
-        *   Wide
-    *   Girls
-        *   Big Kid (7-20)
-        *   Little Kid/Big Kid
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-    *   Boys
-        *   Big Kid (7-20)
-        *   Little Kid/Big Kid
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-*   School Uniforms
-    
-    *   Girls &. Women
-        *   Big Kid (7-20)
-        *   Little Kid/Big Kid
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-        *   Junior
-        *   Adult
-    *   Boys &. Men
-        *   Big Kid (7-20)
-        *   Little Kid/Big Kid
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-        *   Young Men
-        *   Adult
-    *   Backpacks &. Camp
-    *   Find Your School's Dress Code
-    *   Sale
-*   For the Home
-    
-    *   Home
+    *   *   Shop Outerwear
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Hat Gloves &. Scarves
+        *   Long Underwear
+        *   Snow Boots
+*   Home
+    *   *   Totes
+        
+        *   Featured Shops
+        *   New Arrivals
+        *   Christmas Shop
+        *   Supima Bedding &. Bath
+        *   Flannel Bedding
+        *   Canvas Shop
+        *   Sale
+    *   *   Categories
         *   Bedding
         *   Bath
         *   Throws &. Home Décor
@@ -373,56 +182,61 @@ Enter Keyword or Item # Search
         *   Outdoor Living
         *   Kids Home
         *   Dog Shop
-        *   New Arrivals
+*   Uniforms
+    *   *   Find your School
+        
+        *   Featured Shops
+        *   Polos that Perform
+        *   Iron Knee Pants
+        *   Phys Ed Locker Room
+        *   Backpacks &. Camp
         *   Sale
-    
-    *   Luggage
-        *   Tote Bags
-        *   Luggage Bags
-        *   Backpacks &. Lunch Boxes
-        *   Tech Cases
-        *   Kids Luggage
-        *   Diaper Bags
+        
+        *   Shop By Age Range
+        *   Toddler
+        *   Junior
+        *   Little Kid
+        *   Young Men
+        *   Big Kid
+        *   Adult
+    *   *   Girls &. Women
+        *   Shirts
+        *   Sweaters
+        *   Pants
+        *   Shorts
+        *   Dresses &. Jumpers
+        *   Skirts &. Skorts
+        *   Blazers
+        *   Activewear
+        *   Outerwear
+        *   Shoes &. Boots
+        *   Accessories
+        *   Swim
+    *   *   Boys &. Men
+        *   Shirts
+        *   Sweaters
+        *   Pants
+        *   Shorts
+        *   Blazers
+        *   Activewear
+        *   Outerwear
+        *   Shoes &. Boots
+        *   Accessories
+        *   Swim
 *   Sale
-    
-    *   Women
-        *   Regular
-        *   Petite
-        *   Tall
-        *   Plus
-        *   Petite Plus
-    *   Men
-        *   Regular
-        *   Tall
-        *   Big
-        *   Big and Tall
-        *   Short
-    *   Girls
-        *   Big Kid (7-20)
-        *   Little Kid (4-7)
-        *   Little Kid/Big Kid
-        *   Toddler (2T-4T)
-        *   Infant/Toddler
-    *   Boys
-        *   Big Kid (7-20)
-        *   Little Kid/Big Kid
-        *   Little Kid (4-7)
-        *   Toddler (2T-4T)
-        *   Infant/Toddler
-    *   For the Home
-    *   On The Counter
-    *   Not Quite Perfect
-*   canvas
-    
-    *   Women
-    *   Men
-*   lebo
-    
-    *   ABOUT LANDS' END BUSINESS OUTFITTERS
+    *   *   Shop Sale
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Home
         
-        Lands' End is a leading provider of logo'd apparel and gear for companies of all sizes.
-        
-        Visit Lands' End Business Outfitters The Lands' End Business Outfitters site does not share a shopping cart with this site.
+        *   Clearance
+        *   On The Counter
+        *   Not Quite Perfect
+        *   Clearance - Last Chance
+
+Search
 
 *   Customer Service
     *   Frequently Asked Questions
@@ -505,19 +319,18 @@ Children's Privacy at Lands' End
 
 Lands' End does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our website with the involvement of a parent or guardian. Moreover, Lands' End is concerned about the safety of children. Occasionally, Lands' End may conduct promotions or contests that allow children under the age of 13 to participate. In those instances, we will use reasonable efforts to obtain verifiable parental consent before collecting any personally identifiable information from these participants. Rest assured that Lands' End will never knowingly request personally identifiable information from anyone under the age of 13 without making reasonable efforts to obtain verifiable parental consent. In addition, Lands' End will not condition a child's participation in an event on the provision of more personal information than is reasonably necessary to participate in the activity, and Lands' End will not sell that information and will only use that information in the manner that we disclose in the promotion or contest. In those instances where Lands' End collects personal information from a child, that child's parents or guardians will have the ability to review the information provided by their child by sending an email message to myprivacy@landsend.com or to the email address listed on the landsend.com web page that collected their child's information. Parents or guardians may also request that Lands' End not make contact with their child. If such a parental request is received, Lands' End will make all reasonable efforts to make sure that no communications are sent to the child.
 
-Get Exclusive Offers + News Enter Your Email Address Sign up  
+Get Exclusive Offers + News Sign Up
 
-*   Customer Service
-*   Guaranteed. Period.®
-*   Contact Us
-*   FAQs
+*   Customer Service 
+*   Guaranteed. Period.® 
+*   Contact Us 
+*   FAQs 
 
-Get Live Help
+**Get Live Help**  
+A helpful Customer Care Specialist is just a click or call away.  
+Call 1.800.963.4816 Text Chat Now
 
-A helpful Customer Care Specialist is just a click or call away. Call 1.800.963.4816
-
-Text Chat Now Company
-
+*   Company
 *   About Us
 *   The Lands' End Blog
 *   Careers
@@ -526,8 +339,7 @@ Text Chat Now Company
 *   Newsroom
 *   Affiliate Program
 
-Services
-
+*   Services
 *   Gift Cards
 *   Monogramming &. Embroidery
 *   Shop Your Way Rewards
@@ -537,8 +349,7 @@ Services
 *   Glossary
 *   Site Map
 
-Specialty Shops
-
+*   Specialty Shops
 *   LE Business Outfitters
 *   Gifts
 *   Women's Plus Sizes
@@ -547,8 +358,7 @@ Specialty Shops
 *   Swimwear
 *   International Websites
 
-Policies
-
+*   Policies
 *   Privacy
 *   Security
 *   Shipping
@@ -557,26 +367,18 @@ Policies
 
 Sustainability
 
-We're a proud partner of the National Forest Foundation
+We're a proud partner of the National Forest Foundation.
 
-LEARN MORE
+Learn More Shop Our E-Catalog
 
-Shop Our E-Catalog
+Enviromentally friendly, easy to shop and always at your fingertips.
 
-Environmentally friendly, easy to shop and always at your fingertips.
+Browse Catalog Connect With Us
 
-BROWSE CATALOG
+From tablet to smart phone, we're everywhere you are.
 
-Connect with us
-
-From tablet to smartphone, we're everywhere you are.
-
-LEARN MORE
-
-Shop Your Way Rewards℠
+Learn More Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-JOIN NOW
-
-Sears K-mart   ® Copyright 2013 Lands' End
+Join Now ® Copyright 2013 Lands' End
