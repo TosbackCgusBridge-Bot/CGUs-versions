@@ -1,4 +1,4 @@
-Last Updated October 08, 2013
+Effective July 20, 2012 (last updated October 08, 2013)
 
 This Privacy Policy applies to the sites and apps where it appears.
 
