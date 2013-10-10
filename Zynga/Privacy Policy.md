@@ -23,7 +23,6 @@ Zynga Play now!
     *   CastleVille
     *   Hidden Chronicles
     *   CityVille
-    *   Empires &. Allies
     *   FarmVille
     *   Pioneer Trail
     *   Zynga Poker
@@ -378,7 +377,6 @@ Games
 *   CastleVille
 *   Hidden Chronicles
 *   CityVille
-*   Empires &. Allies
 *   FarmVille
 *   Pioneer Trail
 *   Zynga Poker
