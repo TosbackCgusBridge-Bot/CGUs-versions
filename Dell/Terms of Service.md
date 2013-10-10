@@ -41,7 +41,7 @@ Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contra
 
 Service Contracts
 
-Solution Station Phone Support Service TWG Innovative Solutions, Inc. In-Home Service After Remote Diagnosis (AVAILABILITY VARIES. CONSULT YOUR INVOICE TO DETERMINE IF YOU PURCHASED THIS AGREEMENT) Single Incident Expired Warranty Support (assistance offered to troubleshoot software or hardware issue) View More Warranties
+Advanced Flat Panel TV Installation (purchased before 1-26-2010) NEW Product Protection Plan Terms and Conditions Solution Station Phone Support Service View More Warranties
 
 Warranties
 
