@@ -20,7 +20,7 @@
     *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 Explore Build
     *   Highlander $29,020 starting msrp 1 20/25 est. mpg 2 Explore Build
     *   FJ Cruiser $27,130 starting msrp 1 16/20 est. mpg 2 Explore Build
-    *   4Runner $31,490 starting msrp 1 17/22 est. mpg 2 Explore Build
+    *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,040 as shown Explore Build
     *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 Explore Build
     *   Land Cruiser $78,755 starting msrp 1 13/18 est. mpg 2 Explore Build
 4.  Hybrids &. EVs
@@ -37,8 +37,6 @@
         mode mpg 6 Explore Build
     *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
-    *   2014 4Runner  
-        Coming Fall 2013 View More Info
     *   2014 Highlander  
         Coming Early 2014 View More Info
     *   Concept Vehicles See Vehicles
