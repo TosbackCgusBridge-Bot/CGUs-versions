@@ -251,19 +251,19 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Mortal Sins Face Off - Sneak Peek - Mortal Sins
+Syfy Video Face Off - Sneak Peek - The Laughing Dead Face Off - Sneak Peek - The Laughing Dead
 
 Catch a sneak peek of the next episode of Face Off, Tuesdays at 9/8c
 
-Winner Tells All: Episode 8 - Rayce Winner Tells All: Episode 8 - Rayce
+Winner Tells All: Episode 9 - Anthony Winner Tells All: Episode 9 - Anthony
 
-Season 2 winner Rayce Bird critiques the cast's make up from S5, Episode 8.
+Season 4 winner J. Anthony Kosar critiques the cast's make up from S5, Episode 9.
 
-Cosmic Circus Morphs Cosmic Circus Morphs
+Bonus Scene - Laney's Boobs Bonus Scene - Laney's Boobs
 
-Take a look at the morphs from Season 5, Episode 8, Cosmic Circus.
+Laney isn't sure how exactly how to sculpt.
 
-Ghost Mine - Sneak Peek - Wandering Mine Ghost Mine - Sneak Peek - Wandering Mine
+Ghost Mine - Sneak Peek - Mystery Train Ghost Mine - Sneak Peek - Mystery Train
 
 Catch a sneak peek of the next episode of Ghost Mine, Wednesdays at 10/9c.
 
