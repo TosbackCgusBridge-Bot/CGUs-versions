@@ -41,7 +41,7 @@ Legal Notices &. Trademarks
 *   Autodesk Subscription Terms and Conditions
 *   Per-Incident Support Terms and Conditions
 *   Software License Agreements
-*   Terms of Service: Autodesk® 360 and Other Services
+*   Terms of service: Autodesk® 360 and other web services
 *   Code of Business Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Education Terms of Use
