@@ -1,6 +1,6 @@
 Privacy Policy Privacy Policy
 
-InfoSpace, Inc. ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.
+InfoSpace, LLC ("InfoSpace") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"). InfoSpace is strongly committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who visit the InfoSpace Sites, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to the InfoSpace Sites, and not to the Web sites of other companies or organizations to which we provide links or to any software that may be downloaded from the InfoSpace Sites.
 
 Anonymous User Information
 
@@ -82,12 +82,12 @@ In response to concerns about protecting children's privacy online, Congress ena
 It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers
 
 Questions regarding children's privacy should be directed to:  
-InfoSpace, Inc.  
-601 108th Avenue NE, Suite 1200  
+InfoSpace, LLC  
+10900 NE 8th Street, Suite 800  
 Bellevue, Washington 98004 USA  
 \+ (1) 425.201.6100 phone  
 \+ (1) 425.201.6150 fax
 
 E-mail: Contact us
 
-Policy effective Oct 11, 2007
+Policy effective October 8, 2013
