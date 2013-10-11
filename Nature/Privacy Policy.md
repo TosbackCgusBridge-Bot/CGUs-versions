@@ -77,7 +77,7 @@ Sign up for our e-newsletter!
 *   Where We Work
 *   Green Living
 *   News &. Features
-*   Photos &. Multimedia
+*   Photos &. Video
 *   Gift and Estate Planning
 *   Search
 *   All Hands on Earth
