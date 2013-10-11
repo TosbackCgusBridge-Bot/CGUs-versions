@@ -41,7 +41,7 @@ Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contra
 
 Service Contracts
 
-Advanced Flat Panel TV Installation (purchased before 1-26-2010) NEW Product Protection Plan Terms and Conditions Solution Station Phone Support Service View More Warranties
+Windows OS Installation (In-Home) Service Agreement Virus and Spyware Removal (In-Home) Service Agreement Upgrade Your Internal Computer Hardware (In-Home) Service Agreement View More Warranties
 
 Warranties
 
