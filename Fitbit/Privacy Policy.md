@@ -3,6 +3,7 @@ Fitbit Log in • Get Started
 *   Products
     
     *   Devices
+    *   **Force™** Wireless Activity + Sleep Wristband
     *   **Flex™** Wireless Activity + Sleep Wristband
     *   **Zip™** Wireless Activity Tracker
     *   **One™** Wireless Activity + Sleep Tracker
@@ -187,6 +188,8 @@ United States
 
 Products
 
+*   Force™  
+    Wireless Activity + Sleep Wristband
 *   Flex™  
     Wireless Activity + Sleep Wristband
 *   Zip™  
