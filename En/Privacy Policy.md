@@ -175,7 +175,6 @@ Personal Data **Protection Policy**
     
     The user can deactivate Google cookies by deactivating cookies in their browser.
     
-    Softonic also uses cookies related to the Nielsen measuring system.  
     Softonic does not spam and only handles data provided by the Users via the Website or email messages.
     
 10.  Right to Acces, Correct and Cancel Data
