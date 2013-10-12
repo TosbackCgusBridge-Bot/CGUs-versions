@@ -74,6 +74,8 @@ We give you choices about how we communicate with you.
 
 Electronic and Mobile Communications. We only send you promotional mobile or email messages if you provide us with your contact information and opt in to receive the messages. You can stop receiving promotional mobile and email messages from Michaels by following the instructions provided in any such message you receive.
 
+You agree that by providing your wireless telephone number to Michaels you’re expressly consenting to receive marketing text messages from Michaels to the mobile number provided. Consent is not required to purchase goods or services. Up to 8 Messages/Mo. from Michaels Alerts about promotions &. inspiration. Msg&DataRatesMayApply Reply STOP 2 end HELP 4 Help.
+
 Postal Mail. Where permitted by law, we may mail you unsolicited offers or product information that we believe is of interest to you. You can stop receiving promotional postal mail from Michaels. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
 Access. You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with midesign.michaels.com/invitations and/or with midesign.michaels.com/digitalphoto, you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
