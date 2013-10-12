@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook macht alle Nutzerprofile öffentlich
+*   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
 *   Vater von US-Informant Edward Snowden in Moskau eingetroffen
-*   Verwaltungsgericht erlaubt Facebook-Fanseiten von Unternehmen
 *   Facebook: Unternehmen in Schleswig-Holstein dürfen Seiten betreiben
 *   Verwaltungsgericht: Unternehmen dürfen Facebook-Seiten betreiben
 *   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
 *   Europas Datenschutzreform kommt nicht voran
 *   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
-*   EU streitet um Datenschutzreform - Reding fordert mehr Tempo
 
 schließen schließen
 
+*   EU streitet um Datenschutzreform - Reding fordert mehr Tempo
 *   EU-Kommissarin: Deutschland beim Datenschutz gefordert
 *   Reding fordert Vorreiterrolle Deutschlands beim Datenschutz
 *   Kundendaten durch Panne in Vodafone-Shop auf der Straße gelandet
@@ -113,7 +114,6 @@ schließen schließen
 *   Datenschützer fordern Zeichen von künftiger Bundesregierung
 *   Datenschützer treffen sich zur Herbstkonferenz in Bremen
 *   Datenschützer treffen sich zur Herbstkonferenz
-*   Bericht: Datenschützer in Polizeiakademie sammelte selber Daten
 
 *   Kundencenter
 *   Preise und AGB
