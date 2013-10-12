@@ -137,13 +137,15 @@ Network Creators can choose from the following Page Privacy Settings:
 *   **Administrators**\- Only Administrators of the Network can view this page.
 *   **Member Category**\- Only Members of a specific member category can view this page.
 
-In addition, Members and Network Creators can edit their personal privacy settings to hide their age, gender or birthdate. To edit your profile page settings and information, click on the pencil icon that appears at the top of the profile page. From here, you and your Members can edit the privacy settings. Profile pages are public by default so they can be crawled by search engines, which means that member profiles will end up in online search results. Information that you provide, like your name, photo and profile, is public and will appear in search results both on the Network and on search engines.However, as a Network Creator, if you would like to keep member profiles on your Network from showing up in search results, you’ll want to edit your “Robots.txt” file to specifically block search engines from crawling your Network’s profile pages. You can add the following to your “Robots.txt” file on the Network to keep search engines from crawling all profile pages:
+In addition, Network Creators can change the default privacy setting for all member profile pages on the Network. For example, if you want to prevent member profile pages from showing up in search results, you may wish to change the default privacy setting from “Everyone (Public)” to “Members.” You can edit the default Privacy Page Settings for member profiles by signing in to your Network, clicking on “Site &. Pages” in the Social Site Manager and going to the General section of the Members page.
 
-User-agent: \*  
-Disallow: /member/
+Network Creators can choose from the following Privacy Page Settings for member profile pages:
 
-Note:  
-If you renamed this feature, go to your Site &. Pages manager and find the URL ending that is associated with this feature. Simply replace the “member” above to whatever is in your URL ending. For example, if your Members feature can be found at indoormusicfestivals.ning.com/artists, then you’ll want to use “/artists/” in your Robots.txt file.
+*   **Everyone (Public)**\- This means that everyone (members and non-members alike) can view member.
+*   **Members**\- Only Members of the Network can view member profile pages. visitors will be prompted to sign in.
+*   **Friends**\- Only friends can view member profile pages.
+
+Members and Network Creators can edit the personal privacy settings on their profile page to hide their age, gender or birthdate. You can also set your profile page to be visible to everyone (default), only members of the Ning Network or just to your friends on the Ning Network. To change the privacy of your profile page, click on the edit icon that looks like a pencil on the top right of your profile page. You should land on the “Profile” tab in your personal settings area. Choose the level of privacy you’d like from the “Profile Page Privacy” drop down and then update the page. Please see here for more information on how to control the privacy settings of your profile page.
 
 As with Ning 2.0 Networks, regardless of the individual privacy settings selected by a Member, Network Creators and their designated administrators will still be able to view that Network’s profile pages, lists of friends and content in full.
 
