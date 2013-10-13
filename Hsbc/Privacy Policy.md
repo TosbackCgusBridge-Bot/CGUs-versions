@@ -1,14 +1,15 @@
 Go to: Navigation Content Footer
 
-Alt+A to show this section, Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset
+Alt+0 to show this section, Tab to navigate forward, Shift+Tab key to navigate backward, Enter to access link, and Esc to reset
 
 HSBC Cookie Policy
 
 We use cookies to give you the best possible experience on our website. Full details can be found here
 
+*   Search Search
 *   Go to internet banking
 
-Explore HSBC.com
+Menu Explore HSBC.com Search
 
 *   About HSBC in About HSBC
     
@@ -139,7 +140,7 @@ You seem to have arrived on a page that no longer exists. Use the links on the r
 Why not visit: About Citizenship Investor relations News and insight Careers
 
 *   Contact us
-*   Search
+*   Search Search
 
 About HSBC
 
