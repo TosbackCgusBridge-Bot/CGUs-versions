@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Braids woven to each personality
+Search Help Giambattista Valli: Looking beyond the clothes
 
-Also in Fashion »
+Also in Style »
 
-*   Dressed to celebrate a night for nudity
-*   Manufacture New York provides production facilities to independent designers
+*   Want to meet influential New Yorkers? Invite them to dinner
+*   Bill Cunningham | Le grande orange
 
   
 
