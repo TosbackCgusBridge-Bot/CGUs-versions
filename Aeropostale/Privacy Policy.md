@@ -103,7 +103,6 @@ Last updated May 8, 2012.
     
 
 *   Customer Service
-*   Gift Cards
 *   About
 *   Careers
 *   Site Map
@@ -111,5 +110,6 @@ Last updated May 8, 2012.
 *   Investor Relations
 *   Terms of Use
 *   Privacy Policy
+*   Top Products
 
 International Shipping Terms and Conditions Privacy Policy X
