@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
 *   Facebook macht alle Nutzerprofile öffentlich
 *   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
 *   Vater von US-Informant Edward Snowden in Moskau eingetroffen
@@ -98,10 +99,10 @@ mehr zum Thema alle passenden Artikel
 *   Verwaltungsgericht: Unternehmen dürfen Facebook-Seiten betreiben
 *   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
 *   Europas Datenschutzreform kommt nicht voran
-*   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
 
 schließen schließen
 
+*   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
 *   EU streitet um Datenschutzreform - Reding fordert mehr Tempo
 *   EU-Kommissarin: Deutschland beim Datenschutz gefordert
 *   Reding fordert Vorreiterrolle Deutschlands beim Datenschutz
@@ -113,7 +114,6 @@ schließen schließen
 *   Datenschützer beenden Herbstkonferenz in Bremen
 *   Datenschützer fordern Zeichen von künftiger Bundesregierung
 *   Datenschützer treffen sich zur Herbstkonferenz in Bremen
-*   Datenschützer treffen sich zur Herbstkonferenz
 
 *   Kundencenter
 *   Preise und AGB
