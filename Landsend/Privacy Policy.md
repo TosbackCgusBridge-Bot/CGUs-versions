@@ -29,8 +29,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
 Lands' End
 
 *   Women
-    *   *   Outerwear Shop
-        *   Shoes &. Boots
+    *   *   Shoes &. Boots
+        *   Gift Shop
         *   Canvas Lands' End
         
         *   Featured Shops
@@ -38,8 +38,8 @@ Lands' End
         *   Starfish Collection
         *   Cardigan Shop
         *   Sport Knit Collection
+        *   Gift Shop
         *   Sale
-        *   Canvas Lands' End
         
         *   Shop By Size Range
         *   Regular
@@ -67,16 +67,16 @@ Lands' End
         *   Activewear
 *   Men
     *   *   Made to Work
-        *   Outerwear Shop
         *   Shoes &. Boots
+        *   Gift Shop
         *   Canvas Lands' End
         
         *   Featured Shops
         *   New Arrivals
         *   No-Iron Collection
         *   At the Office
+        *   Gift Shop
         *   Sale
-        *   Canvas Lands' End
         
         *   Shop By Size Range
         *   Regular
@@ -102,15 +102,16 @@ Lands' End
         *   Swimwear
         *   Activewear
 *   Kids
-    *   *   Outerwear Shop
-        *   Girls Shoes &. Boots
+    *   *   Girls Shoes &. Boots
         *   Boys Shoes &. Boots
         *   School Uniforms
+        *   Gift Shop
         
         *   Featured Shops
         *   New Arrivals
         *   Boys Iron Knee
         *   Girls Knit Kit
+        *   Gift Shop
         *   Sale
         
         *   Shop By Age Range
@@ -162,6 +163,7 @@ Lands' End
         *   Snow Boots
 *   Home
     *   *   Totes
+        *   Gift Shop
         
         *   Featured Shops
         *   New Arrivals
