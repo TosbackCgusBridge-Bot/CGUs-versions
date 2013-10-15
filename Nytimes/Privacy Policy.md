@@ -18,9 +18,9 @@ Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on February 13, 2013_
+_Last Updated on October 14, 2013_
 
-This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
+This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
 The New York Times Replica Edition, which is maintained by NewspaperDirect, maintains its own Privacy Policy.
 
@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Giambattista Valli: Looking beyond the clothes
+Search Help "A Night With Janis Joplin" opens on Broadway
 
-Also in Style »
+Also in Theater »
 
-*   Want to meet influential New Yorkers? Invite them to dinner
-*   Bill Cunningham | Le grande orange
+*   Stage Scenes: Mary-Louise Parker
+*   Taking off to find yourself? Be sure a self is there
 
   
 
