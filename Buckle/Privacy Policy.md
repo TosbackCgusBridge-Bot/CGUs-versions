@@ -158,6 +158,7 @@ TDD/TTY: 800-695-1788
 *   Contact Us
 *   Track Your Order
 *   Shipping Rates
+*   Military Discount
 *   800-522-8090
 
 *   Featured Denim
