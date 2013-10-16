@@ -46,63 +46,70 @@ Privacy &. Security
 *   Web Site Security
 *   Report Fraud
 
-#1 Auto Insurance Website for 2012 - Keynote® Systems
+Insurance Choices
 
-*   *   INSURANCE CHOICES
-    *   Auto Insurance
-    *   Local Car Insurance
-    *   Motorcycle Insurance
-    *   Boat Insurance
-    *   RV Insurance
-    *   Commercial Auto Insurance
-    *   Truck Insurance
-    *   Homeowners Insurance
-    *   Renters Insurance
-    *   Business Insurance
-    *   Life Insurance
-    *   Health Insurance
-    *   Umbrella Insurance
-*   *   RESOURCES
-    *   Vehicle Resources
-    *   Insurance Basics
-    *   Progressive Blog
-    *   Mobile Apps and Services
-    *   PerkShare®
-*   *   ABOUT PROGRESSIVE
-    *   Progressive Overview
-    *   Jobs
-    *   Investors
-    *   Newsroom
-    *   Sponsorships
-    *   TV Commercials
-    *   Progressive Web Sites
-*   *   FEATURED CONTENT
-    *   Name Your Price®
-    *   Snapshot®
-    *   Pet Injury Coverage
-    *   Comparison Rates
-    *   Car Insurance Australia
-    *   Seguros para autos
-    *   Dress Like Flo
-    *   Rocket Cat Adventures
+*   Auto Insurance
+*   Local Car Insurance
+*   Motorcycle Insurance
+*   Boat Insurance
+*   RV Insurance
+*   Commercial Auto Insurance
+*   Truck Insurance
+*   Renters Insurance
+*   Homeowners Insurance
+*   Condo Insurance
+*   Collector Car Insurance
+*   Pet Insurance
+*   Business Insurance
+*   Life Insurance
+*   Health Insurance
+*   Umbrella Insurance
 
-Follow us
+About Progressive
 
-Facebook Icon Twitter Icon Google Plus Icon YouTube Icon RSS Icon
+*   Progressive Overview
+*   Careers
+*   TV Commercials
+*   Progressive Blog
+*   Progressive Websites
+*   Newsroom
+*   Investors
+*   Sponsorships
 
-*   Home
+Featured Content
+
+*   Dress Like Flo
+*   Rocket Cat Adventures
+*   Mobile Apps &. Services
+*   PerkShare®
+*   Vehicle Resources
+*   Insurance Basics
+*   Car Insurance Australia
+*   Seguros para autos
+
+Quick Links
+
+*   Get a Quote
+*   Retrieve a Saved Quote
+*   Quote with a Local Agent
 *   Log In
 *   Make a Payment
-*   Quote with a Local Agent
+*   Claims
 *   Contact Us
 
-*   Website Accessibility
+*   
+*   
+*   
+*   
+
+We're Here 24/7. Call 1-800-Progressive.
+
+*   Home
 *   Site Map
+*   Website Accessibility
 *   Help
 *   Privacy &. Security
 *   Terms of Use
-
-We're Here 24/7. Call 1-800-Progressive.
 
 Copyright 1995 - 2013. Progressive Casualty Insurance Company. All Rights Reserved.
 
