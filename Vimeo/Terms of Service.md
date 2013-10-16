@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: January 2013
+Last Updated: October 15, 2013
 
 **PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com (the "Vimeo Site") and related domains (including VimeoPRO.com), mobile applications, desktop applications, and PC television applications (collectively, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service.**
 
@@ -37,7 +37,7 @@ Content
 
 **COMMERCIAL USE:** You may not use the Vimeo Service for commercial purposes unless:
 
-*   You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo PRO Guidelines. or
+*   You are a Vimeo PRO user, in which case you may use and access the Vimeo Service for commercial and non-commercial purposes, subject to compliance with the Vimeo Guidelines. or
     
 *   You are a small-scale independent production company, non-profit, or artist, in which case you may use the Vimeo Service to showcase or promote your own creative works.
     
@@ -51,11 +51,8 @@ Content
 Your privacy rights are set forth in our Privacy Policy, which forms a part of this Agreement. Please review the Privacy Policy to learn about:
 
 *   What information we may collect about you;
-    
 *   What we use that information for. and
-    
 *   With whom we share that information.
-    
 
 4\. Membership
 
@@ -67,13 +64,13 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 5\. Subscriptions and Purchases
 
-**OPTIONS:** In addition to offering basic (free) memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Vimeo PRO users may also purchase additional storage and plays. Please see our subscription pages for current Plus and Pro features and pricing. Features and prices are subject to change. All fees may be subject to taxes.
+**VIMEO PLUS AND PRO:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Please see our subscription pages for current Plus and PRO features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We may also offer add-on features and packages. Vimeo PRO users who wish to obtain additional storage may request an enterprise solution by contacting enterprise@vimeo.com. All fees may be subject to taxes.
 
 **CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If you have questions, please contact us.
 
-**RENEWALS:** By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason.
+**RENEWALS:** Subject to the terms hereof, you may choose to renew your subscription at the end of the subscription period. By default, all subscriptions are set to automatically renew for the same period of time as the original subscription. You may decline to renew at any time prior to the commencement of a renewal subscription. Vimeo reserves the right to deny subscriptions, renewals, and other purchases for any reason. PRO subscriptions offered beginning on October 15, 2013 may not be available to existing users whose storage as of that date exceeds the yearly maximum for a PRO account. Unused storage, plays, and other limits do not roll over to subsequent subscription periods.
 
-**END OF SUBSCRIPTION:** When a Vimeo Plus subscription ends, the account automatically becomes a basic (free) account. When a Vimeo PRO subscription ends, the account (including all content) will be deleted within fourteen (14) days.
+**END OF SUBSCRIPTION:** When a Vimeo Plus or PRO subscription ends, the account automatically becomes a Basic (free) account and Vimeo may disable access to or delete any content to comply with Basic account limits.
 
 **OTHER PURCHASES:** Purchases of other products and services through the Vimeo Service may be subject to other terms and conditions that are presented to you at the time of purchase.
 
@@ -92,40 +89,26 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 You may not upload, post, or transmit (collectively, "submit") any video, image, text, audio recording, or other work (collectively, "content") that:
 
 *   Infringes any third party's copyrights or other rights (e.g., trademark, privacy rights, etc.);
-    
 *   Contains sexually explicit content or pornography (provided, however, that non-sexual nudity is permitted);
-    
 *   Contains hateful, defamatory, or discriminatory content or incites hatred against any individual or group;
-    
 *   Exploits minors;
-    
 *   Depicts unlawful acts or extreme violence;
-    
 *   Depicts animal cruelty or extreme violence towards animals;
-    
 *   Promotes fraudulent schemes, multi level marketing (MLM) schemes, get rich quick schemes, online gaming and gambling, cash gifting, work from home businesses, or any other dubious money-making ventures. or
-    
 *   Violates any law.
-    
 
-All videos you submit must also comply with our Uploading Guidelines, which are incorporated into this Agreement. If you are a Vimeo PRO user, you must comply with our Vimeo PRO Guidelines.
+All videos you submit must also comply with the Vimeo Guidelines, which are incorporated into this Agreement.
 
 8\. Code of Conduct
 
 In using the Vimeo Service, you must behave in a civil and respectful manner at all times. Further, you will not:
 
 *   Act in a deceptive manner by, among other things, impersonating any person;
-    
 *   Harass or stalk any other person;
-    
 *   Harm or exploit minors;
-    
 *   Distribute "spam";
-    
 *   Collect information about others. or
-    
 *   Advertise or solicit others to purchase any product or service within the Vimeo Site (unless you are an official Vimeo partner or advertiser and have a written agreement with Vimeo).
-    
 
 Vimeo has the right, but not the obligation, to monitor all conduct on and content submitted to the Vimeo Service.
 
@@ -160,21 +143,13 @@ Vimeo reserves the right to modify the Vimeo Service. You are responsible for pr
 Vimeo provides the Vimeo Service on an "as is" and "as available" basis. You therefore use the Vimeo Service at your own risk. Vimeo expressly disclaims any and all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose, non-infringement, and any other warranty that might arise under any law. Without limiting the foregoing, Vimeo makes no representations or warranties:
 
 *   That the Vimeo Service will be permitted in your jurisdiction;
-    
 *   That the Vimeo Service will be uninterrupted or error-free;
-    
 *   Concerning any content submitted by any member;
-    
 *   Concerning any third party's use of content that you submit;
-    
-*   That any content you submit will be made available on the Vimeo Service or will be stored by Vimeo. or
-    
+*   That any content you submit will be made available on the Vimeo Service or will be stored by Vimeo;
 *   That the Vimeo Service will meet your business or professional needs;
-    
-*   That Vimeo will continue to support any particular feature of the Vimeo Service.
-    
+*   That Vimeo will continue to support any particular feature of the Vimeo Service. or
 *   Concerning sites and resources outside of the Vimeo Service, even if linked to from the Vimeo Service.
-    
 
 To the extent any disclaimer or limitation of liability does not apply, all applicable express, implied, and statutory warranties will be limited in duration to a period of thirty (30) days after the date on which you first used the Vimeo Service, and no warranties shall apply after such period.
 
@@ -211,8 +186,7 @@ Nothing herein shall limit Vimeo's right to object to subpoenas, claims, or othe
 
 *   Privacy Policy
 *   Cookie Policy
-*   Community Guidelines
-*   Vimeo Pro Guidelines
+*   Vimeo Guidelines
 *   Mobile App Addendum
 *   Payment Addendum
 *   Copyright and DMCA Policy
