@@ -4,7 +4,7 @@ Features and services within Intuit products may be the subject matter of pendin
 
 Trademark Information
 
-Intuit, the Intuit logo, Quicken, QuickBooks, TurboTax, Lacerte, ProSeries and QuickBase, among others, are registered trademarks and/or registered service marks of Intuit Inc., or one of its subsidiaries, in the United States and other countries. For more information on Intuit's trademarks, please see our Trademark Information and Restrictions page.
+Intuit, the Intuit logo, Quicken, QuickBooks, TurboTax, Mint, Lacerte, ProSeries and QuickBase, among others, are registered trademarks and/or registered service marks of Intuit Inc., or one of its subsidiaries, in the United States and other countries. For more information on Intuit's trademarks, please see our Trademark Information and Restrictions page.
 
 Copyright Information
 
@@ -20,14 +20,26 @@ Designated Agent and Address of Agent:
 
 Attn: Legal Department - Copyright Agent  
 Intuit Inc.  
-2632 Marine Way, MS2700  
-Mountain View, CA 94039  
+2632 Marine Way, MS2675  
+Mountain View, CA 94043  
 Telephone: (650) 944-6000  
 Fax: (650) 944-5656  
-Email: copyright@intuit.com Risk of Loss
+Email: copyright \[at\] intuit.com Risk of Loss
 
 All items purchased and shipped from Intuit are fulfilled pursuant to a shipment contract between Intuit and our carriers. This means that both the risk of loss and title for such items pass to you upon our delivery of the items to the carrier.
 
 Licensing and Support
 
-For licensing and product support related inquiries, please refer to www.intuit.com/support.
+For licensing and product support related inquiries, please refer to Intuit Support.
+
+ProAdvisor Inquiries
+
+For questions related to the ProAdvisor Program, please contact ProAdvisor Support.
+
+IPP Inquiries
+
+For questions related to the Intuit Partner Platform program, please contact Developer Support
+
+Other Help
+
+Please see Contact Us
