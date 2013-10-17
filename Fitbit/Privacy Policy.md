@@ -8,15 +8,18 @@ Fitbit Log in • Get Started
     *   **Zip™** Wireless Activity Tracker
     *   **One™** Wireless Activity + Sleep Tracker
     *   **Aria™** Wi-Fi Smart Scale
+    *   Premium
     
-    *   Online and Mobile
-    *   Mobile Apps
-    *   Premium Reports
-    *   App Gallery &. Partners
-    *   Developer APIs
     *   Compare Trackers
-    *   Shop Devices
 *   Store
+*   Buzz
+*   Social
+    
+    *   Facebook
+    *   Twitter
+    *   Pinterest
+    
+    *   Refer a friend
 
 Privacy Policy
 
@@ -225,6 +228,7 @@ Help
 
 Device Help
 
+*   Force Tracker Help
 *   Flex Tracker Help
 *   Zip Tracker Help
 *   One Tracker Help
