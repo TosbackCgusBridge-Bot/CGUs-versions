@@ -4,7 +4,9 @@ At kay.com, we are committed to ensuring our customers' privacy. In order to do 
 
 What personal information is collected?
 
-When you visit kay.com, your internet service provider is automatically recognized, but you cannot be identified as an individual. Kay.com will track use of the website by our visitors, however, unless you sign in as a customer such tracking will be done anonymously. You are not required to provide kay.com with any information in order to browse the kay.com website. If you choose to provide information in connection with your use of kay.com, including but not limited to, your name, your date of birth, your email address and your telephone number, this information will only be used as described in this policy.
+When you visit kay.com, your internet service provider is automatically recognized, but you cannot be identified as an individual. Kay.com and our third party vendors will track the use of the website by our visitors, however, unless you sign in as a customer such tracking will be done anonymously and may include tracking over time and across different websites. You are not required to provide kay.com with any information in order to browse the kay.com website. If you choose to provide information in connection with your use of kay.com, including but not limited to, your name, your date of birth, your email address and your telephone number, this information will only be used as described in this policy.
+
+Kay.com does not respond to web browser ‘do not track’ requests or similar signals that users may employ.
 
 How will the personal information I submit be used?
 
