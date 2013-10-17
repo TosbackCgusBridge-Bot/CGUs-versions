@@ -120,8 +120,8 @@ Learn more about our user conference »
     *   Digital 100
     *   Careers
 
-Webinar: Digital Data Distribution  
-Have you been able to realize the promise of “big data”?
+“Digital Data Distribution Platforms in Action”  
+Download the whitepaper today »
 
 Request a demo
 
