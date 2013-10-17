@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - The Laughing Dead Face Off - Sneak Peek - The Laughing Dead
+Syfy Video Face Off - Sneak Peek - Dark Magic Face Off - Sneak Peek - Dark Magic
 
-Catch a sneak peek of the next episode of Face Off, Tuesdays at 9/8c
+Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
 
-Winner Tells All: Episode 9 - Anthony Winner Tells All: Episode 9 - Anthony
+The Winner Tells All: Episode 10 - Rayce The Winner Tells All: Episode 10 - Rayce
 
-Season 4 winner J. Anthony Kosar critiques the cast's make up from S5, Episode 9.
+Rayce critiques episode 10, The Laughing Dead
 
-Bonus Scene - Laney's Boobs Bonus Scene - Laney's Boobs
+Bonus Scene - Ghost Stories Bonus Scene - Ghost Stories
 
-Laney isn't sure how exactly how to sculpt.
+Do you believe in ghosts? Tate tells his experiences.
 
-Ghost Mine - Sneak Peek - Mystery Train Ghost Mine - Sneak Peek - Mystery Train
+Patrick's Pick Patrick's Pick
 
-Catch a sneak peek of the next episode of Ghost Mine, Wednesdays at 10/9c.
+Everyone loves a good Foundation Challenge, especially when it includes a visit from Patrick Tatopoulos!
 
 *   FAQ
 *   Feedback
