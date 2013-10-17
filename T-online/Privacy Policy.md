@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook ändert Datenschutz-Einstellungen für Teenager
+*   Google-Werbung mit eigenem Profilbild und Namen verhindern
 *   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
 *   Facebook macht alle Nutzerprofile öffentlich
 *   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
 *   Vater von US-Informant Edward Snowden in Moskau eingetroffen
 *   Facebook: Unternehmen in Schleswig-Holstein dürfen Seiten betreiben
 *   Verwaltungsgericht: Unternehmen dürfen Facebook-Seiten betreiben
-*   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
-*   Europas Datenschutzreform kommt nicht voran
 
 schließen schließen
 
+*   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
+*   Europas Datenschutzreform kommt nicht voran
 *   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
 *   EU streitet um Datenschutzreform - Reding fordert mehr Tempo
 *   EU-Kommissarin: Deutschland beim Datenschutz gefordert
@@ -112,8 +114,6 @@ schließen schließen
 *   Datenschützer legen Forderungspaket für neue Bundesregierung vor
 *   Datenschützer beenden Herbstkonferenz in Bremen
 *   Datenschützer beenden Herbstkonferenz in Bremen
-*   Datenschützer fordern Zeichen von künftiger Bundesregierung
-*   Datenschützer treffen sich zur Herbstkonferenz in Bremen
 
 *   Kundencenter
 *   Preise und AGB
