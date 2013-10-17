@@ -198,4 +198,4 @@ Customers shipping internationally who wish to contact macys.com to:
 *   Make a complaint about the collection or use of their personal information
 *   Comment on or ask questions regarding this notice
 
-please e-mail us at internationalprivacy@macys.com.
+Please e-mail us at internationalprivacy@macys.com.
