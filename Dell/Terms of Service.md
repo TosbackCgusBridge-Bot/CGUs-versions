@@ -41,7 +41,7 @@ Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contra
 
 If you have purchased service(s) from Dell or a Dell reseller, your quote, order acknowledgement, invoice or receipt will include the name of the service(s) that you purchased. If you do not have your invoice but purchased direct from Dell, a copy of your invoice can be requested. Click here for details of our locally available Consumer service terms.
 
-Rapid Response Single Incident In-Home Service Agreement Dell Tech Concierge Service (Beta Program) Dell On Call HelpDesk (purchased before 11-25-2009) View More Warranties
+Dell Preventative Maintenance Rapid Response Single Incident In-Home Service Agreement Dell Tech Concierge Service (Beta Program) View More Warranties
 
 Click here for details of Dell’s warranties for products, services and softwares.
 
