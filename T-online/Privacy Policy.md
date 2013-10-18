@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
+*   Facebook ändert Datenschutz-Einstellungen für Teenager
+*   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
+*   Facebook ändert Datenschutz für Jugendliche: Einträge "nur für Freunde"
+*   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Google-Werbung mit eigenem Profilbild und Namen verhindern
 *   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
-*   Facebook macht alle Nutzerprofile öffentlich
+
+schließen schließen
+
 *   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
 *   Vater von US-Informant Edward Snowden in Moskau eingetroffen
 *   Facebook: Unternehmen in Schleswig-Holstein dürfen Seiten betreiben
 *   Verwaltungsgericht: Unternehmen dürfen Facebook-Seiten betreiben
-
-schließen schließen
-
 *   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
 *   Europas Datenschutzreform kommt nicht voran
 *   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
@@ -110,10 +114,6 @@ schließen schließen
 *   Reding fordert Vorreiterrolle Deutschlands beim Datenschutz
 *   Kundendaten durch Panne in Vodafone-Shop auf der Straße gelandet
 *   Facebook-Seiten: Verwaltungsgericht verhandelt über Klagen
-*   Kalifornien geht gegen «Rachepornos» vor
-*   Datenschützer legen Forderungspaket für neue Bundesregierung vor
-*   Datenschützer beenden Herbstkonferenz in Bremen
-*   Datenschützer beenden Herbstkonferenz in Bremen
 
 *   Kundencenter
 *   Preise und AGB
