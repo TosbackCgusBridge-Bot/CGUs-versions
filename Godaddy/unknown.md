@@ -1,4 +1,4 @@
-**Last Revised: September 18, 2013**
+**Last Revised: October 17, 2013**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -28,7 +28,7 @@ You may pay for Services by providing a valid credit card, an electronic check (
 
 If you are being billed on a monthly basis, your monthly billing date will be based on the date of the month you purchased the Services unless that date falls after the 28th of the month, in which case your billing date will be the 28th of each month. 
 
-In order to ensure that you do not experience an interruption or loss of Services, most Services offer an automatic renewal option.  The automatic renewal option automatically renews the applicable Service for a renewal period equal in time to the original service period.  For example, if your original service period is for one year, your renewal period will be for one year.  While the details of the automatic renewal option vary from Service to Service, the Services that offer an automatic renewal option treat it as the default setting.  Therefore, unless you disable the automatic renewal option, Go Daddy will automatically renew the applicable Service when it comes up for renewal and will take payment from the Payment Method you have on file with Go Daddy at Go Daddy's then current rates, which you acknowledge and agree may be higher or lower than the rates for the original service period.  In order to see the renewal settings applicable to you and your Services, simply log into your Account manager ("Account Manager") from this Site and follow the steps found here.  You may enable or disable the automatic renewal option at any time.  However, should you elect to disable the automatic renewal option and fail to manually renew your Services before they expire, you may experience an interruption or loss of Services, and Go Daddy shall not be liable to you or any third party regarding the same.
+In order to ensure that you do not experience an interruption or loss of Services, most Services offer an automatic renewal option.  The automatic renewal option automatically renews the applicable Service for a renewal period equal in time to the last service period.  For example, if your last service period is for one year, your renewal period will be for one year.  While the details of the automatic renewal option vary from Service to Service, the Services that offer an automatic renewal option treat it as the default setting.  Therefore, unless you disable the automatic renewal option, Go Daddy will automatically renew the applicable Service when it comes up for renewal and will take payment from the Payment Method you have on file with Go Daddy at Go Daddy's then current rates, which you acknowledge and agree may be higher or lower than the rates for the original service period.  In order to see the renewal settings applicable to you and your Services, simply log into your Account manager ("Account Manager") from this Site and follow the steps found here.  You may enable or disable the automatic renewal option at any time.  However, should you elect to disable the automatic renewal option and fail to manually renew your Services before they expire, you may experience an interruption or loss of Services, and Go Daddy shall not be liable to you or any third party regarding the same.
 
 In addition, Go Daddy may participate in "recurring billing programs" or "account updater services" supported by your credit card provider (and ultimately dependent on your bank's participation).  If you are enrolled in an automatic renewal option and we are unable to successfully charge your existing Payment Method, your credit card provider (or your bank) may notify us of updates to your credit card number and/or expiration date, or they may automatically charge your new credit card on our behalf without notification to us.  In accordance with recurring billing program requirements, in the event that we are notified of an update to your credit card number and/or expiration date, Go Daddy will automatically update your payment profile on your behalf. Go Daddy makes no guarantees that we will request or receive updated credit card information. You acknowledge and agree that it is your sole responsibility to modify and maintain your Account settings, including but not limited to (i) setting your renewal options and (ii) ensuring your associated Payment Method(s) are current and valid.  Further, you acknowledge and agree that your failure to do so, may result in the interruption or loss of Services, and Go Daddy shall not be liable to you or any third party regarding the same.
 
@@ -46,7 +46,7 @@ When you register a domain name, you will have three renewal options: (i) "Autom
 2.  Extended Automatic Renewal.  If you enroll in the Extended Automatic Renewal plan, Go Daddy will automatically renew any domain name that is up for renewal for an additional one-year period on each and every anniversary of your domain name registration, so the initial registration period will always remain intact.  Thus, if you have chosen to register your domain name for two (2) years, Go Daddy will automatically renew it for one (1) additional year on each and every anniversary of your domain name registration so your two (2) year registration period will always remain intact. If you have chosen to register your domain name for five (5) years, Go Daddy will automatically renew it for one (1) additional year on each and every anniversary of your domain name registration so your five (5) year registration period will always remain intact, and so on.  Go Daddy will take payment from the Payment Method you have on file with Go Daddy, at Go Daddy's then current one-year domain name registration rate.
 3.  Manual Renewal.  If you do not select that the domain name be automatically renewed (through either Automatic Renewal or Extended Automatic Renewal), you have the responsibility of logging into the Domain Manager portion of your Account Manager for that domain name and manually implementing the renewal by the expiration date (should you in fact want the domain name to be renewed). If you fail to manually implement the renewal before the expiration date, the domain name will be cancelled and you will no longer have use of that name.
 
-Domain name renewals will be non-refundable. If for any reason Go Daddy is not able to take the payment from the Payment Method you have on file, and you fail to respond to our notices, your domain name registration will expire. It is your responsibility to keep your Payment Method information current, which includes the expiration date if you are using a credit card.
+All renewals will be subject to the terms of this Agreement, as it may be amended from time to time, and you acknowledge and agree to be bound by the terms of this Agreement (as amended) for all renewed domains.  Domain name renewals will be non-refundable. If for any reason Go Daddy is not able to take the payment from the Payment Method you have on file, and you fail to respond to our notices, your domain name registration will expire. It is your responsibility to keep your Payment Method information current, which includes the expiration date if you are using a credit card.
 
 For certain ccTLDs (.am, .at, .be, .ca, .cn, .com.cn, .net.cn, .org.cn, .de, .eu, .fm, .gs, .it, .jp, .ms, .nu, .nz, .co.nz, .net.nz, .org.nz, .tc, .tk, .tw, .com.tw, .org.tw, .idv.tw, .uk, and .vg), renewal billing will occur on the first day of the month prior to the month of expiration.
 
@@ -78,20 +78,22 @@ You agree that Go Daddy shall not be bound by (i) any representations made by th
 
 4\. up to date information. use of information and expiration
 
-You agree to notify Go Daddy within five (5) business days when any of the information you provided as part of the application and/or registration process changes. It is your responsibility to keep this information in a current and accurate status. Failure by you, for whatever reason, to provide Go Daddy with accurate and reliable information on an initial and continual basis, shall be considered to be a material breach of this Agreement. Failure by you, for whatever reason, to respond within five (5) business days to any inquiries made by Go Daddy to determine the validity of information provided by you, shall also be considered to be a material breach of this Agreement. You agree to retain a copy for your record of the receipt for purchase of your domain name.
+You agree to notify Go Daddy within five (5) business days when any of the information you provided as part of the application and/or registration process changes. It is your responsibility to keep this information in a current and accurate status. Failure by you, for whatever reason, to provide Go Daddy with accurate and reliable information on an initial and continual basis, shall be considered to be a material breach of this Agreement and a basis for suspension and/or cancellation of the domain name. Failure by you, for whatever reason, to respond within five (5) business days to any inquiries made by Go Daddy to determine the validity of information provided by you, shall also be considered to be a material breach of this Agreement and a basis for suspension and/or cancellation of the domain name. You agree to retain a copy for your record of the receipt for purchase of your domain name.
 
 You agree that for each domain name registered by you, the following contact data is required: postal address, email address, telephone number, and if available, a facsimile number for the Registered Name Holder and, if different from the Registered Name Holder, the same contact information for, a technical contact, an administrative contact and a billing contact.
 
-You acknowledge and agree that domain name registration requires that this contact information, in whole or in part, be shared with the registry operator. As required by ICANN, this information must also be made publicly available by means of Whois, and that the registry operator may also be required to make this information publicly available by Whois. Both Go Daddy and the registry operator may be required to archive this information with a third-party escrow service. You hereby consent and give permission for all such requirements and disclosures. Further, you represent and warrant that, if you are providing information about a third party, you have notified the third party of the disclosure and the purpose for the disclosure and you have obtained the third party's consent to such disclosure.
+You acknowledge and agree that domain name registration requires that this contact information, in whole or in part, be shared with the registry operator. As required by ICANN, this information must also be made publicly available by means of Whois, and that the registry operator may also be required to make this information publicly available by Whois. Both Go Daddy and the registry operator may be required to archive this information with a third-party escrow service. You hereby consent and give permission for all such requirements and disclosures. Further, you represent and warrant that, if you are providing information about a third party, you have notified the third party of the disclosure and the purpose for the disclosure and you have obtained the third party's consent to such disclosure.  Registrar will not process data in a way that is incompatible with this Agreement.  Registrar will take reasonable precautions to protect data from loss or misuse.
 
 You agree that for each domain name registered by you the following information will be made publicly available in the Whois directory as determined by ICANN Policy and may be sold in bulk as set forth in the ICANN agreement:
 
 *   The domain name;
 *   Your name and postal address;
-*   The email address, postal address, voice and fax numbers for technical and administrative contacts;
+*   The name, email address, postal address, voice and fax numbers for technical and administrative contacts;
 *   The Internet protocol numbers for the primary and secondary name servers;
 *   The corresponding names of the name servers. and
 *   The original date of registration and expiration date.
+*   Name of primary name server and secondary name server.
+*   Identity of the registrar.
 
 You agree that, to the extent permitted by ICANN, Go Daddy may make use of the publicly available information you provided during the registration process. If you engage in the reselling of domain names you agree to provide any individuals whose personal information you've obtained, information about the possible uses of their personal information pursuant to ICANN policy. You also agree to obtain consent, and evidence of consent, from those individuals for such use of the personal information they provide.
 
@@ -113,6 +115,8 @@ You agree to be bound by our current Dispute Resolution Policy. This policy is i
 
 You agree that if a dispute arises as a result of one (1) or more domain names you have registered using Go Daddy, you will indemnify, defend and hold Go Daddy harmless as provided for in this Agreement. You also agree that if Go Daddy is notified that a complaint has been filed with a governmental, administrative or judicial body, regarding a domain name registered by you using Go Daddy, that Go Daddy, in its sole discretion, may take whatever action Go Daddy deems necessary regarding further modification, assignment of and/or control of the domain name deemed necessary to comply with the actions or requirements of the governmental, administrative or judicial body until such time as the dispute is settled. In this event you agree to hold Go Daddy harmless for any action taken by Go Daddy.
 
+You agree to submit, without prejudice to other potentially applicable jurisdictions, to the jurisdiction of the courts (1) of your domicile and (2) where registrar is located.
+
 In the case of .ca domain names, you agree that, if your use of the service or the registration of a .ca domain name is challenged by a third party, you will be subject to the provisions specified by CIRA in their dispute resolution policy, in effect at the time of the dispute.
 
 6\. transfer of domain names. resale practices
@@ -127,7 +131,9 @@ You agree that Go Daddy is not lending you access to its registrar connections o
 
 You agree to provide your customers with adequate customer support, and to maintain contact with them with regard to providing a medium for them to communicate changes in the information they provided as part of the domain name registration process. Upon receiving corrected or updated information you will, within five (5) business days, provide such information to Go Daddy so Go Daddy may update its registration records. You will retain copies of all communications between you and your customers and will upon request provide Go Daddy copies of same.
 
-7\. suspension of services. breach of agreement
+7\. your obligations. suspension of services. breach of agreement
+
+Your represent and warrant to the best of your knowledge, neither the registration of the domain, nor manner it is directly or indirectly used, infringes the legal rights of any third party.  You will indemnify and hold harmless the registrar and registry operator, and their directors, officers, employees and agents, from and against any and all claims, damages, liabilites, costs and expenses (including reasonable legal fees and expenses) arising out of or related to the domain name registration.  This obligation shall survive expiration or termination of this Agreement or the domain name registration.
 
 You agree that, in addition to other events set forth in this Agreement:
 
@@ -628,27 +634,31 @@ You represent and warrant that you meet the eligibility requirements of this ccT
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.
 
-**56\. provisions specific to .SE registrations**
+**56\. provisions specific to .PH registrations**
+
+You acknowledge and agree to obey, comply with, and be bound by any and all registry rules an d policies, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.  You acknowledge and agree to obey, comply with, and be bound by the Domain Namse Service Agreement, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and is incorporated herein by reference.
+
+**57\. provisions specific to .SE registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference. You further acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
 
-**57\. provisions specific to .So registrations**
+**58\. provisions specific to .So registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference. 
 
-**58\. provisions specific to .TC registrations**
+**59\. provisions specific to .TC registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference.
 
-**59\. provisions specific to .TK registrations**
+**60\. provisions specific to .TK registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. 
 
-**60\. provisions specific to .TV registrations**
+**61\. provisions specific to .TV registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further acknowledge and agree to be bound by any registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which are available here and are incorporated herein.
 
-**61\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
+**62\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the Taiwan Network Information Center ("TWNIC").
 
@@ -672,10 +682,10 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .TW Re
 
 _.TW Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .TW registrations. You shall register for any and all .TW registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-**62\. provisions specific to .UK registrations**
+**63\. provisions specific to .UK registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD including, but not limited to, the Terms and Conditions of Domain Name Registration and the Rules for registering a .UK domain name, both of which are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated and made a part of this Agreement herein.
 
-**63\. provisions specific to .VG registrations**
+**64\. provisions specific to .VG registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
