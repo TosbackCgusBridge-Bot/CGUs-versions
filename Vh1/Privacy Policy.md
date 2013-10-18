@@ -283,6 +283,7 @@ Visit VH1 On:
 *   VH1 on Google+
 *   Newsletters
 *   Add RSS Headlines
+*   VH1 App
 
 *   Corporate
 *   Jobs
