@@ -860,6 +860,7 @@ Destination Guides
     *   Nha Trang
 
 *   Stay connected to Starwood Hotels:
+
 *   More
 *   Mobile Options
 *   Guest Reviews
