@@ -144,6 +144,8 @@ These three passages are part of just about every online terms agreement. Basica
 
 _U.S. Government Agencies:_ If you are a United States federal government agency, your use of Pinterest is subject to our Business Terms of Service and this amendment.
 
+_U.S. State and Local Government Agencies:_ If you are a state or local government agency in the United States, this amendment applies to these Terms.
+
 More simply put:
 
 If you're from the government, we'd love to help.
