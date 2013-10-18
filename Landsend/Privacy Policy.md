@@ -38,7 +38,6 @@ Lands' End
         *   Starfish Collection
         *   Cardigan Shop
         *   Sport Knit Collection
-        *   Gift Shop
         *   Sale
         
         *   Shop By Size Range
@@ -75,7 +74,6 @@ Lands' End
         *   New Arrivals
         *   No-Iron Collection
         *   At the Office
-        *   Gift Shop
         *   Sale
         
         *   Shop By Size Range
@@ -111,7 +109,6 @@ Lands' End
         *   New Arrivals
         *   Boys Iron Knee
         *   Girls Knit Kit
-        *   Gift Shop
         *   Sale
         
         *   Shop By Age Range
@@ -170,7 +167,6 @@ Lands' End
         *   Christmas Shop
         *   Supima Bedding &. Bath
         *   Flannel Bedding
-        *   Canvas Shop
         *   Sale
     *   *   Categories
         *   Bedding
