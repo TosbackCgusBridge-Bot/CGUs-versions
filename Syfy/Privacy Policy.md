@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Dark Magic Face Off - Sneak Peek - Dark Magic
+Syfy Video BSG's Nicki Clyne Takes You Inside NY Comic C ... BSG's Nicki Clyne Takes You Inside NY Comic Con
+
+Battlestar's Nicki Clyne is the new host of BlastrTV! Geek out as she gives you an inside look at New York Comic Con 2013 with some special guest appearances.
+
+Face Off - Sneak Peek - Dark Magic Face Off - Sneak Peek - Dark Magic
 
 Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
 
@@ -262,10 +266,6 @@ Rayce critiques episode 10, The Laughing Dead
 Bonus Scene - Ghost Stories Bonus Scene - Ghost Stories
 
 Do you believe in ghosts? Tate tells his experiences.
-
-Patrick's Pick Patrick's Pick
-
-Everyone loves a good Foundation Challenge, especially when it includes a visit from Patrick Tatopoulos!
 
 *   FAQ
 *   Feedback
