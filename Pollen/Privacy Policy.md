@@ -12,7 +12,6 @@ Get Your Allergy Alert Mobile App Add Allergy Alerts to Your Website Get Your 2 
 *   Asthma
 *   Reaction to Allergens
 *   Treatment Options
-*   Community
 
 *   Allergy Alert Emails
 *   iPhone Allergy Alert App
