@@ -1,4 +1,15 @@
-SlideShare. Upload Login or Signup Go Pro × × × × × ×
+*   Upload
+*   Browse  
+    *   Featured
+    *   Popular
+    *   Most Liked
+    *   Videos
+
+*   Go Pro
+*   Login
+*   Signup
+
+× × × × × ×
 
 *   Terms of Service
 *   DMCA
@@ -113,7 +124,7 @@ _Note_: While we may provide this Privacy Policy in multiple languages for your 
 
 _Effective September 9, 2013_. Please click here to read our summary of the changes we made to the previous version of the Privacy Policy.
 
-*   Connect on LinkedIn
+*   Follow us on LinkedIn
 *   Follow us on Twitter
 *   Find us on Facebook
 *   Find us on Google+
@@ -123,7 +134,7 @@ _Effective September 9, 2013_. Please click here to read our summary of the chan
 *   Careers
 *   Our Blog
 *   Press
-*   Contact us
+*   Contact Us
 *   Help &. Support
 
 *   **Using SlideShare**
@@ -132,10 +143,12 @@ _Effective September 9, 2013_. Please click here to read our summary of the chan
 *   Privacy Policy
 *   Copyright &. DMCA
 *   Community Guidelines
+*   SlideShare on Mobile
 
 *   **Pro &. more**
-*   Go PRO New
-*   Business Solutions
+*   Go PRO
+*   Enterprise Sales
+*   PRO Features
 
 *   **Developers &. API**
 *   Developers Section
