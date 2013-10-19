@@ -41,7 +41,7 @@ Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contra
 
 Service Contracts
 
-Dell Preventative Maintenance Rapid Response Single Incident In-Home Service Agreement Dell Tech Concierge Service (Beta Program) View More Warranties
+Dell Tech Concierge Service (Free Trial and Subscription) Dell Preventative Maintenance Rapid Response Single Incident In-Home Service Agreement View More Warranties
 
 Warranties
 
