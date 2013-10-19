@@ -3,7 +3,7 @@ Skip to main content USA Network USA Shows Shows close
 *   Burn Notice
 *   Covert Affairs
 *   CSI
-*   New! Daytime
+*   New! USA Daytime
 *   Graceland
 *   House
 *   New! It Takes A Choir
