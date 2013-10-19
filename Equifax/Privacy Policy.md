@@ -1,4 +1,4 @@
-Effective Date:  May 17, 2013  
+Effective Date:  October 18, 2013  
   
 This privacy policy applies when you are obtaining information about Equifax Corporation through the US Equifax.com web site.  
   
@@ -75,7 +75,9 @@ You may decline to provide personal information to us and/or refuse cookies in y
   
 Disabling Cookies: To turn off cookies placed by our web site optimization and marketing partner, you can opt out by visiting here.  
   
-Your browser software can be set to reject all cookies or to accept cookies only from our site. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. If you reject our cookies, you may not be able to log in or use certain functions and conveniences of our site.
+Your browser software can be set to reject all cookies or to accept cookies only from our site. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. If you reject our cookies, you may not be able to log in or use certain functions and conveniences of our site.  
+
+Do Not Track signal: We treat the data of everyone who comes to our site in accordance with this privacy policy, whatever their Do Not Track setting. We do not collect information about your online activities across third-party Web sites or online services, and we do not permit others to do so through our web site. Your choices and how you can exercise them are described in this section of our privacy policy.
 
   
 EFFORTS WE MAKE TO SAFEGUARD YOUR PERSONAL INFORMATION  
