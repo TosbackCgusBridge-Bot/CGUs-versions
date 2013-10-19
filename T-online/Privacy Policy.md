@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Facebook gibt neue Privatsphäre-Warnhinweise für Teenager
+*   Großer Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
-*   Facebook ändert Datenschutz für Jugendliche: Einträge "nur für Freunde"
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Google-Werbung mit eigenem Profilbild und Namen verhindern
-*   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
 
 schließen schließen
 
+*   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
 *   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
 *   Vater von US-Informant Edward Snowden in Moskau eingetroffen
 *   Facebook: Unternehmen in Schleswig-Holstein dürfen Seiten betreiben
@@ -113,7 +114,6 @@ schließen schließen
 *   EU-Kommissarin: Deutschland beim Datenschutz gefordert
 *   Reding fordert Vorreiterrolle Deutschlands beim Datenschutz
 *   Kundendaten durch Panne in Vodafone-Shop auf der Straße gelandet
-*   Facebook-Seiten: Verwaltungsgericht verhandelt über Klagen
 
 *   Kundencenter
 *   Preise und AGB
