@@ -11,5 +11,3 @@ As stated above, Lehigh University uses information that visitors voluntarily pr
 Lehigh University uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information where appropriate only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. Lehigh University also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
 
 Before you can transmit a postcard, you are required to read and agree to the terms in the Terms of Use: Lehigh University Web Site Service Agreement.
-
-Â
