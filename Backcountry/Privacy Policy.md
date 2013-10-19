@@ -75,11 +75,11 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Opting Out Of Communications From Backcountry
 
-You may elect not to receive on-line or off-line communication from us. To stop receiving Backcountry email or catalogs, go to http://www.backcountry.com/bcs/mail\_preferences.html.
+You may elect not to receive on-line or off-line communication from us. To stop receiving Backcountry email or catalogs, please send us an email containing the subject line “opt out” to info@backcountry.com.
 
 Opting Out Of Having Our Marketing Partner Deliver Ads Tailored To Your Web Preferences And Usage PatternsIf you choose NOT to have our marketing partner, BlueKai, deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: http://www.networkadvertising.org/managing/opt\_out.asp and opting out from targeted ads delivered by “BlueKai Inc.” Opting Out Of Sharing Information With Third Party Partners For Marketing Purposes
 
-If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line “opt out” to optout@backcountry.com.
+If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line “opt out” to info@backcountry.com.
 
 Changes To This Privacy Policy
 
