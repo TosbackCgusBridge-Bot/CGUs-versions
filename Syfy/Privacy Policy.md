@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video BSG's Nicki Clyne Takes You Inside NY Comic C ... BSG's Nicki Clyne Takes You Inside NY Comic Con
+Syfy Video Bar Wars: The Best Tequila Wormholes in the G ... Bar Wars: The Best Tequila Wormholes in the Galaxy!
+
+Nicki Clyne guides you through our favorite bars in the Scifi universe.
+
+BSG's Nicki Clyne Takes You Inside NY Comic C ... BSG's Nicki Clyne Takes You Inside NY Comic Con
 
 Battlestar's Nicki Clyne is the new host of BlastrTV! Geek out as she gives you an inside look at New York Comic Con 2013 with some special guest appearances.
 
@@ -262,10 +266,6 @@ Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
 The Winner Tells All: Episode 10 - Rayce The Winner Tells All: Episode 10 - Rayce
 
 Rayce critiques episode 10, The Laughing Dead
-
-Bonus Scene - Ghost Stories Bonus Scene - Ghost Stories
-
-Do you believe in ghosts? Tate tells his experiences.
 
 *   FAQ
 *   Feedback
