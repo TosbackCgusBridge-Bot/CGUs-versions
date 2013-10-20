@@ -132,7 +132,7 @@ Knowledge Sharing Resources and Information
 
 *   Expert Advice
 *   Articles
-*   Media Center
+*   Newsroom
 *   Citizenship Blog
 *   Developer Resource Center
 *   Compatible Solutions Program
@@ -142,26 +142,27 @@ Service Guide
 
 The FedEx Service Guide is your resource for FedEx service information and shipping basics.
 
-View now Have specific questions? Visit Customer Support. Copy and Print
+View now Have specific questions? Visit Customer Support. Shipping
 
-Business presentations? Personal projects? FedEx Office is here to make you shine. Our broad range of copy and print services and expertise can help bring your projects to life.
+Pack, ship and more at over 1,800 locations. Stop in for convenient access to FedEx Express® and FedEx Ground® shipping services, supplies, boxes and packing help.
 
-Learn more Marketing Products
+Go to Details Copy and Print
 
-We can help you produce materials to make your business grow. Signs, banners, and more attract customers' attention and communicate your message effectively.
+Design, print and ship documents anywhere, anytime. Print online, In store or by downloading our mobile app. Let us help your business or personal projects with a professional touch.
 
-Learn more Packing and Shipping Services
+Go to Details Signs and Banners
 
-We have over 1,800 locations ready to work for you. Whether you need to use our office services or need assistance packing your shipments. We are here to help.
+Create high-impact banners, signs, posters and more for everything from business events to home projects. We make it easy to bring your ideas to life with our know-how to get it done.
 
-Learn more Other Resources
+Go to Details Other Resources
 
+*   FedEx Office Home
+*   Packing Services
 *   Print Online
-*   Signs and Banners
 *   Mobile Printing
-*   Computer Services
-*   Business Cards
 *   Ideas and Solutions
+*   Deals
+*   In-Store Only
 
 Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile
 
