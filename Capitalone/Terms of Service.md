@@ -47,3 +47,5 @@ Any comments or materials sent to Capital One, including feedback data, such as 
 Violations of Terms and Conditions
 
 Capital One reserves the right to seek all remedies available at law and in equity for violations of these Terms and Conditions, including the right to block access from a particular Internet address to the Site. YOU AGREE TO INDEMNIFY, DEFEND AND HOLD HARMLESS CAPITAL ONE FROM ANY LIABILITY, LOSS, CLAIM AND EXPENSE, INCLUDING ATTORNEY’S FEES, RELATED TO YOUR VIOLATION OF THESE TERMS AND CONDITIONS OR YOUR USE OF THE SERVICES AND INFORMATION PROVIDED AT THE SITE.
+
+Portions of this website are licensed under U.S. Patent Nos. 6,658,467 and 7,958,204.
