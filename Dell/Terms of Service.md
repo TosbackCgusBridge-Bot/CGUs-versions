@@ -41,7 +41,7 @@ Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contra
 
 Service Contracts
 
-Dell Tech Concierge Service (Free Trial and Subscription) Dell Preventative Maintenance Rapid Response Single Incident In-Home Service Agreement View More Warranties
+Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After Remote Diagnosis, Rapid Return for Repair after Remote Diagnosis, Parts Only and Advance Exchange) Dell Tech Concierge Service (Free Trial and Subscription) Dell Preventative Maintenance View More Warranties
 
 Warranties
 
