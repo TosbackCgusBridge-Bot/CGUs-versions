@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema alle passenden Artikel
 
+*   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
+*   EU-Parlamentsausschuss stimmt für Datenschutzreform
+*   Facebook-Verbot zwischen Lehrern und Schülern in Rheinland-Pfalz
 *   Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
 *   Facebook gibt neue Privatsphäre-Warnhinweise für Teenager
 *   Großer Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
-*   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
-*   Facebook ändert Datenschutz-Einstellungen für Teenager
-*   Facebook ändert Datenschutz-Einstellungen für Teenager
 
 schließen schließen
 
+*   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
+*   Facebook ändert Datenschutz-Einstellungen für Teenager
+*   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Google-Werbung mit eigenem Profilbild und Namen verhindern
 *   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
 *   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
@@ -111,9 +114,6 @@ schließen schließen
 *   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
 *   Europas Datenschutzreform kommt nicht voran
 *   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
-*   EU streitet um Datenschutzreform - Reding fordert mehr Tempo
-*   EU-Kommissarin: Deutschland beim Datenschutz gefordert
-*   Reding fordert Vorreiterrolle Deutschlands beim Datenschutz
 
 *   Kundencenter
 *   Preise und AGB
