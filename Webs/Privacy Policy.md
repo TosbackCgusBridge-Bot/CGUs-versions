@@ -123,8 +123,6 @@ Small Business Websites
 
 Premium Services
 
-Free Hosting
-
 Example Sites
 
 Contact
