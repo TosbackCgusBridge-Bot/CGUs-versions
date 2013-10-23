@@ -19,6 +19,11 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 We use IP addresses and browser type to analyze trends and administer the site. We do not do reverse DNS lookups, so IP addresses are not linked to personally identifiable information.
 
   
+**Analytics**  
+
+Toodledo uses Google Analytics to monitor the website and make improvements. Google collections information such as your IP number and browser. Google also infers information such as gender and age and aggregates this information in a way that enables us to improve our service. You may opt-out of Google's tracking here and here. Toodledo does not facilitate the merging of personally identifiable information with non-personally identifiable information collected by Google.
+
+  
 **Sharing**  
 
 We may share aggregated information with our partners. This is not linked to any personally identifiable information.
