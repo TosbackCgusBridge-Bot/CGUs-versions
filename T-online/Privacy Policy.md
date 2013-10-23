@@ -89,31 +89,31 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 *   E-Mail Center - Kalender
 
-mehr zum Thema alle passenden Artikel
+mehr zum Thema mehr Artikel zum Thema
+
+*   Facebook an der Saar nicht als schulische Lernplattform erlaubt
+*   Facebook an der Saar nicht als schulische Lernplattform erlaubt
+*   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
+*   Europa macht Ernst beim Datenschutz
+*   Hessen: Kein Facebook-Verbot für Lehrer
+*   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
+*   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
+*   Facebook lahmgelegt durch eine Panne bei Wartungsarbeiten
+
+weniger Artikel weniger Artikel
 
 *   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
 *   EU-Parlamentsausschuss stimmt für Datenschutzreform
 *   Facebook-Verbot zwischen Lehrern und Schülern in Rheinland-Pfalz
 *   Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
-*   Facebook gibt neue Privatsphäre-Warnhinweise für Teenager
 *   Großer Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
-
-schließen schließen
-
 *   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Google-Werbung mit eigenem Profilbild und Namen verhindern
 *   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
-*   Alle Facebook-Mitglieder tauchen künftig in Suchfunktion auf
-*   Vater von US-Informant Edward Snowden in Moskau eingetroffen
-*   Facebook: Unternehmen in Schleswig-Holstein dürfen Seiten betreiben
-*   Verwaltungsgericht: Unternehmen dürfen Facebook-Seiten betreiben
-*   Schleswiger Richter verhandeln über Klagen wegen Facebook-Seiten
-*   Europas Datenschutzreform kommt nicht voran
-*   Panne am Flugzeug: Innenminister kommt nicht zu EU-Treffen
 
 *   Kundencenter
 *   Preise und AGB
