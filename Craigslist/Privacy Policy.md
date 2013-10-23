@@ -1,6 +1,5 @@
 craigslist  
-online community Updated:  
-Sep 28th 2013 01:39 PM about >. privacy policy Privacy Policy
+online community about >. privacy policy Privacy Policy
 
 craigslist has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by craigslist from time to time. craigslist will provide notice of materially significant changes to this privacy policy by posting notice on the craigslist site.
 
