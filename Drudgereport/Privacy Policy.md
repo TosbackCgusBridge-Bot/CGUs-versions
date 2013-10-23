@@ -98,8 +98,8 @@
     
     *   190+ million voters
     *   500+ targeting data points
-    *   3,100 counties
-    *   157 nationsLearn More
+    *   1 million + FatCat™ contributors
+    *   SuperVoters™Learn More
 *   Our Company Who We Are
     
     Intermarkets specializes in full-service advertising solutions for publishers, advertisers, and agencies.
