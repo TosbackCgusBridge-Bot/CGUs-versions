@@ -20,6 +20,7 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Full ViewLog In Required
     *   Update Accounts / Features
     *   StatementsLog In Required
+    *   Refer A Friend
 *   News &. Insights
     *   Close
     *   News
