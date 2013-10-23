@@ -164,7 +164,7 @@ Lands' End
         
         *   Featured Shops
         *   New Arrivals
-        *   Christmas Shop
+        *   Christmas Décor
         *   Supima Bedding &. Bath
         *   Flannel Bedding
         *   Sale
@@ -176,6 +176,7 @@ Lands' End
         *   Storage &. Organization
         *   Seasonal Décor &. Gifts
         *   Backpacks, Luggage &. Bags
+        *   Totes
         *   Beach Towels
         *   Outdoor Living
         *   Kids Home
