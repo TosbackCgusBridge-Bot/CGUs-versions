@@ -4,39 +4,37 @@ Pronto.com - shop everywhere, right here
     *   Women
         
         *   Women
-        *   Women's Clothing
+        *   Clothing
         *   Shoes
         *   Bags
         *   Accessories
         *   Beauty
-        *   Other Style
     *   Men
         
         *   Men
-        *   Men's Clothing
-        *   Men's Shoes
-        *   Men's Bags &. Briefcases
-        *   Men's Accessories
-        *   Men's Grooming
+        *   Clothing
+        *   Shoes
+        *   Bags &. Briefcases
+        *   Accessories
+        *   Grooming
     *   Baby &. Kids
         
         *   Baby &. Kids
-        *   Baby &. Kids Clothing
+        *   Clothing
         *   Baby Gear
-        *   Baby &. Kids Furniture
-        *   Nursery Decor
-        *   Kids &. Baby Bedding &. ...
+        *   Furniture
+        *   Decor
+        *   Bedding &. Bath
         *   Baby Care
         *   Baby Toys
-        *   Other Baby
     *   Home &. Garden
         
         *   Home &. Garden
         *   Kitchen &. Tabletop
         *   Furniture
-        *   Home Decor
+        *   Decor
         *   Bedding &. Bath
-        *   Home Appliances
+        *   Appliances
         *   Lighting
         *   Outdoor Living
         *   Tools &. Hardware
@@ -51,7 +49,6 @@ Pronto.com - shop everywhere, right here
         *   Computers
         *   Phones
         *   Video Games
-        *   Other Electronics
     *   Drugstore
         
         *   Drugstore
@@ -70,17 +67,16 @@ Pronto.com - shop everywhere, right here
         *   Team Sports
         *   Individual Sports
         *   Fan Shop
-        *   Fitness Equipment
-        *   Outdoor Sports
-        *   Water Sports Equipment
-    *   Automotive Tools &. Hardware
+        *   Fitness
+        *   Outdoors
+        *   Water Sports
+    *   Automotive
         
-        *   Automotive Tools &. Har...
-        *   Auto Body Parts
-        *   Automotive Accessories
-        *   Automotive Tools &. Equ...
+        *   Automotive
+        *   Parts
+        *   Accessories
+        *   Tools &. Equipment
         *   Tires &. Wheels
-        *   Other Automotive Tools...
     *   Books &. Media
         
         *   Books &. Media
@@ -97,8 +93,8 @@ Pronto.com - shop everywhere, right here
         *   Jewelry Making
         *   Knitting &. Crochet
         *   Needlework
-        *   Scrapbooking Supplies
-        *   Sewing &. Quilting Supp...
+        *   Scrapbooking
+        *   Sewing &. Quilting
         *   more...
     *   Flowers &. Gifts
         
@@ -108,8 +104,6 @@ Pronto.com - shop everywhere, right here
         *   Gift Baskets
         *   Gift Wrapping
         *   Baby Gifts
-        *   Cigars &. Pipes
-        *   Other Flowers, Food, &...
     *   Grocery &. Gourmet
         
         *   Grocery &. Gourmet
@@ -117,7 +111,7 @@ Pronto.com - shop everywhere, right here
         *   Beverages
         *   Condiments
         *   Meat &. Seafood
-        *   Baking &. Cooking Mixes
+        *   Mixes
         *   Snacks
         *   Spices
         *   Chocolate &. Candy
@@ -125,50 +119,48 @@ Pronto.com - shop everywhere, right here
     *   Musical Instruments
         
         *   Musical Instruments
-        *   Brass Instruments
+        *   Brass
         *   Drums &. Percussion
         *   Guitars &. Basses
         *   Pianos &. Keyboards
-        *   Stringed Instruments
-        *   Woodwind Instruments
-        *   Recording Equipment
-        *   DJ &. Performing Equipment
+        *   Strings
+        *   Woodwinds
+        *   Recording
+        *   DJ &. Performing
         *   more...
     *   Office &. Industrial
         
         *   Office &. Industrial
-        *   General Office &. Schoo...
+        *   General Supplies
         *   Writing Instruments
         *   Paper Supplies
-        *   Office Storage &. Organ...
+        *   Storage &. Organization
         *   Calculators
         *   Paper Shredders
-        *   Office Furniture
-        *   Other Office
-    *   Party &. Wedding Supplies
+        *   Furniture
+    *   Party &. Wedding
         
-        *   Party &. Wedding Supplies
-    *   Pet Supplies
+        *   Party &. Wedding
+    *   Pets
         
-        *   Pet Supplies
-        *   Dog Supplies
-        *   Cat Supplies
-        *   Bird Supplies
-        *   Fish Supplies
-        *   Reptile Supplies
-        *   Small Pet Supplies
-        *   Other Pet Supplies
+        *   Pets
+        *   Dog
+        *   Cat
+        *   Bird
+        *   Fish
+        *   Reptile
+        *   Small Pet
     *   Toys &. Hobbies
         
         *   Toys &. Hobbies
         *   Action Figures &. Vehicles
-        *   Children's Arts &. Crafts
+        *   Arts &. Crafts
         *   Building Sets &. Blocks
         *   Dolls &. Stuffed Toys
         *   Games &. Puzzles
-        *   Educational Toys &. Games
-        *   Outdoor Play
-        *   Pretend Play &. Dress-Up
+        *   Learning
+        *   Outdoor
+        *   Pretend &. Dress-Up
         *   more...
     *   Holidays
         
