@@ -1,6 +1,6 @@
 Privacy &. Security
 
-This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Web site, microsites, or mobile sites of our brands and lines of business that expressly adopt, and display or link to, this policy. These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean your identifying information (like name, home address, and email address), and descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to all our brands and lines of business (i.e., Victoria's Secret, Victoria's Secret Pink, and Pink Nation) as "we," "us," or "our" throughout this privacy policy.
+This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Web site, microsites, or mobile sites of our brands and lines of business that expressly adopt, and display or link to, this policy. These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean your identifying information (like name, home address, and email address), and descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to all our brands and lines of business (i.e., Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink)) as "we," "us," or "our" throughout this privacy policy.
 
 This privacy policy answers these questions:
 
@@ -18,9 +18,9 @@ What personal information is collected at our Web site and how is it used?
 
 1.  1\.  Information You Directly Provide through this Site
     
-    We collect personal information directly from you to do all the things typically associated with Web sites. Examples of the information we collect include name, address, telephone number, mobile phone number, email address, personal preferences, credit card number, purchase and ordering information, demographical information, responses to survey questions and sizing information.
+    We collect personal information directly from you to do all the things typically associated with Web sites. Examples of the information we collect include name, address, phone number, email address, personal preferences, credit card number, purchase and ordering information, demographical information, responses to survey questions and sizing information.
     
-    This information is collected at various places: for instance, when you check out with your online order. subscribe to catalogs, email offers, and mobile messaging offers. participate in surveys;join Victoria's Secret Pink Nation. enter contests or sweepstakes. or interact with special-event or program offers.
+    This information is collected at various places: for instance, when you check out with your online order. subscribe to catalogs, email offers, and Pink mobile messaging offers. participate in surveys;join Victoria's Secret Pink Nation. enter contests or sweepstakes. or interact with special-event or program offers.
     
     We may also collect information that you provide about people you know. For example, we collect your gift recipient's contact information to process your gift orders. We use personally identifying information to do things like:
     
@@ -43,7 +43,7 @@ What personal information is collected at our Web site and how is it used?
         
         To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer. It's used to do things like see how you navigate our Web site, what you click on, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, personalize your online experience, and personalize offers to you based on your unique tastes and both your online and offline (e.g., in-store) interactions and purchase history.
         
-        We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like mostfor example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
+        We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like most–for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
         
 3.  3\.  Information Others Observe or Collect through Technology
     
@@ -101,7 +101,7 @@ What information do we share with third parties and our sister brands (or what i
     
 2.  2\.  Contractors
     
-    We use third-party "back-office" contractors to help handle parts of our business because of their expertise, resources, or scale. They help us do things like fulfill orders, process payments, provide some customer service through chat features, monitor site activity, serve surveys and provide analysis from the surveys when combined with website use, maintain databases, administer and monitor emails,(e.g., from Victoria's Secret or Pink Nation), administer and send mobile messages (e.g., from Victoria's Secret or Pink Nation), serve ads on this and other Web sites as described above and provide consulting services. Contractors may also assist us in hosting microsites and mobile Web sites where you may provide personal information about you and others you know. and where they may observe information about you in the same way as described above (see What Personal Information Is Collected At Our Web Site, and How Is It Used?)
+    We use third-party "back-office" contractors to help handle parts of our business because of their expertise, resources, or scale. They help us do things like fulfill orders, process payments, provide some customer service through chat features, monitor site activity, serve surveys and provide analysis from the surveys when combined with website use, maintain databases, administer and monitor emails,(e.g., from Victoria's Secret or Pink Nation), administer and send mobile messages (e.g., from Pink), serve ads on this and other Web sites as described above and provide consulting services. Contractors may also assist us in hosting microsites and mobile Web sites where you may provide personal information about you and others you know. and where they may observe information about you in the same way as described above (see What Personal Information Is Collected At Our Web Site, and How Is It Used?)
     
 3.  3\.  Other Marketers
     
@@ -128,7 +128,7 @@ What choices do you have over how your information is used?
     
 2.  2\.  Mobile Messaging
     
-    If you've signed up for mobile text messaging offers (e.g., from Victoria's Secret or Pink Nation) but later decide you no longer wish to receive offers from one or both of these brands or lines of business, simply follow the opt-out instructions included in the mobile message.
+    If you've signed up for mobile text messaging offers (e.g., from Pink) but later decide you no longer wish to receive offers from one or both of these brands or lines of business, simply follow the opt-out instructions included in the mobile message.
     
 3.  3\.  Postal Mail: Catalogs
     
@@ -173,7 +173,7 @@ Where is personal information stored and processed?
 
 We may store and process personal information in the United States and other countries.
 
-Our parent company (Limited Brands) has become a participant in the Safe Harbor program (developed by the U.S. Department of Commerce and the European Union) specifically for our Victorias Secret and Victorias Secret Pink stores inand email sign-up Website forthe United Kingdom. (They are governed by separate privacy policies, which may be accessed in those stores and on that Web site.) Limited Brands has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the European Union (EU) to the U.S. For more information about the Safe Harbor program and to view Limited Brands' certification, please visit the U.S. Department of Commerce's Safe Harbor Web site. If you wish to make an EU-related inquiry about privacy or data transfer, please contact our Associate Vice President (AVP) of Legal and Compliance Services
+Our parent company (Limited Brands) has become a participant in the Safe Harbor program (developed by the U.S. Department of Commerce and the European Union) specifically for our Victoria’s Secret and Victoria’s Secret Pink stores in—and email sign-up Website for—the United Kingdom. (They are governed by separate privacy policies, which may be accessed in those stores and on that Web site.) Limited Brands has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the European Union (EU) to the U.S. For more information about the Safe Harbor program and to view Limited Brands' certification, please visit the U.S. Department of Commerce's Safe Harbor Web site. If you wish to make an EU-related inquiry about privacy or data transfer, please contact our Associate Vice President (AVP) of Legal and Compliance Services
 
 Back To Top
 
@@ -189,7 +189,7 @@ Whom should you contact with questions or concerns?  
     
     AVP, Privacy  
     Legal &. Compliance Services  
-    Limited Brands, Inc.  
+    L Brands, Inc.  
     3 Limited Parkway  
     Columbus, OH 43230  
     US  
@@ -201,7 +201,7 @@ Whom should you contact with questions or concerns?  
     
     Safe Harbor Line  
     Direct Marketing Association  
-    1615 L St., NW Suite 1100  
+    1615 L St., NW – Suite 1100  
     Washington, DC 20036  
     US  
     safeharbor@the-dma.org
@@ -213,7 +213,7 @@ When was this policy last updated?
 
 Please click here to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about VictoriasSecret.com.
 
-This Privacy Statement is effective January 14, 2013
+This Privacy Statement is effective October 23, 2013
 
 Back To Top
 
