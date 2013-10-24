@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Facebook entfernt Enthauptungsvideo – nicht wegen Protesten
+*   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
 *   Europa macht Ernst beim Datenschutz
 *   Hessen: Kein Facebook-Verbot für Lehrer
 *   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
-*   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
-*   Facebook lahmgelegt durch eine Panne bei Wartungsarbeiten
 
 weniger Artikel weniger Artikel
 
+*   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
 *   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
 *   EU-Parlamentsausschuss stimmt für Datenschutzreform
 *   Facebook-Verbot zwischen Lehrern und Schülern in Rheinland-Pfalz
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Google-Werbung mit eigenem Profilbild und Namen verhindern
-*   Deutsche Telekom plant E-Mail-Netz: Schutz vor Hackern und Spionen
 
 *   Kundencenter
 *   Preise und AGB
