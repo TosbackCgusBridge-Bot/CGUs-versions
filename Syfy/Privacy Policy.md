@@ -259,13 +259,13 @@ BSG's Nicki Clyne Takes You Inside NY Comic C ... BSG's Nicki Clyne Takes You In
 
 Battlestar's Nicki Clyne is the new host of BlastrTV! Geek out as she gives you an inside look at New York Comic Con 2013 with some special guest appearances.
 
-Face Off - Sneak Peek - Dark Magic Face Off - Sneak Peek - Dark Magic
+Blastr Origin Stories: Robert Kirkman on Walk ... Blastr Origin Stories: Robert Kirkman on Walking Dead
 
-Catch a sneak peek of Face Off's next episode, Tuesdays at 9/8c.
+The Walking Dead creator, Robert Kirkman, shares what it was like to hold the first print of The Walking Dead #1 and
 
-The Winner Tells All: Episode 10 - Rayce The Winner Tells All: Episode 10 - Rayce
+Face Off - Sneak Peek - Flights of Fantasy Face Off - Sneak Peek - Flights of Fantasy
 
-Rayce critiques episode 10, The Laughing Dead
+Catch a sneak peek of the next episode of Face Off, Tuesdays at 9/8c.
 
 *   FAQ
 *   Feedback
