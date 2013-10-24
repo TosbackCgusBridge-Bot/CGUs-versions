@@ -183,11 +183,13 @@ Support
 
 Contact Us
 
+*   TWC Forums
 *   Live Chat
 *   Contact Us
-*   Investor Relations
 *   TWC Stores
+*   Investor Relations
 *   Careers
+*   Email Offers
 
 Other Sites
 
@@ -206,7 +208,6 @@ Follow Us
 *   Twitter
 *   YouTube
 *   Untangled Blog
-*   TWC Forums
 
 *   Privacy Policy
 *   Terms, Conditions &. Policies
