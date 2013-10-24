@@ -11,13 +11,13 @@ For the purposes of the Data Protection Act 1998 (the "Act"), the data controlle
 
 Your consent
 
-Subject to the additional information contained on the page headed "Statement on the use and disclosure of Personal Data", by using the Website, you understand and agree that the information you provide through the Website will be held on a database created and operated by Pets At Home Limited and used by Pets at Home Limited, any other company in the Pets at Home group, any of their affiliated companies, and/or other selected third parties to provide and personalise our service. We, our group and affiliated companies, and other carefully selected third parties, may contact you for marketing reasons via post, telephone, fax or email or other appropriate means.
+By using our Website, you understand and agree that personal information you provide through the Website will be held on a database created and operated by us, our group of companies and/or other selected third parties.
 
 Back to Top
 
 What information do we collect and why?
 
-When you make a purchase online, sign up to our Pets at Home newsletter or enter a prize draw/competition, you will be asked for some essential information including your title, first name, surname, postal address, email address, telephone and payment information. These are collected to help us:
+When you make a purchase in store or online, sign up to our VIP Club or enter a prize draw/competition, you will be asked for some essential information including your title, first name, surname, postal address, email address, telephone and if applicable payment information. These are collected to help us:
 
 *   Process your online orders including sending order confirmation and delivery information via email.
 *   Contact you about your order, account or credit status where required.
@@ -46,30 +46,31 @@ Back to Top
 
 Protecting your security
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Act.
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to these checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Act.
 
 Back to Top
 
 Statement on the use and disclosure of Personal Data
 
-We may send you, for example, brochures, leaflets, catalogues and other promotional material for our products and services. We may also telephone or email you to discuss order details or for market or service research. In addition, we may include leaflets or brochures for complimentary products and services from third parties with our marketing communications or parcels.
+We may send you by sms, email or post, details on offers, products, reminders and services which may be of interest to you. We may also telephone you to discuss order details or for market or service research.
 
 We may also permit selected third parties to use your data to provide you with information about goods and services which may be of interest to you and they may contact you about these by post or telephone. They may also contact you by email or SMS where you have consented to receiving such communications.
 
 We may monitor or record telephone calls to ensure our quality standards are maintained and for fraud prevention purposes.
 
-We may disclose your personal information to any member of the Pets At Home Limited group, which means Pets At Home Limited's subsidiaries, ultimate holding company and its subsidiaries, as defined in section 1162 of the Companies Act 2006, and also to affiliated companies and other selected third parties for the purposes described above..
+We may disclose your personal information to any member of the Pets at Home Limited group (our group companies and our charity, Support Adoption For Pets), and also to affiliated companies and other selected third parties for the purposes described above..
 
-*   We may disclose your personal information to third parties:  
-    In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+We may disclose your personal information to third parties:
+
+*   In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
 *   If Pets at Home Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. or
-*   If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and any and/or all other agreements or contracts between us or to protect the rights, property, or safety of Pets at Home Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+*   If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions or agreements or contracts between us or to protect the rights, property, or safety of Pets at Home Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection, credit risk reduction and our interal investigations including customer complaints and claims.
 
 Back to Top
 
 Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, for example, the order form. You can also exercise the right at any time by contacting us.
+You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data, for example, the order form. You can also exercise your right not to receive marketing information at any time by clicking the link on the bottom of each email or contacting our customer service team on 0800 328 4204.
 
 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -93,10 +94,10 @@ You have a right to access the personal data about you that is held by us. To ob
 
 Back to Top
 
-Changes to our privacy policy
+Changes to our Privacy Policy
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-If you have any queries about data protection, please contact us.
+If you have any queries about data protection, please contact us on 0800 328 4204.
 
 Back to Top
