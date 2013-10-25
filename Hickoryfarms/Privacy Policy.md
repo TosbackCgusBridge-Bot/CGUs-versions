@@ -1,47 +1,168 @@
-Food Gifts | Gourmet Sausage &. Cheese Food Gift Baskets | Hickory Farms Close x Questions? Call **800.753.8558**   Log In Track Order Cart (0, $0.00)
+1800.753.8558 Find your local store Skip to content
 
-*   *   Sausage &. Cheese
-    *   Baskets &. Towers
-    *   Birthday Gifts
-    *   Wine Gifts
-    *   Military Gifts
-    *   Pantry Essentials
+*   Login
+*   Register
+*   Wishlist
+
+Your Cart(0) Catalog Navigation
+
+*   Shop By Category
+    
+    *   Sausage &. Cheese
     *   Fruit &. Nuts
-    *   Sweets &. Cookies
-    *   HoneyGold ® Ham
-    *   Corporate Gifts
-*   *   $30 &. Under
-    *   $40 &. Under
-    *   $50 &. Under
-    *   Over $50
+    *   Wine Gifts
+    *   HoneyGold Ham
+    *   Hickory Farms Reserve
+    *   Pantry Essentials
+    *   Military Gifts
+    *   Birthday Gifts
+    *   New Product Showcase
+    *   Top Sellers
+    
+*   Shop By Price
+    *   Gifts $20 &. Under
+    *   Gifts $30 &. Under
+    *   Gifts $40 &. Under
+    *   Gifts $50 &. Under
+    *   Gifts Over $50
+*   Favorites
+*   Specials
+*   Business Gifts
 
-*     
-      
+Search Catalog Search Menu Search Stores Cart
+
+*   Shop By Category
     
-    We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.  
-      
-    If you request additional information or make an online purchase from us, you may receive e-mail from us about online specials and other events. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to us at the above address and telling us that you do not want to receive e-mail from our company. We never sell or trade e-mail addresses with companies outside the Hickory Farms family of brands, which includes Pfaelzer Brothers.  
-      
-    If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. You will be given an opportunity to decline our mail services at checkout. If you do not want to receive mail from us in the future, please let us know by sending an e-mail. Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending an e-mail to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with organizations other than the Hickory Farms brands listed above.  
-      
-    Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online, new products and services, or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an e-mail at the above address.
+    *   Sausage &. Cheese
+    *   Fruit &. Nuts
+    *   Wine Gifts
+    *   HoneyGold Ham
+    *   Hickory Farms Reserve
+    *   Pantry Essentials
+    *   Military Gifts
+    *   Birthday Gifts
+    *   New Product Showcase
+    *   Top Sellers
     
-      
-      
-    
-    Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
-    
-      
-      
-      
-      
-      
-    *   800.753.8558
-    *   Hickory Farms Canada
-    *   Gift Certificates
-    *   Privacy
-    *   Share Our Strength
-    *   Site Map
-    *   Employment
-    *   Terms of Use
-    *   Blog
+*   Shop By Price
+    *   Gifts $20 &. Under
+    *   Gifts $30 &. Under
+    *   Gifts $40 &. Under
+    *   Gifts $50 &. Under
+    *   Gifts Over $50
+*   Favorites
+*   Specials
+*   Business Gifts
+
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+
+1.  Home
+2.  Customer Service
+3.  Privacy Policy
+
+Your browser's Javascript functionality is turned off. Please turn it on so that you can experience the full capabilities of this site.
+
+Information We Collect and How it is Used
+
+We may share your peronally-identifiable information, including your name, address, e-mail address, as well as a record of any transaction you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide anonymous. To choose not to have this information used by our third-party advertising partner click here.  
+  
+If you request additional information or make an online purchase from us, you may receive e-mail from us about online specials and other events. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to us at the above address and telling us that you do not want to receive e-mail from our company. We never sell or trade e-mail addresses with companies outside the Hickory Farms family of brands, which includes Pfaelzer Brothers.  
+  
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. You will be given an opportunity to decline our mail services at checkout. If you do not want to receive mail from us in the future, please let us know by sending an e-mail. Also, you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending an e-mail to us at the above address. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with organizations other than the Hickory Farms brands listed above.  
+  
+Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online, new products and services, or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us an e-mail at the above address.  
+  
+  
+Conditions of Use  
+Any dispute over privacy is subject to this Privacy Policy and our Terms of Use.
+
+Secondary Navigation Shipping and Returns
+
+*   Shipping Cost
+*   Holiday Shipping Deadlines
+*   Order Tracking
+*   Refunds and Replacements
+*   Shipping Restrictions
+
+Placing Your Order
+
+*   Product Selection
+*   Submitting an Order
+*   Valid Payment Methods
+*   Promo Codes
+*   Order Processing
+*   Sales Tax
+*   Order Status
+*   Security (Verisign)
+
+My Account
+
+*   Managing An Account
+*   Opening An Account
+*   Updating Your Information
+*   Customer Mailing List
+*   Order History
+*   Password Assistance
+*   Tracking Your Order
+
+Guarantees
+
+*   100% Satisfaction
+*   Substitution Policy
+*   Security
+
+Privacy
+
+*   Privacy Policy
+
+Security
+
+*   Use of Cookies
+*   Credit Card Safety
+*   Bank or Credit Card Liability
+*   Your Credit Card Information is Secure
+*   Links to Other Sites
+*   Notice of Changes
+*   Terms of Use information
+*   Additional Questions
+
+About Us
+
+*   Store Locator
+*   Employment Opportunities
+*   The Hickory Farms Story
+
+Need Help?
+
+If you have any question or need help with your account, you may Contact Us to assist you.
+
+Customer Service  
+Monday to Friday  
+8 AM to 8 PM  
+1.800.776.4111
+
+Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up
+
+*   Business Gifts
+*   Gift Certificates
+*   Find a Store
+*   Order Tracking
+*   Request a Catalog
+*   E-Catalog
+
+*   Customer Service
+*   Contact Us
+*   Employment
+
+*   About Us
+*   In The News
+*   My Account
+*   No Kid Hungry®
+
+Quality &. Tradition Guaranteed - Est. 1951 Follow us online
+
+*   Login
+*   Register
+*   Wishlist
+
+© 2013 All rights reserved.Privacy policyTerms of useSite map
