@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Amazon raises threshold for free shipping
+Search Help Fifteen tons of groceries, sailing down the Hudson
 
-Also in Tech »
+Also in T Magazine »
 
-*   Longing for the "wow" at Apple's product showcases
-*   Start-up reinvents the bicycle wheel
+*   The demise of the fashion eccentric
+*   "White Girls," the controversy-courting new volume from Hilton Als
 
   
 
