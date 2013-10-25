@@ -263,9 +263,9 @@ Blastr Origin Stories: Robert Kirkman on Walk ... Blastr Origin Stories: Robert 
 
 The Walking Dead creator, Robert Kirkman, shares what it was like to hold the first print of The Walking Dead #1 and
 
-Face Off - Sneak Peek - Flights of Fantasy Face Off - Sneak Peek - Flights of Fantasy
+Bonus Scene - And Then There Were Four Bonus Scene - And Then There Were Four
 
-Catch a sneak peek of the next episode of Face Off, Tuesdays at 9/8c.
+Four contestants are behind the stage waiting for their fate.
 
 *   FAQ
 *   Feedback
