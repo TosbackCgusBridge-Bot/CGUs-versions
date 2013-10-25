@@ -72,7 +72,7 @@ Occasionally, The Boston Globe will run contests that registered members can ent
   
 We use a commercial advertising server to display ads on our sites and we use cookies to manage the display and frequency of advertisements that we sell and/or serve.  
   
-  We also reserve the right to place a New York Times Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.  
+  We also reserve the right to place a Boston Globe Media Partners LLC cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.  
   
   We use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  
   
