@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: October 19, 2013**
+**Last Revised: October 24, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -19,12 +19,6 @@ Whether you are simply browsing or using this Site or purchase Services, your us
 *   Trademark and/or Copyright Infringement Policy
 *   Brand Guidelines and Permissions
 *   Direct Affiliate Program Service Agreement
-
-*   Privacy Policy
-*   Dispute On Transfer Away Form
-*   Uniform Domain Name Dispute Resolution Policy
-*   ICANN Transfer Dispute Resolution Policy
-*   Trademark and/or Copyright Infringement Policy
 
 The terms “we”, “us” or “our” shall refer to Go Daddy.  The terms “you”, “your”, “User” or “customer” shall refer to any individual or entity who accepts this Agreement, has access to your account or uses the Services.  Nothing in this Agreement shall be deemed to confer any third-party rights or benefits.
 
@@ -768,5 +762,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 10/19/2013  
+Revised: 10/24/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
