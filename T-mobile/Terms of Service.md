@@ -1,7 +1,4 @@
   
-
-Return to December 2011 Terms &. Conditions >
-
   
 
 Did you activate (or renew) service prior to October 19, 2013? If yes, please click the date for the applicable version of the Terms and Conditions: December 30, 2011 | July 24, 2011 | July 18, 2010 | June 28, 2008 | December 2004.
