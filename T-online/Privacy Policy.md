@@ -108,12 +108,12 @@ weniger Artikel weniger Artikel
 *   Facebook-Verbot zwischen Lehrern und Schülern in Rheinland-Pfalz
 *   Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
 *   Großer Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
+*   Facebook schwächt Datenschutz-Einstellungen für Teenager
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
-*   Google-Werbung mit eigenem Profilbild und Namen verhindern
 
 *   Kundencenter
 *   Preise und AGB
