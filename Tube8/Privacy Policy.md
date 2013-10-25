@@ -311,7 +311,7 @@ Send For more information, please contact a TrafficJunky representative at www.t
 *   Hardcore
 *   HD
 *   Indian
-*   Latina
+*   **Latina**
 *   Lesbian
 *   Mature
 *   Strip
