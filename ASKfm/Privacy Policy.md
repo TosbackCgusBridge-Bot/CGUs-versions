@@ -7,7 +7,7 @@ At Ask.com, we respect your privacy, and we understand the importance of the inf
 By using our website, Search Application, or our mobile application, you consent to our collection and use of your data as described in this privacy policy. If you install a Search Application that accesses the Ask.com search services, you will be subject to the applicable end user license terms that describe what information is collected when you use the Search Application and how that information may be used.  You can access the applicable end user license terms from a “Help” “Support” or similar link through the Search Application.  If you are installing a version of the Search Application that includes third party features and functionalities or accesses third party content, such third party features, functionalities and content are subject to such third party’s privacy policy. You may find such privacy policy via a link displayed within the Search Application itself, or on the website of the relevant feature, function or content provider. In addition, when you sign up for an account with Ask, we also collect personal information from you. We may combine the information you submit under your account with information we collect from your use of our services in order to provide you with a better experience and to improve the quality of our services.
 
 As our privacy practices evolve, we will update this privacy policy. Any material changes in our privacy practices will be posted prominently on this page.  
-If you have any question about our privacy practices, you can contact us via email by clicking here or write to our Privacy Officer at:
+If you have any question about our privacy practices, you can contact us via email at privacy@ask.com or write to our Privacy Officer at:
 
 Ask.com  
 Attn: Privacy Officer  
@@ -81,7 +81,7 @@ If you create an account with Ask, all past and future information collected abo
 
 **Reviewing, changing or deleting information:**
 
-If you would like to review, change or delete information we have collected about you, please contact the Ask Privacy Officer here.
+If you would like to review, change or delete information we have collected about you, please contact the Ask Privacy Officer at privacy@ask.com.
 
 **Security of the information we collect:**
 
