@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Union will Gesetz für mehr Datensicherheit
 *   Facebook entfernt Enthauptungsvideo – nicht wegen Protesten
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
 *   Europa macht Ernst beim Datenschutz
 *   Hessen: Kein Facebook-Verbot für Lehrer
-*   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
 
 weniger Artikel weniger Artikel
 
+*   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
 *   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
 *   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
 *   EU-Parlamentsausschuss stimmt für Datenschutzreform
@@ -112,7 +113,6 @@ weniger Artikel weniger Artikel
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
-*   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 
 *   Kundencenter
