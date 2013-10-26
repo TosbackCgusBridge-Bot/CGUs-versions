@@ -1,4 +1,4 @@
-Please click here if you are not redirected within a few seconds.  
+  
 Print | Close CONSTANT CONTACT® PRIVACY STATEMENT
 
 Effective September 9, 2013
