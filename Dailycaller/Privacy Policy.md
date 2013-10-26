@@ -154,6 +154,12 @@ California residents may request a list of all third parties to which The DC has
 
 Questions and comments regarding this Privacy Policy should be directed to privacy@dailycaller.com.
 
+The Daily Caller  
+1050 17th Street NW  
+Suite 900  
+Washington, DC 20036  
+(202) 506-2027
+
 Copyright (c) 2012, The Daily Caller, Inc.
 
 Read more: http://dailycaller.com/footer/privacy-policy/#ixzz2Aj2rMycx
