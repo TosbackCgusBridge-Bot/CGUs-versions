@@ -85,8 +85,7 @@ Contact
 
 If you have any additional questions about this policy, you are encouraged to contact TwoWayLove.
 
-Get more conversions on your dating site  Home  
- Contact  
+Get more conversions on your dating site  Contact  
  Lisa's Blog  
  Webmasters  
  Advertising  
@@ -105,7 +104,6 @@ Twitter  
 Facebook    
 Free Newsletter    
 RSS Feed    
-Pinterest    
 Stumbleupon    
 Google+    
 +41 76 794 7813 &nbsp Follow @twowaylove\_com ©2009-2013 TwoWayLove.com Dating Directory - All rights reserved -  Made in Switzerland
