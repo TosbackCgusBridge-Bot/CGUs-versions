@@ -1,64 +1,64 @@
-Staples price–match guarantee
+Price Match
 
-**How does Staples’ price–match guarantee work?**
+**Does Staples have a Price-Match Guarantee?**
 
-If you find a lower price on a new identical item, just show us the lower price when you buy the item at Staples and we will match the price, or within 14 days of your Staples purchase and we will give you the difference (see full policy below for details).
+Yes, we do. If you find a lower price on a new identical item, just show us the lower price when you buy the item at Staples or within 14 days of your Staples purchase, and we will match the price or give you the difference.
+
+Our full Price-Match Guarantee is available when you place an order, or is available by calling 800-333-3330. For an in-store price match, please see an associate at our customer service desk. This policy is subject to change without notice.
 
 **Which competitors will Staples price match?**
 
-Staples retail stores will price match prices at competitors’ brick-n- mortar retail stores and at Staples.com.
+Staples® retail stores will price match prices at competitors' brick-and-mortar retail stores and at staples.com®.
 
-Staples.com will price match select competitors’ websites as well as Staples’ retail stores. These select competitors are: Amazon, Best Buy, Costco, Dell, Hewlett Packard, Office Depot, Office Max, Quill, Medical Arts Press, Reliable, Sam’s Club, Wal—mart, WB Mason and Xerox. Items must be sold and shipped by one of these competitors.
+Staples.com will price match select competitors' Web sites as well as Staples retail stores. These select competitors are Amazon, Best Buy, Costco, Dell, HP, Office Depot, OfficeMax, Quill, Medical Arts Press, Reliable, Sam's Club, Walmart, W.B. Mason and Xerox. Items must be sold and shipped by one of these competitors.
 
 **Which items does Staples price match?**
 
-Almost everything we sell. The item must be identical, including model number, components and U.S. warranty. The item must be in stock and available for purchase at that price from an authorized U.S. reseller, whose authorization we reserve the right to verify. For wireless phones and other items with a service plan, only in—store purchases are eligible for price match. The plan, provider and other terms must be the same. Products and services purchased online at our Mobile Phone sales &. service site are not eligible for price match.
+We price match almost everything we sell. The item must be identical, including model number, components and U.S. warranty. The item must be in stock and available for purchase at that price from an authorized U.S. reseller, whose authorization we reserve the right to verify. For wireless phones and other items with a service plan, only in-store purchases are eligible for price match. The plan, provider and other terms must be the same. Products and services purchased online at our mobile phone sales and service site are not eligible for price match.
 
-**Which items and services aren’t available for price match?**
+**Are there any items and services that aren't available for Price Match?**
 
-We don’t price match to competitors’ or our own local special events (e.g. grand opening, anniversary, clearance, timed sales or liquidation sales). We don’t price match: our Staples® EasyTechsm services. our third—party providers’ products and services (e.g., custom printing) or items sold on auction sites. taxes. warranties. typographical errors. gift cards. or merchandise credits.
+We don't price match to competitors' or our own local special events (e.g., grand opening, anniversary, clearance, timed sales or liquidation sales). We don't price match our Staples® EasyTechsm tech services. our third-party providers' products and services (e.g., custom printing) or items sold on auction sites. taxes. warranties. typographical errors. gift cards or merchandise credits.
 
-**How do Staples coupons and rebates contribute to the Staples price?**
+**How do Staples coupons and rebates contribute to the Staples Price Match?**
 
-All coupons and rebates (including Staples dollars off, Reward redemption codes, Gift checks, Easy Rebates sm and mail in rebates, instant savings) are deducted from the price of the Staples product when calculating a price match.
+All coupons and rebates (including Staples dollars off, reward redemption codes, gift checks, Easy Rebates® and mail-in rebates, and instant savings) are deducted from the price of the Staples product when calculating a price match.
 
-When calculating a price match, we’ll deduct any available Staples coupons and/or Staples Rebates (Rewards, Dollars off, instant savings, easy and mail in rebates) from the Staples price to arrive at a net price. For example, if you buy an item from us for $200 and use a $20 Rewards and there is a $20 instant savings, the Net price is $160. If another company’s price is $160 or more, the price match will not be approved as the Staples price is equivalent or better. Another example: If you buy an item from us for $159 and you have a coupon for $25 off a $100 order, as well as a $20 mail-in rebate, the net price is $114. If another company’s price is $110, your price match savings would be $4.
+When calculating a price match, we'll deduct any available Staples coupons and/or Staples Rebates (rewards, dollars off, instant savings, Easy Rebates and mail-in rebates) from the Staples price to arrive at a net price. For example, if you buy an item from us for $200, use $20 in Staples Rewards® and there is a $20 instant savings, the net price is $160. If another company's price is $160 or more, the price match will not be approved, as the Staples price is equivalent or better. Another example: If you buy an item from us for $159 and you have a coupon for $25 off a $100 order, as well as a $20 mail-in rebate, the net price is $114. If another company's price is $110, your price match savings would be $4.
 
 **What does “proration of coupons” mean?**
 
-Proration of coupons means the dollars off coupons (Staples coupons, Rewards, gift checks) are proportionally deducted from the prices of items on an order.
+Proration of coupons means that the dollars-off coupons (Staples coupons, rewards, gift checks) are proportionally deducted from the prices of items on an order.
 
 What effect will the proration of coupons have on a price match?
 
-The prorated discount from all coupons on the order will be used when calculating Staples’ price. The application of coupons can mean a specific purchase won’t qualify for price match. Similarly, a purchase that has a price match discount may no longer be eligible for a coupon if the adjusted order total no longer meets the minimum requirements of the coupon.
+The prorated discount from all coupons on the order will be used when calculating the Staples price. The application of coupons can mean a specific purchase won't qualify for price match. Similarly, a purchase that has a price match discount may no longer be eligible for a coupon if the adjusted order total no longer meets the coupon's minimum requirements.
 
-**Will Staples match a competitor’s price for a product where the competitor also offers an instant rebate, mail—in rebate, gift check or gift card, or free or discounted item?**
+**Will Staples match a competitor's price for a product where the competitor also offers an instant rebate, mail-in rebate, gift check or gift card, or free or discounted item?**
 
-If a competitor offers a product that comes with an instant rebate, mail—in rebate, gift check/gift card, or similar discounts, we will not take these discounts into account. If a competitor offers a product that comes with a free or discounted item, and Staples does not carry the free or discounted item, we will only match the price you pay at the point of purchase, and will not take the free or discounted item into account.
+If a competitor offers a product that comes with an instant rebate, mail-in rebate, gift check/gift card or similar discounts, we will not take these discounts into account. If a competitor offers a product that comes with a free or discounted item, and Staples does not carry the free or discounted item, we will only match the price you pay at the point of purchase, and will not take the free or discounted item into account.
 
 **Are delivery charges included in the price match?**
 
-It will depend on whether your Staples.com order will receive free shipping, and whether the competitor’s order will offer free shipping.
+This depends on whether your staples.com® order will receive free shipping and whether the competitor's order offers free shipping.
 
-If your Staples.com order will receive free shipping, and the competitor’s order will receive free shipping, we will price match the product without considering shipping charges. If your Staples.com order will receive free shipping and the competitor order will not receive free shipping, we will include an appropriate shipping charge in the competitor’s price before calculating the price match. If your Staples.com order does not receive free shipping, and the competitor’s order offers free shipping, we will deduct the Staples shipping charge from the competitor’s price, so that the Staples Price Match item total is the same as what the competitor is selling the product for.
+If your staples.com order will receive free shipping, and the competitor's order will receive free shipping, we will price match the product without considering shipping charges. If your staples.com order will receive free shipping and the competitor order will not receive free shipping, we will include an appropriate shipping charge in the competitor's price before calculating the price match.
+
+If your staples.com order does not receive free shipping, and the competitor's order offers free shipping, we will deduct the Staples shipping charge from the competitor's price, so that the Staples price match item total is the same as what the competitor is selling the product for.
 
 **Are quantities limited on price matched products?**
 
-We may limit the quantity of the price matched item, particularly if the other company has set a limit. In addition, we reserve the right to limit quantities sold to a customer.
+We may limit the quantity we sell of the price matched item, particularly if the other company has set a limit. In addition, we reserve the right to limit quantities sold to a customer.
 
-Our price match guarantee is available at www.staples.com/pricematch when you place an order, or is available by calling 1—800—333—3330. For an in-store price match, please see an associate at our customer service desk at your local store. This policy is subject to change without notice. Effective as of 5.2.2013
+Returns Policy
 
-Return Policy
+**What is your return policy?**
 
-**Easy Returns**
+If you're not 100% satisfied with your Staples® purchase, you can return it for any reason.
 
-If you're not 100% satisfied with your Staples purchase, return it for any reason.
+Your purchase must be returned in salable condition with the original packaging, including Universal Product Code (UPC), manuals, parts and your receipt or packing slip.
 
-**Holiday Return Policy**
-
-**Any electronic or furniture product, which usually fall within the 14-day return policy, purchased between 11/22/13 and 12/24/13 may be returned until 1/12/14 or as regular policy allows, whichever is later. This applies to all electronic and furniture products within Staples regularly posted 14-day return policy. All electronic and furniture purchases made on or after 12/26/13 will observe our existing return policy.**
-
-**All other terms and conditions of our return policy apply.**
+**What can and cannot be returned?**
 
 **Office Supplies**
 
@@ -70,118 +70,97 @@ Unopened boxed software that we currently sell may be returned for a full refund
 
 **Technology and Business Machines**
 
-Technology and business machines may only be returned within 14 days of the date of receipt, including Staples® brand technology and business machine products.
+Technology and business machines — such as computers, digital cameras, printers and tablets — may only be returned within 14 days of the date of receipt, including Staples® brand technology and business machine products.
 
-**Cancellation policy for AppleCare+**
+**AppleCare+**
 
-Customers who purchased AppleCare+ at Staples may return to Staples to cancel AppleCare within 30 days to receive a full refund. Staples cannot cancel AppleCare+ for customers who purchased the AppleCare elsewhere. All requests to cancel AppleCare+ beyond 30 days must be directed to Apple to receive a pro-rated refund.
+Customers who purchased an AppleCare+ Protection Plan at Staples may return to Staples to cancel AppleCare within 30 days to receive a full refund. Staples cannot cancel AppleCare+ for customers who purchased the AppleCare elsewhere. All requests to cancel AppleCare+ beyond 30 days must be directed to Apple to receive a pro-rated refund.
 
 **Furniture**
 
-Furniture, including Staples® brand furniture, may only be returned within 14 days of the date of receipt. Custom–ordered and custom–assembled furniture is only returnable if it's defective when you receive it.
+Furniture, including Staples® brand furniture, may only be returned within 14 days of the date of receipt. Custom-ordered and custom-assembled furniture is only returnable if it's defective when you receive it.
 
 **Ink and Toner Cartridges**
 
-Unopened and unexpired ink or toner cartridges, currently carried in our U.S. Stores, may be returned at any time for a full refund.
+Unopened and unexpired ink or toner cartridges, currently carried in our U.S. stores, may be returned at any time for a full refund.
 
 **Prepaid Cards**
 
-Gift Cards and phone cards are non–refundable and non–returnable. They are valid only at the retailer/service provider listed on the card. Prepaid cards cannot be redeemed for cash. Specific terms and conditions are included with each card.
+Gift cards and phone cards are nonrefundable and nonreturnable. They are valid only at the retailer/service provider listed on the card. Prepaid cards cannot be redeemed for cash. Specific terms and conditions are included with each card.
 
 **Refund Policy**
 
 Your purchase must be returned in saleable condition with the original packaging, including Universal Product Code (UPC), manuals, parts, and your receipt or packing slip.
 
-**Returns with a receipt**
+**I no longer have my receipt. Can I still return something?**
 
-If you paid with cash, debit card, or check, we'll refund your purchase with cash if it was an in–store purchase or by check if you purchased through staples.com®. If you paid using a debit card and if the card and PIN are present during the refund, we'll credit the account used for payment. If your purchase exceeded $500 pretax, and you paid with cash, check or by debit card but do not have your debit card, your money will be refunded in the form of a corporate check. If you paid by credit card, we'll credit the account used for payment. Any product that is returned without a promotional item(s), which was included in the original transaction (e.g. buy a printer, get free ink), will have the value of the promotional item deducted from the amount refunded.
+If you're returning your item to the same store at which you made the purchase, and you have the credit or debit card you used to make the purchase, we can look up your receipt.
 
-**Returns without a receipt**
+If it was an online order, you can look it up in the My Orders section and reprint your receipt.
 
-If you don't have your receipt, your return is eligible only for an in–store credit for the lowest selling price within the previous 30 days in our U.S. stores. Valid government identification is required for all non–receipted returns. We carefully monitor returns and in some cases returns made or without a receipt may be refused. Staples reserves the right to deny any return.
+If you no longer have your receipt and we cannot locate your transaction information, your return is eligible only for an in-store credit for the lowest selling price within the previous 30 days in our U.S. stores. A valid government identification is required for all returns made without a receipt.
 
-If you ordered through our catalog or Staples.com®, you can also have us pick up your return — just call 1-800-333-3330 or go to support@orders.staples.com. For delivered items, we'll refund your delivery charges if the item is defective.
+We carefully monitor returns, and in some cases, returns made without a receipt may be refused. Staples reserves the right to deny any return.
+
+If you ordered through our catalog or staples.com®, you can also have us pick up your return — send us an email or call 800-333-3330. For delivered items, we'll refund your delivery charges if the item is defective.
 
 Rebates
 
-How do rebates work? We have made rebates easier than ever!
+How do I redeem a rebate offer?
 
-**Staples Easy Rebatessm**
+There are two ways to redeem a rebate offer:
 
-Now you can submit most rebates online\* — no clipping, no mailing, no hassles. Easy Rebates are available on products purchased in Staples® stores, through our catalog and online at Staples.com®. Look for Easy Rebate products every time you shop. They're identified by the phrase "Easy Rebate", go to www.stapleseasyrebates.com and enter the required information right online. You won't receive emails keeping you posted on your rebate status, with links to the track status page online. Best of all, you'll receive your rebates faster than ever — within 4-6 weeks.
+**Staples® Easy Rebates®**
 
-**Learn more about Easy Rebates.**
+Now you can submit most rebates online — no clipping, no mailing, no hassles. Easy Rebates are available on products purchased in Staples stores, through our catalog and online at staples.com.
 
-\*Certain products, including most software titles, are not eligible for online submission. Any products excluded from the online submission process will be advertised as qualifying for a "mail–in rebate" versus an "Easy Rebate".
+Look for Easy Rebate products every time you shop. They're identified by the phrase "Easy Rebate" in the product description. When you're ready to submit your Easy Rebate, go to www.stapleseasyrebates.com and enter the required information right online. You won't have to clip out UPC codes or mail in receipts. You'll even receive emails keeping you posted on your rebate status, with links to the Track Status page online. Best of all, you'll receive your rebate faster than ever — within 4 to 6 weeks.
+
+Note: Certain products, including most software titles, are not eligible for online submission. Any products excluded from the online submission process will be advertised as qualifying for a "mail-in rebate" versus an "Easy Rebate."
 
 **Mail in Rebates**
 
-Mail–in rebates are easier, too! You can find and print rebate forms, and even track the status of your mail–in rebates at www.staples.com/rebatecenter.
+Mail-in rebates are easy to redeem too. You can find and print rebate forms, and even track the status of your mail-in rebates, at www.stapleseasyrebates.com.
 
-Because many rebate offers require original sales receipts and rebate forms, it is important to make copies of both and keep them with your records. Should a problem arise with your rebate redemption, having these copies will make it easy for us to resolve the issue. If you purchased a rebate item through our catalog or at Staples.com and a receipt is required as Proof of Purchase, you should use the packing slip that was included in your order as your receipt. If you have any questions about your rebate, please call 1-877-266-6483 Monday through Friday 7:00am to 12:00am ET, Saturday 8:00am to 12:00am ET, and Sunday 10:00am to 12:00am ET.
+Because many rebate offers require original sales receipts and rebate forms, it's important to make copies of both and keep them with your records. Should a problem arise with your rebate redemption, having these copies will make it easy for us to resolve the issue.
 
-Delivery Policy
+If you purchased a rebate item through our catalog or at staples.com and a receipt is required as Proof of Purchase, you should use the packing slip that was included in your order as your receipt.
 
-**Staples delivery policy**
+If you have questions about your rebate, please call 877-266-6483 Monday through Friday 7:00 am to 12:00 am ET, Saturday 8:00 am to 12:00 am ET, and Sunday 10:00 am to 12:00 am ET.
 
-*   An estimated delivery date will be provided after your order is placed.
-*   Software download orders will be fulfilled via a separate email confirmation to the customer. The software download email will include download links and instructions on how to complete download. Additional questions about software downloads?
-*   These dates vary due to carrier shipping practices, delivery location and the items you order. Products may be delivered in separate shipments.
-*   Delivery dates noted apply to orders placed by 5:00 p.m. local time (or 4:00 p.m. local time in stores and in limited locations across the country) and where credit approval and product availability are confirmed by 5:00 p.m. on the same business day\* that the order is placed. Items shipped direct from the vendor may require an earlier order placement time. You will be notified of the estimated delivery date in a confirmation e-mail. (Not available for in-store orders if email address is not submitted.)
-*   Staples' catalog, Web site and US retail businesses are operated within the continental US for customers within the US and therefore do not ship or bill to international addresses. Staples delivers to street addresses (not P.O. Boxes or APO/FPO) in the continental US only.
+Shipping &. Delivery Policy
 
-\*Certain Staples items originate directly from carefully selected vendors and manufacturers. In many instances, delivery personnel will deliver your order to your entrance. Other items are prestocked at warehouses around the country and delivered by a common carrier. For these items a loading dock is needed. If one is not available, delivery personnel will bring your order to the tailgate of the truck and you are responsible for unloading the items and bringing them into your building.
+**What is your delivery policy?**
 
-\*Business days are defined as Monday through Friday, except holidays.
+An estimated delivery date will be provided after your order is placed. These dates vary due to carrier shipping practices, delivery location and the items you order. Products may be delivered in separate shipments.
+
+Delivery dates noted apply to orders placed by 5:00 pm local time (or 4:00 pm local time in stores and in limited locations across the country) and where credit approval and product availability are confirmed by 5:00 pm on the same business day that the order is placed. (Note: Business days are defined as Monday through Friday, except holidays.) Items shipped direct from the vendor may require an earlier order placement time. You will be notified of the estimated delivery date in a confirmation email. (Not available for in-store orders unless email address is submitted.)
+
+Staples® catalog, Web site and U.S. retail businesses are operated within the contiguous United States for customers within the U.S. and therefore do not ship or bill to international addresses. (For more about shopping internationally, click here.) Staples delivers to street addresses (not P.O. Boxes or APO/FPO) in the contiguous United States only.
+
+Certain Staples items originate directly from carefully selected vendors and manufacturers. In many instances, delivery personnel will deliver your order to your entrance. Other items are prestocked at warehouses around the country and delivered by a common carrier. For these items, a loading dock is needed. If one is not available, delivery personnel will bring your order to the tailgate of the truck. you will be responsible for unloading the items and bringing them into your building.
 
 **How do I get free delivery**
 
-Free delivery is available for (1) all Rewards members (2) all orders placed on the in-store kiosk and (3) all online orders of $45 or more, excluding orders made at documents.staples.com, print.staples.com, staplespromotionalproducts.com, and third party websites linked to staples.com. Additional White Glove and Premier Delivery services are available for an additional charge. Staples reserves the right, in our sole discretion, to change our delivery policy and delivery fees.
+Free delivery is available for all Staples Rewards® members, all orders placed on the in-store kiosk, and all online orders of $45 or more — excluding orders made at documents.staples.com, print.staples.com, staplespromotionalproducts.com, and third-party Web sites linked to staples.com®. You can also have your order delivered to one of our retail stores for no charge.
 
-**When will furniture order arrive**
+**Does Staples deliver to “Mail Drop” locations?**
 
-Furniture orders from the online catalog are only available within local trading areas (within 20 driving miles of a store). However, furniture deliveries may be scheduled for specific weekdays in certain areas. When you place your order you will be informed of your delivery days or you can contact us for the furniture delivery days in your area.
-
-**Does staples deliver to mail drop locations**
-
-A "Mail Drop" location is an address where a business or service accepts mail deliveries on behalf of a customer. Staples will deliver to Mail Drop locations such as a UPS Store (formerly Mail Boxes Etc.). However, Staples is unable to deliver to Post Office Boxes or APO/FPO addresses, which are military overseas mail drops.
-
-**Do I sign for my order**
-
-For your package safety, it is best to have someone available to sign for your order during the hours of 9:00 a.m. — 5:00 p.m., Monday through Friday, except holidays (UPS may deliver to residential addresses up to 7:00 p.m.). If no one is available and you would like the driver to leave your shipment, please click here for the Driver Release Agreement. In certain instances, your order may not be suitable for driver release. The driver will leave a note with instructions on how to receive your order, or you will be contacted for a redelivery.
-
-**Delivery to a store near me**
-
-**Free shipping to your Staples® location. Here's how it works...**
-
-*   During checkout, choose to have your order delivered to a Staples store and then select your store location.
-*   Pay for your order online.
-*   Go to your selected Staples location's Customer Service area to pick up your order.
-*   You must bring a state-issued ID at the time of pickup.
-
-**Also Consider...**
-
-*   Orders are available for pickup during regular store hours.
-*   You'll be required to sign for your order when you pick it up.
-*   Participating stores cannot accept orders with oversized items such as furniture or safes.
-*   Once your order is delivered to a store, you are responsible for picking it up within 15 days.
-*   We're sorry, but individual stores will not deliver orders once they have arrived in store.
+A Mail Drop location is an address where a business or service accepts mail deliveries on behalf of a customer. Staples will deliver to Mail Drop locations such as a UPS® store (formerly Mail Boxes Etc.). However, Staples is unable to deliver to P.O. Boxes or APO/FPO addresses, which are military overseas mail drops.
 
 US Privacy Policy
 
-Policy Effective Date: October 18, 2011
+At Staples, your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how Staples protects your privacy. This Privacy Policy describes:
 
-At Staples your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how Staples protects your privacy. This Privacy Policy describes:
+*   Why we collect Personal Information
+*   What Personal Information we collect and when it is collected
+*   How your Personal Information is used and protected
+*   When and with whom your Personal Information is shared
+*   What to do if you feel your Personal Information has been compromised
 
-*   Why we collect personal information
-*   What personal information we collect and when it is collected
-*   How your information is used and protected
-*   When and with whom your information is shared
-*   What to do if you feel your personal information has been compromised
+This Privacy Policy applies to all of the services and Web sites offered by Staples, Inc., our subsidiaries and affiliated companies. Staples offers many different Web sites for many different business purposes. As this Privacy Policy applies to all of our Web sites, they are collectively referred to as “Web site” throughout this policy. The Web site is also governed by its Terms of Use. If any of the terms of this Privacy Policy directly conflict with the Terms of Use, the terms of this Privacy Policy will apply.
 
-This Privacy Policy applies to all of the services and websites offered by Staples, Inc., our subsidiaries, and affiliated companies. Staples offers many different websites for many different business purposes. As this Privacy Policy applies to all of our websites, they are collectively referred to as Website throughout this policy. The Website is also governed by its Terms of Use. If any of the terms of this Privacy Policy directly conflict with the Terms of Use, the terms of this Privacy Policy will apply.
-
-If you have any questions about this Privacy Policy, please feel free to contact us through our Website or write to us at:
+If you have any questions about this Privacy Policy, please feel free to contact us through our Web site or write to us at:
 
 privacy@staples.com
 
@@ -189,16 +168,18 @@ OR
 
 Privacy and Compliance  
 Staples  
-500 Staples Drive, Framingham, MA 01702, USA
+500 Staples Drive, Framingham, MA 01702
 
-**Information We Collect**
+Information We Collect
 
-This Privacy Policy applies to Personal Information, which is information that Staples collects from you as a customer that specifically identifies you as an individual. This information is collected to provide you with the products and services you have requested as well as to provide a pleasant shopping experience now and to improve the shopping experience in the future.
+This Privacy Policy applies to Personal Information, which is information that Staples collects from you as a customer that specifically identifies you as an individual. This information is collected to provide you with the products and services you have requested as well as to provide a pleasant shopping experience now and to improve your shopping experience in the future.
+
+This Privacy Policy applies to Personal Information, which is information that Staples collects from you as a customer that specifically identifies you as an individual. This information is collected to provide you with the products and services you have requested as well as to provide a pleasant shopping experience now and to improve your shopping experience in the future.
 
 While we limit the information we collect, we do collect Personal Information when you:
 
-*   Place an order from our catalogs or on our Website
-*   Create an account on our Website
+*   Place an order from our catalogs or on our Web site
+*   Create an account on our Web site
 *   Make a purchase at one of our retail stores
 *   Return an item, make an exchange or submit a rebate
 *   Inquire about our products or services or contact customer service
@@ -218,19 +199,19 @@ In order to provide our full range of services, we may collect Personal Informat
 *   Fax number
 *   Email address
 *   Transaction information
-*   Credit card, debit card, or checking account information
+*   Credit card, debit card or checking account information
 *   Driver's license number and expiration date (in conjunction with merchandise returns and credit checks)
-*   Age/Date of Birth (in conjunction with promotions, for credit card applications and credit checks)
+*   Age/date of birth (in conjunction with promotions, for credit card applications and credit checks)
 *   Social Security number (in conjunction with credit applications only)
 *   Employment history (in conjunction with credit applications only)
 
-In order to provide you with a better shopping experience and to improve the quality of our services, we may combine the information you submit under your account with other information that we may receive from you, from third parties, or with other public demographic information. We maintain this information, along with a record of your purchases, in a restricted database.
+In order to provide you with a better shopping experience and to improve the quality of our services, we may combine the information you submit under your account with other information that we may receive from you, or from third parties, or with other public demographic information. We maintain this information, along with a record of your purchases, in a restricted database.
 
 There are some services provided by Staples that require us to become temporary custodians of your equipment that may contain your Personal Information. These services typically involve a personal computer. Staples does not retain information from these devices once the requested services are complete.
 
-Also, our Website is not directed at collecting Personal Information from children and we do not actively collect Personal Information from children under the age of 13.
+Also, our Web site is not directed at collecting Personal Information from children and we do not actively collect Personal Information from children under the age of 13.
 
-**How We Use the Information We Collect**
+How We Use the Information We Collect
 
 At Staples, we always want to provide you with the easiest and best possible shopping experience from the time you begin looking for products and services through the delivery of your requested items. The information that we collect lets us meet this goal by allowing us to:
 
@@ -245,129 +226,128 @@ At Staples, we always want to provide you with the easiest and best possible sho
 *   Communicate great values and featured items to you
 *   Send you catalogs or promotional offers we believe will be of interest to you
 *   Send you Staples email updates
-*   Improve our merchandise selection, Website, retail experience and customer service
+*   Improve our merchandise selection, Web site, retail experience and customer service
 *   Provide information concerning product recalls or products you have purchased
 *   Prevent or mitigate fraud and credit risk
 *   Administer billing and payment for your purchases
 *   Administer promotions, contests, sweepstakes and rewards programs
 *   Administer branded credit cards
 *   Comply with applicable law, legal procedures, requirements, regulations and statutes
-*   Staples does offer some of our services in connection with affiliated companies as well as other third parties. Third party websites may have different privacy practices than described in this
-*   Privacy Policy. We strongly encourage you to read the privacy policies associated with third party websites as this Privacy Policy applies only to the Staples Website, Staples' services, and Staples' handling of Personal Information.
 
-Personal Information that you provide to third party websites may be sent to Staples in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy.
+Staples does offer some of our services in connection with affiliated companies as well as other third parties. Third-party Web sites may have different privacy practices than described in this Privacy Policy. We strongly encourage you to read the privacy policies associated with third-party Web sites as this Privacy Policy applies only to the Staples Web site, Staples' services and Staples' handling of Personal Information.
 
-**Choices for Personal Information**
+Personal Information that you provide to third-party Web sites may be sent to Staples in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these Web sites in accordance with this Privacy Policy.
 
-To further improve your shopping experience, Staples partners with third party vendors to evaluate how the Website is used and to provide continuous improvement for our services. Like most websites, we use "cookies" for a variety of purposes to improve your visits to the Website. Cookies are pieces of information that a website transfers to the hard drive on your computer for record–keeping purposes. For example, we use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, and to generally make the Website more user–friendly.
+Choices for Personal Information
 
-Most browsers are initially set up to accept cookies. You may decide to reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, if you do decide to refuse all cookies please be aware that some Website features and Staples services may be unavailable or may not function properly.
+To further improve your shopping experience, Staples partners with third-party vendors to evaluate how the Web site is used and to provide continuous improvement for our services. Like most Web sites, we use "cookies" for a variety of purposes to improve your visits to the Web site. Cookies are pieces of information that a Web site transfers to the hard drive on your computer for record-keeping purposes. For example, we use cookies to understand which Web pages are visited and how often they are visited, to remember you when you return to the Web site, and to generally make the Web site more user friendly.
 
-To opt out of Staples advertising–related cookies, follow the links for our partners below:
+Most browsers are initially set up to accept cookies. You may decide to reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, if you do decide to refuse all cookies, please be aware that some Web site features and Staples services may be unavailable or may not function properly.
+
+To opt out of Staples advertising-related cookies, follow the links for our partners below:
 
 Omniture:
 
-*   General cookie tracking Opt–out: http://www.omniture.com/en/privacy/product#optout
-*   Customized content display Opt–out: Targeting Opt-out
+*   General cookie tracking opt-out: http://www.omniture.com/en/privacy/product#optout
+*   Customized content display opt-out: Targeting Opt-out
 *   More information: http://www.omniture.com/en/privacy/product
 
-Doubleclick: http://www.doubleclick.com/com/us/about\_doubleclick/privacy/
+Doubleclick:
 
-**Choices for Receiving Promotional Material**
+*   http://www.doubleclick.com/com/us/about\_doubleclick/privacy/
 
-You may also decide to opt–out of receiving promotional mail and/or email from Staples. Simply notify us of this decision by one of these methods:
+Choices for Receiving Promotional Material
+
+You may also decide to opt out of receiving promotional mail and/or email from Staples. Simply notify us of this decision by one of these methods:
 
 *   Follow the unsubscribe link on any promotional email received from Staples
 *   Send an email to us at support@orders.staples.com
-*   Call us toll–free at 1-800-333-3330
-*   Fax us toll–free at 1-877-490-2660
+*   Call us toll free at 800-333-3330
+*   Fax us toll free at 877-490-2660
 *   Write to us at
 
 Staples Direct Marketing Services  
 500 Staples Drive  
-Framingham, MA 01702.
+Framingham, MA 01702
 
-Please note that any opt–out request sent via postal mail may take at least sixty (60) days to become effective. You may still receive email or postal mail from other affiliated companies and third parties if they have received your email or postal address from sources other than Staples or as a result of their own transactions or experiences with you. You will also continue to receive email or postal mail if you request to hear from us again at a later date.
+Please note that any opt-out request sent via postal mail may take at least sixty (60) days to become effective. You may still receive email or postal mail from other affiliated companies and third parties if they have received your email or postal address from sources other than Staples or as a result of their own transactions or experiences with you. You will also continue to receive email or postal mail if you request to hear from us again at a later date.
 
-**Information Sharing**
+Information Sharing
 
-In the normal course of business Staples shares Personal Information with third parties. We do this in the following, limited circumstances:
+In the normal course of business, Staples shares Personal Information with third parties. We do this in the following limited circumstances:
 
 *   Personal Information is provided to our subsidiaries, affiliated companies or other third parties for the purpose of processing the information on our behalf. We require that these parties agree to process this information based on our instructions and requirements consistent with this Privacy Policy.
-*   We may disclose Personal Information as reasonably necessary to: (a) satisfy applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Staples, its customers or the public as required or permitted by law.
+*   We may disclose Personal Information as reasonably necessary to: (a) satisfy applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, © detect, prevent or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Staples, its customers or the public as required or permitted by law.
 *   We may disclose a customer's name, phone number, postal address and/or ordering information to carefully selected third parties for marketing purposes so that they may notify individuals of offers or services that may be of interest. We do not provide credit card or other financial information for marketing purposes.
-*   We may share with third parties certain pieces of aggregated, non–Personal Information, such as how many customers viewed a particular product or web page. Such information would not identify you individually.
+*   We may share with third parties certain pieces of aggregated, non-Personal Information, such as how many customers viewed a particular product or Web page. Such information would not identify you individually.
 
-We may disclose and/or transfer Personal Information to a third party in connection with a merger, acquisition, or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving Staples or its affiliated companies or as part of a corporate reorganization, stock or asset sale, or other change in corporate control.
+We may disclose and/or transfer Personal Information to a third party in connection with a merger, acquisition or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving Staples or its affiliated companies or as part of a corporate reorganization, stock or asset sale, or other change in corporate control.
 
-**Information Security**
+Information Security
 
-Staples processes Personal Information for the purposes for which it was collected. The information is processed in accordance with this Privacy Policy, any additional privacy notices that may be associated with the service we are supplying, applicable law, or your authorization or consent.
+Staples processes Personal Information only for the purposes for which it was collected. The information is processed in accordance with this Privacy Policy, any additional privacy notices that may be associated with the service we are supplying, applicable law, or your authorization or consent.
 
 Staples maintains reasonable and appropriate standards to safeguard your Personal Information.
 
-When you enter Personal Information that contains a Social Security Number, driver's license number, or credit or debit card number at the designated and secured sections of our Website, the information will be encrypted or encoded before it is sent over the Internet. Personal Information that we collect and maintain is subject to physical, administrative and technical controls that are consistent with recognized industry standards.
+When you enter Personal Information that contains a Social Security number, driver's license number, or credit or debit card number in the designated and secured sections of our Web site, the information will be encrypted or encoded before it is sent over the Internet. Personal Information that we collect and maintain is subject to physical, administrative and technical controls that are consistent with recognized industry standards.
 
 Staples processes Personal Information on our servers in the United States of America and in other countries. In some cases, we may process your Personal Information on a server outside your own country in accordance with this Privacy Policy and applicable law.
 
-**Data Integrity**
+Data Integrity
 
 Staples takes reasonable steps to verify that the Personal Information we store and process is accurate, complete and current. We also depend on our customers to update or correct their online profiles and to contact us with changes in Personal Information whenever necessary by one of the following means:
 
-*   Follow the unsubscribe link on any promotional email received from Staples
+*   Follow the unsubscribe link or Update Your Email Preferences link on any promotional email received from Staples
 *   Send an email to us at support@orders.staples.com
-*   Call us toll–free at 1-800-333-3330
-*   Fax us toll–free at 1-877-490-2660
+*   Call us toll-free at 800-333-3330
+*   Fax us toll-free at 877-490-2660
 *   Write to us at
 
 Staples Direct Marketing Services  
 500 Staples Drive  
-Framingham, MA 01702.
+Framingham, MA 01702
 
-Unless otherwise required by law or for legitimate business purposes, we will make good faith efforts to correct or delete such data at your request when you notify us of an error or change in your Personal Information. To prevent unauthorized changes to someone's Personal Information, we ask individual customers to positively identify themselves before processing such requests.
+Unless otherwise required by law or for legitimate business purposes, we will make good-faith efforts to correct or delete such data at your request when you notify us of an error or change in your Personal Information. To prevent unauthorized changes to someone's Personal Information, we ask individual customers to positively identify themselves before processing such requests.
 
 We reserve the right to charge a small fee to process any request to update, correct or delete Personal Information. We also may decline to process requests that require a disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
 
-**Policy Enforcement**
+Policy Enforcement
 
-Staples regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Staples' treatment of Personal Information to us through the Website or by writing to us at the email or postal mail address contained at the beginning of this document.
+Staples regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Staples' treatment of Personal Information to us through the Web site or by writing to us at the email or postal mail address at the beginning of this document.
 
-If we receive a written complaint, it is Staples' policy to contact the complaining customer regarding his or her concerns. We will investigate complaints promptly and diligently to address your concerns and resolve any dispute quickly.
+If we receive a written complaint, it is Staples' policy to contact the customer regarding his or her concerns. We will investigate complaints promptly and diligently to address your concerns and resolve any dispute quickly.
 
-**What to do if you believe someone has improperly used your personal data.**
+What to Do if You Believe Someone Has Improperly Used Your Personal Data
 
 If you believe that someone has improperly accessed or used your personally identifiable information supplied to Staples or has made purchases at Staples that you did not authorize, please contact us immediately.
 
 Here are some additional things that you can do to protect yourself from identity theft if you think that your Personal Information has been compromised:
 
-*   Review Your Account Statements – Carefully review your bank, credit card, and other account statements every month to ensure that all of your account activity is valid. Report any questionable charges promptly and in writing to the card or account issuer.
-*   Check Your Credit Report – Check your credit report periodically to ensure that all your information is correct. You can obtain a free credit report once per year by visiting www.annualcreditreport.com or by calling 877-322-8228. Carefully reviewing your credit report can help you spot problems and address them quickly. If you have any questions about your credit report or notice any inaccuracies, contact the relevant consumer reporting agency promptly at the telephone number listed on the report.
+*   **Review Your Account Statements.** Carefully review your bank, credit card and other account statements every month to ensure that all of your account activity is valid. Report any questionable charges promptly and in writing to the card or account issuer.
+*   **Check Your Credit Report.** Check your credit report periodically to ensure that all your information is correct. You can obtain a free credit report once per year by visiting www.annualcreditreport.com or by calling 877-322-8228. Carefully reviewing your credit report can help you spot problems and address them quickly. If you have any questions about your credit report or notice any inaccuracies, contact the relevant consumer reporting agency promptly at the telephone number listed on the report.
+*   **Fraud Alert.** Consider placing a fraud alert on your credit file. The fraud alert requests that creditors contact you before opening any new accounts or increasing credit limits on your existing accounts. You can place a fraud alert on your credit file by contacting one of the three consumer reporting agencies listed below. You need to contact only one of the three agencies. the one you contact is required by law to contact the other two. You will receive confirmation letters in the mail and then will be able to order a credit report from each of the three agencies, free of charge. The fraud alert will remain in your credit file for at least 90 days. Equifax Experian TransUnion P.O. Box 740241  
+    Atlanta, GA 30374  
+    800-525-6285 P.O. Box 9532  
+    Allen, TX 75013  
+    888-397-3742 P.O. Box 6790  
+    Fullerton, CA 92834  
+    800-680-7289 www.equifax.com www.experian.com www.transunion.com
 
-Fraud Alert – Consider placing a fraud alert on your credit file. The fraud alert requests that creditors contact you before opening any new accounts or increasing credit limits on your existing accounts. You can place a fraud alert on your credit file by contacting one of three consumer reporting agencies listed below. You need to contact only one of the three agencies. the one you contact is required by law to contact the other two. You will receive confirmation letters in the mail and then will be able to order a credit report from each of the three agencies, free of charge. The fraud alert will remain in your credit file for at least 90 days.
+*   Consult the Federal Trade Commission. For more guidance on steps you can take to protect your information, you also can contact the Federal Trade Commission at www.ftc.gov/idtheft, or at 877-ID-THEFT (877-438-4338), or at the Identity Theft Clearinghouse, Federal Trade Commission, 600 Pennsylvania Avenue NW, Washington, DC 20580.
 
-Equifax Experian TransUnion P.O. Box 740241  
-Atlanta, GA 30374  
-800-525-6285 P.O. Box 9532  
-Allen, TX 75013  
-888-397-3742 P.O. Box 6790  
-Fullerton, CA 92834  
-800-680-7289 www.equifax.com www.experian.com www.transunion.com
+International Considerations and Safe Harbor
 
-*   Consult the Federal Trade Commission. For more guidance on steps you can take to protect your information, you also can contact the Federal Trade Commission at www.ftc.gov/idtheft, or at 877–ID–THEFT (877-438-4338), or at the Identity Theft Clearinghouse, Federal Trade Commission, 600 Pennsylvania Avenue NW, Washington, D.C. 20580.
+Staples complies with the U.S.–EU Safe Harbor Framework and the U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from European Union member countries and Switzerland. Staples has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Staples's certification, please visit http://www.export.gov/safeharbor/.
 
-**International Considerations and Safe Harbor**
+For California Residents Privacy Rights under California Civil Code Sections 1798.83-1798.84
 
-Staples complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Staples has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Staples's certification, please visit http://www.export.gov/safeharbor/
+California Civil Code sections 1798.83-1798.84 give California residents the right to ask us for a notice describing the categories of Personal Information we share with affiliated companies or third parties for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses. Please allow 30 days for a response. If you are a California resident and would like a copy of this notice, please submit a written request to the email or postal mail address at the beginning of this document.
 
-**For California Residents) Privacy Rights under California Civil Code Sections 1798.83-1798.84**
-
-California Civil Code sections 1798.83-1798.84 give California residents the right to ask us for a notice describing the categories of Personal Information we share with affiliated companies or third parties for their direct marketing purposes. The notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it has been shared, along with their names and addresses. Please allow 30 days for a response. If you are a California resident and would like a copy of this notice, please submit a written request to the email or postal mail address contained at the beginning of this document.
-
-**Changes to this Privacy Policy**
+Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Privacy Policy will be identified by its effective date found at the top of this document.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at the email or postal mail address contained at the beginning of this document.
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us anytime through this Web site or at the email or postal mail address at the beginning of this document.
 
 Terms &. Conditions
 
@@ -375,47 +355,49 @@ PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY. THESE TERMS AND CONDITI
 
 Staples.com ("Site") is owned by Staples, Inc. ("Staples") and is currently provided free of charge to users who agree to abide by these T&C. Staples reserves the right to change the nature of this relationship at any time, and to revise these T&C from time to time as Staples sees fit. Users who violate these T&C will have their access canceled and they may permanently be banned from using the Site. Users should check these T&C periodically. By using the Site after we post changes to these T&C, you agree to accept those changes, whether or not you actually reviewed them.
 
-**USERS/PARTICIPANTS**
+USERS/PARTICIPANTS
 
 We do not discriminate on the basis of age, race, national origin, gender, sexual orientation or religion.
 
-No person under the age of 13 should use the Site without the consent of their parent or legal guardian. We strongly encourage all parents and guardians to monitor the Internet use by their children. Use of the Site by any user shall be deemed to be a representation that the user is 13 years of age or older.
+No person under the age of 13 should use the Site without the consent of their parent or legal guardian. We strongly encourage all parents and guardians to monitor the Internet use of their children. Use of the Site by any user shall be deemed to be a representation that the user is 13 years of age or older.
 
-**COOKIES**
+COOKIES
 
-"Cookies" are small encrypted data files (containing references to user ID information supplied by the user and stored on our secure server) that may write to your hard drive once you have accessed a website. Staples uses cookies to enhance your shopping experience with us. Cookies are used to keep track of your shopping cart and to save your password so you do not have to reenter it each time you visit the Site. To learn more about how we protect customer information, please review our Privacy Statement.
+"Cookies" are small encrypted data files (containing references to user ID information supplied by the user and stored on our secure server) that may write to your hard drive once you have accessed a Web site. Staples uses cookies to enhance your shopping experience with us. Cookies are used to keep track of your shopping cart and to save your password so you do not have to re-enter it each time you visit the Site. To learn more about how we protect customer information, please review our Privacy Statement.
 
-**COPYRIGHTS, TRADEMARKS &. RESTRICTIONS**
+COPYRIGHTS, TRADEMARKS &. RESTRICTIONS
 
-The material included herein, including site design, text, graphics, and the selection and arrangement thereof are copyrighted © by Staples, Inc. ALL RIGHTS RESERVED. Staples.com®, Staples®, that was easy®, other trademarks and all page headers, custom graphics, and custom icons are service marks and trademarks of Staples the Office Superstore, LLC. All other trademarks, product names, and company names or logos cited herein are the property of their respective owners.
+The material included herein, including site design, text, graphics and the selection and arrangement thereof are copyrighted © by Staples, Inc. ALL RIGHTS RESERVED. Staples.com®, Staples®, that was easy®, other trademarks and all page headers, custom graphics and custom icons are service marks and trademarks of Staples the Office Superstore, LLC. All other trademarks, product names and company names or logos cited herein are the property of their respective owners.
 
-The Site and all materials on the Site, including, but not limited to, images, illustrations, posts, audio clips and video clips (the "Materials") are the property of Staples and its affiliates and licensors and are protected from unauthorized copying and dissemination by copyrights that are owned or licensed by Staples and by copyright law, trademark law, international conventions and other intellectual property laws. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit, or distribute in any way whatsoever any Materials from the Site (or any other website owned or operated by Staples or its subsidiaries or affiliates) without Staples' prior written permission. However, you may print in hard copy portions of the Site with the sole intent of placing an order with Staples or applying for credit. Printing Materials for any other reason, or transferring Materials for use on any other website, or the modification, distribution, or republication of Materials without Staples' prior written permission is strictly prohibited. Any modification of Materials, or any portion thereof, or use of Materials for any other purpose constitutes an infringement of trademark or other proprietary rights of Staples or third parties.
+The Site and all materials on the Site, including, but not limited to, images, illustrations, posts, audio clips and video clips (the "Materials") are the property of Staples and its affiliates and licensors and are protected from unauthorized copying and dissemination by copyrights that are owned or licensed by Staples and by copyright law, trademark law, international conventions and other intellectual property laws. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit or distribute in any way whatsoever any Materials from the Site (or any other Web site owned or operated by Staples or its subsidiaries or affiliates) without Staples' prior written permission. However, you may print in hard copy portions of the Site with the sole intent of placing an order with Staples or applying for credit. Printing Materials for any other reason, or transferring Materials for use on any other Web site, or the modification, distribution or republication of Materials without Staples' prior written permission is strictly prohibited. Any modification of Materials, or any portion thereof, or use of Materials for any other purpose constitutes an infringement of trademark or other proprietary rights of Staples or third parties.
 
-**LINKS**
+LINKS
 
-Staples is not responsible for the content of any unaffiliated websites that may be linked to or from the Site. These links are provided for your convenience only and you access them at your own risk. Any other website accessed from the Site is independent from Staples, and Staples has no control over the content of that other website. In addition, a link to any other website does not imply that Staples endorses or accepts any responsibility for the content or use of such other website. In no event shall any reference to any third party or third party product or service be construed as an approval or endorsement by Staples of that third party or of any product or service provided by a third party.
+Staples is not responsible for the content of any unaffiliated Web sites that may be linked to or from the Site. These links are provided for your convenience only and you access them at your own risk. Any other Web site accessed from the Site is independent from Staples, and Staples has no control over the content of that other Web site. In addition, a link to any other Web site does not imply that Staples endorses or accepts any responsibility for the content or use of such other Web site. In no event shall any reference to any third party or third-party product or service be construed as an approval or endorsement by Staples of that third party or of any product or service provided by a third party.
 
-**PRIVACY ISSUES**
+PRIVACY ISSUES
 
 Staples is concerned about privacy matters for its customers. To learn more about how we protect customer information, please review our Privacy Statement.
 
-**PRODUCT AND SERVICES INFORMATION**
+PRODUCT AND SERVICES INFORMATION
 
-Most products (and some services) offered on the Site are available in select Staples stores throughout the United States, however, prices and availability may vary. Prices shown on the Site apply to products and services on the Site. Price and availability are subject to change without notice.
+Most products (and some services) offered on the Site are available in select Staples stores throughout the United States. however, prices and availability may vary. Prices shown on the Site apply to products and services on the Site. Price and availability are subject to change without notice.
 
-We attempt to display all products shown on the Site in an accurate manner, however, because of the technical differences in the equipment of our customers, we cannot be responsible for photographic differences in size, shape and color of the products.
+We attempt to display all products shown on the Site in an accurate manner. however, because of the technical differences in the equipment of our customers, we cannot be responsible for photographic differences in size, shape and color of the products.
 
 The receipt of an email order confirmation is simply a recognition that we have received your requested order, and does not constitute an offer to sell. We reserve the right to limit the quantity of any item sold, or prohibit a sale altogether, including but not limited to prohibiting sales to resellers.
 
-**NOTICE AND TAKE DOWN PROCEDURES**
+NOTICE AND TAKE-DOWN PROCEDURES
 
-If you believe any Materials on the Site infringe your copyright or trademark rights, you may request such Materials be removed by following the notice and take down procedures of the Digital Millennium Copyright Act. To follow those procedures, contact Staples' copyright agent (identified below) and provide the following information: A clear statement identifying the works, or other materials believed to be infringed.
+If you believe any Materials on the Site infringe your copyright or trademark rights, you may request such Materials be removed by following the notice and take-down procedures of the Digital Millennium Copyright Act. To follow those procedures, contact Staples' copyright agent (identified below) and provide the following information:
+
+A clear statement identifying the works or other Materials believed to be infringed.
 
 A statement from the copyright holder or authorized representative that the Materials are believed to be infringing.
 
 Sufficient information about the location of the allegedly infringing Materials so that Staples can find and verify its existence.
 
-Your name, telephone number and e-mail address.
+Your name, telephone number and email address.
 
 A statement from you under penalty of perjury that the information supplied is accurate, and that you are authorized to act on the copyright owner's behalf.
 
@@ -423,55 +405,66 @@ A signature or the electronic equivalent from the copyright holder or authorized
 
 Staples' agent for notice of copyright issues on the Site can be reached as follows:
 
-Staples, Inc.
-
-500 Staples Drive
-
-Framingham, MA 01702
-
-Attn: Legal Department
-
-with a copy to: General Counsel
-
+Staples, Inc.  
+500 Staples Drive  
+Framingham, MA 01702  
+Attn: Legal Department  
+with a copy to: General Counsel  
 (ref: Copyright Infringement)
 
 FOR STAPLES® COPY &. PRINT CENTER ORDERS
 
-By processing and submitting your Staples® Copy &. Print Center order on the Site:
+By processing and submitting your Staples Copy &. Print Center order on the Site:
 
 You represent and warrant to Staples, its officers, directors, employees, agents, successors, subsidiaries, agents, distributors, affiliates and third parties providing information or services on the Site (collectively, the "Staples Parties"), that you own and possess all rights or own sufficient rights of third parties necessary to copy, produce, print or imprint each and every document or other item and portion thereof you submit.
 
-You agree and covenant that at Staples' request, and without further consideration, you will promptly provide Staples with reasonable evidence of such adequate and enforceable rights of third parties (i.e. consents, approvals, licenses or sublicenses), and agree that Staples may provide a copy of these T&C to anyone claiming an infringement of copyright/trademark in your document or to law enforcement or other entities as required by law or as Staples reasonably determines to be necessary to protect its rights or the rights of others.
+You agree and covenant that at Staples' request, and without further consideration, you will promptly provide Staples with reasonable evidence of such adequate and enforceable rights of third parties (i.e., consents, approvals, licenses or sublicenses), and agree that Staples may provide a copy of these T&C to anyone claiming an infringement of copyright/trademark in your document or to law enforcement or other entities as required by law or as Staples reasonably determines to be necessary to protect its rights or the rights of others.
 
 CONDUCT OF USERS
 
-You agree that you will not: (i) transmit via or through the Site any information, data, text, files, links, software, chat, communication or other materials that is or which Staples considers to be unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, racially or ethnically hateful or otherwise objectionable. (ii) attempt to transmit any "virus", "trojan horse" or other software destruction or disruption device. (iii) intentionally or unintentionally violate any applicable local, state, national or international law, including but not limited to, any regulations having the force of law while using or accessing the Site or in connection with your use of the Site, in any manner. and (iv) invade the privacy or violate any personal or proprietary right (including intellectual property rights) of any person or entity.
+You agree that you will not: (i) transmit via or through the Site any information, data, text, files, links, software, chat, communication or other materials that is or that Staples considers to be unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, racially or ethnically hateful or otherwise objectionable. (ii) attempt to transmit any "virus," "trojan horse" or other software destruction or disruption device. (iii) intentionally or unintentionally violate any applicable local, state, national or international law, including but not limited to, any regulations having the force of law while you are using or accessing the Site or in connection with your use of the Site, in any manner. and (iv) invade the privacy or violate any personal or proprietary right (including intellectual property rights) of any person or entity.
 
-**INDEMNITY**
+INDEMNITY
 
-By using the Site, you agree to indemnify the Staples Parties for any and all claims, damages, losses, liabilities and causes of action (including expenses and attorneys' fees) incurred by them arising out of or relating to your breach or alleged breach of these T&C (including without limitation, claims made by third parties for infringement of intellectual property rights). You agree to cooperate as fully as reasonably required in the defense of any claim. Staples reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you.
+By using the Site, you agree to indemnify the Staples Parties for any and all claims, damages, losses, liabilities and causes of action (including expenses and attorneys' fees) incurred by them arising out of or relating to your breach or alleged breach of these T&C (including, without limitation, claims made by third parties for infringement of intellectual property rights). You agree to cooperate as fully as reasonably required in the defense of any claim. Staples reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you.
 
-**DISCLAIMER, LIMITATION OF LIABILITY**
+DISCLAIMER, LIMITATION OF LIABILITY
 
-THE SITE IS PROVIDED BY STAPLES ON AN "AS IS" AND "AS AVAILABLE" BASIS. STAPLES MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO (1) THE OPERATION OF THE SITE, (2) THE QUALITY, ACCURACY, COMPLETENESS OR VALIDITY OF ANY MATERIALS ON THE SITE, OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON THE SITE, OR (3) WHETHER THE FUNCTIONS CONTAINED ON THE SITE WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT DEFECTS WILL BE CORRECTED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. STAPLES IS NOT RESPONSIBLE FOR PRINTING OR TYPOGRAPHICAL ERRORS. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SITE IS AT YOUR SOLE RISK.
+THE SITE IS PROVIDED BY STAPLES ON AN "AS IS" AND "AS AVAILABLE" BASIS. STAPLES MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO (1) THE OPERATION OF THE SITE, (2) THE QUALITY, ACCURACY, COMPLETENESS OR VALIDITY OF ANY MATERIALS ON THE SITE, OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON THE SITE, OR (3) WHETHER THE FUNCTIONS CONTAINED ON THE SITE WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT DEFECTS WILL BE CORRECTED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. STAPLES IS NOT RESPONSIBLE FOR PRINTING OR TYPOGRAPHICAL ERRORS. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SITE IS AT YOUR SOLE RISK.
 
-THIS SITE MAY ALSO CONTAIN FACTS, VIEWS, OPINIONS, STATEMENTS, AND RECOMMENDATIONS OF THIRD PARTY INDIVIDUALS AND ORGANIZATIONS. NONE OF THE STAPLES PARTIES REPRESENTS OR ENDORSES THE ACCURACY, TIMELINESS, OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT, OR OTHER INFORMATION DISPLAYED, UPLOADED, OR DISTRIBUTED THROUGH THE SITE. YOU ACKNOWLEDGE THAT ANY RELIANCE ON ANY SUCH OPINION, ADVICE, STATEMENT, OR INFORMATION WILL BE AT YOUR SOLE RISK.
+THIS SITE MAY ALSO CONTAIN FACTS, VIEWS, OPINIONS, STATEMENTS AND RECOMMENDATIONS OF THIRD-PARTY INDIVIDUALS AND ORGANIZATIONS. NONE OF THE STAPLES PARTIES REPRESENTS OR ENDORSES THE ACCURACY, TIMELINESS OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT OR OTHER INFORMATION DISPLAYED, UPLOADED OR DISTRIBUTED THROUGH THE SITE. YOU ACKNOWLEDGE THAT ANY RELIANCE ON ANY SUCH OPINION, ADVICE, STATEMENT OR INFORMATION WILL BE AT YOUR SOLE RISK.
 
-NONE OF THE STAPLES PARTIES IS RESPONSIBLE OR LIABLE FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR OTHER INDIRECT DAMAGES THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, THE SITE OR THE INFORMATION CONTAINED ON THE SITE, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL THE TOTAL LIABILITY OF THE STAPLES PARTIES TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION RESULTING FROM YOUR USE OF THE SITE, WHETHER IN CONTRACT, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE) OR OTHERWISE, EXCEED ONE DOLLAR (US$1.00).
+NONE OF THE STAPLES PARTIES IS RESPONSIBLE OR LIABLE FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR OTHER INDIRECT DAMAGES THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, THE SITE OR THE INFORMATION CONTAINED ON THE SITE, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL THE TOTAL LIABILITY OF THE STAPLES PARTIES TO YOU FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION RESULTING FROM YOUR USE OF THE SITE, WHETHER IN CONTRACT, TORT (INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE) OR OTHERWISE, EXCEED ONE DOLLAR (US$1.00).
 
-CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
 
-**TERMINATION**
+TERMINATION
 
-Staples may, in its sole discretion, terminate or suspend your access to all or part of the Site, for any reason, including without limitation, breach of these T&C. In the event these T&C are terminated, the restrictions regarding Materials appearing on the Site, and the representations and warranties, indemnities, and limitations of liabilities set forth in these T&C will survive termination. In the event that you are unsatisfied with the services provided by Staples, your sole remedy is to terminate your use of the Site.
+Staples may, in its sole discretion, terminate or suspend your access to all or part of the Site, for any reason, including, without limitation, breach of these T&C. In the event these T&C are terminated, the restrictions regarding Materials appearing on the Site, and the representations and warranties, indemnities and limitations of liabilities set forth in these T&C will survive termination. In the event that you are unsatisfied with the services provided by Staples, your sole remedy is to terminate your use of the Site.
 
-**JURISDICTION**
+JURISDICTION
 
-Staples operates the Site from its offices within the United States. Staples makes no representations that content and materials on the Site are legal or appropriate for use from outside the United States. If you choose to access the Site from other locations, you do so at your own risk and are responsible for compliance with any and all local laws. You may not use the Site in violation of U.S. export laws and regulations. These T&C will be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, as it is applied to agreements entered into and performed therein, and excluding (i) the United Nations Convention on Contracts for the International Sale of Goods. (ii) the 1974 Convention on the Limitation Period in the International Sale of Goods. and (iii) the Protocol amending the 1974 Convention, done at Vienna April 11, 1980. Any action brought to enforce these T&C or matters related to the Site will be brought in either the State or Federal Courts of the Commonwealth of Massachusetts. provided, however, that notwithstanding anything contained in these T&C to the contrary, Staples shall have the right to institute judicial proceedings against you or anyone acting by, through or under you, in order to enforce Staples' rights hereunder through reformation of contract, specific performance, injunction or similar equitable relief. Any claim or cause of action you have with respect to use of the Site must be commenced within one (1) year after the claim arises. If any provision of these T&C is deemed void, unlawful, or otherwise unenforceable for any reason, that provision will be severed from these T&C and the remaining provisions of these T&C will remain in force. These T&C constitute the entire agreement between you and Staples concerning your use of the Site.
+Staples operates the Site from its offices within the United States. Staples makes no representations that content and materials on the Site are legal or appropriate for use from outside the United States. If you choose to access the Site from other locations, you do so at your own risk and are responsible for compliance with any and all local laws. You may not use the Site in violation of U.S. export laws and regulations. These T&C will be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, as it is applied to agreements entered into and performed therein, and excluding (i) the United Nations Convention on Contracts for the International Sale of Goods. (ii) the 1974 Convention on the Limitation Period in the International Sale of Goods. and (iii) the Protocol amending the 1974 Convention, done at Vienna April 11, 1980. Any action brought to enforce these T&C or matters related to the Site will be brought in either the State or Federal Courts of the Commonwealth of Massachusetts. provided, however, that notwithstanding anything contained in these T&C to the contrary, Staples shall have the right to institute judicial proceedings against you or anyone acting by, through or under you, in order to enforce Staples' rights hereunder through reformation of contract, specific performance, injunction or similar equitable relief. Any claim or cause of action you have with respect to use of the Site must be commenced within one (1) year after the claim arises. If any provision of these T&C is deemed void, unlawful or otherwise unenforceable for any reason, that provision will be severed from these T&C and the remaining provisions of these T&C will remain in force. These T&C constitute the entire agreement between you and Staples concerning your use of the Site.
 
-**COMMENTS, COMPLAINTS AND QUESTIONS**
+COMMENTS, COMPLAINTS AND QUESTIONS
 
 We welcome your feedback about the Site. However, any comments, ideas, notes, messages, suggestions or other communications sent to the Site shall be and remain the exclusive property of Staples, and we may use all such communications in any manner, including reproducing, disclosing and publishing such communications, all without compensation to you. Should you have any questions or complaints regarding violations of these T&C, please contact us.
+
+Staples Mobile Terms and Conditions
+
+**To Stop the Programs:** To stop messages coming to your phone, you can opt out of the program via SMS. To stop our text deals alerts, just send a text that says **"STOP"** to the short code **555444**. You'll receive a one-time cancel confirmation text message. And after that, you won’t receive any future messages.
+
+The Staples Mobile Program is compatible with Alltel, AT&T, Boost, Cellular South, Midwest Wireless, MetroPCS, nTelos, Sprint, Suncom, T-Mobile, Verizon Wireless and Virgin Mobile. To participate, the recipient's phone needs to be text messaging–enabled. We try to make it so everyone can participate, but depending on your carrier, plan and phone, we can't guarantee it will work for you.
+
+Cost to Participate: Although the Staples' Mobile Programs are complimentary and require no purchase or fee for participation, message and data rates may apply. Check your mobile plan for more details. Subscribers will receive up to the specified number of alerts per program each month.
+
+**Staples One Time Deals Query:** You will receive **1 message per request.**
+
+**Staples Subscription Deals Alerts:** You will receive **6 messages per month.**
+
+**Questions:** You can contact us at 800-378-2753, or at any time, from your mobile phone, send a text message with the word "HELP" to **555444**. We can answer any questions you have about the program.
+
+**Terms and Conditions:** By participating in Staples' Mobile Program, you are agreeing to the terms and conditions presented here.
 
 US Delivery Survey Rules
 
