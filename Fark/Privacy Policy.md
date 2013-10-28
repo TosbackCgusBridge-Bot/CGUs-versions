@@ -42,6 +42,34 @@
 > 
 > Fark utilizes the same procedure(s) for any claimed trademark violations or other infringements. If we receive a DMCA notice and remove something you submitted anonymously, we will have no way of notifying you, you will have to contact us if you think that may have occurred. Keep in mind that Fark reserves the right to remove any content, at any time, whether or not it infringes or violates any of our policies.
 > 
+>   
+> 
+> Fark logos and trademarks
+> 
+> Fark welcomes the use of the Fark logo and trademark to promote, reference, or link back to Fark.com or associated accounts. Below are some logos that can be used for this purpose:
+> 
+>   
+> Smallest light: http://img.fark.net/images/cache/850/C/Cm/fark\_CmCP880GsYAfJ2Ox7hRKUTVLHr4.jpg?t=sDG8jJ8Ya4SQp7nQ7eJyPQ&f=1383537600
+> 
+> Small light: http://img.fark.net/images/cache/850/x/xl/fark\_xl6bQ90RTIQRvu0ZwdBqnd0ZWzY.jpg?t=UZsCXQ4aXxUOA1RdrDZMzg&f=1383537600
+> 
+> Medium light: http://img.fark.net/images/cache/850/9/9H/fark\_9HX0TpOAAcxjGyN9SI86pYpaDTU.jpg?t=tptS4Ctjh\_xJpfIpIDfGhA&f=1383537600
+> 
+> Large light: http://img.fark.net/images/cache/850/g/gP/fark\_gPb7vC9z1IqxQkd0dnXisP4V7Uo.png?t=\_0G0NgGpdZhRHMuzKzzSxw&f=1383537600
+> 
+> Medium transparent: http://img.fark.net/images/cache/850/0/0N/fark\_0NKVPnZ8m7zi07ms-CW5V9Pd08o.png?t=JqeRQHy7vw-SPDjmFfWZ2w&f=1383537600
+> 
+> Smallest dark: http://img.fark.net/images/cache/850/p/pK/fark\_pK4n1LjZYtqKZ\_vWiOMSp3CSSM8.jpg?t=mWX8gTPXjKzkxzWYkawLlA&f=1383537600
+> 
+> Small dark: http://img.fark.net/images/cache/850/w/w6/fark\_w6FPjJoaX4ZmmMJfGhodzthAJqA.jpg?t=8-AGW5iorUvqNfwkhv5vAQ&f=1383537600
+> 
+> Medium dark: http://img.fark.net/images/cache/850/U/UK/fark\_UK8JJYAqvrOWOMWHsMW\_kHfkrtg.jpg?t=goL3u5ngJJ-WinjUk\_Q7yA&f=1383537600
+> 
+> Large dark: http://img.fark.net/images/cache/850/0/0M/fark\_0MZCqQDmOMe8ZEFsqbch9LzZPBc.jpg?t=9rAFYKXkqhF6hkTV\_2e6RQ&f=1383537600
+> 
+>   
+> Fark consents to the above logos being slightly cropped or adjusted to fit a differently-sized standard on other sites, as long as the name "Fark" is still clearly legible. For legibility, the logo should be no less than 25 pixels in height.
+> 
 > Fark's Privacy Policy
 > 
 > **Short Version**
