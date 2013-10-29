@@ -43,4 +43,4 @@ Copyright
 
 Credits
 
-Photographs © 2003 by Alan Nyiri, courtesy of the Atkinson Photographic Archive, Stephanie Diani, © 2006 Regents of the University of California
+Photographs © 2003 by Alan Nyiri, courtesy of the Atkinson Photographic Archive, Stephanie Diani, © 2006 Regents of the University of California, © 2012 Kyle Alexander
