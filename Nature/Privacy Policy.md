@@ -82,6 +82,7 @@ Sign up for our e-newsletter!
 *   Search
 *   All Hands on Earth
 *   How We Work
+*   Member Care
 
 Get Involved:
 
