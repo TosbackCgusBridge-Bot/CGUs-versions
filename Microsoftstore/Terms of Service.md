@@ -247,6 +247,13 @@ Terms Relating to Both Your Use of the Microsoft Store and Sales to You
       
     
 
+1.  Automatic renewal products
+    
+    Provided that automatic renewals are allowed in your country, province, or state, you may purchase subscriptions from us that automatically renew. If you purchase such subscription products and provide us with a payment method, you (i) represent that you are authorized to use the payment method that you provided and that any payment information you provide is true and accurate. (ii) authorize Microsoft to charge you for the services using your payment method. and (iii) authorize Microsoft to charge you for any paid feature of the services that you choose to sign up for or use while this agreement is in force. We will inform you by email before automatically renewing any subscription products. Once we have informed you that your subscription will be automatically renewed, we may automatically renew your services and charge you the then current price for the renewal term. We will also remind you that we will bill your chosen payment method for the services renewal, whether it was on file on the renewal date or provided later. We will also provide you with instructions on how you may cancel the services. You must cancel the services before the renewal date to avoid being billed for the renewal.
+    
+      
+    
+
 Copyright and trademark notices
 
 All contents of the Website and Service are Copyright © 2013 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, USA. All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the Website, Service and content. Microsoft and the names, logos, and icons of all Microsoft products and services may be either trademarks or registered trademarks of Microsoft in the United States, Canada and/or other countries.
