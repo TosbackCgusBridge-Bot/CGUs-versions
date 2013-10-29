@@ -6,7 +6,6 @@ Skip to main content USA Network USA Shows Shows close
 *   New! USA Daytime
 *   Graceland
 *   House
-*   New! It Takes A Choir
 *   Law &. Order: Criminal Intent
 *   Law &. Order: SVU
 *   New! Modern Family
