@@ -64,7 +64,7 @@ Your privacy rights are set forth in our Privacy Policy, which forms a part of t
 
 5\. Subscriptions and Purchases
 
-**VIMEO PLUS AND PRO:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Please see our subscription pages for current Plus and PRO features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We may also offer add-on features and packages. Vimeo PRO users who wish to obtain additional storage may request an enterprise solution by contacting enterprise@vimeo.com. All fees may be subject to taxes.
+**VIMEO PLUS AND PRO:** In addition to offering Basic (free) Vimeo memberships, we offer Vimeo Plus and Vimeo PRO subscriptions. Please see our subscription pages for current Plus and PRO features and pricing. Features and prices are subject to change. Storage limits are calculated based upon source files. We may also offer add-on features and packages. Vimeo PRO users who wish to obtain additional storage may request an enterprise solution by contacting us here: vimeo.com/help/contact. All fees may be subject to taxes.
 
 **CANCELATION AND REFUNDS:** Users who purchase annual subscriptions have thirty (30) days after their purchase to cancel and receive a full refund. Users who purchase monthly subscriptions have five (5) days after purchase to cancel and receive a full refund. After the cancelation period ends, all purchases are final and all fees paid are non-refundable, even if your account is later terminated by Vimeo. If you have questions, please contact us.
 
