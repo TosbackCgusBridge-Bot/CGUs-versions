@@ -33,11 +33,11 @@ License Agreements
 
 License Agreements
 
-CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S End User License Agreement — Type S View More Returns
+The Dell 2020 Legacy of Good Plan CONTRATO DE LICENCIA DE USUARIO FINAL — Tipo S End User License Agreement — Type S View More Returns
 
 Returns
 
-Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contracts
+The Dell 2020 Legacy of Good Plan Política de devoluciones en EE. UU. U.S. Return Policy View More Service Contracts
 
 Service Contracts
 
@@ -45,4 +45,4 @@ Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After 
 
 Warranties
 
-Dell Limited Hardware Warranty Garantías limitadas de hardware View More
+The Dell 2020 Legacy of Good Plan Dell Limited Hardware Warranty Garantías limitadas de hardware View More
