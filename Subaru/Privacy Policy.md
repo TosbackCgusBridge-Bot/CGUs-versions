@@ -38,7 +38,7 @@ Log Into MySubaru | Help |
         
         Starting at **$17,895**
         
-        2013 Impreza
+        2014 Impreza
         
         Starting at
         
