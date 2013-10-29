@@ -4,7 +4,7 @@ Our Privacy Policy &. Our Website Terms Of Use
 
 **Our Privacy Policy**  •  Our Website Terms of Use
 
-Our Privacy Policy Last Updated July 23, 2013.
+Our Privacy Policy Last Updated October 23, 2013.
 
 Thank you for visiting our website, which is part of the Saks family of company sites, including Saks Fifth Avenue and Saks Fifth Avenue OFF 5TH (collectively, Saks). We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Saks. This commitment includes respecting and protecting the privacy of personal information that we obtain through our sites, via mobile, and from visits and purchases at our stores. This privacy policy provides you with information about how we collect, use and share your personal information, and our privacy practices in general.
 
@@ -46,7 +46,7 @@ Q: **What information does Saks collect?** A: **The Information You Provide to S
 
 *   You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Network Advertising Initiative's opt-out page here. Without cookies or pixel tags though, you may not be able to take full advantage of all of our website features.
 
-**Mobile Information:** We, or our service providers, may also collect, use, or disclose personal information and non-personal information from and about you on our mobile websites and through your interactions with us on your mobile device. This information may include a telephone number and mobile device identifier provided by your mobile device or wireless carrier, as applicable. You may interact with us on our mobile websites as you would on our website including the ability to place an order, register for a loyalty program, or otherwise submit information.
+**Mobile Information:** We offer mobile applications ("apps") which allow you to shop online, check product availability, learn about store events, or receive other information from us. All personal information collected via our mobile application is protected by this Privacy Policy. We, or our service providers, may also collect, use, or disclose personal information and non-personal information from and about you on our mobile websites and through your interactions with us on your mobile device. This information may include a telephone number and mobile device identifier provided by your mobile device or wireless carrier, as applicable. You do not have to provide your location information to use our mobile applications however, store-specific services require a zip code to function and we will save your zip code(s) for future reference. When you download our mobile application, you may choose to allow it to obtain your precise location. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data. we only store the zip code associated with the location. Our mobile applications offer automatic (push) notifications. We will provide push notifications only to those who opt-in to receive them. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings. We may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.
 
   
   Q: **How does Saks use the information collected?** A:
@@ -70,7 +70,11 @@ Q: **What information does Saks collect?** A: **The Information You Provide to S
 
 Our customers receive standard order status communications, such as order confirmation and shipping dates, via email. Your choice to opt out of promotional emails will not affect email notifications regarding your order with us.
 
-If you would like to be removed from our Saks Fifth Avenue catalog mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.
+If you would like to be removed from our Saks Fifth Avenue catalog mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.  
+  
+Saks also communicates via mobile text alerts to customers who opt-in to the SAKS Alerts program. Users can opt-in here. You will receive up to 3 messages per week. No purchase necessary. Automated messages will be delivered to the phone number you provide at opt-in. For help, text HELP to short code 75283. To stop receiving alerts, text STOP to 75283. Message and data rates may apply.  
+  
+Supported carriers: AT&T, Verizon Wireless, Sprint PCS, T-Mobile, Virgin Mobile, US Cellular  
 
   
   Q: **Is there a Saks credit card?** A: The Saks Fifth Avenue MasterCard® and the Saks Fifth Avenue private label credit cards are issued by Capital One N.A. and are serviced by its affiliates, Capital One. Saks does not collect or process any online applications for these credit card products. Those applications are made directly on the issuer-operated website and are subject to its privacy policy and practices. MasterCard® is a registered trademark of MasterCard International, Incorporated. To obtain a privacy policy, opt-out information, or contact information for the Saks Fifth Avenue MasterCard® and the Saks Fifth Avenue private label credit cards, you may contact Cardmember Benefits.  
@@ -87,7 +91,7 @@ Our Privacy Policy &. Our Website Terms Of Use
 
 **Our Privacy Policy**  •  Our Website Terms of Use
 
-Our Privacy Policy Last Updated July 23, 2013.
+Our Privacy Policy Last Updated October 23, 2013.
 
 Thank you for visiting our website, which is part of the Saks family of company sites, including Saks Fifth Avenue and Saks Fifth Avenue OFF 5TH (collectively, Saks). We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Saks. This commitment includes respecting and protecting the privacy of personal information that we obtain through our sites, via mobile, and from visits and purchases at our stores. This privacy policy provides you with information about how we collect, use and share your personal information, and our privacy practices in general.
 
@@ -129,7 +133,7 @@ Q: **What information does Saks collect?** A: **The Information You Provide to S
 
 *   You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Network Advertising Initiative's opt-out page here. Without cookies or pixel tags though, you may not be able to take full advantage of all of our website features.
 
-**Mobile Information:** We, or our service providers, may also collect, use, or disclose personal information and non-personal information from and about you on our mobile websites and through your interactions with us on your mobile device. This information may include a telephone number and mobile device identifier provided by your mobile device or wireless carrier, as applicable. You may interact with us on our mobile websites as you would on our website including the ability to place an order, register for a loyalty program, or otherwise submit information.
+**Mobile Information:** We offer mobile applications ("apps") which allow you to shop online, check product availability, learn about store events, or receive other information from us. All personal information collected via our mobile application is protected by this Privacy Policy. We, or our service providers, may also collect, use, or disclose personal information and non-personal information from and about you on our mobile websites and through your interactions with us on your mobile device. This information may include a telephone number and mobile device identifier provided by your mobile device or wireless carrier, as applicable. You do not have to provide your location information to use our mobile applications however, store-specific services require a zip code to function and we will save your zip code(s) for future reference. When you download our mobile application, you may choose to allow it to obtain your precise location. In this case, we will determine your zip code from the precise location data received from your mobile device. We do not store precise location data. we only store the zip code associated with the location. Our mobile applications offer automatic (push) notifications. We will provide push notifications only to those who opt-in to receive them. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings. We may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.
 
   
   Q: **How does Saks use the information collected?** A:
@@ -153,7 +157,11 @@ Q: **What information does Saks collect?** A: **The Information You Provide to S
 
 Our customers receive standard order status communications, such as order confirmation and shipping dates, via email. Your choice to opt out of promotional emails will not affect email notifications regarding your order with us.
 
-If you would like to be removed from our Saks Fifth Avenue catalog mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.
+If you would like to be removed from our Saks Fifth Avenue catalog mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.  
+  
+Saks also communicates via mobile text alerts to customers who opt-in to the SAKS Alerts program. Users can opt-in here. You will receive up to 3 messages per week. No purchase necessary. Automated messages will be delivered to the phone number you provide at opt-in. For help, text HELP to short code 75283. To stop receiving alerts, text STOP to 75283. Message and data rates may apply.  
+  
+Supported carriers: AT&T, Verizon Wireless, Sprint PCS, T-Mobile, Virgin Mobile, US Cellular  
 
   
   Q: **Is there a Saks credit card?** A: The Saks Fifth Avenue MasterCard® and the Saks Fifth Avenue private label credit cards are issued by Capital One N.A. and are serviced by its affiliates, Capital One. Saks does not collect or process any online applications for these credit card products. Those applications are made directly on the issuer-operated website and are subject to its privacy policy and practices. MasterCard® is a registered trademark of MasterCard International, Incorporated. To obtain a privacy policy, opt-out information, or contact information for the Saks Fifth Avenue MasterCard® and the Saks Fifth Avenue private label credit cards, you may contact Cardmember Benefits.  
