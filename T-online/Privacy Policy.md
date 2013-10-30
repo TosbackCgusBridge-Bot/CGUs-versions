@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
 *   Union will Gesetz für mehr Datensicherheit
 *   Facebook entfernt Enthauptungsvideo – nicht wegen Protesten
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
 *   Europa macht Ernst beim Datenschutz
-*   Hessen: Kein Facebook-Verbot für Lehrer
 
 weniger Artikel weniger Artikel
 
+*   Hessen: Kein Facebook-Verbot für Lehrer
 *   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
 *   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
 *   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
 *   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
-*   Facebook ändert Datenschutz-Einstellungen für Teenager
 
 *   Kundencenter
 *   Preise und AGB
