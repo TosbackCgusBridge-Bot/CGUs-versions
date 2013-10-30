@@ -26,7 +26,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   Log Out
 *   Ship To
 
-Lands' End
+Lands' End **Free Shipping Every Day on orders $50+**  
+$5 More for UPS 2 Day
 
 *   Women
     *   *   Shoes &. Boots
