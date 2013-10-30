@@ -56,7 +56,7 @@ If you register for events or webinars provided by Gigaom, we may receive Inform
 
 Third Party Websites/Social Networking Sites
 
-If you choose to use any third party website or service that is integrated with GigaOM, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)—or if you use any Gigaom application provided through any Third Party Website—we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
+If you choose to use any third party website or service that is integrated with Gigaom, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)—or if you use any Gigaom application provided through any Third Party Website—we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
 
 *   Name
 *   Nickname or Username
@@ -127,7 +127,7 @@ Gigaom uses third parties, such as ON24, Wufoo, and Zendesk to process registrat
 
 Third Party Sponsors
 
-If you have elected to register for one of our sponsored webinars or events, or to access research or content from GigaOM, we may share your Information (including Personally Identifying Information) with business partner(s) and/or sponsor(s) of the webinar, event, research and/or content. You agree that these sponsor(s) and/or business partner(s) may use your Personally Identifying Information to contact you to provide additional information about their products or services.
+If you have elected to register for one of our sponsored webinars or events, or to access research or content from Gigaom, we may share your Information (including Personally Identifying Information) with business partner(s) and/or sponsor(s) of the webinar, event, research and/or content. You agree that these sponsor(s) and/or business partner(s) may use your Personally Identifying Information to contact you to provide additional information about their products or services.
 
 Third Party Websites
 
@@ -153,7 +153,7 @@ Change of Control
 
 If Gigaom, or substantially all of its assets, is acquired by another company or party, user Information will be one of the assets transferred or acquired by the purchaser. You acknowledge that such transfers may occur, and that any purchaser of Gigaom or its assets may continue to collect, use and disclose your Information as set forth in this Policy.
 
-Third-Party Advertising on GigaOM
+Third-Party Advertising on Gigaom
 
 Gigaom may allow third party advertising serving companies, including ad networks (“Advertisers”), to display advertisements or provide other advertising services on Gigaom. These third party Advertisers may use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record demographic and other Information about you, including your activities on or off Gigaom. These techniques may be used directly on Gigaom. Please keep in mind that your web browser may not permit you to block the use of these techniques, and that browser settings that block conventional cookies may have no effect on such techniques.
 
