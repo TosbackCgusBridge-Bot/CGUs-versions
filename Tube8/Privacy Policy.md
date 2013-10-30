@@ -303,7 +303,7 @@ Send For more information, please contact a TrafficJunky representative at www.t
 
 *   Amateur
 *   Anal
-*   Asian
+*   **Asian**
 *   Blowjob
 *   Ebony
 *   Erotic
