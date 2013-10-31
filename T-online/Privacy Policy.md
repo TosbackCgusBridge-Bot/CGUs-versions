@@ -91,9 +91,9 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Facebook und Blackberry - was läuft da?
 *   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
 *   Union will Gesetz für mehr Datensicherheit
-*   Facebook entfernt Enthauptungsvideo – nicht wegen Protesten
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
