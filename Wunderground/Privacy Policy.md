@@ -51,7 +51,7 @@ USER TERMS AND CONDITIONS
 
 PRIVACY STATEMENT
 
-REVISED AS OF JANUARY 30, 2013 — About Our Privacy Statement
+REVISED AS OF OCTOBER 30, 2013 — About Our Privacy Statement
 
 The Weather Underground, LLC ("Weather Underground") is strongly committed to protecting your privacy. This Privacy Policy discloses how we collect, use and share information we gather about you on the Services and the choices you have regarding our use of and your ability to correct the information. "Services" include Weather Underground's wunderground.com ® website, wxquickie.com, weatherquicke.com, wundermap.com (the "Sites"), and other Internet enabled or wireless means by which Weather Underground provides content to you or receives content from you, including, without limitation, downloadable software applications (including Desktop Gadget and Dashboard Widget desktop applications), mobile web sites, mobile downloadable applications including WunderRadio, content and blog submission services, chat rooms, SMS messaging, and delivery of Weather Underground and WunderRadio content to you at your request.) "Services" also includes alert products. We hope that this disclosure will enhance your experience and reinforce the trust that you place in Weather Underground's products and services.
 
@@ -63,6 +63,7 @@ In order to maximize your experience and to provide you with enhanced products a
 *   Register for a promotion, contest or sweepstakes
 *   Send us an e-mail message or complete an inquiry form to receive additional information
 *   Submit a photo to WunderPhoto
+*   Report your weather conditions
 *   Participate in an online forum or community,
 *   Request tweets from us, or
 *   Customize the Services.
