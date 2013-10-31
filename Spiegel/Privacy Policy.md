@@ -154,10 +154,6 @@ Wenn Sie den Button nicht anklicken oder nicht bei Facebook eingeloggt sind, wir
 
 Besuchen Sie eine Seite mit Empfehlen-Button, wird die IP-Adresse an Facebook übermittelt. Aus Datenschutzgründen wird diese jedoch so anonymisiert, dass keine Rückschlüsse auf den Rechner oder dessen Benutzer möglich sind.
 
-Der New Scientist Deutschland Online führt dabei die so genannte Zwei-Klick-Lösung ein, um den Empfehlen-Button von Facebook einzubinden. Das heißt, so lange dieser Button nicht aktiviert wird, kommt keine Verbindung mit Facebook zustande. Nach dem ersten Klick wird eine Verbindung hergestellt.
-
-Wenn bei den Einstellungen zur Zwei-Klick-Lösung das Kästchen "Dauerhaft aktivieren und Datenüber­tragung zustimmen" gehakt wird, wird beim User ein Cookie gesetzt, der künftig für jedem Aufruf einer Seite mit dem Empfehlen-Button auch eine Verbindung zu Facebook aktiviert.
-
 (13)  
 SPIEGEL ONLINE benutzt Google Analytics, einen Web-Analysedienst der Google Inc. ("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse Ihrer Benutzung der Website ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Da SPIEGEL ONLINE die IP-Anonymisierung auf dieser Webseite aktiviert hat, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen, wenn es z.B. zu technischen Ausfällen in Europa kommt, kann es notwendig werden, dass die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt wird. Im Auftrag von SPIEGEL ONLINE wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber SPIEGEL ONLINE zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen von SPIEGEL ONLINE vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung von SPIEGEL ONLINE bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.
 
@@ -265,7 +261,7 @@ Das Copyright für die Beiträge, soweit diese urheberrechtsschutzfähig sind, v
 Ihre angegebene E-Mail-Adresse kann für andere Teilnehmer und Besucher des Forums sichtbargeschaltet werden, so dass Sie auch auf diesem Wege miteinander kommunizieren können.
 
 (7)  
-Bei technischen Problemen und Fragen ist der Moderator unter der Mailadresse forum@spiegel.de erreichbar.
+Bei technischen Problemen und Fragen ist der Moderator unter der Mailadresse forum@spiegel.deerreichbar.
 
 Wir wünschen Ihnen viel Spaß bei der Diskussion in unserem Forum!
 
