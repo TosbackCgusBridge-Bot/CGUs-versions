@@ -59,7 +59,7 @@ Review the three-step process below, and you'll be on your way to e-filing your 
   
   
 
-Filed an Extension this year? You can still use Free File to do your 2012 federal tax return through October 15, 2013.  
+Free File is closed for the remainder of this year. Check back next year for filing your 2013 federal tax returns.  
  
 
 1.Get Ready
@@ -91,7 +91,7 @@ Filed an Extension this year? You can still use Free File to do your 2012 federa
 *   **Pay electronically.**  
     Find out more about available electronic payment options.
 
-Page Last Reviewed or Updated: 03-Sep-2013
+Page Last Reviewed or Updated: 30-Oct-2013
 
 *   Resolve an Issue
     
