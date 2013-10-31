@@ -1,127 +1,135 @@
 Ask Jeeves Privacy Policy Back to About Home
 
-_Last updated December 15, 2011_
+_Last updated: October 29, 2013_
 
   
-At Ask Jeeves, we respect your privacy, and we understand the importance of the information you entrust to us. We want to describe our privacy practices concerning the information collected through the Ask Jeeves website and our mobile applications in a clear and concise way. Below we describe what information we collect when you use our website and our services, how we protect that information, how long we keep it, whom we share it with, and what your privacy options are. Ask Jeeves is a trading name of IAC Search &. Media Europe Limited, which is a member of the Ask.com group of companies.  
+
+At Ask, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Search &. Media Europe, Ltd., APN, LLC and Mindspark Interactive Network, Inc. ("Ask", "we", "us", "our") through the use of (i) our websites (the "Website") and (ii) "Search Applications," a search box on an application or site from which you can access our search services , specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc.(collectively the "Services").
+
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
+
+This Privacy Policy was last updated on December 15, 2011. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users' needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
+
+What information do we collect about you?
+
+We explain below the main ways that we collect and process information about you.
+
+INFORMATION YOU PROVIDE TO US:
+
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
+
+You may also provide personal information to us, if you choose to:
+
+*   sign up to receive our "Question of the Day" or any similar service or request to receive certain other communications from us.
+*   submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services.
+*   participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes).
+*   contact us about employment opportunities posted to the Services. or
+*   otherwise use the Services in a manner that you have requested.
+
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network. For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network's policies, they may provide us access to your and your friends names, pictures, genders, user Ids, connections and any content shared using an "Everyone" or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself.
+
+INFORMATION WE COLLECT WHEN YOU USE THE SERVICES:
+
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
+
+1.  IP address of your computer
+2.  Unique mobile device identifier
+3.  Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
+4.  Your preferences and settings (time zone, language, etc.)
+5.  Internet provider or mobile carrier name
+6.  The URL of the last webpage you visited before visiting the Website
+7.  Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments).
+8.  If you are using a mobile device, your mobile device's geographic location (specific geographic location if you've enabled collection of that information, or general geographic location automatically). Please see the section "About Location Information" below for further information.
+9.  If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
+
   
-By using our website or our mobile applications, you consent to our collection and use of your information as described in this privacy policy.  
-  
-As our privacy practices evolve, we may update this privacy policy from time to time. Any material changes in our privacy practices will be posted prominently on this page. If you do not agree to these changes, please do not continue to use the Ask Jeeves websites or services.  
-  
-If you have any question about our privacy practices, or if you would like to review or update the personal information we have collected about you, you can contact us via email by clicking here or write to our Privacy Officer at:  
-Ask.com  
+
+We also use cookies and similar technologies (such as local stored objects) to collect and store information. Please see our Cookies Policy for further information about our use of these technologies.
+
+NOTICE REGARDING ASK ERASER
+
+Please note that Ask has phased-out its AskEraser feature. AskEraser was a privacy feature from Ask that when enabled, deleted your search activity from Ask's servers in most circumstances. However, even without Ask Eraser, you can use your browser's support or help settings to disable Ask cookies from collecting this information in the first place. Please note that search activity that Ask has previously collected will not be deleted. taking these actions will only prevent the collection of your search activity information going forward.
+
+Major browsers provide users with various options when it comes to cookies. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Ask uses to collect search activity information about its users), or block specific cookies. To modify your cookie settings, please refer to the following support pages for each browser you use to access the Website:
+
+*   Explorer help: http://support.microsoft.com/kb/278835
+*   Firefox help: http://kb.mozillazine.org/Cookies#Firefox
+*   Safari help: http://support.apple.com/kb/PH5042
+*   Chrome help: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647\]
+
+How do we use the information we collect?
+
+We use the information we collect from and about you for a variety of purposes, including to:
+
+*   verify your eligibility for our Services.
+*   respond to your queries with the best possible answers and search results.
+*   understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions.
+*   administer our Services, diagnose technical problems and otherwise manage our business.
+*   distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyse retention and usage per distribution partner or channel.
+*   send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see 'How to delete, access or edit your personal information' for further information about how you can control these communications.
+*   send you questions from other users that you may be able to answer if you have registered with our Services.
+*   deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services.
+*   provide you with customer support.
+*   enable us to show you ads that are more relevant to you. and
+*   perform functions as otherwise described at the time of collection.
+
+We may also generate, use and disclose aggregated and/or anonymised information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymised information and statistics.
+
+About Location Information
+
+When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. We have explained how you can disable the collection of Mobile Device Location Information below:
+
+How to Disable the Collection of Mobile Device Location Information.
+
+If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
+
+*   If you are using an Apple device, click on "General," then "Reset," then "Reset Location and Privacy." This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+*   If you are using an Android device, visit device settings, click "Location," and then click the boxes for the particular applications for which you would like to disable location services.
+*   If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
+
+How do we share the information we collect?
+
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways:
+
+*   Our suppliers, subcontractors and business partners ("service providers"): We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+*   Companies within the IAC Group of Companies: We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp.
+*   Our Search Application partners: If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited.
+*   Fraud prevention: We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+*   Law enforcement purposes: If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+*   Sale or merger of our business: We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+*   Advertisers and advertising networks: Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer's IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site. Please see our Cookies Policy for further information.
+
+How do we keep the information we collect secure?
+
+We take the security of your personal information seriously and use appropriate technical and organisational measures to protect your personal information against unauthorised or unlawful processing and against accidental loss, destruction or damage. We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
+
+How long do we keep the information we collect?
+
+We retain the information we collect about and from you for as long as necessary to fulfil a business purpose or comply with a legal request. We may also choose to anonymise certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
+
+Children under 13
+
+The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. You hereby represent that you are at least 13.
+
+Do we send your personal information outside Europe?
+
+Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated group companies or third party service providers are located or maintain facilities. While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy.
+
+Our immediate parent company IAC Search and Media, Inc. dba Ask.com complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ask has certified that it adheres to the Safe Harbor Privacy Principles with respect to personal information transferred to it in the U.S from the following EU/EEA websites: http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, http://int.ask.com
+
+To learn more about the Safe Harbor program, and to view Ask's certification, please visit http://www.export.gov/safeharbor/.
+
+How to edit, delete or access your personal information
+
+You have the right to ask for a copy of any personal information that we hold about you in our records, to correct any inaccuracies and to update any out-of-date information. You can also ask us not to send you direct marketing communications (however please note that we may continue to send you service related (i.e. non-marketing) communications). If you wish to exercise any of these rights, or wish to object to our use of your personal information, please write to us at the address listed below.
+
+Please note that in some countries we may be permitted to charge a fee specified by law for providing you with copies of personal information we may hold about you.
+
+Contact us If you have any question about our privacy practices for Ask Jeeves (whose personal data is controlled by IAC Search and Media Europe Limited) or the Search Application Services provided by APN, LLC and Mindspark Interactive Network, Inc (whose personal data is controlled by those respective entities), or if you would like to review or update the personal information we have collected about you, you can contact us via e-mail at _privacy@ask.com_ or writing to our Privacy Officer at:
+
+Ask  
 Attn: Privacy Officer  
 Unit 1, College Business &. Technology Park, Blanchardstown North Road,  
-Dublin 15, Ireland
+Dublin 15, Ireland  
 
-Information we collect about your computer or mobile device when you use Ask Jeeves  
-
-*   IP address of your computer
-*   Browser type (Internet Explorer 8, etc.)
-*   Browser language setting
-*   Other browser information (e.g. size, connection speed)
-*   Operating system or platform running on your computer (Mac, Windows 7, etc.)
-*   Type of mobile device (iPhone, Android)
-*   ID number of your mobile device
-
-We collect the above information only for the purposes of serving our website and services to you, for analytics purposes, to improve our website and service offering, and to display advertisements that are relevant to you. We do not use it to identify any website visitor as an individual.  
-  
-
-Information we collect about your use of Ask Jeeves  
-
-*   The URL of the last webpage you visited before visiting the website
-*   Your browsing and usage activity on the website and our mobile applications (your queries, questions, answers, comments, search results selected, clicks, pages viewed, etc.)
-
-  
-We use **cookies, pixel tags and mobile device IDs** to collect and store this information. The reasons why we collect this information are explained in the section "Why we collect information" below and further information about cookies, pixel tags and mobile device IDs is set out in the section "Cookies, pixel tags and mobile device IDs" below.  
-  
-You may prevent search activity from being associated with your use of the Ask Jeeves website and service by turning on AskEraser. Except in exceptional circumstances, we will not store your search activity on Ask Jeeves while AskEraser is turned on. However, please note that AskEraser cannot currently be turned on from your mobile device.  
-  
-
-Information we collect if you register for certain services  
-Use of certain services requires registration, which can require you to provide certain personal information to us. Other personal information you might choose to provide to us could include: (i) your contact information if you participate in a promotion. or (ii) your email address if you sign up to receive our "Question of the Day" or similar service or submit a help request or other customer services inquiry to us via email or contact us about employment opportunities posted on our sites. AskEraser does not apply to any such information you choose to submit to us. If you participate in a promotion or contact us about employment opportunities, we will therefore retain any personal information you provide even if AskEraser is switched on.  
-  
-
-Why we collect information  
-
-*   To respond to your queries with the best possible answers and search results
-*   To understand our users (their demographics, what they do on our website, what site features they like, how they use them, etc.) and improve our services
-*   To administer our services and diagnose technical problems
-*   To administer our competitions and promotions
-*   To enable us to show you ads on our website and in our mobile applications that are more relevant to you
-
-  
-
-How long we keep data about you  
-We anonymise your search queries after 12 months, unless required to keep them longer for legal or regulatory reasons.  
-  
-
-Data collection and sharing involving third parties
-
-*   Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer's IP address, browser information, mobile device ID, and search queries, as you use our website and services. They also may use web technologies such as cookies and pixel tags to collect this information when you visit our site. Please see the sections "How you can opt out of collection of information about you" and "Cookies, pixel tags and mobile device IDs" below for more information about how to control collection of your information by third party advertisers and advertising networks.
-*   We use outside service providers for a variety of purposes, such as to push notifications to your mobile device on our behalf and help us analyse use of our website and services. We also may use service providers for other projects, such as conducting surveys or organising sweepstakes for us, that involve collection of information from our users. We may share information about you with these service providers to enable them to perform their services.
-*   We generally have contracts with all of these companies that prohibit them from sharing the personal information that they collect or that we provide to them with anyone else, or using it for other purposes.
-*   We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
-*   We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).  
-      
-    
-
-How you can opt out of collection of information about you  
-
-*   You can turn on AskEraser. We will not store your search activity on Ask Jeeves while AskEraser is turned on. Please note that AskEraser cannot currently be turned on from a mobile device.  
-    
-*   You can disable the cookies placed on your computer by advertising companies that display ads on our site to prevent them from using information about you for targeting purposes. To do this, please see the section "Cookies, pixel tags and mobile device IDs" below for further information.
-
-Security of the information we collect  
-We have implemented security measures to prevent unauthorised or unlawful access to and misuse of the personal information we collect, including technological and physical security measures as well as procedural safeguards. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.  
-  
-
-Cookies, pixel tags and mobile device IDs A cookie is a small text file that is stored on your computer. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website. To understand more about cookies, click here.  
-  
-
-*   We use our own cookies on the Ask Jeeves website to enable us to recognize you when you visit our website, to store your preferences and settings and to better understand how you use our website and services.  
-      
-    
-*   We allow Google Analytics to place cookies on our websites. These cookies are set by Google, Inc. and are used to collect information about how visitors use our website including the number of visitors to our website, the websites that referred them to our website, and the pages that they visited on our website. We use this information to compile reports and to help us improve the website. To see an overview of privacy at Google and how this applies to Google Analytics, visit http://www.google.co.uk/intl/en/analytics/privacyoverview.html.  
-      
-    
-*   We allow cookies from advertising companies to be used on our website. These cookies enable advertising companies to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. All the advertising companies or networks that we work with offer a mechanism for users to opt out tracking and behavioural targeting available from the advertisement itself or through the single opt out mechanism available at http://www.networkadvertising.org/.  
-      
-    
-*   Apple and its partners use cookies and other technologies in mobile advertising services to send relevant ads to you. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: http://oo.apple.com. This opt-out applies only to Apple advertising services and does not affect advertising from other advertising networks.
-
-  
-You have the right to choose whether or not to accept cookies. You can exercise this right by amending or setting the controls on your browser to reflect your cookie preferences. The "help" portion of the toolbar on most internet browsers will tell you how to do this but please note that, if you choose to refuse cookies, certain website functionality may become unavailable. For example, to use AskEraser, cookies must be enabled in your browser settings so that we can set one cookie to record that you are an AskEraser user. This cookie simply indicates that the AskEraser feature has been turned on, and does not store any other personal information.  
-  
-You may also opt-out of receiving targeted advertising from some advertising networks. For further information about your right to opt-out of receiving targeted advertising please visit the following websites:  
-
-*   Your Online Choices (http://www.youronlinechoices.com/uk/).
-*   Network Advertising Initiative (http://www.networkadvertising.org/). and
-*   Digital Advertising Alliance (http://www.aboutads.info/consumers).
-
-  
-If you are using our mobile applications, we use your **mobile device ID** number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.  
-  
-A **pixel tag** (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email), and is used to count or track things like activity on a webpage or ad impressions or clicks, as well as to access cookies stored on users' computers.  
-
-*   We use our own pixel tags to measure the popularity of our various pages and services.  
-    
-*   We allow advertising companies to use their own pixel tags to measure the number of ad impressions and the performance of ads on our site, and to access the advertising company's cookies placed on your computer.  
-    
-*   We also use outside vendors to help us better understand our user demographics. They use technologies such as cookies and pixel tags in providing their services to us, but do not use them to target ads to you.  
-      
-    
-
-Government authorities and legal rights If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users or modify other practices described in this policy, such as how long and in what form we keep information. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.  
-  
-
-Information collected from users located outside the United States Personal information we collect about you may be transferred to and stored in our servers, or those of our parent company (Ask.com) or third party vendors that act on our behalf, in countries outside of the European Economic Area (including the U.S.). By using the Ask Jeeves website, you consent to our collection and use of your personal information as described in this Privacy Policy. Our parent company Ask.com complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ask.com has certified that it adheres to the Safe Harbour Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with respect to personal information transferred to us in the U.S. from the following Ask.com EU/EEA properties  
-  
-Our parent company, Ask.com, is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union and has self-certified compliance with the Safe Harbor Privacy Principles with respect to personal information transferred to us in the U.S. from the following EU/EEA websites:  
-  
-http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, http://int.ask.com We self-certify compliance with:  
-  
-  
-  
-To learn more about the Safe Harbour program, and to view Ask.com's certification, please visit http://www.export.gov/safeharbor/. About - Privacy - AskEraser - Popular Questions - AskGardening - About P.G. Wodehouse ©2013 IAC Search &. Media
+About - Privacy - AskEraser - Popular Questions - AskGardening - About P.G. Wodehouse ©2013 IAC Search &. Media
