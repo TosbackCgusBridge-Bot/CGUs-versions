@@ -33,4 +33,4 @@ Conshohocken, PA 19428
   
 We will respond to your inquiry or investigate your concern as quickly as possible.  
   
-DATED: June 22, 2009 IKEA Catalog &. Brochures Request View Customer Service Contact UsFAQReturn PolicyChildren's Product RegistrationAll IKEA ServicesBuying Guides The IKEA Store Find an IKEA StoreIKEA Food &. RestaurantIKEA BusinessIKEA Gift Card About the IKEA Group Democratic DesignCompany InformationPeople &. PlanetRead our MaterialsIKEA News Room Working at the IKEA Group Search careers © Inter IKEA Systems B.V. 1999 - 2013 | Privacy Policy
+DATED: June 22, 2009 IKEA Catalog &. Brochures Request View Customer Service Contact UsFAQReturn PolicyChildren's Product RegistrationAll IKEA ServicesBuying GuidesDelivery Terms<br />. and Conditions The IKEA Store Find an IKEA StoreIKEA Food &. RestaurantIKEA BusinessIKEA Gift Card About the IKEA Group Democratic DesignCompany InformationPeople &. PlanetRead our MaterialsIKEA News RoomIKEA Foundation Working at the IKEA Group Search careers © Inter IKEA Systems B.V. 1999 - 2013 | Privacy Policy
