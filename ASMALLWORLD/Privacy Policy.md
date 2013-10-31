@@ -1,6 +1,6 @@
 A Small World . Net A Small World . Net A Small World . Net
 
-*   Navigation
+*   Menu
     *   About Us
     *   Our Foundation
     *   Careers
