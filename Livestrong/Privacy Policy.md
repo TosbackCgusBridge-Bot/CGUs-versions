@@ -90,7 +90,7 @@ We will take reasonable steps to protect the security of the personally identifi
 
 7\. CONDITIONS OF USE, NOTICES, AND REVISIONS.
 
-> a. _Privacy Concerns._ Your use of the Service and any dispute over privacy is subject to the Terms. If you have any concern about privacy at LIVESTRONG.COM, please send us a thorough description through our "Contact Us" web page located at www.LIVESTRONG.COM/contactus, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 8 below.
+> a. _Privacy Concerns._ Your use of the Service and any dispute over privacy is subject to the Terms. If you have any concern about privacy at LIVESTRONG.COM, please send us a thorough description through our "Contact Us" web page located at www.LIVESTRONG.COM/contactus/, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 8 below.
 > 
 > b. _Notice Required by Law._ In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with LIVESTRONG.COM at all times.
 > 
