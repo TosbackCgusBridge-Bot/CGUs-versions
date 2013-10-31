@@ -107,7 +107,7 @@ It is your responsibility to review our privacy policy and Terms and Conditions 
 
 **How To Contact Us**  
 If you have questions about our Privacy Policy, contact us by:  
-Phone:  
+Phone: (847) 236-6518  
 E-mail: privacy.office@walgreens.com  
 Regular mail:  
 Walgreen Co. Privacy Office  
