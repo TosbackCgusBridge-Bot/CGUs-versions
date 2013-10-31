@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help An erotic magazine for voyeurs and literati alike
+Search Help Ronan Farrow: The youngest old guy in the room
 
-Also in T Magazine »
+Also in Style »
 
-*   Halloween-inspired finds you can wear year-round
-*   Giorgio Armani's dolce vita
+*   Giorgio Armani runway show is an extravaganza of extremes
+*   Bill Cunningham | Inked
 
   
 
