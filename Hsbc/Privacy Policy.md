@@ -43,7 +43,7 @@ Menu Explore HSBC.com Search
         *   Rugby
         *   Wimbledon Championships
     *   Procurement
-        
+        *   Purchase order terms and conditions
 *   Citizenship in Citizenship
     
     We recognise that we have responsibilities not only towards our customers, employees and shareholders but also to the countries and communities in which we operate.
