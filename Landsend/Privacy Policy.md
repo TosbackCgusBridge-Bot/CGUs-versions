@@ -176,8 +176,8 @@ $5 More for UPS 2 Day
         *   Kitchen &. Dining
         *   Storage &. Organization
         *   Seasonal Décor &. Gifts
-        *   Backpacks, Luggage &. Bags
         *   Totes
+        *   Backpacks, Luggage &. Bags
         *   Beach Towels
         *   Outdoor Living
         *   Kids Home
