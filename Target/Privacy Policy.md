@@ -287,7 +287,11 @@ Target Privacy Policy Revisions
 
 This history changes begins as of July 2004 and includes the date of the update and a description of changes.
 
-Last update: 08/13/2013
+Last update: 10/25/2013
+
+Oct 2013
+
+Added informationto the Automated Information Collection section
 
 Aug 2013
 
