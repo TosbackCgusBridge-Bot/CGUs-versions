@@ -309,7 +309,7 @@ Send For more information, please contact a TrafficJunky representative at www.t
 *   Erotic
 *   Fetish
 *   Hardcore
-*   **HD**
+*   HD
 *   Indian
 *   Latina
 *   Lesbian
