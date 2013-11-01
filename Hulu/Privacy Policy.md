@@ -1,57 +1,3 @@
-Privacy Policy Highlights October 24, 2013  
-
-Hulu knows that you care how information about you is collected, used and shared, and we appreciate your trusting us to do so carefully and sensibly. These highlights are provided for convenience, please take a moment to review our full Privacy Policy, which describes how information about you is collected, used, and shared.
-
-Scope of Privacy Policy
-
-This Privacy Policy, effective October 24, 2013 covers the information Hulu collects when you use our services (the “Hulu Services”). It also provides information about our relationships with certain third parties that provide services in connection with the Hulu Services.
-
-Information Collected From or About You
-
-There is a variety of information collected from or about you when you use the Hulu Services, including:
-
-*   information you give us, such as during registration or subscription;
-*   information automatically collected when you visit Hulu.com or use the Hulu Services, such as your location and information collected via cookies, web beacons or other technologies;
-*   information from other commercially available sources, such as data aggregators and public databases, or our business partners.
-
-How We Use This Information
-
-We generally use the information we collect to:
-
-*   contact you;
-*   customize the content and advertising you view;
-*   fulfill your requests for products or services;
-*   improve our services;
-*   prevent potentially illegal activities. and
-*   protect our rights.
-
-How We Share This Information
-
-We may share information that we collect about you to provide the Hulu Services, including:
-
-*   with other Hulu users as described on Privacy and Settings page;
-*   with third-party service providers who provide services to us and our business partners and are subject to contractual restrictions;
-*   with social networking services with your consent;
-*   with business partners as described here;
-*   in aggregated or other non-personally identifiable form. or
-*   when necessary to protect or defend the rights of Hulu or our users, and when required by law or public authorities.
-
-Your Choices
-
-*   You can control the sharing of certain information with other Hulu users and the publication of information to social networking services on our Privacy and Settings page.
-*   You can stop the delivery of commercial email messages from Hulu by indicating your preference on the Privacy and Settings page or following the instructions in any such email you receive.
-*   You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of Third-Party Advertising.
-
-Security, Kids, and Other Information
-
-*   We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
-*   Hulu prohibits registration or subscription by, and will not knowingly collect personally identifiable information from, anyone under 13 years of age.
-*   For more information about our privacy practices, please review the full Hulu Privacy Policy.
-
-  
-  
-If you have questions regarding your privacy and Hulu, please contact us.  
-  
 Privacy Policy October 24, 2013  
 
 Hulu provides an online video service offering a selection of television shows, movies, clips, and other content. These video services including our Hulu Plus Service, our video player, and any other features, tools, applications, materials, or other services, offered by Hulu on any website, device or platform are referred to collectively as the “Hulu Services.”
@@ -123,9 +69,7 @@ How We Share This Information With whom does Hulu share the information it colle
 
 Does Hulu share aggregate or non-personally identifiable information?
 
-In addition to the specific data sharing practices described in this Privacy Policy, we may also share the information collected from or about you for other purposes in aggregated or non-personally identifiable forms. This means that we will combine information about individuals together, or otherwise anonymize the information, so that no individual person is identifiable.
-
-We may share information in these forms with various affiliated and unaffiliated entities, including our business partners. For example, we may share aggregate information with advertisers about the volume of use on the Hulu Services, the specific Hulu videos in which users are most interested, and the effectiveness of advertisements viewed on the Hulu Services (including the number of users who clicked on a particular advertisement). Also, we and our business partners use independent third parties to help measure viewing of content on Hulu, and these third parties may report statistics about viewing in aggregated or other non-personally identifiable forms.
+In addition to the specific data sharing practices described in this Privacy Policy, we may also share the information collected from or about you for other purposes in aggregated or non-personally identifiable forms. This means that we will combine information about individuals together, or otherwise anonymize the information, so that no individual person is identifiable. We may share information in these forms with various affiliated and unaffiliated entities, including our business partners. For example, we may share aggregate information with advertisers about the volume of use on the Hulu Services, the specific Hulu videos in which users are most interested, and the effectiveness of advertisements viewed on the Hulu Services (including the number of users who clicked on a particular advertisement). Also, we and our business partners use independent third parties to help measure viewing of content on Hulu, and these third parties may report statistics about viewing in aggregated or other non-personally identifiable forms.
 
   
   
