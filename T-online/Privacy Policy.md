@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Facebook und Blackberry - was läuft da?
+*   SPD und Union uneinig über Vorratsdatenspeicherung
+*   Facebook wertet Mauszeigerbewegungen aus - Jugendliche Nutzer wandern ab
 *   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
 *   Union will Gesetz für mehr Datensicherheit
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
-*   Europa macht Ernst beim Datenschutz
 
 weniger Artikel weniger Artikel
 
+*   Europa macht Ernst beim Datenschutz
 *   Hessen: Kein Facebook-Verbot für Lehrer
 *   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
 *   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Facebook schwächt Datenschutz-Einstellungen für Teenager
 *   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
 *   Facebook ändert Datenschutz-Einstellungen für Teenager
-*   EU-Urteil: Digitale Fingerabdrücke in Pässen sind zulässig
 
 *   Kundencenter
 *   Preise und AGB
