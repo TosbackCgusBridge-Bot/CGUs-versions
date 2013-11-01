@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Ronan Farrow: The youngest old guy in the room
+Search Help What you get for ... $1,250,000
 
-Also in Style »
+Also in Real Estate »
 
-*   Giorgio Armani runway show is an extravaganza of extremes
-*   Bill Cunningham | Inked
+*   Serbian real estate prepares for a comeback
+*   The renovation was overdue
 
   
 
