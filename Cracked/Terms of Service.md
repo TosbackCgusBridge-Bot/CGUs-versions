@@ -1,6 +1,6 @@
 Terms and Conditions
 
-**Effective Date: September 1, 2013**
+**Effective Date: November 1, 2013**
 
 **DISCLAIMER**: All characters, names and places used in CRACKED fiction and semifiction (whether online, in print or any other media) are fictitious and are used herein for the purposes of comment, criticism, parody, pointing out political and/or social injustice or any other purpose through which humanity is held up to the ridicule it frequently deserves. Any similarity to real people, without parodic purpose, is a coincidence. All trade names, product names and trademarks of third parties, including any trademarked characters, used in CRACKED fiction and semifiction (whether online, in print or any other media) are used without the authorization of those third parties, and are used only for the purpose of parody and identification. No sponsorship, endorsement or affiliation by or with those third parties exists or should be implied.
 
