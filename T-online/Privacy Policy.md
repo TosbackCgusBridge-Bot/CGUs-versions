@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
+*   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
+*   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
+*   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
 *   SPD und Union uneinig über Vorratsdatenspeicherung
 *   Facebook wertet Mauszeigerbewegungen aus - Jugendliche Nutzer wandern ab
 *   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
 *   Union will Gesetz für mehr Datensicherheit
+
+weniger Artikel weniger Artikel
+
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
-
-weniger Artikel weniger Artikel
-
 *   Europa macht Ernst beim Datenschutz
 *   Hessen: Kein Facebook-Verbot für Lehrer
 *   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
@@ -110,10 +114,6 @@ weniger Artikel weniger Artikel
 *   EU-Parlamentsausschuss stimmt für Datenschutzreform
 *   Facebook-Verbot zwischen Lehrern und Schülern in Rheinland-Pfalz
 *   Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
-*   Großer Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
-*   Facebook schwächt Datenschutz-Einstellungen für Teenager
-*   Grüne "entsetzt" über Datenpanne bei Wagner-Festspielen
-*   Facebook ändert Datenschutz-Einstellungen für Teenager
 
 *   Kundencenter
 *   Preise und AGB
