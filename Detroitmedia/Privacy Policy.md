@@ -108,7 +108,7 @@ with Detroit Media Partnership, you can contact:
 Detroit Media Partnership  
 615 W. Lafayette Blvd.  
 Detroit, MI 48226  
-Email: marketplacedetroit@dnps.com
+Email: detroitmedia@gmail.com
 
 Disclaimers
 
