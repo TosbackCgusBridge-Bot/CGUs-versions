@@ -291,7 +291,7 @@ Last update: 10/25/2013
 
 Oct 2013
 
-Added informationto the Automated Information Collection section
+Added information to the Automated Information Collection section
 
 Aug 2013
 
