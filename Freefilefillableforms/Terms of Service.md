@@ -46,7 +46,7 @@ Like Share Print Free File: Do Your Federal Taxes for Free
 
 Español
 
-  
+Free File has closed for the remainder of this year. Check back next year for filing your 2013 federal tax returns.  
 Taxes made less taxing.
 
 **EVERYONE is Eligible to Free File!**
@@ -58,9 +58,6 @@ Review the three-step process below, and you'll be on your way to e-filing your 
   
   
   
-
-Free File is closed for the remainder of this year. Check back next year for filing your 2013 federal tax returns.  
- 
 
 1.Get Ready
 
@@ -91,7 +88,7 @@ Free File is closed for the remainder of this year. Check back next year for fil
 *   **Pay electronically.**  
     Find out more about available electronic payment options.
 
-Page Last Reviewed or Updated: 30-Oct-2013
+Page Last Reviewed or Updated: 01-Nov-2013
 
 *   Resolve an Issue
     
