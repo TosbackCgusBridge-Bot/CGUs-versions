@@ -186,6 +186,6 @@ VII. International Users
 The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy.  
   
 NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | Privacy Policy | Your Privacy Rights | Terms of Service  
-United Online FTD Flowers | Memory Lane | MyPoints | NetZero | Juno | MySite
+United Online Memory Lane | MyPoints | NetZero | Juno | MySite
 
 © 1998-2013 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
