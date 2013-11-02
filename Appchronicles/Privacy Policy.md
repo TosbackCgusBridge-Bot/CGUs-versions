@@ -28,3 +28,5 @@ While this privacy policy states standards for maintenance of data, and while ef
 
 7\. Contact information  
 If you have any questions about this policy or about this web site, please feel free to contact us .
+
+Leave a Comment
