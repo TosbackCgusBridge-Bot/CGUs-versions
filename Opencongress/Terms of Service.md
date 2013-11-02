@@ -1,3 +1,9 @@
+Terms Of Service • Licensing Terms • Privacy Policy
+
+  
+  
+Terms of Service
+
 These Terms of Service govern your access to and use of OpenCongress’s website (the “Site”), any of the information, text, graphics, videos or other materials created or provided by OpenCongress and appearing on the Site, (the “Content”), and any services provided through the Site, such as, but not limited to, RSS feeds and HTML “widgets” and code fragments (the “Services”), except where expressly noted. Your access to and use of the Site, Content, Services and/or User-Generated Content (as defined below) are expressly conditioned on your compliance with these Terms of Service. By accessing or using the Site, Content, Services or User-Generated Content you agree to be bound by these Terms of Service.
 
 Modification of Terms of Service
@@ -111,3 +117,29 @@ Entire Agreement
 These Terms of Service are the entire and exclusive agreement between OpenCongress and you regarding the Site, Content, Services and User-Generated Content and these Terms of Service supersede and replace any prior agreements between OpenCongress and you regarding the Site, Content, Services and User-Generated Content.
 
 _Last updated Feb. 23rd, 2009_. If you have any questions about these Terms of Service, please contact OpenCongress at .
+
+  
+  
+Licensing Terms
+
+OpenCongress site code is available available on github and is licensed under the GNU Public License (GPL), so we encourage you to contribute to our code and reuse it in non-commercial contexts, as long as attribution to OpenCongress is given.
+
+We encourage you to remix and excerpt our site and wiki content, as long as attribution to OpenCongress is given and you share your content as well. Our site content is licensed under the Creative Commons Attribution-Share Alike 3.0 US License, and our wiki content is licensed under the GNU Free Documentation License (GFDL).
+
+  
+  
+Privacy Policy
+
+The Sunlight Foundation values your privacy. When you trust us with your personal information, we take that responsibility seriously. Here’s what we hope is a readable summary of the most important parts of our Terms of Service and Privacy Policy:
+
+*   We will never sell, rent, share or distribute your personal information without your permission.
+*   We only collect and store your personal information for login purposes and in order to stay in touch with you.
+*   You can remove yourself from our systems whenever you want.
+*   We collect analytics about how people use our tools. We use that information to improve them, and we sometimes share it with reporters, funders and others. But we only share that information at an aggregate level. we never share information about individual users.
+*   If you use our APIs, we would like your permission to talk about it--this helps us secure the resources necessary to keep them going. If you don’t like the sound of this, you can opt out of it when you sign up for an API key.
+
+Also, hopefully this stuff goes without saying:
+
+*   Our tools sometimes link to other sites. We are not responsible for the privacy practices of those sites, and recommend you read their privacy policies for further information.
+*   We do our best to provide excellent, reliable and accurate information through our tools and services. But nobody’s perfect, and if you encounter a problem we’d like to hear about it from your bug report, not your lawyer. Everything we publish is offered as-is, without warranty or guarantee.
+*   We believe in open source, and we publish things under a variety of open licenses. But we have to protect our branding and trademarks. you shouldn’t use them to imply that your project is affiliated with us unless you’ve gotten our written permission to do so.
