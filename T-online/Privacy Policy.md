@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Facebook wertet Mauszeigerbewegungen seiner Nutzer aus
+*   Neue Jugendhomepage www.youngdata.de gibt Tipps zum Datenschutz
 *   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
 *   SPD und Union uneinig über Vorratsdatenspeicherung
-*   Facebook wertet Mauszeigerbewegungen aus - Jugendliche Nutzer wandern ab
 *   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
-*   Union will Gesetz für mehr Datensicherheit
 
 weniger Artikel weniger Artikel
 
+*   Union will Gesetz für mehr Datensicherheit
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
 *   EU-Parlamentsausschuss stimmt für Datenschutzreform
 *   Facebook-Verbot zwischen Lehrern und Schülern in Rheinland-Pfalz
-*   Ansturm Ursache für Datenpanne bei Bayreuther Festspielen
 
 *   Kundencenter
 *   Preise und AGB
