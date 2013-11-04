@@ -276,43 +276,39 @@ Log Into MySubaru | Help |
     
     *   More
     *   Overview
+    *   View a Brochure
     *   Dear Subaru
     *   Environment
     *   Corporate Responsibility
     
-*   Shopping Tools
+*   Financial Tools
     
     *   Special Offers
         
         See all the national deals for every Subaru model.
         
-    *   Local Inventory
+    *   Financing Options
         
-        See what your local Subaru dealer has available today.
+        Helpful information on financing or leasing your new Subaru.
         
-    *   Request a Quote
+    *   Trade-In Appraisal
         
-        Get the most precise number on the Subaru you want.
+        Get a quick look at how much your current vehicle is worth.
         
     
     *   Payment Calculator
         
         Estimate your monthly cost based on finance rate and trade-in.
         
-    *   Trade-In Appraisal
+    *   Guaranteed Trade-In Program
         
-        Get a quick look at how much your current vehicle is worth.
-        
-    *   Financing Options
-        
-        Helpful information on financing or leasing your new Subaru.
+        Trading up? Get the most value for your old Subaru.
         
     
     *   More
     *   Overview
-    *   Estimate Credit Score
     *   Extended Service Plans
-    *   View a Brochure
+    *   Estimate Credit Score
     
 *   For Owners
     
@@ -336,10 +332,6 @@ Log Into MySubaru | Help |
     *   Parts &. Service
         
         Shop parts, accessories &. tires online. Download Subaru parts brochures.
-        
-    *   Guaranteed Trade-In Program
-        
-        Trading up? Get the most value for your old Subaru.
         
     
     *   More
