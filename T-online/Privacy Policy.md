@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
+*   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
+*   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
+*   Land will Verbraucher vor Risiken beim Handy-Bezahlen schützen
 *   Gröhe deutet Kompromiss bei Vorratsdatenspeicherung an
 *   Facebook wertet Mauszeigerbewegungen aus
 *   Neue Jugendhomepage www.youngdata.de gibt Tipps zum Datenschutz
 *   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
+
+weniger Artikel weniger Artikel
+
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
 *   SPD und Union uneinig über Vorratsdatenspeicherung
-
-weniger Artikel weniger Artikel
-
 *   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
 *   Union will Gesetz für mehr Datensicherheit
 *   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
@@ -110,10 +114,6 @@ weniger Artikel weniger Artikel
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
 *   Europa macht Ernst beim Datenschutz
 *   Hessen: Kein Facebook-Verbot für Lehrer
-*   Land will Schülern und Lehrern Facebook-Kontakte nicht verbieten
-*   Weiterhin keine Facebook-Leitlinien an märkischen Schulen geplant
-*   Friedrich fordert Nachbesserungen bei neuen EU-Datenschutzregeln
-*   EU-Parlamentsausschuss stimmt für Datenschutzreform
 
 *   Kundencenter
 *   Preise und AGB
