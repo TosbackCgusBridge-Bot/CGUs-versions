@@ -96,12 +96,13 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 This file was last modified September 17, 2012
 
-*   Build a Website
+*   Create a Website
     *   Create a Website
     *   Features
     *   Customer Sites
     *   Design Gallery
     *   Get a Domain
+    *   Plans &. Pricing
 *   Sell Online
     *   How it Works
 *   Get Traffic
@@ -109,7 +110,7 @@ This file was last modified September 17, 2012
     *   Paid Search Ads
     *   WebListings
     *   Traffic Booster
-*   Let us Design Your Site
+*   Design it For You
     *   How it Works
     *   Sample Sites
 *   About Us
