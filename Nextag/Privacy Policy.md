@@ -9,7 +9,7 @@
 *   Sign out
 *   Help
 
-Search for: Show me results from Price Machine
+Search for:
 
 **Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective September 10, 2010  
 
