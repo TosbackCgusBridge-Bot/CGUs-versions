@@ -18,10 +18,11 @@ Skip to main content USA Network USA Shows Shows close
 *   Suits
 *   Summer Camp
 *   White Collar
-*   WWE Monday Night Raw
+*   WWE Raw
 
 Full Episodes Social Schedule More More on USA close
 
+*   Apps
 *   Character Arcade
 *   Characters Unite
 *   Movies
