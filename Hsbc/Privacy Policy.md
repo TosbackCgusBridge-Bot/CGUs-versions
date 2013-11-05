@@ -66,7 +66,7 @@ Menu Explore HSBC.com Search
     
     *   Investing in HSBC
         *   Annual General Meeting
-        *   Upcoming financial information
+        *   Latest financial information
         *   Credit ratings
         *   Investor update 2013
         *   Investor Day 2012
