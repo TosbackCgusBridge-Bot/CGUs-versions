@@ -1,6 +1,6 @@
 Privacy Policy
 
-This Privacy Policy was last updated on or about April 10th, 2013.
+This Privacy Policy was last updated on or about 2013.
 
 E! Entertainment Television, LLC (E!), a company incorporated under Delaware law, with its registered address at 1209 Orange Street, Wilmington, Delaware 19801, is responsible for the contents of this Website or Mobile App.
 
@@ -60,7 +60,7 @@ You may be able to take part in certain activities on the Website or games that 
 *   chat with other users
 *   post photos
 
-The contents of any such private online communications may be accessed and disclosed (i) in response to a legal requirement such as a court order. (ii) when we are required to disclose the information in response to such a legal requirement. (iii) where we have a good faith belief that the Website is being used in the commission of a crime. (iv) where we have a good faith belief that there is an emergency which poses a threat to the safety of you or another person. and (v) when necessary either to protect our rights (including to enforce our terms of service) or for us to provider the service you have requested.
+The contents of any such private online communications may be accessed and disclosed (i) in response to a legal requirement such as a court order. (ii) when we are required to disclose the information in response to such a legal requirement. (iii) where we have a good faith belief that the Website is being used in the commission of a crime. (iv) where we have a good faith belief that there is an emergency which poses a threat to the safety of you or another person. and (v) when necessary either to protect our rights (including to enforce our terms of service) or for us to provide the service you have requested.
 
 **Wireless Applications**
 
