@@ -47,7 +47,7 @@ We collect information in two ways:
     
     If we provide you with any mailings or other communication, you can always opt out of that communication.
     
-    You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled.
+    You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, itâ€™s important to remember that many of our services may not function properly if your cookies are disabled.
     
     You have the right to remove your personal information from our databases. To do this, please delete your Mashable account. If you have any problems or questions, please let us know by contacting us here support@mashable.com and we will assist you with the process of deleting your account. For security purposes will not process any deletion requests via email. Deleting your Mashable account personally allows us to verify your identity.
     
@@ -79,7 +79,7 @@ We collect information in two ways:
     
     Children Under 13
     
-    Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child's information on our site, please contact us at support@mashable.com
+    Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your childâ€™s information on our site, please contact us at support@mashable.com
     
     Our Services are Located in the United States
     
