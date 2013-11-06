@@ -25,7 +25,6 @@ Zynga Play now!
     *   CityVille
     *   FarmVille
     *   Pioneer Trail
-    *   Zynga Poker
     *   Words with Friends
     *   Mafia Wars
     *   Facebook Games
@@ -379,7 +378,6 @@ Games
 *   CityVille
 *   FarmVille
 *   Pioneer Trail
-*   Zynga Poker
 *   Words with Friends
 *   Mafia Wars
 *   Facebook Games
