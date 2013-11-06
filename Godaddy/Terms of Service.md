@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: November 4, 2013**
+**Last Revised: November 5, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -221,7 +221,7 @@ Refund Policy:  Products and Services available for refunds are described here 
 
 Annual Plans:  Any product purchased for 1 year or greater will be considered an annual plan under the terms of this policy.  Within forty five (45) days, you may request a full refund of the purchase price of the product. After forty five (45) days, you may request an in-store credit for any unused time remaining on your annual plan. Unused time will be pro-rated based on the date of original purchase and, for renewals, the anniversary date of the original purchase date of the product (this is referred to as the Service Date).
 
-Monthly Plans:  Any product purchased for less than 1 year will be considered a monthly plan under the terms of this policy.  Within forty eight (48) hours, you may request a full refund of the purchase price of the product. After forty eight (48) hours, you may request an in-store credit for any unused time remaining on your monthly plan excluding the day in which the refund is requested.  Unused time will be pro-rated based on the date of original purchase and, for renewals, the monthly scheduled renewal date based on the original purchase date of the product (this is referred to as the Service Date). 
+Monthly Plans:  Any product purchased for less than 1 year will be considered a monthly plan under the terms of this policy.  Within forty eight (48) hours, you may request a full refund of the purchase price of the product. After forty eight (48) hours, you may request an in-store credit for any unused time remaining on your multi-monthly plan excluding the month in which the refund is requested.  Single month plans are not eligible for refunds after forty eight (48) hours.  Unused time will be pro-rated based on the date of original purchase and, for renewals, the monthly scheduled renewal date based on the original purchase date of the product (this is referred to as the Service Date). 
 
 In no event will you be eligible for more than one refund of the same product. 
 
@@ -770,5 +770,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 11/4/2013  
+Revised: 11/5/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
