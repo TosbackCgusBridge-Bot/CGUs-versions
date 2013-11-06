@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
 *   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Gröhe deutet Kompromiss bei Vorratsdatenspeicherung an
 *   Facebook wertet Mauszeigerbewegungen aus
 *   Neue Jugendhomepage www.youngdata.de gibt Tipps zum Datenschutz
-*   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
 
 weniger Artikel weniger Artikel
 
+*   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Facebook an der Saar nicht als schulische Lernplattform erlaubt
 *   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
 *   Europa macht Ernst beim Datenschutz
-*   Hessen: Kein Facebook-Verbot für Lehrer
 
 *   Kundencenter
 *   Preise und AGB
