@@ -1,4 +1,4 @@
-Skip to main content **eLearners.com** Sign In | Register 
+Skip to main content **eLearners.com** Sign In  
 
 *   Online Degrees
 *   Online Certificates
