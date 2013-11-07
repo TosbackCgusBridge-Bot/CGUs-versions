@@ -147,7 +147,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 We may use information held about you in the following ways:
 
 *   to ensure that the Digital Offering's content is presented in the most effective manner for you and for your computer
-*   to provide you with information, products or services that you request from us or which we feel may interest you. if you would prefer not to have your email address used in this way please let us know by sending an email to sitefeedback@haymarket.com
+*   to provide you with information, products or services that you request from us or which we feel may interest you. if you would prefer not to have your email address used in this way please let us know by sending an email to sitefeedback@haymarket.com.
 *   to allow you to participate in interactive features of our service where you
 *   to allow you to participate in interactive features of our service where you choose to do so;
 *   to notify you about changes to our service.
