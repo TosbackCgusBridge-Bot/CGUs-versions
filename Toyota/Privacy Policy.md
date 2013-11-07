@@ -10,7 +10,7 @@
     *   Corolla $16,800 starting msrp 1 28/37 est. mpg 2 $19,000 as shown Explore Build
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
     *   Camry $22,235 starting msrp 1 25/35 est. mpg 2 Explore Build
-    *   Avalon $30,990 starting msrp 1 21/31 est. mpg 2 Explore Build
+    *   Avalon $31,340 starting msrp 1 21/31 est. mpg 2 Explore Build
     *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
     *   Tacoma $17,875 starting msrp 1 21/25 est. mpg 2 $31,670 as shown Explore Build
