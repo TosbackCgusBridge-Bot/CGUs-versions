@@ -91,29 +91,29 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Kundendaten von Sky Deutschland entwendet
+*   Kundendaten von Sky Deutschland entwendet
+*   Friedrich blitzt mit Maut-Späh-Plänen ab
+*   Datenschützer Schaar gegen Nutzung des Mautsystems für Überwachung
+*   Union will Zugriff auf Maut-Daten - auch für Pkw
+*   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 *   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
 *   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
+
+weniger Artikel weniger Artikel
+
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Land will Verbraucher vor Risiken beim Handy-Bezahlen schützen
 *   Gröhe deutet Kompromiss bei Vorratsdatenspeicherung an
 *   Facebook wertet Mauszeigerbewegungen aus
 *   Neue Jugendhomepage www.youngdata.de gibt Tipps zum Datenschutz
-
-weniger Artikel weniger Artikel
-
 *   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
 *   SPD und Union uneinig über Vorratsdatenspeicherung
 *   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
-*   Union will Gesetz für mehr Datensicherheit
-*   Facebook-Freundschaften zwischen Lehrern und Schülern: Das sagen Experten
-*   Facebook an der Saar nicht als schulische Lernplattform erlaubt
-*   Facebook an der Saar nicht als schulische Lernplattform erlaubt
-*   Lehrerverband kritisiert schulisches Facebook-Verbot für Lehrer
-*   Europa macht Ernst beim Datenschutz
 
 *   Kundencenter
 *   Preise und AGB
