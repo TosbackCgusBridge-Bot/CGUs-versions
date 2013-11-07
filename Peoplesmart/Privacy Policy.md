@@ -1,4 +1,4 @@
-Please enable JavaScript to use this site. To enable JavaScript, edit your browser settings. Sign In Join **About Us** Search     PeopleSmart Privacy Center >. Privacy Policy About Us
+Please enable JavaScript to use this site. To enable JavaScript, edit your browser settings. Sign InJoin**About Us**Search    PeopleSmart Privacy Center >. Privacy Policy About Us
 
 *   What Is PeopleSmart
 *   What You Can Do
@@ -66,6 +66,6 @@ To Unsubscribe from Email Communications
 If you would like to stop receiving newsletters and marketing message emails from PeopleSmart.com, please provide us with the email address you would like to unsubscribe by emailing privacy@peoplesmart.com or calling  
 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
 
-        Home Sitemap Privacy Policy Common Uses Court Records County Records Criminal Records Blog Professional Solutions Join **Follow PeopleSmart:**
+        HomeSitemapPrivacy PolicyCommon UsesCourt RecordsCounty RecordsCriminal RecordsBlogProfessional SolutionsJoin **Follow PeopleSmart:**
 
-**All rights reserved © 2013 PeopleSmart** PeopleSmart is designed to help you safely find people and learn about others. Find someone by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the guidelines of the Fair Credit Reporting Act. To learn more, read our Terms of Service and Privacy Policy. Verisign TRUSTe WAF Profile info: \* search type: PeopleByName
+**All rights reserved © 2013 PeopleSmart** PeopleSmart is designed to help you safely find people and learn about others. Find someone by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the guidelines of the Fair Credit Reporting Act. To learn more, read our Terms of Service and Privacy Policy. VerisignTRUSTe WAF Profile info: \* search type: PeopleByName
