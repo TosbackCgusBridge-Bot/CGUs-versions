@@ -251,9 +251,13 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Helix First Look Trailer Helix First Look Trailer
+Syfy Video Adewale Akinnuoye - Agbaje Exclusive Intervie ... Adewale Akinnuoye - Agbaje Exclusive Interview on Thor: The Dark World
 
-Get your first look at Helix premiering January 10 at 10/9c.
+Adewale Akinnuoye - Agbaje talks about his two roles in the new movie Thor: The Dark World.
+
+Blastr Origin Stories: Samuel L Jackson on Ni ... Blastr Origin Stories: Samuel L Jackson on Nick Fury
+
+Samuel L Jackson explains those first moments of creating Nick Fury, how he first found his comic doppelganger and that scar!
 
 Small Roles, Big Impact! Small Roles, Big Impact!
 
@@ -262,10 +266,6 @@ Nicki Clyne shows us that size doesn't matter. Here are some of the favorite sma
 Blastr Origin Stories: Neil Gaiman on Sandman Blastr Origin Stories: Neil Gaiman on Sandman
 
 Neil Gaiman reveals the story behind the creation of Sandman and its 25th anniversary.
-
-Bar Wars: The Best Tequila Wormholes in the G ... Bar Wars: The Best Tequila Wormholes in the Galaxy!
-
-Nicki Clyne guides you through our favorite bars in the Scifi universe.
 
 *   FAQ
 *   Feedback
