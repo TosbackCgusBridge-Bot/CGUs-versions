@@ -117,7 +117,7 @@ If you have any questions, you can contact us through our contact form.
 
 If you have questions or other inquiries, please use our email form
 
-Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
+Business contact Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
 
 Y8.com project : free videos, animation, music, photo and games storage started year 2006.
 
