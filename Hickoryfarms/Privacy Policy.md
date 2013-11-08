@@ -17,6 +17,7 @@ Your Cart(0) Catalog Navigation
     *   Military Gifts
     *   Birthday Gifts
     *   New Product Showcase
+    *   Sweets
     *   Top Sellers
     
 *   Shop By Price
@@ -42,6 +43,7 @@ Search Catalog Search Menu Search Stores Cart
     *   Military Gifts
     *   Birthday Gifts
     *   New Product Showcase
+    *   Sweets
     *   Top Sellers
     
 *   Shop By Price
