@@ -331,7 +331,7 @@ Sie können Ihre Mitgliedschaft bei einestages durch schriftliche Mitteilung an 
 (7)  
 Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
 
-Diesen Artikel...
+Zur Startseite Diesen Artikel...
 
 *   Drucken
 *   Nutzungsrechte
@@ -348,6 +348,7 @@ Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 *   Donnerstag, 12.08.2010 – 11:29 Uhr
 *   Drucken
 *   Nutzungsrechte Feedback
+*   Zur Startseite
 
 Gliederung
 
