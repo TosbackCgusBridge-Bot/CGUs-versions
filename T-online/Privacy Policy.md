@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
 *   Kundendaten von Sky Deutschland entwendet
 *   Kundendaten von Sky Deutschland entwendet
 *   Friedrich blitzt mit Maut-Späh-Plänen ab
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Union will Zugriff auf Maut-Daten - auch für Pkw
 *   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 *   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
-*   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
 
 weniger Artikel weniger Artikel
 
+*   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Land will Verbraucher vor Risiken beim Handy-Bezahlen schützen
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
 *   SPD und Union uneinig über Vorratsdatenspeicherung
-*   "Strassensheriff-App" ruft Datenschutzbeauftragten auf den Plan
 
 *   Kundencenter
 *   Preise und AGB
