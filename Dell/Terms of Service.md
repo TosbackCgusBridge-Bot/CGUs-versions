@@ -41,7 +41,7 @@ The Dell 2020 Legacy of Good Plan Política de devoluciones en EE. UU. U.S. Retu
 
 Service Contracts
 
-Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After Remote Diagnosis, Rapid Return for Repair after Remote Diagnosis, Parts Only and Advance Exchange) Dell Tech Concierge Service (Free Trial and Subscription) Dell Preventative Maintenance View More Warranties
+Service Contracts for Consumer Customers Dell Consumer Hardware Service Agreement (for 10–14 Day Mail-in Service After Remote Diagnosis, Rapid Return for Repair after Remote Diagnosis, Parts Only and Advance Exchange) Dell Tech Concierge Service (Free Trial and Subscription) View More Warranties
 
 Warranties
 
