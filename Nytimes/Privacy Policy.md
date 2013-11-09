@@ -261,12 +261,44 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Blue," through lesbian eyes
+Search Help Watch Now: The view from the $100 million penthouse
 
-Also in Style »
+Also in Video »
 
-*   Bill Cunningham | Costumery
-*   Marathon style
+*   "I have smoked crack cocaine," Toronto's mayor admits on camera
+*   Bill de Blasio's path to mayoral success
+
+  
+Watch Now: 3 reasons Twitter may be a risky investment
+
+Also in Video »
+
+*   In Venezuela, women are confronted with a culture of plastic surgery
+*   Twitter's I.P.O., by the numbers
+
+  
+Watch Now: Intersection | Style on Dutch wheels
+
+Also in Video »
+
+*   Discover fall style in Boston
+*   Paris Fashion Week could easily be called the greatest show on earth
+
+  
+Watch Now: Melissa Clark makes a delicious and fluffy cake topping
+
+Also in Video »
+
+*   How to cook a steak
+*   Molten cake, "The Big Mac of Desserts"
+
+  
+Richard Curtis narrates a scene from "About Time"
+
+Also in Video »
+
+*   Nicholas Sparks talks about what makes a great novel
+*   The art of the street photograph as told by Neal Boenzi
 
   
 
