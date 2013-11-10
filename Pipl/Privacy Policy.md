@@ -24,11 +24,11 @@ Pipl's search results are links to third party websites or to a cached copy of t
 
 **Advertising and promotions**  
 Pipl may display targeted ads and other relevant information, when you are using Pipl's service.  
-Information that relates to specific advertising campaign on Pipl will be provided to advertisers only in an aggregate form, no personal information about the person who viewed an ad will be provided.  
+Information that relates to a specific advertising campaign on Pipl will be provided to advertisers only in an aggregate form, no personal information about the person who viewed an ad will be provided.  
 Some of our ads are served via third party ad-networks such as Google, in this case we do not provide the advertisers with any targeting information and the ads are served directly by the ad-network to you.
 
 **Disclaimer**  
-We reserves the right to disclose information to third parties if we believe we are required to do so by law or have a good faith belief that such access or disclosure is reasonably necessary to:  
+We reserves the right to disclose information to third parties if we believe we are required to do so by law or have a good-faith belief that such access or disclosure is reasonably necessary to:  
 \* Satisfy any applicable law, regulation, legal process or governmental request;  
 \* Enforce Pipl's Terms of Use, including investigation of potential violations thereof;  
 \* Detect, prevent, or otherwise address fraud, security or technical issues  
