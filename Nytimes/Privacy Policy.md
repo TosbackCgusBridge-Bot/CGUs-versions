@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Marvel Comics introducing a Muslim girl superhero
+Search Help In "The Counselor," fashions and furnishings play a pivotal role
 
-Also in Arts »
+Also in Fashion »
 
-*   For vinyl collectors, a $482,000 bargain on eBay
-*   Nominees named for Clive Barnes Awards
+*   Tilda Swinton saluted by MoMA and a starry guest list
+*   Ghesquière named Vuitton women's design director
 
   
 
