@@ -21,7 +21,7 @@ Zynga Play now!
     *   Bubble Safari
     *   Slots
     *   CastleVille
-    *   Hidden Chronicles
+    *   Hidden Shadows
     *   CityVille
     *   FarmVille
     *   Pioneer Trail
@@ -374,7 +374,7 @@ Games
 *   Bubble Safari
 *   Slots
 *   CastleVille
-*   Hidden Chronicles
+*   Hidden Shadows
 *   CityVille
 *   FarmVille
 *   Pioneer Trail
