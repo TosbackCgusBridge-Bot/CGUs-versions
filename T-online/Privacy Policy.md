@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Telekom arbeitet an Allianz für deutsches Internet
+*   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
+*   Telekom will Allianz der Netzbetreiber für deutsches Internet
 *   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
 *   Kundendaten von Sky Deutschland entwendet
 *   Kundendaten von Sky Deutschland entwendet
 *   Friedrich blitzt mit Maut-Späh-Plänen ab
 *   Datenschützer Schaar gegen Nutzung des Mautsystems für Überwachung
 *   Union will Zugriff auf Maut-Daten - auch für Pkw
-*   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 
 weniger Artikel weniger Artikel
 
+*   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 *   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
 *   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
-*   Nordost-Länder planen enge Kooperation ihrer IT-Dienstleister
 
 *   Kundencenter
 *   Preise und AGB
