@@ -1,15 +1,7 @@
-          Your zone to play free online games Join or Log in Welcome  
-Newbie   Level 1 0 points
-
-*   Profile|
-*   Notifications0|
-*   My Faves|
-*   Log Out
-
-Search
+Your zone to play free online games Join or Login
 
 *   Home
-*   Social Games
+*   Social games
 *   Racing
 *   Action
 *   MMO
@@ -18,16 +10,14 @@ Search
 *   Girls
 *   Adventure
 *   War Games
-*   Skateboarding
-*   Puzzle
-*   Board &. Card
-*   Sonic Games
-*   AWARDS
-*   HIGH SCORES
-*   Mobile Games
+*   More
+    *   Board &. Card
+    *   Sonic Games
+    *   Awards
+    *   High scores
+    *   Mobile games
 
-Home Privacy Policy  
-  Privacy Policy
+*   Home
 
 **PRIVACY POLICY**
 
@@ -63,7 +53,9 @@ The information that our Websites collect includes (among others) the following:
 
 2.5    SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.
 
-2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookies opt-out page or the link to the European Interactive Digital Advertising Alliance (EDAA) opt-out page. However, some features and services may not function properly if cookies are disabled.
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies, or to indicate when a cookie is sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie opt-out page or the link to the European Interactive Digital Advertising Alliance (EDAA) opt-out page. However, keep in mind that some features and services may not function properly if cookies are disabled.
+
+**b)   ** **Personal Data, Including Your E-mail Address**
 
 2.7    You may choose to register with us for a better game experience and/or to create a public or semi-public profile for participating in our social gaming network. This includes, for example: overviews of high scores, achievements listings, and individual game recommendations on the Websites. When you register with us, you provide us with certain personal information, such as a username, date and month of birth, and your email address. The information you disclose in that respect may also become publicly accessible. We provide you with privacy settings that restrict other users from accessing your information. namely, our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We allow you to choose the information you provide to friends and networks through our Websites. When your privacy settings permit it, other users may be able to see and supplement your profile (e.g., by posting comments).
 
@@ -135,42 +127,107 @@ If you have any additional questions or requests, you may send an email to info@
 
 100209
 
-Best Games
-
-*   Snail Bob
-*   Flakboy 2
-*   Bloons Tower Defense 3
-*   Lose the Heat 2
-*   Uphill Rush 3
-
-Best Game Types
-
-*   Skateboarding
-*   cool-math-games
-*   Baseball
-*   War Games
-*   Bubble Shooter
-
-Other game sites
-
-*   Online Games
-*   Dress up games
-*   Games
-*   Mobile Games
-*   A10 Games
-
-Partners
-
-*   Online Games
-
-  
+*   Best Games
+    *   Snail Bob
+    *   Flakboy 2
+    *   Bloons Tower Defense 3
+    *   Lose the Heat 2
+    *   Uphill Rush 3
+*   Best Game Types
+    *   Skateboarding
+    *   cool-math-games
+    *   Baseball
+    *   War Games
+    *   Bubble Shooter
+*   Other game sites
+    *   Online Games
+    *   Dress up games
+    *   Games
+    *   Mobile Games
+    *   A10 Games
+*   Partners
+    *   Online Games
 
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.  
   
 Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?
 
-  SPIL GAMES © 2013
+Spil Games © 2013
 
-Terms of Use | Privacy Policy | Privacy Policy, Kids &. Parents
+*   Terms of Use
+*   Privacy Policy
+*   Privacy Policy, Kids &. Parents
 
-About Us | Advertise with Us | Submit a Game | Get Free Games | Help &. Contact | Cookies
+*   About Us
+*   Advertise with Us
+*   Submit a Game
+*   Get Free Games
+*   Help &. Contact
+
+*   Connect and play with friends
+*   Set high scores and win awards
+*   Design your own unique avatar
+
+Just sign up... Use your social network or What name do you wat to represent you here? Your username must be at least 3 characters. Sorry, you can't use that. Pick something else. Your username may only use letters, numbers, hyphens, and underscores. Sorry, this username's already taken! But these aren't: We'll keep this private! This is not a valid e-mail address. Please try again We know this email...have you already joined?  
+Log in or get a new password. Pick something safe with at least 6 characters! You need a password with at least 6 characters Birthdate MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDayYearWhen were you born? This is not a valid date of birth. Please try again Sorry, but we can’t make an account for you. Gender Boy Girl
+
+I have read and agree to the Privacy Policy and Terms of Use of Agame.com
+
+Play Now!   Close Already have an account? Log in here Done Close Congratulations \[username\]!
+
+You're now officially a member of **Agame.com!**
+
+Now you have access to all our features!
+
+Welcome to the world of better gaming.
+
+Play now Done Close Congratulations \[username\]!
+
+You're now officially a member of **Agame.com!**
+
+Now you have access to all our features!
+
+Welcome to the world of better gaming.
+
+Let's start and create an avatar!
+
+Create an avatar or Pick an Avatar Successfully linked Close Your account is linked!
+
+From now on you can login with your social network account or your Agame.com account.
+
+Play now Successfully linked Close Your account is linked!
+
+From now on you can login with your social network account or your Agame.com account.
+
+Close Successfully linked Close Your account is linked!
+
+From now on you can login with your social network account or your Agame.com account.
+
+Create an avatar or Close pop-up Log In Use your social network or Sorry, we couldn't log you in. Please try again.
+
+Forgot your username or password?
+
+Keep me logged in on this computer. Log in   No account yet? Join for FREE! Connection error Uh oh!
+
+There's been a connection error. Please try again.
+
+Try again Close Link accounts Hey , do we already know each other?
+
+Unfortunately we can not link your agame.com account to your account.
+
+Close Could not create your account. Uh oh!
+
+Something went wrong while setting up your new account. Please try again.
+
+Almost done... We need some additional info.
+
+Hey , do we already know each other?  
+If you already have a agame.com account, we can link it to your account!
+
+What name do you wat to represent you here?  
+To protect your privacy, do not include your  
+real name in your username. Your username must be at least 3 characters. Sorry, you can't use that. Pick something else. Your username may only use letters, numbers, hyphens, and underscores. Sorry, this username's already taken! But these aren't: We'll keep this private! This is not a valid e-mail address. Please try again We already know this email.. Please supply your password so we can link your account. Please enter your password so we can link your account Your password was incorrect, please try again. Birthdate MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDayYearWhen were you born? This is not a valid date of birth. Please try again Gender Boy Girl
+
+I have read and agree to the Privacy Policy and Terms of Use of Agame.com
+
+Play Now!
