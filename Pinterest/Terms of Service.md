@@ -141,11 +141,3 @@ _No Waiver._ No waiver of any term of these Terms shall be deemed a further or c
 More simply put:
 
 These three passages are part of just about every online terms agreement. Basically, they ensure that a deal is a deal when you're using a site, including Pinterest.
-
-_U.S. Government Agencies:_ If you are a United States federal government agency, your use of Pinterest is subject to our Business Terms of Service and this amendment.
-
-_U.S. State and Local Government Agencies:_ If you are a state or local government agency in the United States, this amendment applies to these Terms.
-
-More simply put:
-
-If you're from the government, we'd love to help.
