@@ -27,8 +27,8 @@ Skip to Main Content Toggle search
     *   Book a Speaker
     *   Request Permissions
 *   Support
-    *   Foundation Grants
-    *   Major Gifts
+    *   Institutional Giving
+    *   Individual Giving
     *   NPR Foundation
     *   Corporate Sponsorship
 *   Press
