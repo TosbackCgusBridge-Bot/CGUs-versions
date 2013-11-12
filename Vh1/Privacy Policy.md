@@ -24,7 +24,7 @@
     *   You Oughta Know In Concert
 
 *   Follow VH1
-    
+    *   IFrames are not supported
     *   Follow
     
 
