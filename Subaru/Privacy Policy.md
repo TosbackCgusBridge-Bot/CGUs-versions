@@ -92,8 +92,8 @@ Log Into MySubaru | Help |
         
         WRX Premium shown
         
-        Introducing the  
-        Subaru WRX Concept
+        See the 2015 WRX  
+        at the L.A. Auto Show
         
     *   Legacy
         
