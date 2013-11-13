@@ -58,7 +58,7 @@ Symptoms| Doctors| Health Care Reform
     
     *   Find or Review a Drug
     *   Find or Review a Vitamin or Supplement
-    *   Find Drug Coupons
+    *   Save My Medicine
     
     Drug Basics &. Safety
     
