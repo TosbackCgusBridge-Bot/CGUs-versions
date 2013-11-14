@@ -371,6 +371,7 @@ Contact
 Games
 
 *   Play on Zynga.com
+*   Poker
 *   Bubble Safari
 *   Slots
 *   CastleVille
