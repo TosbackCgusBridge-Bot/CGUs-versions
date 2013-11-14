@@ -1,5 +1,5 @@
-**Effective June 4, 2013 Learn More**Web Services Privacy Policy  
-June 4, 2013
+**Effective October 17, 2013 Learn More**Web Services Privacy Policy  
+October 17, 2013
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for http://m.comcast.net and the XfinityTV Player mobile application, please click here. http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html
 
@@ -215,7 +215,7 @@ If you are a registered user, Comcast may use Your Data, regardless of where we 
 
 The advertising networks and/or content providers that deliver ads on the Comcast Web Services may use HTTP cookies and Flash cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared. In addition, the third parties that provide Web Log services for Comcast may use cookies to uniquely distinguish your web browser and to keep track of the Websites that your web browser visits across the service provider's network of Websites. For more information on controlling HTTP cookies, please visit our "Customer Control" FAQ here. Cookie management tools provided by your browser may not affect Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
 
-Some of these companies may combine information they collect from the Comcast Web Services with other information they have independently collected relating to your web browser's activities across their network of Websites. These companies collect and use this information under their own privacy policies. More information about these companies, their privacy policies, and the opt-outs they offer can be found here:
+Some of these companies may combine information they collect from the Comcast Web Services with other informationthey have independently collected relating to your web browser's activities across their network of Websites.These companies collect and use this information (which may include personally identifiable information or information that can be used to contact you online) under their own privacy policies. More information about thesecompanies, their privacy policies, and the opt-outs they offer can be found here:
 
 Content providers that sell ads on the Comcast Web Services
 
@@ -320,4 +320,4 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 
 You can find customer support and help information at http://customer.comcast.com/Pages/Help.aspx. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your device's or network's settings, or collect information from your device or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: June 4, 2013
+Revised and Effective: October 17, 2013
