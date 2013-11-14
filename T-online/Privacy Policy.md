@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Weiter Wirbel um Debeka - Tausende Beamte sollen Tipps gegeben haben
 *   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
 *   Telekom will Allianz der Netzbetreiber für deutsches Internet
 *   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Kundendaten von Sky Deutschland entwendet
 *   Friedrich blitzt mit Maut-Späh-Plänen ab
 *   Datenschützer Schaar gegen Nutzung des Mautsystems für Überwachung
-*   Union will Zugriff auf Maut-Daten - auch für Pkw
 
 weniger Artikel weniger Artikel
 
+*   Union will Zugriff auf Maut-Daten - auch für Pkw
 *   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 *   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
 *   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
@@ -112,7 +113,6 @@ weniger Artikel weniger Artikel
 *   Facebook wertet Mauszeigerbewegungen aus
 *   Neue Jugendhomepage www.youngdata.de gibt Tipps zum Datenschutz
 *   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
-*   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 *   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 
 *   Kundencenter
