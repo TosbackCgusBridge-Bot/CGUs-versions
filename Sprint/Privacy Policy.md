@@ -1,4 +1,4 @@
-Last updated: September 3, 2013
+Last updated: November 12, 2013
 
 IMPORTANT NOTICE: Sprint's opt-in Mobile Advertising program, which makes the mobile ads you see on your device more relevant to you, and Sprint's opt-out Reporting and Analytics program, which creates and shares certain business and marketing reports, are governed by this privacy policy. We do not share any information that identifies you personally under either of these programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.  
 (En Español)
@@ -12,6 +12,7 @@ This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will 
 *   INFORMATION WE SHARE
 *   NETWORK AND INFORMATION SECURITY
 *   INFORMATION CHOICES AND CHANGES
+*   CHILDREN
 *   CONTACTING US
 *   UPDATING THIS POLICY
 *   YOUR CALIFORNIA PRIVACY RIGHTS
@@ -86,6 +87,12 @@ We offer you choices regarding how we contact you for marketing-related communic
 You also may register a do-not-contact request by calling Sprint customer care or sending an email to officeofprivacy@sprint.com. If you register a do-not-contact request, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your accounts or our ongoing business relations. For details on Sprint’s do-not-contact practices, including how we honor consumer and business customer do-not-contact requests, please visit sprint.com/privacy.
 
 If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Sprint account information, you may create an online account and manage your account online. For more information, visit www.sprint.com.
+
+Back to top
+
+CHILDREN
+
+You must be 18 to subscribe to Sprint services. Nevertheless, as part of the Unlimited, My Way Student Promotion, a parent or legal guardian may provide a Sprint device to a child under the age of 13. In such cases, Sprint takes steps to minimize the data it collects from Sprint applications on the device and provides parents resources to control the information children can share with other parties. In some instances, a parent may be able to review or request deletion of the personal information collected from a child's device, or take steps to prevent further collection of such information. If you have any questions about Sprint's policies for student phones or about how to control the information collected on them from users under 13, or if you wish to correct or delete any personal information provided to Sprint on a student phone used by a child under 13, you can contact us using the contact information below. You may also control the content your child may access by logging into sprint.com/manage, and reviewing the My Preferences tab.
 
 Back to top
 
