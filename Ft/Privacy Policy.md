@@ -24,6 +24,7 @@ Remember me on this computer Sign in
     *   Clippings
     *   Alerts hub
     *   Commenting
+    *   Gift Article
     *   RSS
     *   Press Cuttings
     *   Social media Q&A
