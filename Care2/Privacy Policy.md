@@ -2,7 +2,7 @@
   
      Privacy Policy
 
-Last Updated: 03/02/2013
+Last Updated: 11/11/2013
 
 Care2 takes seriously the issue of safeguarding your privacy online. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you use our many offerings.
 
@@ -124,13 +124,19 @@ Care2 offers a variety of direct e-mail subscriptions describing our site progre
 
 Does Care2 use cookies?
 
-Yes, cookies are used on Care2 in two ways.
+Yes, cookies are used on Care2 in sevaral ways.
 
 (1) We use cookies to be reminded of whom you are and to access your account information (stored on our computers) to deliver a better and more personalized service to you.
 
+(2) The use of cookies by our \[partners, affiliates, tracking utility company, service providers\] and advertising networks serving ads onto Care2 may also use cookies. Care2 has no control over information collected by advertising networks nor can we access this information.
+
 (3) We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
 
-Your browser cookie may expire when you end your session or may persist, depending on your login "remember me" settings. We may also, from time to time, log visitor activity across the web site on our web server system logs. If you elect to disable cookies on web browser you may be unable to use certain Care2 site features that require membership, such as accessing your email account, viewing member profiles, and changing your user preferences.
+If you elect to disable cookies on web browser, you may be unable to use certain Care2 site features that require membership, such as accessing your email account, viewing member profiles, and changing your user preferences.
+
+(4) We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://aboutads.info/choices or http://www.networkadvertising.org/managing/opt\_out.asp.
+
+Additionally, emails we send may contain a bit of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
 
 What tracking technologies does Care2 use?
 
