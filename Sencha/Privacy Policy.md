@@ -1,33 +1,62 @@
-Skip Navigation
+*   Blog
+*   Forum
+*   Contact Us
 
 *   Products
-    *   Sencha Complete
-    *   Sencha Touch Bundle
-    *   Sencha Touch
-    *   Sencha Ext JS
-    *   Sencha GXT
-    *   Sencha Architect
-    *   Sencha Animator
-    *   Sencha Space
+    
+    *   Why Sencha
+    *   Integrated Products
+        *   Sencha Complete
+        *   Sencha Touch Bundle
+    *   Frameworks
+        *   Sencha Touch
+        *   Sencha Ext JS
+        *   Sencha GXT
+    
+    *   Tools
+        *   Sencha Architect
+        *   Sencha Animator
+    *   Management
+        *   Sencha Space
+    
+*   Services
+    
+    *   *   Overview
+        *   Find a Partner
+        *   Find a Developer
+    
 *   Support
-    *   Sencha Care
-    *   Sencha Services
-    *   FAQ
+    *   Overview
+    *   FAQs
+    *   Login
 *   Training
-    *   Open Enrollment
-    *   Courses
-    *   Sencha Certification Program
+    *   Overview
+    *   Certification
+    *   Open Enrollment Courses
+    *   Live Online Training
+    *   Private On-Site Training
+*   Partners
+    *   Overview
+    *   Benefits
+    *   Partners
+    *   Become a Partner
+    *   Resellers
+*   Community
+    *   Blog
+    *   Forum
+    *   Documentation
+    *   Sencha Devs
+    *   Sencha Market
+    *   Sencha Try
+    *   App Gallery
 *   Company
     *   Overview
     *   Team
-    *   Careers
-    *   Events
-    *   Press
-    *   Partners
-    *   Contact
     *   Customers
-*   Blog
-*   Contact
+    *   Events
+    *   News
+    *   Careers
+    *   Contact Us
 *   Store
     *   Sencha Complete
     *   Sencha Touch Bundle
@@ -39,25 +68,6 @@ Skip Navigation
     *   Ordering Information
     *   Licensing FAQ
     *   Authorized Resellers
-
-*   Log in / Register Username Password Log in Remember Me? Register for a Sencha account »
-*   Forum
-*   App Gallery
-*   Developers
-    *   Developer Center
-    *   Sencha Devs
-    *   Sencha Market
-    *   Sencha Try
-*   Documentation
-    *   Ext JS 4
-    *   Ext JS 3
-    *   Sencha GXT 3
-    *   Sencha Touch 2
-    *   Sencha Touch 1
-    *   Touch Charts
-    *   Sencha Architect
-    *   Sencha Animator
-*   Cart 0
 
 Home / Legal Privacy Policy
 
@@ -175,48 +185,43 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Animator
     *   Sencha Space
 
+*   Services
+    *   Find a Partner
+    *   Find a Developer
 *   Support
-    *   Sencha Services
     *   FAQ
+    *   Login
 *   Training
-    *   Courses
-    *   Sencha Certification Program
-*   Developer Center
-*   Sencha Devs
-*   Sencha Market
-*   Sencha Try
+    *   Overview
+    *   Certification
+    *   Open Enrollment Courses
+    *   Live Online Training
+    *   Private On-Site Training
+
+*   Partners
+    *   Benefits
+    *   Partners
+    *   Become a Partner
+    *   Resellers
+*   Community
+    *   Blog
+    *   Forum
+    *   Documentation
+    *   Sencha Devs
+    *   Sencha Market
+    *   Sencha Try
+    *   App Gallery
 
 *   Company
     *   Team
-    *   Careers
+    *   Customers
     *   Events
     *   Press
-    *   Partners
+    *   Careers
     *   Contact
-    *   Customers
 
-*   Blog
-*   Forum
-*   API Docs
-*   App Gallery
-*   Resource Library
-*   Store
-*   Legal
-
-*   Facebook
-*   LinkedIn
-*   Twitter
-*   Tumblr
-*   Vimeo
-*   Google+
-
-Sign up for exclusive Sencha news! Sign up
+Sign up to get exclusive Sencha News
 
 Thanks for signing up!
 
-  
-  
-
-Find Sencha developers at SenchaDevs
-
-© 2013 Sencha Inc. All rights reserved.
+© 2013 Sencha Inc. All rights reserved. Sitemap Legal
