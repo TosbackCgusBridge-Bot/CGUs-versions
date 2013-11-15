@@ -91,17 +91,22 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Opposition scheitert mit Vorstößen für mehr Datensicherheit
+*   Datenschützer wollen Datenhandels-Vorwürfe gegen Debeka prüfen
+*   Facebook peppt den Facebook-Messenger auf
+*   Debeka-Vorwürfe: Ministerium gegen Datenweitergabe ohne Zustimmung
+*   Neues Gesetz soll Videoaufnahmen der Polizei einschränken 
 *   Weiter Wirbel um Debeka - Tausende Beamte sollen Tipps gegeben haben
 *   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
 *   Telekom will Allianz der Netzbetreiber für deutsches Internet
+
+weniger Artikel weniger Artikel
+
 *   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
 *   Kundendaten von Sky Deutschland entwendet
 *   Kundendaten von Sky Deutschland entwendet
 *   Friedrich blitzt mit Maut-Späh-Plänen ab
 *   Datenschützer Schaar gegen Nutzung des Mautsystems für Überwachung
-
-weniger Artikel weniger Artikel
-
 *   Union will Zugriff auf Maut-Daten - auch für Pkw
 *   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 *   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
@@ -109,11 +114,6 @@ weniger Artikel weniger Artikel
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
 *   Land will Verbraucher vor Risiken beim Handy-Bezahlen schützen
-*   Gröhe deutet Kompromiss bei Vorratsdatenspeicherung an
-*   Facebook wertet Mauszeigerbewegungen aus
-*   Neue Jugendhomepage www.youngdata.de gibt Tipps zum Datenschutz
-*   Datenschützer legt Berufung gegen Urteil zu Facebook-Seiten ein
-*   Nordost-Länder vereinbaren engere Kooperation ihrer IT-Dienstleister
 
 *   Kundencenter
 *   Preise und AGB
