@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: November 5, 2013**
+**Last Revised: November 14, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -102,11 +102,11 @@ If you have a website or other content hosted by Go Daddy, you shall retain all 
 
 By posting or publishing User Content to this Site or through the Services, you authorize Go Daddy to use the intellectual property and other proprietary rights in and to your User Content to enable inclusion and use of the User Content in the manner contemplated by this Site and this Agreement.  You hereby grant Go Daddy a worldwide, non-exclusive, royalty-free, sublicensable (through multiple tiers), and transferable license to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content in connection with this Site, the Services and Go Daddy’s (and Go Daddy’s affiliates’) business(es), including without limitation for promoting and redistributing all or part of this Site in any media formats and through any media channels without restrictions of any kind and without payment or other consideration of any kind, or permission or notification, to you or any third party. You also hereby grant each User of this Site a non-exclusive license to access your User Content (with the exception of User Content that you designate “private” or “password protected”) through this Site, and to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content as permitted through the functionality of this Site and under this Agreement. The above licenses granted by you in your User Content terminate within a commercially reasonable time after you remove or delete your User Content from this Site. You understand and agree, however, that Go Daddy may retain (but not distribute, display, or perform) server copies of your User Content that have been removed or deleted. The above licenses granted by you in your User Content are perpetual and irrevocable.  Notwithstanding anything to the contrary contained herein, Go Daddy shall not use any User Content that has been designated “private” or “password protected” by you for the purpose of promoting this Site or Go Daddy’s (or Go Daddy’s affiliates’) business(es). 
 
-****8**. SUPPORT COMMUNITY**
+****8**. SUPPORT FORUM**
 
-The Support Community is operated and controlled by Go Daddy and is geared towards users of Go Daddy products and services. It aims to create a place where users can exchange ideas and share tips and tricks that they have found helpful in using Go Daddy products and services. Users can participate through various forums, including product groups, product blogs, discussion groups, idea sharing and the like. The Support Community is not a replacement for Go Daddy’s technical and billing support services accessible via telephone or email on the Go Daddy website. Go Daddy does not endorse any of the ideas, opinions, recommendations, advice or other content expressed on the Support Community, and Go Daddy expressly disclaims any liability or responsibility for any content posted on the Support Community by its users.
+The support forum is operated and controlled by Go Daddy and is geared towards users of Go Daddy products and services. It aims to create a place where users can exchange ideas and share tips and tricks that they have found helpful in using Go Daddy products and services. Users can participate through various forums, including product groups, product blogs, discussion groups, idea sharing and the like. The support forum is not a replacement for Go Daddy’s technical and billing support services accessible via telephone or email on the Go Daddy website. Go Daddy does not endorse any of the ideas, opinions, recommendations, advice or other content expressed on the support fourm, and Go Daddy expressly disclaims any liability or responsibility for any content posted on the support forum by its users.
 
-_Rules of Conduct_.  In addition to the General Rules of Conduct herein that are applicable to all products and services, the following rules of conduct also apply to your use of the Support Community. You acknowledge and agree that:
+_Rules of Conduct_.  In addition to the General Rules of Conduct herein that are applicable to all products and services, the following rules of conduct also apply to your use of the support forum. You acknowledge and agree that:
 
 1.  You will not impersonate any other person or entity, or submit content on behalf of any other person or entity without their express prior written consent;
 2.  You will not submit content in exchange for payment or consideration received from any third party;
@@ -770,5 +770,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 11/5/2013  
+Revised: 11/14/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
