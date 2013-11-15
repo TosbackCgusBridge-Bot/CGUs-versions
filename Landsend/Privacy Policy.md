@@ -32,6 +32,7 @@ $5 More for UPS 2 Day
 *   Women
     *   *   Shoes &. Boots
         *   Gift Shop
+        *   Swim Shop
         *   Canvas Lands' End
         
         *   Featured Shops
@@ -64,6 +65,7 @@ $5 More for UPS 2 Day
         *   Shoes
         *   Socks, Tights &. Underwear
         *   Accessories
+        *   Totes
         *   Activewear
 *   Men
     *   *   Made to Work
