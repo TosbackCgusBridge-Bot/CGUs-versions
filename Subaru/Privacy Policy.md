@@ -124,6 +124,9 @@ Log Into MySubaru | Help |
         
         Legacy 3.6R Limited shown
         
+        Preview the  
+        2015 Legacy Concept
+        
     *   Forester
         
         Starting at **$21,995**
