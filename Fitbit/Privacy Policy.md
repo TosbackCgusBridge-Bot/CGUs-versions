@@ -161,35 +161,12 @@ Fitbit
 
 Fitbit is dedicated to helping people lead healthier, more active lives.
 
-United States
-
-*   Argentina
-*   Australia
-*   Chile
-*   Colombia
-*   Costa Rica
-*   Deutschland
-*   Ecuador
-*   España
-*   France
-*   Guatemala
-*   日本
-*   Mexico
-*   New Zealand
-*   Panamá
-*   Paraguay
-*   Perú
-*   Puerto Rico
-*   United Kingdom
-*   United States
-*   Venezuela
-
 ©2013 Fitbit Inc. All rights reserved.
 
 *   Privacy Policy
 *   Terms of Use
 
-Products
+United States (change) Products
 
 *   Force™  
     Wireless Activity + Sleep Wristband
