@@ -80,8 +80,7 @@ Like most Web sites, E-Insure uses server log files. These logs may record detai
 *   User platform type.
 *   Date &. time of visit.
 *   Specific sequence of user's progress through site.
-*   Mouse clicks, movements and scrolling.
-*   Text typing activity.
+*   Gender, age, and other non-personal demographic information.
 
 E-Insure uses this information to analyze trends, administer the site, track user movements in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc., are _not_ linked to personally identifiable information. In other words, although we know precisely _what_ a user may have done during a particular visit to our site, we do not know _which_ user did it.  To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics and ChartBeat.
 
