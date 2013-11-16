@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Linke will Aktenfunde von Immelborn im Landtag diskutieren
+*   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
+*   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
 *   Opposition scheitert mit Vorstößen für mehr Datensicherheit
 *   Datenschützer wollen Datenhandels-Vorwürfe gegen Debeka prüfen
 *   Facebook peppt den Facebook-Messenger auf
 *   Debeka-Vorwürfe: Ministerium gegen Datenweitergabe ohne Zustimmung
 *   Neues Gesetz soll Videoaufnahmen der Polizei einschränken 
-*   Weiter Wirbel um Debeka - Tausende Beamte sollen Tipps gegeben haben
-*   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
-*   Telekom will Allianz der Netzbetreiber für deutsches Internet
 
 weniger Artikel weniger Artikel
 
+*   Weiter Wirbel um Debeka - Tausende Beamte sollen Tipps gegeben haben
+*   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
+*   Telekom will Allianz der Netzbetreiber für deutsches Internet
 *   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
 *   Kundendaten von Sky Deutschland entwendet
 *   Kundendaten von Sky Deutschland entwendet
@@ -111,9 +114,6 @@ weniger Artikel weniger Artikel
 *   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 *   Apple veröffentlicht Zahlen zu Behörden-Anfragen - USA weit vorn
 *   Mehr Sicherheit beim Zahlen mit Handy: Empfehlungen für Verbraucher
-*   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
-*   Staatsanwaltschaft prüft Vorwurf illegalen Datenhandels gegen Debeka
-*   Land will Verbraucher vor Risiken beim Handy-Bezahlen schützen
 
 *   Kundencenter
 *   Preise und AGB
