@@ -1,6 +1,6 @@
 Consumers Energy Privacy Statement
 
-Privacy is a high priority at Consumers Energy. This statement has been designed to help you understand what information we gather from our online guests and what we do with it. Our Security Statement explains the steps we take to protect sensitive information.  
+Privacy is a high priority at Consumers Energy. This statement has been designed to help you understand what information we gather from our online guests and what we do with it. Our Security Statement explains the steps we take to protect sensitive information. Read more about Customer Data Privacy for electric and natural gas customers as approved by the Michigan Public Service Commission in 2013.  
   
 
 Contents of Privacy Statement:
