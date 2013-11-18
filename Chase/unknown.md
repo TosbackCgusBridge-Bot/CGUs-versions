@@ -1,4 +1,4 @@
-Online Practices
+Online Privacy Policy
 
 **Chase is** committed to your privacy and security online. We want to satisfy you and provide a superior online experience while respecting your privacy.
 
