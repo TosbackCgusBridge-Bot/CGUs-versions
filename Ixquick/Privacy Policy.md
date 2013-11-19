@@ -63,4 +63,4 @@ It's not just our Policy - it's our Mission! Operator
 
 Ixquick.com is owned and operated by Surfboard Holding BV, Postbus 1079, 3700 BB Zeist  
 
-The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. ( robert@ixquick.com )
+The Netherlands. Representative for the Privacy Policy is Robert E.G. Beens. ( )
