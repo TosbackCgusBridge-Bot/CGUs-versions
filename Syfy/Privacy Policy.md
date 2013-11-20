@@ -255,6 +255,10 @@ Syfy Video Best Firsts! Best Firsts!
 
 Nicki Clyne &. BlastrTV take you through our favorite first episodes in all of scifi! Come argue with us every Thursday!
 
+Small Roles, Big Impact! Small Roles, Big Impact!
+
+Nicki Clyne shows us that size doesn't matter. Here are some of the favorite small roles that had the biggest impacts.
+
 Adewale Akinnuoye - Agbaje Exclusive Intervie ... Adewale Akinnuoye - Agbaje Exclusive Interview on Thor: The Dark World
 
 Adewale Akinnuoye - Agbaje talks about his two roles in the new movie Thor: The Dark World.
@@ -262,10 +266,6 @@ Adewale Akinnuoye - Agbaje talks about his two roles in the new movie Thor: The 
 Blastr Origin Stories: Samuel L Jackson on Ni ... Blastr Origin Stories: Samuel L Jackson on Nick Fury
 
 Samuel L Jackson explains those first moments of creating Nick Fury, how he first found his comic doppelganger and that scar!
-
-Small Roles, Big Impact! Small Roles, Big Impact!
-
-Nicki Clyne shows us that size doesn't matter. Here are some of the favorite small roles that had the biggest impacts.
 
 *   FAQ
 *   Feedback
