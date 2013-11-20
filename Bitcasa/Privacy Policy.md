@@ -32,11 +32,13 @@ Third-Party Applications. We may share your information with a third party appli
 
 Business Transfers. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or Files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
 
+Compliance with Laws and Safety. We may also share your information to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Bitcasa our agents, customers, and others including to enforce our agreements, policies, and terms of use or (iii) in an emergency to protect the personal safety of its customers or any person.
+
 Non-private or Non-Personal Information. We may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Service.
 
 4\. Changing or Deleting Your Information
 
-If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings.” If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your account settings. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service, please contact privacy@bitcasa.com. We will respond to your inquiry within 30 days.
+If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings.” If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your account settings. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service or to request that your Personal Information be modified or deleted, please contact privacy@bitcasa.com.
 
 5\. Data Retention
 
@@ -56,7 +58,7 @@ We follow generally accepted standards to protect the information submitted to u
 
 8\. Our Policy Toward Children
 
-Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@bitcasa.com. If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
+Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@bitcasa.com.
 
 9\. Contacting Us
 
