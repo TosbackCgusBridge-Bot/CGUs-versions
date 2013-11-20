@@ -36,7 +36,12 @@
     *   Digital Velocity
     *   Tealium University
     *   Tealium Learning Community
-*   Resources
+*   Resources Resources back
+    *   All Resources
+    *   Case Studies
+    *   Datasheets
+    *   Webinars
+    *   Whitepapers
 *   Company Company back
     *   Overview
     *   About Us
@@ -51,8 +56,6 @@
 
 Tealium
 
-rows
-
 *   Products
 *   Solutions
 *   Partners
@@ -60,10 +63,20 @@ rows
 *   Resources
 *   Company
 
+Tealium
+
+*   Products
+*   Solutions
+*   Partners
+*   Education
+*   Resources
+*   Company
+*   Request a Demo
+
 *   Blog
 *   Contact Us
 
-*   🔒Login
+*   Login
 *   Request a Demo
 
 *   Tag Management Suite
@@ -107,32 +120,39 @@ Learn more about our fast-growing digital marketing ecosystem »
     *   Tealium Learning Community
 
 Digital Velocity 2014  
-Learn more about our user conference »
+Join us Jan. 22–24, 2014, for the industry’s most comprehensive user conference »
 
-*   Company
-    *   About Us
-    *   Customers
-    *   Leadership
-    *   Investors
-    *   Press Releases
-    *   News Coverage
-    *   Events
-    *   Digital 100
-    *   Careers
+*   Resources
+    *   Case Studies
+    *   Datasheets
+    *   Webinars
+    *   Whitepapers
 
-“Digital Data Distribution Platforms in Action”  
+Digital Data Distribution Platforms in Action  
 Download the whitepaper today »
 
-Request a demo
-
-Privacy Policy Default Menu
-
-*   Products
-*   Solutions
-*   Partners
-*   Education
-*   Resources
 *   About Us
+*   Customers
+*   Leadership
+*   Investors
+*   Press Releases
+*   News Coverage
+*   Events
+*   Digital 100
+
+*   Blog
+*   Login
+*   Careers
+*   Contact Us
+
+**US Headquarters**  
+11085 Torreyana Road  
+San Diego, CA 92121  
+**Sales:** (888) 622-2050  
+**Tel:** +1 (858) 779-1344  
+**Fax:** +1 (858) 345-3844
+
+Privacy Policy
 
 This privacy policy addresses Tealium’s (hereafter referred to as “the Company”) current practices and policies with regard to data collected through this web site. The term “personal data” refers to personally identifiable information about you, such as your name, mailing address, e-mail address, telephone number, and any other information that identifies you personally.
 
@@ -188,26 +208,7 @@ Learn More View Products
 
 Find the solution that is right for your business.
 
-Learn More United States
-
-11085 Torreyana Road  
-San Diego, CA 92121  
-  
-Sales: (888) 622-2050  
-Tel: +1 (858) 779-1344  
-Fax: +1 (858) 345-3844
-
-United Kingdom
-
-20 Hanover Square  
-London, W1S1JY  
-+44 (0) 20 70 84 62 68
-
-Germany
-
-Neuer Wall 50  
-20354 Hamburg  
-+49 408 22186462
+Learn More
 
 *   Products
     *   Tag Management Suite
@@ -240,10 +241,45 @@ Neuer Wall 50
     *   Digital 100
     *   Careers
 
-Copyright © 2013 Tealium. All Rights Reserved.
+US Headquarters
+
+11085 Torreyana Road  
+San Diego, CA 92121  
+  
+Sales: (888) 622-2050  
+Tel: +1 (858) 779-1344  
+Fax: +1 (858) 345-3844
+
+United Kingdom
+
+20 Hanover Square  
+London, W1S1JY  
++44 (0) 20 70 84 62 68
+
+Germany
+
+Neuer Wall 50  
+20354 Hamburg  
++49 408 22186462
+
+Singapore
+
+14 Mohd Sultan Rd 03-2  
+Singapore 238963  
+Tel: +65.6631.8912
+
+The Netherlands
+
+Zilverenberg 36,  
+5234 BM 's-Hertogenbosch  
+netherlands@tealium.com
+
+About Tealium
+
+Tealium is the leader in enterprise tag management, audience segmentation, profile enrichment and digital data distribution. Tealium brings order to marketing chaos to fuel the next generation of digital marketing.
 
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
 
-linkedinfacebooktwitterrss
+Copyright © 2013 Tealium. All Rights Reserved.
