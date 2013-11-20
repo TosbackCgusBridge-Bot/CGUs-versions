@@ -238,7 +238,7 @@ We may collect, use and disclose Personal Information for the following purposes
 *   to maintain business records for reasonable periods
 *   to enforce our Terms of Use
 *   to provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
-*   and/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to the University, Apollo, our Education Partners or our Business Associates.
+*   and/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to the University, Apollo Education Group, our Education Partners or our Business Associates.
 
 Express Consent to Receive Prerecorded Voice Messages, Text Messages and Calls Using an Autodialer
 
