@@ -85,6 +85,7 @@ Share Clicking a link will open a new window.
 *   Facebook
 *   Twitter
 *   LinkedIn
+*   Google+
 
 *   Small font sizeA
 *   Larger text sizeA
