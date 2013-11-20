@@ -1,4 +1,19 @@
-Sign in to search Gartner Research Current Users **Sign In** New Users **Register** Why Gartner Analysts Research Events Consulting About Gartner Policies
+*   Sign In |
+*   Register |
+*   Select a Gartner site
+    *   Select a Gartner site
+    *   Gartner.com
+    *   Gartner Japan
+    *   Gartner Accessibility
+
+*   Why Gartner
+*   Analysts
+*   Research
+*   Events
+*   Consulting
+*   About
+
+Gartner Policies
 
 *   Overview
 *   Corrections
