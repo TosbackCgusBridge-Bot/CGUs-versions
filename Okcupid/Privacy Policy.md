@@ -1,26 +1,6 @@
 OkCupid.com: Free Online Dating
 
-Join us! Email or Username Password Lost your password? ?
-
-Sign in
-
-Lost Password Give us your username or email address.
-
-We couldn’t find that username.
-
-We couldn’t find that email address.
-
-Keep going…
-
-We emailed you a reset link already!
-
-Submit
-
-Cancel
-
-Great, check your email!
-
-Close
+Join us! Sign in
 
 “The Google of  
 online dating”
@@ -224,7 +204,13 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 back to top
 
-Mobile OkCupid
+Sign in Let’s go
+
+Forget your password?
+
+or
+
+Sign in Mobile OkCupid
 
 *   Get our iPhone &. iPad app
 *   Get our Android app
