@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
+*   Neue Homepage für Jugendliche informiert über Gefahren im Netz
+*   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
 *   Nach Abhörskandal: Yahoo verstärkt Verschlüsselung
 *   EU und USA wollen nach Abhörskandal Vertrauen wiederherstellen
 *   Linke will Aktenfunde von Immelborn im Landtag diskutieren
 *   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
 *   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
-*   Opposition scheitert mit Vorstößen für mehr Datensicherheit
-*   Datenschützer wollen Datenhandels-Vorwürfe gegen Debeka prüfen
-*   Facebook peppt den Facebook-Messenger auf
 
 weniger Artikel weniger Artikel
 
+*   Opposition scheitert mit Vorstößen für mehr Datensicherheit
+*   Datenschützer wollen Datenhandels-Vorwürfe gegen Debeka prüfen
+*   Facebook peppt den Facebook-Messenger auf
 *   Debeka-Vorwürfe: Ministerium gegen Datenweitergabe ohne Zustimmung
 *   Neues Gesetz soll Videoaufnahmen der Polizei einschränken 
 *   Weiter Wirbel um Debeka - Tausende Beamte sollen Tipps gegeben haben
@@ -111,9 +114,6 @@ weniger Artikel weniger Artikel
 *   Kundendaten von Sky Deutschland entwendet
 *   Kundendaten von Sky Deutschland entwendet
 *   Friedrich blitzt mit Maut-Späh-Plänen ab
-*   Datenschützer Schaar gegen Nutzung des Mautsystems für Überwachung
-*   Union will Zugriff auf Maut-Daten - auch für Pkw
-*   «Spiegel Online»: Innenminister für Zugriff auf Maut-Daten
 
 *   Kundencenter
 *   Preise und AGB
