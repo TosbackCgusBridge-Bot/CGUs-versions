@@ -1,4 +1,4 @@
-DEUSESFRITBR Octobre 2013
+USESDEFRITBR Novembre 2013
 
 *   Objet
 *   Mentions légales
@@ -120,17 +120,17 @@ Le présent contrat est conclu pour une durée indéterminée à compter de l'Ut
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
-*   Conditions generales
+*   Conditions générales
 *   Conditions générales d'utilisation
 *   Conditions d'utilisation
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Comment , accepter les nouvelles conditions d'itunes ? » Forum - IPhone
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
 
 Communautés d'assistance et de conseils.
 
 *   Forum iPhone
+*   Forum Mobile
 *   Forum Vos droits sur internet
-*   Forum SFR
