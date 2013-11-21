@@ -5,6 +5,7 @@
     *   Tag Management Suite Tag Management Suite back
         *   Overview
         *   Tealium iQ
+        *   Supported Tags
         *   Privacy
         *   Mobile
         *   Audit
@@ -81,6 +82,7 @@ Tealium
 
 *   Tag Management Suite
     *   Tealium iQ
+    *   Supported Tags
     *   Privacy
     *   Mobile
     *   Audit
@@ -256,17 +258,17 @@ United Kingdom
 London, W1S1JY  
 +44 (0) 20 70 84 62 68
 
+Singapore
+
+14 Mohd Sultan Rd 03-2  
+Singapore 238963  
++65 6631 8912
+
 Germany
 
 Neuer Wall 50  
 20354 Hamburg  
 +49 408 22186462
-
-Singapore
-
-14 Mohd Sultan Rd 03-2  
-Singapore 238963  
-Tel: +65.6631.8912
 
 The Netherlands
 
