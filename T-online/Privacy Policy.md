@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Smart-TVs von LG senden Daten über TV-Nutzung nach Südkorea
+*   Trotz Sicherheitsbedenken: Internetnutzer bei Schutzmaßnahmen bequem
 *   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
 *   Neue Homepage für Jugendliche informiert über Gefahren im Netz
 *   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
 *   Nach Abhörskandal: Yahoo verstärkt Verschlüsselung
 *   EU und USA wollen nach Abhörskandal Vertrauen wiederherstellen
 *   Linke will Aktenfunde von Immelborn im Landtag diskutieren
-*   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
-*   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
 
 weniger Artikel weniger Artikel
 
+*   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
+*   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
 *   Opposition scheitert mit Vorstößen für mehr Datensicherheit
 *   Datenschützer wollen Datenhandels-Vorwürfe gegen Debeka prüfen
 *   Facebook peppt den Facebook-Messenger auf
@@ -112,8 +114,6 @@ weniger Artikel weniger Artikel
 *   Telekom will Allianz der Netzbetreiber für deutsches Internet
 *   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
 *   Kundendaten von Sky Deutschland entwendet
-*   Kundendaten von Sky Deutschland entwendet
-*   Friedrich blitzt mit Maut-Späh-Plänen ab
 
 *   Kundencenter
 *   Preise und AGB
