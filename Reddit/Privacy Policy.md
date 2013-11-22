@@ -1,4 +1,4 @@
-reddit privacy policy _effective May 15, 2013_
+**reddit privacy policy** _effective May 15, 2013_
 
 > your privacy is genuinely important to us.  
 > here's how we manage and use your data.
