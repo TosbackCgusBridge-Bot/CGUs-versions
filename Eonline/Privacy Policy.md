@@ -1,6 +1,6 @@
 Privacy Policy
 
-This Privacy Policy was last updated on or about 2013.
+This Privacy Policy was last updated on November 21, 2013.
 
 E! Entertainment Television, LLC (E!), a company incorporated under Delaware law, with its registered address at 1209 Orange Street, Wilmington, Delaware 19801, is responsible for the contents of this Website or Mobile App.
 
@@ -34,7 +34,9 @@ Our goal is to collect and use only that information that we think is required f
 
 **Newsletters and Other Communications**
 
-On the Website, you may sign up to receive newsletters and other communications about our services and promotions and/or those of third parties. To sign up, we may ask you for your contact details (such as your name and email address). This information is used by us to send you the communications you request.
+On the Website and certain Mobile Apps, you may sign up to receive newsletters and other communications about our services and promotions and/or those of third parties. To sign up, we may ask you for your contact details (such as your name and email address). This information is used by us to send you the communications you request.
+
+We use the technology services of Sailthru, Inc. (www.sailthru.com) to provide customized email newsletters to subscribers. Each newsletter contains links to stories and other content on our Website or Mobile Apps. When you click on these links, Sailthru collects information about your activity on the Website or Mobile App. This information is used to send you automated, personalized newsletters that contain links to stories and other content that you may find of interest.
 
 Details of how you can opt-out of receiving any communications from us are detailed in the section headed "Your Rights" below.
 
