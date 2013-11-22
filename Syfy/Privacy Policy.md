@@ -259,9 +259,9 @@ Small Roles, Big Impact! Small Roles, Big Impact!
 
 Nicki Clyne shows us that size doesn't matter. Here are some of the favorite small roles that had the biggest impacts.
 
-Adewale Akinnuoye - Agbaje Exclusive Intervie ... Adewale Akinnuoye - Agbaje Exclusive Interview on Thor: The Dark World
+Bar Wars: The Best Tequila Wormholes in the G ... Bar Wars: The Best Tequila Wormholes in the Galaxy!
 
-Adewale Akinnuoye - Agbaje talks about his two roles in the new movie Thor: The Dark World.
+Nicki Clyne guides you through our favorite bars in the Scifi universe.
 
 Blastr Origin Stories: Samuel L Jackson on Ni ... Blastr Origin Stories: Samuel L Jackson on Nick Fury
 
