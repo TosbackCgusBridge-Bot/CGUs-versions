@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Hasse hofft weiter auf Unterstützung für Immelborner Aktenberge
 *   Smart-TVs von LG senden Daten über TV-Nutzung nach Südkorea
 *   Trotz Sicherheitsbedenken: Internetnutzer bei Schutzmaßnahmen bequem
 *   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
 *   Nach Abhörskandal: Yahoo verstärkt Verschlüsselung
 *   EU und USA wollen nach Abhörskandal Vertrauen wiederherstellen
-*   Linke will Aktenfunde von Immelborn im Landtag diskutieren
 
 weniger Artikel weniger Artikel
 
+*   Linke will Aktenfunde von Immelborn im Landtag diskutieren
 *   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
 *   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
 *   Opposition scheitert mit Vorstößen für mehr Datensicherheit
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
 *   Telekom will Allianz der Netzbetreiber für deutsches Internet
 *   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
-*   Kundendaten von Sky Deutschland entwendet
 
 *   Kundencenter
 *   Preise und AGB
