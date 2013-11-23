@@ -15,6 +15,7 @@ Skip to main content USA Network USA Shows Shows close
 *   Necessary Roughness
 *   Psych
 *   Royal Pains
+*   New! Sirens
 *   Suits
 *   Summer Camp
 *   White Collar
