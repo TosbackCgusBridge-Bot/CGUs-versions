@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Film critics on "The Hunger Games: Catching Fire"
+Search Help Watch Now: Bill Cunningham on winter fashion
 
 Also in Video »
 
-*   New York bans under-21 tobacco sales
-*   How smart is your smoke alarm?
+*   Anatomy of a Scene: "Is the Man..."
+*   A snowboard legend explores the obscure
 
   
 
