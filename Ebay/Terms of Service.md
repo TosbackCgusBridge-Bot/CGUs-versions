@@ -222,6 +222,8 @@ We try to keep our Services safe, secure, and functioning properly, but we canno
 
 You agree that you are making use of our Services at your own risk, and that they are being provided to you on an "AS IS" and "AS AVAILABLE" basis. Accordingly, to the extent permitted by applicable law, we exclude all express or implied warranties, terms and conditions including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
+In addition, to the extent permitted by applicable law, we are not liable, and you agree not to hold eBay responsible, for any damages or losses (including, but not limited to, loss of money, goodwill or reputation, profits, or other intangible losses or any special, indirect, or consequential damages) resulting directly or indirectly from:
+
 In addition, to the extent permitted by applicable law, we (including our parent, subsidiaries, affiliates, officers, directors, agents and employees) are not liable, and you agree not to hold eBay responsible, for any damages or losses (including, but not limited to, loss of money, goodwill or reputation, profits, or other intangible losses or any special, indirect, or consequential damages) resulting directly or indirectly from:
 
 *   your use of or your inability to use our Services;
