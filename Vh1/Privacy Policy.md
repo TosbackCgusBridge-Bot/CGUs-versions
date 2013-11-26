@@ -21,7 +21,7 @@
     *   VH1 Artists
     *   VH1 Classic
     *   VH1 Soul
-    *   You Oughta Know In Concert
+    *   VH1 You Oughta Know
 
 *   Follow VH1
     *   IFrames are not supported
