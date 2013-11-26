@@ -13,6 +13,7 @@ Skip to main content USA Network USA Shows Shows close
 *   NCIS
 *   NCIS: Los Angeles
 *   Necessary Roughness
+*   New! Playing House
 *   Psych
 *   Royal Pains
 *   New! Sirens
