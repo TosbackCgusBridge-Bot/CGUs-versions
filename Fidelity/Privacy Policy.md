@@ -16,6 +16,7 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Account PositionsLog In Required
     *   TradeLog In Required
     *   Transfer Money / SharesLog In Required
+    *   Cash ManagementLog In Required
     *   BillPayLog In Required
     *   Full ViewLog In Required
     *   Update Accounts / Features
