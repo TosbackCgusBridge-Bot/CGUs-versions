@@ -1,6 +1,6 @@
 **Please read user agreement (amended as of July 30, 2012) before using this service. By continuing to use slate.com, you agree to abide by the conditions of this agreement.**
 
-1\. Welcome to slate.com (“Service”). By using this Service, you agree to be bound by all of the terms of this Agreement and by the Discussion and Submission Guidelines. In general, the Service is currently free to all users. The Slate Group LLC (“We”), a subsidiary of The Washington Post Company, reserves the right to charge for this Service in the future. In such event, we will notify you in advance, and give you an opportunity to subscribe to this Service. We reserve the right to change the terms of this Agreement or to modify any features of this Service at any time. By registering for this Service and/or continuing to use this Service after the posting of Notices regarding such changes, you agree to be bound by such changes.
+1\. Welcome to slate.com (“Service”). By using this Service, you agree to be bound by all of the terms of this Agreement and by the Discussion and Submission Guidelines. In general, the Service is currently free to all users. The Slate Group LLC (“We”), a subsidiary of the Graham Holdings Company, reserves the right to charge for this Service in the future. In such event, we will notify you in advance, and give you an opportunity to subscribe to this Service. We reserve the right to change the terms of this Agreement or to modify any features of this Service at any time. By registering for this Service and/or continuing to use this Service after the posting of Notices regarding such changes, you agree to be bound by such changes.
 
 2\. You represent that you have read and agree to abide by Slate’s Discussion and Submission Guidelines.
 
@@ -26,4 +26,4 @@
 
 11\. This Agreement shall be governed by the laws of the United States and the Commonwealth of Virginia. BY CONTINUING TO USE SLATE.COM, YOU AGREE TO ABIDE BY THE TERMS OF THIS AGREEMENT.
 
-_Related: Privacy Policy and Discussion and Submission Guidelines_
+Related: Privacy Policy and Discussion and Submission Guidelines
