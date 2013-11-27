@@ -261,7 +261,14 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help
+Search Help How to carve a turkey
+
+Also in Video »
+
+*   How to make roasted butternut squash with onions
+*   How to make pumpkin pie
+
+  
 
 *   © 2013 The New York Times Company
 *   Site Map
