@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   EU-Kommission legt Bericht zu Datenschutz-Abkommen mit USA vor
+*   Mehr als 100 000 Kontoabfragen durch Behörden
+*   Mehr als 100 000 Kontoabfragen durch Behörden
 *   Hasse hofft weiter auf Unterstützung für Immelborner Aktenberge
 *   Smart-TVs von LG senden Daten über TV-Nutzung nach Südkorea
 *   Trotz Sicherheitsbedenken: Internetnutzer bei Schutzmaßnahmen bequem
 *   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
 *   Neue Homepage für Jugendliche informiert über Gefahren im Netz
-*   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
-*   Nach Abhörskandal: Yahoo verstärkt Verschlüsselung
-*   EU und USA wollen nach Abhörskandal Vertrauen wiederherstellen
 
 weniger Artikel weniger Artikel
 
+*   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
+*   Nach Abhörskandal: Yahoo verstärkt Verschlüsselung
+*   EU und USA wollen nach Abhörskandal Vertrauen wiederherstellen
 *   Linke will Aktenfunde von Immelborn im Landtag diskutieren
 *   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
 *   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
@@ -111,9 +114,6 @@ weniger Artikel weniger Artikel
 *   Debeka-Vorwürfe: Ministerium gegen Datenweitergabe ohne Zustimmung
 *   Neues Gesetz soll Videoaufnahmen der Polizei einschränken 
 *   Weiter Wirbel um Debeka - Tausende Beamte sollen Tipps gegeben haben
-*   Debeka-Vorwürfe: Staatsanwaltschaft leitet Ermittlungsverfahren ein
-*   Telekom will Allianz der Netzbetreiber für deutsches Internet
-*   Datenschutzbeauftragter warnt Vermieter vor Schnüffelei
 
 *   Kundencenter
 *   Preise und AGB
