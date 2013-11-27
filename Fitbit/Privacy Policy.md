@@ -251,15 +251,11 @@ Your activity information is sent to your computer when your tracker is within 2
 
 Sync on the go
 
-Have one of these devices? Download the Fitbit App from the App Store to sync your tracker throughout the day. No need for a computer.
+One™ syncs wirelessly and automatically with smartphones that support Bluetooth 4.0. This allows the One™ to sync with a wide range of leading iOS and Android Smartphones.
 
-*   **iPhone 4s** (and later)
-*   **iPad 3rd generation** (and later)
-*   **iPod Touch 5th generation** (and later)
-*   **Samsung Galaxy S III, S4**
-*   **Samsung Galaxy Note II, Note 10.1**
+For a full list of supported devices, visit: http://www.fitbit.com/devices
 
-Don't have one of the devices above? Get the Fitbit App to view the data from your most recent sync with your computer.
+If your phone does not support Bluetooth 4.0, you're still in luck. The Fitbit mobile app works with all smartphones for logging data, receiving notifications, and viewing graphs and charts based on your last sync.
 
 Zip 101 Zip Basics How it works Features Prev Next Get Started Changing the Display
 
@@ -283,18 +279,11 @@ Once your Zip has synced, your information can be viewed online at Fitbit.com or
 
 Sync on the go
 
-Zip can also sync with select Bluetooth(r) Smart mobile devices. We currently support:
+Zip™ syncs wirelessly and automatically with smartphones that support Bluetooth 4.0. This allows the Zip™ to sync with a wide range of leading iOS and Android Smartphones.
 
-*   **iPhone 4s** (and later)
-*   **iPad 3rd generation** (and later)
-*   **iPod touch 5th generation** (and later)
-*   **Samsung Galaxy S III, S4**
-*   **Samsung Galaxy Note II, Note 10.1**
+For a full list of supported devices, visit: http://www.fitbit.com/devices
 
-  
-  
-
-Download the Fitbit App from the iTunes Store to sync your Zip throughout the day.
+If your phone does not support Bluetooth 4.0, you're still in luck. The Fitbit mobile app works with all smartphones for logging data, receiving notifications, and viewing graphs and charts based on your last sync.
 
 Online and mobile
 
