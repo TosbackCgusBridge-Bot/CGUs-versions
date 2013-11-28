@@ -194,11 +194,11 @@ BACK TO TOP
 
 **WHO ADMINISTERS THIS POLICY?**
 
-Our Associate Vice President (AVP) of Limited Brands, Inc., administers this policy. You may write to this person at:
+Our Associate Vice President (AVP) of L Brands, Inc., administers this policy. You may write to this person at:
 
        AVP, Privacy  
        Legal and Compliance Services  
-       Limited Brands, Inc.  
+       L Brands, Inc.  
        3 Limited Parkway  
        Columbus, OH 43230  
        US
