@@ -261,7 +261,7 @@ Das Copyright für die Beiträge, soweit diese urheberrechtsschutzfähig sind, v
 Ihre angegebene E-Mail-Adresse kann für andere Teilnehmer und Besucher des Forums sichtbargeschaltet werden, so dass Sie auch auf diesem Wege miteinander kommunizieren können.
 
 (7)  
-Bei technischen Problemen und Fragen ist der Moderator unter der Mailadresse forum@spiegel.deerreichbar.
+Bei technischen Problemen und Fragen ist der Moderator unter der Mailadresse forum@spiegel.de erreichbar.
 
 Wir wünschen Ihnen viel Spaß bei der Diskussion in unserem Forum!
 
