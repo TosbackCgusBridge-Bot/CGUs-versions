@@ -46,7 +46,7 @@ Our agent for notice of claims of copyright infringement can be reached as follo
 
 By Mail:       Bath and Body Works Direct, Inc.  
                    General Counsel's Office  
-                   c/o Limited Brands, Inc.  
+                   c/o L Brands, Inc.  
                    Three Limited Parkway  
                    Columbus OH 43230  
 By Email:     generalcounsel@limitedbrands.com
