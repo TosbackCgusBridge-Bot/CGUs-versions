@@ -118,6 +118,7 @@ Contribute to this page
 
 *   Contact Us
 *   Partner with Us
+*   Donate
 *   Privacy Policy
 *   Legal Notices
 *   Report Trademark Abuse
