@@ -97,7 +97,7 @@ International Visitors
 
 27 reddit is a San Francisco, California-based company whose servers are housed in the United States. All personal information we collect from our international users is transferred to the United States and processed according to US law.
 
-28 reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. reddit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view reddit's certification, please visit http://www.export.gov/safeharbor/.
+28 reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
 
 Children Under 13
 
