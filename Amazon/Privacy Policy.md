@@ -170,4 +170,4 @@ Quelques exemples d'informations auxquelles vous avez facilement accès sur le s
 
   
 
-Rubriques connexes: Systèmes de protection de la vie privée Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Modification de Protection de vos données personnelles 18 septembre 2007 Rechercher dans les pages d'aide : **Demandez à la communauté**: Postez vos questions ou cherchez une réponse dans notre Forum d'aide générale ou dans notre Forum d'aide Kindle.
+Rubriques connexes: Systèmes de protection de la vie privée Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Modification de Protection de vos données personnelles 18 septembre 2007 Rechercher dans les pages d'aide : **Demandez à la communauté** : Postez vos questions ou cherchez une réponse dans notre Forum d'aide générale ou dans notre Forum d'aide Kindle.
