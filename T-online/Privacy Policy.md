@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
+*   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
+*   Gericht: Ausweis darf nicht gescannt und gespeichert werden
+*   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   EU-Kommission: USA dürfen weiter auf Bankdaten zugreifen
 *   EU-Kommission legt Bericht zu Datenschutz-Abkommen mit USA vor
 *   Mehr als 100 000 Kontoabfragen durch Behörden
+
+weniger Artikel weniger Artikel
+
 *   Mehr als 100 000 Kontoabfragen durch Behörden
 *   Hasse hofft weiter auf Unterstützung für Immelborner Aktenberge
 *   Smart-TVs von LG senden Daten über TV-Nutzung nach Südkorea
 *   Trotz Sicherheitsbedenken: Internetnutzer bei Schutzmaßnahmen bequem
-
-weniger Artikel weniger Artikel
-
 *   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
 *   Neue Homepage für Jugendliche informiert über Gefahren im Netz
 *   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
@@ -110,10 +114,6 @@ weniger Artikel weniger Artikel
 *   Linke will Aktenfunde von Immelborn im Landtag diskutieren
 *   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
 *   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
-*   Opposition scheitert mit Vorstößen für mehr Datensicherheit
-*   Datenschützer wollen Datenhandels-Vorwürfe gegen Debeka prüfen
-*   Facebook peppt den Facebook-Messenger auf
-*   Debeka-Vorwürfe: Ministerium gegen Datenweitergabe ohne Zustimmung
 
 *   Kundencenter
 *   Preise und AGB
