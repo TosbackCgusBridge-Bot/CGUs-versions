@@ -32,7 +32,7 @@ To help ensure a rewarding online experience for our visitors, we provide you wi
     
 3.  Collection of Information for Third-Party Sites and Sponsors
     
-    Operators collect and maintain information from children through Club Penguin and we comply with the U.S. Children’s Online Privacy Protection Act.  The list of operators may be found here. about the operators’ privacy policies and use of children’s information may be directed to:
+    Operators collect and maintain information from children through Club Penguin and we comply with the U.S. Children’s Online Privacy Protection Act.  The list of operators may be found here.  Questions about the operators’ privacy policies and use of children’s information may be directed to:
     
     **Club Penguin**  
     **c/o Disney Canada Inc.**  
@@ -82,7 +82,7 @@ To help ensure a rewarding online experience for our visitors, we provide you wi
     
 10.  Effective Date
     
-    The privacy policy set out above is effective as of October 8, 2013, and applies to all information previously obtained by Club Penguin. We reserve the right to change the privacy policy at our sole discretion. Club Penguin users will be informed of any such change  by us posting a new privacy policy on the Club Penguin website and the effective date of any change of privacy policy will be clearly marked. As required by law, we will not use PII in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+    The privacy policy set out above is effective as of November 1, 2013, and applies to all information previously obtained by Club Penguin. We reserve the right to change the privacy policy at our sole discretion. Club Penguin users will be informed of any such change  by us posting a new privacy policy on the Club Penguin website and the effective date of any change of privacy policy will be clearly marked. As required by law, we will not use PII in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
     
     Club Penguin has received the TRUSTe Privacy Seal in the United States, signifying that this privacy policy and our privacy practices have been reviewed for compliance with the TRUSTe program listed on the validation page available when you click on the TRUSTe Privacy Seal. The TRUSTe program covers only those properties identified on the validation page.
     
