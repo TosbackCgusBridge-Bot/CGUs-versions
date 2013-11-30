@@ -70,6 +70,7 @@ Phonedeck is a remote management service for mobile phones and a brand of desk.i
 Recent Blog Posts
 
 *   Thanks for visiting Phonedeck at Dreamforce ’13 November 26, 2013
+*   Press Release: Phonedeck CSI November 13, 2013
 *   Dreaming November 8, 2013
 *   New: Phonedeck CSI November 6, 2013
 
