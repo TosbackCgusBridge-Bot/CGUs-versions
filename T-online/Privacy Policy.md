@@ -91,17 +91,22 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
+*   Neuwieder findet 900 Gehaltsbriefe mit privaten Daten im Müll
+*   Facebook präsentiert die beliebtesten Marken im Netzwerk
+*   Piraten wollen gegen Vorratsdatenspeicherung klagen
+*   Piraten wollen gegen Vorratsdatenspeicherung klagen
 *   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
 *   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
 *   Gericht: Ausweis darf nicht gescannt und gespeichert werden
+
+weniger Artikel weniger Artikel
+
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   EU-Kommission: USA dürfen weiter auf Bankdaten zugreifen
 *   EU-Kommission legt Bericht zu Datenschutz-Abkommen mit USA vor
 *   Mehr als 100 000 Kontoabfragen durch Behörden
-
-weniger Artikel weniger Artikel
-
 *   Mehr als 100 000 Kontoabfragen durch Behörden
 *   Hasse hofft weiter auf Unterstützung für Immelborner Aktenberge
 *   Smart-TVs von LG senden Daten über TV-Nutzung nach Südkorea
@@ -109,11 +114,6 @@ weniger Artikel weniger Artikel
 *   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
 *   Neue Homepage für Jugendliche informiert über Gefahren im Netz
 *   Piratenpartei: «Schengen-Netz» ist «unsinnig und uneffektiv»
-*   Nach Abhörskandal: Yahoo verstärkt Verschlüsselung
-*   EU und USA wollen nach Abhörskandal Vertrauen wiederherstellen
-*   Linke will Aktenfunde von Immelborn im Landtag diskutieren
-*   Debeka geht in Offensive: Vorwürfe nur gegen einzelne Mitarbeiter
-*   Debeka geht nach Vorwürfen des illegalen Datenhandels in Offensive
 
 *   Kundencenter
 *   Preise und AGB
