@@ -207,19 +207,19 @@ Create an avatar or Close pop-up Log In Use your social network or Sorry, we cou
 
 Forgot your username or password?
 
-Keep me logged in on this computer. Log in   No account yet? Join for FREE! Connection error Uh oh!
+Keep me logged in on this computer. Log in   No account yet? Join for FREE! Connection error Close Uh oh!
 
 There's been a connection error. Please try again.
 
-Try again Close Link accounts Hey , do we already know each other?
+Try again Close Link accounts Close Hey , do we already know each other?
 
 Unfortunately we can not link your agame.com account to your account.
 
-Close Could not create your account. Uh oh!
+Close Could not create your account. Close Uh oh!
 
 Something went wrong while setting up your new account. Please try again.
 
-Almost done... We need some additional info.
+Almost done... Close We need some additional info.
 
 Hey , do we already know each other?  
 If you already have a agame.com account, we can link it to your account!
