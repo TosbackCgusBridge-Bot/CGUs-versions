@@ -1,4 +1,4 @@
-  Home   Contact   About Veronique   About Scott   Testimonials       For You:   Waterfront Blog   **Sellers**   **Buyers**   **Current Owners**   Relocation Info       Info &. Listings:   **Lake Washington**   **West Seattle**   **Burien**   **Normandy Park**   **Des Moines**   **Federal Way**       Life On The Water:   **Activities**   **Marinas**   Photos   **Books**   **Stewardship**   Marine Traffic   Public Beaches       Resources:   Vacant Land   **Geotechnical**   **Trams**   **Inspections**   Community Info   **Restaurants**    
+  Home   Contact   About Veronique   About Scott   Testimonials       For You:   Waterfront Blog   **Sellers**   **Buyers**   **Current Owners**   Relocation Info       Info &. Listings:   **Lake Washington**   **West Seattle**   **Burien**   **Normandy Park**   **Des Moines**   **Federal Way**       Life On The Water:   **Activities**   **Marinas**   Photos   **Books**   **Stewardship**   **Marine Traffic**   Public Beaches       Resources:   Vacant Land   **Geotechnical**   **Trams**   **Inspections**   Community Info   **Restaurants**    
 
 WaterHavens Copyright Notice
 
