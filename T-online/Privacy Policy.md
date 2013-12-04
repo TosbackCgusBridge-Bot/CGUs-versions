@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
 *   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
 *   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
 *   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Facebook präsentiert die beliebtesten Marken im Netzwerk
 *   Piraten wollen gegen Vorratsdatenspeicherung klagen
 *   Piraten wollen gegen Vorratsdatenspeicherung klagen
-*   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
 
 weniger Artikel weniger Artikel
 
+*   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
 *   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
 *   Gericht: Ausweis darf nicht gescannt und gespeichert werden
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Hasse hofft weiter auf Unterstützung für Immelborner Aktenberge
 *   Smart-TVs von LG senden Daten über TV-Nutzung nach Südkorea
 *   Trotz Sicherheitsbedenken: Internetnutzer bei Schutzmaßnahmen bequem
-*   Geibert lehnt Amtshilfe bei Aktenfunden in Immelborn weiter ab
 
 *   Kundencenter
 *   Preise und AGB
