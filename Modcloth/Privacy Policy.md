@@ -36,17 +36,19 @@ At ModCloth, we take your online security very seriously, and we're committed to
     
 2.  **Information Collected Automatically**
 
-We use third-party website analytics tools (including Omniture Site Catalyst, QuantCast, and Google Analytics) that automatically collect non-personally identifiable information from your browser to our server logs whenever you interact with our Site. Such information includes, but is not limited to, IP address, pages viewed, site navigation patterns, details about the devices used to access the Internet and our Site, and geo-location tracking information if you are accessing our Site from a mobile device. It is obtained by automated means, such as cookies and web beacons. "Cookies" are text files that are transferred to your computer's hard drive as you navigate our Site and other sites. We use cookies to help us show advertisements on other websites likely to be more interesting to you. to compile aggregate data about site traffic and site interaction. and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services, site experiences, and tools in the future. You may be able to adjust the preferences on your browser or device to change your device's acceptance of cookies, but doing so may limit our ability to provide content tailored to you.
+We use third-party website analytics tools (including Omniture Site Catalyst, QuantCast, and Google Analytics) that automatically collect non-personally identifiable information from your browser to our server logs whenever you interact with our Site. Such information includes, but is not limited to, IP address, pages viewed, site navigation patterns, details about the devices used to access the Internet and our Site, and geo-location tracking information if you are accessing our Site from a mobile device. It is obtained by automated means, such as cookies and web beacons. "Cookies" are text files that are transferred to your computer's hard drive as you navigate our Site and other sites. We use cookies to help us show advertisements on other websites likely to be more interesting to you. to compile aggregate data about site traffic and site interaction. and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services, site experiences, and tools in the future. You may be able to adjust the preferences on your browser or device to change your device's acceptance of cookies, but doing so may limit our ability to provide content tailored to you. ModCloth does not currently actively respond to "Do Not Track" browser signals or mechanisms, but we're always open to hearing from customers for whom this issue is really important.
 
 We may collect and store non-personally identifiable usage information (including frequency and number of visitors to our Site). Such data is used only in aggregate form and in a manner that assures your anonymity. We may provide this anonymous, aggregate information to our partners. and our partners may additionally use such information in order to determine general usage patterns and trends in an effort to provide you with an improved online experience.
 
-5.  **Email &. Other Communications**
+Our website is configured to prevent third-parties from collecting personally identifiable information about you or your online activities without your consent.
+
+6.  **Email &. Other Communications**
 
 We may contact you via email to send you necessary order-related messages, such as order confirmation and shipment confirmation notices.
 
 We may also send you newsletters and additional email messages about our products, services, contests, and promotions that we feel may be of interest to you. If you no longer wish to receive these and other promotional communications from us, you may select the unsubscribe link which is present in each email. You may also customize your communication preferences by accessing the email preference center in your ModCloth membership page and adjusting your settings accordingly.
 
-8.  **How We Use Your Information**
+9.  **How We Use Your Information**
 
 All of the personal information we collect from our customers is for the purpose of the reasoning described above (see sections b &. c), as well as:
 
@@ -64,7 +66,7 @@ All of the personal information we collect from our customers is for the purpose
 
 \- sending email as appropriate (See Section c: Email &. Other Communications)
 
-17.  **Under 13?**
+18.  **Under 13?**
 
 ModCloth.com is intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any personal information to ModCloth.com. We will promptly delete any personal information from a person under the age of 13 should we discover that we have collected such information from a person under the age of 13 without verification of parental consent. If you believe we may have collected information from a person under the age of 13, please promptly contact support@modcloth.com so we can correct.
 
@@ -112,7 +114,7 @@ Any personal information or image content you voluntarily disclose online in a m
     
     ModCloth may, at any time and without notice, modify and update this Privacy Policy by revising it on the Site. Your continued use of the Site constitutes your acceptance of any such revisions. You should therefore periodically visit this page to review the current Privacy Policy.
     
-    Last updated April 2, 2012  
+    Last updated December 3, 2013  
     
 *   **Contact Us**
     
