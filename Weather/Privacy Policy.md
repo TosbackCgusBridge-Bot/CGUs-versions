@@ -119,23 +119,23 @@ We may provide personally identifiable information without your permission (i) p
 
 4\. E-mail a Friend
 
-If you choose to use a feature that allows you to e-mail parts of the Services to a friend, in most circumstances we need to have access to your and your friend's e-mail addresses temporarily to send the e-mail due to technical requirements. This information is not used for any other purpose.
+If you choose to use a feature that allows you to e-mail parts of the Services to a friend, in most circumstances we need to have access to your and your friend's e-mail addresses temporarily to send the e-mail due to technical requirements. This information is not used for any other purpose.  
 
 5\. Mobile Device Contacts
 
-Some mobile products allow you to view weather conditions for people in your phone's contact list. If you agree to use this feature, your contact list will be accessed in order for us to provide weather information for your contacts who already have their address, city, state, or zip code available. We do not store this information or use it for any other purpose.
+Some mobile products allow you to view weather conditions for people in your phone's contact list. If you agree to use this feature, your contact list will be accessed in order for us to provide weather information for your contacts who already have their address, city, state, or zip code available. We do not store this information or use it for any other purpose.  
 
 6\. Opting-Out, Corrections and Cancellations
 
 If you receive an offer or promotion from The Weather Channel or a third party related to The Weather Channel you must have opted in. To ensure we have your consent, we make sure that each e-mail sent to you by The Weather Channel presents the additional opportunity to opt-out of receiving future e-mails.
 
-If you have registered with us and have obtained a password, you may reset your password, update your PII, correct information, make changes to your preferences, unsubscribe to any e-mail subscriptions or opt-out of certain services, by accessing your weather.com profile online at "MY PROFILE" or you may contact us directly at http://feedback.weather.com.
+If you have registered with us and have obtained a password, you may reset your password, update your PII, correct information, make changes to your preferences, unsubscribe to any e-mail subscriptions or opt-out of certain services, by accessing your weather.com profile online at "MY PROFILE" or you may contact us directly at http://feedback.weather.com.  
 
 7\. Data Retention of Account Information
 
 If you wish to cancel your account or request that we delete or no longer use your account information to provide you Services, contact us at deleteaccount@talk2.weather.com. Subject to applicable law, we will retain and use your account information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you receive an offer or promotion from The Weather Channel or a third party related to The Weather Channel you must have opted in. To ensure we have your consent, we make sure that each e-mail sent to you by The Weather Channel presents the additional opportunity to opt-out of receiving future e-mails.
 
-If you have registered with us and have obtained a password, you may reset your password, update your PII, correct information, make changes to your preferences, unsubscribe to any e-mail subscriptions or opt-out of certain services, by accessing your weather.com profile online at "MY PROFILE" or you may contact us directly at http://feedback.weather.com.
+If you have registered with us and have obtained a password, you may reset your password, update your PII, correct information, make changes to your preferences, unsubscribe to any e-mail subscriptions or opt-out of certain services, by accessing your weather.com profile online at "MY PROFILE" or you may contact us directly at http://feedback.weather.com.  
 
 8\. Children's Privacy
 
@@ -149,7 +149,7 @@ The Weather Channel, and all associated Services and systems, including registra
 
 10\. Our Commitment to Security
 
-Keeping the information you provide to The Weather Channel secure is important to us. We have put in place appropriate physical, electronic and managerial procedures designed to protect and safeguard your data. Of course, although The Weather Channel uses standard industry practices to protect your PII, we cannot guarantee that your communications with the Services will never be unlawfully intercepted, or that your PII will never be unlawfully accessed by third parties.
+Keeping the information you provide to The Weather Channel secure is important to us. We have put in place appropriate physical, electronic and managerial procedures designed to protect and safeguard your data. Of course, although The Weather Channel uses standard industry practices to protect your PII, we cannot guarantee that your communications with the Services will never be unlawfully intercepted, or that your PII will never be unlawfully accessed by third parties.  
 
 11\. Changes to the Privacy Policy
 
