@@ -47,7 +47,7 @@ Skip to Main Content Toggle search
 
 Privacy Policy May 07, 2013 9:51 AM
 
-**Effective Date June 17, 2013**
+**Effective Date December 3, 2013**
 
 _See related: NPR Terms of Use_
 
@@ -65,13 +65,14 @@ NPR collects geolocation data through the NPR Services for purposes of offering 
 *   NPR collects credit card numbers provided by NPR Shop customers.
 *   NPR's web server creates access logs for visitors to the NPR Services, recording such information as IP address, date and time of visit, path taken, browser, list of files downloaded or viewed, and time spent listening to audio.
 *   NPR collects information from a visitor's mobile device or app, including device identifier, operating system, phone model, app version and automobile make.
-*   NPR may collect information related to content preferences and, only with the visitor's specific additional consent, other personal information (such as age or gender) that the visitor has chosen to associate with the visitor's social media account(s).
+*   NPR may collect information related to content preferences.
+*   NPR may collect a visitor's personal information (such as age or gender) (a) that the visitor has chosen to associate with the visitor's social media account(s), with the visitor's specific additional consent, or (b) in aggregated, non-identifying form through third party vendors.
 *   NPR uses cookies and web beacons to track certain user activity. NPR's third party vendors that provide analytics services, provide NPR's discussion platform, and serve sponsorship messages also may use their own cookies and web beacons.
 
 **Use of Information**
 
 *   NPR uses the personal information it gathers (a) to provide requested products and services, (b) to identify users when NPR publishes material they submitted, and (c) for internal NPR and NPR Member station purposes.
-*   NPR uses access logs, content preferences, cookies and web beacons to analyze use of the NPR Services, offer interactive features, and personalize the NPR Services, such as by recalling user information so that the user does not have to re-enter it, offering local station content or other content that may be of interest to the visitor, and displaying more relevant sponsorship messages,
+*   NPR uses access logs, content preferences, cookies, web beacons, and third party analytics data to analyze use of the NPR Services, offer interactive features, and personalize the NPR Services, such as by recalling user information so that the user does not have to re-enter it, offering local station content or other content that may be of interest to the visitor, and displaying more relevant sponsorship messages.
 
 **Sharing Information with Third Parties**
 
@@ -95,7 +96,7 @@ NPR asks visitors to provide certain personal information when they register for
 
 Within NPR's mobile sites and applications and any features of these sites and applications ("NPR Mobile Services"), NPR collects a device's operating system, phone model, app version, automobile make, and content preferences. NPR also collects geolocation data through the NPR Services. Geolocation data consists of general location information based on latitude and longitude, rounded to a few miles radius, or based on IP addresses.
 
-If a visitor provides specific additional consent through the authentication process for the visitor's social media account provider(s), NPR also may collect other personal information (such as age, gender or other demographic information) that the visitor has chosen to associate with his or her own social media account(s).
+NPR also may collect other personal information (such as age, gender or other demographic information) (a) that the visitor has chosen to associate with his or her own social media account(s), if the visitor provides specific additional consent through the authentication process for the visitor's social media account provider(s), or (b) in aggregated non-identifying form through third-party vendors that use cookies to provide analytics services.
 
 Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses the NPR Services. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, e-mail address, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information:
 
@@ -117,15 +118,15 @@ Cookies and Other Technologies**
 
 NPR also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a web site, application or service. Only the web site, application or service that set the cookie can read it, and it can only be used as a record keeping device to store user IDs and information that the site already has. It cannot be used to read other information from the user's hard drive.
 
-NPR uses cookies to track users' activity through the NPR Services in order to improve the site/application/service architecture, to offer the user interactive features that would not be possible without them, to offer local station content or other content that may be of interest to the visitor, to recall specific information to save the user time during subsequent visits to the NPR Services, and to direct more relevant sponsorship or underwriting messages to the user while the user is on the NPR Services, based on the user's activity on the NPR Services. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Shop, and other interactive features also use cookies.
+NPR uses cookies to track users' activity through the NPR Services, and uses information gathered through third party vendor cookies, to improve the site/application/service architecture, to offer the user interactive features that would not be possible without them, to offer local station content or other content that may be of interest to the visitor, to recall specific information to save the user time during subsequent visits to the NPR Services, and to direct more relevant sponsorship or underwriting messages to the user while the user is on the NPR Services. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Shop, and other interactive features also use cookies.
 
-Third party vendors that measure and analyze the use of the NPR Services for NPR, provide NPR's discussion platform and serve sponsorship messages onto the NPR Services, also use their own cookies. In addition, NPR works with third party vendors which may serve sponsorship or other messages to you on other web sites after you visit the NPR Services. These third party vendors use their own cookies to recognize you as an NPR Services visitor and to serve you sponsorship or other messages on other web sites that they believe you will find most relevant.
+Third party vendors that measure and analyze the use of the NPR Services for NPR, provide NPR's discussion platform and serve sponsorship messages onto the NPR Services, also use their own cookies. For example, NPR's third party analytics vendors use cookies across multiple websites to collect user data (such as data related to age, gender and user interests.) In addition, NPR works with third party vendors which may serve sponsorship or other messages to you on other web sites after you visit the NPR Services. These third party vendors use their own cookies to recognize you as an NPR Services visitor and to serve you sponsorship or other messages on other web sites that they believe you will find most relevant.
 
 NPR and its third party vendors also may use web beacons, alone or in conjunction with cookies. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif., which can be used to recognize certain information on your computer, such as cookies, the time and date a page is viewed, or a description of where API Content is placed. We may use web beacons on this site from time to time for these and other purposes.
 
 **Opting Out of Cookies and Web Beacons**
 
-If you wish to prevent certain or all cookies or web beacons from being set to your hard drive or device, or to clear existing cookies or web beacons from your browser's or device's cache, you may be able to disable them in your browser's preferences, although your browser might then be unable to accommodate certain functionalities on the NPR Services.
+If you wish to prevent certain or all cookies or web beacons from being set to your hard drive or device, or to clear existing cookies or web beacons from your browser's or device's cache, you may be able to disable them in your browser's preferences, although your browser might then be unable to accommodate certain functionalities on the NPR Services. Visitors desiring to prevent data from being collected by Google Analytics may use the opt-out browser add-on developed by Google for this purpose.
 
 In addition, if you wish to opt out of receiving personalized or "interest-based" sponsorship or other messages from our third party vendors and other participating companies, please visit **http://networkadvertising.org/choices**. Please note that if you opt out, you will still receive other types of messages that are not personalized or interest-based. Opting out is cookie-based and will only affect the specific computer and browser on which the opt out is applied. If you subsequently delete your browser cookies, you will need to opt out again.
 
@@ -145,7 +146,7 @@ NPR also may disclose personal information if required to do so by law or if it 
 
 If you do not want your personally-identifying information to be collected or used for any of these purposes, please do not provide it (although if you do not provide it, you may not be able to use or participate in certain features of the NPR Services). You can also 'opt out' according to the process described below.
 
-NPR, with the assistance from time to time of its third party service vendors, uses non-identifying aggregate information to analyze use of and better design the NPR Services and to share with third parties in aggregate form only as appropriate. For example, we may tell a third party that a certain number of users accessed a particular audio stream on our Web site. We also may share non-identifying aggregate information with third party services that combine NPR's information with aggregate information from other sources to provide ratings and ranking data or other services of value to NPR. However, we will not disclose any information that could be used to identify those users.
+NPR, with the assistance from time to time of its third party service vendors, uses non-identifying aggregate information, including non-identifying aggregate data regarding age, gender and/or user interests, to analyze use of and better design the NPR Services and to share with third parties in aggregate form only as appropriate. For example, we may tell a third party that a certain number or category of users accessed a particular audio stream on the NPR Services. We also may share non-identifying aggregate information with third party services that combine NPR's information with aggregate information from other sources to provide ratings and ranking data or other services of value to NPR. However, we will not disclose any information that could be used to identify those users.
 
 **Security**
 
