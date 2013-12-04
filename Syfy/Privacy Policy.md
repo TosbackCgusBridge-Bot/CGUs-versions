@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Best Firsts! Best Firsts!
+Syfy Video Lost Girl: Season 4 Premieres January 13 at 8 ... Lost Girl: Season 4 Premieres January 13 at 8/7c
+
+Season premiere of Lost Girl, Monday January 13th at 8/7c.
+
+Bitten: Premieres January 13 at 10/9c. Bitten: Premieres January 13 at 10/9c.
+
+Bitten, a new series coming to Syfy this January.
+
+Best Firsts! Best Firsts!
 
 Nicki Clyne &. BlastrTV take you through our favorite first episodes in all of scifi! Come argue with us every Thursday!
 
 Small Roles, Big Impact! Small Roles, Big Impact!
 
 Nicki Clyne shows us that size doesn't matter. Here are some of the favorite small roles that had the biggest impacts.
-
-Bar Wars: The Best Tequila Wormholes in the G ... Bar Wars: The Best Tequila Wormholes in the Galaxy!
-
-Nicki Clyne guides you through our favorite bars in the Scifi universe.
-
-Blastr Origin Stories: Samuel L Jackson on Ni ... Blastr Origin Stories: Samuel L Jackson on Nick Fury
-
-Samuel L Jackson explains those first moments of creating Nick Fury, how he first found his comic doppelganger and that scar!
 
 *   FAQ
 *   Feedback
