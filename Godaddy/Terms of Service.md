@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: December 3, 2013**
+**Last Revised: December 4, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -13,7 +13,7 @@ Whether you are simply browsing or using this Site or purchase Services, your us
 
 Agreements
 
-      Auctions Membership Agreement CashParking® Service Agreement Change of Registrant Agreement Direct Affiliate Program Agreement Domain Buy Service Agreement Domain Name Appraisal Agreement Domain Name Proxy Agreement Domain Name Registration Agreement Domain Name Transfer Agreement Hosting Agreement Marketing Applications Agreement GoDaddy Online Bookkeeping Service Agreement Professional Design Services Agreement Quick Blogcast Service Agreement Quick Shopping Cart Agreement Reseller Agreement Website and Web Store Design Service Agreement Website Builder Service Agreement Website Protection Agreement Workspace Service Agreement  
+      Auctions Membership Agreement CashParking® Service Agreement Change of Registrant Agreement Direct Affiliate Program Agreement Domain Buy Service Agreement Domain Name Appraisal Agreement Domain Name Proxy Agreement Domain Name Registration Agreement Domain Name Transfer Agreement Hosting Agreement Marketing Applications Agreement GoDaddy Online Bookkeeping Service Professional Design Services Agreement Quick Blogcast Service Agreement Quick Shopping Cart Agreement Reseller Agreement Website and Web Store Design Service Website Builder Service Agreement Website Protection Agreement Workspace Service Agreement  
 
 Policies
 
@@ -769,5 +769,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 12/3/2013  
+Revised: 12/4/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
