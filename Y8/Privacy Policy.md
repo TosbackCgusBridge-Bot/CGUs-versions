@@ -32,7 +32,6 @@ Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games.
 *   Log out
 
 *   Not logged in.
-*   My games
 *   Log in
 *   Register
 
