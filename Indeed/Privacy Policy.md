@@ -3,7 +3,7 @@ Find JobsFind ResumesEmployers / Post Job Post your resume Sign in What: Where: 
 *   Our Company
 *   Press Releases
 *   Media Coverage
-*   Blog.Indeed
+*   Indeed Blog
 *   Indeed is Hiring
 *   Terms of Service
 *   Privacy Policy
