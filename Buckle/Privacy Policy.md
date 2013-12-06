@@ -111,11 +111,13 @@ We have made every effort to ensure that the information transmitted to us onlin
 
 While we implement the above security measures on this site, you should be aware that 100% security is not always possible. This Privacy &. Security Policy supersedes all prior policies and is effective July 1, 2013. Contact Us
 
-Questions?  
-Phone: 800-522-8090  
-Mon-Fri 7 am - 9 pm CT  
-Sat-Sun 8 am - 5 pm CT  
-Email: online.orders@buckle.com  
+Corporate Guest Services:  
+Phone: 800-607-9788  
+Mon-Fri: 8 am - 9 pm CT  
+Sat: 9 am - 8 pm CT  
+Sun: 12 pm - 6 pm CT  
+  
+Email: guest.services@buckle.com  
 Fax: 308-236-4493
 
 Corporate Office:  
@@ -127,10 +129,17 @@ Phone: 800-626-1255
 Screenprinting Service:  
 Phone: 800-626-1255
 
+Buckle.com Phone Orders/Payment Questions:  
+Phone: 800-522-8090  
+Mon-Fri 7 am - 9 pm CT  
+Sat-Sun 8 am - 5 pm CT  
+Email: online.orders@buckle.com  
+Fax: 308-236-4493
+
 Buckle Credit Card Questions?  
 Comenity Bank  
 Phone: 888-427-7786  
-TDD/TTY: 800-695-1788
+TDD/TYY: 800-695-1788  
 
 *   Buckle Credit Card  
     Benefits | Apply | Online Bill Pay
