@@ -21,7 +21,6 @@
     *   Salary Calculator
     *   Career Tests
     *   hireINSIDER
-    *   Career Insights
 
 Search Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Save a Search >>. Saved Searches How Much Do You Make?
 
