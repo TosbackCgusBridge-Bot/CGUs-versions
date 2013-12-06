@@ -1,9 +1,12 @@
+*   Notebook
+*   Owners
+*   English Español
+
 *   Select Vehicle
 *   Shopping Tools
 *   Find a Dealer
-
-*   Owners
-*   English Español
+*   Build &. Price
+*   Local Specials
 
 1.  Cars &. Minivan
     *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 Explore Build
@@ -38,7 +41,7 @@
     *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
     *   2014 Highlander  
-        Coming Early 2014 View More Info
+        Coming December View More Info
     *   2014 FJ Cruiser  
         Coming Early 2014 View More Info
     *   Concept Vehicles See Vehicles
@@ -65,7 +68,7 @@ View All Vehicles Shopping Tools
 *   Toyota Certified Used Vehicles
 *   Contact a Dealer
 
-Support Site Help
+Go Support Site Help
 
 *   Contact Us
 *   Site Map
@@ -85,7 +88,7 @@ Learn more
   
 
 **Toyota Privacy Policy – Summary**  
-This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated December 6th, 2011
+This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated October 23, 2013
 
   
 
@@ -255,7 +258,7 @@ The Platforms are not directed to children under 13. We do not knowingly collect
 
 We take information security seriously and use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. When we collect sensitive information on our sites or within our mobile application (such as credit card number or geo-location information), we encrypt the transmission of that information using secure socket layer technology.
 
-_Beware of Phishing Scams:_ There have been noticeable increases in the number of suspicious e-mails claiming that the e-mail recipient has won a Toyota lottery or other promotion. Sometimes the e-mail claims that the recipient has won a new Toyota Prius. In order to claim the prize, the e-mail asks that Personal Information be sent to a Hotmail or Yahoo e-mail address. Samples of these hoax e-mails can be found at this Web site.
+_Beware of Phishing Scams:_ There have been noticeable increases in the number of suspicious e-mails claiming that the e-mail recipient has won a Toyota lottery or other promotion. Sometimes the e-mail claims that the recipient has won a new Toyota Prius. In order to claim the prize, the e-mail asks that Personal Information be sent to a Hotmail or Yahoo e-mail address. Samples of these hoax e-mails can be found at this web site.
 
 This type of e-mail solicitation is known commonly as a "phishing" scam, with the primary objective being to obtain one’s personal information. This information can then be utilized to steal a person’s identity. For example, a "Toyota Lottery" phishing scam is often sent from Chinese (.cn), German (.de) or British (.co.uk) addresses but can originate from anywhere and look very official even to the most savvy of Internet users. Toyota will never ask you to send passwords, login names, Social Security numbers, or other personal information through e-mail or U.S. mail or fax or text message. If you receive an email or letter by U.S. mail or fax or text message from Toyota asking you to update your credit card information, do not respond: this is a phishing scam. Recipients of suspicious e-mail like this should delete the message from their in-box and, if possible, update their e-mail filter settings to block e-mails from the e-mail address being used. The Federal Trade Commission and the Antiphishing Workgroup are also good sources of information about these types of security threats and how they may be reported to the authorities.
 
