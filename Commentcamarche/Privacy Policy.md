@@ -124,13 +124,13 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   D'utilisation
 *   Conditions générales
 *   Modèle Condition Générale de Vente » Forum - Webmaster
-*   Iphone probléme app store (Résolu) » Forum - IPhone
+*   Pixmania » Articles
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
+*   Résiliation abonnement canal sat (Résolu) » Forum - Cinéma / Télé
+*   Conditions générales (Résolu) » Forum - Mobile
 
 Communautés d'assistance et de conseils.
 
-*   Forum iPhone
 *   Forum Mobile
-*   Forum Webmastering
+*   Forum iPhone
+*   Forum SFR
