@@ -9,7 +9,7 @@ The TRUSTe program covers only information that is collected through this Site a
 
 The Weather Channel has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software, other than mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us. If you are not satisfied with our response or your inquiry has not been satisfactorily addressed within five business days you can contact TRUSTe here.
 
-When you visit a Web site or mobile application displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected. what organization is collecting the information. how the information is used. with whom the information may be shared. what choices are available to you regarding collection, use and distribution of the information. what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control. and how you can make changes to the information. If you have questions or concerns regarding this statement, you may contact us directly at http://feedback.weather.com . If you would like to modify your contact information or personal preferences and you have registered with us and obtained a password, you may access your weather.com profile from the "Weather Tools" section by selecting "My Profile" or accessing https://registration.weather.com/ursa/login or you may contact us directly at http://feedback.weather.com.  
+When you visit a Web site or mobile application displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected. what organization is collecting the information. how the information is used. with whom the information may be shared. what choices are available to you regarding collection, use and distribution of the information. what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control. and how you can make changes to the information. If you have questions or concerns regarding this statement, you may contact us directly at http://feedback.weather.com . If you would like to modify your contact information or personal preferences and you have registered with us and obtained a password, you may access your weather.com profile from the "Weather Tools" section by selecting "My Profile" or accessing https://profile.weather.com or you may contact us directly at http://feedback.weather.com.  
   
 
 2\. Information Collected by us within the Service
@@ -41,16 +41,20 @@ We also may collect certain information through automated means, such as:
 
 _Chat Sessions, Blogs, and Submissions._ In the case of participation in a chat session, we require you to select a user name. Please be aware that chat sessions are monitored and transcripts are posted on the Site for access by other users. Any information, including PII, that you submit during a chat session, in blog comments, in community discussions, in any other user comment field, or in connection with your content submissions, including photo and video submissions, can be read, collected, or used by others who access them, and could be used by other users to send you unsolicited messages. We are not responsible for the information, including PII, you choose to submit in these forums.
 
+  
 _Content Submissions._ If you upload, rate or share videos or photos, you have to be registered and logged into this feature, and you will be required to provide us with a user name and email address or you can log in through your social media provider. If you provide us with content, including, without limitation, submissions and user comments, any metadata, including, without limitation, geo-location and tags, in that content may become publicly available.
 
+  
 _Location Information._ In certain instances in our Services, you will be able to input specific location information in order for us to bring up the weather for that location. For that Service, we will ask you to input specific location such as address, city and state or zip code.
 
 To offer you certain Services, provide advertisements based on your physical geographic location, and engage in the other uses described below, on some devices we provide you the option to opt-in to allow us to use your physical geographic location using GPS, cellular network location based services on your device, or browser services. You may at any time opt-out from these geo-location services by going to the settings on your device.
 
 If you have The Weather Channel mobile application installed on your Microsoft Windows 7 device, you may also opt-out from geo-location by going to the "Settings" menu in the application and toggling location services off. Toggling location services off will also disable certain services in the application, including severe alerts.
 
+  
 _Alerts and notifications._ In certain of our Services, you have the ability to receive push notifications for weather related updates. To provide these services, we may need to collect your email address, phone number, device information, and mobile carrier information, in addition to the zip code or geographic area to which the alert, update or notification pertains. If you no longer wish to receive these types of notifications you may opt-out by turning them off within the settings of your mobile device or the particular Service for which you registered.
 
+  
 _SessionM._ When you log in to Session M's mPOINTS in our mobile applications that contain mPOINTS, Session M will provide us with your email address.
 
 3\. How We Use and Share Your Information
@@ -154,5 +158,7 @@ Keeping the information you provide to The Weather Channel secure is important t
 11\. Changes to the Privacy Policy
 
 The Weather Channel reserves the right to alter our Privacy Policy as business needs require. If we decide to change our Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. All changes to this policy will be posted on this site prior to the time they take effect. If we make material changes to the way we use PII, affected consumers who have provided us with an e-mail address will be notified via e-mail and will be given the opportunity to opt-out. **The Weather Channel, LLC  
-P.O. Box 724554  
-Atlanta, GA 31139**
+300 Interstate Pkwy NE  
+Atlanta, GA 30339  
+ATTN: Legal Dept  
+Telephone: 866-843-0392**
