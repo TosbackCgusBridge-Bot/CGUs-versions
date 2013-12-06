@@ -1,5 +1,5 @@
-**Effective October 17, 2013 Learn More**Web Services Privacy Policy  
-October 17, 2013
+**Effective December 5, 2013 Learn More**Web Services Privacy Policy  
+December 5, 2013
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for http://m.comcast.net and the XfinityTV Player mobile application, please click here. http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html
 
@@ -8,7 +8,7 @@ Summary (Jump to Full Policy) What the Privacy Policy does
 The Web Services Privacy Policy describes the information Comcast collects about you, how Comcast uses that information, and how Comcast protects your privacy when you use:
 
 1.  Comcast-branded mobile applications that link to this Web Services Privacy Policy, such as the Xfinity Connect and Xfinity TV iOS and Android apps.
-2.  the Websites and the services and software we offer here: www.comcast.net, (including all subdomains thereof), www.tunerfish.com, www.xfinityhomesecurity.com, and www.plaxo.com. and
+2.  the Websites and the services and software we offer here: www.comcast.net, (including all subdomains thereof), www.tunerfish.com, www.xfinityhomesecurity.com, www.plaxo.com, www.see.it, and www.rdkcentral.com. and
 3.  versions of these sites that are optimized for mobile browsing (e.g., m.comcast.net).
 
 This summary gives you some key points from the Privacy Policy, but you should read the whole Privacy Policy to get a full understanding of our privacy practices.
@@ -89,7 +89,7 @@ What does this Privacy Policy cover?
 
 This Privacy Policy explains how Comcast will use the information that you provide when you use these Comcast-owned and operated Websites and services:
 
-1.  the Websites www.comcast.net (including all subdomains thereof, such as xfinitytv.comcast.net ("XfinityTV.com") and m.comcast.net), www.xfinityhomesecurity.com, www.tunerfish.com, and www.plaxo.com (the "**Comcast Sites**"). and
+1.  the Websites www.comcast.net (including all subdomains thereof, such as xfinitytv.comcast.net ("XfinityTV.com") and m.comcast.net), www.xfinityhomesecurity.com, www.tunerfish.com, www.plaxo.com, www.see.it, and www.rdkcentral.com (the "**Comcast Sites**"). and
 2.  all mobile applications provided by Comcast that link to this Privacy Policy (including the Xfinity TV Player, Xfinity TV Remote, and Xfinity Connect applications) (the "**Comcast Apps**"). and
 3.  all software and services provided by Plaxo, including those services made available through its application programming interfaces ("APIs") (collectively the "Plaxo Service"). and
 4.  all other software and services provided by Tunerfish, including those services made available by Tunerfish through its APIs (collectively the "Tunerfish Service", and collectively, (1), (2), (3), and (4) the "Comcast Web Services").
@@ -102,7 +102,7 @@ What is outside the scope of this Privacy Policy?
 
 This Privacy Policy **_does not apply_** to your use of any other products or services provided by Comcast such as XFINITY TV, XFINITY Voice, or XFINITY Internet. If you subscribe to or use one or more of these services (including using the Comcast Web Services to place or receive XFINITY Voice calls), you can see the privacy policy that applies to the residential versions of these services by visiting http://www.comcast.com/customerprivacy/.
 
-This Privacy Policy also **_does not apply_** to Comcast's use of information provided by you when you sign up for or use the XFINITY TV Store (xfinitytvstore.comcast.net). Comcast's use of the information you provide through the XFINITY TV Store is described in the XFINITY TV Store Privacy Policy, available at http://xfinitytvstore.comcast.net/PrivacyPolicy.aspx.
+This Privacy Policy also **_does not apply_** to Comcast's use of information provided by you when you sign up for or use the XFINITY TV Store (xfinitytvstore.comcast.net). Comcast's use of the information you provide through the XFINITY TV Store is described in the XFINITY TV Store Privacy Policy, a link to which is available within the footer of that website.
 
 Some of the Comcast Web Services contain links to other Websites, including Websites of third parties who are acting on our behalf as our agents, suppliers, or providers. These other Websites are not operated by Comcast and have their own privacy policies that we encourage you to read before you use them. Other sites that we link to may contain Comcast branding, but these non-Comcast Websites and resources are provided by companies or persons other than Comcast. Examples of these non-Comcast Websites include Websites where you are required to log-in using a username and password other than your username and password for the Comcast Web Services, such as the Jobs channel and the Dating channel on Comcast.net. This Privacy Policy **_does not apply_** to those non-Comcast sites. Those sites will have their own policies that we encourage you to read before you use them.
 
@@ -320,4 +320,4 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 
 You can find customer support and help information at http://customer.comcast.com/Pages/Help.aspx. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your device's or network's settings, or collect information from your device or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: October 17, 2013
+Revised and Effective: December 5, 2013
