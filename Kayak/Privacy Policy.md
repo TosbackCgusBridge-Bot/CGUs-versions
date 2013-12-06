@@ -84,8 +84,8 @@ If you have questions about our privacy practices or need assistance with exerci
 
 KAYAK  
 Attention: Privacy Officer  
-55 North Water Street, Suite 1  
-Norwalk, CT 06854.
+7 Market Street  
+Stamford, CT 06902.
 
 Last updated: May 1, 2013
 
