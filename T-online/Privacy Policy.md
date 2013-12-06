@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Leichenfoto auf Facebook: Amerikaner plädiert auf nicht schuldig
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
@@ -98,11 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
 *   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
 *   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
-*   Neuwieder findet 900 Gehaltsbriefe mit privaten Daten im Müll
 
 weniger Artikel weniger Artikel
 
-*   Facebook präsentiert die beliebtesten Marken im Netzwerk
+*   Neuwieder findet 900 Gehaltsbriefe mit privaten Daten im Müll
 *   Piraten wollen gegen Vorratsdatenspeicherung klagen
 *   Piraten wollen gegen Vorratsdatenspeicherung klagen
 *   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
