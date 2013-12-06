@@ -29,7 +29,6 @@ Zynga Play now!
     *   Mafia Wars
     *   Facebook Games
     *   Mobile Games
-    *   Other Platforms
 *   news
     *   Press Releases
     *   Company Images
