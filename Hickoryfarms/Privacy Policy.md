@@ -18,7 +18,6 @@ Your Cart(0) Catalog Navigation
     *   New Product Showcase
     *   Sweets
     *   Top Sellers
-    *   Baskets &. Towers
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -43,7 +42,6 @@ Search Catalog Search Menu Search Stores Cart
     *   New Product Showcase
     *   Sweets
     *   Top Sellers
-    *   Baskets &. Towers
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -107,9 +105,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
@@ -128,9 +126,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
