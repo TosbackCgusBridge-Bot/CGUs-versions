@@ -1,10 +1,11 @@
-*   Upload
-*   Browse  
+*   Explore 
     *   Featured
     *   Popular
     *   Most Liked
+    *   Infographics
     *   Videos
 
+*   Upload
 *   Go Pro
 *   Login
 *   Signup
@@ -156,6 +157,6 @@ _Effective September 9, 2013_. Please click here to read our summary of the chan
 *   Engineering Blog
 *   Blog Widgets
 
-© 2013 SlideShare Inc. All rights reserved.
+LinkedIn Corporation © 2013
 
 RSS Feed
