@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Leichenfoto auf Facebook: Amerikaner plädiert auf nicht schuldig
+*   Schaar fordert mehr Unabhängigkeit und Befugnisse für Nachfolger
+*   Europäische Datenschutzreform verzögert sich
+*   Facebook, Google &. Co.: Botnetz stiehlt Millionen Login-Daten
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
 *   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
 *   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
-*   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
-*   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
 
 weniger Artikel weniger Artikel
 
+*   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
+*   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
 *   Neuwieder findet 900 Gehaltsbriefe mit privaten Daten im Müll
 *   Piraten wollen gegen Vorratsdatenspeicherung klagen
 *   Piraten wollen gegen Vorratsdatenspeicherung klagen
@@ -112,8 +114,6 @@ weniger Artikel weniger Artikel
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   EU-Kommission: USA dürfen weiter auf Bankdaten zugreifen
 *   EU-Kommission legt Bericht zu Datenschutz-Abkommen mit USA vor
-*   Mehr als 100 000 Kontoabfragen durch Behörden
-*   Mehr als 100 000 Kontoabfragen durch Behörden
 
 *   Kundencenter
 *   Preise und AGB
