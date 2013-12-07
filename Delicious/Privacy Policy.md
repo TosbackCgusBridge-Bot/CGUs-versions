@@ -1,4 +1,4 @@
-Delicious Privacy Policy Last Updated: January 10, 2013What's new Welcome to Delicious!
+Delicious Privacy Policy Last Updated: January 10, 2013 - What’s new Welcome to Delicious!
 
 AVOS Systems, Inc. provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
 
