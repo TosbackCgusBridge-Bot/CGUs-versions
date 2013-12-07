@@ -1,4 +1,4 @@
-Delicious Terms of Service Last Updated: January 10, 2013What's new Welcome to Delicious!
+Delicious Terms of Service Last Updated: January 10, 2013 - What’s new Welcome to Delicious!
 
 AVOS Systems, Inc. provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
 
@@ -58,7 +58,7 @@ We have the right to and will terminate users’ accounts if they repeatedly inf
 
 By the way, copyright and trademark laws also protect the Service and AVOS exclusively owns all rights to the Service except as expressly provided in these Terms. All trademarks, service marks, logos, trade names and any other proprietary designations of AVOS used herein are trademarks or registered trademarks of AVOS. Any other trademarks, service marks, logos, trade names and any other proprietary designations are the trademarks or registered trademarks of their respective parties.
 
-What Not To Do
+What not to Do
 
 Most of this should be pretty obvious, but here’s a list just to make sure people are clear on some of the details of what it’s not ok to do on the Service:
 
