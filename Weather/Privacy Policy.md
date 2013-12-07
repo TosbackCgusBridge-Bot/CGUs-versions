@@ -1,5 +1,5 @@
   
-**EFFECTIVE AS OF October 17, 2013**
+**EFFECTIVE AS OF December 6, 2013**
 
 The Weather Channel, LLC ("The Weather Channel") is strongly committed to protecting your privacy. This Privacy Policy discloses how we collect, use and share information we gather about you on the Services and the choices you have regarding our use of and your ability to correct the information. "Services" include The Weather Channel's _weather.com_® website (the "Site"), and other Internet enabled or wireless means by which The Weather Channel provides content to you or receives content from you, including, without limitation, software applications (including _The Weather Channel_® Desktop), mobile web sites, mobile applications, content and blog submission services, chat rooms, message boards, SMS messaging, and delivery of The Weather Channel content to you at your request. "Services" also includes alert products. "Services" do not include, however websites of The Weather Channel and its affiliates that primarily serve international markets (e.g. weather.co.uk), or any other products or services of The Weather Channel. We hope that this disclosure will enhance your experience and reinforce the trust that you place in The Weather Channel's products and services.
 
@@ -158,7 +158,7 @@ Keeping the information you provide to The Weather Channel secure is important t
 11\. Changes to the Privacy Policy
 
 The Weather Channel reserves the right to alter our Privacy Policy as business needs require. If we decide to change our Privacy Policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. All changes to this policy will be posted on this site prior to the time they take effect. If we make material changes to the way we use PII, affected consumers who have provided us with an e-mail address will be notified via e-mail and will be given the opportunity to opt-out. **The Weather Channel, LLC  
-300 Interstate Pkwy NE  
+300 Interstate North Pkwy SE  
 Atlanta, GA 30339  
 ATTN: Legal Dept  
 Telephone: 866-843-0392**
