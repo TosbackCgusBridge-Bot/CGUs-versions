@@ -1,6 +1,6 @@
 University of Phoenix PRIVACY POLICY – SUMMARY
 
-**Updated:** November 2013
+**Updated:** November 15, 2013
 
 Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy (“Policy“), click here.
 
@@ -18,30 +18,30 @@ We collect various types of Information through our Sites and other websites whe
 
 We will not sell, rent or lease your Personal Information to others except as provided in this policy. We may collect, use and disclose Personal Information for the following purposes:
 
-*   to determine your admissibility and to register you for your selected educational programs
-*   to provide requested products and services
-*   to respond to your inquiries and provide customer support
-*   to administer promotions in which you have indicated an interest
-*   for our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you
-*   for fostering communication and collaboration among members of your University community through Social Networks
-*   for sharing with our Education Partners who may contact you with respect to their educational or other services
-*   for sharing with our Education Partners or Business Associates who are performing services on our behalf
-*   to analyze how Sites and services are being accessed and used
-*   for investigation of information security and information asset protection-related incidents
-*   to test, correct and improve our content, applications and services
-*   to develop new applications, products and services
-*   for Online Behavioral Advertising purposes
-*   to improve Site and service performance and delivery
-*   to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement Policy)
-*   to investigate suspicious information that denotes illegal activity such as financial aid fraud
-*   to analyze academic and learning outcomes and preferences
-*   to analyze risk and business results
-*   to obtain payment for services that we provide to you
-*   to provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
-*   to maintain business records for reasonable periods
-*   to enforce our Terms of Use
-*   to provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
-*   and/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to Apollo Education Group, our Education Partners or our Business Associates.
+*   To determine your admissibility and to register you for your selected educational programs
+*   To provide requested products and services
+*   To respond to your inquiries and provide customer support
+*   To administer promotions in which you have indicated an interest
+*   For our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you
+*   For fostering communication and collaboration among members of your University community through Social Networks
+*   For sharing with our Education Partners who may contact you with respect to their educational or other services
+*   For sharing with our Education Partners or Business Associates who are performing services on our behalf
+*   To analyze how Sites and services are being accessed and used
+*   For investigation of information security and information asset protection-related incidents
+*   To test, correct and improve our content, applications and services
+*   To develop new applications, products and services
+*   For Online Behavioral Advertising purposes
+*   To improve Site and service performance and delivery
+*   To prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement Policy)
+*   To investigate suspicious information that denotes illegal activity such as financial aid fraud
+*   To analyze academic and learning outcomes and preferences
+*   To analyze risk and business results
+*   To obtain payment for services that we provide to you
+*   To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
+*   To maintain business records for reasonable periods
+*   To enforce our Terms of Use
+*   To provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
+*   And/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to Apollo Education Group, our Education Partners or our Business Associates.
 
 **Your Rights and Choices**
 
@@ -49,7 +49,7 @@ Marketing Communications
 
 If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication, or click here.
 
-If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by emailing Office.ComplianceUOPX@phoenix.edu.
+If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt out by emailing Office.ComplianceUOPX@phoenix.edu.
 
 Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email Office.ComplianceUOPX@phoenix.edu.
 
@@ -59,7 +59,7 @@ We or our Business Associates may use data collected on this Site for Online Beh
 
 Other Collection, Use and Disclosure
 
-You may be able to opt-out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt-out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt-out, email Office.ComplianceUOPX@phoenix.edu.
+You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email Office.ComplianceUOPX@phoenix.edu.
 
 Other Important Information
 
@@ -90,7 +90,7 @@ Phoenix, AZ 85040
 
 University of Phoenix PRIVACY POLICY – FULL VERSION
 
-**Updated:** Aug. 29, 2013
+**Updated:** november 15, 2013
 
 **Scope**
 
@@ -123,9 +123,9 @@ University of Phoenix may amend or otherwise modify this Privacy Policy at any t
 
 As used in this Privacy Policy, the following terms have the following meanings:
 
-“Business Associates” means third-party service providers which the University of Phoenix or Apollo Education Group, Inc. may contract with to provide services on our behalf, including but not limited to, Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career or financial services.
+“Business Associates” means third-party service providers which the University of Phoenix or Apollo Education Group, Inc. may contract with to provide services on our behalf, including but not limited to: Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career or financial services.
 
-“Education Partners” means a.) University of Phoenix, Apollo Education Group, Inc., and their subsidiaries and affiliates including educational companies or institutions that Apollo Group, Inc. or its subsidiaries may be providing educational or other related services to under contract and b.) Third party companies who may participate in University of Phoenix or Apollo Education Group, Inc. career initiatives (e.g., potential employers).
+“Education Partners” means a.) University of Phoenix, Apollo Education Group, Inc., and their subsidiaries and affiliates including educational companies or institutions that Apollo Education Group, Inc. or its subsidiaries may be providing educational or other related services to under contract and b.) Third-party companies who may participate in University of Phoenix or Apollo Education Group, Inc. career initiatives (e.g., potential employers).
 
 “Financial Information” means specific Personal Information of a financial nature such as your credit card number.
 
@@ -133,7 +133,7 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 “Personal Information” means Information that may be used, alone or in combination, to identify a specific individual and includes Financial Information.
 
-“Online Behavioral Advertising” means the collection of data from a particular computer or device regarding web-viewing behaviors over time and across web sites for the purpose of using such data to predict user preferences or interests to deliver advertising to that computer or device based on the preferences or interests inferred from such web-viewing behaviors.
+“Online Behavioral Advertising” means the collection of data from a particular computer or device regarding web-viewing behaviors over time and across websites for the purpose of using such data to predict user preferences or interests to deliver advertising to that computer or device based on the preferences or interests inferred from such web-viewing behaviors.
 
 “Site” or “Sites” means websites operated by or exclusively on behalf of University of Phoenix or its parent company Apollo Education Group, Inc. regardless of domain name or IP address.
 
@@ -143,11 +143,11 @@ As used in this Privacy Policy, the following terms have the following meanings:
 
 “Your University” means University of Phoenix.
 
-“We,” “us,” and “our” refer to your University and Apollo Education Group, Inc.
+“We,” “us” and “our” refer to your University and Apollo Education Group, Inc.
 
 “Unrelated Entities” means third parties that are not Education Partners and who are not providing services as Business Associates.
 
-“Web Analytical Information” means internet-generated Information we collect when you visit our Sites. This Information may be linked with Personal Information. When linked with other Information identifying you personally, either alone or in combination with other Information, then such Information also will be considered Personal Information.
+“Web Analytical Information” means Internet-generated Information we collect when you visit our Sites. This Information may be linked with Personal Information. When linked with other Information identifying you personally, either alone or in combination with other Information, then such Information also will be considered Personal Information.
 
 **2\. How We Collect Information**
 
@@ -170,7 +170,7 @@ This Information may be linked with Personal Information to accomplish the purpo
 
 **4\. Information You Provide to Us**
 
-In addition to the Web Analytical Information automatically collected when you visit our Sites, University of Phoenix also collects, uses, and discloses Personal Information that you provide to us voluntarily online or offline when you respond to an advertisement, a survey, or a request for information. register for classes. apply for financial aid. order educational or other products and services. set up a Social Network or other Site profile. or use one of our career resources, learning assessments or other interactive tools. While the exact nature of the Personal Information may vary depending on the type of response or service requested, the following is a non-exclusive list of the types of Information that may be collected to the extent it is necessary and applicable for the intended purposes:
+In addition to the Web Analytical Information automatically collected when you visit our Sites, University of Phoenix also collects, uses and discloses Personal Information that you provide to us voluntarily online or offline when you respond to an advertisement, a survey or a request for information. register for classes. apply for financial aid. order educational or other products and services. set up a Social Network or other Site profile. or use one of our career resources, learning assessments or other interactive tools. While the exact nature of the Personal Information may vary depending on the type of response or service requested, the following is a non-exclusive list of the types of Information that may be collected to the extent it is necessary and applicable for the intended purposes:
 
 *   First, middle and last name, previous names
 *   Street address, city, state, country, postal code
@@ -183,12 +183,12 @@ In addition to the Web Analytical Information automatically collected when you v
 *   Employment history
 *   Native language
 *   Address type
-*   E-mail address
+*   Email address
 *   Valid day or evening telephone number
 *   Cell phone number
 *   Confirmation of the age of majority
 *   Campus (based on postal code list)
-*   Apollo institution interested in
+*   Apollo Education Partner interested in
 *   Current degree program of interest
 *   Current modality of interest (online, on-ground or FlexNet)
 *   Publisher code (Site ID)
@@ -203,9 +203,9 @@ In addition to the Web Analytical Information automatically collected when you v
 *   Credit card number
 *   Other Financial Information and information related to financial aid eligibility
 *   Social Networking content
-*   Learning, skill, or career assessment data
+*   Learning, skill or career assessment data
 *   Career goals
-*   Other Information after you become a University student such as course assignments, grades and other educational records relating to your enrollment at your University and that may be required to be collected in the normal course of your studies.
+*   Other Information after you become a University student such as course assignments, grades and other educational records relating to your enrollment at your University and that may be required to be collected in the normal course of your studies
 
 **5\. How We Use and Disclose This Information**
 
@@ -215,30 +215,30 @@ We will not sell, rent or lease your Personal Information to others except in ac
 
 We may collect, use and disclose Personal Information for the following purposes:
 
-*   to determine your admissibility and to register you for your selected educational programs
-*   to provide requested products and services
-*   to respond to your inquiries and provide customer support
-*   to administer promotions in which you have indicated an interest
-*   for our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you
-*   for fostering communication and collaboration among members of your University community through Social Networks
-*   for sharing with our Education Partners who may contact you with respect to their educational or other services
-*   for sharing with our Education Partners or Business Associates who are performing services on our behalf
-*   to analyze how Sites and services are being accessed and used
-*   for investigation of information security and information asset protection-related incidents
-*   to test, correct and improve our content, applications and services
-*   to develop new applications, products and services
-*   for Online Behavioral Advertising purposes
-*   to improve Site and service performance and delivery
-*   to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement policy)
-*   to investigate suspicious information that denotes illegal activity such as financial aid fraud
-*   to analyze academic and learning outcomes and preferences
-*   to analyze risk and business results
-*   to obtain payment for services that we provide to you
-*   to provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
-*   to maintain business records for reasonable periods
-*   to enforce our Terms of Use
-*   to provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
-*   and/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to the University, Apollo Education Group, our Education Partners or our Business Associates.
+*   To determine your admissibility and to register you for your selected educational programs
+*   To provide requested products and services
+*   To respond to your inquiries and provide customer support
+*   To administer promotions in which you have indicated an interest
+*   For our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you
+*   For fostering communication and collaboration among members of your University community through Social Networks
+*   For sharing with our Education Partners who may contact you with respect to their educational or other services
+*   For sharing with our Education Partners or Business Associates who are performing services on our behalf
+*   To analyze how Sites and services are being accessed and used
+*   For investigation of information security and information asset protection-related incidents
+*   To test, correct and improve our content, applications and services
+*   To develop new applications, products and services
+*   For Online Behavioral Advertising purposes
+*   To improve Site and service performance and delivery
+*   To prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement policy)
+*   To investigate suspicious information that denotes illegal activity such as financial aid fraud
+*   To analyze academic and learning outcomes and preferences
+*   To analyze risk and business results
+*   To obtain payment for services that we provide to you
+*   To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
+*   To maintain business records for reasonable periods
+*   To enforce our Terms of Use
+*   To provide to Education Partners, Business Associates or Unrelated Entities in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed with such transaction or fulfilling any records or other reporting requirements to such parties. In the event of any actual reorganization, merger or acquisition, such Information may be transferred as part of the transaction to the acquirer
+*   And/or as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to the University, Apollo Education Group, our Education Partners or our Business Associates
 
 Express Consent to Receive Prerecorded Voice Messages, Text Messages and Calls Using an Autodialer
 
@@ -263,13 +263,13 @@ ARSC@phoenix.edu
 
 **7\. Location of Information Processing**
 
-We operate or may process information in multiple jurisdictions and some Education Partners and Business Associates may be located outside of the jurisdiction in which you reside. In such cases, your Personal Information may be collected, used, disclosed, stored and processed in these other jurisdictions for the purposes described in this Privacy Policy. The data protection and other laws of the United States and other countries might differ from your jurisdiction. We require our Education Partners and Business Associates to use your Personal Information in accordance with this policy and to take reasonable steps to ensure that your privacy is protected in accordance with applicable laws. Please be advised that, by using our Sites and services, you are consenting to the transfer and processing of your Information across international borders. Your Information may be subject to the laws of those other jurisdictions, including lawful requirements to disclose Personal Information to government authorities.
+We operate or may process information in multiple jurisdictions, and some Education Partners and Business Associates may be located outside of the jurisdiction in which you reside. In such cases, your Personal Information may be collected, used, disclosed, stored and processed in these other jurisdictions for the purposes described in this Privacy Policy. The data protection and other laws of the United States and other countries might differ from your jurisdiction. We require our Education Partners and Business Associates to use your Personal Information in accordance with this policy and to take reasonable steps to ensure that your privacy is protected in accordance with applicable laws. Please be advised that, by using our Sites and services, you are consenting to the transfer and processing of your Information across international borders. Your Information may be subject to the laws of those other jurisdictions, including lawful requirements to disclose Personal Information to government authorities.
 
 **8\. Online Behavioral Advertising**
 
 We use a third-party assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA). As part of this service, our online advertisements and Sites taking part in Online Behavioral Advertising are delivered with icons that help consumers understand how their data is being used and provide options to consumers who want more control. Some of these ads are targeted to your interests and preferences based on your browsing history, which is stored in a cookie on your computer. Your browsing history on the Sites may be tracked in these cookies even if ads are not being displayed. For more information, or to opt out of this type of information collection, please visit http://info.evidon.com/pub\_info/184?v=1.
 
-**9\. Opt-Out**
+**9\. Opt Out**
 
 Marketing Communications
 
@@ -277,7 +277,7 @@ If you do not wish to receive marketing email communications from us, you may ex
 
 If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by emailing Office.ComplianceUOPX@phoenix.edu.
 
-Marketing opt-out requests will only remove you from our list and the list of any Business Associate performing services on our behalf. We are not responsible for the use any other party may make of the Information once it has been transferred in accordance with this Policy and you will need to contact such entity to have your Information removed from its database.
+Marketing opt-out requests will only remove you from our list and the list of any Business Associate performing services on our behalf. We are not responsible for the use any other party may make of the Information once it has been transferred in accordance with this Policy, and you will need to contact such entity to have your Information removed from its database.
 
 Student Educational Records and Social Networking Content
 
@@ -287,7 +287,7 @@ You may change various user settings related to sharing your Personal Informatio
 
 Other Collection, Use and Disclosure
 
-In any situation not covered by the foregoing, you may be able to opt-out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt-out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt-out, email **Office.ComplianceUOPX@phoenix.edu.**
+In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email **Office.ComplianceUOPX@phoenix.edu.**
 
 **10\. Your California Privacy Rights**
 
@@ -297,7 +297,7 @@ Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide 
 
 We will take commercially reasonable measures to secure and store your Information to protect against the loss, misuse and alteration of the Information under our control. We utilize industry-standard security measures when accepting your credit card Information during the online ordering process, as well as whenever we ask you to log in to any of our Sites.
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be completely secure. As a result, although we will utilize such measures, we do not guarantee you against the loss, misuse or alteration of Information under our control, and you provide Information to us at your own risk. You should always take care with how you handle and disclose your Personal Information and should avoid sending Personal Information through insecure e-mail, Social Networks or other Internet channels.
+Unfortunately, no data transmission over the Internet can be guaranteed to be completely secure. As a result, although we will utilize such measures, we do not guarantee you against the loss, misuse or alteration of Information under our control, and you provide Information to us at your own risk. You should always take care how you handle and disclose your Personal Information and should avoid sending Personal Information through insecure email, Social Networks or other Internet channels.
 
 **12\. Monitoring of Communications**
 
@@ -305,7 +305,7 @@ We may monitor and retain all incoming and outgoing communications for training 
 
 **13\. Internet Technologies Used**
 
-Cookies, web beacons and other relevant Internet technologies are used on our Sites to allow us to accomplish the uses set out above as well as to deliver Sites messaging and to keep track of your Information. These small pieces of program code reside in your computer and browser and can be removed. If you desire to remove such technologies you may do so, but this may render our Sites unusable to you. You can opt out of cookies or the other Internet technologies used by disabling these features in your browser program. Please note that the deletion of certain opt-out cookies may require you to renew your Online Behavioral Advertising opt-outs periodically. Consult your browser's Help menu for assistance in changing cookie settings or removing cookie files.
+Cookies, web beacons and other relevant Internet technologies are used on our Sites to allow us to accomplish the uses set out above as well as to deliver Sites messaging and to keep track of your Information. These small pieces of program code reside in your computer and browser and can be removed. If you desire to remove such technologies you may do so, but this may render our Sites unusable to you. You can opt out of cookies or the other Internet technologies used by disabling these features in your browser program. Please note that the deletion of certain opt-out cookies may require you to renew your Online Behavioral Advertising opt outs periodically. Consult your browser's Help menu for assistance in changing cookie settings or removing cookie files.
 
 **14\. Site Hosting and Links from Our Sites to Other Websites**
 
