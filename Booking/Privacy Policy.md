@@ -139,7 +139,7 @@ Only Booking.com has access to Booking.com cookies. Cookies placed by third part
 
 How can you manage your cookie preferences?
 
-Using your browser settings in, for example, Internet Explorer, Safari, Firefox or Chrome, you can set which cookies to accept and which to reject. Where you find these settings depends on which browser you use. Use the "Help" function in your browser to locate the settings you need.
+Using your browser settings in, for example, Internet Explorer, Safari, Firefox or Chrome, you can set which cookies to accept and which to reject. Where you find these settings depends on which browser you use. Use the &quot;Help&quot. function in your browser to locate the settings you need.
 
 If you choose not to accept certain cookies, you may not be able to use some functions on our website. Plus, opting out of an online advertising network doesn't mean that you won't receive or be subject to online advertising or marketing analysis. It means that the network you opted out of will no longer deliver ads tailored to your web preferences and browsing patterns.
 
