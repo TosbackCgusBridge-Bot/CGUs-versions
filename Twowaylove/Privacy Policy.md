@@ -43,15 +43,17 @@ Information collected
 
 If you choose to register with us, interact and participate in conversation with other users and/or in a forum or leave feedback, we will show your nickname together with your comments and feedback.
 
-Usage of cookies
+Use of cookies
 
 TwoWayLove uses so-called "cookies" in connection with the Services. Cookies are pieces of information stored on your computer's hard drive or browser to enable TwoWayLove to identify you as a visitor. The use of cookies is a standard in this area of business. The cookies are stored on your computer only during the usage of the Service. Cookies do not enable any access to and/or inspection of other information on your computer. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. Please understand that if cookies are turned off, you may not be able to use certain parts of the Services or certain functions &. features within the site.
 
-TwoWayLove uses Piwik Analytics, a web analytics solution. Piwik adds cookies to your computer when you visit the Portal and collects information about website traffic to create statistics for the site owner. Unlike other analytical products, Piwik is hosted on the same server as the website and is, therefore, a little faster in operation and controlled by TwoWayLove. Additionally, unlike other analytical products, Piwik does not make any data available to third-party companies which might reuse this data for other purposes.
+TwoWayLove uses the following cookies Name Domain Pages Purpose **\_pk\_id.3.f1bd** twowaylove.com 8 Piwik traffic monitoring cookie. **\_pk\_id.9.f1bd** twowaylove.com 1 Piwik traffic monitoring cookie. **PHPSESSID** twowaylove.com 1 Session cookie. Allow visitors to be recognised as unique within a website to the extent that any page changes or item or data selection is remembered from page to page dring the visit.  
+
+TwoWayLove uses Piwik Analytics, a web analytics solution. Piwik adds cookies to your computer when you visit the site and collects information about website traffic to create statistics for the site owner. Unlike other analytical products, Piwik is hosted on the same server as the website and is, therefore, a little faster in operation and controlled by TwoWayLove. Additionally, unlike other analytical products, Piwik does not make any data available to third-party companies which might reuse this data for other purposes.
 
 TwoWayLove may also embed badges from the social networking site Twitter and Facebook. The badges may add cookies to your computer when you visit the Portal.  See Twitter privacy policy and Facebook privacy policy, for details.
 
-Disclosure of personal information
+Piwik Cookie Opt-out Disclosure of personal information
 
 TwoWayLove will not disclose any user-originated personal information to any third parties or to any affiliate companies, cooperation partners or other similar entities without an explicit consent from you. For the avoidance of doubt, TwoWayLove may disclose background information (containing no personal information) to third parties.
 
