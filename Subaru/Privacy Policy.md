@@ -1,260 +1,220 @@
-Log Into MySubaru | Help |
+Subaru Confidence In Motion
+
+*   Log Into MySubaru
+*   Customer Support
+*   Search
 
 *   Home
+*   Vehicles View All Vehicles BRZ Starting at **$25,595** 2014 BRZ
     
-*   Vehicles
+    Starting at
     
-    *   View All Vehicles
-    *   BRZ
-        
-        Starting at **$25,595**
-        
-        2014 BRZ
-        
-        Starting at
-        
-        $25,595
-        
-        MSRP\*
-        
-        Up to
-        
-        34/25 MPG\*\*
-        
-        Highway/City
-        
-        Buttoned-up engineering, unbuttoned.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        BRZ Limited shown
-        
-    *   Impreza
-        
-        Starting at **$17,895**
-        
-        2014 Impreza
-        
-        Starting at
-        
-        $17,895
-        
-        MSRP\*
-        
-        Up to
-        
-        36/27 MPG\*\*
-        
-        Highway/City
-        
-        Plenty of smart and fun options that will make you fall in love with your car.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        Impreza 2.0i Limited shown
-        
-    *   Impreza WRX
-        
-        Starting at **$25,995**
-        
-        2014 Impreza WRX
-        
-        Starting at
-        
-        $25,995
-        
-        MSRP\*
-        
-        Up to
-        
-        25/19 MPG\*\*
-        
-        Highway/City
-        
-        If you like fast, you'll love faster.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        WRX Premium shown
-        
-        See the 2015 WRX  
-        at the L.A. Auto Show
-        
-    *   Legacy
-        
-        Starting at **$20,295**
-        
-        2014 Legacy
-        
-        Starting at
-        
-        $20,295
-        
-        MSRP\*
-        
-        Up to
-        
-        32/24 MPG\*\*
-        
-        Highway/City
-        
-        Intelligence you can feel.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        Legacy 3.6R Limited shown
-        
-        Preview the  
-        2015 Legacy Concept
-        
-    *   Forester
-        
-        Starting at **$21,995**
-        
-        2014 Forester
-        
-        Starting at
-        
-        $21,995
-        
-        MSRP\*
-        
-        Up to
-        
-        32/24 MPG\*\*
-        
-        Highway/City
-        
-        A whole lot to love.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        Forester 2.5i Touring shown
-        
-    *   XV Crosstrek
-        
-        Starting at **$21,995**
-        
-        2014 XV Crosstrek
-        
-        Starting at
-        
-        $21,995
-        
-        MSRP\*
-        
-        Up to
-        
-        33/25 MPG\*\*
-        
-        Highway/City
-        
-        Love where it takes you.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        XV Crosstrek 2.0i Limited shown
-        
-        Introducing the  
-        2014 XV Crosstrek Hybrid
-        
-    *   Outback
-        
-        Starting at **$23,495**
-        
-        2014 Outback
-        
-        Starting at
-        
-        $23,495
-        
-        MSRP\*
-        
-        Up to
-        
-        30/24 MPG\*\*
-        
-        Highway/City
-        
-        When leaving it all behind, start with your limitations.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        Outback 2.5i Premium shown
-        
-    *   Tribeca
-        
-        Starting at **$34,095**
-        
-        2014 Tribeca
-        
-        Starting at
-        
-        $34,095
-        
-        MSRP\*
-        
-        Up to
-        
-        21/16 MPG\*\*
-        
-        Highway/City
-        
-        Roomy interior, stylish exterior. It’s the best of all worlds.
-        
-        Explore
-        
-        *   Overview
-        *   Photos &. Videos
-        *   Compare
-        *   Build Your Own
-        
-        Tribeca 3.6R Limited shown
-        
+    $25,595
+    
+    MSRP\*
+    
+    Up to
+    
+    34/25 MPG\*\*
+    
+    Highway/City
+    
+    Buttoned-up engineering, unbuttoned.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    BRZ Limited shown
+    
+    Impreza Starting at **$17,895** 2014 Impreza
+    
+    Starting at
+    
+    $17,895
+    
+    MSRP\*
+    
+    Up to
+    
+    36/27 MPG\*\*
+    
+    Highway/City
+    
+    Plenty of smart and fun options that will make you fall in love with your car.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    Impreza 2.0i Limited shown
+    
+    Impreza WRX Starting at **$25,995** 2014 Impreza WRX
+    
+    Starting at
+    
+    $25,995
+    
+    MSRP\*
+    
+    Up to
+    
+    25/19 MPG\*\*
+    
+    Highway/City
+    
+    If you like fast, you'll love faster.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    WRX Premium shown
+    
+    See the 2015 WRX  
+    at the L.A. Auto Show Legacy Starting at **$20,295** 2014 Legacy
+    
+    Starting at
+    
+    $20,295
+    
+    MSRP\*
+    
+    Up to
+    
+    32/24 MPG\*\*
+    
+    Highway/City
+    
+    Intelligence you can feel.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    Legacy 3.6R Limited shown
+    
+    Preview the 2015  
+    Legacy Concept Forester Starting at **$21,995** 2014 Forester
+    
+    Starting at
+    
+    $21,995
+    
+    MSRP\*
+    
+    Up to
+    
+    32/24 MPG\*\*
+    
+    Highway/City
+    
+    A whole lot to love.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    Forester 2.5i Touring shown
+    
+    XV Crosstrek Starting at **$21,995** 2014 XV Crosstrek
+    
+    Starting at
+    
+    $21,995
+    
+    MSRP\*
+    
+    Up to
+    
+    33/25 MPG\*\*
+    
+    Highway/City
+    
+    Love where it takes you.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    XV Crosstrek 2.0i Limited shown
+    
+    Introducing the  
+    2014 XV Crosstrek Hybrid Outback Starting at **$23,495** 2014 Outback
+    
+    Starting at
+    
+    $23,495
+    
+    MSRP\*
+    
+    Up to
+    
+    30/24 MPG\*\*
+    
+    Highway/City
+    
+    When leaving it all behind, start with your limitations.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    Outback 2.5i Premium shown
+    
+    Tribeca Starting at **$34,095** 2014 Tribeca
+    
+    Starting at
+    
+    $34,095
+    
+    MSRP\*
+    
+    Up to
+    
+    21/16 MPG\*\*
+    
+    Highway/City
+    
+    Roomy interior, stylish exterior. It’s the best of all worlds.
+    
+    Explore
+    
+    *   Overview
+    *   Photos &. Videos
+    *   Compare
+    *   Build Your Own
+    
+    Tribeca 3.6R Limited shown
+    
+    Certified Pre-Owned
     *   Certified Pre-Owned
-        *   Certified Pre-Owned
-            
-            Fully checked, factory-covered
-            
-            and ready for more adventures.
-            
         
-    
+        Fully checked, factory-covered
+        
+        and ready for more adventures.
+        
 *   Why Subaru
     
     *   All-Wheel Drive
@@ -283,12 +243,11 @@ Log Into MySubaru | Help |
         Stack up every Subaru model against the competition.
         
     
-    *   More
+    More
     *   Overview
     *   Dear Subaru
     *   Environment
     *   Corporate Responsibility
-    
 *   Shopping Tools
     
     *   Special Offers
@@ -317,12 +276,11 @@ Log Into MySubaru | Help |
         Helpful information on financing or leasing your new Subaru.
         
     
-    *   More
+    More
     *   Overview
     *   Estimate Credit Score
     *   Extended Service Plans
     *   View a Brochure
-    
 *   For Owners
     
     *   MySubaru Vehicles
@@ -351,17 +309,13 @@ Log Into MySubaru | Help |
         Trading up? Get the most value for your old Subaru.
         
     
-    *   More
+    More
     *   Overview
     *   Publications
     *   Love Every Mile
-    
 *   Build Your Own
-    
 
-*   Change Find a Dealer
-
-Company
+Change Find a Dealer Company
 
 *   Overview
 *   Partnerships
@@ -468,14 +422,6 @@ We are committed to protecting your privacy and to being transparent about how w
 *   MySubaru Privacy
 *   Conditions
 
-*   Connect
-*   Like us
-*   Follow us
-*   See our videos
-*   Follow on Pinterest
-*   Follow on Instagram
-*   Get email updates
-
 Explore Subaru
 
 *   Vehicles
@@ -504,7 +450,6 @@ Company
 *   Careers
 *   Partnerships
 *   News
-*   Contact Us
 
 Responsibility
 
@@ -523,6 +468,17 @@ Other Sites
 *   STIS
 *   Order Subaru Parts
 
+Connect
+
+*   Like us
+*   Follow us
+*   See our videos
+*   Follow on Pinterest
+*   Follow on Instagram
+*   Get email updates
+
+*   Customer Support
+
 *   Privacy Policy
 *   California Privacy Policy
 *   MySubaru Privacy Policy
@@ -534,3 +490,14 @@ Other Sites
 **© Subaru of America, Inc.** Use of this site signifies your acceptance of the Terms &. Conditions
 
 LEGAL
+
+\* Manufacturer's suggested retail price does not include destination and delivery charges, tax, title and registration fees. Destination and delivery includes handling and inland freight fees and may vary in some states. Prices, specifications, options, features and models subject to change without notice.
+
+\*\* EPA-estimated fuel economy. Actual mileage may vary.
+
+Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
+
+iPod® and iPad® are registered trademarks of Apple Inc.. Brembo® is a registered trademark of Freni Brembo S.p.A.. Alcantara ® is a registered trademark of Alcantara S.p.A and Alcantara® is produced by Toray Group.. TORSEN® is a registered trademark of JTEKT Corporation.. BBS® is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM™ Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth® is a registered trademark of Bluetooth® SIG, Inc.. HomeLink® is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha™ and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android™ is a trademark of Google Inc.
+
+PLEASE REVIEW THESE IMPORTANT DISCLOSURES.  
+Subaru of America, Inc. reserves the right to make changes at any time without notice or obligation to the information contained on this Internet site, prices, incentive programs, specifications, equipment, colors, materials, product illustrations and to change or discontinue models. All prices are based upon Manufacturer's Suggested Retail Prices (""MSRP"") in U.S. dollars (unless otherwise indicated) and exclude taxes, title fees, licensing, options and destination charges unless specifically included. Dealers are independent businesses and are free to set their own retail prices. All information contained at this Internet site is intended for the USA market only.
