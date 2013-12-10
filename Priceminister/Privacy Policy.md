@@ -71,14 +71,15 @@ Vous pouvez en effet modifier les paramètres de votre navigateur de manière à
 En particulier, certains cookies sont utilisés pour afficher des publicités personnalisées vous proposant des produits similaires à ceux déjà consultés et disponibles sur PriceMinister. Pour désactiver ce service, rendez-vous aux adresses suivantes :  
    
 \>. Critéo  
-\>. MyThingsMedia  
 \>. Hi-Media  
 \>. 1000mercis  
 \>. NuggAdd  
 \>. Weborama  
-\>. ThinkRealTime  
-\>. mediaFORGE  
-\>. SocioMantic  
+\>. Google  
+\>. Ligatus  
+\>. Adverline  
+\>. NextPerformance  
+\>. Eperflex  
    
 Ainsi, l’enregistrement des cookies décrits ci-dessus dans votre terminal est essentiellement subordonné à votre volonté, que vous pouvez exprimer et modifier à tout moment à travers les choix qui vous sont offerts par votre logiciel de navigation. Si vous avez accepté dans votre logiciel de navigation l’enregistrement de cookies dans votre terminal, PriceMinister, nos prestataires de mesures et nos partenaires publicitaires pourront effectuer les traitements de vos informations de navigation décrits ci-dessus, sous réserve des droits que vous aurez exercés.  
    
