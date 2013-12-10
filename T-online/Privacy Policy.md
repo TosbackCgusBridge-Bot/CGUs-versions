@@ -91,9 +91,9 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Polizei warnt vor Facebook-Hoax über kostenlose Handschuhe
 *   Schaar fordert mehr Unabhängigkeit und Befugnisse für Nachfolger
 *   Europäische Datenschutzreform verzögert sich
-*   Facebook, Google &. Co.: Botnetz stiehlt Millionen Login-Daten
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
