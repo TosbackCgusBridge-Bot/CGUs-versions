@@ -1,5 +1,13 @@
-craigslist  
-online community about >. privacy policy Privacy Policy
+about >. privacy policy craigslist  
+online community
+
+Press inquiries:
+
+Susan MacTavish Best  
+Best Public Relations  
+press@craigslist.org
+
+Privacy Policy
 
 craigslist has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by craigslist from time to time. craigslist will provide notice of materially significant changes to this privacy policy by posting notice on the craigslist site.
 
@@ -53,4 +61,11 @@ We welcome your feedback on this document in our feedback forum.
 *   mobile
 *   standard
 
-Still have questions? try our help desk discussion forum. \[?\] You can also send us a note.
+*   © 2013 craigslist
+*   help
+*   terms
+*   privacy
+*   safety
+*   feedback
+*   about
+*   cl jobs
