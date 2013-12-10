@@ -259,13 +259,13 @@ Bitten: Premieres January 13 at 10/9c. Bitten: Premieres January 13 at 10/9c.
 
 Bitten, a new series coming to Syfy this January.
 
+Controversial Endings! Controversial Endings!
+
+BlastrTV and Nicki Clyne take you through the most controversial endings in sci fi, horror and even video games! Know something that missed our list? Come argue with us #BlastrTV
+
 Best Firsts! Best Firsts!
 
 Nicki Clyne &. BlastrTV take you through our favorite first episodes in all of scifi! Come argue with us every Thursday!
-
-Small Roles, Big Impact! Small Roles, Big Impact!
-
-Nicki Clyne shows us that size doesn't matter. Here are some of the favorite small roles that had the biggest impacts.
 
 *   FAQ
 *   Feedback
