@@ -104,6 +104,7 @@ Page Last Reviewed or Updated: 01-Nov-2013
     *   Compliance &. Enforcement
     *   Tax Stats, Facts &. Figures
     *   IRS.gov Information
+    *   Contact Your Local IRS Office
     *   Contact Us
     *   More ...
 *   Work at IRS
