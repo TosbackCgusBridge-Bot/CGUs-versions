@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Polizei warnt vor Facebook-Hoax über kostenlose Handschuhe
+*   Debeka richtet nach Vorwürfen illegalen Datenhandels Hotline ein
+*   Facebook-Verbot für die Tochter: Veronica Ferres greift durch
 *   Schaar fordert mehr Unabhängigkeit und Befugnisse für Nachfolger
 *   Europäische Datenschutzreform verzögert sich
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
 *   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
-*   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
 
 weniger Artikel weniger Artikel
 
+*   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
 *   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
 *   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
 *   Neuwieder findet 900 Gehaltsbriefe mit privaten Daten im Müll
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   EU-Kommission: USA dürfen weiter auf Bankdaten zugreifen
-*   EU-Kommission legt Bericht zu Datenschutz-Abkommen mit USA vor
 
 *   Kundencenter
 *   Preise und AGB
