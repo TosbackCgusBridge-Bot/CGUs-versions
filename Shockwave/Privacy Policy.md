@@ -10,7 +10,7 @@ GO Games brought to you by log in | sign up   
 
 *   Daily Games
 
-*   Jigsaws
+*   Jigsaw
 
 *   Sale
 
