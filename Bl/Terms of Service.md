@@ -49,14 +49,15 @@ You agree not to:
 
 Content on Flickr and Wikimedia Commons
 
-Public Domain Mark and CC0 images from British Library collections are being made available on photo-sharing websites Flickr and Wikimedia Commons to increase access and encourage reuse of our open materials. These works are marked "no known copyright restrictions," indicating that the British Library is unaware of any current copyright restrictions on these works.
+Public Domain Mark and CC0 images from British Library collections are being made available on photo-sharing websites Flickr and Wikimedia Commons to increase access and encourage reuse of our open materials. These works are marked "no known copyright restrictions", indicating that the British Library is unaware of any current copyright restrictions on these works.
 
 The British Library asks that anyone reusing digital images from these collections apply the following principles:
 
-*   Please respect the creators – ensure traditional cultural expressions and all ethical concerns in the use of the material are considered, and any information relating to the creator is clear and accurate. Please note, any adaptations made to an image should not be attributed to the original creator and should not be derogatory to the originating cultures or communities.
+*   Please respect the creators – ensure traditional cultural expressions and all ethical concerns in the use of the material are considered, and any information relating to the creator is clear and accurate.
+*   Please note, any adaptations made to an image should not be attributed to the original creator and should not be derogatory to the originating cultures or communities.
 *   Please credit the source of the material – providing a link back to the catalogue entry or the British Library’s website will encourage others to explore and use the collections.
 *   Please share knowledge where possible – please annotate, tag and share derivative works with others as well as the Library wherever possible.
-*   Support the Public Domain – users of public domain works are asked to support the efforts of the Library to care for, preserve, digitise and make public domain works available. This support could include monetary contributions or work in kind, particularly when the work is being used for commercial or other for-profit purposes. High resolution images can be sourced from Images Online. https://imagesonline.bl.uk/  
-*   Please preserve all public domain marks and creative commons licenses attached to the works – this will notify other users that the images are free from copyright restrictions and encourage greater use of the collection.
+*   Support the Public Domain – users of public domain works are asked to support the efforts of the Library to care for, preserve, digitise and make public domain works available. This support could include monetary contributions or work in kind, particularly when the work is being used for commercial or other for-profit purposes. High-resolution images can be sourced from Images Online.
+*   Please preserve all public domain marks and creative commons licences attached to the works – this will notify other users that the images are free from copyright restrictions and encourage greater use of the collection.
 
-This usage guide for images is based on goodwill. It is not a legal contract. We ask that you respect it. Please enjoy this small contribution to public domain!
+This usage guide for images is based on goodwill. It is not a legal contract. We ask that you respect it. Please enjoy this small contribution to the public domain!
