@@ -90,7 +90,7 @@ Phoenix, AZ 85040
 
 University of Phoenix PRIVACY POLICY – FULL VERSION
 
-**Updated:** november 15, 2013
+**Updated:** November 15, 2013
 
 **Scope**
 
