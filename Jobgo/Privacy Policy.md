@@ -64,4 +64,4 @@ Copyright © 2010 Talentor Group Ltd. All rights reserved. Last revision 13.1.20
 *   Terms of Use
 *   About the service
 
-Copyright © 2010 Talentor Group Oy. All rights reserved.
+Copyright © 2013 JobGo International Oy. All rights reserved.
