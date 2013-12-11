@@ -120,7 +120,7 @@ b.     Salem Web Network reserves the right to revise the Community Guidelin
 
 27.  **Claims of Copyright Infringement/DMCA Notices/Counternotices**.  If you believe that material available on the Site infringes a copyright of yours (or a person on whose behalf you are authorized to act), please notify our Designated Agent by using the Notice Procedures for Making Copyright Infringement Claims described in this paragraph.  We may remove or disable access to any infringing material identified in your notice.
 
-**a.** **You must address notices of infringement to our Designated Agent: Lindsey Neidenfeuhr.  Address:  111 Virginia St., Suite 500, Richmond, VA 23219; Phone:  804.205.9706** **; Fax:  804.205.9648** **; Email:  removals@godtube.com**
+**a.** **You must address notices of infringement to our Designated Agent: Stacie Marshall.  Address:  111 Virginia St., Suite 500, Richmond, VA 23219; Phone:  804.205.9684** **; Fax:  804.205.9648** **; Email:  removals@godtube.com**
 
                                                i.     Please note that there are substantial penalties for sending false notices.
 
