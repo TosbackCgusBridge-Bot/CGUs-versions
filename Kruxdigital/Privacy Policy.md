@@ -1,6 +1,7 @@
 krux &. privacy
 
 *   consumer choice
+*   Kruxのプライバシーポリシー
 
 taking privacy and web data protection seriously
 
