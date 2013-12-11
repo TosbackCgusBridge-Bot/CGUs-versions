@@ -11,9 +11,9 @@ Sign in to Tagged
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of January 9, 2013
+Updated as of December 10, 2013
 
-Please read the following important Terms of Service Agreement (the "Agreement") before accessing or using any of the various services (the "Services") made available to you (the "Member") by Tagged, Inc. ("Tagged") through http://www.tagged.com, Tagged mobile applications or otherwise. ONLY USERS WHO ARE 13 YEARS OF AGE OR OLDER MAY REGISTER FOR TAGGED. By completing the registration process for the Tagged website, you represent that you are 13 years of age or older, and can and will be legally bound by this Agreement. If you are a minor, your parent or guardian must read and accept the terms of this Agreement before you register. No Member may participate where doing so would be prohibited by any applicable law or regulation.
+Please read the following important Terms of Service Agreement (the "Agreement") before accessing or using any of the various services (the "Services") made available to you (the "Member") by Tagged, Inc. ("Tagged") through http://www.tagged.com, Tagged mobile applications or otherwise. ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR TAGGED. By completing the registration process for the Tagged website, you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. If you are a minor, your parent or guardian must read and accept the terms of this Agreement before you register. No Member may participate where doing so would be prohibited by any applicable law or regulation.
 
 A) Modifications
 
@@ -180,11 +180,11 @@ Users with questions about this Terms of Service and any of the aforementioned s
 
 PRIVACY POLICY
 
-Updated as of January 9, 2013
+Updated as of December 10, 2013
 
 User Privacy
 
-Tagged is a social discovery website that lets you meet and interact with new people and stay in touch with friends. Like any website that offers a service where you register and provide information about yourself or your opinions, it is wise to pay attention to your personal information. At Tagged we understand this, and have established this Privacy Policy to explain how information is collected on our website, and how this information is used. Members Must Be 13 years of age or older. Tagged is intended solely for use by persons 13 years of age or older. All persons under 13 are prohibited from registering on Tagged.
+Tagged is a social discovery website that lets you meet and interact with new people and stay in touch with friends. Like any website that offers a service where you register and provide information about yourself or your opinions, it is wise to pay attention to your personal information. At Tagged we understand this, and have established this Privacy Policy to explain how information is collected on our website, and how this information is used. Members Must Be 18 years of age or older. Tagged is intended solely for use by persons 18 years of age or older. All persons under 18 are prohibited from registering on Tagged.
 
 How Does Tagged Protect Children's Privacy?
 
@@ -288,7 +288,7 @@ Users with questions about this Privacy Policy and any of the aforementioned sta
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-Effective Date January 9, 2013.
+Effective Date December 10, 2013.
 
 Online Safety >>
 
