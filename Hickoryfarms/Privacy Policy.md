@@ -52,7 +52,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Specials
 *   Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Standard Shipping on $35+!\*
 
 1.  Home
 2.  Customer Service
