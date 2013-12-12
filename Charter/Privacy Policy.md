@@ -75,7 +75,7 @@ Note to California Customers Regarding Your Privacy Rights:
 
 California law requires Charter provide to certain Customers, upon request, certain information regarding the sharing of personally identifiable information to third parties for their direct marketing purposes. As mentioned above, Charter does not share personally identifiable information with unaffiliated third parties for their own direct marketing purposes. However, Charter may share personally identifiable information with some same-branded affiliates for those affiliates' direct marketing purposes (and, if a Charter telephone subscriber, then subject to the restrictions in the attached CPNI Policy). If You make a request by phone or on-line, Charter will provide You with the number of its same-branded affiliates in California and a list of personal information that it may have shared with some or all such affiliates.
 
-Can I prohibit or limit Charterӳ use and disclosure of my personally identifiable information?
+Can I prohibit or limit Charter? use and disclosure of my personally identifiable information?
 
 If You do not want Your name, address, level of service or other personally identiable information disclosed to third parties in a "mailing list" as explained above, please register this preference at http://unsubscribe.charter.com or by contacting us by telephone at 1-888-GET-CHARTER. Customers of our video service cannot opt-out of the collection of audience measurement data.
 
@@ -95,7 +95,7 @@ Can I see the information that Charter collects about me?
 
 You have a right under the Cable Act to see Your personally identifiable information that Charter collects and maintains. The information Charter has about its Customers is maintained at the local offices where service is provided, in our systems, and at our corporate headquarters. If You would like to see Your information, please send a written request to Your local Charter office. To find the location of Your local office please visit www.charter.com. Charter will be glad to make an appointment for You to come in to Your local office during regular business hours. If Your review reveals an error in our records, Charter will correct it. You may also be able to access certain information about You or Your account by telephone or online at www.charter.com, depending upon the information You have provided.
 
-Does Charter protect childrenӳ privacy?
+Does Charter protect children? privacy?
 
 Charter is concerned about children's privacy and does not knowingly collect personally identifiable information from anyone under the age of 13 over its Service unless otherwise expressly identified. At those specific parts of our Service, Charter will provide a special notice or other information describing the additional privacy protections that may apply. Charter urges children to always obtain a parent or legal guardian's permission before sending any information about themselves over the Internet and urges parents and legal guardians to be vigilant regarding children's Internet usage. Other services or web pages accessed through Charter's Service may have different policies on collection of information pertaining to children and You should consult their privacy policies and read their notices if You have any concerns about the collection or use of such information by those entities.
 
@@ -106,6 +106,8 @@ A cookie is a small file that stores information in Your browser on Your compute
 A web beacon is an invisible graphic on a web page that is programmed to collect non-personally identifiable information about Your use of a given site. Like cookies, web beacons allow Charter and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. Charter does not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without Your express permission. However, Charter may provide site usage information linked to Your personally identifiable information to law enforcement or others in compliance with valid legal process or in other situations as stated in the "Who Sees the Information Collected by Charter?" paragraphs above.
 
 You may opt-out of the cookies delivered by Charter on its websites by changing the setting on Your browser. Depending on Your privacy settings, please be aware that this may disable all cookies delivered to Your browser, not just the ones delivered by Charter.
+
+Targeted advertisements
 
 Charter wants to make the advertisements it provides more relevant to You. Charter collects and uses non-personal information, such as information about your visits to our websites, ZIP Code, IP address and information from third parties. We may also combine that information with personally identifiable information, such as information You provide Charter and from Your Charter account. (See "What type of Information does Charter Collect"). In addition, Charter may partner with third-party advertising companies who may utilize cookies, web beacons, or other technology to deliver or facilitate the delivery of targeted advertisements.
 
@@ -123,7 +125,7 @@ What if I have any questions?
 
 If You have any questions about our privacy protections and policies, please contact Your local customer service office. You can find the phone number for Your local customer service office on Your monthly bill statement or by visiting Charter's website at www.charter.com.
 
-MPORTANT NOTE:
+IMPORTANT NOTE:
 
 This Policy does not apply to Your use of any Charter website. You should review the privacy policy applicable to each site, which is available under the "Your Privacy Rights" or "Privacy Policy" section of each Charter website. This Policy also does not apply to those commercial customers who subscribe to Charter Business' commercial video programming, high-speed Internet and/or telephone service or any other commercial customer. The Commercial Subscriber Privacy Policy is available under the "Your Privacy Rights" section of www.charter.com.
 
@@ -339,6 +341,8 @@ Miscellaneous Privacy Issues
 Except where expressly indicated, this site is directed towards adults and you must be at least 18 years old to submit any Personally Identifiable Information to this site.  We do not knowingly collect, use, or disclose Personally Identifiable Information about visitors that are under 18 years of age unless expressly specified on the applicable pages of the site.  Some third-party features provided on or linked to on our site may collect some Personally Identifiable Information on individuals younger than 18 years old.  Such collection and information is subject to the terms and conditions and privacy policy of those parties' sites or services and, as required by applicable law, may require consent from a parent or guardian.  Children should always get permission from a parent or guardian before sending any information about themselves over the Internet to Charter or anyone else.
 
 You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, e-mail address, etc.) in any discussion forums or other public areas on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties.  Such activities are beyond our control and this Privacy Policy does not apply to such information.  Any submissions to public areas on this site are accepted with the understanding that they are accessible to all third parties.  If you do not want your comments to be viewed by third parties, you are advised not to make any submissions.  Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information.  Please be careful and responsible whenever you are online.
+
+We use a third party provider to place our internet ads. The provider may collect anonymous information about your visits to our site and your interaction with our products and services. The provider may also use information about your visits to this and other sites to target advertisements for merchandise and services. This anonymous information is collected through the use of a pixel tag which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. The provider does not know your name, address, phone number, email address or any of your other personally identifiable information. If you would like more information about this practice and your option to not have this anonymous information used by our third party provider, click here. To opt-out of these ads click on this link.
 
 If you have any questions about this Privacy Policy or the privacy practices of this site, please contact us by sending a letter to:
 
