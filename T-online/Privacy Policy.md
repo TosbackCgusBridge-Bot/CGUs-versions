@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
+*   Facebook veröffentlicht Jahresrückblick: Das interessierte 2013
 *   Debeka richtet nach Vorwürfen illegalen Datenhandels Hotline ein
-*   Facebook-Verbot für die Tochter: Veronica Ferres greift durch
 *   Schaar fordert mehr Unabhängigkeit und Befugnisse für Nachfolger
 *   Europäische Datenschutzreform verzögert sich
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
-*   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
 
 weniger Artikel weniger Artikel
 
+*   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
 *   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
 *   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
 *   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Gericht: Ausweis darf nicht gescannt und gespeichert werden
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
 *   Datenschützer diskutieren in Erfurt über Geheimdienste
-*   EU-Kommission: USA dürfen weiter auf Bankdaten zugreifen
 
 *   Kundencenter
 *   Preise und AGB
