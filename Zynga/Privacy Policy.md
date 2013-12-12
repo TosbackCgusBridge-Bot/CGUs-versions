@@ -42,8 +42,8 @@ Zynga Play now!
     *   Benefits
     *   University Careers
 *   about
-    *   Our Story
     *   About Zynga
+    *   Our Story
     *   Board of Directors
     *   Investors
     *   Leadership Team
@@ -402,6 +402,7 @@ Careers
 About
 
 *   About Zynga
+*   Our Story
 *   Board of Directors
 *   Investors
 *   Leadership Team
