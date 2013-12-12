@@ -18,6 +18,7 @@ Your Cart(0) Catalog Navigation
     *   New Product Showcase
     *   Sweets
     *   Top Sellers
+    *   Baskets &. Towers
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -42,6 +43,7 @@ Search Catalog Search Menu Search Stores Cart
     *   New Product Showcase
     *   Sweets
     *   Top Sellers
+    *   Baskets &. Towers
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -52,7 +54,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Specials
 *   Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Free Standard Shipping on $35+!\*
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Enjoy Free Standard Shipping on Every Shipment over $35!\*
 
 1.  Home
 2.  Customer Service
