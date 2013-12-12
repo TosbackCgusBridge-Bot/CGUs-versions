@@ -255,17 +255,17 @@ Syfy Video Lost Girl: Season 4 Premieres January 13 at 8 ... Lost Girl: Season 4
 
 Season premiere of Lost Girl, Monday January 13th at 8/7c.
 
+Welcome to the Pack Welcome to the Pack
+
+Bitten premieres January 13th at 10/9c.
+
 Bitten: Premieres January 13 at 10/9c. Bitten: Premieres January 13 at 10/9c.
 
 Bitten, a new series coming to Syfy this January.
 
-Controversial Endings! Controversial Endings!
+Blastr Origin Stories: Katee Sackhoff on Star ... Blastr Origin Stories: Katee Sackhoff on Starbuck
 
-BlastrTV and Nicki Clyne take you through the most controversial endings in sci fi, horror and even video games! Know something that missed our list? Come argue with us #BlastrTV
-
-Best Firsts! Best Firsts!
-
-Nicki Clyne &. BlastrTV take you through our favorite first episodes in all of scifi! Come argue with us every Thursday!
+Katee Sackhoff tells Blastr where Starbuck's attitude came from and how she first shaped her role in BSG.
 
 *   FAQ
 *   Feedback
