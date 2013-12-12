@@ -13,7 +13,6 @@
 *   Job Recommendations
 *   Post Resumes
     *   Post Resumes
-    *   Upgrade Resume
     *   Resume Writing
 *   Advice &. Resources
     *   Advice &. Resources
