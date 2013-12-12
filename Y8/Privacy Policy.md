@@ -120,25 +120,6 @@ Business contact Submit a game or animation All-site RSS Terms of Use Privacy Po
 
 Y8.com project : free videos, animation, music, photo and games storage started year 2006.
 
-*   English
-*   Руcский
-*   Français
-*   Deutsch
-*   Italiano
-*   Ελληνικά
-*   עברית
-*   हिंदी
-*   Română
-*   Español
-*   Tagalog
-*   ไทย
-*   中文
-*   Nederlands
-*   Việt
-*   Türkçe
-*   Português
-*   Polski
-*   한국어
-*   日本語
-*   Indonesia
-*   العربية
+*   Play Free Games
+*   играть бесплатно
+*   Jeux Gratuits
