@@ -1,62 +1,244 @@
-Sign On | Customer Service | Locations | Apply | Home
+Skip to content
 
-*   Privacy and Security
+*   Sign On
+*   Customer Service
+*   ATMs/Locations
+*   Español
 
-  Privacy Policies
+Search
 
-*   U.S. Consumer Privacy Policy
-*   \>Online and Mobile Privacy Policy
-*   Social Security Number Protection Policy
-*   Health Information Notice
+*   Personal
+*   Small Business
+*   Commercial
 
-Print this page Feedback Wells Fargo Online and Mobile Privacy Policy 1. Introduction and Scope of Policy  
-2. Agreement to Policy  
-3. Gathering, Using, and Sharing Information  
-4. Children's Privacy  
-5. Policy Updates and Effective Date  
-  
-**En español**. Ver esta información en español. _Date of most recent update: March 12, 2013_ 1. Introduction and Scope of Policy  
-  
-This Wells Fargo Online and Mobile Privacy Policy (“Policy”) applies to your interaction with Wells Fargo &. Co. or any of its subsidiaries (collectively, “Wells Fargo,” “we,” “us,” “our”), at any online or mobile site or application that we own and control (“Site”), unless a different online and/or mobile policy is posted at a particular site, or is made available to you and by its terms supplants this Policy. Other privacy policies may also apply in addition to the terms of this Policy. As examples, certain additional Wells Fargo privacy-related policies and notices are posted at https://www.wellsfargo.com/privacy\_security/privacy/. These include the Wells Fargo U.S. Consumer Privacy Notice, which also applies to U.S. customers and consumers as described in that notice and various international privacy policies, which apply to information collected by us outside of the U.S. as described in those policies. You may also receive an additional privacy notice in connection with your use of a particular product or relationship with a specific business. This Policy also explains certain data use and data protection functionalities and practices of our online ads, such as banner ads, on third party sites. Please note that where we have another type of presence on a site owned by a third party, such as a page or handle on a social media site, that third party’s privacy policy and terms of use, rather than this Policy, will govern, unless specifically stated otherwise.Back to Top 2. Agreement to Policy  
-  
-By using a Site or interacting with a Wells Fargo advertisement or page or account on a third party site, you consent to this Policy, including your consent to our use and disclosure of information about you in the manner described in this Policy.Back to Top 3. Gathering, Using, and Sharing Information  
-  
-**Types of Information**  
-  
-You may interact with us in a variety of ways online, including through a mobile device. We may offer sites or applications that permit browsing and do not require registration. We may also offer the ability to access your accounts online. Information that we may collect about you through online interaction includes information that you input, such as your name, address, email address, other contact information. data resulting from your activity, such as transaction information. and location information. We may also gather additional information such as the type of device and browser you are using, the IP address of your device, information about your device’s operating system, and additional information associated with your device. We may also gather information collected through cookies, tags, and other technologies, as described further below.  
-  
-**About "Cookies"**  
-  
-Cookies are pieces of data stored on your device. Browser cookies are assigned by a web server to the browser on your device. When you return to a site you have visited before, your browser gives this data back to the server. Mobile applications may also use cookies.  
-  
-We use cookies and information gathered through their use to make your experience with Wells Fargo and certain other sites richer and more personalized based on the products, services, or other interaction you have with us and other sites. Information gathered through use of cookies may be used to make offers to you via online ads, email, U.S. mail or telephone, subject to the privacy preferences you have on file with Wells Fargo. We also use cookies, sometimes in conjunction with service providers, in online advertising either on our own Site or on third party sites to help determine which of our advertisements are most likely to appeal to you. For this type of advertising placed on third party sites, we participate in the program utilizing the Advertising Options Icon. If you receive an ad delivered on a third party site in part based on information gathered through the use of cookies, you may opt out of receiving such ads by clicking on the displayed icon and following the instructions or by visiting aboutads.info. This opt-out works via cookies, so if you delete cookies, use a different device, or change web browsers, you will need to opt out again.  
-  
-We also use cookies for purposes such as maintaining continuity during an online session. gathering data about the use of our site. monitoring online promotions. and anti-fraud and information security purposes.  
-  
-We also provide certain widgets or tools on our sites, such as tools that allow web surfers to easily share information on another platform, such as a social media platform. At other times, information from a third party may be embedded on our site, such as a map or information streaming from another site, including communications streaming from a third party social media platform. These widgets, tools, and informational items often function through the use of third party cookies utilized by the third party site, such as the social media platform. You may wish to review information at third party sites, such as social media platforms where you have an account, to determine how these third parties treat data that they obtain through the use of cookies.  
-  
-**Do You Have to Accept Cookies?**  
-  
-You may be able to set your browser to reject browser cookies. However, if you choose to reject cookies, you cannot access your accounts online with Wells Fargo. Therefore, if you set your browser options to disallow cookies, you will limit the functionality we can provide when you visit our Site. The latest versions of internet browsers provide cookie management tools, such as the ability to delete or reject cookies. We recommend that you refer to information supplied by browser providers for more specific information, including on how to use these tools.  
-  
-**Additional Cookies**  
-  
-Cookies is a term also used to describe other locally stored objects, such as cookies stored in an Adobe folder on your device. These cookies will not be deleted when you clear cookies from your browser. We may use this technology for purposes such as information security and fraud prevention. We do not use this technology for online behavioral advertising purposes. Please refer to information provided by Adobe for information on how to disable and control Flash objects. If you choose those options, you may limit the functionality we can provide when you visit our Site.  
-  
-**Additional Technologies.** We may also use additional technologies such as pixel tags, web beacons, and clear GIFs, and may permit our third party service providers to use these technologies. We use these technologies for purposes such as measuring the effectiveness of our advertisements or other communications, determining viewing and response rates, and determining which offers to present to you on our own or on third party sites.  
-  
-**Using Information.** In addition to the uses described above, we use information for purposes as allowed by law such as: servicing. communicating with you. improving our Site, products, or services. legal compliance. risk control. information security. anti-fraud purposes. marketing or personalizing the presentation of our products and services to you. tracking website usage, such as number of hits, pages visited, and the length of user sessions in order to evaluate the usefulness of our sites. and we also use read-receipt notifications in our email communications.  
-  
-**Sharing**  
-  
-We may share information with service providers with whom we work, such as data processors and companies that help us market products and services to you. When permitted or required by law, we may share information with additional third parties for purposes including response to legal process. As applicable, please see the additional privacy policies referenced above, such as the Wells Fargo U.S. Consumer Privacy Notice, for more information on how we may share information with affiliates and third parties. Back to Top 4. Children's Privacy  
-  
-From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.  
-  
-For more information about the Children’s Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov.Back to Top 5. Policy Updates and Effective Date  
-  
-If we make updates to this Policy, we will update the Policy with the changes and revise the “date of most recent update” posted at the top of this Policy. Any updates to the Policy become effective when we post the updates on the Site. Your use of the Site following the update to the Policy means that you accept the updated Policy. Back to Top      
+*   Financial Education
+*   About Wells Fargo
 
-About Wells Fargo | Careers | Privacy, Security &. Legal | Report Email Fraud | Sitemap | Home
+*   Banking
+*   Loans and Credit
+*   Insurance
+*   Investing and Retirement
+*   Wealth Management
+
+We're sorry, but some features of our site require JavaScript. Please enable JavaScript on your browser and refresh the page.
+
+Banking Accounts and Services
+
+*   Checking Accounts
+*   Savings Accounts and CDs
+*   Debit and Prepaid Cards
+*   Credit Cards
+*   Foreign Exchange
+*   Global Remittance Services
+
+ 
+
+*   Online Banking
+*   Online Bill Pay
+*   Transfers
+*   Online Statements
+*   Mobile Banking
+*   ATM Services
+
+Your Financial Goals
+
+*   Tax Center
+*   Protect What Counts
+*   Planning for Retirement
+*   Fraud Information Center
+
+Popular Links
+
+*   Mortgage Rates
+*   Routing Number
+*   Overdraft Services
+*   Get Help with Payment Challenges
+*   Open a Checking Account
+*   Apply for an Account or Service
+
+  
+Loans and Credit Accounts and Services
+
+*   Mortgage Loans
+*   Home Equity Loans
+*   Personal Lines and Loans
+
+ 
+
+*   Student Loans
+*   Auto Loans
+*   Credit Cards
+
+Your Financial Goals
+
+*   Home Lending
+*   Going to College
+*   Borrowing and Credit
+*   Fraud Information Center
+
+Popular Links
+
+*   Mortgage Rates
+*   Home Equity Rates
+*   Get Help with Payment Challenges
+*   Rewards
+*   Finish Application/Check Status
+*   Student Loan Discounts
+
+  
+Insurance Products and Services
+
+*   Auto Insurance
+*   Specialty Vehicle Insurance
+*   Life Insurance
+*   Health Insurance
+
+ 
+
+*   Homeowners Insurance
+*   Renters Insurance
+*   Identity Theft Protection Plans
+
+Your Financial Goals
+
+*   Protect What Counts
+*   Borrowing and Credit
+*   Planning for Retirement
+*   Home Lending
+
+Popular Links
+
+*   Get Insurance Quotes
+*   Why Wells Fargo Insurance
+*   Small Business Insurance
+*   Commercial Insurance
+*   Health Savings Accounts (HSA)
+
+  
+Investing and Retirement Ways to Invest
+
+*   Invest Online
+*   Invest With Guidance
+*   Invest in Mutual Funds
+*   Compare Ways to Invest
+
+Investing Solutions
+
+*   IRAs
+*   Investment Services
+*   Rollovers (401k and IRA)
+*   Health Savings Accounts (HSA)
+*   Investing for Education
+
+Your Financial Goals
+
+*   Planning for Retirement
+*   Income in Retirement
+
+Popular Links
+
+*   Contact a Financial Advisor
+*   Open an IRA
+*   Open a WellsTrade® Account
+*   Compare IRAs
+*   My Retirement Plan
+*   Employer Plan 401(k) Sign On
+
+Wealth Management Wealth Services
+
+*   The Private Bank
+*   Wells Fargo Advisors
+*   Abbot Downing
+*   All Wealth Management Services
+
+Wealth Solutions
+
+*   Wealth Planning
+*   Private Banking
+*   Investments
+*   Specialized Solutions
+*   Trust Solutions
+
+Wealth Advice and Guidance
+
+*   Wealth Management Insights Center
+*   Conversations Magazine
+
+Next Step
+
+*   Contact The Private Bank
+*   Contact Wells Fargo Advisors
+*   Contact Abbot Downing
+
+*   Personal
+*   Privacy, Security, and Legal
+*   Privacy Policies
+*   Wells Fargo Online and Mobile Privacy Policy
+
+Wells Fargo Online and Mobile Privacy Policy
+
+*   Print
+
+En español. Ver esta información en español
+
+_Date of most recent update: December 10, 2013_
+
+Introduction and scope of policy
+
+This Wells Fargo Online and Mobile Privacy Policy (“Policy”) applies to your interaction with Wells Fargo &. Company or any of its subsidiaries (collectively, “Wells Fargo,” “we,” “us,” “our”), at any online or mobile site or application that we own and control (“Site”), unless a different online and/or mobile policy is posted at a particular site, or is made available to you and by its terms supplants this Policy. Other privacy policies may also apply in addition to the terms of this Policy. As examples, certain additional Wells Fargo privacy-related policies and notices are posted on the Privacy Policy Index. These include the Wells Fargo U.S. Consumer Privacy Notice, which also applies to U.S. customers and consumers as described in that notice and various international privacy policies, which apply to information collected by us outside of the U.S. as described in those policies. You may also receive an additional privacy notice in connection with your use of a particular product or relationship with a specific business. This Policy also explains certain data use and data protection functionalities and practices of our online ads, such as banner ads, on third party sites. Please note that where we have another type of presence on a site owned by a third party, such as a page or handle on a social media site, that third party’s privacy policy and terms of use, rather than this Policy, will govern, unless specifically stated otherwise.
+
+Agreement to policy
+
+By using a Site or interacting with a Wells Fargo advertisement or page or account on a third party site, you consent to this Policy, including your consent to our use and disclosure of information about you in the manner described in this Policy.
+
+Gathering, using, and sharing information Types of information
+
+You may interact with us in a variety of ways online, including through a mobile device. We may offer sites or applications that permit browsing and do not require registration. We may also offer the ability to access your accounts online. Information that we may collect about you through online interaction includes information that you input, such as your name, address, email address, other contact information. data resulting from your activity, such as transaction information. and location information. We may also gather additional information, such as the type of device and browser you are using, the IP address of your device, information about your device’s operating system, and additional information associated with your device. We may also gather information collected through cookies, tags, and other technologies, as described further below.
+
+About “cookies”
+
+Cookies are pieces of data stored on your device. Browser cookies are assigned by a web server to the browser on your device. When you return to a site you have visited before, your browser gives this data back to the server. Mobile applications may also use cookies.
+
+We use cookies and information gathered through their use to make your experience with Wells Fargo and certain other sites richer and more personalized based on the products, services, or other interaction you have with us and other sites. Information gathered through use of cookies may be used to make offers to you via online ads, email, U.S. mail, or telephone, subject to the privacy preferences you have on file with Wells Fargo. We also use cookies, sometimes in conjunction with service providers, in online advertising either on our own Site or on third party sites to help determine which of our advertisements are most likely to appeal to you. We respect consumers’ ability to exercise choice in receiving these types of ads on third party sites. We honor your choice as follows: For this type of advertising placed on third party sites, we participate in the program utilizing the Advertising Options Icon. If you receive an ad delivered on a third party site in part based on information gathered through the use of cookies, you may opt out of receiving such ads by clicking the displayed icon and following the instructions or by visiting aboutads.info. This opt-out works via cookies, so if you delete cookies, use a different device, or change web browsers, you will need to opt out again. Please note that we respect your choice via participation in the Advertising Options Icon/aboutads.info program. Industry standards are currently evolving and we may not separately respond to or take any action with respect to a “do not track” configuration set in your internet browser.
+
+Other parties that may collect information about your web browsing behavior when you use our Site are generally limited to service providers who may only use any information collected to provide services and marketing for us and not to provide services or advertising for any other party. Note, however, that we also provide certain widgets or tools on our sites, such as tools that allow web surfers to easily share information on another platform, such as a social media platform. At other times, information from a third party may be embedded on our site, such as a map or information streaming from another site, including communications streaming from a third party social media platform. These widgets, tools, and informational items often function through the use of third party cookies utilized by the third party site, such as the social media platform. As a result, these third parties may have access to information about your web browsing on the pages of our Site where these widgets, tools, or information are placed. You may wish to review information at third party sites, such as social media platforms where you have an account, to determine how these third parties treat data that they obtain through the use of cookies.
+
+We also use cookies for purposes such as maintaining continuity during an online session. gathering data about the use of our site. monitoring online promotions. and anti-fraud and information security purposes.
+
+Do you have to accept cookies?
+
+You may be able to set your browser to reject browser cookies. However, if you choose to reject cookies, you cannot access your accounts online with Wells Fargo. Therefore, if you set your browser options to disallow cookies, you will limit the functionality we can provide when you visit our Site. The latest versions of internet browsers provide cookie management tools, such as the ability to delete or reject cookies. We recommend that you refer to information supplied by browser providers for more specific information, including how to use these tools.
+
+Additional cookies
+
+Cookies is a term also used to describe other locally stored objects, such as cookies stored in an Adobe folder on your device. These cookies will not be deleted when you clear cookies from your browser. We may use this technology for purposes such as information security and fraud prevention. We do not use this technology for online behavioral advertising purposes. Please refer to information provided by Adobe for information on how to disable and control Flash objects. If you choose those options, you may limit the functionality we can provide when you visit our Site.
+
+**Additional technologies.** We may also use additional technologies such as pixel tags, web beacons, and clear GIFs, and may permit our third party service providers to use these technologies. We use these technologies for purposes such as measuring the effectiveness of our advertisements or other communications, determining viewing and response rates, and determining which offers to present to you on our own or on third party sites.
+
+**Using information.** In addition to the uses described above, we use information for purposes as allowed by law such as: servicing. communicating with you. improving our Site, products, or services. legal compliance. risk control. information security. anti-fraud purposes. marketing or personalizing the presentation of our products and services to you. tracking website usage, such as number of hits, pages visited, and the length of user sessions in order to evaluate the usefulness of our sites. and using read-receipt notifications in our email communications.
+
+Sharing
+
+We may share information with service providers with whom we work, such as data processors and companies that help us market products and services to you. When permitted or required by law, we may share information with additional third parties for purposes including response to legal process. As applicable, please see the additional privacy policies referenced above, such as the Wells Fargo U.S. Consumer Privacy Notice, for more information on how we may share information with affiliates and third parties.
+
+Children’s privacy
+
+From our web pages, we do not knowingly collect personal information from individuals under the age of 13 without obtaining verifiable consent from their parents.
+
+For more information about the Children’s Online Privacy Protection Act (COPPA), visit the FTC website: www.ftc.gov.
+
+Policy updates and effective date
+
+If we make updates to this Policy, we will update the Policy with the changes and revise the “date of most recent update” posted at the top of this Policy. Any updates to the Policy become effective when we post the updates on the Site. Your use of the Site following the update to the Policy means that you accept the updated Policy.
+
+*   About Wells Fargo
+*   Careers
+*   Privacy, Security &. Legal
+*   Report Fraud
+*   Sitemap
+*   Home
+*   Diversity &. Accessibility
+*   Online Access Agreement
+*   Blogs &. Social Media
 
 © 1999 - 2013 Wells Fargo. All rights reserved. NMLSR ID 399801
