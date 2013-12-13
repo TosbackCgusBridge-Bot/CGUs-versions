@@ -1,3 +1,5 @@
+Target Privacy Policy  
+
 At Target, we want you to know how we collect, use, share and protect information about you. By interacting with Target, you consent to use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we include a history of changes below.
 
 What Information is Collected?
@@ -194,12 +196,9 @@ You also have the ability to unsubscribe to promotional e-mails via the opt out 
 
   
 
-Target Ticket – if you do not wish to receive Target Ticket promotional e-mails, contact privacy@rovicorp.com to opt out. This opt out only applies to Target Ticket promotional e-mails.
+Target Ticket – if you do not wish to receive Target Ticket promotional e-mails, you have the ability to unsubscribe via the opt out link included in each Target Ticket promotional e-mail . This opt out only applies to Target Ticket promotional e-mails.
 
   
-
-You also have the ability to unsubscribe to Target Ticket promotional e-mails via the opt out link included in each Target Ticket promotional e-mail.
-
 Sharing with Other Companies (for their marketing purposes)
 
 If you do not wish us to share the personal information we have collected with other unaffiliated companies (for their marketing purposes), contact us or call 800-440-0680 to opt out.
@@ -287,7 +286,11 @@ Target Privacy Policy Revisions
 
 This history changes begins as of July 2004 and includes the date of the update and a description of changes.
 
-Last update: 10/25/2013
+Last update: 12/11/2013
+
+Dec 2013
+
+Updated the choices available for Target Ticket promotional emails
 
 Oct 2013
 
