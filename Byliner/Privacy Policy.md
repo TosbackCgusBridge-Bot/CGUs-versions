@@ -90,7 +90,7 @@ It is our policy to provide notifications, whether such notifications are requir
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-The date of the most recent update to this Privacy Policy is September 26, 2013.
+The date of the most recent update to this Privacy Policy is December 12, 2013.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please email hello@byliner.com, or send mail to:
 
