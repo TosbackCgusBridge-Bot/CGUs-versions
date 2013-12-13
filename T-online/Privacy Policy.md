@@ -91,6 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Innenminister Caffier: Vorratsdatenspeicherung ist unverzichtbar
+*   Laut EU-Gutachter greifen Vorratsdaten in Grundrechte ein
+*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
+*   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
+*   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
+*   Schwarz-Rot: EU-Gutachten bestätigt Speicherpläne
+*   Union und SPD sehen in EU-Gutachten keine Gefahr für Speicherpläne
+*   EU-Gutachter: Vorratsdatenspeicherung widerspricht EU-Recht
+
+weniger Artikel weniger Artikel
+
+*   Gutachter: Datenspeicherung auf Vorrat widerspricht EU-Recht
+*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
+*   Schaar: Einführung von Vorratsdatenspeicherung wäre fatal
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   Facebook veröffentlicht Jahresrückblick: Das interessierte 2013
 *   Debeka richtet nach Vorwürfen illegalen Datenhandels Hotline ein
@@ -99,21 +113,7 @@ mehr zum Thema mehr Artikel zum Thema
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
-
-weniger Artikel weniger Artikel
-
 *   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
-*   Verschwundene Gehaltsabrechnungen: Ermittlungen dauern an
-*   Nach Fund von Gehaltsbriefen in Neuwied: Kein Hinweis auf Täter
-*   Mann findet 900 Gehaltsbriefe mit privaten Daten im Müll
-*   Neuwieder findet 900 Gehaltsbriefe mit privaten Daten im Müll
-*   Piraten wollen gegen Vorratsdatenspeicherung klagen
-*   Piraten wollen gegen Vorratsdatenspeicherung klagen
-*   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
-*   Datenschützer Schaar rechnet mit Klage gegen Vorratsdatenspeicherung
-*   Gericht: Ausweis darf nicht gescannt und gespeichert werden
-*   Datenschützer diskutieren in Erfurt über Geheimdienste
-*   Datenschützer diskutieren in Erfurt über Geheimdienste
 
 *   Kundencenter
 *   Preise und AGB
