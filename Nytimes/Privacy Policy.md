@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Dublin graffiti reflects anger at government and banks
+Search Help Microsoft and Sony game consoles neck-and-neck in sales
 
-Also in Business »
+Also in Tech »
 
-*   Worker deaths raise questions at an Apple contractor in China
-*   G.M. will stop making cars in Australia
+*   Amazon's prophet and losses
+*   Be careful with coin
 
   
 
