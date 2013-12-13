@@ -5,7 +5,7 @@ Find JobsFind ResumesEmployers / Post Job Post your resume Sign in What: Where: 
 *   Media Coverage
 *   Indeed Blog
 *   Indeed is Hiring
-*   Cookie, Privacy and Terms
+*   Cookie, Privacy and Terms New!
 
 **Job Seekers**
 
