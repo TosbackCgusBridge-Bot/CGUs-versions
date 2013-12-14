@@ -9,15 +9,12 @@ Your Cart(0) Catalog Navigation
 *   Shop By Category
     *   Sausage &. Cheese
     *   Fruit &. Nuts
+    *   Sweets
     *   Wine Gifts
-    *   HoneyGold Ham
-    *   Hickory Farms Reserve
+    *   NEW! Reserve Collection
+    *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
-    *   Birthday Gifts
-    *   New Product Showcase
-    *   Sweets
-    *   Top Sellers
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -34,15 +31,12 @@ Search Catalog Search Menu Search Stores Cart
 *   Shop By Category
     *   Sausage &. Cheese
     *   Fruit &. Nuts
+    *   Sweets
     *   Wine Gifts
-    *   HoneyGold Ham
-    *   Hickory Farms Reserve
+    *   NEW! Reserve Collection
+    *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
-    *   Birthday Gifts
-    *   New Product Showcase
-    *   Sweets
-    *   Top Sellers
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
