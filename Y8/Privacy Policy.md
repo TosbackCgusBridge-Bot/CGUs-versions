@@ -38,7 +38,7 @@ Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games.
 *   games
 *   anims
 
-*   Best of all games
+*   Play Free Games
 *   New Games
 *   Best of new games
 *   Most Popular Games
