@@ -91,29 +91,29 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Weitergabe von Daten des Nachbarn kann teuer werden
+*   Facebook-Drohung rechtfertigt Kontaktverbot
 *   Innenminister Caffier: Vorratsdatenspeicherung ist unverzichtbar
 *   Laut EU-Gutachter greifen Vorratsdaten in Grundrechte ein
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
 *   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
 *   Schwarz-Rot: EU-Gutachten bestätigt Speicherpläne
-*   Union und SPD sehen in EU-Gutachten keine Gefahr für Speicherpläne
-*   EU-Gutachter: Vorratsdatenspeicherung widerspricht EU-Recht
 
 weniger Artikel weniger Artikel
 
+*   Union und SPD sehen in EU-Gutachten keine Gefahr für Speicherpläne
+*   EU-Gutachter: Vorratsdatenspeicherung widerspricht EU-Recht
 *   Gutachter: Datenspeicherung auf Vorrat widerspricht EU-Recht
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   Schaar: Einführung von Vorratsdatenspeicherung wäre fatal
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
-*   Facebook veröffentlicht Jahresrückblick: Das interessierte 2013
 *   Debeka richtet nach Vorwürfen illegalen Datenhandels Hotline ein
 *   Schaar fordert mehr Unabhängigkeit und Befugnisse für Nachfolger
 *   Europäische Datenschutzreform verzögert sich
 *   Polizei sucht nach Gehaltszettel-Dieb
 *   Datenschutzbeauftragter warnt vor Überwachungsstaat
 *   Erneut Hunderte Briefe der Oberfinanzdirektion Koblenz auf Abwegen
-*   Datenschutzbeauftragter stellt Tätigkeitsbericht vor
 
 *   Kundencenter
 *   Preise und AGB
