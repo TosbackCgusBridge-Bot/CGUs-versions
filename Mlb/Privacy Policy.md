@@ -224,8 +224,8 @@ MLB Advanced Media, L.P. is the organization that produces and publishes the Off
 
 Last updated and effective date: May 24, 2013 Below is an advertisement.
 
-© 2001- MLB Advanced Media, L.P. All rights reserved.
+Terms of Use | Privacy Policy (updated May 24, 2013) | About Our Ads
+
+© MLBAM, LP. All rights reserved.
 
 The following are trademarks or service marks of Major League Baseball entities and may be used only with permission of Major League Baseball Properties, Inc. or the relevant Major League Baseball entity: Major League, Major League Baseball, MLB, the silhouetted batter logo, World Series, National League, American League, Division Series, League Championship Series, All-Star Game, and the names, nicknames, logos, uniform designs, color combinations, and slogans designating the Major League Baseball clubs and entities, and their respective mascots, events and exhibitions.
-
-Use of the Website signifies your agreement to the Terms of Use and Privacy Policy (updated May 24, 2013).
