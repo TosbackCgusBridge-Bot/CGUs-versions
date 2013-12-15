@@ -65,7 +65,7 @@ Your current location is only determined if you choose to use a function on our 
 
 Access and Correction of Personal Information
 
-If you are a resident of Arizona, California, Connecticut, Georgia, Illinois, Maine, Minnesota, Montana, Nevada, New Jersey, North Carolina, Oregon, or Virginia, you have the right to access and correct the personal information that we have collected about you. Upon your request we will provide you with a notice of our insurance information practices that describes how those rights may be exercised.
+If you are a resident of Arizona, California, Connecticut, Georgia, Illinois, Maine, Minnesota, Montana, Nevada, New Jersey, North Carolina, Oregon, or Virginia, you have the right to access and correct the personal information that we have collected from or about you. To do so, simply contact GEICO's customer service department. If you'd like to correct information that you provided to us, our representative will make the appropriate adjustments to GEICO's records. If you wish to correct personal information provided to GEICO by a third party (such as a credit rating agency) the representative will provide you with the applicable third party's contact information.
 
 Upon the request of residents of other states, we will take reasonable steps to verify the accuracy of the personal information in our records.
 
@@ -141,4 +141,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Secure Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is January 24, 2013.
+The Effective Date of the revised Privacy Policy is December 14, 2013.
