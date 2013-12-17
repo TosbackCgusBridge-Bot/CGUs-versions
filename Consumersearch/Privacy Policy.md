@@ -1,4 +1,4 @@
-_Updated November 7, 2013_
+_Updated December 16, 2013_
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About" or "we") websites, including About.com, About.net, AllExperts.com, CalorieCount.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services" or "Websites"). Specifically, the policy outlines the types of information that may be gathered when you register for or use the Services, and the ways in which that information may be used.
 
@@ -68,8 +68,8 @@ Third parties may collect information about you through the Services, including 
 
 For instance, like many other websites and applications, in addition to our own systems, we may use DoubleClick, DoubleClick Mobile, Google, Google AdMob, nRelate (which is an affiliate of About, Inc.), PubMatic, 24/7 Connect and other third-party Ad Servers, analytics platforms and data management platforms to serve and display Advertisements, or to collect information about you and your use of the Services for other analytics purposes. They may use cookies, pixel trackers, web beacons or other internet or mobile technology to collect non-personal and/or anonymous information about your use of the Services (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) and precise geolocation and user device identification (if you have provided your consent for such collection) during and about your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. In certain cases, you have options and choices about the collection and use of information by third parties on our Websites:
 
-*   For more information about these third-party Ad Networks and opting out of tracking, see: http://www.networkadvertising.org/managing/opt\_out.asp.
-*   For more information about interest-based advertising and opting out, see: http://www.aboutads.info/choices/
+*   For more information about these third-party Ad Networks and opting out of tracking through the NAI, see: http://www.networkadvertising.org/managing/opt\_out.asp.
+*   For more information about interest-based advertising and opting out through the DAA, see: http://www.aboutads.info/choices/
 *   For more information about disabling and controlling third-party cookies in your browser, see: http://www.aboutcookies.org/Default.aspx?page=1
 *   For more information on nRelate and opting out of browser history tracking, see: http://nrelate.com/privacy-policy/
 
@@ -78,6 +78,12 @@ In addition to the above, we have implemented on our Services certain "Google An
 Other Privacy Considerations
 
 We may transfer your information to a third party if we or any of our affiliates are involved in a transfer or all or part of our business or assets (e.g., a sale, merger, dissolution, liquidation or reorganization) or are taking steps in anticipation of such a transaction (e.g., participating in due diligence).
+
+Do Not Track Browser Disclosure
+
+Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
+
+We are committed to providing you with meaningful choices about the information collected on our Websites for third party purposes, and that is why we provide the NAI "Consumer Opt-out" link and the DAA opt-out link above. However, **we do not recognize or respond to browser-initiated DNT signals**, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
 
 Information from Children Under 13
 
