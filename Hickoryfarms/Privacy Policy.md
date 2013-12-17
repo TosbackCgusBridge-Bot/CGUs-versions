@@ -48,7 +48,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Enjoy Free Standard Shipping on Every Shipment over $35!\*
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Up to 25%! Plus Free Standard Shipping on Every Shipment over $35!\*
 
 1.  Home
 2.  Customer Service
