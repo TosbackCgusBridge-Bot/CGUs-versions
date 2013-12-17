@@ -111,9 +111,9 @@ How Delta uses cookies, tags, and similar technologies Expand All Cookies
 
 Delta uses cookies, tags, and other similar technologies. These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number and facilitate effective site administration. We use the information we collect to enhance your visit to delta.com and to provide you with information tailored to your needs.
 
-You may elect to refuse cookies. however, doing so may affect your use of some portions of Delta’s and our partners’ web services. Please refer to your browser Help instructions to learn more about cookies.
+Your Internet browser(s) may offer you the option to refuse cookies. however, doing so may affect your use of some portions of Delta’s and our partners' web services. Please refer to your browser options or other browser instructional materials to learn more about cookie management.
 
-Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links below.  To continue to accept cookies and browse normally on delta.com, click here.
+Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links below. To learn about the available mechanisms for opting out of cookies and technologies related to interest-based advertising, see the descriptions and links below.  
 
 Types of cookies and tags on our site
 
@@ -132,8 +132,6 @@ Click here to opt out of the Google Network (Doubleclick, AdSense, Analytics),
 Click here to opt out of Adobe Site Services.
 
 EU visitors can find general information and opt-out resources at youronlinechoices.eu and US visitors can see aboutads.info.
-
-You may also configure your own browser settings directly to handle cookies.  Directions can be found in the Privacy and Security settings in the Help function of all major browsers.
 
 With Whom Does Delta Share My Personally Identifiable Information?
 
