@@ -1,10 +1,10 @@
 Privacy Policy
 
-Updated: March 11, 2013
+Updated: December 16, 2013
 
 Section 1 — Introduction
 
-At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com, m.Amtrak.com, Amtrak for iPhone Appplication, and Amtrak for Android Application, Amtrak.com/Whistle-Stop, AmtrakGuestRewards.com, (referred to individually as “Site” or collectively as “Sites”). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using a Site, you acknowledge that you understand and expressly agree to this Policy.
+At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com. m.Amtrak.com. Amtrak applications for iPhone, Android, or Windows Phone. Amtrak.com/Whistle-Stop. or AmtrakGuestRewards.com (referred to individually as “Site” or collectively as “Sites”). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using a Site, you acknowledge that you understand and expressly agree to this Policy.
 
 When you use a Site, we may collect information about your visit to the Site, your usage of the Site, and information that you provide. This Policy describes:
 
