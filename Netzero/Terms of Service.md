@@ -70,7 +70,7 @@ When signing up for one of our broadband services ("**DSL**" and "**Mobile Broad
     
       
     
-*   **Theft or Fraudulent Use of the Service. Loss or Theft of Equipment.** If your Equipment is lost or stolen, or if you become aware at any time that the Mobile Broadband service is being fraudulently used, it is imperative that you notify NetZero immediately, so that NetZero can suspend your Mobile Broadband service (and the ability to use any Equipment that you have purchased for use in association with that Service) in order to prevent further usage and limit your liability. You can do this by calling NetZero's customer service department at 800-939-8674. Once you notify NetZero, NetZero will suspend your Mobile Broadband service (i.e., until you obtain replacement Equipment usable with the service or such fraudulent activity has ceased, as applicable), and you will not be responsible for charges incurred with the lost or stolen Equipment during that period of suspension.  
+*   **Theft or Fraudulent Use of the Service. Loss or Theft of Equipment.** If your Equipment is lost or stolen, or if you become aware at any time that the Mobile Broadband service is being fraudulently used, it is imperative that you notify NetZero immediately, so that NetZero can suspend your Mobile Broadband service (and the ability to use any Equipment that you have purchased for use in association with that Service) in order to prevent further usage and limit your liability. You can do this by calling NetZero's customer service department at 800-939-8647. Once you notify NetZero, NetZero will suspend your Mobile Broadband service (i.e., until you obtain replacement Equipment usable with the service or such fraudulent activity has ceased, as applicable), and you will not be responsible for charges incurred with the lost or stolen Equipment during that period of suspension.  
       
     
 
@@ -397,6 +397,6 @@ This section describes what rights you and NetZero possess if you and NetZero ha
 A list of ways to contact NetZero is available at http://www.netzero.net/support/support.html.  
   
 NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | Privacy Policy | Your Privacy Rights | Terms of Service  
-United Online Memory Lane | MyPoints | NetZero | Juno | MySite
+United Online Classmates | MyPoints | NetZero | Juno | MySite
 
 © 1998-2013 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
