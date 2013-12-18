@@ -179,6 +179,6 @@ Partner Sites
 *   Nutrish for Pets
 *   Rachael Ray Store
 
-Site Map • About Us • FAQ • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
+Site Map • About Us • Community Guidelines • FAQ • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
 Visit us at: Facebook Twitter  
 ™ and © 2007 - 2013 Rachael Ray Digital LLC
