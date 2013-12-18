@@ -204,13 +204,33 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 back to top
 
+Connect your OkCupid Account Connect
+
+Forgot your password?
+
 Sign in Let’s go
 
-Forget your password?
+Forgot your password?
 
 or
 
-Sign in Mobile OkCupid
+Sign in Welcome Back!
+
+Restore your account to continue meeting new people.
+
+Restore Account Reset your password
+
+We’ll email you a link to reset it.
+
+Send
+
+Or, try logging in again.
+
+Email sent!
+
+An email is on its way to you. If you don’t see it, try checking your Spam folder.
+
+Okay Mobile OkCupid
 
 *   Get our iPhone &. iPad app
 *   Get our Android app
