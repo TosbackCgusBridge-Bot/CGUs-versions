@@ -40,7 +40,9 @@ Security &. Privacy
     
     Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
     
-    The Information We Collect was last updated April 1, 2013.
+    Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast.
+    
+    The Information We Collect was last updated December 17, 2013.
     
     How We Use the Information We Collect
     
