@@ -9,7 +9,7 @@ Forbes.com is committed to safeguarding your privacy online. Please read the fol
 
 Forbes has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by email at privacy@forbes.com. If you are not satisfied with our response you can contact TRUSTe here.
 
-Forbes complies with the U.S. ? E.U. Safe Harbor Framework and the U.S. ? Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Forbes has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forbes? certification, please visit http://www.export.gov/safeharbor/.
+Forbes complies with the U.S. - E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Forbes has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forbes' certification, please visit http://www.export.gov/safeharbor/.
 
 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.
 
@@ -85,7 +85,7 @@ In addition, if you provide any personally identifiable information via an adver
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you, such as your name and e-mail. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. We use this personally identifiable information to notify contest winners and award prizes.
 
-We may use a third party service provider to conduct these surveys or contests. that company will be prohibited from using our users? personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We may use a third party service provider to conduct these surveys or contests. that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 You can log in to our site using sign-in services that bridge your social media login information with Forbes.com. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. These services give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
@@ -105,7 +105,7 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 In The Event of Sale or Bankruptcy
 
-The ownership of Forbes.com may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of Forbes.com LLC and/or Forbes.com your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in ?How will I know if the Privacy Policy is changed.?
+The ownership of Forbes.com may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of Forbes.com LLC and/or Forbes.com your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in "How will I know if the Privacy Policy is changed."
 
 As Required By Law
 
