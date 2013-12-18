@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Andrea Voßhoff wird Datenschutzbeauftragte
+*   Facebook testet Videowerbung zwischen den Einträgen
+*   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
+*   PC-Hardware vor Hitzeschäden bewahren
 *   Datenschutzbeauftragter fordert Regierung zum Handeln auf
 *   Fragwürdiger Umgang mit Krankenakten im Innenministerium
 *   Datenschützer zu Snowden-Enthüllungen: "Es wird noch schlimmer"
 *   Weitergabe von Daten des Nachbarn kann teuer werden
-*   Facebook-Drohung rechtfertigt Kontaktverbot
-*   Innenminister Caffier: Vorratsdatenspeicherung ist unverzichtbar
-*   Laut EU-Gutachter greifen Vorratsdaten in Grundrechte ein
-*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 
 weniger Artikel weniger Artikel
 
+*   Innenminister Caffier: Vorratsdatenspeicherung ist unverzichtbar
+*   Laut EU-Gutachter greifen Vorratsdaten in Grundrechte ein
+*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
 *   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
 *   Schwarz-Rot: EU-Gutachten bestätigt Speicherpläne
@@ -111,9 +114,6 @@ weniger Artikel weniger Artikel
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   Schaar: Einführung von Vorratsdatenspeicherung wäre fatal
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
-*   Debeka richtet nach Vorwürfen illegalen Datenhandels Hotline ein
-*   Schaar fordert mehr Unabhängigkeit und Befugnisse für Nachfolger
-*   Europäische Datenschutzreform verzögert sich
 
 *   Kundencenter
 *   Preise und AGB
