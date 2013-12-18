@@ -5,6 +5,7 @@ This privacy policy explains what personal information is collected through this
 This privacy policy answers these questions:
 
 *   What personal information is collected at our Web site, and how is it used?
+*   How is technology used to serve our advertisements on other Web sites and what choices do you have?
 *   How does this Web site interact with third-party Web sites and content?
 *   What information do we share with third parties and our sister brands (or what information may they access because of the services they provide to us)?
 *   What choices do you have over how your information is used?
@@ -43,7 +44,7 @@ What personal information is collected at our Web site and how is it used?
         
         To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer. It's used to do things like see how you navigate our Web site, what you click on, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, personalize your online experience, and personalize offers to you based on your unique tastes and both your online and offline (e.g., in-store) interactions and purchase history.
         
-        We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like most–for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
+        We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like mostfor example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
         
 3.  3\.  Information Others Observe or Collect through Technology
     
@@ -57,16 +58,20 @@ What personal information is collected at our Web site and how is it used?
         
         We contract with analytics companies to better understand your use of our Web sites, and Web capabilities like embeddable widgets. These third parties may serve surveys to determine satisfaction with the Web site and then tie the responses to actual behavior on the Web site, which will allow us to improve our Web sites and Web capabilities. They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology.
         
-    3.  c.  Advertising
-        
-        We contract with third-party advertising companies which, in turn (1) place, use, and rely on cookies and web beacons when you interact with us through our Web sites and our email. (2) help us determine which of our products you may like, based on both your online and offline (e.g., in-store) shopping histories with us. (3) use your basic personal information (such as name, address and email address) to help us associate your online and stores purchases and interactions through and with us. and (4) deliver personalized online display and banner advertising to you on other Web sites, based on those purchases and interactions. If you'd like more information about how online network advertising works and what your choices are for the information that's collected via these third-party cookies, please see What Choices do you have Over how Your Information is Used?
-        
+
+Back To Top
+
+How is technology used to serve our advertisements on other Web sites and what choices do you have?
+
+We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third-party companies place, use, or rely on technology, such as cookies and clear gifs, as customers interact with us through our Web sites and interact with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based on a customers combined online and offline (e.g., in-store) shopping history and experience with us.
+
+For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: \[NAI Opt Out click here\] and \[DAA Opt Outclick here\] (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems may not recognize Do Not Track headers from some or all browsers.
 
 Back To Top
 
 How does this Web site interact with third-party Web sites and content?
 
-We may enable you to navigate to third-party sites and services, or otherwise display third-party content. We do this for your convenience. We don't endorse or generally have any affiliation with these third parties. And we don't control and aren't responsible for their Web practices. Whether the third-party content appears within our Web environment (like a map frame), or you leave our Web site for another site to view it, those service provider's terms, conditions, and privacy policies govern your online experience (unless there's a conspicuously posted statement by us that says otherwise). Please view their terms of service and privacy policies if you have any question about their practices.
+We may enable you to navigate to third-party sites and services, or otherwise display third-party content. We do this for your convenience. We don't endorse or generally have any affiliation with these third parties. And we don't control and aren't responsible for their Web practices. It is possible that the third party providing content through our Web site may collect or observe information through its use of technology.Whether the third-party content appears within our Web environment (like a map frame), or you leave our Web site for another site to view it, those service provider's terms, conditions, and privacy policies govern your online experience (unless there's a conspicuously posted statement by us that says otherwise). Please view their terms of service and privacy policies if you have any question about their practices.
 
 Here's a partial list of the sites or content of these third parties:
 
@@ -74,19 +79,23 @@ Here's a partial list of the sites or content of these third parties:
     
     We may facilitate easy access to the online maps of content providers like Google, Microsoft, and Yahoo! There you can get quick location, driving, and contact information for our stores.
     
-2.  2\.  Sweepstakes, Contests, and Survey Sites
+2.  2\.  Inline Framing
+    
+    We may provide content on our Web site that exists on other Web sites, such as live or recorded video, through a frame surrounded by content from our Web site (this framed content is referred to as an iFrame). The iFrame is used to facilitate easy access to the content from the other Web site.
+    
+3.  3\.  Sweepstakes, Contests, and Survey Sites
     
     We may rely on the expertise of third-party service providers to run sweepstakes, contests, and surveys. Navigation to these sites may be seamless so that it appears you're still in our Web site environment. In these cases, the third-party's privacy policy may apply to any personal information you provide in connection with the event. So please take note of who's running the event in question. and the terms, conditions, and policies that apply.
     
-3.  3\.  Social Networking or Other User-Generated-Content Sites, and Other Websites
+4.  4\.  Social Networking or Other User-Generated-Content Sites, and Other Websites
     
     We may at times facilitate easy access to third-party sites, like social networking sites and other sites that host user-generated content. This may include easy click-through access or even "single sign-on" to these sites. The third-party's privacy policy applies to any personal information you provide at these sites.
     
-4.  4\.  The Angel Credit Card Site
+5.  5\.  The Angel Credit Card Site
     
     We enable you to navigate easily to the site of World Financial Network Bank (WFNNB), where you can apply for the Angel card and pay invoices online. WFNNB issues and owns the Angel credit card accounts. When you apply online for an Angel credit card or pay your account online, you leave our site and interact directly with WFNNB. Any information you provide to WFNNB is subject to WFNNB's terms, conditions, and policies, including its privacy policy.
     
-5.  5\.  Third-Party Rewards or Membership Programs
+6.  6\.  Third-Party Rewards or Membership Programs
     
     We may interact with certain unrelated companies that offer their customers memberships to participate in programs, which may include rewards for purchases from us. If you become a member of one of these programs or purchase something from us at this Web site through such a program, we may provide the company administering the membership program enough information about you or your purchase (like contact information, transaction date, transaction amount, and order number), to enable it to honor your membership. We are not responsible for the privacy practices of the companies sponsoring these membership programs. Their terms, conditions, and policies apply to any information that's provided to them to further their programs.
     
@@ -97,7 +106,7 @@ What information do we share with third parties and our sister brands (or what i
 
 1.  1\.  Our Sister Brands
     
-    We may also share the information described in this policy, like postal and email address, customer preferences, and purchase history within our corporate family so that our affiliates may market to you. Our affiliates include such brands as Bath &. Body Works, Beauty Avenues, Inc., C.O. Bigelow, Henri Bendel, the La Senza family of brands, Mast Global, and Slatkin &. Co..
+    We may also share the information described in this policy, like postal and email address, customer preferences, and purchase history within our corporate family so that our affiliates may market to you. Our affiliates include such brands as Bath &. Body Works, Beauty Avenues, Inc., C.O. Bigelow, Henri Bendel, White Barn, the La Senza family of brands, Mast Global, and Slatkin &. Co..
     
 2.  2\.  Contractors
     
@@ -105,7 +114,7 @@ What information do we share with third parties and our sister brands (or what i
     
 3.  3\.  Other Marketers
     
-    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers on their products and services. If you don't want this information shared with these merchants and exchanges, please **click here**.
+    We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers on their products and services. If you don't want this information shared with these merchants and exchanges, please **click here** .
     
 4.  4\.  Law Enforcement and Emergency Response
     
@@ -132,7 +141,7 @@ What choices do you have over how your information is used?
     
 3.  3\.  Postal Mail: Catalogs
     
-    If you'd like to specify your preferences for our catalogues (including or postal-mail offers), simply follow the instructions on each such catalogue, or dial 1-800-411-5116. To reduce postal mail **click here**.
+    If you'd like to specify your preferences for our catalogues (including or postal-mail offers), simply follow the instructions on each such catalogue, or dial 1-800-411-5116. To reduce postal mail **click here** .
     
 4.  4\.  Victoria's Secret Pink Nation
     
@@ -173,7 +182,7 @@ Where is personal information stored and processed?
 
 We may store and process personal information in the United States and other countries.
 
-Our parent company (L Brands) has become a participant in the Safe Harbor program (developed by the U.S. Department of Commerce and the European Union) specifically for our Victoria’s Secret and Victoria’s Secret Pink stores in—and email sign-up Website for—the United Kingdom. (They are governed by separate privacy policies, which may be accessed in those stores and on that Web site.) L Brands has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the European Union (EU) to the U.S. For more information about the Safe Harbor program and to view L Brands' certification, please visit the U.S. Department of Commerce's Safe Harbor Web site. If you wish to make an EU-related inquiry about privacy or data transfer, please contact our Associate Vice President (AVP) of Legal and Compliance Services
+Our parent company (L Brands) has become a participant in the Safe Harbor program (developed by the U.S. Department of Commerce and the European Union) specifically for our Victorias Secret and Victorias Secret Pink stores inand email sign-up Website forthe United Kingdom. (They are governed by separate privacy policies, which may be accessed in those stores and on that Web site.) L Brands has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from the European Union (EU) to the U.S. For more information about the Safe Harbor program and to view L Brands' certification, please visit the U.S. Department of Commerce's Safe Harbor Web site. If you wish to make an EU-related inquiry about privacy or data transfer, please contact our Associate Vice President (AVP) of Legal and Compliance Services
 
 Back To Top
 
@@ -201,7 +210,7 @@ Whom should you contact with questions or concerns?  
     
     Safe Harbor Line  
     Direct Marketing Association  
-    1615 L St., NW – Suite 1100  
+    1615 L St., NW Suite 1100  
     Washington, DC 20036  
     US  
     safeharbor@the-dma.org
@@ -213,7 +222,7 @@ When was this policy last updated?
 
 Please click here to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about VictoriasSecret.com.
 
-This Privacy Statement is effective November 21, 2013
+This Privacy Statement is effective December 17, 2013
 
 Back To Top
 
