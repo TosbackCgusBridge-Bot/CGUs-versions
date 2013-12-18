@@ -48,7 +48,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Up to 25%! Plus Free Standard Shipping on Every Shipment over $35!\*
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Save up to 25%! PLUS Free Christmas Delivery for Shipments $35+\*
 
 1.  Home
 2.  Customer Service
@@ -122,9 +122,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
