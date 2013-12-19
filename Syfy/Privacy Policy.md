@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl: Season 4 Premieres January 13 at 8 ... Lost Girl: Season 4 Premieres January 13 at 8/7c
+Syfy Video Ksenia Solo On the Holidays Ksenia Solo On the Holidays
 
-Season premiere of Lost Girl, Monday January 13th at 8/7c.
+Ksenia Solo has a few ideas for her New Years Resolution, as well as her favorite gift to get.
 
-Welcome to the Pack Welcome to the Pack
+Kenzi : Lost Girl Kenzi : Lost Girl
 
-Bitten premieres January 13th at 10/9c.
+Lost Girl Premieres January 13th at 8/7c
 
-Bitten: Premieres January 13 at 10/9c. Bitten: Premieres January 13 at 10/9c.
+Bo : Lost Girl Bo : Lost Girl
 
-Bitten, a new series coming to Syfy this January.
+Lost Girl Premieres January 13th at 8/7c
 
-Blastr Origin Stories: Katee Sackhoff on Star ... Blastr Origin Stories: Katee Sackhoff on Starbuck
+Dyson: Lost Girl Dyson: Lost Girl
 
-Katee Sackhoff tells Blastr where Starbuck's attitude came from and how she first shaped her role in BSG.
+Lost Girl Premieres January 13th at 8/7c
 
 *   FAQ
 *   Feedback
