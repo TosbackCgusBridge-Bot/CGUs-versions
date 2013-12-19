@@ -1,4 +1,4 @@
-**reddit privacy policy** _effective May 15, 2013_
+**reddit privacy policy** _effective Dec 18, 2013_
 
 > your privacy is genuinely important to us.  
 > here's how we manage and use your data.
@@ -59,52 +59,64 @@ Cookie Policy
 
 17 Cookies are small data files placed on your computer by websites you visit in order to help them remember certain information about you. At reddit, we set only a few cookies for tracking user preferences, authentication, and collecting anonymous analytics data. Additionally, our advertising partners set cookies. Each of these uses is described in greater detail below.
 
+California's 'Do Not Track' law
+
+18 reddit's website does not currently respond to a Do Not Track ("DNT") or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond. reddit does not allow other parties to collect personally identifiable information from users on reddit.
+
 Preference Cookies
 
-18 If you are logged out, reddit will place a simple cookie to remember if you indicate you would like to view over 18 content, or if you set a language preference. Additionally, if you vote an advertisement up or down, our third-party advertising partner, Adzerk, will set a cookie to remember your ad preferences.
+19 If you are logged out, reddit will place a simple cookie to remember if you indicate you would like to view over 18 content, or if you set a language preference. Additionally, if you vote an advertisement up or down, our third-party advertising partner, Adzerk, will set a cookie to remember your ad preferences.
+
+20 reddit.tv will place a simple cookie to remember your channel choices, which includes the subreddits you choose as channels and how they are arranged, and your playback preferences including vote sort, autoplay, shuffle, NSFW/SFW, and whether annotations will be visible.
 
 Authentication Cookies
 
-19 When you log into your account, reddit will place a cookie for the sole purpose of creating this session. It contains your user id and hashed authentication information.
+21 When you log into your account, reddit will place a cookie for the sole purpose of creating this session. It contains your user id and hashed authentication information.
 
 Analytics Cookies
 
-20 We use a tool called Google Analytics to help us understand how users interact with our website. It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site. By knowing how people use the site, we can make it better. To learn more about Google Analytics and how it uses your data, please visit http://www.google.com/analytics/learn/privacy.html.
+22 We use a tool called Google Analytics to help us understand how users interact with our website. It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site. By knowing how people use the site, we can make it better. To learn more about Google Analytics and how it uses your data, please visit http://www.google.com/analytics/learn/privacy.html.
 
 Advertising Cookies
 
-21 _We partner with Adzerk to show our users third party ads._
+23 _We partner with Adzerk to show our users third party ads._
 
-22 Some cookies may be placed during the provision of this service pursuant to Adzerk's privacy policy.
+24 Some cookies may be placed during the provision of this service pursuant to Adzerk's privacy policy.
 
 Disabling cookies
 
-23 Most browsers include an option to clear existing cookies or reject new ones. However, if you do this, portions of the reddit website may not function as intended.
+25 Most browsers include an option to clear existing cookies or reject new ones. However, if you do this, portions of the reddit website may not function as intended.
 
 Account Deletion
 
-24 _You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to users of the site. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts._
+26 _You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to users of the site. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts._
 
 Third Party Sites
 
-25 Certain third party sites may offer users the option to log in using their reddit id (for example, redditgifts). This option is only an authentication tool and does not transmit any new personal information to reddit, or give reddit access to details of subsequent actions taken on these sites.
+27 Certain third party sites may offer users the option to log in using their reddit id (for example, redditgifts). This option is only an authentication tool and does not transmit any new personal information to reddit, or give reddit access to details of subsequent actions taken on these sites.
 
 Data Security
 
-26 reddit will make every effort to secure any private information submitted to us by our users. However, no data transmission over the internet is completely secure, so we cannot guarantee the absolute security of this data. You use the service at your own risk, and are responsible for taking reasonable measures to secure your account (such as carefully maintaining the secrecy of your password).
+28 reddit will make every effort to secure any private information submitted to us by our users. However, no data transmission over the internet is completely secure, so we cannot guarantee the absolute security of this data. You use the service at your own risk, and are responsible for taking reasonable measures to secure your account (such as carefully maintaining the secrecy of your password).
 
 International Visitors
 
-27 reddit is a San Francisco, California-based company whose servers are housed in the United States. All personal information we collect from our international users is transferred to the United States and processed according to US law.
+29 reddit is a San Francisco, California-based company whose servers are housed in the United States. All personal information we collect from our international users is transferred to the United States and processed according to US law.
+
+30 reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. reddit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view reddit's certification, please visit http://www.export.gov/safeharbor/.
+
+31 In compliance with the Safe Harbor Principles, reddit commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us.
+
+32 reddit has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed reddit, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 Children Under 13
 
-28 Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
+33 Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
 
 Changes to This Policy
 
-29 We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alters your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
+34 We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alters your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
 
 Contact
 
-30 reddit welcomes questions, concerns, and feedback about this policy. Please feel free to contact us.
+35 reddit welcomes questions, concerns, and feedback about this policy. Please feel free to contact us.
