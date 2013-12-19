@@ -18,7 +18,7 @@
     *   Top 20 Countdown
     *   Greatest Lists
     *   Music Videos
-    *   VH1 Artists
+    *   Artists A-Z
     *   VH1 Classic
     *   VH1 Soul
     *   VH1 You Oughta Know
