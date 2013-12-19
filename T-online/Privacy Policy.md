@@ -91,8 +91,8 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Facebook auf dem Handy gecheckt - Frau stürzt ins Meer
 *   Andrea Voßhoff wird Datenschutzbeauftragte
-*   Facebook testet Videowerbung zwischen den Einträgen
 *   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   PC-Hardware vor Hitzeschäden bewahren
 *   Datenschutzbeauftragter fordert Regierung zum Handeln auf
