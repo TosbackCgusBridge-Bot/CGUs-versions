@@ -43,6 +43,7 @@ How HP uses automatic data collection tools:
   
 
 *   Cookies
+*   Ad Choices
 *   Web beacons
 *   Embedded web links
 *   HP ads on third party websites
@@ -296,6 +297,11 @@ You can find information on popular browsers and how to adjust your cookie prefe
   
 
 From time to time, HP will use Flash local shared objects (LSOs) to store Flash content information and preferences. LSOs perform similar functions to HTML browser cookies and deposit small files on your computer, which are commonly called Flash cookies. Flash cookies are different from browser cookies and cookie management tools provided by your browser may not remove Flash cookies. To learn more about Flash Cookies and how to manage the related privacy and storage settings, please visit the Adobe Systems website .
+
+  
+Ad Choices
+
+Most web browsers offer you the ability to inform websites and ad networks that you do not want your online activities tracked through a “Do Not Track” feature. Learn more about network advertising and how to opt out of being tracked by visiting http://www.aboutads.info/choices/.
 
   
 Web beacons
