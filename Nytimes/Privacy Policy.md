@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Watch the latest Op-Doc: "Naturally, J.J. Cale"
+Search Help Under the spell of old restaurants
 
-Also in Video »
+Also in Arts »
 
-*   ScienceTake: The physics of ants
-*   The Read Around: Elizabeth Gilbert
+*   The reinvention of beige
+*   Retro Nike sneakers aimed at the fashion set
 
   
 
