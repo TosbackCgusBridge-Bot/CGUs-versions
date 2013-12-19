@@ -1,4 +1,4 @@
-**Last Revised: July 30, 2013**
+**Last Revised: December 18, 2013**
 
 Please read this Domain Name Proxy Agreement ("Agreement") carefully. By using the Services and/or website of Domains By Proxy, LLC, a Delaware limited liability company ("DBP"), You (as defined below) agree to all the terms and conditions set forth both herein and in the DBP privacy policy, which is incorporated by reference and can be found by clicking here.  You acknowledge that DBP may amend this Agreement at any time upon posting the amended terms on its website, and that any new, different or additional features changing the services provided by DBP will automatically be subject to this Agreement. If You do not agree to be bound by, or if You object to, the terms and conditions of this Agreement and any amendments hereto, do not use or access DBP's services. Continued use of DBP's services and its website after any such changes to this Agreement have been posted, constitutes Your acceptance of those changes.
 
@@ -14,7 +14,7 @@ You agree You will be bound by representations made by third parties acting on Y
 
 When You subscribe to DBP's private registration service through a DBP-affiliated Registrar, each available domain name registration You designate will thereafter be registered in the name of DBP, as Registrant. In exchange for DBP becoming the Registrant of each domain name registration on Your behalf, DBP shall keep Your name, postal address, email address, phone and fax numbers confidential, subject to Section 4 of this Agreement. When DBP becomes the Registrant of Your domain name registration, the following information (and not Your personal information) will be made publicly available in the "Whois" directory as determined by ICANN policy:
 
-1.  DBP's name and postal address as Registrant of the domain name;
+1.  DBP's name as the Registrant of the domain name and a proxy email address, phone number and postal address for the Registrant's contact information;
 2.  A proxy postal address and phone number for the domain name registration's technical contact;
 3.  A proxy email address, postal address and phone number for the domain name registration's administrative contact;
 4.  A proxy email address, postal address and phone number for the domain's name registration's billing contact;
@@ -48,7 +48,7 @@ You agree to:
 
 1.  Notify DBP within three (3) calendar days when any of the personal information You provided upon subscribing to DBP's services, changes;
 2.  Respond within three (3) calendar days to any inquiries made by DBP to determine the validity of personal information provided by You. and
-3.  Timely respond to email messages DBP sends to You regarding correspondence DBP has received that is either addressed to or involves You an/or Your domain name registration, as more fully set forth in Section 5(b) below.
+3.  Timely respond to email messages DBP sends to You regarding correspondence DBP has received that is either addressed to or involves You and/or Your domain name registration, as more fully set forth in Section 5(c) below.
 
 It is Your responsibility to keep Your personal information current and accurate at all times.
 
@@ -107,7 +107,7 @@ You further understand and agree that if DBP is named as a defendant in, or inve
 
 In the event:
 
-1.  DBP takes any of the actions set forth in subsection A, B, or C above or section 5. and/or
+1.  DBP takes any of the actions set forth in subsection i, ii, or iii above or section 5. and/or
 2.  You elect to cancel DBP's services for any reason --
 
 Neither DBP nor your Registrar will refund any fees paid by You whatsoever.
