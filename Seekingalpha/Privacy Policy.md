@@ -7,6 +7,12 @@ Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1)
 *   Dividends &. Income |
 *   ETFs |
 *   Macro View |
+*   Home |
+*   My Portfolio |
+*   Breaking News |
+*   Latest Analysis |
+*   Alpha-Rich Ideas |
+*   StockTalk |
 *   ALERTS |
 *   PRO
 
