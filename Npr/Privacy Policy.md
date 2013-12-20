@@ -256,7 +256,6 @@ Support The Programs You Love
     *   Morning Edition
     *   On The Media
     *   On Point
-    *   Talk of the Nation
     *   Science Friday
     *   TED Radio Hour
     *   Tell Me More
