@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Facebook auf dem Handy gecheckt - Frau stürzt ins Meer
+*   Facebook-Gründer Mark Zuckerberg macht richtig Kasse
+*   Google zu Geldstrafe in Spanien verurteilt
+*   Andrea Voßhoff ist neue Bundesdatenschutzbeauftragte
 *   Andrea Voßhoff wird Datenschutzbeauftragte
 *   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   PC-Hardware vor Hitzeschäden bewahren
 *   Datenschutzbeauftragter fordert Regierung zum Handeln auf
 *   Fragwürdiger Umgang mit Krankenakten im Innenministerium
-*   Datenschützer zu Snowden-Enthüllungen: "Es wird noch schlimmer"
-*   Weitergabe von Daten des Nachbarn kann teuer werden
 
 weniger Artikel weniger Artikel
 
+*   Datenschützer zu Snowden-Enthüllungen: "Es wird noch schlimmer"
+*   Weitergabe von Daten des Nachbarn kann teuer werden
 *   Innenminister Caffier: Vorratsdatenspeicherung ist unverzichtbar
 *   Laut EU-Gutachter greifen Vorratsdaten in Grundrechte ein
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
@@ -111,8 +113,6 @@ weniger Artikel weniger Artikel
 *   Union und SPD sehen in EU-Gutachten keine Gefahr für Speicherpläne
 *   EU-Gutachter: Vorratsdatenspeicherung widerspricht EU-Recht
 *   Gutachter: Datenspeicherung auf Vorrat widerspricht EU-Recht
-*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
-*   Schaar: Einführung von Vorratsdatenspeicherung wäre fatal
 *   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 
 *   Kundencenter
