@@ -81,7 +81,7 @@ The eBay.com website is a general audience website, and it and its related sites
 
 Collection of Personal Information
 
-You can browse our sites without telling us who you are or revealing any personal information about yourself. This information is associated to your account only when you sign in as a registered user. If you register for an account with us, you give us your personal information, and you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
+You can browse our sites without telling us who you are or revealing any personal information about yourself. If you register for an account with us, you give us your personal information, and you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
 
 We collect the following types of personal information in order to provide you with the use of and access to our sites, applications, services and tools, and to help us personalize and improve your experience:
 
@@ -181,9 +181,9 @@ Without limiting the above, in an effort to respect your privacy and our ability
 
 Information You Share on eBay
 
-Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, storefronts, Feedback, ratings and associated comments. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities.
+Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you chose to share in your profile and your About Me page. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities. 
 
-If you access our sites from a shared computer or a computer in an internet café, certain information about you, such as your User ID, activity, or reminders from eBay, may also be visible to other individuals who use the computer after you.
+If you access our websites from a shared computer or a computer in an internet café, certain information about you, such as your User ID, activity or reminders from eBay, may also be visible to other individuals who use the computer after you.
 
 Using Information from eBay
 
