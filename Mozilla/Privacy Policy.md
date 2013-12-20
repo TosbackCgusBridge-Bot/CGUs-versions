@@ -123,6 +123,8 @@ Contribute to this page
 *   Legal Notices
 *   Report Trademark Abuse
 
-*   Twitter
-*   Facebook
+*   Mozilla on Twitter
+*   Firefox on Twitter
+*   Mozilla on Facebook
+*   Firefox on Facebook
 *   Firefox Affiliates
