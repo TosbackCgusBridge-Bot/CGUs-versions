@@ -12,7 +12,7 @@
     *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 Explore Build
     *   Corolla $16,800 starting msrp 1 28/37 est. mpg 2 $19,000 as shown Explore Build
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
-    *   Camry $22,235 starting msrp 1 25/35 est. mpg 2 Explore Build
+    *   Camry $22,425 starting msrp 1 25/35 est. mpg 2 Explore Build
     *   Avalon $31,340 starting msrp 1 21/31 est. mpg 2 Explore Build
     *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 Explore Build
 2.  Trucks
@@ -27,7 +27,7 @@
     *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 Explore Build
     *   Land Cruiser $78,755 starting msrp 1 13/18 est. mpg 2 Explore Build
 4.  Hybrids &. EVs
-    *   Camry Hybrid $26,140 starting msrp 1 43/39 est. mpg 2 Explore Build
+    *   Camry Hybrid $26,330 starting msrp 1 43/39 est. mpg 2 Explore Build
     *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 Explore Build
     *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
         driving range 3 /  
