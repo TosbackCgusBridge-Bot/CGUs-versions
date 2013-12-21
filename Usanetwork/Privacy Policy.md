@@ -1,9 +1,10 @@
 Skip to main content USA Network USA Shows Shows close
 
 *   Burn Notice
+*   New! Chrisley Knows Best
 *   Covert Affairs
 *   CSI
-*   New! USA Daytime
+*   USA Daytime
 *   Graceland
 *   House
 *   Law &. Order: Criminal Intent
