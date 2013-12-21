@@ -1,4 +1,6 @@
-Effective: May 7, 2012
+Last updated: December 20, 2013  
+
+**What’s Updated?** We explained that we may use certain information collected from customers to better understand why our customers use (or stop using) Adobe applications. We also clarified when changes or updates to the Privacy Center become effective. Finally, we updated the description of the privacy programs in which Adobe participates.
 
 The Adobe Privacy Policy describes the privacy practices of Adobe’s websites, products, online services, and apps.
 
@@ -14,9 +16,9 @@ Jump to:
 
 *   Is my personal information secure?
 *   Where does Adobe store my personal information?
-*   How can I review, update, or delete my personal information?
+*   How can I review or update my personal information or close my Adobe ID account?
 *   Will Adobe market to me?
-*   Does Adobe participate in any privacy programs?
+*   Does Adobe participate in the U.S.-EU Safe Harbor program?
 *   Will this privacy policy change?
 *   Who can I contact with questions or concerns?
 
@@ -52,7 +54,8 @@ To the top How does Adobe use the information it collects about me?
 Adobe uses the information we collect about you in a number of ways, such as:
 
 *   Providing you with the Adobe websites and applications for which you have registered, as well as any services, support, or information you have requested
-*   Better understanding how our websites and applications are being used so we can improve them
+*   Better understanding how our websites and applications are being used so we can improve them and engage and retain users  
+    
 *   Diagnosing problems in our websites and applications
 *   Tailoring a website, application, or Adobe marketing to your likely interests
 *   Sending you business messages such as those related to payments or expiration of your subscription
@@ -102,30 +105,28 @@ We understand that the security of your personal information is important. We pr
 
 To the top Where does Adobe store my personal information?
 
-Your personal information and data files are stored on Adobe’s servers and the servers of companies we hire to provide services to us. Your personal information may be transferred across national borders because we have servers located worldwide and the companies we hire to help us run our business are located in different countries around the world. Please also see Adobe’s Safe Harbor policy.
+Your personal information and data files are stored on Adobe’s servers and the servers of companies we hire to provide services to us. Your personal information may be transferred across national borders because we have servers located worldwide and the companies we hire to help us run our business are located in different countries around the world. For more information, please see Adobe’s Safe Harbor policy.
 
-To the top How can I review, update, or delete my personal information?
+To the top How can I review or update my personal information or close my Adobe ID account?
 
 Many of our websites and applications allow you to edit your personal information by accessing the "my account," "my profile," or similar feature of the website or application you are using.
 
-If you want to delete your Adobe ID account, please email your request to privacy@adobe.com. Note that we need to retain certain records for legal or internal business reasons and that some of your information may remain on backup systems, in compliance with applicable law.
+If you want to request a deletion of your Adobe ID account, please email your request to privacy@adobe.com. Note that we need to retain certain records for legal or internal business reasons (such as fraud prevention). Some of your information may remain on backup systems, in compliance with applicable law.
 
 We will retain your personal information for as long as necessary to provide you with the websites and applications you are eligible to use with your Adobe ID, or as needed to comply with our legal obligations or enforce our agreements.
 
 To the top Will Adobe market to me?
 
-The Adobe family of companies (see list of Adobe entities \[click "Office Locations" tab\] and our acquired companies) and companies we hire to help us market our websites and applications on our behalf may use your information to provide you with information and offers related to Adobe. We give you choices regarding our marketing practices.
+The Adobe family of companies (see list of Adobe entities and our acquired companies) and companies we hire to help us market our websites and applications on our behalf may use your information to provide you with information and offers related to Adobe. We give you choices regarding our marketing practices.
 
-To the top Does Adobe participate in any privacy programs?
+To the top Does Adobe participate in the U.S.-EU Safe Harbor program?
 
-Adobe Systems Incorporated (our U.S. company) adheres to the European Union Safe Harbor Privacy Program (see Adobe’s Safe Harbor policy).
-
-Adobe has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Adobe’s website privacy practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability, and choice regarding the collection and use of your personal information. If you have questions or complaints about this privacy policy or about privacy practices on our websites or applications, please contact us at privacy@adobe.com. If we have not resolved your complaint, you can contact TRUSTe. The TRUSTe program covers information that is collected through Adobe websites certified by TRUSTe (view list) and does not cover information collected by our apps or applications downloaded from our websites, or our hosted services.
+Adobe Systems Incorporated (our U.S. company) has certified to the EU Safe Harbor Framework with respect to personal information we receive from our subsidiaries, corporate customers, and other business partners located in the EU and Switzerland (see Adobe’s Safe Harbor policy).
 
 To the top Will this privacy policy change?
 
-Occasionally, we may change or update this privacy policy to allow Adobe to use or share your previously collected personal information in a materially different way. If we do, the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated before the change or update becomes effective. We encourage you to periodically review the Adobe Privacy Center for the latest information on our privacy practices.
+Occasionally, we may change or update this privacy policy (or other documents in the Adobe Privacy Center) to allow Adobe to use or share your previously collected personal information in a materially different way. If we do, the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated, For new users, the change or update will become effective upon posting. For existing users, the change or update will become effective 30 days after posting. We encourage you to periodically review the Adobe Privacy Center for the latest information on our privacy practices.
 
 To the top Who can I contact with questions or concerns?
 
-If you have a privacy question or complaint, please email us at privacy@adobe.com. In addition, please see above regarding questions or complaints related to Adobe websites that have been awarded the TRUSTe Privacy Seal.
+If you have a privacy question or complaint, please email us at privacy@adobe.com.
