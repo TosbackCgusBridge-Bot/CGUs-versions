@@ -239,7 +239,7 @@ Learn More
     *   Investors
     *   Press Releases
     *   News Coverage
-    *   Events
+    
     *   Digital 100
     *   Careers
 
