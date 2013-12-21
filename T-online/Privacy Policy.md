@@ -91,29 +91,29 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Facebook-Gründer Mark Zuckerberg macht richtig Kasse
-*   Google zu Geldstrafe in Spanien verurteilt
+*   Polizei hat in Rockerdatei über 1000 Personen gespeichert
+*   WhatsApp rückt Facebook auf die Pelle: Schon 400 Millionen Nutzer
+*   Google in Spanien zu Geldstrafe verurteilt
+*   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
+*   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
+*   Kennen Sie den Unterschied?
+*   Pauschale Einschränkung von Freiheitsrechten passt nicht zu uns
+*   Dr. André Zehl erklärt das Hosting-Konzept im Business Marketplace
+
+weniger Artikel weniger Artikel
+
+*   Weshalb die Cloud sicherer ist als herkömmliche IT-Systeme
 *   Andrea Voßhoff ist neue Bundesdatenschutzbeauftragte
+*   Aufgeklärt: Was ist ein ADV-Vertrag?
+*   Business Marketplace: Die clevere Alternative zu störanfälliger Firmen-IT
+*   Was Sie bei der Verlagerung von Daten in die Cloud beachten sollten
 *   Andrea Voßhoff wird Datenschutzbeauftragte
 *   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   PC-Hardware vor Hitzeschäden bewahren
 *   Datenschutzbeauftragter fordert Regierung zum Handeln auf
 *   Fragwürdiger Umgang mit Krankenakten im Innenministerium
-
-weniger Artikel weniger Artikel
-
 *   Datenschützer zu Snowden-Enthüllungen: "Es wird noch schlimmer"
 *   Weitergabe von Daten des Nachbarn kann teuer werden
-*   Innenminister Caffier: Vorratsdatenspeicherung ist unverzichtbar
-*   Laut EU-Gutachter greifen Vorratsdaten in Grundrechte ein
-*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
-*   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
-*   Nach Debeka-Vorwürfen - Innenministerium fragt Nebentätigkeiten ab
-*   Schwarz-Rot: EU-Gutachten bestätigt Speicherpläne
-*   Union und SPD sehen in EU-Gutachten keine Gefahr für Speicherpläne
-*   EU-Gutachter: Vorratsdatenspeicherung widerspricht EU-Recht
-*   Gutachter: Datenspeicherung auf Vorrat widerspricht EU-Recht
-*   Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 
 *   Kundencenter
 *   Preise und AGB
