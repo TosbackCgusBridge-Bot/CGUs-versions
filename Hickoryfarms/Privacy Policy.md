@@ -48,7 +48,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Save up to 33% + Christmas Delivery only $10!\*
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Save up to 33% + Christmas Delivery ~$35~ Now $10!
 
 1.  Home
 2.  Customer Service
@@ -122,9 +122,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
