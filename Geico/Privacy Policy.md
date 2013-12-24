@@ -24,6 +24,8 @@ Summary
 This summary tells you the basics of our privacy commitment to you-how we collect and use your information, how we protect it, and who can see it. You should read the entire privacy policy below for full details.
 
 *   We obtain personal information from you directly, from your transactions with us, and from third parties such as state motor vehicle departments.
+*   We do not collect personally-identifying information from you when you visit our Web site or online services unless you affirmatively provide it to us.
+*   We do not allow third parties to collect personally-identifying information from your computer or mobile device when you visit our Web site or use our online services.
 *   We will not sell your information to third parties.
 *   Any third parties who perform services for us are required to safeguard any customer information and may only use it in connection with performing those services.
 *   We extensively secure and limit access to your information.
@@ -141,4 +143,4 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Secure Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is December 14, 2013.
+The Effective Date of the revised Privacy Policy is December 23, 2013.
