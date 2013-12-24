@@ -18,9 +18,7 @@ Zynga Play now!
 *   games
     *   Play on Zynga.com
     *   Featured Games
-    *   Bubble Safari
     *   Slots
-    *   CastleVille
     *   Hidden Shadows
     *   CityVille
     *   FarmVille
@@ -371,9 +369,7 @@ Games
 
 *   Play on Zynga.com
 *   Poker
-*   Bubble Safari
 *   Slots
-*   CastleVille
 *   Hidden Shadows
 *   CityVille
 *   FarmVille
