@@ -34,6 +34,8 @@
   
 (f) Third Parties. We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our Newspaper. Those third parties have privacy policies that differ from this Privacy Policy.  
   
+(g) Tracking Requests. Hearst does not act on Do Not Track requests from your browser. For more information click here.  
+  
 3\. Use of Information.  
   
 (a) Newspaper uses information we collect from you in part to provide you with the service you have requested. If you subscribe to our Newspaper, we may also use your e-mail address to send you a confirmation notice and your mailing address to send you the Newspaper. Similarly, if you enter online sweepstakes, we will also use this information to notify you if you are a winner. We also use your information to register you, identify you as a user, improve our Covered Sites and services, send you administrative notifications, and respond to your inquiries. We might also send out e-mails to users and sweepstakes/contest entrants to announce special offers, services and announcements from our Covered Sites, our partners and/or our advertisers. We also use information in connection with advertising and to serve other content, as described in section 4(d) below.  
