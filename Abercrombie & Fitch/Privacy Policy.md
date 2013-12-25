@@ -1,11 +1,21 @@
 ABERCROMBIE &. FITCH US  
 PRIVACY POLICY
 
-Updated: October 2013
+Updated: December 2013
+
+AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
+
+We contract with third party advertising companies to serve you online display and banner advertisements on other websites.  To serve this advertising, these third parties may place, use or rely on technology, such as cookies and/or Pixel Tags (which are described below in the privacy policy), to collect information about your interactions with our Websites and Apps (both defined below in the privacy) and interactions with other websites. These advertising companies may use and share the information gathered to deliver our ads more tailored to your interests on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness.
+
+For information about opt out programs these third party advertising companies participate in and the effect of opting out, click on the following: http://www.aboutads.info/choices/ (you will leave this Website for a centrally managed online site where you can specify your preference under those programs).  You can also click on the icon that may appear on some of our advertising served through these technologies.  We may use more than one third party company for placing this advertising, which would require you to opt out of each company.
+
+PRIVACY POLICY
 
 In order to make your visits to the various online channels of Abercrombie &. Fitch as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Abercrombie pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
 
-This privacy policy statement applies only to the information collected online through Abercrombie.com, Abercrombie &. Fitch microsites or mobile sites, or mobile applications that Abercrombie &. Fitch provides for download to your mobile device that expressly adopt, and display or link to, this policy (collectively our “Websites”) or through our Social Media Pages. 
+This privacy policy statement applies only to the information collected online through Abercrombie.com, Abercrombie &. Fitch microsites or mobile sites (collectively our “Websites”), or mobile applications that Abercrombie &. Fitch provides for download to your mobile device ("Apps") that expressly adopt, and display or link to, this policy or through our Social Media Pages.
+
+Contents
 
 *   Information Collected Online
 *   Mobile Application
@@ -51,7 +61,7 @@ This privacy policy does not cover the privacy and security practices of social 
 
 Mobile Application
 
-We offer applications for download to your mobile device that provide you with various interactive features (“Apps”).
+We offer Apps for download to your mobile device that provide you with various interactive features.
 
 The collection and means of collecting information through any currently existing or future App are discussed in this policy when referencing Websites under the following sections:
 
@@ -106,10 +116,6 @@ Our Websites use, and our third party service providers may use, a browser featu
 Our Websites use, and our third party service providers may also use, Pixel Tags (also known as Web beacons, Web bugs, and Clear GIFs) on the Websites and in emails. A Pixel Tag is a nearly invisible pixel-sized graphic image on a Webpage or email message. Pixel Tags may be used to collect the same information about your visit that is collected through cookies, as noted above. We may also collect information about a search engine used, and a search engine advertisement clicked to navigate to the Websites. Pixel Tags in emails help us confirm the receipt of, and response to, our emails (including your interaction with our Websites as a result of receiving the email) and the time our email is viewed. This information helps us to make similar evaluations about our Websites and emails as with cookies and to determine the most desired features and information so that we can provide those features and information to you and personalize our interactions with you. This information may also be linked to and combined with information that we collect about you from your visits to our Websites.
 
 In addition, our email communications to you may include a "click-through URL" linked to a particular page on one of our Websites. By clicking on one of the URLs, you will automatically enter one of our Websites and we may collect information related to the "click-through". You may avoid having this information collected by not clicking on the URL links in our email communications.
-
-How Do Third Parties Serve You Our Advertisements?
-
-We contract with third party advertising companies to serve you advertisements.  Non-personally identifiable information may be shared with third parties for marketing purposes.  Some third parties may collect non-personally identifying information about you by placing cookies on your browser and/or using Pixel Tags when you visit our Websites. These advertising companies may use and share the information gathered about your visit to our Websites to deliver our ads on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness. To stop receiving ads from a third party advertising company we use, click on the link included in the advertisement and follow the instructions on opting out.  We may use more than one third party company for advertising, which would require you to opt out of each company through each of the various advertisement links separately.  If you would like more information about how third party advertising works in general and more information on how to opt-out, go to: http://www.aboutads.info/choices/  (you will leave this site for a centrally managed online site where you can specify your preference).
 
 Opt-Out
 
