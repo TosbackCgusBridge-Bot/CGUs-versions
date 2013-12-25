@@ -1,17 +1,6 @@
-"Legal : Privacy Policy" Privacy Policy
+"Legal : Subscriber Privacy Policy" Subscriber Privacy Policy
 
-Welcome to the Privacy Policy page. Every year we are required to share with you the Privacy Policy to help keep you informed about how DIRECTV collects, uses and discloses information about you.
-
-This year we made some minor changes to the policy. To make sure that the changes are clear we outlined them below:  
-
-*   Usage Information: New language has been added about viewing choices, authorized applications, and third party applications.
-*   Location-Based Information: New language has been added about authorized applications and location-based applications.
-*   Social Media Connections: A new section has been added about social media connections.
-
-Thank you for being a loyal DIRECTV customer.  
-  
-
-PRIVACY POLICY Printable Privacy Policy (English)   
+Printable Privacy Policy (English)   
 
 Printable Privacy Policy (Spanish)   
 
