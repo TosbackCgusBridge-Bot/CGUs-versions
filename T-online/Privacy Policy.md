@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
 *   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
 *   Polizei hat in Rockerdatei über 1000 Personen gespeichert
 *   WhatsApp rückt Facebook auf die Pelle: Schon 400 Millionen Nutzer
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
 *   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
 *   Kennen Sie den Unterschied?
-*   Pauschale Einschränkung von Freiheitsrechten passt nicht zu uns
 
 weniger Artikel weniger Artikel
 
+*   Pauschale Einschränkung von Freiheitsrechten passt nicht zu uns
 *   Dr. André Zehl erklärt das Hosting-Konzept im Business Marketplace
 *   Weshalb die Cloud sicherer ist als herkömmliche IT-Systeme
 *   Andrea Voßhoff ist neue Bundesdatenschutzbeauftragte
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   PC-Hardware vor Hitzeschäden bewahren
 *   Datenschutzbeauftragter fordert Regierung zum Handeln auf
 *   Fragwürdiger Umgang mit Krankenakten im Innenministerium
-*   Datenschützer zu Snowden-Enthüllungen: "Es wird noch schlimmer"
 
 *   Kundencenter
 *   Preise und AGB
