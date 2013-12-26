@@ -3,7 +3,7 @@ PRIVACY POLICY
 
 Updated: December 2013
 
-AD COOKIES POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
+AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
 We contract with third party advertising companies to serve you online display and banner advertisements on other websites.  To serve this advertising, these third parties may place, use or rely on technology, such as cookies and/or Pixel Tags (which are described below in the privacy policy), to collect information about your interactions with our Websites and Apps (both defined below in the privacy) and interactions with other websites. These advertising companies may use and share the information gathered to deliver our ads more tailored to your interests on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness.
 
