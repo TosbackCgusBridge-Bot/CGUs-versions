@@ -34,7 +34,8 @@
   
 (f) Third Parties. We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our Newspaper. Those third parties have privacy policies that differ from this Privacy Policy.  
   
-(g) Tracking Requests. Hearst does not act on Do Not Track requests from your browser. For more information click here.  
+(g) Tracking Requests. Hearst does not act on Do Not Track requests from your browser.  
+For more information click here.  
   
 3\. Use of Information.  
   
