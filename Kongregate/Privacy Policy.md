@@ -22,6 +22,8 @@ You may choose to disclose information about yourself in our online chat rooms, 
 
 **Mobile Application Notifications:** With your consent, Kongregate mobile applications may send push notifications to your mobile device to provide game information, news, updates, or other relevant information. You can manage these updates from the ‘options’ or ‘settings’ page from within the Mobile Application or from your device control panel that manages these notifications.
 
+**Do Not Track:** Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, Kongregate does not recognize DNT.
+
 How We Use This Information
 
 We use the information we collect from the Site and Mobile Applications to respond to your requests and provide customer service, to remit revenue share payments, process credit card payments, let you know about new games and other news from Kongregate, ask for your input and feedback on what we are doing, provide personalized services and recommendations, to make certain offers available that we believe may be of interest to you, and as may otherwise be described in this Privacy Policy or at the time that we collect information from you.
@@ -72,6 +74,6 @@ Kongregate
 2 Shaw Alley, 4th Floor   
 San Francisco, CA 94105
 
-Email Address Send me updates Password _(min. 5 characters)_ Date of Birth JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember1234567891011121314151617181920212223242526272829303119401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010 Username _(4-16 characters)_ ​
+Username _(4-16 characters)_ Password _(min. 5 characters)_ Date of Birth JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember1234567891011121314151617181920212223242526272829303119401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010 Email Address Send me updates ​
 
 By clicking “Sign Up”, you agree to adhere to our Terms of Service.
