@@ -1,4 +1,4 @@
-Privacy Policy Last Updated: 9/5/2013 What This Privacy Policy Covers
+Privacy Policy Last Updated: 12/26/2013 What This Privacy Policy Covers
 
 Thank you for visiting Kelley Blue Book Co., Inc.'s ("Kelley") kbb.com ("Kelley Site"). This policy applies to the kbb.com website and all related sites, applications, services and tools including mobile sites and applications where this policy is referenced, regardless of how you access or use them, including mobile devices.
 
@@ -114,7 +114,13 @@ Kelley may occasionally update this privacy policy. When we do, we will also rev
 
 Your California Privacy Rights
 
-For information on Your California Privacy Rights, see California Notice of Information-Sharing Disclosure.
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.
+
+As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them.
+
+Access and Correction
+
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the AutoTrader Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below.
 
 How to Contact Us
 
