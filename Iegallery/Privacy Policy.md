@@ -1,6 +1,6 @@
 Cookies &. Similar TechnologiesCookies
 
-Most Microsoft sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. We may use cookies to store your preferences and settings. help with sign-in. provide targeted ads. and analyze site operations.
+Most Microsoft sites use "cookies," small text files that can be read by a web server in the domain that put the cookie on your hard drive. We may use cookies to store your preferences and settings. help with sign-in. provide targeted ads. to combat fraud. and analyze site operations.
 
 We also use web beacons to help deliver cookies and compile analytics. These may include third-party web beacons, which are prohibited from collecting your personal information.
 
@@ -12,56 +12,91 @@ You have a variety of tools to control cookies and similar technologies, includi
 
 **Our Use of Cookies**
 
-Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server. Cookies contain text that can be read by a web server in the domain that issued the cookie to you. That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well. Here is an example of the text stored in a cookie that Microsoft might place on your hard disk when you visit one of our web sites: E3732CA7E319442F97EA48A170C99801
+Most Microsoft web sites use "cookies," which are small text files placed on your hard disk by a web server. Cookies contain text that can be read by a web server in the domain that issued the cookie to you. That text often consists of a string of numbers and letters that uniquely identifies your computer, but may contain other information as well. Here is an example of a unique ID number stored in a cookie that Microsoft might place on your device when you visit one of our web sites: E3732CA7E319442F97EA48A170C99801
 
 We may use cookies for:
 
 *   **Storing your Preferences and Settings.** If you enter your city or postal code to get local news or weather information on a Microsoft site, we may store that city or postal code in a cookie so that you will see the relevant local information when you return to the site. This can save you time by eliminating the need to repeatedly enter the same information every time you visit the site.
 *   **Sign-in and Authentication.** When you sign in to a site or service using your Microsoft account, we store your unique ID number, and the time you signed in, in an encrypted cookie on your hard disk. This cookie allows you to move from page to page at the site without having to sign in again on each page. When you sign out, these cookies are deleted from your computer. We also use cookies to improve the sign-in experience. For example, your e-mail address may be stored in a cookie that will remain on your computer after you sign out. This cookie allows your e-mail address to be pre-populated, so that you will only need to type your password the next time you sign in. If you are using a public computer or do not want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used.
-*   **Targeted Advertising.** When we display online advertisements to you, we will place one or more persistent cookies on your device in order to recognize your device each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you. You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in Microsoft Advertising Privacy Statement.
+*   **Targeted Advertising.** When we display online advertisements to you, we will place one or more persistent cookies on your device in order to recognize your device each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you. You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in the Microsoft Advertising Privacy Statement.
 *   **Site Analytics.** We may use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our sites and services. These analytics help us operate and improve the performance of these sites and services.
 
-Some of the cookies we commonly use are listed in the following chart. This list is not exhaustive, but it is intended to illustrate some of the reasons we set cookies. If you visit one of our web sites, the site may set some or all of the following cookies:
+Some of the cookies we commonly use are listed in the following chart. This list is not exhaustive, but it is intended to illustrate the reasons we typically set cookies. If you visit one of our web sites, the site may set some or all of the following cookies:
 
-**Cookie name** **Description** MUID Identifies unique browsers to Microsoft sites. It is used for advertising, site analytics and other operational purposes. ANON Contains the ANID, a unique identifier used to help identify which ads a user may like. It is also used to preserve a user’s choice to opt out of behaviorally targeted ads from Microsoft, if the user has chosen to associate the opt-out with his or her Microsoft account. CC Contains a country code as determined by reverse IP address lookup. Microsoft account authentication Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when a user signs in with a Microsoft account. NAP Contains an encrypted version of the user’s country, ZIP code, age, gender, language and occupation, if known, based on the user’s Windows Live profile. MH Appears on co-branded sites where Microsoft is partnering with an advertiser, this cookie identifies the advertiser so the right ad is selected. ACH01 Maintains information about which ad and where the user clicked on the ad. TOptOut Indicates that the user has indicated he or she does not want to receive behaviorally targeted ads delivered by Microsoft.
+**Cookie name**
 
-In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your hard drive when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your hard drive.
+**Description**
+
+MUID
+
+Identifies unique browsers to Microsoft sites. It is used for advertising, site analytics and other operational purposes.
+
+ANON
+
+Contains the ANID, a unique identifier used to help identify which ads a user may like. It is also used to preserve a user’s choice to opt out of behaviorally targeted ads from Microsoft, if the user has chosen to associate the opt-out with his or her Microsoft account.
+
+CC
+
+Contains a country code as determined by reverse IP address lookup.
+
+Microsoft account authentication
+
+Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when a user signs in with a Microsoft account.
+
+NAP
+
+Contains an encrypted version of the user’s country, postal code, age, gender, language and occupation, if known, based on the user’s Microsoft account profile.
+
+MH
+
+Appears on co-branded sites where Microsoft is partnering with an advertiser, this cookie identifies the advertiser so the right ad is selected.
+
+ACH01
+
+Maintains information about which ad and where the user clicked on the ad.
+
+TOptOut
+
+Indicates that the user has indicated he or she does not want to receive behaviorally targeted ads delivered by Microsoft.
+
+In addition to the cookies Microsoft may set when you visit our web sites, third parties may also set certain cookies on your device when you visit Microsoft sites. In some cases, that is because we have hired the third party to provide certain services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services.
 
 **How to Control Cookies**
 
 *   **Browser Controls to Block Cookies.** Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.
-    
-    For example, in Internet Explorer 9, you may block cookies by taking the following steps:
-    
-    1.  Click "Tools" and then select "Internet Options"
-    2.  Click the "Privacy" tab at the top of the window
-    3.  Move the slider up or down to indicate the rules you want to apply for blocking cookies 
-    
-    Instructions for blocking cookies in other browsers are available at http://www.allaboutcookies.org/manage-cookies/.
-    
-    Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
-    
+
+For example, in Internet Explorer 11, you may block cookies by taking the following steps:
+
+1.  Click "Tools" and then select "Internet Options"
+2.  Click the "Privacy" tab at the top of the window
+3.  Move the slider up or down to indicate the rules you want to apply for blocking cookies 
+
+Instructions for blocking cookies in other browsers are available at each browser’s privacy statement.   
+
+Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
+
 *   **Browser Controls to Delete Cookies**. If you accept cookies, you can delete them later.
-    
-    For example, in Internet Explorer 9, you may delete cookies by taking the following steps:
-    
-    1.  Click "Tools" and then select "Internet Options"
-    2.  On the "General" tab, under "Browsing History," click the "Delete" button
-    3.  On the pop-up, select the box next to “Cookies”
-    4.  Click the "Delete" button
-    
-    Instructions for deleting cookies in other browsers are available at http://www.allaboutcookies.org/manage-cookies/.
-    
-    Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
-    
-*   **Browser Controls for “Do Not Track” and Tracking Protection.** Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices.
-    
-    Internet Explorer 9 and 10 have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. And when you have a Tracking Protection List enabled, Internet Explorer will send a Do Not Track signal or preference to the web sites you visit. Additionally, in Internet Explorer 10 you may switch DNT "off" or "on" independently, if you'd like.  For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer privacy statement or Internet Explorer Help.
-    
+
+For example, in Internet Explorer 11, you may delete cookies by taking the following steps:
+
+1.  Click "Tools" and then select "Internet Options"
+2.  On the "General" tab, under "Browsing History," click the "Delete" button
+3.  On the pop-up, select the box next to “Cookies”
+4.  Click the "Delete" button
+
+Instructions for deleting cookies in other browsers are available at each browser’s privacy statement.
+
+Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
+
+*   **Browser Controls for “Do Not Track” and Tracking Protection.** Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites (or the third party content on those sites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth above.
+
+Internet Explorer (versions 9 and up) have a feature called Tracking Protection that helps prevent the web sites you go to from automatically sending details about your visit to third-party content providers. When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked. By limiting calls to these sites, Internet Explorer will limit the information these third-party sites can collect about you. For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer Privacy Statement or Internet Explorer Help.
+
 *   **Advertising Opt-Out Controls.** Because cookies may be used for many purposes, users who object to behaviorally targeted advertising may choose to accept cookies but opt out from that particular use. Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft). These pages include:
-    *   Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/
-    *   Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt\_out.asp
-    *   In Europe, you may also visit Your Online Choices: http://www.youronlinechoices.com/
+
+*   Digital Advertising Alliance (DAA) Consumer Choice Page: http://www.aboutads.info/choices/
+*   Network Advertising Initiative (NAI) Opt-Out Page: http://www.networkadvertising.org/managing/opt\_out.asp
+*   In Europe, you may also visit Your Online Choices: http://www.youronlinechoices.com/
 
 Individual advertising companies may also offer their own opt-out capabilities plus more advanced advertising choices. For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/. Please note that opting out does not mean that you will stop getting ads or see fewer ads. however, if you do opt out, the ads that you receive will no longer be behaviorally targeted. In addition, opting out does not stop information from going to our servers, but it does stop our creation or updating of profiles that might be used for behavioral advertising.
 
@@ -71,7 +106,7 @@ Microsoft web pages may contain electronic images known as web beacons - sometim
 
 We may also work with other companies that advertise on Microsoft sites to place web beacons on their sites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site.
 
-Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations. These web beacons may allow the third parties to set or read a cookie on your computer. We prohibit third parties from using web beacons on our sites to collect or access your personal information. Nevertheless, you may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:
+Finally, Microsoft sites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other web site operations. These web beacons may allow the third parties to set or read a cookie on your computer. These companies may collect information about your online activities across websites or online servers, however, we prohibit third parties from using web beacons on our sites to collect or access your personal information. You may be able to opt out from data collection or use by these third-party analytics companies by clicking the links for each of the following analytics providers:
 
 *    Omniture (Adobe): http://www.d1.sc.omtrdc.net/optout.html
 *   Nielsen: http://www.nielsen-online.com/corp.jsp?section=leg\_prs&nav=1#Optoutchoices
@@ -80,15 +115,15 @@ Finally, Microsoft sites may contain web beacons from third parties to help us c
 *   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
 
   
+  
 
 **Other Similar Technologies**
 
-In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer. This may be done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or "Flash cookies") and Silverlight Application Storage.
+In addition to standard cookies and web beacons, web sites can use other technologies to store and read data files on your computer. This may be done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, it can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or "Flash cookies"), HTML5 Local Storage and Silverlight Application Storage.
 
 *   **Local Shared Objects or "Flash cookies."** Web sites that use Adobe Flash technologies may use Local Shared Objects or "Flash cookies" to store data on your computer. Note that the ability to clear Flash cookies may or may not be controlled by your browser setting for standard cookies as that may vary by browser. To manage or block Flash cookies, go to http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html.
-    
-*   **Silverlight Application Storage.** Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, visit Silverlight.
-    
+
+*   **Silverlight Application Storage.** Web sites or applications that use Microsoft Silverlight technology also have the ability to store data by using Silverlight Application Storage. To learn how to manage or block such storage, visit the Silverlight Privacy Statement.
 
 Information We CollectCollecting Your Information
 
@@ -159,17 +194,15 @@ Some Microsoft services give you the ability to view or edit your personal infor
 
 **Microsoft Connect -** If you are a registered user of Microsoft Connect, you can access and edit your personal information by clicking Manage Your Connect Profile at the Microsoft Connect web site.
 
-**Windows Live -** If you have used Windows Live services, you can update your profile information, change your password, view the unique ID associated with your credentials, or close certain accounts by visiting Windows Live Account Services.
+**Microsoft account -** If you wish to update the profile information on your Microsoft account, change your password, add security information, view the unique ID associated with your credentials or close your account, you can do so by visiting Microsoft account services.
 
-**Windows Live Public Profile -** If you have created a public profile on Windows Live, you may also edit or delete information in your public profile by going to your Windows Live profile.
+**Public Profile -** If you have created a public profile with your Microsoft account, you may edit or delete information in your public profile by going to your profile.
 
-**Search Advertising -** If you buy search advertising through Microsoft Advertising, you can review and edit your personal information at the Microsoft adCenter web site.
+**Search Advertising -** If you buy search advertising through Bing Ads, you can review and edit your personal information at the Bing Ads web site.
 
 **Microsoft Partner Programs -** If you are registered with Microsoft Partner Programs, you can review and edit your profile by clicking Manage Your Account on the Partner Program web site.
 
-**Xbox -** If you are an Xbox LIVE or Xbox.com user, you can view or edit your personal information, including billing and account information, privacy settings, online safety and data sharing preferences by accessing My Xbox on the Xbox 360 console or on the Xbox.com web site. For account information select My Xbox, Accounts. For other personal information settings, select My Xbox, then Profile, then Online Safety Settings.
-
-**Zune -** If you have a Zune account or a Zune Pass subscription, you can view and edit your personal information at Zune.net (sign in, access your Zune tag then My Account) or through the Zune software (sign in, access your Zune tag, then select Zune.net profile).
+**Xbox -** If you are an Xbox LIVE or Xbox.com user, you can view or edit your personal information, including billing and account information, privacy settings, online safety and data sharing preferences by accessing My Xbox on the Xbox console or on the Xbox.com web site. For account information select My Xbox, Accounts. For other personal information settings, select My Xbox, then Profile, then Online Safety Settings.
 
 If you cannot access personal data collected by Microsoft sites or services via the links above, these sites and services may provide you with other ways to access to your data. You can contact Microsoft by using the web form. We will respond to requests to access or delete your personal information within 30 days.
 
@@ -185,21 +218,23 @@ When a Microsoft site or service collects age information, it will either block 
 
 When consent is granted, the child's account is treated much like any other account. The child may have access to communication services like e-mail, instant messaging and online message boards and may be able to communicate freely with other users of all ages.
 
-Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information. For example, on Windows Live, parents can visit their Account, and click on "Parental Permissions".
+Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information. For example, parents can visit their Microsoft account and click on "Permissions".
 
 Display of AdvertisingAdvertising
 
-Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more cookies in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads.
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more cookies in order to recognize your computer when we display an ad to you. Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads.
 
-**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our opt-out page.**
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **opt-out page** **.**
 
 Many of our web sites and online services are supported by advertising.
 
-Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you.
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising. When we display online advertisements to you, we will place one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own web sites as well as those of our advertising and publisher partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you.
 
-**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our opt-out page.** For more information about how Microsoft Advertising collects and uses information, please see the Microsoft Advertising Privacy Statement.
+**You may opt out of receiving targeted ads from Microsoft Advertising by visiting our** **opt-out page** **.** For more information about how Microsoft Advertising collects and uses information, please see the Microsoft Advertising Privacy Statement.
 
-We also allow third-party ad companies, including other ad networks, to display advertisements on our sites. In some cases, these third parties may also place cookies on your computer. These companies currently include, but are not limited to: 24/7 Real Media, adblade, AdConion, AdFusion, Advertising.com, AppNexus, Bane Media, Brand.net, CasaleMedia, Collective Media, InMobi, Interclick, Jumptap, Millennial Media, nugg.adAG, Mobclix, Mojiva, SpecificMedia, Tribal Fusion, ValueClick, Where.com, Yahoo!, YuMe, Zumobi. These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the web sites of each company. Many of them are also members of the Network Advertising Initiative or the Digital Advertising Alliance, which each provide a simple way to opt out of ad targeting from participating companies.
+We also allow third-party ad companies, including other ad networks, to display advertisements on our sites. In some cases, these third parties may also place cookies on your computer, and may collect information about your online activities across websites or online services. These companies currently include, but are not limited to: 24/7 Real Media, adblade, AdConion, AdFusion, Advertising.com, AppNexus, Atlas, Bane Media, Brand.net, CasaleMedia, Collective Media, InMobi, Interclick, Jumptap, Millennial Media, nugg.adAG, Mobclix, Mojiva, SpecificMedia, Tribal Fusion, ValueClick, Where.com, Yahoo!, YuMe, Zumobi. These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the web sites of each company. Many of them are also members of the Network Advertising Initiative or the Digital Advertising Alliance, which each provide a simple way to opt out of ad targeting from participating companies.
+
+You should also be aware that some browsers have incorporated “Do Not Track” (DNT) features that, when turned on, send a signal in the browser header to websites and online services indicating that you do not wish to be tracked.  It is up to the website or online service you visit (and any third parties providing advertising, content, or other functionality on the website or online service) to decide how it will interpret and treat the signal.  However, there is not yet a common understanding of how to interpret the DNT signal.  As a result, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth above.
 
 Communication PreferencesCommunications
 
@@ -287,19 +322,27 @@ More information about Microsoft account is available at the Microsoft account w
 
 Other Important Privacy InformationOther Information
 
-Learn more about
+**Learn more about**
 
 *   Why and with whom we share or disclose personal information
 *   Protecting the security of personal information
 *   Where we store and process information
 *   Changes to our privacy statements
-*   How to contact us
 
-Below you will find additional privacy information you may (or may not) find important. Much of this describes common practices that we want you to know about but don't think it's necessary to highlight in every one of our privacy statements. And some of this is just stating the obvious (for example, we will disclose information when the law requires it), but our lawyers make us say it anyway. Please keep in mind that this information is not a complete description of our practices - this is all _in addition_ to the other, more specific information contained in the privacy statements for each Microsoft product and service you use.
+**How to Contact Us**
+
+*   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
+*   If you have a Microsoft account password question, please visit Microsoft account support.
+*   If you have a general privacy question, or a question for the Chief Privacy Officer of Microsoft, please contact us by using our Web form.
+    *   By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA
+    *   By Phone: 425-882-8080
+*   To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
+
+Below you will find additional privacy information you may find important. Much of this describes practices that are common across the industry, but we want make sure you are aware of them. Please keep in mind that this information is not a complete description of our practices - this is all _in addition_ to the other, more specific information contained elsewhere in this privacy statement.
 
 **On this page:**
 
-*   Sharing or Disclosing Personal Information
+*   Sharing or Disclosing Personal Information  
 *   Protecting the Security of Personal Information
 *   Where Information is Stored and Processed
 *   Changes to Our Privacy Statements
@@ -307,7 +350,7 @@ Below you will find additional privacy information you may (or may not) find imp
 
 **Sharing or Disclosing Personal Information**
 
-In addition to any sharing described in the privacy statement for the product or service you are using, Microsoft may share or disclose personal information:
+In addition to any sharing described above in this privacy statement, Microsoft may share or disclose personal information:
 
 *   With other Microsoft controlled subsidiaries and affiliates.
 *   As part of a corporate transaction such as a merger or sale of assets.
@@ -342,9 +385,9 @@ We will occasionally update our privacy statements to reflect customer feedback 
 **How to Contact Us**
 
 *   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
-*   If you have a Windows Live password question, please visit Live Help.
-*   For general Microsoft privacy issues, please contact us by using our Web form.
-
-Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA \* 425-882-8080
+*   If you have a Microsoft account password question, please visit Microsoft account support.
+*   If you have a general privacy question, or a question for the Chief Privacy Officer of Microsoft, please contact us by using our Web form.
+    *   By mail:  Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA
+    *   By Phone: 425-882-8080 
 
 To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
