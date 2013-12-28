@@ -9,6 +9,7 @@ Register | Log in | Customize Menu
     *   Extended World Clock
     *   Personal World Clock
     *   Event Time Announcer
+    *   Lookup Time
 *   Time Zones
     *   Time Zone Converter
     *   Meeting Planner
@@ -17,13 +18,14 @@ Register | Log in | Customize Menu
     *   Time Zone News
     *   Daylight Saving Time
 *   Calendar
-    *   Calendar Index
+    *   Calendars
     *   Calendar 2013
     *   Calendar 2014
     *   Print Calendar PDF
     *   Monthly Calendar
-    *   Basic Calendar Creator
-    *   Advanced Creator
+    *   Calendar Creator
+    *   Adv. Calendar Creator
+    *   Events
     *   Holidays
 *   Weather
     *   Worldwide
@@ -39,10 +41,12 @@ Register | Log in | Customize Menu
     *   Day and Night Map
     *   Eclipses
 *   Timers
+    *   New Year Countdown
+    *   New Year Countdown World Map
+    *   New Year Countdown (text)
     *   Timer
     *   Stopwatch
     *   Countdown to Any Date
-    *   New Year Countdown
 *   Calculators
     *   Date to Date Calculator
     *   Date Calculator
