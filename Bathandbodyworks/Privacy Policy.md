@@ -1,10 +1,11 @@
 Privacy &. Security
 
-This privacy policy explains what personal information is collected through our various online channels, how that information is used, to whom it's disclosed, and how it's safeguarded. This policy applies only to personal information collected through the online channel where this policy is displayed or linked, such as the Web site or Site (www.bathandbodyworks.com). our mobile websites, microsites. Bath &. Body Works pages on social media sites, such as Facebook, Twitter or YouTube ("BBW social media page"). and mobile sites of Bath &. Body Works that display or link to this policy. By "personal information" we mean your identifying information (like name, home address, and email address), and possibly descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Bath &. Body Works as "BBW," "we," "us," or "our" throughout this privacy policy.
+This privacy policy explains what personal information is collected through our various online channels, how that information is used, to whom it's disclosed, and how it's safeguarded. This policy applies only to personal information collected through the online channel where this policy is displayed or linked by us, such as the Web site or Site (www.bathandbodyworks.com). our mobile websites, microsites. and Bath &. Body Works pages on social media sites, ("BBW social media page"). By "personal information" we mean your identifying information (like name, home address, and email address), and possibly descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Bath &. Body Works as "BBW," "we," "us," or "our" throughout this privacy policy.
 
 This privacy policy answers these questions:
 
 *   What personal information is collected at our Web site or online channel where this policy is displayed or linked, and how is it used?
+*   How is technology used to serve our advertisements on other Web sites and what choices do you have?
 *   How may you interact with third-party Web sites and content?
 *   What information do we share with third parties (or what information may they access because of the services they provide to us)?
 *   What choices do you have over how your information is used?
@@ -24,9 +25,9 @@ We collect personal information directly from you to do all the things typically
 
 This information is collected at various places: for instance, when you check out with your online order. subscribe to mailers, email offers, and mobile messaging offers. participate in surveys, contests, or sweepstakes. or interact with special-event or program offers.
 
-We collect information about you. And, when you provide it, we collect information about those you know. For example, we collect your gift recipient's contact information to process your gift orders.
+We collect information about you and, if you provide it, we collect information about those you know. For example, we collect your gift recipient's contact information to process your gift orders.
 
-On our BBW social media pages we collect information about you and, if you allow, about your friends on the social media site, through (1) an application or form accessed through a BBW social media page which links to this privacy policy, and (2) through the BBW shopping page located on a BBW social media pages.
+On our BBW social media pages we may collect information about you and, if you allow, about your friends on the social media site, through (1) an application or form accessed through a BBW social media page which links to this privacy policy, and (2) through the BBW shopping page located on certain BBW social media pages.
 
 We use this collected information to do things like:
 
@@ -35,7 +36,7 @@ We use this collected information to do things like:
 *   Personalize your online experience with content and offers that are tailored to your interests.
 *   Provide customer service, whether it's responding to a request or following up on an order.
 *   Include you in surveys and contests.
-*   Facilitate networks of online social activity centered around our products and services.
+*   Facilitate networks of online social activity centered on our products and services.
 *   Manage and develop Bath &. Body Works' business and operations.
 *   Enable you to interact with third-party content service providers, whether by linking to their sites, viewing their content within our Web environment, or by viewing our content within their Web environment.
 *   Market our products and services (for instance, by adding you to our email or mailing list when you make an online purchase).
@@ -50,25 +51,23 @@ When you visit this Web site or an online channel where this policy is linked, w
 
  **b. Cookies and Clear gifs**
 
-To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer or device. It's used to do things like see how you navigate our Web site, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, personalize your online experience, and personalize offers to you based on your unique tastes, location and/or purchase history.
+To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer or device. It's used to do things like see how you navigate our Web site, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, tailor your online experience, and tailor offers to you based on your unique tastes, location and/or purchase history.
 
-We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site, mobile site, microsites, and BBW social media pages and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
+We also use clear-gifs (also known as a Web beacon, pixel tags or Web bug) on our Web site, mobile site, microsites, and BBW social media pages and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
 
 Overall, these technologies may be used to help us see which of our interactive experiences online users like most: for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site.
 
-Cookies and clear gifs also allow us to associate your online navigational or transactional information with any personal information you provide or we otherwise collect (such as name, address, phone number, email address, and IP address). We'll associate this information only for our purposes: to deliver products and services to you. to improve our business. to transact business. and to market our products and services through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end-result is a more personalized experience that's tailored to your needs and tastes.
+Cookies and clear gifs also allow us to associate your online navigational or transactional information with any personal information you provide or we otherwise collect (such as name, address, phone number, email address, and IP address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services to you on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end-result is a more personalized experience that's tailored to your needs and tastes.
 
  **3. Information Others Observe or Collect through Technology**
 
-Third-party service providers help us analyze our visitors' site and purchase preferences, and other service providers may help us deliver ads to you about our products through banner ads when you visit other web sites (often referred to as "online network advertising"). The following provides more information about these service providers and the choices you have with respect to their services.
+We evaluate and select third-party service providers to help us analyze our visitors' site and purchase preferences..For example, we use analytics companies to better understand our customers' use of our Web sites, mobile sites, microsites, BBW social media pages and Web capabilities like embeddable widgets. We also use third parties so that we can evaluate and understand customers' purchases in order to provide tailored offers and information, based on unique preferences. This information also allows us to improve our sites, social media pages and Web capabilities. They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology.
 
- **a. Analysis**
+**HOW IS TECHNOLOGY USED TO SERVE OUR ADVERTISEMENTS ON OTHER WEB SITES AND WHAT CHOICES DO YOU HAVE?**
 
-We contract with analytics companies to better understand your use of our Web sites, mobile sites, microsites, BBW social media pages and Web capabilities like embeddable widgets. They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology.
+We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third party companies place, use, or rely on technology, such as cookies and clear gifs, as customers interact with us through our Web sites and interact with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based upon a customer's shopping history and experience with us. These companies also provide information to us which we, in turn, use to gauge how effective our ads are.
 
- **b. Advertising**
-
-We contract with third-party advertising companies that, in turn, collect non-personally identifying information by placing cookies on your browser when you visit us at our Web site and we may also use these third-party advertising cookies on our mobile sites, microsites, and BBW social media pages. These companies may use information (not including your name, address, credit card information, e-mail address, or telephone number) about your visit to deliver our ads on this and other Web sites through their online advertising networks. These companies also provide this information to us which we, in turn, use to gauge how effective our ads are. If you'd like more information about how online network advertising works and what your choices are for the information that's collected via these third-party cookies, please see What Choices do you have Over how Your Information is Used?
+For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: \[NAI Opt Out click here\] and \[DAA Opt Out - click here\] (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems may not recognize "Do Not Track" headers from some or all browsers.
 
 BACK TO TOP
 
@@ -90,9 +89,9 @@ We may rely on the expertise of third-party service providers to run sweepstakes
 
 We may at times facilitate easy access to third-party sites, like social networking sites and other sites that host user-generated content. This may include easy click-through access or even "single-sign on" to these sites. The privacy policies of these third parties apply to the information collected by the third parties at these sites.
 
-Our privacy policy, too, will apply at these sites if we display our content and feature our privacy policy there-but only to the extent that you directly provide us with your personal information, or we collect or observe this information through technology (as described above in Information We Observe or Collect through Technology). In these cases, we will display or link our privacy policy and terms and conditions. For example, you may find a third-party social media site (e.g., Facebook) where you can interact with us through a frame, e.g., you may virtually enter the frame to buy BBW products. In this example, our displayed or linked privacy policy would apply to activities within that frame. the third-party's privacy policy would apply otherwise. Check all applicable policies when visiting such sites.
+Our privacy policy, too, will apply at these sites if we display our content and feature our privacy policy there--but only to the extent that you directly provide us with your personal information, or we collect or observe this information through technology (as described above in Information We Observe or Collect through Technology). In these cases, we may display or link our privacy policy and terms and conditions. For example, you may find a third-party social media site (e.g., Facebook) where you can interact with us through a frame, e.g., you may virtually enter the frame to buy BBW products. In this example, our displayed or linked privacy policy would apply to activities within that frame. however, the third-party's privacy policy would apply otherwise. Check all applicable policies when visiting such sites.
 
-Note too, the social media sites where Bath &. Body Works has it social media pages may provide aggregate information and analysis to us about visitors' use of these social media pages. The analysis that is provided allows us to better understand and analyze our user growth, general demographic information about the users of our social media pages and interaction with content on our social media pages.
+Note too, the social media sites where Bath &. Body Works has a BBW social media page may provide aggregate information and analysis to us about visitors' use of these social media pages. The analysis that is provided allows us to better understand and analyze our user growth, general demographic information about the users of our social media pages and interaction with content on our social media pages.
 
  **4. Third-Party Rewards or Membership Programs**
 
@@ -106,13 +105,13 @@ BACK TO TOP
 
  **1. Our Affiliates**
 
-We may also share the information described in this policy, like postal and email address, customer preferences, and purchase history within our corporate family so that our affiliates may market to you. Our affiliates include Beauty Avenues, Inc., C.O. Bigelow, Henri Bendel, the La Senza family of brands (including La Senza Girl, La Senza Express, and La Senza Spirit), MAST Industries, Inc., Slatkin &. Co., the Victoria's Secret family of brands (including Victoria's Secret Beauty, Victoria's Secret Pink, and Victoria's Secret Sport) and White Barn Candle.
+We may also share the information described in this policy, like postal and email address, customer preferences, and purchase history within our corporate family so that our affiliates or affiliated brands may market to you. They include, among others, such names as Victoria's Secret (including Victoria's Secret PINK), Henri Bendel, La Senza and White Barn.
 
  **2. Contractors**
 
-We use third-party "back-office" contractors to help handle parts of our business because of their expertise, resources, or scale. They help us do things like fulfill orders, process payments, monitor and analyze site activity, maintain databases, administer and monitor emails, administer and send mobile messages, and provide consulting services.
+We use third-party "back-office" contractors to help handle parts of our business because of their expertise, resources, or scale. They help us do things like fulfill orders, process payments, monitor and analyze site activity, maintain databases, administer and monitor emails, administer and send mobile messages, serve ads on this and other Web sites as described above, and provide consulting services.
 
-Contractors may also assist us in hosting microsites, our mobile web sites and BBW pages on social media sites where you may provide personal information about you and others you know. and where they may observe information about you in the same way as described above (see What Personal Information Is Collected At Our Web Site or Online Channel Where this Policy is Displayed or Linked, and How Is It Used?).
+Contractors may also assist us in hosting microsites, our mobile web sites and BBW social media pages where you may provide personal information about you and others you know. and where they may observe information about you in the same way as described above (see What Personal Information Is Collected At Our Web Site or Online Channel Where this Policy is Displayed or Linked, and How Is It Used?).
 
  **3. Other Marketers**
 
@@ -138,7 +137,7 @@ We may occasionally provide you with the opportunity to opt in to receive email 
 
  **2. Mobile Messaging**
 
-If you've signed up for mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the opt-out instructions included in the mobile message. You may also click here or call us at 1-800-756-5005.
+If you've signed up for recurring mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the applicable opt-out instructions, which are usually included in the mobile message itself. You may also click here or call us at 1-800-756-5005.
 
  **3. Postal Mailers**
 
@@ -146,9 +145,7 @@ If you'd like to specify your preferences for offers by postal mail, simply foll
 
  **4. Cookies, Clear Gifs, and Online Network Advertising**
 
-You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser's instructions on how to block and clear cookies. Note that blocking cookies may not block the "first-party" cookies that are placed on your computer when you visit this site. By first-party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our site (as opposed to ads on an online advertising network of third-party Web sites). Clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Web sites rely on their cookies to provide you with services or features that you have requested or expect.
-
-If you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, click here (you'll leave this site for a centrally managed online site where you can specify your preference)
+You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser's instructions on how to block and clear cookies. Note that blocking cookies may not block the "first-party" cookies that are placed on your computer when you visit this site. By first-party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site. Otherwise clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Web sites rely on their cookies to provide you with services or features that you have requested or expect.
 
  **5. Other Marketers**
 
@@ -180,7 +177,7 @@ BACK TO TOP
 
 **HOW DO WE SECURE YOUR INFORMATION ON OUR SITE?**
 
-This Web site has the following types of security measures: limited access data-centers, firewall technology, and secure-socket-layer (SSL) certificate authentication. SSL is encryption technology that provides security for information that's transmitted over the Internet. This site accepts orders only from Web browsers that permit communication through SSL technology—for example, 4.0 versions or higher of Netscape Navigator, versions 5.01 or higher of Internet Explorer, versions 0.8 or higher of Firefox, and versions 1.2 or higher of Safari.
+This Web site has the following types of security measures: limited access data-centers, firewall technology, and (for our e-Commerce sites through which you may place orders) secure-socket-layer (SSL) certificate authentication. SSL is encryption technology that provides security for information that's transmitted over the Internet.
 
 While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
@@ -201,7 +198,8 @@ Our Associate Vice President (AVP) of L Brands, Inc., administers this policy. Y
        L Brands, Inc.  
        3 Limited Parkway  
        Columbus, OH 43230  
-       US
+       US  
+generalcounsel@lb.com (ATTN: Privacy Matter)
 
 BACK TO TOP
 
@@ -211,4 +209,4 @@ Please click here to view any material and substantive changes made since the la
 
 BACK TO TOP
 
-This privacy policy is effective May 20, 2011.
+This privacy policy is effective December 17, 2013.
