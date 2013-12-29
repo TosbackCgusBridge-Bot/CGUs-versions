@@ -1,4 +1,4 @@
-craigslist >. about >. privacy policy craigslist  
+about >. privacy policy craigslist  
 online community
 
 Press inquiries:
@@ -57,13 +57,15 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 We welcome your feedback on this document in our feedback forum.
 
-*   © 2013 craigslistCL
-*   help
-*   safety
-*   privacy
-*   feedback
-*   cl jobs
-*   terms
-*   about
+*   **FORMAT:**
 *   mobile
-*   desktop
+*   standard
+
+*   © 2013 craigslist
+*   help
+*   terms
+*   privacy
+*   safety
+*   feedback
+*   about
+*   cl jobs
