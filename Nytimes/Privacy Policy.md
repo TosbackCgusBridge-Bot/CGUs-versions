@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help The 10 best restaurants of 2013
+Search Help Utah judge unexpected as a hero to gay people
 
-Also in Style »
+Also on NYTimes.com
 
-*   Argentina tries to give malbec more status
-*   Giving new meaning to "Gin and Juice?"
+*   Democrats turn to minimum wage as 2014 strategy
+*   Official who oversaw health law's rollout is retiring
 
   
 
