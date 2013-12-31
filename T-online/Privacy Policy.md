@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
+*   Michael Schumacher auf Facebook schon für tot erklärt
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
 *   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
 *   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
 *   Polizei hat in Rockerdatei über 1000 Personen gespeichert
-*   WhatsApp rückt Facebook auf die Pelle: Schon 400 Millionen Nutzer
 *   Google in Spanien zu Geldstrafe verurteilt
 *   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
-*   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
 
 weniger Artikel weniger Artikel
 
+*   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
 *   Kennen Sie den Unterschied?
 *   Pauschale Einschränkung von Freiheitsrechten passt nicht zu uns
 *   Dr. André Zehl erklärt das Hosting-Konzept im Business Marketplace
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Andrea Voßhoff wird Datenschutzbeauftragte
 *   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 *   PC-Hardware vor Hitzeschäden bewahren
-*   Datenschutzbeauftragter fordert Regierung zum Handeln auf
 
 *   Kundencenter
 *   Preise und AGB
