@@ -126,7 +126,7 @@ Salesforce.com posts a list of Customers and testimonials on the Company’s Web
   6. Sharing of information collected
 
 **Service Providers**  
-Salesforce.com may share Data About salesforce.com Customers and Data About salesforce.com Attendees with the Company’s contracted service providers so that these service providers can provide services on our behalf. Salesforce.com may also share Data About salesforce.com Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this Privacy Statement, salesforce.com does not share, sell, rent, or trade any information with third parties for their promotional purposes.
+Salesforce.com may share Data About salesforce.com Customers and Data About salesforce.com Attendees with the Company's contracted service providers so that these service providers can provide services on our behalf. Without limiting the foregoing, Salesforce.com may also share Data About salesforce.com Customers and Data About salesforce.com attendees with the Company's service providers to ensure the quality of information provided, and with third-party social networking and media Web sites, such as Facebook, for marketing and advertising on those Web sites. Unless described in this Privacy Statement, salesforce.com does not share, sell, rent, or trade any information with third parties for their promotional purposes.
 
 **Salesforce.com Affiliates**  
 The Company may share Data About salesforce.com Customers with other companies in order to work with them, including affiliates of the salesforce.com corporate group.  For example, the Company may need to share Data About salesforce.com Customers for customer relationship management purposes.
