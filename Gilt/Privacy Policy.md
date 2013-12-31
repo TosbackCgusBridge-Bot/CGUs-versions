@@ -111,7 +111,7 @@ You may opt out of the aggregation and analysis of data collected about you on o
 
 Targeted Advertising
 
-We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by visiting this url: http://www.networkadvertising.org/managing/opt\_out.asp, and learn about additional online advertising opt-out options by visiting this url: http://www.networkadvertising.org/managing/opt\_out.asp. Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above. 
+We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by visiting this url: http://www.networkadvertising.org/managing/opt\_out.asp, and learn about additional online advertising opt-out options by visiting this url: http://www.evidon.com/consumers-privacy/opt-out . Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above. 
 
 Geo-Location Information
 
