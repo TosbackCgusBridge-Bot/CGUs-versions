@@ -11,7 +11,7 @@ Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1)
 *   My Portfolio |
 *   Breaking News |
 *   Latest Analysis |
-*   Alpha-Rich Ideas |
+*   Top Ideas |
 *   StockTalk |
 *   ALERTS |
 *   PRO
