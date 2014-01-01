@@ -298,4 +298,4 @@ Searches:
 
 The name and logo of Softonic are registered trademarks of SOFTONIC INTERNATIONAL S.L.
 
-Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2013 - All rights reserved
+Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2014 - All rights reserved
