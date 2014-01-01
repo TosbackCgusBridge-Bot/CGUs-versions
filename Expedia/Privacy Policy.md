@@ -108,6 +108,8 @@ Please note that we do not have access to or control over cookies or other techn
 
 Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, Expedia.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click here to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
 
+Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit "do-not-track" signals to websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Participants in the leading Internet standards-setting organization that is addressing this issue are in the process of determining what, if anything, websites should do when they receive such signals. Expedia currently does not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
 Using the Expedia mobile phone and tablet Apps (the "Mobile Apps")
 
 When you use an Expedia Mobile App, we collect and use information about you in the same way and for the same purposes as we do when you use our website.
@@ -149,4 +151,4 @@ How you can contact us
 
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us using our customer service and feedback form.
 
-This Privacy Policy is effective as of August 22, 2013.
+This Privacy Policy is effective as of January 1, 2014.
