@@ -32,4 +32,4 @@ For information regarding Nordstrom Bank Privacy and Security, please see the No
 
 If you have any other questions or concerns regarding how Nordstrom manages, accesses or uses your personal information, please write us at PO Box 21986, Seattle, WA 98111-3986, e-mail us at privacy@nordstrom.com or call 1-866-554-6591.
 
-_9/20/2013_
+_12/30/13_
