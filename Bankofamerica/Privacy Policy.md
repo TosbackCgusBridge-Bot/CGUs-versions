@@ -35,7 +35,7 @@ We have answers. Explore our FAQs about privacy and security ››
 
 U.S. Online Privacy Notice FULL PAGE VERSION Bank of America U.S. Online Privacy Notice
 
-Last updated January 4, 2013
+Last updated January 1, 2014
 
 This U.S. Online Privacy Notice (Notice) applies to this Bank of America online interface (i.e., website or mobile application) and any Bank of America U.S. affiliate or subsidiary online interface that links to this Notice, (each, a Site, and, collectively, Sites).  The term "Bank of America" or "we" or "us" or "our" in this Notice refers to banking and non-banking U.S. affiliates or subsidiaries of Bank of America Corporation that link to this Notice. This Notice describes how Sites may collect, use and share information from or about you and explains how information may be collected and used based on online interactions with our advertisements that appear on the Sites and third party websites.
 
@@ -64,7 +64,8 @@ We may use Personal Information:
 *   collected through aggregation services such as My Portfolio® and My Financial Picture® in order to consolidate your financial account information at one online location. understand what product or service may be of interest to you. and present you with offers;
 *   collected through our social media pages and interactions with you to assist in verifying your identity and account status.  We may combine this information with information we already have;
 *   for business purposes, including data analysis, audits, developing and improving products and services, enhancing the Site, identifying usage trends and determining the effectiveness of promotional campaigns;
-*   for risk control, for fraud detection and prevention, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements.
+*   for risk control, for fraud detection and prevention, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
+*   to allow you to utilize features within our Sites by granting us access to information from your device such as contact lists, or geo-location when you request certain services that are dependent on your physical location.
 
 How Personal Information is Shared
 
@@ -90,7 +91,7 @@ We and our third-party service providers may collect and use Other Information i
 
 Additional Information Advertising
 
-Bank of America advertises on pages within the Sites (including mobile downloadable apps) as well as on other websites and mobile apps not affiliated with Bank of America. Information collected by us or our advertising service providers through cookies and other technologies includes the number of people who look at each of the pages on the Sites, search engine referrals, browsing patterns within the Sites, and responses to advertisements and promotions on the Sites and on websites where we advertise.
+Bank of America advertises on pages within the Sites (including mobile downloadable apps) as well as on other websites and mobile apps not affiliated with Bank of America. Information collected by us or our advertising service providers through cookies and other technologies includes the number of people who look at each of the pages on the Sites, search engine referrals, browsing patterns within the Sites, and responses to advertisements and promotions on the Sites and on websites and apps where we advertise.
 
 Advertising on our Sites
 
@@ -232,7 +233,7 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 What we do How does Bank of America protect my personal information?
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security.
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security or ml.com.
 
 How does Bank of America collect my personal information?
 
@@ -264,7 +265,7 @@ Definitions Affiliates
 
 Companies related by common ownership or control. They can be Financial and nonfinancial companies.
 
-*   Our affiliates include companies that utilize the names Bank of America. Banc of America. U.S. Trust. LandSafe or Merrill Lynch name, financial companies such as General Fidelity Life Insurance Company.
+*   Our affiliates include companies that utilize the names Bank of America. Banc of America. U.S. Trust. LandSafe or Merrill Lynch, financial companies such as General Fidelity Life Insurance Company.
 
 Nonaffiliates
 
@@ -290,13 +291,13 @@ Other important information
 
 **For Insurance Customers in AZ, CA, CT, GA, IL, ME, MA, MN, MT, NV, NJ, NC, OH, OR and VA only.** The term “Information” in this part means customer information obtained in an insurance transaction. We may give your Information to state insurance officials, law enforcement, group policy holders about claims experience or auditors as the law allows or requires. We may give your Information to insurance support companies that may keep it or give it to others. We may share medical Information so we can learn if you qualify for coverage, process claims or prevent fraud or if you say we can. To see your Information, write Insurance Services, TX2-977-01-39, 5401 North Beach Street, Fort Worth, TX 76137, Attn: Data Request. You must state your full name, address, the insurance company, policy number (if relevant) and the Information you want. We will tell you what Information we have. You may see and copy the Information (unless privileged) at our office or ask that we mail you a copy for a fee. If you think any Information is wrong, you must write us. We will let you know what actions we take. If you do not agree with our actions, you may send us a statement.
 
-**For MA Insurance Customers only.** You may ask in writing the specific reasons for an adverse underwriting decision. An adverse underwriting decision is where we decline your application for insurance, offer to insure you at a higher than standard rate or terminate your coverage.
+**For MA Insurance Customers only.** You may ask in writing, for the specific reasons for an adverse underwriting decision. An adverse underwriting decision is where we decline your application for insurance, offer to insure you at a higher than standard rate or terminate your coverage.
 
 Bank of America U.S. legal entities
 
 Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation, The Princeton Retirement Group, Inc., SA Mortgage Services, LLC
 
-Rev. 01/2013
+Rev. 01/2014
 
 Manage your marketing and information-sharing privacy choices Best in class—  
 for 7 straight years
@@ -314,7 +315,7 @@ Review our browser security requirements.
   Home Accessible Banking Privacy &. Security Careers Site Map
 
 Bank of America, N.A. Member FDIC. Equal Housing Lender . Link opens in new window.  
-© 2013 Bank of America Corporation. All rights reserved.
+© 2014 Bank of America Corporation. All rights reserved.
 
 Important Notice
 
