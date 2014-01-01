@@ -284,4 +284,4 @@ Tealium is the leader in enterprise tag management, audience segmentation, profi
 *   Terms of Use
 *   Privacy Policy
 
-Copyright © 2013 Tealium. All Rights Reserved.
+Copyright © 2014 Tealium. All Rights Reserved.
