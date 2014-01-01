@@ -2,7 +2,7 @@
 
 *   Costco Wholesale Corporation  
     Your Privacy Rights (United States and Puerto Rico)  
-    Last Updated October 22, 2012
+    Last Updated December 31, 2013
     
     This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our customers who: (1) shop in our United States and Puerto Rico warehouses or (2) use our website, www.costco.com.
     
@@ -137,7 +137,7 @@
     I. Online Specifics
     
     2.  **Information Gathering and Use.  
-        **We use cookies. Cookies are small files that are stored on your computer. They enable us to monitor online activity. We use this information to help optimize your shopping experience. For example, we may customize our home page for you, better display pages according to your browser type, and/or deliver customized product recommendations and email. To opt out of these features see Choices. Cookies are not spyware, and Costco does not collect multi-site data or share information with others that we gather through cookies nor do we allow others to do so.  
+        **We use cookies. Cookies are small files that are stored on your computer. They enable us to monitor online activity. We use this information to help optimize your shopping experience. For example, we may customize our home page for you, better display pages according to your browser type, and/or deliver customized product recommendations and email. To opt out of these features see Choices. Cookies are not spyware, and Costco does not collect multi-site data, share information with others that we gather through cookies or allow others to gather information on our site using cookies. Currently our site does not respond to “Do Not Track” features enabled through your browser.  
           
         Like most web sites, our servers log your IP address, the URL from which you accessed our site, your browser type, and the date and time of your purchases and other activities. We use this information for system administration, troubleshooting, fraud investigation and communications from Costco (only).  
           
