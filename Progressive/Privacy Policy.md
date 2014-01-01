@@ -111,7 +111,7 @@ We're Here 24/7. Call 1-800-Progressive.
 *   Privacy &. Security
 *   Terms of Use
 
-Copyright 1995 - 2013. Progressive Casualty Insurance Company. All Rights Reserved.
+Copyright 1995 - 2014. Progressive Casualty Insurance Company. All Rights Reserved.
 
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Quotes for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Quote with a Local Agent button.
 
