@@ -270,5 +270,5 @@ ETS corporate links:
 *   Privacy &. Security
 *   ETS Trademarks
 
-Copyright © 2013 by Educational Testing Service. All rights reserved.  
+Copyright © 2014 by Educational Testing Service. All rights reserved.  
 All trademarks are the property of their respective owners.
