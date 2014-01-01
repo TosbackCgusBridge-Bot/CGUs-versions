@@ -224,4 +224,4 @@ Sign up to get exclusive Sencha News
 
 Thanks for signing up!
 
-© 2013 Sencha Inc. All rights reserved. Sitemap Legal
+© 2014 Sencha Inc. All rights reserved. Sitemap Legal
