@@ -36,13 +36,15 @@ At times, we may promote the Fly Delta app via internet advertising.  If you cl
 
 In addition to conversion events, it might also be used for frequency capping, estimating the number of unique users, debugging, or security and fraud detection.
 
-Opt-Out
+Tracking Preferences and Opt-Out
 
 You may at any time opt-out from further allowing the App’s access to your location data by disabling location tracking features as provided in your native device settings features.
 
 You may also refrain from using application features that collect specific types of data.
 
 You may opt-out of all information collection by uninstalling the App.  You may use the standard uninstall, application and data management processes available as part of your mobile device or via the removal features provided in your chosen mobile app store or network.  Once you have uninstalled the App, all information it stored is deleted, including any preferences you previously set around location permissions and whether you've allowed Delta to send you push notifications. Once the App is uninstalled and preferences are deleted, the push notifications stop.
+
+When you use Fly Delta, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes.  We don’t store the ID, or share the ID or other unique information collected or used by the app with third parties, except for service providers such as Adobe, whose analytics product generates this ID to track and analyze the performance of our app.  We do not use information gathered within the app to serve you targeted advertisements. The “limit ad tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta. 
 
 Sharing With Social Media
 
@@ -115,21 +117,37 @@ Your Internet browser(s) may offer you the option to refuse cookies. however, do
 
 Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links below. To learn about the available mechanisms for opting out of cookies and technologies related to interest-based advertising, see the descriptions and links below.  
 
+The website at Delta.com, whether accessed on a computer or a mobile device, is not at this time configured to read or respond to “do not track” settings or signals in your browser headings, which vary by browser provider.  In lieu of a browser-based opt-out solution, we have identified below certain Digital Advertising Alliance and other approved methods for placement of “opt-out” cookies.  Our site and those of our third party advertisers or other vendors are configured to read and honor these opt-out cookies, so long as they are present on your computer. (If you delete all cookies, you will need to reset your opt-out cookies.)  Specific instructions on how to do so follow.  However, please be aware that Delta does not control these opt-out processes. 
+
+When you use the Fly Delta, mobile app, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes.  We don’t store the ID, or share the ID or other unique information collected or used by the app with third parties, except for service providers such as Adobe, whose analytics product generates this ID to track and analyze the performance of our app.  We do not use information gathered within the app to serve you targeted advertisements. The “limit ad tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta. 
+
 Types of cookies and tags on our site
 
 *   Functionality: Used to remember your preferences for using the site and for facilitating transactions such as flight searches and purchases.
 *   Performance or Analytics: Used to anonymously measure site activity to improve visitor experience.
 *   Targeting: Used to display information and offers that specifically interest you.
 
-Opt Out
+Tracking Preferences andOpt Out
 
-In the section below, we provide links to resources for opting out of different types of cookies.
+In the first section below, we provide links to resources for opting out of different types of online tracking and interest-based targeting.
 
-Click here to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting cookies used, including these vendors: Adara Media, Blue Kai, Casale Media, Invite Media, Media Mind, Microsoft Advertising  
+To opt out of 1st party tracking on delta.com, you may choose from these options:
 
-Click here to opt out of the Google Network (Doubleclick, AdSense, Analytics),
+Click here to opt out of analytics and usage tracking on delta.com
 
-Click here to opt out of Adobe Site Services.
+Click here to opt out of content targeting on delta.com
+
+\*Note: A preference cookie is required to maintain a record of your Do Not Track preference for future visits.
+
+This section provides tools for opting out of tracking on 3rd party networks:
+
+Click here to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting programs
+
+Click here to opt out of the Google Ad Network (Doubleclick, AdSense)
+
+Click here to opt out of Google Analytics
+
+Click here to opt out of Adobe Site Services
 
 EU visitors can find general information and opt-out resources at youronlinechoices.eu and US visitors can see aboutads.info.
 
