@@ -146,4 +146,4 @@ If you do not want your name passed on to other companies for the purpose of rec
 
 **14\. Further Questions?** We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. To contact us, please visit the Info Center of the site or write directly to Christopher L. Irving, Consumer &. Privacy Affairs, pch.com, 382 Channel Drive, Port Washington, New York, 11050.
 
-© 2013 PCH | About Us | Contact Us | Privacy Policy
+© 2014 PCH | About Us | Contact Us | Privacy Policy
