@@ -6,7 +6,7 @@ This Privacy Statement applies to information, including personal information, c
 
 Top Information We Collect
 
-We may collect information about you from a variety of sources, including information we collect from you directly. information we collect about you when you visit our sites, use our services, or view our online advertisements. and information we collect about you from other sources (where permitted by law).
+We may collect information about you from a variety of sources, including information we collect from you directly. information we collect about you when you visit our sites, use our services, or view our online advertisements. and information we collect about you from other sources (where permitted by law). We collect personal information about our users over time and across different websites when you use this website or service. We also have third parties that collect personal information this way.
 
 Information we collect directly from you:
 
@@ -48,6 +48,8 @@ We may obtain information about you from other sources, including commercially a
 
 All of the information we collect about you may be combined to help us tailor our communications to you to maximize your customer experience with Michaels.
 
+“Do Not Track” Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+
 Top How We Use This Information
 
 To provide offers, products and services. We use the information we collect to provide the products and services you request, to tell you about other products and services offered by Michaels, and to manage our sites and services.
@@ -78,7 +80,7 @@ You agree that by providing your wireless telephone number to Michaels you’re 
 
 Postal Mail. Where permitted by law, we may mail you unsolicited offers or product information that we believe is of interest to you. You can stop receiving promotional postal mail from Michaels. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
-Access. You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with midesign.michaels.com/invitations and/or with midesign.michaels.com/digitalphoto, you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
+Access. You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” and logging in with your username and password. If you have registered with midesign.michaels.com/invitations and/or with midesign.michaels.com/digitalphoto, you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
 
 Top How to Opt-In and Opt-Out of Communications
 
@@ -94,9 +96,9 @@ Our Site provides you the opportunity to opt-in and to opt-out of receiving comm
 
 PLEASE NOTE: If you choose to stop receiving promotional messages from us, we will honor your request. However, we will continue to send you service related communications and we may need to keep the information we have collected about you for record keeping, analysis or other reasons, to the extent permitted by law.
 
-Top Cookies, Web Beacons and other Technologies
+Top Tracking Tools: Cookies, Web Beacons and other Technologies
 
-Cookies. A cookie is a small file placed on your computer when you visit a site that can be understood by the site that issued the cookie. We use cookies to monitor how our sites are used and to help personalize your online experience. For example, when you register on our sites, we may store a unique code in a cookie on your computer. The next time you come back to the site from that computer, our servers use the cookie to recognize you. We can then use the information you provided when you registered combined with your activities on our sites to provide you advertising and offers of interest. You can accept or decline cookies. Most browsers automatically accept cookies. We do not store any personal information about you in the cookie.
+We use tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities. We might permit third parties to gather information passively on our websites, including for behavioral advertising purposes. You can opt out of online behavioral advertising by going to www.aboutads.info/choices. Cookies. A cookie is a small file placed on your computer when you visit a site that can be understood by the site that issued the cookie. We use cookies to monitor how our sites are used and to help personalize your online experience. For example, when you register on our sites, we may store a unique code in a cookie on your computer. The next time you come back to the site from that computer, our servers use the cookie to recognize you. We can then use the information you provided when you registered combined with your activities on our sites to provide you advertising and offers of interest. Your browser gives you the ability to delete or reject browser cookies. If you block cookies, certain features on our website may not work. Most browsers automatically accept cookies. We do not store any personal information about you in the cookie. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
 
 Third-Party Advertising. We may allow third parties, including business partners and ad networks, to display advertising on our sites. Some of these companies may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. We do not control these companies' use of cookies.
 
@@ -156,15 +158,13 @@ Top Information Transfer
 
 Your personal information may be transferred to, stored, and processed in a country other than the one in which it was provided. This may include the US. When we do so, we transfer the information in compliance with applicable data protection laws.
 
-We take steps to protect personal information no matter what country it is stored in or transferred to. We have procedures and controls as appropriate to help ensure this.
+We take steps to protect personal information no matter what country it is stored in or transferred to. We have appropriate procedures and controls to help ensure this.
 
 Top Children's Online Privacy
 
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to participate in and monitor their online activity.
 
 We do not intend to collect personal information from children under 13 online. When we do collect personal information from children, we do so in compliance with applicable country children's data protection laws.
-
-U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act.
 
 Top Contact Us
 
@@ -278,4 +278,4 @@ Top
 
 This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
 
-Last Updated: August 2013
+Last Updated: December 2013
