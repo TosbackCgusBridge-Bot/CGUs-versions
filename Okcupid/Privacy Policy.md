@@ -247,7 +247,7 @@ Or visit us in your mobile browser.
 *   Tests
 *   OkTrends
 
-OkCupid © 2013 Free online dating
+OkCupid © 2014 Free online dating
 
 *   Local dating
 *   Jewish dating
