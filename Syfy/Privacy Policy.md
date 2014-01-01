@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Season 1-3 Recap! Season 1-3 Recap!
+Syfy Video Mondays: Lost Girl, Being Human &. Bitten Mondays: Lost Girl, Being Human &. Bitten
+
+Mondays on Syfy are packed with Lost Girl, Being Human &. Bitten!
+
+Season 1-3 Recap! Season 1-3 Recap!
 
 Season 4 of Lost Girl premieres January 13th at 8/7c. Catch up on three seasons of supernatural seduction and dangerous encounters in less than three minutes on Syfy.com.
 
@@ -262,10 +266,6 @@ Lost Girl Premieres January 13th at 8/7c
 Lost Girl: Season 4 Premieres January 13 at 8 ... Lost Girl: Season 4 Premieres January 13 at 8/7c
 
 Season premiere of Lost Girl, Monday January 13th at 8/7c.
-
-Ksenia Solo On the Holidays Ksenia Solo On the Holidays
-
-Ksenia Solo has a few ideas for her New Years Resolution, as well as her favorite gift to get.
 
 *   FAQ
 *   Feedback
