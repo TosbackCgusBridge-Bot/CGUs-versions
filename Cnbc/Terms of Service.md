@@ -178,4 +178,4 @@ Under California Civil Code Section 1789.3, California users are entitled to the
 
 When you register for cnbc.com you will be asked to agree to this Agreement by clicking a box marked "I have read &. accept the cnbc.com Terms of Service &. Privacy Policy". Please note, if you are under EIGHTEEN (18) years old, you must have your parent or guardian review and agree to this Agreement on your behalf by clicking the same box. Users under THIRTEEN (13) years old may not use the Service.  
 
-© 2013 CNBC.com
+© 2014 CNBC.com
