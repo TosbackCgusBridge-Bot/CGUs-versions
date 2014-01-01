@@ -161,7 +161,7 @@ Fitbit
 
 Fitbit is dedicated to helping people lead healthier, more active lives.
 
-©2013 Fitbit Inc. All rights reserved.
+©2014 Fitbit Inc. All rights reserved.
 
 *   Privacy Policy
 *   Terms of Use
