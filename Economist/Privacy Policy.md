@@ -182,5 +182,5 @@ ICO Registered Number: Z4865712
 Data Protection Registration Number: 3015764   
 Other names: EuroFinance Intelligence, EuroFinance Training
 
-Copyright © The Economist Newspaper Limited 2013  
+Copyright © The Economist Newspaper Limited 2014  
 Registered in England and Wales. No. 236383 | Registered office: 25 St James's Street, London, SW1A 1HG | VAT Reg No: GB 340 436 876
