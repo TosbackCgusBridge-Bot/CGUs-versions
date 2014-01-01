@@ -1,7 +1,7 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: December 5, 2013**
+**Last Revised: December 31, 2013**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -101,18 +101,9 @@ If you have a website or other content hosted by Go Daddy, you shall retain all 
 
 By posting or publishing User Content to this Site or through the Services, you authorize Go Daddy to use the intellectual property and other proprietary rights in and to your User Content to enable inclusion and use of the User Content in the manner contemplated by this Site and this Agreement.  You hereby grant Go Daddy a worldwide, non-exclusive, royalty-free, sublicensable (through multiple tiers), and transferable license to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content in connection with this Site, the Services and Go Daddy’s (and Go Daddy’s affiliates’) business(es), including without limitation for promoting and redistributing all or part of this Site in any media formats and through any media channels without restrictions of any kind and without payment or other consideration of any kind, or permission or notification, to you or any third party. You also hereby grant each User of this Site a non-exclusive license to access your User Content (with the exception of User Content that you designate “private” or “password protected”) through this Site, and to use, reproduce, distribute, prepare derivative works of, combine with other works, display, and perform your User Content as permitted through the functionality of this Site and under this Agreement. The above licenses granted by you in your User Content terminate within a commercially reasonable time after you remove or delete your User Content from this Site. You understand and agree, however, that Go Daddy may retain (but not distribute, display, or perform) server copies of your User Content that have been removed or deleted. The above licenses granted by you in your User Content are perpetual and irrevocable.  Notwithstanding anything to the contrary contained herein, Go Daddy shall not use any User Content that has been designated “private” or “password protected” by you for the purpose of promoting this Site or Go Daddy’s (or Go Daddy’s affiliates’) business(es). 
 
-****8**. SUPPORT FORUM**
+****8**. FREE PRODUCT CREDITS**
 
-The support forum is operated and controlled by Go Daddy and is geared towards users of Go Daddy products and services. It aims to create a place where users can exchange ideas and share tips and tricks that they have found helpful in using Go Daddy products and services. Users can participate through various forums, including product groups, product blogs, discussion groups, idea sharing and the like. The support forum is not a replacement for Go Daddy’s technical and billing support services accessible via telephone or email on the Go Daddy website. Go Daddy does not endorse any of the ideas, opinions, recommendations, advice or other content expressed on the support forum, and Go Daddy expressly disclaims any liability or responsibility for any content posted on the support forum by its users.
-
-_Rules of Conduct_.  In addition to the General Rules of Conduct herein that are applicable to all products and services, the following rules of conduct also apply to your use of the support forum. You acknowledge and agree that:
-
-1.  You will not impersonate any other person or entity, or submit content on behalf of any other person or entity without their express prior written consent;
-2.  You will not submit content in exchange for payment or consideration received from any third party;
-3.  You will treat your access to the forums and other users with respect;
-4.  You will not submit content that provides any non-public information about another user, Go Daddy or any of Go Daddy’s employees or customers (including the names and contact information);
-5.  You will not submit content or links to content that is harassing, defamatory, abusive, pornographic, X-rated, obscene, contains malware, spam, phishing or is otherwise objectionable as determined by us in our sole and absolute discretion. and
-6.  You will not submit content that contains third party advertising, spam, chain letters or any other solicitation, including solicitation of lawsuits (links that connect to commercial websites will not be considered unauthorized solicitations unless the link or website content appears to be intended as a means of solicitation or part of an “affiliate” program, as determined by us in our sole and absolute discretion).
+In the event you are provided with a free product credit (“Credit”) with the purchase of another product (“Purchased Product”), you acknowledge and agree that such Credit is only valid for one year and is only available with a valid purchase and may be terminated in the event the product purchases is deleted, cancelled, transferred or not renewed.  You acknowledge and agree that we may swap your Credit for a similar product, in our sole discretion.  The Credit will expire one (1) year from date of purchase of the Purchased Product if the Credit has not been redeemed.  In the event that the Credit is redeemed, after the initial free one year period, the free product will automatically renew at the then-current renewal price until cancelled. If you wish to cancel the automatic renewal of the product, you may do so by visiting your Go Daddy Account and turning off the auto-renewal feature, or by contacting Go Daddy customer service.
 
 ****9**. MONITORING OF CONTENT. ACCOUNT TERMINATION POLICY**
 
@@ -769,5 +760,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 12/5/2013  
+Revised: 12/31/2013  
 Copyright © 2005-2013 GoDaddy.com, LLC All Rights Reserved.
