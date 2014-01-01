@@ -2,7 +2,6 @@ USA
 
 *   Who We Are
     *   Overview
-    *   make.believe
     *   Our Businesses
     *   Leadership Team
     *   Global Marketing Partners
@@ -114,7 +113,6 @@ Shop Sony Global Home
 Who We Are
 
 *   Overview
-*   make.believe
 *   Our Businesses
 *   Leadership Team
 *   Global Marketing Partners
