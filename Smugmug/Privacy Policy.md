@@ -117,4 +117,4 @@ We welcome your feedback. If you have any comments or concerns about this Privac
 *   Contact
 *   Login
 
-© 2013 SmugMug, Inc.
+© 2014 SmugMug, Inc.
