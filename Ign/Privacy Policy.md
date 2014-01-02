@@ -128,6 +128,6 @@ _Changes to the Privacy Policy_ We may change this Privacy Policy from time to t
 *   Contact
 *   RSS Feeds
 
-**Copyright 2003-2013 IGN Entertainment, Inc.**
+**Copyright 2003-2014 IGN Entertainment, Inc.**
 
 Privacy Policy User Agreement AdChoices
