@@ -82,5 +82,5 @@ Privacy and Legal Free Online Games and More More Addicting Games!
 *   Privacy Policy
 *   Copyright Compliance Policy
 
-© 1999-2013 Atom Entertainment, Inc., a Viacom Media Networks Company. All rights reserved.  
+© 1999-2014 Atom Entertainment, Inc., a Viacom Media Networks Company. All rights reserved.  
 Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.
