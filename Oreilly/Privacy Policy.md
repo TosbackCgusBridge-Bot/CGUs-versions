@@ -102,7 +102,7 @@ View Sample Newsletter >.
 *   RSS
 *   View All RSS Feeds >
 
-© 2013, O’Reilly Media, Inc.
+© 2014, O’Reilly Media, Inc.
 
 (707) 827-7019 (800) 889-8969
 
