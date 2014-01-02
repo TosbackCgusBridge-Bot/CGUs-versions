@@ -468,4 +468,4 @@ If you have questions, please contact Indeed by sending a letter or email to Ind
 Indeed has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Indeed, please visit the BBB EU SAFE HARBOR web site for more information and to file a complaint.
 
    
-Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Contact ©2013 Indeed - Cookie, Privacy and Terms New!
+Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Contact ©2014 Indeed - Cookie, Privacy and Terms New!
