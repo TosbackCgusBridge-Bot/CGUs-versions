@@ -19,8 +19,8 @@ Register | Log in | Customize Menu
     *   Daylight Saving Time
 *   Calendar
     *   Calendars
-    *   Calendar 2013
     *   Calendar 2014
+    *   Calendar 2015
     *   Print Calendar PDF
     *   Monthly Calendar
     *   Calendar Creator
@@ -41,12 +41,10 @@ Register | Log in | Customize Menu
     *   Day and Night Map
     *   Eclipses
 *   Timers
+    *   Countdown to Any Date
     *   New Year Countdown
-    *   New Year Countdown World Map
-    *   New Year Countdown (text)
     *   Timer
     *   Stopwatch
-    *   Countdown to Any Date
 *   Calculators
     *   Date to Date Calculator
     *   Date Calculator
