@@ -9,7 +9,7 @@ Your privacy is important to Lenovo. This statement discloses the information pr
 
 Lenovo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by using our short Privacy Submission Form. If you are not satisfied with our response you can contact TRUSTe here.
 
-Personal information Use of Suppliers Using and Sharing Personal Information Mergers and Acquisitions Fulfilling your transaction request Cookies, Web Beacons and Other Technologies Marketing Use Flash LSOs Communications from the Site Service Quality Monitoring Choice Online Advertising Live Chat Personalized URL Link Customer Testimonials/Comments/Reviews Disclosures Required By Law Lenovo Human Resources Web Sites (including Recruitment) Privacy Technology Information for Business Partners Links to non-Lenovo Web sites Lenovo Supplier Administration Social Media Widgets Lenovo Discussion Forums, Blogs, and Chat Rooms Notification of Changes Other Lenovo Web Site Notices Privacy Questions and Access Our Worldwide Practices   Information Security and Quality   Data Retention   Supplementing Information    
+Personal information Supplementing Information Using and Sharing Personal Information Use of Suppliers Fulfilling your transaction request Mergers and Acquisitions Marketing Use Cookies, Web Beacons and Other Technologies Communications from the Site Flash LSOs Choice Service Quality Monitoring Live Chat Online Advertising Customer Testimonials/Comments/Reviews Personalized URL Link Lenovo Human Resources Web Sites (including Recruitment) Disclosures Required By Law Information for Business Partners Privacy Technology Lenovo Supplier Administration Links to non-Lenovo Web sites Lenovo Discussion Forums, Blogs, and Chat Rooms Social Media Widgets Other Lenovo Web Site Notices Frames Our Worldwide Practices Notification of Changes Information Security and Quality Privacy Questions and Access Data Retention    
 Personal information
 
 In general, you can visit Lenovo on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
@@ -150,9 +150,13 @@ Lenovo Web sites may contain links to other Web sites. Lenovo is not responsible
 
 Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+ **Back to top** Frames
+
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.lenovo.com.
+
  **Back to top** Notification of Changes
 
-This privacy statement was last updated on September 13, 2013. A notice will be posted on our Web site home page for 30 days prior to the change becoming effective whenever this privacy statement is changed in a material way.
+This privacy statement was last updated on January 1, 2014. A notice will be posted on our Web site home page for 30 days prior to the change becoming effective whenever this privacy statement is changed in a material way.
 
  **Back to top** Privacy Questions and Access
 
