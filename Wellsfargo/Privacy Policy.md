@@ -241,4 +241,4 @@ If we make updates to this Policy, we will update the Policy with the changes an
 *   Online Access Agreement
 *   Blogs &. Social Media
 
-© 1999 - 2013 Wells Fargo. All rights reserved. NMLSR ID 399801
+© 1999 - 2014 Wells Fargo. All rights reserved. NMLSR ID 399801
