@@ -112,7 +112,7 @@ For More Information
 
 If you have questions about this privacy policy, please contact the Mozilla Foundation at privacy@mozilla.org or the Mozilla Corporation at privacy@mozilla.com.
 
-Portions of this content are ©1998–2013 by individual mozilla.org contributors. Content available under a Creative Commons license.
+Portions of this content are ©1998–2014 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 Contribute to this page
 
