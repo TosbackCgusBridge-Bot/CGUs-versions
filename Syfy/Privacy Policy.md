@@ -278,5 +278,5 @@ Season premiere of Lost Girl, Monday January 13th at 8/7c.
 
 Syfy International: Asia Australia Benelux France Germany Latin America Poland Portugal Spain UK  
   
-©2013, Syfy. All rights reserved.  
+©2014, Syfy. All rights reserved.  
 Independent Programming Report Tell us what you think about your favorite NBCU programs by becoming a TV panel member.
