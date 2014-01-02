@@ -24,4 +24,4 @@ Personally Identifiable Information provided to Watershed Publishing is subject 
 Join us on Facebook | Follow us on Twitter | About | Privacy Policy | MEDIA KIT |
 
   
-© 2003-2013 Watershed Publishing. All rights reserved.
+© 2003-2014 Watershed Publishing. All rights reserved.
