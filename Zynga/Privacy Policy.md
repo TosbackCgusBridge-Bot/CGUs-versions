@@ -413,5 +413,5 @@ More
 *   Zynga.org
 *   Advertise
 
-Copyright 2013 Zynga Inc. All rights reserved.  
+Copyright 2014 Zynga Inc. All rights reserved.  
 Use of this Web site constitutes acceptance of Zynga's Terms of Service and Privacy Policy
