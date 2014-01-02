@@ -1,6 +1,6 @@
 Skip Navigation   Back GET HELP NIKE Digital Privacy Policy  
 
-Effective February 21, 2012
+Effective January 1, 2014
 
 This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the Terms of Use.  
   
@@ -101,11 +101,11 @@ NIKE automatically collects information within our products and services or stor
 
   
 Turning off Collection Tools  
-If you turn off certain Collection Tools, you may not have access to many features that make your experience more efficient and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our customer service number at 1-800-806-6453.
+If you turn off certain Collection Tools, you may not have access to many features that make your experience more efficient and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our customer service number at 1-800-806-6453. Note that our websites may not recognize or respond to Do Not Track (DNT) headers from web browsers.
 
   
 Third Party Tracking  
-We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect information about your interaction with us, including advertising. If you would like to opt-out of 3rd party tracking technologies associated with our website, please click here. Note that if you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.    
+We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect information about your interaction with us, including advertising. These companies may not recognize or respond to DNT headers from web browsers. If you would like to opt-out of receiving ads tailored by 3rd party tracking technologies associated with our website, please click here. Note that if you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.    
   
 
   
