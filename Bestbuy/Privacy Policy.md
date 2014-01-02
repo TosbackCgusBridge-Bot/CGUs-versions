@@ -45,7 +45,7 @@ It may also include information you give us about other people, such as the name
 We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
 
 **Automated Information Collection**  
-We collect information related to your interactions with our websites and apps to create a superior, personalized shopping experience, whether you are online or in our stores. This information includes your IP address, browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. These technologies may also allow us to identify you as a particular Best Buy retail store customer when you visit our websites, and to link your activities on our websites to your interactions with us in our stores.
+We collect information related to your interactions with our websites and apps to create a superior, personalized shopping experience, whether you are online or in our stores. This information includes your IP address, browsing behavior while on our site, browser and device characteristics, and referring URLs. This information is collected and stored using a variety of common technologies, including various types of cookies, web beacons, and tags. Our websites and mobile applications are not designed to respond to "do not track" requests from browsers. These technologies may also allow us to identify you as a particular Best Buy retail store customer when you visit our websites, and to link your activities on our websites to your interactions with us in our stores.
 
 To help us understand and enhance our interactions with you, we may permit web analytics and other providers to collect and process information on our websites using the technologies described above. We also may share personal information with those providers. We may have similar arrangements with interest-based advertisers. Interest-based advertising is covered in more detail below.
 
@@ -131,7 +131,7 @@ To do any of these, let us know by one of these methods:
   
 Interest-Based Advertising
 
-We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.    
+We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect personal and other information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.    
    
 To learn more about interest-based advertising (also called behavioral advertising), visit www.aboutads.info.  
 To opt-out of interest-based advertising, use Evidon's Global Opt-Out tool at www.evidon.com.. There is also a Profile Manager tool which allows you to manage your interest-based preferences used by ad networks, data aggregators and others.
@@ -178,4 +178,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated 8/30/2013
+Last Updated 1/01/2014
