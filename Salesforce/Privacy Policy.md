@@ -113,9 +113,7 @@ When you visit salesforce.com’s Web sites, the Company collects your Internet 
 
 Salesforce.com also collects IP addresses from Customers whey they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
- 
-
-5\. Public forums, refer a friend, and customer testimonials
+  5. Public forums, refer a friend, and customer testimonials
 
 Salesforce.com may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Salesforce.com is not responsible for the personal information you choose to submit in these forums.
 
