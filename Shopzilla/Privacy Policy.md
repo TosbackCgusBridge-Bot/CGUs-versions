@@ -105,4 +105,4 @@ This Privacy Policy and our Terms of Use , both as posted on our Websites and th
 
 Back to shopzilla.com / Terms & Conditions / Privacy Policy
 
-© 2013 Shopzilla, Inc. All rights reserved.
+© 2014 Shopzilla, Inc. All rights reserved.
