@@ -2,18 +2,17 @@
 *   Blog
 *   Products Products back
     *   Overview
-    *   Tag Management Suite Tag Management Suite back
+    *   Tag Management Tag Management back
         *   Overview
-        *   Tealium iQ
         *   Supported Tags
         *   Privacy
         *   Mobile
         *   Audit
-    *   Data Distribution Suite Data Distribution Suite back
+        *   Event Store
+        *   Server to Server
+    *   Data Distribution Data Distribution back
         *   Overview
         *   AudienceStream
-        *   EventStream
-        *   ServerStream
 *   Solutions Solutions back
     *   Solutions by Role Solutions by Role back
         *   Overview
@@ -80,18 +79,9 @@ Tealium
 *   Login
 *   Request a Demo
 
-*   Tag Management Suite
-    *   Tealium iQ
-    *   Supported Tags
-    *   Privacy
-    *   Mobile
-    *   Audit
-*   Data Distribution Suite
-    *   AudienceStream
-    *   EventStream
-    *   ServerStream
-
-Tealium AudienceStream is Here!  
+Tealium IQ Enterprise Tag Management  
+Supported Tags•Privacy•Mobile  
+Audit•Event Store•Server to Server Tealium AudienceStream Digital Data Distribution  
 The industry's first audience discovery and digital data distribution platform »
 
 *   Solutions by Role
@@ -213,8 +203,8 @@ Find the solution that is right for your business.
 Learn More
 
 *   Products
-    *   Tag Management Suite
-    *   Data Distribution Suite
+    *   Tealium iQ
+    *   Data Distribution
 *   Solutions
     *   Web Analytics
     *   Digital Marketing
@@ -278,7 +268,7 @@ netherlands@tealium.com
 
 About Tealium
 
-Tealium is the leader in enterprise tag management, audience segmentation, profile enrichment and digital data distribution. Tealium brings order to marketing chaos to fuel the next generation of digital marketing.
+Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as the new foundation for digital marketing.
 
 *   Site Map
 *   Terms of Use
