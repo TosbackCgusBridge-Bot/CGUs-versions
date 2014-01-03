@@ -91,6 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Snapchat schweigt nach massiver Hacker-Attacke
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
 *   Michael Schumacher auf Facebook schon für tot erklärt
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
@@ -98,10 +99,10 @@ mehr zum Thema mehr Artikel zum Thema
 *   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
 *   Polizei hat in Rockerdatei über 1000 Personen gespeichert
 *   Google in Spanien zu Geldstrafe verurteilt
-*   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
 
 weniger Artikel weniger Artikel
 
+*   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
 *   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
 *   Kennen Sie den Unterschied?
 *   Pauschale Einschränkung von Freiheitsrechten passt nicht zu uns
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Was Sie bei der Verlagerung von Daten in die Cloud beachten sollten
 *   Andrea Voßhoff wird Datenschutzbeauftragte
 *   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
-*   PC-Hardware vor Hitzeschäden bewahren
 
 *   Kundencenter
 *   Preise und AGB
