@@ -76,7 +76,7 @@ back to top
 
 Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please click here, or for email please click here. To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc. sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please click here, or for email please click here. To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
 Collection of Information by Third-Party Sites and Sponsors
 
@@ -143,4 +143,4 @@ http://sportsillustrated.cnn.com/
 
 back to top
 
-This Privacy Policy was revised Aug. 30, 2012.
+This Privacy Policy was revised Jan. 2, 2014.
