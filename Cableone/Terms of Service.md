@@ -150,4 +150,4 @@ Cable One will make reasonable efforts to provide customer with uninterrupted an
 For Your Home  For Your Business  Customer Support  Local Information  All About Us  
 Legal Notices  Network Management Information  Contact Us  Great Careers  Payment Center  Site Map
 
-Copyright 2013, Cable ONE Inc., All Rights Reserved.
+Copyright 2014, Cable ONE Inc., All Rights Reserved.
