@@ -24,13 +24,15 @@ This Privacy Policy will explain the following regarding use of our site:
     
 8.  What about children's privacy?
     
-9.  What about Rakuten.com Shopping's use of third-party use of "cookies" and "action tags?"
+9.  What about "Do not track" signals?
     
-10.  Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com Shopping?
+10.  What about Rakuten.com Shopping's use of third-party use of "cookies" and "action tags?"
     
-11.  How do I contact Rakuten.com Shopping about privacy questions or concerns?
+11.  Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com Shopping?
     
-12.  How can this Privacy Policy be changed?
+12.  How do I contact Rakuten.com Shopping about privacy questions or concerns?
+    
+13.  How can this Privacy Policy be changed?
     
 
 1.  What information does Rakuten.com Shopping collect from you?  
@@ -192,7 +194,10 @@ This Privacy Policy will explain the following regarding use of our site:
 8.  What about children's privacy?  
     You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, then please contact us at privacy@mail.rakuten.com so that we may delete the child's information.
     
-9.  What about Rakuten.com Shopping and third-party use of "cookies" and "action tags?"
+9.  What about "Do Not Track" signals?  
+    Our website does not respond to "Do Not Track" signals. There is currently no universally recognized standard for "Do Not Track" signals. The World Wide Web Consortium is still working towards establishing a uniform "Do Not Track" web browser mechanism. Accordingly, at this time, our website does not respond to any "Do Not Track" signals.
+    
+10.  What about Rakuten.com Shopping and third-party use of "cookies" and "action tags?"
     
     Rakuten.com Shopping Cookies: When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Rakuten.com Shopping. Our cookies store Non-personally Identifiable Information such as randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies.
     
@@ -210,12 +215,12 @@ This Privacy Policy will explain the following regarding use of our site:
     
     E-mail Distributor's Use of Action Tags: Our third-party e-mail distributor may also use action tags. They may, for example, keep track of when a promotional e-mail is opened and provide Rakuten.com Shopping with ongoing aggregated reports of how many customers have responded. We share with them Personally Identifiable Information such as web site usage information about visitors to our web site who have received a promotional e-mail or other targeted promotional campaign. They use the information for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party e-mail distributor note some of the pages you visit on our web site through the use of action tags. For more information about our third-party e-mail distributor's use of action tags and other data collection methods, please click here.
     
-10.  Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com Shopping?  
+11.  Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com Shopping?  
     Any information about you that those unaffiliated third parties collect is not governed by this Policy and they will independently collect, use and share your Personally Identifiable Information in accordance with their own privacy policies, data collection use and disclosure practices. If you have questions about their information practices, then please read their privacy policies. Rakuten.com Shopping is not responsible for the policies or practices of third parties. Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those web sites linked to Rakuten.com Shopping are not covered by this Privacy Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies that place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
     
     On behalf of various sponsors, Rakuten.com Shopping provides sponsored links to third-party web sites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the Rakuten.com Shopping web site in the background. Unless you are on Rakuten.com Shopping's web site, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by sending a letter to the address below.
     
-11.  How do I contact Rakuten.com Shopping about privacy questions or concerns?  
+12.  How do I contact Rakuten.com Shopping about privacy questions or concerns?  
     If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, then please contact Rakuten.com Shopping by sending a letter to:
     
     > Attn: Privacy Compliance Officer  
@@ -224,5 +229,5 @@ This Privacy Policy will explain the following regarding use of our site:
     > Aliso Viejo, CA 92656  
     > 949-389-2000  
     
-12.  How can this Privacy Policy be changed?  
+13.  How can this Privacy Policy be changed?  
     This Privacy Policy was last changed on January 31, 2013. If Rakuten.com Shopping makes changes to any terms or conditions of the Privacy Policy, then the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
