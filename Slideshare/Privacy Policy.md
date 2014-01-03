@@ -157,6 +157,6 @@ _Effective September 9, 2013_. Please click here to read our summary of the chan
 *   Engineering Blog
 *   Blog Widgets
 
-LinkedIn Corporation © 2013
+LinkedIn Corporation © 2014
 
 RSS Feed
