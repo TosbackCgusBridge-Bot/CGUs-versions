@@ -96,6 +96,9 @@ How We and Our Partners Use Cookies and Web Beacons
 Similarly, third parties use cookies to deliver advertising for companies other than Dell to you on the internet, whether you are on Dell.com or another website, based on your visits to Dell.com and other websites and to measure the effectiveness of those advertising campaigns. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page.  
 Learn more about targeted advertising and how to opt out.  
   
+**“Do Not Track” Signals  
+**Please note that while you may have the opportunity to opt-out of targeted advertising through the “Learn more” link above and you may be able to control the use of cookies through your web browser as described in the “How We and Our Partners Use Cookies” section above, some web browsers may give you the ability to enable a “do not track” setting that sends a special signal to the websites you encounter while web browsing. This is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Dell does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about do not track, visit www.allaboutdnt.org.  
+  
 
 **Targeted Email Marketing by Dell  
 **Some marketing you receive, including email marketing, may also be personalized based on your visits to Dell.com and your browsing and purchase history. In addition, when you click on some links in email marketing you receive, our email service provider may place a cookie on your browser. This cookie would be linked to your email address and used to gather information about the products and services you view and purchase on Dell.com. Information gathered may be used to personalize and customize future email marketing messages you receive. You may opt out of this use by clicking on the unsubscribe link provided in every personalized email marketing message you receive.
@@ -135,4 +138,4 @@ USA
 
 You may also email us at privacy@dell.com.
 
-**Privacy Statement Regarding Customer and Online User Information Effective Date: June 18, 2012.**
+**Privacy Statement Regarding Customer and Online User Information Effective Date: January 2, 2014.**
