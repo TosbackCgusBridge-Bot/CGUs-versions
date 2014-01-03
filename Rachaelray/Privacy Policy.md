@@ -181,4 +181,4 @@ Partner Sites
 
 Site Map • About Us • Community Guidelines • FAQ • Contact Us • Privacy • T&C • Rach's Partner Sites • Articles • rachaelraystore.com  
 Visit us at: Facebook Twitter  
-™ and © 2007 - 2013 Rachael Ray Digital LLC
+™ and © 2007 - 2014 Rachael Ray Digital LLC
