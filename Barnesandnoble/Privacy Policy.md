@@ -55,7 +55,7 @@ However, there are a number of circumstances in which you may need to provide us
 *   Interacting with social networking sites
 *   Entering a sweepstakes or contest
 *   Publishing through NOOK Press
-*   Signing up for promotional communications or using Invite-a-Friend or NOOK Press Collaborator emails
+*   **Signing up for promotional communications or using Invite-a-Friend or NOOK Press Collaborator emails**
 
 For your convenience, we have provided a summary description of each of these circumstances below.
 
@@ -256,7 +256,7 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 **9\. What other information about Barnes &. Noble's Privacy Policy would I want to know?**  
   
-Policies for Minors, including children under the age of 13  
+**Policies for Minors, including children under the age of 13**  
   
 Barnes &. Noble is committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information of Minors under the age of 13, including the Children's Online Privacy Protection Act of 1998.  
   
