@@ -1,4 +1,4 @@
-**reddit user agreement** _Last Revised Dec 11, 2013. Effective Jan 3, 2014_
+**reddit user agreement** _Last Revised Dec 11, 2013. Effective Jan 7, 2014_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
@@ -189,4 +189,4 @@ changes to this user agreement
 
 53 This user agreement is the entire agreement between you and us concerning reddit. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement that materially affect your rights, we will provide advance notice and keep this edition available as an archive on the reddit website. By continuing to use reddit after a change to this agreement, you agree to those changes.
 
-54 this user agreement is effective as of January 3, 2014.
+54 this user agreement is effective as of January 7, 2014.
