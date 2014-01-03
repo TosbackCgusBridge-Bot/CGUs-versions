@@ -1,4 +1,4 @@
- 020 3129 4600    info@thelawportal.co.uk
+The Law Portal
 
 *   Lawyer log-in
 *   Client log-in
@@ -8,7 +8,7 @@
 *   About Us
 *   Contact Us
 
-Privacy policy Your privacy is important to us, and we go to great lengths to protect it. TheLawPortal.co.uk, a iMarketing Advantage website, is dedicated to fair information practices. We respect the privacy and information security of our users. Our aim is to provide our users with personalised experience delivering relevant information and resource.  
+Your privacy is important to us, and we go to great lengths to protect it. TheLawPortal.co.uk, a iMarketing Advantage website, is dedicated to fair information practices. We respect the privacy and information security of our users. Our aim is to provide our users with personalised experience delivering relevant information and resource.  
   
 In order to provide you a personalized experience, we collect some information during your visits to understand your usage and requirements with regards to our other users. We will not disclose it to any person or organization outside iMarketing Advantage, except as described in this Privacy Policy. This policy applies to TheLawPortal.co.uk only. Our site contains links to other sites. We are not responsible for the privacy practices or the content of other web sites to which we provide links.  
   
@@ -32,13 +32,12 @@ We never use/share the information you give us with outside parties except when 
 As per our company policy, we never use or share any personally identifiable information provided to us online except the ways described above. Also an opportunity to opt out or prohibit such use is also given.  
   
 Customer Feedback and Complaints  
-We welcome your questions and comments about our web site. Please email us at support@TheLawPortal.co.uk .  
+We welcome your questions and comments about our web site. Please email us at This email address is being protected from spambots. You need JavaScript enabled to view it. .  
   
   
   
   
   
- 
 
 *   Terms &. Conditions
 *   Privacy Policy
@@ -48,4 +47,4 @@ We welcome your questions and comments about our web site. Please email us at su
 *   Site Map
 
 Copyright © 2009 TheLawPortal.co.uk  
-The Law Portal,430 Legacy Centre,Hampton Road West,Feltham,Middlesex TW13 6DH
+The Law Portal,430 Legacy Centre,Hampton Road West,Feltham,Middlesex TW13 6DH **JavaScript is currently disabled.**Please enable it for a better experience of Jumi.
