@@ -46,6 +46,8 @@ You may opt-out of all information collection by uninstalling the App.  You may
 
 When you use Fly Delta, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes.  We don’t store the ID, or share the ID or other unique information collected or used by the app with third parties, except for service providers such as Adobe, whose analytics product generates this ID to track and analyze the performance of our app.  We do not use information gathered within the app to serve you targeted advertisements. The “limit ad tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta. 
 
+When you use Fly Delta, a unique ID (which varies by device manufacturer and operating system) is read from or associated with your device to be used as an anonymous identifier for analytics and performance purposes.  We don’t store the ID, or share the ID or other unique information collected or used by the app with third parties, except for service providers such as Adobe, whose analytics product generates this ID to track and analyze the performance of our app.  We do not use information gathered within the app to serve you targeted advertisements. The “limit ad tracking” or similar advertising-related privacy settings offered by device manufacturers do not change how your device is tracked by Delta.
+
 Sharing With Social Media
 
 You may wish to share information and activities from this app with social media platforms. To utilize social media sharing features, you will be prompted to grant permissions within those platforms, as you choose.   For Facebook updates, you will need to allow account login and publishing permissions.  This enables you to: post questions and content to a feed, upload photos/videos, add likes and comments, create notes and post to events and groups.  To facilitate login, the app will store your account credentials for the appropriate social media platform.
@@ -127,7 +129,7 @@ Types of cookies and tags on our site
 *   Performance or Analytics: Used to anonymously measure site activity to improve visitor experience.
 *   Targeting: Used to display information and offers that specifically interest you.
 
-Tracking Preferences andOpt Out
+Tracking Preferences and Opt Out
 
 In the first section below, we provide links to resources for opting out of different types of online tracking and interest-based targeting.
 
