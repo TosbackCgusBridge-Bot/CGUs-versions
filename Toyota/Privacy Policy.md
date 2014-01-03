@@ -21,7 +21,7 @@
 3.  Crossovers &. SUVs
     *   RAV4 $23,300 starting msrp 1 24/31 est. mpg 2 Explore Build
     *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 Explore Build
-    *   Highlander $29,020 starting msrp 1 20/25 est. mpg 2 Explore Build
+    *   Highlander $29,215 starting msrp 1 20/25 est. mpg 2 Explore Build
     *   FJ Cruiser $27,130 starting msrp 1 16/20 est. mpg 2 Explore Build
     *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,040 as shown Explore Build
     *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 Explore Build
@@ -32,7 +32,7 @@
     *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
         driving range 3 /  
         mpge 4 Explore
-    *   Highlander Hybrid $40,170 starting msrp 1 28/28 est. mpg 2 Explore Build
+    *   Highlander Hybrid $47,300 starting msrp 1 28/28 est. mpg 2 Explore Build
     *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
     *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
     *   Prius Plug-in $29,990 starting msrp 1 95/50 est. mpge 5 /  
@@ -40,8 +40,6 @@
         mode mpg 6 Explore Build
     *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
-    *   2014 Highlander  
-        Coming December View More Info
     *   2014 FJ Cruiser  
         Coming Early 2014 View More Info
     *   Concept Vehicles See Vehicles
