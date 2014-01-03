@@ -25,6 +25,6 @@ Napoleon Bonaparte
 
 **Last updated:** March 9, 2013
 
-Copyright 2001 - 2013 BrainyQuote.com All Rights Reserved.
+Copyright 2001 - 2014 BrainyQuote.com All Rights Reserved.
 
 Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!
