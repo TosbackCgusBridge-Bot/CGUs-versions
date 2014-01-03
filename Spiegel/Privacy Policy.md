@@ -379,20 +379,20 @@ Gliederung
   
 TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 
-*   AUTO UND FREIZEIT
+*   AUTO
 *   Benzinpreis-  
     vergleich
-*   Kfz-  
-    Versicherung vergleichen
 *   Bußgeld-  
     rechner
+
+*   FREIZEIT
 *   Eurojackpot
 *   Lottozahlen
-
-*   AUTO UND FREIZEIT
 *   Ferientermine
 *   Bücher  
     bestellen
+
+*   AUTO UND FREIZEIT
 *   Partnersuche
 *   Arztsuche
 *   DSL-Vergleich
@@ -415,20 +415,10 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Jobsuche
 
 *   FINANZEN UND RECHT
-*   Kredite  
-    vergleichen
 *   Währungs-  
     rechner
-*   Versicherungs-  
-    vergleiche
 *   Immobilien-  
     Börse
-
-*   FINANZEN UND RECHT
-*   Rechtsschutz-  
-    versicherung
-*   Haftpflicht-  
-    versicherung
 *   Prozesskosten-  
     Rechner
 *   Baufinanzierung
