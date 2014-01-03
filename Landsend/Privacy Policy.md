@@ -31,7 +31,6 @@ $5 More for UPS 2 Day
 
 *   Women
     *   *   Shoes &. Boots
-        *   Gift Shop
         *   Swim Shop
         *   Canvas Lands' End
         
@@ -70,7 +69,6 @@ $5 More for UPS 2 Day
 *   Men
     *   *   Made to Work
         *   Shoes &. Boots
-        *   Gift Shop
         *   Canvas Lands' End
         
         *   Featured Shops
@@ -106,7 +104,6 @@ $5 More for UPS 2 Day
     *   *   Girls Shoes &. Boots
         *   Boys Shoes &. Boots
         *   School Uniforms
-        *   Gift Shop
         
         *   Featured Shops
         *   New Arrivals
@@ -163,11 +160,9 @@ $5 More for UPS 2 Day
         *   Snow Boots
 *   Home
     *   *   Totes
-        *   Gift Shop
         
         *   Featured Shops
         *   New Arrivals
-        *   Christmas Décor
         *   Supima Bedding &. Bath
         *   Flannel Bedding
         *   Sale
