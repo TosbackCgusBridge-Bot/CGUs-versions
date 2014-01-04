@@ -80,8 +80,8 @@ Subaru Confidence In Motion
     
     WRX Premium shown
     
-    See the 2015 WRX  
-    at the L.A. Auto Show Legacy Starting at **$20,295** 2014 Legacy
+    Introducing the  
+    all-new 2015 WRX Legacy Starting at **$20,295** 2014 Legacy
     
     Starting at
     
