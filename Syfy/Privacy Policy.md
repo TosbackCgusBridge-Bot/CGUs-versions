@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Defiance - Season 2 Tease Defiance - Season 2 Tease
+Syfy Video Chloe Dykstra: The Holidays &. Cosplay Chloe Dykstra: The Holidays &. Cosplay
+
+Is Chloe Dykstra on the nice or naughty list this holiday season? And what's in store for Heroes of Cosplay, Season 2?!
+
+Defiance - Season 2 Tease Defiance - Season 2 Tease
 
 Check out the tease for Season 2 of Defiance! Coming this June.
 
@@ -262,10 +266,6 @@ Season 4 of Lost Girl premieres January 13th at 8/7c. Catch up on three seasons 
 Kenzi : Lost Girl Kenzi : Lost Girl
 
 Lost Girl Premieres January 13th at 8/7c
-
-Ksenia Solo On the Holidays Ksenia Solo On the Holidays
-
-Ksenia Solo has a few ideas for her New Years Resolution, as well as her favorite gift to get.
 
 *   FAQ
 *   Feedback
