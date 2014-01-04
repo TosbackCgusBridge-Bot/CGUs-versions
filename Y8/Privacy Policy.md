@@ -2,31 +2,6 @@ Play Free Games at Y8.com. Play an online game now!
 
 Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games.
 
-*     English
-
-*     English
-*     Руcский
-*     Français
-*     Deutsch
-*     Italiano
-*     Ελληνικά
-*     עברית
-*     हिंदी
-*     Română
-*     Español
-*     Tagalog
-*     ไทย
-*     中文
-*     Nederlands
-*     Việt
-*     Türkçe
-*     Português
-*     Polski
-*     한국어
-*     日本語
-*     Indonesia
-*     العربية
-
 *   My games ()
 *   My Profile
 *   Log out
@@ -114,13 +89,22 @@ Parents, if you would like to review your child's personal information, ask to h
 We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
 If you have any questions, you can contact us through our contact form.
 
-If you have questions or other inquiries, please use our email form
+If you have questions or other inquiries, please use our contact form
 
 Business contact Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
 
-Y8.com project : free videos, animation, music, photo and games storage started year 2006.
+Y8.com project: play free games online and watch funny cartoons, since 2006.
 
 *   Play Free Games
 *   играть бесплатно
-*   Jeux Gratuits
+*   Jeux gratuits
+*   Spiele Gratisspiele
+*   Gioca Giochi Gratuiti
+*   Jugar juegos gratis
+*   Mag laro ng Mga Bagong Laro
+*   เล่นเกมฟรี
+*   玩免费游戏
+*   Chơi Game Miễn phí
+*   Jogar Jogos Grátis
+  
 *   Play Online Games
