@@ -91,9 +91,9 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Snapchat schweigt nach massiver Hacker-Attacke
+*   Facebook von Nutzer verklagt: Spioniert Facebook Nachrichten aus?
+*   Snapchat schweigt nach massivem Hack von Nutzerdaten
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
-*   Michael Schumacher auf Facebook schon für tot erklärt
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
 *   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
 *   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
