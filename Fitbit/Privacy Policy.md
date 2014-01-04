@@ -29,7 +29,7 @@ This Privacy Policy (this "Policy") is subject to the provisions our Terms of Us
 
 What Personal Information We Collect
 
-Your Fitbit Products work in conjunction with a user account on Fitbit.com (a "User Account"). You can also sync your data related to your Fitbit Product with various third party nutrition and fitness programs.
+Your Fitbit Products work in conjunction with a user account on Fitbit.com (a "User Account"). You can also sync your data related to your Fitbit Product with various third party nutrition and fitness programs. You can alter and correct any personal information created within the Product and Service by logging into your User Account.
 
 *   When you sign up for a Fitbit User Account, you are required to provide an email address (which will be used as your login ID) and to create an account password (collectively the "Registration Information").
 *   If you elect to sign up for a Fitbit User Account using your Facebook credentials, you will be asked to allow Fitbit to access the basic information (including your name, profile picture, gender, networks, user ID, list of friends and other public information) and certain profile information (such as your birthday) associated with your Facebook account.
@@ -37,10 +37,12 @@ Your Fitbit Products work in conjunction with a user account on Fitbit.com (a "U
 *   Information sent wirelessly from your Fitbit Product to the Service is stored in your Fitbit User Account.
 *   Information that you add manually to the Service is stored in your Fitbit User Account.
 *   When you elect to share data from your Fitbit User Account with others, we collect the information you provide about those individuals such as their name and email address.
+*   We collect industry standard log data about the browser and operating system you are using, the address of the external or internal page that referred you, your IP address at the time of account creation and keep a log of the pages that you visit on the Services in association with your IP address. We also collect the IP address associated with the device running the Fitbit mobile app each time you sync.
+*   We collect location data provided by your mobile device. You must first enable location services when you download the Fitbit mobile application or an updated version of the app. You can then turn location on and off within the app to activate optional features. You can opt-out of location services at any time.
 
 How We Use Your Personal Information
 
-Fitbit uses your personal information to:
+Fitbit will not use your personal information for purposes other than those listed in this privacy policy unless we obtain your consent first. Fitbit uses your personal information to:
 
 *   Provide you with the Service;
 *   Analyze Site usage and improve the Service;
@@ -77,6 +79,19 @@ If you choose to delete cookies from your device or block them from being stored
 
 We may use third party service providers to help us analyze certain online activities and improve our products and the Service. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on Fitbit.com. We may permit these service providers to use cookies and other technologies to perform these services for Fitbit. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Policy.
 
+We use search and display advertising so you can find opportunities to purchase Fitbit products and retargeting cookies to present you with Fitbit advertising on other sites based on your interaction on our website. We believe that consumers should exercise choice regarding the collection of personally identifiable information, which is why we disclose the cookies used on our website and provide links to opt-out of those collection practices. Although we would like to honor those browsers that are set with a Do Not Track signal, at the present time we are unable to honor those signals.
+
+*   AdRoll -- The AdRoll Privacy Policy explains how their cookie works and gives you the option to adjust or opt out of this program.
+*   ApNexus -- The ApNexus Cookies page provides information about their cookie and gives you the option to opt out-of this program.
+*   DetaXu -- The DetaXu Data Collection for our Platform page explains their privacy practices and gives you the option to opt-out of this program.
+*   DoubleClick and DoubleClick Floodlight-- This cookie and web beacon is owned by Google. You can adjust Google's use of cookies by visiting Google's Ads Settings. You may permanently opt-out of the Google DoubleClick cookie.
+*   Genome -- This cookie is owned by Yahoo! You can read the Yahoo! privacy policy, customize and opt-out of this program.
+*   Google Adwords Conversion -- You can adjust the Google Ads Settings and opt-out of this program.
+
+We also use the Google Analytics, Optimizely and MixPanel cookies to allow us to see how you use our website and mobile application so that we can improve your experience. We encourage you to read the Google Privacy Policy and MixPanel Privacy Policy. If you don’t want data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on. Likewise, you can read the Optimizely Privacy Policy and opt out.
+
+We use social media widgets and plugins so you can use social networking to share items from our site with your AOL, Facebook and Twitter accounts. These interactive mini-programs run on our site and collect your IP address, which page you are visiting on our site, and sets a cookie to enable the widget to function properly. Your interactions with these widgets are governed by the privacy policy of the company providing them, not by this Privacy Policy.
+
 Information You Elect to Share With Others
 
 If you use a message board, blog, journal or any other method of posting user-generated content on our Site or through the Service, you should be aware that such information can be read, collected or used by others and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these areas.
@@ -109,7 +124,7 @@ We do not knowingly collect any personal information from children under 13. If 
 
 Your Right to Delete Your Data
 
-If you would like to cancel your Fitbit account you may do so by emailing our support . When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your email address, name, photo(s), friends list and links to social and partner sites such as Facebook Twitter, and Google Health. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. Following cancellation or termination of your account, Fitbit may continue to utilize de-identified and anonymized historical data associated with your use of the Fitbit Products. In addition, please note that if you checked the "Allow My Profile to be Found" box in your account settings, a cached version of your profile may continue to be visible to others through search engines.
+If you would like to cancel your Fitbit account you may do so by emailing our support . When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your email address, name, photo(s), friends list and links to social and partner sites such as Facebook Twitter, and Google Health. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. Following cancellation or termination of your account, Fitbit may continue to utilize de-identified and anonymized historical data associated with your use of the Fitbit Products.
 
 Email Communications From Us
 
@@ -151,7 +166,7 @@ Contact us if you have any questions or concerns
 
 If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to our support .
 
-This policy was last updated on January 6, 2012.
+This policy was last updated on January 3, 2014.
 
 Fitbit
 
