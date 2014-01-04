@@ -175,7 +175,6 @@ Investor relations
 News and insight
 
 *   Insight
-*   2014
 *   Media resources
 *   Emerging markets PMI
 
