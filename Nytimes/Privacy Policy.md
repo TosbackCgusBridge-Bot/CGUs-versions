@@ -261,16 +261,16 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Downton Abbey" returns to PBS on Sunday
+Search Help Best of 2013 | The year in food
 
-Also in Arts »
+Also in T Magazine »
 
-*   Game theory: Exploring meaningful violence
-*   Bruno Mars tops illegal download chart
+*   Best of 2013 | The year in people
+*   Best of 2013 | The year in travel
 
   
 
-*   © 2013 The New York Times Company
+*   © 2014 The New York Times Company
 *   Site Map
 *   Privacy
 *   Your Ad Choices
