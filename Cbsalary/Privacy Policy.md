@@ -54,7 +54,6 @@ Mobile Site
 
 Job Seeker Services
 
-*   Free Career Test
 *   Salary Calculator
 *   Management Jobs
 *   IT &. Engineering Jobs
