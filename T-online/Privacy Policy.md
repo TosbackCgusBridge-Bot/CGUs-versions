@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Innenministerium dringt auf Gesetz zur Vorratsdatenspeicherung
+*   Auch Schwarz-Rot streitet jetzt über Vorratsdatenspeicherung
+*   SPD-Justizminister legt Vorratsdatenspeicherung auf Eis
 *   Facebook von Nutzer verklagt: Spioniert Facebook Nachrichten aus?
 *   Snapchat schweigt nach massivem Hack von Nutzerdaten
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
 *   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
-*   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
-*   Polizei hat in Rockerdatei über 1000 Personen gespeichert
-*   Google in Spanien zu Geldstrafe verurteilt
 
 weniger Artikel weniger Artikel
 
+*   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
+*   Polizei hat in Rockerdatei über 1000 Personen gespeichert
+*   Google in Spanien zu Geldstrafe verurteilt
 *   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
 *   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
 *   Kennen Sie den Unterschied?
@@ -111,9 +114,6 @@ weniger Artikel weniger Artikel
 *   Andrea Voßhoff ist neue Bundesdatenschutzbeauftragte
 *   Aufgeklärt: Was ist ein ADV-Vertrag?
 *   Business Marketplace: Die clevere Alternative zu störanfälliger Firmen-IT
-*   Was Sie bei der Verlagerung von Daten in die Cloud beachten sollten
-*   Andrea Voßhoff wird Datenschutzbeauftragte
-*   Kabinett: Andrea Voßhoff soll Bundesdatenschutzbeauftragte werden
 
 *   Kundencenter
 *   Preise und AGB
