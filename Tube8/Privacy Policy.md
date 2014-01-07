@@ -332,4 +332,4 @@ Send For more information, please contact a TrafficJunky representative at www.t
 *   Site Map
 *   Contact Us
 
-Copyright © 2007-2013 Tube8.com, All Rights Reserved:
+Copyright © 2007-2014 Tube8.com, All Rights Reserved:
