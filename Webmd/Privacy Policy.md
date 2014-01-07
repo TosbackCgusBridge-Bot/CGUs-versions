@@ -557,6 +557,6 @@ Go Find us on:
 
 URAC: Accredited Health Web Site HonCode: Health on the Net Foundation AdChoices About WebMD Advertise With Us Terms of Use Privacy Policy Sponsor Policy Site Map Careers Contact Us Medscape Reference eMedicineHealth RxList Medscape MedicineNet BootsWebMD WebMD Corporate First Aid WebMD Magazine WebMD Health Record WebMD Mobile Newsletters Dictionary Physician Directory
 
-©2005-2013 WebMD, LLC. All rights reserved.
+©2005-2014 WebMD, LLC. All rights reserved.
 
 WebMD does not provide medical advice, diagnosis or treatment. See additional information.
