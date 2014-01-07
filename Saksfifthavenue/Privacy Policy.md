@@ -4,7 +4,9 @@ Our Privacy Policy &. Our Website Terms Of Use
 
 **Our Privacy Policy**  •  Our Website Terms of Use
 
-Our Privacy Policy Last Updated October 23, 2013.
+Our Privacy Policy Last Updated January 6, 2014.
+
+Please note that we have expanded the definition of "Saks Family" to include Hudson's Bay Company and Lord &. Taylor.
 
 Thank you for visiting our website, which is part of the Saks family of company sites, including Saks Fifth Avenue and Saks Fifth Avenue OFF 5TH (collectively, Saks). We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Saks. This commitment includes respecting and protecting the privacy of personal information that we obtain through our sites, via mobile, and from visits and purchases at our stores. This privacy policy provides you with information about how we collect, use and share your personal information, and our privacy practices in general.
 
@@ -58,7 +60,7 @@ Q: **What information does Saks collect?** A: **The Information You Provide to S
 *   To improve our sites, products/services, customer service, and customer shopping experience.
 
   
-  Q: **What information does Saks share with others?** A: **Saks Family:** We may share collected information within the Saks family of affiliated companies (including Saks Fifth Avenue, Saks Fifth Avenue OFF 5TH, and future additions to the Saks family).  
+  Q: **What information does Saks share with others?** A: **Saks Family:** We may share collected information within the Saks family of affiliated companies (including Saks Fifth Avenue, Saks Fifth Avenue OFF 5TH, Hudson's Bay Company, Lord &. Taylor, and future additions to the Saks family).  
 **Co-Marketing Partners:** Saks may team with another company to conduct joint sales programs (such as in co-branded designer boutiques in our stores), sweepstakes, promotional campaigns, and other jointly sponsored events. In those cases, each of the participating co-marketing partners may receive information about you.  
 **Legal Disclosures:** Saks may disclose the information we receive from and about you to respond to judicial process and provide information to law enforcement agencies in accordance with applicable law. We also reserve the right to share information with legal authorities and other companies for fraud protection and credit risk reduction, or to avoid injury to our rights or the rights of any other person.  
 **Sale of Business:** During the normal course of our business, we may sell or purchase assets. If another entity acquires all or a part of a business within the Saks family of affiliated companies, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against a business within the Saks family of companies, such information may be considered an asset of the company and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Policy.  
@@ -91,7 +93,9 @@ Our Privacy Policy &. Our Website Terms Of Use
 
 **Our Privacy Policy**  •  Our Website Terms of Use
 
-Our Privacy Policy Last Updated October 23, 2013.
+Our Privacy Policy Last Updated January 6, 2014.
+
+Please note that we have expanded the definition of "Saks Family" to include Hudson's Bay Company and Lord &. Taylor.
 
 Thank you for visiting our website, which is part of the Saks family of company sites, including Saks Fifth Avenue and Saks Fifth Avenue OFF 5TH (collectively, Saks). We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Saks. This commitment includes respecting and protecting the privacy of personal information that we obtain through our sites, via mobile, and from visits and purchases at our stores. This privacy policy provides you with information about how we collect, use and share your personal information, and our privacy practices in general.
 
@@ -145,7 +149,7 @@ Q: **What information does Saks collect?** A: **The Information You Provide to S
 *   To improve our sites, products/services, customer service, and customer shopping experience.
 
   
-  Q: **What information does Saks share with others?** A: **Saks Family:** We may share collected information within the Saks family of affiliated companies (including Saks Fifth Avenue, Saks Fifth Avenue OFF 5TH, and future additions to the Saks family).  
+  Q: **What information does Saks share with others?** A: **Saks Family:** We may share collected information within the Saks family of affiliated companies (including Saks Fifth Avenue, Saks Fifth Avenue OFF 5TH, Hudson's Bay Company, Lord &. Taylor, and future additions to the Saks family).  
 **Co-Marketing Partners:** Saks may team with another company to conduct joint sales programs (such as in co-branded designer boutiques in our stores), sweepstakes, promotional campaigns, and other jointly sponsored events. In those cases, each of the participating co-marketing partners may receive information about you.  
 **Legal Disclosures:** Saks may disclose the information we receive from and about you to respond to judicial process and provide information to law enforcement agencies in accordance with applicable law. We also reserve the right to share information with legal authorities and other companies for fraud protection and credit risk reduction, or to avoid injury to our rights or the rights of any other person.  
 **Sale of Business:** During the normal course of our business, we may sell or purchase assets. If another entity acquires all or a part of a business within the Saks family of affiliated companies, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against a business within the Saks family of companies, such information may be considered an asset of the company and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Policy.  
