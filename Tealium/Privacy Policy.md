@@ -237,10 +237,7 @@ US Headquarters
 
 11085 Torreyana Road  
 San Diego, CA 92121  
-  
-Sales: (888) 622-2050  
-Tel: +1 (858) 779-1344  
-Fax: +1 (858) 345-3844
++1 (858) 779-1344
 
 United Kingdom
 
@@ -265,6 +262,12 @@ The Netherlands
 Zilverenberg 36,  
 5234 BM 's-Hertogenbosch  
 netherlands@tealium.com
+
+France
+
+9 Rue du Quatre Septembre  
+75002 Paris  
+\+ 33 (0) 1 7098 3351
 
 About Tealium
 
