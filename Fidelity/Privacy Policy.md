@@ -2,10 +2,12 @@ Skip to Main Content. Fidelity.com Home
 
 *   Customer Service
 *   Open An Account
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
+*   Refer A Friend
 *   Log Out
 
 Search Fidelity.com Search Fidelity.com Find quote
@@ -21,7 +23,6 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Full ViewLog In Required
     *   Update Accounts / Features
     *   StatementsLog In Required
-    *   Refer A Friend
 *   News &. Insights
     *   Close
     *   News
@@ -70,10 +71,12 @@ Search Fidelity.com Search Fidelity.com Find quote
 
 *   Customer Service
 *   Open An Account
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
 *   Open An Account
+*   Refer A Friend
 *   Log Out
 
 *   **Home**»
@@ -283,7 +286,7 @@ Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP co
 *   YouTube
 *   Fidelity Mobile®
 
-Copyright 1998-2013 FMR LLC. All Rights Reserved.
+Copyright 1998-2014 FMR LLC. All Rights Reserved.
 
 *   Terms of Use
 *   Privacy
