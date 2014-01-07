@@ -421,7 +421,6 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     Börse
 *   Prozesskosten-  
     Rechner
-*   Baufinanzierung
 
 *   Home
 *   Politik
