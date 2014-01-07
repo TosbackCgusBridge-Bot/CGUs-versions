@@ -91,7 +91,17 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Spannungen in der Koalition wegen Vorratsdatenspeicherung
+*   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
+*   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
+*   Vorratsdatenspeicherung: Heiko Maas erhält Rüffel von Thomas de Maiziere
+*   Schwarz-Rot will Streit zu Vorratsdaten bei Kabinettsklausur klären
+*   Justizministerin will bei Vorratsdatenspeicherung abwarten
+*   Neues Gerangel um Vorratsdatenspeicherung - Innenressort drängelt
 *   Innenministerium dringt auf Gesetz zur Vorratsdatenspeicherung
+
+weniger Artikel weniger Artikel
+
 *   Auch Schwarz-Rot streitet jetzt über Vorratsdatenspeicherung
 *   SPD-Justizminister legt Vorratsdatenspeicherung auf Eis
 *   Facebook von Nutzer verklagt: Spioniert Facebook Nachrichten aus?
@@ -99,21 +109,11 @@ mehr zum Thema mehr Artikel zum Thema
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
 *   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
-
-weniger Artikel weniger Artikel
-
 *   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
 *   Polizei hat in Rockerdatei über 1000 Personen gespeichert
 *   Google in Spanien zu Geldstrafe verurteilt
 *   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
 *   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
-*   Kennen Sie den Unterschied?
-*   Pauschale Einschränkung von Freiheitsrechten passt nicht zu uns
-*   Dr. André Zehl erklärt das Hosting-Konzept im Business Marketplace
-*   Weshalb die Cloud sicherer ist als herkömmliche IT-Systeme
-*   Andrea Voßhoff ist neue Bundesdatenschutzbeauftragte
-*   Aufgeklärt: Was ist ein ADV-Vertrag?
-*   Business Marketplace: Die clevere Alternative zu störanfälliger Firmen-IT
 
 *   Kundencenter
 *   Preise und AGB
