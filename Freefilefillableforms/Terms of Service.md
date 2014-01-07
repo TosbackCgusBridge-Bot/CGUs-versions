@@ -46,7 +46,7 @@ Like Share Print Free File: Do Your Federal Taxes for Free
 
 Español
 
-Free File has closed for the remainder of this year. Check back next year for filing your 2013 federal tax returns.  
+**Come back Jan. 17 to get a jump on your taxes with Free File.** Free File companies will securely hold your completed tax return until Jan. 31 when the IRS begins accepting returns. Free File Fillable Forms will be available starting Jan. 31.  
 Taxes made less taxing.
 
 **EVERYONE is Eligible to Free File!**
@@ -65,7 +65,7 @@ Review the three-step process below, and you'll be on your way to e-filing your 
     You need a copy of last year's tax return and your W-2s, 1099s, etc.
 *   **Determine your AGI.** Check your last year's tax return for a quick estimate of your adjusted gross income (AGI). Did you know that approximately 70% of all taxpayers have an AGI of $57,000 or less?
 *   **Review the Free File FAQs.**  
-    Read the Free File FAQs and Free File Fillable Forms FAQs for more information about the program.
+    Read the Free File FAQs ae File Fillable Forms FAQs for more information about the program.
 
 2.Choose a Free File Option
 
@@ -88,7 +88,7 @@ Review the three-step process below, and you'll be on your way to e-filing your 
 *   **Pay electronically.**  
     Find out more about available electronic payment options.
 
-Page Last Reviewed or Updated: 17-Dec-2013
+Page Last Reviewed or Updated: 06-Jan-2014
 
 *   Resolve an Issue
     
