@@ -40,6 +40,7 @@
         mode mpg 6 Explore Build
     *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 Explore Build
 5.  Upcoming Vehicles
+    *   Toyota Fuel Cell Vehicle Arriving in 2015 View More Info
     *   2014 FJ Cruiser  
         Coming Early 2014 View More Info
     *   Concept Vehicles See Vehicles
