@@ -82,6 +82,10 @@ SECURITY
 
 MediaNews uses procedures to safeguard and help prevent unauthorized access to the information collected on the MediaNews Web sites. Although such protective measures have been put in place, MediaNews cannot ensure that the information collected will never be disclosed in a manner inconsistent with this Privacy Policy.
 
+DO NOT TRACK
+
+MNG currently does not support Do Not Track browser settings and does not currently participate in any Do Not Track frameworks that would allow us to respond to signals or other mechanism from you regarding the collection of information, including PIN or CIN. As Industry standards evolve and develop, we will continue to evaluate this position. As previously stated in the INFORMATION COLLECTED section above, other parties, particularly third party advertising networks, also collect information.
+
 CALIFORNIA PRIVACY RIGHTS
 
 Under California law, California residents may request once a year, free of charge, certain information regarding MediaNews’ disclosure of personal information to third parties for direct marketing purposes. To make such a request, please write to us at: Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202.
