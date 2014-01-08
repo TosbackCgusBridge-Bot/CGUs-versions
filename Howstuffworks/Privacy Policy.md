@@ -206,7 +206,7 @@ Some parts of the Sites require that personally identifiable information be subm
 If you have any questions about this privacy policy or our privacy practices, please contact us at privacy\_policy@discovery.com . All information you provide in any written communication will also be covered by this policy.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
+Discovery does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Discovery's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
 Discovery Communications, LLC  
 1 Discovery Place  
