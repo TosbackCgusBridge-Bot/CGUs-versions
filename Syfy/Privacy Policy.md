@@ -259,13 +259,13 @@ Defiance - Season 2 Tease Defiance - Season 2 Tease
 
 Check out the tease for Season 2 of Defiance! Coming this June.
 
+Lost Girl: Lauren Lost Girl: Lauren
+
+Season 4 of Lost Girl premieres January 13th at 8/7c.
+
 Season 1-3 Recap! Season 1-3 Recap!
 
 Season 4 of Lost Girl premieres January 13th at 8/7c. Catch up on three seasons of supernatural seduction and dangerous encounters in less than three minutes on Syfy.com.
-
-Kenzi : Lost Girl Kenzi : Lost Girl
-
-Lost Girl Premieres January 13th at 8/7c
 
 *   FAQ
 *   Feedback
