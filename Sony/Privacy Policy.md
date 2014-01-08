@@ -5,6 +5,7 @@ USA
     *   Our Businesses
     *   Leadership Team
     *   Global Marketing Partners
+    *   Be Moved
 *   Company News
     *   Overview
     *   Press Releases
@@ -114,6 +115,7 @@ Shop Sony About Sony Who We Are
 *   Our Businesses
 *   Leadership Team
 *   Global Marketing Partners
+*   Be Moved
 
 Company News
 
