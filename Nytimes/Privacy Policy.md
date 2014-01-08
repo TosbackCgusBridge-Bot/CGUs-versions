@@ -1,8 +1,8 @@
-*   Just 99¢ for Your first 4 Weeks of a Digital Subscription
+*   Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
     
     Get unlimited access to NYTimes.com and NYTimes apps.
     
-      Get 50% Off 12 Weeks on Home Delivery + Free All-Digital Access
+      Get 50% Off 12 Weeks of Home Delivery and Free All Digital Access
     
     All print options include free unlimited access to NYTimes.com and NYTimes apps.
     
@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Watch Now: In love and traffic
+Search Help Watch Now: How to make spinach salad with prosciutto
 
 Also in Video »
 
-*   Saying farewell to a rock icon
-*   Prepping food and their future
+*   Bill Cunningham: Wonderland
+*   The Read Around: Nikki Giovanni
 
   
 
