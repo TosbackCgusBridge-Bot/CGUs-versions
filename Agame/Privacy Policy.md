@@ -17,7 +17,7 @@ Quickly find your recently played games: we'll add the last 6 games you played t
 *   Skill
 *   Girls
 *   Adventure
-*   Christmas
+*   Multiplayer
 *   More
     *   War Games
     *   Board &. Card
