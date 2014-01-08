@@ -50,15 +50,11 @@ Use of your personal information
 
 MyOffers will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join MyOffers
 
-> "By registering and entering your details you consent to MyOffers and its clients\* sending you information about products and/or services that may be of interest to you.
-> 
-> You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
+> "By registering and entering your details you consent to MyOffers and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
 
-Sponsors of the MyOffers questionnaires have their own privacy policies and some have their own opt-in statements, MyOffers strongly recommends that you read and understand this information.
+Clients of MyOffers may include Commercial, Not for Profit, Research and Political Organisations that may wish to contact you for marketing or other purposes appropriate to the individual organisation. Sponsors of the MyOffers questionnaires have their own privacy policies and some have their own opt-in statements, MyOffers strongly recommends that you read and understand this information.
 
 Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables.
-
-\*clients may include commercial, not for profit, research and political organisations.
 
 General disclosure of personal information
 
