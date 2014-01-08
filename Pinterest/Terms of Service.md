@@ -24,7 +24,7 @@ You can use Pinterest unless you're under 13. Also, if your boss is making you u
 
 2\. Your Content a. Posting content
 
-Pinterest allows you to post content, including photos, comments, and other materials. Anything that you post or otherwise make available on our Products is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to Pinterest.
+Pinterest allows you to post content, including photos, comments, links, and other materials. Anything that you post or otherwise make available on our Products is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to Pinterest.
 
 More simply put:
 
