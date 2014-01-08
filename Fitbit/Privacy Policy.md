@@ -198,7 +198,7 @@ Shop Devices Services
 
 *   Mobile Apps
 *   Premium Reports
-*   App Gallery &. Partners
+*   App Gallery and Partners
 *   Developer APIs
 
 Explore
@@ -214,8 +214,8 @@ Explore
 Help
 
 *   Fitbit Online Help
-*   Returns &. Warranty
-*   Setup &. Downloads
+*   Returns and Warranty
+*   Setup and Downloads
 *   Supported Syncing Devices
 
 Device Help
