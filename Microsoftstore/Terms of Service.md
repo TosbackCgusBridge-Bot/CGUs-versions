@@ -4,7 +4,7 @@ Updated January 2014
 
   
 
-IMPORTANT NOTE: IF YOU LIVE IN THE UNITED STATES, SECTION 26.1 CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER. IT AFFECTS YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE BETWEEN YOU AND MICROSOFT. PLEASE READ IT.
+IMPORTANT NOTE: IF YOU LIVE IN THE UNITED STATES, SECTION 27.1 CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER. IT AFFECTS YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE BETWEEN YOU AND MICROSOFT. PLEASE READ IT.
 
   
 
@@ -91,7 +91,7 @@ Terms Relating to the Sale of Products to You
     
     Any software made available to download or purchase from the Microsoft Store or Services is the copyrighted work of Microsoft and/or its suppliers. When you purchase software, you are actually purchasing a license to use the software rather than purchasing the software itself. Software licenses purchased at the Microsoft Store are subject to the license agreement that accompanies the software (the "License Agreement"). You will be required to agree to the terms and conditions of the License Agreement when you install the software.
     
-    PLEASE CONTACT THE MICROSOFT STORE (AS DESCRIBED IN SECTION 26.5 BELOW) IF YOU WOULD LIKE A COPY OF THE APPLICABLE LICENSE AGREEMENT, AT NO COST, BEFORE YOU OPEN SOFTWARE.
+    PLEASE CONTACT THE MICROSOFT STORE (AS DESCRIBED IN SECTION 27.5 BELOW) IF YOU WOULD LIKE A COPY OF THE APPLICABLE LICENSE AGREEMENT, AT NO COST, BEFORE YOU OPEN SOFTWARE.
     
     Any reproduction or redistribution of software or merchandise not in accordance with the relevant License Agreement and applicable law is expressly prohibited and may result in severe civil and criminal penalties. Violators risk being prosecuted to the maximum extent possible.
     
@@ -123,7 +123,11 @@ Terms Relating to the Sale of Products to You
     
     The Microsoft Store offers different payment options as identified on our Website. We reserve the right to change our payment options at any time and for any reasons.
     
-9.  Return Policy
+9.  Automatic renewal products
+    
+    Provided that automatic renewals are allowed in your country, region, province, or state, you may purchase subscriptions from us that automatically renew. If you purchase such subscription products and provide us with a payment method, you (i) represent that you are authorized to use the payment method that you provided and that any payment information you provide is true and accurate. (ii) authorize Microsoft to charge you for the services using your payment method. and (iii) authorize Microsoft to charge you for any paid feature of the services that you choose to sign up for or use while this agreement is in force. We will inform you by email before automatically renewing any subscription products. Once we have informed you that your subscription will be automatically renewed, we may automatically renew your services and charge you the then current price for the renewal term. We will also remind you that we will bill your chosen payment method for the services renewal, whether it was on file on the renewal date or provided later. We will also provide you with instructions on how you may cancel the services. You must cancel the services before the renewal date to avoid being billed for the renewal.
+    
+10.  Return Policy
     
     The Microsoft Store’s return policy is in addition to any statutory return rights you may have under law. The Microsoft Store accepts returns for eligible items that meet our return criteria for 30 days from the date of purchase. Exceptions are stated below. We reserve the right to deny any return or exchange if it fails to meet our return criteria.
     
@@ -165,7 +169,50 @@ Terms Relating to the Sale of Products to You
         
     *   Trial-period offers. If you are taking part in any trial-period offer, you must cancel the service by the end of the trial period to avoid incurring new charges unless we notify you otherwise. If you do not cancel the service at the end of the trial period, you authorize us to charge your payment method for the service.
         
-10.  Customer Service
+    
+    Additional conditions:
+    
+    *   **Online returns only.**
+        
+        Items ordered from the Website can be returned to or exchanged at Microsoft Retail Stores, but items purchased at Microsoft Retail Stores cannot be returned or exchanged at the Website.
+        
+    *   **Pre-orders.**
+        
+        For pre-order items, the 30-day return period begins:
+        
+        *   For ESDs, when the downloadable product is delivered electronically to your account and made available for download.
+        *   For other products, when the product is shipped.
+    *   **Upgrade option and returns.**
+        
+        If you purchased an otherwise returnable product with an upgrade option, returns will be honored within the return period, and special return procedures apply as follows:
+        
+        *   If you return the product before the upgrade is released, you will not receive the upgrade.
+        *   If you return the product after the upgrade is released, you must return both the product and upgrade together.
+    *   **Promotions and bundles.**
+        
+        For promotional items and bundles, all included products and/or services must be returned together. If a service included in the promotion and/or bundle has been used (for example a used promotional promo code), the full retail value of the service will be deducted from the refund amount. When a bundle is purchased and only part of the bundle is returned, the bundle discount is void, and the total bundle discount will be deducted from the refund.
+        
+    *   **Trial-period offers.**
+        
+        If you are taking part in any trial-period offer, you must cancel the service by the end of the trial period to avoid incurring new charges unless we notify you otherwise. If you do not cancel the service at the end of the trial period, you authorize us to charge your payment method for the service
+        
+    *   **Subscriptions.**
+        
+        Returns for subscriptions will be honored within the return period. TechNet subscriptions may be returned provided they have not been activated. Please see our Subscription Auto Renewal Policy for more information about auto renewal.
+        
+    *   **Price guarantee.**
+        
+        If we lower our price on an item within 30 days of your purchase, we will honor the lower price. If you notice that we have lowered a price on an item you recently purchased, just contact Sales and Support and we’ll gladly issue a refund or credit for the difference (if you paid with a credit card, you’ll need to use the same card). This offer does not apply to clearance items or price reductions associated with special sale events such as Black Friday or Cyber Monday.
+        
+    *   **Restocking fee.**
+        
+        A restocking fee of ten percent (10%) may be deducted from the refund amount for hardware products (such as non-defective computers, printers, and Xbox returns).
+        
+    *   **Personal data.**
+        
+        Microsoft is not responsible for any personal data included on returned or exchanged items. Please ensure that your personal data is removed from all items prior to return or exchange.
+        
+11.  Customer Service
     
     Please visit our Sales and Support page for more information about customer service
     
@@ -210,18 +257,18 @@ Terms Relating to Both Your Use of the Microsoft Store and Sales to You
     
 
 1.  General Legal Terms Including Binding Arbitration and Class Action Waiver
-    1.  ARBITRATION AND CLASS ACTION WAIVER IF YOU LIVE IN THE UNITED STATES. This Section 26.1 applies to any dispute EXCEPT THAT IT DOES NOT INCLUDE A DISPUTE RELATING TO THE ENFORCEMENT OR VALIDITY OF YOUR, MICROSOFT’S, OR EITHER OF OUR LICENSOR’S INTELLECTUAL PROPERTY RIGHTS. “Dispute” means any dispute, action, or other controversy between you and Microsoft concerning the Microsoft Store, the Services, this Contract, or any product or service offered, whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis. "Dispute" will be given the broadest possible meaning allowable under law.
+    1.  ARBITRATION AND CLASS ACTION WAIVER IF YOU LIVE IN THE UNITED STATES. This Section 27.1 applies to any dispute EXCEPT THAT IT DOES NOT INCLUDE A DISPUTE RELATING TO THE ENFORCEMENT OR VALIDITY OF YOUR, MICROSOFT’S, OR EITHER OF OUR LICENSOR’S INTELLECTUAL PROPERTY RIGHTS. “Dispute” means any dispute, action, or other controversy between you and Microsoft concerning the Microsoft Store, the Services, this Contract, or any product or service offered, whether in contract, warranty, tort, statute, regulation, ordinance, or any other legal or equitable basis. "Dispute" will be given the broadest possible meaning allowable under law.
         1.  Notice of Dispute. In the event of a dispute, you or Microsoft must give the other a Notice of Dispute, which is a written statement that sets forth the name, address and contact information of the party giving it, the facts giving rise to the dispute, and the relief requested. You must send any Notice of Dispute by U.S. Mail to Microsoft Corporation, ATTN: LCA ARBITRATION, One Microsoft Way, Redmond, WA 98052-6399. A form is available at http://go.microsoft.com/fwlink/?linkid=245499. Microsoft will send any Notice of Dispute to you by U.S. Mail to your address if we have it, or otherwise to your e-mail address. You and Microsoft will attempt to resolve any dispute through informal negotiation within 60 days from the date the Notice of Dispute is sent. After 60 days, you or Microsoft may commence arbitration.
         2.  Small Claims Court. You may also litigate any dispute in small claims court in your county of residence or King County, Washington, if the dispute meets all requirements to be heard in the small claims court. You may litigate in small claims court whether or not you negotiated informally first.
         3.  Binding Arbitration. IF YOU AND MICROSOFT DO NOT RESOLVE ANY DISPUTE BY INFORMAL NEGOTIATION OR IN SMALL CLAIMS COURT, ANY OTHER EFFORT TO RESOLVE THE DISPUTE WILL BE CONDUCTED EXCLUSIVELY BY BINDING ARBITRATION. You are giving up the right to litigate (or participate in as a party or class member) all disputes in court before a judge or jury. Instead, all disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right of appeal under the Federal Arbitration Act. Any court with jurisdiction over the parties may enforce the arbitrator’s award.
         4.  Class Action Waiver. ANY PROCEEDINGS TO RESOLVE OR LITIGATE ANY DISPUTE IN ANY FORUM WILL BE CONDUCTED SOLELY ON AN INDIVIDUAL BASIS. NEITHER YOU NOR MICROSOFT WILL SEEK TO HAVE ANY DISPUTE HEARD AS A CLASS ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR IN ANY OTHER PROCEEDING IN WHICH EITHER PARTY ACTS OR PROPOSES TO ACT IN A REPRESENTATIVE CAPACITY. NO ARBITRATION OR PROCEEDING WILL BE COMBINED WITH ANOTHER WITHOUT THE PRIOR WRITTEN CONSENT OF ALL PARTIES TO ALL AFFECTED ARBITRATIONS OR PROCEEDINGS.
         5.  Arbitration Procedure, Costs and Fees. Any arbitration will be conducted by the American Arbitration Association (the “AAA”) under its Commercial Arbitration Rules and in many cases its Supplementary Procedures for Consumer-Related Disputes. For more information, see www.adr.org or call 1-800-778-7879. In a dispute involving $75,000 or less, Microsoft will promptly reimburse your filing fees and pay the AAA’s and arbitrator’s fees. You and Microsoft agree to the terms governing procedures, fees, and incentives at http://go.microsoft.com/fwlink/?LinkId=279535. To commence arbitration, submit the form available at go.microsoft.com/fwlink/?linkid=245497 to the AAA. You agree to commence arbitration only in your county of residence or in King County, Washington. Microsoft agrees to commence arbitration only in your county of residence.
-        6.  Claims or Disputes Must Be Filed Within One Year. To the extent permitted by law, any claim or dispute relating to the Microsoft Store, the Services, this Contract, or any product or service offered must be filed within one year in small claims court (Section 26.1.2), an arbitration proceeding (Section 26.1.3), or in court, if Section 26.1 permits the dispute to be filed in court instead of arbitration. The one-year period begins when the claim or Notice of Dispute first could be filed. If a claim or dispute is not filed within one year, it is permanently barred.
-        7.  Rejecting Future Arbitration Changes. You may reject any change Microsoft makes to Section 26.1 (other than address changes) by sending us notice within 30 days of the change by U.S. Mail to the address in Section 26.1.1. If you do, the most recent version of Section 26.1 before the change you rejected will apply.
-        8.  Severability. If the class action waiver in Section 26.1.4 is found to be illegal or unenforceable as to all or some parts of a dispute, then Section 26.1 will not apply to those parts. Instead, those parts will be severed and proceed in a court of law, with the remaining parts proceeding in arbitration. If any other provision of Section 26.1 is found to be illegal or unenforceable, that provision will be severed with the remainder of Section 26.1 remaining in full force and effect.
+        6.  Claims or Disputes Must Be Filed Within One Year. To the extent permitted by law, any claim or dispute relating to the Microsoft Store, the Services, this Contract, or any product or service offered must be filed within one year in small claims court (Section 27.1.2), an arbitration proceeding (Section 27.1.3), or in court, if Section 27.1 permits the dispute to be filed in court instead of arbitration. The one-year period begins when the claim or Notice of Dispute first could be filed. If a claim or dispute is not filed within one year, it is permanently barred.
+        7.  Rejecting Future Arbitration Changes. You may reject any change Microsoft makes to Section 27.1 (other than address changes) by sending us notice within 30 days of the change by U.S. Mail to the address in Section 27.1.1. If you do, the most recent version of Section 27.1 before the change you rejected will apply.
+        8.  Severability. If the class action waiver in Section 27.1.4 is found to be illegal or unenforceable as to all or some parts of a dispute, then Section 27.1 will not apply to those parts. Instead, those parts will be severed and proceed in a court of law, with the remaining parts proceeding in arbitration. If any other provision of Section 27.1 is found to be illegal or unenforceable, that provision will be severed with the remainder of Section 27.1 remaining in full force and effect.
     2.  Interpreting the Contract
         
-        All parts of this Contract apply to the maximum extent permitted by the relevant law. you may have greater rights in your jurisdiction of residence. If it is determined that we can’t enforce a part of this Contract as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of this Contract won’t change. Section 26.1.8 says what happens if parts of Section 26.1 (arbitration and class action waiver) are found to be illegal or unenforceable, and prevails over this Section 26.2 if inconsistent with it. Other terms may apply if you purchase products or services from other Microsoft websites.
+        All parts of this Contract apply to the maximum extent permitted by the relevant law. you may have greater rights in your jurisdiction of residence. If it is determined that we can’t enforce a part of this Contract as written, we may replace those terms with similar terms to the extent enforceable under the relevant law, but the rest of this Contract won’t change. Section 27.1.8 says what happens if parts of Section 27.1 (arbitration and class action waiver) are found to be illegal or unenforceable, and prevails over this Section 27.2 if inconsistent with it. Other terms may apply if you purchase products or services from other Microsoft websites.
         
     3.  Assignment
         
@@ -233,7 +280,7 @@ Terms Relating to Both Your Use of the Microsoft Store and Sales to You
         
     5.  Notices and Communication
         
-        For customer support inquiries, please see the Sales and Support page on the Website. For disputes, follow the notice procedure in Section 26.1.
+        For customer support inquiries, please see the Sales and Support page on the Website. For disputes, follow the notice procedure in Section 27.1.
         
     6.  Governing Law
         
@@ -243,13 +290,6 @@ Terms Relating to Both Your Use of the Microsoft Store and Sales to You
 1.  Notices
     
     Notifications of claimed copyright infringement should be sent to Microsoft's designated agent. For details and contact information, see Notice and Procedure for Making Claims of Copyright Infringement at: http://www.microsoft.com/info/cpyrtInfrg.htm. INQUIRIES THAT ARE SUBMITTED BUT ARE NOT RELEVANT TO THE PROCEDURE WILL RECEIVE NO RESPONSE.
-    
-      
-    
-
-1.  Automatic renewal products
-    
-    Provided that automatic renewals are allowed in your country, province, or state, you may purchase subscriptions from us that automatically renew. If you purchase such subscription products and provide us with a payment method, you (i) represent that you are authorized to use the payment method that you provided and that any payment information you provide is true and accurate. (ii) authorize Microsoft to charge you for the services using your payment method. and (iii) authorize Microsoft to charge you for any paid feature of the services that you choose to sign up for or use while this agreement is in force. We will inform you by email before automatically renewing any subscription products. Once we have informed you that your subscription will be automatically renewed, we may automatically renew your services and charge you the then current price for the renewal term. We will also remind you that we will bill your chosen payment method for the services renewal, whether it was on file on the renewal date or provided later. We will also provide you with instructions on how you may cancel the services. You must cancel the services before the renewal date to avoid being billed for the renewal.
     
       
     
