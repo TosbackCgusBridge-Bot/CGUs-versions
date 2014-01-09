@@ -2,7 +2,7 @@ Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1)
 
 *   Home |
 *   Portfolio |
-*   Market Currents |
+*   Breaking News |
 *   Investing Ideas |
 *   Dividends &. Income |
 *   ETFs |
@@ -10,7 +10,7 @@ Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1)
 *   Home |
 *   My Portfolio |
 *   Breaking News |
-*   Latest Analysis |
+*   Most Popular |
 *   Top Ideas |
 *   StockTalk |
 *   ALERTS |
@@ -100,4 +100,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: November 25, 2012_
 
-TOP AUTHORS: The Opinion Leaders TOP USERS: StockTalkers | Instablogs Follow us Follow us Mobile Apps  |      RSS Feeds  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2013 Seeking Alpha
+TOP AUTHORS: The Opinion Leaders TOP USERS: StockTalkers | Instablogs Follow us Follow us Mobile Apps  |      RSS Feeds  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2014 Seeking Alpha
