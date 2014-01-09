@@ -240,9 +240,10 @@ Does this answer your question? Tells us how you think we can make this answer m
 *   Privacy/
 *   CA Privacy Rights/
 *   CA Transparency in Supply Chains Act/
+*   Customers' Bill of Rights/
 *   Visually Impaired Customers/
 
 *   Essential Accessibility
 
   
-© 2013 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
+© 2014 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
