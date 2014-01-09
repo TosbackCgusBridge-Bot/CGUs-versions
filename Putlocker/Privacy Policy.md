@@ -67,7 +67,7 @@ No information should be submitted to, or posted at, the Site by visitors under 
 
   9. Removal of Your Information/Opting Out
 
-At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing us at privacy@PutLocker.com. However, deleting your Personal Information, or otherwise opting-out of receipt of communications from us or third parties, will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your Personal Information that they may be using to contact you.
+At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing us at \[email protected\] However, deleting your Personal Information, or otherwise opting-out of receipt of communications from us or third parties, will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your Personal Information that they may be using to contact you.
 
   10. Your Acceptance of these Terms
 
@@ -79,4 +79,4 @@ Our business changes constantly and our UK Privacy Policy may also change from t
   
 For any inquiries you may contact us at +44 0121 288 3422 Contacting Us about Privacy Questions or Concerns
 
-If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at privacy@PutLocker.com
+If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, please e-mail us at \[email protected\]
