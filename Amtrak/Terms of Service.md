@@ -57,7 +57,7 @@ Amtrak makes no claim or representation regarding, and accepts no responsibility
 
 Making Purchases
 
-If you wish to purchase products or services described on the Site, you will be asked by Amtrak or the third party provider of the product or service to supply certain information applicable to your purchase, including, without limitation, credit card and other information. You understand that any such information will be treated by Amtrak in the manner described in our Privacy Policy, which can be found by clicking on the link marked “Privacy &. Security” on the www.amtrak.com home page. You agree that all information that you provide to Amtrak or such third party provider will be accurate, current and complete. You agree to pay all charges incurred by you or any users of your account and credit card (or other applicable payment mechanism) at the price(s) in effect when such charges are incurred. You will also be responsible for paying any applicable taxes relating to your purchases.
+If you wish to purchase products or services described on the Site, you will be asked by Amtrak or the third party provider of the product or service to supply certain information applicable to your purchase, including, without limitation, credit card and other information. You understand that any such information will be treated by Amtrak in the manner described in our Privacy Policy. You agree that all information that you provide to Amtrak or such third party provider will be accurate, current and complete. You agree to pay all charges incurred by you or any users of your account and credit card (or other applicable payment mechanism) at the price(s) in effect when such charges are incurred. You will also be responsible for paying any applicable taxes relating to your purchases.
 
 Descriptions or images of, or references to, products or services on the Site do not imply Amtrak's endorsement of such products or services. We reserve the right, without prior notification, to change such descriptions or references, to limit the order quantity on any product or service and/or to refuse service to you. Verification of information applicable to a purchase may be required prior to Amtrak's acceptance of any order. Price and availability of any product or service are subject to change without notice. Current rates for any product or service available through the Site are displayed on the Site.
 
@@ -81,7 +81,7 @@ Washington, DC 20002
 
 We suggest that you consult your legal advisor before filing a notice or counter-notice. Also, be aware that there can be penalties for false claims under the DMCA.
 
-For all communications which are NOT concerning a legal matter, please use our online form to"Contact Us."
+For all communications which are NOT concerning a legal matter, please use our online form to Contact Us.
 
 Trademarks
 
