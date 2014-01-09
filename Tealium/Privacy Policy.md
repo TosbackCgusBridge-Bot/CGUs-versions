@@ -277,4 +277,4 @@ Founded in 2008, Tealium is the leader in enterprise tag management and digital 
 *   Terms of Use
 *   Privacy Policy
 
-Copyright © 2014 Tealium. All Rights Reserved.
+Copyright © 2014 Tealium. All rights reserved. Tealium, Tealium iQ, and AudienceStream are trademarks of Tealium, Inc. All other trademarks cited here are the property of their respective owners.
