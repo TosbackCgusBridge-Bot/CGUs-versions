@@ -91,29 +91,29 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Frankreich verhängt Geldstrafe gegen Google
+*   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
+*   Facebook kauft indisches Startup Little Eye Labs
+*   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
 *   Spannungen in der Koalition wegen Vorratsdatenspeicherung
 *   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
 *   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
 *   Vorratsdatenspeicherung: Heiko Maas erhält Rüffel von Thomas de Maiziere
+
+weniger Artikel weniger Artikel
+
 *   Schwarz-Rot will Streit zu Vorratsdaten bei Kabinettsklausur klären
 *   Justizministerin will bei Vorratsdatenspeicherung abwarten
 *   Neues Gerangel um Vorratsdatenspeicherung - Innenressort drängelt
 *   Innenministerium dringt auf Gesetz zur Vorratsdatenspeicherung
-
-weniger Artikel weniger Artikel
-
 *   Auch Schwarz-Rot streitet jetzt über Vorratsdatenspeicherung
 *   SPD-Justizminister legt Vorratsdatenspeicherung auf Eis
-*   Facebook von Nutzer verklagt: Spioniert Facebook Nachrichten aus?
 *   Snapchat schweigt nach massivem Hack von Nutzerdaten
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
 *   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
 *   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
 *   Polizei hat in Rockerdatei über 1000 Personen gespeichert
-*   Google in Spanien zu Geldstrafe verurteilt
-*   Hasse will Amtshilfe im Aktenskandal notfalls vor Gericht erstreiten
-*   Wie sorgt die Telekom für Datenschutz im Business Marketplace?
 
 *   Kundencenter
 *   Preise und AGB
