@@ -1,6 +1,6 @@
 Updated August 2013
 
-**Ziff Davis, Inc. Privacy Policy**
+**Ziff Davis, LLC. Privacy Policy**
 
 This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
