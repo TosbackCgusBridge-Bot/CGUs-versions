@@ -3,7 +3,7 @@
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
 
-1 Hello redditors and people of the Internet! We want you to know your rights and our rights and so we have prepared this agreement ("user agreement" or "agreement") between reddit ("we", "our," "us") and you. This agreement sets the terms of your use of the reddit website and services ("reddit") that include subreddits, communities, boards, forums, chats, reddit.tv, and tons of other greatness. This agreement is meant to encourage a fair and tolerant place for ideas, people, links, and discussion.
+1 Hello redditors and people of the Internet! We want you to know your rights and our rights and so we have prepared this agreement ("user agreement" or "agreement") between reddit ("we", "our," "us") and you. This agreement sets the terms of your use of the reddit website and services ("reddit") that include subreddits, messenging, and reddit.tv. This agreement is meant to encourage a fair and tolerant place for ideas, people, links, and discussion.
 
 2 We also operate redditgifts, which has its own terms that you should read here.
 
@@ -19,7 +19,7 @@ your access to reddit
 
 reddit is for your personal, lawful use
 
-6 reddit is for personal use only. You may not use reddit to break the law, violate an individual's privacy, or infringe any person or entity’s intellectual property or any other proprietary rights.
+6 reddit is designed and supported for personal use only. You may not use reddit to break the law, violate an individual's privacy, or infringe any person or entity’s intellectual property or any other proprietary rights.
 
 reddit is for fun
 
@@ -37,11 +37,11 @@ your reddit account
 
 11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
 
-12 You may not authorize others to use Your Account, and you may not license, transfer, sell, or assign it without our written approval.
+12 You may not license, transfer, sell, or assign Your Account without our written approval.
 
 reddit gold
 
-13 You may also join reddit gold, our premium membership program, by paying a monthly or annual fee, or if someone gifts you a membership. This user agreement applies to reddit gold members. reddit gold does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change in the future.
+13 You may also join our premium membership program, reddit gold, by paying a monthly or annual fee, or if someone gifts you a membership. This user agreement applies to reddit gold members. reddit gold does not confer any benefits other than those listed here, it is not currency, it is a membership-based service, and its features are subject to change in the future.
 
 payment information
 
@@ -76,7 +76,7 @@ reddit rules your participation on reddit
 23 These guidelines are intended to keep people safe, protect kids, keep reddit running, and to encourage personal responsibility for what you do on reddit. You must:
 
 *   **Keep Everyone Safe**: You agree to not intentionally jeopardize the health and safety of others or yourself.
-*   **Keep Personal Information Off reddit**: You agree not to post anyone's sensitive personal information that relates to that person's real world or online identity.
+*   **Keep Personal Information Off reddit**: You agree to not post anyone's sensitive personal information that relates to that person's real world or online identity.
 *   **Do Not Incite Harm**: You agree not to encourage harm against people.
 *   **Protect Kids**: You agree not to post any child pornography or sexually suggestive content involving minors.
 *   **Take Personal Responsibility**: As you use reddit, please remember that your speech may have consequences and could lead to criminal and civil liability.
@@ -177,7 +177,7 @@ governing law
 
 49 The headings in this agreement are for convenience and do not control any of its provisions.
 
-50 _Any claim or dispute between you and us arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the State of California without respect to its conflict of laws provisions. We agree and you agree to submit to the personal jurisdiction and venue of a state and federal court located in San Francisco County, California._
+50 _Any claim or dispute between you and us arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the State of California without respect to its conflict of laws provisions. We agree and you agree to submit to the personal jurisdiction and venue of the state and federal court located in San Francisco County, California._
 
 severability and enforcement
 
