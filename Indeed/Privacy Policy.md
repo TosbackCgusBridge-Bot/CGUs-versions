@@ -127,6 +127,10 @@ Indeed Inc. complies with the US-EU/Swiss Safe Harbor Framework as set forth by 
 
 Residents of the European Economic Area and Switzerland have a right of access to their data. If you wish to access such data, please send a certified letter to the above address with a copy of your passport or national identity card (for identity verification purposes) and the same will be provided to you. There may be a charge for such a request (which will not be higher than applicable law permits). European Economic Area and Switzerland residents also have a right, if their personal data is inaccurate, of rectification, erasure or blocking of such inaccurate personal data. You may edit your resume free of charge (if there is an inaccuracy or otherwise), by following procedures set forth on the Indeed Website. If your personal data is inaccurate, you may alternatively request Indeed to rectify, erase or block the data by sending a certified letter, with a copy of your passport or national identity card (for identity verification purposes), to the above address with the exact nature of the requested action.
 
+**12\. Do Not Track Requests**
+
+We do not respond to the browser “Do Not Track” (DNT) signal if enabled by the user in their web browser. When we set or read cookies on non-Indeed sites that have integrated our job search and display features, we do so in order to provide a personalized job search experience to users on those sites. We do not share any information about your use of Indeed with those third-parties. When third-parties that we have integrated into Indeed sites (as described in the Indeed Cookie Policy) set or read their own third-party cookies, they may or may not respond to the DNT signal.
+
 **Indeed Terms of Service**
 
 *   Indeed General Terms of Service
