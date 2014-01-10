@@ -4,7 +4,6 @@
 **Privacy Policy**  
 **Terms &. Conditions**  
 
-   
 **Protecting Your Privacy**  
 adidas America, Inc. ("adidas" or "we", "us", or "our") is strongly committed to protecting the privacy of your personal information collected at or in connection with an adidas website. This Online Privacy Policy (the “Policy”) applies to those adidas websites that display or link to this Policy (including adidas.com/us, miadidas.com/us, and adidas.com and referred to in this Policy as the "Website"). This Policy applies to data collected by adidas through its Websites and services that display these terms. It does not apply to those adidas sites, services and products that do not display or link to this Policy or that have their own privacy policies.
 
@@ -63,7 +62,7 @@ Through your use of our Website, we may also gather certain information that doe
 
 We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.
 
-Like many websites, we use "cookies", files stored on your computer's hard drive by your browser, to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. You may occasionally get Cookies from companies advertising on our behalf. We do not control these Cookies, and these Cookies are not subject to our Website.
+Like many websites, we use "cookies", files stored on your computer's hard drive by your browser, to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. You may occasionally get cookies from companies advertising on our behalf to tailor advertisements shown to you for goods and services. We do not control these cookies, and these cookies are not subject to our Website. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Website enable you to opt out of this type of advertising. For more information about third party cookies, including information about how to opt out of these technologies, visit http://www.networkadvertising.org/managing/opt\_out.asp.  
 
 **How is information collected from children?**
 
@@ -116,9 +115,13 @@ Please remember that any information you share in public areas, such as message 
 We provide you with several opportunities to opt-out of receiving our promotional communications and newsletters, including:
 
 *   At the time we request information from you;
+    
 *   When you set up an account, or place an order;
+    
 *   By clicking on "Manage Your Account". and
+    
 *   By following the "unsubscribe" or "preference center" instructions contained in our promotional communications.
+    
 
 **Applicable Law and Jurisdiction**
 
@@ -138,7 +141,7 @@ Attn: Legal Privacy Policy
 
 5055 N Greeley Ave
 
-Portland, OR 97217
+Portland, OR 97217  
 
 If you have a question regarding a product or service, please contact Customer Service by e-mail customerservice@service.shopadidas.com.
 
@@ -154,7 +157,7 @@ For European Union and Swiss residents, any questions or concerns regarding the 
 
 To return to the Website, please use the "Back" button on your browser.
 
-REV: 12/28/2012
+REV: 12/28/2013
 
 **Terms &. Conditions**
 
