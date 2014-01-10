@@ -9,7 +9,7 @@ Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on October 14, 2013_
+_Last Updated on January 9, 2014_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times) The New York Times Home Delivery Web site, The New York Times Neediest Cases Fund, Times Skimmer, Times Reader, The New York Times Store and The New York Times Learning Network, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help House hunting near ... the Jura Mountains
+Search Help Watch Now: Vintage style in Brooklyn Heights
 
-Also in Real Estate »
+Also in Video »
 
-*   A green oasis at the heart of a concrete jungle
-*   A table-to-farm pioneer
+*   ScienceTake: How to control starfish
+*   How to make flaming baba au rhum
 
   
 
