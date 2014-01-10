@@ -1,7 +1,7 @@
 **Terms of Use**  
 Welcome to the Journeys Web Site ("Site"). The Site reflects the family of brands including Journeys, Journeys Kidz and Shi by Journeys (collectively “Journeys”).Please review the following basic rules that govern your use of our Site (the "Agreement"). Please note that your use of our Site means that you agree to these rules.  
   
-This Privacy Policy was lasted updated on: January 18, 2012.  
+This Privacy Policy was lasted updated on: January 09, 2014.  
   
 **Changes to Privacy Policy**  
 We may from time to time change these rules. We will notify users of the Site of any changes by posting the revised policy reflecting them with a new effective date on this page. Your use of our Site following any such change means that you agree to the rules as changed. These rules--specifically including the "Customer Information Policy", "Use of Cookies", "Use of IP Addresses", and "Security" paragraphs below--apply to this website only and not to any other website or business activity of Genesco Inc. or any of its divisions, including Journeys, Journeys Kidz and/or Shi by Journeys.  
@@ -48,11 +48,15 @@ International Checkout:
 Journeys allows international shoppers to obtain our products through the use of International Checkout.  When a customer on the Site chooses the International Checkout option, the products in the Site's shopping cart are transferred to an International Checkout cart.  The transaction then takes place completely on the InternationalCheckout.com website.  
   
 **Your California Privacy Rights**  
-California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either journeysremove@genesco.com or Genesco Retail Direct, Genesco Inc., 1415 Murfreesboro Rd, Suite 503, Nashville, TN 37217 and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty days of receipt.  
+California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either journeysremove@genesco.com or Genesco Retail Direct, Genesco Inc., 1415 Murfreesboro Rd, Suite 503, Nashville, TN 37217 and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty days of receipt.
+
+**How We Respond to a "Do Not Track" Signal from Your Browser**  
+Currently, this site does not respond to "Do Not Track" signals from your browser.   
   
-**Use Of Cookies**  
-What is a cookie? A cookie is a piece of information that is sent to your computer's hard drive to help our site recognize you when you return to our Site. Cookies are used as a standard practice by many sites. An example of how we use this function could be if you started to place items in your shopping cart, but then for some reason had to leave our Site or shut off your computer. When you return to our Site, the cookie would enable our Site to recognize that you have returned and all the items you placed in your cart during an earlier session would still be in your shopping cart.  
-  
+
+**Use Of Cookies  
+**What is a cookie? A cookie is a piece of information that is sent to your computer's hard drive to help our site recognize you when you return to our Site. Cookies are used as a standard practice by many sites. An example of how we use this function could be if you started to place items in your shopping cart, but then for some reason had to leave our Site or shut off your computer. When you return to our Site, the cookie would enable our Site to recognize that you have returned and all the items you placed in your cart during an earlier session would still be in your shopping cart. 
+
 We also use cookies to determine the number of people that come to our Site. It is important for us to understand the number of new customers using our Site. When your computer accepts the cookie, we are able to record that session as a new visitor to our Site.  
   
 As important as cookies are to our Site, we understand that this might make you uncomfortable. If you would prefer to not accept cookies from ours or any other Site, you can modify the setting on your specific web browser to not accept them. Please refer to your browser's online help feature or the user's manual for instructions on how to do this.  
