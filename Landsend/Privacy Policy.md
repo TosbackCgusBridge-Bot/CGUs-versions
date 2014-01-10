@@ -32,6 +32,7 @@ $5 More for UPS 2 Day
 *   Women
     *   *   Shoes &. Boots
         *   Swim Shop
+        *   Performance Collection
         *   Canvas Lands' End
         
         *   Featured Shops
@@ -59,13 +60,13 @@ $5 More for UPS 2 Day
         *   Skirts
         *   Blazers &. Jackets
         *   Swimsuits
+        *   Activewear
         *   Hats, Gloves &. Scarves
         *   Sleepwear
         *   Shoes
         *   Socks, Tights &. Underwear
         *   Accessories
         *   Totes
-        *   Activewear
 *   Men
     *   *   Made to Work
         *   Shoes &. Boots
