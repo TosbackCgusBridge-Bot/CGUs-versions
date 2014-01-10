@@ -1,4 +1,9 @@
-Apps Games News Features Answers Videos
+*   Apps
+*   Games
+*   News
+*   Features
+*   Answers
+*   Videos
 
 *   Search
 *   Login
