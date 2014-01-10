@@ -1,6 +1,6 @@
 *   **PagesJaunes**
 *   PagesBlanches
-*   PagesPro
+*   De pros à pros
 
 *   Annuaire  
     inversé
@@ -66,6 +66,7 @@
             toutes nos solutions
         *   Modifiez et enrichissez gratuitement  
             vos informations
+        *   Créez votre Site Internet professionnel avec PagesJaunes
     
     *   Utilisez PagesJaunes en mobilité
         *   Mobile
