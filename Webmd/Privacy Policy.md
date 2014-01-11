@@ -36,7 +36,7 @@ Symptoms| Doctors| Health Care Reform
     
     See what your medical symptoms could mean, and learn about possible conditions.
     
-    Learn More
+    Get Started
     
     Resources
     
@@ -58,7 +58,7 @@ Symptoms| Doctors| Health Care Reform
     
     *   Find or Review a Drug
     *   Find or Review a Vitamin or Supplement
-    *   Save My Medicine
+    *   Check for Drug Interactions
     
     Drug Basics &. Safety
     
@@ -72,11 +72,11 @@ Symptoms| Doctors| Health Care Reform
     
     Enter the shape, color, or imprint of your prescription or OTC drug. Our pill identification tool will display pictures that you can compare to your pill.
     
-    Learn More WebMD Interaction Checker
+    Get Started WebMD My Medicine
     
-    Check your Rx, OTC and herbal medications for interactions. Be sure your drug regimen is safe.
+    Save your medicine, check interactions, sign up for FDA alerts, create family profiles and more.
     
-    Learn More
+    Get Started
     
     Drug News
     
