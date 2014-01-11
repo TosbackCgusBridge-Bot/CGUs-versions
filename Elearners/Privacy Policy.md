@@ -196,7 +196,6 @@ Popular Topics:
 *   Online Colleges
 *   Online Degrees
 *   Online Courses
-*   Campus Schools
 
 Online Degrees By Level
 
