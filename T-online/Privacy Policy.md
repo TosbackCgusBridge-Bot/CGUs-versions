@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Facebook-Video über Paul Walker startet durch
+*   Facebook-Video mit Mädchen-Angriff auf 13-Jährige beschäftigt Justiz
+*   Regierungschefin will Antwortverbot für Facebook zurückdrehen
 *   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
 *   Frankreich verhängt Geldstrafe gegen Google
 *   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
 *   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
 *   Spannungen in der Koalition wegen Vorratsdatenspeicherung
 *   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
-*   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
 
 weniger Artikel weniger Artikel
 
+*   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
 *   Vorratsdatenspeicherung: Heiko Maas erhält Rüffel von Thomas de Maiziere
 *   Schwarz-Rot will Streit zu Vorratsdaten bei Kabinettsklausur klären
 *   Justizministerin will bei Vorratsdatenspeicherung abwarten
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
 *   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
 *   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
-*   Neue Datenschützerin: Andrea Voßhoff verlässt Facebook und Twitter
 
 *   Kundencenter
 *   Preise und AGB
