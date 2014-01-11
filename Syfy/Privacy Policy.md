@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Season 1-3 Recap! Season 1-3 Recap!
+Syfy Video Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
+
+Dominion is where heaven meets hell. Premering on Syfy, June 2014.
+
+Defiance - Season 2 Tease Defiance - Season 2 Tease
+
+Check out the tease for Season 2 of Defiance! Coming this June.
+
+Season 1-3 Recap! Season 1-3 Recap!
 
 Season 4 of Lost Girl premieres January 13th at 8/7c. Catch up on three seasons of supernatural seduction and dangerous encounters in less than three minutes on Syfy.com.
 
 Season 4 Preview with Ksenia Solo Season 4 Preview with Ksenia Solo
 
 Get a preview of Lost Girl Season 4 with Ksenia Solo! Season 4 premiers Monday Jan 13 at 8/7c.
-
-Lost Girl: Lauren Lost Girl: Lauren
-
-Season 4 of Lost Girl premieres January 13th at 8/7c.
-
-Lost Girl: Season 4 Premieres January 13 at 8 ... Lost Girl: Season 4 Premieres January 13 at 8/7c
-
-Season premiere of Lost Girl, Monday January 13th at 8/7c.
 
 *   FAQ
 *   Feedback
