@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Vorratsdatenspeicherung: Innenminister uneins mit Maas
+*   Vorratsdatenspeicherung führt zu Streit
 *   Facebook-Video mit Mädchen-Angriff auf 13-Jährige beschäftigt Justiz
 *   Regierungschefin will Antwortverbot für Facebook zurückdrehen
 *   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
 *   Frankreich verhängt Geldstrafe gegen Google
 *   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
 *   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
-*   Spannungen in der Koalition wegen Vorratsdatenspeicherung
-*   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
 
 weniger Artikel weniger Artikel
 
+*   Spannungen in der Koalition wegen Vorratsdatenspeicherung
+*   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
 *   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
 *   Vorratsdatenspeicherung: Heiko Maas erhält Rüffel von Thomas de Maiziere
 *   Schwarz-Rot will Streit zu Vorratsdaten bei Kabinettsklausur klären
@@ -112,8 +114,6 @@ weniger Artikel weniger Artikel
 *   SPD-Justizminister legt Vorratsdatenspeicherung auf Eis
 *   Snapchat schweigt nach massivem Hack von Nutzerdaten
 *   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
-*   Spaziergänger findet weitere Briefe der Oberfinanzdirektion
-*   Snowden hält Weihnachtsansprache: Die Lage sei schlimmer als "1984"
 
 *   Kundencenter
 *   Preise und AGB
