@@ -38,7 +38,9 @@ c)    Spokeo reserves the right to disclose Personal Information to third par
 
 d)    Spokeo reserves the right to transfer Personal Information to any successor in interest to the Spokeo business.
 
-e)    The Privacy Policy describes Spokeo’s handling of personally identifiable information as required by the California Online Privacy Protection Act.
+e)    Spokeo (either directly or via its third party partners) collects anonymized session and anonymized click-tracking data regardless of a computer's Do-Not-Track signal.
+
+f)    The Privacy Policy describes Spokeo’s handling of personally identifiable information as required by the California Online Privacy Protection Act.
 
 **4.    Children’s Privacy**
 
