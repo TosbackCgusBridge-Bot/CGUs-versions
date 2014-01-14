@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
+*   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
 *   Vorratsdatenspeicherung: Innenminister uneins mit Maas
 *   Vorratsdatenspeicherung führt zu Streit
 *   Facebook-Video mit Mädchen-Angriff auf 13-Jährige beschäftigt Justiz
 *   Regierungschefin will Antwortverbot für Facebook zurückdrehen
 *   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
 *   Frankreich verhängt Geldstrafe gegen Google
-*   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
-*   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
 
 weniger Artikel weniger Artikel
 
+*   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
+*   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
 *   Spannungen in der Koalition wegen Vorratsdatenspeicherung
 *   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
 *   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
@@ -112,8 +114,6 @@ weniger Artikel weniger Artikel
 *   Innenministerium dringt auf Gesetz zur Vorratsdatenspeicherung
 *   Auch Schwarz-Rot streitet jetzt über Vorratsdatenspeicherung
 *   SPD-Justizminister legt Vorratsdatenspeicherung auf Eis
-*   Snapchat schweigt nach massivem Hack von Nutzerdaten
-*   Dreimal Behördenbriefe gefunden: Polizei prüft Zusammenhänge
 
 *   Kundencenter
 *   Preise und AGB
