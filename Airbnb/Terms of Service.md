@@ -182,7 +182,7 @@ You understand and agree that you are solely responsible for compliance with any
 Airbnb will have the right to investigate and prosecute violations of any of the above to the fullest extent of the law. Airbnb may involve and cooperate with law enforcement authorities in prosecuting users who violate these Terms. You acknowledge that Airbnb has no obligation to monitor your access to or use of the Site, Application, Services or Collective Content or to review or edit any Member Content, but has the right to do so for the purpose of operating the Site, Application and Services, to ensure your compliance with these Terms, or to comply with applicable law or the order or requirement of a court, administrative agency or other governmental body. Airbnb reserves the right, at any time and without prior notice, to remove or disable access to any Collective Content that Airbnb, at its sole discretion, considers to be objectionable for any reason, in violation of these Terms or otherwise harmful to the Site, Application or Services.  
 **Privacy**
 
-See Airbnb’s Privacy Policy at http://www.airbnb.com/home/terms and for information and notices concerning Airbnb’s collection and use of your personal information.
+See Airbnb’s Privacy Policy at http://www.airbnb.com/terms and for information and notices concerning Airbnb’s collection and use of your personal information.
 
 **Ownership**
 
