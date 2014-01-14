@@ -33,6 +33,18 @@ To make use of some features on our website visitors and users need to register 
 
 The more you tell us about yourself, the more value we can offer you. Supplying this information is entirely voluntary. But if you choose not to supply the information, we may be unable to provide you with the products and services we make available to other users of and visitors to our website. And you will not be able to order selected products or services, or automate payments, over our website unless you provide certain personally identifiable information about yourself. When you submit any personally identifiable information over this website, Comcast (i) will use the information for the purposes described at the time you submit it (for example, your name, address, telephone number, and e-mail address provided while ordering one of our products or services will be used in connection with the processing and fulfillment of your order) and (ii) may use the information to contact you to make you aware of other products and services of interest. Of course, if you want to remain completely anonymous, you're still free to take advantage of the publicly available content on our website without registration.
 
+ONLINE TRACKING POLICY
+
+Some of the third party service providers that Comcast uses to deliver services, content and advertising may collect information on this website, as disclosed in this privacy policy. This information may include personally identifiable information or may be used to contact you online.
+
+As stated below in this privacy policy, in the section titled “What do we do to personalize your use of this website and the advertisements that may be presented to you on other websites?” we and our service providers may also use cookies to deliver relevant advertising to you when you visit other websites, including advertising based on the products and services you viewed on this website.
+
+Comcast is participating in the World Wide Web Consortium’s (W3C) process to develop a “Do Not Track” Standard. Since the definitions and rules for such a standard have not yet been defined, Comcast does not yet respond to “Do Not Track” signals sent from browsers.
+
+You may opt out of receiving cookies from the companies that provide services on this website by going to www.networkadvertising.org/consumer/opt\_out.asp. You may opt out of receiving promotional email or direct mail from Comcast based on your visits to this website by going to our Preference Center at www.comcast.com/preferences and following the instructions there. You may also contact Comcast at 1-800-XFINITY to ask to be placed on our do not mail list.
+
+Comcast’s affiliated websites are members of the Digital Advertising Alliance (DAA), which permits you to opt out of receiving online behavioral advertising by making choices at http://www.aboutads.info/choices . We comply with the rules of the DAA’s ad choices program.
+
 What categories of persons or entities do we share personally identifiable information with?
 
 We consider the personally identifiable information contained in our business records to be confidential. We may sometimes disclose personally identifiable information about you to our affiliates or to others who work for us. We may also disclose personally identifiable information about you to service providers and vendors, and to others who provide products and services to us. For example, when you use certain functions on this website you may notice that the website actually collecting or processing the information may be other than a Comcast website. We may be required by law or legal process to disclose certain personally identifiable information about you to lawyers and parties in connection with litigation and to law enforcement personnel. For example, we may be required by law to disclose personally identifiable information about you without your consent and without notice in order to comply with a valid legal process such as a subpoena, court order, or search warrant.
@@ -80,4 +92,4 @@ Privacy Policies for Comcast Products and Services
 
 This privacy statement discloses the privacy practices for this website only. Comcast supplies a copy of the privacy notice that applies to our cable television, high-speed Internet, and phone products and services separately to our subscribers.  You may also view this privacy notice at www.comcast.com at any time by searching for “privacy policy” and clicking on the link for the privacy notice.
 
-Effective: February 16, 2013
+Effective: January 13, 2014
