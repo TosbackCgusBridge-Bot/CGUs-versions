@@ -247,7 +247,7 @@ London, W1S1JY
 
 Singapore
 
-14 Mohd Sultan Rd 03-2  
+14 Mohd Sultan Rd 03-02  
 Singapore 238963  
 +65 6631 8912
 
