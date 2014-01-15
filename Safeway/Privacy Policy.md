@@ -1,7 +1,7 @@
 Introduction  
 Safeway Inc. is committed to providing our customers with the finest quality and service. This commitment includes protecting the privacy of your information. You can be confident that we have safeguards to protect the personal information you give us. The World of Safeway  
 In order to facilitate access to the products and services we offer, Safeway operates many retail outlets as well as mobile application(s) and several websites directly and through its related companies and service providers. Our family of web sites includes:  
-www.safeway.com www.dominicks.com www.randalls.com www.vons.com www.pavilions.com www.tomthumb.com www.safewayfoundation.org www.carrsqc.com  
+www.safeway.com www.vons.com www.pavilions.com www.randalls.com www.tomthumb.com www.carrsqc.com www.safewayfoundation.org  
 This privacy policy applies to your use of any Safeway mobile software application ("Application") on a mobile device, our websites, and all information collected or submitted to us through an Application, website and use of a Safeway Club Card (collectively referred to as "Services"). Collecting Personal Information  
 We receive and may store information you provide when you download and register an Application, register at our websites, or register for a Safeway Club Card. Registration with us is mandatory in order to be able to benefit from the basic features of these Services. The information we may collect includes: Name, age, address, telephone number, email address, user name, password and other registration information Credit card information or bank card number for purchase and use of the Services Transaction related information associated with a Safeway Club Card, such as when you make purchases, respond to offers, download or use mobile applications from us, and other purchase information and purchase history (as non-aggregated data) Information you enter into our system when using the Services, such as contact information and project management information  
 Safeway collects personal information in the course of providing retail goods and services, program memberships, promotions, surveys or sweepstakes offers. We may collect other personal information you provide us, including information about other people, such as the name and address of a gift recipient or a job reference. Using Personal Information  
@@ -54,4 +54,4 @@ For answers to questions related to private health information, please direct yo
 
   
 
-Modification Date: Last updated January 6, 2014
+Modification Date: Last updated January 13, 2014
