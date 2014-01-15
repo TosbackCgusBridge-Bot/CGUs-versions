@@ -1,8 +1,33 @@
-*   Yahoo France
+*   Home
+*   Mail
+*   News
+*   Sports
+*   Finance
+*   Weather
+*   Games
+*   Groups
+*   Answers
+*   Screen
+*   Flickr
+*   Mobile
+*   More
+    *   Celebrity
+    *   Shine
+    *   Movies
+    *   Music
+    *   TV
+    *   Health
+    *   Shopping
+    *   Travel
+    *   Autos
+    *   Homes
 
-Yahoo Search
+Yahoo Company Info Search Web Sign In Mail _Help_
 
-*   Aide
+*   Account Info
+*   Help
+
+Yahoo
 
 *   Accueil
 *   Produits
