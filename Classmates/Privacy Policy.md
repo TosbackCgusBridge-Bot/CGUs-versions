@@ -1,8 +1,8 @@
-Memory Lane, Inc., d/b/a Classmates.com  
+Classmates, Inc., d/b/a Classmates.com  
 Last Updated: October 2, 2013  
   
 
-Memory Lane, Inc., d/b/a Classmates.com is committed to protecting the privacy of our members' personal information as described in this Privacy Policy. The purpose of this Privacy Policy is to inform you of our information practices related to the information that you provide when using our services, including:
+Classmates, Inc., d/b/a Classmates.com is committed to protecting the privacy of our members' personal information as described in this Privacy Policy. The purpose of this Privacy Policy is to inform you of our information practices related to the information that you provide when using our services, including:
 
 *   Collection and Use of Your Information
 *   Sharing Your Information
@@ -174,4 +174,4 @@ We may update this Privacy Policy from time to time as our information practices
 
   
 
-We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or practices, please contact us at: Memory Lane, Inc., Attention: Privacy Policy Issues, 333 Elliott Avenue W., Suite 500, Seattle, WA 98119, or email us at privacy@memorylane.com. If you are not satisfied with our response, you can contact TRUSTe here. The TRUSTe program covers the information collected on the Website.
+We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or practices, please contact us at: Classmates, Inc., Attention: Privacy Policy Issues, 333 Elliott Avenue W., Suite 500, Seattle, WA 98119, or email us at privacy@classmates.com. If you are not satisfied with our response, you can contact TRUSTe here. The TRUSTe program covers the information collected on the Website.
