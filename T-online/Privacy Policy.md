@@ -91,17 +91,18 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Facebook als Vorbild: Unternehmen basteln eigene Mitarbeiter-Netzwerke
+*   Google kauft Nest: Schnüffelt der Internetriese bald im Wohnumfeld?
 *   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 *   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
 *   Vorratsdatenspeicherung: Innenminister uneins mit Maas
 *   Vorratsdatenspeicherung führt zu Streit
-*   Facebook-Video mit Mädchen-Angriff auf 13-Jährige beschäftigt Justiz
 *   Regierungschefin will Antwortverbot für Facebook zurückdrehen
 *   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
-*   Frankreich verhängt Geldstrafe gegen Google
 
 weniger Artikel weniger Artikel
 
+*   Frankreich verhängt Geldstrafe gegen Google
 *   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
 *   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
 *   Spannungen in der Koalition wegen Vorratsdatenspeicherung
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Neues Gerangel um Vorratsdatenspeicherung - Innenressort drängelt
 *   Innenministerium dringt auf Gesetz zur Vorratsdatenspeicherung
 *   Auch Schwarz-Rot streitet jetzt über Vorratsdatenspeicherung
-*   SPD-Justizminister legt Vorratsdatenspeicherung auf Eis
 
 *   Kundencenter
 *   Preise und AGB
