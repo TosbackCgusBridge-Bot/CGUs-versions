@@ -318,7 +318,7 @@ _°_
 *   Norsk
 *   Suomi
 
-Copyright © 1999-2013 SurveyMonkey
+Copyright © 1999-2014 SurveyMonkey
 
 *   Truste
 *   BBOnline
