@@ -25,7 +25,7 @@ Register | Log in | Customize Menu
     *   Monthly Calendar
     *   Calendar Creator
     *   Adv. Calendar Creator
-    *   Events
+    *   Add Events
     *   Holidays
 *   Weather
     *   Worldwide
