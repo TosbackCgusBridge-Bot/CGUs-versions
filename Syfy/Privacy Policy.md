@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Welcome to the Pack - Bitten Premieres Monday Welcome to the Pack - Bitten Premieres Monday
+Syfy Video This Season on Lost Girl This Season on Lost Girl
 
-Watch Bitten, Mondays at 10/9c.
+Check out what's to come on Lost Girl this season.
 
-Jim Henson's Creature Shop Challenge - Premie ... Jim Henson's Creature Shop Challenge - Premieres March 25th at 10/9c
+Lost Girl - Next Episode - Sleeping Beauty Sc ... Lost Girl - Next Episode - Sleeping Beauty School
 
-Jim Henson's Creature Shop Challenge premieres Tuesday, March 25th at 10/9c. Take a look inside of how the magic happens.
+Catch the next episode of Lost Girl, Mondays at 8/7c
 
-Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
+Three to Tango Three to Tango
 
-Dominion is where heaven meets hell. Premering on Syfy, June 2014.
+Dyson cuts in as Kenzi and Hale cut a rug, and the trio titilates a ballroom full of Fae.
 
-Defiance - Season 2 Tease Defiance - Season 2 Tease
+Lost Girl - Sneak Peek - Sleeping Beauty Scho ... Lost Girl - Sneak Peek - Sleeping Beauty School
 
-Check out the tease for Season 2 of Defiance! Coming this June.
+Catch a sneak peek of the next episode of Lost Girl, Mondays at 8/7c.
 
 *   FAQ
 *   Feedback
