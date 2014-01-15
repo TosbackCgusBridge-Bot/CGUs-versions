@@ -1,6 +1,6 @@
 Everyday Health Privacy Policy
 
-This Policy was last changed on November 8, 2012
+This Policy was last changed on December 30, 2013
 
 Everyday Health Media, LLC and its subsidiaries ("Everyday Health," “us” or “we”) operate this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites.
 
