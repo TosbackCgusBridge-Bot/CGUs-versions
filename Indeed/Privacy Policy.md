@@ -5,7 +5,7 @@ Find JobsFind ResumesEmployers / Post Job Post your resume Sign in What: Where: 
 *   Media Coverage
 *   Indeed Blog
 *   Indeed is Hiring
-*   Cookie, Privacy and Terms New!
+*   Cookies, Privacy and Terms New!
 
 **Job Seekers**
 
@@ -271,7 +271,7 @@ You may not assign or delegate any of your rights or obligations hereunder witho
 
 USE OF SERVICES BY MINORS
 
-The Services are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services.
+The Services are not directed to individuals under the age of eighteen (18), and we request that these individuals do not provide Personal Information through the Services.
 
 B. Indeed Resume Program Terms
 
@@ -472,4 +472,4 @@ If you have questions, please contact Indeed by sending a letter or email to Ind
 Indeed has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Indeed, please visit the BBB EU SAFE HARBOR web site for more information and to file a complaint.
 
    
-Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Contact ©2014 Indeed - Cookie, Privacy and Terms New!
+Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Contact ©2014 Indeed - Cookies, Privacy and Terms New!
