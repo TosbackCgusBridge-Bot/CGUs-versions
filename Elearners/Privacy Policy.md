@@ -211,7 +211,7 @@ Popular Degrees:
 *   Psychology Degrees
 *   Religion Degrees
 *   Education Degrees
-*   Computer Science Degrees
+*   Computer IT Degrees
 
 Follow eLearners:
 
@@ -219,7 +219,6 @@ About eLearners:
 
 *   About Us
 *   Our Partners
-*   FAQs
 *   Site Map
 
 Privacy Policy | Terms of Use | Legal Notice
