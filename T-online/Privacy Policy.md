@@ -91,8 +91,8 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Facebook als Vorbild: Unternehmen basteln eigene Mitarbeiter-Netzwerke
-*   Google kauft Nest: Schnüffelt der Internetriese bald im Wohnumfeld?
+*   Facebook Paper soll noch diesen Monat mit Flipboard konkurrieren
+*   Google kauft Nest Labs: Schnüffelt der Internetriese bald im Wohnumfeld?
 *   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 *   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
 *   Vorratsdatenspeicherung: Innenminister uneins mit Maas
