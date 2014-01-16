@@ -242,7 +242,7 @@ Or visit us in your mobile browser.
 *   Help
 *   Careers
 *   Press
-*   Legal
+*   Terms, Privacy and Safety
 *   Success
 *   Tests
 *   OkTrends
