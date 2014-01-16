@@ -54,6 +54,8 @@ We reserve the right to disclose information about you when we believe disclosur
 Correcting or Updating Personal Information  
 If your personally identifiable information (such as your zip code) changes, or if you no longer desire our service, we will provide a way for you to correct, update or remove your personal data provided to us. This can be done via email by clicking here.
 
+Do Not Track Policy Some web browsers have a âdo not trackâ feature that lets you tell websites you visit that you do not want to have your online activities tracked. These features are not yet uniform across browsers, so this site is not currently set up to respond to those signals.
+
 Notification of Changes Any changes to our privacy policy will be posted on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Additionally, if at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email. At that time, you will have a choice as to whether we use your information in this different manner.  
 If you feel that we are not abiding by our posted privacy policy, you should first contact:  
   
