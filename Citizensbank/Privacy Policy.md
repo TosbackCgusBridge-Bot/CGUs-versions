@@ -1,4 +1,4 @@
-Online Privacy Policy (Revised 12/2012)
+Online Privacy Policy (Revised 12/2013)
 
 We respect and value your privacy. Our Online Privacy Policy (“Privacy Policy”) describes and applies to the information we collect from you when you visit our online interfaces (e.g. website or mobile application) owned or controlled by us (“the Site”). The terms “we,” “our,” and “us” in this Privacy Policy refer to RBS Citizens Financial Group, Inc. and/or its affiliates, divisions, or subsidiaries. Our Privacy Policy generally describes how we collect, share, use, and protect your information. If you are a customer who has opened an account or obtained a financial product or service from us for personal, family, or household purposes, our Privacy Notice may apply to you as well and further explains how we may use your information.
 
@@ -14,6 +14,8 @@ We may use this information for a number of purposes, for example, to better ser
 **Automatically Collected Information**  
 Every time you visit a Site, some information is automatically collected from you. This information may include, but is not limited to, some or all of the following items: your Internet Protocol (IP) address and/or domain. type and version of Internet browser software and operating system you use. date, time, and duration of your Site access. specific pages, buttons, images, videos, links, or forms that you access while visiting the Site. type of device (e.g. iPad, BlackBerry, iPhone, Android). mobile carrier and/or Internet Service Provider. and demographic information concerning the country of origin of your Computer and the language(s) used by it.
 
+We currently do not process or comply with any web browser's "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit our websites or use our services.
+
 **Information Collected via Cookies**  
 Cookies are small text files that are placed on your Computer to distinguish you from other visitors to our Site. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. We and/or our third party advertising service providers may place cookies or similar files on your hard drive for many of the reasons listed in this Privacy Policy while visiting our Site. Most people do not know that cookies are being placed on their Computers when they visit websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can choose not to accept cookies. You can also delete cookies from your Computer at any time. If you refuse cookies, the functionality of our Site may be impacted or become non-functional. Since every browser and Computer are different, you will need to follow your browser’s instructions for disabling or deleting cookies.
 
@@ -21,7 +23,7 @@ Cookies are small text files that are placed on your Computer to distinguish you
 In addition to using cookies, we and/or our third party advertising service providers may also use similar technologies to track users’ interactions with our Site. Some of these technologies include web beacons (transparent graphical images placed on a website), pixels, tags, and Flash objects (also referred to as “Local Shared Objects”). Please refer to your browser’s instructions to remove cached Sites, history, and images from your Computer. Deleting or disabling cookies will not remove Flash objects or Local Shared Objects. Instead refer to Adobe’s website for more information on how to control or disable these items.
 
 **Additional Information on Online Behavioral Advertising**  
-Some of the advertisements that click-through to our Site and/or may be on our Site contain cookies that allow for the monitoring of your response to these advertisements (sometimes referred to as interest-based advertisements). Our advertisements may also appear on other websites that use the same advertising service providers as us. These advertising service providers may use your browsing history across websites to choose which advertisements to display to you.
+We and other third parties may collect personally identifiable information about your online activities over time and across different web sites when you use our Site. Some of the advertisements that click-through to our Site and/or may be on our Site contain cookies that allow for the monitoring of your response to these advertisements (sometimes referred to as interest-based advertisements). Our advertisements may also appear on other websites that use the same advertising service providers as us. These advertising service providers may use your browsing history across websites to choose which advertisements to display to you.
 
 If you do not wish to have us and/or our third party advertising service providers know which advertisements and subsequent websites you have viewed, you may opt-out at AboutAds (established by the Digital Advertising Alliance). The Digital Advertising Alliance website contains important information on cookies, behavioral advertising, and what opting out will and will not do and choices you can make regarding interest-based advertisements.
 
@@ -34,7 +36,7 @@ We may use these technologies on our Site to verify your identity, remember pers
 For most of the browsing on our Site, we neither require nor collect personally identifiable information. You can browse our Site and take as much time as you want to review our services without having to submit such information.
 
 3\. E-Mail and Electronic Communications  
-Forms of communication such as, e-mail, text messaging, submission via social media (e.g. Facebook, Twitter LinkedIn or YouTube), online chat, App Stores, (Google Plan, App Store) our Site Contact Us or similar forms, or other forms of electronic communication are inherently insecure. Please refrain from submitting sensitive personal information (such as account number or social security number) via e-mail or similar method of communication.
+Forms of communication such as, e-mail, text messaging, submission via social media (e.g. Facebook, Twitter LinkedIn or YouTube), online chat, App Stores, (Google Play, App Store) or other forms of electronic communication are inherently insecure. Please refrain from submitting sensitive personal information (such as account number or social security number) via e-mail or similar method of communication.
 
 When you send an e-mail or other electronic communication to us, you are communicating with us electronically and consent to receive reply communications from us or our providers electronically. We may retain the content of the e-mail, electronic communication, your e-mail address, unique identifier (such as Facebook or Twitter user name), and our response in order to better service your needs or for audit, legal, regulatory or other business-related reasons.
 
@@ -70,7 +72,7 @@ You have a role in helping us by safeguarding your information from others. You 
 We will never e-mail you or send you electronic communications to request sensitive personal information or account information over the Internet or by any other means. Help protect yourself against online fraud – if you suspect that an unsolicited e-mail or other electronic communication is fraudulent, please contact us toll-free at 1-877-229-6430 or by e-mail at fraudprevention@citizensbank.com.
 
 11\. Mobile Applications  
-Citizens Bank/Charter One Mobile Banking Applications (“Applications”) allow you to access your account balances, make transfers and pay bills on your mobile device in accordance with our Online Banking Service Agreement. This Notice applies to any personally identifiable information or other information that we may collect through our Applications.
+Citizens Bank/Charter One Mobile Banking Applications (“Applications”) allow you to access your account balances, make deposits, make transfers and pay bills on your mobile device in accordance with our Online Banking Service Agreement. This Notice applies to any personally identifiable information or other information that we may collect through our Applications.
 
 12\. Notice to Persons Accessing this Site Outside the United States  
 If you reside outside the U.S., any information you provide to us on our Site will be transferred out of your country and into the U.S. If you do not want your personally identifiable information to leave your country, do not provide the information to us. By providing personally identifiable information to us, you explicitly consent to the transfer of your information to the U.S.
@@ -78,14 +80,13 @@ If you reside outside the U.S., any information you provide to us on our Site wi
 13\. Changes to our Privacy Policy  
 Please note that we will periodically make changes to our Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of our Site constitutes your acceptance of any amendments to and the most recent versions of this Privacy Policy.
 
-Questions or Comments
-
+14\. Questions or Comments  
 If you have any questions or comments concerning our Privacy Policy please let us know by referring to our customer service/contact us information on this Site.
 
 PRINTING INSTRUCTIONS
 
 For a copy of this document, use the print command on your web browser.  
 
-**This Privacy Policy was last updated on: December 5, 2012**
+**_This Privacy Policy was last updated on: December 31, 2013_**
 
 View our Customer Privacy Notice
