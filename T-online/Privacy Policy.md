@@ -91,7 +91,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
-*   Facebook Paper soll noch diesen Monat mit Flipboard konkurrieren
+*   Facebook-Klickfarmen in Bangladesh aufgedeckt
 *   Google kauft Nest Labs: Schnüffelt der Internetriese bald im Wohnumfeld?
 *   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 *   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
