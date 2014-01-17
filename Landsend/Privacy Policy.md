@@ -379,4 +379,4 @@ Learn More Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-Join Now ® Copyright 2013 Lands' End
+Join Now ® Copyright 2014 Lands' End
