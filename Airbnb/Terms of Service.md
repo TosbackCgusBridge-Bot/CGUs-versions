@@ -843,7 +843,7 @@ YOU ACKNOWLEDGE AND AGREE THAT, BY POSTING A LISTING OR BOOKING AN ACCOMMODATION
 
 **6\. Contacting Airbnb.** If you have any questions about the Guest Refund Policy, please contact Airbnb at http://airbnb.com/contact.
 
-Guest Refund Policy Terms
+Copyright Policy
 
 Notification of Copyright Infringement:
 
