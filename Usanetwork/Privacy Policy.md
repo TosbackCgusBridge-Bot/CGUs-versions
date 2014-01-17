@@ -4,7 +4,7 @@ Skip to main content USA Network USA Shows Shows close
 *   New! Chrisley Knows Best
 *   Covert Affairs
 *   CSI
-*   USA Daytime
+*   Daytime
 *   Graceland
 *   House
 *   Law &. Order: Criminal Intent
