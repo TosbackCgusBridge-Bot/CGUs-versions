@@ -9,36 +9,38 @@
 *   Local Specials
 
 1.  Cars &. Minivan
-    *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 Explore Build
+    *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 $16,540 as shown Explore Build
     *   Corolla $16,800 starting msrp 1 28/37 est. mpg 2 $19,000 as shown Explore Build
     *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
-    *   Camry $22,425 starting msrp 1 25/35 est. mpg 2 Explore Build
-    *   Avalon $31,340 starting msrp 1 21/31 est. mpg 2 Explore Build
-    *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 Explore Build
+    *   Camry $22,425 starting msrp 1 25/35 est. mpg 2 $27,850 as shown Explore Build
+    *   Avalon $31,340 starting msrp 1 21/31 est. mpg 2 $39,650 as shown Explore Build
+    *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 $33,860 as shown Explore Build
 2.  Trucks
     *   Tacoma $18,125 starting msrp 1 21/25 est. mpg 2 $31,720 as shown Explore Build
     *   Tundra $26,200 starting msrp 1 16/20 est. mpg 2 $39,125 as shown Explore Build
 3.  Crossovers &. SUVs
     *   RAV4 $23,550 starting msrp 1 24/31 est. mpg 2 $28,320 as shown Explore Build
-    *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 Explore Build
-    *   Highlander $29,215 starting msrp 1 20/25 est. mpg 2 Explore Build
-    *   FJ Cruiser $27,130 starting msrp 1 16/20 est. mpg 2 Explore Build
-    *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,040 as shown Explore Build
-    *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 Explore Build
-    *   Land Cruiser $78,755 starting msrp 1 13/18 est. mpg 2 Explore Build
+    *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 $39,790 as shown Explore Build
+    *   Highlander $29,215 starting msrp 1 19/25 est. mpg 2 $39,640 as shown Explore Build
+    *   FJ Cruiser $27,680 starting msrp 1 16/20 est. mpg 2 $29,270 as shown Explore Build
+    *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,275 as shown Explore Build
+    *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 $52,555 as shown Explore Build
+    *   Land Cruiser $79,605 starting msrp 1 13/18 est. mpg 2 $80,000 as shown Explore Build
 4.  Hybrids &. EVs
-    *   Camry Hybrid $26,330 starting msrp 1 43/39 est. mpg 2 Explore Build
-    *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 Explore Build
+    *   Camry Hybrid $26,330 starting msrp 1 43/39 est. mpg 2 $28,625 as shown Explore Build
+    *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 $41,400 as shown Explore Build
     *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
         driving range 3 /  
-        mpge 4 Explore
-    *   Highlander Hybrid $47,300 starting msrp 1 28/28 est. mpg 2 Explore Build
-    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 Explore Build
-    *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 Explore Build
+        mpge 4 $50,295  
+        as shown Explore
+    *   Highlander Hybrid $47,300 starting msrp 1 27/28 est. mpg 2 Explore Build
+    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 $35,710 as shown Explore Build
+    *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 $24,210 as shown Explore Build
     *   Prius Plug-in $29,990 starting msrp 1 95/50 est. mpge 5 /  
         est. hybrid  
-        mode mpg 6 Explore Build
-    *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 Explore Build
+        mode mpg 6 $34,905  
+        as shown Explore Build
+    *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 $36,045 as shown Explore Build
 5.  Upcoming Vehicles
     *   Toyota Fuel Cell Vehicle Arriving in 2015 View More Info
     *   2014 FJ Cruiser  
