@@ -172,7 +172,7 @@ Christophe Pingard
       
     Nous ne collectons aucune donnée sensible, à savoir aucune donnée relative à vos origines raciales ou ethniques, à vos opinions politiques, philosophiques ou religieuses ou votre appartenance syndicale, ou qui sont relatives à votre santé ou votre vie sexuelle.  
       
-    Par ailleurs, lors de la consultation de notre site Internet et de nos services, nous pouvons être amenés à traiter des données de navigation (notamment cookies et adresses IP) relatives au terminal (ordinateur, tablette, smartphone, etc) que vous utilisez pour cette consultation.  
+    Par ailleurs, lors de la consultation de notre site web et de l’utilisation de nos services, nous sommes amenés à collecter et traiter des données relatives à votre navigation (notamment les cookies, votre adresse IP, les pages que vous avez consultées et les recherches que vous avez effectuées), et à votre terminal (type de navigateur utilisé, modèle et version de votre système d’exploitation, résolution de votre écran, présence de certains plug-in, …). Nous réaliserons également une géolocalisation approximative de votre ville d’origine. Ces données seront utilisées d’une part pour adapter nos services à vos besoins, et d’autre part pour réaliser des statistiques d’utilisation de nos services afin de les rendre plus pertinents.  
       
     **Quand ?**  
       
