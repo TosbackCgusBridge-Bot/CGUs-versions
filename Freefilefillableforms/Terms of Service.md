@@ -33,62 +33,54 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-**e-file Topics**
+**Free File Topics**
 
-*   e-file Individuals
-*   e-file Provider &. Tax Pro
-*   e-file Bus. / Self-Employ
-*   e-file Large Business
-*   e-file Char. &. Non-Profit
-*   **e-file Home**
+*   Where’s my Refund
+*   Earned Income Tax Credit (EITC)
+*   Payment Options
+*   Free Tax Prep by Volunteers
+*   **Filing Home**
 
 Like Share Print Free File: Do Your Federal Taxes for Free
 
-Español
+**Español**
 
-**Come back Jan. 17 to get a jump on your taxes with Free File.** Free File companies will securely hold your completed tax return until Jan. 31 when the IRS begins accepting returns. Free File Fillable Forms will be available starting Jan. 31.  
-Taxes made less taxing.
+**Get a jump on your taxes with Free File.** Free File companies will securely hold your completed tax return until Jan. 31 when the IRS begins accepting returns. Free File Fillable Forms will be available starting Jan. 31.
 
-**EVERYONE is Eligible to Free File!**
+Let Free File do the hard work for you with brand-name software or Free File Fillable Forms. You can prepare and e-file your federal return for free.
 
-Let Free File do the hard work for you with brand-name software or online Fillable Forms. You can prepare and e-file your federal return for free. Participating software companies make their products available through the IRS. Some also support state tax returns.
+Income below $58,000: Free File Software  
+ 
 
-Review the three-step process below, and you'll be on your way to e-filing your return--for free!
+*   Use free tax prep software
+*   Software makes taxes easier
+*   State returns available, some are free
+*   Find Free File software
 
-  
-  
-  
+   
 
-1.Get Ready
+**Free File Software**
 
-*   **Gather your tax information.**  
-    You need a copy of last year's tax return and your W-2s, 1099s, etc.
-*   **Determine your AGI.** Check your last year's tax return for a quick estimate of your adjusted gross income (AGI). Did you know that approximately 70% of all taxpayers have an AGI of $57,000 or less?
-*   **Review the Free File FAQs.**  
-    Read the Free File FAQs ae File Fillable Forms FAQs for more information about the program.
+*   Frequently asked questions
+*   How to use Free File (PDF)
+*   Free File benefits (PDF)
+*   About the Free File Alliance
+*   What you need to get started
 
-2.Choose a Free File Option
+    Income above $58,000: Free File Fillable Forms  
+ 
 
-*   **Use Free File Tax Software.**  
-    This program is available if your AGI is $57,000 or less:
-    *   Get help finding a Free File company that's right for you. or
-    *   Browse the list of Free File companies to choose your own.
+*   Available January 31, 2014
+*   Fillable, electronic versions of the paper forms
+*   Must know how to do your taxes yourself
+*   Does math. offers only basic guidance
+*   State tax prep is not available
 
-**\--OR--**
+   
 
-*   **Use Free File Fillable Forms.**  
-    Everyone is eligible to use Free File Fillable Forms, which are online versions of our paper forms designed for people comfortable preparing their own tax returns. This option does not offer state tax returns and performs only basic calculations.
+After you select Free File software, click on "leave IRS site" to get to the list of software providers.  
 
-3.e-file Your Return for Free!
-
-*   **e-file with Free File.**  
-    Transmit your return electronically by using secure IRS e-file.
-*   **Use direct deposit.**  
-    Get your tax refund quickly and safely, and you can track your tax refund status within 72 hours after you e-file.
-*   **Pay electronically.**  
-    Find out more about available electronic payment options.
-
-Page Last Reviewed or Updated: 06-Jan-2014
+Page Last Reviewed or Updated: 17-Jan-2014
 
 *   Resolve an Issue
     
