@@ -259,13 +259,13 @@ Lost Girl - Next Episode - Sleeping Beauty Sc ... Lost Girl - Next Episode - Sle
 
 Catch the next episode of Lost Girl, Mondays at 8/7c
 
-Three to Tango Three to Tango
-
-Dyson cuts in as Kenzi and Hale cut a rug, and the trio titilates a ballroom full of Fae.
-
 Lost Girl - Sneak Peek - Sleeping Beauty Scho ... Lost Girl - Sneak Peek - Sleeping Beauty School
 
 Catch a sneak peek of the next episode of Lost Girl, Mondays at 8/7c.
+
+Three to Tango Three to Tango
+
+Dyson cuts in as Kenzi and Hale cut a rug, and the trio titilates a ballroom full of Fae.
 
 *   FAQ
 *   Feedback
