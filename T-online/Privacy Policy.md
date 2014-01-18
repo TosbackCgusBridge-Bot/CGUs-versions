@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Vorratsdaten-Gesetz soll nicht vor EuGH-Urteil kommen
+*   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
+*   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
+*   Koalition einig: Vorerst kein Vorratsdaten-Gesetz
 *   Facebook-Klickfarmen in Bangladesh aufgedeckt
 *   Google kauft Nest Labs: Schnüffelt der Internetriese bald im Wohnumfeld?
 *   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 *   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
+
+weniger Artikel weniger Artikel
+
 *   Vorratsdatenspeicherung: Innenminister uneins mit Maas
 *   Vorratsdatenspeicherung führt zu Streit
 *   Regierungschefin will Antwortverbot für Facebook zurückdrehen
 *   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
-
-weniger Artikel weniger Artikel
-
 *   Frankreich verhängt Geldstrafe gegen Google
 *   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
 *   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
@@ -110,10 +114,6 @@ weniger Artikel weniger Artikel
 *   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
 *   Vorratsdatenspeicherung: Heiko Maas erhält Rüffel von Thomas de Maiziere
 *   Schwarz-Rot will Streit zu Vorratsdaten bei Kabinettsklausur klären
-*   Justizministerin will bei Vorratsdatenspeicherung abwarten
-*   Neues Gerangel um Vorratsdatenspeicherung - Innenressort drängelt
-*   Innenministerium dringt auf Gesetz zur Vorratsdatenspeicherung
-*   Auch Schwarz-Rot streitet jetzt über Vorratsdatenspeicherung
 
 *   Kundencenter
 *   Preise und AGB
