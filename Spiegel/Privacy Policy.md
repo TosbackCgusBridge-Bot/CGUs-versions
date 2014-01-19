@@ -334,9 +334,9 @@ Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
 Zur Startseite Diesen Artikel...
 
 *   Drucken
-*   Nutzungsrechte
-*   Feedback
 *   Merken
+*   Feedback
+*   Nutzungsrechte
 
 **© SPIEGEL ONLINE 2010**  
 Alle Rechte vorbehalten  
