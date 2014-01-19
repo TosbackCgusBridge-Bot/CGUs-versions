@@ -1,4 +1,16 @@
-  Privacy Policy
+ 
+
+*   who we are
+*   markets  
+    we serve
+*   our  
+    commitments
+*   news
+*   investors
+*   vendors
+*   careers
+
+Privacy Policy
 
 Effective Date: This Privacy Policy was last revised on May 16, 2013
 
