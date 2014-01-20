@@ -17,7 +17,7 @@ Language: English Forgot your password? Email Password Login Join
 
   Privacy Policy
 
-This Privacy Policy applies to Internet based Recruitment and Social media services rendered worldwide by JobGo and Talentor Group Ltd. (‘JobGo’), as well as to products and web sites under the JobGo brand.
+This Privacy Policy applies to Internet based Recruitment and Social media services rendered worldwide by JobGo and JobGo International Ltd. (‘JobGo’), as well as to products and web sites under the JobGo brand.
 
 The privacy and security of your personal information is among our top priorities, and we would like you to be aware of how JobGo handles and safeguards the information you provide while using our services and the www.JobGo.com web site.
 
@@ -33,19 +33,17 @@ JobGo may use the information collected from you for the following purposes: - t
 
 Any kind of information received from you is not used or shared for non-JobGo related purposes.
 
-As JobGo related purpose, Talentor Group or Talentor local Partner Company (such as Talentor Finland) may access Your information in relation to head hunting assignment (excluding Personal Qualities test results).
-
-JobGo Personal qualities test
+**JobGo Work Behaviour Profile**
 
 Any results from the personal qualities test are stored in a secure database and protected by password and username. JobGo takes all necessary precautions to protect this information from third parties, and does not provide access to any third parties without the consent of the user. JobGo occasionally uses test results for statistical purposes, but only in an aggregated and anonymous form.
 
-Content Liability
+**Content Liability**
 
 Please note that you are solely responsible for all texts entered into our system or sent to us. You must make sure you do not send us any attachments that contain viruses.
 
 The information you send us must be accurate and must not breach copyrights, trademarks or other intellectual property rights, law or other applicable provisions, official regulations, the rights of third parties in general or public policy. Please note that you undertake to indemnify us against all claims made against us as a consequence of your failure to prevent false Content appearing in any information you provide.
 
-How does JobGo secure my personal information?
+**How does JobGo secure my personal information?**
 
 JobGo employs the latest technology for the purpose of safeguarding privacy of information on its corporate network and web site. All information that JobGo receives from you is protected by a 6-to-20-character password. JobGo stores your information on secure servers duly protected by a hardware firewall.
 
@@ -55,9 +53,13 @@ How do I define if I accept this Privacy Policy, and may the policy be changed?
 
 Use of JobGo service or JobGo web site by you constitutes your acceptance of this Privacy Policy.
 
-JobGo reserves the right to modify the Privacy Policy at any time by publishing new versions of it on JobGO Website Such new version shall become effective after thirty (30) days from the date of publication. Use of JobGo service, products, or www.JobGo.eu web site by you past the expiration of the thirty-day period shall constitute your acceptance of the new version of the Privacy Policy.
+JobGo reserves the right to modify the Privacy Policy at any time by publishing new versions of it on JobGO Website Such new version shall become effective after thirty (30) days from the date of publication. Use of JobGo service, products, or www.JobGo.com web site by you past the expiration of the thirty-day period shall constitute your acceptance of the new version of the Privacy Policy.
 
-Copyright © 2010 Talentor Group Ltd. All rights reserved. Last revision 13.1.2010 Feedback Give us feedback We want JobGo to rock, so we would appreciate if you had the time to give us some feedback on how we're doing. Your suggestions and comments help us improve and play an important part in making the site more user friendly. Send cancel Global customer service: support@jobgo.com
+Copyright © 2014 JobGo International. All rights reserved. 
+
+ **Last revision: 19.01.2014**
+
+Feedback Give us feedback We want JobGo to rock, so we would appreciate if you had the time to give us some feedback on how we're doing. Your suggestions and comments help us improve and play an important part in making the site more user friendly. Send cancel Global customer service: support@jobgo.com
 
 *   Recruiter membership
 *   Privacy policy
