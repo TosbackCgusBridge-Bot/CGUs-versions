@@ -92,16 +92,17 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 mehr zum Thema mehr Artikel zum Thema
 
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
+*   Bundesamt warnt vor zunehmenden Gefahren im Netz
 *   Vorratsdaten-Gesetz soll nicht vor EuGH-Urteil kommen
 *   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 *   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 *   Koalition einig: Vorerst kein Vorratsdaten-Gesetz
 *   Facebook-Klickfarmen in Bangladesh aufgedeckt
 *   Google kauft Nest Labs: Schnüffelt der Internetriese bald im Wohnumfeld?
-*   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 
 weniger Artikel weniger Artikel
 
+*   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 *   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
 *   Vorratsdatenspeicherung: Innenminister uneins mit Maas
 *   Vorratsdatenspeicherung führt zu Streit
@@ -113,7 +114,6 @@ weniger Artikel weniger Artikel
 *   Spannungen in der Koalition wegen Vorratsdatenspeicherung
 *   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
 *   Streit um Vorratsdatenspeicherung: Albig unterstützt Maas
-*   Vorratsdatenspeicherung: Heiko Maas erhält Rüffel von Thomas de Maiziere
 
 *   Kundencenter
 *   Preise und AGB
