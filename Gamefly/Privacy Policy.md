@@ -15,7 +15,7 @@ Privacy Quick Look
 
 GameFly Online Privacy Policy
 
-GameFly, Inc. and GameFly Digital, Inc. (collectively, "GameFly," "we" or "us") respect the privacy rights of our online visitors and mobile application users. The GameFly Online Privacy Policy (this "Privacy Policy") provides information about how we collect, store, disclose and use information. Please also review our online Terms of Use, which are linked at the bottom of our web pages and which govern the commercial-transaction, user-generated content and social-networking features of our websites (www.gamefly.com, www.gamefly.co.uk, www.shacknews.com, www.cheatfreak.com, www.mobygames.com) and services.
+GameFly, Inc. and GameFly Digital, Inc. (collectively, "GameFly," "we" or "us") respect the privacy rights of our online visitors and mobile application users. The GameFly Online Privacy Policy (this "Privacy Policy") provides information about how we collect, store, disclose and use information. Please also review our online Terms of Use, which are linked at the bottom of our web pages and which govern the commercial-transaction, user-generated content and social-networking features of our websites (www.gamefly.com, www.gamefly.co.uk, www.shacknews.com, www.cheatfreak.com) and services.
 
 By reading this Privacy Policy, you can expect to be informed about the following:
 
