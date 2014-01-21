@@ -42,6 +42,7 @@ Register | Log in | Customize Menu
     *   Eclipses
 *   Timers
     *   Countdown to Any Date
+    *   Sochi 2014 Countdown
     *   New Year Countdown
     *   Timer
     *   Stopwatch
