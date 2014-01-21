@@ -4,7 +4,7 @@ Effective date: January 1, 2011
 
 This Privacy Policy (this “Policy”) explains how **Gander Mountain**, Overton’s, and other members of the **Gander** Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):  
   
-GanderMtn.com  
+GanderMountain.com  
   
 Overtons.com  
   
