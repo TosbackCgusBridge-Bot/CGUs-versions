@@ -4,8 +4,7 @@
 *   Sign In
 *   Help
 
-*   My Bag (0)
-*   Wish List Search
+My Bag (0) Wish List Search
 
 *   Women
 *   Men
