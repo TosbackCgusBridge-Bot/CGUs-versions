@@ -16,7 +16,7 @@
 
 Search keyword or dealer ZIP
 
-The Audi range The Audi range The Audi range SedansStarting at $33,800 View models CoupesStarting at $39,000 View models ConvertiblesStarting at $42,900 View models SUVs, crossovers, and wagonsStarting at $37,300 View models Audi ownership Audi ownership Audi ownership myAudi
+The Audi range The Audi range The Audi range SedansStarting at $29,900 View models CoupesStarting at $39,000 View models ConvertiblesStarting at $42,900 View models SUVs, crossovers, and wagonsStarting at $37,300 View models Audi ownership Audi ownership Audi ownership myAudi
 
 Get on the fast track to choosing the right finance or lease options, viewing technology tutorials, exploring genuine Audi parts and accessories, finding the service you need and more.
 
