@@ -38,7 +38,7 @@ Through the use of “cookies,” we work with and permit advertising networks t
 You may at any time opt-out of certain activities as set out below (see section VI);  
 We encrypt any information you input using Secure Sockets Layer (SSL) software and take reasonable security measures to safeguard information;  
 If you register with us, you have the ability to update or correct the information you previously provided via the account section;  
-If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here ;  
+If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here;  
 Our websites and our services are not designed or intended for use by children under 13. and  
 This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate.
 
@@ -72,7 +72,7 @@ III. COOKIES AND PREFERENCE BASED ADVERTISING
 
 You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, some elements of our Sites will not function properly or be available to you.
 
-(b) Preference Based Advertising: We also work with and permit certain third parties, including advertising networks and website analysis firms, to place cookies on your computer/browser when you visit our Sites. These third party cookies are used to gather non-PII about your activities on our Sites and third party sites to serve you with advertisements while you are on third party sites (“Third-Party Ads”). If you do not wish to participate in this activity, please click here to opt-out .
+(b) Preference Based Advertising: We also work with and permit certain third parties, including advertising networks and website analysis firms, to place cookies on your computer/browser when you visit our Sites. These third party cookies are used to gather non-PII about your activities on our Sites and third party sites to serve you with advertisements while you are on third party sites (“Third-Party Ads”). If you do not wish to participate in this activity, please click here to opt-out.
 
 Some important notes: (1) the opt-out tools for Third-Party Ads include all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with. (2) opting out of Our Ads does not automatically serve as an opt-out from Third-Party Ads – the same is true the other way around. To opt-out of Our Ads and Third-Party Ads, you must use each respective opt-out tool above. (3) the opt-out tools for both Our Ads and Third-Party Ads rely on cookies to ensure that your non-PII is not used for online advertising purposes (“Opt-out Cookies”). Therefore, i f you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the relevant opt-out tasks again. and (4) the features of your internet browser and/or certain add-on software may allow you to block or limit the use of cookies for preference based advertising and other purposes. We cannot, however, promise that our Sites will work well or be compatible with these alternative methods of blocking or limiting the use of cookies.
 
@@ -87,9 +87,9 @@ We work to protect the security of your information during transmission by using
 VI. YOUR OPTIONS &. OPT-OUTS  
 (a) W hat Information Can I Access? If you register as a Shopzilla member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Also, if you wish, you can delete your membership account entirely although we may retain certain information in limited circumstances – e.g., to resolve disputes, troubleshoot problems and enforce our Terms of Use . Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our “back-up” systems) and certain legal constraints.
 
-(b) What Choices Do I Have (Opt-Out)? You have many choices regarding how we use information about you, including: (1) To stop our emails, click here . (2) To opt-out of preference-based ads, click here . (3) To stop the sharing of PII with our participating merchants, click here . and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services.
+(b) What Choices Do I Have (Opt-Out)? You have many choices regarding how we use information about you, including: (1) To stop our emails, click here. (2) To opt-out of preference-based ads, click here. (3) To stop the sharing of PII with our participating merchants, click here. and (4) as discussed above, the choices we offer you anytime you submit information through our Sites or Services.
 
-(c) You May Contact Us With Questions: If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here .
+(c) You May Contact Us With Questions: If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here.
 
 VII. CHILDREN  
 As neither our Sites nor our Services are intended for use by children under 13, children under 13 may not submit any PII to us. Also, i f you are under 18, you should use Shopzilla and submit information only with involvement of a parent or guardian.
