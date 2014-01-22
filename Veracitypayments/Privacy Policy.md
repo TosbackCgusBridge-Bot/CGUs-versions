@@ -19,7 +19,7 @@ Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank,
 *   Customer Care
 *   Careers
 
-**What’s better than a word-of-mouth recommendation?** A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual will continue to come back, because he or she is anxious to reap the benefits of your loyalty card program. Gift cards and loyalty cards, whether physical or virtual, earn the same thing: Extra business and recognition for your organization. Featured Posts From the Veracity Blog The Many Ways Your Business Can Benefit from Gift Card ProgramsMarch 30, 2013
+What’s better than a word-of-mouth recommendation? A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual will continue to come back, because he or she is anxious to reap the benefits of your loyalty card program. Gift cards and loyalty cards, whether physical or virtual, earn the same thing: Extra business and recognition for your organization. Featured Posts From the Veracity Blog The Many Ways Your Business Can Benefit from Gift Card ProgramsMarch 30, 2013
 
 What’s better than a word-of-mouth recommendation? A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual … Continue reading →
 
