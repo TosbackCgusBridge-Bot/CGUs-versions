@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video This Season on Lost Girl This Season on Lost Girl
+Syfy Video Lost Girl - Sneak Peek - Lovers. Apart Lost Girl - Sneak Peek - Lovers. Apart
 
-Check out what's to come on Lost Girl this season.
+Catch a sneak peek of Lost Girl. Mondays at 8/7c.
 
-Lost Girl - Next Episode - Sleeping Beauty Sc ... Lost Girl - Next Episode - Sleeping Beauty School
+Lost Girl - Next Episode - Lovers. Apart Lost Girl - Next Episode - Lovers. Apart
 
-Catch the next episode of Lost Girl, Mondays at 8/7c
+Catch the next episode of Lost Girl, Mondays at 8/7c.
 
-Lost Girl - Sneak Peek - Sleeping Beauty Scho ... Lost Girl - Sneak Peek - Sleeping Beauty School
+Babysitters Club Babysitters Club
 
-Catch a sneak peek of the next episode of Lost Girl, Mondays at 8/7c.
+A cute scene between young Tamsin and Kenzi culminating in Tamsin announcing her need to pee.
 
-Three to Tango Three to Tango
+Siren on the Rocks Siren on the Rocks
 
-Dyson cuts in as Kenzi and Hale cut a rug, and the trio titilates a ballroom full of Fae.
+Hale takes one for the team when he and Dyson come up against an army of Fae beauticians
 
 *   FAQ
 *   Feedback
