@@ -215,39 +215,30 @@ Subaru Confidence In Motion
         
         and ready for more adventures.
         
-*   Why Subaru
+*   Why Subaru   All Things Subaru See all the things that make Subaru vehicles so loved.     Enjoy Life Explore the versatility to make every day an adventure.     Stay Safe Learn what goes into every Subaru to protect you.     Love Every Mile See why an owner’s love for Subaru lasts forever.  
     
-    *   All-Wheel Drive
+    *   Environment
         
-        Learn why Symmetrical All-Wheel Drive offers better control.
+        See what we're doing to be a leader in green initiatives.
         
-    *   SUBARU BOXER® Engine
+    *   Events
         
-        See how this unique horizontal design improves balance.
+        Search for things to do near you, with the help of Subaru.
         
-    *   Safety
+    *   Social Responsibility
         
-        See how every Subaru is built with your safety as our priority.
+        Discover why, to us, love is more than a tagline.
         
-    
-    *   Engineering &. Technology
+    *   Partnerships
         
-        All the options, including Bluetooth, GPS and Satellite Radio
-        
-    *   Industry Reviews &. Awards
-        
-        See what the industry experts are saying about Subaru.
-        
-    *   Vehicle Comparison Tool
-        
-        Stack up every Subaru model against the competition.
+        Learn more about the Subaru partners and charities.
         
     
     More
-    *   Overview
+    *   Compare
+    *   Engineering &. Technology
+    *   Awards &. Accolades
     *   Dear Subaru
-    *   Environment
-    *   Corporate Responsibility
 *   Shopping Tools
     
     *   Special Offers
