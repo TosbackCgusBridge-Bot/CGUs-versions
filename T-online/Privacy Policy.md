@@ -91,17 +91,21 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Datenschutz in Arztpraxen soll besser werden: neue Initiative
+*   Linke-Fraktion will Datenschutz in Behörden modernisieren
+*   Facebook-Fanpage von Stefan Kießling ist wieder da
+*   Debeka stockt nach Vorwürfen Datenschutzreferat personell auf
+*   Staatsdiener sollen dienstliche Facebook-Nutzung unterlassen
 *   Thüringens Datenschützer fordert mehr Kompetenzen
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
+
+weniger Artikel weniger Artikel
+
 *   Vorratsdaten-Gesetz soll nicht vor EuGH-Urteil kommen
 *   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 *   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 *   Koalition einig: Vorerst kein Vorratsdaten-Gesetz
-*   Facebook-Klickfarmen in Bangladesh aufgedeckt
-
-weniger Artikel weniger Artikel
-
 *   Google kauft Nest Labs: Schnüffelt der Internetriese bald im Wohnumfeld?
 *   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
 *   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
@@ -110,10 +114,6 @@ weniger Artikel weniger Artikel
 *   Regierungschefin will Antwortverbot für Facebook zurückdrehen
 *   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
 *   Frankreich verhängt Geldstrafe gegen Google
-*   Hartloff: Bei Vorratsdatenspeicherung auf EU-Urteil warten
-*   Kauder: Start der großen Koalition entspricht nicht den Vorstellungen
-*   Spannungen in der Koalition wegen Vorratsdatenspeicherung
-*   Nordost-Union uneins bei Gesetzgebung zur Vorratsdatenspeicherung
 
 *   Kundencenter
 *   Preise und AGB
