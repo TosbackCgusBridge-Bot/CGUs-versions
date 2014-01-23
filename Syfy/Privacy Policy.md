@@ -253,11 +253,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 Syfy Video Lost Girl - Sneak Peek - Lovers. Apart Lost Girl - Sneak Peek - Lovers. Apart
 
-Catch a sneak peek of Lost Girl. Mondays at 8/7c.
-
-Lost Girl - Next Episode - Lovers. Apart Lost Girl - Next Episode - Lovers. Apart
-
-Catch the next episode of Lost Girl, Mondays at 8/7c.
+Catch a sneak peek of Lost Girl. Mondays at 10/9c.
 
 Babysitters Club Babysitters Club
 
@@ -266,6 +262,10 @@ A cute scene between young Tamsin and Kenzi culminating in Tamsin announcing her
 Siren on the Rocks Siren on the Rocks
 
 Hale takes one for the team when he and Dyson come up against an army of Fae beauticians
+
+This Season on Lost Girl This Season on Lost Girl
+
+Check out what's to come on Lost Girl this season.
 
 *   FAQ
 *   Feedback
