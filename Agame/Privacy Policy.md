@@ -24,7 +24,7 @@ Quickly find your recently played games: we'll add the last 6 games you played t
     *   Sonic Games
     *   Awards
     *   High scores
-    *   Mobile games
+    *   Mobile and tablet games
 
 *   Home
 
