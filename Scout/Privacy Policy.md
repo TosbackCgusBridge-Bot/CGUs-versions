@@ -2,7 +2,7 @@
 
 1.  **INTRODUCTION**
 
-North American Membership Group, Inc. ("Scout" or "we" or "us") operates the website **http://www.scout.com** ("scout.com" or "Site"), which is an integrated network of websites that provides public forums and publishes exclusive content focusing on high school, college and professional team sports. The services Scout offers include any Scout-branded URL, Premium Subscriptions, which allows users to view premium online content and participate in premium forums, magazine subscriptions, public forums and any other features, content, or applications offered from time to time by Scout in connection with Scout’s business, including when accessed via the Internet, mobile or other device (collectively, the "Scout Services").
+SCOUT ("Scout" or "we" or "us") operates the website **http://www.scout.com** ("scout.com" or "Site"), which is an integrated network of websites that provides public forums and publishes exclusive content focusing on high school, college and professional team sports. The services Scout offers include any Scout-branded URL, Premium Subscriptions, which allows users to view premium online content and participate in premium forums, magazine subscriptions, public forums and any other features, content, or applications offered from time to time by Scout in connection with Scout’s business, including when accessed via the Internet, mobile or other device (collectively, the "Scout Services").
 
 As set forth in our **Terms of Use**, Scout.com is a general audience website, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
@@ -78,7 +78,7 @@ If you would like to terminate your Premium Subscription you can: (i) visit "**M
 
 If you have questions about this Privacy Policy, please contact Scout at:
 
-North American Membership Group, Inc.
+SCOUT
 
 12301 Whitewater Drive
 
