@@ -14,7 +14,7 @@ My Bag: 0 Items $0.00 Aéropostale Go
 *   Girls
 *   Guys
 *   ROOM
-*   Aero Sale
+*   Aero Clearance
 
 Safety, Security and Privacy
 
