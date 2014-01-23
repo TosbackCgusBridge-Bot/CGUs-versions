@@ -14,7 +14,6 @@ Continue to Site ADVERTISEMENT TheStreet Network: TheStreet | StockPickr | Banki
 *   Home 10 simple ways to avoid college debt
 *   tax  
     center
-*   marijuana
 *   retirement 401K  |  IRA  |  Long-Term Care
 *   smart  
     spending Budgeting  |  Bargains/Deals  |  Technology  |  Autos
@@ -29,7 +28,7 @@ Continue to Site ADVERTISEMENT TheStreet Network: TheStreet | StockPickr | Banki
 *   lifestyle Food &. Drink  |  Luxury  |  Travel
 10 simple ways to avoid college debt
 
-Hot Topics    |  wheels   |  unemployment   |  taxes   |  politics   |  managing debt   |  careers   |  More Topics » Posted September 03, 2006 Privacy Policy
+Hot Topics    |  wheels   |  unemployment   |  taxes   |  Marijuana   |  managing debt   |  careers   |  More Topics » Posted September 03, 2006 Privacy Policy
 
 MainStreet.com
 
