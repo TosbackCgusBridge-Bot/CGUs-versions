@@ -29,4 +29,4 @@ As a convenience to our visitors, GSK's sites currently contain links to a numbe
 From time to time, GSK may decide to modify its practices and policies, and we reserve the right to revise this GSK Internet Privacy Statement as necessary to disclose such changes in our practices and policies. Any such changes to this GSK Internet Privacy Statement will be promptly communicated on this page. Any information that you submit before the change in policy will be used by GSK and/or the companies we hire in a manner that is consistent with the GSK Internet Privacy Statement in effect at the time you submitted your information. Continued use of our sites after receiving notice of a change in our privacy statement shall indicate your consent to the use of newly-submitted information in accordance with the changed, amended, or updated GSK Internet Privacy Statement.
 
 This site is intended for US residents only.  
-© 2004-2012 GlaxoSmithKline - All Rights Reserved - Updated July 19, 2004
+© 2004-2014 GlaxoSmithKline - All Rights Reserved - Updated July 19, 2004
