@@ -91,29 +91,29 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   EU-Justizminister debattieren über Datenschutzreform
+*   Datenschutzbeauftragter fordert Aufklärungskampagne über Datenklau
+*   BSI-Sicherheitstest: Internetnutzer üben Kritik - 14 Millionen Anfragen
+*   Landesschülerrat gegen generelles Facebook-Verbot für Lehrer
+*   Facebook-Managerin jetzt im Klub der Dollar-Milliardäre
+*   Initiative für mehr IT-Sicherheit in Arztpraxen
+*   Gefundene Briefe der Oberfinanzdirektion wurden gestohlen
 *   Datenschutz in Arztpraxen soll besser werden: neue Initiative
+
+weniger Artikel weniger Artikel
+
 *   Linke-Fraktion will Datenschutz in Behörden modernisieren
-*   Facebook-Fanpage von Stefan Kießling ist wieder da
 *   Debeka stockt nach Vorwürfen Datenschutzreferat personell auf
 *   Staatsdiener sollen dienstliche Facebook-Nutzung unterlassen
 *   Thüringens Datenschützer fordert mehr Kompetenzen
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
-
-weniger Artikel weniger Artikel
-
 *   Vorratsdaten-Gesetz soll nicht vor EuGH-Urteil kommen
 *   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 *   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 *   Koalition einig: Vorerst kein Vorratsdaten-Gesetz
 *   Google kauft Nest Labs: Schnüffelt der Internetriese bald im Wohnumfeld?
 *   Hessen wird sich bei Vorratsdatenspeicherung im Bundesrat enthalten
-*   Dreyer hält Maas-Vorschlag zu Datenspeicherung für nachvollziehbar
-*   Vorratsdatenspeicherung: Innenminister uneins mit Maas
-*   Vorratsdatenspeicherung führt zu Streit
-*   Regierungschefin will Antwortverbot für Facebook zurückdrehen
-*   Tauber: Start einer Koalition vergleichbar mit «Wiegen beim Boxkampf»
-*   Frankreich verhängt Geldstrafe gegen Google
 
 *   Kundencenter
 *   Preise und AGB
