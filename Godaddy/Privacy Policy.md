@@ -1,4 +1,4 @@
-**Last Revised: July 22, 2013**
+**Last Revised: January 22, 2014**
 
 Go Daddy Respects your privacy
 
@@ -43,8 +43,6 @@ If you are a business owner that has created an Online Advertising Page to adve
 This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
-
-Please view our Secure Ordering page for further details.
 
 **Sending Emails**
 
@@ -99,7 +97,7 @@ When your Go Daddy account is cancelled (either voluntarily or involuntarily) al
 You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
 1.  You may send an email to support@godaddy.com
-2.  You may visit your online Account Manager
+2.  You may visit your online Account
 3.  You may send mail to Go Daddy at the following postal address:  
     14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 4.  You may call us at: (480) 505-8800
