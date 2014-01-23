@@ -1,6 +1,6 @@
 University of Phoenix PRIVACY POLICY – SUMMARY
 
-**Updated:** November 15, 2013
+**Updated:** Jan. 17, 2014
 
 Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy (“Policy“), click here.
 
@@ -53,7 +53,9 @@ If you do not wish to receive marketing telephone calls or mailings, you may exp
 
 Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email Office.ComplianceUOPX@phoenix.edu.
 
-Online Behavioral Advertising
+Do Not Track and Online Behavioral Advertising
+
+University of Phoenix does not itself respond to web browser-based DNT signals.
 
 We or our Business Associates may use data collected on this Site for Online Behavioral Advertising purposes, e.g., to customize ads to you on other websites as you browse the web. If you do not want your browsing behavior on the Sites to be collected for Online Behavioral Advertising purposes, visit http://info.evidon.com/pub\_info/184?v=1.
 
@@ -90,7 +92,7 @@ Phoenix, AZ 85040
 
 University of Phoenix PRIVACY POLICY – FULL VERSION
 
-**Updated:** November 15, 2013
+**Updated:** Jan 17, 2014
 
 **Scope**
 
@@ -109,7 +111,7 @@ University of Phoenix may amend or otherwise modify this Privacy Policy at any t
 5.  How We Use and Disclose This Information
 6.  Student Educational Records
 7.  Location of Information Processing
-8.  Online Behavioral Advertising
+8.  Do Not Track and Online Behavioral Advertising
 9.  Opt Out
 10.  Your California Privacy Rights
 11.  Our Security Measures
@@ -124,6 +126,8 @@ University of Phoenix may amend or otherwise modify this Privacy Policy at any t
 As used in this Privacy Policy, the following terms have the following meanings:
 
 “Business Associates” means third-party service providers which the University of Phoenix or Apollo Education Group, Inc. may contract with to provide services on our behalf, including but not limited to: Social Networking, hosting, web analytics, Online Behavioral Advertising, lead generation, academic, business, career or financial services.
+
+“Do Not Track” or “DNT” means a browser-based signal that, when set, signifies an Internet user’s desire not to be tracked online.
 
 “Education Partners” means a.) University of Phoenix, Apollo Education Group, Inc., and their subsidiaries and affiliates including educational companies or institutions that Apollo Education Group, Inc. or its subsidiaries may be providing educational or other related services to under contract and b.) Third-party companies who may participate in University of Phoenix or Apollo Education Group, Inc. career initiatives (e.g., potential employers).
 
@@ -188,7 +192,7 @@ In addition to the Web Analytical Information automatically collected when you v
 *   Cell phone number
 *   Confirmation of the age of majority
 *   Campus (based on postal code list)
-*   Apollo Education Partner interested in
+*   Education Partner interested in
 *   Current degree program of interest
 *   Current modality of interest (online, on-ground or FlexNet)
 *   Publisher code (Site ID)
@@ -267,7 +271,9 @@ We operate or may process information in multiple jurisdictions, and some Educat
 
 **8\. Online Behavioral Advertising**
 
-We use a third-party assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA). As part of this service, our online advertisements and Sites taking part in Online Behavioral Advertising are delivered with icons that help consumers understand how their data is being used and provide options to consumers who want more control. Some of these ads are targeted to your interests and preferences based on your browsing history, which is stored in a cookie on your computer. Your browsing history on the Sites may be tracked in these cookies even if ads are not being displayed. For more information, or to opt out of this type of information collection, please visit http://info.evidon.com/pub\_info/184?v=1.
+Do Not Track (DNT) is a browser-based signal that, when set, signifies your desire not to be tracked online. Because there is not yet a consensus on how companies should respond to web browser-based or other DNT mechanisms, University of Phoenix does not itself respond to web browser-based DNT signals.
+
+We use a third-party assurance service to comply with a cross-industry self-regulatory program for online behavioral advertising managed by the Digital Advertising Alliance (DAA). As part of this service, our online advertisements and sites taking part in online behavioral advertising are delivered with an AdChoices icon that helps consumers understand how their data is being used and provides options to consumers who want more control. Some ads are targeted to your interests and preferences based on your browsing history, which is stored in a cookie on your computer. Your browsing history on the sSites may be tracked in these cookies even if ads are not being displayed. By clicking the AdChoices icon and following the instructions, you may adjust your privacy preferences. If you opt-out using AdChoices, our sites that participate in the program will no longer collect information about your online activities over time and across third-party websites or online services for behavioral advertising purposes. For more information, or to opt out of this type of information collection, you may also visit http://info.evidon.com/pub\_info/184?v=1.
 
 **9\. Opt Out**
 
