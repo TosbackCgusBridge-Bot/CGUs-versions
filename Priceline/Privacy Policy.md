@@ -2,7 +2,7 @@ Select Language
 
 Introduction
 
-Last Updated on March 12, 2013.
+Last Updated on January 17, 2014.
 
 Priceline.com&reg is owned and operated by priceline.com Incorporated (together with its subsidiaries, "priceline.com"). The following describes the privacy policy (as amended or otherwise changed from time to time, the "Privacy Policy") applicable to the services available through the priceline.com web site, our mobile applications and other interfaces (the "Site") from priceline.com. By visiting the Site, you are consenting to the collection, use, disclosure and processing of your personal data described in this Privacy Policy.
 
