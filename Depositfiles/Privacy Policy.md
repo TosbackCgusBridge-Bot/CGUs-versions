@@ -22,7 +22,7 @@
         
     2.  **Cookies use.**
         
-        You explicitly authorize DepositFiles to create and store cookies at your web-client. Such cookies are exclusively used for your comfort in order to save the browser settings. DepositFiles does not use any methods for tracking users (the so-called "spy" or "1x1" gif images etc.);
+        You explicitly authorize DepositFiles to create and store cookies at your web-client. Such cookies are exclusively used for your comfort in order to save the browser settings. DepositFiles does not use any methods for tracking users (the so-called \\"spy\\" or \\"1x1\\" gif images etc.);
         
     3.  **Page indexing.**
         
