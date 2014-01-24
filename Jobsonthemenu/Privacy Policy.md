@@ -1,7 +1,7 @@
 **Talent Network Privacy Policy**
 
   
-**Effective Date: July 15, 2013**  
+**Effective Date: January 24, 2014**  
   
 **Overview**
 
@@ -35,7 +35,7 @@ The types of information we may obtain include:
 *   Job search behavior and preferences, and a record of the searches that you make on the Talent Network. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches.
 *   Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
-We collect information stored in your social media profile that you authorize us to access when you use your social media profile to enact features on the Talent Network, such as the ability to pre-populate our registration form or a job application, or the ability to see which of your friends have contacts with employers that interest you.
+We collect information stored in your social media profile that you authorize us to access when you use your social media profile to enact features on the Talent Network, such as the ability to pre-populate our registration form or a job application.
 
 In addition, when you visit the Talent Network, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail below. The information we may collect by automated means includes:
 
@@ -74,11 +74,11 @@ If we seek to use the information we obtain about you in other ways, we will pro
 
 **INFORMATION WE SHARE**
 
-When you join the Talent Network or apply for a job through the Talent Network, we provide your Personal Information to employer customers. Those employer customers may use your information to contact you directly.
+When you join the Talent Network or apply for a job through the Talent Network, we provide your Personal Information to the employer customer who has hired CareerBuilder to create and operate this Talent Network. The employer customer may use your information to contact you directly.
 
-Additionally, when you join the Talent Network or apply for a job through the Talent Network, the information supplied by you becomes part of the CareerBuilder database but also may become part of the employer customer’s database. In that instance, the use of such information by the employer customer will be subject to the privacy policy of that company, and CareerBuilder is not responsible for that company’s use of your information. CareerBuilder is not responsible for what the hosting/co-branding company, or any third party with whom you may share your Personal Information, subsequently does with your information. You should review the privacy policy of the hosting/co-branding company to ensure that you are comfortable with how it intends to use and disclose your information.
+Additionally, when you join the Talent Network or apply for a job through the Talent Network, the information supplied by you is stored by CareerBuilder on a dedicated database on behalf of the employer customer. In addition, the information supplied by you also may become part of the employer customer’s database. In that instance, the use of such information by the employer customer will be subject to the privacy policy of that company, and CareerBuilder is not responsible for that company’s use of your information. CareerBuilder is not responsible for what the hosting/co-branding company, or any third party with whom you may share your Personal Information, subsequently does with your information. You should review the privacy policy of the hosting/co-branding company to ensure that you are comfortable with how it intends to use and disclose your information.
 
-CareerBuilder’s employer customers that purchase the Talent Network will receive reports that contain non-personally identifiable information about their Talent Network. We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network.
+The employer customer for whom we operate this Talent Network will receive reports that contain non-personally identifiable information about its Talent Network. We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network.
 
 Additionally, we may combine certain non-personally identifiable aggregate data about our users and use such anonymous aggregate data to prepare reports for our users (typically employers or educators). “Aggregate Data” is the demographic information (such as zip code, age, gender, race or ethnicity) and employment information (such as occupation, education and experience) of many individuals that is combined together. Aggregate data is used to analyze the characteristics of various populations and does not identify any specific individuals. For example, an employer may purchase a report from CareerBuilder that states the number of accountants with at least five years experience that live within a certain geographic area. All such reports sold only contain aggregate data which cannot be used to identify any individuals.
 
@@ -93,7 +93,7 @@ In addition, Personal Information we have collected may be passed on to a third 
 
 (Return to Top)
 
-**About Cookies and Third Party Advertisers**
+**About Cookies, Tracking Choices and Third Party Advertisers**
 
 A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” is also called a Web bug or a pixel tag or a clear GIF. Used in combination with cookies, a Web beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a Web site or in an e-mail that is used to monitor the behavior of the user visiting the Web site or sending the e-mail.
 
@@ -101,9 +101,9 @@ CareerBuilder uses cookies and other similar technologies for the convenience of
 
 CareerBuilder permits third party cookies on its Talent Network. For example, third party tools located on the Talent Network may use cookies to remember user preference settings. CareerBuilder also uses web analytics services provided by third parties, which use cookies to collect non-personal information about details of our users’ visits to the Talent Network (including IP addresses) and the resources they access on the Talent Network. These third party web analytics services provide us with reports based on this information in order to help us understand how visitors engage with the Talent Network.
 
-In addition, some of the employers that use the Talent Network may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants.
+In addition, the employer that uses this Talent Network may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later became job applicants.
 
-To obtain guidance regarding deleting or disabling cookies, please click here.
+Our Site does not respond to web browser do not track signals. However, to obtain guidance regarding deleting or disabling cookies, and thereby preventing and limiting the automatic collection of information by such cookies, please click here.
 
 (Return to Top)
 
@@ -121,7 +121,7 @@ The Talent Network may contain links to other sites for your convenience and inf
 
 **International Data Transfers**
 
-When we obtain Personal Information about you, we may process and store the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. Further, users who access your information, such as potential employers, also may be located in a different country than you and different laws may apply to their use of your information.
+When we obtain Personal Information about you, we may process and store the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. Further, the employer for whom we operate this Talent Network also may be located in a different country than you and different laws may apply to their use of your information.
 
 CareerBuilder, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view CareerBuilder, LLC’s certification, please visit the U.S. Department of Commerce's Safe Harbor web site at http://www.export.gov/safeharbor/. You may also contact us directly to learn more about this certification.
 
