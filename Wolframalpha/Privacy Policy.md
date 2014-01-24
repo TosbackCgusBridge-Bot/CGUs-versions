@@ -78,7 +78,7 @@ Effective as of March 5, 2009.
 *   For Developers
 *   Resources &. Tools
 *   Blog
-*   Forum
+*   Community
 *   Participate
 *   Contact
 *   Connect
