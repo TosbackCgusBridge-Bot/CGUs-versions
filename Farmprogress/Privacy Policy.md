@@ -1,19 +1,14 @@
 *   Magazines
     *   American Agriculturist
-    *   California Farmer
-    *   Carolina-Virginia Farmer
     *   Dakota Farmer
     *   Indiana Prairie Farmer
     *   Kansas Farmer
     *   Michigan Farmer
-    *   Mid-South Farmer
     *   Missouri Ruralist
     *   Nebraska Farmer
     *   Ohio Farmer
     *   Prairie Farmer
-    *   Southern Farmer
     *   The Farmer
-    *   The Farmer-Stockman
     *   Wallaces Farmer
     *   Western Farmer-Stockman
     *   Wisconsin Agriculturist
@@ -112,6 +107,11 @@ Information Center
 *   Advertising Specs
 *   Reprints
 
+Terms of Service
+
+*   Privacy Policy
+*   Terms of Service
+
 About
 
 *   Company Overview
@@ -146,4 +146,4 @@ Toolbox
 *   Beef Producer App
 *   Farm Progress App
 
-Powered by iNet Solutions Group ©2011 All Rights Reserved.
+Powered by iNet Solutions Group ©2014 All Rights Reserved.
