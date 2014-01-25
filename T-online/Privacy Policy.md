@@ -91,17 +91,19 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
+*   Facebook zahlt 33.500 Dollar für Sicherheitslücke in OpenID
+*   De Maizière verspricht mehr Geld und Personal für das BSI
 *   Auch Landeselternrat gegen generelles Facebook-Verbot für Lehrer
 *   Microsoft will europäische Kundendaten in Europa speichern
-*   Zu viel Haut: Facebook löscht Nacktfoto von sieben Julis
 *   Datenschutzbeauftragter eröffnet Verfahren gegen Debeka
 *   EU-Justizminister debattieren über Datenschutzreform
 *   Datenschutzbeauftragter fordert Aufklärungskampagne über Datenklau
-*   BSI-Sicherheitstest: Internetnutzer üben Kritik - 14 Millionen Anfragen
-*   Landesschülerrat gegen generelles Facebook-Verbot für Lehrer
 
 weniger Artikel weniger Artikel
 
+*   BSI-Sicherheitstest: Internetnutzer üben Kritik - 14 Millionen Anfragen
+*   Landesschülerrat gegen generelles Facebook-Verbot für Lehrer
 *   Initiative für mehr IT-Sicherheit in Arztpraxen
 *   Gefundene Briefe der Oberfinanzdirektion wurden gestohlen
 *   Datenschutz in Arztpraxen soll besser werden: neue Initiative
@@ -112,8 +114,6 @@ weniger Artikel weniger Artikel
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
 *   Bundesamt warnt vor zunehmenden Gefahren im Netz
 *   Vorratsdaten-Gesetz soll nicht vor EuGH-Urteil kommen
-*   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
-*   Koalition einig: Vorratsdaten-Gesetz nicht vor EuGH-Urteil
 
 *   Kundencenter
 *   Preise und AGB
