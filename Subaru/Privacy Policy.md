@@ -235,10 +235,12 @@ Subaru Confidence In Motion
         
     
     More
-    *   Compare
+    *   Overview
+    *   Compare Vehicles
     *   Engineering &. Technology
     *   Awards &. Accolades
     *   Dear Subaru
+    *   Live. Love.
 *   Shopping Tools
     
     *   Special Offers
@@ -269,6 +271,7 @@ Subaru Confidence In Motion
     
     More
     *   Overview
+    *   Compare Vehicles
     *   Estimate Credit Score
     *   Extended Service Plans
     *   View a Brochure
