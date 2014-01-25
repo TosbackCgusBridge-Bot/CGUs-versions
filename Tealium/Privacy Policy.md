@@ -111,8 +111,8 @@ Learn more about our fast-growing digital marketing ecosystem »
     *   Tealium University
     *   Tealium Learning Community
 
-Digital Velocity 2014  
-Join us Jan. 22–24, 2014, for the industry’s most comprehensive user conference »
+Tealium University  
+Tealium University is the ultimate source of knowledge for any Tealium user. »
 
 *   Resources
     *   Case Studies
