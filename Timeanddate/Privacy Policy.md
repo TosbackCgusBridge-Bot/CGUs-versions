@@ -70,7 +70,7 @@ Register | Log in | Customize Menu
     *   Age Calculator
     *   Date Pattern Calculator
 
-NewsletterAbout UsSite Map Home >. Site information >. Privacy Statement for timeanddate.com Privacy Statement for timeanddate.com
+NewsletterAbout UsSite Map Home >. Site information >. Privacy Statement for timeanddate.com +1 this page: Follow us on Google+: Tweet about this page: Tweet Follow us on twitter: Follow @timeanddate Like/share this page: Follow us on facebook: Privacy Statement for timeanddate.com
 
 timeanddate.com has created this privacy statement to demonstrate our firm commitment to privacy. This page discloses our information gathering and dissemination practices for this website: www.timeanddate.com.
 
