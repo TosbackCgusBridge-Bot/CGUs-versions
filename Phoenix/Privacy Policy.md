@@ -269,7 +269,7 @@ ARSC@phoenix.edu
 
 We operate or may process information in multiple jurisdictions, and some Education Partners and Business Associates may be located outside of the jurisdiction in which you reside. In such cases, your Personal Information may be collected, used, disclosed, stored and processed in these other jurisdictions for the purposes described in this Privacy Policy. The data protection and other laws of the United States and other countries might differ from your jurisdiction. We require our Education Partners and Business Associates to use your Personal Information in accordance with this policy and to take reasonable steps to ensure that your privacy is protected in accordance with applicable laws. Please be advised that, by using our Sites and services, you are consenting to the transfer and processing of your Information across international borders. Your Information may be subject to the laws of those other jurisdictions, including lawful requirements to disclose Personal Information to government authorities.
 
-**8\. Online Behavioral Advertising**
+**8. Do Not Track and Online Behavioral Advertising**
 
 Do Not Track (DNT) is a browser-based signal that, when set, signifies your desire not to be tracked online. Because there is not yet a consensus on how companies should respond to web browser-based or other DNT mechanisms, University of Phoenix does not itself respond to web browser-based DNT signals.
 
