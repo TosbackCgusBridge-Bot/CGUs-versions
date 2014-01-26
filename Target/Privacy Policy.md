@@ -152,7 +152,7 @@ Target Corporation may use this information to offer you products and services t
 
   
 
-Target Corporation owns and operates Target Stores and Target web sites, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co. (Cooking.com and Chef’s Catalog).
+Target Corporation owns and operates Target Stores and Target web sites, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co. (Cooking.com and Chef’s Catalog) and Dermstore LLC (Dermstore.com, Blush.com, and Hairenvy.com).
 
 Card Issuing Bank
 
@@ -292,7 +292,11 @@ Target Privacy Policy Revisions
 
 This history changes begins as of July 2004 and includes the date of the update and a description of changes.
 
-Last update: 12/30/2013
+Last update: 1/25/2014
+
+Jan 2014
+
+Added Dermstore LLC to list of Target subsidiaries and affiliates
 
 Dec 2013
 
