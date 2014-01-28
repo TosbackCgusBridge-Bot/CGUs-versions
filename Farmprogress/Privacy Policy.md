@@ -109,7 +109,6 @@ Information Center
 
 Terms of Service
 
-*   Privacy Policy
 *   Terms of Service
 
 About
