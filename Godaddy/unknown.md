@@ -1,5 +1,3 @@
-**Last Revised: February 16, 2012**
-
 (As Approved by ICANN on October 24, 1999)
 
 1\. purpose
