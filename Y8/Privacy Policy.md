@@ -98,13 +98,5 @@ Y8.com project: play free games online and watch funny cartoons, since 2006.
 *   Play Free Games
 *   играть бесплатно
 *   Jeux gratuits
-*   Spiele Gratisspiele
-*   Gioca Giochi Gratuiti
-*   Jugar juegos gratis
-*   Mag laro ng Mga Bagong Laro
-*   เล่นเกมฟรี
-*   玩免费游戏
-*   Chơi Game Miễn phí
-*   Jogar Jogos Grátis
   
 *   Play Online Games
