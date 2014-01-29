@@ -1,5 +1,3 @@
-**Last Revised: December 10, 2013**
-
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
 **1\. OVERVIEW**
@@ -238,7 +236,7 @@ In addition, you specifically acknowledge and agree that Go Daddy shall have no 
 4.  Service interruptions that do not prevent visitors from accessing your website, but merely affect your ability to make changes to your website, including but not limited to, changes via mechanisms such as file transfer protocol (“FTP”) and email. or
 5.  Service interruptions beyond the reasonable control of Go Daddy or that are not reasonably foreseeable by Go Daddy, including, but not limited to, power outages, interruption or failure of telecommunication or digital transmission links, hostile network attacks, network congestion or other failures.
 
-Subject to the provisions of Force Majeurebelow, Go Daddy offers a service uptime guarantee (“Service Uptime Guarantee”) for paid services of 99.999% availability (defined below).  You shall receive service credits for any Outage (defined below) of the service covered by the Service Uptime Guarantee.  The service credits shall be applied as extensions to the terms of the affected Service.  The Service Uptime Guarantee shall become effective fourteen (14) days after your purchase of the Service covered by the Service Uptime Guarantee to allow both parties time to properly configure and test the Service. 
+Subject to the provisions of Force Majeure below, Go Daddy offers a service uptime guarantee (“Service Uptime Guarantee”) for paid services of 99.999% availability (defined below).  You shall receive service credits for any Outage (defined below) of the service covered by the Service Uptime Guarantee.  The service credits shall be applied as extensions to the terms of the affected Service.  The Service Uptime Guarantee shall become effective fourteen (14) days after your purchase of the Service covered by the Service Uptime Guarantee to allow both parties time to properly configure and test the Service. 
 
 _Definitions_.  For the purposes of the Service Uptime Guarantee, the following definitions shall apply:
 
@@ -314,7 +312,7 @@ Notwithstanding anything in this Agreement to the contrary, Plan Bee, LLC, the R
 
 You agree to indemnify, defend and hold harmless the .COM Registry Operator, VeriSign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
 
-**16\. provisions specific to all Donuts TLD registrations: **.bike. .camera. .clothing. .construction. .contractors. .diamonds. .directory. .enterprises. .estate. .equipment;  .gallery. .graphics. .guru. .holdings. .kitchen. .land. .lighting. .photography. .plumbing. .singles. .technology. .tips. .today. .ventures. .voyage****
+**16\. provisions specific to all Donuts TLD registrations: **.bike. .cab. .camera. .careers. .clothing. .company. .construction. .contractors. .diamonds. .directory. .domains. .enterprises. .estate. .equipment;  .gallery. .graphics. .guru. .holdings. .kitchen. .land. .lighting. .photography. .photos. .plumbing. .shoes. .singles. .technology. .tips. .today. .ventures. .voyage****
 
 You shall, within thirty days of demand, indemnify, defend and hold harmless the Registry, Donuts’ service providers, Registrar and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without our prior written consent, which consent shall not be unreasonably withheld.  This indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
