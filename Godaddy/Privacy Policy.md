@@ -1,5 +1,3 @@
-**Last Revised: January 22, 2014**
-
 Go Daddy Respects your privacy
 
 This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
