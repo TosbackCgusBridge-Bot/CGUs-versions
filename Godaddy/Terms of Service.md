@@ -1,8 +1,6 @@
 Go Daddy  
 Universal Terms of Service Agreement
 
-**Last Revised: January 22, 2014**
-
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
 **1\. OVERVIEW**
@@ -757,8 +755,4 @@ Go Daddy Legal Department
 14455 North Hayden Rd.  
 Suite 219  
 Scottsdale, AZ 85260  
-legal@godaddy.com 
-
-  
-Revised: 1/22/2014  
-Copyright © 2005-2014 GoDaddy.com, LLC All Rights Reserved.
+legal@godaddy.com
