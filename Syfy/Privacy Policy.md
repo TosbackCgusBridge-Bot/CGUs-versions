@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Sneak Peek - Lovers. Apart Lost Girl - Sneak Peek - Lovers. Apart
+Syfy Video Lost Girl - Sneak Peek - Turn to Stone Lost Girl - Sneak Peek - Turn to Stone
 
-Catch a sneak peek of Lost Girl. Mondays at 10/9c.
+Check out a sneak peek of episode 4 of Lost Girl, Mondays at 10/9c.
 
 Lost Girl - Interview with Vex &. Trick Lost Girl - Interview with Vex &. Trick
 
 Vex and Trick talk about season 4.
 
-Babysitters Club Babysitters Club
+Backstabbed Backstabbed
 
-A cute scene between young Tamsin and Kenzi culminating in Tamsin announcing her need to pee.
+Clio betrays Bo, but finds that shes not the only one who can turn the tables.
 
-Siren on the Rocks Siren on the Rocks
+Jumbee's Story Jumbee's Story
 
-Hale takes one for the team when he and Dyson come up against an army of Fae beauticians
+Bo experiences the unresolved death scene of a vengeful spirit upon taking its Chi into herself.
 
 *   FAQ
 *   Feedback
