@@ -91,17 +91,22 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Klage gegen Schufa von BGH abgewiesen
+*   Facebook darf künftig Anfragen der NSA veröffentlichen
+*   BGH weist Klage gegen Schufa ab
+*   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
+*   Ihr Ansprechpartner
+*   Datenschutztag: Experte fordert persönliche Vorsicht
 *   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
-*   Facebook zahlt 33.500 Dollar für Sicherheitslücke in OpenID
 *   De Maizière verspricht mehr Geld und Personal für das BSI
+
+weniger Artikel weniger Artikel
+
 *   Auch Landeselternrat gegen generelles Facebook-Verbot für Lehrer
 *   Microsoft will europäische Kundendaten in Europa speichern
 *   Datenschutzbeauftragter eröffnet Verfahren gegen Debeka
 *   EU-Justizminister debattieren über Datenschutzreform
 *   Datenschutzbeauftragter fordert Aufklärungskampagne über Datenklau
-
-weniger Artikel weniger Artikel
-
 *   BSI-Sicherheitstest: Internetnutzer üben Kritik - 14 Millionen Anfragen
 *   Landesschülerrat gegen generelles Facebook-Verbot für Lehrer
 *   Initiative für mehr IT-Sicherheit in Arztpraxen
@@ -109,11 +114,6 @@ weniger Artikel weniger Artikel
 *   Datenschutz in Arztpraxen soll besser werden: neue Initiative
 *   Linke-Fraktion will Datenschutz in Behörden modernisieren
 *   Debeka stockt nach Vorwürfen Datenschutzreferat personell auf
-*   Staatsdiener sollen dienstliche Facebook-Nutzung unterlassen
-*   Thüringens Datenschützer fordert mehr Kompetenzen
-*   Bundesamt warnt vor zunehmenden Gefahren im Netz
-*   Bundesamt warnt vor zunehmenden Gefahren im Netz
-*   Vorratsdaten-Gesetz soll nicht vor EuGH-Urteil kommen
 
 *   Kundencenter
 *   Preise und AGB
