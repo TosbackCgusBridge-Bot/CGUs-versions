@@ -140,7 +140,7 @@ If you have any additional questions or requests, you may send an email to info@
     *   Snail Bob
     *   Flakboy 2
     *   Bloons Tower Defense 3
-    *   Lose the Heat 2
+    *   Lose the Heat 3
     *   Uphill Rush 3
 *   Best Game Types
     *   Skateboarding
