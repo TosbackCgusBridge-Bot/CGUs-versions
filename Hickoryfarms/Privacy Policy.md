@@ -150,6 +150,7 @@ Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up
 
 *   About Us
 *   In The News
+*   Our Blog
 *   My Account
 *   No Kid Hungry®
 
