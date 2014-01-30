@@ -21,7 +21,7 @@
 3.  Crossovers &. SUVs
     *   RAV4 $23,550 starting msrp 1 24/31 est. mpg 2 $28,320 as shown Explore Build
     *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 $39,790 as shown Explore Build
-    *   Highlander $29,215 starting msrp 1 19/25 est. mpg 2 $39,640 as shown Explore Build
+    *   Highlander $29,215 starting msrp 1 20/25 est. mpg 2 $39,640 as shown Explore Build
     *   FJ Cruiser $27,680 starting msrp 1 16/20 est. mpg 2 $29,270 as shown Explore Build
     *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,275 as shown Explore Build
     *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 $52,555 as shown Explore Build
@@ -333,13 +333,13 @@ Toyota Customer Relations - Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501
 
-1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $810 for Cars, $860 for Small/Medium Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), and $995 for Large Trucks (Land Cruiser, Tundra and Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
+1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $810 for Cars, $860 for Small/Medium Trucks (Land Cruiser, Sienna, RAV4, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), and $995 for Large Trucks (Tundra and Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 2.  2013 EPA-estimated mileage. Actual mileage will vary.  
         2014 EPA-estimated mileage. Actual mileage will vary.
 3.  EPA-estimated driving range when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
 4.  2014 EPA-estimated mpg equivalent. Actual mpge will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions. Battery capacity will decrease with time and use. For more information on mpge and range, please see www.fueleconomy.gov.
 5.  2013 EPA combined estimated miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
-6.  51 city/49 highway/50 combined mpg estimates. Actual mileage will vary.
+6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg. Actual mileage will vary.
 
 Vehicles
 
@@ -386,4 +386,4 @@ Toyota Social
 *   Youtube
 *   Google+
 
-Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2013 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map AdChoices
+Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map AdChoices
