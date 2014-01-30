@@ -31,6 +31,7 @@ From a single page on WestlawNext, access the practice area-specific information
     *   Reuters Legal
     *   Select Wolters Kluwer Daily Reports
     *   CQ Roll Call Washington Briefings
+    *   The Hill and Practitioner Insights Commentaries
     *   The largest collection of litigation content
     *   And more
 *   Seamlessly access your Alerts on WestlawNext to inform you promptly of new developments relevant to your practice area or matching your customized search
@@ -42,12 +43,17 @@ PRACTICE AREAS
 
 *   Antitrust
 *   Bankruptcy
+*   Capital Markets
+*   Corporate Council
+*   Corporate Governance
 *   Energy &. Environment
 *   Employment
-*   Finance &. Banking
 
+*   Finance &. Banking
 *   Health Law
+*   Immigration
 *   Intellectual Property
+*   Mergers &. Acquisitions
 *   Products Liability
 *   Securities
 
