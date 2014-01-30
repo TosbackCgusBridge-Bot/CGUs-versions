@@ -1,4 +1,4 @@
-Real Dates in Real-Time Speeddate Privacy Policy Last Updated: December 10, 2013
+Real Dates in Real-Time Speeddate Privacy Policy Last Updated: December 19, 2013
 
 Speeddate.com, LLC ("Speeddate") respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
@@ -105,7 +105,15 @@ How to contact us
 
 If you have any questions about this Privacy Policy, please contact us by email or postal mail as follows:
 
-Privacy Officer Speeddate.com, LLC 8300 Douglas Avenue Dallas, Texas 75225 support@speeddate.com © IAC/InterActiveCorp. All rights reserved. Linked information:
+Privacy Officer  
+Speeddate.com, LLC  
+8300 Douglas Avenue  
+Dallas, Texas 75225  
+support@speeddate.com
+
+© IAC/InterActiveCorp. All rights reserved.
+
+Linked information:
 
 Cookies:
 
@@ -135,7 +143,8 @@ Careers
 Legal  
 Privacy Policy  
 Terms of Use  
-Dating Tips
+Dating Tips  
+Ad Choices
 
   
 Community  
