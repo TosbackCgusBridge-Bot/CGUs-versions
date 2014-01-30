@@ -146,7 +146,7 @@ One of the most valuable assets of our business is you. Except as described belo
 > Flurry: http://www.flurry.com/privacy-policy.html  
 > Google Analytics: http://www.google.com/analytics/learn/privacy.html  
 > Omniture: http://www.omniture.com/static/61  
-> comScore and its affiliate, Scorecard Research: http://www.scorecardresearch.com/Priv.html  
+> comScore and its affiliate, Scorecard Research: http://www.scorecardresearch.com/privacy.aspx  
 > http://networkadvertising.org/managing/opt\_out.asp  
 > and http://www.aboutads.info/choices  
 > 
