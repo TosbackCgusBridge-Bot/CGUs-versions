@@ -31,7 +31,7 @@ $5 More for UPS 2 Day
 
 *   Women
     *   *   Shoes &. Boots
-        *   Swim Shop
+        *   Outerwear Shop
         *   Performance Collection
         *   Canvas Lands' End
         
@@ -50,7 +50,7 @@ $5 More for UPS 2 Day
         *   Petite Plus
         *   Tall Plus
     *   *   Categories
-        *   Outerwear
+        *   Swimsuits
         *   Knit Tops, Polos &. Turtlenecks
         *   Shirts &. Blouses
         *   Sweaters &. Cardigans
@@ -59,9 +59,8 @@ $5 More for UPS 2 Day
         *   Dresses
         *   Skirts
         *   Blazers &. Jackets
-        *   Swimsuits
         *   Activewear
-        *   Hats, Gloves &. Scarves
+        *   Outerwear
         *   Sleepwear
         *   Shoes
         *   Socks, Tights &. Underwear
@@ -70,6 +69,7 @@ $5 More for UPS 2 Day
 *   Men
     *   *   Made to Work
         *   Shoes &. Boots
+        *   Outerwear Shop
         *   Canvas Lands' End
         
         *   Featured Shops
@@ -85,31 +85,32 @@ $5 More for UPS 2 Day
         *   Big
         *   Big &. Tall
     *   *   Categories
-        *   Outerwear
         *   Polos, T-shirts &. Turtlenecks
         *   Dress Shirts
         *   Casual Button-down Shirts
         *   Sweaters &. Cardigans
         *   Pants
+        *   Shorts
+        *   Swimwear
         *   Sportcoats &. Blazers
         *   Sleepwear
+        *   Outerwear
         *   Shoes
         *   Ties
         *   Belts &. Accessories
         *   Socks &. Underwear
-        *   Hats, Gloves &. Scarves
-        *   Shorts
-        *   Swimwear
         *   Activewear
 *   Kids
-    *   *   Girls Shoes &. Boots
-        *   Boys Shoes &. Boots
+    *   *   Swim Shop
+        *   Shoes &. Boots
+        *   Outerwear Shop
         *   School Uniforms
         
         *   Featured Shops
         *   New Arrivals
         *   Boys Iron Knee
         *   Girls Knit Kit
+        *   Go To School
         *   Sale
         
         *   Shop By Age Range
@@ -121,7 +122,7 @@ $5 More for UPS 2 Day
             *   Little Boy (size 4-7)
             *   Big Boy (size 7-20)
     *   *   Girls
-        *   Outerwear
+        *   Swim
         *   Tops
         *   Sweaters &. Cardigans
         *   Dresses
@@ -129,55 +130,54 @@ $5 More for UPS 2 Day
         *   Skirts &. Skorts
         *   Shorts
         *   Blazers &. Jackets
-        *   Hats, Gloves &. Scarves
+        *   Outerwear
         *   Sleepwear
-        *   Swim
         *   Backpacks &. Lunch Boxes
         *   Tights, Socks &. Underwear
         *   Accessories
         *   Shoes
     *   *   Boys
-        *   Outerwear
+        *   Swim
+        *   Shorts
         *   Tops
         *   Sweaters
         *   Pants
         *   Blazers &. Jackets
-        *   Hats, Gloves &. Scarves
+        *   Outerwear
         *   Sleepwear
-        *   Shorts
-        *   Swim
         *   Backpacks &. Lunch Boxes
         *   Ties &. Accessories
         *   Socks &. Underwear
         *   Shoes
-*   Outerwear
-    *   *   Shop Outerwear
+*   Swim
+    *   *   Shop Swimwear
         *   Women
         *   Men
         *   Girls
         *   Boys
-        *   Hat Gloves &. Scarves
-        *   Long Underwear
-        *   Snow Boots
+        *   Cover-ups &. Rash Guards
+        *   Water Shoes &. Sandals
+        *   Totes &. Bags
+        *   Beach Towels
 *   Home
     *   *   Totes
+        *   Beach Towels
         
         *   Featured Shops
         *   New Arrivals
+        *   Hotel Bed &. Bath
         *   Supima Bedding &. Bath
-        *   Flannel Bedding
         *   Sale
     *   *   Categories
         *   Bedding
         *   Bath
         *   Throws &. Home Décor
-        *   Kitchen &. Dining
+        *   Beach Towels
+        *   Totes
         *   Storage &. Organization
         *   Seasonal Décor &. Gifts
-        *   Totes
+        *   Kitchen &. Dining
         *   Backpacks, Luggage &. Bags
-        *   Beach Towels
-        *   Outdoor Living
         *   Kids Home
         *   Dog Shop
 *   Uniforms
@@ -187,7 +187,7 @@ $5 More for UPS 2 Day
         *   Polos that Perform
         *   Iron Knee Pants
         *   Phys Ed Locker Room
-        *   Backpacks &. Camp
+        *   After the Bell
         *   Sale
         
         *   Shop By Age Range
