@@ -54,9 +54,7 @@ Contact us
 
 Need to reach customer support? Live help is available 24/7.
 
-Contact us
-
-*   AudiChat
+Contact us AudiChat
 
 *   See more contact options
 
