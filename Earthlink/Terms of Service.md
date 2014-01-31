@@ -178,7 +178,7 @@ This Agreement is governed by Georgia law without regard to conflict of law prov
 > 
 > > 16.3(1) Notice of Dispute
 > > 
-> > A party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("Notice"). A Notice to EarthLink should be addressed to: General Counsel (Arbitration), EarthLink, Inc., 1375 Peachtree Street, N.E., Atlanta, Georgia 30308 ("Notice Address"). The Notice must (a) describe the nature and basis of the claim or dispute. and (b) set forth the specific relief sought ("Demand"). A Notice to you will be addressed to the billing address that EarthLink has on file for you.
+> > A party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("Notice"). A Notice to EarthLink should be addressed to: General Counsel (Arbitration), EarthLink, Inc., 1375 Peachtree Street, N.E., Atlanta, Georgia 30309 ("Notice Address"). The Notice must (a) describe the nature and basis of the claim or dispute. and (b) set forth the specific relief sought ("Demand"). A Notice to you will be addressed to the billing address that EarthLink has on file for you.
 > > 
 > > 16.3(2) Settlement Proposals
 > > 
