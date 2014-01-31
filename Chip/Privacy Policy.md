@@ -62,40 +62,128 @@ Sollte sich der Status bei Klick nicht ändern, wurden in Ihrem Browser vermutli
 
   
 
-**6.2 Einsatz nutzungsbezogener Werbung (Behavioural Advertising)**  
-Auf den Webseiten von CHIP Digital betreiben dritte Unternehmen Werbung in unterschiedlichen Formen (Banner, Pop Up usw.). Um die Auswahl der angezeigten Werbung ansprechend und möglichst interessensgerecht zu gestalten, wird für die Werbeschaltungen ein nutzungsbezogenes Auswahlverfahren verwendet (Behavioural Advertising). Dazu werden Daten mit Nutzungsinformationen (besuchte Webseiten, Anzahl der Besuche, Besuchszeiten, Verweildauer auf einzelnen Seiten usw.) mittels sog. Cookies (siehe Abschnitt Cookies) auf der Festplatte des Nutzers gespeichert. Diese Nutzungsprofile werden anonymisiert und in einem technischen (statistischen) Bewertungsverfahren ausgewertet, um später bei der Einspielung der Werbung eine auf die Interessen des jeweiligen Nutzers bezogene Auswahl zu ermöglichen. Dieses Verfahren wird auch Behavioural Targeting genannt. In keinem Fall werden dabei personenbezogene Daten, wie Name, Anschrift, E-Mailadresse in den Cookies gespeichert. Die IP-Adresse wird dabei an den Diensteanbieter übermittelt, dort aber nur entweder in verkürzter oder verschlüsselter (d. h. ersetzt durch eine andere Nummernfolge, die keine Rückschlüsse auf die ursprüngliche IP-Nummernfolge zulässt und nicht wieder zurückverfolgt werden kann) gespeichert und weiter verarbeitet. Das Behavourial Targeting auf unseren Webseiten wird von uns und zum Teil von Drittunternehmen betrieben, die auch Werbung für Webseiten anderer Anbieter betreiben. Diese Drittunternehmen erstellen dann selbst die genannten Nutzungsprofile mittels Cookies und wenden ihre jeweilige Targeting Systeme an, um die gesammelten Daten zum Zweck der nutzergerechten Werbung auszuwählen. Es handelt sich um folgende Unternehmen:  
+**6.2 Über unsere Werbung**  
+Wir möchten Sie gerne umfassend zum Thema nutzungsbasierte Online-Werbung informieren. Die Werbeflächen auf dieser Webseite werden vom digitalen Werbevermarkter TOMORROW FOCUS Media GmbH vermarktet.  
   
-TOMORROW FOCUS Portal GmbH AdAudience GmbH, Pilot 1/0 GmbH  
+Die Werbung auf dieser Webseite wird durch die anonymen Erhebung und Verarbeitung Ihres Nutzungsverhaltens auf prognostizierte Interessen hin für Sie optimiert. Als Nutzer dieser Webseite erhalten Sie dadurch auf Ihre Interessen abgestimmte Werbung. Dazu wird ein Cookie auf Ihrem Rechner gespeichert.  
+  
+Cookies (siehe Abschnitt Cookies) sind kleine Textdateien, die auf der Festplatte Ihres Computers abgelegt werden und die Wiedererkennung ermöglichen, aber keine persönliche Identifikation Ihrer Person zulassen.  
+Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung zuständig sind folgende Unternehmen im Auftrag von TOMORROW FOCUS Media GmbH:  
+  
+
+*   AudienceScience (Germany) GmbH
+*   nugg.ad AG predictive behavioral targeting
+
+  
+**Welche Daten werden erfasst?**  
+  
+Erfasst werden Informationen über Ihre Aktivitäten auf den von TOMORROW FOCUS Media GmbH vermarkteten Webseiten (z.B. Surfverhalten, besuchte Unterseiten der Webseiten etc.). Diese Aktivitäten werden unter einem Pseudonym gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet.  
+  
+Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet. Sämtliche Nutzungsdaten werden unter Verwendung eines Pseudonyms gespeichert und dadurch zusätzlich geschützt.  
+  
+Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie auf folgendem Link widersprechen und die Datenerhebung deaktivieren:  
+  
+Nein, ich möchte keine nutzungsbasierte Werbeeinblendungen mehr erhalten  
+  
+
+*   www.audiencescience.com/privacy/  
+    
+  
+*   www.nugg.ad/de/unternehmen/datenschutz  
+    
   
   
-GroupM Competence Center GmbH  
+Generell können Sie das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen. Sie können Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers. Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu Funktionseinschränkungen der Webseite führen. Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.  
+TOMORROW FOCUS Media GmbH hat sich zudem freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Den gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen:  
+www.meine-cookies.org/ddow.html  
   
   
-Mediascale GmbH  
+**Datenerhebung anderer Dienstleister im Bereich nutzungsbasierter Online-Werbung**  
   
+Um Werbung für Sie anhand Ihrer Nutzungsinteressen zu optimieren, haben wir es folgenden weiteren Unternehmen gestattet, Nutzungsdaten zu erheben. Auf den Webseiten der genannten Unternehmen finden Sie weitere Datenschutzinfos zu dem jeweiligen Angebot:  
   
-Google Ireland Limited  
+Adconion GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
+ADITION technologies AG  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
-Nugg.ad GmbH  
+AdJug GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
+adnologies GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
-Auf den angegebenen Webseiten der genannten Unternehmen finden Sie weitere Informationen zum Datenschutz und Behavioural Targeting dieser Anbieter und ihrer Technologie. Selbstverständlich haben Sie auch hier jederzeit die Möglichkeit, zu verhindern, dass entsprechende pseudonymisierte bzw. anonymisierte Nutzerprofile im Rahmen eines Behavioural Targeting angelegt werden. Einer entsprechenden Nutzung können Sie jederzeit gegenüber den genannten Unternehmen widersprechen. Bitte verwenden Sie dafür die nachfolgenden Links:  
+adscale GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
-TOMORROW FOCUS Portal GmbH AdAudience GmbH, Pilot 1/0 GmbH  
-Setzen Sie am Fuß der Seite das Häkchen bei "Do not recognize my browser" und klicken Sie auf "Change Privacy"  
+ADTECH GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
-GroupM  
-Setzen Sie bei "Bitte meinen Browser nicht in targ.ad teilnehmen lassen" ein Häckchen und klicken Sie auf "Speichern"  
+adyard GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+Criteo GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
 Google  
-Klicken Sie am Ende der Seite auf den Button "AD-COOKIE OPT-OUT"  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
-Mediascale  
-Klicken Sie am Ende der Seite auf den Button "Cookie Opt-out"  
+GroupM Competence Center GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
   
-Nugg.ad  
-Klicken Sie in der rechten Spalte im untersten Kasten den Button "OPT-OUT"
+Kupona GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+Ligatus GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+M,P Newmedia GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+MediaMind  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+mediascale GmbH &. Co. KG  
+Datenschutz-Infos  
+Zum Opt-out Link  
+´  
+Performance Media Deutschland GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+Pilot 1/0 GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+plista GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+uniquedigital GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+xplosion interactive GmbH  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
+Eine weitere Möglichkeit zur Deaktivierung von Cookies bietet der Präferenzmanager des BVDW:  
+http://www.meine-cookies.org/cookies\_verwalten/praeferenzmanager-beta.html  
 
   
   
@@ -138,4 +226,4 @@ Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Fa
 **9\. Änderungsvorbehalt** Einklappen Wir behalten uns vor, diese Datenschutzerklärung von Zeit zu Zeit unter Beachtung der gesetzlichen Bestimmungen zu ändern.  
   
   
-**Stand: August 2011**
+**Stand: August 2011 - Änderung Punkt 6.2 Stand Januar 2014**
