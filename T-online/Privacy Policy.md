@@ -91,8 +91,8 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Facebook knackt Code für mobile Endgeräte- Aktie springt nach oben
 *   Klage gegen Schufa von BGH abgewiesen
-*   Facebook darf künftig Anfragen der NSA veröffentlichen
 *   BGH weist Klage gegen Schufa ab
 *   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
 *   Ihr Ansprechpartner
