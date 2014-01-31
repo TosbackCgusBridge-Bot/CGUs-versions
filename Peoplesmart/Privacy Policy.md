@@ -96,4 +96,4 @@ If you would like to stop receiving newsletters and marketing message emails fro
 
         HomeSitemapPrivacy PolicyCommon UsesCourt RecordsCounty RecordsCriminal RecordsBlogProfessional SolutionsJoin **Follow PeopleSmart:**
 
-**All rights reserved © 2013 PeopleSmart** PeopleSmart is designed to help you safely find people and learn about others. Find someone by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the guidelines of the Fair Credit Reporting Act. To learn more, read our Terms of Service and Privacy Policy. VerisignTRUSTe WAF Profile info: \* search type: PeopleByName
+**All rights reserved © 2013 PeopleSmart** PeopleSmart is designed to help you safely find people and learn about others. Find someone by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the guidelines of the Fair Credit Reporting Act. To learn more, read our Terms of Service and Privacy Policy. Verisign WAF Profile info: \* search type: PeopleByName
