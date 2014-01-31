@@ -141,6 +141,7 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Advantage Insurance Company
 *   GEICO Choice Insurance Company
 *   GEICO Secure Insurance Company
+*   GEICO County Mutual Insurance Company
 *   GEICO Insurance Agency, Inc.
 
-The Effective Date of the revised Privacy Policy is December 23, 2013.
+The Effective Date of the revised Privacy Policy is January 30, 2014.
