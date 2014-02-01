@@ -1,4 +1,4 @@
-This notice of privacy practices was updated on January 9, 2013.  
+This Notice of Privacy Practices was updated on January 31, 2014.  
   
 This notice of privacy practices applies to information collected in Macy’s stores, online at macys.com, and via mobile applications (Macy’s iShop, macys.com accessed through your mobile device). To view your separate Department Store National Bank Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
   
@@ -21,12 +21,12 @@ If you have any questions about this notice, please contact our Customer Service
 *   By phone at 1.877.876.2297.
 *   Via e-mail at privacy.master@macys.com
 
-Your access of and use of our web site means you agree to the terms in this notice of privacy practices and our Legal Notice.
+Your access of and use of our website means you agree to the terms in this notice of privacy practices and our Legal Notice.
 
   
 Information We Collect  
   
-We collect information from a variety of sources, including information provided by you, information we collect when you visit our Web site or stores and information we collect about you from third party sources.  
+We collect information from a variety of sources, including information provided by you, information we collect when you visit our website or stores and transaction information we collect about you from third party sources.  
   
 The following are examples of the types of information we may collect:
 
@@ -39,10 +39,10 @@ The following are examples of the types of information we may collect:
     *   Mobile number(s)
     *   Credit card number(s)
     *   Birth date
-    *   Password
-*   Information associated with use of our Web site:
-*   *   macys.com uses the information gathered from cookies and web beacons, such as IP address to enhance your experience on our Web site.
-*   Information associated with doing business with Macy’s:
+    *   Security question answers
+*   Information associated with use of our website:
+*   *   macys.com uses the information gathered from cookies and web beacons, such as IP address to enhance your experience on our website.
+*   Information associated with transacting business with Macy’s including:
 *   *   Transaction information, including:
     *   *   Items purchased
         *   Date and time of your transaction
@@ -54,26 +54,26 @@ Back to Top
 How We Use Information  
   
 
-We may use the information we collect to process a transaction, provide the products or services you request, to improve our Web site and stores, to enhance your shopping experience, and for marketing and promotional purposes. We may combine information about you that we collect on-line, in our stores, via mobile applications, and from third party sources.  
+We may use the information we collect to: process a transaction. provide products or services you request. improve our website and stores. enhance your shopping experience. and for marketing and promotional purposes. We may combine information about you that we collect on-line, in our stores, via mobile applications, and from third party sources.  
   
 Cookies and Other Technologies on macys.com
 
 This section addresses macys.com use of cookies and Flash Cookies.
 
-A cookie is a small piece of information sent by a Web site that is stored on your hard disk by your computer's browser. A web beacon (also known as tracking pixels or clear GIF) is an embedded image on a Web site that monitors a Web site’s activity.  
+A cookie is a small piece of information sent by a website that is stored on your hard disk by your computer's browser. A web beacon (also known as tracking pixels or clear GIF) is an embedded image on a website that monitors a website’s activity.  
   
-At macys.com, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. We use session cookies, for example, to add items to your shopping bag. Persistent cookies last from visit to visit. they do not go away when you exit your browser. At macys.com, we use persistent cookies to give you a more personalized shopping experience and to help you navigate our Web site more efficiently. For example, we use persistent cookies to show you items you have previously browsed.  
+At macys.com, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. We use session cookies, for example, to add items to your shopping bag. Persistent cookies last from visit to visit. they do not go away when you exit your browser. At macys.com, we use persistent cookies to give you a more personalized shopping experience and to help you navigate our website more efficiently. For example, we use persistent cookies to show you items you have previously browsed.  
   
-Managing cookies preferences differs from browser to browser so please refer to your browser for further information. If you would like to disable cookies and web beacons from macys.com, please use the help function in your web browser to restrict cookies from our Web site. If you block cookies from macys.com, you will not be able to make purchases on our Web site.
+Managing cookie preferences differs from browser to browser so please refer to your browser for further information. If you would like to disable cookies and web beacons from macys.com, please use the help function in your web browser to restrict cookies from our website. If you block cookies from macys.com, you will not be able to make purchases on our website.
 
-A Flash Cookie (also known as Local Shared Object) is a data file stored on your computer by the web sites that you visit (click here for more details). From time to time, macys.com uses Flash Cookie(s) on the web site, for example, to enable or control Flash-based content. Flash Cookies provide similar functionality as the cookies (discussed above in this section), but are based on different technology and are persistent. To manage the Flash Cookie settings and preferences for your computer, please click here and you will be directed to the Settings Manager on Adobe's web site. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.
+A Flash Cookie (also known as Local Shared Object) is a data file stored on your computer by the websites that you visit (click here for more details). From time to time, macys.com may use Flash Cookie(s) on the website, for example, to enable or control Flash-based content. Flash Cookies provide similar functionality as the cookies (discussed above in this section), but are based on different technology and are persistent. they do not go away when you exit your browser. To manage the Flash Cookie settings and preferences for your computer, please click here and you will be directed to the Settings Manager on Adobe's website. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.
 
   
 Back to Top
 
 Information Sharing  
   
-We may share your information within Macy’s, Inc. and its affiliates and subsidiaries (including Bloomingdale’s). We may also share your information with third parties with whom we have relationship (to opt-out of third party sharing please click here). For example:  
+We may share your information within Macy’s, Inc. and its affiliates and subsidiaries (including Bloomingdale’s). We may also share your information with third parties with whom we have a relationship (to opt-out of third party sharing please click here).  
   
 Internally
 
@@ -81,7 +81,11 @@ Internally
 
 Externally
 
-*   We may share your information with third parties so that they can directly market their products or services to you if we feel that these products or services may be of interest to you.
+*   We may share your information with third parties to assist in the management of the site or so they can directly markettheir products or services to you if we feel that these products or services may be of interest to you. For Example:
+
+> > Webiste Optimization Services. macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
+> >   
+> > Borderfree. macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.
 
 Coremetrics  
   
@@ -95,23 +99,22 @@ Back to Top
 
 Customer Preferences and Opt-Out Choices  
   
-E-mail: To opt-out of receiving promotional or marketing e-mails from macys.com, you may:
+E-mail: To opt-out of receiving promotional or marketing e-mails from macys.com at a specific email address, you may:
 
+*   Use the unsubscribe link in the footer of any e-mail sent by macys.com.
 *   Unsubscribe by signing into your account on macys.com, clicking on my profile and indicating your opt-out preference.
-*   Use the unsubscribe link at the bottom of any e-mail sent by macys.com.
-*   Contact us:
+*   Or contact us:
 *   *   By mail at:  
         Macy's Credit and Customer Services  
         ATTN: Privacy Office  
         P.O. Box 8215, Mason, OH 45040
-    *   By phone at 1.877.876.2297
 
 Note: It may take up to 10 business days to process your request.  
   
-Mobile Marketing: To opt-out of mobile marketing, you may:
+Mobile Marketing: To opt-out of mobile marketing for a specific mobile number, you may:
 
-*   Reply STOP to any macys.com text message on your mobile phone/wireless device.
-*   Contact us:
+*   Reply STOP to 62297 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out.
+*   Or contact us:
 *   *   By mail at:  
         Macy's Credit and Customer Services  
         ATTN: Privacy Office  
@@ -145,10 +148,12 @@ Third Party Sharing: If you prefer that we not disclose your information to thir
     *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.
     *   By phone at 1.877.876.2297
 
-Online Behavioral Advertising: Online behavioral advertising uses information about you to provide relevant, targeted advertising of interest to you. Please click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive online advertising from macys.com. however, these ads may not be as relevant to you.  
+Online Behavioral Advertising (OBA): Online behavioral advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive online advertising from macys.com. however, these ads may not be as relevant to you.  
   
-Coremetrics: As a macys.com user, you may choose to opt-out of Coremetrics' analysis of your browsing and purchasing behavior on our Web site or you may choose to allow Coremetrics to analyze your behavior anonymously. Please click here to learn more about the various levels of privacy and confidentiality you can select, with respect to Coremetrics, on our site and to exercise your opt-out choices.  
-  
+Do Not Track (DNT): macys.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking accross sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
+
+IBM Digital Analytics (formerly Coremetrics): As a macys.com user, you may choose to opt-out of IBM Digital Analytics' analysis of yoour browsing and purchasing behavior on our website or you may choose to allow IBM Digital Analytics to analyze your behavior anonymously. Click here to learn more anout your privacy preference options with respect to IBM Digital Analytics use on our site.
+
 Back to Top
 
 Access Your Information  
@@ -199,3 +204,5 @@ Customers shipping internationally who wish to contact macys.com to:
 *   Comment on or ask questions regarding this notice
 
 Please e-mail us at internationalprivacy@macys.com.
+
+For More information about Macy's Privacy and Security please refer to our Security &. Privacy section of our Customer Service pages (under 'More Topics').
