@@ -91,17 +91,20 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 mehr zum Thema mehr Artikel zum Thema
 
+*   Voßhoff wird offiziell oberste Datenschützerin
+*   Einführung von Voßhoff als oberster Datenschützerin
+*   Andrea Voßhoff wird offiziell Bundesdatenschützerin
 *   Facebook veröffentlicht Paper-App für Apple iOS in USA
 *   Klage gegen Schufa von BGH abgewiesen
 *   BGH weist Klage gegen Schufa ab
 *   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
 *   Ihr Ansprechpartner
-*   Datenschutztag: Experte fordert persönliche Vorsicht
-*   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
-*   De Maizière verspricht mehr Geld und Personal für das BSI
 
 weniger Artikel weniger Artikel
 
+*   Datenschutztag: Experte fordert persönliche Vorsicht
+*   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
+*   De Maizière verspricht mehr Geld und Personal für das BSI
 *   Auch Landeselternrat gegen generelles Facebook-Verbot für Lehrer
 *   Microsoft will europäische Kundendaten in Europa speichern
 *   Datenschutzbeauftragter eröffnet Verfahren gegen Debeka
@@ -111,9 +114,6 @@ weniger Artikel weniger Artikel
 *   Landesschülerrat gegen generelles Facebook-Verbot für Lehrer
 *   Initiative für mehr IT-Sicherheit in Arztpraxen
 *   Gefundene Briefe der Oberfinanzdirektion wurden gestohlen
-*   Datenschutz in Arztpraxen soll besser werden: neue Initiative
-*   Linke-Fraktion will Datenschutz in Behörden modernisieren
-*   Debeka stockt nach Vorwürfen Datenschutzreferat personell auf
 
 *   Kundencenter
 *   Preise und AGB
