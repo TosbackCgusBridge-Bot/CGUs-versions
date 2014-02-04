@@ -89,7 +89,7 @@ From time to time we may supplement information you give us with information fro
 
 Discussions and Community Tools.
 
-We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information.
+We may, from time to time, make review lists, chat rooms, forums, message boards, articles, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information.
 
 Our Commitment to Security.
 
