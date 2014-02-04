@@ -83,18 +83,10 @@ Externally
 
 *   We may share your information with third parties to assist in the management of the site or so they can directly markettheir products or services to you if we feel that these products or services may be of interest to you. For Example:
 
-> > Webiste Optimization Services. macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
+> > Website Optimization Services. macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
 > >   
-> > Borderfree. macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.
+> > Borderfree. macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.  
 
-Coremetrics  
-  
-We work with a third party company, Coremetrics, to assist us in better understanding how people use our Web site. The information that we collect through cookies tells us things like which search engine referred you, how you navigated around our Web site, what you purchased, and how banner ads and e-mails direct web traffic to our Web site.  
-  
-Coremetrics analyzes the information it collects from macys.com and returns it to us through an encrypted connection. We do not share credit card or password information with Coremetrics.  
-  
-Coremetrics may only use information we share with them about our Web site visitors to perform services for us. Coremetrics is required to maintain all of the information it collects and analyzes securely and in confidence. For more information, please view the Coremetrics privacy policy. To learn more about opting-out of Coremetrics analysis of your browsing and purchasing behavior, please refer to Your Contact Preferences and Opt-Out Choices in this notice.  
-  
 Back to Top
 
 Customer Preferences and Opt-Out Choices  
