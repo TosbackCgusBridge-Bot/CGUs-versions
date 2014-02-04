@@ -308,6 +308,8 @@ Can't get enough HowStuffWorks?
     
     Science Channel
     
+    Velocity
+    
     Stuff You Should Know
     
     Stuff to Blow Your Mind
