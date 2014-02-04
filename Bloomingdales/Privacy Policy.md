@@ -20,7 +20,7 @@
 *   THE REGISTRY
 *   SALE
 
-Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Orders Shipping &. Delivery Returns Bloomingdale's Credit Card Loyallist Rewards Furniture &. Mattresses Products &. Pricing In-Store Pickup Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Sunday, 9AM - Midnight ET Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Orders Shipping &. Delivery Returns Bloomingdale's Credit Card Loyallist Rewards Furniture &. Mattresses Products &. Pricing In-Store Pickup Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Friday: 9AM - 9PM, Saturday: 9AM - 7PM, Sunday: 11AM - 7PM Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
 The Notice of Privacy Practices was updated on January 31, 2014.
 
@@ -91,11 +91,11 @@ We may share your information within Macy's, Inc. and its affiliates and subsidi
 
 *   **We may share your information with third parties to assist in the management of the site or so they can directly market their products or services to you if we feel that these products or services may be of interest to you. For example:**
 
-> > **Webiste Optimization Services. macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
+> > **Website Optimization Services. macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
 > >   
 > > Borderfree. macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.**
 
-**Customer Preferences and Opt-Out Choices**
+****Customer Preferences and Opt-Out Choices****
 
 **E-mail**: To opt-out of receiving promotional or marketing e-mails from bloomingdales.com at a specific email address, you may:
 
@@ -196,10 +196,7 @@ Customers shipping internationally who wish to contact bloomingdales.com to
 
 Please email us at internationalprivacy@bloomingdales.com.
 
-For More information about Bloomingdale's Privacy and Security please refer to our Security &. Privacy section of our Customer Service pages (under 'More Topics').  
-  
-  
- 
+For More information about Bloomingdale's Privacy and Security please refer to our Security &. Privacy section of our Customer Service pages (under 'More Topics').
 
 Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
 
