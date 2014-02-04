@@ -1,17 +1,22 @@
 Skip to main content **eLearners.com** Sign In  
 
+Campus Main Menu
+
 *   Online Degrees
+    *   All Degrees
+    *   Online Degrees
+    *   Campus Degrees Programs
 *   Online Certificates
+    *   All Certificates
+    *   Online Certificates Programs
+    *   Campus Certificate Programs
 *   Online Courses
+    *   All Courses
+    *   Online Courses
+    *   Campus Courses
 *   Online Colleges
-*   Campus Colleges
+*   Local Colleges
 *   Education Resources
-
-Find Your Online Degree
-
-*   1\. Degree Level: -- Select --
-*   2\. Area of Study: -- Select --
-*   3\. Concentration: -- Select --
 
 Help Section
 
