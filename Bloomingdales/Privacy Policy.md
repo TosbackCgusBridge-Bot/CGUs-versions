@@ -24,15 +24,15 @@ Customer Service At Your Service Order Status Store Locations Gift Card Balance 
 
 The Notice of Privacy Practices was updated on January 31, 2014.
 
-This notice of privacy practices applies to information collected by Bloomingdale's in Bloomingdale's stores (including Bloomingdale's outlet stores) and online at bloomingdales.com (including via mobile devices). To view your separate Department Stores National Bank Privacy Policy for your Bloomingdale's credit card, please click here.
+This Notice of Privacy Practices applies to information collected in Bloomingdale's stores (including Bloomingdale's outlet stores) and online at bloomingdales.com, and via mobile applications (e.g.,Bloomingdale's Brown Bag, bloomingdales.com assessed through your mobile device). To view your separate Department Stores National Bank Privacy (DSNB) Policy for your Bloomingdale's credit card, please click here.
 
-This notice of privacy practices explains:
+This Notice of Privacy Practices explains:
 
-*   The kinds of information we collect.
-*   How we use information.
-*   Our information sharing practices.
-*   Customer Preferences and Opt-Out Choices. and
-*   How you may access some of the information you provide to us.
+*   The kinds of information we collect
+*   How we use information
+*   Our information sharing practices
+*   Customer Preferences and Opt-Out Choices
+*   How you may access some of the information you provide to us
 
 We encourage you to refer to this notice periodically so that you understand our current privacy practices.
 
@@ -51,33 +51,37 @@ Mason, OH 45040
 *   By phone at 1-888-922-7026
 *   Via email at privacy.master@bloomingdales.com
 
-Your access of and use of our website means you agree to the terms in this notice of privacy practices and our Legal Notice
+Your access of and use of our website means you agree to the terms in this Notice of Privacy Practices and our Legal Notice
 
-**Information We Collect**
+****Information We Collect****
 
-We collect information from a variety of sources, including information provided by you, information we collect when you visit our website or stores, and transaction information we collect about you from third party sources.
+We collect information from a variety of sources, including information provided by you, information we collect when you visit our website or stores, transaction information, and informationwe collect about you from third party sources.
 
 The following are examples of the types of information we may collect:
 
-*   Information you provide: name, address (billing and shipping), e-mail address, telephone number (s), mobile number(s), credit card number (s), birth date, security question answers and etc..
+*   Information you provide: name, address (billing and shipping), e-mail address, telephone number (s), mobile number(s), credit card number (s), birth date, security question answers, etc.
 
-*   Information associated with use of our website: bloomingdales.com uses the information gathered from cookies and web beacons, such as IP address, to enhance your experience on our website.
+*   Information associated with use of our website: bloomingdales.com uses the information gathered from cookies and web beacons, such as IP address, to enhance your experience on our website
 
-*   Information associated with transacting business with Bloomingdale's including: transaction information, including the items purchased, and the date and time of your transaction.
+*   Information associated with transacting business with Bloomingdale's including: transaction information, including the items purchased, and the date and time of your transaction
 
-*   Information from third party sources: we may receive your updated shipping information from a third party carrier.
+*   Information from third party sources: we may receive your updated shipping information from a third party carrier
 
-**How We Use Information**
+****How We Use Information****
 
 We may use the information we collect to: process a transaction. provide products or services you request. improve our website and stores. enhance your shopping experience. and for marketing and promotional purposes. We may combine information about you that we collect online, in our stores, via mobile devices (including mobile applications), and from third party sources.
 
-**Cookies on bloomingdales.com**
+****Cookies and Other Technologies on bloomingdales.com****
 
-A cookie is a small piece of information sent by a website that is stored on your hard disk by your computer's browser. A web beacon is an image on a website that monitors a website's activity.
+**This section addresses bloomingdales.com use of cookies and Flash Cookies.**
+
+A cookie is a small piece of information sent by a website that is stored on your hard disk by your computer's browser. A web beacon (also known as tracking pixels or clear (GIF) is an embedded image on a website that monitors a website's activity.
 
 At bloomingdales.com, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. Persistent cookies last from visit to visit. they do not go away when you exit your browser.
 
 Managing cookie preferences differs from browser to browser so please refer to your browser for further information. If you would like to disable cookies and web beacons from bloomingdales.com, please use the help function in your web browser to restrict cookies from our website. If you block cookies from bloomingdales.com, you will not be able to make purchases on our website. If you block cookies from bloomingdales.com, you will not be able to make purchases on our website.
+
+A Flash Cookie (also known as Local Shared Object) is a data file stored on your computer by the websites that you visit (click here for more details). From time to time, macys.com may use Flash Cookie(s) on the website, for example, to enable or control Flash-based content. Flash Cookies provide similar functionality as the cookies (discussed above in this section), but are based on different technology and are persistent. they do not go away when you exit your browser. To manage the Flash Cookie settings and preferences for your computer, please click here and you will be directed to the Settings Manager on Adobe's website. You may also be able to manage Flash Cookies from your browser, depending on the version of your browser.
 
 **Information Sharing**
 
@@ -89,19 +93,19 @@ We may share your information within Macy's, Inc. and its affiliates and subsidi
 
 **Externally**
 
-*   **We may share your information with third parties to assist in the management of the site or so they can directly market their products or services to you if we feel that these products or services may be of interest to you. For example:**
+*   **We may share your information with third parties to assist in the management of the site or so that they can directly market their products or services to you if we feel that these products or services may be of interest to you. For example:**
 
-> > **Website Optimization Services. macys.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
+> > **Website Optimization Services. bloomingdales.com shares data using the IBM Digital Analytics tool to understand and optimize website performance and enhance site usability for our customers. IBM Digital Analytics analyzes data it collects from macys.com and returns reports to us through an encrypted connection. IBM Data Analytics is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. We do not share credit card or password information with IBM Digital Analytics. To learn more about opting out of IBM Digital Analytics analysis of your browsing and purchasing behavior, please refer to the Customer Preferences and Opt-Out Choices section of this notice.  
 > >   
-> > Borderfree. macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Macy's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.**
+> > Borderfree. macys.com processes international customer orders through our partner Borderfree. Borderfree is required to maintain data securely and confidentially, and is not permitted to share data collected with parties other than Bloomingdale's. To learn more about international customer privacy, please see the International Customer Privacy section of this notice.**
 
-****Customer Preferences and Opt-Out Choices****
+**Customer Preferences and Opt-Out Choices**
 
 **E-mail**: To opt-out of receiving promotional or marketing e-mails from bloomingdales.com at a specific email address, you may:
 
 *   Use the unsubscribe link in the footer of any e-mail sent by bloomingdales.com.
-*   Unsubscribe by signing into your account on bloomingdales.com, clickon my profile and indicating your opt-out preference.
-*   Or contact us by regular mail use the unsubscribe link at the bottom of any e-mail sent by bloomingdales.com, at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040, or
+*   Unsubscribe by signing into your account on bloomingdales.com, click on my profile and indicating your opt-out preference.
+*   Or contact us by mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040
 
 Note: It may take up to 10 business days to process your request.
 
@@ -112,33 +116,34 @@ Note: It may take up to 10 business days to process your request.
 **Mobile Marketing**: To opt-out of mobile marketing for a specific mobile number, you may:
 
 *   Reply STOP to 25666 on your mobile phone/wireless device. You will receive a confimation text that you have been opted out.
-*   Or contact Customer Service at 1-888-922-7026
-*   contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040
+*   Or contact us:
+*   *   By phone at 1-888-922-7026
+    *   By mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040
 
 Note: Please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.
 
 **Direct Mail or Telemarketing**: To opt-out of receiving direct mail or telemarketing calls, you may:
 
-*   contact Customer Service at 1-888-922-7026
-*   contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040. If you choose to write us, please include your name, address, phone number, and the last four digits of your Bloomingdale's proprietary or American Express co-brand credit card account number (if you have one), and state one of the following:
+*   Contact Customer Service at 1-888-922-7026
+*   Contact us by mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040. If you choose to write us, please include your name, address, phone number, and the last four digits of your Bloomingdale's proprietary or American Express co-brand credit card account number (if you have one), and state one of the following:
 *   "NO MAIL OFFERS" (if you do not want to receive offers by mail).
 *   "NO PHONE OFFERS" (if you do not want to receive offers by phone). or
 *   "NO PHONE OR MAIL OFFERS" (if you do not want to receive either)
 
-Note: Because listings often are prepared well in advance of an offering (12 - 16 weeks, in many cases) you may continue to receive some offers after you send us your request.
+Note: Because mailings often are prepared well in advance of an offering (12 - 16 weeks, in many cases) you may, for a period of time, continue to receive some offers after you send us your request.
 
 **Third Party Sharing**: If you prefer that we not disclose your information to third parties for marketing purposes, you can:
 
-*   Contact us by regular mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040. If you choose to write to us, please include your name, address and the last four digits of your Bloomingdale's proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request, or
+*   Contact us by mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040. If you choose to write to us, please include your name, address and the last four digits of your Bloomingdale's proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request, or
 *   Contact Customer Service at 1-888-922-7026,
 
 **Online Behavioral Advertising (OBA)**: Online behavioral advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive advertising from bloomingdales.com, however, these ads may not be as relevant to you.
 
-Do Not Track (DNT): macys.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking accross sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
+Do Not Track (DNT): bloomingdales.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking accross sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
 
-IBM Digital Analytics (formerly Coremetrics): As a bloomingdale.com user, you may choose to opt-out of IBM Digital Analytics' analysis of yoour browsing and purchasing behavior on our website or you may choose to allow IBM Digital Analytics to analyze your behavior anonymously. Click here to learn more anout your privacy preference options with respect to IBM Digital Analytics use on our site.
+IBM Digital Analytics (formerly Coremetrics): As a bloomingdales.com user, you may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website or you may choose to allow IBM Digital Analytics to analyze your behavior anonymously. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
 
-**Access Your Information**
+****Access Your Information****
 
 If you are a registered user of bloomingdales.com, you can update your information in My Account.
 
@@ -156,7 +161,7 @@ Please refer to the Security Policy for additional details.
 
 The Children's Online Privacy Protection Act imposes requirements on Web sites that collect personal information about children under 13 (for example - name, address, e-mail address, social security number etc.) Our policy is not to collect personal information on any person under 13. For this reason, our online sweepstakes, e-mail and mobile sign-ups are restricted to entrants who are at least 13.
 
-If this policy changes, bloomingdales.com will revise this portion of its notice of privacy practices and will comply with the requirements of the Children's Online Privacy Protection Act, which includes providing notice and choice to each child's parent or guardian before collecting any personal information.
+If this policy changes, bloomingdales.com will revise this portion of its Notice of Privacy Practices and will comply with the requirements of the Children's Online Privacy Protection Act, which includes providing notice and choice to each child's parent or guardian before collecting any personal information.
 
 **Your California Privacy Rights**
 
@@ -195,8 +200,6 @@ Customers shipping internationally who wish to contact bloomingdales.com to
 *   comment on or ask questions regarding this privacy policy
 
 Please email us at internationalprivacy@bloomingdales.com.
-
-For More information about Bloomingdale's Privacy and Security please refer to our Security &. Privacy section of our Customer Service pages (under 'More Topics').
 
 Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
 
