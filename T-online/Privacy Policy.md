@@ -1,5 +1,26 @@
 Hinweise zum Datenschutz
 
+*   Einstellung
+*   drucken
+*   Redaktion
+*   mailen
+
+Leserbrief schreiben
+
+Für Kritik oder Anregungen füllen Sie bitte die nachfolgenden Felder aus. Damit wir antworten können, geben Sie bitte Ihre Adresse an.
+
+Name E-Mail Betreff Nachricht
+
+Wählen Sie aus dem Pull-Down-Menü Ihren gewünschten Ansprechpartner aus. Vielen Dank für Ihre Mitteilung.
+
+....AutoComputer/HandyElternLifestyleUnterhaltungNachrichtenReisenSportWirtschaftVideoWetterKidsSpieleRegionalesAugenblickezuhause.dewanted.defeelgreen.detrax.dedriver.dewetter.infoCommunity   Artikel versenden
+
+Empfänger
+
+Absender
+
+Name Name E-Mail E-Mail Nachricht  
+
 **Vertragsabschluss und Besuch unserer Internetseite**
 
 *   Allgemeine Datenschutzhinweise (PDF)
@@ -89,34 +110,52 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 
 *   E-Mail Center - Kalender
 
-mehr zum Thema mehr Artikel zum Thema
+*   Einstellung
+*   drucken
+*   Redaktion
+*   mailen
 
-*   Voßhoff wird offiziell oberste Datenschützerin
-*   Einführung von Voßhoff als oberster Datenschützerin
-*   Andrea Voßhoff wird offiziell Bundesdatenschützerin
-*   Facebook veröffentlicht Paper-App für Apple iOS in USA
-*   Klage gegen Schufa von BGH abgewiesen
-*   BGH weist Klage gegen Schufa ab
-*   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
-*   Ihr Ansprechpartner
+Leserbrief schreiben
 
-weniger Artikel weniger Artikel
+Für Kritik oder Anregungen füllen Sie bitte die nachfolgenden Felder aus. Damit wir antworten können, geben Sie bitte Ihre Adresse an.
 
-*   Datenschutztag: Experte fordert persönliche Vorsicht
-*   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
-*   De Maizière verspricht mehr Geld und Personal für das BSI
-*   Auch Landeselternrat gegen generelles Facebook-Verbot für Lehrer
-*   Microsoft will europäische Kundendaten in Europa speichern
-*   Datenschutzbeauftragter eröffnet Verfahren gegen Debeka
-*   EU-Justizminister debattieren über Datenschutzreform
-*   Datenschutzbeauftragter fordert Aufklärungskampagne über Datenklau
-*   BSI-Sicherheitstest: Internetnutzer üben Kritik - 14 Millionen Anfragen
-*   Landesschülerrat gegen generelles Facebook-Verbot für Lehrer
-*   Initiative für mehr IT-Sicherheit in Arztpraxen
-*   Gefundene Briefe der Oberfinanzdirektion wurden gestohlen
+Name E-Mail Betreff Nachricht
+
+Wählen Sie aus dem Pull-Down-Menü Ihren gewünschten Ansprechpartner aus. Vielen Dank für Ihre Mitteilung.
+
+....AutoComputer/HandyElternLifestyleUnterhaltungNachrichtenReisenSportWirtschaftVideoWetterKidsSpieleRegionalesAugenblickezuhause.dewanted.defeelgreen.detrax.dedriver.dewetter.infoCommunity   Artikel versenden
+
+Empfänger
+
+Absender
+
+Name Name E-Mail E-Mail Nachricht  
 
 *   Kundencenter
 *   Preise und AGB
 *   Datenschutz
 *   Datensicherheit
 *   Cookies
+
+Mehr zum Thema
+
+*   Facebook feiert Zehnjähriges - Neue Paper-App sorgt für Streit
+*   Andrea Voßhoff wird offiziell oberste Datenschützerin
+*   Datenschutzbeauftragte Voßhoff will neue Struktur für ihre Behörde
+*   Voßhoff wird offiziell oberste Datenschützerin
+*   Einführung von Voßhoff als oberster Datenschützerin
+*   Andrea Voßhoff wird offiziell Bundesdatenschützerin
+*   Klage gegen Schufa von BGH abgewiesen
+*   BGH weist Klage gegen Schufa ab
+*   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
+*   Ihr Ansprechpartner
+*   Datenschutztag: Experte fordert persönliche Vorsicht
+*   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
+*   De Maizière verspricht mehr Geld und Personal für das BSI
+*   Auch Landeselternrat gegen generelles Facebook-Verbot für Lehrer
+*   Microsoft will europäische Kundendaten in Europa speichern
+*   Datenschutzbeauftragter eröffnet Verfahren gegen Debeka
+
+alle passenden Artikel MEIST GELESENE ARTIKEL
+
+Vorsicht vor gefälschtem Telekom-Update mehr Oscar Gonzalez stirbt nach Knockout mehr Neue E-Gesundheitskarte laut Gutachten rechtswidrig mehr Tokios Börse erlebt heftigen Kurseinbruch mehr "Ich habe ein Problem mit 'Wetten, dass..?'" mehr Weiners Entscheidung war falsch mehr So viel haben die Dschungelcamper abgenommen mehr Melanie und Wendler gehen sich aus dem Weg mehr Matthias Fornoff gibt die "heute"-Moderation ab mehr
