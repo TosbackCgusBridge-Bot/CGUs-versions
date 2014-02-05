@@ -315,7 +315,7 @@ Review our browser security requirements.
   Home Accessible Banking Privacy &. Security Careers Site Map
 
 Bank of America, N.A. Member FDIC. Equal Housing Lender. Link opens in new window.  
-© 2014 Bank of America Corporation. All rights reserved.
+© 2014 Bank of America Corporation. All rights reserved.
 
 Important Notice
 
