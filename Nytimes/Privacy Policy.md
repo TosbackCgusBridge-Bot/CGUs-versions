@@ -252,12 +252,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Watch Now: Philip Seymour Hoffman's many roles
+Search Help 52 places to go in 2014
 
-Also in Video »
+Also in Travel »
 
-*   Watch: New Orleans dining
-*   Watch: The truly affordable New York apartment
+*   Your postcards from our places to go in 2013
+*   Places to go in 2014: Our first readers' choice
 
   
 
