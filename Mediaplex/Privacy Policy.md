@@ -1,11 +1,10 @@
 MediaPlex® is now  
 
-*   MOJO Ad server
-*   MOJO SEM
-*   MOJO Mail
-*   MOJO Reports
+*   Ad Server Login
+*   SEM Login
+*   Reports Login
 *   Visit New Site
-*   CRM Solutions
+*   Tech Solutions
 
 MediaPlex has united with Commission Junction, Greystripe, Dotomi and ValueClick Media to form Conversant. We’ve invested over a billion dollars to create the first comprehensive personalized marketing platform that ignites engagement, drives sales and increases ROI.
 
