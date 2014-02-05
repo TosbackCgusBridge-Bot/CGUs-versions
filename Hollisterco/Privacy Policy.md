@@ -1,7 +1,7 @@
 Hollister Co. US  
 PRIVACY POLICY
 
-Updated: December 2013
+Updated: January 2014
 
 AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -90,7 +90,7 @@ The social media sites where Hollister Co. has Social Media Pages may provide ag
 
 Using Information We Collect Online
 
-We use the information collected on our Websites to fulfill product orders. to fulfill your requests (such as contact us, click to chat, email a friend, coming soon product alert, wish list or a post card). to contact you or the product recipient(s) in the event of order or delivery difficulties. to serve site content. to provide marketing communications regarding our products, services and promotions to you and to people in your account or your Club Cali program Membership (collectively “Membership”) address book. to administer our Hollister Club Cali program. to analyze your activity with us, including interaction with our Websites, the effectiveness of our advertising and your purchases. to personalize our communications to you. to respond to your inquiries. to update information maintained in your online Membership. to conduct surveys, sweepstakes or contests. to develop our products, services, and Websites. and to consider you for employment. Hollister Co. uses the information collected on its Social Media Pages to send communications regarding our products, services, and promotions. to respond to your inquiries. to conduct surveys, sweepstakes or contests. to analyze your activity on our Social Media Pages and to develop our products and services. See the “Opt-Out” section below for the choices you have related to receiving marketing communications from us.
+We use the information collected on our Websites (including information collected through cookies. see below section on “Cookies and Advertising” for details on cookies and how we use them), to fulfill product orders. to fulfill your requests (such as contact us, click to chat, email a friend, coming soon product alert, wish list or a post card). to contact you or the product recipient(s) in the event of order or delivery difficulties. to serve site content. to provide marketing communications regarding our products, services and promotions to you (including sending cart abandonment emails) and to people in your account or your Club Cali program Membership (collectively “Membership”) address book. to administer our Hollister Club Cali program. to analyze your activity with us, including interaction with our Websites, the effectiveness of our advertising and your purchases. to personalize our communications to you. to respond to your inquiries. to update information maintained in your online Membership. to conduct surveys, sweepstakes or contests. to develop our products, services, and Websites. and to consider you for employment. Hollister Co. uses the information collected on its Social Media Pages to send communications regarding our products, services, and promotions. to respond to your inquiries. to conduct surveys, sweepstakes or contests. to analyze your activity on our Social Media Pages and to develop our products and services. See the “Opt-Out” section below for the choices you have related to receiving marketing communications from us.
 
 If you previously signed up for the original Club Cali, even though the program no longer exists, HollisterCo.com has retained your name, email address, and postal address for marketing purposes.
 
