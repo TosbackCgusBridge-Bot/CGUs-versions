@@ -18,13 +18,7 @@ Zynga Play now!
 *   games
     *   Play on Zynga.com
     *   Featured Games
-    *   Slots
-    *   Hidden Shadows
-    *   CityVille
-    *   FarmVille
     *   Pioneer Trail
-    *   Words with Friends
-    *   Mafia Wars
     *   Facebook Games
     *   Mobile Games
 *   news
@@ -368,14 +362,6 @@ Contact
 Games
 
 *   Play on Zynga.com
-*   Poker
-*   Slots
-*   Hidden Shadows
-*   CityVille
-*   FarmVille
-*   Pioneer Trail
-*   Words with Friends
-*   Mafia Wars
 *   Facebook Games
 *   Mobile Games
 
