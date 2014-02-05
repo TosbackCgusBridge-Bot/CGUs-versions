@@ -257,6 +257,7 @@ Company Information
 
 Featured Services
 
+*   FedEx One Rate
 *   FedEx SameDay
 *   FedEx Home Delivery
 *   Healthcare Solutions
