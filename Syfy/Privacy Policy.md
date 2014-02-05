@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Sneak Peek - Turn to Stone Lost Girl - Sneak Peek - Turn to Stone
+Syfy Video Lost Girl - Sneak Peek - Let the Dark Times R ... Lost Girl - Sneak Peek - Let the Dark Times Roll
 
-Check out a sneak peek of episode 4 of Lost Girl, Mondays at 10/9c.
+Catch a sneak peek of the fifth episode of the fourth season of Lost Girl, Mondays at 10/9c.
+
+Like Riding a Bike Like Riding a Bike
+
+Bo and Dyson may have lost their memories, but some things are just like riding a bike.
 
 Lost Girl - Interview with Vex &. Trick Lost Girl - Interview with Vex &. Trick
 
 Vex and Trick talk about season 4.
 
-Backstabbed Backstabbed
+Talk Nerdy to Me Talk Nerdy to Me
 
-Clio betrays Bo, but finds that shes not the only one who can turn the tables.
-
-Jumbee's Story Jumbee's Story
-
-Bo experiences the unresolved death scene of a vengeful spirit upon taking its Chi into herself.
+Lauren confronts her captures via a security cam feed reality show confessional style.
 
 *   FAQ
 *   Feedback
