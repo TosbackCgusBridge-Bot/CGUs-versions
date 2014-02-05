@@ -38,7 +38,7 @@ The personal information we collect may include your name, title, company or org
   
 As an individual you may exercise your right to access the data held about you by us by submitting your request in writing to the data controller.  
 You may at any time request a total transcript of your personal data with us.  
-Just send us an e-mail on ereadercontact@soc.io  
+Just send us an e-mail on \[email protected\]  
 Although all reasonable efforts will be made to keep your information updated, you are kindly requested to inform us of any change referring to the personal data held by the association. In any case if you consider that certain information about you is inaccurate, you may request rectification of such data. You also have the right to request the blocking or erasure of data which has been processed unlawfully.  
   
   
@@ -65,18 +65,18 @@ We remain having the right to change and amend this Privacy Policy at any time. 
 **7\. Feedback**  
   
 Any comments or suggestions that you may have and which may contribute to a better quality of service will be welcome and greatly appreciated.  
-If you have any questions about this policy, feel free to contact us at ereadercontact@soc.io  
+If you have any questions about this policy, feel free to contact us at \[email protected\]  
 If you feel that we are not abiding by this Privacy Policy, you should contact us immediately:  
 Giga Market Ltd.  
 66 Old Bakery Street, Valletta, Malta  
-Email: ereadercontact@soc.io  
+Email: \[email protected\]  
   
   
 **8\. Newsletter**  
   
 Giga Market Ltd. may choose to create a member newsletter. When this feature is offered, members will be able to opt-out of receiving the newsletter by following the instructions included at the footer of the newsletter.
 
-Contact us Facebook Twitter Google+ ereadercontact@soc.io
+Contact us Facebook Twitter Google+ \[email protected\]
 
-Soc.io eReader is a free eBook reader application for Android tablets and smartphones. Copyright © 2012 Giga Market Ltd. All rights reserved. Soc.io is a trademark of Giga Market Ltd. Android is a trademark of Google Inc. Contact us: ereadercontact@soc.io  
+Soc.io eReader is a free eBook reader application for Android tablets and smartphones. Copyright © 2012 Giga Market Ltd. All rights reserved. Soc.io is a trademark of Giga Market Ltd. Android is a trademark of Google Inc. Contact us: \[email protected\]  
 Press release | Terms of use | Privacy policy
