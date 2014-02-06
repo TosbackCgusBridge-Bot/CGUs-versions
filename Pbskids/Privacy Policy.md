@@ -88,7 +88,7 @@ We may revise this Privacy Policy, for example, to reflect changes in the law, o
   
 Still Have Questions?
 
-If you have any questions or concerns regarding is policy, please contact us at:  
+If you have any questions or concerns regarding this policy, please contact us at:  
   
 **Public Broadcasting Service**  
 2100 Crystal Drive  
