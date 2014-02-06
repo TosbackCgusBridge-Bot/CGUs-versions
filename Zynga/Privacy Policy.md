@@ -18,7 +18,6 @@ Zynga Play now!
 *   games
     *   Play on Zynga.com
     *   Featured Games
-    *   Pioneer Trail
     *   Facebook Games
     *   Mobile Games
 *   news
