@@ -123,6 +123,6 @@ Lorsque le client consulte une page du site contenant un tel bouton, son navigat
 *   S'il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.
 *   S'il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J'aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte.
 
-Si le client ne souhaite pas que le réseau social relie les informations collectées par l'interm��diaire de Redoute.fr à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter Redoute.fr.
+Si le client ne souhaite pas que le réseau social relie les informations collectées par l'intermédiaire de Redoute.fr à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter Redoute.fr.
 
 Nous vous invitons à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs.
