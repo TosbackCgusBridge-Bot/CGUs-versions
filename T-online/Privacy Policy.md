@@ -139,7 +139,9 @@ Name Name E-Mail E-Mail Nachricht  
 
 Mehr zum Thema
 
-*   Facebook feiert Zehnjähriges - Neue Paper-App sorgt für Streit
+*   Microsoft lässt Regierungen in Programmcode seiner Software schauen
+*   Strafantrag wegen Datenschutzverstößen in Polizei-Akademie
+*   Facebook: Mobile Paper-App für iPhone sorgt für Streit um Namen
 *   Andrea Voßhoff wird offiziell oberste Datenschützerin
 *   Datenschutzbeauftragte Voßhoff will neue Struktur für ihre Behörde
 *   Voßhoff wird offiziell oberste Datenschützerin
@@ -153,9 +155,7 @@ Mehr zum Thema
 *   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
 *   De Maizière verspricht mehr Geld und Personal für das BSI
 *   Auch Landeselternrat gegen generelles Facebook-Verbot für Lehrer
-*   Microsoft will europäische Kundendaten in Europa speichern
-*   Datenschutzbeauftragter eröffnet Verfahren gegen Debeka
 
-alle passenden Artikel MEIST GELESENE ARTIKEL
+alle passenden Artikel weniger Artikel anzeigen MEISTGELESENE ARTIKEL
 
-Vorsicht vor gefälschtem Telekom-Update mehr Oscar Gonzalez stirbt nach Knockout mehr Neue E-Gesundheitskarte laut Gutachten rechtswidrig mehr Tokios Börse erlebt heftigen Kurseinbruch mehr "Ich habe ein Problem mit 'Wetten, dass..?'" mehr Weiners Entscheidung war falsch mehr So viel haben die Dschungelcamper abgenommen mehr Melanie und Wendler gehen sich aus dem Weg mehr Matthias Fornoff gibt die "heute"-Moderation ab mehr
+Rummenigge kontert Sex-Spruch mehr Adobe flickt den Flash Player mehr Seine Tochter erbt alles mehr Mega-Stromtrasse 800 Kilometer quer durchs Land mehr "Goodbye Deutschland": Vox-Team muss Familie finanziell aushelfen mehr Niki Lauda sauer wegen "Titanic"-Cover mehr Kind auf Kreuzfahrtschiff ertrunken mehr Stadt klagt gegen Eltern des Amokläufers mehr
