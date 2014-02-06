@@ -124,7 +124,7 @@ We do not knowingly collect any personal information from children under 13. If 
 
 Your Right to Delete Your Data
 
-If you would like to cancel your Fitbit account you may do so by emailing our support . When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your email address, name, photo(s), friends list and links to social and partner sites such as Facebook Twitter, and Google Health. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. Following cancellation or termination of your account, Fitbit may continue to utilize de-identified and anonymized historical data associated with your use of the Fitbit Products.
+If you would like to cancel your Fitbit account you may do so by emailing our support. When you request cancellation of your account, your personally identifiable information will be deleted, including but not limited your email address, name, photo(s), friends list and links to social and partner sites such as Facebook Twitter, and Google Health. Archival copies of your account information that exist within our back-up system will be deleted in accordance with our normal back-up expiration schedule. Following cancellation or termination of your account, Fitbit may continue to utilize de-identified and anonymized historical data associated with your use of the Fitbit Products.
 
 Email Communications From Us
 
@@ -164,7 +164,7 @@ We may update this Policy periodically. The date last revised appears at the bot
 
 Contact us if you have any questions or concerns
 
-If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to our support .
+If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to our support.
 
 This policy was last updated on January 3, 2014.
 
