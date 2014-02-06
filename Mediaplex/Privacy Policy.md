@@ -1,4 +1,4 @@
-MediaPlex® is now  
+Mediaplex® is now  
 
 *   Ad Server Login
 *   SEM Login
