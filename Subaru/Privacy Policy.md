@@ -106,7 +106,8 @@ Subaru Confidence In Motion
     
     Legacy 3.6R Limited shown
     
-    Forester Starting at **$21,995** 2014 Forester
+    Introducing the  
+    all-new 2015 Subaru Legacy Forester Starting at **$21,995** 2014 Forester
     
     Starting at
     
