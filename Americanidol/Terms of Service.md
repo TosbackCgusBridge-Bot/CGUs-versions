@@ -4,7 +4,7 @@ EFFECTIVE AS OF JANUARY 18, 2013
 
 Welcome to the americanidol.com web site at http://www.americanidol.com (the "Site") which is operated by Fox Broadcasting Company ("Company," "our," "we," or "us"). The services Company provides on the Site include applications, community pages, message boards, messaging services, mobile services and any other features, content, promotions, games or applications offered from time to time by Company (collectively, the "Company Services").
 
-Company has created the Site and Company Services for your personal enjoyment and entertainment. By visiting the Siteyou accept and agree to be bound by these Terms of Use, including any future modifications, which constitute an agreement ("Agreement") between you and Company and to abide by all applicable laws, rules and regulations (collectively, "Applicable Law"). Please read this Agreement carefully. Company reserves the right to modify or amend this Agreement without notice at any time, and such modification(s) will be effective upon posting on the Site. All material modifications will apply prospectively only. Your continued use of the Site and/or Company Services following any such modification constitutes your acceptance and agreement to be bound by the Agreement as so modified. It is therefore important that you review this Agreement regularly. If you do not agree to be bound by this Agreement and to abide by Applicable Law, you must immediately leave the Site and discontinue your use of Company Services. You may receive a copy of this Agreement by emailing us at mailto:idol.web@fox.com">idol.web@fox.com with the following subject: Terms of Use Agreement. Your access to certain Site features may require you to accept additional terms and conditions applicable to such features, in addition to this Agreement, and may require you to download Software or Content (each as defined below) and additional terms may apply certain Company Services, for example Forums (see Section 5 of this Agreement). Any questions or comments regarding, or problems with, the Site should be sent to the Site Administrator at mailto:idol.web@fox.com">idol.web@fox.com.
+Company has created the Site and Company Services for your personal enjoyment and entertainment. By visiting the Siteyou accept and agree to be bound by these Terms of Use, including any future modifications, which constitute an agreement ("Agreement") between you and Company and to abide by all applicable laws, rules and regulations (collectively, "Applicable Law"). Please read this Agreement carefully. Company reserves the right to modify or amend this Agreement without notice at any time, and such modification(s) will be effective upon posting on the Site. All material modifications will apply prospectively only. Your continued use of the Site and/or Company Services following any such modification constitutes your acceptance and agreement to be bound by the Agreement as so modified. It is therefore important that you review this Agreement regularly. If you do not agree to be bound by this Agreement and to abide by Applicable Law, you must immediately leave the Site and discontinue your use of Company Services. You may receive a copy of this Agreement by emailing us at mailto:idol.web@fox.com">idol.web@fox.com with the following subject: Terms of Use Agreement. Your access to certain Site features may require you to acceptadditional terms and conditions applicable to such features, in addition to this Agreement, and may require you to download Software or Content (each as defined below) and additional terms may apply certain Company Services, for example Forums (see Section 5 of this Agreement). Any questions or comments regarding, or problems with, the Site should be sent to the Site Administrator at mailto:idol.web@fox.com">idol.web@fox.com.
 
 *   ELIGIBILITY AND USER PROTECTION OF LOG-IN INFORMATION
     
@@ -12,7 +12,7 @@ Company has created the Site and Company Services for your personal enjoyment an
     
 *   TERM
     
-    This Agreement shall remain in full force and effect while you use the Company Services or are a subscriber or a member. Company may terminate your subscription or membership at any time, without warning. Even after subscription or membership is terminated, this Agreement will remain in effect.
+    This Agreement shall remain in full force and effect while you use the Company Services or are a subscriber or a member. Company may terminate your subscription or membership at any time, without warning. Even aftersubscription or membership is terminated, this Agreement will remain in effect.
     
 *   COMPANY CONTENT
     
@@ -26,21 +26,21 @@ Company has created the Site and Company Services for your personal enjoyment an
     
     You agree NOT to use the Company Services to:
     
-    1.  Post, upload or otherwise transmit or link to Content that is: unlawful. threatening. harmful. abusive. pornographic or includes nudity. offensive. harassing. excessively violent. tortuous. defamatory. invasive of another's privacy, publicity, copyright, trademark, patent, trade secret, contract or other rights. false or misleading. obscene. vulgar. libelous. hateful. or discriminatory.
-    2.  Violate the rights of others including patent, trademark, trademark, trade secret, copyright, privacy, publicity or other proprietary rights.
-    3.  Harass or harm another person.
-    4.  Exploit or endanger a minor.
+    1.  Post, upload or otherwise transmit or link to Content that is: unlawful. threatening. harmful. abusive. pornographic or includes nudity. offensive. harassing. excessively violent. tortuous. defamatory. invasive of another's privacy, publicity, copyright, trademark, patent, trade secret, contract or other rights. false or misleading. obscene. vulgar. libelous. hateful. or discriminatory;
+    2.  Violate the rights of others including patent, trademark, trademark, trade secret, copyright, privacy, publicity or other proprietary rights;
+    3.  Harass or harm another person;
+    4.  Exploit or endanger a minor;
     5.  Impersonate or attempt to impersonate any person or entity;
-    6.  Introduce or engage in activity that involves the use of viruses, bots, worms, or any other computer code, files or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, or otherwise permit the unauthorized use of or access to a computer or a computer network.
-    7.  Interfere with, damage, disable, disrupt, impair, create an undue burden on, or gain unauthorized access to the Company Services, including Company's servers, networks or accounts.
-    8.  Cover, remove, disable, block or obscure advertisements or other portions of the Company Services.
-    9.  Use technology or any automated system such as scripts or bots in order to collect usernames, passwords, email addresses or other data from the Company Services, or to circumvent or modify any security technology or software that is part of the Company Services.
-    10.  Send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the Company Services. If you do so, you acknowledge you will have caused substantial harm to Company, but that the amount of harm would be extremely difficult to measure. As a reasonable estimation of such harm, you agree to pay Company $50 for each actual or intended recipient of such communication.
-    11.  Solicit, collect or request any personal information for commercial or unlawful purposes.
-    12.  Post, upload or otherwise transmit an image or video of another person without that person's consent.
-    13.  Engage in commercial activity (including but not limited to sales, contests, or sweepstakes) without Company's prior written consent.
-    14.  Use the Company Services to advertise or promote competing services.
-    15.  Use the Company Services in a manner inconsistent with Applicable Law.
+    6.  Introduce or engage in activity that involves the use of viruses, bots, worms, or any other computer code, files or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, or otherwise permit the unauthorized use of or access to a computer or a computer network;
+    7.  Interfere with, damage, disable, disrupt, impair, create an undue burden on, or gain unauthorized access to the Company Services, including Company's servers, networks or accounts;
+    8.  Cover, remove, disable, block or obscure advertisements or other portions of the Company Services;
+    9.  Use technology or any automated system such as scripts or bots in order to collect usernames, passwords, email addresses or other data from the Company Services, or to circumvent or modify any security technology or software that is part of the Company Services;
+    10.  Send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the Company Services. If you do so, you acknowledge you will have caused substantial harm to Company, but that the amount of harm would be extremely difficult to measure. As a reasonable estimation of such harm, you agree to pay Company $50 for each actual or intended recipient of such communication;
+    11.  Solicit, collect or request any personal information for commercial or unlawful purposes;
+    12.  Post, upload or otherwise transmit an image or video of another person without that person's consent;
+    13.  Engage in commercial activity (including but not limited to sales, contests, or sweepstakes) without Company's priorwritten consent;
+    14.  Use the Company Services to advertise or promote competing services;
+    15.  Use the Company Services in a manner inconsistent with Applicable Law;
     16.  Attempt, facilitate or encourage others to do any of the foregoing. and
     17.  Disclose personally identifiable information, such as your full name, email, address, telephone number or street address.
     
@@ -56,7 +56,10 @@ Company has created the Site and Company Services for your personal enjoyment an
     
     Your use of Forums is also subject to the Community Guidelines.
     
-*   POINTS The Site and Company Services may, from time to time, enable you to accumulate or earn points or Kudos (collectively" Points"), for example, by engaging in certain activities. Company reserves the right in its sole discretion to establish, control and limit the means of earning Points or to expire your Points after a specified period of time. Points have no "real worlds or cash value. You have no ownership interest in accrued Points and Points do not constitute your property. Points have no purpose or use except as a means of recognizing fans of American Idol through accolades on the Site or Company Services. Points cannot be redeemed by, or sold or otherwise transferred to, any other person. Company's good faith determination of the amount of Points awarded to you shall be final and binding.
+*   POINTS
+    
+    The Site and Company Services may, from time to time, enable you to accumulate or earn points or Kudos (collectively" Points"), for example, by engaging in certain activities. Company reserves the right in its sole discretion to establish, control and limit the means of earning Points or to expire your Points after a specified period of time. Points have no "real worlds or cash value. You have no ownership interest in accrued Points and Points do not constitute your property. Points have no purpose or use except as a means of recognizing fans of American Idol through accolades on the Site or Company Services. Points cannot be redeemed by, or sold or otherwise transferred to, any other person. Company's good faith determination of the amount of Points awarded to you shall be final and binding.
+    
 *   PRIVACY
     
     Use of the Company Services is also governed by our Privacy Policy located at http://www.americanidol.com/legal/privacypolicy, which is incorporated into this Agreement by this reference.
@@ -79,14 +82,14 @@ Company has created the Site and Company Services for your personal enjoyment an
     
     If you believe that any material contained in the Site infringes your copyright, please email or fax a notification of claimed infringement to Company's Designated Copyright Agent:
     
-    Copyright Agent Email: idol.dmca@fox.com Subject Line: American Idol Site DMCA Telephone: (310) 369-7069 Fax: (310) 969-5660 Address: 10201 W. Pico Boulevard Los Angeles, CA 90035
+    Copyright AgentEmail: idol.dmca@fox.com Subject Line: American Idol Site DMCA Telephone: (310) 369-7069 Fax: (310) 969-5660 Address: 10201 W. Pico Boulevard Los Angeles, CA 90035
     
     To be effective, the notification must be in writing and contain the following information (DMCA, 17 U.S.C. ß512(c)(3)) and ß512(d):
     
-    1.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
-    2.  Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material (or in the case of references or links that are claimed to have infringing material or activity, identification of the reference or link, to material or activity claiming to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate that reference or link).
-    3.  Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
-    4.  A statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+    1.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+    2.  Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material (or in the case of references or links that are claimed to have infringing material or activity, identification of the reference or link, to material or activity claiming to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate that reference or link);
+    3.  Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;
+    4.  A statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
     5.  A statement by you that the above information in your notification is accurate, and statement by you made under penalty of perjury, that you are the owner of an exclusive right this is allegedly infringed or are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. and
     6.  Physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
     
@@ -106,7 +109,7 @@ Company has created the Site and Company Services for your personal enjoyment an
     
 *   DISCLAIMERS
     
-    The Site and Company Services are provided "AS-IS" and "as available" and Company does not guarantee or promise any specific results from use of the Site and/or Company Services. Company expressly disclaims any warranties and conditions of any kind, whether express or implied, including but not limited to, the implied warranties of merchantability, fitness for a particular purpose and non-infringement. In particular, Company makes no warranty that your use of the Site and/or Company Services will be uninterrupted, timely, secure or error-free or that any information obtained by you on, through or in connection with the Company Services or Third Party Services (including but not limited to, through User Content or third party advertisements) will be accurate or reliable. Under no circumstances will Company be responsible for any loss or damage, including but not limited to, property damage, personal injury or death, resulting from use of the Site and/or Company Services, problems or technical malfunction in connection with use of the Site and/or Company Services, attendance at a Company event, any material downloaded or otherwise obtained in connection with the Site and/or Company Services, any User Content, third party advertisement or Third Party Service posted on, through or in connection with the Site and/or Company Services, or the conduct of any users of the Company Services, whether online or offline. Your use of User Content, third party advertisements, Third Party Services and the goods or services provided by any third parties is solely your responsibility and at your own risk. User Content, third party advertisements and Third Party Services do not necessarily reflect the opinions or policies of Company.
+    The Site and Company Services are provided "AS-IS" and "as available" and Company does not guarantee or promise any specific results from use of the Site and/or Company Services. Company expressly disclaims any warranties and conditions of any kind, whether express or implied, including but not limited to, the implied warranties of merchantability, fitness for a particular purpose and non-infringement. In particular, Company makes no warranty that your use of the Site and/or Company Services will be uninterrupted, timely, secure or error-free or that any information obtainedby you on, through or in connection with the Company Services or Third Party Services (including but not limited to, through User Content or third party advertisements) will be accurate or reliable. Under no circumstances will Company be responsible for any loss or damage, including but not limited to, property damage, personal injury or death, resulting from use of the Site and/or Company Services, problems or technical malfunction in connection with use of the Site and/or Company Services, attendance at a Company event, any material downloaded or otherwise obtained in connection with the Site and/or Company Services, any User Content, third party advertisement or Third Party Service posted on, through or in connection with the Site and/or Company Services, or the conduct of any users of the Company Services, whether online or offline. Your use of User Content, third party advertisements, Third Party Services and the goods or services provided by any third parties is solely your responsibility and at your own risk. User Content, third party advertisements and Third Party Services do not necessarily reflect the opinions or policies of Company.
     
 *   LIMITATION OF LIABILITY
     
@@ -131,11 +134,3 @@ Company has created the Site and Company Services for your personal enjoyment an
 *   OTHER
     
     The failure of Company to exercise or enforce any right or provision of this Agreement will not operate as a waiver of such right or provision. The Section titles in this Agreement are for convenience only and have no legal or contractual effect. This Agreement operates to the fullest extent permissible by law. If any provision of this Agreement is unlawful, void or unenforceable, that provision is deemed severable from this Agreement and does not affect the validity and enforceability of any remaining provisions.
-    
-    Please contact us at idol.web@fox.com with any questions regarding this Agreement.
-    
-*   Copyrights © / Trademarks 
-    
-    **© 2013 Trademark and Copyright Notice: ® and © FOX and its related entities or used under license. All rights reserved. AMERICAN IDOL ® is a registered trademark of 19 TV Ltd. and FremantleMedia North America, Inc. Based on the television program "American Idol" produced by FremantleMedia North America, Inc. and 19 TV Ltd. Licensed by FremantleMedia Enterprises. All materials contained in Site and Company Services are protected by copyright and trademark and shall not be used for any purpose whatsoever other than private, non-commercial viewing purposes. Reproduction, duplication, distribution, derivative works, and other unauthorized copying or use of stills, audio, video footage, or any other materials contained in Site or Company Services is expressly prohibited.**
-    
-    **If you have any questions please send an e-mail to idol.web@fox.com.**
