@@ -45,7 +45,7 @@ PRACTICE AREAS
 *   Antitrust
 *   Bankruptcy
 *   Capital Markets
-*   Corporate Council
+*   Corporate Counsel
 *   Corporate Governance
 *   Energy &. Environment
 *   Employment
