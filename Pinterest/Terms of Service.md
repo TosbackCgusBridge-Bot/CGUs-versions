@@ -42,7 +42,7 @@ More simply put:
 
 Copies of content shared with others may remain even after you delete the content from your account.
 
-e. Feedback you provide
+d. Feedback you provide
 
 We value hearing from our users, and are always interested in learning about ways we can make Pinterest more awesome. If you choose to submit comments, ideas or feedback, you agree that we are free to use them without any restriction or compensation to you. By accepting your submission, Pinterest does not waive any rights to use similar or related Feedback previously known to Pinterest, or developed by its employees, or obtained from sources other than you
 
