@@ -210,6 +210,6 @@ Sign up to receive special offers and promotions from Superpages.com
 
 Data provided by one or more of the following: SuperMedia, Acxiom, Infogroup   |   \* Sponsored Results
 
-Copyright © 2013 Dex Media, Inc. All rights reserved. \* Restrictions apply. For full details, see the Terms and Conditions for this program.
+Copyright © 2014 Dex Media, Inc. All rights reserved. \* Restrictions apply. For full details, see the Terms and Conditions for this program.
 
 Feedback
