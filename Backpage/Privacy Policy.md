@@ -1,5 +1,5 @@
 **Privacy Policy  
-Last Revised: January 9, 2012**
+Last Revised: January 9, 2014**
 
 Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
