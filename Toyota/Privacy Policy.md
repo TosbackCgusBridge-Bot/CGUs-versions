@@ -11,7 +11,6 @@
 1.  Cars &. Minivan
     *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 $16,540 as shown Explore Build
     *   Corolla $16,800 starting msrp 1 28/37 est. mpg 2 $19,000 as shown Explore Build
-    *   Matrix $19,275 starting msrp 1 26/32 est. mpg 2 Explore Build
     *   Camry $22,425 starting msrp 1 25/35 est. mpg 2 $27,850 as shown Explore Build
     *   Avalon $31,340 starting msrp 1 21/31 est. mpg 2 $39,650 as shown Explore Build
     *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 $33,860 as shown Explore Build
@@ -42,6 +41,7 @@
         as shown Explore Build
     *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 $36,045 as shown Explore Build
 5.  Upcoming Vehicles
+    *   2015 TRD ProOff Road Vehicles View More Info
     *   Toyota Fuel Cell Vehicle Arriving in 2015 View More Info
     *   2014 FJ Cruiser  
         Coming Early 2014 View More Info
