@@ -84,14 +84,22 @@ COPYRIGHT INFRINGEMENT NOTIFICATION. DESIGNATED COPYRIGHT AGENT
 
 SPE respects the intellectual property rights of others. Upon proper notice, SPE will remove User Submissions (and any other Site content) that violate copyright law. Pursuant to Title 17 of the U.S. Code, Section 512, SPE has implemented procedures for receiving written notification of claimed copyright infringement on the Site and for processing such claims in accordance with such law. If you believe a work has been copied in a way that constitutes copyright infringement, please send SPE's copyright agent, at the address set forth below, a notification of claimed infringement (an "**Infringement Notification**") that contains all the following information: (i) identification of the copyrighted work claimed to have been infringed. (ii) identification of the claimed infringing material and information reasonably sufficient to permit SPE to locate the material on the Site. (iii) information reasonably sufficient to permit SPE to contact you, such as an address, telephone number, and, if available, an e-mail address. (iv) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. (v) a statement by you, made under penalty of perjury, that the above information in your notification is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. and (vi) your physical or electronic signature.
 
+  
+
 SPE Designated Copyright Agent  
 10202 W. Washington Boulevard, Culver City, CA 90232  
 Phone Number of SPE Designated Copyright Agent: 310-244-7850
 
+  
+
 Fax Number of SPE Designated Copyright Agent: 310-244-1742  
 E-Mail of SPE Designated Copyright Agent: Copyright\_Agent@spe.sony.com
 
+  
+
 By submitting an Infringement Notification, you acknowledge and agree that SPE may forward your Infringement Notification and any related communications to any users who posted the material identified in such notice.
+
+  
 
 If you believe that your User Submission has been wrongfully removed from the Site, you may send SPE a counter notification. Pursuant to federal law you may be held liable for damages if you make material misrepresentations in a counter notification. In compliance with Title 17 of the U.S. Code, Section 512, your counter notification, to be effective, must be in writing, sent to SPE's Designated Copyright Agent, and include substantially the following information: (i) your physical or electronic signature. (ii) identification of the material that has been removed or to which access has been disabled and the location where the material previously appeared on the Site. (iii) a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled. and (iv) your name, address, and telephone number and a statement that you consent to the jurisdiction of the Federal District Court in the district in which your address is located (or in the Central District of California, for addresses outside the USA) and agree to accept service of process from the person who submitted the original Infringement Notification that resulted in your User Submission being removed (or an agent of such person) in the event he or she elects to file suit. By submitting a counter notification, you acknowledge and agree that SPE may forward your counter notification and any related communications to the person who submitted the original Infringement Notification that resulted in the removal of your User Submission or to other third parties.
 
