@@ -22,8 +22,8 @@ Why does Booking.com collect, use and share your personal details?
 
 *   Reservations: First and foremost, we use your personal information to complete and administer your online reservation and forward your reservation details to the accommodation you have booked.
 *   Customer service: We provide international customer service 24/7 from our local offices in more than 20 languages. Sharing your details with our global customer service allows for a quick response when you need us – including helping you find an appropriate accommodation and any questions you might have about your reservation.
-*   Account administration: We offer a user account facility on our website. We use the information you give us to administer this, allowing you to manage your bookings, take advantage of special offers, make future reservations more easily, manage your personal settings, and review accommodations that you previously searched.
-*   Guest reviews: We may use your contact information to invite you to write a guest review after your stay. This can help other travelers choose a place to stay that suits them best.
+*   Guest reviews: We offer a user account facility on our website. We use the information you give us to administer this, allowing you to manage your bookings, take advantage of special offers, make future reservations more easily, manage your personal settings, and review accommodations that you previously searched.
+*   Account administration: We may use your contact information to invite you to write a guest review after your stay. This can help other travelers choose a place to stay that suits them best.
 *   Marketing activities: We also use your information for marketing activities, as permitted by law. For example:
 
 *   When you make a reservation with us or set up a user account, we may use your contact information to send you news about similar travel-related products and services. We also send our customers regular newsletters by email. You can opt out, or unsubscribe, from marketing communication at any time.
@@ -71,7 +71,7 @@ We have free apps for a variety of mobile devices. These apps collect and proces
 
   
 
-How does Booking.com use guest reviews?
+How does Booking.com use guest reviews and other destination-related information you share with us?
 
 After your stay at any accommodation booked through us, you'll be invited to submit a guest review. If you don’t want your name to show with your review, it can be displayed anonymously. By completing a guest review, you're agreeing that it can be displayed (as further described in our Terms and Conditions on, for example, the relevant property information page on our websites, in our mobile apps, in our social media accounts and in social apps, or on the website of the relevant property or on our business partner’s website, to inform other travelers about the quality and services of the property you stayed in.
 
@@ -98,7 +98,7 @@ No, there are different types of cookies and different ways of using them. Cooki
 
 How does Booking.com use cookies?
 
-We try to give our visitors an advanced and user-friendly website that adapts automatically to their needs and wishes. To achieve this, our website uses the following types of cookie:
+Our website uses the following types of cookie:
 
 *   Technical cookies: We use technical cookies to show you our website, to make it function correctly, create your user account, sign you in and manage your bookings. These technical cookies are absolutely necessary for our website to function properly.
 *   Functional cookies: We also use functional cookies to remember your preferences and to help you use our website efficiently and effectively. For example, we remember your preferred currency and language, your searches and the property you viewed earlier. These functional cookies are not strictly necessary for the functioning of our website, but they add functionality for you and enhance your experience.
