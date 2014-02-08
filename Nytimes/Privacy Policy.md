@@ -1,3 +1,12 @@
+*   Subscribe Now Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
+    
+    Get unlimited access to NYTimes.com and NYTimes apps.
+    
+    Get Digital Get 50% Off 12 Weeks of Home Delivery and Free All Digital Access
+    
+    All print options include free, unlimited access to NYTimes.com and NYTimes apps.
+    
+    Get Home Delivery
 *   Help
 
 *   Home Page
@@ -252,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help 52 places to go in 2014
+Search Help "Bronx Bombers" at Circle in the Square
 
-Also in Travel »
+Also in Theater »
 
-*   Your postcards from our places to go in 2013
-*   Places to go in 2014: Our first readers' choice
+*   The Pulitzer Prize-winning drama "Dinner With Friends" is being given a revival
+*   Bryan Cranston is playing Lyndon Johnson on Broadway
 
   
 
