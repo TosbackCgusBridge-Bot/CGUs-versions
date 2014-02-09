@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Bronx Bombers" at Circle in the Square
+Search Help Watch Now: Creating effortless luxury (NYFW)
 
-Also in Theater »
+Also in Video »
 
-*   The Pulitzer Prize-winning drama "Dinner With Friends" is being given a revival
-*   Bryan Cranston is playing Lyndon Johnson on Broadway
+*   Watch: Saving Sochi's stray dogs
+*   Watch: McConaughey, savoring the underdog role
 
   
 
