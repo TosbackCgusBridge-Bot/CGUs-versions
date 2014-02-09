@@ -139,6 +139,7 @@ Name Name E-Mail E-Mail Nachricht  
 
 Mehr zum Thema
 
+*   Der "F...ck"-Fauxpas: Die USA in der Abhörfalle
 *   Twitter erwägt rechtliche Schritte gegen US-Regierung
 *   Facebook-Film sorgt für Begeisterung: Tausende erstellen eigene Clips
 *   Microsoft lässt Regierungen in Programmcode seiner Software schauen
@@ -154,8 +155,7 @@ Mehr zum Thema
 *   Ihr Ansprechpartner
 *   Datenschutztag: Experte fordert persönliche Vorsicht
 *   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
-*   De Maizière verspricht mehr Geld und Personal für das BSI
 
 alle passenden Artikel weniger Artikel anzeigen MEISTGELESENE ARTIKEL
 
-Das ist der Sturm-Fahrplan für heute mehr Merkel hält Nulands Äußerung für "absolut unakzeptabel" mehr US-Gewinnerin verliert 70 Kilogramm in vier Monaten mehr Frau droht 90-jährigem General Jaruzelski mit Scheidung mehr Dramatischer Zusammenbruch bei GNTM mehr Mainz 05 bangt um Korea-Knipser Park mehr Tessa Mittelstaedt hat einen Jungen bekommen mehr
+Geisterfahrt in LKW nimmt Horror-Ende mehr Russlands TV-Zuschauer sehen Panne nicht mehr BVB zahlte Götze wohl 3,7 Millionen Euro mehr Bayern-Stars warnen Guardiola vor Nürnberg mehr Das sind die dreistesten Fälschungen des Jahres mehr Eiskalte Bayern schlagen Nürnberg mehr Die One-Man-Show des Matthias Schweighöfer mehr McDonald's erstmals mit Umsatzrückgang in Deutschland mehr
