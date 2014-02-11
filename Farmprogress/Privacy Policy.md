@@ -1,5 +1,3 @@
-Mosaic Pursuit of 300 Slider
-
 *   Magazines
     *   American Agriculturist
     *   Dakota Farmer
