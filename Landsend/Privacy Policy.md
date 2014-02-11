@@ -257,7 +257,7 @@ Search
     *   Site Map
     *   Glossary
 
-Privacy To cancel a catalog subscription
+  Privacy To cancel a catalog subscription
 
 To cancel your subscription to any of our catalogs, please call **1-800-963-4816** or send an email to websiteinquiry@landsend.com. Please allow 2-4 weeks to process your request.
 
