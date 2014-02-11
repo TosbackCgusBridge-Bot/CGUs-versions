@@ -45,6 +45,7 @@
     *   Blog
     *   Forum
     *   Documentation
+    *   Videos
     *   Sencha Devs
     *   Sencha Market
     *   Sencha Try
