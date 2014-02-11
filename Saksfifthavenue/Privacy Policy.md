@@ -4,9 +4,7 @@ Our Privacy Policy &. Our Website Terms Of Use
 
 **Our Privacy Policy**  •  Our Website Terms of Use
 
-Our Privacy Policy Last Updated January 6, 2014.
-
-Please note that we have expanded the definition of "Saks Family" to include Hudson's Bay Company and Lord &. Taylor.
+Our Privacy Policy Last Updated February 10, 2014.
 
 Thank you for visiting our website, which is part of the Saks family of company sites, including Saks Fifth Avenue and Saks Fifth Avenue OFF 5TH (collectively, Saks). We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Saks. This commitment includes respecting and protecting the privacy of personal information that we obtain through our sites, via mobile, and from visits and purchases at our stores. This privacy policy provides you with information about how we collect, use and share your personal information, and our privacy practices in general.
 
@@ -93,9 +91,7 @@ Our Privacy Policy &. Our Website Terms Of Use
 
 **Our Privacy Policy**  •  Our Website Terms of Use
 
-Our Privacy Policy Last Updated January 6, 2014.
-
-Please note that we have expanded the definition of "Saks Family" to include Hudson's Bay Company and Lord &. Taylor.
+Our Privacy Policy Last Updated February 10, 2014.
 
 Thank you for visiting our website, which is part of the Saks family of company sites, including Saks Fifth Avenue and Saks Fifth Avenue OFF 5TH (collectively, Saks). We are committed to providing an exciting and safe online shopping experience and elevated level of personal service synonymous with Saks. This commitment includes respecting and protecting the privacy of personal information that we obtain through our sites, via mobile, and from visits and purchases at our stores. This privacy policy provides you with information about how we collect, use and share your personal information, and our privacy practices in general.
 
