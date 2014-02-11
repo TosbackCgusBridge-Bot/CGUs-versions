@@ -193,7 +193,7 @@ Barnes &. Noble uses your personal information across our enterprise to provide 
 *   Make communications necessary to notify you regarding security, privacy, and administrative issues. and
 *   Manage our business.
 
-**With whom do we share personal information?**  
+**5\. With whom do we share personal information?**  
   
 Protecting the privacy and security of your personal information is a priority at **Barnes &. Noble. Barnes &. Noble DOES NOT SELL OR RENT YOUR PERSONAL INFORMATION TO THIRD PARTIES.  
   
