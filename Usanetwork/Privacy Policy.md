@@ -1,15 +1,69 @@
 NBCUniversal
 
 *   Corporate
+    *   Senior Corporate Executives
+    *   Board of Directors
+    *   Newsroom
+    *   About Us
+    *   Diversity &. Inclusion
+    *   Social Ventures
+    *   Investor relations
+    *   Careers
+    *   Blogs
 *   Cable
+    *   Bravo Media
+    *   Chiller
+    *   Cloo
+    *   CNBC
+    *   Comcast Sportsnet
+    *   E!
+    *   Esquire Network
+    *   G4
+    *   Golf Channel
+    *   MSNBC
+    *   nbcuniversal International Television
+    *   Mun2
+    *   Nbc Sports Network
+    *   nbcuniversal Digital Distribution
+    *   nbcuniversal television networks distribution
+    *   oxygen media
+    *   Sprout
+    *   Syfy
+    *   the weather channel companies
+    *   universal cable productions
+    *   universal hd
+    *   USA network
 *   Broadcast
+    *   nbc entertainment
+    *   nbc news
+    *   NBC Sports Group
+    *   NBCUNIVERSAL TELEVISION &. NEW MEDIA DISTRIBUTION, US &. CANADA
+    *   nbcuniversal domestic television distribution
+    *   nbcuniversal owned television stations
+    *   Telemundo
+    *   Universal Television
 *   Digital
+    *   DailyCandy
+    *   Fandango
+    *   Golf Now
+    *   Hulu
+    *   NBC News Digital
+    *   Television Without Pity
 *   Film
-*   Parks &. Resorts
+    *   Focus Features
+    *   Universal Pictures
+    *   UNIVERSAL STUDIOS HOME ENTERTAINMENT
+*   Parks
+    *   UNIVERSAL ORLANDO
+    *   UNIVERSAL PARKS &. RESORTS
+    *   UNIVERSAL STUDIOS HOLLYWOOD
 *   International
-
-*   Store
-*   Contact Us
+    *   CNBC INTERNATIONAL
+    *   NBCUBNIVERSAL INTERNATIONAL TELEVISION DISTRIBUTION
+    *   NBCUBNIVERSAL INTERNATIONAL TELEVISION PRODUCTION
+    *   UNIVERSAL NETWORKS INTERNATIONAL
+    *   UNIVERSAL PICTURES INTERNATIONAL
+    *   UNIVERSAL PICTURES INTERNATIONAL ENTERTAINMENT
 
 search Search
 
