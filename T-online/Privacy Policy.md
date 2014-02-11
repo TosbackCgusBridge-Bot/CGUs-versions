@@ -139,9 +139,11 @@ Name Name E-Mail E-Mail Nachricht  
 
 Mehr zum Thema
 
+*   Smartphones in Kinderhänden: So schützen Eltern ihre Kinder vor Kostenfallen und Datenklau
+*   Datenschützer soll länger bleiben - Opposition rügt "Lex Weichert"
+*   Facebook-Gründer Mark Zuckerberg zum größten Spender der USA erklärt
 *   Der "F...ck"-Fauxpas: Die USA in der Abhörfalle
 *   Twitter erwägt rechtliche Schritte gegen US-Regierung
-*   Facebook-Film sorgt für Begeisterung: Tausende erstellen eigene Clips
 *   Microsoft lässt Regierungen in Programmcode seiner Software schauen
 *   Strafantrag wegen Datenschutzverstößen in Polizei-Akademie
 *   Andrea Voßhoff wird offiziell oberste Datenschützerin
@@ -153,9 +155,7 @@ Mehr zum Thema
 *   BGH weist Klage gegen Schufa ab
 *   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
 *   Ihr Ansprechpartner
-*   Datenschutztag: Experte fordert persönliche Vorsicht
-*   Geibert unterstützt Vorgehen des Bundes bei Vorratsdatenspeicherung
 
 alle passenden Artikel weniger Artikel anzeigen MEISTGELESENE ARTIKEL
 
-Kroos ist in Ungnade gefallen mehr Fans attackieren und verletzen Spieler mehr Mayer holt Gold für Österreich mehr Die meisten Kassen erheben künftig Zusatzbeitrag mehr McDonald's erstmals mit Umsatzrückgang in Deutschland mehr Claudia Pechstein verpasst Medaille mehr Neue Brüste vermasseln Kathrin die Show mehr Untersuchungsbericht belastet Tebartz-van Elst schwer mehr
+Pechstein erlitt Zusammenbruch mehr Schlager-Krach wegen Helene-Fischer-Song mehr Maria Höfl-Riesch holt zweite Goldmedaille für Deutschland mehr Friesinger-Postma attackiert Pechstein scharf mehr AVM schließt Sicherheitsleck in über30 Router-Modellen mehr Rangfolge beim "Gelben Engel" wurde gefälscht mehr Schweiz muss mit EU-Maßnahmen rechnen mehr DFB sperrt Stuttgarts Ibisevic für fünf Spiele mehr Mandzukic hat seine Lektion gelernt mehr
