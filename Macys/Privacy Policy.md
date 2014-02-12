@@ -1,6 +1,6 @@
 This Notice of Privacy Practices was updated on January 31, 2014.  
   
-This Notice of Privacy Practices applies to information collected in Macy’s stores, online at macys.com, and via mobile applications (e.g., Macy’s iShop, macys.com accessed through your mobile device). To view your separate Department Store National Bank (DSNB) Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
+This Notice of Privacy Practices applies to information collected in Macyâs stores, online at macys.com, and via mobile applications (e.g., Macyâs iShop, macys.com accessed through your mobile device). To view your separate Department Store National Bank (DSNB) Privacy Policy for your Macy's credit card and to read more information about our credit services, please click here.  
   
 This Notice of Privacy Practices explains:
 
@@ -42,7 +42,7 @@ The following are examples of the types of information we may collect:
     *   Security question answers
 *   Information associated with use of our website:
 *   *   macys.com uses the information gathered from cookies and web beacons, such as IP address to enhance your experience on our website.
-*   Information associated with transacting business with Macy’s including:
+*   Information associated with transacting business with Macyâs including:
 *   *   Transaction information, including:
     *   *   Items purchased
         *   Date and time of your transaction
@@ -73,7 +73,7 @@ Back to Top
 
 Information Sharing  
   
-We may share your information within Macy’s, Inc. and its affiliates and subsidiaries (including Bloomingdale’s). We may also share your information with third parties with whom we have a relationship (to opt-out of third party sharing please click here).  
+We may share your information within Macyâs, Inc. and its affiliates and subsidiaries (including Bloomingdaleâs). We may also share your information with third parties with whom we have a relationship (to opt-out of third party sharing please click here).  
   
 Internally
 
@@ -122,7 +122,7 @@ Direct Mail or Telemarketing: To opt-out of receiving direct mail or telemarketi
         Macy's Credit and Customer Services  
         ATTN: Privacy Office  
         P.O. Box 8215, Mason, OH 45040
-    *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state one of the following:
+    *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macyâs proprietary or American Express co-brand credit card account number (if you have one) and state one of the following:
         *   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail)
             *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
             *   "NO PHONE OR MAIL OFFERS" (if you don't want to receive either)
@@ -137,7 +137,7 @@ Third Party Sharing: If you prefer that we not disclose your information to thir
         Macy's Credit and Customer Services  
         ATTN: Privacy Office  
         P.O. Box 8215, Mason, OH 45040
-    *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macy’s proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.
+    *   *   If you choose to write to us, please include your name, address, phone number, and last 4 digits of your Macyâs proprietary or American Express co-brand credit card account number (if you have one) and state "NO THIRD PARTY SHARING" in your request.
     *   By phone at 1-888-529-2254
 
 Online Behavioral Advertising (OBA): Online behavioral advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive online advertising from macys.com. however, these ads may not be as relevant to you.  
@@ -174,7 +174,7 @@ To fill international orders, macys.com partners with Borderfree, Inc. (formerly
   
 When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfree. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from macys.com.  
   
-Borderfree will notify macys.com of the approval of your order, and macys.com will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree’s terms and conditions. You must agree to them to receive the product(s) you ordered.  
+Borderfree will notify macys.com of the approval of your order, and macys.com will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfreeâs terms and conditions. You must agree to them to receive the product(s) you ordered.  
   
 Once you agree that Borderfree may share your personal information with macys.com, that data is protected by this notice of privacy practices and you consent to the transfer and storage of that information on our servers located in the United States.  
   
