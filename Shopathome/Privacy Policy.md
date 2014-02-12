@@ -1,10 +1,10 @@
 ShopAtHome.com Privacy Policy
 
-Last Updated: January 15, 2014
+Last Updated: February 3, 2014
 
 This Privacy Policy applies to our sites and apps.
 
-This Policy describes how we treat personal information. This includes on the websites and apps where it is located. It also applies to our information collection and tracking practices for our toolbar browser app ("Browser App"). Any capitalized terms we don’t define in this policy are defined in our Terms and Conditions.
+This Policy describes how we treat personal information. This includes on the websites and apps where it is located. It also applies to our information collection and tracking practices for our Savings Browser App ("Browser App"). Any capitalized terms we don’t define in this policy are defined in our Terms and Conditions.
 
 We collect information from and about you.
 
