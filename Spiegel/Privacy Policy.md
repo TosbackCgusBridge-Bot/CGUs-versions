@@ -416,13 +416,11 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Uni-Tools
 *   Jobsuche
 
-*   FINANZEN UND RECHT
+*   FINANZEN
 *   Währungs-  
     rechner
 *   Immobilien-  
     Börse
-*   Prozesskosten-  
-    Rechner
 
 *   Home
 *   Politik
