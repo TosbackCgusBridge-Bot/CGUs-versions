@@ -264,9 +264,10 @@ Subaru Confidence In Motion
         
         Get a quick look at how much your current vehicle is worth.
         
-    *   Financing Options
+    *   Apply for Financing
         
-        Helpful information on financing or leasing your new Subaru.
+        See if you qualify for  
+        pre-approved financing.
         
     
     More
@@ -275,6 +276,7 @@ Subaru Confidence In Motion
     *   Estimate Credit Score
     *   Extended Service Plans
     *   View a Brochure
+    *   Financing Options
 *   For Owners
     
     *   MySubaru Vehicles
