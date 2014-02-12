@@ -243,7 +243,6 @@ Or visit us in your mobile browser.
 *   Careers
 *   Press
 *   Legal
-*   Success
 *   Tests
 *   OkTrends
 
