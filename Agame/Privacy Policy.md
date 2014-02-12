@@ -16,9 +16,10 @@ Quickly find your recently played games: we'll add the last 6 games you played t
 *   Sports
 *   Skill
 *   Girls
-*   Adventure
+*   Valentines Day
 *   Multiplayer
 *   More
+    *   Adventure
     *   War Games
     *   Board &. Card
     *   Sonic Games
