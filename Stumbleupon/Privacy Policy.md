@@ -14,6 +14,6 @@ If you'd like to take your chances with your current browser, click here to cont
 
 © 2014 StumbleUpon
 
-About StumbleUponAbout Us Blogs Press Center Jobs Management Terms Cookies Privacy Policy
+About Us Blogs Press Center Jobs Management Terms Cookies Privacy Policy
 
-Tools &. ServicesDownloads Mobile Apps Paid Discovery Help
+Downloads Mobile Apps Paid Discovery Help
