@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Sneak Peek - Let the Dark Times R ... Lost Girl - Sneak Peek - Let the Dark Times Roll
+Syfy Video Lost Girl - Next Episode - Of All the Gin Joi ... Lost Girl - Next Episode - Of All the Gin Joints
 
-Catch a sneak peek of the fifth episode of the fourth season of Lost Girl, Mondays at 10/9c.
+Catch the next episode of Lost Girl, Mondays at 10/9c.
 
-Like Riding a Bike Like Riding a Bike
+Lost Girl - Sneak Peek - Of All the Gin Joint ... Lost Girl - Sneak Peek - Of All the Gin Joints
 
-Bo and Dyson may have lost their memories, but some things are just like riding a bike.
+Catch a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
 
-Lost Girl - Interview with Vex &. Trick Lost Girl - Interview with Vex &. Trick
+To the Death To the Death
 
-Vex and Trick talk about season 4.
+Tamsin finds herself in a battle that will put all of her moves to the test
 
-Talk Nerdy to Me Talk Nerdy to Me
+One in the Hand One in the Hand
 
-Lauren confronts her captures via a security cam feed reality show confessional style.
+Vex decides that drastic times call for drastic measures while Bo is forced to helplessly watch from her shackles
 
 *   FAQ
 *   Feedback
