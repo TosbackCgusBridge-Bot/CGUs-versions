@@ -156,7 +156,7 @@ Non-Personal Information Collected by Third Parties Not Acting on WebMD's Behalf
 
 We work with third parties to display advertising that reflects the interests and preferences of our user community. Sponsors or advertisers on the WebMD Web Sites may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on the WebMD Web Sites and in emails, special promotions or newsletters we send you. Their advertisements may be displayed on the WebMD Web Sites or on other sites that you visit after you visit the WebMD Web Sites. Some advertisers use companies other than WebMD to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect Non-Personal Information through the use of Cookies or Web Beacons on the WebMD Web Sites.
 
-We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the WebMD Web Sites. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through the WebMD Web Sites to agree that they will not collect any Personal Information from the WebMD Web Sites without your consent. They have promised us they will not link any Non-Personal Information collected by them on the WebMD Web Sites to Personal Information they or others collect in other ways or from other sites except as may be described in connection with a particular program.
+We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the WebMD Web Sites. However, our Advertising Policy prohibits sponsors, advertisers and Ad Servers who collect cookie or web beacon information through the WebMD Web Sites from collecting any Personal Information from the WebMD Web Sites without your consent. Our Advertising Policy also prohibits advertisers from linking any Non-Personal Information collected by them on the WebMD Web Sites to Personal Information they or others collect in other ways or from other sites except as may be described in connection with a particular program.
 
 What Choices Do I Have?
 
@@ -253,6 +253,6 @@ WebMD is a licensee of the TRUSTe Privacy Program. WebMD has been awarded TRUSTe
 
 WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Effective Date: May 06, 2013
+Effective Date: February 8, 2014
 
-© 2013 WebMD, LLC. All rights reserved.
+© 2014 WebMD, LLC. All rights reserved.
