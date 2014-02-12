@@ -81,12 +81,20 @@ This Site contains links to other sites. While Cars.com encourages our business 
 
 Collection of Information by Third Parties
 
-As noted above, Affiliates and other third parties may collect information about you and your use of the Site through the use of cookies, web beacons and other similar technologies. For example, we work with companies that collect statistical information regarding Site usage and provide related analytical services. We may work with third-party advertising companies that use cookies and web beacons to serve advertisements when you come to the Site and to generate statistics and metrics related to the delivery of such advertisements. We also may work with third-party advertising networks that use cookies, web beacons and other technologies to collect non-personally identifiable information about your visits to and interactions with this Site and other websites in order to provide targeted advertisements to you across their networks of websites (which may or may not include this Site). These third parties also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising and for other purposes.
+As noted above, Affiliates, Third parties who place advertisements on this website, and other service providers may collect and use information about your visits to and use of this website through the use of cookies, web beacons and other similar technologies. For example, we work with companies that collect statistical information regarding Site usage and provide related analytical services. We may work with third-party advertising companies that use cookies and web beacons to serve advertisements when you come to the Site and to generate statistics and metrics related to the delivery of such advertisements. We also may work with third-party advertising networks that use cookies, web beacons and other technologies to collect non-personally identifiable information about your visits to and interactions with this Site and other websites in order to provide targeted advertisements about goods and services of interest to you across their networks of websites (which may or may not include this Site). These third parties also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising and for other purposes.
 
-If you would like more information about the information collection practices of some of these third-party advertising companies and learn which of these companies allow you to opt out of this type of information collection, please click here.
+If you would like to obtain more information about the practices of some of these parties, or if you would like to make choices about their use of your information, please click here:
+
+http://www.aboutads.info/choices/
+
+More information and additional consumer choice options may be found here:
+
+http://www.networkadvertising.org/managing/opt\_out.asp
+
+Cars.com adheres to the Self-Regulatory Principles for Online Behavioral Advertising. For more information please visit http://www.aboutads.info.
 
 If you have any questions about this Privacy Statement, please email us at feedback@cars.com or use our online feedback form.
 
-©2013 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
+©2014 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
 
-Last updated on 6/14/12
+Last updated on 1/21/14
