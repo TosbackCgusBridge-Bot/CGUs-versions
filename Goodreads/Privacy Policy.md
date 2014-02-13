@@ -138,8 +138,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
   
 Goodreads, Inc  
-1444 9th Street, Suite B  
-Santa Monica, CA 90401  
+188 Spear Street, 3rd Floor  
+San Francisco, CA 94105  
   
 Updates  
 
