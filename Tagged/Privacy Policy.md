@@ -11,7 +11,7 @@ Sign in to Tagged
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of Feburary 4, 2014
+Updated as of February 12, 2014
 
 This Terms of Service Agreement (the "Agreement") controls your access and use of any of the various services (the "Services") made available to you (the "Member") by Tagged, Inc. ("Tagged") through http://www.tagged.com, Tagged mobile applications or otherwise. ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR TAGGED. By accessing the services and/or completing the registration process for the Tagged website, you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. By registering on Tagged, you represent and warrant that you are not required to register as a sex offender with any government entity. No Member may participate where doing so would be prohibited by any applicable law or regulation.
 
@@ -53,13 +53,15 @@ Use of the Services by you, as a Member, is subject to all applicable local, sta
 24.  Members shall not attempt to buy Tagged Gold outside of the Tagged.com website
 25.  Members shall not attempt to sell Tagged Gold or a Tagged user account.
 
-All decisions concerning the applicability of these guidelines shall be at the sole and exclusive discretion of Tagged and its designees. Tagged has the right in its sole discretion to pre-screen, refuse or remove any content that is available via the Tagged Services. Tagged and its designees shall have the right to remove any Content that violates this Agreement or is otherwise objectionable. An account may be terminated at any time, without notice, depending on the severity of the offense, which is determined exclusively at the discretion of Tagged. Tagged is not obligated to provide a Member with a warning prior to removal. D) Privacy
+All decisions concerning the applicability of these guidelines shall be at the sole and exclusive discretion of Tagged and its designees. Tagged has the right in its sole discretion to pre-screen, refuse or remove any content that is available via the Tagged Services. Tagged and its designees shall have the right to remove any Content that violates this Agreement or is otherwise objectionable. An account may be terminated at any time, without notice, depending on the severity of the offense, which is determined exclusively at the discretion of Tagged. Tagged is not obligated to provide a Member with a warning prior to removal.
+
+D) Privacy
 
 Tagged has established a Privacy Policy to explain to Members how their information is collected and used, which Member can read by clicking http://www.Tagged.com/terms\_of\_service.html?priv=y#privacy\_policy. The policy explains how and when Tagged may use Member information and content. Member's use of the Tagged website or the Services signifies acknowledgment of and agreement to Tagged's Privacy Policy.
 
 E) Document Retention Schedule
 
-All personal information collected by Tagged in connection with your use of the Tagged website, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, ip addresses and other data, may be stored by Tagged indefinitely and will be stored in a safe and secure manner.
+All personal information collected by Tagged in connection with your use of the Tagged website, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, ip addresses and other data, will may be stored by Tagged indefinitely and will be stored in a safe and secure manner.
 
 F) Notice Regarding Commercial Email
 
@@ -85,16 +87,16 @@ K) Copyrights, Trademarks, Patents and Intellectual Property Rights
 
 Member acknowledges that messages, files or other materials ("Content") contained on the Tagged website and within Tagged email messages, and third party advertisements on the website and distributed via email, of a commercial nature and presented to Member by Tagged and the Services, are protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Member is permitted to use Tagged Content or third party Content only as expressly authorized by Tagged or the third party advertiser. Member may not copy, reproduce, distribute, or create derivative works from the Tagged Content or third party Content without expressly being authorized to do so by Tagged or the third party advertiser. Member may make a copy of the Tagged Content or third party Content for Member's personal, noncommercial use only, provided that Member keeps all copyright or other proprietary notices intact. Although Tagged does not claim ownership of content that its Member's may provide to Tagged, by providing content to Tagged, Members automatically grant, and represent and warrant that they have the right to grant, to Tagged a worldwide, irrevocable, perpetual, non-exclusive, and fully sublicensable, license to use, copy, perform, display, and distribute said content.
 
-Tagged respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify Tagged's Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:  
-  
+Tagged respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify Tagged's Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:
+
 Tagged Copyright Agent  
 110 Pacific Ave Mall  
 Box #117  
 San Francisco, CA 94111  
-copyrightagent@tagged.com  
-(650)273-4289  
-  
-Please provide our Agent with the following Notice:  
+(650) 273-4289  
+copyrightagent@tagged.com
+
+Please provide our Agent with the following Notice:
 
 1.  Identify the copyrighted work or other intellectual property that you claim has been infringed;
 2.  Identify the material on Tagged that you claim is infringing, with enough detail so that we may locate it on the website;
@@ -103,7 +105,9 @@ Please provide our Agent with the following Notice:
 5.  Your address, telephone number, and email address. and
 6.  Your physical or electronic signature.
 
-Tagged's Agent will forward this information to the alleged infringer. It is Tagged's policy to terminate the accounts of repeat infringers. L) Disputes
+Tagged's Agent will forward this information to the alleged infringer. It is Tagged's policy to terminate the accounts of repeat infringers.
+
+L) Disputes
 
 You and Tagged agree that, except as otherwise specifically provided in this Agreement, you and Tagged shall seek to resolve any and all disputes between Tagged and you, respectively, including, without limitation, all claims, counter-claims and cross-claims (collectively, "Claims"), whether in law, equity or otherwise, solely through individual arbitration in accordance with the policies and procedures set forth in this Agreement. Such disputes shall include without limitation:
 
@@ -123,7 +127,7 @@ You agree that you and Tagged have voluntarily and intentionally waived any and 
 
 For you or Tagged to initiate arbitration against the other party it must first send by certified mail to the other party a written Notice of Dispute ("Notice"). The Notice must identify and detail the nature of the party's Claim, the basis for that Claim, and the specific relief being sought for that Claim, including, without limitation, any Claim for injunctive relief. For the parties' convenience, a form for providing Notice is available at http://www.tagged.com/disputeresolution\_forms.html to download and complete. A Notice being sent to Tagged must be addressed to: Dispute Resolution Department, Tagged, Inc., 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 ("Tagged Notice Address"). A Notice being sent to you shall be sent to your Tagged e-mail account and to any other e-mail address provided in your registration (collectively, "Member Notice Address"). You may also opt to receive a copy of any Notice via mail by sending a written request to the Tagged Notice Address including your name, postal address, Member Notice Address and Tagged User ID number (UID).
 
-After receipt of the Notice you and Tagged must attempt in good faith to resolve the dispute set forth in the Notice. If you and Tagged are not able to resolve the dispute within 30 days after the Notice is received, then you or Tagged may initiate an arbitration proceeding against the other by downloading and completing the "American Arbitration Association ("AAA") Consumer-Related-Disputes Form-California (For Use Only In California)" demand for arbitration form available at (http://www.adr.org/si.asp?id=6377) ("Demand"), and sending a copy of the Demand to the AAA, together with a copy of the Tagged Terms of Service and a check or money order payable to the AAA in the amount of the appropriate filing fee, and sending a copy of the Demand to the other party. The copy of the Demand being sent to the AAA must be addressed as stated on the Demand. A copy of the Demand being sent to Tagged must be addressed to the Tagged Notice Address. A copy of the Demand being sent to you shall be addressed to the Member Notice Address.
+After receipt of the Notice you and Tagged must attempt in good faith to resolve the dispute set forth in the Notice. If you and Tagged are not able to resolve the dispute within 30 days after the Notice is received, then you or Tagged may initiate an arbitration proceeding against the other by downloading and completing the "American Arbitration Association ("AAA") Consumer-Related-Disputes Form-California (For Use Only In California)" demand for arbitration form available at http://www.adr.org/si.asp?id=6377 ("Demand"), and sending a copy of the Demand to the AAA, together with a copy of the Tagged Terms of Service and a check or money order payable to the AAA in the amount of the appropriate filing fee, and sending a copy of the Demand to the other party. The copy of the Demand being sent to the AAA must be addressed as stated on the Demand. A copy of the Demand being sent to Tagged must be addressed to the Tagged Notice Address. A copy of the Demand being sent to you shall be addressed to the Member Notice Address.
 
 Please note AAA does not provide Tagged customer support and is only able to provide information regarding initiating an arbitration proceeding against Tagged. All concerns regarding your account should be addressed to Tagged by submitting a Ticket. Tagged will try to resolve your concern, and in the case that you are not satisfied with the resolution you may choose to follow the process outlined on the Dispute Resolution Page.
 
@@ -163,7 +167,7 @@ MEMBER AGREES THAT USE OF THE TAGGED WEBSITE AND THE SERVICES IS ENTIRELY AT MEM
 
 O) LIMITATION OF LIABILITY
 
-UNDER NO CIRCUMSTANCES SHALL TAGGED BE LIABLE AS A RESULT ACCOUNT OF MEMBER'S USE OR MISUSE OF THE TAGGED WEBSITE OR THE SERVICES, WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE TAGGED WEBSITE OR THE SERVICES, FROM INABILITY TO USE THE TAGGED WEBSITE OR THE SERVICES, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE TAGGED WEBSITE OR THE SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF OTHER SERVICES OR PRODUCTS RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE TAGGED WEBSITE OR THE SERVICES OR ANY LINKS ON THE TAGGED WEBSITE, AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE TAGGED WEBSITE OR THE SERVICES OR ANY LINKS ON THE TAGGED WEBSITE. THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdiction, limitations of liability are not permitted. In such jurisdictions, the foregoing limitation may not apply to you.
+UNDER NO CIRCUMSTANCES SHALL TAGGED BE LIABLE AS A RESULT OF MEMBER'S USE OR MISUSE OF THE TAGGED WEBSITE OR THE SERVICES, WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE TAGGED WEBSITE OR THE SERVICES, FROM INABILITY TO USE THE TAGGED WEBSITE OR THE SERVICES, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE TAGGED WEBSITE OR THE SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF OTHER SERVICES OR PRODUCTS RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE TAGGED WEBSITE OR THE SERVICES OR ANY LINKS ON THE TAGGED WEBSITE, AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE TAGGED WEBSITE OR THE SERVICES OR ANY LINKS ON THE TAGGED WEBSITE. THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdiction, limitations of liability are not permitted. In such jurisdictions, the foregoing limitation may not apply to you.
 
 P) Indemnification
 
@@ -183,7 +187,7 @@ Users with questions about this Terms of Service and any of the above statements
 
 PRIVACY POLICY
 
-Updated as of Feburary 4, 2014
+Updated as of February 12, 2014
 
 How Tagged Works
 
@@ -225,7 +229,9 @@ We receive different types of data from the computers and/or servers that you us
 
 Like many other websites, we use clickstream information and technologies such as cookies, pixel tags and local storage to allow enhanced features, enable customizable content, and provide you with the best possible user experience. We may also share your clickstream information and information collected from cookies, pixel tags and local storage with our vendors and partners for the purposes of enhancing your user experience.
 
-You can configure your Internet browser, to accept all cookies, reject all cookies or notify you before accepting a cookie. Many Internet browsers also allow you to disable local storage or delete information contained in local storage. Each Internet browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For information on disabling or deleting information contained in local storage, please click here. If you choose not to accept cookies and/or to disable or delete local storage, be aware that you may not be able to access and enjoy all the features of the Site.
+You can configure your Internet browser, to accept all cookies, reject all cookies or notify you before accepting a cookie. Many Internet browsers also allow you to disable local storage or delete information contained in local storage. Each Internet browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For information on disabling or deleting information contained in local storage, please click here.
+
+If you choose not to accept cookies and/or to disable or delete local storage, be aware that you may not be able to access and enjoy all the features of the Site.
 
 Some of Tagged’s advertisers may also use cookies for various reasons, including to monitor the effectiveness of their advertising. We do not have access to or control over how our advertisers use cookies . If you would like more information about advertisers' use of cookies, and about your option to limit such use, please click here.
 
@@ -281,7 +287,11 @@ How Tagged Communicates With You
 
 If you want to hear from us more, or hear from us less, you can manage your communications preferences by logging in to the Site, going to your Account Settings page, and under the Email Preferences section checking or un-checking the applicable boxes. If you cancel your Tagged account, thereafter you will receive no further communications directly from us and we will not share your personal information with third parties for marketing purposes. However, you may still receive user generated email messages from your friends inviting you to join Tagged or information from third parties with whom your information was shared prior to such cancellation in compliance with this privacy policy.
 
-No Spam Policy Tagged is opposed to spam. Our No Spam Policy and Terms of Service prohibit all Members from engaging in any activity on our Site involving spam. Violations of these prohibitions may result in immediate termination of service and legal action against the Member. Tagged's Terms of Service expressly prohibit Members from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial ads, or other form of commercial solicitation on the Site or through Tagged's services. A violation of our spam policies and/or any unauthorized use of Tagged’s computer systems could result in the violation of certain federal and state laws. Change of Ownership at Tagged
+No Spam Policy
+
+Tagged is opposed to spam. Our No Spam Policy and Terms of Service prohibit all Members from engaging in any activity on our Site involving spam. Violations of these prohibitions may result in immediate termination of service and legal action against the Member. Tagged's Terms of Service expressly prohibit Members from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial ads, or other form of commercial solicitation on the Site or through Tagged's services. A violation of our spam policies and/or any unauthorized use of Tagged’s computer systems could result in the violation of certain federal and state laws.
+
+Change of Ownership at Tagged
 
 In the event of a change in ownership at Tagged, we reserve the right to transfer your information to the new owner or a related company. If that ever happens, we will notify you and you may choose to modify any of your registration information at that time.
 
@@ -293,9 +303,9 @@ Contacting Tagged
 
 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at http://help.tagged.com.
 
-**YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**  
+**YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-Effective Date Feburary 4, 2014
+Effective Date February 12, 2014
 
 Online Safety >>
 
