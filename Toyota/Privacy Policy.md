@@ -1,6 +1,7 @@
 *   Notebook
 *   Owners
 *   English Español
+*   Search
 
 *   Select Vehicle
 *   Shopping Tools
@@ -23,7 +24,7 @@
     *   Highlander $29,215 starting msrp 1 20/25 est. mpg 2 $39,640 as shown Explore Build
     *   FJ Cruiser $27,680 starting msrp 1 16/20 est. mpg 2 $29,270 as shown Explore Build
     *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,275 as shown Explore Build
-    *   Sequoia $43,595 starting msrp 1 13/18 est. mpg 2 $52,555 as shown Explore Build
+    *   Sequoia $44,095 starting msrp 1 13/18 est. mpg 2 $53,055 as shown Explore Build
     *   Land Cruiser $79,605 starting msrp 1 13/18 est. mpg 2 $80,000 as shown Explore Build
 4.  Hybrids &. EVs
     *   Camry Hybrid $26,330 starting msrp 1 43/39 est. mpg 2 $28,625 as shown Explore Build
