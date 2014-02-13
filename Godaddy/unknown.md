@@ -518,7 +518,11 @@ _Acknowledgements_.  You represent and warrant that you meet the eligibility re
 
 _Indemnification_.  You agree to indemnify, defend and hold harmless the .CC Registry Operator, Verisign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name Holder's domain name registration.
 
-**40\. PROVISIONS SPECIFIC TO .cn REGISTRATIONS**
+**40\. PROVISIONS SPECIFIC TO .cl REGISTRATIONS**
+
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference.
+
+**41\. PROVISIONS SPECIFIC TO .cn REGISTRATIONS**
 
 _Limitations on Registration_.  You may not register or use a domain name that is deemed by China Internet Network Information Center ("CNNIC") to (i) be against the basic principles prescribed in the Constitution of the Peoples Republic of China ("PRC"). (ii) jeopardize national security, leak state secrets, intend to overturn the government, or disrupt the state of integrity of the PRC. (iii) harm national honor and national interests of the PRC. (iv) instigate hostility or discrimination between different nationalities, or disrupt the national solidarity of the PRC. (v) violate the PRC's religion policies or propagate cult and feudal superstition. (vi) spread rumors, disturb public order or disrupt social stability of the PRC. (vii) spread pornography, obscenity, gambling, violence, homicide, terror or instigate crimes in the PRC. (viii) insult, libel against others and infringe other people's legal rights and interests in the PRC. or (ix) take any other action prohibited in laws, rules and administrative regulations of the PRC.
 
@@ -536,7 +540,7 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .CN Re
 
 _.CN Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .CN registrations. You shall register for any and all .CN registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-**41\. provisions specific to .co registrations** 
+**42\. provisions specific to .co registrations** 
 
 _Acknowledgements_.  You shall comply with the operational standards, policies, procedures, and practices for the .CO TLD as set forth in the MINTIC Agreement as updated from time to time by the Registry in a non-arbitrary and non-discriminatory manner including, without limitation, adopted ICANN policies.
 
@@ -548,15 +552,15 @@ _Indemnification_.  You agree to (within thirty days of demand) indemnify, defe
 
 _Jurisdiction_.   The adjudication of all disputes, claims or controversies regarding the registration, ownership, use, transfer, assignment, loss, cancellation, or suspension of any registered name or otherwise relating to the .CO domain name between you and the Registry shall be governed exclusively by the laws of Colombia and that any such disputes, claims or controversies shall be brought and heard exclusively in the courts located in Bogotá, Colombia.
 
-**42\. provisions specific to .co.za registrations**
+**43\. provisions specific to .co.za registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference.
 
-**43\. provisions specific to .cz registrations**
+**44\. provisions specific to .cz registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here, and which are incorporated herein by reference.
 
-**44\. provisions specific to .DE registrations**
+**45\. provisions specific to .DE registrations**
 
 _Acknowledgements_.  You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration guidelines for this ccTLD are available online and are incorporated herein.
 
@@ -574,11 +578,11 @@ _Local Presence Service_.  If you do not provide an administrative contact ("Ad
 
       iv.      We and you agree to release, defend, indemnify and hold harmless Key-Systems, its parent companies, subsidiaries, affiliates, shareholders, agents, directors, officers and employees and the individual designated as Admin-C for the DENIC domain name(s), from and against any and all claims (including, but not limited to, claims of trademark infringement or cybersquatting), demands, liabilities, losses, damages or costs, including reasonable attorneys' fees, arising out of or related in any way to, the Local Presence Services, the DEMINC domain name(s), and/or your use of the DEMIN domain name(s).
 
-**45\. provisions specific to .ES registrations**
+**46\. provisions specific to .ES registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-**46\. provisions specific to .EU registrations**
+**47\. provisions specific to .EU registrations**
 
 _Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .EU registrations. You shall register for any and all .EU registrations using your personal information, which information you represent and warrant is current, accurate and complete. Further, you acknowledge and agree that you are not permitted and shall not attempt to register any .EU registrations unless you have a physical presence in the European Union.
 
@@ -594,27 +598,27 @@ _Sunrise and General Pre-registration Applications_.  You acknowledge and agree
 
 _Dispute Resolution/ADR_.  EURID offers an alternative procedure for resolving disputes concerning .EU domain names, which can be found here. When applicable, you acknowledge such procedure and agree that you shall comply with and abide by its terms and conditions, which are also incorporated herein.
 
-**47\. provisions specific to .FM registrations**
+**48\. provisions specific to .FM registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-**48\. Provisions specific to .fr registrations**
+**49\. Provisions specific to .fr registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
 In the event that you cannot fulfill the registration guidelines, you have the option of using a trustee service.  By using the .FR trustee services, you agree to be bound by the .FR Trustee Agreement, which is hereby incorporated by reference.
 
-**49\. provisions specific to .GS registrations**
+**50\. provisions specific to .GS registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
 
-**50\. provisions specific to .IN registrations**
+**51\. provisions specific to .IN registrations**
 
 _Acknowledgements_.  You agree to be bound by current and future .IN registry policies as indicated on the .IN registry website, and which are incorporated herein. You further acknowledge and agree the .IN registry reserves the right to instruct its registry services provider to deny, cancel, transfer or otherwise make unavailable any registration that it deems necessary, in its discretion to (i) protect the integrity and stability of the registry. (ii) comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process. (iii) avoid any liability, civil or criminal, on the part of the .IN Registry, as well as its affiliates, subsidiaries, officers, directors, representatives, employees, and stockholders. (iv) for violations of this Agreement (including its Exhibits). or (v) to correct mistakes made by the .IN registry or any registrar in connection with a domain name registration. The .IN registry also reserves the right to freeze a domain name during resolution of a dispute.
 
 _Domain Name Dispute Policy_.  You agree to be bound by the policy and procedures for resolution of disputes concerning registered .IN domain names in accordance with the .IN Registry's Domain Name Dispute Resolution Policy.
 
-**51\. PROVISIONS SPECIFIC TO .IT REGISTRATIONS**
+**52\. PROVISIONS SPECIFIC TO .IT REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, including without limitation the Assignment and Management of Domain Names in the ccTDL.IT and Dispute Resolution in the ccTLD.IT, both of which are hereby incorporated by this reference.
 
@@ -622,17 +626,17 @@ _Registration Restrictions_.  Unless you complete your domain name registration
 
 If you use the trustee service for your .it domain registration, you acknowledge and agree that your registration is subject to the review and approval of the trustee.  The trustee service will review your registration request within twenty four hours of receipt.  If your registration request is approved, your domain name will be registered.  If your registration request is denied, your domain name will not be registered and you will receive a refund of any registration fees paid.
 
-**52\. PROVISIONS SPECIFIC TO .JP registrationS**
+**53\. PROVISIONS SPECIFIC TO .JP registrationS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s website and are incorporated herein.
 
 _Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here. 
 
-**53\. PROVISIONS SPECIFIC TO .LA REGISTRATIONS**
+**54\. PROVISIONS SPECIFIC TO .LA REGISTRATIONS**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, polices and agreements and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
 
-**54\. provisions specific to .me registrationS** 
+**55\. provisions specific to .me registrationS** 
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and which are incorporated herein. 
 
@@ -644,11 +648,11 @@ _Reservation of Rights_.  The Registry reserves the right to deny, cancel or tr
 
 _Other Dispute Policies_.  You acknowledge and agree to submit to proceedings commenced under other dispute policies as set forth by the Registry from time to time including, but not limited to, expedited processes for suspension of a domain name by claims sought by intellectual property right holders, Internet engineering and security experts or other competent claimants in the purpose of upholding the stability, security and integrity of the registry system for the TLD.
 
-**55\. provisions specific to .MS registrations**
+**56\. provisions specific to .MS registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and which are incorporated herein.
 
-**56\. provisions specific to .MX registrations**
+**57\. provisions specific to .MX registrations**
 
 _Acknowledgements_.  You warrant and represent that you meet all of the eligibility requirements to register a .MX domain name, and you agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration policies for this ccTLD are available here and are incorporated herein.
 
@@ -660,47 +664,51 @@ _Reservation of Rights_.  You acknowledge and agree that a copy of the customer
 
 _Indemnification_.  You agree to indemnify, defend and hold harmless the .MX registry operator, and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to your domain name registration.
 
-**57\. Provisions specific to .nl registrations**
+58\. Provisions specific to .MY registrations
+
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by refernce.
+
+**59\. Provisions specific to .nl registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD including, but not limited to, the registration guidelines, which are hereby incorporated by this reference. You further represent and warrant that all information provided by you is correct, complete and complies with all .NL General Terms and Conditions for .NL Registrants, which are also incorporated herein.
 
-**58\. provisions specific to .NU registrations**
+**60\. provisions specific to .NU registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. You further acknowledge and accept that any disputes related to your registered domain name will be governed by ICANN’s Uniform Domain Name Dispute Resolution Policy and the .NU Domain Ltd. Uniform Domain Name Dispute Resolution Policy, both of which are also hereby incorporated by reference.
 
-**59\. provisions specific to .NZ registrations**
+**61\. provisions specific to .NZ registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You understand and agree that in order to register a .NZ domain name, a pre-registration DNS validation check is required by the Registry. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD, which are located here and are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated herein and made a part of this Agreement.
 
-**60\. provisions specific to .PE registrations**
+**62\. provisions specific to .PE registrations**
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.
 
-**61\. provisions specific to .PH registrations**
+**63\. provisions specific to .PH registrations**
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules an d policies, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.  You acknowledge and agree to obey, comply with, and be bound by the Domain Namse Service Agreement, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and is incorporated herein by reference.
 
-**62\. provisions specific to .SE registrations**
+**64\. provisions specific to .SE registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference. You further acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
 
-**63\. provisions specific to .So registrations**
+**65\. provisions specific to .So registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference. 
 
-**64\. provisions specific to .TC registrations**
+**66\. provisions specific to .TC registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference.
 
-**65\. provisions specific to .TK registrations**
+**67\. provisions specific to .TK registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. 
 
-**66\. provisions specific to .TV registrations**
+**68\. provisions specific to .TV registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further acknowledge and agree to be bound by any registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which are available here and are incorporated herein.
 
-**67\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
+**69\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the Taiwan Network Information Center ("TWNIC").
 
@@ -724,10 +732,10 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .TW Re
 
 _.TW Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .TW registrations. You shall register for any and all .TW registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-**68\. provisions specific to .UK registrations**
+**70\. provisions specific to .UK registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD including, but not limited to, the Terms and Conditions of Domain Name Registration and the Rules for registering a .UK domain name, both of which are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated and made a part of this Agreement herein.
 
-**69\. provisions specific to .VG registrations**
+**71\. provisions specific to .VG registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
