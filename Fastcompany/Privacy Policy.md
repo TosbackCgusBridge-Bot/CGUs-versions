@@ -51,6 +51,3 @@ The ads appearing on this Web site are delivered to you by DoubleClick, our Web 
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
-
-*   Printer-friendly version
-*   Send by email
