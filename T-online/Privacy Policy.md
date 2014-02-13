@@ -1,26 +1,5 @@
 Hinweise zum Datenschutz
 
-*   Einstellung
-*   drucken
-*   Redaktion
-*   versenden
-
-Leserbrief schreiben
-
-Für Kritik oder Anregungen füllen Sie bitte die nachfolgenden Felder aus. Damit wir antworten können, geben Sie bitte Ihre Adresse an.
-
-Name E-Mail Betreff Nachricht
-
-Wählen Sie aus dem Pull-Down-Menü Ihren gewünschten Ansprechpartner aus. Vielen Dank für Ihre Mitteilung.
-
-....AutoComputer/HandyElternLifestyleUnterhaltungNachrichtenReisenSportWirtschaftVideoWetterKidsSpieleRegionalesAugenblickezuhause.dewanted.defeelgreen.detrax.dedriver.dewetter.infoCommunity   Artikel versenden
-
-Empfänger
-
-Absender
-
-Name Name E-Mail E-Mail Nachricht  
-
 **Vertragsabschluss und Besuch unserer Internetseite**
 
 *   Allgemeine Datenschutzhinweise (PDF)
@@ -109,54 +88,3 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 **E-Mail Center**
 
 *   E-Mail Center - Kalender
-
-*   Einstellung
-*   drucken
-*   Redaktion
-*   versenden
-
-Leserbrief schreiben
-
-Für Kritik oder Anregungen füllen Sie bitte die nachfolgenden Felder aus. Damit wir antworten können, geben Sie bitte Ihre Adresse an.
-
-Name E-Mail Betreff Nachricht
-
-Wählen Sie aus dem Pull-Down-Menü Ihren gewünschten Ansprechpartner aus. Vielen Dank für Ihre Mitteilung.
-
-....AutoComputer/HandyElternLifestyleUnterhaltungNachrichtenReisenSportWirtschaftVideoWetterKidsSpieleRegionalesAugenblickezuhause.dewanted.defeelgreen.detrax.dedriver.dewetter.infoCommunity   Artikel versenden
-
-Empfänger
-
-Absender
-
-Name Name E-Mail E-Mail Nachricht  
-
-*   Tags:
-*   Kundencenter,
-*   Preise und AGB,
-*   Datenschutz,
-*   Datensicherheit,
-*   Cookies
-
-Mehr zum Thema
-
-*   Smartphones in Kinderhänden: So schützen Eltern ihre Kinder vor Kostenfallen und Datenklau
-*   Datenschützer soll länger bleiben - Opposition rügt "Lex Weichert"
-*   Facebook-Gründer Mark Zuckerberg zum größten Spender der USA erklärt
-*   Der "F...ck"-Fauxpas: Die USA in der Abhörfalle
-*   Twitter erwägt rechtliche Schritte gegen US-Regierung
-*   Microsoft lässt Regierungen in Programmcode seiner Software schauen
-*   Strafantrag wegen Datenschutzverstößen in Polizei-Akademie
-*   Andrea Voßhoff wird offiziell oberste Datenschützerin
-*   Datenschutzbeauftragte Voßhoff will neue Struktur für ihre Behörde
-*   Voßhoff wird offiziell oberste Datenschützerin
-*   Einführung von Voßhoff als oberster Datenschützerin
-*   Andrea Voßhoff wird offiziell Bundesdatenschützerin
-*   Klage gegen Schufa von BGH abgewiesen
-*   BGH weist Klage gegen Schufa ab
-*   Noch keine Ergebnisse bei Ermittlungen gegen Rostocker Feuerwehr
-*   Ihr Ansprechpartner
-
-alle passenden Artikel weniger Artikel anzeigen MEISTGELESENE ARTIKEL
-
-Rekordtemperaturen statt Schneefälle mehr Schlagfertiger Rentner warnt Jauch mehr Ski-Freestylerin Yuki Tsubota stürzt schwer mehr Friesinger-Postma attackiert Pechstein scharf mehr Alessandra heißt wieder Meyer-Wölden mehr 77 Menschen sterben - nur einer überlebt mehr Medien: Mönchengladbach holt Sommer ins Tor mehr "Melanie hat alle getäuscht" mehr Video zeigt Festnahme eines Top-Terroristen mehr
