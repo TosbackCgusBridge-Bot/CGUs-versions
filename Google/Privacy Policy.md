@@ -1,6 +1,6 @@
 Política de Privacidade
 
-Última modificação: 24 de junho de 2013 (visualizar versões arquivadas)
+Última modificação: 20 de dezembro de 2013 (visualizar versões arquivadas)
 
 Existem muitas maneiras diferentes pelas quais você pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo. Quando você compartilha informações conosco, por exemplo, criando uma Conta do Google, podemos tornar esses serviços ainda melhores – mostrar-lhe resultados de pesquisa e anúncios mais relevantes, ajudá-lo a se conectar com pessoas ou tornar o compartilhamento com outras pessoas mais rápido e fácil. Quando você usa nossos serviços, queremos ser claros quanto ao modo como estamos usando suas informações e ao modo como você pode proteger sua privacidade.
 
@@ -10,7 +10,7 @@ Nossa Política de Privacidade explica:
 *   Como usamos essas informações.
 *   As opções que oferecemos, incluindo o modo de acessar e atualizar informações.
 
-Tentamos manter tudo o mais simples possível, mas se você não estiver familiarizado com termos como cookies, endereços de IP, pixel tags e navegadores então leia sobre esses termos-chave primeiro. Sua privacidade é importante para o Google, portanto, sendo você um usuário novo ou antigo do Google, por favor reserve um tempo para conhecer nossas práticas. E, se você tiver alguma dúvida, entre em contato conosco.
+Tentamos manter tudo o mais simples possível, mas se você não estiver familiarizado com termos como cookies, endereços de IP, pixel tags e navegadores então leia sobre esses termos-chave primeiro. Sua privacidade é importante para o Google, portanto, sendo você um usuário novo ou antigo do Google, por favor reserve um tempo para conhecer nossas práticas. E, se você tiver alguma dúvida, consulte esta página.
 
 Informações que coletamos
 
@@ -73,7 +73,7 @@ Transparência e escolha
 As pessoas têm diferentes preocupações sobre privacidade. Nosso objetivo é a clareza quanto às informações que coletamos, de modo que você possa fazer escolhas importantes sobre como elas são usadas. Por exemplo, você pode:
 
 *   Rever e controlar determinados tipos de informações ligados a sua Conta do Google por meio do Google Dashboard.
-*   O usuário pode visualizar e editar suas preferências de anúncios, como as categorias de seu interesse, por meio das Configurações de anúncios. O usuário também pode desativar determinados serviços de anúncios da Google aqui.
+*   O usuário pode visualizar e editar suas preferências sobre os anúncios exibidos no Google e na Web, como as categorias de seu interesse, por meio das Configurações de anúncios. O usuário também pode desativar determinados serviços de anúncios da Google aqui.
 *   Use nosso editor para ver e ajustar a forma como seu Perfil do Google é mostrado a indivíduos em particular.
 *   Controle com quem você compartilha informações.
 *   Obtenha informações de muitos de nossos serviços.
@@ -88,7 +88,7 @@ Acesso e atualização de suas informações pessoais
 
 Sempre que você usa nossos serviços, nosso objetivo é oferecer-lhe acesso a suas informações pessoais. Se essas informações estiverem erradas, nos empenhamos em lhe oferecer maneiras rápidas de atualizá-las ou excluí-las – exceto quando temos de mantê-las para fins comerciais legítimos ou jurídicos. Ao atualizar suas informações pessoais, podemos solicitar que você confirme sua identidade antes de atendermos sua solicitação.
 
-Podemos recusar as solicitações que sejam repetitivas, que requeiram esforço técnico desproporcional (por exemplo, desenvolvimento de um novo sistema ou mudança fundamental de uma prática existente), coloquem em risco a privacidade de outros ou que sejam extremamente impraticáveis (por exemplo, solicitações referentes a informações localizadas em fitas de backup).
+Podemos recusar as solicitações que sejam repetitivas, que requeiram esforço técnico desproporcional (por exemplo, desenvolvimento de um novo sistema ou mudança fundamental de uma prática existente), coloquem em risco a privacidade de outros ou que sejam extremamente impraticáveis (por exemplo, solicitações referentes a informações localizadas em sistemas de backup).
 
 Nos casos em que pudermos fornecer acesso e correção de informações, faremos isso gratuitamente, exceto quando isso exigir esforço desproporcional. Nosso objetivo é manter nossos serviços de modo a proteger informações de destruição acidental ou maliciosa. Assim, depois de excluir informações de nossos serviços, não podemos excluir imediatamente cópias residuais de nossos servidores ativos e pode não ser possível remover informações de nossos sistemas de backup.
 
