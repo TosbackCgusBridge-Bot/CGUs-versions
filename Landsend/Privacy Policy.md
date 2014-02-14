@@ -54,6 +54,7 @@ $5 More for UPS 2 Day
         *   Knit Tops, Polos &. Turtlenecks
         *   Shirts &. Blouses
         *   Sweaters &. Cardigans
+        *   Hoodies &. Sweatshirts
         *   Pants &. Crops
         *   Shorts
         *   Dresses
@@ -64,7 +65,7 @@ $5 More for UPS 2 Day
         *   Sleepwear
         *   Shoes
         *   Socks, Tights &. Underwear
-        *   Accessories
+        *   Accessories &. Handbags
         *   Totes
 *   Men
     *   *   Made to Work
@@ -89,6 +90,7 @@ $5 More for UPS 2 Day
         *   Dress Shirts
         *   Casual Button-down Shirts
         *   Sweaters &. Cardigans
+        *   Hoodies &. Sweatshirts
         *   Pants
         *   Shorts
         *   Swimwear
@@ -125,6 +127,7 @@ $5 More for UPS 2 Day
         *   Swim
         *   Tops
         *   Sweaters &. Cardigans
+        *   Hoodies &. Sweatshirts
         *   Dresses
         *   Pants &. Leggings
         *   Skirts &. Skorts
@@ -141,6 +144,7 @@ $5 More for UPS 2 Day
         *   Shorts
         *   Tops
         *   Sweaters
+        *   Hoodies &. Sweatshirts
         *   Pants
         *   Blazers &. Jackets
         *   Outerwear
@@ -159,6 +163,7 @@ $5 More for UPS 2 Day
         *   Water Shoes &. Sandals
         *   Totes &. Bags
         *   Beach Towels
+        *   Swim Tees
 *   Home
     *   *   Totes
         *   Beach Towels
