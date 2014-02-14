@@ -1,6 +1,17 @@
-  Products Travel more Sign In
+ 
 
-  **Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective September 10, 2010  
+*   Products
+*   Travel
+
+*   null
+*   Log In
+*   Sign Up
+*   Sign out
+*   Help
+
+Search for:
+
+**Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective September 10, 2010  
 
 1.  **Scope and Changes**  
     Nextag, Inc. and/or our subsidiaries ("Nextag," "us" or "we") operate the websites www.nextag.com, www.calibex.com and permutations of those sites, including certain co-branded versions of those sites with third parties, that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). Nextag respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Website Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our partners or advertisers, or to any activities which are not online.
@@ -148,4 +159,23 @@ San Mateo, CA 94403
 legalnotices@nextag.com (click here to opt out of receiving Nextag mailings)
 
 Return to Top  
-About **NexTag** | Help | Terms of Use | Privacy Policy | Preferences | **Sign In** | Advertising Programs © 1999-2014, **NexTag**, Inc.  -  International: UK | France | Germany
+Shopping International
+
+*   Australia
+*   Canada
+*   France
+*   Germany
+*   Italy
+*   Japan
+*   Spain
+
+Mobile Merchants My Account About Us Customer Service How Are We Doing?
+
+*   Tell Us What You Think
+
+More Fun Stuff
+
+*   Travel
+*   Blog
+
+© 1999-2014, Nextag, Inc.
