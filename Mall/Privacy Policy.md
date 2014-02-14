@@ -143,6 +143,7 @@ APPS
     *   Converters &. Optimizers
     *   Editors
     *   Gallery &. Cataloging Tools
+    *   Icon Tools
     *   Other
     *   Screen Capture
     *   Viewers
