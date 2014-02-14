@@ -78,10 +78,8 @@ If you would like to terminate your Premium Subscription you can: (i) visit "**M
 
 If you have questions about this Privacy Policy, please contact Scout at:
 
-SCOUT
-
-12301 Whitewater Drive
-
-Minnetonka, MN 55343
+> SCOUT  
+> 12301 Whitewater Drive  
+> Minnetonka, MN 55343
 
 **Last Updated**: November 15, 2013
