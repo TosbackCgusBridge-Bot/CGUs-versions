@@ -18,15 +18,15 @@ Bank of America Privacy &. Security Comprehensive protection. Confident banking.
 
 We're committed to keeping your personal and financial information safe and secure.
 
-**Privacy**Learn how we collect and use information. **Card security**Free Total Security Protection® on all cards. **Mobile security**Convenience, safety and security **Email fraud**Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC
+**Privacy**Learn how we collect and use information. **Card security**Free Total Security Protection® on all cards. **Mobile security**Convenience, safety and security **Email fraud**Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
 
 As an Online Banking customer, you're entitled to a free year of McAfee Internet Security ››
 
-Lost or stolen card?
+Lost or stolen card? Report a lost or stolen card
 
 Be sure to notify us promptly. You won't be liable for any fraudulent activity ››
 
-Got questions?
+Got questions? Protecting Your Information FAQs
 
 We have answers. Explore our FAQs about privacy and security ››
 
@@ -314,8 +314,8 @@ Review our browser security requirements.
 
   Home Accessible Banking Privacy &. Security Careers Site Map
 
-Bank of America, N.A. Member FDIC. Equal Housing Lender. Link opens in new window.  
-© 2014 Bank of America Corporation. All rights reserved.
+Bank of America, N.A. Member FDIC. Equal Housing Lender . Link opens in new window.  
+© 2014 Bank of America Corporation. All rights reserved.
 
 Important Notice
 
