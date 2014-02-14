@@ -1,6 +1,6 @@
 Règles de confidentialité
 
-Date de la dernière modification : 24 juin 2013 (voir les versions archivées)
+Date de la dernière modification : 20 décembre 2013 (voir les versions archivées)
 
 Vous pouvez avoir recours à nos services pour toutes sortes de raisons – pour rechercher et partager des données, pour communiquer avec d’autres personnes ou pour créer de nouveaux contenus. En partageant vos données avec nous, par exemple lorsque vous créez un Compte Google, vous nous permettez d’améliorer encore la qualité de ces services – en améliorant la pertinence des annonces et des résultats qui vous sont proposés, en vous aidant à établir des contacts ou en facilitant et en accélérant le partage de vos données. En tant qu’utilisateur de nos services, nous souhaitons que vous compreniez comment nous utilisons vos données et de quelles manières vous pouvez protéger votre vie privée.
 
@@ -10,7 +10,7 @@ Nos Règles de confidentialité expliquent :
 *   la façon dont nous utilisons ces données.
 *   les fonctionnalités que nous vous proposons, y compris comment accéder à vos données et comment les mettre à jour.
 
-Nous nous efforçons d’être le plus clair possible. Toutefois, si vous n’êtes pas familier, par exemple, des termes “cookies”, “adresses IP”, “balises pixel” ou “navigateurs”, renseignez-vous préalablement sur ces termes clés. Chez Google, nous sommes soucieux de préserver la confidentialité de vos données privées. Ainsi, que vous soyez nouvel utilisateur ou un habitué de Google, prenez le temps de découvrir nos pratiques et, si vous avez des questions, n’hésitez pas à nous contacter.
+Nous nous efforçons d'être le plus clair possible. Toutefois, si vous n'êtes pas familier, par exemple, des termes "cookies", "adresses IP", "balises pixel" ou "navigateurs", renseignez-vous préalablement sur ces termes clés. Chez Google, nous sommes soucieux de préserver la confidentialité de vos données privées. Ainsi, que vous soyez nouvel utilisateur ou un habitué de Google, prenez le temps de découvrir nos pratiques et, si vous avez des questions, veuillez consulter cette page.
 
 Données que nous collectons
 
@@ -73,7 +73,7 @@ Transparence et liberté de choix
 Les préoccupations en matière de confidentialité diffèrent d’une personne à l’autre. Nous souhaitons faire preuve de transparence sur la façon dont nous collectons et utilisons les données qui vous concernent, afin que vous disposiez de tous les éléments pour faire des choix informés. Vous pouvez par exemple effectuer les actions ci-dessous :
 
 *   Utiliser Google Dashboard pour vérifier et contrôler certains types de données liés à votre Compte Google.
-*   Grâce aux paramètres des annonces, vous pouvez consulter et modifier vos préférences en matière d’annonces, telles que les catégories susceptibles de vous intéresser. Vous pouvez également choisir de désactiver certains services publicitaires Google.
+*   Grâce aux paramètres des annonces, vous pouvez consulter et modifier vos préférences relatives aux annonces qui vous sont présentées sur les sites Google et sur le Web, telles que les catégories susceptibles de vous intéresser. Vous pouvez également choisir de désactiver certains services publicitaires Google.
 *   Utiliser notre outil d’édition pour visualiser la façon dont certaines personnes voient votre Profil Google et pour l’ajuster en conséquence.
 *   Contrôler avec qui vous partagez vos données.
 *   Supprimer des données de plusieurs de nos services.
@@ -88,7 +88,7 @@ Consultation et mise à jour de vos données personnelles
 
 Lorsque vous utilisez nos services, nous souhaitons que vous ayez accès à vos données personnelles. En cas d’erreur, nous faisons en sorte que vous puissiez les mettre à jour rapidement ou les supprimer, sauf si nous devons les conserver à des fins commerciales légitimes ou si la loi nous l’impose. Avant de répondre à une demande de mise à jour de vos données personnelles, nous pouvons vous inviter à vous identifier.
 
-Nous nous réservons le droit de décliner toute demande déraisonnable par son caractère répétitif ou systématique, toute demande réclamant des efforts techniques démesurés (par exemple, le développement d’un nouveau système ou une modification majeure d’une procédure existante), compromettant la confidentialité des données de tiers, ou difficilement réalisable (par exemple, des demandes concernant des données stockées sur des bandes de sauvegarde).
+Nous nous réservons le droit de décliner toute demande déraisonnable par son caractère répétitif ou systématique, toute demande réclamant des efforts techniques démesurés (par exemple, le développement d'un nouveau système ou une modification majeure d'une procédure existante), compromettant la confidentialité des données de tiers, ou difficilement réalisable (par exemple, des demandes concernant des données stockées sur des systèmes de sauvegarde).
 
 L’accès aux données et leur rectification constituent un service gratuit, sauf dans le cas où ce service impliquerait un effort démesuré. Nous prenons toutes les dispositions pour protéger les données gérées dans le cadre de nos services contre toute destruction accidentelle ou volontaire. Par conséquent, même lorsque vous supprimez des données utilisées par nos services, nous ne supprimons pas immédiatement les copies résiduelles se trouvant sur nos serveurs actifs ni celles stockées dans nos systèmes de sauvegarde.
 
