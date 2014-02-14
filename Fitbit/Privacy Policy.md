@@ -268,7 +268,7 @@ Sync on the go
 
 One™ syncs wirelessly and automatically with smartphones that support Bluetooth 4.0. This allows the One™ to sync with a wide range of leading iOS and Android Smartphones.
 
-For a full list of supported devices, visit: http://www.fitbit.com/devices
+For a full list of supported devices, visit: https://www.fitbit.com/devices
 
 If your phone does not support Bluetooth 4.0, you're still in luck. The Fitbit mobile app works with all smartphones for logging data, receiving notifications, and viewing graphs and charts based on your last sync.
 
@@ -296,7 +296,7 @@ Sync on the go
 
 Zip™ syncs wirelessly and automatically with smartphones that support Bluetooth 4.0. This allows the Zip™ to sync with a wide range of leading iOS and Android Smartphones.
 
-For a full list of supported devices, visit: http://www.fitbit.com/devices
+For a full list of supported devices, visit: https://www.fitbit.com/devices
 
 If your phone does not support Bluetooth 4.0, you're still in luck. The Fitbit mobile app works with all smartphones for logging data, receiving notifications, and viewing graphs and charts based on your last sync.
 
