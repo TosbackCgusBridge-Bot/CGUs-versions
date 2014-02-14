@@ -1,6 +1,6 @@
 Customer Service›Policies
 
-Our 100% Satisfaction Guarantee
+Our Satisfaction Guarantee
 
 When you do business with Sierra Trading Post, you're getting the best guarantee out there. If you are not happy with your purchase for any reason, please return it to us as soon as possible. We will make it right! Learn more about us!
 
