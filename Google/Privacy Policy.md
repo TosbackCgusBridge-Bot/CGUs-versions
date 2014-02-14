@@ -1,6 +1,6 @@
 Privacybeleid
 
-Laatst aangepast: 24 juni 2013 (gearchiveerde versies weergeven)
+Laatst aangepast: 20 december 2013 (gearchiveerde versies weergeven)
 
 U kunt onze services op verschillende manieren gebruiken: om informatie te zoeken en te delen, met andere mensen te communiceren of nieuwe inhoud te maken. Wanneer u gegevens met ons deelt, bijvoorbeeld door een Google-account te maken, kunnen we die services nog beter maken, om u relevantere zoekresultaten en advertenties te laten zien, u in contact te brengen met andere mensen of het delen van inhoud sneller en gemakkelijker te maken. We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw gegevens gebruiken en op welke manieren u uw privacy kunt beschermen.
 
@@ -10,7 +10,7 @@ In ons Privacybeleid wordt uitgelegd:
 *   Hoe we die gegevens gebruiken.
 *   De keuzemogelijkheden die we bieden, waaronder hoe u gegevens kunt openen en bijwerken.
 
-We hebben geprobeerd het zo eenvoudig mogelijk te houden, maar als u niet bekend bent met termen zoals cookies, IP-adressen, pixeltags en browsers, moet u eerst informatie over deze belangrijke termen lezen. Uw privacy is belangrijk voor Google. Daarom vragen we u (ongeacht of u een nieuwe of bestaande gebruiker van Google bent) de tijd te nemen ons privacybeleid door te nemen. Als u vragen heeft, kunt u contact met ons opnemen.
+We hebben geprobeerd het zo eenvoudig mogelijk te houden, maar als u niet bekend bent met termen zoals cookies, IP-adressen, pixeltags en browsers, moet u eerst informatie over deze belangrijke termen lezen. Uw privacy is belangrijk voor Google. Daarom vragen we u (ongeacht of u een nieuwe of bestaande gebruiker van Google bent) de tijd te nemen ons privacybeleid door te nemen. Als u vragen heeft, kunt u deze pagina raadplegen.
 
 Gegevens die we verzamelen
 
@@ -73,7 +73,7 @@ Duidelijkheid en keuzemogelijkheden
 Mensen maken zich op verschillende manieren zorgen over hun privacy. Het is ons doel duidelijk te zijn over de gegevens die we verzamelen, zodat u weloverwogen beslissingen kunt nemen over hoe uw gegevens worden gebruikt. U kunt bijvoorbeeld:
 
 *   Bepaalde soorten gegevens die zijn gekoppeld aan uw Google-account, controleren en beheren via Google Dashboard.
-*   Uw advertentievoorkeuren, zoals welke categorieën u interesseren, weergeven en bewerken via Advertentie-instellingen. U kunt zich hier ook afmelden voor bepaalde advertentieservices van Google.
+*   Uw voorkeuren voor de advertenties die u te zien krijgt op Google en op internet, zoals welke categorieën u interesseren, weergeven en bewerkenvia Advertentie-instellingen. U kunt zich hier ook afmelden voor bepaalde advertentieservices van Google.
 *   Onze editor gebruiken om te bekijken en aan te passen hoe uw Google-profiel wordt weergegeven aan bepaalde mensen.
 *   Beheren met wie u gegevens deelt.
 *   Gegevens verwijderen uit veel van onze services.
@@ -88,7 +88,7 @@ Uw persoonlijke gegevens openen en bijwerken
 
 Wanneer u onze services gebruikt, proberen we u toegang te geven tot uw persoonlijke gegevens. Als die gegevens onjuist zijn, proberen we u te voorzien van manieren om deze gegevens snel bij te werken of te verwijderen, tenzij we die gegevens moeten bewaren voor legitieme zakelijke of juridische doeleinden. Wanneer u uw persoonlijke gegevens bijwerkt, kunnen we u vragen uw identiteit te verifiëren voordat we uw verzoek kunnen verwerken.
 
-We kunnen verzoeken weigeren die onredelijkerwijs worden herhaald, onevenredige technische inspanningen vereisen (zoals het ontwikkelen van een nieuw systeem of het aanbrengen van fundamentele wijzigingen in een bestaande handelswijze), de privacy van anderen in gevaar brengen of zeer onpraktisch zouden zijn (zoals verzoeken met betrekking tot gegevens die zich op back-uptapes bevinden).
+We kunnen verzoeken weigeren die onredelijkerwijs worden herhaald, onevenredige technische inspanningen vereisen (zoals het ontwikkelen van een nieuw systeem of het aanbrengen van fundamentele wijzigingen in een bestaande handelswijze), de privacy van anderen in gevaar brengen of zeer onpraktisch zouden zijn (zoals verzoeken met betrekking tot gegevens die zich op back-upsystemen bevinden).
 
 Wanneer we u mogelijkheden kunnen geven voor het krijgen van toegang tot en het corrigeren van gegevens, doen we dit gratis, behalve in gevallen waar dit een onevenredige inspanning zou vereisen. We streven ernaar onze services te handhaven op een manier die gegevens beschermt tegen onopzettelijke of kwaadwillige vernietiging. Daarom is het mogelijk dat we, nadat u gegevens uit onze services heeft verwijderd, resterende kopieën niet onmiddellijk van onze actieve servers verwijderen en gegevens niet uit onze back-upsystemen verwijderen.
 
