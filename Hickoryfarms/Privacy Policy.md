@@ -15,6 +15,7 @@ Your Cart(0) Catalog Navigation
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
+    *   Birthday Gifts
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -23,7 +24,6 @@ Your Cart(0) Catalog Navigation
     *   Gifts Over $50
 *   Favorites
 *   Specials
-    *   Valentine's Day Specials
 *   Business Gifts
     *   Top Business Gifts
 
@@ -38,6 +38,7 @@ Search Catalog Search Menu Search Stores Cart
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
+    *   Birthday Gifts
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -46,7 +47,6 @@ Search Catalog Search Menu Search Stores Cart
     *   Gifts Over $50
 *   Favorites
 *   Specials
-    *   Valentine's Day Specials
 *   Business Gifts
     *   Top Business Gifts
 
@@ -124,9 +124,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
@@ -134,7 +134,7 @@ If you have any question or need help with your account, you may Contact Us to a
 
 Customer Service  
 Monday to Friday  
-8 AM to 8 PM  
+8 AM to 6 PM EST  
 1.800.776.4111
 
 Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up
