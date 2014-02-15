@@ -129,6 +129,6 @@ Close A Small World . Net A Small World . Net A Small World . Net
 *   Contact Us
 *   The Globalist
 
-Copyright © ASMALLWORLD, AG
+Copyright © 2004-2014 ASMALLWORLD AG
 
 All rights reserved.
