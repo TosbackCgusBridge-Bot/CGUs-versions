@@ -158,8 +158,8 @@ For more information on the preloaded apps available on Tabeo, including the pri
 
 For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
 
-*   www.ftc.gov/privacy/privacyinitiatives/childrens.html
-*   www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm
+*   business.ftc.gov/privacy-and-security/childrens-privacy
+*   www.onguardonline.gov/articles/0012-kids-and-socializing-online
 *   www.onguardonline.gov/features/feature-0002-featured-info-parents
 
  BACK TO TOP
