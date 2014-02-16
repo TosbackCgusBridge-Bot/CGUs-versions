@@ -43,6 +43,7 @@ Banking Accounts and Services
 Your Financial Goals
 
 *   Tax Center
+*   Banking Made Easy
 *   Protect What Counts
 *   Planning for Retirement
 *   Fraud Information Center
