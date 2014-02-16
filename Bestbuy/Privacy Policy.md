@@ -1,3 +1,6 @@
+**Change:** On June 26, 2013, Best Buy Co., Inc. sold its 50% interest in its Best Buy Europe venture to Carphone Warehouse Group plc and no longer owns any European business that transfers personal data of Europeans from Europe to the U.S. As a result, Best Buy Co., Inc. withdrew from the EU-US Safe Harbor Framework on February 15, 2014 and removed reference to EU-US Safe Harbor in its Privacy Policy. This does not change how Best Buy protects the privacy of our customer's personal information.
+
+  
 Privacy Policy
 
 We take your privacy seriously, and we want you to know how we collect, use, share and protect your information.
@@ -152,11 +155,7 @@ Privacy Policy Updates
 
 We may need to update our Privacy Policy as Best Buy and our customers grow and evolve. If we make material changes, including any change in ownership or uses of your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
 
-U.S.-EU **Safe Harbor Framework**
-
-Best Buy Co., Inc. complies with the U.S.- E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. Best Buy Co., Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Best Buy Co., Inc.'s certification, please visit: http://export.gov/safeharbor.
-
-If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above.
+TRUSTe Privacy Seal
 
 Best Buy Co., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com and does not cover information that may be collected behind the log in on our website.
 
@@ -178,4 +177,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated 1/01/2014
+Last Updated 2/15/2014
