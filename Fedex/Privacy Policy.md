@@ -22,6 +22,7 @@ Freight Shipments FedEx Freight
 *   Find FedEx Locations
 *   Go to Shipping Desk
 *   International Services
+*   U.S. Offshore Services
 
 Expedited/Extra-care Handling FedEx Custom Critical
 
