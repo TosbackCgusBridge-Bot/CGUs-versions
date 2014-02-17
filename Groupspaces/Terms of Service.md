@@ -1,6 +1,6 @@
 Terms and Conditions for use of the GroupSpaces Website
 
-_Last Updated: 9th May 2011  
+_Last Updated: 16th February 2014  
 _  
 Thank you for using GroupSpaces ("**GroupSpaces**", "**we**" or "**us**")! GroupSpaces provides a software platform (the "**GroupSpaces Platform**") that enables you to create, join or browse Groups (as defined below) built on the GroupSpaces Platform. We also provide a set of services that will enhance your experience as a member of Groups on the GroupSpaces Platform.  
   
@@ -52,7 +52,7 @@ GroupSpaces.com is a site operated by GroupSpaces Limited. We are registered in 
   
 "**Third Party Software**" means software that is licensed to you by third parties.  
   
-"**Third Party Payment Providers**" refers to third party software for collecting payments online. As of July 9th 2011 the third party payment providers that can be used with GroupSpaces are PayPal, Google Checkout and WePay.  
+"**Third Party Payment Providers**" refers to third party software for collecting payments online. As of February 16th 2014 the third party payment provider that can be used with GroupSpaces is PayPal.  
   
 "**Users**" are all end users of the GroupSpaces Platform, and include you, any unregistered users, all GroupSpaces Members, all Group Members, and all Group Managers.  
   
