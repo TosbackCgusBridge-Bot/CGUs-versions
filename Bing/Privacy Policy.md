@@ -256,9 +256,6 @@ Lastly, some Bing apps provide the option to configure the application to use ad
 
 Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars.
 
-  
-  
-
 **Information collected and processed when installing and using a Bing app**
 
 When you install Bing apps we collect information that tells us if the app was installed properly, the installation date, the app version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the application and issues associated with different versions of the application and different operating systems and browsers.
@@ -284,25 +281,13 @@ Some Bing apps provide you the option to configure the application to use additi
 *   Your personal finance information from third party financial institutions that you consent to use in the Finance app. Bing only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft.
 *   Information from other companies that you have configured for use such as travel itineraries in the Travel app and subscriptions in the News app.  
 
-  
-  
-
 **Personalization and Syncing for apps**
 
-If you want to enhance your experience when using some Bing apps, you can choose to “personalize” and/or “sync” your apps and other Microsoft services. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. Syncing allows any settings or customizations to be used across all devices for that application.  These features use information collected by your Bing app (as described in the “Collecting your Information” and “Using your Information” sections above) and information associated with your Microsoft account. If you are signed in to Windows or Windows Phone with a Microsoft account (or a domain account connected to a Microsoft account), the personalization features will be enabled by default. You may have different personalization and sync settings depending on the version of your Bing app as noted below.
+If you want to enhance your experience when using some Bing apps, you can choose to connect your Microsoft account. Whenever you are logged into your Microsoft account and using the app, Bing will use your information to personalize and sync your apps and other Microsoft services. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. These features use information collected by your Bing app (as described in the “Collecting your Information” and “Using your Information” sections above) and information associated with your Microsoft account. If you are signed in to Windows or Windows Phone with a Microsoft account (or a domain account connected to a Microsoft account), the personalization and sync feature will be enabled by default. If you ever wish to stop personalization and syncing in a Bing app, sign-out of your Microsoft account using the app settings. You may have different personalization and sync settings depending on the version of your Bing app.
 
-Other Bing apps on non-Microsoft devices, such as older iOS versions of the Bing app, do not offer personalization or syncing because they do not have functionality to allow you to use your Microsoft account to sign in or sign out of the app. 
+Other Bing apps on Microsoft and non-Microsoft devices, such as older iOS versions of the Bing app, do not offer personalization/syncing because they do not have functionality to allow you to use your Microsoft account to sign in or sign out of the app. 
 
-All information used for personalization and syncing are stored on Microsoft servers and for security purposes are transmitted using SSL. Some information used to customize your apps on a specific PC will not be synced on that PC and your devices until you add that PC to your Microsoft account as a trusted PC.
-
-**Personalization and syncing for Windows 8.1 versions of Bing apps**
-
-If you are using an 8.1 version of a Bing app the following features will be enabled by default:
-
-*   **Personalization:**  When personalization is enabled, Microsoft will use information collected from the app and information associated with your Microsoft account to personalize content provided to you in the app and to personalize other Microsoft services. For example, if you configure the Weather app to show weather for Seattle, the Travel app may give you recommendations for events in Seattle. 
-*   **Sync across devices:**  When “Sync across devices” is enabled, Microsoft will use information that is used to customize your app, such as your favorite sports team in the Sports app or your preference for metric units, across all your devices.
-
-For all of the Bing apps except Maps, the settings for these features can be changed using the Personalization option in the app Settings charm.  For the Maps app, you can turn personalization and syncing on or off by disconnecting your Microsoft account or other accounts using the Accounts options of the app Settings charm.
+All information used for personalization and syncing is stored on Microsoft servers and for security purposes is transmitted using SSL. Some information used to customize your apps on a specific PC will not be synced on that PC and your devices until you add that PC to your Microsoft account as a trusted PC.
 
 **Syncing for older versions of Bing apps and Bing apps**
 
@@ -310,7 +295,7 @@ Older versions of Bing apps for Windows do not offer personalization and rely on
 
 **Syncing for Windows phone and other operating systems**
 
-For Bing apps on your Windows Phone, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.  For example, in certain versions of Bing apps for Windows Phone, you can sign in or out of the app in Settings->. Personalization.
+For Bing apps on your Windows Phone, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.  For example, in certain versions of Bing apps for Windows Phone, you can sign in or out of the app in Settings->. Microsoft account.
 
 For the Bing app on your iOS device, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.
 
