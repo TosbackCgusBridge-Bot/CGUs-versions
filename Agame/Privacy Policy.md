@@ -154,8 +154,6 @@ If you have any additional questions or requests, you may send an email to info@
     *   Games
     *   Mobile Games
     *   A10 Games
-*   Partners
-    *   Online Games
 
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.  
   
@@ -172,6 +170,9 @@ Copyright © 2013 SPIL GAMES B.V. All rights reserved.
 *   Submit a Game
 *   Get Free Games
 *   Help &. Contact
+
+*   Facebook
+*   Google+
 
 *   Connect and play with friends
 *   Set high scores and win awards
