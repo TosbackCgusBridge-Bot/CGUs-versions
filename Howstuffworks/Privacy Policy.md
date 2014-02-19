@@ -18,10 +18,8 @@ Search HowStuffWorks and the web
 *   Tech
 *   Video
 *   Shows
-*   Blogs
 *   Quizzes
 *   Games
-*   Random Article
 
 Home >. About Us Privacy Policy
 
@@ -231,10 +229,8 @@ Can't get enough HowStuffWorks?
 *   Tech
 *   Video
 *   Shows
-*   Blogs
 *   Quizzes
 *   Games
-*   Random Article
 
 *   HOWSTUFFWORKS
     
