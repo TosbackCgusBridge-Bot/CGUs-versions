@@ -62,8 +62,9 @@ Cheapflights.com does not sell travel products or services, but directs you to t
 This Privacy Policy applies only to the information we collect on Cheapflights.com. Please note that Cheapflights has no input into, and is not responsible for, the privacy practices of other Web sites. We encourage you to read the privacy policies of other Web sites you link to from Cheapflights.com.  
   
 **8\. Third Party Advertisers**  
-  
-The advertising banners and other forms of advertising appearing on this Web site are sometimes delivered to you, on our behalf, by a third party. In the course of serving advertisements to this site, the third party may place or recognize a unique cookie on your browser. For more information on cookies, you can visit www.cookiecentral.com.  
+
+The banners and all graphical advertising appearing on our site are delivered to you, on our behalf, by DFP. Information about your visit to our site and our Partner’s sites, such as the number of times you have viewed an ad (but not your name, address, or any other personal information) is used to determine your preferences, which in turn enables us to make our advertising more relevant to you. You can opt-out of having us automatically collect your data for the purpose of serving personalized content to you at any time by clicking here  http://www.networkadvertising.org/choices/ and opting out of Double Click. Please note that this doesn’t mean that you won’t see ads or recommendations. Rather, you’ll see a generic ad in place of personalized content because no data related to you individually will have been used in our advertising.  For more information please contact us via feedback@cheapflights.com.
+
   
 **9\. Business Transfers**  
   
