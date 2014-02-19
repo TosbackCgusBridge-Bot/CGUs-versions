@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Next Episode - Of All the Gin Joi ... Lost Girl - Next Episode - Of All the Gin Joints
+Syfy Video Lost Girl - Next Episode - La Fae Epoque Lost Girl - Next Episode - La Fae Epoque
 
 Catch the next episode of Lost Girl, Mondays at 10/9c.
 
-Lost Girl - Sneak Peek - Of All the Gin Joint ... Lost Girl - Sneak Peek - Of All the Gin Joints
+Lost Girl - Sneak Peek - La Fae Epoque Lost Girl - Sneak Peek - La Fae Epoque
 
-Catch a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
+Check out this sneak peek from episode 7 of Lost Girl, Mondays at 10/9c
 
-To the Death To the Death
+Death Note Death Note
 
-Tamsin finds herself in a battle that will put all of her moves to the test
+Ianca sacrifices herself in order to subdue Marcus
 
-One in the Hand One in the Hand
+Lost Girl - Interview with Vex &. Trick Lost Girl - Interview with Vex &. Trick
 
-Vex decides that drastic times call for drastic measures while Bo is forced to helplessly watch from her shackles
+Vex and Trick talk about season 4.
 
 *   FAQ
 *   Feedback
