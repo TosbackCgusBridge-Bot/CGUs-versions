@@ -11,7 +11,7 @@
 Legal **information**
 
 *   About us
-*   Legal information
+*   Legal Information
 *   Contact
 
 Legal **information**
