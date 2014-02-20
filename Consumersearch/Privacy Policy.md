@@ -1,4 +1,4 @@
-_Updated December 16, 2013_
+_Updated February 19, 2014_
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About" or "we") websites, including About.com, About.net, AllExperts.com, CalorieCount.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services" or "Websites"). Specifically, the policy outlines the types of information that may be gathered when you register for or use the Services, and the ways in which that information may be used.
 
@@ -62,7 +62,7 @@ Communication with Guides, Experts and other Contributors to the Services
 
 *   The Services feature content provided by people who are independent contractors and not employees of About, including content provided by contributors including those we call "Experts" or "Guides." If you contact an Expert or Guide (or other contributor) directly by email through the Services (including via an about.com or aboutguide.com email domain) or otherwise then that communication is independent of the Services, and thus not subject to this Privacy Policy. Although About contractually requires its Expert and Guide contributors to maintain information from About users in confidence, About cannot and does not guarantee that they will do so, and is not responsible for what our contributors may say, or how they may use information you have freely provided to them. Likewise, your communications with a contributor are not private or confidential, nor are such communications protected by attorney-client, doctor-patient, or any other privilege. For more information see our Ethics Policy and User Agreement.
 
-Information Collected by Third-Parties and Your Ad Choices
+Information Collected by Third-Parties and Your Ad &. Cookie Choices
 
 Third parties may collect information about you through the Services, including through use of the technologies described above. We may not have access to, nor control over, these third parties' data collection practices and we do not assume any liability related to their collection or use. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Websites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
@@ -72,6 +72,7 @@ For instance, like many other websites and applications, in addition to our own 
 *   For more information about interest-based advertising and opting out through the DAA, see: http://www.aboutads.info/choices/
 *   For more information about disabling and controlling third-party cookies in your browser, see: http://www.aboutcookies.org/Default.aspx?page=1
 *   For more information on nRelate and opting out of browser history tracking, see: http://nrelate.com/privacy-policy/
+*   For more information on PubMatic and opting out of PubMatic's cookie usage, please visit: http://pubmatic.com/opt-out
 
 In addition to the above, we have implemented on our Services certain "Google Analytics" features that support Display Advertising, including re-targeting. Visitors to our Websites may opt out of Google Analytics, customize the Google Display Network ads by using the Google Ad Preferences Manager and learn more about how Google serves ads by viewing its Customer Ads Help Center. If you do not wish to participate in Google Analytics, you may also download the Google Analytics opt-out browser add-on.
 
