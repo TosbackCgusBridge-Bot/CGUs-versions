@@ -150,7 +150,7 @@ You represent and warrant that none of the following infringe any intellectual p
 
 We may offer catalogs of stock images, descriptions and product specifications that are provided by third-parties (including eBay users). You may use catalog content solely in connection with your eBay listings.
 
-While we try to offer reliable data, we cannot promise that the catalogs will always be accurate and up-to-date, and you agree that you will not hold our catalog providers or us responsible for inaccuracies in the catalogues. The catalog may include copyrighted, trademarked or other proprietary materials. You agree not to remove any copyright, proprietary or identification markings included within the catalogs or create any derivative works bases on catalog content (other than by including them in your listings).
+While we try to offer reliable data, we cannot promise that the catalogs will always be accurate and up-to-date, and you agree that you will not hold our catalog providers or us responsible for inaccuracies in the catalogues. The catalog may include copyrighted, trademarked or other proprietary materials. You agree not to remove any copyright, proprietary or identification markings included within the catalogs or create any derivative works based on catalog content (other than by including them in your listings).
 
 Notice for Claims of Intellectual Property Violations and Copyright Infringement Pursuant to Section 512(c) of Title 17 of the United States Code
 
