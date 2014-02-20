@@ -1,4 +1,12 @@
-*   SUBSCRIBE NOW
+campaign: nyt2014\_bar1\_edu\_abtest - 236405, creative: nyt2014\_bar1\_edu\_abtest - 362782, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Subscribe Now Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
+    
+    Get unlimited access to NYTimes.com and NYTimes apps.
+    
+    Get Digital Get 50% Off 12 Weeks of Home Delivery and Free All Digital Access
+    
+    All print options include free, unlimited access to NYTimes.com and NYTimes apps.
+    
+    Get Home Delivery
 *   Help
 
 *   Home Page
@@ -253,7 +261,14 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help
+Search Help A fashion trend: Bigger showrooms and smaller offices
+
+Also in Real Estate »
+
+*   The history of a luxury Financial District rental
+*   A timelessness for seven blocks
+
+  
 
 *   © 2014 The New York Times Company
 *   Site Map
