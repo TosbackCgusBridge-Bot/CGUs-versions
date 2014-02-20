@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Next Episode - La Fae Epoque Lost Girl - Next Episode - La Fae Epoque
+Syfy Video Bloodline - First 5 Minutes - Helix Bloodline - First 5 Minutes - Helix
+
+Check out the first 5 minutes of episode 8 of Helix. Airing Friday February 21st at 10/9c
+
+Lost Girl - Next Episode - La Fae Epoque Lost Girl - Next Episode - La Fae Epoque
 
 Catch the next episode of Lost Girl, Mondays at 10/9c.
 
@@ -262,10 +266,6 @@ Check out this sneak peek from episode 7 of Lost Girl, Mondays at 10/9c
 Death Note Death Note
 
 Ianca sacrifices herself in order to subdue Marcus
-
-Lost Girl - Interview with Vex &. Trick Lost Girl - Interview with Vex &. Trick
-
-Vex and Trick talk about season 4.
 
 *   FAQ
 *   Feedback
