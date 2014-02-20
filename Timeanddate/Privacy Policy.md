@@ -45,7 +45,7 @@ Register | Log in | Customize Menu
     *   Moon Light World Map
 *   Timers
     *   Countdown to Any Date
-    *   Sochi 2014 Olympics Countdown
+    *   Sochi 2014 Olympics Schedule
     *   New Year Countdown
     *   Timer
     *   Stopwatch
