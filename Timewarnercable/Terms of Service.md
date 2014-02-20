@@ -26,8 +26,6 @@ Skip to Content
             Please change location
 *   Español
 
-FOLLOW US
-
 *   Company Overview
 *   Leadership
 *   Corporate Responsibility
