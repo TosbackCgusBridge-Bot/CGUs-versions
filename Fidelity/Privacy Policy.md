@@ -82,18 +82,33 @@ Search Fidelity.com Search Fidelity.com Find quote
 *   **Home**»
 
 *   Print
-*   Email
-Email **Send to** (Separate multiple e-mail addresses with commas) **Your E-Mail Address** Message (Optional) **Important legal information about the e-mail you will be sending.** By using this service, you agree to input your real e-mail address and only send it to people you know. It is a violation of law in some jurisdictions to falsely identify yourself in an e-mail. All information you provide will be used by Fidelity solely for the purpose of sending the e-mail on your behalf.The subject line of the e-mail you send will be "Fidelity.com: " Email Your e-mail has been sent.*   Share
-Share Clicking a link will open a new window.
-
-*   Facebook
-*   Twitter
-*   LinkedIn
-*   Google+
-
-*   Small font sizeA
-*   Larger text sizeA
-*   Largest text sizeA
+*   Email Email **Send to** (Separate multiple email addresses with commas)
+    
+    Please enter a valid email address
+    
+    **Your email address**
+    
+    Please enter a valid email address
+    
+    Message (Optional)
+    
+    **Important legal information about the email you will be sending.** By using this service, you agree to input your real email address and only send it to people you know. It is a violation of law in some jurisdictions to falsely identify yourself in an email. All information you provide will be used by Fidelity solely for the purpose of sending the email on your behalf. The subject line of the email you send will be "Fidelity.com: "
+    
+    Email
+    
+    Your email has been sent.
+    
+*   Share Share Mutual Funds and Mutual Fund Investing - Fidelity Investments
+    
+    Clicking a link will open a new window.
+    
+    *   Facebook
+    *   Twitter
+    *   LinkedIn
+    *   Google+
+*   Default text size A
+*   Larger text size A
+*   Largest text size A
 
 Privacy Policy
 
@@ -245,8 +260,9 @@ The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investme
 
   
 Effective June 2013   
-©1998-2013 FMR LLC. All Rights Reserved. Questions? 800-343-3548
+©1998-2013 FMR LLC. All Rights Reserved. Questions?
 
+*   800-343-3548 800-343-3548
 *   Find an Investor Center.
 
 2013 Privacy Notice
@@ -274,17 +290,17 @@ Effective June 2013 
 *   Retirement Planning
 *   Small Business Retirement Plans
 
-*   Careers
-*   News Media
-*   Inside Fidelity
-*   International
-
 Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP code
 
 *   Facebook
 *   Twitter
 *   YouTube
 *   Fidelity Mobile®
+
+*   Careers
+*   News Media
+*   Inside Fidelity
+*   International
 
 Copyright 1998-2014 FMR LLC. All Rights Reserved.
 
