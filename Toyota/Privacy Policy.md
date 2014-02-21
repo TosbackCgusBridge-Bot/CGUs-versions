@@ -44,8 +44,6 @@
 5.  Upcoming Vehicles
     *   2015 TRD ProOff Road Vehicles View More Info
     *   Toyota Fuel Cell Vehicle Arriving in 2015 View More Info
-    *   2014 FJ Cruiser  
-        Coming Early 2014 View More Info
     *   Concept Vehicles See Vehicles
 
 Please enable JavaScript to get the full experience.
