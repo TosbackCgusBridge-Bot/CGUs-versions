@@ -117,6 +117,31 @@ Plentyoffish Media Inc.
 Fax: (604) 648-9521  
 legal@plentyoffish.com  
   
+
+**Community**  
+eVow  
+Passion Match  
+FastLife  
+Success Stories  
+
+**Help**  
+Help Center  
+Forums  
+PlentyOfFish Blog  
+
+**Company**  
+Advertising  
+Press  
+Careers  
+Terms of Service
+
   
-Copyright 2001-2014 Plentyoffish Media Inc.  
-POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media Inc.
+Get the POF Mobile app
+
+**Countries**  
+POF Brasil  
+POF France  
+POF Spain  
+POF Germany
+
+Copyright 2001-2014 Plentyoffish Media Inc. POF, PLENTYOFFISH, PLENTY OF FISH and PLENTY OF are registered trademarks of Plentyoffish Media Inc.
