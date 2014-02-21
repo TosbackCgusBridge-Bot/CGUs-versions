@@ -94,8 +94,8 @@ The industry's first audience discovery and digital data distribution platform �
     *   Media &. Publishing
     *   Technology Services
 
-The Rise of Data Activism!  
-Download our latest whitepaper »
+Webinar: “One Size Fits No One”  
+Join us as we discuss how personalization can drive superior results. Register Today »
 
 *   Partners
     *   SYNC for Agencies
