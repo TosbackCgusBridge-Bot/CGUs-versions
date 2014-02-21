@@ -13,7 +13,7 @@ Email Support or call:
 
 Privacy Policy
 
-Last updated: December 26th, 2013
+Last updated: February 20th, 2013
 
 GameStop knows that you care about your privacy and the use of your personal information. This notice describes our Privacy Policy. This Privacy Policy applies to information we collect about you from any source – through our Websites, in our retail stores, through our Power-Up Rewards™ Program, in any contest or promotion, or any other way.  
   
@@ -65,7 +65,7 @@ We or our partners may also use Flash Cookies (also known as Local Stored Object
 
 **Tournaments:** If you register for tournaments through GameStop, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research.
 
-**Sharing with Third Parties.** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner (see information on Third-Party Relationships below). Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our Website customers to unaffiliated third parties.
+**Sharing with Third Parties.** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner (see information on Third-Party Relationships below). Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates.
 
 **Sharing with our Contractors.** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and email communications, customer lists management, data analysis, marketing services and assistance which may include content and ads presented on other websites or mobile applications, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission. A more detailed discussion of our relationship with certain third-party advertisers is set forth below under the heading "Third-Party Advertising".
 
