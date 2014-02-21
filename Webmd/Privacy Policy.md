@@ -517,8 +517,6 @@ Policies
 Important Information &. FAQs
 
 *   Community Overview
-*   Privacy FAQs
-*   Privacy Terms
 *   How We Protect Your Information
 *   Spam FAQs
 *   How to Change Your Profile Settings
