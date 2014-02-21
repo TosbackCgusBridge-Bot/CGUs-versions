@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help A fashion trend: Bigger showrooms and smaller offices
+Search Help Watch Now: The evolution of Neil Patrick Harris
 
-Also in Real Estate »
+Also in Video »
 
-*   The history of a luxury Financial District rental
-*   A timelessness for seven blocks
+*   Watch: Germany's coal addiction
+*   Watch: Understanding short-track speedskating
 
   
 
