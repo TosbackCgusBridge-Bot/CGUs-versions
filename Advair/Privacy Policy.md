@@ -5,16 +5,16 @@ GSK respects the privacy of visitors to our online sites. GSK will only collect 
 Like many websites, some GSK websites use a technology called "cookies". A cookie is a small text file that a web server gives your browser to store on your computer when you access a website. Cookies are capable of storing many types of data and may be placed on your browser by GSK or by a third party. Cookies are used for a variety of purposes on GSK websites:
 
 *   Some GSK sites set cookies that keep you from having to enter a password more than once during visits to one or more of our sites.
-
+  
 *   We also use cookies to help us analyze usage of our sites and traffic among our sites more accurately and to provide you with information of interest to you. For example, cookies are used on some GSK websites to record the total number of hits received on the sites and web pages.
-
+  
 *   Cookies also allow GSK to determine whether you came to a GSK site from another GSK site or from an advertising banner or link on a non-GSK website, so that we can, for example, measure the effectiveness of the links among our sites and the effectiveness of our advertising on non-GSK websites.
-
+  
 *   Similarly, cookies allow us to determine whether you register on or visit any of our websites, which enables us to analyze how particular users use our sites and whether registered and unregistered users of our websites use our sites differently.
-
+  
 *   Cookies also allow us to maintain information about how particular visitors use our family of sites, which enables us to better provide such visitors with information relevant to their interests. This may include using information about your use of our sites in conjunction with personally identifiable information that you have volunteered to us on one of our sites.
 
-This is not an exhaustive list of all uses of cookies on GSK痴 websites. In all cases in which cookies are used, however, neither GSK nor any third party will use the cookie to collect personally identifiable information from our site unless you voluntarily agree to enter the information. Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies.
+This is not an exhaustive list of all uses of cookies on GSK's websites. In all cases in which cookies are used, however, neither GSK nor any third party will use the cookie to collect personally identifiable information from our site unless you voluntarily agree to enter the information. Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies.
 
 In addition to cookies, GSK may collect non-personally identifiable information about how you use our websites using other analysis technologies. These analysis technologies may be provided by third parties. Information that might be collected using these technologies includes, for example, the pages you visit on our site, the paths you take within our sites and the length of time that you spend on our websites. We use this information in the aggregate in order to better understand how to improve the quality of our websites.
 
