@@ -268,7 +268,7 @@ Featured Services
 
 Other Resources
 
-*   FedEx Compatible
+*   Compatible Solutions Program
 *   Developer Resource Center
 *   FedEx Ship Manager Software
 *   FedEx Mobile
