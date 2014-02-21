@@ -2,7 +2,6 @@ Subaru Confidence In Motion
 
 *   Log Into MySubaru
 *   Customer Support
-*   Search
 
 *   Home
 *   Vehicles View All Vehicles BRZ Starting at **$25,595** 2014 BRZ
