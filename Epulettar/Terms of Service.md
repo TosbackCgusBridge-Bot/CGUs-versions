@@ -1,4 +1,4 @@
-Főoldal Felhasználási feltételek Felhasználási feltételek \[2013.04.03.\]
+Főoldal Felhasználási feltételek Felhasználási feltételek epulettar.hu epulettar.hu \[2013.04.03.\]
 
 Az epulettar.hu honlap üzemeltetője **Gulyás Attila János** (Budapest 7, Pf.:214, 1410) (a továbbiakban: **Szolgáltató**).
 
