@@ -92,7 +92,6 @@ You agree that your use of and conduct on the Service (including any forum, mess
 *   trick, defraud or mislead the Company or other users, especially in any attempt to learn sensitive account information such as passwords;
 *   make improper use of the Company’s support services or submit false reports of abuse or misconduct;
 *   engage in promoting any pyramid schemes or other multi-tiered marketing schemes or engage in promoting any websites or services that are deemed spam, malware, or contain objectionable material in the Company's sole discretion;
-    
 *   create or transmit unwanted electronic communications such as “spam,” to other users or members of Service or otherwise interfere with other users' or members' enjoyment of the Service;
 *   disseminate or transmit viruses, worms, Trojan horses, RATs, keyboard loggers, time bombs, spyware, adware, cancelbots, passive collection mechanisms (“PCMs”), or any other malicious or invasive code or program or upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including, without limitation, clear graphics interchange formats ("gifs"), 1x1 pixels, web bugs, cookies or other similar devices;
 *   copy or adapt the Service’s software including but not limited to Flash, PHP, HTML, JavaScript or other code;
@@ -106,7 +105,7 @@ You agree that your use of and conduct on the Service (including any forum, mess
 
 *   includes any offensive comments that are connected to race, national origin, gender, sexual preference or physical handicap;
 *   includes profanity or any obscene, indecent, pornographic, sexual or otherwise objectionable content or language;
-*   defames, libels, ridicules, mocks, disparagse, threatens, harass, intimidates or abuses anyone;
+*   defames, libels, ridicules, mocks, disparages, threatens, harass, intimidates or abuses anyone;
 *   promotes violence or describes how to perform a violent act;
 *   reveals any personal information about another individual, including another person's address, phone number, e-mail address, credit card number or any information that may be used to track, contact or impersonate that individual;
 *   attempts to impersonate any other party;
@@ -225,3 +224,15 @@ The Service may invite you to chat or participate in blogs, message boards, onli
 16\. Effective Date.
 
 This statement of the Terms of Service is effective February 1, 2013 and as updated by us from time to time subject to the notice language contained in the Terms.
+
+Related Privacy Policy
+
+This privacy policy covers all of the Kinja sites ("Kinja"). Please read this statement carefully before using or proceeding to access… Read…
+
+Content Guidelines
+
+Welcome to Kinja, where you own the story. Read…
+
+Related Contest Guidelines
+
+To provide fair and equal chance of winning to all Gawker Media / Kinja readers, the following are the official rules for all contests on Gawker… Read…
