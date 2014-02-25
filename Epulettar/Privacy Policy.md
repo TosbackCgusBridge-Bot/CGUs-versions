@@ -1,4 +1,4 @@
-Főoldal Az epulettar.hu adatvédelmi és adatkezelési elvei és gyakorlata Az epulettar.hu adatvédelmi és adatkezelési elvei és gyakorlata \[2012.02.09.\] I. Az epulettar.hu ezúton teszi közzé az adatvédelmi és - kezelési elveit és politikáját - melyet magára nézve kötelező erővel ismer el.
+Főoldal Az epulettar.hu adatvédelmi és adatkezelési elvei és gyakorlata Az epulettar.hu adatvédelmi és adatkezelési elvei és gyakorlata epulettar.hu epulettar.hu \[2012.02.09.\] I. Az epulettar.hu ezúton teszi közzé az adatvédelmi és - kezelési elveit és politikáját - melyet magára nézve kötelező erővel ismer el.
 
 Jelen szabályok kialakításakor figyelembe vettük a következőket:
 
