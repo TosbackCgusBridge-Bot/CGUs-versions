@@ -42,7 +42,7 @@ There may be certain orders that we are either unable to accept or must cancel. 
 
 Promotion pricing, including but not limited to, Instant Savings, Coupon Savings, Mail-In Savings, and Bundled Savings, that is available on www.officedepot.com is not available for orders placed on business.officedepot.com.
 
-For compliance with select California laws and for financial reporting purposes, all sales shipped to California customers are made by eDepot, LLC, a wholly-owned subsidiary of Office Depot, Inc., and are F.O.B. destination point.
+For compliance with select California and Texas laws and for financial reporting purposes, all sales shipped to California and Texas customers are made by eDepot, LLC, a wholly-owned subsidiary of Office Depot, Inc. California sales are F.O.B. destination point. Texas sales tax is based on the location where the order was received.
 
 USER COMMENTS, FEEDBACK, AND OTHER INFORMATION AND SUBMISSIONS PROVIDED BY YOU
 
@@ -60,7 +60,7 @@ You agree that any material, information, and ideas that you transmit to this Si
 You further agree and warrant that you shall not submit any Transmission:
 
 *   that is known by you to be false, inaccurate or misleading.
-*   that infringes any third party's intellectual property rights or rights of publicity or privacy.
+*   that infringes any third party's intellectual property rights or rights of publicity or privacy;
 *   that violates any law, statute, ordinance or regulation.
 *   that is, or may reasonably be considered to be, defamatory, libelous, hateful, racially or religiously biased or offensive, unlawfully threatening or unlawfully harassing to any individual, partnership or corporation.
 *   for which you were compensated or granted any consideration by any third party.
@@ -102,12 +102,6 @@ Office Depot shall be free to use any ideas, concepts, know-how, or techniques c
 SECURITY
 
 In using this Site you agree to the following:
-
-(a) you will not use any device, software, or other instrumentality to disrupt, damage or interfere with or attempt to disrupt, damage or interfere with the proper functioning of this Site.
-
-(b) you will not to violate or attempt to violate the security of this Site, including, without limitation, (i) logging onto an account that you are not authorized to access. (ii) attempting to interfere with service to any user, host or network, including, without limitation, via means of submitting a virus to the Site, overloading, "flooding," "spamming," "mail bombing" or "crashing". or (iii) attempt to transmit any "virus", "Trojan horse" or other software destruction or disruption device. and
-
-(c) you will not intentionally or unintentionally violate any applicable international, federal, state or local law, including but not limited to any regulations applicable to your use of this Site.
 
 (a) you will not use any device, software, or other instrumentality to disrupt, damage or interfere with or attempt to disrupt, damage or interfere with the proper functioning of this Site.
 
