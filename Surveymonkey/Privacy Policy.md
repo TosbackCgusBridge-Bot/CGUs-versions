@@ -323,5 +323,5 @@ Copyright © 1999-2014 SurveyMonkey
 *   Truste
 *   BBOnline
 *   Ramp Web
-*   Qualys
 *   Verisign
+*   Qualys
