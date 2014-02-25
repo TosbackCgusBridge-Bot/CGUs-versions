@@ -1,5 +1,5 @@
 *   Photo Sharing
-*   Login
+*   Log In
 
 Privacy Policy
 
@@ -115,6 +115,6 @@ We welcome your feedback. If you have any comments or concerns about this Privac
 *   Terms
 *   Privacy
 *   Contact
-*   Login
+*   Log In
 
 © 2014 SmugMug, Inc.
