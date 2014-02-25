@@ -1,4 +1,4 @@
- **24/7 Customer Service:** Live Chat  •  Email  •  1.877.551.7257
+ **24/7 Customer Service:**  Live Chat   •  Email  •  1.877.551.7257
 
 Our Privacy Policy &. Our Website Terms Of Use
 
@@ -85,7 +85,7 @@ Supported carriers: AT&T, Verizon Wireless, Sprint PCS, T-Mobile, Virgin Mobile,
   Q: **What are California Privacy Rights?** A: If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address specifying that you want a copy of Saks' "California Privacy Rights" notice: Saks Direct, Inc., P.O. Box 10327, Jackson, MS 39289, attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.  
   Q: **Why is my billing address required for online purchases?** A: We ask for your billing address in order to prevent against fraudulent use of credit cards and reduce the costs to Saks and its customers. We do not use billing addresses for marketing purposes.
 
- **24/7 Customer Service:** Live Chat  •  Email  •  1.877.551.7257
+ **24/7 Customer Service:**  Live Chat   •  Email  •  1.877.551.7257
 
 Our Privacy Policy &. Our Website Terms Of Use
 
