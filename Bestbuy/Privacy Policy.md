@@ -137,7 +137,7 @@ Interest-Based Advertising
 We use third-party advertising companies to display ads when you visit our websites or other sites on the Internet. These companies may collect personal and other information about your visits to this and other websites. We may also share personal information with these companies. In either case, the purpose is to provide ads about products and services that may be of interest to you.    
    
 To learn more about interest-based advertising (also called behavioral advertising), visit www.aboutads.info.  
-To opt-out of interest-based advertising, use Evidon's Global Opt-Out tool at www.evidon.com.. There is also a Profile Manager tool which allows you to manage your interest-based preferences used by ad networks, data aggregators and others.
+To opt-out of interest-based advertising, use Evidon's Global Opt-Out tool at www.evidon.com/consumers-privacy/opt-out.. There is also a Profile Manager tool which allows you to manage your interest-based preferences used by ad networks, data aggregators and others.
 
 Protecting Children's Privacy
 
@@ -177,4 +177,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated 2/15/2014
+Last Updated 2/21/2014
