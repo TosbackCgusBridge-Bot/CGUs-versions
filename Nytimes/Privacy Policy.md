@@ -1,4 +1,4 @@
-campaign: nyt2014\_bar1\_edu\_abtest - 236405, creative: nyt2014\_bar1\_edu\_abtest - 362782, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Subscribe Now Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
+*   Subscribe Now Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
     
     Get unlimited access to NYTimes.com and NYTimes apps.
     
@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help El Chapo, most-wanted drug lord, is captured in Mexico
+Search Help Chinese censors have kept their hands off "House of Cards"
 
 Also on NYTimes.com
 
-*   With some selfies, the uglier the better
-*   For Facebook, it's users first and profits later
+*   Archrival is freed as Ukraine leader flees
+*   Fake Putin diary!
 
   
 
