@@ -1,6 +1,6 @@
 ShopAtHome.com Privacy Policy
 
-Last Updated: February 3, 2014
+Last Updated: February 11, 2014
 
 This Privacy Policy applies to our sites and apps.
 
