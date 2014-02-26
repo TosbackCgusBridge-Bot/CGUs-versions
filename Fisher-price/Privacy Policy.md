@@ -78,7 +78,7 @@
 Fisher-Price Terms and Conditions (UPDATED)
 
 *   Privacy Statement (NEW) |
-*   © 2012 Mattel, Inc. All Rights Reserved.
+*   © 2014 Mattel, Inc. All Rights Reserved.
 
 *   Home for Fisher-Price Toys &. more |
 *   Use of this site signifies your acceptance of the terms and conditions of use.
