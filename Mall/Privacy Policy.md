@@ -1,4 +1,4 @@
-Soc.io��� Mall |The first Android Mall : Privacy Policy Welcome to Soc.io Mall!  
+The Android Mall that loves developers | Soc.io Mall : Privacy Policy Welcome to Soc.io Mall!  
   
 Please fill in the missing info, so you could enjoy all Soc.io Mall benefits and experience it to the full extend. Continue Later Register Login Developers | Partners
 
@@ -255,4 +255,4 @@ Help and Support
 *   Features
 
 \* Soc.io Mall can be installed on devices with Android 2.1 and up.  
-Copyright © 2011 Giga Market Ltd. Contact us: mallcontact@soc.io All rights reserved. Android is a trademark of Google Inc.| Terms and Conditions | Privacy Policy Required field!
+Copyright © 2014 Eferio Market Ltd. Contact us: mallcontact@soc.io All rights reserved. Android is a trademark of Google Inc.| Terms and Conditions | Privacy Policy Required field!
