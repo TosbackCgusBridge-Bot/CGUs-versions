@@ -230,12 +230,7 @@ Email sent!
 
 An email is on its way to you. If you don’t see it, try checking your Spam folder.
 
-Okay Mobile OkCupid
-
-*   Get our iPhone &. iPad app
-*   Get our Android app
-
-Or visit us in your mobile browser.
+Okay
 
 *   About
 *   Contact
@@ -245,6 +240,8 @@ Or visit us in your mobile browser.
 *   Legal
 *   Tests
 *   OkTrends
+*   iOS App
+*   Android App
 
 OkCupid © 2014 Free online dating
 
