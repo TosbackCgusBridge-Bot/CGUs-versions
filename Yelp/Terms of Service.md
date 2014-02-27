@@ -174,3 +174,7 @@ These terms and conditions (the **"Terms"**) govern your access to and use of Ye
     6.  If any provision of the Terms is found to be unenforceable or invalid, then only that provision shall be modified to reflect the parties' intention or eliminated to the minimum extent necessary so that the Terms shall otherwise remain in full force and effect and enforceable.
     7.  The Terms, and any rights or obligations hereunder, are not assignable, transferable or sublicensable by you except with Yelp's prior written consent, but may be assigned or transferred by us without restriction. Any attempted assignment by you shall violate these Terms and be void.
     8.  The section titles in the Terms are for convenience only and have no legal or contractual effect.
+
+Copyright © 2014 Yelp Inc., 140 New Montgomery, San Francisco, CA 94105, U.S.A.  
+
+Contact: http://www.yelp.com/contact
