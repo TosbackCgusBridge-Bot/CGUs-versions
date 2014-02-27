@@ -11,23 +11,39 @@ Die Deutsche Telekom freut sich über Ihr Interesse an unseren Produkten und üb
   
 Diese Erklärung zum Datenschutz erläutert, welche Informationen wir in der Deutschen Telekom Gruppe - während Ihres Besuchs auf unseren Internetseiten - erfassen und wie diese Informationen genutzt werden. Sie gilt jedoch nicht für Internetseiten von Unternehmen, die nicht zur Deutschen Telekom Gruppe zählen und die vielleicht einen Link zu dieser oder einer anderen Internetseite der Unternehmen der Deutschen Telekom Gruppe haben. Sollten Sie Angaben über die Erfassung und Verarbeitung von personenbezogenen Daten bei bestimmten Unternehmen oder Unternehmensteilen der Deutsche Telekom Gruppe sowie über deren jeweiliges Angebot wünschen, wenden Sie sich bitte direkt an diese Gesellschaften oder nutzen unser vorbereitetes Kontakt-Formular (Ihre persönlich abgefragten Daten werden nur zur Bearbeitung der Anfrage verwendet). Soweit Daten über den in diesen Bestimmungen beschriebenen Umfang hinaus von Unternehmen oder Unternehmensteilen der Deutschen Telekom Gruppe verarbeitet werden, so finden Sie Informationen darüber auf den speziellen Webangeboten dieser o.g. Einheiten.
 
-  
+**Datenschutzerklärung zur Nutzung des Skalierbaren Zentralen Messverfahrens (Domain/Cookie "ioam.de" und „ivwbox.de“)**
 
-**Datenschutzerklärung zur Nutzung des Skalierbaren Zentralen Messverfahrens**
+Unsere Website nutzt das „Skalierbare Zentrale Messverfahren" (SZM) der INFOnline GmbH  
+(http://www.infonline.de) für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote.
 
-Unsere Website nutzt das „Skalierbare Zentrale Messverfahren“ (SZM) der Fa. INFOnline für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote.  
-Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie mit der Kennung „ivwbox.de“ oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet.
+Dabei werden anonyme Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung  
+von Computersystemen alternativ entweder einen Cookie mit der Kennung  
+„ioam.de" , „ivwbox.de“, ein LocalStorage Objekt oder eine Signatur, die aus verschiedenen automatisch  
+übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter  
+Form verarbeitet.
 
-Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.  
-  
-Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – www.ivw.eu) sind oder an der Studie „internet facts“ der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF – www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. sowie der IVW veröffentlicht und können unter http://www.agof.de, http://www.agma-mmc.de und http://www.ivw.eu eingesehen werden.  
+Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der  
+Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch  
+zu bestimmen.
 
-Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.  
-Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu).
+Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt.  
+Sie erhalten über das System keine Werbung.
 
-Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen: http://optout.ivwbox.de
+Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung  
+von Werbeträgern e.V. (IVW – http://www.ivw.eu) sind oder an der Studie „internet facts" der Arbeitsgemeinschaft  
+Online-Forschung e.V. (AGOF - www.agof.de) teilnehmen, werden die Nutzungsstatistiken  
+monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma  
+\- www.agma-mmc.de), sowie der IVW veröffentlicht und können unter http://www.agof.de,  
+http://www.agma-mmc.de und http://www.ivw.eu eingesehen werden.  
+Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im  
+Hinblick auf eine regel- und datenschutzkonforme Nutzung.
 
-  
+Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH  
+(https://www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF  
+(http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu).  
+Sie können der Datenverarbeitung durch das SZM unter folgenden Links widersprechen:  
+http://optout.ioam.de und http://optout.ivwbox.de
+
 **Datenschutzerklärung zur Messung von Online-Nutzungsdaten durch AT Internet**  
 
 Im Rahmen der webseitigen Angebotserweiterung und -verbesserung und zur Sicherstellung einer hohen Übereinstimmung der angebotenen Inhalte mit den Interessen unserer Besucher, setzen wir die Analyseverfahren von AT Internet ein. Hierfür werden Daten von einem externen Dienstleister gespeichert. Die Server des Dienstleisters befinden sich in Mitgliedsstaaten der EU. Bei diesem Verfahren werden die Daten bereits bei Erhebung anonymisiert und in aggregierter Form ausgewertet.  
