@@ -55,8 +55,7 @@ You may contact us online for questions or concerns about our privacy practices 
 
 Privacy Office  
 Monster Worldwide, Inc.  
-5 Clock Tower Place  
-Suite 500  
-Maynard, MA 01754
+133 Boston Post Rd  
+Weston, MA 02493
 
 If you feel your question or concern is not fully addressed, you may contact TRUSTe for further assistance.
