@@ -1,6 +1,6 @@
 Datenschutzerklärung
 
-Zuletzt geändert am: 24. Juni 2013 (archivierte Versionen anzeigen)
+Zuletzt geändert am: 20. Dezember 2013 (archivierte Versionen anzeigen)
 
 Sie können unsere Dienste auf vielfältige Weise nutzen – um nach Informationen zu suchen und diese zu teilen, um mit anderen zu kommunizieren oder um neue Inhalte zu erstellen. Wenn Sie uns Informationen mitteilen, zum Beispiel durch Erstellung eines Google-Kontos, sind wir in der Lage diese Dienste noch zu verbessern – indem wir Ihnen relevantere Suchergebnisse und Werbung anzeigen, Ihnen dabei helfen, mit anderen in Kontakt zu treten oder schneller und einfacher Inhalte mit anderen zu teilen. Wir möchten, dass Sie als Nutzer unserer Dienste verstehen, wie wir Informationen nutzen und welche Möglichkeiten Sie haben, um Ihre Daten zu schützen.
 
@@ -10,7 +10,7 @@ In unserer Datenschutzerklärung wird erläutert:
 *   Wie wir diese Informationen nutzen.
 *   Welche Wahlmöglichkeiten wir anbieten, auch im Hinblick darauf, wie auf Informationen zugegriffen werden kann und wie diese aktualisiert werden können.
 
-Wir haben uns um eine möglichst einfache Darstellung bemüht, wenn Sie jedoch mit Begriffen wie Cookies, IP-Adressen, Pixel-Tags und Browsern nicht vertraut sind, sollten Sie sich zunächst über diese Schlüsselbegriffe informieren. Der Schutz Ihrer Daten ist Google wichtig und daher bitten wir Sie, unabhängig davon, ob Sie ein neuer oder langjähriger Nutzer von Google sind, sich die Zeit zu nehmen, um unsere Praktiken kennenzulernen – und wenn Sie dazu Fragen haben sollten, können Sie uns kontaktieren.
+Wir haben uns um eine möglichst einfache Darstellung bemüht, wenn Sie jedoch mit Begriffen wie Cookies, IP-Adressen, Pixel-Tags und Browsern nicht vertraut sind, sollten Sie sich zunächst über diese Schlüsselbegriffe informieren. Der Schutz Ihrer Daten ist Google wichtig und daher bitten wir Sie, unabhängig davon, ob Sie ein neuer oder langjähriger Nutzer von Google sind, sich die Zeit zu nehmen, um unsere Praktiken kennenzulernen – und wenn Sie dazu Fragen haben sollten, rufen Sie diese Seite auf.
 
 Von uns erhobene Informationen
 
@@ -73,7 +73,7 @@ Transparenz und Wahlmöglichkeit
 Jeder hat unterschiedliche Bedenken im Hinblick auf den Datenschutz. Unser Ziel ist, Klarheit darüber zu schaffen, welche Informationen wir erheben, damit Sie sinnvolle Entscheidungen über deren Verwendung treffen können. Sie können beispielsweise:
 
 *   Durch Nutzung des Google-Dashboards bestimmte Arten von Informationen, die mit Ihrem Google-Konto verknüpft sind, überprüfen und verwalten.
-*   Mithilfe der Anzeigeneinstellungen können Sie Ihre Anzeigenvorgaben für Werbung überprüfen und bearbeiten, wie beispielsweise die Kategorien, die Sie möglicherweise interessieren. Hier können Sie auch bestimmte Google-Werbedienste deaktivieren.
+*   Mithilfe der Anzeigeneinstellungen können Sie Ihre Anzeigenvorgaben für Werbung, die Ihnen in Google und im gesamten Web angezeigt wird, abrufen und bearbeiten, beispielsweise die Kategorien, die Sie möglicherweise interessieren. Hier können Sie auch bestimmte Google-Werbedienste deaktivieren.
 *   Durch Nutzung unseres Editors Ihr Google-Profil aufrufen und dessen Darstellung gegenüber bestimmten Personen anpassen.
 *   Kontrollieren, mit wem Sie Informationen teilen.
 *   Informationen aus vielen unserer Dienste exportieren.
@@ -88,7 +88,7 @@ Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
 
 Wann auch immer Sie unsere Dienste nutzen, sind wir bestrebt, Ihnen Zugriff auf Ihre personenbezogenen Daten zu gewähren. Sollten diese Daten fehlerhaft sein, bemühen wir uns darum, Ihnen Möglichkeiten zu eröffnen, diese schnell zu aktualisieren oder zu entfernen – es sei denn, wir müssen diese Daten zu berechtigten geschäftlichen oder rechtlichen Zwecken aufbewahren. Im Falle der Aktualisierung Ihrer personenbezogenen Daten verlangen wir möglicherweise einen Nachweis Ihrer Identität, bevor wir Ihre Anfrage umsetzen.
 
-Wir lehnen gegebenenfalls Anfragen ab, die unangemessen oft wiederholt werden, die einen unverhältnismäßigen technischen Aufwand erfordern (beispielsweise die Entwicklung eines neuen Systems oder die grundlegende Änderung einer bestehenden Praxis), die den Schutz personenbezogener Daten Dritter gefährden oder die nur mit extremen Schwierigkeiten praktisch umsetzbar sind (beispielsweise Anfragen zu Daten, die sich auf Sicherungskopien befinden).
+Wir lehnen gegebenenfalls Anfragen ab, die unangemessen oft wiederholt werden, die einen unverhältnismäßigen technischen Aufwand erfordern (beispielsweise die Entwicklung eines neuen Systems oder die grundlegende Änderung einer bestehenden Praxis), die den Schutz personenbezogener Daten Dritter gefährden oder die nur mit extremen Schwierigkeiten praktisch umsetzbar sind (beispielsweise Anfragen zu Daten, die sich in Sicherungssystemen befinden).
 
 Sofern wir den Zugriff auf und die Berichtigung von Daten gewähren können, erfolgt dies grundsätzlich kostenlos, außer in Fällen, in denen dies einen unverhältnismäßigen Aufwand erfordern würde. Wir sind bestrebt, unsere Dienste auf eine Art und Weise bereitzustellen, durch die die Daten vor zufälliger oder mutwilliger Zerstörung geschützt sind. Aus diesem Grund löschen wir möglicherweise verbliebene Vervielfältigungsstücke von Daten, die Sie aus unseren Diensten gelöscht haben, nicht sofort von unseren aktiven Servern und entfernen diese Daten nicht von unseren Sicherungssystemen.
 
