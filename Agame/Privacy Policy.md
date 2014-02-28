@@ -24,7 +24,7 @@ Quickly find your recently played games: we'll add the last 6 games you played t
     *   Sonic Games
     *   Awards
     *   High scores
-    *   Mobile &. tablet games
+    *   Mobile &. Tablet Games
 
 *   Home
 
@@ -152,7 +152,7 @@ If you have any additional questions or requests, you may send an email to info@
     *   Online Games
     *   Dress up games
     *   Games
-    *   Mobile Games
+    *   Mobile &. Tablet Games
     *   A10 Games
 
 Welcome to Agame.com, your zone to play free online games. Stocked each day with new free games, including action games, adventure games, board &. card games, multiplayer games, puzzle games, racing games, skill games, sports games, and more addicting games.  
