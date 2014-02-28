@@ -225,7 +225,7 @@ The Service may invite you to chat or participate in blogs, message boards, onli
 
 This statement of the Terms of Service is effective February 1, 2013 and as updated by us from time to time subject to the notice language contained in the Terms.
 
-Related Privacy Policy
+Related 3 4 Privacy Policy
 
 This privacy policy covers all of the Kinja sites ("Kinja"). Please read this statement carefully before using or proceeding to access… Read…
 
@@ -233,6 +233,6 @@ Content Guidelines
 
 Welcome to Kinja, where you own the story. Read…
 
-Related Contest Guidelines
+Contest Guidelines
 
 To provide fair and equal chance of winning to all Gawker Media / Kinja readers, the following are the official rules for all contests on Gawker… Read…
