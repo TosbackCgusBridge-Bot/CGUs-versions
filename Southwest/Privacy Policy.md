@@ -203,4 +203,6 @@ Changes in Privacy Policy
 
 This privacy policy is current as of the effective date set forth below. Southwest Airlines Co. reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by publication here. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances.
 
-Updated: December 6, 2013
+Additional Privacy Policy for Mexico
+
+Updated: February 20, 2014
