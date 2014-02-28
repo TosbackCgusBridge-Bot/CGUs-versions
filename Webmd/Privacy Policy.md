@@ -517,7 +517,7 @@ Policies
 Important Information &. FAQs
 
 *   Community Overview
-*   How We Protect Your Information
+*   Site Security
 *   Spam FAQs
 *   How to Change Your Profile Settings
 *   About Passwords
