@@ -30,8 +30,8 @@ Lands' End **Free Shipping Every Day on orders $50+**
 $5 More for UPS 2 Day
 
 *   Women
-    *   *   Shoes &. Boots
-        *   Outerwear Shop
+    *   *   Shoes &. Sandals
+        *   Swim Shop
         *   Performance Collection
         *   Canvas Lands' End
         
@@ -54,8 +54,9 @@ $5 More for UPS 2 Day
         *   Knit Tops, Polos &. Turtlenecks
         *   Shirts &. Blouses
         *   Sweaters &. Cardigans
-        *   Hoodies &. Sweatshirts
+        *   Sweatshirts
         *   Pants &. Crops
+        *   Jeans
         *   Shorts
         *   Dresses
         *   Skirts
@@ -69,8 +70,8 @@ $5 More for UPS 2 Day
         *   Totes
 *   Men
     *   *   Made to Work
-        *   Shoes &. Boots
-        *   Outerwear Shop
+        *   Shoes &. Sandals
+        *   Swim Shop
         *   Canvas Lands' End
         
         *   Featured Shops
@@ -90,8 +91,9 @@ $5 More for UPS 2 Day
         *   Dress Shirts
         *   Casual Button-down Shirts
         *   Sweaters &. Cardigans
-        *   Hoodies &. Sweatshirts
+        *   Sweatshirts &. Hoodies
         *   Pants
+        *   Jeans
         *   Shorts
         *   Swimwear
         *   Sportcoats &. Blazers
@@ -104,8 +106,7 @@ $5 More for UPS 2 Day
         *   Activewear
 *   Kids
     *   *   Swim Shop
-        *   Shoes &. Boots
-        *   Outerwear Shop
+        *   Shoes &. Sandals
         *   School Uniforms
         
         *   Featured Shops
@@ -127,9 +128,10 @@ $5 More for UPS 2 Day
         *   Swim
         *   Tops
         *   Sweaters &. Cardigans
-        *   Hoodies &. Sweatshirts
+        *   Sweatshirts &. Hoodies
         *   Dresses
         *   Pants &. Leggings
+        *   Jeans
         *   Skirts &. Skorts
         *   Shorts
         *   Blazers &. Jackets
@@ -144,8 +146,9 @@ $5 More for UPS 2 Day
         *   Shorts
         *   Tops
         *   Sweaters
-        *   Hoodies &. Sweatshirts
+        *   Sweatshirts &. Hoodies
         *   Pants
+        *   Jeans
         *   Blazers &. Jackets
         *   Outerwear
         *   Sleepwear
