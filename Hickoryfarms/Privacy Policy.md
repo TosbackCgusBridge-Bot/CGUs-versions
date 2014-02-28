@@ -16,6 +16,7 @@ Your Cart(0) Catalog Navigation
     *   Pantry Essentials
     *   Military Gifts
     *   Birthday Gifts
+    *   Shop By Occasion
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -39,6 +40,7 @@ Search Catalog Search Menu Search Stores Cart
     *   Pantry Essentials
     *   Military Gifts
     *   Birthday Gifts
+    *   Shop By Occasion
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
