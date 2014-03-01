@@ -1,10 +1,10 @@
 **Albertson’s Privacy Policy**
 
-Albertson’s respects your privacy and is committed to safeguarding your personally identifiable information or “personal information” from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our website, shop at our stores, use our products or access our services, or otherwise interact with us. It also describes how your personal information is used or disclosed and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
+Albertson’s respects your privacy and is committed to safeguarding your personally identifiable information (“PII”) or “personal information” (as defined below) from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our websites, shop at our stores, use our products or access our services, or otherwise interact with us. It also describes how your personal information is used or disclosed and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
 
 **CONSENT TO PRIVACY POLICY**
 
-By accessing our website or obtain information or services or providing personal information to us through other means, you are agreeing to the terms of this Privacy Policy.
+By accessing our website to obtain information or services or by providing solicited or unsolicited personal information to us online, at any of our retail locations, or through other means, you are consenting to our use of such information and agreeing to the terms of this Privacy Policy.
 
 **DEFINITION OF PERSONAL INFORMATION**
 
@@ -20,7 +20,7 @@ We may collect your personal information through one or more of the following me
 
 *   **Other Information.** We may obtain information about you from third parties such as demographic marketing information, address verification, or mailing list information and combine it with other personal information pertaining to you.
 
-*   **Cookies, Web Beacons and Similar Technologies.** We may use cookies, web beacons and similar technologies to manage our website and email messages, and we may collect information about your activities online at our website. We may link this information with other personal information about you. We may also allow third parties to serve ads on our websites, and if you visit their websites, they may collect information about your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices with respect to the collection, use, disclosure and protection of your personal information.
+*   **Cookies, Web Beacons and Similar Technologies.**Our website is hosted by MyWebGrocer. We or they may use cookies, web beacons, and similar technologies to manage our website and email messages and may collect and track information about your activities online at our website over time and across third-party websites or online services. We or they may link this information with other personal information about you and may use this linked information to allow third parties to serve ads on our websites or to serve our ads to you on a third party’s website. If you visit third-party websites, they may also collect information about your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of MyWebGrocer or other third parties that collect your personal information. For additional information on the privacy practices of MyWebGrocer, please click here. We also encourage you to check the privacy policies of other third parties whose information you find on our website to learn about their practices with respect to the collection, use, disclosure, and protection of your personal information.Currently, our web servers do not recognize or respond to “Do Not Track” signals. however, most Internet browsers allow you to remove or manage cookie functions and adjust your privacy and security preferences. For information on how to do this, access the “help” menu on your Internet browser.
 
 **OUR USE OF PERSONAL INFORMATION**
 
@@ -39,7 +39,7 @@ We may use your personal information for a variety of purposes, including but no
 
 **DISCLOSURE OF PERSONAL INFORMATION**
 
-We do not sell or rent your personal information to third parties in the ordinary course of our business, nor do we share it with them for their own direct marketing purposes. Notwithstanding, upon the occurrence of certain corporate transactions, your personal information may be disclosed or transferred as described under the caption “Certain Business Transfers” below. We may also share your personal information with our parent corporation or affiliated companies for their use in a manner similar to the purposes described above under the caption “Our Use of Personal Information.” Our practices with respect to the disclosure of personal information are described below.
+We do not sell or rent your personal information to third parties in the ordinary course of our business, nor do we share it with them for their own direct marketing purposes. However, upon the occurrence of certain corporate transactions, we disclose or transfer your personal information as described under the caption “Certain Business Transfers” below. We may also share your personal information with our parent corporation or affiliated companies for their use in a manner similar to the purposes described above under the caption “Our Use of Personal Information.” Our practices with respect to the disclosure of personal information are described below.
 
 *   **With Your Consent.** We may disclose your personal information to third parties with your consent. You may give your consent in several ways, such as through a written agreement that you sign or acknowledge. an online method, such as a “clickthrough” agreement or registration page. an oral statement, such as by way of an interactive voice response. or through the terms and conditions under which we provide you a particular product or service. Sometimes your consent may be implicit. For example, if you purchase products with a credit card and have them shipped to your home, you implicitly consent to the disclosure of your name and address to a third-party shipping company to complete the delivery, and of your credit card number to the credit card processor to authorize the transaction and to the bank to collect payment.
 
@@ -51,7 +51,7 @@ We do not sell or rent your personal information to third parties in the ordinar
 
 **HEALTH INFORMATION/PHARMACIES**
 
-Our pharmacies collect protected health information, which includes your medical and personal history, prescription profile for fulfillment of pharmacy orders, and other health-related information that you, your doctor or your insurance carrier provides to us. This information is most often used to process your prescriptions, provide you with health care information or services, or to contact you with questions and respond to your inquiries. This information is subject to our notice of privacy practices that more specifically describes how we may use or disclose your protected health information. You may also request a copy of our notice of privacy practices when you visit any of our pharmacies or by contacting us using one of the methods listed under the caption “How to Contact Us” that appears below.
+Our pharmacies collect protected health information, which includes your medical and personal history, prescription profile for fulfillment of pharmacy orders, and other health-related information that you, your doctor or your insurance carrier provides to us. This information is most often used to process your prescriptions, provide you with health care information or services, or to contact you with questions and respond to your inquiries. This information is subject to our Notice of Privacy Practices that more specifically describes how we may use or disclose your protected health information. You may access our Notice of Privacy Practices by clicking here or you may request a copy of our notice of privacy practices when you visit any of our pharmacies or by contacting us using one of the methods listed under the caption “How to Contact Us” that appears below.
 
 **INFORMATION PERTAINING TO CHILDREN**
 
@@ -67,7 +67,7 @@ We take various physical, electronic and procedural measures to protect your per
 
 **LINKS TO OTHER WEBSITES**
 
-Our website may contain links to websites operated by third parties. When you visit their websites, they may collect information about your visit and use it to provide advertisements to you. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. Each of these linked websites may maintain its own policies about the collection, use and protection of your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices.
+Our website may contain links to websites operated by third parties. When you visit their websites, they may collect information about your visit and use it to provide advertisements to you. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. Each of these linked websites may maintain its own policies about the collection, use and protection of your personal information. We encourage you to review the privacy policies of such third parties to learn about their practices.
 
 **CHANGES TO THIS POLICY**
 
@@ -75,7 +75,7 @@ We will modify this Privacy Policy if our practices change. We will notify you o
 
 **OPT-OUT CHOICES**
 
-We may send you email messages, direct mail offers, or other communications regarding products or services unless you specifically ask us not to do so when you  access our website or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to Albertson’s (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below. We will endeavor to process your opt-out request in a commercially reasonable time.
+We may send you email messages, direct mail offers, or other communications regarding products or services unless you specifically ask us not to do so when you access our website or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to Albertson’s (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below. We will endeavor to process your opt-out request in a commercially reasonable time.
 
 *   **Printed Materials:** To opt out of receiving printed marketing materials at your postal address, such as advertisements, flyers or postcards, contact Albertson’s at the address below.
 *   **Emails:** To opt out of receiving marketing materials via email, use the method provided in the email or contact Albertson’s at the address below.
@@ -88,6 +88,6 @@ If you have any questions, comments or concerns about this Privacy Policy or pri
 
 **Mailing Address** Attn: Albertson’s Customer Service, 250 Parkcenter Blvd., Boise, ID  83706
 
-**Effective Date: February 8, 2012**
+**Effective Date: February 26, 2014**
 
-© 2006 – 2012 Albertson’s LLC. All rights reserved.
+© 2006 – 2014 Albertson’s LLC. All rights reserved.
