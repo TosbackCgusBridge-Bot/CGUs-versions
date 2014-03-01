@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Ex-president ventures where some might not
+Search Help Assessing Oscar hosts
 
-Also in Politics »
+Also in Arts »
 
-*   Most Democrats want Clinton to run in 2016
-*   2 Hollywood stars on Capitol Hill
+*   Chelsea Handler: By the book
+*   Operas unfolding at a different Met
 
   
 
