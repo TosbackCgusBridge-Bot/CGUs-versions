@@ -164,8 +164,6 @@ We use third-party servicing technology and service providers to serve ads on ou
 
 We may also share website usage information about visitors to our website with selected third parties for the purpose of targeting our Internet banner advertisements on our website and other websites. To do this, we use web beacons and cookies provided by our third-party ad server on our Site. In connection therewith, such third parties may have access to and use non-personalized information about your online usage activity. The use of advertising cookies and web beacons sent by such third-party Web servers is standard for commercial activity in the Internet industry. Get more information about our third-party ad server, its use of cookies and how to opt-out.
 
-We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Avis.com advertising during your visits to other websites. To opt-out of Avis.com data collection for targeted advertising on other sites, click here: Opt Out Now
-
 **Web Beacons**  
 Our third party tracking utility partners employ a software technology called Web beacons, that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. We do not tie the information gathered by web beacons to our customer's personal information.
 
