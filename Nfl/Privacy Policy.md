@@ -1,7 +1,6 @@
 Search Welcome, {user} MANAGE MY ACCOUNT
 
 *   My Profile
-*   My Rewards
 *   Log Out
 *   Link Facebook
 *   Link Twitter
