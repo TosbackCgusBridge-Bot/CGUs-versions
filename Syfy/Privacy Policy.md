@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Sneak Peek - Groundhog Fae Lost Girl - Sneak Peek - Groundhog Fae
+Syfy Video Carvers - Tuesday March 4th at 10/9c. Carvers - Tuesday March 4th at 10/9c.
+
+Check out our Syfy Firsts with Carvers, airing Tuesday March 4th at 10/9c.
+
+Lost Girl - Sneak Peek - Groundhog Fae Lost Girl - Sneak Peek - Groundhog Fae
 
 Check out a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
 
@@ -262,10 +266,6 @@ Catch the next episode of Lost Girl, Mondays at 10/9c.
 Thanks Subconscious Thanks Subconscious
 
 A Fae with a striking resemblance to a sultry human doctor serenades Bo while she infiltrates Dysons memories
-
-No One Puts Kenzi in a Cage No One Puts Kenzi in a Cage
-
-Kenzi hits the Una Mens with her signature snark while Dyson pleads for her life
 
 *   FAQ
 *   Feedback
