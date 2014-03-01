@@ -106,12 +106,6 @@ Note: It may take up to 10 business days to process your request.
 Mobile Marketing: To opt-out of mobile marketing for a specific mobile number, you may:
 
 *   Reply STOP to 62297 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out.
-*   Or contact us:
-*   *   By mail at:  
-        Macy's Credit and Customer Services  
-        ATTN: Privacy Office  
-        P.O. Box 8215, Mason, OH 45040
-    *   By phone at 1-877-876-2297
 
 Note: Please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.  
   
