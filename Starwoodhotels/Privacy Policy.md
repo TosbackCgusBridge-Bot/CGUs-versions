@@ -26,7 +26,7 @@ Text Only
 *   Meeting Planners _starwoodmeetings.com_
 *   Developers _development.starwoodhotels.com_
 
-Hotel Directory New Hotels Resorts Customer Service Reservations Destination Sites Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
+Hotel Directory New Hotels Resorts Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
 
 Starwood Hotels &. Resorts Worldwide, Inc. Online Privacy Statement
 
@@ -300,8 +300,7 @@ Back to Top
     *   Reservations
     *   New Hotels
     *   SPG Resorts
-    *   Top Destinations
-    *   Best Rate Guarantee North America Atlanta HotelsBoston HotelsCaribbean HotelsChicago HotelsDallas HotelsHawaii HotelsHouston HotelsLos Angeles HotelsMexico HotelsMiami HotelsMontreal HotelsNew Orleans HotelsNew York City HotelsOrlando HotelsPhiladelphia HotelsSan Diego HotelsSan Francisco HotelsScottsdale HotelsSeattle HotelsToronto HotelsWashington DC Hotels Central &. South America Buenos Aires HotelsSantiago Hotels Europe &. Middle East Dubai HotelsLondon HotelsMadrid HotelsMunich HotelsParis HotelsRome Hotels Asia Pacific Bangkok HotelsBeijing HotelsHong Kong HotelsMumbai HotelsShanghai HotelsSydney HotelsTokyo Hotels
+    *   Best Rate Guarantee
     *   Help
 *   Offers
     *   All Offers
@@ -875,7 +874,7 @@ All rights reserved.
 *   Privacy Statement
 *   | Text Only
 
-Close X Get a Better View
+AdChoices Close X Get a Better View
 
 Upgrade your browser from Internet Explorer 6 or Firefox 3.0, 3.5 or 4.0 to the latest version for the best possible StarwoodHotels.com experience.
 
