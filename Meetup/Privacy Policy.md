@@ -33,7 +33,7 @@ Protecting your privacy is a serious matter and doing so is very important to us
 
 5\. Reviewing, Updating, Deleting and Deactivating Personal Information
 
-*   5.1. After registration for our Platform and for specific topic groups, Meetup Groups or Meetup Everywheres, we provide a way to update your Personally Identifiable Information. Upon your request, we will deactivate your account and remove your Personally Identifiable Information from our active databases. To make this request, email \[email protected\]. Upon our receipt of your request, we will deactivate your account and remove your Personally Identifiable Information as soon as reasonably possible in accordance with our deactivation policy and applicable law. Nonetheless, we will retain in our files information you may have requested us to remove if, in our discretion, retention of the information is necessary to resolve disputes, troubleshoot problems or to enforce the Terms of Service Agreement. Furthermore, your information is never completely removed from our databases due to technical and legal constraints (for example, we will not remove your information from our back up storage).
+*   5.1. After registration for our Platform and for specific topic groups, Meetup Groups or Meetup Everywheres, we provide a way to update your Personally Identifiable Information. Upon your request, we will deactivate your account and remove your Personally Identifiable Information from our active databases. To make this request, email privacy@meetup.com. Upon our receipt of your request, we will deactivate your account and remove your Personally Identifiable Information as soon as reasonably possible in accordance with our deactivation policy and applicable law. Nonetheless, we will retain in our files information you may have requested us to remove if, in our discretion, retention of the information is necessary to resolve disputes, troubleshoot problems or to enforce the Terms of Service Agreement. Furthermore, your information is never completely removed from our databases due to technical and legal constraints (for example, we will not remove your information from our back up storage).
 
 6\. Notification of Changes
 
@@ -55,7 +55,7 @@ Protecting your privacy is a serious matter and doing so is very important to us
     632 Broadway, 10th Floor  
     New York, NY 10012
     
-    Email: \[email protected\]
+    Email: privacy@meetup.com
     
 
 This Privacy Policy is governed by the terms of the Meetup Terms of Service Agreement, including but not limited to Section 17 of such Terms of Service Agreement.
