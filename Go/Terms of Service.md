@@ -1,3 +1,5 @@
+**Please read our new Terms of Use, which are effective March 31, 2014.**
+
 **Updated: 5/6/08**
 
 1.  **INTRODUCTION**
