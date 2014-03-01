@@ -116,9 +116,6 @@ Note: It may take up to 10 business days to process your request.
 **Mobile Marketing**: To opt-out of mobile marketing for a specific mobile number, you may:
 
 *   Reply STOP to 25666 on your mobile phone/wireless device. You will receive a confimation text that you have been opted out.
-*   Or contact us:
-*   *   By phone at 1-888-922-7026
-    *   By mail at Bloomingdale's Customer Service, Attn: Privacy Office, P.O. Box 8215, Mason, OH 45040
 
 Note: Please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.
 
