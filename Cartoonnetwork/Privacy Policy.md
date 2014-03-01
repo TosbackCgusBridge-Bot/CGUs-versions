@@ -50,6 +50,8 @@ Visitors, parents or guardians with questions or comments regarding this Privacy
 > Attn: Privacy Manager - Cartoon Network  
 > 1050 Techwood Drive - 1000 Bldg - Third Floor  
 > Atlanta, GA 30318  
+> Email: Privacy.CartoonNetwork@turner.com  
+> Phone: 4O4-878-O694  
 
 If a Site visitor, parent or guardian no longer wishes to have information collected by an application installed on their mobile device, they may uninstall the application by using the standard uninstall processes available on the mobile device or via the mobile application marketplace or network.
 
