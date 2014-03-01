@@ -1,4 +1,4 @@
-Mobile World Congress Mozilla Menu
+Mozilla Menu
 
 *   Mission
 *   About
