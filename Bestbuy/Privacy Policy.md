@@ -1,3 +1,5 @@
+**NOTICE:** On February 28, 2014, Best Buy Stores, L.P. sold its AudioVisions business, including customer information, to Inspiria, Inc. dba AudioVisions. For more information about Inspiria, Inc. please see Inspiria's website at http://www.audiovisions.com/Home/index.aspx or contact their customer service at 949-206-0606.
+
 **Change:** On June 26, 2013, Best Buy Co., Inc. sold its 50% interest in its Best Buy Europe venture to Carphone Warehouse Group plc and no longer owns any European business that transfers personal data of Europeans from Europe to the U.S. As a result, Best Buy Co., Inc. withdrew from the EU-US Safe Harbor Framework on February 15, 2014 and removed reference to EU-US Safe Harbor in its Privacy Policy. This does not change how Best Buy protects the privacy of our customer's personal information.
 
   
@@ -177,4 +179,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645
 
-Last Updated 2/21/2014
+Last Updated 2/28/2014
