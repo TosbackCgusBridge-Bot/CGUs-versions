@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Travel Diary | Road-tripping in the name of fashion
+Search Help 36 hours in Kyoto, Japan
 
-Also on NYTimes.com
+Also in Travel »
 
-*   Alice Herz-Sommer, who found peace in Chopin amid Holocaust, dies at 110
-*   SeaWorld questions ethics of "Blackfish" investigator
+*   Skiing in my own backyard
+*   It remembers, you fold: Packing-list apps
 
   
 
