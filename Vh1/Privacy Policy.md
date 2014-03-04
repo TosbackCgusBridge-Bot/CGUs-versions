@@ -1,7 +1,6 @@
 *   Home
 *   Shows
     *   Full Episodes
-    *   Current Shows
     *   All Shows
     *   Music From The Shows
     *   Shows Blog
