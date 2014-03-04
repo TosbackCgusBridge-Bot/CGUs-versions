@@ -123,3 +123,5 @@ Samsung Electronics Co., Ltd.
  129 Samsung-Ro, Maetan-3dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, Korea  
   
   Email: through the “Contact Us” section of http://help.content.samsung.com.
+
+Updated 2/10/2014
