@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help 36 hours in Kyoto, Japan
+Search Help Bin Laden relative's trial set to begin
 
-Also in Travel »
+Also on NYTimes.com
 
-*   Skiing in my own backyard
-*   It remembers, you fold: Packing-list apps
+*   In New York City, making strip clubs go dry, then go away
+*   Boycott of St. Patrick's Day parade puts mayor in middle
 
   
 
