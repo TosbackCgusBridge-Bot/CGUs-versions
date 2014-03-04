@@ -17,7 +17,7 @@ Company Info Pages
 
   
 Contact Virtual World Computing  
-5383 Hollister Avenue, Suite 150  
+5383 Hollister Avenue, Suite 140  
 Santa Barbara, CA 93111  
 Office: 805.964.7200  
 Privacy Policy
