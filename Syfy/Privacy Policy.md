@@ -255,17 +255,17 @@ Syfy Video Carvers - Tuesday March 4th at 10/9c. Carvers - Tuesday March 4th at 
 
 Check out our Syfy Firsts with Carvers, airing Tuesday March 4th at 10/9c.
 
-Lost Girl - Sneak Peek - Groundhog Fae Lost Girl - Sneak Peek - Groundhog Fae
+Lost Girl - Sneak Peek - Destiny's Child Lost Girl - Sneak Peek - Destiny's Child
 
-Check out a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
+Catch a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
 
-Lost Girl - Next Episode - Groundhog Fae Lost Girl - Next Episode - Groundhog Fae
+Lost Girl - Next Episode - Destiny's Child Lost Girl - Next Episode - Destiny's Child
 
 Catch the next episode of Lost Girl, Mondays at 10/9c.
 
-Thanks Subconscious Thanks Subconscious
+Workin' At the Car Wash Workin' At the Car Wash
 
-A Fae with a striking resemblance to a sultry human doctor serenades Bo while she infiltrates Dysons memories
+Lauren and Dysons motives align when Bo gives her Fae-mobile a sudzy scrub down.
 
 *   FAQ
 *   Feedback
