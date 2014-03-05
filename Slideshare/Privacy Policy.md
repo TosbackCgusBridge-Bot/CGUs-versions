@@ -148,7 +148,6 @@ _Effective September 9, 2013_. Please click here to read our summary of the chan
 
 *   **Pro &. more**
 *   Go PRO
-*   Enterprise Sales
 *   PRO Features
 
 *   **Developers &. API**
