@@ -14,9 +14,14 @@ Campus Main Menu
     *   All Courses
     *   Online Courses
     *   Campus Courses
+    *   Online Tutorials
 *   Online Colleges
 *   Local Colleges
-*   Education Resources
+*   Student Resources
+    *   Texbooks &. Supplies
+    *   Paying for College
+    *   Military Students
+    *   Careers
 
 Help Section
 
@@ -27,6 +32,8 @@ Help Section
 *   Privacy Policy
 *   Terms of Use
 *   Site Map
+
+_Advertisement_
 
   
   
