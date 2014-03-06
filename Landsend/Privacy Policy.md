@@ -1,4 +1,4 @@
-skip to contentskip to global header navigationskip to search
+skip to content skip to navigation skip to search
 
 Cookies are not enabled on your browser
 
@@ -8,156 +8,140 @@ JavaScript is not enabled on your browser
 
 You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.)
 
-*   Help Center
-    *   Contact Us
-    *   Order Tracking
-    *   FAQ
-    *   Live Chat
-*   Store Locator
-*   Gift Cards
-*   Business Outfitters
-*   My Bag0
-*   My Account
-    *   Sign In
-    *   Create an Account
-    *   Manage Account
-    *   Edit Order
-    *   Order History
-    *   Log Out
-*   Ship To
-
-Lands' End **Free Shipping Every Day on orders $50+**  
-$5 More for UPS 2 Day
-
 *   Women
-    *   *   Shoes &. Sandals
-        *   Swim Shop
-        *   Performance Collection
-        *   Canvas Lands' End
-        
+    *   *   Back to Main Menu Women
         *   Featured Shops
-        *   New Arrivals
-        *   Starfish Collection
-        *   Cardigan Shop
-        *   Sport Knit Collection
-        *   Sale
-        
+            *   Back to Women Featured Shops
+            *   Shoes &. Sandals
+            *   Swim Shop
+            *   Canvas Lands' End
+            *   New Arrivals
+            *   Starfish Collection
+            *   Cardigan Shop
+            *   Sport Knit Collection
+            *   Sale
         *   Shop By Size Range
-        *   Regular
-        *   Plus
-        *   Petite
-        *   Tall
-        *   Petite Plus
-        *   Tall Plus
+            *   Back to Women Shop By Size Range
+            *   Regular
+            *   Plus
+            *   Petite
+            *   Tall
+            *   Petite Plus
+            *   Tall Plus
     *   *   Categories
-        *   Swimsuits
-        *   Knit Tops, Polos &. Turtlenecks
-        *   Shirts &. Blouses
-        *   Sweaters &. Cardigans
-        *   Sweatshirts
-        *   Pants &. Crops
-        *   Jeans
-        *   Shorts
-        *   Dresses
-        *   Skirts
-        *   Blazers &. Jackets
-        *   Activewear
-        *   Outerwear
-        *   Sleepwear
-        *   Shoes
-        *   Socks, Tights &. Underwear
-        *   Accessories &. Handbags
-        *   Totes
+            *   Swimsuits
+            *   Knit Tops, Polos &. Turtlenecks
+            *   Shirts &. Blouses
+            *   Sweaters &. Cardigans
+            *   Sweatshirts
+            *   Pants &. Crops
+            *   Jeans
+            *   Shorts
+            *   Dresses
+            *   Skirts
+            *   Blazers &. Jackets
+            *   Activewear
+            *   Outerwear
+            *   Sleepwear
+            *   Shoes
+            *   Socks, Tights &. Underwear
+            *   Accessories &. Handbags
+            *   Totes
 *   Men
-    *   *   Made to Work
-        *   Shoes &. Sandals
-        *   Swim Shop
-        *   Canvas Lands' End
-        
+    *   *   Back to Main Menu Men
         *   Featured Shops
-        *   New Arrivals
-        *   No-Iron Collection
-        *   At the Office
-        *   Sale
-        
+            *   Back to Men Featured Shops
+            *   Made to Work
+            *   Shoes
+            *   Swim Shop
+            *   Canvas Lands' End
+            *   New Arrivals
+            *   No-Iron Collection
+            *   At the Office
+            *   Sale
         *   Shop By Size Range
-        *   Regular
-        *   Tall
-        *   Short
-        *   Big
-        *   Big &. Tall
+            *   Back to Men Shop By Size Range
+            *   Regular
+            *   Tall
+            *   Short
+            *   Big
+            *   Big &. Tall
     *   *   Categories
-        *   Polos, T-shirts &. Turtlenecks
-        *   Dress Shirts
-        *   Casual Button-down Shirts
-        *   Sweaters &. Cardigans
-        *   Sweatshirts &. Hoodies
-        *   Pants
-        *   Jeans
-        *   Shorts
-        *   Swimwear
-        *   Sportcoats &. Blazers
-        *   Sleepwear
-        *   Outerwear
-        *   Shoes
-        *   Ties
-        *   Belts &. Accessories
-        *   Socks &. Underwear
-        *   Activewear
+            *   Polos, T-shirts &. Turtlenecks
+            *   Dress Shirts
+            *   Casual Button-down Shirts
+            *   Sweaters &. Cardigans
+            *   Sweatshirts &. Hoodies
+            *   Pants
+            *   Jeans
+            *   Shorts
+            *   Swimwear
+            *   Sportcoats &. Blazers
+            *   Sleepwear
+            *   Outerwear
+            *   Shoes
+            *   Ties
+            *   Belts &. Accessories
+            *   Socks &. Underwear
+            *   Activewear
 *   Kids
-    *   *   Swim Shop
-        *   Shoes &. Sandals
-        *   School Uniforms
-        
+    *   *   Back to Main Menu Kids
         *   Featured Shops
-        *   New Arrivals
-        *   Boys Iron Knee
-        *   Girls Knit Kit
-        *   Go To School
-        *   Sale
-        
+            *   Back to Kids Featured Shops
+            *   Girls Shoes &. Sandals
+            *   Boys Shoes &. Sandals
+            *   School Uniforms
+            *   New Arrivals
+            *   Boys Iron Knee
+            *   Girls Knit Kit
+            *   Go To School
+            *   Sale
         *   Shop By Age Range
-        *   *   Toddler Girl (2T-4T)
-            *   Little Girl (size 4-7)
-            *   Big Girl (size 7-20)
-            
-            *   Toddler Boy (2T-4T)
-            *   Little Boy (size 4-7)
-            *   Big Boy (size 7-20)
+            *   Back to Kids Shop By Age Range
+            *   *   Toddler Girl (2T-4T)
+                *   Little Girl (size 4-7)
+                *   Big Girl (size 7-20)
+                
+                *   Toddler Boy (2T-4T)
+                *   Little Boy (size 4-7)
+                *   Big Boy (size 7-20)
     *   *   Girls
-        *   Swim
-        *   Tops
-        *   Sweaters &. Cardigans
-        *   Sweatshirts &. Hoodies
-        *   Dresses
-        *   Pants &. Leggings
-        *   Jeans
-        *   Skirts &. Skorts
-        *   Shorts
-        *   Blazers &. Jackets
-        *   Outerwear
-        *   Sleepwear
-        *   Backpacks &. Lunch Boxes
-        *   Tights, Socks &. Underwear
-        *   Accessories
-        *   Shoes
+            *   Back to Kids Girls
+            *   Swim
+            *   Tops
+            *   Sweaters &. Cardigans
+            *   Sweatshirts &. Hoodies
+            *   Dresses
+            *   Pants &. Leggings
+            *   Jeans
+            *   Skirts &. Skorts
+            *   Shorts
+            *   Blazers &. Jackets
+            *   Outerwear
+            *   Sleepwear
+            *   Backpacks &. Lunch Boxes
+            *   Tights, Socks &. Underwear
+            *   Accessories
+            *   Shoes
     *   *   Boys
-        *   Swim
-        *   Shorts
-        *   Tops
-        *   Sweaters
-        *   Sweatshirts &. Hoodies
-        *   Pants
-        *   Jeans
-        *   Blazers &. Jackets
-        *   Outerwear
-        *   Sleepwear
-        *   Backpacks &. Lunch Boxes
-        *   Ties &. Accessories
-        *   Socks &. Underwear
-        *   Shoes
+            *   Back to Kids Boys
+            *   Swim
+            *   Shorts
+            *   Tops
+            *   Sweaters
+            *   Sweatshirts &. Hoodies
+            *   Pants
+            *   Jeans
+            *   Blazers &. Jackets
+            *   Outerwear
+            *   Sleepwear
+            *   Backpacks &. Lunch Boxes
+            *   Ties &. Accessories
+            *   Socks &. Underwear
+            *   Shoes
 *   Swim
-    *   *   Shop Swimwear
+    *   *   Back to Main Menu Swim
+        *   Shop Swim
         *   Women
         *   Men
         *   Girls
@@ -168,69 +152,75 @@ $5 More for UPS 2 Day
         *   Beach Towels
         *   Swim Tees
 *   Home
-    *   *   Totes
-        *   Beach Towels
-        
+    *   *   Back to Main Menu Home
         *   Featured Shops
-        *   New Arrivals
-        *   Hotel Bed &. Bath
-        *   Supima Bedding &. Bath
-        *   Sale
+            *   Back to Home Featured Shops
+            *   Totes
+            *   Beach Towels
+            *   New Arrivals
+            *   Hotel Bed &. Bath
+            *   Supima Bedding &. Bath
+            *   Sale
     *   *   Categories
-        *   Bedding
-        *   Bath
-        *   Throws &. Home Décor
-        *   Beach Towels
-        *   Totes
-        *   Storage &. Organization
-        *   Seasonal Décor &. Gifts
-        *   Kitchen &. Dining
-        *   Backpacks, Luggage &. Bags
-        *   Kids Home
-        *   Dog Shop
+            *   Bedding
+            *   Bath
+            *   Throws &. Home Décor
+            *   Beach Towels
+            *   Totes
+            *   Storage &. Organization
+            *   Seasonal Décor &. Gifts
+            *   Kitchen &. Dining
+            *   Backpacks, Luggage &. Bags
+            *   Kids Home
+            *   Dog Shop
 *   Uniforms
-    *   *   Find your School
-        
+    *   *   Back to Main Menu Uniforms
+        *   Find your School
         *   Featured Shops
-        *   Polos that Perform
-        *   Iron Knee Pants
-        *   Phys Ed Locker Room
-        *   After the Bell
-        *   Sale
-        
+            *   Back to Uniforms Featured Shops
+            *   Find your School
+            *   Polos that Perform
+            *   Iron Knee Pants
+            *   Phys Ed Locker Room
+            *   After the Bell
+            *   Sale
         *   Shop By Age Range
-        *   Toddler
-        *   Junior
-        *   Little Kid
-        *   Young Men
-        *   Big Kid
-        *   Adult
+            *   Back to Uniforms Shop By Age Range
+            *   Toddler
+            *   Junior
+            *   Little Kid
+            *   Young Men
+            *   Big Kid
+            *   Adult
     *   *   Girls &. Women
-        *   Shirts
-        *   Sweaters
-        *   Pants
-        *   Shorts
-        *   Dresses &. Jumpers
-        *   Skirts &. Skorts
-        *   Blazers
-        *   Activewear
-        *   Outerwear
-        *   Shoes &. Boots
-        *   Accessories
-        *   Swim
+            *   Back to Uniforms Girls &. Women
+            *   Shirts
+            *   Sweaters
+            *   Pants
+            *   Shorts
+            *   Dresses &. Jumpers
+            *   Skirts &. Skorts
+            *   Blazers
+            *   Activewear
+            *   Outerwear
+            *   Shoes &. Boots
+            *   Accessories
+            *   Swim
     *   *   Boys &. Men
-        *   Shirts
-        *   Sweaters
-        *   Pants
-        *   Shorts
-        *   Blazers
-        *   Activewear
-        *   Outerwear
-        *   Shoes &. Boots
-        *   Accessories
-        *   Swim
+            *   Back to Uniforms Boys &. Men
+            *   Shirts
+            *   Sweaters
+            *   Pants
+            *   Shorts
+            *   Blazers
+            *   Activewear
+            *   Outerwear
+            *   Shoes &. Boots
+            *   Accessories
+            *   Swim
 *   Sale
-    *   *   Shop Sale
+    *   *   Back to Main Menu Sale
+        *   Shop Sale
         *   Women
         *   Men
         *   Girls
@@ -241,8 +231,46 @@ $5 More for UPS 2 Day
         *   On The Counter
         *   Not Quite Perfect
         *   Clearance - Last Chance
+*   My Account
+    *   Back to Main Menu My Account
+    *   Sign In
+    *   Create an Account
+    *   Manage Account
+    *   Edit Order
+    *   Order History
+    *   Sign Out
+*   Help Center
+    *   Back to Main Menu Help Center
+    *   Contact Us
+    *   Order Tracking
+    *   FAQ
+    *   Live Chat
+*   Store Locator
+*   Gift Cards
+*   Business Outfitters
+*   Ship To
 
-Search
+My Bag0
+
+*   Help Center
+    *   Contact Us
+    *   Order Tracking
+    *   FAQ
+    *   Live Chat
+*   Store Locator
+*   Gift Cards
+*   Business Outfitters
+*   My Account
+    *   Sign In
+    *   Create an Account
+    *   Manage Account
+    *   Edit Order
+    *   Order History
+    *   Sign Out
+*   Ship To
+
+Lands' End **Free Shipping Every Day on orders $50+**  
+$5 More for UPS 2 Day Customer Service Menu
 
 *   Customer Service
     *   Frequently Asked Questions
@@ -289,7 +317,7 @@ We ask you for certain kinds of personal information in order to provide you wit
 
 In addition, our site utilizes 'cookies.' Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site.
 
-Lands' End shares its customer information with its affiliated companies, including SearsÂ® and KmartÂ®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to websiteinquiry@landsend.com
+Lands' End shares its customer information with its affiliated companies, including Sears® and Kmart®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to websiteinquiry@landsend.com
 
 In addition, Lands' End cooperates in advertising member networks with other consumer entities where we may communicate your personal information so that select members may inform you about products or services that might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to websiteinquiry@landsend.com.
 
@@ -325,51 +353,51 @@ Children's Privacy at Lands' End
 
 Lands' End does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our website with the involvement of a parent or guardian. Moreover, Lands' End is concerned about the safety of children. Occasionally, Lands' End may conduct promotions or contests that allow children under the age of 13 to participate. In those instances, we will use reasonable efforts to obtain verifiable parental consent before collecting any personally identifiable information from these participants. Rest assured that Lands' End will never knowingly request personally identifiable information from anyone under the age of 13 without making reasonable efforts to obtain verifiable parental consent. In addition, Lands' End will not condition a child's participation in an event on the provision of more personal information than is reasonably necessary to participate in the activity, and Lands' End will not sell that information and will only use that information in the manner that we disclose in the promotion or contest. In those instances where Lands' End collects personal information from a child, that child's parents or guardians will have the ability to review the information provided by their child by sending an email message to myprivacy@landsend.com or to the email address listed on the landsend.com web page that collected their child's information. Parents or guardians may also request that Lands' End not make contact with their child. If such a parental request is received, Lands' End will make all reasonable efforts to make sure that no communications are sent to the child.
 
-Get Exclusive Offers + News Sign Up
+Get Exclusive Offers + News Sign Up facebook twitter pinterest twitter pinterest sywr sywr Le Blog
 
-*   Customer Service 
-*   Guaranteed. Period.® 
-*   Contact Us 
-*   FAQs 
+*   Customer Service
+*   Guaranteed. Period.®
+*   Contact Us
+*   FAQs
 
 **Get Live Help**  
 A helpful Customer Care Specialist is just a click or call away.  
 Call 1.800.963.4816 Text Chat Now
 
 *   Company
-*   About Us
-*   The Lands' End Blog
-*   Careers
-*   As Seen In
-*   Sustainability
-*   Newsroom
-*   Affiliate Program
+    *   About Us
+    *   The Lands' End Blog
+    *   Careers
+    *   As Seen In
+    *   Sustainability
+    *   Newsroom
+    *   Affiliate Program
 
 *   Services
-*   Gift Cards
-*   Monogramming &. Embroidery
-*   Shop Your Way Rewards
-*   Shop Catalogs
-*   Catalog Requests
-*   Email Subscription
-*   Glossary
-*   Site Map
+    *   Gift Cards
+    *   Monogramming &. Embroidery
+    *   Shop Your Way Rewards
+    *   Shop Catalogs
+    *   Catalog Requests
+    *   Email Subscription
+    *   Glossary
+    *   Site Map
 
 *   Specialty Shops
-*   LE Business Outfitters
-*   Gifts
-*   Women's Plus Sizes
-*   Women's Petite Sizes
-*   School Uniforms
-*   Swimwear
-*   International Websites
+    *   LE Business Outfitters
+    *   Gifts
+    *   Women's Plus Sizes
+    *   Women's Petite Sizes
+    *   School Uniforms
+    *   Swimwear
+    *   International Websites
 
 *   Policies
-*   Privacy
-*   Security
-*   Shipping
-*   Returns
-*   California Transparency Act
+    *   Privacy
+    *   Security
+    *   Shipping
+    *   Returns
+    *   California Transparency Act
 
 Sustainability
 
@@ -387,4 +415,4 @@ Learn More Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-Join Now ® Copyright 2014 Lands' End
+Join Now ® Copyright 2013 Lands' End
