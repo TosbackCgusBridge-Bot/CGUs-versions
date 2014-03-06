@@ -11,10 +11,9 @@
     *   Celebrity Photos
     *   Greatest Lists
     *   Best Week Ever
-    *   Gossip Table
+    *   The Gossip Table
 *   Music
     *   Gossip + News
-    *   VH1 Super Bowl Blitz
     *   Top 20 Countdown
     *   Greatest Lists
     *   Music Videos
