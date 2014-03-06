@@ -251,11 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Carvers - Tuesday March 4th at 10/9c. Carvers - Tuesday March 4th at 10/9c.
-
-Check out our Syfy Firsts with Carvers, airing Tuesday March 4th at 10/9c.
-
-Lost Girl - Sneak Peek - Destiny's Child Lost Girl - Sneak Peek - Destiny's Child
+Syfy Video Lost Girl - Sneak Peek - Destiny's Child Lost Girl - Sneak Peek - Destiny's Child
 
 Catch a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
 
@@ -266,6 +262,10 @@ Catch the next episode of Lost Girl, Mondays at 10/9c.
 Workin' At the Car Wash Workin' At the Car Wash
 
 Lauren and Dysons motives align when Bo gives her Fae-mobile a sudzy scrub down.
+
+Groundhog's Party Groundhog's Party
+
+Bo and Tamsin give in to a night of debauchery played on loop!
 
 *   FAQ
 *   Feedback
