@@ -12,6 +12,7 @@ Search HowStuffWorks and the web
 *   Auto
 *   Culture
 *   Entertainment
+*   Health
 *   Home &. Garden
 *   Money
 *   Science
