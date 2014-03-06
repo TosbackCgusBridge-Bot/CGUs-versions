@@ -43,7 +43,6 @@ Skip to Main Content Toggle search
     *   Interns
     *   Fellows
     *   Digital
-    *   Blog
     *   Search Jobs
 
 Privacy Policy May 07, 2013 9:51 AM
@@ -291,6 +290,7 @@ Support The Programs You Love
 
 ©2014 NPR
 
+*   Help
 *   Contact
 *   Terms of Use
 *   Privacy
