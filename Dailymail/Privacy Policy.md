@@ -243,4 +243,4 @@ We may charge a small administration fee (not exceeding the maximum permitted by
 
   
 
-Sorry we are unable to accept comments for legal reasons.
+Sorry we are not currently accepting comments on this article.
