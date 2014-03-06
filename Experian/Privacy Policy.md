@@ -8,14 +8,6 @@
 *   United States
 *   Global Sites
 
-*   Credit Report
-*   Credit Score
-*   Credit Monitoring
-*   3 Bureau Credit Report and Score
-*   Identity Theft Protection
-*   Disputes
-*   Member Log In
-
 Online Personal Credit Reports En Español
 
 **Updated: July 22, 2007**
