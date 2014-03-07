@@ -14,6 +14,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   Shoes &. Sandals
             *   Swim Shop
+            *   Performance Collection
             *   Canvas Lands' End
             *   New Arrivals
             *   Starfish Collection
@@ -88,8 +89,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
-            *   Girls Shoes &. Sandals
-            *   Boys Shoes &. Sandals
+            *   Swim Shop
+            *   Shoes &. Sandals
             *   School Uniforms
             *   New Arrivals
             *   Boys Iron Knee
@@ -405,7 +406,7 @@ We're a proud partner of the National Forest Foundation.
 
 Learn More Shop Our E-Catalog
 
-Enviromentally friendly, easy to shop and always at your fingertips.
+Environmentally friendly, easy to shop and always at your fingertips.
 
 Browse Catalog Connect With Us
 
@@ -415,4 +416,4 @@ Learn More Shop Your Way Rewards
 
 Make every purchase rewarding. Join today. Earn today. It's free.
 
-Join Now ® Copyright 2013 Lands' End
+Join Now ® Copyright 2014 Lands' End
