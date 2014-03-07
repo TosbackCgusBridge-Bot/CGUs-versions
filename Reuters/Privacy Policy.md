@@ -56,7 +56,7 @@ PRACTICE AREAS
 *   Intellectual Property
 *   Mergers &. Acquisitions
 *   Products Liability
-*   Securities
+*   Securities Enforcement and Litigation
 
   
 
