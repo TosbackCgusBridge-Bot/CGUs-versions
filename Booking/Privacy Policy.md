@@ -111,7 +111,7 @@ Our website uses the following types of cookies:
 
 How long do Booking.com cookies stay active?
 
-The cookies we use have varying lifespans. The maximum lifespan we set on some is five years from your last visit to our website. You can erase all cookies from your browser any time you want. To remove Booking.com cookies from your browser, go to the following link (please note that when you click on this link, all Booking.com cookies will be removed immediately) { purge\_cookies}.
+The cookies we use have varying lifespans. The maximum lifespan we set on some is five years from your last visit to our website. You can erase all cookies from your browser any time you want. To remove Booking.com cookies from your browser, go to the following link (please note that when you click on this link, all Booking.com cookies will be removed immediately) .
 
   
 
