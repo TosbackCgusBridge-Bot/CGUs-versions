@@ -3,10 +3,10 @@ Fitbit Log in • Get Started
 *   Products
     
     *   Devices
-    *   **Force™** Wireless Activity + Sleep Wristband
     *   **Flex™** Wireless Activity + Sleep Wristband
     *   **Zip™** Wireless Activity Tracker
     *   **One™** Wireless Activity + Sleep Tracker
+    *   **Force™** Wireless Activity + Sleep Wristband
     *   **Aria™** Wi-Fi Smart Scale
     *   Premium
     
@@ -183,14 +183,14 @@ Fitbit is dedicated to helping people lead healthier, more active lives.
 
 United States (change) Products
 
-*   Force™  
-    Wireless Activity + Sleep Wristband
 *   Flex™  
     Wireless Activity + Sleep Wristband
 *   Zip™  
     Wireless Activity Tracker
 *   One™  
     Wireless Activity + Sleep Tracker
+*   Force™  
+    Wireless Activity + Sleep Wristband
 *   Aria™  
     Wi-Fi Smart Scale
 
