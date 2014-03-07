@@ -83,7 +83,7 @@ If you are under the age of 13, you may not submit any User Content to us.  If 
 *   _Suspension or Termination_.  We may suspend or terminate your access to Subscription Services at any time without notice to you.  If we do so, you will not be responsible for fees associated with the Subscription Services after the termination becomes effective, but you will not have any other remedies against us, and we will not issue any refunds.  If you have breached or violated any obligation under these Terms, you will not be entitled to any remedy.  
       
     
-*   _Cancellation_.  To cancel your subscription to Subscription Services, you must follow the procedures described on the applicable provider’s website.  If we do not list cancellation procedures for a particular Subscription Service, you must contact us at plus@slate.com.  We do not refund or prorate Subscription Services, or any other purchases made through the Services, for any reason.  Requests to terminate subscriptions will be effective once the billing period in which we received the cancellation concludes.
+*   _Cancellation_.  To cancel your subscription to Subscription Services, you must follow the procedures described on the applicable provider’s website.  If we do not list cancellation procedures for a particular Subscription Service, you must contact us at support@slate.com.  We do not refund or prorate Subscription Services, or any other purchases made through the Services, for any reason.  Requests to terminate subscriptions will be effective once the billing period in which we received the cancellation concludes.
 
 **5.     ** **Registration** ** for Non-Subscription Services**
 
@@ -118,7 +118,7 @@ All content, information, materials, computer code, and software that are part o
         
     *   A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-You may notify our designated copyright agent either by mail to Copyright Agent, Slate, 1350 Connecticut Ave., NW, Suite #410, Washington, DC 20036 or via email or faxcopyrightagent@slate.com Fax: (202) 223-0671.  Only copyright complaints should be sent to the Copyright Agent.  All other feedback or comments should be addressed to slateoffice@slate.com.  You acknowledge that if you fail to comply with all the requirements of this section, your DMCA notice may not be valid.
+You may notify our designated copyright agent either by mail to Copyright Agent, Slate, 1350 Connecticut Ave., NW, Suite #410, Washington, DC 20036 or via email or fax copyrightagent@slate.com Fax: (202) 223-0671.  Only copyright complaints should be sent to the Copyright Agent.  All other feedback or comments should be addressed to slateoffice@slate.com.  You acknowledge that if you fail to comply with all the requirements of this section, your DMCA notice may not be valid.
 
 **7.     ** **Change or Termination**
 
