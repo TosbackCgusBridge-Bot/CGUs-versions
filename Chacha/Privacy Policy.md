@@ -131,10 +131,6 @@ Top Level Menu
 *   ChaCha on Twitter
 *   Contact Us
 
-Get to Know ChaCha **ChaCha** provides fast, fun-sized answers to any question for FREE online at ChaCha.com and on your mobile phone by downloading one of our mobile apps. >>Download PDF Brochure
-
-\>>Download Ad Specs
-
 Latest Tweets Tweets by @ChaCha Facebook
 
 © Copyright 2006-2014 ChaCha Search, Inc. – Experimental Use, All Rights Reserved, May Be Covered by US or Foreign Patents or Patents Pending. Copyright Notice _|_ Terms of Use _|_ Privacy
