@@ -94,8 +94,8 @@ The industry's first audience discovery and digital data distribution platform �
     *   Media &. Publishing
     *   Technology Services
 
-The Rise of Data Activism!  
-Download our latest whitepaper »
+Video: “One Size Fits No One”  
+Discover how personalization can drive superior results. Watch the video today »
 
 *   Partners
     *   SYNC for Agencies
@@ -111,8 +111,8 @@ Learn more about our fast-growing digital marketing ecosystem »
     *   Tealium University
     *   Tealium Learning Community
 
-Tealium University  
-Tealium University is the ultimate source of knowledge for any Tealium user. »
+Digital Velocity 2014  
+Join us Jan. 22–24, 2014, for the industry’s most comprehensive user conference »
 
 *   Resources
     *   Case Studies
