@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help With Netanyahu, Obama plays bad cop to Kerry's good cop
+Search Help "Sex tips for straight women from a gay man" with practice
 
-Also in Politics »
+Also in Theater »
 
-*   Democrats in Senate reject pick by Obama
-*   Washington: A first for legal marijuana
+*   Soap opera star, his girlfriend and his admirer
+*   "Bob Marley's Three Little Birds," reggae for children
 
   
 
