@@ -1,4 +1,4 @@
-USESDEFRITBR Janvier 2014
+USESDEFRITBR Mars 2014
 
 *   Objet
 *   Mentions légales
@@ -120,17 +120,17 @@ Le présent contrat est conclu pour une durée indéterminée à compter de l'Ut
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
-*   D'utilisation
-*   Conditions générales d'utilisation
-*   Pourquoi lire les conditions d'utilisation
+*   Conditions générales
+*   Conditions d'utilisation d'un site internet
+*   Conditions d'utilisation
 *   Modèle Condition Générale de Vente » Forum - Webmaster
+*   Télécharger Izispot » Télécharger - Editeurs HTML
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
-*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
 *   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
 
 Communautés d'assistance et de conseils.
 
-*   Forum iPhone
 *   Forum Mobile
+*   Forum Vos droits sur internet
 *   Forum Webmastering
