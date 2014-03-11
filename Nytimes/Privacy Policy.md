@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help "Sex tips for straight women from a gay man" with practice
+Search Help "Mad Men" enlists the graphics guru Milton Glaser
 
-Also in Theater »
+Also in Arts »
 
-*   Soap opera star, his girlfriend and his admirer
-*   "Bob Marley's Three Little Birds," reggae for children
+*   "True Detective" finds philosophical answers by season's end
+*   F.C.C. seeks limits on TV stations, to curb cable costs
 
   
 
