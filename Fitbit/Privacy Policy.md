@@ -220,11 +220,11 @@ Help
 
 Device Help
 
-*   Force Tracker Help
 *   Flex Tracker Help
 *   Zip Tracker Help
 *   One Tracker Help
 *   Ultra Tracker Help
+*   Force Tracker Help
 *   Aria Scale Help
 
 OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Press to change display
