@@ -1,105 +1,42 @@
-Search Tools Jump To:
+indexing the web around people
 
-*   Social Media
-*   Public Records
-*   Phone
-*   Email
-*   Web Search
-*   Images
+*   WHAT WE DO
+*   **●**
+*   WHO WE ARE
+*   **●**
+*   press
+*   **●**
+*   blog
+*   **●**
+*   privacy
+*   **●**
+*   terms
+*   **●**
+*   jobs
+*   **●**
+*   Contact
 
-1 Match for Privacy Policy Country Region City GenderMaleFemale Age 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899 - 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899 Privacy Policy, sammytown
+Privacy Pledge
 
-Provo,UT
+What is PeekYou.com? PeekYou.com is a people search engine that helps over 6.5 million monthly visitors find their friends, relatives, and colleagues across the public Web.
 
-Click to learn more about PeekScore Facebook Public Records &. Background Checks Arrest Records &. Driving Infractions
+PeekYou will: 1. Index only public web content  
+2\. Always respect the user privacy preferences of social networks  
+3\. Allow individuals to opt-out from its service simply and easily  
 
-*   Privacy Policy
-    
-    Search Their Arrest Record, Driving Record, Marital Status and More...
-    
+PeekYou will not: 1. Purchase app/developer data from social platforms  
+2\. Index an individual's medical or financial information  
+3\. Knowingly work with any individual or business that violates these rules  
 
-Phonebook
+How does the search engine work? Traditional search engines calculate the likelihood of any URL being associated with a keyword. PeekYou's search engine calculates the likelihood of any URL being associated with an individual.  
+PeekYou can find only what Google, Bing, and Yahoo are also able to find. If these traditional search engines cannot find a piece of information, then PeekYou cannot either. But whereas traditional search engines might bury certain kind of personal information as not relevant to a search, PeekYou cleans it up, organizes it, and presents it in useful form. PeekYou’s algorithm uses “unique identifiers” to calculate and match public social profiles, blogs, URL’s, and more. This creates individual results for the many different “Michael Hussey’s” including demographics, links, interests, work and school tags.
 
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Current Address.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Photos and Videos.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Social Profiles.
-    
-*   1) Enter Privacy Policy's Phone Number. 2) Get Their Email Address.
-    
+How does the search engine find all my social profiles? PeekYou, like other search engines, has crawlers that index the public Web. When our crawler looks at a page, it must algorithmically sort out to what person that URL belongs. Another way we are able to match social profiles accurately is through what we call "social connectivity." This is when individuals link all their social profiles together so that friends, family, colleagues, or even recruiters can find them across the Web. See the diagram below as an illustration of the concept.
 
-Email Addresses
+Joining the Dots Through Social Connectivity
 
-*   View Privacy Policy's Hidden Profiles and Photos, privacy\*\*\*\*@gmail
-    
-*   View Privacy Policy's Hidden Profiles and Photos, privacy\*\*\*\*@yahoo
-    
-*   View Privacy Policy's Hidden Profiles and Photos, privacy\*\*\*\*@hotmail
-    
-*   View Privacy Policy's Hidden Profiles and Photos, privacy\*\*\*\*@aol
-    
+Good things to know about online information 1. PeekYou indexes only information from 3rd-party websites, which means that removing information from PeekYou still leaves it visible on other websites - the original sources of the information-and on other search engines that index those websites. 2\. There is nothing wrong or dangerous with having a flourishing online presence as long as you take the necessary precautions to keep sensitive information private. 3\. If you need to have yourself removed from the Web for security reasons, consider contacting a professional company such as Reputation.com. PeekYou has partnered with Reputation.com to bring you the best in online personal privacy products. MyPrivacy, from Reputation.com, will automatically monitor and control your private data on hundreds of websites, direct marketing databases, and online behavioral trackers. 4\. If you believe or suspect that you are a victim of identity theft, contact the professionals at IDedge. PeekYou has partnered with IDedge to help people deal with potential Identity Theft issues. 5\. Always keep your passwords private. Change them often. 6\. Do not add your street numbers, phone number, or exact date of birth to social networks. If you do, control your privacy settings and avoid installing applications from unknown sources. 7\. When you use applications such as Facebook Connect, your information is transferred to and imported by the website you are connecting with. Beware of what these sites are doing with your personal information.
 
-Google+ Myspace Wikipedia Linkedin Foursquare Music Photo Albums Shopping Twitter Pinterest Instagram Documents Web Search Meetup Facts Images Tags
+Last update: January 1, 2014
 
-*   People Search
-*   Username
-*   Interests
-*   Work
-*   School
-*   City
-*   Phone
-*   Email
-*   Google
-
-WorldUSAAKALARAZCACOCTDCDEFLGAHIIDILINIAKSKYLAMEMDMAMIMNMSMOMTNENVNHNJNMNYNCNDOHOKORPAPRRISCSDTNTXUTVTVAWAWVWIWYUMOthers-----CANABBCMBNBNLNSNTNUONPEQCSKYT-----UKIREAUSNZINDCHI
-
-Top Searches
-
-*   bbeele
-*   no1isthatspecial
-*   guzzys
-*   \_agent\_99
-*   ew170rt
-*   tigerlilylilytiger
-*   tananene2775j
-*   monkeyman2020
-
-*   Legal Investigator
-*   Engineer
-*   Table Operator
-*   Assistant Auditor
-*   Contract Clerk
-*   Front-End Loader Operator
-*   Welder Helper
-*   Auctioneer
-
-Popular Searches
-
-*   M. Armstrong
-*   J. Moreno
-*   P. Whelan
-*   M. Levin
-*   D. Chavez
-*   S. Shelton
-*   M. Chavez
-*   A. Moreno
-
-*   C. Young
-*   T. Montoya
-*   A. Delaguarda
-*   M. Moreno
-*   C. Shelton
-*   C. Parker
-*   F. Moreno
-*   D. Page
-
-*   About PeekYou
-*   Privacy Policy
-*   Privacy Pledge
-*   Terms of Use
-*   Sitemap
-*   PeekScore
-*   Blog
-
-Copyright 2014 PeekYou.com. A Patent Pending People Search Process. Made in NY. All Rights Reserved. Content 180K Content 5.3K Tweets by @peekyou Scroll
+Copyright 2014 PeekYou LLC. A Patented People Search Process. Made in NY. All Rights Reserved.
