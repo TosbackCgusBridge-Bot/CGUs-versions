@@ -10,8 +10,8 @@ Please read this Privacy Policy carefully, because by using the Service you are 
 **1.INFORMATION WE COLLECT THROUGH THE SERVICE**  
 **2.HOW WE USE THE INFORMATION WE COLLECT**  
 **3.SHARING OF INFORMATION**  
-**4.YOUR PRIVACY RIGHTS, CHOICE AND ACCESS**  
-**5.ADVERTISING/BEHAVIORAL TARGETING. HOW TO OPT-OUT.**  
+**4.ADVERTISING/BEHAVIORAL TARGETING. HOW TO OPT-OUT.**  
+**5.YOUR PRIVACY RIGHTS, CHOICE AND ACCESS**  
 **6.CHILDREN**  
 **7.SECURITY OF YOUR INFORMATION**  
 **8.OTHER SITES**  
@@ -79,7 +79,9 @@ When you opt out of Outbrain's personalization tracking, we will no longer use i
 
 1.  **5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.**
 
-You may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) sending us an e-mail at legal@outbrain.com. (ii) contacting us by mail at 39 West 13th Street, 3rd floor, New York, NY 10011, Attn: Legal Department. or (iii) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.  
+You may always Opt Out as described in Section 4 above.  
+  
+You may always direct us not to share your Personal Information (to the extent that we have collected any because you have registered for the Service) with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) sending us an e-mail at legal@outbrain.com. (ii) contacting us by mail at 39 West 13th Street, 3rd floor, New York, NY 10011, Attn: Legal Department. or (iii) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.  
   
 If you wish to verify, correct, or update any of your information collected through the Service, you may edit your profile preferences or contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Service. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
