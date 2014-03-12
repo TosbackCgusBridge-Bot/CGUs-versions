@@ -255,17 +255,17 @@ Syfy Video My Big Fat Geek Wedding - Tuesday March 11th ... My Big Fat Geek Wedd
 
 Check out the pilot episode for My Big Fat Geek Wedding. Part of Syfy Firsts.
 
-Lost Girl - Sneak Peek - Destiny's Child Lost Girl - Sneak Peek - Destiny's Child
+Lost Girl - Sneak Peek - Waves Lost Girl - Sneak Peek - Waves
 
-Catch a sneak peek of the next episode of Lost Girl, Mondays at 10/9c.
+Catch a sneak peek of the next episode of Lost Girl, Mondays 10/9c.
 
-Lost Girl - Next Episode - Destiny's Child Lost Girl - Next Episode - Destiny's Child
+Lost Girl - Next Episode - Waves Lost Girl - Next Episode - Waves
 
 Catch the next episode of Lost Girl, Mondays at 10/9c.
 
-Workin' At the Car Wash Workin' At the Car Wash
+The Truth Will Set You Free The Truth Will Set You Free
 
-Lauren and Dysons motives align when Bo gives her Fae-mobile a sudzy scrub down.
+Trick is interrogated by a truth-seeking Fae with whom he has a history.
 
 *   FAQ
 *   Feedback
