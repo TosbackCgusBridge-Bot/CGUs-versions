@@ -165,7 +165,7 @@ We may also share your personal information with:
     
 *   Service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, affiliate and rewards programs, website operations, and co-branded credit cards).
     
-*   Other eBay users, whether located in your country of residence or outside of your country of residence, as authorized by you or your use of our sites, services, applications or tools. For example, where you are involved in a transaction with another user, the other user may view your email address and request and obtain your contact information and postal address to help complete the transaction.
+*   Other eBay users, whether located in your country of residence or outside of your country of residence, as authorized by you or your use of our sites, services, applications or tools. For example, where you are involved in a transaction with another user, the other user may view your email address and request and obtain your contact information (including phone number and postal address) to help complete the transaction.
     
 *   Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
     
