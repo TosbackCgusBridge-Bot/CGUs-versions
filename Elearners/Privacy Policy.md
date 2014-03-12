@@ -17,11 +17,13 @@ Campus Main Menu
     *   Online Tutorials
 *   Online Colleges
 *   Local Colleges
-*   Student Resources
-    *   Texbooks &. Supplies
+*   College Resources
+    *   Planning for College
     *   Paying for College
-    *   Military Students
     *   Careers
+    *   Trends in Education
+    *   Military Students
+    *   Texbooks &. Supplies
 
 Help Section
 
@@ -234,6 +236,7 @@ Follow eLearners:
 About eLearners:
 
 *   About Us
+*   Affiliate Program
 *   Our Partners
 *   Site Map
 
