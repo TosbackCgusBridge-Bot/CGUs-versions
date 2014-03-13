@@ -72,7 +72,7 @@ search Search
 *   Mobile Apps Policy
 *   Cookies and Tracking Technologies Policy
 
-Privacy Home Last updated: December, 3 2013
+Privacy Home Last updated: February, 18 2014
 
 This is new!
 
