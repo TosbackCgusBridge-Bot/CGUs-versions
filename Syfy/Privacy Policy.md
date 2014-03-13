@@ -251,11 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video My Big Fat Geek Wedding - Tuesday March 11th ... My Big Fat Geek Wedding - Tuesday March 11th at 10/9c.
-
-Check out the pilot episode for My Big Fat Geek Wedding. Part of Syfy Firsts.
-
-Lost Girl - Sneak Peek - Waves Lost Girl - Sneak Peek - Waves
+Syfy Video Lost Girl - Sneak Peek - Waves Lost Girl - Sneak Peek - Waves
 
 Catch a sneak peek of the next episode of Lost Girl, Mondays 10/9c.
 
@@ -266,6 +262,10 @@ Catch the next episode of Lost Girl, Mondays at 10/9c.
 The Truth Will Set You Free The Truth Will Set You Free
 
 Trick is interrogated by a truth-seeking Fae with whom he has a history.
+
+Gun, Syringes, Dagger Gun, Syringes, Dagger
+
+Lauren and Dyson find a use for pointy things and science-stuff that they can both agree upon.
 
 *   FAQ
 *   Feedback
