@@ -180,6 +180,7 @@ Fitbit is dedicated to helping people lead healthier, more active lives.
 
 *   Privacy Policy
 *   Terms of Use
+*   Recall/Safety Info
 
 United States (change) Products
 
