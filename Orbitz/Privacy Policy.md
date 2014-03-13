@@ -1,6 +1,6 @@
 Orbitz® Privacy Policy
 
-Effective March 1, 2013
+Effective March 12, 2014
 
 Your privacy is very important to Orbitz, LLC. This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services (“you”) on our Site (defined below), in telephone or e-mail communications, or in interviews, surveys, contests, promotions, raffles or sweepstakes.
 
@@ -26,7 +26,7 @@ The remainder of this Privacy Policy describes our Personal Information handling
 5.  To whom we disclose Personal Information
 6.  How we retain and store Personal Information
 7.  How we protect Personal Information
-8.  How to access, modify or close your acount
+8.  How to access, modify or close your account
 9.  Privacy
 10.  Changes to the Privacy Policy
 11.  Disputes
@@ -45,13 +45,13 @@ In this Privacy Policy, terms that commence with a capital letter are defined in
 
 **“Orbitz,”** **“us,” “our”** or **“we”** means Orbitz, LLC and its subsidiaries and affiliates.
 
-**“Personal Information”** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address, telephone number, billing and account information and other information incidental to providing Products or Services (including information about individuals traveling with an individual who Books on our Site).
+**“Personal Information”** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, date of birth, e-mail and mailing address, telephone number, billing and account information and other information incidental to providing Products or Services (including information about individuals traveling with an individual who Books on our Site).
 
 **“Products or Services”** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance and other items available from our Site.
 
 To **“Book”** means to reserve.
 
-**“Session Data”** means usage and device information. This includes, for example, the type of browser and operating system an individual uses, the domain name of the site from which the individual came, the date, time and duration of the individual’s visit to our Site, the number of visits to our Site, the pages viewed on our Site, the cookies accumulated on the user’s browser, the type of mobile device the individual uses and the unique identifier of an individual’s mobile device.
+**“Session Data”** means usage and device information. This includes, for example, the type of browser and operating system an individual uses, the IP address of an individual’s device, the domain name of the site from which the individual came, the date, time and duration of the individual’s visit to our Site, the number of visits to our Site, the pages viewed on our Site, the cookies accumulated on the user’s browser, the type of device the individual uses and the unique identifier of an individual’s device.
 
 **“Site”** means the www.orbitz.com site, the m.orbitz.com mobile site or the Orbitz mobile applications and their respective sub sites together with the respective content, Products and Services available from these sites/applications or sub sites.
 
@@ -85,7 +85,7 @@ When using the Orbitz mobile site or applications, you may search for Products a
 
 **When you register as a Member**
 
-When you register with us as a Member, you must provide your name and e-mail address. You must choose a password, which will be required to gain access to portions of our Site reserved for Member use. We may also request your home zip code. You may elect to provide other information. Such information may include, for example, gender, activities and lifestyle preferences or preferred destinations.
+When you register with us as a Member, you must provide your name and e-mail address. You must choose a password, which will be required to gain access to portions of our Site reserved for Member use. We may also request your home zip code. You may elect to provide other information. Such information may include, for example, date of birth, gender, activities and lifestyle preferences or preferred destinations.
 
 **When you Book Products or Services as a Member**
 
@@ -128,7 +128,7 @@ When we send e-mails or e-newsletters, we may insert a pixel tag in the e-mail. 
 In order to provide certain services to you, we may on occasion supplement the Personal Information you submitted to us with information from third party sources:
 
 *   **Address Verification:** If you Book Products or Services, we use third parties in order to verify your address information during the credit card authorization process.
-*   **Enhancement of Profile Information:** We obtain marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers for which we think you would be interested. To enrich our profiles of individual customers, we tie this information to the Personal Information you submitted to us.
+*   **Enhancement of Profile Information:** We obtain marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers for which we think you would be interested. To enrich our profiles of individual customers, we tie this information to the Personal Information you submitted to us. If you choose to link any of your social media accounts to your account, you will be given the option to log into your account using the credentials from any such social media accounts. When you choose to use this log-in feature, we obtain information from all of the social media accounts that you have chosen to link to your account. Such information may include, for example, your name, date of birth, gender, location, profile photo, interests, activities, likes, check-ins, languages, e-mail address, mailing address, telephone number, professional information, contacts or similar information. You may unlink any of your social media accounts from your account by modifying your account settings. When you do so, we will stop obtaining new information from such social media accounts.
 
 return to top
 
@@ -184,9 +184,9 @@ return to top
 From time to time, we may disclose your Personal Information as follows:
 
 *   To those travel service providers with which you make arrangements through our Site, for example airlines, car rental, hotel, ground transportation, theater, attraction or travel insurance. We provide them with the Personal Information needed to make and complete the booking or reservation;
-*   To organizations that perform services for or on behalf of Orbitz, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a visitor or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area (“EEA”).Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz, and under the instructions of Orbitz, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Privacy Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA;
+*   To organizations that perform services for or on behalf of Orbitz, for example to provide customer service, deliver tickets, ship items, process credit cards, detect fraudulent activity, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a visitor or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area (“EEA”).Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz, and under the instructions of Orbitz, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Privacy Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA;
 *   We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles and promotions. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. This Privacy Policy does not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services;
-*   To protect our Site and our rights under our Terms and Conditions. to protect ourselves against liability or prevent fraudulent activity. or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain;
+*   To protect our Site and our rights under our Terms and Conditions. to protect ourselves against liability or detect or prevent fraudulent activity. or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain;
 *   To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
 *   Where the information is public. or
 *   To our insurers and to regulatory agencies.
@@ -210,7 +210,7 @@ return to top
 
 **My Trips and My Account**
 
-If you are a Member, we store your Personal Information in My Trips and My Account. You can access My Trips and My Account from the home page of our Site, after logging onto our Site. My Trips contains information about your current, canceled or past trips. My Account contains your name, e-mail address, e-mail and password settings, and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Book a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences. We also keep in My Account all other information that you have elected to provide us, such as gender, activities and lifestyle preferences and favorite destinations.
+If you are a Member, we store your Personal Information in My Trips and My Account. You can access My Trips and My Account from the home page of our Site, after logging onto our Site. My Trips contains information about your current, canceled or past trips. My Account contains your name, e-mail address, e-mail and password settings, and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Book a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your date of birth, preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences. We also keep in My Account all other information that you have elected to provide us, such as gender, activities and lifestyle preferences and favorite destinations.
 
 You can access, modify or close your account as described in How to access, modify, or close your account.
 
@@ -254,7 +254,7 @@ return to top
 
 A cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Site. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie.
 
-When you access our Site, we may place cookies, pixel tags or other code on your computer to collect Session Data. These technologies are used to help us recognize you when you visit our Site again or to help us customize your online experience. Unless you specifically informs us of your identity (e.g., by registering with us), we will not know who you are.
+When you access our Site, we may place cookies, pixel tags or other code on your computer to collect Session Data. These technologies are used to help us recognize you when you visit our Site again or to help us customize your online experience. Unless you specifically inform us of your identity (e.g., by registering with us or signing into your account using your social media account credentials), we will not know who you are.
 
 Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. You can learn more about the use of cookies by clicking here or here. If you decide not to accept our cookies, you will be able to access those parts of our Site that are available to the general public, but you will not be able to access many of Products and Services.
 
@@ -266,7 +266,7 @@ We use anonymous Session Data, such as the destination of your search, in order 
 
 **Opting-Out**
 
-As part of the registration process we give you the ability to receive commercial communications about Products and Services, updates to our Site and customized advertisements and promotions that are targeted to your specific interests, such as flight specials, promotions, contests, sweepstakes and other travel opportunities available on our Site and/or sponsored by our travel service providers and advertisers. We send these communications directly ourselves or via service providers. If you do not opt-out from receiving these communications, we will send them to you. At any time you may change your selection to receive or not receive these communications by changing your preferences as described in How to access, modify or close your account. In addition, these communications will include instructions on how to unsubscribe.
+As part of the registration process we give you the ability to receive commercial communications about Products and Services, updates to our Site and customized advertisements and promotions that are targeted to you, such as specials, promotions, contests, sweepstakes and other travel opportunities available on our Site and/or sponsored by our travel service providers and advertisers. We send these communications directly ourselves or via service providers. If you do not opt-out from receiving these communications, we will send them to you. At any time you may change your selection to receive or not receive these communications by changing your preferences as described in How to access, modify or close your account. In addition, these communications will include instructions on how to unsubscribe.
 
 **Monitoring**
 
@@ -294,7 +294,7 @@ return to top
 
 **11\. Disputes**
 
-Orbitz has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and Orbitz’ practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your Personal Information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through our Site. If you have questions or concerns about Orbitz’ privacy practices, you should first contact us. If contacting us does not resolve your question or concern, you may raise your question or concern with TRUSTe by clicking here.
+Orbitz has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and Orbitz’ practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your Personal Information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through our Site, http://www.orbitz.com, and does not cover information that may be collected through our mobile application. If you have questions or concerns about Orbitz’ privacy practices, you should first contact us. If contacting us does not resolve your question or concern, you may raise your question or concern with TRUSTe by clicking here.
 
 return to top
 
