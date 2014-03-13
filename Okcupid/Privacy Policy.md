@@ -21,7 +21,7 @@ for internet goers”
 
 — Some guy on Yelp
 
-Participating in OkCupid Free Online Dating Service requires JavaScript. **Please enable it to continue.**
+OkCupid needs JavaScript to function, but you have it disabled. Check your browser settings.
 
 Legal Information
 
