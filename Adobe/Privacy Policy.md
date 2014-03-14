@@ -125,7 +125,7 @@ Adobe Systems Incorporated (our U.S. company) has certified to the EU Safe Harbo
 
 To the top Will this privacy policy change?
 
-Occasionally, we may change or update this privacy policy (or other documents in the Adobe Privacy Center) to allow Adobe to use or share your previously collected personal information in a materially different way. If we do, the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated, For new users, the change or update will become effective upon posting. For existing users, the change or update will become effective 30 days after posting. We encourage you to periodically review the Adobe Privacy Center for the latest information on our privacy practices.
+Occasionally, we may change or update this privacy policy (or other documents in the Adobe Privacy Center) to allow Adobe to use or share your previously collected personal information in a materially different way. If we do, the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated. For new users, the change or update will become effective upon posting. For existing users, the change or update will become effective 30 days after posting. We encourage you to periodically review the Adobe Privacy Center for the latest information on our privacy practices.
 
 To the top Who can I contact with questions or concerns?
 
