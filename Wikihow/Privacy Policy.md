@@ -16,6 +16,10 @@ Please see below for our official Terms of Use. We encourage you to read them ca
 
   
 
+  
+
+  
+
 Introduction
 
 Welcome to wikiHow, the website, mobile and online service of wikiHow, Inc. (“wikiHow,” “we,” or “us”). This page explains the terms by which you may use our online and/or mobile services, web site, and software provided on or in connection with the service (collectively the “Service”). By accessing or using the Service, you signify that you have read, understood, and agree to be bound by this Terms of Use Agreement (“Agreement”) and to the collection and use of your information as set forth in the wikiHow Privacy Policy , whether or not you are a registered user of our Service. This Agreement applies to all visitors, users, and others who access the Service (“Users”).
