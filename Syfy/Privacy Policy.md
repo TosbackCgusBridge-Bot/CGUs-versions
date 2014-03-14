@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Lost Girl - Sneak Peek - Waves Lost Girl - Sneak Peek - Waves
+Syfy Video A Chance of a Lifetime - Jim Henson's Creatur ... A Chance of a Lifetime - Jim Henson's Creature Shop Challenge
 
-Catch a sneak peek of the next episode of Lost Girl, Mondays 10/9c.
+Watch as these contestants fight for their chance of a lifetime. Jim Henson's Creature Shop Challenge premiering March 25 at 10/9c.
 
-Lost Girl - Next Episode - Waves Lost Girl - Next Episode - Waves
+Jim Henson's Creature Shop Challenge - Creatu ... Jim Henson's Creature Shop Challenge - Creatures 101
 
-Catch the next episode of Lost Girl, Mondays at 10/9c.
+Learn all the ins and outs of creature making.
 
-The Truth Will Set You Free The Truth Will Set You Free
+Jim Henson's Creature Shop Challenge - The Co ... Jim Henson's Creature Shop Challenge - The Competition
 
-Trick is interrogated by a truth-seeking Fae with whom he has a history.
+Learn how the show works, whats at stake and what to expect.
 
-Gun, Syringes, Dagger Gun, Syringes, Dagger
+Purple - People Eater: Behind the Scenes Purple - People Eater: Behind the Scenes
 
-Lauren and Dyson find a use for pointy things and science-stuff that they can both agree upon.
+Go behind-the-scenes of the creation of the Purple People Eater, directly from Jim Henson's Creature Shop.
 
 *   FAQ
 *   Feedback
