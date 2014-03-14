@@ -21,10 +21,10 @@ NBCUniversal
     *   G4
     *   Golf Channel
     *   MSNBC
-    *   nbcuniversal International Television
     *   Mun2
     *   Nbc Sports Network
     *   nbcuniversal Digital Distribution
+    *   nbcuniversal International Television
     *   nbcuniversal television networks distribution
     *   oxygen media
     *   Sprout
