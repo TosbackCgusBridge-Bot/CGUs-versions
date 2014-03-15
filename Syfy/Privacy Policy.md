@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video A Chance of a Lifetime - Jim Henson's Creatur ... A Chance of a Lifetime - Jim Henson's Creature Shop Challenge
+Syfy Video Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
 
-Watch as these contestants fight for their chance of a lifetime. Jim Henson's Creature Shop Challenge premiering March 25 at 10/9c.
+From the revolutionary comics anthology, comes Metal Hurlant Chronicles with back to back episodes starting Monday April 14th at 8/7c.
 
-Jim Henson's Creature Shop Challenge - Creatu ... Jim Henson's Creature Shop Challenge - Creatures 101
+Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
 
-Learn all the ins and outs of creature making.
+Dominion is where heaven meets hell. Premering on Syfy, June 2014.
 
-Jim Henson's Creature Shop Challenge - The Co ... Jim Henson's Creature Shop Challenge - The Competition
+Defiance - Season 2 Tease Defiance - Season 2 Tease
 
-Learn how the show works, whats at stake and what to expect.
+Check out the tease for Season 2 of Defiance! Coming this June.
 
-Purple - People Eater: Behind the Scenes Purple - People Eater: Behind the Scenes
+Warehouse 13 - They're Back for the Last Time Warehouse 13 - They're Back for the Last Time
 
-Go behind-the-scenes of the creation of the Purple People Eater, directly from Jim Henson's Creature Shop.
+Warehouse 13 is back for its final season, premiering Monday April 14 at 9/8c.
 
 *   FAQ
 *   Feedback
