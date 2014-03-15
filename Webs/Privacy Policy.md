@@ -26,7 +26,6 @@ You represent that you are fully able and competent to enter into the terms, con
 *   Webs Marks. Templates
 *   User Support
 *   Premium Services
-*   Free Trial
 *   Other Paid Services
 *   Payments
 *   Taxes
@@ -159,17 +158,13 @@ As a Website Creator, you are responsible for implementing and maintaining all s
 
 Today, our Premium Services include various options for our Website Creators such as removing ads from your site, using your own domain name, removing Webs promotional links or images, and the addition of storage space and bandwidth. Current categories and prices of our Premium Services are described here. All prices are subject to change from time to time. Webs may choose to temporarily change the fees for the Premium Services for promotional or new services, and such changes are immediately effective when Webs posts the temporary promotional event or new service on the Sites. Any changes to fees for Premium Services that are not temporary or promotional will be effective thirty (30) days after we provide you with notice by posting such changes on the Sites. The changes shall only apply prospectively to the Premium Services you've purchased. Unless otherwise stated, all fees are quoted in U.S. Dollars.
 
-13\. Free Trial
-
-Your 30-day free trial begins when you complete your registration. After the 30-day trial period, you will automatically be billed at the rate of $9.95 per month for the Enhanced Package's monthly plan, unless you upgrade (during or after your trial period) to an annual package. Cancel at any time by visiting the account billing page.
-
-14\. Other Paid Services
+13\. Other Paid Services
 
 In addition to Premium Services, as a Website Creator you may purchase other paid services (collectively with Premium Services and Advanced Premium Services, the "Paid Services") which may be provided as a one-time transaction or recurring subscription in connection with an Application or as additional services. Such Paid Services may be provided solely by us or in collaboration with Application Developers, affiliates or business partners. You may be presented with additional terms related to a specific purchase before you confirm such transaction. Those additional terms will also govern that transaction.
 
 Please note that if you enter into a transaction with a third-party, such as by purchasing an item through a Website hosted on the Sites, and have a dispute over the goods or services you purchased we have no liability for such goods or services. Although we may intervene in disputes between Users concerning payments, we have no obligation to do so.
 
-15\. Payments
+14\. Payments
 
 You are responsible for paying all fees and applicable taxes associated with the Paid Services in a timely manner with a valid payment method. You authorize Webs to charge your credit card, charge card, debit card, PayPal, or financial institution account (herein "Payment Method") for all charges to your accounts with Webs. When you provide a Payment Method to us, you confirm that you are permitted to use that Payment Method. You also authorize us to collect and store it, along with other related transaction information. When you make a purchase, you authorize us (and our designated payment processor) to charge the full amount to the Payment Method you designate for the transaction. For Premium Services, we only offer recurring payments. therefore, you agree that Webs may automatically charge the fee to your Payment Method at the beginning of each recurring period. For example, if you choose a Premium Service with a monthly plan, you will be billed every month on the anniversary date of the date you clicked the "Purchase" button. Additionally, we may offer a pre-pay payment option for payment of Premium Services ("Pre-Payment Plan"). If you opt for a Pre-Payment Plan, your Payment Method will be charged the then-current fee for that Premium Service at the commencement of each renewal period. To help insure continuity of services and as a courtesy for members, if your renewal comes up after the date of expiration on your credit card, we will automatically update the date before attempting a renewal.
 
@@ -177,23 +172,23 @@ You acknowledge and agree that any credit card and related billing and payment i
 
 If you pay by credit or debit card we may obtain a pre-approval from the issuer of the card for an amount up to the amount of the purchase. We will bill your card at the time of purchase or shortly thereafter. If you cancel a transaction before completion, that pre-approval may result in your funds not otherwise being immediately available. If you pay by debit card and your payment results in an overdraft or other fee from your bank, you alone are responsible for that fee. You agree to pay Webs all charges incurred under your account for any Paid Service in which you or anyone else who uses your account (including children, family and friends) enroll in accordance with this Agreement and any applicable Paid Services terms. If your Payment Method fails or your account is past due, (a) you agree to pay all amounts due on your account upon demand and reimburse us for all reversals, charge-backs, claims, fees, fines, penalties and other liability incurred by us (including costs and related expenses) that were caused by or arising out of payments that you authorized or accepted, (b) Webs may collect fees owed using other collection mechanisms (this includes charging other payment methods on file with us) and (c) Webs reserves the right to either suspend or terminate your Premium Services or your account with Webs, including deletion of your Website from the Sites. Except as may be set forth herein, any fees charged to your account are non-refundable. You agree to submit any disputes regarding any charge to your account in writing to Webs within thirty (30) days of such charge, otherwise such dispute will be waived and such charge will be final and not subject to challenge.
 
-16\. Taxes
+15\. Taxes
 
 You are responsible for paying any governmental taxes imposed on your use of the Sites, including, but not limited to, sales, use, or value added taxes. If requested, you will promptly furnish to Webs the applicable receipts and/or certificates regarding such remittances as soon as reasonably practicable. To the extent that Webs is obligated to collect such taxes, the applicable tax will be added to your billing account.
 
-17\. Money-Back Guarantee
+16\. Money-Back Guarantee
 
 Premium Services include a 30-day money-back guarantee. If you are dissatisfied with your service for any reason, you will receive a full refund (minus domain name registration fee and overage charges) if you cancel your paid services within 30 days of the activation of your account. The 30-day money-back guarantee does NOT apply to domain name registration or other Paid Services. Once you purchase your domain name, you are its owner and it cannot be "returned."
 
-18\. Webs Credits. Credit Shop
+17\. Webs Credits. Credit Shop
 
 You may purchase or earn credits on the Sites ("Webs Credits") that you may redeem to receive various goods and services through our online credit shop ("Credit Shop"). Even though we may use terms like "purchase," "buy," "sell," and "order" to talk about transactions related to Webs Credits, we don't transfer an ownership interest in those items. Instead, those credits are licensed to you. Therefore, when you purchase or receive credits, you do not own the credits. rather, you receive a limited right to use such credits in connection with certain features and services on the Sites, such as the purchase of additional storage. Please note that purchases of Webs Credits are non-refundable, and you may not transfer or sell your Webs Credits to anyone. We may change the purchase price for Webs Credits at any time as well as the way that you can use or transfer the credits. We also reserve the right to stop issuing Webs Credits. Webs Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing. If you leave a balance of Webs Credits unused for prolonged period of time, we may redeem those credits by giving you item(s) from the Credit Shop in equal value. If your account is cancelled or disabled, you will lose any accumulated credits.
 
-19\. Advertising on Websites
+18\. Advertising on Websites
 
 Unless you subscribe to a Premium Service (including domain purchases), we have the right to sell, run and/or serve third-party advertising on your Website. If you are a Website Creator, you may place any advertising on your Website other than Google AdSense. If you pay the Premium Service fees to remove our advertising, however, you may then place Google AdSense advertising on your Website. Webs may establish general policies and guidelines surrounding the running of your own ads ("Advertising Policies"). When adopted, any such Advertising Policies will be linked to, and incorporated by reference into, this Agreement and are subject to change from time to time. YOU AGREE THAT WEBS WILL NOT BE RESPONSIBLE OR LIABLE FOR ANY LOSS OR DAMAGE OF ANY SORT INCURRED AS THE RESULT OF ANY INTERACTIONS OR DEALINGS WITH ADVERTISERS OR AS THE RESULT OF THE PRESENCE OF SUCH ADVERTISERS ON YOUR WEBSITE. Webs reserves the right to include promotional links on Your Website(s) at no cost to Webs, unless you pay the applicable Premium Service fees to remove promotional links. Removal of promotional links does not include removal of required Webs legal notices and links to Webs Terms of Service, Privacy Policy and Guidelines or any statement indicating that Webs uses Webs ID for authentication upon sign in by your Website Members.
 
-20\. Webs Platform Policies
+19\. Webs Platform Policies
 
 Webs reserves the right to disable or deactivate Member accounts that are inactive for more than 90 days. In the future, we may limit the number of free Websites a Website Creator can create and may impose different bandwidth, storage or other usage restrictions than currently offered. In addition:
 
@@ -204,7 +199,7 @@ Webs reserves the right to disable or deactivate Member accounts that are inacti
 *   The Webs ID link may not be edited and must be available in the Sign in and Sign up pages of your Website.
 *   The Webs Terms of Service may not be edited and must be available in the Sign Up page of your Website.
 
-21\. Copyright Infringement
+20\. Copyright Infringement
 
 You may not post, modify, distribute, or reproduce in any way any copyrighted material, trademarks, or other proprietary information belonging to others without obtaining the prior written consent of the owner of such proprietary rights. It is our policy to respond to clear notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act of 1998 ("DMCA"). In addition, we will promptly terminate without notice the Membership privileges of those determined by us to be repeat infringers. If you are a copyright owner and you believe that any content hosted on the Sites infringes your copyrights, then you may submit a notification pursuant to the DMCA by providing our Copyright Agent with the following information in writing:
 
@@ -219,25 +214,25 @@ The fastest way to reach our Copyright Agent for notices of claims of copyright 
 
 As a Website Creator, you agree to have a policy for removing infringing Content and terminating repeat infringers that complies with the DMCA. In addition, you agree to promptly (and in any event in no later than 24 hours) address any copyright owner's written notice (including any notices forwarded to you by Webs) that specified Content posted on a Website that you control infringes that third-party's rights (including copyrights), provided that the notice substantially complies with the requirements in the DMCA. If you receive a counter-notice from the applicable User instructing you to replace the allegedly infringing Content, you agree to promptly comply with it to the extent required by law and to forward a copy of it to Webs. Webs may remove any allegedly infringing Content without any liability to you or to the User that posted such Content. In all such matters, we strongly recommend that you consult your attorney to confirm your obligations under the DMCA and other applicable laws. You are solely responsible and liable for complying with all applicable laws in connection with your Website.
 
-22\. Your Website Subdomains
+21\. Your Website Subdomains
 
 When you create Your Website, Webs gives you the flexibility to choose your own subdomain for Your Website (e.g.," developer" in the example: http://developer.webs.com) (" Website Subdomain"). Webs maintains ownership of your Website Subdomain and grants you a limited, non-exclusive, non-sublicensable, non-transferable, freely revocable, license solely to use the Website Subdomain on the Sites. The Website Subdomain you choose for your Website and your account are non-transferable. You will be solely responsible and liable for any activity that occurs under your Website Subdomain and account. At any time, however, you may upgrade your account to purchase your own custom domain name.
 
-23\. Webs Communications
+22\. Webs Communications
 
 It is our policy to provide notifications, whether such notifications are required by law or are for Service related purposes, to you via email or, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by Webs in its sole discretion. By providing Webs your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as updates, user communications, newsletters, changes to features of the Service, or Webs offers. If you do not want to receive certain email messages, you may opt out by contacting our support team. Opting out may prevent you from receiving valuable messages regarding updates, improvements, offers, or communications from other Users. Webs reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
 
-24\. Third Party Content and Interaction. Third Party Sites
+23\. Third Party Content and Interaction. Third Party Sites
 
 You agree to comply with the license and restrictions applicable to each item of Content you post, copy, access, or use. You understand that by using the Sites you may be exposed to Content that is offensive, objectionable, or indecent, and that you use the Sites at your own risk. Content from other Users or third parties is made available to you through Websites and the Sites. The inclusion of any such Content on the Sites does not imply our affiliation or endorsement of such Content. Because Webs does not control such Content, you agree that Webs is not responsible for any such Content, including without limitation, any advertising and information about third-party products or services, or the accuracy, integrity, quality, legality, usefulness, safety or intellectual property rights of any such Content. Your interactions with other Users and third parties on the Sites, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and the User or third party as applicable. Like with any web-based interaction, we suggest that you use caution and good judgment. You agree that Webs is not responsible for any loss or damage incurred as the result of any such dealings or with respect to any other User's or third party's use or disclosure of your personal information. If there is a dispute between you and any third party (including any User), Webs is under no obligation to become involved. You release Webs, its officers, directors, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to any disputes with other Users and third parties. If you are a California resident, you waive California Civil Code Section 1542, which says: **"A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which, if known by him must have materially affected his settlement with the debtor."** And, if you are not a California resident, you waive any applicable state statutes of a similar effect.
 
 Additionally, Webs, Website Creators, Users or third parties may provide hyperlinks on the Sites or Websites, or any other form of link or redirection of your connection to other sites ("Third Party Sites"). Links to these Third Party Sites are provided solely for your convenience and in no way does the inclusion of any link on the Sites or any Website imply our affiliation or endorsement of the linked site, their business practices (including their privacy policies) or any information therein. Webs expressly disclaims responsibility for the accuracy, quality, legality, nature, availability or reliability of Third Party Sites linked to by or through the Sites. ACCESS AND USE OF THIRD PARTY SITES, INCLUDING THE INFORMATION, MATERIAL, PRODUCTS, AND SERVICES ON THIRD PARTY SITES OR AVAILABLE THROUGH THIRD PARTY SITES, IS SOLELY AT YOUR OWN RISK.
 
-25\. Privacy of Your Information
+24\. Privacy of Your Information
 
 We care about the privacy of our Users. Click here to view our Privacy Policy. Your information may be stored and processed in any country in which Webs and its service providers maintain facilities, including outside of the EU. In this regard, or for purposes of sharing or disclosing data in accordance with this Agreement, Webs reserves the right to transfer information outside of your country. By using the Services, you consent to any such transfer of information outside of your country.
 
-26\. Indemnity
+25\. Indemnity
 
 You agree to indemnify, defend, and hold harmless Vistaprint Netherlands B.V., its subsidiaries, and affiliates ("Vistaprint"), and their respective officers, agents, co-branders or other partners, employees, and third party Paid Service providers from and against any claim, demand, loss, damage, cost, or liability (including reasonable attorneys' fees) arising out of or relating to
 
@@ -249,7 +244,7 @@ You agree to indemnify, defend, and hold harmless Vistaprint Netherlands B.V., i
 
 Webs reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of Webs. Webs will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
 
-27\. Disclaimer of Warranties
+26\. Disclaimer of Warranties
 
 YOUR USE OF THE SITES, AND ALL WEBSITE CODE, PLATFORM CODE, APIS, APPLICATIONS, SERVICES, THIRD PARTY SOFTWARE, AND CONTENT (INCLUDING THIRD PARTY CONTENT), ARE AT YOUR SOLE RESPONSIBILITY AND RISK. THE SITES, AND ALL WEBSITE CODE, PLATFORM CODE, APPLICATIONS, SERVICES, THIRD PARTY SOFTWARE, AND CONTENT (INCLUDING THIRD PARTY CONTENT) ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. VISTAPRINT AND ITS SUCCESSORS, AFFILIATES, CONTRACTORS, EMPLOYEES, SUPPLIERS, LICENSORS, PARTNERS AND AGENTS EXPRESSLY DISCLAIM ALL REPRESENTATIONS, WARRANTIES, OR CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, PERFORMANCE, SYSTEM INTEGRATION, QUIET ENJOYMENT, TITLE, AND NON-INFRINGEMENT.
 
@@ -259,7 +254,7 @@ ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES, A
 
 VISTAPRINT IS NOT RESPONSIBLE FOR THE CONDUCT OF ANY USER OR APPLICATION DEVELOPER ON THE SITES, PLATFORM, APPLICATIONS OR WEBSITES.
 
-28\. Limitation of Liability
+27\. Limitation of Liability
 
 YOU AGREE THAT, UNDER NO LEGAL THEORY, INCLUDING, BUT NOT LIMITED TO NEGLIGENCE, SHALL VISTAPRINT OR ITS SUCCESSORS, AFFILIATES, CONTRACTORS, OFFICERS, DIRECTORS, EMPLOYEES, SUPPLIERS, LICENSORS, PARTNERS OR AGENTS, BE LIABLE TO YOU FOR (A) ANY PUNITIVE, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF REVENUE, BUSINESS OR PROFITS, COST OF COVER, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF WEBS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), ARISING FROM OR RELATING TO THIS AGREEMENT OR YOUR USE OR THE INABILITY TO USE THE SERVICES, ANY WEBSITE OR PLATFORM. OR (B) ANY DAMAGES ARISING FROM OR RELATED TO THIS AGREEMENT OR ANY OF OUR GUIDELINES (IN THE AGGREGATE FOR ALL POTENTIAL CLAIMS BY YOU) IN EXCESS OF THE GREATER OF (i) $100 AND (ii) THE TOTAL AMOUNTS PAID TO WEBS BY YOU IN THE TWELVE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.
 
@@ -267,37 +262,37 @@ THESE LIMITATIONS SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF
 
 CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF YOU RESIDE IN SUCH A JURISDICTION, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. THE LIMITATIONS OR EXCLUSIONS OF WARRANTIES, REMEDIES OR LIABILITY CONTAINED IN THIS AGREEMENT APPLY TO YOU TO THE FULLEST EXTENT SUCH LIMITATIONS OR EXCLUSIONS ARE PERMITTED UNDER THE LAWS OF THE JURISDICTION IN WHICH YOU ARE LOCATED.
 
-29\. Changes to Webs Services
+28\. Changes to Webs Services
 
 Webs reserves the right at any time (and from time to time) to modify, suspend, or discontinue providing the Webs Services or any part thereof with or without notice. Webs will not be liable to you or to any third party for any modification, suspension or discontinuance of the Services.
 
-30\. Amendments
+29\. Amendments
 
 We may amend, modify, change, add or remove portions of this Agreement or any Guidelines at any time without notice to you by posting a revised version on www.webs.com or elsewhere on the Sites. The revised version will be effective at the time we post it. Please check this Agreement and any Guidelines periodically for changes. Your continued use of the Sites or any Website after posting of the changes constitutes your binding acceptance of such changes. We last modified this Agreement on the date stated above. However, if the revised version includes a material change, it will be effective for an existing User on the earlier of (a) the date you accept it, and (b) 30 days after the material changes are initially posted to www.webs.com or elsewhere on the Sites. The revised version will apply to you immediately if you are a User who registers or first uses the Sites on or after the posting of the revised version.
 
-31\. Term and Termination
+30\. Term and Termination
 
 This Agreement shall remain in full force and effect unless and until your account is terminated as provided herein. You may terminate your account and end your use of the Sites at any time and for any or no reason. Webs has the right (at its sole discretion) for any reason to (i) delete, disable or deactivate your account, block your email or IP address, or otherwise terminate your access to or use of the Sites or any Website, (ii) remove and discard any Content within any Website or anywhere on the Sites or (iii) shut down a Website, with or without notice, and with no liability of any kind to you.
 
 If you terminate your account, we will have no obligation to refund you any fees you may have paid except as may be required by applicable law.
 
-32\. Effects of Terminating
+31\. Effects of Terminating
 
 Upon deactivating your account, this Agreement terminates and your access rights to the Sites and any Websites immediately cease to exist. For Content you wish to delete from the Sites, you can delete it by going to each of the Websites to which you've contributed. Webs is not responsible for deleting Content on your behalf and Webs will not have any obligation to assist you in migrating your data or your Website(s) off of the Sites. Note that, even if Content is deleted from Webs' active servers, it may remain in our archives (although we have no obligation to archive or back-up your Content). Webs will have no obligation to refund any fees paid for Paid Services.
 
-33\. Survival
+32\. Survival
 
 The provisions under the following sections will survive termination of this Agreement for any reason: Sections 2, 4-9, 11-20, 22-26, 29-34.
 
-34\. Law and Arbitration
+33\. Law and Arbitration
 
 This Agreement shall be governed by the laws of the State of Maryland without giving effect to any principles that may provide the application of the law of another jurisdiction. You agree to submit to the personal jurisdiction of the state courts and federal courts located within the State of Maryland for the purpose of litigating all such claims or disputes Any claim or dispute in connection with this Agreement shall be resolved in a cost effective manner through binding non-appearance-based arbitration and has to be initiated within thirty (30) days after it arises, or the cause of action is barred. The arbitration shall be initiated through an established alternative dispute resolution provider mutually agreed upon by the parties. The alternative dispute resolution provider and the parties must comply with the following rules: (a) the arbitration shall be conducted by telephone, online and/or be solely based on written submissions, the specific manner shall be chosen by the party initiating the arbitration. (b) the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties. and (c) any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Notwithstanding the foregoing, we may seek injunctive or other equitable relief to protect our intellectual property rights in any court of competent jurisdiction.
 
-35\. United States Export Controls
+34\. United States Export Controls
 
 You agree to comply with all applicable export and reexport control laws and regulations, including the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the Treasury Department's Office of Foreign Assets Control ("OFAC"), and the International Traffic in Arms Regulations ("ITAR") maintained by the Department of State. Specifically, you agree that you shall not -- directly or indirectly -- sell, export, reexport, transfer, divert, or otherwise dispose of any products, software, or technology (including products derived from or based on such software or technology) received from Webs under this Agreement to any destination, entity, or person prohibited by the laws or regulations of the United States, without obtaining prior authorization from the competent government authorities as required by those laws and regulations. You agree to indemnify, to the fullest extent permitted by law, Webs from and against any fines or penalties that may arise as a result of your breach of this provision. This export control clause shall survive termination or cancellation of this Agreement.
 
-36\. General
+35\. General
 
 You agree to comply with all policies applicable to Webs and the Sites, and those of our third party Paid Service providers, which policies are either posted on the Sites or provided to you by a link in these Terms of Service. In addition, you agree to comply with all applicable laws. The failure of Webs to exercise or enforce any right or provision of this Agreement does not constitute a waiver of such right or provision. If any provision of this Agreement is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should try to give effect to the parties' intentions as reflected in the provision, and the other provisions of this Agreement remain in full force and effect. Your accounts are non-transferable. The parties are independent contractors with respect to each other. You may not delegate your duties under this Agreement or assign this Agreement, in whole or in part. Webs may assign this Agreement in whole or in part in its sole discretion without your consent and without notice. Any unauthorized use of any Webs computer system is a violation of this Agreement and certain federal and state laws, including without limitation the Computer Fraud and Abuse Act (18 U.S.C. Section 1030, et seq.), Sections 3-805 and 3-805.1 of the Maryland Criminal Law Code and Sections 14-3001, 14-3002 and 14-3003 of the Maryland Commercial Law Code. Such violations may subject you and your agents to civil and criminal penalties. This Agreement, including links to any third party Paid Service provider terms and conditions, constitutes the entire agreement between you and Webs and governs your use of the Sites, superseding any prior agreements (whether written or oral) between you and Webs regarding the subject matter hereof. The other Users of the Sites are intended third party beneficiaries of your obligations under this Agreement. A party will not be liable for non-performance or delay in performance (other than of obligations regarding payment of money) caused by any event reasonably beyond the control of such party including, but not limited to wars, hostilities, revolutions, riots, civil commotion, national emergency, epidemics, fire, flood, earthquake, force of nature, explosion, embargo, or any "act of God". Nothing in this Agreement shall prevent us from complying with the law and applicable regulations.
 
