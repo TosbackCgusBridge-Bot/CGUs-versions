@@ -1,6 +1,6 @@
 ModCloth » Help » Privacy Privacy
 
-At ModCloth, we take your online security very seriously, and we're committed to protecting your privacy and personal information. We've compiled this statement to explain how we collect, use, and secure your information. Please read on, and visit our Terms of Use for more information. At ModCloth, we take your online security very seriously, and we're committed to protecting your privacy and personal information. This privacy policy applies to http://www.modcloth.com owned and operated by ModCloth.com (ModCloth). We've compiled this statement to explain how we collect, use, and secure your information. Please read on, and visit our Terms of Use for more information.
+At ModCloth, we take your online security very seriously, and we're committed to protecting your privacy and personal information. This privacy policy applies to http://www.modcloth.com owned and operated by ModCloth.com (ModCloth). We've compiled this statement to explain how we collect, use, and secure your information. Please read on, and visit our Terms of Use for more information.
 
 ModCloth.com has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://www.modcloth.com.
 
