@@ -1,6 +1,6 @@
 Search Help: Amazon.co.uk Privacy Notice
 
-Last Updated: 25 September 2012. To view changes to the Privacy Notice please click here
+Last Updated: 13 March 2014. To view changes to the Privacy Notice please click here
 
 Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. **By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
@@ -18,7 +18,7 @@ Amazon.co.uk knows that you care how information about you is used and shared an
 
 **Controllers of Personal Information**  
 
-Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL (the data controllers), all three at 5 Rue Plaetis L-2338, Luxembourg. Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK acts as data processor on behalf of the data controllers.
+Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon EU SARL, Amazon Services Europe SARL, Amazon Media EU SARL and Lovefilm UK Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers), all three at 5 Rue Plaetis L-2338, Luxembourg. Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK acts as data processor on behalf of the data controllers.
 
 Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the U.S. Department of Commerce's Safe Harbour website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to safeharbor@amazon.com.
 
