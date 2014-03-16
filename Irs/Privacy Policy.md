@@ -1,4 +1,4 @@
-Like Share Print IRS Privacy Policy
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page IRS Privacy Policy
 
 Para ver esta página en español haga clic aquí.
 
