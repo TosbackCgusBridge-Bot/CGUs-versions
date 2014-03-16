@@ -136,7 +136,7 @@ Knowledge Sharing Resources and Information
 *   Newsroom
 *   Citizenship Blog
 *   Developer Resource Center
-*   Compatible Solutions Program
+*   FedEx Compatible
 *   Industry Specific Solutions
 
 Service Guide
