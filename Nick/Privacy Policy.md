@@ -2,9 +2,9 @@ Privacy Policy/Your California Privacy Rights Nickelodeon - Universal Privacy Po
 
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 12/26/2013
+**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 3/14/2014
 
-Welcome! This Privacy Policy governs the websites, online services, and software made available by the Nickelodeon Group for use on mobile devices, tablets, personal computers and other devices, which includes the websites and online services listed here, including those operated by NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). The Nickelodeon Group is a business unit of Viacom Media Networks, a division of Viacom International, Inc. By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites. how such information is used and stored. when such information may be disclosed to third parties. how users, parents, and guardians can control the use and disclosure of collected information. and how information is protected.
+Welcome! This Privacy Policy governs the websites, online services, and software made available by the Nickelodeon Group for use on mobile devices, tablets, personal computers and other devices, which includes the websites and online services listed here, including those operated by Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). The Nickelodeon Group is a business unit of Viacom Media Networks, a division of Viacom International, Inc. By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites. how such information is used and stored. when such information may be disclosed to third parties. how users, parents, and guardians can control the use and disclosure of collected information. and how information is protected.
 
 Our visitors’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Nickelodeon Sites permitting such visitors.  Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries.  Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
 
@@ -69,8 +69,6 @@ Nick.com CA Privacy Coordinator, c/o Nickelodeon Online, 1515 Broadway, New York
 
 Other corporate affiliates may collect or maintain information through the Nickelodeon Sites, including:
 
-*   NeoPets, Inc., Glendale, California
-    
 *   Atom Entertainment, Inc. San Francisco, California
     
 
@@ -150,7 +148,7 @@ We may request or collect certain information when you visit the Nickelodeon Sit
 
 **A.  Registration Information**:  The information required to register varies by Site, but may include: (a) birth date. (b) gender. (c) country. (d) state. (e) zip code. (f) user name and password. (g) wireless telephone number. (h) email address. and (i) other profile information such as avatar preferences, communications preferences, and interests. If the Site either is directed to children under 13 or has actual knowledge that a user is under 13 years old, the child may be asked to provide his or her parent's or guardian's email address. For certain countries, visitors or their parents/guardians will receive an activation email and must follow the procedures or otherwise agree to the terms within the activation email within a certain time period to activate the account. accounts not activated within that time period will be deleted. 
 
-Registration information is used to enable visitors to take advantage of site offerings. respond to visitor’s requests for products, services, and information. manage games. serve appropriate material. customize the content you see when you visit the Nickelodeon Sites. and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates, including but not limited to NeoPets, Inc. and Atom Entertainment, Inc.), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
+Registration information is used to enable visitors to take advantage of site offerings. respond to visitor’s requests for products, services, and information. manage games. serve appropriate material. customize the content you see when you visit the Nickelodeon Sites. and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates, including but not limited to Atom Entertainment, Inc.), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
 
 **B. Social Platform Registrations and Social Media Plugins**: Some of the Nickelodeon Sites permit or require users who are at least 13 years old to register or log into their account via a social networking platform such as Login with Facebook or Flux, or permit you to use social media plugins such as the Facebook “Like” or Google “+1” buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us.
 
@@ -344,8 +342,6 @@ You may cancel one or more wireless services via your wireless device at any tim
 
 Some of the Nickelodeon Sites offer you and your child an online safety guide which we encourage you to use as starting point for discussing safety and privacy concerns with your child. Of course, involvement in your family’s online lives is the most important safety tool available. Some of the various guides are available here:
 
-*   http://www.neopets.com/safetytips.phtml
-    
 *   http://www.nick.com/club/parents-online-safety-guide.html
     
 
@@ -386,8 +382,6 @@ Or call this number:
 +1 212-846-2543
 
 Other corporate affiliates may collect or maintain information through the Nickelodeon Sites including:
-
-NeoPets, Inc., Glendale, California
 
 Atom Entertainment, Inc. San Francisco, California
 
