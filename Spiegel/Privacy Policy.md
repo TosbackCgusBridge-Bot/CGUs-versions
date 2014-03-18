@@ -431,6 +431,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Netzwelt
 *   Wissenschaft
 *   Gesundheit
+*   einestages
 *   Uni
 *   Schule
 *   Reise
