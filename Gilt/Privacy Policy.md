@@ -111,7 +111,7 @@ You may opt out of the aggregation and analysis of data collected about you on o
 
 Targeted Advertising
 
-We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by clicking here, and learn about additional online advertising opt-out options by clicking here. Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above. 
+We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by clicking here, and learn about additional online advertising opt-out options by clicking here. Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above.  You can opt-out of targeted ads on Facebook by clicking here.  
 
 Geo-Location Information
 
