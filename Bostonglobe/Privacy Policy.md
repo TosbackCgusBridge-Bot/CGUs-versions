@@ -42,7 +42,7 @@ _**Personal Information That You Give Us**_
 
 **Registration Information**: There is a free registration process required to access the full range of information and services offered across Boston Globe Web sites.
 
-**Boston.com and BostonGlobe.com** require that you supply a unique e-mail address, your first and last name, and basic demographic information (zip code, birth year, and gender) in order to register. In addition, we may ask you to supply optional information on household income, job industry, and job title. In addition, BostonGlobe.com requires that you supply your credit card number or other billing information, address, and phone number. You must also agree to our Terms of Service as part of the registration process.
+**Boston.com and BostonGlobe.com**require that you supply a unique e-mail address, your first and last name, and basic demographic information (zip code, birth year, and gender) in order to register. In addition, we may ask you to supply optional information on household income, job industry, and job title. In addition, BostonGlobe.com requires that you supply your credit card number or other billing information, address, and phone number. You must also agree to our Terms of Service as part of the registration process.
 
 **Boston Globe newspaper subscriber information**: We generally obtain your name, address, telephone number, credit card number or other billing information in order to process your newspaper subscription request. As a subscriber, we request that you also provide us with your e-mail address. If you use the Boston Globe Services Web site to manage your home delivery service, your newspaper subscriber information will be used to process online customer service requests relating to issues such as missing or late deliveries, and vacation stops and restarts.
 
@@ -98,7 +98,7 @@ We reserve the right to change the vendors who provide us with usage data. If su
 
 **IP Addresses**: Our websites log Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Web sites and mobile applications.
 
-**Log Files, Web Beacons, and Your Reading History** : We automatically log certain usage information about your use of the Services. This information includes a reading history of the pages you view. We use this information in the aggregate to analyze usage of our Web Sites and mobile applications.
+**Log Files, Web Beacons, and Your Reading History**: We automatically log certain usage information about your use of the Services. This information includes a reading history of the pages you view. We use this information in the aggregate to analyze usage of our Web Sites and mobile applications.
 
 **Location Information**:
 
