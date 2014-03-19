@@ -9,6 +9,7 @@ Search HowStuffWorks and the web
 *   Games
 
 *   Adventure
+*   Animals
 *   Auto
 *   Culture
 *   Entertainment
