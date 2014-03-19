@@ -188,6 +188,7 @@ APPS
     *   Accounting &. Finance
     *   Calculators &. Converters
     *   Databases &. Tools
+    *   Helpdesk &. Remote PC
     *   Inventory &. Barcoding
     *   Investment Tools
     *   Math &. Scientific Tools
