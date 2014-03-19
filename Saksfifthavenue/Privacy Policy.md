@@ -195,7 +195,7 @@ Just enter promo code: **FREESHIP** at checkout
 
 \*Free Shipping offer available regardless of total order value.  Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments. For Drop Ship items, offer only applies to items eligible for standard shipping.  No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
 
-Click here for additional shipping and tax information.
+Click here for additional shipping &. tax information.
 
 \*ONLY ONE PER CUSTOMER. LIMIT OF FIVE PROMO CODES PER ORDER. Offer valid at Saks.com through Sunday, March 23, 2014 at 11:59pm(ET) or while supplies last. Please enter promo code WCONTEMP6 at checkout. Purchase must contain any $250 Women's Contemporary Apparel product. This purchase at Saks.com excludes shipping, taxes, gift-wrap. No adjustments to prior purchases. This offer is not transferable. Valid on shipments to US addresses only. Not valid on international shipments.
 
