@@ -12,8 +12,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Women
         *   Featured Shops
             *   Back to Women Featured Shops
-            *   Shoes &. Sandals
             *   Swim Shop
+            *   Shoes &. Sandals
             *   Performance Collection
             *   Canvas Lands' End
             *   New Arrivals
@@ -52,9 +52,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Made to Work
-            *   Shoes
             *   Swim Shop
+            *   Shoes
+            *   Made to Work
             *   Canvas Lands' End
             *   New Arrivals
             *   No-Iron Collection
@@ -63,11 +63,11 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Shop By Size Range
             *   Back to Men Shop By Size Range
             *   Regular
-            *   Tall
-            *   Short
             *   Big
+            *   Tall
             *   Big &. Tall
     *   *   Categories
+            *   Swimwear
             *   Polos, T-shirts &. Turtlenecks
             *   Dress Shirts
             *   Casual Button-down Shirts
@@ -76,7 +76,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Pants
             *   Jeans
             *   Shorts
-            *   Swimwear
             *   Sportcoats &. Blazers
             *   Sleepwear
             *   Outerwear
@@ -94,7 +93,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   School Uniforms
             *   New Arrivals
             *   Boys Iron Knee
-            *   Girls Knit Kit
+            *   Graphic Shop
             *   Go To School
             *   Sale
         *   Shop By Age Range
