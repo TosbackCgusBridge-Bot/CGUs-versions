@@ -173,13 +173,13 @@ Updated 10/07/2009 (revision number 21)
 
 IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS DO NOT INSTALL AND/OR ACTIVATE THE COX SERVICE.
 
-Subject to credit approval, Cox will provide all services that You, the Subscriber, request, on the following terms and conditions. All Cox services are referred to as “Service” or “Services”. If Cox provides telephone Service in Your area, such Service will be provided through the Cox telephone affiliate servicing Your area, and You will also be bound by that affiliate’s tariff on file with the State telephone regulatory authority and/or the tariffs or other terms of service located on Cox’s website at www.cox.com/telephone. If You receive Cox’s High Speed Internet Service, You will also be bound by the Cox High Speed Internet Subscriber Agreement, and the Cox Acceptable Use Policy, both located at www.cox.com or at another URL Cox may designate. The Services are also subject to the Annual Notice that You will receive each year, which contains, among other things, the Privacy Notice.
+Subject to credit approval, Cox will provide all services that You, the Subscriber, request, on the following terms and conditions. All Cox services are referred to as "Service" or "Services". If Cox provides telephone Service in Your area, such Service will be provided through the Cox telephone affiliate servicing Your area, and You will also be bound by that affiliate's tariff on file with the State telephone regulatory authority and/or the tariffs or other terms of service located on Cox’s website at ww2.cox.com/residential/phone.cox. If You receive Cox’s High Speed Internet Service, You will also be bound by the Cox High Speed Internet Subscriber Agreement, and the Cox Acceptable Use Policy, both located at www.cox.com or at another URL Cox may designate. The Services are also subject to the Annual Notice that You will receive each year, which contains, among other things, the Privacy Notice.
 
 **Cox’s Obligations:**
 
 1.  Install in a workmanlike manner, the Cox necessary equipment and materials.
 2.  Maintain Cox equipment in accordance with reasonable industry standards and applicable regulations.
-3.  If available, You may subscribe to the Cox wiring maintenance plan, and Cox will install and/or maintain wiring inside Your premises (“Internal Wiring”). Otherwise, Cox may have no responsibility for the maintenance of Your Internal Wiring.
+3.  If available, You may subscribe to the Cox wiring maintenance plan, and Cox will install and/or maintain wiring inside Your premises ("Internal Wiring"). Otherwise, Cox may have no responsibility for the maintenance of Your Internal Wiring.
 4.  Cox has no obligation or responsibility for loss of stored content on any devices or for any damage to your devices.
 
 **Your Obligations:**
@@ -218,6 +218,7 @@ View the following policies regarding the Cox Price Lock Guarantee and Monthly D
 
 **Retired Policies:**
 
+*   24-Month Price Lock Guarantee – All locations (Retired 3/17/14)
 *   24-Month Price Lock Guarantee – All locations (Retired 5/20/13)
 *   12-Month Price Lock Guarantee – Arizona (Retired 4/16/13), Connecticut (Retired 4/16/13), Louisiana (Retired 4/16/13), Ohio (Retired 4/16/13) and Rhode Island (Retired 4/16/13)
 *   12-Month Price Lock Guarantee – Connecticut (Retired 4/2/12), Ohio (Retired 4/2/12), Rhode Island (Retired 4/2/12)
