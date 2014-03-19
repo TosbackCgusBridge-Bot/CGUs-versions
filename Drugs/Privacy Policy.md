@@ -17,9 +17,9 @@ If you have questions or concerns regarding this statement, you should first con
 
 If you are not satisfied with our response you can contact TRUSTe here.
 
-Personally Identifiable Information (PII)
+Drugs.com does not collect personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration, when building medication lists, or on information submission forms).
 
-Drugs.com does not collect personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration, when building medication lists, or on information submission forms). We may also collect and store certain non-personally identifiable information automatically. This information is not shared with anyone beyond authorized web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
+We may collect and store certain non-personally identifiable information automatically. This information is not shared with anyone beyond authorized web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. Non-personally identifiable information may include:
 
 *   Internet Protocol (IP) address of the domain or the proxy provided by your Internet Service Provider (ISP).
 *   Date and time the IP accessed our site.
@@ -37,25 +37,25 @@ This privacy statement applies only to information collected by this web site.
 
 Cookies
 
-A cookie is a small text file that is stored on a user’s device for record-keeping purposes. We use cookies on this web site. We do not link the information stored in cookies to any personally identifiable information you submit while on our web site. We use cookies to make it easier for you to navigate our web site and to provide you with enhanced services (viewing history, account information). If you reject cookies, you can still use our web site, but your ability to use or access some areas of our web site may be limited.
+A browser cookie is a small text file that is stored on a user’s device for record-keeping purposes. We use cookies on this web site. We do not link the information stored in cookies to any personally identifiable information you submit while on our web site. We use cookies to make it easier for you to navigate our web site, to provide you with enhanced services (viewing history and account information). If you reject cookies, you can still use our web site, but your ability to use or access some areas of our web site may be limited.
 
-We employ the use of third party services (such as Google Analytics) that help us better manage content on our web site by informing us what content is effective and which may also utilize cookies. The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+Advertising
 
-Social Media
+Some third party advertising partners may also use browser cookies. For advertising information and opt-out options please click here.
 
-Our Web site includes social media features, such as the Facebook like button (and widgets, such as a share button or interactive mini-programs that run on our site). These features may collect your IP address, which page you are visiting on our web site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Some third party advertising partners may also use local shared objects (also known as LSOs or Flash cookies) to collect and store information.
+
+Flash cookies are different from browser cookies because of how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
+
+Analytics
+
+We employ third party services (such as Google Analytics) that help us better manage content on our web site by informing us what content is effective and which may also utilize browser cookies. The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
 
 Clear Gifs (Web Beacons/Web Bugs)
 
 Some third party partners (such as ComScore) employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on a user’s computer, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to any personally identifiable information.
 
-Flash LSOs
-
-We use local shared objects (also known as LSOs or Flash cookies) to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information.
-
-Flash cookies are different from browser cookies because of how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
-
-http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
+Personally Identifiable Information (PII)Form Submission
 
 You may choose to provide us with personal information, by sending email with questions or comments or by filling out an online form and submitting it to us through our web site. We use this information to;
 
@@ -67,55 +67,57 @@ Drugs.com does not create individual profiles with the information you provide. 
 
 Your email message, question, or comment may be forwarded to authorized Drugs.com employees, contractors or subcontractors, who may be better able to help you. Except for authorized law enforcement investigations, we do not share email with any other outside organizations. However, email and online forms are not secure against interception and senders cannot expect guaranteed privacy.
 
-Security
-
-Drugs.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect all personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information (if any) on our site. If you have any questions about security on our web site, you can send an email using our contact form.
-
-Refer a Friend
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information.
-
 Registration
 
 In order to use some areas of this web site, you must first complete the registration form. During registration you are required to provide contact information such as your name, age, email address, preferred username, password and preferred subscriptions. We will only use this information to contact you about the services on our web site in which you have expressed interest. You also have the option to provide demographic information to us. we encourage you to submit this information so we can provide you a more personalized experience on our web site.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may update, delete, or deactivate your information by signing into your account or by emailing our Customer Support or by contacting us by telephone or postal mail at the contact information listed above.
 
-Email Disclosure
-
-If you subscribe to receive email, we will only send messages to notify you about the services on our site in which you have expressed interest. These emails may contain an occasional sponsor message. Email messages sent to you will always contain at least one clearly visible link to unsubscribe.
-
 Medication Lists
 
-To store a medication list, you will need to create a Drugs.com account. When you create an account, we ask for your email address and a secure password, which is used to protect your account from unauthorized access. You control who can access or edit the information stored in your medication list. Any information in your medication list will not be accessible to anyone beyond authorized web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. Drugs.com may use non-personally identifiable aggregate data to publish drug usage statistics, drug interaction data and drug treatment combinations. No data from a medication list will be sold to any other party.
+To store a medication list, you will need to create a Drugs.com account. You control who can access or edit the information stored in your medication list. It will not be accessible to anyone else except for authorized web site support staff or when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. Drugs.com may use non-personally identifiable aggregate data to publish drug usage statistics, drug interaction data and drug treatment combinations. No data from a medication list will be sold to any other party.
 
 Community Interaction
 
 If you choose to participate in any community oriented parts of the Drugs.com web site, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, you should be aware that any personally identifiable information you choose to submit can be read, collected, or used by others. We are not responsible for the personally identifiable information you choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
 
-Data Retention
+Social Media
 
-Web site access data is generally deleted within 90 days (such as IP addresses). For practical reasons, some personally identifiable information is retained until you choose to delete such information (where possible), or you choose to close your account, or your account is terminated.
+Our Web site includes social media features, such as the Facebook like button (and widgets, such as a share button or interactive mini-programs that run on our site). These features may collect your IP address, which page you are visiting on our web site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 Opting Out
 
 We provide you the opportunity to ’opt-out’ of having personally identifiable information used for certain purposes, when we ask for this information. For example, if you set up an account but do not wish to receive any additional marketing material from us, you can indicate your preference during signup. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter by signing into your account or by emailing us.
 
+For advertising opt-out options please click here.
+
 Removal
 
 To request the removal of publicly displayed personally identifiable information published on the Drugs.com web site, you may contact us through our support system. In order for us to consider your request, you are required to include links to any page(s) where you believe any such personally identifiable information exists. For each instance, you must also provide clear instructions describing the exact position/location of the personally identifiable information on any page and how it relates to you.
 
-Legal Disclosure
-
-Drugs.com reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-Advertising
-
-For third party advertising information and opt-out options please click here.
-
 Updating and Closing Your Account
 
 You may update or close/delete your account at any time. When a member is signed in a prominent link is provided to comprehensive account settings including options to permanently delete their account and to opt in or out of email newsletters. Deleting your account will also remove any personally identifiable information connected with this account.
+
+Refer a Friend
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information.
+
+Email Disclosure
+
+If you subscribe to receive email, we will only send messages to notify you about the services on our site in which you have expressed interest. These emails may contain an occasional sponsor message. Email messages sent to you will always contain at least one clearly visible link to unsubscribe.
+
+Security
+
+Drugs.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect all personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information (if any) on our site. If you have any questions about security on our web site, you can send an email using our contact form.
+
+Data Retention
+
+Web site access data is generally deleted within 90 days (such as IP addresses). For practical reasons, some personally identifiable information is retained until you choose to delete such information (where possible), or you choose to close your account, or your account is terminated.
+
+Legal Disclosure
+
+Drugs.com reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 Changes to the Privacy Policy
 
