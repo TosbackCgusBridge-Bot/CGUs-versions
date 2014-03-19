@@ -56,7 +56,7 @@ Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loa
     *   Virtual Umpire Camp CD-ROM
 *   _Reviving Baseball in Inner Cities (RBI)_
     *   RBI Home
-    *   2012 RBI World Series
+    *   RBI World Series
 *   Urban Youth Academy
 *   _Diverse Business Partners_
     *   Home
