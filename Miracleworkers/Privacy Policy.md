@@ -316,7 +316,6 @@ Partner Sites
 
 *   Therapy Jobs
 *   Nursing Jobs
-*   Allied Health Jobs
 *   Jobs Search
 *   IT Jobs
 *   Management &. Executive Jobs
