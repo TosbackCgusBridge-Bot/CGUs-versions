@@ -11,7 +11,6 @@ Your Cart(0) Catalog Navigation
     *   Fruit &. Nuts
     *   Sweets
     *   Wine Gifts
-    *   NEW! Reserve Collection
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
@@ -35,7 +34,6 @@ Search Catalog Search Menu Search Stores Cart
     *   Fruit &. Nuts
     *   Sweets
     *   Wine Gifts
-    *   NEW! Reserve Collection
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
