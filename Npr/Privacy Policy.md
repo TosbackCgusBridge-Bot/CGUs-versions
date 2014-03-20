@@ -23,6 +23,7 @@ Skip to Main Content Toggle search
     *   Visit NPR
     *   Volunteer
     *   Events
+    *   Host Your Event at NPR
     *   Ways to Listen
     *   Sign Up: Newsletters
     *   Book a Speaker
