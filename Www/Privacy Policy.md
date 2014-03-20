@@ -2,6 +2,8 @@ Our Online Privacy Policy
 
 En Espanol
 
+_Note: We're updating the White House privacy policy. The new policy will go into effect April 18, 2014 and can be seen here._
+
 The White House is committed to protecting individual privacy and securing the personal information made available to us when you visit WhiteHouse.gov, as well White House pages on other sites (such as official White House profiles on social networks).
 
 This privacy policy describes what information is made available to the White House and third parties when you visit WhiteHouse.gov or official White House pages on other sites, and how the White House uses and stores that information.
