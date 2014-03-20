@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help An inside view of Arab photography
+Search Help Scientists sound alarm on climate
 
 Also on NYTimes.com
 
-*   "I am Hello Kitty"
-*   It takes a village to protect a rhino
+*   Income gap, meet the longevity gap
+*   Questions over absence of cellphone calls from missing flight's passengers
 
   
 
@@ -282,3 +282,5 @@ Also on NYTimes.com
 *   Help
 *   Contact Us
 *   Site Feedback
+
+campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_var2 - 367324, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
