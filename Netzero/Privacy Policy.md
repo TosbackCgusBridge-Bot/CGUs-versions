@@ -48,6 +48,7 @@ In addition to information collected from you during registration, we collect in
 *   online surveys;
 *   contest and sweepstakes entries;
 *   technical and customer service calls.
+*   your voluntary submission of information;
 *   email correspondence with us. and
 *   acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 
