@@ -94,8 +94,8 @@ The industry's first audience discovery and digital data distribution platform �
     *   Media &. Publishing
     *   Technology Services
 
-Video: “One Size Fits No One”  
-Discover how personalization can drive superior results. Watch the video today »
+Upcoming Panel Discussion  
+Don't miss "Smashing Data Silos to Gain a Holistic View of the Customer" »
 
 *   Partners
     *   SYNC for Agencies
