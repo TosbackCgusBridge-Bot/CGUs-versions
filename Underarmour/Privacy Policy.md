@@ -39,7 +39,7 @@ When you visit our website, we receive and store certain types of information th
   
 **INFORMATION FROM OTHER SOURCES:**  
   
-If you have registered an account with us or placed an order through our website, to help us customize shopping for you, improve our communication with you, and improve our business overall, we may obtain certain demographic information about you from reputable third party sources such as Axciom Corporation. For example, in the event we determine that you live in a geographical area where the climate is usually cold and you have subscribed to receive email communications from us, we would be more likely to send you communications highlighting our ColdGear® product line rather than our HeatGear® product line. FOR WHAT PURPOSES DO WE COLLECT YOUR PERSONAL INFORMATION? We use the information that you provide to us via our website only for the following purposes: processing and fulfilling your order, responding to your requests and your product inquiries, direct marketing, customizing future shopping for you, improving our website, communicating with you and for our financial accounting purposes. Credit card information is used only for payment processing and fraud prevention.  
+If you have registered an account with us or placed an order through our website, to help us customize shopping for you, improve our communication with you, and improve our business overall, we may obtain certain demographic information about you from reputable third party sources such as Axciom Corporation. For example, in the event we determine that you live in a geographical area where the climate is usually cold and you have subscribed to receive email communications from us, we would be more likely to send you communications highlighting our ColdGear® product line rather than our HeatGear® product line. FOR WHAT PURPOSES DO WE COLLECT YOUR PERSONAL INFORMATION? We use the information that you provide to us via our website only for the following purposes: processing and fulfilling your order, responding to your requests and your product inquiries, direct marketing, customizing future shopping for you, improving our website, communicating with you and for our financial accounting purposes. Credit card information is used only for payment processing and fraud prevention. To help us make email communication more useful and interesting, we may receive a confirmation when you open email messages from www.UnderArmour.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email messages or other communications from us, please see the paragraph on “How do I opt out of receiving communications from Under Armour?” below.  
   
 **ORDER PLACEMENT:**  
   
@@ -47,7 +47,7 @@ Once you decide to place an order, if you are not a registered customer, you wil
   
 **EMAIL COMMUNICATIONS:**  
   
-To help us make email communication more useful and interesting, we may receive a confirmation when you open email messages from www.UnderArmour.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email messages or other communications from us, please see the paragraph on “How do I opt out of receiving communications from Under Armour?” below.  
+We will send you an email message to confirm any order that you place at ua.com and when such order is shipped. Additionally, we may send you a reminder by email if you have left something in your cart. Finally we may send you an email inviting you to provide a rating and review of any product you purchase at ua.com. If you do not want to receive email messages or other communications from us, please see the paragraph on “How do I opt out of receiving communications from Under Armour?” below.  
   
 **DIRECT MARKETING:**  
   
@@ -132,7 +132,7 @@ Phone: 888.727.6687
   
 Email: customerservice@underarmour.com  
   
-Please note that some email promotions are prepared well in advance. We appreciate your patience in giving us time to carry out your request. If you unsubscribe from our email updates, you will still receive order-related emails, including order confirmations and shipping confirmations.  
+Please note that some email promotions are prepared well in advance. We appreciate your patience in giving us time to carry out your request. If you unsubscribe from our email updates, you will still receive order-related emails, including order confirmations and shipping confirmations but you will not receive email reminders about items left in your shopping cart or invitations to rate and review products you have purchased.  
   
 **POSTAL MAIL OPT OUT:**  
   
