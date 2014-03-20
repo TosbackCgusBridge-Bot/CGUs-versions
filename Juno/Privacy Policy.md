@@ -48,7 +48,8 @@ In addition to information collected from you during registration, we collect in
 
 *   online surveys.
 *   contest and sweepstakes entries.
-*   technical and customer service calls. and
+*   technical and customer service calls.
+*   your voluntary submission of information. and
 *   email correspondence with us.
 
 Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.  
