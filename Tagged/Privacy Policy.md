@@ -1,13 +1,9 @@
-Join Tagged now - it's free!
+The Social Network for **meeting** new people
 
-Tagged is a great place to socialize with friends and meet new people.
-
-Make your own profile, share photos, chat, flirt, play games, and have fun!
-
-Sign in to Tagged
-
-*   Connect with Facebook
-*   Connect with Google
+*   It's Free!
+*   Join Tagged
+*   Join with Facebook
+*   Join with Google
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
@@ -581,4 +577,4 @@ Effective Date February 21, 2014
 
 Online Safety >>
 
-© 2014 Tagged Inc. Mobile About Blog Users Privacy Terms Online Safety Report Abuse Help English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย
+© 2014 Tagged Inc. Mobile About Careers Blog Users Privacy Terms Online Safety Report Abuse Help English English Bahasa Melayu Basa Jawa Español - América Latina Español - España Español - México Deutsch Français Italiano Magyar Nederlands Português - Brasil Português Русский Română Türkçe বাংলা 中文 (简体) 中文 (繁軆) हिन्दी 日本語 मराठी ਪੰਜਾਬੀ ไทย
