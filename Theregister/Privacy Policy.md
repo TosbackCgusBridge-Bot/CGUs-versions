@@ -1,9 +1,11 @@
 The Register is owned and operated by Situation Publishing Limited
 
 Situation Publishing Limited  
-36 Union Street  
+Unit 1  
+Portland Street Trading Estate  
+14 Portland Street  
 Southport  
-PR9 0QE
+PR8 1LJ
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
