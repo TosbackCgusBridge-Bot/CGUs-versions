@@ -112,13 +112,7 @@ This Privacy Policy shall be governed by the laws of the State of New York, with
   
 ™ and © 2007 - 2014 Rachael Ray Digital LLC.  All rights reserved. 
 
-Connect With Us! Like TeamRachael on Facebook Follow @TeamRachael TeamRachael on Pinterest Sign up for our Newsletter Follow @TeamRachael Sign up for our newsletters \* indicates required First Name \* Email Address \* **Email Format**
-
-*   html
-*   text
-*   mobile
-
-Advertisement Quick Links
+Connect With Us! Like TeamRachael on Facebook Follow @TeamRachael TeamRachael on Pinterest Sign up for our Newsletters Follow @TeamRachael Sign Up for Our Newsletters \* indicates required First Name \* Email Address \* Advertisement Quick Links
 
 *   Rachael Ray's Bio
 *   Rachael's Recipes
