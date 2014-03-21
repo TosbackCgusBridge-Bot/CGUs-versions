@@ -1,4 +1,4 @@
-| Preferences | Help Search Filter: Moderate
+| Preferences | Help Search Filter: Moderate All of these words: The exact phrase: Any of these words: None of these words: Image Color: All ColorsColorBlack &. White Image Size: All Image SizesSmallMediumLarge Language: Any LanguageDanishDutchEnglishFrenchGermanItalianNorwegianPortugueseSpanishSwedish Include Domain Exclude Domain
 
 *   Web
 *   |
