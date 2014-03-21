@@ -15,6 +15,7 @@ Search HowStuffWorks and the web
 *   Entertainment
 *   Health
 *   Home &. Garden
+*   Lifestyle
 *   Money
 *   Science
 *   Tech
