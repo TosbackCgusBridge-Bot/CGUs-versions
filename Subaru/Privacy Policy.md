@@ -433,7 +433,7 @@ Enthusiasts
 
 *   Overview
 *   Dear Subaru
-*   Rally
+*   Motorsports
 *   Events
 *   Subaru Gear
 *   Drive Magazine
