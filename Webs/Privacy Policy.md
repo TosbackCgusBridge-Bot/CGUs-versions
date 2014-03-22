@@ -1,4 +1,4 @@
-Webs Sign Up Free Please enter a valid email address and password Forgot Password? Sign In
+Webs
 
 *   How It Works
 *   Themes
@@ -6,7 +6,7 @@ Webs Sign Up Free Please enter a valid email address and password Forgot Passwor
 *   Why Webs
 *   Plans
 
-Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
+Please enter a valid email address and password Forgot Password? Sign In Sign Up Free Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
 
 The services offered by Vistaprint Netherlands B.V., which is affiliated with Webs ("Webs" or "us" or "we" or "our") include the websites at http://www.webs.com and http://www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "the Sites") and any other features, content, services or applications offered, from time to time, by us, or by third party Paid Service providers (collectively, the "Services").
 
