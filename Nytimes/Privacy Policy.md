@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Video: Wearable tech embraces fashion
+Search Help Why San Francisco is not New York
 
-Also in Video »
+Also in Tech »
 
-*   Video: The rise of the Phablet
-*   Video: Securing your phone
+*   Twitter rolls out easier, faster video playback
+*   A practical guide to buying and selling smartphones that last
 
   
 
@@ -283,4 +283,4 @@ Also in Video »
 *   Contact Us
 *   Site Feedback
 
-campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_var1 - 367323, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
+campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_control - 367325, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
