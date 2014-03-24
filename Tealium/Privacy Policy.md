@@ -278,5 +278,3 @@ Founded in 2008, Tealium is the leader in enterprise tag management and digital 
 *   Privacy Policy
 
 Copyright © 2014 Tealium. All Rights Reserved.
-
-*   Welcome To Tealium.com
