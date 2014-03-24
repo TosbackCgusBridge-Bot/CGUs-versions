@@ -71,7 +71,7 @@ Registration
 
 In order to use some areas of this web site, you must first complete the registration form. During registration you are required to provide contact information such as your name, age, email address, preferred username, password and preferred subscriptions. We will only use this information to contact you about the services on our web site in which you have expressed interest. You also have the option to provide demographic information to us. we encourage you to submit this information so we can provide you a more personalized experience on our web site.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update, delete, or deactivate your information by signing into your account or by emailing our Customer Support or by contacting us by telephone or postal mail at the contact information listed above.
+If your personally identifiable information changes, or if you no longer desire our service, you may update, delete, or deactivate your information by signing into your account or by emailing our Customer Support or by contacting us by telephone or via courier at the contact information listed above.
 
 Medication Lists
 
@@ -79,7 +79,7 @@ To store a medication list, you will need to create a Drugs.com account. You con
 
 Community Interaction
 
-If you choose to participate in any community oriented parts of the Drugs.com web site, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, you should be aware that any personally identifiable information you choose to submit can be read, collected, or used by others. We are not responsible for the personally identifiable information you choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
+If you choose to participate in any community oriented parts of the Drugs.com web site, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, you should be aware that any personally identifiable information you choose to submit can be read, collected, used by others and may appear in search engines. We are not responsible for the personally identifiable information you choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
 
 Social Media
 
