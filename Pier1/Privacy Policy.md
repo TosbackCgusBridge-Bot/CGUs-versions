@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: This Privacy Policy was last revised on March 20, 2014
+Effective Date: This Privacy Policy was last revised on March 21, 2014
 
 Introduction and Overview
 
