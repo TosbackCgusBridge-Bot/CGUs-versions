@@ -21,7 +21,6 @@ Quickly find your recently played games: we'll add the last 6 games you played t
 *   More
     *   War Games
     *   Board &. Card
-    *   Sonic Games
     *   Awards
     *   High scores
     *   Mobile &. Tablet Games
