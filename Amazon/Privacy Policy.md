@@ -6,13 +6,13 @@ Nous savons que vous êtes attentifs à l'utilisation et au partage de vos infor
 
 *   Responsable du traitement
 *   Quelles sont les informations des clients collectées par Amazon.fr ?
-*   Qu'en est-il des «cookies » ?
+*   Qu'en est-il des « cookies » ?
 *   Amazon.fr partage-t-elle les informations qu'elle reçoit ?
 *   Mes informations personnelles sont-elles protégées ?
 *   Qu'en est-il des Annonceurs Tiers et des Liens vers d'autres Sites Internet ?
 *   A quelles informations puis-je avoir accès ?
 *   Quels choix me sont proposés ?
-*   Les enfants sont-ils autorisés à utiliser Amazon.fr?
+*   Les enfants sont-ils autorisés à utiliser Amazon.fr ?
 *   Notices et révisions
 *   Exemples d'informations collectées
 
@@ -21,7 +21,7 @@ Nous savons que vous êtes attentifs à l'utilisation et au partage de vos infor
 
 Tout traitement des informations personnelles communiquées à Amazon.fr est effectué sous la responsabilité, premièrement, d'Amazon EU SARL et Amazon Services Europe SARL et Amazon Media EU SARL, les trois entités situées au 5 rue Plaetis, L -2338Luxembourg, les responsables du traitement, et deuxièmement, d'Amazon.fr SAS, le sous traitant, situé au 67 Boulevard du Général Leclerc - 92110 Clichy.
 
-Amazon.com, Inc. et les filiales qu'elle contrôle aux Etats-Unis, participent au programme Safe Harbour(« la Sphère de Sécurité ») développé par le ministère américain du Commerce et par l'Union européenne. Ces sociétés du groupe Amazon ont certifié qu'elles adhèrent aux principes de protection des données personnelles du Safe Harbour (« la Sphère de Sécurité »)acceptés conjointement par les États-Unis et l'Union européenne. Pour plus d'informations concernant le Safe Harbour et pour voir la certification de ces sociétés du groupe Amazon, nous vous invitons à visiter le site Internet Safe Harbour du département américain du commerce. Si vous souhaitez contacter Amazon directement concernant le programme Safe Harbour, veuillez envoyer une-mail à safeharbour@amazon.com.
+Amazon.com, Inc. et les filiales qu'elle contrôle aux Etats-Unis, participent au programme Safe Harbour(« la Sphère de Sécurité ») développé par le ministère américain du Commerce et par l'Union européenne. Ces sociétés du groupe Amazon ont certifié qu'elles adhèrent aux principes de protection des données personnelles du Safe Harbour (« la Sphère de Sécurité »)acceptés conjointement par les États-Unis et l'Union européenne. Pour plus d'informations concernant le Safe Harbour et pour voir la certification de ces sociétés du groupe Amazon, nous vous invitons à visiter le site Internet Safe Harbour du département américain du commerce. Si vous souhaitez contacter Amazon directement concernant le programme Safe Harbour, veuillez envoyer un e-mail à safeharbour@amazon.com.
 
 **Quelles sont les informations des clients collectées par Amazon.fr ?**  
 
@@ -102,7 +102,7 @@ Amazon.fr vous donne accès à un large choix d'informations à propos de votre 
 **Quels choix me sont proposés ?  
 **
 
-Comme mentionné ci-dessus, vous avez toujours la possibilité de ne communiquer aucune information, même si certaines informations sont nécessaires pour effectuer des achats ou pour utiliser des fonctionnalités d'Amazon comme «Chez Vous », Vos listes d'envies, vos commentaires clients et Amazon Premium.
+Comme mentionné ci-dessus, vous avez toujours la possibilité de ne communiquer aucune information, même si certaines informations sont nécessaires pour effectuer des achats ou pour utiliser des fonctionnalités d'Amazon comme « Chez Vous », Vos listes d'envies, vos commentaires clients et Amazon Premium.
 
 Conformément aux dispositions en vigueur vous disposez d'un droit d'accès, de modification, de rectification et de suppression des informations vous concernant. Vous pouvez exercer ces droits sur les pages citées dans la section "À quelles informations puis-je avoir accès" Si vous mettez une information à jour, nous conservons généralement une copie de vos informations initiales dans nos dossiers.
 
@@ -142,7 +142,7 @@ Les commentaires en ligne
 
 **Informations que vous nous communiquez**
 
-Vous nous fournissez des informations quand vous effectuez une recherche, un achat, vous faites une offre, vous prenez part à un jeu concours ou à un questionnaire ou communiquez avec notre Service Client. C'est par exemple le cas lorsque vous recherchez un produit, passez une commande ou quand vous complétez «Votre compte» (vous pouvez d'ailleurs disposer de plusieurs comptes si vous vous êtes inscrit en donnant différentes adresses e-mail) ou la rubrique«Chez Vous», quand vous nous contactez par téléphone, par e-mail, ou par tout autre moyen, complétez un questionnaire ou un bulletin de participation à un concours, utilisez nos services, créez « Vos listes d'envies», participez à des forum de discussion ou autres modes de communication en commun, quand vous rédigez ou notez des commentaires, quand vous paramétrez un "Rappel de vos évènements" ou des "Alertes sur la disponibilité des Produits". Ces informations peuvent être votre nom,adresse et numéro de téléphone, des informations sur votre carte bancaire, les noms, adresses et numéros de téléphone des destinataires des produits achetés, les personnes que vous mentionnez dans vos coordonnées1-Click(avec leur adresse et numéro de téléphone), les adresses e-mail des"Amazon Friends" et autres personnes, le contenu des commentaires et des e-mails que vous nous avez adressés, votre description personnelle et photographie dans la rubrique «Chez Vous»et des données financières.
+Vous nous fournissez des informations quand vous effectuez une recherche, un achat, vous faites une offre, vous prenez part à un jeu concours ou à un questionnaire ou communiquez avec notre Service Client. C'est par exemple le cas lorsque vous recherchez un produit, passez une commande ou quand vous complétez «Votre compte» (vous pouvez d'ailleurs disposer de plusieurs comptes si vous vous êtes inscrit en donnant différentes adresses e-mail) ou la rubrique«Chez Vous», quand vous nous contactez par téléphone, par e-mail, ou par tout autre moyen, complétez un questionnaire ou un bulletin de participation à un concours, utilisez nos services, créez « Vos listes d'envies», participez à des forum de discussion ou autres modes de communication en commun, quand vous rédigez ou notez des commentaires, quand vous paramétrez un "Rappel de vos évènements" ou des "Alertes sur la disponibilité des Produits". Ces informations peuvent être votre nom, adresse et numéro de téléphone, des informations sur votre carte bancaire, les noms, adresses et numéros de téléphone des destinataires des produits achetés, les personnes que vous mentionnez dans vos coordonnées1-Click(avec leur adresse et numéro de téléphone), les adresses e-mail des"Amazon Friends" et autres personnes, le contenu des commentaires et des e-mails que vous nous avez adressés, votre description personnelle et photographie dans la rubrique « Chez Vous » et des données financières.
 
 **Informations collectées automatiquement**
 
@@ -162,7 +162,7 @@ A l'avenir, sous réserve de votre accord donné dans Votre Compte, nous pourron
 
 **Informations auxquelles vous avez accès**
 
-Quelques exemples d'informations auxquelles vous avez facilement accès sur le site Amazon.fr : les informations à jour sur vos commandes récentes, vos informations personnelles (notamment vos nom, adresse e-mail et mot de passe, vos préférences de communication, votre carnet d'adresses et coordonnées 1-Click), des informations sur les modalités de paiement (notamment les informations sur les cartes bancaires, les chèques-cadeaux et les consultations du compte), vos préférences sur les informations que vous souhaitez recevoir par e-mail(notamment concernant les « Alertes sur la disponibilité des produits », les livraisons, les « Rappels de vos évènements », les «Emails d'information »), les recommandations (y compris « Recommandé pour Vous » et « Améliorer vos Recommandations »), vos listes d'achat et de cadeaux (y compris « Vos listes d'envies» et vos listes de naissance et de mariage), les comptes des vendeurs ainsi que la rubrique « Chez Vous » (notamment vos commentaires, vos conseils personnalisés, vos listes thématiques «Listmania », rappels et profil personnel).
+Quelques exemples d'informations auxquelles vous avez facilement accès sur le site Amazon.fr : les informations à jour sur vos commandes récentes, vos informations personnelles (notamment vos nom, adresse e-mail et mot de passe, vos préférences de communication, votre carnet d'adresses et coordonnées 1-Click), des informations sur les modalités de paiement (notamment les informations sur les cartes bancaires, les chèques-cadeaux et les consultations du compte), vos préférences sur les informations que vous souhaitez recevoir par e-mail(notamment concernant les « Alertes sur la disponibilité des produits », les livraisons, les « Rappels de vos évènements », les «Emails d'information »), les recommandations (y compris « Recommandé pour Vous » et « Améliorer vos Recommandations »), vos listes d'achat et de cadeaux (y compris « Vos listes d'envies » et vos listes de naissance et de mariage), les comptes des vendeurs ainsi que la rubrique « Chez Vous » (notamment vos commentaires, vos conseils personnalisés, vos listes thématiques « Listmania », rappels et profil personnel).
 
 **Offres commerciales en « co-branding » ou en partenariat**
 
