@@ -23,7 +23,7 @@ Remember me on this computer Sign in
     *   Search
     *   Clippings
     *   Alerts hub
-    *   FT.com terms and conditions
+    *   Terms and conditions
     *   Commenting
     *   Gift Article
     *   RSS
