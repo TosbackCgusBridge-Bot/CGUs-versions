@@ -295,9 +295,9 @@ Searches:
     *   LinkedIn
     *   Flickr
     *   Subscribe to our RSS feeds
+    *   Softonic App
     *   Softonic for Windows
     *   Softonic Answers
-    *   Softonic Moba
     *   Softonic Newsletter
     *   OnSoftware
 
