@@ -158,7 +158,7 @@ Products
 *   TV
 *   Internet
 *   Phone
-*   IntelligentHome
+*   Home Security
 
 Services
 
