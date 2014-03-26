@@ -111,8 +111,8 @@ Learn more about our fast-growing digital marketing ecosystem »
     *   Tealium University
     *   Tealium Learning Community
 
-Digital Velocity 2014  
-Join us Jan. 22–24, 2014, for the industry’s most comprehensive user conference »
+Digital Velocity Europe 2014  
+Join us June 12, 2014, for the industry’s most comprehensive user conference »
 
 *   Resources
     *   Case Studies
@@ -271,7 +271,7 @@ France
 
 About Tealium
 
-Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications.
+Tealium helps savvy brands bring order to marketing chaos and engage customers in innovative ways. Using Tealium as the foundation for their digital marketing operations, smart marketers can fuel real-time unified marketing initiatives and drive more profitable customer interactions across all digital touch points.
 
 *   Site Map
 *   Terms of Use
