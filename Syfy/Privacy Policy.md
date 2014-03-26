@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
+Syfy Video The People Need a Hero - Metal Hurlant Chroni ... The People Need a Hero - Metal Hurlant Chronicles
+
+Metal Hurlant Chronicles premieres with back to back episodes on Syfy on Monday April 14th at 10/9c.
+
+Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
 
 From the revolutionary comics anthology, comes Metal Hurlant Chronicles with back to back episodes starting Monday April 14th at 8/7c.
 
@@ -262,10 +266,6 @@ Dominion is where heaven meets hell. Premering on Syfy, June 2014.
 Defiance - Season 2 Tease Defiance - Season 2 Tease
 
 Check out the tease for Season 2 of Defiance! Coming this June.
-
-Warehouse 13 - They're Back for the Last Time Warehouse 13 - They're Back for the Last Time
-
-Warehouse 13 is back for its final season, premiering Monday April 14 at 9/8c.
 
 *   FAQ
 *   Feedback
