@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Apple after Jobs: Pretty much the same as ever
+Search Help 100 examples of the epitome of cool
 
-Also in Tech »
+Also in Arts »
 
-*   Name-calling in the virtual playground
-*   Facebook's hack, a language of tech competition
+*   After the exhibition, finding new uses for displays
+*   Is there a doctor in the exhibition?
 
   
 
