@@ -85,7 +85,6 @@
     
     Today campaigns are directing more money to online advertising and the percentage of money being spent online is rising dramatically.
     
-    *   Audience Targeting with Aristotle
     *   Build Your Database
     *   Fundraising
     *   Rapid Response
@@ -98,8 +97,8 @@
     
     *   190+ million voters
     *   500+ targeting data points
-    *   1 million + FatCat™ contributors
-    *   SuperVoters™Learn More
+    *   3,100 counties
+    *   157 nationsLearn More
 *   Our Company Who We Are
     
     Intermarkets specializes in full-service advertising solutions for publishers, advertisers, and agencies.
