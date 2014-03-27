@@ -1,8 +1,8 @@
-Privacy Policy Truste. Click to verify
+Privacy Policy
 
 **Publishers Clearing House Privacy Policy**
 
-Last Updated: October 25, 2013
+Last Updated: March 26,2014
 
 At Publishers Clearing House we take your privacy seriously, which is why we developed this privacy policy to explain our online information collection and use practices. Unless otherwise noted, the information and descriptions in this online Privacy Policy are limited strictly to online transactions and do not apply to the off line privacy, data collection and data transfer policies of Publishers Clearing House.
 
