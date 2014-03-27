@@ -140,7 +140,7 @@ If you have any question or need help with your account, you may Contact Us to a
 
 Customer Service  
 Monday to Friday  
-8 AM to 6 PM EST  
+8:30 AM to 6 PM EST  
 1.800.776.4111
 
 Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up
