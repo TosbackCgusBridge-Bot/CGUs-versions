@@ -88,7 +88,7 @@ Changes to this Privacy Policy: We reserve the right to change this Privacy Poli
 
 Questions?
 
-If you have questions regarding our Internet Privacy Policy please contact us at:<address>Dillard's, Inc.<br>Attn: Legal Dept.<br>1600 Cantrell Road<br>Little Rock, AR 72201<br>1-800-643-8274</address>Or email us at <a href="mailto:internationalservice@dillards.com">internationalservice@dillards.com</a><br><br>Last Revised: November 14, 2012.
+If you have questions regarding our Privacy Policy please contact us at:<address>Dillard's, Inc.<br>Attn: Legal Dept.<br>1600 Cantrell Road<br>Little Rock, AR 72201<br>1-800-643-8274</address>Or email us at <a href="mailto:internationalservice@dillards.com">internationalservice@dillards.com</a><br><br>Last Revised: March 26, 2014.
 
 Legal Notices - Terms of Use
 
