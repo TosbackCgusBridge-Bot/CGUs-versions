@@ -380,8 +380,7 @@ Gliederung
 TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   AUTO
-*   Benzinpreis-  
-    vergleich
+*   Benzinpreis
 *   Bußgeld-  
     rechner
 *   Neu-/Gebraucht-  
