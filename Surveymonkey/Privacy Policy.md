@@ -298,6 +298,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Privacy Policy
 *   Anti-Spam Policy
 *   Security Statement
+*   Email Opt-In
 
 _°_
 
