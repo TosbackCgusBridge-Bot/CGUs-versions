@@ -404,3 +404,6 @@ Boise, ID 83713
 USA  
 Phone: 1-877-991-3411 (Toll-Free) or +1-208-377-9002 (International)  
 Email: webmaster@bodybuilding.com
+
+  
+Rate This Article poor 1 2 3 4 5 6 7 8 9 10 excellent Your rating has been updated. Due to technical difficulties, your rating was unable to post. If this problem persists, please contact us. OVERALL RATING 9 Out of 10 _0 Ratings_
