@@ -1,6 +1,6 @@
 *   **PagesJaunes**
 *   PagesBlanches
-*   De pros à pros
+*   PagesJaunes Pro
 
 *   Annuaire  
     inversé
@@ -357,7 +357,7 @@ Si vous ne souhaitez pas que vos données de navigation soient collectées à de
        
     **Contacts commerciaux**  
       
-    Pour répondre aux besoins commerciaux des entreprises, la société PagesJaunes Marketing Services et en particulier le site http:///www.pagesjaunes-marketingservices.com/  permettent d'acquérir en toute légalité des données issues des annuaires de PagesJaunes.
+    Pour répondre aux besoins commerciaux des entreprises, la société PagesJaunes Marketing Services et en particulier le site /www.pagesjaunes-marketingservices.com/ permettent d'acquérir en toute légalité des données issues des annuaires de PagesJaunes.
     
 *    Haut de page
     
@@ -535,10 +535,94 @@ Ce site et son contenu sont la propriété exclusive de PagesJaunes© Tous droit
 *   Haut de page
     
 
+**Conditions d’utilisation : mentions particulières pour réserver une table dans un restaurant.**
+
+La société PagesJaunes propose un service gratuit de réservation de table de restaurant disponible sur le Service PagesJaunes accessible à l’adresse www.pagesjaunes.fr, sur les supports fixe, mobile et tablette (« Service de Réservation de Table »).
+
+Les présentes mentions particulières ont pour objet de définir les conditions et modalités de la mise à la disposition du Service de Réservation de Table.
+
+Toute personne qui réserve une table au moyen du Service de Réservation de Table est soumise aux Conditions Générales du Service PagesJaunes ainsi qu’aux présentes mentions particulières.
+
+**1. ** **Description du Service de Réservation de Table**
+
+Le Service de Réservation de Table proposé par PagesJaunes vous permet de rechercher et de réserver en ligne une table d'un restaurant, de bénéficier le cas échéant de promotions proposées par les restaurants.
+
+**2. ** **Utilisation du Service de Réservation de Table** 
+
+**Fonctionnement**
+
+Le Service de Réservation de Table proposé est gratuit. En revanche, l’Utilisateur reconnaît que la prestation de restauration assurée par les restaurateurs est payante.
+
+L’utilisation du Service de Réservation de Table ne nécessite pas la création d’un compte. En revanche, pour effectuer une réservation, l’Utilisateur doit compléter un formulaire et obligatoirement renseigner ses nom, prénom, civilité, numéro de téléphone et adresse email (« Formulaire de Réservation de Table »). Ces données sont indispensables pour les besoins de la réservation et notamment pour la confirmation de votre réservation auprès du restaurateur concerné. Il est de votre responsabilité de vous assurer que les données que vous renseignez soient exactes et complètes.
+
+L'Utilisateur accepte l'usage de la messagerie électronique pour la transmission des informations qu'il demande concernant la conclusion ou l'exécution du contrat.
+
+Lorsque l’Utilisateur utilise le Service de Réservation de Table proposé par PAGESJAUNES, il dispose d’un certain nombre d’informations concernant les restaurants tels que notamment le nom, l’adresse postale, le numéro de téléphone, les coordonnées GPS du restaurant, le prix moyen et/ou la gamme de prix, le type de cuisine, les horaires et congés prévisionnels du restaurateur et le cas échéant, ses promotions. L’Utilisateur est informé que ces informations sont collectées auprès des restaurateurs et/ou ses partenaires. 
+
+**Les promotions**
+
+Le Service de Réservation de Table peut contenir des promotions proposées et fournies par les restaurateurs ou des tiers partenaires.
+
+Les conditions de validité de ses promotions sont indiquées au sein de chaque promotion. L'Utilisateur s'oblige à vérifier les conditions de validité d'une promotion avant d’effectuer une réservation.
+
+Ces promotions sont relayées par PagesJaunes, de sorte que PagesJaunes ne dispose d’aucun contrôle éditorial sur les promotions proposés qui sont édités par les restaurateurs et/ou tiers partenaires.
+
+Certaines promotions fournies par notre partenaire LAFOURCHETTE sont identifiables sur le service par le biais d’une signalétique « LAFOURCHETTE » (ci-après, « Promotions LAFOURCHETTE »). Ces promotions concernent des restaurateurs partenaires de LAFOURCHETTE.
+
+En aucun cas, la société PAGESJAUNES ne saurait être responsable des promotions relayées sur son service, lesquelles sont publiées sous la responsabilité des restaurateurs.
+
+**Les Avis**
+
+Le Service de Réservation de Table peut contenir des avis d’Utilisateurs. La publication d’avis sur le service est soumise aux conditions particulières applicables au service contributif de PagesJaunes.
+
+L’Utilisateur est informé que certains avis sont fournis par notre partenaire LAFOURCHETTE. Ces avis sont identifiables sur le service par le biais d’une signalétique « LAFOURCHETTE » et sont soumis aux conditions générales du partenaire LAOURCHETTE.
+
+**3\.** **Limitations de responsabilité**
+
+Dans le cadre du Service de Restaurants de Table, PagesJaunes relaye des contenus et informations agrégés et fournis par les restaurateurs ou des tiers partenaires, pour lesquels PagesJaunes ne dispose d’aucun contrôle éditorial, tels que les informations concernant les restaurants et le cas échéant, ses promotions. En conséquence, la responsabilité de Pagesjaunes ne peut être engagée du fait de tiers, en particulier quant aux contenus et informations fournis par les restaurateurs ou des tiers partenaires. 
+
+La société PAGESJAUNES ne garantit pas que ces informations soient complètes ou exactes.  Ces informations sont proposées sur le service en l’état, sans aucune garantie expresse ou tacite de quelque sorte que ce soit. La société PagesJaunes vous recommande d'utiliser ces informations avec toute la prudence nécessaire.
+
+L’Utilisateur reconnaît que la société PAGESJAUNES ne pouvant pas vérifier l'exactitude des renseignements collectés et/ou donnés par les restaurateurs ou des tiers partenaires, l’Utilisateur accepte que la responsabilité de la société PAGESJAUNES ne puisse être recherchée ni engagée si l'utilisateur ne parvient pas à bénéficier des prestations du restaurant, si sa réservation est annulé, s’il ne parvient pas à bénéficier des promotions proposées par les restaurants ou encore en cas de refus de prestation de la part du restaurateur, et ce pour quelque cause que ce soit.
+
+De même, la société PAGESJAUNES exclut toute responsabilité quant aux prestations et/ou produits et/ou services des restaurateurs, lesquels sont fournis et/ou assurées sous la responsabilité de ceux-ci.
+
+La société PAGESJAUNES ne garantit pas à l'Utilisateur qu'il soit satisfait des produits, services et/ou pratiques commerciales des restaurateurs, ni que.
+
+**4. ** **Réclamation clients**
+
+Toute réclamation concernant une réservation effectuée sur le Service de Réservation de Table doit être adressée, par email reservation-restaurant@pagesjaunes.fr ou par LRAR  au Centre de Relations Clients "CRC" de PagesJaunes, 7, avenue de la Cristallerie, 92317 Sèvres Cedex. Votre courrier doit indiquer les mentions suivantes en objet : « réservation de table ».
+
+**5. ** **Notification de contenu illicite**
+
+La société PAGESJAUNES informe tout Utilisateur du Service de Réservation de Table qu'il peut notifier une réclamation ou une objection quant à des éléments ou des contenus illicites présents sur le service. L’Utilisateur doit adresser immédiatement une notification conforme à l’article6-I-5 de la Loi pour la Confiance dans l’Economie Numérique n°2004-575 du 21 juin 2004, à la société PagesJaunes, par courrier LRAR au Centre de Relations Clients "CRC" de PagesJaunes, 7, avenue de la Cristallerie, 92317 Sèvres Cedex. Votre courrier doit indiquer les mentions suivantes en objet : « réservation de table » ou par email reservation-restaurant@pagesjaunes.fr et contenant tous les éléments justifiants le caractère illicite du contenu en cause.
+
+**6. ** **Protection des données à caractère personnel**
+
+Concernant les Données personnelles, merci de vous reporter à l’onglet « Données personnelles » en cliquant ici
+
+Pour toute information sur la protection des données personnelles vous pouvez consulter le site de la CNIL à l'adresse suivante: http://www.cnil.fr/.
+
+**Collecte des données**
+
+Les données à caractère personnel collectées dans le cadre du Service de Réservation de Table sont recueillies dans le strict respect des dispositions relatives à la protection des données personnelles et font l’objet d’un traitement automatisé d'informations nominatives auprès de la CNIL.
+
+L’Utilisateur est informé que les données à caractère personnel peuvent faire l'objet d'opérations de traitement par un sous-traitant ou une personne agissant sous l'autorité de la société PAGESJAUNES en tant que responsable du traitement.
+
+L'Utilisateur est informé que les données le concernant collectées sur le formulaire de réservation (ses nom, prénom, civilité, numéro de téléphone et adresse email) sont nécessaires à l'utilisation du Service de Réservation de Table et sont utilisées uniquement dans le cadre de ce service.
+
+L’Utilisateur accepte que la société PAGESJAUNES lui adresse des newsletters, sauf opposition de sa part.
+
+L’Utilisateur est informé que ces données sont destinées à la société PAGESJAUNES, ses partenaires et/ou restaurateurs, ce que l’Utilisateur accepte sans réserve.
+
+**Droit d'accès, de rectification et d'opposition**
+
+Conformément à la Loi Informatique et Libertés du 6 janvier 1978 modifiée, l'utilisateur bénéficie d'un droit d'accès et de rectification de ces données qu'il peut exercer en  adressant un message à l'adresse électronique suivante : cil-pjg@pagesjaunes.fr ou par LRAR au Centre de Relations Clients "CRC" de PagesJaunes, 7, avenue de la Cristallerie, 92317 Sèvres Cedex. 
+
 **Conditions d'utilisation :** **mentions particulières** **pour réserver un hôtel en ligne**  
  
 
-Le service de réservation d’hôtels accessible sur www.pagesjaunes.fr(« Service de Réservation PagesJaunes »)  permet aux internautes de chercher et de faire des réservations en ligne de chambres d’hôtel.  
+Le service de réservation d’hôtels accessible sur www.pagesjaunes.fr (« Service de Réservation PagesJaunes »)  permet aux internautes de chercher et de faire des réservations en ligne de chambres d’hôtel.  
   
 L’utilisateur du Service de Réservation PagesJaunes accepte de se conformer aux conditions générales ci-dessous : « Conditions Générales applicables au Service de Réservation PagesJaunes».  
   
