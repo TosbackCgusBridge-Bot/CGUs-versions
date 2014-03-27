@@ -1,56 +1,19 @@
-Skip to main content area
-
-*   Investors
-*   Support
-*   Zynga.org
-
+*   play now
 *   games
 *   news
-*   careers
-*   about
+*   community
+    *   player support
+    *   forums
 
-Zynga Play now!
+You are here Home Privacy Policy
 
-*   Investors
-*   Support
-*   Zynga.org
+*   Privacy Policy
+*   PrivacyVille
+*   Cookies
+*   Frequently Asked Questions
+*   Privacy Resources
 
-*   games
-    *   Play on Zynga.com
-    *   Featured Games
-    *   Facebook Games
-    *   Mobile Games
-*   news
-    *   Press Releases
-    *   Company Images
-    *   Company Blog
-    *   Engineering Blog
-*   careers
-    *   About Careers
-    *   Careers by Category
-    *   Careers by Location
-    *   Life at Zynga
-    *   Benefits
-    *   University Careers
-*   about
-    *   About Zynga
-    *   Our Story
-    *   Board of Directors
-    *   Investors
-    *   Leadership Team
-
-Follow @zynga
-
-Privacy
-
-*   Privacy
-    *   PrivacyVille
-    *   FAQ
-    *   Resources
-    *   Cookies
-    *   Privacy Policy
-
-Privacy Policy Languages EnglishFrançaisDeutschItaliano日本語한국어Portuguese, InternationalEspañol
+EnglishFrançaisDeutschItaliano日本語한국어Portuguese, InternationalEspañol
 
 (Last updated on September 30, 2011)
 
@@ -60,7 +23,12 @@ Zynga has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy
 
   
   
-The TRUSTe program only covers information that is collected through Zynga websites and applications (games), and does not cover information that may be collected through any software downloaded from Zynga websites. Table of Contents
+  
+  
+
+The TRUSTe program only covers information that is collected through Zynga websites and applications (games), and does not cover information that may be collected through any software downloaded from Zynga websites.
+
+Table of Contents
 
 1.  Introduction
 2.  Information We Collect
@@ -95,7 +63,9 @@ If you access our games from a third party Social Networking Site ("SNS"), you m
 
 back to top
 
-2 Information We Collect
+2
+
+Information We Collect
 
 **Information about You Received from an SNS**
 
@@ -158,7 +128,9 @@ You may have the opportunity to download and install a Zynga branded toolbar (th
 
 back to top
 
-3 How We Collect Information about You
+3
+
+How We Collect Information about You
 
 We may collect information about you in any one or more of the following ways:
 
@@ -192,7 +164,9 @@ We may collect or receive information from other sources including (i) other Zyn
 
 back to top
 
-4 How We Use the Information We Collect
+4
+
+How We Use the Information We Collect
 
 In general, We collect, store and use your information to provide you with a safe, smooth, efficient, and customized experience. For example, We may use information collected from you in any one or more of the following ways:
 
@@ -212,7 +186,9 @@ One important use of your information is communication. If you have provided you
 
 back to top
 
-5 Sharing of Your Information
+5
+
+Sharing of Your Information
 
 We will share your information (in some cases personal information) with third parties, that is parties other than Zynga, in the following circumstances:
 
@@ -248,13 +224,17 @@ In the event that Zynga undergoes a business transition, such as a merger, acqui
 
 back to top
 
-6 Our Policies Concerning Children
+6
+
+Our Policies Concerning Children
 
 Our websites and games are not intended for children under the age of 13 and We do not knowingly collect any personal information from such children. Children under the age of 13 should not use our websites or games at any time. In the event that We learn that We have inadvertently gathered personal information from children under the age of 13, We will take reasonable measures to promptly erase such information from our records.
 
 back to top
 
-7 How to Access and Update Your Information
+7
+
+How to Access and Update Your Information
 
 **Information We Receive From an SNS Where You Play Our Games**
 
@@ -273,7 +253,9 @@ Once Zynga receives your information from an SNS, that information is stored and
 
 back to top
 
-8 Your Sharing and Messaging Options
+8
+
+Your Sharing and Messaging Options
 
 **Information We Receive from Third Party SNS Where You play a Zynga Game**
 
@@ -293,7 +275,9 @@ Note that if you opt-out of our Promotional Communications or other forms of com
 
 back to top
 
-9 International Operations and Transfers out of Switzerland and the EEA
+9
+
+International Operations and Transfers out of Switzerland and the EEA
 
 Personal data of users that reside outside of the United States is jointly controlled by Zynga Game Ireland Ltd. and Zynga Luxembourg S.a.r.l.
 
@@ -307,13 +291,17 @@ We will take reasonable steps to ensure that your data is treated securely and i
 
 back to top
 
-10 Privacy Policies of Linked Sites and Advertisers
+10
+
+Privacy Policies of Linked Sites and Advertisers
 
 Our websites and games may contain advertisements from companies other than Zynga that may link to their own websites. We are not responsible for the privacy practices or the content of such websites. If you have any questions about how these other websites use your information, you should review their policies and contact them directly.
 
 back to top
 
-11 Security of Your Information
+11
+
+Security of Your Information
 
 Zynga implements reasonable security measures to protect the security of your information both online and offline, and We are committed to the protection of customer information.
 
@@ -325,7 +313,9 @@ Unfortunately, the transmission of information over the Internet is not complete
 
 back to top
 
-12 Changes to Our Privacy Policy
+12
+
+Changes to Our Privacy Policy
 
 We may make P3P – compact machine-readable – policies and headers available. If we do so, we will try to ensure that they are consistent with this human readable policy. However, in the event of a conflict between a machine-readable policy and this policy, this (human readable) policy will control.
 
@@ -333,7 +323,9 @@ If We decide to make material changes to our Privacy Policy, We will notify you 
 
 back to top
 
-13 Your California Privacy Rights
+13
+
+Your California Privacy Rights
 
 We do not share personal information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure, typically by "opting in" to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask Us to share your personal information with a third party for its marketing purposes, We will only share information in connection with that specific promotion, as We do not share information with any third party (other than our service providers) on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personal information on one of our sites.
 
@@ -343,60 +335,41 @@ Users in certain jurisdictions have a right to access personal information held 
 
 back to top
 
-14 Contact Us
+14
+
+Contact Us
 
 If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to privacy@zynga.com. All other inquiries should be directed to Zynga's Support Page.
 
 Zynga Inc.  
+  
 699 8th Street  
+  
 San Francisco, CA 94103
 
-Contact
+Follow @zynga
 
-*   Player Support
-*   Billing Questions
-*   Advertisers
-*   Developers
-
-Games
-
-*   Play on Zynga.com
-*   Facebook Games
-*   Mobile Games
-
-News
-
-*   Press Releases
-*   Company Images
-*   Company Blog
-*   Engineering Blog
-
-Careers
-
-*   About Careers
-*   Careers by Category
-*   Careers by Location
-*   Life at Zynga
-*   Benefits
-*   University Careers
-
-About
-
-*   About Zynga
-*   Our Story
-*   Board of Directors
-*   Investors
-*   Leadership Team
-
-More
-
-*   Forums
-*   Legal
-*   Privacy
-*   Security
-*   Support
-*   Zynga.org
-*   Advertise
-
-Copyright 2014 Zynga Inc. All rights reserved.  
-Use of this Web site constitutes acceptance of Zynga's Terms of Service and Privacy Policy
+*   connect
+    *   Subscribe on YouTube
+    *   Facebook
+    *   Twitter
+    *   Forums
+    *   Support
+    *   Zynga.org
+*   careers
+    *   Benefits
+    *   Career FAQs
+    *   Life At Zynga
+    *   Positions
+    *   University
+*   about
+    *   About Zynga
+    *   Our Story
+    *   Leadership Team
+    *   Investors
+    *   Board of Directors
+    *   Advertisers
+*   more >>.
+    *   Legal
+    *   Privacy
+    *   Security
