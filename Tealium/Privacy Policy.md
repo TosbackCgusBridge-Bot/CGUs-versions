@@ -278,5 +278,3 @@ Tealium helps savvy brands bring order to marketing chaos and engage customers i
 *   Privacy Policy
 
 Copyright © 2014 Tealium. All Rights Reserved.
-
-*   Welcome To Tealium.com
