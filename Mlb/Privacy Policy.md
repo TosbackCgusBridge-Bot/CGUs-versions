@@ -201,7 +201,7 @@ MLB Advanced Media, L.P. is the organization that produces and publishes the Off
         
     *   _Special Rules For Children._
         
-        Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase. other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
+        Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase. other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
         
     *   _Contact Us Regarding Privacy._
         
@@ -222,9 +222,9 @@ MLB Advanced Media, L.P. is the organization that produces and publishes the Off
         
     
 
-Last updated and effective date: May 24, 2013 Below is an advertisement.
+Last updated and effective date: March 27, 2014 Below is an advertisement.
 
-Terms of Use | Privacy Policy (updated May 24, 2013) | About Our Ads
+Terms of Use | Privacy Policy (updated March 27, 2014) | About Our Ads
 
 © MLB Advanced Media, LP. All rights reserved.
 
