@@ -271,10 +271,22 @@ France
 
 About Tealium
 
-Tealium helps savvy brands bring order to marketing chaos and engage customers in innovative ways. Using Tealium as the foundation for their digital marketing operations, smart marketers can fuel real-time unified marketing initiatives and drive more profitable customer interactions across all digital touch points.
+Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications.
 
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
 
 Copyright © 2014 Tealium. All Rights Reserved.
+
+Recent Searches:
+
+*   Digital Data
+*   Customer Data Management
+*   Data Distribution
+*   Data Distribution System
+*   Analytics Tag Management
+*   Audience Data Management
+*   Integrate Marketing Campaigns
+*   Digital Marketing
+*   Digital Marketing Platform
