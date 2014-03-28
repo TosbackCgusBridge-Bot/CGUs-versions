@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Early supporters of Oculus VR denounce Facebook buyout
+Search Help Video: On the street with Bill Cunningham
 
-Also in Tech »
+Also in Video »
 
-*   Name-calling in the virtual playground
-*   Apple after Jobs: Pretty much the same as ever
+*   Video: Harlem style, just for the fun of it
+*   Video: What made me featuring Edward Droste
 
   
 
@@ -283,4 +283,4 @@ Also in Tech »
 *   Contact Us
 *   Site Feedback
 
-campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_control - 367325, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
+campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_var1 - 367323, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
