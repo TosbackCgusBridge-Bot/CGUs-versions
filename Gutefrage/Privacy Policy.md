@@ -1,29 +1,29 @@
 Allgemeine Geschäftsbedingungen
 
-*   § 1 Geltungsbereich
-*   § 2 Leistungen von gutefrage.net
-*   § 3 Anmeldungspflicht
-*   § 4 Account, Passwort und Sicherheit
-*   § 5 Verantwortlichkeiten und Pflichten der Nutzer
-*   § 6 Haftung und Gewährleistung
-*   § 7 Datenschutz
-*   § 8 Urheberrechte
-*   § 9 Änderung der AGB
-*   § 10 Beendigung der Nutzung des Dienstes von gutefrage.net
-*   § 11 Schlussbestimmungen
+*   §1 Geltungsbereich
+*   §2 Leistungen von gutefrage.net
+*   §3 Anmeldungspflicht
+*   §4 Account, Passwort und Sicherheit
+*   §5 Verantwortlichkeiten und Pflichten der Nutzer
+*   §6 Haftung und Gewährleistung
+*   §7 Datenschutz
+*   §8 Urheberrechte
+*   §9 Änderung der AGB
+*   §10 Beendigung der Nutzung des Dienstes von gutefrage.net
+*   §11 Schlussbestimmungen
 
-§ 1 Geltungsbereich
+§1 Geltungsbereich
 
 1.  Gutefrage.net stellt seine hiermit angebotenen Dienste auf dieser Internet-Plattform auf Grundlage der nachfolgenden Nutzungsbedingungen zur Verfügung.
 2.  Diese allgemeinen Geschäftsbedingungen enthalten abschließend die zwischen gutefrage.net und dem Nutzer geltenden Bedingungen für die von gutefrage.net angebotenen Leistungen.
 3.  Von diesen Nutzungsbedingungen abweichende Regelungen gelten nur dann, wenn diese von gutefrage.net schriftlich bestätigt werden. Mit der Registrierung bei gutefrage.net erkennt der Nutzer diese Nutzungsbedingungen als maßgeblich an.
 
-§ 2 Leistungen von gutefrage.net
+§2 Leistungen von gutefrage.net
 
 1.  Gutefrage.net stellt seinen Nutzern ein Online-Forum zur Verfügung, das auf die Beantwortung von Fragen abzielt und ein Bewertungssystem für Fragen und Antworten anbietet (nachfolgend gemeinsam Dienste genannt).
 2.  Die Dienste werden unter dem Vorbehalt der Verfügbarkeit angeboten. Gutefrage.net übernimmt keine Verantwortung für eine eventuelle Verspätung, Löschung, Fehlübertragung oder einen Speicherausfall bei den von Nutzern erstellten Beiträgen.
 
-§ 3 Anmeldungspflicht
+§3 Anmeldungspflicht
 
 1.  Gutefrage.net kann in vollem Umfang nur nach vorheriger Registrierung genutzt werden. Durch die Registrierung wird von gutefrage.net automatisch ein Nutzeraccount angelegt.
 2.  Nutzer von gutefrage.net kann werden, wer nach den Vorgaben des Registrierungsformulars wahrheitsgemäße, genaue, aktuelle und vollständige Angaben zu seiner Person macht (Registrierungsdaten).
@@ -31,14 +31,14 @@ Allgemeine Geschäftsbedingungen
 4.  Der Nutzer hat seine Nutzerdaten vor Dritten geheim zu halten.
 5.  Sollte gutefrage.net feststellen, dass die Nutzerdaten nicht korrekt sind, besteht die Berechtigung den Account vorübergehend zu sperren oder, je nach Schwere des Verstoßes, zu löschen.
 
-§ 4 Account, Passwort und Sicherheit
+§4 Account, Passwort und Sicherheit
 
 1.  Im Rahmen der Registrierung können Sie einen Benutzernamen und ein Passwort selber festlegen.
 2.  Sollten Dritte in den Besitz Ihrer Zugangsdaten kommen, sind Sie unverzüglich verpflichtet, gutefrage.net hierüber zu informieren und die Zugangsdaten zu ändern. Sie tragen für alle Handlungen, die unter Verwendung Ihres Passwortes oder Ihres Accounts vorgenommen werden, die volle Verantwortung.
 3.  Sie sind verpflichtet, gutefrage.net unverzüglich über jede missbräuchliche Benutzung Ihres Accounts oder Passwortes sowie jede Verletzung von Sicherheitsvorschriften zu unterrichten.
 4.  Gutefrage.net haftet nicht für Schäden, die sich aus einem Verstoß gegen die genannten Verpflichtungen ergeben.
 
-§ 5 Verantwortlichkeiten und Pflichten der Nutzer
+§5 Verantwortlichkeiten und Pflichten der Nutzer
 
 1.  Die Nutzung der Dienste von gutefrage.net erfolgt auf eigenes Risiko der Nutzer. Die Haftung von gutefrage.net für behördliche Maßnahmen gehen zu Lasten des Nutzers, welcher für das behördliche Einschreiten verantwortlich ist. Dies gilt insbesondere für Verlinkungen, welche von den Nutzern innerhalb des Dienstes gesetzt werden. Gutefrage.net ist jederzeit berechtigt, derartige Verlinkungen ohne Angabe von Gründen zu löschen.
 2.  Die Verantwortung für sämtliche Informationen, Daten, Texte, Software, Musik, Geräusche, Fotos, Grafiken, Videos, Nachrichten oder sonstige Materialien (Inhalt) die allgemein oder privat übermittelt werden, liegt ausschließlich bei der Person, von der ein solcher Inhalt stammt. Das bedeutet, dass der Nutzer und nicht gutefrage.net die gesamte Verantwortung für jeglichen Inhalt trägt, den er eingibt (Upload), veröffentlicht, per E-Mail versendet oder auf sonstige Weise weiterleitet.
@@ -47,7 +47,7 @@ Allgemeine Geschäftsbedingungen
 5.  Gutefrage.net haftet unter keinen Umständen für Inhalte, insbesondere nicht für Fehler, Unrichtigkeiten oder Unvollständigkeiten im Zusammenhang mit Inhalten und auch nicht für Verluste oder Schäden, die durch die Benutzung eines Inhalts entstehen, welcher veröffentlicht, per E-Mail versandt oder sonst im Rahmen der Dienste übertragen wurde.
 6.  Dem Nutzer ist bekannt, dass auf gutefrage.net und damit im Umfeld der Beiträge des Nutzers, gegebenenfalls auch vor und nach diesen Beiträgen von gutefrage.net vermarktete Werbung stattfindet. Der Nutzer erklärt sich hiermit ausdrücklich einverstanden.
 
-§ 6 Haftung und Gewährleistung
+§6 Haftung und Gewährleistung
 
 1.  Gutefrage.net haftet für Vorsatz und grobe Fahrlässigkeit uneingeschränkt, für leichte Fahrlässigkeit jedoch nur bei der Verletzung vertragswesentlicher Pflichten. Die Haftung bei Verletzung einer solchen vertragswesentlichen Pflicht ist auf den vertragstypischen Schaden begrenzt, mit dessen Entstehen gutefrage.net bei Registrierung des Nutzers auf Grund der zu diesem Zeitpunkt bekannten Umstände rechnen musste.
 2.  Für nicht verschuldete Störungen übernimmt gutefrage.net keine Haftung.
@@ -57,7 +57,7 @@ Allgemeine Geschäftsbedingungen
 6.  Die Nutzung der Dienste von gutefrage.net erfolgt auf eigenes Risiko der Nutzer. Gutefrage.net übernimmt keine Haftung für das unterbrechungsfreie, sichere und fehlerfreie Funktionieren seiner Dienste. Gutefrage.net übernimmt keine Verantwortung für verloren gegangene Daten des Nutzers.
 7.  Die Haftungsbeschränkung gilt nicht für die Verletzung von Leben, Körper oder Gesundheit infolge eines fahrlässigen oder vorsätzlichen Handelns von gutefrage.net. Die Haftung nach gesetzlichen Vorschriften, deren Ausschluss verboten ist, bleibt unbenommen.
 
-§ 7 Datenschutz
+§7 Datenschutz
 
 1.  Personenbezogene Daten, welche gutefrage.net für die Anmeldung erhebt, werden lediglich im Rahmen der gesetzlichen Vorschriften gespeichert und verarbeitet.
 2.  Die Server von gutefrage.net entsprechen dem aktuellen Stand der Technik, dem Nutzer ist jedoch bekannt, dass die Gefahr besteht, dass übermittelte Daten im Übertragungsweg abgehört werden können. Dies gilt nicht nur für den Austausch von Informationen über E-Mail, die das System verlassen, sondern auch für alle sonstigen Übertragungen von Daten.
@@ -66,7 +66,7 @@ Allgemeine Geschäftsbedingungen
 5.  Gutefrage.net wird im Übrigen alle den Nutzer betreffenden Daten, die von diesem als vertraulich gekennzeichnet werden, vertraulich behandeln und nur nach Maßgabe dieser Nutzungsbedingungen verwenden. Gutefrage.net behält sich vor, hiervon abzuweichen, wenn er auf Grund gesetzlicher oder behördlicher Anordnungen Daten des Nutzers offen legen muss.
 6.  Der Nutzer erklärt sich damit einverstanden, dass die gespeicherten Stammdaten sowie die freiwilligen Angaben zu Zwecken der Marktforschung und zur individuellen Erstellung und Versendung ausgewählter Informationen per Post, E-Mail und Telefon genutzt werden dürfen. Gutefrage.net ist ferner berechtigt, diese Daten auch an beauftragte Dienstleistungsunternehmen (Auftragsdatenverarbeiter) weiterleiten. Die hiermit erteilte Einverständniserklärung kann jederzeit gegenüber gutefrage.net per Mail an info\[at\]gutefrage.net widerrufen werden.
 
-§ 8 Urheberrechte
+§8 Urheberrechte
 
 1.  Sind Dritte der Ansicht, dass ihre Werke unberechtigt verwertet oder vervielfältigt wurden, so ist gutefrage.net hierauf unverzüglich hinzuweisen. Gutefrage.net wird diese Inhalte für einen Zugriff durch Dritte sperren, soweit sich die Vorwürfe als berechtigt erweisen.
 2.  Gutefrage.net weist darauf hin, dass bei rechtswidrigen Inhalten unverzüglich die Pflicht einer Überprüfung und Abstellung des rechtswidrigen Zustandes besteht, da ansonsten nach den gesetzlichen Vorschriften eine Verantwortlichkeit des Access-Providers in gleicher Weise wie des Störers besteht. Gutefrage.net wird Inhalte erst dann wieder freischalten, wenn der Nutzer nachweisen kann, dass der rechtswidrige Zustand beseitigt ist.
@@ -77,15 +77,15 @@ Allgemeine Geschäftsbedingungen
     4.  Das Recht, den Beitrag in Zusammenhang mit den Web-Sites von gutefrage.net auch in anderen Medien weiter zu verwerten, etwa auf CD-ROM, in Printversionen sowie auf allen anderen derzeit bekannten Verwertungsarten.
 4.  Insbesondere ist gutefrage.net berechtigt, die Beiträge unter anderen Domainadressen öffentlich zugänglich zu machen, sowie diese im Rahmen von Druckwerken (Zeitschriften und Bücher) zu verwerten.
 
-§ 9 Änderung der AGB
+§9 Änderung der AGB
 
 Gutefrage.net behält sich das Recht vor, die AGB in Zukunft zu ändern und/oder zu ergänzen. Der Nutzer wird nach der Veröffentlichung neuer AGB auf diese hingewiesen. Die Änderung der Allgemeinen Geschäftsbedingungen tritt in Kraft, wenn der Nutzer dieser nicht innerhalb von einer Woche nach Einstellung der geänderten AGB und einer Änderungsmitteilung auf der Startseite des Dienstes widerspricht. Die AGB finden in ihrer jeweils geltenden Fassung Anwendung auf sämtliche Dienste von gutefrage.net.
 
-§ 10 Beendigung der Nutzung des Dienstes von gutefrage.net
+§10 Beendigung der Nutzung des Dienstes von gutefrage.net
 
 Gutefrage.net ist berechtigt, den Vertrag über die Nutzung der Dienste von gutefrage.net jederzeit mit einer Frist von einer Woche per Mail zu kündigen. Gutefrage.net ist darüber hinaus berechtigt, bei Vorliegen eines wichtigen Grundes ohne vorherige Abmahnung zu kündigen. Ein wichtiger Grund liegt insbesondere vor, wenn der Nutzer gegen geltendes Recht oder diese AGB verstößt. Von einer etwaigen Kündigung und/oder Beendigung der Nutzung von gutefrage.net bleiben die gem. § 8 eingeräumten Nutzungsrechte an den Beiträgen unberührt.
 
-§ 11 Schlussbestimmungen
+§11 Schlussbestimmungen
 
 1.  Sofern Bestimmungen dieses Vertrages unwirksam sind, tritt an deren Stelle diejenige wirksame Regelung, die die Parteien bei Kenntnis der Unwirksamkeit der Bestimmungen vernünftigerweise gewählt hätten, um den Zweck ihrer Vereinbarungen zu erreichen. Die Gültigkeit der übrigen Bestimmungen bleibt von der Unwirksamkeit einzelner Bestimmungen unberührt.
 2.  Diese AGB sowie die Nutzung der Dienste bestimmen sich nach deutschem Recht. Für Streitigkeiten außer im Zusammenhang mit der Nutzung der Dienste und/oder dieser AGB sind die für den Sitz von gutefrage.net zuständigen Gerichte ausschließlich zuständig, soweit es sich bei dem Nutzer um einen Kaufmann handelt oder der Nutzer keinen dauerhaften Wohnsitz in Deutschland hat.
@@ -94,16 +94,16 @@ _Stand: 01.11.2006_
 
 Nutzungsbedingungen für Video-Funktionen
 
-*   § 1 Geltungsbereich
-*   § 2 Verantwortlichkeiten und Pflichten der Nutzer
-*   § 3 Nutzungsrechte an den Videos
-*   § 4 Schlussbestimmungen
+*   §1 Geltungsbereich
+*   §2 Verantwortlichkeiten und Pflichten der Nutzer
+*   §3 Nutzungsrechte an den Videos
+*   §4 Schlussbestimmungen
 
-§ 1 Geltungsbereich
+§1 Geltungsbereich
 
 Gutefrage.net stellt die Möglichkeit zum Up-Load von Video-Dateien auf dieser Internet-Plattform auf Grundlage der nachfolgenden Nutzungsbedingungen zur Verfügung. Im Übrigen gelten die Allgemeinen Geschäftsbedingungen von GUTEFRAGE.
 
-§ 2 Verantwortlichkeiten und Pflichten der Nutzer
+§2 Verantwortlichkeiten und Pflichten der Nutzer
 
 1.  Die Verantwortung für sämtliche Informationen, Daten, Texte, Software, Musik, Geräusche, Fotos, Grafiken, Videos, Nachrichten oder sonstige Materialien (Inhalt) die allgemein oder privat übermittelt werden, liegt ausschließlich bei dem Nutzer, von dem ein solcher Inhalt stammt.
 2.  Der Nutzer darf im Rahmen der Nutzung der Videofunktion von gutefrage.net nicht:
@@ -116,7 +116,7 @@ Gutefrage.net stellt die Möglichkeit zum Up-Load von Video-Dateien auf dieser I
     7.  im Zusammenhang mit der Nutzung von gutefrage.net nationale oder internationale Rechtsvorschriften verletzen.
     8.  persönliche Daten über andere Benutzer sammeln, speichern oder übermitteln, soweit die Betroffenen damit nicht einverstanden sind.
 
-§ 3 Nutzungsrechte an den Videos
+§3 Nutzungsrechte an den Videos
 
 1.  Der Nutzer räumt durch die Einstellung einer Video-Datei in die Datenbank von gutefrage.net insbesondere folgende nicht ausschließlichen zeitlich und räumlich uneingeschränkten Nutzungs- und Verwertungsrecht ein:
     1.  Das Recht zur Einspeicherung in die Web-Sites von gutefrage.net.
@@ -126,7 +126,7 @@ Gutefrage.net stellt die Möglichkeit zum Up-Load von Video-Dateien auf dieser I
     5.  Das Recht, im Zusammenhang mit der Darstellung und öffentlichen Zugänglichmachung der Video-Datei in dessen räumlichem Umfeld Werbung Dritter in jeglicher Form zu platzieren.
     6.  Das Recht, mit den Video-Dateien in allen Medien (insbesondere Print, Rundfunk, Kino, Fernsehen, Internet, E-mail, Mobiltelefon, SMS) für die Dienste von GUTEFRAGE zu werben. insbesondere ist GUTEFRAGE berechtigt, die eingestellten Video-Dateien im Rahmen eigener Werbekampagnen zu sog. Trailern zu verbinden und in allen Medien einzusetzen.
 
-§ 4 Schlussbestimmungen
+§4 Schlussbestimmungen
 
 Sofern Bestimmungen dieses Vertrages unwirksam sind, tritt an deren Stelle diejenige wirksame Regelung, die die Parteien bei Kenntnis der Unwirksamkeit der Bestimmungen vernünftigerweise gewählt hätten, um den Zweck ihrer Vereinbarungen zu erreichen. Die Gültigkeit der übrigen Bestimmungen bleibt von der Unwirksamkeit einzelner Bestimmungen unberührt.
 
