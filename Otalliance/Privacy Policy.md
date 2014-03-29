@@ -1,7 +1,7 @@
   
 **PRIVACY POLICY**   **           POLITICA DE PRIVACIDA**
 
-**Updated: 5/14/2012**
+**Updated: 1/14/2014**
 
 Online Trust Alliance, (OTA, Inc) is committed to protecting your privacy.  By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.  
 
@@ -17,13 +17,13 @@ The personal information collected through our offline forms will be used to ope
   
 In support of these uses, OTA may use personal information to provide you with more effective customer service, to improve the Site and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf, such as Web site hosting, packaging, public relations, mailing and, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.   OTA may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on OTA or the Site. (b) protect and defend the rights or property of OTA or (c) act in urgent circumstances to protect the personal safety of OTA employees or agents, users of OTA products or services, or members of the public.  
   
-We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at staff@otalliance.org.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at admin@otalliance.org.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
   
 **Control of Your Personal Information**  
 Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of OTA without your permission. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.  
   
 **Access to Your Personal Information**  
-You can review and edit the personal information and any contact preferences provided at the Site by sending e-mail to staff@otalliance.org or in writing to:  
+You can review and edit the personal information and any contact preferences provided at the Site by sending e-mail to admin@otalliance.org or in writing to:  
   
 Online Trust Alliance (OTA)  
 9057 Points Drive NE  
@@ -44,12 +44,12 @@ We may occasionally update this privacy statement. When we do, we will also revi
 If Online Trust Alliance is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  
   
 **Contact Information**  
-OTA welcomes your comments regarding this privacy statement. If you believe that OTA has not adhered to this privacy statement, please contact us by e-mail at staff@otalliance.org or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.  
+OTA welcomes your comments regarding this privacy statement. If you believe that OTA has not adhered to this privacy statement, please contact us by e-mail at admin@otalliance.org or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.  
   
 Online Trust Alliance (OTA)  
 PO Box 803  
 Bellevue, WA 98009-0803  
    
-If you no longer wish to receive our newsletter communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at staff@otalliance.org  or you may contact us at our address above or by phone at 425-455-7400
+If you no longer wish to receive our newsletter communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at admin@otalliance.org  or you may contact us at our address above or by phone at 425-455-7400
 
-Online Trust Alliance (OTA) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site https://otalliance.org.  If you have questions or concerns regarding this statement, you should first contact the Privacy Officer at staff@otalliance.org.  If you are not satisfied with our response you can contact TRUSTe here.
+Online Trust Alliance (OTA) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site https://otalliance.org.  If you have questions or concerns regarding this statement, you should first contact the Privacy Officer at admin@otalliance.org.  If you are not satisfied with our response you can contact TRUSTe here.
