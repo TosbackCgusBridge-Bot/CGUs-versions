@@ -153,11 +153,12 @@ Attn: Privacy
     *   Site Map
 *   Legal &. Regulatory
     *   Privacy Policy
-    *   Terms &. Conditions
-    *   Customer Network Information
+    *   CPNI
+    *   Copyright Infringement
+    *   Terms &. Conditions of Service
     *   Regulatory Notices
-    *   Tariffs, Catalogs and Price Lists
-    *   Service Agreements
+    *   Purchase Order Terms
+    *   Tariffs, Catalogs &. Price Lists
 *   Connect With Us
     
 
