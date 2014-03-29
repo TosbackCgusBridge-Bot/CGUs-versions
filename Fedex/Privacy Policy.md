@@ -248,7 +248,6 @@ Customer Focus
 *   Small Business Center
 *   Service Guide
 *   Customer Support
-*   My FedEx Office Rewards
 
 Company Information
 
