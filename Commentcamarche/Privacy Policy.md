@@ -120,8 +120,8 @@ Le présent contrat est conclu pour une durée indéterminée à compter de l'Ut
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
-*   Conditions générales
-*   Conditions d'utilisation d'un site internet
+*   Conditions générales d'utilisation
+*   Redaction de condition general d utilisation d un site
 *   Conditions d'utilisation
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Télécharger Izispot » Télécharger - Editeurs HTML
