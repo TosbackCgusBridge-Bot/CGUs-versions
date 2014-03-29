@@ -26,7 +26,7 @@ Skip to Content
             Please change location
 *   Español
 
-*   Company Overview
+*   Our Company
 *   Leadership
 *   Corporate Responsibility
 *   News
