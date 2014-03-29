@@ -2,7 +2,7 @@
 
  www.Cruise.co.uk ltd ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms &. conditions \[http://www.cruise.co.uk/cruise-guides/Terms-and-Conditions/ \] sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+This policy (together with our terms &. conditions www.cruise.co.uk/cruise-guides/Terms-and-Conditions/ sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
