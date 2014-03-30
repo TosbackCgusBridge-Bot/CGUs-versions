@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Salma Hayek: The real housewife of Paris
+Search Help Victoria Beckham, working girl
 
 Also in T Magazine »
 
-*   Warby Parker's new uptown outpost
-*   All dressed up and nowhere to go
+*   Cynthia Rowley's spring break in the other magical kingdom
+*   New spirits with split personalities
 
   
 
@@ -283,4 +283,4 @@ Also in T Magazine »
 *   Contact Us
 *   Site Feedback
 
-campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_control - 367325, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
+campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_var2 - 367324, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
