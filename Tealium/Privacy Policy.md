@@ -285,8 +285,8 @@ Recent Searches:
 *   Customer Data Management
 *   Data Distribution
 *   Data Distribution System
-*   Analytics Tag Management
+*   Digital Marketing Platform
 *   Audience Data Management
 *   Integrate Marketing Campaigns
 *   Digital Marketing
-*   Digital Marketing Platform
+*   Analytics Tag Management
