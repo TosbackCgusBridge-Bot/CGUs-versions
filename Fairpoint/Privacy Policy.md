@@ -1,12 +1,16 @@
 Tired of pricey cable bills? Choose a Bundle from FairPoint and save big!
 
 *   Residential
+*   Business
 *   Small Business
 *   Enterprise
-*   Industry Solutions
+*   Gov. &. Education
 *   Wholesale
+*   About Us
 
-Please tailor my FairPoint experience. I am interested in: Residential ServicesSmall Business ServicesEnterprise ServicesIndustry Solutions ServicesWholesale Services My current location is: undetected Go   Where Do You Live?
+*   Bundles
+
+Please tailor my FairPoint experience. I am interested in: Residential ServicesBusiness ServicesEnterprise ServicesGov. and EducationWholesale Services My current location is: undetected Go   Where Do You Live?
 
 Enter your zip code or phone number now to discover high technology FairPoint solutions and rates available in your location. Don't know your zip code?
 
@@ -127,9 +131,9 @@ If you have any questions or comments concerning this Customer Privacy Policy, o
 
 FairPoint Communications
 
-521 East Morehead Street
+521East Morehead Street
 
-Suite 500
+Suite 250
 
 Charlotte, North Carolina 28202
 
@@ -162,4 +166,6 @@ Attn: Privacy
 *   Connect With Us
     
 
-© 2012 FairPoint Communications, Inc. All rights reserved. 53
+Terms, conditions, charges and restrictions apply. Speed and uninterrupted service not guaranteed. Not all services available in all areas. Services subject to change.
+
+© 2014 FairPoint Communications, Inc. All rights reserved.
