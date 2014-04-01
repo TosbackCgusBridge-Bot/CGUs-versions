@@ -1,9 +1,17 @@
 Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1) "Seeking Alpha predicted stock returns...&QUOT. WALL STREET JOURNAL »
 
 *   Home |
+*   Portfolio |
+*   Breaking News |
+*   Investing Ideas |
+*   Dividends &. Income |
+*   ETFs |
+*   Macro View |
+*   Home |
 *   My Portfolio |
 *   Breaking News |
-*   Latest Articles |
+*   Most Popular |
+*   Top Ideas |
 *   StockTalk |
 *   ALERTS |
 *   PRO
@@ -92,4 +100,4 @@ Seeking Alpha's Privacy Policy is to share personal information only with the ow
 
 _Updated: November 25, 2012_
 
-TOP AUTHORS: The Opinion Leaders TOP USERS: StockTalkers | Instablogs Follow us Follow us Mobile Apps  |      RSS Feeds  |  Sitemap  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2014 Seeking Alpha
+TOP AUTHORS: The Opinion Leaders TOP USERS: StockTalkers | Instablogs Follow us Follow us Mobile Apps  |      RSS Feeds  |  Site map  |  About Us  |  Contact Us Terms of Use | Privacy | Xignite quote data | © 2014 Seeking Alpha
