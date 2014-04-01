@@ -131,9 +131,9 @@ If you have any questions or comments concerning this Customer Privacy Policy, o
 
 FairPoint Communications
 
-521East Morehead Street
+521 East Morehead Street
 
-Suite 250
+Suite 500
 
 Charlotte, North Carolina 28202
 
@@ -161,7 +161,7 @@ Attn: Privacy
     *   Copyright Infringement
     *   Terms &. Conditions of Service
     *   Regulatory Notices
-    *   Purchase Order Terms
+    *   PO Terms &. Conditions
     *   Tariffs, Catalogs &. Price Lists
 *   Connect With Us
     
