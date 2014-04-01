@@ -1,6 +1,6 @@
 Terms of Use  
 
-These Terms of Use were updated effective February, 2013. Click here for a summary of the changes.
+These Terms of Use were updated effective March 2014. Click here for a summary of the changes.
 
 Understanding your rights and responsibilities as a Monster user Privacy Reminder
 
@@ -12,13 +12,15 @@ This page states the Terms of Use ("Terms") under which you ("You") may use the 
 
 **_These Terms constitute a binding agreement between You and Monster Worldwide, Inc. or the Monster company operating the Web site for the country in which You live or in which business is headquartered (“Monster”), and are deemed accepted by You each time that You use or access any Monster Site or Monster Services. If You do not accept the Terms stated here, do not use the Monster Sites and the Monster Services._**
 
-The Monster Sites are defined as any Web sites under Monster’s control, whether partial or otherwise (including, without limitation, Monster.com, BeKnown.com and the Web site from which these terms of use were accessed from) and include the Monster Services. The Monster Services are defined as the applications and services offered by Monster, including an on-line service to post and search employment opportunities and including any application accessed through the Facebook Platform and/or any mobile or other interface that allows You to access such application (collectively, “Monster Services”). The Monster Sites also include tools such as BeKnown and on-line communities designed to facilitate valuable professional and personal networking (“Monster Networking”) among users of the Monster Sites (“Users”) . The Monster Sites also allow Users to create individual profiles, which may include personal information (”Profiles”), and to make these Profiles, or aspects thereof, public.
+The Monster Sites are defined as any Web sites under Monster’s control, whether partial or otherwise (including, without limitation, Monster.com, BeKnown.com and the Web site from which these terms of use were accessed from) and include the Monster Services. The Monster Services are defined as the applications and services offered by Monster, including an on-line service to post and search employment opportunities and including any application accessed through the Facebook Platform and/or any mobile or other interface that allows You to access such application (collectively, “Monster Services”). The Monster Sites also include tools such as BeKnown, on-line communities and communication tools designed to facilitate valuable professional and personal networking (“Monster Networking”) among users of the Monster Sites (“Users”) . The Monster Sites also allow Users to create individual profiles, which may include personal information (”Profiles”), and to make these Profiles, or aspects thereof, public.  In addition, Monster may collect information about You from publicly-available websites and may use this information to create a Profile or append it to an existing Profile.
 
 Monster may revise these Terms at any time by posting an updated version to this Web page. You should visit this page periodically to review the most current Terms because they are binding on You.
 
 **Users who violate these Terms may have their access and use of the Monster Sites suspended or terminated, at Monster’s discretion.**
 
-You must be 13 years of age or older to visit or use any Monster Site in any manner, and, if under the age of 18 or the age of majority as that is defined in Your jurisdiction, must use any Monster Site under the supervision of a parent, legal guardian, or other responsible adult.
+You must be 13 years of age or older to visit or use any Monster Site in any manner, and, if under the age of 18 or the age of majority as that is defined in Your jurisdiction, must use any Monster Site under the supervision of a parent, legal guardian, or other responsible adult.  
+  
+**You may not use the Monster Content or Profiles to determine a consumer's eligibility for: (a) credit or insurance for personal, family, or household purposes. (b) employment. or (c) a government license or benefit.**
 
 1\. Use of Monster Content.
 
@@ -30,7 +32,9 @@ You agree not to sell or modify the Monster Content or reproduce, display, publi
 
 2\. Use of the Monster Services.
 
-The job posting, resume database (“Monster Resume Database”) and other features of the Monster Sites may be used only by individuals seeking employment and/or career information and by employers seeking employees. In addition, Monster Networking may be used by individuals for permitted professional and personal networking purposes. Your use of the Monster Services is also subject to any other contracts You may have with Monster. In the case of any conflict between these Terms and any contract you have with Monster, the terms of your contract will prevail. The term “post” as used herein shall mean information that You submit, publish or display on a Monster Site.
+The job posting, resume database (“Monster Resume Database”) and other features of the Monster Sites may be used only by individuals seeking employment and/or career information and by employers seeking employees. In addition, Monster Networking and Profiles may be used by individuals for permitted professional and personal networking purposes. Your use of the Monster Services is also subject to any other contracts You may have with Monster. In the case of any conflict between these Terms and any contract you have with Monster, the terms of your contract will prevail. The term “post” as used herein shall mean information that You submit, publish or display on a Monster Site.  
+  
+You are responsible for maintaining the confidentiality of Your account, Profile and passwords, as applicable. You may not share Your password or other account access information with any other party, temporarily or permanently, and You shall be responsible for all uses of Your Monster Site registrations and passwords, whether or not authorized by You. You agree to immediately notify Monster of any unauthorized use of Your account, Profile, or passwords.
 
 **All Monster Users agree to not:**
 
@@ -54,7 +58,7 @@ The job posting, resume database (“Monster Resume Database”) and other featu
 
 (j) post any content or material that promotes or endorses false or misleading information or illegal activities, or endorses or provides instructional information about illegal activities or other activities prohibited by these Terms, such as making or buying illegal weapons, violating someone's privacy, providing or creating computer viruses or pirating media;
 
-(k) post any resume or apply for any job on behalf of another party;
+(k) post any resume or Profile or apply for any job on behalf of another party;
 
 (l) defer any contact from an employer to any agent, agency, or other third party;
 
@@ -84,17 +88,13 @@ The job posting, resume database (“Monster Resume Database”) and other featu
 
 Violations of system or network security may result in civil and/or criminal liability. Monster will investigate occurrences which may involve such violations and may involve, and cooperate with, law enforcement authorities in prosecuting Users who are involved in such violations.
 
-You are responsible for maintaining the confidentiality of Your account, Profile and passwords, as applicable. You may not share Your password or other account access information with any other party, temporarily or permanently, and You shall be responsible for all uses of Your Monster Site registrations and passwords, whether or not authorized by You. You agree to immediately notify Monster of any unauthorized use of Your account, Profile, or passwords.
-
 3\. Additional Terms Applicable to Employers.
 
 Employers are solely responsible for their postings on Monster Sites. Monster is not to be considered to be an employer with respect to Your use of any Monster Site and Monster shall not be responsible for any employment decisions, for whatever reason, made by any entity posting jobs on any Monster Site.
 
 You understand and acknowledge that if You cancel Your employer account or Your employer account is terminated, all Your account information from Monster, including saved resumes, network contacts, and email mailing lists, will be marked as deleted in and may be deleted from Monster's databases. Information may continue to be available for some period of time because of delays in propagating such deletion through Monster’s web servers.
 
-In order to protect our Monster Community Users from commercial advertising or solicitation, Monster reserves the right to restrict the number of e-mails which an employer may send to Users to a number which Monster deems appropriate in its sole discretion.
-
-Candidate profiles derived from User Content may also be made available through the Sites. Monster does not make any representations regarding the accuracy or validity of such derived works or their appropriateness for evaluation by employers. Derived profiles may vary significantly from User Content.
+In order to protect our Monster Users from commercial advertising or solicitation, Monster reserves the right to restrict the number of e-mails which an employer may send to Users to a number which Monster deems appropriate in its sole discretion. You shall use the Monster Networking and Profiles in accordance with all applicable privacy and data protection laws.
 
 **Job postings**
 
@@ -114,7 +114,7 @@ Candidate profiles derived from User Content may also be made available through 
 
 (g) material or links to material that exploits people in a sexual, violent or other manner, or solicits personal information from anyone under 18.
 
-**You may not use Your Monster job posting or Monster Networking to:**
+**You may not use Your Monster job posting, Monster Networking, or Profiles to:**
 
 (a) post jobs in a manner that does not comply with applicable local, national and international laws, including but not limited to laws relating to labor and employment, equal employment opportunity and employment eligibility requirements, data privacy, data access and use, and intellectual property;
 
@@ -122,31 +122,33 @@ Candidate profiles derived from User Content may also be made available through 
 
 (c) post jobs that include any screening requirement or criterion in connection with a job posting where such requirement or criterion is not an actual and legal requirement of the posted job;
 
-(d) post jobs or other advertisements for competitors of Monster or post jobs or other content that contains links to any site competitive with Monster;
+(d) with respect to Profiles, determine a consumer's eligibility for: (i) credit or insurance for person, family, or household purposes. (ii) employment. or (iii) a government license of benefit.  
+  
+(e)post jobs or other advertisements for competitors of Monster or post jobs or other content that contains links to any site competitive with Monster;
 
-(e) sell, promote or advertise products or services;
+(f) sell, promote or advertise products or services;
 
-(f) post any franchise, pyramid scheme, "club membership", distributorship, multi-level marketing opportunity, or sales representative agency arrangement;
+(g) post any franchise, pyramid scheme, "club membership", distributorship, multi-level marketing opportunity, or sales representative agency arrangement;
 
-(g) post any business opportunity that requires an up front or periodic payment or requires recruitment of other members, sub-distributors or sub-agents;
+(h) post any business opportunity that requires an up front or periodic payment or requires recruitment of other members, sub-distributors or sub-agents;
 
-(h) post any business opportunity that pays commission only unless the posting clearly states that the available job pays commission only and clearly describes the product or service that the job seeker would be selling;
+(i) post any business opportunity that pays commission only unless the posting clearly states that the available job pays commission only and clearly describes the product or service that the job seeker would be selling;
 
-(i) promote any opportunity that does not represent bona fide employment which is generally indicated by the employer’s use of IRS forms W-2 or 1099;
+(j) promote any opportunity that does not represent bona fide employment which is generally indicated by the employer’s use of IRS forms W-2 or 1099;
 
-(j) post jobs on any Monster Site for modeling, acting, talent or entertainment agencies or talent scouting positions;
+(k) post jobs on any Monster Site for modeling, acting, talent or entertainment agencies or talent scouting positions;
 
-(k) advertise sexual services or seek employees for jobs of a sexual nature;
+(l) advertise sexual services or seek employees for jobs of a sexual nature;
 
-(l) request the use of human body parts or the donation of human parts, including, without limitation, reproductive services such as egg donation and surrogacy;
+(m) request the use of human body parts or the donation of human parts, including, without limitation, reproductive services such as egg donation and surrogacy;
 
-(m) endorse a particular political party, political agenda, political position or issue;
+(n) endorse a particular political party, political agenda, political position or issue;
 
-(n) promote a particular religion;
+(o) promote a particular religion;
 
-(o) post jobs located in countries subject to economic sanctions of the United States Government. and
+(p) post jobs located in countries subject to economic sanctions of the United States Government. and
 
-(p) except where allowed by applicable law, post jobs which require the applicant to provide information relating to his/her (i) racial or ethnic origin (ii) political beliefs (iii) philosophical or religious beliefs (iv) membership of a trade union (v) physical or mental health (vi) sexual life (vii) the commission of criminal offences or proceedings or (vii) age.
+(q) except where allowed by applicable law, post jobs which require the applicant to provide information relating to his/her (i) racial or ethnic origin (ii) political beliefs (iii) philosophical or religious beliefs (iv) membership of a trade union (v) physical or mental health (vi) sexual life (vii) the commission of criminal offences or proceedings or (vii) age.
 
 Monster reserves the right to remove any job posting or content from any Monster Site, which in the reasonable exercise of Monster’s discretion, does not comply with the above Terms, or if any content is posted that Monster believes is not in the best interest of Monster.
 
@@ -211,7 +213,7 @@ Any Profile You submit must describe You, an individual person. Examples of inap
 
 You may not include, in any User Content submitted to Monster Networking, information that may be interpreted as a direct solicitation, advertisement or recruitment for an available job position directed to individuals seeking employment on either a full time or part time basis. In order to protect our Monster Community Users from commercial advertising or solicitation, Monster reserves the right to restrict the number of e-mails or other messages which a User may send to other Users to a number which Monster deems appropriate in its sole discretion.
 
-Candidate profiles derived from User Content may also be made available through the Monster Sites. Monster does not make any representations regarding the accuracy or validity of such derived works or their appropriateness for evaluation by employers. Derived profiles may differ significantly from User Content.
+Profiles derived from User Content may also be made available through the Monster Sites. Monster does not make any representations regarding the accuracy or validity of such derived works or their appropriateness for evaluation by employers. Derived Profiles may differ significantly from User Content.
 
 We appreciate hearing from our Users and welcome Your comments regarding our services and the Monster Sites. Please be advised, however, that our policy does not permit us to accept or consider creative ideas, suggestions, inventions or materials other than those which we have specifically requested. While we do value Your feedback on our services, please be specific in Your comments regarding our services and do not submit creative ideas, inventions, suggestions, or materials. If, despite our request, You send us creative suggestions, ideas, drawings, concepts, inventions, or other information (collectively the "Submission"), the Submission shall be the property of Monster. None of the Submission shall be subject to any obligation of confidentiality on our part and we shall not be liable for any use or disclosure of any Submission. Monster shall own exclusively all now known or later discovered rights to the Submission and shall be entitled to unrestricted use of the Submission for any purpose whatsoever, commercial or otherwise, without compensation to You or any other person.
 
@@ -221,19 +223,19 @@ If You believe that Your copyrighted work or trademark has been uploaded, posted
 
 Monster Worldwide, Inc.  
 Attn: Legal Department-DMCA  
-5 Clock Tower Place, Suite 500  
-Maynard, Massachusetts 01754  
+133 Boston Post Road  
+Weston, Massachusetts 02493  
 USA
 
 Need help with a job seeker issue? Contact us now.
 
 7\. Policy Regarding Termination Of Users Who Infringe The Copyright Or Other Intellectual Property Rights Of Others.
 
-Monster respects the intellectual property of others, and we ask our Users and content partners to do the same. The unauthorized posting, reproduction, copying, distribution, modification, public display or public performance of copyrighted works constitutes infringement of the copyright owners rights. As a condition to Your use of the Monster Sites, You agree not to use any Monster Site to infringe the intellectual property rights of others in any way. Monster reserves the right to terminate the accounts of any Users, and block access to the Monster Sites of any Users who are repeat infringers of the copyrights, or other intellectual property rights, of others. Monster reserves the right, in its sole discretion, to take these actions to limit access to the Site and/or terminate the accounts of any time, in our sole discretion Users who infringe any intellectual property rights of others, whether or not there is any repeat infringement, with or without notice, and without any liability to the User who is terminated or to the User whose access is blocked. Notwithstanding the foregoing, in the event that You believe in good faith that a notice of copyright infringement has been wrongly filed against You, please contact the Director of Compliance and Fraud Prevention as set out above.
+Monster respects the intellectual property of others, and we ask our Users and content partners to do the same. The unauthorized posting, reproduction, copying, distribution, modification, public display or public performance of copyrighted works constitutes infringement of the copyright owners rights. As a condition to Your use of the Monster Sites, You agree not to use any Monster Site to infringe the intellectual property rights of others in any way. Monster reserves the right to terminate the accounts of any Users, and block access to the Monster Sites of any Users who are repeat infringers of the copyrights, or other intellectual property rights, of others. Monster reserves the right, in its sole discretion, to take these actions to limit access to the Site and/or terminate the accounts of any time, in our sole discretion Users who infringe any intellectual property rights of others, whether or not there is any repeat infringement, with or without notice, and without any liability to the User who is terminated or to the User whose access is blocked. Notwithstanding the foregoing, in the event that You believe in good faith that a notice of copyright infringement has been wrongly filed against You, please contact Monster as set forth in Section 6 above.
 
 8\. Monster's Liability.
 
-The Monster Sites act as, among other things, venues for (i) employers to post job opportunities and search for and evaluate job candidates and (ii) candidates to post resumes and Profiles and search for and evaluate job opportunities. Monster does not screen or censor the listings, including Profiles offered. Monster is not involved in the actual transaction between employers and candidates. As a result, Monster is not responsible for User Content, the quality, safety or legality of the jobs or resumes posted, the truth or accuracy of the listings, the ability of employers to offer job opportunities to candidates or the ability of candidates to fill job openings and Monster makes no representations about any jobs, resumes or User Content on the Monster Sites. While Monster reserves the right in its sole discretion to remove User Content, job postings, resumes or other material from the Monster Sites from time to time, Monster does not assume any obligation to do so and to the extent permitted by law, disclaims any liability for failing to take any such action.
+The Monster Sites act as, among other things, venues for (i) employers to post job opportunities and search for and evaluate job candidates and (ii) candidates to post resumes and Profiles and search for and evaluate job opportunities. Monster does not screen or censor the listings, including Profiles offered. Monster is not involved in, and does not control, the actual transaction between employers and candidates. As a result, Monster is not responsible for User Content, the quality, safety or legality of the jobs or resumes posted, the truth or accuracy of the listings, the ability of employers to offer job opportunities to candidates or the ability of candidates to fill job openings and Monster makes no representations about any jobs, resumes or User Content on the Monster Sites. While Monster reserves the right in its sole discretion to remove User Content, job postings, resumes or other material from the Monster Sites from time to time, Monster does not assume any obligation to do so and to the extent permitted by law, disclaims any liability for failing to take any such action.
 
 Monster Networking provides a venue for individuals to network for professional and personal purposes and Monster does not screen or censor the Profiles or User Content on the Monster Sites. Monster is not involved in the actual communications between Users. As a result, Monster has no control over the accuracy, reliability, completeness, or timeliness of the Profiles or User Content submitted on the Monster Sites and makes no representations about any Profile or User Content on the Monster Sites.
 
@@ -249,7 +251,7 @@ Monster encourages You to keep a back-up copy of any of Your User Content. To th
 
 Monster does not provide or make any representation as to the quality or nature of any of the third party products or services purchased through any Monster Site, or any other representation, warranty or guaranty. Any such undertaking, representation, warranty or guaranty would be furnished solely by the provider of such third party products or services, under the terms agreed to by the provider.
 
-If You believe that something on the Site violates these Terms please contact our designated agent set forth in Section 7 above.
+If You believe that something on the Site violates these Terms please contact our designated agent set forth in Section 6 above.
 
 If notified of any content or other materials which allegedly do not conform to these Terms, Monster may in its sole discretion investigate the allegation and determine whether to remove or request the removal of the content. Monster has no liability or responsibility to Users for performance or nonperformance of such activities.
 
@@ -303,8 +305,8 @@ These Terms will remain in full force and effect while You are a User of any Mon
 
  
 
-**Update effective February 2013**
+**Update effective March 2014**
 
-Summary of Changes – effective February 2013
+Summary of Changes – effective March 2014
 
-We’ve added the BeKnown network to Monster, allowing you to network with your professional contacts directly on our site and as a result, sections of the BeKnown Terms of Use were incorporated into these Terms of Use. Specifically, the discussion of Monster Communities was changed to more broadly cover all networking within the Monster Sites and Services and Section 5 on User Content was updated to include a more detailed list of rules and prohibited content. Section 17 regarding Mobile Services was also added and language was updated in other sections to be more clear and easier to read. There is now one Terms of Use that governs your use of Monster Sites and Services, directly on our sites, through our mobile apps and through our Facebook app.
+We’ve revised the Terms of Use to include new communications tools available on Monster and the possible collection by Monster of information about You from publicly-available websites to create or add to a Profile on Monster.
