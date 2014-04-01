@@ -1,8 +1,8 @@
-Privacybeleid
+Privacybeleid Gegevens die we verzamelen Hoe we gegevens gebruiken die we verzamelen Duidelijkheid en keuzemogelijkheden Gegevens die u deelt Uw persoonlijke gegevens openen en bijwerken. Gegevens die we delen Beveiliging van gegevens Wanneer dit Privacybeleid van toepassing is Naleving en samenwerking met toezichthoudende authoriteiten Wijzigingen Specifieke productbeleidsregels Ander nuttig materiaal met betrekking tot privacy en beveiliging Voorbeelden verbergen Voorbeelden weergeven Voorbeelden verbergen
 
-Laatst aangepast: 20 december 2013 (gearchiveerde versies weergeven)
+Laatst aangepast: 31 maart 2014 gearchiveerde versies weergeven
 
-U kunt onze services op verschillende manieren gebruiken: om informatie te zoeken en te delen, met andere mensen te communiceren of nieuwe inhoud te maken. Wanneer u gegevens met ons deelt, bijvoorbeeld door een Google-account te maken, kunnen we die services nog beter maken, om u relevantere zoekresultaten en advertenties te laten zien, u in contact te brengen met andere mensen of het delen van inhoud sneller en gemakkelijker te maken. We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw gegevens gebruiken en op welke manieren u uw privacy kunt beschermen.
+U kunt onze services op verschillende manieren gebruiken: om informatie te zoeken en te delen, met andere mensen te communiceren of nieuwe inhoud te maken. Wanneer u gegevens met ons deelt, bijvoorbeeld door een Google-account aan te maken, kunnen we die services nog beter maken, om u relevantere zoekresultaten en advertenties te laten zien, u in contact te brengen met mensen of het delen van inhoud sneller en gemakkelijker te maken. We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw gegevens gebruiken en op welke manieren u uw privacy kunt beschermen.
 
 In ons Privacybeleid wordt uitgelegd:
 
@@ -18,13 +18,13 @@ We verzamelen gegevens om betere services te kunnen leveren aan al onze gebruike
 
 We verzamelen gegevens op twee manieren:
 
-*   **Gegevens die u aan ons levert.** Voor veel van onze services moet u zich bijvoorbeeld registreren voor een Google-account. Wanneer u dit doet, vragen we u om persoonlijke gegevens, zoals uw naam, e-mailadres, telefoonnummer of creditcard. Als u optimaal wilt profiteren van de functies die we aanbieden, kunnen we u ook vragen een openbaar zichtbaar Google-profiel te maken, dat uw naam en foto kan bevatten.
+*   **Gegevens die u aan ons levert.** Voor veel van onze services moet u zich bijvoorbeeld aanmelden voor een Google-account. Wanneer u dit doet, vragen we u om persoonlijke gegevens, zoals uw naam, e-mailadres, telefoonnummer of creditcard. Als u optimaal wilt profiteren van de functies voor delen die we aanbieden, kunnen we u ook vragen een openbaar zichtbaar Google-profiel te maken, dat uw naam en foto kan bevatten.
     
 *   **Gegevens die we ontvangen op basis van uw gebruik van onze services.** We kunnen gegevens verzamelen over de services die u gebruikt en de manier waarop u ze gebruikt, zoals wanneer u een website bezoekt die onze advertentieservices gebruikt of wanneer u onze advertenties en inhoud bekijkt en gebruikt. Deze gegevens omvatten:
     
     *   **Apparaatgegevens**
         
-        We kunnen apparaatspecifieke gegevens verzamelen, zoals het hardwaremodel, de versie van het besturingssysteem, unieke apparaat-id’s en mobiele netwerkgegevens waaronder het telefoonnummer. Google kan uw apparaat-id’s of telefoonnummer koppelen aan uw Google-account.
+        We kunnen apparaatspecifieke gegevens verzamelen, zoals het hardwaremodel, de versie van het besturingssysteem, unieke apparaat-ID's en mobiele netwerkgegevens, waaronder het telefoonnummer. Google kan uw apparaat-ID's of telefoonnummer koppelen aan uw Google-account.
         
     *   **Logbestandsgegevens**
         
@@ -45,11 +45,11 @@ We verzamelen gegevens op twee manieren:
         
     *   **Lokale opslag**
         
-        We kunnen gegevens (waaronder persoonlijke gegevens) lokaal verzamelen en opslaan op uw apparaat met mechanismen zoals browserwebopslag (waaronder HTML 5) en applicatiegegevenscaches.
+        We kunnen gegevens (waaronder persoonlijke gegevens) lokaal verzamelen en opslaan op uw apparaat met mechanismen zoals browserwebopslag (waaronder HTML 5) en applicatie-gegevenscaches.
         
     *   **Cookies en anonieme id’s**
         
-        We gebruiken verschillende technologieën om gegevens te verzamelen en op te slaan wanneer u een Google-service bezoekt, waaronder het verzenden van een of meer cookies of anonieme id’s naar uw apparaat. We maken ook gebruik van cookies en anonieme id’s wanneer u services gebruikt die we aan onze partners aanbieden, zoals advertentieservices of Google-functies die op andere sites kunnen worden weergegeven.
+        Wij en onze partners gebruiken verschillende technologieën om gegevens te verzamelen en op te slaan wanneer u een Google-service bezoekt, waaronder het verzenden van een of meer cookies of anonieme ID's naar uw apparaat. We maken ook gebruik van cookies en anonieme ID's wanneer u services gebruikt die we aan onze partners aanbieden, zoals advertentieservices of Google-functies die op andere sites kunnen worden weergegeven.
         
 
 Hoe we gegevens gebruiken die we verzamelen
@@ -60,9 +60,9 @@ We kunnen de naam die u voor uw Google-profiel opgeeft, gebruiken in alle servic
 
 Wanneer u contact opneemt met Google, kunnen we uw berichten vastleggen om te helpen bij het oplossen van problemen die u ondervindt. We kunnen uw e-mailadres gebruiken om u te informeren over onze services, bijvoorbeeld om u op de hoogte te stellen van aankomende wijzigingen of verbeteringen.
 
-We gebruiken gegevens die worden verzameld uit cookies en andere technologieën, zoals pixeltags, om uw gebruikerservaring en de totale kwaliteit van onze services te verbeteren. Door uw taalvoorkeuren op te slaan, kunnen we onze services bijvoorbeeld weergeven in uw voorkeurstaal. Wanneer we u gepersonaliseerde advertenties laten zien, koppelen we geen cookie of anonieme id aan gevoelige categorieën, zoals categorieën op basis van ras, religie, seksuele geaardheid of gezondheid.
+We gebruiken gegevens die worden verzameld uit cookies en andere technologieën, zoals pixeltags, om uw gebruikerservaring en de totale kwaliteit van onze services te verbeteren. Door uw taalvoorkeuren op te slaan, kunnen we onze services bijvoorbeeld weergeven in uw voorkeurstaal. Wanneer we u gepersonaliseerde advertenties laten zien, koppelen we geen cookie of anonieme ID aan gevoelige categorieën, zoals categorieën op basis van ras, religie, seksuele geaardheid of gezondheid.
 
-We kunnen persoonlijke gegevens uit een bepaalde service combineren met gegevens uit andere Google-services, waaronder persoonlijke gegevens, zodat u bijvoorbeeld gemakkelijker dingen kunt delen met mensen die u kent. We combineren DoubleClick-cookiegegevens niet met persoonlijke gegevens, tenzij u ons hiervoor uitdrukkelijk toestemming heeft gegeven.
+We kunnen persoonlijke gegevens uit een bepaalde service combineren met gegevens, waaronder persoonlijke gegevens, uit andere Google-services, zodat u bijvoorbeeld gemakkelijker dingen kunt delen met mensen die u kent. We combineren DoubleClick-cookiegegevens niet met persoonlijke gegevens, tenzij u ons hiervoor uitdrukkelijk toestemming heeft gegeven.
 
 We vragen u om toestemming voordat we gegevens gebruiken voor andere doeleinden dan die in dit Privacybeleid worden beschreven.
 
@@ -84,7 +84,7 @@ Gegevens die u deelt
 
 Via veel van onze services kunt u gegevens met anderen delen. Vergeet niet dat wanneer u gegevens openbaar deelt, deze kunnen worden geïndexeerd door zoekmachines, waaronder Google. Onze services bieden u verschillende opties voor het delen en verwijderen van uw inhoud.
 
-Uw persoonlijke gegevens openen en bijwerken
+Uw persoonlijke gegevens openen en bijwerken.
 
 Wanneer u onze services gebruikt, proberen we u toegang te geven tot uw persoonlijke gegevens. Als die gegevens onjuist zijn, proberen we u te voorzien van manieren om deze gegevens snel bij te werken of te verwijderen, tenzij we die gegevens moeten bewaren voor legitieme zakelijke of juridische doeleinden. Wanneer u uw persoonlijke gegevens bijwerkt, kunnen we u vragen uw identiteit te verifiëren voordat we uw verzoek kunnen verwerken.
 
@@ -126,7 +126,7 @@ We delen persoonlijke gegevens niet met bedrijven, organisaties en individuen bu
     *   Fraude en technische of beveiligingsproblemen te detecteren, te voorkomen of anderszins aan te pakken.
     *   De rechten, eigendom of veiligheid van Google, onze gebruikers of het publiek te beschermen, zoals vereist of toegestaan volgens de wet.
 
-We kunnen verzamelde niet-persoonlijke gegevens openbaar en met onze partners delen, zoals uitgevers, adverteerders of aangesloten sites. We kunnen gegevens bijvoorbeeld openbaar delen om trends met betrekking tot het algemene gebruik van onze services te laten zien.
+We kunnen verzamelde niet-persoonlijke gegevens openbaar delen en met onze partners, zoals uitgevers, adverteerders of aangesloten sites. We kunnen gegevens bijvoorbeeld openbaar delen om trends te laten zien met betrekking tot het algemene gebruik van onze services.
 
 Als Google betrokken is bij een fusie, overname of verkoop van activa, blijven we de vertrouwelijkheid van persoonlijke gegevens waarborgen en stellen we de betreffende gebruikers op de hoogte voordat persoonlijke gegevens worden overgedragen of onderworpen aan een ander privacybeleid.
 
@@ -139,13 +139,13 @@ We werken er hard aan Google en onze gebruikers te beschermen tegen ongeautorise
 *   We evalueren onze handelswijzen met betrekking tot verzameling, opslag en verwerking van gegevens, waaronder fysieke beveiligingsmaatregelen, als bescherming tegen ongeautoriseerde toegang tot systemen.
 *   We beperken de toegang tot persoonlijke gegevens tot medewerkers van Google, contractanten en agenten die deze gegevens moeten kennen om ze voor ons te verwerken. Deze personen zijn onderworpen aan strenge contractuele vertrouwelijkheidsverplichtingen en kunnen worden bestraft of ontslagen als ze niet voldoen aan deze verplichtingen.
 
-Toepassing
+Wanneer dit Privacybeleid van toepassing is
 
 Ons Privacybeleid is van toepassing op alle services die worden geleverd door Google Inc. en zijn partners, waaronder services die worden geleverd op andere sites (zoals onze advertentieservices), maar niet op services met een afzonderlijk privacybeleid waarin dit Privacybeleid niet is opgenomen.
 
 Ons Privacybeleid is niet van toepassing op services die worden geleverd door andere bedrijven of individuen, waaronder producten of sites die aan u kunnen worden weergegeven in zoekresultaten, sites die Google-services bevatten of andere sites waarnaar een link is opgenomen in onze services. Ons Privacybeleid dekt niet het gegevensbeleid van andere bedrijven en organisaties die adverteren in onze services en die cookies, pixeltags en andere technologieën kunnen gebruiken om relevante advertenties weer te geven en te leveren.
 
-Handhaving
+Naleving en samenwerking met toezichthoudende authoriteiten
 
 We controleren regelmatig of we voldoen aan ons Privacybeleid. We houden ons ook aan meerdere zelfregulerende richtlijnen. Wanneer we formele schriftelijke klachten ontvangen, zullen we contact opnemen met de persoon die de klacht heeft ingediend om vervolgacties te bespreken. We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten met betrekking tot de overdracht van persoonlijke gegevens te verhelpen die we niet rechtstreeks met onze gebruikers kunnen oplossen.
 
@@ -161,3 +161,24 @@ In de volgende kennisgevingen worden specifieke privacybeleidsregels uitgelegd m
 *   Google Boeken
 *   Google Wallet
 *   Fiber
+
+Ander nuttig materiaal met betrekking tot privacy en beveiliging
+
+U kunt meer nuttig materiaal met betrekking tot privacy en beveiliging vinden op de pagina's met beleid en principes van Google, waaronder:
+
+*   Informatie over onze technologieën en principes, die onder meer informatie bevat over
+    *   hoe Google cookies gebruikt.
+    *   technologieën die we gebruiken voor adverteren.
+    *   hoe we patronen, zoals gezichten, herkennen.
+*   Een pagina waarop wordt uitgelegd welke gegevens worden gedeeld met Google wanneer u websites bezoekt die onze advertentie-, analyse- en sociale producten gebruiken.
+*   Het Beveiligingscentrum van Google, dat informatie bevat over hoe u internet veilig kunt gebruiken.
+
+Met Google Dashboard kunt u bijvoorbeeld snel en gemakkelijk sommige van de gegevens bekijken die zijn gekoppeld aan uw Google-account. Meer informatie. Als u bijvoorbeeld regelmatig websites en blogs over tuinieren bezoekt, kunt u advertenties met betrekking tot tuinieren te zien krijgen terwijl u browst op internet Meer informatie. Als u bijvoorbeeld regelmatig websites en blogs over tuinieren bezoekt waarop onze advertenties worden weergegeven, kunnen we advertenties met betrekking tot deze interesse aan u laten zien wanneer u browst op internet. Meer informatie. Dit omvat informatie zoals uw gebruiksgegevens en voorkeuren, Gmail-berichten, Google+ profiel, foto's, video's, browsegeschiedenis, zoekopdrachten op Google Maps, docs of andere door Google gehoste inhoud. Meer informatie. Wanneer u bijvoorbeeld bent ingelogd op uw Google-account en zoekt op Google, kunt u zoekresultaten van het openbare internet te zien krijgen, evenals pagina's, foto's en Google+ berichten van uw vrienden. Mensen die u kent of u volgen op Google+, kunnen uw berichten en profiel te zien krijgen in hun resultaten. Meer informatie. U kunt bijvoorbeeld suggesties krijgen voor mensen die u mogelijk kent of met wie u mogelijk contact wilt leggen op Google+, op basis van de connecties die u met mensen heeft in andere Google-producten, zoals Gmail. Mensen die een connectie met u hebben, kunnen uw profiel te zien krijgen als suggestie. Meer informatie. We vragen momenteel niet om een creditcard wanneer u zich aanmeldt. Uw leeftijd verifiëren door middel van een kleine creditcardtransactie is echter een manier om te bevestigen dat u voldoet aan onze leeftijdsvereisten als uw account is uitgeschakeld nadat u een geboortedatum heeft opgegeven die aangeeft dat u niet oud genoeg bent voor een Google-account. Meer informatie. De Google-software voor spellingcontrole is bijvoorbeeld ontwikkeld door eerdere zoekopdrachten te analyseren waarin gebruikers hun eigen spelling hadden gecorrigeerd. Meer informatie. Met apparaat-ID's weet Google welk unieke apparaat u gebruikt voor toegang tot onze services. Deze informatie kan worden gebruikt om onze service aan uw apparaat aan te passen of apparaatproblemen met betrekking tot onze services te analyseren. Meer informatie. Wanneer u bijvoorbeeld Google Play bezoekt op uw desktopcomputer, kan Google deze gegevens gebruiken om u te helpen bepalen op welke apparaten u uw aankopen wilt kunnen gebruiken. Meer informatie. Met cookies kunnen we bijvoorbeeld analyseren hoe gebruikers onze services gebruiken. Meer informatie. Net zoals andere technologie- en communicatiebedrijven ontvangt Google regelmatig verzoeken van overheden en rechtbanken over de hele wereld om gebruikersgegevens te overhandigen. Meer informatie. Google Maps kan de kaartweergave bijvoorbeeld centreren op uw huidige locatie. Meer informatie. We gebruiken bijvoorbeeld de cookie 'lbcs' waarmee u veel Google-documenten in één browser kunt openen. Meer informatie. Als u bijvoorbeeld een telefoonnummer toevoegt als hersteloptie en u uw wachtwoord vergeet, kan Google u een sms sturen met een code waarmee u uw wachtwoord opnieuw kunt instellen. Meer informatie. Als u zich bijvoorbeeld zorgen maakt over ongeautoriseerde toegang tot uw e-mail, kunt u met 'Laatste accountactiviteit' in Gmail informatie bekijken over recente activiteit in uw e-mail, zoals de IP-adressen waarmee toegang is verkregen tot uw e-mail, de bijbehorende locatie en de datum en tijd. Meer informatie. Met Google+ beschikt u bijvoorbeeld over veel verschillende opties voor delen. Meer informatie. Als iemand bijvoorbeeld al een contact is, vult Google de naam automatisch aan als u deze persoon wilt toevoegen aan een bericht in Gmail. Meer informatie. Als u bijvoorbeeld een adres typt in het veld Aan, Cc of Bcc van een bericht dat u opstelt, stelt Gmail adressen uit uw contactenlijst voor. Meer informatie. Als u bijvoorbeeld met iemand heeft gecommuniceerd via Gmail en deze persoon wilt toevoegen aan een Google-document of een afspraak in Google Agenda, maakt Google dit gemakkelijk door zijn e-mailadres automatisch aan te vullen wanneer u zijn naam begint te typen. Meer informatie. We melden regelmatig aan adverteerders of we hun advertentie op een pagina hebben weergegeven en of die advertentie waarschijnlijk is gezien door gebruikers (en bijvoorbeeld niet op het gedeelte van de pagina stond waar gebruikers niet naartoe zijn gescrold). Meer informatie. Wanneer veel mensen naar hetzelfde gaan zoeken, kan dit zeer nuttige informatie leveren over bepaalde actuele trends. Meer informatie.
+
+We kunnen zoeken bijvoorbeeld relevanter en interessanter voor u maken door foto's, berichten en meer van u en uw vrienden weer te geven.
+
+Meer informatie
+
+U kunt bijvoorbeeld uw webgeschiedenis, uw blog, een Google-site die uw eigendom is, uw YouTube-kanaal, uw Google+ profiel of uw volledige Google-account verwijderen.
+
+U kunt sommige van deze trends bekijken op Google Trends en YouTube Trends.
