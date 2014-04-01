@@ -6,19 +6,21 @@ The Privacy Policy also gives information about cookies. Yahoo's and third parti
 
 This Privacy Policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies. You can find more information on the acquired companies page.
 
-Within the section “Topics” you can find detailed information on special topics like cookies and IP addresses. In the section “Products”, you can find additional guidance about our privacy practices relating to particular products or services. Yahoo” means Yahoo! UK Limited (based in the United Kingdom), except where the relevant service is provided by another Yahoo group company, in which case references to Yahoo shall, in respect of those services, be references to that Yahoo Group company. Find out more information about Yahoo data storage and data transfer.
+Within the section “Topics” you can find detailed information on special topics like cookies and IP addresses. In the section “Products”, you can find additional guidance about our privacy practices relating to particular products or services. "Yahoo” means Yahoo! EMEA Limited (based in Ireland). If you are a Sky | Yahoo Mail user, "Yahoo" means Yahoo UK Limited in relation to your use of Mail, Messenger (in webmail), Calendar and Addresses.
+
+We will only use the information that we collect about you (in accordance with the Irish Data Protection Acts 1988 – 2003 (the DP Acts).
 
 Return to top
 
 INFORMATION COLLECTION AND USE
 
-Yahoo collects personally identifiable information when you register for a Yahoo account, when you use certain Yahoo products or services, when you enter promotions or sweepstakes and when you visit Yahoo pages or the pages of certain Yahoo partners outside the branded Yahoo network of websites. Yahoo may combine information (including personally identifiable information) about you that we have with information we obtain from business partners or other companies.
+Yahoo (as data controller) collects personally identifiable information when you register for a Yahoo account, when you use certain Yahoo products or services, when you enter promotions or sweepstakes and when you visit Yahoo pages or the pages of certain Yahoo partners outside the branded Yahoo network of websites. Yahoo may combine information (including personally identifiable information) about you that we have with information we obtain from business partners or other companies.
 
 When you register with Yahoo, we ask for personally identifiable information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests.
 
 Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-Yahoo also automatically receives and records information on our server logs from your browser including your IIP address, Yahoo cookie information, software and hardware attributes, and the page you requested. Once you register with Yahoo and sign in to our services you are no longer anonymous to us and your usage data will be connected to your account.
+Yahoo also automatically receives and records information on our server logs from your browser including your IP address, Yahoo cookie information, software and hardware attributes, and the page you requested. Once you register with Yahoo and sign in to our services you are no longer anonymous to us and your usage data will be connected to your account.
 
 Yahoo uses information (including anonymous and pseudonymous information, as well as personally identifiable information) for the following general purposes: to personalise the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. Yahoo may transfer your personal information for the general purposes set out above to any Yahoo group company worldwide, and they may use your personal information as set forth below. You can find more information within the topic Data Transfer.
 
@@ -26,7 +28,7 @@ Return to top
 
 INFORMATION SHARING AND DISCLOSURE
 
-Yahoo does not rent, sell, or share information about you (including personally identifiable information) with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or for the following purposes:
+Yahoo does not rent, sell, or share information about you (including personally identifiable information) with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or in the following circumstances:
 
 *   to provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements. These companies may use such information to help Yahoo communicate with you (to the extent consented by you) about offers from Yahoo and our marketing partners. However, these companies do not have any independent right to share this information.
 *   to respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which compliance is required, or to establish or exercise legal rights or defend against legal claims.
@@ -95,6 +97,6 @@ QUESTIONS OR SUGGESTIONS
 
 If you have questions or suggestions complete a feedback form.
 
-Last Updated: Oct 14, 2009
+Last Updated: 20 January, 2014
 
 Return to top
