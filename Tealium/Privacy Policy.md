@@ -280,13 +280,3 @@ Founded in 2008, Tealium is the leader in enterprise tag management and digital 
 Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
-
-*   Digital Data
-*   Customer Data Management
-*   Data Distribution
-*   Data Distribution System
-*   Digital Marketing Platform
-*   Audience Data Management
-*   Integrate Marketing Campaigns
-*   Digital Marketing
-*   Analytics Tag Management
