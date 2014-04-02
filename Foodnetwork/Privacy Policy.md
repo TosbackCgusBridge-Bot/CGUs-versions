@@ -2,7 +2,6 @@ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands 
 
 *   Home
 *   Newsroom
-*   Blog
 *   Advertisers
 *   Distribution
 *   Contact Us
