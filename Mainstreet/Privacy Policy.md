@@ -8,8 +8,7 @@ Apple Safari
   
 Microsoft Internet Explorer 8+  
   
-You may proceed to the site by clicking here, however some pages might not work correctly. **This Day On The Street:**  
-Continue to Site ADVERTISEMENT TheStreet Network: TheStreet | StockPickr | BankingMyWay | RealMoney
+You may proceed to the site by clicking here, however some pages might not work correctly. TheStreet Network: TheStreet | StockPickr | BankingMyWay | RealMoney
 
 *   Home 10 simple ways to avoid college debt
 *   tax  
