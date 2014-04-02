@@ -2,16 +2,15 @@ Internet Brands
 
 *   Privacy Highlights
 *   Privacy Policy
-*   Privacy FAQ
 *   Privacy Contact
 
 Privacy Policy Highlights
 
-Internet Brands, Inc. and its subsidiaries operate websites, provide services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full Privacy Policy. It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names. Also visit our FAQ page for answers to common questions.
+Internet Brands, Inc. and its subsidiaries and corporate affiliates operate websites, provide products and services through mobile and other applications, and develop software. We govern these with a single privacy policy. This notice provides highlights of our full Privacy Policy. It briefly describes the collection and use of information when you use or interact with our branded websites, services, and software, operating under different branded names.
 
 *   Personal Information
     
-    We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways. First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
+    We collect personal information for various business purposes when you interact with us, such as providing you with a subscription, processing your order, responding to requests for service or assistance, creating and improving our products and services, suggesting additional or different products or services, and protecting our rights and property. We collect information about you in two basic ways: First, we receive information directly from you. Second, through use of cookies and other technologies, we keep track of your interactions.
     
 *   Your Choices
     *   You can stop receiving promotional emails from us by following the instructions in the email you receive.
@@ -23,6 +22,10 @@ Internet Brands, Inc. and its subsidiaries operate websites, provide services th
     
     Your information is used to fulfill your requests and communicate with you, operate, support and improve our sites, products and services, conduct internal research, and personalize the content, products, services and advertisements offered to you.
     
+*   Information Sharing
+    
+    We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
+    
 *   How to Contact Us
     *   Use our Privacy Contact form, or write to us at the address below.
       
@@ -30,9 +33,5 @@ Internet Brands, Inc. and its subsidiaries operate websites, provide services th
     *   Internet Brands, Inc.
     *   909 N. Sepulveda Blvd., 11th Floor
     *   El Segundo, CA 90245 U.S.A.
-*   Information Sharing
-    
-    We do not sell, rent or provide your personal information to third parties that are unaffiliated with Internet Brands. Your personal information is shared with third parties with your consent, except in circumstances where the law requires it to be shared.
-    
 
 **Internet Brands**
