@@ -261,12 +261,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Welcome to spin class: You won't last
+Search Help An investment in the cellar, with a nice bouquet
 
-Also in Fashion »
+Also in Business »
 
-*   I'm a cat lady? Thank you
-*   On internet slang, IMHO
+*   When boomers inherit, complications may follow
+*   Family foundations let affluent leave a legacy
 
   
 
@@ -282,5 +282,3 @@ Also in Fashion »
 *   Help
 *   Contact Us
 *   Site Feedback
-
-campaign: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr - 241293, creative: nyt2014\_big\_ad\_rec\_engine\_cook\_drpr\_control - 367325, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
