@@ -1,157 +1,14 @@
-FREE SHIPPING\* on orders of $150 or more
-
-Now through Monday, March 31, 2014
-
-Just enter promo code: **SFAMAR** at checkout
-
-\*Free Shipping offer valid with any purchase of $150 or more through Monday, March 31, 2014 at 11:59 PM (ET). Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code: SFAMAR. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments For Drop Ship items, offer only applies to items eligible for standard shipping.  No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
-
-Click here for additional shipping and tax information.
-
-$10 USD Shipping to Russia on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
-
-\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Australia or Canada is valid with orders of $100 USD and more through Sunday, March  30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, enter promotional code: MARCH. Valid only on shipments to Australia or Canada addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Hong Kong or the UK is valid through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. No promo code needed at checkout. Valid only on shipments to Hong Kong or United Kingdom addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-Free Express Shipping on orders over $100 USD\*
-
-Just enter promo code: **MARCH** at checkout
-
-\* Free Express Shipping offer for Australia or Canada is valid with orders of $100 USD and more through Sunday, March  30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, enter promotional code: MARCH. Valid only on shipments to Australia or Canada addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Hong Kong or the UK is valid through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. No promo code needed at checkout. Valid only on shipments to Hong Kong or United Kingdom addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-FREE Express Shipping\* to Hong Kong or the UK  
-Plus, No Code Needed
-
-\* Free Express Shipping offer for Hong Kong or the UK is valid through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. No promo code needed at checkout. Valid only on shipments to Hong Kong or United Kingdom addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Australia or Canada is valid with orders of $100 USD and more through Sunday, March  30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, enter promotional code: MARCH. Valid only on shipments to Australia or Canada addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-$20 USD Express Shipping to Select Countries on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Australia or Canada is valid with orders of $100 USD and more through Sunday, March  30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, enter promotional code: MARCH. Valid only on shipments to Australia or Canada addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Hong Kong or the UK is valid through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. No promo code needed at checkout. Valid only on shipments to Hong Kong or United Kingdom addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-$10 USD Standard or $20 USD Express Shipping to Select Countries on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
-
-\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Australia or Canada is valid with orders of $100 USD and more through Sunday, March  30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, enter promotional code: MARCH. Valid only on shipments to Australia or Canada addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* Free Express Shipping offer for Hong Kong or the UK is valid through Sunday, March 30th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. No promo code needed at checkout. Valid only on shipments to Hong Kong or United Kingdom addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-Free Shipping\* on orders of $150 or More
-
-Now through Monday, March 31, 2014
-
-Use code **SFAMAR** at checkout.
-
-Details
-
-\*Free Shipping offer valid with any purchase of $150 or more through Monday, March 31, 2014 at 11:59 PM (ET). Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code: SFAMAR. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks return policy still applies to items returned under this offer
-
 \*Free Shipping offer available regardless of total order value. Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments. For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks' return policy still applies to items returned under this offer.
 
-FREE SHIPPING\* on orders of $150 or more
+FREE SHIPPING\* every day, every order
 
-Now through Monday, March 31, 2014
+Just enter promo code: **FREESHIP** at checkout
 
-Just enter promo code: **SFAMAR** at checkout
+\*Free Shipping offer available regardless of total order value.  Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments. For Drop Ship items, offer only applies to items eligible for standard shipping.  No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
 
-\*Free Shipping offer valid with any purchase of $150 or more through Monday, March 31, 2014 at 11:59 PM (ET). Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code: SFAMAR. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments For Drop Ship items, offer only applies to items eligible for standard shipping.  No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
-
-Click here for additional shipping and tax information.
+Click here for additional shipping &. tax information.
 
 \*Offer valid from Saks Fifth Avenue Stores and Saks.com on approved purchases made on the Saks Fifth Avenue major purchase account (MPA) issued by Capital One, N.A. Receipts in a single calendar day totaling $1000 or more will qualify for this offer. Gift card purchases are excluded from this offer. Some exclusions apply. See store associate for details. Your account must be open and current to be eligible for this offer. Eligible purchases will be charged no interest for 12 months from date of purchase. Thereafter, you will be charged your variable standard APR of 23.99% on your remaining purchase balance. Variable penalty APR is 26.99%. Variable APRs as of 4/1/14. Minimum interest charge $1. Offer valid on saks.com from April 1 through April 3, 2014. Offer valid in-store on April 3, 2014. If you don’t already have an MPA, ask a sales associate how to apply.
-
-Free Shipping to Russia on orders over $100 USD\*
-
-Just enter promo code: **SPRING** at checkout
-
-\* Free Standard Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). To redeem offer, select shipping method preference and enter promotional code: SPRING. Offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-Free Standard or $10 USD Express Shipping to Select Countries on orders over $100 USD\*
-
-Just enter promo code: **SPRING** at checkout
-
-\* Free Standard or $10 USD Express Shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). To redeem offer, select shipping method preference and enter promotional code: SPRING. Offer valid only on shipments to Bahrain, Egypt, Germany, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. For shipments to Russia, only standard shipping is available. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-Free Express Shipping on orders over $100 USD\*
-
-Just enter promo code: **MARCH** at checkout
-
-\* Free Express Shipping offer for Australia or Canada is valid with orders of $100 USD and more through Sunday, March  30th, 2014, at 11:59pm(ET). To redeem offer, enter promotional code: MARCH. Valid only on shipments to Australia or Canada addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-FREE Express Shipping\* to Hong Kong or the UK  
-Plus, No Code Needed
-
-\* Free Express Shipping offer for Hong Kong or the UK is valid through Sunday, March 30th, 2014, at 11:59pm(ET). No promo code needed at checkout. Valid only on shipments to Hong Kong or United Kingdom addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-$20 USD Express Shipping to Select Countries on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Sunday, March 30th, 2014, at 11:59pm(ET). To redeem offer, select Express shipping and enter promotional code: ROW14. Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-Triple the love with TRIPLE POINTS  
-PLUS BONUS POINTS
-
-Online Now. In Stores 4/3
-
-Details **SAKSFIRST Triple Points:**
-
-\*For eligible purchases made with the SaksFirst credit card or SaksFirst MasterCard® in Saks Fifth Avenue stores, catalogs and at Saks.com during this event, SaksFirst members will earn 2 base points plus 4 bonus points per eligible dollar spent from $1 to $4,999, 4 base points plus 8 bonus points per eligible dollar spent from $5,000 to $9,999, and 6 base points plus 12 bonus points per eligible dollar spent thereafter, based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, corporate gifts, gift card purchases and Cartier, Graff, Louis Vuitton and Prada products and services are not eligible for this bonus points event. Select designers and leased department exclusions apply. Offer valid in Saks Fifth Avenue stores on 4/3/2014 and on Saks.com from 4/1/2014 at 12:01 AM (ET) through 4/3/2014 at 11:59 PM (ET).
-
-**SAKSFIRST Bonus Points:**
-
-\*\*Select designers and leased department exclusions apply. Please allow 8-10 weeks for bonus points to be credited to your account. To receive 20,000 bonus points offer, total spend must be at least $2000 of eligible spend in Women’s Designer clothing purchases in Saks Fifth Avenue stores and/or on Saks.com. To receive 10,000 bonus points offer in Women’s Shoes, total spend must be at least $1000 of eligible spend in Women’s Shoe purchases at Saks Fifth Avenue stores and/or on Saks.com. To receive 10,000 bonus points offer in Handbags, total spend must be at least $1000 of eligible spend in Handbag purchases at Saks Fifth Avenue stores and/ or on Saks.com. To receive 10,000 bonus points offer in Men’s Shoes, total spend must be at least $1000 of eligible spend in Men’s Shoe purchases at Saks Fifth Avenue Stores and/or on Saks.com. Total spend excludes taxes and delivery charges. Maximum 50,000 bonus points allowed per customer for this bonus points offer. Offer valid in Saks Fifth Avenue stores on 4/3/2014 and on Saks.com from 4/1/2014 at 12:01 AM (ET) through 4/3/2014 at 11:59 PM (ET). These offers are not valid for purchases made at Saks Fifth Avenue OFF 5TH stores or on Saksoff5th.com. MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
 
 **SAKSFIRST Triple Points:**
 
@@ -162,14 +19,6 @@ Details **SAKSFIRST Triple Points:**
 \*\*Select designers and leased department exclusions apply. Please allow 8-10 weeks for bonus points to be credited to your account. To receive 20,000 bonus points offer, total spend must be at least $2000 of eligible spend in Women’s Designer clothing purchases in Saks Fifth Avenue stores and/or on Saks.com. To receive 10,000 bonus points offer in Women’s Shoes, total spend must be at least $1000 of eligible spend in Women’s Shoe purchases at Saks Fifth Avenue stores and/or on Saks.com. To receive 10,000 bonus points offer in Handbags, total spend must be at least $1000 of eligible spend in Handbag purchases at Saks Fifth Avenue stores and/ or on Saks.com. To receive 10,000 bonus points offer in Men’s Shoes, total spend must be at least $1000 of eligible spend in Men’s Shoe purchases at Saks Fifth Avenue Stores and/or on Saks.com. Total spend excludes taxes and delivery charges. Maximum 50,000 bonus points allowed per customer for this bonus points offer. Offer valid in Saks Fifth Avenue stores on 4/3/2014 and on Saks.com from 4/1/2014 at 12:01 AM (ET) through 4/3/2014 at 11:59 PM (ET). These offers are not valid for purchases made at Saks Fifth Avenue OFF 5TH stores or on Saksoff5th.com.
 
 MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
-
-FREE SHIPPING\* every day, every order
-
-Just enter promo code: **FREESHIP** at checkout
-
-\*Free Shipping offer available regardless of total order value.  Limit of five promo codes per order. Offer valid at Saks.com only. To redeem, select standard shipping and enter promotional code FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and Saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments. For Drop Ship items, offer only applies to items eligible for standard shipping.  No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
-
-Click here for additional shipping &. tax information.
 
 FREE Express Shipping\* to Hong Kong or the UK  
 Plus, No Code Needed
@@ -211,6 +60,31 @@ Just enter promo code: **ROW14** at checkout
 \* $20 USD Express shipping offer is valid with orders of $100 USD and more through Thursday, April  17th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 Click here for additional shipping and tax information.
+
+Triple the love with TRIPLE POINTS  
+PLUS BONUS POINTS
+
+Online Now. In Stores 4/3
+
+Details **SAKSFIRST Triple Points:**
+
+\*For eligible purchases made with the SaksFirst credit card or SaksFirst MasterCard® in Saks Fifth Avenue stores, catalogs and at Saks.com during this event, SaksFirst members will earn 2 base points plus 4 bonus points per eligible dollar spent from $1 to $4,999, 4 base points plus 8 bonus points per eligible dollar spent from $5,000 to $9,999, and 6 base points plus 12 bonus points per eligible dollar spent thereafter, based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, corporate gifts, gift card purchases and Cartier, Graff, Louis Vuitton and Prada products and services are not eligible for this bonus points event. Select designers and leased department exclusions apply. Offer valid in Saks Fifth Avenue stores on 4/3/2014 and on Saks.com from 4/1/2014 at 12:01 AM (ET) through 4/3/2014 at 11:59 PM (ET).
+
+**SAKSFIRST Bonus Points:**
+
+\*\*Select designers and leased department exclusions apply. Please allow 8-10 weeks for bonus points to be credited to your account. To receive 20,000 bonus points offer, total spend must be at least $2000 of eligible spend in Women’s Designer clothing purchases in Saks Fifth Avenue stores and/or on Saks.com. To receive 10,000 bonus points offer in Women’s Shoes, total spend must be at least $1000 of eligible spend in Women’s Shoe purchases at Saks Fifth Avenue stores and/or on Saks.com. To receive 10,000 bonus points offer in Handbags, total spend must be at least $1000 of eligible spend in Handbag purchases at Saks Fifth Avenue stores and/ or on Saks.com. To receive 10,000 bonus points offer in Men’s Shoes, total spend must be at least $1000 of eligible spend in Men’s Shoe purchases at Saks Fifth Avenue Stores and/or on Saks.com. Total spend excludes taxes and delivery charges. Maximum 50,000 bonus points allowed per customer for this bonus points offer. Offer valid in Saks Fifth Avenue stores on 4/3/2014 and on Saks.com from 4/1/2014 at 12:01 AM (ET) through 4/3/2014 at 11:59 PM (ET). These offers are not valid for purchases made at Saks Fifth Avenue OFF 5TH stores or on Saksoff5th.com. MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
+
+Online Only: April 8-9
+
+Earn a **SAKS GIFT CARD\*** up to $700 on Shoe &. Handbag Purchases.
+
+Just enter code **SANDHBX4** at checkout
+
+**Gift Card** **Spend** **Get** **$250 to $499** **$35** **$500 to $999** **$75** **$1,000 to $1,999** **$150** **$2,000 to $2,999** **$450** **$3,000 or More** **$700**
+
+\*GIFT CARD OFFER NOT VALID ON PRE-ORDER ITEMS, OR ON INTERNATIONAL ORDERS. LIMIT OF FIVE PROMO CODES PER ORDER. Valid on Saks.com purchases from Tuesday, April 8, 2014 at 12:01AM (ET) to Wednesday, April 9, 2014 at 11:59PM (ET). Enter promotional code SANDHBX4 at checkout on Saks.com. Valid on saks.com shoe &. handbag purchases only. Excludes some designer collections, leased collections, beauty salons, Saks Fifth Avenue stores, Catalog, Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, gift card, charitable merchandise, and Saks employee purchases. No adjustments to prior purchases. Gift cards valid through 6/30/14 are redeemable on Saks.com. Cannot be combined with any other offer. Adjustments made to the gift card for returned merchandise. Limit 1 gift card per person. Total spend excludes gift wrap, pre-order merchandise at Saks.com, taxes and shipping. Code valid once per customer. Purchases made at Saks.com cannot be combined.
+
+Designer Exclusions: Akris, Alexander McQueen, Brunello Cucinelli, Christian Louboutin, Christopher Kane, Comme des Garcons, Dolce &. Gabbana, Fendi, Givenchy, Gucci, Jil Sander, The Row, Maison Martin Margiela, Mary Katrantzou, Miu Miu, Nina Ricci, Prada, Rick Owens, Rochas, Saint Laurent, Tod's, UGG Australia, Valentino, Versace, Vionnet, YSL. Not all categories of merchandise are excluded.
 
 **24/7 Customer Service:**  1.877.551.7257  •  Chat  •  Email
 
