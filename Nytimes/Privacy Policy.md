@@ -1,12 +1,16 @@
-*   Subscribe Now Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
+*   Subscribe Now Try Home Delivery for 50% Off 12 Weeks Plus Free All Digital Access
     
-    Get unlimited access to NYTimes.com and NYTimes apps.
+    All print options include free, unlimited access to NYTimes.com, NYTimes apps and NYT Now.
     
-    Get Digital Get 50% Off 12 Weeks of Home Delivery and Free All Digital Access
+    Get Home Delivery Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
     
-    All print options include free, unlimited access to NYTimes.com and NYTimes apps.
+    Get unlimited access to NYTimes.com, NYTimes apps, plus free NYT Now.
     
-    Get Home Delivery
+    Get Digital Try NYT Now and Get Your First 4 Weeks Free
+    
+    A selection of top stories, handpicked by editors. Available on NYTimes.com and a new iPhone® app.
+    
+    Get NYT Now
 *   Help
 
 *   Home Page
@@ -261,12 +265,12 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help An investment in the cellar, with a nice bouquet
+Search Help Watch: He quit his job to rollerblade on the boardwalk
 
-Also in Business »
+Also in Video »
 
-*   When boomers inherit, complications may follow
-*   Family foundations let affluent leave a legacy
+*   The shame of the church
+*   Trapped and burdened
 
   
 
