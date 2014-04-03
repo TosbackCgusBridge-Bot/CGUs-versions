@@ -28,30 +28,30 @@ In addition to the cookies Microsoft may set when you visit our web sites, third
 **How to Control Cookies**
 
 *   **Browser Controls to Block Cookies.** Most web browsers automatically accept cookies, but you can usually modify your browser setting to block cookies.
-    
-    For example, in Internet Explorer 9, you may block cookies by taking the following steps:
-    
-    1.  Click “Tools” and then select “Internet Options”
-    2.  Click the “Privacy” tab at the top of the window
-    3.  Move the slider up or down to select the types of cookies you wish to block
-    
-    Instructions for blocking cookies in other browsers are available (in English) at http://www.allaboutcookies.org/manage-cookies/
-    
-    Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
-    
+
+For example, in Internet Explorer 11, you may block cookies by taking the following steps:
+
+1.  Click "Tools" and then select "Internet Options"
+2.  Click the "Privacy" tab at the top of the window
+3.  Move the slider up or down to indicate the rules you want to apply for blocking cookies 
+
+Instructions for blocking cookies in other browsers are available at each browser’s privacy statement.   
+
+Please be aware that if you choose to block cookies, you may not be able to sign in or use other interactive features of Microsoft sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
+
 *   **Browser Controls to Delete Cookies**. If you accept cookies, you can delete them later.
-    
-    For example, in Internet Explorer 9, you may delete cookies by taking the following steps:
-    
-    1.  Click “Tools” and then select “Internet Options”
-    2.  On the “General” tab, under “Browsing History,” click the “Delete” button
-    3.  On the pop-up, select the box next to “Cookies”
-    4.  Click the “Delete” button
-    
-    Instructions for deleting cookies in other browsers are available (in English) at http://www.allaboutcookies.org/manage-cookies/.
-    
-    Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
-    
+
+For example, in Internet Explorer 11, you may delete cookies by taking the following steps:
+
+1.  Click "Tools" and then select "Internet Options"
+2.  On the "General" tab, under "Browsing History," click the "Delete" button
+3.  On the pop-up, select the box next to “Cookies”
+4.  Click the "Delete" button
+
+Instructions for deleting cookies in other browsers are available at each browser’s privacy statement.
+
+Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
+
 *   **Browser Controls for “Do Not Track” and Tracking Protection.** Some newer browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the web sites you visit indicating that you do not wish to be tracked. Those sites may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the sites’ privacy practices. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.  We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, users may continue to opt-out of targeted ads from Microsoft as set forth above.
     
 
@@ -109,7 +109,7 @@ Microsoft collects many kinds of information in order to operate effectively and
 
 **What we collect:**
 
-*   Search. When you conduct a search, Microsoft will collect the search terms you provide, along with your IP address, the unique identifiers contained in the cookies, the time and date of your search, and your browser configuration. We will attempt to derive your approximate location based on your IP address, and will use that information to display search results tailored to your geographic location. When using a web browser, you may be able to change your default location, such as via an “Options” link on the search page, and your location and other search settings are stored in a cookie on your machine. If you are using a mobile device and have allowed Bing Search services to use your current location, we will also collect your approximate latitude and longitude. For information on turning off location-based search services in Windows 8 applications, see the Bing Applications section of this privacy statement.
+*   Search. When you conduct a search, Microsoft will collect the search terms you provide, along with your IP address, the unique identifiers contained in the cookies, the time and date of your search, and your browser configuration. We will attempt to derive your approximate location based on your IP address, and will use that information to display search results tailored to your geographic location. When using a web browser, you may be able to change your default location, such as via an “Options” link on the search page, and your location and other search settings are stored in a cookie on your machine. If you are using a mobile device and have allowed Bing Search services to use your current location, we will also collect your approximate latitude and longitude. For information on turning off location-based search services in Windows 8 applications, see the Bing Location Services  section of this privacy statement.
 
 *   Registration. When you sign up to use our sites or services you may be required to provide information about yourself, such as your name, birthdate and postal code.
 
@@ -138,7 +138,7 @@ How We Use Your Personal InformationUsing Your Information
 
 Microsoft uses the information we collect to operate, improve and personalize the products and services we offer. We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats.
+For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. For Microsoft Services that are powered by Bing, we may also use this information to personalize your experience. Please see the Microsoft Services Powered by Bing section for more information.
 
 Finally, as described in the Display of Advertising section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
 
@@ -146,7 +146,7 @@ Finally, as described in the Display of Advertising section of this document, we
 
 Microsoft uses the information we collect to operate, improve and personalize the products and services we offer. Information collected through one Microsoft service may be combined with information collected through other Microsoft services to give you a more consistent and personalized experience in your interactions with us. We may also supplement this with information from other companies. For example, we may use services from other companies to help us derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
 
-For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats.
+For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. For Microsoft Services that are powered by Bing, we may also use this information to personalize your experience. Please see the Microsoft Services Powered by Bing section for more information.
 
 We also may use the information to communicate with you, for example, informing you when a subscription is ending, letting you know when security updates are available or letting you know when you need to take action to keep your account active.
 
@@ -183,88 +183,104 @@ Click here for more information on sharing or disclosing personal information:
 
 Accessing Your Personal Information and Search HistoryAccessing Your Information
 
-When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in see your search history (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above.
+When using a web browser, the Bing preferences page allows you to manage your search preferences, such as search history, search language settings, and saved interests or favorites that may be used in Microsoft services when signed in using your Microsoft account. These settings allow you to customize your search experience and provide features that are most relevant to you and your interests.
 
-When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page or by using the Personal Data Dashboard. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in see your search history (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. You may also contact Microsoft by using the web form. We will respond to requests to access or delete your personal information within 30 days.
+For Bing Search in your browser, using the search terms you enter and the results you click, search history provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided here or by going to the Bing preferences page noted above. Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described in the Collecting Your Information Section.
 
-Bing Mobile, Maps and Location ServicesMobile and Location Services
-
-If you have agreed to allow access to your location, the app may collect that information to provide more relevant experiences and enhanced features that rely on knowing your location, and to improve Microsoft products and services.  For example, we use your location to improve your search and mapping results, and provide you deals for local businesses.
-
-*   **Bing Search services and Bing Mobile applications:** The approximate location of your device will be sent to Microsoft along with search terms, time and date of your search and a unique identifier generated by the application. Refer to the documentation that came with your device for information about how to turn off location for an application.
-*   **"Check In” and “Reminders”:** When you sign into these services, Microsoft stores the approximate location of your device along with your Microsoft account. To disable access to your device’s location by these services, go to the settings menu of the Bing Search application and turn location to “Off.” If you are using a browser to access Bing Search services, refer to the browser documentation to disable sharing your location for sites visited on that browser.
-*   **Mapping features:** Features on Microsoft's sites and services are based in part on the Bing Maps service. When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.
-
-If you’ve allowed a Bing mobile application to access your location, when you conduct a search, the approximate location of your device will be sent to Microsoft along with the search terms, time and date of your search and a unique identifier generated by the application. This information will be used to provide and improve search and mapping results. With your consent, some Bing mobile applications may collect more precise location information to provide a more relevant experience or provide enhanced features that rely on knowing your location.
+When using a web browser, the Bing preferences page allows you to manage your search preferences, such as search history, search language settings, and saved interests or favorites that may be used in Microsoft services when signed in using your Microsoft account. These settings allow you to customize your search experience and provide features that are most relevant to you and your interests.
 
   
   
 
-Refer to the documentation that came with your device for information about how to turn off location for a Bing Search application. If you turn off or disable location for the Bing Search application or the browser that you use to go to m.bing.com, you will stop sharing your device's location with Bing.
+**Managing Search History**
+
+For Bing Search in your browser, using the search terms you enter and the results you click, search history provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided here. Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described in the Collecting Your Information Section.
 
   
   
 
-When you sign into and use the location-based services, “Check-in” and “Reminders”, Microsoft stores the approximate location of your device along with your Microsoft account. The location information is used to provide relevant search results, offer you deals for local businesses, and operate and improve our services. To disable access to your device’s location by these services, go to the settings menu of the Bing application and turn location to “Off.”
+**Managing Interests and Personalization settings**
+
+When you are signed into your Microsoft account, the Interests page allows you to view, manage, and clear topics and favorites, such as news topics or sports teams you configure in your Bing apps, or interests you confirm when using other Microsoft Services such as Cortana. You may also clear these interests and other information used for personalization under the Personalization tab on the Settings page. Because these interests and personalization settings are used across Microsoft Services that are powered by Bing (as described in the Microsoft Services Powered by Bing section), clearing these settings may impact your personalization in other Bing-powered services such as Cortana and Bing apps. Clearing these settings may also not prevent new interests or personalization settings from being created if you continue to use personalization features across these Microsoft services and apps. 
+
+To control personalization features in these services and apps, either sign out of your Microsoft account or disconnect your Microsoft account from the specific service or application in the Settings option. To stop Cortana personalization on applicable Windows devices, you can disable Cortana by going to Settings->Applications->Cortana on your Windows device.
 
   
   
 
-Binglets integrate third party services into Bing search that enable you to associate an action with your search results. For example, if you search on restaurants, a Binglet provides the functionality to enable you to reserve a table. When you use a third party “Binglet” within a Bing application, information you provide to the Binglet is shared with the third party named in it. For details about the third party’s information collection and usage practices, see the privacy policy on their web site. Bing doesn’t separately collect or store information provided to a third party Binglet.
+**Contacting Microsoft to Access Other Information**
+
+You may also contact Microsoft by using the web form. We will make reasonable efforts to respond to your web request to access or delete your personal information within 30 days.
+
+Microsoft Services Powered by BingMicrosoft Services Powered by Bing
+
+Microsoft services and apps that are powered by Bing services, such as Bing apps, Cortana, and Microsoft mapping services, use Bing search to provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  These Bing-powered services are available on a variety of platforms including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars.
+
+When you conduct a search in a Bing-powered service or app, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the Collecting Your Information section of this statement.
+
+Some Bing-powered services, such as Cortana and Bing apps, provide you with an enhanced experience when you connect these services to your Microsoft account. When you log in and connect these Bing-powered services to your Microsoft account, Microsoft may use your information to personalize these and other Microsoft services and apps. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. 
+
+Microsoft services and apps that are powered by Bing services, such as Bing apps, Cortana, and Microsoft mapping services, use Bing search to provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  These Bing-powered services are available on a variety of platforms including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars.
+
+When you conduct a search in a Bing-powered service or app, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the Collecting Your Information section of this statement.
+
+For the Autosuggest feature, the characters that you type into a Bing-powered service or app to conduct a search will be sent to Microsoft in order to provide you with real-time search suggestions.
 
   
   
 
-Mapping features on Microsoft's sites and services are based in part on the Bing Maps service. Bing Maps is a set of mapping and related services that can be accessed through an application such as a Web site, desktop software, or mobile application. When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.
+**Bing Apps**
+
+When you install Bing apps, such as the Bing Sports app and Bing Weather app, we collect information that tells us if the app was installed properly, the installation date, the app version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the application, and issues associated with different versions of the application and different operating systems and browsers.
+
+In addition, when you use a Bing app we collect information about how you interact with each app, such as what buttons you click, which is used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
+
+In Bing apps, the Settings charm also has a Microsoft Advertising option that allows you to enable or disable the use of your information collected from Bing apps for the purpose of personalized advertising.
 
   
   
 
-We keep track of all requests the application you are using makes to the Bing Maps Service. Location-related information in the request or derived from the request, may be used for calculating payments to our data vendors so that we may operate the service. We will occasionally capture all information in the request for use in testing and maintenance of the service. This information includes the date and time of the request and location-related information you may have provided to the application such as latitude and longitude, address, place name or the start and end address of a route.
+**Cortana**
 
-Facebook PersonalizationFacebook Personalization
+Cortana, a personal assistant available on Windows phone 8.1 versions, is powered by Bing. Cortana can track things that interest you to provide a personalized experience, such as personalized reminders, suggestions, search results and app recommendations. Your Bing search queries that are made using Cortana are treated like any other Bing search queries and combined with other information about you to improve your Bing search results and the relevance of personalized ads. These searches are subject to the Bing Services policies outlined in this statement. When you are signed in with your Microsoft account, your Cortana Interests may sync and be used by other Microsoft apps and services, such as Bing or Bing apps, to customize your profile interests, preferences and favorites in those apps as well. For more information on how Cortana collects and uses your information, please see the Cortana privacy statement.
 
-Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. You can turn off these Instant Personalization features at any time by going to http://www.facebook.com/help/?faq=204873389548151.
+**Personalization and Syncing**
 
- In addition, Bing search and Microsoft apps that use Bing services (also known as “Bing apps”) described in the Bing Apps section of this statement may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Bing apps.  You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
+Some Bing-powered services, such as Cortana and Bing apps, provide you with an enhanced experience when you connect these services to your Microsoft account. When you log in and connect these Bing-powered services to your Microsoft account, Microsoft may use your information to personalize these and other Microsoft services and apps. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. These features use information from the searches you make in these Bing-powered services or apps (as described in the “Collecting Your Information” and “Using your Information” sections above) and information associated with your Microsoft account.
 
-Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. Bing uses this information only to operate and improve the services we provide to you, and not for any other purposes such as advertising.
+All information used for personalization and syncing is stored on Microsoft servers, and for security purposes, is transmitted using SSL. Some information used to customize your apps on a specific PC will not be synced on that PC and your devices until you add that PC to your Microsoft account as a trusted PC.
 
-You can turn off these Instant Personalization features at any time. The first five times you do a Bing search that will show social results, you will see a notification at the top of your screen. clicking “disable” will disable the features and prevent Bing from using your Facebook information to personalize your experience. If you want to disable the features later, you can do so by going to http://www.facebook.com/help/?faq=204873389548151. You can opt back in by clicking on the Facebook icon on the top right of the Bing page. For more information about these features, click here.
+For Bing apps, such as the Bing Weather app and the Bing Sports app, if you are signed in to Windows or a Windows Phone with a Microsoft account (or a domain account connected to a Microsoft account), the personalization and sync feature will be enabled by default. If you ever wish to stop personalization and syncing in a Bing app, sign-out of your Microsoft account using the app settings.
+
+For some Bing-powered services or apps, you may need to connect your Microsoft account to the service or app before personalization will be enabled, or consent to personalization before using that application. Please see the privacy statement for the specific service or app for more information.
+
+You may have different personalization and sync settings depending on the version of your Bing-powered service or app. For more information on how to manage personalization settings, please see the ‘Accessing your Information” section.
 
   
   
 
-In addition, Bing search and Microsoft apps that use Bing services (also known as “Bing apps”) described in the Bing Apps section of this statement may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Bing apps.  An example of these additional personalization features is Local Scout on Windows Phone. 
+**Personalization and syncing in older Bing Apps and Bing apps on non-Microsoft Devices**
+
+Other Bing apps on Microsoft and non-Microsoft devices, such as older iOS versions of the Bing app, do not offer personalization/syncing because they do not have functionality to allow you to use your Microsoft account to sign in or sign out of the app. 
+
+Older versions of Bing apps for Windows do not offer personalization and rely on the Sync Your Settings option in PC settings to determine whether to sync your customized app settings.  If you do not want to sync your customized app settings, you can turn off this functionality in PC settings ->. Sync your settings.  You can also turn off syncing by not signing in to Windows with a Microsoft account (or a domain account connected to a Microsoft account).
+
+For the Bing app on your iOS device, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.
 
   
   
 
-For these additional personalization features to work, you must first grant Facebook permission to share your data with Microsoft via the Facebook connect dialog boxes, which may include private data such as your photos on Facebook that are not marked public.   You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
+**Configuring Bing-powered services and apps to use other data sources:**
 
-Bing ApplicationsBing Applications
+Some Bing-powered services and apps provide you the option to configure the service or app to use additional information from other Microsoft products and services, or from third parties. For example:
 
-Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars.
+*   Your Facebook information, if Facebook personalization is enabled, for use in services and apps that use social features (such as Local Scout in Maps and Cortana). See the Facebook section for more details.
+*   Your HealthVault information that you consent to use in certain Bing apps such as the Bing Health and Fitness app. Bing only displays this information and does not store it.
+*   Your personal finance information from third party financial institutions that you consent to use in the Finance app. The Finance app only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft.
+*   Information from other companies that you have configured for use, such as travel itineraries in the Travel app and subscriptions in the News app.  
 
-When you install and use Bing apps, information about your computer and how you use the app, such as type and version of operating system, browser information and buttons you click, is collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
-
-If you are using Bing Desktop or Bing Toolbar and choose to participate in the Bing Experience Improvement Program, we also collect additional information about how you use these specific Bing apps, including information about your searches within these apps. Additionally, when opted into the Bing Experience program on Bing Toolbar, we collect information about the addresses of the websites you visit.  
-
-Lastly, some Bing apps provide the option to configure the application to use additional information from other Microsoft products and services, or from third parties.
-
-**What are Bing Apps?**
-
-Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars.
-
-**Information collected and processed when installing and using a Bing app**
-
-When you install Bing apps we collect information that tells us if the app was installed properly, the installation date, the app version and other information about your computer such as the operating system and browser. This information will be collected on a regular basis to help us determine the number of users of the application and issues associated with different versions of the application and different operating systems and browsers.
-
-In addition, when you use a Bing application we collect information about how you interact with each app, such as what buttons you click, which is used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
-
-When you type a query in a Bing app, that information will be sent to Microsoft to provide you with the search results you are requesting. We use and protect this information as described in the Collecting Your Information section of this statement.
-
-For the Autosuggest feature, the characters that you type into a Bing search will be sent to Microsoft in order to provide you with real-time Search Suggestions.
+  
+  
 
 **Bing Experience Improvement Program for Bing Toolbar and Bing Desktop**
 
@@ -272,40 +288,40 @@ If you are using Bing Desktop or Bing Toolbar and choose to participate in the B
 
 To help protect your privacy, we do not use any of the information collected through the Bing Experience Improvement Program to identify or contact you, or target advertising to you.  Also, we take steps to store such information separately from any account information we may have that directly identifies you, such as name, e-mail address, or phone numbers. Finally, we delete the information collected through the Bing Experience Improvement Program after eighteen months. You may stop participating in the Bing Experience Improvement Program by following the instructions here.
 
-**Configuring Bing apps to use other data sources:**
+  
+  
 
-Some Bing apps provide you the option to configure the application to use additional information from other Microsoft products and services, or from third parties. For example:
+**Binglets**
 
-*   Your Facebook information, if Facebook personalization is enabled, for use in apps that use social features (such as Local Scout in Maps). See the Facebook section for more details.
-*   Your HealthVault information that you consent to use in certain apps such as the Bing Health and Fitness app. Bing only displays this information and does not store it.
-*   Your personal finance information from third party financial institutions that you consent to use in the Finance app. Bing only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft.
-*   Information from other companies that you have configured for use such as travel itineraries in the Travel app and subscriptions in the News app.  
+Binglets integrate third party services into Bing search that enable you to associate an action with your search results. For example, if you search on restaurants, a Binglet provides the functionality to enable you to reserve a table. When you use a third party “Binglet” within a Bing application, information you provide to the Binglet is shared with the third party named in it. For details about the third party’s information collection and usage practices, see the privacy policy on their web site. Bing doesn’t separately collect or store information provided to a third party Binglet
 
-**Personalization and Syncing for apps**
+Facebook PersonalizationFacebook Personalization
 
-If you want to enhance your experience when using some Bing apps, you can choose to connect your Microsoft account. Whenever you are logged into your Microsoft account and using the app, Bing will use your information to personalize and sync your apps and other Microsoft services. Personalization provides you with a customized experience to provide features that are most relevant to you and your interests. These features use information collected by your Bing app (as described in the “Collecting your Information” and “Using your Information” sections above) and information associated with your Microsoft account. If you are signed in to Windows or Windows Phone with a Microsoft account (or a domain account connected to a Microsoft account), the personalization and sync feature will be enabled by default. If you ever wish to stop personalization and syncing in a Bing app, sign-out of your Microsoft account using the app settings. You may have different personalization and sync settings depending on the version of your Bing app.
+Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. You can turn off these Instant Personalization features at any time by going to http://www.facebook.com/help/?faq=204873389548151.
 
-Other Bing apps on Microsoft and non-Microsoft devices, such as older iOS versions of the Bing app, do not offer personalization/syncing because they do not have functionality to allow you to use your Microsoft account to sign in or sign out of the app. 
+In addition, Bing search and Microsoft Services Powered by Bing may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
 
-All information used for personalization and syncing is stored on Microsoft servers and for security purposes is transmitted using SSL. Some information used to customize your apps on a specific PC will not be synced on that PC and your devices until you add that PC to your Microsoft account as a trusted PC.
+Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. Bing uses this information only to operate and improve the services we provide to you, and not for any other purposes such as advertising.
 
-**Syncing for older versions of Bing apps and Bing apps**
+You can turn off these Instant Personalization features at any time. The first five times you do a Bing search that will show social results, you will see a notification at the top of your screen. clicking “disable” will disable the features and prevent Bing from using your Facebook information to personalize your experience. If you want to disable the features later, you can do so by going to http://www.facebook.com/help/?faq=204873389548151. You can opt back in by clicking on the Facebook icon on the top right of the Bing page. For more information about these features, click here.
 
-Older versions of Bing apps for Windows do not offer personalization and rely on the Sync Your Settings option in PC settings to determine whether to sync your customized app settings.  If you do not want to sync your customized app settings, you can turn off this functionality in PC settings ->. Sync your settings.  You can also turn off syncing by not signing in to Windows with a Microsoft account (or a domain account connected to a Microsoft account).
+In addition, Bing search and Microsoft Services Powered by Bing may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  An example of these additional personalization features is Local Scout on Windows Phone. 
 
-**Syncing for Windows phone and other operating systems**
+For these additional personalization features to work, you must first grant Facebook permission to share your data with Microsoft via the Facebook connect dialog boxes, which may include private data such as your photos on Facebook that are not marked public.   You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
 
-For Bing apps on your Windows Phone, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.  For example, in certain versions of Bing apps for Windows Phone, you can sign in or out of the app in Settings->. Microsoft account.
+Bing Location ServicesBing Location Services
 
-For the Bing app on your iOS device, personalization and syncing can be turned on and off by signing in or out of your Microsoft account.
+If you’ve allowed a Microsoft service or application that uses Bing services to access your location, the approximate location of your device will be sent to Microsoft along with the search terms, time and date of your search, and a unique identifier generated by the Microsoft service or application. Mapping features in Microsoft's services and apps also use Bing services, and when you submit information such as an address to be viewed on a map, that service or application passes it to Bing services for processing. The location information sent to Bing Services will be used to provide and improve search and mapping results. With your consent, some mobile applications that use Bing Services may collect more precise location information to provide a more relevant experience or provide enhanced features that rely on knowing your location.
 
-**Personalized ads on Windows Bing apps**
+Also, if you connect a Bing Service or app to another service that has “Check-in” or “Reminder” features, such as Facebook or Foursquare, when you use these features Microsoft will store the approximate location of your device along with your Microsoft account information.
 
-The Settings charm also has a Microsoft Advertising option that allows you to enable or disable the use of your information collected from Bing apps for the purpose of personalized advertising.
+If you’ve allowed a Microsoft service or application that uses Bing services to access your location, the approximate location of your device will be sent to Microsoft along with the search terms, time and date of your search, and a unique identifier generated by the Microsoft service or application. Mapping features in Microsoft's services and apps also use Bing services, and when you submit information such as an address to be viewed on a map, that service or application passes it to Bing services for processing. The location information sent to Bing Services will be used to provide and improve search and mapping results. With your consent, some mobile applications that use Bing Services may collect more precise location information to provide a more relevant experience or provide enhanced features that rely on knowing your location.
 
-**Letting Bing apps use location in Windows**
+Also, if you connect a Bing Service or app to another service that has “Check-in” or “Reminder” features, such as Facebook or Foursquare, when you use these features Microsoft will store the approximate location of your device along with your Microsoft account information.
 
-If you consent to send location information to an app, that information will be used to provide the service you’ve requested, as well as to improve our products and services. You can stop sending location information either through the Windows privacy setting or through the specific app settings, depending on your Windows version or device. For example, on Windows 8.1 you have the option to update this both in the Windows privacy menu, or using the app’s setting charm.
+You can stop sending location information either through the Windows privacy setting or through the specific app settings, depending on your Windows version or device. For example, in Windows 8.1 you have the option to update this either in the Windows privacy menu or by using the app’s setting charm. For older versions of Windows or devices running other operating systems, refer to the help information about how to turn off location for that operating system or device.
+
+When using Microsoft mapping features, we keep track of all requests the application you are using makes to the Bing service. Location-related information in the request or derived from the request, may be used for calculating payments to our vendors that provide mapping data, so that we may operate the service. We will occasionally capture all information in the request for use in testing and maintenance of the service. This information includes the date and time of the request and location-related information you may have provided to the application such as latitude and longitude, address, place name or the start and end address of a route.
 
 ChildrenChildren
 
