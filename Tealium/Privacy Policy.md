@@ -95,7 +95,7 @@ The industry's first audience discovery and digital data distribution platform �
     *   Technology Services
 
 Upcoming Panel Discussion  
-Don't miss "Smashing Data Silos to Gain a Holistic View of the Customer" »
+Don't miss "Driving More Profitable Customer Interactions with Big Data" »
 
 *   Partners
     *   SYNC for Agencies
@@ -281,12 +281,12 @@ Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
 
+*   Digital Content Management System
+*   What Is Digital Marketing
+*   Marketing Campaign Effectiveness
 *   Digital Data
-*   Customer Data Management
-*   Data Distribution System
-*   Digital Marketing Technologies
-*   Audience Data Management
+*   Universal Tag
 *   Big Data Platform
-*   Bid Management Tools
 *   Analytics Tag Management
-*   Digital Marketing
+*   Marketing Digital
+*   Search Retargeting
