@@ -2,39 +2,142 @@ General Information
 
 Privacy Policy
 
-At Wayfair LLC, we protect your personal information. Wayfair owns information collected on this site and will never sell or rent this information. We will not share it in ways different from what is described in this statement unless you authorize us to do so.
+This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern and Wayfair Supply ( "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service").
 
-Cookies and IP Addresses
+Before submitting information to the Service, please review this Privacy Policy carefully. By using or accessing the Service, you accept the practices described in this Privacy Policy. If you prefer that we not collect and process information about you, please do not provide it to us and do not access the Service.
 
-Wayfair is firmly committed to our customers' privacy. Like many sites, we use your IP address to help diagnose problems with our server and provide a better web experience. Your IP address is used to help identify you and your shopping cart and gather general demographic information. We use cookies to keep track of your shopping cart and for other purposes like personalizing the site. We may also use our own cookies to provide enhanced online display advertising tailored to your interests. To opt out of advertising provided directly by Wayfair, click here. Cookies are a small pieces of information stored by your internet browser to your computer's hard drive. Your browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the site will not be able to recognize your cart, your account, or any personalization. We do not and cannot use cookies to gather your confidential information that may be stored on your hard drive. Wayfair also uses web beacons as a means to deliver us cookies in order to determine whether and how many times our web pages have been browsed. Third Party advertisers also help us display tailored content to our customers and serve ads on our behalf. These advertisers may also utilize cookies and/or web beacons to measure effectiveness, efficiencies, etc. of the sites. To learn more about advertising personalized to your interests by third parties, or to opt out, visit the Network Advertising Initiative at www.networkadvertising.org.
+We do not knowingly collect any Personal Information from children under 13. Where any such information is inadvertently collected, we will delete the information as soon as possible. If you believe a child under 13 has provided us with Personal Information, please contact us at legal@wayfair.com.
 
-External Links
+Information We Collect
 
-This site contains links to other websites. Wayfair is not responsible for the privacy practices or the content of other sites.
+We collect the information that you share with us, including:
 
-Your Personal Information
+*   **Personal Information:** "Personal Information" is information that can personally identify you, such as your name, email address and telephone number. We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Service. Personal Information that we collect depends on how you use the Service. Providing your Personal Information to us is your choice. If you choose not to provide us with certain Personal Information, you may not be able to take advantage of certain features of the Service. and
+*   **General Information:** When you visit the Service, we may collect various categories of general non-personal information ("General Information"). General Information includes browser information, operating system information, device information, TCP-IP address and the date, time, length of stay and specific pages accessed during your visits to the Service.
 
-Our site uses forms for you to request information, products and services. We collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. Collected information is used for the benefit of Wayfair to send information to customers about orders, to fulfill orders, to process and collect payments, to send promotional marketing material about our company and partners, and to contact customers about orders when necessary. Demographic and profile data is also collected at our sites. We use this data to tailor your experiences at our sites, to show you content that we think you might be interested in, and to display the content according to your preferences.
+Registering for the Service
 
-Accessing and Updating Your Email Preferences
+If you register to use the Service, we may collect Personal Information including your name, email address, and telephone number.
 
-If you are a registered user, you may change your preferences to receive or not to receive email or other communications from us by logging in to your account and indicating those preferences on the "My account" section of our Site.
+You may also register for the Service using another service, such as Facebook. If you create your Wayfair account by connecting through another service, you are authorizing us to use public information from that connected account to help complete your Wayfair profile. Please remember that the manner in which the service uses, stores, and discloses your information is governed solely by the policies of such service. We recommend that you review the terms and policies of that service, including its privacy and data gathering practices. Wayfair shall have no liability or responsibility for the privacy practices or other actions of any third party service provider or any other third-party site or service that may be enabled within the Service.
 
-Third-Party Service Providers
+You may review, update, or modify your account information, including profile and contact information, at any time by logging into your Wayfair account. You may also permanently delete your account by contacting us at legal@wayfair.com.
 
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, providing marketing assistance such as tailoring content on our sites and serving ads on our behalf, providing search results and links, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+Online Identification Tools
 
-Customer information is considered to be an asset of Wayfair LLC and as such may be transferred to another company as part of an acquisition of Wayfair.
+Like many website providers, we use your IP address to help diagnose problems with our server and provide a better web experience. Your IP address is used to help identify you and your shopping cart and gather General Information.
+
+We use web beacons (a.k.a. clear GIFs, web bugs or pixel tags) to personalize your experience of the Service and to generate information about Service traffic and trends. Web beacons collect General Information, such as the type of browser that you use and your IP address. Web beacons may be used alone or in conjunction with cookies. when web beacons are used with cookies, they may link General Information to Personal Information. Web beacons usually are not visible to you.
+
+We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service. A cookie is a small file stored by your internet browser on your computer. A "session cookie" stores temporary information that is erased when you close your web browser or turn off your computer. A "persistent cookie" enables the Service to recognize you when you return to it and remains stored on your computer until you delete it. Your web browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the Service will not be able to recognize your account or to personalize the content that you see. A "flash cookie," also known as a "local storage object," is not stored in your browser, unlike other cookies, and instead placed on your computer by websites that use Adobe Flash. You may disable flash cookies via your Flash Player preferences or by using third-party software. We do not and cannot use cookies to gather other information that may be stored on your hard drive.
+
+Third-party advertisers also help us display tailored content to our customers and serve advertising on our behalf. These advertisers may also utilize cookies and/or web beacons to collect General Information about your activities on the Service, to target advertising based upon your interests and to measure effectiveness of the Service. Our systems do not currently recognize browser "Do Not Track" signals, but if you wish to not have General Information used for the purpose of serving you targeted ads, you may be able to opt-out by visiting http://www.youradchoices.com or similar online resources about behavioral advertising. Please note that opting out prevents targeted advertising but does not prevent all advertising.
+
+Third Party Features
+
+The Service also may include an activity feed, social media buttons and widgets, such as the Facebook "Like" button or the "Share This" button. These features may collect and display your Personal Information, your IP address and the page you are visiting on the Service and may set a cookie to enable the feature to function properly. These features are either hosted by a third party or hosted directly on the Service and your interactions with them are governed by the privacy policy of the third party that provides the feature.
+
+Use of Service via Mobile Device
+
+If you use the Service through your mobile device, we may collect your geo-location information to assist us in fulfilling your order. We will not share this information with third parties and will only use this information for the sole purpose of fulfilling your order. You may at any time prevent the Service from using your location by turning this option off at the device level.
+
+When you use the Service through your mobile device, we also collect device type and UUID, a unique identifier generated within the App, and store this information in log files. We use this information to provide you with the most up to date application and features, or to advertise or promote products or services to you that are applicable to your device type.
+
+Third-Party Links
+
+We may provide links to third-party websites that we do not own or control. We are not responsible for the information collection practices of any website that we do not own or control. We encourage you to review and understand the privacy practices of third-party websites before providing any information to or through them.
+
+How Your Personal Information is Used, Processed and Disclosed
+
+Except as specified in this Privacy Policy, Wayfair does not rent, sell, trade or disclose your Personal Information to third parties without your prior consent. Wayfair may, however, use, process and disclose Personal Information to:
+
+1.  send information to customers about orders;
+2.  fulfill your orders;
+3.  process and collect your payments;
+4.  administer "Wayfair Rewards" and other customer loyalty programs;
+5.  send you promotional marketing material about Wayfair’s company and partners;
+6.  produce content for our activity feed feature;
+7.  customize, analyze, adjust and improve the Service to better meet your needs;
+8.  execute a sweepstakes, contest or other promotion;
+9.  enforce Wayfair’s agreements with you;
+10.  provide you with important administrative information regarding the Service, such as changes to this Privacy Policy and our Terms of Use, rewards and loyalty programs and other policies;
+11.  prevent fraud and other prohibited or illegal activities. and
+12.  comply with potential requests of law enforcement or data protection agencies.
+
+When possible, General Information may be combined and/or linked to Personal Information, in accordance with the purposes specified above.
+
+We may use your General Information and deidentified Personal Information to prepare anonymized, aggregated data about our users ("Anonymized Data"). We may provide third parties with Anonymized Data in describing the Service to prospective partners, advertisers and other third parties, and for all other lawful purposes. As communicated to third parties, the Anonymized Data does not include any information permitting the recipient to identify, locate or contact you.
+
+Third Party Service Providers
+
+Wayfair employs other companies and individuals to perform functions on our behalf, such as fulfilling orders, delivering packages, sending postal mail and e-mail, serving ads on our behalf, providing search results and links, and processing credit card payments. These third-party service providers have access to Personal Information needed to perform their functions but may not use it for any other purpose.
+
+Acquisition of Wayfair
+
+Information about customers is considered an asset of Wayfair and, as such, may be transferred to another company as part of a merger or acquisition.
+
+Information Sharing for Marketing Purposes
+
+To provide you with information about products and services that may be useful to you, we may partner with select reputable organizations whose privacy policies we believe are consistent with ours. Such organizations may include other retailers and magazine publishers. Through these arrangements, we may share, exchange, cross-reference and/or rent your name and mailing address.
+
+If you do not want us to share your Personal Information with third parties for marketing purposes, please contact us at legal@wayfair.com. Immediately after your request has been processed, your information will no longer be shared with any third party for marketing purposes.
+
+Blogs, Reviews and Forums
+
+The Service also may from time to time offer publicly-accessible blogs, customer reviews or forums. Any information you provide in these areas may be read, collected and used by others who access them. To request removal of your Personal Information from blogs, customer reviews or forums, please contact us at legal@wayfair.com. Please note that in some cases we may be unable to remove your Personal Information.
+
+Inviting Others
+
+You may choose to invite someone else to use the Service by providing his or her name and email address. We may use this information to send invitations to such individuals, to track the results of such invitation referrals, and to confirm qualifying orders attributable to your registered account. Anyone who receives an email invitation to use the Service may opt out of receiving such emails in the future by following the opt-out instructions in the email. We take commercially reasonable steps to implement all opt-out requests promptly, but those who opt out may still receive communications from us as we process the opt-out request, or as required for order processing and other purposes.
+
+Retention of Personal Information
+
+Wayfair retains Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by applicable law.
+
+Accessing and Updating Your Personal Information and Preferences
+
+Modifying or Deleting Your Personal Information
+
+If you would like to modify or delete your Personal Information, please send an email to legal@wayfair.com with clear instructions in the body of the email about what you would like to modified or deleted. We will respond to your request promptly.
+
+Changing Your Subscription Preferences
+
+If you tell us that you do not want us to use your Personal Information to contact you, Wayfair will respect your wishes. If you are a registered user, you may change your preferences to receive or not to receive email or other communications from us by logging in to your account and indicating those preferences on the "My Account" section of our Service.
+
+You may also instruct Wayfair to stop sending you emails, newsletters or other information by following the ‘unsubscribe’ instructions provided in the email. Wayfair may, however, continue to use your Personal Information to contact you to service your account or as otherwise authorized by law. Please note that if you use more than one name or e-mail address when communicating with Wayfair or using the Service, you may continue to receive communications from Wayfair to any name and/or email address not specified in your opt-out request.
+
+Information for Visitors From California and Outside of the United States
+
+California Residents
+
+California law permits individuals who provide Wayfair with Personal Information and who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To request this information, please send an email to legal@wayfair.com.
+
+Visitors from Outside of the United States
+
+The Service is hosted in the United States. If you are visiting the Service from outside the United States, your information may be transferred to, stored and processed in the United States in accordance with this Privacy Policy and applicable US laws. Please note that data protection and other applicable laws of the United States may not be as comprehensive as those laws or regulations in your country or may otherwise differ from the data protection or consumer protection laws in your country. By using the Service, you consent to transfer of your information to our facilities as described in this Privacy Policy.
 
 Information Security
 
-We have instituted reasonable safeguards to help ensure that information collected is secure. We also take reasonable steps to ensure that third parties who work with us to make the Sites (including the software, applications and services provided on the Sites) available to you agree to protect personal information that they must access in order to serve you and to honor your preferences about contacts you receive.
+We have instituted reasonable safeguards to help ensure that information collected is secure. We also take reasonable steps to ensure that third parties who work with us to make the Site (including the software, applications and services provided on the Site) available to you agree to protect personal information that they must access in order to serve you and to honor your preferences about contacts you receive.
 
 When you send or otherwise transmit your sensitive information (such as your credit card number) to or though the Sites, your sensitive information is encrypted and protected with SSL, the current industry-standard encryption protocol. When you are on an SSL-protected page, a picture of a closed lock appears at the bottom or top of some web browsers. Another way to tell if you are on a secure page is to check the URL or address of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL-encrypted pages have URLs that start with "https://" instead of "http://".
 
-Please understand, however, that it is possible for third parties to access information despite our efforts. Without limiting the terms of our Terms of Use and Privacy Policy, you understand that we do not guarantee that your use of the Sites and/or information provided by you will be private or secure and we are not responsible or liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Sites. You also understand that any information provided by you or collected by us or our agents\] in connection with your use of the Sites will be used in the manner described in our Terms of Use. Please do not use the Sites if you do not agree to the terms and conditions described in this Information Security section.
+Please understand, however, that it is possible for third parties to access information despite our efforts. Without limiting the terms of our Terms of Use and this Privacy Policy, you understand that we do not guarantee that your use of the Site and/or information provided by you will be private or secure and we are not responsible or liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Site. You also understand that any information provided by you or collected by us or our agents in connection with your use of the Site will be used in the manner described in our Terms of Use. Please do not use the Site if you do not agree to the terms and conditions described in this Information Security section.
 
-If you have any questions about security of the Sites, please email us at legal@wayfair.com.
+If you have any questions about security of the Site, please email us at legal@wayfair.com.
+
+Changes to our Privacy Policy
+
+We may occasionally update this Privacy Policy to reflect changes in our practices. When we post modifications to this Privacy Policy, we will revise the "Last Updated" date at the top of this web page. The modified Privacy Policy will be effective immediately upon posting on the Service. Your continued use of the Service after the posting of the modified Privacy Policy constitutes your agreement to abide and be bound by it. If we make any material change, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Service prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you object to any modification, your sole recourse is to stop using the Service.
+
+Questions About our Privacy Policy
+
+If you have questions about this Privacy Policy or Wayfair generally, please contact us at legal@wayfair.com. You can also send us physical mail to:
+
+Wayfair LLC  
+Attention: Legal Department  
+177 Huntington Avenue, Suite 6000  
+Boston, MA 02115
 
 Terms of Use
 
@@ -42,7 +145,7 @@ Last Updated: March 22, 2013
 
 Welcome to Wayfair!
 
-Wayfair LLC and its affiliates ("**Wayfair**", "**we**" or "**us**") provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "**Sites**") subject to your compliance with these Terms of Use.
+Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern and Wayfair Supply ( "Wayfair", "we" or "us")" provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "**Sites**") subject to your compliance with these Terms of Use.
 
 PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SITES. These Terms of Use constitute an agreement between Wayfair and you. We recommend that you print out a copy of these Terms of Use for your records.
 
@@ -148,7 +251,7 @@ Termination
 
 Your ability to access and use the Sites remains in effect until terminated in accordance with these Terms of Use. You agree that Wayfair, in its sole discretion, may terminate your account and your use of the Sites and may remove and delete your User Content if Wayfair believes that you have violated or acted inconsistently with these Terms of Use or for any other reason. Wayfair also may in its sole discretion and at any time discontinue providing the Sites, or any part thereof, with or without notice. You agree that any termination of your access to the Sites may be effected without prior notice and you acknowledge and agree that Wayfair may bar any further access to the Sites. Further, you agree that Wayfair will not be liable to you or any third-party for any termination of access to the Sites.
 
-You may terminate your account by sending a letter stating your intention to Wayfair LLC, 177 Huntington Avenue, Boston MA 02119 Att:Service or an email to service@Wayfair.com, with the subject line "Termination Request".
+You may terminate your account by sending a letter stating your intention to Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115 Att:Service or an email to service@Wayfair.com, with the subject line "Termination Request".
 
 The provisions of the Intellectual Property Rights, User-Generated Content, Acceptable Use Policy, Disclaimer of Warranties, Indemnity, Limitation of Liability, Legal Dispute sections, together with and any other rights and obligations which by their nature are reasonably intended to survive such termination, will survive any termination of these Terms of Use.
 
@@ -172,11 +275,11 @@ No waiver of any provision or any breach of this Agreement will constitute a wai
 
 Violations
 
-Please report any violations of these Terms of Use to the system administrator at Legal@Wayfair.com.
+Please report any violations of these Terms of Use to the system administrator at legal@wayfair.com.
 
 Questions?
 
-If you have questions, comments or complaints about these Terms or the Sites, please contact us at Legal@Wayfair.com (with the subject line "Questions about the Sites").
+If you have questions, comments or complaints about these Terms or the Sites, please contact us at legal@wayfair.com (with the subject line "Questions about the Sites").
 
 Wayfair's Copyright Policy
 
@@ -200,9 +303,9 @@ If you believe in good faith that material appearing on the Site infringes your 
 You must submit any notification of an alleged copyright infringement to Wayfair's Copyright Agent by mail or email as set forth below:
 
 Wayfair Copyright Agent  
-Attn: Wayfair Legal  
+Attn: Legal  
 177 Huntington Avenue, Suite 6000  
-Boston, MA  02115  
+Boston, MA 02115  
 Email: legal@wayfair.com (with the subject line "Wayfair DMCA Notice")
 
 If you fail to comply with all of the above requirements, your DMCA Notice will not be valid. Please note that you may be liable for damages, including court costs and attorneys' fees, if you materially misrepresent that materials on the Site are infringing a copyright.
@@ -221,9 +324,9 @@ If you believe in good faith that your own copyrighted material has been removed
 You may submit your counter notification to Wayfair's Copyright Agent by mail or email as set forth below:
 
 Wayfair Copyright Agent  
-Attn: Wayfair Legal  
+Attn: Legal  
 177 Huntington Avenue, Suite 6000  
-Boston, MA  02115  
+Boston, MA 02115  
 Email: legal@wayfair.com (with the subject line "Wayfair DMCA Notice")
 
 Upon receipt of a counter notice, Wayfair's Copyright Agent may send a copy of it to the original complaining party informing that party that Wayfair may replace the removed content or cease disabling it. Unless the copyright owner files an action seeking a court order against Wayfair, the removed content may be replaced or access to it restored by Wayfair.
@@ -332,13 +435,13 @@ _\*For the Prize, the home goods products style, color and size are subject to i
 
 **CHOICE OF LAW AND JURISDICTION:** Except where prohibited, all issues and questions concerning the construction, validity, interpretation, and enforceability of these Official Rules, or the rights and obligations of entrants or winner, shall be governed by, and construed in accordance with, the laws of the Commonwealth of Massachusetts, without giving effect to any choice of law or conflict of law rules or provisions, which might otherwise cause the application of the laws of any jurisdiction other than the Commonwealth of Massachusetts. Any action seeking legal or equitable relief arising out of or relating to the Promotion or these Official Rules shall be brought only in the courts of the Commonwealth of Massachusetts. Entrants and/or winner (and their parent(s)/legal guardian(s) if entrant/winner is a minor) hereby irrevocably consent to the personal jurisdiction of said courts and waive any claim of forum non-convenience or lack of personal jurisdiction they may have.
 
-**WINNER'S LIST:** Entrants are responsible for complying with these Official Rules. To receive the winner's list for a specific Promotion, send a self-addressed stamped envelope to: Wayfair.com Giveaway Winner List Request, c/o Wayfair LLC, 177 Huntington Ave., Suite 6000, Boston, MA 02115. Please reference the dates of the Promotion Period and Prize with your request.
+**WINNER'S LIST:** Entrants are responsible for complying with these Official Rules. To receive the winner's list for a specific Promotion, send a self-addressed stamped envelope to: Wayfair.com Giveaway Winner List Request, c/o Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115. Please reference the dates of the Promotion Period and Prize with your request.
 
-**SPONSOR:** Wayfair LLC, 177 Huntington, Ave., Suite 6000, Boston, MA 02115
+**SPONSOR:** Wayfair LLC LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115
 
 Wayfair Gift Card Terms and Conditions
 
-The following terms and conditions (the "Terms") apply to any Wayfair electronic gift card originally purchased by you or someone on your behalf (the "gift card") through the Wayfair website. Gift cards are issued by Wayfair LLC (referred to hereinafter as either "Wayfair", "we", "us" or "our"). By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
+The following terms and conditions (the "Terms") apply to any Wayfair electronic gift card originally purchased by you or someone on your behalf (the "gift card") through the Wayfair website. Gift cards are issued by Wayfair LLC (referred to hereinafter as either "AllModern", "DwellStudio", Wayfair", "we", "us" or "our"). By purchasing a gift card, accepting and retaining a gift card, or using a gift card, you agree to these Terms.
 
 *   Gift cards are only valid in the United States of America and Canada. Void where prohibited.
 *   Gift cards can only be redeemed through one of the Wayfair websites.
@@ -400,9 +503,9 @@ Thank you for your business.
 If you would like to submit a Purchase Order, please fax it to (866) 513-2570, or contact us:
 
 By Phone: 877-WAYFAIR (877-929-3247) or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594  
-For Purchase Orders - (866) 513-2570 By Mail: Wayfair  
+For Purchase Orders - (866) 513-2570 By Mail: Wayfair LLC  
 177 Huntington Avenue, Suite 6000  
-Boston, MA   02115
+Boston, MA 02115
 
 For media inquiries:
 
