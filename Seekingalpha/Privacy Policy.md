@@ -1,4 +1,4 @@
-Seeking Alpha Seeking Alpha Portfolio App for iPad Finance (1) "Seeking Alpha predicted stock returns...&QUOT. WALL STREET JOURNAL »
+Seeking Alpha "Seeking Alpha predicted stock returns...&QUOT. WALL STREET JOURNAL »
 
 *   Home |
 *   My Portfolio |
