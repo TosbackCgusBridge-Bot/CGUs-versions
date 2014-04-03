@@ -54,17 +54,17 @@ Subaru Confidence In Motion
     
     Impreza 2.0i Limited shown
     
-    Impreza WRX Starting at **$25,995** 2014 Impreza WRX
+    WRX Starting at **$26,295** 2015 WRX
     
     Starting at
     
-    $25,995
+    $26,295
     
     MSRP\*
     
     Up to
     
-    25/19 MPG\*\*
+    28/21 MPG\*\*
     
     Highway/City
     
@@ -79,8 +79,7 @@ Subaru Confidence In Motion
     
     WRX Premium shown
     
-    Introducing the  
-    all-new 2015 WRX Legacy Starting at **$20,295** 2014 Legacy
+    Legacy Starting at **$20,295** 2014 Legacy
     
     Starting at
     
