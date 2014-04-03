@@ -46,7 +46,7 @@ Skip to Main Content Toggle search
     *   Digital
     *   Search Jobs
 
-Privacy Policy May 07, 2013 9:51 AM
+Privacy Policy May 07, 2013 9:51 AM ET
 
 **Effective Date December 3, 2013**
 
