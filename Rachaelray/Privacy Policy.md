@@ -103,7 +103,7 @@ This Privacy Policy was last updated on 9/27/07 and is effective immediately.
 
 Contact Us  
   
-If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please send us an email **here**
+If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please send us an email **here.**
 
   
 Governing Law  
