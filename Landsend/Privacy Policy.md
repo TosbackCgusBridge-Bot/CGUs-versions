@@ -16,6 +16,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes &. Sandals
             *   Performance Collection
             *   Canvas Lands' End
+            
             *   New Arrivals
             *   Starfish Collection
             *   Cardigan Shop
@@ -56,6 +57,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes
             *   Made to Work
             *   Canvas Lands' End
+            
             *   New Arrivals
             *   No-Iron Collection
             *   At the Office
@@ -91,6 +93,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Swim Shop
             *   Shoes &. Sandals
             *   School Uniforms
+            
             *   New Arrivals
             *   Boys Iron Knee
             *   Graphic Shop
@@ -157,6 +160,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Home Featured Shops
             *   Totes
             *   Beach Towels
+            
             *   New Arrivals
             *   Hotel Bed &. Bath
             *   Supima Bedding &. Bath
@@ -179,6 +183,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find your School
+            
             *   Polos that Perform
             *   Iron Knee Pants
             *   Phys Ed Locker Room
