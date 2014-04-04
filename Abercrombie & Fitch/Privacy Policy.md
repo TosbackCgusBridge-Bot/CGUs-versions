@@ -158,7 +158,7 @@ To request to have your account cancelled send an email to Privacy\_Policy@Aberc
 
 Privacy of Children
 
-Our Websites that link to this privacy policy are not directed at kids under the age of 13, and no one under the age of 13 should provide personal information on these Websites. We encourage all children under the age of 13 to visit our kids' Website at http://abercrombiekids.com.
+Our Websites that link to this privacy policy are not directed at kids under the age of 13, and no one under the age of 13 should provide personal information on these Websites. We encourage all children under the age of 13 to visit our kids' Website at abercrombiekids.com.
 
 Links
 
