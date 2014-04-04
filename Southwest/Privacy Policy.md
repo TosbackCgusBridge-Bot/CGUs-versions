@@ -70,7 +70,7 @@ You are not required to establish a Southwest account (also referred to as a SWA
 
 If you would like to take advantage of the conveniences available through special Southwest account or SWABIZ features, you must first register for a Southwest or SWABIZ account. Additional features are available to Rapid Rewards Members. To take advantage of those additional features, you must first enroll in the Rapid Rewards program. During registration, you are required to provide contact information (which may include name, address, phone number, e-mail address, and birth date).
 
-Additionally you have the option to provide demographic information  and travel preferences to us. we encourage you to submit this information so we can provide you a more personalized experience on our site and send you valuable offers. We may use the preferences you store in your profile to send you special targeted e-mails based on these preferences. For example, if you express a preference for a specific type of rental car, we may send you special offers for renting this type of vehicle.
+Additionally you have the option to provide demographic information, social media account information, and travel preferences to us. we encourage you to submit this information so we can provide you a more personalized experience on our site, send you valuable offers, and otherwise better serve you online. We may use the preferences you store in your profile to send you special targeted e-mails based on these preferences. For example, if you express a preference for a specific type of rental car, we may send you special offers for renting this type of vehicle.
 
 **Rapid Rewards Program**
 
