@@ -40,7 +40,7 @@ Help Section
 *   Terms of Use
 *   Site Map
 
-_Advertisement_
+Advertisement
 
   
   
