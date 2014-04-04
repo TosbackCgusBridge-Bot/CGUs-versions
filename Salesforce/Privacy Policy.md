@@ -15,7 +15,7 @@ Learn more ›
 
  
 
-Privacy Statement, effective as of July 18,2013
+Privacy Statement, effective as of March 12, 2014
 
 Salesforce.com, inc. (“salesforce.com” or the “Company”) is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”), and individuals who register to attend the Company’s corporate events (“Attendees”). This Privacy Statement describes salesforce.com’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by salesforce.com (the “Services”).
 
@@ -113,6 +113,9 @@ When you visit salesforce.com’s Web sites, the Company collects your Internet 
 
 Salesforce.com also collects IP addresses from Customers whey they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
+**Do Not Track**  
+Currently, various browsers – including Internet Explorer, Firefox, and Safari – offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites' visited by the user about the user's browser DNT preference setting. Salesforce.com does not currently commit to responding to browsers' DNT signals with respect to the Company's Web sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. Salesforce.com takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+
   5. Public forums, refer a friend, and customer testimonials
 
 Salesforce.com may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Salesforce.com is not responsible for the personal information you choose to submit in these forums.
@@ -124,7 +127,7 @@ Salesforce.com posts a list of Customers and testimonials on the Company’s Web
   6. Sharing of information collected
 
 **Service Providers**  
-Salesforce.com may share Data About salesforce.com Customers and Data About salesforce.com Attendees with the Company's contracted service providers so that these service providers can provide services on our behalf. Without limiting the foregoing, Salesforce.com may also share Data About salesforce.com Customers and Data About salesforce.com attendees with the Company's service providers to ensure the quality of information provided, and with third-party social networking and media Web sites, such as Facebook, for marketing and advertising on those Web sites. Unless described in this Privacy Statement, salesforce.com does not share, sell, rent, or trade any information with third parties for their promotional purposes.
+Salesforce.com may share Data About salesforce.com Customers and Data About salesforce.com Attendees with the Company's contracted service providers so that these service providers can provide services on our behalf. Without limiting the foregoing, Salesforce.com may also share Data About salesforce.com Customers and Data About salesforce.com Attendees with the Company's service providers to ensure the quality of information provided, and with third-party social networking and media Web sites, such as Facebook, for marketing and advertising on those Web sites. Unless described in this Privacy Statement, salesforce.com does not share, sell, rent, or trade any information with third parties for their promotional purposes.
 
 **Salesforce.com Affiliates**  
 The Company may share Data About salesforce.com Customers with other companies in order to work with them, including affiliates of the salesforce.com corporate group.  For example, the Company may need to share Data About salesforce.com Customers for customer relationship management purposes.
@@ -134,6 +137,9 @@ From time to time, salesforce.com may partner with other companies to jointly of
 
 Salesforce.com does not share Data About salesforce.com Attendees with business partners unless: (1) you specifically opt in to such sharing via an event registration form. or (2) you attend a Company event and have your attendee badge scanned by a business partner. If you do not wish for your information to be shared in this manner, you may choose not to opt in via event registration forms and elect not to have your badge scanned at Company events.  If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy statements.
 
+**Third Parties**  
+This Privacy Statement sets forth the information salesforce.com collects on the Company’s Web sites and the information we share with third parties. Salesforce.com does not authorize the collection of personal information by third parties through advertising technologies deployed on the Company's Web sites, nor do we share personal information with any third parties collected from the Company's Web sites, except as provided in this Privacy Statement. Section 4 of this Privacy Statement, Web Site Navigational Information, specifically addresses the information we collect through cookies and web beacons, and how you can control cookies through your Web browsers.
+
 **Billing**  
 Salesforce.com uses a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
 
@@ -142,7 +148,7 @@ Salesforce.com reserves the right to use or disclose information provided if req
 
   7. International transfer of information collected
 
-To facilitate salesforce.com’s global operations, the Company may transfer and access Data About salesforce.com Customers and Data About salesforce.com Attendees from around the world, including the United States. This Privacy Statement shall apply even if salesforce.com transfers Data About salesforce.com Customers or Data About salesforce.com Attendees to other countries.
+The Company primarily stores Data About salesforce.com Customers and Data About salesforce.com Attendees in the United States. To facilitate salesforce.com’s global operations, the Company may transfer and access such information from around the world, including from other countries in which the Company has operations. A list of the Company’s global offices is available here. This Privacy Statement shall apply even if salesforce.com transfers Data About salesforce.com Customers or Data About salesforce.com Attendees to other countries.
 
   8. Communications preferences
 
@@ -154,13 +160,11 @@ Customers may update or change their registration information by editing their u
 
   10. Customer Data
 
-Salesforce.com Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). Salesforce.com will not review, share, distribute, or reference any such Customer Data except as provided in the salesforce.com Master Subscription Agreement, or as may be required by law. In accordance with the salesforce.com Master Subscription Agreement, salesforce.com may access Customer Data only for the purpose of providing the Services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law.
+Salesforce.com Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). Salesforce.com will not review, share, distribute, or reference any such Customer Data except as provided in the salesforce.com Master Subscription Agreement, or as may be required by law. In accordance with the salesforce.com Master Subscription Agreement, salesforce.com may access Customer Data only for the purpose of providing the Services or preventing or addressing service or technical problems or as may be required by law. Additional information about the Company’s privacy and security practices with respect to Customer Data is available here.
 
   11. Security
 
-Salesforce.com uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed using Internet Explorer version 7.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (.SSL.) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. Salesforce.com also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology to prevent interference or access from outside intruders. Salesforce.com also offers enhanced security features within the Services that permit Customers to configure security settings to the level they deem necessary. Customers are responsible for maintaining the security and confidentiality of their salesforce.com usernames and passwords.
-
-Because the Company uses the Services to maintain Data About salesforce.com Customers and Data About salesforce.com Attendees, this information, which is stored in the Services, is secured in the same manner as described above for Customer Data.
+Salesforce.com uses robust security measures to protect Data About salesforce.com Customers and Data About salesforce.com Attendees. Because the Company uses the Services to maintain Data About salesforce.com Customers and Data About salesforce.com Attendees, this information, which is stored in the Services, is secured in the same manner as described here.
 
   12. Changes to this Privacy Statement
 
