@@ -263,9 +263,9 @@ Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
 
 Dominion is where heaven meets hell. Premering on Syfy, June 2014.
 
-Defiance - Season 2 Tease Defiance - Season 2 Tease
+Every Town Has Its Breaking Point - Defiance Every Town Has Its Breaking Point - Defiance
 
-Check out the tease for Season 2 of Defiance! Coming this June.
+Defiance season 2 premieres June 19th at 8/7c.
 
 *   FAQ
 *   Feedback
