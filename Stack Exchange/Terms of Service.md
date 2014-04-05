@@ -86,11 +86,11 @@ As a condition to using Services, Subscriber may be required to register with St
 
 8\. Indemnity
 
-Subscriber will indemnify and hold Stack Exchange, its directors, officers and employees, harmless, including costs and attorneys' fees, from any claim or demand made by any third party due to or arising out of Subscriber’s access to the Network, use of the Services, the violation of this Agreement by Subscriber, or the infringement by Subscriber, or any third party using the Subscriber's account, of any intellectual property or other right of any person or entity.
+Subscriber will indemnify and hold Stack Exchange, its directors, officers, employees, agents, consultants, contractors, partners, vendors and service providers (including, without limitation, hosting and telecommunications providers) harmless, including costs and attorneys' fees, from any claim or demand made by any third party due to or arising out of Subscriber’s access to the Network, use of the Services, the violation of this Agreement by Subscriber, or the infringement by Subscriber, or any third party using the Subscriber's account, of any intellectual property or other right of any person or entity.
 
 9\. Limitation of liability
 
-In no event shall Stack Exchange, its directors, officers, shareholders, employees or members be liable with respect to the Network or the Services for (a) any indirect, incidental, punitive, or consequential damages of any kind whatsoever. (b) damages for loss of use, profits, data, images, Subscriber Content or other intangibles. (c) damages for unauthorized use, non-performance of the Network, errors or omissions. or (d) damages related to downloading or posting Content. Stack Exchange's and the Network's collective liability under this agreement shall be limited to three hundred United States Dollars. Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations and exclusions may not apply to Subscriber.
+In no event shall Stack Exchange, its directors, officers, shareholders, employees, members, agents, consultants, contractors, partners, vendors and service providers (including, without limitation, hosting and telecommunications providers) be liable with respect to the Network or the Services for (a) any indirect, incidental, punitive, or consequential damages of any kind whatsoever. (b) damages for loss of use, profits, data, images, Subscriber Content or other intangibles. (c) damages for unauthorized use, non-performance of the Network, errors or omissions. or (d) damages related to downloading or posting Content. Stack Exchange's and the Network's collective liability under this agreement shall be limited to three hundred United States Dollars. Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations and exclusions may not apply to Subscriber.
 
 10\. Fees and payment
 
@@ -166,4 +166,4 @@ about blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2014 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2014.4.2.890
+2014.4.4.894
