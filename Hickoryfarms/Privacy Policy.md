@@ -26,7 +26,6 @@ Your Cart(0) Catalog Navigation
     *   Spring Favorites
     *   Easter Favorites
 *   Specials
-    *   March Mayhem
 *   Business Gifts
     *   Top Business Gifts
 
@@ -52,7 +51,6 @@ Search Catalog Search Menu Search Stores Cart
     *   Spring Favorites
     *   Easter Favorites
 *   Specials
-    *   March Mayhem
 *   Business Gifts
     *   Top Business Gifts
 
