@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena852 SERVER NAME :->. prod-l1-com-0401 TIME :->. Sat Apr 05 03:24:58 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena860 SERVER NAME :->. prod-l1-com-0202 TIME :->. Sun Apr 06 11:15:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,21 +43,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-It's Your Fit Spring Sale
-
-Ends April 5.
-
-Everywhere you look—your feel-good fit and price.
-
-shop the sale
-
-view store ad
-
-25-40% Off Select Liz Claiborne
-
-shop Liz Claiborne
-
 In Store and Online
+
+Ends April 8.
+
+Online Code: STRMWTHR
 
 Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
 
@@ -67,45 +57,47 @@ Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Online Code: STRMWTHR
-
 \*See exclusions and details.
 
 print store coupon
 
-30-40% Off\* Select Family Swimwear
+Easter Sale
 
-shop swimwear
+Ends April 15.
 
-Night and Day Doorbusters
+Style that fits your family at prices that fit your wallet.
 
-In Store Only. Friday, April 4, 3PM until close. Saturday, April 5, 10AM until 1PM.
+shop the sale
 
 view store ad
+
+shop kids' dressup
+
+shop women's dresses
+
+40% Off Select Dresses
+
+shop women's dresses
+
+50% Off Select Suits and Sport Coats
+
+shop suits and sport coats
+
+40% Off Select Dress Clothes and Dresses
+
+shop kids' dress clothes and dresses
 
 30-50% Off Select Home
 
 shop home
 
-40-50% Off The Foundry Supply Co. Select Big and Tall Styles
-
-shop the Foundry big and tall
-
-25-40% Off Select Plus Dresses
-
-shop plus dresses
-
-40-50% Off Select Kids' Arizona
-
-shop kids' Arizona
-
 Billion Dollar Jewelry Sale 40-60% Off Select Fine Jewelry
 
 shop fine jewelry
 
-20-25% Off Select Watches
+Under $20 All Girls' Dress Shoes
 
-shop watches
+shop girls' dress shoes
 
 JCP Rewards
 
