@@ -1,4 +1,4 @@
-Seeking Alpha "Seeking Alpha predicted stock returns...&QUOT. WALL STREET JOURNAL »
+Seeking Alpha
 
 *   Home |
 *   My Portfolio |
