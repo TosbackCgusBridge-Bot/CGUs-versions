@@ -2,11 +2,11 @@ Your Privacy Rights
 
 Charter Communications values your privacy rights. Below is information about the privacy policies for our services.
 
-*   Residential Subscriber Privacy Policy (Updated)
-*   Commercial Subscriber Privacy Policy (Updated)
+*   Residential Subscriber Privacy Policy (Español)
+*   Commercial Subscriber Privacy Policy
 *   Privacy Preferences
 *   Online Privacy
-*   Website Privacy Policy (Updated)
+*   Website Privacy Policy
 
 WEBSITE PRIVACY POLICY
 
