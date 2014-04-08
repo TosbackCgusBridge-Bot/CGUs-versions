@@ -17,7 +17,7 @@ Skip to Content
             
             We could not determine your location
             
-            You are visiting from an area we don’t currently service. Please call us at 1-866-339-1040, or visit CableMover.com to find a provider in your area.  
+            You are visiting from an area we don’t currently service. Please call us at 1-855-394-6832, or visit CableMover.com to find a provider in your area.  
             
             Cookies are not enabled
             
