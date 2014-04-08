@@ -8,7 +8,7 @@ This policy applies to information we collect or use on sites and applications o
 
 Monster is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications.
 
-Information We Collect   We self-certify compliance with:  
+Information We Collect We self-certify compliance with:  
   
   
   
