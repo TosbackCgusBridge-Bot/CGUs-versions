@@ -1,145 +1,15 @@
-*   Web Publishers Publisher Services
-    
-    Full-service inventory management and revenue optimization.
-    
-    *   Why Choose Intermarkets
-    *   Our Reporting &. Revenues
-    *   Our Advertisers
-    
-    Guidelines &. Requirements
-    
-    Maintaining premium ad placements and revenues by carefully selecting websites for lasting partnerships.
-    
-    *   Minimum Requirements
-    *   Frequently Asked Questions
-    
-    Publisher Tools
-    
-    Leading industry knowledge and expertise to help you stay up to date with the latest technology and trends.
-    
-    *   Best Practices
-    *   Increasing Traffic
-    *   Popular Resources
-    
-    Join the Portfolio Today!
-    *   3 Million Monthly Page Views on Average
-    *   More than 75% U.S. traffic
-    *   Conforms with Internet Advertising Bureau privacy standardsApply Today!
-*   Advertisers &. Agencies Premium Direct Placements
-    
-    Premium placements on the Intermarkets Portfolio are the most effective way to ensure your ads are seen online.
-    
-    *   The Portfolio Overview
-    *   The Portfolio Media Kit
-    *   Drudge Report
-    
-    Email Advertising
-    
-    Access to some of the most responsive opt-in email and e-newsletter lists.
-    
-    *   Email Lists
-    
-    Request for Proposal Audience Targeting
-    
-    Multiple ways to target audiences and expand your reach online.
-    
-    *   Overview
-    
-    Media Buying &. Planning
-    
-    Intermarkets serves as a one-stop-shop for all of your buying and planning needs.
-    
-    *   Overview
-    
-    Mobile &. Video Solutions
-    
-    \*NEW\* Expand your reach even further with our new mobile and video options.
-    
-    *   Mobile
-    *   Video
-    
-    Creative Services
-    
-    Creative services at competative prices for growing companies.
-    
-    *   Overview
-    *   Online Ad Design
-    
-    Advertiser Resources
-    
-    Resources to help you better navigate the world of online advertising.
-    
-    *   Ad Delivery Options
-    *   Ad Sizes &. Specifics
-*   Political Campaigns Campaign Services
-    
-    Experts in new media, we provide you with a wide range of services to meet your goals.
-    
-    *   Overview
-    *   Why Choose Online?
-    *   Online Advertising
-    *   Fundraising &. Email Marketing
-    *   Success Stories
-    
-    Online Campaign Strategy
-    
-    Today campaigns are directing more money to online advertising and the percentage of money being spent online is rising dramatically.
-    
-    *   Build Your Database
-    *   Fundraising
-    *   Rapid Response
-    *   Target New Voters
-    *   Get Out the Vote GOTV
-    
-    Big Data. Bigger Results.
-    
-    Intermarkets and Aristotle join forces for political micro-targeting!
-    
-    *   190+ million voters
-    *   500+ targeting data points
-    *   3,100 counties
-    *   157 nationsLearn More
-*   Our Company Who We Are
-    
-    Intermarkets specializes in full-service advertising solutions for publishers, advertisers, and agencies.
-    
-    *   About Us
-    *   Our Mission
-    *   Corporate Integrity
-    *   Leadership Team
-    *   Supported Organizations
-    
-    Latest News &. Events
-    
-    Check here for the latest updates from your favorite company!
-    
-    *   Latest News &. Events
-    *   Press Release Archives
-    
-    Careers
-    
-    Intermarkets is always looking for bright, talented people to join the team!
-    
-    *   Why Choose Intermarkets?
-    *   Available Positions
-    *   Apply Today
-    
-    Scholarship Fund
-    
-    Recognizes an outstanding graduating High School Senior majoring in journalism.
-    
-    *   Apply Today
-    
-    For Employees
-    
-    News, links, and resources regarding current employee benefits.
-    
-    *   Sign In
-    *   Retirement Services
-    *   Insurance Options
-    *   Additional Benefits
-    *   Vacation &. Sick Leave
-    *   Disability &. EAPContact Us Today!
+Intermarkets Blog Up-to-date industry insights, news, and events Skip to content
+
+*   Advertisers
+*   Publishers
+*   Political &. Advocacy
+*   About
+*   Contact
+*   Blog
+
+Twitter Facebook LinedIn Google Plus Intermarkets Slider
+
+Reach the right market. Every day.
 
 Intermarkets Privacy Policy
 
@@ -252,7 +122,53 @@ For the privacy policies for each of our Portfolio publishers, please visit thei
 RETURN TO TOP
 
   
+Request for Proposal
 
+We’ll deliver your message to the appropriate department.
+
+Request Proposal
+
+Questions?
+
+We’ll deliver your message to the appropriate department.
+
+Contact Us
+
+Ready to Buy?
+
+Build your own campaign with the Intermarkets Self-Service Ad Platform.
+
+Get Started
+
+  
+Advertisers
+
+*   Premium Direct Advertising
+*   Email Advertising
+*   Audience Targeting
+*   Media Buying
+
+Publishers
+
+*   Publisher Services
+*   Publisher Tools
+*   Guidelines &. Requirements
+*   Join Portfolio
+
+Political &. Advocacy
+
+*   Campaign Services
+*   Campaign Strategy
+*   Fundraising
+
+Our Company
+
+*   About Us
+*   Latest News &. Events
+*   Careers
 *   Privacy Policy
-*   Terms &. Conditions
 *   Contact Us
+
+Intermarkets' Copyright
+
+Copyright © 2014 Intermarkets, Inc. All rights reserved.
