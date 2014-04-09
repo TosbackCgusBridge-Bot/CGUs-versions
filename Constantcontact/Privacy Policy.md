@@ -1,4 +1,4 @@
-Constant Contact® Privacy Statement  
+Constant Contact® Privacy Statement
 
 **Effective September 9, 2013**
 
