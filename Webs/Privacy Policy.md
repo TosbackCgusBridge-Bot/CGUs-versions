@@ -547,6 +547,6 @@ Create a free website Google Plus Facebook Twitter
 *   Report a Site
 *   Affiliates
 
-Ready to get started? Get helpful small business tips and advice to help you get the most out of your business and your website.
+Ready to get started? Get helpful tips for small business websites and more in our resource center.
 
 ©2014 Webs. A Vistaprint company. All Rights Reserved.
