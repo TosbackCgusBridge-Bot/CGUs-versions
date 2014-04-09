@@ -1,85 +1,156 @@
-**Scout.com PRIVACY POLICY**
+**PRIVACY POLICY**  
+  
+Last updated on April 8, 2014.  
+  
+Scout ("Scout" or "we" or "us") operates a digital media network, offers public forums, and publishes exclusive content focused on sports enthusiasts as well as other enthusiast-based channels. The services Scout offers include any Scout-branded URL and Club sites, Premium Subscriptions, which allows users to view premium online content and participate in premium forums, public forums and any other features, content, or applications offered from time to time by Scout in connection with Scout’s business, including when accessed via the Internet, mobile or other device (collectively, the "Scout Services").  
+  
+Scout provides this Privacy Policy to describe our data practices related to the Scout Services. Your use of the Scout Services constitutes your consent to the collection, use, and transfer of information from you as described in this Privacy Policy.
 
-1.  **INTRODUCTION**
+This Privacy Policy applies for all websites that contain a link to this Privacy Policy including without limitation the following sites:  
+  
+• North American Hunting Club  
+• North American Fishing Club  
+• Handyman Club of America  
+• National Home Gardening Club  
+• Golf Partners Club  
+• Cooking Club of America  
+• Creative Home Arts Club  
+• The History Club  
+• Motorcycle Riders Club of America  
+• MLB Insiders Club  
+• SCOUT  
+• StuffStuff  
+  
+**UNITED STATES ONLY**  
+  
+The Scout Services are hosted in the United States. All matters relating to the Scout Services are governed by the laws of the State of New York. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, stored and processed in the United States. United States data protection and other relevant laws and regulations may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care.
 
-SCOUT ("Scout" or "we" or "us") operates the website **http://www.scout.com** ("scout.com" or "Site"), which is an integrated network of websites that provides public forums and publishes exclusive content focusing on high school, college and professional team sports. The services Scout offers include any Scout-branded URL, Premium Subscriptions, which allows users to view premium online content and participate in premium forums, magazine subscriptions, public forums and any other features, content, or applications offered from time to time by Scout in connection with Scout’s business, including when accessed via the Internet, mobile or other device (collectively, the "Scout Services").
+  
+**THE TYPES OF INFORMATION THAT SCOUT COLLECTS ONLINE**  
+  
+**Information Provided By You  
+  
+**Scout receives personal information you voluntarily provide to us through the Scout Services. For instance, when you enroll in a club. enter a sweepstakes or contest. complete a survey. make a purchase. request information, services, or products. or register for any portion of our services, you may provide us information such as but not limited to your name, e-mail address, mailing address, or phone number. You may also elect to provide us with demographic type information such as your age or gender.  
+  
+Users of forums and message/bulletin boards should be aware that when they voluntarily disclose personal information (e.g., name, e-mail address, etc.) and content on a forum, message/bulletin board, in a chat area, or other interactive area where information can be posted, the information can be collected and used by other parties. We make no representations and undertake no obligations as to the security of information you voluntarily post in forums, chat rooms, message/bulletin boards, and other interactive areas. Please refer to the Terms of Service for additional terms regarding use of these services.  
+  
+**NON-PERSONAL INFORMATION COLLECTION AND USE**  
+  
+When you visit or use the Scout Services, Scout may collect non-personally identifiable information (“non-PII”) about those visits. For example, in order to permit your connection to a Scout website, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Scout Services from a mobile or other device, we may collect a device identifier assigned to that device or other transactional information for that device in order to serve content to it. Other non-PII that may be collected includes click-stream information such as the address (or "URL") of the website that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site.
 
-As set forth in our **Terms of Use**, Scout.com is a general audience website, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
+We may use this information to improve you experience, operate our Scout Services, provide accurate statistics to gauge usage of the Scout Services, for marketing and advertising, and for other operational purposes.
 
-This Privacy Policy describes Scout’s collection, use and sharing of personal information about users (e.g., information that identifies a specific person, such as full name or email address) through Scout Services where that personal information is not otherwise publicly available on the Site. This Privacy Policy also describes generally Scout’s practices for handling non-personally identifiable information (e.g., user interests, demographics, or Site usage) to the extent such non-personally identifiable information is associated with a particular user or user account. This Privacy Policy applies to all "users," including visitors (users who use some of the Scout Services without being registered with Scout), "Members" (users who have registered with Scout) and "Subscribers" (Members who have purchased a Premium Subscription or magazine subscription).
+We may also collect demographic and other data that has been aggregated to share with other companies for advertising and marketing purposes. For example and without limitation, Scout may disclose aggregated data that includes your zip code, gender and/or age.  
+  
+**HOW SCOUT USES INFORMATION PROVIDED BY YOU**  
+  
+We may use the information you provide to us to:
 
-1.  **SUBMISSION AND COLLECTION OF INFORMATION ON WEBSITE**
+*   fulfill requests for products, services or information,
+*   administer your membership accounts,
+*   provide and manage Scout Services,
+*   contact you,
+*   administer contests or promotions,
+*   offer and market our products and services and those of our affiliates and other parties we believe may be of interest to you,
+*   measure and improve the effectiveness of our websites or our marketing endeavors,
+*   tailor our online offerings and advertising to your preferences, and
+    *   perform other business purposes as well as for purpose disclosed at the time of collection.
 
-_User Submitted Information_
+We may combine personal information that you provide to us with other data to deliver and improve Scout Services as well as provide you with and to market to you products or provide services that we believe may be of interest to you.
 
-**Membership Account Registration Information** is the required information that a user must provide to us when they register as a Member with Scout.com ("Member Profile," also called a "user account"), and may include information such as an email address, password and a security question ("Required Registration Information"). When you register you will be required to register with a specific college, NFL, MLB team or high school page ("Preferred Team Website"). The Preferred Team Website may be operated or owned by a third party service provider selected by Scout
+**Information Sharing**
 
-**Premium Subscription Information**. If you elect to purchase a Premium Subscription through the Site you will be required to provide personal financial information, including your credit card information, billing address or other payment information (collectively, "Personal Financial Information"), full name, phone number and shipping address in order to purchase such Scout Services. You must be 18 years of age or older to submit Personal Financial Information on the Site, including to place an order on the Site.
+We many share personal information:
 
-**Public Forum Login Information**. If you elect to post comments on any of the public forums provided on the Site you will be required to select a username and provide your email address. Your username will be public, which means it is available to everyone and will be displayed in search results on Scout.com and on external search engines. Please select your username carefully.
+*   With our affiliates and across Scout Services and websites for purposes described in this policy.
+*   With our service providers who provide services on our behalf including but not limited to website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, data analysis, emailing and other services of an administrative nature.
+*   With select companies that we think can offer you services and products of interest to you.
+*   Where we believe it is necessary to comply by law, regulation, legal process, or governmental requests. enforce our Terms of Service. or protect the rights, property, or safety of Scout, its users or the public.
+*   To assign, sell, license, or otherwise transfer to a third party, all information collected from or in relation to you in connection with an assignment, sale, joint venture, bankruptcy proceeding, or other transfer or disposition of a portion or all of the assets or stock of Scout or its affiliated entities.
 
-We may also collect user submitted information in an offline or manual format, such as a postcard. In such circumstances, you will be provided with a short notice that describes how to obtain the full text of this Privacy Policy and other relevant information.
+Except as provided herein and so long as you activate your membership, Scout will not sell to any third party your e-mail address unless you provide your informed consent.  
+  
+**DIGITAL ADVERTISING &. COOKIES**
 
-_Site Collected Information_
+Scout may work with third parties that support Scout Services by serving advertisements or providing Scout Services, such as allowing users to share content, view premium content, or post to the forums or tracking aggregate website usage statistics, may also use these technologies to collect information. Scout does not control these technologies used by third parties. The privacy policies of these third parties govern their use of such technologies.
 
-**Site Activity Information**. When users visit the Site, we may collect certain non-personally identifiable information about those visits. For example, in order to permit your connection to the Site, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Scout Services from a mobile or other device, we may collect a device identifier assigned to that device or other transactional information for that device in order to serve content to it. We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe flash technology including cookies), which are small bits of data that often include an identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that website. We may use these technologies to gather information about your usage of the Site, such as pages you have visited, search queries you have run and advertisements you have seen.
+Scout may also work with third-party companies to display ads on Scout Services and elsewhere on the Internet. These companies may use cookies (a small text file), pixels, or other technologies used to gather information about your visits to Scout Services as well as your visits elsewhere on the Internet. These companies use this information to provide you more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance (“DAA”). The DAA offers a choice mechanism with respect to certain types of data collection and use. Visit www.aboutads.info to exercise choice with respect to participants of the DAA. If you change computers or browsers, use multiple computers or browsers, or delete your cookies, you may need to repeat this process for each computer and each browser.
 
-Third parties that support Scout.com by serving advertisements or providing Scout Services, such as allowing users to share content, view premium content, or post to the forums or tracking aggregate Site usage statistics, may also use these technologies to collect similar information. Scout does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to certain block cookies altogether. Please consult the "Help" section of your browser for more information. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through Scout Services.  
+  
+**SEND-TO-A-FRIEND TOOLS**  
+  
+Scout Services, from time to time, may include a send-to-a-friend application or social sharing tools that makes it easy for you to forward information or materials from the Scout Services to friends or family by e-mail or via a social network. In order to address your e-mail message, the application will ask you to input the recipient’s e-mail address and/or similar information (including your e-mail address) (collectively “Send-To-A-Friend Information”). Send-To-A-Friend information is only used by the application to address your message so that it can be properly sent. Scout does not retain any Send-To-A-Friend Information for any other purpose. Note that Scout does not control data shared via social networks. You should review the privacy policies of the social network to learn about their data practices.
 
-Scout may also work with third-party companies to display ads on Scout and elsewhere on the Internet. These companies may use cookies (a small text file), pixels, or similar technologies that are placed in browsers to gather information about your visits to Scout as well as your visits elsewhere on the Internet. These companies use this information to provide you more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance (“DAA”). The DAA offers a choice mechanism with respect to certain types of data collection and use. Visit www.aboutads.info to exercise choice with respect to participants of the DAA. If you change computers or browsers, use multiple computers or browsers, or delete your cookies, you may need to repeat this process for each computer and each browser.
+**THIRD PARTY RETAILERS AND OFFERS**  
+  
+Some of the Scout Services may from time to time work with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place via a Scout Service, or the site of the third party. In any case, personal information you provide in connection with the transaction may be shared with the third party, as well as with any participating sponsors or advertisers of such opportunities and features.
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., **http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies**). Users can manage the use of Flash technologies with the Flash management tools available at Adobe’s website, see **http://www.adobe.com/products/flashplayer/security/privacy\_policy/faq.html**. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through Scout Services.
+**Third Party Websites &. Links**
 
-**Third Parties**. To improve the quality of the Scout Services, we may supplement the information we collect with information that is collected or provided by third parties.
+The Scout Services may contain links to other websites or services not operated by Scout. Scout is not responsible for the information practices or the content of such other websites or services. Scout encourages you to review the privacy statements of such other websites or services to understand their information practices.  
+  
+**SECURITY**  
+  
+Scout maintains reasonable practices and procedures designed to help secure personal information collection through the Scout Services.  
+  
+**SCOUT’S OPT-OUT**  
+  
+You may request to have personal information about you suppressed in our records. Please note that we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records. We reserve the right, from time to time, to re-contact former users of the Websites.
 
-1.  **NOTICE &. CHOICE**
+  
+We give you the following options for removing your personal information from our records in order to stop receiving future communications from the Scout Services.  
+  
+1\. Follow directions on a marketing e-mail or direct mail communication from us regarding the removal of your personal information from our records.  
+  
+2\. You can send your request via e-mail to the club-specific website:
 
-**Means of Notice and Choice**. This Privacy Policy is the primary means by which Scout provides you with notice and choice regarding its collection and use of your personal information. Scout will not use your personal information in a manner different from what is described in this Privacy Policy without your permission.
+• Creative Home Arts Club
 
-**Privacy Policy Changes**. Scout may modify this Privacy Policy as necessary. If we make material changes to this Privacy Policy that expand our rights to use your personal information, we will notify you to seek your consent either through an email or a prominent posting on the Site.
+• MLB Insider Club  
+• Cooking Club of America  
+• Handyman Club of America  
+• North American Fishing Club  
+• National Home Gardening Club  
+• North American Hunting Club  
+• The History Channel Club  
+• Motorcycle Riders Club of America  
+• Golf Partners Club  
+• National Street Machine Club  
+• StuffStuff
 
-**Location of Data Storage**. The Scout Services are hosted in the United States. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, stored and processed in the United States. United States data protection and other relevant laws and regulations may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care.
+  
+3\. You can send your request via e-mail to optout@scout.com.  
+  
+4\. You can send your request via U.S. Postal Service to the following mailing address. As indicated, please provide the specific club name in the first line of the address:  
+  
+\[insert club name\]  
+P.O. Box 1108  
+Charlotte, NC 28201-1207  
+  
+Please note: We are not responsible for removing information from third-party lists or entities with which we have shared your information pursuant to this policy.
 
-**Linked Websites**. The Scout Services may also be linked to other websites operated by Scout ("Affiliated Site") or third parties. Scout is not responsible for the privacy practices of any such third parties, and once you leave the Scout Services via a link, or click an advertisement, you should check the applicable privacy policy of the third-party site. Additionally, users who visit an Affiliated Site should still refer to the Affiliated Site’s separate privacy policy, which may differ in some respects from this Privacy Policy. This Privacy Policy does not apply to those websites that do not display or link to this Privacy Policy or have its own privacy statements.
+**CHILDREN**
 
-**Collection of Personal Financial Information by a Third Party. You acknowledge and agree that this Privacy Policy will not apply to any Personal Financial Information that you provide to any independent third party company on the Site and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company’s privacy policy. You further acknowledge and agree that Scout will have no liability for or control over such independent third party company’s use or protection of your Personal Financial Information**. You should check the privacy policy of the independent third party company’s website to determine how it will handle any Personal Financial Information it collects from you and/or processes. You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Personal Financial Information, Scout shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach.
+The Scout Services are not directed at children under the age of 13 and are not intended for use by those under 18. If you are under 18, you may not provide any personal information to the Scout Services.
 
-1.  **USE &. DISCLOSURE**
+  
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
+  
+Customers residing in California may submit a request for a list of (1) the categories of personal information that we may share with third parties, and (2) a list of the names and addresses of all third parties with whom we have shared such information for their marketing purposes during the preceding calendar year. To request this information, please submit a request to: caprivacyrights@scout.com.  
+  
+**UPDATING YOUR INFORMATION**  
+  
+Through the My Profile option, you can access and edit your registration information, Member Profile Information, Premium Subscription information and "My HotList" Preferences. We may retain backup information related to your My Profile account and Premium Subscription on our servers for some time after deactivation for fraud detection or to comply with applicable law or our internal security policies. To update your shipping information, click “My Subscriptions” and then click on “Edit Shipping Address”.  
+  
+**CONTACTING US**
 
-_Scout’s Use and Disclosure of Information_
-
-We only share your non-public personal information with non-affiliated third parties when we believe the sharing is permitted by you or authorized by this Privacy Policy. In addition, Scout may share your personal information with Affiliated Companies.
-
-We use the information you provide us for the following purposes:
-
-**To provide and manage the Scout Services**. We use the information we collect from and about users to provide the Scout Services and features to you, to measure and improve those Scout Services and features.
-
-**To allow third party service providers to assist us in providing and managing the Scout Services**. Scout may make your non-public personal information available to certain third-party service providers such as contractors, vendors and agencies , who help us manage or provide Scout Services by, for example: developing or supporting the Scout Services and features. collecting, transmitting, storing and/or processing Personal Financial Information, fulfilling Premium Subscriptions orders. administering message boards, or processing data or statistics. These third-party service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to you and Scout.
-
-**To contact you**. Scout may periodically send promotional materials (e.g., newsletters) or correspondence related to the Scout Services to the email address you provided to us at registration. If you want to stop receiving correspondence from Scout, you can change your "**My HotList**" Preferences settings under "My Profile," or follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Scout Services or policies.
-
-**To protect the rights of Scout and our users**. There may be instances when Scout may disclose user information without providing notice or choice, including situations where Scout has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of Scout, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements). (ii) protect the safety and security of users of the Scout Services or members of the public including responding to emergencies where there appears to be a danger of death or injury to any person. (iii) protect against fraud or for risk management purposes. or (iv) comply with applicable laws, rules and regulations ("Applicable Laws") or legal process.
-
-**To deliver relevant advertisements**. We strive to make the Scout Services interesting, relevant and personalized for our users. The Site and its third-party advertising partners customize the advertising displayed to you based on non-personally identifiable information gathered via cookies or other tracking devices as well as your past activity on the Site. For example, based on your team interests, we might display an advertisement informing about the schedule for such teams games.
-
-**To complete a merger or sale of assets**. If Scout sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Scout may transfer your information to the party or parties involved in the transaction as part of that transaction.
-
-1.  **SECURITY**
-
-Scout uses commercially reasonable administrative, technical, personnel and physical measures to help safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification.
-
-1.  **ACCESS, REMEDIES AND COMPLIANCE**
-
-**User Control and Account Cancellation.** Through the My Profile option, you can access and edit your Required Registration Information, Member Profile Information, Premium Subscription information and "My HotList" Preferences. If you would like to deactivate your Membership Account you may **email us**, Subject Line: Deactivate Membership Account.
-
-If you would like to terminate your Premium Subscription you can: (i) visit "**My Subscriptions**" and click on "cancel my subscription;" or (ii) **contact us directly**, Subject Line: Terminate Premium Subscription. **Please refer to the Scout.com** **Terms of Use** **for our Premium Subscription termination policy and restrictions**. We may retain backup information related to your My Profile account and Premium Subscription on our servers for some time after deactivation for fraud detection or to comply with Applicable Law or our internal security policies.
-
-1.  **CONTACT US**
-
-If you have questions about this Privacy Policy, please contact Scout at:
-
-> SCOUT  
-> 12301 Whitewater Drive  
-> Minnetonka, MN 55343
-
-**Last Updated**: November 15, 2013
+If you have any questions about this Privacy Policy, please feel free to contact us at:  
+  
+SCOUT  
+12301 Whitewater Drive  
+Minnetonka, MN 55343  
+  
+**REVISIONS TO OUR PRIVACY POLICY**  
+  
+Any of the policies or procedures in this Privacy Policy may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of the Websites constitutes your acceptance of the terms of our Privacy Policy then in effect. We encourage you periodically review this policy to ensure familiarity with the most current version of our Privacy Policy.
