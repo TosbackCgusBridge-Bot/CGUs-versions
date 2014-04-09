@@ -287,6 +287,6 @@ Recent Searches:
 *   Digital Data
 *   Universal Tag
 *   Big Data Platform
-*   Bid Management Tools
+*   Analytics Tag Management
 *   Marketing Digital
 *   Search Retargeting
