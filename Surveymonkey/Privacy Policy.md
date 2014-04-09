@@ -22,7 +22,7 @@ SurveyMonkey®
     *   Telephone Surveys
     *   Facebook Surveys
     *   Surveys in Salesforce®
-    *   SurveyMonkey App
+    *   Mobile App
     
 5.  Plans &. Pricing
 
