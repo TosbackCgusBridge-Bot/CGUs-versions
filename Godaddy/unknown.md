@@ -2,7 +2,7 @@
 
 **1\. OVERVIEW**
 
-This Domain Name Registration Agreement (this "Agreement") is entered into by and between GoDaddy.com, LLC, a Delaware limited liability company, or in the event of a .ca domain name, by and between Go Daddy Domains Canada, Inc., a British Columbia corporation (each "Go Daddy") and you, and is made effective as of the date of electronic acceptance.  This Agreement sets forth the terms and conditions of your use of Go Daddy's Domain Name Registration services (the "Domain Name Registration Services" or the "Services"). 
+This Domain Name Registration Agreement (this "Agreement") is entered into by and between GoDaddy.com, LLC, a Delaware limited liability company ("Go Daddy") and you, and is made effective as of the date of electronic acceptance.  This Agreement sets forth the terms and conditions of your use of Go Daddy's Domain Name Registration services (the "Domain Name Registration Services" or the "Services"). 
 
 Your electronic acceptance of this Agreement signifies that you have read, understand, acknowledge and agree to be bound by this Agreement, along with (i) Go Daddy’s Universal Terms of Service Agreement, and (ii) any plan limits, product disclaimers or other restrictions presented to you on the Domain Name Registration Services landing page of the Go Daddy website (this “Site”), both (i) and (ii) of which are incorporated herein by reference.   
 
