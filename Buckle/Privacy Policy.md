@@ -161,9 +161,8 @@ TDD/TYY: 800-695-1788
 
 *   The Buckle Inc.
 *   About Buckle
-*   Buckle Believes
+*   Jobs &. Careers
 *   Investors
-*   Press Releases
 
 *   Jobs &. Careers
 *   Careers That Fit
