@@ -187,8 +187,10 @@ Marketing Communications
 
 Our intention is that you should only receive email communications that will be useful to you and that you want to receive, so we provide you the ability to define and modify your mailing preferences online at any time including unsubscribing from all marketing communications, offers and promotions and research surveys.
 
-You can unsubscribe from any of our email programs by visiting the unsubscribe page or by following the instructions in relation to opting out of future emails in any email you receive from us.  
-You may also opt-out online of Marriott Rewards and The Ritz-Carlton Rewards emails  by updating your Rewards account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.
+You can unsubscribe from any of our email programs by visiting the unsubscribe page or by following the instructions in relation to opting out of future emails in any email you receive from us.
+
+  
+You may also opt-out online of Marriott Rewards and The Ritz-Carlton Rewards emails by updating your Rewards account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.
 
 Security of Personal Information
 
@@ -198,7 +200,7 @@ Careers at Marriott
 
 Marriott uses select private label databases and tools hosted by third parties on their Websites to collect personal information from individuals that wish to be considered for potential employment. Personal information you provide to us via these private label services is accessible and confidential to Marriott. By submitting your application and providing this personal information, you understand and agree that your personal information will be transferred to the United States and may also be transferred to additional countries, other than your country of origin, for consideration for employment.
 
-Marriott will not use your  personal information for any purpose other than to allow you to conduct automated job searches or determine your qualifications for potential employment with Marriott. The third-party service providers located in the United States or United Kingdom are prohibited from using your personal information for any purpose other than collecting it on our behalf.
+Marriott will not use your personal information for any purpose other than to allow you to conduct automated job searches or determine your qualifications for potential employment with Marriott. The third-party service providers located in the United States or United Kingdom are prohibited from using your personal information for any purpose other than collecting it on our behalf.
 
 California Residents
 
