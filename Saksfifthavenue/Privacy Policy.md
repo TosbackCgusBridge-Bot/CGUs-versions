@@ -79,7 +79,51 @@ Online Only: April 8-9 Gift Card Spend Get $250 to $499 $35 $500 to $999 $75 $1,
    
 Designer Exclusions: Akris, Alexander McQueen, Brunello Cucinelli, Christian Louboutin, Christopher Kane, Comme des Garcons, Dolce &. Gabbana, Fendi, Givenchy, Gucci, Jil Sander, The Row, Maison Martin Margiela, Mary Katrantzou, Miu Miu, Nina Ricci, Prada, Rick Owens, Rochas, Saint Laurent, Tod's, UGG Australia, Valentino, Versace, Vionnet, YSL. Not all categories of merchandise are excluded.
 
-**24/7 Customer Service:**  1.877.551.7257  •  Chat  •  Email
+Shop Today and Earn a SAKS GIFT CARD\*
+
+**Online Only**: September 23-25
+
+**Online and In Stores**: September 26-27
+
+Use code **HOLIDAY** at checkout
+
+Gift Card Spend Get $250 to $499 $35 $500 to $999 $75 $1,000 to $1,999 $150 $2,000 to $2,999 $450 $3,000 or More $700 Designer Exclusions
+
+Sed aliquam nulla in nisl cursus, non ultrices libero sagittis. Etiam elementum dui id lorem sollicitudin congue. Sed malesuada eleifend ligula nec tincidunt. Quisque sed pretium felis. Curabitur mollis elit purus, in eleifend mauris gravida a. Morbi non leo laoreet, mollis dolor quis, accumsan dui. Donec id enim vitae libero sagittis bibendum. Maecenas rhoncus mauris et congue scelerisque. Ut scelerisque dictum ante ut blandit. Quisque tempor neque posuere lobortis consequat. Etiam ac rhoncus libero. Nullam libero nulla, consequat vel libero ut, malesuada malesuada est. Pellentesque vel libero pulvinar lacus luctus molestie nec sed massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi faucibus est leo, vel vestibulum purus fermentum interdum.
+
+ 
+
+Friends &. Family
+
+Enjoy 25% Off\* | 20% Off Jewelry
+
+Designer Exclusions Apply\*\*
+
+**Online Only:** October 15-16
+
+**Online and in Stores:** October 17-20
+
+Use code **FRNFAM** at checkout.
+
+Holiday 2013 Shipping Options
+
+Please consult the follwoing chart for ordering deadlines based on shipping methods.  
+All orders must be placed by 4 p.m. (ET) on the dates indicated.
+
+**Please Note:** Allow additional time for delivery to Alaska, Hawaii, US Territories, APO/FPO addresses and for items that ship directly from vendors. For delivery information on vendor-shipping items, please contact us.
+
+For Delivery By Standard Rush Next Business Day **Hanukkah** (Tuesday, December 20) Tuesday, December 13 Friday, December 16 Monday, December 19 **Christmas Eve** (Saturday, December 24) Friday, December 23 Details
+
+**\*Friends &. Family offer valid on select designer brands only. Items eligible will be marked Friends &. Family. Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, Saks FASHIONFIX merchandise, and beauty and fragrance not included.**  
+Offer valid on Saks.com purchases from Tuesday, October 15, 2013 at 12:01 AM (ET) through Sunday, October 20, 2013 at 11:59 PM (ET). Offer valid at Saks Fifth Avenue stores and catalog purchases from Thursday, October 17, 2013 to Sunday, October 20, 2013. Excluded from this event is beauty and fragrance, Saks FASHIONFIX merchandise, Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, select designer collections, select leased departments, bridal salon, SFA restaurants, select fine jewelry and watch collections and jewelry and watch repairs. Discount may vary on Saks.com, in-store and catalog purchases. Cannot be combined with any other coupon or in-store offer, locator transactions, redeemed for cash or used toward payment on Saks Fifth Avenue credit card accounts. To receive this discount in-store, the invitation must be presented at point of sale each time a purchase is made. To redeem online enter promotional code: FRNFAM in Saks bag. Limit of five promo codes per order. Not valid on previous purchases, gift card purchases, pre-order merchandise atSaks.com, taxes, gift wrap, store restaurants and shipping charges. Saks Fifth Avenue reserves the right to limit quantities. The Shops at Riverside and Tulsa stores are closed Sundays. All Saks Incorporated associates and those shopping on Saks accounts earning a discount are not eligible.
+
+Designer Exclusions
+
+\*\*Designer Exclusions: 3.1 Phillip Lim, A Detacher, Acne apparel and shoes, Adam Lippes, Akris, A.L.C. apparel, Alberta Ferretti, Alexander Lewis, Alexander McQueen women’s and men’s apparel, shoes and handbags, Alexander Wang apparel, shoes and handbags, Alexandre Birman, Alezandre Vauthier, Altuzarra, Amelia Toro, American Designer special orders, AMI, Ann Demeulemeester apparel and shoes, Antonio Berardi, Antonio Marras, Anya Hindmarch handbags, Aquilano Rimondi, Azzedine Alaia, Balenciaga shoes and handbags, Band of Outsiders, Belstaff shoes and men’s, Blumarine, Bogner, Bose, men’s and women’s Bottega Veneta apparel, shoes and handbags, Boy. by Band of Outsiders, Brian Atwood, Bridal Sample Sale, Brioni, Brunello Cucinelli, Bugaboo, Butler's Men's Grooming Salon, Bvlgari, Cacharel, Canada Goose, Carolina Herrera, Cartier, Carven, Celine, Chado Ralph Rucci, CHANEL, Charbonnel et Walker, Charvet, Chloe Handbags, Chopard, Christian Cota, Christian Louboutin, Christian Wunants, Christophe LeMaire, Christopher Kane, Church’s shoes, Comme des Garcons Comme des Garcons, Comme des Garcons men’s, apparel, shoes and handbags, Comme des Garcons Play apparel, Costume Nationale, Courreges, Couture Collections special orders, Creatures of the Wind, Cushnie et Ochs, David Yurman, Derek Lam, Designer special orders, Dior, Dolce &. Gabbana, Donna Karan shoes, Dries Van Noten apparel and shoes, Drome, DSquared, Dylan's Candy Bar, Edmundo Castillo shoes, Elie Saab, Elisanero shoes, Emilio Pucci, Emporio Armani, Erdem, Escada special orders, Etro, Evening Designer special orders, Fay, Fendi, Gareth Pugh, Georgina Goodman, Giambattista Valli shoes, Giorgio Armani, girl. by Band of Outsiders, Giuseppe Zanotti Shoes, Givenchy men’s, shoes and handbags, Graff, Gucci women’s and men’s apparel, Gucci shoes &. handbags, Gucci small leather goods, Gucci kids shoes, Gucci kids, and Gucci accessories, Guiseppe Zanotti men’s, H. Stern, Haider Ackermann apparel and shoes, Hatt, Hermes, Honor, Isaia, Issey Miyake apparel, J Mendel, Jason Wu, Jay Strongwater furniture and home &. gifts, Jerome C Rousseau, Jerome Dreyfuss, Jet Set, Jil Sander, Jimmy Choo shoes and handbags, John Allan Men's Grooming Salon, Junya Wantanabe, JW Anderson, Karolina Zmarlack, Katherine Kwei, Kaufman Franco apparel, Kenzo, Kiton, Konstantino, Lanvin, Les Copains, Libertine, Lila Castellaneta, Loewe handbags, Lorena Sarbu, Loro Piana, Louis Vuitton, MacKenzie Childs, Maclaren, Maison Martin Margiela, Manolo Blahnik, Mantu, Marc Jacobs apparel and shoes, Marchesa Couture, Maria La Rosa, Marios Schwab, Marni, Marsell shoes, Martin Grant, Mary Kantrantzou, Mason by Michelle Mason, Max Kibardin, MCM handbags, Michael Bastian, Miu Miu shoes, handbags and accessories, Moncler, Mont Blanc, Moschino shoes and handbags, Mrs. John L. Strong Stationary, Narcisco Rodriguez, Neil Barrett, Nicholas Kirkwood, Nina Ricci, Norman Ambrose, Ohne Titel, Opening Ceremony apparel and shoes, Oscar de la Renta apparel, shoes and special orders, Ostwald, Paul Andrew, Paul Smith, Penfield, Peserico, Peter Pilotto, Pierre Hardy shoes, Pollini, Polo Black Label Denim, Pomelatto, Prabal Gurung, Prada, Premier Salons, Proenza Schouler apparel and shoes, Rafael Cennamo, Ralph Lauren Black Label, Ralph Lauren Collection, Ralph Lauren Consignment, Ralph Lauren Purple Label, Ralph Lauren watches, Reed Krakoff, Rene Caovilla, Richard Nicoll, Rick Owens, Rick Owens Dark Shadow, Rick Owens Lillies, Ritmo Mvndo watches, Robert Clergerie, Roberto Cavalli, Rochas, Roger Vivier, Rupert Sanderson, Sacai, Sacai Luck, Saddler's Union handbags, Saint Laurent, See by Chloe apparel, Sergio Rossi shoes, Shamask, Special Art, Stella McCartney, Suno, Sydney Evan, T by Alexander Wang, Tabitha Simmons shoes, Tess Giberson, Thakoon, Thakoon Addition, The Fur Salon, The Row apparel and handbags, Thomas Taitt, Tivoli, Tod's, Toy Watch, Ugg Australia, Valentino, Vera Wang, Veronica Beard, Versace handbags, Viktor &. Rolf, Vionnet apparel and shoes, Wes Gordon, Yiquing Yin, Yohji Yamamoto, Zegna, Zenith Watches, Zero + Maria Cornejo. Designer exclusions may differ in stores and online
+
+Saks.com only exclusions: Comme des Garcons Play men’s apparel and shoes, Mikimoto, Proenza Schouler handbags
+
+**24/7 Customer Service:**  1.877.551.7257  •  Email  •  Chat
 
 Our Privacy Policy &. Our Website Terms Of Use
 
@@ -166,7 +210,7 @@ Supported carriers: AT&T, Verizon Wireless, Sprint PCS, T-Mobile, Virgin Mobile,
   Q: **What are California Privacy Rights?** A: If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address specifying that you want a copy of Saks' "California Privacy Rights" notice: Saks Direct, Inc., P.O. Box 10327, Jackson, MS 39289, attn: California Privacy. Please allow up to 30 days for us to process your request. You may submit such a request once per year.  
   Q: **Why is my billing address required for online purchases?** A: We ask for your billing address in order to prevent against fraudulent use of credit cards and reduce the costs to Saks and its customers. We do not use billing addresses for marketing purposes.
 
-**24/7 Customer Service:**  1.877.551.7257  •  Chat  •  Email
+**24/7 Customer Service:**  1.877.551.7257  •  Email  •  Chat
 
 Our Privacy Policy &. Our Website Terms Of Use
 
