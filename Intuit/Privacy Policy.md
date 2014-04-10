@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l1-com-70101 TIME :->. Tue Apr 08 05:09:13 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l1-com-82402 TIME :->. Wed Apr 09 11:23:52 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,23 +43,19 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+Online Only! Ends April 15.
 
-Ends April 8.
+Online Code: HIPHOP
 
-Online Code: STRMWTHR
+Extra 25% Off\* $200 or more.
 
-Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
+Extra 20% Off\* $100 or more.
 
-Extra 15% Off\* with any method of payment.
-
-Select original, regular, sale and clearance-priced items.
+Extra 15% Off\* up to $100.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 \*See exclusions and details.
-
-print store coupon
 
 Easter Sale
 
@@ -69,11 +65,17 @@ Style that fits your family at prices that fit your wallet.
 
 shop the sale
 
-view store ad
+shop girls' dresses
 
-shop kids' dressup
+shop women's
 
-shop women's dresses
+JCPenney Rewards Wednesday
+
+Earn your $10 JCP Reward faster with double points!
+
+Earn one monthly $10 jcp reward when you spend $50 or more on qualifying purchases on Wednesdays.
+
+get offer details and learn more
 
 40% Off Select Dresses
 
@@ -87,17 +89,21 @@ shop suits and sport coats
 
 shop kids' dress clothes and dresses
 
-30-50% Off Select Home
+30-50% Off\* Home
+
+Code: APRHOME
 
 shop home
+
+\*See exclusions and details.
 
 Billion Dollar Jewelry Sale 40-60% Off Select Fine Jewelry
 
 shop fine jewelry
 
-Under $20 All Girls' Dress Shoes
+Under $30 Kids' Dress Shoes
 
-shop girls' dress shoes
+shop kids' dress shoes
 
 JCP Rewards
 
