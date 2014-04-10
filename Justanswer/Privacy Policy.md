@@ -1,8 +1,8 @@
-Privacy &. Security
+Privacy &. Security (Updated April 9, 2014)
 
-Effective February 8, 2012
+Effective April 9, 2014
 
-Inherent to transacting on the Internet is the collection of some personal information. JustAnswer ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site www.JustAnswer.com. This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
+Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site www.JustAnswer.com. This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
 
 JustAnswer® is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet, by promoting the use of fair information practices. JustAnswer has elected to disclose its information practices as a sign of its commitment to privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -40,7 +40,7 @@ JustAnswer will not otherwise disclose your PII (unless you voluntarily provide 
 *   serves to protect or defend the rights, property, or safety of JustAnswer, its users, or others. or
 *   enforces the JustAnswer Terms of Service or related Agreements.
 
-JustAnswer LLC may share your PII with any parent company, subsidiaries, joint venturers, or other companies under common control, in which event it will require that such companies follow this Policy with respect to your PII, unless you are provided with prior written notice.
+JustAnswer LLC may share your PII with any parent company, subsidiaries, joint venturers, or other companies under common control, in which event it will require that such companies follow this Policy with respect to your PII, unless you are provided with prior written notice. 
 
 **Principle 3: Correspondence Sent to You**  
 JustAnswer® will not send you any unsolicited information, including e-mail, except:  
@@ -53,8 +53,10 @@ JustAnswer® will not send you any unsolicited information, including e-mail, ex
 **Principle 4: Updating and Deleting PII**  
 If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that JustAnswer® has not adhered to these privacy principles, please notify us by email by clicking HERE. We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
 
-**Principle 5: Links to Third-Party Sites**  
+**Principle 5: Links to Third-Party Sites and Use of Third Party Tools**  
 To the extent that links to other Web sites are contained in Posts on the JustAnswer® site, please note that they are not operated or controlled by JustAnswer and JustAnswer is not responsible for the privacy practices, security, or content of these third-party sites.
+
+If a user decides to take advantage of third-party tools, including but not limited to, Remote Desktop applications, such user agrees that any third-party software acquired, installed or used during the Remote Desktop session will be licensed by the user and such user must accept any terms of use of such third-party tool, including any third-party privacy policy.  JustAnswer is not responsible for any use or misuse of such third-party tool.
 
 **Principle 6: Security and Data Retention**  
 JustAnswer® uses multiple security procedures and practices to protect from unauthorized access, destruction, use, modification and disclosure the PII requested from users.
