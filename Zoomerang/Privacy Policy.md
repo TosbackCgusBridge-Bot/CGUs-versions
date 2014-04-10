@@ -1,4 +1,4 @@
-*   US: 1.866.499.3750 │ EU: +44 (0) 20.7440.8500
+*   US: 1.415.957.2200 │ EU: +31 (0) 10 20 30 700
 *   Search
 *   Contact Us
 *   Support
@@ -106,13 +106,7 @@ Making Good on Mobile's Global Promise: Research Report Read the in-depth study 
 
 A strong digital DNA and a global infrastructure provide superior opportunities to gather and interpret consumer insights.
 
-Read More Contact Us: By Email Sales Inquiries:
-
-1.866.499.3750 (toll free in the U.S.)
-
-1.415.957.2049 (outside the U.S.)
-
-Support
+Read More
 
 *   Market Research
     *   Custom Market Research
@@ -139,7 +133,8 @@ Support
     *   Press Releases
     *   Support
 
-Copyright © 2013 MarketTools, a MetrixLab Company. All rights reserved.
+Copyright © 2014 MarketTools, a MetrixLab Company.  
+All rights reserved.
 
 *   Sitemap
 *   Customer Support
