@@ -105,8 +105,7 @@ We give you the following options for removing your personal information from ou
   
 2\. You can send your request via e-mail to the club-specific website:
 
-• Creative Home Arts Club
-
+• Creative Home Arts Club  
 • MLB Insider Club  
 • Cooking Club of America  
 • Handyman Club of America  
