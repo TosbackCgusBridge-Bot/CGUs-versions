@@ -1,20 +1,440 @@
-PrivacyPrivacy detailsCookies  
-  Privacy details
+Lenovo United States Select a country/region
 
-_Lenovo Privacy practices on the Web_
+*   Algeria
+*   Angola
+*   Argentina
+*   Australia
+*   Austria
+*   Bahrain
+*   Bangladesh
+*   Belgium
+*   Benin
+*   Bolivia
+*   Botswana
+*   Brazil
+*   Bulgaria
+*   Burkina
+*   Burundi
+*   Cameroon
+*   Canada - English
+*   Canada - Français
+*   Cape Verde
+*   Central African Republic
+*   Chad
+*   Chile
+*   China
+*   Colombia
+*   Comoros
+*   Congo, Dem. Rep. (Kinshasa)
 
-   
+*   Congo, Rep. (Brazzaville)
+*   Croatia
+*   Czech Republic
+*   Côte d'Ivoire (Ivory Coast)
+*   Denmark
+*   Deutschland
+*   Djibouti
+*   Ecuador
+*   Egypt
+*   Equatorial Guinea
+*   Eritrea
+*   Ethiopia
+*   Finland
+*   France
+*   Gabon
+*   Gambia, The
+*   Ghana
+*   Greece
+*   Guinea
+*   Guinea-Bissau
+*   Hong Kong S.A.R of China - English
+*   Hong Kong S.A.R of China - 繁體中文
+*   Hungary
+*   India
+*   Indonesia
+*   Ireland
+
+*   Israel
+*   Italy
+*   Japan
+*   Jordan
+*   Kazakhstan
+*   Kenya
+*   Korea
+*   Kuwait
+*   Lebanon
+*   Lesotho
+*   Liberia
+*   Libya
+*   Lithuania
+*   Madagascar
+*   Malawi
+*   Malaysia
+*   Mali
+*   Mauritania
+*   Mauritius
+*   Mexico
+*   Morocco
+*   Mozambique
+*   Myanmar
+*   Namibia
+*   Netherlands
+*   New Zealand
+
+*   Niger
+*   Nigeria
+*   Norway
+*   Oman
+*   Paraguay
+*   Peru
+*   Philippines
+*   Poland
+*   Qatar
+*   Romania
+*   Russian Federation
+*   Rwanda
+*   Réunion
+*   Saint Helena
+*   Saudi Arabia
+*   Senegal
+*   Serbia
+*   Seychelles
+*   Sierra Leone
+*   Singapore
+*   Slovakia
+*   Slovenia
+*   Somalia
+*   South Africa
+*   South Sudan
+*   Spain
+
+*   Sri Lanka
+*   Sudan
+*   Swaziland
+*   Sweden
+*   Switzerland - Deutsch
+*   Switzerland - Français
+*   São Tomé and Príncipe
+*   Taiwan
+*   Tanzania
+*   Thailand
+*   Togo
+*   Tunisia
+*   Turkey
+*   Uganda
+*   Ukraine
+*   United Arab Emirates
+*   United Kingdom
+*   United States
+*   Uruguay
+*   Venezuela
+*   Vietnam
+*   Western Sahara
+*   Zambia
+*   Zimbabwe
+
+ Lenovo recommends Windows. SearchSearch
+
+*   For Work
+    *   Small Business
+    *   Large Enterprise
+    *   State &. Local Government
+    *   Federal Government
+    *   Healthcare
+    *   K-12 Education
+    *   Higher Education
+    *   Students
+    *   Business Partners
+    *   Resource Center
+*   Support
+
+*   Contact Us
+    *   **Live Sales Chat** Click to chat with a live representative.  
+        Open 24 hours a day, 7 days a week.
+    *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
+        Mon - Fri: 9am - 9pm (EST)  
+        Sat: 9am - 6pm (EST)  
+        Sun: Closed  
+          
+        **Customer Service** 1-855-2-LENOVO (1-855-253-6686)  
+        Mon - Fri: 9am - 9pm (EST)  
+        Sat - Sun : 9am - 6pm (EST)  
+          
+        **Credit Card Services** 1-800-426-3325  
+        Open Mon - Fri: 9am - 6pm (EST)
+    *   **Order Status** Track by order number.
+    *   **Tech Support** Find phone numbers for your location.
+    *   **Need More Help?** More ways to contact Lenovo
+*   Sign-Up to Win
+*   My Account
+*   Cart
+
+*   Laptops &. Ultrabooks
+    
+    *   ThinkPad Laptops Premium Performance, Legendary Reliability
+        *   T Series: Premium Laptops
+        *   X Series: Thin and Light Laptops
+        *   ThinkPad Yoga: Multimode Business Ultrabook
+        *   E Series: Preferred Small-Business Laptops
+        *   ThinkPad Helix: Detachable Ultrabook With Four Modes
+        *   ThinkPad Twist: Convertible Small-Business Ultrabooks
+        *   L Series: Mainstream Laptops
+        *   W Series: Portable Workstations
+    *   IdeaPad Laptops Stylish Design, Maximum Fun
+        *   Y Series: Premium Multimedia Laptops
+        *   Yoga Series:Convertible Entertainment Ultraportables
+        *   Z Series: Mainstream Entertainment Laptops
+        *   Flex Series: Mainstream Multimode Laptops
+        *   U Series: Designer Laptops/Ultrabooks
+        *   S Series: Entry-Level Ultraportables
+    *   Essential Laptops Entry-Level Features, Value-Oriented Price
+        *   G Series: Everyday Laptops
+    
+    *   New Season, New Savings Save up to 40%
+        
+        on select home laptops through April 9.
+        
+        **Shop now >**
+    *   LENOVO Y510P LEVEL UP
+        
+        With epic gaming features.
+        
+        **Shop now >**
+    *   Uncompromising Elegance
+        
+        The ThinkPad T440s offers beauty and brawn in one business-powered package.
+        
+        **Shop now >**
+    
+    Not sure what you need?
+    *   New Product Showcase
+    *   New Product Announcements
+    *   Top Rated &. Best Selling Laptops
+    *   Ultrabooks
+    *   Convertibles
+    *   Gaming PCs
+    *   See All Laptops
+    *   For Work
+    
+     
+*   Tablets
+    
+    *   Android TabletsThe World's Most Popular Mobile Platform
+        *   Lenovo Yoga Tablet 8:8" Revolutionary Multimode Tablet
+        *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
+        *   IdeaTab A1000L:7" Affordable Entertainment Tablet
+        *   IdeaTab A3000:7" Tablet With Enhanced Performance
+        *   IdeaTab S5000: 7" Enhanced Multimedia Tablet
+        *   IdeaTab S6000: 10.1" Enhanced Multimedia Tablet
+        *        
+             
+    *   Windows TabletsOne Experience For Everything in Your Life
+        *   ThinkPad 8:8.3" Multimode Business Tablet
+        *   ThinkPad Helix:11.6" Premium Business Ultrabook
+        *   ThinkPad Tablet 2:10.1" Business Tablet
+        *   Lenovo Miix 2 8":8" Tablet with PC-Level Processor
+        *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
+    *   ConvertiblesFlip, Twist or Fold — Laptop/Tablet Hybrids
+        *   Lenovo Flex:Multimode Laptops
+        *   IdeaPad Yoga:Convertible Entertainment
+        *   ThinkPad Helix:11.6" Premium Business Ultrabook
+        *   ThinkPad Twist:12.5" Small-Business Ultrabook
+        *   ThinkPad Yoga:Multimode Business Ultrabook
+    
+    *   New Season, New Savings Save up to 26%
+        
+        on select home tablets through April 9.
+        
+        **Shop now >**
+    *   Yoga — Now for Business
+        
+        Built for business, yet ready for play, the new ThinkPad Yoga offers the best of both worlds.
+        
+        **Shop now >**
+    *   Special Offer Get the Yoga Tablet 10 for $199.
+        
+        Save $120 on the Yoga Tablet 59387956 when ordering a PC over $899 on Lenovo.com. Call Sales to redeem. 855-253-6686
+        
+    
+    Not sure what you need?
+    *   New Product Showcase
+    *   New Product Announcements
+    *   Shop IdeaTab Tablets
+    *   Shop ThinkPad Tablets
+    *   See All Tablets
+    *   For Work
+    
+     
+*   Desktops &. All-in-Ones
+    
+    *   ThinkCentre Desktops Premium Performance, Solid Reliability
+        *   E Series All-in-Ones: Stylish SMB Desktops
+        *   M Series Tiny: Full-Featured Micro Desktops
+        *   M Series Small Form Factors: Compact Enterprise Desktops
+        *   M Series All-in-Ones: Space-Saving Enterprise Desktops
+        *   M Series Towers: Enterprise Desktops
+    *   IdeaCentre Desktops Stylish Design, Maximum Fun
+        *   Horizon Table PCs: Multi-User Entertainment PCs
+        *   Flex Series All-in-Ones: Multi-User All-in-One PCs
+        *   A Series All-in-Ones: Stylish All-in-One Desktops
+        *   B Series All-in-Ones: Multimedia All-in-One Desktops
+        *   K Series Towers: Extreme Performance Towers
+        *   Q Series Minis: Mini Home Theatre PCs
+    *   Essential Desktops Entry-Level Desktops, Value-Oriented Price
+        *   C Series: Entry-Level All-in-One Desktops
+        *   H Series: Budget-Friendly Ultra Small Towers
+    *   Erazer Desktops Maximum Performance, Extreme Gaming
+        *   Erazer X Series: Extreme-Performance Gaming PCs
+    
+    *   New Season, New Savings Save up to 26%
+        
+        on select home PCs through April 9.
+        
+        **Shop now >**
+    *   Deals on ThinkCentre
+        
+        Get great deals on our powerful ThinkCentre desktop systems every day.
+        
+        **Shop now >**
+    *   Less is More
+        
+        More power, in less space, the ThinkCentre M73 Tiny delivers uncompromising performance.
+        
+        **Shop now >**
+    
+*   Workstations
+    *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
+        *   C Series: Powerful &. Compact
+        *   D Series: Extreme Speed, Dual CPU
+        *   E Series: Desktop Pricing, Workstation Performance
+        *   S Series: High-Performance, Powerful Graphics
+    *   ThinkPad Mobile Workstations The Ultimate Mobile Workstation
+        *   W Series: Portable Workstations
+    
+*   Servers &. Storage
+    
+    *   Racks Balanced Design. Built for Business.
+        *   RD340
+        *   RD440
+        *   RD540
+        *   RD640
+    *   TowersWorkload Hungry. Budget Friendly.
+        *   TS140
+        *   TS440
+        *   TD340
+    *   Enterprise Storage Network Attached. Business-Class.
+        *   Network Storage
+        *   Direct Storage
+        *   Video Surveillance
+    
+    *   TIME TO UPGRADE YOUR SERVERS?
+        
+        Outdated OS? Lackluster network performance? High maintenance costs? ThinkServer has the cure.
+        
+        **Learn more >**
+    *   Lenovo's Service Commitment to x86 server customers **Learn more >**
+    
+*   Accessories &. Software
+    
+    *   Accessories
+        *   Audio &. Video
+        *   Battery Finder
+        *   Power Store
+        *   Cameras &. Scanners
+        *   Bags &. Carrying Cases
+        *   Docks &. Port Replicators
+        *   Keyboards &. Mice
+        *   Memory
+        *   Monitors
+        *   Printer Store
+        *   Security &. Protection
+        *   Storage
+        *   Tablet Accessories
+        *   Wireless &. Networking
+    *   Software
+        *   Accounting &. Finance
+        *   Education &. Reference
+        *   Electronic Downloads
+        *   Games &. Entertainment
+        *   Graphics &. Desktop Publishing
+        *   Office Suites
+        *   Security
+        *   Utilities
+        *   Windows 8 Apps
+    *   Technologies
+        *   Lenovo Reach
+        *   Enhanced Experience
+        *   Lenovo Mobile Access
+        *   Thin Client Solutions
+        *   Free System Checkup
+    
+    *   WIRELESS MOUSE SAVE 50%
+        
+        Wireless, ergonomic design with integrated on/off switch.
+        
+        **Shop now >**
+    *   LENOVO HEADSET SAVE 39%
+        
+        Hands-free audio with Bluetooth® wireless technology.
+        
+        **Shop now >**
+    *   ELECTRONIC DOWNLOADS
+        
+        A more convenient way to purchase software for your PC!
+        
+        **Shop now >**
+    
+    Not sure what you need?
+    *   Best Selling Accessories
+    *   See All Accessories
+    *   For Work 
+*   Services &. Warranty
+    
+    *   Product Support Provides flexible warranty support options to keep you up and running.
+        *   Warranty Upgrades
+        *   Warranty Services
+        *   Priority Technical Support
+        *   Tablet Services
+        *   ThinkServer Services
+        *   Premium Support
+    *   Protection Services Designed to keep your PC safe, protect your data and help maintain productivity.
+        *   Accidental Damage Protection
+        *   Keep Your Drive
+        *   Online Data Backup
+    *   Transition Services Designed to keep your PC safe, protect your data and help maintain productivity.
+        *   Image Design
+        *   Asset Tagging
+        *   In-Place Migration
+        *   Asset Recovery Services
+        *   Financial Services
+    
+    *   Lenovo's Service Commitment to x86 server customers **Learn more >**
+    
+*   Deals
+    *   Current Offers
+        *   Home Laptop &. Desktop Deals
+        *   Accessories Closeout Sale
+        *   Deals for Students and Educators
+        *   Outlet
+    
+     
+*   Which PC is right for me?
+
+View cart HomePrivacy Details PrivacyPrivacy detailsCookies  
+  Privacy details    
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
+  
+
 Lenovo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by using our short Privacy Submission Form. If you are not satisfied with our response you can contact TRUSTe here.
 
-Personal information Supplementing Information Using and Sharing Personal Information Use of Suppliers Fulfilling your transaction request Mergers and Acquisitions Marketing Use Cookies, Web Beacons and Other Technologies Communications from the Site Flash LSOs Choice Service Quality Monitoring Live Chat Online Advertising Customer Testimonials/Comments/Reviews Personalized URL Link Lenovo Human Resources Web Sites (including Recruitment) Disclosures Required By Law Information for Business Partners Privacy Technology Lenovo Supplier Administration Links to non-Lenovo Web sites Lenovo Discussion Forums, Blogs, and Chat Rooms Social Media Widgets Other Lenovo Web Site Notices Frames Our Worldwide Practices Notification of Changes Information Security and Quality Privacy Questions and Access Data Retention    
+Personal information Use of Suppliers Using and Sharing Personal Information Mergers and Acquisitions Fulfilling your transaction request Cookies, Web Beacons and Other Technologies Marketing Use Service Quality Monitoring Lenovo Human Resources Web Sites (including Recruitment) Online Advertising Information for Business Partners Personalized URL Link Lenovo Supplier Administration Disclosures Required By Law Lenovo Discussion Forums and Chat Rooms Privacy Technology Other Lenovo Web Site Notices Links to non-Lenovo Web sites Our Worldwide Practices Notification of Changes Information Security and Quality Privacy Questions and Access Supplementing Information    
 Personal information
 
 In general, you can visit Lenovo on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
 
-You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us or a description of your education and work experience in connection with a job opening at Lenovo that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you. if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. (See “Choice” below). If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.
+You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us or a description of your education and work experience in connection with a job opening at Lenovo that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you. if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.
 
  **Back to top** Using and Sharing Personal Information
 
@@ -22,39 +442,11 @@ The following paragraphs describe in more detail how Lenovo may use your persona
 
  **Back to top** Fulfilling your transaction request
 
-If you request something from a Lenovo Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information with others including other parts of Lenovo, Lenovo's Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. These types of service providers are prohibited from using this information to market to you directly. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes.
-
-From time to time, we may provide you the opportunity to participate in surveys and contests on our site. If you participate, we may request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as zip code). We use this information to administer the contest or survey. We will use your contact information to communicate with you regarding Lenovo products if you give permission. We may use a third party service provider to conduct these surveys or contests. That company is prohibited from using your personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice.
+If you request something from an Lenovo Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of Lenovo, Lenovo?s Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes.
 
  **Back to top** Marketing Use
 
 The information you provide to Lenovo on certain Lenovo Web sites may also be used by Lenovo and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way.
-
- **Back to top** Communications from the Site
-
-Special Offers and Updates: You may choose to have us send you information on products, services, special deals, and promotions. You can sign up for these email updates in various areas on our sites. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice" section below.
-
-Newsletters: If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice" section.
-
-Service-related Announcements: We may send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature.
-
-Customer Service: Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
-
-Email A Page: If you choose to use our referral service to email a page about our site to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Lenovo does not retain this information going-forward, except as authorized by the recipient.
-
- **Back to top** Choice
-
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form or in "My Account" on your preferences page.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by using our short Privacy Submission Form.
-
- **Back to top** Live Chat
-
-In some contexts, you may elect to chat with us to obtain assistance. If our live chat is offline we will collect your name and email address so that we may reply to your request.
-
- **Back to top** Customer Testimonials/Comments/Reviews
-
-From time to time, we post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at Privacy Submission Form.
 
  **Back to top** Lenovo Human Resources Web Sites (including Recruitment)
 
@@ -66,11 +458,11 @@ If you represent a Lenovo Business Partner, you may visit a Lenovo Web site inte
 
  **Back to top** Lenovo Supplier Administration
 
-If you represent a Lenovo supplier, you may visit a Lenovo Web site intended specifically for use by Lenovo suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Lenovo, Lenovo's Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Lenovo suppliers generally.
+If you represent a Lenovo supplier, you may visit a Lenovo Web site intended specifically for use by Lenovo suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Lenovo, Lenovo?s Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Lenovo suppliers generally.
 
- **Back to top** Lenovo Discussion Forums, Blogs, and Chat Rooms
+ **Back to top** Lenovo Discussion Forums and Chat Rooms
 
-If you participate in a Lenovo discussion forum, blog, or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Lenovo, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. We are not responsible for the personally identifiable information you choose to submit in these forums. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Lenovo. To request removal of your personal information from our blog or community forum, contact us at Privacy Submission Form. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you participate in a Lenovo discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Lenovo, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Lenovo.
 
  **Back to top** Other Lenovo Web Site Notices
 
@@ -78,17 +470,17 @@ In some cases, specific Lenovo Web sites may contain other notices about their u
 
  **Back to top** Our Worldwide Practices
 
-Lenovo is a global organization with legal entities, business processes, management structures and technical systems that cross borders. In conducting our business with you, whether it is sales, warranty service, marketing communications or other requested services, we may transfer your information to any country in which we do business and may provide it to entities acting on our behalf. Our privacy practices are designed to provide protection for your personal information, wherever it may be stored and used, in compliance with all applicable laws and with this privacy policy.
+Lenovo is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders.
+
+Our privacy practices are designed to provide protection for your personal information, all over the world.
+
+We may share your personal information within Lenovo and transfer it to countries in the world where we do business.
+
+Some countries may provide less legal protection for your information. In such countries Lenovo will still handle information in the manner we describe here.
 
  **Back to top** Information Security and Quality
 
-The security of your personal information is important to us. We intend to protect your personal information and to maintain its quality. When you enter sensitive information (such as credit card number and/or social security number, national ID,) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
- **Back to top** Data Retention
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at Privacy Submission Form. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.
 
  **Back to top** Supplementing Information
 
@@ -96,33 +488,27 @@ From time to time we may supplement information you give us via a Lenovo Web sit
 
  **Back to top** Use of Suppliers
 
-In some cases Lenovo uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is Lenovo's practice to require such suppliers to handle information in a manner consistent with Lenovo's policies and these third parties may not use your information for their own marketing purposes.
+In some cases Lenovo uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is Lenovo practice to require such suppliers to handle information in a manner consistent with Lenovo policies.
 
  **Back to top** Mergers and Acquisitions
 
-Circumstances may arise where, whether for strategic or other business reasons, Lenovo decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Lenovo's practice to seek appropriate protection for information in these types of transactions.
+Circumstances may arise where, whether for strategic or other business reasons, Lenovo decides to sell, buy, merge or otherwise reorganise businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Lenovo practice to seek appropriate protection for information in these types of transactions.
 
  **Back to top** Cookies, Web Beacons and Other Technologies
 
-We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Lenovo Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." Lenovo or others on Lenovo's behalf may use this data to analyze trends and statistics and to help us provide better customer service.
+We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Lenovo Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." Lenovo or others on Lenovo behalf may use this data to analyze trends and statistics and to help us provide better customer service.
 
 Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in an non-identifiable format and combine it with other non-identifiable information such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. This information is not reviewed at an individual level. If you do not want your transaction details used in this manner you can disable your cookies.
 
-Lenovo may collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Lenovo pages use cookies, sent by Lenovo or its third party vendors, or other technologies to better serve you when you return to the Web site. We have no access or control of third party tracking technologies. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Lenovo pages use cookies, sent by Lenovo or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
 
-Some Lenovo Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Lenovo's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.
+Some Lenovo Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Lenovo Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.
 
 If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. For more information, please see "How to work with Cookies".
 
- **Back to top** Flash LSOs
-
-We use local shared objects, also known as Flash cookies, to display content based upon what you view on our site to personalize your visit.
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
-
  **Back to top** Service Quality Monitoring
 
-Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Lenovo's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
+Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Lenovo general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
 
  **Back to top** Online Advertising
 
@@ -136,7 +522,7 @@ If you choose to visit one of these Web sites, you are agreeing to let Lenovo co
 
  **Back to top** Disclosures Required By Law
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.
 
  **Back to top** Privacy Technology
 
@@ -146,32 +532,82 @@ Technology will increasingly help give you more control over your personal infor
 
 Lenovo Web sites may contain links to other Web sites. Lenovo is not responsible for the privacy practices or the content of those other Web sites.
 
- **Back to top** Social Media Widgets
-
-Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
- **Back to top** Frames
-
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.lenovo.com.
-
  **Back to top** Notification of Changes
 
-This privacy statement was last updated on January 1, 2014. A notice will be posted on our Web site home page for 30 days prior to the change becoming effective whenever this privacy statement is changed in a material way.
+This privacy statement was last updated on April 30, 2005. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way.
 
  **Back to top** Privacy Questions and Access
 
-Questions about this statement or about Lenovo's handling of your information may be submitted by filling out a short submission form.
+If you have a question about this statement, you can send an email to the Lenovo Web site coordinator. The address for this is privcy@us.lenovo.com. You can also contact us at this address if you have a question about Lenovo's handling of your information.
 
-If you wish to obtain a copy of particular information you provided to Lenovo, or if you become aware the information is incorrect and you would like us to correct it contact us at lnvinfo@lenovo.com.
+If you wish to obtain a copy of particular information you provided to Lenovo, or if you become aware the information is incorrect and you would like us to correct it contact us at lnvinfo@lenovo.com.
 
-Before Lenovo is able to provide you with any information or correct any inaccuracies or to delete information that you have provided, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond to your request for access within 30 days.
+Before Lenovo is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
+
+If you have questions or concerns regarding the site's privacy statement, please send them to Lenovo at: privcy@us.lenovo.com.
 
 This Web site is maintained by Lenovo or one of its subsidiaries around the world.
 
-Lenovo Privacy  
-1009 Think Place  
-Morrisville, NC 27560
+Please use the Back button on your browser or close this window to return to the page where you were.
 
-Please use the Back button on your browser to return to the page where you were.
+ **Back to top** About Lenovo
 
- **Back to top**
+*   Our Company
+*   News
+*   Investor Relations
+*   Social Responsibility
+*   Legal Information
+*   Jobs at Lenovo
+*   FAQs
+
+Shop by Industry
+
+*   Small Business Store
+*   Large Enterprise
+*   State &. Local Government
+*   Federal Government
+*   Healthcare
+*   K-12 Education
+*   Higher Education
+*   Students
+*   Business Partners
+*   Military
+
+Products &. Services
+
+*   Laptops &. Ultrabooks
+*   Tablets
+*   Desktops
+*   Workstations
+*   Yoga Tablet
+*   Gaming Computers
+*   New Product Showcase
+*   New Product Announcements
+*   Servers
+*   Accessories &. Software
+*   Services &. Warranty
+*   Lenovo Gift Cards
+*   Lenovo Photo Service
+*   Outlet
+
+Resources
+
+*   Contact Us
+*   Shopping Help
+*   Resource Center
+*   Order Status
+*   Where to Buy
+*   Support
+*   Training
+*   Blogs
+*   Forums
+*   Product Registration
+*   Product Accessibility
+*   Affinity Discount Program
+*   Lenovo Trade-In Program
+
+*   ©2014 Lenovo. All rights reserved.
+*   Print this page
+*   Privacy
+*   Site Map
+*   Terms of Use
