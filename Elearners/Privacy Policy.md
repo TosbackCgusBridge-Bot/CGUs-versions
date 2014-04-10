@@ -22,13 +22,14 @@ Campus Main Menu
     *   Online Tutorials
 *   Online Colleges
 *   Local Colleges
-*   College Resources
+*   Resources
     *   Planning for College
     *   Paying for College
     *   Careers
     *   Trends in Education
     *   Military Students
     *   Texbooks &. Supplies
+*   Find a Job
 
 Help Section
 
