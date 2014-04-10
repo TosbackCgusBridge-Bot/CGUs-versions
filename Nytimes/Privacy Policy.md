@@ -265,14 +265,7 @@ Under the California “Shine The Light” law, California residents may opt-out
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
 
-Search Help Watch: Creating a brand new macaroon
-
-Also in Video »
-
-*   50 years of the Ford Mustang
-*   Anatomy of a Scene: "Under the Skin"
-
-  
+Search Help
 
 *   © 2014 The New York Times Company
 *   Site Map
@@ -286,3 +279,5 @@ Also in Video »
 *   Help
 *   Contact Us
 *   Site Feedback
+
+campaign: nyt2014\_bar1\_cookdrpr - 240196, creative: nyt2014\_bar1\_3panel\_abTest\_cookdrpr\_1 - 370098, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Inv2
