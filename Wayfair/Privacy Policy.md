@@ -2,7 +2,7 @@ General Information
 
 Privacy Policy
 
-This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern and Wayfair Supply ( "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service").
+This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service").
 
 Before submitting information to the Service, please review this Privacy Policy carefully. By using or accessing the Service, you accept the practices described in this Privacy Policy. If you prefer that we not collect and process information about you, please do not provide it to us and do not access the Service.
 
@@ -145,7 +145,7 @@ Last Updated: March 22, 2013
 
 Welcome to Wayfair!
 
-Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern and Wayfair Supply ( "Wayfair", "we" or "us")" provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "**Sites**") subject to your compliance with these Terms of Use.
+Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us")" provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "**Sites**") subject to your compliance with these Terms of Use.
 
 PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SITES. These Terms of Use constitute an agreement between Wayfair and you. We recommend that you print out a copy of these Terms of Use for your records.
 
@@ -285,7 +285,7 @@ Wayfair's Copyright Policy
 
 Last Updated: March 22, 2013
 
-This Copyright Policy describes Wayfair's policy of prohibiting any information or materials that violate another party's intellectual property rights from appearing on www.Wayfair.com, www.AllModern.com, www.JossandMain.com, www.WayfairSupply.com, and their related domains (collectively, the "**Site**").
+This Copyright Policy describes Wayfair's policy of prohibiting any information or materials that violate another party's intellectual property rights from appearing on www.Wayfair.com, www.AllModern.com, www.JossandMain.com, www.WayfairSupply.com, www.BirchLane.com, and their related domains (collectively, the "**Site**").
 
 The Digital Millennium Copyright Act of 1998 (the "**DMCA**") provides recourse for a copyright owner who believes that material appearing on the Internet infringes his, her or its rights under U.S. copyright law. Wayfair complies with the DMCA by responding to notices and counter-notices that meet the then-current DMCA requirements. Please visit http://www.copyright.gov/ for details about current DMCA requirements.
 
