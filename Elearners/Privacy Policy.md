@@ -29,7 +29,7 @@ Campus Main Menu
     *   Trends in Education
     *   Military Students
     *   Texbooks &. Supplies
-*   Find a Job
+*   Jobs
 
 Help Section
 
