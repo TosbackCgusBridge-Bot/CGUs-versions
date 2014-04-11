@@ -204,7 +204,7 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 back to top
 
-Connect your OkCupid Account Connect
+Connect your existing OkCupid account Connect
 
 Forgot your password?
 
