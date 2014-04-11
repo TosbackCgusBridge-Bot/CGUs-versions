@@ -251,13 +251,13 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Heroes of Cosplay is Back! Heroes of Cosplay is Back!
-
-Heroes of Cosplay is coming soon!
-
-Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
+Syfy Video Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
 
 From the revolutionary comics anthology, comes Metal Hurlant Chronicles with back to back episodes starting Monday April 14th at 8/7c.
+
+Heroes of Cosplay is Back! Heroes of Cosplay is Back!
+
+Heroes of Cosplay is coming soon!
 
 Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
 
