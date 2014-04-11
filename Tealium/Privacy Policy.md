@@ -281,12 +281,12 @@ Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
 
-*   Digital Content Management System
+*   Data Distribution System
 *   What Is Digital Marketing
 *   Marketing Campaign Effectiveness
 *   Digital Data
 *   Universal Tag
-*   Big Data Platform
+*   Integrate Marketing Campaigns
 *   Analytics Tag Management
 *   Marketing Digital
 *   Search Retargeting
