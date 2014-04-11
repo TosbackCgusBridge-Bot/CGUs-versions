@@ -129,7 +129,9 @@ _**"IP addresses"**_
 
 We need your IP address to deliver the Website and our service to you and to help diagnose problems with our server. Your IP address is also used to gather broad demographic information such as geographic distribution of our members.
 
-Because occasionally the Ancestry Website may be partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages. These third-parties may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness (they do not collect personal information) and to provide in information about your activity on this Website and other Websites to provide targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here and here (you must do both to adequately opt-out). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+**About our advertisements**
+
+Because occasionally the Ancestry Website may be partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages. These third-parties may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness (they do not collect personal information) and to provide in information about your activity on this Website and other Websites to provide targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here and here (you must do both to adequately opt-out). In addition, if you are a Facebook user and would like to opt out of receiving Facebook ads personalized based on the websites you visit, please click here. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **8.  How do you report, change or delete information about yourself or your family?**
 
