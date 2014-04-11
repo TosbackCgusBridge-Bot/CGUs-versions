@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l1-com-82402 TIME :->. Wed Apr 09 11:23:52 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola833 SERVER NAME :->. prod-c2-com-83301 TIME :->. Thu Apr 10 11:37:32 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,19 +43,23 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only! Ends April 15.
-
-Online Code: HIPHOP
+Hurry! Ends April 15. Online Only
 
 Extra 25% Off\* $200 or more.
 
 Extra 20% Off\* $100 or more.
+
+Online Code: HIPHOP
+
+In Store and Online
 
 Extra 15% Off\* up to $100.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 \*See exclusions and details.
+
+print coupon
 
 Easter Sale
 
@@ -65,45 +69,51 @@ Style that fits your family at prices that fit your wallet.
 
 shop the sale
 
+view store ad
+
+Hop to it! Order by April 12 to get it by Easter.
+
+view shipping information
+
 shop girls' dresses
 
 shop women's
 
-JCPenney Rewards Wednesday
+Night and Day Doorbusters
 
-Earn your $10 JCP Reward faster with double points!
+In Store Only.
 
-Earn one monthly $10 jcp reward when you spend $50 or more on qualifying purchases on Wednesdays.
+Friday, April 11, 3PM until close. Saturday, April 12, 10AM until 1PM.
 
-get offer details and learn more
+view store ad
 
-40% Off Select Dresses
+30-50% Off Select Worthington
 
-shop women's dresses
+shop Worthington
 
 50% Off Select Suits and Sport Coats
 
 shop suits and sport coats
 
-40% Off Select Dress Clothes and Dresses
+40% Off Select Baby Dress Clothes and Dresses
 
-shop kids' dress clothes and dresses
+shop baby dress clothes and dresses
+
+Sale $29.99 Select Liz Claiborne Shoes
+
+shop Liz Claiborne shoes
+
+25% Off\* The Body, Elle Macpherson Intimates Code: THEBODY
+
+shop Elle Macpherson Intimates
+
+\*See exclusions and details.
 
 30-50% Off\* Home
-
-Code: APRHOME
 
 shop home
 
 \*See exclusions and details.
-
-Billion Dollar Jewelry Sale 40-60% Off Select Fine Jewelry
-
-shop fine jewelry
-
-Under $30 Kids' Dress Shoes
-
-shop kids' dress shoes
 
 JCP Rewards
 
