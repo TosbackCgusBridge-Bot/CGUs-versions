@@ -116,4 +116,4 @@ Policy effective January 1, 2005
 *   .
 *   Investor Relations
 
-© 2014 InfoSpace, Inc. All Rights Reserved
+© 2014 InfoSpace, LLC. All Rights Reserved
