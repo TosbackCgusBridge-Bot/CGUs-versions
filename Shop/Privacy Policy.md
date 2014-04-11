@@ -190,9 +190,9 @@ Lenovo United States Select a country/region
     *   Essential Laptops Entry-Level Features, Value-Oriented Price
         *   G Series: Everyday Laptops
     
-    *   New Season, New Savings Save up to 40%
+    *   Stretch Your Savings Save up to 40%
         
-        on select home laptops through April 9.
+        on select home laptops through April 16.
         
         **Shop now >**
     *   LENOVO Y510P LEVEL UP
@@ -241,9 +241,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   New Season, New Savings Save up to 26%
+    *   Stretch Your Savings Save up to 26%
         
-        on select home tablets through April 9.
+        on select home tablets through April 16.
         
         **Shop now >**
     *   Yoga — Now for Business
@@ -286,9 +286,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   New Season, New Savings Save up to 26%
+    *   Stretch Your Savings Save up to 26%
         
-        on select home PCs through April 9.
+        on select home desktops through April 16.
         
         **Shop now >**
     *   Deals on ThinkCentre
@@ -368,14 +368,14 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   WIRELESS MOUSE SAVE 50%
+    *   WIRELESS HEADSET SAVE 47%
         
-        Wireless, ergonomic design with integrated on/off switch.
+        Ideal headset for enhancing your multimedia experience.
         
         **Shop now >**
-    *   LENOVO HEADSET SAVE 39%
+    *   PROTECT YOUR PC SAVE 20%
         
-        Hands-free audio with Bluetooth® wireless technology.
+        on select ThinkPad carrying cases!
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
