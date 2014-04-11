@@ -358,7 +358,6 @@ Follow @zynga
     *   Zynga.org
 *   careers
     *   Benefits
-    *   Career FAQs
     *   Life At Zynga
     *   Positions
     *   University
