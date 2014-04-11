@@ -66,7 +66,7 @@ You agree and understand that you are responsible for maintaining the confidenti
 
 By providing us with your e-mail address, you agree to receive all required notices electronically, to that e-mail address. It is your responsibility to update or change that address, as appropriate. Notices will be provided in HTML (or, if your system does not support HTML, in plain-text) in the text of the e-mail or through a link to the appropriate page on our site, accessible through any standard, commercially available internet browser.
 
-If you become aware of any unauthorized use of your Registration Information, you agree to notify Intuit immediately at the email address - security@mint.com.
+If you become aware of any unauthorized use of your Registration Information, you agree to notify Intuit immediately via our Contact Mint form found on our Help page at - https://www.mint.com/help/.
 
 Back to Top7. Your Use of the Service
 
