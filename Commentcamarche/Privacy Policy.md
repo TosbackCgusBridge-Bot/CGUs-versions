@@ -1,4 +1,4 @@
-USESDEFRITBR Mars 2014
+USESDEFRITBR Avril 2014
 
 *   Objet
 *   Mentions légales
@@ -123,14 +123,14 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 *   Conditions générales d'utilisation
 *   Redaction de condition general d utilisation d un site
 *   Conditions d'utilisation
-*   Modèle Condition Générale de Vente » Forum - Webmaster
-*   Télécharger Izispot » Télécharger - Editeurs HTML
+*   Conditions generales de vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
+*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
 *   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
 
 Communautés d'assistance et de conseils.
 
-*   Forum Mobile
 *   Forum Vos droits sur internet
-*   Forum Webmastering
+*   Forum Bouygues Télécom
+*   Forum Mobile
