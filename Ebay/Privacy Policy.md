@@ -6,10 +6,12 @@ Vorherige Version: 1. November 2010
   
 Die vorliegende Version ist ab sofort für neue Nutzer und ab dem 12. März 2014 für aktuelle Nutzer gültig und tritt an die Stelle aller vorherigen Versionen.
 
-Inhalt Geltungsbereich und Einwilligung Verantwortliche Stelle Verbindliche Unternehmensregeln (Binding Corporate Rules) Datenschutz auf mobilen Geräten Erhebung personenbezogener Daten Nutzung personenbezogener Daten Nutzung personenbezogener Daten für Marketingzwecke Widerspruch gegen die Nutzung Ihrer personenbezogenen Daten Offenlegung Ihrer Daten durch uns Informationen, die Sie auf eBay mitteilen Personenbezogene Daten, die Nutzer anderen Nutzern weitergeben Cookies, Web-Beacons, lokale Speicherfunktionen und ähnliche Technologien Verbot von Spam, Spyware und Spoofing Zugriff, Änderung und Berichtigung Ihrer Daten Schutz und Speicherung personenbezogener Daten Schließen Ihres Kontos und Aufbewahrung personenbezogener Daten Dritte Parteien Kontaktieren Sie uns
+Geltungsbereich und Einwilligung Verantwortliche Stelle Verbindliche Unternehmensregeln (Binding Corporate Rules) Datenschutz auf mobilen Geräten Erhebung personenbezogener Daten Nutzung personenbezogener Daten Nutzung personenbezogener Daten für Marketingzwecke Widerspruch gegen die Nutzung Ihrer personenbezogenen Daten Offenlegung Ihrer Daten durch uns Informationen, die Sie auf eBay mitteilen Personenbezogene Daten, die Nutzer anderen Nutzern weitergeben Cookies, Web-Beacons, lokale Speicherfunktionen und ähnliche Technologien Verbot von Spam, Spyware und Spoofing Zugriff, Änderung und Berichtigung Ihrer Daten Schutz und Speicherung personenbezogener Daten Schließen Ihres Kontos und Aufbewahrung personenbezogener Daten Dritte Parteien Kontaktieren Sie uns
 
   
 Diese Datenschutzerklärung informiert Sie darüber, wie wir Ihre personenbezogenen Daten verwenden und schützen. Eine Zusammenfassung dieser Datenschutzerklärung finden Sie auf unserer Seite: Datenschutz: Übersicht. Ausführlichere Informationen zu unseren Datenschutzverfahren und dazu, wie Sie uns Fragen zu diesem Thema stellen können, finden Sie in unserem eBay-Datenschutzzentrum.
+
+Zum Seitenanfang
 
   
 
@@ -23,6 +25,8 @@ Mit Zustimmung zu dieser Datenschutzerklärung geben Sie uns Ihr Einverständnis
 
 .
 
+Zum Seitenanfang
+
   
 
 Verantwortliche Stelle
@@ -30,6 +34,8 @@ Verantwortliche Stelle
 Verantwortliche Stelle für Nutzer der deutschsprachigen eBay-Websites mit Sitz innerhalb der EU sowie ihre Anwendungen, Services und Tools ist **eBay Europe S.à r.l, 22-24 Boulevard Royal, L-2449 Luxembourg.** Verantwortliche Stelle für Nutzer der deutschsprachigen eBay-Websites mit Sitz außerhalb der EU und ihre Anwendungen, Services und Tools ist **eBay International AG, Helvetiastrasse 15/17, CH-3005 Bern**. Die jeweilige verantwortliche Stelle kann Daten an die eBay Europe S.à r.l,, eBay International AG sowie an eBay Inc., 2145 Hamilton Avenue, San Jose, CA 95125, USA und andere Einrichtungen von eBay Inc. weltweit übermitteln.
 
 Die jeweilige verantwortliche Stelle, eBay Inc. und entsprechend eBay Europe S.à r.l., bzw. eBay International AG verarbeiten Ihre personenbezogenen Daten, die letzteren beiden als Datenverarbeiter im Auftrag der jeweiligen verantwortlichen Stelle zur Erbringung ihrer Dienstleistungen gemäß den Allgemeinen Geschäftsbedingungen und gemäß den in dieser Datenschutzerklärung dargelegten Grundsätzen.
+
+Zum Seitenanfang
 
   
 
@@ -41,6 +47,8 @@ Mit diesen verbindlichen unternehmensinternen Datenschutzregeln verpflichtet sic
 
 Die Datenschutzverfahren unserer Unternehmensgruppe entsprechen den in dieser Datenschutzerklärung und in unseren verbindlichen unternehmensinternen Datenschutzregeln beschriebenen Verfahren. Weitere Informationen zu unseren verbindlichen unternehmensinternen Datenschutzregeln, unseren weltweiten Datenschutzverfahren und -richtlinien sowie dazu, wie Sie uns Fragen zu diesem Thema stellen können, finden Sie in unserem eBay-Datenschutzzentrum.
 
+Zum Seitenanfang
+
   
 
 Datenschutz auf mobilen Geräten
@@ -48,6 +56,8 @@ Datenschutz auf mobilen Geräten
 Unter Umständen bieten wir Ihnen die Möglichkeit, mit einem mobilen Gerät – entweder über eine mobile Anwendung (App) oder über eine für mobile Geräte optimierte Website – auf unsere Websites zuzugreifen oder unsere Anwendungen, Services und Tools zu nutzen.
 
 Die Bestimmungen dieser Datenschutzerklärung gelten auch für den mobilen Zugriff und die Nutzung mobiler Geräte. Auf diese Datenschutzerklärung wird in allen mobilen Anwendungen und auf allen für mobile Geräte optimierten Websites verwiesen.
+
+Zum Seitenanfang
 
   
 
@@ -111,6 +121,8 @@ Wir erheben die folgenden Arten personenbezogener Daten, um Ihnen die Nutzung vo
 *   Es ist Ihnen freigestellt, uns Zugriff auf bestimmte personenbezogene Daten zu geben, die auf solchen Drittanbieter-Websites gespeichert werden. Auf welche personenbezogenen Daten wir zugreifen können, hängt von der jeweiligen Website ab und wird durch Ihre Datenschutzeinstellungen auf dieser Website sowie Ihre Einwilligung gesteuert. Durch die Verknüpfung eines von einem Drittanbieter verwalteten Kontos mit Ihrem eBay-Konto und das Autorisieren des eBay-Zugriffs auf diese Informationen erklären Sie sich damit einverstanden, dass eBay in Übereinstimmung mit dieser Datenschutzerklärung Informationen von diesen Websites erfassen, nutzen und speichern kann.
     
 
+Zum Seitenanfang
+
   
 
 Nutzung personenbezogener Daten
@@ -133,6 +145,8 @@ Unsere Erhebung und Nutzung personenbezogener Daten erfolgt zu dem Zweck, Ihnen 
     
 *   weitere Services die Sie ausdrücklich angefordert haben für Sie bereitzustellen.
     
+    Zum Seitenanfang
+    
       
     
 
@@ -149,6 +163,8 @@ Sofern Sie uns nach den gesetzlichen Bestimmungen ihre Einwilligung hierzu ertei
 
 Wir versichern, dass wir Ihre personenbezogenen Daten ohne Ihre ausdrückliche Einwilligung nicht an Dritte für ihre Marketingzwecke weitergeben. Wir können Ihre personenbezogenen Daten mit Daten kombinieren, die wir von anderen Quellen erhalten, und sie für die Verbesserung und persönliche Anpassung der an Sie gerichteten Werbeanzeigen und Marketingaktivitäten verwenden.
 
+Zum Seitenanfang
+
   
 
 Widerspruch gegen die Nutzung Ihrer personenbezogenen Daten
@@ -160,6 +176,8 @@ Wenn Sie nicht an unseren Programmen zur Anpassung von Werbeanzeigen teilnehmen 
 Weitere Informationen zum Unterbinden der Nutzung von Drittanbieter-Cookies für Werbezwecke finden Sie in unserer Erklärung zur Verwendung von Cookies.
 
 Wenn Sie Ihre Einwilligung in die Nutzung oder Offenlegung Ihrer personenbezogenen Daten für die anderen in dieser Datenschutzerklärung genannten Zwecke widerrufen, sind wir möglicherweise nicht mehr in der Lage, Ihnen den Zugriff auf unsere Websites, Anwendungen oder Tools zu ermöglichen oder die unseren Nutzern angebotenen und gemäß dieser Datenschutzerklärung und unseren Allgemeinen Geschäftsbedingungen autorisierten Services und Kundenservices bereitzustellen.
+
+Zum Seitenanfang
 
   
 
@@ -186,15 +204,19 @@ Wir legen personenbezogene Daten offen, um gesetzliche Verpflichtungen zu erfül
 
 Auch wenn wir mithilfe vertraglicher und anderer Maßnahmen für den Schutz personenbezogener Daten sorgen, sind die Gesetze und Vorschriften zum Schutz der Privatsphäre und personenbezogenen Daten in anderen Staaten möglicherweise nicht identisch oder vergleichbar mit Ihren lokalen Datenschutzgesetzen. Die Regierungen, Gerichte, Strafverfolgungs- oder Aufsichtsbehörden dieser anderen Staaten können unter Umständen uns zur Offenlegung personenbezogener Daten gemäß den jeweiligen Landesgesetzen verpflichten. Um Ihre Privatsphäre zu wahren, werden wir Ihre personenbezogenen Daten gegenüber Strafverfolgungsbehörden, sonstigen Regierungsvertretern oder anderen Dritten nicht ohne Vorladung, Gerichtsbeschluss oder ein vergleichbares Rechtsverfahren offenlegen, sofern wir nicht überzeugt sind, dass die Offenlegung notwendig ist, um unmittelbar drohende Gefahr für Leib und Leben, Sach- oder Geldwerte abzuwenden, Verdacht auf rechtswidrige Handlungen zu melden oder die eBay-Gemeinschaft in anderer Weise vor rechtswidrigen Handlungen zu schützen.
 
+Zum Seitenanfang
+
   
 
-Informationen, die Sie auf eBay mitteilen
+Informationen, die Sie bei eBay mitteilen
 
-Ihr Nutzername wird auf eBay angezeigt (und ist somit für die Öffentlichkeit einsehbar) und ist mit allen Ihren eBay-Aktivitäten verbunden. Ihre Gebote, Käufe, angebotenen Artikel, Ihre eBay-Kollektionen, Mitglieder und eBay-Kollektionen die sie verfolgen, Shops sowie Ihre Bewertungen und Bewertungskommentare können von anderen Personen eingesehen werden. Andere Nutzer können weitere Informationen über Sie einsehen, sofern Sie sich dazu entscheiden, diese in Ihrem Profil oder Ihrer Über-Mich Seite anzeigen zu lassen.
+Ihr Nutzername wird bei eBay angezeigt (und ist somit für die Öffentlichkeit einsehbar) und ist mit allen Ihren eBay-Aktivitäten verbunden. Ihre Gebote, Käufe, angebotenen Artikel, Ihre eBay-Kollektionen, Mitglieder und eBay-Kollektionen die sie verfolgen, Shops sowie Ihre Bewertungen und Bewertungskommentare können von anderen Personen eingesehen werden. Andere Nutzer können weitere Informationen über Sie einsehen, sofern Sie sich dazu entscheiden, diese in Ihrem eBay-Profil anzeigen zu lassen.
 
 Hinweise auf verdächtige Aktivitäten und Verstöße gegen die Grundsätze auf unseren Websites, die an andere eBay-Nutzer gesendet werden, enthalten Nutzernamen und konkrete Angaben zu Artikeln. Wenn Sie also Ihren Namen mit Ihrem Nutzernamen verknüpfen, können Personen, denen Sie Ihren Namen mitgeteilt haben, Ihre eBay-Aktivitäten mit Ihrer Person in Verbindung bringen.
 
 Wenn Sie mit einem von mehreren Personen genutzten Computer oder von einem Internetcafé aus auf unsere Website zugreifen, sind bestimmte Informationen, wie z.B. Ihr Nutzername, Ihre Aktivitäten oder Erinnerungen von eBay, möglicherweise auch für andere Personen sichtbar, die den Computer nach Ihnen benutzen.
+
+Zum Seitenanfang
 
   
 
@@ -211,11 +233,15 @@ eBay ermöglicht Ihnen die Weitergabe personenbezogener und finanzieller Daten z
 *   Zwecke, die von einem Nutzer ausdrücklich ausgewählt oder gewünscht wurden
     
 
+Zum Seitenanfang
+
   
 
 Cookies, Web-Beacons, lokale Speicherfunktionen und ähnliche Technologien
 
 Wenn Sie unsere Websites, Services, Anwendungen, Nachrichtenfunktionen (z.B. E-Mail) oder Tools nutzen, verwenden wir oder unsere autorisierten Serviceanbieter Cookies, Web-Beacons und andere ähnliche Technologien zur Speicherung von Daten, um Ihnen eine bessere, schnellere und sicherere Nutzererfahrung zu bieten und um Inhalte und Werbeanzeigen anzupassen. Ausführlichere Informationen dazu, wie wir diese Technologien nutzen und wie Sie der Nutzung widersprechen können, finden Sie in unserer Erklärung zur Verwendung von Cookies.
+
+Zum Seitenanfang
 
   
 
@@ -225,6 +251,8 @@ Spam wird weder von uns noch von unseren Nutzern toleriert. Bitte melden Sie une
 
 Sie dürfen keine anderen eBay-Nutzer ohne deren ausdrückliche Einwilligung Ihrer Verteilerliste (E-Mail oder Post) hinzufügen, auch wenn sie einen Artikel von Ihnen gekauft haben. Sie dürfen unsere Kommunikationstools nicht für den Versand von Spam oder anderen Inhalten verwenden, die gegen unsere Allgemeinen Geschäftsbedingungen verstoßen. Wir scannen über diese Tools versendete Nachrichten automatisch und filtern sie möglicherweise manuell, um sie auf Spam, Viren, Phishing-Angriffe sowie andere böswillige Aktivitäten und rechtswidrige oder verbotene Inhalte zu prüfen, speichern die über diese Tools versendeten Nachrichten aber nicht dauerhaft.
 
+Zum Seitenanfang
+
   
 
 Zugriff, Änderung und Berichtigung Ihrer Daten
@@ -232,6 +260,8 @@ Zugriff, Änderung und Berichtigung Ihrer Daten
 Ihr Passwort ist der Schlüssel zu Ihrem eBay-Konto. Verwenden Sie unterschiedliche Ziffern, Buchstaben und Sonderzeichen und teilen Sie Ihr eBay-Passwort niemandem mit. Wenn Sie Ihr Passwort oder Ihre personenbezogenen Daten an andere weitergeben, bedenken Sie, dass Sie für alle Handlungen verantwortlich sind, die im Namen Ihres eBay-Kontos erfolgen. Wenn Sie Ihr Passwort aus der Hand geben, verlieren Sie auch die Kontrolle über Ihre personenbezogenen Daten und können für rechtsverbindliche Handlungen zur Rechenschaft gezogen werden, die in Ihrem Namen erfolgen. Wenn Ihr Passwort aus irgendeinem Grund nicht mehr sicher ist, sollten Sie deshalb umgehend eBay benachrichtigen und Ihr Passwort ändern.
 
 Sie können die meisten Ihrer personenbezogenen Daten aufrufen, überprüfen und ändern, indem Sie sich bei eBay einloggen. Grundsätzlich nehmen wir keine manuellen Änderungen an Ihren personenbezogenen Daten vor, da es sehr schwer ist, Ihre Identität in Abwesenheit zu überprüfen. Sie sind verpflichtet, erforderliche Änderungen oder Korrekturen an Ihren Daten umgehend selbst vorzunehmen. In manchen Fällen ist es nachträglich nicht mehr möglich, Inhalte zu ändern oder zu entfernen, sobald Sie diese auf der Website veröffentlicht haben. Ihr gesetzliches Recht auf Berichtigung Ihrer personenbezogenen Daten bleibt unberührt.
+
+Zum Seitenanfang
 
   
 
@@ -241,6 +271,8 @@ Wir speichern und verarbeiten Ihre personenbezogenen Daten auf unseren Servern i
 
 Wir treffen Maßnahmen, um sicherzustellen, dass die von uns erhobenen personenbezogenen Daten korrekt und aktuell sind, und bieten Ihnen die Möglichkeit, Ihre Daten in den Profileinstellungen Ihres eBay-Kontos zu aktualisieren.
 
+Zum Seitenanfang
+
   
 
 Schließen Ihres Kontos und Aufbewahrung personenbezogener Daten
@@ -249,11 +281,15 @@ Wenn Sie dies wünschen, werden wir gemäß den Bestimmungen in diesem Abschnitt
 
 Im Allgemeinen werden personenbezogene Daten zu geschlossenen oder deaktivierten eBay-Konten nach der Schließung oder Deaktivierung des eBay-Kontos schnellstmöglich gelöscht oder anonymisiert. Unter bestimmten Umständen können wir personenbezogene Daten zu geschlossenen oder deaktivierten eBay-Konten aufbewahren. Mögliche Gründe hierfür sind unter anderem die Betrugsprävention, die Durchsetzung von Gebührenforderungen, die Schlichtung von Streitfällen, die Durchsetzung unserer Allgemeinen Geschäftsbedingungen oder andere gesetzlich zulässige Maßnahmen. Unter diesen Umständen werden die Daten so lange aufbewahrt, wie es für den jeweiligen Zweck erforderlich und gesetzlich zulässig ist.
 
+Zum Seitenanfang
+
   
 
 Dritte Parteien
 
 Sofern in dieser Datenschutzerklärung nicht ausdrücklich anders angegeben, beziehen sich die Informationen in dieser Datenschutzerklärung ausschließlich auf die Nutzung und Offenlegung von Daten, die wir von Ihnen erheben. Wenn Sie Ihre Daten anderen gegenüber offenlegen, seien es Bieter, Käufer oder Verkäufer auf unseren Websites oder anderen Websites im Internet, können für deren Nutzung oder Offenlegung der von Ihnen weitergegebenen Daten andere Regeln gelten. eBay hat keinen Einfluss auf die Datenschutzerklärungen Dritter, die in solchen Fällen möglicherweise für Sie gelten. Wir empfehlen Ihnen, vor der Weitergabe personenbezogener Daten an Dritte nachzufragen und sich über deren Datenschutzverfahren zu informieren.
+
+Zum Seitenanfang
 
   
 
@@ -266,3 +302,5 @@ Falls Sie mit unserer Bearbeitung Ihrer Fragen nicht zufrieden sind, können Sie
 Diese Einwilligungserklärung zur Speicherung und Nutzung Ihrer personenbezogenen Daten können Sie jederzeit mit Wirkung für die Zukunft hier widerrufen, indem Sie Ihr eBay-Konto schließen.
 
 **Hinweis:** Die bis einschließlich 11. März 2014 gültige Datenschutzerklärung haben wir archiviert.
+
+Zum Seitenanfang
