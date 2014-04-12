@@ -43,12 +43,10 @@ NBCUniversal
     *   Telemundo
     *   Universal Television
 *   Digital
-    *   DailyCandy
     *   Fandango
     *   Golf Now
     *   Hulu
     *   NBC News Digital
-    *   Television Without Pity
 *   Film
     *   Focus Features
     *   Universal Pictures
