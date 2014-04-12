@@ -314,7 +314,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   Careers
 *   Advertising
 *   Talent Solutions
-*   Tools
+*   Small Business
 *   Mobile
 *   Developers
 *   Publishers
