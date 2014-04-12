@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
+Syfy Video The Wil Wheaton Project - May 27 at 10/9c. The Wil Wheaton Project - May 27 at 10/9c.
+
+There Wil be Wheaton. Series Premiere on May 27th at 10/9c.
+
+Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
+
+#sharknado2. Coming in July!
+
+Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
 
 From the revolutionary comics anthology, comes Metal Hurlant Chronicles with back to back episodes starting Monday April 14th at 8/7c.
-
-Heroes of Cosplay is Back! Heroes of Cosplay is Back!
-
-Heroes of Cosplay is coming soon!
 
 Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
 
 Dominion is where heaven meets hell. Premering on Syfy, June 2014.
-
-Today its St. Louis, Tomorrow its Defiance Today its St. Louis, Tomorrow its Defiance
-
-Defiance airs June 9th at 9/8c.
 
 *   FAQ
 *   Feedback
