@@ -61,27 +61,15 @@ Just enter promo code: **ROW14** at checkout
 
 Click here for additional shipping and tax information.
 
-Earn a **SAKS GIFT CARD\*** up to $700 on Shoe &. Handbag Purchases.
-
-Online Only: April 8-9
-
-Just enter code **SANDHBX4** at checkout
-
-**Spend** **Get** **$250 to $499** **$35** **$500 to $999** **$75** **$1,000 to $1,999** **$150** **$2,000 to $2,999** **$450** **$3,000 or More** **$700**
-
-\*GIFT CARD OFFER NOT VALID ON PRE-ORDER ITEMS, OR ON INTERNATIONAL ORDERS. LIMIT OF FIVE PROMO CODES PER ORDER. Valid on Saks.com purchases from Tuesday, April 8, 2014 at 12:01AM (ET) to Wednesday, April 9, 2014 at 11:59PM (ET). Enter promotional code SANDHBX4 at checkout on Saks.com. Valid on saks.com shoe &. handbag purchases only. Excludes some designer collections, leased collections, beauty salons, Saks Fifth Avenue stores, Catalog, Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, gift card, charitable merchandise, and Saks employee purchases. No adjustments to prior purchases. Gift cards valid through 6/30/14 are redeemable on Saks.com. Cannot be combined with any other offer. Adjustments made to the gift card for returned merchandise. Limit 1 gift card per person. Total spend excludes gift wrap, pre-order merchandise at Saks.com, taxes and shipping. Code valid once per customer. Purchases made at Saks.com cannot be combined.
-
-Designer Exclusions: Akris, Alexander McQueen, Brunello Cucinelli, Christian Louboutin, Christopher Kane, Comme des Garcons, Dolce &. Gabbana, Fendi, Givenchy, Gucci, Jil Sander, The Row, Maison Martin Margiela, Mary Katrantzou, Miu Miu, Nina Ricci, Prada, Rick Owens, Rochas, Saint Laurent, Tod's, UGG Australia, Valentino, Versace, Vionnet, YSL. Not all categories of merchandise are excluded.
-
 Online Only: April 8-9 Gift Card Spend Get $250 to $499 $35 $500 to $999 $75 $1,000 to $1,999 $150 $2,000 to $2,999 $450 $3,000 or More $700 Details
 
 \*GIFT CARD OFFER NOT VALID ON PRE-ORDER ITEMS, OR ON INTERNATIONAL ORDERS. LIMIT OF FIVE PROMO CODES PER ORDER. Valid on Saks.com purchases from Tuesday, April 8, 2014 at 12:01AM (ET) to Wednesday, April 9, 2014 at 11:59PM (ET). Enter promotional code SANDHBX4 at checkout on Saks.com. Valid on saks.com shoe &. handbag purchases only. Excludes some designer collections, leased collections, beauty salons, Saks Fifth Avenue stores, Catalog, Saks Fifth Avenue OFF 5TH stores, Saksoff5th.com, gift card, charitable merchandise, and Saks employee purchases. No adjustments to prior purchases. Gift cards valid through 4/31/14 are redeemable on Saks.com. Cannot be combined with any other offer. Adjustments made to the gift card for returned merchandise. Limit 1 gift card per person. Total spend excludes gift wrap, pre-order merchandise at Saks.com, taxes and shipping. Code valid once per customer. Purchases made at Saks.com cannot be combined.  
    
 Designer Exclusions: Akris, Alexander McQueen, Brunello Cucinelli, Christian Louboutin, Christopher Kane, Comme des Garcons, Dolce &. Gabbana, Fendi, Givenchy, Gucci, Jil Sander, The Row, Maison Martin Margiela, Mary Katrantzou, Miu Miu, Nina Ricci, Prada, Rick Owens, Rochas, Saint Laurent, Tod's, UGG Australia, Valentino, Versace, Vionnet, YSL. Not all categories of merchandise are excluded.
 
-Friends &. Family  
+**Friends &. Family  
 ENJOY 25% OFF\*  
-20% off Jewelry
+20% off Jewelry**
 
 Designer Exclusions Apply\*\*
 
