@@ -223,10 +223,13 @@ Can't get enough HowStuffWorks?
 **Sign up for our newsletter**
 
 *   Adventure
+*   Animals
 *   Auto
 *   Culture
 *   Entertainment
+*   Health
 *   Home &. Garden
+*   Lifestyle
 *   Money
 *   Science
 *   Tech
