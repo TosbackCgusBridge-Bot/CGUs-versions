@@ -1,6 +1,6 @@
 Privacy Statement HP respects your privacy
 
-HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way information about you, including from your online activity is collected and how that information is used by HP. This statement is readily available on our HP.com home page and at the bottom of every HP web page.
+HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way information about you, including from your online activity is collected and how that information is used by HP. This statement is readily available on our HP.com home page and at the bottom of every HP web page. Please use the links below to access translations of this statement and any applicable country specific or service specific supplements to the statement.
 
   
 
@@ -10,7 +10,7 @@ HP was a founding sponsor of the Council of Better Business Bureau’s Online Pr
 
   
 
-In the development of HP’s privacy policies and standards, we respect and take into account the major principles and frameworks around the world, including the OECD Guidelines on the Protection of Privacy and Transborder Flows, EU Directive 95/46/EC, APEC Privacy Framework, and the Madrid Resolution on International Privacy Standards.
+In the development of HP’s privacy policies and standards, we respect and take into account the major principles and frameworks around the world, including the OECD Guidelines on the Protection of Privacy and Transborder Flows, EU Directive 95/46/EC, APEC Privacy Framework, and the Madrid Resolution on International Privacy Standards and the Australian Privacy Principles under the Privacy Act 1988 (Cth).
 
   
 
@@ -68,6 +68,14 @@ HP collects, exports, and uses personal information to manage your relationship 
 
   
 
+HP collects, exports, and uses personal information to manage your relationship with HP and better serve you by personalizing your experience and interaction with HP. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where required.
+
+  
+
+HP may collect your personal information through your access and use of website or web-based applications, during conversations or correspondence with HP representatives, or when you purchase goods or services or complete an online application form.
+
+  
+
 HP may collect personal information from you in connection with
 
   
@@ -82,18 +90,20 @@ HP may collect personal information from you in connection with
 *   event registration
 *   visits or browsing on HP websites
 
-The types of personal information you provide to us may include:
+The types of personal information HP may collect from you includes:
 
   
 
 *   personal and business contact information, such as name, address, telephone number, and email address
 *   in some cases, your business contact data may be provided to HP by a designated entity within your business or enterprise (such as a member of your IT department)
 *   financial information, such as your credit/debit card number or other billing information
-*   government issued identification number and salary
 *   other unique information such as user IDs and passwords, product functionality, product and service preferences, contact preferences, educational and employment background, and job interest data
 *   geo-location data such as your IP address or physical location when you request location based services
+*   details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries
+*   any additional information relating to you that you provide to us directly through our websites or indirectly through use of our websites or online presence, through our representatives or otherwise
+*   information you provide to us through our service centre, customer surveys or visits by our representatives from time to time
 
-If you apply for instant credit, we may ask you to provide additional personal information such as salary, government issued identification number, banking/financial account information, and other information to authenticate you and verify credit worthiness. This information will be used by our financial services providers in determining whether to extend you credit and how much to extend.
+If you apply for instant credit, we may ask you to provide additional personal information such as salary, government issued identification number, banking/financial account information, and other information (for example from credit reporting agencies) to authenticate you and verify credit worthiness. This information will be used by our financial services providers in determining whether to extend you credit and how much to extend.
 
   
 
@@ -116,23 +126,31 @@ HP also collects information from publicly or commercially available sources tha
 Where necessary, HP may also use information provided by you or your employer, together with information from publicly available and other online and offline sources, to conduct due diligence checks on business contacts as part of HP’s anti-corruption program.
 
   
+
+HP may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our websites, products or services.
+
+  
 3\. How we use your information
 
-The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to
+HP may use your information to
 
   
 
 *   manage our relationship with you
 *   assist you in completing a transaction or order
 *   prevent and detect security threats, fraud or other malicious activity
-*   communicate with you about HP products and services
-*   provide and improve service and support
+*   communicate with you about HP products, services or support and send marketing communications provide products, services and support to you
+*   improve and develop products, services and support including through quality control, research and data analysis activities
 *   update you on new services and benefits
 *   provide personalized promotional offers
-*   select content to be communicated to you
-*   personalize some HP websites
 *   measure performance of marketing initiatives, ads, and websites “powered by” another company on HP’s behalf
 *   allow you to participate in contests and surveys
+*   answer enquiries, provide information, support or advice about existing and new products or services
+*   personalize some HP websites
+*   provide you with access to protected areas of our website
+*   assess and improve the performance and operation of HP websites
+*   to keep your contact details up to date and provide updated details to HP service providers and suppliers where necessary
+*   to process and respond to any complaint made by you
 
 We will give you the opportunity to choose your privacy preferences regarding the marketing communications we send (see Your choices and selecting your privacy preferences).
 
@@ -147,7 +165,7 @@ HP will not sell, rent or lease your personal information to others except as de
 
   
 
-HP retains service providers and suppliers to manage or support its business operations, deliver complete products, services and customer solutions and to assist HP with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, marketing, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential and secure the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP.
+HP retains service providers and suppliers to manage or support its business operations, provide professional services, deliver complete products, services and customer solutions and to assist HP with marketing and communication initiatives. These providers and suppliers may be located in the US or other overseas locations and include, for example, credit card processors, debt collectors, providers of customer support and live-help, marketing and communications, hosting and IT service providers, email service providers, automated data processors, shipping agents, management and support of HP websites, order fulfillment and delivery. Suppliers and service providers are required by contract to keep confidential and secure the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP.
 
   
 
@@ -155,7 +173,7 @@ From time to time, HP participates in marketing initiatives with other companies
 
   
 
-HP may transfer your personal information to other HP-owned business entities in the US and Worldwide. By accessing HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
+HP may also transfer your personal information to other HP-owned business entities in the US and Worldwide. By accessing HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
 
   
 
@@ -189,7 +207,7 @@ Subscription communications include email newsletters, software updates, etc. th
 *   Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email subscription communication.
 *   To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
 *   Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the Subscriber's Choice web page.
-*   Write to the HP Privacy Office. Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
+*   Write to the HP Privacy Office (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
 
 Please be aware that when you opt out of receiving certain subscription communications, it may affect the services you have chosen to receive from HP where accepting the communications is a condition of receiving the services.
 
@@ -232,12 +250,16 @@ Credit card numbers are used only for processing payments and are not used for o
   
 9\. Changes to this Statement
 
-If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect.
+If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. This privacy policy was last updated on March 2014.
 
   
 10\. Contacting us
 
-We value your opinions. If you have comments or questions about our Privacy Statement, privacy at HP or wish to make a complaint please send them to the HP Privacy Office or write to us at the following address:
+We value your opinions. If you have comments or questions about our Privacy Statement, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the HP Privacy Officeor write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
+
+  
+
+HP has also committed to refer unresolved privacy complaints from E.U. citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: http://www.bbb.org/us/safe-harbor-complaints.
 
   
 
@@ -268,10 +290,6 @@ Hewlett Packard
 PO Box 384  
 Concord West, NSW 2138  
 Australia
-
-  
-
-Rev. November 2013
 
   
 How HP uses automatic data collection tools
@@ -349,7 +367,7 @@ In addition to the collection and usage practices described in the HP Privacy St
 *   **Account Set-Up.** If you set up an account to receive services we provide through your webOS device, we will collect your name, phone number, email address and account settings to process your registration and provide those services.
 *   **On-Device Services.** If you use services we provide through your webOS device, we will collect information relevant to providing the services and as you designate. For example:
 
-*   **Device Diagnostics, Analytics and Updates.** In order to improve our product and service offerings, your webOS device includes remote diagnostics, analytics, and software update services. Your webOS device collects technical information related to your device (including serial number, unique device identifier, diagnostic information, usage and crash logs, application configurations, etc.) as required to help identify and troubleshoot issues, and to provide and improve service.
+*   **Device Diagnostics, Analytics and Updates.** . In order to improve our product and service offerings, your webOS device includes remote diagnostics, analytics, and software update services. Your webOS device collects technical information related to your device (including serial number, unique device identifier, diagnostic information, usage and crash logs, application configurations, etc.) as required to help identify and troubleshoot issues, and to provide and improve service.
 *   **Back-up and Restore.** When you use a back-up and restore service for data stored on your device, we will automatically and regularly collect information related to your contacts, calendar, tasks, email and messaging, including online account usernames. account credentials and settings. memos. text/MMS/IM messages and conversations. phone call logs. web bookmarks and cookies. installed App Catalog applications. and preferences, including Location Service preferences to help enable retrieval of that data when restoring or replacing your device. Additional details, including how to turn “off’ the feature can be found at Using Backup.
 *   **Location-Based Services.** When you use location-based services, we will collect, transmit, maintain, process, and use your location and usage data (including both real time geographic information and information that can be used to approximate location) in order to provide location-based and related services, and to enhance your device experience.
 
