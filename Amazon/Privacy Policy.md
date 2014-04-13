@@ -141,4 +141,4 @@ Examples of information you can access easily at Amazon.co.uk include: up-to-dat
 
 Back to top  
   
-Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. Search Help: **Ask the Community**: Post your question or search for an answer in our General Help Forum or Kindle Help Forum.
+Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. Search Help: **Ask the Community**: Post your question or search for an answer in our General Help Community or Kindle Help Community.
