@@ -287,6 +287,6 @@ Recent Searches:
 *   Digital Data
 *   Universal Tag
 *   Integrate Marketing Campaigns
-*   Bid Management Tools
-*   Marketing Digital
+*   Analytics Tag Management
+*   Impact Of Data Distribution
 *   Search Retargeting
