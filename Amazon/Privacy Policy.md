@@ -1,4 +1,4 @@
-Rechercher dans les pages d'aide : Protection de vos informations personnelles  
+Rechercher dans les pages d'aide : Protection de vos informations personnelles
 
 _Dernière mise à jour le 25 septembre 2012_
 
@@ -12,18 +12,17 @@ Nous savons que vous êtes attentifs à l'utilisation et au partage de vos infor
 *   Qu'en est-il des Annonceurs Tiers et des Liens vers d'autres Sites Internet ?
 *   A quelles informations puis-je avoir accès ?
 *   Quels choix me sont proposés ?
-*   Les enfants sont-ils autorisés à utiliser Amazon.fr ?
+*   Les enfants sont-ils autorisés à utiliser Amazon.fr?
 *   Notices et révisions
 *   Exemples d'informations collectées
 
-****Responsable du traitement**  
-**
+Responsable du traitement
 
 Tout traitement des informations personnelles communiquées à Amazon.fr est effectué sous la responsabilité, premièrement, d'Amazon EU SARL et Amazon Services Europe SARL et Amazon Media EU SARL, les trois entités situées au 5 rue Plaetis, L -2338Luxembourg, les responsables du traitement, et deuxièmement, d'Amazon.fr SAS, le sous traitant, situé au 67 Boulevard du Général Leclerc - 92110 Clichy.
 
-Amazon.com, Inc. et les filiales qu'elle contrôle aux Etats-Unis, participent au programme Safe Harbour(« la Sphère de Sécurité ») développé par le ministère américain du Commerce et par l'Union européenne. Ces sociétés du groupe Amazon ont certifié qu'elles adhèrent aux principes de protection des données personnelles du Safe Harbour (« la Sphère de Sécurité »)acceptés conjointement par les États-Unis et l'Union européenne. Pour plus d'informations concernant le Safe Harbour et pour voir la certification de ces sociétés du groupe Amazon, nous vous invitons à visiter le site Internet Safe Harbour du département américain du commerce. Si vous souhaitez contacter Amazon directement concernant le programme Safe Harbour, veuillez envoyer un e-mail à safeharbour@amazon.com.
+Amazon.com, Inc. et les filiales qu'elle contrôle aux Etats-Unis, participent au programme Safe Harbour (« la Sphère de Sécurité ») développé par le ministère américain du Commerce et par l'Union européenne. Ces sociétés du groupe Amazon ont certifié qu'elles adhèrent aux principes de protection des données personnelles du Safe Harbour (« la Sphère de Sécurité »)acceptés conjointement par les États-Unis et l'Union européenne. Pour plus d'informations concernant le Safe Harbour et pour voir la certification de ces sociétés du groupe Amazon, nous vous invitons à visiter le site Internet Safe Harbour du département américain du commerce. Si vous souhaitez contacter Amazon directement concernant le programme Safe Harbour, veuillez envoyer un e-mail à safeharbour@amazon.com.
 
-**Quelles sont les informations des clients collectées par Amazon.fr ?**  
+Quelles sont les informations des clients collectées par Amazon.fr ?
 
 Les informations clients que nous collectons nous aident à personnaliser et à améliorer continuellement votre expérience d'achat sur Amazon.fr. Nous utilisons ces informations pour traiter les commandes, livrer les produits et services, traiter les paiements et communiquer avec vous concernant vos commandes, les produits, les services et offres promotionnelles, conserver et mettre à jour nos fichiers et ainsi vos comptes chez nous, mettre à votre disposition du contenu tel que les listes d'envies et les commentaires clients et recommander des produits et services susceptibles de vous intéresser. Nous utilisons également ces informations pour améliorer nos boutiques et plates-formes, prévenir ou détecter les fraudes ou abus sur notre site Internet et permettre à des parties tierces de fournir des fonctions techniques, logistiques ou autres pour notre compte.
 
@@ -31,7 +30,7 @@ Les informations clients que nous collectons nous aident à personnaliser et à 
 
 *   **Informations que vous nous communiquez**
 
-Nous collectons et enregistrons toutes les informations que vous nous communiquez via notre site Web ou par d'autres biais. Pour consulter quelques exemples des informations que nous collectons, veuillez cliquer ici.Vous pouvez choisir de ne pas nous communiquer certaines informations,cette décision risque néanmoins de vous priver de nombreux services et fonctionnalités que nous vous proposons. Nous utilisons les informations que vous nous communiquez, notamment afin de répondre à vos demandes, de personnaliser vos futurs achats, d'améliorer nos boutiques et de communiquer avec vous.
+Nous collectons et enregistrons toutes les informations que vous nous communiquez via notre site Web ou par d'autres biais. Pour consulter quelques exemples des informations que nous collectons, veuillez cliquer ici.Vous pouvez choisir de ne pas nous communiquer certaines informations, cette décision risque néanmoins de vous priver de nombreux services et fonctionnalités que nous vous proposons. Nous utilisons les informations que vous nous communiquez, notamment afin de répondre à vos demandes, de personnaliser vos futurs achats, d'améliorer nos boutiques et de communiquer avec vous.
 
 *   **Informations collectées automatiquement**
 
@@ -47,19 +46,15 @@ Pour optimiser l'utilité et l'intérêt de nos e-mails, si votre ordinateur le 
 
 *   **Informations issues d'autres sources**
 
-Nous pouvons également recevoir d'autres informations vous concernant de sources différentes et les ajouter aux informations de votre compte. Pour consulter des exemples d'informations que nous recevons de tiers, cliquez ici.
-
-**Qu'en est-il des cookies ?**
+Nous pouvons également recevoir d'autres informations vous concernant de sources différentes et les ajouter aux informations de votre compte. Pour consulter des exemples d'informations que nous recevons de tiers, cliquez ici. Qu'en est-il des cookies ?
 
 Afin de permettre à nos systèmes de reconnaître votre appareil et de vous fournir des fonctionnalités, nous utilisons des « cookies ». Pour plus d'informations concernant les cookies et l'usage que nous en faisons, veuillez vous référer à la section « Cookies et Publicité sur Internet ».
 
-**Amazon.fr partage-t-elle les informations qu'elle reçoit ?**  
-
-Les informations relatives à nos clients représentent une part importante de notre activité et notre métier n'est pas d'en faire le commerce. Nous partageons ces informations uniquement dans les cas suivants et pour les finalités décrites dans cette politique de confidentialité, avec Amazon.com, Inc. et les filiales qu'Amazon.com, Inc. contrôle et qui sont, soit soumises à cette politique de confidentialité, soit appliquent des règles au moins aussi protectrices que celles décrites dans cette politique de confidentialité.
+Amazon.fr partage-t-elle les informations qu'elle reçoit ?Les informations relatives à nos clients représentent une part importante de notre activité et notre métier n'est pas d'en faire le commerce. Nous partageons ces informations uniquement dans les cas suivants et pour les finalités décrites dans cette politique de confidentialité, avec Amazon.com, Inc. et les filiales qu'Amazon.com, Inc. contrôle et qui sont, soit soumises à cette politique de confidentialité, soit appliquent des règles au moins aussi protectrices que celles décrites dans cette politique de confidentialité.
 
 *   **Partenaires affiliés que nous ne contrôlons pas**
 
-Nous travaillons en étroite collaboration avec nos partenaires.Dans certains cas, tels que pour nos vendeurs « Marketplace », ces partenaires peuvent exploiter leurs propres boutiques ou vous vendre directement leurs biens ou services via le site Amazon.fr. Dans d'autres cas, nous exploitons des boutiques, fournissons des services ou commercialisons des lignes de produits, conjointement ou pour le compte de ces partenaires. Pour consulter quelques exemples d'offres co-brandées ou d'offres conjointes, veuillez cliquer ici.Vous pouvez savoir quand un tiers est impliqué dans vos transactions et quand nous partageons avec ce tiers les informations relatives à ces transactions.
+Nous travaillons en étroite collaboration avec nos partenaires. Dans certains cas, tels que pour nos vendeurs « Marketplace », ces partenaires peuvent exploiter leurs propres boutiques ou vous vendre directement leurs biens ou services via le site Amazon.fr. Dans d'autres cas, nous exploitons des boutiques, fournissons des services ou commercialisons des lignes de produits, conjointement ou pour le compte de ces partenaires. Pour consulter quelques exemples d'offres co-brandées ou d'offres conjointes, veuillez cliquer ici. Vous pouvez savoir quand un tiers est impliqué dans vos transactions et quand nous partageons avec ce tiers les informations relatives à ces transactions.
 
 *   **Prestataires de services tiers**
 
@@ -67,11 +62,11 @@ Nous avons recours à d'autres sociétés ou personnes indépendantes lesquelles
 
 *   **Offres promotionnelles**
 
-Sous réserve de votre accord, donné dans Votre Compte, nous pouvons envoyer de temps en temps des offres à certaines catégories de clients Amazon.fr pour le compte d'autres sociétés. Dans ce cas,nous ne communiquons à ces sociétés ni votre nom ni votre adresse. Si vous ne souhaitez plus recevoir de telles offres, vous pouvez facilement et à tout moment modifier vos préférences en vous rendant sur Votre compte ou tout autre accord que nous avons conclu avec Vous, ou pour protéger les droits d'Amazon.fr ou ceux des utilisateurs des sites et services d'Amazon.
+Sous réserve de votre accord, donné dans Votre Compte, nous pouvons envoyer de temps en temps des offres à certaines catégories de clients Amazon.fr pour le compte d'autres sociétés. Dans ce cas, nous ne communiquons à ces sociétés ni votre nom ni votre adresse. Si vous ne souhaitez plus recevoir de telles offres, vous pouvez facilement et à tout moment modifier vos préférences en vous rendant sur Votre compte ou tout autre accord que nous avons conclu avec Vous, ou pour protéger les droits d'Amazon.fr ou ceux des utilisateurs des sites et services d'Amazon.
 
 *   **Transfert d'entreprises ou d'activités**
 
-Dans le cadre  du développement de nos activités, nous pouvons être amenés à vendre ou acquérir des boutiques, filiales, ou segments d'activité. À l'occasion de telles transactions, les informations relatives aux clients font généralement partie des actifs transférés mais demeurent sujettes à toute politique de confidentialité pré-existante (sauf, bien entendu, accord contraire du client). Par ailleurs, dans le cas, peu probable, où Amazon.com, Inc. ou une part substantielle de ses actifs seraient acquises, les informations relatives aux clients seraient bien entendu également transmises à l'acquéreur comme faisant partie des actifs transférés.
+Dans le cadre du développement de nos activités, nous pouvons être amenés à vendre ou acquérir des boutiques, filiales, ou segments d'activité. À l'occasion de telles transactions, les informations relatives aux clients font généralement partie des actifs transférés mais demeurent sujettes à toute politique de confidentialité pré-existante (sauf, bien entendu, accord contraire du client). Par ailleurs, dans le cas, peu probable, où Amazon.com, Inc. ou une part substantielle de ses actifs seraient acquises, les informations relatives aux clients seraient bien entendu également transmises à l'acquéreur comme faisant partie des actifs transférés.
 
 *   **Protection d'Amazon.fr et des tiers**
 
@@ -83,7 +78,7 @@ Dans tous les autres cas, vous serez averti si vos informations venaient à êtr
 
 Lorsque nous transférons des informations personnelles à des pays ne faisant pas partie de l'Espace économique européen (E.E.E.) dans le but de partager ces informations comme décrit ci-dessus, nous nous assurons que ces informations sont transférées en conformité avec la présente politique de confidentialité et en application des lois applicables à la protection des données personnelles.
 
-**Mes informations personnelles sont-elles protégées ?**  
+Mes informations personnelles sont-elles protégées ?
 
 Nous protégeons la sécurité de vos informations personnelles lors de leur transmission en utilisant le logiciel SSL (Secure Sockets Layer Software) qui crypte les informations que vous entrez avant qu'elles ne nous soient envoyées.
 
@@ -93,20 +88,21 @@ Nous maintenons des mesures de sécurité physiques, électroniques et des proc�
 
 Il est important de vous protéger contre l'accès non autorisé à votre mot de passe et à votre ordinateur. Si vous partagez un ordinateur, vous devez vous déconnecter après chaque utilisation. Veuillez cliquer ici pour plus d'informations sur les modalités de déconnexion.
 
-**Qu'en est-il des Annonceurs tiers et des Liens vers d'autres sites Internet ?**  
+Qu'en est-il des Annonceurs tiers et des Liens vers d'autres sites Internet ?
 
-Notre site peut inclure des publicités émanant de tiers et des liens vers d'autres sites Internet. Pour plus d'informations concernant les publicités émanant de tiers, y compris les publicités personnalisées ou basées sur les intérêts des clients, veuillez vous référer à la section « Cookies et Publicité sur Internet ». **À quelles informations puis-je avoir accès ?**  
+Notre site peut inclure des publicités émanant de tiers et des liens vers d'autres sites Internet. Pour plus d'informations concernant les publicités émanant de tiers, y compris les publicités personnalisées ou basées sur les intérêts des clients, veuillez vous référer à la section « Cookies et Publicité sur Internet ».
 
-Amazon.fr vous donne accès à un large choix d'informations à propos de votre compte et des interactions avec Amazon.fr dans le seul but d'en prendre connaissance et, dans certains cas, de mettre à jour ces informations. Pour consulter des exemples, cliquez ici.Notez que cette liste évolue en même temps que notre site.
+À quelles informations puis-je avoir accès ?
 
-**Quels choix me sont proposés ?  
-**
+Amazon.fr vous donne accès à un large choix d'informations à propos de votre compte et des interactions avec Amazon.fr dans le seul but d'en prendre connaissance et, dans certains cas, de mettre à jour ces informations. Pour consulter des exemples, cliquez ici. Notez que cette liste évolue en même temps que notre site.
 
-Comme mentionné ci-dessus, vous avez toujours la possibilité de ne communiquer aucune information, même si certaines informations sont nécessaires pour effectuer des achats ou pour utiliser des fonctionnalités d'Amazon comme « Chez Vous », Vos listes d'envies, vos commentaires clients et Amazon Premium.
+Quels choix me sont proposés ?
+
+Comme mentionné ci-dessus, vous avez toujours la possibilité de ne communiquer aucune information, même si certaines informations sont nécessaires pour effectuer des achats ou pour utiliser des fonctionnalités d'Amazon comme «Chez Vous », Vos listes d'envies, vos commentaires clients et Amazon Premium.
 
 Conformément aux dispositions en vigueur vous disposez d'un droit d'accès, de modification, de rectification et de suppression des informations vous concernant. Vous pouvez exercer ces droits sur les pages citées dans la section "À quelles informations puis-je avoir accès" Si vous mettez une information à jour, nous conservons généralement une copie de vos informations initiales dans nos dossiers.
 
-Si vous ne souhaitez pas recevoir d'emails ou autres courriers de notre part, veuillez le notifier dans Votrecompte. (Si vous ne souhaitez pas recevoir les conditions générales de vente et d'autres notifications d'ordre juridique telles que cette politique de confidentialité, ces notifications régiront votre utilisation du site Amazon.fr et les commandes placées sur Amazon.fr, et il relèvera de votre responsabilité de revoir les changements qui y seront apportés).
+Si vous ne souhaitez pas recevoir d'e-mails ou autres courriers de notre part, veuillez le notifier dans Votre compte. (Si vous ne souhaitez pas recevoir les conditions générales de vente et d'autres notifications d'ordre juridique telles que cette politique de confidentialité, ces notifications régiront votre utilisation du site Amazon.fr et les commandes placées sur Amazon.fr, et il relèvera de votre responsabilité de revoir les changements qui y seront apportés).
 
 Si vous ne souhaitez pas que nous utilisions les informations personnelles que nous collectons pour permettre à des tiers de personnaliser les publicités que nous affichons, il vous suffit de le notifier dans Votre compte.
 
@@ -114,12 +110,11 @@ La section Aide de la barre d'outils de la plupart des navigateurs vous indique 
 
 Pour obtenir des informations sur les produits qui permettent de naviguer de manière anonyme, cliquez ici.
 
-**Les enfants sont-ils autorisés à utiliser Amazon.fr ?**  
+Les enfants sont-ils autorisés à utiliser Amazon.fr ?
 
 Amazon.fr ne vend pas de produits qui puissent être achetés par des enfants (personnes âgées de moins de 18 ans). Les produits destinés aux enfants doivent être achetés par des adultes. Si vous êtes âgé de moins de 18 ans, vous ne pouvez utiliser Amazon.fr qu'avec la participation d'un parent ou d'un tuteur.
 
-**Notices et révisions  
-**
+Notices et révisions
 
 Si vous avez des questions concernant la protection des informations personnelles par Amazon.fr, merci de nous envoyer un message détaillé par e-mail et nous essaierons d'y apporter une solution.
 
@@ -127,26 +122,21 @@ Notre activité évolue constamment et la présente politique de protection des 
 
 **Thèmes liés**
 
-Conditions générales de vente
+*   Conditions générales de vente
+*   Forum de discussion
+*   Pages d'aide
+*   Achats les plus récents
+*   Les commentaires en ligne
 
-Forum de discussion
-
-Pages d'aide
-
-Achats les plus récents
-
-Les commentaires en ligne
-
-**Exemples d'informations collectées  
-**
+**Exemples d'informations collectées**
 
 **Informations que vous nous communiquez**
 
-Vous nous fournissez des informations quand vous effectuez une recherche, un achat, vous faites une offre, vous prenez part à un jeu concours ou à un questionnaire ou communiquez avec notre Service Client. C'est par exemple le cas lorsque vous recherchez un produit, passez une commande ou quand vous complétez «Votre compte» (vous pouvez d'ailleurs disposer de plusieurs comptes si vous vous êtes inscrit en donnant différentes adresses e-mail) ou la rubrique«Chez Vous», quand vous nous contactez par téléphone, par e-mail, ou par tout autre moyen, complétez un questionnaire ou un bulletin de participation à un concours, utilisez nos services, créez « Vos listes d'envies», participez à des forum de discussion ou autres modes de communication en commun, quand vous rédigez ou notez des commentaires, quand vous paramétrez un "Rappel de vos évènements" ou des "Alertes sur la disponibilité des Produits". Ces informations peuvent être votre nom, adresse et numéro de téléphone, des informations sur votre carte bancaire, les noms, adresses et numéros de téléphone des destinataires des produits achetés, les personnes que vous mentionnez dans vos coordonnées1-Click(avec leur adresse et numéro de téléphone), les adresses e-mail des"Amazon Friends" et autres personnes, le contenu des commentaires et des e-mails que vous nous avez adressés, votre description personnelle et photographie dans la rubrique « Chez Vous » et des données financières.
+Vous nous fournissez des informations quand vous effectuez une recherche, un achat, vous faites une offre, vous prenez part à un jeu concours ou à un questionnaire ou communiquez avec notre Service Client. C'est par exemple le cas lorsque vous recherchez un produit, passez une commande ou quand vous complétez «Votre compte» (vous pouvez d'ailleurs disposer de plusieurs comptes si vous vous êtes inscrit en donnant différentes adresses e-mail) ou la rubrique«Chez Vous», quand vous nous contactez par téléphone, par e-mail, ou par tout autre moyen, complétez un questionnaire ou un bulletin de participation à un concours, utilisez nos services, créez « Vos listes d'envies», participez à des forum de discussion ou autres modes de communication en commun, quand vous rédigez ou notez des commentaires, quand vous paramétrez un "Rappel de vos évènements" ou des "Alertes sur la disponibilité des Produits". Ces informations peuvent être votre nom,adresse et numéro de téléphone, des informations sur votre carte bancaire, les noms, adresses et numéros de téléphone des destinataires des produits achetés, les personnes que vous mentionnez dans vos coordonnées1-Click(avec leur adresse et numéro de téléphone), les adresses e-mail des"Amazon Friends" et autres personnes, le contenu des commentaires et des e-mails que vous nous avez adressés, votre description personnelle et photographie dans la rubrique «Chez Vous»et des données financières.
 
 **Informations collectées automatiquement**
 
-Quelques exemples d'informations que nous collectons et analysons : l'adresse IP (Internet Protocol) qui relie votre ordinateur à Internet, les confirmations de réception et de lecture d'e-mails, les données de connexion, les adresses e-mail, votre mot de passe, les informations sur votre ordinateur et sur votre connexion Internet (par exemple : le type et la version de votre navigateur,votre système d'exploitation et votre plate-forme, les catégories et versions de plug-ins de votre navigateur), le réglage des fuseaux horaires, l'historique de vos commandes, que nous associons parfois à des informations provenant d'autres clients sous une forme anonyme pour créer des fonctions telles que "Nos meilleures ventes", le cheminement URL complet vers, via et depuis notre site Internet, y compris les date et heure, les numéros de"cookies", les produits que vous avez consultés ou recherchés, les numéros de téléphone que vous avez utilisés pour appeler notre Service Client. Nous utilisons aussi les informations relatives à votre navigateur, tels que les cookies, les Flash cookies (aussi connus sous le nom de Flash Local Shared Objects) ou d'autres informations similaires sur certaines parties de nos sites Internet afin de prévenir la fraude et à d'autres fins. Au cours de certaines visites, nous pouvons être amenés à utiliser des outils logiciels tels que JavaScript pour mesurer et collecter des informations sur la session, notamment les temps de réponse d'une page, les erreurs de téléchargement, la durée de visites sur certaines pages, les informations concernant les interactions sur une page (« scrolling »(défilement sur une page), clics, mouvements de souris) et les méthodes utilisées pour naviguer à partir d'une page. Nous pouvons aussi collecter des informations techniques qui nous aident à identifier votre appareil à des fins de prévention de la fraude et de diagnostic.
+Quelques exemples d'informations que nous collectons et analysons : l'adresse IP (Internet Protocol) qui relie votre ordinateur à Internet, les confirmations de réception et de lecture d'e-mails, les données de connexion, les adresses e-mail, votre mot de passe, les informations sur votre ordinateur et sur votre connexion Internet (par exemple : le type et la version de votre navigateur, votre système d'exploitation et votre plate-forme, les catégories et versions de plug-ins de votre navigateur), le réglage des fuseaux horaires, l'historique de vos commandes, que nous associons parfois à des informations provenant d'autres clients sous une forme anonyme pour créer des fonctions telles que "Nos meilleures ventes", le cheminement URL complet vers, via et depuis notre site Internet, y compris les date et heure, les numéros de"cookies", les produits que vous avez consultés ou recherchés, les numéros de téléphone que vous avez utilisés pour appeler notre Service Client. Nous utilisons aussi les informations relatives à votre navigateur, tels que les cookies, les Flash cookies (aussi connus sous le nom de Flash Local Shared Objects) ou d'autres informations similaires sur certaines parties de nos sites Internet afin de prévenir la fraude et à d'autres fins. Au cours de certaines visites, nous pouvons être amenés à utiliser des outils logiciels tels que JavaScript pour mesurer et collecter des informations sur la session, notamment les temps de réponse d'une page, les erreurs de téléchargement, la durée de visites sur certaines pages, les informations concernant les interactions sur une page (« scrolling »(défilement sur une page), clics, mouvements de souris) et les méthodes utilisées pour naviguer à partir d'une page. Nous pouvons aussi collecter des informations techniques qui nous aident à identifier votre appareil à des fins de prévention de la fraude et de diagnostic.
 
 **Appareils portables**
 
@@ -154,7 +144,7 @@ La plupart des appareils portables donnent la possibilité aux utilisateurs de d
 
 **Informations issues d'autres sources**
 
-Voici quelques exemples d'informations que nous recevons d'autres sources : les informations actualisées de nos transporteurs et autres parties tierces sur les livraisons et les adresses que nous utilisons pour mettre à jour nos bases de données, optimiser l'exécution de vos prochaines commandes et pouvoir communiquer plus facilement. des informations sur les comptes, les achats et le paiement ainsi que les consultations de pages de certains partenaires avec lesquels nous gérons conjointement des boutiques en "co-branding" ou auxquels nous fournissons des services techniques, logistiques de publicité ou autres services, les informations de résultats de recherche issues des fonctionnalités de recherche proposées par notre filiale, Alexa Internet. résultats de recherche et liens,incluant les listing payés (tels que les Liens Sponsorisés) ;ainsi que des renseignements provenant d'agences de renseignements commerciaux que nous utilisons pour prévenir ou détecter les fraudes et pour pouvoir offrir certains services de crédit et financiers à certains clients.
+Voici quelques exemples d'informations que nous recevons d'autres sources : les informations actualisées de nos transporteurs et autres parties tierces sur les livraisons et les adresses que nous utilisons pour mettre à jour nos bases de données, optimiser l'exécution de vos prochaines commandes et pouvoir communiquer plus facilement. des informations sur les comptes, les achats et le paiement ainsi que les consultations de pages de certains partenaires avec lesquels nous gérons conjointement des boutiques en "co-branding" ou auxquels nous fournissons des services techniques, logistiques de publicité ou autres services, les informations de résultats de recherche issues des fonctionnalités de recherche proposées par notre filiale, Alexa Internet . résultats de recherche et liens, incluant les listing payés (tels que les Liens Sponsorisés) ;ainsi que des renseignements provenant d'agences de renseignements commerciaux que nous utilisons pour prévenir ou détecter les fraudes et pour pouvoir offrir certains services de crédit et financiers à certains clients.
 
 **Offres commerciales en « co-branding » ou en partenariat**
 
@@ -162,12 +152,10 @@ A l'avenir, sous réserve de votre accord donné dans Votre Compte, nous pourron
 
 **Informations auxquelles vous avez accès**
 
-Quelques exemples d'informations auxquelles vous avez facilement accès sur le site Amazon.fr : les informations à jour sur vos commandes récentes, vos informations personnelles (notamment vos nom, adresse e-mail et mot de passe, vos préférences de communication, votre carnet d'adresses et coordonnées 1-Click), des informations sur les modalités de paiement (notamment les informations sur les cartes bancaires, les chèques-cadeaux et les consultations du compte), vos préférences sur les informations que vous souhaitez recevoir par e-mail(notamment concernant les « Alertes sur la disponibilité des produits », les livraisons, les « Rappels de vos évènements », les «Emails d'information »), les recommandations (y compris « Recommandé pour Vous » et « Améliorer vos Recommandations »), vos listes d'achat et de cadeaux (y compris « Vos listes d'envies » et vos listes de naissance et de mariage), les comptes des vendeurs ainsi que la rubrique « Chez Vous » (notamment vos commentaires, vos conseils personnalisés, vos listes thématiques « Listmania », rappels et profil personnel).
+Quelques exemples d'informations auxquelles vous avez facilement accès sur le site Amazon.fr : les informations à jour sur vos commandes récentes, vos informations personnelles (notamment vos nom, adresse e-mail et mot de passe, vos préférences de communication, votre carnet d'adresses et coordonnées 1-Click), des informations sur les modalités de paiement (notamment les informations sur les cartes bancaires, les chèques-cadeaux et les consultations du compte), vos préférences sur les informations que vous souhaitez recevoir par e-mail(notamment concernant les « Alertes sur la disponibilité des produits », les livraisons, les « Rappels de vos évènements », les «Emails d'information »), les recommandations (y compris « Recommandé pour Vous » et « Améliorer vos Recommandations »), vos listes d'achat et de cadeaux (y compris « Vos listes d'envies» et vos listes de naissance et de mariage), les comptes des vendeurs ainsi que la rubrique « Chez Vous » (notamment vos commentaires, vos conseils personnalisés, vos listes thématiques «Listmania », rappels et profil personnel).
 
 **Offres commerciales en « co-branding » ou en partenariat**
 
 À l'avenir, sous réserve du consentement que Vous avez fourni dans Votre Compte, nous pourrions être amenés à proposer des offres commerciales ou services en « co-branding » ou en partenariat avec un tiers comme nous le proposons aujourd'hui sur le site Amazon.com avec Toysrus.com, Target, Borders, Hotwire, Gap, Nordstrom, Office Depot et Virginmega.com ou sur le site Amazon.co.uk avec waterstones.co.uk.
-
-  
 
 Rubriques connexes: Systèmes de protection de la vie privée Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Modification de Protection de vos données personnelles 18 septembre 2007 Rechercher dans les pages d'aide : **Demandez à la communauté** : Postez vos questions ou cherchez une réponse dans notre Forum d'aide générale ou dans notre Forum d'aide Kindle.
