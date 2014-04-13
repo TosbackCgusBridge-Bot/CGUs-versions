@@ -10,7 +10,6 @@ Rachael Ray
     *   Rachael Ray's Recipes
     *   Recipe Search
     *   Newest Recipes
-    *   Weekly Round-Up
     *   Budget Meals
     *   Recipe Collections
 *   Home &. Family
@@ -147,7 +146,6 @@ Food
 *   Recipe search
 *   Newest recipes
 *   Rachael Ray recipes
-*   Weekly Round-Up
 
 Features
 
