@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola823 SERVER NAME :->. prod-c1-com-82301 TIME :->. Sat Apr 12 05:19:17 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena711 SERVER NAME :->. prod-l2-com-71102 TIME :->. Sun Apr 13 04:34:59 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,7 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Hurry! Ends April 15. Online Only
+Hurry! Final Days. Ends Tuesday, April 15. Online Only
 
 Extra 25% Off\* $200 or more.
 
@@ -63,55 +63,57 @@ print coupon
 
 Easter Sale
 
-Ends April 15.
-
-Style that fits your family at prices that fit your wallet.
+The best styles, fits and prices for the whole family—hop to it!
 
 shop the sale
 
 view store ad
 
-Hop to it! Order by April 12 to get it by Easter.
+Get it by Easter
+
+$5 Express Shipping over $99.
+
+Select 3-Day shipping by 1PM CDT on April 16.
 
 view shipping information
 
-shop girls' dresses
+40% Off Select Dresses
 
-shop women's
+shop women's dresses
 
-Night and Day Doorbusters
+40-60% Off Select Fine Jewelry
 
-In Store Only.
+shop fine jewelry
 
-Friday, April 11, 3PM until close. Saturday, April 12, 10AM until 1PM.
-
-view store ad
-
-30-50% Off Select Worthington
-
-shop Worthington
-
-50% Off Select Suits and Sport Coats
-
-shop suits and sport coats
-
-40% Off Select Baby Dress Clothes and Dresses
-
-shop baby dress clothes and dresses
-
-Sale $29.99 Select Liz Claiborne Shoes
-
-shop Liz Claiborne shoes
-
-25% Off\* The Body, Elle Macpherson Intimates Code: THEBODY
-
-shop Elle Macpherson Intimates
+Code: 11JWLRY
 
 \*See exclusions and details.
 
-30-50% Off\* Home
+$29.99 Select Women's Sandals
 
-shop home
+shop women's sandals
+
+30-50% Off Select Total Girl
+
+shop Total Girl
+
+50% Off Select Dockers Shorts
+
+shop Dockers shorts
+
+50% Off\* Bedding
+
+shop bedding
+
+Code: APRHOME
+
+\*See exclusions and details.
+
+25% Off\* The Body, Elle Macpherson Intimates
+
+shop Elle Macpherson Intimates
+
+Code: THEBODY
 
 \*See exclusions and details.
 
@@ -130,8 +132,6 @@ The Wedding Registry at JCPenney
 view wedding registry
 
 Red Zone Clearance Selections
-
-50-75% Off
 
 shop clearance
 
