@@ -1,14 +1,14 @@
 Ask Jeeves Privacy Policy Back to About Home
 
-_Last updated: October 29, 2013_
+_Last updated: 3 April, 2014_
 
   
 
-At Ask, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Search &. Media Europe, Ltd., APN, LLC and Mindspark Interactive Network, Inc. ("Ask", "we", "us", "our") through the use of (i) our websites (the "Website") and (ii) "Search Applications," a search box on an application or site from which you can access our search services , specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc.(collectively the "Services").
+At Ask, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Search &. Media Europe, Ltd., APN, LLC and Mindspark Interactive Network, Inc. ("Ask", "we", "us", "our") through the use of (i) this website (the "Website") and (ii) "Search Applications," made available by means of a search box on an application or site from which you can access our search services, specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc.(collectively the "Services").
 
 Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
-This Privacy Policy was last updated on December 15, 2011. We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users' needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
 
 What information do we collect about you?
 
@@ -26,33 +26,28 @@ You may also provide personal information to us, if you choose to:
 *   contact us about employment opportunities posted to the Services. or
 *   otherwise use the Services in a manner that you have requested.
 
-Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network. For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network's policies, they may provide us access to your and your friends names, pictures, genders, user Ids, connections and any content shared using an "Everyone" or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself.
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network. For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network's policies, they may provide us access to your and your friends' names, pictures, genders, user Ids, connections and any content shared using an "Everyone" or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself.
 
 INFORMATION WE COLLECT WHEN YOU USE THE SERVICES:
 
 When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
 1.  IP address of your computer
-2.  Unique mobile device identifier
-3.  Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
-4.  Your preferences and settings (time zone, language, etc.)
-5.  Internet provider or mobile carrier name
-6.  The URL of the last webpage you visited before visiting the Website
-7.  Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments).
-8.  If you are using a mobile device, your mobile device's geographic location (specific geographic location if you've enabled collection of that information, or general geographic location automatically). Please see the section "About Location Information" below for further information.
-9.  If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
+2.  Technical information about your computer or mobile device such as type of device, unique mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
+3.  Your preferences and settings (time zone, language, etc.)
+4.  Internet provider or mobile carrier name
+5.  The URL of the last webpage you visited before visiting the Website
+6.  Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments).
+7.  If you are using a mobile device, your mobile device's geographic location (specific geographic location if you've enabled collection of that information, or general geographic location automatically). Please see the section "About Location Information" below for further information.
+8.  If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
 
   
 
 We also use cookies and similar technologies (such as local stored objects) to collect and store information. Please see our Cookies Policy for further information about our use of these technologies.
 
-NOTICE REGARDING ASK ERASER
-
-Please note that Ask has phased-out its AskEraser feature. AskEraser was a privacy feature from Ask that when enabled, deleted your search activity from Ask's servers in most circumstances. However, even without Ask Eraser, you can use your browser's support or help settings to disable Ask cookies from collecting this information in the first place. Please note that search activity that Ask has previously collected will not be deleted. taking these actions will only prevent the collection of your search activity information going forward.
-
 Major browsers provide users with various options when it comes to cookies. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Ask uses to collect search activity information about its users), or block specific cookies. To modify your cookie settings, please refer to the following support pages for each browser you use to access the Website:
 
-*   Explorer help: http://support.microsoft.com/kb/278835
+*   Internet Explorer help: http://windows.microsoft.com/en-gb/windows7/how-to-manage-cookies-in-internet-explorer-9
 *   Firefox help: http://kb.mozillazine.org/Cookies#Firefox
 *   Safari help: http://support.apple.com/kb/PH5042
 *   Chrome help: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647\]
@@ -63,7 +58,7 @@ We use the information we collect from and about you for a variety of purposes, 
 
 *   verify your eligibility for our Services.
 *   respond to your queries with the best possible answers and search results.
-*   understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions.
+*   understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalising content to your interests and process and complete your transactions.
 *   administer our Services, diagnose technical problems and otherwise manage our business.
 *   distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyse retention and usage per distribution partner or channel.
 *   send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see 'How to delete, access or edit your personal information' for further information about how you can control these communications.
@@ -95,7 +90,7 @@ We will not share the personal information we collect about you with any third p
 *   Companies within the IAC Group of Companies: We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp.
 *   Our Search Application partners: If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited.
 *   Fraud prevention: We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
-*   Law enforcement purposes: If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+*   Law enforcement purposes: : If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
 *   Sale or merger of our business: We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
 *   Advertisers and advertising networks: Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer's IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site. Please see our Cookies Policy for further information.
 
@@ -115,7 +110,7 @@ Do we send your personal information outside Europe?
 
 Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated group companies or third party service providers are located or maintain facilities. While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy.
 
-Our immediate parent company IAC Search and Media, Inc. dba Ask.com complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ask has certified that it adheres to the Safe Harbor Privacy Principles with respect to personal information transferred to it in the U.S from the following EU/EEA websites: http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, http://int.ask.com
+Our immediate parent company IAC Search and Media, Inc., doing business as Ask.com, complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ask has certified that it adheres to the Safe Harbor Privacy Principles with respect to personal information transferred to it in the U.S from the following EU/EEA websites: http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, http://int.ask.com
 
 To learn more about the Safe Harbor program, and to view Ask's certification, please visit http://www.export.gov/safeharbor/.
 
@@ -125,11 +120,11 @@ You have the right to ask for a copy of any personal information that we hold ab
 
 Please note that in some countries we may be permitted to charge a fee specified by law for providing you with copies of personal information we may hold about you.
 
-Contact us If you have any question about our privacy practices for Ask Jeeves (whose personal data is controlled by IAC Search and Media Europe Limited) or the Search Application Services provided by APN, LLC and Mindspark Interactive Network, Inc (whose personal data is controlled by those respective entities), or if you would like to review or update the personal information we have collected about you, you can contact us via e-mail at _privacy@ask.com_ or writing to our Privacy Officer at:
+Contact us If you have any question about our privacy practices for Ask Jeeves (whose personal data is controlled by IAC Search and Media Europe Limited) or the Search Application Services provided by APN, LLC and Mindspark Interactive Network, Inc (whose personal data is controlled by those respective entities), or if you would like to review or update the personal information we have collected about you, you can contact us via e-mail by clicking here or writing to our Privacy Officer at:
 
 Ask  
 Attn: Privacy Officer  
 Unit 1, College Business &. Technology Park, Blanchardstown North Road,  
 Dublin 15, Ireland  
 
-About - Privacy - AskEraser - Popular Questions - AskGardening - About P.G. Wodehouse ©2013 IAC Search &. Media
+About - Privacy - AskEraser - Popular Questions - About P.G. Wodehouse ©2014 IAC Search &. Media
