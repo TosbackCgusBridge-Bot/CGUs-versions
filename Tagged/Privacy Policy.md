@@ -436,7 +436,7 @@ Protection of Tagged and Others
 
 Security and Data Retention
 
-39 All personal information collected by Tagged in connection with your use of the Site and described in this Privacy Policy, including without limitation your name, location, email address, photos and videos,, friend connections, messages, comments, login information, IP address and other data, will be stored by Tagged indefinitely.
+39 All personal information collected by Tagged in connection with your use of the Site and described in this Privacy Policy, including without limitation your name, location, email address, photos and videos, friend connections, messages, comments, login information, IP address and other data, will be stored by Tagged indefinitely.
 
 40 Tagged uses industry standard security measures to prevent the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by Tagged in a secure operating environment that is not available to the public, we cannot guarantee complete security. 41 Also, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Lastly, we cannot and do not ensure the adequacy or performance of any security measures that may be undertaken by Site advertisers or other third parties that may have access to your personal information on or through the Site.
 
