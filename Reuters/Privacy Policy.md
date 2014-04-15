@@ -67,4 +67,4 @@ JURISDICTIONS
 *   New York
 
 WESTLAW NEXT SUPPORTTRAINING &. USER GUIDESCOMMUNITY Find Your Rep Customer Service Technical Support Chat Online My Account Westlaw Usage (QuickView+) OnePass Registration West eLearning WestlawNext User Guides Next Notes Legal Solutions Blog WestlawNext Tip of the Week Westlaw Headnote of the Day Privacy Statement  |  Terms of Use  |  Email Sign Up  
-Westlaw Store  |  Call 1-800-207-9378  |  © 2012 Thomson Reuters
+Westlaw Store  |  Call 1-800-207-9378  |   Thomson Reuters
