@@ -281,12 +281,12 @@ Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
 
-*   Data Distribution System
-*   What Is Digital Marketing
-*   Marketing Campaign Effectiveness
-*   Digital Data
-*   Universal Tag
-*   Integrate Marketing Campaigns
-*   Bid Management Tools
-*   Marketing Digital
-*   Search Retargeting
+*   Tag Management Systems
+*   Data Management Marketing
+*   Big Data Platform Integration
+*   Types Of Digital Marketing Campaigns
+*   What Is Tag Management System
+*   Rise Of Digital Marketing
+*   Study Digital Marketing
+*   Client Data Management System
+*   Enterprise Tag Management
