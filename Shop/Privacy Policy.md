@@ -190,14 +190,14 @@ Lenovo United States Select a country/region
     *   Essential Laptops Entry-Level Features, Value-Oriented Price
         *   G Series: Everyday Laptops
     
+    *   Hop To It! Get an exclusive eCoupon
+        
+        to save on ThinkPad Laptops. Offer expires April 16.
+        
+        **Shop now >**
     *   Stretch Your Savings Save up to 40%
         
         on select home laptops through April 16.
-        
-        **Shop now >**
-    *   LENOVO Y510P LEVEL UP
-        
-        With epic gaming features.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -241,14 +241,14 @@ Lenovo United States Select a country/region
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
+    *   Hop To It! Get an exclusive eCoupon
+        
+        to save on ThinkPad Tablets. Offer expires April 16.
+        
+        **Shop now >**
     *   Stretch Your Savings Save up to 26%
         
         on select home tablets through April 16.
-        
-        **Shop now >**
-    *   Yoga — Now for Business
-        
-        Built for business, yet ready for play, the new ThinkPad Yoga offers the best of both worlds.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -286,14 +286,14 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
+    *   Hop To It! Get an exclusive eCoupon
+        
+        to save on ThinkPad Desktops. Offer expires April 16.
+        
+        **Shop now >**
     *   Stretch Your Savings Save up to 26%
         
         on select home desktops through April 16.
-        
-        **Shop now >**
-    *   Deals on ThinkCentre
-        
-        Get great deals on our powerful ThinkCentre desktop systems every day.
         
         **Shop now >**
     *   Less is More
