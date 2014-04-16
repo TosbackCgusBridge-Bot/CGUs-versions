@@ -1,7 +1,9 @@
-> Fark Frequently Asked Questions (FAQ): Legal Stuff Back to top of FAQ  
-> 
-> *   Legal Stuff
->     *   Fark's Legal and Privacy Statement
+> *   1 Legal Stuff
+>     *   1.1 Fark's Legal and Privacy Statement
+>         *   1.1.1 Terms Of Service
+>         *   1.1.2 Copyright Notice
+>         *   1.1.3 Fark logos and trademarks
+>         *   1.1.4 Fark's Privacy Policy
 > 
 > Legal Stuff Fark's Legal and Privacy Statement Terms Of Service
 > 
