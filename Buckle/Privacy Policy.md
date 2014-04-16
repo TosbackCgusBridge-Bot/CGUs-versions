@@ -1,3 +1,7 @@
+We salute our military. 10% Military Discount.
+
+Guest Services 800-607-9788
+
 *   US Store Locator
 *   Buckle Card Bill Pay
 *   My Account
@@ -150,50 +154,54 @@ Comenity Bank
 Phone: 888-427-7786  
 TDD/TYY: 800-695-1788  
 
-*   Buckle Credit Card  
-    Benefits | Apply | Online Bill Pay
-*   Gift Card  
-    Buy | Check Balance
-*   Store Locations  
-    Store Locator | International Orders
-*   Exclusive Email UpdatesExamples  
-    
+The Buckle Inc.
 
-*   The Buckle Inc.
-*   About Buckle
-*   Jobs &. Careers
-*   Investors
+About Buckle
 
-*   Jobs &. Careers
-*   Careers That Fit
-*   Opportunities
-*   Apply
+Jobs &. Careers
 
-*   Help?
-*   How May We Help You?
-*   Guest Services
-*   Contact Us
-*   Track Your Order
-*   Shipping Rates
-*   Military Discount
-*   800-522-8090
+Investors
 
-*   Featured Denim
-*   Women's BKE Jeans
-*   Men's BKE Jeans
-*   Women's Big Star Jeans
-*   Men's Big Star Jeans
-*   Women's Miss Me Jeans
-*   Women's Rock Revival Jeans
-*   Men's Rock Revival Jeans
+Guest Services
 
-*   Stay in Touch
-*   Like us on Facebook
-*   View us on YouTube
-*   Find us on Pinterest
-*   Follow us on Instagram
-*   Follow us on Twitter
-*   Read our Blog
+FAQs
 
-© 2014 The Buckle Inc.  
+Military Discount
+
+Contact Us
+
+Share Store Comments
+
+Where to Find Us
+
+Store Locator
+
+International Orders
+
+Orders
+
+Track Your Order
+
+Shipping Rates
+
+Returns
+
+Buckle Credit Card
+
+Benefits
+
+Apply
+
+Online Bill Pay
+
+Gift Card
+
+Buy Digital or Plastic
+
+Check Balance
+
+Stay in Touch Exclusive Email Updates
+
+© 2014 The Buckle Inc.
+
 Privacy Policy | Transparency In Supply Chains | Site Index
