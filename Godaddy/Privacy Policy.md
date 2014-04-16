@@ -84,7 +84,7 @@ Go Daddy may display targeted offers to our customers based on the products curr
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at support@godaddy.com to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at hq@godaddy.com to request the removal of this information from our database.
 
 **What Happens to my Personally Identifiable Information if I Terminate my Go Daddy Account?**
 
@@ -94,7 +94,7 @@ When your Go Daddy account is cancelled (either voluntarily or involuntarily) al
 
 You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-1.  You may send an email to support@godaddy.com
+1.  You may send an email to hq@godaddy.com
 2.  You may visit your online Account
 3.  You may send mail to Go Daddy at the following postal address:  
     14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
