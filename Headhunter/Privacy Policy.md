@@ -314,7 +314,7 @@ Partner Sites
 
 *   IT &. Engineering Jobs
 *   Healthcare Jobs
-*   Accounting Jobs
+*   MoneyJobs.com
 *   Entry Level Jobs
 *   Retail Jobs
 
