@@ -59,8 +59,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Canvas Lands' End
             
             *   New Arrivals
-            *   No-Iron Collection
-            *   At the Office
+            *   Favorite Looks
+            *   Tailored Fit Shop
+            *   Slim Fit Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Men Shop By Size Range
@@ -162,8 +163,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Beach Towels
             
             *   New Arrivals
-            *   Hotel Bed &. Bath
-            *   Supima Bedding &. Bath
+            *   Supima Bed &. Bath
+            *   Oxford Bed &. Bath
             *   Sale
     *   *   Categories
             *   Bedding
