@@ -317,7 +317,7 @@ Partner Sites
 
 *   Management Jobs
 *   Healthcare Jobs
-*   Accounting Jobs
+*   MoneyJobs.com
 *   Entry Level Jobs
 *   Retail Jobs
 *   Transportation Jobs
