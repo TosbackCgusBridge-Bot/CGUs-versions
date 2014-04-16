@@ -420,6 +420,9 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     rechner
 *   Immobilien-  
     Börse
+*   Kredit-  
+    vergleich
+*   Versicherungen
 
 *   Home
 *   Politik
