@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena712 SERVER NAME :->. prod-l2-com-71202 TIME :->. Tue Apr 15 05:09:43 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola711 SERVER NAME :->. prod-c1-com-71102 TIME :->. Wed Apr 16 05:24:56 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,97 +43,155 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Hurry! Final Days. Ends Tuesday, April 15. Online Only
+Ends Saturday, April 19. Online Only
 
-Extra 25% Off\* $200 or more.
+$30 Off\* $100 or more.
 
-Extra 20% Off\* $100 or more.
+Or, $10 Off $50 or more\*
 
-Online Code: HIPHOP
-
-In Store and Online
-
-Extra 15% Off\* up to $100.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Online Code: LEOPARD2
 
 \*See exclusions and details.
+
+In Store Only
+
+$10 Off\* $25 or more.
 
 print coupon
 
-Easter Sale
+In Store and Online
 
-The best styles, fits and prices for the whole family—hop to it!
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Online Code: FOX24
+
+\*See exclusions and details.
+
+Starts now in store and online
+
+Our Biggest Sale Of The Season
+
+Shop late on Friday and Saturday, 9AM until close. Great styles, huge savings—all on your schedule!
 
 shop the sale
 
+Double Rewards Points
+
+Now through Saturday.
+
+Not a member? Sign up.
+
+Big Buys
+
+Now through Saturday, while they last.
+
 view store ad
 
-Get it by Easter
+40-50% Off Swimwear For Her
 
-$5 Express Shipping over $99.
+Select styles.
 
-Select 3-Day shipping by 1PM CDT on April 16.
+shop women's swimwear
 
-view shipping information
+30-60% Off Fashion Jewelry and Accessories
 
-40% Off Select Dresses
+Select styles.
 
-shop women's dresses
+shop fashion jewelry
 
-40-60% Off Select Fine Jewelry
+30-50% Off Bedding
 
-shop fine jewelry
-
-Code: 11JWLRY
-
-\*See exclusions and details.
-
-$29.99 Select Women's Sandals
-
-shop women's sandals
-
-30-50% Off Select Total Girl
-
-shop Total Girl
-
-50% Off Select Dockers Shorts
-
-shop Dockers shorts
-
-50% Off\* Bedding
+Select items.
 
 shop bedding
 
-Code: APRHOME
+$29.99 Haggar Pants
 
-\*See exclusions and details.
+Select styles.
 
-25% Off\* The Body, Elle Macpherson Intimates
+shop Haggar pants
 
-shop Elle Macpherson Intimates
+40% Off Bras When You Buy Two Or More
 
-Code: THEBODY
+Select styles.
 
-\*See exclusions and details.
+shop bras
 
-JCP Rewards
+25-40% Off Handbags
+
+Select styles.
+
+shop handbags
+
+40-50% Off Window
+
+Select items.
+
+shop window
+
+50% Off Men's Suits and Sport Coats
+
+Select styles.
+
+shop men's suits and sport coats
+
+40-60% Off Fine Jewelry and Bijoux Bar
+
+Select items.
+
+shop fine jewelry
+
+$29.99 Sandals For Her
+
+Select styles.
+
+shop women's sandals
+
+30-50% Off Kitchen and Dining
+
+Select items.
+
+shop kitchen and dining
+
+50% Off Carter's Apparel
+
+Select styles.
+
+shop Carter's
+
+30-50% Off Women's Worthington
+
+Select styles.
+
+shop women's Worthington
+
+40% Off Women's St. John's Bay
+
+Select styles.
+
+shop women's St. John's Bay
+
+40-50% Off Furniture and Mattresses
+
+Select items.
+
+shop furniture and mattresses
+
+40-50% Off Kids' Arizona
+
+Select styles.
+
+shop kids' Arizona
+
+Get It By Easter
+
+$10 Express Shipping over $99. Select 2-Day shipping by 1PM CDT on April 17.
+
+get details JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today
-
-Write A Review For Your Chance To Win $500
-
-see rules and details
-
-The Wedding Registry at JCPenney
-
-view wedding registry
-
-Red Zone Clearance Selections
-
-shop clearance
+sign up todayWrite A Review For Your Chance To Win $500 see rules and detailsThe Wedding Registry at JCPenney view wedding registryRed Zone Clearance Selections shop clearance
 
 get connected
 
