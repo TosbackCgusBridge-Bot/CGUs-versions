@@ -499,7 +499,7 @@ WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode stan
 
    
 
-Effective Date: February 08, 2014
+Effective Date: April 16, 2014
 
 ©2014 WebMD, LLC. All rights reserved.
 
