@@ -1,13 +1,13 @@
 Skip to Main Content. Fidelity.com Home
 
 *   Customer Service
-*   Refer A Friend
 *   Open An Account
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
-*   Refer A Friend
 *   Open An Account
+*   Refer A Friend
 *   Log Out
 
 Search Fidelity.com Search Fidelity.com Find quote
@@ -70,13 +70,13 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Life Insurance
 
 *   Customer Service
-*   Refer A Friend
 *   Open An Account
+*   Refer A Friend
 *   Log In
 
 *   Customer Service
-*   Refer A Friend
 *   Open An Account
+*   Refer A Friend
 *   Log Out
 
 *   **Home**»
