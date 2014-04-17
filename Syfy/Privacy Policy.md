@@ -259,13 +259,13 @@ Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Com
 
 #sharknado2. Coming in July!
 
-Metal Hurlant Chronicles - Premieres Monday A ... Metal Hurlant Chronicles - Premieres Monday April 14 at 8/7c
-
-From the revolutionary comics anthology, comes Metal Hurlant Chronicles with back to back episodes starting Monday April 14th at 8/7c.
-
 Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
 
 Dominion is where heaven meets hell. Premering on Syfy, June 2014.
+
+Defiance - Premieres June 19th at 9/8c. Defiance - Premieres June 19th at 9/8c.
+
+Defiance season 2 premieres June 19th at 9/8c.
 
 *   FAQ
 *   Feedback
