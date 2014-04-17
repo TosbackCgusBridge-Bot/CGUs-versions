@@ -28,3 +28,4 @@ The links below provide you access to Charter's policies &. agreements.
 *   Espanol 2013 Annual Notice (PDF)
 *   Charter Passport Sweepstakes Official Rules (PDF)
 *   Rate Card Information
+*   Internet Speed &. Pricing Information
