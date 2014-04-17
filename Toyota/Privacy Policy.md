@@ -43,6 +43,7 @@
     *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 $36,045 as shown Explore Build
 5.  Upcoming Vehicles
     *   2015 TRD ProOff Road Vehicles View More Info
+    *   2015 Camry View More Info
     *   Toyota Fuel Cell Vehicle Arriving in 2015 View More Info
     *   Concept Vehicles See Vehicles
 
