@@ -145,7 +145,7 @@ If we determine the services in question are being used in association with spam
 
 We encourage all customers and recipients of email generated from our products and services to report suspected spam. Suspected abuse can be reported by email or through our Spam Abuse Complaint Center on the Web.
 
-Web: https://www.godaddy.com/gdshop/spamreport/spamreport.asp
+Web: report abuse
 
 Email: abuse@godaddy.com
 
