@@ -80,6 +80,7 @@ En particulier, certains cookies sont utilisés pour afficher des publicités pe
 \>. Adverline  
 \>. NextPerformance  
 \>. Eperflex  
+\>. Tedemis  
    
 Ainsi, l’enregistrement des cookies décrits ci-dessus dans votre terminal est essentiellement subordonné à votre volonté, que vous pouvez exprimer et modifier à tout moment à travers les choix qui vous sont offerts par votre logiciel de navigation. Si vous avez accepté dans votre logiciel de navigation l’enregistrement de cookies dans votre terminal, PriceMinister, nos prestataires de mesures et nos partenaires publicitaires pourront effectuer les traitements de vos informations de navigation décrits ci-dessus, sous réserve des droits que vous aurez exercés.  
    
