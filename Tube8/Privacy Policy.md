@@ -299,7 +299,7 @@ Spot/Placement: Screenshot: My site: I'm interested in: Global Traffic
 *   Geo-Targeted Traffic
 
 Link to content being reported: \*Comments:  
-Send For more information, please contact a TrafficJunky representative at www.trafficjunky.net/contact\_us
+Send Start advertising on Tube8 today: Create your advertiser account.
 
 *   Amateur
 *   Anal
