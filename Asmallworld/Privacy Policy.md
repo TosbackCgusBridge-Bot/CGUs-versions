@@ -1,13 +1,14 @@
 A Small World . Net A Small World . Net A Small World . Net
 
 *   Menu
-    *   About Us
-    *   Our Foundation
-    *   Careers
+    *   About ASW
+    *   Member Benefits
+    *   ASW Foundation
     *   More
+        *   The Globalist
         *   Press
         *   Contact Us
-        *   The Globalist
+        *   Careers
 
 Privacy Policy
 
@@ -120,15 +121,4 @@ Error ×
 
 An Error Has Occurred.
 
-Close A Small World . Net A Small World . Net A Small World . Net
-
-*   About Us
-*   Our Foundation
-*   Careers
-*   Press
-*   Contact Us
-*   The Globalist
-
-Copyright © 2004-2014 ASMALLWORLD AG
-
-All rights reserved.
+Close
