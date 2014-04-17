@@ -7,13 +7,13 @@ PriceGrabber.com Inc., a Delaware Corporation, including its successors and assi
 
 **LICENSE AND SITE ACCESS**
 
-PriceGrabber grants you a non-exclusive right and license to access and use the Site for personal, noncommercial purposes, other than to purchase or sell items through the Site's Storefronts Service, or to purchase items from third-party merchants accessible via links on the Site. This license does not include and strictly prohibits: any resale of the Site or its contents. any collection and use of any product listings, descriptions, or prices other than as expressly authorized herein. any derivative use of the Site or its contents. or any use of data mining, robots, or similar data gathering and extraction tools. The Site, including its operation, interface and contents, are covered by United States copyright laws and international laws and treaties, and may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any unauthorized commercial purpose without the express prior written consent of PriceGrabber. Any unauthorized use shall immediately terminate the licenses and rights granted by PriceGrabber and any Licensors hereunder, and may subject you to civil and/or criminal prosecution. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to any page of the Site so long as the link does not portray PriceGrabber, its subsidiaries, affiliates, Licensors, co-brand partners and other partners or its or their respective services in a false, misleading, derogatory or otherwise offensive or damaging manner. You may not use any PriceGrabber, Licensor, subsidiary, affiliate, co-brand partner, or other partner logo or other proprietary graphic or trademark as part of a link to the Site without first obtaining the express written consent of PriceGrabber, the subsidiary, affiliate, co-brand partner or other partner or Licensor (as applicable).
+PriceGrabber grants you a non-exclusive right and license to access and use the Site for personal, noncommercial purposes, or to purchase items from third-party merchants accessible via links on the Site. This license does not include and strictly prohibits: any resale of the Site or its contents. any collection and use of any product listings, descriptions, or prices other than as expressly authorized herein. any derivative use of the Site or its contents. or any use of data mining, robots, or similar data gathering and extraction tools. The Site, including its operation, interface and contents, are covered by United States copyright laws and international laws and treaties, and may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any unauthorized commercial purpose without the express prior written consent of PriceGrabber. Any unauthorized use shall immediately terminate the licenses and rights granted by PriceGrabber and any Licensors hereunder, and may subject you to civil and/or criminal prosecution. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to any page of the Site so long as the link does not portray PriceGrabber, its subsidiaries, affiliates, Licensors, co-brand partners and other partners or its or their respective services in a false, misleading, derogatory or otherwise offensive or damaging manner. You may not use any PriceGrabber, Licensor, subsidiary, affiliate, co-brand partner, or other partner logo or other proprietary graphic or trademark as part of a link to the Site without first obtaining the express written consent of PriceGrabber, the subsidiary, affiliate, co-brand partner or other partner or Licensor (as applicable).
 
 PriceGrabber does not guarantee continuous, uninterrupted or secure access to its services or the Site, and the operation of the Site may be interfered with by numerous factors outside or within PriceGrabber's control.
 
 **CONTENT**
 
-PriceGrabber provides a number of different services to assist you in comparison shopping for products and services on the Site. PriceGrabber is paid by merchants or other third parties for listing products and services on the Site and for promotions such as featured merchants, featured products and showcases. Additionally, through the PriceGrabber Storefronts Service, PriceGrabber provides a venue allowing users who open member accounts through the PriceGrabber Member Agreement ("Member(s)"), including both individuals and merchants, to list for sale new and used products that are described on the Site. PriceGrabber receives a transaction fee from Storefronts sellers when a Member has completed the purchase of an item made available by a Member for sale on the Site. Members may list up to fifty products for no listing fee. All products listed beyond the fifty product limit are subject to a listing fee.
+PriceGrabber provides a number of different services to assist you in comparison shopping for products and services on the Site. PriceGrabber is paid by merchants or other third parties for listing products and services on the Site and for promotions such as featured merchants, featured products and showcases.
 
 PriceGrabber does not sell, resell or license any of the products listed on the Site, nor is PriceGrabber acting as an agent of sale, and PriceGrabber disclaims any responsibility for, or liability related to, such products and services (see Disclaimer of Warranties and Limitation of Liability, below). Any questions, complaints or claims related to any product should be directed to the appropriate merchant or seller.
 
@@ -153,24 +153,6 @@ Please review PriceGrabber's other policies posted on the Site, which are incorp
 
 PriceGrabber Member Agreement (http://www.pricegrabber.com/info\_memtermsofuse.php)
 
-Storefront Transaction Protection Policy (http://www.pricegrabber.com/info\_policies.php/policy=protection)
-
-Listing Policy (http://www.pricegrabber.com/info\_policies.php/policy=listing)
-
-Forms of Payment Policy (http://www.pricegrabber.com/info\_policies.php/policy=payment)
-
-Shipping Policy (http://www.pricegrabber.com/info\_policies.php/policy=shipping)
-
-Fees and Billing Policy (http://www.pricegrabber.com/info\_policies.php/policy=billing)
-
-Member Rating System Policy (http://www.pricegrabber.com/info\_policies.php/policy=rating)
-
-Member Account Levels Policy (http://www.pricegrabber.com/info\_policies.php/policy=accounts)
-
-Trading Limit Policy (http://www.pricegrabber.com/info\_policies.php/policy=limit)
-
-Fees Refund Policy (http://www.pricegrabber.com/info\_policies.php/policy=refund)
-
 **ADDRESS FOR NOTICE**
 
 Notices to PriceGrabber (other than as aforementioned for Digital Millennium Copyright Act infringement notices) can be sent by accessing the following link: http://www.pricegrabber.com/info\_notices.php.
@@ -185,7 +167,7 @@ Los Angeles, CA 90056
 
 At PriceGrabber.com Inc. ("PriceGrabber") we want you to know exactly how and when we collect and use information that can specifically identify you, such as your name, mailing address, phone number, and email address ("personal information").
 
-We do not require that you provide, nor do we collect, any personal information if you are just browsing the Site. We may offer on the Site non-transactional and transaction based services ("Service(s)") in which, subject to applicable terms and availability, you may participate (e.g., submitting product reviews or becoming a Member to buy or sell items through the Storefronts Service). In order to provide you with the Services you request, PriceGrabber may require that you first provide certain personal information, which we determine is reasonably necessary in order for us to fulfill your request. If you indicate an interest in participating in a Service, we will identify what specific personal information you must provide prior to collecting such information. Any personal information which we collect from you will only be used for the purposes identified in this Privacy Statement, the PriceGrabber Terms of Use and your applicable Member Agreement with PriceGrabber, and as may otherwise be indicated at the time the information is collected. To update, modify or delete any personal information you provide to us with respect to a Service you may access your account with PriceGrabber, make the changes on http://www.pricegrabber.com/account.php/settings/ and submit the same to PriceGrabber.
+We do not require that you provide, nor do we collect, any personal information if you are just browsing the Site. We may offer on the Site non-transactional and transaction based services ("Service(s)") in which, subject to applicable terms and availability, you may participate (e.g., submitting product reviews). In order to provide you with the Services you request, PriceGrabber may require that you first provide certain personal information, which we determine is reasonably necessary in order for us to fulfill your request. If you indicate an interest in participating in a Service, we will identify what specific personal information you must provide prior to collecting such information. Any personal information which we collect from you will only be used for the purposes identified in this Privacy Statement, the PriceGrabber Terms of Use and your applicable Member Agreement with PriceGrabber, and as may otherwise be indicated at the time the information is collected. To update, modify or delete any personal information you provide to us with respect to a Service you may access your account with PriceGrabber, make the changes on http://www.pricegrabber.com/account.php/settings/ and submit the same to PriceGrabber.
 
 PriceGrabber will not disclose your personal information to any third party unless: 1) it is necessary in order to provide you with a particular Service you have requested. 2) it is required of PriceGrabber in order to comply with a legal process in any applicable jurisdiction (e.g., court order, subpoena, search warrant, law enforcement request). 3) PriceGrabber determines, in its sole discretion, that disclosure is necessary to protect the rights, property, and safety of PriceGrabber, its subsidiaries, affiliates, co-brand partners or other parties under contract with PriceGrabber, our users, or others. or 4) you have provided such data through a partner's private-level shopping web site hosted by PriceGrabber, in which case PriceGrabber may provide your personal data to that partner (PriceGrabber is not responsible for its partners' privacy policies or their use, storage and processing of data collected on their web sites). In addition, PriceGrabber may transmit information to a merchant, such as an invoice number, which may permit the merchant to deduce the identity of a user/reviewer in the event that a merchant disputes a user review on the grounds that a transaction never took place between the user and the merchant and/or an order was never made by the user in each case for the applicable product(s)/service(s).
 
@@ -204,18 +186,6 @@ PriceGrabber uses third-party advertising companies to serve our ads on the Site
 If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click here for the NAI gateway opt-out site. http://www.networkadvertising.org/optout\_nonppii.asp
 
 This site will also allow you to review the third-party advertising companies' privacy policies.
-
-**Privacy Statement for Users Transacting Using the Storefronts Service**
-
-If you participate in a transaction through the Storefronts Service, you should be aware that PriceGrabber will disclose certain of your personal information to the other transacting party as follows:
-
-If you are the seller or a buyer using the Storefronts Services, we may provide to the other party to the transaction your: complete name, e-mail and telephone number.
-
-In the event that a seller and a buyer in a Storefronts transaction agree to use a money order or cashiers check for transaction payment, the seller is obligated to receive payment at the address that matches the address for a valid credit card on file with PriceGrabber.
-
-For transactional services available to our Members such as those involving our Storefronts Service, in addition to the above, we will request credit card information and additional personal data to PriceGrabber. PriceGrabber will provide the buyer with the seller's name and address, and seller must agree to the provision of this information to buyer by PriceGrabber to verify your identity. PriceGrabber may verify the information provided in membership applications by authorizing a charge on the credit card provided in the application, not to exceed $5.00, but PriceGrabber does not actually charge the credit card any money in the verification process.
-
-AS A SELLER USING THE STOREFRONTS SERVICE YOUR CREDIT CARD INFORMATION WILL NEVER BE INTENTIONALLY DISCLOSED TO ANY OTHER MEMBER. PRICEGRABBER WILL NOT PASS THE BUYER'S CREDIT CARD INFORMATION TO THE SELLER IF THE BUYER CHOOSES TO PAY WITH A FORM OF PAYMENT OTHER THAN CREDIT CARD. WHEN USING THE STOREFRONTS SERVICE, PRICEGRABBER MAY DISCLOSE YOUR CREDIT CARD INFORMATION TO THE SELLER, OR TO THE AGENTS THAT PROCESS THE SELLER'S CREDIT CARD PAYMENTS, ONLY IF YOU SELECT TO PAY VIA CREDIT CARD FOR YOUR PURCHASES. PRICEGRABBER MAY ALSO DISCLOSE A MEMBER'S CREDIT CARD INFORMATION TO THOSE COMPANIES THAT PRICEGRABBER USES TO AUTHORIZE AND PROCESS CREDIT CARD PAYMENTS.
 
 **Copyrights and Trademarks**
 
