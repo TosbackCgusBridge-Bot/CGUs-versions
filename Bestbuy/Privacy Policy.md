@@ -14,7 +14,7 @@ We take your privacy seriously, and we want you to know how we collect, use, sha
   
 *   Your choices regarding your personal information
 
-This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
+This Policy applies to BestBuy.com, Best Buy stores and other locations under the Best Buy name. This Policy may not apply to other Best Buy brands such as Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn) among others, each of which may have their own privacy policies. We may post additional information if more details are needed to explain our privacy practices.
 
 Information We Collect
 
