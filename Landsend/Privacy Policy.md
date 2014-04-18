@@ -376,7 +376,6 @@ Call 1.800.963.4816 Text Chat Now
     *   Careers
     *   As Seen In
     *   Sustainability
-    *   Investor Relations
     *   Newsroom
     *   Affiliate Program
 
