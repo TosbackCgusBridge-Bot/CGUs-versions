@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola711 SERVER NAME :->. prod-c1-com-71102 TIME :->. Wed Apr 16 05:24:56 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola833 SERVER NAME :->. prod-c1-com-83302 TIME :->. Thu Apr 17 05:50:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -66,6 +66,12 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 Online Code: FOX24
 
 \*See exclusions and details.
+
+night and day doorbusters
+
+in store only. friday open through close, saturday 10am through 1pm
+
+view store ad
 
 Starts now in store and online
 
@@ -183,11 +189,7 @@ Select styles.
 
 shop kids' Arizona
 
-Get It By Easter
-
-$10 Express Shipping over $99. Select 2-Day shipping by 1PM CDT on April 17.
-
-get details JCP Rewards
+JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
