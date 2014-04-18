@@ -181,7 +181,8 @@ Subaru Confidence In Motion
     
     Outback 2.5i Premium shown
     
-    Tribeca Starting at **$34,095** 2014 Tribeca
+    Introducing the  
+    all-new 2015 Subaru Outback. Tribeca Starting at **$34,095** 2014 Tribeca
     
     Starting at
     
