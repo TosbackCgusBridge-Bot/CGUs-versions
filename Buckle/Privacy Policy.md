@@ -1,4 +1,6 @@
-We salute our military. 10% Military Discount.
+Military guests, thank you for your service.
+
+10% Military Discount
 
 Guest Services 800-607-9788
 
