@@ -19,7 +19,7 @@ COLLECTING INFORMATION
 > We may automatically collect information regarding your interaction with, and use of, our products and services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases and other information about your interactions with us.
 > 
 >   
-> WHAT WE COLLECT FROM OTHER Nike INTERACTIONS AND THIRD PARTIES
+> WHAT WE COLLECT FROM OTHER NIKE INTERACTIONS AND THIRD PARTIES
 > 
 > We may combine information you give us with other information from Nike sources, transactions and communications. This may include, but is not limited to, information from Nike stores, direct mail, catalogs, events, products and applications, or other Nike interactions. We may also combine that information with data that is publicly available and data from third parties. We also collect information about gift recipients provided by the giver.
 > 
@@ -33,7 +33,7 @@ USING INFORMATION
 
 We may use your information to do the following:
 
-> Enable Your Use
+> ENABLE YOUR USE
 > 
 > *   Enhance, customize and personalize your Nike experiences and communications
 > *   Use Nike features, such as running routes, race registrations, placing an order and other activities
@@ -54,7 +54,7 @@ We may use your information to do the following:
 
 SHARING INFORMATION
 
-> Nike Family
+> NIKE FAMILY
 > 
 > We may provide your information to Nike, Inc. companies and affiliates, including Converse and Hurley ("Nike Family"), some of which may be outside the U.S.
 > 
@@ -87,7 +87,7 @@ PUBLIC SHARING
 > You may choose to share certain information. In order to participate in certain features, you may have to adjust your privacy settings and share more information. You may also choose to share your activity on other platforms, such as Facebook and Twitter. Please read the privacy policies of those platforms, because your Nike activity published on those platforms will no longer be governed by Nike's Privacy Policy.
 > 
 >   
-> Nike SHARING
+> NIKE SHARING
 > 
 > Information that is publicly shared may be used by Nike for promotional purposes.
 > 
