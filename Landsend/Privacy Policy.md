@@ -20,7 +20,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Starfish Collection
             *   Cardigan Shop
-            *   Sport Knit Collection
+            *   The Dressing Room
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -202,6 +202,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Uniforms Girls &. Women
             *   Shirts
             *   Sweaters
+            *   Sweatshirts &. Hoodies
             *   Pants
             *   Shorts
             *   Dresses &. Jumpers
@@ -216,6 +217,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Uniforms Boys &. Men
             *   Shirts
             *   Sweaters
+            *   Sweatshirts &. Hoodies
             *   Pants
             *   Shorts
             *   Blazers
@@ -376,6 +378,7 @@ Call 1.800.963.4816 Text Chat Now
     *   Careers
     *   As Seen In
     *   Sustainability
+    *   Investor Relations
     *   Newsroom
     *   Affiliate Program
 
