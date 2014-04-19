@@ -180,24 +180,23 @@ Lenovo United States Select a country/region
         *   ThinkPad Twist: Convertible Small-Business Ultrabooks
         *   L Series: Mainstream Laptops
         *   W Series: Portable Workstations
-    *   IdeaPad Laptops Stylish Design, Maximum Fun
+    *   Lenovo Laptops Stylish Design, Maximum Fun
         *   Y Series: Premium Multimedia Laptops
         *   Yoga Series:Convertible Entertainment Ultraportables
         *   Z Series: Mainstream Entertainment Laptops
         *   Flex Series: Mainstream Multimode Laptops
         *   U Series: Designer Laptops/Ultrabooks
         *   S Series: Entry-Level Ultraportables
-    *   Essential Laptops Entry-Level Features, Value-Oriented Price
         *   G Series: Everyday Laptops
     
-    *   Hop To It! Get an exclusive eCoupon
+    *   Quality &. Prices You'll Love Save up to 40%
         
-        to save on ThinkPad Laptops. Offer expires April 16.
+        on select home laptops through April 23.
         
         **Shop now >**
-    *   Stretch Your Savings Save up to 40%
+    *   LENOVO Y510P LEVEL UP
         
-        on select home laptops through April 16.
+        With epic gaming features.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -222,10 +221,10 @@ Lenovo United States Select a country/region
     *   Android TabletsThe World's Most Popular Mobile Platform
         *   Lenovo Yoga Tablet 8:8" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
-        *   IdeaTab A1000L:7" Affordable Entertainment Tablet
-        *   IdeaTab A3000:7" Tablet With Enhanced Performance
-        *   IdeaTab S5000: 7" Enhanced Multimedia Tablet
-        *   IdeaTab S6000: 10.1" Enhanced Multimedia Tablet
+        *   Lenovo A1000L:7" Affordable Entertainment Tablet
+        *   Lenovo A3000:7" Tablet With Enhanced Performance
+        *   Lenovo S5000: 7" Enhanced Multimedia Tablet
+        *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
         *        
              
     *   Windows TabletsOne Experience For Everything in Your Life
@@ -236,19 +235,19 @@ Lenovo United States Select a country/region
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     *   ConvertiblesFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Flex:Multimode Laptops
-        *   IdeaPad Yoga:Convertible Entertainment
+        *   Lenovo Yoga:Convertible Entertainment
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   Hop To It! Get an exclusive eCoupon
+    *   Quality &. Prices You'll Love Save up to 26%
         
-        to save on ThinkPad Tablets. Offer expires April 16.
+        on select home tablets through April 23.
         
         **Shop now >**
-    *   Stretch Your Savings Save up to 26%
+    *   Yoga — Now for Business
         
-        on select home tablets through April 16.
+        Built for business, yet ready for play, the new ThinkPad Yoga offers the best of both worlds.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -259,7 +258,7 @@ Lenovo United States Select a country/region
     Not sure what you need?
     *   New Product Showcase
     *   New Product Announcements
-    *   Shop IdeaTab Tablets
+    *   Shop Lenovo Tablets
     *   Shop ThinkPad Tablets
     *   See All Tablets
     *   For Work
@@ -269,31 +268,31 @@ Lenovo United States Select a country/region
     
     *   ThinkCentre Desktops Premium Performance, Solid Reliability
         *   E Series All-in-Ones: Stylish SMB Desktops
+        *   M Series All-in-Ones: Space-Saving Enterprise Desktops
         *   M Series Tiny: Full-Featured Micro Desktops
         *   M Series Small Form Factors: Compact Enterprise Desktops
-        *   M Series All-in-Ones: Space-Saving Enterprise Desktops
         *   M Series Towers: Enterprise Desktops
-    *   IdeaCentre Desktops Stylish Design, Maximum Fun
+        *   M Series Thin Clients: Thin Client Solutions
+    *   Lenovo Desktops Stylish Design, Maximum Fun
         *   Horizon Table PCs: Multi-User Entertainment PCs
         *   Flex Series All-in-Ones: Multi-User All-in-One PCs
         *   A Series All-in-Ones: Stylish All-in-One Desktops
         *   B Series All-in-Ones: Multimedia All-in-One Desktops
-        *   K Series Towers: Extreme Performance Towers
-        *   Q Series Minis: Mini Home Theatre PCs
-    *   Essential Desktops Entry-Level Desktops, Value-Oriented Price
         *   C Series: Entry-Level All-in-One Desktops
         *   H Series: Budget-Friendly Ultra Small Towers
+        *   K Series Towers: Extreme Performance Towers
+        *   Q Series Minis: Mini Home Theatre PCs
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Hop To It! Get an exclusive eCoupon
+    *   Quality &. Prices You'll Love Save up to 26%
         
-        to save on ThinkPad Desktops. Offer expires April 16.
+        on select home PCs through April 23.
         
         **Shop now >**
-    *   Stretch Your Savings Save up to 26%
+    *   Deals on ThinkCentre
         
-        on select home desktops through April 16.
+        Get great deals on our powerful ThinkCentre desktop systems every day.
         
         **Shop now >**
     *   Less is More
@@ -301,6 +300,10 @@ Lenovo United States Select a country/region
         More power, in less space, the ThinkCentre M73 Tiny delivers uncompromising performance.
         
         **Shop now >**
+    
+    Not sure what you need?
+    *   Best Selling Desktops
+    *   See All Desktops
     
 *   Workstations
     *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
@@ -368,9 +371,9 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   WIRELESS HEADSET SAVE 47%
+    *   SMARTTOUCH MOUSE SAVE 49%
         
-        Ideal headset for enhancing your multimedia experience.
+        Touchpad and mouse with Windows 8 gesture controls.
         
         **Shop now >**
     *   PROTECT YOUR PC SAVE 20%
