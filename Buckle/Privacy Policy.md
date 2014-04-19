@@ -1,4 +1,4 @@
-Military guests, thank you for your service.
+Military Guests, thank you for your service.
 
 10% Military Discount
 
