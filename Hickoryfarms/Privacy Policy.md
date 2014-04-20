@@ -1,4 +1,4 @@
-1.800.753.8558 Find your local store Skip to content
+click here for allergy alert on chipotle ranch sauce. 1.800.753.8558 Find your local store Skip to content
 
 *   Login
 *   Register
@@ -107,9 +107,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
