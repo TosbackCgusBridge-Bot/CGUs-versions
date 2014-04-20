@@ -1,17 +1,19 @@
-*   Subscribe Now     Digital Subscription     Home Delivery     NYT Now     See All Subscriptions Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
+*   Subscribe Now Home Delivery: 50% Off 12 Weeks
     
-    Get unlimited access to NYTimes.com, NYTimes apps, plus free NYT Now.
+    All print options include free, unlimited access  
+    to NYTimes.com, NYTimes apps and NYT Now.
     
-    Get Digital Try Home Delivery for 50% Off 12 Weeks Plus Free All Digital Access
+    Get Home Delivery Digital Subscription: Just 99¢ for 4 Weeks
     
-    All print options include free, unlimited access to NYTimes.com, NYTimes apps and NYT Now.
+    Get unlimited access to NYTimes.com,  
+    NYTimes apps, plus NYT Now.
     
-    Get Home Delivery Try NYT Now and Get  
-    Your First 4 Weeks Free
+    Get Digital NYT Now: Get Your First 4 Weeks Free
     
-    A selection of top stories, handpicked by editors. Available on NYTimes.com and a new iPhone® app.
+    A selection of top stories, handpicked by editors.  
+    On NYTimes.com and a new iPhone® app.
     
-    Get NYT NOW
+    Get NYT Now SEE ALL SUBSCRIPTIONS
 *   Help
 
 *   Home Page
