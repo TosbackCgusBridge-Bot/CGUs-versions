@@ -24,7 +24,6 @@ Your Cart(0) Catalog Navigation
     *   Gifts Over $50
 *   Favorites
     *   Spring Favorites
-    *   Easter Favorites
 *   Specials
 *   Business Gifts
     *   Top Business Gifts
@@ -49,12 +48,11 @@ Search Catalog Search Menu Search Stores Cart
     *   Gifts Over $50
 *   Favorites
     *   Spring Favorites
-    *   Easter Favorites
 *   Specials
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by May 5th for Mother's Day Standard Delivery
 
 1.  Home
 2.  Customer Service
