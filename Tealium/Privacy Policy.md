@@ -280,13 +280,3 @@ Tealium helps savvy brands bring order to marketing chaos and engage customers i
 Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
-
-*   What Is Digital Marketing Services
-*   Web Analytics Data Warehouse
-*   Digital Marketing For Business
-*   Big Data Platform
-*   Impact Of Data Distribution
-*   Digital Data Services
-*   Marketing Campaigns
-*   Digital Marketing For B2b
-*   What Is Tag Management System
