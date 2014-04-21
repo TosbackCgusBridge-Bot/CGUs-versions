@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena834 SERVER NAME :->. prod-l1-com-83402 TIME :->. Sat Apr 19 11:21:50 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena852 SERVER NAME :->. prod-l2-com-0401 TIME :->. Sun Apr 20 05:02:13 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,157 +43,63 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends Saturday, April 19. Online Only
+Happy Easter
 
-$30 Off\* $100 or more.
+Fill your basket with sweet savings and all the right fits.
 
-Or, $10 Off $50 or more\*
-
-Online Code: LEOPARD2
-
-\*See exclusions and details.
-
-In Store Only
-
-$10 Off\* $25 or more.
-
-print coupon
-
-In Store and Online
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Online Code: FOX24
-
-\*See exclusions and details.
-
-night and day doorbusters
-
-in store only. friday open through close, saturday 10am through 1pm
-
-view store ad
-
-Starts now in store and online
-
-Our Biggest Sale Of The Season
-
-Shop late on Friday and Saturday, 9AM until close. Great styles, huge savings—all on your schedule!
-
-shop the sale
-
-Double Rewards Points
-
-Now through Saturday.
-
-Not a member? Sign up.
-
-Big Buys
-
-Now through Saturday, while they last.
-
-view store ad
-
-40-50% Off Swimwear For Her
+40-50% Off Liz Claiborne
 
 Select styles.
 
-shop women's swimwear
+Liz Claiborne only at JCPenney.
 
-30-60% Off Fashion Jewelry and Accessories
+shop Liz Claiborne
 
-Select styles.
+30-50% Off Select Swim For The Family
 
-shop fashion jewelry
+shop swimwear
 
-30-50% Off Bedding
+40-50% Off Select Kids' Arizona
 
-Select items.
+shop kids' Arizona
 
-shop bedding
+40-50% Off Select Claiborne
 
-$29.99 Haggar Pants
+shop Claiborne
 
-Select styles.
+30-40% Off Select Small Appliances
 
-shop Haggar pants
+shop small appliances
 
-40% Off Bras When You Buy Two Or More
-
-Select styles.
-
-shop bras
-
-25-40% Off Handbags
-
-Select styles.
-
-shop handbags
-
-40-50% Off Window
-
-Select items.
+40-50% Off Select Window
 
 shop window
 
-50% Off Men's Suits and Sport Coats
+30-50% Off Select Bedding
 
-Select styles.
-
-shop men's suits and sport coats
-
-40-60% Off Fine Jewelry and Bijoux Bar
-
-Select items.
-
-shop fine jewelry
-
-$29.99 Sandals For Her
-
-Select styles.
-
-shop women's sandals
-
-30-50% Off Kitchen and Dining
-
-Select items.
-
-shop kitchen and dining
-
-50% Off Carter's Apparel
-
-Select styles.
-
-shop Carter's
-
-30-50% Off Women's Worthington
-
-Select styles.
-
-shop women's Worthington
-
-40% Off Women's St. John's Bay
-
-Select styles.
-
-shop women's St. John's Bay
-
-40-50% Off Furniture and Mattresses
-
-Select items.
-
-shop furniture and mattresses
-
-40-50% Off Kids' Arizona
-
-Select styles.
-
-shop kids' Arizona
+shop bedding
 
 JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up todayWrite A Review For Your Chance To Win $500 see rules and detailsThe Wedding Registry at JCPenney view wedding registryRed Zone Clearance Selections shop clearance
+sign up today
+
+Gift Cards
+
+Always fits, never expires.
+
+shop gift cards
+
+Love MOM
+
+Mother's Day is May 11.
+
+shop Mother's Day gifts
+
+Red Zone Clearance Selections
+
+shop clearance
 
 get connected
 
