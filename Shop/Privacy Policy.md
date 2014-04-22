@@ -371,14 +371,14 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   SMARTTOUCH MOUSE SAVE 49%
+    *   SCREENBEAM PRO Save 42%
         
-        Touchpad and mouse with Windows 8 gesture controls.
+        Beam your mobile display to the big screen wirelessly!.
         
         **Shop now >**
-    *   PROTECT YOUR PC SAVE 20%
+    *   MOBILE EDGE DEAL SAVE 25%
         
-        on select ThinkPad carrying cases!
+        on select Mobile Edge cases for Mother's Day!
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
