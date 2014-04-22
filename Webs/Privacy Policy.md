@@ -550,3 +550,21 @@ Create a free website Google Plus Facebook Twitter
 Ready to get started? Get helpful tips for small business websites and more in our resource center.
 
 ©2014 Webs. A Vistaprint company. All Rights Reserved.
+
+Webs makes small business marketing simple.
+
+ 
+
+Explore the Webs online marketing platform below.
+
+Better Websites Made Simple.
+
+Sign Up Free
+
+Social Marketing Made Simple.
+
+Learn More
+
+Contact Management Made Simple.
+
+Learn More
