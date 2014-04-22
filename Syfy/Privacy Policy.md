@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video The Wil Wheaton Project - May 27 at 10/9c. The Wil Wheaton Project - May 27 at 10/9c.
+Syfy Video War is Coming - Dominion - Thursday June 19th ... War is Coming - Dominion - Thursday June 19th at 9/8c
 
-There Wil be Wheaton. Series Premiere on May 27th at 10/9c.
-
-Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
-
-#sharknado2. Coming in July!
+War is coming as heaven raises hell. Watch the premiere of Dominion, Thursday June 19th at 9/8c.
 
 Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
 
 Dominion is where heaven meets hell. Premering on Syfy, June 2014.
 
-Defiance - Premieres June 19th at 9/8c. Defiance - Premieres June 19th at 9/8c.
+Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
-Defiance season 2 premieres June 19th at 9/8c.
+#sharknado2. Coming in July!
+
+The Wil Wheaton Project - May 27 at 10/9c. The Wil Wheaton Project - May 27 at 10/9c.
+
+There Wil be Wheaton. Series Premiere on May 27th at 10/9c.
 
 *   FAQ
 *   Feedback
