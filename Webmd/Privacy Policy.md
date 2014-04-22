@@ -539,7 +539,7 @@ Hot Topics
 *   Which Drugstore Tooth Whiteners Work Best?
 *   Is Your Psoriasis Treatment Working?
 *   Eating Out? Cut Calories, Heartburn
-*   16 Tips for Clear Skin
+*   18 Most Common Skin Conditions
 *   Top 12 Dog Behavior Problems
 *   Generic Drugs: What You Need to Know
 *   Causes and Cures of Bad Breath
