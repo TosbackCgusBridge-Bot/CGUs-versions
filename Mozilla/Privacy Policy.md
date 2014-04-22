@@ -56,17 +56,20 @@ Back to Mozilla Privacy Policy
 
 Portions of this content are ©1998–2014 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
-Contribute to this page
-
 *   Contact Us
 *   Partner with Us
 *   Donate
+*   Firefox Affiliates
+*   Contribute to this page
+
 *   Privacy Policy
 *   Legal Notices
 *   Report Trademark Abuse
 
-*   Mozilla on Twitter
-*   Firefox on Twitter
-*   Mozilla on Facebook
-*   Firefox on Facebook
-*   Firefox Affiliates
+*   Mozilla:
+    *   Twitter (@mozilla)
+    *   Facebook (Mozilla)
+*   Firefox:
+    *   Twitter (@firefox)
+    *   Facebook (Firefox)
+    *   YouTube (firefoxchannel)
