@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena852 SERVER NAME :->. prod-l2-com-0401 TIME :->. Sun Apr 20 05:02:13 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l1-com-0301 TIME :->. Mon Apr 21 11:01:00 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,63 +43,58 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Happy Easter
-
-Fill your basket with sweet savings and all the right fits.
-
-40-50% Off Liz Claiborne
-
-Select styles.
-
-Liz Claiborne only at JCPenney.
-
-shop Liz Claiborne
-
-30-50% Off Select Swim For The Family
-
-shop swimwear
-
-40-50% Off Select Kids' Arizona
-
-shop kids' Arizona
-
-40-50% Off Select Claiborne
-
-shop Claiborne
-
-30-40% Off Select Small Appliances
-
-shop small appliances
-
-40-50% Off Select Window
-
-shop window
-
-30-50% Off Select Bedding
-
-shop bedding
-
-JCP Rewards
-
-Shop to earn $10 JCP Rewards.
-
-sign up today
-
-Gift Cards
-
-Always fits, never expires.
-
-shop gift cards
+*   In Store and Online
+    
+    Ends April 23.
+    
+    50% Off\* ready-made curtains, luggage and blinds and shades.
+    
+    40% Off\* bedding and bath, furniture, mattresses and window hardware
+    
+    30% Off\* housewares, kitchen and dining, home decor and custom blinds and shades.
+    
+    Online Code: 12HOME
+    
+    \*See exclusions and details. print store coupon shop home
+*   In Store and Online
+    
+    Extra 25% Off\* women's apparel and accessories.
+    
+    Extra 15% Off\* other apparel, shoes, accessories, fine jewelry and more.
+    
+    Or, Extra 10% Off\* watches, furniture, mattresses and more.
+    
+    Online Code: SEND2MOM
+    
+    \*See exclusions and details. print store coupon40-50% Off Liz Claiborne
+    
+    Select styles.
+    
+    Liz Claiborne only at JCPenney.
+    
+    shop Liz Claiborne shop women's
 
 Love MOM
 
-Mother's Day is May 11.
+Order by May 3rd to get it by Mother's Day.
 
-shop Mother's Day gifts
+Gifts For Her shop Mother's Day giftsGift Cards
 
-Red Zone Clearance Selections
+Always the right fit.
 
-shop clearance
+shop gift cards shop the chef shop the fitness lover shop the entertainer shop the decorator shop the trendsetter 40% Off Select Sleepwear For Her shop women's sleepwear 30-50% Off\* Home shop home
+
+Code: 12HOME
+
+\*See exclusions and details. 40% Off Select Women's Accessories shop women's accessories 25% Off Select Bras When You Buy Two Or More shop bras Sale $29.99 Canvas Shoes For Her shop women's canvas shoes Personalized Jewelry For Mom shop personalized jewelry JCP Rewards
+
+Shop to earn $10 JCP Rewards.
+
+sign up todayGift Cards
+
+Always fits, never expires.
+
+shop gift cardsWrite A Review For Your Chance To Win $500 see rules and detailsRed Zone Clearance Selections shop clearance
 
 get connected
 
