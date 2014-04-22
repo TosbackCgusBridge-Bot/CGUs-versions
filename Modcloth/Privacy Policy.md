@@ -108,7 +108,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
     
     ModCloth.com utilizes some of the most advanced technology available today for Internet security purposes. When you access our checkout using industry standard Secure Socket Layer (SSL) technology, your information is protected with both server authentication and data encryption, ensuring that your data is safe, secure, and available only to ModCloth.
     
-    Our site is verified by VeriSign and uses Braintree for all of our secure credit card transactions. We are a BBB accredited business.
+    Our site is verified by Fastly and uses Braintree for all of our secure credit card transactions. We are a BBB accredited business.
     
     In addition, ModCloth.com is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or outside access to keep us all safe!
     
@@ -130,7 +130,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
     
     ModCloth may, at any time and without notice, modify and update this Privacy Policy by revising it on the Site. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. Your continued use of the Site constitutes your acceptance of any such revisions. You should therefore periodically visit this page to review the current Privacy Policy.
     
-    Last updated February 24, 2014  
+    Last updated April 21, 2014  
     
 *   **Contact Us**
     
