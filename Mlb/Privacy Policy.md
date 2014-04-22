@@ -73,7 +73,7 @@ Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loa
 *   _Official Rules_
     *   Replay Review Regulations
     *   Foreword
-    *   Downloadable Official Baseball Rules
+    *   Official Baseball Rules
 *   _Baseball Basics_
     *   On the Field
     *   Keeping Score
