@@ -1,4 +1,4 @@
-Privacy Policy What This Privacy Policy Covers
+What This Privacy Policy Covers
 
 This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us," or "our") treats personal information that it collects and receives on www.weebly.com. We are not in the business of selling information about you: we use information shared with us for the sole purpose of running and improving our services. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
@@ -117,4 +117,4 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact TRUSTe here.
 
-**Last updated on April 21st 2014.**
+**Last updated on April 22nd 2014.**
