@@ -1,4 +1,4 @@
-Terms of Service Content guidelines
+Content guidelines
 
 These types of sites are not allowed on Weebly:
 
