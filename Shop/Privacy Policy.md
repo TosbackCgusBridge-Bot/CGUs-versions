@@ -303,6 +303,7 @@ Lenovo United States Select a country/region
     
     Not sure what you need?
     *   Best Selling Desktops
+    *   Gaming PCs
     *   See All Desktops
     
 *   Workstations
