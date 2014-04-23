@@ -155,7 +155,7 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Site Map
 *   Contact Us
 
-Experian and the Experian marks used herein are service marks or registered trademarks of Experian Information Solutions, Inc. Other product and company names mentioned herein are the property of their respective owners.
+Experian and the Experian marks used herein are trademarks or registered trademarks of Experian Information Solutions, Inc. Other product and company names mentioned herein are the property of their respective owners.
 
 *   Argentina
 *   Australia
@@ -203,5 +203,3 @@ Experian and the Experian marks used herein are service marks or registered trad
 *   United Kingdom
 *   United States
 *   Vietnam
-
-The text you entered was incorrect. Please try again. Can't read the words below? Click the refresh button or try the audio icon. The text you entered was incorrect. Please try again. Can't read the words below? Click the refresh button or try the audio icon.
