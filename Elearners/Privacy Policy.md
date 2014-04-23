@@ -218,6 +218,8 @@ How to Request Your Transcripts 
 
 Synchronous vs. Asynchronous Classes
 
+Diploma Mills, Degree Mills, and Fake Degrees
+
 Newsletter Signup
 
 Bonus! Free e-book:
