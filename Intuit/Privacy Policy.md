@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   Emily
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l1-com-0301 TIME :->. Mon Apr 21 11:01:00 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena850 SERVER NAME :->. prod-l2-com-0101 TIME :->. Tue Apr 22 11:23:01 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -140,15 +140,17 @@ download our app: iPhone | iPad | Android **CUSTOMER SERVICE**
 *   media
 *   investors
 
-**Popular Product Categories:** JCPenney Stores  
-Keurig coffee makers  
-drapes comforters  
+**Popular Product Categories:**
+
+JCPenney Stores  
+Keurig coffee machines  
+curtains comforters  
 bedspreads  
 bath towels womens tops  
-women's dresses  
-plus size dresses bathing suits  
-prom dresses  
-wedding rings Samsonite luggage  
+womens dresses  
+plus size dresses swimsuits  
+mens sandals  
+engagement rings Samsonite luggage  
 Invicta watches  
 jcpenney coupons
 
