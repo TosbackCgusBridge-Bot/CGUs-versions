@@ -53,9 +53,9 @@ Returns for orders placed using V.me by Visa must be made within 60 days from th
 
 Exchanges for orders placed using PayPal, V.me by Visa and Bill Me Later are different than our normal exchange policies. Exchanges cannot be accepted - if you need to make an exchange, we can give you a refund or store credit for your return and then we recommend that you place a new replacement order for the item you want. We apologize for any inconvenience.
 
-DirectShip Items Only: 60-Day Return Policy and Return Process
+DirectShip Items Only: 30-Day Return Policy and Return Process
 
-DirectShip items must be returned within 60 days to the vendor for your return to be processed and a refund or exchange to be issued. Do not return DirectShip items to Sierra Trading Post. Please follow the instructions below:
+DirectShip items must be returned within 30 days to the vendor for your return to be processed and a refund or exchange to be issued. Do not return DirectShip items to Sierra Trading Post. Please follow the instructions below:
 
 *   1\. Contact Sierra Trading Post Customer Service and tell them that you want to return a DirectShip item
 *   2\. Please give the representative the reason(s) for return
