@@ -1,6 +1,6 @@
 Privacy policy Our commitment to you
 
-Zoopla.co.uk is operated by Zoopla Property Group Limited. Zoopla Property Group Limited respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Limited.
+Zoopla.co.uk is operated by Zoopla Property Group Ltd. Zoopla Property Group Ltd respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Ltd.
 
 Information we collect
 
