@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video War is Coming - Dominion - Thursday June 19th ... War is Coming - Dominion - Thursday June 19th at 9/8c
+Syfy Video Vikingdom - Airs Saturday April 26th at 9/8c. Vikingdom - Airs Saturday April 26th at 9/8c.
+
+A forgotten king, Eirick, is tasked with the impossible odds to defeat Thor, the God of Thunder
+
+War is Coming - Dominion - Thursday June 19th ... War is Coming - Dominion - Thursday June 19th at 9/8c
 
 War is coming as heaven raises hell. Watch the premiere of Dominion, Thursday June 19th at 9/8c.
 
@@ -262,10 +266,6 @@ Dominion is where heaven meets hell. Premering on Syfy, June 2014.
 Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
 #sharknado2. Coming in July!
-
-The Wil Wheaton Project - May 27 at 10/9c. The Wil Wheaton Project - May 27 at 10/9c.
-
-There Wil be Wheaton. Series Premiere on May 27th at 10/9c.
 
 *   FAQ
 *   Feedback
