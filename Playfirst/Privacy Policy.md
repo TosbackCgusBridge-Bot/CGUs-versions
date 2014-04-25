@@ -8,7 +8,7 @@ Sign Up / Log In
 
 Privacy Policy PlayFirst, Inc. Online Privacy Policy
 
-Last updated May 15, 2013
+Last updated April, 23, 2014
 
 Welcome to PlayFirst.com!
 
@@ -157,8 +157,8 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 PlayFirst, Inc.  
 Attn.: Legal Counsel  
-160 Spear Street, Suite 1300  
-San Francisco, CA 94105  
+303 2nd Street, Suite 520  
+San Francisco, CA 94107  
 Email Address: Privacy@playfirst.com  
 Phone Number: (415) 848-5800.
 
@@ -176,8 +176,8 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 PlayFirst, Inc.  
 Attn.: Legal Counsel  
-160 Spear Street, Suite 1300  
-San Francisco, CA 94105  
+303, 2nd Street, Suite 520  
+San Francisco, CA 94107  
 Email Address: Privacy@playfirst.com  
 Phone Number: (415) 848-5800
 
