@@ -203,3 +203,5 @@ Experian and the Experian marks used herein are trademarks or registered tradema
 *   United Kingdom
 *   United States
 *   Vietnam
+
+The text you entered was incorrect. Please try again. Can't read the words below? Click the refresh button or try the audio icon. The text you entered was incorrect. Please try again. Can't read the words below? Click the refresh button or try the audio icon.
