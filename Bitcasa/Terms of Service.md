@@ -52,11 +52,15 @@ Copyright
 
 Bitcasa respects others’ intellectual property and asks that you do too. We will respond to notices of alleged copyright infringement if they comply with the law and are properly provided to us. Such notices should be reported using our DMCA Process. We reserve the right to delete or disable content alleged to be infringing and have a policy for terminating repeat infringers. Our designated agent for notice of alleged copyright infringement on the Services is:
 
+copyright@bitcasa.com
+
+Or, mail to:
+
 Copyright Agent  
 Bitcasa, Inc.  
 215 Castro St. 2nd Floor  
 Mountain View, CA 94041  
-copyright@bitcasa.com Other Content and Other Users
+Other Content and Other Users
 
 The Services may contain links to third-party websites or resources. Bitcasa does not endorse and is not responsible or liable for their availability, accuracy, the related content, products, or services. You are solely responsible for your use of any such websites or resources. Also, if we provide you with any software under an open source license, there may be provisions in those licenses that expressly conflict with these Terms, in which case the open source provisions will apply.
 
