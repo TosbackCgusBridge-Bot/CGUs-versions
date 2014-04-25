@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Emily
+*   Welcome  
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena850 SERVER NAME :->. prod-l2-com-0101 TIME :->. Tue Apr 22 11:23:01 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola860 SERVER NAME :->. prod-c2-com-0202 TIME :->. Thu Apr 24 02:40:16 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,50 +43,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   In Store and Online
-    
-    Ends April 23.
-    
-    50% Off\* ready-made curtains, luggage and blinds and shades.
-    
-    40% Off\* bedding and bath, furniture, mattresses and window hardware
-    
-    30% Off\* housewares, kitchen and dining, home decor and custom blinds and shades.
-    
-    Online Code: 12HOME
-    
-    \*See exclusions and details. print store coupon shop home
-*   In Store and Online
-    
-    Extra 25% Off\* women's apparel and accessories.
-    
-    Extra 15% Off\* other apparel, shoes, accessories, fine jewelry and more.
-    
-    Or, Extra 10% Off\* watches, furniture, mattresses and more.
-    
-    Online Code: SEND2MOM
-    
-    \*See exclusions and details. print store coupon40-50% Off Liz Claiborne
-    
-    Select styles.
-    
-    Liz Claiborne only at JCPenney.
-    
-    shop Liz Claiborne shop women's
+KitchenAid Classic 4.5-qt. Stand Mixer
 
-Love MOM
+$199.99 after mail-in rebate.
 
-Order by May 3rd to get it by Mother's Day.
+Sale $229.99. Regularly $350.
 
-Gifts For Her shop Mother's Day giftsGift Cards
+shop KitchenAid stand mixer30-50% Off Home Sale
 
-Always the right fit.
+Select items.
 
-shop gift cards shop the chef shop the fitness lover shop the entertainer shop the decorator shop the trendsetter 40% Off Select Sleepwear For Her shop women's sleepwear 30-50% Off\* Home shop home
+shop home shop home30-40% Off Small Appliances
 
-Code: 12HOME
+Excluded from coupon.
 
-\*See exclusions and details. 40% Off Select Women's Accessories shop women's accessories 25% Off Select Bras When You Buy Two Or More shop bras Sale $29.99 Canvas Shoes For Her shop women's canvas shoes Personalized Jewelry For Mom shop personalized jewelry JCP Rewards
+shop small appliancesIt's Your Spring Sale
+
+Feel-good styles to fit you and your wallet.
+
+shop the sale view store adIn Store and Online
+
+Ends April 26.
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+\*20% Off subject to credit approval.
+
+Extra 15% Off\* with any form of payment.
+
+Select original, regular, sale and clearance-priced items.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Code: CREDEVNT
+
+\*See exclusions and details. print store coupon Night and Day Doorbusters
+
+Excluded from coupon offer.
+
+In Store Only, Friday, April 25, 3PM until close, Saturday April 26, 10AM until 1PM.
+
+view doorbusters 40-50% Off Select A.N.A shop A.N.A 30-40% Off Select Swimwear For The Family shop swimwear shop women's swim shop men's swim 40% Off Select Sleepwear For Her shop women's sleepwear $39.99 Select Clark's Sandals For Her shop women's Clark's sandals $40 Select Men's Levi's™
+
+Excluded from coupon.
+
+shop men's Levi's™ 40-50% Off Select Kids' Arizona shop kids' Arizona JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -94,7 +95,11 @@ sign up todayGift Cards
 
 Always fits, never expires.
 
-shop gift cardsWrite A Review For Your Chance To Win $500 see rules and detailsRed Zone Clearance Selections shop clearance
+shop gift cardsLove MOM
+
+Mother's Day is May 11.
+
+shop Mother's Day giftsRed Zone Clearance Selections shop clearance
 
 get connected
 
