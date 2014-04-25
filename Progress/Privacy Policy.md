@@ -16,15 +16,53 @@
 
 Search keyword or dealer ZIP
 
-The Audi range The Audi range The Audi range SedansStarting at $29,900 View models CoupesStarting at $39,000 View models ConvertiblesStarting at $42,900 View models SUVs, crossovers, and wagonsStarting at $37,300 View models Audi ownership Audi ownership Audi ownership myAudi
+Shopping-tools Shopping tools Find a dealer
+
+There's a perfect Audi for everyone. Find yours at your nearest Audi dealership.
+
+Estimate payment
+
+Use our calculator to estimate the finance or leasing payments for your new Audi. 
+
+Compare
+
+Don't know which Audi is right for you? Compare features and specs of Audi models.
+
+Offers and Promotions
+
+Find offers on new and Audi Certified pre-owned vehicles in your area.
+
+The Audi range The Audi range
+
+The Audi range SedansStarting at $29,900
+
+*   View models
+
+CoupesStarting at $39,000
+
+*   View models
+
+ConvertiblesStarting at $42,900
+
+*   View models
+
+SUVs, crossovers, and wagonsStarting at $37,300
+
+*   View models
+
+Audi ownership Audi ownership
+
+Audi ownership myAudi
 
 Get on the fast track to choosing the right finance or lease options, viewing technology tutorials, exploring genuine Audi parts and accessories, finding the service you need and more.
 
-Explore myAudi Audi Financial Services
+*   Explore myAudi
+
+Audi Financial Services
 
 Audi Financial Services makes financing and account management easy and convenient.
 
-Compare financing options
+*   Compare financing options
 
 *   Manage account
 
@@ -32,19 +70,29 @@ Tutorial videos
 
 Demystify your Audi and discover all it can do. These easy-to-understand how-to videos can help you do everything from personalize your vehicle controls to set up Audi connect®.
 
-View all videos More from Audi More from Audi More from Audi Defining momentsFirst, ignore the rulebook.
+*   View all videos
+
+More from Audi More from Audi
+
+More from Audi Defining momentsFirst, ignore the rulebook.
 
 For more than a hundred years we've stared adversity in the face. When they said it can't be any lighter, we defied them. When they said it can't go faster, we proved them wrong. Whenever they said it couldn't be done, we simply did it. This is the undying spirit at our core. This is Truth in Engineering.
 
-See Audi defining moments Audi Certified pre-ownedScrutiny is in the eye of the beholder.
+*   See Audi defining moments
+
+Audi Certified pre-ownedScrutiny is in the eye of the beholder.
 
 Once a vehicle passes our exacting inspection process, you'll find it pretty difficult to tell the difference between a new Audi and Audi Certified pre-owned vehicle. We're pretty sure you'll appreciate our fastidious nature.
 
-Explore Audi Certified pre-owned Audi connect®Drive smarter.
+*   Explore Audi Certified pre-owned
+
+Audi connect®Drive smarter.
 
 Audi connect® with Google Earth is your guide to places of interest, travel information, weather reports and fuel prices. You can even send destinations from Audi connect® on your desktop straight to your car.
 
-Explore Audi connect® Find a dealer
+*   Explore Audi connect®
+
+Find a dealer
 
 Performance is best experienced behind the wheel. Find your local dealer and discover the advantages of Audi engineering firsthand.
 
