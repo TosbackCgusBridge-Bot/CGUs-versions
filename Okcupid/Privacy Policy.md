@@ -26,6 +26,7 @@ OkCupid needs JavaScript to function, but you have it disabled. Check your brows
 Legal Information
 
 *   Terms &. Conditions
+*   Arbitration
 *   Privacy Policy
 *   Safety Tips
 
