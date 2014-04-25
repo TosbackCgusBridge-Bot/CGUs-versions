@@ -23,6 +23,7 @@ Your Cart(0) Catalog Navigation
     *   Gifts $50 &. Under
     *   Gifts Over $50
 *   Favorites
+    *   Mother's Day Favorites
     *   Spring Favorites
 *   Specials
 *   Business Gifts
@@ -47,6 +48,7 @@ Search Catalog Search Menu Search Stores Cart
     *   Gifts $50 &. Under
     *   Gifts Over $50
 *   Favorites
+    *   Mother's Day Favorites
     *   Spring Favorites
 *   Specials
 *   Business Gifts
@@ -137,7 +139,7 @@ If you have any question or need help with your account, you may Contact Us to a
 Customer Service  
 Monday to Friday  
 8:30 AM to 6 PM EST  
-1.800.776.4111
+1.800.442.5671
 
 Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up
 
