@@ -106,10 +106,8 @@ Learn more
 *   We use personal information to provide you with services or information you request, such as new vehicle information alerts, promotions and mailed brochures.
 *   We also use personal information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
 *   We share personal information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Sites.
-*   We also share personal information with companies affiliated with Toyota and our authorized dealers, dealer advertising associations and distributors for their own use.
-*   If you choose to participate in a Program, your Personal Information may also be shared with our Program partners and may be used by our Program partners if you indicate your interest in receiving communications directly from that company.
+*   We also share personal information with companies affiliated with Toyota and our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use.
 *   We, Web publishers and other Web sites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other Web sites.
-*   We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. We do not share Personal Information with these providers (unless, of course, you give us permission).
 
 Learn more  
 
@@ -213,7 +211,7 @@ Except as described here, we will not provide any of your Personal Information t
 
 **Your Agreement To Have Your Personal Information Shared.** While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
-**Business Transfers.** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. We may also share your information with our authorized dealers, dealer advertising associations and distributors for their own use. In the event that Toyota is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+**Business Transfers.** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. We may also share your information with our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use. In the event that Toyota is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
 **Legal Disclosure.** We may transfer and disclose your information to third parties to comply with a legal obligation. when we believe in good faith that the law or a governmental authority requires it. to verify or enforce our Terms of Use or other applicable policies. to address fraud, security or technical issues. to respond to an emergency. or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.
 
