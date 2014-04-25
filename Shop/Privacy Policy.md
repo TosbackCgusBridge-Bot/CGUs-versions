@@ -189,9 +189,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   Quality &. Prices You'll Love Save up to 40%
+    *   SPRING FLING Save up to 40%
         
-        on select home laptops through April 23.
+        on select home laptops through April 30.
         
         **Shop now >**
     *   LENOVO Y510P LEVEL UP
@@ -221,6 +221,7 @@ Lenovo United States Select a country/region
     *   Android TabletsThe World's Most Popular Mobile Platform
         *   Lenovo Yoga Tablet 8:8" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
+        *   Lenovo Yoga Tablet 10 HD+:10.1" Multimode Tablet with Dazzling Display
         *   Lenovo A1000L:7" Affordable Entertainment Tablet
         *   Lenovo A3000:7" Tablet With Enhanced Performance
         *   Lenovo S5000: 7" Enhanced Multimedia Tablet
@@ -240,9 +241,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   Quality &. Prices You'll Love Save up to 26%
+    *   SPRING FLING Save up to 26%
         
-        on select home tablets through April 23.
+        on select home tablets through April 30.
         
         **Shop now >**
     *   Yoga — Now for Business
@@ -285,9 +286,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Quality &. Prices You'll Love Save up to 26%
+    *   SPRING FLING Save up to 26%
         
-        on select home PCs through April 23.
+        on select home PCs through April 30.
         
         **Shop now >**
     *   Deals on ThinkCentre
