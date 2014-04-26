@@ -9,15 +9,18 @@ Text Only
     *   All Options
 *   Our Brand Sites 
 *   Language 
+    
     *   English
     *   Français
     *   Español
+    
     *   Deutsch
-    *   日本語
-    *   中文(简体)
     *   Italiano
     *   Português
+    
     *   Русский
+    *   日本語
+    *   中文(简体)
 
 *   Book &. Stay
 *   Our Company
