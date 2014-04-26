@@ -1,10 +1,58 @@
+SAMSUNG PRIVACY POLICY HIGHLIGHTS  
+Scope  
+
+This Privacy Policy applies to any Samsung device, website or online application that refers to or links to the Privacy Policy (collectively, our “Services”). The Privacy Policy applies regardless of whether you use a computer, mobile phone, tablet, TV, or other device to access our Services. Learn More
+
+Information We Collect  
+
+We collect various types of information in connection with the Services, including:
+
+*   Information you provide directly to us;
+*   Information we collect about your use of our Services. and
+*   Information we obtain from third-party sources.
+
+We may also seek your consent to collect information not described in the Privacy Policy. Learn More
+
+Use and Sharing of Information  
+
+We use the information we collect (and may combine it with other information about you) to, among other things:
+
+*   Provide the Services you request;
+*   Understand the way you use the Services so that we can improve your experience. and
+*   Provide customized content and advertising.
+
+We also use the information we collect in ways described to you at the point of collection, or otherwise with your consent.  
+  
+We may share your information with:
+
+*   Affiliates—the Samsung family of companies.
+*   Business partners—trusted companies that may provide information about products and services you might like.
+*   Service providers—companies that provide services for or on behalf of Samsung.
+*   Law enforcement—when we are required to do so or to protect Samsung and its users.
+
+Learn More Additional Information About Specific Services  
+
+*   AdHub
+*   SmartTV
+*   When appropriate, we may also provide just-in-time notices prior to collection of certain data.
+
+How to Contact Us  
+
+Email: through the “Contact Us” section of Samsung.com  
+  
+Samsung Electronics America, Inc.  
+85 Challenger Road  
+Ridgefield Park, NJ 07660
+
 Samsung Electronics Co. Ltd. and our affiliates \[ (“Samsung,” “we,” “us,” “our”) know how important privacy is to our customers, and we strive to be clear about how we collect, use, disclose, transfer and store your information. This Privacy Policy provides an overview of our information practices. The Privacy Policy applies to Samsung devices, websites or online applications that refer to or link to the Privacy Policy (collectively, our “Services”).  
   
 While this Privacy Policy applies to all our Services, we also have provided certain specific privacy supplements that contain additional information about our practices in connection with particular Services. These supplements apply to your use of the Services they cover. Additional consent will be obtained for certain data processing activities.  
   
-  Please note that the Privacy Policy applies to your usage of Samsung devices (which are among the Services covered by this Privacy Policy, along with our websites and online applications). It also applies regardless of whether you use a computer, mobile phone, tablet, TV, or other device to access our Services. It is important that you read the Privacy Policy carefully because anytime you use our Services, you consent to the practices we describe in the Privacy Policy and the supplements. If you do not agree to the practices described in the Privacy Policy, you should not use our Services. It also is important that you check back often for updates to the Privacy Policy. If we update the Privacy Policy we will let you know about changes we consider to be material by placing a note on relevant Services. By accessing or using our Services after we have placed such a notice, you consent to the new practice(s) identified in the update. The most current version of the Privacy Policy will always be available on Samsung.com \[www.samsung.com/us/common/privacy.html\]. You can check the “effective date” posted at the top to see when the Privacy Policy was last updated.
+  Please note that the Privacy Policy applies to your usage of Samsung devices (which are among the Services covered by this Privacy Policy, along with our websites and online applications). It also applies regardless of whether you use a computer, mobile phone, tablet, TV, or other device to access our Services. It is important that you read the Privacy Policy carefully because anytime you use our Services, you consent to the practices we describe in the Privacy Policy and the supplements. If you do not agree to the practices described in the Privacy Policy, you should not use our Services.  
+  
+It also is important that you check back often for updates to the Privacy Policy. If we update the Privacy Policy we will let you know about changes we consider to be material by placing a note on relevant Services. By accessing or using our Services after we have placed such a notice, you consent to the new practice(s) identified in the update. The most current version of the Privacy Policy will always be available on Samsung.com \[www.samsung.com/us/common/privacy.html\]. You can check the “effective date” posted at the top to see when the Privacy Policy was last updated.
 
-1\. WHAT INFORMATION DO WE COLLECT ABOUT YOU?  
+Samsung Privacy Policy 1. WHAT INFORMATION DO WE COLLECT ABOUT YOU?  
 Information you provide directly  
 
 Some Services enable you to give us information directly. For example:
@@ -140,8 +188,9 @@ Further information
 
 If you have any specific questions, please contact us at:  
   
-Samsung Electronics Co., Ltd.  
-129 Samsung-Ro, Maetan-3dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, Korea  
+Samsung Electronics America  
+85 Challenger Rd  
+Ridgefield Park, NJ 07660  
   
 Email: through the “Contact Us” section of Samsung.com.  
   
