@@ -35,14 +35,6 @@ Just enter promo code: **SHIPFREE** at checkout
 
 Click here for additional shipping and tax information.
 
-$20 USD Express Shipping to Select Countries on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Thursday, April  17th, 2014, at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14.  Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
 $10 USD Shipping to Russia on orders over $100 USD\*
 
 Just enter promo code: **ROW14** at checkout
