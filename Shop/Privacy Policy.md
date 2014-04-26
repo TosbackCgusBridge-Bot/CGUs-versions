@@ -373,9 +373,9 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   SCREENBEAM PRO Save 42%
+    *   SCREENBEAM PRO SAVE 42% WITH SYSTEM PURCHASE
         
-        Beam your mobile display to the big screen wirelessly!.
+        Offer valid when upgrading your system with accessories!
         
         **Shop now >**
     *   MOBILE EDGE DEAL SAVE 25%
