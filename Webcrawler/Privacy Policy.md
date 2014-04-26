@@ -1,4 +1,4 @@
-| Preferences | Help Search Filter: Moderate
+| Preferences | Help Search Filter: Moderate All of these words: The exact phrase: Any of these words: None of these words: Image Color: All ColorsColorBlack &. White Image Size: All Image SizesSmallMediumLarge Language: Any LanguageDanishDutchEnglishFrenchGermanItalianNorwegianPortugueseSpanishSwedish Include Domain Exclude Domain
 
 *   Web
 *   |
@@ -116,4 +116,4 @@ Policy effective January 1, 2005
 *   .
 *   Investor Relations
 
-© 2014 InfoSpace, LLC. All Rights Reserved
+© 2014 InfoSpace, Inc. All Rights Reserved
