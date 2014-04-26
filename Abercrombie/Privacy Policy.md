@@ -42,7 +42,7 @@ We collect general information about our visitors’ experience with our Website
 
 Our Websites and emails include features that require collecting different types of location information that we use for the specific feature, such as:
 
-*   Check-In.  If you decide to check-in at one of our stores, we collect your specific location information.  This requires that you enable the location-based services on your mobile device, and allow us to access your current location.  .
+*   Check-In.  If you decide to check-in at one of our stores, we collect your specific location information.  This requires that you enable the location-based services on your mobile device, and allow us to access your current location.
 *   Find A Store and Find In Store.  Our Websites allow you to search for the nearest store and whether nearby stores have certain items in stock.  If you access our Website through a mobile device and you have enabled location-based services, specific location information may be collected for these features.  If you access these features through a desktop device, you can choose to have your browser provide us your location information to respond to your request. The specificity of the desktop device location information can vary depending on the browser you are using.
 *   Email.  Our emails may use your IP address to determine the city where you are located when you open the email.  This allows us to tailor content to you, such as a map of nearby stores.
 
