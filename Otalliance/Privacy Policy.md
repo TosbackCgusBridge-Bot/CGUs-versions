@@ -1,7 +1,7 @@
   
 **PRIVACY POLICY**   **           POLITICA DE PRIVACIDA**
 
-**Updated: 4/14/2014**
+**Updated: 4/24/2014**
 
 Online Trust Alliance, (OTA, Inc) is committed to protecting your privacy.  By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.  
 
@@ -20,8 +20,8 @@ In support of these uses, OTA may use personal information to provide you with m
 We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at admin@otalliance.org.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
   
 **Control of Your Personal Information**  
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of OTA without your permission. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.  
-  
+OTA respects enhanced user privacy controls. We support the development and implementation of a standard "do not track" browser feature, which is being designed to provide customers control over the collection and use of information by third parties regarding their web-browsing activities. At this time OTA does not respond to DNT mechanisms. Once a standardized "do not track" feature is released, OTA intends to adhere to the browser settings accordingly.  Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of OTA without your permission. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.
+
 **Security of Your Personal Information**  
 OTA is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, we use Secure Socket Layer (SSL) protocol on our site to ensure further safety of the information being transmitted while logged into your Membership account. No method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, we cannot guarantee its absolute security.  
   
