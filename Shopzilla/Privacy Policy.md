@@ -1,22 +1,33 @@
-About Shopzilla
+About Shopzilla Menu Skip to content
 
-*   Company
-    *   Who We Are
-    *   Our Values
-    *   Meet Our Leaders
-*   Brands
-*   Solutions
 *   Careers
-    *   Open Positions
     *   Benefits
+    *   careers-us
+        *   Open Positions
     *   Events
-*   News
-*   Blogs
-    *   Life@The Zillage
-    *   Tech Blog
+    *   Our Recruitment Process
+*   Company
+    *   Meet Our Leaders
+        *   Bill Glass
+        *   Blythe Holden
+        *   Bob Michaelian
+        *   Craig Teich
+        *   David Weinrot
+        *   Scott Macon
+        *   Sherri Nadeau
+    *   Our Values
+    *   Who We Are
 *   Contact Us
+*   Home
+*   Our Business Solutions
+*   Our Consumer Brands
+*   Press Center
+*   press center
+*   Privacy Policy
+*   Terms Of Use
+*   user agreement
 
-Go To …Company — Who We Are — Our Values — Meet Our LeadersBrandsSolutionsCareers — Open Positions — Benefits — EventsNewsBlogs — Life@The Zillage — Tech BlogContact Us You are here: Home / Privacy Policy Privacy Policy
+Search for: Privacy Policy
 
 Effective Date &. Last Modified October 25, 2012.
 
@@ -103,6 +114,18 @@ This Privacy Policy and our Terms of Use , both as posted on our Websites and th
 © 2012 Shopzilla, Inc.  
 12200 W. Olympic Blvd, Suite 300, CA 90064 | help@shopzilla.com | 310.571.1235
 
-Back to shopzilla.com / Terms & Conditions / Privacy Policy
+Leave a Reply Cancel reply
 
-© 2014 Shopzilla, Inc. All rights reserved.
+Your email address will not be published. Required fields are marked \*
+
+Name \*
+
+Email \*
+
+Website
+
+Comment
+
+You may use these HTML tags and attributes: `<a href="" title="">. <abbr title="">. <acronym title="">. <b>. <blockquote cite="">. <cite>. <code>. <del datetime="">. <em>. <i>. <q cite="">. <strike>. <strong>.`
+
+Proudly powered by WordPress
