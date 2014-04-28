@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola712 SERVER NAME :->. prod-c1-com-71201 TIME :->. Sat Apr 26 05:06:59 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola850 SERVER NAME :->. prod-c1-com-0101 TIME :->. Sun Apr 27 04:44:40 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,51 +43,25 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-KitchenAid Classic 4.5-qt. Stand Mixer
+Friends and Family Event
 
-$199.99 after mail-in rebate.
+In store and online.
 
-Sale $229.99. Regularly $350.
+Deals that fit you so well—all the right styles, sizes and savings.
 
-shop KitchenAid stand mixer30-50% Off Home Sale
+One day only! Sunday, April 27.
 
-Select items.
+In Store 10AM until 7PM. Except where prohibited by law.
 
-shop home shop home30-40% Off Small Appliances
+Online all day.
 
-Excluded from coupon.
+Extra 25% Off\* original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry, watches and home.
 
-shop small appliancesIt's Your Spring Sale
+Or, 15% Off\* furniture, mattresses and custom blinds and shades.
 
-Feel-good styles to fit you and your wallet.
+Code: FRNDFMLY
 
-shop the sale view store adIn Store and Online
-
-Ends April 26.
-
-Extra 20% Off\* with your JCPenney Credit Card.
-
-\*20% Off subject to credit approval.
-
-Extra 15% Off\* with any form of payment.
-
-Select original, regular, sale and clearance-priced items.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Code: CREDEVNT
-
-\*See exclusions and details. print store coupon Night and Day Doorbusters
-
-Excluded from coupon offer.
-
-In Store Only, Friday, April 25, 3PM until close, Saturday April 26, 10AM until 1PM.
-
-view doorbusters 40-50% Off Select A.N.A shop A.N.A 30-40% Off Select Swimwear For The Family shop swimwear shop women's swim shop men's swim 40% Off Select Sleepwear For Her shop women's sleepwear $39.99 Select Clark's Sandals For Her shop women's Clark's sandals $40 Select Men's Levi's™
-
-Excluded from coupon.
-
-shop men's Levi's™ 40-50% Off Select Kids' Arizona shop kids' Arizona JCP Rewards
+\*See exclusions and details. view store ad print store coupon 40-60% Off Select Fine Jewelry shop fine jewelry 40-50% Off Select Liz Claiborne shop Liz Claiborne 50% Off 2 Or More Select Bras, The Body, Elle Macpherson Intimates shop bras 30-50% Off Select St. John's Bay shop men's St. John's Bay 40-50% Off Select Kids' Arizona shop kids' Arizona 30-50% Off Select Home Decor shop home decor JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
