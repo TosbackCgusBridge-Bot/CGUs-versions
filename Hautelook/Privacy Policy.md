@@ -1,6 +1,6 @@
-It's Time for an Upgrade
+IT'S TIME FOR AN UPGRADE
 
-HauteLook no longer supports the browser you're currently using. To access HauteLook's great events—and exclusive savings—upgrade your current browser or use one of the alternate browsers listed below. Plus, make sure to download the mobile apps so you'll never miss another event!
+To access this site, please upgrade your current browser to the latest version or use one of the alternate browsers listed below. Plus, make sure to download our mobile apps to score style and savings wherever you are.
 
 Mobile Apps
 
