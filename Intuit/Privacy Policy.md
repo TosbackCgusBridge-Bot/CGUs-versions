@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola850 SERVER NAME :->. prod-c1-com-0101 TIME :->. Sun Apr 27 04:44:40 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena860 SERVER NAME :->. prod-l1-com-0202 TIME :->. Mon Apr 28 04:55:54 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,25 +43,27 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family Event
+In Store and Online
+
+Hurry! 3 days only, ends April 30.
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+\*20% Off subject to credit approval.
+
+Extra 15% Off\* with any method of payment.
+
+Select original, regular, sale and clearance-priced items.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print store coupon Love MOM Sale
 
 In store and online.
 
-Deals that fit you so well—all the right styles, sizes and savings.
+Fitting gifts for the coolest mom on the block.
 
-One day only! Sunday, April 27.
-
-In Store 10AM until 7PM. Except where prohibited by law.
-
-Online all day.
-
-Extra 25% Off\* original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry, watches and home.
-
-Or, 15% Off\* furniture, mattresses and custom blinds and shades.
-
-Code: FRNDFMLY
-
-\*See exclusions and details. view store ad print store coupon 40-60% Off Select Fine Jewelry shop fine jewelry 40-50% Off Select Liz Claiborne shop Liz Claiborne 50% Off 2 Or More Select Bras, The Body, Elle Macpherson Intimates shop bras 30-50% Off Select St. John's Bay shop men's St. John's Bay 40-50% Off Select Kids' Arizona shop kids' Arizona 30-50% Off Select Home Decor shop home decor JCP Rewards
+shop the sale view store ad40% Off Select Dresses shop dresses 40-60% Off Select Fine Jewelry shop fine jewelry 40-50% Off Select Liz Claiborne shop Liz Claiborne 50% Off 2 Or More Select Bras, The Body, Elle Macpherson Intimates shop bras 30-50% Off Select St. John's Bay shop men's St. John's Bay 40-50% Off Select Kids' Arizona shop kids' Arizona 30-50% Off Select Home Decor shop home decor JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
