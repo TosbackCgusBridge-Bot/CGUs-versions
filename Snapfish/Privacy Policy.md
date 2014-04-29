@@ -68,10 +68,6 @@ HP collects, exports, and uses personal information to manage your relationship 
 
   
 
-HP collects, exports, and uses personal information to manage your relationship with HP and better serve you by personalizing your experience and interaction with HP. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where required.
-
-  
-
 HP may collect your personal information through your access and use of website or web-based applications, during conversations or correspondence with HP representatives, or when you purchase goods or services or complete an online application form.
 
   
