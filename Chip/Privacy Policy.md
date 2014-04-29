@@ -4,21 +4,30 @@ Datenschutz-Erklärung
 Datenschutzbestimmung der CHIP Digital GmbH  
 Die CHIP Digital GmbH nimmt Datenschutz ernst und möchte Ihnen anhand dieser Datenschutzerklärung erläutern, welche Daten unbedingt benötigt werden, wie wir sie nutzen und wie Sie Ihre Angaben korrigieren oder ändern können. Unsere Einstellung ist, dass der Schutz Ihrer Privatsphäre von höchster Bedeutung ist. Deshalb ist das Einhalten der strengen gesetzlichen Bestimmungen zum Datenschutz für uns selbstverständlich. Nach unserer festen Überzeugung fängt Datenschutz mit Transparenz an. Daher ist es unser Anliegen, dass Sie jederzeit wissen, wann wir welche Ihrer Daten speichern, wie wir sie verwenden, aber auch, wie Sie die Verwendung einschränken bzw. verhindern  
 Alle Einklappen  
-**1\. Was sind personenbezogene Daten?** Einklappen Personenbezogene Daten sind alle Informationen über persönliche und sachliche Verhältnisse einer bestimmten oder bestimmbaren Person. Darunter fallen Informationen und Angaben wie Ihr (richtiger) Name, Ihre Adresse oder sonstige Postanschrift und die Telefonnummer. Auch Ihre E-Mailadresse gehört dazu, wenn sie einen solchen Bezug zu Ihrem Namen hat, dass Sie identifizierbar sind. Informationen, mit deren Hilfe Ihre Identität nicht festgestellt werden kann, gehören dazu nicht. Solche Informationen sind zum Beispiel: alle Angaben ohne irgendeinen Bezug zu Ihrem Namen, z.B. nur die Angabe des Geschlechts oder des Alters oder der Ausbildung. **2\. Wann und wozu werden Ihre personenbezogenen Daten erhoben und gespeichert?** Einklappen
+**1\. Was sind personenbezogene Daten?** Einklappen Personenbezogene Daten sind alle Informationen über persönliche und sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Darunter fallen Informationen und Angaben wie Ihr (richtiger) Name, Ihre Adresse oder sonstige Postanschrift und die Telefonnummer. Auch Ihre E-Mailadresse gehört dazu, wenn sie einen solchen Bezug zu Ihrem Namen hat, dass Sie identifizierbar sind. Informationen, mit deren Hilfe Ihre Identität nicht festgestellt werden kann, gehören dazu nicht. Solche Informationen sind zum Beispiel: alle Angaben ohne irgendeinen Bezug zu Ihrem Namen, z.B. nur die Angabe des Geschlechts oder des Alters oder der Ausbildung. **2\. Wann und wozu werden Ihre personenbezogenen Daten erhoben und gespeichert?** Einklappen
 
 **2.1** Wir fragen Sie immer dann nach Namen, Adresse und weiteren notwendigen Angaben, wenn Sie z.B. ein Produkt bestellen, an einem Gewinnspiel teilnehmen, einen personalisierten oder interaktiven Dienst in Anspruch nehmen oder einen Newsletter abonnieren. In diesen Fällen werden diejenigen personenbezogenen Daten abgefragt, die für den jeweiligen Service und seine Personalisierung nötig sind.
 
   
 
-**2.2** Bei unseren registrierten Nutzern ("Mitgliedern") speichern wir zur Identifizierung einen Mitgliedsnamen, eine E-Mailadresse und das Passwort. Diese Daten benötigen wir, um unsere Nutzer überhaupt auseinander halten und mit Ihnen Kontakt aufnehmen zu können. Die Identifizierungsdaten bleiben gespeichert, solange die Mitgliedschaft besteht.
+**2.2** Bei unseren registrierten Nutzern ("Mitgliedern") speichern wir zur Identifizierung einen Mitgliedsnamen, eine E-Mailadresse und ein selbst gewähltes Passwort. Diese Daten benötigen wir, um unsere Nutzer überhaupt auseinander halten und mit Ihnen Kontakt aufnehmen zu können. Die Identifizierungsdaten bleiben gespeichert, solange die Mitgliedschaft besteht.
 
   
 
-**2.3** Bei Nutzern die sich nicht auf CHIP Online registrieren sondern sich über Fremdanbieter wie Facebook oder Google auf unserer Seite anmelden, speichern wir zur Identifizierung Ihren Accountnamen, eine E-Mailadresse und die allgemeinen Daten Ihres jeweiligen Accounts, die Sie in Ihren dortigen Sicherheitseinstellungen als öffentlich sichtbar markiert haben. Diese Daten benötigen wir, um auch Nutzer mit Fremdaccount auseinander halten und mit Ihnen Kontakt aufnehmen zu können. Wir erhalten sie nur, wenn Sie bei dem betreffenden Fremdanbieter einer Übertragung ausdrücklich zustimmen.
+**2.3** Bei Nutzern die sich nicht auf CHIP Online registrieren sondern sich über Fremdanbieter wie Facebook oder Google auf unserer Seite anmelden oder sich mit Hilfe ihrer E-Mail-Adresse direkt bei unserem Kommentar- und Bewertungstool anmelden, speichern wir zur Identifizierung Ihren Accountnamen, eine E-Mailadresse und die allgemeinen Daten Ihres jeweiligen Accounts, die Sie in Ihren dortigen Sicherheitseinstellungen als öffentlich sichtbar markiert haben. Diese Daten benötigen wir, um auch Nutzer mit Fremdaccount auseinander halten und mit Ihnen Kontakt aufnehmen zu können. Wir erhalten sie nur, wenn Sie bei dem betreffenden Fremdanbieter einer Übertragung ausdrücklich zustimmen.
 
   
 
-**2.4** Alle Ihre personenbezogenen Angaben werden bei CXO auf einem besonders geschützten Server gespeichert und nur für die Zwecke genutzt, die Sie uns bekannt gegeben haben.
+**2.4** Alle Ihre personenbezogenen Angaben werden bei CXO und unserem Dienstleister für Kommentar- und Bewertungsfunktionen "Gigya" auf einem besonders geschützten Server gespeichert und nur für die Zwecke genutzt, die Sie uns bekannt gegeben haben.
+
+  
+
+Umfang der Verarbeitung Ihrer personenbezogenen Daten für den Zweck der Erfüllung und Abwicklung im Rahmen von Kommentar-, Bewertungs- u.ä. Funktionen sind folgende Logindaten:
+
+  
+
+*   Name, Vorname
+*   E-Mail
 
 **3\. Was ist eigentlich mit IP-Adressen etc.?** Einklappen Mit Ihrem Zugriff auf diese Website werden mögliche Identifizierungsdaten (IP-Adresse) und weitere Angaben (Datum, Uhrzeit, betrachtete Seite) auf unserem Server für Zwecke der Datensicherheit gespeichert. Eine Auswertung der Daten, mit Ausnahme für statistische Zwecke und dann nur in anonymisierter Form (d.h. um mehrere Nummern verkürzte oder in eine andere Zahlenfolge verschlüsselte IP-Adresse, vgl. hierzu Abschnitt "Erstellen von Nutzungsprofilen), erfolgt nicht. **4\. Nutzung und Weitergabe personenbezogener Daten** Einklappen
 
@@ -134,6 +143,10 @@ Criteo GmbH
 Datenschutz-Infos  
 Zum Opt-out Link  
   
+Gigya, Inc.  
+Datenschutz-Infos  
+Zum Opt-out Link  
+  
 Google  
 Datenschutz-Infos  
 Zum Opt-out Link  
@@ -203,27 +216,28 @@ Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline
 Sie können der Datenverarbeitung durch das SZM unter folgenden Links widersprechen: http://optout.ioam.de und http://optout.ivwbox.de  
   
 
-**7\. Verwendung des Facebook "Gefällt mir"-Buttons** Einklappen
+**7\. Social Plugins** Einklappen
 
-CXO bindet den sog. „Gefällt mir“-Button des sozialen Netzwerkes facebook.com im Rahmen seines Webangebotes ein. Dieser besondere Dienst wird von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook") betrieben. Der Button ist mit dem Facebook Logo und dem Zusatz "Gefällt mir" gekennzeichnet. Klicken Sie auf den Button, werden Sie in einem neuen Fenster zur Anmeldung bei Facebook aufgefordert. In diesem Fall wird ein Facebook-Cookie auf Ihrem Rechner platziert und die entsprechenden Informationen direkt an Facebook übermittelt und dort gespeichert sowie Ihrem Facebook-Profil zugeordnet. Informationen über Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie Ihre Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzrichtlinien von Facebook.
-
+Diese Webseite enthält ggf. Plug-Ins der sozialen Netzwerke Facebook, Google+ und Twitter, die von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook") bzw. der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (Google+), Twitter Inc.: 539 Bryant St. Suite 402, San Francisco, CA 94107, USA (Twitter), betrieben werden und über die mit Hilfe eines Buttons Nachrichten an das entsprechende Soziale Netzwerk übermittelt werden können. Sind Sie bei einem dieser Netzwerke eingeloggt und rufen dann eine Seite mit einer solchen Funktion auf, baut Ihr Browser eine Verbindung mit diesem Sozialen Netzwerk auf und das Soziale Netzwerk kann den Besuch der Seite Ihrem Konto bei dem entsprechenden Sozialen Netzwerk zuordnen. Wenn Sie dies nicht möchten, besuchen Sie unsere Webseiten, ohne bei einem dieser Sozialen Netzwerke eingeloggt zu sein.  
   
 
-Wenn Sie eine Webseite unseres Internetauftritts aufrufen, die den Button enthält, dabei den Button aber nicht anklicken oder nicht bei Facebook eingeloggt sind, wird kein Facebook Cookie auf ihrem Rechner platziert. Ihr Browser baut jedoch eine direkte Verbindung mit den Servern von Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden.
-
+*   Datenschutzinformationen von Facebook  
+    
   
-
-Besuchen Sie eine Seite mit „Gefällt mir“-Button, wird die IP-Adresse an Facebook übermittelt. Aus Datenschutzgründen wird diese jedoch anonymisiert, so dass keine Rückschlüsse auf den Rechner oder Benutzer möglich sind.
-
+*   Datenschutzinformationen von Google+  
+    
+  
+*   Datenschutzinformationen von Twitter  
+    
 **8\. Auskunft, Widerspruchsrecht, Fragen** Einklappen
 
-**8.1** Sie können zu jeder Zeit unentgeltlich und unverzüglich Auskunft über die zu Ihrer Person oder zu einem Ihnen zugeordneten Pseudonym gegebenenfalls gespeicherten Daten verlangen. Wir behalten uns vor, diese Auskunft elektronisch zu erteilen. Darüber hinaus haben Sie jederzeit das Recht, der weiteren Nutzung Ihrer personenbezogenen Daten für die Zukunft zu widersprechen. Am einfachsten können Sie als Mitglied dafür sorgen, indem sie die betreffenden Informationen ändern, löschen oder Ihre Mitgliedschaft insgesamt beenden. Die geänderten oder gelöschten Informationen werden von uns nicht aufbewahrt. Im Falle eines Auskunftsersuchens oder eines Widerspruchs müssen Sie hinreichende Angaben zur Individualisierung machen (mindestens Mitgliedsname, E-Mailadresse und Passwort) und einen gültigen Nachweis erbringen, dass es sich um Ihre Informationen handelt. Wenden Sie sich in diesen Fällen oder sonstigen Fragen zu unserem Datenschutz an: E-Mail: datenschutz@chip.de, robinson-liste-subscribe@newsletter.chip.de Postalisch: Datenschutzbeauftragter, CHIP Digital GmbH, St.-Martin-Str. 66, 81541 München, Deutschland, Tel +49 (0)89 / 7 46 42-500
+**8.1** Sie können unentgeltlich und unverzüglich Auskunft über die zu Ihrer Person oder zu einem Ihnen zugeordneten Pseudonym gegebenenfalls gespeicherten Daten verlangen. Wir behalten uns vor, diese Auskunft elektronisch zu erteilen. Darüber hinaus haben Sie jederzeit das Recht, der weiteren Nutzung Ihrer personenbezogenen Daten für die Zukunft zu widersprechen. Am einfachsten können Sie als Mitglied dafür sorgen, indem sie die betreffenden Informationen ändern, löschen oder Ihre Mitgliedschaft insgesamt beenden. Die geänderten oder gelöschten Informationen werden von uns nicht aufbewahrt. Im Falle eines Auskunftsersuchens oder eines Widerspruchs müssen Sie hinreichende Angaben zur Individualisierung machen (mindestens Mitgliedsname und E-Mailadresse) und einen gültigen Nachweis erbringen, dass es sich um Ihre Informationen handelt. Wenden Sie sich in diesen Fällen oder sonstigen Fragen zu unserem Datenschutz an: E-Mail: datenschutz@chip.de, Postalisch: Datenschutzbeauftragter, CHIP Digital GmbH, St.-Martin-Str. 66, 81541 München, Deutschland, Tel +49 (0)89 / 7 46 42-500
 
   
 
-**8.2** Weitere Informationen zur Anmeldung und Abmeldung von Newslettern finden Sie auf den Seiten zur Newsletter Registrierung.
+**8.2** Weitere Informationen zur Anmeldung und Abmeldung von Newslettern finden Sie auf den Seiten zur Newsletter Registrierung. Wenn Sie sich von allen Newslettern automatisch abmelden wollen, reicht eine E-Mail an robinson-liste-subscribe@newsletter.chip.de
 
 **9\. Änderungsvorbehalt** Einklappen Wir behalten uns vor, diese Datenschutzerklärung von Zeit zu Zeit unter Beachtung der gesetzlichen Bestimmungen zu ändern.  
   
   
-**Stand: August 2011 - Änderung Punkt 6.2 Stand Januar 2014**
+**Stand: April 2014**
