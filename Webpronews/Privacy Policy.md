@@ -29,4 +29,4 @@ Web Developers
 IT Managers  
 Small Business Owners  
 eBusiness Management  
-IT Software **» WebProNews Headlines** iEntry Corporate - Advertising - Sitemap - Newsletters - WebProNews in the News
+IT Software **» WebProNews Headlines** iEntry Corporate - Advertising - Sitemap - Newsletters
