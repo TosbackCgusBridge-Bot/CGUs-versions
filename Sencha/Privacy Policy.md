@@ -49,7 +49,6 @@
     *   Sencha Devs
     *   Sencha Market
     *   Sencha Try
-    *   App Gallery
 *   Company
     *   Overview
     *   Team
