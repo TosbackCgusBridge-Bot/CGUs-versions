@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Last Updated **NOVEMBER 18, 2013**
+Last Updated **APRIL 29, 2014**
 
 This Privacy Policy (the “Policy”) describes your privacy rights in connection with information collected, used, stored, or shared by Martha Stewart Living Omnimedia, Inc. ("MSO," "us," "our," or "we") and our related sites, applications, services, and/or tools, whether accessed via Internet, mobile, or other device or through applications and sites affiliated with MSO products (collectively, the “Online Services”). By using the Online Services or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Policy.
 
@@ -89,6 +89,8 @@ We take the privacy of our users and customers seriously. MSO occasionally share
 We employ third party companies to provide certain activities and services available through our Online Services on our behalf. We may share relevant Personally Identifiable Information with third parties for the purpose of enabling them to perform such activities or services. For example, if you choose to purchase a product from us, we may use outside vendors to process your credit card, or to process and ship the order to you. In these instances, we would need to provide certain Personally Identifiable Information, such as your credit card information and shipping address, to these vendors. These providers have access to personal information, but are restricted from using it for their own marketing purposes.
 
 We use an email delivery and marketing company to send emails that you have agreed to receive. Certain Personally Identifiable Information, including your email address, is provided to the email delivery and marketing company.
+
+If you submit information to our website, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at http://mollom.com/web-service-privacy-policy.
 
          **2\. Sweepstakes and Other Promotions**
 
