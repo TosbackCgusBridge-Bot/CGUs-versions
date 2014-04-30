@@ -294,3 +294,5 @@ Please note that when you watch a video or access applications or content provid
 Country-Specific Features  
 
 Please note that one or more of the features described in this SmartTV Supplement may not be available to you depending on where you live.
+
+Last Updated April 29, 2014
