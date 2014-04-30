@@ -36,9 +36,7 @@ Nutzungsdaten, wie zum Beispiel Angaben über Beginn, Ende und Umfang der Nutzun
 
 Soweit die Nutzungs- beziehungsweise Verkehrsdaten für Abrechnungszwecke erforderlich sind (Abrechnungsdaten), werden sie längstens bis zu sechs Monate nach Versendung der Rechnung gespeichert, darüber hinaus nur, wenn und solange der Nutzer Einwendungen gegen die Rechnung erhebt oder die Rechnung trotz Zahlungsaufforderung nicht bezahlt, oder gesetzliche Vorschriften die längere Aufbewahrung vorsehen.
 
-Soweit erforderlich sind wir berechtigt, zum Erkennen, Eingrenzen oder Beseitigen von Störungen oder Fehlern an Telekommunikationsanlagen die Bestands- oder Verkehrsdaten der Teilnehmer und Nutzer zu erheben und zu verwenden.
-
-Soweit erforderlich sind wir bei Vorliegen tatsächlicher Anhaltspunkte darüber hinaus berechtigt, die Bestands- und Verkehrsdaten zu erheben und zu verwenden, die zum Aufdecken sowie Unterbinden von rechtswidrigen Inanspruchnahmen und zur Durchsetzung von Ansprüchen gegenüber dem Nutzer erforderlich sind.
+Wir unterliegen dem Deutschen Datenschutzrecht und der ständigen Aufsicht der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. Wir werden deswegen nie den Inhalt Ihrer E-Mails für eigene Zwecke auswerten. Wir sind gemäß §§109 Absatz 2. 100 Absatz 1 und 3 des Telekommunikationsgesetzes (TKG) verpflichtet Maßnahmen für die Stabilität und die Sicherheit des Netzes und der Systeme zu ergreifen.
 
 Löschung von Daten
 
