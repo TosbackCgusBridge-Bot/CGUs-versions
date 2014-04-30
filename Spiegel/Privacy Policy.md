@@ -387,6 +387,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     Fahrzeuge
 
 *   FREIZEIT
+*   Eurojackpot
 *   Lottozahlen
 *   Ferientermine
 *   Bücher  
