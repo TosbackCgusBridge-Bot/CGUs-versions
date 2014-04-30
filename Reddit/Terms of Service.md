@@ -1,9 +1,9 @@
-**reddit user agreement** _Last Revised Dec 11, 2013. Effective Jan 10, 2014_
+**reddit user agreement** _Last Revised Apr 29, 2014. Effective May 15, 2014_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
 
-1 Hello redditors and people of the Internet! We want you to know your rights and our rights and so we have prepared this agreement ("user agreement" or "agreement") between reddit ("we", "our," "us") and you. This agreement sets the terms of your use of the reddit website and services ("reddit") that include subreddits, messenging, and reddit.tv. This agreement is meant to encourage a fair and tolerant place for ideas, people, links, and discussion.
+1 Hello redditors and people of the Internet! We want you to know your rights and our rights and so we have prepared this agreement ("user agreement" or "agreement") between reddit ("we", "our," "us") and you. This agreement sets the terms of your use of the reddit website and services ("reddit") that include subreddits, messaging, reddit mobile, and reddit.tv. This agreement is meant to encourage a fair and tolerant place for ideas, people, links, and discussion.
 
 2 We also operate redditgifts, which has its own terms that you should read here.
 
@@ -33,7 +33,7 @@ reddit isn’t intended as a marketplace
 
 your reddit account
 
-10 To participate in reddit, you must create an account that includes a username and password ("Your Account") and, if you want to be able to reset your password or have us contact you, an email address as well. Of course, you can also browse reddit without logging in.
+10 To participate on reddit, you must create an account that includes a username and password ("Your Account") and, if you want to be able to reset your password or have us contact you, an email address as well. Of course, you can also browse reddit without logging in.
 
 11 You are solely responsible for the information associated with Your Account and anything that happens related to Your Account.
 
@@ -49,23 +49,23 @@ payment information
 
 content reddit content
 
-15 reddit contains graphics, text, photographs, images, video, audio, software, code, website compilation, website "look and feel," and website advertisements supplied by us or our licensors, which we call "reddit content." reddit content is protected by intellectual property laws including copyright and other proprietary rights of the United States and foreign countries.
+15 reddit contains graphics, text, photographs, images, video, audio, software, code, website compilation, website "look and feel," and advertisements supplied by us or our licensors, which we call "reddit content." reddit content is protected by intellectual property laws including copyright and other proprietary rights of the United States and foreign countries.
 
 16 We grant you the right to access the reddit content in the manner described in this agreement. You may not otherwise make unauthorized commercial use of, reproduce, prepare derivative works, distribute copies, perform, or publicly display reddit content, except as permitted by the doctrine of fair use or as authorized in writing by us. If you are interested in licensing reddit content, contact us at licensing@reddit.com.
 
 your content
 
-17 You retain the rights to your copyrighted content or information that you submit to reddit ("User Content") except as described below.
+17 You retain the rights to your copyrighted content or information that you submit to reddit ("user content") except as described below.
 
-18 By submitting User Content to reddit, you grant us a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to reproduce, prepare derivative works, distribute copies, perform, or publicly display your User Content in any medium and for any purpose, including commercial purposes, and to authorize others to do so.
+18 By submitting user content to reddit, you grant us a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to reproduce, prepare derivative works, distribute copies, perform, or publicly display your user content in any medium and for any purpose, including commercial purposes, and to authorize others to do so.
 
-19 You agree that you have the right to submit anything you post, and that your User Content does not violate the copyright, trademark, trade secret or any other personal or proprietary right of any other party.
+19 You agree that you have the right to submit anything you post, and that your user content does not violate the copyright, trademark, trade secret or any other personal or proprietary right of any other party.
 
 20 Please take a look at reddit’s privacy policy for an explanation of how we may use or share information submitted by you or collected from you.
 
 we don’t endorse user content
 
-21 We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any User Content submitted by you to reddit.
+21 We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any user content submitted by you to reddit.
 
 links and reddit
 
@@ -119,7 +119,7 @@ other ways of accessing reddit
 
 34 reddit does not select and takes no responsibility for any content available on reddit.tv.
 
-35 We encourage the creation of other ways to access reddit, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application.
+35 We encourage the creation of other ways to access reddit, including browser extensions and mobile and desktop applications. We take no responsibility for, we do not expressly or implicitly endorse, and we do not assume any liability for any mobile or desktop application not produced by us.
 
 36 If you produce or maintain a browser extension or application, you agree not to purposefully negate any user's actions to delete or edit their content on reddit.
 
@@ -129,7 +129,7 @@ children and reddit
 
 DMCA copyright, the dmca, &. takedowns
 
-38 We will respond to legitimate requests under the Digital Millennium Copyright Act ("DMCA"), and we retain the right to remove User Content on reddit that we deem to be infringing the copyright of others. If you become aware of User Content on reddit that infringes your copyright rights, you may submit a properly formatted DMCA request (see 17 U.S.C. § 512) to reddit.
+38 We will respond to legitimate requests under the Digital Millennium Copyright Act ("DMCA"), and we retain the right to remove user content on reddit that we deem to be infringing the copyright of others. If you become aware of user content on reddit that infringes your copyright rights, you may submit a properly formatted DMCA request (see 17 U.S.C. § 512) to reddit.
 
 39 Misrepresentations of infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. Any DMCA request should be sent to this contact information:
 
@@ -157,13 +157,13 @@ a few more legalities
 
 indemnity
 
-43 All the things you do and all the information you submit or post to reddit remain your responsibility. Indemnity is basically a way of saying that you will not hold us legally liable for any of your User Content or actions that infringe the law or the rights of a third party or person in any way.
+43 All the things you do and all the information you submit or post to reddit remain your responsibility. Indemnity is basically a way of saying that you will not hold us legally liable for any of your user content or actions that infringe the law or the rights of a third party or person in any way.
 
 44 _Specifically, you agree to hold reddit, its affiliates, officers, directors, employees, agents, and third party service providers harmless from and defend them against any claims, costs, damages, losses, expenses, and any other liabilities, including attorneys’ fees and costs, arising out of or related to your access to or use of reddit, your violation of this user agreement, and/or your violation of the rights of any third party or person._
 
 disclaimer of warranties
 
-45 _reddit is provided "as is" and without warranty of any kind. To the maximum extent permitted by law, we and our affiliates and third party service providers disclaim any and all warranties, express or implied, including (but not limited to) implied warranties of merchantability, fitness for a particular purpose, and non-infringement of proprietary rights, or any other warranty, condition, guarantee or representation, whether oral or electronic. You are solely responsible for any damage to your computer or mobile device, loss of use, or loss of your User Content. We do not guarantee that reddit will always work properly._
+45 _reddit is provided "as is" and without warranty of any kind. To the maximum extent permitted by law, we and our affiliates and third party service providers disclaim any and all warranties, express or implied, including (but not limited to) implied warranties of merchantability, fitness for a particular purpose, and non-infringement of proprietary rights, or any other warranty, condition, guarantee or representation, whether oral or electronic. You are solely responsible for any damage to your computer or mobile device, loss of use, or loss of your user content. We do not guarantee that reddit will always work properly._
 
 limitation of liability
 
@@ -189,4 +189,4 @@ changes to this user agreement
 
 53 This user agreement is the entire agreement between you and us concerning reddit. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement that materially affect your rights, we will provide advance notice and keep this edition available as an archive on the reddit website. By continuing to use reddit after a change to this agreement, you agree to those changes.
 
-54 this user agreement is effective as of January 10, 2014.
+54 this user agreement is effective as of May 15, 2014.
