@@ -146,4 +146,4 @@ The Privacy Statement posted on this site was updated in October, 2013.
 
 Weather forecast
 
-Home | Video | CNN Trends | U.S. | World | Politics | Justice | Entertainment | Tech | Health | Living | Travel | Opinion | iReport | Money | Sports Tools &. widgets | RSS | Podcasts | Blogs | CNN mobile | My profile | E-mail alerts | CNN Radio | CNN shop | Site map CNN en ESPAÑOL | CNN Chile | CNN Expansion | | | | CNN TV | HLN | Transcripts © 2010 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. Terms of service | Privacy guidelines | Ad choices | Advertise with us | About us | Contact us | Work for us | Help
+Home | Video | CNN Trends | U.S. | World | Politics | Justice | Entertainment | Tech | Health | Living | Travel | Opinion | iReport | Money | Sports Tools &. widgets | RSS | Podcasts | Blogs | CNN mobile | My profile | E-mail alerts | CNN Radio | CNN shop | Site map CNN en ESPAÑOL | CNN Chile | CNN Expansion | | | | CNN TV | HLN | Transcripts © 2014 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. Terms of service | Privacy guidelines | Ad choices | Advertise with us | About us | Contact us | Work for us | Help
