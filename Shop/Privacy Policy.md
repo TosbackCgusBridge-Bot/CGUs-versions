@@ -194,9 +194,9 @@ Lenovo United States Select a country/region
         on select home laptops through April 30.
         
         **Shop now >**
-    *   LENOVO Y510P LEVEL UP
+    *   ThinkPad Clearance Sale Limited Quantities
         
-        With epic gaming features.
+        Save BIG on select ThinkPad Laptops while supplies last.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -246,9 +246,9 @@ Lenovo United States Select a country/region
         on select home tablets through April 30.
         
         **Shop now >**
-    *   Yoga — Now for Business
+    *   ThinkPad Clearance Sale Limited Quantities
         
-        Built for business, yet ready for play, the new ThinkPad Yoga offers the best of both worlds.
+        Save BIG on select ThinkPad Tablets while supplies last.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -291,9 +291,9 @@ Lenovo United States Select a country/region
         on select home PCs through April 30.
         
         **Shop now >**
-    *   Deals on ThinkCentre
+    *   ThinkPad Clearance Sale Limited Quantities
         
-        Get great deals on our powerful ThinkCentre desktop systems every day.
+        Save BIG on select ThinkCentre desktops while supplies last.
         
         **Shop now >**
     *   Less is More
@@ -303,10 +303,13 @@ Lenovo United States Select a country/region
         **Shop now >**
     
     Not sure what you need?
+    *   New Product Showcase
+    *   New Product Announcements
     *   Best Selling Desktops
     *   Gaming PCs
     *   See All Desktops
     
+     
 *   Workstations
     *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
         *   C Series: Powerful &. Compact
