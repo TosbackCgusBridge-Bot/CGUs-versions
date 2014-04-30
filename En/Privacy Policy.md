@@ -16,13 +16,13 @@ Legal **information**
 
 Legal **information**
 
-**Softonic International S.L.** owns, amongst others, the corresponding country domains of Spain, France, Germany, Italy, Brazil, China, Japan, The Netherlands, Turkey, Korea and Poland, the blog http://en.onsoftware.com, Ongames.com and its blog (hereinafter referred to as SOFTONIC).
+**Softonic Internacional S.A.** owns, amongst others, the corresponding country domains of Spain, France, Germany, Italy, Brazil, China, Japan, The Netherlands, Turkey, Korea and Poland, the blog http://en.onsoftware.com, Ongames.com and its blog (hereinafter referred to as SOFTONIC).
 
 *   Address: C/Rosselló i Porcel, 21, 17th floor, 08016, Barcelona, Spain
 *   Tel. + 34 936 01 27 00
 *   Fax. + 34 93 396 92 92
 *   moc.cinotfos@anolecrab.
-*   Softonic International S.L.: Tax Identification Number: B-62134341. Filed with the Mercantile Registry of Barcelona, Book 3251743674, Page 37213, Sheet B 210880, Entry 25.
+*   Softonic Internacional S.A.: Tax Identification Number: B-62134341. Filed with the Mercantile Registry of Barcelona, Book 3251743674, Page 37213, Sheet B 210880, Entry 25.
 
 Personal Data **Protection Policy**
 
@@ -30,11 +30,11 @@ Personal Data **Protection Policy**
     
     The data protection policy governs access and use of the Softonic website that Softonic makes available, free of charge, to Internet users interested in the site's services and content (hereafter "**Users**").
     
-    According to what is set forth in Data Protection Regulations, Softonic International S.L., as owner of the Website for Spain and for the rest of the world, informs the User that files containing personal data of users and customers have been created, and accepts responsibility for the files, dully filed with the corresponding public entity.
+    According to what is set forth in Data Protection Regulations, Softonic Internacional S.A., as owner of the Website for Spain and for the rest of the world, informs the User that files containing personal data of users and customers have been created, and accepts responsibility for the files, dully filed with the corresponding public entity.
     
     Softonic does not sell or rent its users’ personal data to third parties with commercial purposes without the users’ prior consent. However, Softonic is enabled to disclose personal data in order to (i) fulfill a legal requirement, (ii) demand the fulfillment of our policies, (iii) answer claims regarding the breach or protection of any third party’s rights or its property or security, in the event they are affected by advertisements or contents. Softonic is enabled, as well, to share or transfer your personal information to:
     
-    Members of the Softonic group: Softonic International S.L., Softonic Inc., Softonic Hong Kong, Softonic Japan K.K. contract services from suppliers that help us with our internal operations in order to provide joint content and services (such as registration, transactions, or customer service), to make the prevention and detection of potentially illegal acts or breaches of our policies easier, or to make decisions regarding products, services and communications. To that end, the User expressly permits Softonic to transfer its personal data for the sole purposes specified in the Privacy Policy.
+    Members of the Softonic group: Softonic Internacional S.A., Softonic Inc., Softonic Hong Kong, Softonic Japan K.K. contract services from suppliers that help us with our internal operations in order to provide joint content and services (such as registration, transactions, or customer service), to make the prevention and detection of potentially illegal acts or breaches of our policies easier, or to make decisions regarding products, services and communications. To that end, the User expressly permits Softonic to transfer its personal data for the sole purposes specified in the Privacy Policy.
     
 2.  Purpose
     
@@ -204,7 +204,7 @@ Personal Data **Protection Policy**
     
     If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at:
     
-    Softonic International S.L.  
+    Softonic Internacional S.A.  
     C/Rosselló i Porcel, 21, 17th floor,  
     08016, Barcelona,  
     Spain  
@@ -299,8 +299,7 @@ Searches:
     *   Softonic for Windows
     *   Softonic Answers
     *   Softonic Newsletter
-    *   OnSoftware
 
-The name and logo of Softonic are registered trademarks of SOFTONIC INTERNATIONAL S.L.
+The name and logo of Softonic are registered trademarks of SOFTONIC INTERNACIONAL S.A.
 
-Copyright SOFTONIC INTERNATIONAL S.L. © 1997-2014 - All rights reserved
+Copyright SOFTONIC INTERNACIONAL S.A. © 1997-2014 - All rights reserved
