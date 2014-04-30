@@ -255,9 +255,9 @@ Syfy Video War is Coming - Dominion - Thursday June 19th ... War is Coming - Dom
 
 War is coming as heaven raises hell. Watch the premiere of Dominion, Thursday June 19th at 9/8c.
 
-Dominion: Heaven Meets Hell - June 2014 Dominion: Heaven Meets Hell - June 2014
+Good is Not Good Enough - Heroes of Cosplay i ... Good is Not Good Enough - Heroes of Cosplay is Back!
 
-Dominion is where heaven meets hell. Premering on Syfy, June 2014.
+Heroes of Cosplay returns for season 1.5 on Tuesday May 27 at 9/8c.
 
 Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
