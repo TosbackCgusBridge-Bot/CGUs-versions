@@ -444,7 +444,8 @@ One or more patents may apply to this Site or those of our affiliated brands, in
 
   
 
-Sign Up for Email
+Sign Up for Email  
+New subscribers receive a FREE SHIPPING offer.
 
   
   
