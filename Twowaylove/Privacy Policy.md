@@ -13,13 +13,10 @@ penalty-fur
     *   Add URL
     *   Advertising
     *   Pricing
-    *   Dating Alliance
-    *   Lisa's Blog
-    *   Seal of Trust
     *   Webmaster
 *   SUBMIT URL
-*   CONTACT
-*   +41 76 794 7813
+*   BLOG
+*   TRUST
 
 Directory >. Privacy Policy Privacy Policy INTRODUCTION We care about your privacy
 
