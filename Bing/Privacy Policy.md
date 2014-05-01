@@ -117,7 +117,7 @@ Microsoft collects many kinds of information in order to operate effectively and
 
 *   Using our sites, applications and services. We collect information that tells us how you interact with our applications or services, including the browser you’re using, your IP address, location, cookies or other unique IDs, the pages you visit and features you use.
 
-*   Data from other sources. We may get additional information about you, such as demographic data we purchase from other companies. As discussed in the Facebook Personalization section below, we may also obtain certain information from Facebook to enable personalization features.
+*   Data from other sources. We may get additional information about you, such as demographic data we purchase from other companies. 
 
 *   Search Services for Yahoo!. Bing provides search services to Yahoo! and its users. In order to provide these services, Bing receives certain search related information from Yahoo!. This information includes date, time, IP Address, a unique identifier and other search related data. When we receive a search query and the related information from Yahoo!, we treat it in accordance with Yahoo!’s retention and de-identification practice which includes the full deletion of the IP Address from most log files at ninety days. Information provided as part of the search services is used to help select the advertising you see within the search experience.
 
@@ -295,19 +295,12 @@ To help protect your privacy, we do not use any of the information collected thr
 
 Binglets integrate third party services into Bing search that enable you to associate an action with your search results. For example, if you search on restaurants, a Binglet provides the functionality to enable you to reserve a table. When you use a third party “Binglet” within a Bing application, information you provide to the Binglet is shared with the third party named in it. For details about the third party’s information collection and usage practices, see the privacy policy on their web site. Bing doesn’t separately collect or store information provided to a third party Binglet
 
-Facebook PersonalizationFacebook Personalization
+  
+  
 
-Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. You can turn off these Instant Personalization features at any time by going to http://www.facebook.com/help/?faq=204873389548151.
+**Connecting FB to Bing Services**
 
-In addition, Bing search and Microsoft Services Powered by Bing may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
-
-Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. Bing uses this information only to operate and improve the services we provide to you, and not for any other purposes such as advertising.
-
-You can turn off these Instant Personalization features at any time. The first five times you do a Bing search that will show social results, you will see a notification at the top of your screen. clicking “disable” will disable the features and prevent Bing from using your Facebook information to personalize your experience. If you want to disable the features later, you can do so by going to http://www.facebook.com/help/?faq=204873389548151. You can opt back in by clicking on the Facebook icon on the top right of the Bing page. For more information about these features, click here.
-
-In addition, Bing search and Microsoft Services Powered by Bing may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  An example of these additional personalization features is Local Scout on Windows Phone. 
-
-For these additional personalization features to work, you must first grant Facebook permission to share your data with Microsoft via the Facebook connect dialog boxes, which may include private data such as your photos on Facebook that are not marked public.   You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
+Bing search and Microsoft Services Powered by Bing also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  An example of these additional personalization features is Local Scout on Windows Phone. You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
 
 Bing Location ServicesBing Location Services
 
@@ -327,13 +320,15 @@ ChildrenChildren
 
 When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it.
 
-When consent is granted, the child’s account is treated much like any other account, including being able to communicate with other users. Parents can change or revoke consent as described in this privacy statement.
+When consent is granted, the child's account is treated much like any other account, including being able to communicate with other users.
 
-When a Microsoft site or service collects age information, it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it.We will not knowingly ask children under 13 to provide more information than is necessary to provide the service.
+Parents can change or revoke consent as described in this privacy statement.
 
-When consent is granted, the child’s account is treated much like any other account. The child may have access to communication services like e-mail, instant messaging and online message boards and may be able to communicate freely with other users of all ages.
+When a Microsoft site or service collects age information, it will either block users under 13 or will ask them to provide consent from a parent or guardian before they can use it. We will not knowingly ask children under 13 to provide more information than is necessary to provide the service.
 
-Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information. For example parents can visit their Microsoft account, and click on “Permissions".
+When consent is granted, the child's account is treated much like any other account. The child may have access to communication services like e-mail, instant messaging and online message boards and may be able to communicate freely with other users of all ages.
+
+Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information. For example, parents can visit their Microsoft account and click on "Permissions".
 
 Display of AdvertisingAdvertising
 
@@ -360,19 +355,25 @@ If you receive promotional emails from us and would like to stop getting them in
 
 You also have the option of proactively making choices about the receipt of promotional e-mail, telephone calls, and postal mail from Microsoft by visiting and signing into the Promotional Communications Manager allows you to update contact information, manage Microsoft-wide contact preferences, opt out of subscriptions, and choose whether to share your contact information with Microsoft partners. If you do not have a Microsoft account, you can manage your Microsoft email communication preferences by using this web form. These choices do not apply to the display of online advertising: please refer to the section "Display of Advertising (Opt-out)" for information on this matter. Nor do they apply to the receipt of mandatory service communications that are considered part of certain Microsoft services, which you may receive periodically unless you cancel the service.
 
-Microsoft AccountMicrosoft Account
+Microsoft accountMicrosoft account
 
-Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.When you create a Microsoft account, we ask you to provide certain information. When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. We also send certain information to a site or service you have signed into with your Microsoft account.
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners. When you create a Microsoft account, we ask you to provide certain information. When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. We also send certain information to a site or service you have signed into with your Microsoft account.
 
 To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More.
 
-Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners. This includes products, websites and services such as the following:
+
+*   Xbox Live.
+*   Microsoft Hotmail.
+*   Microsoft Office 2013.
+*   Windows Phone. and
+*   Windows 8.
 
 **Creating a Microsoft account.**
 
-You can create a Microsoft account here by providing an email address, a password and other “account proofs,” such as an alternate email address, a phone number, and a question and secret answer. We will use your “account proofs” for security purposes only - for instance, to verify your identity in the event that you cannot access your Microsoft account and need assistance, or to reset your password if you cannot access the email address associated with your Microsoft account. Some services may require added security, and in those cases, you may be asked to create an additional security key. The email address and password that you use to sign up for your Microsoft account are your “credentials” that you will use to authenticate with our network. Furthermore, a 64-bit unique ID number will be assigned to your credentials and will be used to identify your credentials and associated information.
+You can create a Microsoft account here by providing an email address, a password and other "account proofs", such as an alternate email address, a phone number, and a question and secret answer. We will use your "account proofs" for security purposes only - for instance, to verify your identity in the event that you cannot access your Microsoft account and need assistance, or to reset your password if you cannot access the email address associated with your Microsoft account. Some services may require added security, and in those cases, you may be asked to create an additional security key. The email address and password that you use to sign up for your Microsoft account are your "credentials" that you will use to authenticate with our network. Furthermore, a 64-bit unique ID number will be assigned to your credentials and will be used to identify your credentials and associated information.
 
-When you create a Microsoft account, we will also ask you to provide the following demographic information: gender. country. birthdate. and postal code.We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law. In addition, this demographic information is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems never get your name or contact information. In other words, our advertising systems do not contain or use any information that can personally and directly identify you (such as your name, email address and phone number). If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting Your privacy and Microsoft personalized ads so that whenever you sign into web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads. For more information about how Microsoft uses information for advertising, please see the Microsoft Advertising Privacy Statement.
+When you create a Microsoft account, we will also ask you to provide the following demographic information: gender. country. birthdate. and postal code. We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law. In addition, this demographic information is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems never get your name or contact information. In other words, our advertising systems do not contain or use any information that can personally and directly identify you (such as your name, email address and phone number). If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting this page so that whenever you sign into web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads. For more information about how Microsoft uses information for advertising, please see the Microsoft Advertising Privacy Supplement.
 
 You can use an email address provided by Microsoft (such as those ending in live.com, hotmail.com, or msn.com) or an email address provided by a third party (such as those ending in gmail.com or yahoo.com) when signing up for your Microsoft account.
 
@@ -386,15 +387,15 @@ When you sign into a site or service using your Microsoft account, we collect ce
 
 Some third party sites and services that permit you to sign in with your Microsoft account require your email address in order to provide you with their services. In those cases, when you sign in, Microsoft will provide your email address but not your password to the site or service. However, if you created your credentials with the site or service, it may have limited access to information associated with your credentials in order to help you reset your password or provide other support services.
 
-If you received your account from a third party, like a school, a business, an internet service provider, or the administrator of a managed domain, that third party may have rights over your account, including the ability to reset your password,view your account usage or profile data, read or store content in your account, and suspend or cancel your account. In these cases, you are subject to the Microsoft Service Agreement and to any additional terms of use from that third party. If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within such accounts.
+If you received your account from a third party, like a school, a business, an internet service provider, or the administrator of a managed domain, that third party may have rights over your account, including the ability to reset your password, view your account usage or profile data, read or store content in your account, and suspend or cancel your account. In these cases, you are subject to the Microsoft Service Agreement and to any additional terms of use from that third party. If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within such accounts.
 
-Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements. However, they can share the unique ID number provided to them by the Microsoft account service with third parties only in order to fulfill a service or transaction that you may have requested. All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary. **_You should carefully review the privacy statement for each site you sign into in order to determine how each site or service will use the information it collects._**
+Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements. However, they can share the unique ID number provided to them by the Microsoft account service with third parties only in order to fulfill a service or transaction that you may have requested. All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary. _**You should carefully review the privacy statement for each site you sign into in order to determine how each site or service will use the information it collects.**_
 
 **Accessing your personal information.**
 
-You can access your personal information by going to account. You can change your user name if your Microsoft account does not belong to a managed domain. You can always change your password, alternate email address, phone number, and question and secret answer. You may also close your Microsoft account by going to account, and then “Close your account.” If your account is in a managed domain, as described above, there may be a special process for closing your account. Please note that if you are an MSN or a Windows Live user, if you go to account, you may be redirected to account for those sites.
+You can access your personal information by going to account. You can change your user name if your Microsoft account does not belong to a managed domain. You can always change your password, alternate email address, phone number, and question and secret answer. You may also close your Microsoft account by going to account, and then "Close your account." If your account is in a managed domain, as described above, there may be a special process for closing your account. Please note that if you are an MSN or a Windows Live user, if you go to account, you may be redirected to account for those sites.
 
-More information about Microsoft account is available at the Microsoft account web site
+More information about Microsoft account is available at the Microsoft account web site.
 
 Other Important Privacy InformationOther Information
 
