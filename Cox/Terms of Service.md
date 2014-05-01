@@ -206,7 +206,27 @@ If You do not promptly return the Equipment or if it is damaged or encumbered, (
 
 **Breach of Agreement:** If You breach this Agreement, or any other agreement referenced herein, Cox has the right to terminate this Agreement and retrieve its equipment. Cox’s failure to require Your strict performance of any term of this Agreement shall not be a waiver of Cox’s right to require strict performance of any term or condition herein.
 
-**Entire Agreement:** This Agreement, any applicable tariffs and other agreements specifically referenced herein constitute the entire agreement between Cox and You for the subject matter hereof. Only Cox may make modifications to this document. The invalidity or unenforceability of any term of this Agreement shall not affect the validity or enforceability of any other provision.
+**Entire Agreement:** This Agreement, any applicable tariffs and other agreements specifically referenced herein constitute the entire agreement between Cox and You for the subject matter hereof. Only Cox may make modifications to this document. The invalidity or unenforceability of any term of this Agreement shall not affect the validity or enforceability of any other provision.  
+
+**CREDIT REPORT NOTICE**
+
+IF YOU WERE SUBJECT TO A CREDIT CHECK AND REQUIRED TO PAY A DEPOSIT PLEASE READ: 
+
+When you requested services from Cox Communications, you agreed to our obtaining a credit report from a consumer reporting agency. A credit report is a record of your credit history. It includes information about whether you pay your bills on time and how much you owe to creditors.
+
+Based on the information we received from the credit reporting agency, and our assessment of the risk associated with that information, Cox Communications may require a deposit before providing services to you. The terms offered to you may be less favorable than the terms offered to consumers who have better credit histories.
+
+You have a right to dispute any inaccurate information in your credit report, and we encourage you to do so. If you find mistakes on your credit report, contact Equifax which is the consumer reporting agency from which we obtained your credit report. Please note that Equifax did not make this decision and cannot explain to you why the decision was made. However, under Federal law, you have the right to obtain a copy of your credit report without charge for 60 days after you receive this notice. To obtain your free report, contact Equifax:
+
+**By telephone:** (888) 932-2324
+
+**By mail:** Equifax  
+PO Box 740241  
+Atlanta, GA 30371-0241  
+   
+**On the web:** www.equifax.com
+
+For more information about credit reports and your rights under Federal law, visit the Consumer Financial Protection Bureau's website at www.consumerfinance.gov/learnmore
 
 Price Lock Guarantee Agreement
 
