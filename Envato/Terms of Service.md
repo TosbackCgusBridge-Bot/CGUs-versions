@@ -1,3 +1,7 @@
+We've updated our User Terms and Conditions to make them easier to understand.
+
+The new terms can be found here.
+
 The following terms and conditions (**Terms and Conditions**) govern your use of this web site, and any content made available from or through the following Envato Marketplaces web sites (**Sites**), including but not limited to:
 
 **Site Name** **Accessible at:** ActiveDen www.activeden.net AudioJungle www.audiojungle.net CodeCanyon www.codecanyon.net GraphicRiver www.graphicriver.net ThemeForest www.themeforest.net VideoHive www.videohive.net 3DOcean www.3docean.net PhotoDune www.photodune.net
