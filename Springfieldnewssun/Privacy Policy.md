@@ -1,4 +1,4 @@
-marimo.emit('writecapture3110514\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": false, "html": "$NEWLINE\\t
+marimo.emit('writecapture59488985\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": false, "html": "$NEWLINE\\t
 
 **Privacy Policy**  
 Last Updated: November 27, 2012
@@ -83,6 +83,8 @@ $NEWLINE
 **Mobile Applications and Location-Based Information**. Our Service may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable our Service to use your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access our Service, then your device and/or your browser may automatically collect and/or transmit your device\\u2019s unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location.
 
 $NEWLINE
+
+\\u00a0
 
 $NEWLINE
 
@@ -194,4 +196,4 @@ $NEWLINE
 **CHANGES TO THIS PRIVACY STATEMENT**  
 We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the \\u201cLast Updated\\u201d date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.
 
-$NEWLINE ", "id": "writecapture3110514", "widget\_prototype": "writecapture\_widget"}).
+$NEWLINE ", "id": "writecapture59488985", "widget\_prototype": "writecapture\_widget"}).
