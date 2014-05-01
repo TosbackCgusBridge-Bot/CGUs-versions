@@ -182,7 +182,7 @@ While we use contractual and other measures to ensure protection of personal inf
 
 Personal Information Users Display on eBay
 
-Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you chose to share in your profile and your About Me Page. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities.
+Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you chose to share in your profile. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities.
 
 If you access our websites from a shared computer or a computer in an internet café, certain information about you, such as your User ID, activity or reminders from eBay, may also be visible to other individuals who use the computer after you.
 
