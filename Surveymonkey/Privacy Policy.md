@@ -17,6 +17,7 @@ SurveyMonkey®
     
 4.  Survey Services
     *   Buy Survey Responses
+    *   Buy a Multi-User Account
     *   Take Surveys
     *   Survey Design Services
     *   Telephone Surveys
@@ -59,7 +60,7 @@ This privacy policy applies to all the products, services and websites offered b
 
 **European Safe Harbors.** SurveyMonkey Inc. complies with the US-EU and US-Swiss Safe Harbor Frameworks developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries and Switzerland. We have certified, and TRUSTe has verified, that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. View our certification on the U.S. Department of Commerce's Safe Harbor website.
 
-**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301, USA, or electronically through this form. You may contact TRUSTe if feel your question has not been satisfactorily addressed.
+**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 101 Lytton Avenue, Palo Alto, CA 94301, USA, or electronically through this form. You may contact TRUSTe if feel your question has not been satisfactorily addressed.
 
 Key Privacy Points: The Stuff You Really Care About IF YOU CREATE SURVEYS:
 
