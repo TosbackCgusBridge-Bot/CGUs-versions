@@ -36,8 +36,6 @@ To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads
 
 If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
 
-To help pay for the Cocoon service, advertisements are shown on Cocoon pages. Ads that are shown in Cocoon are not based on your browsing history. If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
-
 Only operational information, such as processing speed or what features are under greatest demand, may be used to ensure Cocoon provides the best possible performance and experience to our users.
 
 We may revise this Privacy Policy from time to time in response to suggestions or as needed. The most current version will be posted here. If we make any changes to this policy we will notify users via their Cocoon mailslot. Continued use of Cocoon after those changes go into effect signifies agreement to the revised Privacy Policy.
