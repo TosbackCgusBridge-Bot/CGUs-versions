@@ -20,7 +20,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Starfish Collection
             *   Cardigan Shop
-            *   The Dressing Room
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -113,6 +112,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Kids Girls
             *   Swim
             *   Tops
+            *   Graphic Tees
             *   Sweaters &. Cardigans
             *   Sweatshirts &. Hoodies
             *   Dresses
@@ -132,6 +132,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Swim
             *   Shorts
             *   Tops
+            *   Graphic Tees
             *   Sweaters
             *   Sweatshirts &. Hoodies
             *   Pants
@@ -169,11 +170,11 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Categories
             *   Bedding
             *   Bath
-            *   Throws &. Home Décor
+            *   Blankets &. Throws
             *   Beach Towels
             *   Totes
             *   Storage &. Organization
-            *   Seasonal Décor &. Gifts
+            *   Home Décor &. Gifts
             *   Kitchen &. Dining
             *   Backpacks, Luggage &. Bags
             *   Kids Home
