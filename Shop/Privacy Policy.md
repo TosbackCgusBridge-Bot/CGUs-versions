@@ -189,9 +189,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   SPRING FLING Save up to 40%
+    *   SUPER SAVINGS Save up to 40%
         
-        on select home laptops through April 30.
+        on select home laptops through May 7.
         
         **Shop now >**
     *   ThinkPad Clearance Sale Limited Quantities
@@ -241,9 +241,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   SPRING FLING Save up to 26%
+    *   SUPER SAVINGS Save up to 26%
         
-        on select home tablets through April 30.
+        on select home tablets through May 7.
         
         **Shop now >**
     *   ThinkPad Clearance Sale Limited Quantities
@@ -286,9 +286,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   SPRING FLING Save up to 26%
+    *   SUPER SAVINGS Save up to 26%
         
-        on select home PCs through April 30.
+        on select home desktops through May 7.
         
         **Shop now >**
     *   ThinkPad Clearance Sale Limited Quantities
