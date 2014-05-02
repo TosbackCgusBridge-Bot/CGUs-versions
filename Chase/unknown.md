@@ -104,4 +104,4 @@ Changes to this Online Privacy Policy
 
 We may change this Online Privacy Policy from time to time.  When we do, we will let you know by appropriate means such as by posting the revised policy on this page with a new “Last Updated” date.  Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise.  
 
-Si tiene alguna pregunta, por favor llame o visíte una sucursal local de Chase.
+Si tiene alguna pregunta, por favor llame o visite una sucursal local de Chase.
