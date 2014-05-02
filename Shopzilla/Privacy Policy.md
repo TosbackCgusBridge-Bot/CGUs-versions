@@ -16,7 +16,7 @@ About Shopzilla
     *   Tech Blog
 *   Contact Us
 
-Go To …Company — Who We Are — Our Values — Meet Our LeadersBrandsSolutionsCareers — Open Positions — Benefits — EventsNewsBlogs — Life@The Zillage — Tech BlogContact Us You are here: Home / Privacy Policy Privacy Policy
+Go To …Company — Who We Are — Our Values — Meet Our LeadersBrandsSolutionsCareers — Open Positions — Benefits — EventsNewsBlogs — Life@The Zillage — Tech BlogContact Us Privacy Policy
 
 Effective Date &. Last Modified October 25, 2012.
 
