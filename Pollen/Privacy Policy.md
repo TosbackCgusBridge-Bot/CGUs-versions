@@ -62,6 +62,12 @@ We will never share or sell your personal information, including your email addr
 **5\. Delete/Deactivate Policy**  
 If you would like your information to be deleted or deactivated from our site, please contact us by e-mail using the contact information near the bottom of this statement.
 
+Thrid Party Vendors.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+
 Questions regarding this statement should be directed to:
 
 Pollen.com  
@@ -75,4 +81,4 @@ Or send us a message by clicking here.
 Important Information About Accepting/Declining Cookies
 
 Home  |   Site Map   |   Pollen Blog   |   F.A.Q.   |   Contact Us   |   About Us   |   Privacy Policy   |   Advertising   |   Allergy Links Copyright © 2014 IMS Health Incorporated. All rights reserved. Terms of Use  |  Pollen.com Mobile Site  
-Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 9/19/2012
+Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 5/1/2014
