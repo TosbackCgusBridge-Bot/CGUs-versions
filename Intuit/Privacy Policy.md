@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   CATHERINE
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola721 SERVER NAME :->. prod-c2-com-72101 TIME :->. Wed Apr 30 05:50:23 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola712 SERVER NAME :->. prod-c1-com-71201 TIME :->. Thu May 01 07:17:10 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,27 +43,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+Super Saturday Sale
+
+In store and online. Thursday, May 1 through Saturday May 3.
+
+Ease into summer with styles that fit your family and prices that fit your budget.
+
+shop the sale view store adIn Store Only
+
+Ends Saturday, May 3.
+
+$10 Off\* $25 or more.
+
+print store couponOnline Only
+
+Online Code: DOLPHIN2
+
+$30 Off\* $100 or more.
+
 In Store and Online
-
-Hurry! 3 days only, ends April 30.
-
-Extra 20% Off\* with your JCPenney Credit Card.
-
-\*20% Off subject to credit approval.
-
-Extra 15% Off\* with any method of payment.
-
-Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Love MOM Sale
+Online Code: LION33
 
-In store and online.
+\*See exclusions and details. Night and Day Doorbusters
 
-Fitting gifts for the coolest mom on the block.
+Excluded from coupon offer.
 
-shop the sale view store ad40% Off Select Dresses shop dresses 40-60% Off Select Fine Jewelry shop fine jewelry 40-50% Off Select Liz Claiborne shop Liz Claiborne 50% Off 2 Or More Select Bras, The Body, Elle Macpherson Intimates shop bras 30-50% Off Select St. John's Bay shop men's St. John's Bay 40-50% Off Select Kids' Arizona shop kids' Arizona 30-50% Off Select Home Decor shop home decor JCP Rewards
+In store only, Friday, May 2, 3PM until close, Saturday, May 3, 10AM until 1PM.
+
+view doorbusters store ad 40-60% Off Select Fine Jewelry shop fine jewelry 30-50% Off Select Worthington shop Worthington 40% Off Select Women's Pajamas and Robes shop women's sleepwear Sale $24.99-$29.99 Select Sandals For Her shop women's sandals 50% Off Select Haggar Pants shop Haggar pants 30-40% Off Select Small Appliances shop small appliances JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
