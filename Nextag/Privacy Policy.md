@@ -1,7 +1,6 @@
  
 
 *   Products
-*   Travel
 
 *   null
 *   Log In
@@ -175,7 +174,6 @@ Mobile Merchants My Account About Us Customer Service How Are We Doing?
 
 More Fun Stuff
 
-*   Travel
 *   Blog
 
 © 1999-2014, Nextag, Inc.
