@@ -1,6 +1,6 @@
-Last updated: November 12, 2013
+Last updated: May 2, 2014
 
-IMPORTANT NOTICE: Sprint's opt-in Mobile Advertising program, which makes the mobile ads you see on your device more relevant to you, and Sprint's opt-out Reporting and Analytics program, which creates and shares certain business and marketing reports, are governed by this privacy policy. We do not share any information that identifies you personally under either of these programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.  
+IMPORTANT NOTICE: Sprint's opt-in Mobile Advertising program, which allows Sprint to use information it collects to provide service to you to make the ads you see on your device more relevant, and Sprint's opt-out Reporting and Analytics program, which creates and shares certain business and marketing reports, are governed by this privacy policy. We do not share any information that identifies you personally under either of these programs. For detailed information on these programs and to learn how to opt in or out, please visit sprint.com/privacy.  
 (En Español)
 
 Sprint Corporation Privacy Policy
@@ -20,7 +20,7 @@ This Privacy Policy ("Policy") describes how Sprint Corporation ("Sprint") will 
 
 INFORMATION COLLECTED
 
-We collect personal information about you in various ways. We may also get information from other sources and may combine it with information we collect about you. Personal information does not include information that is not used to identify you, including aggregate or anonymous information.
+We collect personal information about you in various ways. We may also get information from other sources, including from affiliates, and may combine it with information we collect about you. Personal information does not include information that is not used to identify you, including aggregate or anonymous information.
 
 Information you give us. The personal information we collect includes information you give us, such as name, postal address, telephone number, e-mail address, date of birth, social security number or other government identification number, demographics, activities, location information, and personal preferences. You may give us information in a variety of ways, including when you sign up for Services, communicate with customer care or register on www.sprint.com.
 
@@ -45,7 +45,9 @@ Back to top
 
 INFORMATION WE SHARE
 
-We do not share your personal information with third parties other than as follows:
+We do not share information that identifies you personally with third parties other than as follows:
+
+Affiliates. We may share personal and non-personal information with affiliated entities for approved business purposes.
 
 Service Providers. We may share personal information with third parties who perform services on our behalf.
 
@@ -70,7 +72,7 @@ Protection of Sprint and Others. We may access, monitor, use or disclose your pe
 We may share information that is de-identified or in an aggregated form that does not directly identify you. We share de-identified or aggregate information for purposes such as to:
 
 *   Conduct market or traffic flow analysis and reporting or produce or facilitate production by others of business and marketing reports to share with third parties. For example, we may aggregate customer information across a particular region and create a report showing that 10,000 subscribers from a given city visited a sports stadium. If you do not wish for us to use your information to produce de-identified and aggregated data sets in the reports we share with third parties, you may opt out at any time. See sprint.com/privacy for details.
-*   With your opt-in consent only, customize or personalize advertising you see when using your wireless device to access the internet or mobile applications. We may use information about your mobile web browsing to deliver more relevant advertisements tailored to your interests, and we may share de-identified information with third parties so that they can tailor their advertising to your interests. To receive ads more relevant to your interests, you must opt in to this use and sharing of your information. See sprint.com/privacy for details on how to do so.
+*   With your opt-in consent only, customize or personalize advertising based on information we collect about your use of your wireless device in order to provide wireless service to you. For example, we may use information about your mobile web browsing or use of mobile applications to deliver advertisements tailored to your interests, and we may share de-identified information about your use of your device with third parties so that they can tailor advertising to your interests based on that information. To participate in this program, you must opt in. See sprint.com/privacy for details on how to do so.
 
 Back to top
 
@@ -94,7 +96,7 @@ Back to top
 
 CHILDREN
 
-You must be 18 to subscribe to Sprint services. Nevertheless, as part of the Unlimited, My Way Student Promotion, a parent or legal guardian may provide a Sprint device to a child under the age of 13. In such cases, Sprint takes steps to minimize the data it collects from Sprint applications on the device and provides parents resources to control the information children can share with other parties. In some instances, a parent may be able to review or request deletion of the personal information collected from a child's device, or take steps to prevent further collection of such information. If you have any questions about Sprint's policies for student phones or about how to control the information collected on them from users under 13, or if you wish to correct or delete any personal information provided to Sprint on a student phone used by a child under 13, you can contact us using the contact information below. You may also control the content your child may access by logging into sprint.com/manage, and reviewing the My Preferences tab.
+You must be 18 or otherwise have legal capacity to subscribe to Sprint services. Nevertheless, as part of the Unlimited, My Way Student Promotion, a parent or legal guardian may provide a Sprint device to a child under the age of 13. In such cases, Sprint takes steps to minimize the data it collects from Sprint applications on the device and provides parents resources to control the information children can share with other parties. In some instances, a parent may be able to review or request deletion of the personal information collected from a child's device, or take steps to prevent further collection of such information. If you have any questions about Sprint's policies for student phones or about how to control the information collected on them from users under 13, or if you wish to correct or delete any personal information provided to Sprint on a student phone used by a child under 13, you can contact us using the contact information below. You may also control the content your child may access by logging into sprint.com/manage, and reviewing the My Preferences tab.
 
 Back to top
 
