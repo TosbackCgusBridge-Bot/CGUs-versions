@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   Penny
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola852 SERVER NAME :->. prod-c2-com-0402 TIME :->. Sat May 03 05:27:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l1-com-82401 TIME :->. Sun May 04 11:19:28 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,49 +43,55 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale
-
-In store and online. Thursday, May 1 through Saturday May 3.
-
-Ease into summer with styles that fit your family and prices that fit your budget.
-
-shop the sale view store adIn Store Only
-
-Ends Saturday, May 3.
-
-$10 Off\* $25 or more.
-
-print store couponOnline Only
-
-Online Code: DOLPHIN2
-
-$30 Off\* $100 or more.
-
 In Store and Online
+
+Hurry—4 days only! Ends May 7.
+
+Online Code: 2SUNNY
+
+Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Online Code: LION33
+\*See exclusions and details. print store coupon Love MOM Sale
 
-\*See exclusions and details. Night and Day Doorbusters
+Fitting gifts for mom that won't break the piggy bank.
 
-Excluded from coupon offer.
+shop the sale view store ad 30-50% Off Select Worthington shop Worthington 40% Off Select Dresses shop dresses #MOMISMS
 
-In store only, Friday, May 2, 3PM until close, Saturday, May 3, 10AM until 1PM.
+You could win a $100 JCPenney gift card.
 
-view doorbusters store ad 40-60% Off Select Fine Jewelry shop fine jewelry 30-50% Off Select Worthington shop Worthington 40% Off Select Women's Pajamas and Robes shop women's sleepwear Sale $24.99-$29.99 Select Sandals For Her shop women's sandals 50% Off Select Haggar Pants shop Haggar pants 30-40% Off Select Small Appliances shop small appliances JCP Rewards
+get details Get It By Mother's Day
+
+$5 express shipping over $99.
+
+Select 3-day shipping by 1PM CDT on May 7.
+
+get details 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 20-40% Off Select Watches shop watches 40-50% Off Select Women's Sleepwear shop women's sleepwear 25-40% Off Select Handbags shop handbags 30-40% Off Select Small Appliances
+
+Excluded from coupon.
+
+shop small appliances KitchenAid Classic 4.5-qt. Stand Mixer
+
+$199.99 after mail-in rebate. Sale $229.99, regularly $350.
+
+shop KitchenAid stand mixer 40-50% Off Select Carter's shop Carter's JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up todayGift Cards
+sign up today Gift Cards
 
 Always fits, never expires.
 
-shop gift cardsLove MOM
+shop gift cards Love MOM
 
 Mother's Day is May 11.
 
-shop Mother's Day giftsRed Zone Clearance Selections shop clearance
+shop Mother's Day gifts Red Zone Clearance Selections shop clearance
 
 get connected
 
