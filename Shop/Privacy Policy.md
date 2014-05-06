@@ -189,14 +189,14 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
+    *   Congrats Grads! Save up to 20%
+        
+        on select professional laptops! Sale ends May 14.
+        
+        **Shop now >**
     *   SUPER SAVINGS Save up to 40%
         
         on select home laptops through May 7.
-        
-        **Shop now >**
-    *   ThinkPad Clearance Sale Limited Quantities
-        
-        Save BIG on select ThinkPad Laptops while supplies last.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -222,6 +222,7 @@ Lenovo United States Select a country/region
         *   Lenovo Yoga Tablet 8:8" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10 HD+:10.1" Multimode Tablet with Dazzling Display
+        *   Lenovo A10:10" Wideview Android Tablet
         *   Lenovo A1000L:7" Affordable Entertainment Tablet
         *   Lenovo A3000:7" Tablet With Enhanced Performance
         *   Lenovo S5000: 7" Enhanced Multimedia Tablet
@@ -232,7 +233,6 @@ Lenovo United States Select a country/region
         *   ThinkPad 8:8.3" Multimode Business Tablet
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Tablet 2:10.1" Business Tablet
-        *   Lenovo Miix 2 8":8" Tablet with PC-Level Processor
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     *   ConvertiblesFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Flex:Multimode Laptops
@@ -241,14 +241,14 @@ Lenovo United States Select a country/region
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
+    *   Congrats Grads! Save up to 20%
+        
+        on select professional tablets! Sale ends May 14.
+        
+        **Shop now >**
     *   SUPER SAVINGS Save up to 26%
         
         on select home tablets through May 7.
-        
-        **Shop now >**
-    *   ThinkPad Clearance Sale Limited Quantities
-        
-        Save BIG on select ThinkPad Tablets while supplies last.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -286,14 +286,14 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
+    *   Congrats Grads! Save up to 5%
+        
+        on select professional desktops! Sale ends May 14.
+        
+        **Shop now >**
     *   SUPER SAVINGS Save up to 26%
         
         on select home desktops through May 7.
-        
-        **Shop now >**
-    *   ThinkPad Clearance Sale Limited Quantities
-        
-        Save BIG on select ThinkCentre desktops while supplies last.
         
         **Shop now >**
     *   Less is More
