@@ -1,10 +1,16 @@
 *   Home
 *   Cloud Smartphone Integration
+    *   New CSI Page
+    *   Mobile App
+    *   Phone Remote
 *   About Phonedeck
 *   Contact Us
 
 *   Home
 *   Cloud Smartphone Integration
+    *   New CSI Page
+    *   Mobile App
+    *   Phone Remote
 *   About Phonedeck
 *   Contact Us
 
@@ -65,7 +71,7 @@ Start a free 14 day trial of Phonedeck CSI today! Go to AppExchange Menu
 
 About Phonedeck
 
-Phonedeck is a remote management service for mobile phones and a brand of desk.io GmbH. Established in 2010, our Berlin-based company was founded by CEO Dr. Frank Fitzek, COO Gerrit Schulte and chairman Christophe Maire. Our ever-growing team is a blend of passionate and talented people from all over Europe.
+The Phonedeck product series is being developed by Berlin based desk.io company. Senior experts in mobile communication and young development talents are creating a new user experience for Customer Relationship Management (CRM) by connecting mobile calls with the Salesforce Sales Cloud, the leading CRM platform.
 
 Recent Blog Posts
 
