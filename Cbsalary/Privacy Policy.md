@@ -1,22 +1,18 @@
-Skip to job search form Skip navigation     Employers: Post Jobs | Search Resumes    Sign In Register    Help    Security
+Skip to job search form Skip navigation     Employers: Post Jobs | Search Resumes    Already Registered? Sign In >>.    Help    Security
 
 *   My CareerBuilder
     *   My CareerBuilder
     *   Saved Jobs and Applications
     *   Post Resume
     *   Fraud Protection
-*   Find  
-    Jobs
-    *   Find  
-        Jobs
+*   Find Jobs
+    *   Find Jobs
     *   Setup Email Alert
     *   Advanced Search
     *   Company Search
 *   Job Recommendations
-*   Post  
-    Resumes
-    *   Post  
-        Resumes
+*   Post Resumes
+    *   Post Resumes
     *   Resume Writing
 *   Advice &. Resources
     *   Advice &. Resources
@@ -24,7 +20,7 @@ Skip to job search form Skip navigation     Employers: Post Jobs | Search Resu
     *   Salary Calculator
     *   hireINSIDER
 
-How Much Do You Make?
+Search Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Save a Search >>. Saved Searches How Much Do You Make?
 
 Find annual salaries and compare average salary information locally.  
 Search now to discover how much you can make.
