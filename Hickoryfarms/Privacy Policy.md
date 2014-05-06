@@ -1,4 +1,4 @@
-click here for allergy alert on chipotle ranch sauce. 1.800.753.8558 Find your local store Skip to content
+1.800.753.8558 Find your local store Skip to content
 
 *   Login
 *   Register
@@ -54,7 +54,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by May 5th for Mother's Day Standard Delivery
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by 3pm EST May 7th for Mother's Day 2 Day Delivery!
 
 1.  Home
 2.  Customer Service
