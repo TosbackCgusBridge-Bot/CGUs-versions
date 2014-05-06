@@ -8,18 +8,19 @@ alt="Click this Mojo Ad" border="0">
 Campus Main Menu
 
 *   Online Degrees
-    *   All Degrees
-    *   Online Degrees
-    *   Campus Degrees Programs
+    *   Business
+    *   Criminal Justice &. Legal
+    *   Education
+    *   Fine Arts &. Design
+    *   Health &. Medicine
+    *   Liberal Arts &. Humanities
+    *   Math, Science &. Engineering
+    *   Public Affairs &. Social Sciences
+    *   Religious Studies
+    *   Technology
+    *   Vocational Training
 *   Online Certificates
-    *   All Certificates
-    *   Online Certificates Programs
-    *   Campus Certificate Programs
 *   Online Courses
-    *   All Courses
-    *   Online Courses
-    *   Campus Courses
-    *   Online Tutorials
 *   Online Colleges
 *   Local Colleges
 *   College Resources
