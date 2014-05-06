@@ -1,316 +1,232 @@
-Subaru Confidence In Motion
+ 
 
-*   Log Into MySubaru
-*   Customer Support
+*    For Owners
+*    Customer Support
+*    Search
 
-*   Home
-*   Vehicles View All Vehicles BRZ Starting at **$25,595** 2014 BRZ
-    
-    Starting at
-    
-    $25,595
-    
-    MSRP\*
-    
-    Up to
-    
-    34/25 MPG\*\*
-    
-    Highway/City
-    
-    Buttoned-up engineering, unbuttoned.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    BRZ Limited shown
-    
-    Impreza Starting at **$17,895** 2014 Impreza
-    
-    Starting at
-    
-    $17,895
-    
-    MSRP\*
-    
-    Up to
-    
-    36/27 MPG\*\*
-    
-    Highway/City
-    
-    Plenty of smart and fun options that will make you fall in love with your car.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    Impreza 2.0i Limited shown
-    
-    WRX Starting at **$26,295** 2015 WRX
-    
-    Starting at
-    
-    $26,295
-    
-    MSRP\*
-    
-    Up to
-    
-    28/21 MPG\*\*
-    
-    Highway/City
-    
-    If you like fast, you'll love faster.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    WRX Premium shown
-    
-    Legacy Starting at **$20,295** 2014 Legacy
-    
-    Starting at
-    
-    $20,295
-    
-    MSRP\*
-    
-    Up to
-    
-    32/24 MPG\*\*
-    
-    Highway/City
-    
-    Intelligence you can feel.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    Legacy 3.6R Limited shown
-    
-    Introducing the  
-    all-new 2015 Subaru Legacy Forester Starting at **$22,195** 2015 Forester
-    
-    Starting at
-    
-    $22,195
-    
-    MSRP\*
-    
-    Up to
-    
-    32/24 MPG\*\*
-    
-    Highway/City
-    
-    A whole lot to love.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    Forester 2.5i Touring shown
-    
-    XV Crosstrek Starting at **$21,995** 2014 XV Crosstrek
-    
-    Starting at
-    
-    $21,995
-    
-    MSRP\*
-    
-    Up to
-    
-    33/25 MPG\*\*
-    
-    Highway/City
-    
-    Love where it takes you.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    XV Crosstrek 2.0i Limited shown
-    
-    Introducing the  
-    2014 XV Crosstrek Hybrid Outback Starting at **$23,495** 2014 Outback
-    
-    Starting at
-    
-    $23,495
-    
-    MSRP\*
-    
-    Up to
-    
-    30/24 MPG\*\*
-    
-    Highway/City
-    
-    When leaving it all behind, start with your limitations.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    Outback 2.5i Premium shown
-    
-    Introducing the  
-    all-new 2015 Subaru Outback. Tribeca Starting at **$34,095** 2014 Tribeca
-    
-    Starting at
-    
-    $34,095
-    
-    MSRP\*
-    
-    Up to
-    
-    21/16 MPG\*\*
-    
-    Highway/City
-    
-    Roomy interior, stylish exterior. It’s the best of all worlds.
-    
-    Explore
-    
-    *   Overview
-    *   Photos &. Videos
-    *   Compare
-    *   Build Your Own
-    
-    Tribeca 3.6R Limited shown
-    
-    Certified Pre-Owned
-    *   Certified Pre-Owned
-        
-        Fully checked, factory-covered
-        
-        and ready for more adventures.
-        
-*   Why Subaru   All Things Subaru See all the things that make Subaru vehicles so loved.     Enjoy Life Explore the versatility to make every day an adventure.     Stay Safe Learn what goes into every Subaru to protect you.     Love Every Mile See why an owner’s love for Subaru lasts forever.  
-    
-    *   Environment
-        
-        See what we're doing to be a leader in green initiatives.
-        
-    *   Events
-        
-        Search for things to do near you, with the help of Subaru.
-        
-    *   Social Responsibility
-        
-        Discover why, to us, love is more than a tagline.
-        
-    *   Partnerships
-        
-        Learn more about the Subaru partners and charities.
-        
-    
-    More
-    *   Overview
-    *   Compare Vehicles
-    *   Engineering &. Technology
-    *   Awards &. Accolades
-    *   Dear Subaru
-    *   Live. Love.
+*   Subaru Confidence In Motion
+*   Vehicles
 *   Shopping Tools
-    
-    *   Special Offers
-        
-        See all the national deals for every Subaru model.
-        
-    *   Local Inventory
-        
-        See what your local Subaru dealer has available today.
-        
-    *   Request a Quote
-        
-        Get the most precise number on the Subaru you want.
-        
-    
-    *   Payment Calculator
-        
-        Estimate your monthly cost based on finance rate and trade-in.
-        
-    *   Trade-In Appraisal
-        
-        Get a quick look at how much your current vehicle is worth.
-        
-    *   Apply for Financing
-        
-        See if you qualify for  
-        pre-approved financing.
-        
-    
-    More
-    *   Overview
-    *   Compare Vehicles
-    *   Estimate Credit Score
-    *   Extended Service Plans
-    *   View a Brochure
-    *   Financing Options
-*   For Owners
-    
-    *   MySubaru Vehicles
-        
-        Keep track of your vehicle records online and get valuable service coupons.
-        
-    *   Resource Center
-        
-        Key resources for some of the most often asked vehicle features.
-        
-    *   Enthusiasts
-        
-        Subaru Gear, owner stories, Subaru Rally, events, publications and more.
-        
-    
-    *   Benefits of Ownership
-        
-        Learn more about Subaru added protection and insurance discounts.
-        
-    *   Parts &. Service
-        
-        Shop parts, accessories &. tires online. Download Subaru parts brochures.
-        
-    *   Guaranteed Trade-In Program
-        
-        Trading up? Get the most value for your old Subaru.
-        
-    
-    More
-    *   Overview
-    *   Publications
-    *   Love Every Mile
+*   Why Subaru
+*   Build Your Own
+*   Find a Dealer
+
+See All Vehicles Find Your Subaru See All Vehicles BRZ $25,595 starting price 2014 BRZ
+
+Starting at
+
+$25,595 MSRP
+
+Up to
+
+34/25MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
 *   Build Your Own
 
-Change Find a Dealer Company
+BRZ Limited shown
+
+Impreza $17,895 starting price 2014 Impreza
+
+Starting at
+
+$17,895 MSRP
+
+Up to
+
+36/27MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+2014 Impreza 2.0i Sport Limited shown
+
+WRX $26,295 starting price 2015 WRX
+
+Starting at
+
+$26,295 MSRP
+
+Up to
+
+28/21MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+WRX Premium shown
+
+Legacy $20,295 starting price 2014 Legacy
+
+Starting at
+
+$20,295 MSRP
+
+Up to
+
+32/24MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+Introducing the all-new  
+2015 Subaru Legacy
+
+Legacy 3.6R Limited shown
+
+Forester $22,195 starting price 2015 Forester
+
+Starting at
+
+$22,195 MSRP
+
+Up to
+
+32/24MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+Forester 2.5i Touring shown
+
+XV Crosstrek $21,995 starting price 2014 XV Crosstrek
+
+Starting at
+
+$21,995 MSRP
+
+Up to
+
+33/25MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+Introducing the  
+2014 XV Crosstrek Hybrid
+
+XV Crosstrek 2.0i Limited shown
+
+Outback $23,495 starting price 2014 Outback
+
+Starting at
+
+$23,495 MSRP
+
+Up to
+
+30/24MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+Introducing the all-new  
+2015 Subaru Outback
+
+Outback 2.5i Premium shown
+
+Tribeca $34,095 starting price 2014 Tribeca
+
+Starting at
+
+$34,095 MSRP
+
+Up to
+
+21/16MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+Tribeca 3.6R Limited shown
+
+Certified Pre-Owned Certified Pre-Owned
+
+Fully checked, factory-covered and ready for more adventures.
+
+Search Inventory   Compare
+
+Compare Subaru models and other car manufacturers.
+
+Local Inventory
+
+See what your local Subaru dealer has available today.
+
+Calculator
+
+Estimate your monthly cost based on finance rate and trade-in.
+
+Special Offers
+
+See all the national deals for every Subaru model.
+
+Request a Quote
+
+Get the most precise number on the Subaru you want.
+
+Financing
+
+Find information on financing or leasing your new Subaru.
+
+*   Estimate Credit Score
+*   Extended Service Plans
+*   Trade-In Appraisal
+*     View a Brochure
+
+All Things Subaru  
+
+See all the things that make Subaru vehicles so loved.
+
+Enjoy Life  
+
+Explore the versatility to make every day an adventure.
+
+Stay Safe  
+
+Learn what goes into every Subaru to protect you.
+
+Love Every Mile  
+
+See why an owner's love for Subaru lasts forever.
+
+*   Environment
+    
+    See what we're doing to be a leader in green initiatives.
+    
+*   Events
+    
+    Search for things to do near you, with the help of Subaru.
+    
+*   Partnerships
+    
+    Learn more about the Subaru partners and charities.
+    
+
+*   Compare Vehicles
+*   Engineering and  
+    Technology
+*   Social Responsibility
+*   Awards and Accolades
+*   Dear Subaru
+*   Live. Love.
+
+GO Company
 
 *   Overview
 *   Partnerships
@@ -423,9 +339,8 @@ Explore Subaru
 *   View a Brochure
 *   Why Subaru
 *   Build Your Own
-*   Financial Tools
+*   Shopping Tools
 *   Find a Dealer
-*   Owners
 *   Certified Pre-Owned
 *   Site Map
 
@@ -456,6 +371,14 @@ Responsibility
 *   SOA Foundation
 *   Environment
 
+Owners
+
+*   MySubaru
+*   Resource Center
+*   Benefits of Ownership
+*   Parts &. Service
+*   Guaranteed Trade-In Program
+
 Other Sites
 
 *   Subaru Motors Finance
@@ -464,28 +387,19 @@ Other Sites
 *   STIS
 *   Order Subaru Parts
 
-Connect
-
-*   Like us
-*   Follow us
-*   See our videos
-*   Follow on Pinterest
-*   Follow on Instagram
-*   Get email updates
-
-*   Customer Support
+Connect with Subaru Get Email Updates Customer Support
 
 *   Privacy Policy
 *   California Privacy Policy
 *   MySubaru Privacy Policy
-*   AdChoices
+*   Ad Choices
 
 *   English
 *   中文 Chinese
 
-**© Subaru of America, Inc.** Use of this site signifies your acceptance of the Terms &. Conditions
+© Subaru of America, Inc. Use of this site signifies your acceptance of the Terms &. Conditions
 
-LEGAL
+Legal Disclaimers
 
 \* Manufacturer's suggested retail price does not include destination and delivery charges, tax, title and registration fees. Destination and delivery includes handling and inland freight fees and may vary in some states. Prices, specifications, options, features and models subject to change without notice.
 
