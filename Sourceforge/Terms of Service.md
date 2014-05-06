@@ -1,4 +1,4 @@
-Terms of Use **TERMS OF USE AGREEMENT • SLASHDOT MEDIA** LAST UPDATED: MAY 10, 2013 **1\. Legal Information**
+Terms of Use **TERMS OF USE AGREEMENT • SLASHDOT MEDIA** LAST UPDATED: MAY 5, 2014 **1\. Legal Information**
 
 SLASHDOT MEDIA AND DICE INC. (“**SLASHDOT MEDIA**,” “**DICE**,” “**COMPANY**,” “**WE**,” “**US**”) PROVIDE THE INTERNET SITES SOURCEFORGE.NET, SLASHDOT.ORG, AND FREECODE.COM AND ALL SITE-RELATED SERVICES, INCLUDING THE CONTENT AND CODE RELATED THERETO (COLLECTIVELY, THE “**SITE**,” “**SITES**”), SUBJECT TO YOUR COMPLIANCE WITH THE TERMS AND CONDITIONS SET FORTH BELOW. PLEASE READ THIS TERMS OF USE AGREEMENT (“**AGREEMENT**“) CAREFULLY BEFORE USING THIS SITE.
 
@@ -14,7 +14,7 @@ You must be at least 13 years of age to use any of the Sites. If you are at leas
 
 **2\. Ownership. Proprietary Notices**
 
-© 1990 – 2013 Dice Inc. All Rights Reserved.  
+© 1990 – 2014 Dice Inc. All Rights Reserved.  
 The Sites are the property of Dice Inc.
 
 Slashdot Media and Dice, the Slashdot Media and Dice logos and other Slashdot Media and Dice trademarks including “SLASHDOT,” “NEWS FOR NERDS, STUFF THAT MATTERS,” “FREECODE,” “SOURCEFORGE.NET,” the Sourceforge.net logo, the freecode.com logo, the Slashdot.org logo, service marks, and product and service names are Dice trademarks or registered trademarks in the United States and in other countries (the “Dice Marks”). All other trademarks and/or service marks used in this Site are the trademarks and/or service marks of their respective owners.
@@ -116,9 +116,7 @@ If you believe that your work has been copied and is accessible on this site in 
 > g. Send written communication to the following contact:  
 > Dice Inc.  
 > 1040 Avenue of the Americas  
-> 16th Floor  
 > New York, NY 10018  
-> (tel) 212-725-6550,  
 > Attention: Vice President Business Affairs &. General Counsel.  
 >   
 > i. Send electronically-signed communication to dmca@sourceforge.net. A copy of your notice (with your personal contact information removed) may be forwarded to Chilling Effects (http://www.chillingeffects.org) for publication. A link to your published notice may also be displayed in SourceForge.net’s search results in place of the removed material.
@@ -140,9 +138,7 @@ To expedite our ability to process your counter notification, please use the fol
 > e. Send written communication to the following address:  
 > Dice Inc.  
 > 1040 Avenue of the Americas  
-> 16th Floor  
 > New York, NY 10018  
-> (tel) 212-725-6550  
 > Attention: Vice President Business Affairs &. General Counsel.  
 >   
 > f. Send electronically- or digitally-signed communication to dmca@sourceforge.net. Upon receipt of a counter notification in substantial compliance with the DMCA, Slashdot Media will provide the person who provided the initial notification of claimed infringement with a copy of the counter notification promptly. After receipt of the counter notification, Slashdot Media will generally replace the removed material and cease disabling access to it, unless Slashdot Media’s designated agent first receives notice from the person who submitted the initial notification that such person has filed an action seeking a court order regarding the removed material.  
