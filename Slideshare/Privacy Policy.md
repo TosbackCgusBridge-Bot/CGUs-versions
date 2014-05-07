@@ -1,4 +1,4 @@
-Privacy Policy | LinkedIn Skip to main content LinkedIn Home
+Skip to main content LinkedIn Home
 
 *   What is LinkedIn?
 *   Join Today
