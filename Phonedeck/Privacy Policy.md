@@ -1,6 +1,5 @@
 *   Home
 *   Cloud Smartphone Integration
-    *   New CSI Page
     *   Mobile App
     *   Phone Remote
 *   About Phonedeck
@@ -8,7 +7,6 @@
 
 *   Home
 *   Cloud Smartphone Integration
-    *   New CSI Page
     *   Mobile App
     *   Phone Remote
 *   About Phonedeck
@@ -75,6 +73,7 @@ The Phonedeck product series is being developed by Berlin based desk.io company.
 
 Recent Blog Posts
 
+*   Phonedeck connects the iPhone with the Cloud Services of Salesforce.com May 6, 2014
 *   Thanks for visiting Phonedeck at Dreamforce ’13 November 26, 2013
 *   Press Release: Phonedeck CSI November 13, 2013
 *   Dreaming November 8, 2013
