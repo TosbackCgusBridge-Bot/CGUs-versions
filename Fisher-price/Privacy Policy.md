@@ -34,9 +34,6 @@
 *   Baby
 *   Gear, toys, and more essentials for baby
 
-*   Sweeps
-*   Share the Joy Sweepstakes Official Rules
-
 *   Family Playtime
 *   Playtime Guide
 *   Sharing Moments of Joy
