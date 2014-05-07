@@ -20,6 +20,7 @@
     *   VH1 Classic
     *   VH1 Soul
     *   VH1 You Oughta Know
+    *   VH1 Make A Band Famous
 *   Shop
 
 *   Follow VH1
