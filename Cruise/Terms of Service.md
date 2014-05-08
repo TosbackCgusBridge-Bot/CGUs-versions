@@ -109,4 +109,4 @@ Many people book another cruise whilst onboard as you often receive special deal
 "Many of the flights and flight-inclusive holidays on this website are financially protected by the ATOL scheme. But ATOL protection does not apply to all holiday and travel services listed on this website. Please ask us to confirm what protection may apply to your booking. If you do not receive an ATOL Certificate then the booking will not be ATOL protected. If you do receive an ATOL Certificate but all the parts of your trip are not listed on it, those parts will not be ATOL protected. Please see our booking conditions for information, or for more information about financial protection and the ATOL Certificate go to:www.atol.org.uk/ATOLCertificate"
 
 **"CALL RECORDING"  
-**Calls may be recorded for training &. quality purposes.
+**Calls and phone numbers are recorded for training, marketing &. quality purposes.
