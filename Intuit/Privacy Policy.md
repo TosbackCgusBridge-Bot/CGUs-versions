@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Emily
+*   Welcome  
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena834 SERVER NAME :->. prod-l1-com-83402 TIME :->. Tue May 06 10:49:56 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena721 SERVER NAME :->. prod-l1-com-72101 TIME :->. Wed May 07 05:43:30 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,7 +45,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Hurry—4 days only! Ends May 7.
+Last Day! Ends May 7.
 
 Online Code: 2SUNNY
 
@@ -71,7 +71,13 @@ $5 express shipping over $99.
 
 Select 3-day shipping by 1PM CDT on May 7.
 
-get details 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 20-40% Off Select Watches shop watches 40-50% Off Select Women's Sleepwear shop women's sleepwear 25-40% Off Select Handbags shop handbags 30-40% Off Select Small Appliances
+get details JCPenney Rewards Wednesday
+
+Earn your $10 JCP Reward faster with double points!
+
+Earn one monthly $10 jcp reward when you spend $50 or more on qualifying purchases on Wednesdays.
+
+get offer details and learn more 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 20-40% Off Select Watches shop watches 40-50% Off Select Women's Sleepwear shop women's sleepwear 25-40% Off Select Handbags shop handbags 30-40% Off Select Small Appliances
 
 Excluded from coupon.
 
