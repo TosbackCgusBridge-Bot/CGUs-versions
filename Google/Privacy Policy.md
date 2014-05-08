@@ -1,8 +1,8 @@
-Política de Privacidade
+Política de Privacidade Informações que coletamos Como usamos as informações que coletamos Transparência e escolha Informações que você compartilha Acesso e atualização de suas informações pessoais Informações que compartilhamos Segurança das informações Quando esta Política de Privacidade se aplica Compliance e cooperação com as autoridades reguladoras Alterações Práticas específicas de produto Outros materiais úteis relacionados a privacidade e segurança Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 20 de dezembro de 2013 (visualizar versões arquivadas)
+Última modificação: 31 de março de 2014 (visualizar versões arquivadas)
 
-Existem muitas maneiras diferentes pelas quais você pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo. Quando você compartilha informações conosco, por exemplo, criando uma Conta do Google, podemos tornar esses serviços ainda melhores – mostrar-lhe resultados de pesquisa e anúncios mais relevantes, ajudá-lo a se conectar com pessoas ou tornar o compartilhamento com outras pessoas mais rápido e fácil. Quando você usa nossos serviços, queremos ser claros quanto ao modo como estamos usando suas informações e ao modo como você pode proteger sua privacidade.
+Existem muitas maneiras diferentes pelas quais você pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo. Quando você compartilha informações conosco, por exemplo, criando uma Conta do Google, podemos tornar esses serviços ainda melhores – mostrar-lhe resultados de pesquisa e anúncios mais relevantes, ajudá-lo a se conectar com pessoas ou tornar o compartilhamento com outras pessoas mais rápido e fácil. Quando você usa nossos serviços, queremos ser claros quanto ao modo como estamos usando suas informações e ao modo como você pode proteger sua privacidade.
 
 Nossa Política de Privacidade explica:
 
@@ -14,7 +14,7 @@ Tentamos manter tudo o mais simples possível, mas se você não estiver familia
 
 Informações que coletamos
 
-Coletamos informações para fornecer serviços melhores a todos nossos usuários – desde descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como os anúncios que você achará mais úteis ou as pessoas on-line que são mais importantes para você.
+Coletamos informações para fornecer serviços melhores a todos nossos usuários – desde descobrir coisas básicas, como o idioma que você fala, até coisas mais complexas, como os anúncios que você achará mais úteis ou as pessoas on-line que são mais importantes para você..
 
 Coletamos informações de duas maneiras:
 
@@ -45,16 +45,16 @@ Coletamos informações de duas maneiras:
         
     *   **Armazenamento local**
         
-        Podemos coletar e armazenar informações (inclusive informações pessoais) localmente em seu dispositivo usando mecanismos como armazenamento no navegador da web (inclusive HTML 5) e caches de dados de aplicativo.
+        Podemos coletar e armazenar informações (inclusive informações pessoais) localmente em seu dispositivo usando mecanismos como armazenamento no navegador da web (inclusive HTML 5) e caches de dados de aplicativo.
         
     *   **Cookies e identificadores anônimos**
         
-        Usamos várias tecnologias para coletar e armazenar informações quando você visita um serviço do Google e isso pode incluir o envio de um ou mais cookies ou identificadores anônimos para seu dispositivo. Também usamos cookies e identificadores anônimos quando você interage com serviços que oferecemos a nossos parceiros, como serviços de publicidade ou recursos do Google que podem aparecer em outros sites.
+        Nós, juntamente com nossos parceiros, usamos várias tecnologias para coletar e armazenar informações quando você visita um serviço do Google e isso pode incluir o envio de um ou mais cookies ou identificadores anônimos para seu dispositivo. Também usamos cookies e identificadores anônimos quando você interage com serviços que oferecemos a nossos parceiros, como serviços de publicidade ou recursos do Google que podem aparecer em outros sites.
         
 
 Como usamos as informações que coletamos
 
-Usamos as informações que coletamos em todos nossos serviços para fornecer, manter, proteger e melhorar esses serviços, desenvolver novos e proteger o Google e nossos usuários. Também usamos essas informações para oferecer a você um conteúdo específico – como fornecer para você resultados mais relevantes de pesquisa e anúncios.
+Usamos as informações que coletamos em todos nossos serviços para fornecer, manter, proteger e melhorar esses serviços, desenvolver novos e proteger o Google e nossos usuários. Também usamos essas informações para oferecer ao usuário um conteúdo específico - como fornecer para o usuário resultados mais relevantes de pesquisa e anúncios.
 
 Podemos usar o nome que você fornece em seu Perfil do Google em todos os serviços que oferecemos que exigem uma Conta do Google. Além disso, podemos substituir seus nomes antigos associados com sua Conta do Google de modo que você esteja representado de maneira consistente em todos nossos serviços. Se outros usuários já tiverem seu e-mail ou outras informações que identifiquem você, nós podemos mostrar-lhes suas informações do Perfil do Google publicamente visíveis, como seu nome e sua foto.
 
@@ -62,7 +62,7 @@ Ao entre em contado com o Google, podemos manter um registro de sua comunicaçã
 
 Usamos as informações coletadas de cookies e de outras tecnologias, como etiquetas de pixel, para melhorar a experiência de usuário e a qualidade geral de nossos serviços. Por exemplo, salvando suas preferências de idioma, nossos serviços aparecerão no idioma que você preferir. Ao exibirmos anúncios personalizados, não associaremos cookies de navegador ou identificadores anônimos a determinadas categorias, como aquelas baseadas em raça, religião, orientação sexual ou saúde.
 
-Podemos combinar informações pessoais de um serviço com informações, inclusive informações pessoais, de outros serviços do Google para facilitar o compartilhamento de informações com pessoas que você conhece, por exemplo. Não combinaremos informações do cookie “Double Click” com informações de identificação pessoal, exceto se tivermos sua autorização (“opt-in”) para tanto.
+Podemos combinar informações pessoais de um serviço com informações, inclusive informações pessoais, de outros serviços do Googlepara facilitar o compartilhamento de informações com pessoas que você conhece, por exemplo. Não combinaremos informações do cookie da "DoubleClick" com informações de identificação pessoal, exceto se tivermos sua autorização (“opt-in”) para tanto.
 
 Solicitaremos sua autorização antes de usar informações para outros fins que não os definidos nesta Política de Privacidade.
 
@@ -126,7 +126,7 @@ Não compartilhamos informações pessoais com empresas, organizações e indiv�
     *   detectar, impedir ou abordar de alguma outra forma fraude, questões técnicas ou de segurança.
     *   proteger contra dano aos direitos, a propriedade ou a segurança do Google, nossos usuários ou o público, conforme solicitado ou permitido por lei.
 
-Podemos compartilhar informações de identificação não pessoais agregadas publicamente e com nossos parceiros – como sites de editores, anunciantes ou sites relacionados. Por exemplo, podemos compartilhar informações publicamente para mostrar tendências sobre o uso geral de nossos serviços.
+Podemos compartilharinformações de identificação não pessoais agregadas publicamente e com nossos parceiros – como sites de editores, anunciantes ou sites relacionados. Por exemplo, podemos compartilhar informações publicamente para mostrar tendências sobre o uso geral de nossos serviços.
 
 Se o Google estiver envolvido em uma fusão, aquisição ou venda de ativos, continuaremos a garantir a confidencialidade de qualquer informação pessoal e avisaremos os usuários afetados antes que as informações pessoais sejam transferidas ou sejam submetidas a uma política de privacidade diferente.
 
@@ -139,13 +139,13 @@ Trabalhamos com afinco para proteger o Google e nossos usuários de acesso não 
 *   Analisamos nossa coleta de informações, práticas de armazenamento e processamento, inclusive medidas de segurança física, para proteção contra acesso não autorizado aos sistemas.
 *   Restringimos o acesso a informações pessoais por parte de empregados, contratados e representantes do Google que necessitam saber essas informações para processá-las para nós, e que estão sujeitos a rigorosas obrigações contratuais de confidencialidade, podendo ser processados ou dispensados se deixarem de cumprir tais obrigações.
 
-Aplicativo
+Quando esta Política de Privacidade se aplica
 
 Nossa Política de Privacidade se aplica a todos os serviços oferecidos pelo Google Inc. e suas afiliadas, inclusive serviços oferecidos em outros locais (como nossos serviços de anúncio), mas exclui serviços que têm políticas de privacidade separadas que não incorporam esta Política de Privacidade.
 
 Nossa Política de Privacidade não se aplica a serviços oferecidos por outras empresas ou indivíduos, inclusive produtos ou sites que podem ser exibidos a você nos resultados de pesquisa, sites que podem incluir serviços do Google, ou outros sites com links de nossos serviços. Nossa Política de Privacidade não abrange as práticas de informação de outras empresas e organizações que anunciam nossos serviços e que podem usar cookies, pixels tags e outras tecnologias para oferecer anúncios relevantes.
 
-Execução
+Compliance e cooperação com as autoridades reguladoras
 
 Revisamos regularmente nosso cumprimento com a Política de Privacidade. Aderimos também a várias estruturas auto-reguladoras. Quando recebemos reclamações formais por escrito, entramos em contato com o autor da reclamação para acompanhamento. Trabalhamos com autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados para resolver quaisquer reclamações referentes à transferência de dados pessoais que não podemos resolver diretamente com nossos usuários.
 
@@ -161,3 +161,28 @@ Os seguintes avisos explicam as práticas de privacidade específicas em relaç�
 *   Google Livros
 *   Carteira virtual do Google
 *   Fiber
+
+Outros materiais úteis relacionados a privacidade e segurança
+
+Além disso, materiais úteis relacionados a privacidade e segurança podem ser encontrados nas páginas de políticas e princípios do Google, incluindo:
+
+*   Informações sobre nossas tecnologias e nossos princípios, que incluem, entre outras coisas, mais informações sobre
+    *   como o Google usa cookies.
+    *   tecnologias que usamos para anúncios.
+    *   como reconhecemos padrões como rostos.
+*   Uma página que explica quais dados são compartilhados com o Google quando o usuário visita sites que utilizam nossos produtos de publicidade, análise e sociais.
+*   A Central de segurança do Google, que fornece informações sobre como ficar seguro on-line.
+
+ExemploPor exemplo, com o Painel do Google o usuário pode ver de modo rápido e fácil alguns dos dados associados à sua Conta do Google. Saiba mais. ExemploPor exemplo, se o usuário costuma visitar sites e blogs sobre jardinagem, é possível que veja anúncios relacionados a jardinagem enquanto navega na Web. Saiba mais. ExemploPor exemplo, se o usuário costuma visitar sites e blogs sobre jardinagem que exibam nossos anúncios, é possível que comece a ver anúncios relacionados a esse interesse enquanto navega na Web. Saiba mais. ExemploIsso inclui informações como: dados de uso e preferências, mensagens do Gmail, perfil do G+, fotos, vídeos, histórico de navegação, pesquisas de mapas, documentos ou outro conteúdo hospedado na Google. Saiba mais. ExemploPor exemplo, quando o usuário está conectado à sua Conta do Google e faz uma pesquisa no Google, pode ver os resultados de pesquisa da Web pública, junto com páginas, fotos e postagens do Google+ dos seus amigos. Da mesma forma, as pessoas que o usuário conhece ou que o seguem no Google+ podem ver suas postagens e perfil nos seus resultados de pesquisa. Saiba mais. ExemploPor exemplo, o usuário pode receber sugestões de pessoas que talvez conheça ou com as quais queira se conectar no Google+, com base nas conexões que tem com pessoas em outros produtos da Google, como o Gmail. Da mesma forma, as pessoas que têm uma conexão com o usuário podem ver seu perfil como sugestão. Saiba mais. ExemploEmbora não peçamos um cartão de crédito durante a inscrição, a confirmação da idade do usuário por meio de uma pequena transação de cartão de crédito é uma maneira de confirmar que ele atende aos nossos requisitos de idade, caso sua conta tenha sido desativada depois de ele ter digitado uma data de nascimento indicando que não tem idade suficiente para ter uma Conta do Google. Saiba mais. ExemploPor exemplo, o software de verificação ortográfica do Google foi desenvolvido por meio da análise de pesquisas anteriores nas quais os usuários corrigiram sua própria ortografia. Saiba mais. ExemploOs identificadores de dispositivos permitem que a Google saiba qual dispositivo exclusivo o usuário está utilizando para acessar nossos serviços, o que pode ser usado para personalizar nossos serviços para seu dispositivo ou analisar problemas do dispositivo relacionados aos nossos serviços. Saiba mais. ExemploPor exemplo, quando o usuário acessa o Google Play do seu computador, a Google pode usar essas informações para ajudá-lo a decidir em quais dispositivos ele deseja que os itens comprados estejam disponíveis para uso. Saiba mais. ExemploPor exemplo, os cookies nos permitem analisar a forma como os usuários interagem com nossos serviços. Saiba mais. ExemploComo outras empresas de tecnologia e comunicação, a Google recebe regularmente solicitações de governos e tribunais do mundo todo para entregar dados do usuário. Saiba mais. ExemploPor exemplo, o Google Maps pode centralizar a visualização de mapas na sua localização atual. Saiba mais. ExemploPor exemplo, usamos um cookie chamado "lbcs", que possibilita que o usuário abra muitos Documentos Google em um navegador. Saiba mais. ExemploPor exemplo, se o usuário adicionar um número de telefone como opção de recuperação, caso ele esqueça a senha, a Google pode enviar uma mensagem de texto com um código para que o usuário possa redefini-la. Saiba mais. ExemploPor exemplo, se o usuário estiver preocupado com o acesso não autorizado ao seu e-mail, a "Última atividade da conta" no Gmail exibe informações sobre a atividade recente no seu e-mail, tais como os endereços IP que acessaram o e-mail, o local associado, a hora e a data de acesso. Saiba mais. ExemploPor exemplo, com o Google+, o usuário tem muitas opções de compartilhamento. Saiba mais. ExemploPor exemplo, se alguém já é um contato do usuário, a Google completará automaticamente o nome dessa pessoa caso o usuário queira adicioná-la a uma mensagem do Gmail. Saiba mais. ExemploPor exemplo, quando o usuário digita um endereço no campo Para, Cc ou Cco de uma mensagem que está escrevendo, o Gmail sugere endereços da sua lista de contatos. Saiba mais. ExemploPor exemplo, se o usuário se comunicou com alguém pelo Gmail e quer adicioná-lo a um Documento Google ou a um evento no Google Agenda, a Google facilita isso, ao completar automaticamente o endereço de e-mail quando o usuário começa a digitar o nome dessa pessoa. Saiba mais. ExemploPor exemplo, frequentemente informamos aos anunciantes se veiculamos seu anúncio em uma página e se esse anúncio teve a chance de ser visto pelos usuários (em vez de, por exemplo, estar em uma parte da página que os usuários não visualizaram). Saiba mais. ExemploQuando muitas pessoas começam a pesquisar algo, isso pode fornecer informações muito úteis sobre as tendências específicas daquela época. Saiba mais. Exemplo
+
+Por exemplo, podemos tornar as pesquisas mais relevantes e interessantes para o usuário incluindo fotos, postagens e outros itens do usuário e dos seus amigos.
+
+Saiba mais
+
+Exemplo
+
+Por exemplo, o usuário pode excluir seu Histórico da Web, seu blog, um Google Site de sua propriedade, seu canal do YouTube, seu perfil do Google+ ou sua Conta inteira do Google.
+
+Exemplo
+
+É possível ver algumas delas no Google Trends e YouTube Trends.
