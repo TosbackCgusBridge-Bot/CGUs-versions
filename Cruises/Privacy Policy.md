@@ -1,4 +1,10 @@
   
+
+1.  **Ahoy there!** Why not register with Cruises the UK's favourite cruise forum?
+    
+    It'll only take a couple of minutes, it's completely free and we promise to keep your details confidential. Once you're a Cruises member you'll be able to join in with all of those interesting discussions and lots of advice. You could even join our cruise roll call 'all aboard' forum to get in touch those going on the same cruise as you! We look forward to welcoming you 'on board Cruises'...Click here to register or Sign in
+    
+
   
   
 **Privacy Policy**  
