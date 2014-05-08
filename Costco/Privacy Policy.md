@@ -143,7 +143,7 @@
           
         Finally, we use web beacons to determine when and how many times a page has been viewed. Again, we use this information for our own marketing purposes.  
           
-        Your browser will accept cookies and allow automatic collection of information unless you change the browser default settings. If cookies are disabled the web site will not load properly. Currently our site does not respond to "do not track" mechanisms.
+        Your browser will accept cookies and allow automatic collection of information unless you change the browser default settings. If cookies are disabled the web site will not load properly.
     
     4.  **Links to Other Sites**  
         From our web site you can link to websites of third parties who we allow to offer goods and services to our members or who provide functions and amenities to our site, such as product information and reviews. If it is not clear from the context that you are being directed to a third party site, we endeavor to notify you that you are visiting a site where a different privacy policy applies. In general, any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of websites to which we link. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
