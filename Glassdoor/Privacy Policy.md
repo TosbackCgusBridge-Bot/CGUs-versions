@@ -163,4 +163,4 @@ We reserve the right to modify this statement at any time, so please review it f
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to privacysupport@glassdoor.com or through Contact Us.
 
-Glassdoor 1 Harbor Drive Suite 300 Sausalito, CA   94965-1434 USA
+Glassdoor PO BOX 900 Sausalito, CA   94966 USA
