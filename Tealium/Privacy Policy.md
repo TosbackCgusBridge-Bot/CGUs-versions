@@ -71,13 +71,13 @@ Tealium
 *   Education
 *   Resources
 *   Company
-*   Request a Demo
+*   Create a Free Account
 
 *   Blog
 *   Contact Us
 
 *   Login
-*   Request a Demo
+*   Create a Free Account
 
 Tealium IQ Enterprise Tag Management  
 Supported Tags•Privacy•Mobile  
@@ -194,15 +194,13 @@ From time-to-time, Tealium may engage third parties to track and analyze usage a
 
 Learn how to opt out of performance cookies using your browser settings.Learn how to manage privacy and storage settings for Flash cookies. Functionality cookies Functionality cookies allow the Tealium Web Site to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Services after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
 
-Tealium’s Privacy Widget provides control and flexibility for opt-in or opt-out choices to Site Visitors. Site Visitors can choose which tags or categories of tags they want to enable while you browse the Tealium Web Site by clicking the opt-out link. To opt back in to third party tracking solutions, click the opt-in link.
-
-Tealium may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on the Company’s Web sites to personalize your visit. If you disable Flash cookies, you may not have access to some features that make your visit to the Tealium Web Site efficient.
+Tealium’s Privacy Widget provides control and flexibility for opt-in or opt-out choices to Site Visitors. Site Visitors can choose which tags or categories of tags they want to enable while you browse the Tealium Web Site by clicking the opt-out link. To opt back in to third party tracking solutions, click the opt-in link.Tealium may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on the Company’s Web sites to personalize your visit. If you disable Flash cookies, you may not have access to some features that make your visit to the Tealium Web Site efficient.
 
 Learn how to opt out of functionality cookies using your browser settings. Note that opting out may impact the functionality you receive when visiting the Company’s Web site.Learn more about Tealium’s Privacy Widget.Cookie management tools provided by your browser may not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies. Targeting or Advertising cookies From time-to-time, Tealium may engage third parties to track and analyze usage and volume statistical information from Site Visitors.
 
-Analytics: Tealium may use cookies delivered by third parties to track the performance of Tealium’s advertisements. For example, these cookies remember which browsers have visited the Tealium Web Site. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Tealium receives it.
+Analytics: Tealium may use cookies delivered by third parties to track the performance of Tealium’s advertisements. For example, these cookies remember which browsers have visited the Tealium Web Site. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Tealium receives it.Marketing solutions: Tealium may also contract with third-party advertising networks that collect IP addresses and other information from the Tealium Web Site, from emails, and on third-party web sites. Ad networks follow your online activities over time by collecting Web Collection Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other web sites. This process also helps Tealium manage and track the effectiveness of its marketing efforts.
 
-Marketing solutions: Tealium may also contract with third-party advertising networks that collect IP addresses and other information from the Tealium Web Site, from emails, and on third-party web sites. Ad networks follow your online activities over time by collecting Web Collection Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other web sites. This process also helps Tealium manage and track the effectiveness of its marketing efforts.Tealium may also partner with third parties to provide certain features on the Tealium Web Sites or to display advertising based upon your web browsing activity. Such third parties may use Flash cookies to collect and store information.
+Tealium may also partner with third parties to provide certain features on the Tealium Web Sites or to display advertising based upon your web browsing activity. Such third parties may use Flash cookies to collect and store information.
 
 Retargeting cookies: Retargeting is a cookie-based technology that uses JavaScript code to follow Site Visitors as they use the internet.
 
@@ -364,7 +362,7 @@ France
 
 About Tealium
 
-Tealium helps savvy brands bring order to marketing chaos and engage customers in innovative ways. Using Tealium as the foundation for their digital marketing operations, smart marketers can fuel real-time unified marketing initiatives and drive more profitable customer interactions across all digital touch points.
+Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications.
 
 *   Site Map
 *   Terms of Use
