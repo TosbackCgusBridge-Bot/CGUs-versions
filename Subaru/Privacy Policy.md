@@ -226,7 +226,13 @@ See why an owner's love for Subaru lasts forever.
 *   Dear Subaru
 *   Live. Love.
 
-GO Company
+GO Change
+
+*   ,
+    
+
+Visit Dealer Site View special offers, browse  
+inventory and more. Company
 
 *   Overview
 *   Partnerships
