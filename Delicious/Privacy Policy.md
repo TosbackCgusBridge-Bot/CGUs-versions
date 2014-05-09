@@ -1,6 +1,6 @@
 Delicious Privacy Policy Last Updated: January 10, 2013 - What’s new Welcome to Delicious!
 
-AVOS Systems, Inc. provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
+Delicious Science, LLC. provides Delicious – the service that enables users to collect and discover web content through our website located at www.delicious.com and by using related applications and the Delicious bookmarklet extension for your internet browser. For simplicity, we’ll refer to any or all of this as the “Service”.
 
 We provide this Privacy Policy so you know what we do regarding the collection, use and disclosure of personal information we receive from users of the Service. This Privacy Policy applies only to information that you provide to us through the Service. Your use of the Service is your consent to the collection, disclosure, transfer, processing, storage and other uses of your information as described in this Privacy Policy.
 
@@ -11,7 +11,7 @@ Our Core Privacy Principles:
 *   We don’t disclose your Personal Information to third parties except as set forth in this Privacy Policy.
 *   Providing us with your Personal Information is your choice.
 
-What information does AVOS collect when we sign up?
+What information does Delicious Science collect when we sign up?
 
 You may use certain features of the Service without registering. however, to get access to all the features of the Service you will need to register at which time you will be asked to provide certain information most of which is optional. The only information you are required to provide is your name, (which will be publicly visible), a user name (which will be publicly visible), your email (which will not be publicly visible) and a password (which will not be publicly visible). All other information you provide when registering or later add to your profile is optional. Additional profile information you choose to provide, including your name, will be publicly available.
 
@@ -31,24 +31,24 @@ Personal Information. Your user name, name, and any profile information you choo
 
 *   Third Party Social Networking Services. Registered users may link their accounts with certain third party social networking services (“**SNSs**”). In these instances, with your permission and on your behalf, we will share your Personal Information, including, but not limited to, information contained in your profile and any bookmarks with the applicable SNS. Through use of such services’ APIs we also receive certain information (which may include your Personal Information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS in connection with your linking of accounts, the personal information an SNS has about you is obtained by the SNS independent of our Service. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other services you use.
 *   Service Providers. We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Service’s features) or to assist us in analyzing how our Service is used. These third parties may have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-*   Compliance with Laws and Law Enforcement. We may disclose any of your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request. to protect the safety of any person. to address fraud, security or technical issues. or to protect AVOS’ rights or property.
-*   Business Transfers. AVOS may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. We will provide you with notice of the transfer of your Personal Information to the new entity.
+*   Compliance with Laws and Law Enforcement. We may disclose any of your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request. to protect the safety of any person. to address fraud, security or technical issues. or to protect Delicious Science’ rights or property.
+*   Business Transfers. Delicious Science may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. We will provide you with notice of the transfer of your Personal Information to the new entity.
 
 Non-Identifying and Service Usage Information. We may share Non-Identifying Information and Service Usage Information in aggregated or non-aggregated formats with third parties for industry analysis, demographic profiling and other purposes. Any information shared in these contexts will not contain your Personal Information.
 
 Changing or Deleting Your Information
 
-All registered users may review, update, correct or delete the Personal Information in their registration profile by contacting us or via the “Settings” section of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at account\_support@avos.com with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+All registered users may review, update, correct or delete the Personal Information in their registration profile by contacting us or via the “Settings” section of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
 
 Security
 
-AVOS is very concerned with safeguarding your information. We employ reasonable physical, technological, and administrative security measures and attempt to ensure they are applicable under the circumstances (e.g., we encrypt certain information using secure socket layer technology (SSL)). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Delicious Science is very concerned with safeguarding your information. We employ reasonable physical, technological, and administrative security measures and attempt to ensure they are applicable under the circumstances (e.g., we encrypt certain information using secure socket layer technology (SSL)). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
 International Transfer
 
-Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, AVOS transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy by using the Service followed by your submission of such information represents your agreement to that transfer.
+Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Delicious Science transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy by using the Service followed by your submission of such information represents your agreement to that transfer.
 
 Links to Other Sites
 
@@ -60,8 +60,4 @@ This Service is not directed to children under 13. We do not knowingly collect p
 
 We may make Modifications or Changes
 
-AVOS may, its sole discretion, choose to modify, discontinue or terminate the Service, at any time and without prior notice. AVOS may also choose to modify the Terms. If we choose to modify the Terms, we’ll post them and give you a chance to provide feedback before they become effective except in extraordinary circumstances where we think it’s important for them to become effective as soon as they are posted in which case we’ll make that clear. Once they become effective your continued use of the Service will mean you agree to be bound by the new terms. If you don’t agree then you need to stop using the Service.
-
-Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at support@avos.com.
+Delicious Science may, its sole discretion, choose to modify, discontinue or terminate the Service, at any time and without prior notice. Delicious Science may also choose to modify the Terms. If we choose to modify the Terms, we’ll post them and give you a chance to provide feedback before they become effective except in extraordinary circumstances where we think it’s important for them to become effective as soon as they are posted in which case we’ll make that clear. Once they become effective your continued use of the Service will mean you agree to be bound by the new terms. If you don’t agree then you need to stop using the Service.
