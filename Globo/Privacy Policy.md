@@ -18,11 +18,11 @@ Esta política permitirá que você saiba:
     
     A Globo.com coleta informações de diversas formas, em diferentes áreas do portal.
     
-    Algumas informações pessoais são obtidas quando você se registra. Durante o processo de registro, a Globo.com pergunta seu nome, endereço de e-mail e outras informações pessoais. Quanto mais informações corretas você fornecer , melhor será a personalização da sua experiência.
+    Algumas informações pessoais são obtidas quando você se registra. Durante o processo de registro, a Globo.com pergunta seu nome, endereço de e-mail e outras informações pessoais. Quanto mais informações corretas você fornecer, melhor será a personalização da sua experiência.
     
     Entretanto, é tecnicamente impossível que os assinantes ou quaisquer usuários do Portal Globo.com escolham como login para registro palavras, expressões ou conjuntos gráficos denominativos que já tenham sido escolhidos anteriormente por outros usuários e/ou assinantes, bem como é vedado a esses, assinantes e/ou usuários a escolha de expressões malsoantes, injuriosas, coincidentes com marcas de produtos ou serviços de terceiros, denominações sociais, expressões publicitárias, nomes ou pseudônimos de personalidades públicas, de pessoas famosas ou registrados por terceiros, ou que não remetam à identidade do registrante e, em geral, contrários à lei, à ordem ou às exigências da moral e dos bons costumes comumente aceitos. Além disso, é terminantemente proibido o uso de nomes de marcas, programas, produtos ou serviços de propriedade ou oferecidos pela Globo.com ou de qualquer uma de suas sociedades controladoras, sociedade controladas ou sociedades sob controle comum.
     
-    O assinante e/ou usuário que desobedecer ao estabelecido no paráfrafo supra poderá ter o seu login cancelado e bloqueado sem aviso prévio e a critério exclusivo da Globo.com.
+    O assinante e/ou usuário que desobedecer ao estabelecido no parágrafo supra poderá ter o seu login cancelado e bloqueado sem aviso prévio e a critério exclusivo da Globo.com.
     
     Depois do registro, você estará apto a usufruir e desfrutar de benefícios de um usuário cadastrado da Globo.com, incluindo a participação em promoções, eventos on-line, sorteios e compras.
     
@@ -56,7 +56,7 @@ Esta política permitirá que você saiba:
     
 3.  Como serão utilizadas estas informações
     
-    As informações coletadas pela Globo.com serão utilizadas para personalizar o conteúdo e/ou serviços disponibilizados. Isso inclui serviços de personalização, comunicações interativas, compras on-line e outros tipos de serviços. Sabendo mais sobre você, a Globo.com pode fornecer conteúdo e serviços mais relevantes e, conseqüentemente, proporcionar uma melhor experiência on-line.
+    As informações coletadas pela Globo.com serão utilizadas para personalizar o conteúdo e/ou serviços disponibilizados. Isso inclui serviços de personalização, comunicações interativas, compras on-line e outros tipos de serviços. Sabendo mais sobre você, a Globo.com pode fornecer conteúdo e serviços mais relevantes e proporcionar uma melhor experiência on-line.
     
     As informações também poderão ser utilizadas para gerar dados estatísticos gerais com finalidade informativa ou comercial. Informações geográficas, demográficas, psicográficas e de perfil de uso dos usuários Globo.com poderão ser fornecidas a parceiros, patrocinadores, anunciantes ou outras empresas externas, sem que sejam revelados nomes ou outros dados de navegação.
     
@@ -69,6 +69,8 @@ Esta política permitirá que você saiba:
 4.  Quem coleta as informações
     
     Quando a Globo.com solicita informações pessoais a você, essas informações estarão sendo enviadas somente a sites administrados pelas Organizações Globo, a não ser que seja indicado de forma diferente. Alguns parceiros, patrocinadores, anunciantes e demais que sejam acessados através do portal Globo.com, poderão solicitar informações financeiras e/ou pessoais suas. Num caso como esse essas informações não estarão sendo enviadas à Globo.com, e, sendo assim, o portal não terá qualquer responsabilidade pela utilização e manejo dessa informação, não sendo aplicada a presente política.
+    
+    A Globo.com destaca que no portal Globo.com podem existir links e/ou páginas que utilizem publicidade gráfica de outros parceiros e/ou empresas, como por exemplo, o Google Ads, que utiliza relatório de informações demográficas da respectiva plataforma de publicidade. Caso você tenha interesse em desativar tal publicidade gráfica, deverá acessar o link configurações de anúncios ( https://www.google.com/settings/ads ) e personalizar sua própria experiência.
     
     As promoções realizadas na Globo.com podem ser patrocinadas por outras empresas ou segundo uma parceria entre a Globo.com e uma dessas empresas. Alguns ou todos os dados coletados durante uma promoção podem ser compartilhados com o parceiro e/ou patrocinador. Se os dados forem compartilhados, você será notificado antes da coleta ou transferência dos dados. Assim, poderá decidir não participar da promoção se não desejar que seus dados sejam compartilhados.
     
@@ -98,7 +100,7 @@ Esta política permitirá que você saiba:
     
     Se, ao se registrar, você indicou que está interessado em receber ofertas ou informações da Globo.com e nossos parceiros, poderemos ocasionalmente enviar a você mensagens, via e-mail, sobre produtos e serviços que possam interessá-lo. Somente a Globo.com (ou agentes que trabalhem em nome da Globo.com e sob acordos de confidencialidade) enviarão a você essas comunicações e somente se você indicou que não tem objeção contra essas ofertas. Se não desejar receber mais esses informes, basta dizer-nos ao fornecer suas informações pessoais, ou, a qualquer momento, alterar suas informações cadastrais, selecionando a opção de não receber mais essas comunicações. Serão necessárias sua identificação e senha no cadastro da Globo.com para acessar suas informações cadastrais.
     
-    Para alguns tipos de promoções, solicitaremos seu endereço de e-mail para atualizá-lo sobre a sua pontuação, suas participações e status nas premiações. Ao participar desse tipo de promoção, você automaticamente recebe mensagens relacionadas à promoção, a menos que escolha a opção sem e-mail oferecida por algumas delas. Ocasionalmente, essas mensagens de e-mail relacionadas à promoção podem incluir anúncios direcionados. Se uma determinada promoção não oferecer uma opção de não recebimento de e-mail, você poderá optar por não receber e-mails, mas, conseqüentemente você deixa de participar dessa promoção.
+    Para alguns tipos de promoções, solicitaremos seu endereço de e-mail para atualizá-lo sobre a sua pontuação, suas participações e status nas premiações. Ao participar desse tipo de promoção, você automaticamente recebe mensagens relacionadas à promoção, a menos que escolha a opção sem e-mail oferecida por algumas delas. Ocasionalmente, essas mensagens de e-mail relacionadas à promoção podem incluir anúncios direcionados. Se uma determinada promoção não oferecer uma opção de não recebimento de e-mail, você poderá optar por não receber e-mails, mas você deixa de participar dessa promoção.
     
     Você também tem opções em relação aos cookies. Modificando suas preferências de navegação, você tem a opção de aceitar todos os cookies, ser notificado quando um cookie for enviado ou rejeitar todos os cookies. Se você optar por rejeitar todos os cookies, não conseguirá usar alguns dos serviços da Globo.com que requerem registro para participação. Também não poderá usufruir de todos benefícios e facilidades de uma experiência personalizada na Internet.
     
@@ -120,9 +122,9 @@ Esta política permitirá que você saiba:
     
     As informações sobre a conta da Globo.com são protegidas por senha, para que somente você tenha acesso a suas informações pessoais.
     
-    Sua senha é secreta e recomendamos que não a revele a ninguém. A Globo.com não irá solicitar, em nenhuma hipótese, seja por e-mail ou telefone, sua senha pessoal. Lembre-se também de desconectar-se da sua conta da Globo.com e fechar a janela do seu navegador quando concluir sua navegação na Internet. Isso garante que outras pessoas não tenham acesso às suas informações pessoais e correspondências, caso você compartilhe um computador com alguém ou esteja usando um computador em local público como uma biblioteca ou local de acesso público à Internet.
+    Sua senha é secreta e recomendamos que não a revele a ninguém. A Globo.com não irá solicitar, em nenhuma hipótese, seja por e-mail ou telefone, sua senha pessoal. Lembre-se também de desconectar-se da sua conta da Globo.com e fechar a janela do seu navegador quando concluir sua navegação na Internet. Isso garante que outras pessoas não tenham acesso às suas informações pessoais e correspondências, caso você compartilhe um computador com alguém ou esteja usando um computador emlocal público como uma biblioteca ou local de acesso público à Internet.
     
-    Nenhuma transmissão de dados na Internet é 100% segura. Sendo assim, embora a Globo.com sempre faça o possível para proteger suas informações pessoais, não é possível garantir a segurança de todas as informações que você venha a nos fornecer. É uma decisão pessoal a utilização do serviço nessas condições.
+    Nenhuma transmissão de dados na Internet é 100% segura. Sendo assim, embora a Globo.com sempre faça o possível para proteger suas informações pessoais, não é possível garantir a segurança de todas as informações que você venha a nos fornecer. É uma decisão pessoal autilização do serviço nessas condições.
     
     topo
     
@@ -134,7 +136,7 @@ Esta política permitirá que você saiba:
     
     Informe-se: ao acessar a Internet sempre busque a política/declaração de privacidade do Site que você está acessando.
     
-    Diga a seus filhos para não falarem sobre sua senha com estranhos. Ensine-os a não fornecerem qualquer informação pessoal, incluindo seus nomes, e diga-lhes para nunca preencherem formulários on-line sem primeiro pedirem sua permissão.
+    Diga a seus filhos para não falarem sobre sua senha com estranhos. Ensine-os a não fornecerem qualquer informação pessoal, incluindo seus nomes, e diga-lhes para nunca preencherem formulárioson-line sem primeiro pedirem sua permissão.
     
     Use senhas complexas. Senhas simples são fáceis de serem quebradas. Use senhas complexas de combinações bastante longas de letras e números que necessitam combinações pouco usuais do teclado.
     
