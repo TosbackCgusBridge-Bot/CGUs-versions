@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   PHYLLIS
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena721 SERVER NAME :->. prod-l1-com-72101 TIME :->. Wed May 07 05:43:30 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena861 SERVER NAME :->. prod-l1-com-0501 TIME :->. Thu May 08 05:40:52 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,61 +43,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+40% Off Select Dresses shop dressesLove MOM Sale
 
-Last Day! Ends May 7.
+Make Mom's day with gifts that fit, flatter and wow.
 
-Online Code: 2SUNNY
-
-Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Select original, regular, sale and clearance-priced items.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. print store coupon Love MOM Sale
-
-Fitting gifts for mom that won't break the piggy bank.
-
-shop the sale view store ad 30-50% Off Select Worthington shop Worthington 40% Off Select Dresses shop dresses #MOMISMS
+shop the sale view store ad#MOMISMS
 
 You could win a $100 JCPenney gift card.
 
-get details Get It By Mother's Day
+get detailsHurry! 4 Days Only. Ends May 11. In Store Only
 
-$5 express shipping over $99.
+$10 Off\* $25 or more.
 
-Select 3-day shipping by 1PM CDT on May 7.
+print store couponOnline Only
 
-get details JCPenney Rewards Wednesday
+Online Code: LOVEMOM
 
-Earn your $10 JCP Reward faster with double points!
+$25 Off\* $100 or more, or $10 Off\* $50 or more.
 
-Earn one monthly $10 jcp reward when you spend $50 or more on qualifying purchases on Wednesdays.
+In Store and Online
 
-get offer details and learn more 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 20-40% Off Select Watches shop watches 40-50% Off Select Women's Sleepwear shop women's sleepwear 25-40% Off Select Handbags shop handbags 30-40% Off Select Small Appliances
+Online Code: MOMSLOVE
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print store coupon30-40% Off Select Small Appliances
 
 Excluded from coupon.
 
-shop small appliances KitchenAid Classic 4.5-qt. Stand Mixer
+shop small appliances Night and Day Doorbusters
 
-$199.99 after mail-in rebate. Sale $229.99, regularly $350.
+In store only. Friday, 3PM until 10PM, Saturday, 9AM until 1PM.
 
-shop KitchenAid stand mixer 40-50% Off Select Carter's shop Carter's JCP Rewards
+view doorbusters store ad 30-50% Off Select Worthington shop Worthington 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Sleepwear For Her shop women's sleepwear 25-40% Off Select Handbags shop handbags 40-50% Off Select St. John's Bay For Her shop women's St. John's Bay 40-50% Off Select Carter's shop Carter's JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Gift Cards
+sign up todayGift Cards
 
 Always fits, never expires.
 
-shop gift cards Love MOM
+shop gift cardsLove MOM
 
 Mother's Day is May 11.
 
-shop Mother's Day gifts Red Zone Clearance Selections shop clearance
+shop Mother's Day giftsRed Zone Clearance Selections shop clearance
 
 get connected
 
