@@ -1,4 +1,4 @@
-iEntry 10th Anniversary Publications Advertising iEntry.com Home Corporate Advertising Email Newsletters Sitemap iEntry's Hiring! Privacy Policy iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates.  
+Publications Advertising iEntry.com Home Corporate Advertising Email Newsletters Sitemap iEntry's Hiring! Privacy Policy iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates.  
   
 **Registration**  
 iEntry collects personally identifying information only during the registration process. Information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online.**  
@@ -29,4 +29,4 @@ Web Developers
 IT Managers  
 Small Business Owners  
 eBusiness Management  
-IT Software **» WebProNews Headlines** iEntry Corporate - Advertising - Sitemap - Newsletters
+IT Software **» WebProNews Headlines** RSS Feed Widget iEntry Corporate - Advertising - Sitemap - Newsletters
