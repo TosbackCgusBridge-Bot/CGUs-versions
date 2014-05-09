@@ -1,6 +1,6 @@
 OUR PRIVACY POLICY
 
-Last Updated: February 19, 2014
+Last Updated: May 9, 2014
 
 This Privacy Policy describes how J.Crew Group, Inc. and our brands and subsidiaries (including but not limited to J.Crew, crewcuts, Factory and Madewell) (collectively, "J.Crew," "we" or "us") collect, use and share information about you. This policy applies to information we collect when you use our websites, shop in our stores or otherwise interact with us as described below.
 
@@ -58,7 +58,7 @@ We may also share aggregated or de-identified information, which cannot reasonab
 
 advertising &. analytics services
 
-We engage third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our websites, such as your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our websites and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit http://www.networkadvertising.org/managing/opt\_out.asp and http://www.aboutads.info/choices.
+We engage third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our websites, such as your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our websites and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.networkadvertising.org/managing/opt\_out.asp and www.aboutads.info/choices.
 
 We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms.
 
@@ -91,7 +91,11 @@ your california privacy rights
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. J.Crew permits California residents to opt out of having their information shared with third parties for direct marketing purposes. To opt out, please log into your online account and change your settings under the "Catalog Preferences" page or contact us.
 
-contact us  
+safe harbor statement
+
+J.Crew recognizes that the European Union ("EU") and Switzerland have implemented omnibus data protection regimes established pursuant to the European Data Protection Directive (95/46/EC) and the Swiss Federal Act on Data Protection, respectively. Among other things, these laws require "adequate protection" for the transfer of certain individually identifiable data about individuals in EU member countries and Switzerland to J.Crew's operations in the United States of America ("U.S."). J.Crew complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from EU member countries and Switzerland. J.Crew has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view J.Crew's certification, please visit www.export.gov/safeharbor/.
+
+contact us
 
 If you have any questions about this Privacy Policy, please contact us at:  
   
