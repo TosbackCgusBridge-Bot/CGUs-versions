@@ -194,9 +194,9 @@ Lenovo United States Select a country/region
         on select professional laptops! Sale ends May 14.
         
         **Shop now >**
-    *   SUPER SAVINGS Save up to 40%
+    *   Mother's Day Deals Save up to 40%
         
-        on select home laptops through May 7.
+        on select home laptops through May 14.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -222,13 +222,12 @@ Lenovo United States Select a country/region
         *   Lenovo Yoga Tablet 8:8" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10 HD+:10.1" Multimode Tablet with Dazzling Display
+        *   Lenovo A7:7" Wideview Android Tablet
         *   Lenovo A10:10" Wideview Android Tablet
         *   Lenovo A1000L:7" Affordable Entertainment Tablet
         *   Lenovo A3000:7" Tablet With Enhanced Performance
         *   Lenovo S5000: 7" Enhanced Multimedia Tablet
         *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
-        *        
-             
     *   Windows TabletsOne Experience For Everything in Your Life
         *   ThinkPad 8:8.3" Multimode Business Tablet
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
@@ -246,9 +245,9 @@ Lenovo United States Select a country/region
         on select professional tablets! Sale ends May 14.
         
         **Shop now >**
-    *   SUPER SAVINGS Save up to 26%
+    *   Mother's Day Deals Save up to 26%
         
-        on select home tablets through May 7.
+        on select home laptops through May 14.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -291,9 +290,9 @@ Lenovo United States Select a country/region
         on select professional desktops! Sale ends May 14.
         
         **Shop now >**
-    *   SUPER SAVINGS Save up to 26%
+    *   Mother's Day Deals Save up to 26%
         
-        on select home desktops through May 7.
+        on select home laptops through May 14.
         
         **Shop now >**
     *   Less is More
