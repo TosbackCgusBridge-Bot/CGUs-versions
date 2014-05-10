@@ -105,4 +105,4 @@ Network Advertising Initiative (NAI) is part of the industry’s self-regulatory
 
 **11\. Contact Us**
 
-If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at 257 Park Avenue South, 13th Floor, New York, NY, 10010.
+If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at 150 Fifth Avenue, 8th Floor, New York, NY 10011.
