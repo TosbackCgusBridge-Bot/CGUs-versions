@@ -42,7 +42,7 @@ Any information you disclose in public areas of the Site may become public infor
 
 Cookies
 
-We use cookies on the Site and other technologies to recognize you and uniquely identify your browser. This helps us to provide you with a good experience when you use the Site and also allows us to improve the Site. By continuing to use the Site, you are agreeing to our use of cookies.
+We use cookies on the Site and other technologies to recognise you and uniquely identify your browser. This helps us to provide you with a good experience when you use the Site and also allows us to improve the Site. By continuing to use the Site, you are agreeing to our use of cookies.
 
 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
