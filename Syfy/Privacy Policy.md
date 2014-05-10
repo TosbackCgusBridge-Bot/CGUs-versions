@@ -251,17 +251,17 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video War is Coming - Dominion - Thursday June 19th ... War is Coming - Dominion - Thursday June 19th at 9/8c
+Syfy Video Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
+
+#sharknado2. Coming in July!
+
+War is Coming - Dominion - Thursday June 19th ... War is Coming - Dominion - Thursday June 19th at 9/8c
 
 War is coming as heaven raises hell. Watch the premiere of Dominion, Thursday June 19th at 9/8c.
 
 Good is Not Good Enough - Heroes of Cosplay i ... Good is Not Good Enough - Heroes of Cosplay is Back!
 
 Heroes of Cosplay returns for season 1.5 on Tuesday May 27 at 9/8c.
-
-Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
-
-#sharknado2. Coming in July!
 
 The Wil Wheaton Project - Premiering May 27th ... The Wil Wheaton Project - Premiering May 27th at 10/9c.
 
