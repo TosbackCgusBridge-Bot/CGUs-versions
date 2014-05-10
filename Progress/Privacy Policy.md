@@ -16,23 +16,7 @@
 
 Search keyword or dealer ZIP
 
-Shopping-tools Shopping tools Find a dealer
-
-There's a perfect Audi for everyone. Find yours at your nearest Audi dealership.
-
-Estimate payment
-
-Use our calculator to estimate the finance or leasing payments for your new Audi. 
-
-Compare
-
-Don't know which Audi is right for you? Compare features and specs of Audi models.
-
-Offers and Promotions
-
-Find offers on new and Audi Certified pre-owned vehicles in your area.
-
-The Audi range The Audi range
+Shopping-tools Audi tools Offers and promotions Estimate payments Find a dealer Compare The Audi range The Audi range
 
 The Audi range SedansStarting at $29,900
 
