@@ -78,5 +78,3 @@ Let’s get in touch!
 Search Search for:
 
 Copyright © 2014 MetrixLab. All rights reserved. Privacy Statement
-
-$(document).ready(function(){ $('.sitemap\_wrap').css('display', ' none' ). });
