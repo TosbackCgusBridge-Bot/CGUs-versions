@@ -20,6 +20,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Starfish Collection
             *   Cardigan Shop
+            *   Nautical Favorites
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
