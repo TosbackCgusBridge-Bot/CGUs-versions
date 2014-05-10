@@ -46,6 +46,7 @@ Legal Notices &. Trademarks
 *   Partner Code of Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Education Community Special Terms
+*   Online Purchases Terms and Conditions
 
 Privacy Statement - UPDATED MARCH 19, 2013
 
