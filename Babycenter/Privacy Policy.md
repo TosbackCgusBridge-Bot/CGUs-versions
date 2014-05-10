@@ -2,7 +2,7 @@ About BabyCenter | Advisory Board | Awards | Contact Us | In the News | Job
 Management Team | Mission Statement | Press Releases | Privacy Policy  
 Terms of Use | Terms of Use - Supplemental
 
-_Last Updated on June 28, 2012_
+_Last updated on May 9, 2014_
 
 Introduction and Scope
 
@@ -17,6 +17,8 @@ Types of Data Collected. Collection Methods. Combination of Data
 You actively send information to us when you sign up with us a member on a Site, participate in surveys or promotions, post opinions on our bulletin boards, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, birthday, and gender. password. baby due date/birthday, name and gender. But, you can also use certain features of our Sites without telling us your name and if you do not tell us who you are, we do not try to find out.
 
 We also track information about how you use our Site through cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). For example, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using.
+
+Web browser Do Not Track (DNT) settings are not enabled on BabyCenter. By default, you will receive a personalized experience while browsing our website.
 
 To accomplish some of the foregoing data processing, we utilize independent contractors. Read about examples of some of our contractors and how we work with them.
 
@@ -63,7 +65,7 @@ You may modify your communication preferences and/or opt-out from specific commu
 
 Changes to This Privacy Policy
 
-This Privacy Policy was last updated on June 28, 2012. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
+This Privacy Policy was last updated on May 9, 2014. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
 
 Terms of Use
 
