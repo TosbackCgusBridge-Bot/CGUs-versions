@@ -1,6 +1,6 @@
 Privacy Policy
 
-_Last Updated: April 9, 2013_
+_Last Updated: May 9, 2014_
 
 This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Gittip, LLC and its subsidiaries and affiliated companies ("Gittip"). This Policy applies to the websites of Gittip, including https://www.gittip.com/ ("Sites") and Gittip's other products, services or any other features, technologies or functionalities offered by us on our Sites or through any other means (collectively, "Services"). This Policy does not apply to information you provide directly to third party websites or third party applications that use Gittip's Services. We do not control the activities of such third parties and advise you to consult their privacy policies before you share your personal information.
 
@@ -34,7 +34,10 @@ We also share your personal information with these third party vendors who work 
 
 *   Balanced Payments provides payment processing.
 *   Google Analytics provides website traffic analysis.
+*   Segment.io provides an abstraction layer service for website analytics.
 *   Heroku provides website and database hosting.
+
+Gittip supports "Do Not Track" (DNT), which a privacy setting in many browsers. Enabling your browser's DNT settings ensures that Gittip will disable any use of third-party analytics services.
 
 We may also share your information as follows:
 
