@@ -63,7 +63,11 @@ Dallas, TX 75219 USA
 International - not for correspondence  
 Classified Solutions Ltd.  
 The East Stable Thrales End Farm  
-Harpenden, United Kingdom, AL5 3NS
+Harpenden, United Kingdom, AL5 3NS  
+  
+Payment Solutions BV.  
+Strawinskylaan 601, 1077XX,  
+Amsterdam, Netherlands
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.  
   
