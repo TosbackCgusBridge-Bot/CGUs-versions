@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena852 SERVER NAME :->. prod-l1-com-0401 TIME :->. Sat May 10 05:53:25 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena711 SERVER NAME :->. prod-l2-com-71102 TIME :->. Sun May 11 08:05:43 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,39 +43,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-40% Off Select Dresses shop dressesLove MOM Sale
-
-Make Mom's day with gifts that fit, flatter and wow.
-
-shop the sale view store ad#MOMISMS
-
-You could win a $100 JCPenney gift card.
-
-get detailsHurry! 4 Days Only. Ends May 11. In Store Only
-
-$10 Off\* $25 or more.
-
-print store couponOnline Only
-
-Online Code: LOVEMOM
+Hurry, Ends Today! Online Only
 
 $25 Off\* $100 or more, or $10 Off\* $50 or more.
 
-In Store and Online
+Online Code: LOVEMOM
 
-Online Code: MOMSLOVE
+In Store and Online
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon30-40% Off Select Small Appliances
+Online Code: MOMSLOVE
 
-Excluded from coupon.
+\*See exclusions and details.In Store Only
 
-shop small appliances Night and Day Doorbusters
+$10 Off\* $25 or more.
 
-In store only. Friday, 3PM until 10PM, Saturday, 9AM until 1PM.
+print store coupon 40% Off Select Dresses shop dressesLast Day! $15 Off\* $15
 
-view doorbusters store ad 30-50% Off Select Worthington shop Worthington 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Sleepwear For Her shop women's sleepwear 25-40% Off Select Handbags shop handbags 40-50% Off Select St. John's Bay For Her shop women's St. John's Bay 40-50% Off Select Carter's shop Carter's JCP Rewards
+Bonus cash coupon when you spend $75 or more on JCPenney gift cards in store, May 1-11.
+
+Coupon good for one-time use, in store only, May 12, 2014 through June 1, 2014.
+
+\*See exclusions and details.Love MOM Sale
+
+It's not too late to find the perfect Mother's Day gift in store.
+
+shop the sale view store ad Furniture Clearance 50-70% Off
+
+In Store and Online
+
+shop furniture clearance 30-50% Off Select Worthington shop Worthington Sale $24.99-$29.99 Select Women's Sandals shop women's sandals 30-60% Off Select Fashion Jewelry shop fashion jewelry 25-40% Off Select Handbags shop handbags 30-50% Off Select Bedding shop bedding Free! K-Cup Storage Drawer With Select Keurig Purchases shop Keurig JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -83,11 +81,7 @@ sign up todayGift Cards
 
 Always fits, never expires.
 
-shop gift cardsLove MOM
-
-Mother's Day is May 11.
-
-shop Mother's Day giftsRed Zone Clearance Selections shop clearance
+shop gift cardsThe Wedding Registry at JCPenney view registryRed Zone Clearance Selections shop clearance
 
 get connected
 
