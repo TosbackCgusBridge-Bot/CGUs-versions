@@ -1,18 +1,11 @@
-patching...
+Patch
 
-*   Admin
-    
+*   About
+*   Advertise With Us
+*   Careers
+*   Contact
 
-*   Choose Town
-
-*   Sign In
-
-*   *   Profile
-    *   Account
-    *   Log Out
-
-**Welcome back, Patch Blogger!** Make Patch better! Take our survey:   OK | Sorry, maybe next time  
-(survey will open in a new window) Privacy Policy
+Privacy Policy
 
 Patch Media Corporation ("Patch", "we" or "our"), a wholly-owned subsidiary of AOL Inc., has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.patch.com (the "Service"). By using or accessing the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
 
@@ -43,7 +36,7 @@ Cookies, Web Beacons, and Similar Technologies
 
 "Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies (and similar items such as clear gifs, web beacons, tags, etc...) to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our service. Cookies and similar items are not used by us to automatically retrieve personal information from your computer without your knowledge. Many websites, including Patch, may also use Flash cookies that operate similarly to browser cookies.
 
-When you use our Service, our business partners and advertisers (including AOL Advertising) may set cookies and similar items on your computer to help deliver more relevant content and advertisements throughout their networks. These companies may use non-personally identifiable information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit http://www.networkadvertising.org/managing/opt\_out.asp .
+When you use our Service, our business partners and advertisers (including AOL Advertising) may set cookies and similar items on your computer to help deliver more relevant content and advertisements throughout their networks. These companies may use non-personally identifiable information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit http://www.networkadvertising.org/managing/opt\_out.asp.
 
 You can control browser cookies through your browser's settings. You can control Flash cookies via the Macromedia Flash application on your computer, or by going to the Adobe Flash Player website, which allows you to view, modify, and delete Flash cookies. Please note that if you reject all browser or Flash cookies you may not be able to take advantage of many Patch Services.
 
@@ -77,30 +70,31 @@ Terms of Use
 
 Use of the Service, and this Privacy Policy, is subject to our Terms of Use.
 
-**Contact:** For questions or concerns relating to privacy, we can be contacted at: privacy@patch.com.
+**Contact**: For questions or concerns relating to privacy, we can be contacted at: privacy@patch.com.
 
-**United States of America:** Our Service is maintained in the United States of America. By using the Service, you freely and specifically give us your consent to export your Personal Information to the USA and to store and use it in the USA as specified in this policy.
+**United States of America**: Our Service is maintained in the United States of America. By using the Service, you freely and specifically give us your consent to export your Personal Information to the USA and to store and use it in the USA as specified in this policy.
 
-**Effective Date:** July 10, 2012
+**Effective Date**: July 10, 2012
 
-Patch Info
+Patch Corporate Info
 
-*   About Us
-*   Jobs
+*   About Patch
+*   Careers &. Volunteering
+
+Partnerships
+
 *   Advertise
-*   About Our Ads
-*   Terms of Use
-*   Privacy Policy - **UPDATED**
+*   Patch for Businesses
+*   What People Are Saying
 
-Get in Touch
+Support
 
-*   Go Patch!
-*   Help
+*   FAQs
 *   Contact Us
-*   Patch Blog
+*   About our Ads
 
-Patch Initiatives
+© 2014 Patch. All Rights Reserved.
 
-*   PatchU
-
-Copyright © 2014 Patch. All Rights Reserved.
+*   **Patch Network**
+*   Terms of Use
+*   Privacy Policy
