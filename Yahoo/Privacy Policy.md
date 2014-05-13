@@ -150,7 +150,10 @@ Haut de page
 
 A la une
 
-  
-**DES PUBLICITÉS PERTINENTES** En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.
+Les paramètres « ne pas me pister » (Do Not Track en anglais) du navigateur ne sont plus activés sur Yahoo. Les utilisateurs reçoivent par défaut une expérience personnalisée. Vous pouvez gérer la personnalisation ici.
 
-Vie Privée | Conditions Générales d'Utilisation
+DES PUBLICITÉS PERTINENTES
+
+En vous apportant du contenu et des publicités pertinents, adaptés à vos centres d’intérêts, Yahoo transforme l'utilisation de ses services en une expérience unique. Pour en savoir plus sur les publicités pertinentes, cliquez ici. Gérez les catégories basées sur vos centres d’intérêts ou bloquez toutes les catégories sur notre outil de gestion des publicités basées sur les centres d’intérêts.
+
+Vie Privée (Mis à jour) | Conditions Générales d'Utilisation
