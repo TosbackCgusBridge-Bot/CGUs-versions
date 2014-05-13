@@ -64,7 +64,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 We utilize software from several third party companies that places tracking technologies on our web sites. We have control over these third party cookies and javascript tags which we use to analyze the data they generate, in aggregate. Some of the reasons for collecting this data is to determine the most popular offers on our sites, the most popular areas for users to click on a screen with many buttons to click, etc. We also use one of these services to estimate broad demographic patterns for our users in order to present our site audience as a whole to advertisers.
 
-When you register with PCHbingo, PCHlotto, PCHslots and PCHBlackJack, we may share your name and information with third parties who may contact you by mail with relevant offers. If you are already receiving these emails and no longer wish to receive such communications, contact customer service at 1-800-459-4724 to be placed on unsubscribe list.
+When you register with PCHbingo, PCHlotto, PCHslots and PCHBlackJack, we may share your name and information with third parties who may contact you by mail with relevant offers. If you wish to opt out of such exchanges you may click here.
 
 **4\. Targeted or Behavioral Advertising:**
 
