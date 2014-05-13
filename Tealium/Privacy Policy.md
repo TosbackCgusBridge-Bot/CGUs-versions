@@ -94,8 +94,9 @@ The industry's first audience discovery and digital data distribution platform �
     *   Media &. Publishing
     *   Technology Services
 
-Panel Discussion  
-"Driving More Profitable Customer Interactions with Big Data" | Watch Now »
+Free Webinar  
+“Making Sense of the Marketing Cloud Wars”  
+Register Now »
 
 *   Partners
     *   SYNC for Agencies
