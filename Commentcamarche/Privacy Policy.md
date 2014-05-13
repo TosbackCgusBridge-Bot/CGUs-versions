@@ -1,4 +1,4 @@
-USESDEFRITBR Avril 2014
+USESDEFRITBR Mai 2014
 
 *   Objet
 *   Mentions légales
@@ -121,16 +121,16 @@ Droit applicable et juridiction compétente
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
 
 *   Conditions générales d'utilisation
-*   Redaction de condition general d utilisation d un site
-*   Conditions d'utilisation
-*   Conditions generales de vente » Forum - Webmaster
+*   D'utilisation
+*   Que vfeut dire condition d utilsateur
+*   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
-*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Conditions générales (Résolu) » Forum - Mobile
+*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 
 Communautés d'assistance et de conseils.
 
+*   Forum Mobile
 *   Forum Vos droits sur internet
 *   Forum Bouygues Télécom
-*   Forum Mobile
