@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena711 SERVER NAME :->. prod-l2-com-71102 TIME :->. Sun May 11 08:05:43 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l1-com-70101 TIME :->. Mon May 12 11:23:11 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,37 +43,42 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Hurry, Ends Today! Online Only
+*   Home Event
+    
+    Instant Savings Online
+    
+    Ends May 14.
+    
+    50% Off\* select ready-made curtains, luggage and blinds and shades.
+    
+    40% Off\* select bedding and bath, furniture, mattresses and window hardware
+    
+    30% Off\* select housewares, kitchen and dining, home decor and custom blinds and shades.
+    
+    shop home eventShop and Save At JCPenney Stores print store coupon40% Off Bedding shop bedding
+*   In Store and Online
+    
+    Ends May 14.
+    
+    Extra 25% Off\* swimwear and accessories.
+    
+    Extra 15% Off\* other apparel, accessories and more.
+    
+    Or, Extra 10% Off\* watches.
+    
+    Use Code: POOLDAY
+    
+    shop kids' swim shop men's swim shop women's swim \*See exclusions and details. print store coupon
 
-$25 Off\* $100 or more, or $10 Off\* $50 or more.
+40-50% Off Select Women's St. John's Bay shop women's St. John's Bay $27 Select Guys' Levi's™ Denim Shorts
 
-Online Code: LOVEMOM
+Excluded from offer.
 
-In Store and Online
+shop Levi's™ $24.99 Select Men's Sandals shop men's sandals 40-50% Off Select Kids' Arizona shop kids' Arizona 60% Off\* Gold Jewelry
 
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Code: MAYJWLRY
 
-Online Code: MOMSLOVE
-
-\*See exclusions and details.In Store Only
-
-$10 Off\* $25 or more.
-
-print store coupon 40% Off Select Dresses shop dressesLast Day! $15 Off\* $15
-
-Bonus cash coupon when you spend $75 or more on JCPenney gift cards in store, May 1-11.
-
-Coupon good for one-time use, in store only, May 12, 2014 through June 1, 2014.
-
-\*See exclusions and details.Love MOM Sale
-
-It's not too late to find the perfect Mother's Day gift in store.
-
-shop the sale view store ad Furniture Clearance 50-70% Off
-
-In Store and Online
-
-shop furniture clearance 30-50% Off Select Worthington shop Worthington Sale $24.99-$29.99 Select Women's Sandals shop women's sandals 30-60% Off Select Fashion Jewelry shop fashion jewelry 25-40% Off Select Handbags shop handbags 30-50% Off Select Bedding shop bedding Free! K-Cup Storage Drawer With Select Keurig Purchases shop Keurig JCP Rewards
+shop gold jewelry \*See exclusions and details. Sale $24.99-$29.99 Select Women's Sandals shop women's sandals JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
