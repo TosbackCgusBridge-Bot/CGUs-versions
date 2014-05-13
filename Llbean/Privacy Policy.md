@@ -27,6 +27,7 @@ Email: preferences@llbean.com
 *   Security
 *   Privacy of Children on Our Web Site
 *   Policy Changes
+*   Quality Assurance for Customer Service Interactions
 *   Questions or Comments?
 
 **Information We Collect**
@@ -161,6 +162,11 @@ Our Web site is not intended for use by children under the age of 13, and we do 
 
 **Policy Changes**  
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our Web site. We encourage you to review our privacy policy periodically.
+
+ return to top
+
+**Quality Assurance for Customer Service Interactions**  
+To make sure we continue to offer the best service possible, your communication with Customer Service may be monitored for quality assurance.
 
  return to top
 
