@@ -149,8 +149,8 @@ Lenovo United States Select a country/region
 *   Support
 
 *   Contact Us
-    *   **Live Sales Chat** Click to chat with a live representative.  
-        Open 24 hours a day, 7 days a week.
+    *   **Customer service inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
+    *   **Sales inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
     *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
         Sat: 9am - 6pm (EST)  
@@ -380,9 +380,9 @@ Lenovo United States Select a country/region
         Offer valid when upgrading your system with accessories!
         
         **Shop now >**
-    *   MOBILE EDGE DEAL SAVE 25%
+    *   LENOVO KEYBOARDL Save 20%
         
-        on select Mobile Edge cases for Mother's Day!
+        Enhanced with features to increase your productivity.
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
