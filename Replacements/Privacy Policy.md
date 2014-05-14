@@ -43,7 +43,11 @@ When purchasing items from a bridal registry, we request the following informati
 
 Disclosure to Third Party Companies
 
-We do not sell or otherwise release any information regarding our customers to any third party. In rare cases, we may be required to provide information to courts of competent jurisdiction, regulatory authorities or agencies, or law enforcement officials in accordance with applicable law.
+We do not sell or rent any information regarding our customers to any third party. We never disclose any information to third parties for a third parties’ direct marketing purposes.
+
+We may share the information we collect from and about you with companies or individuals that provide services or perform functions that enable us to serve you. These functions or services may include order fulfillment, package delivery, communications, postal or email delivery, customer service, data analysis, credit or payment processing, and the like. These companies or individuals may need information about you to perform their work. These companies or individuals are carefully selected and must agree to safeguard your information in strict compliance with this policy when we deem appropriate.
+
+If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our customers. We also may retain a copy of that information.
 
 Cookies
 
@@ -65,7 +69,7 @@ Your Consent
 
 By using our website, you signify your consent to the Privacy Statement of Replacements.com. Please check this page regularly, for any changes that are made to this Privacy and Security statement will be posted here.
 
-Home | FAQ | Letters | Site Map | Contact Us | Top  
+Home | FAQ | Letters | Site Map | Contact Us | Customer Service | Top  
   
 Find This For Me!
 
