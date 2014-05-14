@@ -8,7 +8,7 @@ This Privacy Statement describes how we collect and use your information and giv
 
 *   What information does Eddie Bauer collect about me?
 *   How do you use my information?
-*   Companies other than Eddie Bauer
+*   Companies other than Eddie Bauer"
 *   What are "cookies" and how does Eddie Bauer use them?
 *   How can I update my information?
 *   How do I know my information is secure?
@@ -17,7 +17,7 @@ This Privacy Statement describes how we collect and use your information and giv
 *   Contact Information
 *   Unsubscribe From Eddie Bauer
 
-^Return to top What information does eddie bauer collect about me?
+^Return to top What information does Eddie Bauer collect about me?
 
 Every time you visit our website, we automatically collect your Internet service provider's address, the Web page from which you came, and a record of your activity on our site.
 
@@ -29,19 +29,19 @@ We also collect the information you provide to us when you register for "My Acco
 
 The information we receive allows us to tailor our product offer and improve your shopping experience, making shopping easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our websites and products, and provide you with marketing information.
 
-The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please Click here for contact information.
+The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please click here for contact information.
 
 We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online. Our advertising partners will make the data we provide it anonymous before using it to deliver ads online. We may partner with other service providers that collect non-identifiable information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve ads targeted to your interests on other websites. The information is collected through the use of cookies, web beacons, and similar technologies, and does not include your name, address, e-mail address or other personal information. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance by clicking here. To opt out of the online advertisements provided directly by Eddie Bauer, click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
 
-In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please Click here for contact information.
+In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please click here for contact information.
 
-We periodically send you email about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, please Click here for contact information, or click the "unsubscribe" link on any promotional email you receive from us. Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.
+We periodically send you email about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, please click here for contact information, or click the "unsubscribe" link on any promotional email you receive from us. Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.
 
 In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us, and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from Eddie Bauer.
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law. or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions. or, (3) investigating fraud which has already taken place. The information is not provided to these agencies or companies for marketing purposes.
 
-^Return to top Companies Other Than Eddie Bauer
+^Return to top Companies other than Eddie Bauer
 
 Our privacy policy does not apply to companies other than Eddie Bauer. Companies other than Eddie Bauer are sometimes identified on our website, catalog or marketing materials. If you make a purchase from another company's catalog or website, the information you provide to that company, such as your credit card number and contact information, is provided to that company and not to Eddie Bauer. Providing this information to the company enables your transaction with the other company to take place. However, you should know that the company may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Eddie Bauer. You should also know that these companies have their own privacy and data collection practices and are not covered by the Eddie Bauer privacy statement.
 
@@ -57,7 +57,7 @@ We recognize that you have a choice to refuse cookies. However, by choosing to a
 
 If you are shopping Eddie Bauer and are having difficulty adding product to your shopping bag or completing your order, please check your privacy settings in your browser. If you do not wish to change your privacy settings to "Medium" and you are currently using the "Medium High" or "High" settings, you may choose to override your current cookie handling practices for individual sites that you specify, including eddiebauer.com and eddiebaueroutlet.com. Please click here for instructions on how to override your normal cookie handling practices. If you prefer not to change your privacy settings or override your cookie handling practices, you can, as always, place your order by phone at 1-800-426-8020.
 
-^Return to top How can I update or access my information?
+^Return to top How can I update my information?
 
 We provide you access to the following information if you send us an email, call us or write to us:
 
@@ -76,35 +76,23 @@ We have appropriate security measures in place to protect against the loss, misu
 
 You can help us identify attempts at fraud.
 
-  
-
 Eddie Bauer will never ask you for sensitive personal information in an email.
-
-  
 
 If you receive a suspicious email appearing to come from Eddie Bauer, such as one requesting that you confirm personal information like your credit card number, or if you have received an email implying that it has been sent by Eddie Bauer after you have Opted Out of receipt of Eddie Bauer emails, you may forward the suspicious email to abuse@eddiebauer.com.
 
-  
-
 You should not respond directly to suspicious email. And do not click on or open any hyperlink embedded in the suspicious email.
-
-  
 
 There are a few common features of fraudulent emails that can help you identify them as spam. The two most frequent are:  
 a) receiving an email that contains mistakes such as misspelled words or grammatical errors, and  
 b) receiving an email that asks for your confidential information or asks you to take immediate action on your account.  
 
-  
-
 We encourage all of our customers to protect themselves and their information:  
 a) do not share your credentials or account information with any third party, and  
 b) make sure that your system is properly patched, running anti-virus and a personal firewall.  
 
-  
-
 If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it to abuse@eddiebauer.com.  
 
-  
+For more information on how to protect yourself and your personal information, you can visit the antiphishing Working Group's website at http://www.antiphishing.org/consumer\_recs.html.  
 
 Thank you for helping us monitor and prevent fraud.
 
@@ -130,7 +118,7 @@ By Email
 
 CustomerCare@csc.eddiebauer.com
 
-Communications from Eddie Bauer To Unsubscribe from Eddie Bauer Email
+Communications from Eddie BauerTo Unsubscribe from Eddie Bauer Email
 
 If for any reason you would like to unsubscribe from either or both of our email programs, please follow the instructions below:
 
@@ -138,13 +126,13 @@ Eddie Bauer Email
 
 1.  Simply click the Unsubscribe link provided at the bottom of  
     every email you receive.
-2.  Send us an email at CustomerCare@csc.eddiebauer.com
+2.  Send us an email via our Contact Us form.
 
 Eddie Bauer Friends Email
 
 1.  Simply click the Unsubscribe link provided at the bottom of  
     every Friends email you receive.
-2.  Send us an email at CustomerCare@csc.eddiebauer.com
+2.  Send us an email via our Contact Us form.
 
 EDDIE BAUER MAIL AND TELEMARKETING PREFERENCES
 
