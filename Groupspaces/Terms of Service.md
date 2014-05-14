@@ -383,7 +383,4 @@ Suite 17861
 Lower Ground Floor  
 145-157 St John Street  
 London EC1V 4PW  
-UK  
-  
-**Phone:**  
-+44 (0)207 193 5063 (UK) or +1 347 414 8063 (US)
+UK
