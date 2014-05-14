@@ -36,8 +36,8 @@ Back
 
 Back Quote &. Buy Online Zip Code AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home
 
-*   Quote with a Local Agent
-*   Retrieve a Quote
+*   Quote with a local agent
+*   Retrieve a saved quote
 
 Privacy &. Security
 
