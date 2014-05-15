@@ -211,8 +211,8 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 
 Attn: Vice President, Customer Service  
 GameFly, Inc.  
-P.O. Box 200533  
-Austin, Texas 78720  
+PO Box 80924  
+Austin, Texas 78708  
 1-888-986-6400 - M - F, 12 p.m. - 4 p.m. CST  
 support@gamefly.com - 7 days a week
 
