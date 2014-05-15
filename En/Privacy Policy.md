@@ -279,7 +279,7 @@ Searches:
     *   Softonic Info
     *   Help &. Support
     *   Jobs
-    *   Softonic News
+    *   Company News
     *   Legal Information
 *   Developers
     *   Softonic Developer Center
