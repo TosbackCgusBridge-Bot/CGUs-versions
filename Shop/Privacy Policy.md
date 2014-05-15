@@ -165,7 +165,7 @@ Lenovo United States Select a country/region
     *   **Order Status** Track by order number.
     *   **Tech Support** Find phone numbers for your location.
     *   **Need More Help?** More ways to contact Lenovo
-*   Sign-Up to Win
+*   Email Sign-Up
 *   My Account
 *   Cart
 
@@ -380,7 +380,7 @@ Lenovo United States Select a country/region
         Offer valid when upgrading your system with accessories!
         
         **Shop now >**
-    *   LENOVO KEYBOARDL Save 20%
+    *   LENOVO KEYBOARD Save 20%
         
         Enhanced with features to increase your productivity.
         
