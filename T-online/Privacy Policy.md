@@ -71,10 +71,12 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 *   Newsletter
 
   
+  
 **Kundenservice**
 
 *   Ferndiagnose
 
+  
   
 **Software und Meine Dienste**
 
@@ -82,6 +84,7 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
 *   Meine Software
 *   Meine Dienste
 
+  
   
 **E-Mail Center**
 
