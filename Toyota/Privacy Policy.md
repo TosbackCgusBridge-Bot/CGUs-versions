@@ -61,7 +61,7 @@ View All Vehicles Shopping Tools
 *   Local Specials
 *   Search Inventory
 *   Request a Quote
-*   Accessories Guide
+*   Accessories
 
 *   Buy
 *   Financial Tools
@@ -383,5 +383,6 @@ Toyota Social
 *   Twitter
 *   Youtube
 *   Google+
+*   Instagram
 
 Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map AdChoices
