@@ -42,8 +42,6 @@ Help Section
 *   Terms of Use
 *   Site Map
 
-Advertisement
-
   
   
 alt="Click this Mojo Ad" border="0">  
