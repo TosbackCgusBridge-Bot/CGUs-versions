@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
+Syfy Video The Wil Wheaton Project The Wil Wheaton Project
+
+The world of Sci-fi in 30 minutes. Tune in Tuesday May 27th at 10/9c for the Wil Wheaton Project.
+
+Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
 #sharknado2. Coming in July!
 
@@ -262,10 +266,6 @@ War is coming as heaven raises hell. Watch the premiere of Dominion, Thursday Ju
 Good is Not Good Enough - Heroes of Cosplay i ... Good is Not Good Enough - Heroes of Cosplay is Back!
 
 Heroes of Cosplay returns for season 1.5 on Tuesday May 27 at 9/8c.
-
-The Wil Wheaton Project - Premiering May 27th ... The Wil Wheaton Project - Premiering May 27th at 10/9c.
-
-The Wil Wheaton Project premieres May 27th at 10/9c. Don't miss it.
 
 *   FAQ
 *   Feedback
