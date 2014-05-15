@@ -31,6 +31,8 @@ In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide li
 
 For the Monthly Prescribing Reference app only user data will be shared with Haymarket’s software partner, Atmosphere Apps. To view the Atmosphere App’s privacy policy please go to http://www.atmosphereapps.com/privacy.html
 
+Haymarket will share user data with accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate.
+
 **Aggregated information**
 
 We sometimes provide aggregated usage or tracking information collected from this Digital Offering to third parties.
