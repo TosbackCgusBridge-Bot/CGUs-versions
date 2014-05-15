@@ -1,6 +1,6 @@
 Terms of Use Acceptance of Terms
 
-These terms were last updated on January 20, 2014.
+These terms were last updated on May 13, 2014.
 
 Welcome to GameFly. The gamefly.com, digital.gamefly.com, digital.gamefly.co.uk and cheatfreak.com websites, including all subpages and successor pages thereto (collectively, the "Websites"), the GameFly mobile application and associated services (the "Mobile App"), the GameFly Downloader and the GameFly Subscription Rental Service and other services offered by GameFly (the "Service") are owned and operated by GameFly, Inc. and/or one of its subsidiaries including GameFly Digital, Inc. (hereinafter referred to as "GameFly", "we" or "us"). The Website, the Mobile App, the Downloader and the Service are collectively and individually referred to as the "GameFly Site and Services."
 
@@ -325,7 +325,7 @@ If you have a question or concern about these Terms of Use, please contact GameF
 
 Attn: Vice President, Customer Service  
 GameFly, Inc.  
-P.O. Box 200533  
-Austin, Texas 78720
+PO Box 80924  
+Austin, Texas 78708
 
 Follow us: @GameFly on Twitter | GameFly on Facebook
