@@ -373,12 +373,12 @@ Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
 
-*   Enterprise Tag Management
+*   Real Time Marketing
 *   Data Platform As A Service
-*   Container Tag
-*   Marketing Digital
-*   Analytics Data Management
-*   Audience Data Management
-*   Data Distribution System
-*   Container Tags And Tag Management
+*   Basic Tag Management
 *   Bid Management Plan
+*   Big Data Platform
+*   Business Marketing Campaigns
+*   Tag Management Tool
+*   Data Distribution System
+*   Analytics Data Management
