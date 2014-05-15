@@ -177,7 +177,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Storage &. Organization
             *   Home Décor &. Gifts
             *   Kitchen &. Dining
-            *   Backpacks, Luggage &. Bags
+            *   Luggage &. Bags
             *   Kids Home
             *   Dog Shop
 *   Uniforms
@@ -214,6 +214,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Outerwear
             *   Shoes &. Boots
             *   Accessories
+            *   Backpacks &. Bags
             *   Swim
     *   *   Boys &. Men
             *   Back to Uniforms Boys &. Men
@@ -227,6 +228,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Outerwear
             *   Shoes &. Boots
             *   Accessories
+            *   Backpacks &. Bags
             *   Swim
 *   Sale
     *   *   Back to Main Menu Sale
