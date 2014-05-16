@@ -1,8 +1,8 @@
  
 
-*    For Owners
-*    Customer Support
-*    Search
+*   For Owners
+*   Customer Support
+*   Search
 
 *   Subaru Confidence In Motion
 *   Vehicles
@@ -43,7 +43,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-2014 Impreza 2.0i Sport Limited shown
+Impreza 2.0i Sport Limited shown
 
 WRX $26,295 starting price 2015 WRX
 
@@ -229,7 +229,6 @@ See why an owner's love for Subaru lasts forever.
 GO Change
 
 *   ,
-    
 
 Visit Dealer Site View special offers, browse  
 inventory and more. Company
@@ -413,7 +412,7 @@ Legal Disclaimers
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
-iPod® and iPad® are registered trademarks of Apple Inc.. Brembo® is a registered trademark of Freni Brembo S.p.A.. Alcantara ® is a registered trademark of Alcantara S.p.A and Alcantara® is produced by Toray Group.. TORSEN® is a registered trademark of JTEKT Corporation.. BBS® is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM™ Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth® is a registered trademark of Bluetooth® SIG, Inc.. HomeLink® is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha™ and harman/kardon® are a registered trademarks of Harman International Industries, Inc.. Android™ is a trademark of Google Inc.
+iPod® and iPad® are registered trademarks of Apple Inc.. Brembo® is a registered trademark of Freni Brembo S.p.A.. Alcantara ® is a registered trademark of Alcantara S.p.A and Alcantara® is produced by Toray Group.. TORSEN® is a registered trademark of JTEKT Corporation.. BBS® is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM™ Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth® is a registered trademark of Bluetooth® SIG, Inc.. HomeLink® is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha™ and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android™ is a trademark of Google Inc.
 
 PLEASE REVIEW THESE IMPORTANT DISCLOSURES.  
 Subaru of America, Inc. reserves the right to make changes at any time without notice or obligation to the information contained on this Internet site, prices, incentive programs, specifications, equipment, colors, materials, product illustrations and to change or discontinue models. All prices are based upon Manufacturer's Suggested Retail Prices (""MSRP"") in U.S. dollars (unless otherwise indicated) and exclude taxes, title fees, licensing, options and destination charges unless specifically included. Dealers are independent businesses and are free to set their own retail prices. All information contained at this Internet site is intended for the USA market only.
