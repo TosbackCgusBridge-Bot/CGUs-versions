@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   angie
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola834 SERVER NAME :->. prod-c1-com-83402 TIME :->. Wed May 14 04:20:00 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola711 SERVER NAME :->. prod-c1-com-71101 TIME :->. Thu May 15 05:41:05 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,42 +43,61 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Home Event
-    
-    Instant Savings Online
-    
-    Ends May 14.
-    
-    50% Off\* select ready-made curtains, luggage and blinds and shades.
-    
-    40% Off\* select bedding and bath, furniture, mattresses and window hardware
-    
-    30% Off\* select housewares, kitchen and dining, home decor and custom blinds and shades.
-    
-    shop home eventShop and Save At JCPenney Stores print store coupon40% Off Bedding shop bedding
-*   In Store and Online
-    
-    Ends May 14.
-    
-    Extra 25% Off\* swimwear and accessories.
-    
-    Extra 15% Off\* other apparel, accessories and more.
-    
-    Or, Extra 10% Off\* watches.
-    
-    Use Code: POOLDAY
-    
-    shop kids' swim shop men's swim shop women's swim \*See exclusions and details. print store coupon
+Appreciation Sale!
 
-40-50% Off Select Women's St. John's Bay shop women's St. John's Bay $27 Select Guys' Levi's™ Denim Shorts
+A big thank you seems fitting! Styles and savings just for you.
 
-Excluded from offer.
+\*See exclusions and details. view store ad
 
-shop Levi's™ $24.99 Select Men's Sandals shop men's sandals 40-50% Off Select Kids' Arizona shop kids' Arizona 60% Off\* Gold Jewelry
+Ends Sunday, May 18.
 
-Code: MAYJWLRY
+In Store and Online
 
-shop gold jewelry \*See exclusions and details. Sale $24.99-$29.99 Select Women's Sandals shop women's sandals JCP Rewards
+Extra 15% Off\*
+
+Online Only
+
+Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Online Code: DAISY15
+
+\*See exclusions and details. print store couponNight and Day Doorbusters
+
+Excluded from coupon offer.
+
+In Store Only, Friday, May 16, 3PM until close, Saturday, May 17, 10AM until 1PM.
+
+view doorbusters store ad Home Savings
+
+In Store and Online. Ends May 20.
+
+Online Code: SUPERCPN
+
+\*See exclusions and details.
+
+40% Off\* Bedding and Bath
+
+shop bedding and bath
+
+30% Off\* Kitchen and Dining
+
+shop kitchen and dining
+
+40% Off\* Furniture
+
+shop furniture
+
+40% Off\* Bedding and Bath
+
+shop bedding and bath
+
+50% Off\* Window
+
+shop window print store coupon 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40-50% Off Select Guys' Arizona shop guys' Arizona Sale $24.99-$29.99 Select Women's Sandals shop women's sandals 40-50% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Women's Swim shop women's swim 40-60% Off Select Fine Jewelry shop fine jewelry JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
