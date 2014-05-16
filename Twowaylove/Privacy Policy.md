@@ -14,6 +14,7 @@ penalty-fur
     *   Advertising
     *   Pricing
     *   Webmaster
+    *   Newsletter
 *   SUBMIT URL
 *   BLOG
 *   TRUST
