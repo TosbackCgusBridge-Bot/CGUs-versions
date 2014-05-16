@@ -149,7 +149,7 @@ Lenovo United States Select a country/region
 *   Support
 
 *   Contact Us
-    *   **Customer service inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
+    *   **Customer service inquiry?**Chat online with a live representative.Chat is always online.
     *   **Sales inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
     *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
@@ -169,7 +169,7 @@ Lenovo United States Select a country/region
 *   My Account
 *   Cart
 
-*   Laptops &. Ultrabooks
+*      Laptops   
     
     *   ThinkPad Laptops Premium Performance, Legendary Reliability
         *   T Series: Premium Laptops
@@ -189,14 +189,14 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   Congrats Grads! Save up to 20%
+    *   Deals You'll Love Save up to 40%
         
-        on select professional laptops! Sale ends May 14.
+        on select home laptops through May 21.
         
         **Shop now >**
-    *   Mother's Day Deals Save up to 40%
+    *   THINKPAD CLEARANCE SALE Save BIG
         
-        on select home laptops through May 14.
+        on select ThinkPad laptops while supplies last.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -207,13 +207,13 @@ Lenovo United States Select a country/region
     
     Not sure what you need?
     *   New Product Showcase
-    *   New Product Announcements
     *   Top Rated &. Best Selling Laptops
-    *   Ultrabooks
     *   Convertibles
     *   Gaming PCs
     *   See All Laptops
-    *   For Work
+    *   Bags &. Carrying Cases
+    *   Battery Finder
+    *   Deals
     
      
 *   Tablets
@@ -230,24 +230,24 @@ Lenovo United States Select a country/region
         *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
     *   Windows TabletsOne Experience For Everything in Your Life
         *   ThinkPad 8:8.3" Multimode Business Tablet
+        *   ThinkPad 10:10.1" Tablet with Full PC Experience
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Tablet 2:10.1" Business Tablet
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
-    *   ConvertiblesFlip, Twist or Fold — Laptop/Tablet Hybrids
-        *   Lenovo Flex:Multimode Laptops
+    *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Yoga:Convertible Entertainment
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   Congrats Grads! Save up to 20%
+    *   Deals You'll Love Save up to 26%
         
-        on select professional tablets! Sale ends May 14.
+        on select home tablets through May 21.
         
         **Shop now >**
-    *   Mother's Day Deals Save up to 26%
+    *   THINKPAD CLEARANCE SALE Save BIG
         
-        on select home laptops through May 14.
+        on select ThinkPad tablets while supplies last.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -257,11 +257,9 @@ Lenovo United States Select a country/region
     
     Not sure what you need?
     *   New Product Showcase
-    *   New Product Announcements
-    *   Shop Lenovo Tablets
-    *   Shop ThinkPad Tablets
     *   See All Tablets
-    *   For Work
+    *   Bags &. Carrying Cases
+    *   Deals
     
      
 *   Desktops &. All-in-Ones
@@ -285,14 +283,14 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Congrats Grads! Save up to 5%
+    *   Deals You'll Love Save up to 26%
         
-        on select professional desktops! Sale ends May 14.
+        on select home desktops through May 21.
         
         **Shop now >**
-    *   Mother's Day Deals Save up to 26%
+    *   THINKPAD CLEARANCE SALE Save BIG
         
-        on select home laptops through May 14.
+        on select ThinkPad desktops while supplies last.
         
         **Shop now >**
     *   Less is More
@@ -303,10 +301,12 @@ Lenovo United States Select a country/region
     
     Not sure what you need?
     *   New Product Showcase
-    *   New Product Announcements
     *   Best Selling Desktops
     *   Gaming PCs
     *   See All Desktops
+    *   Monitors
+    *   Keyboards &. Mice
+    *   Deals
     
      
 *   Workstations
