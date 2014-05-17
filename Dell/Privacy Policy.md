@@ -7,11 +7,11 @@ This privacy statement governs personal information we collect from our customer
 For the purposes of this privacy statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by Dell Inc. "Business partners" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services or information. "Personal information" means information that identifies you, such as your name, telephone number and email address.  
   
 Information We Collect  
+EU and Swiss Safe Harbor  
 How We Use Personal Information  
 Disclosing Personal Information  
 How We Can Access Your Information  
 Selecting Your Information Preferences  
-How We Secure Your Personal Information  
 Collection and Use of Children's Personal Information  
 How We and Our Partners Use Cookies and Web Beacons  
 Third-Party Websites and Services  
@@ -41,6 +41,8 @@ In order to offer you a more consistent and personalized experience in your inte
 
 Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.  
   
+****EU and Swiss Safe Harbor**  
+**In addition to Dell’s other data protection measures, Dell Cloud Clinical Archive (DCCA) services comply with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. For provision of DCCA services to its clients, Dell has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. TRUSTe provides localized dispute resolution of consumer complaints about online data collection as required for Safe Harbor status. Should you have any questions about DCCA’s Safe Harbor status, please contact us at privacy@Dell.com. If you are not satisfied with our response, you can contact TRUSTe here. To learn more about the Safe Harbor program, and to view the Dell Clinical Cloud Archive Services certification, please visit http://www.export.gov/safeharbor.
 
 How We Use Personal Information
 
@@ -76,10 +78,6 @@ You may choose to receive or not receive marketing communications from Dell by i
 *   Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws.
 
 Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
-
-How We Secure Your Personal Information
-
-Dell wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the My Account/Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password.
 
 Collection and Use of Children's Personal Information
 
@@ -138,4 +136,4 @@ USA
 
 You may also email us at privacy@dell.com.
 
-**Privacy Statement Regarding Customer and Online User Information Effective Date: January 2, 2014.**
+**Privacy Statement Regarding Customer and Online User Information Effective Date: May 16, 2014.**
