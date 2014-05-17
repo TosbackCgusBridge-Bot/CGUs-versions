@@ -1,4 +1,32 @@
-"Legal : Subscriber Privacy Policy" Subscriber Privacy Policy
+"Legal : Subscriber Privacy Policy"
+
+Back to All Agreement &. Policies
+
+Subscriber Privacy Policy
+
+DIRECTV is dedicated to protecting your privacy. The Privacy Policy explains how DIRECTV collects, uses, and discloses information about you when you subscribe to our services. The most recent update to The DIRECTV Privacy Policy will take effect on June 24, 2014.
+
+Here is a list of some minor changes that have been made since the previous version.
+
+Information and how we collect it:
+
+*   We collect the device ID or MAC address of any authorized device that you use to access DIRECTV service. We may also collect the date and time that service is accessed.
+*   Information we collect from third parties includes social media data if you log into your account or connect your DIRECTV service through a third party social media app
+
+Our use of cookies and other technologies:
+
+*   Authorized devices or applications may use tracking cookies to collect non- personal information
+*   Devices and applications may also serve tailored ads
+*   Information has been added on how to opt out of tailored ads
+
+How we use your information:
+
+*   Recommendations for account security have been added
+*   Examples have been added to help explain what the information we collect can be used for
+
+  
+
+SUBSCRIBER PRIVACY POLICY
 
 Printable Privacy Policy (English)    View Current Privacy Policy (English)   
 
