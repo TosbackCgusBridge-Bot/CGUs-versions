@@ -177,7 +177,6 @@ Lenovo United States Select a country/region
         *   ThinkPad Yoga: Multimode Business Ultrabook
         *   E Series: Preferred Small-Business Laptops
         *   ThinkPad Helix: Detachable Ultrabook With Four Modes
-        *   ThinkPad Twist: Convertible Small-Business Ultrabooks
         *   L Series: Mainstream Laptops
         *   W Series: Portable Workstations
     *   Lenovo Laptops Stylish Design, Maximum Fun
@@ -237,7 +236,6 @@ Lenovo United States Select a country/region
     *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Yoga:Convertible Entertainment
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
-        *   ThinkPad Twist:12.5" Small-Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
     *   Deals You'll Love Save up to 26%
