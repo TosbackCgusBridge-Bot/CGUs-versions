@@ -259,13 +259,13 @@ Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Com
 
 #sharknado2. Coming in July!
 
-War is Coming - Dominion - Thursday June 19th ... War is Coming - Dominion - Thursday June 19th at 9/8c
+Extended Trailer - Dominion - Thursday June 1 ... Extended Trailer - Dominion - Thursday June 19th at 9/8c
 
-War is coming as heaven raises hell. Watch the premiere of Dominion, Thursday June 19th at 9/8c.
+Dominion Upfront Trailer
 
-Good is Not Good Enough - Heroes of Cosplay i ... Good is Not Good Enough - Heroes of Cosplay is Back!
+Our Fate - Dominion - Thursday June 19th at 9 ... Our Fate - Dominion - Thursday June 19th at 9/8c
 
-Heroes of Cosplay returns for season 1.5 on Tuesday May 27 at 9/8c.
+Dominion airs June 19th at 9/8c.
 
 *   FAQ
 *   Feedback
