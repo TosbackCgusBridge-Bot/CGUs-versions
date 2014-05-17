@@ -201,10 +201,10 @@ Please email us at internationalprivacy@bloomingdales.com.
 Does this answer your question? Tells us how you think we can make this answer more helpful to you. We do not respond to comments sent through this form. \*Email:Required \*Your Feedback:Required \* required fields  
 
 *   What is the return and exchange policy?
+*   Highlights of Bloomingdale’s Notice of Privacy Practices
 *   What is the shipping policy?
-*   How do I return an item purchased at a Bloomingdale's store?
-*   Terms of Use
-*   Security Policy
+*   Credit Card Privacy Policy
+*   CA Privacy Rights
 
 **Contact Us** for assistance with your shopping experience and other answers.
 
