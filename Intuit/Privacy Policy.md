@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   angie
+*   Welcome  
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola711 SERVER NAME :->. prod-c1-com-71101 TIME :->. Thu May 15 05:41:05 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola833 SERVER NAME :->. prod-c1-com-83301 TIME :->. Fri May 16 05:32:12 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -113,7 +113,7 @@ email offers
 
 mobile offers
 
-download our app: iPhone | iPad | Android **CUSTOMER SERVICE**
+download our app: iPhone | Android **CUSTOMER SERVICE**
 
 *   returns
 *   shipping information
