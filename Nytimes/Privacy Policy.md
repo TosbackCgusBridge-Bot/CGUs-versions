@@ -1,18 +1,21 @@
-campaign: nyt2014\_bar1\_simplify\_ctrl\_3Q64Y\_3Q869\_3Q86F\_44YQL -- 245408, creative: nyt2014\_bar1\_simplify\_ctrl\_full\_ad -- 371526, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Subscribe Now Try Home Delivery for 50% Off 12 Weeks Plus Free All Digital Access
+*   _​_​Get Top Stories
+*   Subscribe Home Delivery: 50% Off 12 Weeks
     
-    All print options include free, unlimited access to NYTimes.com, NYTimes apps and NYT Now.
+    All print options include free, unlimited access to  
+    NYTimes.com, NYTimes apps and NYT Now.
     
-    Get Home Delivery Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
+    Get Home Delivery Digital Subscription: Just 99¢ for 4 Weeks
     
-    Get unlimited access to NYTimes.com, NYTimes apps,  
-    plus free NYT Now.
+    Get unlimited access to NYTimes.com,  
+    NYTimes apps and NYT Now.
     
-    Get Digital Try NYT Now and Get Your First 4 Weeks Free
+    Get Digital Top Stories Top Stories: Just 99¢ for 12 Weeks
     
-    A selection of top stories,  
-    handpicked by editors. Available on NYTimes.com and a new iPhone® app.
+    Get unlimited access to Top Stories, handpicked  
+    by our editors. On NYTimes.com and in the new  
+    NYT Now app for iPhone®.
     
-    Get NYT Now See All Subscriptions
+    Get Top Stories See All Subscriptions
 Subscribe*   Help
 
 *   Home Page
