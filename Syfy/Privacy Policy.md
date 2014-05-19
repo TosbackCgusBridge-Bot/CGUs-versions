@@ -255,6 +255,10 @@ Syfy Video The Wil Wheaton Project The Wil Wheaton Project
 
 The world of Sci-fi in 30 minutes. Tune in Tuesday May 27th at 10/9c for the Wil Wheaton Project.
 
+Who Is Wil Wheaton? Who Is Wil Wheaton?
+
+Wil Wheaton gives you more info on how he became a huge genre fan. The Wil Wheaton Project premieres Tuesday May 27 at 10/9c.
+
 Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
 #sharknado2. Coming in July!
@@ -262,10 +266,6 @@ Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Com
 Extended Trailer - Dominion - Thursday June 1 ... Extended Trailer - Dominion - Thursday June 19th at 9/8c
 
 Dominion Upfront Trailer
-
-Our Fate - Dominion - Thursday June 19th at 9 ... Our Fate - Dominion - Thursday June 19th at 9/8c
-
-Dominion airs June 19th at 9/8c.
 
 *   FAQ
 *   Feedback
