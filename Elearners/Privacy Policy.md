@@ -1,9 +1,4 @@
-Skip to main content
-
-  
-  
-alt="Click this Mojo Ad" border="0">  
-**eLearners.com** Sign In  
+Skip to main content **eLearners.com** Sign In  
 
 Campus Main Menu
 
