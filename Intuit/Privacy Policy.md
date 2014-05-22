@@ -14,7 +14,7 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   RACHEL
+*   Welcome  
 *   sign out
     
 *   800.322.1189
@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola721 SERVER NAME :->. prod-c1-com-72101 TIME :->. Sun May 18 04:00:22 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola781 SERVER NAME :->. prod-c2-com-78101 TIME :->. Wed May 21 05:21:04 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,76 +43,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Summer's Sweetest Home Finds!
-    
-    Get inspired! Fit your space, style and wallet.
-    
-    shop homeIn Store and Online
-    
-    Ends May 20.
-    
-    50% Off\* ready-made curtains, luggage, blinds and shades.
-    
-    40% Off\* bath and bedding, furniture, mattresses, window hardware.
-    
-    30% Off\* housewares, custom blinds and shades, kitchen and dining, home decor.
-    
-    Code: SUPERCPN
-    
-    \*See exclusions and details. print store coupon shop bedding
-*   Summer's Greatest Fits Sale!
-    
-    Hundreds of awesome finds, all under $20!
-    
-    Last Day! Ends May 18. In Store and Online
-    
-    Extra 15% Off\*
-    
-    Online Only
-    
-    Extra 20% Off\* $100 or more.
-    
-    In Store and Online
-    
-    Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-    
-    Code: DAISY15
-    
-    \*See exclusions and details. print store couponUnder $5
-    
-    $4.99 men's St. John's Bay tees
-    
-    $4.99 boys' Arizona tees
-    
-    $4.99 girls' Arizona tees
-    
-    shop under $5Under $10
-    
-    $6.99 Mixit fashion flip-flops for her
-    
-    $7.99 juniors' Arizona swim separates
-    
-    $9.99 men's St. John's Bay polos
-    
-    shop under $10Under $15
-    
-    $11.99 men's Foundry big and tall tees
-    
-    $14.99 boys' and girls' swimwear
-    
-    $14.99 select Arizona, JCP, St. John's Bay and Joe Fresh shorts for her
-    
-    shop under $15Under $20
-    
-    $19.99 Liz Claiborne and Unisa sandals for her
-    
-    $19.99 guys' Arizona canvas shoes
-    
-    $19.99 A.N.A flip-flop dresses
-    
-    shop under $20
+In Store and Online
 
-30-50% Off Select JCP For Her shop women's JCP 50% Off Select Fashion Jewelry When You Buy 2 Or More shop fashion jewelry $19.99 Select Juniors' Casual Shoes shop juniors' shoes 40-50% Off Select Dockers shop Dockers 40-50% Off Select Carter's shop Carter's 30-60% Off Select Swimwear For The Family shop swimwear JCP Rewards
+Ends May 26.
+
+Online Code: SUNNYDAY
+
+Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Select original, regular, sale and clearance-priced items.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print store coupon Memorial Day Sale!
+
+In store and online.
+
+A salute to Memorial Day, with savings and styles that fit so right.
+
+shop the sale30-60% Off Swimwear For The Family
+
+Select styles.
+
+shop swimwear JCPenney Rewards Wednesday
+
+Earn your $10 JCP reward faster with double points!
+
+Earn one monthly $10 jcp reward when you spend $50 or more on qualifying purchases on Wednesdays.
+
+get offer details and learn more 40-50% Off Select Window shop window 40-50% Off Select Patio Furniture shop patio furniture 50-60% Off Select Outdoor Rugs shop outdoor rugs 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 50% Off Select Kids' Arizona shop kids' Arizona 30-40% Off Select Liz Claiborne shop Liz Claiborne JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
