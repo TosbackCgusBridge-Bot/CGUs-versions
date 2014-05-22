@@ -147,6 +147,9 @@ Lenovo United States Select a country/region
     *   Business Partners
     *   Resource Center
 *   Support
+    *   Think Product Support
+    *   Mobile &. Idea / Lenovo Support
+    *   Network Storage Support
 
 *   Contact Us
     *   **Customer service inquiry?**Chat online with a live representative.Chat is always online.
@@ -179,6 +182,7 @@ Lenovo United States Select a country/region
         *   ThinkPad Helix: Detachable Ultrabook With Four Modes
         *   L Series: Mainstream Laptops
         *   W Series: Portable Workstations
+        *   11e Series: Student Laptops
     *   Lenovo Laptops Stylish Design, Maximum Fun
         *   Y Series: Premium Multimedia Laptops
         *   Yoga Series:Convertible Entertainment Ultraportables
@@ -222,9 +226,9 @@ Lenovo United States Select a country/region
         *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
         *   Lenovo Yoga Tablet 10 HD+:10.1" Multimode Tablet with Dazzling Display
         *   Lenovo A7:7" Wideview Android Tablet
+        *   Lenovo A8:8" Wideview Android Tablet
         *   Lenovo A10:10" Wideview Android Tablet
         *   Lenovo A1000L:7" Affordable Entertainment Tablet
-        *   Lenovo A3000:7" Tablet With Enhanced Performance
         *   Lenovo S5000: 7" Enhanced Multimedia Tablet
         *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
     *   Windows TabletsOne Experience For Everything in Your Life
@@ -274,9 +278,8 @@ Lenovo United States Select a country/region
         *   Flex Series All-in-Ones: Multi-User All-in-One PCs
         *   A Series All-in-Ones: Stylish All-in-One Desktops
         *   B Series All-in-Ones: Multimedia All-in-One Desktops
-        *   C Series: Entry-Level All-in-One Desktops
-        *   H Series: Budget-Friendly Ultra Small Towers
-        *   K Series Towers: Extreme Performance Towers
+        *   C Series All-in-Ones: Entry-Level All-in-One Desktops
+        *   H Series Towers: Budget-Friendly Ultra Small Towers
         *   Q Series Minis: Mini Home Theatre PCs
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
@@ -373,9 +376,9 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   SCREENBEAM PRO SAVE 42% WITH SYSTEM PURCHASE
+    *   SMARTTOUCH MOUSE SAVE 50%
         
-        Offer valid when upgrading your system with accessories!
+        Enhanced with Windows 8 gesture controls.
         
         **Shop now >**
     *   LENOVO KEYBOARD Save 20%
