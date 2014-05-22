@@ -1,6 +1,6 @@
-Play Free Games at Y8.com. Play an online game now!
+GAMES AT Y8.COM. PLAY OVER 50.000+ FREE ONLINE GAMES ON Y8.COM
 
-Mini Flash games, Shockwave 3D games, HTML5 games, Android games, Java games.
+Play any type of Game at Y8.com. The biggest Game Collection to play free online. Flash, Unity 3D, Html5, Android, Java and Shockwave.
 
 *   My games ()
 *   My Profile
@@ -94,9 +94,3 @@ If you have questions or other inquiries, please use our contact form
 Business contact Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
 
 Y8.com project: play free games online and watch funny cartoons, since 2006.
-
-*   Play Free Games
-*   играть бесплатно
-*   Jeux gratuits
-  
-*   Play Online Games
