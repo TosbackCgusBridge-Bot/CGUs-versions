@@ -1,4 +1,4 @@
-Home Page Contact Follow Updated August 2013 Ziff Davis, Inc. Privacy Policy
+Home Page Contact Follow Updated May 2014 Ziff Davis, Inc. Privacy Policy
 
 **Ziff Davis, Inc. Privacy Policy**
 
@@ -82,7 +82,7 @@ _Cookies._ Most web browsers automatically accept cookies but allow you to modif
 
 However, if you 'turn off', purge or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions or services available on our websites. Please click here to learn more about the use of cookies, your opt out choices, and more.
 
-Ziff Davis supports the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click here), and has Evidon Inc.'s assurance platform to comply with these Principles. As part of this service, online ads that we place using behavioral data we collect are expected to be delivered with the Advertising Option Icon (also referred to as the _Forward i_) or similar icon that helps consumers understand how their data is being used and provides choices for consumers who want more control. Online advertisements on our sites targeted to you based on previously collected online data about you by third parties should also have the Advertising Option Icon. This icon is also at the bottom of each of our web pages. The Advertising Option icon provides information (and links to other information) on online behavioral ads, who is collecting and using your online data, how you can opt out and more.
+Ziff Davis supports the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click here), and has Ghostery Inc.'s assurance platform to comply with these Principles. As part of this service, online ads that we place using behavioral data we collect are expected to be delivered with the Advertising Option Icon (also referred to as the _Forward i_) or similar icon that helps consumers understand how their data is being used and provides choices for consumers who want more control. Online advertisements on our sites targeted to you based on previously collected online data about you by third parties should also have the Advertising Option Icon. This icon is also at the bottom of each of our web pages. The Advertising Option icon provides information (and links to other information) on online behavioral ads, who is collecting and using your online data, how you can opt out and more.
 
 _Pixel Tags._ You can disable pixel tags by changing your browser settings to omit images and disable Javascript. or there are commercial software packages available that can omit pixel tags and most advertisements.
 
