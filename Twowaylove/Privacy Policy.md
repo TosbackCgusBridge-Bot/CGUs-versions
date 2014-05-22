@@ -87,7 +87,7 @@ Contact
 
 If you have any additional questions about this policy, you are encouraged to contact TwoWayLove.
 
-Get more conversions on your dating site  Contact  
+Get more conversions on your dating site Subscribe Now!  Contact  
  Lisa's Blog  
  Webmasters  
  Advertising  
