@@ -259,13 +259,13 @@ Who Is Wil Wheaton? Who Is Wil Wheaton?
 
 Wil Wheaton gives you more info on how he became a huge genre fan. The Wil Wheaton Project premieres Tuesday May 27 at 10/9c.
 
+Ascension - Trailer Ascension - Trailer
+
+A long-lead, conceptual tease for Ascension, coming in November from Syfy
+
 Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
 #sharknado2. Coming in July!
-
-Extended Trailer - Dominion - Thursday June 1 ... Extended Trailer - Dominion - Thursday June 19th at 9/8c
-
-Dominion Upfront Trailer
 
 *   FAQ
 *   Feedback
