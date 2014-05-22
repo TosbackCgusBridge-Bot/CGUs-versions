@@ -6,7 +6,7 @@ Webs
 *   Why Webs
 *   Plans
 
-Please enter a valid email address and password Forgot Password? Sign In Sign Up Free Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
+Select a country or languageUnited States - EnglishEstados Unidos - EspañolFranceDeutschlandUnited KingdomAustraliaDanmarkNederlandItaliaSverigeCanada - FrançaisNorge Please enter a valid email address and password Forgot Password? Sign In Sign Up Free Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
 
 The services offered by Vistaprint Netherlands B.V., which is affiliated with Webs ("Webs" or "us" or "we" or "our") include the websites at http://www.webs.com and http://www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "the Sites") and any other features, content, services or applications offered, from time to time, by us, or by third party Paid Service providers (collectively, the "Services").
 
@@ -537,7 +537,7 @@ If Webs identifies a user who is violating this agreement, we reserve the right 
 
 If you identify a Webs user who is violating these agreements, you can report the abuse to Webs through our Report Abuse section.
 
-Create a free website Google Plus Facebook Twitter
+Create a free website Google Plus Facebook Twitter Select a country or languageUnited States - EnglishEstados Unidos - EspañolFranceDeutschlandUnited KingdomAustraliaDanmarkNederlandItaliaSverigeCanada - FrançaisNorge
 
 *   Blog
 *   About Us
