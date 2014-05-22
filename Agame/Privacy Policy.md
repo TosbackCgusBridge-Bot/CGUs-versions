@@ -172,6 +172,7 @@ Copyright © 2014 SPIL GAMES B.V. All rights reserved.
 
 *   Facebook
 *   Google+
+*   Twitter
 
 *   Connect and play with friends
 *   Set high scores and win awards
