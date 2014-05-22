@@ -117,7 +117,8 @@ About O'Reilly
 *   Press Room
 *   Privacy Policy
 *   Terms of Service
-*   Writing for O'Reilly
+*   Work with Us
+*   Editorial Independence
 
 Community
 
