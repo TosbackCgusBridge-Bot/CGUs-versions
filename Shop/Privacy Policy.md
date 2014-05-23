@@ -182,7 +182,7 @@ Lenovo United States Select a country/region
         *   ThinkPad Helix: Detachable Ultrabook With Four Modes
         *   L Series: Mainstream Laptops
         *   W Series: Portable Workstations
-        *   11e Series: Student Laptops
+        *   ThinkPad 11e: Rugged Laptops
     *   Lenovo Laptops Stylish Design, Maximum Fun
         *   Y Series: Premium Multimedia Laptops
         *   Yoga Series:Convertible Entertainment Ultraportables
@@ -192,14 +192,14 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   Deals You'll Love Save up to 40%
+    *   Memorial Day Sale Save up to 5%
         
-        on select home laptops through May 21.
+        PLUS an extra $50 off select models through May 26.
         
         **Shop now >**
-    *   THINKPAD CLEARANCE SALE Save BIG
+    *   DOORBUSTER DEALS Plus savings up to 41%
         
-        on select ThinkPad laptops while supplies last.
+        on select home PCs through May 28.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -242,14 +242,14 @@ Lenovo United States Select a country/region
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   Deals You'll Love Save up to 26%
+    *   Memorial Day Sale Save up to 5%
         
-        on select home tablets through May 21.
+        on select professional tablets! Sale ends May 26.
         
         **Shop now >**
-    *   THINKPAD CLEARANCE SALE Save BIG
+    *   DOORBUSTER DEALS Plus savings up to 26%
         
-        on select ThinkPad tablets while supplies last.
+        on select home tablets through May 28.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -284,14 +284,14 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Deals You'll Love Save up to 26%
+    *   Memorial Day Sale Save up to 5%
         
-        on select home desktops through May 21.
+        PLUS an extra $50 off select models through May 26.
         
         **Shop now >**
-    *   THINKPAD CLEARANCE SALE Save BIG
+    *   DOORBUSTER DEALS Plus savings up to 26%
         
-        on select ThinkPad desktops while supplies last.
+        on select home desktops through May 28.
         
         **Shop now >**
     *   Less is More
@@ -376,9 +376,9 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   SMARTTOUCH MOUSE SAVE 50%
+    *   WIRELESS MOUSE SAVE 46%
         
-        Enhanced with Windows 8 gesture controls.
+        Wireless mouse and pointer all in one device.
         
         **Shop now >**
     *   LENOVO KEYBOARD Save 20%
