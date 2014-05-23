@@ -127,7 +127,7 @@ The mission of the _e Insurance Journal_ is to help people and businesses make w
 
 Security
 
-This Web site takes every precaution to protect our user’s information. When we ask users to enter personal information, that information is protected by industry-standard 128-bit Secure Sockets Layer (SSL) technology. Users can identify SSL-protected pages by the Norton Secured icon that appears at the bottom edge of Web browsers such as Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, and Safari. E-Insure's SSL certificate provider is Symantec Corporation, powered by VeriSign, Inc., the leading company in SSL certificates. Click the icon to validate the integrity of E-Insure's SSL-based security scheme.
+This Web site takes every precaution to protect our user’s information. When we ask users to enter personal information, that information is protected by industry-standard 128-bit Secure Sockets Layer (SSL) technology. Users can identify SSL-protected pages by the Norton Secured icon that appears at the bottom edge of Web browsers such as Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, and Safari. E-Insure's SSL certificate provider is Symantec Corporation, the leading company in SSL certificates. Click the icon to validate the integrity of E-Insure's SSL-based security scheme.
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted to our offices and our off-site data facility. Only employees who need the information to perform specific job tasks, such as customer service, are granted access to personally identifying information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifying information are in a secure and hardened environment at Peer1 Hosting.
 
@@ -144,7 +144,7 @@ Questions &. Feedback
 Please direct any questions or feedback regarding this Privacy Policy to E-Insure's Customer Service department. Privacy concerns, questions, and requests to inspect/change/delete/modify data collected covered by this policy are normally responded to within 15-30 business days depending on the nature of the request.
 
 E-Insure Services, Inc.  
-39 S. LaSalle St., Suite 1000  
+105 W. Adams St., Suite 1325  
 Chicago, IL 60603  
 (312) 372-7400  
 privacy@einsure.com  
@@ -167,7 +167,7 @@ In compliance with the Safe Harbor Principles, E-Insure Services, Inc. commits t
 
 E-Insure Services, Inc.  
 c/o EU Safe Harbor Complaints  
-39 S. LaSalle St., Suite 1000  
+105 W. Adams St., Suite 1325  
 Chicago, IL 60603  
 (312) 372-7400  
 privacy@einsure.com  
