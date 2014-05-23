@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola781 SERVER NAME :->. prod-c2-com-78101 TIME :->. Wed May 21 05:21:04 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena702 SERVER NAME :->. prod-l2-com-70202 TIME :->. Thu May 22 12:17:16 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,23 +57,17 @@ Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Memorial Day Sale!
+\*See exclusions and details. print store coupon 30-60% Off Swimwear For The Family
+
+Select styles.
+
+shop swimwearMemorial Day Sale!
 
 In store and online.
 
 A salute to Memorial Day, with savings and styles that fit so right.
 
-shop the sale30-60% Off Swimwear For The Family
-
-Select styles.
-
-shop swimwear JCPenney Rewards Wednesday
-
-Earn your $10 JCP reward faster with double points!
-
-Earn one monthly $10 jcp reward when you spend $50 or more on qualifying purchases on Wednesdays.
-
-get offer details and learn more 40-50% Off Select Window shop window 40-50% Off Select Patio Furniture shop patio furniture 50-60% Off Select Outdoor Rugs shop outdoor rugs 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 50% Off Select Kids' Arizona shop kids' Arizona 30-40% Off Select Liz Claiborne shop Liz Claiborne JCP Rewards
+shop the sale view store ad 40-50% Off Select Window shop window 40-50% Off Select Patio Furniture shop patio furniture 50-60% Off Select Outdoor Rugs shop outdoor rugs 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 50% Off Select Kids' Arizona shop kids' Arizona 30-40% Off Select Liz Claiborne shop Liz Claiborne JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
