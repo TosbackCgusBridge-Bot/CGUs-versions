@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena702 SERVER NAME :->. prod-l2-com-70202 TIME :->. Thu May 22 12:17:16 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l2-com-82402 TIME :->. Fri May 23 01:59:42 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,7 +67,13 @@ In store and online.
 
 A salute to Memorial Day, with savings and styles that fit so right.
 
-shop the sale view store ad 40-50% Off Select Window shop window 40-50% Off Select Patio Furniture shop patio furniture 50-60% Off Select Outdoor Rugs shop outdoor rugs 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 50% Off Select Kids' Arizona shop kids' Arizona 30-40% Off Select Liz Claiborne shop Liz Claiborne JCP Rewards
+shop the sale view store ad Night and Day Doorbusters
+
+Excluded from coupon offer.
+
+In store only, Friday, May 23, 3PM until close, Saturday, May 24, 10AM until 1PM.
+
+view doorbusters store ad 40-50% Off Select Window shop window 40-50% Off Select Furniture shop furniture 40-50% Off Select Mattresses shop mattresses 30-40% Off Select Liz Claiborne shop Liz Claiborne 50% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Men's Izod shop men's Izod JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
