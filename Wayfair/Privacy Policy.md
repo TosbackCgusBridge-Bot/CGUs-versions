@@ -145,7 +145,7 @@ Last Updated: March 22, 2013
 
 Welcome to Wayfair!
 
-Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us")" provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "**Sites**") subject to your compliance with these Terms of Use.
+Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us") provides this and other websites (including applications and other online services that are accessible through various desktop, tablet and mobile web browsers from time to time) (collectively, "**Sites**") subject to your compliance with these Terms of Use.
 
 PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SITES. These Terms of Use constitute an agreement between Wayfair and you. We recommend that you print out a copy of these Terms of Use for your records.
 
@@ -348,7 +348,7 @@ Program-Specific Membership Benefits &. Restrictions A Member that makes a Quali
 The Rewards Program offers two (2) tiers of Membership: Rewards and Rewards Gold.
 
 Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Shipping Fees for Qualifying Purchases: • Free for orders over $49  
-• $4.99 Flat Rate for orders $49 and under Free Redemption Period Three months from date on which Wayfair Rewards are issued from Eligible Purchase(s) Anytime during the Rewards Gold Membership Period\* Membership Fee None $20
+• $4.99 Flat Rate for orders $49 and under Free Three months from date on which Wayfair Rewards are issued from Eligible Purchase(s) Three months from date on which Rewards-Eligible Purchase is made Anytime during the Rewards Gold Membership Period\* Membership Fee None $20
 
 \*If Rewards Gold Membership is not renewed, then Rewards Dollars expire three months after the end of the Rewards Gold Membership Period.
 
