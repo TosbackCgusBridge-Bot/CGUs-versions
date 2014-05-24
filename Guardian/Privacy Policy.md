@@ -1,7 +1,5 @@
 This is the main privacy policy for theguardian.com and for certain services provided through these and other Guardian websites and applications ("our sites") by Guardian News &. Media Limited, and Guardian News &. Media LLC ("GNM").
 
-If you use GuardianWitness, please read the GuardianWitness privacy policy.
-
 At GNM we collect different types of information about our users for four main reasons:  
 1\. To provide personalised services unique to individual users.  
 2\. To help us to monitor and improve the services we offer  
