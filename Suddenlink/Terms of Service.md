@@ -22,8 +22,8 @@
 *   My Bill
 
 *   English
-*   Contáctanos
-*   Listado de Canales
+*   Contáctenos
+*   Lista de Canales
 *   Términos y Políticas
 
 *   Web
@@ -38,12 +38,14 @@
 *   VIPperks
 *   Innovations
 
-*   Contáctanos
+*   Contáctenos
 *   Televisión
 *   Internet
 *   Teléfono
 *   Seguridad
+*   Todo el Hogar
 *   Beneficios VIP
+*   Innovaciones
 
 *   My Account
 *   Email
