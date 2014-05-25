@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l2-com-82402 TIME :->. Fri May 23 01:59:42 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena862 SERVER NAME :->. prod-l1-com-0601 TIME :->. Sat May 24 05:11:11 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -134,16 +134,16 @@ download our app: iPhone | Android **CUSTOMER SERVICE**
 **Popular Product Categories:**
 
 JCPenney Stores  
-Keurig coffee machines  
-curtains comforters  
+wedding dresses  
+draperies comforters  
 bedspreads  
-bath towels womens tops  
+back to school sales womens tops  
 womens dresses  
 plus size dresses swimsuits  
 mens sandals  
-engagement rings Samsonite luggage  
+school uniforms Samsonite luggage  
 Invicta watches  
-jcpenney coupons
+wedding registry
 
 *   copyright
 *   legal notice
