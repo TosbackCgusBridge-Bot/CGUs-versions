@@ -133,4 +133,4 @@ Communautés d'assistance et de conseils.
 
 *   Forum Mobile
 *   Forum Vos droits sur internet
-*   Forum Loisirs / Divertissements
+*   Forum Bouygues Télécom
