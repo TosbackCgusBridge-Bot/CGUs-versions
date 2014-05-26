@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena862 SERVER NAME :->. prod-l1-com-0601 TIME :->. Sat May 24 05:11:11 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola860 SERVER NAME :->. prod-c1-com-0202 TIME :->. Sun May 25 10:28:01 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,7 +45,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Ends May 26.
+Last Days! Ends May 26.
 
 Online Code: SUNNYDAY
 
@@ -57,23 +57,31 @@ Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon 30-60% Off Swimwear For The Family
+\*See exclusions and details. print store coupon 40-50% Off St. John's Bay
 
 Select styles.
 
-shop swimwearMemorial Day Sale!
-
-In store and online.
+shop women's St. John's Bay shop men's St. John's Bay shop men's St. John's BayMemorial Day Sale!
 
 A salute to Memorial Day, with savings and styles that fit so right.
 
-shop the sale view store ad Night and Day Doorbusters
+shop the sale view store ad Big Buys
+
+Prices so low, you don't need a coupon.
+
+While they last! In store and online.
 
 Excluded from coupon offer.
 
-In store only, Friday, May 23, 3PM until close, Saturday, May 24, 10AM until 1PM.
+view big buys 40-50% Off Select Furniture shop furniture 40-50% Off Select Mattresses shop mattresses 20-30% Off Select Dyson
 
-view doorbusters store ad 40-50% Off Select Window shop window 40-50% Off Select Furniture shop furniture 40-50% Off Select Mattresses shop mattresses 30-40% Off Select Liz Claiborne shop Liz Claiborne 50% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Men's Izod shop men's Izod JCP Rewards
+Excluded from coupon.
+
+shop Dyson 30-60% Off Select Swimwear For The Family shop swimwear $10 Off Select Women's Clarks Sandals
+
+Excluded from coupon.
+
+shop women's Clarks sandals 40-50% Off Select A.N.A shop A.N.A JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
