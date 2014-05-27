@@ -41,6 +41,7 @@
         *   S'inscrire à la newsletter
     
     *   Devenez acteur de votre ville
+        *   Annoncer un événement
         *   Ecrire un avis
     
     *   Renseignements téléphoniques
@@ -51,6 +52,7 @@
         *   Recherche détaillée
         *   Recherche par le nom France Entière
         *   Recherche de pros avec vidéos
+        *   Recherche par la carte
     
     *   Appelez à l'étranger
         *   Annuaires du monde
