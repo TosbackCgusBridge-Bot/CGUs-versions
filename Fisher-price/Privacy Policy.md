@@ -4,7 +4,7 @@
 *   En Español
 
 *   *   Age Baby-on-the-way Birth-6 months 6-12 months 12-24 months 2-3 years 3-4 years 4-5 years 5+ years
-    *   Brand View All >.
+    *   Brand Dora the Explorer
     *   Category Babygear Baby Toys Battery Powered Ride-Ons Digital Play Dollhouses &. Dolls Learning Toys Playsets with Figures Sports &. Outdoor Toys Toy Cars, Trucks &. Vehicles Train Sets View All >.
     
 *   *   Gear, toys, and more essentials for baby
@@ -20,7 +20,7 @@
     *   Coloring Pages
     *   Online Videos
     *   Birthday Party Ideas
-    *   Apps
+    *   Fisher-Price Apps
     
 *   *   Our Online Store
     *   Find a Retailer
