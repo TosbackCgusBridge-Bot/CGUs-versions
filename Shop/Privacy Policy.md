@@ -192,9 +192,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   Memorial Day Sale Save 5%
+    *   Now Extended! Save 5%
         
-        PLUS an extra $50 off select models through May 26.
+        PLUS an extra $50 off select models through May 27.
         
         **Shop now >**
     *   DOORBUSTER DEALS Plus savings up to 41%
@@ -242,9 +242,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
     
-    *   Memorial Day Sale Save 5%
+    *   Now Extended! Save 5%
         
-        on select professional tablets! Sale ends May 26.
+        on select professional tablets! Sale ends May 27.
         
         **Shop now >**
     *   DOORBUSTER DEALS Plus savings up to 26%
@@ -284,9 +284,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Memorial Day Sale Save 5%
+    *   Now Extended! Save 5%
         
-        PLUS an extra $50 off select models through May 26.
+        PLUS an extra $50 off select models through May 27.
         
         **Shop now >**
     *   DOORBUSTER DEALS Plus savings up to 26%
