@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola702.jcpenney.com SERVER NAME :->. prod-c1-com-70202 TIME :->. Mon May 26 05:59:36 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena862 SERVER NAME :->. prod-l2-com-0602 TIME :->. Tue May 27 07:59:06 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,9 +45,9 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Last Days! Ends May 26.
+Ends June 4.
 
-Online Code: SUNNYDAY
+Online Code: WARMUP16
 
 Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
 
@@ -57,31 +57,17 @@ Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon 40-50% Off St. John's Bay
+\*See exclusions and details. print store coupon Home Sale
 
-Select styles.
+Feel-good styles that fit your budget and welcome you home.
 
-shop women's St. John's Bay shop men's St. John's Bay shop men's St. John's BayMemorial Day Sale!
+30-50% Off Select Home
 
-A salute to Memorial Day, with savings and styles that fit so right.
-
-shop the sale view store ad Big Buys
-
-Prices so low, you don't need a coupon.
-
-While they last! In store and online.
-
-Excluded from coupon offer.
-
-view big buys 40-50% Off Select Furniture shop furniture 40-50% Off Select Mattresses shop mattresses 20-30% Off Select Dyson
+shop home sale shop quilts and bedspreads $36.99 Dockers Signature Khakis shop Dockers khakis 40% Off Select St. John's Bay Tees shop St. John's Bay tees 50% Off Select Suits and Sport Coats shop suits and sport coats 40-50% Off Select A.N.A shop A.N.A $10 Off Select Women's Clarks Sandals
 
 Excluded from coupon.
 
-shop Dyson 30-60% Off Select Swimwear For The Family shop swimwear $10 Off Select Women's Clarks Sandals
-
-Excluded from coupon.
-
-shop women's Clarks sandals 40-50% Off Select A.N.A shop A.N.A JCP Rewards
+shop women's Clarks sandals 30-60% Off Select Swimwear For The Family shop swimwear JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
