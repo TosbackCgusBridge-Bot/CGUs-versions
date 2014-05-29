@@ -236,7 +236,7 @@ JCPenney has contracted with Borderfree, Inc. (“Borderfree”) to facilitate t
 
 When you place an international order, you will submit personal information (e.g. your name, email address, billing address, and shipping address) and other order-related information to JCPenney through and to servers located in the United States.  If you also choose to create a jcp.com account, any personal information you provide will also be transferred to JCPenney through and to servers located in the United States.  Please note that United States law may not provide a level of data protection equivalent to the laws in your home country.  This privacy policy applies to any personal information you furnish JCPenney in connection with international orders, your jcp.com account or otherwise.
 
-JCPenney will then share your international order information, including personal information about you, with Borderfree for the purpose of facilitating ordering and shipping internationally.  Borderfree  will process personal information about you in accordance with its privacy policy .  Borderfree has agreed not to sell, transfer, or otherwise use your information other than for processing international orders and shipments.
+JCPenney will then share your international order information, including personal information about you, with Borderfree for the purpose of facilitating ordering and shipping internationally.  Borderfree  will process personal information about you in accordance with its privacy policy.  Borderfree has agreed not to sell, transfer, or otherwise use your information other than for processing international orders and shipments.
 
 By placing an international order, you acknowledge and agree that jcp will transfer personal information about you to Borderfree, and acknowledge that your financial transaction and shipment will be processed by Borderfree.  During the checkout process, you will be presented with Borderfree’s terms and conditions and privacy policy.  You must agree to them to receive the product(s) you ordered.
 
@@ -259,8 +259,8 @@ should email us at privacy@jcpenneyeservices.com 
 *   Updated and added information regarding online behavioral advertising 
  
 
-   We may change our privacy policy from time to time.  When considering any change, your privacy will remain a priority. If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policy periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy:  
+   We may change our privacy policy from time to time.  When considering any change, your privacy will remain a priority. If we change our privacy policy in the future, we will let you know by posting the updated policy at this website. We encourage you to check our policy periodically. You can tell if it has changed by checking the revision date that appears at the beginning of the policy. If you would like further information, or have any questions about our privacy policy, please: plea
 
-*   please write to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX. 75301-7311, Attention:Corporate Customer Relations
+*   write to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX. 75301-7311, Attention:Corporate Customer Relations
 *   call us at 1.800.322.1189
 *   email us at privacy@jcpenneyeservices.com
