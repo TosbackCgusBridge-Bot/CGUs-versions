@@ -861,6 +861,8 @@ Destination Guides
     *   Ho Chi Minh City
     *   Nha Trang
 
+LEARN ABOUT OUR BEST RATE GUARANTEE
+
 *   Stay connected to Starwood Hotels:
 
 *   More
