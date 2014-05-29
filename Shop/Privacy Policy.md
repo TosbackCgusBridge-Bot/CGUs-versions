@@ -152,8 +152,8 @@ Lenovo United States Select a country/region
     *   Network Storage Support
 
 *   Contact Us
-    *   **Customer service inquiry?**Chat online with a live representative.Chat is always online.
     *   **Sales inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
+    *   **Customer service inquiry?**Chat online with a live representative.Chat is always online.
     *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
         Sat: 9am - 6pm (EST)  
@@ -192,14 +192,14 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   Now Extended! Save 5%
-        
-        PLUS an extra $50 off select models through May 27.
-        
-        **Shop now >**
     *   DOORBUSTER DEALS Plus savings up to 41%
         
         on select home PCs through May 28.
+        
+        **Shop now >**
+    *   Lenovo Y510p Level Up
+        
+        with epic gaming features.
         
         **Shop now >**
     *   Uncompromising Elegance
@@ -229,7 +229,6 @@ Lenovo United States Select a country/region
         *   Lenovo A8:8" Wideview Android Tablet
         *   Lenovo A10:10" Wideview Android Tablet
         *   Lenovo A1000L:7" Affordable Entertainment Tablet
-        *   Lenovo S5000: 7" Enhanced Multimedia Tablet
         *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
     *   Windows TabletsOne Experience For Everything in Your Life
         *   ThinkPad 8:8.3" Multimode Business Tablet
@@ -241,15 +240,16 @@ Lenovo United States Select a country/region
         *   Lenovo Yoga:Convertible Entertainment
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
+        *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   Now Extended! Save 5%
-        
-        on select professional tablets! Sale ends May 27.
-        
-        **Shop now >**
     *   DOORBUSTER DEALS Plus savings up to 26%
         
         on select home tablets through May 28.
+        
+        **Shop now >**
+    *   Yoga — Now for Business
+        
+        Built for business, yet ready for play, the new ThinkPad Yoga offers the best of both worlds.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -284,14 +284,14 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Now Extended! Save 5%
-        
-        PLUS an extra $50 off select models through May 27.
-        
-        **Shop now >**
     *   DOORBUSTER DEALS Plus savings up to 26%
         
         on select home desktops through May 28.
+        
+        **Shop now >**
+    *   Deals on ThinkCentre
+        
+        Get great deals on our powerful ThinkCentre desktop systems every day.
         
         **Shop now >**
     *   Less is More
