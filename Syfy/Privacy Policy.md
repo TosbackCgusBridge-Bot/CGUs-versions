@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video The Wil Wheaton Project The Wil Wheaton Project
+Syfy Video Wil Wheaton Project Extras: Chris Hardwick Bl ... Wil Wheaton Project Extras: Chris Hardwick Bloopers
 
-The world of Sci-fi in 30 minutes. Tune in Tuesday May 27th at 10/9c for the Wil Wheaton Project.
+Get a laugh at the expense of Chris Hardwick and Wil Wheaton. Check out Chris and Wil on the premiere of The Wil Wheaton Project.
 
-Who Is Wil Wheaton? Who Is Wil Wheaton?
+Blastr Exclusive Interview with Wil Wheaton Blastr Exclusive Interview with Wil Wheaton
 
-Wil Wheaton gives you more info on how he became a huge genre fan. The Wil Wheaton Project premieres Tuesday May 27 at 10/9c.
+Wil Wheaton gives his thoughts on some of the most popular topics in popular culture.
 
 Ascension - Trailer Ascension - Trailer
 
 A long-lead, conceptual tease for Ascension, coming in November from Syfy
 
-Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
+Bigger, Bolder, and Even More Ridiculous - Sh ... Bigger, Bolder, and Even More Ridiculous - Sharknado 2: The Second One
 
-#sharknado2. Coming in July!
+Sharknado 2: The Second One airs June 30th at 9/8c.
 
 *   FAQ
 *   Feedback
