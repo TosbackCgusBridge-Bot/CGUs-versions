@@ -6,7 +6,6 @@ Search HowStuffWorks and the web
 *   Podcasts
 *   Blogs
 *   Quizzes
-*   Games
 
 *   Adventure
 *   Animals
@@ -22,7 +21,6 @@ Search HowStuffWorks and the web
 *   Video
 *   Shows
 *   Quizzes
-*   Games
 
 Home >. About Us Privacy Policy
 
@@ -236,11 +234,12 @@ Can't get enough HowStuffWorks?
 *   Video
 *   Shows
 *   Quizzes
-*   Games
 
 *   HOWSTUFFWORKS
     
     Adventure
+    
+    Animals
     
     Auto
     
@@ -264,8 +263,6 @@ Can't get enough HowStuffWorks?
     
     Blogs
     
-    Games
-    
     HSW Tools
     
     RSS
@@ -280,51 +277,29 @@ Can't get enough HowStuffWorks?
     
     Video
     
-*   OUR WEBSITES
-    
-    Animal Planet
-    
-    Animalist
-    
-    Animal Planet Live
-    
-    Destination America
-    
-    Discovery Channel
-    
-    Discovery Fit &. Health
-    
-    Discovery News
-    
-    FWThinking
-    
     HSW Brazil
     
     HSW China
     
-    Investigation Discovery
+*   STUFF WEBSITES
     
-    Oprah Winfrey Network
+    BrainStuff
     
-    Revision3
+    CarStuff
     
-    Science Channel
+    Fw:Thinking
     
-    Velocity
-    
-    Stuff You Should Know
-    
-    Stuff to Blow Your Mind
+    Stuff Mom Never Told You
     
     Stuff of Genius
     
-    TLC
+    Stuff They Don't Want You to Know
     
-    Discovery Education
+    Stuff to Blow Your Mind
     
-    Discovery Retreats
+    Stuff You Missed in History Class
     
-    Store
+    Stuff You Should Know
     
 *   CUSTOMER SERVICE
     
@@ -338,7 +313,7 @@ Can't get enough HowStuffWorks?
     
     About Us
     
-    Careers @ Discovery
+    Careers @ HSW
     
     Privacy Policy
     
