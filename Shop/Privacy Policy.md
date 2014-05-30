@@ -152,8 +152,8 @@ Lenovo United States Select a country/region
     *   Network Storage Support
 
 *   Contact Us
-    *   **Sales inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
-    *   **Customer service inquiry?**Chat online with a live representative.Chat is always online.
+    *   **Sales inquiry?**Chat online with a live representative.Chat is always online.
+    *   **Customer service inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
     *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
         Sat: 9am - 6pm (EST)  
@@ -192,9 +192,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   DOORBUSTER DEALS Plus savings up to 41%
+    *   SIZZLING SAVINGS Save up to 41%
         
-        on select home PCs through May 28.
+        on select home PCs through June 4.
         
         **Shop now >**
     *   Lenovo Y510p Level Up
@@ -242,9 +242,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   DOORBUSTER DEALS Plus savings up to 26%
+    *   SIZZLING SAVINGS Save up to 26%
         
-        on select home tablets through May 28.
+        on select home PCs through June 4.
         
         **Shop now >**
     *   Yoga — Now for Business
@@ -280,13 +280,14 @@ Lenovo United States Select a country/region
         *   B Series All-in-Ones: Multimedia All-in-One Desktops
         *   C Series All-in-Ones: Entry-Level All-in-One Desktops
         *   H Series Towers: Budget-Friendly Ultra Small Towers
+        *   K Series Towers: Extreme Performance Towers
         *   Q Series Minis: Mini Home Theatre PCs
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   DOORBUSTER DEALS Plus savings up to 26%
+    *   SIZZLING SAVINGS Save up to 26%
         
-        on select home desktops through May 28.
+        on select home PCs through June 4.
         
         **Shop now >**
     *   Deals on ThinkCentre
@@ -376,14 +377,14 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   WIRELESS MOUSE SAVE 46%
+    *   HEADSET P950 Save 56%
         
-        Wireless mouse and pointer all in one device.
+        Enhance your audio experience with powerful bass.
         
         **Shop now >**
-    *   LENOVO KEYBOARD Save 20%
+    *   PROTECT YOUR PC Save 20%
         
-        Enhanced with features to increase your productivity.
+        on select ThinkPad carrying cases!
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
