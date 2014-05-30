@@ -11,7 +11,16 @@
 *   Build Your Own
 *   Find a Dealer
 
-See All Vehicles Find Your Subaru See All Vehicles BRZ $25,595 starting price 2014 BRZ
+GO
+
+Your location cannot be displayed.
+
+Please try your search again.
+
+Change
+
+Visit Dealer Site View special offers, browse  
+inventory and more. See All Vehicles Find Your Subaru See All Vehicles BRZ $25,595 starting price 2014 BRZ
 
 Starting at
 
@@ -25,6 +34,9 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
+
+Special Edition Launch:  
+2015 BRZ Series.Blue
 
 BRZ Limited shown
 
@@ -62,23 +74,20 @@ Up to
 
 WRX Premium shown
 
-Legacy $20,295 starting price 2014 Legacy
+Legacy $21,695 starting price 2015 Legacy
 
 Starting at
 
-$20,295 MSRP
+$21,695 MSRP
 
 Up to
 
-32/24MPG Hwy/City
+36/26MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-Introducing the all-new  
-2015 Subaru Legacy
 
 Legacy 3.6R Limited shown
 
@@ -187,7 +196,7 @@ Find information on financing or leasing your new Subaru.
 *   Estimate Credit Score
 *   Extended Service Plans
 *   Trade-In Appraisal
-*     View a Brochure
+*   View a Brochure
 
 All Things Subaru  
 
@@ -226,12 +235,7 @@ See why an owner's love for Subaru lasts forever.
 *   Dear Subaru
 *   Live. Love.
 
-GO Change
-
-*   ,
-
-Visit Dealer Site View special offers, browse  
-inventory and more. Company
+Company
 
 *   Overview
 *   Partnerships
@@ -258,25 +262,32 @@ If you make a request for information, for example, we might need to provide you
 
 Specifically, we collect and use information from you in certain ways including:
 
-**Processing Your Requests.** When you interact with us (for example, to request a brochure or locate a dealer) you will be asked for information needed to complete your request. The information you provide is used to process your transactions, to create and share reports about these transactions, and/or to provide related customer service. When you request a quote or other information, these requests may be conducted through dealers or Subaru vendors and suppliers.
+**Processing Your Requests.**  
+When you interact with us (for example, to request a brochure or locate a dealer) you will be asked for information needed to complete your request. The information you provide is used to process your transactions, to create and share reports about these transactions, and/or to provide related customer service. When you request a quote or other information, these requests may be conducted through dealers or Subaru vendors and suppliers.
 
-**Registration and Use of MySubaru.**MySubaru.com is the owners' personalized webpage on Subaru.com that owners can use to keep track of their vehicle service records, receive maintenance reminders, recall notices and overall communications from Subaru. Personal Information provided on MySubaru may be used to carry out the request or service for which the information is submitted. We may also use the information you provide in online registration forms to notify you periodically about important matters like Application updates, a change to our Privacy Policy or notice of a security breach, and to provide information about new Subaru products and services, and special offers and promotions that may be of interest to you.
+**Registration and Use of MySubaru.**  
+MySubaru.com is the owners' personalized webpage on Subaru.com that owners can use to keep track of their vehicle service records, receive maintenance reminders, recall notices and overall communications from Subaru. Personal Information provided on MySubaru may be used to carry out the request or service for which the information is submitted. We may also use the information you provide in online registration forms to notify you periodically about important matters like Application updates, a change to our Privacy Policy or notice of a security breach, and to provide information about new Subaru products and services, and special offers and promotions that may be of interest to you.
 
-**Events and Promotions.** You may be asked to provide an email address or other Personal Information at an event or for entry into a particular promotion (including sweepstakes and contests). The information we collect from you during the course of the promotion will be used as described in the Official Rules or the Terms for that promotion and may also be used by us for marketing purposes. Certain promotions may be run by a Subaru service provider or vendor or co-branded with one of our partners or run on a third party site like Facebook. In these instances a third party, rather than Subaru, may collect your Personal Information. The promotion will state the policies governing the collection of such information if they should differ from this Privacy Policy or if a third party will be collecting such information.
+**Events and Promotions.**  
+You may be asked to provide an email address or other Personal Information at an event or for entry into a particular promotion (including sweepstakes and contests). The information we collect from you during the course of the promotion will be used as described in the Official Rules or the Terms for that promotion and may also be used by us for marketing purposes. Certain promotions may be run by a Subaru service provider or vendor or co-branded with one of our partners or run on a third party site like Facebook. In these instances a third party, rather than Subaru, may collect your Personal Information. The promotion will state the policies governing the collection of such information if they should differ from this Privacy Policy or if a third party will be collecting such information.
 
-**Website or Application Usage.** We, and our service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of our Website or Application. We may use this data for any purpose unless we tell you otherwise in connection with a particular Website or Application. While we may collect or log this information, we do not identify you except if we believe doing so will help us better respond to a request you have made such as for a quote, identification of a local dealer, or similar request. Where such non-Personal Information is linked to your Personal Information we will treat such information as Personal Information.
+**Website or Application Usage.**  
+We, and our service providers, may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as pages you have viewed during your use of our Website or Application. We may use this data for any purpose unless we tell you otherwise in connection with a particular Website or Application. While we may collect or log this information, we do not identify you except if we believe doing so will help us better respond to a request you have made such as for a quote, identification of a local dealer, or similar request. Where such non-Personal Information is linked to your Personal Information we will treat such information as Personal Information.
 
-**Location Data.** Some Subaru Websites or Applications may capture and record certain location-data regarding your use of that Website or Application and your travels in order to provide location-related functionality ("Location Data"). We may link that Location Data to other information that you provide to us or that may be accessed in connection with your use of such a Subaru Website or Application. Your use of, and our ability to offer location based functionality is then enabled through our use and disclosure to third parties of Location Data and associated information.
+**Location Data.**  
+Some Subaru Websites or Applications may capture and record certain location-data regarding your use of that Website or Application and your travels in order to provide location-related functionality ("Location Data"). We may link that Location Data to other information that you provide to us or that may be accessed in connection with your use of such a Subaru Website or Application. Your use of, and our ability to offer location based functionality is then enabled through our use and disclosure to third parties of Location Data and associated information.
 
 OUR COLLECTION AND USE OF NON-PERSONAL INFORMATION
 
-**Cookies and Related Technologies.** Cookies are small lines of text/data that are written onto your computer by a website. Subaru or others acting on our behalf may use cookies, pixel tags, web beacons or other similar technologies in connection with the operation of our Websites or Applications. These technologies may collect and store non-Personal Information. We utilize these technologies to research and understand how our Websites and Applications are used, to develop our products and services, to personalize your online experience with Subaru and for general advertising and marketing purposes. For example, we track such information as the time and length of your visit to the Websites, the pages you view or download and the name of your Internet service provider. As noted above, we do not typically tie this information to your Personal Information but, if we do, we will treat it as Personal Information.
+**Cookies and Related Technologies.**  
+Cookies are small lines of text/data that are written onto your computer by a website. Subaru or others acting on our behalf may use cookies, pixel tags, web beacons or other similar technologies in connection with the operation of our Websites or Applications. These technologies may collect and store non-Personal Information. We utilize these technologies to research and understand how our Websites and Applications are used, to develop our products and services, to personalize your online experience with Subaru and for general advertising and marketing purposes. For example, we track such information as the time and length of your visit to the Websites, the pages you view or download and the name of your Internet service provider. As noted above, we do not typically tie this information to your Personal Information but, if we do, we will treat it as Personal Information.
 
 At the end of your visit, session cookies used by Subaru are removed. However, in some instances some Subaru cookies may persist. For example, to customize your experience we may require registration to recognize your computer and enable you to log-in without having to enter your password. It is possible that cookies placed by Subaru or its vendors or suppliers (as applicable) in connection with the operation of the Website or Application may remain stored on your computer until you remove them.
 
 Our service providers or vendors may also use cookies and related technologies in order to personalize your experiences and adapt a particular Subaru Website or Application's functionality to your preferences and for purposes such as those listed above. You may set your browser to notify you when you receive a cookie or to refuse receiving it. You should be aware that this may interfere with or make you unable to use certain functionality on websites using cookies. For example, many websites will ask your permission to use a cookie that will enable you to automatically log onto the website. Disabling or removing cookies may require you to manually log on each time you wish to visit that website.
 
-**Online Behavioral Advertising.** Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements.  You'll be directed to an opt-out page where you'll be able to select your data preferences.  The page will also contain further instruction if additional questions remain.
+**Online Behavioral Advertising.**  
+Subaru may use the non-personal information collected on its Website for online behavioral advertising purposes, that is, to customize ads to you when you visit other (non-Subaru) sites. If you wish to opt-out of this process, click the OBA logo on our banner advertisements.  You'll be directed to an opt-out page where you'll be able to select your data preferences.  The page will also contain further instruction if additional questions remain.
 
 WHEN SUBARU MAY SHARE INFORMATION
 
@@ -284,17 +295,23 @@ Subaru may share aggregated non-personal information about the users of its Webs
 
 In addition, Subaru may disclose and share users’ Personal Information with third parties as follows:
 
-**Service Providers, Vendors and Suppliers.** Service providers, vendors and suppliers are companies who perform services for Subaru and its dealers, including in connection with the functionality of the Websites and Applications. To the extent it is necessary for these entities to provide their products and services to us and provide products and services you have requested, these third parties may have access to your Personal Information, but they are not permitted by us to use your Personal Information on their own behalf. Subaru may sometimes permit authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related Website or Application information. These transfers of aggregate statistics do not include your Personal Information.
+**Service Providers, Vendors and Suppliers.**  
+Service providers, vendors and suppliers are companies who perform services for Subaru and its dealers, including in connection with the functionality of the Websites and Applications. To the extent it is necessary for these entities to provide their products and services to us and provide products and services you have requested, these third parties may have access to your Personal Information, but they are not permitted by us to use your Personal Information on their own behalf. Subaru may sometimes permit authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related Website or Application information. These transfers of aggregate statistics do not include your Personal Information.
 
-**Dealers.** Certain requests or questions that you direct to us are more appropriately answered by a dealer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a dealer or dealers for a response. The dealer(s) will have the right to use your Personal Information for purposes of responding to your request and for its/their own marketing purposes that may not relate to your requests or questions. Dealers' use of your Personal Information will be subject to the dealers' own privacy policies.
+**Dealers.**  
+Certain requests or questions that you direct to us are more appropriately answered by a dealer, such as a request for a price quote on a particular vehicle. In those instances, we will provide your Personal Information, along with your request or question, to a dealer or dealers for a response. The dealer(s) will have the right to use your Personal Information for purposes of responding to your request and for its/their own marketing purposes that may not relate to your requests or questions. Dealers' use of your Personal Information will be subject to the dealers' own privacy policies.
 
-**Marketing.** Subaru occasionally partners with trusted third parties for promotions, events and other activities, and may share your Personal Information with such third parties for Subaru's marketing purposes and for the third parties' own marketing purposes if you consent to such sharing. The use of your Personal Information by such third parties will be subject to their own privacy policies.
+**Marketing.**  
+Subaru occasionally partners with trusted third parties for promotions, events and other activities, and may share your Personal Information with such third parties for Subaru's marketing purposes and for the third parties' own marketing purposes if you consent to such sharing. The use of your Personal Information by such third parties will be subject to their own privacy policies.
 
-**Public Areas.** Any information disclosed in public areas of a Subaru Website or Application or third party website (for example, through Facebook, YouTube, Twitter or other sites) will become public information. We cannot control the use of information disclosed in public forums, such as social media platforms, blogs, forums, wikis, chat rooms, and networking functions of mobile-device applications. You should exercise caution when disclosing information in these public areas, especially your Location Data, and be careful how you disclose your Personal Information.
+**Public Areas.**  
+Any information disclosed in public areas of a Subaru Website or Application or third party website (for example, through Facebook, YouTube, Twitter or other sites) will become public information. We cannot control the use of information disclosed in public forums, such as social media platforms, blogs, forums, wikis, chat rooms, and networking functions of mobile-device applications. You should exercise caution when disclosing information in these public areas, especially your Location Data, and be careful how you disclose your Personal Information.
 
-**Mergers, Acquisitions, and Insolvency.** If Subaru should ever file for bankruptcy or merge with another company, or if Subaru should decide to buy, sell, or reorganize some part or all of its business, Subaru may disclose your Personal Information, including to prospective or actual purchasers in connection with one of these transactions.
+**Mergers, Acquisitions, and Insolvency.**  
+If Subaru should ever file for bankruptcy or merge with another company, or if Subaru should decide to buy, sell, or reorganize some part or all of its business, Subaru may disclose your Personal Information, including to prospective or actual purchasers in connection with one of these transactions.
 
-**As Required by Law and Other Extraordinary Disclosures.** Subaru may be required to disclose your Personal Information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit or investigation, (iii) is otherwise necessary to protect our rights or property, or (iv) is necessary to protect the legal rights or property of others.
+**As Required by Law and Other Extraordinary Disclosures.**  
+Subaru may be required to disclose your Personal Information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit or investigation, (iii) is otherwise necessary to protect our rights or property, or (iv) is necessary to protect the legal rights or property of others.
 
 YOUR PREFERENCES
 
@@ -333,10 +350,6 @@ Under California Civil Code Section 1798.83, also known as California's "Shine t
 QUESTIONS?
 
 We are committed to protecting your privacy and to being transparent about how we use your information. We use the information we gather from this site to enhance your overall experience with Subaru. If you have any questions or concerns about our Privacy Policy, please contact us at 1-800-782-2783 or Subaru.com/contactus and we'll be happy to help in any way we can.
-
-*   Privacy
-*   MySubaru Privacy
-*   Conditions
 
 Explore Subaru
 
@@ -412,7 +425,7 @@ Legal Disclaimers
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
-iPod® and iPad® are registered trademarks of Apple Inc.. Brembo® is a registered trademark of Freni Brembo S.p.A.. Alcantara ® is a registered trademark of Alcantara S.p.A and Alcantara® is produced by Toray Group.. TORSEN® is a registered trademark of JTEKT Corporation.. BBS® is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM™ Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth® is a registered trademark of Bluetooth® SIG, Inc.. HomeLink® is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha™ and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android™ is a trademark of Google Inc.
+iPod® and iPad® are registered trademarks of Apple Inc.. Brembo® is a registered trademark of Freni Brembo S.p.A.. Alcantara ® is a registered trademark of Alcantara S.p.A and Alcantara® is produced by Toray Group.. TORSEN® is a registered trademark of JTEKT Corporation.. BBS® is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth® is a registered trademark of Bluetooth® SIG, Inc.. HomeLink® is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android is a trademark of Google Inc.
 
 PLEASE REVIEW THESE IMPORTANT DISCLOSURES.  
 Subaru of America, Inc. reserves the right to make changes at any time without notice or obligation to the information contained on this Internet site, prices, incentive programs, specifications, equipment, colors, materials, product illustrations and to change or discontinue models. All prices are based upon Manufacturer's Suggested Retail Prices (""MSRP"") in U.S. dollars (unless otherwise indicated) and exclude taxes, title fees, licensing, options and destination charges unless specifically included. Dealers are independent businesses and are free to set their own retail prices. All information contained at this Internet site is intended for the USA market only.
