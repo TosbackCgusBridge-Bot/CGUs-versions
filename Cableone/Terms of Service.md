@@ -14,7 +14,7 @@ Setting your location will allow us to provide you with the most accurate inform
 State:  
 AlabamaArizonaArkansasIdahoIowaKansasLouisianaMinnesotaMississippiMissouriNebraskaNew MexicoNorth DakotaOklahomaOregonSouth DakotaTennesseeTexasWashingtonClear Existing Location   - or - Zipcode:  
     
-Save My Location You are here: Set Your State >. Set Your Location Set Your Location    Hover over a system to see the ares served. Click the system to set your location.  
+Save My Location You are here: Set Your State >. Set Your Location Set Your Location    Hover over a system to see the areas served. Click the system to set your location.  
 System Areas Served  
 You may also set your location directly in the fields below.  
 State:  
