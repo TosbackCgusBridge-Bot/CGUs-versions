@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena860 SERVER NAME :->. prod-l2-com-0201 TIME :->. Wed May 28 06:00:49 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena702 SERVER NAME :->. prod-l2-com-70202 TIME :->. Thu May 29 05:31:56 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,7 +47,7 @@ In Store and Online
 
 Ends June 4.
 
-Online Code: WARMUP16
+Online Code: SPGSALE
 
 Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
 
@@ -57,17 +57,25 @@ Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Home Sale
+\*See exclusions and details. print store coupon 40-50% Off Select A.N.A shop A.N.A40-50% Off Select Men's St. John's Bay shop men's St. John's Bay shop men's St. John's BayAll Things Summer Sale
 
-Feel-good styles that fit your budget and welcome you home.
+Everywhere you look—your feel-good fit and price!
 
-30-50% Off Select Home
+shop the sale view store ad Night and Day Doorbusters
 
-shop home sale shop quilts and bedspreads $36.99 Dockers Signature Khakis shop Dockers khakis 40% Off Select St. John's Bay Tees shop St. John's Bay tees 50% Off Select Suits and Sport Coats shop suits and sport coats 40-50% Off Select A.N.A shop A.N.A $10 Off Select Women's Clarks Sandals
+Excluded from coupon offer.
+
+In store only. Friday, May 30, 3PM until close, Saturday, May 31, 10 AM until 1PM.
+
+view doorbusters store ad 50% Off Select Van Heusen shop van Heusen 20% Off\* Watches shop watches
+
+Code: GLAMORUS
+
+\*See exclusions and details. 30-40% Off Select Small Appliances
 
 Excluded from coupon.
 
-shop women's Clarks sandals 30-60% Off Select Swimwear For The Family shop swimwear JCP Rewards
+shop small appliances 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40-50% Off Select Kids' Xersion shop kids' Xersion 40-50% Off Select Curtains and Drapes shop curtains and drapes JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
