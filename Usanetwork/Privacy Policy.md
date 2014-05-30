@@ -70,16 +70,18 @@ search Search
 *   Mobile Apps Policy
 *   Cookies and Tracking Technologies Policy
 
-Privacy Home Last updated: February, 18 2014
+Privacy Home Last updated: May 2014
 
-This is new!
-
-What’s changed?
+In this privacy policy:
 
 *   We’ve summarized our privacy policy terms so you can find what you need quickly;
 *   We’ve designed one privacy policy to apply across many NBCUniversal online services;
-*   We’ve added more detail about the personal information we use and collect, including through mobile apps. and
-*   We’ve made changes that explain how we share information with the companies in the NBCUniversal group.
+*   We’ve added more detail about the personal information we use and collect, including through mobile apps;and
+*   We explain how we share information with the companies in the NBCUniversal group.
+
+Most recent change – May 2014
+
+*   We’ve added more information about how to opt out of receiving targeted advertising on mobile apps.
 
 **Privacy at NBCUniversal**
 
@@ -114,9 +116,9 @@ We provide physical, electronic, and procedural safeguards to protect informatio
 
 more Tracking/Cookies and Ads
 
-We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt-out of this “targeted advertising”. The effect of opting out is controlled by third parties, but they may still collect your usage information for analytic, research or internal operations purposes.
+We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt- out of this “targeted advertising”. The effect of opting out is controlled by third parties, but they may still collect your usage information for analytic, research or internal operations purposes.
 
-Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these choices.
+Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these choices.
 
 more Where is information processed?
 
