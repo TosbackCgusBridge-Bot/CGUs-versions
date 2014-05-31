@@ -303,8 +303,6 @@ By using any downloadable application to enable Your use of the Monster Sites, Y
 
 These Terms will remain in full force and effect while You are a User of any Monster Site. Monster reserves the right, at its sole discretion, to pursue all of its legal remedies, including but not limited to removal of Your User Content from the Monster Sites and immediate termination of Your registration with or ability to access the Monster Sites and/or any other services provided to You by Monster, upon any breach by You of these Terms or if Monster is unable to verify or authenticate any information You submit to a Monster Site registration. Even after You are no longer a User of the Monster Sites, certain provisions of these Terms will remain in effect, including Sections 1, 2, 5, 7 through 16, inclusive.
 
- 
-
 **Update effective March 2014**
 
 Summary of Changes – effective March 2014
