@@ -251,17 +251,17 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Wil Wheaton Project Extras: Chris Hardwick Bl ... Wil Wheaton Project Extras: Chris Hardwick Bloopers
+Syfy Video The Wil Wheaton Project - Next Episode - The ... The Wil Wheaton Project - Next Episode - The Wrath of Wheaton
 
-Get a laugh at the expense of Chris Hardwick and Wil Wheaton. Check out Chris and Wil on the premiere of The Wil Wheaton Project.
+Catch the next episode of The Wil Wheaton Project, Tuesdays at 10/9c.
 
-Blastr Exclusive Interview with Wil Wheaton Blastr Exclusive Interview with Wil Wheaton
+The Walking Dead Theme Song The Walking Dead Theme Song
 
-Wil Wheaton gives his thoughts on some of the most popular topics in popular culture.
+Because the world was waiting for it.
 
-Ascension - Trailer Ascension - Trailer
+Wolverine Sings! Wolverine Sings!
 
-A long-lead, conceptual tease for Ascension, coming in November from Syfy
+Hugh Jackman cannot resist any opportunity to sing about the X-Men!
 
 Bigger, Bolder, and Even More Ridiculous - Sh ... Bigger, Bolder, and Even More Ridiculous - Sharknado 2: The Second One
 
