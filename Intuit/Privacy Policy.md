@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola712 SERVER NAME :->. prod-c1-com-71201 TIME :->. Sat May 31 07:52:16 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l2-com-0301 TIME :->. Sun Jun 01 04:47:56 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,45 +49,58 @@ Ends June 4.
 
 Online Code: SPGSALE
 
-Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
-Or, Extra 15% Off\* with any other method of payment.
+Or,Extra 15% Off\* with any other method of payment.
 
-Select original, regular, sale and clearance-priced items.
+Original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon 40-50% Off Select A.N.A shop A.N.A40-50% Off Select Men's St. John's Bay shop men's St. John's Bay shop men's St. John's BayAll Things Summer Sale
+\*See exclusions and details. print store coupon
 
-Everywhere you look—your feel-good fit and price!
+*   Love DAD Sale
+    
+    Summer savings for the whole family—plus all the coolest gifts for dad.
+    
+    shop the sale view store ad$9.99 St. John's Bay Pique Polo shop St. John's Bay polos
+*   Home Sale
+    
+    30-50% Off Home
+    
+    Select items.
+    
+    In store and online. Ends June 15.
+    
+    shop the home sale shop small appliances
 
-shop the sale view store ad Night and Day Doorbusters
+Father's Day Is Sunday, June 15
 
-Excluded from coupon offer.
+Gifts that fit his style, prices that'll make your father proud.
 
-In store only. Friday, May 30, 3PM until close, Saturday, May 31, 10 AM until 1PM.
+Order by June 8 to get it before Father's Day.
 
-view doorbusters store ad 50% Off Select Van Heusen shop van Heusen 20% Off\* Watches shop watches
+shop Father's Day gifts 40-50% Off Select Men's Golf Apparel shop men's golf apparel 40-60% Off\* Fine Jewelry shop fine jewelry
 
 Code: GLAMORUS
 
-\*See exclusions and details. 30-40% Off Select Small Appliances
+\*See exclusions and details. $45-$50 Men's Nike Athletic Shoes
 
-Excluded from coupon.
+Excluded from offer.
 
-shop small appliances 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40-50% Off Select Kids' Xersion shop kids' Xersion 40-50% Off Select Curtains and Drapes shop curtains and drapes JCP Rewards
+shop men's Nike athletic shoes 40% Off Select Dress Shirts shop dress shirts 40-60% Off Luggage Sale
 
-Shop to earn $10 JCP Rewards.
+Save on select styles.
 
-sign up todayGift Cards
+shop luggage 30-50% Off Select Cutlery shop cutlery JCP Rewards
+
+Join now and get 50 bonus points.\*
+
+\*Get details and sign up today.Gift Cards
 
 Always fits, never expires.
 
-shop gift cardsLove DAD
-
-Father's Day is Sunday, June 15.
-
-shop gifts for dadRed Zone Clearance Selections shop clearance
+shop gift cardsTacky Tie Bribes get detailsRed Zone Clearance Selections shop clearance
 
 get connected
 
