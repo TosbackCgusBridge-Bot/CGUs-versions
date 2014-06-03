@@ -397,6 +397,8 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Partnersuche
 *   Arztsuche
 *   DSL-Vergleich
+*   Hörgeräte-  
+    Beratung
 
 *   ENERGIE
 *   Gasanbieter-  
