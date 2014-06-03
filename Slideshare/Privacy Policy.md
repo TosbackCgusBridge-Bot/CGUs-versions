@@ -317,7 +317,6 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   Small Business
 *   Mobile
 *   Developers
-*   Publishers
 *   Language
     *   Bahasa Indonesia
     *   Bahasa Malaysia
