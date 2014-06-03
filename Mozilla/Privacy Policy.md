@@ -52,7 +52,7 @@ Some Mozilla websites allow you to make purchases (such as apps) or make a donat
 
 *   **Payment Processing**: Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction. For more information on our data practices with third party vendors, see our Mozilla Privacy Policy.
 
-Back to Mozilla Privacy Policy
+Back to Mozilla Privacy Policy Mozilla
 
 Portions of this content are ©1998–2014 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
