@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video The Wil Wheaton Project - Next Episode - The ... The Wil Wheaton Project - Next Episode - The Wrath of Wheaton
+Syfy Video Continuum - Sneak Peek - Revolutions Per Minu ... Continuum - Sneak Peek - Revolutions Per Minute
+
+Check out the next episode of Continuum, Fridays at 10/9c.
+
+The Double Edge Sword The Double Edge Sword
+
+Other Alec got way more than he bargained for when he became the new head of PIRON: like a breach of contract lawsuit from Kellog.
+
+Dial M For Murder Dial M For Murder
+
+With tensions running high in the department in the wake of Betty's death, Carlos calls out Dillon for his reluctance to more forward in finding her killer.
+
+The Wil Wheaton Project - Next Episode - The ... The Wil Wheaton Project - Next Episode - The Wrath of Wheaton
 
 Catch the next episode of The Wil Wheaton Project, Tuesdays at 10/9c.
-
-The Walking Dead Theme Song The Walking Dead Theme Song
-
-Because the world was waiting for it.
-
-Wolverine Sings! Wolverine Sings!
-
-Hugh Jackman cannot resist any opportunity to sing about the X-Men!
-
-Bigger, Bolder, and Even More Ridiculous - Sh ... Bigger, Bolder, and Even More Ridiculous - Sharknado 2: The Second One
-
-Sharknado 2: The Second One airs June 30th at 9/8c.
 
 *   FAQ
 *   Feedback
