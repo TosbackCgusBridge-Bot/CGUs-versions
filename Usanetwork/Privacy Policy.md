@@ -70,7 +70,7 @@ search Search
 *   Mobile Apps Policy
 *   Cookies and Tracking Technologies Policy
 
-Privacy Home Last updated: May 2014
+Privacy Home Last updated: 30 May 2014
 
 In this privacy policy:
 
