@@ -1,4 +1,4 @@
-Search Home » Privacy Policy Helpful Links
+Home » Privacy Policy Join Sign in Search Helpful Links
 
 *   FAQ
 *   About Us
@@ -106,9 +106,6 @@ Contact EzineArticles
 
 EzineArticles.com
 
-© 2014 SparkNET  
-All Rights Reserved Worldwide
-
 *   About Us
 *   FAQ
 *   Contact Us
@@ -134,9 +131,12 @@ Authors
 *   Editorial Guidelines
 *   Terms of Service
 
-Publishers Follow Us
+Publishers
 
 *   Terms Of Service
 *   Ezines / Email Alerts
 *   Manage Subscriptions
 *   EzineArticles RSS
+
+© 2014 SparkNET  
+All Rights Reserved Worldwide
