@@ -53,7 +53,7 @@
 *   Mi Cuenta
 *   Email
 
-RESIDENTIAL SERVICES AGREEMENT Last modified: May \_\_, 2014  
+RESIDENTIAL SERVICES AGREEMENT Last modified: May 27, 2014  
   
 **TERMS OF SERVICE APPLICABLE TO SERVICE(S):**  
 You ("You" or "Customer") understand and agree that Sections 1 through 26 of this Residential Service Agreement ("Agreement") apply to Suddenlink Communications' ("Suddenlink") provision of each and every service ("Service(s)") ordered by Customer or provided by Suddenlink as part of a Service, which may include cable television service ("Video Service"), high speed data service ("High Speed Internet Service"), voice service ("Phone Service") and any equipment rented from or otherwise supplied by or on behalf of Suddenlink to you ("Equipment"). For purposes of clarity, "Services" as defined herein excludes any services or equipment provided by Suddenlink Security, which are covered by separate agreement.
