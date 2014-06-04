@@ -3,7 +3,7 @@
 *   SOLUTIONS
     *   PRODUCT INNOVATION
     *   BRAND ENGAGEMENT
-    *   CUSTOMER RETENTION
+    *   CUSTOMER VALUE
 *   DATA
 *   TECHNOLOGY
 *   NEWS CENTER
@@ -12,7 +12,7 @@
 *   SOLUTIONS
     *   PRODUCT INNOVATION
     *   BRAND ENGAGEMENT
-    *   CUSTOMER ENGAGEMENT
+    *   CUSTOMER VALUE
 *   DATA
 *   TECHNOLOGY
 *   NEWS CENTER
@@ -36,11 +36,11 @@ Analysis that links brand relationships to effective communication strategies.
 
 Brand Engagement
 
-Customer Engagement
+Customer Value
 
 Insights to drive excellent experiences, positive recommendations and ease of engagement.
 
-Customer Engagement
+Customer Value
 
 POWERED BY UNIQUE ANALYTICS AND INSIGHTS
 
@@ -51,7 +51,7 @@ to deliver solutions that extend market research into new areas of marketing ins
 
 2 Technology  Self -developed technologies for data collection and integration include our global audience platform, passive metering, dashboarding and/or our big data ecosystem.
 
-3 Solutions We combine data and technology to generate marketing analytics and insights through best-in-class solutions in Innovation, Brand Engagement and Customer Engagement.
+3 Solutions We combine data and technology to generate marketing analytics and insights through best-in-class solutions in Innovation, Brand Engagement and Customer Value.
 
 OUR GLOBAL TEAM OF EXPERTS IS EXCITED TO HELP YOU
 
@@ -59,12 +59,12 @@ Headquartered in Rotterdam and San Francisco, MetrixLab has conducted analytics 
 
 Let’s get in touch!
 
-\---AnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbadosBelgiumBelizeBermudaBoliviaBotswanaBrasilBritish Virgin IslandsBulgariaCamerounCanadaCayman IslandsČeská republikaChileChinaColombiaCosta RicaCôte d'IvoireDanmarkDeutschlandDominicaEcuadorEestiEgyptEl SalvadorEspañaFranceGreeceGrenadaGuatemalaGuinea-BissauGuinéeGuinée EquatorialeGuyanaHondurasHong KongHrvatskaIndiaIndonesiaIrelandIsraelItaliaJamaicaJapanJordanKenyaKoreaKuwaitLatvijaLiechtensteinLietuvaLuxembourgMacedoniaMadagascarMagyarországMalaysiaMaliMaltaMarocMauriceMéxicoMoldovaMontenegroMontserratMozambiqueNederlandNew ZealandNicaraguaNigerNigeriaNorgeOmanÖsterreichPanamáParaguayPerúPhilippinesPolskaPortugalPuerto RicoQatarRepública DominicanaRépublique CentrafricaineRomâniaRussiaSaudi ArabiaSchweizSénégalSingaporeSloveniaSlovenskoSouth AfricaSt. Kitts &. NevisSt. LuciaSt. Vincent &. The GrenadinesSuisseSuomiSurinameSverigeTaiwainThailandThe BahamasTrinidad &. TobagoTunisieTürkiyeTurks &. CaicosUgandaUKUnited Arab EmiratesUnited StatesUruguayVenezuelaVietnam
+\---AnguillaAntigua &. BarbudaArgentinaArmeniaAustraliaBahrainBarbadosBelgiumBelizeBermudaBoliviaBotswanaBrasilBritish Virgin IslandsBulgariaCamerounCanadaCayman IslandsČeská republikaChileChinaColombiaCosta RicaCôte d'IvoireDanmarkDeutschlandDominicaEcuadorEestiEgyptEl SalvadorEspañaFranceGreeceGrenadaGuatemalaGuinea-BissauGuinéeGuinée EquatorialeGuyanaHondurasHong KongHrvatskaIndiaIndonesiaIrelandIsraelItaliaJamaicaJapanJordanKenyaKoreaKuwaitLatvijaLiechtensteinLietuvaLuxembourgMacedoniaMadagascarMagyarországMalaysiaMaliMaltaMarocMauriceMéxicoMoldovaMontenegroMontserratMozambiqueNederlandNew ZealandNicaraguaNigerNigeriaNorgeOmanÖsterreichPanamáParaguayPerúPhilippinesPolskaPortugalPuerto RicoQatarRepública DominicanaRépublique CentrafricaineRomâniaRussiaSaudi ArabiaSchweizSénégalSingaporeSloveniaSlovenskoSouth AfricaSt. Kitts &. NevisSt. LuciaSt. Vincent &. The GrenadinesSuisseSuomiSurinameSverigeTaiwainThailandThe BahamasTrinidad &. TobagoTunisieTürkiyeTurks &. CaicosUgandaUnited KingdomUnited Arab EmiratesUnited StatesUruguayVenezuelaVietnam
 
 *   Solutions
     *   Product Innovation
     *   Brand Engagement
-    *   Customer Engagement
+    *   Customer Value
 
 *   Data
 *   Technology
