@@ -28,7 +28,7 @@ What Information We Collect
     *   You interact with any of the Sites through your computer, tablet or mobile device
 
   
-How and Why We Collect the Information
+How and Why We Collect Information
 
 *   **Technologies Used**  
     We may use tracking pixels/web beacons, cookies and or other technologies to receive and store certain types of information. This information includes Internet Protocol (IP) addresses, browser information, Internet Service Provider (ISP), operating system, date/time stamp and clickstream data. This information helps us customize your website experience and make our marketing messages more relevant. It also allows us to provide features such as storage of items in your cart between visits. This includes Overstock.com content presented on other websites or mobile applications. In order to provide the best customer experience possible, we also use this information for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
@@ -60,44 +60,44 @@ How We Use the Information We Collect
     *   Improve the effectiveness of the Sites, mobile experience, and marketing efforts
     *   Conduct research and analysis, including focus groups and surveys
     *   Perform other business activities as needed, or as described elsewhere in this policy
-*   **Fraud Prevention**  
-    To prevent fraudulent transactions, monitor against theft and otherwise protect our customers and our business
-*   **Legal Compliance**  
-    To assist law enforcement and respond to subpoenas
+*   **Fraud Prevention**
+    *   To prevent fraudulent transactions, monitor against theft and otherwise protect our customers and our business
+*   **Legal Compliance**
+    *   To assist law enforcement and respond to subpoenas
 
   
 How We Protect the Information We Collect
 
-*   **Security Methods**  
-    We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard this information, the Sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only Overstock.com is able to decode the information.
-*   **E-mail Security**  
-    Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. "Phishing" is a scam designed to steal your information. If you receive an e-mail that looks like it is from us asking you for certain information, do not respond. Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.
-*   **Information About Children**  
-    We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). Overstock.com will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to Overstock.com, for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
-*   **Additional Security**  
-    We also ask customers to carefully review their accounts and immediately report any unexpected activity to Overstock.com and their issuing bank or credit card company. We are asking all our customers to take measures to help protect information in their online accounts, including the following:
-    *   Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses
-    *   Reset your e-mail account passwords frequently
-    *   Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters)
-    *   Do not use the same password on more than one website
-    *   Do not share your password with others
-    *   Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal
+*   **Security Methods**
+    *   We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard this information, the Sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only Overstock.com is able to decode the information.
+*   **E-mail Security**
+    *   Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. "Phishing" is a scam designed to steal your information. If you receive an e-mail that looks like it is from us asking you for certain information, do not respond. Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.
+*   **Information About Children**
+    *   We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). Overstock.com will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to Overstock.com, for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+*   **Additional Security**
+    *   We also ask customers to carefully review their accounts and immediately report any unexpected activity to Overstock.com and their issuing bank or credit card company. We are asking all our customers to take measures to help protect information in their online accounts, including the following:
+        *   Install the latest security updates and anti-virus software on your computer to help prevent malware and viruses
+        *   Reset your e-mail account passwords frequently
+        *   Use complex passwords (a minimum of 7 alpha/numeric cAsE sEnsitive characters)
+        *   Do not use the same password on more than one website
+        *   Do not share your password with others
+        *   Sign out/log off website sessions so that your session is closed and cannot be accessed by another user on the same computer, especially when using a public computer or terminal
 
   
 How We Share the Information We Collect
 
-*   **General Policy**  
-    We do not sell or rent customer information to third parties. except, under limited circumstances outlined below, we may share information with third parties.
-*   **The Overstock Family**  
-    We share information we collect within the Sites and Overstock.com family, which includes all Overstock.com subsidiaries and affiliates. The Overstock.com family may use this information to offer you products and services that may be of interest to you.
-*   **Service Providers**  
-    We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
-*   **Legal Requirements**  
-    We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law. to enforce or apply applicable terms and conditions and other agreements. or to protect the rights, property or safety of our company, our customers or others.
-*   **When You Direct Us**  
-    At your direction or request, we may share your information.
-*   **Business Transfers**  
-    If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers. We also may retain a copy of that customer information.
+*   **General Policy**
+    *   We do not sell or rent customer information to third parties. except, under limited circumstances outlined below, we may share information with third parties.
+*   **The Overstock Family**
+    *   We share information we collect within the Sites and Overstock.com family, which includes all Overstock.com subsidiaries and affiliates. The Overstock.com family may use this information to offer you products and services that may be of interest to you.
+*   **Service Providers**
+    *   We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+*   **Legal Requirements**
+    *   We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law. to enforce or apply applicable terms and conditions and other agreements. or to protect the rights, property or safety of our company, our customers or others.
+*   **When You Direct Us**
+    *   At your direction or request, we may share your information.
+*   **Business Transfers**
+    *   If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers. We also may retain a copy of that customer information.
 
   
 What Choices Do You Have
@@ -107,22 +107,22 @@ What Choices Do You Have
         If you do not wish to receive promotional e-mails from us, click here. You also have the ability to unsubscribe to promotional e-mails via the opt-out link included in each e-mail. It may take up to 10 business days before you stop receiving promotional e-mails.
     *   **Important Notices and Transactional E-mail**  
         *   From time to time, we may send non-commercial electronic email messages with important information about us or the Sites to your email address.
-        *   We regularly send email order confirmations and email order updates to you after you have submitted an order.
-*   **Mobile**  
-    We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt-in request. Customers will be able to opt out of a specific mobile messaging campaign.
-*   **Overstock.com Cookies**  
-    The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Overstock.com features.
-*   **Third Party Cookies**  
-    To opt-out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website, click here http://www.networkadvertising.org/choices/.
-*   **Telephone**  
-    If you do not wish to receive promotional communication from us, call us at (800) 843-2446 to opt out. This opt out does not apply to operational communication, for example, confirmation of delivery address.
+        *   We regularly send email order confirmations, email order updates and "leave a review" emails to you after you have submitted an order.
+*   **Mobile**
+    *   We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt-in request. Customers will be able to opt out of a specific mobile messaging campaign.
+*   **Overstock.com Cookies**
+    *   The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Overstock.com features.
+*   **Third Party Cookies**
+    *   To opt-out of third-party vendor's cookies on other websites, visit the Network Advertising Initiative website, click here http://www.networkadvertising.org/choices/.
+*   **Telephone**
+    *   If you do not wish to receive promotional communication from us, call us at (800) 843-2446 to opt out. This opt out does not apply to operational communication, for example, confirmation of delivery address.
 
   
 How Do You Access and Update the Information
 
 *   In order to keep your information accurate and complete, you can access or update some of your information in the following ways:
     *   If you have created an Overstock.com account, you can log in and update your account information, including contact, billing, and shipping information.
-    *   o Contact us with your current contact information and the information you would like to access. We will provide you the information requested if reasonably available, or will describe more fully the types of information we typically collect.
+    *   Contact us with your current contact information and the information you would like to access. We will provide you the information requested if reasonably available, or will describe more fully the types of information we typically collect.
 
   
 Overstock Privacy Policy Scope
@@ -133,7 +133,7 @@ Overstock Privacy Policy Scope
   
 International Customer Privacy
 
-*   In some cases, Overstock.com has partnered with companies \[e.g., Borderfree, Inc., who does business under the name “Borderfree,” and PayPal, Inc. (“PayPal”), collectively, “Vendors”\] as outside vendors that we have selected to help us facilitate international transactions. We work closely with these Vendors to ensure that your transaction is handled with care and all the information you provide is secure.
+*   In some cases, Overstock.com has partnered with companies (e.g., Borderfree, Inc., who does business under the name “Borderfree,” and PayPal, Inc. (“PayPal”), collectively, “Vendors”) as outside vendors that we have selected to help us facilitate international transactions. We work closely with these Vendors to ensure that your transaction is handled with care and all the information you provide is secure.
 *   As an international customer, when you click on the checkout button, you will be redirected to a checkout page hosted by Borderfree to complete your order. On the checkout page, you will be required to select a method of payment and submit credit card and other information to Borderfree to complete your order. On the checkout page, you will be presented with Borderfree’s terms and conditions which you must agree to in order to complete your order.
 *   Upon completion and approval of your order by Borderfree, Borderfree will notify us of the approval and we will process your order and cause it to be shipped directly to Borderfree. In this process, Borderfree will purchase those items in your order from us, thereby taking title to the items, bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the delivery of your order. In this process, Borderfree makes the sale to you as the merchant of record, but we are legally obligated to deliver your order as set forth in our Terms and Conditions.
 *   If you have questions about your order, you should direct them to us and not to Borderfree.
@@ -156,6 +156,6 @@ Overstock Privacy Policy Revisions
 
 By interacting with Overstock, you consent to our use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically.
 
-This Privacy Policy was last updated on January 9, 2013.
+This Privacy Policy was last updated on June 3, 2014.
 
-5.0.20130109
+5.1.20140603
