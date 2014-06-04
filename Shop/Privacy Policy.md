@@ -197,14 +197,14 @@ Lenovo United States Select a country/region
         on select home PCs through June 4.
         
         **Shop now >**
+    *   Need it Quick?
+        
+        Prebuilt models of our most popular ThinkPad and ThinkCentre PCs.
+        
+        **Shop now >**
     *   Lenovo Y510p Level Up
         
         with epic gaming features.
-        
-        **Shop now >**
-    *   Uncompromising Elegance
-        
-        The ThinkPad T440s offers beauty and brawn in one business-powered package.
         
         **Shop now >**
     
@@ -247,9 +247,9 @@ Lenovo United States Select a country/region
         on select home PCs through June 4.
         
         **Shop now >**
-    *   Yoga — Now for Business
+    *   Need it Quick?
         
-        Built for business, yet ready for play, the new ThinkPad Yoga offers the best of both worlds.
+        Prebuilt models of our most popular ThinkPad and ThinkCentre PCs.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -290,9 +290,9 @@ Lenovo United States Select a country/region
         on select home PCs through June 4.
         
         **Shop now >**
-    *   Deals on ThinkCentre
+    *   Lenovo Q190
         
-        Get great deals on our powerful ThinkCentre desktop systems every day.
+        Take control of your home theatre.
         
         **Shop now >**
     *   Less is More
