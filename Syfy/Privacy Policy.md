@@ -263,9 +263,9 @@ Dial M For Murder Dial M For Murder
 
 With tensions running high in the department in the wake of Betty's death, Carlos calls out Dillon for his reluctance to more forward in finding her killer.
 
-The Wil Wheaton Project - Next Episode - The ... The Wil Wheaton Project - Next Episode - The Wrath of Wheaton
+The Wil Wheaton Project - Episode 2 airs TONI ... The Wil Wheaton Project - Episode 2 airs TONIGHT at 10/9c.
 
-Catch the next episode of The Wil Wheaton Project, Tuesdays at 10/9c.
+The Wil Wheaton Project is back TONIGHT for episode 2. Starting at 10/9c.
 
 *   FAQ
 *   Feedback
