@@ -1,12 +1,12 @@
 *   Subscribe Now Home Delivery: 50% Off 12 Weeks
     
     All print options include free, unlimited access to  
-    NYTimes.com, NYTimes apps and NYT Now.
+    NYTimes.com, NYTimes apps, NYT Now and NYT Opinion.
     
     Get Home Delivery Digital Subscription: Just 99¢ for 4 Weeks
     
     Get unlimited access to NYTimes.com,  
-    NYTimes apps and NYT Now.
+    NYTimes apps, NYT Now and NYT Opinion.
     
     Get Digital Top Stories Top Stories: Just 99¢ for 12 Weeks
     
@@ -14,8 +14,13 @@
     by our editors. On NYTimes.com and in the new  
     NYT Now app for iPhone®.
     
-    Get Top Stories See All Subscriptions
-Subscribe campaign: nyt2014\_bar1\_topstories\_ROS\_46W7W\_44HX7\_46W96 -- 247882, creative: nyt2014\_bar1\_3panel\_NOTopStories\_46W7W -- 375143, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+    Get Top Stories NYT Opinion: Just 99¢ for 12 Weeks
+    
+    Get unlimited access to the Opinion section on  
+    NYTimes.com and a new iPhone® app.
+    
+    Get NYT Opinion See All Subscriptions
+Subscribe campaign: nyt2014\_bar1\_4panel\_opinion\_46W4F\_46W4J\_46W6L -- 247503, creative: nyt2014\_bar1\_4panel\_opinion\_46W4F\_46W4J\_46W6L -- 373366, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
