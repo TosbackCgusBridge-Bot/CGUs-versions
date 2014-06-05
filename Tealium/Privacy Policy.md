@@ -71,17 +71,16 @@ Tealium
 *   Education
 *   Resources
 *   Company
-*   Create a Free Account
+*   Free 30-Day Trial
 
 *   Blog
 *   Contact Us
 
 *   Login
-*   Create a Free Account
+*   Free 30-Day Trial
 
 Tealium IQ Enterprise Tag Management  
-Supported Tags•Privacy•Mobile  
-Audit•Event Store•Server to Server Tealium AudienceStream Digital Data Distribution  
+Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server Tealium AudienceStream Digital Data Distribution  
 The industry's first audience discovery and digital data distribution platform »
 
 *   Solutions by Role
@@ -94,9 +93,8 @@ The industry's first audience discovery and digital data distribution platform �
     *   Media &. Publishing
     *   Technology Services
 
-Free Webinar  
-“Making Sense of the Marketing Cloud Wars”  
-Register Now »
+Free Recorded Webinar  
+"Making Sense of the Marketing Cloud Wars" Watch Now »
 
 *   Partners
     *   SYNC for Agencies
@@ -294,82 +292,69 @@ Find the solution that is right for your business.
 
 Learn More
 
-*   Products
-    *   Tealium iQ
-    *   Data Distribution
-*   Solutions
-    *   Web Analytics
-    *   Digital Marketing
-    *   IT
-    *   Executives
-    *   E-Commerce
-    *   Media &. Publishing
-    *   Technology Services
-*   Partners
-    *   SYNC for Agencies
-    *   SYNC for Technology Vendors
-*   Education
-    *   Digital Velocity Conference
-    *   Tealium University
-    *   Tealium Learning Community
-*   Resources
-    *   Resources
-*   Company
-    *   About Us
-    *   Customers
-    *   Leadership
-    *   Investors
-    *   Press Releases
-    *   News Coverage
-    
-    *   Digital 100
-    *   Careers
+*   *   Products
+        *   Tealium iQ
+        *   AudienceStream
+    *   Solutions
+        *   Web Analytics
+        *   Digital Marketing
+        *   IT
+        *   Executives
+        *   E-Commerce
+        *   Media &. Publishing
+        *   Technology Services
+    *   Partners
+        *   SYNC for Agencies
+        *   SYNC for Technology Vendors
+    *   Education
+        *   Digital Velocity Conference
+        *   Tealium University
+        *   Tealium Learning Community
+*   *   Resources
+    *   Company
+        *   About Us
+        *   Press Releases
+        *   Careers
+        *   Contact
 
 US Headquarters
 
 11085 Torreyana Road  
 San Diego, CA 92121  
-+1 (858) 779-1344
++1 (858) 779-1344  
+info@tealium.com
 
 United Kingdom
 
-20 Hanover Square  
-London, W1S1JY  
 +44 (0) 20 70 84 62 68
-
-Singapore
-
-14 Mohd Sultan Rd 03-02  
-Singapore 238963  
-+65 6631 8912
 
 Germany
 
-Neuer Wall 50  
-20354 Hamburg  
 +49 408 22186462
-
-The Netherlands
-
-Zilverenberg 36,  
-5234 BM 's-Hertogenbosch  
-netherlands@tealium.com
 
 France
 
-9 Rue du Quatre Septembre  
-75002 Paris  
 \+ 33 (0) 1 7098 3351
+
+Singapore
+
++65 6631 8912
+
+The Netherlands
+
+netherlands@tealium.com
+
+Australia
+
++61 2 8599 2863
 
 About Tealium
 
-Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications.
+Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications. Copyright © 2014 Tealium. All Rights Reserved.
 
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
-
-Copyright © 2014 Tealium. All Rights Reserved.
 
 Recent Searches:
 
