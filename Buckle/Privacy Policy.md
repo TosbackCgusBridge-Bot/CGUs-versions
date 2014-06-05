@@ -181,6 +181,13 @@ While we implement the above security measures on this site, you should be aware
 
 Contact Us
 
+Buckle.com Phone Orders/Payment Questions:  
+Phone: 800-522-8090  
+Mon-Fri 7 am - 9 pm CT  
+Sat-Sun 8 am - 5 pm CT  
+Email: online.orders@buckle.com  
+Fax: 308-236-4493
+
 Corporate Guest Services:  
 Phone: 800-607-9788  
 Mon-Fri: 8 am - 9 pm CT  
@@ -190,6 +197,11 @@ Sun: 12 pm - 6 pm CT
 Email: guest.services@buckle.com  
 Fax: 308-236-4493
 
+Buckle Credit Card Questions?  
+Comenity Bank  
+Phone: 888-427-7786  
+TDD/TYY: 800-695-1788  
+
 Corporate Office:  
 The Buckle, Inc.  
 2407 W. 24th Street  
@@ -198,18 +210,6 @@ Phone: 800-626-1255
 
 Screenprinting Service:  
 Phone: 800-626-1255
-
-Buckle.com Phone Orders/Payment Questions:  
-Phone: 800-522-8090  
-Mon-Fri 7 am - 9 pm CT  
-Sat-Sun 8 am - 5 pm CT  
-Email: online.orders@buckle.com  
-Fax: 308-236-4493
-
-Buckle Credit Card Questions?  
-Comenity Bank  
-Phone: 888-427-7786  
-TDD/TYY: 800-695-1788  
 
 The Buckle Inc.
 
