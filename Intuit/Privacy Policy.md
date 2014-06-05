@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola702.jcpenney.com SERVER NAME :->. prod-c1-com-70202 TIME :->. Tue Jun 03 06:09:15 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l2-com-0302 TIME :->. Wed Jun 04 12:14:31 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -63,7 +63,7 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
     
     Summer savings for the whole family—plus all the coolest gifts for dad.
     
-    shop the sale view store ad$9.99 St. John's Bay Pique Polo shop St. John's Bay polos
+    shop the sale view store ad$9.99 St. John's Bay Pique Polo shop men's St. John's Bay
 *   Home Sale
     
     30-50% Off Home
@@ -80,11 +80,7 @@ Gifts that fit his style, prices that'll make your father proud.
 
 Order by June 8 to get it before Father's Day.
 
-shop Father's Day gifts 40-50% Off Select Men's Golf Apparel shop men's golf apparel 40-60% Off\* Fine Jewelry shop fine jewelry
-
-Code: GLAMORUS
-
-\*See exclusions and details. $45-$50 Men's Nike Athletic Shoes
+shop Father's Day gifts 40-50% Off Select Men's Golf Apparel shop men's golf apparel Jewelry Spectacular Sale 45-65% Off Select Fine Jewelry shop fine jewelry $45-$50 Men's Nike Athletic Shoes
 
 Excluded from offer.
 
