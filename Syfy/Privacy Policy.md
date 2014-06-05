@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Continuum - Sneak Peek - Revolutions Per Minu ... Continuum - Sneak Peek - Revolutions Per Minute
+Syfy Video Continuum - Next Episode - Revolutions Per Mi ... Continuum - Next Episode - Revolutions Per Minute
+
+Catch the next episode of Continuum, Fridays at 10/9c.
+
+Continuum - Sneak Peek - Revolutions Per Minu ... Continuum - Sneak Peek - Revolutions Per Minute
 
 Check out the next episode of Continuum, Fridays at 10/9c.
 
@@ -262,10 +266,6 @@ Other Alec got way more than he bargained for when he became the new head of PIR
 Dial M For Murder Dial M For Murder
 
 With tensions running high in the department in the wake of Betty's death, Carlos calls out Dillon for his reluctance to more forward in finding her killer.
-
-The Wil Wheaton Project - Episode 2 airs TONI ... The Wil Wheaton Project - Episode 2 airs TONIGHT at 10/9c.
-
-The Wil Wheaton Project is back TONIGHT for episode 2. Starting at 10/9c.
 
 *   FAQ
 *   Feedback
