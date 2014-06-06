@@ -192,9 +192,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   SIZZLING SAVINGS Save up to 41%
+    *   COOL DEALS Save up to 41%
         
-        on select home PCs through June 4.
+        on select home PCs through June 11.
         
         **Shop now >**
     *   Need it Quick?
@@ -231,20 +231,19 @@ Lenovo United States Select a country/region
         *   Lenovo A1000L:7" Affordable Entertainment Tablet
         *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
     *   Windows TabletsOne Experience For Everything in Your Life
-        *   ThinkPad 8:8.3" Multimode Business Tablet
         *   ThinkPad 10:10.1" Tablet with Full PC Experience
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
-        *   ThinkPad Tablet 2:10.1" Business Tablet
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
+        *   ThinkPad 8:8.3" Multimode Business Tablet
     *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Yoga:Convertible Entertainment
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   SIZZLING SAVINGS Save up to 26%
+    *   COOL DEALS Save up to 26%
         
-        on select home PCs through June 4.
+        on select home tablets through June 11.
         
         **Shop now >**
     *   Need it Quick?
@@ -285,9 +284,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   SIZZLING SAVINGS Save up to 26%
+    *   COOL DEALS Save up to 26%
         
-        on select home PCs through June 4.
+        on select home desktps through June 11.
         
         **Shop now >**
     *   Lenovo Q190
@@ -377,9 +376,9 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   HEADSET P950 Save 56%
+    *   LENOVO SPEAKERS Save 48%
         
-        Enhance your audio experience with powerful bass.
+        Rear-mounted controls for convenient operations.
         
         **Shop now >**
     *   PROTECT YOUR PC Save 20%
@@ -430,7 +429,7 @@ Lenovo United States Select a country/region
      
 *   Which PC is right for me?
 
-View cart HomePrivacy Details PrivacyPrivacy detailsCookies  
+View cart HomePrivacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
   Privacy details    
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
