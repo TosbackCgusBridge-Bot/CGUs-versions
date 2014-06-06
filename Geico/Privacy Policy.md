@@ -7,11 +7,11 @@ Table of Contents
 Summary  
 The Information We Collect
 
-*   Information We Obtain From You
-*   Information About Your Transactions
-*   Information From Third Parties
-*   Location Services for Mobile Apps
-*   Access and Correction of Personal Information
+*   \>Information We Obtain From You
+*   \>Information About Your Transactions
+*   \>Information From Third Parties
+*   \>Location Services for Mobile Apps
+*   \>Access and Correction of Personal Information
 
 The Information We Disclose  
 Confidentiality and Security  
@@ -104,7 +104,6 @@ We restrict access to your Information to employees who we have determined need 
 
 Please see our Internet Security Policy for further information on how we protect your information on the Internet.
 
-  
 Additional Information for Our Internet Users
 
 We continuously improve geico.com. We are interested in how visitors use our website, what they like and dislike, and where they have problems. We may gather data on how users navigate our site so we can make geico.com an easy place to do business. Our tools may gather data such as what browser a person uses or even what pages are most popular.
@@ -145,3 +144,5 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Insurance Agency, Inc.
 
 The Effective Date of the revised Privacy Policy is January 30, 2014.
+
+Print
