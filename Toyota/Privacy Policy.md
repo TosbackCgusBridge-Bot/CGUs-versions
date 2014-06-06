@@ -1,6 +1,6 @@
 *   Notebook
 *   Owners
-*   English Español
+*   Español
 *   Search
 
 *   Select Vehicle
@@ -9,47 +9,44 @@
 *   Build &. Price
 *   Local Specials
 
-1.  Cars &. Minivan
-    *   Yaris $14,430 starting msrp 1 30/37 est. mpg 2 $16,540 as shown Explore Build
-    *   Corolla $16,800 starting msrp 1 28/37 est. mpg 2 $19,000 as shown Explore Build
-    *   Camry $22,425 starting msrp 1 25/35 est. mpg 2 $27,850 as shown Explore Build
-    *   Avalon $31,340 starting msrp 1 21/31 est. mpg 2 $39,650 as shown Explore Build
-    *   Sienna $26,920 starting msrp 1 18/25 est. mpg 2 $33,860 as shown Explore Build
-2.  Trucks
-    *   Tacoma $18,125 starting msrp 1 21/25 est. mpg 2 $31,720 as shown Explore Build
-    *   Tundra $26,200 starting msrp 1 16/20 est. mpg 2 $39,125 as shown Explore Build
-3.  Crossovers &. SUVs
-    *   RAV4 $23,550 starting msrp 1 24/31 est. mpg 2 $28,320 as shown Explore Build
-    *   Venza $27,950 starting msrp 1 20/26 est. mpg 2 $39,790 as shown Explore Build
-    *   Highlander $29,215 starting msrp 1 20/25 est. mpg 2 $39,640 as shown Explore Build
-    *   FJ Cruiser $27,680 starting msrp 1 16/20 est. mpg 2 $29,270 as shown Explore Build
-    *   4Runner $32,820 starting msrp 1 17/22 est. mpg 2 $35,275 as shown Explore Build
-    *   Sequoia $44,095 starting msrp 1 13/18 est. mpg 2 $53,055 as shown Explore Build
-    *   Land Cruiser $79,605 starting msrp 1 13/18 est. mpg 2 $80,000 as shown Explore Build
-4.  Hybrids &. EVs
-    *   Camry Hybrid $26,330 starting msrp 1 43/39 est. mpg 2 $28,625 as shown Explore Build
-    *   Avalon Hybrid $35,555 starting msrp 1 40/39 est. mpg 2 $41,400 as shown Explore Build
-    *   RAV4 EV $49,800 starting msrp 1 103/76 EPA-rated  
-        driving range 3 /  
-        mpge 4 $50,295  
-        as shown Explore
-    *   Highlander Hybrid $47,300 starting msrp 1 27/28 est. mpg 2 Explore Build
-    *   Prius $24,200 starting msrp 1 51/48 est. mpg 2 $35,710 as shown Explore Build
-    *   Prius _c_ $19,080 starting msrp 1 53/46 est. mpg 2 $24,210 as shown Explore Build
-    *   Prius Plug-in $29,990 starting msrp 1 95/50 est. mpge 5 /  
-        est. hybrid  
-        mode mpg 6 $34,905  
-        as shown Explore Build
-    *   Prius _v_ $26,750 starting msrp 1 44/40 est. mpg 2 $36,045 as shown Explore Build
-5.  Upcoming Vehicles
-    *   2015 TRD ProOff Road Vehicles View More Info
-    *   2015 Camry View More Info
-    *   Toyota Fuel Cell Vehicle Arriving in 2015 View More Info
-    *   Concept Vehicles See Vehicles
+*   Cars &. Minivan
+*   Trucks
+*   Crossovers &. SUVs
+*   Hybrids &. EVs
+*   Upcoming Vehicles
 
-Please enable JavaScript to get the full experience.
+*   $16,540 as shown 2014 Yaris $14,430 msrp1 30/37 est. mpg2 Build your own
+*   $19,000 as shown 2014 Corolla $16,800 msrp1 28/37 est. mpg2 Build your own
+*   $27,850 as shown 2014.5 Camry $22,425 msrp1 25/35 est. mpg2 Build your own
+*   $39,650 as shown 2014 Avalon $31,340 msrp1 21/31 est. mpg2 Build your own
+*   $33,860 as shown 2014 Sienna $26,920 msrp1 18/25 est. mpg2 Build your own
 
-View All Vehicles Shopping Tools
+*   $31,720 as shown 2014 Tacoma $18,125 msrp1 21/25 est. mpg2 Build your own
+*   $39,125 as shown 2014 Tundra $26,200 msrp1 16/20 est. mpg2 Build your own
+
+*   $28,320 as shown 2014 RAV4 $23,550 msrp1 24/31 est. mpg2 Build your own
+*   $39,790 as shown 2014 Venza $27,950 msrp1 20/26 est. mpg2 Build your own
+*   $39,640 as shown 2014 Highlander $29,215 msrp1 20/25 est. mpg2 Build your own
+*   $29,270 as shown 2014 FJ Cruiser $27,680 msrp1 16/20 est. mpg2 Build your own
+*   $35,275 as shown 2014 4Runner $32,820 msrp1 17/22 est. mpg2 Build your own
+*   $53,055 as shown 2014 Sequoia $44,095 msrp1 13/17 est. mpg2 Build your own
+*   $80,000 as shown 2014 Land Cruiser $79,605 msrp1 13/18 est. mpg2 Build your own
+
+*   $28,625 as shown 2014.5 Camry Hybrid $26,330 msrp1 43/39 est. mpg2 Build your own
+*   $41,400 as shown 2014 Avalon Hybrid $35,555 msrp1 40/39 est. mpg2 Build your own
+*   $50,295 as shown 2014 RAV4 EV $49,800 msrp1 76/103 mpge4/ EPA-estimated driving range3
+*   $47,300 as shown 2014 Highlander Hybrid $47,300 msrp1 27/28 est. mpg2 Build your own
+*   $35,710 as shown 2014 Prius $24,200 msrp1 51/48 est. mpg2 Build your own
+*   $24,210 as shown 2014 Prius _c_ $19,080 msrp1 53/46 est. mpg2 Build your own
+*   $34,905 as shown 2014 Prius Plug-in $29,990 msrp1 90/50 est. mpge5/est. hybrid mode mpg6 Build your own
+*   $36,045 as shown 2014 Prius _v_ $26,750 msrp1 44/40 est. mpg2 Build your own
+
+*   2015 TRD Pro Off-Road Vehicles View More Info
+*   2015 Camry View More Info
+*   2015 Toyota FuelCell Vehicle View More Info
+*   Concept Vehicles See Vehicles
+
+View All Vehicles
 
 *   Explore
 *   Build and Price
@@ -332,57 +329,57 @@ Toyota Customer Relations - Mailstop WC 11
 Torrance, CA 90501
 
 1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $810 for Cars, $860 for Small/Medium Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), and $995 for Large Trucks (Land Cruiser, Tundra and Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
-2.  2013 EPA-estimated mileage. Actual mileage will vary.  
-        2014 EPA-estimated mileage. Actual mileage will vary.
-3.  EPA-estimated driving range when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
+2.  2014 EPA-estimated mileage. Actual mileage will vary.
+3.  EPA-estimated driving range 103 miles when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
 4.  2014 EPA-estimated mpg equivalent. Actual mpge will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions. Battery capacity will decrease with time and use. For more information on mpge and range, please see www.fueleconomy.gov.
-5.  2013 EPA combined estimated miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
-6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg. Actual mileage will vary.
+5.  2014 EPA-estimated combined miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
+6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg estimates. Actual mileage will vary.
+
+Go
+
+Get the latest toyota news Shopping Tools
+
+*   Build Your Toyota
+*   Search Inventory
+*   Find a Dealer
+*   Local Specials
+*   Accessories
+*   Find Your Match
+*   Notebook
 
 Vehicles
 
-*   All Vehicles
-*   Search Inventory
-*   Cars
-*   Trucks
+*   All Toyota Vehicles
 *   SUVs
+*   Trucks
+*   Cars
 *   Crossovers
-*   Hybrids &. EV
+*   Hybrids &. EVs
 *   Hybrid Cars
 *   Hybrid SUVs
-*   Certified Used
-*   Toyota Rent a Car
-*   Toyota Mobility
-*   Find Your Match
 *   Upcoming Vehicles
 *   Concept Vehicles
 
-Resources
+Tools
 
-*   Dealers
-*   Financial Tools
-*   Phone Compatibility &. Pairing
+*   Toyota Financial Services
+*   Toyota Rent A Car
+*   Mobile Phone compatibility
+*   Toyota Mobility Feature
 *   Entune™
-*   Accessories
+*   Car Tips &. Advice
+
+Help
+
 *   Contact Us
 *   FAQs
-*   Car Tips &. Advice
 
 About Toyota
 
+*   Careers
 *   Our Company
 *   Toyota USA Newsroom
-*   Careers
 *   Toyota Worldwide
-*   Toyota Financial Services
 *   Toyota Racing
 
-Toyota Social
-
-*   Facebook
-*   Twitter
-*   Youtube
-*   Google+
-*   Instagram
-
-Search   RSS Sign Up For Updates English Español \[#\] View All Disclosures ©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   Privacy Policy Legal Terms Site Map AdChoices
+Language Español Privacy Policy Legal Terms Site Map AdChoices ©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   \[#\] View All Disclosures
