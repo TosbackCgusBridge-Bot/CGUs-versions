@@ -127,7 +127,7 @@ Yes, cookies are used on Care2 in sevaral ways.
 
 (1) We use cookies to be reminded of whom you are and to access your account information (stored on our computers) to deliver a better and more personalized service to you.
 
-(2) The use of cookies by our \[partners, affiliates, tracking utility company, service providers\] and advertising networks serving ads onto Care2 may also use cookies. Care2 has no control over information collected by advertising networks nor can we access this information.
+(2) The use of cookies by our partners, affiliates, tracking utility company, service providers and advertising networks serving ads onto Care2 may also use cookies. Care2 has no control over information collected by advertising networks nor can we access this information.
 
 (3) We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
 
