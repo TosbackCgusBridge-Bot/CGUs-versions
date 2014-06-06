@@ -1,7 +1,177 @@
+MENU
+
 *   Owner's Resources
 *   Certified Pre-Owned
 
-My Lexus Owner Benefits Pay My Bill Lexus Enform® Scheduled Maintenance Knowledge Center/Guide Lexus Magazine Lexus Navigation Vehicle Search CPO Overview Vehicle Library SEDANS SUVS CONVERTIBLES HYBRIDS PERFORMANCE FUTURE All VEHICLES \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • • \[\*\] • • \[\*\] • • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • \[\*\] • \[†\] • Originally $375,000 \[\*\] • All 500 units sold • 552 hp \[†\] • F Vehicles • F SPORT Vehicles • F SPORT Accessories Concept Vehicle  Coming Soon  Coming Soon  Coming Soon Shopping Tools Build Your Lexus Find a Dealer Financial Services Explore financing and apply for credit Accessories Genuine accessories and F Sport™ accessories Special Offers Find special financing offers in your area Sign Up Receive exclusive news and more
+My Lexus
+
+Owner Benefits
+
+Pay My Bill
+
+Lexus Enform®
+
+Scheduled Maintenance
+
+Knowledge Center/Guide
+
+Lexus Magazine
+
+Lexus Navigation
+
+Vehicle Search
+
+CPO Overview
+
+Vehicle Library
+
+Financial Services Explore financing and apply for credit Accessories Genuine accessories and F Sport™ accessories Special Offers Find special financing offers in your area Sign Up Receive exclusive news and more
+
+*   ALL VEHICLES
+    
+*   Find a dealer
+    
+*   Owner's resources
+    
+
+*   Sedans
+*   SUVs
+*   Convertibles
+*   Hybrids
+*   F Performance
+*   Future
+*   All Vehicles
+
+*   Shopping Tools
+*   Build Your Lexus
+*   Find a Dealer
+
+IS
+
+Starting at $36,100\*
+
+*   • 19/27 City/Hwy MPG
+*   • RWD or AWD
+
+ES
+
+Starting at $36,620\*
+
+*   • 21/31 City/Hwy MPG
+*   • FWD
+
+GS
+
+Starting at $47,700\*
+
+*   • 19/29 City/Hwy MPG
+*   • RWD or AWD
+
+LS
+
+Starting at $72,140\*
+
+*   • 16/24 City/Hwy MPG
+*   • RWD or AWD
+
+RX
+
+Starting at $40,795\*
+
+*   • 3.5-liter V6
+*   • FWD or AWD
+
+GX
+
+Starting at $49,085\*
+
+*   • 4.6-liter V8
+*   • FULL-TIME 4WD
+
+LX
+
+Starting at $82,630\*
+
+*   • 5.7-liter V8
+*   • Full-Time 4WD
+
+IS C
+
+Starting at $42,860\*
+
+*   • 19/27 City/Hwy MPG
+*   • RWD
+
+CT HYBRID
+
+Starting at $32,050\*
+
+*   • 43/40 City/Hwy MPG
+*   • FWD
+
+RX HYBRID
+
+Starting at $47,445\*
+
+*   • 32/28 City/Hwy MPG
+*   • FWD or AWD
+
+ES HYBRID
+
+Starting at $39,500\*
+
+*   • 40/39 City/Hwy MPG
+*   • FWD
+
+GS HYBRID
+
+Starting at $60,430\*
+
+*   • 29/34 City/Hwy MPG
+*   • RWD
+
+LS HYBRID
+
+Starting at $120,060\*
+
+*   • 19/23 City/Hwy MPG
+*   • AWD
+
+ISF
+
+Starting at $63,600\*
+
+*   • 416 hp
+*   • RWD
+
+LFA
+
+Originally $375,000\*
+
+*   • All 500 units sold
+*   • 552 hp
+
+F/F Sport
+
+*   • F Vehicles
+*   • F SPORT Vehicles
+*   • F SPORT Accessories
+
+LF-LC
+
+Concept Vehicle
+
+NX
+
+Coming Soon
+
+RC
+
+Coming Soon
+
+RC F
+
+Coming Soon
 
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
@@ -46,15 +216,52 @@ To contact us with a question, call us at
 To read more about contact information  
 **click here**.
 
-*   Facebook
-*   Twitter
-*   You Tube
-*   Goolge Plus
-*   Instagram
+Information
 
-Mobile About Lexus Contact Lexus Careers Your Privacy Rights Legal Terms AdChoices Lexus Enform® Mobile Lexus Mobile Info Corporate Information Press Release Owner Benefits Lexus International About This Site Sign Up for News Contact Information Knowledge Center Recall Information
+*   About
+*   Contact
+*   Careers
+*   Your Privacy Rights
+*   Legal Terms
+*   Recall Information
 
-Vehicle(s) shown may feature optional equipment.
+Shopping Tools
+
+*   Special Offers
+*   Accessories
+*   Financial Services
+
+Services
+
+*   Warranty &. Protection
+*   Service &. Maintenance
+*   Owner's Resources
+
+Additional Sites
+
+*   Certified Pre-Owned
+*   Luxury Awaits
+*   Vida Lexus
+*   L Studio
+*   Lexus collections
+
+*   Find Us On Facebook
+*   Follow Us On Twitter
+*   Watch Us On Youtube
+*   Follow Us On Instagram
+*   Follow Us On Google+
+*   Follow Us On Google+
+
+*   Request a Printed Brochure
+*   Sign Up For Information
+
+*   Ad Choices
+
+*   Privacy Rights
+*   Legal Terms
+*   Recall Info
+
+Sign up for Lexus News
 
 MSRP does not include delivery, processing and handling fee of $910. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
