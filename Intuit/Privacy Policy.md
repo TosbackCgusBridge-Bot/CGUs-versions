@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l2-com-0302 TIME :->. Wed Jun 04 12:14:31 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l2-com-82401 TIME :->. Thu Jun 05 05:30:29 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,56 +43,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+Super Saturday Sale
+
+Starts now! In store and online.
+
+Beat the heat with easy, breezy styles that fit your family—and your wallet.
+
+shop the sale view store ad
+
+Ends Saturday, June 7.
+
+In Store Only
+
+$10 Off\* $25 or more.
+
+print couponOnline Only
+
+$30 Off\* $100 or more, or $10 Off\* $50 or more.
+
+Code: FUNSAVE
+
 In Store and Online
-
-Ends June 4.
-
-Online Code: SPGSALE
-
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
-
-Or,Extra 15% Off\* with any other method of payment.
-
-Original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon
+Online Code: SHOPNFUN
 
-*   Love DAD Sale
-    
-    Summer savings for the whole family—plus all the coolest gifts for dad.
-    
-    shop the sale view store ad$9.99 St. John's Bay Pique Polo shop men's St. John's Bay
-*   Home Sale
-    
-    30-50% Off Home
-    
-    Select items.
-    
-    In store and online. Ends June 15.
-    
-    shop the home sale shop small appliances
+\*See exclusions and details. print couponHome Sale
 
-Father's Day Is Sunday, June 15
+Select items.
+
+In store and online. Ends June 15.
+
+shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture40-60% Off Luggage shop luggage40-50% Off Window shop window shop recliners Father's Day is Sunday, June 15.
 
 Gifts that fit his style, prices that'll make your father proud.
 
-Order by June 8 to get it before Father's Day.
+Standard shipping: Order by June 8 to get it by Father's Day.
 
-shop Father's Day gifts 40-50% Off Select Men's Golf Apparel shop men's golf apparel Jewelry Spectacular Sale 45-65% Off Select Fine Jewelry shop fine jewelry $45-$50 Men's Nike Athletic Shoes
+shop Father's Day gifts 40-50% Off Select Styles From The Foundry Supply Co. shop the Foundry Sale $59.99 Select Men's Dockers Shoes shop Dockers shoes 40% Off Select Dress Shirts shop men's dress shirts 30-50% Off Select Women's JCP shop women's JCP 25% Off Select Bras When You Buy 2 Or More shop bras 30-50% Off Select Bedding shop bedding JCP Rewards
 
-Excluded from offer.
+Shop to earn $10 JCP Rewards.
 
-shop men's Nike athletic shoes 40% Off Select Dress Shirts shop dress shirts 40-60% Off Luggage Sale
-
-Save on select styles.
-
-shop luggage 30-50% Off Select Cutlery shop cutlery JCP Rewards
-
-Join now and get 50 bonus points.\*
-
-\*Get details and sign up today.Gift Cards
+sign up todayGift Cards
 
 Always fits, never expires.
 
