@@ -24,7 +24,7 @@ Quickly find your recently played games: we'll add the last 6 games you played t
     *   Awards
     *   High scores
     *   Mobile &. Tablet Games
-    *   LEGO Star Wars
+    *   World Cup Soccer Games
 
 *   Home
 
