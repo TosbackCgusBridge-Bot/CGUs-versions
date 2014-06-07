@@ -315,6 +315,7 @@ Lenovo United States Select a country/region
         *   C Series: Powerful &. Compact
         *   D Series: Extreme Speed, Dual CPU
         *   E Series: Desktop Pricing, Workstation Performance
+        *   P Series: Entry-Level Power &. Stability
         *   S Series: High-Performance, Powerful Graphics
     *   ThinkPad Mobile Workstations The Ultimate Mobile Workstation
         *   W Series: Portable Workstations
