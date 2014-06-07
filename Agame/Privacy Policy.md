@@ -1,4 +1,6 @@
-Your zone to play free online games Join or Login Favorites? You don't have any yet
+Your zone to play free online games
+
+Join or Login Favorites? You don't have any yet
 
 Click the hearts button on a game page to make it a favorite.
 
