@@ -16,7 +16,6 @@ Not from the U.S.? Click here to go to our international version Close  CNN
 
 *   Home
 *   Video
-*   CNN Trends
 *   U.S.
 *   World
 *   Politics
