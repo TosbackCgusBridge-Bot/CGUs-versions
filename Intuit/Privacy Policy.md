@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l2-com-82401 TIME :->. Thu Jun 05 05:30:29 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena711 SERVER NAME :->. prod-l1-com-71102 TIME :->. Fri Jun 06 07:03:22 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,19 +45,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 Super Saturday Sale
 
-Starts now! In store and online.
+In store and online.
 
 Beat the heat with easy, breezy styles that fit your family—and your wallet.
 
 shop the sale view store ad
 
-Ends Saturday, June 7.
+Last Days! Ends June 7.
 
 In Store Only
 
 $10 Off\* $25 or more.
 
-print couponOnline Only
+print coupon Online Only
 
 $30 Off\* $100 or more, or $10 Off\* $50 or more.
 
@@ -69,27 +69,41 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 Online Code: SHOPNFUN
 
-\*See exclusions and details. print couponHome Sale
+\*See exclusions and details. print coupon Night and Day Doorbusters
+
+Excluded from coupon offer.
+
+In store only. Friday, June 6, 3PM until close, Saturday, June 7, 10AM until 1PM.
+
+view doorbusters store ad Home Sale
 
 Select items.
 
 In store and online. Ends June 15.
 
-shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture40-60% Off Luggage shop luggage40-50% Off Window shop window shop recliners Father's Day is Sunday, June 15.
+shop the home sale 30-50% Off Kitchen and Dining shop kitchen and dining 40-50% Off Furniture shop furniture 40-60% Off Luggage shop luggage 40-50% Off Window shop window shop recliners $34.99 Dockers Signature Pants
 
-Gifts that fit his style, prices that'll make your father proud.
+Lowest price of the season!
 
-Standard shipping: Order by June 8 to get it by Father's Day.
+shop Dockers pants $25 Select Men's Nike Sandals
 
-shop Father's Day gifts 40-50% Off Select Styles From The Foundry Supply Co. shop the Foundry Sale $59.99 Select Men's Dockers Shoes shop Dockers shoes 40% Off Select Dress Shirts shop men's dress shirts 30-50% Off Select Women's JCP shop women's JCP 25% Off Select Bras When You Buy 2 Or More shop bras 30-50% Off Select Bedding shop bedding JCP Rewards
+Excluded from offer.
 
-Shop to earn $10 JCP Rewards.
+shop men's Nike sandals 20-40% Off Select Watches shop watches 30-50% Off Select Bedding shop bedding 30-50% Off Select Women's JCP shop women's JCP 40% Off Select Dress Shirts shop dress shirts JCP Rewards
 
-sign up todayGift Cards
+Join now and get 50 bonus points\*
+
+\*get details and sign up today Gift Cards
 
 Always fits, never expires.
 
-shop gift cardsTacky Tie Bribes get detailsRed Zone Clearance Selections shop clearance
+shop gift cards Love DAD
+
+Father's Day is Sunday, June 15
+
+Order by June 8 to get it before Father's Day
+
+shop Father's Day gifts Red Zone Clearance Selections shop clearance
 
 get connected
 
