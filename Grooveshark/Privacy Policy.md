@@ -6,7 +6,7 @@ Overview
 
 Grooveshark is a service provided by Escape Media Group, Inc. and its subsidiaries ("EMG", "we", "us" or "our"). EMG has established a comprehensive Privacy Policy (the "Policy") which is designed to help protect your privacy rights. By using grooveshark.com, and its associated subdomains, including but not limited to, widgets.grooveshark.com, beluga.grooveshark.com and listen.grooveshark.com (collectively, the "Site"), you, the User, agree to the terms of the Policy. The Policy in its entirety can be found below. To make it easier to digest our Policy, the following bullet points provide an overview of our Policy and the significant control you have over how your data is shared:
 
-*   You may control the collection of information associated with you by going to http://www.networkadvertising.org/managing/opt\_out.asp or emailing support@grooveshark.com
+*   You may control the collection of information associated with you by going to http://www.networkadvertising.org/managing/opt\_out.asp or emailing \[email protected\]
 *   We do not sell your Personally Identifiable Information and Protected Private Information to third parties.
 *   We have secure systems in place to protect your sensitive Private Information, however no data transmission over the Internet can be guaranteed to be 100% secure, thus we cannot and do not warrant that any information is safe or secure from exposure to third parties.
 *   If you have any inquiries, complaints, or concerns about the collection, protection and dissemination of your data, please consult section XIV (Contact) to find our contact information.
@@ -21,7 +21,7 @@ If you find any part of the Policy unacceptable, please discontinue your use of 
 
 TRUSTe Privacy Seal
 
-EMG has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices set forth herein have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.grooveshark.com and does not cover information that may be collected through downloadable software or that you voluntarily provide to third-parties through the Site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Policy or practices, please contact us at support@grooveshark.com. If you are not satisfied with our response you can contact TRUSTe here.
+EMG has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices set forth herein have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.grooveshark.com and does not cover information that may be collected through downloadable software or that you voluntarily provide to third-parties through the Site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Policy or practices, please contact us at \[email protected\]. If you are not satisfied with our response you can contact TRUSTe here.
 
 I. Key Terms
 
@@ -44,7 +44,7 @@ II. Information we collect:
 *   **Personally Identifiable Information.** EMG collects and stores Personally Identifiable Information. This information is needed to enable certain features the Service provides, and is stored for as long as you have an account, and as necessary to fulfill our legal obligations, resolve disputes, or enforce our agreements. Personally Identifiable Information, such as a User's email address, address of residence, or phone number, will not be shared with any third party without consent from the User unless otherwise stated in this Policy or the Terms of Service.
 *   **Surveys/Sweepstakes.** You may choose to answer surveys or enter sweepstakes posed through grooveshark.com by EMG and/or a third party. These third parties may obtain personal information that you voluntarily submit to them. This policy does not cover survey responses you voluntarily provide to any third party and/or survey, and EMG is not responsible for the collection and use of your personal information by these third parties. Survey responses you provide to EMG may be published, transferred, sold or licensed to third parties. however, no Personally Identifiable Information will be included with the survey responses except for that Personally Identifiable Information you provide as a survey response.
 *   **IP Address Information.** When you use the Service, the IP Address of the computer or network device making the request is stored. IP address information is stored for as long as necessary to enforce our agreements, resolve disputes, operate our business and fulfill our legal obligations. This may be done without any notification to the User.
-*   **Data Retention.** Except as provided herein, we will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account contact us at support@grooveshark.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+*   **Data Retention.** Except as provided herein, we will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account contact us at \[email protected\]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 III. How we use the information we collect:
 
@@ -62,10 +62,10 @@ III. How we use the information we collect:
 IV. Information you share:
 
 *   **Voluntary Disclosure.** You should be aware that if you voluntarily disclose any information, including Personally Identifiable Information, on openly viewable parts of the Service, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of EMG and this Policy.
-*   **Access to your Personal Information.** If your personal information changes you may update it or delete as necessary by visiting the profile settings page here. If you no longer desire to use our Service, you may deactivate your account by emailing us at support@grooveshark.com.
+*   **Access to your Personal Information.** If your personal information changes you may update it or delete as necessary by visiting the profile settings page here. If you no longer desire to use our Service, you may deactivate your account by emailing us at \[email protected\].
 *   **Newsletters.** If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in such emails or by updating your preferences within your profile settings here.
 *   **Connect.** You can login to our Site using sign-in services such as Google, Twitter, Last.FM and Flattr. These services will authenticate your identity and provide you the option to share certain personal information to pre-populate our signup form, including without limitation, your name, gender, birth date, country, language, time zone and email address. Services like Google and Twitter give you the option to post information about your activities on this Site to your profile page to share with others within your network.
-*   **Tell-A-Friend.** You may choose to use our referral service to tell a friend about our Site by providing us with your friend's name and contact information, at which point we may send your friend an invitation to visit the Site. EMG may store this information for the purpose of sending this invitation and tracking the success of our referral program, but we will not share your friend's information with third parties unless otherwise required by law or this Privacy Policy. Your friend may contact us at support@grooveshark.com to request that we remove this information from our database.
+*   **Tell-A-Friend.** You may choose to use our referral service to tell a friend about our Site by providing us with your friend's name and contact information, at which point we may send your friend an invitation to visit the Site. EMG may store this information for the purpose of sending this invitation and tracking the success of our referral program, but we will not share your friend's information with third parties unless otherwise required by law or this Privacy Policy. Your friend may contact us at \[email protected\] to request that we remove this information from our database.
 
 V. How we share information we collect:
 
@@ -98,7 +98,7 @@ VII. Data Security
 
 VIII. Minors:
 
-*   EMG does not knowingly collect or solicit Personally Identifiable Information from or about children under age 13, and children under the age of 13 may not utilize any services provided by EMG except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Policy, we will take necessary steps to remove that information immediately. If you believe EMG has any information from or about anyone under 13, please contact us at support@grooveshark.com.
+*   EMG does not knowingly collect or solicit Personally Identifiable Information from or about children under age 13, and children under the age of 13 may not utilize any services provided by EMG except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Policy, we will take necessary steps to remove that information immediately. If you believe EMG has any information from or about anyone under 13, please contact us at \[email protected\].
 
 IX. Forum Selection and Choice of Law:
 
@@ -118,11 +118,11 @@ XII. Consent to processing:
 
 XIII. Your California privacy rights:
 
-*   California Civil Code Section 1798.83 permits Users who are California residents to request and obtain from us once a year a list of the third parties to whom we disclosed their personal information (if any) for direct marketing purposes in the preceding calendar year and the categories of personal information disclosed to those third parties. If you wish to make such a request or have any questions about EMG's information sharing practices, you may contact us by sending us an email to support@grooveshark.com or write to us the address listed below.
+*   California Civil Code Section 1798.83 permits Users who are California residents to request and obtain from us once a year a list of the third parties to whom we disclosed their personal information (if any) for direct marketing purposes in the preceding calendar year and the categories of personal information disclosed to those third parties. If you wish to make such a request or have any questions about EMG's information sharing practices, you may contact us by sending us an email to \[email protected\] or write to us the address listed below.
 
 XIV. Contact:
 
-*   If you have any inquiries, complaints, or concerns about this Privacy Policy or the use of the Service, please email us at support@grooveshark.com. Inquiries can also be sent to our mailing address at:  
+*   If you have any inquiries, complaints, or concerns about this Privacy Policy or the use of the Service, please email us at \[email protected\]. Inquiries can also be sent to our mailing address at:  
       
     *   Escape Media Group, Inc. (Grooveshark)  
         201 SE 2nd Ave., Suite 201  
