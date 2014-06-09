@@ -93,14 +93,6 @@ Just enter promo code: **SHIPFREE** at checkout
 
 Click here for additional shipping and tax information.
 
-$10 USD Shipping to Russia on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
-
-\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Monday, June 2nd, 2014 at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
 Shop Duty-Free and Enjoy Free Express Shipping\*
 
 Just enter promo code: **DUTYFREE** at checkout
@@ -111,10 +103,26 @@ Just enter promo code: **DUTYFREE** at checkout
 
 Click here for additional shipping and tax information.
 
+$10 USD Shipping to Russia on orders over $100 USD\*
+
+Just enter promo code: **ROW14** at checkout
+
+\* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Monday, June 2nd, 2014 at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
+
+Click here for additional shipping and tax information.
+
 FREE Express Shipping on all orders\*  
 Plus, No Code Needed
 
 \* Free Express Shipping offer is valid through Sunday, June 1st, 2014, at 11:59pm(ET). No promo code needed at checkout. Valid only on shipments to Hong Kong, Japan, Singapore or United Kingdom addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
+
+Click here for additional shipping and tax information.
+
+$20 USD Express Shipping to Select Countries on orders over $100 USD\*
+
+Just enter promo code: **ROW14** at checkout
+
+\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Monday, June 2nd, 2014 at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14. Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 Click here for additional shipping and tax information.
 
@@ -123,14 +131,6 @@ $10 USD Standard or $20 USD Express Shipping to Select Countries on orders over 
 Just enter promo code: **ROW14** at checkout
 
 \* $10 USD Standard Shipping offer is valid with orders of $100 USD and more through Monday, June 2nd, 2014 at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-\* $20 USD Express shipping offer is valid with orders of $100 USD and more through Monday, June 2nd, 2014 at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14. Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-$20 USD Express Shipping to Select Countries on orders over $100 USD\*
-
-Just enter promo code: **ROW14** at checkout
 
 \* $20 USD Express shipping offer is valid with orders of $100 USD and more through Monday, June 2nd, 2014 at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Express shipping and enter promotional code: ROW14. Express shipping offer valid only on orders to any international address to which Saks.com currently ships. Not valid on US shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
@@ -168,16 +168,16 @@ Use Code **FREESHIP**
    
 Click here for additional shipping and tax information.
 
-Online Now. In Stores 5/8-5/9 Details
-
-\*\*For approved purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. For approved purchases over $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. Select designers and leased department exclusions apply. SaksFirst offer valid in Saks Fifth Avenue stores from 05/08/14 through 05/09/14 and on saks.com from 05/04/14 at 12:01 am (ET) through 05/09/14 at 11:59 pm (ET).  
-MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
-
 \*Free Shipping offer valid with any purchase. Limit of five promo codes per order. Offer valid at saks.com only. To redeem, select standard shipping and enter promotional code: FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments.  For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
 
 Click here for additional shipping and tax information.
 
-  FREE RUSH SHIPPING\* on any purchase
+  Online Now. In Stores 5/8-5/9 Details
+
+\*\*For approved purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. For approved purchases over $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. Select designers and leased department exclusions apply. SaksFirst offer valid in Saks Fifth Avenue stores from 05/08/14 through 05/09/14 and on saks.com from 05/04/14 at 12:01 am (ET) through 05/09/14 at 11:59 pm (ET).  
+MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
+
+FREE RUSH SHIPPING\* on any purchase
 
 Now through Wednesday, May 7, 2014 at 6 PM (ET)  
   
@@ -227,12 +227,12 @@ Plus, No Code Needed
 
 Click here for additional shipping and tax information.
 
+For approved beauty and/or fragrances purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com. During this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. for approved beauty and/or fragrances purchases over $2500 made with the SaksFirst credit card or SaksFirst mastercard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. SaksFirst offer valid in Saks Fifth Avenue stores from 5/29/14 through 6/7/14 and on saks.com from 5/27/14 at 12:01 am (ET) through 6/9/14 at 11:59 pm (ET).  
+MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
+
 \*We have taken 30-40% off original prices. Selected merchandise and vendors only. No adjustments to prior purchases. Sale prices at saks.com already reflect reductions. Sale prices of select saks.com merchandise may differ from Saks Fifth Avenue store prices. Returns on sale merchandise must be made within 30 days of purchase.
 
 \*\*For approved purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. For approved purchases over $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. Select designers and leased department exclusions apply. SaksFirst offer valid in Saks Fifth Avenue stores from 05/29/14 through 05/31/14 and on saks.com from 05/26/14 at 12:01 am (ET) through 05/31/14 at 11:59 pm (ET).  
-MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
-
-For approved beauty and/or fragrances purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com. During this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. for approved beauty and/or fragrances purchases over $2500 made with the SaksFirst credit card or SaksFirst mastercard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. SaksFirst offer valid in Saks Fifth Avenue stores from 5/29/14 through 6/7/14 and on saks.com from 5/27/14 at 12:01 am (ET) through 6/9/14 at 11:59 pm (ET).  
 MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
 
 Online Now. In Stores 5/29-5/31 Details
@@ -292,14 +292,6 @@ Online &. In Stores Through 6/7
 For approved beauty and/or fragrances purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com. During this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. For approved beauty and/or fragrances purchases over $2500 made with the SaksFirst credit card or SaksFirst mastercard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. SaksFirst offer valid in Saks Fifth Avenue stores from 5/29/14 through 6/7/14 and on saks.com from 5/27/14 at 12:01 am (ET) through 6/9/14 at 11:59 pm (ET).  
 MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
 
-Free Express Shipping on orders of AUD $100 or more\*
-
-Just enter promo code: **SHIPFREE** at checkout
-
-\* Free Express Shipping offer for Australia is valid with orders of AUD $100 and more through Monday July 7th, 2014, at 11:59pm(ET). To redeem offer, enter promotional code: SHIPFREE. Valid only on shipments to Australia addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
 Shop Duty-Free and Enjoy Free Express Shipping\*
 
 No Code Necessary
@@ -310,6 +302,14 @@ No Code Necessary
 
 Click here for additional shipping and tax information.
 
+Free Express Shipping on orders of AUD $100 or more\*
+
+Just enter promo code: **SHIPFREE** at checkout
+
+\* Free Express Shipping offer for Australia is valid with orders of AUD $100 and more through Monday July 7th, 2014, at 11:59pm(ET). To redeem offer, enter promotional code: SHIPFREE. Valid only on shipments to Australia addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
+
+Click here for additional shipping and tax information.
+
 Shop Duty-Free and Enjoy Free Express Shipping\*
 
 Just enter promo code: **DUTYFREE** at checkout
@@ -317,6 +317,13 @@ Just enter promo code: **DUTYFREE** at checkout
 \* Duty-free offer is valid on orders of USD $100 or more through Monday July 7th, 2014, at 11:59pm(ET). To redeem offer, enter promotional code: DUTYFREE. Valid only on shipments to Canada addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 \* Free Express Shipping offer is valid on all orders of USD $100 shipping  to Canada addresses through Monday July 7th, 2014 at 11:59pm(ET). No promo code needed at checkout. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
+
+Click here for additional shipping and tax information.
+
+FREE Express Shipping on orders of $100 USD or more\*  
+Plus, No Code Needed
+
+\* Free Express Shipping offer is valid through Monday July 7th, 2014, at 11:59pm(ET) on all orders of $100 or more. No promo code needed at checkout. Valid only on shipments to Hong Kong or Singapore addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 Click here for additional shipping and tax information.
 
@@ -333,13 +340,6 @@ $10 USD Shipping to Russia on orders over $100 USD\*
 Just enter promo code: **ROW14** at checkout
 
 \* $10 USD Standard Shipping offer is valid with orders of  $100 USD and more through Monday, July 7th , 2014  at 11:59pm(ET). Offer valid at Saks.com only. To redeem offer, select Standard shipping and enter promotional code: ROW14. Standard shipping offer valid only on shipments to Bahrain, Egypt, Ireland, Japan, Jordan, Kuwait, New Zealand, Oman, Qatar, Russia, Saudi Arabia, Singapore and United Arab Emirates addresses. Not valid on US or other international shipments. Offer may not be used when shipping to multiple addresses. Not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
-
-Click here for additional shipping and tax information.
-
-FREE Express Shipping on orders of $100 USD or more\*  
-Plus, No Code Needed
-
-\* Free Express Shipping offer is valid through Monday July 7th, 2014, at 11:59pm(ET) on all orders of $100 or more. No promo code needed at checkout. Valid only on shipments to Hong Kong or Singapore addresses. Offer not valid on US shipments. Offer may not be used when shipping to multiple addresses. Valid at Saks.com only. Offer is not valid at Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores or SaksOff5th.com. Not valid on purchases of Gift cards. No adjustments to prior purchases. This offer is non-transferable.
 
 Click here for additional shipping and tax information.
 
