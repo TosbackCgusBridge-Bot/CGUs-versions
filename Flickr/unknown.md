@@ -64,7 +64,7 @@ You and Yahoo! each agree that these Additional Terms and the relationship betwe
 
 1\. ACCEPTANCE OF TERMS
 
-Welcome to Flickr Gift Certificate. By purchasing a Flickr Gift Certificate, you agree to these Gift Purchaser Terms located at http://www.flickr.com/gift\_terms\_purchaser.gne that supplement the Yahoo! Terms of Service ("TOS") located at http://docs.yahoo.com/info/terms/ (and any successor pages), which are incorporated by reference.
+Welcome to Flickr Gift Certificate. By purchasing a Flickr Gift Certificate, you agree to these Gift Purchaser Terms located at http://www.flickr.com/gift\_terms\_purchaser.gne that supplement the Yahoo! Terms of Service ("TOS") located at http://www.flickr.com/utos\_detect.gne (and any successor pages), which are incorporated by reference.
 
 Separate Terms of Service govern the redemption and use of the gift certificate and the use of the product by the recipient, and must be agreed by the recipient of a gift certificate prior to redemption of the gift certificate and use of the product. Those terms are located at http://www.flickr.com/gift\_terms\_redeemer.gne, and any successor page. Flickr reserves the right to update and change, from time to time, these Gift Purchaser Terms and all documents incorporated by reference. You can always find the most recent version of these Gift Purchaser Terms and the most recent version of the Yahoo! Terms of Service at the URLs indicated above.
 
