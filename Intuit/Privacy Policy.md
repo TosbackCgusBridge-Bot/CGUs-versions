@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena834 SERVER NAME :->. prod-l1-com-83401 TIME :->. Sun Jun 08 09:20:56 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l1-com-0302 TIME :->. Mon Jun 09 01:54:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,11 +67,13 @@ shop the sale view store ad $15 Off\* $15
 
 Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store. June 5 through 15.
 
-\*See exclusions and details. Father's Day is Sunday, June 15
+\*See exclusions and details. Father's Day is Sunday, June 15 shop Father's Day gifts
 
-Last day for standard shipping. Order today to get it before Father's Day.
+Get it by Father's Day. $5 express shipping over $99.
 
-shop Father's Day gifts Home Sale
+Select 3 day shipping by 1PM CDT, June 11.
+
+get details Home Sale
 
 Select items.
 
