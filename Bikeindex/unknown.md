@@ -1,12 +1,12 @@
 Terms of Service for Vendors
 
-Last updated June 17th, 2013. Previous versions and the change history is available here.
+Last updated June 9th, 2014. Previous versions and the change history is available here.
 
 About our terms of service for vendors
 
 **Welcome to the Bike Index**, an Illinois Benefit corporation. We developed a publicly-accessible bike registration service (the "Service") that gives you the ability to quickly and easily register bikes for your customers. We believe that such a service will deter bike theft.
 
-By giving bike bike shop employees and bike advocacy organizations (the "Vendors") the ability to add bikes to the service for free we aim to encourage registration and to fight procrastinating. If you have any questions or concerns, or simply want to better understand how we do things at the Bike Index, please do not hesitate to contact us.
+By giving bike shop employees and bike advocacy organizations (the "Vendors") the ability to add bikes to the service for free we aim to encourage registration and to fight procrastinating. If you have any questions or concerns, or simply want to better understand how we do things at the Bike Index, please do not hesitate to contact us.
 
 With the following brief descriptions of the parts of this Agreement, we attempt to explain the important parts of our service. But there are significant details in the whole document that make it worth reading.
 
