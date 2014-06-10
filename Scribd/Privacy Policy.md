@@ -3,6 +3,10 @@
 *   Home
 *   Submit a request
 *   Check your existing requests
+*   English
+    *   Español
+    *   Français
+    *   Português (Brasil)
 
 Search Our Help/General Info/Terms and Policies Privacy policy
 
