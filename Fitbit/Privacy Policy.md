@@ -15,6 +15,8 @@ Fitbit Log in • Get Started
 *   Buzz
 *   Social
     
+    *   Blog
+    
     *   Facebook
     *   Twitter
     *   Pinterest
