@@ -353,6 +353,30 @@ Just enter promo code: **ROW14** at checkout
 
 Click here for additional shipping and tax information.
 
+Standard Shipping Details FREE SHIPPING\* every day, every order
+
+Use Code **FREESHIP**
+
+\*Free Shipping offer valid with any purchase. Limit of five promo codes per order. Offer valid at saks.com only. To redeem, select standard shipping and enter promotional code: FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
+
+Click here for additional shipping and tax information.
+
+Rush Shipping Details FREE RUSH SHIPPING\* on any purchase Now through Wednesday, June 11, 2014 at 6 PM (ET)
+
+Use Code **DADRUSH** at checkout
+
+\*Free Rush Shipping offer valid with any purchase through Wednesday, June 11, 2014 at 6:00 PM (ET). To redeem, select Rush shipping and enter promotional code: DADRUSH. Limit of five promo codes per order. Offer valid for RUSH shipping only. Offer valid at saks.com only. Gift Card purchases, gift wrap, taxes, and shipping cannot be applied towards the qualifying amount. Offer may be used when shipping to multiple addresses. Valid on shipments to U.S. addresses only. Not valid on international shipments. Offer not valid on Standard, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on purchases of Gift Cards. This offer is non-transferable.
+
+Please consult the following chart for ordering deadlines based on shipping methods. All orders must be placed by 6 p.m. (ET) on the dates indicated.
+
+**PLEASE NOTE:** Allow additional time for delivery to Alaska, Hawaii, US Territories, APO/FPO addresses and for items that ship directly from vendors. For delivery information on vendor-shipped items, please consult the item's description page.
+
+**Items Shipped From Store**  
+Merchandise shipping directly from a retail store must be ordered by Wednesday, June 6 at 6 p.m. (ET) for delivery by Father's Day (Sunday, June 15).
+
+FOR DELIVERY BY STANDARD RUSH NEXT BUSINESS DAY SATURDAY **Father's Day  
+(Sunday, June 15)** Friday, June 6 Wednesday, June 11 Thursday, June 12 Friday, June 13
+
 FREE SHIPPING\* every day, every order
 
 Use Code **FREESHIP**
@@ -377,30 +401,6 @@ Please consult the following chart for ordering deadlines based on shipping meth
   
 I**tems Shipped From Store**   
 Merchandise shipping directly from a retail store must be ordered by Wednesday, June 6 at 6 p.m. (ET) for delivery by Father's Day (Sunday, June 15).
-
-Standard Shipping Details FREE SHIPPING\* every day, every order
-
-Use Code **FREESHIP**
-
-\*Free Shipping offer valid with any purchase. Limit of five promo codes per order. Offer valid at saks.com only. To redeem, select standard shipping and enter promotional code: FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
-
-Click here for additional shipping and tax information.
-
-Rush Shipping Details FREE RUSH SHIPPING\* on any purchase Now through Wednesday, June 11, 2014 at 6 PM (ET)
-
-Use Code **DADRUSH** at checkout
-
-\*Free Rush Shipping offer valid with any purchase through Wednesday, June 11, 2014 at 6:00 PM (ET). To redeem, select Rush shipping and enter promotional code: DADRUSH. Limit of five promo codes per order. Offer valid for RUSH shipping only. Offer valid at saks.com only. Gift Card purchases, gift wrap, taxes, and shipping cannot be applied towards the qualifying amount. Offer may be used when shipping to multiple addresses. Valid on shipments to U.S. addresses only. Not valid on international shipments. Offer not valid on Standard, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on purchases of Gift Cards. This offer is non-transferable.
-
-Please consult the following chart for ordering deadlines based on shipping methods. All orders must be placed by 6 p.m. (ET) on the dates indicated.
-
-**PLEASE NOTE:** Allow additional time for delivery to Alaska, Hawaii, US Territories, APO/FPO addresses and for items that ship directly from vendors. For delivery information on vendor-shipped items, please consult the item's description page.
-
-**Items Shipped From Store**  
-Merchandise shipping directly from a retail store must be ordered by Wednesday, June 6 at 6 p.m. (ET) for delivery by Father's Day (Sunday, June 15).
-
-FOR DELIVERY BY STANDARD RUSH NEXT BUSINESS DAY SATURDAY **Father's Day  
-(Sunday, June 15)** Friday, June 6 Wednesday, June 11 Thursday, June 12 Friday, June 13
 
 **24/7 Customer Service:**  1.877.551.7257  •  Email  •  Chat
 
