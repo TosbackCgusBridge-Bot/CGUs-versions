@@ -47,6 +47,7 @@ Legal Notices &. Trademarks
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Education Community Special Terms
 *   Online Purchases Terms and Conditions
+*   Autodesk Web Services API Beta Terms of Service
 
 Privacy Statement - UPDATED MARCH 19, 2013
 
