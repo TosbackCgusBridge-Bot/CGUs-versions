@@ -7,11 +7,11 @@ Table of Contents
 Summary  
 The Information We Collect
 
-*   \>Information We Obtain From You
-*   \>Information About Your Transactions
-*   \>Information From Third Parties
-*   \>Location Services for Mobile Apps
-*   \>Access and Correction of Personal Information
+*   Information We Obtain From You
+*   Information About Your Transactions
+*   Information From Third Parties
+*   Location Services for Mobile Apps
+*   Access and Correction of Personal Information
 
 The Information We Disclose  
 Confidentiality and Security  
@@ -144,5 +144,3 @@ This Privacy Policy applies to all of the following GEICO companies:
 *   GEICO Insurance Agency, Inc.
 
 The Effective Date of the revised Privacy Policy is January 30, 2014.
-
-Print
