@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Continuum - Next Episode - Revolutions Per Mi ... Continuum - Next Episode - Revolutions Per Minute
+Syfy Video Continuum - Sneak Peek - 3 Minutes To Midnigh ... Continuum - Sneak Peek - 3 Minutes To Midnight
 
-Catch the next episode of Continuum, Fridays at 10/9c.
+Check out a sneak peek of the next episode of Continuum, Fridays at 10/9c.
 
-Continuum - Sneak Peek - Revolutions Per Minu ... Continuum - Sneak Peek - Revolutions Per Minute
+Continuum - Next Episode - 3 Minutes to Midni ... Continuum - Next Episode - 3 Minutes to Midnight
 
-Check out the next episode of Continuum, Fridays at 10/9c.
+Catch the next episode of Continuum, Fridays at 10/9c!
 
-The Double Edge Sword The Double Edge Sword
+Good Fences Make Good Neighbors Good Fences Make Good Neighbors
 
-Other Alec got way more than he bargained for when he became the new head of PIRON: like a breach of contract lawsuit from Kellog.
+When the Freelancers start prying into Kiera's personal life, she calls it quits with their mutually beneficial working relationship. The inevitable line in the sand has finally been drawn.
 
-Dial M For Murder Dial M For Murder
+My Daughters Keeper My Daughters Keeper
 
-With tensions running high in the department in the wake of Betty's death, Carlos calls out Dillon for his reluctance to more forward in finding her killer.
+Torn up with guilt from Betty's death, Dillon tasks Kiera with getting his daughter Christine out of harm's way from Liber8.
 
 *   FAQ
 *   Feedback
