@@ -80,7 +80,7 @@ Tealium
 *   Free 30-Day Trial
 
 Tealium IQ Enterprise Tag Management  
-Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server Tealium AudienceStream Digital Data Distribution  
+Pricing• Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server•Get a Demo Tealium AudienceStream Digital Data Distribution  
 The industry's first audience discovery and digital data distribution platform »
 
 *   Solutions by Role
@@ -282,7 +282,7 @@ Ready to Learn More? Request a Demo
 
 See first-hand how Tealium can help you succeed.
 
-Learn More Free Resources
+Request a Demo Free Resources
 
 White papers and other resources to help you succeed.
 
@@ -350,7 +350,9 @@ Australia
 
 About Tealium
 
-Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications. Copyright © 2014 Tealium. All Rights Reserved.
+Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications.
+
+© 2014 Tealium Inc. All rights reserved. Tealium, AudienceStream, and all other Tealium marks contained herein are trademarks or service marks of Tealium. All other marks contained herein are the property of their respective owners.
 
 *   Site Map
 *   Terms of Use
