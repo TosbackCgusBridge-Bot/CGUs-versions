@@ -1,6 +1,6 @@
 Terms of Service
 
-Last updated June 17th, 2013. Previous versions and the change history is available here.
+Last updated June 9th, 2014. Previous versions and the change history is available here.
 
 About our Terms of Service
 
@@ -23,13 +23,11 @@ Section B: Account Terms
     
 2.  You must provide a valid email address in order to complete the signup process.
     
-3.  Your login may only be used by one person - a single login shared by multiple people is not permitted.
+3.  You are responsible for maintaining the security of your account and password. Bike Index cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
     
-4.  You are responsible for maintaining the security of your account and password. Bike Index cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+4.  You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).
     
-5.  You are responsible for all Content posted and activity that occurs under your account (even when Content is posted by others who have accounts under your account).
-    
-6.  You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
+5.  You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
     
 
 Section C: Modifications to the service
@@ -70,6 +68,6 @@ Section E: General Conditions
     
 10.  Bike Index does not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the Service will be corrected.
     
-11.  The failure of Bike Index to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and GitHub and govern your use of the Service, superseding any prior agreements between you and Bike Index (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under Illinois law.
+11.  The failure of Bike Index to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and Bike Index and govern your use of the Service, superseding any prior agreements between you and Bike Index (including, but not limited to, any prior versions of the Terms of Service). You agree that these Terms of Service and Your use of the Service are governed under Illinois law.
     
 12.  Questions about the Terms of Service should be sent to contact@bikeindex.org.
