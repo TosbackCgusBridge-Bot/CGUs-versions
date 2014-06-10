@@ -1,5 +1,7 @@
 Privacy Policy
 
+Last Updated June, 2014
+
 Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at customercare@champssports.com
 
 **Online Privacy Statement**
