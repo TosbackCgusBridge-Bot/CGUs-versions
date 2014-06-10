@@ -17,7 +17,7 @@ Campus Main Menu
 *   Online Certificates
 *   Online Courses
 *   Online Colleges
-*   Local Colleges
+*   Match Me to a College
 *   College Resources
     *   Planning for College
     *   Paying for College
