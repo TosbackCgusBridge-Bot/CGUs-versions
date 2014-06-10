@@ -228,7 +228,6 @@ Lenovo United States Select a country/region
         *   Lenovo A7:7" Wideview Android Tablet
         *   Lenovo A8:8" Wideview Android Tablet
         *   Lenovo A10:10" Wideview Android Tablet
-        *   Lenovo A1000L:7" Affordable Entertainment Tablet
         *   Lenovo S6000: 10.1" Enhanced Multimedia Tablet
     *   Windows TabletsOne Experience For Everything in Your Life
         *   ThinkPad 10:10.1" Tablet with Full PC Experience
