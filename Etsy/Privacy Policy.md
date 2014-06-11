@@ -1,14 +1,66 @@
 Privacy Policy
 
+We love our community at Etsy. You’ve trusted us with a big responsibility, and we’re committed to upholding a high standard when it comes to our privacy practices. It’s important to us that you’re comfortable on Etsy, so we provide options for you to control how much information you share and your communication preferences. We use secure technologies and follow best practices, as evidenced by TRUSTe's Privacy Seal, recognized and trusted by millions of consumers as a sign of responsible privacy practices. We believe in being transparent about our practices, which is why we provide a detailed Privacy Policy to explain how we gather, use and protect your information. We’ve pulled out the highlights here, in an effort to better communicate the key points.  
+  
+By visiting Etsy's website or using Etsy's mobile applications, you are accepting the terms of this Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites. 
+
+Current policy published: June 09, 2014  
+  
+
+Scope
+
+  
+This page highlights key points about the information Etsy collects or receives about you, how it is used, and your choices.  
+  
+**Read Etsy’s full Privacy Policy.**  
+  
+
+Information Collected or Received
+
+  
+Etsy requires a member to provide a valid email address and choose a username connected with your site activity. Depending on the services you choose, additional information may be collected, for example: billing or payment information, a telephone number, and a physical address.  
+  
+You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed.  
+  
+You may connect to Etsy with an external application, in which case Etsy may receive some information from that other service.
+
+We use cookies, clear gifs, log files, and flash cookies for several purposes, including to help understand how people interact with our site and services, in order to provide a better experience. For more information about cookies, see our Cookies &. Tracking Technologies page.
+
+Uses and Sharing
+
+  
+We use the information that we gather from our users in a number of ways, including to provide and improve our services, for targeted online marketing, and to communicate with you. We also partner with service providers and other third parties that collect, use, and analyze information about Etsy users.
+
+Etsy will not sell or disclose your personal information to third parties without your explicit consent, except as specified in our Privacy Policy.
+
+Choices
+
+  
+You may review and change your information in your account settings, and you may remove certain optional pieces of information.  
+  
+You may opt-out of receiving certain types of communications from Etsy in your account settings. And although Etsy does not currently respond to “do not track” browser headers, you may control online behavioral ads by opting out through this link: http://www.aboutads.info/choices/.You also may limit certain tracking by disabling cookies in your web browser.
+
+Important Information
+
+  
+Etsy has been awarded TRUSTe's Privacy Seal. If you have questions or concerns regarding our privacy policy or practices, please contact us at legal@etsy.com. If you are not satisfied with our response, you can contact TRUSTe.
+
+We’ll communicate when we make changes to our Privacy Policy, and we’ll update the revision date above.
+
+Contact Us
+
+You can email us about the Privacy Policy at legal@etsy.com.
+
+**Privacy Policy**
+
 At Etsy, we value our community. You trust us with your information, and we’re serious about that responsibility. We believe in transparency, and we’re committed to being upfront about our privacy practices, including how we treat personal information we collect or receive. We know you care about your privacy, too, so we provide settings that allow you to control how certain information is used on Etsy. This policy explains our privacy practices for Etsy.com (the “Site”), Etsy’s mobile applications (the “Apps”) and services provided by Etsy, Inc. or Etsy Ireland Limited (collectively, “Etsy”). By visiting the Site or using the Apps, you are accepting the terms of this Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
-Current version published: April 17, 2014
+Current policy published: June 09, 2014
 
 **Verified Best Practices  
   
 **
 
-  
 Etsy has been awarded TRUSTe's Privacy Seal. This signifies our privacy policy and practices have been reviewed for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or concerns regarding our privacy policy or practices, please contact us at legal@etsy.com. If you are not satisfied with our response you can contact TRUSTe.  
   
 Etsy complies with the US - EU Safe Harbor framework and the US - Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Etsy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view Etsy’s certification, please visit http://www.export.gov/safeharbor/  
@@ -24,18 +76,18 @@ Depending on which services you choose to use, Etsy may require additional infor
   
 You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed in connection with your account and activity.  
   
-Your username, Etsy ID or alias is publicly displayed and connected to your Etsy activity. Other people may see your date joined, reviews, ratings, profile information, items listed for sale, shop pages, sold item listings, and comments in community spaces.  
-  
-Etsy automatically receives and records some information from your browser or your mobile device when you visit the Site or use the Apps, such as your IP address or unique device identifier, cookies and data about which pages you visit on the Site or on the Apps. This information helps us analyze and understand how the Site and the Apps work for members and visitors, and provide a more personalized experience for members and visitors. For more information about cookies, see our Cookies &. Tracking Technologies page.
+Your username, Etsy ID or alias is publicly displayed and connected to your Etsy activity. Other people may see your date joined, reviews, ratings, profile information, items listed for sale, shop pages, sold item listings, and comments in community spaces. 
 
-When you use the Apps, you may optionally choose to share your geo-location details with Etsy in order to use our location-based services. If you have provided your location details but would no longer like to share that information, you may opt out of those services through the settings on the Apps. You may also enable the Apps to access your mobile device’s camera to upload photographs to Etsy.  
-  
+Etsy automatically receives and records some information from your browser or your mobile device when you visit the Site or use the Apps, such as your IP address or unique device identifier, cookies and data about which pages you visit on the Site or on the Apps. This information helps us analyze and understand how the Site and the Apps work for members and visitors, and provide a more personalized experience for members and visitors. For more information about online tracking tools (including flash cookies) and how we use them, see our Cookies &. Tracking Technologies page or the section below in this policy on “_Information Sharing &. Disclosure_.”
+
+When you use the Apps, you may optionally choose to share your geo-location details with Etsy in order to use our location-based services. If you have provided your location details but would no longer like to share that information, you may opt out of those services through the settings on the Apps. You may also enable the Apps to access your mobile device’s camera to upload photographs to Etsy.
+
 Some members or visitors may connect to or register an Etsy account using an external third-party application, such as Facebook, or an app developed using the Etsy API. Etsy may receive some data from those connected third-party applications. Connecting your Etsy account to third-party applications or services is optional, and when you connect your account to an external app, you will be given the opportunity to grant permission. You can revoke your permission under your Etsy account settings.
 
 Etsy may receive or collect information (for example: an email address) about a person who is not yet a registered Etsy member (a “non-member”) in connection with certain Etsy features, including but not limited to: a non-member subscribing to an Etsy newsletter, a member inviting a non-member to visit the Site, a non-member engaging in a transaction, or a member sending a gift card code to a non-member. Non-member information is used only for the purpose it was originally submitted to Etsy. A non-member can contact Etsy Support if they do not want Etsy to retain their information.
 
-Etsy uses the information described in this policy to provide and improve our services and products, for billing and payments, for identification and authentication purposes, to contact members or interested parties, and for general research and aggregate reporting.  
-  
+Etsy uses the information described in this policy to provide and improve our services and products, for billing and payments, for identification and authentication, for targeted online marketing, to contact members or interested parties, and for general research and aggregate reporting.
+
 Etsy’s Terms of Use require all account owners to be at least 18 years of age (or have the permission and supervision of a responsible parent or legal guardian), therefore, this policy does not discuss use of our Site, our Apps, or services by minors.
 
 Choice &. Control
@@ -86,25 +138,15 @@ As a shop owner outside of the United States who opts-in to certain services suc
 
 As part of the buying and selling process, Etsy will facilitate the sharing of information between the two members involved in the transaction. As part of the buying or selling process, you may obtain another Etsy member's email address, shipping address, payment information, and/or other information. As described in Etsy's Terms of Use, you have a limited license to use this information only for Etsy-related communications or for Etsy-facilitated transactions. Etsy has not granted you a license to use the information for unsolicited commercial messages. Without express consent from that person, you must not add any Etsy member to your email or physical mailing list.
 
-Etsy may release your personal information to a third-party in order comply with a subpoena or other legal requirement, or when we believe in good faith that such disclosure is necessary to comply with the law. prevent imminent physical harm or financial loss. or investigate or take action regarding illegal activities, suspected fraud, or violations of Etsy's Terms of Use. We may disclose personally identifiable information to parties in compliance with our Copyright and Intellectual Property Policy, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, Etsy may disclose a name, address, country, phone number, email address and company name.  
-  
+Etsy may release your personal information to a third-party in order to protect, establish, or exercise our legal rights or defend against legal claims. comply with a subpoena, court order, legal process, or other legal requirement. or when we believe in good faith that such disclosure is necessary to comply with the law, prevent imminent physical harm or financial loss, or investigate, prevent, or take action regarding illegal activities, suspected fraud, threats to our property, or violations of Etsy's Terms of Use. We may disclose personally identifiable information to parties in compliance with our Copyright and Intellectual Property Policy, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, Etsy may disclose a name, address, country, phone number, email address and company name.
+
 Etsy is affiliated with a variety of businesses and works closely with them. These businesses may offer promotions or sell items or services to you through Etsy’s services. Etsy may also provide services or sell products jointly with affiliated businesses. Due to the nature of our business model, when an affiliated business is associated with your transaction, we may share information that is related to such transaction with that affiliated business. Etsy may share aggregated demographic information with business partners.
 
-Etsy employs other companies and people to perform tasks on our behalf, and we need to share your information with them to provide products and services to you. Examples include but are not limited to fulfilling orders, processing payments, handling billing disputes and collections, analyzing data, providing mapping services, preventing fraud, improving performance and stability of the Apps, providing marketing assistance and providing customer service. Etsy may partner with third-party services for fraud prevention and/or identity verification.
+In some cases, Etsy may choose to buy or sell assets. In these types of transactions (such as a sale, merger, liquidation, receivership or transfer of all or substantially all of Etsy’s assets), member information is typically one of the business assets that is transferred. In the event that Etsy transfers information about you, Etsy will notify you by email or by putting a prominent notice on the Site and the App, and you will be afforded an opportunity to opt-out before information about you becomes subject to a different privacy policy.
 
-In some cases, Etsy may choose to buy or sell assets. In these types of transactions, member information is typically one of the business assets that is transferred. Etsy will transfer information about you if Etsy is acquired by or merged with another company. In this event, Etsy will notify you by email or by putting a prominent notice on the Site and the Apps before information about you is transferred and becomes subject to a different privacy policy.
+Third-party plug-ins also may collect information about your use of the Site. For example, when you a load a page on Etsy that has a social plug-in from a third-party site or service, such as a Like or Send button, you are also loading content from that third-party site. That site may request cookies directly from your browser. These interactions are subject to the privacy policy of the third-party site. In addition, certain cookies and other tracking mechanisms on our site are used by third parties for targeted online marketing and other purposes. These technologies allow a partner to recognize your computer or mobile device each time you visit Etsy, but do not allow access to personally identifiable information from Etsy. Etsy does not have access or control over these third-party technologies, and they are not covered by our privacy policy. For more information, see our Cookies &. Tracking Technologies page. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. And you may opt out of the use of cookies by Google Analytics here. Additionally, you may remove yourself from the targeted advertising of companies participating in the Digital Advertising Alliance program by opting out here.  Although our website currently does not respond to “do not track” browser headers, you can limit tracking by taking these steps.
 
-When you a load a page on Etsy that has a social plug-in from a third-party site or service, such as a Like or Send button, you are also loading content from that third-party site. That site may request cookies directly from your browser. These interactions are subject to the privacy policy of the third-party site.  
-  
-We can only speak for ourselves. this policy does not apply to the practices of third parties that Etsy does not own or control, or individuals that Etsy does not employ or manage. If you provide your information to others on Etsy or throughout the Internet, different rules may apply to the use or disclosure of the information you provide to them. Etsy does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Etsy is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the Etsy Site or the Apps. We encourage you to ask questions before you disclose your personal information to others. 
-
-We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of our Privacy Policy and provided that the third party only uses your personal data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
-
-Cookies &. Tracking Technologies
-
-Etsy uses a variety of technologies to help us better understand how people use our Site, Apps, and services. Please refer to our in-depth Cookies &. Tracking Technologies page for more details about the types of cookies that we use and why.  
-  
-Etsy may partner with third-party services who may use various tracking technologies, such as browser cookies or Flash cookies, to provide certain services or features. These technologies allow a partner to recognize your computer or mobile device each time you visit Etsy, but do not allow access to personally identifiable information from Etsy. Etsy does not have access or control over these third-party technologies, and they are not covered by our privacy statement.
+We can only speak for ourselves. this policy does not apply to the practices of third parties that Etsy does not own or control, or individuals that Etsy does not employ or manage. If you provide your information to others on Etsy or throughout the Internet, different rules may apply to the use or disclosure of the information you provide to them. Etsy does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Etsy is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the Etsy Site or Apps. We encourage you to ask questions before you disclose your personal information to others. 
 
 Security
 
@@ -120,9 +162,8 @@ You may inform us of any changes or requests in regards to your personal data, a
 
 Privacy Policy Changes
 
-Etsy reserves the right to modify this privacy statement at any time, so please review it periodically. We’ll communicate changes by posting a notice on the Site or the Apps. If we make material changes to this policy you will be notified here, by email, in the version notes on the Apps' platform, or other places Etsy deems appropriate.  
-  
+Etsy reserves the right to modify this privacy policy at any time, so please review it periodically. We’ll communicate changes by posting a notice on the Site or the Apps. If we make material changes to this policy, prior to the change becoming effective, you will be notified here, by email, in the version notes on the Apps' platform, or other places Etsy deems appropriate.
 
 Contact Etsy
 
-If you have questions or suggestions you can contact Etsy’s support team via our Help Center, by sending an email to legal@etsy.com, or contact us at one of the following addresses: In the US: Etsy Support Team – Privacy Policy. 55 Washington Street, Suite 512. Brooklyn, NY 11201, USA, or Outside of the US: Etsy Support Team – Privacy Policy. The Digital Exchange, Crane Street, The Digital Hub, Dublin 2 Ireland. Telephone: +1 (718) 855-7955.
+If you have questions about personal information or suggestions you can contact Etsy’s Support team via our Help Center, by sending an email to legal@etsy.com, or contact us at one of the following addresses: In the US: Etsy Support Team – Privacy Policy. 55 Washington Street, Suite 512. Brooklyn, NY 11201, USA, or Outside of the US: Etsy Support Team – Privacy Policy. The Digital Exchange, Crane Street, The Digital Hub, Dublin 2 Ireland. Our telephone: +1 (718) 855-7955.  We will respond to you within 30 days of receipt of your correspondence.
