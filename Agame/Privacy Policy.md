@@ -4,12 +4,6 @@ Join or Login Favorites? You don't have any yet
 
 Click the hearts button on a game page to make it a favorite.
 
-Recently played
-
-*   Play now
-
-Quickly find your recently played games: we'll add the last 6 games you played to this list.
-
 *   Home
 *   Social games
 *   Racing
