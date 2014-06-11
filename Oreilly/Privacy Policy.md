@@ -129,7 +129,7 @@ Community
 *   Newsletters
 *   O'Reilly Answers
 *   RSS Feeds
-*   User Groups
+*   Meetups &. User Groups
 *   O'Reilly Atlas (beta)
 
 Partner Sites
