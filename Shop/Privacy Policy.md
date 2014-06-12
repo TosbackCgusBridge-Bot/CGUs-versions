@@ -233,7 +233,6 @@ Lenovo United States Select a country/region
         *   ThinkPad 10:10.1" Tablet with Full PC Experience
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
-        *   ThinkPad 8:8.3" Multimode Business Tablet
     *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Yoga:Convertible Entertainment
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
@@ -313,7 +312,6 @@ Lenovo United States Select a country/region
     *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
         *   C Series: Powerful &. Compact
         *   D Series: Extreme Speed, Dual CPU
-        *   E Series: Desktop Pricing, Workstation Performance
         *   P Series: Entry-Level Power &. Stability
         *   S Series: High-Performance, Powerful Graphics
     *   ThinkPad Mobile Workstations The Ultimate Mobile Workstation
