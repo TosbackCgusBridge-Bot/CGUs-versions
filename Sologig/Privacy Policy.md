@@ -1,11 +1,10 @@
 *   Home
-*   My Profile
+*   My Sologig
 *   Search Jobs
 *   Post Resume
-*   Recommendations
+*   My Recommended Jobs
 *   All Jobs
-*   Articles
-*   Sign In / Register
+*   Sign In >>.
 
 Protect Your Privacy and Safety
 
