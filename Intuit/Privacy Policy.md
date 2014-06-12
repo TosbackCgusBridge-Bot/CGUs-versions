@@ -23,7 +23,7 @@
 
 true
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola860 SERVER NAME :->. prod-c1-com-0201 TIME :->. Tue Jun 10 06:52:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena824 SERVER NAME :->. prod-l2-com-82401 TIME :->. Wed Jun 11 06:29:37 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -55,7 +55,7 @@ Extra 15% Off\*
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Ends Wednesday, June 11.
+Last Day! Ends Wednesday, June 11.
 
 Online Code: SUMRGLOW
 
@@ -69,9 +69,9 @@ Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store. Ju
 
 \*See exclusions and details. Father's Day is Sunday, June 15 shop Father's Day gifts
 
-Get it by Father's Day. $5 express shipping over $99.
+Get it by Father's Day. $10 express shipping over $99.
 
-Select 3 day shipping by 1PM CDT, June 11.
+Select 2 day shipping by 1PM CDT, June 12.
 
 get details Home Sale
 
@@ -89,7 +89,7 @@ get details 50% Off Select Golf Apparel shop men's golf apparel Jewelry Spectacu
 
 20-40% Off Select Watches
 
-shop watches 30-50% Off Select Cutlery shop cutlery 40-60% Off Select Luggage shop luggage JCP Rewards
+shop watches Sale $59.99 Select Men's Dockers Boat Shoes shop men's Dockers boat shoes 40-60% Off Select Luggage shop luggage JCP Rewards
 
 Join now and get 50 bonus points\*
 
