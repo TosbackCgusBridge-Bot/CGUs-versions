@@ -1,6 +1,6 @@
 Privacy &. Security
 
-This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Web site, microsites, or mobile sites of our brands and lines of business that expressly adopt, and display or link to, this policy. These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean your identifying information (like name, home address, and email address), and descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to all our brands and lines of business (i.e., Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink)) as "we," "us," or "our" throughout this privacy policy.
+This privacy policy explains what personal information is collected through this Web site, how that information is used, to whom it's disclosed, and how it's safeguarded. Unless indicated otherwise, this policy applies only to personal information collected through the Web site, microsites, or mobile sites of our brands and lines of business that expressly adopt, and display or link to, this policy. These brands and lines of business include Victoria's Secret, Victoria's Secret Pink, and Pink Nation. By "personal information" we mean your identifying information (like name, home address, and email address), and descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Victoria's Secret, Victoria's Secret Pink (or "Pink"), and Pink Nation (by Pink) as "we," "us," or "our" throughout this privacy policy.
 
 This privacy policy answers these questions:
 
@@ -23,7 +23,9 @@ What personal information is collected at our Web site and how is it used?
     
     This information is collected at various places: for instance, when you check out with your online order. subscribe to catalogs, email offers, and Pink mobile messaging offers. participate in surveys. join Victoria's Secret Pink Nation. enter contests or sweepstakes. or interact with special-event or program offers.
     
-    We may also collect information that you provide about people you know. For example, we collect your gift recipient's contact information to process your gift orders. We use personally identifying information to do things like:
+    We may also collect information that you provide about people you know. For example, we collect your gift recipient's contact information to process your gift orders. We may also collect contact information about your friends and family members when you participate in one of our refer-a-friend programs. In these instances, we may send a message to your friend or family member on your behalf. Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message from you.
+    
+    We use personally identifying information to do things like:
     
     *   process your online orders;
     *   open an online account at your request;
@@ -34,7 +36,7 @@ What personal information is collected at our Web site and how is it used?
     *   facilitate networks of online social activity centered around our products and services;
     *   improve our website, improve the manner in which offers are made on our website, improve purchase decisions of our visitors and the interactions visitors have with our website;
     *   enable you to interact with third-party content service providers, whether by linking to their sites, viewing their content within our Web environment, or by viewing our content within their Web environment. and
-    *   market products and services for each of our brands--for instance, by adding you to the Victoria's Secret and Victoria's Secret Pink email list or Victoria's Secret print-catalog list when you make an online purchase. or by adding you to the Pink Nation email list if you sign up for Pink Nation.
+    *   market our products and services that may be of interest to you--for instance, we may add you to the Victoria's Secret and Victoria's Secret Pink email list when you make an online purchase. or we may add you to Victoria's Secert print-catalogue list when you make an online purchase or to the Pink Nation email list if you sign up for Pink Nation.
 2.  2\.  Information We Observe or Collect through Technology
     1.  a.  Navigational Information
         
@@ -45,6 +47,8 @@ What personal information is collected at our Web site and how is it used?
         To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer. It's used to do things like see how you navigate our Web site, what you click on, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, tailor your online experience, and tailor offers to you based on your unique tastes and both your online and offline (e.g., in-store) interactions and purchase history.
         
         We also use clear-gifs (also known as a Web beacon or Web bug) on our Web site and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like mostfor example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We'll associate this information to deliver products and services to you. to improve our business. to transact business. and to market our products and services on this and other Web sites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid-purchase, resulting in an abandoned cart. We can also use this technology to determine whether you'd be interested in participating in special events, given your preferences. The end result is a more personalized experience that's tailored to your needs and tastes.
+        
+        For information about your options with respect to cookies, see "What choices do you have over how your information is used?" below.
         
 3.  3\.  Information Others Observe or Collect through Technology
     
@@ -63,7 +67,7 @@ Back To Top
 
 How is technology used to serve our advertisements on other Web sites and what choices do you have?
 
-We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third-party companies place, use, or rely on technology, such as cookies and clear gifs, as customers interact with us through our Web sites and interact with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based on a customers combined online and offline (e.g., in-store) shopping history and experience with us.
+We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third-party companies place, use, or rely on technology, such as cookies and clear gifs, to obtain information about customer interactions with us through our Web sites and interactions with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based on a customers combined online and offline (e.g., in-store) shopping history and experience with us.
 
 For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: \[NAI Opt Out click here\] and \[DAA Opt Outclick here\] (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems may not recognize Do Not Track headers from some or all browsers.
 
@@ -133,7 +137,7 @@ What choices do you have over how your information is used?
 
 1.  1\.  Email
     
-    If you make an online purchase you may receive Victoria's Secret or Victoria's Secret Pink email. You may stop future delivery of these emails by following the removal instructions located at the bottom of each commercial email or by completing the removal from e-mail form. If you have joined Pink Nation, you may receive Pink Nation email. If at any time you'd like to stop future delivery of Pink Nation email offers, simply follow the removal instructions located at the bottom of each Pink Nation message. Opting out of any of these emails will not stop operational or transactional messages such as email confirmations of your online orders, or customer service communications from the brand or line of business in question. We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your e-mail address with the specific third party in question. Please review their privacy policies to see how they treat your personal information.
+    You may remove yourself from the Victoria's Secret and Victoria's Secret Pink email list by following the removal instructions located at the bottom of each commercial email or by completing the removal from e-mail form. If you have joined Pink Nation, you may receive Pink Nation email. If at any time you'd like to stop future delivery of Pink Nation email offers, simply follow the removal instructions located at the bottom of each Pink Nation message. Opting out of any of these emails will not stop operational or transactional messages such as password-reset or account related information from the brand or line of business in question. We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your e-mail address with the specific third party in question. Please review their privacy policies to see how they treat your personal information.
     
 2.  2\.  Mobile Messaging
     
@@ -164,7 +168,7 @@ Back To Top
 
 How do you update your personal information?
 
-We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by logging onto our sites (e.g., Your Account on Victoria's Secret and Victoria's Secret Pink, or Edit Profile on your Pink Nation account). You may also update or modify your catalog mailing information by clicking here.
+We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by logging onto our sites (e.g., Your Account on the Victoria's Secret and Victoria's Secret Pink Web site, or Edit Profile on your Pink Nation account). You may also update or modify your catalog mailing information by clicking here.
 
 Back To Top
 
@@ -220,7 +224,7 @@ When was this policy last updated?
 
 Please click here to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about VictoriasSecret.com.
 
-This Privacy Statement is effective December 20, 2013
+This Privacy Statement is effective June 12, 2014.
 
 Back To Top
 
