@@ -1,4 +1,4 @@
-USESDEFRITBR Mai 2014
+USESDEFRITBR Juin 2014
 
 *   Objet
 *   Mentions légales
@@ -118,19 +118,21 @@ Il est ainsi conseillé à l'Utilisateur de consulter régulièrement la derniè
 Durée et résiliation  
 Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente  
-Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. A voir également
+Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.  
+  
+Conditions-generales-d-utilisation.pdf A voir également
 
-*   Conditions générales d'utilisation
-*   D'utilisation
-*   Que vfeut dire condition d utilsateur
+*   Conditions générales
+*   Les conditions dutilisation, de diffusion et de suppression des données personnelles dun site particulier,
+*   Conditions générales d'utilisation et twitter
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
+*   Modèle de conditions générales de vente » Forum - Webmaster
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
 *   Conditions générales (Résolu) » Forum - Mobile
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 
 Communautés d'assistance et de conseils.
 
-*   Forum Mobile
 *   Forum Vos droits sur internet
-*   Forum Bouygues Télécom
+*   Forum Xbox 360
+*   Forum Mobile
