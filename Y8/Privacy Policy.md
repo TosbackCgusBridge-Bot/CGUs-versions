@@ -13,7 +13,7 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 *   games
 *   anims
 
-*   Play Free Games
+*   Free Games
 *   New Games
 *   Best of new games
 *   Most Popular Games
