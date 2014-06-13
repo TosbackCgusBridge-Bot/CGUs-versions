@@ -41,7 +41,7 @@ We use cookies to understand our site’s usage and to improve the content and o
 You may choose to have your computer warn you each time a cookie is sent or you may turn off all cookies. You do this through your browser settings. Each browser is a little different. so identify the correct way to do this through the Help Menu in your specific browser. Cookies are required to be active because without them, it will not be possible to complete the checkout process.  
   
 
-How does Winston Brands Incorporated use my information?
+How does Winston Brands use my information?
 
   
 You, our Customer, are the most important and valuable asset of our business. We will use the information collected from you to tailor our product offering and improve your shopping experience, making shopping easier and more enjoyable. This also enables us to process your orders, confirm your orders, notify you about backorders and alert you about updates to our web site, products and our privacy statement.  
@@ -158,4 +158,4 @@ If you have any additional questions, please contact a Winston Brands customer c
   
 
 Trademarks &. Copyrights  
-Collections Etc.® logo and other marks on our web site and in our catalogs, mailings, and emailings are trademarks of Winston Brands Inc., except for third-party trademarks which are the trademarks of their respective owners. All content on this web site, including without limitation, the text, graphics, web site design, icons and images are the sole property of Winston Brands, Inc. Copyright 2011. Replication of the content of this web site in any manner without the express written consent of Winston Brands, Inc. is strictly prohibited.
+Collections Etc.® logo and other marks on our web site and in our catalogs, mailings, and emailings are trademarks of Winston Brands Inc., except for third-party trademarks which are the trademarks of their respective owners. All content on this web site, including without limitation, the text, graphics, web site design, icons and images are the sole property of Winston Brands, Inc. Copyright 2014. Replication of the content of this web site in any manner without the express written consent of Winston Brands, Inc. is strictly prohibited.
