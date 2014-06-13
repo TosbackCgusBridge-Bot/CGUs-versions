@@ -4,8 +4,8 @@
 
 *   null
 *   Log In
-*   Sign Up
-*   Sign out
+*   Sign up
+*   Logout
 *   Help
 
 Search for:
