@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Continuum - Sneak Peek - 3 Minutes To Midnigh ... Continuum - Sneak Peek - 3 Minutes To Midnight
+Syfy Video Bigger, Bolder, and Even More Ridiculous - Sh ... Bigger, Bolder, and Even More Ridiculous - Sharknado 2: The Second One
 
-Check out a sneak peek of the next episode of Continuum, Fridays at 10/9c.
+Sharknado 2: The Second One airs July 30th at 9/8c.
 
-Continuum - Next Episode - 3 Minutes to Midni ... Continuum - Next Episode - 3 Minutes to Midnight
+Ascension - Trailer Ascension - Trailer
 
-Catch the next episode of Continuum, Fridays at 10/9c!
+A long-lead, conceptual tease for Ascension, coming in November from Syfy
 
-Good Fences Make Good Neighbors Good Fences Make Good Neighbors
+Exclusive: Clark Gregg on Trust Me, Agents of ... Exclusive: Clark Gregg on Trust Me, Agents of SHIELD &. Ant Man
 
-When the Freelancers start prying into Kiera's personal life, she calls it quits with their mutually beneficial working relationship. The inevitable line in the sand has finally been drawn.
+Clark Gregg talks to us about his new movie Trust Me, Agent Coulson coming back to Marvel movies and Ant man! Trust Me comes out in select theaters June 6 and available on demand now.
 
-My Daughters Keeper My Daughters Keeper
+Sharknado 2 - The Second One - Coming in July Sharknado 2 - The Second One - Coming in July
 
-Torn up with guilt from Betty's death, Dillon tasks Kiera with getting his daughter Christine out of harm's way from Liber8.
+#sharknado2. Coming in July!
 
 *   FAQ
 *   Feedback
