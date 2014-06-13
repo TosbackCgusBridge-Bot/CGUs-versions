@@ -106,11 +106,7 @@ Use Code **FREESHIP**
    
 Click here for additional shipping and tax information.
 
-\*Free Shipping offer valid with any purchase. Limit of five promo codes per order. Offer valid at saks.com only. To redeem, select standard shipping and enter promotional code: FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments.  For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
-
-Click here for additional shipping and tax information.
-
-  Online Now. In Stores 5/8-5/9 Details
+Online Now. In Stores 5/8-5/9 Details
 
 \*\*For approved purchases under $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst double points point structure (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. For approved purchases over $2500 made with the SaksFirst credit card or SaksFirst MasterCard® in Saks stores and catalogs and at saks.com during this event, SaksFirst members will earn bonus points consistent with the SaksFirst triple points point structure on entire purchase (visit saksfirst.com for full program terms and conditions), based on your calendar year-to-date net purchases. Purchases of sales tax, delivery charges, beauty salon products and services, restaurants, alterations, fur storage, gratuity, repairs, Saks Fifth Avenue OFF 5th stores, saksoff5th.com, corporate gifts, gift card purchases, services are not eligible for this bonus points event. Cartier and Graff are excluded from both double points and triple points promotion and leased Christian Louboutin, Miu Miu, Prada and Louis Vuitton are excluded from triple points promotion. Select designers and leased department exclusions apply. SaksFirst offer valid in Saks Fifth Avenue stores from 05/08/14 through 05/09/14 and on saks.com from 05/04/14 at 12:01 am (ET) through 05/09/14 at 11:59 pm (ET).  
 MasterCard and the MasterCard brand mark are registered trademarks of MasterCard international incorporated.
@@ -347,6 +343,12 @@ Use Code **FREESHIP**
 \*Free Shipping offer valid with any purchase. Limit of five promo codes per order. Offer valid at saks.com only. To redeem, select standard shipping and enter promotional code: FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks? return policy still applies to items returned under this offer.
 
 Click here for additional shipping &. tax information.
+
+\*Free Shipping offer valid with any purchase. Limit of five promo codes per order. Offer valid at saks.com only. To redeem, select standard shipping and enter promotional code: FREESHIP. Valid on shipments to US addresses only. Not valid on international shipments. Offer may be used when shipping to multiple addresses. Offer not valid on Rush, Next Business Day, or Saturday delivery orders. Not valid in Saks Fifth Avenue stores, Saks Fifth Avenue OFF 5TH stores, and saksoff5th.com. Not valid on standalone physical or promotional Gift Card shipments.  For Drop Ship items, offer only applies to items eligible for standard shipping. No adjustments to prior purchases. This offer is non-transferable. Saks’ return policy still applies to items returned under this offer.
+
+Click here for additional shipping and tax information.
+
+ 
 
 **24/7 Customer Service:**  1.877.551.7257  •  Email  •  Chat
 
