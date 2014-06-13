@@ -192,9 +192,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   COOL DEALS Save up to 41%
+    *   FATHER'S DAY DEALS Save up to 41%
         
-        on select home PCs through June 11.
+        on select home PCs through June 18.
         
         **Shop now >**
     *   Need it Quick?
@@ -239,9 +239,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   COOL DEALS Save up to 26%
+    *   FATHER'S DAY DEALS Save up to 26%
         
-        on select home tablets through June 11.
+        on select home tablets through June 18.
         
         **Shop now >**
     *   Need it Quick?
@@ -282,9 +282,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   COOL DEALS Save up to 26%
+    *   FATHER'S DAY DEALS Save up to 26%
         
-        on select home desktps through June 11.
+        on select home desktps through June 18.
         
         **Shop now >**
     *   Lenovo Q190
@@ -374,14 +374,14 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   LENOVO SPEAKERS Save 48%
+    *   NOTEBOOK STAND Save 52%
         
-        Rear-mounted controls for convenient operations.
+        Lift and tilt your laptop to eye level.
         
         **Shop now >**
-    *   PROTECT YOUR PC Save 20%
+    *   SMART TOUCH MOUSE Save 47%
         
-        on select ThinkPad carrying cases!
+        For an enhanced Windows 8 experience.
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
