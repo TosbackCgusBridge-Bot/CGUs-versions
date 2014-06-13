@@ -28,6 +28,7 @@ Cookies, Privacy and Terms of Service
 *   Privacy Policy
 *   Indeed Terms of Service
 *   Indeed Safe Harbor Notice
+*   Indeed Vulnerability Reward Program
 
 When you access or use Indeed’s online and/or mobile services, web sites, and software provided on or in connection with the services or web sites (collectively, the “Website”), (a) you represent that you have read and understand the Cookies Policy and Privacy Policy and (b) you conclude a legally binding agreement (“Agreement”) based on the Indeed Terms of Service with (1) Indeed Inc., 7501 N. Capital of Texas Hwy, Building B, Austin, TX 78731, USA if and when you are in the United States (“Indeed Inc.”), and (2) Indeed Ireland Operations Limited, First Floor, Block B, Riverside IV, Sir John Rogerson’s Quay, Dublin 2, Ireland if otherwise (“Indeed Ireland”). **Any references to “Indeed” shall mean Indeed Inc. when you access or use the website from within the United States and otherwise “Indeed” shall refer to Indeed Ireland.**
 
@@ -470,6 +471,16 @@ If you are an EEA Person about whom we hold EEA Data, you may request access to,
 If you have questions, please contact Indeed by sending a letter or email to Indeed Privacy Program, Indeed Inc., c/o Legal Department, 7501 N. Capital of Texas Hwy, Building B, Austin, TX 78731, USA or privacy-office @ indeed.com (remove spaces when sending email)
 
 Indeed has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Indeed, please visit the BBB EU SAFE HARBOR web site for more information and to file a complaint.
+
+**Indeed Vulnerability Reward Program**
+
+**Program Description**
+
+As part of Indeed's commitment to the security of our job seekers, advertisers, and publishers, we partnered with Bugcrowd to launch our Vulnerability Reward Program. Detailed rules and information about the scope of this bounty program are available on our Bugcrowd page. If you are a whitehat researcher that believes you have discovered a vulnerability in an Indeed product or have any other security inquiries, please sign up as a Bugcrowd Tester to be included in Indeed's Vulnerability Reward Program. Vulnerabilities submitted outside of Bugcrowd will **not** be considered.
+
+**Legal Notes**
+
+Indeed will not issue rewards to researchers from countries on sanctions lists (e.g. - Cuba, Iran, North Korea, Sudan, and Syria). There may be additional restrictions on your ability to enter depending upon your local laws. Your testing must not violate any law, or disrupt or compromise any data that is not your own.
 
    
 Jobs - Salaries - Trends - Forums - Job Search - Browse Jobs - Tools - API - About - Contact ©2014 Indeed - Cookies, Privacy and Terms
