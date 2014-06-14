@@ -128,23 +128,20 @@ Introducing the
 
 XV Crosstrek 2.0i Limited shown
 
-Outback $23,495 starting price 2014 Outback
+Outback $24,895 starting price 2015 Outback
 
 Starting at
 
-$23,495 MSRP
+$24,895 MSRP
 
 Up to
 
-30/24MPG Hwy/City
+33/25MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-Introducing the all-new  
-2015 Subaru Outback
 
 Outback 2.5i Premium shown
 
