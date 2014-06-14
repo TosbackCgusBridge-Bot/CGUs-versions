@@ -183,7 +183,6 @@ Support
 Contact Us
 
 *   TWC Forums
-*   Live Chat
 *   Contact Us
 *   TWC Stores
 *   Channel Feedback
