@@ -1,8 +1,8 @@
 Sam's Club Privacy Policy - Highlights Scope:
 
-This policy applies to customer information we collect in the United States and Puerto Rico at Sam's Club retail stores and through our websites.  
+This policy applies to member information Sam's Club collects in the United States and Puerto Rico, both in Club and through our websites.  
   
-Sam's Club has a specific Notice of Privacy Practices for its personal information practices relating to our operations in our retail stores. This Notice is available at each Pharmacy and Optical Center.
+Sam's Club has a specific Notice of Privacy Practices for its personal information practices relating to our operations in our retail clubs. This Notice is available at each Pharmacy and Optical Center.
 
 Information we collect:
 
@@ -60,7 +60,7 @@ Notice and Scope of Our Privacy Practices
 
 Our goal is to provide clear, prominent, and easily accessible information about our privacy practices. This policy applies to Member information obtained by Sam's Club in connection with its operations, both in Clubs and online, in the United States and Puerto Rico.  
   
-Sam's Club has a specific Notice of Privacy Practices for its personal information practices relating to our Health and Wellness operations in our retail stores. This Notice is available at each Pharmacy and Optical Center.
+Sam's Club has a specific Notice of Privacy Practices for its personal information practices relating to our Health and Wellness operations in our retail clubs. This Notice is available at each Pharmacy and Optical Center.
 
   
 Information We Collect
@@ -97,7 +97,7 @@ We receive and store certain types of information when you interact with our web
 *   We use "cookies" to recognize you as you use or return to our sites. This is done so that we can provide a continuous and more personalized shopping experience for you. A cookie is a small text file that a website or email may save to your browser on your hard drive.
 *   We may also use web beacons. Beacons allow us to know if a certain page was visited, an email was opened, or if ad banners on our website and other sites were effective.
 
-Our Clubs utilize cameras Clubs for security and operational purposes, such as to measure traffic patterns. Except for security purposes, we do not use these cameras to identify you personally.
+Our Clubs utilize cameras for security and operational purposes, such as to measure traffic patterns. Except for security purposes, we do not use these cameras to identify you personally.
 
   
 How We Use Your Information
@@ -173,7 +173,9 @@ You may opt-out of receiving different types of Sam's Club marketing material in
 *   By Phone: You may call Member Services by dialing 1.888.746.7726.
 *   In Club: You may request to opt out at the Membership desk of your local Sam's Club.
 
-If you contact us by email or mail, please be sure to include your full name, Membership number, and the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt out of mail, include your mailing address. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests.  
+If you contact us by email or mail, please be sure to include your full name, Membership number, and the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt out of mail, include your mailing address. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and up to 30 days to process your requests related to telephone calls, text messages, and fax messages. Please note that postal mailings are often prepared many weeks in advance, and you may continue to receive mail for 6-10 weeks.  
+  
+Since we do not accept opt out request from third parties, such as catalog opt-out services, please communicate your request directly to us through one of the mechanism mentioned above.  
   
 Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for Member service, product information, service or reminder notices, or recalls. We may also need to contact you with questions or information regarding your order, such as regarding order status, shipment, or refunds.
 
@@ -315,4 +317,4 @@ Our privacy policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.  
   
-Effective: September 25, 2013
+Effective: June 13, 2014
