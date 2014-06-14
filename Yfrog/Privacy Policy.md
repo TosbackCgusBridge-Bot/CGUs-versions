@@ -96,4 +96,4 @@ ImageShack Terms of Service are subject to change without notice.
   
 No part of the ImageShack Network may be reproduced or recreated without explicit written permission. "ImageShack", "yfrog" are registered trademarks of ImageShack Corp. Any unauthorized use of said trademarks is a violation of state, federal and international trademark laws.
 
-© 2003-2014 Imageshack Corp. All rights reserved. Blog |  About |  Contact Us |  Terms of Service |  FAQ
+© 2003-2014 Imageshack Corp. All rights reserved. Contact Us | Terms of Service | FAQ
