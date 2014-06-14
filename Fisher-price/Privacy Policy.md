@@ -72,6 +72,9 @@
 *   Subscribe
 *   Update Email Profile
 
+*   Got Ideas?  
+    We're Listening!
+
 Fisher-Price Terms and Conditions (UPDATED)
 
 *   Privacy Statement (NEW) |
