@@ -18,6 +18,7 @@ Remember me on this computer Sign in
     *   How to Spend It app
     *   Mobile website
 *   Tools &. Services 
+    *   Your cancellation rights
     *   Lexicon
     *   ePaper
     *   Search
