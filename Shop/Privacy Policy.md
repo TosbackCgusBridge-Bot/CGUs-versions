@@ -197,9 +197,9 @@ Lenovo United States Select a country/region
         on select home PCs through June 18.
         
         **Shop now >**
-    *   Need it Quick?
+    *   Discover Yoga One Device.
         
-        Prebuilt models of our most popular ThinkPad and ThinkCentre PCs.
+        Multiple Possibilities.
         
         **Shop now >**
     *   Lenovo Y510p Level Up
@@ -244,9 +244,9 @@ Lenovo United States Select a country/region
         on select home tablets through June 18.
         
         **Shop now >**
-    *   Need it Quick?
+    *   Discover Yoga One Device.
         
-        Prebuilt models of our most popular ThinkPad and ThinkCentre PCs.
+        Multiple Possibilities.
         
         **Shop now >**
     *   Special Offer Get the Yoga Tablet 10 for $199.
@@ -418,7 +418,6 @@ Lenovo United States Select a country/region
     
 *   Deals
     *   Current Offers
-        *   Dads and Grads Sale
         *   Home Laptop &. Desktop Deals
         *   Accessories Closeout Sale
         *   Deals for Students and Educators
