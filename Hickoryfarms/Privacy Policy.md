@@ -25,10 +25,6 @@ Your Cart(0) Catalog Navigation
     *   Gifts Over $50
 *   Favorites
     *   Spring Favorites
-    *   Father's Day Favorites
-        *   Gifts for Brother
-        *   Gifts for Grandpa
-        *   Gifts for Dad
 *   Specials
 *   Business Gifts
     *   Top Business Gifts
@@ -54,10 +50,6 @@ Search Catalog Search Menu Search Stores Cart
     *   Gifts Over $50
 *   Favorites
     *   Spring Favorites
-    *   Father's Day Favorites
-        *   Gifts for Brother
-        *   Gifts for Grandpa
-        *   Gifts for Dad
 *   Specials
 *   Business Gifts
     *   Top Business Gifts
