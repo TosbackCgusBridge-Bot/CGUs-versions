@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   JERRY
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true false L12670714403
+true false 192.168.225.10 L12672312290
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena851 SERVER NAME :->. prod-l1-com-0301 TIME :->. Sat Jun 14 05:57:40 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena712 SERVER NAME :->. prod-l2-com-71202 TIME :->. Sun Jun 15 03:56:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,7 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends June 15. $ Code: DAY4DAD, % Code: POPSDAY
+Last Day! Ends June 15. $ Code: DAY4DAD, % Code: POPSDAY
 
 \*See exclusions and details.Online Only
 
@@ -61,41 +61,39 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 Code: POPSDAY
 
-print store coupon 50% Off Men's Dress Shirts
+print store coupon 40-50% Off Men's St. John's Bay
 
 Select styles.
 
-shop men's dress shirtsLove DAD Sale
+shop men's St. John's BayLast Day! $15 Off\* $15
 
-Shop late on Friday until 10PM and Saturday from 9AM until 10PM.
+Bonus cash coupon when you spend $75 or more on JCPenney gift cards in store, June 5 through 15.
 
-shop the sale view store adShop Thousands of Doorbusters
+\*See exclusions and details.
 
-Excluded from coupon offer.
+Happy Father's Day!
 
-In store only, Friday, June 13, all day, Saturday, June 14, 9AM until 1PM.
+Love DAD Sale
 
-view doorbusters store adHome Sale
+The styles that fit dad best.
+
+shop the sale view store adHome Sale
 
 Select items.
 
-In store and online. Ends June 15.
+In store and online. Last Day! Ends June 15.
 
-shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture40-60% Off luggage shop luggage40-50% Off Window shop window shop recliners Score Big for Dad
+shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture30-50% Off Bedding and Bath shop bedding and bath40-50% Off Window shop window shop coffeemakers Score Big for Dad
 
 Spend $50 in store and online June 8 through June 15, receive a free event ticket when you purchase ticket from ScoreBig.com.
 
 Free event ticket ($50 value)
 
-get details Own Your Colors support your team Jewelry Spectacular Sale
+get details 50% Off Select Men's Dress Shirts shop men's dress shirts 20-40% Off Select Watches shop watches 40-50% Off Select A.N.A shop A.N.A 40-60% Off Select Luggage shop luggage Own Your Colors support your team JCP Rewards
 
-20-40% Off Select Watches
+Shop to earn $10 JCP Rewards
 
-shop watches 30-50% Off Select Women's JCP shop women's JCP 30% Off Select Bras When You Buy 2 Or More shop bras Sale $59.99 Select Men's Dockers Boat Shoes shop men's Dockers boat shoes JCP Rewards
-
-Join now and get 50 bonus points\*
-
-\*get details and sign up todayGift Cards
+sign up todayGift Cards
 
 Always fits, never expires.
 
@@ -103,11 +101,7 @@ shop gift cardsLove DAD
 
 Father's Day is Sunday, June 15.
 
-shop Father's Day giftsRed Zone Clearance Selections
-
-50-70% Off
-
-shop clearance
+shop Father's Day giftsRed Zone Clearance Selections shop clearance
 
 get connected
 
