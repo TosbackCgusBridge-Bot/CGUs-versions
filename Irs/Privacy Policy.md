@@ -2,7 +2,7 @@ Like - Click this link to Add this page to your bookmarks Share - Click this lin
 
 Para ver esta página en español haga clic aquí.
 
-**IRS Privacy Policy  
+**IRS Privacy Policy****  
 Your Privacy Rights  
 IRS Office of Privacy  
 Access to Privacy Impact Assessments  
@@ -39,4 +39,4 @@ _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the TIGTA website.
 
-Page Last Reviewed or Updated: 01-Apr-2014
+Page Last Reviewed or Updated: 16-Jun-2014
