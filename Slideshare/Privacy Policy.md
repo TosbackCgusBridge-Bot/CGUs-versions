@@ -325,6 +325,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
     *   Deutsch
     *   **English**
     *   Español
+    *   正體中文
     *   Français
     *   한국어
     *   Italiano
