@@ -138,11 +138,11 @@
 > 
 > **Audience Analytics**
 > 
-> In order to understand our audience, and understand how our audience interacts with Fark, we use two different analytics products - Google Analytics and ComScore. Each of these places a cookie on your computer to gather information about the Fark pages you visit, how long you stay on the site, etc.
+> In order to understand our audience, and understand how our audience interacts with Fark, we use a few different analytics products. Each of these places a cookie on your computer to gather information about the Fark pages you visit, how long you stay on the site, etc.
 > 
-> This information is aggregated so we can see general patterns. None of the information you provide on sign-up or while using the site is ever provided to either Google Analytics or ComScore.
+> This information is aggregated so we can see general patterns. None of the information you provide on sign-up or while using the site is ever provided.
 > 
-> We send the Fark Account Number assigned to you at sign-up time to Google Analytics to understand how our users use Fark across different devices. Google has no way to associate this with any other personally identifiable information inside of Analytics. If you don't want us to send your Fark Account Number to Google Analytics, you can check the box in your Preferences that says "Don't send my Fark Account Number to Google Analyics".
+> One of these analytics products is Google Analytics. We send the Fark Account Number assigned to you at sign-up time to Google Analytics to understand how our users use Fark across different devices. Google has no way to associate this with any other personally identifiable information inside of Analytics. If you don't want us to send your Fark Account Number to Google Analytics, you can check the box in your Preferences that says "Don't send my Fark Account Number to Google Analyics".
 > 
 > **Policy updates**
 > 
