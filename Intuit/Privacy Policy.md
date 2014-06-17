@@ -21,9 +21,9 @@
     
 *   ship to
 
-true false 192.168.225.10 L12672312290
+true false L12673932337
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena712 SERVER NAME :->. prod-l2-com-71202 TIME :->. Sun Jun 15 03:56:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena834 SERVER NAME :->. prod-l2-com-83401 TIME :->. Mon Jun 16 04:11:51 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,53 +43,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Last Day! Ends June 15. $ Code: DAY4DAD, % Code: POPSDAY
-
-\*See exclusions and details.Online Only
+Held over, today only! Ends June 16. $ Code: DAY4DAD, % Code: POPSDAY
 
 $20 Off\* $75 or more.
 
-Code: DAY4DAD
-
-In Store Only
-
-$10 Off\* $25 or more.
-
-print store couponIn Store and Online
+Apparel, shoes, accessories, fine jewelry and home.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Code: POPSDAY
+\*See exclusions and details. shop beddingHome Savings
 
-print store coupon 40-50% Off Men's St. John's Bay
+Online only. Ends June 18.
 
-Select styles.
+With Code: HOMECPN
 
-shop men's St. John's BayLast Day! $15 Off\* $15
+50% Off\* luggage
 
-Bonus cash coupon when you spend $75 or more on JCPenney gift cards in store, June 5 through 15.
+40% Off\* bedding and bath, furniture, mattresses and blinds and shades.
 
-\*See exclusions and details.
+30% Off\* kitchen and dining and all home decor.
 
-Happy Father's Day!
+\*See exclusions and details. shop home 40-50% Off Select A.N.A shop A.N.A $40 Select Men's Levi's™
 
-Love DAD Sale
+Excluded from coupon.
 
-The styles that fit dad best.
+shop men's Levi's™ $45 Select Men's Athletic Shoes
 
-shop the sale view store adHome Sale
+Excluded from coupon.
 
-Select items.
+shop men's athletic shoes 25% Off Select Bras When You Buy 2 Or More shop bras 35-50% Off Select Carter's shop Carter's 40% Off\* Patio Furniture shop patio furniture
 
-In store and online. Last Day! Ends June 15.
+Code: HOMECPN
 
-shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture30-50% Off Bedding and Bath shop bedding and bath40-50% Off Window shop window shop coffeemakers Score Big for Dad
-
-Spend $50 in store and online June 8 through June 15, receive a free event ticket when you purchase ticket from ScoreBig.com.
-
-Free event ticket ($50 value)
-
-get details 50% Off Select Men's Dress Shirts shop men's dress shirts 20-40% Off Select Watches shop watches 40-50% Off Select A.N.A shop A.N.A 40-60% Off Select Luggage shop luggage Own Your Colors support your team JCP Rewards
+\*See exclusions and details. JCP Rewards
 
 Shop to earn $10 JCP Rewards
 
@@ -97,11 +83,11 @@ sign up todayGift Cards
 
 Always fits, never expires.
 
-shop gift cardsLove DAD
+shop gift cardsThe Wedding Registry at JCPenney view registryRed Zone Clearance Selections
 
-Father's Day is Sunday, June 15.
+50-70% Off
 
-shop Father's Day giftsRed Zone Clearance Selections shop clearance
+shop clearance
 
 get connected
 
