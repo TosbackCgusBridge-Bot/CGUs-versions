@@ -64,9 +64,7 @@ My Bag (0) Wish List Search
 *   Promotions
     *   Buckle Card Double Points 2014
     *   Store Events
-    *   Spring Brand Event Official Rules
     *   Sweepstakes Winners
-    *   American Customs Hot Rod Giveaway Official Rules
     *   Social Giveaway Official Rules
     *   CC Tumbler GWP
 *   Gift Cards/Services
