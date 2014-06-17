@@ -340,6 +340,6 @@ Can't get enough HowStuffWorks?
     Visitor Agreement
     
 
-©1998-2014 HowStuffWorks, Inc.
+Copyright © 1998-2014 HowStuffWorks, a division of InfoSpace LLC
 
 HowStuffWorks.com CONTENT HowStuffWorks Web Slice 15
