@@ -120,7 +120,6 @@ Privacy Policy
     *   How we share information about you within Fidelity
     *   Privacy Online
     *   Additional information
-
 *   Fidelity Funds Privacy Policy
 
   Our Commitment to Privacy
@@ -260,16 +259,16 @@ The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investme
 
   
 Effective June 2013   
-©1998-2013 FMR LLC. All Rights Reserved. Questions?
+©1998-2013 FMR LLC. All Rights Reserved.  
+  
+Questions?
 
 *   800-343-3548 800-343-3548
 *   Find an Investor Center.
 
 2013 Privacy Notice
 
-*   View the Fidelity Investments  
-    and the Fidelity Funds  
-    Privacy Notice (PDF).
+View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
 
 627309.4.0
 
