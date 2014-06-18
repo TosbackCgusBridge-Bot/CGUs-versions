@@ -352,7 +352,7 @@ About Tealium
 
 Founded in 2008, Tealium is the leader in enterprise tag management and digital data distribution. Tealium brings order to marketing chaos and serves as a foundational data layer for all marketing cloud applications.
 
-© 2014 Tealium Inc. All rights reserved. Tealium, AudienceStream, and all other Tealium marks contained herein are trademarks or service marks of Tealium. All other marks contained herein are the property of their respective owners.
+© 2014 Tealium Inc. All rights reserved. Tealium, AudienceStream, and all other Tealium marks contained herein are trademarks or service marks of Tealium. All other marks are the property of their respective owners.
 
 *   Site Map
 *   Terms of Use
