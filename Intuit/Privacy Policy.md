@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   U
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true false L12673932337
+true false L12676607092
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena834 SERVER NAME :->. prod-l2-com-83401 TIME :->. Mon Jun 16 04:11:51 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena721 SERVER NAME :->. prod-l1-com-72101 TIME :->. Tue Jun 17 11:54:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,15 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Held over, today only! Ends June 16. $ Code: DAY4DAD, % Code: POPSDAY
-
-$20 Off\* $75 or more.
-
-Apparel, shoes, accessories, fine jewelry and home.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. shop beddingHome Savings
+shop beddingHome Savings
 
 Online only. Ends June 18.
 
@@ -63,15 +55,7 @@ With Code: HOMECPN
 
 30% Off\* kitchen and dining and all home decor.
 
-\*See exclusions and details. shop home 40-50% Off Select A.N.A shop A.N.A $40 Select Men's Levi's™
-
-Excluded from coupon.
-
-shop men's Levi's™ $45 Select Men's Athletic Shoes
-
-Excluded from coupon.
-
-shop men's athletic shoes 25% Off Select Bras When You Buy 2 Or More shop bras 35-50% Off Select Carter's shop Carter's 40% Off\* Patio Furniture shop patio furniture
+\*See exclusions and details. shop home 40-50% Off Select A.N.A shop A.N.A $40 Select Men's Levi's™ shop men's Levi's™ $45 Select Men's Athletic Shoes shop men's athletic shoes 25% Off Select Bras When You Buy 2 Or More shop bras 35-50% Off Select Carter's shop Carter's 40% Off\* Patio Furniture shop patio furniture
 
 Code: HOMECPN
 
