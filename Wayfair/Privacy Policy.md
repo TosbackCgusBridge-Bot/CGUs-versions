@@ -6,7 +6,7 @@ This Privacy Policy ("Privacy Policy") is designed to help you understand how Wa
 
 Before submitting information to the Service, please review this Privacy Policy carefully. By using or accessing the Service, you accept the practices described in this Privacy Policy. If you prefer that we not collect and process information about you, please do not provide it to us and do not access the Service.
 
-We do not knowingly collect any Personal Information from children under 13. Where any such information is inadvertently collected, we will delete the information as soon as possible. If you believe a child under 13 has provided us with Personal Information, please contact us at legal@wayfair.com.
+We do not knowingly collect any Personal Information from children under 13. Where any such information is inadvertently collected, we will delete the information as soon as possible. If you believe a child under 13 has provided us with Personal Information, please contact us here.
 
 Information We Collect
 
@@ -21,7 +21,7 @@ If you register to use the Service, we may collect Personal Information includin
 
 You may also register for the Service using another service, such as Facebook. If you create your Wayfair account by connecting through another service, you are authorizing us to use public information from that connected account to help complete your Wayfair profile. Please remember that the manner in which the service uses, stores, and discloses your information is governed solely by the policies of such service. We recommend that you review the terms and policies of that service, including its privacy and data gathering practices. Wayfair shall have no liability or responsibility for the privacy practices or other actions of any third party service provider or any other third-party site or service that may be enabled within the Service.
 
-You may review, update, or modify your account information, including profile and contact information, at any time by logging into your Wayfair account. You may also permanently delete your account by contacting us at legal@wayfair.com.
+You may review, update, or modify your account information, including profile and contact information, at any time by logging into your Wayfair account. You may also permanently delete your account by contacting us here.
 
 Online Identification Tools
 
@@ -80,11 +80,11 @@ Information Sharing for Marketing Purposes
 
 To provide you with information about products and services that may be useful to you, we may partner with select reputable organizations whose privacy policies we believe are consistent with ours. Such organizations may include other retailers and magazine publishers. Through these arrangements, we may share, exchange, cross-reference and/or rent your name and mailing address.
 
-If you do not want us to share your Personal Information with third parties for marketing purposes, please contact us at legal@wayfair.com. Immediately after your request has been processed, your information will no longer be shared with any third party for marketing purposes.
+If you do not want us to share your Personal Information with third parties for marketing purposes, please contact us here. Immediately after your request has been processed, your information will no longer be shared with any third party for marketing purposes.
 
 Blogs, Reviews and Forums
 
-The Service also may from time to time offer publicly-accessible blogs, customer reviews or forums. Any information you provide in these areas may be read, collected and used by others who access them. To request removal of your Personal Information from blogs, customer reviews or forums, please contact us at legal@wayfair.com. Please note that in some cases we may be unable to remove your Personal Information.
+The Service also may from time to time offer publicly-accessible blogs, customer reviews or forums. Any information you provide in these areas may be read, collected and used by others who access them. To request removal of your Personal Information from blogs, customer reviews or forums, please contact us here. Please note that in some cases we may be unable to remove your Personal Information.
 
 Inviting Others
 
@@ -98,7 +98,7 @@ Accessing and Updating Your Personal Information and Preferences
 
 Modifying or Deleting Your Personal Information
 
-If you would like to modify or delete your Personal Information, please send an email to legal@wayfair.com with clear instructions in the body of the email about what you would like to modified or deleted. We will respond to your request promptly.
+If you would like to modify or delete your Personal Information, please contact us here with clear instructions about what you would like to be modified or deleted. We will respond to your request promptly.
 
 Changing Your Subscription Preferences
 
@@ -110,7 +110,7 @@ Information for Visitors From California and Outside of the United States
 
 California Residents
 
-California law permits individuals who provide Wayfair with Personal Information and who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To request this information, please send an email to legal@wayfair.com.
+California law permits individuals who provide Wayfair with Personal Information and who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To request this information, please contact us here.
 
 Visitors from Outside of the United States
 
@@ -124,7 +124,7 @@ When you send or otherwise transmit your sensitive information (such as your cre
 
 Please understand, however, that it is possible for third parties to access information despite our efforts. Without limiting the terms of our Terms of Use and this Privacy Policy, you understand that we do not guarantee that your use of the Site and/or information provided by you will be private or secure and we are not responsible or liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Site. You also understand that any information provided by you or collected by us or our agents in connection with your use of the Site will be used in the manner described in our Terms of Use. Please do not use the Site if you do not agree to the terms and conditions described in this Information Security section.
 
-If you have any questions about security of the Site, please email us at legal@wayfair.com.
+If you have any questions about security of the Site, please contact us here.
 
 Changes to our Privacy Policy
 
@@ -132,7 +132,7 @@ We may occasionally update this Privacy Policy to reflect changes in our practic
 
 Questions About our Privacy Policy
 
-If you have questions about this Privacy Policy or Wayfair generally, please contact us at legal@wayfair.com. You can also send us physical mail to:
+If you have questions about this Privacy Policy or Wayfair generally, please contact us here. You can also send us physical mail to:
 
 Wayfair LLC  
 Attention: Legal Department  
@@ -251,7 +251,7 @@ Termination
 
 Your ability to access and use the Sites remains in effect until terminated in accordance with these Terms of Use. You agree that Wayfair, in its sole discretion, may terminate your account and your use of the Sites and may remove and delete your User Content if Wayfair believes that you have violated or acted inconsistently with these Terms of Use or for any other reason. Wayfair also may in its sole discretion and at any time discontinue providing the Sites, or any part thereof, with or without notice. You agree that any termination of your access to the Sites may be effected without prior notice and you acknowledge and agree that Wayfair may bar any further access to the Sites. Further, you agree that Wayfair will not be liable to you or any third-party for any termination of access to the Sites.
 
-You may terminate your account by sending a letter stating your intention to Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115 Att:Service or an email to service@Wayfair.com, with the subject line "Termination Request".
+You may terminate your account by sending a letter stating your intention to Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115 Att:Service or an email to service@wayfair.com, with the subject line "Termination Request".
 
 The provisions of the Intellectual Property Rights, User-Generated Content, Acceptable Use Policy, Disclaimer of Warranties, Indemnity, Limitation of Liability, Legal Dispute sections, together with and any other rights and obligations which by their nature are reasonably intended to survive such termination, will survive any termination of these Terms of Use.
 
@@ -275,11 +275,11 @@ No waiver of any provision or any breach of this Agreement will constitute a wai
 
 Violations
 
-Please report any violations of these Terms of Use to the system administrator at legal@wayfair.com.
+Please report any violations of these Terms of Use to the system administrator here.
 
 Questions?
 
-If you have questions, comments or complaints about these Terms or the Sites, please contact us at legal@wayfair.com (with the subject line "Questions about the Sites").
+If you have questions, comments or complaints about these Terms or the Sites, please contact us here. (please reference "Questions about the Sites").
 
 Wayfair's Copyright Policy
 
@@ -306,7 +306,7 @@ Wayfair Copyright Agent
 Attn: Legal  
 177 Huntington Avenue, Suite 6000  
 Boston, MA 02115  
-Email: legal@wayfair.com (with the subject line "Wayfair DMCA Notice")
+Email: Email Us. (please reference "Wayfair DMCA Notice")
 
 If you fail to comply with all of the above requirements, your DMCA Notice will not be valid. Please note that you may be liable for damages, including court costs and attorneys' fees, if you materially misrepresent that materials on the Site are infringing a copyright.
 
@@ -327,7 +327,7 @@ Wayfair Copyright Agent
 Attn: Legal  
 177 Huntington Avenue, Suite 6000  
 Boston, MA 02115  
-Email: legal@wayfair.com (with the subject line "Wayfair DMCA Notice")
+Email: Email Us. (please reference "Wayfair DMCA Notice")
 
 Upon receipt of a counter notice, Wayfair's Copyright Agent may send a copy of it to the original complaining party informing that party that Wayfair may replace the removed content or cease disabling it. Unless the copyright owner files an action seeking a court order against Wayfair, the removed content may be replaced or access to it restored by Wayfair.
 
@@ -374,7 +374,7 @@ Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Sh
 
 **Rewards Dollars Balance** Members can check the Rewards Dollars balance in their accounts at any time by logging in at My Account. A valid email address and password are required to view the Rewards Dollars balance in an account. Wayfair is not liable for any failure, delay or error in crediting Rewards Dollars to an account. Each Member is responsible for any and all activity occurring in or through his/her account, including the redemption of Rewards Dollars, whether or not the activity was authorized.
 
-**Expiration** If a Member does not make a Rewards-Eligible Purchase or use his/her Rewards Dollars during the applicable Redemption Period (see above), Wayfair will zero out any and all Rewards Dollars. A member may cancel out their Rewards Dollars Balance by calling 877-WAYFAIR (877-929-3247) and/or sending an email to service@Wayfair.com, but Members recognized on any of the Participating Sites are unable to opt-out of the program.
+**Expiration** If a Member does not make a Rewards-Eligible Purchase or use his/her Rewards Dollars during the applicable Redemption Period (see above), Wayfair will zero out any and all Rewards Dollars. A member may cancel out their Rewards Dollars Balance by calling 877-WAYFAIR (877-929-3247) and/or sending an email to service@wayfair.com, but Members recognized on any of the Participating Sites are unable to opt-out of the program.
 
 **Non-Transferability and Non-Aggregation of Rewards Dollars** Rewards Dollars and any other right, obligation or benefit of the Rewards Program may not be transferred, assigned, sold, traded or bartered by any Member or any other person, without Wayfair's prior written consent, which Wayfair may withhold in its sole discretion, and any attempt to do any of the foregoing shall be null and void. In addition, Rewards Dollars are for the Member's personal use only. Members may not aggregate Rewards Dollars from multiple accounts or use Rewards Dollars for the purpose of purchasing products from the Participating Sites on behalf of others or for the purpose of reselling such products to others.
 
