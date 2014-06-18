@@ -1,4 +1,4 @@
-Updated August 2013
+Updated June 2014
 
 **Ziff Davis, LLC. Privacy Policy**
 
@@ -111,6 +111,14 @@ _Links to Other Sites._ Ziff Davis web site may contain links to other sites who
 _Compliance with Law and Other Terms._ Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our **Terms of Use** or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
 
 _International._ Ziff Davis operates websites in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
+
+**_California Residents_** In accordance with the Online Privacy Protection Act (“CalOPPA”), we may collect Personal Information about your online activities when you use our sites. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals, in accordance with California Business &. Professions Code Section 22575. If you wish for us to refrain from gathering your Personal Information, please see our section on **How to Change or Control What Is Collected** .
+
+California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any personal information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request, please submit your request in writing to:
+
+Ziff Davis Legal Department  
+28 East 28th Street  
+New York, NY 10016  
 
 **Please visit our** **Terms of Use** **page for more information concerning your use of Ziff Davis websites and other services. The** **Terms of Use** **are incorporated by reference into this Privacy Policy.**
 
