@@ -2,7 +2,7 @@ Privacy policy
 
 This policy was last updated on **February 27, 2014**.
 
-This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, BetaBoston.com, BDCwire.com our mobile messaging services and smartphone applications (collectively, the “Services”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Boston Globe” include Boston.com, BDCwire.com, BetaBoston.com, BostonGlobe.com (the “Web Sites”) as well as The Boston Globe newspaper and Boston Globe Services.
+This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, BetaBoston.com, BDCwire.com, and our mobile messaging services, and smartphone applications (collectively, the “Services”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Boston Globe” include Boston.com, BDCwire.com, BetaBoston.com, BostonGlobe.com (the “Web Sites”) as well as The Boston Globe newspaper and Boston Globe Services.
 
 The Boston Globe has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on www.boston.com, www.bostonglobe.com and www.bostonglobe.com/services. If you have questions or complaints regarding our privacy policy or practices, please contact us at feedback@boston.com. If you are not satisfied with our response you can contact TRUSTe here.
 
@@ -70,7 +70,7 @@ Social Media Features and Widgets: Our Web Sites includes Social Media Features,
 
 **Market Research and User Surveys**: Reader surveys and market research are valuable tools that help us better respond to consumer needs and opinions and help shape our product offerings. We may collect additional personal information from members in connection with optional reader surveys and market research activities. Information that you provide to answer optional survey or market research questions may be shared, in aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
 
-**Jobs, Cars, and Real Estate:** While you are visiting certain sections of our Web Sites, please be aware that these areas are run by third parties. For instance if you are searching for a job you will be directed to use the monster.com Web site, which is framed within the boston.com jobs section. All information collected in these areas is covered by the privacy policies of such third parties. Boston.com has no access or control over the information collected.
+**Jobs, Cars, and Real Estate:** While you are visiting certain sections of our Web Sites, please be aware that these areas are run by third parties. For instance if you are searching for a job you will be directed to use the monster.com Web site, which is framed within the Boston.com jobs section. All information collected in these areas is covered by the privacy policies of such third parties. Boston.com has no access or control over the information collected.
 
 _**Non-Personal Information Collected Using Technology**_
 
@@ -80,7 +80,7 @@ _**Non-Personal Information Collected Using Technology**_
 
 We use a commercial advertising server to display ads on our sites and we use cookies to manage the display and frequency of advertisements that we sell and/or serve.
 
-We also reserve the right to place a New York Times Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.
+We also reserve the right to place a cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.
 
 We use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
