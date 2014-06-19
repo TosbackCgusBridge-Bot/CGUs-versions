@@ -49,12 +49,12 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 We welcome your feedback on this document in our feedback forum.
 
 *   © 2014 craigslistCL
-*   help
-*   safety
-*   privacy
-*   feedback
-*   cl jobs
-*   terms
-*   about
+*   ayuda
+*   Seguridad
+*   privacidad
+*   opinión
+*   Trs CL
+*   condiciones
+*   acerca de
 *   mobile
 *   desktop
