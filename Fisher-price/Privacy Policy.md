@@ -7,23 +7,22 @@
     *   Brand Dora the Explorer
     *   Category Babygear Baby Toys Battery Powered Ride-Ons Digital Play Dollhouses &. Dolls Learning Toys Playsets with Figures Sports &. Outdoor Toys Toy Cars, Trucks &. Vehicles Train Sets View All >.
     
-*   *   Gear, toys, and more essentials for baby
+*   *   Gear, toys, and parenting tips for baby's first year
     
-*   *   Playtime Guide
+*   *   Age-by-Age Playtime Guide
     *   Sharing Moments of Joy
     *   Parenting Topics
     *   For Grandparents
-    *   Fisher-Price Family Email Program
+    *   Email Newsletter Sign-up
     
 *   *   Online Games
-    *   Crafts
-    *   Coloring Pages
+    *   Apps for Kids
     *   Online Videos
+    *   Print &. Color Pages
+    *   Crafts
     *   Birthday Party Ideas
-    *   Fisher-Price Apps
     
 *   *   Our Online Store
-    *   Find a Retailer
     *   F-P Music Store
     *   Special Offers
     
@@ -75,8 +74,7 @@
 *   Got Ideas?  
     We're Listening!
 
-Fisher-Price Terms and Conditions (UPDATED)
-
+*   Fisher-Price Terms and Conditions (UPDATED) |
 *   Privacy Statement (NEW) |
 *   © 2014 Mattel. All Rights Reserved.
 
