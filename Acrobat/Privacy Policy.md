@@ -1,8 +1,6 @@
-Last updated: December 20, 2013  
+Last updated: June 18, 2014  
 
-**What’s Updated?** We explained that we may use certain information collected from customers to better understand why our customers use (or stop using) Adobe applications. We also clarified when changes or updates to the Privacy Center become effective. Finally, we updated the description of the privacy programs in which Adobe participates.
-
-The Adobe Privacy Policy describes the privacy practices of Adobe’s websites, products, online services, and apps.
+The Adobe Privacy Policy describes the privacy practices of Adobe’s websites, products, online services, and apps. If you are a resident of North America, your relationship is with Adobe Systems Incorporated, a United States company, and the laws of California and the laws of the United States apply. If you reside outside North America, your relationship is with Adobe Systems Software Ireland Limited, which is the controller with regard to your personal information, and the laws of Ireland apply.
 
 Jump to:
 
@@ -32,7 +30,7 @@ To the top What information does Adobe collect about me?
 When you register to use an Adobe website or application, create an Adobe ID, or contact us for support or other offerings, Adobe collects information that identifies you. This may include your name, company name, email address, or payment information. We may also sometimes collect other information that does not identify you, such as your job title or industry. Some of this information is required and other information is optional (more information about what specific Adobe websites and applications collect). For student and teacher editions of our applications, information regarding your eligibility is required. To help keep our databases current and to provide you the most relevant content and experiences, we may combine information from you with information from public sources and our trusted partners, in accordance with applicable law. For example, from these sources, we may learn the company size and industry of our business customers.
 
 **Adobe websites and applications**  
-We collect information about how you use our websites and applications, including when you use a desktop product feature that takes you online (such as a photo syncing feature). We may collect information that your browser or device typically sends to our servers whenever you visit an Adobe website, or when an Adobe desktop product feature takes you online. For example, your browser or device may tell us your IP address (which may tell us generally where you are located) and the type of browser and device you used. When you visit an Adobe website, your browser may also tell us information such as the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website. Adobe may collect information about how you use our websites and applications by using cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous (for example, see the Adobe Product Improvement Program) or it may be associated with you. Learn more about the information that specific Adobe websites or applications may collect. Learn about your privacy choices regarding how we use this information.
+We collect information about how you use our websites and applications, including when you use a desktop product feature that takes you online (such as a photo syncing feature). We may collect information that your browser or device typically sends to our servers whenever you visit an Adobe website, or when an Adobe desktop product feature takes you online. For example, your browser or device may tell us your IP address (which may tell us generally where you are located) and the type of browser and device you used. When you visit an Adobe website, your browser may also tell us information such as the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website. Adobe may collect information about how you use our websites and applications by using cookies and similar technologies, and our servers may collect similar information when you are logged in to the website or application. Depending on the website or application, this information may be anonymous (for example, see the Adobe Product Improvement Program) or it may be associated with you (for example, see the Creative Cloud FAQ). Learn more about the information that specific Adobe websites or applications may collect. Learn about your privacy choices regarding how we use this information.
 
 **Adobe product activation and automatic updates**  
 When you activate your Adobe product, we collect certain information about your device, the Adobe product, and your product serial number (learn more). Some of our products include features that connect to our servers and offer you the ability to install updates to the product. We may keep track of information such as whether the update was successful or not.
@@ -83,7 +81,7 @@ Adobe works with companies that help us run our business. These companies provid
 Adobe may also share your personal information:
 
 *   When you agreed to the sharing.
-*   Within the Adobe family of companies for purposes described in this privacy policy.  
+*   Within the Adobe family of companies for purposes described in this privacy policy (see a list of Adobe entities and our acquired companies).  
     
 *   With our resellers and other sales partners if you are a business customer and agreed to receive Adobe marketing communications. Note that we do not share personal information about consumers with third parties for their own marketing purposes unless the consumer agreed to that sharing.
 *   When we are required to provide information in response to a subpoena, court order, or other applicable law or legal process (learn more).
@@ -105,11 +103,11 @@ We understand that the security of your personal information is important. We pr
 
 To the top Where does Adobe store my personal information?
 
-Your personal information and data files are stored on Adobe’s servers and the servers of companies we hire to provide services to us. Your personal information may be transferred across national borders because we have servers located worldwide and the companies we hire to help us run our business are located in different countries around the world. For more information, please see Adobe’s Safe Harbor policy.
+Your personal information and data files are stored on Adobe’s servers and the servers of companies we hire to provide services to us. Your personal information may be transferred across national borders because we have servers located worldwide and the companies we hire to help us run our business are located in different countries around the world (for example, Argentina, Australia, India, Ireland, Singapore, the Philippines, the United Kingdom, and the United States). For more information about transfers of personal information from the European Economic Area (the EEA) and Switzerland to the United States, please see Adobe’s Safe Harbor policy.
 
 To the top How can I review or update my personal information or close my Adobe ID account?
 
-Many of our websites and applications allow you to edit your personal information by accessing the "my account," "my profile," or similar feature of the website or application you are using.
+Under the law of some countries, you may have certain rights to access, correct, or delete your personal information. Many of our websites and applications allow you to edit your personal information by accessing the "my account," "my profile," or similar feature of the website or application you are using.
 
 If you want to request a deletion of your Adobe ID account, please email your request to privacy@adobe.com. Note that we need to retain certain records for legal or internal business reasons (such as fraud prevention). Some of your information may remain on backup systems, in compliance with applicable law.
 
