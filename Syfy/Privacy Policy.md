@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Spartacus: Blood and Sand - Premiering Thursd ... Spartacus: Blood and Sand - Premiering Thursday June 26th at 10/9c.
+Syfy Video Syfy Original Movie - Snakehead Swamp Syfy Original Movie - Snakehead Swamp
+
+Catch the Syfy Original Movie, Snakehead Swamp, Saturday June 28th at 9/8c.
+
+Spartacus: Blood and Sand - Premiering Thursd ... Spartacus: Blood and Sand - Premiering Thursday June 26th at 10/9c.
 
 Check out Spartacus: Blood and Sand, premiering Thursday June 26th at 10/9c.
 
@@ -262,10 +266,6 @@ Sharknado 2: The Second One airs July 30th at 9/8c.
 Ascension - Trailer Ascension - Trailer
 
 A long-lead, conceptual tease for Ascension, coming in November from Syfy
-
-Exclusive: Clark Gregg on Trust Me, Agents of ... Exclusive: Clark Gregg on Trust Me, Agents of SHIELD &. Ant Man
-
-Clark Gregg talks to us about his new movie Trust Me, Agent Coulson coming back to Marvel movies and Ant man! Trust Me comes out in select theaters June 6 and available on demand now.
 
 *   FAQ
 *   Feedback
