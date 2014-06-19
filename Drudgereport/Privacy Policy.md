@@ -122,6 +122,12 @@ For the privacy policies for each of our Portfolio publishers, please visit thei
 RETURN TO TOP
 
   
+Ready to Buy?
+
+Build your own campaign with the Intermarkets Self-Service Ad Platform.
+
+Get Started
+
 Request for Proposal
 
 We’ll deliver your message to the appropriate department.
@@ -133,12 +139,6 @@ Questions?
 We’ll deliver your message to the appropriate department.
 
 Contact Us
-
-Ready to Buy?
-
-Build your own campaign with the Intermarkets Self-Service Ad Platform.
-
-Get Started
 
   
 Advertisers
