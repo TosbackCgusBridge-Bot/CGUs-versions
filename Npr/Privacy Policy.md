@@ -289,7 +289,7 @@ Support The Programs You Love
     *   Blogs
     *   Help
 
-©2014 NPR
+© 2014 NPR
 
 *   Help
 *   Contact
