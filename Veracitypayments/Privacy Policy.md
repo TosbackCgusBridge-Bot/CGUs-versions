@@ -19,13 +19,13 @@ Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank,
 *   Customer Care
 *   Careers
 
-What’s better than a word-of-mouth recommendation? A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual will continue to come back, because he or she is anxious to reap the benefits of your loyalty card program. Gift cards and loyalty cards, whether physical or virtual, earn the same thing: Extra business and recognition for your organization. Featured Posts From the Veracity Blog The Many Ways Your Business Can Benefit from Gift Card ProgramsMarch 30, 2013
+What’s better than a word-of-mouth recommendation? A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual will continue to come back, because he or she is anxious to reap the benefits of your loyalty card program. Gift cards and loyalty cards, whether physical or virtual, earn the same thing: Extra business and recognition for your organization. Featured Posts From the Veracity Blog 12 Ways to Add Value for Loyal CustomersJune 9, 2014
 
-What’s better than a word-of-mouth recommendation? A happy customer physically handing your business to another person in the form of a gift card. And what’s better than a customer’s return visit to your business or website? Knowing that same individual … Continue reading →
+It could be a punch card at the local coffee shop or an exciting air miles program that takes you to a dream destination, but regardless, when most people think of loyalty programs, they think a of a simple, one-for-one … Continue reading →
 
-The Simple Secret to Implementing Loyalty ProgramsMarch 29, 2013
+Never Underestimate the Value of Customer RetentionJune 5, 2014
 
-“Handling gift cards and loyalty programs is a natural extension of the whole business of transacting, from both the customer and merchant perspectives,” says Rick Caldarella, vice president of product management at Veracity Payment Services. That’s why Veracity offers a … Continue reading →
+A March 2014 study conducted by Manta and Dell found that U.S. small business owners have gotten the message about customer retention. According to the study, SBOs value repeat customers even over their first profitable year — and for good … Continue reading →
 
 View Veracity Blog Product Highlights
 
