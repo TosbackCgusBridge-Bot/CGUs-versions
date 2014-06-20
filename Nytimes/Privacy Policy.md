@@ -7,7 +7,7 @@
     All print options include free, unlimited access to NYTimes.com and NYTimes apps.
     
     Get Home Delivery
-*   Help
+Subscribe campaign: nyt2014\_bar1\_digihd\_2p\_merged\_4876L\_4876R\_4876W -- 250629, creative: nyt2014\_bar1\_BAU\_2p\_merged\_4876L\_4876R\_4876W -- 376502, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
 
 *   Home Page
 *   Today's Paper
