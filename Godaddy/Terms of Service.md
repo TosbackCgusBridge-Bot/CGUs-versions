@@ -63,7 +63,7 @@ You acknowledge and agree that:
 8.  You will not re-sell or provide the Services for a commercial purpose, including any of Go Daddy’s related technologies, without Go Daddy's express prior written consent.
 9.  You agree to provide government-issued photo identification and/or government-issued business identification as required for verification of identity when requested.
     
-10.  You are aware that Go Daddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you do not have any reasonable expectation of privacy during those calls. indeed you hereby consent to allow Go Daddy, in its sole discretion, to record the entirety of such calls regardless of whether Go Daddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted in evidence any legal proceeding in which Go Daddy is a party.
+10.  You are aware that Go Daddy may from time-to-time call you about your account, and that, for the purposes of any and all such call(s), you do not have any reasonable expectation of privacy during those calls. indeed you hereby consent to allow Go Daddy, in its sole discretion, to record the entirety of such calls regardless of whether Go Daddy asks you on any particular call for consent to record such call.  You further acknowledge and agree that, to the extent permitted by applicable law, any such recording(s) may be submitted as evidence in any legal proceeding in which Go Daddy is a party.
     
 
 Go Daddy reserves the right to modify, change, or discontinue any aspect of this Site or the Services, including without limitation prices and fees for the same, at any time.
