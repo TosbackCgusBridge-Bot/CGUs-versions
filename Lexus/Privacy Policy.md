@@ -31,7 +31,13 @@ Financial Services Explore financing and apply for credit Accessories Genuine ac
     
 *   Find a dealer
     
-*   Owner's resources
+*   Certified Pre-Owned
+    
+*   Contact us
+    
+*   Lexus Drivers
+    
+*   Lexus Financial Services
     
 
 *   Sedans
