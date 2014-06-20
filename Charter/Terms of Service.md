@@ -26,7 +26,6 @@ The links below provide you access to Charter's policies &. agreements.
 *   Vermont 2013 Annual Notice (PDF)
 *   2013 Annual Notice (PDF)
 *   Espanol 2013 Annual Notice (PDF)
-*   Charter Passport Sweepstakes Official Rules (PDF)
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
 *   "Power Your Biz Sweepstakes" Official Rules
