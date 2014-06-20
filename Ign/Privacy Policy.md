@@ -1,6 +1,6 @@
 Home Page Contact Follow Updated June 2014 California residents/Information on CalOPPA Ziff Davis, LLC. Privacy Policy
 
-**Ziff Davis, Inc. Privacy Policy**
+**Ziff Davis, LLC. Privacy Policy**
 
 This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
