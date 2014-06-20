@@ -192,9 +192,9 @@ Lenovo United States Select a country/region
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   FATHER'S DAY DEALS Save up to 41%
+    *   SUMMER SAVINGS Save up to 41%
         
-        on select home PCs through June 18.
+        on select home PCs through June 25.
         
         **Shop now >**
     *   Discover Yoga One Device.
@@ -202,9 +202,9 @@ Lenovo United States Select a country/region
         Multiple Possibilities.
         
         **Shop now >**
-    *   Lenovo Y510p Level Up
+    *   Lenovo Y50 Boldly Designed.
         
-        with epic gaming features.
+        Fierecely Entertaining. Unparalleled Visuals
         
         **Shop now >**
     
@@ -239,9 +239,9 @@ Lenovo United States Select a country/region
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   FATHER'S DAY DEALS Save up to 26%
+    *   SUMMER SAVINGS Save up to 24%
         
-        on select home tablets through June 18.
+        on select home tablets through June 25.
         
         **Shop now >**
     *   Discover Yoga One Device.
@@ -282,9 +282,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   FATHER'S DAY DEALS Save up to 26%
+    *   SUMMER SAVINGS Save up to 26%
         
-        on select home desktps through June 18.
+        on select home desktps through June 25.
         
         **Shop now >**
     *   Lenovo Q190
@@ -374,14 +374,14 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   NOTEBOOK STAND Save 52%
+    *   MULTIMEDIA REMOTE Save 52%
         
-        Lift and tilt your laptop to eye level.
+        Pocket-sized keyboard and mouse in one device.
         
         **Shop now >**
-    *   SMART TOUCH MOUSE Save 47%
+    *   LENOVO HEADSET Save 55%
         
-        For an enhanced Windows 8 experience.
+        Enhance your multimedia experience with a powerful bass.
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
