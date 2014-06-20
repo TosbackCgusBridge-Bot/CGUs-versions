@@ -77,28 +77,23 @@ You agree You are entirely responsible for maintaining the confidentiality of Yo
 2.  Resolve any and all third party claims, whether threatened or made, arising out of Your use of a domain name for which DBP is the registrant listed in the "Whois" directory on Your behalf. or
 3.  Take any other action DBP deems necessary:  
     A. In the event you breach any provision of this Agreement or the DBP Anti-Spam Policy.  
-    B. To protect the integrity and stability of the applicable domain name Registry.  
-    C. To comply with any applicable laws, government rules or requirements, subpoenas, court orders or requests of law enforcement.  
+    B. To protect the integrity and stability of, and to comply with registration requirements, terms, conditions and policies of, the applicable domain name Registry and/or Registry Provider;
+    
+    C. To comply with any applicable laws, government rules or requirements, subpoenas, court orders or requests of law enforcement; 
+    
     D. To comply with ICANN's Dispute Resolution Policy.  
     E. To avoid any financial loss or legal liability (civil or criminal) on the part of DBP, its parent companies, subsidiaries, affiliates, shareholders, agents, officers, directors and employees.  
     F. If the domain name for which DBP is the registrant on Your behalf violates or infringes a third party's trademark, trade name or other legal rights. and  
     G. If it comes to DBP's attention that You are using DBP's services for purposes of engaging in, participating in, sponsoring or hiding Your involvement in, illegal or morally objectionable activities, including but not limited to, activities which are designed, intended to or otherwise:
     
-    1\. Appeal purely to the prurient interests of third parties;
-    
-    2\. Defame, embarrass, harm, abuse, threaten, or harass third parties;
-    
-    3\. Violate state, federal or international law;
-    
-    4\. Involve hate crimes, terrorism and child pornography;
-    
-    5\. Are tortious, vulgar, obscene, invasive of a third party's privacy, racially, ethnically, or otherwise objectionable;
-    
-    6\. Impersonate the identity of a third party;
-    
-    7\. Harm minors in any way. or
-    
-    8\. Relate to or transmit viruses, Trojan Horses, access codes, backdoors, worms, timebombs or any other code, routine, mechanism, device or item that corrupts, damages, impairs, interferes with, intercepts or misappropriates any software, hardware, firmware, network, system, data or personally identifiable information.
+    > 1\. Appeal purely to the prurient interests of third parties;  
+    > 2\. Defame, embarrass, harm, abuse, threaten, or harass third parties;  
+    > 3\. Violate state, federal or international law;  
+    > 4\. Involve hate crimes, terrorism and child pornography;  
+    > 5\. Are tortious, vulgar, obscene, invasive of a third party's privacy, racially, ethnically, or otherwise objectionable;  
+    > 6\. Impersonate the identity of a third party;  
+    > 7\. Harm minors in any way. or  
+    > 8\. Relate to or transmit viruses, Trojan Horses, access codes, backdoors, worms, timebombs or any other code, routine, mechanism, device or item that corrupts, damages, impairs, interferes with, intercepts or misappropriates any software, hardware, firmware, network, system, data or personally identifiable information.
     
 
 You further understand and agree that if DBP is named as a defendant in, or investigated in anticipation of, any legal or administrative proceeding arising out of Your domain name registration or Your use of DBP's services, Your private registration service may be canceled, which means the domain name registration will revert back to You and Your identity will therefore be revealed in the Whois directory as Registrant.
