@@ -23,7 +23,6 @@ Get Your Allergy Alert Mobile App Add Allergy Alerts to Your Website Get Your 2 
 *   Affiliate Login
 
 Advertisement Your trust and privacy is of the greatest importance to Pollen.com. Advertisement  
-Advertisement
 
 Our success depends on our ability to deliver useful and accurate information, and maintain your trust. We will always tell you what information, if any, we collect about you, and how we'll use that information. And, we will always give you the clear choice not to participate in special offers, or have us share your information with our marketing partners.
 
