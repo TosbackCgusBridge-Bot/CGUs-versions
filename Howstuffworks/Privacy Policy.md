@@ -1,11 +1,4 @@
-HowStuffWorks
-
-Search HowStuffWorks and the web
-
-*   Video
-*   Podcasts
-*   Blogs
-*   Quizzes
+SUBSCRIBE
 
 *   Adventure
 *   Animals
@@ -22,17 +15,9 @@ Search HowStuffWorks and the web
 *   Shows
 *   Quizzes
 
-Home >. About Us Privacy Policy
+*   Home
 
-*   Company Info
-*   Advertising
-*   Company Bios
-*   Careers
-*   Awards
-*   Press
-*   Contact Us
-
-  
+Privacy Policy
 
 **Privacy Policy**
 
@@ -235,10 +220,27 @@ Email: hsw\_privacy@infospace.com
 
 Last Updated On: May 30, 2014
 
-newsletter
+Print Cite This! Close  Please copy/paste the following text to properly cite this HowStuffWorks article:  
+  
+"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  20 June 2014. Citation &. Date Feedback More To Explore
 
-Can't get enough HowStuffWorks?  
-**Sign up for our newsletter**
+*   About Us
+*   Our Shows
+
+*   About Us
+    *   About HowStuffWorks
+    *   Awards
+    *   Advertising
+    *   Working for HowStuffWorks
+    *   Freelance Writers: Apply to Write for HowStuffWorks
+*   Our Shows
+    *   Stuff You Should Know
+    *   Stuff to Blow Your Mind
+    *   CarStuff
+    *   Stuff Mom Never Told You
+    *   Fw:Thinking
+
+Don't Miss Stuff You Should Know: Demystifying Your World Stuff Mom Never Told You: All Things Women and Gender Stuff You Missed in History Class: From Treaties to Trains CHECK OUT OUR PODCASTS HOWSTUFFWORKS NEWSLETTER THE LATEST AND GREATEST SUBSCRIBE HOWSTUFFWORKS
 
 *   Adventure
 *   Animals
@@ -251,95 +253,43 @@ Can't get enough HowStuffWorks?
 *   Money
 *   Science
 *   Tech
-*   Video
-*   Shows
+
+MORE STUFF
+
+*   Blogs
+*   HSW Tools
+*   RSS
+*   Maps
+*   Podcasts
 *   Quizzes
+*   Newsletters
+*   Video
+*   HSW Brazil
+*   HSW China
 
-*   HOWSTUFFWORKS
-    
-    Adventure
-    
-    Animals
-    
-    Auto
-    
-    Culture
-    
-    Entertainment
-    
-    Health
-    
-    Home &. Garden
-    
-    Lifestyle
-    
-    Money
-    
-    Science
-    
-    Tech
-    
-*   MORE STUFF
-    
-    Blogs
-    
-    HSW Tools
-    
-    RSS
-    
-    Maps
-    
-    Podcasts
-    
-    Quizzes
-    
-    Newsletters
-    
-    Video
-    
-    HSW Brazil
-    
-    HSW China
-    
-*   STUFF WEBSITES
-    
-    BrainStuff
-    
-    CarStuff
-    
-    Fw:Thinking
-    
-    Stuff Mom Never Told You
-    
-    Stuff of Genius
-    
-    Stuff They Don't Want You to Know
-    
-    Stuff to Blow Your Mind
-    
-    Stuff You Missed in History Class
-    
-    Stuff You Should Know
-    
-*   CUSTOMER SERVICE
-    
-    Advertising
-    
-    Contact Us
-    
-    Help
-    
-*   CORPORATE
-    
-    About Us
-    
-    Careers @ HSW
-    
-    Privacy Policy
-    
-    Visitor Agreement
-    
+STUFF WEBSITES
 
-Copyright © 1998-2014 HowStuffWorks, a division of InfoSpace LLC
+*   BrainStuff
+*   CarStuff
+*   Fw:Thinking
+*   Stuff Mom Never Told You
+*   Stuff of Genius
+*   Stuff They Don't Want You to Know
+*   Stuff to Blow Your Mind
+*   Stuff You Missed in History Class
+*   Stuff You Should Know
 
-HowStuffWorks.com CONTENT HowStuffWorks Web Slice 15
+CUSTOMER SERVICE
+
+*   Advertising
+*   Contact Us
+*   Help
+
+CORPORATE
+
+*   About Us
+*   Careers @ HSW
+*   Privacy Policy
+*   Visitor Agreement
+
+TAKE US WITH YOU FOLLOW US Copyright © 1998-2014 HowStuffWorks, a division of InfoSpace LLC
