@@ -15,12 +15,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Swim Shop
             *   Shoes &. Sandals
             *   Performance Collection
-            *   Canvas Lands' End
+            *   Nautical Favorites
             
             *   New Arrivals
             *   Starfish Collection
             *   Cardigan Shop
-            *   Nautical Favorites
+            *   Swim Guide
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -56,7 +56,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Swim Shop
             *   Shoes
             *   Made to Work
-            *   Canvas Lands' End
+            *   Jeans
             
             *   New Arrivals
             *   Favorite Looks
@@ -91,6 +91,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
+            *   Backpacks &. Lunch Boxes
             *   Swim Shop
             *   Shoes &. Sandals
             *   School Uniforms
