@@ -24,8 +24,8 @@ Stack Exchange may terminate or suspend any and all access to API Services immed
 
   
 
-about blog legal privacy policy contact us feedback always welcome
+about work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2014 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2014.6.18.995
+2014.6.20.1005
