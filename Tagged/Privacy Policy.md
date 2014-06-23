@@ -1,13 +1,8 @@
-Join Tagged now - it's free!
+**Join the Party** anytime, anywhere.
 
-Tagged is a great place to socialize with friends and meet new people.
-
-Make your own profile, share photos, chat, flirt, play games, and have fun!
-
-Sign in to Tagged
-
-*   Connect with Facebook
-*   Connect with Google
+*   Join Tagged
+*   Join with Facebook
+*   Join with Google
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
