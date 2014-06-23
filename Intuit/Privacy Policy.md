@@ -21,9 +21,9 @@
     
 *   ship to
 
-true false L12686111570
+true false L12688309470
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena862 SERVER NAME :->. prod-l1-com-0601 TIME :->. Sat Jun 21 04:07:59 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l2-com-70101 TIME :->. Sun Jun 22 08:03:14 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,45 +43,54 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Appreciation Sale
+*   Summer's Greatest Fits Sale
+    
+    Last Day! Ends June 22.
+    
+    In Store and Online
+    
+    Extra 15% Off\*
+    
+    Online Only
+    
+    Extra 20% Off\* $100 or more.
+    
+    In Store and Online
+    
+    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+    
+    Code: SUMRFUN
+    
+    \*See exclusions and details.
+    
+    Hundreds of awesome finds all under $20!
+    
+    view store ad print store coupon shop finds under $5 shop finds under $10 shop finds under $15 shop finds under $20
+    
+    $4.99 Select Guys' Arizona Tanks
+    
+    shop guys' Arizona tanks
+    
+    $5.99 Okie Dokie Match-ups
+    
+    shop Okie Dokie match-ups
+    
+    $14.99 Worthington Short-Sleeve Shirts
+    
+    shop Worthington short-sleeve shirts
+    
+    $19.99 Liz Claiborne and Diba Sandals
+    
+    shop Liz Claiborn and Diba sandals
+*   Summer's Hottest Home Finds!
+    
+    Get inspired! Fit your space, style and wallet.
+    
+    shop home shop bedding
 
-In store and online.
+40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 30-60% Off Select Swimwear For The Family shop women's swimwear shop swimwear for the family 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40% Off Select Total Girl shop Total Girl Sale $19.99-29.99 Select Women's Sandals shop women's sandals 40-50% Off Select Patio and Outdoor Living shop patio and outdoor living JCP Rewards
 
-Easy, breezy styles that fit your family, and your wallet.
-
-shop the sale view store adIn Store and Online
-
-Extra 15% Off\*
-
-Online Only
-
-Extra 20% Off\* $100 or more.
-
-In Store and Online
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Online Code: SUMRFUN
-
-\*See exclusions and details. print store couponNight and Day Doorbusters
-
-In store only. Friday, June 20 from 3PM until close. Saturday, June 21 from 10AM until 1PM.
-
-Excluded from coupon offer.
-
-view doorbusters store ad Home Sale
-
-Select items.
-
-In Store and Online. Ends June 21.
-
-shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bedding and Bath shop bedding and bath40-50% Off Window shop window shop towels 30-40% Off Select Liz Claiborne shop Liz Claiborne 40-50% Off Select Guys' Arizona shop guys' Arizona $45 Select Men's Athletic Shoes
-
-Excluded from coupon.
-
-shop men's athletic shoes 50% Off Select Kids' Arizona shop kids' Arizona 40-60% Off Select Fine Jewelry shop fine jewelry 25% Off Select Bras When You Buy 2 Or More shop bras JCP Rewards
-
-Shop to earn $10 JCP Rewards
+Shop to earn $10 JCP Rewards.
 
 sign up todayGift Cards
 
