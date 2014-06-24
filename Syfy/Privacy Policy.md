@@ -255,6 +255,10 @@ Syfy Video Syfy Original Movie - Snakehead Swamp Syfy Original Movie - Snakehead
 
 Catch the Syfy Original Movie, Snakehead Swamp, Saturday June 28th at 9/8c.
 
+Ascension - First Look Tease Ascension - First Look Tease
+
+See the first look tease at Ascension coming in November.
+
 Spartacus: Blood and Sand - Premiering Thursd ... Spartacus: Blood and Sand - Premiering Thursday June 26th at 10/9c.
 
 Check out Spartacus: Blood and Sand, premiering Thursday June 26th at 10/9c.
@@ -262,10 +266,6 @@ Check out Spartacus: Blood and Sand, premiering Thursday June 26th at 10/9c.
 Bigger, Bolder, and Even More Ridiculous - Sh ... Bigger, Bolder, and Even More Ridiculous - Sharknado 2: The Second One
 
 Sharknado 2: The Second One airs July 30th at 9/8c.
-
-Ascension - Trailer Ascension - Trailer
-
-A long-lead, conceptual tease for Ascension, coming in November from Syfy
 
 *   FAQ
 *   Feedback
