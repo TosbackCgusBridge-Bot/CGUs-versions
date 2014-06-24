@@ -21,9 +21,9 @@
     
 *   ship to
 
-true false L12688309470
+true false C12555626010
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l2-com-70101 TIME :->. Sun Jun 22 08:03:14 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola701 SERVER NAME :->. prod-c1-com-70101 TIME :->. Mon Jun 23 07:30:27 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,7 +45,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 *   Summer's Greatest Fits Sale
     
-    Last Day! Ends June 22.
+    Held over, ends June 25.
     
     In Store and Online
     
