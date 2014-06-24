@@ -7,8 +7,6 @@ International
 *   Suomi
 *   Svenska
 *   Français
-*   Deutsch
-*   русский
 
 Language: English Forgot your password? Email Password Login Join
 
