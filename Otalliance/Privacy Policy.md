@@ -1,18 +1,83 @@
-  
-**PRIVACY HIGHLIGHTS             PRIVACY POLICY (Full)**  **            POLITICA DE PRIVACIDA**
+Skip to main content Online Trust Alliance
 
-**Updated: 4/29/2014**
+*   Home
+*   Subscribe
+*   Privacy Policy
+*   Contact Us
 
-The Online Trust Alliance, (OTA, Inc) is committed to protecting your privacy and data security.  By accessing the Site https://otalliance.org, you are consenting to the information collection and use practices described in this privacy policy.  For details please read our complete privacy policy.
+   
+
+*   Join OTA
+*   Donate OTA
+
+Enter your keywords  
+
+*   Initiatives
+    *   Brand Protection
+    *   Data Privacy Day
+    *   Identity Theft
+    *   Online Trust Audit &. Honor Roll
+    *   Privacy
+    *   Public Policy
+    *   Security
+*   Resources
+    *   Advertising Integrity &. Fraud
+    *   Data Breach &. Protection
+    *   Email Security &. Integrity
+    *   Malicious Threats
+    *   Web and Mobile Security
+    *   Educational Videos and Webinars
+    *   Glossary
+*   Best Practices
+*   Committees
+*   News &. Events
+    *   OTA In The News
+    *   Newsletters
+    *   Press Releases
+    *   Upcoming Events
+        *   Recent Events
+        *   Events Archive
+*   Membership
+    *   History &. Overview
+    *   Member Levels
+    *   Working Committees
+    *   Donate
+*   About Us
+    *   Members
+    *   Board of Directors
+    *   Non-Governmental Organizations
+    *   Strategic Advisors
+    *   Committees
+    *   Staff
+    *   Careers
+*   Blog
+
+*   Twitter
+*   Linkedin
+*   Facebook
+
+Home › Privacy Policy Privacy Policy Privacy Policy Highlights
+
+**Update May 10, 2014**                                  
+
+Complete Privacy Policy                                   
+
+Politica De Privacida
+
+Online Trust Alliance, (OTA, Inc) is committed to protecting your privacy.  By accessing the Site www.otalliance.org, you are consenting to the information collection and use practices described in this privacy policy.
+
+Online Trust Alliance has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Site www.otalliance.org.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe.
 
 **Collection and Use**  
-We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information. Online Trust Alliance (OTA) may use personal information to provide you with more effective customer service, to improve the https://otalliance.com (Site) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
+We need to collect certain information that personally identifies you in order to contact you, provide a service or carry out a transaction that you have requested, including, but not limited to, name, e-mail address, information about your job or company and credit card information. Online Trust Alliance (OTA) may use personal information to provide you with more effective customer service, to improve the https://otalliance.org (Site) and any related OTA products or services.  We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. \[Learn More\]
 
 **Data Sharing**  
-OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose  \[Learn More\]
+OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose   \[Learn More\] 
 
 **Tracking Technologies**  
-Through the use of ?cookies?, we may collect data on, among other things, the following information: To make it easier to navigate our Site and to optimize the user experience across multiple devices OTA supports the development of a ?do not track? standard. At this time OTA does not respond to DNT mechanisms. Once a standardized "do not track" feature is released, OTA intends to adhere to the browser settings accordingly. \[Learn More\]
+Through the use of “cookies”, we may collect data on, among other things, the following information: To make it easier to navigate our Site and to optimize the user experience across multiple devices OTA supports the development of a “do not track” standard. At this time OTA does not respond to DNT mechanisms. Once a standardized "do not track" feature is released, OTA intends to adhere to the browser settings accordingly. \[Learn More\]
 
 **User Options**  
 Receiving email messages from OTA, is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating and deleting such information.  \[Learn More\]
@@ -21,4 +86,75 @@ Receiving email messages from OTA, is optional and we provide choice options. Us
 We have implemented a number of security features throughout the site that are intended to prevent the unauthorized release of or access to the user information we collect online.  Summary of best practices
 
 **Other Information**  
-The Site is not targeted nor directed to children under the age of thirteen. To contact us, please visit the Contact Us page of the site, email us at admin@otalliance.org or write to us via postal mail at Online Trust Alliance, PO Box 803, Bellevue, WA 98009-0803.
+The Site is not targeted nor directed to children under the age of thirteen. To contact us, please visit the Contact Us page
+
+*   Upcoming Events
+*   News
+
+Wed, Jun 25, 2014 How to Capture Your Customers Creatively with Cross-Channel Communications Factoring in the latest advancements in mobile and cross-channel communications, ContactLab, powered by Message Systems Momentum software, defined a methodology blending technology, marketing services and business intelligence to help clients build effective marketing campaigns using email, SMS and surveys. Wed, Jul 9, 2014 Email Security Bootcamp Training (DKIM, SPF &. DMARC) OTA is offering a full day intensive training including case studies, use cases and best practices for implementing, managing and optimizing email and domain authentication. Training will discuss technical details regarding SPF and DKIM deployment, including outbound and inbound authentication. Attendees will receive a first-hand and pragmatic view of the issues and benefits of implementing and managing authenticated email. Thu, Jul 10, 2014 IoT Privacy Summit – a TRUSTe Powering Trust Event The Internet of Things Privacy Summit provides a platform for the key thinkers, policy makers, and innovators in this area to define the privacy needs of the new inter–connected world and scope out the next generation of solutions. Tue, Aug 26, 2014 OTA Online Trust Forum - AZ Sydney Australia &. Auckland New Zealand - Program will include the release of the "AZ Online Trust Report Card" auditing best practices in consumer facing web sites in New Zealand and Australia. Save the date for details and working agenda. For sponsorship info email admin @ otalliance.org
+
+*   OTA Blog
+*   Newsletters
+
+Mon, Jun 23, 2014 Data Breach Bill Draft Delayed
+
+FTC enforcement has slowed efforts to release a draft of Rep. Lee Terry's data breach bill. Terry has not able to get the consensus he'd hoped for. Republicans have historically strayed away from handing more controls to the FTC, which is pushing for more authority to combat the rising threat of data theft and malvertising.
+
+Wed, Jun 18, 2014 Senate Cybersecurity Information Sharing Bill
+
+Senators from the Senate Intelligence Committee yesterday introduced a draft of a bill meant to remove barriers for private companies to share data with Federal agencies. Senate Intelligence Chairman Dianne Feinstein and ranking member Saxby Chambliss have been working together for over a year to come up with a bill that they believe is both comprehensive enough to remove legal barriers to data sharing, while protecting against legitimate privacy concerns (by requiring the removal of PII and several other measures).
+
+Wed, Jun 11, 2014 2014 Honor Roll - Twitter &. American Greetings Take Top Honors Only 30 Percent of Top Consumer Websites Rated Trustworthy in Online Trust Alliance Report American Greetings, Netflix, Twitter and Walmart Take Top Scores in Security and Privacy for 2014 Online Trust Audit &. Honor Roll. Tue, Jun 10, 2014 U.S. SEC official urges broader cyber-attack disclosure Public companies that are victims of cyber attacks consider disclosing additional information beyond what's required to help protect customers. U.S. Securities and Exchange Commission member Luis Aguilar made his plea to public companies and their boards in a speech at the New York Stock Exchange. "It is possible that a cyber-attack may not have a direct material adverse impact on the company itself, but that a loss of customers' personal and financial data could have devastating effects on the lives of the company's customers and many Americans. Should ad networks who experience malvertising have the same reporting requirements? Resources
+
+*   Advertising Integrity &. Fraud
+*   Data Breach &. Protection
+*   Email Security &. Integrity
+*   Malicious Threats
+*   Web and Mobile Security
+*   Educational Videos and Webinars
+*   Glossary
+
+Initiatives
+
+*   Brand Protection
+*   Data Privacy Day
+*   Identity Theft
+*   Online Trust Audit &. Honor Roll
+*   Privacy
+*   Public Policy
+*   Security
+
+Best Practices Committees News &. Events
+
+*   OTA In The News
+*   Newsletters
+*   Press Releases
+*   Upcoming Events
+    *   Recent Events
+    *   Events Archive
+
+Membership
+
+*   History &. Overview
+*   Member Levels
+*   Working Committees
+*   Donate
+
+About Us
+
+*   Members
+*   Board of Directors
+*   Non-Governmental Organizations
+*   Strategic Advisors
+*   Committees
+*   Staff
+*   Careers
+
+ 
+
+© 2014   Online Trust Alliance
+
+*   Home
+*   Subscribe
+*   Privacy Policy
+*   Contact Us
