@@ -28,9 +28,9 @@ How we use your information:
 
 SUBSCRIBER PRIVACY POLICY
 
-2014 Privacy Policy (English)    2013 Current Privacy Policy (English)   
+2014 Privacy Policy (English)   
 
-2014 Privacy Policy (Spanish)    2013 Current Privacy Policy (Spanish)   
+2014 Privacy Policy (Spanish)   
 
 **Effective as of June 24, 2014, until replaced**
 
