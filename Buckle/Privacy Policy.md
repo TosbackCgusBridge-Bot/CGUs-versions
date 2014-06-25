@@ -1,6 +1,6 @@
-WOMEN’S FLASH TANK SALE!
+Military Guests, thank you for your service.
 
-Select styles 3 for $15 now through 06/24/2014
+10% Military Discount
 
 Guest Services 800-607-9788
 
