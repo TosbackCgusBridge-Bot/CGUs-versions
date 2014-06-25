@@ -52,7 +52,7 @@ We at POPSUGAR Inc. (“POPSUGAR,” “we,” “us,” “our”) know that ou
         
 8.  HOW DOES POPSUGAR USE THIRD-PARTY ONLINE ADVERTISING?
     
-    Some of the advertisements you see on our Website or on emails we deliver to you are delivered by Advertisers who collect non-personally identifiable information about your online activities with the emails we send and/or our Website through the use of cookies, web beacons, and other technologies, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These Advertisers may include, but are not limited to, BlueKai, Brightroll, Criteo, DoubleClick, Google, MediaMath, PubMatic, Pulse360, Quantcast, and Yahoo. The use of cookies, web beacons, and other technologies by these companies is subject to the privacy policies of those third parties. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find out more information by clicking on the company names listed above and following the links to each company’s website.
+    Some of the advertisements you see on our Website or on emails we deliver to you are delivered by Advertisers who collect non-personally identifiable information about your online activities with the emails we send and/or our Website through the use of cookies, web beacons, and other technologies, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These Advertisers may include, but are not limited to, Adaptive Media, BlueKai, Brightroll, Criteo, DoubleClick, Google, LiveIntent, MediaMath, Nielsen NetRatings, Nielsen SiteCensus, nRelate, Adobe Omniture, PubMatic, Pulse360, Rubicon Project, ScoreCardResearch, SpotXchange, and Yahoo. The use of cookies, web beacons, and other technologies by these companies is subject to the privacy policies of those third parties. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find out more information by clicking on the company names listed above and following the links to each company’s website.
     
     In addition, some of these companies are members of the Network Advertising Initiative (“NAI”), which offers a single location to opt out of receiving tailored ads from its member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page located at: http://www.networkadvertising.org/managing/opt\_out.asp. To opt out of information collected by Quantcast, or to obtain information about the technologies they use or their own privacy policies, please visit the Quantcast consumer opt out page located at: https://www.quantcast.com/opt-out.
     
@@ -85,13 +85,19 @@ We at POPSUGAR Inc. (“POPSUGAR,” “we,” “us,” “our”) know that ou
     
     *   You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
     *   You may be able to add, update, or delete information as explained in Section 10 above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by contacting us at community@popsugar.com. Please note that some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
-12.  CHANGES TO THIS PRIVACY POLICY
+12.  U.S.-E.U. SAFE HARBOR NOTICE
+    
+    POPSUGAR complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. POPSUGAR has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view POPSUGAR’s certification, please visit: http://www.export.gov/safeharbor/.
+    
+    If you have any questions or complaints regarding our compliance with the U.S.-E.U. Safe Harbor Framework, please contact us first at community@popsugar.com. We will investigate and attempt to resolve any concerns. In the event a dispute cannot be resolved through our internal dispute resolution process, POPSUGAR has agreed to participate in the dispute resolution program provided by the European Data Protection Authorities for disputes regarding organization human resources data. For disputes regarding other types of data, you may submit your complaint to JAMS for mediation under the JAMS International Mediation Rules, which are accessible on the JAMS website at: www.jamsadr.com.
+    
+13.  CHANGES TO THIS PRIVACY POLICY
     
     We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website, updating the Effective Date of this Privacy Policy, or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.
     
-13.  QUESTIONS OR CONCERNS
+14.  QUESTIONS OR CONCERNS
     
-    If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street, San Francisco, California, 94104, ATTN: POPSUGAR Inc. We will make every effort to resolve your concerns.
+    If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street Suite 850, San Francisco, California, 94104, ATTN: POPSUGAR Inc. We will make every effort to resolve your concerns.
     
 
-Effective Date: December 30, 2013
+Effective Date: June 24, 2014
