@@ -54,8 +54,7 @@ If you believe in good faith that material or Content available on Gigaom infrin
     
     Gigaom Research  
     ATTN: Termination  
-    217 2nd Street  
-    Fourth Floor  
+    612 Howard St.  
     San Francisco CA 94105
     
     You must cancel your subscription before it renews in order to avoid billing of subscription fees for the renewal term to your credit card.
