@@ -23,7 +23,6 @@ Your Cart(0) Catalog Navigation
     *   Gifts $50 &. Under
     *   Gifts Over $50
 *   Favorites
-    *   Spring Favorites
 *   Specials
 *   Business Gifts
     *   Top Business Gifts
@@ -47,7 +46,6 @@ Search Catalog Search Menu Search Stores Cart
     *   Gifts $50 &. Under
     *   Gifts Over $50
 *   Favorites
-    *   Spring Favorites
 *   Specials
 *   Business Gifts
     *   Top Business Gifts
