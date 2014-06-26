@@ -53,7 +53,7 @@ Please note that the messages that Cars.com sends to you to confirm, fulfill or 
 
 SIY Ads
 
-When purchasing an SIY Ad, it is important to note that any information you choose to include in an SIY Ad may be made publicly available via the Site and other media in which Cars.com vehicle listings are published, including third-party Web sites and print publications. You are required to include at least your phone number and, optionally, an email address to allow users to contact you regarding your SIY Ad. As such, you may receive unsolicited phone calls and emails from third parties. Except for required information, you should not include any contact or other information in an SIY Ad that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SIY Ad account, or deactivate your SIY Account, you can use the interface available at http://siy.cars.com/siy/editSignIn.jsp.
+When purchasing an SIY Ad, it is important to note that any information you choose to include in an SIY Ad may be made publicly available via the Site and other media in which Cars.com vehicle listings are published, including third-party Web sites and print publications. You are required to include at least your phone number and, optionally, an email address to allow users to contact you regarding your SIY Ad. As such, you may receive unsolicited phone calls and emails from third parties. Except for required information, you should not include any contact or other information in an SIY Ad that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SIY Ad account, or to remove your SIY ads, you can use the interface available at http://siy.cars.com/siy/editSignIn.jsp.
 
 Message Boards
 
@@ -97,4 +97,4 @@ If you have any questions about this Privacy Statement, please email us at feedb
 
 ©2014 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
 
-Last updated on 1/21/14
+Last updated on 6/13/14
