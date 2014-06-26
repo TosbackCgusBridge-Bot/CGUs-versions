@@ -144,4 +144,4 @@ Last updated: December 29, 2011
 2118 Wilshire Blvd. Box 1008  
 Santa Monica, CA 90403-5784
 
-Find anyone: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z About Us MyLife Blog Jobs Press User Agreement Privacy Policy People Search Area Codes Zip Codes High School Alumni College Alumni Congregations Site Map Help Online Dating Safety Tips Copyright © 2014 MyLife.com, Inc | U.S. Patent No. 6,701,348 and 6,694,353
+Find anyone: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z About Us MyLife Blog Jobs Press User Agreement Privacy Policy People Search Zip Codes High School Alumni College Alumni Congregations Site Map Help Online Dating Safety Tips Copyright © 2014 MyLife.com, Inc | U.S. Patent No. 6,701,348 and 6,694,353
