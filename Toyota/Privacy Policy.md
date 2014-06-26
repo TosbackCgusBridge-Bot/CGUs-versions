@@ -15,32 +15,6 @@
 *   Hybrids &. EVs
 *   Upcoming Vehicles
 
-*   $16,540 as shown 2014 Yaris $14,430 msrp1 30/37 est. mpg2 Build your own
-*   $19,000 as shown 2014 Corolla $16,800 msrp1 28/37 est. mpg2 Build your own
-*   $27,850 as shown 2014.5 Camry $22,425 msrp1 25/35 est. mpg2 Build your own
-*   $39,650 as shown 2014 Avalon $31,340 msrp1 21/31 est. mpg2 Build your own
-*   $33,860 as shown 2014 Sienna $26,920 msrp1 18/25 est. mpg2 Build your own
-
-*   $31,720 as shown 2014 Tacoma $18,125 msrp1 21/25 est. mpg2 Build your own
-*   $39,125 as shown 2014 Tundra $26,200 msrp1 16/20 est. mpg2 Build your own
-
-*   $28,320 as shown 2014 RAV4 $23,550 msrp1 24/31 est. mpg2 Build your own
-*   $39,790 as shown 2014 Venza $27,950 msrp1 20/26 est. mpg2 Build your own
-*   $39,640 as shown 2014 Highlander $29,215 msrp1 20/25 est. mpg2 Build your own
-*   $29,270 as shown 2014 FJ Cruiser $27,680 msrp1 16/20 est. mpg2 Build your own
-*   $35,275 as shown 2014 4Runner $32,820 msrp1 17/22 est. mpg2 Build your own
-*   $53,055 as shown 2014 Sequoia $44,095 msrp1 13/17 est. mpg2 Build your own
-*   $80,000 as shown 2014 Land Cruiser $79,605 msrp1 13/18 est. mpg2 Build your own
-
-*   $28,625 as shown 2014.5 Camry Hybrid $26,330 msrp1 43/39 est. mpg2 Build your own
-*   $41,400 as shown 2014 Avalon Hybrid $35,555 msrp1 40/39 est. mpg2 Build your own
-*   $50,295 as shown 2014 RAV4 EV $49,800 msrp1 76/103 mpge4/ EPA-estimated driving range3
-*   $47,300 as shown 2014 Highlander Hybrid $47,300 msrp1 27/28 est. mpg2 Build your own
-*   $35,710 as shown 2014 Prius $24,200 msrp1 51/48 est. mpg2 Build your own
-*   $24,210 as shown 2014 Prius _c_ $19,080 msrp1 53/46 est. mpg2 Build your own
-*   $34,905 as shown 2014 Prius Plug-in $29,990 msrp1 90/50 est. mpge5/est. hybrid mode mpg6 Build your own
-*   $36,045 as shown 2014 Prius _v_ $26,750 msrp1 44/40 est. mpg2 Build your own
-
 *   2015 TRD Pro Off-Road Vehicles View More Info
 *   2015 Camry View More Info
 *   2015 Toyota FuelCell Vehicle View More Info
@@ -66,7 +40,7 @@ View All Vehicles
 *   Toyota Certified Used Vehicles
 *   Contact a Dealer
 
-Go Support Site Help
+Go Site Help
 
 *   Contact Us
 *   Site Map
@@ -333,7 +307,7 @@ Torrance, CA 90501
 3.  EPA-estimated driving range 103 miles when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
 4.  2014 EPA-estimated mpg equivalent. Actual mpge will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions. Battery capacity will decrease with time and use. For more information on mpge and range, please see www.fueleconomy.gov.
 5.  2014 EPA-estimated combined miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
-6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg estimates. Actual mileage will vary.
+6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg estimates for Prius Plug-in. Actual mileage will vary
 
 Go
 
