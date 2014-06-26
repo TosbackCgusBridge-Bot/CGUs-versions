@@ -139,7 +139,7 @@ Attention: Consumer Affairs
 3000 University Center Drive  
 Tampa, Florida 33612-6408
 
-http://sportsillustrated.cnn.com/
+http://www.si.com
 
 back to top
 
