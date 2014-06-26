@@ -613,9 +613,6 @@ Resources
 *   Affinity Discount Program
 *   Lenovo Trade-In Program
 
-Join those who DO  
-and enter to win. Follow us
-
 *   ©2014 Lenovo. All rights reserved.
 *   Print this page
 *   Privacy
