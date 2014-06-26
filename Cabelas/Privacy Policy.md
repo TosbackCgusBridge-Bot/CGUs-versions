@@ -1,4 +1,4 @@
-Last updated June 3, 2014  
+Last updated June 20, 2014  
   
 This privacy policy applies to www.cabelas.com and other technology resources owned and operated by Cabela's Inc. such as mobile applications, social platforms, chat rooms, blogs and the like ("Tech Resources"). This privacy policy describes how Cabela's Inc. ("Cabela's", "we", "us", "our") collects and uses the personally identifiable information you provide on our Tech Resources and the information that we otherwise collect on our Tech Resources. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.  
   
@@ -23,7 +23,9 @@ When you visit or make use of Cabela’s Tech Resources, you may be asked to pro
   
 If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your email address.  
   
-In addition, our web servers track various technical details about your visit, such as your computer’s IP address and which pages you visited. We use this information to monitor and improve our Tech Resources as well as personalize your experience with Cabela's through direct on-line advertising.  
+In addition, our web servers track various technical details about your visit, such as your computer’s IP address and which pages you visited. We use this information to monitor and improve our Tech Resources as well as personalize your experience with Cabela's through direct on-line advertising. If you access our mobile website or have downloaded a mobile app, we may also automatically collect information when you use our mobile website or download our mobile app about the type of mobile device you use, your mobile device identifier, your mobile operating system, pages you visit on our mobile site, search terms, the type of mobile internet browsers you use and information about the way you use our mobile website and mobile applications. We use this information to obtain data about your visits to our stores as well as your general shopping habits, how you use our mobile platforms and how we might improve them.  
+  
+We may also collect location based information when you use our mobile website or mobile applications if you choose to allow us to do so. Our collection and usage of location based data is below.  
   
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer’s name. We do obtain the customer’s consent prior to posting the testimonial to post their name along with their testimonial.  
   
@@ -32,7 +34,7 @@ When you order a gift certificate you are given the opportunity to include the n
 Our web site includes links to other web sites whose privacy practices may differ from those of Cabela’s Inc. If you visit any third party sites or submit personally identifiable information to any of those web sites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any web site you visit.  
   
 **How is the personally identifiable information being used?**  
-The personally identifiable information we collect is used to provide the products and services that you have requested or that we think you might have an interest in. It is also used to improve the content of our web site, to notify you of problems with your requests, or to update you about changes to our web site.  
+The personally identifiable information we collect is used to provide the products and services that you have requested or that we think you might have an interest in. It is also used to improve the content of our web site, to notify you of problems with your requests, and to update you about changes to our web site.  
   
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
   
@@ -54,8 +56,14 @@ If Cabela's Inc. is involved in a merger, acquisition, reorganization, or sale o
 **Third Party Ad Networks and Behavioral Advertising**  
 We contract with service providers to serve ads on our behalf across the Internet and sometimes on this web site. They will collect anonymous information about your visits to our web site, and your interaction with our products and services. They may also use information about your visits to this and other web sites to target advertisements for goods and services. These targeted advertisements may appear on our web site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you do not want these service providers to collect this information you may opt out. Opting out will not in any way affect your use of our web site.  
   
-**Mobile APP and Geo–Location**  
-When you download an application from us for use on your smartphone, we use a service provider to provide marketing messages to your device based on your location through their software platform. You must opt-in to both location services and push notifications in order for the application to deliver marketing messages to your device. You may opt–out of sharing your location information by toggling off the "Location" option within the "Settings" menu of the mobile application.  
+**Mobile and Geo–Location**  
+When you download a mobile application from us, we have the ability to use a service provider to provide you with push notifications containing marketing messages to your mobile device. Your device may allow you to opt out of these push notifications by accessing your device's application or notification settings for the Cabelas app. Cabela's has no control over the application permission notifications that may be provided to you on download from a third party app store or the ability of your device to opt-out of these push notifications.  
+  
+In addition, if you download our mobile app, we may also send you push notifications based on your location if you activate your location settings on your device. Your ability to turn off location settings and the method for doing so will vary according to your mobile device. You may not be able to deactivate location based notifications without turning off all location services on certain mobile devices.  
+  
+If you choose to share your location with us, we use a service provider to approximate your position based on one or more of the following, as available: network location (cell tower triangulation) technology, GPS and wi-fi signals. IF YOU DO NOT WANT USE TO HAVE ACCESS TO YOUR LOCATION, YOU MAY CHANGE YOUR LOCATION SETTINGS AS PERMITTED BY YOUR MOBILE DEVICE. CABELA'S HAS NO RESPONSIBILITY OR LIABILITY FOR THE FUNCTION OF LOCATION SETTINGS WITHIN ANY MOBILE DEVICE.  
+  
+Once you allow location based tracking through a mobile application or mobile website, you are agreeing that we can collect and use your location data and can continue to do so until you turn off your location settings and/or opt out of that usage, as may be permitted by your mobile device. We use this location based data to track your general shopping patterns and stores that you visit and also aggregate this data to help understand general consumer patterns and trends.  
   
 **Opting Out of Online Advertising**  
 To opt-out of direct online advertising provided by www.cabelas.com, click here. To opt out of remarketing advertising provided through Google, visit Google's Ad Preferences Manager to customize your ad preferences and tell Google which interest-based ads you'd prefer to see. You may also opt-out of our use of Google Analytics by visiting the Google Analytics opt-out page. If you do not want to receive those kinds of advertisements, look for the "Ad Choices" icon in the advertisements, which will contain a link to the privacy policy of the ad network that will provide you with information on how to opt-out of receiving such targeted advertising.  
