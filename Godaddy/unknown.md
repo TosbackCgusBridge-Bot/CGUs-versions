@@ -49,7 +49,7 @@ To be considered effective, a notification of a claimed trademark violation must
 
 **B. Copyright Claims**
 
-1\. If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, Go Daddy requests that the Complaining Party substantiate such claim by providing Go Daddy with the following information via email to CopyrightClaims@godaddy.com. The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: Copyright Agent, Go Daddy, 14455 N. Hayden Road, Suite 219, Scottsdale, AZ 85260
+1\. If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, Go Daddy requests that the Complaining Party substantiate such claim by providing Go Daddy with the following information via email to copyright@godaddy.com. The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: Copyright Agent, Go Daddy, 14455 N. Hayden Road, Suite 219, Scottsdale, AZ 85260
 
 To be considered effective, a notification of a claimed copyright infringement must be provided to Go Daddy and must include the following information:
 
@@ -66,7 +66,7 @@ To be considered effective, a notification of a claimed copyright infringement m
 
 **C. Counter Notification Policy**
 
-1\. Counter Notification. If you have received a notice of copyright or trademark infringement, you may provide Counter Notification by emailing CopyrightClaims@godaddy.com or TrademarkClaims@godaddy.com and including the following:
+1\. Counter Notification. If you have received a notice of copyright or trademark infringement, you may provide Counter Notification by emailing copyright@godaddy.com or TrademarkClaims@godaddy.com and including the following:
 
 1.  An electronic signature of the Infringer.
 2.  Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
