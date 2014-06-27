@@ -1,4 +1,4 @@
-Last updated June 20, 2014  
+Last updated June 25, 2014  
   
 This privacy policy applies to www.cabelas.com and other technology resources owned and operated by Cabela's Inc. such as mobile applications, social platforms, chat rooms, blogs and the like ("Tech Resources"). This privacy policy describes how Cabela's Inc. ("Cabela's", "we", "us", "our") collects and uses the personally identifiable information you provide on our Tech Resources and the information that we otherwise collect on our Tech Resources. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.  
   
