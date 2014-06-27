@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
+Syfy Video The Almighty Johnsons - Friday July 11th at 1 ... The Almighty Johnsons - Friday July 11th at 10/9c.
+
+The Almighty Johnsons premieres Friday July 11th at 10/9c.
+
+Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
 
 Clark Gregg (Agent Coulson) talks about the challenges with Marvel's first live action TV show and his love of Iron Fist.
 
@@ -262,10 +266,6 @@ Check out an exclusive bonus scene from The Wil Wheaton Project as comedian Mike
 Exclusive: Clark Gregg on Trust Me, Agents of ... Exclusive: Clark Gregg on Trust Me, Agents of SHIELD &. Ant Man
 
 Clark Gregg talks to us about his new movie Trust Me, Agent Coulson coming back to Marvel movies and Ant man! Trust Me comes out in select theaters June 6 and available on demand now.
-
-Syfy Original Movie - Snakehead Swamp Syfy Original Movie - Snakehead Swamp
-
-Catch the Syfy Original Movie, Snakehead Swamp, Saturday June 28th at 9/8c.
 
 *   FAQ
 *   Feedback
