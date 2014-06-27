@@ -153,15 +153,15 @@ Lenovo United States Select a country/region
 
 *   Contact Us
     *   **Sales inquiry?**Chat online with a live representative.Chat is always online.
-    *   **Customer service inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-6pm EST
+    *   **Customer service inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-5:30pm EST
     *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
-        Sat: 9am - 6pm (EST)  
+        Sat: 9am - 5:30pm (EST)  
         Sun: Closed  
           
         **Customer Service** 1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
-        Sat - Sun : 9am - 6pm (EST)  
+        Sat - Sun : 9am - 5:30pm (EST)  
           
         **Credit Card Services** 1-800-426-3325  
         Open Mon - Fri: 9am - 6pm (EST)
@@ -185,16 +185,16 @@ Lenovo United States Select a country/region
         *   ThinkPad 11e: Rugged Laptops
     *   Lenovo Laptops Stylish Design, Maximum Fun
         *   Y Series: Premium Multimedia Laptops
-        *   Yoga Series:Convertible Entertainment Ultraportables
+        *   Yoga Series:Sleek Convertible Ultraportables
         *   Z Series: Mainstream Entertainment Laptops
         *   Flex Series: Mainstream Multimode Laptops
         *   U Series: Designer Laptops/Ultrabooks
         *   S Series: Entry-Level Ultraportables
         *   G Series: Everyday Laptops
     
-    *   SUMMER SAVINGS Save up to 41%
+    *   ThinkPad T440s Legendary THINK performance.
         
-        on select home PCs through June 25.
+        Super-slim package.
         
         **Shop now >**
     *   Discover Yoga One Device.
@@ -234,16 +234,12 @@ Lenovo United States Select a country/region
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
-        *   Lenovo Yoga:Convertible Entertainment
+        *   Lenovo Yoga:Sleek Convertible Ultraportables
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   SUMMER SAVINGS Save up to 24%
-        
-        on select home tablets through June 25.
-        
-        **Shop now >**
+    *   NEW LENOVO A10 Your Affordable Entertainment Hub. **Shop now >**
     *   Discover Yoga One Device.
         
         Multiple Possibilities.
@@ -282,9 +278,9 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   SUMMER SAVINGS Save up to 26%
+    *   Deals on ThinkCentre
         
-        on select home desktps through June 25.
+        Get great deals on our powerful ThinkCentre desktop systems every day.
         
         **Shop now >**
     *   Lenovo Q190
@@ -374,14 +370,14 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   MULTIMEDIA REMOTE Save 52%
+    *   NOTEBOOK STAND Save 52%
         
-        Pocket-sized keyboard and mouse in one device.
+        Lifts and tilts your laptop to eye level.
         
         **Shop now >**
-    *   LENOVO HEADSET Save 55%
+    *   QUICK SHIP ACCESSORIES
         
-        Enhance your multimedia experience with a powerful bass.
+        Select accessories ship next business day!
         
         **Shop now >**
     *   ELECTRONIC DOWNLOADS
