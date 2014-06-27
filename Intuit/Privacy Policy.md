@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   MARY LOU
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true false L12695666764
+true false C12559348263
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena833 SERVER NAME :->. prod-l1-com-83301 TIME :->. Wed Jun 25 11:19:11 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola850 SERVER NAME :->. prod-c2-com-0101 TIME :->. Thu Jun 26 02:24:58 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,52 +43,66 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Summer's Greatest Fits Sale
+Online Only
+
+Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Extra 15% Off\*
+
+In Store and Online
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Ends July 1.
+
+Online Code: FUNSUMMR
+
+\*See exclusions and details. get store coupon
+
+*   Summer Fun Sale
     
-    Held over, ends June 25.
+    Hot styles fit for your family, savings that sizzle under budget.
     
-    In Store and Online
+    shop the sale view store ad40-50% Off St. John's Bay
     
-    Extra 15% Off\*
+    Select styles.
     
-    Online Only
+    shop men's St. John's Bay shop women's St. John's Bay shop men's St. John's Bay shop women's St. John's Bay
+*   Home Sale
     
-    Extra 20% Off\* $100 or more.
-    
-    In Store and Online
-    
-    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-    
-    Code: SUMRFUN
-    
-    \*See exclusions and details.
-    
-    Hundreds of awesome finds all under $20!
-    
-    view store ad print store coupon shop finds under $5 shop finds under $10 shop finds under $15 shop finds under $20
-    
-    $4.99 Select Guys' Arizona Tanks
-    
-    shop guys' Arizona tanks
-    
-    $5.99 Okie Dokie Match-ups
-    
-    shop Okie Dokie match-ups
-    
-    $14.99 Worthington Short-Sleeve Shirts
-    
-    shop Worthington short-sleeve shirts
-    
-    $19.99 Liz Claiborne and Diba Sandals
-    
-    shop Liz Claiborn and Diba sandals
-*   Summer's Hottest Home Finds!
-    
-    Get inspired! Fit your space, style and wallet.
+    Select items.
     
     shop home shop bedding
 
-40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 30-60% Off Select Swimwear For The Family shop women's swimwear shop swimwear for the family 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40% Off Select Total Girl shop Total Girl Sale $19.99-29.99 Select Women's Sandals shop women's sandals 40-50% Off Select Patio and Outdoor Living shop patio and outdoor living JCP Rewards
+Night and Day Doorbusters
+
+Excluded from store offer.
+
+In Store Only, Friday, 3PM until close, Saturday, 10AM until 1PM.
+
+view doorbusters store ad USA Fan Flash Event
+
+Celebrate with extra savings.
+
+Online Code: USAFAN
+
+Ends July 1.
+
+Online Only
+
+Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Extra 15% Off\*
+
+In Store and Online
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. get store coupon shop now 30-40% Off Select Worthington shop Worthington Sale $19.99-29.99 Select Women's Sandals shop women's sandals 30-60% Off Select Swimwear For The Family shop swimwear 40% Off Select Izod shop Izod 50% Off Select Kids' Arizona shop kids' Arizona 40-50% Off Select Patio and Outdoor Living shop patio and outdoor living JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -96,7 +110,7 @@ sign up todayGift Cards
 
 Always fits, never expires.
 
-shop gift cardsThe Wedding Registry at JCPenney view registryRed Zone Clearance Selections
+shop gift cardsOwn Your Colors support your teamRed Zone Clearance Selections
 
 50-70% Off
 
