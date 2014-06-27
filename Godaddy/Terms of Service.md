@@ -117,7 +117,7 @@ Go Daddy expressly reserves the right to terminate, without notice to you, any a
 
 ****11**. NO SPAM. LIQUIDATED DAMAGES**
 
-_No Spam._  We do not tolerate the transmission of spam. We monitor all traffic to and from our web servers for indications of spamming and maintain a spam abuse complaint center to register allegations of spam abuse. Customers suspected to be using our products and services for the purpose of sending spam are fully investigated. If we determine there is a problem with spam, we will take the appropriate action to resolve the situation. Our spam abuse complaint center can be reached by email at abuse@godaddy.comgodaddy.com.
+_No Spam._  We do not tolerate the transmission of spam. We monitor all traffic to and from our web servers for indications of spamming and maintain a spam abuse complaint center to register allegations of spam abuse. Customers suspected to be using our products and services for the purpose of sending spam are fully investigated. If we determine there is a problem with spam, we will take the appropriate action to resolve the situation. Our spam abuse complaint center can be reached by email at abuse@godaddy.com.
 
 We define spam as the sending of Unsolicited Commercial Email (UCE), Unsolicited Bulk Email (UBE) or Unsolicited Facsimiles (Fax), which is email or facsimile sent to recipients as an advertisement or otherwise, without first obtaining prior confirmed consent to receive these communications from the sender. This can include, but is not limited to, the following:
 
@@ -147,7 +147,7 @@ We encourage all customers and recipients of email generated from our products a
 
 Web: report abuse
 
-Email: abuse@godaddy.comgodaddy.com
+Email: abuse@godaddy.com
 
 _Liquidated Damages._  You agree that we may immediately terminate any Account which we believe, in our sole and absolute discretion, is transmitting or is otherwise connected with any spam or other unsolicited bulk email. In addition, if actual damages cannot be reasonably calculated then you agree to pay us liquidated damages in the amount of $1.00 for each piece of spam or unsolicited bulk email transmitted from or otherwise connected with your Account.
 
