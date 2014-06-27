@@ -31,7 +31,6 @@
     *   Login
 *   Training
     *   Overview
-    *   Certification
     *   Open Enrollment Courses
     *   Live Online Training
     *   Private On-Site Training
@@ -193,7 +192,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Login
 *   Training
     *   Overview
-    *   Certification
     *   Open Enrollment Courses
     *   Live Online Training
     *   Private On-Site Training
