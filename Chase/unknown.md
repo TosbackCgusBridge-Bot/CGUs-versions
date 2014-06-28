@@ -1,3 +1,5 @@
+Printer Friendly version (PDF)
+
 **Last Updated: November 17, 2013**
 
 Your privacy is important to us. This Online Privacy Policy explains how we collect, share, use, and protect information when you visit or use this online service and any other online services offered by the U.S. banking and non-banking affiliates and subsidiaries of Chase that link to or reference this policy (collectively, our “online services”). This policy covers Chase’s many online services, including the Chase websites, Chase Mobile, and Chase-branded social media sites or pages, as well as any interactions you may have while viewing content provided through one of Chase’s digital advertising campaigns.
@@ -40,7 +42,7 @@ We use the information discussed above in a number of ways, such as:
 *   Responding to your requests and communicating with you;
 *   Managing your preferences;
 *   Performing analytics concerning your use of our online services, including your responses to our emails and the pages and advertisements you view;
-*   Providing you tailored content and marketing messages.  
+*   Providing you tailored content and marketing messages;  
     
 *   Operating, evaluating and improving our business (including developing new products and services. improving existing products and services. performing data analytics. and performing accounting, auditing and other internal functions);
 *   Complying with and enforcing applicable legal requirements, relevant industry standards, contractual obligations and our policies. and
