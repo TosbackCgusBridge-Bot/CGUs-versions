@@ -110,8 +110,8 @@ Learn more about our fast-growing digital marketing ecosystem »
     *   Tealium University
     *   Tealium Learning Community
 
-Digital Velocity Europe 2014  
-Join us June 12, 2014, for the industry’s most comprehensive user conference »
+Tealium University  
+Get comprehensive, hands-on product training and learn best practices »
 
 *   Resources
     *   Case Studies
