@@ -1,8 +1,8 @@
 **UNIVERSITY OF PHOENIX  
 WEB SITE TERMS AND CONDITIONS OF USE**  
 
-**Effective as of: June 24, 2010  
-Date of Last Revision: March 1, 2011**
+**Effective as of: June 17, 2014  
+Date of Last Revision: June 17, 2014**
 
 **Welcome**
 
@@ -60,12 +60,12 @@ If you believe that any material on any of the Sites infringes upon any copyrigh
 
 Name of Agent Designated to Receive Notification of Claimed Infringement:
 
-Tim West, Senior Corporate Counsel  
+Shane Lunceford, Associate General Counsel  
 Full Address of Designated Agent to Which Notification Should be Sent:  
 4025 S. Riverpoint Parkway, Phoenix, Arizona 85040. Mail Stop: CF-K612  
-Telephone Number of Designated Agent: 602-557-1818  
-Facsimile Number of Designated Agent: 602-557-3015  
-E-Mail Address of Designated Agent: CopyrightAgent@apollogrp.edu  
+Telephone Number of Designated Agent: 408.678.1634  
+Facsimile Number of Designated Agent: 602.735.6219  
+E-Mail Address of Designated Agent: CopyrightAgent@apollo.edu  
 
 To be effective, a notification of claimed infringement must be a written communication provided to the Designated Agent and include substantially the following:
 
@@ -125,7 +125,7 @@ The University may provide access through the Site to certain Third Party Applic
 *   Privacy policies relating to the Google Apps which may include but are not limited to the Google Apps Privacy Policy available http://www.google.com/a/help/intl/en/users/privacy\_notice.html. and
 *   the Google Privacy Policy available at http://www.google.com/privacy.html.
 
-Any questions or complaints regarding the Google Apps may be directed to the University, or you may also use the services provided by Google through its Help Center, which is accessible at http://www.google.com/support/. If you do not agree to Google's terms and conditions relating to the Google Apps, then stop using the Google Apps. By using the Google Apps, you acknowledge and agree to be bound by all of Google's terms and conditions relating thereto, in addition to these Terms of Use, any applicable Additional Terms and any other applicable terms and conditions.
+Any questions or complaints regarding the Google Apps may be directed through its Help Center, which is accessible at http://www.google.com/support/. If you do not agree to Google's terms and conditions relating to the Google Apps, then stop using the Google Apps. By using the Google Apps, you acknowledge and agree to be bound by all of Google's terms and conditions relating thereto, in addition to these Terms of Use, any applicable Additional Terms and any other applicable terms and conditions.
 
 **User Content and Conduct**
 
