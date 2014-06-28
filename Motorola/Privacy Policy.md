@@ -1,4 +1,4 @@
-Motorola Mobility LLC (“Motorola”) – a Google company – recognizes that privacy and security are important for our customers and website users. This statement describes how Motorola collects, uses and safeguards information you provide when using motorola.com. By using this website, you consent to the collection and use of your information by Motorola as described in the policy currently in effect. Any changes to this statement will be posted on our websites, so please check back periodically to ensure that you have the most current statement.
+Motorola Mobility LLC (“Motorola”) recognizes that privacy and security are important for our customers and website users. This statement describes how Motorola collects, uses and safeguards information you provide when using motorola.com. By using this website, you consent to the collection and use of your information by Motorola as described in the policy currently in effect. Any changes to this statement will be posted on our websites, so please check back periodically to ensure that you have the most current statement.
 
 What information is collected at motorola.com and how is it used?
 
@@ -14,7 +14,7 @@ Finally, we may also ask for your personal information when you express an inter
 
 WHAT ABOUT COOKIES, RELATED THIRD PARTY SERVICES AND INTEREST-BASED ADVERTISEMENTS?
 
-In order to offer and provide a customized website experience, Motorola may use cookies, including GoogleAnalytics and DoubleClick cookies, to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. Motorola uses cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies enable us to save passwords and preferences for you so you won't have to re-enter them each time you visit. We also use cookies in order to determine relevant interest based advertisements to serve the user
+In order to offer and provide a customized website experience, Motorola may use cookies, including GoogleAnalytics and DoubleClick cookies, to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. Motorola uses cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies enable us to save passwords and preferences for you so you won't have to re-enter them each time you visit. We also use cookies in order to determine relevant interest based advertisements to serve the user.
 
 Motorola may also use cookies to measure traffic patterns and which areas of the Motorola site you have visited and your visiting patterns. This information is sometimes called a "clickstream." Motorola may use this information to understand how our users navigate our site and to determine common traffic patterns, including what site the user came from. We use this information to simplify site navigation, to make product recommendations and to help design our site in order to make your experience more efficient and enjoyable. The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer not to store cookies, you can choose to:  
 
@@ -65,11 +65,11 @@ If you have established a "user profile" on a Motorola web site, you may change 
 
 Please direct any questions concerning Motorola's privacy practices to privacy@motorola.com. Requests to unsubscribe from ("opt-out" of) communications from Motorola may also be sent to privacy@motorola.com. Inquiries or requests may be mailed to:  
   
-Motorola Mobility, LLC  
+Motorola Mobility LLC  
 Attention: Privacy Compliance Program  
-600 North U.S. Highway 45  
-Mailstop: W4-35M  
-Libertyville, Illinois 60048  
+222 West Merchandise Mart Plaza, Suite 1800,  
+Mailstop 16.O.19  
+Chicago, IL 60654  
 USA
 
 What about information security?
