@@ -124,8 +124,8 @@ Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharg
 Conditions-generales-d-utilisation.pdf A voir également
 
 *   Conditions générales
-*   Les conditions dutilisation, de diffusion et de suppression des données personnelles dun site particulier,
-*   Conditions générales d'utilisation et twitter
+*   Condition d utilisation internet
+*   Conditions générales identification site
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Modèle de conditions générales de vente » Forum - Webmaster
