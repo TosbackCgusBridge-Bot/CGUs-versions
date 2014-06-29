@@ -8,7 +8,7 @@ Available Languages: English Español
 
 Save this preference
 
-Sign In | My Account | Contact Us
+Sign In | My Account | Contact Us | Help     
 
 *   Home
 *   Reservations
