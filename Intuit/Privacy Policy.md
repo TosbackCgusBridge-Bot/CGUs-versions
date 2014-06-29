@@ -21,9 +21,9 @@
     
 *   ship to
 
-true false L12701304412
+true false C12563926393
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena833 SERVER NAME :->. prod-l1-com-83301 TIME :->. Fri Jun 27 10:44:18 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola834 SERVER NAME :->. prod-c1-com-83401 TIME :->. Sat Jun 28 05:21:25 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -162,16 +162,16 @@ download our app: iPhone | Android **CUSTOMER SERVICE**
 
 **Popular Product Categories:**
 
-JCPenney Stores  
-wedding dresses  
-draperies comforters  
+area rugs  
+gift cards  
+drapes bath towels  
 bedspreads  
 back to school sales womens tops  
 womens dresses  
 plus size dresses swimsuits  
-mens sandals  
+maxi dresses  
 school uniforms Samsonite luggage  
-Invicta watches  
+floor lamps  
 wedding registry
 
 *   copyright
