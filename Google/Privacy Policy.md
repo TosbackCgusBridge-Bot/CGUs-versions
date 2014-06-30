@@ -2,6 +2,8 @@ Datenschutzerklärung Von uns erhobene Informationen Wie wir die von uns erhoben
 
 Zuletzt geändert am: 31. März 2014 (archivierte Versionen anzeigen)
 
+PDF-Version herunterladen
+
 Sie können unsere Dienste auf vielfältige Weise nutzen – um Informationen zu suchen und zu teilen, um mit anderen zu kommunizieren oder um neue Inhalte zu erstellen. Wenn Sie uns Informationen mitteilen, zum Beispiel durch Erstellung eines Google-Kontos, können wir damit diese Dienste noch weiter verbessern – indem wir Ihnen relevantere Suchergebnisse und Werbung anzeigen, Ihnen dabei helfen, mit anderen in Kontakt zu treten oder schneller und einfacher Inhalte mit anderen zu teilen. Wir möchten, dass Sie als Nutzer unserer Dienste verstehen, wie wir Informationen nutzen und welche Möglichkeiten Sie haben, um Ihre Daten zu schützen.
 
 In unserer Datenschutzerklärung wird erläutert:
