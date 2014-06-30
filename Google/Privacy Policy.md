@@ -2,6 +2,8 @@ Política de Privacidade Informações que coletamos Como usamos as informaçõe
 
 Última modificação: 31 de março de 2014 (visualizar versões arquivadas)
 
+Fazer o download da versão em PDF
+
 Existem muitas maneiras diferentes pelas quais você pode usar nossos serviços – pesquisar e compartilhar informações, comunicar-se com outras pessoas ou criar novo conteúdo. Quando você compartilha informações conosco, por exemplo, criando uma Conta do Google, podemos tornar esses serviços ainda melhores – mostrar-lhe resultados de pesquisa e anúncios mais relevantes, ajudá-lo a se conectar com pessoas ou tornar o compartilhamento com outras pessoas mais rápido e fácil. Quando você usa nossos serviços, queremos ser claros quanto ao modo como estamos usando suas informações e ao modo como você pode proteger sua privacidade.
 
 Nossa Política de Privacidade explica:
