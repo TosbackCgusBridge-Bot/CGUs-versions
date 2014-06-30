@@ -1,13 +1,4 @@
-*   Subscribe Now Try a Digital Subscription Today for Just 99¢ for Your First 4 Weeks
-    
-    Get unlimited access to NYTimes.com and NYTimes apps.
-    
-    Get Digital Get 50% Off 12 Weeks of Home Delivery and Free All Digital Access
-    
-    All print options include free, unlimited access to NYTimes.com and NYTimes apps.
-    
-    Get Home Delivery
-Subscribe campaign: nyt2014\_bar1\_digihd\_2p\_merged\_4876L\_4876R\_4876W -- 250629, creative: nyt2014\_bar1\_BAU\_2p\_merged\_4876L\_4876R\_4876W -- 376502, page: www.nytimes.com/content/help/front.html, targetedPage: www.nytimes.com/content/help/front.html, position: Bar1*   Help
+*   Help
 
 *   Home Page
 *   Today's Paper
