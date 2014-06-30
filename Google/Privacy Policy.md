@@ -2,6 +2,8 @@ Privacybeleid Gegevens die we verzamelen Hoe we gegevens gebruiken die we verzam
 
 Laatst aangepast: 31 maart 2014 (gearchiveerde versies weergeven)
 
+Pdf-versie downloaden
+
 U kunt onze services op verschillende manieren gebruiken: om informatie te zoeken en te delen, met andere mensen te communiceren of nieuwe inhoud te maken. Wanneer u gegevens met ons deelt, bijvoorbeeld door een Google-account aan te maken, kunnen we die services nog beter maken, om u relevantere zoekresultaten en advertenties te laten zien, u in contact te brengen met mensen of het delen van inhoud sneller en gemakkelijker te maken. We willen dat u bij het gebruik van onze services duidelijk kunt zien hoe we uw gegevens gebruiken en op welke manieren u uw privacy kunt beschermen.
 
 In ons Privacybeleid wordt uitgelegd:
