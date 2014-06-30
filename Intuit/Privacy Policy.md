@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   LORELEI
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true false C12563926393
+true false L12703373095
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola834 SERVER NAME :->. prod-c1-com-83401 TIME :->. Sat Jun 28 05:21:25 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena862 SERVER NAME :->. prod-l2-com-0601 TIME :->. Sun Jun 29 05:47:51 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,72 +45,45 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 Online Only
 
-Extra 20% Off\* $100 or more.
-
-In Store and Online
-
-Extra 15% Off\*
-
-In Store and Online
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Ends July 1.
+Extra 20% Off\* $100 or more
 
 Online Code: FUNSUMMR
 
-\*See exclusions and details. get store coupon
-
-*   Summer Fun Sale
-    
-    Hot styles fit for your family, savings that sizzle under budget.
-    
-    shop the sale view store ad40-50% Off St. John's Bay
-    
-    Select styles.
-    
-    shop men's St. John's Bay shop women's St. John's Bay shop men's St. John's Bay shop women's St. John's Bay
-*   Home Sale
-    
-    Select items.
-    
-    shop home shop bedding
-
-Night and Day Doorbusters
-
-Excluded from store offer.
-
-In Store Only, Friday, 3PM until close, Saturday, 10AM until 1PM.
-
-view doorbusters store ad USA Fan Flash Event
-
-Celebrate with extra savings.
-
-Online Code: USAFAN
-
-Ends July 1.
-
-Online Only
-
-Extra 20% Off\* $100 or more.
-
 In Store and Online
 
 Extra 15% Off\*
 
-In Store and Online
-
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. get store coupon shop now 30-40% Off Select Worthington shop Worthington Sale $19.99-29.99 Select Women's Sandals shop women's sandals 30-60% Off Select Swimwear For The Family shop swimwear 40% Off Select Izod shop Izod 50% Off Select Kids' Arizona shop kids' Arizona 40-50% Off Select Patio and Outdoor Living shop patio and outdoor living JCP Rewards
+Ends July 1.
 
-Shop to earn $10 JCP Rewards.
+\*See exclusions and details. print store coupon Summer Fun Sale!
 
-sign up todayGift Cards
+Ends Tuesday, July 1.
 
-Always fits, never expires.
+Hot styles that fit your family, sizzling savings that fit your budget just right.
 
-shop gift cardsOwn Your Colors support your teamRed Zone Clearance Selections
+shop the sale view store ad40-50% Off Mattresses
+
+Select items.
+
+shop mattressesHome Sale
+
+Ends July 6.
+
+shop home sale40-50% Off Furniture
+
+Select items.
+
+shop furnitureSpecial Promotional Financing
+
+Available for furniture and mattresses when you use a JCPenney Credit Card.
+
+get details 30-60% Off Select Swim For The Family shop swimwear 30-50% Off Select Women's JCP shop women's JCP $14.99 Select Men's St. John's Bay Shorts shop men's St. John's Bay shorts 40% Off Select Kids' Uniforms shop kids' uniforms $24.99 Select Men's Canvas Shoes shop men's canvas shoes 40-50% Off Select Accessories shop accessories JCP Rewards
+
+Shop to earn $10 JCP Rewards
+
+sign up todayWrite A Review For Your Chance To Win $500 see rules and detailsOwn Your Colors support your teamRed Zone Clearance Selections
 
 50-70% Off
 
