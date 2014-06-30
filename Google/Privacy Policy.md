@@ -2,6 +2,8 @@ Règles de confidentialité Données que nous collectons Comment nous utilisons 
 
 Date de la dernière modification : 31 mars 2014 (voir les versions archivées)
 
+Télécharger la version PDF
+
 Vous pouvez avoir recours à nos services pour toutes sortes de raisons : pour rechercher et partager des informations, pour communiquer avec d'autres personnes ou pour créer des contenus. En nous transmettant des informations, par exemple en créant un compte Google, vous nous permettez d'améliorer nos services. Nous pouvons notamment afficher des annonces et des résultats de recherche plus pertinents et vous aider à échanger avec d'autres personnes ou à simplifier et accélérer le partage avec d'autres internautes. Nous souhaitons que vous, en tant qu'utilisateur de nos services, compreniez comment nous utilisons vos données et de quelles manières vous pouvez protéger votre vie privée.
 
 Nos Règles de confidentialité expliquent :
