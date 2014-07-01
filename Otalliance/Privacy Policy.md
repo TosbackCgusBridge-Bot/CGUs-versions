@@ -96,7 +96,7 @@ Wed, Jul 9, 2014 Email Security Bootcamp Training (DKIM, SPF &. DMARC) OTA is of
 *   OTA Blog
 *   Newsletters
 
-Mon, Jun 23, 2014 Data Breach Bill Draft Delayed
+Mon, Jun 30, 2014 Msft Kills Security Emails in Response to Canidian Laws In a move that may wind up helping spammers, Microsoft is blaming a new Canadian anti-spam law for the company’s recent decision to stop sending regular emails about security updates for its Windows operating system and other Microsoft software. Mon, Jun 23, 2014 Data Breach Bill Draft Delayed
 
 FTC enforcement has slowed efforts to release a draft of Rep. Lee Terry's data breach bill. Terry has not able to get the consensus he'd hoped for. Republicans have historically strayed away from handing more controls to the FTC, which is pushing for more authority to combat the rising threat of data theft and malvertising.
 
@@ -104,7 +104,7 @@ Wed, Jun 18, 2014 Senate Cybersecurity Information Sharing Bill
 
 Senators from the Senate Intelligence Committee yesterday introduced a draft of a bill meant to remove barriers for private companies to share data with Federal agencies. Senate Intelligence Chairman Dianne Feinstein and ranking member Saxby Chambliss have been working together for over a year to come up with a bill that they believe is both comprehensive enough to remove legal barriers to data sharing, while protecting against legitimate privacy concerns (by requiring the removal of PII and several other measures).
 
-Wed, Jun 11, 2014 2014 Honor Roll - Twitter &. American Greetings Take Top Honors Only 30 Percent of Top Consumer Websites Rated Trustworthy in Online Trust Alliance Report American Greetings, Netflix, Twitter and Walmart Take Top Scores in Security and Privacy for 2014 Online Trust Audit &. Honor Roll. Tue, Jun 10, 2014 U.S. SEC official urges broader cyber-attack disclosure Public companies that are victims of cyber attacks consider disclosing additional information beyond what's required to help protect customers. U.S. Securities and Exchange Commission member Luis Aguilar made his plea to public companies and their boards in a speech at the New York Stock Exchange. "It is possible that a cyber-attack may not have a direct material adverse impact on the company itself, but that a loss of customers' personal and financial data could have devastating effects on the lives of the company's customers and many Americans. Should ad networks who experience malvertising have the same reporting requirements? Resources
+Wed, Jun 11, 2014 2014 Honor Roll - Twitter &. American Greetings Take Top Honors Only 30 Percent of Top Consumer Websites Rated Trustworthy in Online Trust Alliance Report American Greetings, Netflix, Twitter and Walmart Take Top Scores in Security and Privacy for 2014 Online Trust Audit &. Honor Roll. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
