@@ -255,17 +255,17 @@ Syfy Video The Almighty Johnsons - Friday July 11th at 1 ... The Almighty Johnso
 
 The Almighty Johnsons premieres Friday July 11th at 10/9c.
 
-Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
+Syfy - Imagine Greater Syfy - Imagine Greater
 
-Clark Gregg (Agent Coulson) talks about the challenges with Marvel's first live action TV show and his love of Iron Fist.
+Take a glimpse at Syfy's greatest moments with current shows and shows yet to come. Syfy Imagine Greater
 
-Exclusive: Mike Lawrence Sounds Off Exclusive: Mike Lawrence Sounds Off
+Ascension - First Look Tease Ascension - First Look Tease
 
-Check out an exclusive bonus scene from The Wil Wheaton Project as comedian Mike Lawrence sounds off on a variety of scifi topics.
+See the first look tease at Ascension coming in November.
 
-Exclusive: Clark Gregg on Trust Me, Agents of ... Exclusive: Clark Gregg on Trust Me, Agents of SHIELD &. Ant Man
+BlastrTV visits Diagon Alley BlastrTV visits Diagon Alley
 
-Clark Gregg talks to us about his new movie Trust Me, Agent Coulson coming back to Marvel movies and Ant man! Trust Me comes out in select theaters June 6 and available on demand now.
+Missing your fix of Harry Potter? Join BlastrTV as it gets an exclusive behind the scenes look at Diagon Alley, the newest addition to Universal Studios Orlando.
 
 *   FAQ
 *   Feedback
