@@ -4,7 +4,7 @@
 *   En Español
 
 *   *   Age Baby-on-the-way Birth-6 months 6-12 months 12-24 months 2-3 years 3-4 years 4-5 years 5+ years
-    *   Brand Dora the Explorer
+    *   Brand Jake &. the Never Land Pirates Dora the Explorer
     *   Category Babygear Baby Toys Battery Powered Ride-Ons Digital Play Dollhouses &. Dolls Learning Toys Playsets with Figures Sports &. Outdoor Toys Toy Cars, Trucks &. Vehicles Train Sets View All >.
     
 *   *   Gear, toys, and parenting tips for baby's first year
