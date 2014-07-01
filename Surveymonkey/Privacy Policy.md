@@ -6,24 +6,28 @@ SurveyMonkey®
 1.  Home
 2.  How It Works
 3.  Examples
-    *   Online Polls
-    *   Customer Satisfaction Surveys
-    *   Market Research Surveys
-    *   Event Planning Surveys
-    *   Job Satisfaction Surveys
-    *   Employee Surveys
-    *   All Example Surveys...
     *   Survey Templates
+    *   Survey Tips
+    *   Survey Types
+    *   Academic Research
+    *   Customer Satisfaction
+    *   Education
+    *   Employee
+    *   Healthcare
+    *   Market Research
+    *   Non Profit
+    *   Events
     
 4.  Survey Services
     *   Buy Survey Responses
     *   Buy a Multi-User Account
-    *   Take Surveys
-    *   Survey Design Services
-    *   Telephone Surveys
-    *   Facebook Surveys
-    *   Surveys in Salesforce®
     *   Mobile App
+    *   Partner Integrations &. API
+    *   Survey Programming
+    *   Surveys in Salesforce®
+    *   Take Surveys
+    *   Telephone Surveys
+    *   Wufoo Online Forms
     
 5.  Plans &. Pricing
 
@@ -289,7 +293,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Board of Directors
 *   Partners
 *   Newsroom
-*   Contact Us
+*   Office Locations
 *   Jobs
 *   Sitemap
 *   Help
