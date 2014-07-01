@@ -1,22 +1,18 @@
-Skip to job search form Skip navigation     Employers: Post Jobs | Search Resumes    Already Registered? Sign In >>.    Help    Security
+Employers: Post Jobs | Search Resumes Sign In Help Security
 
 *   Home
 *   My CareerBuilder
-    *   My CareerBuilder
     *   Saved Jobs and Applications
     *   Post Resume
     *   Fraud Protection
 *   Find Jobs
-    *   Find Jobs
     *   Setup Email Alert
     *   Advanced Search
     *   Company Search
-*   Job Recommendations
+*   Recommendations
 *   Post Resumes
-    *   Post Resumes
     *   Resume Writing
 *   Advice &. Resources
-    *   Advice &. Resources
     *   Career Resources
     *   Salary Calculator
     *   hireINSIDER
