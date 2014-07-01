@@ -99,6 +99,7 @@ Free Recorded Webinar
 *   Partners
     *   SYNC for Agencies
     *   SYNC for Technology Vendors
+    *   Summer Webinar Series
     *   Partner Contact
     *   Certified Vendor Request
 
