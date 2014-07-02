@@ -20,7 +20,7 @@
     *   VH1 Classic
     *   VH1 Soul
     *   VH1 You Oughta Know
-    *   VH1 Make A Band Famous
+    *   Philly 4th Of July Jam
 *   Shop
 
 *   Follow VH1
