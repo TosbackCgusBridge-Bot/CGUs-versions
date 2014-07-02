@@ -1,6 +1,6 @@
 Hilfeseiten durchsuchen: Amazon.de-Datenschutzerklärung
 
-Zuletzt geändert: 26. Februar 2014 - welche Änderung zur Datenschutzerklärung vom 25. September 2012 bestehen, sehen Sie hier.
+Zuletzt geändert: 01. Juli 2014 - welche Änderung zur Datenschutzerklärung vom 26. Februar 2014 bestehen, sehen Sie hier.
 
 Wir wissen, dass Ihnen der sorgfältige Umgang mit Ihren persönlichen Informationen wichtig ist. Deshalb schätzen wir Ihr Vertrauen, dass Amazon gewissenhaft mit diesen Informationen umgeht. Mit dieser Erklärung geben Sie uns Ihr Einverständnis dafür, dass Amazon.de Ihre nachstehend aufgeführten personenbezogenen Daten zu den hier genannten Zwecken erheben, verarbeiten und nutzen darf. Diese Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
 
@@ -17,7 +17,7 @@ Wir wissen, dass Ihnen der sorgfältige Umgang mit Ihren persönlichen Informati
 
 Verantwortliche Stelle
 
-Verantwortliche Stelle im Sinne der Datenschutzgesetze sind die Amazon EU S.à.r.l, die Amazon Services Europe S.à.r.l. und die Amazon Media EU S.à.r.l., alle drei ansässig 5, Rue Plaetis, L-2338 Luxemburg sowie Amazon Instant Video (LOVEFiLM Deutschland GmbH), Marcel-Breuer-Str. 8, 80807 München. Als Datenverarbeiter wird in ihrem Auftrag die Amazon.de GmbH, Marcel-Breuer-Str. 12, 80807 München, tätig.
+Verantwortliche Stelle im Sinne der Datenschutzgesetze sind die Amazon Europe Core S.à.r.l., die Amazon EU S.à.r.l, die Amazon Services Europe S.à.r.l. und die Amazon Media EU S.à.r.l., alle vier ansässig 5, Rue Plaetis, L-2338 Luxemburg sowie Amazon Instant Video (LOVEFiLM Deutschland GmbH), Marcel-Breuer-Str. 8, 80807 München. Als Datenverarbeiter wird in ihrem Auftrag die Amazon.de GmbH, Marcel-Breuer-Str. 12, 80807 München, tätig.
 
 Amazon.com, Inc. und die von ihr beherrschten US-Tochterunternehmen nehmen an dem Programm Safe Harbor ("Sicherer Hafen") teil, das von dem U.S. Handelsministerium und der Europäischen Union gemeinsam entwickelt worden ist. Diese Unternehmen aus der Amazon-Gruppe haben amtlich bestätigt, dass sie sich an die Datenschutzprinzipien der Safe Harbor Privacy halten werden, auf die sich die USA und die EU geeinigt haben. Wenn Sie sich über das Programm Safe Harbor informieren, oder die amtliche Zertifizierung für die Amazon-Gruppe sehen möchten, besuchen Sie bitte die Safe Harbor Website des US Handelsministeriums. Sie können auch eine E-Mail an mailto:safeharbor@amazon.com senden, wenn Sie zu diesem Thema Kontakt aufnehmen möchten.
 
@@ -141,4 +141,4 @@ Beispiele für Informationen, zu denen Sie bei Amazon.de ganz leichten Zugang ha
 
 Zurück zum Anfang
 
-Sie haben Fragen zum Datenschutz bei Amazon? Finden Sie hier unsere aktuellsten Informationen zu diesem Thema. Verwandte Themen: Änderungen an der Datenschutzerklärung vom 25. September 2012 Änderungen an der Datenschutzerklärung vom 20. September 2010 Änderungen an der Datenschutzerklärung vom 11. Februar 2009 Änderungen an der Datenschutzerklärung vom 18. September 2008 Änderungen an der Datenschutzerklärung vom 20. Juni 2007 Cookies &. Internetwerbung Hilfeseiten durchsuchen: **Frage an die Community**: Hier können Sie Ihre Frage stellen oder eine Antwort suchen: Allgemeines Hilfeforum oder Kindle Hilfeforum
+Sie haben Fragen zum Datenschutz bei Amazon? Finden Sie hier unsere aktuellsten Informationen zu diesem Thema. Verwandte Themen: Änderungen an der Datenschutzerklärung vom 26. Februar 2014 Änderungen an der Datenschutzerklärung vom 25. September 2012 Änderungen an der Datenschutzerklärung vom 20. September 2010 Änderungen an der Datenschutzerklärung vom 11. Februar 2009 Änderungen an der Datenschutzerklärung vom 18. September 2008 Änderungen an der Datenschutzerklärung vom 20. Juni 2007 Cookies &. Internetwerbung Hilfeseiten durchsuchen: **Frage an die Community**: Hier können Sie Ihre Frage stellen oder eine Antwort suchen: Allgemeines Hilfeforum oder Kindle Hilfeforum
