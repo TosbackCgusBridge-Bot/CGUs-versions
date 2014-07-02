@@ -28,7 +28,6 @@
 *   Support
     *   Overview
     *   FAQs
-    *   Login
 *   Training
     *   Overview
     *   Open Enrollment Courses
@@ -188,8 +187,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Find a Partner
     *   Find a Developer
 *   Support
-    *   FAQ
-    *   Login
+    *   Licensing and Maintenance &. Support FAQs
 *   Training
     *   Overview
     *   Open Enrollment Courses
