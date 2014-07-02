@@ -62,6 +62,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
+    *   bucklejeans sweepstakes official rules
     *   Buckle Card Double Points 2014
     *   Store Events
     *   Sweepstakes Winners
