@@ -1,6 +1,6 @@
-The Social Network for **meeting** new people
+**Join the Party** anytime, anywhere.
 
-*   It's Free!
+*   Sign Up Now!
 *   Join Tagged
 *   Join with Facebook
 *   Join with Google
