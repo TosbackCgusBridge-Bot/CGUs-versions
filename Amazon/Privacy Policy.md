@@ -1,6 +1,6 @@
 Rechercher dans les pages d'aide : Protection de vos informations personnelles
 
-_Dernière mise à jour le 25 septembre 2012_
+_Dernière mise à jour le 1er juillet 2014_
 
 Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de votre confiance pour les traiter scrupuleusement, avec précaution, et à bon escient. **En visitant le site Amazon.fr, vous acceptez qu'Amazon.fr collecte, traite et utilise les informations personnelles visées comme indiqué ci-après.**
 
@@ -18,7 +18,7 @@ Nous savons que vous êtes attentifs à l'utilisation et au partage de vos infor
 
 Responsable du traitement
 
-Tout traitement des informations personnelles communiquées à Amazon.fr est effectué sous la responsabilité, premièrement, d'Amazon EU SARL et Amazon Services Europe SARL et Amazon Media EU SARL, les trois entités situées au 5 rue Plaetis, L -2338Luxembourg, les responsables du traitement, et deuxièmement, d'Amazon.fr SAS, le sous traitant, situé au 67 Boulevard du Général Leclerc - 92110 Clichy.
+Tout traitement des informations personnelles communiquées à Amazon.fr est effectué sous la responsabilité, premièrement, d'Amazon Europe Core SARL, d'Amazon EU SARL, Amazon Services Europe SARL et Amazon Media EU SARL, les quatre entités situées au 5 rue Plaetis, L -2338Luxembourg, les responsables du traitement, et deuxièmement, d'Amazon.fr SAS, le sous traitant, situé au 67 Boulevard du Général Leclerc - 92110 Clichy.
 
 Amazon.com, Inc. et les filiales qu'elle contrôle aux Etats-Unis, participent au programme Safe Harbour (« la Sphère de Sécurité ») développé par le ministère américain du Commerce et par l'Union européenne. Ces sociétés du groupe Amazon ont certifié qu'elles adhèrent aux principes de protection des données personnelles du Safe Harbour (« la Sphère de Sécurité »)acceptés conjointement par les États-Unis et l'Union européenne. Pour plus d'informations concernant le Safe Harbour et pour voir la certification de ces sociétés du groupe Amazon, nous vous invitons à visiter le site Internet Safe Harbour du département américain du commerce. Si vous souhaitez contacter Amazon directement concernant le programme Safe Harbour, veuillez envoyer un e-mail à safeharbour@amazon.com.
 
@@ -158,4 +158,4 @@ Quelques exemples d'informations auxquelles vous avez facilement accès sur le s
 
 À l'avenir, sous réserve du consentement que Vous avez fourni dans Votre Compte, nous pourrions être amenés à proposer des offres commerciales ou services en « co-branding » ou en partenariat avec un tiers comme nous le proposons aujourd'hui sur le site Amazon.com avec Toysrus.com, Target, Borders, Hotwire, Gap, Nordstrom, Office Depot et Virginmega.com ou sur le site Amazon.co.uk avec waterstones.co.uk.
 
-Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de votre confiance pour les traiter scrupuleusement, avec précaution, et à bon escient. Rubriques connexes: Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Modification de Protection de vos données personnelles 18 septembre 2007 Rechercher dans les pages d'aide : **Demandez à la communauté** : Postez vos questions ou cherchez une réponse dans notre Forum d'aide générale ou dans notre Forum d'aide Kindle.
+Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de votre confiance pour les traiter scrupuleusement, avec précaution, et à bon escient. Rubriques connexes: Modification de Protection de vos données personnelles 1 juillet 2014 Modification de Protection de vos données personnelles 25 septembre 2012 Modification de Protection de vos données personnelles 7 octobre 2010 Modification de Protection de vos données personnelles 27 février 2009 Modification de Protection de vos données personnelles 18 septembre 2007 Rechercher dans les pages d'aide : **Demandez à la communauté** : Postez vos questions ou cherchez une réponse dans notre Forum d'aide générale ou dans notre Forum d'aide Kindle.
