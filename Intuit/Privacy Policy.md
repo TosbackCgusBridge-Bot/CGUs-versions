@@ -21,9 +21,9 @@
     
 *   ship to
 
-true false C12570425544
+true false L12710840896
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola781 SERVER NAME :->. prod-c1-com-78101 TIME :->. Tue Jul 01 10:13:22 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena861 SERVER NAME :->. prod-l1-com-0501 TIME :->. Wed Jul 02 12:52:22 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,45 +43,63 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Extra 20% Off\* $100 or more
-
-Online Code: FUNSUMMR
-
 In Store and Online
 
-Extra 15% Off\*
+Select original, regular and sale-priced items.
+
+Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Ends July 1.
-
-\*See exclusions and details. print store coupon Summer Fun Sale!
-
-Ends Tuesday, July 1.
-
-Hot styles that fit your family, sizzling savings that fit your budget just right.
-
-shop the sale view store ad40-50% Off Mattresses
-
-Select items.
-
-shop mattressesHome Sale
-
 Ends July 6.
 
-shop home sale40-50% Off Furniture
+Online Code: HOTDOG
 
-Select items.
+\*See exclusions and details. print store coupon
 
-shop furnitureSpecial Promotional Financing
+*   40-50% Off Furniture and Mattresses
+    
+    Select items.
+    
+    shop furniture shop mattressesFourth Of July Home Sale
+    
+    Ends Sunday, July 6.
+    
+    shop the sale view store adSpecial Promotional Financing
+    
+    Available for furniture and mattresses when you use a JCPenney Credit Card.
+    
+    get details
+*   30-60% Off Guys' Arizona shop guys' Arizona30-60% Off Juniors' Arizona shop juniors' Arizona shop juniors' ArizonaFourth of July Sale
+    
+    Starts now!
+    
+    shop the saleBig Buys
+    
+    Get 'em while they last through Sunday, July 6.
+    
+    Big buys excluded from coupon offer.
+    
 
-Available for furniture and mattresses when you use a JCPenney Credit Card.
+Extra 25% Off Clearance
 
-get details 30-60% Off Select Swim For The Family shop swimwear 30-50% Off Select Women's JCP shop women's JCP $14.99 Select Men's St. John's Bay Shorts shop men's St. John's Bay shorts 40% Off Select Kids' Uniforms shop kids' uniforms $24.99 Select Men's Canvas Shoes shop men's canvas shoes 40-50% Off Select Accessories shop accessories JCP Rewards
+For a total savings of 60-75% Off selections, including furniture.
 
-Shop to earn $10 JCP Rewards
+25% Off cannot be combined with other offers.
+
+In Store and Online. July 2 through 6!
+
+Use Online Code: HOTDOG
+
+shop clearance get details 30-50% Off Select Women's JCP shop women's JCP 30-60% Off Select Swim For The Family shop women's swimwear shop swimwear $14.99 Select Men's St. John's Bay Shorts shop men's St. John's Bay shorts 30-60% Off Select Fashion Jewelry shop fashion jewelry 40% Off Select Kids' Uniforms shop kids' uniforms $19.99 Select Men's Canvas Shoes shop men's canvas shoes Dorm Life
+
+My dorm room is my happy place.
+
+shop all dorm life JCP Rewards
+
+Shop to earn $10 JCP Rewards.
 
 sign up todayWrite A Review For Your Chance To Win $500 see rules and detailsOwn Your Colors support your teamRed Zone Clearance Selections
 
