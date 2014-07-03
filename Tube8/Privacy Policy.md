@@ -194,11 +194,9 @@ Belize City,
 Belize  
 tube8.com@copyrightcomplianceagency.com  
 
-Please note: Copyright Compliance Agency cannot guarantee recipient of all mail unless it is sent by registered mail. Submitting your notice through any means other than the form may slow down the process of investigation of claims..
+Please note: Copyright Compliance Agency cannot guarantee recipient of all mail unless it is sent by registered mail. Submitting your notice through any means other than the form may slow down the process of investigation of claims.
 
-18 USC 2257 STATEMENT
-
-Tube8.com is not a producer (primary or secondary) of any and all of the content found on the website (Tube8.com). With respect to the records as per 18 USC 2257 for any and all content found on this site, please kindly direct your request to the site for which the content was produced.
+18 USC 2257 STATEMENT Tube8.com is not a producer (primary or secondary) of any and all of the content found on the website (Tube8.com). With respect to the records as per 18 USC 2257 for any and all content found on this site, please kindly direct your request to the site for which the content was produced.
 
 Tube8.com is a video sharing site in which allows for the uploading, sharing and general viewing of various types of adult content and while Tube8.com does the best it can with verifying compliance, it may not be 100% accurate.
 
@@ -238,7 +236,7 @@ Tube8.com username you created.
 
 Email us at affiliate@tube8.com
 
-Parental Control Tube 8 is rated with RTA. Parents, you can easily block access to this site. Please read this page for more information. PRIVACY POLICY
+Parental Control Tube 8 is rated with RTA. Parents, you can easily block access to this site. Please read this page for more information PRIVACY POLICY
 
 This document details important information regarding the use and disclosure of User Data collected on Tube8.com The security of your Data is very important to Tube8.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
