@@ -1,6 +1,7 @@
 *   Privacy Policy
     *   Current Privacy Policy
     *   Children’s Online Privacy Policy
+    *   Cookies Policy
     *   US-EU Safe Harbor
     *   MyMagic+ at Walt Disney World Resort
 *   Notice to CA Residents
@@ -10,7 +11,7 @@
 *   Internet Safety
 *   Contact Us
 
-Privacy Policy    Current Privacy Policy    Children’s Online Privacy Policy    US-EU Safe Harbor    MyMagic+ at Walt Disney World ResortNotice to CA ResidentsPrivacy Controls    Online Tracking and Advertising    Communication ChoicesInternet SafetyContact Us The Walt Disney Company Privacy Center
+Privacy Policy    Current Privacy Policy    Children’s Online Privacy Policy    Cookies Policy    US-EU Safe Harbor    MyMagic+ at Walt Disney World ResortNotice to CA ResidentsPrivacy Controls    Online Tracking and Advertising    Communication ChoicesInternet SafetyContact Us The Walt Disney Company Privacy Center
 
 The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that we have to offer on the platforms and devices our guests prefer.
 
