@@ -1,6 +1,6 @@
-Military Guests, thank you for your service.
+Want to win a Buckle gift card? Enter for your chance to win through Instagram.
 
-10% Military Discount
+How to enter.
 
 Guest Services 800-607-9788
 
@@ -62,7 +62,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
-    *   bucklejeans sweepstakes official rules
+    *   Buckle Jeans Sweepstakes Official Rules
     *   Buckle Card Double Points 2014
     *   Store Events
     *   Sweepstakes Winners
