@@ -333,8 +333,8 @@ Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
 
 Zur Startseite Diesen Artikel...
 
-*   Drucken
-*   Merken
+*   **Drucken**
+*   **Merken**
 *   Feedback
 *   Nutzungsrechte
 
@@ -348,7 +348,6 @@ Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH
 *   Donnerstag, 12.08.2010 – 11:29 Uhr
 *   Drucken
 *   Nutzungsrechte Feedback
-*   Zur Startseite
 
 Gliederung
 
@@ -444,6 +443,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 
 *   **DIENSTE**
 *   Schlagzeilen
+*   Nachrichtenarchiv
 *   RSS
 *   Newsletter
 *   Mobil
