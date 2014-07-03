@@ -233,7 +233,7 @@ Third-party advertisers may use web beacons in their ads in order to collect inf
 
 Your Choices  
 
-TYou can opt out of receiving targeted advertising from AdHub here \[https://account.samsung.com/membership/service/adhub.do\]. Please note that if you opt out, you will continue to see ads, but they may be less relevant to you because they will not be based on your interests.
+You can opt out of receiving targeted advertising from AdHub here \[https://account.samsung.com/membership/etc/setPersonalOption.do?openPage=adsCombination\]. Please note that if you opt out, you will continue to see ads, but they may be less relevant to you because they will not be based on your interests.
 
 Samsung Privacy Policy--SmartTV Supplement  
 
