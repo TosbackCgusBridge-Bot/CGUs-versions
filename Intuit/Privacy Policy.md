@@ -21,9 +21,9 @@
     
 *   ship to
 
-true false L12710840896
+true false C12572918708
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena861 SERVER NAME :->. prod-l1-com-0501 TIME :->. Wed Jul 02 12:52:22 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola711 SERVER NAME :->. prod-c1-com-71101 TIME :->. Thu Jul 03 03:45:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -63,7 +63,7 @@ Online Code: HOTDOG
     
     Select items.
     
-    shop furniture shop mattressesFourth Of July Home Sale
+    shop furnitureFourth Of July Home Sale
     
     Ends Sunday, July 6.
     
@@ -71,12 +71,18 @@ Online Code: HOTDOG
     
     Available for furniture and mattresses when you use a JCPenney Credit Card.
     
-    get details
+    get detailsNight and Day Doorbusters
+    
+    In Store Only, Thursday, July 3, 3PM until close, Friday, July 4, 10AM until 1PM.
+    
+    Excluded from coupon.
+    
+    view doorbusters
 *   30-60% Off Guys' Arizona shop guys' Arizona30-60% Off Juniors' Arizona shop juniors' Arizona shop juniors' ArizonaFourth of July Sale
     
     Starts now!
     
-    shop the saleBig Buys
+    shop the sale view store adBig Buys
     
     Get 'em while they last through Sunday, July 6.
     
@@ -93,7 +99,11 @@ In Store and Online. July 2 through 6!
 
 Use Online Code: HOTDOG
 
-shop clearance get details 30-50% Off Select Women's JCP shop women's JCP 30-60% Off Select Swim For The Family shop women's swimwear shop swimwear $14.99 Select Men's St. John's Bay Shorts shop men's St. John's Bay shorts 30-60% Off Select Fashion Jewelry shop fashion jewelry 40% Off Select Kids' Uniforms shop kids' uniforms $19.99 Select Men's Canvas Shoes shop men's canvas shoes Dorm Life
+shop clearance get details 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 20% Off Select Men's Nike shop men's Nike 55-60% Off Select Kids' Activewear shop kids' activewear 30-50% Off Select Bedding shop bedding $25 Select Nike Sandals
+
+Excluded from coupon.
+
+shop Nike sandals 40-60% Off Select Women's Swimwear shop women's swimwear Dorm Life
 
 My dorm room is my happy place.
 
