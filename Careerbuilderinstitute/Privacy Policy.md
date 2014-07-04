@@ -1,22 +1,18 @@
-Skip to job search form Skip navigation Employers: Post Jobs | Search Resumes    Already Registered? Sign In >>.    Help    Security
+Employers: Post Jobs | Search Resumes Sign In Help Security
 
 *   Home
 *   My CareerBuilder
-    *   My CareerBuilder
     *   Saved Jobs and Applications
     *   Post Resume
     *   Fraud Protection
 *   Find Jobs
-    *   Find Jobs
     *   Setup Email Alert
     *   Advanced Search
     *   Company Search
-*   Job Recommendations
+*   Recommendations
 *   Post Resumes
-    *   Post Resumes
     *   Resume Writing
 *   Advice &. Resources
-    *   Advice &. Resources
     *   Career Resources
     *   Salary Calculator
     *   hireINSIDER
@@ -27,7 +23,9 @@ Find Jobs Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 6060
 *   Post a resume to be found by registered employers
 *   Create a Job Alert and more for free
 
-Insights Create a CareerBuilder Account Jobs
+Insights Create a CareerBuilder Account
+
+Menu Search Sign In Resumes Send Feedback Show only jobs I can apply to using mobile device. Jobs
 
 *   **Recently Posted**
 
