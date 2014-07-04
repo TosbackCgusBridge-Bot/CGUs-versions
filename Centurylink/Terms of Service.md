@@ -46,6 +46,7 @@ back to top
 *   Privacy Policy
 *   Copyright Notices
 *   Website User Agreement
+*   Payment Agreement
 *   Online Security
 *   Terms &. Conditions
 *   Tariff Library
