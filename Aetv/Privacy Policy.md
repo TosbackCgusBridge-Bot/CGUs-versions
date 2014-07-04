@@ -6,6 +6,7 @@ TABLE OF CONTENTS
 *   Welcome
 *   General Information Collected
 *   Personal Information Collected
+*   Additional Nielsen Terms
 *   Personal Information Use
 *   A+E Vendor Communications and Opt Out
 *   A+E Marketing Communications and Opt Out
@@ -60,7 +61,14 @@ TABLE OF CONTENTS
     4.  Online purchases – when you place an order online, we collect information associated with the transaction, including your full name, billing and mailing addresses, credit card, banking or other payment information, products ordered, shipping information and identity verification information (driver’s license, social security number). This information is used to enhance the goods that we offer through our store, as well as to ensure that our financial partners can process the payment to us and that our third party fulfillment company can deliver the products that you ordered to the address that you provided.
     5.  Invitations – if you invite someone to use a feature of one of our Websites, we will disclose your real name as part of the invitation you send, as this information is necessary to ensure that the invited person knows who has sent the invitation.
     6.  Mobile– A+E collects information regarding your GPS location when you use the Websites and associated services from your mobile device if your device has location services enabled.
-4.  PERSONAL INFORMATION USE
+4.  ADDITIONAL NIELSEN TERMS
+    
+    The Websites that enable you to view A+E’s video content feature proprietary measurement software from The Nielsen Company (“Nielsen”) which will allow you to contribute to market research, like Nielsen's TV Ratings. The Information is collected directly by Nielsen’s software within the applicable Website. Neither A+E nor Nielsen makes any representations or warranties to you regarding the Nielsen software. The Nielsen software is licensed solely for your use within the applicable Website, and Nielsen reserves all intellectual property rights and goodwill associated with such software. The Nielsen software also contains third party software that remains the property of its respective owners.
+    
+    To learn more about Nielsen’s digital measurement products and your choices in regard to them, please visit Nielsen’s Digital Measurement Privacy Policy page at www.nielsen.com/digitalprivacy for more information. Once there, you can access more detailed information about the measurement software and learn about your choices with regard to Nielsen’s measurement. In the “Choices” section of the Digital Measurement Privacy Policy Page, you will have the opportunity to receive an opt-out cookie if you do not want to participate in Nielsen’s online measurement.  
+     
+    
+5.  PERSONAL INFORMATION USE
     
     Unless otherwise specified in this Privacy Policy or unless legally required to do so, A+E will not sell, rent or otherwise disclose your Personal Information to any outside company or organization.  This Privacy Policy excludes data that may be stored or transmitted to or from the service provider hosting the Websites.
     
@@ -75,15 +83,15 @@ TABLE OF CONTENTS
     A+E may take your Personal Information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information).  Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of A+E to aggregate or de-personalize your personal information, and A+E may use and/or share with third parties the resulting non-personally identifiable information in any manner in A+E’s sole discretion.  
      
     
-5.  A+E VENDOR COMMUNICATIONS AND OPT OUT
+6.  A+E VENDOR COMMUNICATIONS AND OPT OUT
     
     In addition to its own use, A+E may pass your Personal Information to third party fulfillment companies, web hosting companies, customer support specialists, data analysis firms, email service providers, shipping companies and credit card processors and/or any of their authorized agents who provide the goods or services requested to meet your needs.  A+E may also provide your email address to vendors that it deems provide goods or services which you may need.  If you do not want to receive any communications by email from such vendors, then you may opt-out by contacting us at feedback@aenetworks.com (subject line: “Opt -Out Vendor Communications”).
     
-6.  A+E MARKETING COMMUNICATIONS AND OPT OUT
+7.  A+E MARKETING COMMUNICATIONS AND OPT OUT
     
     A+E may also use your Personal Information, or a portion thereof, to send you marketing materials, channel and/or show information, vendors with information that you may need, special event information, A+E newsletters or advertisements and/or information that A+E thinks may be of interest to you, unless you notify A+E that you do not wish to receive such materials.  A+E may also use the services of bonded mailing houses that are authorized to use your Personal Information only for the benefit of A+E.  Please contact A+E at feedback@aenetworks.com (subject line: “Opt-Out Marketing Communications”) to request that you not be sent any or all of such information.
     
-7.  AD SERVICE PROVIDERS
+8.  AD SERVICE PROVIDERS
     
     A+E may from time to time engage the services of third party ad service providers, both of whom may collect non-personally identifying information about you when an advertisement is on the page you are viewing, or when you interact with one of the advertisements. These third party ad service providers and A+E may use your non-personally identifying information to determine what types of advertisements you might like to see on our Websites, as well as advertisements on third party websites.  This non-personally identifiable information can be collected by A+E or a third party ad service provider through technical means such as cookies, flash cookies and/or session ID cookies. A+E and its third party ad service providers may collect this non-personally identifiable information for these purposes unless you opt-out of such collection and/or use as explained further in our Ad Choices Policy.
     
@@ -93,7 +101,7 @@ TABLE OF CONTENTS
     
     A+E and/or our third party ad service provides are or are in the process of becoming members of regulatory organizations, including the Network Advertising Initiative (“NAI”), Digital Advertising Alliance (“DAA”), and the Interactive Advertising Bureau (“IAB”), which are working to address important privacy and consumer protection issues regarding the collection of information for use in online advertising. You may opt-out of our collection of this non-personally identifying information using the Consumer Choice Page opt-out tool which allows you to opt-out of our collection of such information, as well as to opt-out of the data collection and preference-based ad programs of participating companies at www.aboutads.info/choices.
     
-8.  COOKIES
+9.  COOKIES
     
     The use of “Cookies” is a standard practice among websites.  A Cookie is a small text file that is placed on your computer to uniquely distinguish your visit to a website.  Cookies are most often used to track specific information regarding your activity on a particular website.
     
@@ -104,19 +112,19 @@ TABLE OF CONTENTS
     You may configure your browser to accept or deny Cookies from our Websites.  However, disabling or denying Cookies from our Websites may render parts of them inaccessible or may cause certain web pages not to properly load. There are also several services and websites which allow you to visit websites, including our Websites anonymously. Again, you may not be able to access or use all of the web pages for the Websites if you use these anonymizing services or websites.  
      
     
-9.  WEB BEACONS
+10.  WEB BEACONS
     
     A+E may use “Web Beacons,” sometimes referred to as “clear gifs” or “web bugs,” which is another way (instead of Cookies) to help personalize your experience on the Websites.  Web Beacons are typically invisible to you and are generally embedded in very small clear graphics files. We may use Web Beacons to monitor certain non-personally identifiable information about you, including the URL of the page from which the Web Beacon originated, the type of browser used, the IP address of your computer and the time you viewed the Web Beacon. We may also use Web Beacons to assist our third party advertising and/or content companies in providing the contact they believe you want to see. Web Beacons are also used to allow such third parties to determine how many people view the advertisements and/or click through, and to assist in serving and managing advertisements and content.  While Web Beacons do not collect Personal Information, the information collected by them may be used in conjunction with Cookies to identify aggregate information about our Website users.
     
-10.  DMCA INFORMATION
+11.  DMCA INFORMATION
     
     Personal Information that you provide to us in association with a DMCA notification or counter-notification will be disclosed to third parties. All information contained in or associated with a DMCA notification will be disclosed to the alleged infringer.  All information contained in or associated with a DMCA counter-notification will be disclosed to the initial claimant.  See our Copyright Policy for more information on notifications and counter-notifications.
     
-11.  CONTACT BY A+E
+12.  CONTACT BY A+E
     
     You do not have to participate in A+E’s mailing lists (newsletters) in order to use the Websites.  However, if you elect not to receive such newsletters, you may miss valuable information on A+E, its channels and shows and/or its goods or services.  A+E will not contact you nor send you marketing materials unless you have accepted to receive such contact or information (i.e., you have not opted out).
     
-12.  MAINTENANCE OF PERSONAL INFORMATION
+13.  MAINTENANCE OF PERSONAL INFORMATION
     
     You can access your Personal Information contained in A+E’s database by contacting us at feedback@aenetworks.com.  If you believe that any of your information is incorrect or needs updating, please let us know either at the email address listed in this section, or by U.S. Postal Mail to our address listed below (Attn: Information Access).  A+E will use reasonable efforts to correct your information and our records upon verification of the requested change.  If you no longer wish to receive email or postal notifications about our Websites, goods, services or special promotions, please let us know by sending an email to feedback@aenetworks.com  or by sending us a letter via U.S. Postal Mail at our address listed below (Attn: Opt-Out of Mailings) and specifying in the text of your email or letter which notifications you no longer wish to receive.  In addition, within the text of your email or letter, you should provide your exact name and address so that we can do our best to ensure that you stop receiving the notifications that you no longer wish to receive.  After such a request is received, A+E will use reasonable efforts to refrain from including you when sending such notifications by noting your opt-out election in our database.
     
@@ -124,17 +132,17 @@ TABLE OF CONTENTS
     
     A+E may provide security measures that are designed to restrict access to certain portions of the Websites, such as private chat rooms, restricted forums or instant messaging, but A+E cannot and is not responsible for circumvention of these security measures or for further distribution or use of any information you disclose in public areas by others.  We may also provide you tools to edit and remove the information or materials you make available on our Websites, but even after removal, copies of any information you post may remain viewable in cached, archived or otherwise saved media that is outside the control of A+E. You are solely responsible for any information and materials that you choose to make available on public areas of our Websites.
     
-13.  CHILDREN
+14.  CHILDREN
     
     A+E does not knowingly solicit or collect information from children (defined as minors younger than thirteen (13) years of age).  If you are the parent or guardian of a child under the age of eighteen (18), or the legal age of contract majority, and have authorized your child to use your computer, we urge you to instruct your child never to give out his or her real name, address, phone number, email address or other personally identifying information while on our Websites.  There are no computer applications on our Websites which allow for the determination of your age. If A+E discovers that Personal Information of a child under 13 has been collected, A+E will take reasonable steps to delete this information. All information volunteered to A+E will be treated the same as information given by an adult.  A+E recommends that the Internet browsing behavior of any child should be carefully supervised by a responsible adult at all times.
     
-14.  LINKS TO OTHER WEBSITES
+15.  LINKS TO OTHER WEBSITES
     
     Our Websites contain several links to or integrations with other websites, including but not limited to Facebook Connect, Twitter, Disqus, etc., whose information practices may be different than ours.  Neither A+E, nor any of its officers, directors, partners, affiliates, subsidiaries, employees, agents, representatives, vendors or suppliers is responsible for the content, privacy policies, products, services, reliability, viewpoint or accuracy of information on any such websites.  We do not control and are not responsible for the collection of personal information by third party websites, including websites owned or controlled by our preferred financial partners, advertisers, vendors and/or websites not controlled or authorized by A+E.  Third party websites that are accessed through links on our Websites or integrations with other websites have separate privacy policies.  We have no responsibility or liability for the policies implemented by third parties on their websites.  You should contact those third parties directly to ask questions about their privacy policies.
     
     If you enter or choose to leave our Websites via links to other non-A+E websites, your visits and actions on those websites are not covered by this Privacy Policy.
     
-15.  SECURITY
+16.  SECURITY
     
     The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative and physical security measures to protect your information from unauthorized access and improper use.  A+E makes access to your Personal Information subject to certain security measures, including technological controls such as “firewalls,” in accordance with industry standards.  When the use of an A+E web page involves the transmission of Personal Information or confidential information, A+E may use Secure Socket Layer (“SSL”) technology to establish a secure connection between your computer and A+E.  SSL allows the transmission of encrypted information from your computer to A+E and back again and is currently the industry standard for Internet platform security.  From time to time, we review our security procedures in order to consider appropriate new technology and methods. 
     
@@ -143,7 +151,7 @@ TABLE OF CONTENTS
     A+E reserves the right to monitor all network traffic to our Websites to identify and/or block unauthorized attempts or intrusions to upload or change information or cause damage to any of our Websites in any manner.  Anyone using any of our Websites expressly consents to such monitoring.  
      
     
-16.  YOUR CALIFORNIA PRIVACY RIGHTS
+17.  YOUR CALIFORNIA PRIVACY RIGHTS
     
     FOR RESIDENTS OF CALIFORNIA ONLY.  Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your Personal Information with third parties.  If you reside in California and have provided your Personal Information to A+E, you may request information about our disclosures of certain categories of Personal Information to third parties for direct marketing purposes. Such requests must be submitted to us at one of the following addresses: DMC@aenetworks.com  or
     
@@ -157,17 +165,17 @@ TABLE OF CONTENTS
     Within thirty (30) days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of those third parties.  This request may be made no more than once per calendar year.  We reserve our right not to respond to requests submitted other than to the address specified in this section.  
      
     
-17.  GOVERNING LAW / TRANSMISSION OF INFORMATION
+18.  GOVERNING LAW / TRANSMISSION OF INFORMATION
     
     Our Websites are controlled and operated from our offices within the State of New York, United States of America.  By choosing to visit our Websites or otherwise provide information to A+E, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of New York as more fully set forth in our Terms of Use. 
     
     If you are accessing our Websites from any location with regulations or laws governing personal data collection, use or disclosure that differ from United States laws or regulations, please note that through your continued use of our Websites, which is governed by the laws of the State of New York and the United States of America and this Privacy Policy, you are transferring Personal Information to the United States of America and you consent to that transfer and any associated processing.
     
-18.  CHANGES
+19.  CHANGES
     
     A+E has included the effective date of this Privacy Policy at the top and bottom of this web page. A+E reserves the right to make changes to any terms of this Privacy Policy at any time, however, A+E shall provide notification to you in advance of any changes becoming effective, such as by posting a notification on the Websites or via email. If you continue to access and/or use any of the Websites after the effective date of such changes, then such access and/or use will be deemed an acceptance of and an agreement to follow and be bound by the terms as changed. The revised Privacy Policy supersedes all previous notices or statements regarding the Websites. For this reason, we encourage you to review this Privacy Policy any time you access or use the Websites, and we recommend that you print out a copy for your records.
     
-19.  HOW TO CONTACT US
+20.  HOW TO CONTACT US
     
     If you have any questions or concerns about this Privacy Policy, you may contact us through any of the following means, however, please be sure to specify the reason for your communication.  Please be aware that any opt-out or other requests with specific email addresses will not be addressed through communication to these general means.
     
@@ -178,4 +186,4 @@ TABLE OF CONTENTS
     Attention: Digital Media Counsel, Legal &. Business Affairs Telephone: 212-210-1400 Facsimile: 212-210-1308, Attention: Digital Media Counsel, Legal &. Business Affairs
 
 ©2012 A&E Televisions Networks, LLC. -- All Rights Reserved.  
-Updated: June 20, 2012
+Updated: July 3, 2014
