@@ -190,6 +190,7 @@ Lenovo United States Select a country/region
         *   Flex Series: Mainstream Multimode Laptops
         *   U Series: Designer Laptops/Ultrabooks
         *   S Series: Entry-Level Ultraportables
+        *   N Series: Affordable Chromebooks
         *   G Series: Everyday Laptops
     
     *   ThinkPad T440s Legendary THINK performance.
@@ -245,10 +246,11 @@ Lenovo United States Select a country/region
         Multiple Possibilities.
         
         **Shop now >**
-    *   Special Offer Get the Yoga Tablet 10 for $199.
+    *   NEW Lenovo A7 Enhanced Amenities.
         
-        Save $120 on the Yoga Tablet 59387956 when ordering a PC over $899 on Lenovo.com. Call Sales to redeem. 855-253-6686
+        Astounding Value.
         
+        **Shop now >**
     
     Not sure what you need?
     *   New Product Showcase
@@ -370,9 +372,9 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   NOTEBOOK STAND Save 52%
+    *   SMART MOUSE Save 57%
         
-        Lifts and tilts your laptop to eye level.
+        Touchpad and mouse for an optimized Windows 8 experience.
         
         **Shop now >**
     *   QUICK SHIP ACCESSORIES
