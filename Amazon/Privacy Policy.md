@@ -18,7 +18,7 @@ Nous savons que vous êtes attentifs à l'utilisation et au partage de vos infor
 
 Responsable du traitement
 
-Tout traitement des informations personnelles communiquées à Amazon.fr est effectué sous la responsabilité, premièrement, d'Amazon Europe Core SARL, d'Amazon EU SARL, Amazon Services Europe SARL et Amazon Media EU SARL, les quatre entités situées au 5 rue Plaetis, L -2338Luxembourg, les responsables du traitement, et deuxièmement, d'Amazon.fr SAS, le sous traitant, situé au 67 Boulevard du Général Leclerc - 92110 Clichy.
+Tout traitement des informations personnelles communiquées à Amazon.fr est effectué sous la responsabilité, premièrement, d'Amazon Europe Core SARL, d'Amazon EU SARL, Amazon Services Europe SARL et Amazon Media EU SARL, les quatre entités situées au 5 rue Plaetis, L -2338 Luxembourg, les responsables du traitement, et deuxièmement, d'Amazon.fr SAS, le sous-traitant, situé au 67 Boulevard du Général Leclerc - 92110 Clichy.
 
 Amazon.com, Inc. et les filiales qu'elle contrôle aux Etats-Unis, participent au programme Safe Harbour (« la Sphère de Sécurité ») développé par le ministère américain du Commerce et par l'Union européenne. Ces sociétés du groupe Amazon ont certifié qu'elles adhèrent aux principes de protection des données personnelles du Safe Harbour (« la Sphère de Sécurité »)acceptés conjointement par les États-Unis et l'Union européenne. Pour plus d'informations concernant le Safe Harbour et pour voir la certification de ces sociétés du groupe Amazon, nous vous invitons à visiter le site Internet Safe Harbour du département américain du commerce. Si vous souhaitez contacter Amazon directement concernant le programme Safe Harbour, veuillez envoyer un e-mail à safeharbour@amazon.com.
 
