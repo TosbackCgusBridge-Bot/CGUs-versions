@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   Vishnu
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true C12576662683
+true true L12715666149
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola862 SERVER NAME :->. prod-c1-com-0601 TIME :->. Fri Jul 04 09:50:15 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l1-com-70102 TIME :->. Sat Jul 05 03:30:28 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -63,7 +63,7 @@ Online Code: HOTDOG
     
     Select items.
     
-    shop furnitureFourth Of July Home Sale
+    shop furniture shop mattressesFourth Of July Home Sale
     
     Ends Sunday, July 6.
     
@@ -71,13 +71,7 @@ Online Code: HOTDOG
     
     Available for furniture and mattresses when you use a JCPenney Credit Card.
     
-    get detailsNight and Day Doorbusters
-    
-    In Store Only, Thursday, July 3, 3PM until close, Friday, July 4, 10AM until 1PM.
-    
-    Excluded from coupon.
-    
-    view doorbusters
+    get details
 *   30-60% Off Guys' Arizona shop guys' Arizona30-60% Off Juniors' Arizona shop juniors' Arizona shop juniors' ArizonaFourth of July Sale
     
     Starts now!
@@ -99,7 +93,11 @@ In Store and Online. July 2 through 6!
 
 Use Online Code: HOTDOG
 
-shop clearance get details 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 20% Off Select Men's Nike shop men's Nike 55-60% Off Select Kids' Activewear shop kids' activewear 30-50% Off Select Bedding shop bedding $25 Select Nike Sandals
+shop clearance get details 30-40% Off Select Women's St. John's Bay shop women's St. John's Bay 20% Off Select Men's Nike
+
+Excluded from coupon.
+
+shop men's Nike 55-60% Off Select Kids' Activewear shop kids' activewear 30-50% Off Select Bedding shop bedding $25 Select Nike Sandals
 
 Excluded from coupon.
 
