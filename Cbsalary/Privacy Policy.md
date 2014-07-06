@@ -1,27 +1,25 @@
-Skip to job search form Skip navigation     Employers: Post Jobs | Search Resumes    Already Registered? Sign In >>.    Help    Security
+Employers: Post Jobs | Search Resumes Sign In Help Security
 
 *   Home
 *   My CareerBuilder
-    *   My CareerBuilder
     *   Saved Jobs and Applications
     *   Post Resume
     *   Fraud Protection
 *   Find Jobs
-    *   Find Jobs
     *   Setup Email Alert
     *   Advanced Search
     *   Company Search
-*   Job Recommendations
+*   Recommendations
 *   Post Resumes
-    *   Post Resumes
     *   Resume Writing
 *   Advice &. Resources
-    *   Advice &. Resources
     *   Career Resources
     *   Salary Calculator
     *   hireINSIDER
 
-Search Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Save a Search >>. Saved Searches How Much Do You Make?
+Search Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Save a Search >>. Saved Searches
+
+Menu Search Sign In Resumes Send Feedback Show only jobs I can apply to using mobile device. How Much Do You Make?
 
 Find annual salaries and compare average salary information locally.  
 Search now to discover how much you can make.
