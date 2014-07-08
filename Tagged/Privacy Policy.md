@@ -1,4 +1,4 @@
-The Social Network for **meeting** new people
+**Join the Party** anytime, anywhere.
 
 *   It's Free!
 *   Join Tagged
