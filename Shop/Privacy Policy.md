@@ -193,22 +193,6 @@ Lenovo United States Select a country/region
         *   N Series: Affordable Chromebooks
         *   G Series: Everyday Laptops
     
-    *   ThinkPad T440s Legendary THINK performance.
-        
-        Super-slim package.
-        
-        **Shop now >**
-    *   Discover Yoga One Device.
-        
-        Multiple Possibilities.
-        
-        **Shop now >**
-    *   Lenovo Y50 Boldly Designed.
-        
-        Fierecely Entertaining. Unparalleled Visuals
-        
-        **Shop now >**
-    
     Not sure what you need?
     *   New Product Showcase
     *   Top Rated &. Best Selling Laptops
@@ -219,7 +203,6 @@ Lenovo United States Select a country/region
     *   Battery Finder
     *   Deals
     
-     
 *   Tablets
     
     *   Android TabletsThe World's Most Popular Mobile Platform
@@ -240,25 +223,12 @@ Lenovo United States Select a country/region
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
     
-    *   NEW LENOVO A10 Your Affordable Entertainment Hub. **Shop now >**
-    *   Discover Yoga One Device.
-        
-        Multiple Possibilities.
-        
-        **Shop now >**
-    *   NEW Lenovo A7 Enhanced Amenities.
-        
-        Astounding Value.
-        
-        **Shop now >**
-    
     Not sure what you need?
     *   New Product Showcase
     *   See All Tablets
     *   Bags &. Carrying Cases
     *   Deals
     
-     
 *   Desktops &. All-in-Ones
     
     *   ThinkCentre Desktops Premium Performance, Solid Reliability
@@ -280,22 +250,6 @@ Lenovo United States Select a country/region
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
-    *   Deals on ThinkCentre
-        
-        Get great deals on our powerful ThinkCentre desktop systems every day.
-        
-        **Shop now >**
-    *   Lenovo Q190
-        
-        Take control of your home theatre.
-        
-        **Shop now >**
-    *   Less is More
-        
-        More power, in less space, the ThinkCentre M73 Tiny delivers uncompromising performance.
-        
-        **Shop now >**
-    
     Not sure what you need?
     *   New Product Showcase
     *   Best Selling Desktops
@@ -305,7 +259,6 @@ Lenovo United States Select a country/region
     *   Keyboards &. Mice
     *   Deals
     
-     
 *   Workstations
     *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
         *   C Series: Powerful &. Compact
@@ -316,7 +269,6 @@ Lenovo United States Select a country/region
         *   W Series: Portable Workstations
     
 *   Servers &. Storage
-    
     *   Racks Balanced Design. Built for Business.
         *   RD340
         *   RD440
@@ -330,13 +282,6 @@ Lenovo United States Select a country/region
         *   Network Storage
         *   Direct Storage
         *   Video Surveillance
-    
-    *   TIME TO UPGRADE YOUR SERVERS?
-        
-        Outdated OS? Lackluster network performance? High maintenance costs? ThinkServer has the cure.
-        
-        **Learn more >**
-    *   Lenovo's Service Commitment to x86 server customers **Learn more >**
     
 *   Accessories &. Software
     
@@ -372,27 +317,11 @@ Lenovo United States Select a country/region
         *   Thin Client Solutions
         *   Free System Checkup
     
-    *   SMART MOUSE Save 57%
-        
-        Touchpad and mouse for an optimized Windows 8 experience.
-        
-        **Shop now >**
-    *   QUICK SHIP ACCESSORIES
-        
-        Select accessories ship next business day!
-        
-        **Shop now >**
-    *   ELECTRONIC DOWNLOADS
-        
-        A more convenient way to purchase software for your PC!
-        
-        **Shop now >**
-    
     Not sure what you need?
     *   Best Selling Accessories
     *   Quick Ship Accessories
     *   See All Accessories
-    *   For Work 
+    *   For Work
 *   Services &. Warranty
     
     *   Product Support Provides flexible warranty support options to keep you up and running.
@@ -412,8 +341,6 @@ Lenovo United States Select a country/region
         *   In-Place Migration
         *   Asset Recovery Services
         *   Financial Services
-    
-    *   Lenovo's Service Commitment to x86 server customers **Learn more >**
     
 *   Deals
     *   Current Offers
