@@ -58,8 +58,8 @@ Or, mail to:
 
 Copyright Agent  
 Bitcasa, Inc.  
-215 Castro St. 2nd Floor  
-Mountain View, CA 94041  
+1200 Park Place Ste 350  
+San Mateo, CA 94403  
 Other Content and Other Users
 
 The Services may contain links to third-party websites or resources. Bitcasa does not endorse and is not responsible or liable for their availability, accuracy, the related content, products, or services. You are solely responsible for your use of any such websites or resources. Also, if we provide you with any software under an open source license, there may be provisions in those licenses that expressly conflict with these Terms, in which case the open source provisions will apply.
