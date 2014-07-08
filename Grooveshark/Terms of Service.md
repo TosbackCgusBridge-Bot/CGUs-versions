@@ -1,6 +1,4 @@
-Last Updated: July 15, 2013
-
-Effective Date: November 25, 2013
+Effective Date: June 23, 2014
 
 Welcome to Grooveshark!
 
@@ -26,7 +24,7 @@ EMG may change, add to, remove, suspend or discontinue any aspect of the Service
 
 **IF ANY OF THESE RULES OR ANY FUTURE CHANGES ARE UNACCEPTABLE TO YOU, DO NOT USE THE SERVICE. YOUR CONTINUED USE OF THE SERVICE NOW, OR FOLLOWING NOTICE OF ANY CHANGES IN THIS AGREEMENT, WILL INDICATE ACCEPTANCE AND AGREEMENT BY YOU OF SUCH RULES, CHANGES, OR MODIFICATIONS.**
 
-You may terminate this Agreement at any time by permanently discontinuing your use of the Service. EMG may terminate this Agreement at any time for any reason.
+EMG may terminate this Agreement at any time for any reason.
 
 Account Registration
 
@@ -36,7 +34,7 @@ You may not provide a false email address, impersonate any person or entity, or 
 
 You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your account. You agree to immediately notify EMG of any unauthorized use of your account or any other breach of security. EMG cannot and will not be liable for any loss or damage arising from your failure to protect your account.
 
-If you choose to subscribe to the Grooveshark service, you agree to pay all fees and charges associated with your subscription on a timely basis. All such fees and charges (including any applicable taxes or charge back fees) will be charged to the credit card you have provided.
+If you choose to subscribe to the Grooveshark service, your payment to Grooveshark will automatically renew at the end of the subscription period until you cancel your recurring subscription by updating your account settings or emailing \[email protected\] The cancellation will take effect the day after the end of the current subscription period. You agree to pay all fees and charges associated with your subscription on a timely basis. All such fees and charges (including any applicable taxes or charge back fees) will be charged to the credit card or account you have provided. If you decide to use Bitcoin as your choice of payment, please be aware that Bitcoins are instantly converted to currency (USD) at the time of purchase, so any refunds will be in the same value of USD at the time of purchase but not necessarily the same number of Bitcoin (if the exchange rate has changed).
 
 Use of the Service
 
@@ -79,7 +77,7 @@ You acknowledge that EMG may, at EMG's sole discretion, impose limits on certain
 
 User Content
 
-Please choose carefully the words, information, content, messages, text, files, images, photos, videos, music, sounds, profiles, works of authorship or any other materials you post, upload, broadcast, link to, publish, display or otherwise make available on the Site or through the Service and any such content that you provide or make available to other Users (collectively, "User Content"). You are responsible for all of your User Content, as set forth below.
+Please choose carefully the words, information, content, comments, messages, text, files, images, photos, videos, music, sounds, profiles, works of authorship or any other materials you post, upload, broadcast, link to, publish, display or otherwise make available on the Site or through the Service and any such content that you provide or make available to other Users (collectively, "User Content"). You are responsible for all of your User Content, as set forth below.
 
 For clarification purposes, you retain all of your ownership rights in your User Content. However, unless EMG indicates otherwise, by submitting User Content to the Service you grant EMG and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sub-licensable right to use, display, perform, reproduce, publish, and distribute such User Content throughout the world via the Service. You also grant each User of the Service a nonexclusive license to access your User Content through the Service, and to use, reproduce, distribute, display, broadcast and perform such User Content as permitted through the functionality of the Service and pursuant to this Agreement. You grant EMG and its affiliates the right to use the name that you submit in connection with such User Content.
 
