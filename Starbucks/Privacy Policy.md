@@ -57,7 +57,7 @@ Starbucks offers choices for you to request to update or change your personal in
 
 *   Follow the opt-out instructions in promotional emails we send you.
 *   Log in to your Starbucks.com account, if you have one, and visit the profile management section to manage your contact information (SMS text, email and postal address) preferences and to update your personal information.  
-*   Call 1-800-STARBUC.
+*   Call 800-782-7282.
 
 If you opt out of receiving promotional communications from us, we may still send you non-promotional communications such as emails about your accounts or our ongoing business relations.
 
@@ -77,4 +77,4 @@ Questions and Feedback
 
 We welcome your questions, comments and concerns about privacy.
 
-Starbucks Customer Relations can be contacted online, at (800) 235-2883 or by postal mail at Starbucks Customer Relations, PO Box 3717, Seattle, WA 98124-3717.
+Starbucks Customer Service can be contacted online, at (800) 782-7282 or by postal mail at Starbucks Customer Service, PO Box 6363, Dover, DE 19905-6363.
