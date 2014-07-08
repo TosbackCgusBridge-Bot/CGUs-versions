@@ -161,8 +161,8 @@ Thank you!
 
   
 
-about work here blog legal privacy policy contact us feedback always welcome
+about us work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2014 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2014.7.5.1048
+2014.7.7.1058
