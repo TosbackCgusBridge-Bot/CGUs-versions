@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Yin
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true C12579373093
+true true C12582475356
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola721 SERVER NAME :->. prod-c1-com-72101 TIME :->. Sun Jul 06 03:08:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola781 SERVER NAME :->. prod-c1-com-78102 TIME :->. Mon Jul 07 04:04:05 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,75 +43,42 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+  
+Online Only
 
 Select original, regular and sale-priced items.
 
-Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
-Or, Extra 15% Off\* with any other method of payment.
+Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Ends July 6.
+Held over! Ends today.
 
 Online Code: HOTDOG
 
-\*See exclusions and details. print store coupon
+\*See exclusions and details. Home Savings 30-50% Off\*
 
-*   40-50% Off Furniture and Mattresses
-    
-    Select items.
-    
-    shop furniture shop mattressesFourth Of July Home Sale
-    
-    Ends Sunday, July 6.
-    
-    shop the sale view store adSpecial Promotional Financing
-    
-    Available for furniture and mattresses when you use a JCPenney Credit Card.
-    
-    get details
-*   30-60% Off Guys' Arizona shop guys' Arizona30-60% Off Juniors' Arizona shop juniors' Arizona shop juniors' ArizonaFourth of July Sale
-    
-    Starts now!
-    
-    shop the sale view store adBig Buys
-    
-    Get 'em while they last through Sunday, July 6.
-    
-    Big buys excluded from coupon offer.
-    
+Online Only. Ends July 9.
 
-Extra 25% Off Clearance
+Online Code: 23HOME
 
-For a total savings of 60-75% Off selections, including furniture.
+shop the sale \*See exclusions and details. 40% Off\* Bedding and Bath shop bedding and bath 40-50% Off\* Furniture and Mattresses shop furniture and mattresses 30% Off\* Kitchen and Dining shop kitchen and dining 50% Off\* Luggage shop luggage 40% Off\* Blinds and Shades
 
-25% Off cannot be combined with other offers.
+\*Some exclusions apply.
 
-In Store and Online. July 2 through 6!
+shop blinds and shades 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay 30-60% Off Select Fashion Jewelry shop fashion jewelry 40-50% Off Select Styles From The Foundry Supply Co. shop the Foundry 40-60% Off Select Women's Swim shop women's swim $19.99-24.99 Select Women's Sandals shop women's sandals 40-50% Off Select Kids' Arizona shop kids' Arizona Look Smart All Year Long shop all school uniforms Dorm Life shop all dorm life JCP Rewards
 
-Use Online Code: HOTDOG
+Shop to earn $10 JCP Rewards
 
-shop clearance get details 30-40% Off Select Women's St. John's Bay shop women's St. John's Bay 20% Off Select Men's Nike
+sign up today Gift Cards
 
-Excluded from coupon.
+Always fits, never expires.
 
-shop men's Nike 55-60% Off Select Kids' Activewear shop kids' activewear 30-50% Off Select Bedding shop bedding $25 Select Nike Sandals
+shop gift cards Own Your Colors support your team Red Zone Clearance Selections
 
-Excluded from coupon.
-
-shop Nike sandals 40-60% Off Select Women's Swimwear shop women's swimwear Dorm Life
-
-My dorm room is my happy place.
-
-shop all dorm life JCP Rewards
-
-Shop to earn $10 JCP Rewards.
-
-sign up todayWrite A Review For Your Chance To Win $500 see rules and detailsOwn Your Colors support your teamRed Zone Clearance Selections
-
-50-70% Off
+50-70% Off.
 
 shop clearance
 
