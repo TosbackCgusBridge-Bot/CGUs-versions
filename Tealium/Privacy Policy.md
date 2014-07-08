@@ -80,7 +80,7 @@ Tealium
 *   Free 30-Day Trial
 
 Tealium IQ Enterprise Tag Management  
-Pricing• Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server•Get a Demo Tealium AudienceStream Digital Data Distribution  
+Pricing• Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server•Join a Live Demo Tealium AudienceStream Digital Data Distribution  
 The industry's first audience discovery and digital data distribution platform »
 
 *   Solutions by Role
@@ -279,11 +279,11 @@ From time to time, we may change this Privacy Statement to accommodate new techn
 
 If you have questions regarding this Privacy Statement or the information practices of the Tealium Web Site please contact the Tealium’s privacy team at privacy@Tealium.com or by mailing Tealium’s Privacy Office, 11085 Torreyana Road, San Diego, CA 92121.
 
-Ready to Learn More? Request a Demo
+Ready to Learn More? Weekly Live Demos
 
 See first-hand how Tealium can help you succeed.
 
-Request a Demo Free Resources
+Join a Live Demo Free Resources
 
 White papers and other resources to help you succeed.
 
