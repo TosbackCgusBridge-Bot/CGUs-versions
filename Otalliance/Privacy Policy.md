@@ -96,6 +96,18 @@ Wed, Jul 9, 2014 Email Security Bootcamp Training (DKIM, SPF &. DMARC) OTA is of
 *   OTA Blog
 *   Newsletters
 
+Mon, Jul 7, 2014 DHS Cyber Security Awareness Month
+
+October is the department of Homeland Security National Cyber Security Awareness Month (NCASM). The DHS has broken the month into 5 "weeks", each week with a different cyber security focus.  
+  
+**Week One:** Oct 1-3  
+Promoting Online Safety with the Stop.Think.Connect.™ Campaign
+
+**Week Two:** October 6-10 Secure Development of IT Products
+
+**Week Three:** October 13-17  
+Critical Infrastructure and the Internet of Things
+
 Mon, Jun 30, 2014 Msft Kills Security Emails in Response to Canidian Laws In a move that may wind up helping spammers, Microsoft is blaming a new Canadian anti-spam law for the company’s recent decision to stop sending regular emails about security updates for its Windows operating system and other Microsoft software. Mon, Jun 23, 2014 Data Breach Bill Draft Delayed
 
 FTC enforcement has slowed efforts to release a draft of Rep. Lee Terry's data breach bill. Terry has not able to get the consensus he'd hoped for. Republicans have historically strayed away from handing more controls to the FTC, which is pushing for more authority to combat the rising threat of data theft and malvertising.
@@ -104,7 +116,7 @@ Wed, Jun 18, 2014 Senate Cybersecurity Information Sharing Bill
 
 Senators from the Senate Intelligence Committee yesterday introduced a draft of a bill meant to remove barriers for private companies to share data with Federal agencies. Senate Intelligence Chairman Dianne Feinstein and ranking member Saxby Chambliss have been working together for over a year to come up with a bill that they believe is both comprehensive enough to remove legal barriers to data sharing, while protecting against legitimate privacy concerns (by requiring the removal of PII and several other measures).
 
-Wed, Jun 11, 2014 2014 Honor Roll - Twitter &. American Greetings Take Top Honors Only 30 Percent of Top Consumer Websites Rated Trustworthy in Online Trust Alliance Report American Greetings, Netflix, Twitter and Walmart Take Top Scores in Security and Privacy for 2014 Online Trust Audit &. Honor Roll. Resources
+Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
