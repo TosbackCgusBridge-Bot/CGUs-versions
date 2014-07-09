@@ -381,8 +381,6 @@ If a password is used to help protect your accounts and personal information, it
 
 Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.
 
-As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices. If you would like to contact TRUSTe, please visit https://feedback-form.truste.com/watchdog/request.
-
 Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, visit Accessing Your Information.
 
 **Changes to Our Privacy Statements**
