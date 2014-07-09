@@ -38,6 +38,7 @@ Enter your keywords  
         *   Recent Events
         *   Events Archive
 *   Membership
+    *   Benefits
     *   History &. Overview
     *   Member Levels
     *   Working Committees
@@ -147,6 +148,7 @@ Best Practices Committees News &. Events
 
 Membership
 
+*   Benefits
 *   History &. Overview
 *   Member Levels
 *   Working Committees
