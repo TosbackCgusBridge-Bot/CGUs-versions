@@ -19,20 +19,13 @@ Campus Main Menu
 *   Online Colleges
 *   Match Me to a College
 *   Popular Degrees
+    *   Accounting Degrees
     *   Business Administration
     *   Criminal Justice Degrees
     *   Early Childhood Education Degrees
     *   Nursing Degrees
     *   Psychology Degrees
     *   Video Game Design Degrees
-*   College Resources
-    *   Planning for College
-    *   Paying for College
-    *   Careers
-    *   Trends in Education
-    *   Military Students
-    *   Texbooks &. Supplies
-    *   Find a Job
 
 Help Section
 
@@ -228,17 +221,18 @@ Online Degrees By Level
 
 *   Associate Degrees
 *   Bachelor Degrees
-*   Master Degrees
+*   Masters Degrees
 *   Doctoral Degrees
 
 Popular Degrees:
 
-*   Nursing Degrees
-*   Business &. MBA Degrees
-*   Psychology Degrees
-*   Religion Degrees
-*   Education Degrees
-*   Computer IT Degrees
+*   Accounting
+*   Business Administration
+*   Criminal Justice
+*   Early Childhood Education
+*   Nursing
+*   Psychology
+*   Video Game Design
 
 Follow eLearners:
 
