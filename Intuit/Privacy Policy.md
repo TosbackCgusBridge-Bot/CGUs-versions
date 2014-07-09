@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   CYNTHIA
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true C12582475356
+true true C12585721751
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola781 SERVER NAME :->. prod-c1-com-78102 TIME :->. Mon Jul 07 04:04:05 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola722 SERVER NAME :->. prod-c2-com-72202 TIME :->. Tue Jul 08 09:53:30 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,22 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-  
-Online Only
-
-Select original, regular and sale-priced items.
-
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
-
-Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Held over! Ends today.
-
-Online Code: HOTDOG
-
-\*See exclusions and details. Home Savings 30-50% Off\*
+Home Savings 30-50% Off\*
 
 Online Only. Ends July 9.
 
