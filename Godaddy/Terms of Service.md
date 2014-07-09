@@ -39,6 +39,29 @@ Subject to the terms and conditions of this Agreement and our other policies and
 
 From time to time, Go Daddy may offer new Services (limited preview services or new features to existing Services) in a pre-release version. New Services, new features to existing Services or limited preview services shall be known, individually and collectively, as “Beta Services”. If you elect to use any Beta Services, then your use of the Beta Services is subject to the following terms and conditions: (i) You acknowledge and agree that the Beta Services are pre-release versions and may not work properly. (ii) You acknowledge and agree that your use of the Beta Services may expose you to unusual risks of operational failures. (iii) The Beta Services are provided as-is, so we do not recommend using them in production or mission critical environments. (iv) Go Daddy reserves the right to modify, change, or discontinue any aspect of the Beta Services at any time. (v) Commercially released versions of the Beta Services may change substantially, and programs that use or run with the Beta Services may not work with the commercially released versions or subsequent releases. (vi) Go Daddy may limit availability of customer service support time dedicated to support of the Beta Services. (vii) You acknowledge and agree to provide prompt feedback regarding your experience with the Beta Services in a form reasonably requested by us, including information necessary to enable us to duplicate errors or problems you experience. You acknowledge and agree that we may use your feedback for any purpose, including product development purposes. At our request you will provide us with comments that we may use publicly for press materials and marketing collateral. Any intellectual property inherent in your feedback or arising from your use of the Beta Services shall be owned exclusively by Go Daddy. (viii) You acknowledge and agree that all information regarding your use of the Beta Services, including your experience with and opinions regarding the Beta Services, is confidential, and may not be disclosed to a third party or used for any purpose other than providing feedback to Go Daddy. (ix) The Beta Services are provided “as is”, “as available”, and “with all faults”.   To the fullest extent permitted by law, Go Daddy disclaims any and all warranties, statutory, express or implied, with respect to the Beta Services including, but not limited to, any implied warranties of title, merchantability, fitness for a particular purpose and non-infringement.
 
+In addition to our many free services, as described here, GoDaddy offers paid support services :
+
+*   **GetStarted - Hosting ($19.99):** up to 30      minutes with a support representative to assist with setting up your hosting      account following the getting started guide. This service is available for      cPanel, Plesk, and Managed WordPress.
+*   **GetStarted - FTP ($19.99):** A      support representative will use LogMeIn to setup the FTP client on your      computer. Up to 10 minutes.
+*   **Website Migration ($79.99):** GoDaddy will assist customer with moving customer’s website from another host to GoDaddy, includes shared, VPS, dedicated.  Please allow up to 24-hours to complete.  Website migrations are subject to the Website Transfer Service Agreement \[8000\] which is hereby incorporated by reference. 
+*   **3rd-party SSL install/rekey ($79.99):** GoDaddy will assist customer with installing and/or rekeying a 3rd-party SSL.
+*    **VPS Services**: described here:
+*   *   Advanced Performance Analysis ($79.00)
+    *   Apache Tuning ($79.00)
+    *   MySQL Tuning ($79.00)
+    *   Security Scan &. Audit (SSA) ($79.00)
+    *   Intrusion Prevention ($79.00)
+    *   Custom Firewall Rules ($79.00)
+    *   Application Support ($79.00)
+    *   PHP Version Upgrade ($79.00)
+    *   Database Management ($79.00)
+    *   Malware &. Blacklist Removal ($79.00)
+    *   PHP Module Installation ($79.00)
+
+You acknowledge and agree that you have the necessary rights and permissions to share all information necessary to provide the Services with GoDaddy.  You acknowledge and agree that the Services may be provided by independent contractors or third party service providers. 
+
+All paid services are non-refundable.
+
 ****5**. GENERAL RULES OF CONDUCT**
 
 You acknowledge and agree that:
