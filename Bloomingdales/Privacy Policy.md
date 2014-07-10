@@ -176,19 +176,14 @@ Once you have agreed that Borderfree may share your personal information with bl
 
 We adhere to both the EU and Swiss Safe Harbor Privacy Principles. We have certified to the U.S. Department of Commerce, Switzerland, and the European Union that our processing of personal data is in compliance with these principles and we perform periodic self-assessments to verify ongoing compliance.
 
-Bloomingdales.com is committed to resolving any customer concerns regarding their privacy. If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, bloomingdales.com will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts will be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its applicable commercial rules.
-
-International Centre for Dispute Resolution
-
-A Division of the American Arbitration Association
-
-1101 Laurel Oak Road, Suite 100
-
-Voorhees, NJ 08043
-
-Phone: 856-435-6401
-
-Email box: casefiling@adr.org
+Bloomingdales.com is committed to resolving any customer concerns regarding their privacy. If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, bloomingdales.com will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by JAMS in accordance with its applicable commercial rules.  
+  
+JAMS  
+1920 Main Street  
+Suite 300  
+Irvine, CA 92614  
+Phone: 949-224-1810  
+Email box: tlunceford@jamsadr.com
 
 Customers shipping internationally who wish to contact bloomingdales.com to
 
