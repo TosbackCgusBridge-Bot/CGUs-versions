@@ -97,7 +97,7 @@ Wed, Jul 9, 2014 Email Security Bootcamp Training (DKIM, SPF &. DMARC) OTA is of
 *   OTA Blog
 *   Newsletters
 
-Mon, Jul 7, 2014 DHS Cyber Security Awareness Month
+Thu, Jul 10, 2014 Joining forces to ring the bell on companies evading online trust Recently the Online Publishers Association (OPA), wrote a insightful commentary regarding online trust and privacy. As stated by Jason Kint is chief executive of the OPA, "Let’s ring the bell on companies that are evading trust and threatening the relationships we have built with consumers. And instead of condoning an ecosystem where unknown third parties lurk behind the scenes tracking with little transparency, let’s give consumers a simple, lasting choice like Do Not Track, as simple and ubiquitous as a “Like.” Wed, Jul 9, 2014 Twitter Stock Realizes Benefit of OTA Honor Roll Unlike other leading names in social media, Twitter (TWTR) was awarded for what it offers its users in privacy. With 255 million MAUs, the San Francisco, Calif.-based social network was acknowledged as one of the top websites for consumer protection, security and privacy by Online Trust Alliance in June. Twitter scored top marks in the Online Trust Audit and Honor Roll earning a spot among the top 29% of the 800 sites examined for its practices to protect user data. Mon, Jul 7, 2014 DHS Cyber Security Awareness Month
 
 October is the department of Homeland Security National Cyber Security Awareness Month (NCASM). The DHS has broken the month into 5 "weeks", each week with a different cyber security focus.  
   
@@ -109,15 +109,7 @@ Promoting Online Safety with the Stop.Think.Connect.™ Campaign
 **Week Three:** October 13-17  
 Critical Infrastructure and the Internet of Things
 
-Mon, Jun 30, 2014 Msft Kills Security Emails in Response to Canidian Laws In a move that may wind up helping spammers, Microsoft is blaming a new Canadian anti-spam law for the company’s recent decision to stop sending regular emails about security updates for its Windows operating system and other Microsoft software. Mon, Jun 23, 2014 Data Breach Bill Draft Delayed
-
-FTC enforcement has slowed efforts to release a draft of Rep. Lee Terry's data breach bill. Terry has not able to get the consensus he'd hoped for. Republicans have historically strayed away from handing more controls to the FTC, which is pushing for more authority to combat the rising threat of data theft and malvertising.
-
-Wed, Jun 18, 2014 Senate Cybersecurity Information Sharing Bill
-
-Senators from the Senate Intelligence Committee yesterday introduced a draft of a bill meant to remove barriers for private companies to share data with Federal agencies. Senate Intelligence Chairman Dianne Feinstein and ranking member Saxby Chambliss have been working together for over a year to come up with a bill that they believe is both comprehensive enough to remove legal barriers to data sharing, while protecting against legitimate privacy concerns (by requiring the removal of PII and several other measures).
-
-Resources
+Mon, Jun 30, 2014 Msft Kills Security Emails in Response to Canadian Laws In a move that may wind up helping spammers, Microsoft is blaming a new Canadian anti-spam law for the company’s recent decision to stop sending regular emails about security updates for its Windows operating system and other Microsoft software. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
