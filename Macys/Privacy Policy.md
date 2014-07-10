@@ -18,7 +18,7 @@ If you have any questions about this notice, please contact our Customer Service
     Macy's Credit and Customer Services  
     ATTN: Privacy Office  
     P.O. Box 8215, Mason, OH 45040
-*   By phone at 1-888-529-2254 
+*   By phone at 1-888-529-2254
 *   Via e-mail at privacy.master@macys.com
 
 Your access of and use of our website means you agree to the terms in this Notice of Privacy Practices and our Legal Notice.
@@ -120,7 +120,7 @@ Direct Mail or Telemarketing: To opt-out of receiving direct mail or telemarketi
         *   *   "NO MAIL OFFERS" (if you don't want to receive offers by mail)
             *   "NO PHONE OFFERS" (if you don't want to receive offers by phone). or
             *   "NO PHONE OR MAIL OFFERS" (if you don't want to receive either)
-    *   By phone at 1-888-529-2254 
+    *   By phone at 1-888-529-2254
 
 Note: Because mailings often are prepared well in advance (12-16 weeks, in many cases) you may, for a period of time, continue to receive some offers after you send us your request.  
   
@@ -174,15 +174,15 @@ Once you agree that Borderfree may share your personal information with macys.co
   
 We adhere to both the EU and Swiss Safe Harbor Privacy Principles. We have certified to the U.S. Department of Commerce, the European Union and Switzerland that our processing of personal data is in compliance with these principles and we perform periodic self-assessments to verify ongoing compliance.  
   
-macys.com is committed to resolving any customer concerns regarding their privacy. If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, macys.com will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its applicable commercial rules.  
-  
-International Centre for Dispute Resolution  
-A Division of the American Arbitration Association  
-1101 Laurel Oak Road, Suite 100  
-Voorhees, NJ 08043  
-Phone: 856-435-6401  
-E-mail box: casefiling@adr.org  
-  
+macys.com is committed to resolving any customer concerns regarding their privacy. If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, macys.com will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by JAMS in accordance with its applicable commercial rules.
+
+JAMS  
+1920 Main Street  
+Suite 300  
+Irvine, CA 92614  
+Phone: 949-224-1810  
+Email box: tlunceford@jamsadr.com
+
 Customers shipping internationally who wish to contact macys.com to:
 
 *   Inquire about or update their personal information
