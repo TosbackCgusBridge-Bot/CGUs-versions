@@ -136,7 +136,7 @@ If you have questions about this Privacy Policy or Wayfair generally, please con
 
 Wayfair LLC  
 Attention: Legal Department  
-177 Huntington Avenue, Suite 6000  
+4 Copley Place, Floor 7  
 Boston, MA 02115
 
 Terms of Use
@@ -251,7 +251,7 @@ Termination
 
 Your ability to access and use the Sites remains in effect until terminated in accordance with these Terms of Use. You agree that Wayfair, in its sole discretion, may terminate your account and your use of the Sites and may remove and delete your User Content if Wayfair believes that you have violated or acted inconsistently with these Terms of Use or for any other reason. Wayfair also may in its sole discretion and at any time discontinue providing the Sites, or any part thereof, with or without notice. You agree that any termination of your access to the Sites may be effected without prior notice and you acknowledge and agree that Wayfair may bar any further access to the Sites. Further, you agree that Wayfair will not be liable to you or any third-party for any termination of access to the Sites.
 
-You may terminate your account by sending a letter stating your intention to Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115 Att:Service or an email to service@wayfair.com, with the subject line "Termination Request".
+You may terminate your account by sending a letter stating your intention to Wayfair LLC, 4 Copley Place, Floor 7, Boston, MA 02115 Att:Service or an email to service@wayfair.com, with the subject line "Termination Request".
 
 The provisions of the Intellectual Property Rights, User-Generated Content, Acceptable Use Policy, Disclaimer of Warranties, Indemnity, Limitation of Liability, Legal Dispute sections, together with and any other rights and obligations which by their nature are reasonably intended to survive such termination, will survive any termination of these Terms of Use.
 
@@ -304,7 +304,7 @@ You must submit any notification of an alleged copyright infringement to Wayfair
 
 Wayfair Copyright Agent  
 Attn: Legal  
-177 Huntington Avenue, Suite 6000  
+4 Copley Place, Floor 7  
 Boston, MA 02115  
 Email: Email Us. (please reference "Wayfair DMCA Notice")
 
@@ -325,7 +325,7 @@ You may submit your counter notification to Wayfair's Copyright Agent by mail or
 
 Wayfair Copyright Agent  
 Attn: Legal  
-177 Huntington Avenue, Suite 6000  
+4 Copley Place, Floor 7  
 Boston, MA 02115  
 Email: Email Us. (please reference "Wayfair DMCA Notice")
 
@@ -435,9 +435,9 @@ _\*For the Prize, the home goods products style, color and size are subject to i
 
 **CHOICE OF LAW AND JURISDICTION:** Except where prohibited, all issues and questions concerning the construction, validity, interpretation, and enforceability of these Official Rules, or the rights and obligations of entrants or winner, shall be governed by, and construed in accordance with, the laws of the Commonwealth of Massachusetts, without giving effect to any choice of law or conflict of law rules or provisions, which might otherwise cause the application of the laws of any jurisdiction other than the Commonwealth of Massachusetts. Any action seeking legal or equitable relief arising out of or relating to the Promotion or these Official Rules shall be brought only in the courts of the Commonwealth of Massachusetts. Entrants and/or winner (and their parent(s)/legal guardian(s) if entrant/winner is a minor) hereby irrevocably consent to the personal jurisdiction of said courts and waive any claim of forum non-convenience or lack of personal jurisdiction they may have.
 
-**WINNER'S LIST:** Entrants are responsible for complying with these Official Rules. To receive the winner's list for a specific Promotion, send a self-addressed stamped envelope to: Wayfair.com Giveaway Winner List Request, c/o Wayfair LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115. Please reference the dates of the Promotion Period and Prize with your request.
+**WINNER'S LIST:** Entrants are responsible for complying with these Official Rules. To receive the winner's list for a specific Promotion, send a self-addressed stamped envelope to: Wayfair.com Giveaway Winner List Request, c/o Wayfair LLC, 4 Copley Place, Floor 7, Boston, MA 02115. Please reference the dates of the Promotion Period and Prize with your request.
 
-**SPONSOR:** Wayfair LLC LLC, 177 Huntington Avenue, Suite 6000, Boston, MA 02115
+**SPONSOR:** Wayfair LLC LLC, 4 Copley Place, Floor 7, Boston, MA 02115
 
 Wayfair Gift Card Terms and Conditions
 
@@ -504,7 +504,7 @@ If you would like to submit a Purchase Order, please fax it to (866) 513-2570, o
 
 By Phone: 877-WAYFAIR (877-929-3247) or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594  
 For Purchase Orders - (866) 513-2570 By Mail: Wayfair LLC  
-177 Huntington Avenue, Suite 6000  
+4 Copley Place, Floor 7  
 Boston, MA 02115
 
 For media inquiries:
