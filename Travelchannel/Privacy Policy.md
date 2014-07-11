@@ -97,7 +97,6 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
     *   FrontDoor
     *   HGTVRemodels.com
     *   Food.com
-    *   CityEats
     
 
 ​
