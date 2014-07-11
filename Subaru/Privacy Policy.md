@@ -145,23 +145,6 @@ Up to
 
 Outback 2.5i Premium shown
 
-Tribeca $34,095 starting price 2014 Tribeca
-
-Starting at
-
-$34,095 MSRP
-
-Up to
-
-21/16MPG Hwy/City
-
-*   Overview
-*   Photos &. Videos
-*   Compare
-*   Build Your Own
-
-Tribeca 3.6R Limited shown
-
 Certified Pre-Owned Certified Pre-Owned
 
 Fully checked, factory-covered and ready for more adventures.
