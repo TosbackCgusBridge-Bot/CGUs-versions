@@ -425,6 +425,8 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     vergleich
 *   Versicherungen
 
+Sie können Push-Benachrichtigung von SPIEGEL ONLINE aktivieren! Sie haben die Push-Benachrichtigung von SPIEGEL ONLINE ausgeschaltet! Push-Benachrichtigung von SPIEGEL ONLINE sind eingeschaltet APNS-Token :
+
 *   Home
 *   Politik
 *   Wirtschaft
