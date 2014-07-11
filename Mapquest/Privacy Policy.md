@@ -3,7 +3,6 @@ AOL
 *   Privacy Main
 *   Privacy FAQ
 *   Preferences
-*   Relevant Topics
 *   Terms of Service
 *   Help
 
@@ -51,6 +50,6 @@ privacyquestions@aol.com What's New
 
 Print
 
-AOL.com | Download AOL | Get AIM | Free Email | Advertise with Us | AOL Inc. | Privacy | Terms of Service | Site Map | About Our Ads
+AOL Inc. | Privacy | Terms of Service | About Our Ads
 
 © 2014, AOL Inc. All rights reserved. | Help | My Account
