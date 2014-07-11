@@ -63,11 +63,9 @@ My Bag (0) Wish List Search
     *   Watch Warranty
 *   Promotions
     *   Buckle Jeans Sweepstakes Official Rules
-    *   Buckle Card Double Points 2014
     *   Store Events
     *   Sweepstakes Winners
     *   Social Giveaway Official Rules
-    *   CC Tumbler GWP
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
