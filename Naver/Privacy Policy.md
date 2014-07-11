@@ -243,6 +243,4 @@ top
 *   이메일주소 무단수집 거부
 *   네이버도움말
 
-전화상담 운영시간 (평일) 09:00 ~ 18:00
-
 _Copyright ©_ NAVER Corp. All Rights Reserved.
