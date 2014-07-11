@@ -5,12 +5,12 @@ From its start in 1992, EINSURANCE remains guided by strong ethics.
 customers &. websites on  
 Trustworthiness?**  |  
   **REPUTATION**  
- E-Insure Services, Inc. licensee of the **TRUSTe  
-**Privacy Program for einsurance .com  
-**TRUSTe** is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.einsurance.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our Customer Service online, by email custsvc@einsure.com, or by telephone (312) 372-7400.  If you do not receive acknowledgement of or your inquiry has not been satisfactorily addressed, you should contact TRUSTe. TRUSTe will then serve as a liaison with us to resolve your concerns.
+E-Insure Services, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, EINSURANCE.COM.
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
+
+  
 Introduction
 
 E-Insure Services, Inc., recognizes the importance of protecting the privacy of personal information about our clients and others who visit our Web site. Within this context, the term "personal information" includes any personally identifying information you provide, whether online or by any other means. You may give E-Insure personal information when you register for an account or service, or when you communicate with us via telephone, fax, or e-mail. E-Insure's policy is never to share your personal information with any third party except as you _specifically_ permit or as required by law.  
@@ -27,7 +27,7 @@ E-Insure Services, Inc., is the sole owner of the information collected on **ein
 
 User Registration
 
-Many of the services available on **einsurance.com** require no registration, and may be accessed anonymously. Others, such as insurance quotes, require that a user first complete a registration form. During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code. This information uniquely identifies the user's account with \`E-Insure Services and enables us to select insurance providers that do business in the user's geographic region. The user may provide more extensive contact and personal information as well, such as cell phone, fax number, home phone number, height and weight and personal business affiliation though this is not required. We will occasionally contact the user via the provided e-mail address regarding the administration of the user's account. Subject to the user's approval, we may also use this information to contact the user about services on our site about which the user has expressed an interest.
+Many of the services available on **einsurance.com** require no registration, and may be accessed anonymously. Others, such as insurance quotes, require that a user first complete a registration form. During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code. This information uniquely identifies the user's account with E-Insure Services and enables us to select insurance providers that do business in the user's geographic region. The user may provide more extensive contact and personal information as well, such as cell phone, fax number, home phone number, height and weight and personal business affiliation though this is not required. We will occasionally contact the user via the provided e-mail address regarding the administration of the user's account. Subject to the user's approval, we may also use this information to contact the user about services on our site about which the user has expressed an interest.
 
 Insurance Quotes
 
@@ -68,6 +68,8 @@ Session ID cookies enable E-Insure to identify a specific user across multiple b
 
 A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. As a convenience during the log in process, a user may request that his browser remember the e-mail address that identifies his account, or the zip code and notification email address preferences for the quoting process. This function is implemented through the use of a persistent cookie.
 
+The use of cookies by our \[partners, affiliates, tracking utility company, service providers\] is/is not covered by our privacy policy. We do/do not have access or control over these cookies. Our \[partners, affiliates, tracking utility company, service providers\] use session ID cookies \[to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.\]
+
 Log Files
 
 Like most Web sites, E-Insure uses server log files. These logs may record details about a user's visit to the site, including the following:
@@ -82,7 +84,11 @@ Like most Web sites, E-Insure uses server log files. These logs may record detai
 *   Specific sequence of user's progress through site.
 *   Gender, age, and other non-personal demographic information.
 
-E-Insure uses this information to analyze trends, administer the site, track user movements in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc., are _not_ linked to personally identifiable information. In other words, although we know precisely _what_ a user may have done during a particular visit to our site, we do not know _which_ user did it.  To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics and ChartBeat.
+E-Insure uses this information to analyze trends, administer the site, track user movements in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc., are _not_ linked to personal information. In other words, although we know precisely _what_ a user may have done during a particular visit to our site, we do not know _which_ user did it.  To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics and ChartBeat.
+
+Web Beacons
+
+We employ \[or our third party advertising partner employs\] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie \[do not tie\] the information gathered by clear gifs to our customers’ personally identifiable information. To learn more about our advertising company’s use of clear gifs, please go to chartbeat.com
 
 Communications
 
@@ -91,7 +97,7 @@ Communications
 *   Administrative communications
 *   Targeted announcements
 
-Administrative communications are generally one-of-a-kind in nature, and involve specific issues regarding the user's account. Examples of such communication are registration confirmations and confirmations of e-mail address change. Users may opt to receive e-mailed communications of new content or products of interest to the user. Such targeted annoncements are strictly limited to users who have opted to receive them. For example, such communications might announce the publication of a new _E-Insure Journal_ article or the release of a new insurance product in the user's geographical region. Users who have received such announcements and wish to opt out of them in the future may do so by completing one of the following tasks:
+Administrative communications are generally one-of-a-kind in nature, and involve specific issues regarding the user's account. Examples of such communication are registration confirmations and confirmations of e-mail address change. Users may opt to receive e-mailed communications of new content or products of interest to the user. Such targeted announcements are strictly limited to users who have opted to receive them. For example, such communications might announce the publication of a new _E-Insure Journal_ article or the release of a new insurance product in the user's geographical region. Users who have received such announcements and wish to opt out of them in the future may do so by completing one of the following tasks:
 
 *   Use the Instant Unsubscribe tool or change e-mail settings on your User Profile and Account Registration page
 *   Reply to such e-mail with the word "unsubscribe" in the subject line
@@ -99,21 +105,25 @@ Administrative communications are generally one-of-a-kind in nature, and involve
 
 Unsubscribing from communications with E-Insure does not guarantee that you will no longer receive email from our affiliates or 3rd party partners. We cannot control the policies of our affiliates or 3rd party partners, nor can we guarantee or represent their compliance with the CAN-SPAM Act or any other state or Federal law.
 
-**Widgets**
+**Social Media Features and Widgets**
 
-This site uses the “Share This” widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one-time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the “Share This” widget. Rubicon Project shares no responsibility in regards to the personal information entered through the widget.
+Our web site includes Social Media Features such as Facebook Like button and Google Plus. These Features may collect your IP address, which page you are visiting on your site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing them.
+
+This site uses the “Share This” widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one-time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the “Share This” widget. E-Insure shares no responsibility in regards to the personal information entered through the widget.
 
 You can also import email contacts using this widget. The widget will import email addresses from various email service providers into your account. Once the email addresses are imported you must manually click on each email you address you wish to send a communication to.
 
 Sharing
 
-Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site. We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form _only_, and is not linked to any personally identifying information about our users.  E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them. Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of _future_ sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party. **E-Insure currently has no third-party information sharing arrangements.**
+Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site. We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form _only_, and is not linked to any personal information about our users.  E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them. Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of _future_ sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party. **E-Insure currently has no third-party information sharing arrangements.**
 
-**If you have reason to believe that any E-Insure affiliate, partner, or a related third party is violating your privacy**, we urge you to promptly notify our Customer Service department. If, following our investigation we determine that an affiliate has in fact violated a user's privacy, we will issue a single warning.  Future violations will result in the immediate termination of the business relationship.  In the event E-Insure goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users?  Personal information will, in most instances, be part of the assets transferred.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+**If you have reason to believe that any E-Insure affiliate, partner, or a related third party is violating your privacy**, we urge you to promptly notify our Customer Service department. If, following our investigation we determine that an affiliate has in fact violated a user's privacy, we will issue a single warning.  Future violations will result in the immediate termination of the business relationship.  In the event E-Insure goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users?  Personal information will, in most instances, be part of the assets transferred. You will be notified via email and/or a prominent notice on our web site of any chance in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Links
 
-This Web site contains links to other sites. Please be aware that E-Insure Services is not responsible for the privacy practices of such other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every Web site that collects personally identifying information.
+This Web site contains links to other sites. Please be aware that E-Insure Services is not responsible for the privacy practices of such other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every Web site that collects personal information.
 
 **This privacy statement applies solely to information collected by this Web site**. In certain cases—specifically when a user is filling out an application for one of E-Insure's on-line quote engine partners—E-Insure uses framing technology to present content from our and our partner's Web sites simultaneously. In every such case, we will clearly identify the framed partner Web page as an outside entity. E-Insure will _not_ allow any framed any web page to collect a user's personal information unless the page provides a level of security that meets our own high standard. Our site features access to the search engine Google where you have access to search for insurance sites or to browse the world wide web. Keep in mind that if you enter information in this search engine you will be taken off the einsurance.com web site.
 
@@ -131,13 +141,17 @@ This Web site takes every precaution to protect our user’s information. When w
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted to our offices and our off-site data facility. Only employees who need the information to perform specific job tasks, such as customer service, are granted access to personally identifying information. All employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifying information are in a secure and hardened environment at Peer1 Hosting.
 
+Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 Information From Minors
 
 E-Insure does not knowingly solicit or collect information from anyone under the age of 13.
 
 Notification of Changes
 
-E-Insure Services will promptly post any material Privacy Policy changes to this Web page, our homepage, and will notify all active users of the change via the e-mail addresses associated with their accounts. Our goal is for our users to be fully aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+E-Insure Services may update this privacy policy to reflect changes to our information practices. We will promptly post any material Privacy Policy changes to this Web page, our homepage, and will notify all active users of the change via the e-mail addresses associated with their accounts prior to the change becoming effective. Our goal is for our users to be fully aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it, thus we encourage you to periodically review this page for the latest information our privacy practices.
 
 Questions &. Feedback
 
@@ -149,40 +163,7 @@ Chicago, IL 60603
 (312) 372-7400  
 privacy@einsure.com  
   
-EFFECTIVE DATE 1.12.2010 (Applies Only to the Policy Statements Above)
-
-\[ Back to Top \]
-
-  
-  
-**EU Safe Harbor Compliancy**  
-
-E-Insure Services, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. E-Insure Services, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit:
-
-http://www.export.gov/safeharbor/  
-  
-**Privacy Complaints by European Union Citizens**  
-
-In compliance with the Safe Harbor Principles, E-Insure Services, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should first contact E-Insure Services, Inc. at:
-
-E-Insure Services, Inc.  
-c/o EU Safe Harbor Complaints  
-105 W. Adams St., Suite 1325  
-Chicago, IL 60603  
-(312) 372-7400  
-privacy@einsure.com  
-
-E-Insure Services, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by E-Insure Services, Inc., you may contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone:  703-276-0100  
-Web:  www.us.bbb.org  
-Email:  eusafeharbor@council.bbb.org  
-  
-EFFECTIVE DATE 10.14.2010 (Applies only to EU Safe Harbor Addendum)
+EFFECTIVE DATE 7.10.2014 (Applies Only to the Policy Statements Above)
 
 \[ Back to Top \]
 
