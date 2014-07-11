@@ -98,8 +98,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             
             *   New Arrivals
             *   Boys Iron Knee
-            *   Graphic Shop
-            *   Go To School
+            *   Girls Knit Kit
             *   Sale
         *   Shop By Age Range
             *   Back to Kids Shop By Age Range
