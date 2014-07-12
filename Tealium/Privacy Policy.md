@@ -81,7 +81,7 @@ Tealium
 
 Tealium IQ Enterprise Tag Management  
 Pricing• Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server•Join a Live Demo Tealium AudienceStream Digital Data Distribution  
-The industry's first audience discovery and digital data distribution platform »
+The industry's first audience discovery and digital data distribution platform » what is a tag? what is a data layer?
 
 *   Solutions by Role
     *   Web Analytics
