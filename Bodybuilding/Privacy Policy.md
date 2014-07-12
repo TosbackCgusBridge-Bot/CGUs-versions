@@ -3,6 +3,7 @@ Bodybuilding.com Terms Of Use, Privacy Policy, And IPhone EULA by Bodybuilding.c
 *   Terms Of Use
 *   Transparency In Supply Chain
 *   Privacy Policy
+*   Store Privacy Policy
 *   COPPA Information
 *   iPhone EULA
 *   Exercise Widgets: Terms Of Use
