@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12595252651
+true true L12736319548
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola833 SERVER NAME :->. prod-c1-com-83301 TIME :->. Sat Jul 12 04:21:47 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena860 SERVER NAME :->. prod-l1-com-0202 TIME :->. Sun Jul 13 04:07:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,7 +47,7 @@ Awesomer Summer Clearance 50-75% Off
 
 Save big with major markdowns on many of your favorite brands!
 
-In Store and Online. Starts now!
+In Store and Online. Hurry in for best selection.
 
 shop clearance view store adIn Store and Online
 
@@ -65,19 +65,13 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 Online Code: SAVEHERE
 
-\*See exclusions and details. print store coupon Night and Day Doorbusters
-
-Excluded from coupon offer.
-
-In Store Only. Friday, July 11, 3PM until close, Saturday, July 12, 10AM until 1PM.
-
-view doorbusters store ad Home Sale
+\*See exclusions and details. print store coupon Home Sale
 
 Select items.
 
 In store and online.
 
-shop home sale30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Bedding and Bath shop bedding and bath40-60% Off Luggage shop luggage40-50% Off Window shop window shop bedding 40-50% Off Select A.N.A shop A.N.A 40-60% Off Select Women's Swim shop women's swim 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay $19.99-24.99 Select Women's Sandals shop women's sandals 40% Off Select Kids' Uniforms shop kids' uniforms 30-50% Off Select Fashion Accessories shop fashion accessories Dorm Life shop all dorm life JCP Rewards
+shop home sale30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Bedding and Bath shop bedding and bath40-60% Off Luggage shop luggage40-50% Off Window shop window shop bedding 40-50% Off Select A.N.A shop A.N.A 30-50% Off Select Fashion Accessories shop fashion accessories 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 40% Off Select Kids' Uniforms shop kids' uniforms $19.99-24.99 Select Women's Sandals shop women's sandals 40-60% Off Select Women's Swim shop women's swim Dorm Life shop all dorm life JCP Rewards
 
 Shop to earn $10 JCP Rewards
 
