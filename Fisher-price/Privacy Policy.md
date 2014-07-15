@@ -1,31 +1,61 @@
+Main Menu
+
 *   Customer Service
 *   Recall Information
 *   International
 *   En Español
 
-*   *   Age Baby-on-the-way Birth-6 months 6-12 months 12-24 months 2-3 years 3-4 years 4-5 years 5+ years
-    *   Brand View All >.
-    *   Category Babygear Baby Toys Battery Powered Ride-Ons Digital Play Dollhouses &. Dolls Learning Toys Playsets with Figures Sports &. Outdoor Toys Toy Cars, Trucks &. Vehicles Train Sets View All >.
-    
-*   *   Gear, toys, and parenting tips for baby's first year
-    
-*   *   Age-by-Age Playtime Guide
+*   Products
+    *   Age
+        *   Baby-on-the-way
+        *   Birth-6 months
+        *   6-12 months
+        *   12-24 months
+        *   2-3 years
+        *   3-4 years
+        *   4-5 years
+        *   5+ years
+    *   Brands
+        
+        *   View All >
+    *   Category
+        *   Babygear
+        *   Baby Toys
+        *   Battery Powered Ride-Ons
+        *   Digital Play
+        *   Dollhouses &. Dolls
+        *   Learning Toys
+        *   Playsets with Figures
+        *   Sports &. Outdoor Toys
+        *   Toy Cars, Trucks &. Vehicles
+        *   Train Sets
+        *   View All >
+
+*   Everything Baby
+    *   Gear, toys, and parenting tips for baby's first year
+
+*   Toddler &. Preschooler
+    *   Kids' favorite characters &. brands
+
+*   Tips &. Tools
+    *   Age-by-Age Playtime Guide
     *   Sharing Moments of Joy
     *   Parenting Topics
     *   For Grandparents
     *   Email Newsletter Sign-up
-    
-*   *   Online Games
+
+*   Games &. Activities
+    *   Online Games
     *   Apps for Kids
     *   Online Videos
     *   Print &. Color Pages
     *   Crafts
     *   Birthday Party Ideas
-    
-*   *   Our Online Store
+
+*   Store
+    *   Our Online Store
     *   F-P Music Store
     *   Special Offers
-    
 
 *   Products
 *   Find a Product
