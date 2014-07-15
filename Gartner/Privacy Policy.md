@@ -122,9 +122,9 @@ If you would like to be taken off our marketing lists, please send an e-mail to 
 
 Last Update: 29-September-2008
 
-  Contact Gartner Gartner Privacy Officers
+  Contact Gartner
 
-*   All Privacy Officers
+*   Gartner Privacy Officers
 
 *   General Contacts
 *   Become a Gartner Client
