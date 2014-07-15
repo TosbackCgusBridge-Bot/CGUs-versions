@@ -20,7 +20,7 @@
     *   VH1 Classic
     *   VH1 Soul
     *   VH1 You Oughta Know
-    *   Philly 4th Of July Jam
+    *   SoundClash
 *   Shop
 
 *   Follow VH1
