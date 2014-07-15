@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12736319548
+true true L12740008223
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena860 SERVER NAME :->. prod-l1-com-0202 TIME :->. Sun Jul 13 04:07:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l2-com-70101 TIME :->. Mon Jul 14 10:38:27 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,43 +43,41 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Awesomer Summer Clearance 50-75% Off
-
-Save big with major markdowns on many of your favorite brands!
-
-In Store and Online. Hurry in for best selection.
-
-shop clearance view store adIn Store and Online
-
-Ends Sunday, July 13.
-
-Extra 15% Off\* apparel, shoes, accessories, fine jewelry and home.
-
 Online Only
 
-Extra 20% Off\* $100 or more apparel, shoes, accessories, fine jewelry and home.
-
-In Store and Online
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Held over! Ends today.
 
 Online Code: SAVEHERE
 
-\*See exclusions and details. print store coupon Home Sale
+Extra 20% Off\* $100 or more.
+
+Extra 15% Off\*
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. 30-50% Off Home Sale
 
 Select items.
 
-In store and online.
+In Store and Online. Ends July 20.
 
-shop home sale30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Bedding and Bath shop bedding and bath40-60% Off Luggage shop luggage40-50% Off Window shop window shop bedding 40-50% Off Select A.N.A shop A.N.A 30-50% Off Select Fashion Accessories shop fashion accessories 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 40% Off Select Kids' Uniforms shop kids' uniforms $19.99-24.99 Select Women's Sandals shop women's sandals 40-60% Off Select Women's Swim shop women's swim Dorm Life shop all dorm life JCP Rewards
+shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bed and Bath shop bed and bath shop bedding Red Zone Furniture Clearance 50-70% Off
+
+In Store and Online.
+
+shop furniture clearance 30-50% Off Select JCP For Her shop women's JCP 20-40% Off Select Men's Activewear shop men's activewear 35-50% Off Select Carter's shop Carter's $59.99 Select Nike
+
+Excluded from coupon.
+
+shop Nike 40-60% Off Select Swim For Her shop women's swimwear 50% Off Select Fashion Accessories shop fashion accessories Look Smart All Year Long shop all school uniformsBack To School
+
+The perfect fit lets you be you.
+
+shop back to school JCP Rewards
 
 Shop to earn $10 JCP Rewards
 
-sign up today Gift Cards
-
-Always fits, never expires.
-
-shop gift cardsOwn Your Colors support your teamRed Zone Clearance Selections shop clearance
+sign up today A Fit For Every Workout shop fitnessDorm Life shop all dorm lifeRed Zone 50-75% Off Clearance Selections shop clearance
 
 get connected
 
