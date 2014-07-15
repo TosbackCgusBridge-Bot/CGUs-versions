@@ -20,7 +20,6 @@ Click the hearts button on a game page to make it a favorite.
     *   Awards
     *   High scores
     *   Mobile &. Tablet Games
-    *   World Cup Soccer Games
 
 *   Home
 
