@@ -154,7 +154,7 @@ Microsoft provides many of our sites and services free of charge because they ar
 
 Reasons We Share Your Personal InformationSharing Your Information
 
-Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors. when required by law or to respond to legal process. to protect our customers. to protect lives. to maintain the security of our services. and to protect the rights or property of Microsoft.
 
 We may share some anonymized search query data with selected third parties for research purposes.
 
@@ -162,9 +162,7 @@ When you click on a link from a Bing search results page, the destination websit
 
 If your browser is enabled to allow pages to pre-load in the background for faster performance, Bing may use this functionality and your browser may preload page(s) in the background for faster results.  When your browser loads a page in the background, it will have the same effect as if you visited that page, including sending the Bing results page URL (which may contain your search query) and downloading any cookie files that page may set.  You can delete cookies using your browser settings.  Click here for more information on how to delete cookies and to control pre-loading pages in Internet Explorer 11.
 
-Please see Other Important Privacy Information for additional details about when we may disclose information, including with Microsoft affiliates and vendors. when required by law or to respond to legal process. to combat fraud or protect our interest. or to protect lives.
-
-Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
+We will share your personal information with your consent.  We may also share or disclose information with Microsoft affiliates and vendors. when required by law or to respond to legal process. to protect our customers. to protect lives. to maintain the security of our services. and to protect the rights or property of Microsoft.
 
 We may share some anonymized search query data with selected third parties for research purposes. Before we do so, we remove all unique identifiers such as IP addresses and cookie IDs from the data. We also run the data through a process designed to remove identifiable information that users may have included in the search terms themselves (such as social security numbers or credit card numbers). Additionally, we require these third parties to keep the data secure and to not use the data for any other purposes.
 
@@ -172,14 +170,16 @@ When you click on a search result or advertisement from a Bing search results pa
 
 If your browser is enabled to allow pages to pre-load in the background for faster performance, Bing may use this functionality and your browser may preload page(s) in the background for faster results.  When your browser loads a page in the background, it will have the same effect as if you visited that page, including sending the Bing results page URL (which may contain your search query) and downloading any cookie files that page may set.  You can delete cookies using your browser settings.  Click here for more information on how to delete cookies and to control pre-loading pages in Internet Explorer 11.
 
-Click here for more information on sharing or disclosing personal information:
+We may share or disclose personal information with other Microsoft controlled subsidiaries and affiliates, and with vendors or agents working on our behalf.  For example, companies we've hired to provide customer service support or assist in protecting and securing our systems and services may need access to personal information in order to provide those functions.  In such cases, these companies must abide by our data privacy requirements and are not allowed to use the information for any other purpose.  We may also disclose personal information as part of a corporate transaction such as a merger or sale of assets.
 
-*   Within Microsoft affiliates and subsidiaries
-*   As part of a merger or sale of a business
-*   With vendors and agents of Microsoft
-*   When required by law or to respond to legal process or lawful requests, including from law enforcement or other government agencies
-*   When required to combat fraud or protect our interests
-*   To protect life and safety
+Finally, we may access, disclose and preserve your personal information, including your private content (such as the content of your emails, other private communications or files in private folders), when we have a good faith belief that doing so is necessary to:
+
+1.  comply with applicable law or respond to valid legal process from competent authorities, including from law enforcement or other government agencies.
+2.  protect our customers, for example to prevent spam or attempts to defraud users of the services, or to help prevent the loss of life or serious injury of anyone.
+3.  operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks. or
+4.  protect the rights or property of Microsoft, including enforcing the terms governing the use of the services – however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer’s private content ourselves, but we may refer the matter to law enforcement.
+
+Please note that some of our sites and services include links to sites or services of third parties that have privacy practices different from those of Microsoft. If you submit personal information to any of those sites or services, your information is governed by the privacy statements of those third parties. 
 
 Accessing Your Personal Information and Search HistoryAccessing Your Information
 
@@ -274,7 +274,7 @@ For the Bing app on your iOS device, personalization and syncing can be turned o
 
 Some Bing-powered services and apps provide you the option to configure the service or app to use additional information from other Microsoft products and services, or from third parties. For example:
 
-*   Your Facebook information, if Facebook personalization is enabled, for use in services and apps that use social features (such as Local Scout in Maps and Cortana). See the Facebook section for more details.
+*   Your Facebook information, if Facebook personalization is enabled, for use in services and apps that use social features (such as Local Scout in Maps and Cortana). See the “Connecting Facebook to Bing Services” section below for details.
 *   Your HealthVault information that you consent to use in certain Bing apps such as the Bing Health and Fitness app. Bing only displays this information and does not store it.
 *   Your personal finance information from third party financial institutions that you consent to use in the Finance app. The Finance app only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft.
 *   Information from other companies that you have configured for use, such as travel itineraries in the Travel app and subscriptions in the News app.  
@@ -297,8 +297,7 @@ Binglets integrate third party services into Bing search that enable you to asso
 
   
   
-
-**Connecting FB to Bing Services**
+Connecting Facebook to Bing Services
 
 Bing search and Microsoft Services Powered by Bing also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Microsoft Services powered by Bing.  An example of these additional personalization features is Local Scout on Windows Phone. You can turn off these additional personalization features by going to https://www.facebook.com/settings?tab=applications and removing the Bing app.
 
@@ -419,18 +418,16 @@ Other Important Privacy InformationOther Information
 Learn more about
 
 *   Non-Microsoft services that use Bing search
-*   Why and with whom we share or disclose personal information
 *   Protecting the security of personal information
 *   Where we store and process information
 *   Changes to our privacy statements
 *   How to contact us
 
-Below you will find additional privacy information you may (or may not) find important.  Much of this describes common practices that we want you to know about but don’t think it’s necessary to highlight in every one of our privacy statements.  And some of this is just stating the obvious (for example, we will disclose information when the law requires it), but our lawyers make us say it anyway.  Please keep in mind that this information is not a complete description of our practices – this is all _in addition_ to the other, more specific information contained in the privacy statements for each Microsoft product and service you use.  
+Below you will find additional privacy information you may find important.  Much of this describes practices that are common across the industry, but we want to make sure you are aware of them.  Please keep in mind that this information is not a complete description of our practices – this is all _in addition_ to the other, more specific information contained in the privacy statements for each Microsoft product and service you use.  
 
 **On this page**:
 
 *   Non-Microsoft Services that Use Bing Search
-*   Sharing or Disclosing Personal Information
 *   Protecting the Security of Personal Information
 *   Where Information is Stored and Processed
 *   Changes to Our Privacy Statements
@@ -445,26 +442,6 @@ You may access Bing services when using other non-Microsoft sites or services. T
   
   
 
-**Sharing or Disclosing Personal Information**
-
-In addition to any sharing described in the privacy statement for the product or service you are using, Microsoft may share or disclose personal information:
-
-*   With other Microsoft controlled subsidiaries and affiliates.
-*   As part of a corporate transaction such as a merger or sale of assets.
-*   With vendors or agents.  Specifically, we may share it with companies we’ve hired to provide services on our behalf.  When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential.  
-      
-    
-
-We also may share or disclose personal information, including the content of your communications:
-
-*   To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
-*   To protect the rights or property of Microsoft or our customers, including enforcing the terms governing your use of the services.
-*   To act on a good faith belief that access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public.  
-      
-    
-
-Please note that our sites and online services may contain advertising, content, or other functionality provided by other companies that may collect information about your online activities across websites or online services.  Our sites and services may also include links to the sites or services of other companies. Information collected by those companies will be governed by the privacy statements of those companies.  We encourage you to review the privacy statement of any site or service you use.
-
 **Protecting the Security of Personal Information**
 
 Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide on computer systems that have limited access and are in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
@@ -478,8 +455,6 @@ If a password is used to help protect your accounts and personal information, it
 
 Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland.  To learn more about the Safe Harbor program, and to view our certification, please visit www.export.gov/safeharbor/.
 
-As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices. You can contact TRUSTe at http://www.truste.com/about-TRUSTe/contact-us, or provide feedback on Microsoft at https://feedback-form.truste.com/watchdog/request.
-
 Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services.  To learn how to access your personal information, visit Accessing Your Information. 
 
 **Changes to Our Privacy Statements**
@@ -491,7 +466,7 @@ We will occasionally update our privacy statements to reflect customer feedback 
 **How to Contact Us**
 
 *   If you have a technical or general support question, please visit http://support.microsoft.com/ to learn more about Microsoft Support offerings.
-*   If you have a Microsoft account password question, please visit Live Help.
+*   If you have a Microsoft account password question, please visit Microsoft account support.
 *   For Microsoft privacy questions, please contact us by using our Web form.
 
 To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
