@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12740008223
+true true C12603446542
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena701 SERVER NAME :->. prod-l2-com-70101 TIME :->. Mon Jul 14 10:38:27 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola861 SERVER NAME :->. prod-c1-com-0502 TIME :->. Tue Jul 15 06:01:45 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,33 +43,21 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Held over! Ends today.
-
-Online Code: SAVEHERE
-
-Extra 20% Off\* $100 or more.
-
-Extra 15% Off\*
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. 30-50% Off Home Sale
+30-50% Off Home Sale
 
 Select items.
 
 In Store and Online. Ends July 20.
 
-shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bed and Bath shop bed and bath shop bedding Red Zone Furniture Clearance 50-70% Off
+shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture and mattresses40-50% Off Window shop window30-50% Off Bed and Bath shop bed and bath shop curtains and drapes Red Zone Extra 25% Off Furniture and Window Clearance For A Total Savings Of 60-75% Off
 
-In Store and Online.
+Online Only. 2 days only! Ends July 16.
 
-shop furniture clearance 30-50% Off Select JCP For Her shop women's JCP 20-40% Off Select Men's Activewear shop men's activewear 35-50% Off Select Carter's shop Carter's $59.99 Select Nike
+Use Online Code: GOODDEAL
 
-Excluded from coupon.
+25% Off cannot be combined with other offers.
 
-shop Nike 40-60% Off Select Swim For Her shop women's swimwear 50% Off Select Fashion Accessories shop fashion accessories Look Smart All Year Long shop all school uniformsBack To School
+shop furniture and window clearance shop furniture clearance shop window clearance 40-50% Off Select Juniors' Dresses shop juniors' dresses 20-40% Off Select Men's Activewear shop men's activewear $29.99 Select Backpacks shop backpacks $59.99 Select Nike shop Nike 40-50% Off Select Kids' Activewear shop kids' activewear 40-60% Off Select Swim For Her shop women's swimwear Look Smart All Year Long shop all school uniformsBack To School
 
 The perfect fit lets you be you.
 
