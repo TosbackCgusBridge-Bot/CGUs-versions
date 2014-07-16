@@ -2,7 +2,7 @@ Want to win a Buckle gift card? Enter for your chance to win through Instagram.
 
 How to enter.
 
-Guest Services 800-607-9788
+Online Orders 800-522-8090
 
 *   US Store Locator
 *   Buckle Card Bill Pay
