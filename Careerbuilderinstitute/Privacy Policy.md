@@ -23,7 +23,7 @@ Find Jobs Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 6060
 *   Post a resume to be found by registered employers
 *   Create a Job Alert and more for free
 
-Insights Create a CareerBuilder Account
+Create a CareerBuilder Account
 
 Menu Search Sign In Resumes Send Feedback Show only jobs I can apply to using mobile device. Jobs
 
