@@ -1,5 +1,5 @@
-*   Current Terms and Conditions
-*   OnStar subscriber prior to June, 1 2014
+*   User Terms
+*   Terms and Conditions if accepted before June 1, 2014
 
 OnStar Services – User Terms Last Updated: June 1, 2014
 
