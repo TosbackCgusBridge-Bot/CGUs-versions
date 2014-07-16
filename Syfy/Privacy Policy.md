@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Syfy - Imagine Greater Syfy - Imagine Greater
+Syfy Video Mega Shark vs. Mecha Shark Mega Shark vs. Mecha Shark
+
+Catch Mega Shark vs. Mecha Shark on June 26th at 9/8c.
+
+Syfy - Imagine Greater Syfy - Imagine Greater
 
 Take a glimpse at Syfy's greatest moments with current shows and shows yet to come. Syfy Imagine Greater
 
@@ -259,13 +263,9 @@ Ascension - First Look Tease Ascension - First Look Tease
 
 See the first look tease at Ascension coming in November.
 
-BlastrTV visits Diagon Alley BlastrTV visits Diagon Alley
+The Wil Wheaton Project - Next Episode - Wil ... The Wil Wheaton Project - Next Episode - Wil Takes Manhattan
 
-Missing your fix of Harry Potter? Join BlastrTV as it gets an exclusive behind the scenes look at Diagon Alley, the newest addition to Universal Studios Orlando.
-
-Exclusive: Mike Lawrence Sounds Off Exclusive: Mike Lawrence Sounds Off
-
-Check out an exclusive bonus scene from The Wil Wheaton Project as comedian Mike Lawrence sounds off on a variety of scifi topics.
+Catch the next episode of The Wil Wheaton Project, Tuesdays at 10/9c.
 
 *   FAQ
 *   Feedback
