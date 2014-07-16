@@ -73,11 +73,11 @@ The Phonedeck product series is being developed by Berlin based desk.io company.
 
 Recent Blog Posts
 
+*   Phonedeck Featured as ‘App of the Month’ on Alcatel-Lucent’s Developer Portal July 2, 2014
+*   Phonedeck Wins Next Generation Services Platforms Developer Hackathon June 11, 2014
 *   Phonedeck connects the iPhone with the Cloud Services of Salesforce.com May 6, 2014
+*   Phonedeck Exhibits at Mobile World Congress 2014 February 24, 2014
 *   Thanks for visiting Phonedeck at Dreamforce ’13 November 26, 2013
-*   Press Release: Phonedeck CSI November 13, 2013
-*   Dreaming November 8, 2013
-*   New: Phonedeck CSI November 6, 2013
 
 Supported by the EU
 
