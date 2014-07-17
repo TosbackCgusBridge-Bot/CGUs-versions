@@ -8,4 +8,4 @@ We built Dashlane with the clear understanding that your personal data is privat
 
   
 **Privacy Policy** For more details, download our Privacy Policy.  
-(Last updated May 30th 2013)
+(Last updated July 16th 2014)
