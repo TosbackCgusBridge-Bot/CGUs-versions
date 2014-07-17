@@ -10,8 +10,8 @@ Elle a pour objet de vous donner les informations quand à l'utilité et à l'us
 1.1** **Identité du responsable du traitement**  
 Les données sont collectées par La Redoute SA  
 Siège Social : 57 rue de Blanchemaille 59100 Roubaix  
-SA au capital de 44 300 560 euros,  
-B 477 180 186 - RCS Roubaix-Tourcoing  
+SA au capital de 683 024 312, 50 euros,  
+B 477 180 186 - RCS Lille Métropole  
 **Président Directeur Général** **:** Nathalie BALLA  
   
 
