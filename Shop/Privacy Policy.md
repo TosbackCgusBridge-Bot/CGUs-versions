@@ -263,7 +263,7 @@ Lenovo United States Select a country/region
     *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
         *   C Series: Powerful &. Compact
         *   D Series: Extreme Speed, Dual CPU
-        *   P Series: Entry-Level Power &. Stability
+        *   P300: Entry-Level Power &. Stability
         *   S Series: High-Performance, Powerful Graphics
     *   ThinkPad Mobile Workstations The Ultimate Mobile Workstation
         *   W Series: Portable Workstations
