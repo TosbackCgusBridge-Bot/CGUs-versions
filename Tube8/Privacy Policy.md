@@ -4,7 +4,7 @@ You are now following .
 
 Control who you follow on the Following page.
 
-X X Sponsored text link Under player banner
+X X Sponsored text link Under player banner Branded username
 
 *   Home
 *   Categories
