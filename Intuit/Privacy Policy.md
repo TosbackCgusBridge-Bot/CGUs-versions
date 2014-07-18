@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12604288558
+true true C12609183744
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola702.jcpenney.com SERVER NAME :->. prod-c1-com-70202 TIME :->. Wed Jul 16 03:56:10 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola781 SERVER NAME :->. prod-c1-com-78101 TIME :->. Thu Jul 17 05:03:42 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,29 +43,61 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-30-50% Off Home Sale
+Online Only
+
+Extra 25% Off\* $200 or more.
+
+Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Extra 15% Off\*
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Ends July 20.
+
+Online Code: NOWSAVE
+
+\*See exclusions and details. print store coupon Night and Day Doorbusters
+
+Excluded from coupon offer.
+
+In Store Only. Friday, 3PM until close, Saturday, 10AM until 1PM.
+
+view doorbusters store ad Appreciation Sale
+
+We heart you! Extra savings just for you.
+
+In Store and Online.
+
+shop the sale view store ad$15 Off\* $15
+
+Get a $15 off\* $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store. July 15 through August 15, 2014, redeemable August 16 through September 1, 2014.
+
+\*See exclusions and details.30-50% Off Juniors' Arizona
+
+Select styles.
+
+shop juniors' Arizona Home Sale
+
+In Store and Online.
 
 Select items.
 
-In Store and Online. Ends July 20.
+shop window shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Bedding and Bath shop bedding and bath40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window 40-50% Off Select A.N.A shop A.N.A $17.99-$24.99 Select Women's Sandals shop women's sandals 40-60% Off Select Women's Swim shop women's swimwear 30-50% Off Select School Uniforms shop school uniforms 40-60% Off Select Fine Jewelry and Bijoux Bar shop jewelry and Bijoux Bar $17.99 Select Kids' Arizona Denim shop Arizona Dorm Life
 
-shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture shop furniture and mattresses40-50% Off Window shop window30-50% Off Bed and Bath shop bed and bath shop curtains and drapes Red Zone Extra 25% Off Furniture and Window Clearance For A Total Savings Of 60-75% Off
+My Dorm Room Is My Happy Place
 
-Online Only. 2 days only! Ends July 16.
-
-Use Online Code: GOODDEAL
-
-25% Off cannot be combined with other offers.
-
-shop furniture and window clearance shop furniture clearance shop window clearance 40-50% Off Select Juniors' Dresses shop juniors' dresses 20-40% Off Select Men's Activewear shop men's activewear $29.99 Select Backpacks shop backpacks $59.99 Select Nike shop Nike 40-50% Off Select Kids' Activewear shop kids' activewear 40-60% Off Select Swim For Her shop women's swimwear Look Smart All Year Long shop all school uniformsBack To School
-
-The perfect fit lets you be you.
-
-shop back to school JCP Rewards
+shop all dorm life JCP Rewards
 
 Shop to earn $10 JCP Rewards
 
-sign up today A Fit For Every Workout shop fitnessDorm Life shop all dorm lifeRed Zone 50-75% Off Clearance Selections shop clearance
+sign up today A Fit For Every Workout shop fitness Back To School
+
+The perfect fit lets you be you.
+
+shop back to schoolRed Zone 50-75% Off Clearance Selections shop clearance
 
 get connected
 
