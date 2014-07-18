@@ -344,6 +344,7 @@ Lenovo United States Select a country/region
     
 *   Deals
     *   Current Offers
+        *   Christmas in July Sale
         *   Home Laptop &. Desktop Deals
         *   Accessories Closeout Sale
         *   Deals for Students and Educators
