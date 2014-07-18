@@ -13,9 +13,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   Swim Shop
-            *   Shoes &. Sandals
+            *   Jeans 101
             *   Performance Collection
-            *   Nautical Favorites
+            *   Shoes &. Sandals
             
             *   New Arrivals
             *   Starfish Collection
@@ -111,6 +111,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
                 *   Big Boy (size 7-20)
     *   *   Girls
             *   Back to Kids Girls
+            *   Backpacks &. Lunch Boxes
             *   Swim
             *   Tops
             *   Graphic Tees
@@ -124,12 +125,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers &. Jackets
             *   Outerwear
             *   Sleepwear
-            *   Backpacks &. Lunch Boxes
             *   Tights, Socks &. Underwear
             *   Accessories
             *   Shoes
     *   *   Boys
             *   Back to Kids Boys
+            *   Backpacks &. Lunch Boxes
             *   Swim
             *   Shorts
             *   Tops
@@ -141,7 +142,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers &. Jackets
             *   Outerwear
             *   Sleepwear
-            *   Backpacks &. Lunch Boxes
             *   Ties &. Accessories
             *   Socks &. Underwear
             *   Shoes
@@ -186,11 +186,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find your School
+            *   Backpacks &. Lunch Boxes
             
             *   Polos that Perform
             *   Iron Knee Pants
             *   Phys Ed Locker Room
-            *   After the Bell
+            *   After School
             *   Sale
         *   Shop By Age Range
             *   Back to Uniforms Shop By Age Range
