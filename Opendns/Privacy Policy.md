@@ -50,7 +50,7 @@ We post customer testimonials on our Websites which may contain Personal Informa
 
 Updating, Correcting or Deleting Personal Information and OpenDNS Accounts
 
-You may correct, update, or delete your Personal Information by accessing it through the edit account information page or by emailing our Customer Support atcontact@opendns.com. If emailing Customer Support, please allow us a reasonable period of time in order to satisfy your request.
+You may correct, update, or delete your Personal Information by accessing it through the edit account information page or by emailing our Customer Support at contact@opendns.com. If emailing Customer Support, please allow us a reasonable period of time in order to satisfy your request.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
