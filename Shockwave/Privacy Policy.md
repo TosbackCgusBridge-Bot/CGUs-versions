@@ -47,7 +47,6 @@ About Shockwave
 *   About Shockwave
 *   Advertising
 *   Game Developers
-*   Careers
 *   Terms of Use
 *   Privacy Policy
 *   Virtual Currency Purchasing Agreement
@@ -56,26 +55,14 @@ About Shockwave
 *   User Submission Agreement
 *   Contact Us
 
-Privacy and Legal Free Online Games and More More Addicting Games!
-
-*   *   GAMES
-    *   Free Online Games
-    *   Download Games
-    *   Online Games
-    *   Puzzle Games
-    *   Strategy Games
-    *   Mobile Games
-
-*   *   Addicting Games
-    *   Racing Games
+Privacy and Legal Free Online Games and More
 
 *   CONTACT US
 *   About Us
 *   Help
 *   Advertising
 
-*   Terms of Use (Shockwave)
-*   Terms of Use (NickMom)
+*   Terms of Use
 *   Virtual Currency Purchasing Agreement
 *   Privacy Policy
 *   Copyright Compliance Policy
