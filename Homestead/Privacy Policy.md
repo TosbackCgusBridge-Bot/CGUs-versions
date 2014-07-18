@@ -25,9 +25,8 @@ Privacy Policy
 
   
 **Homestead Technologies, Inc.**  
-305 Walnut Street  
-Suite 300  
-Redwood City, CA 94063  
+10 Corporate Drive  
+Burlington, MA 01803  
   
 **PRIVACY POLICY**  
 Last Updated September 17, 2012
