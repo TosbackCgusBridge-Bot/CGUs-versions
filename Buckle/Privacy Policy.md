@@ -63,6 +63,7 @@ My Bag (0) Wish List Search
     *   Watch Warranty
 *   Promotions
     *   Buckle Jeans Sweepstakes Official Rules
+    *   Tax Free Weekends 2014
     *   Store Events
     *   Sweepstakes Winners
     *   Social Giveaway Official Rules
