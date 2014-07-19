@@ -251,11 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Mega Shark vs. Mecha Shark Mega Shark vs. Mecha Shark
-
-Catch Mega Shark vs. Mecha Shark on June 26th at 9/8c.
-
-Syfy - Imagine Greater Syfy - Imagine Greater
+Syfy Video Syfy - Imagine Greater Syfy - Imagine Greater
 
 Take a glimpse at Syfy's greatest moments with current shows and shows yet to come. Syfy Imagine Greater
 
@@ -263,9 +259,13 @@ Ascension - First Look Tease Ascension - First Look Tease
 
 See the first look tease at Ascension coming in November.
 
-The Wil Wheaton Project - Next Episode - Wil ... The Wil Wheaton Project - Next Episode - Wil Takes Manhattan
+Mega Shark vs. Mecha Shark Mega Shark vs. Mecha Shark
 
-Catch the next episode of The Wil Wheaton Project, Tuesdays at 10/9c.
+Catch Mega Shark vs. Mecha Shark on June 26th at 9/8c.
+
+Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
+
+Clark Gregg (Agent Coulson) talks about the challenges with Marvel's first live action TV show and his love of Iron Fist.
 
 *   FAQ
 *   Feedback
