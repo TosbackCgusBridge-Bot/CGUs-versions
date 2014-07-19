@@ -1,4 +1,4 @@
-USESDEFRITBR Juin 2014
+USESDEFRITBR Juillet 2014
 
 *   Objet
 *   Mentions légales
@@ -119,7 +119,6 @@ Durée et résiliation
 Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.  
-  
 Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
 Conditions-generales-d-utilisation.pdf A voir également
 
@@ -128,12 +127,12 @@ Conditions-generales-d-utilisation.pdf A voir également
 *   Conditions générales identification site
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Modèle de conditions générales de vente » Forum - Webmaster
-*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Conditions générales (Résolu) » Forum - Mobile
+*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
+*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
 *   Forum Webmastering
-*   Forum Xbox 360
+*   Forum Matériel informatique
