@@ -19,9 +19,6 @@ My state is...AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 **Trying to opt-out?**  
 We don't sell our customer lists or share your information with other companies to offer their products to you. You don't need to "opt-out."
 
-**P3P Users**  
-Click here for information about our P3P policy.
-
 **Contact Information**  
 To obtain additional information regarding our Privacy Policy, write to:
 
