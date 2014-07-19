@@ -2,8 +2,6 @@ Terms of Service/Policies
 
 The links below provide you access to Charter's policies &. agreements.
 
-**For customers living in Colorado, Wyoming, or Montana, the terms and conditions of service located here apply to your service subscription to Charter's Cable, Internet, and Voice Services.**
-
 *   Website Use Terms and Conditions
 *   Commercial Acceptable Use Policy
 *   Commercial Terms of Service
