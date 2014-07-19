@@ -270,6 +270,7 @@ Lenovo United States Select a country/region
     
 *   Servers &. Storage
     *   Racks Balanced Design. Built for Business.
+        *   RS140
         *   RD340
         *   RD440
         *   RD540
