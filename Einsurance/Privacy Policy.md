@@ -68,7 +68,7 @@ Session ID cookies enable E-Insure to identify a specific user across multiple b
 
 A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. As a convenience during the log in process, a user may request that his browser remember the e-mail address that identifies his account, or the zip code and notification email address preferences for the quoting process. This function is implemented through the use of a persistent cookie.
 
-The use of cookies by our \[partners, affiliates, tracking utility company, service providers\] is/is not covered by our privacy policy. We do/do not have access or control over these cookies. Our \[partners, affiliates, tracking utility company, service providers\] use session ID cookies \[to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.\]
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. on their site.
 
 Log Files
 
@@ -88,7 +88,7 @@ E-Insure uses this information to analyze trends, administer the site, track use
 
 Web Beacons
 
-We employ \[or our third party advertising partner employs\] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie \[do not tie\] the information gathered by clear gifs to our customers’ personally identifiable information. To learn more about our advertising company’s use of clear gifs, please go to chartbeat.com
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. To learn more about our advertising company’s use of clear gifs, please go to chartbeat.com
 
 Communications
 
