@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12757060713
+true true 10.60.248.10 L12757958103
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun Jul 20 11:25:53 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Mon Jul 21 04:06:57 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,33 +49,15 @@ Extra 25% Off\* $200 or more.
 
 Extra 20% Off\* $100 or more.
 
-In Store and Online
-
 Extra 15% Off\*
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Ends today!
+Held over! Ends today.
 
 Online Code: NOWSAVE
 
-\*See exclusions and details. print store coupon 30-50% Off Juniors' Arizona
-
-Select styles.
-
-shop juniors' Arizona Appreciation Sale
-
-We heart you! Extra savings just for you.
-
-In Store and Online.
-
-shop the sale view store ad Home Sale
-
-In Store and Online.
-
-Select items.
-
-shop window shop the home sale 30-50% Off Kitchen and Dining shop kitchen and dining 30-50% Off Bedding and Bath shop bedding and bath 40-50% Off Window shop window Back To School
+\*See exclusions and details. Back To School
 
 The perfect fit lets you be you.
 
@@ -95,17 +77,23 @@ Your favorite styles.
 
 Excluded from coupon.
 
-shop Converse 30-50% Off Select Juniors' Arizona shop juniors' Arizona 2 For $30 Select Juniors' Flirtitude Bras shop Flirtitude 40-50% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Kids' Uniforms shop kids' uniforms 20-50% Off Select Backpacks shop backpacks Express Yourselfie
+shop Converse 30-50% Off Select Juniors' Arizona shop juniors' Arizona 2 For $30 Select Juniors' Flirtitude Bras shop Flirtitude 40-50% Off Select Kids' Arizona shop kids' Arizona Express Yourselfie
 
 Why fit in when you can stand out? Create and share your emoji style.
 
 Express yourself and find a fit that lets you be you. #ExpressYourselfie
 
-get started JCP Rewards
+get started 20-50% Off Select Backpacks shop backpacks shop beddingHome Savings
 
-Sign up today and earn 50 extra bonus points.
+Online Only. Ends July 23.
 
-sign up today A Fit For Every Workout shop fitness Dorm Life shop all dorm life Red Zone 50-75% Off Clearance Selections shop clearance
+With Code: 25HOME
+
+\*See exclusions and details.40% Off\* Bedding and Bath shop bedding and bath30% Off\* Small Appliances shop small appliances30% Off\* Storage and Organization shop storage and organization30% Off\* Decor shop decor shop the home sale JCP Rewards
+
+Shop to earn $10 JCP Rewards.
+
+sign up today A Fit For Every Workout shop fitnessDorm Life shop all dorm life Red Zone 50-75% Off Clearance Selections shop clearance
 
 get connected
 
