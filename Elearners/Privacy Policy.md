@@ -27,7 +27,7 @@ Campus Main Menu
     *   Psychology Degrees
     *   Video Game Design Degrees
 
-Sponsored Listings
+Sponsored Listings &lt;a data-cke-saved-href=&quot;http://adfarm.mediaplex.com/ad/ck/27482-203022-48367-5?mpt=\[CACHEBUSTER\]... href=&quot;http://adfarm.mediaplex.com/ad/ck/27482-203022-48367-5?mpt=\[CACHEBUSTER\]... &lt;img data-cke-saved-src=&quot;http://adfarm.mediaplex.com/ad/!bn/27482-203022-48367-5?mpt=\[CACHEBUSTER... src=&quot;http://adfarm.mediaplex.com/ad/!bn/27482-203022-48367-5?mpt=\[CACHEBUSTER... alt=&quot;Click Here&quot. border=&quot;0&quot;&gt;&lt;/a&gt.
 
 Help Section
 
