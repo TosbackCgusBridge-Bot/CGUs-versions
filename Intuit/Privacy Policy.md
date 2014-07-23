@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true 10.60.248.10 L12757958103
+true true C12621391395
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Mon Jul 21 04:06:57 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola851 SERVER NAME :->. prod-c1-com-0302 TIME :->. Tue Jul 22 04:31:38 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,21 +43,17 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
+shop beddingHome Savings
 
-Extra 25% Off\* $200 or more.
+Online Only. Ends July 23.
 
-Extra 20% Off\* $100 or more.
+With Code: 25HOME
 
-Extra 15% Off\*
+\*See exclusions and details.40% Off\* Bedding and Bath shop bedding and bath30% Off\* Small Appliances shop small appliances30% Off\* Storage and Organization shop storage and organization30% Off\* Decor shop decor shop the home sale $15 Off $15
 
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Get a $15 off $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15.
 
-Held over! Ends today.
-
-Online Code: NOWSAVE
-
-\*See exclusions and details. Back To School
+get details Back To School
 
 The perfect fit lets you be you.
 
@@ -77,19 +73,13 @@ Your favorite styles.
 
 Excluded from coupon.
 
-shop Converse 30-50% Off Select Juniors' Arizona shop juniors' Arizona 2 For $30 Select Juniors' Flirtitude Bras shop Flirtitude 40-50% Off Select Kids' Arizona shop kids' Arizona Express Yourselfie
+shop Converse 40-50% Off Select Juniors' Decree shop juniors' Decree 2 For $30 Select Juniors' Flirtitude Bras shop Flirtitude 40-50% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Kids' Uniforms shop kids' uniforms 20-50% Off Select Backpacks shop backpacks Express Yourselfie
 
 Why fit in when you can stand out? Create and share your emoji style.
 
 Express yourself and find a fit that lets you be you. #ExpressYourselfie
 
-get started 20-50% Off Select Backpacks shop backpacks shop beddingHome Savings
-
-Online Only. Ends July 23.
-
-With Code: 25HOME
-
-\*See exclusions and details.40% Off\* Bedding and Bath shop bedding and bath30% Off\* Small Appliances shop small appliances30% Off\* Storage and Organization shop storage and organization30% Off\* Decor shop decor shop the home sale JCP Rewards
+get started JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
