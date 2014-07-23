@@ -1,7 +1,7 @@
   >> Privacy &. Security    Choose a link to select a section.  
 Website and Store Privacy Notice Safe Harbor Privacy Policy  
 Mobile Application Privacy Notice  
-**Ralph Lauren Corporation**    Website and Store Privacy Notice    Last modified: January 4, 2014
+**Ralph Lauren Corporation**    Website and Store Privacy Notice    Last modified: July 16, 2014
 
 Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
@@ -184,6 +184,8 @@ You may call our customer service line for information about our products or per
 _Other Ways We Obtain and Use Information_
 
 In addition to the ways we collect information about you described above, we also may obtain information about you from third parties. We may use your personal information to provide you with products or services you request (such as tailoring services or merchandise returns), enhance your shopping experience and communicate with you about our products, services and promotions. In addition, we may use your personal information for internal purposes, such as fraud and theft prevention, accident reporting, development and administration of our sites and Stores, data analytics, and compliance with our legal obligations, policies and procedures.
+
+We also may use information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
    
 
