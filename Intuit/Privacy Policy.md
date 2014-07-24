@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12621391395
+true true C12622368732
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola851 SERVER NAME :->. prod-c1-com-0302 TIME :->. Tue Jul 22 04:31:38 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Jul 23 05:13:31 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,21 +43,31 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-shop beddingHome Savings
+In Store and Online
 
-Online Only. Ends July 23.
+Select original, regular, sale and clearance-priced items.
+
+Ends July 29.
+
+Online Code: BUYTODAY
+
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print store coupon shop bedding Home Savings
+
+Last day! Online Only.
 
 With Code: 25HOME
 
-\*See exclusions and details.40% Off\* Bedding and Bath shop bedding and bath30% Off\* Small Appliances shop small appliances30% Off\* Storage and Organization shop storage and organization30% Off\* Decor shop decor shop the home sale $15 Off $15
+\*See exclusions and details. 40% Off\* Bedding and Bath shop bedding and bath 30% Off\* Small Appliances shop small appliances 30% Off\* Storage and Organization shop storage and organization 30% Off\* Decor shop decor shop the home sale $15 Off $15
 
 Get a $15 off $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15.
 
-get details Back To School
-
-The perfect fit lets you be you.
-
-shop all back to school 30-50% Off Arizona
+get details #Love It For School Sale shop the sale 30-50% Off Arizona
 
 Select styles. Only at JCPenney.
 
@@ -83,7 +93,7 @@ get started JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitnessDorm Life shop all dorm life Red Zone 50-75% Off Clearance Selections shop clearance
+sign up today A Fit For Every Workout shop fitness Dorm Life shop all dorm life Red Zone Clearance Selections shop clearance
 
 get connected
 
