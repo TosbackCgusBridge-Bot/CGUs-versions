@@ -1,4 +1,5 @@
-Tired of pricey cable bills? Choose a Bundle from FairPoint and save big!
+Looking for MyFairPoint.net? All of the FairPoint associated links present on MyFairPoint.net have moved to the Residential Support page. From the right side column of the  
+Support page you can access MyFairPoint.com, your FairPoint email account, Premium Internet Support, Online Backup &. Sharing, Security Suite and Games on Demand.
 
 *   Residential
 *   Business
@@ -10,7 +11,7 @@ Tired of pricey cable bills? Choose a Bundle from FairPoint and save big!
 
 *   Bundles
 
-Please tailor my FairPoint experience. I am interested in: Residential ServicesBusiness ServicesEnterprise ServicesGov. and EducationWholesale Services My current location is: undetected Go   Where Do You Live?
+Please tailor my FairPoint experience. I am interested in: Residential ServicesBusiness ServicesEnterprise ServicesGov. and EducationWholesale Services Service location is: undetected Go   Where Do You Live?
 
 Enter your zip code or phone number now to discover high technology FairPoint solutions and rates available in your location. Don't know your zip code?
 
