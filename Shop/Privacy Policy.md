@@ -7,7 +7,8 @@ Lenovo United States Select a country/region
 *   Austria
 *   Bahrain
 *   Bangladesh
-*   Belgium
+*   Belgium - Dutch
+*   Belgium - Français
 *   Benin
 *   Bolivia
 *   Botswana
@@ -25,8 +26,8 @@ Lenovo United States Select a country/region
 *   China
 *   Colombia
 *   Comoros
-*   Congo, Dem. Rep. (Kinshasa)
 
+*   Congo, Dem. Rep. (Kinshasa)
 *   Congo, Rep. (Brazzaville)
 *   Croatia
 *   Czech Republic
@@ -52,8 +53,8 @@ Lenovo United States Select a country/region
 *   Hungary
 *   India
 *   Indonesia
-*   Ireland
 
+*   Ireland
 *   Israel
 *   Italy
 *   Japan
@@ -79,8 +80,8 @@ Lenovo United States Select a country/region
 *   Myanmar
 *   Namibia
 *   Netherlands
-*   New Zealand
 
+*   New Zealand
 *   Niger
 *   Nigeria
 *   Norway
@@ -106,8 +107,8 @@ Lenovo United States Select a country/region
 *   Somalia
 *   South Africa
 *   South Sudan
-*   Spain
 
+*   Spain
 *   Sri Lanka
 *   Sudan
 *   Swaziland
