@@ -257,7 +257,7 @@ Take a glimpse at Syfy's greatest moments with current shows and shows yet to co
 
 Ascension - First Look Tease Ascension - First Look Tease
 
-See the first look tease at Ascension coming in November.
+See the first look tease at Ascension coming on November 24.
 
 Mega Shark vs. Mecha Shark Mega Shark vs. Mecha Shark
 
