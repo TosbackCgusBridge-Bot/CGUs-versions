@@ -8,6 +8,8 @@ AOL
 
 AOL Privacy Policy Highlights
 
+We aim to delight the world with valuable content and innovative products and services. You can find out about brands such as The Huffington Post, MapQuest, Engadget, and more.  
+  
 This notice provides highlights of the full privacy policy and covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
 
 Personal Information
