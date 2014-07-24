@@ -44,7 +44,7 @@ NBCUniversal
     *   Universal Television
 *   Digital
     *   Fandango
-    *   Golf Now
+    *   GolfNow
     *   Hulu
     *   NBC News Digital
 *   Film
