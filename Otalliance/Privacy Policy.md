@@ -99,7 +99,18 @@ Tue, Jul 29, 2014 How to Get the Most Out of Your Email Campaign Featuring guest
 *   OTA Blog
 *   Newsletters
 
-Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Fri, Jul 11, 2014 IoT Privacy Tech Working Group Formed OTA joins TRUSTe, CDT and FPF forming multi-Stakeholder IoT privacy tech working group as to help enhance consumer privacy in Internet of Things. Group callls for IoT &. Privacy Experts to Submit Interest for Participation. Thu, Jul 10, 2014 Joining forces to ring the bell on companies evading online trust Recently the Online Publishers Association (OPA), wrote a insightful commentary regarding online trust and privacy. As stated by Jason Kint is chief executive of the OPA, "Let’s ring the bell on companies that are evading trust and threatening the relationships we have built with consumers. And instead of condoning an ecosystem where unknown third parties lurk behind the scenes tracking with little transparency, let’s give consumers a simple, lasting choice like Do Not Track, as simple and ubiquitous as a “Like.” Wed, Jul 9, 2014 Twitter Stock Realizes Benefit of OTA Honor Roll Unlike other leading names in social media, Twitter (TWTR) was awarded for what it offers its users in privacy. With 255 million MAUs, the San Francisco, Calif.-based social network was acknowledged as one of the top websites for consumer protection, security and privacy by Online Trust Alliance in June. Twitter scored top marks in the Online Trust Audit and Honor Roll earning a spot among the top 29% of the 800 sites examined for its practices to protect user data. Resources
+Thu, Jul 24, 2014 Best Practices to Unsubscibe &. Opt-Out
+
+Share your best practices to enable users to easily opt-out of email.  OTA's draft list is below.  Share your thoughts
+
+1.  **Opt out copy and link should be "clear and conspicuous**".
+    
+2.  **Use standard and commonly understand terms**  Avoid terms which are not obvious and may be perceived to attempt to obfuscate things.
+    
+3.  **Easily read by recipients of all ages and on all devices.** 
+    
+
+Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Fri, Jul 11, 2014 IoT Privacy Tech Working Group Formed OTA joins TRUSTe, CDT and FPF forming multi-Stakeholder IoT privacy tech working group as to help enhance consumer privacy in Internet of Things. Group callls for IoT &. Privacy Experts to Submit Interest for Participation. Thu, Jul 10, 2014 Joining forces to ring the bell on companies evading online trust Recently the Online Publishers Association (OPA), wrote a insightful commentary regarding online trust and privacy. As stated by Jason Kint is chief executive of the OPA, "Let’s ring the bell on companies that are evading trust and threatening the relationships we have built with consumers. And instead of condoning an ecosystem where unknown third parties lurk behind the scenes tracking with little transparency, let’s give consumers a simple, lasting choice like Do Not Track, as simple and ubiquitous as a “Like.” Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
