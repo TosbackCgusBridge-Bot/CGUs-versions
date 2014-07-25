@@ -45,7 +45,6 @@ End top navigation Search Skip Side Navigation Leadership
 *   Board of Governors
 *   Postmaster General &. Executive Leadership Team
 *   Postal Leadership
-*   Citizens' Stamp-Advisory Committee
 
 Financials Judicial Officer
 
