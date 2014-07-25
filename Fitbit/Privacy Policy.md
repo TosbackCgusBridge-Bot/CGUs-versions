@@ -8,7 +8,7 @@ Fitbit Log in • Get Started
     *   **One™** Wireless Activity + Sleep Tracker
     *   **Force™** Wireless Activity + Sleep Wristband
     *   **Aria™** Wi-Fi Smart Scale
-    *   Premium
+    *   **Premium** Membership
     
     *   Compare Trackers
 *   Store
