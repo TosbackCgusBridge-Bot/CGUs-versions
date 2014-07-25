@@ -1,20 +1,197 @@
 Aéropostale Live Love Dream P.S. from Aéropostale
 
-*   My Account
-*   Customer Service
-*   Store Locator
-*   shipping to:
-
-My Bag: 0 Items $0.00 Aéropostale Go
-
-*   Blog
-*   Gift Cards
 *   Email Sign Up Sign Up Sign up for Aéropostale emails Sign up for P.S. From Aéropostale emails
+*   My Account
+*   ship to:
+*   My Bag: 0
+
+Aéropostale Go
 
 *   Girls
+    
+    *   NEW ARRIVALS
+    
+    *   Pretty Little Liars
+    
+    *   Bethany Mota
+    
+    *   Uniform Looks
+    
+    *   Sweet Summer Looks
+    
+    *   Brands We Love
+    
+    *   Live Love Dream
+    
+    *   Shoe Bar
+    
+    *   Extended Sizes
+    
+    *   Web Exclusives
+    
+    *   CLEARANCE
+        *   Clearance Tops
+        *   Clearance Bottoms
+        *   Clearance Accessories
+    
+    *   TOPS
+        *   Tees
+        *   Camis + Tanks
+        *   Polos
+        *   Shirts
+        *   Hoodies + Sweatshirts
+        *   Sweaters + Cardigans
+    
+    *   BOTTOMS
+        *   Jeans
+        *   Leggings
+        *   Sweatpants
+        *   Pants
+        *   Capris
+        *   Shorts
+        *   Dresses + Skirts
+    
+    *   OUTERWEAR
+    
+    *   Footwear
+        *   Flats
+        *   Flip Flops
+        *   Sandals
+        *   Sneakers
+        *   Boots
+    
+    *   Bras
+    
+    *   Panties
+    
+    *   Socks
+    
+    *   ACCESSORIES
+        *   Bags + Wallets
+        *   Jewelry
+        *   Sunglasses
+        *   Scarves
+        *   Watches
+        *   Belts
+        *   Phone Cases
+        *   Hair Accessories
+        *   Beauty
+        *   Fragrance
+        *   Cold Weather
+    
+    *   LIVE LOVE DREAM
+        *   active
+        *   yoga
+        *   lounge
+        *   bras
+        *   panties
+        *   accessories
+        *   Clearance
+    
+    *   ROOM
+    
+    *   Uniform
 *   Guys
+    
+    *   NEW ARRIVALS
+    
+    *   Looks to Rock
+    
+    *   Brands We Love
+    
+    *   Uniform Looks
+    
+    *   COLLEGE
+    
+    *   SNEAKER SHOP
+    
+    *   EXTENDED SIZES
+    
+    *   Web Exclusives
+    
+    *   CLEARANCE
+        *   Clearance Tops
+        *   Clearance Bottoms
+        *   Clearance Accessories
+    
+    *   Tops
+        *   Graphic Tees
+        *   Polos
+        *   Shirts
+        *   Tees
+        *   Tanks
+        *   Hoodies
+        *   Sweaters
+    
+    *   Bottoms
+        *   Jeans
+        *   Shorts
+        *   Pants
+        *   Sweatpants
+    
+    *   Outerwear
+    
+    *   Footwear
+        *   Flip Flops
+        *   Sneakers
+    
+    *   Boxers + Trunks
+        *   Boxers
+        *   Boxer Briefs
+        *   Trunks
+    
+    *   Socks
+    
+    *   Accessories
+        *   Hats
+        *   Watches
+        *   Belts
+        *   Sunglasses
+        *   Cologne
+    
+    *   ROOM
+    
+    *   Uniform
 *   ROOM
+    
+    *   Bethany Room
+    
+    *   Bedding
+    
+    *   Pillows &. Window
+    
+    *   Lighting
+    
+    *   Accessories
+    
+    *   Wall Decor
+    
+    *   Bedding
+    
+    *   Accessories
+    
+    *   NFL
 *   Aero Clearance
+    
+    *   VIEW ALL
+    
+    *   ALL TOPS
+    
+    *   ALL BOTTOMS
+    
+    *   ALL ACCESSORIES
+    
+    *   VIEW ALL
+    
+    *   ALL TOPS
+    
+    *   ALL BOTTOMS
+    
+    *   ALL ACCESSORIES
+    
+    *   View All
+*   Brands
+*   Aero Now
 
 Safety, Security and Privacy
 
@@ -95,21 +272,57 @@ Last updated May 8, 2012.
   
   
 
-*   Email
-*   Mobile Signup
-*   *   Facebook
-    *   Twitter
-    *   YouTube
-    
-
+*   My Account
 *   Customer Service
-*   About
-*   Careers
-*   Site Map
-*   Community
-*   Investor Relations
-*   Terms of Use
-*   Privacy Policy
-*   Top Products
+*   Store Locator
 
-International Shipping Terms and Conditions Privacy Policy X
+Back to Top Mobile Signup
+
+*   Follow Us On:
+*   Facebook
+*   Twitter
+*   Pinterest
+*   Google Plus
+*   YouTube
+
+*   CUSTOMER SERVICE
+*   1-877-289-2376
+*   RETURNS
+*   SHIPPING
+*   SIZE CHART
+
+*   COMPANY INFO
+*   ABOUT AÉROPOSTALE
+*   CAREERS
+*   FAQS
+*   INVESTOR RELATIONS
+*   TERMS OF USE
+*   PRIVACY POLICY
+*   STORE LOCATOR
+
+*   GIFT CARDS
+*   E-GIFT CARDS
+*   CORPORATE GIFT CARDS
+*   CHECK BALANCE
+
+*   MY ACCOUNT
+*   ORDER STATUS/TRACKING
+*   EMAILS ABOUT YOUR ORDER
+*   DELIVERY OF YOUR ITEMS
+*   CANCELLATIONS
+
+*   AÉROPOSTALE
+*   TOP PRODUCTS
+*   MOBILE SITE
+*   SITE MAP
+*   P.S. FROM AÉROPOSTALE
+*   LIVE LOVE DREAM
+
+©2014 AEROPOSTALE. ALL RIGHTS RESERVED
+
+*   Our Brands
+*   Aéropostale
+*   Live Love Dream
+*   P.S. from Aéropostale
+
+Terms and Conditions Privacy Policy X
