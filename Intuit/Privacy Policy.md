@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12622368732
+true true 203.17.194.255 C12625793363
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Jul 23 05:13:31 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola861 SERVER NAME :->. prod-c1-com-0502 TIME :->. Thu Jul 24 06:08:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,33 +57,31 @@ Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon shop bedding Home Savings
+\*See exclusions and details. print store coupon shop bedding30-50% Off Home Sale
 
-Last day! Online Only.
+Affordable summer styles that make every room fit for a staycation.
 
-With Code: 25HOME
+shop the home sale view store ad Red Zone Furniture Clearance 50-70% Off
 
-\*See exclusions and details. 40% Off\* Bedding and Bath shop bedding and bath 30% Off\* Small Appliances shop small appliances 30% Off\* Storage and Organization shop storage and organization 30% Off\* Decor shop decor shop the home sale $15 Off $15
+In Store and Online.
 
-Get a $15 off $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15.
-
-get details #Love It For School Sale shop the sale 30-50% Off Arizona
-
-Select styles. Only at JCPenney.
-
-shop Arizona $39.99 Men's Levi's 505
-
-Regular-fit jeans, regularly $58.
-
-Excluded from coupon.
-
-shop men's Levi's Converse Shoes
+shop furniture clearance $19.99 Select Juniors' Arizona Denim shop juniors' Arizona #Love It For School Sale shop the sale $19.99 Select Guys' Arizona Denim shop guys' Arizona Converse Shoes
 
 Your favorite styles.
 
 Excluded from coupon.
 
-shop Converse 40-50% Off Select Juniors' Decree shop juniors' Decree 2 For $30 Select Juniors' Flirtitude Bras shop Flirtitude 40-50% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Kids' Uniforms shop kids' uniforms 20-50% Off Select Backpacks shop backpacks Express Yourselfie
+shop Converse Doorbusters
+
+In Store Only. Friday, July 25, 3PM until close, Saturday, July 26, 10AM until 1PM.
+
+view doorbusters store ad 40% Off Select Kids' Uniforms shop kids' uniforms 40-50% Off Select Kids' Arizona shop kids' Arizona 20-50% Off Select Backpacks shop backpacks $15 Off $15
+
+July 15 through August 15.
+
+Get a $15 off $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store.
+
+get details Express Yourselfie
 
 Why fit in when you can stand out? Create and share your emoji style.
 
@@ -93,7 +91,15 @@ get started JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitness Dorm Life shop all dorm life Red Zone Clearance Selections shop clearance
+sign up today A Fit For Every Workout shop fitness Back To School
+
+The perfect fit lets you be you.
+
+shop back to schoolRed Zone Clearance Selections
+
+50-75% Off
+
+shop clearance
 
 get connected
 
