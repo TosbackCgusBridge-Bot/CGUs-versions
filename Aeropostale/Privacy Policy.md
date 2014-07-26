@@ -71,13 +71,13 @@ Aéropostale Go
         *   Jewelry
         *   Sunglasses
         *   Scarves
+        *   Hats
         *   Watches
         *   Belts
         *   Phone Cases
         *   Hair Accessories
         *   Beauty
         *   Fragrance
-        *   Cold Weather
     
     *   LIVE LOVE DREAM
         *   active
@@ -125,8 +125,8 @@ Aéropostale Go
     
     *   Bottoms
         *   Jeans
-        *   Shorts
         *   Pants
+        *   Shorts
         *   Sweatpants
     
     *   Outerwear
@@ -145,9 +145,9 @@ Aéropostale Go
     *   Accessories
         *   Hats
         *   Watches
+        *   Bags + Wallets
         *   Belts
         *   Sunglasses
-        *   Cologne
     
     *   ROOM
     
