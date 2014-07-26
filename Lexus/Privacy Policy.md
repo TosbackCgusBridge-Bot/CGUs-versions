@@ -269,6 +269,4 @@ Additional Sites
 
 Sign up for Lexus News
 
-MSRP does not include delivery, processing and handling fee of $910. Excludes taxes, title, license and optional equipment. Dealer price will vary.
-
 ©2006-2014 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
