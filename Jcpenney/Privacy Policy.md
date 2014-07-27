@@ -1,4 +1,4 @@
-J. C. Penney Corporation, Inc. Privacy Policy (rev. 05/22/14)
+J. C. Penney Corporation, Inc. Privacy Policy (rev. 08/01/14)
 
 We value the trust you place in JCPenney.  Accordingly, we want you to understand what information we collect about you, how we use it, and the safeguards we have in place to protect it.  The following Privacy Policy applies to information collected and used by J. C. Penney Corporation, Inc., its subsidiaries and affiliates (“JCPenney”), in JCPenney’s retail stores, on jcp.com, and through JCPenney’s mobile applications, including jcp.com accessed through your mobile device.
 
@@ -61,7 +61,7 @@ From your transactions and other interactions with us, we obtain information con
 
 We may also obtain information about other people from you. For example, if you order a gift to be delivered directly to a friend, you would need to give us the friend’s name and address.
 
-We receive information from other companies. For example, if you have a JCPenney credit card, we receive application and account information from GE Capital Retail Bank (GECRB), the company that owns and administers JCPenney credit accounts (see the "your JCPenney credit account" section of this policy for additional information).  
+We receive information from other companies. For example, if you have a JCPenney credit card, we receive application and account information from Synchrony Bank, the company that owns and administers JCPenney credit accounts (see the "your JCPenney credit account" section of this policy for additional information).  
 We also collect consumer information from third-party providers in order to improve the accuracy of our customer database or increase our understanding of our customers. For example, we get updated addresses from the National Change of Address (NCOA) service, licensed by the U.S. Postal Service, to assist us in having the correct addresses for our customers.  
   We work with certain websites to present advertising to known groups of our customers when they visit those websites. This practice, referred to as "data matching" is facilitated by a third-party service provider for JCPenney and the advertising website. This practice avoids direct sharing of any personal data with the advertising website. Data received back through this process is used to analyze the effectiveness of such advertising to groups of customers.  
      **using the information we collect**  
@@ -84,7 +84,7 @@ We use the information we collect for various purposes, including:
 **information we share with others**
 
 *   **JCPenney family:**  We share information we collect with affiliated companies and licensees (like the optical and photography departments in JCPenney retail stores) within the JCPenney family of businesses.
- *   **service providers:**  We provide information to other companies that provide support services that help us bring you the products and services we offer, market our products and services, or process your transactions. For instance we share information with our international fulfillment service provider, Borderfree, for the purpose of facilitating the sale and fulfillment of online purchases that our customers choose to ship internationally. We also provide information to GECRB and other service providers in connection with the JCPenney credit programs.
+ *   **service providers:**  We provide information to other companies that provide support services that help us bring you the products and services we offer, market our products and services, or process your transactions. For instance we share information with our international fulfillment service provider, Borderfree, for the purpose of facilitating the sale and fulfillment of online purchases that our customers choose to ship internationally. We also provide information to Synchrony Bank and other service providers in connection with the JCPenney credit programs.
 .*   **third-party offers:** We provide information to responsible outside companies. These carefully selected companies may use the information we share to let you know about their products or services, which may include providing special offers to you.
   *   **promotion sponsors: ** If you enter a contest, sweepstakes or other promotion sponsored or co-sponsored by a third-party company, we may forward information about you to that company. 
  *   **others:**  On rare occasions, we may be required to disclose the information we collect pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We may also disclose that information when we believe disclosure is appropriate to protect the rights, interests and property of JCPenney or others, and to protect the safety of customers, associates or others. This may include sharing information with other companies, attorneys, credit bureaus, agents or governmental agencies in connection with issues related to fraud, credit or debt collection. Also, if the ownership of all or part of a business within the JCPenney family were to change, information about customers pertinent to that business’s operations would likely be transferred to, or licensed for use by, the new owner. The applicable member of the JCPenney family might also retain a copy of that information.
@@ -156,16 +156,16 @@ You can update or correct your name, address, telephone number, or email address
 **your JCPenney credit card account**
 
   
-If you have an account under one of the JCPenney credit programs from GE Capital Retail Bank (GECRB), a separate privacy policy applies to each program.  The privacy policy describes GECRB’s collection, use, and protection of information about you and your JCPenney credit account. To obtain GECRB’s privacy policy for your JCPenney credit account, you may:
+If you have an account under one of the JCPenney credit programs from Synchrony Bank, a separate privacy policy applies to each program.  The privacy policy describes Synchrony Bank's collection, use, and protection of information about you and your JCPenney credit account. To obtain Synchrony Bank’s privacy policy for your JCPenney credit account, you may:
 
-*   click here to view GECRB’s privacy policies in connection with JCPenney Credit programs
-*   write to JCPenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007, or,
+*   click here to view Synchrony Bank’s privacy policies in connection with JCPenney Credit programs
+*   write to JCPenney Credit Services/Synchrony Bank at P.O. Box 965007, Orlando, FL 32896-5007, or,
 *   call 1.800.542.0800 (Puerto Rico, U.S. Virgin Islands and Guam residents call 1.800.981.8400)
 
 You can update or correct your name, address, or telephone number for your JCPenney credit account, or check the status of your account by:
 
 *   click here to access your JCPenney credit account information on-line
-*   writing to  JCPenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007  
+*   writing to  JCPenney Credit Services/Synchrony Bank at P.O. Box 965007, Orlando, FL 32896-5007  
 *   call 1.800.542.0800 (Puerto Rico, US Virgin Islands and Guam residents call 1.800.981.8400)
 
 **additional information about jcp.com and our mobile applications**
@@ -250,7 +250,7 @@ Customers shipping internationally who wish to:
 
 should email us at privacy@jcpenneyeservices.com 
 
-**changes to this policy**   This policy was last updated May 22, 2014  
+**changes to this policy**   This policy was last updated Aug 01, 2014  
 
 *   Clarified that the policy applied to information collected  through mobile applications
 *   Added that web beacons may be used in marketing communications other than email
