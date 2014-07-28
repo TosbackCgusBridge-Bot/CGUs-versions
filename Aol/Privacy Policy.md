@@ -1,5 +1,6 @@
-Print AOL Privacy Policy
+Print AOL Privacy Policy **Effective September 15, 2014, the AOL Terms of Service and Privacy Policy will be updated. By continuing to use AOL's online properties, you agree to these updated documents, and you and AOL agree to resolve disputes by arbitration.**
 
+  
 This privacy policy applies to the information AOL Inc. collects about you from any device you use to access AOL products, services, software, websites, and other goods and services offered, owned, or operated by AOL Inc. (collectively “Services”). Some of these Services may provide you with additional information and choices about your privacy, which you should review.
 
 This policy does not apply to information about you collected by third party websites and offerings linked to or otherwise accessible from AOL. The information collected or received by third parties is subject to their own privacy policies.
