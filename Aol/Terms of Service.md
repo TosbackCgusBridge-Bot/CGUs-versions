@@ -1,4 +1,5 @@
-Print Terms of Service About This Terms of Service
+Print Terms of Service **Effective September 15, 2014, the AOL Terms of Service and Privacy Policy will be updated. By continuing to use AOL's online properties, you agree to these updated documents, and you and AOL agree to resolve disputes by arbitration.**  
+  About This Terms of Service
 
 The AOL Terms of Service (TOS) consists of these terms, the AOL Privacy Policy, the Community Guidelines, and any supplemental terms provided to you for any of the products, services, software, websites, and other goods and services offered, owned, or operated by AOL Inc. (collectively “Services”). It is a contract in electronic form between you (“you,” “your,” and “yourself”) and AOL Inc. and its parents, successors, subsidiaries, affiliates, and family of brands (“AOL,” “we,” “us,” and “our”).
 
