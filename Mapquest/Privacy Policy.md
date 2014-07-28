@@ -8,9 +8,11 @@ AOL
 
 AOL Privacy Policy Highlights
 
-We aim to delight the world with valuable content and innovative products and services. You can find out about brands such as The Huffington Post, MapQuest, Engadget, and more.  
+We are committed to building, improving, and expanding some of the best brands online – or anywhere, for that matter. You can find out about our brands such as The Huffington Post, MapQuest, Engadget, AOL Advertising and more.  
   
-This notice provides highlights of the full privacy policy and covers the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
+**Effective September 15, 2014, the AOL** **Terms of Service and Privacy Policy will be updated**. We hope you'll read the full **Updated Privacy Policy**. Additional information about these updates may be found in our FAQs. Para leer este documento actualizará en español haz clic aquí.  
+  
+This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
 
 Personal Information
 
@@ -47,8 +49,10 @@ How to Contact Us **AOL Privacy**
 Dulles, VA 20166  
 privacyquestions@aol.com What's New
 
-*   Additional information related to our Mobile Practices.
-*   Clarification on practices related to Advertising, Analytics, and Privacy.
+*   The AOL Privacy Policy will be updated effective 9/15/2014
+*   More information about our use of Cookies, Web Beacons, and Other Technologies
+*   Updated information related to your Mobile Choices
+*   More information about Advertising, Analytics, and Privacy
 
 Print
 
