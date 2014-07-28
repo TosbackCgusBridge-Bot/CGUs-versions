@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12767983598
+true true C12632414734
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Sat Jul 26 05:58:29 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Sun Jul 27 03:28:23 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,43 +45,56 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Select original, regular, sale and clearance-priced items.
+Select original, regular and sale-priced items.
 
 Ends July 29.
 
 Online Code: BUYTODAY
 
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
 
 Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon shop bedding30-50% Off Home Sale
+\*See exclusions and details. print store coupon
 
-Affordable summer styles that make every room fit for a staycation.
+*   30-50% Off Home Sale
+    
+    Select items.
+    
+    shop the home sale40-50% Off Window shop window30-50% Off Bedding and Bath shop bedding and bath40-50% Off Furniture shop furniture30-50% Off Kitchen and Dining shop kitchen and dining shop curtains and drapesRed Zone Furniture Clearance 50-70% Off
+    
+    In Store and Online.
+    
+    shop furniture clearance
+*   30-50% Off Arizona Jean Co.
+    
+    Only at JCPenney.
+    
+    Select styles for the whole family.
+    
+    shop Arizona shop juniors' Arizona shop juniors' Arizona shop girls' Arizona shop girls' Arizona shop guys' Arizona shop guys' Arizona shop boys' Arizona shop boys' Arizona$15 Off\* $15
+    
+    Get a $15 off\* $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15, 2014, redeemable August 16 through September 1, 2014.
+    
+    \*See exclusions and details.
 
-shop the home sale view store ad Red Zone Furniture Clearance 50-70% Off
-
-In Store and Online.
-
-shop furniture clearance $19.99 Select Juniors' Arizona Denim shop juniors' Arizona #Love It For School Sale shop the sale $19.99 Select Guys' Arizona Denim shop guys' Arizona Converse Shoes
-
-Your favorite styles.
+20-50% Off Select Backpacks shop backpacks 40% Off Select Kids' Uniforms shop kids' uniforms Nike Athletic Shoes For The Family
 
 Excluded from coupon.
 
-shop Converse Doorbusters
+shop Nike 30% Off Select Bras When You Buy Two Or More shop bras $39.99 Men's Levi's 559™ Relaxed-Straight Jeans
 
-In Store Only. Friday, July 25, 3PM until close, Saturday, July 26, 10AM until 1PM.
+Regularly $58.
 
-view doorbusters store ad 40% Off Select Kids' Uniforms shop kids' uniforms 40-50% Off Select Kids' Arizona shop kids' Arizona 20-50% Off Select Backpacks shop backpacks $15 Off $15
+Excluded from coupon.
 
-July 15 through August 15.
+shop Levi's Jewelry Spectacular Sale
 
-Get a $15 off $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store.
+40-60% Off Select Fine Jewelry and Bijoux Bar
 
-get details Express Yourselfie
+shop fine jewelry and Bijoux Bar Express Yourselfie
 
 Why fit in when you can stand out? Create and share your emoji style.
 
@@ -91,15 +104,11 @@ get started JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitness Back To School
+sign up today A Fit For Every Workout shop fitnessBack To School
 
 The perfect fit lets you be you.
 
-shop back to schoolRed Zone Clearance Selections
-
-50-75% Off
-
-shop clearance
+shop back to schoolRed Zone Clearance Selections shop clearance
 
 get connected
 
