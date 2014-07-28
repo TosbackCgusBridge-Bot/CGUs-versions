@@ -148,7 +148,6 @@ Aéropostale Go
         *   Bags + Wallets
         *   Belts
         *   Sunglasses
-        *   Cologne
     
     *   ROOM
     
