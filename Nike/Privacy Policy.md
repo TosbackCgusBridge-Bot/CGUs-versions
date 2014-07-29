@@ -1,4 +1,4 @@
-Skip Navigation   Back GET HELP Nike Digital Privacy Policy  
+Skip Navigation   Back GET HELP Nike Privacy Policy  
 
 _Effective January 1, 2014_
 
