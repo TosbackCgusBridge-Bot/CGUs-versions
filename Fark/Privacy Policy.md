@@ -69,8 +69,6 @@
 > 
 > Large dark:
 > 
-> Historical logo (through 2011):
-> 
 > Fark consents to the above logos being slightly cropped or adjusted to fit a differently-sized standard on other sites, as long as the name "Fark" is still clearly legible. For legibility, the logo should be no less than 25 pixels in height.
 > 
 > Fark's Privacy Policy
