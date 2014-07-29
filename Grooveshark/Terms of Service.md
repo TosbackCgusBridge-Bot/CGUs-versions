@@ -34,7 +34,7 @@ You may not provide a false email address, impersonate any person or entity, or 
 
 You are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your account. You agree to immediately notify EMG of any unauthorized use of your account or any other breach of security. EMG cannot and will not be liable for any loss or damage arising from your failure to protect your account.
 
-If you choose to subscribe to the Grooveshark service, your payment to Grooveshark will automatically renew at the end of the subscription period until you cancel your recurring subscription by updating your account settings or emailing \[email protected\] The cancellation will take effect the day after the end of the current subscription period. You agree to pay all fees and charges associated with your subscription on a timely basis. All such fees and charges (including any applicable taxes or charge back fees) will be charged to the credit card or account you have provided. If you decide to use Bitcoin as your choice of payment, please be aware that Bitcoins are instantly converted to currency (USD) at the time of purchase, so any refunds will be in the same value of USD at the time of purchase but not necessarily the same number of Bitcoin (if the exchange rate has changed).
+If you choose to subscribe to the Grooveshark service, your payment to Grooveshark will automatically renew at the end of the subscription period until you cancel your recurring subscription by updating your account settings or emailing support@grooveshark.com. The cancellation will take effect the day after the end of the current subscription period. You agree to pay all fees and charges associated with your subscription on a timely basis. All such fees and charges (including any applicable taxes or charge back fees) will be charged to the credit card or account you have provided. If you decide to use Bitcoin as your choice of payment, please be aware that Bitcoins are instantly converted to currency (USD) at the time of purchase, so any refunds will be in the same value of USD at the time of purchase but not necessarily the same number of Bitcoin (if the exchange rate has changed).
 
 Use of the Service
 
@@ -106,7 +106,7 @@ EMG reserves the right to investigate and take appropriate legal action against 
 
 Royalties
 
-By submitting User Content to the Service, you understand that it will be available to anyone in the world for streaming, broadcasting and viewing, that User Content submitted may be used by EMG for promotional and/or commercial purposes and that EMG will not be liable for any royalties to you or any other rights-holder of the User Content. If you are interested in receiving royalties for the Streaming of your User Content on the Site, please email \[email protected\] for more information. You understand that User Content may remain on the Service indefinitely. however, if you want to remove User Content that you have uploaded, you may contact us at \[email protected\] and we will assist in its removal.
+By submitting User Content to the Service, you understand that it will be available to anyone in the world for streaming, broadcasting and viewing, that User Content submitted may be used by EMG for promotional and/or commercial purposes and that EMG will not be liable for any royalties to you or any other rights-holder of the User Content. If you are interested in receiving royalties for the Streaming of your User Content on the Site, please email licensing@grooveshark.com for more information. You understand that User Content may remain on the Service indefinitely. however, if you want to remove User Content that you have uploaded, you may contact us at support@grooveshark.com and we will assist in its removal.
 
 When applicable, as between the parties, you shall bear all responsibility for securing, administering and paying, on a timely basis: (i) all publishing rights and royalties (including without limitation, synchronization fees owed to publishers or other applicable entities that own or control the copyrights to musical compositions), (ii) all record royalties and license fees due to any artists, producers or other third-parties and all union, guild or other third party fees that may be required by contract or the Copyright Act by virtue of the use, copying and distribution of the User Content via the Service pursuant to this Agreement, and (iii) all publishing rights due to any songwriters, composers, authors, publishers or third-parties that may be required by contract or the Copyright Act by virtue of the use, copying and distribution of the User Content via the Service pursuant to this Agreement. Furthermore, you shall bear sole responsibility for securing, administering and paying, on a timely basis, all public performance royalties for the User Content you submit to the Service.
 
@@ -116,7 +116,7 @@ EMG respects the intellectual property of others, and we ask our Users to do the
 
 Should EMG discover or be informed that you continue to upload User Content for which you do not personally own the copyright or otherwise do not have the necessary authority from the copyright holder after EMG has made reasonable efforts to disable your ability to do so, you will be considered a repeat infringer, and EMG may terminate your account and delete all data associated with your account, remove all of the User Content you have uploaded/submitted to the Service and use reasonable efforts to prohibit you from signing up for another User account in the future.
 
-If at any time you believe that you do not have, or no longer have the rights necessary to authorize EMG to make available certain User Content, then you will notify EMG immediately by contacting \[email protected\]
+If at any time you believe that you do not have, or no longer have the rights necessary to authorize EMG to make available certain User Content, then you will notify EMG immediately by contacting dmca@grooveshark.com.
 
 DMCA Takedown Notifications
 
@@ -129,7 +129,7 @@ EMG Legal Department
 Gainesville, FL 32601  
 Phone: 352.283.8012  
 Fax: 727.231.8312  
-Email: \[email protected\]
+Email: legal@escapemg.com
 
 Please note that this procedure is solely for notifying EMG that you believe a User improperly uploaded your copyrighted material to the Service.
 
