@@ -17,7 +17,7 @@ Aéropostale Go
     
     *   Uniform Looks
     
-    *   Sweet Summer Looks
+    *   Outfit Guide
     
     *   Brands We Love
     
@@ -54,11 +54,11 @@ Aéropostale Go
     *   OUTERWEAR
     
     *   Footwear
+        *   Boots
         *   Flats
+        *   Sneakers
         *   Flip Flops
         *   Sandals
-        *   Sneakers
-        *   Boots
     
     *   Bras
     
@@ -95,7 +95,7 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     
-    *   Looks to Rock
+    *   Outfit Guide
     
     *   Brands We Love
     
