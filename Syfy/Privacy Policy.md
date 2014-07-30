@@ -263,9 +263,9 @@ Mega Shark vs. Mecha Shark Mega Shark vs. Mecha Shark
 
 Catch Mega Shark vs. Mecha Shark on June 26th at 9/8c.
 
-Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
+Exclusive: Guillermo del Toro Tour of Crimson ... Exclusive: Guillermo del Toro Tour of Crimson Peak at SDCC
 
-Clark Gregg (Agent Coulson) talks about the challenges with Marvel's first live action TV show and his love of Iron Fist.
+Guillermo del Toro gives us an exclusive tour of the Crimson Peak activation at Comic-Con which he designed himself.
 
 *   FAQ
 *   Feedback
