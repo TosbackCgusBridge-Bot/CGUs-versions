@@ -348,7 +348,7 @@ Program-Specific Membership Benefits &. Restrictions A Member that makes a Quali
 The Rewards Program offers two (2) tiers of Membership: Rewards and Rewards Gold.
 
 Rewards Rewards Gold Rewards Dollars Earned 3% of Net Amount 3% of Net Amount Shipping Fees for Qualifying Purchases: • Free for orders over $49  
-• $4.99 Flat Rate for orders $49 and under Free Three months from date on which Wayfair Rewards are issued from Eligible Purchase(s) Three months from date on which Rewards-Eligible Purchase is made Anytime during the Rewards Gold Membership Period\* Membership Fee None $20
+• $4.99 Flat Rate for orders $49 and under Free Three months from date on which Wayfair Rewards are issued from Eligible Purchase(s) Three months from date on which Rewards-Eligible Purchase is made Anytime during the Rewards Gold Membership Period\* Membership Fee None $10
 
 \*If Rewards Gold Membership is not renewed, then Rewards Dollars expire three months after the end of the Rewards Gold Membership Period.
 
