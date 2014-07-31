@@ -147,6 +147,7 @@ Aéropostale Go
         *   Watches
         *   Bags + Wallets
         *   Belts
+        *   Ties
         *   Sunglasses
     
     *   ROOM
