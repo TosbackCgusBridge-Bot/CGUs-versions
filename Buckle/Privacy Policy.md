@@ -1,6 +1,6 @@
-Want to win a Buckle gift card? Enter for your chance to win through Instagram.
+Military Guests, thank you for your service.
 
-How to enter.
+10% Military Discount
 
 Online Orders 800-522-8090
 
