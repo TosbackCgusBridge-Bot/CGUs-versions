@@ -49,10 +49,10 @@ How to Contact Us **AOL Privacy**
 Dulles, VA 20166  
 privacyquestions@aol.com What's New
 
-*   The AOL Privacy Policy will be updated effective 9/15/2014
-*   More information about our use of Cookies, Web Beacons, and Other Technologies
-*   Updated information related to your Mobile Choices
-*   More information about Advertising, Analytics, and Privacy
+*   The AOL Privacy Policy will be updated effective 9/15/2014.
+*   More information about our use of Cookies, Web Beacons, and Other Technologies.
+*   Updated information related to your Mobile Choices.
+*   More information about Advertising, Analytics, and Privacy.
 
 Print
 
