@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12637844803
+true true C12640680790
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue Jul 29 03:39:40 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola862 SERVER NAME :->. prod-c2-com-0602 TIME :->. Wed Jul 30 03:36:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,72 +43,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+Ends August 2.
+
+$ Code: SAVEMORE
+
+% Code: SAVETEN
+
+Online Only
+
+$30 Off\* $100 or more.
+
+$10 Off\* $50 or more.
+
 In Store and Online
 
-Select original, regular and sale-priced items.
-
-Ends July 29.
-
-Online Code: BUYTODAY
-
-Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
-
-Or, Extra 15% Off\* with any other method of payment.
+$10 Off\* $25 or more.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon
+\*See exclusions and details. print store coupon Our Biggest Sale Of The Season
 
-*   30-50% Off Home Sale
-    
-    Select items.
-    
-    shop the home sale40-50% Off Window shop window30-50% Off Bedding and Bath shop bedding and bath40-50% Off Furniture shop furniture30-50% Off Kitchen and Dining shop kitchen and dining shop curtains and drapesRed Zone Furniture Clearance 50-70% Off
-    
-    In Store and Online.
-    
-    shop furniture clearance
-*   30-50% Off Arizona Jean Co.
-    
-    Only at JCPenney.
-    
-    Select styles for the whole family.
-    
-    shop Arizona shop juniors' Arizona shop juniors' Arizona shop girls' Arizona shop girls' Arizona shop guys' Arizona shop guys' Arizona shop boys' Arizona shop boys' Arizona$15 Off\* $15
-    
-    Get a $15 off\* $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15, 2014, redeemable August 16 through September 1, 2014.
-    
-    \*See exclusions and details.
+Starts now. In Store and Online.
 
-20-50% Off Select Backpacks shop backpacks 40% Off Select Kids' Uniforms shop kids' uniforms Nike Athletic Shoes For The Family
+Shop in store late Friday, Saturday 9AM to close. Shop nonstop on jcp.com.
 
-Excluded from coupon.
+shop the sale Double Rewards Points
 
-shop Nike 30% Off Select Bras When You Buy Two Or More shop bras $39.99 Men's Levi's 559™ Relaxed-Straight Jeans
+Now through Saturday.
 
-Regularly $58.
+Not a member? Sign up. Back To School Big Buys
 
-Excluded from coupon.
+Now through Saturday. While they last.
 
-shop Levi's Jewelry Spectacular Sale
+30% Off Select Bras When You Buy Two Or More shop bras $6.99 Select Boys' Arizona Tees shop boys' Arizona tees 30-50% Off Select Bedding and Bath shop bedding and bath 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Women's Sleepwear shop women's sleepwear $7.99 Select Girls' Arizona Graphic Tees shop girls' Arizona tees 40-50% Off Select Window shop window 20-50% Off Select Watches shop watches $16.99-19.99 Select Men's Arizona or St. John's Bay Cargo Shorts shop men's shorts $19.99 Select Women's Sandals shop women's sandals 30-50% Off Select Kitchen and Dining shop kitchen and dining 40-50% Off Select Juniors' Arizona shop juniors' Arizona $17.99 Select Guys' Arizona Hoodies shop guys' Arizona hoodies $44.99 Select Men's Nike Athletic Shoes shop men's Nike 40-60% Off Select Luggage and Backpacks shop luggage and backpacks 40-50% Off Select Women's St. John's Bay shop women's St. John's Bay
 
-40-60% Off Select Fine Jewelry and Bijoux Bar
+Prices effective through August 2, 2014, unless otherwise noted. Items are subject to availability and may not be available in all JCPenney stores or at jcp.com.
 
-shop fine jewelry and Bijoux Bar Express Yourselfie
-
-Why fit in when you can stand out? Create and share your emoji style.
-
-Express yourself and find a fit that lets you be you. #ExpressYourselfie
-
-get started JCP Rewards
+Uniforms For One and All, Look Smart All Year Long shop school uniforms Dorm Life shop all dorm life JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitnessBack To School
+sign up today A Fit For Every Workout shop fitness Back To School
 
 The perfect fit lets you be you.
 
-shop back to schoolRed Zone Clearance Selections shop clearance
+shop back to school Red Zone Clearance Selections shop clearance
 
 get connected
 
