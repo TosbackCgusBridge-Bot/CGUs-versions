@@ -54,9 +54,6 @@ You agree that any material, information, and ideas that you transmit to this Si
 *   you are at least 13 years old. and
 *   use of the Transmission you supply does not violate these Terms of Use and will not cause injury to any person or entity.
 
-  
-  
-
 You further agree and warrant that you shall not submit any Transmission:
 
 *   that is known by you to be false, inaccurate or misleading.
@@ -66,9 +63,6 @@ You further agree and warrant that you shall not submit any Transmission:
 *   for which you were compensated or granted any consideration by any third party.
 *   that includes any information that references other websites, addresses, email addresses, contact information or phone numbers. or
 *   that contains any computer viruses, worms or other potentially damaging computer programs or files.
-
-  
-  
 
 For any Transmission, you grant Office Depot a perpetual, irrevocable, royalty-free, transferable right and license to use, copy, modify, display, perform, delete in its entirety, adapt, publish, translate, create derivative works from, sell and/or distribute such content, and/or incorporate such content into any form, medium or technology throughout the world without compensation to you.
 
@@ -86,9 +80,6 @@ If you believe any materials ("Materials") on the Site infringe your copyright o
 *   Your name, telephone number and e-mail address.
 *   A statement from you under penalty of perjury that the information supplied is accurate, and that you are authorized to act on the Owner's behalf.
 *   A signature or the electronic equivalent from the Owner or authorized representative.
-
-  
-  
 
 Office Depot's agent for notice of copyright or trademark issues on the Site can be reached as follows:
 
@@ -115,30 +106,40 @@ Office Depot may revise these terms of use by updating this posting. You agree t
 
 MOBILE TERMS OF USE
 
-Welcome to Office Depot's Mobile Alert Programs (the "Program"). Please review these Mobile Terms of Use which govern your use of any Office Depot Mobile Alert Program, including but not limited to one time text offers and ongoing subscriptions. BY ACCESSING, BROWSING, OR USING THE PROGRAM, YOU ACKNOWLEDGE THAT: (1) YOU ARE THE MOBILE PHONE ACCOUNT HOLDER OR HAVE THE ACCOUNT HOLDER'S PERMISSION TO SUBSCRIBE AND (2) YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS THEN PLEASE DO NOT USE THE PROGRAM. You are also subject to and agree to comply with Office Depot's General Terms of Use.
+Welcome to Office Depot Inc.'s Mobile Alert Program (the "Program"). These Mobile Terms of Use describe our Program and available codes. Please review these Mobile Terms of Use which govern your use of the Program, including but not limited to the ongoing alert program and one-time text offers. BY ACCESSING, BROWSING, OR USING THE PROGRAM, YOU ACKNOWLEDGE THAT: (1) YOU ARE THE MOBILE PHONE ACCOUNT HOLDER OR HAVE THE ACCOUNT HOLDER'S PERMISSION TO SUBSCRIBE AND (2) YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS THEN PLEASE DO NOT USE THE PROGRAM. You are also subject to and agree to comply with Office Depot's general Terms of Use.
 
 ONGOING ALERT PROGRAMS
 
-By subscribing to an Office Depot mobile alert program that is ongoing in nature by texting 'JOIN', 'OFFER', 'SMART', 'TAB' or another general keyword to Depot (33768), you consent to receiving, from time to time, text messages from Office Depot, up to a maximum of 5 per month. By subscribing to the Program, you may receive Office Depot alerts, polls, advertisements, coupons, promotions, and/or information regarding giveaways, sweepstakes, and contests.
+**Office Depot Offers**
 
-By subscribing to NASCAR Mobile Alerts by texting 'RACE' to Depot (33768), you consent to receive a maximum of 5 messages per month regarding NASCAR races and related offers and promotions from Office Depot.
+Text **OFFER** to 33768 to join Office Depot Offers. 5 msgs/mo. **Msg&Data Rates May Apply**.
 
 PROGRAM DETAILS AND RESTRICTIONS
 
-**To unsubscribe at any time, reply 'STOP' to any of our messages, text 'STOP' to Depot (33768), or contact us at MailOPTOut@officedepot.com. If you have any questions, reply 'HELP' to any of our messages, text 'HELP' to Depot (33768), or contact us at MailOPTOut@officedepot.com.**
+By subscribing to the Program by texting **OFFER**, or another general keyword, to 33768 (DEPOT), you consent to receiving text messages from Office Depot, Inc., 5 per month for Office Depot Offers or additional text messages, from time to time, as indicated in any one-time alert program. By subscribing to the Program, you may receive Office Depot, Inc. alerts, polls, advertisements, coupons, promotions, and/or information regarding giveaways, sweepstakes, and contests.
 
-You must be 18 years of age or older (or have permission from a parent or legal guardian) and have an SMS/text messaging-enabled cell phone to participate in the Program.
+If your device does not support MMS alerts then you will receive an SMS alert.
 
-**Message and data charges may apply.** All charges are billed by and payable to your mobile service provider. Office Depot does not charge for sending or receiving messages to Depot (33768). Office Depot is not liable for any delays in the receipt of any messages as delivery is subject to effective transmission from your network operator. Data obtained from you in connection with this SMS service may include your mobile phone number, your carrier's name, your opt-out status, and the date, time, and content of your messages. We may use this information to contact you and to provide you with the Program services. All data obtained is subject to our Privacy Policy.
+Texts may be sent using an automatic telephone dialing system. Consent to receive marketing text messages is not required as a condition of purchasing any goods or services.
 
-The Program is available on these U.S. carriers only: AT&T, Verizon, Sprint, T-Mobile, Nextel, Boost, US Cellular, and Alltel. You understand and acknowledge that you may not sign up for, access, or attempt to access or use the Program from countries outside the U.S. Office Depot controls and operates the Program from within the United States. Claims relating to, including the use of, the Program are governed by the laws of the United States and the State of Florida. If you do not agree, please do not use the Program.
+To unsubscribe at any time from the Program, reply **STOP** to any of our messages, text **STOP** to 33768, or contact us at mailoptout@officedepot.com to stop receiving Office Depot Offers messages from Office Depot, Inc. If you have any questions, reply **HELP** to any of our messages, text **HELP** to 33768, or contact us at mailoptout@officedepot.com or call 1-800-463-3768.
+
+**Message &. Data Rates May Apply.** All charges are billed by and payable to your mobile service provider. Office Depot, Inc. does not charge for sending or receiving messages to 33768. Office Depot, Inc. is not liable for any delays in the receipt of any messages as delivery is subject to effective transmission from your network operator. Data obtained from you in connection with this SMS service may include your mobile phone number, your carrier's name, your opt-out status, and the date, time, and content of your messages. We may use this information to contact you and to provide you with the Program services. All data obtained is subject to our Privacy Policy.
+
+The Program is available on these SMS supported carriers: AT&T, T-Mobile®, Verizon, Sprint, U.S. Cellular, Boost Mobile, Cricket, Virgin Mobile, Iowa Wireless, Metro PCS, ACS Wireless, West Central Cellular, Ntelos, Bluegrass, Plateau Wireless, AWCC, Cincinnati Bell, Cellular South, Carolina West Wireless, Immix Wireless/Keystone Wireless, Golden State Cellular, Cellcom, ECIT, GCI/Alaska Digitel, Inland Cellular, Illinois Valley, Nex-Tech, Chat Mobility, NW Missouri Cellular, NE Cellular One of PA, Element Wireless, MTPCS, Thumb Cellular, Viaero Wireless.
+
+The Program is available on these MMS Supported Carriers: AT&T, Cricket, T-Mobile®, Sprint, Verizon, U.S. Cellular.
 
 ABOUT OUR TEXT OFFERS
 
-Unless otherwise noted, the following terms and conditions apply. Unless otherwise noted, the prices and offers advertised through the Program are valid only at www.officedepot.com, by phone or fax, or in-store. To redeem in-store, show the Office Depot text message containing a coupon code ("cc") to the cashier at time of purchase. For phone or fax orders, use the 8-digit cc. To redeem online, visit www.officedepot.com/cart/addCoupon.do and enter the 8-digit cc. savings will appear at checkout. Cannot be combined with Store Purchasing or Procurement Cards. Cannot be used as an account payment. Coupon is good for one-time use only, is not transferable, is not for resale or auction and cannot be combined with other offers or promotions. We reserve the right to limit quantities sold to each customer. Limit 1 coupon per household/business. Void where prohibited.
+Unless otherwise noted, the following terms and conditions apply. Unless otherwise noted, the prices and offers advertised through the Program are valid only at www.officedepot.com, by phone or fax, or in-store. To redeem in-store, show the Office Depot, Inc. text message containing a coupon code ("cc") to the cashier at time of purchase. Coupons are valid on regularly priced items in stores. For phone or fax orders, use the 8-digit cc. To redeem online, visit www.officedepot.com/cart/addCoupon.do and enter the 8-digit cc. savings will appear at checkout. Coupons cannot be combined with Store Purchasing or Procurement Card and cannot be used as account payments. Coupons are good for one-time use only, are not transferable, are not for resale or auction and cannot be combined with other offers or promotions. We reserve the right to limit quantities sold to each customer. Limit 1 coupon per household/business. Void where prohibited.
 
-General offers for dollars off a purchase or a percentage off a purchase are **not valid for purchases:** 1) made in Office Depot outlet/clearance stores. 2) of Gift Cards. 3) of any technology or consumer electronic products and accessories or media and software products. 4) of performance protection plans. 5) of postage or mailing/shipping services. 6) of HP ink or toner. or 7) of Tech Depot Services or third party services.
+General offers for dollars off a purchase or a percentage off a purchase are not valid for purchases: 1) made in Office Depot convenience/clearance/closing stores. 2) of gift or prepaid cards. 3) of any technology or consumer electronic products and accessories or media and software products. 4) of performance protection plans and essentials kits. 5) of postage or mailing/shipping services. 6) of HP ink or toner. 7) of Epson ink. 8) of cardfolio® business cards. 9) of Tech Depot Services or third party services. or 10) premiums or free gifts with purchase.
 
 MOBILE TERMS OF USE REVISIONS
 
-Office Depot may revise these Mobile Terms of Use by updating this posting. You agree that in the event any portion of the Mobile Terms of Use is found to be unenforceable, the remainder of the Mobile Terms of Use shall remain in full force and effect. By using the Program you agree to be bound by any such revisions and should therefore periodically visit this page to determine the current Mobile Terms of Use to which you are bound.
+Office Depot, Inc. may revise these Mobile Terms of Use by updating this posting. You agree that in the event any portion of the Mobile Terms of Use is found to be unenforceable, the remainder of the Mobile Terms of Use shall remain in full force and effect. By using the Program you agree to be bound by any such revisions and should therefore periodically visit this page to determine the current Mobile Terms of Use to which you are bound.
+
+Privacy Policy2>.
+
+Office Depot, Inc. respects your right to privacy. You can view our privacy policy here.
