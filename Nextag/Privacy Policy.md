@@ -1,14 +1,8 @@
- 
+  Search for:
 
-*   Products
-
-*   null
 *   Log In
 *   Sign up
-*   Logout
 *   Help
-
-Search for:
 
 **Nextag, Inc. - Website Privacy Statement/Your California Privacy Rights** Effective September 10, 2010  
 
