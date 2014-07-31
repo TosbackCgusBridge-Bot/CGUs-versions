@@ -46,7 +46,6 @@ SurveyMonkey®
 *   General Policies
     *   Anti-Spam Policy
     *   Subscription Cancellation Policy (Europe only)
-    *   Survey Reward Policy
 *   Information
     *   Security Statement
 *   Requests &. Forms
