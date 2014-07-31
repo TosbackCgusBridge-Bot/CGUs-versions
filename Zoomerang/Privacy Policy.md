@@ -26,19 +26,19 @@ OUR MISSION IS TO CHANGE THE WAY DATA IS USED TO GENERATE INSIGHTS THAT IMPACT M
 
 Product Innovation
 
-Innovation and Shopper Research for sustainable business growth.
+Insights for Market Exploration, Product Development and Sales Activation
 
 Product Innovation
 
 Brand Engagement
 
-Analysis that links brand relationships to effective communication strategies.
+Insights for Brand Performance, Creative Development, Media Effectiveness
 
 Brand Engagement
 
 Customer Value
 
-Insights to drive excellent experiences, positive recommendations and ease of engagement.
+Insights for Customer Acquisition, Experience, Value Management and Retention
 
 Customer Value
 
