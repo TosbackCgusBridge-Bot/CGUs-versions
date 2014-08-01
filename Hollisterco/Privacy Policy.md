@@ -1,15 +1,15 @@
 Hollister Co. US  
-PRIVACY POLICY
+Privacy Policy
 
 Updated: April 2014
 
-AD COOKIE POLICY How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
+Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
 We contract with third party advertising companies to serve you online display and banner advertisements on other websites.  To serve this advertising, these third parties may place, use or rely on technology, such as cookies and/or Pixel Tags (which are described below in the privacy policy), to collect information about your interactions with our Websites and Apps (both defined below in the privacy policy) and interactions with other websites. These advertising companies may use and share the information gathered to deliver our ads more tailored to your interests on other websites that are a part of their online advertising networks and/or search engines.  We receive aggregate information from these third parties to gauge our advertising effectiveness.
 
 For information about opt out programs these third party advertising companies participate in and the effect of opting out, click on the following: http://www.aboutads.info/choices/ (you will leave this Website for a centrally managed online site where you can specify your preference under those programs).  You can also click on the icon that may appear on some of our advertising served through these technologies.  We may use more than one third party company for placing this advertising, which would require you to opt out of each company.
 
-PRIVACY POLICY
+Privacy Policy
 
 In order to make your visits to the various channels of Hollister Co. as responsive as possible, we collect information when you visit us online. To help ensure an enjoyable online experience, we provide this summary of what information we collect online, and how that information is used. One section of this privacy policy also addresses what happens with information we collect on Hollister Co. pages on social media sites, such as Facebook, Twitter, et al. ("Social Media Pages").
 
