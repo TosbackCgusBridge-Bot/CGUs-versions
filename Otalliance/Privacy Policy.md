@@ -17,6 +17,7 @@ Enter your keywords  
     *   Data Privacy Day
     *   Identity Theft
     *   Online Trust Audit &. Honor Roll
+    *   Email Integrity Audit
     *   Privacy
     *   Public Policy
     *   Security
@@ -94,7 +95,7 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Jul 30, 2014 Consumer Privacy: How to Avoid or Prevail in Class Action Litigation This month Arnall Golden Gregory LLP will cover recent trends in class action litigation related to the Fair Credit Reporting Act (FCRA), Telephone Consumer Protection Act (TCPA) and data breaches. The panelists will discuss how class action lawsuits evolve and what drives them. In addition, they will discuss litigation avoidance strategies and potential defenses in certain types of cases. Thu, Aug 7, 2014 The Business Shock of A Data Breach Incident – Who are you going to call? Join the Online Trust Alliance (OTA) and USTelecom for this timely webinar. Craig Spiezle will walk through the elements of an effective (and defendable), response plan from training first responders to developing external communications and working with law enforcement. While there is no perfect security, there is no excuse for not having an up-to-date response plan Wed, Aug 13, 2014 Email Integrity Audit registration info coming soon Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology
+Thu, Aug 7, 2014 The Business Shock of A Data Breach Incident – Who are you going to call? Join the Online Trust Alliance (OTA) and USTelecom for this timely webinar. Craig Spiezle will walk through the elements of an effective (and defendable), response plan from training first responders to developing external communications and working with law enforcement. While there is no perfect security, there is no excuse for not having an up-to-date response plan Wed, Aug 13, 2014 Email Integrity Audit Join OTA for a review of the recently released Email Integrity Audit, which is a companion to the 2014 Online Trust Audit and Honor Roll report released in June 2014. This Audit provides an in depth review of email security best practices, focusing on the best practices necessary to help detect and to block spoofed and forged email. This Audit tracks the adoption of three critical email authentication standards. Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM) and Domain-based Message Authentication, Reporting &. Conformance (DMARC). Attend to learn best practices and how implementing email authentication, organizations can help protect their brands and consumers from receiving spoofed and forged email. Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology Wed, Oct 1, 2014 National Cyber Security Awareness Month National Cyber Security Awareness Month (NCSAM) – celebrated every October - was created as a collaborative effort between government and industry to ensure every American has the resources they need to stay safer and more secure online. Join OTA in support of NCSAM. Coming Soon OTA sponsored events!
 
 *   OTA Blog
 *   Newsletters
@@ -130,6 +131,7 @@ Initiatives
 *   Data Privacy Day
 *   Identity Theft
 *   Online Trust Audit &. Honor Roll
+*   Email Integrity Audit
 *   Privacy
 *   Public Policy
 *   Security
