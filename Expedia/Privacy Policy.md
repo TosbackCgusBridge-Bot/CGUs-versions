@@ -39,7 +39,7 @@ With whom we share your information
 
 This website may share your information with the following entities:
 
-*   Suppliers, such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made on Expedia.com, and we restrict their use of this information to that purpose. We do not place limitations on our suppliers' use or disclosure of your other personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this site. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit.
+*   Suppliers, such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. By making a reservation through this site, you are authorizing us to disclose to suppliers the information required to complete the booking and deliver the related travel. These suppliers are not controlled by Expedia and personal information disclosed to them is subject to the applicable supplier's privacy policy and security practices. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this site.
 
 *   Third-party vendors who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. They are also required to follow the same data security practices that we ourselves adhere to.
 
@@ -151,4 +151,4 @@ How you can contact us
 
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us using our customer service and feedback form.
 
-This Privacy Policy is effective as of January 1, 2014.
+This Privacy Policy is effective as of August 1, 2014.
