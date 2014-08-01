@@ -158,7 +158,7 @@ Lenovo United States Select a country/region
     *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
         Sat: 9am - 5:30pm (EST)  
-        Sun: Closed  
+        Sun: 9am - 6pm (EST)  
           
         **Customer Service** 1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
@@ -345,6 +345,7 @@ Lenovo United States Select a country/region
         *   Asset Recovery Services
         *   Financial Services
     
+     
 *   Deals
     *   Current Offers
         *   Back to School Sale
