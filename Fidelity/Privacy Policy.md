@@ -293,6 +293,7 @@ Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP co
 
 *   Facebook
 *   Twitter
+*   LinkedIn
 *   YouTube
 *   Fidelity Mobile®
 
