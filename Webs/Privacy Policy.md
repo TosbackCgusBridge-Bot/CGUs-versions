@@ -4,7 +4,7 @@ Webs
 *   Themes
 *   Features
 *   Why Webs
-*   Plans
+*   Pricing
 *   Blog
 
 *   France
