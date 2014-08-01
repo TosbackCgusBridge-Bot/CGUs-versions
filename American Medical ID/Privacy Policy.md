@@ -6,7 +6,7 @@ American Medical ID has been awarded TRUSTe's Privacy Seal signifying that this 
 
 If you have questions or concerns regarding this statement, you should first contact American Medical ID at PrivacyOfficer@IdentifyYourself.com. If you are not satisfied with our response you can contact TRUSTe here.
 
-This Privacy Policy covers www.AmericanMedical-ID.com.  A separate privacy policy covering American Medical ID's Interactive Health Record is at http://www.myihr.com/home\_omr/privacypolicy.php. The personal health information that is stored in the Registry is solely for the use of those who place their health records in a personal file there. Any use of personal information described below does not apply to the Interactive Health Record.
+This Privacy Policy covers www.AmericanMedical-ID.com - owned and operated by American Medical ID. This privacy policy describes how American Medical ID collects and uses the personal information you provide on our web site: www.AmericanMedical-ID.com. A separate privacy policy covering American Medical ID's Interactive Health Record is at http://www.myihr.com/home\_omr/privacypolicy.php. The personal health information that is stored in the Registry is solely for the use of those who place their health records in a personal file there. Any use of personal information described below does not apply to the Interactive Health Record.
 
 What is personally identifiable information (PII)?  
 What is aggregate information?  
@@ -74,13 +74,23 @@ Cookies also track orders and shipping within our system. This allows us to be m
 
 Your browser lets you erase or even block cookies if you don't want them on your computer. (Check the instructions in your browser's help menu for how to do this.) However, our website requires use of cookies if you want to order from us. If you block cookies, you will be able to see most parts of our website, but you will not be able to place an order online.
 
-We have no outside advertisers on our website. (On other websites, outside advertisers may use cookies to gather and sell or share personal information about the site's visitors. Our site does not allow this.)
-
 We use third party cookies of our partners, affiliates, tracking utility companies, and service providers to trace how visitors arrive at our website. This practice helps us improve access to our web pages. These tracking devices also record use of promotions and discounts offered for our products through other websites. In addition, we track how web visitors use our site in order to learn what works and what doesn't in our ordering and purchasing processes. In no case do we gather personally identifiable information via tracking devices. We do not have access or control over these cookies.
 
 Our third party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a users computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers personally identifiable information.
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+Technologies such as: scripts are used by American Medical ID and our partners \[Google Analytics, Google AdWords\], affiliates, or analytics or service providers \[online customer support provider, Live Chat\]. These technologies are used in analyzing trends, administering the site, tracking users movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+Log Files - As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+
+We use local storage objects (LSs) such as HTML5 to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSs. To manage Flash LSOs please Click Here.
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by Clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+Google AdSense/Adwords) We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Googles Advertising and Privacy page: http://www.google.com/privacy\_ads.html
 
 Back to top
 
@@ -106,7 +116,7 @@ If you order an ID that will be worn by someone else, we retain any information 
 
 We will retain your information for as long as your account is active or as needed to provide you services. After your order has been completed, American Medical ID must store your personally identifiable information (PII) in order to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at PrivacyOfficer@IdentifyYourself.com. Any further use of your PII is the subject of the statements below. Any further use of your PII is the subject of the statements below.
 
-We do not sell or share the personally identifiable information (PII). All the information we collect from customers remains within our hands.
+We do not sell or share the personally identifiable information (PII)in the ways that are described in this Privacy Policy. All the information we collect from customers remains within our hands.
 
 We don't supplement the PII we have about our customers with information from any third-party source.
 
@@ -123,6 +133,12 @@ To those who want to hear from us, we use the names and addresses of our custome
 Our system for handling mail and email requires that you receive an initial mailing from American Medical ID. This is a condition of buying our products. This mail will be the next scheduled newsletter or promotional notice we send out. Should you not want to continue receiving our mailings, every mail or email we send contains the mechanism for unsubscribing from our mailing list. In the case of email, you will merely click on an "unsubscribe" button contained in every American Medical ID mailing. Postal mail will display an address for an unsubscribe request (American Medical ID, 949 Wakefield, Suite100, Houston, TX 77018). You may also send email to PrivacyOfficer@IdentifyYourself.com for help in unsubscribing. If you prefer to unsubscribe by phone you can do so by contacting us at 1.800.363.5985.
 
 Even if you do initially choose to receive our mailings, you will have the opportunity to opt out of all further communications whenever you like. The means we provide for unsubscribing or opting out will take a minimum of time and effort on your part, as described above. Whatever method you use will remove you from our mail and email lists simultaneously, and from any other use of your personally identifiable information. Your request to stop receiving materials from us will be effective within 10 days after we receive the request.
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at PrivacyOfficer@IdentifyYourself.com.
+
+If you choose to use our gift card service to give a friend a gift card, we will ask you for your friends name and email address. American Medical ID stores this information for the sole purpose of the girt card.
+
+Your friend may contact us at PrivacyOfficer@IdentifyYourself.com to request that we remove this information from our database.
 
 Back to top
 
@@ -178,4 +194,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 American Medical ID, 949 Wakefield, Suite 100, Houston, Texas 77018 (800.363.5985)
 
-Last updated 24 August 2012
+Last updated 31 July 2014
