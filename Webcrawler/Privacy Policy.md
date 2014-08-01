@@ -4,7 +4,7 @@
 *   |
 *   Images
 *   |
-*   Videos
+*   Video
 *   |
 *   News
 
