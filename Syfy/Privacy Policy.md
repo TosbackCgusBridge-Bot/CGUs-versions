@@ -255,13 +255,13 @@ Syfy Video Syfy - Imagine Greater Syfy - Imagine Greater
 
 Take a glimpse at Syfy's greatest moments with current shows and shows yet to come. Syfy Imagine Greater
 
-Ascension - First Look Tease Ascension - First Look Tease
+Z Nation: Coming in September Z Nation: Coming in September
 
-See the first look tease at Ascension coming on November 24.
+Zombies have taken over America! Get a look at Syfys new zombie series coming in September.
 
-Mega Shark vs. Mecha Shark Mega Shark vs. Mecha Shark
+Wizard Wars: Coming August 18 at 10/9c Wizard Wars: Coming August 18 at 10/9c
 
-Catch Mega Shark vs. Mecha Shark on June 26th at 9/8c.
+Magicians do battle! Penn and Teller host Syfys new competition series premiering August 18 at 10/9c.
 
 Exclusive: Guillermo del Toro Tour of Crimson ... Exclusive: Guillermo del Toro Tour of Crimson Peak at SDCC
 
