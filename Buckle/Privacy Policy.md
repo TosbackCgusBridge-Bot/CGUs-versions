@@ -1,6 +1,6 @@
-Military Guests, thank you for your service.
+24-HOUR ACCESSORY BLOWOUT, 10 for $12: Thurs 10am - Fri 10am
 
-10% Military Discount
+SHOP THIS SALE
 
 Online Orders 800-522-8090
 
