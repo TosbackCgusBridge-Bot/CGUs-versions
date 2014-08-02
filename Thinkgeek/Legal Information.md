@@ -14,6 +14,10 @@ Copyright
 
 All content included on this site, such as text, graphics, logos, button icons, images, videos, etc, is the property of ThinkGeek or its content suppliers and protected by United States and international copyright laws. You may use product images for non-commercial purposes without restriction/consent, but if you wish to sell our products, then please become an affiliate or contact us for express written permission.
 
+Purchase Order Terms
+
+Please read our complete Purchase Order Terms &. Conditions for more information.
+
 California Supply Chain Transparency Law
 
 On January 1, 2012, the California Transparency in Supply Chains Act of 2010 (SB 657) (Act) went into effect in the State of California. The Act seeks the elimination of slavery and human trafficking from product supply chains and requires that companies disclose their efforts to ensure that their supply chains are free from slavery and human trafficking.
