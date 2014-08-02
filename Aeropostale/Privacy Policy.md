@@ -49,14 +49,16 @@ Aéropostale Go
         *   Pants
         *   Capris
         *   Shorts
-        *   Dresses + Skirts
+        *   Skirts
+    
+    *   Dresses
     
     *   OUTERWEAR
     
     *   Footwear
         *   Boots
-        *   Flats
         *   Sneakers
+        *   Flats
         *   Flip Flops
         *   Sandals
     
