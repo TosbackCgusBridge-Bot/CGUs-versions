@@ -25,8 +25,6 @@ CPO Overview
 
 Vehicle Library
 
-Financial Services Explore financing and apply for credit Accessories Genuine accessories and F Sport™ accessories Special Offers Find special financing offers in your area Sign Up Receive exclusive news and more
-
 *   ALL VEHICLES
     
 *   Find a dealer
@@ -52,32 +50,34 @@ Financial Services Explore financing and apply for credit Accessories Genuine ac
 *   Build Your Lexus
 *   Find a Dealer
 
+Financial Services Explore financing and apply for credit Accessories Genuine accessories and F Sport™ accessories Special Offers Find special financing offers in your area Sign Up Receive exclusive news and more
+
 IS
 
-Starting at $36,100\*
+Starting at $36,550\*
 
-*   • 19/27 City/Hwy MPG
+*   • 19/27 City/Hwy MPG\*
 *   • RWD or AWD
 
 ES
 
 Starting at $36,620\*
 
-*   • 21/31 City/Hwy MPG
+*   • 21/31 City/Hwy MPG\*
 *   • FWD
 
 GS
 
 Starting at $47,700\*
 
-*   • 19/29 City/Hwy MPG
+*   • 19/29 City/Hwy MPG\*
 *   • RWD or AWD
 
 LS
 
 Starting at $72,140\*
 
-*   • 16/24 City/Hwy MPG
+*   • 16/24 City/Hwy MPG\*
 *   • RWD or AWD
 
 RX
@@ -92,7 +92,7 @@ GX
 Starting at $49,085\*
 
 *   • 4.6-liter V8
-*   • FULL-TIME 4WD
+*   • Full-Time 4WD
 
 LX
 
@@ -105,59 +105,57 @@ IS C
 
 Starting at $42,860\*
 
-*   • 19/27 City/Hwy MPG
+*   • 19/27 City/Hwy MPG\*
 *   • RWD
 
 CT HYBRID
 
 Starting at $32,050\*
 
-*   • 43/40 City/Hwy MPG
+*   • 43/40 City/Hwy MPG\*
 *   • FWD
 
 RX HYBRID
 
 Starting at $47,445\*
 
-*   • 32/28 City/Hwy MPG
+*   • 32/28 City/Hwy MPG\*
 *   • FWD or AWD
 
 ES HYBRID
 
 Starting at $39,500\*
 
-*   • 40/39 City/Hwy MPG
+*   • 40/39 City/Hwy MPG\*
 *   • FWD
 
 GS HYBRID
 
 Starting at $60,430\*
 
-*   • 29/34 City/Hwy MPG
+*   • 29/34 City/Hwy MPG\*
 *   • RWD
 
 LS HYBRID
 
 Starting at $120,060\*
 
-*   • 19/23 City/Hwy MPG
+*   • 19/23 City/Hwy MPG\*
 *   • AWD
 
-ISF
+IS F
 
 Starting at $63,600\*
 
-*   • 416 hp
+*   • 416 hp\*
 *   • RWD
 
 LFA
 
-Originally $375,000\*
-
 *   • All 500 units sold
-*   • 552 hp
+*   • 552 hp\*
 
-F/F Sport
+F/F SPORT
 
 *   • F Vehicles
 *   • F SPORT Vehicles
