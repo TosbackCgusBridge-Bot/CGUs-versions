@@ -2,28 +2,43 @@ Terms of Service/Policies
 
 The links below provide you access to Charter's policies &. agreements.
 
+**For customers living in Colorado, Wyoming, Utah or Montana, the terms and conditions of service located here apply to your service subscription to Charter's Cable, Internet, and Voice Services.**
+
+*   Residential Service Terms and Conditions
+    *   Internet Terms and Conditions
+    *   Internet Acceptable Use Policy
+    *   Video Terms and Conditions
+    *   Voice Terms and Conditions
+    *   Voice Price Guide
+*   Commercial Service Terms and Conditions
+    *   Terms and Conditions of Service
+    *   Internet Acceptable Use Policy
 *   Website Use Terms and Conditions
-*   Commercial Acceptable Use Policy
-*   Commercial Terms of Service
 *   Purchase Order Terms and Conditions for Goods and/or Services
-*   Electronic Bill Payment Terms and Conditions
-*   Residential HSI Acceptable Use Policy
-*   Residential HSI Customer Agreement
 *   Residential 30-Day Guarantee
-*   Charter Telephone Tariff Information (includes Customer Terms and Conditions)
-*   Charter Unlimited Calling to Mexico Plan Acceptable Usage Policy (AUP)
+*   Charter Telephone Tariffs (includes Customer Terms and Conditions)
 *   Procedure for Submitting a Notice of Claimed Copyright Infringement
 *   Residential Price Guarantee Terms and Conditions
 *   Complaint Procedures for Michigan
-*   Important Information about Charter Telephone 911 Services &. Battery Back-up
-*   Residential Terms and Conditions for Video Services
 *   Network Management Practices
-*   Connecticut 2013 Annual Notice (PDF)
-*   Michigan 2013 Annual Notice (PDF)
-*   New York 2013 Annual Notice (PDF)
-*   Vermont 2013 Annual Notice (PDF)
-*   2013 Annual Notice (PDF)
-*   Espanol 2013 Annual Notice (PDF)
+*   Annual Notices
+    *   Connecticut 2013 Annual Notice (PDF)
+    *   Michigan 2013 Annual Notice (PDF)
+    *   New York 2013 Annual Notice (PDF)
+    *   Vermont 2013 Annual Notice (PDF)
+    *   2013 Annual Notice (PDF)
+    *   Espanol 2013 Annual Notice (PDF)
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
-*   "Power Your Biz Sweepstakes" Official Rules
+
+New Terms and Conditions of Service (Effective 10/01/14)
+
+Charter’s Residential Terms and Conditions of Video, Internet, and Voice Services have changed. The new Residential Terms and Conditions of Service listed below shall be effective for all Charter customers on 10/01/14:
+
+*   Residential Services Terms and Conditions
+    *   Residential General Terms and Conditions for Service
+    *   Residential Internet Terms and Conditions
+    *   Residential Acceptable Use Policy
+    *   Residential Voice Terms and Conditions
+    *   Residential Video Terms and Conditions
+    *   Residential Services Phone Price Guide
