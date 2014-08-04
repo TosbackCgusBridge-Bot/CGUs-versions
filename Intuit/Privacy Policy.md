@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Keisha
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true C12650786482
+true true 203.17.194.255 C12654796036
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola722 SERVER NAME :->. prod-c2-com-72201 TIME :->. Sat Aug 02 04:19:26 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. cola834 SERVER NAME :->. prod-c1-com-83402 TIME :->. Sun Aug 03 04:13:23 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,57 +43,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends August 2.
-
-$ Use Code: SAVEMORE
-
-% Use Code: SAVETEN
-
-Online Only
-
-$30 Off\* $100 or more.
-
-$10 Off\* $50 or more.
-
 In Store and Online
 
-$10 Off\* $25 or more.
+Select original, regular, sale and clearance-priced items.
+
+Ends August 5.
+
+Online Code: FUNCLASS
+
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Night and Day Doorbusters
+\*See exclusions and details. print store coupon 40% Off Select Izod Uniforms shop IzodLove Your School Sale
 
-Excluded from store offer.
+Fits that rule the school, prices that pass the test.
 
-In Store Only, Friday, 3PM until close, Saturday, 10AM until 1PM.
+shop the sale view store ad40-50% Off Select Arizona shop juniors' Arizona shop Arizona shop guys' Arizona shop kids' ArizonaDorm Life shop all dorm life20-50% Off Select Backpacks shop backpacks30-50% Off Select Bedding shop bedding30-50% Off Home Sale
 
-view doorbusters store adOur Biggest Sale Of The Season
+Select items.
 
-In Store and Online.
+shop the home sale40-50% Off Select Window shop window Jewelry Spectacular Sale
 
-Shop in store late Friday, Saturday 9AM to close. Shop nonstop on jcp.com.
+40-60% Off\* Select Fine Jewelry and Bijoux Bar.
 
-shop the saleDouble Rewards Points
+shop fine jewelry and Bijoux Bar 30% Off Select Bras When You Buy 2 Or More shop bras Nike Athletic Shoes For The Family
 
-Now through Saturday.
+Excluded from coupon.
 
-Not a member? Sign up. view store adBack To School Big Buys
-
-Now through Saturday. While they last.
-
-view big buys 30% Off Select Bras When You Buy Two Or More shop bras$6.99 Select Boys' Arizona Tees shop boys' Arizona tees30-50% Off Select Bedding and Bath shop bedding and bath40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar40-50% Off Select Women's Sleepwear shop women's sleepwear$7.99 Select Girls' Arizona Graphic Tees shop girls' Arizona tees40-50% Off Select Window shop window20-50% Off Select Watches shop watches$14.99-19.99 Select Men's Arizona or St. John's Bay Cargo Shorts shop men's shorts$19.99 Select Women's Sandals shop women's sandals30-50% Off Select Kitchen and Dining shop kitchen and dining40-50% Off Select Juniors' Arizona shop juniors' Arizona$17.99 Select Guys' Arizona Hoodies shop guys' Arizona hoodies$44.99 Select Men's Nike Athletic Shoes shop men's Nike40-60% Off Select Luggage and Backpacks shop luggage and backpacks40-50% Off Select Women's St. John's Bay shop women's St. John's Bay
-
-Prices effective through August 2, 2014, unless otherwise noted. Items are subject to availability and may not be available in all JCPenney stores or at jcp.com.
-
-JCP Rewards
+shop Nike JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitness Back To School
+sign up today Back To School
 
 The perfect fit lets you be you.
 
-shop back to schoolRed Zone Clearance Selections shop clearance
+shop back to schoolBra Fit Event
+
+More sizes, more styles, more you.
+
+find a bra fit event near youRed Zone Clearance Selections shop clearance
 
 get connected
 
