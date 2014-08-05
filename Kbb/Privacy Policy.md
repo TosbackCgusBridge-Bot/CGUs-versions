@@ -1,6 +1,6 @@
 KBB Privacy Statement
 
-This statement is effective as of 5/6/2014. Please see previous version here.
+This statement is effective as of 5/6/2014.
 
 Introduction
 
