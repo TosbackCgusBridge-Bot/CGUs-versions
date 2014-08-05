@@ -154,6 +154,8 @@ Welcome to Agame.com, your zone to play free online games. Stocked each day with
   
 Did you know that: you can rate every game you play, you can share your favorite game with your friends on Facebook,Myspace,Twitter and more, you can embed a game in your own website or blog, and lots of our games are homemade in our own gamestudio? Eager to play yet?
 
+Switch to Mobile View
+
 Copyright © 2014 SPIL GAMES B.V. All rights reserved.
 
 *   Terms of Use
