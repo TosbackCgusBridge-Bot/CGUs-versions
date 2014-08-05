@@ -182,6 +182,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Architect
     *   Sencha Animator
     *   Sencha Space
+    *   Sencha Complete
 
 *   Services
     *   Find a Partner
