@@ -1,5 +1,24 @@
 General Information
 
+Contents
+
+*   Privacy Policy
+*   Terms Of Use
+*   Wayfair's Copyright Policy
+*   Wayfair Rewards Program Terms
+*   Wayfair Giveaway Sweepstakes Official Rules
+*   Wayfair Gift Card Terms and Conditions
+*   Becoming a Supplier
+*   Becoming An Advertiser with GetItNearMe™
+*   Send Us Your Suggestions
+*   Contact Us
+*   How Will My Order Ship?
+*   When Will My Order Arrive?
+*   Tracking Packages
+*   Free Shipping?
+*   Shipping To Multiple Addresses
+*   International Shipping
+
 Privacy Policy
 
 This Privacy Policy ("Privacy Policy") is designed to help you understand how Wayfair LLC and its affiliated brands, including Wayfair.com, Joss &. Main, DwellStudio, AllModern, Birch Lane and Wayfair Supply ( "Wayfair", "we" or "us" ) collects and processes the information that you share when you use this and any of our websites (together, the "Site") and our mobile application (the "App," and together with the Site, the "Service").
@@ -510,5 +529,150 @@ Boston, MA 02116
 For media inquiries:
 
 If you are a member of the media and have questions about the company or would like to feature us in your publication, please email us at PR@Wayfair.com and we will respond to your request immediately.
+
+Shipping Information
+
+How Will My Order Ship?
+
+We will ship your order using the fastest, safest, and most reliable method possible. Therefore, we have established strong relationships with some of the best delivery companies nationwide. Every product on our site has been carefully selected to ship by a particular shipping method in order to provide you with an optimal delivery experience. When your order ships, we will notify you via email. Included in your email will be a tracking number for your shipment. We encourage you to track your package online or on the phone with the carrier. Most companies can provide an estimated delivery date. Be sure to contact us if anything seems unusual with the progress of the shipment. You can also track your packages via My Account. To learn how, please see " Tracking Packages." Please note we cannot ship to P.O. Boxes or Military APOs.
+
+We have three methods of shipment available: Small Parcel, Self Service Truck Delivery, and White Glove.
+
+**Small Parcel** - We will ship smaller, lighter items via UPS, FEDEX, DHL or USPS. (Items going to Canada will typically be delivered by Purolator.) Depending on how close you are to the shipping warehouse, your item will arrive between 1 and 6 business days (1 to 10 business days for USPS) after it leaves the warehouse.
+
+We do not require an adult signature for deliveries, but please note that the decision to leave your package without a signature is at the discretion of the delivery person. If you want an item left at your doorstep, the best thing to do is leave a note on your door asking the driver to leave your package with "No Signature Required." Be sure to include your name and tracking number on the note.
+
+**Self Service Truck Delivery** - A freight carrier delivers this item. We call this delivery 'Self Service' because you'll need to move the package into your residence yourself. Keep in mind that products that ship this method are either too large or heavy to ship with a small parcel carrier like UPS or FedEx, so you may require the assistance of a friend or family member at delivery.  
+  
+All of our Self Service Delivery providers do require a 2 to 4 hour window for delivery, which will be communicated either by phone or email. Most truck delivery companies offer appointment windows between 8:00 A.M. and 5:00 P.M., Monday through Friday
+
+**Liftgate Services** - For $50, our delivery service partners will use a machine called a liftgate to bring the items to the ground for you. This $50 fee will include all the items in your cart.
+
+**Delivery Notes**  
+
+*   Once your order arrives in the area, a representative from the shipping company will call you to arrange a 2- to 4-hour window for delivery.
+*   Sometimes freight carriers offer their own additional services. Once we send you your tracking info, you can call the carrier directly to get more info.
+*   Damage Inspection: Please make sure that you inspect the packages at the time of delivery. If the box has any damage, or if there is any reason you are concerned with its packaging or delivery, please write, "Product Damaged" clearly on the sheet the delivery agent asks you to sign. This simply insures that if there is any damage, it will be easy to take care of the problem
+
+**White Glove Freight** - Many large or fragile items will be delivered by a white glove freight carrier to ensure the safest and most convenient delivery. White glove works similarly to truck freight, but a delivery team of at least two people brings your items into your home for you. Please note:  
+  
+
+*   Once your order arrives in your area, a representative from the white glove carrier will call you to arrange a 4 hour window for delivery.
+*   Damage Inspection: Please make sure that you inspect the packages at the time of delivery. If the box has any damage, or if there is any reason you are concerned with its packaging or delivery, please write, "Product Damaged" clearly on the sheet the delivery agent asks you to sign. This simply insures that if there is any damage, it will be easy to take care of the problem.
+
+White Glove Delivery
+
+**Front Door Delivery**
+
+*   _Delivery to_: **Inside the threshold of your residence**. Your product will be delivered to your front entrance, The product will not be carried up stairs inside the home. If you live in an apartment above the first floor of a building, we recommend upgrading to Room of Choice or Room of Choice with Packaging Removal.
+*   _Assembly Service_: **None**
+*   _Packaging_: The product will be **left in the original packaging**.
+
+**Inside Delivery**
+
+*   _Delivery to_: **Inside your residence to the room you choose**. This includes carrying the product up two flights of stairs from the building threshold (4-15 steps = 1 flight). If you need the product moved up additional flights, please contact us\*.
+*   _Assembly_: **None**
+*   _Packaging_: The product will be **left in the original packaging**.
+
+**Inside Delivery with Packaging Removal**
+
+*   _Delivery to_: **Inside your residence to the room you choose**. This includes carrying the product up two flights of stairs from the building threshold (4-15 steps = 1 flight). If you need the product moved up additional flights, please contact us\*.
+*   _Assembly Service_: **None**
+*   _Packaging_: The shipper will **remove and dispose of all packaging**.
+
+**Inside Delivery with Assembly Service**
+
+*   _Delivery to_: **Inside your residence to the room you choose**. This includes carrying the product up two flights of stairs from the building threshold (4-15 steps = 1 flight). If you need the product moved up additional flights, please contact us\*.
+*   _Assembly Service_: The shipper will **unpack the product and provide light setup that requires basic tools** (i.e. pieces will be screwed or bolted together, set pieces next to each other, or on top of each other).
+*   _Packaging_: The shipper will **remove and dispose of all packaging**.
+
+\*In all cases the shipper will not hook up any electrical or component wires. Having items carried up more than 25 steps and longer assembly periods are available as additional services which would require additional charges. Please contact us if you feel you need these services.
+
+When Will My Order Arrive?
+
+Every product on our site has an estimated Lead Time - the number of business days it takes for an item to be processed and prepared for shipment at the warehouse. To provide you with the greatest selection on the internet, we ship from warehouses all over the country. Each lead time varies based on many different factors. Some warehouses stock items that can be shipped the same day or within 24 hours. Others items require a longer time (e.g. 2-4 weeks). Each product page on our site includes the estimated Lead Time, "Usually ships in \_\_\_\_\_\_\_\_ ," to give you an idea how quickly your order will leave the warehouse.
+
+For Small Parcel shipments within the United States, delivery usually takes between 1 and 6 business days (except for USPS which ships in 1-10 business days) after your order is picked up from the warehouse. For expedited services such as 3-day, 2nd Day or Next Day Air, your order's travel time is locked in to the given speed you select after the item leaves the warehouse. You should remember that the estimated Lead Time still applies before the item ships out. Be sure to consult the product's Lead Time before you order with expedited shipping, and call us if you have any questions or concerns.
+
+For Truck Freight shipments, delivery usually takes between 3 and 6 days from when your order ships. For residential deliveries, you will be contacted for an appointment as soon as your order arrives at the local terminal. For commercial deliveries, no appointment will be made. If you need to make one, please contact us.
+
+For White Glove shipments, delivery usually takes between 1 and 4 weeks from the time the items leave the warehouse. Your order will travel through a nationwide network of professional moving companies who will handle your item(s) with the utmost care. You will be contacted for a delivery appointment when your order reaches the delivery agent. Although the items are handled carefully throughout transit, we require that our orders undergo a thorough inspection at the delivery agent before delivery. We take extra steps to make sure your item is delivered in perfect condition.
+
+Tracking Packages
+
+*   Click on the " Track Packages" link in the Orders section on the Welcome page of My Account.
+*   If you have more than one order that has shipped, select the specific order on the next page that you'd like to track items from. If the items you'd like to track have been shipped, the tracking information will be displayed for you here.
+
+Go there now »
+
+Free Shipping?
+
+Items marked **FREE SHIPPING!** on the product page will ship for free! In order to keep your costs down and our pricing simple, we either provide free shipping or, in certain cases, charge shipping per item. This charge, if any, is indicated in your shopping cart and covers ground shipping within the contiguous United States (click here for information on international shipping costs). We won't surprise you with any hidden charges or handling fees. The price you see in the shopping cart is the price you pay, with one exception: if you are shipping an order to Massachusetts, New York, Utah or Kentucky, we are required to charge sales tax.
+
+Beware of companies who mask their shipping charges and surprise you with prohibitive shipping and handling fees or oversize charges at the end of the checkout process. Make sure you know the total cost of your purchase when shopping around.
+
+Please refer to the following chart to understand the specific shipping rates for items that fall under our Shipping Policy:
+
+Order Amount Standard Shipping Cost Rewards Member Shipping Cost < $49 $6.99 $4.99 ≥ $49 Free! Free!
+
+Exclusions: Certain products we offer do carry associated shipping charges either per item or per order amount. The total item shipping charges, if any, will be detailed in the shopping cart page prior to checkout.
+
+Order Amount for promotional shipping doesn't include, and offer doesn't apply to, gift cards, bulk orders, applicable shipping charges, international fees, or sales tax. Shipping surcharge applies to AK, HI, and U.S. Territories. Some items have specific shipping charges and are not eligible towards the qualifying amount for the reduced shipping rates or free shipping. Other eligible item(s) in your cart at time of checkout will still count towards the qualifying total.
+
+We keep it simpleour pricing is straightforward and all-inclusive, which saves you time and energy.
+
+Shipping To Multiple Addresses
+
+We want to save you time, so we offer you the ability to send products to more than one address within one order.
+
+It is easy to send your order to multiple addresses. For each item you add to your Shopping Cart you can select a recipient. You can also change a recipient during Checkout. Simply enter an address for each recipient, or select an address from your Address Book.
+
+You can even change the shipping address of an item after your order has been placed, by logging into My Account. To learn how to change a shipping address of an item or order, please see " Changing My Shipping Address" under Making Changes To My Order. (Please note that unfortunately, we will be unable to change the address for any items that have already shipped out of the warehouse.)
+
+International Shipping
+
+Placing orders for delivery to Canada is quick and easy!
+
+Our zillions of products also ship to Canada. Duty, tax and shipping will be calculated in your shopping cart for a seamless checkout process. Feel free to call us at 877-WAYFAIR (877-929-3247) or email us with any questions you may have.
+
+**How do I find items that ship to Canada?** - Within the 'Narrow Within' box on the left hand side of many of our browse pages, there is a 'Ships To' section that allows you to filter to only show items that can be shipped to Canada:  
+
+**Lead-Time** - The average delivery times posted on our website are for orders shipping within the contiguous United States. Most orders shipping to Canada will have increased transit time due to customs inspection and further distance from the supplier distribution centers\*. Please note that we do not currently offer expedited shipping to Canadian addresses. Estimated transit time from shipment date:
+
+Small Parcel: 5 - 10 Business Days  
+Truck Freight: 5 - 10 Business Days  
+White Glove: 4 - 6 Weeks  
+
+\*Some of our suppliers have warehouses located in Canada. Whenever possible, we will ship from our Canadian warehouses to remove duty fees and cut down on transit time to you!
+
+**Taxes &. Duties** - We are a registered non-resident importer in Canada. This allows us to simplify the purchasing process for our Canadian customers, reduce delays at the border, and prevent unexpected charges at the time of delivery. Taxes, duty and brokerage fees are paid at the time of purchase for all orders shipping to Canada. We will handle all the paperwork! Additionally, GST and, where applicable, HST will be remitted for you to the Canadian government to further simplify your shopping experience. We collect and remit HST for the provinces of Ontario, British Columbia, and the Maritime provinces. Please note select postal codes are designated as remote locations, and may also require additional shipping fees.
+
+**Returns** - Unless otherwise noted, we accept returns on all orders that ship to Canada. All orders fall under our Standard Return Policy. Please note: duties and GST will be refunded. However, all actual shipping costs and brokerage fees are non-refundable.
+
+**Please Note:**
+
+*   Items are typically delivered in Canada by our shipping partner, Purolator.
+*   Sets of products marked as 'Ships to Canada' may contain individual pieces that are not eligible for international shipping
+*   Certain product warranties may only be valid in the United States
+*   All products on our sites are subject to safety and testing standards as required by the United States and may not be certified for use outside the United States
+*   All dates are shown in Month/Day/Year format (e.g. 5/4/2008 = May 4, 2008)
+*   All prices shown in US Dollars
+
+**International shipping outside of the United States/Canada:**  
+If you would like to have an order shipped outside the United States or Canada, please email us with the following information:
+
+*   A link to the product page(s) or the SKU number(s) (found underneath the product name on the product page) of the item(s) you wish the order
+*   The total quantity you wish to order
+*   The final delivery address
+
+We can arrange a personalized, competitive quote for freight charges through our freight forwarder. Please note that your order must be over $5000 to qualify for freight forwarding.
+
+Shopping in the United Kingdom?
+
+We offer a wide selection of products available for delivery in the United Kingdom which can be found at www.wayfair.co.uk
+
+Sind Sie in Deutschland?
+
+Bei www.wayfair.de bieten wir Ihnen ein umfangreiches Warenangebot für Versand innerhalb Deutschlands.
 
 Back To Top
