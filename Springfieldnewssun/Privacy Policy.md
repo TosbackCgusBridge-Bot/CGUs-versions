@@ -1,7 +1,7 @@
-marimo.emit('writecapture83289863\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": false, "html": "$NEWLINE\\t
+marimo.emit('writecapture96404601\_ready'). marimo.add\_widget({"wc\_compatibility\_mode": false, "html": "$NEWLINE\\t
 
 **Privacy Policy**  
-Last Updated: _June 16, 2014_
+Last Updated: _August 4, 2014_
 
 $NEWLINE
 
@@ -9,7 +9,7 @@ Thank you for visiting this website, which is operated by an Affiliate of Cox Me
 
 $NEWLINE
 
-This privacy statement is provided by the CMG Affiliate that operates this website (\\u201cwe,\\u201d \\u201cus\\u201d or \\u201cour\\u201d) to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the \\u201cService\\u201d), and the ways that we and the other CMG Affiliate Sites may use that information. This privacy statement does not apply to any information you may provide to us through other means. for example, at a live event, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our visitor agreement. If you have questions regarding privacy issues, please contact us.
+This privacy statement is provided by the CMG Affiliate that operates this website (\\u201cwe,\\u201d \\u201cus\\u201d or \\u201cour\\u201d) to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the \\u201cService\\u201d), and the ways that we and the other CMG Affiliate Sites may use that information. This privacy statement does not apply to any information you may provide to us through other means. for example, at a live event, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our visitor agreement. If you have questions regarding privacy issues, please contact us at privacy@coxinc.com.
 
 $NEWLINE
 
@@ -183,4 +183,4 @@ $NEWLINE
 
 We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the \\u201cLast Updated\\u201d date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.
 
-$NEWLINE ", "id": "writecapture83289863", "widget\_prototype": "writecapture\_widget"}).
+$NEWLINE ", "id": "writecapture96404601", "widget\_prototype": "writecapture\_widget"}).
