@@ -136,7 +136,7 @@ To do any of these, let us know by one of these methods:
   
 Interest-Based Advertising
 
-To learn more about interest-based advertising, visit www.aboutads.info. You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
+Learn more about interest-based advertising. You can opt out of interest-based advertising from third party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
 
 Protecting Children's Privacy
 
@@ -156,9 +156,11 @@ We may need to update our Privacy Policy as Best Buy and our customers grow and 
 
 TRUSTe Privacy Seal
 
-Best Buy Co., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected behind the log in on our website or information that may be collected through our mobile applications.
+Best Buy Co., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected through our mobile applications.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at PrivacyManager@bestbuy.com. If you are not satisfied with our response, you can contact TRUSTe here.
+
+Contact TRUSTe for fax and postal mail information. \[TRUSTe's Dispute Resolution process is only available in English.\]
 
 Have Questions?
 
