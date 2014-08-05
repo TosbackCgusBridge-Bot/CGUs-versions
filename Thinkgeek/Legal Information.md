@@ -14,6 +14,10 @@ Copyright
 
 All content included on this site, such as text, graphics, logos, button icons, images, videos, etc, is the property of ThinkGeek or its content suppliers and protected by United States and international copyright laws. You may use product images for non-commercial purposes without restriction/consent, but if you wish to sell our products, then please become an affiliate or contact us for express written permission.
 
+Terms Of Use
+
+Please read our complete Terms of Use for more information.
+
 Purchase Order Terms
 
 Please read our complete Purchase Order Terms &. Conditions for more information.
