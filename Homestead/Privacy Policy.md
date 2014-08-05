@@ -12,7 +12,6 @@ Navigation:
     *   SEO Services
     *   Paid Search Ads
     *   WebListings
-    *   Traffic Booster
 *   Design it for You
 *   Plans &. Pricing
 
@@ -108,7 +107,6 @@ This file was last modified September 17, 2012
     *   SEO Services
     *   Paid Search Ads
     *   WebListings
-    *   Traffic Booster
 *   Design it For You
     *   How it Works
     *   Sample Sites
