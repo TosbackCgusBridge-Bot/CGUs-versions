@@ -257,7 +257,7 @@ Take a glimpse at Syfy's greatest moments with current shows and shows yet to co
 
 Z Nation: Coming in September Z Nation: Coming in September
 
-Zombies have taken over America! Get a look at Syfys new zombie series coming in September.
+Zombies have taken over America! Get a look at Syfy's new zombie series coming in September.
 
 Wizard Wars: Coming August 19 at 10/9c Wizard Wars: Coming August 19 at 10/9c
 
