@@ -1,10 +1,10 @@
 Webs
 
 *   How It Works
+*   Pricing
 *   Themes
 *   Features
 *   Why Webs
-*   Pricing
 *   Blog
 
 *   France
