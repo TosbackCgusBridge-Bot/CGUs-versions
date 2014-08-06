@@ -8,6 +8,7 @@ Fitbit Log in • Get Started
     *   **One™** Wireless Activity + Sleep Tracker
     *   **Force™** Wireless Activity + Sleep Wristband
     *   **Aria™** Wi-Fi Smart Scale
+    *   **Tory Burch for Fitbit** Accessories
     *   **Premium** Membership
     
     *   Compare Trackers
@@ -196,6 +197,8 @@ United States and Canada (change) Products
     Wireless Activity + Sleep Wristband
 *   Aria™  
     Wi-Fi Smart Scale
+*   Tory Burch for Fitbit  
+    Accessories
 
 Shop Devices Services
 
