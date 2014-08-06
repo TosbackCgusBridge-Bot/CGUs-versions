@@ -1,3 +1,5 @@
+SquidTeam
+
 Terms of Service What's Squidoo? Squidoo is the free (yes, free), simple tool that makes it easy for you to publish your interests online. (You could even earn a royalty for yourself or for charity). From authors and astronauts to marketers and musicians, to cat lovers and seahorse keepers and quiltmakers and video gamers and teachers and... well, everyone... anyone with something to say, share, promote and recommend is welcome on Squidoo. All you need to do is agree to the below Terms of Service, which, as you'll see, generally cover: 1) Our Zero Tolerance policy about Spamming and 2) An easy list of Do's and Don'ts and 3) Your usual legalese jibberjabber.  
   
 So, congratulations. You're participating in one of the realest, coolest, most powerful free publishing platforms online. We're thrilled to work with you. And now, the TOS proper...  
@@ -225,4 +227,6 @@ This is a handshake, a thank you, and a reminder to keep writing original lenses
   
 Read the rest of the Scroll of Originality.  
   
-We run regular and periodic reviews of lenses to enforce our policies, including acting against spam, locking lenses on topics we can’t support, locking low-quality lenses, and most recently we have increased our systematic intolerance of duplicated content and plagiarism. We reserve the right to take down content that violates our Terms of Service and editorial standards, without warning.
+We run regular and periodic reviews of lenses to enforce our policies, including acting against spam, locking lenses on topics we can’t support, locking low-quality lenses, and most recently we have increased our systematic intolerance of duplicated content and plagiarism. We reserve the right to take down content that violates our Terms of Service and editorial standards, without warning. About the Author SquidTeam
+
+We're the official SquidTeam! Together we built and run and are constantly growing Squidoo. Thanks for being here.
