@@ -42,3 +42,4 @@ Charter’s Residential Terms and Conditions of Video, Internet, and Voice Servi
     *   Residential Voice Terms and Conditions
     *   Residential Video Terms and Conditions
     *   Residential Services Phone Price Guide
+    *   Residential Customer Guarantees
