@@ -80,7 +80,9 @@ http://www.doubleclick.com/us/about\_doubleclick/privacy/ad-cookie/
 
 http://www.audiencescience.com/privacy
 
-7.5 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: http://youronlinechoices.com/
+7.5 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies:
+
+http://www.youronlinechoices.com
 
 **8\. Security**
 
