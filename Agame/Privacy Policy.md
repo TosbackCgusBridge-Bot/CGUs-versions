@@ -15,6 +15,7 @@ Click the hearts button on a game page to make it a favorite.
 *   Adventure
 *   Multiplayer
 *   More
+    *   Kogama Games
     *   War Games
     *   Board &. Card
     *   Awards
