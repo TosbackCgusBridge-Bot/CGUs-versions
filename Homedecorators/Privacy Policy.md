@@ -1,5 +1,5 @@
 Privacy Policy &. Terms of Use  
-Last updated: June 13, 2014  
+Last updated: February 27, 2014  
   
 We appreciate the trust you place in Home Decorators Collection, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. HomeDecorators.com is owned by The Home Depot. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.  
   
