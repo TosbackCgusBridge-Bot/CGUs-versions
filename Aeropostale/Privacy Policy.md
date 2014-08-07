@@ -62,6 +62,9 @@ Aéropostale Go
         *   Flip Flops
         *   Sandals
     
+    *   SWIM
+        *   Swim Bottoms
+    
     *   Bras
     
     *   Panties
@@ -151,7 +154,6 @@ Aéropostale Go
         *   Belts
         *   Ties
         *   Sunglasses
-        *   Cologne
     
     *   ROOM
     
