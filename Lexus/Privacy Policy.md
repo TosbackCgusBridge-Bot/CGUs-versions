@@ -177,6 +177,10 @@ RC F
 
 Coming Soon
 
+THE CRAFTED LINE
+
+Coming Soon
+
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
 During 2013, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
@@ -227,7 +231,7 @@ Information
 *   Careers
 *   Your Privacy Rights
 *   Legal Terms
-*   Recall Information
+*   Safety Recalls &. Service Campaigns
 
 Shopping Tools
 
@@ -263,7 +267,7 @@ Additional Sites
 
 *   Privacy Rights
 *   Legal Terms
-*   Recall Info
+*   Safety Recalls &. Service Campaigns
 
 Sign up for Lexus News
 
