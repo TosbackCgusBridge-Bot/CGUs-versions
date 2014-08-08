@@ -47,6 +47,7 @@ About Shockwave
 *   About Shockwave
 *   Advertising
 *   Game Developers
+*   Careers
 *   Terms of Use
 *   Privacy Policy
 *   Virtual Currency Purchasing Agreement
@@ -67,5 +68,5 @@ Privacy and Legal Free Online Games and More
 *   Privacy Policy
 *   Copyright Compliance Policy
 
-© 1999-2014 Atom Entertainment, Inc., a Viacom Media Networks Company. All rights reserved.  
+Copyright © 2014 Defy Media, LLC. all rights reserved.  
 Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.
