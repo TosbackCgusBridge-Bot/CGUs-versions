@@ -14,13 +14,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   Swim Shop
             *   Jeans 101
-            *   Performance Collection
-            *   Shoes &. Sandals
+            *   Shoes &. Boots
+            *   Outerwear
             
             *   New Arrivals
-            *   Starfish Collection
             *   Cardigan Shop
-            *   Swim Guide
+            *   Looks To Love
+            *   Performance Collection
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -44,6 +44,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers &. Jackets
             *   Activewear
             *   Outerwear
+            *   Hats, Gloves &. Scarves
             *   Sleepwear
             *   Shoes
             *   Socks, Tights &. Underwear
@@ -54,9 +55,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Men Featured Shops
             *   Swim Shop
-            *   Shoes
+            *   Shoes &. Boots
             *   Made to Work
-            *   Jeans
+            *   Jeans Lineup
             
             *   New Arrivals
             *   Favorite Looks
@@ -82,6 +83,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Sportcoats &. Blazers
             *   Sleepwear
             *   Outerwear
+            *   Hats, Gloves &. Scarves
             *   Shoes
             *   Ties
             *   Belts &. Accessories
@@ -92,8 +94,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Backpacks &. Lunch Boxes
-            *   Swim Shop
-            *   Shoes &. Sandals
+            *   Shoes &. Boots
             *   School Uniforms
             
             *   New Arrivals
@@ -124,6 +125,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Outerwear
+            *   Hats, Gloves &. Scarves
             *   Sleepwear
             *   Tights, Socks &. Underwear
             *   Accessories
@@ -141,6 +143,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Jeans
             *   Blazers &. Jackets
             *   Outerwear
+            *   Hats, Gloves &. Scarves
             *   Sleepwear
             *   Ties &. Accessories
             *   Socks &. Underwear
@@ -161,12 +164,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Home
         *   Featured Shops
             *   Back to Home Featured Shops
+            *   Bedding
+            *   Bath
             *   Totes
             *   Beach Towels
             
             *   New Arrivals
             *   Supima Bed &. Bath
-            *   Oxford Bed &. Bath
+            *   Make Over Your Bed
             *   Sale
     *   *   Categories
             *   Bedding
@@ -213,6 +218,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers
             *   Activewear
             *   Outerwear
+            *   Hats, Gloves &. Scarves
             *   Shoes &. Boots
             *   Accessories
             *   Backpacks &. Bags
@@ -227,6 +233,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers
             *   Activewear
             *   Outerwear
+            *   Hats, Gloves &. Scarves
             *   Shoes &. Boots
             *   Accessories
             *   Backpacks &. Bags
