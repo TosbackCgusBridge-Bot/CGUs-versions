@@ -3,9 +3,10 @@
 
 SurveyMonkey®
 
-1.  Home
-2.  How It Works
-3.  Examples
+1.  Sign In
+2.  Home
+3.  How It Works
+4.  Examples
     *   Survey Templates
     *   Survey Tips
     *   Survey Types
@@ -18,7 +19,7 @@ SurveyMonkey®
     *   Non Profit
     *   Events
     
-4.  Survey Services
+5.  Survey Services
     *   Buy Survey Responses
     *   Buy a Multi-User Account
     *   Mobile App
@@ -29,7 +30,8 @@ SurveyMonkey®
     *   Telephone Surveys
     *   Wufoo Online Forms
     
-5.  Plans &. Pricing
+6.  Plans &. Pricing
+7.  Help
 
 *   Policy Center
     *   Overview
