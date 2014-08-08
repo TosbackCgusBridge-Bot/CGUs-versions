@@ -38,10 +38,8 @@
 
 *   *   Working at The Economist Group
     *   *   Training and development
-    *   Job opportunities
+    *   Global job opportunities
     *   *   Contacts
-    *   Internships
-    *   Work experience
 
 The Economist Newspaper privacy statement
 
