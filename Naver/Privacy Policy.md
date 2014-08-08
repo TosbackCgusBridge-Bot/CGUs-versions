@@ -240,6 +240,6 @@ top
 *   책임의 한계와 법적고지
 *   검색결과수집에 대한 정책
 *   이메일주소 무단수집 거부
-*   네이버도움말
+*   네이버 고객센터
 
 _Copyright ©_ NAVER Corp. All Rights Reserved.
