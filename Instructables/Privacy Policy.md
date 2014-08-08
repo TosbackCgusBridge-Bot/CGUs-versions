@@ -39,7 +39,6 @@ Legal Notices &. Trademarks
 *   Linking to Autodesk
 *   Export Compliance
 *   Autodesk Subscription Terms and Conditions
-*   Per-Incident Support Terms and Conditions
 *   Software License Agreements
 *   Terms of service: Autodesk® 360 and other web services
 *   Code of Business Conduct
