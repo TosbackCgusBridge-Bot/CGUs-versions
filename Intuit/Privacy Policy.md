@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Lynne
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12798036571
+true true C12668153194
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lena850 SERVER NAME :->. prod-l1-com-0102 TIME :->. Wed Aug 06 04:47:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Thu Aug 07 07:02:33 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,19 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ridiculously Hot Sale shop the sale30-50% Off Home Sale
-
-Select items.
-
-shop the home sale30-50% Off Bedding and Bath
-
-Select items.
-
-shop bedding and bath40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage30-50% Kitchen and Dining shop kitchen and dining40-50% Off Window shop window shop curtains and drapes
-
-Ends August 9.
-
-In Store Only
+Ridiculously Hot Sale shop the sale view store ad In Store Only
 
 $10 Off\* $25 or more.
 
@@ -75,27 +63,31 @@ Code: TENSAVE
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Back To School
+\*See exclusions and details. print store coupon Night and Day Doorbusters
 
-The perfect fit lets you be you.
+Excluded from coupon offer.
 
-shop all back to schoolExpress Yourselfie
+In store only, Friday, August 8 from 3PM until 10PM, Saturday, August 9 from 9AM until 1PM.
 
-Why fit in when you can stand out? Create and share your emoji style.
+view doorbusters store ad 30-50% Off Home Sale
 
-Express yourself and find a fit that lets you be you. #JCPExpressYourselfie
+Select items.
 
-40% Off Select Kids' Izod Uniforms shop Izod uniforms Converse Shoes For Kids
+shop the home sale shop curtains and drapes 30-50% Off Bedding and Bath
 
-Your favorite styles.
+Select items.
+
+shop bedding and bath 30-50% Kitchen and Dining shop kitchen and dining 40-50% Off Furniture and Mattresses shop furniture and mattresses 40-50% Off Luggage shop luggage 40-50% Off Window shop window Converse Shoes For Kids
+
+Your favorite styles and prices.
 
 Excluded from coupon.
 
-shop kids' Converse 40-50% Off Select Arizona shop Arizona 20-50% Off Select Backpacks shop backpacks Jewelry Spectacular Sale
+shop kids' Converse 40% Off Select Kids' Izod Uniforms shop Izod uniforms 20-50% Off Select Backpacks shop backpacks Jewelry Spectacular Sale
 
-20-50% Off Select Watches.
+40-60% Off Select Fine Jewelry and Bijoux Bar.
 
-shop watches 30% Off Select Bras When You Buy 2 Or More shop bras Your One-Stop Shop For All Your Fan Gear Needs
+shop fine jewelry and Bijoux Bar 30-50% Off Select Arizona shop Arizona 30% Off Select Bras When You Buy 2 Or More shop bras Your One-Stop Shop For All Your Fan Gear Needs
 
 Sports Fan Shop. A Fanatics experience.
 
@@ -107,11 +99,11 @@ shop the fan shop JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Dorm Life shop all dorm lifeLove Your Fit
+sign up today Back To School
 
-Bra fit event, July 30 through August 16. More sizes, more styles, more you.
+The perfect fit lets you be you.
 
-find a bra fit event near youRed Zone Clearance Selections shop clearance
+shop back to school Dorm Life shop all dorm life Red Zone Clearance Selections shop clearance
 
 get connected
 
