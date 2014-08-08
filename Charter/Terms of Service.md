@@ -22,12 +22,8 @@ The links below provide you access to Charter's policies &. agreements.
 *   Complaint Procedures for Michigan
 *   Network Management Practices
 *   Annual Notices
-    *   Connecticut 2013 Annual Notice (PDF)
-    *   Michigan 2013 Annual Notice (PDF)
-    *   New York 2013 Annual Notice (PDF)
-    *   Vermont 2013 Annual Notice (PDF)
-    *   2013 Annual Notice (PDF)
-    *   Espanol 2013 Annual Notice (PDF)
+    *   2014 Annual Notice (PDF)
+    *   Espanol 2014 Annual Notice (PDF)
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
 
@@ -41,5 +37,5 @@ Charter’s Residential Terms and Conditions of Video, Internet, and Voice Servi
     *   Residential Acceptable Use Policy
     *   Residential Voice Terms and Conditions
     *   Residential Video Terms and Conditions
-    *   Residential Services Phone Price Guide
+    *   Residential Services Voice Price Guide
     *   Residential Customer Guarantees
