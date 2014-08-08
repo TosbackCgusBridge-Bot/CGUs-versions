@@ -127,6 +127,8 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking here.
 
+We may use eBay Enterprise Targeted Display Advertising Services on this website. You can learn more about how this service functions by clicking here, and you may opt out of eBay Enterprise targeted display services by clicking here. You also may opt out of eBay Enterprise targeted display services through the Network Advertising Initiative website.
+
 _Web Beacons_
 
 Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed.
@@ -240,6 +242,8 @@ We offer you certain choices about how we communicate with you and what informat
 You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, clicking here, or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here. Our website is not designed to respond to "do not track" signals received from browsers.
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes.
+
+To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here. To opt out of eBay Enterprise targeted display services, please click here.
 
    
 
