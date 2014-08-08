@@ -154,6 +154,7 @@ Aéropostale Go
         *   Belts
         *   Ties
         *   Sunglasses
+        *   Cologne
     
     *   ROOM
     
