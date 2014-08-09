@@ -62,9 +62,6 @@ Aéropostale Go
         *   Flip Flops
         *   Sandals
     
-    *   SWIM
-        *   Swim Bottoms
-    
     *   Bras
     
     *   Panties
