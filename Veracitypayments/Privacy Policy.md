@@ -11,7 +11,7 @@ Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank,
 *   Associations
 *   Inside Buzz
 
-» Client Login **NEWS:** Veracity Payment Solutions Acquires Vanco Services, LLC and Appoints New Chief Executive Officer Veracity Payment Solutions CEO Joseph Cohane Named Gold Winner for Executive of the Year in the 2013 Golden Bridge Business and Innovation Awards Veracity Payment Solutions Appoints J. Brian Merena as Senior Vice President of Bank Channel Sales Veracity Payment Solutions Continues Momentum Implementing Payment Solutions for Small and Medium-Sized Merchants Veracity Payment Solutions CFO Stephanie Sharp Named Finalist in Atlanta Business Chronicle CFO of the Year Awards
+» Client Login **NEWS:** Veracity Payment Solutions Acquires Vanco Services, LLC and Appoints New Chief Executive Officer Veracity Payment Solutions Continues Momentum Implementing Payment Solutions for Small and Medium-Sized Merchants Small Business Association of Michigan Signs With Midwest Transaction Group for Member Payment Services Veracity Payment Solutions Appoints Rick Caldarella as Vice President of Product Management Veracity Payment Solutions Appoints Matt Thatcher as Executive Vice President of Business Development
 
 *   Quick Links
 *   Featured Product
