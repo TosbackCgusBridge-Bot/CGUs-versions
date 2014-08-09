@@ -29,7 +29,7 @@ Gift Cards | Offers | Visa Signature
     *   What If
     *   What Now? Remind Me
     *   After (2014)
-    *   Keep on Keepin' On
+    *   The Maid's Room
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -70,7 +70,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News New 'Terminator' has a title. Sam L. Jackson may play the Black Phantom Read More Check out the brand-new 'Mockingjay - Part 1' posters of the characters in District 13 Read More And the next Disney movie for the writer of 'Frozen' is... Read More Explore More
+*   Movie News Featured Movie News News Bites: Joseph Gordon-Levitt teases high-wire thrills in 'The Walk'. Eli Roth's 'Green Inferno' gets extinguished Read More Check out the brand-new 'Mockingjay - Part 1' posters of the characters in District 13 Read More First Look: 'Frozen' fans, meet TV's new Anna and Elsa Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
