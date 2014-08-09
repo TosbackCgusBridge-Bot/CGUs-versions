@@ -10,7 +10,7 @@ Skip to main content Online Trust Alliance
 *   Join OTA
 *   Donate OTA
 
-Enter your keywords  
+ 
 
 *   Initiatives
     *   Brand Protection
@@ -95,7 +95,7 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Aug 7, 2014 The Business Shock of A Data Breach Incident – Who are you going to call? Join the Online Trust Alliance (OTA) and USTelecom for this timely webinar. Craig Spiezle will walk through the elements of an effective (and defendable), response plan from training first responders to developing external communications and working with law enforcement. While there is no perfect security, there is no excuse for not having an up-to-date response plan Tue, Aug 12, 2014 EU Cookie Directive: Key Steps to Compliance
+Tue, Aug 12, 2014 EU Cookie Directive: Key Steps to Compliance
 
 From September 15-19 European Data Protection Authorities will conduct a "Cookie Sweep" to assess current compliance levels and the CNIL will then conduct further inspections in October using new powers which came into effect earlier this year. With the potential of increased enforcement and growing consumer privacy expectations, if your company's not compliant then there could be risk of negative media coverage and damage to your brand.
 
@@ -105,8 +105,14 @@ Wed, Aug 13, 2014 Email Integrity Audit Webinar Join OTA for a review of the rec
 
 Sharing threat intelligence isn't new. Individuals and organizations have been doing it for a long time. They've simply been doing it inefficiently and in an unsecure manner. In the mean time, the bad guys have gotten pretty good at sharing the information that allows their efforts to thrive. Now it's the good guys' turn.
 
+Thu, Aug 21, 2014 Lessons Learned from the Evolution of Spam Tips to Staying Ahead of the Email Deliverability Curve Improving email deliverability is a top concern for today’s email marketers. Email campaigns must pass through different anti-spam filters, blockers, and other technologies to get to a contact’s inbox. To understand the keys to increasing email deliverability, it is necessary to understand the history of spam and the ever-changing market for spam filtering tools. By exploring how spam has evolved over time, and the tools the anti-spam industry has responded with, this webinar will help you launch email campaigns that reach your customers’ inboxes consistently
+
 *   OTA Blog
 *   Newsletters
+
+Fri, Aug 8, 2014 Google &. Yahoo to join forces on encrypted email
+
+Interesting development of how external issues (govt &. privacy) can bring competitors to the table).  Yahoo said Thursday it will join an effort by rival  Google to create a secure email system by next year that could make it nearly impossible for hackers or government officials to read users' messages.
 
 Mon, Jul 28, 2014 Password Vulnerability - Do not become a StubHub!
 
@@ -123,7 +129,7 @@ Share your best practices to enable users to easily opt-out of email.  OTA's dr
 3.  **Easily read by recipients of all ages and on all devices.** 
     
 
-Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Fri, Jul 11, 2014 IoT Privacy Tech Working Group Formed OTA joins TRUSTe, CDT and FPF forming multi-Stakeholder IoT privacy tech working group as to help enhance consumer privacy in Internet of Things. Group callls for IoT &. Privacy Experts to Submit Interest for Participation. Resources
+Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
