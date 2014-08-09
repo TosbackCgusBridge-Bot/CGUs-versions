@@ -8,7 +8,7 @@ Lenovo United States Select a country/region
 *   Bahrain
 *   Bangladesh
 *   Belgium - Dutch
-*   Belgium - Français
+*   Belgium - Francais
 *   Benin
 *   Bolivia
 *   Botswana
