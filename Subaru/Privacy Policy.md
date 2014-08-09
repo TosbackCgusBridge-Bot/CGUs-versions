@@ -55,7 +55,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-Impreza 2.0i Sport Limited shown
+2014 Impreza 2.0i Sport Limited shown
 
 WRX $26,295 starting price 2015 WRX
 
@@ -128,6 +128,23 @@ Introducing the
 
 XV Crosstrek 2.0i Limited shown
 
+XV Crosstrek Hybrid $25,995 starting price 2014 XV Crosstrek Hybrid
+
+Starting at
+
+$25,995 MSRP
+
+Up to
+
+33/29MPG Hwy/City
+
+*   Overview
+*   Photos &. Videos
+*   Compare
+*   Build Your Own
+
+XV Crosstrek Hybrid Shown
+
 Outback $24,895 starting price 2015 Outback
 
 Starting at
@@ -174,6 +191,7 @@ Financing
 Find information on financing or leasing your new Subaru.
 
 *   Estimate Credit Score
+*   Apply for Financing
 *   Extended Service Plans
 *   Trade-In Appraisal
 *   View a Brochure
@@ -407,7 +425,9 @@ Legal Disclaimers
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
-iPod® and iPad® are registered trademarks of Apple Inc.. Brembo® is a registered trademark of Freni Brembo S.p.A.. Alcantara ® is a registered trademark of Alcantara S.p.A and Alcantara® is produced by Toray Group.. TORSEN® is a registered trademark of JTEKT Corporation.. BBS® is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth® is a registered trademark of Bluetooth® SIG, Inc.. HomeLink® is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android is a trademark of Google Inc.
+Subaru, SUBARU BOXER, BRZ, Forester, Impreza, Legacy, Outback, STI, Tribeca, WRX, and EyeSight are registered trademarks. XV Crosstrek is a trademark of Subaru of America, Inc.
+
+iPod and iPad are registered trademarks of Apple Inc.. Brembo is a registered trademark of Freni Brembo S.p.A.. Alcantara is a registered trademark of Alcantara S.p.A and Alcantara is produced by Toray Group.. TORSEN is a registered trademark of JTEKT Corporation.. BBS is a registered trademark of BBS Kraftfahrzeugtechnik AG.. SiriusXM Satellite Radio is a trademark of Sirius XM Radio Inc.. Bluetooth is a registered trademark of Bluetooth SIG, Inc.. HomeLink is a registered trademark of Prince Corporation, a wholly owned subsidiary of Johnson Controls.. Aha and Harman Kardon are a registered trademarks of Harman International Industries, Inc.. Android is a trademark of Google Inc.
 
 PLEASE REVIEW THESE IMPORTANT DISCLOSURES.  
 Subaru of America, Inc. reserves the right to make changes at any time without notice or obligation to the information contained on this Internet site, prices, incentive programs, specifications, equipment, colors, materials, product illustrations and to change or discontinue models. All prices are based upon Manufacturer's Suggested Retail Prices (""MSRP"") in U.S. dollars (unless otherwise indicated) and exclude taxes, title fees, licensing, options and destination charges unless specifically included. Retailers are independent businesses and are free to set their own retail prices. All information contained at this Internet site is intended for the USA market only.
