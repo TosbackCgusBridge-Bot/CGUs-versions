@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   NICOLE
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true 10.60.216.10 C12674273018
+true true 10.60.216.10 C12676786085
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sat Aug 09 04:32:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Aug 10 04:30:31 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,51 +43,33 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ridiculously Hot Sale shop the sale view store ad In Store Only
+Friends and Family
 
-$10 Off\* $25 or more.
+In store and online.
 
-$20 Off\* $50 or more.
+Online Code: JCPFRNDS
 
-Online Only
+Extra 25% Off\* apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades.
 
-Online Code: SAVBUNCH
+Plus Extra 15% Off\* optical.
 
-$30 Off\* $100 or more.
+\*See exclusions and details. print store coupon view store ad $15 Off $15
 
-Or, $10 Off\* $50 or more.
+Get a $15 off\* $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15, 2014, redeemable August 16 through September 1, 2014.
 
-In Store and Online
-
-Code: TENSAVE
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. print store coupon Night and Day Doorbusters
-
-Excluded from coupon offer.
-
-In store only, Friday, August 8 from 3PM until 10PM, Saturday, August 9 from 9AM until 1PM.
-
-view doorbusters store ad 30-50% Off Home Sale
+\*See exclusions and details. 30-50% Off Home Sale
 
 Select items.
 
-shop the home sale shop curtains and drapes 30-50% Off Bedding and Bath
-
-Select items.
-
-shop bedding and bath 30-50% Kitchen and Dining shop kitchen and dining 40-50% Off Furniture and Mattresses shop furniture and mattresses 40-50% Off Luggage shop luggage 40-50% Off Window shop window Converse Shoes For Kids
-
-Your favorite styles and prices.
-
-Excluded from coupon.
-
-shop kids' Converse 40% Off Select Kids' Izod Uniforms shop Izod uniforms 20-50% Off Select Backpacks shop backpacks Jewelry Spectacular Sale
+shop the home sale shop curtains and drapes40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Luggage shop luggage30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor 40% Off Select Kids' Arizona Denim shop kids' Arizona denim 40-50% Off Select Juniors' Graphic Tees shop juniors' graphic tees 40% Off Select Kids' Uniforms shop kids' uniforms 30% Off Select Bras When You Buy 2 Or More shop bras Final Days! Jewelry Spectacular Sale
 
 40-60% Off Select Fine Jewelry and Bijoux Bar.
 
-shop fine jewelry and Bijoux Bar 30-50% Off Select Arizona shop Arizona 30% Off Select Bras When You Buy 2 Or More shop bras Your One-Stop Shop For All Your Fan Gear Needs
+shop fine jewelry and Bijoux Bar $39.99 Men's Levi's 514 Straight-Fit Jeans
+
+Regularly $58.
+
+shop men's Levi's Your One-Stop Shop For All Your Fan Gear Needs
 
 Sports Fan Shop. A Fanatics experience.
 
@@ -99,11 +81,19 @@ shop the fan shop JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Back To School
+sign up today A Fit For Every Workout shop fitnessBack To School
 
 The perfect fit lets you be you.
 
-shop back to school Dorm Life shop all dorm life Red Zone Clearance Selections shop clearance
+shop back to school Red Zone Clearance Selections
+
+50-70% Off
+
+shop clearance Round Up and Let Your Change Create Real Change
+
+Help ensure the arts remain an essential element of the school experience by rounding up your JCPenney purchases to the nearest dollar.
+
+learn more
 
 get connected
 
