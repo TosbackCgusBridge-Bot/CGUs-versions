@@ -100,13 +100,13 @@ Data That Could Identify You
 
 Personally Identifiable Information (PII) is data that includes a personal identifier like your name, email or address, or data that could reasonably be linked back to you. We will only share PII data under the following circumstances:
 
-*   With companies that are contractually engaged in providing us with services like order fulfillment, email management, map services and credit card processing. These companies are obligated by contract to safeguard any PII they receive from us.
+*   With companies that are contractually engaged in providing us with services like order fulfillment, email management and credit card processing. These companies are obligated by contract to safeguard any PII they receive from us.
 *   If we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your data, we will do our best to provide you with notice in advance by email, unless we are prohibited by a court order from doing so or where the request or legal process is directly related to a regulatory investigation. In the latter case, we will ensure user information we disclosed is treated as confidential.
 *   If it is necessary in connection with the sale, merger, bankruptcy, sale of assets or reorganization of our company, your PII can be sold or transferred as part of that transaction as permitted by law. The promises in this Privacy Policy will apply to your data as transferred to the new entity.
 
 Data That Does Not Identify You (De- identified Data)
 
-Fitbit may share or sell aggregated and de-identified data that does not identify you with partners and the public in a variety of ways, such as by providing research or reports about health and fitness or in services provided under our Premium membership. When we provide this information, we take legal and technical measures to ensure that the data does not identify you and cannot be associated back to you.
+Fitbit may share or sell aggregated, de-identified data that does not identify you with partners and the public in a variety of ways, such as by providing research or reports about health and fitness or in services provided under our Premium membership. When we provide this information, we take legal and technical measures to ensure that the data does not identify you and cannot be associated back to you.
 
 Data that You Direct Us to Share
 
@@ -193,6 +193,10 @@ Data Analytics:
 
 *   Mixpanel: We use Mixpanel as our primary analytics tool to understand how our customers use the Fitbit Services and Mixpanel People to contact you about the use of our product, for example, to contact you if you have trouble syncing your Device. You can read the MixPanel Privacy Policy and opt-out.
 *   We use Google Analytics and Optimizely analytics cookies allow us to see how you use our services so we can improve your experience. We encourage you to read the Google Privacy Policy. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add- on. Likewise, you can read the Optimizely Privacy Policy and opt out.
+
+Previous Privacy Policy
+
+Privacy Policy dated January 3, 2014
 
 Fitbit
 
