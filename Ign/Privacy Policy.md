@@ -26,7 +26,7 @@ Privacy Policy Overview
 
 In this Privacy Policy, we will discuss the following information and more:
 
-*   The types of Personal Information do we collect.
+*   The types of Personal Information we collect.
 *   The technologies we use to collect Personal Information.
 *   The information we provide to third parties.
 *   What we and third parties collect relating to online advertising.
@@ -37,7 +37,7 @@ In this Privacy Policy, we will discuss the following information and more:
 *   Information for California residents.
 *   Information regarding interest-based advertising.
 *   Can this Privacy Policy change.
-*   Other useful information regarding your privacy
+*   Other useful information regarding your privacy.
 *   How you contact Ziff Davis about any questions or concerns you may have.
 
 What We Collect: Part 1: Personal Information:
