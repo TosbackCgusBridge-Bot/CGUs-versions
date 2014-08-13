@@ -8,6 +8,13 @@ JavaScript is not enabled on your browser
 
 You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.)
 
+*   New Arrivals
+    *   *   Back to Main Menu New Arrivals
+    *   *   *   Women
+            *   Men
+            *   Girls
+            *   Boys
+            *   Home
 *   Women
     *   *   Back to Main Menu Women
         *   Featured Shops
