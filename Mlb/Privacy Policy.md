@@ -226,6 +226,21 @@ MLB Advanced Media, L.P. is the organization that produces and publishes the Off
 
 Last updated and effective date: June 30, 2014 Below is an advertisement.
 
-Terms of Use Privacy Policy (updated June 30, 2014) About Our Ads Legal Notices Contact Us
+*   Terms of Use
+*   Privacy Policy (updated June 30, 2014)
+*   About Our Ads
+*   Legal Notices
+*   Contact Us
 
 © MLB Advanced Media, LP. All rights reserved.
+
+Connect with MLB.com
+
+MLB on Facebook
+
+MLB on Twitter
+
+MLB on Google+
+
+*   View MLB.com in English
+*   En Español
