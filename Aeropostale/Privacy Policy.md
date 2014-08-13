@@ -25,6 +25,8 @@ Aéropostale Go
     
     *   Shoe Bar
     
+    *   Party Dresses
+    
     *   Extended Sizes
     
     *   Web Exclusives
@@ -328,4 +330,4 @@ Back to Top Mobile Signup
 *   Live Love Dream
 *   P.S. from Aéropostale
 
-Terms and Conditions Privacy Policy X
+Mobile Terms and Conditions Mobile Terms and Conditions Canadian Mobile Terms and Conditions Privacy Policy X
