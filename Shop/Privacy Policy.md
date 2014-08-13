@@ -539,6 +539,7 @@ Resources
 *   Product Accessibility
 *   Affinity Discount Program
 *   Lenovo Trade-In Program
+*   Customer Feedback
 
 *   ©2014 Lenovo. All rights reserved.
 *   Print this page
