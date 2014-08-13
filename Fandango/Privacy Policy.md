@@ -4,50 +4,50 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Teenage Mutant Ninja Turtles (2014)
     *   Guardians of the Galaxy
+    *   Into the Storm
+    *   The Hundred-Foot Journey
     *   Lucy
-    *   Get On Up
+    *   Step Up All In
     *   Hercules (2014)
+    *   Get On Up
     *   Dawn of the Planet of the Apes
     *   Planes: Fire &. Rescue
     *   The Purge: Anarchy
-    *   Sex Tape
-    *   And So It Goes
-    *   A Most Wanted Man
-    *   Boyhood
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Hundred-Foot Journey
-    *   Into the Storm
-    *   Step Up All In
-    *   Teenage Mutant Ninja Turtles (2014)
-    *   About Alex
-    *   The Dog
-    *   James Cameron's Deepsea Challenge 3D
-    *   What If
-    *   What Now? Remind Me
-    *   After (2014)
-    *   The Maid's Room
+    *   The Expendables 3
+    *   The Giver
+    *   Let's Be Cops
+    *   Coldwater
+    *   Life After Beth
+    *   Frank
+    *   Found
+    *   Ragnarok
+    *   The Trip to Italy
+    *   Septic Man
+    *   Fort McCoy
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   The Expendables 3
+    *   Sin City: A Dame to Kill For
     
     Coming Soon
     
-    *   The Expendables 3
-    *   The Giver
-    *   Let's Be Cops
-    *   Sin City: A Dame to Kill For
     *   If I Stay
     *   When the Game Stands Tall
     *   As Above, So Below
     *   The November Man
-    *   The Green Inferno
     *   No Good Deed
+    *   Dolphin Tale 2
+    *   The Maze Runner
+    *   A Walk Among the Tombstones
+    *   Tusk
+    *   This Is Where I Leave You
     *   See All Coming Soon
     
     Explore More
@@ -70,7 +70,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News News Bites: Joseph Gordon-Levitt teases high-wire thrills in 'The Walk'. Eli Roth's 'Green Inferno' gets extinguished Read More Check out the brand-new 'Mockingjay - Part 1' posters of the characters in District 13 Read More First Look: 'Frozen' fans, meet TV's new Anna and Elsa Read More Explore More
+*   Movie News Featured Movie News 'Batman v Superman' release date changed -- when will it come out? Read More Here's when you can see Robin William's final four movies Read More This is what the Ninja Turtles and Shredder ALMOST looked like... Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
