@@ -100,9 +100,9 @@ Policy effective January 1, 2005
 *   .
 *   Help
 *   .
-*   Privacy Policy
+*   Privacy
 *   .
-*   Terms of Use
+*   Terms
 *   .
 *   Contact Us
 
