@@ -4,6 +4,8 @@ Last Updated: July 31, 2014
 
 See also: Terms of Use  
 General Policies  
+Tutoring Policies  
+Chegg Points Program Policy  
 Intellectual Property Rights Owner Program  
 PRIVACY POLICY
 
