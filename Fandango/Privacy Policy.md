@@ -25,11 +25,11 @@ Gift Cards | Offers | Visa Signature
     *   Coldwater
     *   Life After Beth
     *   Frank
+    *   Dinosaur 13
     *   Found
     *   Ragnarok
     *   The Trip to Italy
     *   Septic Man
-    *   Fort McCoy
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -42,6 +42,7 @@ Gift Cards | Offers | Visa Signature
     *   When the Game Stands Tall
     *   As Above, So Below
     *   The November Man
+    *   The Identical
     *   No Good Deed
     *   Dolphin Tale 2
     *   The Maze Runner
@@ -70,7 +71,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News 'Batman v Superman' release date changed -- when will it come out? Read More Here's when you can see Robin William's final four movies Read More This is what the Ninja Turtles and Shredder ALMOST looked like... Read More Explore More
+*   Movie News Featured Movie News R.I.P.: Legend Lauren Bacall dies at 89 Read More Here's when you can see Robin William's final four movies Read More This is what the Ninja Turtles and Shredder ALMOST looked like... Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
