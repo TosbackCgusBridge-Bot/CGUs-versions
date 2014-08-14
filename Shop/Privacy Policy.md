@@ -198,6 +198,7 @@ Lenovo United States Select a country/region
     *   New Product Showcase
     *   Top Rated &. Best Selling Laptops
     *   Convertibles
+    *   Discover Yoga
     *   Gaming PCs
     *   See All Laptops
     *   Bags &. Carrying Cases
@@ -225,6 +226,7 @@ Lenovo United States Select a country/region
     
     Not sure what you need?
     *   New Product Showcase
+    *   Discover Yoga
     *   See All Tablets
     *   Bags &. Carrying Cases
     *   Deals
