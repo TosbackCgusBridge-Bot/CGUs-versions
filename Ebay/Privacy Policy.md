@@ -145,7 +145,7 @@ We also collect information about your interaction with our Services, advertisin
     
     *   Most mobile devices allow you to control or disable the use of location services in the device's settings' menu.
         
-    *   You may also be presented with an additional notice explaining any additional information we may collect form you that is not listed in this notice.
+    *   You may also be presented with an additional notice explaining any additional information we may collect from you that is not listed in this notice.
         
 *   Computer and connection information
     
