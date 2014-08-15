@@ -1,8 +1,8 @@
-Updated: June 25, 2012
+Updated: August 14, 2014
 
 Office Depot's Privacy Statement - Your Privacy Rights This Privacy Policy applies to information we collect from you
 
-This statement describes our privacy practices for the websites where it is posted. This includes mobile websites, text programs and applications. It also applies to information we collect in our stores or other places offline.
+This statement describes our privacy practices for the websites where it is posted. This includes mobile websites, text programs and applications. It also applies to information we collect in our stores or other places offline. To download a full copy of this Privacy Policy, click here.
 
 We collect information from you in many ways
 
@@ -14,7 +14,7 @@ We collect information from you in many ways
 
 We collect various information about you
 
-We may collect your name, email address, postal address, phone number, cell phone number, or credit card number, for example. We may ask you for information to learn more about you, like your age or products you like.
+We may collect your name, email address, postal address, phone number, cell phone number, or credit card number, for example. We may ask you for information to learn more about you, like your age or products you like. In a mobile environment, we might collect your location. We might look at how often you use the app and where you downloaded it.
 
 We use information as disclosed and described here
 
@@ -24,9 +24,9 @@ We use information as disclosed and described here
 
 **To look at site trends and customer interests.** We may use your information to make website or product improvements. We may also combine information we get from you with information we have gotten from third parties.
 
-**For security purposes.** We may use information to protect our company, our customers, or our websites.
+**For security purposes.** We may use information to protect our company, our customers, or our websites
 
-**To promote us and our various websites.** Unless we tell you otherwise, we might notify you about special promotions or offers. We might tell you about new website features or products. To manage this, follow the instructions in Your Choices, below.
+**To promote us and our various websites.** Unless we tell you otherwise, we might notify you about products, special promotions, or offers. We might tell you about new website features or products. We might also push out mobile notices for content or offers we think you might like. To manage this, follow the instructions in Your Choices, below.
 
 **To communicate with you about your account or our relationship:** We may contact you to tell you about changes to this Policy or our website Terms. We may also tell you about issues with your orders.
 
@@ -44,7 +44,7 @@ Your information may be shared when legally permitted, including in the followin
 
 **With any successor to all or part of our business.** For example, if part of our business was sold we may sell our customer list as part of that transaction.
 
-Our websites may link to third party sites or services we don't control
+Our websites may link to third party sites or services we dont control
 
 If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the information practices of that website. You should read the privacy policy of other websites carefully. We are not responsible for such third party's sites.
 
@@ -58,13 +58,19 @@ Our websites are not intended for children under 13. We take steps on these site
 
 Learn more about how to protect your child online. Read the helpful information provided by the FTC. This information includes this consumer education bulletin.
 
+We store information in the United States.
+
+Information we maintain is stored in the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
 Your choices about our marketing and tracking tools.
 
-**You can opt out of marketing emails and texts.** To stop receiving our promotional emails, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. Please indicate whether you wish to continue to receive Office Depot's catalogs and other postal mailings. To stop receiving marketing text messages, text **STOP** to 33768 (Depot), a confirmation text will be sent. If you have an account on our website, you can manage your preferences here.
+**You can opt out of marketing emails and texts.** To stop receiving our promotional emails, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. Please indicate whether you wish to continue to receive Office Depot's catalogs and other postal mailings. To stop receiving marketing text messages, text **STOP** to 33768 (Depot), a confirmation text will be sent. Or you can email us at stoptexts@officedepot.com (be sure to include your cell phone number in the email message). If you have an account on our website, you can manage your preferences here.
 
-You can control if we share information with third parties for their marketing purposes. To opt out of having us share your information with third parties for their promotional purposes, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. If you accept an offer from one of them after you opt out, we will share your information with that specific party.
+**You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, please email us (mailoptout@officedepot.com) or call us at 1-800-915-4624. If you accept an offer from one of them after you opt out, we will share your information with that specific party.
 
 **You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click here.
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an unsubscribe link.
 
 **You have other controls you can exercise.** You can choose whether or not to share personal information. If you choose not to share, some features and services may be more difficult or impossible to use. If you turn off cookies or tracking tools, parts of our site and services may also not work properly.
 
@@ -76,5 +82,9 @@ You can email us (legalgcsupport@officedepot.com) or write to us at:
 Office Depot, Inc.  
 6600 N. Military Trail  
 Delray Beach, FL 33496**
+
+We may update this Policy.
+
+From time to time, we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
 *   Back to Customer Service
