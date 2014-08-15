@@ -277,7 +277,8 @@ Some Bing-powered services and apps provide you the option to configure the serv
 *   Your Facebook information, if Facebook personalization is enabled, for use in services and apps that use social features (such as Local Scout in Maps and Cortana). See the “Connecting Facebook to Bing Services” section below for details.
 *   Your HealthVault information that you consent to use in certain Bing apps such as the Bing Health and Fitness app. Bing only displays this information and does not store it.
 *   Your personal finance information from third party financial institutions that you consent to use in the Finance app. The Finance app only displays this information and does not store it with any of your search information.  Your login credentials used to access your financial information from third parties are encrypted on your PC and are not sent to Microsoft.
-*   Information from other companies that you have configured for use, such as travel itineraries in the Travel app and subscriptions in the News app.  
+*   Information from other companies that you have configured for use, such as travel itineraries in the Travel app and subscriptions in the News app.
+*   Flurry Analytics is used in some Bing-powered aps to better understand how you use the app. For more about Flurry Analytics and information on how to opt out, please visit http://www.flurry.com/legal-privacy/end-user-opt-out.
 
   
   
