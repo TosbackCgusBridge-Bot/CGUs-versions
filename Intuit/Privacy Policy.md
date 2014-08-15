@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true 10.60.248.10 L12819807188
+true true L12823476215
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Aug 13 08:13:28 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Thu Aug 14 06:54:08 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,7 +47,9 @@ Super Saturday Sale
 
 Starts now! In store and online.
 
-shop the sale
+Stores open early Saturday, 9AM until close.
+
+shop the sale view store ad
 
 Ends Saturday, August 16.
 
@@ -67,33 +69,29 @@ Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 Online Code: 10SUPER
 
-print store coupon$15 Off\* $15
+print store coupon Night and Day Doorbusters
 
-Get a $15 off\* $15 Bonus Cash Coupon when you spend $100 or more on JCPenney gift cards in store, July 15 through August 15, 2014, redeemable August 16 through September 1, 2014.
+Excluded from store offer.
 
-\*See exclusions and details. Home Sale
+In Store Only, Friday, August 15, 3PM until close, August 16, 9AM until 1PM.
+
+view doorbusters store ad Home Sale
 
 Select items.
 
 In store and online. Ends August 24.
 
-shop the home sale30-50% Off Select Bedding shop bedding30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window shop bedding 20-50% Off Select Backpacks shop backpacks $19.99 Select Juniors' Arizona Colored Denim shop juniors' Arizona 30% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Kids' Activewear shop kids' activewear Nike Athletic Shoes For The Family
+shop the home sale40-50% Off Window shop window30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Home Decor shop home decor40-60% Off Luggage shop luggage30-50% Off Select Bedding and Bath shop bedding and bath shop curtains and drapes 30% Off Select Bras When You Buy 2 Or More shop bras 30-50% Off Select Denim For The Family shop denim 40-50% Off Select Kids' Activewear shop kids' activewear SportsFanShop
+
+Your One-Stop Shop for sports gear.
 
 Excluded from coupon.
 
-shop Nike shoes 20% Off Select Men's Nike Apparel
+shop the fan shop 20-50% Off Select Backpacks shop backpacks Nike Athletic Shoes For The Family
 
 Excluded from coupon.
 
-shop men's Nike Your One-Stop Shop For All Your Fan Gear Needs
-
-Sports Fan Shop. A Fanatics experience.
-
-Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products available for over 700 teams.
-
-Excluded from coupon.
-
-shop the fan shop JCP Rewards
+shop Nike shoes JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
