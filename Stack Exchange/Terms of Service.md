@@ -157,6 +157,10 @@ New York, NY 10038
 **Fax:** +1 (212) 785-4578  
 **Email:** dmca@stackexchange.com  
 
+16\. Government Users
+
+If you are a U.S. government user or otherwise accessing or using any Stack Exchange service in a U.S. government capacity, this Amendment to the Stack Exchange Network Terms of Service shall apply to you.
+
 Thank you!
 
   
@@ -165,4 +169,4 @@ about us work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2014 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2014.8.11.1113
+2014.8.14.1115
