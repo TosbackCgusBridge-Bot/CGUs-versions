@@ -160,7 +160,7 @@ We use cookies, web beacons, unique identifiers, and similar technologies to pro
 
 *   We may supplement the information we collect with information from third parties and add it to your account information. For example, as permitted by law, we may collect demographic information that is publically available, additional contact information, credit check information, and information from credit bureaus as allowed by law. We may combine information you give us with information we collect from other sources and use it for any purpose disclosed in this privacy notice.
     
-*   We may allow you to share information with third party social media sites, or use social media sites or other sites to create or connect to your account. Those social media sites may give us access to certain personal information stored by them Remember that you control the personal information you allow us to have access to through the privacy settings on that third party site and the permissions you give us when you grant us access. By associating an account managed by a third party with your eBay account and authorizing eBay to have access to this information, you agree that eBay may collect, use and store the information provided by these sites in accordance with this privacy notice.
+*   We may allow you to share information with third party social media sites, or use social media sites or other sites to create or connect to your account. Those social media sites may give us access to certain personal information stored by them. Remember that you control the personal information you allow us to have access to through the privacy settings on that third party site and the permissions you give us when you grant us access. By associating an account managed by a third party with your eBay account and authorizing eBay to have access to this information, you agree that eBay may collect, use and store the information provided by these sites in accordance with this privacy notice.
     
 *   If you give us personal information about someone else, you must do so only with their consent.  You agree to inform them that we have collected their personal information and tell them how we collect, use and disclose the personal information.
     
@@ -179,7 +179,7 @@ We use the personal information we collect to operate, improve and personalize o
     
 *   Give you access to your purchase history, scores, bids, internal email and other features
     
-*   Provide you with credit offers and opportunities on behalf of members of our corporate family and their financial institution partners (such as PayPal Credit, a PayPal service) who offer financial products. We would not share an financial information without your explicit consent
+*   Provide you with credit offers and opportunities on behalf of members of our corporate family and their financial institution partners (such as PayPal Credit, a PayPal service) who offer financial products. We do not share any financial information without your explicit consent
     
 *   Customize, measure, and improve our sites, applications and Services
     
@@ -328,7 +328,7 @@ Sending unwanted or threatening email is against our policies and constitutes a 
 
 **Children's Privacy**
 
-Our websites are general audience websites, and it and all of our Services are not intended for children under the age of 13. We do not knowingly collect personal information from users in this age group.
+Our websites are general audience websites, and our Services are not intended for children under the age of 13. We do not knowingly collect personal information from users in this age group.
 
 **Third Party Privacy Practices**
 
