@@ -71,7 +71,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News R.I.P.: Legend Lauren Bacall dies at 89 Read More Here's when you can see Robin William's final four movies Read More This is what the Ninja Turtles and Shredder ALMOST looked like... Read More Explore More
+*   Movie News Featured Movie News R.I.P.: Legend Lauren Bacall dies at 89 Read More Remember Robin Williams with 10 of his greatest movie moments Read More This is what the Ninja Turtles and Shredder ALMOST looked like... Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
