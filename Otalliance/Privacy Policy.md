@@ -95,7 +95,7 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Aug 13, 2014 Email Integrity Audit Webinar Join OTA for a review of the recently released Email Integrity Audit, which is a companion to the 2014 Online Trust Audit and Honor Roll report released in June 2014. This Audit provides an in depth review of email security best practices, focusing on the best practices necessary to help detect and to block spoofed and forged email. This Audit tracks the adoption of three critical email authentication standards. Sender Policy Framework (SPF), DomainKeys Identified Mail (DKIM) and Domain-based Message Authentication, Reporting &. Conformance (DMARC). Attend to learn best practices and how implementing email authentication, organizations can help protect their brands and consumers from receiving spoofed and forged email. Tue, Aug 19, 2014 Getting Threat Intelligence Exchange Right
+Tue, Aug 19, 2014 Getting Threat Intelligence Exchange Right
 
 Sharing threat intelligence isn't new. Individuals and organizations have been doing it for a long time. They've simply been doing it inefficiently and in an unsecure manner. In the mean time, the bad guys have gotten pretty good at sharing the information that allows their efforts to thrive. Now it's the good guys' turn.
 
@@ -104,6 +104,8 @@ Thu, Aug 21, 2014 Lessons Learned from the Evolution of Spam Tips to Staying Ahe
 From September 15-19 European Data Protection Authorities will conduct a "Cookie Sweep" to assess current compliance levels and the CNIL will then conduct further inspections in October using new powers which came into effect earlier this year. With the potential of increased enforcement and growing consumer privacy expectations, if your company's not compliant then there could be risk of negative media coverage and damage to your brand.
 
 Speakers include: Olivier Proust, Fieldfisher
+
+Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology
 
 *   OTA Blog
 *   Newsletters
