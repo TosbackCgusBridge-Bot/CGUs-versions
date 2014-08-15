@@ -1,4 +1,4 @@
-**PRIVACY POLICY**
+Privacy Policy
 
 Updated As of February 21, 2014.
 
