@@ -18,9 +18,9 @@ We may also receive information about you when you use certain social media serv
 
   
 
-Why does Booking.com collect, use and share your personal details?
+Why does Booking.com collect, use and share your personal data?
 
-*   Reservations: First and foremost, we use your personal information to complete and administer your online reservation and forward your reservation details to the accommodation you have booked.
+*   Reservations: First and foremost, we use your personal data to complete and administer your online reservation and forward your reservation details to the accommodation you have booked.
 *   Customer service: We provide international customer service 24/7 from our local offices in more than 20 languages. Sharing your details with our global customer service allows for a quick response when you need us – including helping you find an appropriate accommodation and any questions you might have about your reservation.
 *   Guest reviews: We may use your contact information to invite you to write a guest review after your stay. This can help other travelers choose a place to stay that suits them best.
 *   Account administration: We offer a user account facility on our website. We use the information you give us to administer this, allowing you to manage your bookings, take advantage of special offers, make future reservations more easily and manage your personal settings. Managing personal settings allows you to keep and share lists, share photos, see properties that you've searched for before, and see other information you've provided about accommodations and destinations. It also allows you to see any reviews you submitted about places you stayed in. If you want, you can share certain information in your user account by creating a public profile that’s associated with either your own first name or a screen name of your choice. The type of information you can share on this platform includes your photo, the names of places you've stayed in, your lists, your plans for future trips, your reviews and other information about accommodations and destinations.
@@ -38,7 +38,7 @@ Why does Booking.com collect, use and share your personal details?
 *   We may also send you other material related to your reservation, such as how to contact Booking.com if you need assistance while you're away, or a summary of previous reservations you made using Booking.com.
 
 *   Market research: We sometimes ask our customers to take part in market research. Any additional personal details that you give us as part of the market research will only be used with your consent.
-*   Fraud detection and prevention: We may use personal information for the detection and prevention of fraud and other illegal or unwanted activities.
+*   Fraud detection and prevention: We may use personal data for the detection and prevention of fraud and other illegal or unwanted activities.
 *   Improving our services: Finally, we use personal information for analytical purposes, to improve our services, enhance the user experience, and improve the functionality and quality of our online travel services.
 
   
