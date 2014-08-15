@@ -130,8 +130,8 @@ Aéropostale Go
     *   Bottoms
         *   Jeans
         *   Pants
-        *   Shorts
         *   Sweatpants
+        *   Shorts
     
     *   Outerwear
     
