@@ -1,4 +1,4 @@
-X Login to Tube 8 Password Forgot password? Resend activation email? Not a member yet? Sign up here Nice work!
+Nice work!
 
 You are now following .
 
