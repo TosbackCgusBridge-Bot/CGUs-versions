@@ -86,6 +86,7 @@ Lenovo United States Select a country/region
 *   Nigeria
 *   Norway
 *   Oman
+*   Pakistan
 *   Paraguay
 *   Peru
 *   Philippines
@@ -106,8 +107,8 @@ Lenovo United States Select a country/region
 *   Slovenia
 *   Somalia
 *   South Africa
-*   South Sudan
 
+*   South Sudan
 *   Spain
 *   Sri Lanka
 *   Sudan
