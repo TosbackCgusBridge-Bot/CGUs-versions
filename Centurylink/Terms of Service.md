@@ -14,7 +14,7 @@
     *   Careers
     *   Governance
     *   Legal
-*   Small - Medium Business
+*   Small Business
 *   Large Business
 
 Qwest's Acceptable Use Policy
