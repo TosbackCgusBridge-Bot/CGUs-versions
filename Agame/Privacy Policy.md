@@ -3,10 +3,10 @@ Your zone to play free online games
 Join or Login
 
 *   Home
-*   Social games
+*   Social
 *   Racing
 *   Action
-*   MMO
+*   Puzzle
 *   Sports
 *   Skill
 *   Girls
@@ -18,6 +18,7 @@ Join or Login
     *   Board &. Card
     *   Awards
     *   High scores
+    *   MMO
     *   Mobile &. Tablet Games
 
 *   Home
