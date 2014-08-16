@@ -16,6 +16,7 @@
     *   Tools
         *   Sencha Architect
         *   Sencha Animator
+        *   Sencha Cmd
     *   Management
         *   Sencha Space
     
@@ -181,6 +182,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha GXT
     *   Sencha Architect
     *   Sencha Animator
+    *   Sencha Cmd
     *   Sencha Space
 
 *   Services
