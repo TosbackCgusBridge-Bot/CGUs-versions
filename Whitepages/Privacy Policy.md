@@ -1,4 +1,4 @@
-Go to WhitePages.com  
+Go to Whitepages.com  
 Customer Support
 
 *   FAQ
@@ -12,7 +12,7 @@ Data Policy
 
 Last updated on April 9, 2013.
 
-This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your listing, please click here.
+This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your listing, please click here.
 
 **A. INFORMATION WE COLLECT FROM YOU**
 
@@ -26,7 +26,7 @@ We collect information that (i) you provide to us or authorize us to collect as 
 
 **3\. How do you use the information you collect?**
 
-We use information to (i) provide useful products and services, such as WhitePages.com, WhitePages PRO, LOOKUP, caller ID applications, and customer support, to our users. (ii) verify public information and information obtained from other sources. and (iii) help us analyze usage and effectiveness of our products and services.
+We use information to (i) provide useful products and services, such as Whitepages.com, Whitepages PRO, LOOKUP, caller ID applications, and customer support, to our users. (ii) verify public information and information obtained from other sources. and (iii) help us analyze usage and effectiveness of our products and services.
 
 **4\. With whom do you share the information you collect and why?**
 
@@ -48,7 +48,7 @@ Third parties may collect information during your visits to our websites and use
 
 **2\. How is information collected by third parties?**
 
-Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information (_e.g._, pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS information may include city, state and other information when you use our products or services on a GPS-enabled mobile device.
+Third parties may collect information by using cookies, web beacons, performance-measuring phone numbers, or GPS information. A cookie is a small file that contains a unique ID tag and stores information (_e.g._, pages visited, information voluntarily provided). A web beacon is a small graphic file used to identify if a page has been viewed. A performance measuring phone number involves collection of call-related information such as originating phone number and call duration. GPS informationmay include city, state and other information when you use our products or services on a GPS-enabled mobile device.
 
 **3\. Why do these third parties collect information?**
 
@@ -56,23 +56,23 @@ Third parties may collect information in order to (i) deliver relevant online an
 
 **4\. How will they use the information they collect? Will they share it?**
 
-Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of AdMarvel or Google. Accordingly, please review those policies for specific information.
+Collection and use of data is subject to the privacy policies of those third party companies, such as the privacy policy of AdMarvel or Google. Accordingly, please review those policies for specific information.
 
 **5\. How do I stop the collection and use of my information by third parties?**
 
-To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of WhitePages mobile app marketing program tracking, click here. To stop collection of browsing information via supporting web browsers, click here. To stop information collection for purposes of relevant online advertising, click here. At this time, there is no industry solution to opt-out of receiving relevant mobile advertising.
+To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, click here. To stop collection of browsing information via supporting web browsers, click here. To stop information collection for purposes of relevant online advertising, click here. At this time, there is no industry solution to opt-out of receiving relevant mobile advertising.
 
-To opt out of tracking on Whitepages’ mobile app marketing programs, go to our third party provider’s website by clicking here.
+To opt out of tracking on Whitepages’ mobile app marketing programs, go to our third party provider’s website by clicking here.
 
 **6\. What about interest-based advertising?**
 
-We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, click here.
+We follow the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of data for interest-based advertising) and expect third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data are asked to provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected. To stop receiving interest-based advertising, click here.
 
 **C. MISCELLANEOUS**
 
 **1\. What about children’s privacy?**
 
-Our services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13. If you know of anyone under the age of 13 whose information is published through our services, or have other concerns about children’s privacy, please write to WhitePages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at support@whitepages.com
+Our services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13. If you know of anyone under the age of 13 whose information is published through our services, or have other concerns about children’s privacy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at support@Whitepages.com
 
 **2\. How can I tell if this statement gets updated?**
 
@@ -80,7 +80,7 @@ Please see the date at the top of this statement for information about when it w
 
 **3\. How do I contact you?**
 
-If you have any questions about this policy, please write to WhitePages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at support@whitepages.com.
+If you have any questions about this policy, please write to Whitepages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101 or contact Customer Service at support@Whitepages.com.
 
   
 
@@ -89,9 +89,9 @@ If you have any questions about this policy, please write to WhitePages Privacy 
     *   Known Issues
     *   Other
     *   Text Lookup
-    *   WhitePages
-    *   WhitePages PRO
-*   Remove your information Click here to remove your personal information from WhitePages
-*   Are you a public official residing in California? Click here to remove your personal information from WhitePages
+    *   Whitepages
+    *   Whitepages PRO
+*   Remove your information Click here to remove your personal information from Whitepages
+*   Are you a public official residing in California? Click here to remove your personal information from Whitepages
 
-Copyright © WhitePages Customer Support
+Copyright © Whitepages Customer Support
