@@ -60,8 +60,8 @@ In certain circumstances, we may share your personal data with third parties.
 *   The accommodation you booked: In order to complete your reservation, we need to transfer relevant reservation details to the accommodation you booked with. This may include information like your name, contact and payment details, the names of guests traveling with you and any preferences you specified when making a booking.
 *   Other companies within the Booking.com corporate family: In order to support you during the reservation process and throughout your stay, your details may be shared with subsidiaries of the Booking.com corporate family. To find out more about the Booking.com corporate family, visit About Booking.com. Your information might also be shared with other members of the Priceline Group (Agoda.com, Rentalcars.com and Kayak.com) for analysis to provide you with travel-related offers that may be of interest to you and to offer you customized service.
 *   Third-party service providers: We may use third-party service providers to process your personal information on our behalf for the purposes specified above. For example, we may use service providers to send the reservation information on our behalf to the accommodation you just booked, or we may instruct third parties to contact you. When a reservation requires it, we may also work with third-party payment service providers to facilitate payment or payment guarantees. We also work with third-party advertisement networks to market our accommodation and services on other platforms, or involve third-party providers for analytical purposes. These third parties involved in any of these services will be bound by confidentiality agreements and will not be allowed to use your personal information for any purposes other than those specified above.
-*   Our business partners: We work with partner websites around the world to distribute the accommodations listed on our website and mobile apps. When you make a reservation on one of these business partners’ websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, as part of the administration of your account, in order to manage your reservation, so that they can address queries related to your reservation and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
-*   Competent authorities: We may share your personal information with government or investigative authorities if we are required by law (or any regulation having the force of law) to do so. Such requirements include court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if it is strictly necessary for the prevention, detection or prosecution of criminal acts.
+*   Competent authorities: We work with partner websites around the world to distribute the accommodations listed on our website and mobile apps. When you make a reservation on one of these business partners’ websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, as part of the administration of your account, in order to manage your reservation, so that they can address queries related to your reservation and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
+*   Business partners: We work with business partners around the world to distribute or advertise accommodation and to help our business partners distribute and advertise their travel-related services. This may mean that their services are integrated into our website or they have been enabled to show a customised advertisement on our website – or we are advertising on theirs. When you make a reservation on one of our business partners’ websites, certain personal data that you give them will be forwarded to us. Certain business partners may receive your personal data from us if requested by you. When you make a reservation on a business partners’ website, please read the privacy policies on these business partners’ websites for more information.
 
   
 
@@ -82,11 +82,11 @@ Cookies
 
 What is a cookie?
 
-A cookie is a small amount of data that a website places on your computer.
+A cookie is a small amount of data that is placed in the browser of your computer or on your mobile device. This Privacy and Cookies Policy applies to cookies and similar technologies (hereafter together referred to as “cookies”).
 
   
 
-Why do websites use cookies?
+Why are cookies used?
 
 Web pages have no memory. If you are surfing from page to page within a website, you will not be recognized as the same user across pages. Cookies enable your browser to be recognized by the website. So cookies are mainly used to remember the choices you have made – choices such as the language you prefer and the currency you use. They will also make sure you are recognized when you return to a website.
 
@@ -98,7 +98,7 @@ No, there are different types of cookies and different ways of using them. Cooki
 
   
 
-How does Booking.com use cookies?
+How are cookies used?
 
 Our website uses the following types of cookies:
 
@@ -121,7 +121,7 @@ You can find our cookies in your browser settings.
 
   
 
-Does Booking.com use third-party cookies?
+Does Booking.com use third-party marketing and analytics cookies?
 
 Yes, Booking.com uses the services of trusted and recognized online advertising and marketing companies. Booking.com may also use third-party providers for analytical purposes. To enable their services, these companies need to place cookies.
 
@@ -154,7 +154,7 @@ In addition to using cookies, Booking.com sometimes uses web beacons. A web beac
   
 Security
 
-What security procedures does Booking.com put in place to safeguard your personal information?
+What security procedures does Booking.com put in place to safeguard your personal data?
 
 In accordance with European data protection laws, we observe reasonable procedures to prevent unauthorized access and the misuse of personal information.
 
@@ -165,18 +165,18 @@ Your credit card details – when they are needed as part of the reservation pro
   
 Children
 
-The services offered by Booking.com are not directed at children under the age of 18. The use of any of our services is only allowed with the valid consent of a parent or a guardian. When we receive information from a child under the age of 18, we reserve the right to delete it.
+The services offered by Booking.com are not directed at children under the age of 18. The use of any of our services is only allowed with the valid consent of a parent or a guardian. If we receive information from a child under the age of 18, we reserve the right to delete it.
 
 Contact
 
-How can you control the personal information you have given to Booking.com?
+How can you control the personal data you have given to Booking.com?
 
 You always have the right to review the personal information we keep about you. You can request an overview of your personal data by emailing us at customer.service@booking.com. Please write "Request personal information" in the subject line of your email and include a copy of your identity card to help us prevent unauthorized individuals from accessing your personal data.
 
 If the personal information we have for you is incorrect, we will update it at your request. You can also ask us to remove your personal data from our customer database by sending an email to customer.service@booking.com with “Request for removal of personal information” in the subject line. However, we may need to retain certain information, for example, for legal or administrative purposes, such as record keeping or to detect fraudulent activities. You can delete your user account at any time by signing into your account on the Booking.com website and choosing to remove your account.
 
-Who is responsible for the processing of personal information on the Booking.com website and apps?
+Who is responsible for the processing of personal data on the Booking.com website and apps?
 
-Booking.com B.V. controls the processing of personal information on its websites and mobile apps. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or comments about this privacy notice, please send an email to customer.service@booking.com.
+Booking.com B.V. controls the processing of personal data on its websites and mobile apps. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or comments about this privacy notice, please send an email to customer.service@booking.com.
 
 _Last updated, February 2014_
