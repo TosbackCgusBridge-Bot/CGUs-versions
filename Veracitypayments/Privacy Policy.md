@@ -11,7 +11,7 @@ Veracity Veracity Payment Solutions is a registered ISO/MSP of Wells Fargo Bank,
 *   Associations
 *   Inside Buzz
 
-» Client Login **NEWS:** Veracity Payment Solutions Acquires Vanco Services, LLC and Appoints New Chief Executive Officer Veracity Payment Solutions Continues Momentum Implementing Payment Solutions for Small and Medium-Sized Merchants Small Business Association of Michigan Signs With Midwest Transaction Group for Member Payment Services Veracity Payment Solutions Appoints Rick Caldarella as Vice President of Product Management Veracity Payment Solutions Appoints Matt Thatcher as Executive Vice President of Business Development
+» Client Login
 
 *   Quick Links
 *   Featured Product
