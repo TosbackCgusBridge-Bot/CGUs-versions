@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12828144569
+true true C12699858122
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Aug 16 05:03:12 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Aug 17 12:27:47 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,63 +43,67 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Super Saturday Sale
-
-Starts now! In store and online.
-
-Stores open early Saturday, 9AM until close.
-
-shop the sale view store ad
-
-Ends Saturday, August 16.
-
-In Store Only
-
-$10 Off\* $25 or more.
-
-\*See exclusions and details. print store couponOnline Only
-
-Online Code: SUPRSAVN
-
-$25 Off\* $100 or more, or $10 Off\* $50 or more. Or,
-
 In Store and Online
 
-Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Select original, regular, sale and clearance-priced items.
 
-Online Code: 10SUPER
+Ends August 20.
 
-print store coupon Night and Day Doorbusters
+Online Code: GREATBUY
 
-Excluded from store offer.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
-In Store Only, Friday, August 15, 3PM until close, August 16, 9AM until 1PM.
+Or, Extra 15% Off\* with any other method of payment.
 
-view doorbusters store ad Home Sale
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Select items.
+\*See exclusions and details. print store coupon Levi's
+
+Excluded from coupon offer.
+
+shop guys' Levi's shop juniors' Levi's shop kids' Levi's
+
+$9.99 boys' Levi's logo tee.
+
+shop boys' Levi's
+
+$34.99 juniors' Levi's 518 bootcut jeans.
+
+Regularly $46.
+
+shop juniors' Levi's
+
+$39.99 guys' Levi's 511 slim jeans.
+
+Regularly $58.
+
+shop guys' Levi'sBack To School Sale
+
+Big Buys excluded from coupon offer. Get 'em while they last, through Tuesday, August 19.
+
+shop the sale view store ad Home Sale
 
 In store and online. Ends August 24.
 
-shop the home sale40-50% Off Window shop window30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Home Decor shop home decor40-60% Off Luggage shop luggage30-50% Off Select Bedding and Bath shop bedding and bath shop curtains and drapes 30% Off Select Bras When You Buy 2 Or More shop bras 30-50% Off Select Denim For The Family shop denim 40-50% Off Select Kids' Activewear shop kids' activewear SportsFanShop
+shop the home sale30-50% Off Select Bedding and Bath shop bedding and bath30-50% Off Select Kitchen and Dining shop kitchen and dining40-50% Off Select Window shop window30-50% Off Select Home Decor shop home decor shop bedding 40-50% Off Select Juniors' Arizona shop juniors' Arizona Nike Athletic Shoes For The Family
 
-Your One-Stop Shop for sports gear.
+Excluded from coupon offer.
 
-Excluded from coupon.
+shop Nike shoes 40% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Kids' Uniforms shop kids' uniforms 30-60% Off Select Fashion Jewelry shop fashion jewelry 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay Express Yourselfie
 
-shop the fan shop 20-50% Off Select Backpacks shop backpacks Nike Athletic Shoes For The Family
+Why fit in when you can stand out? Create and share your emoji style.
 
-Excluded from coupon.
+Express yourself and find a fit that lets you be you. #jcpexpressyourselfie
 
-shop Nike shoes JCP Rewards
+get started JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitnessBack To School
+sign up today A Fit For Every Workout shop fitnessSportsFanShop
 
-The perfect fit lets you be you.
+Suit up, sports gear available for hundreds of pro and college teams.
 
-shop back to school Red Zone Clearance Selections
+shop the SportsFanShop Red Zone Clearance Selections
 
 50-70% Off
 
