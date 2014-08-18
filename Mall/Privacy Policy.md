@@ -166,6 +166,7 @@ APPS
     *   Audio Encoders/Decoders
     *   Audio File Players
     *   Audio File Recorders
+    *   CD Players
     *   Multimedia Creation Tools
     *   Music Composers
     *   Other
