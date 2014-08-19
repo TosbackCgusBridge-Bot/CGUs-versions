@@ -105,7 +105,11 @@ From September 15-19 European Data Protection Authorities will conduct a "Cookie
 
 Speakers include: Olivier Proust, Fieldfisher
 
-Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology
+Mon, Sep 15, 2014 Big Data: A Tool for Inclusion or Exclusion
+
+The Federal Trade Commission will host a public workshop entitled “Big Data: A Tool for Inclusion or Exclusion?” to further explore the use of “big data” and its impact on American consumers, including low income and underserved consumers.
+
+The submission deadline for pre-workshop comments is August 15, 2014, but the comment period will be held open until October 15, 2014. The workshop will be livecast on the web.
 
 *   OTA Blog
 *   Newsletters
