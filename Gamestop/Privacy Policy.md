@@ -6,8 +6,7 @@ Chat with an Agent Live Chat Now
 
 Agents are available to chat with you now.
 
-Email Support or call:  
-**1-800-883-8895**  
+**Call: 1-800-883-8895**  
 8:00 a.m.-8:00 p.m. (CST)  
 7 days a week
 
