@@ -6,30 +6,30 @@ Gift Cards | Offers | Visa Signature
     
     *   Teenage Mutant Ninja Turtles (2014)
     *   Guardians of the Galaxy
+    *   Let's Be Cops
+    *   The Expendables 3
+    *   The Giver
     *   Into the Storm
     *   The Hundred-Foot Journey
     *   Lucy
     *   Step Up All In
+    *   Boyhood
     *   Hercules (2014)
-    *   Get On Up
-    *   Dawn of the Planet of the Apes
-    *   Planes: Fire &. Rescue
-    *   The Purge: Anarchy
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Expendables 3
-    *   The Giver
-    *   Let's Be Cops
-    *   Coldwater
-    *   Life After Beth
-    *   Frank
-    *   Dinosaur 13
-    *   Found
-    *   Ragnarok
-    *   The Trip to Italy
-    *   Septic Man
+    *   Sin City: A Dame to Kill For
+    *   If I Stay
+    *   When the Game Stands Tall
+    *   Love is Strange
+    *   Are You Here
+    *   The Possession of Michael King
+    *   Expedition to the End of the World
+    *   The Prince
+    *   The One I Love
+    *   To Be Takei
+    *   14 Blades
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -38,8 +38,6 @@ Gift Cards | Offers | Visa Signature
     
     Coming Soon
     
-    *   If I Stay
-    *   When the Game Stands Tall
     *   As Above, So Below
     *   The November Man
     *   The Identical
@@ -49,6 +47,8 @@ Gift Cards | Offers | Visa Signature
     *   A Walk Among the Tombstones
     *   Tusk
     *   This Is Where I Leave You
+    *   The Boxtrolls
+    *   The Equalizer
     *   See All Coming Soon
     
     Explore More
