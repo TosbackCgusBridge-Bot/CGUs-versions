@@ -1,4 +1,4 @@
-Telegraph Media Group comprises Telegraph Media Group Limited, VOS Media Limited and QP Magazine Limited. When we collect your information we may share it across our group companies.
+"Telegraph Media Group” includes Telegraph Media Group Limited, Telegraph Events Limited (previously VOS Media Limited) and QP Magazine Limited. When we collect your information we may share it across our group companies.
 
 This Privacy and Cookie Policy explains how Telegraph Media Group uses personal information we collect and how you can limit our use of that personal data.
 
@@ -110,4 +110,4 @@ http://www.youronlinechoices.com
 
 12.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly.
 
-_This Policy was last updated on 22nd November, 2013._
+_This Policy was last updated on 18th August, 2014._
