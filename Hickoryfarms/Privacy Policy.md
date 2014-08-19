@@ -56,7 +56,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by 3PM August 25th for Labor Day Standard Delivery!
 
 1.  Home
 2.  Customer Service
@@ -136,7 +136,7 @@ About Us
 
 Need Help?
 
-If you have any question or need help with your account, you may Contact Us to assist you.
+If you have any questions or need help with your account, you may Contact Us to assist you.
 
 Customer Service  
 Monday to Friday  
