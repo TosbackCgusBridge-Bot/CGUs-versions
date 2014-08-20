@@ -2,9 +2,8 @@ Can't find what you're looking for?
 
 If you still need answers or want to report a problem, contact our support team.
 
-Chat with an Agent Live Chat Now
-
-Agents are available to chat with you now.
+Chat with an Agent Live Chat Now  
+  
 
 **Call: 1-800-883-8895**  
 8:00 a.m.-8:00 p.m. (CST)  
