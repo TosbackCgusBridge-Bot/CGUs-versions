@@ -117,13 +117,15 @@ We do not sell or otherwise share information about you that we collect or recei
 3.  Co-Sponsored Promotions. In the event that you participate in a survey, sweepstakes, contest or other promotion that is co-sponsored by KBB and a third party, we may share information collected in conjunction with the survey, sweepstakes, contest or promotion, including personal information, with that third party. After the information is provided to those third parties, the subsequent use or disclosure of such information is subject to their privacy policies and practices. Surveys, sweepstakes and other promotions conducted on behalf of KBB and a third party will include branding from both KBB and the third party.
 4.  Promotions on behalf of Third Parties. Periodically, third parties may conduct surveys, contests, sweepstakes and other promotions for their own purpose on the KBB Sites. Information you provide in response to those activities is governed by their privacy policies. Surveys, sweepstakes and other promotions conducted solely for the purpose of a third party will include only the third party’s branding.
 5.  Sellers, Dealers and Manufacturers. Information about you, including personal information and Data Technologies, may be shared with sellers, dealers and manufacturers, and their agents and third party service providers, who will use that information in accordance with their own privacy policies. For example:
-    1.  If you are interested in a particular listing of a car for sale, information about you may be shared with the seller of that particular car or similar cars or dealers in your area;
-    2.  If you are considering trading in a car, we may provide information about you to dealers who participate in our trade-in program and other dealers in your area;
-    3.  We may provide manufacturers, their agents or third party service providers, with information about you that we provided to their franchised dealers;
-    4.  We may provide manufacturers, their agents or third party service providers, with information about you if you are interested in certified pre-owned vehicles. or
-    5.  We may provide manufacturers, their agents or third party service providers, and dealers with information about you when you access the KBB Sites via KBB branded advertising and/or functionality found on their websites or other third party websites.
-6.  Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.
-7.  Other. We may access or disclose information, including personal information, to:
+
+1.  If you are interested in a particular listing of a car for sale, information about you may be shared with the seller of that particular car or similar cars or dealers in your area;
+2.  If you are considering trading in a car, we may provide information about you to dealers who participate in our trade-in program and other dealers in your area;
+3.  We may provide manufacturers, their agents or third party service providers, with information about you that we provided to their franchised dealers;
+4.  We may provide manufacturers, their agents or third party service providers, with information about you if you are interested in certified pre-owned vehicles. or
+5.  We may provide manufacturers, their agents or third party service providers, and dealers with information about you when you access the KBB Sites via KBB branded advertising and/or functionality found on their websites or other third party websites.
+
+7.  Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.
+8.  Other. We may access or disclose information, including personal information, to:
 
 1.  protect or defend our interests and the legal rights or property of KBB and our affiliates;
 2.  protect the rights, interests, safety and security of users of the KBB Sites or members of the public;
