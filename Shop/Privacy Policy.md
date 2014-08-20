@@ -349,6 +349,7 @@ Lenovo United States Select a country/region
      
 *   Deals
     *   Current Offers
+        *   Surprise 3 Day Sale
         *   Home Laptop &. Desktop Deals
         *   Accessories Closeout Sale
         *   Deals for Students and Educators
