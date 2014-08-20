@@ -149,7 +149,7 @@ Return to Top
 
 Contacting Us  
 
-If you have other questions, comments or concerns about our privacy practices, please contact our Chief Privacy Officer, Daniel Henry, at Privacy@aa.com.
+If you have other questions, comments or concerns about our privacy practices, please contact our Chief Privacy Officer, Steven Leist, at Privacy@aa.com.
 
 Return to Top
 
