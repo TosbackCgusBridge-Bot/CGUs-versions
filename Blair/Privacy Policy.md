@@ -1,6 +1,6 @@
 A modern twist on women's classic fashion and accessories. Premium-quality clothing and accessories with a classic flair. Original silk apparel for women's and men's year-round comfort. Women's &. men's fine clothing, brand-name shoes, scrumptious food &. savvy gifts. An energetic mix of clothing, shoes &. accessories for play, travel, work or just hanging out.
 
-Shop Fashion Values for Women, Men and Home. Timeless women's apparel and shoes in famous and exclusive brands. Quality women's apparel, shoes and accessories at unbeatable value. Stylish, affordable women's fashion, footwear and accessories serving sizes 14 to 28.
+Shop Fashion Values for Women, Men and Home. Style, Comfort and Value! Timeless women's apparel and shoes in famous and exclusive brands. Quality women's apparel, shoes and accessories at unbeatable value. Stylish, affordable women's fashion, footwear and accessories serving sizes 14 to 28.
 
 Creative inspiration for the home. Products that make life easier: problem-solvers for in and around the home. Helpful products for a full, independent life at any age. Comfort. Safety. Independence
 
