@@ -143,6 +143,7 @@ Aéropostale Go
         *   Boxers
         *   Boxer Briefs
         *   Trunks
+        *   Tees
     
     *   Socks
     
