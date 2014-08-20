@@ -32,13 +32,9 @@ Gift Cards | Offers | Visa Signature
     *   14 Blades
     *   See All Opening This Week
     
-    Pre Sales Tickets
-    
-    *   Sin City: A Dame to Kill For
-    
     Coming Soon
     
-    *   As Above, So Below
+    *   As Above/So Below
     *   The November Man
     *   The Identical
     *   No Good Deed
@@ -71,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Dwayne Johnson will make two more 'Journey to the Center of the Earth' movies Read More Remember Robin Williams with 10 of his greatest movie moments Read More This is what the Ninja Turtles and Shredder ALMOST looked like... Read More Explore More
+*   Movie News Featured Movie News Dwayne Johnson may play Shazam or his nemesis Black Adam in an upcoming DC Comics adaptation Read More Joaquin Phoenix, Josh Brolin in 'Inherent Vice'. 'Star Wars' and 'Mission: Impossible' news and more Read More Will Ferrell is tackling a full-length version of what animated short film? Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
@@ -318,9 +314,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Need a Gift?**
+Offers **If I Stay Free Gift**
 
-Get $5 off gift card orders of $50 or more with promo code: BIRTHDAY BUY GIFT CARDS
+Two free soundtrack song downloads with Fandango ticket purchase. BUY TICKETS
 
 **Fifty Shades of Grey Sweepstakes**
 
@@ -330,9 +326,9 @@ Enter now for a chance to win a trip to the WORLD PREMIERE of Fifty Shades of Gr
 
 Receive movie perks and tips just for families. SIGN ME UP
 
-**Teenage Mutant Ninja Turtles Gift Cards**
+**Need a Gift?**
 
-Add turtle power to your gift giving. Give a Fandango movie gift card. BUY GIFT CARDS
+Get $5 off gift card orders of $50 or more with promo code: BIRTHDAY BUY GIFT CARDS
 
 New + Coming Soon
 
