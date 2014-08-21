@@ -75,8 +75,8 @@ Country specific provisions
   
 
 Dashlane Inc.  
-73 Spring St.  
-Room 604  
-New York, NY 10012  
+156 Fifth Ave.  
+Suite #504  
+New York, NY 10010  
 
 LAST UPDATED. July 7, 2014.
