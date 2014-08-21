@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Aug 19, 2014 Getting Threat Intelligence Exchange Right
-
-Sharing threat intelligence isn't new. Individuals and organizations have been doing it for a long time. They've simply been doing it inefficiently and in an unsecure manner. In the mean time, the bad guys have gotten pretty good at sharing the information that allows their efforts to thrive. Now it's the good guys' turn.
-
 Thu, Aug 21, 2014 Lessons Learned from the Evolution of Spam Tips to Staying Ahead of the Email Deliverability Curve Improving email deliverability is a top concern for today’s email marketers. Email campaigns must pass through different anti-spam filters, blockers, and other technologies to get to a contact’s inbox. To understand the keys to increasing email deliverability, it is necessary to understand the history of spam and the ever-changing market for spam filtering tools. By exploring how spam has evolved over time, and the tools the anti-spam industry has responded with, this webinar will help you launch email campaigns that reach your customers’ inboxes consistently Thu, Sep 4, 2014 EU Cookie Inspections: Are You Ready?
 
 From September 15-19 European Data Protection Authorities will conduct a "Cookie Sweep" to assess current compliance levels and the CNIL will then conduct further inspections in October using new powers which came into effect earlier this year. With the potential of increased enforcement and growing consumer privacy expectations, if your company's not compliant then there could be risk of negative media coverage and damage to your brand.
@@ -111,8 +107,16 @@ The Federal Trade Commission will host a public workshop entitled “Big Data: A
 
 The submission deadline for pre-workshop comments is August 15, 2014, but the comment period will be held open until October 15, 2014. The workshop will be livecast on the web.
 
+Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology
+
 *   OTA Blog
 *   Newsletters
+
+Wed, Aug 20, 2014 The Future of the Internet, Moving Past Advertising
+
+**The Future of the Internet, Moving Past Advertising**
+
+The first online ads appeared 20 years ago when HotWired pioneered online advertising with ATT. This set in motion events that no one ever imagined. Since the first 468 x 60 banner in October 1994, interactive advertising has grown to over $100 billion, fueling the majority of sites and free consumer services.
 
 Fri, Aug 8, 2014 Google &. Yahoo to join forces on encrypted email
 
@@ -133,7 +137,7 @@ Share your best practices to enable users to easily opt-out of email.  OTA's dr
 3.  **Easily read by recipients of all ages and on all devices.** 
     
 
-Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Resources
+Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
