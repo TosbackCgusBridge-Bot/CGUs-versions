@@ -214,7 +214,13 @@ If you have any questions or comments concerning our Privacy Policy, please Cont
     *   Email
 *   Comment
 
-Support comes from:
+NPR thanks our sponsors
+
+Become an NPR sponsor
+
+Support NPR NPR Shop
+
+Support The Programs You Love
 
 *   NPR Home
 *   News
@@ -234,13 +240,7 @@ Support comes from:
 *   Logout
 *   Sign In / Register
 
-NPR thanks our sponsors
-
-Become an NPR sponsor
-
-Support NPR NPR Shop
-
-Support The Programs You Love
+Support comes from:
 
 *   News
     *   U.S.
@@ -289,7 +289,6 @@ Support The Programs You Love
     *   On Point
     *   Science Friday
     *   TED Radio Hour
-    *   Tell Me More
     *   Wait Wait...Don't Tell Me!
     *   Weekend Edition Saturday
     *   Weekend Edition Sunday
