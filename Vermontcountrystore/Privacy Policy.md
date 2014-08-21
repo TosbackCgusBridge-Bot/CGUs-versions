@@ -27,6 +27,10 @@ Tracking Pixels are small images that are used by the website to identify pages 
 
 The Vermont Country Store may contract with third parties who may also use Cookies and Tracking Pixels to collect data on our behalf, or to provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited from sharing that information with anyone other than The Vermont Country Store or our partners.
 
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
+
+http://www.aboutads.info/choices or http://networkadvertising.org/choices. 
+
 Account Registration
 
 To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing you billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
