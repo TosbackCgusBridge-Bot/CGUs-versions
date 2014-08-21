@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Mary
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12834878536
+true true C12710032382
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Tue Aug 19 04:45:53 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Wed Aug 20 09:53:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -79,7 +79,7 @@ Regularly $58.
 
 shop guys' Levi'sBack To School Sale
 
-Big Buys excluded from coupon offer. Get 'em while they last, through Tuesday, August 19.
+Fits that rule the school, prices that pass the test.
 
 shop the sale view store ad Home Sale
 
