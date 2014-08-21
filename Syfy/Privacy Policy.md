@@ -263,9 +263,9 @@ Z Nation: Coming in September Z Nation: Coming in September
 
 Zombies have taken over America! Get a look at Syfy's new zombie series coming in September.
 
-Wizard Wars: Coming August 19 at 10/9c Wizard Wars: Coming August 19 at 10/9c
+Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
 
-Magicians do battle! Penn and Teller host Syfy's new competition series premiering August 19 at 10/9c.
+Clark Gregg (Agent Coulson) talks about the challenges with Marvel's first live action TV show and his love of Iron Fist.
 
 *   FAQ
 *   Feedback
