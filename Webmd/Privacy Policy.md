@@ -40,7 +40,7 @@ Symptoms| Doctors| Health Care Reform
     
     Resources
     
-    *   **Expert Blogs:** Read expert views and commentary on popular health topics.
+    *   **Second Opinion:** Read expert perspectives on popular health topics.
     *   **Communities:** Connect with people like you, and get expert guidance on living a healthy life.
     *   **Insurance Guide:** Get ready for changes to your health care coverage.
     *   **Physician Directory:** Find a doctor in your area.
@@ -192,9 +192,9 @@ Symptoms| Doctors| Health Care Reform
     
     Talk to health experts and other people like you in WebMD's Communities. It's a safe forum where you can create or participate in support groups and discussions about health topics that interest you.
     
-    WebMD Experts &. Blogs
+    WebMD Second Opinion
     
-    Read expert views and commentary on popular health topics.
+    Read expert perspectives on popular health topics.
     
     WebMD Communities
     
