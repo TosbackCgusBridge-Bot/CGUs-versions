@@ -47,11 +47,11 @@ Please follow the packing and return instructions to ensure prompt service:
 *   For the nearest UPS drop-off location visit http://www.ups.com and select the Locations Tab to find a drop-off location near you.
 *   If you need to use an alternate carrier for the return, use the return address label and make sure that your package is prepaid and insured. COD packages will not be accepted.
 
-PayPal, Bill Me Later, and V.Me by Visa Exchanges &. Returns
+PayPal, PayPal Credit and V.me by Visa Exchanges &. Returns
 
-Returns for orders placed using V.me by Visa must be made within 60 days from the date of purchase to receive credit on the card stored on your V.me by Visa account. Returns made after 60 days and prior to 6 months will be issued a refund check. Returns made after 6 months will be issued a store credit in accordance with our normal Return Policy
+Returns for orders placed using V.me by Visa, PayPal and PayPal Credit (formerly Bill Me Later) must be made within 60 days from the date of purchase to receive credit on the card stored on your V.me by Visa account. Returns made after 60 days and prior to 6 months will be issued a refund check. Returns made after 6 months will be issued a merchandise credit in accordance with our normal Return Policy
 
-Exchanges for orders placed using PayPal, V.me by Visa and Bill Me Later are different than our normal exchange policies. Exchanges cannot be accepted - if you need to make an exchange, we can give you a refund or store credit for your return and then we recommend that you place a new replacement order for the item you want. We apologize for any inconvenience.
+Exchanges for orders placed using V.me by Visa, PayPal and PayPal Credit are different than our normal exchange policies. If you need to make an exchange, we can give you a merchandise credit for your return (following the returns guidelines mentioned above), then you may place a new order for the item you want. Since items tend to sell out quickly. we recommend immediately placing an order for replacement items.
 
 DirectShip Items Only: 30-Day Return Policy and Return Process
 
