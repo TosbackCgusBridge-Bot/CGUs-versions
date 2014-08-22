@@ -117,4 +117,4 @@ vote(s)
 
 View All
 
-Items Per Page
+Items per page
