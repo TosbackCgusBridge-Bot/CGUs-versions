@@ -367,12 +367,12 @@ Founded in 2008, Tealium is the leader in enterprise tag management and digital 
 
 Recent Searches:
 
-*   Real Time Marketing
-*   Analytics Data Management
-*   Container Tags And Tag Management
-*   Enterprise Tag Management
-*   Basic Tag Management
+*   Web Analytics Tag Management
 *   Tms Tag Management System
-*   Data Platform As A Service
-*   Business Marketing Campaigns
-*   Marketing Digital
+*   Digital Marketing For Small Business
+*   What Is Tag Management System
+*   What Is Digital Marketing
+*   Data Management Technology
+*   Create Data Management
+*   Content Management System
+*   Data Distribution System
