@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   Robert
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true C12710032382
+true true L12840046901
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Wed Aug 20 09:53:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Thu Aug 21 09:13:46 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,65 +43,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+Back To School Sale
 
-Select original, regular, sale and clearance-priced items.
+A-plus style is all about cool fits at super-smart prices.
 
-Ends August 20.
+shop the sale view store adIn Store and Online
 
-Online Code: GREATBUY
+Hurry! Ends August 24.
 
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
+Online Code: GOBUYIT
+
+Extra 20% Off\* with your JCPenney Credit Card.
 
 Or, Extra 15% Off\* with any other method of payment.
 
+Original, regular, sale and clearance-priced items.
+
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Levi's
+\*See details and exclusions. print store couponNight and Day Doorbusters
 
 Excluded from coupon offer.
 
-shop guys' Levi's shop juniors' Levi's shop kids' Levi's
+In store only. Friday, August 22, 3PM until close, Saturday, August 23, 9AM until 1PM.
 
-$9.99 boys' Levi's logo tee.
-
-shop boys' Levi's
-
-$34.99 juniors' Levi's 518 bootcut jeans.
-
-Regularly $46.
-
-shop juniors' Levi's
-
-$39.99 guys' Levi's 511 slim jeans.
-
-Regularly $58.
-
-shop guys' Levi'sBack To School Sale
-
-Fits that rule the school, prices that pass the test.
-
-shop the sale view store ad Home Sale
+view doorbusters store ad Home Sale
 
 In store and online. Ends August 24.
 
-shop the home sale30-50% Off Select Bedding and Bath shop bedding and bath30-50% Off Select Kitchen and Dining shop kitchen and dining40-50% Off Select Window shop window30-50% Off Select Home Decor shop home decor shop bedding 40-50% Off Select Juniors' Arizona shop juniors' Arizona Nike Athletic Shoes For The Family
+Select styles.
+
+shop the home sale40-50% Off Select Window shop window30-50% Off Select Bedding and Bath shop bedding and bath30-50% Off Select Kitchen and Dining shop kitchen and dining30-50% Off Select Home Decor shop home decor shop curtains and drapes 40-50% Off Select Juniors' Arizona shop juniors' Arizona 20% Off Select Men's Nike Apparel
 
 Excluded from coupon offer.
 
-shop Nike shoes 40% Off Select Kids' Arizona shop kids' Arizona 40% Off Select Kids' Uniforms shop kids' uniforms 30-60% Off Select Fashion Jewelry shop fashion jewelry 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay Express Yourselfie
+shop men's Nike Nike Athletic Shoes For The Family
 
-Why fit in when you can stand out? Create and share your emoji style.
+Excluded from coupon offer.
 
-Express yourself and find a fit that lets you be you. #jcpexpressyourselfie
-
-get started JCP Rewards
+shop Nike shoes 40-50% Off Select Women's A.N.A shop women's A.N.A 40-50% Off Select Kids' Activewear shop kids' activewear 50% Off Select Baby Okie Dokie Match-Ups shop Okie Dokie match-ups JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
 sign up today A Fit For Every Workout shop fitnessSportsFanShop
 
-Suit up, sports gear available for hundreds of pro and college teams.
+Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
 shop the SportsFanShop Red Zone Clearance Selections
 
