@@ -123,15 +123,14 @@ Aéropostale Go
         *   Polos
         *   Shirts
         *   Tees
-        *   Tanks
         *   Hoodies
         *   Sweaters
     
     *   Bottoms
         *   Jeans
         *   Pants
-        *   Sweatpants
         *   Shorts
+        *   Sweatpants
     
     *   Outerwear
     
