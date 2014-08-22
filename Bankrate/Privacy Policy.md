@@ -9,7 +9,7 @@ Company Information
 *   Partnership Opportunities
 *   Honors and awards
 *   Employment opportunities
-*   Editorial, Corrections Policies
+*   Editorial Policy
 *   Email Newsletters
 *   Rate Data in print
 *   Press Room
