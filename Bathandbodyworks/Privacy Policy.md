@@ -25,7 +25,7 @@ We collect personal information directly from you to do all the things typically
 
 This information is collected at various places: for instance, when you check out with your online order. subscribe to mailers, email offers, and mobile messaging offers. participate in surveys, contests, or sweepstakes. or interact with special-event or program offers.
 
-We collect information about you and, if you provide it, we collect information about those you know. For example, we collect your gift recipient's contact information to process your gift orders. We may also collect contact information about your friends and family members when you participate in one of our refer-a-friend programs. In these instances, we may send a message to your friend or family member on your behalf. Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message from you.
+We collect information about you and, if you provide it, we collect information about those you know. For example, we collect your gift recipient's contact information to process your gift orders.
 
 On our BBW social media pages we may collect information about you and, if you allow, about your friends on the social media site, through (1) an application or form accessed through a BBW social media page which links to this privacy policy, and (2) through the BBW shopping page located on certain BBW social media pages.
 
@@ -34,7 +34,7 @@ We use this collected information to do things like:
 *   Process your online orders.
 *   Open an online account at your request.
 *   Personalize your online experience with content and offers that are tailored to your interests.
-*   Provide customer service, whether it's responding to a request or following up on an order.
+*   Provide Customer Care, whether it's responding to a request or following up on an order.
 *   Include you in surveys and contests.
 *   Facilitate networks of online social activity centered on our products and services.
 *   Manage and develop Bath &. Body Works' business and operations.
@@ -51,7 +51,7 @@ When you visit this Web site or an online channel where this policy is linked, w
 
  **b. Cookies and Clear gifs**
 
-To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer or device. It's used to do things like see how you navigate our Web site, and remember you and your online purchases when you return. This helps us improve our site, provide better customer service, tailor your online experience, and tailor offers to you based on your unique tastes, location and/or purchase history.
+To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer or device. It's used to do things like see how you navigate our Web site, and remember you and your online purchases when you return. This helps us improve our site, provide better Customer Care, tailor your online experience, and tailor offers to you based on your unique tastes, location and/or purchase history.
 
 We also use clear-gifs (also known as a Web beacon, pixel tags or Web bug) on our Web site, mobile site, microsites, and BBW social media pages and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
 
@@ -61,11 +61,11 @@ Cookies and clear gifs also allow us to associate your online navigational or tr
 
  **3. Information Others Observe or Collect through Technology**
 
-We evaluate and select third-party service providers to help us analyze our visitors' site and purchase preferences..For example, we use analytics companies to better understand our customers' use of our Web sites, mobile sites, microsites, BBW social media pages and Web capabilities like embeddable widgets. We also use third parties so that we can evaluate and understand customers' purchases in order to provide tailored offers and information, based on unique preferences. This information also allows us to improve our sites, social media pages and Web capabilities. They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology. For information about your options with respect to cookies, see "What Choices Do You have Over How your Information is Used?" below.
+We evaluate and select third-party service providers to help us analyze our visitors' site and purchase preferences. For example, we use analytics companies to better understand our customers' use of our Web sites, mobile sites, microsites, BBW social media pages and Web capabilities like embeddable widgets. We also use third parties so that we can evaluate and understand customers' purchases in order to provide tailored offers and information, based on unique preferences. This information also allows us to improve our sites, social media pages and Web capabilities. They accomplish this by using some or all of the technologies described in Information We Observe or Collect Through Technology. For information about your options with respect to cookies, see "What Choices Do You have Over How your Information is Used?" below.
 
 **HOW IS TECHNOLOGY USED TO SERVE OUR ADVERTISEMENTS ON OTHER WEB SITES AND WHAT CHOICES DO YOU HAVE?**
 
-We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third party companies place, use, or rely on technology, such as cookies and clear gifs, as customers interact with us through our Web sites and interact with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based upon a customer's shopping history and experience with us. These companies also provide information to us which we, in turn, use to gauge how effective our ads are.
+We contract with third-party advertising companies to deliver tailored online display and banner advertising to you on other Web sites. To serve this advertising, these third party companies place, use, or rely on technology, such as cookies and clear gifs, as customers interact with us through our Web sites and interact with other Web sites. Once this information is gathered, it helps us select tailored ads for placement on these other Web sites, based upon a customer's shopping history and experience with us. These companies also provide information to us, which we, in turn, use to gauge how effective our ads are.
 
 For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: \[NAI Opt Out click here\] and \[DAA Opt Out - click here\] (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems may not recognize "Do Not Track" headers from some or all browsers.
 
@@ -131,7 +131,7 @@ BACK TO TOP
 
  **1. Email**
 
-If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message. This will stop future email offers from us, but won't stop operational or transactional messages such as password reset or account related information. You may also click here or call us at 1-800-756-5005.
+If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message This will stop future email offers from us, but won't stop operational or transactional messages such as email confirmations of your online orders, or Customer Care communications. You may also click here or call us at 1-800-756-5005.
 
 We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your e-mail address with the specific third party with which you have opted in. Please review their privacy policies to see how they treat your personal information.
 
