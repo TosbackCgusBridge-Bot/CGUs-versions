@@ -25,6 +25,7 @@ Your Cart(0) Catalog Navigation
 *   Favorites
     *   Picnics
     *   Labor Day Favorites
+    *   Tailgating Favorites
     *   Summer Favorites
 *   Specials
 *   Business Gifts
@@ -51,6 +52,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Favorites
     *   Picnics
     *   Labor Day Favorites
+    *   Tailgating Favorites
     *   Summer Favorites
 *   Specials
 *   Business Gifts
