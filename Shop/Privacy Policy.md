@@ -219,11 +219,13 @@ Lenovo United States Select a country/region
         *   ThinkPad 10:10.1" Tablet with Full PC Experience
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
+        *   Lenovo Miix 2 11":11.6" Tablet with PC-Level Processor
     *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
         *   Lenovo Yoga:Sleek Convertible Ultraportables
         *   ThinkPad Helix:11.6" Premium Business Ultrabook
         *   ThinkPad Yoga:Multimode Business Ultrabook
         *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
+        *   Lenovo Miix 2 11":11.6" Tablet with PC-Level Processor
     
     Not sure what you need?
     *   New Product Showcase
@@ -349,7 +351,6 @@ Lenovo United States Select a country/region
      
 *   Deals
     *   Current Offers
-        *   Surprise 3 Day Sale
         *   Home Laptop &. Desktop Deals
         *   Accessories Closeout Sale
         *   Deals for Students and Educators
