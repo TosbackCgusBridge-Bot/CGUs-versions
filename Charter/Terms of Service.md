@@ -26,10 +26,11 @@ The links below provide you access to Charter's policies &. agreements.
     *   Espanol 2014 Annual Notice (PDF)
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
+*   DOCSIS Modem Policy
 
 New Terms and Conditions of Service (Effective 10/01/14)
 
-Charter’s Residential Terms and Conditions of Video, Internet, and Voice Services have changed. The new Residential Terms and Conditions of Service listed below shall be effective for all Charter customers on 10/01/14:
+Charter's Residential Terms and Conditions of Video, Internet, and Voice Services have changed. The new Residential Terms and Conditions of Service listed below shall be effective for all Charter customers on 10/01/14:
 
 *   Residential Services Terms and Conditions
     *   Residential General Terms and Conditions for Service
