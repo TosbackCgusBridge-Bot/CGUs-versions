@@ -95,7 +95,7 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Aug 21, 2014 Lessons Learned from the Evolution of Spam Tips to Staying Ahead of the Email Deliverability Curve Improving email deliverability is a top concern for today’s email marketers. Email campaigns must pass through different anti-spam filters, blockers, and other technologies to get to a contact’s inbox. To understand the keys to increasing email deliverability, it is necessary to understand the history of spam and the ever-changing market for spam filtering tools. By exploring how spam has evolved over time, and the tools the anti-spam industry has responded with, this webinar will help you launch email campaigns that reach your customers’ inboxes consistently Thu, Sep 4, 2014 EU Cookie Inspections: Are You Ready?
+Thu, Sep 4, 2014 EU Cookie Inspections: Are You Ready?
 
 From September 15-19 European Data Protection Authorities will conduct a "Cookie Sweep" to assess current compliance levels and the CNIL will then conduct further inspections in October using new powers which came into effect earlier this year. With the potential of increased enforcement and growing consumer privacy expectations, if your company's not compliant then there could be risk of negative media coverage and damage to your brand.
 
@@ -105,9 +105,9 @@ Mon, Sep 15, 2014 Big Data: A Tool for Inclusion or Exclusion
 
 The Federal Trade Commission will host a public workshop entitled “Big Data: A Tool for Inclusion or Exclusion?” to further explore the use of “big data” and its impact on American consumers, including low income and underserved consumers.
 
-The submission deadline for pre-workshop comments is August 15, 2014, but the comment period will be held open until October 15, 2014. The workshop will be livecast on the web.
+Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology Thu, Sep 18, 2014 OPA Content All Stars in NYC
 
-Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology
+Join OTA at the Online Publishers Association (OTA) to see who is shaping the future of marketing and media with compelling content experiences. Marketing and digital media leaders from a diverse range of businesses — from energy drinks to finance and from pop culture to the newspaper of record — will be in attendance and on the agenda. Content All Stars is a one-of-a-kind networking and learning opportunity designed to help you make connections that will matter, personally and professionally. 
 
 *   OTA Blog
 *   Newsletters
