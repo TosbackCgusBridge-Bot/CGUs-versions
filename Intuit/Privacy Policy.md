@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   TAMALA
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12845403485
+true true L12846289924
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sat Aug 23 03:29:18 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun Aug 24 06:46:59 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,11 +49,11 @@ A-plus style is all about cool fits at super-smart prices.
 
 shop the sale view store adIn Store and Online
 
-Hurry! Ends August 24.
+Ends today! Sunday, August 24.
 
 Online Code: GOBUYIT
 
-Extra 20% Off\* with your JCPenney Credit Card.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
 Or, Extra 15% Off\* with any other method of payment.
 
@@ -61,19 +61,13 @@ Original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See details and exclusions. print store couponNight and Day Doorbusters
-
-Excluded from coupon offer.
-
-In store only. Friday, August 22, 3PM until close, Saturday, August 23, 9AM until 1PM.
-
-view doorbusters store ad Home Sale
+\*See details and exclusions. print store coupon Home Sale
 
 In store and online. Ends August 24.
 
 Select styles.
 
-shop the home sale40-50% Off Select Window shop window30-50% Off Select Bedding and Bath shop bedding and bath30-50% Off Select Kitchen and Dining shop kitchen and dining30-50% Off Select Home Decor shop home decor shop curtains and drapes 40-50% Off Select Juniors' Arizona shop juniors' Arizona 20% Off Select Men's Nike Apparel
+shop the home sale40-50% Off Select Window shop window30-50% Off Select Bed and Bath shop bed and bath30-50% Off Select Kitchen and Dining shop kitchen and dining30-50% Off Select Home Decor shop home decor shop curtains and drapes 40-50% Off Select Juniors' Arizona shop juniors' Arizona 20% Off Select Men's Nike Apparel
 
 Excluded from coupon offer.
 
