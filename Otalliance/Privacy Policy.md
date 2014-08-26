@@ -107,7 +107,7 @@ The Federal Trade Commission will host a public workshop entitled “Big Data: A
 
 Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology Thu, Sep 18, 2014 OPA Content All Stars in NYC
 
-Join OTA at the Online Publishers Association (OTA) to see who is shaping the future of marketing and media with compelling content experiences. Marketing and digital media leaders from a diverse range of businesses — from energy drinks to finance and from pop culture to the newspaper of record — will be in attendance and on the agenda. Content All Stars is a one-of-a-kind networking and learning opportunity designed to help you make connections that will matter, personally and professionally. 
+Join OTA at the Online Publishers Association (OTA) to see who is shaping the future of marketing and media with compelling content experiences. Marketing and digital media leaders from a diverse range of businesses — from energy drinks to finance and from pop culture to the newspaper of record — will be in attendance and on the agenda. Content All Stars is a one-of-a-kind networking and learning opportunity designed to help you make connections that will matter, personally and professionally.   **Save 20% with code "Promo20"**
 
 *   OTA Blog
 *   Newsletters
