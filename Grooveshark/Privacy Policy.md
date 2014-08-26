@@ -19,10 +19,6 @@ Collectively, the Site and the Grooveshark Application Programming Interface ("A
 
 If you find any part of this Privacy Policy unacceptable, please discontinue your use of the Service immediately, as this Privacy Policy is integrated into, and subject to all other terms relating to your use of the Service (including those found at http://grooveshark.com/terms, http://grooveshark.com/legal/artist\_terms, and at http://grooveshark.com/apitos). Your use of any or all components of the Service constitutes a knowing acceptance and agreement to the terms and provisions of this Privacy Policy.
 
-TRUSTe Privacy Seal
-
-EMG has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices set forth herein have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your Personally Identifiable information. The TRUSTe program covers only information that is collected through this website, http://grooveshark.com and does not cover information that may be collected through downloadable software, mobile applications or that you voluntarily provide to third-parties through the Site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at support@grooveshark.com. If you are not satisfied with our response you can contact TRUSTe here.
-
 I. Key Terms
 
 *   _"Anonymous Information"_ means data that a User has submitted to the Service, or has been accumulated by the Service, that cannot reasonably be connected to or associated with any Personally Identifiable Information. This data may include, but is not limited to, averages and or totals of browser and operating system types, entry and exit pages, User, artist, or album popularity, demographic information, and amount of data transferred.
