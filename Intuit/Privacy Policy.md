@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12846289924
+true true C12720941508
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun Aug 24 06:46:59 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Mon Aug 25 03:12:30 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,13 +43,9 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Back To School Sale
+Online Only
 
-A-plus style is all about cool fits at super-smart prices.
-
-shop the sale view store adIn Store and Online
-
-Ends today! Sunday, August 24.
+Held over! Ends August 25.
 
 Online Code: GOBUYIT
 
@@ -57,33 +53,35 @@ Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit appr
 
 Or, Extra 15% Off\* with any other method of payment.
 
-Original, regular, sale and clearance-priced items.
+Select original, regular, sale and clearance-priced items.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See details and exclusions. print store coupon Home Sale
+\*See details and exclusions. 30-50% Off Home Savings
 
-In store and online. Ends August 24.
+Online only. Ends August 26.
 
-Select styles.
+Use Code: SAVNHOME.
 
-shop the home sale40-50% Off Select Window shop window30-50% Off Select Bed and Bath shop bed and bath30-50% Off Select Kitchen and Dining shop kitchen and dining30-50% Off Select Home Decor shop home decor shop curtains and drapes 40-50% Off Select Juniors' Arizona shop juniors' Arizona 20% Off Select Men's Nike Apparel
+\*See exclusions and details40% Off\* Bedding shop bedding40% Off\* Blinds and Shades shop blinds and shades30% Off\* Kitchen and Dining shop kitchen and dining50% Off\* Luggage shop luggage 40% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Kids' Arizona shop kids' Arizona 40-50% Off Select A.N.A shop A.N.A Nike Athletic Shoes For The Family
 
-Excluded from coupon offer.
-
-shop men's Nike Nike Athletic Shoes For The Family
+Your favorite styles and prices.
 
 Excluded from coupon offer.
 
-shop Nike shoes 40-50% Off Select Women's A.N.A shop women's A.N.A 40-50% Off Select Kids' Activewear shop kids' activewear 50% Off Select Baby Okie Dokie Match-Ups shop Okie Dokie match-ups JCP Rewards
+shop Nike shoes 20% Off Select Watches
+
+With Online Code: JWLRY30
+
+shop watches \*See exclusions and details. 25% Off Select Men's Underwear When You Buy 2 Or More shop men's underwear JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitnessSportsFanShop
+sign up today Your College Football Shopping Headquarters shop nowBack To School
 
-Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
+The perfect fit lets you be you.
 
-shop the SportsFanShop Red Zone Clearance Selections
+shop back to school Red Zone Clearance Selections
 
 50-70% Off
 
