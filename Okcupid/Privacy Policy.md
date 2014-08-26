@@ -25,10 +25,10 @@ OkCupid needs JavaScript to function, but you have it disabled. Check your brows
 
 Legal Information
 
-*   Terms &. Conditions
-*   Arbitration
-*   Privacy Policy
-*   Safety Tips
+*   Terms &. Conditions (0)
+*   Arbitration (0)
+*   Privacy Policy (0)
+*   Safety Tips (0)
 
 Privacy policy
 
