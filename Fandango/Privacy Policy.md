@@ -4,38 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
-    *   Teenage Mutant Ninja Turtles (2014)
     *   Guardians of the Galaxy
+    *   Teenage Mutant Ninja Turtles (2014)
+    *   If I Stay
     *   Let's Be Cops
-    *   The Expendables 3
+    *   When the Game Stands Tall
     *   The Giver
-    *   Into the Storm
+    *   The Expendables 3
+    *   Sin City: A Dame to Kill For
     *   The Hundred-Foot Journey
+    *   Into the Storm
     *   Lucy
-    *   Step Up All In
-    *   Boyhood
-    *   Hercules (2014)
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Sin City: A Dame to Kill For
-    *   If I Stay
-    *   When the Game Stands Tall
-    *   Love is Strange
-    *   Are You Here
-    *   The Possession of Michael King
-    *   Expedition to the End of the World
-    *   The Prince
-    *   The One I Love
-    *   To Be Takei
-    *   14 Blades
+    *   As Above/So Below
+    *   The November Man
+    *   Cantinflas
+    *   The Congress
+    *   Kundo: Age of the Rampant
+    *   Life of Crime
+    *   Starred Up
+    *   The Calling
+    *   Last Weekend
+    *   The Last of Robin Hood
+    *   Canopy
     *   See All Opening This Week
     
     Coming Soon
     
-    *   As Above/So Below
-    *   The November Man
     *   The Identical
     *   No Good Deed
     *   Dolphin Tale 2
@@ -45,6 +43,7 @@ Gift Cards | Offers | Visa Signature
     *   This Is Where I Leave You
     *   The Boxtrolls
     *   The Equalizer
+    *   Annabelle
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +66,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Dwayne Johnson may play Shazam or his nemesis Black Adam in an upcoming DC Comics adaptation Read More Joaquin Phoenix, Josh Brolin in 'Inherent Vice'. 'Star Wars' and 'Mission: Impossible' news and more Read More Will Ferrell is tackling a full-length version of what animated short film? Read More Explore More
+*   Movie News Featured Movie News Legendary actor-director Richard Attenborough dies at 91 Read More Will Jennifer Lawrence star in Quentin Tarantino's next movie? Read More Here's Sigourney Weaver as Cleopatra in Ridley Scott's 'Exodus' Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
@@ -326,20 +325,20 @@ Enter now for a chance to win a trip to the WORLD PREMIERE of Fifty Shades of Gr
 
 Receive movie perks and tips just for families. SIGN ME UP
 
-**Need a Gift?**
+**Guardians of the Galaxy Gift Cards**
 
-Get $5 off gift card orders of $50 or more with promo code: BIRTHDAY BUY GIFT CARDS
+Collect all 5 limited edition Guardian of the Galaxy gift cards or give your favorite. BUY GIFT CARDS
 
 New + Coming Soon
 
-*   Dawn of the Planet of the Apes
-*   Planes: Fire &. Rescue
-*   The Purge: Anarchy
-*   Hercules (2014)
-*   Lucy
 *   Guardians of the Galaxy
-*   Get On Up
 *   Teenage Mutant Ninja Turtles (2014)
+*   Big Hero 6
+*   Interstellar
+*   Penguins of Madagascar
+*   The Hunger Games: Mockingjay, Part 1 (2014)
+*   The Hobbit: The Battle of the Five Armies
+*   Annie (2014)
 
 Experience + Explore
 
