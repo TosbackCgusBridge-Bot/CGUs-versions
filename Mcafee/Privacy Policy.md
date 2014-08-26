@@ -30,9 +30,9 @@
     Every time you turn on a device, connect to a network, or open a file, you face significant risk from hackers, spammers, malware, spyware, and other forms of unauthorized access to data and systems.
     
     We work to reduce these threats in three key ways:
-    *   **Analyzing** data sent to your devices for signs of risk or suspicious activity
-    *   **Assessing** the reputation of the sending device to see whether access should be allowed
-    *   **Adapting** responses to new threats based on intelligence from our global network
+    *   **Analyzing** data sent to and from your devices for risks, threats, vulnerabilities, suspicious activity, and attacks;
+    *   **Assessing** the reputation of the sending and receiving device to see whether access should be allowed. and
+    *   **Adapting** responses to new threats based on intelligence from your device and our global network.
 *   We protect all types of data
     
     We collect personal, machine, and network/activity information when you obtain or use McAfee products, services or when you communicate with a device using McAfee services.
@@ -45,11 +45,11 @@
     
 *   It takes data to protect data
     
-    A bot is a piece of software that automatically does things when triggered to do so. Its name comes from "robot."
+    A bot is software that automatically does things when triggered to do so. Its name comes from "robot."
     
-    A virus is piece of software that spreads from one computer or device usually without the users permission. Like viruses in humans, viruses in computers or devices affect functionality. A virus can be a bot (and visa versa).
+    A virus is software that spreads from one computer or device usually without the users permission. Like viruses in humans, viruses in computers or devices affect functionality. A virus can be a bot (and visa versa).
     
-    Malware is a piece of software that can harm you or your computer or device.
+    Malware is software that can harm you or your computer or device.
     
     The more we know about a system or device that manages data under our protection, the better we can predict threats and protect you, your devices, and your information.
     
@@ -77,7 +77,7 @@
         
 *   When you give it to us, we collect your personal and non-personal data
     
-    We do not intentionally collect personal information directly from children under 13. Parents or guardians may sign up the entire family for security protection.
+    We do not knowingly collect personal information directly from children under 13 without proper parental consent. Parents or guardians may sign up the entire family for security protection.
     
     We collect your personal information when you or someone acting on your behalf provides it to us. We also collect information when you obtain or use McAfee products, services or when you communicate with a device using Mcafee's services.
     
@@ -111,17 +111,17 @@
     *   Details about your computers, devices, applications and networks (including IP address, browser characteristics, device ID and characteristics, device operating system information and system language preferences);
     *   Activities on our websites and usage patterns of products and services. referring URLs, dates and times of website visits, and clickstream data such as information commonly recorded in web server logs. and
     *   Details about Internet or network usage (such as the URLs or domain names of websites you visit, information about applications that attempt to access your network, or traffic data);
-    *   Data about files and communications, such as potential malware or spam (which may include computer files, emails and attachments, email addresses, metadata and traffic data related to files and communications, or portions or hashes -- a hash file is a file that has been converted into a numerical string by a mathematical algorithm -- of any of this information). this may include similar information from third parties interacting with you;
-    *   0ther information used in the operation of our products and services (such as information regarding the number of checked, suspicious, infected or unwanted files or emails. the number of malware infections). and
-    *   Information that may be included in a virus or malware sample or a file you consider to be suspicious that you submit to McAfee for review.
+    *   Data about files and communications, such as potential malware or spam (which may include computer files, emails and attachments, email addresses, metadata, and traffic data, or portions or hashes -- a hash file is a file that has been converted into a numerical string by a mathematical algorithm -- of any of this information). this may include similar information from third parties interacting with you;
+    *   Other information used in the operation of our products and services (such as information regarding the number of checked, suspicious, infected or unwanted files or emails. number of actual infections). and
+    *   Information that may be included in a virus or malware sample or a file you submit to McAfee for review.
     
     Like what?
     *   Details about your computers, devices, applications, and networks (including IP address, browser characteristics, device ID and characteristics, device operating system information, and system language preferences).
     *   Activities on our websites and usage patterns of products and services. referring URLs, dates and times of website visits, and clickstream data such as information commonly recorded in web server logs.
     *   Details about Internet or network usage (such as the URLs or domain names of websites you visit, information about applications that attempt to access your network, or traffic data.
-    *   Data about files and communications, such as potential malware or spam, which may include computer files, emails and attachments, email addresses, metadata and traffic data related to files and communications.
-    *   Other information used in the operation of our products and services such as information regarding the number of checked, suspicious, infected or unwanted files or emails, the number of malware infections.
-    *   Information that may be included in a virus or malware sample you submit to McAfee for review.
+    *   Data about files and communications, such as potential malware or spam (which may include computer files, emails and attachments, email addresses, metadata, and traffic data, or portions or hashes -- a hash file is a file that has been converted into a numerical string by a mathematical algorithm -- of any of this information). this may include similar information from third parties interacting with you;
+    *   Other information used in the operation of our products and services (such as information regarding the number of checked, suspicious, infected or unwanted files or emails. number of actual infections). and
+    *   Information that may be included in a virus or malware sample or a file you submit to McAfee for review.
 *   We use data to serve your security and privacy needs
     
     Provide threat prediction and protection products and services
@@ -142,7 +142,7 @@
     
     Enable posting on our blogs and forums
     
-    Improve our websites properties
+    Improve our websites, products, and services
     
     Develop new products and services
     
@@ -150,7 +150,7 @@
     
     Investigate potential claims or prohibited behavior
     
-    Comply with and enforce applicable legal policies
+    Comply with and enforce applicable legal policies and agreements
     
     *   Provide threat prediction and protection products and services
         
@@ -170,7 +170,7 @@
         
     *   Enable posting on our blogs and forums
         
-    *   Improve our websites properties
+    *   Improve our websites, products, and services
         
     *   Develop new products and service
         
@@ -178,7 +178,7 @@
         
     *   Investigate potential claims or prohibited behavior
         
-    *   Comply with and enforce applicable legal policies
+    *   Comply with and enforce applicable legal policies and agreements
         
 *   We use data to provide up-to-date protection
     
@@ -186,9 +186,7 @@
     
 *   We depend on IP addresses and other machine data to provide protection
     
-    We do not use IP addresses for marketing purposes such as online advertising or to push marketing messages.
-    
-    An Internet Protocol address (IP address) is a numerical label assigned to each device – like a computer, printer, or server – participating in a computer network that uses the Internet Protocol for communication. It is how devices such as computers find each other on the network.
+    An Internet Protocol address (IP address) is a numerical label assigned to each device -- like a computer, printer, mobile phone, or server -- participating in a computer network that uses the Internet Protocol for communication. It is how devices find each other on a network.
     
     IP addresses are an example of machine data that is crucial to security and privacy services. Though sometimes IP addresses are associated with a single individual's system, they most often are associated with a group of systems, one system shared by many users or a gateway into a group of systems or devices.
     
@@ -200,7 +198,7 @@
     
     A cookie is a piece of data stored by a website within a browser, to be remembered for when you return to the same website.
     
-    The information gathered by cookies is necessary to provide some McAfee services, including certain subscriptions and automatic updates. We do not provide those services to users who do not give their consent to the data processing carried out through cookies, or whose browsers are set to reject all cookies.
+    The information gathered by cookies is necessary to provide some McAfee services, including certain subscriptions and automatic updates. We cannot provide such services to users who do not give their consent to the data processing carried out through cookies, or whose browsers are set to reject all cookies.
     
 *   We use cookies and other technology to help us maximize the performance of our website and services
     *   Cookies are used to identify the version of McAfee products you've purchased, so that we can alert you when a newer version is available or if your subscription is about to expire or terminate.
@@ -208,43 +206,40 @@
     *   We use “web beacons” (small transparent image files) to count visitors to our sites and analyze how visitors use our sites. We don't need to know who you are to do this.
     *   We maintain log files of the traffic that visits our sites. These log files may include information such as your requests, IP address, browser type, browser language, the date and time of your request, and other cookies that may uniquely identify a system.
     *   We may work with third-party as vendors to provide relevant content.
-*   We share data with: What is an unaffiliated third party?
-    
-    An unaffiliated third party is a third-party that is not part of the McAfee family of companies.
-    
-    For example:
+    *   For more information about cookies and how McAfee responds to "do not track" signals, please see our Cookie Notice.
+*   We share data with: For example:
     
     Previous Next
     
-    *   Other members of the McAfee family of companies for the purposes described in this Privacy Notice, such as to (i) provide services and joint content (such as registration, sales, and customer support). (ii) help detect and prevent potentially illegal acts and violations of our policies. and (iii) guide our decisions about our products, services and communications.
-    *   Service providers and authorized partners who perform services for us (such as data storage, sales, fraud investigations and bill collection) based on our instructions. These third parties are not authorized by us to use or disclose personal information except as necessary to perform services on our behalf or comply with legal requirements.
-    *   Third parties with your consent. For example, co-marketing with a business partner or sharing limited information as necessary with security research analysts.
-    *   Other business entities legally related to McAfee, such as our parent company, Intel, Inc. or any third party that may take over all or part of McAfee's functions in the future (provided that such party agrees to use such personal information in a manner that is consistent with this Privacy Notice). Should a further combination occur, we will require that the new combined entity follow this Privacy Notice with respect to your personal information.
-    *   We may also disclose personal information (i) if we are required to do so by law or legal process . (ii) in response to requests by government agencies, such as law enforcement authorities or other authorized third-parties. (iii) as may be required for purposes of national security. or (iv) when we believe disclosure is necessary and appropriate to prevent physical, financial or other harm, injury or loss or in connection with an investigation of suspected or actual illegal activity or exposure to legal liability.
-    *   McAfee will not disclose your personal information to non-affiliate third parties for their own marketing purposes unless you have provided consent.
-    *   McAfee family companies may share personal information with each other and use it in a manner that is consistent with this Notice. We may also combine it with other information to provide and improve our products, services, content and advertising.
-    *   Where we share this personal information with a third party with a contractual relationship with us (such as a provider of services to McAfee) these entities must comply with standards at least as stringent as McAfee's processing standards and are limited to those standards unless you wish to create your own independent relationship with that provider.
-    *   **California Shine the Light Law**
+    *   Other members of the McAfee family of companies for the purposes described in this Privacy Notice, such as to: (i) provide services and joint content (e.g., registration, sales, and customer support). (ii) help detect and prevent potentially illegal acts and violations of our policies. and (iii) guide our decisions about our products, services, and communications.
+    *   Authorized service providers and partners who perform services for us (such as data storage, marketing, sales, fraud investigations and bill collection) based on our instructions. These third parties may only use or disclose personal information obtained from McAfee to perform services on our behalf or comply with legal obligations.
+    *   Third parties with your consent. For example, co-marketing with a business partner or sharing limited information as necessary with researchers and analysts.
+    *   Other business entities legally related to McAfee, such as our parent company, Intel, Inc. or any third party that may take over all or part of McAfee's functions in the future (provided that such party agrees to use such personal information in a manner that is consistent with this Privacy Notice).
+    *   We may also disclose personal information: (i) if we are required to do so by law or legal process . (ii) in response to requests by government agencies, such as law enforcement authorities or other authorized third-parties. (iii) as may be required for purposes of national security. (iv) when we believe disclosure is necessary and appropriate to prevent physical, mental, financial or other harm, injury or loss. or (v) in connection with an investigation of suspected or actual illegal or inappropriate activity or exposure to liability.
+    *   McAfee family companies may share personal information with each other and use it in a manner that is consistent with this Privacy Notice. We may also combine it with other information to provide and improve our products, services, content, and advertising.
+    *   When we share personal information with a third party they must contractually agree to comply with standards at least as stringent as McAfee's when we are handling similar data. When you provide data directly to the third-party, the processing is based on their standards (which may not be the same as McAfee's) and your own independent relationship with that provider.
+    *   **California Privacy Rights -- Shine the Light Law**
         
-        McAfee does not share your personal information with third parties for their own marketing use without your permission.
+        McAfee does not share your personal information with non-affiliated third parties for their own marketing use without your permission.
         
     
     For example:
-    *   Other members of the McAfee family of companies for the purposes described in this Privacy Notice, such as to (i) provide services and joint content (such as registration, sales, and customer support). (ii) help detect and prevent potentially illegal acts and violations of our policies. and (iii) guide our decisions about our products, services and communications.
-    *   Service providers and authorized partners who perform services for us (such as data storage, sales, fraud investigations and bill collection) based on our instructions. These third parties are not authorized by us to use or disclose personal information except as necessary to perform services on our behalf or comply with legal requirements.
-    *   Third parties with your consent. For example, co-marketing with a business partner or sharing limited information as necessary with security research analysts.
-    *   Other business entities legally related to McAfee, such as our parent company, Intel, Inc. or any third party that may take over all or part of McAfee's functions in the future (provided that such party agrees to use such personal information in a manner that is consistent with this Privacy Notice). Should a further combination occur, we will require that the new combined entity follow this Privacy Notice with respect to your personal information.
-    *   We may also disclose personal information (i) if we are required to do so by law or legal process . (ii) in response to requests by government agencies, such as law enforcement authorities or other authorized third-parties. (iii) as may be required for purposes of national security. or (iv) when we believe disclosure is necessary and appropriate to prevent physical, financial or other harm, injury or loss or in connection with an investigation of suspected or actual illegal activity or exposure to legal liability.
-    *   McAfee will not disclose your personal information to non-affiliate third parties for their own marketing purposes unless you have provided consent.
-    *   McAfee family companies may share personal information with each other and use it in a manner that is consistent with this Notice. We may also combine it with other information to provide and improve our products, services, content and advertising.
-    *   Where we share this personal information with a third party with a contractual relationship with us (such as a provider of services to McAfee) these entities must comply with standards at least as stringent as McAfee's processing standards and are limited to those standards unless you wish to create your own independent relationship with that provider.
-    *   **California Shine the Light Law**
+    *   Other members of the McAfee family of companies for the purposes described in this Privacy Notice, such as to: (i) provide services and joint content (e.g., registration, sales, and customer support). (ii) help detect and prevent potentially illegal acts and violations of our policies. and (iii) guide our decisions about our products, services, and communications.
+    *   Authorized service providers and partners who perform services for us (such as data storage, marketing, sales, fraud investigations and bill collection) based on our instructions. These third parties may only use or disclose personal information obtained from McAfee to perform services on our behalf or comply with legal obligations.
+    *   Third parties with your consent. For example, co-marketing with a business partner or sharing limited information as necessary with researchers and analysts.
+    *   Other business entities legally related to McAfee, such as our parent company, Intel, Inc. or any third party that may take over all or part of McAfee's functions in the future (provided that such party agrees to use such personal information in a manner that is consistent with this Privacy Notice).
+    *   We may also disclose personal information: (i) if we are required to do so by law or legal process . (ii) in response to requests by government agencies, such as law enforcement authorities or other authorized third-parties. (iii) as may be required for purposes of national security. (iv) when we believe disclosure is necessary and appropriate to prevent physical, mental, financial or other harm, injury or loss. or (v) in connection with an investigation of suspected or actual illegal or inappropriate activity or exposure to liability.
+    *   McAfee family companies may share personal information with each other and use it in a manner that is consistent with this Privacy Notice. We may also combine it with other information to provide and improve our products, services, content, and advertising.
+    *   When we share personal information with a third party they must contractually agree to comply with standards at least as stringent as McAfee's when we are handling similar data. When you provide data directly to the third-party, the processing is based on their standards (which may not be the same as McAfee's) and your own independent relationship with that provider.
+    *   **California Privacy Rights -- Shine the Light Law**
         
-        McAfee does not share your personal information with third parties for their own marketing use without your permission.
+        McAfee does not share your personal information with non-affiliated third parties for their own marketing use without your permission.
         
 *   We protect the data we share
     
-    Where we share personal information with a third party such as a provider of services to McAfee with a contractual relationship, these entities must comply with protective standards at least as stringent as McAfee processing standards and are limited to those standards unless you wish to create your own independent relationship with that provider.
+    When we share personal information with a third-party, they must agree to comply with privacy and security standards at least as stringent as McAfee's when we are handling similar data.
+    
+    When you provide data directly to non-affiliated third parties, the processing is based on their standards (which may be different from McAfee's).
     
 *   Sometimes we have to share data or personal information
     *   If required to do so by law or legal process or for purposes of national security
@@ -255,7 +250,7 @@
     
     We will only keep your personal information as long as we have a business relationship and it is needed for internal reporting or legal requirements.
     
-    *   You may unsubscribe from our marketing email communications. Go to My Account on our website
+    *   You may unsubscribe from our marketing communications. Go to My Account on our website
     *   You may change settings that control how your data is collected in our products.
     *   You may remove your personal information from a McAfee website testimonial by contacting customer service.
     *   You can also contact us at privacy@mcafee.com or any of the addresses listed in this notice to access, amend, or delete personal information we have collected from you.
@@ -266,7 +261,7 @@
     
 *   We use administrative and organizational controls to keep data secure
     
-    Access to data is restricted to authorized personnel only. Plus, thorough organizational processes ensure data is used in accordance with this notice.
+    Access to data is restricted to authorized personnel only. Plus, administrative, organizational, technical, and physical safeguards are in place to help protect your data.
     
 *   We use physical safeguards to prevent data loss or misuse
     
@@ -280,7 +275,7 @@
     
     McAfee is a globally integrated enterprise that is committed to protecting your personal and system data. We provide a consistent and extensive level of protection regardless of the country in which you or McAfee resides.
     
-    If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. McAfee is certified under the Safe Harbor privacy framework.
+    If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. McAfee is certified under the Safe Harbor Privacy Framework.
     
     We may store your information wherever McAfee and its service providers have facilities.
     
@@ -288,7 +283,7 @@
     
     Provide information to us through our websites.
     
-    Buy or license our products or services and accept the terms of user or end-user license.
+    Buy or license our products or services and accept the Terms of Use or End-User License Agreement.
     
     Sign a contract with McAfee  
     for products and services.
@@ -297,18 +292,18 @@
     
     The data for some of the services we provide may be processed in data centers in different locations.
     
-    Through these uses and interactions with McAfee Products, services or websites, you specifically consent to our collection of personal information by automated means, such as cookies, or the intended functionality of a product or service, and to our subsequent processing of the information in accordance with this Privacy Notice and to the storage and transfer of the information to locations wherever McAfee and its service providers have facilities.
+    Through these uses and interactions with McAfee products, services or websites, you specifically consent to our collection of personal information by automated means, such as cookies, or the intended functionality of a product or service, and to our subsequent processing of the information in accordance with this Privacy Notice. You also consent to the storage and transfer of your data to locations wherever McAfee and our service providers have facilities, including the United States.
     
     Translate This
     
 *   We want to hear from you
     
-    If you have questions or concerns regarding our Privacy Policy, or would like to update information we have about you or your preferences, please contact us.
+    If you have questions or concerns regarding our Privacy Notice, or would like to update information we have about you or your preferences, please contact us.
     
     **We provide access to this Privacy Notice by:**
     
     *   Linking to it throughout our websites
-    *   Referencing it in our terms of use and end user license agreements
+    *   Referencing it in our Terms of Use and End User License Agreements
     *   Incorporating it into our contracts and other legal agreements as necessary
     
     Email our Privacy Program Office at:
@@ -319,7 +314,7 @@
     
     972-963-7902
     
-    You can write to us at the legal entity with which you have a business relationship, in addition to McAfee, Inc. Both are responsible for ensuring your personal information is collected and processed according to this Notice.
+    You can write to us at the legal entity with which you have a business relationship, in addition to McAfee, Inc. Both are responsible for safeguarding your personal information.
     
     *   **For the U.S., Mexico, Central America, South America, and the Caribbean:**  
         McAfee, Inc., 2821 Mission College Blvd.  
@@ -331,9 +326,9 @@
         McAfee Co., Ltd., Shibuya Mark City West Building 12-1, Dogenzaka 1-Chrome, Shibuya-ku, Tokyo 150-0043, Japan
 *   Thank you for your trust Sometimes Privacy Policies change
     
-    We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email or via a prominent notice on our website, and where necessary we will seek the prior consent of our user.
+    We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email or via a prominent notice on our website, or other means. Where required, we will seek appropriate consent of our users.
     
-    We appreciate your decision to trust us with protecting you and your systems from privacy and security threats. Thank your for taking the time to peruse our Privacy Notice.
+    We appreciate your decision to trust us with protecting you, your data, and your systems from privacy and security threats. Thank your for taking the time to peruse our Privacy Notice.
     
     Now create your own Privacy Ninja:
     
