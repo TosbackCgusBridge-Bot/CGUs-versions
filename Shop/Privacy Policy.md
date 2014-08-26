@@ -252,6 +252,7 @@ Lenovo United States Select a country/region
         *   H Series Towers: Budget-Friendly Ultra Small Towers
         *   K Series Towers: Extreme Performance Towers
         *   Q Series Minis: Mini Home Theatre PCs
+        *   N Series All-in-Ones: Android-Based All-in-Ones
     *   Erazer Desktops Maximum Performance, Extreme Gaming
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
