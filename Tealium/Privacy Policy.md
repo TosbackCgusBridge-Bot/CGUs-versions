@@ -71,15 +71,15 @@ Tealium
 *   Education
 *   Resources
 *   Company
-*   Free 30-Day Trial
-*   Watch a Demo
+*   Free Trial
+*   Watch Demo
 
 *   Blog
 *   Contact Us
 
 *   Login
-*   Free 30-Day Trial
-*   Watch a Demo
+*   Free Trial
+*   Watch Demo
 
 Tealium IQ Enterprise Tag Management  
 Pricing• Supported Tags•Privacy•Mobile• Site Scan•Event Store•Server to Server•Join a Live Demo Tealium AudienceStream Digital Data Distribution  
