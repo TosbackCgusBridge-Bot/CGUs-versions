@@ -32,6 +32,10 @@ Gift Cards | Offers | Visa Signature
     *   Canopy
     *   See All Opening This Week
     
+    Pre Sales Tickets
+    
+    *   Forrest Gump: An IMAX Experience
+    
     Coming Soon
     
     *   The Identical
@@ -66,7 +70,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Legendary actor-director Richard Attenborough dies at 91 Read More Will Jennifer Lawrence star in Quentin Tarantino's next movie? Read More Here's Sigourney Weaver as Cleopatra in Ridley Scott's 'Exodus' Read More Explore More
+*   Movie News Featured Movie News Watch Billy Crystal's moving tribute to Robin Williams at the Emmys Read More New 'Gone Girl' teaser: whodunnit? Read More Chris Hemsworth Ready for 'Vacation. New 'Jurassic World' image honors Richard Attenborough Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
@@ -327,7 +331,7 @@ Receive movie perks and tips just for families. SIGN ME UP
 
 **Guardians of the Galaxy Gift Cards**
 
-Collect all 5 limited edition Guardian of the Galaxy gift cards or give your favorite. BUY GIFT CARDS
+Available for a limited time only. Get yours today! BUY GIFT CARDS
 
 New + Coming Soon
 
