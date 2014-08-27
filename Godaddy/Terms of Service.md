@@ -41,10 +41,9 @@ From time to time, Go Daddy may offer new Services (limited preview services or 
 
 In addition to our many free services, as described here, GoDaddy offers paid support services :
 
-*   **GetStarted - Hosting ($19.99):** up to 30      minutes with a support representative to assist with setting up your hosting      account following the getting started guide. This service is available for      cPanel, Plesk, and Managed WordPress.
-*   **GetStarted - FTP ($19.99):** A      support representative will use LogMeIn to setup the FTP client on your      computer. Up to 10 minutes.
-*   **Website Migration ($79.99):** GoDaddy will assist customer with moving customer’s website from another host to GoDaddy, includes shared, VPS, dedicated.  Please allow up to 24-hours to complete.  Website migrations are subject to the Website Transfer Service Agreement which is hereby incorporated by reference. 
-*   **3rd-party SSL install/rekey ($79.99):** GoDaddy will assist customer with installing and/or rekeying a 3rd-party SSL.
+*   **GetStarted - Hosting ($29.99):** up to 30 minutes with a support representative to assist with setting up your hosting account following the getting started guide. This service is available for cPanel, Plesk, and Managed WordPress.
+*   **Website Migration ($99.99):** GoDaddy will assist customer with moving customer’s website from another host to GoDaddy, includes shared, VPS, dedicated.  Please allow up to 24-hours to complete.  Website migrations are subject to the Website Transfer Service Agreement which is hereby incorporated by reference. 
+*   **3rd-party SSL install/rekey ($99.99):** GoDaddy will assist customer with installing and/or rekeying a 3rd-party SSL.
 *    **VPS Services**: described here:
 *   *   Advanced Performance Analysis ($79.00)
     *   Apache Tuning ($79.00)
