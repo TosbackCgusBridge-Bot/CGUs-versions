@@ -176,24 +176,28 @@ Lenovo United States Select a country/region
 
 *      Laptops   
     
-    *   ThinkPad Laptops Premium Performance, Legendary Reliability
-        *   T Series: Premium Laptops
-        *   X Series: Thin and Light Laptops
-        *   ThinkPad Yoga: Multimode Business Ultrabook
-        *   E Series: Preferred Small-Business Laptops
-        *   ThinkPad Helix: Detachable Ultrabook With Four Modes
-        *   L Series: Mainstream Laptops
-        *   W Series: Portable Workstations
-        *   ThinkPad 11e: Rugged Laptops
-    *   Lenovo Laptops Stylish Design, Maximum Fun
-        *   Y Series: Premium Multimedia Laptops
-        *   Yoga Series:Sleek Convertible Ultraportables
-        *   Z Series: Mainstream Entertainment Laptops
+    *   Business &. Home Office All about productivity: affordable or premium, home or go.
+        *   ThinkPad X: Thin and Light Laptops
+        *   ThinkPad T: Legendary Business Tools
+        *   ThinkPad W: Mobile Workstations
+        *   ThinkPad Yoga: Mulitmode Business Laptops
+        *   ThinkPad E: Stylish Business Laptops
+        *   ThinkPad L: Affordable Businsess
+        *   ThinkPad Helix: Detatchable Business Ultrabookss
+    *   Entertainment &. Gaming Casual, social or extreme multimedia - choose the way you play.
+        *   Y Series: Powerful Gaming On-the-Go
+        *   Yoga Series: Sleek Convertible Ultrabook
+        *   Z Series: Affordable Entertainment
         *   Flex Series: Mainstream Multimode Laptops
-        *   U Series: Designer Laptops/Ultrabooks
+        *   U Series: Designer Laptops and Ultrabooks
+    *   Student Durable &. fully-functional options for the classroom or dorm room.
+        *   ThinkPad 11E: Rugged Laptops
+        *   G Series: Affordable Everyday Laptops
         *   S Series: Entry-Level Ultraportables
+        *   ThinkPad E: Stylish Business Laptops
+        *   ThinkPad Yoga: Multimode Business Laptops
+        *   ThinkPad L: Value and Reliability
         *   N Series: Affordable Chromebooks
-        *   G Series: Everyday Laptops
     
     Not sure what you need?
     *   New Product Showcase
