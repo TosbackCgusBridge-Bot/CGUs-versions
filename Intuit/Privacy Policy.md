@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12720941508
+true true C12722493664
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Mon Aug 25 03:12:30 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Tue Aug 26 07:44:50 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,21 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Held over! Ends August 25.
-
-Online Code: GOBUYIT
-
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Select original, regular, sale and clearance-priced items.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See details and exclusions. 30-50% Off Home Savings
+30-50% Off Home Savings
 
 Online only. Ends August 26.
 
@@ -66,8 +52,6 @@ Use Code: SAVNHOME.
 \*See exclusions and details40% Off\* Bedding shop bedding40% Off\* Blinds and Shades shop blinds and shades30% Off\* Kitchen and Dining shop kitchen and dining50% Off\* Luggage shop luggage 40% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Kids' Arizona shop kids' Arizona 40-50% Off Select A.N.A shop A.N.A Nike Athletic Shoes For The Family
 
 Your favorite styles and prices.
-
-Excluded from coupon offer.
 
 shop Nike shoes 20% Off Select Watches
 
