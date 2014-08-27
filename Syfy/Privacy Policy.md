@@ -255,13 +255,13 @@ Syfy Video Syfy - Imagine Greater Syfy - Imagine Greater
 
 Take a glimpse at Syfy's greatest moments with current shows and shows yet to come. Syfy Imagine Greater
 
-Exclusive: Guillermo del Toro Tour of Crimson ... Exclusive: Guillermo del Toro Tour of Crimson Peak at SDCC
-
-Guillermo del Toro gives us an exclusive tour of the Crimson Peak activation at Comic-Con which he designed himself.
-
 Z Nation: Coming in September Z Nation: Coming in September
 
 Zombies have taken over America! Get a look at Syfy's new zombie series coming in September.
+
+Exclusive: Guillermo del Toro Tour of Crimson ... Exclusive: Guillermo del Toro Tour of Crimson Peak at SDCC
+
+Guillermo del Toro gives us an exclusive tour of the Crimson Peak activation at Comic-Con which he designed himself.
 
 Exclusive: Clark Gregg on Iron Fist and Agent ... Exclusive: Clark Gregg on Iron Fist and Agents of Shield
 
