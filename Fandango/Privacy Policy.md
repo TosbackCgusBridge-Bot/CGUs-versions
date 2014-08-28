@@ -70,7 +70,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Watch Billy Crystal's moving tribute to Robin Williams at the Emmys Read More New 'Gone Girl' teaser: whodunnit? Read More Chris Hemsworth Ready for 'Vacation. New 'Jurassic World' image honors Richard Attenborough Read More Explore More
+*   Movie News Featured Movie News Meet the newest Pixar heroine, the little girl of 'Inside Out' Read More News Bites: Richard Pryor biopic casting news, and Tom Hanks will star in a new Dan Brown movie Read More Geek out on these Marvel Easter egg videos. find out how to get your own Groot Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
