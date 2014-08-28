@@ -1,6 +1,6 @@
-Security &. Privacy
+Click here for Global Privacy Policies. Security &. Privacy
 
-Coach, Inc. (the "Company") and our brands value your trust. We collect certain information when you visit our U.S. site www.coach.com (the “Site”), in order to improve your shopping experience and allow us to better communicate with you regarding our products and services. This privacy policy is intended to assist you in understanding what information we gather when you visit the Site, how we use that information, and the safeguards we have in place to protect the information. This privacy policy only applies to information we collect at www.coach.com.
+Coach, Inc. (the "Company") and our brands value your trust.We collect certain information when you visit our U.S. site www.coach.com (the "Site"), in order to improve your shopping experience and allow us to better communicate with you regarding our products and services. This privacy policy is intended to assist you in understanding what information we gather when you visit the Site, how we use that information, and the safeguards we have in place to protect the information. This privacy policy only applies to information we collect at www.coach.com.
 
 By using and submitting information to our Site, you are agreeing that we may collect, use and disclose the information we collect in accordance with the purposes and uses identified in this policy. For other terms and conditions that apply to your use of the Site, please review our Legal Statement.
 
@@ -10,7 +10,7 @@ Personal Information
 For purposes of this privacy policy, "personal information" means any information by which someone can be personally identified, including name, address, telephone number, email address, billing and account information, credit or debit card information, and other information incidental to providing goods or services. We collect personal information from you only when you voluntarily provide us with this information, such as when placing an order through the Site or registering your Coach product on the Site. establishing an account or adding information to your account such as by setting up a wish list, gift reminders, or address book entries. entering a contest. taking a survey. contacting us with a comment or question. requesting a catalog. signing up to receive emails about our latest products and services. requesting to receive investor alerts. or applying for a job online. While not personal information by itself, the Company also collects and retains information about purchases you make on the Site.
 
 Browsing Information. Cookies  
-When you visit the Site, our web servers may automatically recognize certain non-personally identifiable information about you, such as your domain name, access provider, IP address, and browser language. The Site also uses a browser feature known as a cookie, which assigns a unique identification to your computer. The information collected from cookies allows us to provide better customer service to you and improve features of our Site in a variety of ways, including by determining whether you have visited the Site in the past and which pages of our Site you have visited. We also may use cookies and/or a technology known as clear gifs to help us confirm your receipt of and response to our emails and to provide you a more personalized experience. Please note that certain pages of the Site may not function properly if cookies are turned off. Please consult your web browser’s Help documentation for more information about how to turn cookies on and off your browser.
+When you visit the Site, our web servers may automatically recognize certain non-personally identifiable information about you,such as your domain name,access provider, IP address, and browser language. The Site also uses a browser feature known as a cookie, which assigns a unique identification to your computer. The information collected from cookies allows us to provide better customer service to you and improve features of our Site in a variety of ways, including by determining whether you have visited the Site in the past and which pages of our Site you have visited. We also may use cookies and/or a technology known as clear gifs to help us confirm your receipt of and response to our emails and to provide you a more personalized experience. Please note that certain pages of the Site may not function properly if cookies are turned off. Please consult your web browser’s Help documentation for more information about how to turn cookies on and off your browser.
 
 We may use third party advertising companies to serve Company advertisements on our Site or other sites you may visit. To accomplish this, these companies may employ anonymous cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and understand your visits to our Site and other web sites. These selected companies also provide this information to us which we use for marketing purposes. If you would like more information about this practice click here.
 
@@ -64,20 +64,50 @@ Coach Consumer Service
 One Coach Way  
 Jacksonville, Florida 32218  
 1-800-444-3611 or 1-904-741-3090  
-M-F 8 am – 11 pm EST  
-Sat 9 am – 7 pm EST  
-Sun 11 am – 7 pm EST  
+M-F 8 am - 11 pm EST  
+Sat 9 am - 7 pm EST  
+Sun 11 am - 7 pm EST  
 
 When contacting us, please be sure to provide us with your exact email address, name, mailing address and/or telephone number(s) in order to be sure we handle your request correctly.
 
-Following any of these requests, some of your personal information may be retained for a period of time. for example, to process a pending transaction you have made through the Site, to follow-up on a request, resolve a dispute, or for similar reasons. Some personal information also may continue to be stored on “back up” files for financial, legal or technical reasons.
+Following any of these requests, some of your personal information may be retained for a period of time. for example, to process a pending transaction you have made through the Site, to follow-up on a request, resolve a dispute, or for similar reasons. Some personal information also may continue to be stored on "back up" files for financial, legal or technical reasons.
 
 If you do not wish to receive email from Coach in the future, you can unsubscribe by clicking on the unsubscribe link at the bottom of any Coach email that you receive, emailing us at comments@coach.com with your request to be removed from our email list, by calling consumer services at (800) 444-3611 or by clicking here.
 
 UPDATING THIS POLICY. NOTICES
 
-**The Company reserves the right, at its discretion, to change, modify, add, or remove portions of this privacy policy at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this privacy policy will be considered your consent to those changes.** **In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, to the extent we have your email address, we may notify you by email.**
+The Company reserves the right, at its discretion, to change, modify, add, or remove portions of this privacy policy at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this privacy policy will be considered your consent to those changes.In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, to the extent we have your email address, we may notify you by email.
 
 **EFFECTIVE DATE**
 
 This policy is effective February 3, 2010.
+
+Click on the country below to access your local privacy policy:
+
+**EUROPE**  
+France  
+Ireland  
+Portugal  
+Spain  
+United Kingdom **AMERICAS**  
+Brazil  
+Chile  
+Colombia  
+Mexico  
+Panama  
+Peru  
+Venezuela **ASIA PACIFIC**  
+Australia  
+China  
+Hong Kong  
+Indonesia  
+Japan  
+Korea  
+Malaysia  
+Singapore  
+Taiwan  
+Thailand  
+Vietnam  
+**MIDDLE EAST**  
+United Arab Emirates  
+Saudi Arabia
