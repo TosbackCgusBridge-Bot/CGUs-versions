@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12722493664
+true true L12853614530
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Tue Aug 26 07:44:50 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Aug 27 04:39:36 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,21 +43,29 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-30-50% Off Home Savings
+In Store and Online
 
-Online only. Ends August 26.
+Ends Monday, September 1.
 
-Use Code: SAVNHOME.
+Online Code: BUYNOW
 
-\*See exclusions and details40% Off\* Bedding shop bedding40% Off\* Blinds and Shades shop blinds and shades30% Off\* Kitchen and Dining shop kitchen and dining50% Off\* Luggage shop luggage 40% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Kids' Arizona shop kids' Arizona 40-50% Off Select A.N.A shop A.N.A Nike Athletic Shoes For The Family
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
-Your favorite styles and prices.
+Or, Extra 15% Off\* with any other method of payment.
 
-shop Nike shoes 20% Off Select Watches
+Select original, regular, sale and clearance-priced items.
 
-With Online Code: JWLRY30
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-shop watches \*See exclusions and details. 25% Off Select Men's Underwear When You Buy 2 Or More shop men's underwear JCP Rewards
+\*See exclusions and details. print store coupon Home Sale
+
+Select styles.
+
+shop the home sale30-50% Off Bedding and Bath shop bedding and bath40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window shop bedding Red Zone Extra 25% Off Clearance
+
+In store only
+
+find a store 30-40% Off Select Worthington shop Worthington 40-50% Off Select Kids' Activewear shop kids' activewear 40% Off Select Bras When You Buy 2 Or More shop bras 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 25% Off Select Men's Underwear When You Buy 2 Or More shop men's underwear $39.99 Select Juniors' Arizona Boots shop juniors' Arizona boots JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -65,11 +73,7 @@ sign up today Your College Football Shopping Headquarters shop nowBack To School
 
 The perfect fit lets you be you.
 
-shop back to school Red Zone Clearance Selections
-
-50-70% Off
-
-shop clearance Round Up and Let Your Change Create Real Change
+shop back to school Red Zone Clearance Selections shop clearance Round Up and Let Your Change Create Real Change
 
 Help ensure the arts remain an essential element of the school experience by rounding up your JCPenney purchases to the nearest dollar.
 
