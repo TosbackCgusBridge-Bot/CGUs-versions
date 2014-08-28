@@ -14,7 +14,7 @@
 
 PLEASE READ ALL OF THE FOLLOWING TERMS AND CONDITIONS OF SERVICE FOR THIS WEB SITE ("TOS") BEFORE USING THIS SITE. By continuing to access, link to, or use this site, or any service on this site, you signify YOUR ACCEPTANCE OF THE TOS. Bloomberg L.P. (“BLP”) reserves the right to amend, remove, or add to the TOS at any time. Such modifications shall be effective immediately. Accordingly, please continue to review the TOS whenever accessing, linking to, or using this site. Your access, link to, or use of the site, or any service on this site, after the posting of modifications to the TOS will constitute YOUR ACCEPTANCE OF THE TOS, as modified. If, at any time, you do not wish to accept the TOS, you may not access, link to, or use the site. Any terms and conditions proposed by you which are in addition to or which conflict with the TOS are expressly rejected by BLP and shall be of no force or effect.
 
-A. General Termsback to top 1. User Consent to the TOS.
+A. General Terms back to top 1. User Consent to the TOS.
 
 You represent that you have read and agree to be bound by the TOS.
 
@@ -90,7 +90,7 @@ The TOS and any other terms and conditions of service on this site, and its succ
 
 Bloomberg University is not an accredited program or institution, and is provided by BLP on behalf of Bloomberg Finance L.P. for informational purposes only. You understand, acknowledge, and agree that Bloomberg University in no way shall be considered as conforming with any educational standards or qualifications prescribed by any private or governmental entity.
 
-B. LINKING AND FRAMING TERMS AND CONDITIONSback to top
+B. LINKING AND FRAMING TERMS AND CONDITIONS back to top
 
 **YOU MAY NOT LINK TO OR FRAME THIS WEB SITE, OR ANY PORTION THEREOF, EXCEPT AS PROVIDED HEREIN.**
 
@@ -106,19 +106,13 @@ Without limiting other provisions contained in our TOS, you may include a link(s
 
 BLP is concerned about the integrity of this Web site when it is accessed in a manner solely determined by third parties or viewed in a setting solely created by third parties. Specifically, BLP is concerned with activities such as bringing up or presenting content of this Web site within another Web site ("framing"). In this regard, without limiting the provisions contained in our TOS, you may not frame any Web page from Bloomberg.com, except with our express written permission. Further, you may not archive, cache, or mirror any Bloomberg.com Web page or portions of a Web page. If you would like to use, reprint, frame, or redistribute any Bloomberg.com content other than as permitted herein, you must request permission from BLP by writing to FEEDBACK. Please include: (a) your name, e-mail address, and telephone number. (b) the name of your company. (c) the Web site address(es) where the proposed use will occur. and (d) specific details about the contemplated linking or framing activities, including the content or Web page(s) of this Web site which you would like to use.
 
-Registration Form
-
-By filling out the following required information, you agree that you have read the above Linking Terms and agree to be bound by them:
-
-Note: All fields required.
-
-First Name: Last Name: Company Name: E-mail: Phone Number: URL To Link From: C. INQUIRIES REGARDING THIS SITE'S CONTENT back to top
+C. INQUIRIES REGARDING THIS SITE'S CONTENT back to top
 
 Click here for inquiries regarding this site's content.
 
 Click here for the Bloomberg FAQ.
 
-D. INTELLECTUAL PROPERTY ISSUESback to top 1. General Inquiries:
+D. INTELLECTUAL PROPERTY ISSUES back to top 1. General Inquiries:
 
 Please send general inquiries regarding intellectual property issues to FEEDBACK
 
@@ -134,13 +128,13 @@ E. PRIVACY POLICY FOR THIS WEB SITE back to top
 
 Click here for this site's privacy policy
 
-F. E-Commerce Directive Informationback to top
+F. E-Commerce Directive Information back to top
 
 Bloomberg LP is authorized and regulated by the Financial Services Authority (the "FSA") under reference number 206006 on its Register of Firms http://www.fsa.gov.uk/register/. The FSA can be contacted by calling +44 20 7676 1000, by visiting www.fsa.gov.uk, or by writing to The Financial Services Authority, 25 The North Colonnade, London E14 5HS, England.
 
 The contact at our New York office is: Paul Ramundo Phone: +1 (212) 617-7816 Fax: +1 (917) 369-3801 Email: Pramundo@bloomberg.net.
 
-G. Telecommunication Terms for Taiwanese Customersback to top
+G. Telecommunication Terms for Taiwanese Customers back to top
 
 美商彭博新聞有限公司台北分公司 彭博高速資訊網路業務營業規章
 
@@ -166,6 +160,6 @@ G. Telecommunication Terms for Taiwanese Customersback to top
 
 第二十條 本營業規章自公告日起施行，於有變更時亦同。
 
-H. RULES MANAGED BY BLOOMBERG COLOMBIA LLCback to top
+H. RULES MANAGED BY BLOOMBERG COLOMBIA LLC back to top
 
 Click here for GENERAL AND OPERATIONAL RULES OF THE INFORMATION SYSTEM MANAGED BY BLOOMBERG COLOMBIA LLC (REGLAMENTO GENERAL Y OPERATIVO DEL SISTEMA DE INFORMACIÓN ADMINISTRADO POR BLOOMBERG COLOMBIA LLC)
