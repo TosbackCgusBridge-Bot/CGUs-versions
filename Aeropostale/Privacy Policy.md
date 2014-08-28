@@ -63,6 +63,7 @@ Aéropostale Go
         *   Flats
         *   Flip Flops
         *   Sandals
+        *   Heels
     
     *   Bras
     
