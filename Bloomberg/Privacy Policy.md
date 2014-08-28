@@ -1,4 +1,4 @@
-Last Updated: July 25, 2014
+Last Updated: July 15, 2014
 
 Bloomberg L.P. ("BLP") respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to this Web site, any newsletters subscribed to via this Web site, information collected and provided to BLP when you subscribe to the digital edition of Bloomberg Businessweek at third-party websites and applications, and information collected offline when you subscribe to the print edition of Bloomberg Businessweek, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by BLP, its general and limited partners, and its subsidiaries, and their respective general partners and affiliates (collectively "Bloomberg"), unless expressly indicated by Bloomberg (such as by including a link to this Privacy Policy on other Bloomberg websites or on Bloomberg mobile applications).
 
@@ -18,7 +18,7 @@ Most browsers are set to accept cookies by default. If you prefer, you can usual
 
 Advertisements
 
-BLP, its designated service providers, or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on this Web site or on other websites. Information about your visits to, and activity on, this Web site and other websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browser’s cookie when a browser visits this Web site, and to learn which banner ads bring users to this Web site. The use and collection of your information by these third-party service providers, and third-party advertisers and their advertising servers is not covered by this Privacy Policy. BLP adheres to the industry’s Self-Regulatory Principles for Online Behavioral Advertising located here. To "opt out" of advertising cookies placed by participating companies in the Self-Regulatory Program for Online Behavioral Advertising, and thereby limit the tracking of your online activity and the targeted advertising you receive, please click here. To "opt out" of advertising cookies placed by the Network Advertising Initiative’s ("NAI") online behavioral advertising member networks, and thereby limit the tracking of your online activity and the targeted advertising you receive, please click here. Note that even if you opt out of cookies placed by the NAI member networks, you will still receive online advertising. To opt out of Google Analytics for Display Advertising, please click here.
+BLP, its designated service providers, or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on this Web site or on other websites. Information about your visits to, and activity on, this Web site and other websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browser’s cookie when a browser visits this Web site, and to learn which banner ads bring users to this Web site. The use and collection of your information by these third-party service providers, and third-party advertisers and their advertising servers is not covered by this Privacy Policy. For information about online behavioral advertising networks and how to "opt out" of advertising cookies placed by the Network Advertising Initiative’s ("NAI") member networks, please click here. Note that even if you opt out of cookies placed by the NAI member networks, you will still receive online advertising. To opt out of Google Analytics for Display Advertising, please click here.
 
 BLP’s designated service providers assist BLP with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please click here.
 
@@ -38,7 +38,7 @@ Any personal information you provide to BLP is kept on secure servers. BLP uses 
 
 Accessing and Updating Your Personal Information
 
-To access, review, rectify, or delete your personal information covered by this Privacy Policy, please contact us by clicking here and choosing the Other Category. All requests must include the following information: first name, last name, and email address and "Privacy" in the Subject Line. While BLP will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
+To access, review, rectify, or delete your personal information covered by this Privacy Policy, please contact us by clicking here. While BLP will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
 
 Transfer of Personal Information To Other Countries
 
@@ -50,7 +50,7 @@ BLP may provide links to third-party websites, including social networking websi
 
 Questions Regarding This Privacy Policy
 
-If you have questions regarding this Privacy Policy, please contact us by clicking here and choosing the Other Category. Please include "Privacy" in the Subject Line of your inquiry.
+If you have questions regarding this Privacy Policy, please contact us by clicking here.
 
 Your California Privacy Rights
 
@@ -58,7 +58,7 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include "California Privacy Rights" in the Subject line of your email.
 
-You may also make such a request by writing to us at: Bloomberg L.P. Attn: Legal Department 731 Lexington Avenue New York, NY 10022
+You may also make such a request by writing to us at: Bloomberg L.P. Bloomberg L.P. Attn: Legal Department 731 Lexington Avenue New York, NY 10022
 
 Modifications To This Privacy Policy
 
