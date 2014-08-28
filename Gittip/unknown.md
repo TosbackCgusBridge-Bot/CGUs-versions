@@ -1,4 +1,4 @@
-This page collects Gittip fraud incident reports.
+This page collects Gratipay fraud incident reports.
 
 1.  2012-11-05 - The Delpan Incident
 
