@@ -146,6 +146,8 @@ Aéropostale Go
     
     *   Socks
     
+    *   Cold Weather
+    
     *   Accessories
         *   Hats
         *   Watches
