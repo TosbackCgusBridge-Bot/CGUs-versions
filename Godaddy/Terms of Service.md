@@ -41,21 +41,9 @@ From time to time, Go Daddy may offer new Services (limited preview services or 
 
 In addition to our many free services, as described here, GoDaddy offers paid support services :
 
-*   **GetStarted - Hosting ($29.99):** up to 30 minutes with a support representative to assist with setting up your hosting account following the getting started guide. This service is available for cPanel, Plesk, and Managed WordPress.
-*   **Website Migration ($99.99):** GoDaddy will assist customer with moving customer’s website from another host to GoDaddy, includes shared, VPS, dedicated.  Please allow up to 24-hours to complete.  Website migrations are subject to the Website Transfer Service Agreement which is hereby incorporated by reference. 
-*   **3rd-party SSL install/rekey ($99.99):** GoDaddy will assist customer with installing and/or rekeying a 3rd-party SSL.
-*    **VPS Services**: described here:
-*   *   Advanced Performance Analysis ($79.00)
-    *   Apache Tuning ($79.00)
-    *   MySQL Tuning ($79.00)
-    *   Security Scan &. Audit (SSA) ($79.00)
-    *   Intrusion Prevention ($79.00)
-    *   Custom Firewall Rules ($79.00)
-    *   Application Support ($79.00)
-    *   PHP Version Upgrade ($79.00)
-    *   Database Management ($79.00)
-    *   Malware &. Blacklist Removal ($79.00)
-    *   PHP Module Installation ($79.00)
+*   **GetStarted - Hosting:** up to 30 minutes with a support representative to assist with setting up your hosting account following the getting started guide. This service is available for cPanel, Plesk, and Managed WordPress.
+*   **Website Migration:** GoDaddy will assist customer with moving customer’s website from another host to GoDaddy, includes shared, VPS, dedicated.  Please allow up to 24-hours to complete.  Website migrations are subject to the Website Transfer Service Agreement which is hereby incorporated by reference. 
+*    **VPS Services**: described here.
 
 You acknowledge and agree that you have the necessary rights and permissions to share all information necessary to provide the Services with GoDaddy.  You acknowledge and agree that the Services may be provided by independent contractors or third party service providers. 
 
