@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12853614530
+true true C12731576868
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Aug 27 04:39:36 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Thu Aug 28 10:15:55 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,6 +45,8 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
+Select original, regular and sale and clearance-priced items.
+
 Ends Monday, September 1.
 
 Online Code: BUYNOW
@@ -53,27 +55,50 @@ Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit appr
 
 Or, Extra 15% Off\* with any other method of payment.
 
-Select original, regular, sale and clearance-priced items.
-
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Home Sale
+\*See exclusions and details. print store coupon
 
-Select styles.
+*   Labor Day Home Sale
+    
+    Select styles.
+    
+    shop the sale30-50% Off Bedding shop bedding40-50% Off Window shop window40-50% Off Furniture shop furniture30-50% Off Kitchen and Dining shop kitchen and dining view store ad
+*   40-50% Off Juniors' and Guys' Arizona
+    
+    Select styles.
+    
+    shop juniors' arizona
+    
+    Arizona Jean Co., only at JCPenney.
+    
+    shop Arizona shop juniors' arizona shop guys' arizona shop guys' arizonaLabor Day Sale
+    
+    A fitting send-off for summer's last hoorah.
+    
+    shop the saleBig Buys
+    
+    In store and online. Now through Monday, while they last.
+    
+    Excluded from coupon offer.
+    
+    view store ad
 
-shop the home sale30-50% Off Bedding and Bath shop bedding and bath40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window shop bedding Red Zone Extra 25% Off Clearance
+Red Zone Extra 25% Off Clearance
 
-In store only
+In store only.
 
-find a store 30-40% Off Select Worthington shop Worthington 40-50% Off Select Kids' Activewear shop kids' activewear 40% Off Select Bras When You Buy 2 Or More shop bras 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 25% Off Select Men's Underwear When You Buy 2 Or More shop men's underwear $39.99 Select Juniors' Arizona Boots shop juniors' Arizona boots JCP Rewards
+find a store 30-40% Off Select Worthington shop Worthington 40-50% Off Select Kids' Activewear shop kids' activewear 40% Off Select Bras When You Buy 2 Or More shop bras 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 25% Off Select Men's Underwear When You Buy 2 Or More shop men's underwear $39.99 Select Juniors' Arizona Boots shop juniors' Arizona boots Express Yourselfie
+
+Why fit in when you can stand out? Create and share your emoji style.
+
+Express yourself and find a fit that lets you be you. #ExpressYourselfie
+
+get started JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Your College Football Shopping Headquarters shop nowBack To School
-
-The perfect fit lets you be you.
-
-shop back to school Red Zone Clearance Selections shop clearance Round Up and Let Your Change Create Real Change
+sign up today Your College Football Shopping Headquarters shop nowA Fit For Every Workout shop fitness Red Zone Clearance Selections shop clearance Round Up and Let Your Change Create Real Change
 
 Help ensure the arts remain an essential element of the school experience by rounding up your JCPenney purchases to the nearest dollar.
 
