@@ -3,6 +3,8 @@
 
 Your browser does not support iframes.
 
+Click here for SMS User Terms
+
 Terms and Conditions of Your OnStar® Service Effective as of August, 2010
 
 Welcome to **OnStar**. These terms and conditions are the agreement between us. They replace any earlier agreements between us and apply to _all_ your **OnStar** service until changed or replaced by new terms and conditions.
