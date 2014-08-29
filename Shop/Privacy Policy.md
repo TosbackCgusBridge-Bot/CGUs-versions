@@ -176,7 +176,7 @@ Lenovo United States Select a country/region
 
 *      Laptops   
     
-    *   Business &. Home Office All about productivity: affordable or premium, home or go.
+    *   Business &. Home Office All About Productivity, Whether Home or Go
         *   ThinkPad X: Thin and Light Laptops
         *   ThinkPad T: Legendary Business Tools
         *   ThinkPad W: Mobile Workstations
@@ -184,13 +184,13 @@ Lenovo United States Select a country/region
         *   ThinkPad E: Stylish Business Laptops
         *   ThinkPad L: Affordable Businsess
         *   ThinkPad Helix: Detatchable Business Ultrabookss
-    *   Entertainment &. Gaming Casual, social or extreme multimedia - choose the way you play.
+    *   Entertainment &. Gaming Casual, Social or Extreme Multimedia PCs
         *   Y Series: Powerful Gaming On-the-Go
         *   Yoga Series: Sleek Convertible Ultrabook
         *   Z Series: Affordable Entertainment
         *   Flex Series: Mainstream Multimode Laptops
         *   U Series: Designer Laptops and Ultrabooks
-    *   Student Durable &. fully-functional options for the classroom or dorm room.
+    *   Student Durable &. Functional PCs for Any Grade-Level
         *   ThinkPad 11E: Rugged Laptops
         *   G Series: Affordable Everyday Laptops
         *   S Series: Entry-Level Ultraportables
@@ -279,13 +279,13 @@ Lenovo United States Select a country/region
         *   W Series: Portable Workstations
     
 *   Servers &. Storage
-    *   Racks Balanced Design. Built for Business.
+    *   Racks Balanced Design, Built for Business
         *   RS140
         *   RD340
         *   RD440
         *   RD540
         *   RD640
-    *   TowersWorkload Hungry. Budget Friendly.
+    *   TowersWorkload Hungry, Budget Friendly
         *   TS140
         *   TS440
         *   TD340
