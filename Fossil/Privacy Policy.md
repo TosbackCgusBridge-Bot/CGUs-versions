@@ -1,4 +1,4 @@
-privacy and security PRIVACY POLICY AND LEGAL NOTICE UPDATED: 9/28/2012
+Privacy and Security PRIVACY POLICY AND LEGAL NOTICE UPDATED: 9/28/2012
 
 Because Fossil values your patronage and respects your privacy rights, we are voluntarily providing you with this statement of our Privacy Policy. The following discloses our information gathering and dissemination practices for fossil.com, and any site from which you access this Privacy Policy (collectively, the "Website").
 
@@ -130,7 +130,7 @@ Fossil.com is a secure website. We utilize 128-bit, industry standard, encryptio
 
 SAFE HARBOR PRIVACY POLICY
 
-We at Fossil respect your concerns about privacy and value the relationship we have with you. Fossil has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the European Economic Area ("EEA") and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.
+We at Fossil respect your concerns about privacy and value the relationship we have with you. Fossil complies with the U.S. - EU Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Fossil has certified that it abides by the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline. To learn more about the Safe Harbor program, and to view Fossil's certification, please visit http://www.export.gov/safeharbor/.
 
 FOR PURPOSES OF THIS POLICY:
 
