@@ -160,7 +160,7 @@ Please direct any questions or feedback regarding this Privacy Policy to E-Insur
 E-Insure Services, Inc.  
 105 W. Adams St., Suite 1325  
 Chicago, IL 60603  
-(312) 372-7400  
+(855) 372-7400  
 privacy@einsure.com  
   
 EFFECTIVE DATE 7.10.2014 (Applies Only to the Policy Statements Above)
