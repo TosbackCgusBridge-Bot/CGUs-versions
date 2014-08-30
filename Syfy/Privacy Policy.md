@@ -263,9 +263,9 @@ Z Nation: Coming in September Z Nation: Coming in September
 
 Zombies have taken over America! Get a look at Syfy's new zombie series coming in September.
 
-Fandom &. Fashion: Geek Couture's Comic-Con In ... Fandom &. Fashion: Geek Couture's Comic-Con Invasion
+BlastrTVs the Summer of Sci-fi: Ghostbuste ... BlastrTVs the Summer of Sci-fi: Ghostbusters Walking Tour
 
-Aaron Sagers talks with designers at the Her Universe Fashion Show about the rise of geek couture.
+BlastrTVs look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
 
 *   FAQ
 *   Feedback
