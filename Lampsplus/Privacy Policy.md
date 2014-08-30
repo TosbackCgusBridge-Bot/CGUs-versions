@@ -2,14 +2,19 @@ Our Privacy and Security Policies
 
 1\. Our Privacy Policy  
 2\. Privacy and E-Mail Referrals  
-3\. Security  
-4\. Fraudulent Charge Protection  
-5\. Cookies  
-6\. Opting Out of Our E-mail List  
-7\. Opting Out of Our Catalog Mailing List  
-8\. Protecting Children  
-9\. Links to Third Party Sites  
-10\. Policy Changes
+3\. Marketing Partnerships  
+4\. Your California Privacy Rights  
+5\. Canadian Anti-Spam Law  
+6\. Contests and Promotions  
+7\. Product and Store Reviews  
+8\. Security  
+9\. Fraudulent Charge Protection  
+10\. Cookies  
+11\. Opting Out of Our E-mail List  
+12\. Opting Out of Our Catalog Mailing List  
+13\. Protecting Children  
+14\. Links to Third Party Sites  
+15\. Policy Changes
 
 Our Privacy Policy
 
@@ -46,6 +51,12 @@ Under Section 1798.83 of the California Civil Code, residents of California that
 California Consumers may make one such request each year.
 
 To submit a request for information please email Lamps Plus at CustomerService@LampsPlus.com. Please include "Request for California Privacy Information" in the subject line and in the body of your e-mail. Lamps Plus will respond with the requested information, if any, to the email.
+
+Canadian Anti-Spam Law (CASL)
+
+CASL applies to commercial electronic messages (CEMs) of all types (i.e. email, texts). Its key feature requires organizations that send CEMs within, from, or to Canada to receive consent from you the consumer before sending messages. Consent can be obtained either explicitly or implicitly. Examples of explicit consent include but are not limited to signing up for our mailing list online, entering sweepstakes and contests, and information requests made via one of our online services. Implied consent stems from either the purchase of a product or inquiry about a product. implied consent is considered valid for 24 months following the purchase of a product, and 6 months following an inquiry about a product.
+
+If you are on our commercial electronic messages mailing list, you may unsubscribe from it at any time. Unsubscribe instructions are included with each our emails. You may also visit our online email page and unsubscribe. If you choose to unsubscribe your address will be removed in no more than 10 business days. In most cases, we will be able to remove your address within 5 business days, and you will receive no further mailings from us. Please note that should you order from us in the future, you will still receive order and shipping confirmations from us via email.
 
 Contests and Promotions
 
