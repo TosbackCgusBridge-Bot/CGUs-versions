@@ -339,13 +339,13 @@ Privacy &. Security Policy
 The Blair Story  
 Career Opportunities  
 Our Stores  
-Blair VIP Credit Card
+Blair Credit Card
 
 Shopping Services
 
 Access My Account  
 Check Order Status  
-Pay Blair VIP Credit Card Bill  
+Pay Blair Credit Card Bill  
 Buy Gift Cards  
 Place Catalog Order  
 Request a Catalog  
