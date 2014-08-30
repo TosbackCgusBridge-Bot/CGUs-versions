@@ -70,7 +70,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Meet the newest Pixar heroine, the little girl of 'Inside Out' Read More News Bites: Richard Pryor biopic casting news, and Tom Hanks will star in a new Dan Brown movie Read More Geek out on these Marvel Easter egg videos. find out how to get your own Groot Read More Explore More
+*   Movie News Featured Movie News Meet the newest Pixar heroine, the little girl of 'Inside Out' Read More News Bites: 'Underworld' is getting rebooted. Martin Scorsese will bring the Ramones to the big screen Read More Watch Trailer: Jon Stewart's emotion-packed directorial debut is no comedy Read More Explore More
     *   Family
     *   Summer Movies
     *   Hero Central
