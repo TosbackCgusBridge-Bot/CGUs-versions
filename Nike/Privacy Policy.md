@@ -128,7 +128,7 @@ CHOICES
 > You can modify or delete your profile within certain Nike services, through your account. Your information previously posted may still be publicly viewable. Nike may keep information and content in our backup files and archives.
 > 
 >   
-> COMMUNICATION/UNSUBSCRIBE/OPT-OUT
+> COMMUNICATION / UNSUBSCRIBE / OPT-OUT
 > 
 > Regardless of the settings you select, Nike may send you service-related communications. To unsubscribe and stop receiving messages, please change your settings or follow the instructions in the email, text message, notification or other message type. If you have unsubscribed from any Nike communications, due to production schedules, you may receive communications already in production.
 > 
