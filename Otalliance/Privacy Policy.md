@@ -126,14 +126,7 @@ Mon, Jul 28, 2014 Password Vulnerability - Do not become a StubHub!
 
 OTA and leading security organizations have been warning for years the danger of using similar combinations of the same password across multiple accounts. It is no surprise that StubHub customers are the most recent victims of a major account takeover scam perpetrated by an international cybercrime ring. The increase of data breaches (along with spearphishing) is driving an increase in account takeover incidents.
 
-Thu, Jul 24, 2014 Best Practices to Unsubscibe &. Opt-Out
-
-Share your best practices to enable users to easily opt-out of email.  OTA is now evaluating the top 200 ecommerce sites for their support of user centric unsub practices, moving beyond the minimal requirements of CAN-SPAM and CASL.  Thanks to the collaborative input from the email marketing community including Listrak, eHarmony, Twitter, Publishers Clearing House, Microsoft, Coles / Flybuys, eBay, Meetme.com, Lashback, Silverpop, Optizmo and others.  Share your thoughts
-
-1.  **Opt out copy and link should be "clear and conspicuous**".
-    
-
-Resources
+Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
