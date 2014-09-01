@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12858822260
+true true C12740001626
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Aug 30 09:59:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sun Aug 31 05:12:03 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -59,50 +59,44 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 \*See exclusions and details. print store coupon
 
-*   Labor Day Home Sale
+*   Levi's $34.99 Juniors' Levi's 518™ bootcut jeans
     
-    Select styles.
+    Regularly $46.
     
-    shop the sale30-50% Off Bedding shop bedding40-50% Off Window shop window40-50% Off Furniture shop furniture30-50% Off Kitchen and Dining shop kitchen and dining view store ad
-*   40-50% Off Juniors' and Guys' Arizona
+    shop Levi's 518™ jeans shop juniors' Levi's shop juniors' Levi's$39.99 guys' Levi's 514™ straight jeans
     
-    Select styles.
+    Regularly $58.
     
-    shop juniors' arizona
-    
-    Arizona Jean Co., only at JCPenney.
-    
-    shop Arizona shop juniors' arizona shop guys' arizona shop guys' arizonaLabor Day Sale
+    shop Levi's 514™ jeans shop guys' Levi's shop guys' Levi'sLabor Day Weekend Sale
     
     A fitting send-off for summer's last hoorah.
     
     shop the saleBig Buys
     
-    In store and online. Now through Monday, while they last.
+    In store and online. Ends September 1. Get em' while they last.
     
     Excluded from coupon offer.
     
     view store ad
+*   40-50% Off Furniture and Mattresses
+    
+    Select styles.
+    
+    shop furniture and mattressesHome Sale shop the sale shop the sale
 
 Red Zone Extra 25% Off Clearance
 
 In store only.
 
-find a store 30-40% Off Select Worthington shop Worthington 40-50% Off Select Kids' Activewear shop kids' activewear 40% Off Select Bras When You Buy 2 Or More shop bras 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 25% Off Select Men's Underwear When You Buy 2 Or More shop men's underwear $39.99 Select Juniors' Arizona Boots shop juniors' Arizona boots Express Yourselfie
-
-Why fit in when you can stand out? Create and share your emoji style.
-
-Express yourself and find a fit that lets you be you. #ExpressYourselfie
-
-get started JCP Rewards
+find a store 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40-50% Off Select Big and Tall Foundry Supply Co. shop big and tall 40% Off Select Carter's shop Carter's 30% Off Select Women's Boots shop women's boots 30-40% Off Select Fashion Accessories shop fashion accessories 40% Off Select Bras When You Buy 2 Or More shop bras JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Your College Football Shopping Headquarters shop nowA Fit For Every Workout shop fitness Red Zone Clearance Selections shop clearance Round Up and Let Your Change Create Real Change
+sign up today SportsFanShop
 
-Help ensure the arts remain an essential element of the school experience by rounding up your JCPenney purchases to the nearest dollar.
+Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-learn more
+shop the SportsFanShopA Fit For Every Workout shop fitness Red Zone Clearance Selections shop clearance
 
 get connected
 
