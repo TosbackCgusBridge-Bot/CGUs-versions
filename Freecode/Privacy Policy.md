@@ -5,6 +5,8 @@ Privacy Statement
 **LAST UPDATED: JANUARY 9, 2014  
 (Effective Date May 24, 2008)**
 
+**Please note: The next update to this Privacy Policy will occur effective September 5, 2014.**
+
 Dice Career Solutions, Inc. and Slashdot Media (“Slashdot Media”), subsidiaries of Dice Holdings, Inc., operate the Internet sites SlashdotMedia.com, SourceForge.net, Slashdot.org, feedery.com, and Freecode.com (the “Sites”). Slashdot Media is committed to protecting the privacy of users of the Sites. This Privacy Statement applies to each of the Sites and describes the information Slashdot Media collects about users and how that information may be used.
 
 Slashdot Media complies with the United States (“US”)/European Union (“EU”) and US/Swiss Safe Harbor frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Slashdot Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
