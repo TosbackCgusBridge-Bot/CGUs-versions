@@ -1,39 +1,31 @@
-Your browser is not supported. Please upgrade to one of the following browsers:  
-  
-Google Chrome  
-  
-Mozilla Firefox  
-  
-Apple Safari  
-  
-Microsoft Internet Explorer 8+  
-  
-You may proceed to the site by clicking here, however some pages might not work correctly. **This Day On The Street:**  
-Continue to Site ADVERTISEMENT TheStreet Network: TheStreet | StockPickr | BankingMyWay | RealMoney
+Main Street
 
-*   Home 10 simple ways to avoid college debt
-*   tax  
-    center
-*   retirement 401K  |  IRA  |  Long-Term Care
-*   smart  
-    spending Budgeting  |  Bargains/Deals  |  Technology  |  Autos
-*   money /  
-    investing Savings  |  Credit/Debt  |  Stocks &. Funds  |  Bonds  |  Taxes  |  Insurance  |  Education Planning  |  News
-*   family Kids  |  Marriage/Divorce  |  Family Health
-*   career Employment  |  Students/Gen Y  |  Work/Life Balance
-*   real  
-    estate Buying  |  Selling  |  Renting  |  Refinancing   |  Extreme Real Estate   |  Improvements   |  Foreclosure
-*   small  
-    business Launching  |  Financing  |  Marketing  |  Women &. Small Business
-*   lifestyle Food &. Drink  |  Luxury  |  Travel
-10 simple ways to avoid college debt
+*   MainStreet.com
 
-Hot Topics    |  wheels   |  unemployment   |  taxes   |  Marijuana   |  managing debt   |  careers   |  More Topics » Posted September 03, 2006 Privacy Policy
+*   Login
+*   Join
+*   Alerts
 
-MainStreet.com
+*   Home
+*   Autos
+*   Credit Cards
+*   Retirement
+*   Mortgages
+*   Insurance
+*   Financial Planning
+*   Contact Us
+*   Advertise
+*   Privacy Policy
+*   Terms of Use
+*   Sitemap
+*   *   Login/Join
+    
 
-Privacy Policy  
-Dated: July 21, 2010
+*   Login
+*   Join
+*   Alerts
+
+Privacy Policy
 
 TheStreet, Inc. (“TheStreet”) shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on our web sites. Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page for your review.
 
@@ -89,7 +81,7 @@ TheStreet uses the personal information and tracking information obtained from i
 
 · To improve our content;
 
-· To notify visitors about updates to our web sites;
+p class="MsoListParagraphCxSpMiddle">· To notify visitors about updates to our web sites.
 
 · To maintain and improve our websites. and
 
@@ -135,38 +127,11 @@ Please note that this Privacy Policy will not apply to your independent relation
 
 Questions or comments regarding this policy should be directed to privacy@thestreet.com. TheStreet reserves the right to modify this policy.
 
-Brokerage Partners Sponsored Links
+Back to Top
 
-*   _MOST VIEWED_
-*   _MOST COMMENTED_
-
-*   10 Things You Should Always Buy Used
-*   10 Ways to Save on Everyday Purchases
-*   8 Classic Books That Still Aren’t e-Books
-*   10 Things You Should Never Put on Your Credit Card
-*   5 Products You Shouldn’t Buy Online
-
-*   Contact us
-*   Terms of Use
+*   Contact Us
+*   Advertise
 *   Privacy Policy
-*   Advertise With Us
+*   Terms of Use
 *   Sitemap
-*   Masthead
-*   Archive
-
-  
-  
-Get your FREE report from
-
-Don't miss the secrets behind...
-
-*   Dating Out of Your Salary Range
-*   16 Infamous Tax Cheats
-*   Green Jobs that Pay Big Bucks
-
-... and much more!
-
-First Name:  
-Last Name:  
-Email:  
-OK Cancel
+*   © 2014 TheStreet Inc.
