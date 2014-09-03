@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12741948992
+true true C12745073369
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Mon Sep 01 04:17:50 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Tue Sep 02 03:56:36 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,52 +43,19 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+$99.99 Any Size
 
-Select original, regular and sale and clearance-priced items.
+Victoria Falls 7 piece jacquard comforter set. Originally $200.
 
-Ends Monday, September 1.
+shop beddingHome Sale
 
-Online Code: BUYNOW
+Select styles.
 
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
+shop the home sale30-50% Off Bedding shop bedding30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage30-50% Off Home Decor shop home decor Red Zone Furniture Clearance 50-75% Off
 
-Or, Extra 15% Off\* with any other method of payment.
+In store and online.
 
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. print store coupon
-
-*   Levi's $34.99 Juniors' Levi's 518™ bootcut jeans
-    
-    Regularly $46.
-    
-    shop Levi's 518™ jeans shop juniors' Levi's shop juniors' Levi's$39.99 guys' Levi's 514™ straight jeans
-    
-    Regularly $58.
-    
-    shop Levi's 514™ jeans shop guys' Levi's shop guys' Levi'sLabor Day Weekend Sale
-    
-    A fitting send-off for summer's last hoorah.
-    
-    shop the saleBig Buys
-    
-    In store and online. Ends September 1. Get em' while they last.
-    
-    Excluded from coupon offer.
-    
-    view store ad
-*   40-50% Off Furniture and Mattresses
-    
-    Select styles.
-    
-    shop furniture and mattressesHome Sale shop the sale shop the sale
-
-Red Zone Extra 25% Off Clearance
-
-In store only.
-
-find a store 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40-50% Off Select Big and Tall Foundry Supply Co. shop big and tall 40% Off Select Carter's shop Carter's 30% Off Select Women's Boots shop women's boots 30-40% Off Select Fashion Accessories shop fashion accessories 40% Off Select Bras When You Buy 2 Or More shop bras JCP Rewards
+shop furniture clearance 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay 40-50% Off Select Big and Tall Foundry Supply Co. shop Foundry big and tall Save On Select Kids' Disney Costumes and Dress Up shop kids' Disney $39.99 Select Juniors' Boots shop juniors' boots 40% Off Select Bras When You Buy 2 Or More shop bras 30-40% Off Select Fashion Accessories shop fashion accessories JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -96,7 +63,7 @@ sign up today SportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShopA Fit For Every Workout shop fitness Red Zone Clearance Selections shop clearance
+shop the SportsFanShop A Fit For Every Workout shop fitness Red Zone Clearance Selections shop clearance
 
 get connected
 
