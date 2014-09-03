@@ -1,15 +1,21 @@
 *   Home
-*   Cloud Smartphone Integration
+*   Product
     *   Mobile App
     *   Phone Remote
-*   About Phonedeck
+*   Company
+    *   About
+    *   Blog
+    *   Jobs
 *   Contact Us
 
 *   Home
-*   Cloud Smartphone Integration
+*   Product
     *   Mobile App
     *   Phone Remote
-*   About Phonedeck
+*   Company
+    *   About
+    *   Blog
+    *   Jobs
 *   Contact Us
 
 Privacy Policy 1. Data Collection, Processing and Use
@@ -62,6 +68,7 @@ Start a free 14 day trial of Phonedeck CSI today! Go to AppExchange Menu
 
 *   About Phonedeck
 *   Blog
+*   Jobs
 *   Contact Us
 *   Terms of Service
 *   Privacy Policy
@@ -73,12 +80,12 @@ The Phonedeck product series is being developed by Berlin based desk.io company.
 
 Recent Blog Posts
 
+*   Phonedeck is hiring – a Software Tester wanted! September 2, 2014
 *   Phonedeck Exhibits at Salesforce1 World Tour in Munich July 3, 2014
 *   Phonedeck Featured as ‘App of the Month’ on Alcatel-Lucent’s Developer Portal July 2, 2014
 *   Phonedeck Presents IMS Network Integration for Salesforce July 1, 2014
 *   “VoLTE is here. So what’s next?” asks Alcatel-Lucent – One Answer is Phonedeck! June 26, 2014
-*   Phonedeck Wins Next Generation Services Platforms Developer Hackathon June 11, 2014
 
 Supported by the EU
 
-© 2014 Phonedeck. desk.io GmbH, Berlin. All rights reserved.
+© 2014 Phonedeck. Phonedeck GmbH, Berlin. All rights reserved.
