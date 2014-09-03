@@ -23,7 +23,7 @@ Your Cart(0) Catalog Navigation
     *   Gifts $50 &. Under
     *   Gifts Over $50
 *   Favorites
-    *   Picnics
+    *   Grandparent's Day Favorites
     *   Tailgating Favorites
     *   Summer Favorites
 *   Specials
@@ -49,7 +49,7 @@ Search Catalog Search Menu Search Stores Cart
     *   Gifts $50 &. Under
     *   Gifts Over $50
 *   Favorites
-    *   Picnics
+    *   Grandparent's Day Favorites
     *   Tailgating Favorites
     *   Summer Favorites
 *   Specials
