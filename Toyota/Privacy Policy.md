@@ -120,7 +120,7 @@ UPDATED AS OF: January 1, 2014
 
   
 
-Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”).
+Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”). If you are a resident of the European Union, please use the applicable European Union websites and applications, as our Platforms are intended only for the United States residents.
 
   
 
@@ -308,7 +308,7 @@ Torrance, CA 90501
 3.  EPA-estimated driving range 103 miles when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
 4.  2014 EPA-estimated mpg equivalent. Actual mpge will vary based on driving habits, charging practice, battery age, weather, temperature and road/traffic conditions. Battery capacity will decrease with time and use. For more information on mpge and range, please see www.fueleconomy.gov.
 5.  2014 EPA-estimated combined miles per gasoline gallon equivalent. Estimate includes consumption of electricity and gasoline energy during EV Mode operation. Actual results will vary for many reasons including driving conditions and how you drive and maintain your vehicle.
-6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg estimates for Prius Plug-in. Actual mileage will vary
+6.  2014 EPA-estimated 51 city/49 highway/50 combined mpg estimates for Prius Plug-in. Actual mileage will vary.
 
 Go
 
