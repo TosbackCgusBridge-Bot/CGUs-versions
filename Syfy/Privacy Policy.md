@@ -263,7 +263,7 @@ Z Nation: Coming in September Z Nation: Coming in September
 
 Zombies have taken over America! Get a look at Syfy's new zombie series coming in September.
 
-BlastrTVs the Summer of Sci-fi: Ghostbuste ... BlastrTVs the Summer of Sci-fi: Ghostbusters Walking Tour
+BlastrTV's the Summer of Sci-fi: Ghostbusters ... BlastrTV's the Summer of Sci-fi: Ghostbusters Walking Tour
 
 BlastrTVs look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
 
