@@ -216,4 +216,4 @@ Any personal information you provide to the above email or postal mail addresses
 
 If you have any questions, complaints or comments regarding our GameFly Referrals Program, please contact friends\_cs@gamefly.com.
 
-Last Updated: May 13, 2013.
+Last Updated: August 1, 2014.
