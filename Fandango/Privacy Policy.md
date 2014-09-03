@@ -8,37 +8,32 @@ Gift Cards | Offers | Visa Signature
     *   Teenage Mutant Ninja Turtles (2014)
     *   If I Stay
     *   Let's Be Cops
+    *   As Above/So Below
+    *   The November Man
     *   When the Game Stands Tall
     *   The Giver
-    *   The Expendables 3
-    *   Sin City: A Dame to Kill For
     *   The Hundred-Foot Journey
-    *   Into the Storm
+    *   The Expendables 3
     *   Lucy
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   As Above/So Below
-    *   The November Man
-    *   Cantinflas
-    *   The Congress
-    *   Kundo: Age of the Rampant
-    *   Life of Crime
-    *   Starred Up
-    *   The Calling
-    *   Last Weekend
-    *   The Last of Robin Hood
-    *   Canopy
-    *   See All Opening This Week
-    
-    Pre Sales Tickets
-    
+    *   The Identical
     *   Forrest Gump: An IMAX Experience
+    *   The Longest Week
+    *   But Always (Yi Sheng Yi Shi)
+    *   Frontera
+    *   God Help the Girl
+    *   Innocence (2014)
+    *   Last Days in Vietnam
+    *   Levitated Mass: The Story of Michael Heizer's Monolithic Sculpture
+    *   Pay 2 Play: Democracy's High Stakes
+    *   The Remaining
+    *   See All Opening This Week
     
     Coming Soon
     
-    *   The Identical
     *   No Good Deed
     *   Dolphin Tale 2
     *   The Maze Runner
@@ -48,6 +43,7 @@ Gift Cards | Offers | Visa Signature
     *   The Boxtrolls
     *   The Equalizer
     *   Annabelle
+    *   Gone Girl
     *   See All Coming Soon
     
     Explore More
@@ -70,9 +66,8 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Meet the newest Pixar heroine, the little girl of 'Inside Out' Read More News Bites: 'Underworld' is getting rebooted. Martin Scorsese will bring the Ramones to the big screen Read More Watch Trailer: Jon Stewart's emotion-packed directorial debut is no comedy Read More Explore More
+*   Movie News Featured Movie News Soderbergh tweets photo from 'Magic Mike XXL' shoot. who are the front runners to play Snake Plissken? Read More 'The Maze Runner' will change how we watch movies, and here's how Read More Watch: Don't you want somebody to 'Lava'? Pixar's new short musical thinks so Read More Explore More
     *   Family
-    *   Summer Movies
     *   Hero Central
     *   House of Screams
     *   Weekend Ticket
@@ -317,9 +312,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **If I Stay Free Gift**
+Offers **Dolphin Tale 2 SuperTicket**
 
-Two free soundtrack song downloads with Fandango ticket purchase. BUY TICKETS
+UPGRADE TO SUPERTICKET See the movie in theatres + own Dolphin Tale and Dolphin Tale 2 on Digital HD. BUY TICKETS
 
 **Fifty Shades of Grey Sweepstakes**
 
