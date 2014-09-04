@@ -108,8 +108,8 @@ Contacting Weebly
 If you have a privacy concern regarding Weebly, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a support request at www.weebly.com/support/ or you can write to us by email at support@weebly.com or by mail at:
 
 Weebly, Inc.  
-564 Pacific Ave  
-San Francisco, CA 94133
+460 Bryant Street #100  
+San Francisco, CA 94107
 
 TRUSTe
 
@@ -117,4 +117,4 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact TRUSTe here.
 
-**Last updated on September 2nd 2014.**
+**Last updated on September 3rd 2014.**
