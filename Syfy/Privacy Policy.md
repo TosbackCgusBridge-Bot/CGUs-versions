@@ -251,11 +251,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Syfy - Imagine Greater Syfy - Imagine Greater
-
-Take a glimpse at Syfy's greatest moments with current shows and shows yet to come. Syfy Imagine Greater
-
-Town of the Living Dead Premieres October 7th ... Town of the Living Dead Premieres October 7th at 10/9c!
+Syfy Video Town of the Living Dead Premieres October 7th ... Town of the Living Dead Premieres October 7th at 10/9c!
 
 Town of the Living Dead Premieres with back to back episodes October 7th at 10/9c!
 
@@ -265,7 +261,11 @@ Zombies have taken over America! Get a look at Syfy's new zombie series coming i
 
 BlastrTV's the Summer of Sci-fi: Ghostbusters ... BlastrTV's the Summer of Sci-fi: Ghostbusters Walking Tour
 
-BlastrTVs look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
+BlastrTV's look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
+
+BlastrTV's the Summer of Sci-fi: The Impact o ... BlastrTV's the Summer of Sci-fi: The Impact of 84
+
+BlastrTV takes a look back at the movie summer that changed Sci-Fi forever: 1984. Ghostbusters, Gremlins, Neverending Story, The Last Starfighterjust to name a few.
 
 *   FAQ
 *   Feedback
