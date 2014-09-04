@@ -218,8 +218,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Careers
     *   Contact
 
-Sign up to get exclusive Sencha News
-
-Thanks for signing up!
+Sign up to get Sencha News
 
 © 2014 Sencha Inc. All rights reserved. Sitemap Legal
