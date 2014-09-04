@@ -8,26 +8,19 @@ JavaScript is not enabled on your browser
 
 You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.)
 
-*   New Arrivals
-    *   *   Back to Main Menu New Arrivals
-    *   *   *   Women
-            *   Men
-            *   Girls
-            *   Boys
-            *   Home
 *   Women
     *   *   Back to Main Menu Women
         *   Featured Shops
             *   Back to Women Featured Shops
-            *   Swim Shop
+            *   Outerwear Shop
             *   Jeans 101
+            *   Performance Collection
             *   Shoes &. Boots
-            *   Outerwear
             
             *   New Arrivals
-            *   Cardigan Shop
             *   Looks To Love
-            *   Performance Collection
+            *   Cardigan Shop
+            *   Tailored Collection
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -38,7 +31,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Petite Plus
             *   Tall Plus
     *   *   Categories
-            *   Swimsuits
+            *   Outerwear
             *   Knit Tops, Polos &. Turtlenecks
             *   Shirts &. Blouses
             *   Sweaters &. Cardigans
@@ -50,21 +43,21 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Skirts
             *   Blazers &. Jackets
             *   Activewear
-            *   Outerwear
-            *   Hats, Gloves &. Scarves
+            *   Swimsuits
             *   Sleepwear
             *   Shoes
             *   Socks, Tights &. Underwear
             *   Accessories &. Handbags
+            *   Hats, Gloves &. Scarves
             *   Totes
 *   Men
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Swim Shop
-            *   Shoes &. Boots
-            *   Made to Work
             *   Jeans Lineup
+            *   Made to Work
+            *   Shoes &. Boots
+            *   Outerwear Shop
             
             *   New Arrivals
             *   Favorite Looks
@@ -78,7 +71,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall
             *   Big &. Tall
     *   *   Categories
-            *   Swimwear
+            *   Outerwear
             *   Polos, T-shirts &. Turtlenecks
             *   Dress Shirts
             *   Casual Button-down Shirts
@@ -89,18 +82,18 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Sportcoats &. Blazers
             *   Sleepwear
-            *   Outerwear
-            *   Hats, Gloves &. Scarves
+            *   Swimwear
             *   Shoes
             *   Ties
             *   Belts &. Accessories
+            *   Hats, Gloves &. Scarves
             *   Socks &. Underwear
             *   Activewear
 *   Kids
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
-            *   Backpacks &. Lunch Boxes
+            *   Outerwear Shop
             *   Shoes &. Boots
             *   School Uniforms
             
@@ -119,8 +112,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
                 *   Big Boy (size 7-20)
     *   *   Girls
             *   Back to Kids Girls
-            *   Backpacks &. Lunch Boxes
-            *   Swim
+            *   Outerwear
             *   Tops
             *   Graphic Tees
             *   Sweaters &. Cardigans
@@ -131,42 +123,41 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Skirts &. Skorts
             *   Shorts
             *   Blazers &. Jackets
-            *   Outerwear
-            *   Hats, Gloves &. Scarves
             *   Sleepwear
+            *   Swim
+            *   Backpacks &. Lunch Boxes
             *   Tights, Socks &. Underwear
             *   Accessories
+            *   Hats, Gloves &. Scarves
             *   Shoes
     *   *   Boys
             *   Back to Kids Boys
-            *   Backpacks &. Lunch Boxes
-            *   Swim
-            *   Shorts
+            *   Outerwear
             *   Tops
             *   Graphic Tees
             *   Sweaters
             *   Sweatshirts &. Hoodies
             *   Pants
             *   Jeans
+            *   Shorts
             *   Blazers &. Jackets
-            *   Outerwear
-            *   Hats, Gloves &. Scarves
             *   Sleepwear
+            *   Swim
+            *   Backpacks &. Lunch Boxes
             *   Ties &. Accessories
             *   Socks &. Underwear
+            *   Hats, Gloves &. Scarves
             *   Shoes
-*   Swim
-    *   *   Back to Main Menu Swim
-        *   Shop Swim
+*   Outerwear
+    *   *   Back to Main Menu Outerwear
+        *   Shop Outerwear
         *   Women
         *   Men
         *   Girls
         *   Boys
-        *   Cover-ups &. Rash Guards
-        *   Water Shoes &. Sandals
-        *   Totes &. Bags
-        *   Beach Towels
-        *   Swim Tees
+        *   Hats, Gloves &. Scarves
+        *   Long Underwear
+        *   Snow Boots
 *   Home
     *   *   Back to Main Menu Home
         *   Featured Shops
@@ -174,7 +165,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Bedding
             *   Bath
             *   Totes
-            *   Beach Towels
             
             *   New Arrivals
             *   Supima Bed &. Bath
@@ -184,21 +174,21 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Bedding
             *   Bath
             *   Blankets &. Throws
-            *   Beach Towels
-            *   Totes
             *   Storage &. Organization
+            *   Totes
             *   Home Décor &. Gifts
             *   Kitchen &. Dining
             *   Luggage &. Bags
             *   Kids Home
             *   Dog Shop
+            *   Beach Towels
 *   Uniforms
     *   *   Back to Main Menu Uniforms
         *   Find your School
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find your School
-            *   Backpacks &. Lunch Boxes
+            *   Shoes &. Boots
             
             *   Polos that Perform
             *   Iron Knee Pants
@@ -384,7 +374,7 @@ Children's Privacy at Lands' End
 
 Lands' End does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our website with the involvement of a parent or guardian. Moreover, Lands' End is concerned about the safety of children. Occasionally, Lands' End may conduct promotions or contests that allow children under the age of 13 to participate. In those instances, we will use reasonable efforts to obtain verifiable parental consent before collecting any personally identifiable information from these participants. Rest assured that Lands' End will never knowingly request personally identifiable information from anyone under the age of 13 without making reasonable efforts to obtain verifiable parental consent. In addition, Lands' End will not condition a child's participation in an event on the provision of more personal information than is reasonably necessary to participate in the activity, and Lands' End will not sell that information and will only use that information in the manner that we disclose in the promotion or contest. In those instances where Lands' End collects personal information from a child, that child's parents or guardians will have the ability to review the information provided by their child by sending an email message to myprivacy@landsend.com or to the email address listed on the landsend.com web page that collected their child's information. Parents or guardians may also request that Lands' End not make contact with their child. If such a parental request is received, Lands' End will make all reasonable efforts to make sure that no communications are sent to the child.
 
-Get Exclusive Offers + News Sign Up Privacy Policy &. Contact Info facebook twitter pinterest twitter pinterest sywr sywr Le Blog
+Get Exclusive Offers + News Privacy Policy &. Contact Info Sign Up facebook twitter pinterest twitter pinterest sywr sywr Le Blog
 
 *   Customer Service
 *   Guaranteed. Period.®
@@ -439,9 +429,9 @@ Learn More Shop Our E-Catalog
 
 Environmentally friendly, easy to shop and always at your fingertips.
 
-Browse Catalog Connect With Us
+Browse Catalog Apostrophe
 
-From tablet to smart phone, we're everywhere you are.
+The Lands' End quarterly filled with fashion, beauty, travel and more.
 
 Learn More Shop Your Way Rewards
 
