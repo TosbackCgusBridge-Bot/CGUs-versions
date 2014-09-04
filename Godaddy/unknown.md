@@ -458,7 +458,7 @@ You agree to indemnify, defend and hold harmless Registry Operator, CentralNic a
 
 You acknowledge having read and understood and agrees to be bound by the terms and conditions of the CentralNic Dispute Resolution Policy, available at http://www.centralnic.com/support/dispute
 
-34\. provisions specific to ALL Top Level Domain Holdings registrations: .kiwi
+34\. provisions specific to ALL Top Level Domain Holdings registrations: .beers. .cooking. .country. .fishing. .horse. .kiwi. .rodeo. .surf. .vodka
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
