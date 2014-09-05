@@ -55,6 +55,9 @@ Up to
 *   Compare
 *   Build Your Own
 
+A 2014 IIHS Top Safety Pick  
+(Excludes WRX/STI models)
+
 2014 Impreza 2.0i Sport Limited shown
 
 WRX $26,295 starting price 2015 WRX
@@ -71,6 +74,8 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
+
+A 2014 IIHS Top Safety Pick
 
 WRX Premium shown
 
@@ -89,6 +94,9 @@ Up to
 *   Compare
 *   Build Your Own
 
+A 2014 IIHS Top Safety  
+Pick+ with optional EyeSight
+
 Legacy 3.6R Limited shown
 
 Forester $22,195 starting price 2015 Forester
@@ -105,6 +113,9 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
+
+A 2014 IIHS Top Safety  
+Pick+ with optional EyeSight
 
 Forester 2.5i Touring shown
 
@@ -123,6 +134,8 @@ Up to
 *   Compare
 *   Build Your Own
 
+A 2014 IIHS Top Safety Pick
+
 XV Crosstrek 2.0i Limited shown
 
 XV Crosstrek Hybrid $25,995 starting price 2014 XV Crosstrek Hybrid
@@ -140,6 +153,8 @@ Up to
 *   Compare
 *   Build Your Own
 
+A 2014 IIHS Top Safety Pick
+
 XV Crosstrek Hybrid Shown
 
 Outback $24,895 starting price 2015 Outback
@@ -156,6 +171,9 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
+
+A 2014 IIHS Top Safety  
+Pick+ with optional EyeSight
 
 Outback 2.5i Premium shown
 
