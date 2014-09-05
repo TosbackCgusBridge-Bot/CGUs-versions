@@ -66,7 +66,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Soderbergh tweets photo from 'Magic Mike XXL' shoot. who are the front runners to play Snake Plissken? Read More 'The Maze Runner' will change how we watch movies, and here's how Read More Watch: Don't you want somebody to 'Lava'? Pixar's new short musical thinks so Read More Explore More
+*   Movie News Featured Movie News Margot Robbie may star in 'Ghost in the Shell' live-action remake, Jessica Chastain goes sci-fi Read More Dwayne Johnson has revealed what role he will take in DC Comics' 'Shazam' Read More The most hotly anticipated movies at this year's Toronto Film Fest, and more you should know Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -369,7 +369,7 @@ Videos
 Photos
 
 *   Red Carpet
-*   August Celebrity Birthdays
+*   September Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail Submit THANKS FOR SIGNING UP! Sign up fOR FanTexts Send Me FanText Mobile Number Sign Me Up! THANKS FOR SIGNING UP!
 
