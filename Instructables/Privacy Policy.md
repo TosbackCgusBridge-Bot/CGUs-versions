@@ -40,7 +40,7 @@ Legal Notices &. Trademarks
 *   Export Compliance
 *   Autodesk Subscription Terms and Conditions
 *   Software License Agreements
-*   Terms of service: Autodesk® 360 and other web services
+*   Terms of service: A360 and other web services
 *   Code of Business Conduct
 *   Partner Code of Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
