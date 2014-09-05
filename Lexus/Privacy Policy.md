@@ -61,7 +61,7 @@ Starting at $36,550\*
 
 ES
 
-Starting at $36,620\*
+Starting at $37,550\*
 
 *   • 21/31 City/Hwy MPG\*
 *   • FWD
@@ -82,7 +82,7 @@ Starting at $72,140\*
 
 RX
 
-Starting at $40,795\*
+Starting at $40,970\*
 
 *   • 3.5-liter V6
 *   • FWD or AWD
@@ -96,14 +96,14 @@ Starting at $49,085\*
 
 LX
 
-Starting at $82,630\*
+Starting at $82,930\*
 
 *   • 5.7-liter V8
 *   • Full-Time 4WD
 
 IS C
 
-Starting at $42,860\*
+Starting at $42,960\*
 
 *   • 19/27 City/Hwy MPG\*
 *   • RWD
@@ -117,14 +117,14 @@ Starting at $32,050\*
 
 RX HYBRID
 
-Starting at $47,445\*
+Starting at $47,620\*
 
 *   • 32/28 City/Hwy MPG\*
 *   • FWD or AWD
 
 ES HYBRID
 
-Starting at $39,500\*
+Starting at $40,430\*
 
 *   • 40/39 City/Hwy MPG\*
 *   • FWD
