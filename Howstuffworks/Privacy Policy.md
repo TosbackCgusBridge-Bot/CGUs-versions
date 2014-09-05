@@ -222,7 +222,7 @@ Last Updated On: May 30, 2014
 
 Print Cite This! Close  Please copy/paste the following text to properly cite this HowStuffWorks article:  
   
-"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  04 September 2014. Citation &. Date Feedback More To Explore
+"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  05 September 2014. Citation &. Date Feedback More To Explore
 
 *   About Us
 *   Our Shows
@@ -233,6 +233,12 @@ Print Cite This! Close  Please copy/paste the following text to properly cite t
     *   Advertising
     *   Working for HowStuffWorks
     *   Freelance Writers: Apply to Write for HowStuffWorks
+*   Our Shows
+    *   Stuff You Should Know
+    *   Stuff You Missed in History Class
+    *   BrainStuff
+    *   Stuff to Blow Your Mind
+    *   Stuff Mom Never Told You
 
 Don't Miss Stuff You Should Know: Demystifying Your World Stuff Mom Never Told You: All Things Women and Gender Stuff You Missed in History Class: Fact or Fiction? CHECK OUT OUR PODCASTS HOWSTUFFWORKS NEWSLETTER THE LATEST AND GREATEST SUBSCRIBE HOWSTUFFWORKS
 
