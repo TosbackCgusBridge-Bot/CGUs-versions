@@ -105,9 +105,11 @@ Mon, Sep 15, 2014 Big Data: A Tool for Inclusion or Exclusion
 
 The Federal Trade Commission will host a public workshop entitled “Big Data: A Tool for Inclusion or Exclusion?” to further explore the use of “big data” and its impact on American consumers, including low income and underserved consumers.
 
-Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology Thu, Sep 18, 2014 OPA Content All Stars in NYC
+Wed, Sep 17, 2014 IAPP Privacy Academy Known for its diverse programming around operational privacy and emerging developments, the Academy provides tools and guidance for privacy pros and those who touch on privacy—from beginners to experts—in an array of industries and operating environments, particularly in the area of technology Wed, Sep 17, 2014
 
-Join OTA at the Online Publishers Association (OTA) to see who is shaping the future of marketing and media with compelling content experiences. Marketing and digital media leaders from a diverse range of businesses — from energy drinks to finance and from pop culture to the newspaper of record — will be in attendance and on the agenda. Content All Stars is a one-of-a-kind networking and learning opportunity designed to help you make connections that will matter, personally and professionally.   **Save 20% with code "Promo20"**
+Join OTA Executive Director Craig Spiezle, Sailthru CEO Neil Capel and other industry leaders who will review the 2014 OTA Email Unsubscribe Audit and discuss related marketing and user centric and privacy enhancing best practices. Learn the importance of moving past compliance to stewardship and what it means to your brand and consumer trust.
+
+Join us for a open dialog and networking evening over beer and wine.  Event is open to all OTA members, Sailthru clients and invited guests.   $5 or more donation requested.
 
 *   OTA Blog
 *   Newsletters
