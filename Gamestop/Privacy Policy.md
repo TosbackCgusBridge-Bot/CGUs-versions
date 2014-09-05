@@ -1,13 +1,7 @@
-Can't find what you're looking for?
+Can't find what  
+you're looking for? Phone 1-800-883-8895 8am - 8pm (CST) 7 days a week Chat 11am - 6pm (CST) Monday - Friday Live Chat Now Email Email Support
 
-If you still need answers or want to report a problem, contact our support team.
-
-Chat with an Agent Live Chat Now  
-  
-
-**Call: 1-800-883-8895**  
-8:00 a.m.-8:00 p.m. (CST)  
-7 days a week
+We will respond to your inquiry as quickly as possible
 
 Privacy Policy
 
