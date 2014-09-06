@@ -8,6 +8,13 @@ JavaScript is not enabled on your browser
 
 You must have JavaScript enabled on your Web browser to fully interact with our site and place an order. (To enable JavaScript, open Preferences for your browser and select the "enable JavaScript" checkbox.)
 
+*   New Arrivals
+    *   *   Back to Main Menu New Arrivals
+    *   *   *   Women
+            *   Men
+            *   Girls
+            *   Boys
+            *   Home
 *   Women
     *   *   Back to Main Menu Women
         *   Featured Shops
@@ -374,7 +381,7 @@ Children's Privacy at Lands' End
 
 Lands' End does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our website with the involvement of a parent or guardian. Moreover, Lands' End is concerned about the safety of children. Occasionally, Lands' End may conduct promotions or contests that allow children under the age of 13 to participate. In those instances, we will use reasonable efforts to obtain verifiable parental consent before collecting any personally identifiable information from these participants. Rest assured that Lands' End will never knowingly request personally identifiable information from anyone under the age of 13 without making reasonable efforts to obtain verifiable parental consent. In addition, Lands' End will not condition a child's participation in an event on the provision of more personal information than is reasonably necessary to participate in the activity, and Lands' End will not sell that information and will only use that information in the manner that we disclose in the promotion or contest. In those instances where Lands' End collects personal information from a child, that child's parents or guardians will have the ability to review the information provided by their child by sending an email message to myprivacy@landsend.com or to the email address listed on the landsend.com web page that collected their child's information. Parents or guardians may also request that Lands' End not make contact with their child. If such a parental request is received, Lands' End will make all reasonable efforts to make sure that no communications are sent to the child.
 
-Get Exclusive Offers + News Privacy Policy &. Contact Info Sign Up facebook twitter pinterest twitter pinterest sywr sywr Le Blog
+Get Exclusive Offers + News Sign Up Privacy Policy &. Contact Info facebook twitter pinterest twitter pinterest sywr sywr Le Blog
 
 *   Customer Service
 *   Guaranteed. Period.®
