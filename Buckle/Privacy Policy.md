@@ -44,7 +44,7 @@ My Bag (0) Wish List Search
     *   Ordering Methods
     *   Payment Options
     *   Order Inquiry
-    *   Buckle "Primo" Card
+    *   Primo Card
 *   Your Account
     *   Forgot Password
     *   Sign In/Create Account
