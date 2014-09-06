@@ -43,8 +43,8 @@ What if I have questions that are not answered here?
 If you have questions, you may contact:
 
 Newser, LLC.  
-222 N. Columbus Dr., Unit D  
-Chicago, IL 60601  
+1395 Brickell Avenue, Suite 800  
+Miami, Florida 33131  
 Attention: General Counsel
 
 Or, use this form.
