@@ -263,9 +263,9 @@ BlastrTV's the Summer of Sci-fi: Ghostbusters ... BlastrTV's the Summer of Sci-f
 
 BlastrTV's look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
 
-BlastrTV's the Summer of Sci-fi: The Impact o ... BlastrTV's the Summer of Sci-fi: The Impact of 84
+BlastrTV's The Summer of Sci-fi: How PG-13 Ch ... BlastrTV's The Summer of Sci-fi: How PG-13 Change the World
 
-BlastrTV takes a look back at the movie summer that changed Sci-Fi forever: 1984. Ghostbusters, Gremlins, Neverending Story, The Last Starfighterjust to name a few.
+BlastrTV continues to its look back at the best movie summer ever: 1984. See how Stephen Spielberg, microwaves and monkeys brains changed sci-fi forever.
 
 *   FAQ
 *   Feedback
