@@ -58,7 +58,7 @@ Search Catalog Search Menu Search Stores Cart
 *   Business Gifts
     *   Top Business Gifts
 
-Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Our apologies, we’re experiencing technical difficulties, please call 800-753-8558 to order.
+Search Catalog Search • Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
