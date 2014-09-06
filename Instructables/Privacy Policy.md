@@ -47,7 +47,7 @@ Legal Notices &. Trademarks
 *   Education Community Special Terms
 *   Online Purchases Terms and Conditions
 
-Privacy Statement - UPDATED MARCH 19, 2013
+Privacy Statement - UPDATED FEBRUARY 10, 2014
 
 Click here to access the privacy statement in English: Privacy Statement
 
