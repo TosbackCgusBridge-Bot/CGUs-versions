@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   Laura
+*   Welcome  
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12880044981
+true true L12882681672
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Sep 06 04:14:28 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sun Sep 07 02:48:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,50 +43,60 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store &. Online | Select orig, reg, sale &. clearance-priced items.
+In Store and Online
 
-Extra 20% Off\* with your JCPenney Credit Card  
-OR Extra 15% Off\* with any other method of payment  
-OR Extra 10% Off\* watches, furniture, mattresses and custom blinds &. shades.
+Select original, regular and sale and clearance-priced items.
 
-Ends 9/6. Online code: FALLSALE
+Ends September 9.
 
-\*20% Off subject to credit approval.
+Online Code: FALLSALE
 
-Exclusions and details: Print store coupon:
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
-*   Big Bonus Sale
-    
-    Step into autumn with style and savings that will blow you away!
-    
-    shop now view store adPlus $10 Off $50 Bonus Cash\*
-    
-    When you spend $50 or more in store only Sept 4-6.
-    
-    \*See exclusions and details.30 to 40% Off Select Worthington shop worthington shop worthington50% Off Select Men's Suits and Sport Coats shop mens suits and sport coats shop mens suits and sport coatsNight and Day Doorbusters
-    
-    In store only. Friday, September 5, 3PM until close. Saturday, September 6, 10AM until 1PM.
-    
-    view doorbusters store ad
-*   30 to 50% Off Home Sale
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print store coupon
+
+*   30-50% Off Home Sale
     
     Select styles.
     
-    Shop now: 30 to 50% Off Bedding 30 to 50% Off Kitchen &. Dining 40 to 50% Off Window 40 to 50% Off Furniture &. Mattresses 40 to 50% Off Luggage 30 to 50% Off Home DecorSpecial 36 Month Promo Financing
+    shop the home sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window
+*   Fall Fashion Sale shop the sale30-40% Off Worthington
     
-    available for furniture and mettress purchases over $1000 made with your JCPenney Credit Card. Subject to credit approval.
+    Select styles.
     
-    Get details:
+    Worthington, only at JCPenney.
+    
+    shop Worthington50% Off Men's Suits and Sport Coats
+    
+    Select styles.
+    
+    shop men's suits and sport coats
 
-30-50% Off Select Women's St. John's Bay shop women's St. John's Bay $36.99 Select Dockers Signature Pants
+JCPenney Rewards
 
-Originally $40.
+Shop and earn double points with JCPenney Rewards on all qualifying purchases September 7 through 9.
 
-shop Dockers pants 40-50% Off Select Baby Clothes shop baby clothes 30% Off Select Women's Boots shop women's boots 40% Off Select Bras When You Buy 2 Or More shop bras 30-60% Off Select Fashion Jewelry and Silver shop fashion jewelry and silver Red Zone Clearance Selections
+learn more 25-40% Off Select Liz Claiborne shop Liz Claiborne Shoe and Handbag Event 25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags 25% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay Baby Sale
 
-50-75% Off
+Big savings come in baby, toddler and preschool sized packages.
 
-shop clearance
+30-50% Off Select Baby Apparel shop baby apparel 40-50% Off Select Homecoming Apparel shop homecoming apparel Red Zone Clearance Selections
+
+In Store and Online. 50 to 75% Off.
+
+shop now JCP Rewards
+
+Shop to earn $10 JCP Rewards.
+
+sign up today A Fit For Every Workout shop fitnessSportsFanShop
+
+Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
+
+shop the SportsFanShop Write A Review For Your Chance To Win $500 see rules and details
 
 get connected
 
