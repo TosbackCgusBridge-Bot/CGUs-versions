@@ -250,7 +250,7 @@ You agree that the laws of the State of Utah, without regard to principles of co
 
 **B. Agreement to Arbitrate**
 
-**You and eBay each agree that any and all disputes or claims that have arisen or may arise between you and eBay relating in any way to or arising out of this or previous versions of the User Agreement, your use of or access to eBay's Services, or any products or services sold, offered, or purchased through eBay's Services shall be resolved exclusively through final and binding arbitration, rather than in court, except that you may assert claims in small claims court, if your claims qualify** **and so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis** **.** The Federal Arbitration Act governs the interpretation and enforcement of this Agreement to Arbitrate.
+**You and eBay each agree that any and all disputes or claims that have arisen or may arise between you and eBay relating in any way to or arising out of this or previous versions of the User Agreement, your use of or access to eBay's Services, or any products or services sold, offered, or purchased through eBay's Services shall be resolved exclusively through final and binding arbitration, rather than in court, except that you may assert claims in small claims court, if your claims qualify and so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis.** The Federal Arbitration Act governs the interpretation and enforcement of this Agreement to Arbitrate.
 
 1.  **Prohibition of Class and Representative Actions and Non-Individualized Relief**
     
