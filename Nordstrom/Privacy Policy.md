@@ -1,6 +1,6 @@
 We respect your privacy, and take great care to safeguard information in our possession. Your preferences for use of your information are our highest priority.
 
-The Nordstrom family of companies (Nordstrom, Nordstrom Rack, Nordstrom.com, Nordstrom fsb, Nordstrom Canada, and HauteLook, Inc.) takes seriously the protection and proper use of your personal information, including social security numbers. In this policy, we may use "we," "our," "us" and "Nordstrom" to refer to the Nordstrom family of companies.
+The Nordstrom family of companies (Nordstrom, Nordstrom Rack, Nordstrom.com, Nordstrom fsb, Nordstrom Canada, HauteLook, Inc., Jeffrey and Trunk Club, Inc.) takes seriously the protection and proper use of your personal information, including social security numbers. In this policy, we may use "we," "our," "us" and "Nordstrom" to refer to the Nordstrom family of companies.
 
 Nordstrom does not share customer information (including e-mail addresses) outside the Nordstrom family of companies unless it is necessary to provide you with products or services available from Nordstrom. We may also disclose information when you tell us to do so, to identify or contact you, to protect your rights or the rights of Nordstrom or as required or permitted by law.
 
@@ -12,6 +12,7 @@ The Nordstrom family of companies is happy to provide further details of our pri
     *   Categories of Information We Collect
     *   How We Use Your Information
     *   Personal Book
+    *   Our Salesperson Texting App “NEXT"
     *   Mobile Privacy
     *   Cookies, Web Beacons, and Other Similar Technologies
     *   Third Party Advertising and Links to Other Websites and Services
@@ -32,4 +33,4 @@ For information regarding Nordstrom Bank Privacy and Security, please see the No
 
 If you have any other questions or concerns regarding how Nordstrom manages, accesses or uses your personal information, please write us at PO Box 21986, Seattle, WA 98111-3986, e-mail us at privacy@nordstrom.com or call 1-866-554-6591.
 
-_12/30/13_
+_09/08/14_
