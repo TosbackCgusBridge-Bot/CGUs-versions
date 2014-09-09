@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12882681672
+true true C12762739848
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sun Sep 07 02:48:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p11.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Sep 08 02:47:22 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,30 +57,41 @@ Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon
+\*See exclusions and details. print store coupon Fall Fashion Sale shop the sale30-40% Off Worthington
 
-*   30-50% Off Home Sale
-    
-    Select styles.
-    
-    shop the home sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window
-*   Fall Fashion Sale shop the sale30-40% Off Worthington
-    
-    Select styles.
-    
-    Worthington, only at JCPenney.
-    
-    shop Worthington50% Off Men's Suits and Sport Coats
-    
-    Select styles.
-    
-    shop men's suits and sport coats
+Select styles.
 
-JCPenney Rewards
+Worthington, only at JCPenney.
+
+shop Worthington50% Off Men's Suits and Sport Coats
+
+Select styles.
+
+shop men's suits and sport coats JCPenney Rewards
 
 Shop and earn double points with JCPenney Rewards on all qualifying purchases September 7 through 9.
 
-learn more 25-40% Off Select Liz Claiborne shop Liz Claiborne Shoe and Handbag Event 25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags 25% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay Baby Sale
+learn more 30-50% Off\* Home Savings
+
+Select styles with code: HOME32
+
+\*See exclusions and details.
+
+30% Off\* Kitchen and Dining
+
+shop kitchen and dining
+
+40% Off\* Bedding and Bath
+
+shop bedding and bath
+
+40% Off\* Blinds and Shades
+
+shop blinds and shades
+
+40% Off\* Furniture and Mattresses
+
+shop furniture and mattresses 25-40% Off Select Liz Claiborne shop Liz Claiborne Shoe and Handbag Event 25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags 25% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay Baby Sale
 
 Big savings come in baby, toddler and preschool sized packages.
 
