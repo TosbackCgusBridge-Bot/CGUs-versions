@@ -10,7 +10,7 @@ This Policy applies to your use of the Service if you are a residential XFINITY 
 
 How will I know when Comcast changes this Policy and how do I report violations of it?
 
-Comcast may revise this Policy from time to time by posting a new version on the web site at http://xfinity.comcast.net/ or any successor URL(s) (the “XFINITY Web site”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the XFINITY Web site. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the XFINITY Web site and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at http://customer.comcast.com/help-and-support/account/ways-to-get-help/. To report a child exploitation or other child-related incident involving the Internet, go to http://constantguard.comcast.net/dedicated-support/submitting-reports.
+Comcast may revise this Policy from time to time by posting a new version on the web site at http://xfinity.comcast.net/ or any successor URL(s) (the “XFINITY Web site”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the XFINITY Web site. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the XFINITY Web site and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at http://customer.comcast.com/help-and-support/account/ways-to-get-help/. To report child exploitation or another child-related incident involving the Internet, go to http://constantguard.comcast.net/dedicated-support/submitting-reports.
 
 I. Prohibited Uses and Activities  
 What uses and activities does Comcast prohibit?
@@ -122,7 +122,7 @@ The Service may not be used to communicate or distribute email or other forms of
 Comcast is not responsible for deleting or forwarding any email sent to the wrong email address by you or by someone else trying to send email to you. Comcast is also not responsible for forwarding email sent to any account that has been suspended or terminated. This email will be returned to the sender, ignored, deleted, or stored temporarily at Comcast's sole discretion. If you cancel or terminate your Service account for any reason, all email associated with that account (and any secondary accounts) will be permanently deleted as well.
 
 If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an “identifier”) on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these identifiers  
-and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for Comcast's own purposes.
+and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for its own purposes.
 
 What requirements apply to instant, video, and audio messages?
 
@@ -149,7 +149,7 @@ Comcast uses various tools and techniques to manage its network, deliver the Ser
 IV. Data Consumption  
 What data consumption requirements apply to the Service?
 
-Comcast is not currently applying a monthly data consumption threshold to XFINITY Internet accounts.  If the company changes that approach, it will post a new version of this Policy as described above and make other appropriate notifications to customers.  However, in certain locations Comcast is providing versions of the Service with different speed and data consumption thresholds, among other characteristics, subject to applicable Service plans.  You can learn about the Service plans that apply in your area by going to http://www.comcast.com/internet-service.html and signing in if you are a customer or providing an address if you are not a customer.  You can check your current data usage at any time by logging into your My Account page and viewing the data usage meter https://customer.comcast.com/Secure/UsageMeterDetail.aspx and signing in as a customer.
+Comcast is not currently applying a monthly data consumption threshold to XFINITY Internet accounts.  If the company changes that approach, it will post a new version of this Policy as described above and make other appropriate notifications to customers.  However, in certain locations Comcast is providing versions of the Service with different speed and data consumption thresholds, among other characteristics, subject to applicable Service plans.  You can learn about the Service plans that apply in your area by going to http://customer.comcast.com/help-and-support/internet/data-usage-what-are-the-different-plans-launching. You can check your current data usage at any time by logging into your My Account page and viewing the data usage meter at https://customer.comcast.com/Secure/UsageMeterDetail.aspx.
 
 V. Violation of this Acceptable Use Policy  
 What happens if you violate this Policy?
@@ -201,6 +201,6 @@ If you receive a DMCA notification of alleged infringement as described above, a
 
 If a notification of claimed infringement has been filed against you, you can file a counter notification with Comcast's designated agent using the contact information shown above. All counter notifications must satisfy the requirements of Section 512(g)(3) of the U.S. Copyright Act.
 
-Revised and effective: May 24, 2013
+Revised and effective: September 5, 2014
 
 <. Back
