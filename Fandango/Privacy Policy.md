@@ -8,34 +8,32 @@ Gift Cards | Offers | Visa Signature
     *   Teenage Mutant Ninja Turtles (2014)
     *   If I Stay
     *   Let's Be Cops
-    *   As Above/So Below
     *   The November Man
+    *   As Above/So Below
     *   When the Game Stands Tall
     *   The Giver
     *   The Hundred-Foot Journey
-    *   The Expendables 3
     *   Lucy
+    *   The Identical
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Identical
-    *   Forrest Gump: An IMAX Experience
-    *   The Longest Week
-    *   But Always (Yi Sheng Yi Shi)
-    *   Frontera
-    *   God Help the Girl
-    *   Innocence (2014)
-    *   Last Days in Vietnam
-    *   Levitated Mass: The Story of Michael Heizer's Monolithic Sculpture
-    *   Pay 2 Play: Democracy's High Stakes
-    *   The Remaining
+    *   Dolphin Tale 2
+    *   No Good Deed
+    *   Atlas Shrugged: Who is John Galt?
+    *   The Drop
+    *   The Disappearance of Eleanor Rigby
+    *   The Skeleton Twins
+    *   The Green Prince
+    *   Honeymoon
+    *   I Am Eleven
+    *   My Old Lady
+    *   Bird People
     *   See All Opening This Week
     
     Coming Soon
     
-    *   No Good Deed
-    *   Dolphin Tale 2
     *   The Maze Runner
     *   A Walk Among the Tombstones
     *   Tusk
@@ -44,6 +42,9 @@ Gift Cards | Offers | Visa Signature
     *   The Equalizer
     *   Annabelle
     *   Gone Girl
+    *   Left Behind
+    *   Addicted
+    *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
     *   See All Coming Soon
     
     Explore More
@@ -320,9 +321,9 @@ UPGRADE TO SUPERTICKET See the movie in theatres + own Dolphin Tale and Dolphin 
 
 Enter now for a chance to win a trip to the WORLD PREMIERE of Fifty Shades of Grey! ENTER NOW
 
-**Parents, You’re Invited!**
+**Boxtrolls Gift Cards**
 
-Receive movie perks and tips just for families. SIGN ME UP
+Give fun and adventure with a gift card today. BUY NOW
 
 **Sweeten Your Gift With Free Treats**
 
