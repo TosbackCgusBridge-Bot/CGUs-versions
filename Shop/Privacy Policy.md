@@ -284,11 +284,14 @@ Lenovo United States Select a country/region
         *   RD340
         *   RD440
         *   RD540
+        *   RD550
         *   RD640
+        *   RD650
     *   TowersWorkload Hungry, Budget Friendly
         *   TS140
         *   TS440
         *   TD340
+        *   TD350
     *   Enterprise Storage Network Attached. Business-Class.
         *   Network Storage
         *   Direct Storage
@@ -357,6 +360,7 @@ Lenovo United States Select a country/region
 *   Deals
     *   Current Offers
         *   Home Laptop &. Desktop Deals
+        *   ThinkPad &. ThinkCentre QuickShips
         *   Accessories Closeout Sale
         *   Deals for Students and Educators
         *   Outlet
