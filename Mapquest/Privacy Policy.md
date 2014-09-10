@@ -58,4 +58,4 @@ Print
 
 AOL Inc. | Privacy | Terms of Service | About Our Ads
 
-© 2014, AOL Inc. All rights reserved. | Help | My Account
+© 2014, AOL Inc. All rights reserved.
