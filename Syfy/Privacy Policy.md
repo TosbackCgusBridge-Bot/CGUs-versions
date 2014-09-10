@@ -255,6 +255,10 @@ Syfy Video Town of the Living Dead Premieres October 7th ... Town of the Living 
 
 Town of the Living Dead Premieres with back to back episodes October 7th at 10/9c!
 
+Z Nation - Season 1 Trailer Z Nation - Season 1 Trailer
+
+Z Nation airs Fridays at 10/9c on Syfy
+
 Z Nation: Coming in September Z Nation: Coming in September
 
 Zombies have taken over America! Get a look at Syfy's new zombie series coming in September.
@@ -262,10 +266,6 @@ Zombies have taken over America! Get a look at Syfy's new zombie series coming i
 BlastrTVs the Summer of Sci-fi: Ghostbuste ... BlastrTVs the Summer of Sci-fi: Ghostbusters Walking Tour
 
 BlastrTVs look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
-
-BlastrTVs The Summer of Sci-fi: How PG-13 ... BlastrTVs The Summer of Sci-fi: How PG-13 Change the World
-
-BlastrTV continues to its look back at the best movie summer ever: 1984. See how Stephen Spielberg, microwaves and monkeys brains changed sci-fi forever.
 
 *   FAQ
 *   Feedback
