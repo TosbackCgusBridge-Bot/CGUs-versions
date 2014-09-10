@@ -287,17 +287,19 @@ Visit VH1 On:
 *   Youtube
 
 *   VH1 Sites
-*   Basketball Wives
+*   Atlanta Exes
 *   Love &. Hip Hop
-*   Mob Wives
+*   Love &. Hip Hop Atlanta
+*   Pallaida
+*   The Gossip Table
 *   T.I. &. Tiny
-*   VH1 Celebrity
 *   Top 20 Countdown
 *   VH1 Blog
-*   Tuner Blog
+*   VH1 Celebrity
 *   VH1 Classic
 *   VH1 Mobile
-*   Best Week Ever
+*   VH1 Music
+*   VH1 Soul
 
 *   Stay Connected
 *   VH1 on Facebook
