@@ -25,7 +25,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes &. Boots
             
             *   New Arrivals
-            *   Looks To Love
+            *   Fall Looks
             *   Cardigan Shop
             *   Tailored Collection
             *   Sale
