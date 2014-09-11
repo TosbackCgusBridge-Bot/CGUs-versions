@@ -32,7 +32,7 @@ The Services may contain links to third party websites (“Third Party Websites�
 
 4\. Copyright or Intellectual Property Infringement Notification
 
-If you believe in good faith that material or Content available on Gigaom infringes a copyright or other intellectual property right that you own or for which you are a beneficial owner or exclusive licensee, you are encouraged to notify Gigaom in accordance with Gigaom’s Copyright or Intellectual Property Infringement Notification Policy, currently accessible at http://gigaom.com/copyright-dispute/. It is our policy to terminate, in appropriate circumstances, the access rights of repeat infringers.
+If you believe in good faith that material or Content available on Gigaom infringes a copyright or other intellectual property right that you own or for which you are a beneficial owner or exclusive licensee, you are encouraged to notify Gigaom in accordance with Gigaom’s Copyright or Intellectual Property Infringement Notification Policy, currently accessible at https://gigaom.com/copyright-dispute/. It is our policy to terminate, in appropriate circumstances, the access rights of repeat infringers.
 
 5\. Terms Applicable to Users of Gigaom Research
 
