@@ -1,136 +1,152 @@
 Vie privée et cookies
 
-La protection des données personnelles constitue un enjeu majeur dans la confiance que nos utilisateurs peuvent nous accorder. Elle est, à ce titre, une préoccupation importante de PriceMinister.  
+La protection des données à caractère personnel constitue un enjeu majeur dans la confiance que nos utilisateurs peuvent nous accorder. Elle est, à ce titre, une préoccupation importante de PriceMinister.  
   
-Lorsque vous créez un compte, vendez ou achetez un article sur PriceMinister, naviguez sur notre site ou encore lorsque vous nous envoyez une réclamation par exemple, PriceMinister collecte certaines données afin de répondre à vos besoins mais aussi afin d’améliorer la qualité des services qui vous sont proposés.  
+Lorsque vous créez un compte, vendez ou achetez un article sur PriceMinister, naviguez sur notre plateforme ou encore lorsque vous nous envoyez une réclamation par exemple, la société PriceMinister  SAS , immatriculée au RCS de Paris sous le numéro 432 647 584, responsable de traitement, collecte certaines données afin de répondre à vos besoins mais aussi afin d’améliorer la qualité des services qui vous sont proposés.  
    
-Pour vous permettre de faire des choix éclairés sur l’utilisation de vos données personnelles, PriceMinister s’efforce de faire preuve de la plus grande transparence possible et vous invite à prendre connaissance de sa politique en matière de protection des données à caractère personnel.  
+Pour vous permettre de faire des choix éclairés sur l’utilisation de vos données personnelles, PriceMinister s’efforce de faire preuve de la plus grande transparence possible et vous invite à prendre connaissance de la présente politique en matière de protection de vos données à caractère personnel.  
   
-\>. Données d'enregistrement  
+Par ailleurs, la présence d’un Correspondant Informatique et Libertés (CIL) témoigne de l’importance accordée au respect des dispositions de la loi n°78-17 dite « Informatique et libertés » au sein du Groupe PriceMinister.  
+  
+Vous pouvez exercer l’ensemble de vos droits issus des articles 38 à 40 de la loi Informatique et libertés en nous indiquant l’objet précis de votre demande par courrier, sur lequel figurera votre signature, accompagné de la copie d’un titre d’identité. Ces documents sont à adresser à : PriceMinister, Direction juridique (CIL), 92 rue Réaumur, 75002 Paris.  
+  
+En tant que tiers de confiance, PriceMinister vous garantit la totale sécurité de vos informations personnelles.  
+  
+Les principes énumérés dans cette politique « vie privée et cookies » ne font pas obstacle à la cession ou au transfert de tout ou partie des activités de PriceMinister à un ou plusieurs tiers.  
+  
+\>. Données de compte et messages électroniques (newsletters)  
 \>. Données de navigation - Cookies  
-\>. Mesures d'audience  
-\>. Messages électroniques  
-\>. Sécurité de vos données personnelles  
-  
 
-Données d'enregistrement
+Données de compte et messages électroniques (newsletters)
 
-Les informations nominatives recueillies auprès des Membres, vendeurs et acheteurs, au moment de leur inscription sur le site sont tenues par PriceMinister pour confidentielles.  
+**1\. Données de compte**  
   
-Ces informations (civilité, nom, prénom, date de naissance, nom d’utilisateur, adresse postale, adresse électronique, mot de passe) sont nécessaires pour (I) créer et gérer votre compte, (II) assurer le bon déroulement des transactions, (III) améliorer les services qui vous sont offerts et (IV) se conformer aux dispositions législatives et règlementaires en vigueur et/ou à toute décision d’une autorité judiciaire compétente.  
+Les informations informations à caractère personnel recueillies auprès des membres, vendeurs et acheteurs, au moment de leur inscription sur la plateforme et postérieurement (civilité, nom, prénom, date de naissance, nom d’utilisateur, adresses postale et électronique, mot de passe, informations relatives au moyen de paiement, aux commandes ainsi qu’aux connexions et à la navigation sur la plateforme PriceMinister) sont nécessaires pour (I) créer et gérer votre compte, (II) assurer le bon déroulement des transactions, (III) améliorer les services qui vous sont offerts, (IV) se conformer aux dispositions législatives et règlementaires en vigueur et/ou à toute décision d’une autorité judiciaire compétente, (V) réaliser des statistiques et des analyses et (VI) lutter contre les fraudes.  
    
-À titre d’exemple, ces informations nous permettrons dans l’hypothèse d’un achat, de transmettre vos coordonnées postales au vendeur pour assurer la bonne livraison du produit acheté, ou de les transmettre, lorsque vous y avez consenti, à nos partenaires.  
+À titre d’exemple, ces informations nous permettrons dans l’hypothèse d’un achat, de transmettre vos coordonnées postales au vendeur pour assurer la bonne livraison du produit acheté. Un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail ou à votre numéro de téléphone, sauf engagement impératif du vendeur de respecter les dispositions de la loi Informatique et libertés auprès de PriceMinister, et pour la seule fin de la bonne exécution de votre commande et des obligations légales qui s'y rattachent.  
+  
+A défaut de nous communiquer certaines de ces informations, nous ne serons pas en mesure de vous fournir l’intégralité de nos services.  
    
-À tout moment, vous disposez de la faculté de modifier ces informations depuis la page Mon Compte.  
+À tout moment, vous disposez de la faculté de modifier ces informations depuis la la rubrique "Mes informations" de votre compte PriceMinister.  
+  
+**2\. Jeux concours**  
    
-La durée de conservation de ces informations par PriceMinister correspond à la durée strictement nécessaire à l’utilisation de votre compte.  
-   
-Lors de l’organisation de jeux-concours, PriceMinister est susceptible de collecter certaines données à caractère personnel vous concernant et de les partager avec ses partenaires. Ces données sont nécessaires à la prise en compte de votre participation, et le cas échéant à la remise de la dotation. Elles peuvent également servir à vous envoyer des offres personnalisées.  
+Lors de l’organisation de jeux-concours, PriceMinister est susceptible de collecter certaines données à caractère personnel vous concernant et de les partager avec ses partenaires. Ces données sont nécessaires à la prise en compte de votre participation, et, le cas échéant, à la remise de la dotation. Elles peuvent également être utilisées afin de vous envoyer des offres personnalisées, si vous y consentez expressément.  
+  
+**3\. Newsletters  
+**  
+Enfin, afin de vous proposer davantage de contenus personnalisés et/ou d’offres privilégiées relatives à nos services, PriceMinister peut vous adresser, par courrier électronique :  
+  
+\- des lettres d'information ("PriceLetters") ;  
+\- des conseils et astuces ;  
+\- des sondages ;  
+\- des informations générales sur le Groupe Rakuten et ses filiales…  
+  
+De plus, sous réserve de votre accord exprès préalable, vous pouvez choisir de recevoir les newsletters éditées par les autres sites du Groupe PriceMinister (notamment "VoyagerMoinsCher"), ainsi que des informations ou des offres de nos partenaires (sous forme de courrier électronique, SMS ou courrier postal).  
+  
+Après avoir finalisé votre commande auprès d'un vendeur professionnel (identifié par  ), vous pourrez également recevoir de sa part, par e-mail, des offres personnalisées, sélectionnées pour vous et correspondant à des produits ou services analogues à ceux que vous avez déjà commandés (ventes flash, nouveautés, etc.), via PriceMinister, dans sa Rakuten Super Boutique, sans communication de votre adresse e-mail au vendeur à cette fin. Le contenu de chaque newsletter est rédigé par le vendeur professionnel en question, qui en est le seul responsable.  
+  
+**Comment se désabonner des e-mails automatiques ?**  
+  
+Vous gardez la possibilité de vous désabonner de toutes les newsletters à tout moment, depuis la rubrique "Mes abonnements" de votre compte PriceMinister. Vous pouvez également vous désabonner d'une newsletter précise, grâce au lien présent au bas de celle-ci.  
+  
+**4\. Destinataire de vos données**  
+  
+Nous sommes amenés à rendre certains sous-traitants destinataires de vos données, à des fins marketing (notamment pour la gestion de l’envoi de nos newsletters et la mesure de leur taux d’ouverture afin d’adapter leur envoi à vos besoins), mais également pour la sécurisation de vos paiements, la gestion des assurances souscrites et le traitement des appels téléphoniques dans le cadre de notre service clients, ainsi qu’à Rakuten, Inc., notre société-mère, à des fins de reporting interne.  
+  
+Nous veillons à ce que ces destinataires traitent vos informations conformément à nos instructions, dans le respect de la loi «Informatique et Libertés » du 6 janvier 1978 et s'engagent à mettre en œuvre des mesures appropriées de sécurisation et de protection de la confidentialité de vos données.  
+  
   
 
 Données de navigation - Cookies
 
-**1\. Pourquoi mes données de navigation sont-elles collectées ?**  
+**1\. Qu’est ce qu’un cookie ?**  
   
-C'est dans le même souci de personnalisation des services offerts que nous collectons également des données de navigation, et avons recours à divers cookies nous signalant votre passage sur notre site.  
+Lors de votre navigation sur PriceMinister, nous collectons diverses données, relatives notamment aux caractéristiques du système d’exploitation, du navigateur ou du terminal (ordinateur, tablette ou téléphone mobile) que vous utilisez, des données relatives à votre localisation (notamment votre adresse IP) ou encore des données relatives à vos interactions avec le contenu de PriceMinister (nombres de visites sur la plateforme, pages visitées et produits achetés, publicités sur lesquelles vous cliquez…).  
   
-Ces informations sont notamment utilisées dans les buts d’améliorer la qualité du site, de faciliter votre navigation et de mémoriser vos différentes préférences.  
-   
-Ainsi, PriceMinister émet divers cookies qui nous permettent de reconnaître le navigateur de votre terminal (ordinateur, smartphone, tablette, etc.) lorsque vous vous connectez à notre site, pendant la durée de validité du cookie concerné. Ces cookies sont des fichiers texte déposés sur le disque dur de l'ordinateur qui enregistrent des informations relatives à votre navigation sur notre site (pages visitées, type de navigateur utilisé, publicités sur lesquelles vous cliquez, etc), et stockent certaines informations que vous avez saisies durant votre visite. Ainsi, vous n'aurez pas besoin, lors de votre prochaine visite, de les saisir à nouveau.  
-   
-Ces cookies permettent notamment :  
-   
-\-    de mémoriser pendant cette durée les préférences d'affichage de votre terminal et d'en tenir compte lors de vos visites de notre site selon la carte graphique et les logiciels de visualisation ou de lecture que comporte votre terminal;  
-   
-\-    de mémoriser pendant cette durée les informations relatives, par exemple, à un formulaire que vous avez rempli ou à un service, un produit ou une information que vous avez choisis;  
-   
-\-    de mettre en œuvre des mesures de sécurité, par exemple lorsqu’il vous est demandé de vous connecter à nouveau à un contenu ou service après une certaine période de temps.  
-   
-\-    de vous permettre d'accéder à des espaces réservés et personnels du site, tels que votre compte sur nos services, sur la base de données personnelles que vous nous avez éventuellement antérieurement confiées. dans ce cas, vous pourrez, le cas échéant,  accéder à des contenus personnalisés ou qui vous sont réservés;  
-   
-Outre les cookies que nous émettons aux fins décrites ci-dessus, et à l’instar de nombreux sites Internet, ces cookies sont également utilisés par des partenaires pour vous proposer des services publicitaires vous présentant  des annonces mieux adaptées à vos centres d’intérêts et les plus pertinentes possibles. Certains de ces partenaires sont ainsi susceptibles d'émettre directement des cookies qu'ils opèrent et contrôlent.  
-   
-Notre objectif est en effet de vous présenter les publicités les plus pertinentes possibles portant sur des offres susceptibles de vous intéresser et les plus adaptées à vos besoins, qu’ils s’agissent de nos propres services ou des produits ou services d’autres annonceurs.  
-   
-A cette fin, la technologie des cookies tiers installés par nos partenaires publicitaires sur notre site (permettant de générer de la publicité pour nos propres services) ou sur les espaces publicitaires de notre site (permettant de générer de la publicité pour les propres produits ou services d’autres annonceurs) permet de choisir en temps réel quelle publicité afficher sur notre site ou sur d’autres sites, en fonction des contenus et services que vous avez consultés précédemment.  
-L'émission et/ou l'utilisation des cookies par ces sociétés tierces sont soumises aux propres politiques de ces entreprises, qui s’engagent notamment auprès de PriceMinister à respecter les dispositions législatives et règlementaires en vigueur. Certaines d’entre elles ont été récompensées pour leurs engagements relatifs à la protection des données personnelles.  
-   
-Pour votre parfaite information, nous vous précisons que l’émission de ces cookies ainsi que la collecte de ces données ne permettent pas à nos partenaires de vous identifier personnellement. Vos nom, prénom, nom d’utilisateur, adresse postale, adresse électronique et mot de passe ne sont en aucun cas communiqués à des tiers sans votre consentement préalable et explicite. L’étude de ces données de navigation permet à PriceMinister et à ses partenaires de connaître les produits qui ont suscité votre intérêt au cours des 30 derniers jours.  
-   
-Enfin, les offres publiées sur le site sont susceptibles d’être accompagnées d’une application informatique tierce permettant le partage de contenus par les utilisateurs de nos services, tels que les boutons présents sous la mention "_Partager cette page_".  
-   
-Nous n'avons aucun contrôle sur le processus employé par les réseaux sociaux concernés (Facebook, Twitter, Google+, etc.) pour collecter ces informations et vous invitons à consulter les politiques de confidentialité de ces derniers.  
-   
+Ces informations de navigation sont collectées via des cookies ou d’autres dispositifs similaires, tels que des « pixels tags » ou, lors de votre utilisation de notre application, des identifiants Android ou des « IDFA ». Pour les besoins de cette politique, l’ensemble de ces dispositifs seront appelés « cookies ».  
   
-**2\. Comment désactiver la sauvegarde de ces données ?**  
+**2\. A quoi servent les cookies et d’où proviennent-ils ?**  
   
-Nous vous informons que l’ensemble de ces informations ne sont collectées que lorsque les cookies sont activés et qu’à tout moment, vous pouvez vous opposer à l'enregistrement de ces cookies en configurant votre navigateur Internet.  
+Les cookies peuvent avoir différentes finalités, notamment :  
+  
+\- l’amélioration de votre navigation sur PriceMinister et la fourniture de services que vous avez expressément demandés (par exemple, la mémorisation de votre panier d’achat, l’authentification à votre compte,…). Il s’agit des cookies dits « fonctionnels »;  
+  
+\- la mesure de l’audience de la plateforme pour en améliorer les performances. Il s’agit des cookies dits « analytiques »;  
+  
+\- la réalisation de publicités ciblées et la personnalisation des contenus qui vous sont présentés. Il s’agit des cookies dits « publicitaires »;  
+  
+\- les boutons de partage « réseaux sociaux ». Il s’agit des cookies dits « des réseaux sociaux ».  
+  
+Ces cookies sont soit directement mis en œuvre par PriceMinister, soit proposés par le biais de partenaires (éditeurs de solutions de mesure d’audience, régies publicitaires et réseaux sociaux notamment).  
+  
+**3\. Quels cookies peuvent être déposés par PriceMinister ?**  
+  
+ PriceMinister émet divers cookies qui nous permettent  notamment de:  
+   
+
+**Finalités des cookies** **Nom des cookies** Mémoriser les préférences d'affichage de votre terminal et en tenir compte lors de vos visites de notre plateforme selon la carte graphique et les logiciels de visualisation ou de lecture que comporte votre terminal force\_version  
+favorite\_tooltip… Mémoriser les informations relatives, par exemple, à un formulaire que vous avez rempli ou à un service, un produit ou une information que vous avez choisis sell\_home\_page  
+pm\_push\_coupon  
+pm\_mobile  
+pm\_mobile\_abtest… Mettre en œuvre des mesures de sécurité, par exemple lorsqu’il vous est demandé de vous connecter à nouveau à un contenu ou service après une certaine période de temps pm\_session  
+cart  
+pm… Vous permettre d'accéder à des espaces réservés et personnels de la plateforme, tels que votre compte sur nos services JSESSIONID  
+MEM\_ID… Tests pour l’amélioration continue de l’affichage et des services proposés (abtesting) ab\_XXXX  
+pmcookies  
+   
+**4\. Quels cookies peuvent être déposés par les partenaires de PriceMinister ?**  
+  
+Nos partenaires sont susceptibles d'émettre directement des cookies qu'ils opèrent et contrôlent. L'émission et/ou l'utilisation des cookies par ces sociétés tierces sont soumises aux propres politiques de ces entreprises, qui s’engagent auprès de PriceMinister à respecter les dispositions législatives et règlementaires en vigueur.  
+  
+Pour votre parfaite information, nous vous précisons que l’émission de ces cookies ainsi que la collecte de ces données ne permettent pas à nos partenaires de vous identifier personnellement. Les seules informations transmises par les cookies concernent vos achats et les contenus consultés.  
+  
+**4.1 Les cookies dits « analytiques »**  
+  
+Il s’agit des cookies qui nous permettent de connaître l’utilisation et les performances des diverses rubriques de la plateforme PriceMinister, afin d’en améliorer le fonctionnement.  
+  
+**Partenaire** **A quoi servent ces cookies ?** **Durée de vie maximale des cookies** **Nom des cookies** ****AT Internet/**Xiti****** Mesure de l'activité des visiteurs sur la plateforme et fréquence de leur retour pour établir des statistiques et des études permettant d'améliorer le contenu et les services que nous vous offrons 6 mois "idrxvr", "tmst" et cookies commençant par "xt" **Google Analytics** Analyse de l'audience de la plateforme et des indicateurs de performances marketing 2 ans "\_ga" et cookies commençant par "\_ut" **Shop2Market** Analyse de l'audience de la plateforme et des indicateurs de performances marketing 30 jours Cookies commençant par "\_s2m"  
+**4.2 Les cookies dits « publicitaires »**  
+  
+Il s’agit des cookies qui nous permettent de choisir en temps réel quelle publicité afficher sur notre plateforme ou sur des sites tiers, en fonction des contenus et services que vous avez consultés précédemment ou de vous proposer des produits et des contenus susceptibles de vous intéresser.  
+  
+**Partenaire** **A quoi servent ces cookies ?** **Durée de vie maximale des cookies** **Nom des cookies** **1000Mercis/**E-mail Attitude**** Analyse des comportements des utilisateurs de la plateforme afin d'adresser des messages commerciaux personnalisés et mesure de l'efficacité des campagnes de marketing relationnel 13 mois "mruid", "ruid" **Criteo/Tedemis** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 13 mois "uic", "uid", "acdc", "udc" **Exelate** Adapter les publicités affichées sur la plateforme à vos préférences 3 mois Cookies commençant par "ud" **Ligatus** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 6 mois Cookies commençant par "ligatus" **Quantcast** Identifier des profils d'internautes intéressant en fonction de leur comportement sur Internet 13 mois "mc" **Rich Relevance** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 12 mois "mvtid", "cv", "m", "n", "s", "uc" et cookies commençant par "rr\_" sur l'application **TapValue** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 13 mois Cookies commençant par "tpv" **Twenga** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 13 mois "vidu", "\_rb\_cm\_" et cookies commençant par "tw\_"  
+Par ailleurs, pour l’allocation des emplacements publicitaires figurant sur notre plateforme, afin d’afficher des publicités adaptées à vos centres d’intérêts, nous faisons appel aux solutions de 3W Régie et de Google (AdSense, adWords et DoubleClick). Les cookies déposés à cet effet dépendent des régies publicitaires. Nous ne pouvons pas les lister de manière exhaustive.  
+  
+**4.3 Les cookies dits « des réseaux sociaux »**  
+  
+Enfin, les offres publiées sur PriceMinister sont susceptibles d’être accompagnées d’une application informatique tierce permettant le partage de contenus par les utilisateurs de nos services sur les réseaux sociaux, tels que les boutons présents sous la mention _"Partager cette page"._  
+  
+Nous n'avons aucun contrôle sur le processus employé par les réseaux sociaux concernés (Facebook, Twitter, Google+ et Pinterest) pour collecter ces informations et vous invitons à consulter les politiques de confidentialité de ces derniers.  
+  
+Nous n'avons aucun contrôle sur le processus employé par les réseaux sociaux concernés (Facebook, Twitter, Google+ et Pinterest) pour collecter ces informations et vous invitons à consulter les politiques de confidentialité de ces derniers.  
+  
+**4.4 Les autres cookies tiers utilisés**  
+  
+Par ailleurs, afin de vous fournir le service de tchat collaboratif d’Howtank, ce prestataire dépose des cookies.  
+  
+Enfin, nous pouvons être amenés à réaliser des tests marketing, afin de déterminer la version de la plateforme qui vous conviendra le mieux. Pour cela, nous faisons appel aux prestataires Kameleoon et Rich Relevance.  
+  
+**5\. Comment désactiver  les cookies ?**  
+  
+**5.1 Via le paramétrage de votre navigateur Internet**  
+  
+  
+A tout moment, vous pouvez vous opposer à l'enregistrement des cookies en configurant votre navigateur Internet.  
    
 Vous pouvez en effet modifier les paramètres de votre navigateur de manière à ce que les cookies soient enregistrés dans votre terminal ou rejetés, soit systématiquement, soit selon leur émetteur, ou pour être informé(e) au moment où un cookie est susceptible d'être enregistré dans votre terminal, afin de vous permettre de l'accepter ou de le refuser.  
   
-En particulier, certains cookies sont utilisés pour afficher des publicités personnalisées vous proposant des produits similaires à ceux déjà consultés et disponibles sur PriceMinister. Pour désactiver ce service, rendez-vous aux adresses suivantes :  
+Si vous avez accepté dans votre logiciel de navigation l’enregistrement de cookies dans votre terminal, PriceMinister, nos prestataires de mesures et nos partenaires publicitaires pourront effectuer les traitements de vos informations de navigation décrits ci-dessus.  
    
-\>. Critéo  
-\>. 1000mercis  
-\>. Google/DoubleClick  
-\>. Ligatus  
-\>. Tedemis  
-\>. Twenga  
-\>. Smartadverser  
-\>. Ezakus  
-\>. Tap Value  
-\> Quantcast  
-   
-Ainsi, l’enregistrement des cookies décrits ci-dessus dans votre terminal est essentiellement subordonné à votre volonté, que vous pouvez exprimer et modifier à tout moment à travers les choix qui vous sont offerts par votre logiciel de navigation. Si vous avez accepté dans votre logiciel de navigation l’enregistrement de cookies dans votre terminal, PriceMinister, nos prestataires de mesures et nos partenaires publicitaires pourront effectuer les traitements de vos informations de navigation décrits ci-dessus, sous réserve des droits que vous aurez exercés.  
-   
-Si vous rejetez tous les cookies, il est possible que vous ne puissiez pas utiliser l’ensemble des services PriceMinister nécessitant que vous soyez connecté ou identifié et vous n’aurez plus la possibilité de personnaliser les services qui vous sont délivrés par PriceMinister via le site.  
-   
+Si vous rejetez tous les cookies, il est possible que vous ne puissiez pas utiliser l’ensemble des services PriceMinister nécessitant que vous soyez connecté ou identifié et vous n’aurez plus la possibilité de personnaliser les services qui vous sont délivrés par PriceMinister via la plateforme.  
+  
+**5.2 Via une plateforme tierce de gestion des cookies**  
+  
 Vous pouvez également visiter le site Youronlinechoices, proposé par l’Interactive Advertising Bureau France. Ce dernier vous offre la possibilité de refuser les cookies utilisés afin d'adapter à vos informations de navigation les publicités susceptibles d'être affichées sur votre terminal.  
 Cette plate-forme internationale est partagée par des centaines de professionnels de la publicité sur Internet et constitue une interface centralisée vous permettant d'exprimer votre refus des cookies utilisés à des fins de publicité dite "ciblée" ou adaptée.  
    
 Notez que cette procédure n'empêchera pas l'affichage de publicités sur les sites Internet que vous visitez. Elle ne bloquera que les technologies opérées pour adapter des publicités à vos centres d'intérêts.  
   
-
-Mesures d'audience
-
-Afin de mieux vous servir, nous mesurons également le nombre de pages vues, le nombre de visites, ainsi que l’activité des visiteurs sur le site et leur fréquence de retour grâce aux solutions d’AT Internet.  
-   
-Ces mesures d’audience nous permettent ainsi d'établir des statistiques et comptages de fréquentation et d'utilisation des diverses rubriques et contenus du site nous permettant de réaliser des études pour améliorer le contenu, les services que nous vous offrons.  
-   
-Si vous ne souhaitez pas être audité, vous pouvez vous reporter à la page Internet d’AT Internet portant sur le respect de la vie privée et y suivre les indications fournies :  
+**5.3 via les liens proposés par nos partenaires**  
   
-\> Comment ne plus être audité
-
-Messages électroniques
-
-Afin de vous proposer davantage de contenu personnalisé et/ou d’offres privilégiées relatives à des produits similaires à ceux déjà consultés, achetés et disponibles sur PriceMinister, vous pourrez recevoir de la part de PriceMinister les types de messages suivants :  
-   
-\- les lettres d'information ("PriceLetters"),  
-\- des conseils et astuces,  
-\- des sondages,  
-\- des informations générales sur le Groupe Rakuten et de ses filiales, etc.  
-   
-Compte tenu des liens entre PriceMinister et ses sites partenaires, vous pouvez être amené à recevoir de ceux-ci, sous réserve de votre accord exprès préalable, des offres ou des informations. Ces messages pourront vous être transmis, selon votre choix, par voie de courrier électronique, SMS ou courrier postal.  
-   
-Vous pouvez également choisir de recevoir les newsletters éditées par les autres sites du Groupe PriceMinister (notamment "VoyagerMoinsCher").  
-   
-Après avoir finalisé votre commande auprès d'un vendeur professionnel (identifié par ), vous pourrez également recevoir de sa part, par e-mail, des offres personnalisées, sélectionnées pour vous et correspondant à des produits ou services analogues à ceux que vous avez déjà commandés (ventes flash, nouveautés, etc.) via PriceMinister dans la boutique du vendeur professionnel, sans communication de votre adresse e-mail au vendeur.  
-   
-A noter : le contenu de chaque newsletter est rédigé par le marchand en question, qui en est le seul responsable.  
-   
-\>. Comment se désabonner des e-mails automatiques  
-   
-Vous gardez la possibilité de vous désabonner de toutes les newsletters à tout moment, depuis la rubrique "Mes abonnements" de votre compte PriceMinister. Vous pourrez également vous désabonner d'une newsletter précise, grâce à un lien présent au bas de celle-ci. Conformément aux articles 38 et 39 de la Loi Informatique et Libertés du 6 janvier 1978, modifiée en août 2004, vous bénéficiez également d'un droit d'accès et de rectification que vous pourrez exercer en vous rendant sur cette page.  
-   
-Les traitements mis en œuvre par PriceMinister ont fait l’objet soit d’une déclaration auprès de la Commission nationale à l’informatique et aux libertés (CNIL), soit d’une dispense de déclaration en raison de la présence au sein du Groupe PriceMinister d’un Correspondant Informatique et Libertés.  
-  
-
-Sécurité de vos données personnelles
-
-En tant que tiers de confiance, PriceMinister vous garantit la totale sécurité de vos informations personnelles : sauf autorisation exprès de PriceMinister et suite à l'engagement impératif du vendeur de respecter les dispositions de la loi du 6 janvier 1978 relative à l'informatique et aux libertés, un vendeur opérant sur PriceMinister n'a, à aucun moment, accès à votre adresse e-mail et ne pourra en aucun cas vous contacter autrement que via PriceMinister.  
-  
-Les principes ci-dessus ne font pas obstacle à la cession ou au transfert de tout ou partie des activités de PriceMinister à un ou plusieurs tiers.  
-   
-Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons pas nous assurer avec certitude que les services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de ce terminal et non à celle d'un autre utilisateur de ce terminal.  
-   
-Le cas échéant, le partage avec d’autres personnes de l’utilisation de votre terminal et la configuration des paramètres de votre navigateur à l'égard des cookies, relèvent de votre libre choix et de votre responsabilité.
+En cliquant  sur les noms de nos partenaires indiqués dans les tableaux figurant aux paragraphes 4.1 et 4.2 de la présente page « Vie privée et cookies », vous pourrez vous opposer à l’enregistrement des cookies de ces prestataires.
