@@ -299,7 +299,7 @@ Lenovo United States Select a country/region
     
 *   Accessories &. Software
     
-    *   Accessories
+    *   Accessories Hardware Pairings for Your PC
         *   Audio &. Video
         *   Battery Finder
         *   Power Store
@@ -314,7 +314,7 @@ Lenovo United States Select a country/region
         *   Storage
         *   Tablet Accessories
         *   Wireless &. Networking
-    *   Software
+    *   Software Hard Copy or Direct Download
         *   Accounting &. Finance
         *   Education &. Reference
         *   Electronic Downloads
@@ -324,9 +324,8 @@ Lenovo United States Select a country/region
         *   Security
         *   Utilities
         *   Windows 8 Apps
-    *   Technologies
+    *   Technologies The Lenovo Difference Inside
         *   Lenovo Reach
-        *   Enhanced Experience
         *   Lenovo Mobile Access
         *   Thin Client Solutions
         *   Free System Checkup
@@ -335,7 +334,7 @@ Lenovo United States Select a country/region
     *   Best Selling Accessories
     *   Quick Ship Accessories
     *   See All Accessories
-    *   For Work
+    *   Accessories Closeout Sale
 *   Services &. Warranty
     
     *   Product Support Provides flexible warranty support options to keep you up and running.
@@ -359,6 +358,7 @@ Lenovo United States Select a country/region
      
 *   Deals
     *   Current Offers
+        *   End of Summer Sale
         *   Home Laptop &. Desktop Deals
         *   ThinkPad &. ThinkCentre QuickShips
         *   Accessories Closeout Sale
