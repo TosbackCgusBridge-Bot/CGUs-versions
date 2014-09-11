@@ -27,3 +27,43 @@ California Supply Chain Transparency Law
 On January 1, 2012, the California Transparency in Supply Chains Act of 2010 (SB 657) (Act) went into effect in the State of California. The Act seeks the elimination of slavery and human trafficking from product supply chains and requires that companies disclose their efforts to ensure that their supply chains are free from slavery and human trafficking.
 
 As a responsible corporate citizen, we seek to ensure that quality and safety standards are maintained throughout our supply chain by well-treated, fairly compensated workers in accordance with all applicable laws. We assess our vendors on an annual basis using ThinkGeek and third party resources, which assessment includes onsite inspections (both scheduled and unannounced). We also require our suppliers to certify they are in compliance with all applicable laws. We train our ThinkGeek employees involved in our supply chain on these issues, and will terminate business with any supplier found to have violated this policy.
+
+Need to Bug Us About Something Urgent?
+
+Our helpful Live Support Monkeys are here to help through live online chat.
+
+Chat With Someone Now
+
+Bug Us the Old Fashioned Ways
+
+24 hours a day, 365 days a year.
+
+*   1-888-GEEKSTUFF
+    
+    (1-888-433-5788)
+    
+
+**ThinkGeek, Inc.** 11216 Waples Mill Rd. Suite 100  
+Fairfax, VA 22030  
+703-293-6299
+
+Need a map?  
+Sorry locals, we don't have a walk-in store. Just our offices. If you need to come by for an interview, please call first. Thanks!
+
+It's an internets party!
+
+*   Facebook
+    
+    Contests, sales, and silly messages on our wall from fellow geeks
+    
+*   Twitter
+    
+    Hoomans at ThinkGeek tweet, announce contests, answer questions, make typos
+    
+*   Twitter Spam
+    
+    Mecha Timmy relays a humorless feed of new products as they're released on ThinkGeek.com.
+    
+*   YouTube
+    
+    Product videos and staff goofing off on the clock
