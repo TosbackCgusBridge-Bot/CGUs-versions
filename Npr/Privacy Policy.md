@@ -23,7 +23,6 @@ Skip to Main Content Toggle search
     *   Visit NPR
     *   Volunteer
     *   Events
-    *   Host Your Event at NPR
     *   Ways to Listen
     *   Sign Up: Newsletters
     *   Book a Speaker
@@ -218,10 +217,6 @@ NPR thanks our sponsors
 
 Become an NPR sponsor
 
-Support NPR NPR Shop
-
-Support The Programs You Love
-
 *   NPR Home
 *   News
 *   Arts &. Life
@@ -240,7 +235,9 @@ Support The Programs You Love
 *   Logout
 *   Sign In / Register
 
-Support comes from:
+Support comes from: Support NPR NPR Shop
+
+Support The Programs You Love
 
 *   News
     *   U.S.
