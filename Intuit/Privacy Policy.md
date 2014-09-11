@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   JUDITH
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12891348495
+true true L12893487217
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Tue Sep 09 04:17:28 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Wed Sep 10 03:31:46 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,37 +43,43 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+It's The Fall Huge Sale
+
+A little something just for you being you!
+
+Starts now. In Store and Online.
+
+shop the sale30-40% Off Worthington
+
+Select styles.
+
+shop Worthington shop Worthington50% Off Men's Suits and Sport Coats
+
+Select styles.
+
+shop men's suits and sport coats shop men's suits and sport coats
+
+Ends Saturday, September 13.
+
+In Store Only
+
+$10 Off\* $25 or more, or $20 off $50 or more.
+
+print store couponOnline Only
+
+Code: SAVE4YOU
+
+$25 Off\* $100 or more, or $10 Off $50 or more.
+
 In Store and Online
-
-Select original, regular and sale and clearance-priced items.
-
-Ends September 9.
-
-Online Code: FALLSALE
-
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
-
-Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Fall Fashion Sale shop the sale30-40% Off Worthington
+Code: GO4TEN
 
-Select styles.
+\*See exclusions and details. print store coupon 30-50% Off\* Home Savings
 
-Worthington, only at JCPenney.
-
-shop Worthington50% Off Men's Suits and Sport Coats
-
-Select styles.
-
-shop men's suits and sport coats JCPenney Rewards
-
-Shop and earn double points with JCPenney Rewards on all qualifying purchases September 7 through 9.
-
-learn more 30-50% Off\* Home Savings
-
-Select styles with code: HOME32
+Last day! Select styles with code: HOME32
 
 \*See exclusions and details.
 
@@ -95,11 +101,11 @@ shop furniture and mattresses 25-40% Off Select Liz Claiborne shop Liz Claiborne
 
 Big savings come in baby, toddler and preschool sized packages.
 
-30-50% Off Select Baby Apparel shop baby apparel 40-50% Off Select Homecoming Apparel shop homecoming apparel Red Zone Clearance Selections
+30-50% Off Select Baby Apparel shop baby apparel 40-50% Off Select Homecoming Apparel shop homecoming apparel Red Zone Clearance 50-75% Off
 
-In Store and Online. 50 to 75% Off.
+In store and online.
 
-shop now JCP Rewards
+shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -107,7 +113,7 @@ sign up today A Fit For Every Workout shop fitnessSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop Write A Review For Your Chance To Win $500 see rules and details
+shop the SportsFanShopWrite A Review For Your Chance To Win $500 see rules and details
 
 get connected
 
