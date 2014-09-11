@@ -1,4 +1,4 @@
-USESDEFRITBR Juillet 2014
+USESDEFRITBR Août 2014
 
 *   Objet
 *   Mentions légales
@@ -123,16 +123,16 @@ Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharg
 Conditions-generales-d-utilisation.pdf A voir également
 
 *   Conditions générales
-*   Condition d utilisation internet
-*   Conditions générales identification site
+*   D'utilisation
+*   Conditions propriété intellectuelle
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
-*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
 *   Forum Webmastering
-*   Forum Matériel informatique
+*   Forum iPad
