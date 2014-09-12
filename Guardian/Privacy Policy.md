@@ -88,7 +88,7 @@ If you log-in to our sites using a twitter log-in, we receive your avatar (the s
 
 **Use of children's data**
 
-Except for children's books, we do not knowingly collect or store any personal information about children under the age of 16. 'Children's books' is a service for children. However, they need parental permission to join. We do not display personal information about children on the site, and we read through all contributions before they are published. For any questions about children's books, please contact: Children's books, Guardian News and Media, 90 York Way, London, N1 9GU or emailchildrens.books@theguardian.com.
+Except for children's books and Guardian students, we do not knowingly collect or store any personal information about children under the age of 16. 'Children's books' is a service for children. However, they need parental permission to join. We do not display personal information about children on the site, and we read through all contributions before they are published. For any questions about children's books, please contact: Children's books, Guardian News and Media, 90 York Way, London, N1 9GU or emailchildrens.books@theguardian.com.
 
 Updating your personal information
 
