@@ -143,6 +143,7 @@ Aéropostale Go
         *   Boxers
         *   Boxer Briefs
         *   Trunks
+        *   Tees
     
     *   Socks
     
@@ -302,7 +303,6 @@ Back to Top Mobile Signup
 *   COMPANY INFO
 *   ABOUT AÉROPOSTALE
 *   CAREERS
-*   FAQS
 *   INVESTOR RELATIONS
 *   TERMS OF USE
 *   PRIVACY POLICY
