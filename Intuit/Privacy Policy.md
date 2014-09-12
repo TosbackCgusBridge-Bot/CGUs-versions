@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome   JUDITH
+*   Welcome   TNET
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12893487217
+true true L12899391558
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Wed Sep 10 03:31:46 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Thu Sep 11 11:35:37 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,7 +49,7 @@ A little something just for you being you!
 
 Starts now. In Store and Online.
 
-shop the sale30-40% Off Worthington
+shop the sale view store ad30-40% Off Worthington
 
 Select styles.
 
@@ -77,31 +77,33 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 Code: GO4TEN
 
-\*See exclusions and details. print store coupon 30-50% Off\* Home Savings
+\*See exclusions and details. print store couponNight and Day Doorbusters
 
-Last day! Select styles with code: HOME32
+In store only. Friday, September 12 3PM until close, Saturday, September 13 from Open until 1PM.
 
-\*See exclusions and details.
+Excluded from coupon offer.
 
-30% Off\* Kitchen and Dining
+view doorbusters store ad 30-50% Off Home Sale
 
-shop kitchen and dining
+Select styles.
 
-40% Off\* Bedding and Bath
+shop the home sale shop window
+
+30-50% Off Bedding and Bath
 
 shop bedding and bath
 
-40% Off\* Blinds and Shades
+30-50% Off Kitchen and Dining
 
-shop blinds and shades
+shop kitchen and dining
 
-40% Off\* Furniture and Mattresses
+40-50% Off Window
 
-shop furniture and mattresses 25-40% Off Select Liz Claiborne shop Liz Claiborne Shoe and Handbag Event 25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags 25% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay Baby Sale
+shop window
 
-Big savings come in baby, toddler and preschool sized packages.
+40-50% Off Furniture and Mattresses
 
-30-50% Off Select Baby Apparel shop baby apparel 40-50% Off Select Homecoming Apparel shop homecoming apparel Red Zone Clearance 50-75% Off
+shop furniture and mattresses 25-40% Off Select Liz Claiborne shop Liz Claiborne 40-50% Off Select Haggar shop Haggar 30-50% Off Select Baby Apparel shop baby apparel Shoe and Handbag Event 25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags Billion Dollar Jewelry Sale 45-65% Off Select Fine Jewelry, Modern Bride and Bijoux Bar shop fine jewelry 25% Off Select Bras When You Buy 2 Or More shop bras Red Zone Clearance 50-75% Off
 
 In store and online.
 
