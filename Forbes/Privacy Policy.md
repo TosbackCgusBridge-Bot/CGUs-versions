@@ -3,7 +3,7 @@
   
 FORBES.COM PRIVACY STATEMENT
 
-_Revised and posted as of: August 28, 2014_
+_Revised and posted as of: September 11, 2014_
 
 Forbes.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Forbes.com website and services. The Forbes.com website is owned and operated by Forbes.com LLC.
 
@@ -113,7 +113,7 @@ Forbes.com may disclose your personal information if required to do so by law or
 
 Security
 
-Your information is stored on Forbes.com's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and the Secure Sockets Layer (SSL). We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
+Your information is stored on Forbes.com's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
 
 Privacy of Children
 
