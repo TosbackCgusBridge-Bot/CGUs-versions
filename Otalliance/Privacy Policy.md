@@ -99,7 +99,7 @@ Mon, Sep 15, 2014 Big Data: A Tool for Inclusion or Exclusion
 
 The Federal Trade Commission will host a public workshop entitled “Big Data: A Tool for Inclusion or Exclusion?” to further explore the use of “big data” and its impact on American consumers, including low income and underserved consumers.
 
-Wed, Sep 17, 2014 OTA UnSubscribe Audit Briefing
+Wed, Sep 17, 2014 OTA Networking Event &. UnSubscribe Audit Briefing
 
 Join OTA Executive Director Craig Spiezle, Sailthru CEO Neil Capel and other industry leaders who will review the 2014 OTA Email Unsubscribe Audit and discuss related marketing and user centric and privacy enhancing best practices. Learn the importance of moving past compliance to stewardship and what it means to your brand and consumer trust.  
 
