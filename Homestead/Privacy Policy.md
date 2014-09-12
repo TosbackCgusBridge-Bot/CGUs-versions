@@ -7,7 +7,6 @@ Navigation:
     *   Design Templates
     *   Get a Domain
 *   Sell Online
-    *   Simple Store Test
 *   Get Traffic
     *   Overview
     *   SEO Services
