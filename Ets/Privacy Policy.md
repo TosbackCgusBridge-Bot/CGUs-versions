@@ -90,6 +90,8 @@ Back to Top
 
 Cookies
 
+Generally, as an enterprise, our systems do not support "Do Not Track" capabilities.
+
 As with many other sites, our Website may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. We may collect the following types of information about your visit including: the domain from which you access the Internet. IP address. operating system and information about the device or browser used when visiting the site. date and time of your visit. content you visited or downloaded. and website (such as google.com or bing.com) and website referral source (email notice or social media site) that connected you to the website. ETS uses third party measurement software to collect the information listed above.
 
 There are two types of cookies: single-session (temporary) and multi-session (persistent). Temporary cookies last only as long as your Web browser is open, and are used for technical purposes such as enabling better navigation through our site. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods and are used for purposes including tracking the number of unique visitors to our site and information such as the number of views a page gets, how much time a user spends on a page, and other pertinent web statistics.
