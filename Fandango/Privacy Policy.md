@@ -27,7 +27,7 @@ Gift Cards | Offers | Visa Signature
     *   The Skeleton Twins
     *   The Green Prince
     *   Honeymoon
-    *   I Am Eleven
+    *   Finding Fanny
     *   My Old Lady
     *   Bird People
     *   See All Opening This Week
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Rumor of the Day: Could this be D.C.'s answer to 'Guardians of the Galaxy'? Read More Chris Evans isn't going anywhere. who does Bill Murray think should play lady Ghostbusters? Read More Katniss is on fiyah! in newest 'Mockingjay - Part 1' poster Read More Explore More
+*   Movie News Featured Movie News OFFICIAL PIC: Here's Ben Affleck's Batmobile Read More Chris Evans isn't going anywhere. who does Bill Murray think should play lady Ghostbusters? Read More Katniss is on fiyah! in newest 'Mockingjay - Part 1' poster Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
