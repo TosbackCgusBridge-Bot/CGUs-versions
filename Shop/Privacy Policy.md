@@ -200,6 +200,7 @@ Lenovo United States Select a country/region
         *   N Series: Affordable Chromebooks
     
     Not sure what you need?
+    *   Laptops Clearance Sale
     *   New Product Showcase
     *   Top Rated &. Best Selling Laptops
     *   Convertibles
@@ -261,6 +262,7 @@ Lenovo United States Select a country/region
         *   Erazer X Series: Extreme-Performance Gaming PCs
     
     Not sure what you need?
+    *   Desktops Clearance Sale
     *   New Product Showcase
     *   Best Selling Desktops
     *   Gaming PCs
@@ -273,8 +275,8 @@ Lenovo United States Select a country/region
     *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
         *   C Series: Powerful &. Compact
         *   D Series: Extreme Speed, Dual CPU
-        *   P300: Entry-Level Power &. Stability
-        *   S Series: High-Performance, Powerful Graphics
+        *   P Series: Entry-Level Power &. Stability
+        *   30 Series: High-Performance, Powerful Graphics
     *   ThinkPad Mobile Workstations The Ultimate Mobile Workstation
         *   W Series: Portable Workstations
     
@@ -314,7 +316,7 @@ Lenovo United States Select a country/region
         *   Storage
         *   Tablet Accessories
         *   Wireless &. Networking
-    *   Software Hard Copy or Direct Download
+    *   Software Digital Downloads or Hard Copies
         *   Accounting &. Finance
         *   Education &. Reference
         *   Electronic Downloads
@@ -331,10 +333,10 @@ Lenovo United States Select a country/region
         *   Free System Checkup
     
     Not sure what you need?
+    *   Accessories Clearance Sale
     *   Best Selling Accessories
     *   Quick Ship Accessories
     *   See All Accessories
-    *   Accessories Closeout Sale
 *   Services &. Warranty
     
     *   Product Support Provides flexible warranty support options to keep you up and running.
@@ -361,7 +363,8 @@ Lenovo United States Select a country/region
         *   End of Summer Sale
         *   Home Laptop &. Desktop Deals
         *   ThinkPad &. ThinkCentre QuickShips
-        *   Accessories Closeout Sale
+        *   Accessories Clearance Sale
+        *   Accessories Hot Deals
         *   Deals for Students and Educators
         *   Outlet
     
