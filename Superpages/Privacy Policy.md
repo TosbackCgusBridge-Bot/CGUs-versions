@@ -208,7 +208,7 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Every Car Listed
 *   Featured Businesses
 *   Popular Categories
-*   SuperTips
+*   Enlightenme
 *   Lottery Results
 *   Weather Forecasts
 *   Superpages Mobile
@@ -228,6 +228,6 @@ Sign up to receive special offers and promotions from Superpages.com
 
 Data provided by one or more of the following: Dex Media, Acxiom, Infogroup   |   \* Sponsored Results
 
-©2014 Dex Media, Inc. All rights reserved.
+©2014 Dex Media. All rights reserved.
 
 Feedback
