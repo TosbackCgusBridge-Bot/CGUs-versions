@@ -114,7 +114,7 @@ Tue, Sep 23, 2014 Think you know everything about email deliverability? Email de
 *   OTA Blog
 *   Newsletters
 
-Wed, Aug 20, 2014 The Future of the Internet, Moving Past Advertising
+Fri, Sep 12, 2014 Putting Trust Back Into the Inbox In recognition of the decade since CAN-SPAM went into effect, businesses, industry and trade industry organizations committed to meaningful self-regulation join forces to help enhance trust in email marketing and raise the bar from compliance to user-centric stewardship. OTA calls for others to join the effort and help put trust into the inbox! Wed, Aug 20, 2014 The Future of the Internet, Moving Past Advertising
 
 **The Future of the Internet, Moving Past Advertising**
 
@@ -128,7 +128,7 @@ Mon, Jul 28, 2014 Password Vulnerability - Do not become a StubHub!
 
 OTA and leading security organizations have been warning for years the danger of using similar combinations of the same password across multiple accounts. It is no surprise that StubHub customers are the most recent victims of a major account takeover scam perpetrated by an international cybercrime ring. The increase of data breaches (along with spearphishing) is driving an increase in account takeover incidents.
 
-Mon, Jul 14, 2014 US Senate to Hold Hearing On Botnets The Senate Crime and Terrorism Subcommittee, Chaired by Senator White House and ranking Member Graham have called for this hearing to review progress and efforts to combat botnets. Join OTA Executive Director Craig Spiezle, and witnesses from Microsoft, Symantec, the FBI and DOJ discussing efforts to stomp out botnets and the importance of data sharing and multi-stakeholder efforts. Resources
+Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
