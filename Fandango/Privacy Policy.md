@@ -317,17 +317,17 @@ Offers **Dolphin Tale 2 SuperTicket**
 
 UPGRADE TO SUPERTICKET See the movie in theatres + own Dolphin Tale and Dolphin Tale 2 on Digital HD. BUY TICKETS
 
-**Fifty Shades of Grey Sweepstakes**
+**Cash for College Sweepstakes**
 
-Enter now for a chance to win a trip to the WORLD PREMIERE of Fifty Shades of Grey! ENTER NOW
+“Like” Fandango Family on Facebook &. you could win $10,000! ENTER NOW
 
 **Boxtrolls Gift Cards**
 
 Give fun and adventure with a gift card today. BUY NOW
 
-**Sweeten Your Gift With Free Treats**
+**Guardians of the Galaxy Gift Cards**
 
-Use promo code: POPCORN to get $5 in concessions with gift card orders of $50 or more. BUY NOW
+Available for a limited time only. Get yours today! BUY NOW
 
 New + Coming Soon
 
