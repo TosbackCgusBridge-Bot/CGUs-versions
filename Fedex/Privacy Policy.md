@@ -281,6 +281,7 @@ Companies
 *   FedEx Custom Critical
 *   FedEx Trade Networks
 *   FedEx SupplyChain
+*   FedEx TechConnect
 
 Follow FedEx United States - English
 
