@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Town of the Living Dead: Trailer Town of the Living Dead: Trailer
+Syfy Video 12 Monkeys - Coming in January 12 Monkeys - Coming in January
+
+12 Monkeys Coming in January to Syfy
+
+Town of the Living Dead: Trailer Town of the Living Dead: Trailer
 
 Zombie movie meets small town Alabama. Premieres Oct 7 at 10/9c
 
@@ -262,10 +266,6 @@ Town of the Living Dead Premieres with back to back episodes October 7th at 10/9
 Z Nation - Season 1 Trailer Z Nation - Season 1 Trailer
 
 Z Nation airs Fridays at 10/9c on Syfy
-
-BlastrTVs the Summer of Sci-fi: Ghostbuste ... BlastrTVs the Summer of Sci-fi: Ghostbusters Walking Tour
-
-BlastrTVs look back at the most influential Sci-fi movie summer ever continues as we show off some of the most iconic locations from Ghostbusters and give you an inside look at what went into making the iconic blockbuster.
 
 *   FAQ
 *   Feedback
