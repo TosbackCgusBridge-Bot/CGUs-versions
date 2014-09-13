@@ -102,7 +102,7 @@ This file was last modified September 17, 2012
     *   Get a Domain
     *   Plans &. Pricing
 *   Sell Online
-    *   How it Works
+    *   Simple Store
 *   Get Traffic
     *   SEO Services
     *   Paid Search Ads
