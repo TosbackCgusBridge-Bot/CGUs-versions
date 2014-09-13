@@ -177,7 +177,7 @@ Copyright © 2014 SPIL GAMES B.V. All rights reserved.
 *   Design your own unique avatar
 
 Just sign up... Use your social network Sign up with Facebook Sign up with Google or join below with your email address Sign up with Email Sign up with your social network What name do you want to represent you here? Your username must be at least 3 characters. Sorry, you can't use that. Pick something else. Your username may only use letters, numbers, hyphens, and underscores. Sorry, this username's already taken! But these aren't: We'll keep this private! This is not a valid e-mail address. Please try again We know this email...have you already joined?  
-Log in or get a new password. Pick something safe with at least 6 characters! You need a password with at least 6 characters Birthdate When were you born? This is not a valid date of birth. Please try again Sorry, but we can’t make an account for you. MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDayYear Gender Boy Girl
+Log in or get a new password. Pick something safe with at least 6 characters! You need a password with at least 6 characters Birthdate When were you born? This is not a valid date of birth. Please try again Sorry, but we can't make an account for you. MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDayYear Gender Boy Girl
 
 I have read and agree to the Privacy Policy and Terms of Use of Agame.com
 
