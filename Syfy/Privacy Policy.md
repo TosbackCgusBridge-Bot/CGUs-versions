@@ -263,9 +263,9 @@ Town of the Living Dead Premieres October 7th ... Town of the Living Dead Premie
 
 Town of the Living Dead Premieres with back to back episodes October 7th at 10/9c!
 
-Z Nation - Season 1 Trailer Z Nation - Season 1 Trailer
+Z Nation - All The Kills- Episode 1 Z Nation - All The Kills- Episode 1
 
-Z Nation airs Fridays at 10/9c on Syfy
+Learn to count with Z Nation zombie kills! 1 zombie dead, 2 zombies dead, 3 zombies...
 
 *   FAQ
 *   Feedback
