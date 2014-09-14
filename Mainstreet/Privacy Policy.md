@@ -7,8 +7,8 @@ Main Street
 *   Alerts
 
 *   Home
-*   Autos
 *   Credit Cards
+*   Autos
 *   Retirement
 *   Mortgages
 *   Insurance
