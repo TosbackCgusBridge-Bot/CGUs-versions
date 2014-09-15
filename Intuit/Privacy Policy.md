@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true 10.60.248.10 L12903638547
+true true L12909630319
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Sep 13 03:54:25 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sun Sep 14 11:23:57 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,67 +43,65 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-It's The Fall Huge Sale
-
-A little something just for you being you!
-
-Starts now. In Store and Online.
-
-shop the sale view store ad30-40% Off Worthington
-
-Select styles.
-
-shop Worthington shop Worthington50% Off Men's Suits and Sport Coats
-
-Select styles.
-
-shop men's suits and sport coats shop men's suits and sport coats
-
-Ends Saturday, September 13.
-
-In Store Only
-
-$10 Off\* $25 or more, or $20 off $50 or more.
-
-print store couponOnline Only
-
-Code: SAVE4YOU
-
-$25 Off\* $100 or more, or $10 Off $50 or more.
-
 In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Code: GO4TEN
+All offers apply to select original, regular, sale and clearance-priced items.
 
-\*See exclusions and details. print store couponNight and Day Doorbusters
+Or
 
-In store only. Friday, September 12 3PM until close, Saturday, September 13 from Open until 1PM.
+Online Only Orders over $100
 
-Excluded from coupon offer.
+Extra 25% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
 
-view doorbusters store ad 30-50% Off Home Sale
+Or, Extra 20% Off\* with any other method of payment.
+
+Use Code: CREDIT33
+
+Ends September 20.
+
+\*See exclusions and details. print store coupon Fall Fashion Sale shop the sale view store ad30-40% Off Select Worthington shop Worthington shop Worthington40-50% Off Select Men's Suits and Sport Coats shop men's suits and sport coats shop men's suits and sport coats 30-50% Off Home Sale
 
 Select styles.
 
-shop the home sale shop window
+shop the home sale
 
-30-50% Off Bedding and Bath
+Bedding and Bath
 
 shop bedding and bath
 
-30-50% Off Kitchen and Dining
+Kitchen and Dining
 
 shop kitchen and dining
 
-40-50% Off Window
+Home Decor
+
+shop home decor
+
+Furniture and Mattresses
+
+shop furniture and mattresses
+
+Window
 
 shop window
 
-40-50% Off Furniture and Mattresses
+Luggage
 
-shop furniture and mattresses 25-40% Off Select Liz Claiborne shop Liz Claiborne 40-50% Off Select Haggar shop Haggar 30-50% Off Select Baby Apparel shop baby apparel Shoe and Handbag Event 25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags Billion Dollar Jewelry Sale 45-65% Off Select Fine Jewelry, Modern Bride and Bijoux Bar shop fine jewelry 25% Off Select Bras When You Buy 2 Or More shop bras Red Zone Clearance 50-75% Off
+shop luggage 25-40% Off Select Liz Claiborne shop Liz Claiborne 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 25% Off Select Bras When You Buy 2 Or More shop bras Shoe and Handbag Event
+
+September 7 through 23.
+
+25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags Billion Dollar Jewelry Sale
+
+September 11 through 23.
+
+45-60% Off Select Fine Jewelry, and Bijoux Bar shop fine jewelry Baby Sale 30-50% Off Select Baby Apparel shop baby apparel Red Zone Clearance 50-75% Off
 
 In store and online.
 
@@ -115,7 +113,7 @@ sign up today A Fit For Every Workout shop fitnessSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShopWrite A Review For Your Chance To Win $500 see rules and details
+shop the SportsFanShopWrite A Review For Your Chance To Win $500 get details
 
 get connected
 
