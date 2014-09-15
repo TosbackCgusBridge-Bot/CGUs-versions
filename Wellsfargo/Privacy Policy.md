@@ -5,7 +5,7 @@ Skip to content
 *   ATMs/Locations
 *   Español
 
-Search
+Search Use up and down arrows to navigate suggestions.
 
 *   Personal
 *   Small Business
@@ -156,14 +156,14 @@ Wealth Solutions
 
 *   Wealth Planning
 *   Private Banking
-*   Investments
-*   Specialized Solutions
-*   Trust Solutions
+*   Investment Management
+*   Specialized Wealth Services
+*   Trust Services
 
 Wealth Advice and Guidance
 
-*   Wealth Management Insights Center
-*   Conversations Magazine
+*   Wealth Management Insights
+*   _Conversations_ Magazine
 
 Next Step
 
@@ -174,9 +174,9 @@ Next Step
 *   Personal
 *   Privacy, Security, and Legal
 *   Privacy Policies
-*   Wells Fargo Online and Mobile Privacy Policy
+*   Wells Fargo Digital Privacy and Cookies Policy
 
-Wells Fargo Online and Mobile Privacy Policy
+Wells Fargo Digital Privacy and Cookies Policy
 
 *   Print
 
@@ -234,12 +234,11 @@ If we make updates to this Policy, we will update the Policy with the changes an
 
 *   About Wells Fargo
 *   Careers
-*   Privacy, Security &. Legal
+*   Privacy, Cookies, Security &. Legal
 *   Report Fraud
 *   Sitemap
 *   Home
 *   Diversity &. Accessibility
-*   Online Access Agreement
 *   Blogs &. Social Media
 
 © 1999 - 2014 Wells Fargo. All rights reserved. NMLSR ID 399801
