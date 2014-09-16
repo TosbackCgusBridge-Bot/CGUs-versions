@@ -86,7 +86,7 @@ Personal information is information that identifies you or is reasonably linked 
   
 Information from Other Sources
 
-We may receive personal information about you from other sources as well. Examples of these sources are entities that can help us correct or supplement our records, improve the quality or personalization of our service to you, and help prevent or detect fraud. In addition, we may collect information from consumer reporting agencies or other service providers if you obtain certain financial products.
+We receive personal information about you from other sources. This information helps us to correct or supplement our records, improve the quality or personalization of our service to you, and prevent or detect fraud. We collect personal information from consumer reporting agencies in conjunction with products or services that involve financial risk to Sam's Club.
 
   
 Automated Information Collection
@@ -317,4 +317,4 @@ Our privacy policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.  
   
-Effective: June 13, 2014
+Effective: September 15, 2014
