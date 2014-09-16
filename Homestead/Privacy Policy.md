@@ -7,6 +7,7 @@ Navigation:
     *   Design Templates
     *   Get a Domain
 *   Sell Online
+    *   Advanced Store
 *   Get Traffic
     *   Overview
     *   SEO Services
@@ -103,6 +104,7 @@ This file was last modified September 17, 2012
     *   Plans &. Pricing
 *   Sell Online
     *   Simple Store
+    *   Advanced Store
 *   Get Traffic
     *   SEO Services
     *   Paid Search Ads
