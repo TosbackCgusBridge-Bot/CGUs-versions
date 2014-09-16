@@ -10,21 +10,19 @@ AOL Privacy Policy Highlights
 
 We are committed to building, improving, and expanding some of the best brands online – or anywhere, for that matter. You can find out about our brands such as The Huffington Post, MapQuest, Engadget, AOL Advertising and more.  
   
-**Effective September 15, 2014, the AOL** **Terms of Service and Privacy Policy will be updated**. We hope you'll read the full **Updated Privacy Policy**. Additional information about these updates may be found in our **Frequently Asked Questions**. Para leer este documento actualizará en español haz clic aquí.  
-  
 This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to AOL branded websites, services, and software, as well as many websites owned by or affiliated with AOL and operating under different names. Para leer este documento en español haz clic aquí.
 
-Personal Information
+Information We Collect and Receive
 
-We collect personal information when you make your information known, such as by registering, authenticating, making purchases, or interacting with AOL. If you do not make yourself known to AOL, your use of our content and services is generally anonymous.
+We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources.
 
 How we use your Information
 
-Your AOL information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalize the content and advertisements provided to you.
+The information we collect and receive is used to provide our Services, to improve our Services, and to offer effective advertising, which helps us keep most of our Services free.
 
 Information Sharing
 
-AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties.
+AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties. We may, however, share non-personally identifiable information with select business partners.
 
 Internet Advertising
 
@@ -49,7 +47,7 @@ How to Contact Us **AOL Privacy**
 Dulles, VA 20166  
 privacyquestions@aol.com What's New
 
-*   The AOL Privacy Policy will be updated effective 9/15/2014.
+*   The AOL Privacy Policy was updated effective 9/15/2014.
 *   More information about our use of Cookies, Web Beacons, and Other Technologies.
 *   Updated information related to your Mobile Choices.
 *   More information about Advertising, Analytics, and Privacy.
