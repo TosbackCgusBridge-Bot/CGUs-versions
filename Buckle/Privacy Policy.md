@@ -1,6 +1,6 @@
-Military Guests, thank you for your service.
+Buckle Cardholders, your free gift is waiting!
 
-10% Military Discount
+See Details
 
 Online Orders 800-522-8090
 
