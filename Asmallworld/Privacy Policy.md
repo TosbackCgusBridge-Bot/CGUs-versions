@@ -3,8 +3,8 @@ A Small World . Net A Small World . Net A Small World . Net
 *   Menu
     *   About ASW
     *   Member Benefits
-    *   ASW Foundation
     *   More
+        *   ASW Foundation
         *   The Globalist
         *   Press
         *   Contact Us
@@ -12,7 +12,7 @@ A Small World . Net A Small World . Net A Small World . Net
 
 Privacy Policy
 
-ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland and ASMALLWORLD Limited having its registered office at Eighth Floor, 6 New Street Square, New Fetter Lane,  London, England EC4A 3AQ are joint data controllers (collectively “ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at privacy@asw.com. Alternatively, you can contact us at:
+ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland and ASMALLWORLD Limited having its registered office at Eighth Floor, 6 New Street Square, New Fetter Lane, London, England EC4A 3AQ are joint data controllers (collectively “ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at privacy@asw.com. Alternatively, you can contact us at:
 
 Privacy Policy Issues
 
@@ -141,26 +141,26 @@ Save Cancel Comments × Delete Comment ×
 
 Are you sure you want to delete this comment?
 
-OkCancel Edit Trip × Destination Country Please select...AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian OceanBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos IslandsColombiaComorosCongo (Dem Rep of the)Congo (Rep of the)Cook IslandsCosta RicaCote d'IvoireCroatiaCubaCuracoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern Terr.GabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHeard and McD. Isl.HondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKoreaKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanOtherPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint HelenaSaint Kitts and NevisSaint LuciaSaint PierreSaint VincentSamoaSan MarinoSao Tome and Princ.Saudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSpainSri LankaSudanSurinameSvalbardSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzaniaThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos Isl.TuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamVirgin IslandsWallis and Futuna Isl.Western SaharaYemenZaireZambiaZimbabwe Destination City Enter A Country First City Name Message From:  
+OkCancel Edit Trip ×
 
-From
-
-To:  
-
-Until
-
-Save Trip\*
-
-\* Saving your trip will automatically share it with the community.
+*   Destination Country Please select...AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian OceanBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos IslandsColombiaComorosCongo (Dem Rep of the)Congo (Rep of the)Cook IslandsCosta RicaCote d'IvoireCroatiaCubaCuracoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern Terr.GabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHeard and McD. Isl.HondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKoreaKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanOtherPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint HelenaSaint Kitts and NevisSaint LuciaSaint PierreSaint VincentSamoaSan MarinoSao Tome and Princ.Saudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSpainSri LankaSudanSurinameSvalbardSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzaniaThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos Isl.TuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamVirgin IslandsWallis and Futuna Isl.Western SaharaYemenZaireZambiaZimbabwe
+*   Destination City Enter A Country First
+*   City Name
+*   Message
+*   From:  
+    
+    From
+    
+    To:  
+    
+    Until
+    
+*   Save Trip\*
+*   \* Saving your trip will automatically share it with the community.
+    
 
 delete trip ×
 
 Are you sure you want to delete this trip?
 
-Ok Cancel Welcome To ASW Site Tours ×
-
-The ASW site tours below will give you detailed insights into how aspects of our site can be used. Click on a tour name below to get started.
-
-Discussions
-
-Discussions are a great way to participate in the ASW community. See the topics that have the ASW community buzzing all with enhanced display and functionality.
+Ok Cancel
