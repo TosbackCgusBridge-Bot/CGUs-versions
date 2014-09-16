@@ -4,40 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   No Good Deed
+    *   Dolphin Tale 2
+    *   The Maze Runner
+    *   Tusk
+    *   A Walk Among the Tombstones
     *   Guardians of the Galaxy
+    *   This Is Where I Leave You
+    *   The Drop
     *   Teenage Mutant Ninja Turtles (2014)
-    *   If I Stay
     *   Let's Be Cops
-    *   The November Man
-    *   As Above/So Below
-    *   When the Game Stands Tall
-    *   The Giver
-    *   The Hundred-Foot Journey
-    *   Lucy
-    *   The Identical
+    *   If I Stay
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Dolphin Tale 2
-    *   No Good Deed
-    *   Atlas Shrugged: Who is John Galt?
-    *   The Drop
-    *   The Disappearance of Eleanor Rigby
-    *   The Skeleton Twins
-    *   The Green Prince
-    *   Honeymoon
-    *   Finding Fanny
-    *   My Old Lady
-    *   Bird People
+    *   The Maze Runner
+    *   This Is Where I Leave You
+    *   Tusk
+    *   A Walk Among the Tombstones
+    *   20,000 Days on Earth
+    *   The Guest
+    *   Hector and the Search for Happiness
+    *   Pump
+    *   Stop the Pounding Heart
+    *   Swim Little Fish Swim
+    *   Tracks
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Maze Runner
-    *   A Walk Among the Tombstones
-    *   Tusk
-    *   This Is Where I Leave You
     *   The Boxtrolls
     *   The Equalizer
     *   Annabelle
@@ -45,6 +41,10 @@ Gift Cards | Offers | Visa Signature
     *   Left Behind
     *   Addicted
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
+    *   Dracula Untold
+    *   The Judge
+    *   The Best of Me
+    *   The Book of Life
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News OFFICIAL PIC: Here's Ben Affleck's Batmobile Read More Chris Evans isn't going anywhere. who does Bill Murray think should play lady Ghostbusters? Read More Katniss is on fiyah! in newest 'Mockingjay - Part 1' poster Read More Explore More
+*   Movie News Featured Movie News WATCH: The first full-length trailer for 'Mockingjay -- Part 1' -- let the battle begin! Read More First 'Ted 2' photo. 'Zoolander 2' finally moving forward. Ang Lee takes on the Iraq War Read More Wait -- THAT'S Chris Pratt? What he once looked like Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -325,9 +325,9 @@ UPGRADE TO SUPERTICKET See the movie in theatres + own Dolphin Tale and Dolphin 
 
 Give fun and adventure with a gift card today. BUY NOW
 
-**Guardians of the Galaxy Gift Cards**
+**Sweeten Your Gift With Free Treats**
 
-Available for a limited time only. Get yours today! BUY NOW
+Use promo code: POPCORN to get $5 in concessions with gift card orders of $50 or more. BUY NOW
 
 New + Coming Soon
 
