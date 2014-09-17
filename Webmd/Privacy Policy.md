@@ -194,7 +194,7 @@ Symptoms| Doctors| Health Care Reform
     
     WebMD Second Opinion
     
-    Read expert perspectives on popular health topics.
+    Read expert perspecitves on popular health topics.
     
     WebMD Communities
     
@@ -231,7 +231,7 @@ With a WebMD Account you can:
 *   Manage your family's vaccinations
 *   Join the conversation
 
-See more benefits Sign Up Why WebMD? My WebMD Show Menu
+See more benefits Sign Up Subscribe My WebMD Show Menu
 
 *   My Tools
 *   My WebMD Pages
@@ -400,7 +400,7 @@ Non-Personal Information Collected by Third Parties Not Acting on WebMD’s Beha
 
 We work with third parties to display advertising that reflects the interests and preferences of our user community. Sponsors or advertisers on the WebMD Web Sites may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on the WebMD Web Sites and in emails, special promotions or newsletters we send you. Their advertisements may be displayed on the WebMD Web Sites or on other sites that you visit after you visit the WebMD Web Sites. Some advertisers use companies other than WebMD to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect Non-Personal Information through the use of Cookies or Web Beacons on the WebMD Web Sites.
 
-We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the WebMD Web Sites. However, our Advertising Policy prohibits sponsors, advertisers and Ad Servers who collect cookie or web beacon information through the WebMD Web Sites from collecting any Personal Information from the WebMD Web Sites without your consent. Our Advertising Policy also prohibits advertisers from linking any Non-Personal Information collected by them on the WebMD Web Sites to Personal Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. To see how Google may use information collected through your use of Google's AdSense services on the WebMD Web Sites visit http://www.google.com/policies/privacy/partners.
+We do not control how third parties use Cookies or Web Beacons or how they manage the Non-Personal Information they gather through the use of these technologies on the WebMD Web Sites. However, our Advertising Policy prohibits sponsors, advertisers and Ad Servers who collect cookie or web beacon information through the WebMD Web Sites from collecting any Personal Information from the WebMD Web Sites without your consent. Our Advertising Policy also prohibits advertisers from linking any Non-Personal Information collected by them on the WebMD Web Sites to Personal Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. To see how Google may use information collected through your use of Google's search services on the WebMD Web Sites visit http://www.google.com/policies/privacy/partners.
 
 What Choices Do I Have? Updating/Removing Your Personal Information
 
