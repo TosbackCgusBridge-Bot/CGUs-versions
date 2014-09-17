@@ -97,7 +97,7 @@ We at POPSUGAR Inc. (“POPSUGAR,” “we,” “us,” “our”) know that ou
     
 14.  QUESTIONS OR CONCERNS
     
-    If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street Suite 850, San Francisco, California, 94104, ATTN: POPSUGAR Inc. We will make every effort to resolve your concerns.
+    If you have any questions or concerns regarding our privacy policies, please send us a detailed message to community@popsugar.com or contact us at 111 Sutter Street, 14th Floor, San Francisco, California, 94104, ATTN: POPSUGAR Inc. We will make every effort to resolve your concerns.
     
 
 Effective Date: June 24, 2014
