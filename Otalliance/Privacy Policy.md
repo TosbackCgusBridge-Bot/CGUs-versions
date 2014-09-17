@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Sep 15, 2014 Big Data: A Tool for Inclusion or Exclusion
-
-The Federal Trade Commission will host a public workshop entitled “Big Data: A Tool for Inclusion or Exclusion?” to further explore the use of “big data” and its impact on American consumers, including low income and underserved consumers.
-
 Wed, Sep 17, 2014 OTA Networking Event &. UnSubscribe Audit Briefing
 
 Join OTA Executive Director Craig Spiezle, Sailthru CEO Neil Capel and other industry leaders who will review the 2014 OTA Email Unsubscribe Audit and discuss related marketing and user centric and privacy enhancing best practices. Learn the importance of moving past compliance to stewardship and what it means to your brand and consumer trust.  
@@ -109,7 +105,9 @@ Thu, Sep 18, 2014 OPA Content All Stars in NYC
 
 Join OTA at the Online Publishers Association (OTA) to see who is shaping the future of marketing and media with compelling content experiences. Marketing and digital media leaders from a diverse range of businesses — from energy drinks to finance and from pop culture to the newspaper of record — will be in attendance and on the agenda. Content All Stars is a one-of-a-kind networking and learning opportunity designed to help you make connections that will matter, personally and professionally.   **Save 20% with code "Promo20"**
 
-Tue, Sep 23, 2014 Think you know everything about email deliverability? Email deliverability is constantly changing - what you knew yesterday may not be enough to reach your customers today. In fact, according to a study by Return Path\*, 22% of emails never actually make it to your customer’s inbox. If your customer is not seeing 1 in 5 of your emails, how does that affect their engagement? And what does that mean for your bottom line?
+Tue, Sep 23, 2014 Think you know everything about email deliverability? Email deliverability is constantly changing - what you knew yesterday may not be enough to reach your customers today. In fact, according to a study by Return Path\*, 22% of emails never actually make it to your customer’s inbox. If your customer is not seeing 1 in 5 of your emails, how does that affect their engagement? And what does that mean for your bottom line? Wed, Sep 24, 2014 2014 Trusted Cyber Collabortion Workshop
+
+TSCP is proud to present the Trusted Cyber Collaboration Workshop, an industry-leading workshop and vendor showcase on secure collaboration among industry partners across supply chains. The Transglobal Secure Collaboration Participation (TSCP) is the only government-industry partnership specifically focused on designing solutions to address the most critical issues facing global industry: mitigating the compliance, complexity, cost and IT security risks inherent in large-scale, multi-national collaborative programs.
 
 *   OTA Blog
 *   Newsletters
