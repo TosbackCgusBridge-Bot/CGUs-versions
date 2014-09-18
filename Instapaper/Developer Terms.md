@@ -18,7 +18,7 @@ Apps must not add bookmarks to users' accounts that the users did not explicitly
 
 Apps must not make multiple simultaneous requests to the Instapaper Mobilizer or the "Bookmarks: Get Text" method. Such requests must be performed in series, not in parallel. Requests to the Instapaper Mobilizer must only be made when the user has explicitly requested a page to be viewed, and may not be automatically bulk-loaded in advance or in the background.
 
-Apps must not attempt to circumvent any subscription-account requirements.
+Apps must not attempt to circumvent any Premium account requirements.
 
 For page additions that require full content to be supplied, including those for which the API returns the "1220: Domain requires full content to be supplied" error, apps that send the full content must not substantially alter the page's content from the way it appears in a standard web browser.
 
