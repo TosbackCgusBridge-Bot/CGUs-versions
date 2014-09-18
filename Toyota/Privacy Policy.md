@@ -16,7 +16,6 @@
 *   Hybrids &. EVs
 *   Upcoming Vehicles
 
-*   2015 Sienna View More Info
 *   2015 Camry View More Info
 *   2015 Toyota FuelCell Vehicle View More Info
 *   Concept Vehicles See Vehicles
@@ -361,5 +360,6 @@ About Toyota
 *   Toyota USA Newsroom
 *   Toyota Worldwide
 *   Toyota Racing
+*   TRD USA
 
 Language Español Privacy Policy Legal Terms Site Map AdChoices ©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   \[#\] View All Disclosures
