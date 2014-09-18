@@ -1,6 +1,8 @@
 Hilfeseiten durchsuchen: Amazon.de-Datenschutzerklärung
 
-Zuletzt geändert: 01. Juli 2014 - welche Änderung zur Datenschutzerklärung vom 26. Februar 2014 bestehen, sehen Sie hier.
+**Zuletzt geändert:** 01. Juli 2014.
+
+Welche Änderung zur Datenschutzerklärung vom 26. Februar 2014 bestehen, sehen Sie hier.
 
 Wir wissen, dass Ihnen der sorgfältige Umgang mit Ihren persönlichen Informationen wichtig ist. Deshalb schätzen wir Ihr Vertrauen, dass Amazon gewissenhaft mit diesen Informationen umgeht. Mit dieser Erklärung geben Sie uns Ihr Einverständnis dafür, dass Amazon.de Ihre nachstehend aufgeführten personenbezogenen Daten zu den hier genannten Zwecken erheben, verarbeiten und nutzen darf. Diese Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
 
