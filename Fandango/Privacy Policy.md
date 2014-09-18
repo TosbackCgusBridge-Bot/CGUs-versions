@@ -4,13 +4,13 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
-    *   No Good Deed
-    *   Dolphin Tale 2
     *   The Maze Runner
-    *   Tusk
-    *   A Walk Among the Tombstones
-    *   Guardians of the Galaxy
+    *   No Good Deed
     *   This Is Where I Leave You
+    *   Dolphin Tale 2
+    *   A Walk Among the Tombstones
+    *   Tusk
+    *   Guardians of the Galaxy
     *   The Drop
     *   Teenage Mutant Ninja Turtles (2014)
     *   Let's Be Cops
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News WATCH: The first full-length trailer for 'Mockingjay -- Part 1' -- let the battle begin! Read More First 'Ted 2' photo. 'Zoolander 2' finally moving forward. Ang Lee takes on the Iraq War Read More Matt Damon will be Jason Bourne again, reteaming with director Paul Greengrass Read More Explore More
+*   Movie News Featured Movie News Pitt/Jolie: They may be happily married in real life, but not in their new movie 'By the Sea' Read More 'Boardwalk Empire' star cast as Ben-Hur. 'Ghostbusters' doughnuts look ghoul-icious! Read More Matt Damon will be Jason Bourne again, reteaming with director Paul Greengrass Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
