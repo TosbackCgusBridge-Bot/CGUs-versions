@@ -4,11 +4,7 @@ Shopping Cart
 
 *   Home
 *   Shop Books &. Videos
-*   Blogs
-    *   Programming
-    *   Radar
-    *   Strata
-    *   Animals
+*   Radar
 *   Safari Books Online
 *   Conferences
 *   IT Courses &. Certificates
@@ -23,7 +19,11 @@ Shopping Cart
 *   RSS Feeds
 *   Terms of Service
 
-O'Reilly Media Privacy Policy Purpose and Scope
+O'Reilly Media Privacy Policy
+
+v. 1.1
+
+Purpose and Scope
 
 This policy discloses what information we gather about you when you visit any of our Web sites or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:
 
@@ -49,7 +49,7 @@ We use the personal information you provide voluntarily to send information you'
 *   When you order books directly from us, or request book catalogs, we add you to our snailmail list, and we'll send you catalogs and other marketing pieces.
 *   When you enter a contest or sweepstakes, we may ask for your name, address, and email address so we can administer the contest and communicate with entrants about the results.
 
-We share customer information only with affiliated companies (see http://www.oreilly.com/affiliates.html) and as described below:
+We share customer information only with affiliated companies such as our subsidiary Safari Books Online, LLC, and as described below:
 
 *   With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
 *   We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of O'Reilly Media, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
@@ -81,7 +81,7 @@ contact TechVertical.com
 
 Notification of Changes
 
-This privacy policy was put in effect on October 1, 2002.
+This privacy policy was put in effect on October 1, 2002 and was updated on September 15, 2014.
 
 If we change our Privacy Policy, we will post those changes on oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.
 
@@ -122,6 +122,7 @@ About O'Reilly
 
 Community
 
+*   Animals
 *   Authors
 *   Webcasts
 *   Community &. Featured Users
