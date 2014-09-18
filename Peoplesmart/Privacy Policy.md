@@ -205,7 +205,7 @@ PeopleSmart maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 9
 
 Tweet About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Follow PeopleSmart
 
-PeopleSmart is designed to help you find and connect with others. Find someone by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the guidelines of the Fair Credit Reporting Act (FCRA). To learn more, read our Terms of Use and Privacy Policy. None of the information offered by PeopleSmart can be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Please visit GoodHire for all your employment screening needs.
+PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Visit GoodHire.com for all your employment screening needs.
 
 ﻿
 
