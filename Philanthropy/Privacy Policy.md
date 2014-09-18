@@ -1,4 +1,4 @@
-Last Updated on April 23, 2014
+Last Updated on September 12, 2014
 
 The Chronicle of Higher Education (“The Chronicle”) values your privacy.
 
@@ -123,6 +123,8 @@ We may combine this information with other personal information we collect from 
 **Clear GIFs, Pixel Tags, and Other Technologies.** Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on Web pages. We may use clear GIFs (a.k.a. Web beacons, Web bugs, or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We and our third-party service providers also use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.
 
 **Advertising/Third-Party Ad Networks and Online Tracking.** We, advertisers, sponsors, and our third-party service providers may use third parties such as network advertisers to display advertisements on our Site. Network advertisers are third parties that display advertisements based on your visits to our Site as well as other Web sites. We, advertisers, our third-party service providers, and the ad networks may track your behavior on this Site.  Specifically, third-party ad-network providers, advertisers, sponsors, and/or traffic-measurement services may use cookies, JavaScript, Web beacons (including clear GIFs), Flash LSOs, and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services, as well as aggregate or non-personally-identifiable information about visitors to our Site and users of our Service.
+
+One of our third-party service providers is Criteo, a digital performance advertising company. Information about Criteo can be found at http://criteo.com. Their privacy policy can be found at www.criteo.com/us/privacy-policy.
 
 You may opt out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt out of third-party ad networks operated by NAI and DAA members, please visit their respective Web sites: www.networkadvertising.org/optout\_nonppii.asp (NAI) and www.aboutads.info/choices (DAA).
 
