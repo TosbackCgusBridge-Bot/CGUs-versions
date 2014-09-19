@@ -263,9 +263,9 @@ Town of the Living Dead Premieres October 7th ... Town of the Living Dead Premie
 
 Town of the Living Dead Premieres with back to back episodes October 7th at 10/9c!
 
-Z Nation - Season 1 Trailer Z Nation - Season 1 Trailer
+Town of the Living Dead - Golf Town of the Living Dead - Golf
 
-Z Nation airs Fridays at 10/9c on Syfy
+Town of the Living Dead premieres Tuesday October 7th at 10/9c.
 
 *   FAQ
 *   Feedback
