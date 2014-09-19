@@ -253,6 +253,6 @@ WebMD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy
 
 WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Effective Date: June 13, 2014
+Effective Date: September 16, 2014
 
 © 2014 WebMD, LLC. All rights reserved.
