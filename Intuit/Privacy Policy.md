@@ -14,16 +14,16 @@
 *   my account
 *   favorites ()
 *   track order
-*   Welcome  
+*   Welcome   cheryl
 *   sign out
     
 *   800.322.1189
     
 *   ship to
 
-true true L12914506316
+true true 10.60.216.10 C12793831933
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Sep 17 05:33:02 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Sep 18 05:18:46 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -65,11 +65,17 @@ Use Code: CREDIT33
 
 Ends September 20.
 
-\*See exclusions and details. print store coupon Fall Fashion Sale shop the sale view store ad30-40% Off Select Worthington shop Worthington shop Worthington40-50% Off Select Men's Suits and Sport Coats shop men's suits and sport coats shop men's suits and sport coats 30-50% Off Home Sale
+\*See exclusions and details. print store coupon Fall Fashion Sale shop the sale view store ad30-40% Off Select Worthington shop Worthington shop Worthington40-50% Off Select Men's Suits and Sport Coats shop men's suits and sport coats shop men's suits and sport coatsNight and Day Doorbusters
+
+In store only. Friday, September 19, 3PM until close, Saturday, September 20, OPEN until 1PM.
+
+Excluded from coupon offer.
+
+view doorbusters store ad 30-50% Off Home Sale
 
 Select styles.
 
-shop the home sale
+shop the home sale shop window
 
 Bedding and Bath
 
@@ -93,7 +99,7 @@ shop window
 
 Luggage
 
-shop luggage 25-40% Off Select Liz Claiborne shop Liz Claiborne 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 25% Off Select Bras When You Buy 2 Or More shop bras Shoe and Handbag Event
+shop luggage 25-40% Off Select Liz Claiborne shop Liz Claiborne 40% Off Select Haggar shop Haggar Save On Bras When You Buy 2 Or More shop bras Shoe and Handbag Event
 
 September 7 through 23.
 
@@ -101,7 +107,7 @@ September 7 through 23.
 
 September 11 through 23.
 
-45-60% Off Select Fine Jewelry, and Bijoux Bar shop fine jewelry Baby Sale 30-50% Off Select Baby Apparel shop baby apparel Red Zone Clearance 50-75% Off
+40-60% Off Select Fine Jewelry, and Bijoux Bar shop fine jewelry Baby Sale 30-50% Off Select Baby Apparel shop baby apparel Red Zone Clearance 50-75% Off
 
 In store and online.
 
