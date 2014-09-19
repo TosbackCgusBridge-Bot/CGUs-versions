@@ -69,8 +69,6 @@ We contract with third-party advertising companies to deliver tailored online di
 
 For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: \[NAI Opt Out click here\] and \[DAA Opt Out - click here\] (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems may not recognize "Do Not Track" headers from some or all browsers.
 
-BACK TO TOP
-
 **HOW MAY YOU INTERACT WITH THIRD-PARTY WEB SITES AND CONTENT?**
 
 We may enable you to navigate to third-party sites and services, or otherwise display third-party content. We do this for your convenience. We don't endorse, or generally have any affiliation with, these third parties. And we don't control and aren't responsible for their Web practices. Whether their content appears within our Web environment (like a map frame), or you leave our Web site for another site to view it, the terms, conditions, and privacy policies of those third-party sites govern your online experience (unless we have also linked our privacy policy and/or terms and conditions to some portion of the third-party site). Please view their terms of service and privacy policies if you have any question about their practices.
@@ -99,8 +97,6 @@ We may interact with certain unrelated companies that offer their customers memb
 
 We are not responsible for the privacy practices of the companies sponsoring these membership programs. Their terms, conditions, and policies apply to any information that's provided to them to further their programs.
 
-BACK TO TOP
-
 **WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES OR AFFILIATES (OR WHAT INFORMATION MAY THEY ACCESS BECAUSE OF THE SERVICES THEY PROVIDE TO US)?**
 
  **1. Our Affiliates**
@@ -124,8 +120,6 @@ We may disclose specific information about our Web-site visitors if we have a go
  **5. Sale or Merger**
 
 In the event we sell or transfer all or a portion of our business assets, consumer information may be one of the business assets that are transferred as part of the transaction.
-
-BACK TO TOP
 
 **WHAT CHOICES DO YOU HAVE OVER HOW YOUR INFORMATION IS USED?**
 
@@ -155,25 +149,19 @@ If you don't want your basic contact and purchase information shared with other 
 
 If you would like to request that our affiliates do not use your name, postal address, email address and purchase information for marketing purposes, please contact us at 1-800-395-1001 to make a request.
 
-BACK TO TOP
-
 **WHAT IS THE POLICY FOR VISITORS FROM OUTSIDE THE U.S.?**
 
 All our online channels are based in the U.S. This privacy policy governs the information collected at this site or the online channel where the policy is displayed or linked, irrespective of where you're located when you access it, browse it, interact with it, and make purchases through it (including those that are shipped to addresses outside the U.S.). This means your personal information may be stored outside of the province, state, and/or country in which you reside, and processed by us, an affiliate or a third-party service provider as described in this privacy policy. Moreover, U.S. governmental bodies that have jurisdiction (e.g., the courts and law enforcement agencies) may be entitled to access your personal information.
 
-BACK TO TOP  
+  
 
 **HOW MAY I ACCESS AND UPDATE MY PERSONAL INFORMATION?**
 
 We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information by logging onto Your Account, or by calling us at 1-800-756-5005.
 
-BACK TO TOP
-
 **HOW DO WE ADDRESS CHILDREN'S PRIVACY?**
 
 We do not knowingly collect or maintain information provided by children under the age of 13.
-
-BACK TO TOP
 
 **HOW DO WE SECURE YOUR INFORMATION ON OUR SITE?**
 
@@ -181,13 +169,9 @@ This Web site has the following types of security measures: limited access data-
 
 While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
-BACK TO TOP
-
 **WHOM MAY YOU CONTACT WITH QUESTIONS OR CONCERNS?**
 
 If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us.
-
-BACK TO TOP
 
 **WHO ADMINISTERS THIS POLICY?**
 
@@ -201,12 +185,8 @@ Our Associate Vice President (AVP) of L Brands, Inc., administers this policy. Y
        US  
 generalcounsel@lb.com (ATTN: Privacy Matter)
 
-BACK TO TOP
-
 **WHEN WAS THIS POLICY LAST UPDATED?**
 
 Please click here to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about BathandBodyWorks.com.
-
-BACK TO TOP
 
 This privacy policy is effective June 14, 2014.
