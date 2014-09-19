@@ -95,6 +95,9 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 This file was last modified September 17, 2012
 
+<img src="https://ad.doubleclick.net/activity;src=4482799;type=Sales0;cat=Homes0;qty=1;cost=\[Revenue\];ord=\[OrderID\]?" width="1" height="1" alt=""/>  
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
 *   Create a Website
     *   Create a Website
     *   Features
