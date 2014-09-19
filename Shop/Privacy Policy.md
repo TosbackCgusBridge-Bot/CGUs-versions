@@ -336,7 +336,7 @@ Lenovo United States Select a country/region
     *   Accessories Clearance Sale
     *   Best Selling Accessories
     *   Quick Ship Accessories
-    *   See All Accessories
+    *   See All Accessories 
 *   Services &. Warranty
     
     *   Product Support Provides flexible warranty support options to keep you up and running.
