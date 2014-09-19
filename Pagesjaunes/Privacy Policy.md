@@ -166,7 +166,7 @@ Christophe Pingard
       
     Notre site ne demande pas d'enregistrement nominatif à ses visiteurs et ne procède à aucun enregistrement nominatif pour la simple consultation de ses pages.  
       
-    Cependant, dans certains cas (création de votre compte utilisateur, souscription au service de dépôt d’avis, au service  « annoncez un événement », aux fonctionnalités de partage et aux modules sociaux, participation à un jeu-concours...), vous pouvez être invité à laisser des données personnelles (noms, prénoms, numéros de téléphones, adresses postales, adresse électronique…). Le caractère obligatoire ou facultatif des données vous est signalé lors de la collecte par un astérisque.  
+    Cependant, dans certains cas (création de votre compte utilisateur, souscription au service de dépôt d’avis, aux fonctionnalités de partage et aux modules sociaux, participation à un jeu-concours...), vous pouvez être invité à laisser des données personnelles (noms, prénoms, numéros de téléphones, adresses postales, adresse électronique…). Le caractère obligatoire ou facultatif des données vous est signalé lors de la collecte par un astérisque.  
       
     Nous ne collectons aucune donnée sensible, à savoir aucune donnée relative à vos origines raciales ou ethniques, à vos opinions politiques, philosophiques ou religieuses ou votre appartenance syndicale, ou qui sont relatives à votre santé ou votre vie sexuelle.  
       
@@ -180,8 +180,7 @@ Christophe Pingard
     \-      Vous naviguez sur notre site et consultez nos produits et services,  
     \-      Vous participez à un jeu ou un concours,  
     \-      Vous contactez notre service relation client,  
-    \-      Vous rédigez un avis sur un professionnel,  
-    \-      Vous partagez des informations sur un évènement culturel ou un bon plan.  
+    \-      Vous rédigez un avis sur un professionnel  
       
     **Quelles finalités ?**  
       
@@ -369,8 +368,6 @@ Si vous ne souhaitez pas que vos données de navigation soient collectées à de
 
 \- les Guides pratiques Comprendre Choisir  
 
-\- Service « Annoncez un évènement » 
-
 \- les fonctionnalités de partage et les modules sociaux 
 
 \- le formulaire de demande de devis de KELTRAVO 
@@ -386,8 +383,6 @@ Parmi les services concernés on retrouve :
 \- Le service « Mon Carnet d'Adresses »
 
 \- La rubrique « Mes avis »
-
-\- La rubrique « Mon Profil PagesBlanches »
 
 « **Nous** » ou « **PagesJaunes** » : désigne PagesJaunes, l'éditeur des Services« **Compte Utilisateur** » : désigne un compte sécurisé PagesJaunes propre à chaque Utilisateur. Ce compte permet à l'Utilisateur l'accès et l'utilisation des Services. Par exemple pour pouvoir écrire un avis sur un Professionnel, l'Utilisateur doit obligatoirement posséder un Compte.
 
@@ -417,8 +412,6 @@ Les Conditions d'Utilisation sont opposables à l'Utilisateur pendant toute la d
 
 Vous pouvez retrouver l’intégralité des Guides sur l’index de notre site ici
 
-\- **Service« Annoncez un évènement** »: ce service permet à tout Utilisateur, ayant connaissance d’un évènement culturel ou sportif local de l’annoncer ou d’en suggérer un enrichissement s’il est déjà publié sur pagesjaunes.fr
-
 \- **Partage et modules sociaux (Facebook…)** : ces fonctionnalités permettent à tout Utilisateur de commenter, adresser et/ou partager, les informations de son choix, directement sur des réseaux sociaux, tels que Facebook, étant précisé que le respect de l’ensemble des règles d’utilisation afférentes à ces réseaux incombe au seul Utilisateur
 
 \- **Formulaire de demande de devis de KELTRAVO** : ce service permet à tout Utilisateur, d’être mis en relation avec des artisans, en effectuant une demande de devis, en saisissant son projet de travaux dans le formulaire de demande de devis Keltravo accessible sur pagesjaunes.fr
@@ -443,8 +436,6 @@ Si vous êtes un professionnel : En tant que responsable ou propriétaire d'un 
 Si vous avez une remarque à faire sur l’avis d’un Utilisateur, vous avez la possibilité d’user de votre droit de réponse en vous connectant à votre espace professionnel.
 
 Par ailleurs, via la création d’un Compte Utilisateur, si vous constatez un contenu illicite qui nous aurait échappé malgré notre modération, vous pouvez nous le signaler en utilisant le formulaire de signalement d'un abus, disponible dans le Service. Vous devrez préciser les motifs pour lesquels le contenu doit être retiré. Toute notification d'un contenu abusivement présenté comme illicite dans le but d'en obtenir le retrait vous exposerait à des sanctions civiles et/ou pénales.
-
-\- **Le service « Mon profil PagesBlanches »** : il permet à l’Utilisateur de corriger les erreurs opérateurs sur son inscription PagesBlanches.fr et d’y ajouter son N° de mobile et son adresse email, à l’exception du N° de téléphone principal pour lequel l’Utilisateur doit en faire la demande en écrivant au Centre Relation Client de PagesJaunes.
 
  Haut de page
 
@@ -500,7 +491,7 @@ Pour toute question et/ou réclamation, concernant les Services, vous pouvez nou
 
 Téléphone : 0 810 810 767 (prix d'un appel local)
 
-E-mail : PageJaunes
+E-mail : PagesJaunes
 
 **9 - Données personnelles**
 
