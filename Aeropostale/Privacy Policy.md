@@ -61,7 +61,6 @@ Aéropostale Go
         *   Boots
         *   Sneakers
         *   Flats
-        *   Flip Flops
         *   Sandals
         *   Heels
     
@@ -105,8 +104,6 @@ Aéropostale Go
     *   Brands We Love
     
     *   Uniform Looks
-    
-    *   COLLEGE
     
     *   SNEAKER SHOP
     
@@ -154,7 +151,6 @@ Aéropostale Go
         *   Bags + Wallets
         *   Belts
         *   Ties
-        *   Sunglasses
         *   Cologne
     
     *   ROOM
