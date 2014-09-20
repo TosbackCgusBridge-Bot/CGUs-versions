@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Sep 18, 2014 OPA Content All Stars in NYC
-
-Join OTA at the Online Publishers Association (OTA) to see who is shaping the future of marketing and media with compelling content experiences. Marketing and digital media leaders from a diverse range of businesses — from energy drinks to finance and from pop culture to the newspaper of record — will be in attendance and on the agenda. Content All Stars is a one-of-a-kind networking and learning opportunity designed to help you make connections that will matter, personally and professionally.   **Save 20% with code "Promo20"**
-
 Tue, Sep 23, 2014 Think you know everything about email deliverability? Email deliverability is constantly changing - what you knew yesterday may not be enough to reach your customers today. In fact, according to a study by Return Path\*, 22% of emails never actually make it to your customer’s inbox. If your customer is not seeing 1 in 5 of your emails, how does that affect their engagement? And what does that mean for your bottom line? Wed, Sep 24, 2014 2014 Trusted Cyber Collabortion Workshop
 
 TSCP is proud to present the Trusted Cyber Collaboration Workshop, an industry-leading workshop and vendor showcase on secure collaboration among industry partners across supply chains. The Transglobal Secure Collaboration Participation (TSCP) is the only government-industry partnership specifically focused on designing solutions to address the most critical issues facing global industry: mitigating the compliance, complexity, cost and IT security risks inherent in large-scale, multi-national collaborative programs.
@@ -106,6 +102,14 @@ TSCP is proud to present the Trusted Cyber Collaboration Workshop, an industry-l
 Wed, Sep 24, 2014 Best Practices for Managing Brand Compliance Online
 
 InterContinental Hotels Group (IHG) will share how they successfully manage brand compliance in digital channels with their franchisees. In this one-hour session you’ll learn:
+
+Tue, Sep 30, 2014 Email Unsubscribe - Beyond Compliance Webinar
+
+**A Decade Since CAN-SPAM**
+
+Join OTA for a review of the unsubscribe audit and recommended best practices moving beyond compliance.  Webinar will review key learnings providing marketers actionable and prescriptive advice to making their email marketing initiative more trustworthy.  For more info visit OTA Unsubscribe Best Practices.   
+
+Speakers
 
 *   OTA Blog
 *   Newsletters
