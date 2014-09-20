@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Pitt/Jolie: They may be happily married in real life, but not in their new movie 'By the Sea' Read More 'Boardwalk Empire' star cast as Ben-Hur. 'Ghostbusters' doughnuts look ghoul-icious! Read More Channing Tatum will play a party boy turned genius in a biopic based on a memoir Read More Explore More
+*   Movie News Featured Movie News See the first official video of the new Millennium Falcon from 'Star Wars: Episode VII' Read More 'Deadpool' movie very much alive, thank you. watch first trailer for Tim Burton's 'Big Eyes' Read More Channing Tatum will play a party boy turned genius in a biopic based on a memoir Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
