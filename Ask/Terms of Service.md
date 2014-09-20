@@ -192,8 +192,8 @@ The contact information for Ask’s copyright agent for notice of claims of copy
 Mail: Ask.com Copyright Agent, Attn. Legal Dept, IAC Search &. Media, Inc., 555 12th  
 Oakland, CA 94607  
 E-mail: copyrightclaim@ask.com  
-Telephone: 510-985-7400  
-Facsimile: 510-985-7507
+Telephone: 510-985-7918  
+Facsimile: 510-985-7410
 
 **15\. Applicable Law**
 
