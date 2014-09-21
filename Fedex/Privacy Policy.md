@@ -8,7 +8,7 @@ Express Freight FedEx Express or FedEx Ground
 *   Create Shipment
 *   Get Rates &. Transit Times
 *   Find FedEx Locations
-*   Schedule a Pickup
+*   Schedule and Manage Pickups
 *   Order Shipping Supplies
 *   Pack Shipment
 *   Access International Services
@@ -17,7 +17,7 @@ Freight Shipments FedEx Freight
 
 *   Generate Bill of Lading
 *   Get Rates and Transit Times
-*   Schedule a Pickup
+*   Schedule and Manage Pickups
 *   View Transit Maps
 *   Find FedEx Locations
 *   Go to Shipping Desk
@@ -38,7 +38,7 @@ Air/Ocean Freight Forwarding FedEx Trade Networks
 *   Get Forms
 *   My Forms
 *   Importer Security Filing
-*   E-Manifest
+*   eManifest
 
 Not sure which service is right for you? Click Here Package, Envelope, or  
 Express Freight FedEx Express or FedEx Ground
@@ -165,7 +165,7 @@ Go to Details Other Resources
 *   Deals
 *   In-Store Only
 
-Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile
+Create Shipment Get Rates Schedule a Pickup Track a Shipment Find a Location FedEx Office Mobile Login
 
 *   Overview
 *   Protecting Yourself
