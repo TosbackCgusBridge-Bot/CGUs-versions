@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12920529812
+true true C12802049339
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Sat Sep 20 03:50:45 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Sep 21 11:22:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,81 +45,51 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
+Extra 25% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
 
-Or, Extra 15% Off\* with any other method of payment.
+Or, Extra 20% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 All offers apply to select original, regular, sale and clearance-priced items.
 
-Or
+Use Code: VIPSAVE
 
-Online Only Orders over $100
+Ends September 23.
 
-Extra 25% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
-
-Or, Extra 20% Off\* with any other method of payment.
-
-Use Code: CREDIT33
-
-Ends September 20.
-
-\*See exclusions and details. print store coupon Fall Fashion Sale shop the sale view store ad30-40% Off Select Worthington shop Worthington shop Worthington40-50% Off Select Men's Suits and Sport Coats shop men's suits and sport coats shop men's suits and sport coatsNight and Day Doorbusters
-
-In store only. Friday, September 19, 3PM until close, Saturday, September 20, OPEN until 1PM.
-
-Excluded from coupon offer.
-
-view doorbusters store ad 30-50% Off Home Sale
+\*See exclusions and details. print store couponVIP All-Access Pass 30-50% Off Home Sale
 
 Select styles.
 
-shop the home sale shop window
+shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window40% Off New Keurig 2.0
 
-Bedding and Bath
+Keurig excluded from coupon offer.
 
-shop bedding and bath
-
-Kitchen and Dining
-
-shop kitchen and dining
-
-Home Decor
-
-shop home decor
-
-Furniture and Mattresses
-
-shop furniture and mattresses
-
-Window
-
-shop window
-
-Luggage
-
-shop luggage 25-40% Off Select Liz Claiborne shop Liz Claiborne 40% Off Select Haggar shop Haggar Save On Bras When You Buy 2 Or More shop bras Shoe and Handbag Event
-
-September 7 through 23.
-
-25-40% Off Select Women's Shoes and Handbags shop women's shoes and handbags Billion Dollar Jewelry Sale
-
-September 11 through 23.
-
-40-60% Off Select Fine Jewelry, and Bijoux Bar shop fine jewelry Baby Sale 30-50% Off Select Baby Apparel shop baby apparel Red Zone Clearance 50-75% Off
+shop Keurig Red Zone Furniture Clearance 50-70% Off
 
 In store and online.
 
-shop clearance JCP Rewards
+shop furniture clearance Billion Dollar Jewelry Sale
+
+September 11 through 23. Final days.
+
+40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-40% Off Select Worthington shop Worthington Baby Sale
+
+Big savings come in baby, toddler and preschool sized packages.
+
+40-50% Off Select Baby Clothing shop baby clothing 25-30% Off Select Women's Comfort Shoes shop women's comfort shoes 50% Off Select JF J. Ferrar Apparel shop J.Ferrar apparel 25% Off Select Bras When You Buy 2 Or More shop bras JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today A Fit For Every Workout shop fitnessSportsFanShop
+sign up todayA Fit For Every Workout shop fitnessSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShopWrite A Review For Your Chance To Win $500 get details
+shop the SportsFanShop Gift Cards
+
+Always fits, never expires.
+
+shop gift cards
 
 get connected
 
