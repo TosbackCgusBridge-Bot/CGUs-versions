@@ -1,377 +1,298 @@
-Lenovo United States Select a country/region
+Lenovo Lenovo recommends Windows. Search Call1-855-2-LENOVO (1-855-253-6686)Call Call1-855-2-LENOVO (1-855-253-6686) See Products>. Cart Menu <Products
 
-*   Algeria
-*   Angola
-*   Argentina
-*   Australia
-*   Austria
-*   Bahrain
-*   Bangladesh
-*   Belgium - Dutch
-*   Belgium - Francais
-*   Benin
-*   Bolivia
-*   Botswana
-*   Brazil
-*   Bulgaria
-*   Burkina
-*   Burundi
-*   Cameroon
-*   Canada - English
-*   Canada - Français
-*   Cape Verde
-*   Central African Republic
-*   Chad
-*   Chile
-*   China
-*   Colombia
-*   Comoros
+1.  Laptops
+    1.  See all Laptops
+    2.  Business &. Home Office Productivity — Home or On-the-Go
+        1.  ThinkPad X: Thin and Light Laptops
+        2.  ThinkPad T: Legendary Business Tools
+        3.  ThinkPad W: Mobile Workstations
+        4.  ThinkPad Yoga: Mulitmode Business Laptops
+        5.  ThinkPad E: Stylish Business Laptops
+        6.  ThinkPad L: Affordable Businsess
+        7.  ThinkPad Helix: Detatchable Business Ultrabookss
+        8.  See all Business &. Home Office
+    3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
+        1.  Y Series: Powerful Gaming On-the-Go
+        2.  Yoga Series: Sleek Convertible Ultrabook
+        3.  Z Series: Affordable Entertainment
+        4.  Flex Series: Mainstream Multimode Laptops
+        5.  U Series: Designer Laptops and Ultrabooks
+        6.  See all Entertainment &. Gaming
+    4.  Student Durable &. Functional for Any Grade
+        1.  ThinkPad 11E: Rugged Laptops
+        2.  G Series: Affordable Everyday Laptops
+        3.  S Series: Entry-Level Ultraportables
+        4.  ThinkPad E: Stylish Business Laptops
+        5.  ThinkPad Yoga: Multimode Business Laptops
+        6.  ThinkPad L: Value and Reliability
+        7.  N Series: Affordable Chromebooks
+        8.  See all Student
+    5.  Not sure what you need?
+        1.  Laptops Clearance Sale
+        2.  New Product Showcase
+        3.  Best Selling &. Top Rated Laptops
+        4.  Convertibles
+        5.  Discover Yoga
+        6.  Gaming PCs
+        7.  View All Laptops
+        8.  Bags &. Carrying Cases
+        9.  Battery Finder
+        10.  Deals
+        
+    6.  See all Laptops
+    
+2.  Tablets
+    1.  See all Tablets
+    2.  Android Tablets The World's Most Popular  
+        Mobile Platform
+        1.  Lenovo Yoga Tablet 8: 8" Revolutionary Multimode Tablet
+        2.  Lenovo Yoga Tablet 10: 10.1" Revolutionary Multimode Tablet
+        3.  Lenovo Yoga Tablet 10 HD+: 10.1" Multimode Tablet with Dazzling Display
+        4.  Lenovo A7: 7" Wideview Android Tablet
+        5.  Lenovo A8: 8" Wideview Android Tablet
+        6.  Lenovo A10: 10" Wideview Android Tablet
+        7.  See all Android Tablets
+    3.  Windows Tablets One Experience For  
+        Everything in Your Life
+        1.  ThinkPad 10: 10.1" Tablet with Full PC Experience
+        2.  ThinkPad Helix: 11.6" Premium Business Ultrabook
+        3.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
+        4.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
+        5.  See all Windows Tablets
+    4.  2-in-1 Laptops Flip, Twist or Fold —  
+        Laptop/Tablet Hybrids
+        1.  Lenovo Yoga: Sleek Convertible Ultraportables
+        2.  ThinkPad Helix: 11.6" Premium Business Ultrabook
+        3.  ThinkPad Yoga: Multimode Business Ultrabook
+        4.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
+        5.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
+        6.  See all 2-in-1 Laptops
+    5.  Not sure what you need?
+        1.  New Product Showcase
+        2.  Discover Yoga
+        3.  View All Tablets
+        4.  Bags &. Carrying Cases
+        5.  Deals
+    6.  See all Tablets
+    
+3.  Desktops &. All-in-Ones
+    1.  See all Desktops &. All-in-Ones
+    2.  ThinkCentre Desktops Premium Performance, Solid Reliability
+        1.  E Series All-in-Ones: Stylish SMB Desktops
+        2.  M Series All-in-Ones: Space-Saving Enterprise Desktops
+        3.  M Series Tiny: Full-Featured Micro Desktops
+        4.  M Series Small Form Factors: Compact Enterprise Desktops
+        5.  M Series Towers: Enterprise Desktops
+        6.  M Series Thin Clients: Thin Client Solutions
+        7.  See all ThinkCentre Desktops
+    3.  Lenovo Desktops Stylish Design, Maximum Fun
+        1.  Horizon Table PCs: Multi-User Entertainment PCs
+        2.  Flex Series All-in-Ones: Multi-User All-in-One PCs
+        3.  A Series All-in-Ones: Stylish All-in-One Desktops
+        4.  B Series All-in-Ones: Multimedia All-in-One Desktops
+        5.  C Series All-in-Ones: Entry-Level All-in-One Desktops
+        6.  H Series Towers: Budget-Friendly Ultra Small Towers
+        7.  K Series Towers: Extreme Performance Towers
+        8.  Q Series Minis: Mini Home Theatre PCs
+        9.  N Series All-in-Ones: Android-Based All-in-Ones
+        10.  See all Lenovo Desktops
+    4.  Erazer Desktops Maximum Performance, Extreme Gaming
+        1.  Erazer X Series: Extreme-Performance Gaming PCs
+        2.  See all Erazer Desktops
+    5.  Not sure what you need?
+        1.  Desktops Clearance Sale
+        2.  New Product Showcase
+        3.  Best Selling Desktops
+        4.  Gaming PCs
+        5.  View All Laptops
+        6.  Monitors
+        7.  Keyboards &. Mice
+        8.  Deals
+        
+    6.  See all Desktops &. All-in-Ones
+    
+4.  Workstations
+    1.  See all Workstations
+    2.  ThinkStation Workstations High-Performance,  
+        Professional-Strength Workstations
+        1.  P Series: Entry-Level Power &. Stability
+        2.  30 Series: High-Performance, Powerful Graphics
+        3.  See all ThinkStation Workstations
+    3.  ThinkPad Mobile Workstations The Ultimate Mobile Workstation
+        1.  W Series: Portable Workstations
+        2.  See all ThinkPad Mobile Workstations
+    4.  See all Workstations
+    
+5.  Servers &. Storage
+    1.  See all Servers &. Storage
+    2.  Racks Balanced Design, Built for Business
+        1.  RS140
+        2.  RD340
+        3.  RD440
+        4.  RD540
+        5.  RD550
+        6.  RD640
+        7.  RD650
+        8.  See all Racks
+    3.  Towers Workload Hungry, Budget Friendly
+        1.  TS140
+        2.  TS440
+        3.  TD340
+        4.  TD350
+        5.  See all Towers
+    4.  Enterprise Storage Network Attached. Business-Class.
+        1.  Network Storage
+        2.  Direct Storage
+        3.  Video Surveillance
+        4.  See all Enterprise Storage
+    5.  See all Servers &. Storage
+    
+6.  Accessories &. Software
+    1.  See all Accessories &. Software
+    2.  Accessories Hardware Pairings for Your PC
+        1.  Audio &. Video
+        2.  Battery Finder
+        3.  Power Store
+        4.  Cameras &. Scanners
+        5.  Bags &. Carrying Cases
+        6.  Docks &. Port Replicators
+        7.  Keyboards &. Mice
+        8.  Memory
+        9.  Monitors
+        10.  Printer Store
+        11.  Security &. Protection
+        12.  Storage
+        13.  Tablet Accessories
+        14.  Wireless &. Networking
+        15.  See all Accessories
+    3.  Software Digital Downloads or Hard Copies
+        1.  Accounting &. Finance
+        2.  Education &. Reference
+        3.  Electronic Downloads
+        4.  Games &. Entertainment
+        5.  Graphics &. Desktop Publishing
+        6.  Office Suites
+        7.  Security
+        8.  Utilities
+        9.  Windows 8 Apps
+        10.  See all Software
+    4.  Technologies The Lenovo Difference Inside
+        1.  Lenovo Reach
+        2.  Lenovo Mobile Access
+        3.  Thin Client Solutions
+        4.  Free System Checkup
+        5.  See all Technologies
+    5.  Not sure what you need?
+        1.  Accessories Clearance Sale
+        2.  Hot Deals
+        3.  Best Selling Accessories
+        4.  Quick Ship Accessories
+        5.  View All Accessories
+    6.  See all Accessories &. Software
+    
+7.  Services &. Warranty
+    1.  See all Services &. Warranty
+    2.  Product Support Provides flexible warranty support options to keep you up and running.
+        1.  Warranty Upgrades
+        2.  Warranty Services
+        3.  Priority Technical Support
+        4.  Tablet Services
+        5.  ThinkServer Services
+        6.  Premium Support
+        7.  See all Product Support
+    3.  Protection Services Designed to keep your PC safe, protect your data and help maintain productivity.
+        1.  Accidental Damage Protection
+        2.  Keep Your Drive
+        3.  Online Data Backup
+        4.  See all Protection Services
+    4.  Transition Services Designed to keep your PC safe, protect your data and help maintain productivity.
+        1.  Image Design
+        2.  Asset Tagging
+        3.  In-Place Migration
+        4.  Asset Recovery Services
+        5.  Financial Services
+        6.       
+               
+               
+               
+               
+               
+               
+             
+        7.  See all Transition Services
+    5.  See all Services &. Warranty
+    
+8.  Deals
+    1.  See all Deals
+    2.  Current Offers
+        1.  Home Laptop &. Desktop Deals
+        2.  ThinkPad &. ThinkCentre QuickShips
+        3.  Accessories Clearance Sale
+        4.  Accessories Hot Deals
+        5.  Deals for Students and Educators
+        6.  Outlet
+        7.  See all Current Offers
+    3.  See all Deals
+    
+9.  Which PC is right for me?
 
-*   Congo, Dem. Rep. (Kinshasa)
-*   Congo, Rep. (Brazzaville)
-*   Croatia
-*   Czech Republic
-*   Côte d'Ivoire (Ivory Coast)
-*   Denmark
-*   Deutschland
-*   Djibouti
-*   Ecuador
-*   Egypt
-*   Equatorial Guinea
-*   Eritrea
-*   Ethiopia
-*   Finland
-*   France
-*   Gabon
-*   Gambia, The
-*   Ghana
-*   Greece
-*   Guinea
-*   Guinea-Bissau
-*   Hong Kong S.A.R of China - English
-*   Hong Kong S.A.R of China - 繁體中文
-*   Hungary
-*   India
-*   Indonesia
+\>Tools
 
-*   Ireland
-*   Israel
-*   Italy
-*   Japan
-*   Jordan
-*   Kazakhstan
-*   Kenya
-*   Korea
-*   Kuwait
-*   Lebanon
-*   Lesotho
-*   Liberia
-*   Libya
-*   Lithuania
-*   Madagascar
-*   Malawi
-*   Malaysia
-*   Mali
-*   Mauritania
-*   Mauritius
-*   Mexico
-*   Morocco
-*   Mozambique
-*   Myanmar
-*   Namibia
-*   Netherlands
-
-*   New Zealand
-*   Niger
-*   Nigeria
-*   Norway
-*   Oman
-*   Pakistan
-*   Paraguay
-*   Peru
-*   Philippines
-*   Poland
-*   Qatar
-*   Romania
-*   Russian Federation
-*   Rwanda
-*   Réunion
-*   Saint Helena
-*   Saudi Arabia
-*   Senegal
-*   Serbia
-*   Seychelles
-*   Sierra Leone
-*   Singapore
-*   Slovakia
-*   Slovenia
-*   Somalia
-*   South Africa
-
-*   South Sudan
-*   Spain
-*   Sri Lanka
-*   Sudan
-*   Swaziland
-*   Sweden
-*   Switzerland - Deutsch
-*   Switzerland - Français
-*   São Tomé and Príncipe
-*   Taiwan
-*   Tanzania
-*   Thailand
-*   Togo
-*   Tunisia
-*   Turkey
-*   Uganda
-*   Ukraine
-*   United Arab Emirates
-*   United Kingdom
-*   United States
-*   Uruguay
-*   Venezuela
-*   Vietnam
-*   Western Sahara
-*   Zambia
-*   Zimbabwe
-
- Lenovo recommends Windows. SearchSearch
-
-*   For Work
-    *   Small Business
-    *   Large Enterprise
-    *   State &. Local Government
-    *   Federal Government
-    *   Healthcare
-    *   K-12 Education
-    *   Higher Education
-    *   Students
-    *   Business Partners
-    *   Resource Center
-*   Support
-    *   Think Product Support
-    *   Mobile &. Idea / Lenovo Support
-    *   Network Storage Support
-
-*   Contact Us
-    *   **Sales inquiry?**Chat online with a live representative.Chat is always online.
-    *   **Customer service inquiry?**Chat online with a live representativeMonday-Friday 9am-9pm EST Saturday-Sunday 9am-5:30pm EST
-    *   **Sales Center**1-855-2-LENOVO (1-855-253-6686)  
+1.  For Work
+    1.  See all For Work
+    2.  Small Business
+    3.  Large Enterprise
+    4.  State &. Local Government
+    5.  Federal Government
+    6.  Healthcare
+    7.  K-12 Education
+    8.  Higher Education
+    9.  Students
+    10.  Business Partners
+    11.  Resource Center
+    12.  See all For Work
+2.  Support
+    1.  See all Support
+    2.  Think Product Support
+    3.  Mobile &. Idea / Lenovo Support
+    4.  Network Storage Support
+    5.  See all Support
+3.  Contact Us
+    1.  See all Contact Us
+    2.  Sales inquiry? Chat online with a live representative.  
+        Chat is always online.
+    3.  Customer service inquiry? Chat online with a live representative  
+        Monday-Friday 9am-9pm EST  
+        Saturday-Sunday 9am-6pm EST
+    4.  Call us **Sales Center**  
+        1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
-        Sat: 9am - 5:30pm (EST)  
+        Sat: 9am - 6pm (EST)  
         Sun: Closed  
           
-        **Customer Service** 1-855-2-LENOVO (1-855-253-6686)  
+        **Customer Service**  
+        1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
-        Sat - Sun : 9am - 5:30pm (EST)  
+        Sat - Sun : 9am - 6pm (EST)  
           
-        **Credit Card Services** 1-800-426-3325  
+        **Credit Card Services**  
+        1-800-426-3325  
         Open Mon - Fri: 9am - 6pm (EST)
-    *   **Order Status** Track by order number.
-    *   **Tech Support** Find phone numbers for your location.
-    *   **Need More Help?** More ways to contact Lenovo
-*   Email Sign-Up
-*   My Account
-*   Cart
+    5.  Order Status Track by order number
+        1.  Or, Sign in.
+        2.  See all Order Status
+    6.  Tech Support Find phone numbers for your location
+    7.  Need More Help? More ways to contact Lenovo
+    8.  See all Contact Us
+4.  Email Sign-Up
+5.  My Account
+6.  Cart
 
-*      Laptops   
-    
-    *   Business &. Home Office All About Productivity, Whether Home or Go
-        *   ThinkPad X: Thin and Light Laptops
-        *   ThinkPad T: Legendary Business Tools
-        *   ThinkPad W: Mobile Workstations
-        *   ThinkPad Yoga: Mulitmode Business Laptops
-        *   ThinkPad E: Stylish Business Laptops
-        *   ThinkPad L: Affordable Businsess
-        *   ThinkPad Helix: Detatchable Business Ultrabookss
-    *   Entertainment &. Gaming Casual, Social or Extreme Multimedia PCs
-        *   Y Series: Powerful Gaming On-the-Go
-        *   Yoga Series: Sleek Convertible Ultrabook
-        *   Z Series: Affordable Entertainment
-        *   Flex Series: Mainstream Multimode Laptops
-        *   U Series: Designer Laptops and Ultrabooks
-    *   Student Durable &. Functional PCs for Any Grade-Level
-        *   ThinkPad 11E: Rugged Laptops
-        *   G Series: Affordable Everyday Laptops
-        *   S Series: Entry-Level Ultraportables
-        *   ThinkPad E: Stylish Business Laptops
-        *   ThinkPad Yoga: Multimode Business Laptops
-        *   ThinkPad L: Value and Reliability
-        *   N Series: Affordable Chromebooks
-    
-    Not sure what you need?
-    *   Laptops Clearance Sale
-    *   New Product Showcase
-    *   Top Rated &. Best Selling Laptops
-    *   Convertibles
-    *   Discover Yoga
-    *   Gaming PCs
-    *   See All Laptops
-    *   Bags &. Carrying Cases
-    *   Battery Finder
-    *   Deals
-    
-*   Tablets
-    
-    *   Android TabletsThe World's Most Popular Mobile Platform
-        *   Lenovo Yoga Tablet 8:8" Revolutionary Multimode Tablet
-        *   Lenovo Yoga Tablet 10:10.1" Revolutionary Multimode Tablet
-        *   Lenovo Yoga Tablet 10 HD+:10.1" Multimode Tablet with Dazzling Display
-        *   Lenovo A7:7" Wideview Android Tablet
-        *   Lenovo A8:8" Wideview Android Tablet
-        *   Lenovo A10:10" Wideview Android Tablet
-    *   Windows TabletsOne Experience For Everything in Your Life
-        *   ThinkPad 10:10.1" Tablet with Full PC Experience
-        *   ThinkPad Helix:11.6" Premium Business Ultrabook
-        *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
-        *   Lenovo Miix 2 11":11.6" Tablet with PC-Level Processor
-    *   2-in-1 LaptopsFlip, Twist or Fold — Laptop/Tablet Hybrids
-        *   Lenovo Yoga:Sleek Convertible Ultraportables
-        *   ThinkPad Helix:11.6" Premium Business Ultrabook
-        *   ThinkPad Yoga:Multimode Business Ultrabook
-        *   Lenovo Miix 2 10.1":10.1" Tablet with PC-Level Processor
-        *   Lenovo Miix 2 11":11.6" Tablet with PC-Level Processor
-    
-    Not sure what you need?
-    *   New Product Showcase
-    *   Discover Yoga
-    *   See All Tablets
-    *   Bags &. Carrying Cases
-    *   Deals
-    
-*   Desktops &. All-in-Ones
-    
-    *   ThinkCentre Desktops Premium Performance, Solid Reliability
-        *   E Series All-in-Ones: Stylish SMB Desktops
-        *   M Series All-in-Ones: Space-Saving Enterprise Desktops
-        *   M Series Tiny: Full-Featured Micro Desktops
-        *   M Series Small Form Factors: Compact Enterprise Desktops
-        *   M Series Towers: Enterprise Desktops
-        *   M Series Thin Clients: Thin Client Solutions
-    *   Lenovo Desktops Stylish Design, Maximum Fun
-        *   Horizon Table PCs: Multi-User Entertainment PCs
-        *   Flex Series All-in-Ones: Multi-User All-in-One PCs
-        *   A Series All-in-Ones: Stylish All-in-One Desktops
-        *   B Series All-in-Ones: Multimedia All-in-One Desktops
-        *   C Series All-in-Ones: Entry-Level All-in-One Desktops
-        *   H Series Towers: Budget-Friendly Ultra Small Towers
-        *   K Series Towers: Extreme Performance Towers
-        *   Q Series Minis: Mini Home Theatre PCs
-        *   N Series All-in-Ones: Android-Based All-in-Ones
-    *   Erazer Desktops Maximum Performance, Extreme Gaming
-        *   Erazer X Series: Extreme-Performance Gaming PCs
-    
-    Not sure what you need?
-    *   Desktops Clearance Sale
-    *   New Product Showcase
-    *   Best Selling Desktops
-    *   Gaming PCs
-    *   See All Desktops
-    *   Monitors
-    *   Keyboards &. Mice
-    *   Deals
-    
-*   Workstations
-    *   ThinkStation Workstations High-Performance, Professional-Strength Workstations
-        *   C Series: Powerful &. Compact
-        *   D Series: Extreme Speed, Dual CPU
-        *   P Series: Entry-Level Power &. Stability
-        *   30 Series: High-Performance, Powerful Graphics
-    *   ThinkPad Mobile Workstations The Ultimate Mobile Workstation
-        *   W Series: Portable Workstations
-    
-*   Servers &. Storage
-    *   Racks Balanced Design, Built for Business
-        *   RS140
-        *   RD340
-        *   RD440
-        *   RD540
-        *   RD550
-        *   RD640
-        *   RD650
-    *   TowersWorkload Hungry, Budget Friendly
-        *   TS140
-        *   TS440
-        *   TD340
-        *   TD350
-    *   Enterprise Storage Network Attached. Business-Class.
-        *   Network Storage
-        *   Direct Storage
-        *   Video Surveillance
-    
-*   Accessories &. Software
-    
-    *   Accessories Hardware Pairings for Your PC
-        *   Audio &. Video
-        *   Battery Finder
-        *   Power Store
-        *   Cameras &. Scanners
-        *   Bags &. Carrying Cases
-        *   Docks &. Port Replicators
-        *   Keyboards &. Mice
-        *   Memory
-        *   Monitors
-        *   Printer Store
-        *   Security &. Protection
-        *   Storage
-        *   Tablet Accessories
-        *   Wireless &. Networking
-    *   Software Digital Downloads or Hard Copies
-        *   Accounting &. Finance
-        *   Education &. Reference
-        *   Electronic Downloads
-        *   Games &. Entertainment
-        *   Graphics &. Desktop Publishing
-        *   Office Suites
-        *   Security
-        *   Utilities
-        *   Windows 8 Apps
-    *   Technologies The Lenovo Difference Inside
-        *   Lenovo Reach
-        *   Lenovo Mobile Access
-        *   Thin Client Solutions
-        *   Free System Checkup
-    
-    Not sure what you need?
-    *   Accessories Clearance Sale
-    *   Best Selling Accessories
-    *   Quick Ship Accessories
-    *   See All Accessories 
-*   Services &. Warranty
-    
-    *   Product Support Provides flexible warranty support options to keep you up and running.
-        *   Warranty Upgrades
-        *   Warranty Services
-        *   Priority Technical Support
-        *   Tablet Services
-        *   ThinkServer Services
-        *   Premium Support
-    *   Protection Services Designed to keep your PC safe, protect your data and help maintain productivity.
-        *   Accidental Damage Protection
-        *   Keep Your Drive
-        *   Online Data Backup
-    *   Transition Services Designed to keep your PC safe, protect your data and help maintain productivity.
-        *   Image Design
-        *   Asset Tagging
-        *   In-Place Migration
-        *   Asset Recovery Services
-        *   Financial Services
-    
-     
-*   Deals
-    *   Current Offers
-        *   End of Summer Sale
-        *   Home Laptop &. Desktop Deals
-        *   ThinkPad &. ThinkCentre QuickShips
-        *   Accessories Clearance Sale
-        *   Accessories Hot Deals
-        *   Deals for Students and Educators
-        *   Outlet
-    
-     
-*   Which PC is right for me?
+Narrow Results Offers
 
-View cart HomePrivacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
+1.  View cart
+
+HomePrivacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
   Privacy details    
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
@@ -501,65 +422,66 @@ This Web site is maintained by Lenovo or one of its subsidiaries around the worl
 
 Please use the Back button on your browser or close this window to return to the page where you were.
 
- **Back to top** About Lenovo
+ **Back to top**
 
-*   Our Company
-*   News
-*   Investor Relations
-*   Social Responsibility
-*   Legal Information
-*   Jobs at Lenovo
-*   FAQs
+*   About Lenovo
+    *   Our Company
+    *   News
+    *   Investor Relations
+    *   Social Responsibility
+    *   Legal Information
+    *   Jobs at Lenovo
+    *   FAQs
+*   Shop by Industry
+    *   Small Business Store
+    *   Large Enterprise
+    *   State &. Local Government
+    *   Federal Government
+    *   Healthcare
+    *   K-12 Education
+    *   Higher Education
+    *   Students
+    *   Business Partners
+    *   Military
+*   Products &. Services
+    *   Laptops &. Ultrabooks
+    *   Tablets
+    *   Desktops
+    *   Workstations
+    *   Yoga Tablet
+    *   Gaming Computers
+    *   New Product Showcase
+    *   New Product Announcements
+    *   Servers
+    *   Accessories &. Software
+    *   Services &. Warranty
+    *   Lenovo Gift Cards
+    *   Lenovo Photo Service
+    *   Outlet
+*   Resources
+    *   Contact Us
+    *   Shopping Help
+    *   Resource Center
+    *   Order Status
+    *   Where to Buy
+    *   Email Signup
+    *   Support
+    *   Training
+    *   Blogs
+    *   Forums
+    *   Product Registration
+    *   Product Accessibility
+    *   Affinity Discount Program
+    *   Lenovo Trade-In Program
 
-Shop by Industry
+social
 
-*   Small Business Store
-*   Large Enterprise
-*   State &. Local Government
-*   Federal Government
-*   Healthcare
-*   K-12 Education
-*   Higher Education
-*   Students
-*   Business Partners
-*   Military
+*   facebook
+*   twitter
+*   googlePlus
+*   youtube
+*   pinterest
+*   flickr
+*   lenovoForums
 
-Products &. Services
-
-*   Laptops &. Ultrabooks
-*   Tablets
-*   Desktops
-*   Workstations
-*   Yoga Tablet
-*   Gaming Computers
-*   New Product Showcase
-*   New Product Announcements
-*   Servers
-*   Accessories &. Software
-*   Services &. Warranty
-*   Lenovo Gift Cards
-*   Lenovo Photo Service
-*   Outlet
-
-Resources
-
-*   Contact Us
-*   Shopping Help
-*   Resource Center
-*   Order Status
-*   Where to Buy
-*   Support
-*   Training
-*   Blogs
-*   Forums
-*   Product Registration
-*   Product Accessibility
-*   Affinity Discount Program
-*   Lenovo Trade-In Program
-*   Customer Feedback
-
-*   ©2014 Lenovo. All rights reserved.
-*   Print this page
-*   Privacy
-*   Site Map
-*   Terms of Use
+2014 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of Use AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
