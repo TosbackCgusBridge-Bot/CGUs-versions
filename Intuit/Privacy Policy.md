@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12802049339
+true true L12926682950
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Sep 21 11:22:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Mon Sep 22 03:19:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,7 +43,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+VIP All-Access Pass In Store and Online
 
 Extra 25% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
 
@@ -57,11 +57,15 @@ Use Code: VIPSAVE
 
 Ends September 23.
 
-\*See exclusions and details. print store couponVIP All-Access Pass 30-50% Off Home Sale
+\*See exclusions and details. print store couponFeel-Good Fits, Styles and Prices 30-50% Off Denim For The Family
 
 Select styles.
 
-shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window40% Off New Keurig 2.0
+shop denim shop girls' denim shop guys' denim shop boys' denim shop women's denim Home Sale
+
+Select styles.
+
+shop the home saleBedding and Bath shop bedding and bathKitchen and Dining shop kitchen and diningFurniture and Mattresses shop furniture and mattressesWindow shop windowHome Decor shop home decorKeurig
 
 Keurig excluded from coupon offer.
 
@@ -69,15 +73,15 @@ shop Keurig Red Zone Furniture Clearance 50-70% Off
 
 In store and online.
 
-shop furniture clearance Billion Dollar Jewelry Sale
+shop furniture clearance 30-40% Off Select Worthington shop Worthington Billion Dollar Jewelry Sale
 
 September 11 through 23. Final days.
 
-40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-40% Off Select Worthington shop Worthington Baby Sale
+40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 25% Off Select Maidenform Shapewear shop Maidenform 50% Off Select JF J. Ferrar Apparel shop J.Ferrar apparel 20% Off Select Disney Costumes and Dress Up
 
-Big savings come in baby, toddler and preschool sized packages.
+Excluded from coupon offer.
 
-40-50% Off Select Baby Clothing shop baby clothing 25-30% Off Select Women's Comfort Shoes shop women's comfort shoes 50% Off Select JF J. Ferrar Apparel shop J.Ferrar apparel 25% Off Select Bras When You Buy 2 Or More shop bras JCP Rewards
+shop Disney 25-30% Off Select Women's Comfort Shoes shop women's comfort shoes JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
