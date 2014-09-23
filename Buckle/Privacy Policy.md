@@ -62,7 +62,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
-    *   Buck Card Free Lanyard Offer
+    *   Buckle Card Free Lanyard Offer
     *   Buckle Jeans Sweepstakes Official Rules
     *   Tax Free Weekends 2014
     *   Store Events
