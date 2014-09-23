@@ -5,37 +5,35 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   The Maze Runner
-    *   No Good Deed
-    *   This Is Where I Leave You
-    *   Dolphin Tale 2
     *   A Walk Among the Tombstones
-    *   Tusk
+    *   This Is Where I Leave You
+    *   No Good Deed
+    *   Dolphin Tale 2
     *   Guardians of the Galaxy
-    *   The Drop
-    *   Teenage Mutant Ninja Turtles (2014)
     *   Let's Be Cops
+    *   Teenage Mutant Ninja Turtles (2014)
+    *   The Drop
     *   If I Stay
+    *   The Hundred-Foot Journey
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Maze Runner
-    *   This Is Where I Leave You
-    *   Tusk
-    *   A Walk Among the Tombstones
-    *   20,000 Days on Earth
-    *   The Guest
-    *   Hector and the Search for Happiness
-    *   Pump
-    *   Stop the Pounding Heart
-    *   Swim Little Fish Swim
-    *   Tracks
+    *   The Boxtrolls
+    *   The Equalizer
+    *   Jack and the Cuckoo-Clock Heart
+    *   Advanced Style
+    *   Jimi: All Is By My Side
+    *   Pride
+    *   Days and Nights
+    *   The Two Faces of January
+    *   Lilting
+    *   The Song
+    *   Believe Me
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Boxtrolls
-    *   The Equalizer
     *   Annabelle
     *   Gone Girl
     *   Left Behind
@@ -45,6 +43,8 @@ Gift Cards | Offers | Visa Signature
     *   The Judge
     *   The Best of Me
     *   The Book of Life
+    *   Fury (2014)
+    *   John Wick
     *   See All Coming Soon
     
     Explore More
@@ -313,17 +313,17 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Dolphin Tale 2 SuperTicket**
+Offers **Gone Girl Free Gift**
 
-UPGRADE TO SUPERTICKET See the movie in theatres + own Dolphin Tale and Dolphin Tale 2 on Digital HD. BUY TICKETS
+FREE eBOOK DOWNLOAD of the #1 New York Times bestseller GONE GIRL on NOOK Reading Apps™ with Fandango ticket purchase. BUY TICKETS
 
 **Cash for College Sweepstakes**
 
 “Like” Fandango Family on Facebook &. you could win $10,000! ENTER NOW
 
-**Boxtrolls Gift Cards**
+**The Boxtrolls Free Gift**
 
-Give fun and adventure with a gift card today. BUY NOW
+FREE AMAZON MUSIC CODE for Loch Lomond’s “Some Kids” with Fandango ticket purchase. BUY TICKETS
 
 **Sweeten Your Gift With Free Treats**
 
