@@ -70,7 +70,7 @@ search Search
 *   Mobile Apps Policy
 *   Cookies and Tracking Technologies Policy
 
-Privacy Home Last updated: 30 May 2014
+SelectEnglishSpanishFrench Privacy Home Last updated: 30 May 2014
 
 In this privacy policy:
 
@@ -131,6 +131,6 @@ If you have questions about the privacy practices of our online services, please
 more
 
 *   Comcast FCC Independent Programming Reports
-*   Privacy Policy(Spanish)
+*   Privacy PolicyPrivacy Policy (Spanish)
 *   Terms of Service
 *   © 2014 NBCUniversal, Inc. All rights reserved.
