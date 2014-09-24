@@ -40,7 +40,7 @@ Gift Cards | Offers | Visa Signature
     *   Addicted
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
     *   Dracula Untold
-    *   The Judge
+    *   The Judge (2014)
     *   The Best of Me
     *   The Book of Life
     *   Fury (2014)
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News See the first official video of the new Millennium Falcon from 'Star Wars: Episode VII' Read More 'Deadpool' movie very much alive, thank you. watch first trailer for Tim Burton's 'Big Eyes' Read More Channing Tatum will play a party boy turned genius in a biopic based on a memoir Read More Explore More
+*   Movie News Featured Movie News Will Leonard Nimoy and William Shatner reunite for 'Star Trek 3'? Read More Joseph Gordon-Levitt may play NSA whistle-blower Edward Snowden in upcoming biopic Read More New 'The Interview' trailer is so NSFW. get your first look at 'The Maze Runner' sequel Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
