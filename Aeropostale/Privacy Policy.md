@@ -25,8 +25,6 @@ Aéropostale Go
     
     *   Shoe Bar
     
-    *   Party Dresses
-    
     *   Extended Sizes
     
     *   Web Exclusives
@@ -49,7 +47,6 @@ Aéropostale Go
         *   Leggings
         *   Sweatpants
         *   Pants
-        *   Capris
         *   Shorts
         *   Skirts
     
