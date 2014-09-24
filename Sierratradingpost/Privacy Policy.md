@@ -43,7 +43,7 @@ Please follow the packing and return instructions to ensure prompt service:
 *   Please clean any garments and repack items in sturdy packaging
 *   Please include a copy of your invoice in the box
 *   If you do not have your invoice, check your email and reprint the invoice if you went through our online exchange/return program. Otherwise, please enclose your Customer Number, Full Name and Billing Address with your return package. Enclosing this information helps us expedite your return.
-*   If you use the Return Label included with your original order, a return shipping fee of $6.95 will be charged for all returns within the 48 contiguous US. A return shipping fee of $10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.
+*   If you use the Return Label included with your original order, a return shipping fee will be charged for all returns. This fee covers return shipping from you to us.
 *   For the nearest UPS drop-off location visit http://www.ups.com and select the Locations Tab to find a drop-off location near you.
 *   If you need to use an alternate carrier for the return, use the return address label and make sure that your package is prepaid and insured. COD packages will not be accepted.
 
