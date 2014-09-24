@@ -1,7 +1,7 @@
   >> Privacy &. Security    Choose a link to select a section.  
 Website and Store Privacy Notice Safe Harbor Privacy Policy  
 Mobile Application Privacy Notice  
-**Ralph Lauren Corporation**    Website and Store Privacy Notice    Last modified: July 16, 2014
+**Ralph Lauren Corporation**    Website and Store Privacy Notice    Last modified: September 18, 2014
 
 Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
@@ -87,7 +87,7 @@ You may be able to sign up on this site to receive electronic newsletters and pr
 
 _Mobile Marketing_
 
-You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number on this website. If you use this feature, we will send you communications about our products, services and promotions by text message and voice message. In the U.S., you may, at any time, opt out of receiving these communications by sending a text message with the word "STOP" to short code 23000. Outside the U.S., you may, at any time, opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges.
+You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number on this website. If you use this feature, we will send you communications about our products, services and promotions by text message. In the U.S., you may, at any time, opt out of receiving these communications by sending a text message with the word "STOP" to short code 89448. Outside the U.S., you may, at any time, opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges.
 
    
 
@@ -171,6 +171,12 @@ Other Ways We Collect Personal Information
 
    
 
+_In-Store Wi-Fi Data Collection_
+
+In certain stores we use a service that analyzes Wi-Fi signals from mobile devices to measure store occupancy and to identify customer traffic patterns in the store. The service determines the location of a smartphone or wireless device by observing Wi-Fi or Bluetooth signals that are broadcast from that device. Individual devices are identified by a media access control ("MAC") address that was assigned to the device when it was manufactured. For the service to collect information from your device, the device's Wi-Fi must be turned on while you are in the store. If your device's Wi-Fi function is enabled, you will receive a pop-up message that asks whether you agree to allow your device's Wi-Fi data to be collected while you are connected to the in-store Wi-Fi network. The service provider that collects information from mobile devices in our stores hashes MAC addresses to anonymize the addresses before using them for analysis purposes. The service provider's reports to us contain only aggregated statistics about visitors to the store. If you change your mind after agreeing to allow your device's Wi-Fi data to be collected, you can opt out by turning off your device's Wi-Fi function or by clicking here.
+
+   
+
 _QR Codes_
 
 We use QR codes in connection with certain promotions, contests and special events. If you scan our QR code, you will get an invitation on your mobile device to join our mailing list. To sign up, we ask you for information such as your name, mailing address, email address, telephone numbers, and age. We use the information to communicate with you about our products, services and promotions.
@@ -244,6 +250,8 @@ You can choose not to receive marketing communications from us by clicking on th
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes.
 
 To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click here and here. To opt out of eBay Enterprise targeted display services, please click here.
+
+To opt out of Wi-Fi data collection in our stores after you have opted in, either turn off your device's Wi-Fi function or click here.
 
    
 
