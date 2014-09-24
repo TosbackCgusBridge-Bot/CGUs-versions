@@ -114,7 +114,7 @@ Speakers
 *   OTA Blog
 *   Newsletters
 
-Fri, Sep 12, 2014 Putting Trust Back Into the Inbox In recognition of the decade since CAN-SPAM went into effect, businesses, industry and trade industry organizations committed to meaningful self-regulation join forces to help enhance trust in email marketing and raise the bar from compliance to user-centric stewardship. OTA calls for others to join the effort and help put trust into the inbox! Wed, Aug 20, 2014 The Future of the Internet, Moving Past Advertising
+Wed, Sep 24, 2014 Online Publishers Push For Trust As we head towards National Cybersecurity Awareness month, publishers and increasingly businesses are pushing back and blocking data collection by Facebook and others, while others are blocking ads outright. Leading publishers are now calling for the support of "Do Not Track" as they are finding their brands and users are being compromised and marginalized by dominate market players, impacting consumer confidence and trust of online content. Fri, Sep 12, 2014 Putting Trust Back Into the Inbox In recognition of the decade since CAN-SPAM went into effect, businesses, industry and trade industry organizations committed to meaningful self-regulation join forces to help enhance trust in email marketing and raise the bar from compliance to user-centric stewardship. OTA calls for others to join the effort and help put trust into the inbox! Wed, Aug 20, 2014 The Future of the Internet, Moving Past Advertising
 
 **The Future of the Internet, Moving Past Advertising**
 
@@ -123,10 +123,6 @@ The first online ads appeared 20 years ago when HotWired pioneered online advert
 Fri, Aug 8, 2014 Google &. Yahoo to join forces on encrypted email
 
 Interesting development of how external issues (govt &. privacy) can bring competitors to the table).  Yahoo said Thursday it will join an effort by rival  Google to create a secure email system by next year that could make it nearly impossible for hackers or government officials to read users' messages.
-
-Mon, Jul 28, 2014 Password Vulnerability - Do not become a StubHub!
-
-OTA and leading security organizations have been warning for years the danger of using similar combinations of the same password across multiple accounts. It is no surprise that StubHub customers are the most recent victims of a major account takeover scam perpetrated by an international cybercrime ring. The increase of data breaches (along with spearphishing) is driving an increase in account takeover incidents.
 
 Resources
 
