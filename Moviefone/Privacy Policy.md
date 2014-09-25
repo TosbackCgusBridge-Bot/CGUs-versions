@@ -121,7 +121,7 @@ Although no one can guarantee the security of the information collected and rece
 *   Limiting access to personal information to employees who need that access to perform their jobs. and
 *   Providing company-wide training on privacy and data security.
 
-_**Children's Privacy**  
+**Children's Privacy**  
   
 Our Services are intended for a general audience. We do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children's Online Privacy Protection Act. If you are a parent who consents to the collection of personal information from your child, you agree that your child may use all of our Services and that we may collect, use, and disclose your child's personal information consistent with this Privacy Policy.  
   
@@ -149,7 +149,7 @@ If you have questions or concerns about this Privacy Policy or about AOL's priva
   
 **Changes to This Privacy Policy and Additional Information**  
   
-We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to AOL's information practices, you will be provided with appropriate online notice._
+We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to AOL's information practices, you will be provided with appropriate online notice.
 
 AOL Inc. | Privacy | Terms of Service | About Our Ads
 
