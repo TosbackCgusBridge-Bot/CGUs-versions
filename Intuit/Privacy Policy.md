@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12804789372
+true true C12810910489
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue Sep 23 03:50:39 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Sep 24 04:55:50 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,45 +43,45 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-VIP All-Access Pass In Store and Online
+In Store Only
 
-Extra 25% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
+$10 Off $25 or more.
 
-Or, Extra 20% Off\* with any other method of payment.
+print store couponOnline Only
 
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Ends September 28.
 
-All offers apply to select original, regular, sale and clearance-priced items.
+Online Code: BIGSAVE
 
-Use Code: VIPSAVE
+Extra 15% Off\* under $100.
 
-Ends September 23.
+Extra 20% Off\* $100 or more.
 
-\*See exclusions and details. print store couponFeel-Good Fits, Styles and Prices 30-50% Off Denim For The Family
+Extra 25% Off\* $200 or more.
 
-Select styles.
+Select original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry and home.
 
-shop denim shop girls' denim shop guys' denim shop boys' denim shop women's denim Home Sale
+In Store and Online
 
-Select styles.
+Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-shop the home saleBedding and Bath shop bedding and bathKitchen and Dining shop kitchen and diningFurniture and Mattresses shop furniture and mattressesWindow shop windowHome Decor shop home decorKeurig
+\*See exclusions and details. Super Saturday Sale
 
-Keurig excluded from coupon offer.
+Starts now! In store and online.
 
-shop Keurig Red Zone Furniture Clearance 50-70% Off
+shop the sale shop women shop men shop kids shop shoes shop jewelry shop lingerie shop baby shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor Red Zone Clearance 50-70% Off
 
 In store and online.
 
-shop furniture clearance 30-40% Off Select Worthington shop Worthington Billion Dollar Jewelry Sale
+shop clearance 30-50% Off Home Sale
 
-September 11 through 23. Final days.
+Select styles.
 
-40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 25% Off Select Maidenform Shapewear shop Maidenform 50% Off Select JF J. Ferrar Apparel shop J.Ferrar apparel 20% Off Select Disney Costumes and Dress Up
+shop the home sale shop bedding30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses 25-40% Off Select Alfred Dunner shop Alfred Dunner 25-30% Off Select Women's Comfort Shoes shop women's comfort shoes Baby Sale
 
-Excluded from coupon offer.
+Big savings come in baby, toddler and preschool sized packages.
 
-shop Disney 25-30% Off Select Women's Comfort Shoes shop women's comfort shoes JCP Rewards
+40-50% Off Select Baby Clothing shop baby clothing 25% Off Select Bras When You Buy Two Or More shop bras 40-50% Off Select Guys' Dress Clothes shop guys' dress clothes 40% Off Select Homecoming Dresses shop homecoming dresses JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
