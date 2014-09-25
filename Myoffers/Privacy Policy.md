@@ -30,7 +30,7 @@ MyOffers takes your privacy seriously and takes every reasonable precaution to s
 
 MyOffers recognizes that your privacy and the protection of your personal information is important to you, this statement discloses how MyOffers helps to protect your personal information while using the MyOffers Web Site http://www.myoffers.co.uk.
 
-MyOffers.co.uk is owned by MyOffers Limited a company registered in England under no 03895253. MyOffers Limited is owned by Interactive Prospect Targeting Limited also a company registered in England under no. 6688128. MyOffers Limited is registered under the Data Protection Act 1998 under registration number Z4685005 and Interactive Prospect Targeting Limited is also under the Data Protection Act 1998 under registration number Z1608267. The information you provide is safeguarded under the terms of that Act. To find out more information about the data protection act please visit http://www.informationcommissioner.gov.uk
+MyOffers.co.uk is owned by MyOffers Limited a company registered in England under no 03895253. MyOffers Limited is owned by Interactive Prospect Targeting Limited also a company registered in England under no. 6688128. MyOffers Limited is registered under the Data Protection Act 1998 under registration number Z4685005 and Interactive Prospect Targeting Limited is also registered under the Data Protection Act 1998 under registration number Z1608267. The information you provide is safeguarded under the terms of that Act. To find out more information about the data protection act please visit http://www.informationcommissioner.gov.uk
 
 Collection of your personal information
 
@@ -59,10 +59,6 @@ Clients of MyOffers may include Commercial, Not for Profit, Research and Politic
 Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables.
 
 General disclosure of personal information
-
-Aggregate Information (non-personally identifiable)
-
-We do not link aggregate user data with personally identifiable information.
 
 Personally identifiable information - We Share Personally Identifiable Information with Third Parties, we share the information that you have answered within the questionnaires with the relevant sponsors. The sponsors use this to profile you. this enables them to send you targeted communications.
 
@@ -112,7 +108,7 @@ Each email that MyOffers sends contains the following information:
 
 > This email has been sent to the following address: your.email@address.co.uk. We respect your privacy and only send emails to registered users.
 > 
-> You can unsubscribe from our promotional mailing list using the link below (please allow five working days from receipt for us to process your request):
+> You can unsubscribe from our mailing list using the link below (please allow five working days from receipt for us to process your request):
 > 
 > » Online - by visiting our website, using this link.
 > 
@@ -165,11 +161,11 @@ MyOffers also uses tracking pixels to measure visits to the site from one partic
 
 We use these services in order to increase the efficiency of our websites.
 
-Non MyOffers Cookies
+Use of Third Party Cookies
 
 MyOffers and some of our business partners (e.g., advertisers) place cookies via our site. We have no access to or control over these cookies.
 
-These cookies are used to share your audience segments with third parties (advertisers, publishers or social networks) to make adverts more relevant to you. Audience segments are a pool of users that have been grouped together based upon previous web browsing behaviour and lifestyle and demographic profiles. By allowing these cookies, you are more likely to get relevant adverts while you visit other sites. Preventing these cookies will not stop adverts but they will be less tailored to your interests. Although these cookies can be used to identify the audience segment you belong to, they will neither contain nor collect any personal identifiable information.
+These cookies are used to share your audience segments with third parties (advertisers, publishers or social networks) to make adverts more relevant to you. Audience segments are a pool of users that have been grouped together based upon previous web browsing behavior and lifestyle and demographic profiles. By allowing these cookies, you are more likely to get relevant adverts while you visit other sites. Preventing these cookies will not stop adverts but they will be less tailored to your interests. Although these cookies can be used to identify the audience segment you belong to, they will neither contain nor collect any personal identifiable information.
 
 MyOffers currently allows the organisations listed below (beside itself) to place targeting cookies:
 
