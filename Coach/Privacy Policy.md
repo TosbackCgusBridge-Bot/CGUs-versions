@@ -1,4 +1,4 @@
-Click here for Global Privacy Policies. Security &. Privacy
+Security &. Privacy
 
 Coach, Inc. (the "Company") and our brands value your trust.We collect certain information when you visit our U.S. site www.coach.com (the "Site"), in order to improve your shopping experience and allow us to better communicate with you regarding our products and services. This privacy policy is intended to assist you in understanding what information we gather when you visit the Site, how we use that information, and the safeguards we have in place to protect the information. This privacy policy only applies to information we collect at www.coach.com.
 
@@ -81,33 +81,3 @@ The Company reserves the right, at its discretion, to change, modify, add, or re
 **EFFECTIVE DATE**
 
 This policy is effective February 3, 2010.
-
-Click on the country below to access your local privacy policy:
-
-**EUROPE**  
-France  
-Ireland  
-Portugal  
-Spain  
-United Kingdom **AMERICAS**  
-Brazil  
-Chile  
-Colombia  
-Mexico  
-Panama  
-Peru  
-Venezuela **ASIA PACIFIC**  
-Australia  
-China  
-Hong Kong  
-Indonesia  
-Japan  
-Korea  
-Malaysia  
-Singapore  
-Taiwan  
-Thailand  
-Vietnam  
-**MIDDLE EAST**  
-United Arab Emirates  
-Saudi Arabia
