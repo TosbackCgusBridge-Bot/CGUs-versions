@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Will Leonard Nimoy and William Shatner reunite for 'Star Trek 3'? Read More Joseph Gordon-Levitt may play NSA whistle-blower Edward Snowden in upcoming biopic Read More New 'The Interview' trailer is so NSFW. get your first look at 'The Maze Runner' sequel Read More Explore More
+*   Movie News Featured Movie News Will Leonard Nimoy and William Shatner reunite for 'Star Trek 3'? Read More Joseph Gordon-Levitt may play NSA whistle-blower Edward Snowden in upcoming biopic Read More Check it out: Vin Diesel's new images from 'Fast &. Furious 7' are bittersweet Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
