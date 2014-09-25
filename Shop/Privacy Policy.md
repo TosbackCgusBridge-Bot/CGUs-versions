@@ -1,4 +1,4 @@
-Lenovo Lenovo recommends Windows. Search Call1-855-2-LENOVO (1-855-253-6686)Call Call1-855-2-LENOVO (1-855-253-6686) See Products>. Cart Menu <Products
+Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-6686 See Products>. Cart Menu <Products
 
 1.  Laptops
     1.  See all Laptops
@@ -28,23 +28,22 @@ Lenovo Lenovo recommends Windows. Search Call1-855-2-LENOVO (1-855-253-6686)Call
         7.  N Series: Affordable Chromebooks
         8.  See all Student
     5.  Not sure what you need?
-        1.  Laptops Clearance Sale
-        2.  New Product Showcase
-        3.  Best Selling &. Top Rated Laptops
-        4.  Convertibles
-        5.  Discover Yoga
-        6.  Gaming PCs
-        7.  View All Laptops
-        8.  Bags &. Carrying Cases
-        9.  Battery Finder
-        10.  Deals
+        1.  New Product Showcase
+        2.  Best Selling &. Top Rated Laptops
+        3.  Convertibles
+        4.  Discover Yoga
+        5.  Gaming PCs
+        6.  View All Laptops
+        7.  Bags &. Carrying Cases
+        8.  Battery Finder
+        9.  Deals
+        10.  PC Finder
         
     6.  See all Laptops
     
 2.  Tablets
     1.  See all Tablets
-    2.  Android Tablets The World's Most Popular  
-        Mobile Platform
+    2.  Android Tablets Customizable, Easy to Use
         1.  Lenovo Yoga Tablet 8: 8" Revolutionary Multimode Tablet
         2.  Lenovo Yoga Tablet 10: 10.1" Revolutionary Multimode Tablet
         3.  Lenovo Yoga Tablet 10 HD+: 10.1" Multimode Tablet with Dazzling Display
@@ -52,15 +51,13 @@ Lenovo Lenovo recommends Windows. Search Call1-855-2-LENOVO (1-855-253-6686)Call
         5.  Lenovo A8: 8" Wideview Android Tablet
         6.  Lenovo A10: 10" Wideview Android Tablet
         7.  See all Android Tablets
-    3.  Windows Tablets One Experience For  
-        Everything in Your Life
+    3.  Windows Tablets All PC, Tablet Convenience
         1.  ThinkPad 10: 10.1" Tablet with Full PC Experience
         2.  ThinkPad Helix: 11.6" Premium Business Ultrabook
         3.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
         4.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
         5.  See all Windows Tablets
-    4.  2-in-1 Laptops Flip, Twist or Fold —  
-        Laptop/Tablet Hybrids
+    4.  2-in-1 Laptops Laptop / Tablet Hybrids
         1.  Lenovo Yoga: Sleek Convertible Ultraportables
         2.  ThinkPad Helix: 11.6" Premium Business Ultrabook
         3.  ThinkPad Yoga: Multimode Business Ultrabook
@@ -73,6 +70,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-2-LENOVO (1-855-253-6686)Call
         3.  View All Tablets
         4.  Bags &. Carrying Cases
         5.  Deals
+        6.  PC Finder
     6.  See all Tablets
     
 3.  Desktops &. All-in-Ones
@@ -108,13 +106,13 @@ Lenovo Lenovo recommends Windows. Search Call1-855-2-LENOVO (1-855-253-6686)Call
         6.  Monitors
         7.  Keyboards &. Mice
         8.  Deals
+        9.  PC Finder
         
     6.  See all Desktops &. All-in-Ones
     
 4.  Workstations
     1.  See all Workstations
-    2.  ThinkStation Workstations High-Performance,  
-        Professional-Strength Workstations
+    2.  ThinkStation Workstations Professional-Strength Workstations
         1.  P Series: Entry-Level Power &. Stability
         2.  30 Series: High-Performance, Powerful Graphics
         3.  See all ThinkStation Workstations
@@ -292,7 +290,7 @@ Narrow Results Offers
 
 1.  View cart
 
-HomePrivacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
+Home Privacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
   Privacy details    
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
