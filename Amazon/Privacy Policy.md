@@ -1,6 +1,6 @@
 Rechercher dans les pages d'aide : Protection de vos informations personnelles
 
-_Dernière mise à jour le 1er juillet 2014_
+Dernière mise à jour le 1er juillet 2014. Pour consulter la version précédente, cliquez ici.
 
 Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de votre confiance pour les traiter scrupuleusement, avec précaution, et à bon escient. **En visitant le site Amazon.fr, vous acceptez qu'Amazon.fr collecte, traite et utilise les informations personnelles visées comme indiqué ci-après.**
 
