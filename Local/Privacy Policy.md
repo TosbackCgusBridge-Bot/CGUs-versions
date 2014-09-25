@@ -1,4 +1,3 @@
-  
 Local Corporation Privacy Policy  
 
 Effective Date: December 20, 2013
