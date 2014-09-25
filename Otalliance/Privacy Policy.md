@@ -95,7 +95,7 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Sep 23, 2014 Think you know everything about email deliverability? Email deliverability is constantly changing - what you knew yesterday may not be enough to reach your customers today. In fact, according to a study by Return Path\*, 22% of emails never actually make it to your customer’s inbox. If your customer is not seeing 1 in 5 of your emails, how does that affect their engagement? And what does that mean for your bottom line? Wed, Sep 24, 2014 2014 Trusted Cyber Collabortion Workshop
+Wed, Sep 24, 2014 2014 Trusted Cyber Collabortion Workshop
 
 TSCP is proud to present the Trusted Cyber Collaboration Workshop, an industry-leading workshop and vendor showcase on secure collaboration among industry partners across supply chains. The Transglobal Secure Collaboration Participation (TSCP) is the only government-industry partnership specifically focused on designing solutions to address the most critical issues facing global industry: mitigating the compliance, complexity, cost and IT security risks inherent in large-scale, multi-national collaborative programs.
 
@@ -110,6 +110,8 @@ Tue, Sep 30, 2014 Email Unsubscribe - Beyond Compliance Webinar
 Join OTA for a review of the unsubscribe audit and recommended best practices moving beyond compliance.  Webinar will review key learnings providing marketers actionable and prescriptive advice to making their email marketing initiative more trustworthy.  For more info visit OTA Unsubscribe Best Practices.   
 
 Speakers
+
+Wed, Oct 1, 2014 National Cyber Security Awareness Month National Cyber Security Awareness Month (NCSAM) – celebrated every October - was created as a collaborative effort between government and industry to ensure every American has the resources they need to stay safer and more secure online. Join OTA in support of NCSAM. Coming Soon OTA sponsored events!
 
 *   OTA Blog
 *   Newsletters
