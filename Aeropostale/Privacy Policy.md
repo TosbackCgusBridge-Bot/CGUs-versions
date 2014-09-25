@@ -9,6 +9,70 @@ Aéropostale Go
 
 *   Girls
     
+    *   FEATURED SHOPS - 3541049
+        *   NEW ARRIVALS
+        *   Pretty Little Liars
+        *   Bethany Mota
+        *   Uniform Looks
+        *   Outfit Guide
+        *   Brands We Love
+        *   Live Love Dream
+        *   Shoe Bar
+        *   Extended Sizes
+        *   Web Exclusives
+        *   CLEARANCE
+            *   Clearance Tops
+            *   Clearance Bottoms
+            *   Clearance Accessories
+    
+    *   SHOP BY CATEGORY - 3541050
+        *   TOPS
+            *   Tees
+            *   Camis + Tanks
+            *   Polos
+            *   Shirts
+            *   Hoodies + Sweatshirts
+            *   Sweaters + Cardigans
+        *   BOTTOMS
+            *   Jeans
+            *   Leggings
+            *   Sweatpants
+            *   Pants
+            *   Shorts
+            *   Skirts
+        *   Dresses
+        *   OUTERWEAR
+        *   Footwear
+            *   Boots
+            *   Sneakers
+            *   Flats
+            *   Heels
+        *   Bras
+        *   Panties
+        *   Socks
+        *   ACCESSORIES
+            *   Bags + Wallets
+            *   Jewelry
+            *   Sunglasses
+            *   Scarves
+            *   Hats
+            *   Watches
+            *   Belts
+            *   Phone Cases
+            *   Hair Accessories
+            *   Beauty
+            *   Fragrance
+        *   LIVE LOVE DREAM
+            *   active
+            *   yoga
+            *   lounge
+            *   bras
+            *   panties
+            *   accessories
+            *   Clearance
+        *   ROOM
+        *   Uniform
+    
     *   NEW ARRIVALS
     
     *   Pretty Little Liars
@@ -58,7 +122,6 @@ Aéropostale Go
         *   Boots
         *   Sneakers
         *   Flats
-        *   Sandals
         *   Heels
     
     *   Bras
@@ -94,6 +157,51 @@ Aéropostale Go
     *   Uniform
 *   Guys
     
+    *   FEATURED SHOPS - 3542202
+        *   NEW ARRIVALS
+        *   Outfit Guide
+        *   Brands We Love
+        *   Uniform Looks
+        *   SNEAKER SHOP
+        *   EXTENDED SIZES
+        *   Web Exclusives
+        *   CLEARANCE
+            *   Clearance Tops
+            *   Clearance Bottoms
+            *   Clearance Accessories
+    
+    *   SHOP BY CATEGORY - 3542203
+        *   Tops
+            *   Graphic Tees
+            *   Polos
+            *   Tees
+            *   Hoodies
+            *   Shirts
+            *   Sweaters
+        *   Bottoms
+            *   Jeans
+            *   Pants
+            *   Shorts
+            *   Sweatpants
+        *   Outerwear
+        *   Footwear
+            *   Sneakers
+        *   Boxers + Trunks
+            *   Boxers
+            *   Boxer Briefs
+            *   Trunks
+        *   Socks
+        *   Cold Weather
+        *   Accessories
+            *   Hats
+            *   Watches
+            *   Bags + Wallets
+            *   Belts
+            *   Ties
+            *   Cologne
+        *   ROOM
+        *   Uniform
+    
     *   NEW ARRIVALS
     
     *   Outfit Guide
@@ -116,9 +224,9 @@ Aéropostale Go
     *   Tops
         *   Graphic Tees
         *   Polos
-        *   Shirts
         *   Tees
         *   Hoodies
+        *   Shirts
         *   Sweaters
     
     *   Bottoms
@@ -130,7 +238,6 @@ Aéropostale Go
     *   Outerwear
     
     *   Footwear
-        *   Flip Flops
         *   Sneakers
     
     *   Boxers + Trunks
@@ -155,6 +262,19 @@ Aéropostale Go
     *   Uniform
 *   ROOM
     
+    *   Girls - 43879826
+        *   Bethany Room
+        *   Bedding
+        *   Pillows &. Window
+        *   Lighting
+        *   Accessories
+        *   Wall Decor
+    
+    *   Guys - 43880186
+        *   Bedding
+        *   Accessories
+        *   NFL
+    
     *   Bethany Room
     
     *   Bedding
@@ -173,6 +293,21 @@ Aéropostale Go
     
     *   NFL
 *   Aero Clearance
+    
+    *   Girls Clearance - 3595054
+        *   VIEW ALL
+        *   ALL TOPS
+        *   ALL BOTTOMS
+        *   ALL ACCESSORIES
+    
+    *   Guys Clearance - 3595055
+        *   VIEW ALL
+        *   ALL TOPS
+        *   ALL BOTTOMS
+        *   ALL ACCESSORIES
+    
+    *   Room Clearance - 33885766
+        *   View All
     
     *   VIEW ALL
     
