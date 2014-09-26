@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12810910489
+true true C12814857990
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Sep 24 04:55:50 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Thu Sep 25 04:05:13 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -69,7 +69,11 @@ Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
 Starts now! In store and online.
 
-shop the sale shop women shop men shop kids shop shoes shop jewelry shop lingerie shop baby shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor Red Zone Clearance 50-70% Off
+shop the saleNight and Day Doorbusters
+
+In store only. Friday, September 26, 3PM until close, Saturday, September 27, 10AM until 1PM.
+
+view doorbusters store ad view store ad shop women shop men shop kids shop shoes shop jewelry shop lingerie shop baby shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor Red Zone Clearance 50-70% Off
 
 In store and online.
 
@@ -77,7 +81,9 @@ shop clearance 30-50% Off Home Sale
 
 Select styles.
 
-shop the home sale shop bedding30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses 25-40% Off Select Alfred Dunner shop Alfred Dunner 25-30% Off Select Women's Comfort Shoes shop women's comfort shoes Baby Sale
+shop the home sale shop curtains and drapes30-50% Off Select Bedding and Bath shop bedding and bath30-50% Off Select Kitchen and Dining shop kitchen and dining40-50% Off Select Furniture and Mattresses shop furniture and mattresses40-50% Off Select Window shop window 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay 30-45% Off Select Women's Boots shop women's boots Baby Sale
+
+Last Days.
 
 Big savings come in baby, toddler and preschool sized packages.
 
