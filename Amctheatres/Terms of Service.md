@@ -1,6 +1,6 @@
 Terms and Conditions of Use
 
-AMC Entertainment, Inc. and its affiliates (collectively, "AMC", "we", "us" or "our") have adopted the following terms and conditions of use (the "General Terms") in order for each visitor ("you") to enjoy a visit to www.amctheatres.com or the mobile version thereof (the "Site"), enjoy the use of our mobile application, or both (the Site and the mobile application will be collectively referred to as the "Service"), and to ensure you know what to expect from your visit to or use of the Service.
+AMC Entertainment Inc. and its affiliates (collectively, "AMC", "we", "us" or "our") have adopted the following terms and conditions of use (the "General Terms") in order for each visitor ("you") to enjoy a visit to www.amctheatres.com or the mobile version thereof (the "Site"), enjoy the use of our mobile application, or both (the Site and the mobile application will be collectively referred to as the "Service"), and to ensure you know what to expect from your visit to or use of the Service.
 
 Our Agreement. Acceptance of Terms
 
@@ -157,6 +157,6 @@ General
 
 The Terms, together with AMC's privacy policy and any other policy posted at the Site or available through the Service, are the entire agreement between AMC and you relating to this Service and supersede any prior representations, discussions, undertakings, communications or advertising relating to the Terms, the Service or your access and use of the Service. If any provision of the Terms is found invalid or unenforceable by a court of competent jurisdiction, you agree that every attempt will be made to give effect to the parties' intentions as reflected in that provision to the extent permitted by applicable law, and such finding will not affect the balance of the Terms, which will remain valid and enforceable. You may not assign your rights or delegate your duties under the Terms. Where we have provided a translation of the Terms into a language other than English, then you agree that the translation is provided only for your convenience, and that the English language version of the Terms will govern your relationship with us. If there is any conflict between the English language version of the Terms and the translation of the Terms, then the English language version will control. AMC and its licensors will not be liable for any nonperformance or delay in performance caused by any unforeseen act or event beyond their control. Each of our affiliates and each licensor is a third party beneficiary of, and will have the right to enforce, the Terms against you.
 
-Copyright © 2013 AMC Entertainment, Inc. All rights reserved.
+Copyright © 2014 AMC Entertainment Inc. All rights reserved.
 
-_Date of Last Revision: January 24, 2013_
+_Date of Last Revision: September 25, 2014_
