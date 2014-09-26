@@ -16,7 +16,6 @@
 *   Hybrids &. EVs
 *   Upcoming Vehicles
 
-*   2015 Camry View More Info
 *   2015 Toyota FuelCell Vehicle View More Info
 *   Concept Vehicles See Vehicles
 
