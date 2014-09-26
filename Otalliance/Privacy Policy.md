@@ -95,14 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Sep 24, 2014 2014 Trusted Cyber Collabortion Workshop
-
-TSCP is proud to present the Trusted Cyber Collaboration Workshop, an industry-leading workshop and vendor showcase on secure collaboration among industry partners across supply chains. The Transglobal Secure Collaboration Participation (TSCP) is the only government-industry partnership specifically focused on designing solutions to address the most critical issues facing global industry: mitigating the compliance, complexity, cost and IT security risks inherent in large-scale, multi-national collaborative programs.
-
-Wed, Sep 24, 2014 Best Practices for Managing Brand Compliance Online
-
-InterContinental Hotels Group (IHG) will share how they successfully manage brand compliance in digital channels with their franchisees. In this one-hour session you’ll learn:
-
 Tue, Sep 30, 2014 Email Unsubscribe - Beyond Compliance Webinar
 
 **A Decade Since CAN-SPAM**
@@ -111,7 +103,13 @@ Join OTA for a review of the unsubscribe audit and recommended best practices mo
 
 Speakers
 
-Wed, Oct 1, 2014 National Cyber Security Awareness Month National Cyber Security Awareness Month (NCSAM) – celebrated every October - was created as a collaborative effort between government and industry to ensure every American has the resources they need to stay safer and more secure online. Join OTA in support of NCSAM. Coming Soon OTA sponsored events!
+Wed, Oct 1, 2014 National Cyber Security Awareness Month National Cyber Security Awareness Month (NCSAM) – celebrated every October - was created as a collaborative effort between government and industry to ensure every American has the resources they need to stay safer and more secure online. Join OTA in support of NCSAM. Coming Soon OTA sponsored events! Sun, Nov 9, 2014 publisher forum: Making Media Work
+
+Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
+
+Wed, Nov 12, 2014 SecureWorld Seattle
+
+**SecureWorld** conference and expo provide more content and facilitate more professional connections than any other event in the cyber-security industry.  As an industry sponsor, OTA members and site visitor save $100 on the two-day conference pass using the code "OTA" or $200 off the full conference and training workshop using the code "OTASWP".  Visit OTA's booth in the expo areas to learn about industry best practices and the importance of data stewardship and user centricity.
 
 *   OTA Blog
 *   Newsletters
