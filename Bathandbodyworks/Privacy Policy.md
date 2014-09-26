@@ -1,6 +1,6 @@
 Privacy &. Security
 
-This privacy policy explains what personal information is collected through our various online channels, how that information is used, to whom it's disclosed, and how it's safeguarded. This policy applies only to personal information collected through the online channel where this policy is displayed or linked by us, such as the Web site or Site (www.bathandbodyworks.com). our mobile websites, microsites. and Bath &. Body Works pages on social media sites, ("BBW social media page"). By "personal information" we mean your identifying information (like name, home address, and email address), and possibly descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Bath &. Body Works as "BBW," "we," "us," or "our" throughout this privacy policy.
+This privacy policy explains what personal information is collected through our various online channels, how that information is used, to whom it's disclosed, and how it's safeguarded. This policy applies only to personal information collected through the online channel where this policy is displayed or linked by us, such as the Web site or Site (www.BathandBodyWorks.com). our mobile websites &. microsites. and Bath &. Body Works pages on social media sites "BBW social media page"). By "personal information" we mean your identifying information (like name, home address, and email address), and possibly descriptive information (like tastes and preferences) if coupled with your identifying information ("personally identifying information"). We may refer to Bath &. Body Works as "BBW," "we," "us," or "our" throughout this privacy policy.
 
 This privacy policy answers these questions:
 
@@ -53,7 +53,7 @@ When you visit this Web site or an online channel where this policy is linked, w
 
 To better understand what you do while on our site, we use a browser feature known as a cookie. A cookie is a small data file that's stored by your Web browser on your computer or device. It's used to do things like see how you navigate our Web site, and remember you and your online purchases when you return. This helps us improve our site, provide better Customer Care, tailor your online experience, and tailor offers to you based on your unique tastes, location and/or purchase history.
 
-We also use clear-gifs (also known as a Web beacon, pixel tags or Web bug) on our Web site, mobile site, microsites, and BBW social media pages and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or e-mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in e-mails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
+We also use clear-gifs (also known as a Web beacon, pixel tags or Web bug) on our Web site, mobile site, microsites, and BBW social media pages and in our emails. A clear gif is a nearly invisible pixel-sized graphic image on a Web page, Web-based document or email message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Web site or email in question is viewed. Clear gifs in emails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family. and they help deliver a more personalized online experience.
 
 Overall, these technologies may be used to help us see which of our interactive experiences online users like most: for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites. and on which social networking sites it is embedded, based on inquiries that are sent to our Web site.
 
@@ -69,6 +69,8 @@ We contract with third-party advertising companies to deliver tailored online di
 
 For information about opt out programs that these third party advertising companies participate in, and the effect of opting out, click the following: \[NAI Opt Out click here\] and \[DAA Opt Out - click here\] (you'll then leave this site for centrally managed online sites where you may specify your preferences under those programs). You can also click the preference icon that may appear on some of our advertising served through use of these technologies. You should also note that our systems may not recognize "Do Not Track" headers from some or all browsers.
 
+BACK TO TOP
+
 **HOW MAY YOU INTERACT WITH THIRD-PARTY WEB SITES AND CONTENT?**
 
 We may enable you to navigate to third-party sites and services, or otherwise display third-party content. We do this for your convenience. We don't endorse, or generally have any affiliation with, these third parties. And we don't control and aren't responsible for their Web practices. Whether their content appears within our Web environment (like a map frame), or you leave our Web site for another site to view it, the terms, conditions, and privacy policies of those third-party sites govern your online experience (unless we have also linked our privacy policy and/or terms and conditions to some portion of the third-party site). Please view their terms of service and privacy policies if you have any question about their practices.
@@ -81,7 +83,7 @@ We may facilitate easy access to the online maps of content providers like Googl
 
  **2. Sweepstakes, Contests, and Survey Sites**
 
-We may rely on the expertise of third-party service providers to run sweepstakes, contests, and surveys. Navigation to these sites may be seamless so that it appears you're still in our Web site environment. In these cases, the third-party's privacy policy may apply to any personal information you provide in connection with the event. So please take note of who's running the event in question. and the terms, conditions, and policies that apply.
+We may rely on the expertise of third-party service providers to run sweepstakes, contests, and surveys. Navigation to these sites may be seamless so that it appears you're still in our Web site environment. In these cases, the third-party's privacy policy may apply to any personal information you provide in connection with the event. So please take note of who's running the event in question and the terms, conditions, and policies that apply.
 
  **3. Social Networking or Other User-Generated-Content Sites, and Other Websites**
 
@@ -93,9 +95,11 @@ Note too, the social media sites where Bath &. Body Works has a BBW social media
 
  **4. Third-Party Rewards or Membership Programs**
 
-We may interact with certain unrelated companies that offer their customers memberships to participate in programs, which may include rewards for purchases from us. If you become a member of one of these programs or purchase something from us at this Web site through such a program, we may provide the company administering the membership program enough information about you or your purchase (like contact information, transaction date, transaction amount, and order number), to enable it to honor your membership.
+We may interact with certain unrelated companies that offer their customers memberships to participate in programs, which may include rewards for purchases from us. If you become a member of one of these programs or purchase something from us at this Web site through such a program, we may provide the company administering the membership program enough information about you or your purchase (like contact information, transaction date, transaction amount, and order number) to enable it to honor your membership.
 
 We are not responsible for the privacy practices of the companies sponsoring these membership programs. Their terms, conditions, and policies apply to any information that's provided to them to further their programs.
+
+BACK TO TOP
 
 **WHAT INFORMATION DO WE SHARE WITH THIRD PARTIES OR AFFILIATES (OR WHAT INFORMATION MAY THEY ACCESS BECAUSE OF THE SERVICES THEY PROVIDE TO US)?**
 
@@ -121,17 +125,19 @@ We may disclose specific information about our Web-site visitors if we have a go
 
 In the event we sell or transfer all or a portion of our business assets, consumer information may be one of the business assets that are transferred as part of the transaction.
 
+BACK TO TOP
+
 **WHAT CHOICES DO YOU HAVE OVER HOW YOUR INFORMATION IS USED?**
 
  **1. Email**
 
-If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message This will stop future email offers from us, but won't stop operational or transactional messages such as email confirmations of your online orders, or Customer Care communications. You may also click here or call us at 1-800-756-5005.
+If at any time you'd like to stop future delivery of our email offers, simply follow the removal instructions located at the bottom of each message This will stop future email offers from us, but won't stop operational or transactional messages such as email confirmations of your online orders or Customer Care communications. You may also click here or call us at 1-800-756-5005. For Bath &. Body Works Direct TDD, call 1-877-215-5245.
 
-We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your e-mail address with the specific third party with which you have opted in. Please review their privacy policies to see how they treat your personal information.
+We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we'll share your email address with the specific third party with which you have opted in. Please review their privacy policies to see how they treat your personal information.
 
  **2. Mobile Messaging**
 
-If you've signed up for recurring mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the applicable opt-out instructions, which are usually included in the mobile message itself. You may also click here or call us at 1-800-756-5005.
+If you've signed up for recurring mobile messaging (e.g., SMS and MMS) offers but later decide you no longer wish to receive them, simply follow the applicable opt-out instructions, which are usually included in the mobile message itself. You may also click here or call us at 1-800-756-5005. For Bath &. Body Works Direct TDD, call 1-877-215-5245.
 
  **3. Postal Mailers**
 
@@ -147,7 +153,9 @@ If you don't want your basic contact and purchase information shared with other 
 
  **6. Our Affiliates**
 
-If you would like to request that our affiliates do not use your name, postal address, email address and purchase information for marketing purposes, please contact us at 1-800-395-1001 to make a request.
+If you would like to request that our affiliates do not use your name, postal address, email address and purchase information for marketing purposes, please contact us at 1-800-395-1001 to make a request. For Bath &. Body Works Store Relations TDD, call 1-866-315-3129.
+
+BACK TO TOP
 
 **WHAT IS THE POLICY FOR VISITORS FROM OUTSIDE THE U.S.?**
 
@@ -157,11 +165,15 @@ All our online channels are based in the U.S. This privacy policy governs the in
 
 **HOW MAY I ACCESS AND UPDATE MY PERSONAL INFORMATION?**
 
-We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information by logging onto Your Account, or by calling us at 1-800-756-5005.
+We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information by logging onto Your Account, or by calling us at 1-800-756-5005. For Bath &. Body Works Direct TDD, call 1-877-215-5245.
+
+BACK TO TOP
 
 **HOW DO WE ADDRESS CHILDREN'S PRIVACY?**
 
 We do not knowingly collect or maintain information provided by children under the age of 13.
+
+BACK TO TOP
 
 **HOW DO WE SECURE YOUR INFORMATION ON OUR SITE?**
 
@@ -169,9 +181,13 @@ This Web site has the following types of security measures: limited access data-
 
 While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
 
+BACK TO TOP
+
 **WHOM MAY YOU CONTACT WITH QUESTIONS OR CONCERNS?**
 
 If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us.
+
+BACK TO TOP
 
 **WHO ADMINISTERS THIS POLICY?**
 
@@ -185,8 +201,12 @@ Our Associate Vice President (AVP) of L Brands, Inc., administers this policy. Y
        US  
 generalcounsel@lb.com (ATTN: Privacy Matter)
 
+BACK TO TOP
+
 **WHEN WAS THIS POLICY LAST UPDATED?**
 
 Please click here to view any material and substantive changes made since the last revision of this privacy policy. If you're concerned about how your personal information is used, please visit our site often for this and other important announcements about BathandBodyWorks.com.
+
+BACK TO TOP
 
 This privacy policy is effective June 14, 2014.
