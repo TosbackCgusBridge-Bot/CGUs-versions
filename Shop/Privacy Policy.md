@@ -223,13 +223,14 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Home Laptop &. Desktop Deals
-        2.  ThinkPad &. ThinkCentre QuickShips
-        3.  Accessories Clearance Sale
-        4.  Accessories Hot Deals
-        5.  Deals for Students and Educators
-        6.  Outlet
-        7.  See all Current Offers
+        1.  Systems You'll Fall For
+        2.  Home Laptop &. Desktop Deals
+        3.  ThinkPad &. ThinkCentre QuickShips
+        4.  Accessories Clearance Sale
+        5.  Accessories Hot Deals
+        6.  Deals for Students and Educators
+        7.  Outlet
+        8.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
