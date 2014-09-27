@@ -25,11 +25,11 @@ Gift Cards | Offers | Visa Signature
     *   Advanced Style
     *   Jimi: All Is By My Side
     *   Pride
-    *   Days and Nights
+    *   Field of Lost Shoes
     *   The Two Faces of January
+    *   Days and Nights
     *   Lilting
     *   The Song
-    *   Believe Me
     *   See All Opening This Week
     
     Coming Soon
