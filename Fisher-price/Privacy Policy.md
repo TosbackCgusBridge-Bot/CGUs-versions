@@ -35,7 +35,7 @@ Main Menu
     *   Gear, toys, and parenting tips for baby's first year
 
 *   Toddler &. Preschooler
-    *   Kids' favorite characters &. brands
+    *   Kids’ favorite brands &. characters, plus fun things to do online!
 
 *   Tips &. Tools
     *   Age-by-Age Playtime Guide
