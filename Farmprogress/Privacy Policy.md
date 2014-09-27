@@ -145,4 +145,6 @@ Toolbox
 *   Beef Producer App
 *   Farm Progress App
 
-Powered by iNet Solutions Group ©2014 All Rights Reserved.
+Copyright ©2014 Penton
+
+Powered by iNet Solutions Group
