@@ -36,7 +36,7 @@ Aéropostale Go
         *   BOTTOMS
             *   Jeans
             *   Leggings
-            *   Sweatpants
+            *   joggers + sweats
             *   Pants
             *   Shorts
             *   Skirts
@@ -109,7 +109,7 @@ Aéropostale Go
     *   BOTTOMS
         *   Jeans
         *   Leggings
-        *   Sweatpants
+        *   joggers + sweats
         *   Pants
         *   Shorts
         *   Skirts
