@@ -98,15 +98,14 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         1.  Erazer X Series: Extreme-Performance Gaming PCs
         2.  See all Erazer Desktops
     5.  Not sure what you need?
-        1.  Desktops Clearance Sale
-        2.  New Product Showcase
-        3.  Best Selling Desktops
-        4.  Gaming PCs
-        5.  View All Laptops
-        6.  Monitors
-        7.  Keyboards &. Mice
-        8.  Deals
-        9.  PC Finder
+        1.  New Product Showcase
+        2.  Best Selling Desktops
+        3.  Gaming PCs
+        4.  View All Laptops
+        5.  Monitors
+        6.  Keyboards &. Mice
+        7.  Deals
+        8.  PC Finder
         
     6.  See all Desktops &. All-in-Ones
     
@@ -181,8 +180,8 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         4.  Free System Checkup
         5.  See all Technologies
     5.  Not sure what you need?
-        1.  Accessories Clearance Sale
-        2.  Hot Deals
+        1.  Accessories Closeout Sale
+        2.  Accessories Hot Deals
         3.  Best Selling Accessories
         4.  Quick Ship Accessories
         5.  View All Accessories
@@ -226,7 +225,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         1.  Systems You'll Fall For
         2.  Home Laptop &. Desktop Deals
         3.  ThinkPad &. ThinkCentre QuickShips
-        4.  Accessories Clearance Sale
+        4.  Accessories Closeout Sale
         5.  Accessories Hot Deals
         6.  Deals for Students and Educators
         7.  Outlet
