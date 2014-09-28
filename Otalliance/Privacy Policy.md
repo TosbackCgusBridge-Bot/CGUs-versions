@@ -107,9 +107,7 @@ Wed, Oct 1, 2014 National Cyber Security Awareness Month National Cyber Security
 
 Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
 
-Wed, Nov 12, 2014 SecureWorld Seattle
-
-**SecureWorld** conference and expo provide more content and facilitate more professional connections than any other event in the cyber-security industry.  As an industry sponsor, OTA members and site visitor save $100 on the two-day conference pass using the code "OTA" or $200 off the full conference and training workshop using the code "OTASWP".  Visit OTA's booth in the expo areas to learn about industry best practices and the importance of data stewardship and user centricity.
+Wed, Nov 12, 2014 pii2014 Silicon Valley Join the Online Trust Alliance in Silicon Valley at the 5th annual Privacy Identity Innovation conference (pii2014), taking place November 12-14 at the Crowne Plaza Palo Alto hotel. Focused on Building Trust in the Data-Driven Economy, pii2014 will examine recent developments in areas like mobile, biometrics, the Internet of Things and big data with experts from leading companies and organizations. Learn about emerging trends and business models driving the personal information economy, and get guidance on developing strategies and best practices to build trust with your users. Confirmed speakers include FTC chairwoman Edith Ramirez, Silent Circle CEO Mike Janke, Microsoft’s chief privacy officer Brendon Lynch, about.me founders Tony Conrad and Ryan Freitas, Box’s chief trust officer Justin Somaini, AT&T’s chief privacy officer Robert Quinn and OTA executive director Craig Spiezle. Save 15% with promo code: OTA2014.
 
 *   OTA Blog
 *   Newsletters
