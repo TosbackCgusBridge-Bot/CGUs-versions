@@ -272,7 +272,6 @@ Aéropostale Go
     
     *   Guys - 43880186
         *   Bedding
-        *   Accessories
         *   NFL
     
     *   Bethany Room
@@ -288,8 +287,6 @@ Aéropostale Go
     *   Wall Decor
     
     *   Bedding
-    
-    *   Accessories
     
     *   NFL
 *   Aero Clearance
