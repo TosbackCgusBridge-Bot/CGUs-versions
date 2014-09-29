@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true L12942644681
+true true C12827400937
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Sep 27 03:03:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Sep 28 11:22:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -65,29 +65,31 @@ In Store and Online
 
 Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. Super Saturday Sale
-
-Starts now! In store and online.
-
-shop the saleNight and Day Doorbusters
-
-In store only. Friday, September 26, 3PM until close, Saturday, September 27, 10AM until 1PM.
-
-view doorbusters store ad view store ad shop women shop men shop kids shop shoes shop jewelry shop lingerie shop baby shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor Red Zone Clearance 50-70% Off
-
-In store and online.
-
-shop clearance 30-50% Off Home Sale
+\*See exclusions and details. 30-50% Off Home Sale
 
 Select styles.
 
-shop the home sale shop curtains and drapes30-50% Off Select Bedding and Bath shop bedding and bath30-50% Off Select Kitchen and Dining shop kitchen and dining40-50% Off Select Furniture and Mattresses shop furniture and mattresses40-50% Off Select Window shop window 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay 30-45% Off Select Women's Boots shop women's boots Baby Sale
+shop the sale30-50% Off Kitchen and Dining shop kitchen and diningFurniture and Mattresses shop furniture and mattressesWindow shop window40-50% Off Luggage shop luggage30-50% Off Bedding and Bath shop bedding and bath Red Zone Furniture Clearance 50-70% Off
 
-Last Days.
+In store and online.
 
-Big savings come in baby, toddler and preschool sized packages.
+shop furniture clearance Liz Claiborne Event
 
-40-50% Off Select Baby Clothing shop baby clothing 25% Off Select Bras When You Buy Two Or More shop bras 40-50% Off Select Guys' Dress Clothes shop guys' dress clothes 40% Off Select Homecoming Dresses shop homecoming dresses JCP Rewards
+25-40% Off Select Styles
+
+shop Liz Claiborne Skechers Shoes For The Family
+
+Excluded from coupon offer.
+
+shop Skechers 30% Off Select Women's Outerwear shop women's outerwear 20% Off Select Disney Collection Costumes, Only At JCPenney
+
+Excluded from coupon offer.
+
+shop Disney 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay Baby Sale
+
+Last day. Big savings come in baby, toddler and preschool sized packages.
+
+40-50% Off Select Baby Apparel shop baby apparel JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -95,11 +97,7 @@ sign up todayA Fit For Every Workout shop fitnessSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop Gift Cards
-
-Always fits, never expires.
-
-shop gift cards
+shop the SportsFanShopWrite A Review For Your Chance To Win $500 see rules and details
 
 get connected
 
