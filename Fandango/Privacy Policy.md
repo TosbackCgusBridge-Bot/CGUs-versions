@@ -4,39 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   The Equalizer
     *   The Maze Runner
-    *   A Walk Among the Tombstones
+    *   The Boxtrolls
     *   This Is Where I Leave You
-    *   No Good Deed
     *   Dolphin Tale 2
+    *   No Good Deed
+    *   A Walk Among the Tombstones
     *   Guardians of the Galaxy
     *   Let's Be Cops
     *   Teenage Mutant Ninja Turtles (2014)
-    *   The Drop
-    *   If I Stay
-    *   The Hundred-Foot Journey
+    *   The Skeleton Twins
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Boxtrolls
-    *   The Equalizer
-    *   Jack and the Cuckoo-Clock Heart
-    *   Advanced Style
-    *   Jimi: All Is By My Side
-    *   Pride
-    *   Field of Lost Shoes
-    *   The Two Faces of January
-    *   Days and Nights
-    *   Lilting
-    *   The Song
+    *   Annabelle
+    *   Gone Girl
+    *   Left Behind (2014)
+    *   The Good Lie
+    *   The Hero of Color City
+    *   Men, Women and Children
+    *   Nas: Time Is Illmatic
+    *   Bang Bang
+    *   A Good Marriage
+    *   Bitter Honey
+    *   Drive Hard
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Annabelle
-    *   Gone Girl
-    *   Left Behind
     *   Addicted
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
     *   Dracula Untold
@@ -45,6 +42,9 @@ Gift Cards | Offers | Visa Signature
     *   The Book of Life
     *   Fury (2014)
     *   John Wick
+    *   Ouija
+    *   Laggies
+    *   Before I Go to Sleep
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Will Leonard Nimoy and William Shatner reunite for 'Star Trek 3'? Read More Joseph Gordon-Levitt may play NSA whistle-blower Edward Snowden in upcoming biopic Read More Check it out: Vin Diesel's new images from 'Fast &. Furious 7' are bittersweet Read More Explore More
+*   Movie News Featured Movie News Listen: Lorde's moody first song from the 'Mockingjay -- Part 1' soundtrack Read More Rumor of the Day: Could 'Avengers 3' be split into two movies? Read More 'Saw' turns 10. celebrate with this wicked new poster and trailer Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -317,9 +317,9 @@ Offers **Gone Girl Free Gift**
 
 FREE eBOOK DOWNLOAD of the #1 New York Times bestseller GONE GIRL on NOOK Reading Apps™ with Fandango ticket purchase. BUY TICKETS
 
-**Cash for College Sweepstakes**
+**Fifty Shades of Grey Sweepstakes**
 
-“Like” Fandango Family on Facebook &. you could win $10,000! ENTER NOW
+Enter now for a chance to win a trip to the WORLD PREMIERE of Fifty Shades of Grey! ENTER NOW
 
 **The Boxtrolls Free Gift**
 
