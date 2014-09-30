@@ -243,7 +243,7 @@ See also:
 *   Link to detailed information on online store security
 *   Privacy and Information Security Policy for Test Takers
 
-  Related Links
+Related Links
 
 *   General Licensing Permission Form
 *   Research Licensing Permission Form
