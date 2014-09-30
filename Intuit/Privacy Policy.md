@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12827400937
+true true C12826585797
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Sep 28 11:22:20 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Mon Sep 29 03:05:10 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,51 +45,49 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store Only
 
-$10 Off $25 or more.
+Select original, regular, sale and clearance-priced items.
 
-print store couponOnline Only
+Ends October 1
 
-Ends September 28.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
 
-Online Code: BIGSAVE
+Or,Extra 15% Off\* with any other method of payment.
 
-Extra 15% Off\* under $100.
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Extra 20% Off\* $100 or more.
+print store coupon 3 Days Only
 
-Extra 25% Off\* $200 or more.
+Online only! September 29 through October 1.
 
-Select original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry and home.
+Code: ALL4U
 
-In Store and Online
-
-Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. 30-50% Off Home Sale
+\*See exclusions and details.
 
 Select styles.
 
-shop the sale30-50% Off Kitchen and Dining shop kitchen and diningFurniture and Mattresses shop furniture and mattressesWindow shop window40-50% Off Luggage shop luggage30-50% Off Bedding and Bath shop bedding and bath Red Zone Furniture Clearance 50-70% Off
+50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop JCP Home blinds and shades30% Off\* shop kitchen and dining shop curtain rods and hardware20% Off\* shop men's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fine jewelryOr, Extra 20% Off\* All Online Clearance \*See exclusions and details. \*See exclusions and details. 25-40% Off Liz Claiborne
+
+Select styles. Ends October 5.
+
+Liz Claiborne Event Only At JCPenney
+
+shop Liz Claiborne 25-40% Off Select Women's Boots shop women's boots 30-60% Off Select Fashion Jewelry When You Buy 2 Or More shop fashion jewelry 30% Off Select Bras When You Buy 2 Or More shop bras 20% Off Select Disney Collection Costumes, Only At JCPenney
+
+Excluded from coupon offer.
+
+shop Disney 20% Off Select Men's Adidas
+
+Excluded from coupon offer.
+
+shop men's Adidas 40% Off Select Boys' and Girls' Arizona shop Arizona 40-50% Off Furniture and Mattresses
+
+Select styles.
+
+shop furniture and mattresses Red Zone Clearance 50-70% Off
 
 In store and online.
 
-shop furniture clearance Liz Claiborne Event
-
-25-40% Off Select Styles
-
-shop Liz Claiborne Skechers Shoes For The Family
-
-Excluded from coupon offer.
-
-shop Skechers 30% Off Select Women's Outerwear shop women's outerwear 20% Off Select Disney Collection Costumes, Only At JCPenney
-
-Excluded from coupon offer.
-
-shop Disney 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay Baby Sale
-
-Last day. Big savings come in baby, toddler and preschool sized packages.
-
-40-50% Off Select Baby Apparel shop baby apparel JCP Rewards
+shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
