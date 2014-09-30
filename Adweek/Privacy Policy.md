@@ -1,6 +1,6 @@
 Privacy Policy  
 
-_Effective Date_: June 1, 2012
+_Effective Date_: January 1, 2014
 
 This Privacy Policy is applicable to www.prometheusgm.com, www.billboard.com, www.billboard.biz, www.adweek.com, www.backstage.com, www.hollywoodreporter.com, www.clioawards.com, www.filmjournal.com and any other site that may be operated by or for Prometheus Global Media (togetheher, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our Terms of Use , which govern the basic operation of the Websites.  
   
