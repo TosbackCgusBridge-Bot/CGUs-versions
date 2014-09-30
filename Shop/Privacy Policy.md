@@ -162,7 +162,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         13.  Tablet Accessories
         14.  Wireless &. Networking
         15.  See all Accessories
-    3.  Software Digital Downloads or Hard Copies
+    3.  Software Tools to Help You Do
         1.  Accounting &. Finance
         2.  Education &. Reference
         3.  Electronic Downloads
@@ -172,7 +172,11 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         7.  Security
         8.  Utilities
         9.  Windows 8 Apps
-        10.  See all Software
+        10.  PC Software Store
+        11.  Lenovo Apps
+        12.  Enterprise Software
+        13.  Developers
+        14.  See all Software
     4.  Technologies The Lenovo Difference Inside
         1.  Lenovo Reach
         2.  Lenovo Mobile Access
