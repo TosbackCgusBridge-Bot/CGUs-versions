@@ -119,4 +119,4 @@ Fun Stuff
 
 *   Jobology
 
-© 2014 CareerBuilder, LLC. All rights reserved. This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+© 2014 CareerBuilder, LLC. All rights reserved.
