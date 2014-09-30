@@ -22,11 +22,6 @@ In compliance with the Safe Harbor Principles and BCR requirements, HP commits t
 
   
 
-HP has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and related practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability, and choice regarding the collection and use of personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. The TRUSTe program does not cover information that may be collected through any software downloaded from this Web site. If you have questions or complaints regarding our Privacy Statement or practices, please contact HP using the contact information included at the end of this Statement. If you are not satisfied with our response, you can refer your complaint to TRUSTe.
-
-  
-  
-
 *   Scope of this Privacy Statement
 *   Collection of personal information
 *   How we use your information
