@@ -1,4 +1,4 @@
-Buckle Cardholders, your free gift is waiting!
+Earn BONUS REWARDS POINTS when you use your Buckle Card!
 
 See Details
 
@@ -68,6 +68,7 @@ My Bag (0) Wish List Search
     *   Store Events
     *   Sweepstakes Winners
     *   Social Giveaway Official Rules
+    *   Buckle Card Double Points 2014
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
