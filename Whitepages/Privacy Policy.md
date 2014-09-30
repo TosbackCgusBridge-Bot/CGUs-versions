@@ -88,7 +88,6 @@ If you have any questions about this policy, please write to Whitepages Privacy 
     *   FAQ
     *   Known Issues
     *   Other
-    *   Text Lookup
     *   Whitepages
     *   Whitepages PRO
 *   Remove your information Click here to remove your personal information from Whitepages
