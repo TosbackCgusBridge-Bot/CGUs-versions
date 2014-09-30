@@ -50,7 +50,7 @@ We take very seriously our responsibility to maintain your privacy with respect 
 
   
 V. Your Choices  
-We understand the importance of protecting our customers’ privacy, and we therefore provide you with the opportunity to opt-out of having your personally identifiable information used or disclosed for certain purposes.  
+We understand the importance of protecting our customers’ privacy, and we therefore provide you with the opportunity to opt-out of having your personally identifiable information used or disclosed for certain purposes. (Note: National Geographic sites currently do not recognize the "do-not-track signals" that some browsers may employ.)  
   
 You can opt out of receiving promotional communications from National Geographic and our Affiliates and our licensees, or request that we not share personally identifiable information about you with third parties for the third parties’ marketing purposes, by contacting us at:  
   
@@ -61,8 +61,6 @@ Washington, DC 20036-4688
 Telephone: 800-NGS-LINE (800-647-5463)  
 TDD: 800-548-9797  
 Outside the United States and Canada: 813-979-6845  
-  
-You also can change your preferences relating to our email newsletter program by going to www.nationalgeographic.com/register.html or by clicking here.  
   
 Because we plan our communications in advance, it may take several weeks for your request to become effective. If you continue to receive our communications in error after expressing an opt-out preference, please let us know so that we can investigate the situation.  
   
@@ -75,16 +73,19 @@ The security and confidentiality of your information is extremely important to u
 VIII. Personally Identifiable Information Contained in User Content  
 Some sections of our Site may allow users to post or transmit messages, comments, screen names, computer files and other materials. If you choose to make personally identifiable information public through these Services, National Geographic will consider that information public and will not limit its disclosure in the manner described here.  
   
-IX. Children’s Privacy  
+IX.Visiting Our Web Site From Outside The United States  
+National Geographic Society is based in Washington, DC in the United States of America. If you are visiting our web site from outside the United States, please be aware that your information may be transferred to, processed, and stored in the United States and other countries around the world. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services or providing us with any information through this website, you consent to the transfer, processing and storage of your information in the United States and other countries around the world.  
+  
+X. Children’s Privacy  
 Other than certain sections of this Site that are intended for visits from children under the age of 13 – including www.kids.nationalgeographic.com and www.littlekids.nationalgeographic.com – our Site is a general audience site, and we do not knowingly collect information about children under 13 years old through the Site. Should a child whom we know to be under 13 make known to us his or her personally identifiable information, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personally identifiable information. If we learn that we have collected personally identifiable information from a child under 13 other than in a manner authorized by law, we will delete that information from our database.  
   
-X. Changes in this Privacy Policy  
+XI. Changes in this Privacy Policy  
 We may amend this Privacy Policy at any time by posting the most recent version of the Policy on the Site, along with an indication of the date on which the Policy was amended most recently. If we make any material changes in the way we collect, use, and/or share personally identifiable information that we collect about you through the Site, we will notify you by sending you an email at the last email address that you provided us and/or by prominently posting notice of the changes on the Site. In any event, changes to this Privacy Policy may affect our use of personally identifiable information that you provided us prior to our notification to you of the changes.  
   
-XI. Contact Us  
+XII. Contact Us  
 If you have questions or wish to send us comments about this Privacy Policy, please write us at: National Geographic Society  
 Attn: Marketing Services - Privacy  
 1145 17th Street NW  
 Washington, DC 20036-4688  
   
-This policy was last updated August 1, 2011
+This policy was last updated April 10, 2014
