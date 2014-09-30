@@ -194,7 +194,7 @@ Symptoms| Doctors| Health Care Reform
     
     WebMD Second Opinion
     
-    Read expert perspecitves on popular health topics.
+    Read expert perspectives on popular health topics.
     
     WebMD Communities
     
