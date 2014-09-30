@@ -336,7 +336,7 @@ You agree to comply with the Registry's Acceptable Use policy and Terms and Serv
 
 You will (within thirty (30) days of demand) indemnify, defend and hold harmless the Registry Operator, Registry Service Provider, Registrar and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without Registrar’s or Registry Operator’s prior written consent, which consent shall not be unreasonably withheld and that this indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
-20\. provisions specific to all Donuts TLD registrations: **.academy; .accountants. .agency. .associates. .bargains. .bike. .boutique. .builders. .cab. .camera. .camp. .capital. .cards. .care. .careers. .cash. .catering. .center. .cheap. .church. .city; .claims. .cleaning. .clinic. .clothing. .codes. .coffee. .community. .company. .computer. .condos. .construction. .contractors;  .cool. .credit. .creditcard. .cruises. .dating. .deals. .dental. .diamonds. .digital. .direct.. .directory. .discount. .domains. .education. .email. .engineering. .enterprises. .estate. .equipment;  .events. .exchange. .expert. .exposed. .fail. .farm. .finance. .financial. .fish. .fitness. .flights. .florist. .foundation. .fund. .furniture. .gallery. .gift; .glass. .graphics. .gratis. .gripe. .guide. .guru. .haus. .healthcare. .holdings. .holiday. .house. .industries. .institute. .insure. .international; .investments. .kitchen. .land. .lease. .life. .lighting. .limited. .limo. .loans. .maison. .management. .marketing; .media. .partners. .parts. .photography. .photos. .pictures. .pizza. .place. .plumbing. .productions. .properties; .recipes. .reisen; .rentals. .restaurant. .repair. .report. .sarl. .schule. .services. .shoes. .singles. .solar. .solutions. .supplies. .supply. .support. .surgery. .systems. .tax. .technology. .tienda. .tips. .today. .tools. .town. .toys. .training. .university. .vacations. .ventures. .viajes. .villas. .vision. .voyage. .watch. .works. .wtf. .zone**
+20\. provisions specific to all Donuts TLD registrations: **.academy; .accountants. .agency. .associates. .bargains. .bike. .boutique. .builders. .business. .cab. .camera. .camp. .capital. .cards. .care. .careers. .cash. .catering. .center. .cheap. .church. .city; .claims. .cleaning. .clinic. .clothing. .codes. .coffee. .community. .company. .computer. .condos. .construction. .contractors;  .cool. .credit. .creditcard. .cruises. .dating. .deals. .dental. .diamonds. .digital. .direct.. .directory. .discount. .domains. .education. .email. .engineering. .enterprises. .estate. .equipment;  .events. .exchange. .expert. .exposed. .fail. .farm. .finance. .financial. .fish. .fitness. .flights. .florist. .foundation. .fund. .furniture. .gallery. .gift; .glass. .graphics. .gratis. .gripe. .guide. .guru. .haus. .healthcare. .holdings. .holiday. .house. .immo. .industries. .institute. .insure. .international; .investments. .kitchen. .land. .lease. .life. .lighting. .limited. .limo. .loans. .maison. .management. .marketing; .media. .network. .partners. .parts. .photography. .photos. .pictures. .pizza. .place. .plumbing. .productions. .properties; .recipes. .reisen; .rentals. .restaurant. .repair. .report. .sarl. .schule. .services. .shoes. .singles. .solar. .solutions. .supplies. .supply. .support. .surgery. .systems. .tax. .technology. .tienda. .tips. .today. .tools. .town. .toys. .training. .university. .vacations. .ventures. .viajes. .villas. .vision. .voyage. .watch. .works. .wtf. .zone**
 
 You shall, within thirty days of demand, indemnify, defend and hold harmless the Registry, Donuts’ service providers, Registrar and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without our prior written consent, which consent shall not be unreasonably withheld.  This indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
@@ -720,7 +720,11 @@ _Acknowledgements_.  You agree to be bound by current and future .IN registry p
 
 _Domain Name Dispute Policy_.  You agree to be bound by the policy and procedures for resolution of disputes concerning registered .IN domain names in accordance with the .IN Registry's Domain Name Dispute Resolution Policy.
 
-**66\. PROVISIONS SPECIFIC TO .IT REGISTRATIONS**
+**66\. PROVISIONS SPECIFIC TO .IO REGISTRATIONS**
+
+You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry terms and conditions, which may be found here.
+
+**67\. PROVISIONS SPECIFIC TO .IT REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, including without limitation the Assignment and Management of Domain Names in the ccTDL.IT and Dispute Resolution in the ccTLD.IT, both of which are hereby incorporated by this reference.
 
@@ -728,17 +732,17 @@ _Registration Restrictions_.  Unless you complete your domain name registration
 
 If you use the trustee service for your .it domain registration, you acknowledge and agree that your registration is subject to the review and approval of the trustee.  The trustee service will review your registration request within twenty four hours of receipt.  If your registration request is approved, your domain name will be registered.  If your registration request is denied, your domain name will not be registered and you will receive a refund of any registration fees paid.
 
-**67\. PROVISIONS SPECIFIC TO .JP registrationS**
+**68\. PROVISIONS SPECIFIC TO .JP registrationS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found on the Registry Operator’s website and are incorporated herein.
 
 _Registration Restrictions_.  You represent and warrant that you have a local presence in Japan with a home or office address. You agree that certain domain names are reserved and can only be registered by certain parties. These include: (i) TLDs, other than ccTLDs, as determined by ICANN. (ii) geographical-type .JP domain names that are defined as metropolitan, prefectural, and municipal labels. (iii) names of primary and secondary educational organizations. (iv) names of organizations related to Internet management. (v) names required for .JP domain name operations. and (vi) character strings which may be confused with ASCII-converted Japanese domain names. The complete list of .JP Reserved Domains is available here. 
 
-**68\. PROVISIONS SPECIFIC TO .LA REGISTRATIONS**
+**69\. PROVISIONS SPECIFIC TO .LA REGISTRATIONS**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, polices and agreements and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here.
 
-**69\. provisions specific to .me registrationS** 
+**70\. provisions specific to .me registrationS** 
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and which are incorporated herein. 
 
@@ -750,11 +754,11 @@ _Reservation of Rights_.  The Registry reserves the right to deny, cancel or tr
 
 _Other Dispute Policies_.  You acknowledge and agree to submit to proceedings commenced under other dispute policies as set forth by the Registry from time to time including, but not limited to, expedited processes for suspension of a domain name by claims sought by intellectual property right holders, Internet engineering and security experts or other competent claimants in the purpose of upholding the stability, security and integrity of the registry system for the TLD.
 
-**70\. provisions specific to .MS registrations**
+**71\. provisions specific to .MS registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and which are incorporated herein.
 
-**71\. provisions specific to .MX registrations**
+**72\. provisions specific to .MX registrations**
 
 _Acknowledgements_.  You warrant and represent that you meet all of the eligibility requirements to register a .MX domain name, and you agree to be bound by any registry rules, policies, and agreements for this ccTLD. The registration policies for this ccTLD are available here and are incorporated herein.
 
@@ -766,63 +770,63 @@ _Reservation of Rights_.  You acknowledge and agree that a copy of the customer
 
 _Indemnification_.  You agree to indemnify, defend and hold harmless the .MX registry operator, and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to your domain name registration.
 
-72\. Provisions specific to .MY registrations
+73\. Provisions specific to .MY registrations
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by refernce.
 
-**73\. Provisions specific to .nl registrations**
+**74\. Provisions specific to .nl registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD including, but not limited to, the registration guidelines, which are hereby incorporated by this reference. You further represent and warrant that all information provided by you is correct, complete and complies with all .NL General Terms and Conditions for .NL Registrants, which are also incorporated herein.
 
-**74\. provisions specific to .NU registrations**
+**75\. provisions specific to .NU registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. You further acknowledge and accept that any disputes related to your registered domain name will be governed by ICANN’s Uniform Domain Name Dispute Resolution Policy and the .NU Domain Ltd. Uniform Domain Name Dispute Resolution Policy, both of which are also hereby incorporated by reference.
 
-**75\. provisions specific to .NZ registrations**
+**76\. provisions specific to .NZ registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You understand and agree that in order to register a .NZ domain name, a pre-registration DNS validation check is required by the Registry. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD, which are located here and are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated herein and made a part of this Agreement.
 
-**76\. provisions specific to .PE registrations**
+**77\. provisions specific to .PE registrations**
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.
 
-**77\. provisions specific to .PH registrations**
+**78\. provisions specific to .PH registrations**
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules an d policies, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.  You acknowledge and agree to obey, comply with, and be bound by the Domain Namse Service Agreement, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and is incorporated herein by reference.
 
-**78\. provisions specific to .PL registrations**
+**79\. provisions specific to .PL registrations**
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules, policies and agreements, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.
 
-**79\. provisions specific to .RU registrations**
+**80\. provisions specific to .RU registrations**
 
 You acknowledge and agree to obey, comply with, and be bound by any and all registry rules an d policies, and any and all updates, revisions and modifications thereto for this ccTLD, and that you have read and understand the Registry Policies, where may be found here, and are incorporated herein by reference.   You agree to indemnify HEXONET against any and all liability, loss, damages and legal costs in the transmission of identification information, understanding that HEXONET deletes identification information from all its systems immediately after transmission. You understand and accept that the .RU registry may choose to store identification information along with other registration data on their own accord and completely independent from HEXONET.
 
-**80\. provisions specific to .SE registrations**
+**81\. provisions specific to .SE registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference. You further acknowledge and agree that registrations for this ccTLD are provided in connection with 1API.
 
-**81\. provisions specific to .Sg registrations**
+**82\. provisions specific to .Sg registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference.
 
-**82\. provisions specific to .So registrations**
+**83\. provisions specific to .So registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference. 
 
-**83\. provisions specific to .TC registrations**
+**84\. provisions specific to .TC registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein by reference.
 
-**84\. provisions specific to .TK registrations**
+**85\. provisions specific to .TK registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein. 
 
-**85\. provisions specific to .TV registrations**
+**86\. provisions specific to .TV registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further acknowledge and agree to be bound by any registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which are available here and are incorporated herein.
 
-**86\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
+**87\. PROVISIONS SPECIFIC TO .tw REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree to obey, comply with and be bound by any and all applicable laws, regulations and administrative policies promulgated by the Taiwan Network Information Center ("TWNIC").
 
@@ -846,14 +850,14 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .TW Re
 
 _.TW Registration Restrictions_.  You acknowledge and agree that you are not permitted to purchase private or proxy .TW registrations. You shall register for any and all .TW registrations using your personal information, which information you represent and warrant is current, accurate and complete.
 
-**87\. provisions specific to .UK registrations**
+**88\. provisions specific to .UK registrations**
 
 You represent and warrant that you meet the eligibility requirements of this ccTLD. You further agree to be bound by any registry rules, policies, and agreements for this ccTLD including, but not limited to, the Terms and Conditions of Domain Name Registration and the Rules for registering a .UK domain name, both of which are incorporated herein. If you are registering a Second Level Domain under this ccTLD, you further agree to be bound by the Second Level Domain's rules, policies, and agreements, which are also incorporated and made a part of this Agreement herein.
 
-**88\. provisions specific to .ve registrations**
+**89\. provisions specific to .ve registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, and that you have read and understand the Registry Policies, which may be found here and are incorporated herein by reference.
 
-**89\. provisions specific to .VG registrations**
+**90\. provisions specific to .VG registrations**
 
 You acknowledge and agree to obey, comply with and be bound by any and all registry rules, policies, and agreements, and any and all updates, revisions and modifications thereto, for this ccTLD, which may be found here and are incorporated herein.
