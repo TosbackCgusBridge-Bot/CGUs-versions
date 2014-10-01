@@ -162,6 +162,7 @@ Aéropostale Go
         *   Outfit Guide
         *   Brands We Love
         *   Uniform Looks
+        *   COLLEGE SHOP
         *   SNEAKER SHOP
         *   EXTENDED SIZES
         *   Web Exclusives
@@ -209,6 +210,8 @@ Aéropostale Go
     *   Brands We Love
     
     *   Uniform Looks
+    
+    *   COLLEGE SHOP
     
     *   SNEAKER SHOP
     
