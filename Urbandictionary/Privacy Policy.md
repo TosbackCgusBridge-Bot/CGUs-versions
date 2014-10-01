@@ -24,6 +24,8 @@ Our Ad Partners may also from time to time use web beacons (also known as Intern
 
 With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 
+You can opt-out of Google Analytics data collection with the Google Analytics Opt-out Browser Add-on.
+
 **Data Storage**
 
 Urban Dictionary uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Urban Dictionary. Urban Dictionary owns the code, databases, and all rights to the Urban Dictionary application.
