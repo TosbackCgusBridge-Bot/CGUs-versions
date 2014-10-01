@@ -21,7 +21,7 @@ Gift Cards | Offers | Visa Signature
     
     *   Annabelle
     *   Gone Girl
-    *   Left Behind (2014)
+    *   Left Behind
     *   The Good Lie
     *   The Hero of Color City
     *   Men, Women and Children
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Listen: Lorde's moody first song from the 'Mockingjay -- Part 1' soundtrack Read More Rumor of the Day: Could 'Avengers 3' be split into two movies? Read More 'Saw' turns 10. celebrate with this wicked new poster and trailer Read More Explore More
+*   Movie News Featured Movie News Listen: Lorde's moody first song from the 'Mockingjay -- Part 1' soundtrack Read More Rumor of the Day: Could 'Avengers 3' be split into two movies? Read More Liam Neeson in new 'Taken 3' trailer: now with Even More Badassery Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -317,9 +317,9 @@ Offers **Gone Girl Free Gift**
 
 FREE eBOOK DOWNLOAD of the #1 New York Times bestseller GONE GIRL on NOOK Reading Apps™ with Fandango ticket purchase. BUY TICKETS
 
-**Fifty Shades of Grey Sweepstakes**
+**Dracula Untold Free Gift**
 
-Enter now for a chance to win a trip to the WORLD PREMIERE of Fifty Shades of Grey! ENTER NOW
+FREE AUDIOBOOK DOWNLOAD at Audible with Fandango ticket purchase. BUY TICKETS
 
 **The Boxtrolls Free Gift**
 
@@ -334,7 +334,7 @@ New + Coming Soon
 *   Guardians of the Galaxy
 *   Teenage Mutant Ninja Turtles (2014)
 *   Big Hero 6
-*   Interstellar
+*   Interstellar (2014)
 *   Penguins of Madagascar
 *   The Hunger Games: Mockingjay, Part 1 (2014)
 *   The Hobbit: The Battle of the Five Armies
