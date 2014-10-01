@@ -62,13 +62,12 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
-    *   Buckle Card Free Lanyard Offer
-    *   Buckle Jeans Sweepstakes Official Rules
-    *   Tax Free Weekends 2014
+    *   Buckle Card Double Points 2014
     *   Store Events
+    *   Tax Free Weekends 2014
     *   Sweepstakes Winners
     *   Social Giveaway Official Rules
-    *   Buckle Card Double Points 2014
+    *   Buckle Jeans Sweepstakes Official Rules
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
