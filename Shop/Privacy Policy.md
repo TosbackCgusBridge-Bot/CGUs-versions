@@ -263,7 +263,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
     1.  See all Contact Us
     2.  Sales inquiry? Chat online with a live representative.  
         Chat is always online.
-    3.  Customer service inquiry? Chat online with a live representative  
+    3.  Order Assistance inquiry? Chat online with a live representative  
         Monday-Friday 9am-9pm EST  
         Saturday-Sunday 9am-6pm EST
     4.  Call us **Sales Center**  
@@ -272,7 +272,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         Sat: 9am - 6pm (EST)  
         Sun: Closed  
           
-        **Customer Service**  
+        **Order Assistance**  
         1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
         Sat - Sun : 9am - 6pm (EST)  
