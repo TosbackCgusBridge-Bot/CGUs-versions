@@ -141,7 +141,8 @@ By email
   
 AOL is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.  
   
-AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.  
+AOL Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  AOL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view AOL’s certification, please visit http://www.export.gov/safeharbor/.  
+  
   
 **How to Contact Us**  
   
