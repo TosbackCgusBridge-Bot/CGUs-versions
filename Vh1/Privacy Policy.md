@@ -9,7 +9,7 @@
     *   Gossip + News
     *   Celebrity Photos
     *   Greatest Lists
-    *   Best Week Ever
+    *   Big Morning Buzz Live
     *   The Gossip Table
 *   Music
     *   Gossip + News
@@ -24,9 +24,6 @@
 *   Shop
 
 *   Follow VH1
-    *   IFrames are not supported
-    *   Follow
-    
 
 Last Modified: August 14, 2014  
 Click here to learn about the most recent significant updates. **Go to Terms of Use Agreement** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
