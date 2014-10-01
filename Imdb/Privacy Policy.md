@@ -1,4 +1,3 @@
-  
 IMDb Privacy Notice
 
 **Last Updated, March 17, 2014**. To see what has changed click here.
