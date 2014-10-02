@@ -1,4 +1,4 @@
-USESDEFRITBR Septembre 2014
+USESDEFRITBR Octobre 2014
 
 *   Objet
 *   Mentions légales
@@ -120,19 +120,19 @@ Le présent contrat est conclu pour une durée indéterminée à compter de l'Ut
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.  
 Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
-Conditions-ga-na-rales-d-utilisation.pdf A voir également
+Conditions-generales-d-utilisation.pdf A voir également
 
-*   Conditions gÃ©nÃ©rales
+*   Conditions générales
 *   Ou trouver les conditions dutilisations ps3
 *   La baignoire simple pour bébé définition et condition dutilisation
-*   J'ai cela "gÃ©nÃ©rales" comment le retirer merci » Forum - Google Chrome
-*   Modèle Condition Générale de Vente » Forum - Webmaster
-*   \[wifi\] Windows n'a pas trouvé de certificat (Résolu) » Forum - WiFi
-*   Windows n'a pas pu se connecter au réseau wifi (Résolu) » Forum - WiFi
-*   Excel - Colorer des cellules sur conditions » Conseils pratiques - Excel
+*   Conditions générales de vente » Forum - Webmaster
+*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
 
 Communautés d'assistance et de conseils.
 
-*   Forum WiFi
-*   Forum Mobile
-*   Forum Carte-mère/mémoire
+*   Forum iPhone
+*   Forum Vos droits sur internet
+*   Consommation et internet
