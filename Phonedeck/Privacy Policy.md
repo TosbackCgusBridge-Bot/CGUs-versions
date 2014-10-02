@@ -1,22 +1,26 @@
-*   Home
-*   Product
+*   Products
     *   Mobile App
     *   Phone Remote
+*   Enterprises
+*   Partners
+*   Telcos
 *   Company
     *   About
     *   Blog
     *   Jobs
-*   Contact Us
+    *   Contact
 
-*   Home
-*   Product
+*   Products
     *   Mobile App
     *   Phone Remote
+*   Enterprises
+*   Partners
+*   Telcos
 *   Company
     *   About
     *   Blog
     *   Jobs
-*   Contact Us
+    *   Contact
 
 Privacy Policy 1. Data Collection, Processing and Use
 
@@ -64,27 +68,30 @@ If you have further questions or comments about the Data Privacy Provisions, ple
 
 **Effective: September 01, 2011**
 
-Start a free 14 day trial of Phonedeck CSI today! Go to AppExchange Menu
+Do you like Phonedeck? Try right now for free! Get 14 days trial! Menu
 
+*   Enterprises
+*   Partners
+*   Telcos
 *   About Phonedeck
 *   Blog
 *   Jobs
-*   Contact Us
+*   Contact
 *   Terms of Service
 *   Privacy Policy
 *   Imprint
 
 About Phonedeck
 
-The Phonedeck product series is being developed by Berlin based desk.io company. Senior experts in mobile communication and young development talents are creating a new user experience for Customer Relationship Management (CRM) by connecting mobile calls with the Salesforce Sales Cloud, the leading CRM platform.
+Phonedeck is the productivity boost for mobile calls – on the road and in the office. We work in the edge of CRM and telecommunication technology allowing you to remote control your smartphone.
 
 Recent Blog Posts
 
-*   Startup Safary Berlin at Phonedeck September 19, 2014
 *   Phonedeck is hiring – a Software Tester wanted! September 2, 2014
 *   Phonedeck Exhibits at Salesforce1 World Tour in Munich July 3, 2014
 *   Phonedeck Featured as ‘App of the Month’ on Alcatel-Lucent’s Developer Portal July 2, 2014
 *   Phonedeck Presents IMS Network Integration for Salesforce July 1, 2014
+*   “VoLTE is here. So what’s next?” asks Alcatel-Lucent – One Answer is Phonedeck! June 26, 2014
 
 Supported by the EU
 
