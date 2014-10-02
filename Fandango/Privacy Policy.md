@@ -25,9 +25,9 @@ Gift Cards | Offers | Visa Signature
     *   The Good Lie
     *   The Hero of Color City
     *   Men, Women and Children
+    *   A Good Marriage
     *   Nas: Time Is Illmatic
     *   Bang Bang
-    *   A Good Marriage
     *   Bitter Honey
     *   Drive Hard
     *   See All Opening This Week
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Listen: Lorde's moody first song from the 'Mockingjay -- Part 1' soundtrack Read More Rumor of the Day: Could 'Avengers 3' be split into two movies? Read More Liam Neeson in new 'Taken 3' trailer: now with Even More Badassery Read More Explore More
+*   Movie News Featured Movie News Listen: Lorde's moody first song from the 'Mockingjay -- Part 1' soundtrack Read More 'Twilight' fans, there's more on the way. take a look at the spectacular new 'Exodus' trailer Read More Liam Neeson in new 'Taken 3' trailer: now with Even More Badassery Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -334,7 +334,7 @@ New + Coming Soon
 *   Guardians of the Galaxy
 *   Teenage Mutant Ninja Turtles (2014)
 *   Big Hero 6
-*   Interstellar (2014)
+*   Interstellar
 *   Penguins of Madagascar
 *   The Hunger Games: Mockingjay, Part 1 (2014)
 *   The Hobbit: The Battle of the Five Armies
