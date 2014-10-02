@@ -53,7 +53,6 @@ Aéropostale Go
         *   ACCESSORIES
             *   Bags + Wallets
             *   Jewelry
-            *   Sunglasses
             *   Scarves
             *   Hats
             *   Watches
@@ -133,7 +132,6 @@ Aéropostale Go
     *   ACCESSORIES
         *   Bags + Wallets
         *   Jewelry
-        *   Sunglasses
         *   Scarves
         *   Hats
         *   Watches
