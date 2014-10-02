@@ -420,6 +420,7 @@ Call 1.800.963.4816 Text Chat Now
     *   School Uniforms
     *   Swimwear
     *   International Websites
+    *   Shoes
 
 *   Policies
     *   Privacy
