@@ -199,8 +199,9 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         3.  Priority Technical Support
         4.  Tablet Services
         5.  ThinkServer Services
-        6.  Premium Support
-        7.  See all Product Support
+        6.  ThinkStation Services
+        7.  Premium Support
+        8.  See all Product Support
     3.  Protection Services Designed to keep your PC safe, protect your data and help maintain productivity.
         1.  Accidental Damage Protection
         2.  Keep Your Drive
@@ -255,10 +256,11 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
     12.  See all For Work
 2.  Support
     1.  See all Support
-    2.  Think Product Support
-    3.  Mobile &. Idea / Lenovo Support
-    4.  Network Storage Support
-    5.  See all Support
+    2.  Lenovo &. Think Product Support
+    3.  Network Storage Support – LenovoEMC
+    4.  Network Storage Support – IBM
+    5.  x86 Servers (IBM) Support
+    6.  See all Support
 3.  Contact Us
     1.  See all Contact Us
     2.  Sales inquiry? Chat online with a live representative.  
