@@ -311,7 +311,7 @@ Torrance, CA 90501
 
 Go
 
-Get the latest toyota news Shopping Tools
+Sign up for Toyota Updates Shopping Tools
 
 *   Build Your Toyota
 *   Search Inventory
