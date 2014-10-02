@@ -12,7 +12,7 @@ Data Policy
 
 Last updated on April 9, 2013.
 
-This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your listing, please click here.
+This policy is designed to provide you with information regarding data collection and use in connection with our products and services.  If you have questions about your profile, please click here.
 
 **A. INFORMATION WE COLLECT FROM YOU**
 
@@ -89,7 +89,7 @@ If you have any questions about this policy, please write to Whitepages Privacy 
     *   Known Issues
     *   Other
     *   Whitepages
-    *   Whitepages PRO
+    *   Whitepages Pro
 *   Remove your information Click here to remove your personal information from Whitepages
 *   Are you a public official residing in California? Click here to remove your personal information from Whitepages
 
