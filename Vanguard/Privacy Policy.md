@@ -42,7 +42,7 @@ See our Site Help and Technical Help for more details about our online security 
 
 **How we safeguard your personal information**
 
-Within Vanguard, we restrict access to information about you to those Vanguard employees who need to know the information in order to perform their jobs, such as servicing your accounts, providing you with information you request,or notifying you of new products and services. To protect your personal information, we maintain physical, electronic, and procedural safeguards in keeping with industry standards and practices, and we review and adjust these safeguards regularly in response to advances in technology.
+Within Vanguard, we restrict access to information about you to those Vanguard employees who need to know the information in order to perform their jobs, such as servicing your accounts, providing you with information you request, or notifying you of new products and services. To protect your personal information, we maintain physical, electronic, and procedural safeguards in keeping with industry standards and practices, and we review and adjust these safeguards regularly in response to advances in technology.
 
 **What you can do**
 
