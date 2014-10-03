@@ -21,7 +21,7 @@ Verantwortliche Stelle
 
 Verantwortliche Stelle im Sinne der Datenschutzgesetze sind die Amazon Europe Core S.à.r.l., die Amazon EU S.à.r.l, die Amazon Services Europe S.à.r.l. und die Amazon Media EU S.à.r.l., alle vier ansässig 5, Rue Plaetis, L-2338 Luxemburg sowie Amazon Instant Video (LOVEFiLM Deutschland GmbH), Marcel-Breuer-Str. 8, 80807 München. Als Datenverarbeiter wird in ihrem Auftrag die Amazon.de GmbH, Marcel-Breuer-Str. 12, 80807 München, tätig.
 
-Amazon.com, Inc. und die von ihr beherrschten US-Tochterunternehmen nehmen an dem Programm Safe Harbor ("Sicherer Hafen") teil, das von dem U.S. Handelsministerium und der Europäischen Union gemeinsam entwickelt worden ist. Diese Unternehmen aus der Amazon-Gruppe haben amtlich bestätigt, dass sie sich an die Datenschutzprinzipien der Safe Harbor Privacy halten werden, auf die sich die USA und die EU geeinigt haben. Wenn Sie sich über das Programm Safe Harbor informieren, oder die amtliche Zertifizierung für die Amazon-Gruppe sehen möchten, besuchen Sie bitte die Safe Harbor Website des US Handelsministeriums. Sie können auch eine E-Mail an mailto:safeharbor@amazon.com senden, wenn Sie zu diesem Thema Kontakt aufnehmen möchten.
+Amazon.com, Inc. und die von ihr beherrschten US-Tochterunternehmen nehmen an dem Programm Safe Harbor ("Sicherer Hafen") teil, das von dem U.S. Handelsministerium und der Europäischen Union gemeinsam entwickelt worden ist. Diese Unternehmen aus der Amazon-Gruppe haben amtlich bestätigt, dass sie sich an die Datenschutzprinzipien der Safe Harbor Privacy halten werden, auf die sich die USA und die EU geeinigt haben. Wenn Sie sich über das Programm Safe Harbor informieren, oder die amtliche Zertifizierung für die Amazon-Gruppe sehen möchten, besuchen Sie bitte die Safe Harbor Website des US Handelsministeriums. Sie können auch eine E-Mail an safeharbor@amazon.com senden, wenn Sie zu diesem Thema Kontakt aufnehmen möchten.
 
 Zurück zum Anfang
 
@@ -74,7 +74,9 @@ Was hat es mit Werbung von Dritten und Links zu anderen Seiten auf sich?
 
 Unsere Seite beinhaltet Werbung von Dritten und Links zu Webseiten, für die Amazon nicht verantwortlich ist. Weitere Informationen über Werbung von Dritten, inkl. personalisierter oder standortbezogener Werbung auf Amazon.de, finden Sie unter Cookies und Internetwerbung.
 
-Zurück zum Anfang Welche Informationen kann ich einsehen?
+Zurück zum Anfang
+
+Welche Informationen kann ich einsehen?
 
 Sie können eine Vielzahl von Informationen über Ihr Konto und Ihre Interaktion mit Amazon.de einsehen und sie in bestimmten Fällen aktualisieren. Welche Informationen das sind, erfahren Sie, wenn Sie hier klicken. Die Liste ändert sich entsprechend den Veränderungen unserer Website.
 
@@ -101,6 +103,8 @@ Zurück zum Anfang
 Hinweise
 
 Wenn Sie Fragen zum Datenschutz bei Amazon.de haben, schreiben Sie uns bitte -- möglichst genau -- über unser Kontaktformular an, und wir werden versuchen, Ihre Bedenken aus dem Weg zu räumen. Unser Geschäft ändert sich ständig. Ebenso ändern sich diese Datenschutzerklärung und unsere Nutzungsbedingungen. Wir behalten uns vor, Ihnen in gewissen Zeiträumen Mitteilungen über die bei uns geltenden Richtlinien zu schicken. Sie sollten dennoch in jedem Fall regelmäßig unsere Website besuchen und Änderungen zur Kenntnis nehmen. Soweit nichts anderes geregelt ist, unterliegt die Nutzung sämtlicher Informationen, die wir über Sie und Ihre Kundenkonten haben, dieser Datenschutzerklärung. Wir versichern Ihnen, dass wir wesentliche Änderungen unserer Datenschutzerklärung, die zu einem schwächeren Schutz bereits erhaltener Kundendaten führen, stets nur mit der Zustimmung der betroffenen Kunden vornehmen werden.
+
+Zurück zum Anfang
 
 Verwandte Themen
 
@@ -143,4 +147,4 @@ Beispiele für Informationen, zu denen Sie bei Amazon.de ganz leichten Zugang ha
 
 Zurück zum Anfang
 
-Sie haben Fragen zum Datenschutz bei Amazon? Finden Sie hier unsere aktuellsten Informationen zu diesem Thema. Verwandte Themen: Änderungen an der Datenschutzerklärung vom 26. Februar 2014 Änderungen an der Datenschutzerklärung vom 25. September 2012 Änderungen an der Datenschutzerklärung vom 20. September 2010 Änderungen an der Datenschutzerklärung vom 11. Februar 2009 Änderungen an der Datenschutzerklärung vom 18. September 2008 Änderungen an der Datenschutzerklärung vom 20. Juni 2007 Cookies &. Internetwerbung Hilfeseiten durchsuchen: **Frage an die Community**: Hier können Sie Ihre Frage stellen oder eine Antwort suchen: Allgemeines Hilfeforum oder Kindle Hilfeforum
+Sie haben Fragen zum Datenschutz bei Amazon? Finden Sie hier unsere aktuellsten Informationen zu diesem Thema. Hilfeseiten durchsuchen: **Frage an die Community**: Hier können Sie Ihre Frage stellen oder eine Antwort suchen: Allgemeines Hilfeforum oder Kindle Hilfeforum
