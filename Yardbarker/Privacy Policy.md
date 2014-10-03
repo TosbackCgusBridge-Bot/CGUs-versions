@@ -66,4 +66,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: info@yardbarker.com (625 2nd Street, 4th Floor, San Francisco CA 94107).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: info@yardbarker.com (303 Second Street, Suite 680 North, San Francisco CA 94107).
