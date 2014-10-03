@@ -15,7 +15,7 @@ Learn more ›
 
  
 
-Privacy Statement, effective as of October 3, 2014
+Privacy Statement, effective as of October 1, 2014
 
 Salesforce.com, inc. (“salesforce.com” or the “Company”) is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”), and individuals who register to attend the Company’s corporate events (“Attendees”). This Privacy Statement describes salesforce.com’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by salesforce.com (the “Services”).
 
