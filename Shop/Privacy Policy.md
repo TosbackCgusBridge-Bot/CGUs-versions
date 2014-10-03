@@ -143,7 +143,9 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         3.  Video Surveillance
         4.  See all Enterprise Storage
     5.  See all Servers &. Storage
-    
+    6.  *   The New X Factor Lenovo Welcomes System X Business
+            
+            Learn More >
 6.  Accessories &. Software
     1.  See all Accessories &. Software
     2.  Accessories Hardware Pairings for Your PC
@@ -227,7 +229,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Systems You'll Fall For
+        1.  Early Black Friday Doorbuster Deals
         2.  Home Laptop &. Desktop Deals
         3.  ThinkPad &. ThinkCentre QuickShips
         4.  Accessories Closeout Sale
@@ -430,12 +432,15 @@ Please use the Back button on your browser or close this window to return to the
 
 *   About Lenovo
     *   Our Company
+    *   Culture
     *   News
     *   Investor Relations
+    *   Management
+    *   Community
+    *   History
     *   Social Responsibility
     *   Legal Information
     *   Jobs at Lenovo
-    *   FAQs
 *   Shop by Industry
     *   Small Business Store
     *   Large Enterprise
@@ -473,6 +478,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Training
     *   Blogs
     *   Forums
+    *   FAQs
     *   Product Registration
     *   Product Accessibility
     *   Affinity Discount Program
