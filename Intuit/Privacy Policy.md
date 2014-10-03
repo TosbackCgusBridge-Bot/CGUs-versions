@@ -21,9 +21,9 @@
     
 *   ship to
 
-true true C12834155062
+true true C12840702755
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Oct 01 03:12:45 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Thu Oct 02 11:23:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -43,59 +43,100 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store Only
+In Store and Online
 
 Select original, regular, sale and clearance-priced items.
 
-Ends October 1
+Ends October 5.
 
-Extra 20% Off\* with your JCPenney Credit Card. \*20% Off subject to credit approval.
+Online Code: OCTDEAL
 
-Or,Extra 15% Off\* with any other method of payment.
+Extra 20% Off\* with your JCPenney Credit Card. \*20% off subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-print store coupon 3 Days Only
+\*See exclusions and details. print store coupon
 
-Online only! September 29 through October 1.
+*   30-50% Off Home Sale shop home sale30-50% Off Kitchen and Dining shop kitchen and dining shop home decor40-50% Off Furniture and Mattresses shop furniture and mattresses shop luggage40-50% Off Window
+    
+    The biggest window sale of the season.
+    
+    Select styles.
+    
+    shop window
+*   30-50% Off Select Women's JCP Apparel shop women's JCP shop women's40-50% Off Select Men's St. John's Bay Apparel shop men's St. John's Bay shop men'sBest Of Fall Sale
+    
+    Starts today!
+    
+    shop the sale view store adNight and Day Doorbusters
+    
+    In store only, Friday, October 3, 3PM until close, Saturday, October 4, from OPEN until 1PM.
+    
+    \*Excluded from coupon offer.
+    
+    view doorbusters store ad
 
-Code: ALL4U
-
-\*See exclusions and details.
-
-Select styles.
-
-50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop JCP Home blinds and shades30% Off\* shop kitchen and dining shop curtain rods and hardware20% Off\* shop men's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fine jewelryOr, Extra 20% Off\* All Online Clearance \*See exclusions and details. \*See exclusions and details. 25-40% Off Liz Claiborne
+25-40% Off Liz Claiborne Event Only At JCPenney
 
 Select styles. Ends October 5.
 
-Liz Claiborne Event Only At JCPenney
+shop Liz Claiborne 50% Off Select Suits and Sport Coats shop suits and sport coats $20 Off $20 Bonus Cash
 
-shop Liz Claiborne 25-40% Off Select Women's Boots shop women's boots 30-60% Off Select Fashion Jewelry When You Buy 2 Or More shop fashion jewelry 30% Off Select Bras When You Buy 2 Or More shop bras 20% Off Select Disney Collection Costumes, Only At JCPenney
+Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
 
-Excluded from coupon offer.
+get details 30% Off Select Women's Outerwear shop women's outerwear 30-50% Off Select Bedding and Bath shop bedding and bath 25-45% Off Select Women's Boots shop women's boots $31.99 Women's Levi's 505™ Straight Leg Jeans
 
-shop Disney 20% Off Select Men's Adidas
+Levis™ At Their Lowest Prices Of The Season
 
-Excluded from coupon offer.
+Regularly $54. Excluded from coupon offer.
 
-shop men's Adidas 40% Off Select Boys' and Girls' Arizona shop Arizona 40-50% Off Furniture and Mattresses
+shop Levi's Clear The Racks
+
+In store and online.
+
+Red Zone 50-75% Off Clearance Event
+
+Final markdowns on Red Zone Clearance selections.
+
+In store only.
+
+Clearance $4.99 Liz Claiborne, JCP and St. John's Bay Tops For Her
+
+Select styles. Originally $26.
+
+Clearance $4.99 Men's Tops
+
+Select styles. Originally $15-28.
+
+Clearance $3.99 Girls' and Boys' Tops
+
+Select styles. Originally $20-34.
+
+Clearance 60-80% Off Window Coverings
 
 Select styles.
 
-shop furniture and mattresses Red Zone Clearance 50-70% Off
-
-In store and online.
+50-75% Off regular or original prices, while supplies last. Selections may vary by store. Intermediate markdowns may have been taken.
 
 shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up todayA Fit For Every Workout shop fitnessSportsFanShop
+sign up today Halloween Shop
+
+Sweet deals fit for the whole family.
+
+shop nowSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShopWrite A Review For Your Chance To Win $500 see rules and details
+shop the SportsFanShop Give Breast Cancer The Boot
+
+Round up your October purchases to the nearest dollar. jcpenney.com/jcpcares
+
+get details
 
 get connected
 
