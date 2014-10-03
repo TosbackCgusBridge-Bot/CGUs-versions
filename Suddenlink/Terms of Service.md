@@ -210,5 +210,45 @@ You ("You" or "Customer") understand and agree that Sections 1 through 26 of thi
     4.  Directory Listing. The Suddenlink Parties shall not be liable for damages arising from errors or omissions in the making up or printing of directories or for error or omission on intercept service or in accepting listings as presented by Customers or prospective. In no event shall liability exceed an amount equal to the Phone Service charges during the period covered by the directory in connection with which the error or omission occurs.
     5.  Non-Published Listings.  For an additional fee, Customer may choose to have a non-published telephone number. Suddenlink will make reasonable efforts to prevent the disclosure of non-published numbers, but in no case will the Suddenlink Parties be liable should such number be divulged or published.
 
-Our Company  |  Contact Us  |  Areas We Serve  |  Investor Relations  |  Careers  |  Network Information  |  Terms &. Policies  |  Site Map  |  Support  |   
-Find us on            Copyright© 2014 Suddenlink Communications. All rights reserved. Copyright© 2014 Suddenlink Communications. Todos los derechos reservados.
+*   One of the most recommended Internet Service Providers
+*   Netflix now available on TiVo HD/DVR  
+    
+*   Find us on  
+    
+*   “We Promise” Satisfaction guarantee
+
+Our Company
+
+*   Careers
+*   Innovations
+*   Investor Relations
+*   Areas We Serve
+*   Network Information
+
+Services
+
+*   Find Offers
+*   Moving?
+*   Pay Bill
+*   My Account
+*   Email
+
+Products
+
+*   Television
+*   Internet
+*   Phone
+*   Security
+*   Total Home
+*   VIPperks
+
+Support
+
+*   Contact Us
+*   Online Help
+*   Site Map
+*   TV Lineup
+*   Terms &. Policies
+*   Welcome Center
+
+© 2014 Suddenlink Communications © 2014 Suddenlink Communications
