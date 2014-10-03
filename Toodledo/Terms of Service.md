@@ -2,13 +2,11 @@ Terms &. Conditions of Site Use
 
 Thank you for using Toodledo.com. This page states the terms and conditions under which you may use the web site. It is important that you read this page carefully because by opening our web site you agree to be bound, without limitation or qualification, by these terms. If you do not accept any of the terms stated here then do not use the web site. This web site may, in its sole discretion, modify or revise these terms at any time by updating this web page and notifying our users. You are bound by any such modification or revision.
 
-  
-**Disclaimer of Damages**  
+Disclaimer of Damages
 
 Use of our web site is at all times "at your own risk." If you are dissatisfied with any of the materials, other contents of the web site, any of these terms and conditions, the web site's privacy policy, or any other policies, your only remedy is to discontinue use of our web site. In no event shall the web site, or its suppliers, be liable to any user or third party, for any damages whatsoever resulting from the use or inability to use the web site or the material on that site, whether based on warranty, contract, tort, or any other legal theory, and whether or not the web site is advised of the possibility of such damages. The definition of damages under this provision include, but are not limited to, indirect or consequential damages, any loss or damage arising from loss of data, and any lost profits arising out of or in connection with the use of this website.
 
-  
-**Copyright Protection**  
+Copyright Protection
 
 Much of the contents of Toodledo.com are protected by copyright and other laws in both the United States and elsewhere. Copyrighted materials include content owned or controlled by the web site and includes the concept, programming, layout, images, and design. You may not, except with our express written permission, distribute or commercially exploit our copyrighted content.
 
@@ -16,8 +14,7 @@ This website does not claim ownership to anything submitted to this website. Sub
 
 There are many third-party applications that can sync with Toodledo. If you choose to link your account with a third-party application, all of your information can be downloaded and read by this third-party application as if they were you. Toodledo is not responsible for the policies of third-party applications to which you have given access to your account.
 
-  
-**Data Retention**
+Data Retention
 
 This website will retain your information on our servers as long as you request us to do so. You may delete data from your account, or delete your entire account at any time.
 
@@ -25,18 +22,15 @@ This website maintains backups of all data for use in recovering from a catastro
 
 This website does not guarantee that our backups will function error free. This website cannot restore data from a backup on request. For these reasons, you are responsible for maintaining your own backups of your data, by using our data export tools.
 
-  
-**Linking Policy**  
+Linking Policy
 
 If you would like to link your web site to Toodledo.com, please freely bookmark or add links to any page contained within this web site provided that this site does not appear inside any frames that publish advertising around our content.
 
-  
-**Warranty Policy**  
+Warranty Policy
 
 Toodledo.com and material therein are provided without warranties of any kind, whether express or implied. The web site, to the fullest extent permitted by law, disclaim all warranties, including but not limited to warranties of title, fitness for a particular purpose, merchantability and non-infringement of proprietary or third party rights. The web site makes no warranties about the accuracy or reliability of the material, services, text, graphics, and/or links. The web site does not warrant that the web site will operate error-free or that this web site or its server are free of computer viruses or other harmful items. If your use of our web site or the material on this site results in the need for servicing or replacing equipment or data, the web site is not responsible for those costs.
 
-  
-**Site Content**  
+Site Content
 
 Some of the content on this site is provided by the users of this site. This site has no responsibility for such content and is providing access to all content as a service to our users. Our company has no obligation to monitor the content and information posted on the site.
 
@@ -46,18 +40,15 @@ You acknowledge that some areas of our site are public or semi-private, and ther
 
 We expect you to take precaution when posting any personal information on the site and disclaim all liability from damages that may incur on you resulting from your participation on the web site. By posting material on our web site you agree to grant the company free license to reproduce, modify, publish, edit, distribute, and display your material by itself or with other works in any form.
 
-  
-**Copyright Violations**  
+Copyright Violations
 
 At its discretion, this site may remove any material posted on our web site that infringes on the rights of others. If you believe that your work has been used improperly or your copyrights have been violated we encourage you to contact us.
 
-  
-**Links to Third-Party Sites**  
+Links to Third-Party Sites
 
 Our web site contains links to third party web sites that are maintained by others. These links are provided solely as a convenience to you and not as an endorsement by the web site of the contents on these third-party web sites. The web site is not responsible for the content of linked third-party sites and does not make any representations regarding the content or accuracy of materials on such third-party web sites. If you decide to access linked third-party web sites, you do so at your own risk.
 
-  
-**Indemnity**  
+Indemnity
 
 By using this site you agree to defend, indemnify, and hold harmless the web site, its officers, directors, employees and agents, from any claims, actions or demands, including without limitation reasonable legal and accounting fees, alleging or resulting from your use of the material or your breach of the terms of this agreement. The web site shall provide notice to you promptly of any such claim, suit, or proceeding and shall reasonably assist you, at your expense, in defending any such claim, suit or proceeding.
 
