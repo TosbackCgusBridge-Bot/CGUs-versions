@@ -21,13 +21,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   Outerwear Shop
             *   Jeans 101
-            *   Performance Collection
+            *   Activewear Collection
             *   Shoes &. Boots
             
             *   New Arrivals
             *   Fall Looks
             *   Cardigan Shop
-            *   Tailored Collection
+            *   Wear to Work
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
