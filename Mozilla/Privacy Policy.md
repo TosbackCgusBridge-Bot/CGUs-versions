@@ -62,8 +62,8 @@ Portions of this content are ©1998–2014 by individual mozilla.org contributor
 *   Firefox Affiliates
 *   Contribute to this page
 
-*   Privacy Policy
-*   Legal Notices
+*   Privacy
+*   Legal
 *   Report Trademark Abuse
 
 *   Mozilla:
