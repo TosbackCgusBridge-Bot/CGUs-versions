@@ -56,8 +56,6 @@ Privacy Policy
 
 Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, and web sites which we operate on behalf of our partners (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control.
 
-Information about Safe Harbor can be found here.
-
 Protecting Your Privacy In various places on the Sites, we collect "Personally Identifiable Information," such as your name, postal address, telephone number, e-mail address, or other information that can be used to identify you or contact you.
 
 *   Oodle will not share any of your Personally Identifiable Information, except for the information you choose to publicly disclose in the listings you publish, with our advertisers or any third-parties for marketing purposes.
@@ -129,10 +127,6 @@ Oodle may also disclose information with:
 *   Service providers under contract who help us with business operations such as fraud investigations.
 
 We may share Personally Identifiable Information and other information about you with our parent company, affiliates, and subsidiaries for the use and benefit of those companies. If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy.
-
-International Users
-
-The Sites are hosted in the United States. If you use the Sites from outside of the United States, you are voluntarily transferring information (potentially including personally-identifiable information) and content to the United States and agreeing that Oodle’s collection, use, storage and sharing of your information and content is exclusively subject to the laws of the United States, not of the jurisdiction in which you are located. Privacy Complaints from European Union Citizens. in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at abuse@oodle.com Oodle has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Oodle, you may contact the BBB EU SAFE HARBOR program at: http://www.bbb.org/us/safe-harbor-complaints  
 
 More Questions? If you have any questions about this Privacy Policy or want to report abuse, please contact us at abuse@oodle.com.
 
