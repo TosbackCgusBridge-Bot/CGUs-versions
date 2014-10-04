@@ -4,26 +4,28 @@
 *   registry
 
 *   my account
-*   favorites
+*   no saved items
 *   track order
-*   sign in
-*   800.322.1189
-    
 *   ship to
 
+*   customer service
+    
+
+*   Hello  
+*   (sign out)
+    
 *   my account
-*   favorites ()
+
+*   no saved items
 *   track order
-*   Welcome  
-*   sign out
-    
-*   800.322.1189
-    
 *   ship to
 
-true true C12840702755
+*   customer service
+    
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Thu Oct 02 11:23:19 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+true true C12843154330
+
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Fri Oct 03 08:34:53 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -140,11 +142,11 @@ get details
 
 get connected
 
-email offers
+*   1.800.322.1189
+*   email offers
+*   mobile offers
 
-mobile offers
-
-**CUSTOMER SERVICE**
+CUSTOMER SERVICE
 
 *   returns
 *   shipping information
@@ -156,7 +158,7 @@ mobile offers
 *   servicio al cliente
 *   view all
 
-**STORE SERVICES**
+STORE SERVICES
 
 *   jcp salon
 *   Sephora
@@ -166,15 +168,16 @@ mobile offers
 *   jcp custom decorating
 *   view all
 
-**MORE WAYS TO SHOP**
+MORE WAYS TO SHOP
 
 *   see our ads
-*   coupon
-*   jcp rewards
+*   coupons
+*   jcpenney rewards
 *   jcpenney credit card
 *   gift cards
+*   international shopping
 
-**ABOUT US**
+ABOUT US
 
 *   careers
 *   about us
@@ -182,7 +185,7 @@ mobile offers
 *   media
 *   investors
 
-Popular Searches
+JCPenney credit card pay bill check balance apply now Popular Searches
 
 *   homecoming dresses
 *   black friday deals
