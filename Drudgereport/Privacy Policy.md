@@ -15,6 +15,8 @@ Intermarkets Privacy Policy
 
 Revised: July 17, 2013
 
+Intermarkets Terms and Conditions
+
 Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites.
 
 Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. This Privacy Policy applies to all of the products, services, and websites offered by Intermarkets or its subsidiaries or affiliated companies.  This Privacy Policy explains how we collect, use, protect, and share information when you are served an advertisement from when you use the Intermarkets website www.intermarkets.net or one of the website publishers that are included in our Portfolio (collectively “Site”). For a current list of the websites within our Portfolio, please click here. This Privacy Policy also explains your choices for managing your information preferences.
