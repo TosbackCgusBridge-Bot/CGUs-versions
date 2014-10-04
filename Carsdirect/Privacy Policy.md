@@ -2,6 +2,7 @@ Internet Brands
 
 *   Privacy Highlights
 *   Privacy Policy
+*   Cookie Policy
 *   Privacy Contact
 
 Privacy Policy Highlights
