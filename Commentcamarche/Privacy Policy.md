@@ -133,6 +133,6 @@ Conditions-generales-d-utilisation.pdf A voir également
 
 Communautés d'assistance et de conseils.
 
-*   Forum iPhone
 *   Forum Vos droits sur internet
+*   Forum iPhone
 *   Consommation et internet
