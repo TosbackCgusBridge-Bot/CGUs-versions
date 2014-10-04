@@ -165,20 +165,16 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         14.  Wireless &. Networking
         15.  See all Accessories
     3.  Software Tools to Help You Do
-        1.  Accounting &. Finance
-        2.  Education &. Reference
-        3.  Electronic Downloads
-        4.  Games &. Entertainment
-        5.  Graphics &. Desktop Publishing
+        1.  Lenovo Apps
+        2.  Enterprise Software
+        3.  Developers
+        4.  Electronic Downloads
+        5.  Windows 8 Apps
         6.  Office Suites
-        7.  Security
-        8.  Utilities
-        9.  Windows 8 Apps
-        10.  PC Software Store
-        11.  Lenovo Apps
-        12.  Enterprise Software
-        13.  Developers
-        14.  See all Software
+        7.  Accounting &. Finance
+        8.  Graphics &. Desktop Publishing
+        9.  Security
+        10.  See all Software
     4.  Technologies The Lenovo Difference Inside
         1.  Lenovo Reach
         2.  Lenovo Mobile Access
@@ -483,6 +479,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Product Accessibility
     *   Affinity Discount Program
     *   Lenovo Trade-In Program
+    *   Customer Feedback
 
 social
 
