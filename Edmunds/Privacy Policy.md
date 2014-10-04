@@ -11,7 +11,7 @@ In addition, if you provide your Personal Information through the use of one of 
 
 From time to time we may elect to act as an intermediary with respect to emails between those dealers and you, which would mean that emails between those dealers and you would be transmitted through us. We would act as an intermediary to shield your email address from those dealers and to gain insight into the timing and nature of those communications. Accordingly, when we elect to act as an email intermediary we would have the ability and authority to read and retain the content of those emails.
 
-If you use the Dealer Inquiry and Communication Services to call, text or chat with a dealer, a recording of your conversation, or the chat or text communications, between you and the dealer will be made available both to us and any company employed by the dealers or us to facilitate those communication services. In addition, if you use the chat service on a mobile device, the chat service provider and we will also be provided with your mobile phone number.
+If you use the Dealer Inquiry and Communication Services to call, text or chat with a dealer, a recording of your conversation, or the chat or text communications, between you and the dealer, as well as the phone number from which you make such call or initiate such chat or text communications, will be made available both to us and any company employed by the dealers or us to facilitate those communication services.
 
 In order to become a member of the Edmunds Automotive Network you are required to provide Personal Information to us, and additional Personal Information may be provided by you — either at the time you become a member or, at your election, at any later time — as a part of your member "profile."
 
@@ -100,4 +100,4 @@ We do not collect personally identifiable information about our visitors' online
 **Changes to this Privacy Statement**  
 We reserve the right, in our sole discretion and at any time, to change this Privacy Statement. Changes will be effective when made and the updated Privacy Statement is posted on the Edmunds Automotive Network. provided, however, that (i) information collected prior to the time any change is posted will be used according to the provisions of this Privacy Statement that applied at the time the information was collected, and (ii) no such change shall be applicable to any dispute between you and us that arises prior to the time such change is effective.
 
-_Revised September 3, 2014_
+_Revised October 3, 2014_
