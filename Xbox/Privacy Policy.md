@@ -868,6 +868,7 @@ We will occasionally update our privacy statements to reflect customer feedback 
 *   Nokia devices
 *   Xbox
 *   Skype
+*   MSN
 *   Bing
 *   Microsoft Store
 
