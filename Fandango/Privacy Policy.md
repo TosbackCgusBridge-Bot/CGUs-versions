@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Listen: Lorde's moody first song from the 'Mockingjay -- Part 1' soundtrack Read More 'Twilight' fans, there's more on the way. take a look at the spectacular new 'Exodus' trailer Read More Liam Neeson in new 'Taken 3' trailer: now with Even More Badassery Read More Explore More
+*   Movie News Featured Movie News Leo DiCaprio backs out of Steve Jobs biopic -- who should play the Apple cofounder? Read More See where you can see 'Interstellar' two days early, plus watch the revealing new trailer Read More Watch: The weirdest things couples do on movie night. You know you're one of them! Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -370,7 +370,7 @@ Videos
 Photos
 
 *   Red Carpet
-*   September Celebrity Birthdays
+*   October Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail Submit THANKS FOR SIGNING UP! Sign up fOR FanTexts Send Me FanText Mobile Number Sign Me Up! THANKS FOR SIGNING UP!
 
