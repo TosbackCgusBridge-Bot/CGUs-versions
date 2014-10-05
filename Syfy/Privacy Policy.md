@@ -257,7 +257,7 @@ Check out a sneak peek of the next episode of Face Off, Tuesdays at 9/8c.
 
 Teacher's Pets Morphs Teacher's Pets Morphs
 
-Check out the morphs from Face Off episode, Teacher's Pets
+Check out the morphs from Face Off Season 7, Episode 11
 
 Drew's Win Drew's Win
 
