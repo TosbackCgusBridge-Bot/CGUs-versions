@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  Robert
+*   Hello  KIRSTEN
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C12849058774
+true true 10.60.216.10 C12853214463
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Sun Oct 05 05:14:34 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Mon Oct 06 11:08:28 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,68 +45,48 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+*   Extra 25% Off\* 25 Hours Only
+    
+    Online only. Ends October 7.
+    
+    Code: 25HOURS
+    
+    Take an Extra 25% Off\* $100 or more.
+    
+    Or, Extra 20% Off under $100.
+    
+    Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades.
+    
+    \*See exclusions and details.
 *   Home Sale
     
     Select styles.
     
-    shop home sale view store ad30-50% Off Bedding and Bath shop bedding and bath shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop luggage40-50% Off Window
+    shop home sale view store ad30-50% Off Home Decor shop home decor shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop luggage40-50% Off Window
     
     Our biggest window sale of the season.
     
     shop window
-*   Levi's At Their Lowest Prices Of The Season $24.99 Boys' Levi's 510™ Super Skinny Jeans
-    
-    Originally $48.
-    
-    shop boys' Levi's shop boys' Levi's$36.99 Guys' Levi's 514™ Straight Jeans
-    
-    Originally $58.
-    
-    shop guys' Levi's shop guys' Levi's shop women's Levi's shop kids' Levi's
 
-25-40% Off Liz Claiborne Event Only At JCPenney
-
-Select styles. Ends October 5.
-
-shop Liz Claiborne 30% Off Select Women's Boots shop women's boots $20 Off $20 Bonus Cash
+$20 Off $20 Bonus Cash
 
 Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
 
-get details 20% Off Select Disney Collection Costumes
+get details 25-40% Off Select Liz Claiborne shop Liz Claiborne 50% Off Select JF J. Ferrar shop J Ferrar 20% Off Select Disney Collection Costumes
 
 Disney Collection, only at JCPenney.
 
 Excluded from coupon.
 
-shop Disney Collection 50% Off Select JF J. Ferrar shop J Ferrar 30-40% Off Select Accessories shop accessories 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event Clear The Racks
-
-In store and online.
-
-Red Zone 50-75% Off Clearance Event
-
-Final markdowns on Red Zone Clearance selections.
-
-In store only.
-
-Clearance $4.99 Liz Claiborne, JCP and St. John's Bay Tops For Her
-
-Select styles. Originally $26.
-
-Clearance $4.99 Men's Tops
-
-Select styles. Originally $15-28.
-
-Clearance $3.99 Girls' and Boys' Tops
-
-Select styles. Originally $20-34.
-
-Clearance 60-80% Off Window Coverings
+shop Disney Collection 30% Off Select Women's Boots shop women's boots 30-40% Off Select Accessories shop accessories 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 30-50% Off Bedding and Bath
 
 Select styles.
 
-50-75% Off regular or original prices, while supplies last. Selections may vary by store. Intermediate markdowns may have been taken.
+shop bedding and bath Clearance 50-75% Off
 
-shop clearance find a store JCP Rewards
+In store and online.
+
+shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
