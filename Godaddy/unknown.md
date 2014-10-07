@@ -470,7 +470,7 @@ You agree to comply with the following requirements: a) ICANN standards, policie
 
 You agree to indemnify, defend and hold harmless Registry and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-36\. provisions specific to ALL united TLD registrations: .actor. .attorney. .consulting. .dance. .democrat. .futbol. .haus. .immobilien. .kaufen. .moda. .ninja. .pub. .republican. .reviews. .rocks. .social;
+36\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .consulting. .dance. .democrat. .engineer. .futbol. .haus. .immobilien. .kaufen. ,market. .moda. .mortgate. .navy. .ninja. .pub. .republican. .reviews. .rocks. .social. .vet
 
 You agree to comply with the Registration Terms and Conditions, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
