@@ -234,11 +234,13 @@ View the following policies regarding the Cox Price Lock Guarantee and Monthly D
 
 **Current Policies:**
 
-*   24-Month Price Lock Guarantee – Arizona
+*   24-Month Price Lock Guarantee – Arizona and California
 *   24-Month Price Lock Guarantee – All other locations
 
 **Retired Policies:**
 
+*   24-Month Price Lock Guarantee – Arizona (Retired 9/30/2014)
+*   24-Month Price Lock Guarantee – All other locations (Retired 9/30/2014)
 *   24-Month Price Lock Guarantee – All locations (Retired 3/17/14)
 *   24-Month Price Lock Guarantee – All locations (Retired 5/20/13)
 *   12-Month Price Lock Guarantee – Arizona (Retired 4/16/13), Connecticut (Retired 4/16/13), Louisiana (Retired 4/16/13), Ohio (Retired 4/16/13) and Rhode Island (Retired 4/16/13)
