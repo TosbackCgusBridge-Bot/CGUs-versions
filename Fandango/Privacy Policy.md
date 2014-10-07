@@ -4,40 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Gone Girl
+    *   Annabelle
     *   The Equalizer
-    *   The Maze Runner
     *   The Boxtrolls
+    *   The Maze Runner
+    *   Left Behind
     *   This Is Where I Leave You
     *   Dolphin Tale 2
+    *   Guardians of the Galaxy
     *   No Good Deed
     *   A Walk Among the Tombstones
-    *   Guardians of the Galaxy
-    *   Let's Be Cops
-    *   Teenage Mutant Ninja Turtles (2014)
-    *   The Skeleton Twins
     *   See All Now Playing
     
     Opening This Week = Limited Release
-    
-    *   Annabelle
-    *   Gone Girl
-    *   Left Behind
-    *   The Good Lie
-    *   The Hero of Color City
-    *   Men, Women and Children
-    *   A Good Marriage
-    *   Nas: Time Is Illmatic
-    *   Bang Bang
-    *   Bitter Honey
-    *   Drive Hard
-    *   See All Opening This Week
-    
-    Coming Soon
     
     *   Addicted
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
     *   Dracula Untold
     *   The Judge (2014)
+    *   Automata
+    *   The Canal
+    *   Kill the Messenger
+    *   St. Vincent
+    *   Whiplash
+    *   Meet the Mormons
+    *   The Overnighters
+    *   See All Opening This Week
+    
+    Coming Soon
+    
     *   The Best of Me
     *   The Book of Life
     *   Fury (2014)
@@ -45,6 +41,10 @@ Gift Cards | Offers | Visa Signature
     *   Ouija
     *   Laggies
     *   Before I Go to Sleep
+    *   Nightcrawler
+    *   Big Hero 6
+    *   Beyond the Lights
+    *   Dumb and Dumber To
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Leo DiCaprio backs out of Steve Jobs biopic -- who should play the Apple cofounder? Read More See where you can see 'Interstellar' two days early, plus watch the revealing new trailer Read More Watch: The weirdest things couples do on movie night. You know you're one of them! Read More Explore More
+*   Movie News Featured Movie News Did Robert Downey Jr. just hint that he'd do 'Iron Man 4' if Mel Gibson directed? Read More Leo DiCaprio backs out of Steve Jobs biopic -- who should play the Apple cofounder? Read More See where you can see 'Interstellar' two days early, plus watch the revealing new trailer Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -313,17 +313,17 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Gone Girl Free Gift**
-
-FREE eBOOK DOWNLOAD of the #1 New York Times bestseller GONE GIRL on NOOK Reading Apps™ with Fandango ticket purchase. BUY TICKETS
-
-**Dracula Untold Free Gift**
+Offers **Dracula Untold Free Gift**
 
 FREE AUDIOBOOK DOWNLOAD at Audible with Fandango ticket purchase. BUY TICKETS
 
-**The Boxtrolls Free Gift**
+**#FandangoScareContest**
 
-FREE AMAZON MUSIC CODE for Loch Lomond’s “Some Kids” with Fandango ticket purchase. BUY TICKETS
+Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
+
+**Parents, You’re Invited!**
+
+Receive movie perks and tips just for families. SIGN ME UP
 
 **The Boxtrolls Gift Cards**
 
