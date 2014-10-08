@@ -1,4 +1,4 @@
-Skip to Main Content. Fidelity.com Home
+Skip to Main Content. Site navigation Fidelity.com Home
 
 *   Customer Service
 *   Open An Account
@@ -10,10 +10,9 @@ Skip to Main Content. Fidelity.com Home
 *   Refer A Friend
 *   Log Out
 
-Search Fidelity.com Search Fidelity.com Find quote
+Search Fidelity.com
 
 *   Accounts &. Trade
-    *   Close
     *   PortfolioLog In Required
     *   Account PositionsLog In Required
     *   TradeLog In Required
@@ -24,12 +23,10 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Update Accounts / Features
     *   StatementsLog In Required
 *   News &. Insights
-    *   Close
     *   News
     *   Insights
     *   Viewpoints
 *   Research
-    *   Close
     *   Watch ListLog In Required
     *   Quotes
     *   AlertsLog In Required
@@ -43,7 +40,6 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Annuities
     *   Learning Center
 *   Guidance &. Retirement
-    *   Close
     *   Investment Guidance
     *   Retirement Planning
     *   Wealth Management
@@ -54,7 +50,6 @@ Search Fidelity.com Search Fidelity.com Find quote
     *   Life Insurance
     *   Calculators &. Tools
 *   Investment Products
-    *   Close
     *   Mutual Funds
     *   Retirement &. IRAs
     *   Trading
@@ -299,7 +294,7 @@ Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP co
 
 *   Careers
 *   News Media
-*   Inside Fidelity
+*   About Fidelity
 *   International
 
 Copyright 1998-2014 FMR LLC. All Rights Reserved.
