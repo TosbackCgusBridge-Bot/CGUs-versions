@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Did Robert Downey Jr. just hint that he'd do 'Iron Man 4' if Mel Gibson directed? Read More Leo DiCaprio backs out of Steve Jobs biopic -- who should play the Apple cofounder? Read More See where you can see 'Interstellar' two days early, plus watch the revealing new trailer Read More Explore More
+*   Movie News Featured Movie News Did Robert Downey Jr. just confirm 'Iron Man 4' to Ellen DeGeneres? Watch the video... Read More Rumor has it that Sony may allow Spider-Man to join the MCU. plus, the X-Men may come to TV Read More See where you can see 'Interstellar' two days early, plus watch the revealing new trailer Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
