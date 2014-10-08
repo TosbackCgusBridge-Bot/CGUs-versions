@@ -40,17 +40,17 @@ Main Menu
 *   Tips &. Tools
     *   Age-by-Age Playtime Guide
     *   Sharing Moments of Joy
-    *   Parenting Topics
-    *   For Grandparents
+    *   Parenting Articles
+    *   Site for Grandparents
+    *   Birthday Party Tips
     *   Email Newsletter Sign-up
 
 *   Games &. Activities
     *   Online Games
     *   Apps for Kids
     *   Online Videos
-    *   Print &. Color Pages
-    *   Crafts
-    *   Birthday Party Ideas
+    *   Coloring Pages
+    *   Crafts for Kids
 
 *   Store
     *   Our Online Store
@@ -59,50 +59,47 @@ Main Menu
 
 *   Products
 *   Find a Product
+*   Babygear &. Baby Toys
+*   Toddler &. Preschool Toys
 
-*   Baby
-*   Gear, toys, and more essentials for baby
+*   Shopping
+*   F-P Online Store
+*   Request a Catalog
+*   Special Offers
 
-*   Family Playtime
-*   Playtime Guide
-*   Sharing Moments of Joy
-*   Parenting Topics
-*   For Grandparents
+*   Tips &. Tools
+*   Age-by-Age Playtime Guide
+*   Photo Sharing Site
+*   Parenting Articles
+*   Site for Grandparents
+*   Birthday Party Tips
 
 *   Games &. Activities
 *   Online Games
-*   Crafts
+*   Apps for Kids
+*   Online Videos
 *   Coloring Pages
-*   Birthday Party Ideas
-
-*   Shop Now
-*   Our Online Store
-*   Find a Retailer
-*   Fisher-Price Music
-*   Replacement Parts
-*   Request a Catalog
-
-*   About
-*   Take a Virtual Tour
-*   About Us
-*   International Sites
-*   Mattel, Our Parent Co.
+*   Crafts for Kids
 
 *   Customer Service
-
+*   Contact Us
+*   Replacement Parts
 *   Product Registration
-
 *   Recall Information
-
-*   Share
-*   Join Us on Facebook
 
 *   Email
 *   Subscribe
-*   Update Email Profile
+*   Change Profile
 
-*   Got Ideas?  
-    We're Listening!
+*   About Us
+*   Take a Virtual Tour
+*   Careers
+*   Mattel, Parent Co.
+
+*   Other F-P Sites
+*   International
+*   U.S. (En Espanol)
+*   Submit Product Ideas
 
 *   Fisher-Price Terms and Conditions (UPDATED) |
 *   Privacy Statement (NEW) |
