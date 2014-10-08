@@ -2,29 +2,36 @@ Customer Service›Policies
 
 Our Satisfaction Guarantee
 
-When you do business with Sierra Trading Post, you're getting the best guarantee out there. If you are not happy with your purchase for any reason, please return it to us as soon as possible. We will make it right! Learn more about us!
+At Sierra Trading Post, we want you to be completely satisfied with your purchase. If you have any concerns about the item(s) you have received, please return the item(s) as soon as possible. We will make it right! Learn more about us!
 
 Return Policy
 
+Please return any items as soon as possible. It is important that all items be checked for fit, color, missing pieces or damage that occurred during shipment prior to use of the product.
+
 *   Products returned within six (6) months of the order date will be refunded by original payment method
-*   Products returned six (6) months or more after the order date will be refunded by store merchandise credit
-*   If we make a mistake in filling your order, we will gladly refund the shipping charges
+*   Products returned six (6) months or more after the order date will be refunded by merchandise credit
 
 For U.S. customer convenience, there is a prepaid UPS return shipping label included within your original order. Returns for refund will be subject to a $6.95 return shipping fee ($10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.)
 
-Exchange &. Return Options:
+Exchange and Replacement Products
 
 1\. Create Instant Store Credit for Exchange or Replacement Products
 
-Exchanges and Returns are quick and easy. Just follow the online exchange/return process to add Instant Store Credit to your account. it's the fastest way to return an item for exchange or replacement, and you may start shopping for a new item immediately. The Instant Store Credit will remain on your account for 6 months. Once you’ve made it through the online exchange/return process and printed a label, you must return your unwanted items within 10 days.
+When you exchange or replace products through our online process, Instant Store Credit will be created and stored on your online account for 60 days. After 60 days has expired, any unused balance will reconcile to your original method of payment with the exception of product purchased using third party payment methods like PayPal, BillMeLater and V.me. See details on those payment options.
 
-Use your Instant Store Credit and receive FREE return shipping and FREE shipping on your next order\*. Online Instant Store Credit is valid only for addresses within the contiguous 48 United States only. Excludes AK, HI, all U.S. territories, possessions and all international orders. Orders placed within the last 6 months are eligible for Instant Store Credit (Exchanges and Returns FAQs\*).
+For an online exchange, you will receive $2.95 shipping on the items you are returning to us plus receive $2.95 shipping on your next order using the Instant Store Credit\*. Free Shipping through Instant Store Credit is valid only for addresses within the contiguous 48 United States only. Excludes AK, HI, all U.S. territories, possessions and all international orders. Orders placed within the last 6 months are eligible for Instant Store Credit (Exchanges and Returns FAQs\*).
 
 Create Instant Store Credit Now
 
+Returns Online
+
+Returns will be refunded to the original method of payment with the exception of product purchased using third party payment methods like PayPal, BillMeLater and V.me. See details on those payment options.
+
+Once you have completed the online process for exchange, replacement or return and printed a label, you must return the items to us within 10 days.
+
 2\. Traditional Exchanges, Replacements, &. Returns
 
-If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI, all U.S. territories and possessions). We will process your return or exchange after it arrives(please note: requests for item exchange using the traditional method will be subject to availability). For traditional exchange and replacement requests, a $2.95 shipping fee will apply to the new order.
+If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI, all U.S. territories and possessions). We will process your return or exchange after it arrives (please note: requests for item exchange using the traditional method will be subject to availability). For traditional exchange and replacement requests, a $2.95 shipping fee will apply to the new order.
 
 If you choose not to use our prepaid label, you will be responsible for paying all return shipping costs up front.
 
@@ -36,7 +43,7 @@ If you choose not to use our prepaid label, you will be responsible for paying a
 
 International Exchanges &. Returns
 
-For more information on International Exchanges and Returns, please click here.
+For more information on International Exchanges and Returns, please view our international policies page.
 
 Please follow the packing and return instructions to ensure prompt service:
 
@@ -49,11 +56,11 @@ Please follow the packing and return instructions to ensure prompt service:
 
 PayPal, PayPal Credit and V.me by Visa Exchanges &. Returns
 
-For PayPal and PayPal Credit (formerly Bill Me Later), returns made prior to 6 months from the date of purchase will be refunded to your PayPal or PayPal Credit account, or you will be issued a refund check. Returns made after 6 months of the purchase date will be issued a merchandise credit in accordance with our normal Return Policy .
+Returns made after 6 months of the purchase date will be issued a merchandise credit in accordance with our normal Return Policy. For PayPal and PayPal Credit (formerly Bill Me Later), returns made prior to 6 months from the date of purchase will be refunded to your PayPal or PayPal Credit account, or you will be issued a refund check.
 
 For V.me by Visa, returns must be made prior to 60 days from the date of purchase to receive credit on the card stored on your V.me by Visa account. Returns made after 60 days and prior to 6 months will be issued a refund check.
 
-Exchanges for orders placed using PayPal, PayPal Credit and V.me by Visa, are different than our normal exchange policies. If you need to make an exchange, we can give you a merchandise credit for your return (following the returns guidelines mentioned above), then you may place a new order for the item you want. Since items tend to sell out quickly. we recommend immediately placing an order for replacement items.
+Exchanges for orders placed using V.me by Visa, PayPal and PayPal Credit are different than our normal exchange policies. If you need to make an exchange, we can give you a merchandise credit for your return (following the returns guidelines mentioned above), then you may place a new order for the item you want. Since items tend to sell out quickly. we recommend immediately placing an order for replacement items.
 
 DirectShip Items Only: 30-Day Return Policy and Return Process
 
@@ -66,6 +73,13 @@ DirectShip items must be returned within 30 days to the vendor for your return t
 *   5\. The shipping company will pick up the item
 *   6\. Customer pays a return shipping fee equal to the original shipping cost on all returned DirectShip items, unless the product was sent in error, damaged during shipping or is defective (to be determined during the return process)
 *   7\. A credit (less any return shipping fees) will only be issued after the item has been inspected and the return process is completed by the vendor
+
+Return Information
+
+*   Please make every effort to inspect items for fit, color, missing pieces or damage prior to using the product.
+*   Include all tags and original packaging where possible.
+*   Swimwear and undergarments must be returned in unused condition. Any of these items showing evidence of wear will be returned.
+*   We cannot accept merchandise that has been altered in any way. Altered items will be returned. Examples: pants, suits, sport coats, skis, snowboards, gear, etc. Product which cannot be accepted will be notated on each product page.
 
 Terms of Use
 
