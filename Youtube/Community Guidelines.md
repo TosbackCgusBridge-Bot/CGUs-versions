@@ -12,13 +12,14 @@ Don't Cross the Line
 Here are some common-sense rules that will help you steer clear of trouble:
 
 *   YouTube is not for pornography or sexually explicit content. If this describes your video, even if it's a video of yourself, don't post it on YouTube. Also, be advised that we work closely with law enforcement and we report child exploitation. Please read our Safety Center and stay safe on YouTube.
-*   Don't post videos showing bad stuff like animal abuse, drug abuse, under-age drinking and smoking, or bomb making.
-*   Graphic or gratuitous violence is not allowed. If your video shows someone being physically hurt, attacked, or humiliated, don't post it.
+*   Don't post videos which encourage others to do things that may cause them to get badly hurt, especially kids. Videos showing such harmful and/or dangerous acts may be age-restricted or removed depending on their severity.
+*   It’s not okay to post violent or gory content that’s primarily intended to be shocking, sensational, or disrespectful. If posting graphic content in a news or documentary context, please be mindful to provide enough information to help people understand what is going on in the video. Do not encourage others to commit specific acts of violence.
 *   YouTube is not a shock site. Don't post gross-out videos of accidents, dead bodies or similar things intended to shock or disgust.
-*   Respect copyright. Only upload videos that you made or that you are authorized to use. This means don't upload videos you didn't make, or use content in your videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without necessary authorizations. Read our Copyright Tips for more information.
-*   We encourage free speech and defend everyone's right to express unpopular points of view. But we don't permit hate speech (speech which attacks or demeans a group based on race or ethnic origin, religion, disability, gender, age, veteran status, and sexual orientation/gender identity).
+*   Respect copyright. Only upload videos that you made or that you are authorized to use. This means don't upload videos you didn't make, or use content in your videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without necessary authorizations. Visit our Copyright Center for more information.
+*   Our products are platforms for free expression. But we don't support content that promotes or condones violence against individuals or groups based on race or ethnic origin, religion, disability, gender, age, nationality, veteran status, or sexual orientation/gender identity, or whose primary purpose is inciting hatred on the basis of these core characteristics. This can be a delicate balancing act, but if the primary purpose is to attack a protected group, the content crosses the line.
 *   Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other people’s personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned from YouTube.
 *   Everyone hates spam. Don’t create misleading descriptions, tags, titles or thumbnails in order to increase views. It's not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages.
+*   YouTube may make exceptions for educational, artistic, documentary or scientific content, but only if this is the sole purpose of the video and it is not gratuitously graphic.
 
 Please take these rules seriously and take them to heart. Don't try to look for loopholes or try to lawyer your way around the guidelines—just understand them and try to respect the spirit in which they were created. If you'd like more details, check out our Community Guideline Tips.
 
@@ -49,7 +50,7 @@ Most nudity is not allowed, particularly if it is in a sexual context. Generally
 
 Hate Speech
 
-"Hate speech" refers to content that promotes hatred against members of a protected group. For instance, racist or sexist content may be considered hate speech. Sometimes there is a fine line between what is and what is not considered hate speech. For instance, it is generally okay to criticize a nation, but not okay to make insulting generalizations about people of a particular nationality.
+"Hate speech" refers to content that incites hatred against members of a protected group. For instance, racist or sexist content may be considered hate speech. Sometimes there is a fine line between what is and what is not considered hate speech. For instance, it is generally okay to criticize a nation, but not okay to incite hatred or violence against people of a particular nationality.
 
 Shocking and Disgusting
 
