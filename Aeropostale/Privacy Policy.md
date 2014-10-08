@@ -54,6 +54,7 @@ Aéropostale Go
             *   Bags + Wallets
             *   Jewelry
             *   Scarves
+            *   Cold Weather
             *   Hats
             *   Watches
             *   Belts
@@ -133,6 +134,7 @@ Aéropostale Go
         *   Bags + Wallets
         *   Jewelry
         *   Scarves
+        *   Cold Weather
         *   Hats
         *   Watches
         *   Belts
@@ -266,10 +268,7 @@ Aéropostale Go
     *   Girls - 43879826
         *   Bethany Room
         *   Bedding
-        *   Pillows &. Window
-        *   Lighting
         *   Accessories
-        *   Wall Decor
     
     *   Guys - 43880186
         *   Bedding
@@ -279,13 +278,7 @@ Aéropostale Go
     
     *   Bedding
     
-    *   Pillows &. Window
-    
-    *   Lighting
-    
     *   Accessories
-    
-    *   Wall Decor
     
     *   Bedding
     
