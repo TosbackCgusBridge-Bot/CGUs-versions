@@ -2,7 +2,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
 
 1.  Laptops
     1.  See all Laptops
-    2.  Business &. Home Office Productivity — Home or On-the-Go
+    2.  Professional Productivity — Home or On-the-Go
         1.  ThinkPad X: Thin and Light Laptops
         2.  ThinkPad T: Legendary Business Tools
         3.  ThinkPad W: Mobile Workstations
@@ -10,7 +10,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         5.  ThinkPad E: Stylish Business Laptops
         6.  ThinkPad L: Affordable Businsess
         7.  ThinkPad Helix: Detatchable Business Ultrabookss
-        8.  See all Business &. Home Office
+        8.  See all Professional
     3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
         1.  Y Series: Powerful Gaming On-the-Go
         2.  Yoga Series: Sleek Convertible Ultrabook
