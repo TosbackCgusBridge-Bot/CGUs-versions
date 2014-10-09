@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L12977693519
+true true C12858885269
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Tue Oct 07 06:14:49 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Oct 08 11:14:37 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,40 +45,60 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Extra 25% Off\* 25 Hours Only
+In Store Only
+
+Ends October 13
+
+$10 Off\* $25 or more.
+
+print store couponOnline Only
+
+Ends October 13.
+
+Use Code: 4U2SAV
+
+Extra 25% Off $100 or more with your JCPenney Credit Card. \*Subject to credit approval.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+Extra 20% Off under $100 with your JCPenney Credit Card. \*Subject to credit approval.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+In Store and Online
+
+Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details.
+
+*   The Fall Huge Sale
     
-    Online only. Ends October 7.
+    Starts now.
     
-    Code: 25HOURS
-    
-    Take an Extra 25% Off\* $100 or more.
-    
-    Or, Extra 20% Off under $100.
-    
-    Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades.
-    
-    \*See exclusions and details.
+    shop the sale shop women's shop men's shop kids' shop shoes shop lingerie shop furniture shop jewelry shop baby shop bedding and bath shop kitchen shop window shop home decor
 *   Home Sale
     
     Select styles.
     
-    shop home sale view store ad30-50% Off Home Decor shop home decor shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop luggage40-50% Off Window
-    
-    Our biggest window sale of the season.
-    
-    shop window
+    shop home sale view store ad30-50% Off Home Decor shop home decor shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop window shop furniture and mattresses
 
 $20 Off $20 Bonus Cash
 
 Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
 
-get details 25-40% Off Select Liz Claiborne shop Liz Claiborne 50% Off Select JF J. Ferrar shop J Ferrar 20% Off Select Disney Collection Costumes
+get details Diamond Sale
+
+Wednesday, October 8 through Tuesday, October 21.
+
+45-65% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-50% Off Select Women's Sweaters shop women's sweaters 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 50% Off Select Dress Shirts shop dress shirts 20% Off Select Disney Collection Costumes
 
 Disney Collection, only at JCPenney.
 
 Excluded from coupon.
 
-shop Disney Collection 30% Off Select Women's Boots shop women's boots 30-40% Off Select Accessories shop accessories 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 30-50% Off Bedding and Bath
+shop Disney Collection 30% Off Select Women's Boots shop women's boots 30-50% Off Bedding and Bath
 
 Select styles.
 
