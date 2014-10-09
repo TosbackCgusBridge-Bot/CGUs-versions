@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Did Robert Downey Jr. just confirm 'Iron Man 4' to Ellen DeGeneres? Watch the video... Read More Rumor has it that Sony may allow Spider-Man to join the MCU. plus, the X-Men may come to TV Read More See where you can see 'Interstellar' two days early, plus watch the revealing new trailer Read More Explore More
+*   Movie News Featured Movie News Did Robert Downey Jr. confirm 'Iron Man 4'? Maybe -- or maybe not (UPDATE) Read More Rumor has it that Sony may allow Spider-Man to join the MCU. plus, the X-Men may come to TV Read More Mark Wahlberg, shockingly thin in new 'The Gambler' images. Jeff Goldblum ready for 'ID4 2' Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -321,9 +321,9 @@ FREE AUDIOBOOK DOWNLOAD at Audible with Fandango ticket purchase. BUY TICKETS
 
 Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
 
-**Parents, You’re Invited!**
+**Buy One, Get One Free**
 
-Receive movie perks and tips just for families. SIGN ME UP
+Buy two tickets, get the second free. Use promo code FURY at checkout. BUY TICKETS
 
 **The Boxtrolls Gift Cards**
 
