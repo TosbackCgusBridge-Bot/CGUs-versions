@@ -68,7 +68,7 @@ If you have further questions or comments about the Data Privacy Provisions, ple
 
 **Effective: September 01, 2011**
 
-Do you like Phonedeck? Try right now for free! Get 14 days trial! Menu
+Do you like Phonedeck? Try it right now for free! Get 14 days trial! Menu
 
 *   Enterprises
 *   Partners
