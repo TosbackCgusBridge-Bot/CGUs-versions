@@ -1,5 +1,5 @@
 Bodybuilding.com Terms Of Use, Privacy Policy, And IPhone EULA by Bodybuilding.com  
-Last updated: Jul 11, 2014 **Quick Links:**
+Last updated: Oct 08, 2014 **Quick Links:**
 
 *   Terms Of Use
 *   Transparency In Supply Chain
