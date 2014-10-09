@@ -8,23 +8,23 @@ See "Changes To This Policy" for a description of the most recent revisions.
 
 **table of contents**
 
-*   the information we collect
-*   using the information we collect
-*   information we share with others
-*    cookies and other technologies
+*   the information we collect 
+*   using the information we collect 
+*   information we share with others 
+*    cookies and other technologies 
     
-*   safeguarding the Information we collect
-*   you choices regarding the use of information we collect
-*   notice to California residents – your California privacy rights 
-*   updating your JCPenney contact information
+*   safeguarding the Information we collect 
+*   your choices regarding the use of information we collect 
+*   notice to California residents – your California privacy rights  
+*   updating your JCPenney contact information 
     
-*   unauthorized charges
-*   children’s privacy
-*   links to other sites and social media widgets
+*   unauthorized charges 
+*   children’s privacy 
+*   links to other sites and social media widgets 
     
-*   international customer privacy
+*   international customer privacy 
     
-*   changes to this policy 
+*   changes to this policy  
 
  
 
@@ -70,22 +70,36 @@ We may also collect data that is publicly available. For example, information yo
 
 Also, when you use the guest Wi-Fi service in our stores, we collect precise, real-time information about the location of your device.  If you do not wish this to occur, please refrain from using our in-store guest Wi-Fi service.
 
-**in-store cameras -**We use in-store cameras for security purposes and operational purposes such as         **using the information we collect**  
-We use the information we collect for various purposes, including:
+**in-store cameras -**We use in-store cameras for security purposes and operational purposes such as         **using the information we collect**
 
-*   completing your purchase transactions
-*   providing the services you request
-*   contacting you about the status of your store or jcp.com orders
-*   responding to your customer service inquiries or requests
-*   notifying you of product recalls or providing other information concerning products you have purchased
-*   helping to protect against fraudulent use of your personal information
-*   sending you direct mail offerings
-*   sending you email communications
-*   administering customer recognition programs, sweepstakes, contests and similar promotions
-*   identifying your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you
-*   providing mobile marketing and service messages when requested
-*   inviting you to participate in surveys
-*   improving merchandise selections, customer service, and the overall customer shopping experience
+We use the information we collect to offer and provide our products and services and to carry out various business functions. We may combine or use the services of third party data companies to combine information about you that we collect online, in our stores, through mobile applications and from third party sources.  Examples of how that information is used include:
+
+**product and service fulfillment**
+
+*   To complete, fulfill, manage and communicate with you about purchases, orders, payments, returns/exchanges, or requests for information about our products and services;
+*   To establish and service your account on one of our websites (e.g. a jcpenney.com account or a jcpenneyrewards.com account/profile);
+*   To provide customer service and alert you to product information, including product recalls;
+*   To provide services such as gift registry or saved items lists. and
+*   To administer loyalty programs (e.g. JCPenney Rewards).
+
+**our marketing purposes**
+
+*   To send information about our products, services, and promotions, such as direct mail, coupons, mobile text alerts, and emails.
+*   To provide interactive features of our websites and mobile applications, such as product ratings and reviews, share with a friend, find item in store, store ads, and store locator.
+*   To identify product and service preferences, so our customers and visitors can be informed of new or additional products, services and promotions of possible interest. and
+*   To administer contests, sweepstakes, promotions, surveys, and focus groups.
+
+**internal operations**
+
+*   To improve the effectiveness of our websites, stores, mobile applications, merchandise selections, customer service and marketing efforts.
+*   To conduct research and analysis. and
+*   To perform other business activities as needed.
+
+**fraud prevention and legal compliance**
+
+*   To detect and prevent fraudulent transactions and monitor against theft.
+*   To protect the security and integrity of our websites and our business. and
+*   To assist law enforcement and respond to legal/regulatory inquiries.
 
 **information we share with others**
 
@@ -126,7 +140,7 @@ cancel opt-out setting will again allow IBM Digital Analytics to capture all web
 Click here to view your current IBM Digital Analytics opt-out status
 
 *   To learn more about Google Analytics’ privacy practices and any opt-out choices it offers, click here.
-*   To learn more about Convertro’s privacy practices and any opt-out choices it offers, click here
+*   To learn more about Convertro’s privacy practices and any opt-out choices it offers, click here.
   *   To learn more about Adobe Analytics’ privacy practices or to opt out of cookies set to facilitate reporting by Adobe Analytics, click here.
 
 Please note that your opt-out status may be maintained by placement of an “opt-out” cookie on your device.  If the cookie is removed or deleted, or you upgrade to a new version of your browser, change browsers or visit us from a different device, you will need to repeat this process to indicate your preference. 
@@ -141,9 +155,7 @@ To learn more about interest-based advertising and how to “opt-out” of inter
 
 We have physical, technical and procedural safeguards in place to protect the personal information we collect. Also we use Secure Socket Layering (SSL) technology to encrypt your credit or debit card information, including the account number, while it is transmitted over the Internet from your computer.  SSL is an industry standard technology for secure online transactions.
 
-**your choices regarding the use of the information we collect**     
-
-**postal mail**
+**your choices regarding the use of the information we collect**    **postal mail** 
 
 If you do not want to receive coupons and other promotional mail from JCPenney, you may:
 
@@ -151,13 +163,14 @@ If you do not want to receive coupons and other promotional mail from JCPenney, 
 *   call us at 1.800.322.1189
 *   email us at privacy@jcpenneyeservices.com
 
-**emails**
+**emails** 
 
 If you are currently receiving promotional email offers and updates from JCPenney, you may unsubscribe at any time by clicking on the unsubscribe hyperlink contained in our promotional emails. If you have registered on jcpenney.com, you can cancel your email subscription through your account. You may also:
 
 *   call us at 1.800.322.1189 or
 *   email us at privacy@jcpenneyeservices.com
 *   write to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Customer Relations
+ 
 
 Please note that even if you unsubscribe from promotional email offers and updates, we may still contact you by email for transactional purposes.  Some examples are communications regarding your order status, JCPenney Rewards if you are a member, customer service inquiries, service or reminder notices, and recalls.
 
@@ -200,8 +213,11 @@ This same California law permits JCPenney to provide you, in response to your wr
 If you have created a jcpenney.com account, a gift registry or a jcpenneyrewards.com account/profile, you can update your information by signing back into your account or registry.  You can also update or correct your name, address, telephone number, or email address by:
 
 *   writing to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX 75301-7311, Attention: Corporate Customer Relations
+    
 *   calling us at 1.800.322.1189 or
+    
 *   emailing us at privacy@jcpenneyeservices.com
+    
 
 **your JCPenney credit card account**
 
@@ -252,8 +268,6 @@ Customers shipping internationally should email us at privacy@jcpenneyeservices.
 *   Make a complaint about the collection or use of their personal information, or
 *   Comment on or ask questions regarding this privacy policy,
 
-should email us at privacy@jcpenneyeservices.com 
-
 **changes to this policy**  
 
 This policy was last updated on August 1, 2014 and October 8, 2014.
@@ -272,4 +286,4 @@ We may change our privacy policy from time to time.  If we change our privacy p
 
 *   write to us at J. C. Penney Corporation, Inc., P.O. Box 10001, Dallas, TX. 75301-7311, Attention: Corporate Customer Relations
 *   call us at 1.800.322.1189
-*   email us atprivacy@jcpenneyeservices.com
+*   email us at privacy@jcpenneyeservices.com
