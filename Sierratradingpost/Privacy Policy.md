@@ -19,7 +19,7 @@ Exchange and Replacement Products
 
 When you exchange or replace products through our online process, Instant Store Credit will be created and stored on your online account for 60 days. After 60 days has expired, any unused balance will reconcile to your original method of payment with the exception of product purchased using third party payment methods like PayPal, BillMeLater and V.me. See details on those payment options.
 
-For an online exchange, you will receive $2.95 shipping on the items you are returning to us plus receive $2.95 shipping on your next order using the Instant Store Credit\*. Free Shipping through Instant Store Credit is valid only for addresses within the contiguous 48 United States only. Excludes AK, HI, all U.S. territories, possessions and all international orders. Orders placed within the last 6 months are eligible for Instant Store Credit (Exchanges and Returns FAQs\*).
+For an online exchange, you will receive $2.95 shipping on the items you are returning to us plus receive $2.95 shipping on your next order using the Instant Store Credit\*. $2.95 shipping through Instant Store Credit is valid only for addresses within the contiguous 48 United States only. Excludes AK, HI, all U.S. territories, possessions and all international orders. Orders placed within the last 6 months are eligible for Instant Store Credit (Exchanges and Returns FAQs\*).
 
 Create Instant Store Credit Now
 
