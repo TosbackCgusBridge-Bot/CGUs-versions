@@ -191,7 +191,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
     
 7.  Services &. Warranty
     1.  See all Services &. Warranty
-    2.  Product Support Provides flexible warranty support options to keep you up and running.
+    2.  Product Support Flexible Warranty Support Options
         1.  Warranty Upgrades
         2.  Warranty Services
         3.  Priority Technical Support
@@ -200,12 +200,12 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         6.  ThinkStation Services
         7.  Premium Support
         8.  See all Product Support
-    3.  Protection Services Designed to keep your PC safe, protect your data and help maintain productivity.
+    3.  Protection Services Protect Your PC. Protect Your Data
         1.  Accidental Damage Protection
         2.  Keep Your Drive
         3.  Online Data Backup
         4.  See all Protection Services
-    4.  Transition Services Designed to keep your PC safe, protect your data and help maintain productivity.
+    4.  Transition Services Streamline While Saving Time
         1.  Image Design
         2.  Asset Tagging
         3.  In-Place Migration
@@ -225,15 +225,13 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Early Black Friday Doorbuster Deals
-        2.  Surprise 3 Day Sale
-        3.  Home Laptop &. Desktop Deals
-        4.  ThinkPad &. ThinkCentre QuickShips
-        5.  Accessories Closeout Sale
-        6.  Accessories Hot Deals
-        7.  Deals for Students and Educators
-        8.  Outlet
-        9.  See all Current Offers
+        1.  Home Laptop &. Desktop Deals
+        2.  ThinkPad &. ThinkCentre QuickShips
+        3.  Accessories Closeout Sale
+        4.  Accessories Hot Deals
+        5.  Deals for Students and Educators
+        6.  Outlet
+        7.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
