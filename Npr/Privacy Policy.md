@@ -268,6 +268,7 @@ Support The Programs You Love
     *   Microphone Check
     *   Mountain Stage
     *   From The Top
+    *   Jazz Night In America
     *   JazzSet
     *   Piano Jazz
     *   Song Travels
