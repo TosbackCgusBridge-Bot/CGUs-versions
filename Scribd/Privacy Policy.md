@@ -4,9 +4,9 @@
 *   Submit a request
 *   Check your existing requests
 *   English
-    *   Español
-    *   Français
-    *   Português (Brasil)
+    *   español
+    *   français
+    *   português do Brasil
 
 Search Our Help/General Info/Terms and Policies Privacy policy
 
