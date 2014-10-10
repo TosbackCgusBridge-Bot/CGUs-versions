@@ -87,11 +87,11 @@ Phonedeck is the productivity boost for mobile calls – on the road and in the 
 
 Recent Blog Posts
 
+*   Phonedeck announced the cooperation with Alcatel-Lucent October 9, 2014
+*   Study finds most sales reps are unable to cope with task reporting October 9, 2014
 *   Startup Safary Berlin at Phonedeck September 19, 2014
 *   Phonedeck is hiring – a Software Tester wanted! September 2, 2014
 *   Phonedeck Exhibits at Salesforce1 World Tour in Munich July 3, 2014
-*   Phonedeck Featured as ‘App of the Month’ on Alcatel-Lucent’s Developer Portal July 2, 2014
-*   Phonedeck Presents IMS Network Integration for Salesforce July 1, 2014
 
 Supported by the EU
 
