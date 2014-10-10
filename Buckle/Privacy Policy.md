@@ -64,7 +64,6 @@ My Bag (0) Wish List Search
 *   Promotions
     *   Buckle Card Double Points 2014
     *   Store Events
-    *   Tax Free Weekends 2014
     *   Sweepstakes Winners
     *   Social Giveaway Official Rules
     *   Buckle Jeans Sweepstakes Official Rules
