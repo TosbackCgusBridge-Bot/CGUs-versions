@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Did Robert Downey Jr. confirm 'Iron Man 4'? Maybe -- or maybe not (UPDATE) Read More Rumor has it that Sony may allow Spider-Man to join the MCU. plus, the X-Men may come to TV Read More Mark Wahlberg, shockingly thin in new 'The Gambler' images. Jeff Goldblum ready for 'ID4 2' Read More Explore More
+*   Movie News Featured Movie News It's true, 'Ghostbusters 3' will be all-female and directed by 'The Heat''s Paul Feig Read More Hold everything, here are new details about Brad Bird's next movie, the sci-fi 'Tomorrowland' Read More Did Robert Downey Jr. confirm 'Iron Man 4'? Maybe -- or maybe not (UPDATE) Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -325,9 +325,9 @@ Upload a horror movie moment and you could win a walk-on role in a Blumhouse Pro
 
 Buy two tickets, get the second free. Use promo code FURY at checkout. BUY TICKETS
 
-**The Boxtrolls Gift Cards**
+**Halloween Costume Contest**
 
-Give fun and adventure with a gift card today. BUY NOW
+Show us your family's most creative movie-themed costumes for a chance to win $500 cash and a year of movie tickets! SEE DETAILS
 
 New + Coming Soon
 
