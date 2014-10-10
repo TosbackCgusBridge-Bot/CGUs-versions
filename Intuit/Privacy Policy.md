@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  AARON
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12858885269
+true true 10.60.248.10 L12984310171
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Oct 08 11:14:37 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Oct 09 03:36:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -57,13 +57,13 @@ Ends October 13.
 
 Use Code: 4U2SAV
 
-Extra 25% Off $100 or more with your JCPenney Credit Card. \*Subject to credit approval.
+Extra 25% Off\* $100 or more with your JCPenney Credit Card. \*Subject to credit approval.
 
-Or, Extra 20% Off\* with any other method of payment.
+Or, Extra 20%\* Off\* with any other method of payment.
 
-Extra 20% Off under $100 with your JCPenney Credit Card. \*Subject to credit approval.
+Extra 20% Off\* under $100 with your JCPenney Credit Card. \*Subject to credit approval.
 
-Or, Extra 15% Off\* with any other method of payment.
+Or, Extra 15%\* Off\* with any other method of payment.
 
 In Store and Online
 
@@ -77,18 +77,28 @@ All offers apply to select original, regular, sale and clearance-priced items.
     
     Starts now.
     
-    shop the sale shop women's shop men's shop kids' shop shoes shop lingerie shop furniture shop jewelry shop baby shop bedding and bath shop kitchen shop window shop home decor
+    shop the sale shop women's shop men's shop kids' shop shoes shop lingerie shop furniture shop jewelry shop baby shop bedding and bath shop kitchen shop window shop home decorNight and Day Doorbusters
+    
+    In store only. Friday, October 10, 3PM until close, Saturday, October 11, 10AM until 1PM.
+    
+    Excluded from coupon offer.
+    
+    view doorbusters store ad$20 Off $20 Bonus Cash
+    
+    In store only. Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
+    
+    get details
 *   Home Sale
     
     Select styles.
     
-    shop home sale view store ad30-50% Off Home Decor shop home decor shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop window shop furniture and mattresses
+    shop home sale view store ad30-50% Off Home Decor shop home decor shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop window shop furniture and mattresses$20 Off $20 Bonus Cash
+    
+    In store only. Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
+    
+    get details
 
-$20 Off $20 Bonus Cash
-
-Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
-
-get details Diamond Sale
+Diamond Sale
 
 Wednesday, October 8 through Tuesday, October 21.
 
