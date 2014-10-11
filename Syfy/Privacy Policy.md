@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Off With Their Heads Face Off - Sneak Peek - Off With Their Heads
+Syfy Video Face Off - Sneak Peek - Beautiful Disaster Face Off - Sneak Peek - Beautiful Disaster
 
-Check out a sneak peek of the next episode of Face Off, Tuesdays at 9/8c.
+Check out the next episode of Face Off, Tuesdays at 9/8c.
+
+Off With Their Heads Morphs Off With Their Heads Morphs
+
+Check out the morphs from from Off With Their Heads!
+
+How Stella Got Her Mold Back How Stella Got Her Mold Back
+
+Stella saves her mold!
 
 Teacher's Pets Morphs Teacher's Pets Morphs
 
 Check out the morphs from Face Off Season 7, Episode 11
-
-Drew's Win Drew's Win
-
-Drew is pulling for a win - and with this makeup, (SPOILER ALERT) he gets it!
-
-Town of the Living Dead - Sneak Peek - Jasper ... Town of the Living Dead - Sneak Peek - Jasper Needs Zombies
-
-Check out the sneak peek for the next episode of Town of the Living Dead, Tuesdays at 10/9c.
 
 *   FAQ
 *   Feedback
