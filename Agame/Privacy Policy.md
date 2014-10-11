@@ -174,7 +174,7 @@ Copyright © 2014 SPIL GAMES B.V. All rights reserved.
 
 Done Close Congratulations \[username\]!
 
-You're now officially a member of **Agame.com!**
+You're now officially a member of**Agame.com!**
 
 Now you have access to all our features!
 
@@ -182,7 +182,7 @@ Welcome to the world of better gaming.
 
 Play now Done Close Congratulations \[username\]!
 
-You're now officially a member of **Agame.com!**
+You're now officially a member of**Agame.com!**
 
 Now you have access to all our features!
 
@@ -190,7 +190,7 @@ Welcome to the world of better gaming.
 
 Let's start and create an avatar!
 
-Create an avatar or Pick an Avatar Successfully linked Close Your account is linked!
+Create an avatar orPick an Avatar Successfully linked Close Your account is linked!
 
 From now on you can login with your social network account or your Agame.com account.
 
@@ -202,7 +202,7 @@ Close Successfully linked Close Your account is linked!
 
 From now on you can login with your social network account or your Agame.com account.
 
-Create an avatar or Close pop-up SIGN IN Use your social network Log in with Facebook Log in with Google or sign in below Sorry, we were unable to sign you in. Try again!
+Create an avatar orClose pop-up SIGN IN Use your social network Log in with Facebook Log in with Google or sign in below Sorry, we were unable to sign you in. Try again!
 
 Forgot your username or password?
 
@@ -210,9 +210,9 @@ Keep me logged in on this computer. Sign in Not a member yet? Join now - it's fr
 
 There's been a connection error. Please try again.
 
-Try again Close Link accounts Close Hey , do we already know each other?
+Try again Close Link accounts Close Hey, do we already know each other?
 
-Unfortunately we can not link your agame.com account to your account.
+Unfortunately we can not link your agame.com account to youraccount.
 
 Close Could not create your account. Close Uh oh!
 
@@ -220,13 +220,13 @@ Something went wrong while setting up your new account. Please try again.
 
 Almost done... Close We need some additional info.
 
-Hey , do we already know each other?  
-If you already have a agame.com account, we can link it to your account!
+Hey, do we already know each other?  
+If you already have a agame.com account, we can link it to youraccount!
 
 What name do you wat to represent you here?  
 To protect your privacy, do not include your  
 real name in your username. Your username must be at least 3 characters. Sorry, you can't use that. Pick something else. Your username may only use letters, numbers, hyphens, and underscores. Sorry, this username's already taken! But these aren't: We'll keep this private! This is not a valid e-mail address. Please try again We already know this email.. Please supply your password so we can link your account. Please enter your password so we can link your account Your password was incorrect, please try again. Birthdate MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDayYearWhen were you born? This is not a valid date of birth. Please try again Gender Boy Girl
 
-I have read and agree to the Privacy Policy and Terms of Use of Agame.com
+I have read and agree to thePrivacy PolicyandTerms of Useof Agame.com
 
 Play Now!
