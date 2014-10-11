@@ -2,6 +2,15 @@ Terms of Service/Policies
 
 The links below provide you access to Charter's current policies &. agreements.
 
+*   Residential Services Terms and Conditions
+    *   General Terms and Conditions for Charter Residential Services
+    *   Charter Residential Internet Service Agreement
+    *   Charter Residential Internet Acceptable Use Policy
+    *   Charter Residential Voice Service Agreement
+    *   Charter Residential Cable Service Agreement
+    *   Residential Services Voice Price Guide
+    *   Residential Customer Guarantees
+
 *   Commercial Service Terms and Conditions
     *   Terms and Conditions of Service
     *   Internet Acceptable Use Policy
@@ -18,16 +27,3 @@ The links below provide you access to Charter's current policies &. agreements.
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
 *   DOCSIS Modem Policy
-
-Terms and Conditions of Service
-
-Charter's Residential Terms and Conditions of Video, Internet, and Voice Services have changed. The new Residential Terms and Conditions of Service listed below shall be effective for all Charter customers on 10/01/14:
-
-*   Residential Services Terms and Conditions
-    *   General Terms and Conditions for Charter Residential Services
-    *   Charter Residential Internet Service Agreement
-    *   Charter Residential Internet Acceptable Use Policy
-    *   Charter Residential Voice Service Agreement
-    *   Charter Residential Cable Service Agreement
-    *   Residential Services Voice Price Guide
-    *   Residential Customer Guarantees
