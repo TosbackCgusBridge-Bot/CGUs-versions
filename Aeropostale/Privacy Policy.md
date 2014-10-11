@@ -62,7 +62,7 @@ Aéropostale Go
             *   Hair Accessories
             *   Beauty
             *   Fragrance
-        *   LIVE LOVE DREAM
+        *   Live Love Dream
             *   active
             *   yoga
             *   lounge
@@ -143,7 +143,7 @@ Aéropostale Go
         *   Beauty
         *   Fragrance
     
-    *   LIVE LOVE DREAM
+    *   Live Love Dream
         *   active
         *   yoga
         *   lounge
@@ -263,7 +263,7 @@ Aéropostale Go
     *   ROOM
     
     *   Uniform
-*   ROOM
+*   Room
     
     *   Girls - 43879826
         *   Bethany Room
@@ -272,7 +272,6 @@ Aéropostale Go
     
     *   Guys - 43880186
         *   Bedding
-        *   Accessories
         *   NFL
     
     *   Bethany Room
@@ -282,8 +281,6 @@ Aéropostale Go
     *   Accessories
     
     *   Bedding
-    
-    *   Accessories
     
     *   NFL
 *   Aero Clearance
