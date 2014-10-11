@@ -16,7 +16,7 @@ Search
 *   Standings
 *   Stats
 *   Schedule
-*   Players
+*   Postseason
 *   Teams
 *   Fantasy
 *   MLB.TV
