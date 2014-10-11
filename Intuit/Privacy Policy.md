@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  AARON
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L12984310171
+true true 10.60.248.10 L12987241461
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Oct 09 03:36:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Fri Oct 10 03:51:43 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -102,7 +102,7 @@ Diamond Sale
 
 Wednesday, October 8 through Tuesday, October 21.
 
-45-65% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-50% Off Select Women's Sweaters shop women's sweaters 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 50% Off Select Dress Shirts shop dress shirts 20% Off Select Disney Collection Costumes
+40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-50% Off Select Women's Sweaters shop women's sweaters 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 50% Off Select Dress Shirts shop dress shirts 20% Off Select Disney Collection Costumes
 
 Disney Collection, only at JCPenney.
 
