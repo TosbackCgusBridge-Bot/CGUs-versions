@@ -49,28 +49,6 @@ Connexity
         *   Paid search
 *   Contact
 
-Toggle navigation ×
-
-*   Solutions
-    *   Paid Search &. Marketplace
-    *   Bizrate Insights
-    *   Display Media
-    *   Publisher Monetization
-*   About
-    *   About Connexity
-    *   Team
-    *   Benefits
-    *   Open Positions
-    *   Press
-*   Resources
-    *   Blog
-    *   Case Studies – Search
-    *   Case Studies – Insights &. Ratings
-    *   Case Studies – Display
-*   Stay Connected
-    *   Login
-    *   Contact Us
-
 Privacy Policy
 
 Last modified on: September 29th 2014
