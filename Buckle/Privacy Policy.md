@@ -1,6 +1,6 @@
-Earn BONUS REWARDS POINTS when you use your Buckle Card!
+Military Guests, thank you for your service.
 
-See Details
+10% Military Discount
 
 Online Orders 800-522-8090
 
@@ -62,6 +62,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
+    *   #BuckledOut#BENCHSWEEPS Official Rules
     *   Buckle Card Double Points 2014
     *   Store Events
     *   Sweepstakes Winners
