@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News It's true, 'Ghostbusters 3' will be all-female and directed by 'The Heat''s Paul Feig Read More Hold everything, here are new details about Brad Bird's next movie, the sci-fi 'Tomorrowland' Read More Did Robert Downey Jr. confirm 'Iron Man 4'? Maybe -- or maybe not (UPDATE) Read More Explore More
+*   Movie News Featured Movie News It's true, 'Ghostbusters 3' will be all-female and directed by 'The Heat''s Paul Feig Read More Watch: The new 'Tomorrowland' trailer is out of this world -- literally! Read More Jeremy Renner wants a Hawkeye movie...do you? Plus, 'Little House on the Prairie' is coming Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -321,9 +321,9 @@ FREE AUDIOBOOK DOWNLOAD at Audible with Fandango ticket purchase. BUY TICKETS
 
 Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
 
-**Buy One, Get One Free**
+**Addicted Free Gift**
 
-Buy two tickets, get the second free. Use promo code FURY at checkout. BUY TICKETS
+FREE E-BOOK DOWNLOAD by bestselling author Zane with Fandango ticket purchase. BUY TICKETS
 
 **Halloween Costume Contest**
 
