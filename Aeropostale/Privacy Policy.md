@@ -202,6 +202,7 @@ Aéropostale Go
             *   Cologne
         *   ROOM
         *   Uniform
+        *   Dorm
     
     *   NEW ARRIVALS
     
@@ -263,6 +264,8 @@ Aéropostale Go
     *   ROOM
     
     *   Uniform
+    
+    *   Dorm
 *   Room
     
     *   Girls - 43879826
@@ -272,6 +275,7 @@ Aéropostale Go
     
     *   Guys - 43880186
         *   Bedding
+        *   Accessories
         *   NFL
     
     *   Bethany Room
@@ -281,6 +285,8 @@ Aéropostale Go
     *   Accessories
     
     *   Bedding
+    
+    *   Accessories
     
     *   NFL
 *   Aero Clearance
