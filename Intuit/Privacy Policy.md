@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L12988728435
+true true L12992119662
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Oct 11 05:32:36 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun Oct 12 04:00:15 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -73,46 +73,45 @@ All offers apply to select original, regular, sale and clearance-priced items.
 
 \*See exclusions and details.
 
-*   The Fall Huge Sale
-    
-    Starts now.
-    
-    shop the sale shop women's shop men's shop kids' shop shoes shop lingerie shop furniture shop jewelry shop baby shop bedding and bath shop kitchen shop window shop home decorNight and Day Doorbusters
-    
-    In store only. Friday, October 10, 3PM until close, Saturday, October 11, 10AM until 1PM.
-    
-    Excluded from coupon offer.
-    
-    view doorbusters store ad$20 Off $20 Bonus Cash
-    
-    In store only. Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
-    
-    get details
-*   Home Sale
+*   40-50% Off Furniture and Mattresses
     
     Select styles.
     
-    shop home sale view store ad30-50% Off Home Decor shop home decor shop kitchen and dining40-50% Off Furniture and Mattresses shop furniture and mattresses shop window shop furniture and mattresses$20 Off $20 Bonus Cash
+    shop furniture and mattressesColumbus Day Home Sale shop the sale36 Month Special Promo Financing
     
-    In store only. Get a $20 off $20 Home Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store, October 2 through 13.
+    Available for furniture and mattress purchases of $1000 or more with your JCPenney Credit Card.
     
     get details
+*   Levi's At Their Lowest Prices Of The Season
+    
+    $36.99 Men's Levi's 569™ Loose Straight Jeans, originally $58.
+    
+    shop Levi's shop women's Levi's shop men's Levi's shop kids' Levi's view Levi's fit finderColumbus Day Sale
+    
+    Fresh fits and savings to put some oompf in your Autumn!
+    
+    shop the sale view store adBig Buys
+    
+    While they last! In store and online, October 12 and 13.
+    
 
-Diamond Sale
-
-Wednesday, October 8 through Tuesday, October 21.
-
-40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-50% Off Select Women's Sweaters shop women's sweaters 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 50% Off Select Dress Shirts shop dress shirts 20% Off Select Disney Collection Costumes
-
-Disney Collection, only at JCPenney.
-
-Excluded from coupon.
-
-shop Disney Collection 30% Off Select Women's Boots shop women's boots 30-50% Off Bedding and Bath
+30-40% Off Outerwear For The Family
 
 Select styles.
 
-shop bedding and bath Clearance 50-75% Off
+shop outerwear 30-40% Off Select Made For Life Activewear shop Made For Life Diamond Sale
+
+Wednesday, October 8 through Tuesday, October 21.
+
+40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry 30-50% Off Select Men's St. John's Bay shop men's St. John's Bay 30-40% Off Select Boots For The Family
+
+Boot Event October 8 through 19.
+
+shop boots 10% Off Select Baby Furniture shop baby furniture 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 30-50% Off Bedding
+
+Select styles.
+
+shop bedding Clearance 50-75% Off
 
 In store and online.
 
