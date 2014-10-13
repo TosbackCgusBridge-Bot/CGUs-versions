@@ -1,7 +1,6 @@
 Privacy Policy
 
-Pipl was built with both its usefulness and your privacy in mind. This policy describes the types of personal information we may collect from our users and how we may use such information.  
-(this policy is not relevant in any way to public information about you or other people that is found on the web and subsequently available on our site. If you'd like to control or remove such information - please click here to learn how).
+Pipl was built with both its usefulness and your privacy in mind. This policy describes the types of personal information we may collect from our users and how we may use such information. Please note that this policy is not relevant in any way to public information about you or other people that is found on the web and subsequently available on our site. If you'd like to control or remove such information please click here to learn how.
 
 By using Pipl, you agree to the collection and use of your personal information as described in this policy as well as to Pipl's terms of service. Any significant changes to this policy – will be posted on Pipl's website (www.pipl.com)
 
@@ -36,7 +35,7 @@ We reserves the right to disclose information to third parties if we believe we 
 \* Protect the rights, property or safety of Pipl, its users and the public.
 
 **Developers Portal &. API**  
-Our Developers Portal and API are powered by a third party, please note that when you use the portal or the API you agree to their policy as wells as to ours, please refer to their privacy page for more information.
+Our Developers Portal and API are powered by Intel Services, please note that when you use the portal or the API you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.
 
 **Transfer of information**  
 Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
