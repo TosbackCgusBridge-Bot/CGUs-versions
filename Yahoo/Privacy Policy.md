@@ -21,7 +21,7 @@ Yahoo Company Info Rechercher Recherche Web
 *   OBJET DE LA POLITIQUE RELATIVE A LA VIE PRIVÉE
 *   COLLECTE ET UTILISATION DES DONNÉES
 *   PARTAGE ET DIVULGATION D’INFORMATIONS
-*   COOKIES
+*   COOKIES ET TECHNOLOGIES SIMILAIRES
 *   MODIFICATION ET SUPPRESSION DES INFORMATIONS ET PRÉFÉRENCES RELATIVES À VOTRE COMPTE
 *   CONFIDENTIALITÉ ET SÉCURITÉ
 *   POSTER DES MESSAGES SUR DES ESPACES OUVERTS AU PUBLIC
@@ -69,15 +69,13 @@ Yahoo diffuse des offres publicitaires ciblées basées sur des données et des 
 
 Haut de page
 
-COOKIES
+COOKIES ET TECHNOLOGIES SIMILAIRES
 
-Yahoo peut installer des cookies Yahoo sur votre ordinateur et y accéder.
+Yahoo peut installer des cookies Yahoo sur votre ordinateur et y accéder. Nous sommes également susceptibles d’installer des identifiants de périphériques, qui peuvent inclure des adresses IP, des informations relatives à l’agent utilisateur (version du navigateur, type et version du système d’exploitation), ainsi que des identifiants assignés au périphérique et d’y accéder. Lorsque vous êtes connecté à Yahoo sur votre périphérique, Yahoo peut le reconnaître pour vous proposer une expérience personnalisée, indépendamment des paramètres de votre périphérique. Vous pouvez contrôler cette expérience personnalisée sur Yahoo via notre outil de gestion des publicités basées sur les centres d’intérêt. En savoir plus.
 
-Yahoo autorise certaines sociétés proposant des offres publicitaires sur certaines de nos pages à installer leurs propres cookies sur votre ordinateur et à y accéder. L’utilisation des cookies de la part d’autres sociétés est soumise aux conditions de leur propre politique relative à la vie privée et non à celles de la présente. Les annonceurs ou les autres sociétés n’ont pas accès aux cookies Yahoo. Vous trouverez davantage d’informations dans la rubrique « Cookies tiers ».
+Yahoo autorise d’autres sociétés qui affichent des publicités sur certaines de nos pages à installer des cookies sur votre ordinateur et à y accéder. L’utilisation des cookies et d’identifiants de périphériques par d’autres sociétés est soumise aux politiques relatives à la vie privée de ces sociétés, et non à la présente. Les annonceurs ou autres sociétés n’ont pas accès aux cookies Yahoo.
 
-Yahoo utilise des balises Web pour accéder à nos cookies au sein et en dehors de notre réseau de sites Web et en rapport avec les produits et services Yahoo.
-
-Pour plus d’informations sur notre utilisation des cookies et sur les modalités de désactivation, cliquez ici.
+Yahoo utilise des balises Web pour accéder aux cookies Yahoo au sein et en dehors de notre réseau de sites Web et en rapport avec les produits et services Yahoo.
 
 Haut de page
 
