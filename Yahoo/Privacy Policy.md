@@ -46,15 +46,13 @@ Yahoo zeigt auf der Grundlage pseudonymer Nutzungsdaten und sonstiger anonymer I
 
 Zum Seitenanfang zurückkehren
 
-COOKIES
+COOKIES UND ÄHNLICHE TECHNOLOGIEN
 
-Yahoo legt unter Umständen Cookies auf der Festplatte Ihres Computers ab und liest diese bei einem erneuten Besuch unserer Seiten wieder aus.
+Yahoo kann auf Ihrem Computer Yahoo- Cookies setzen und darauf zugreifen. Wir können auch auf Geräteidentifikatoren zugreifen und diese setzen. Dazu können die IP-Adresse, Informationen zum User Agent (Browserversion sowie Betriebsystemtyp und -version) und vom Gerät bereitgestellte Identifikatoren zählen. Wenn Sie sich auf Ihrem Gerät bei Yahoo anmelden, kann Yahoo Ihr Gerät erkennen und Ihnen so eine personalisierte Erfahrung bieten, die unabhängig von Ihren Geräteeinstellungen ist. Über unseren Ad Interest Manager kontrollieren Sie Ihre personalisierte Erfahrung auf allen Yahoo-Produkten. Erfahren Sie mehr.
 
-Wir gestatten ausgewählten Drittunternehmen, die Werbung auf unseren Diensten anzeigen, ebenfalls Cookies auf unseren Seiten zu verwenden. Die Verwendung dieser Cookies unterliegt den Datenschutzerklärungen der jeweiligen Drittunternehmen und nicht der Yahoo Datenschutzerklärung. Drittunternehmen und Werbekunden haben keinen Zugriff auf Cookies, die von Yahoo abgelegt und verwendet werden. Im Bereich „Cookies von Drittanbietern“ finden Sie weitere Informationen.
+Yahoo lässt zu, dass andere Unternehmen, die auf einigen unserer Seiten Werbung anzeigen, ihre Cookies auf Ihrem Computer setzen und darauf zugreifen. Die Verwendung dieser Cookies und der Geräteidentifikatoren unterliegt den Datenschutzerklärungen der jeweiligen Drittunternehmen und nicht der Yahoo Datenschutzerklärung. Drittunternehmen und Werbekunden haben keinen Zugriff auf Cookies, die von Yahoo gesetzt und verwendet werden.
 
-Des Weiteren benutzt Yahoo innerhalb der Yahoo Dienste sogenannte Ein-Pixel-Bilder, um auf Yahoo Cookies innerhalb und außerhalb unseres Netzwerkes zuzugreifen.
-
-Um mehr über Cookies zu erfahren und darüber, wie Sie Cookies deaktivieren können, klicken Sie hier.
+Yahoo verwendet Web Beacons, um auf Yahoo-Cookies innerhalb und außerhalb unseres Netzwerks auf Websites zuzugreifen, sowie in Verbindung mit Yahoo-Produkten und -Diensten zuzugreifen.
 
 Zum Seitenanfang zurückkehren
 
