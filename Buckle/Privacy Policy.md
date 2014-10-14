@@ -1,6 +1,6 @@
-Military Guests, thank you for your service.
+Denim Sweepstakes
 
-10% Military Discount
+Enter Now
 
 Online Orders 800-522-8090
 
@@ -62,6 +62,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
+    *   Find Your Denim Sweepstakes Rules
     *   #BuckledOut#BENCHSWEEPS Official Rules
     *   Buckle Card Double Points 2014
     *   Store Events
