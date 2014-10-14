@@ -249,6 +249,6 @@ Support
 *   Site Map
 *   TV Lineup
 *   Terms &. Policies
-*   Law Enforcement
+*   **Law Enforcement**
 
 © 2014 Suddenlink Communications © 2014 Suddenlink Communications
