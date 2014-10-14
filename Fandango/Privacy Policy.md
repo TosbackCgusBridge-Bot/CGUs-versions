@@ -5,38 +5,35 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   Gone Girl
+    *   Dracula Untold
+    *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
     *   Annabelle
+    *   The Judge (2014)
     *   The Equalizer
-    *   The Boxtrolls
+    *   Addicted
     *   The Maze Runner
+    *   The Boxtrolls
     *   Left Behind
-    *   This Is Where I Leave You
-    *   Dolphin Tale 2
-    *   Guardians of the Galaxy
-    *   No Good Deed
-    *   A Walk Among the Tombstones
+    *   Meet the Mormons
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Addicted
-    *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
-    *   Dracula Untold
-    *   The Judge (2014)
-    *   Automata
-    *   The Canal
-    *   Kill the Messenger
-    *   St. Vincent
-    *   Whiplash
-    *   Meet the Mormons
-    *   The Overnighters
+    *   The Best of Me
+    *   The Book of Life
+    *   Fury (2014)
+    *   The Tale of the Princess Kaguya
+    *   Birdman
+    *   Dear White People
+    *   A Matter of Faith
+    *   Listen Up Philip
+    *   The Golden Era (2014)
+    *   Housebound
+    *   Rudderless
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Best of Me
-    *   The Book of Life
-    *   Fury (2014)
     *   John Wick
     *   Ouija
     *   Laggies
@@ -45,6 +42,9 @@ Gift Cards | Offers | Visa Signature
     *   Big Hero 6
     *   Beyond the Lights
     *   Dumb and Dumber To
+    *   The Hunger Games: Mockingjay, Part 1 (2014)
+    *   Horrible Bosses 2
+    *   Penguins of Madagascar
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News It's true, 'Ghostbusters 3' will be all-female and directed by 'The Heat''s Paul Feig Read More Watch: The new 'Tomorrowland' trailer is out of this world -- literally! Read More Jeremy Renner wants a Hawkeye movie...do you? Plus, 'Little House on the Prairie' is coming Read More Explore More
+*   Movie News Featured Movie News Next Bond movie has found its villain, and he comes from the galaxy Read More A 'Lego Movie' Batman spin-off will beat the sequels to theaters in 2017 Read More WATCH: New 'Big Hero 6' trailer unveiled at New York Comic Con is action-packed Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
