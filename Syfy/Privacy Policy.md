@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off - Sneak Peek - Beautiful Disaster Face Off - Sneak Peek - Beautiful Disaster
+Syfy Video Town of the Living Dead: Extended Trailer Town of the Living Dead: Extended Trailer
 
-Check out the next episode of Face Off, Tuesdays at 9/8c.
+Town of the Living Dead airs on Tuesdays at 10/9c on Syfy.
 
-Off With Their Heads Morphs Off With Their Heads Morphs
+Z Nation - Sneak Peek - Resurrection Z Z Nation - Sneak Peek - Resurrection Z
 
-Check out the morphs from from Off With Their Heads!
+Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
 
-How Stella Got Her Mold Back How Stella Got Her Mold Back
+Z Nation - Next Episode - Resurrection Z Z Nation - Next Episode - Resurrection Z
 
-Stella saves her mold!
+An encounter with a seemingly utopian enclave and a religious cult results in a series game changer. Z Nation airs Fridays at 10/9c on Syfy
 
-Teacher's Pets Morphs Teacher's Pets Morphs
+Haven: Origins  Witches. Part 3 Haven: Origins  Witches. Part 3
 
-Check out the morphs from Face Off Season 7, Episode 11
+Take a journey into Haven's past to see the beginning of the Troubles in Part 2 of this digital series.
 
 *   FAQ
 *   Feedback
