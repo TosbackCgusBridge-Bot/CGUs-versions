@@ -3,29 +3,29 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
 1.  Laptops
     1.  See all Laptops
     2.  Professional Productivity — Home or On-the-Go
-        1.  ThinkPad X: Thin and Light Laptops
-        2.  ThinkPad T: Legendary Business Tools
-        3.  ThinkPad W: Mobile Workstations
-        4.  ThinkPad Yoga: Multimode Business Laptops
-        5.  ThinkPad E: Stylish Business Laptops
-        6.  ThinkPad L: Affordable Business
+        1.  ThinkPad X: Ultraportable Productivity Tools
+        2.  ThinkPad T: Legendary Professional Laptops
+        3.  ThinkPad W: Workstation Power Made Mobile
+        4.  ThinkPad Yoga: 2-in-1 Business-Ready Laptops
+        5.  ThinkPad E: Stylish &. Affordable Productivity
+        6.  ThinkPad L: Affordable, All-Purpose Productivity
         7.  ThinkPad Helix: Detachable Business Ultrabooks
         8.  See all Professional
     3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
-        1.  Y Series: Powerful Gaming On-the-Go
-        2.  Yoga Series: Sleek Convertible Ultrabook
-        3.  Z Series: Affordable Entertainment
-        4.  Flex Series: Mainstream Multimode Laptops
-        5.  U Series: Designer Laptops and Ultrabooks
+        1.  Y Series: Gaming Power Made Mobile
+        2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
+        3.  Z Series: Multimedia Made Affordable
+        4.  Flex Series: Dual-Mode, Multi-Use Laptops
+        5.  U Series: Elegantly Crafted Mobile PCs
         6.  See all Entertainment &. Gaming
     4.  Student Durable &. Functional for Any Grade
-        1.  ThinkPad 11E: Rugged Laptops
+        1.  ThinkPad 11E: Rugged Student Laptops
         2.  G Series: Affordable Everyday Laptops
-        3.  S Series: Entry-Level Ultraportables
-        4.  ThinkPad E: Stylish Business Laptops
-        5.  ThinkPad Yoga: Multimode Business Laptops
-        6.  ThinkPad L: Value and Reliability
-        7.  N Series: Affordable Chromebooks
+        3.  S Series: Sleek &. Compact Ultraportables
+        4.  ThinkPad E: Stylish &. Affordable Productivity
+        5.  ThinkPad Yoga: 2-in-1 Business-Ready Laptops
+        6.  ThinkPad L: Affordable, All-Purpose Productivity
+        7.  N Series: Fast-Boot Chromebooks
         8.  See all Student
     5.  Not sure what you need?
         1.  New Product Showcase
