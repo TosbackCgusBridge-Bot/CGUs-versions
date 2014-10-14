@@ -199,7 +199,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
 *   Partners
     *   Benefits
     *   Partners
-    *   Become a Partner
     *   Resellers
 *   Community
     *   Blog
