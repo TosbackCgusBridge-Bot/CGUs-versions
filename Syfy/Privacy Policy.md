@@ -253,7 +253,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 Syfy Video Town of the Living Dead: Extended Trailer Town of the Living Dead: Extended Trailer
 
-Town of the Living Dead airs on Tuesdays at 10/9c on Syfy.
+See what's in store this season on Town of the Living Dead, Tuesdays at 10/9c on Syfy.
 
 Z Nation - Sneak Peek - Resurrection Z Z Nation - Sneak Peek - Resurrection Z
 
