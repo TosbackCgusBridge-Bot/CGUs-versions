@@ -12,6 +12,7 @@ Your Cart(0) Catalog Navigation
     *   Sweets
         
     *   Wine Gifts
+    *   Hickory Farms Reserve
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
@@ -37,6 +38,7 @@ Search Catalog Search Menu Search Stores Cart
     *   Sweets
         
     *   Wine Gifts
+    *   Hickory Farms Reserve
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
