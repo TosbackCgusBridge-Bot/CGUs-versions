@@ -321,13 +321,13 @@ FREE AUDIOBOOK DOWNLOAD at Audible with Fandango ticket purchase. BUY TICKETS
 
 Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
 
-**Addicted Free Gift**
+**The Best of Me Sweepstakes**
 
-FREE E-BOOK DOWNLOAD by bestselling author Zane with Fandango ticket purchase. BUY TICKETS
+Buy tickets to be automatically entered for a chance to meet Hunter Hayes at his 'Tattoo Your Name Tour.' BUY TICKETS
 
 **Halloween Costume Contest**
 
-Show us your family's most creative movie-themed costumes for a chance to win $500 cash and a year of movie tickets! SEE DETAILS
+Show us your family's movie-themed costumes for a chance to win $500 cash and a year of movie tickets! SEE DETAILS
 
 New + Coming Soon
 
