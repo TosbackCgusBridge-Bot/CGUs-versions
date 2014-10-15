@@ -1,14 +1,15 @@
 A Small World . Net A Small World . Net A Small World . Net
 
-*   Menu
-    *   About ASW
-    *   Member Benefits
-    *   More
-        *   ASW Foundation
-        *   The Globalist
-        *   Press
-        *   Contact Us
-        *   Careers
+Menu
+
+*   About ASW
+*   Member Benefits
+*   More
+    *   ASW Foundation
+    *   The Globalist
+    *   Press
+    *   Contact Us
+    *   Careers
 
 Privacy Policy
 
