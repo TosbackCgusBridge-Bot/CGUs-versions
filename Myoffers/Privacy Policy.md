@@ -52,7 +52,7 @@ Use of your personal information
 
 MyOffers will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join MyOffers
 
-> "By registering and entering your details you consent to MyOffers, its sponsors and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
+> "By registering and entering your details you consent to MyOffers, its sponsors and its clients sending you information by post, telephone, email and SMS, about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
 
 Clients of MyOffers may include Commercial, Not for Profit, Research and Political Organisations that may wish to contact you for marketing or other purposes appropriate to the individual organisation. Sponsors of the MyOffers questionnaires have their own privacy policies and some have their own opt-in statements, MyOffers strongly recommends that you read and understand this information.
 
@@ -74,7 +74,7 @@ Sponsored questionnaires and co-branded sites
 
 Every user must agree and opt-in to the following statement before completing their MyOffers registration:
 
-> "By registering and entering your details you consent to MyOffers its sponsors and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy policy that govern how your information will be processed."
+> "By registering and entering your details you consent to MyOffers, its sponsors and its clients sending you information by post, telephone, email and SMS, about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
 
 Each questionnaire on MyOffers is sponsored by a sponsor. By giving a positive response and entering the questionnaire on MyOffers you are giving your consent for the sponsor / client process the information you have provided and to send you information about products and/or services that may be of interest to you. The information you provide may be used, by MyOffers its sponsors and its Clients, to provide you with information and offers by post, SMS, mobile phone or telephone. If you would prefer not to receive such offers, from MyOffers, please indicate your preference by ticking the box provided, located on the 'My Account' page.
 
