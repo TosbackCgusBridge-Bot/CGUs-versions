@@ -92,6 +92,6 @@ If you have any questions, you can contact us through our contact form.
 
 If you have questions or other inquiries, please use our contact form
 
-Business contact Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
+Advertise on Y8 Business contact Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
 
 Y8.com project: play free games online and watch funny cartoons, since 2006.
