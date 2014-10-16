@@ -140,11 +140,17 @@ Marketing Purposes
 
 From time to time, we may disclose information with carefully selected companies who may offer you products and services of interest. To opt out of this sharing click here and follow the instructions. These opt-outs do not apply to the Sam's Club co-branded credit card or to data sharing regarding business customers that purchase business resale merchandise.
 
+  
 Business Member Inquiries
 
 We may share information regarding a Business Membership with the account's primary Member or an Officer or Principal of the business in order to respond to their inquiry.  
   
 We may share information about Business Members resale merchandise purchases, such as tobacco products, with our partners in order to enable them to offer such customers discounts or rebates.
+
+  
+Products and Services Offered by Other Businesses
+
+We sometimes enable other businesses to make products or services available to our members. You may purchase products or services from these other businesses at our Clubs or through our websites or mobile services. We indicate when products or services are offered by other businesses and share with these businesses personal information related to the provision of their products and services.
 
   
 Business Transfers
@@ -317,4 +323,4 @@ Our privacy policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.  
   
-Effective: September 15, 2014
+Effective: October 15, 2014
