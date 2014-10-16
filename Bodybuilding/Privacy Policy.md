@@ -1,5 +1,5 @@
 Bodybuilding.com Terms Of Use, Privacy Policy, And IPhone EULA by Bodybuilding.com  
-Last updated: Oct 13, 2014 Quick Links
+Last updated: Oct 15, 2014 Quick Links
 
 *   Terms Of Use
 *   Transparency In Supply Chain
@@ -175,8 +175,6 @@ It is our policy to terminate relationships regarding content with third parties
 
 Last modified on August 8, 2013.
 
-  
-  
 Bodybuilding.com Privacy Policy
 
 We are committed to protecting the privacy and security of the users of our Sites.
@@ -392,8 +390,6 @@ Your use of the Application includes the ability to enter into agreements electr
 
 Last modified on August 8, 2013.
 
-  
-  
 Contacting Us
 
 If you have any questions about these Terms Of Use, Privacy Policy, iPhone EULA, the practices of our sites, or your dealings with our sites, you may contact:
