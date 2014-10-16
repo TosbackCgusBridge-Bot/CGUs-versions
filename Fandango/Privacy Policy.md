@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Next Bond movie has found its villain, and he comes from the galaxy Read More A 'Lego Movie' Batman spin-off will beat the sequels to theaters in 2017 Read More WATCH: New 'Big Hero 6' trailer unveiled at New York Comic Con is action-packed Read More Explore More
+*   Movie News Featured Movie News Holy Batman! Check out release dates for DC's slate of upcoming movies Read More See the first official 'Jurassic World' poster. Javier Bardem wanted for 'Pirates 5' Read More Keanu Reeves as Dr. Strange? Plus, Robert Downey Jr. THIS close to 'Captain America 3' Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
