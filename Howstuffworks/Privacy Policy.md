@@ -85,14 +85,20 @@ Non-personally identifiable information is used as described above and in other 
 
 **(1) Personally Identifiable Information**
 
-We may share or disclose your personally identifiable information in the following instances:   
-(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion.   
-(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.   
-(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on HSW's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.   
-  
-(iv) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of HSW and its family of Sites or act in urgent circumstances to protect the personal safety of our end users.   
-(v) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.   
-(vi) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.   
+We may share or disclose your personally identifiable information in the following instances: 
+
+(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion. 
+
+(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information. 
+
+(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on HSW's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us. 
+
+(iv) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of HSW and its family of Sites or act in urgent circumstances to protect the personal safety of our end users. 
+
+(v) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets. 
+
+(vi) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties. 
+
 (viii) To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services.
 
 Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
@@ -147,10 +153,14 @@ We collect and store the non-personally identifiable information that is describ
 
 Please contact HSW at any time regarding privacy questions or concerns, or to request to review what personally identifiable information we have collected from a child. Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child's information. We will take steps to ensure that any person contacting us for a child's information is that child's parent or guardian.
 
-InfoSpace LLC   
-10900 NE 8th Street, Suite 800   
-Bellevue, WA 98004   
-Phone: (425) 201-6100  
+InfoSpace LLC 
+
+10900 NE 8th Street, Suite 800 
+
+Bellevue, WA 98004 
+
+Phone: (425) 201-6100
+
 Email: hsw\_privacy@infospace.com
 
 **E. International Transfer of Information**
@@ -209,20 +219,25 @@ Some parts of the Sites require that personally identifiable information be subm
 
 If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**   
+**YOUR CALIFORNIA PRIVACY RIGHTS** 
+
 HSW does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding HSW's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
-InfoSpace LLC   
-10900 NE 8th Street, Suite 800   
-Bellevue, WA 98004   
-Phone: (425) 201-6100  
+InfoSpace LLC 
+
+10900 NE 8th Street, Suite 800 
+
+Bellevue, WA 98004 
+
+Phone: (425) 201-6100
+
 Email: hsw\_privacy@infospace.com
 
 Last Updated On: May 30, 2014
 
 Print Cite This! Close  Please copy/paste the following text to properly cite this HowStuffWorks article:  
   
-"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  15 October 2014. Citation &. Date Feedback More To Explore
+"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  16 October 2014. Citation &. Date Feedback
 
 *   About Us
 *   Our Shows
