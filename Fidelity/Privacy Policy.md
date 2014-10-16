@@ -22,6 +22,7 @@ Search Fidelity.com
     *   Full ViewLog In Required
     *   Update Accounts / Features
     *   StatementsLog In Required
+    *   Retirement Distribution CenterLog In Required
 *   News &. Insights
     *   News
     *   Insights
@@ -290,6 +291,7 @@ Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP co
 *   Twitter
 *   LinkedIn
 *   YouTube
+*   Google+
 *   Fidelity Mobile®
 
 *   Careers
