@@ -50,9 +50,11 @@ Aéropostale Go
         *   Bras
         *   Panties
         *   Socks
+        *   Sleepwear
         *   ACCESSORIES
             *   Bags + Wallets
             *   Jewelry
+            *   Sunglasses
             *   Scarves
             *   Cold Weather
             *   Hats
@@ -130,9 +132,12 @@ Aéropostale Go
     
     *   Socks
     
+    *   Sleepwear
+    
     *   ACCESSORIES
         *   Bags + Wallets
         *   Jewelry
+        *   Sunglasses
         *   Scarves
         *   Cold Weather
         *   Hats
@@ -185,6 +190,7 @@ Aéropostale Go
             *   Shorts
             *   Sweatpants
         *   Outerwear
+        *   Dorm
         *   Footwear
             *   Sneakers
         *   Boxers + Trunks
@@ -201,7 +207,6 @@ Aéropostale Go
             *   Cologne
         *   ROOM
         *   Uniform
-        *   Dorm
     
     *   NEW ARRIVALS
     
@@ -240,6 +245,8 @@ Aéropostale Go
     
     *   Outerwear
     
+    *   Dorm
+    
     *   Footwear
         *   Sneakers
     
@@ -262,8 +269,6 @@ Aéropostale Go
     *   ROOM
     
     *   Uniform
-    
-    *   Dorm
 *   Room
     
     *   Girls - 43879826
