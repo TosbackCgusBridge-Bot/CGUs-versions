@@ -25,8 +25,8 @@ Text Only
 *   Book &. Stay
 *   Our Company
 *   Careers
-*   Travel Professionals _starwoodpro.com_
-*   Meeting Planners _starwoodmeetings.com_
+*   Travel Professionals _spg.com/travelpro_
+*   Meeting Planners _spg.com/meetingplanner_
 *   Developers _development.starwoodhotels.com_
 
 Hotel Directory New Hotels Resorts Customer Service Reservations Vacation Ownership Best Rate Guarantee Advanced Search Offers Residences Sign In to SPG.com  Go to SPG.com  Join now 
@@ -841,7 +841,6 @@ Destination Guides
 LEARN ABOUT OUR BEST RATE GUARANTEE
 
 *   Stay connected to Starwood Hotels:
-
 *   More
 *   Mobile Options
 *   Guest Reviews
