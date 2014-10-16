@@ -95,6 +95,10 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
+Tue, Oct 21, 2014 Tips and Tools for Conducting Effective PIAs in Today’s Complex Privacy Landscape
+
+Privacy professionals have found themselves at the vortex of a data storm, trying keep pace with emerging technologies, changing business requirements and a fluid regulatory landscape to protect their brands from significant compliance risk. Privacy Impact Assessments are an established tool to help organizations identify, assess and alleviate any privacy risks associated with new products and business initiatives and have been introduced as a requirement of many global privacy laws.  But when should you conduct a PIA? How do you determine the scope?
+
 Tue, Nov 4, 2014 Privacy &. Big Data Overload
 
 Due to the evolution of personalized, data-driven digital marketing, companies now have infinite amounts of personally identifiable information (PII) about their customers—and it just keeps exponentially growing. In fact, according to the Pew Research Center, the volume of business data worldwide—across all companies—doubles every 1.2 years.
@@ -106,7 +110,7 @@ Sun, Nov 9, 2014 publisher forum: Making Media Work
 
 Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
 
-Wed, Nov 12, 2014 pii2014 Silicon Valley Join the Online Trust Alliance in Silicon Valley at the 5th annual Privacy Identity Innovation conference (pii2014), taking place November 12-14 at the Crowne Plaza Palo Alto hotel. Focused on Building Trust in the Data-Driven Economy, pii2014 will examine recent developments in areas like mobile, biometrics, the Internet of Things and big data with experts from leading companies and organizations. Learn about emerging trends and business models driving the personal information economy, and get guidance on developing strategies and best practices to build trust with your users. Confirmed speakers include FTC chairwoman Edith Ramirez, Silent Circle CEO Mike Janke, Microsoft’s chief privacy officer Brendon Lynch, about.me founders Tony Conrad and Ryan Freitas, Box’s chief trust officer Justin Somaini, AT&T’s chief privacy officer Robert Quinn and OTA executive director Craig Spiezle. Save 15% with promo code: OTA2014. Wed, Nov 12, 2014 2014 Message System User Conference As always, you can expect nothing but the best in digital messaging industry news, training and information, including real world use cases, lively discussions, and not just one but two ISP panel sessions. For a taste of what you can expect, take a look at some of the highlights from 2013. And don't forget to check the event website often, as we'll be posting session descriptions and announcing speakers soon.
+Wed, Nov 12, 2014 2014 Message System User Conference As always, you can expect nothing but the best in digital messaging industry news, training and information, including real world use cases, lively discussions, and not just one but two ISP panel sessions. For a taste of what you can expect, take a look at some of the highlights from 2013. And don't forget to check the event website often, as we'll be posting session descriptions and announcing speakers soon.
 
 *   OTA Blog
 *   Newsletters
@@ -160,6 +164,7 @@ Membership
 About Us
 
 *   Members
+    *   Members
 *   Board of Directors
 *   Non-Governmental Organizations
 *   Strategic Advisors
