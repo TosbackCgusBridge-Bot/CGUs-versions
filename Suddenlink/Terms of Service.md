@@ -26,8 +26,7 @@
 *   Lista de Canales
 *   Términos y Políticas
 
-*   Web
-*   Site
+*   Site Search
 
 *   Find Offers
 *   Television
