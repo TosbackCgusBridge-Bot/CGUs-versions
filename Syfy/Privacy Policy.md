@@ -251,9 +251,9 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Town of the Living Dead: Extended Trailer Town of the Living Dead: Extended Trailer
+Syfy Video Z Nation - All the Kills - Episode 5 Z Nation - All the Kills - Episode 5
 
-See what's in store this season on Town of the Living Dead, Tuesdays at 10/9c on Syfy.
+See if you can keep up with counting how many zombies are killed.
 
 Z Nation - Sneak Peek - Resurrection Z Z Nation - Sneak Peek - Resurrection Z
 
@@ -263,9 +263,9 @@ Z Nation - Next Episode - Resurrection Z Z Nation - Next Episode - Resurrection 
 
 An encounter with a seemingly utopian enclave and a religious cult results in a series game changer. Z Nation airs Fridays at 10/9c on Syfy
 
-Haven: Origins  Witches. Part 3 Haven: Origins  Witches. Part 3
+Haven: Origins Episode 1, Part 3 - "Witches A ... Haven: Origins Episode 1, Part 3 - "Witches Are Born"
 
-Take a journey into Haven's past to see the beginning of the Troubles in Part 2 of this digital series.
+Take a journey into Haven's past to see the beginning of the Troubles in Part 3 of this digital series.
 
 *   FAQ
 *   Feedback
