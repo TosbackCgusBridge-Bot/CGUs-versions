@@ -150,6 +150,13 @@ Starting at $63,600\*
 *   • 416 hp\*
 *   • RWD
 
+RC F
+
+Starting at $62,400\*
+
+*   • 467 hp\*
+*   • RWD
+
 LFA
 
 *   • All 500 units sold
@@ -170,10 +177,6 @@ NX
 Coming Soon
 
 RC
-
-Coming Soon
-
-RC F
 
 Coming Soon
 
