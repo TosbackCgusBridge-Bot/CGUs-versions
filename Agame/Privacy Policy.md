@@ -210,9 +210,9 @@ Keep me logged in on this computer. Sign in Not a member yet? Join now - it's fr
 
 There's been a connection error. Please try again.
 
-Try again Close Link accounts Close Hey, do we already know each other?
+Try again Close Link accounts Close Hey , do we already know each other?
 
-Unfortunately we can not link your agame.com account to youraccount.
+Unfortunately we can not link your agame.com account to your account.
 
 Close Could not create your account. Close Uh oh!
 
@@ -220,13 +220,13 @@ Something went wrong while setting up your new account. Please try again.
 
 Almost done... Close We need some additional info.
 
-Hey, do we already know each other?  
-If you already have a agame.com account, we can link it to youraccount!
+Hey , do we already know each other?  
+If you already have a agame.com account, we can link it to your account!
 
 What name do you wat to represent you here?  
 To protect your privacy, do not include your  
 real name in your username. Your username must be at least 3 characters. Sorry, you can't use that. Pick something else. Your username may only use letters, numbers, hyphens, and underscores. Sorry, this username's already taken! But these aren't: We'll keep this private! This is not a valid e-mail address. Please try again We already know this email.. Please supply your password so we can link your account. Please enter your password so we can link your account Your password was incorrect, please try again. Birthdate MonthJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecemberDayYearWhen were you born? This is not a valid date of birth. Please try again Gender Boy Girl
 
-I have read and agree to thePrivacy PolicyandTerms of Useof Agame.com
+I have read and agree to the Privacy Policy and Terms of Use of Agame.com
 
 Play Now!
