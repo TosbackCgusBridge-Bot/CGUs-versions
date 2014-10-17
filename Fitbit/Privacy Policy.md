@@ -213,7 +213,7 @@ Fitbit is dedicated to helping people lead healthier, more active lives.
 *   Terms of Use
 *   Recall/Safety Info
 
-United States and Canada (change) Products
+United States (change) Products
 
 *   Flex™  
     Wireless Activity + Sleep Wristband
