@@ -4,7 +4,7 @@ Cheapoair has been awarded TRUSTe's Privacy Seal signifying that this privacy po
   
 Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the CheapOair.com website and mobile application (collectively, the "Site"). By visiting any section of the Sites you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Site.  
   
-If you have questions or concerns regarding our privacy policy, you should first contact customer service at cservice@CheapOair.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding our privacy policy, you should first contact customer service at Feedback@CheapOair.com . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
   
 Cheapoair.com use of your private information.
@@ -47,7 +47,7 @@ Save for the above mentioned situations, you will be notified when your personal
   
 Changing an updating your private information.
 
-You may access your private information through your account on our website, if you created one. You can close your account or change your personal information by sending us an e-mail at cservice@CheapOair.com. We may retain some of your personal information for record keeping integrity or for statistical purposes.We may retain your personal information to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You may access your private information through your account on our website, if you created one. You can close your account or change your personal information by sending us an e-mail at Feedback@CheapOair.com. We may retain some of your personal information for record keeping integrity or for statistical purposes.We may retain your personal information to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
   **AGENTS** Like many other sites, this Site uses cookies to personalize your experience by providing you with relevant information and advertising, and to speed up the member sign in process. Cookies are information sequences stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Site and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the member's area.  
   
@@ -67,7 +67,7 @@ If you receive browser warnings when going from secure mode pages to non-SSL pag
   
 We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. No method of transmission over the Internet, or method of electronic storage is 100% secure. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.  
   
-If you have any questions about security on our Web site, you can send email us at \[cservice@CheapOair.com\]
+If you have any questions about security on our Web site, you can send email us at \[Feedback@CheapOair.com\]
 
   
 **GOVERNMENT AND LEGAL** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.  
@@ -76,9 +76,9 @@ We may amend this Privacy Policy at any time. All amended terms automatically ta
   
 ll the terms used herein are to be interpreted as defined under our Terms and Conditions.  
 **ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at cservice@CheapOair.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.  
+If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at Feedback@CheapOair.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.  
 **PUBLIC FORUMS**  
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at cservice@CheapOair.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at Feedback@CheapOair.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
 **Social Media (Features) and Widgets** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.  
 **CHILDREN'S PRIVACY PROTECTION** CheapOair understands the importance of protecting children's privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, children 13 years of age or younger.  It is not our policy to intentionally collect or maintain information about anyone under the age of 13.  
 **OPT-OUT** We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form. However, we will still use your personally identifiable information to provide you with the services and products you purchased through our Site, including but not limited to sending you reservation and confirmation communications or vouchers.  
@@ -93,6 +93,6 @@ CheapOair.com,
 135 W 50th Street  
 Suite 500  
 New York, NY 10020  
-cservice@CheapOair.com**  
+Feedback@CheapOair.com**  
   If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact TRUSTe. TRUSTe will serve as a liaison with us to resolve your concerns.  
   ADVERTISEMENT
