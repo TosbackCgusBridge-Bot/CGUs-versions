@@ -187,8 +187,8 @@ Aéropostale Go
         *   Bottoms
             *   Jeans
             *   Pants
-            *   Shorts
             *   Sweatpants
+            *   Shorts
         *   Outerwear
         *   Dorm
         *   Footwear
@@ -240,8 +240,8 @@ Aéropostale Go
     *   Bottoms
         *   Jeans
         *   Pants
-        *   Shorts
         *   Sweatpants
+        *   Shorts
     
     *   Outerwear
     
