@@ -20,14 +20,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   Outerwear Shop
-            *   Jeans 101
-            *   Activewear Collection
+            *   Cardigan Shop
+            *   Performance Activewear
             *   Shoes &. Boots
             
             *   New Arrivals
-            *   Fall Looks
-            *   Cardigan Shop
-            *   Wear to Work
+            *   Winter Looks
+            *   Nautical Winter Style
+            *   Jeans 101
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -101,6 +101,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Outerwear Shop
+            *   Sleep Shop
             *   Shoes &. Boots
             *   School Uniforms
             
@@ -175,7 +176,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             
             *   New Arrivals
             *   Supima Bed &. Bath
-            *   Make Over Your Bed
+            *   Flannel Bedding
+            *   The Christmas Shop
             *   Sale
     *   *   Categories
             *   Bedding
@@ -194,13 +196,15 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Find your School
         *   Featured Shops
             *   Back to Uniforms Featured Shops
-            *   Find your School
+            *   Find Your School
+            *   Kids' Outerwear Shop
+            *   After School
             *   Shoes &. Boots
             
             *   Polos that Perform
             *   Iron Knee Pants
             *   Phys Ed Locker Room
-            *   After School
+            *   Sweater &. Fleece Layers
             *   Sale
         *   Shop By Age Range
             *   Back to Uniforms Shop By Age Range
@@ -242,18 +246,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Accessories
             *   Backpacks &. Bags
             *   Swim
-*   Gifts
-    *   *   Back to Main Menu Gifts
-        *   Shop Gifts
-        *   For Her
-        *   For Him
-        *   For Girls
-        *   For Boys
-        *   For Home
-        *   For Dogs
-        *   Personalized Gifts
-        *   Our Favorite Gifts
-        *   The Christmas Shop
 *   Sale
     *   *   Back to Main Menu Sale
         *   Shop Sale
@@ -267,6 +259,18 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   On The Counter
         *   Not Quite Perfect
         *   Clearance - Last Chance
+*   Gifts
+    *   *   Back to Main Menu Gifts
+        *   Shop Gifts
+        *   For Her
+        *   For Him
+        *   For Girls
+        *   For Boys
+        *   For Home
+        *   For Dogs
+        *   Personalized Gifts
+        *   Our Favorite Gifts
+        *   The Christmas Shop
 *   My Account
     *   Back to Main Menu My Account
     *   Sign In
