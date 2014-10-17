@@ -288,7 +288,7 @@ Visit VH1 On:
 *   Atlanta Exes
 *   Love &. Hip Hop
 *   Love &. Hip Hop Atlanta
-*   Pallaida
+*   Palladia
 *   The Gossip Table
 *   T.I. &. Tiny
 *   Top 20 Countdown
