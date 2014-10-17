@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (6)
+*   saved items: (7)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  
+*   Hello  SHELLEY
 *   (sign out)
     
 *   my account
 
-*   saved items: (6)
+*   saved items: (7)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true 10.60.216.10 C12878090585
+true true L13008913880
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p42.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Wed Oct 15 03:53:48 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Oct 16 10:25:47 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,47 +45,66 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-2 Days Only
+Free Shipping Over $49 With Your JCPenney Credit Card
 
-In store and online. October 14 through October 15.
+Ends November 1.
 
-Code: JCP4U
+Code: SHIP49
 
-\*See exclusions and details. print coupon50% Off\*
+\*See exclusions and details.
 
-Select styles.
+Ends October 21.
 
-shop curtains and drapes shop ready-made blinds and shades shop luggage40% Off\*
+Use Code: OCTCRD
 
-Select styles.
+All offers apply to select original, regular, sale and clearance-priced items.
 
-shop bedding and bath shop furniture and mattresses shop curtain rods and hardware30% Off\*
+Online Only
 
-Select styles.
+Extra 25% Off\* orders over $100 with your JCPenney Credit Card. \*Subject to credit approval.
 
-shop kitchen and dining shop home decor shop custom blinds and shades shop storage and organization shop vacuums and floor careExtra 20% Off\*
+Or, Extra 20%\* Off\* with any other method of payment.
 
-Select original, regular, sale and clearance-priced items.
+In Store and Online
 
-shop men's shop women's shop kids' shop shoes shop baby shop accessories shop fine jewelry \*See exclusions and details.Or Extra 20% Off\* All Clearance shop clearance 30-40% Off Select Made For Life Activewear shop Made For Life Diamond Sale
+Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
 
-Wednesday, October 8 through Tuesday, October 21.
+Or, Extra 15%\* Off\* with any other method of payment.
 
-40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry Levi's At Their Lowest Prices Of The Season
+In Store and Online
 
-$36.99 guys' Levi's 505™ Regular Fit jeans. Regularly $58.
+Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-Excluded from coupon offer.
+\*See exclusions and details. print store coupon
 
-shop Levi's 25-40% Off Select Boots For The Family
+*   Our Lowest Prices Of The Season shop the sale view store adNight and Day Doorbusters
+    
+    In store only, Friday, October 17, 3PM until close, Saturday, October 18, OPEN until 1PM.
+    
+    view doorbusters store ad40-50% Off Select Women's Sweaters shop women's sweaters40-50% Off Select Men's Sweaters shop men's sweaters
+*   30-50% Off Home Sale
+    
+    Save on select styles.
+    
+    shop the sale shop kitchen shop home decor shop furniture and mattresses shop luggage shop bedding and bath
+
+Levi's At Their Lowest Prices Of The Season $36.99 Guys' Levi's 505™ Regular Fit Jeans
+
+Regularly $58. Excluded from coupon offer.
+
+shop guys' Levi's 40-50% Off Select Women's Outerwear shop women's outerwear 25-40% Off Select Boots For The Family
 
 Boot Event October 8 through 19.
 
-shop boots 40% Off Select Kids' Activewear shop kids' activewear 30% Off Select Bras When You Buy 2 Or More shop bras find your bra event 40% Off Bedding and Bath
+shop boots 40% Off Select Kids' Outerwear shop kids' outerwear 40-60% Off Select Fine Jewelry and Bijoux Bar
 
-Select styles with code: JCP4U.
+Diamond Sale Wednesday, October 8 through Tuesday, October 21.
 
-shop bedding and bath Clearance 50-75% Off
+shop fine jewelry and Bijoux Bar 30-50% Off Select Small Appliances
+
+Excluded from coupon offer.
+
+shop small appliances Clearance 50-75% Off
 
 In store and online.
 
