@@ -146,7 +146,7 @@ Monday to Friday
 Call Us - 1800.753.8558 Sign up for fresh gift ideas and delicious deals Sign up for fresh gift ideas Sign Up
 
 *   Business Gifts
-*   Gift Certificates
+*   Gift Cards
 *   Find a Store
 *   Order Tracking
 *   Request a Catalog
