@@ -110,7 +110,7 @@ Sun, Nov 9, 2014 publisher forum: Making Media Work
 
 Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
 
-Wed, Nov 12, 2014 2014 Message System User Conference As always, you can expect nothing but the best in digital messaging industry news, training and information, including real world use cases, lively discussions, and not just one but two ISP panel sessions. For a taste of what you can expect, take a look at some of the highlights from 2013. And don't forget to check the event website often, as we'll be posting session descriptions and announcing speakers soon.
+Wed, Nov 12, 2014 pii2014 Silicon Valley Join the Online Trust Alliance in Silicon Valley at the 5th annual Privacy Identity Innovation conference (pii2014), taking place November 12-14 at the Crowne Plaza Palo Alto hotel. Focused on Building Trust in the Data-Driven Economy, pii2014 will examine recent developments in areas like mobile, biometrics, the Internet of Things and big data with experts from leading companies and organizations. Learn about emerging trends and business models driving the personal information economy, and get guidance on developing strategies and best practices to build trust with your users. Confirmed speakers include FTC chairwoman Edith Ramirez, Silent Circle CEO Mike Janke, Microsoft’s chief privacy officer Brendon Lynch, about.me founders Tony Conrad and Ryan Freitas, Box’s chief trust officer Justin Somaini, AT&T’s chief privacy officer Robert Quinn and OTA executive director Craig Spiezle. Save 15% with promo code: OTA2014.
 
 *   OTA Blog
 *   Newsletters
@@ -164,7 +164,6 @@ Membership
 About Us
 
 *   Members
-    *   Members
 *   Board of Directors
 *   Non-Governmental Organizations
 *   Strategic Advisors
