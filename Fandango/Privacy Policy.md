@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Holy Batman! Check out release dates for DC's slate of upcoming movies Read More See the first official 'Jurassic World' poster. Javier Bardem wanted for 'Pirates 5' Read More Keanu Reeves as Dr. Strange? Plus, Robert Downey Jr. THIS close to 'Captain America 3' Read More Explore More
+*   Movie News Featured Movie News Holy Batman! Check out release dates for DC's slate of upcoming movies Read More See the first official 'Jurassic World' poster. Javier Bardem wanted for 'Pirates 5' Read More WATCH: Chris Hemsworth takes on the giant whale Moby Dick in 'Heart of the Sea' Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
