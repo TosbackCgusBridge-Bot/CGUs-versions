@@ -259,9 +259,9 @@ Z Nation - Sneak Peek - Resurrection Z Z Nation - Sneak Peek - Resurrection Z
 
 Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
 
-Z Nation - Next Episode - Resurrection Z Z Nation - Next Episode - Resurrection Z
+Z Nation New York Comic Con Panel Highlight - ... Z Nation New York Comic Con Panel Highlight - WTF is Up with Murphy
 
-An encounter with a seemingly utopian enclave and a religious cult results in a series game changer. Z Nation airs Fridays at 10/9c on Syfy
+Watch a highlight from Z Nation's New York Comic Con panel! Tom Scott (Garnett) and Craig Engler (Co-EP) let you know what is wrong with Murphy.
 
 Haven: Origins Episode 1, Part 3 - "Witches A ... Haven: Origins Episode 1, Part 3 - "Witches Are Born"
 
