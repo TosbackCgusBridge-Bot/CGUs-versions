@@ -8,11 +8,12 @@ Your Cart(0) Catalog Navigation
 
 *   Shop By Category
     *   Sausage &. Cheese
+        
     *   Fruit &. Nuts
     *   Sweets
         
     *   Wine Gifts
-    *   Hickory Farms Reserve
+    *   Hickory Farms Reserve Collection
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
@@ -34,11 +35,12 @@ Search Catalog Search Menu Search Stores Cart
 
 *   Shop By Category
     *   Sausage &. Cheese
+        
     *   Fruit &. Nuts
     *   Sweets
         
     *   Wine Gifts
-    *   Hickory Farms Reserve
+    *   Hickory Farms Reserve Collection
     *   New Product Showcase
     *   Pantry Essentials
     *   Military Gifts
