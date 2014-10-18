@@ -1,4 +1,4 @@
-Denim Sweepstakes
+Find Your Denim Sweepstakes
 
 Enter Now
 
