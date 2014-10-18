@@ -28,14 +28,6 @@ We do not ask you for, access, or track any location-based information from your
 
 This Site and our mobile application contain links to other websites. Unfortunately, Go Daddy is not responsible for the privacy practices or the content of such sites.
 
-**For Near.me and Online Advertising Users Only**
-
-When you enter your name, telephone number, email address, and/or questions/comments onto a Near.me site Online Advertising Page, you are granting Go Daddy express permission to share that information with the business owner that owns that Online Advertising Page.  Go Daddy is not responsible for improper use by business owners of your information.
-
-Any telephone calls or emails initiated by you through the Near.me site will be used (and in the case of telephone calls, recorded) for marketing purposes.  If you do not agree to such use, do not initiate any telephone calls or emails through the Near.me site.  
-
-If you are a business owner that has created an Online Advertising Page to advertise your business, you will be prompted to enter information about your business, including your business name, business address, and business hours. The business information that you enter will be publicly displayed on your Online Advertising Page.
-
 **Security**
 
 This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
@@ -51,6 +43,8 @@ The information you send to us may be stored and used to improve this Site, our 
 **Third Party Service Providers**
 
 We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+We may also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click here.
 
 In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
 
