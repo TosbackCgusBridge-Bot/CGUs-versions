@@ -1,4 +1,4 @@
-Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-6686 See Products>. Cart Menu <Products
+Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 1-855-253-6686 See Products>. Cart Menu <Products
 
 1.  Laptops
     1.  See all Laptops
@@ -105,7 +105,7 @@ Lenovo Lenovo recommends Windows. Search Call1-855-253-6686Call Call1-855-253-66
         1.  New Product Showcase
         2.  Best Selling Desktops
         3.  Gaming PCs
-        4.  View All Laptops
+        4.  View All Desktops
         5.  Monitors
         6.  Keyboards &. Mice
         7.  Deals
