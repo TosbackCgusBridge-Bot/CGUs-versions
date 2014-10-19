@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Z Nation - All the Kills - Episode 5 Z Nation - All the Kills - Episode 5
+Syfy Video Z Nation - All the Kills - Episode 6 Z Nation - All the Kills - Episode 6
 
-See if you can keep up with counting how many zombies are killed.
+Count all of this episodes zombie kills along with us.
 
-Z Nation - Sneak Peek - Resurrection Z Z Nation - Sneak Peek - Resurrection Z
+Z Nation - Sneak Peek - Welcome to FU-Bar Z Nation - Sneak Peek - Welcome to FU-Bar
 
-Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
+Get a sneak peek at the next episode of Z Nation, airing Friday at 10/9c on Syfy
 
-Z Nation New York Comic Con Panel Highlight - ... Z Nation New York Comic Con Panel Highlight - WTF is Up with Murphy
+Behold My Flock Behold My Flock
 
-Watch a highlight from Z Nation's New York Comic Con panel! Tom Scott (Garnett) and Craig Engler (Co-EP) let you know what is wrong with Murphy.
+Murphy proves he is the zombie Messiah and Charlie takes a bullet for him.
 
-Haven: Origins Episode 1, Part 3 - "Witches A ... Haven: Origins Episode 1, Part 3 - "Witches Are Born"
+Inside Haven - Season 5, Episode 6 Inside Haven - Season 5, Episode 6
 
-Take a journey into Haven's past to see the beginning of the Troubles in Part 3 of this digital series.
+The cast talks Season 5, Episode 6
 
 *   FAQ
 *   Feedback
