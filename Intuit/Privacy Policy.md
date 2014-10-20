@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  Herbert
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C12895690007
+true true C12897244460
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p11.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sat Oct 18 11:12:24 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p16.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sun Oct 19 11:05:51 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,68 +45,25 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Free Shipping Over $49 With Your JCPenney Credit Card
-
-Ends November 1.
-
-Code: SHIP49
-
-\*See exclusions and details.
-
-Ends October 21.
-
-Use Code: OCTCRD
-
-All offers apply to select original, regular, sale and clearance-priced items.
-
-Online Only
-
-Extra 25% Off\* orders over $100 with your JCPenney Credit Card. \*Subject to credit approval.
-
-Or, Extra 20%\* Off\* with any other method of payment.
-
-In Store and Online
-
-Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
-
-Or, Extra 15%\* Off\* with any other method of payment.
-
-In Store and Online
-
-Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. print store coupon
-
-*   Our Lowest Prices Of The Season shop the sale view store adNight and Day Doorbusters
-    
-    In store only, Friday, October 17, 3PM until close, Saturday, October 18, OPEN until 1PM.
-    
-    view doorbusters store ad40-50% Off Select Women's Sweaters shop women's sweaters40-50% Off Select Men's Sweaters shop men's sweaters
-*   30-50% Off Home Sale
-    
-    Save on select styles.
-    
-    shop the sale shop kitchen shop home decor shop furniture and mattresses shop luggage shop bedding and bath
-
-Levi's At Their Lowest Prices Of The Season $36.99 Guys' Levi's 505™ Regular Fit Jeans
-
-Regularly $58. Excluded from coupon offer.
-
-shop guys' Levi's 40-50% Off Select Women's Outerwear shop women's outerwear 25-40% Off Select Boots For The Family
-
-Boot Event October 8 through 19.
-
-shop boots 40% Off Select Kids' Outerwear shop kids' outerwear 40-60% Off Select Fine Jewelry and Bijoux Bar
-
-Diamond Sale Wednesday, October 8 through Tuesday, October 21.
-
-shop fine jewelry and Bijoux Bar 30-50% Off Select Small Appliances
-
-Excluded from coupon offer.
-
-shop small appliances Clearance 50-75% Off
+Our Lowest Prices Of The Season
 
 In store and online.
+
+shop the sale shop women shop men shop kids' shop shoes shop jewelry shop lingerie shop baby shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor Fit For The Chill
+
+40-50% Off Coats and Jackets For The Family
+
+shop coats and jackets shop men's coats and jackets shop kids' coats and jackets shop women's coats and jackets shop women's coats and jackets shop men's coats and jackets shop bedding30-50% Off Home Sale
+
+Save on select styles.
+
+shop the home saleDiamond Sale
+
+Final days, Wednesday, October 8 through Tuesday, October 21.
+
+40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar Clearance 50-70% Off
+
+Online only.
 
 shop clearance JCP Rewards
 
