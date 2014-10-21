@@ -265,11 +265,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     6.  See all Support
 3.  Contact Us
     1.  See all Contact Us
-    2.  Sales inquiry? Chat online with a live representative.  
-        Chat is always online.
-    3.  Order Assistance inquiry? Chat online with a live representative  
-        Monday-Friday 9am-9pm EST  
-        Saturday-Sunday 9am-6pm EST
+    2.  Sales inquiry?
+    3.  Order Assistance inquiry?
     4.  Call us **Sales Center**  
         1-855-2-LENOVO (1-855-253-6686)  
         Mon - Fri: 9am - 9pm (EST)  
