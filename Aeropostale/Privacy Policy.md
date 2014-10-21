@@ -303,9 +303,6 @@ Aéropostale Go
         *   ALL BOTTOMS
         *   ALL ACCESSORIES
     
-    *   Room Clearance - 33885766
-        *   View All
-    
     *   VIEW ALL
     
     *   ALL TOPS
@@ -321,8 +318,6 @@ Aéropostale Go
     *   ALL BOTTOMS
     
     *   ALL ACCESSORIES
-    
-    *   View All
 *   Brands
 *   Aero Now
 
