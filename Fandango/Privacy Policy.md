@@ -4,39 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Fury (2014)
     *   Gone Girl
-    *   Dracula Untold
+    *   The Book of Life
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
-    *   Annabelle
+    *   The Best of Me
+    *   Dracula Untold
     *   The Judge (2014)
+    *   Annabelle
     *   The Equalizer
-    *   Addicted
     *   The Maze Runner
-    *   The Boxtrolls
-    *   Left Behind
-    *   Meet the Mormons
+    *   Addicted
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Best of Me
-    *   The Book of Life
-    *   Fury (2014)
-    *   The Tale of the Princess Kaguya
-    *   Birdman
-    *   Dear White People
-    *   A Matter of Faith
-    *   Listen Up Philip
-    *   The Golden Era (2014)
-    *   Housebound
-    *   Rudderless
+    *   John Wick
+    *   Ouija
+    *   Laggies
+    *   23 Blast
+    *   White Bird in a Blizzard
+    *   Citizenfour
+    *   Glen Campbell... I'll Be Me
+    *   Force Majeure (Turist)
+    *   The Principle
+    *   Revenge of the Green Dragons
+    *   Rhymes for Young Ghouls
     *   See All Opening This Week
     
     Coming Soon
     
-    *   John Wick
-    *   Ouija
-    *   Laggies
     *   Before I Go to Sleep
     *   Nightcrawler
     *   Big Hero 6
@@ -45,6 +42,9 @@ Gift Cards | Offers | Visa Signature
     *   The Hunger Games: Mockingjay, Part 1 (2014)
     *   Horrible Bosses 2
     *   Penguins of Madagascar
+    *   The Pyramid
+    *   Exodus: Gods and Kings
+    *   Annie (2014)
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Holy Batman! Check out release dates for DC's slate of upcoming movies Read More See the first official 'Jurassic World' poster. Javier Bardem wanted for 'Pirates 5' Read More WATCH: Chris Hemsworth takes on the giant whale Moby Dick in 'Heart of the Sea' Read More Explore More
+*   Movie News Featured Movie News First Look: Is this your new 'Frozen'? Read More Colin Farrell as Dr. Strange? Tom Hardy in next 'X-Men' movie? Read on... Read More 'Pacific Rim II' poster art: Just when you thought it was safe to go back in the water Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -313,9 +313,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Dracula Untold Free Gift**
+Offers **Mockingjay Collectible Cards**
 
-FREE AUDIOBOOK DOWNLOAD at Audible with Fandango ticket purchase. BUY TICKETS
+These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
 
 **#FandangoScareContest**
 
