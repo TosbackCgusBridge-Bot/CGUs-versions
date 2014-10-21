@@ -229,7 +229,7 @@ Or, try logging in again.
 
 Email sent!
 
-An email is on its way to you. If you don’t see it, try checking your Spam folder.
+An email is on its way to . If you don’t see it, try checking your Spam folder.
 
 Okay
 
