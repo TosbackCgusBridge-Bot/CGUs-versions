@@ -150,9 +150,9 @@ Transfer of personal data overseas
 
 As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
 
-Children under 13
+Individuals under 16
 
-The Economist Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
+The Economist Group does not intentionally or knowingly process personal information from individuals under the age of 16. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details or applicable data as defined by law have been collected.
 
 Changes to this statement
 
