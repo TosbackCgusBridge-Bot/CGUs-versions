@@ -63,6 +63,7 @@ Portions of this content are ©1998–2014 by individual mozilla.org contributor
 *   Contribute to this page
 
 *   Privacy
+*   Cookies
 *   Legal
 *   Report Trademark Abuse
 
