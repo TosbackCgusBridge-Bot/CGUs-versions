@@ -278,6 +278,7 @@ Aéropostale Go
     
     *   Guys - 43880186
         *   Bedding
+        *   Accessories
         *   NFL
     
     *   Bethany Room
@@ -288,8 +289,10 @@ Aéropostale Go
     
     *   Bedding
     
+    *   Accessories
+    
     *   NFL
-*   Aero Clearance
+*   Clearance
     
     *   Girls Clearance - 3595054
         *   VIEW ALL
@@ -303,13 +306,8 @@ Aéropostale Go
         *   ALL BOTTOMS
         *   ALL ACCESSORIES
     
-    *   VIEW ALL
-    
-    *   ALL TOPS
-    
-    *   ALL BOTTOMS
-    
-    *   ALL ACCESSORIES
+    *   Room Clearance - 33885766
+        *   View All
     
     *   VIEW ALL
     
@@ -318,6 +316,16 @@ Aéropostale Go
     *   ALL BOTTOMS
     
     *   ALL ACCESSORIES
+    
+    *   VIEW ALL
+    
+    *   ALL TOPS
+    
+    *   ALL BOTTOMS
+    
+    *   ALL ACCESSORIES
+    
+    *   View All
 *   Brands
 *   Aero Now
 
