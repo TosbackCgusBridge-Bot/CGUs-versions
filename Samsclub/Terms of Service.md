@@ -1,5 +1,9 @@
 Terms and Conditions of SamsClub.com
 
+*   Go to Instant Savings Terms &. Conditions
+*   Go to Cash Rewards Terms &. Conditions
+*   Go to Club Pickup Terms &. Conditions
+
 **Welcome to SamsClub.com.** This site is provided as a service to our Members. Please review the following basic rules that govern the use of our site (the "Agreement"). Please note that your use of our site constitutes your agreement to follow and be bound by these terms. If you do not agree to these terms, please do not use this site. Although you may "bookmark" a particular portion of this site and thereby bypass this Agreement, your use of this site still binds you to the terms. Since SamsClub.com may revise this Agreement at any time, you should visit this page periodically to review the terms of your use. At SamsClub.com, we reserve the right to update or modify these Terms and Conditions at any time without prior notice. Your use of the SamsClub.com Web site following any such change constitutes your agreement to follow and be bound by the Terms and Conditions as changed. For this reason, we encourage you to review these Terms and Conditions whenever you use this Web site.
 
 COPYRIGHTS AND TRADEMARKS
@@ -43,6 +47,149 @@ APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OF LIABILITY SET FORTH ABOVE, SO THI
 While SamsClub.com strives to provide accurate product and pricing information, pricing, pictorial or typographical errors may occur. SamsClub.com cannot confirm the price of an item until after it is ordered. In the event that an item is listed at an incorrect price or with incorrect information due to an error in pricing or product information, SamsClub.com shall have the right, at our sole discretion, to either refuse or cancel any orders placed for that item, or contact you for notification and instructions on such cancellation. Without limitation to said terms above, SAMSCLUB.COM does not represent that each item on this website is accurate in regards to pricing and product information and disclaims any liability as to such accuracy. In addition, unless otherwise noted, prices for items ordered on SAMSCLUB.COM do not include shipping costs. SAMSCLUB.COM reserves the right to limit quantities to normal retail purchases or one-per-Member or household, and to exclude resellers.
 
 We strive to provide you with the lowest costs possible on SamsClub.com as well as in our warehouses. However, sometimes a price online does not match the price in a warehouse. In our effort to provide you with the lowest costs in your particular geographic region, warehouse prices will sometimes differ from online prices. Prices and availability are subject to change without notice.
+
+INSTANT SAVINGS TERMS &. CONDITIONS Overview and Eligibility
+
+*   Participation in Instant Savings is subject to these terms and conditions, as well as the terms and conditions of the Sam's Club Membership, and the SamsClub.com/terms and conditions, both of which are incorporated herein by reference.
+*   The Instant Savings are available to all cardholders at least 18 years of age and in current, active status.
+*   Instant Savings are available in U.S. and Puerto Rico Sam's Club but offers may differ. Instant Savings are subject to change, availability, location, valid dates and limits.
+*   Instant Savings are limited-time promotional discounts that are electronically loaded on a member's card and automatically applied at the time of purchase of the item.
+*   Members must be in a current, active status to receive and redeem Sam's Instant Savings. Active members can access and view their Instant Savings via SamsClub.com, and the Sam's Club mobile application.
+*   See an associate at the Member Service Desk in club for details on featured Instant Saving. Instant Savings may take up to 24 hours to load to the membership account and are subject to varied valid dates.
+
+Enrollment
+
+*   Enrollment is automatic for Sam's Club Members. Instant Savings offers differ in the U.S. and in Puerto Rico. Active U.S. (excluding Puerto Rico) members can access and view their Instant Savings via SamsClub.com, and the Sam's Club mobile application. Instant Savings offers are not available in Mexico or for Mexican memberships.
+*   To make a request opt out of the Instant Savings Program, the member will need to contact the in-Club Member Services Desk. Opting out of the Instant Savings Program will prevent the member from receiving any future Instant Savings alerts, communications, or offers. Existing Instant Savings offers, already loaded to the member's account, will remain until their expiration date.
+*   The Sam's Club Membership has a 100% satisfaction guarantee. If at any time a member is not satisfied with their membership, Sam's Club will refund the entire membership fee.
+
+Instant Savings Offers
+
+*   Instant Savings may be subject to individual terms and conditions, including limitations on the number of items that may be purchased and the number of times the offer can be redeemed. These terms and conditions will be listed in conjunction with each item on your account summary shown on SamsClub.com and the Sam's Club mobile application.
+*   Each Instant Savings offer will include an available date and an expiration date. These dates will be listed in conjunction with each item on the member's account summary on the website, and mobile application. An offer cannot be redeemed before its designated available date or after its designated expiration date.
+*   To redeem an Instant Savings offer, member must purchase the promotion item(s). The discount will be automatically applied to the transaction receipt when the item is scanned at the register.
+*   When an Instant Savings offer is redeemed, it will be removed from the member's account and will no longer be available for redemption. If a transaction for an item is voided, the associated Instant Savings offer is permanently voided and will not be reinstated to the member's account.
+*   Sam's Club makes every effort to assign Instant Savings based upon products stocked in the preferred club of the membership account. however product availability is on a first-come, first-served basis and subject to item availability in club.
+*   There are no rain checks, credits or time extensions on Instant Savings for any reason (e.g., out-of-stock, item cancellation, or regional restrictions).
+*   Instant Savings are non-transferable and may only be redeemed for the product and item numbers designated in the promotion.
+*   Select Instant Savings are redeemable online at SamsClub.com. The individual Sam's Club Instant Savings offer will note which items are available online for redemption. The Instant Savings discount will be applied at checkout. Once applied at checkout, approximately one hour from placing the order, the discount will be deducted from the member's available number of offers.
+
+Changes to the Instant Savings Program
+
+*   The most up-to-date version of the Instant Savings terms and conditions are posted on SamsClub.com.
+*   Sam's Club reserves the right to end Instant Savings at any time. Notice of termination will be posted on the website. If the program is ended, an active membership account still will be able to redeem Instant Savings until the expiration dates listed in your account summary.
+*   Instant Savings terms and conditions may change without notice to the member. Sam's Club may make changes to the Instant Savings and these terms and conditions from time to time. These changes may include how Instant Savings are calculated, the frequency with which Instant Savings are made available, the terms associated with each Instant Savings offer, the number of Instant Savings loaded in the course of a year, etc. Any changes to these terms and conditions will be posted on the website. Members are encouraged to check the site often.
+*   A member's continued participation in Instant Savings constitutes acceptance of any changes to these terms and conditions.
+*   In the case of Club Pickup purchases, Instant Savings can be redeemed at point of sale in the club or online with the primary or household card so long as the purchase and pickup occur prior to the Instant Savings expiration dates.
+
+General Terms
+
+*   To learn how the personal information collected in conjunction with Instant Savings may be used, please visit the website, and follow the link to our Privacy Policy.
+*   The following Instant Savings information can be viewed on one or all of the following: SamsClub.com or Sam's Club mobile application:
+*   Current and upcoming Instant Savings offers
+*   Number and dollar amount of Instant Savings currently available
+*   Number and dollar amount of Instant Savings redeemed over the last 12 months
+
+*   If an item is returned for a refund and that product had an Instant Savings associated with it, the return will be subject to the Sam's Club Refund Policy, except that the member will only be credited the net amount of the purchase (retail price minus the Instant Savings amount). Please Note: Notwithstanding the terms of the Sam's Club Refund Policy, all Instant Savings refunds require the sales receipt.
+*   All items, services, prices and Instant Savings offers communicated via SamsClub.com, on the Sam's Club mobile application, in any digital or printed materials, by a Sam's Club associate, or via any other means are subject to change without notice and are subject to conditions, restrictions, limitations, availability and qualifications as dictated by Sam's Club.
+*   Sam's Club does not guarantee the accuracy or completeness of the Instant Savings offers, discounts item numbers or item information contained on the website, on the Sam's Club mobile application, or in any printed materials.
+*   Sam's Club makes no warranties, expressed or implied, and assumes no liability or responsibility for any errors, inaccuracies or omissions, or changes in the content of the website, Sam's Club mobile application or any printed materials.
+*   Sam's Club reserves the right to discontinue the participation privileges of any member who engages in any fraudulent activity or uses the program in a manner inconsistent with these terms and conditions or any federal or state laws.
+*   Discontinued participation privileges may result in the loss of all accumulated Instant Savings and benefits and may result in revocation of membership from Sam's Club.
+*   To view the My Instant Savings Account page, visit SamsClub.com/instantsavings or use the Sam's Club mobile application. Member must be a current, active member and have a registered email and select a home club on SamsClub.com in order to access the Instant Savings account page online.
+
+CASH REWARDS TERMS &. CONDITIONS
+
+The Sam's Club Cash Rewards program is a membership benefit exclusively for U.S. Sam's Club Plus Members. The program allows Plus Members to accrue Cash Rewards on qualifying purchases at Sam's Club. Earned Cash Rewards are loaded on to the membership account at the end of each membership year (12 -month period) and are then available for redemption as cash or credit.
+
+How to Earn and Use Cash Rewards
+
+Sam's Plus Members earn $10 in Cash Rewards for every $500 in qualifying pre-tax purchases during a membership year with a maximum reward of $500 per 12-month period. Cash Rewards are loaded onto the Sam's Plus Member account about two months before the end of the membership year (award date) and may be redeemed on purchases in clubs, on SamsClub.com, or for conversion to cash in the club. Returns for refund of qualified purchases are deducted from calculation. If a member earns $2,000 in Cash Rewards (Maximum Balance) and that amount remains on the membership account, Cash Rewards will stop accruing. A member must lower the amount below the Maximum Balance to accrue Cash Rewards again. Only qualifying purchases made by the primary, complimentary or company cardholder in a Sam's Club facility located in the United States (excluding Puerto Rico) or on SamsClub.com or SamsClub.com-hosted websites qualify for Cash Rewards. Business Membership Add-On cardholders do not qualify to earn Cash Rewards for themselves or their primary cardholder. Returns of qualifying purchases are deducted from accrual of Cash Rewards.
+
+Maximum Balance of Cash Rewards
+
+At any time a total of earned Cash Rewards reaches its Maximum Balance of $2,000, Cash Rewards will no longer accrue. A member must reduce the Maximum Balance of Cash Rewards (use for purchase or convert to cash) in order for Cash Reward accrual to begin again. There is no retroactive credit of Cash Rewards earned for purchases made during the time of Maximum Balance.
+
+Only the primary or complimentary cardholders on a membership account may access and redeem the Cash Rewards loaded on the membership account. Purchases made from a Business Member's 'Company Card' Membership card count towards the Member Company's annual Cash Reward, but a Company cardholder will not have access to view or redeem Cash Rewards.
+
+Cash Rewards are not earned for purchases of the following:
+
+*   Alcoholic Beverages
+*   Tobacco
+*   eCigarettes
+*   Fuel
+*   Milk
+*   External Websites- merchandise or services sold or provided on websites not hosted by Sam's Club - even if accessed originally through SamsClub.com.
+*   Auctions
+*   Gift Cards, including third party Gift Cards
+*   Inventory belonging to third parties
+*   Lottery tickets
+*   Membership
+*   Service contracts (example - mobile phone contracts)
+*   Pharmacy - prescriptions
+*   Photo Center
+*   Postage stamps
+*   Limited duration third party merchandise sales within clubs
+*   Offers and Services provided by third parties (examples - auto buying program, insurance, travel services, legal services, merchant credit card payment processing services, etc.)
+*   Services and Labor (examples - delivery, tire installation, etc.)
+*   Taxes and fees (including sales tax, deposits, miscellaneous fees etc.)
+*   Service Plans
+
+Cash Rewards cannot be earned where application of the program would be prohibited by law or regulation. Sam's Club reserves the right to add, modify or delete qualifying restrictions on product categories or products from the above list without notice. Sam's Club reserves the right to correct any errors it discovers resulting in changes to Cash Rewards.
+
+After awarding Cash Rewards, any qualifying purchase balance (below or over $500) will be rolled over to the next membership year and accrue the following year. At the time of award, a member must be an active Sam's Plus Member. If a Sam's Plus Membership is terminated, cancelled, downgraded to a lower level of membership during the course of the membership year, or revoked by Sam's Club accrual of Cash Rewards shall be forfeited. Sam's Plus Memberships that are terminated, cancelled, or are downgraded to a lower level of membership, but have already earned Cash Rewards awarded from a previous membership year, will have access to the earned Cash Rewards at the club locations. If a revoked membership has earned Cash Rewards from a previous membership year, that amount shall be mailed to the most recent membership address on file. The revoked member shall not be able to collect Cash Rewards in a Sam's Club.
+
+Sam's Plus Members that cancel or do not renew will have approximately 1 year to cash any previously awarded Cash Rewards at U.S. Sam's Club location. Sam's Club reserves the right to issue a Sam's Club/Walmart gift card for any outstanding Cash Rewards balance after 1 year. Outstanding Cash Rewards balances may be subject to state unclaimed property laws.
+
+Cash Rewards are non-transferable and non-assignable. Sam's Club reserves the right to require photo identification.
+
+This program will be governed by the laws of the State of Arkansas. Terms and Conditions and the Cash Rewards Program shall be interpreted, construed, enforced and governed in all aspects in accordance with the exclusive jurisdiction and laws of Arkansas. Any suit, cause of action, or legal proceeding arising under or relating to the Cash Rewards Program, including these Terms and Conditions, shall be in the exclusive jurisdiction and venue of the state courts of Arkansas, situated in Benton County, Arkansas or the federal courts situated in the Western District of Arkansas.
+
+Sam's Club reserves the right to amend, cancel or temporarily suspend the Cash Rewards Program, in whole or in part, or change any of the Terms and Conditions at any time for any or no reason, including without limitation, in the event of fraud, abuse of Program privileges or violations of Terms and Conditions, as determined in Sam's Club's sole discretion without notice to the Member and which may result in the forfeiture of Cash Rewards not yet redeemed.
+
+**These terms and conditions are subject to change without notice.**
+
+CLUB PICKUP (FORMERLY CLICK N PULL) TERMS &. CONDITIONS
+
+Club Pickup is a free service for Sam's Club members that lets you order online and pick up at any Sam's Club in the US and Puerto Rico. Simply place your order online, then pick up your items from the designated Sam's Club at a time that fits your schedule.
+
+Sam's Club reserves the right to change the terms and conditions or cancel Club Pickup at any time. Participation in Club Pickup is subject to these terms and conditions, as well as the terms and conditions of Sam's Club Membership, SamsClub.com, Instant Savings, and other Sam's Club programs, all of which are incorporated herein by reference.
+
+Club Pickup Pricing
+
+*   All prices are shown in US dollars. Prices may vary by club and dates. For this reason, the price of an item you order online may be different the day you pay for it in the Club. To ensure you pay the price you see online, you can pay online at the time of ordering.
+*   Prices for fresh produce items will vary by club and by weight and therefore must be paid for in the Club and not online.
+*   Pricing errors may occur on the SamClub.com site .We always attempt to correct all pricing errors as soon as they are discovered, or as soon as Samsclub.com receives notice of an error. SamsClub.com reserves the right to cancel any orders containing pricing errors, with no further obligations to you, even after your receipt of an order confirmation notice from SamsClub.com.
+
+Club Pick up Weighted Items:
+
+*   The weight of some items may vary from what you order . When this occurs, the price will also reflect that change. . For example, if you have ordered 5 lbs of ground chuck and if we only have 6lbs ground chuck in stock, you will be charged for 6lbs. \*\*Prices in 'the cart' for weighted items are estimates only.
+
+Club Pickup Payment
+
+Members can pay by any MasterCardÂ® DiscoverÂ® and other forms of payment types that are currently accepted in club. We do not currently accept Visa Credit and American Express cards for orders paid for in Club. (You may use Visa and American Express for online orders paid for on SamsClub.com).
+
+Current In-Club payment options:
+
+*   Sam's Club credit account
+*   DiscoverÂ®
+*   MasterCardÂ®
+*   Debit card
+*   Gift Cards
+*   Visa (Debit only)
+*   Cash
+
+Authorization Process:
+
+When you place an order, SamsClub.com authorizes your credit card to make sure sufficient credit is available. Also note that all credit/debit card holders are subject to validation checks by third parties and authorization by the card issuer. If the issuer of the card refuses to authorize payment or any other validation checks return adverse results, we will not accept your order. We will not be liable for non-processing of your Club Pickup order. Please contact your card issuer or your bank for the reason of refusal.
+
+Taxes
+
+We are required by law to collect all taxes based on where your order is being processed. When you review your order total during the checkout process, you'll see the estimated sales tax. The actual charge to your credit card will reflect the applicable state and local taxes. Taxes may be applied to pre-discounted prices depending on state and local laws.
+
+Order Cancellation
+
+Orders that are not picked up within the Club two days after the selected Club pickup date will automatically be cancelled and items returned to inventory. If the Club Pickup order was prepaid, you will not be charged if the order is cancelled.
 
 DMCA Notice
 
