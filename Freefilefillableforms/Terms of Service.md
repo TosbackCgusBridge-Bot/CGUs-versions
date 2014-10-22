@@ -1,4 +1,4 @@
-Free File: Do Your Federal Taxes for FreeSkip Navigation
+Free File Fillable Forms is ClosedSkip Navigation
 
 *   Subscriptions
     *   IRS Guidewire
@@ -33,54 +33,24 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-**Free File Topics**
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Closed
 
-*   Where’s my Refund
-*   Earned Income Tax Credit (EITC)
-*   Payment Options
-*   Free Tax Prep by Volunteers
-*   **Filing Home**
+The Free File Fillable Forms program has closed for this year. The program operates from January through October 20 each year. From October 16-20, Free File Fillable Forms remains available only for correcting and e-filing rejected returns and for printing copies of returns.
 
-Like Share Print Free File: Do Your Federal Taxes for Free
+  
+After October 20, you will not be able to access your Free File Fillable Forms account or the associated tax return information.
 
-**Español**
+**We cannot help you access your Free File Fillable Forms account after October 20.**
 
-**Get a jump on your taxes with Free File.** Free File companies will securely hold your completed tax return until Jan. 31 when the IRS begins accepting returns. Free File Fillable Forms will be available starting Jan. 31.
+If you were not able to successfully e-file your return but printed a copy, mail it in. If you do not have a copy to mail, you will have to prepare another. Return to Filing Your Taxes to find other e-file options.
 
-Let Free File do the hard work for you with brand-name software or Free File Fillable Forms. You can prepare and e-file your federal return for free.
+*   Need to get up-to-date refund information? Go to Where's My Refund
+*   Need a copy of your federal return? If the IRS has accepted your return, Get a Transcript  
+*   Do you want to pay your balance or make estimated tax payments? Access Direct Pay
 
-Income below $58,000: Free File Software  
- 
+The Free File Fillable Forms program welcomes your comments. WIFreeFileCS1@irs.gov
 
-*   Use free tax prep software
-*   Software makes taxes easier
-*   State returns available, some are free
-*   Find Free File software
-
-   
-
-**Free File Software**
-
-*   Frequently asked questions
-*   How to use Free File (PDF)
-*   Free File benefits (PDF)
-*   About the Free File Alliance
-*   What you need to get started
-
-    Income above $58,000: Free File Fillable Forms  
- 
-
-*   Available January 31, 2014
-*   Fillable, electronic versions of the paper forms
-*   Must know how to do your taxes yourself
-*   Does math. offers only basic guidance
-*   State tax prep is not available
-
-   
-
-After you select Free File software, click on "leave IRS site" to get to the list of software providers.  
-
-Page Last Reviewed or Updated: 29-Jan-2014
+Page Last Reviewed or Updated: 14-Oct-2014
 
 *   Resolve an Issue
     
