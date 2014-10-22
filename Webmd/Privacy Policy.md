@@ -208,30 +208,7 @@ Symptoms| Doctors| Health Care Reform
     
     Sign up to receive WebMD's award-winning content delivered to your inbox.
 
-My WebMD Sign In, Sign Up
-
-My WebMD Sign In
-
-Please enter email address
-
-Enter your password
-
-Keep me signed in on this computer Show more Information
-
-If you select "Keep me signed in on this computer", you can stay signed in to WebMD.com on this computer for up to 2 weeks or until you sign out. This means that a cookie will stay on your computer even when you exit or close your browser which may reduce your levels of privacy and security. You should never select this option if you're using a publicly accessible computer, or if you're sharing a computer with others. Even if you select this option there are some features of our site that still require you to log in for privacy reasons.
-
-Forget your password? Having trouble signing in?
-
-Why should I  
-sign up for WebMD?
-
-With a WebMD Account you can:
-
-*   Track your way to weight loss success
-*   Manage your family's vaccinations
-*   Join the conversation
-
-See more benefits Sign Up Subscribe My WebMD Show Menu
+ Sign In |  Sign Up  |  Subscribe  My WebMD Show Menu
 
 *   My Tools
 *   My WebMD Pages
@@ -290,8 +267,9 @@ We may use information we collect about you to:
 *   Obtain your feedback on our sites and our offerings;
 *   Statistically analyze user behavior and activity;
 *   Provide you with more relevant content and advertisements.
-*   Conduct research and measurement activities. or
-*   Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities.
+*   Conduct research and measurement activities;
+*   Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities from WebMD. or
+*   Send you relevant offers and informational materials on behalf of our sponsors pertaining to your health interests.
 
 We may combine Personal and Non-Personal Information collected by WebMD about you, and may combine this information with information from external sources.  Third parties may also use Non-Personal Information in order to display advertising that reflects the interests and preferences of our user community.
 
@@ -408,7 +386,7 @@ If you do not want your Personal Information used by WebMD as provided in this P
 
 If you have registered and desire to delete any of your Personal Information you have provided to us from our systems please contact us using the contact information listed below. Upon your request, we will delete your Personal Information from our active databases and where feasible from our back-up media. You should be aware that it is not technologically possible to remove each and every record of the information you have provided to the WebMD Web Sites from our servers.
 
-If you decide that you would prefer not to receive personalized email or secure electronic messages from the WebMD Health Manager tool, you may "Opt-out" of the service by clicking on the settings tab on your Health Manager home page and changing your email preference or following the unsubscribe instructions included in each promotional email.
+If you decide that you would prefer not to receive personalized email or secure electronic messages from the WebMD Health Manager tool, you may "Opt-out" of the service by clicking on the settings tab on your Health Manager home page and changing your email preference or following the unsubscribe instructions included in each promotional email. Emails that WebMD sends with opportunities from WebMD or with offers or informational materials from WebMD on behalf of our sponsors will contain an opportunity to unsubscribe from getting additional emails of that type in the future from WebMD unless you resubscribe.
 
 Cookies
 
@@ -433,8 +411,12 @@ Information collected by WebMD about you is used by WebMD to:
 *   statistically analyze user behavior and activity including how frequently areas of the site are visited and how many emails are received and opened,
 *   provide you with more relevant content or advertising both on the WebMD Web Sites or on other web sites that you visit after you leave the WebMD Web Sites. and
 *   conduct research and measurement activities, including those described below.
+*   Send you personalized emails or secure electronic messages pertaining to your health interests, including news, announcements, reminders and opportunities from WebMD. or
+*   Send you relevant offers and informational materials on behalf of our sponsors pertaining to your health interests.
 
-WebMD may combine Personal and Non-Personal Information collected by WebMD about you, and may combine this information with information from external sources.  WebMD Health Manager has the ability to use Personal Information that you provide to send you personalized emails or secure electronic messages. During registration or at any time, you have the option of choosing whether or not you wish to receive emails pertaining to your health interests, including news, announcements, reminders and opportunities. The WebMD Health Manager email service requires an "opt-in" authorization from you.
+WebMD may combine Personal and Non-Personal Information collected by WebMD about you, and may combine this information with information from external sources.
+
+In addition to the emails described above that are made available to all registered WebMD visitors, users of the WebMD Health Manager tool can receive personalized emails or secure electronic messages based on Personal Information entered into the tool. The WebMD Health Manager email service requires an "opt-in" authorization from you.
 
 We also use Cookies in order to enable us to conduct surveys for our own use and on behalf of our advertisers. These Cookies are used to determine whether you have seen certain content or advertising so that we may request your opinions. We may also use Cookies to authenticate respondents or to help you pick up where you left off in a survey. If you have Cookies disabled you may not be able to participate in some surveys.
 
@@ -499,7 +481,7 @@ WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode stan
 
    
 
-Effective Date: September 16, 2014
+Effective Date: October 21, 2014
 
 ©2014 WebMD, LLC. All rights reserved.
 
