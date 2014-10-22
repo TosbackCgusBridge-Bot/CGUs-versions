@@ -128,7 +128,7 @@ E-mails
 
 The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
 
-To find out more about the technologies used in these e-mails sent on our behalf, please visit http://www.doubleclick.com/privacy/index.aspx. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.
+To find out more about the technologies used in these e-mails sent on our behalf, please visit http://www.sailthru.com/legal/#privacy. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.
 
 Advertisements
 
