@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News First Look: Is this your new 'Frozen'? Read More Colin Farrell as Dr. Strange? Tom Hardy in next 'X-Men' movie? Read on... Read More 'Pacific Rim II' poster art: Just when you thought it was safe to go back in the water Read More Explore More
+*   Movie News Featured Movie News Could 'The Conjuring' director James Wan be taking on a DC movie next? Read More Colin Farrell as Dr. Strange? Tom Hardy in next 'X-Men' movie? Read on... Read More 'Insidious 3' first photos. Eli Roth's 'Cabin Fever' remake will be directed by...Eli Roth Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
