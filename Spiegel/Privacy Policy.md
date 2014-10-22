@@ -440,9 +440,9 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Gesundheit
 *   einestages
 *   Uni
-*   Schule
 *   Reise
 *   Auto
+*   Stil
 *   Wetter
 
 *   **DIENSTE**
@@ -481,6 +481,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Harvard Business Man.
 *   buchreport
 *   buch aktuell
+*   Der Audio Verlag
 *   SPIEGEL-Gruppe
 
 *   **WEITERE**
