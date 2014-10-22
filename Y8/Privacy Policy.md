@@ -16,7 +16,6 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 *   Free Games
 *   New Games
 *   Best of new games
-*   Best ranked games
 *   Most Popular Games
 *   Games for girls
 *   Categories
