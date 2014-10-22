@@ -119,7 +119,6 @@ legal@plentyoffish.com
   
 
 **Community**  
-eVow  
 Passion Match  
 Speed Dating  
 Success Stories  
