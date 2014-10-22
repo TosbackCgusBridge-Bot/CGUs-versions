@@ -237,19 +237,17 @@ Last Updated On: May 30, 2014
 
 Print Cite This! Close  Please copy/paste the following text to properly cite this HowStuffWorks article:  
   
-"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  21 October 2014. Citation &. Date Feedback
+"Privacy Policy"  01 April 2000.  HowStuffWorks.com. <http://www.howstuffworks.com/privacy.htm>.  22 October 2014. Citation &. Date Feedback
 
 *   About Us
 *   Our Shows
 
-*   About Us
-    *   About HowStuffWorks
+*   *   About HowStuffWorks
     *   Awards
     *   Advertising
     *   Working for HowStuffWorks
     *   Freelance Writers: Apply to Write for HowStuffWorks
-*   Our Shows
-    *   Stuff You Should Know
+*   *   Stuff You Should Know
     *   Stuff You Missed in History Class
     *   BrainStuff
     *   Stuff to Blow Your Mind
@@ -273,13 +271,13 @@ MORE STUFF
 
 *   Store
 *   Blogs
-*   HSW Tools
 *   RSS
 *   Maps
 *   Podcasts
 *   Quizzes
 *   Newsletters
 *   Video
+*   Site Map
 *   HSW Brazil
 *   HSW China
 
