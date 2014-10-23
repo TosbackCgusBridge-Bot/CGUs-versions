@@ -59,7 +59,7 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-Feedback Give us feedback We want JobGo to rock, so we would appreciate if you had the time to give us some feedback on how we're doing. Your suggestions and comments help us improve and play an important part in making the site more user friendly. Send cancel Global customer service: support@jobgo.com
+Global customer service: support@jobgo.com
 
 *   Recruiter membership
 *   Privacy policy
