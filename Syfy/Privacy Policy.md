@@ -263,9 +263,9 @@ Behold My Flock Behold My Flock
 
 Murphy proves he is the zombie Messiah and Charlie takes a bullet for him.
 
-Inside Haven - Season 5, Episode 6 Inside Haven - Season 5, Episode 6
+Haven - Sneak Peek - Nowhere Man Haven - Sneak Peek - Nowhere Man
 
-The cast talks Season 5, Episode 6
+Get a sneak peek at the next episode of Haven, airing Friday at 7/6c on Syfy
 
 *   FAQ
 *   Feedback
