@@ -9,7 +9,7 @@ Owner Benefits
 
 Pay My Bill
 
-Lexus Enform®
+Lexus Enform
 
 Scheduled Maintenance
 
@@ -40,7 +40,7 @@ Vehicle Library
 
 *   Sedans
 *   SUVs
-*   Convertibles
+*   Coupes
 *   Hybrids
 *   F Performance
 *   Future
@@ -75,7 +75,7 @@ Starting at $47,700\*
 
 LS
 
-Starting at $72,140\*
+Starting at $72,520\*
 
 *   • 16/24 City/Hwy MPG\*
 *   • RWD or AWD
@@ -100,6 +100,13 @@ Starting at $82,930\*
 
 *   • 5.7-liter V8
 *   • Full-Time 4WD
+
+RC
+
+Starting at $42,790\*
+
+*   • 19/29 City/Hwy MPG\*
+*   • RWD or AWD
 
 IS C
 
@@ -138,7 +145,7 @@ Starting at $60,430\*
 
 LS HYBRID
 
-Starting at $120,060\*
+Starting at $120,440\*
 
 *   • 19/23 City/Hwy MPG\*
 *   • AWD
@@ -173,10 +180,6 @@ LF-LC
 Concept Vehicle
 
 NX
-
-Coming Soon
-
-RC
 
 Coming Soon
 
