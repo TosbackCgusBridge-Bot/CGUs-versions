@@ -208,7 +208,7 @@ Symptoms| Doctors| Health Care Reform
     
     Sign up to receive WebMD's award-winning content delivered to your inbox.
 
- Sign In |  Sign Up  |  Subscribe  My WebMD Show Menu
+Sign In| Sign Up | Subscribe My WebMD Show Menu
 
 *   My Tools
 *   My WebMD Pages
