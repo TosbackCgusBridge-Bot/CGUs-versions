@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Oct 21, 2014 Tips and Tools for Conducting Effective PIAs in Today’s Complex Privacy Landscape
-
-Privacy professionals have found themselves at the vortex of a data storm, trying keep pace with emerging technologies, changing business requirements and a fluid regulatory landscape to protect their brands from significant compliance risk. Privacy Impact Assessments are an established tool to help organizations identify, assess and alleviate any privacy risks associated with new products and business initiatives and have been introduced as a requirement of many global privacy laws.  But when should you conduct a PIA? How do you determine the scope?
-
 Wed, Oct 29, 2014 ICANN Los Angeles Recap Webinar - Preparing for gTLDs
 
 With more than 400 new gTLD registries now delegated and over 2.6 million new gTLD registrations, a changing Internet governance landscape, and requirements for enhancing ICANN accountability resulting from the IANA transition, assessing the impact on your business is vital.  Join Domain Management and gTLD Experts, Elisa Cooper and Matt Serlin of MarkMonitor® for guidance on navigating this complex environment.  
@@ -115,8 +111,16 @@ Due to the evolution of personalized, data-driven digital marketing, companies n
 But how should you use this data? And at what point does the information known about your consumers—and the ways you use this information—risk consumer privacy? Is there such thing as too much data?  
  
 
+Sun, Nov 9, 2014 publisher forum: Making Media Work
+
+Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
+
 *   OTA Blog
 *   Newsletters
+
+Wed, Oct 22, 2014 Passage of Data Breach Legislation
+
+**With the rapid surge in data breaches impacting millions of households this year, OTA was optimistic on the possible passage of data breach legislation**.  Unfortunately it is appearing very unlikely we will see any such legislation, driven in part by the partisan efforts and trade groups who are focused on protecting their business member's short-term interests and consumer advocates who appear to be unwilling to compreomise.  OTA continues to be a voice of reason advocating a framework modeled off of CAN-SPAM and COPPA, providing businesses with clarity
 
 Wed, Oct 15, 2014 Sen Franken Calls DOJ to Shut Down Stalking Apps Sen. Al Franken is pushing the Justice Department to do more to protect smartphone users from "stalking apps" that surreptitiously track their targets. In a letter to U.S. Attorney General Eric Holder on Monday, Franken noted the department's work on the issue - including the recent indictment of a man who operated one spyware app, StealthGenie - but said it needs to go further. OTA supports this effort. Share your views and interest in signing on in support of this effort. Read more >. Fri, Sep 26, 2014 Email Capture at Retail Point of Sale - Call for Best Practices
 
@@ -126,7 +130,7 @@ Thu, Sep 25, 2014 Rupert Murdoch's News Corp vs Google - A war of words
 
 The anxiety and class between major publishers and content providers vs dominate market players including Google is at an all time high. In News Corp's submission to the EU it asserts that Google is a “platform for piracy and the spread of malicious networks” and “a company that boasts about its ability to track traffic \[but\] chooses to ignore the unlawful and unsavory content that surfaces after the simplest of searches”.   Share your thoughts and perspectives.  Are such claims legitimate?   See
 
-Wed, Sep 24, 2014 Online Publishers Push For Trust As we head towards National Cybersecurity Awareness month, publishers and increasingly businesses are pushing back and blocking data collection by Facebook and others, while others are blocking ads outright. Leading publishers are now calling for the support of "Do Not Track" as they are finding their brands and users are being compromised and marginalized by dominate market players, impacting consumer confidence and trust of online content. Resources
+Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
