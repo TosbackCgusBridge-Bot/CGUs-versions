@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Could 'The Conjuring' director James Wan be taking on a DC movie next? Read More Colin Farrell as Dr. Strange? Tom Hardy in next 'X-Men' movie? Read on... Read More 'Insidious 3' first photos. Eli Roth's 'Cabin Fever' remake will be directed by...Eli Roth Read More Explore More
+*   Movie News Featured Movie News Could 'The Conjuring' director James Wan be taking on a DC movie next? Read More Here's when we'll see the 'Avengers: Age of Ultron' trailer Read More Could we see more 'John Carter' movies? Plus, new 'Foxcatcher' photos are intense Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -313,13 +313,13 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Mockingjay Collectible Cards**
+Offers **John Wick Free Gift**
+
+FREE GAME DOWNLOAD of PAYDAY 2 with Fandango ticket purchase. BUY TICKETS
+
+**Mockingjay Collectible Cards**
 
 These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
-
-**#FandangoScareContest**
-
-Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
 
 **The Best of Me Sweepstakes**
 
