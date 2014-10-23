@@ -27,7 +27,7 @@ We use your information to provide and improve our services, customize services 
 
 **Email Address**: We use your email address only to allow you to log in to your account, send you confirmations (of your registration, purchase, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by adjusting your email settings at http://app.dictionary.com/users/settings or by clicking on the "unsubscribe" link at the bottom of the email. For specific services, you can unsubscribe here: Word of the Day unsubscribe or Reference of the Day unsubscribe. We will also use your email address to respond to your customer service inquiries. If you are under the age of 13, certain messaging and site functionality may be non-existent or limited.
 
-**Phone Number**: We use your mobile phone number only to send you SMS messages that you've requested. To stop receiving SMS messages, please text STOP to 44636.
+**Phone Number**: We use your mobile phone number only to send you SMS messages that you've requested. To stop receiving SMS messages, please enter your mobile number’s corresponding email address here: http://dictionary.reference.com/help/faq/wordoftheday/index.html#unsubscribe.
 
 **Credit Card Information**: We use your credit card information only to process your purchases and to detect and prevent fraud.
 
