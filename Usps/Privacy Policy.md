@@ -30,7 +30,6 @@ End of sub links*   Careers go to Doing Business with Us header
     *   Compensation &. Benefits
     *   Career Development
     *   Workplace Culture
-    *   Sales and Marketing Jobs
     *   USPS Employees
 End of sub links*   Doing Business with Us
     *   Suppliers
