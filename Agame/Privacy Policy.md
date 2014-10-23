@@ -174,7 +174,7 @@ Copyright © 2014 SPIL GAMES B.V. All rights reserved.
 
 Done Close Congratulations \[username\]!
 
-You're now officially a member of**Agame.com!**
+You're now officially a member of **Agame.com!**
 
 Now you have access to all our features!
 
@@ -182,7 +182,7 @@ Welcome to the world of better gaming.
 
 Play now Done Close Congratulations \[username\]!
 
-You're now officially a member of**Agame.com!**
+You're now officially a member of **Agame.com!**
 
 Now you have access to all our features!
 
@@ -190,7 +190,7 @@ Welcome to the world of better gaming.
 
 Let's start and create an avatar!
 
-Create an avatar orPick an Avatar Successfully linked Close Your account is linked!
+Create an avatar or Pick an Avatar Successfully linked Close Your account is linked!
 
 From now on you can login with your social network account or your Agame.com account.
 
@@ -202,7 +202,7 @@ Close Successfully linked Close Your account is linked!
 
 From now on you can login with your social network account or your Agame.com account.
 
-Create an avatar orClose pop-up SIGN IN Use your social network Log in with Facebook Log in with Google or sign in below Sorry, we were unable to sign you in. Try again!
+Create an avatar or Close pop-up SIGN IN Use your social network Log in with Facebook Log in with Google or sign in below Sorry, we were unable to sign you in. Try again!
 
 Forgot your username or password?
 
