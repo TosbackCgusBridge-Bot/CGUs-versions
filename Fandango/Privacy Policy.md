@@ -39,7 +39,7 @@ Gift Cards | Offers | Visa Signature
     *   Big Hero 6
     *   Beyond the Lights
     *   Dumb and Dumber To
-    *   The Hunger Games: Mockingjay, Part 1 (2014)
+    *   The Hunger Games: Mockingjay - Part 1 (2014)
     *   Horrible Bosses 2
     *   Penguins of Madagascar
     *   The Pyramid
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Could 'The Conjuring' director James Wan be taking on a DC movie next? Read More Here's when we'll see the 'Avengers: Age of Ultron' trailer Read More Could we see more 'John Carter' movies? Plus, new 'Foxcatcher' photos are intense Read More Explore More
+*   Movie News Featured Movie News Could 'The Conjuring' director James Wan be taking on a DC movie next? Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More We double-dare you to watch this new 'Insidious 3' trailer in the dark... Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -336,7 +336,7 @@ New + Coming Soon
 *   Big Hero 6
 *   Interstellar
 *   Penguins of Madagascar
-*   The Hunger Games: Mockingjay, Part 1 (2014)
+*   The Hunger Games: Mockingjay - Part 1 (2014)
 *   The Hobbit: The Battle of the Five Armies
 *   Annie (2014)
 
