@@ -10,7 +10,7 @@ Employers: Post Jobs | Search Resumes Sign In Help Security
     *   Advanced Search
     *   Company Search
 *   Recommendations
-*   Post Resumes
+*   Add Resumes
     *   Resume Writing
 *   Advice &. Resources
     *   Career Resources
@@ -65,7 +65,7 @@ Sign up today. View Your Competition You account has been removed.
   
 
 *   HELP
-*   CareerBuilder Job Seeker Customer Service: **(866) 438-1485**
+*   CareerBuilder Support: **(866) 438-1485**
 *   **Get Connected:**
 
 CareerBuilder
