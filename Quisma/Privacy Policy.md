@@ -1,4 +1,4 @@
-Datenschutzerklärung und Nutzungsbedingungen deutschenglishspanishitaliandutchpolishrussiandanish
+Datenschutzerklärung und Nutzungsbedingungen czechdeutschdanishdutchenglishitalianpolishrussianspanish
 
 *   TOP\_NAVI
     *   Über QUISMA
