@@ -1,6 +1,6 @@
 KBB Privacy Statement
 
-This statement is effective as of 5/6/2014.
+This statement is effective as of 5/6/2014. Please see previous version here.
 
 Introduction
 
@@ -65,7 +65,7 @@ Automated Information. Information regarding your use of the KBB Sites may be co
 3.  email you open and links you click on within those email. and
 4.  your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
-Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as "Data Technologies". "Cookies" are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. "Local shared objects," sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
+Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as "Data Technologies"). "Cookies" are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. "Local shared objects," sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
 
 One or more Data Technologies may be used on the KBB Sites and other websites and mobile applications (that may not be the KBB Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.
 
@@ -106,7 +106,7 @@ Advertising that is customized based on predictions generated over time from you
 
 We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.
 
-Some companies disclose when they are using interest-based advertising programs on the KBB Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party advertisements on the KBB Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting www.aboutads.info/choices, www.networkadvertising.org/managing/opt\_out.asp and www.evidon.com. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
+Some companies disclose when they are using interest-based advertising programs on the KBB Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party advertisements on the KBB Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting www.aboutads.info/choices, www.networkadvertising.org/managing/opt\_out.asp and www.ghosteryenterprise.com. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
 
 **Information We Share**
 
