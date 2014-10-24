@@ -9,6 +9,7 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 *   Customer Service
 *   |
 *   Order Status
+*   Order Status
 *   |
 *   Wish List
 
@@ -317,11 +318,8 @@ It is our goal to make our privacy practices easy to understand. We have created
   
 
   
-
 Sign Up for Email  
-New subscribers receive a FREE SHIPPING offer.
-
-  
+New subscribers receive a FREE SHIPPING offer. Sign Up for Email  
   
 
 Customer Service
@@ -329,6 +327,12 @@ Customer Service
 1-800-821-5744  
 Email Us  
 FAQs  
+Site Map  
+
+Customer Service
+
+Email Us  
+International Shipping  
 Site Map  
 
 About Us
