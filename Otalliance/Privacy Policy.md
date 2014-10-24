@@ -104,16 +104,16 @@ Thu, Oct 30, 2014 Cyber Risk Summit
 
 The Cyber Risk Summit brings together cyber security specialists, technologists, entrepreneurs, industry experts and business leaders to tackle the challenges and opportunities that come with cyber security strategies. Featuring break out sessions keyed in for your needs connecting with peers and strategic insights, this is a day you can't afford to miss.
 
+Thu, Oct 30, 2014 Always On: The Digital Consumer
+
+Welcome to the age of the Internet of Things. Devices in our homes are connected to the Internet, our cars are starting to talk to each other wirelessly, and we are attaching mobile-enabled devices to our wrists to measure fitness. Awesome or scary? Most likely, a bit of both.
+
 Tue, Nov 4, 2014 Privacy &. Big Data Overload
 
 Due to the evolution of personalized, data-driven digital marketing, companies now have infinite amounts of personally identifiable information (PII) about their customers—and it just keeps exponentially growing. In fact, according to the Pew Research Center, the volume of business data worldwide—across all companies—doubles every 1.2 years.
 
 But how should you use this data? And at what point does the information known about your consumers—and the ways you use this information—risk consumer privacy? Is there such thing as too much data?  
  
-
-Sun, Nov 9, 2014 publisher forum: Making Media Work
-
-Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
 
 *   OTA Blog
 *   Newsletters
