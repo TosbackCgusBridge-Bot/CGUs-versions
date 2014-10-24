@@ -9,316 +9,123 @@ Aéropostale Go
 
 *   Girls
     
-    *   FEATURED SHOPS - 3541049
-        *   NEW ARRIVALS
-        *   Pretty Little Liars
-        *   Bethany Mota
-        *   Uniform Looks
-        *   Outfit Guide
-        *   Brands We Love
-        *   Live Love Dream
-        *   Shoe Bar
-        *   Extended Sizes
-        *   Web Exclusives
-        *   CLEARANCE
-            *   Clearance Tops
-            *   Clearance Bottoms
-            *   Clearance Accessories
-    
-    *   SHOP BY CATEGORY - 3541050
-        *   TOPS
-            *   Tees
-            *   Camis + Tanks
-            *   Polos
-            *   Shirts
-            *   Hoodies + Sweatshirts
-            *   Sweaters + Cardigans
-        *   BOTTOMS
-            *   Jeans
-            *   Leggings
-            *   joggers + sweats
-            *   Pants
-            *   Shorts
-            *   Skirts
-        *   Dresses
-        *   OUTERWEAR
-        *   Footwear
-            *   Boots
-            *   Sneakers
-            *   Flats
-            *   Heels
-        *   Bras
-        *   Panties
-        *   Socks
-        *   Sleepwear
-        *   ACCESSORIES
-            *   Bags + Wallets
-            *   Jewelry
-            *   Sunglasses
-            *   Scarves
-            *   Cold Weather
-            *   Hats
-            *   Watches
-            *   Belts
-            *   Phone Cases
-            *   Hair Accessories
-            *   Beauty
-            *   Fragrance
-        *   Live Love Dream
-            *   active
-            *   yoga
-            *   lounge
-            *   bras
-            *   panties
-            *   accessories
-            *   Clearance
-        *   ROOM
-        *   Uniform
-    
     *   NEW ARRIVALS
-    
-    *   Pretty Little Liars
-    
     *   Bethany Mota
-    
-    *   Uniform Looks
-    
     *   Outfit Guide
-    
-    *   Brands We Love
-    
-    *   Live Love Dream
-    
-    *   Shoe Bar
-    
+    *   Uniform Looks
+    *   Web Exclusives
     *   Extended Sizes
     
-    *   Web Exclusives
-    
-    *   CLEARANCE
-        *   Clearance Tops
-        *   Clearance Bottoms
-        *   Clearance Accessories
-    
     *   TOPS
-        *   Tees
-        *   Camis + Tanks
-        *   Polos
-        *   Shirts
-        *   Hoodies + Sweatshirts
-        *   Sweaters + Cardigans
+    *   Tees
+    *   Polos
+    *   Camis + Tanks
+    *   Hoodies + Sweatshirts
+    *   Sweaters + Cardigans
+    *   Shirts
     
     *   BOTTOMS
-        *   Jeans
-        *   Leggings
-        *   joggers + sweats
-        *   Pants
-        *   Shorts
-        *   Skirts
+    *   Jeans
+    *   Leggings
+    *   Joggers + Sweats
+    *   Pants
+    *   Shorts
     
-    *   Dresses
-    
+    *   DRESSES
     *   OUTERWEAR
-    
-    *   Footwear
-        *   Boots
-        *   Sneakers
-        *   Flats
-        *   Heels
-    
-    *   Bras
-    
-    *   Panties
-    
-    *   Socks
-    
-    *   Sleepwear
-    
+    *   SLEEPWEAR
+    *   BRAS
+    *   PANTIES
+    *   FOOTWEAR
     *   ACCESSORIES
-        *   Bags + Wallets
-        *   Jewelry
-        *   Sunglasses
-        *   Scarves
-        *   Cold Weather
-        *   Hats
-        *   Watches
-        *   Belts
-        *   Phone Cases
-        *   Hair Accessories
-        *   Beauty
-        *   Fragrance
-    
-    *   Live Love Dream
-        *   active
-        *   yoga
-        *   lounge
-        *   bras
-        *   panties
-        *   accessories
-        *   Clearance
-    
-    *   ROOM
-    
-    *   Uniform
 *   Guys
     
-    *   FEATURED SHOPS - 3542202
-        *   NEW ARRIVALS
-        *   Outfit Guide
-        *   Brands We Love
-        *   Uniform Looks
-        *   COLLEGE SHOP
-        *   SNEAKER SHOP
-        *   EXTENDED SIZES
-        *   Web Exclusives
-        *   CLEARANCE
-            *   Clearance Tops
-            *   Clearance Bottoms
-            *   Clearance Accessories
-    
-    *   SHOP BY CATEGORY - 3542203
-        *   Tops
-            *   Graphic Tees
-            *   Polos
-            *   Tees
-            *   Hoodies
-            *   Shirts
-            *   Sweaters
-        *   Bottoms
-            *   Jeans
-            *   Pants
-            *   Sweatpants
-            *   Shorts
-        *   Outerwear
-        *   Dorm
-        *   Footwear
-            *   Sneakers
-        *   Boxers + Trunks
-            *   Boxers
-            *   Boxer Briefs
-            *   Trunks
-        *   Socks
-        *   Cold Weather
-        *   Accessories
-            *   Hats
-            *   Watches
-            *   Bags + Wallets
-            *   Belts
-            *   Cologne
-        *   ROOM
-        *   Uniform
-    
     *   NEW ARRIVALS
-    
     *   Outfit Guide
-    
-    *   Brands We Love
-    
     *   Uniform Looks
-    
-    *   COLLEGE SHOP
-    
-    *   SNEAKER SHOP
-    
-    *   EXTENDED SIZES
-    
+    *   Extended Sizes
     *   Web Exclusives
     
-    *   CLEARANCE
-        *   Clearance Tops
-        *   Clearance Bottoms
-        *   Clearance Accessories
+    *   TOPS
+    *   Graphic Tees
+    *   Polos
+    *   Tees
+    *   Hoodies
+    *   Shirts
+    *   Sweaters
     
-    *   Tops
-        *   Graphic Tees
-        *   Polos
-        *   Tees
-        *   Hoodies
-        *   Shirts
-        *   Sweaters
+    *   BOTTOMS
+    *   Jeans
+    *   Pants
+    *   Sweatpants
+    *   Shorts
     
-    *   Bottoms
-        *   Jeans
-        *   Pants
-        *   Sweatpants
-        *   Shorts
-    
-    *   Outerwear
-    
-    *   Dorm
-    
-    *   Footwear
-        *   Sneakers
-    
-    *   Boxers + Trunks
-        *   Boxers
-        *   Boxer Briefs
-        *   Trunks
-    
-    *   Socks
-    
-    *   Cold Weather
-    
-    *   Accessories
-        *   Hats
-        *   Watches
-        *   Bags + Wallets
-        *   Belts
-        *   Cologne
-    
-    *   ROOM
-    
-    *   Uniform
+    *   OUTERWEAR
+    *   DORM
+    *   FOOTWEAR
+    *   BOXERS + TRUNKS
+    *   SOCKS
+    *   COLD WEATHER
+    *   ACCESSORIES
 *   Room
     
-    *   Girls - 43879826
-        *   Bethany Room
-        *   Bedding
-        *   Accessories
-    
-    *   Guys - 43880186
-        *   Bedding
-        *   NFL
-    
+    *   GIRLS
     *   Bethany Room
-    
     *   Bedding
-    
     *   Accessories
     
+    *   GUYS
     *   Bedding
-    
     *   NFL
 *   Clearance
     
-    *   Girls Clearance - 3595054
-        *   VIEW ALL
-        *   ALL TOPS
-        *   ALL BOTTOMS
-        *   ALL ACCESSORIES
+    *   GIRLS
+    *   Clearance Tops
+    *   Clearance Bottoms
+    *   Clearance Accessories
     
-    *   Guys Clearance - 3595055
-        *   VIEW ALL
-        *   ALL TOPS
-        *   ALL BOTTOMS
-        *   ALL ACCESSORIES
-    
-    *   VIEW ALL
-    
-    *   ALL TOPS
-    
-    *   ALL BOTTOMS
-    
-    *   ALL ACCESSORIES
-    
-    *   VIEW ALL
-    
-    *   ALL TOPS
-    
-    *   ALL BOTTOMS
-    
-    *   ALL ACCESSORIES
+    *   GUYS
+    *   Clearance Tops
+    *   Clearance Bottoms
+    *   Clearance Accessories
 *   Brands
+    
+    *   GIRLS
+    *   BC Footwear
+    *   Bethany Mota
+    *   Blowfish
+    *   Chinese Laundry
+    *   Charles Albert
+    *   DV8
+    *   Gola
+    *   Hobie
+    *   Invite Only
+    *   Junie &. Jade
+    *   Live Love Dream
+    *   Lorimer
+    *   Madden Girl
+    *   Map to Mars
+    *   Mia
+    *   Puma
+    *   Rebels
+    *   Report
+    *   Rocket Dog
+    *   Superga
+    *   Tigerbear Republik
+    *   Tokyo Darling
+    *   Volatile
+    
+    *   GUYS
+    *   Blue Suede Shoes
+    *   Brooklyn Calling
+    *   Free State
+    *   Gola
+    *   Locker Stock
+    *   Mighty Fine
+    *   Project 87
+    *   Radii
+    *   Superga
+    *   True Vintage
 *   Aero Now
 
 Safety, Security and Privacy
