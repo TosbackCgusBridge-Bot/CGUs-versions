@@ -27,7 +27,7 @@ We have adopted this Privacy Policy to explain what information may be collected
 We generally keep this Privacy Policy posted on our Websites and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you.  Any changes will be effective immediately upon posting of the revised Privacy Policy.  Scripps Networks will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent.  WHEN YOU ACCESS OUR WEBSITES, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITES.
 
 **A. INFORMATION WE COLLECT**  
-Our Websites typically collect two (2) kinds of information about you: (a) information that you provide that personally identifies you. and (b) information that does
+Our Websites typically collect two (2) kinds of information about you: (a) information that you provide that personally identifies you. and (b) information that does not personally identify you that we automatically collect when you visit our Website or that you provide us.
 
 > 1\. Personally Identifiable Information:
 > 
