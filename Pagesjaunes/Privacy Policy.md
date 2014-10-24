@@ -115,6 +115,8 @@
     
     Se créer un compte PagesJaunes
     
+    **Professionnels**, ��valuez la performance de votre communication, optimisez votre r��f��rencement local et enrichissez vos contenus sur PagesJaunes Business Center.
+    
     Fermer
 
 Les recherches PagesJaunes
