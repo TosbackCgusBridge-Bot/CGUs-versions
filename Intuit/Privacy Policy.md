@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12900849767
+true true C12907344523
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p27.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Oct 22 09:25:32 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p34.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Thu Oct 23 10:34:45 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,11 +67,6 @@ $10 Off\* $25 or more.
 
 print store coupon
 
-*   30-50% Off Home Sale
-    
-    Select styles.
-    
-    shop the sale40-50% Off Luggage shop luggage40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen30-50% Off Home Decor shop home decor40-50% Off Window shop window
 *   Monster Sale
     
     Starts now! Wicked savings on the fits that fit you best.
@@ -80,7 +75,18 @@ print store coupon
     
     Only at JCPenney. Select styles, Frozen excluded.
     
-    shop Disney Collection Costumes shop Disney Collection Costumes
+    shop Disney Collection Costumes shop Disney Collection CostumesNight and Day Doorbusters
+    
+    In store and online. Friday, October 24, 3PM until close, Saturday, October 25, through 1PM.
+    
+    Excluded from coupon
+    
+    view doorbusters store ad
+*   30-50% Off Home Sale
+    
+    Select styles.
+    
+    shop the sale40-50% Off Luggage shop luggage40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen30-50% Off Home Decor shop home decor40-50% Off Window shop window
 
 $10 Bonus Cash\* When You Spend $50 Or More
 
@@ -94,11 +100,7 @@ shop guys' Levi's$36.99 Guys' Levi's 505™ Regular Fit Jeans
 
 Regularly $58. Excluded from coupon offer.
 
-shop guys' Levi's40% Off Select Carter's shop Carter's30% Off Select Cold-Weather Accessories For Her shop women's accessoriesFree Warner's Panty When You Buy A Warner's Bra At $24.99
-
-Celebrate Warner's week!
-
-shop Warner's25% Off Select Women's Clarks Shoes
+shop guys' Levi's40% Off Select Carter's shop Carter's30% Off Select Cold-Weather Accessories For Her shop women's accessories30-40% Off Select Women's Coats shop women's coats25% Off Select Women's Clarks Shoes
 
 Excluded from coupon offer.
 
