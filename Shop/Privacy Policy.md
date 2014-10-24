@@ -53,7 +53,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  Lenovo A7: 7" Wideview Android Tablet
         8.  Lenovo A8: 8" Wideview Android Tablet
         9.  Lenovo A10: 10" Wideview Android Tablet
-        10.  See all Android Tablets
+        10.  Lenovo TAB S8: 8" Enhanced Multimeddia Tablet
+        11.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
         1.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
         2.  ThinkPad 10: 10.1" Tablet with Full PC Experience
@@ -187,10 +188,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  See all Technologies
     5.  Not sure what you need?
         1.  Accessories Closeout Sale
-        2.  Accessories Hot Deals
-        3.  Best Selling Accessories
-        4.  Quick Ship Accessories
-        5.  View All Accessories
+        2.  Best Selling Accessories
+        3.  Quick Ship Accessories
+        4.  View All Accessories
     6.  See all Accessories &. Software
     
 7.  Services &. Warranty
@@ -229,14 +229,13 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  ThinkPad Anniversary Sale
-        2.  Home Laptop &. Desktop Deals
+        1.  Home Laptop &. Desktop Deals
+        2.  Professional Laptop &. Desktop Deals
         3.  ThinkPad &. ThinkCentre QuickShips
         4.  Accessories Closeout Sale
-        5.  Accessories Hot Deals
-        6.  Deals for Students and Educators
-        7.  Outlet
-        8.  See all Current Offers
+        5.  Deals for Students and Educators
+        6.  Outlet
+        7.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
@@ -255,7 +254,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     9.  Students
     10.  Business Partners
     11.  Resource Center
-    12.  See all For Work
+    12.  See All
+    13.  See all For Work
 2.  Support
     1.  See all Support
     2.  Lenovo &. Think Product Support
