@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Could 'The Conjuring' director James Wan be taking on a DC movie next? Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More We double-dare you to watch this new 'Insidious 3' trailer in the dark... Read More Explore More
+*   Movie News Featured Movie News Filmmakers have a specific kind of director in mind for Wonder Woman. Streep sings! Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More We double-dare you to watch this new 'Insidious 3' trailer in the dark... Read More Explore More
     *   Family
     *   Hero Central
     *   House of Screams
@@ -75,7 +75,6 @@ Gift Cards | Offers | Visa Signature
     *   Mom's Movie Minute
     *   Reel Kids
     *   Real D 3D Guide
-    *   Dolby Atmos Guide
 *   Sign In Join
 
 Privacy Policy
@@ -352,10 +351,10 @@ Experience + Explore
 Features + Guides
 
 *   Family
-*   Summer Movies
+*   House of Screams
 *   Hero Central
+*   The Hunger Games Guide
 *   Movie News
-*   Dolby Atmos Guide
 *   Indie Movie Guide
 
 Videos
