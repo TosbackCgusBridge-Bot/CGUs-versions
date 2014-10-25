@@ -10,7 +10,7 @@ Employers: Post Jobs | Search Resumes Sign In Help Security
     *   Advanced Search
     *   Company Search
 *   Recommendations
-*   Post Resumes
+*   Add Resumes
     *   Resume Writing
 *   Advice &. Resources
     *   Career Resources
@@ -30,7 +30,7 @@ Do you need highly robust compensation data segmentation tools?
 Visit our Compensation Portal
 
 *   HELP
-*   CareerBuilder Job Seeker Customer Service: **(866) 438-1485**
+*   CareerBuilder Support: **(866) 438-1485**
 *   **Get Connected:**
 
 CareerBuilder
