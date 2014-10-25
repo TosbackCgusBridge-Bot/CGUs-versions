@@ -30,6 +30,7 @@ Aéropostale Go
     *   Joggers + Sweats
     *   Pants
     *   Shorts
+    *   Skirts
     
     *   DRESSES
     *   OUTERWEAR
@@ -76,6 +77,7 @@ Aéropostale Go
     
     *   GUYS
     *   Bedding
+    *   Accessories
     *   NFL
 *   Clearance
     
@@ -83,6 +85,7 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
+    *   Room Clearance
     
     *   GUYS
     *   Clearance Tops
@@ -94,11 +97,8 @@ Aéropostale Go
     *   BC Footwear
     *   Bethany Mota
     *   Blowfish
-    *   Chinese Laundry
-    *   Charles Albert
     *   DV8
     *   Gola
-    *   Hobie
     *   Invite Only
     *   Junie &. Jade
     *   Live Love Dream
@@ -107,13 +107,11 @@ Aéropostale Go
     *   Map to Mars
     *   Mia
     *   Puma
-    *   Rebels
     *   Report
     *   Rocket Dog
     *   Superga
     *   Tigerbear Republik
     *   Tokyo Darling
-    *   Volatile
     
     *   GUYS
     *   Blue Suede Shoes
