@@ -47,12 +47,11 @@ Legal Notices &. Trademarks
 *   Education Community Special Terms
 *   Autodesk Online Purchase and Auto-Renewal Terms
 
-Privacy Statement - UPDATED FEBRUARY 10, 2014
+Privacy Statement - UPDATED OCTOBER 24, 2014
 
-Click here to access the privacy statement in English: Privacy Statement
-
-For other languages, click below:
-
+*   Privacy Statement  
+    o Cookie Policy  
+    o Children’s Privacy Policy
 *   Prohlášení společnosti Autodesk o ochraně osobních údajů
 *   Privacyverklaring Autodesk
 *   Déclaration sur la confidentialité d’Autodesk
@@ -71,7 +70,11 @@ For other languages, click below:
 *   Pernyataan Privasi Autodesk
 *   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk
 
+  
+  
+  
+
 *   Sign Up For Email
 *   Careers
 
-© Copyright 2014 Autodesk, Inc. All rights reserved.   Privacy — Legal Notices &. Trademarks — Report Noncompliance — Site Map
+© Copyright 2014 Autodesk, Inc. All rights reserved.   Privacy/Cookies (Updated) — Legal Notices &. Trademarks — Site Map
