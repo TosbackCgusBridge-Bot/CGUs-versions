@@ -53,7 +53,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  Lenovo A7: 7" Wideview Android Tablet
         8.  Lenovo A8: 8" Wideview Android Tablet
         9.  Lenovo A10: 10" Wideview Android Tablet
-        10.  Lenovo TAB S8: 8" Enhanced Multimeddia Tablet
+        10.  Lenovo S8: 8" Enhanced Multimeddia Tablet
         11.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
         1.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
