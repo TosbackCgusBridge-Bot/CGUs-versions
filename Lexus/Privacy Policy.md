@@ -257,7 +257,8 @@ Additional Sites
 *   Luxury Awaits
 *   Vida Lexus
 *   L Studio
-*   Lexus collections
+*   Lexus Merchandise
+*   Lexus International
 
 *   Find Us On Facebook
 *   Follow Us On Twitter
@@ -275,6 +276,13 @@ Additional Sites
 *   Legal Terms
 *   Safety Recalls &. Service Campaigns
 
-Sign up for Lexus News
+*   Sign up for Lexus News
 
 ©2006-2014 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
+
+You are now  
+leaving Lexus.com Are you sure you want to leave?  
+If not, simply click "Cancel".
+
+*   Cancel
+*   Continue
