@@ -25,7 +25,7 @@ Your browser does not support JavaScript! Skip to Content Sony
 *   Contacts
     *   Overview
 
-Clear search input General
+Search Clear search input General
 
 *   Terms and Conditions
 *   Privacy Policy
@@ -104,6 +104,14 @@ UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO SONY'S NEGLIGENCE, SHALL SO
 These Terms and Conditions of Use and any additional terms posted on this Site together constitute the entire agreement between Sony and you with respect to your use of this Site. Any cause of action you may have with respect to your use of this Site must be commenced within one (1) year after the claim or cause of action arises. If for any reason a court of competent jurisdiction finds any provision of these Terms and Conditions of Use, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of this agreement, and the remainder of these Terms and Conditions of Use shall continue in full force and effect. These Terms and Conditions of Use shall be governed by and construed in accordance with the laws of the State of New York, United States of America, without reference to its conflicts of law rules.
 
 United States
+
+*   Sony on Twitter
+*   Sony on Facebook
+*   Sony on Google+
+*   Sony on YouTube
+*   Sony on Vine
+*   Sony on Instagram
+*   Sony on Pinterest
 
 Shop Sony  
 Global Home
