@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (2)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  Esther
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (2)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C12910650425
+true true L13037776340
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Fri Oct 24 04:47:37 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Oct 25 07:25:51 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,48 +67,30 @@ $10 Off\* $25 or more.
 
 print store coupon
 
-*   Monster Sale
-    
-    Starts now! Wicked savings on the fits that fit you best.
-    
-    shop the sale view store ad20% Off Select Disney Collection Costumes
-    
-    Only at JCPenney. Select styles, Frozen excluded.
-    
-    shop Disney Collection Costumes shop Disney Collection CostumesNight and Day Doorbusters
-    
-    In store and online. Friday, October 24, 3PM until close, Saturday, October 25, through 1PM.
-    
-    Excluded from coupon
-    
-    view doorbusters store ad
 *   30-50% Off Home Sale
     
     Select styles.
     
     shop the sale40-50% Off Luggage shop luggage40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen30-50% Off Home Decor shop home decor40-50% Off Window shop window
+*   Monster Sale
+    
+    Wicked savings on the fits that fit you best.
+    
+    shop the sale view store ad shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie shop baby shop bed and bath shop window shop furniture shop kitchen shop home decor
 
 $10 Bonus Cash\* When You Spend $50 Or More
 
 In store only, October 22 through 25.
 
-\*See exclusions and details Levi's At Their Lowest Prices Of The Season $31.99 Women's Levi's 505™ Straight Jeans
-
-Regularly $54. Excluded from coupon offer.
-
-shop guys' Levi's$36.99 Guys' Levi's 505™ Regular Fit Jeans
+\*See exclusions and details 30-40% Off Select Women's Coats shop women's coats $36.99 Levi's 505™ Regular Fit Jeans
 
 Regularly $58. Excluded from coupon offer.
 
-shop guys' Levi's40% Off Select Carter's shop Carter's30% Off Select Cold-Weather Accessories For Her shop women's accessories30-40% Off Select Women's Coats shop women's coats25% Off Select Women's Clarks Shoes
+shop Levi's 30-40% Off Select A.N.A shop A.N.A 30% Off Select Women's Cold-Weather Accessories shop women's cold-weather accessories 25% Off Select Women's Clarks Shoes shop Clarks shoes 40% Off Select Carter's
 
 Excluded from coupon offer.
 
-shop women's Clarks 30-50% Off Small Appliances
-
-Excluded from coupon offer.
-
-shop small appliances Say Hello To The All-New JCPenney App
+shop Carter's 30-50% Off Sheets shop sheets Say Hello To The All-New JCPenney App
 
 Free shipping on $25 or more when you download the app by October 31!
 
