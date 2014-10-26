@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Z Nation - All the Kills - Episode 6 Z Nation - All the Kills - Episode 6
-
-Count all of this episodes zombie kills along with us.
-
-Z Nation - Sneak Peek - Welcome to FU-Bar Z Nation - Sneak Peek - Welcome to FU-Bar
+Syfy Video Z Nation - Sneak Peek - Zunami Z Nation - Sneak Peek - Zunami
 
 Get a sneak peek at the next episode of Z Nation, airing Friday at 10/9c on Syfy
 
-Behold My Flock Behold My Flock
+Z Nation - All the Kills - Episode 7 Z Nation - All the Kills - Episode 7
 
-Murphy proves he is the zombie Messiah and Charlie takes a bullet for him.
+Count all of this episode's zombie kills along with us.
 
-Haven - Sneak Peek - Nowhere Man Haven - Sneak Peek - Nowhere Man
+Nice Shootin, Tex Nice Shootin, Tex
 
-Get a sneak peek at the next episode of Haven, airing Friday at 7/6c on Syfy
+From grief comes a lot of dead zombies as a heartbroken Roberta reinvents herself as the baddest gunslinger in the west.
+
+Z Nation - All the Kills - Episode 6 Z Nation - All the Kills - Episode 6
+
+Count all of this episode's zombie kills along with us.
 
 *   FAQ
 *   Feedback
