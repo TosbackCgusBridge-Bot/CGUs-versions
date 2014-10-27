@@ -1,99 +1,284 @@
-*   About Us
+Start receiving our award-winning magazine today!
+
+Subscribe
+
+*   Magazine
 *   News &. Media
-*   Science
-*   Hi, Log In or use your:
-*   Log Out
-*   My Nature Page
-*   English
-    *   Español
-    *   Indonesian
-    *   Português
-    *   简体中文
-    *   繁體中文
+*   Blogs
+*   My Nature
 
-The Nature Conservancy. Protecting nature. Preserving life.™
+Search:Search Donate Now
 
-We're working with you to make a positive impact around the world in more than 35 countries, all 50 United States and your backyard. Support our work
-
-Sign up for our e-newsletter!
-
-*   Shop
-*   Membership
-    *   Become a Member
-    *   Renew Membership
-    *   Monthly Giving
-    *   Gift Memberships
-    *   More Ways to Give
-*   Donate
-    *   Donate Now
-    *   Monthly Giving
-    *   Gift &. Estate Planning
-    *   Memorial and Tribute Giving
-    *   Gift Ideas
-    *   More Ways to Give
-
-*   Where We Work
-    *   Worldwide
+*   **Where** We Work \[close\] Worldwide
+    
     *   Africa
-    *   Asia and the Pacific
+    *   Australia
+    *   Asia &. the Pacific Islands
     *   Caribbean
     *   Central America
-    *   Europe
     *   North America
     *   South America
-*   How We Work
-    *   Habitats
-    *   Regions
-    *   Urgent Issues
-*   Blogs
-*   Photos &. Video
+    *   Europe
+    
+    United States
+    
+    *   Alabama
+    *   Alaska
+    *   Arizona
+    *   Arkansas
+    *   California
+    *   Colorado
+    *   Connecticut
+    *   Delaware
+    *   Florida
+    *   Georgia
+    *   Hawaii
+    *   Idaho
+    *   Illinois
+    *   Indiana
+    *   Iowa
+    *   Kansas
+    *   Kentucky
+    
+    *   Louisiana
+    *   Maine
+    *   Maryland/DC
+    *   Massachusetts
+    *   Michigan
+    *   Minnesota
+    *   Mississippi
+    *   Missouri
+    *   Montana
+    *   Nebraska
+    *   Nevada
+    *   New Hampshire
+    *   New Jersey
+    *   New Mexico
+    *   New York
+    *   North Carolina
+    *   North Dakota
+    
+    *   Ohio
+    *   Oklahoma
+    *   Oregon
+    *   Pennsylvania
+    *   Rhode Island
+    *   South Carolina
+    *   South Dakota
+    *   Tennessee
+    *   Texas
+    *   Utah
+    *   Vermont
+    *   Virginia
+    *   Washington
+    *   West Virginia
+    *   Wisconsin
+    *   Wyoming
+*   **How** We Work \[close\]
+    
+    *   **Who We Work With**
+        
+        We pursue pragmatic, market-based solutions to conservation challenges.
+        
+    *   **Why We're Effective**
+        
+        Our methods make for efficient conservation work.
+        
+    *   **Get Involved**
+        
+        We can't do our work without you!
+        
+    
+    Habitats
+    
+    *   Rivers and Lakes
+    *   Oceans and Coasts
+    *   Forests
+    *   Grasslands and Prairies
+    *   Deserts and Aridlands
+    
+    Urgent Issues
+    *   Conservation Action
+    *   Climate Change
+    *   Water
+    *   Rainforests
+    *   Coral Reefs
+    *   Migratory Birds
+    *   Land Conservation
+    *   People and Conservation
+    *   Smart Development
+    *   Global Agriculture
+    *   Energy
+*   **Science** in Action \[close\]
+    
+    *   **SNAP**
+        
+        Science and solutions for 21st century problems.
+        
+    *   **Smart Birding Apps**
+        
+        Which one is right for you?
+        
+    *   **10 Refuges To Explore**
+        
+        Top picks for world-class nature experiences.
+        
+    
+    Leading with Science
+    
+    *   Signature Science
+    *   NatureNet Fellows
+    *   Conservancy Science  
+        &. Dow
+    
+    Cool Green Science Our Scientists
+    *   Latest Research
+    *   Science CouncilConservation by Design Science Features Conservation Gateway
+*   **Membership** &. Giving \[close\]
+    
+    *   **Tribute &. Honor Giving**
+        
+        Recognize someone special with your gift of nature.
+        
+    *   **Gift Memberships**
+        
+        Give a personalized gift that protects critical places.
+        
+    *   **Renew Now**
+        
+        We can't continue our work without you.
+        
+    
+    Donation
+    
+    *   Donate Now
+    *   Monthly Giving
+    *   Gift Ideas
+    *   Alternate Ways to Pay
+    
+    Membership
+    
+    *   Become a Member
+    *   Renew Membership
+    *   Gift Memberships
+    *   Membership Benefits
+    *   Special Memberships
+    
+    More Ways to Give
+    *   Tribute &. Honor Giving
+    *   Gift &. Estate Planning
+    *   Gifts of Stock
+    *   Employer Giving
+    *   Everyday Ways to Help
+    *   Birthday Ecards
+    *   Personal Fundraising
+*   **Photos** &. Videos \[close\]
+    
+    *   **Behind the Lens**
+        
+        Go behind the lens with our professional photographers.
+        
+    *   **Our Challenge**
+        
+        Learn how The Nature Conservancy works to balance the needs of a growing population with those of nature.
+        
+    *   **2013 Annual Report**
+        
+        Each of these videos tells the story of how we work to conserve our lands and waters.
+        
+    
+    Photography
+    
+    *   Natural Light
+    *   Mark Godfrey Selects
+    *   Photo of the Month Desktop Wallpaper
+    *   Featured Image Desktop Wallpaper
+    *   Facebook Timeline Photos
+    *   Mobile Wallpaper
+    *   Nature Ecards
+    *   Photo Contest
+    *   Share Your Photos
+    
+    Public Service Advertisements Video
+    *   Featured Videos
+    *   Our Work
+    *   About Us
+    *   Our Successes
+    *   Behind the Lens
+*   **About** Us \[close\]
+    
+    *   **2013 Annual Report**
+        
+        Each of these videos tells the story of how we work to preserve our lands and waters.
+        
+    *   **Our Accountability**
+        
+        Learn about our financials, charity ratings, and all that we've accomplished.
+        
+    *   **Get Involved**
+        
+        We can't do our work without you!
+        
+    
+    Vision and Mission
+    
+    *   Our History
+    *   Our Values
+    *   Testimonials
+    
+    Our Governance Our Accountability
+    
+    *   Annual Report &. Financials
+    *   Our Charity Ratings
+    *   Charitable Solicitation Disclosure
+    
+    Why We're Effective Private Lands Conservation Working with Companies Working with Leaders Our Partners in Conservation Careers
+    *   GLOBE Internship Program
+    *   LEAF Internships for Urban YouthDiversity Contact Us Social Media Volunteer
 
-*   Home
-*   About Us
+About Us
+
+*   Vision and Mission
 *   Our Governance
-
-*   About Us
-    *   Vision and Mission
-    *   Our Governance
-        *   Board of Directors
-        *   Trustees
-        *   Executive Team
-        *   Latin America Conservation Council
-        *   Investment Policy
-        *   Ethics and Compliance
-        *   Terms of Use
-    *   Our Accountability
-    *   Why We're Effective
-    *   Private Lands Conservation
-    *   Working with Companies
-    *   Working with Leaders
-    *   Our Partners in Conservation
-    *   Campaign for a Sustainable Planet
-    *   Careers
-    *   Diversity
-    *   Contact Us
-    *   Connect With Us
-    *   Volunteer
-*   Our Science
+*   Board of Directors
+*   Trustees
+*   Executive Team
+*   Latin America Conservation Council
+*   Investment Policy
+*   Ethics and Compliance
+*   Terms of Use
+*   Our Accountability
+*   Why We're Effective
+*   Private Lands Conservation
+*   Working with Companies
+*   Working with Leaders
+*   Our Partners in Conservation
+*   Campaign for a Sustainable Planet
+*   Careers
+*   Diversity
+*   Contact Us
+*   Social Media
+*   Volunteer: Connect with Nature
+*   Visit a Preserve
 *   Where We Work
-*   Green Living
-*   News &. Features
-*   Photos &. Video
-*   Gift and Estate Planning
-*   Search
-*   All Hands on Earth
 *   How We Work
+*   Science in Action
+*   Membership &. Giving
+*   Photos &. Video
+*   News &. Features
+*   Gift and Estate Planning
+*   Green Living
 *   Member Care
 
-Get Involved:
+Home >. About Us >. Our Governance >. About the Website Privacy Policy
 
-Donate Now Renew Membership About Us Privacy Statement By visiting the Website, you are accepting the policies described in this Privacy Policy. Field being planted with native seeds in an effort to revegetate and connect a 620 mile swath of native bushland in the Gondwana Link land of south Western Australia. One of the goals of the Gondwana Link Project has long been to restore native vegetation to previously cleared lands. Photograph taken for The Nature Conservancy's Design For A Living World project, exhibit and book. © Ami Vitale Story Highlights
+About Us Privacy Statement Field being planted with native seeds in an effort to revegetate and connect a 620 mile swath of native bushland in the Gondwana Link land of south Western Australia. One of the goals of the Gondwana Link Project has long been to restore native vegetation to previously cleared lands. Photograph taken for The Nature Conservancy's Design For A Living World project, exhibit and book. © Ami Vitale By visiting the Website, you are accepting the policies described in this Privacy Policy. Story Highlights
 
 The Nature Conservancy Website Privacy Policy
 
 Download printable version (.pdf)
 
-**La** **st updated**: November 22, 2013 
+**La** **st updated**: December 16, 2013
 
 The Nature Conservancy (the “Conservancy”) takes your privacy very seriously. This Privacy Policy applies to the following sites: www.nature.org (and each sub-domain associated with this URL) and other websites owned and/or operated by or for the Conservancy, including mobile sites (collectively, the "Sites"). By visiting the Sites, you are accepting the policies described in this Privacy Policy.   If you do not agree with this Privacy Policy, you are not permitted to use the Sites. The Conservancy may revise this privacy policy from time to time. We will post any changes here, so be sure to check back periodically. Your continued use of the Sites after changes have been posted will constitute your acceptance of such changes.
 
@@ -117,11 +302,11 @@ The Nature Conservancy processes your information on servers located in the Unit
 
 **How we collect information:**  In addition to the information gathered as described above, there is a technology called "cookies" that can be used to provide you with tailored information from a website.  A cookie is an element of data that a website can send to your browser, which may then – depending on your web browser’s settings – store it on your system.  For example, some pages on the Website use cookies so that The Nature Conservancy can better serve you when you return to the Website.  Depending on the type of browser you use, you can probably set it to notify you when you receive a cookie, giving you the chance to accept or reject it.  However, please note that disabling cookies may prevent you from taking advantage of certain features on the Website. Please note that our system may not respond to some or all Do Not Track requests.
 
-**How we protect information:**  The Nature Conservancy attempts to protect against the loss, misuse and alteration of your personal information. Our servers are protected by reasonable physical and electronic security. 
+**How we protect information:**  The Nature Conservancy has taken certain physical, administrative and technical steps to safeguard customer information which may include but are not limited to password restricted access to personal information and encrypting data where applicable. We take efforts to help ensure the security, integrity and confidentiality of customer information. however, no transmission or electronic storage of information can be guaranteed to be 100% secure.
 
 **Children:** This Website is not directed toward children under 13 years of age nor does The Nature Conservancy knowingly collect information from children under 13.  If you are under 13, please do not submit any personally identifiable information to The Nature Conservancy.
 
-**Choice:**  The Nature Conservancy may share your name and postal address with organizations that offer products and services that we believe may interest you.  You have the right to opt-out of such information sharing.  The Nature Conservancy may also use your personal information to send you surveys or email messages about Nature Conservancy projects, events, and services.  You may also choose to **opt-out of receiving email** and information from The Nature Conservancy. Finally, you may choose to de-activate your Nature Conservancy membership.  To opt-out or change your preferences at any time, **click here to send an email to request deactivation of your membership or to make any other change**. 
+**Choice:**  The Nature Conservancy may share your name and postal address with organizations that offer products and services that we believe may interest you.  You have the right to opt-out of such information sharing.  The Nature Conservancy may also use your personal information to send you surveys or email messages about Nature Conservancy projects, events, and services.  You may also choose to **opt-out of receiving email** and information from The Nature Conservancy. Finally, you may choose to de-activate your Nature Conservancy membership.  To opt-out or change your preferences at any time, **Click here to send an email to request deactivation of your membership or to make any other change**. 
 
 If you prefer, you may opt-out by calling our Member Care Team toll-free at (800) 628-6860 Monday through Friday between 9:00 am and 5:00 pm Eastern Time.
 
@@ -140,117 +325,135 @@ Arlington, VA  22203 USA
 
 **Contacts:**  If you have any questions, concerns, or suggestions regarding this privacy policy, please **contact us online** to send us an email or call our Member Care Team toll-free at 1 (800) 628-6860 Monday through Friday between 9:00 am and 5:00pm Eastern Time.
 
-November 25, 2013 Read More Estancia Monte Dinero, Rio Gallegos, Argentina. © Nick Hall
+Donate to The Nature Conservancy
 
-**Nature's Inspiring Stories**
+When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
+
+Donate Now Featured Articles Nature's Inspiring Stories
 
 Nature springs to life in _Nature Conservancy_ magazine. Read
 
-Henslow's sparrow. © Chris Helzer/TNC
+Dive into the Truth About Water
 
-**Donate Today**
+This interactive platform gives you Liquid Courage. Explore.
 
-The most vital habitats on Earth need your support. Make a donation
+Rainforest Facts
 
-Donate to The Nature Conservancy Coast live oak trees punctuate the prairie grasslands at Chimineas Ranch, a protected wildlife corridor linking the Carrizo Plain National Monument with Los Padres National Forest, located within San Luis Obispo County, California. © Mark Dolyak When you donate today, you’ll help The Nature Conservancy protect the most vital habitats on Earth.  
+Learn about these diverse and life-sustaining habitats. Find the Facts
 
-Donate Now
-
-Explore Related Content Contact Us If you have any questions or concerns feel free to contact us. More information A Career With The Nature Conservancy Interested in contributing to our conservation goals in various fields? More information **The Nature Conservancy**
-
-*   Contact Us
-*   Help/FAQs
-*   Provide Feedback
-*   Newsroom
-*   Working With Companies
-*   Our Advertisers
-*   Advertise With Us
-
-Our Sites
-
-*   All Hands Music
-*   Conservation Gateway
-*   Blogs
-*   Magazine
-*   Nature Rocks
-*   Nature Works Everywhere
-
-Connect With Us
-
-*   My Nature Page
-*   Twitter
-*   Facebook
-*   Youtube
-*   Flickr
-*   Mobile Apps
-*   Photos and Video
-
-About Us
-
-*   Vision and Mission
-*   Our Governance
-*   Financials
-*   Why We're Effective
-*   Diversity
-*   Careers
-*   Our Stories
-
-How We Work
-
-*   Habitats
-*   Regions
-*   Urgent Issues
-
-Get Involved
-
-*   Adopt an Acre
-*   All Hands on Earth
-*   Plant a Billion Trees
-*   Use Your Outside Voice
-*   Send a Nature E-Card
-*   Green Living Tips
-*   Carbon Calculator
-*   Volunteer
-
-Where We Work
-
-*   Worldwide
-*   Africa
-*   Asia and the Pacific
-*   Caribbean
-*   Central America
-*   Europe
-*   North America
-*   South America
-
-Our Science
-
-*   Conservation By Design
-*   Our Scientists
-*   Science Council
-*   Science Features
-
-Our Accountability
+Sign Up for Nature e-News Get our email updates filled with eco-tips and info on the places you care about most. GO We’re Accountable
 
 The Nature Conservancy makes careful use of your support.
 
 More Ratings
 
-*   Donate
+Find Us On...
+
+Facebook
+
+Twitter
+
+Flickr
+
+Google Plus
+
+Linked In
+
+Instagram
+
+WeChat
+
+*   Where We Work
+    *   Worldwide
+    *   Africa
+    *   Asia &. the Pacific
+    *   Caribbean
+    *   Central America
+    *   Europe
+    *   North America
+    *   South America
+*   How We Work
+    *   Habitats
+    *   Urgent Issues
+*   Science in Action
+    *   Conservation by Design
+    *   Our Scientists
+    *   Science Council
+    *   Science Features
+    *   Conservation Gateway
+*   Membership &. Giving
     *   Donate Now
     *   Monthly Giving
-    *   Memorials and Tributes
-    *   Gift Planning
-*   Membership
     *   Become a Member
     *   Renew Membership
+    *   MyNature Page
+    *   Gift &. Estate Planning
+    *   Tribute &. Honor Giving
     *   Gift Memberships
-    *   Member Benefits
-*   Shop
+    *   Gift Ideas
+    *   Birthday Ecards
+*   Photos &. Video
+    *   Photography
+    *   Video
+    *   Public Service Advertisements
+*   About Us
+    *   Vision &. Mission
+    *   Our Governance
+    *   Our Accountability
+    *   Why We're Effective
+    *   Working with Companies
+    *   Our Partners in Conservation
+    *   Careers
+    *   Diversity
+    *   Social Media
+    *   Volunteer
 
-Copyright © 2013 The Nature Conservancy.
+*   Contact Us   |  
+*   Help/FAQs   |  
+*   Provide Feedback   |  
+*   News &. Features   |  
+*   Green Living   |  
+*   Advertise with Us
 
-*   Privacy Policy
-*   Terms of Use
+Our Family of Sites
 
-The Nature Conservancy is a nonprofit, tax-exempt charitable organization under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
+*   Across the Globe
+    *   Australia: English
+    *   Brazil: Portugues
+    *   China: 简体中文
+    *   Hong Kong: 繁體中文 | English
+    *   Indonesia: Indonesian | English
+    *   Latin America: Español
+*   More Sites
+    *   Adopt an Acre
+    *   Blogs
+    *   Carbon Calculator
+    *   Climate Wizard
+    *   Conservation Gateway
+    *   _Nature Conservancy_ Magazine
+    *   Nature Rocks
+    *   Nature Works Everywhere
+    *   Plant a Billion Trees
+    *   Science for Nature &. People
+    *   Use Your Outside Voice
+
+**Copyright © 2014 The Nature Conservancy. Terms of Use | Privacy Policy**
+
+The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
+
+x **Sign up** for Nature eNews! Sign Up for Nature e-News
+
+Get our e-newsletter filled with eco-tips and info on the places you care about most.
+
+Thank you for joining our online community!
+
+We’ll be in touch soon with more Nature Conservancy news, updates and exciting stories.
+
+*   First
+*   Last
+*   Email
+*   State AKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYASFMGUMHMPPRPWVIAAAEAPABBCMBNBNLNSNTNUONPEQCSKYTNone
+
+Spam Control Text: Please leave this field empty GO! SUBMIT
+
+We respect your privacy. The Nature Conservancy will not sell, rent or exchange your e-mail address. Read our full privacy policy for more information. By submitting this form, you agree to the Nature.org terms of use.
