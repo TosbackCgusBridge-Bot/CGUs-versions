@@ -312,9 +312,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **John Wick Free Gift**
+Offers **#FandangoScareContest**
 
-FREE GAME DOWNLOAD of PAYDAY 2 with Fandango ticket purchase. BUY TICKETS
+Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
 
 **Mockingjay Collectible Cards**
 
