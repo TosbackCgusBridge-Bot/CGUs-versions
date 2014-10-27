@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13037776340
+true true C12913982125
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Oct 25 07:25:51 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p16.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sun Oct 26 03:21:39 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,52 +45,32 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Ends October 25.
-
-CODE: AUTUMN
-
-Extra 15% Off\* under $100 on select apparel, shoes, accessories, fine jewelry and home.
-
-Extra 20% Off\* $100 or more on select apparel, shoes, accessories, fine jewelry and home.
-
-Extra 25% Off\* $150 or more on select apparel, shoes, accessories, fine jewelry and home.
-
-In Store and Online
-
-Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details.In Store Only
-
-$10 Off\* $25 or more.
-
-print store coupon
-
+*   Friends and Family Extra 25% Off\*
+    
+    Select apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades.
+    
+    Plus Extra 15% Off\* optical.
+    
+    In store and online. October 26 and 27.
+    
+    Online Code: 4FAMILY
+    
+    \*See exclusions and details. print store coupon shop baby shop bed and bath shop window shop furniture shop luggage shop home decor shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie
 *   30-50% Off Home Sale
     
     Select styles.
     
-    shop the sale40-50% Off Luggage shop luggage40-50% Off Furniture and Mattresses shop furniture and mattresses30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen30-50% Off Home Decor shop home decor40-50% Off Window shop window
-*   Monster Sale
-    
-    Wicked savings on the fits that fit you best.
-    
-    shop the sale view store ad shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie shop baby shop bed and bath shop window shop furniture shop kitchen shop home decor
+    shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage40-50% Off Window shop window
 
-$10 Bonus Cash\* When You Spend $50 Or More
+Red Zone Clearance 50-70% Off
 
-In store only, October 22 through 25.
+Online only.
 
-\*See exclusions and details 30-40% Off Select Women's Coats shop women's coats $36.99 Levi's 505™ Regular Fit Jeans
+shop clearance 30-40% Off Select Women's Coats shop women's coats 40-50% Off Select Men's Coats shop men's coats 40% Off Select Kids' Coats shop kids' coats 30-40% Off Select Worthington shop Worthington 25-40% Off Select Women's Boots shop women's boots 30% Off Select Women's Cold-Weather Accessories shop women's cold-weather accessories 30-50% Off Small Appliances
 
-Regularly $58. Excluded from coupon offer.
+Select styles. Excluded from coupon offer.
 
-shop Levi's 30-40% Off Select A.N.A shop A.N.A 30% Off Select Women's Cold-Weather Accessories shop women's cold-weather accessories 25% Off Select Women's Clarks Shoes shop Clarks shoes 40% Off Select Carter's
-
-Excluded from coupon offer.
-
-shop Carter's 30-50% Off Sheets shop sheets Say Hello To The All-New JCPenney App
+shop small appliances Say Hello To The All-New JCPenney App
 
 Free shipping on $25 or more when you download the app by October 31!
 
@@ -108,11 +88,7 @@ get detailsSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop Red Zone Clearance Selections
-
-Online Only. 50-70% Off.
-
-shop clearance
+shop the SportsFanShop TIME Special $5 Magazine Offer view details
 
 get connected
 
