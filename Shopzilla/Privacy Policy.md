@@ -73,7 +73,7 @@ Toggle navigation ×
 
 Privacy Policy
 
-Last modified on: September 29th 2014
+Last modified on: October 27th 2014
 
 Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
 
@@ -87,7 +87,7 @@ What we do and why we collect data
 
 Connexity conducts business with advertisers (those who sell products and services, create the ads and buy the ad space) and publishers (those who provide the free content and services and sell the ad space). We are an intermediary in this process. Given lots of ads and lots of ad space, we provide technology that strives to match up the ads with the ad space and deliver the best ad at the best time. We improve performance for the advertiser and the publisher by reducing the clutter of ads that are not interesting to you.
 
-Our approach to this is based on many variables, most of which involve the collection of data from things like IP address, browser settings and browsing activity on the websites we work with (the network). The data is individualized to provide the best user experience through the most relevant ads, but remains strictly anonymous, confidential, and is never reviewed by a person. All of our technology uses computer algorithms to match ads to audience. Aggregate data is shared in report format with our clients as a normal course of business.
+Our approach to this is based on many variables, most of which involve the collection of data from things like IP address, browser settings and browsing activity on the websites we work with (the network). The data is individualized to provide the best user experience through the most relevant ads, but remains strictly anonymous, confidential, and is never reviewed by a person. All of our technology uses computer algorithms to match ads to audience. We target these audiences directly or make them available to third parties. Aggregate data is shared in report format with our clients as a normal course of business.
 
 How we collect data
 
