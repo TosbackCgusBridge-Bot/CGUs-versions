@@ -4,38 +4,37 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Ouija
+    *   John Wick
     *   Fury (2014)
     *   Gone Girl
     *   The Book of Life
+    *   St. Vincent
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
     *   The Best of Me
-    *   Dracula Untold
     *   The Judge (2014)
+    *   Dracula Untold
     *   Annabelle
-    *   The Equalizer
-    *   The Maze Runner
-    *   Addicted
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   John Wick
-    *   Ouija
-    *   Laggies
-    *   23 Blast
-    *   White Bird in a Blizzard
-    *   Citizenfour
-    *   Glen Campbell... I'll Be Me
-    *   Force Majeure (Turist)
-    *   The Principle
-    *   Revenge of the Green Dragons
-    *   Rhymes for Young Ghouls
+    *   Before I Go to Sleep
+    *   Nightcrawler
+    *   Saw 10th Anniversary
+    *   ABCs of Death 2
+    *   Horns
+    *   All You Need Is Love
+    *   The Great Invisible
+    *   Point and Shoot
+    *   Magical Universe
+    *   Revenge of the Mekons
+    *   Goodbye to Language 3D
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Before I Go to Sleep
-    *   Nightcrawler
+    *   Interstellar
     *   Big Hero 6
     *   Beyond the Lights
     *   Dumb and Dumber To
@@ -45,6 +44,7 @@ Gift Cards | Offers | Visa Signature
     *   The Pyramid
     *   Exodus: Gods and Kings
     *   Annie (2014)
+    *   The Hobbit: The Battle of the Five Armies
     *   See All Coming Soon
     
     Explore More
