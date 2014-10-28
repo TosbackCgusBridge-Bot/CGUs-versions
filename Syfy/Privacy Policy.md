@@ -263,9 +263,9 @@ Nice Shootin, Tex Nice Shootin, Tex
 
 From grief comes a lot of dead zombies as a heartbroken Roberta reinvents herself as the baddest gunslinger in the west.
 
-Z Nation - All the Kills - Episode 6 Z Nation - All the Kills - Episode 6
+Haven - Sneak Peek - Exposure Haven - Sneak Peek - Exposure
 
-Count all of this episode's zombie kills along with us.
+Get a sneak peek at the next episode of Haven, airing Friday at 7/6c. on syfy
 
 *   FAQ
 *   Feedback
