@@ -5,7 +5,7 @@ Sign in
 *   Search Microsoft.com
 *   Search the Web
 
-View Privacy Statement for:  Bing CRM Microsoft.com Mobile Devices MSN Office Windows Services Xbox Other~Products : September 2014 Notice something different?  
+View Privacy Statement for:  Bing CRM Microsoft.com Mobile Devices MSN Office Windows Services Xbox Other~Products : October 2014 Notice something different?  
 **Learn more** about our new layout. Microsoft.com Privacy Statement
 
 This privacy statement applies to Microsoft.com and Microsoft websites, services and products that collect data and display these terms, as well as their offline product support services. It does not apply to Microsoft sites, services and products that do not display or link to this statement or that have their own privacy statements.
@@ -80,6 +80,7 @@ As described in more detail below, many websites and online services from Micros
 *   Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
 *   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
 *   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+*   Kissmetrics: https://www.kissmetrics.com/user-privacy
 
   
   
@@ -431,7 +432,7 @@ FTC Privacy Initiatives
 
 Trustworthy Computing
 
-Last Updated: September 2014 Microsoft.com Privacy Statement
+Last Updated: October 2014 Microsoft.com Privacy Statement
 
 This privacy statement applies to Microsoft.com and Microsoft websites, services and products that collect data and display these terms, as well as their offline product support services. It does not apply to Microsoft sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
@@ -507,6 +508,7 @@ As described in more detail below, many websites and online services from Micros
 *   Coremetrics: http://www.coremetrics.com/company/privacy.php#optout
 *   Visible Measures: http://corp.visiblemeasures.com/viewer-settings
 *   Google Analytics: http://tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+*   Kissmetrics: https://www.kissmetrics.com/user-privacy
 
   
   
