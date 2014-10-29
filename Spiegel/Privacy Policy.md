@@ -392,9 +392,10 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   FREIZEIT
 *   Eurojackpot
 *   Lottozahlen
-*   Ferientermine
 *   Bücher  
     bestellen
+*   Sudoku
+*   Kenken
 
 *   AUTO UND FREIZEIT
 *   Partnersuche
@@ -402,6 +403,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   DSL-Vergleich
 *   Hörgeräte-  
     Beratung
+*   Ferientermine
 
 *   ENERGIE
 *   Gasanbieter-  
