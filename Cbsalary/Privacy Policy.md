@@ -3,7 +3,7 @@ Employers: Post Jobs | Search Resumes Sign In Help Security
 *   Home
 *   My CareerBuilder
     *   Saved Jobs and Applications
-    *   Post Resume
+    *   Add Resume
     *   Fraud Protection
 *   Find Jobs
     *   Setup Email Alert
