@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  BRIDGET
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C12916409100
+true true L13048787692
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Mon Oct 27 01:54:46 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Tue Oct 28 11:23:52 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,28 +45,42 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Friends and Family Extra 25% Off\*
+*   48 Hour Event
     
-    Select apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades.
+    Ends October 29 at Midnight CDT.
     
-    Plus Extra 15% Off\* optical.
+    Online only. Code: TREATS
     
-    In store and online. October 26 and 27.
+    Extra 20% Off\* $100 or more.
     
-    Online Code: 4FAMILY
+    Extra 10% Off\* furniture, mattresses, custom blinds and shades, and watches.
     
-    \*See exclusions and details. print store coupon shop baby shop bed and bath shop window shop furniture shop luggage shop home decor shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie
+    \*See exclusions and details.
+    
+    Or, In store and online. Code: TRICKS
+    
+    $10 Off\* $25 or more.
+    
+    print store coupon
 *   30-50% Off Home Sale
     
     Select styles.
     
-    shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage40-50% Off Window shop window
+    shop the sale30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window40-50% Off Luggage shop luggage30-50% Off Bedding and Bath shop bedding and bath
 
-Red Zone Clearance 50-70% Off
+30-50% Off Coats For The Family
+
+Select styles.
+
+shop men shop women shop kids shop men shop women shop kids Red Zone Clearance 50-70% Off
 
 Online only.
 
-shop clearance 30-40% Off Select Women's Coats shop women's coats 40-50% Off Select Men's Coats shop men's coats 40% Off Select Kids' Coats shop kids' coats 30-40% Off Select Worthington shop Worthington 25-40% Off Select Women's Boots shop women's boots 30% Off Select Women's Cold-Weather Accessories shop women's cold-weather accessories 30-50% Off Small Appliances
+shop clearance 30-50% Off Select Jeans For Her shop women's jeans 40-50% Off Select Men's Sweaters shop men's sweaters 40% Off Select Kids' Sleepwear shop kids' sleepwear 40-50% Off Select Women's Sleepwear and Robes shop women's sleepwear 25-40% Off Select Women's Boots shop women's boots 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar
+
+With Code: JWLRY39
+
+\*See exclusions and details. 30-50% Off Small Appliances
 
 Select styles. Excluded from coupon offer.
 
