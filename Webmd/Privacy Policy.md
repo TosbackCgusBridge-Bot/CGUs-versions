@@ -64,7 +64,7 @@ Symptoms| Doctors| Health Care Reform
     
     *   Commonly Abused Drugs
     *   What's Your Medication IQ?
-    *   Food, Medical Product &. Cosmetic Safety
+    *   Taking Medications During Pregnancy
     
     WebMD Pill Identifier
     
