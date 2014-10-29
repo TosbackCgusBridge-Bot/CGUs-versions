@@ -319,7 +319,7 @@ It is our goal to make our privacy practices easy to understand. We have created
 
   
 Sign Up for Email  
-New subscribers receive a FREE SHIPPING offer. Sign Up for Email  
+New subscribers receive a FREE SHIPPING offer.  
   
 
 Customer Service
