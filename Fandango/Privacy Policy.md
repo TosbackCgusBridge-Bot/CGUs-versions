@@ -67,10 +67,11 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Filmmakers have a specific kind of director in mind for Wonder Woman. Streep sings! Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More We double-dare you to watch this new 'Insidious 3' trailer in the dark... Read More Explore More
+*   Movie News Featured Movie News Big Superhero News: Benedict Cumberbatch is your Dr. Strange Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More Explore More
     *   Family
-    *   Hero Central
+    *   The Hunger Games Guide
     *   House of Screams
+    *   Hero Central
     *   Weekend Ticket
     *   Mom's Movie Minute
     *   Reel Kids
@@ -312,9 +313,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **#FandangoScareContest**
+Offers **Big Hero 6 Collectible Cards**
 
-Upload a horror movie moment and you could win a walk-on role in a Blumhouse Productions film. SEE DETAILS
+Hiro, Baymax, Go Go Tomago + more. Limited edition character gift cards. Choose your favorite or collect them all. BUY GIFT CARDS
 
 **Mockingjay Collectible Cards**
 
