@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Z Nation - Sneak Peek - Zunami Z Nation - Sneak Peek - Zunami
+Syfy Video Ascension Trailer Ascension Trailer
+
+Ascension, a three night event, premieres on December 15 at 9/8c
+
+Z Nation - Sneak Peek - Zunami Z Nation - Sneak Peek - Zunami
 
 Get a sneak peek at the next episode of Z Nation, airing Friday at 10/9c on Syfy
 
@@ -262,10 +266,6 @@ Count all of this episode's zombie kills along with us.
 Nice Shootin, Tex Nice Shootin, Tex
 
 From grief comes a lot of dead zombies as a heartbroken Roberta reinvents herself as the baddest gunslinger in the west.
-
-Haven - Sneak Peek - Exposure Haven - Sneak Peek - Exposure
-
-Get a sneak peek at the next episode of Haven, airing Friday at 7/6c. on syfy
 
 *   FAQ
 *   Feedback
