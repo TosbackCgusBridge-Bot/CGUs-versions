@@ -229,12 +229,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Bing Page Deals
-        2.  Home Laptop &. Desktop Deals
-        3.  Professional Laptop &. Desktop Deals
-        4.  ThinkPad &. ThinkCentre QuickShips
-        5.  Mystery eCoupon Codes
-        6.  Accessories Closeout Sale
+        1.  Home Laptop &. Desktop Deals
+        2.  Professional Laptop &. Desktop Deals
+        3.  ThinkPad &. ThinkCentre QuickShips
+        4.  Mystery eCoupon Codes
+        5.  Accessories Closeout Sale
+        6.  Bing Page Deals
         7.  Deals for Students and Educators
         8.  Outlet
         9.  See all Current Offers
