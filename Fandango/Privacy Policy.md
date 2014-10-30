@@ -38,7 +38,7 @@ Gift Cards | Offers | Visa Signature
     *   Big Hero 6
     *   Beyond the Lights
     *   Dumb and Dumber To
-    *   The Hunger Games: Mockingjay - Part 1 (2014)
+    *   The Hunger Games: Mockingjay - Part 1
     *   Horrible Bosses 2
     *   Penguins of Madagascar
     *   The Pyramid
@@ -313,17 +313,17 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Big Hero 6 Collectible Cards**
+Offers **24 HOURS ONLY!**
 
-Hiro, Baymax, Go Go Tomago + more. Limited edition character gift cards. Choose your favorite or collect them all. BUY GIFT CARDS
+Get a free download of The Hunger Games: Catching Fire on VUDU + you could win a trip to the world premiere in London with ticket purchase.\* BUY TICKETS
 
 **Mockingjay Collectible Cards**
 
 These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
 
-**The Best of Me Sweepstakes**
+Mockingjay Fan Art Contest
 
-Buy tickets to be automatically entered for a chance to meet Hunter Hayes at his 'Tattoo Your Name Tour.' BUY TICKETS
+Submit your Mockingjay Fan Art on Tumblr for a chance to win! ENTER NOW
 
 **Halloween Costume Contest**
 
@@ -336,7 +336,7 @@ New + Coming Soon
 *   Big Hero 6
 *   Interstellar
 *   Penguins of Madagascar
-*   The Hunger Games: Mockingjay - Part 1 (2014)
+*   The Hunger Games: Mockingjay - Part 1
 *   The Hobbit: The Battle of the Five Armies
 *   Annie (2014)
 
