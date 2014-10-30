@@ -1,4 +1,4 @@
-Skip to Main Content Toggle search
+Skip to Main Content Search Toggle search
 
 *   Stations
 *   Donate
@@ -242,38 +242,27 @@ Support The Programs You Love
 *   News
     *   U.S.
     *   World
-    *   Opinion
     *   Politics
     *   Business
     *   Technology
     *   Science
     *   Health
-    *   Sports
+    *   Race &. Culture
+    *   Education
 *   Arts &. Life
     *   Books
     *   Movies
     *   Pop Culture
     *   Food
+    *   Art &. Design
     *   Performing Arts
-    *   Games &. Humor
+    *   Photography
 *   Music
-    *   Music Articles
-    *   Music Videos
-    *   NPR Music Radio
-    *   Browse Artists A-Z
-    *   All Songs Considered
-    *   Alt.Latino
     *   First Listen
-    *   Metropolis
-    *   Microphone Check
-    *   Mountain Stage
-    *   From The Top
-    *   Jazz Night In America
-    *   JazzSet
-    *   Piano Jazz
-    *   Song Travels
-    *   The Thistle &. Shamrock
-    *   World Cafe
+    *   Songs We Love
+    *   Music Articles
+    *   Tiny Desk Concerts
+    *   Videos
 *   Programs
     *   All Things Considered
     *   Ask Me Another
