@@ -10,6 +10,7 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
+    *   United XXVI
     *   Bethany Mota
     *   Outfit Guide
     *   Uniform Looks
@@ -42,6 +43,7 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
+    *   United XXVI
     *   Outfit Guide
     *   Uniform Looks
     *   Extended Sizes
