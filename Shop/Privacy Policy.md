@@ -57,11 +57,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         11.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
         1.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
-        2.  ThinkPad 10: 10.1" Tablet with Full PC Experience
-        3.  ThinkPad Helix: 11.6" Premium Business Ultrabook
-        4.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
-        5.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        6.  See all Windows Tablets
+        2.  Lenovo Yoga Tablet 2 13: 13" Revolutionary Multimode Tablet
+        3.  ThinkPad 10: 10.1" Tablet with Full PC Experience
+        4.  ThinkPad Helix: 11.6" Premium Business Ultrabook
+        5.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
+        6.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
+        7.  See all Windows Tablets
     4.  2-in-1 Laptops Laptop / Tablet Hybrids
         1.  Lenovo Yoga: Sleek Convertible Ultraportables
         2.  ThinkPad Helix: 11.6" Premium Business Ultrabook
@@ -181,7 +182,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         9.  Security
         10.  See all Software
     4.  Technologies The Lenovo Difference Inside
-        1.  Lenovo Reach
+        1.  REACHit
         2.  Lenovo Mobile Access
         3.  Thin Client Solutions
         4.  Free System Checkup
@@ -456,6 +457,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Tablets
     *   Desktops
     *   Workstations
+    *   Smartphones
     *   Yoga Tablet
     *   Gaming Computers
     *   New Product Showcase
