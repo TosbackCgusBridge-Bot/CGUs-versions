@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12925652097
+true true C12928985336
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Wed Oct 29 05:00:49 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Thu Oct 30 12:21:41 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,46 +45,56 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   48 Hour Event
+Online Only
+
+Ends November 2.
+
+CODE: PUMPKIN
+
+Extra 15% Off\* under $100 select apparel, shoes, accessories, fine jewelry and home.
+
+Extra 20% Off\* $100 or more select apparel, shoes, accessories, fine jewelry and home.
+
+Extra 25% Off\* $150 or more select apparel, shoes, accessories, fine jewelry and home.
+
+In Store and Online
+
+Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details.In Store Only
+
+$10 Off\* $25 or more.
+
+print coupon
+
+*   Big Big Sale
     
-    Ends October 29 at Midnight CDT.
+    In store and online.
     
-    Online only. Code: TREATS
+    shop the sale shop women's shop baby shop home decor shop bedding and bath shop window shop kitchen and dining shop jewelry shop men's shop shoes shop lingerie shop kids' shop furniture and mattressesNight and Day Doorbusters
     
-    Extra 20% Off\* $100 or more.
+    In store only. 3PM Friday, October 31, through 1PM Saturday, November 1.
     
-    Extra 10% Off\* furniture, mattresses, custom blinds and shades, and watches.
-    
-    \*See exclusions and details.
-    
-    Or, In store and online. Code: TRICKS
-    
-    $10 Off\* $25 or more.
-    
-    print store coupon
+    view doorbusters store ad
 *   30-50% Off Home Sale
     
     Select styles.
     
-    shop the sale30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window shop window40-50% Off Luggage shop luggage30-50% Off Bedding and Bath shop bedding and bath
+    shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window
+    
+    Select styles.
+    
+    shop window
 
-30-50% Off Coats For The Family
-
-Select styles.
-
-shop men shop women shop kids shop men shop women shop kids Red Zone Clearance 50-70% Off
+30-50% Off Denim For Her shop women's jeans 40-50% Off Select Men's Sweaters shop men's sweaters 30-40% Off Select Women's Coats shop women's coats 40% Off Select Kids' Arizona shop kids' Arizona 25-40% Off Select Women's Boots shop women's boots 40-60% Off Select Fashion Jewelry When You Buy Two Or More shop fashion jewelry Red Zone Clearance 50-70% Off
 
 Online only.
 
-shop clearance 30-50% Off Select Jeans For Her shop women's jeans 40-50% Off Select Men's Sweaters shop men's sweaters 40% Off Select Kids' Sleepwear shop kids' sleepwear 40-50% Off Select Women's Sleepwear and Robes shop women's sleepwear 25-40% Off Select Women's Boots shop women's boots 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar
+shop clearance 40-50% Off Luggage
 
-With Code: JWLRY39
+Select styles.
 
-\*See exclusions and details. 30-50% Off Small Appliances
-
-Select styles. Excluded from coupon offer.
-
-shop small appliances Say Hello To The All-New JCPenney App
+shop luggage Say Hello To The All-New JCPenney App
 
 Free shipping on $25 or more when you download the app by October 31!
 
@@ -102,7 +112,11 @@ get detailsSportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop TIME Special $5 Magazine Offer view details
+shop the SportsFanShop Just $5
+
+Get ALL your favorite magazines from TimeInc. today.
+
+shop now
 
 get connected
 
