@@ -246,6 +246,7 @@ See why an owner's love for Subaru lasts forever.
 *   Social Responsibility
 *   Awards and Accolades
 *   Dear Subaru
+*   Love Promise
 *   Live. Love.
 
 Company
