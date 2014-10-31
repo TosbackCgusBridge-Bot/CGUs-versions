@@ -107,7 +107,7 @@ ASW may retain information submitted by you for such time as is reasonably neces
 
 We will remove personal information by deleting it from our database if required to do so by law.
 
-We regularly review the way we collect, store and process information, including physical security measures, in order to protect our systems from any unauthorized access.
+We regularly review the way we collect, store and process information, including physical security measures, in order to protect our systems from any unauthorised access.
 
 All of our services are fully encrypted using SSL.
 
