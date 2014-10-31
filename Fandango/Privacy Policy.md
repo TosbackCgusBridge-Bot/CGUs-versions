@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Big Superhero News: Benedict Cumberbatch is your Dr. Strange Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More Explore More
+*   Movie News Featured Movie News Check out these first images from 'Terminator: Genisys' -- it's going in a way different direction Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   House of Screams
@@ -313,15 +313,15 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **24 HOURS ONLY!**
+Offers **Mockingjay Part 1 Sweepstakes**
 
-Get a free download of The Hunger Games: Catching Fire on VUDU + you could win a trip to the world premiere in London with ticket purchase.\* BUY TICKETS
+Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
 **Mockingjay Collectible Cards**
 
 These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
 
-Mockingjay Fan Art Contest
+**Mockingjay Fan Art Contest**
 
 Submit your Mockingjay Fan Art on Tumblr for a chance to win! ENTER NOW
 
