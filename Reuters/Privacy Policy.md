@@ -1,70 +1,167 @@
-CONTACT US   |   FIND YOUR REP  
+This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
 
-*   KNOW THE DIFFERENCE  
-    *   TRUSTED EXPERTISE
-    *   WESTSEARCH
-    *   FOLDER SHARING
-    *   CURRENT AWARENESS
-    *   CUSTOM PAGES
-*   AWARDS &. REVIEWS
-    *   AWARDS
-    *   REVIEWS
-    *   ARTICLES
-    *   PRESS ROOM
-*   CUSTOMER SUCCESS STORIES
+*   Discover Thomson Reuters
+*   Login
+*   Contact Us
+*   Find Your Rep
+*   **Cart 0**
+
+Thomson Reuters Industries
+
+*   Financial &. Risk
+*   Legal
+*   Life Sciences
+*   Tax &. Accounting
+
+*   Intellectual Property
+*   Reuters News Agency
+*   Scholarly &. Scientific Research
+
+About Thomson Reuters
+
+*   ThomsonReuters.com
+*   About Us
+
+*   Office Locations
+*   Media Contacts
+*   Press Releases
+*   Careers
+
+Connect with Us
+
+*   Facebook
+*   Twitter
+*   LinkedIn
+*   Google+
+
+Skip to content Skip to navigation menu Your browser is not supported by this site. Please update to the latest version, or use a different browser for the best experience. Legal Solutions Free Standard Shipping! Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to WestlawNext WestlawNext online legal research
+
+*   Why WestlawNext?
+*   Plans
+    *   Corporate Counsel
+    *   Government
+    *   Large &. Midsize Firms
+    *   Small Firms
+*   Training &. Support
+*   Find your rep
+
+Practitioner Insights
+
+Start your day in the know. Choose a Practitioner Insights page as your start page on WestlawNext for up-to-the-minute legal developments in your practice area.
+
+*   More Top News
     
-*   MOBILE
-    *   iPad APP
-    *   ANDROID APP
-    *   MOBILE SITE
-*   LEARNING &. SUPPORT
+    A rotating display of the day's leading legal news stories from Reuters.
     
-*   WESTLAW STORE
+    Close
+*   More Analysis
     
+    This section includes analysis of the day's leading developments in your practice area from Wolters Kluwer Daily Reporting Suite, CQ Roll Call Washington Briefings, Westlaw Daily, and more.
+    
+    Close
+*   More Most Popular Analysis
+    
+    Front-and-center access to the top-viewed news and analysis.
+    
+    Close
+*   More WestSearch®
+    
+    Appears at the top of every page and lets you do a global search of all content, or search within the practice area.
+    
+    Close
+*   More Make this my start page.
+    
+    Just one click turns this page into your WestlawNext Start Page.
+    
+    Close
+*   More Browse
+    
+    Market-leading content focused on your practice area, including the most comprehensive collection of primary law, exclusive analytics materials, and the largest collection of litigation materials and forms.
+    
+    Close
+*   More My Alerts
+    
+    Create and manage all of your alerts on WestlawNext. A real-time feed of the most recent alerts is displayed.
+    
+    Close
+*   More Featured Legal Filings
+    
+    Selected by expert attorney-editors and deliver the most relevant, recently filed documents.
+    
+    Close
 
-Back to Current Awareness PRACTITIONER INSIGHTS Your source for up-to-the-minute insights and analysis that matter to you.
+Our attorney-editors keep a constant eye on your law practice area to ensure you see the most important legal updates of the day.
 
-From a single page on WestlawNext, access the practice area-specific information you need to stay focused, and stay in the know.
-
-*   A dedicated team of attorney-editors monitors each practice area to ensure you see the most important updates of the day
-*   Get practice area-focused insights and analysis from:
-    *   Westlaw Daily Briefings, new expert analysis from Thomson Reuters attorney-editors on the latest developments affecting your practice area
-    *   Reuters Legal
-    *   Select Wolters Kluwer Daily Reports
-    *   CQ Roll Call Washington Briefings
-    *   The Hill and Practitioner Insights Commentaries
-    *   The largest collection of litigation content
-    *   And more
-*   Seamlessly access your Alerts on WestlawNext to inform you promptly of new developments relevant to your practice area or matching your customized search
-*   Select a Practitioner Insights page to be your WestlawNext Start Page so you can start each day "in the know"
-
-NEED MORE INFORMATION Download PDF
-
-PRACTICE AREAS
+Legal Practice areas
 
 *   Antitrust
 *   Bankruptcy
-*   Capital Markets
-*   Corporate Counsel
-*   Corporate Governance
-*   Energy &. Environment
+*   Capital markets
+*   Corporate counsel
+*   Corporate governance
+*   Energy &. environment
 *   Employment
-
-*   Finance &. Banking
-*   Health Law
+*   Finance &. banking
+*   Health law
 *   Immigration
-*   Intellectual Property
-*   Mergers &. Acquisitions
-*   Products Liability
-*   Securities Enforcement and Litigation
+*   Intellectual property
+*   Mergers &. acquisitions
+*   Products liability
+*   Securities enforcement  
+    &. litigation
 
-  
-
-JURISDICTIONS
+Jurisdictions
 
 *   National
-
 *   New York
 
-WESTLAW NEXT SUPPORTTRAINING &. USER GUIDESCOMMUNITY Find Your Rep Customer Service Technical Support Chat Online My Account Westlaw Usage (QuickView+) OnePass Registration West eLearning WestlawNext User Guides Next Notes Legal Solutions Blog WestlawNext Tip of the Week Westlaw Headnote of the Day Privacy Statement  |  Terms of Use  |  Email Sign Up  
-Westlaw Store  |  Call 1-800-207-9378  |   Thomson Reuters
+Practitioner Insights and analysis from top legal news sources
+
+*   Westlaw Daily Briefings – original expert analysis from Thomson Reuters attorney-editors
+*   Reuters News – Legal news stories
+*   Select Wolters Kluwer Daily Reports
+*   CQ Roll Call Washington Briefings
+*   The Hill and Practitioner Insights commentaries
+*   The largest collection of litigation content
+
+Use your alerts on WestlawNext to inform you promptly of new legal developments in your practice area or from your customized search.
+
+If you like, set up daily email summaries as well. You can add colleagues to the email list.
+
+More information
+
+Details on Practitioner Insights (PDF)
+
+*   Customer Service
+*   Contact Us
+*   Find Your Rep
+*   My Account
+*   OnePass
+*   Payment, Shipping &. Returns
+*   Book Pricing Options
+
+*   Product Support
+*   Support By Product
+*   24/7 Reference Attorneys
+*   Software Downloads
+*   Law Librarian Resources
+*   Small Firm Resources
+
+*   Browse By Category
+*   Small Law Firms
+*   Large &. Midsize Law Firms
+*   Corporate
+*   Government
+
+*   Practice Area
+*   Jurisdiction
+
+*   Connect With Us
+*   About Us
+*   Email Exclusives &. Newsletters
+*   Today's Deals
+*   Headnote of the Day
+*   Editorial Submissions
+*   Legal Notices
+
+Careers | Site Map | Terms of Use | Privacy Statement © 2014 THOMSON REUTERS
