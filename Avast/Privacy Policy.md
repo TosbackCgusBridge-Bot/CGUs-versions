@@ -11,7 +11,7 @@ Outline:
 
 I. Scope of Policy
 
-This Avast Privacy and Information Security Policy applies to AVAST Software s.r.o., AVAST Software B.V., AVAST Software, Inc., each of their subsidiaries and affiliates (collectively "Avast"), and all of their contractors, representatives, agents, and resellers while they are working on behalf of Avast (collectively “we” or “us”). AVAST Software s.r.o. is a data controller of personal data processed in accordance with this policy. This policy applies to the following situations and activities that we engage in:
+This AVAST Privacy and Information Security Policy applies to AVAST Software s.r.o.. ("Avast"), and all of its contractors, representatives, agents, and resellers while they are working on behalf of Avast (collectively “we” or “us”). AVAST Software s.r.o. is a data controller of personal data processed in accordance with this policy. This policy applies to the following situations and activities that we engage in:
 
 Online activities.
 
@@ -121,9 +121,9 @@ You are not required to disclose any personal information in order to download *
     You are not required to agree to allow Avast to post on your behalf. If you do not wish to allow Avast to post these messages, click “Skip” at this stage in the registration process. You can modify your posting preferences at any time via my Avast Account (https://my.avast.com/en-us/facebook).
     
 
-Personal data collected by specific products.
+Data collected by specific products.
 
-Some of our product offerings are required to collect additional personal information in order to deliver full product functionality. In general, we collect no more personal information than is required in order to provide full functionality of these products. Specific products, and the types of information that they collect when you use them, are as follows:
+Some of our product offerings are required to collect additional information in order to deliver full product functionality, such as information about websites that you have visited and files on your computers. In general, we collect no more information than is required in order to provide full functionality of these products. Specific products, and the types of information that they collect when you use them, are as follows:
 
 *   **Avast Free Antivirus**, **Avast Pro Antivirus**, **Avast Internet Security**, **Avast Free Mac Security**, **Avast Pro Antivirus for Mac**, **Avast Endpoint Protection**, **Avast Endpoint Protection Suite**, **Avast Endpoint Protection Plus**, and **Avast Endpoint Protection Suite Plus** include the following features or collect the following types of information:
     
@@ -133,7 +133,7 @@ Some of our product offerings are required to collect additional personal inform
         *   Information about the sender (not including personal information) and subject of emails identified by the Avast software as potentially infected, together with the information on the nature of identified threats.
         *   Additional statistical information about threats detected by the Avast software.
     *   (2) Avast FileRep: **Avast FileRep** is a database of executable files sourced from users who agree to participate in the service. The files (or their hashes — i.e., deidentified versions of the files) are stored and evaluated for the purpose of determining which are infectious and updating virus databases. Participation in **Avast FileRep** is voluntary, and data is not stored in a way that permits it to be associated with particular users. No user is required to agree to participate in the **Avast FileRep** service.
-    *   (3) Avast WebRep: **Avast WebRep** is a browser plug-in which collects opinion information provided by users, and provides a reputation rating in the form of a visual icon that appears next to websites that appear in search results. The reputation rating is based on the votes of **Avast WebRep** participants. Participation is voluntary. If the WebRep function is active, the Avast software may send Avast the URLs of all websites you want to visit and the results of your web searches through search engines.
+    *   (3) Avast WebRep: **Avast WebRep** is a browser plug-in which collects opinion information provided by users, and provides a reputation rating in the form of a visual icon that appears next to websites that appear in search results. The reputation rating is based on the votes of **Avast WebRep** participants. Participation is voluntary. If the WebRep function is active, the Avast software may send Avast the URLs of websites you visit and the results of your web searches through search engines.
     *   (4) Avast Antispam: **Avast Antispam** is a module that is designed to protect users against unwanted emails (spam). The software may collect Information contained in emails reported by you as spam or as incorrectly identified as spam by the software.
     *   (5) Update Statistics: In order to better understand the usage of updating infrastructure, the software also collects information about all updates to the Avast software (including automatic updates), including certain information about your computer hardware and software configuration and/or network connection, as well as certain information about the installation and operation of the Avast software and errors or problems that are encountered.
     *   (6) Offering of our mobile products: When you download or update our product, we may use information contained in third party cookies on your computer, such as information about the operating system on your mobile devices and related email address. We will use this information only for the purpose of offering you our mobile products such as Avast Free Mobile Security and, in case you agree, installing them on your device(s). Then we will maintain this information only for statistical purposes.
@@ -156,7 +156,7 @@ Some of our product offerings are required to collect additional personal inform
 *   Other products: There may be other products (current or future) that require that we collect certain types of personal information in order to enable full product functionality. We will always inform you prior to collecting any such information, usually in the terms of service or end user license agreement (EULA) applicable to the product in question.
     
 
-The information described above, when collected by the Avast software, is generally not correlated with any other personal information related to you that Avast may be processing, such as information provided during the process of ordering and downloading the software. Unless you have permitted otherwise, the information collected by the Avast software is used anonymously in aggregation with similar information from other users of the software for analytical purposes to identify new viruses and threats, for improvement and development of the software, and for statistical purposes.
+We reserve the right to store and use the information collected by the Avast software and to share such information within the Avast Group in order to improve the Avast Group’s current and future products and services, to help the Avast Group develop new products and services, and to better understand the behavior of Avast users. We may publish or share that information with third parties that are not part of the Avast Group, but we will only ever do so after removing our users’ personally identifiable information. Any reference in this policy to “Avast Group” means Avast, its parent companies and any company that is controlled by or under common control with Avast or its parent companies.
 
 In-product messaging.
 
