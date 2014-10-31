@@ -95,11 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Oct 29, 2014 ICANN Los Angeles Recap Webinar - Preparing for gTLDs
-
-With more than 400 new gTLD registries now delegated and over 2.6 million new gTLD registrations, a changing Internet governance landscape, and requirements for enhancing ICANN accountability resulting from the IANA transition, assessing the impact on your business is vital.  Join Domain Management and gTLD Experts, Elisa Cooper and Matt Serlin of MarkMonitor® for guidance on navigating this complex environment.  
- 
-
 Thu, Oct 30, 2014 Cyber Risk Summit
 
 The Cyber Risk Summit brings together cyber security specialists, technologists, entrepreneurs, industry experts and business leaders to tackle the challenges and opportunities that come with cyber security strategies. Featuring break out sessions keyed in for your needs connecting with peers and strategic insights, this is a day you can't afford to miss.
@@ -114,6 +109,10 @@ Due to the evolution of personalized, data-driven digital marketing, companies n
 
 But how should you use this data? And at what point does the information known about your consumers—and the ways you use this information—risk consumer privacy? Is there such thing as too much data?  
  
+
+Wed, Nov 5, 2014 Happy Hour @ AdTech
+
+OTA Members and site visitors are invited to join UnsubCentral for a Happy Hour at AdTech New York! We'll meet at the Eventi Hotel for drinks, appetizers and great conversation with leaders in the digital advertising world. A great networking opportunity!
 
 *   OTA Blog
 *   Newsletters
