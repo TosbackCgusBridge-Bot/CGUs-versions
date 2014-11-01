@@ -12,6 +12,7 @@ Aéropostale Go
     *   NEW ARRIVALS
     *   United XXVI
     *   Bethany Mota
+    *   Cold Weather Shop
     *   Outfit Guide
     *   Uniform Looks
     *   Web Exclusives
@@ -43,6 +44,7 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
+    *   Cold Weather Shop
     *   United XXVI
     *   Outfit Guide
     *   Uniform Looks
@@ -232,6 +234,7 @@ Back to Top Mobile Signup
 *   TERMS OF USE
 *   PRIVACY POLICY
 *   STORE LOCATOR
+*   THE AERO WAY
 
 *   GIFT CARDS
 *   E-GIFT CARDS
