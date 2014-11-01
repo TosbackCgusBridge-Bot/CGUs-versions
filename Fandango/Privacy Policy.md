@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Check out these first images from 'Terminator: Genisys' -- it's going in a way different direction Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More We've got the new 'Avengers: Age of Ultron' trailer right here Read More Explore More
+*   Movie News Featured Movie News Check out these first images from 'Terminator: Genisys' -- it's going in a way different direction Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More First Look: The tough cookies of 'Pride and Prejudice and Zombies' Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   House of Screams
@@ -325,9 +325,9 @@ These cards are on fire. Available for a limited time only. Get them while you c
 
 Submit your Mockingjay Fan Art on Tumblr for a chance to win! ENTER NOW
 
-**Halloween Costume Contest**
+**Furious 7 Sweepstakes**
 
-Show us your family's movie-themed costumes for a chance to win $500 cash and a year of movie tickets! SEE DETAILS
+Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT PACKAGE! ENTER NOW
 
 New + Coming Soon
 
