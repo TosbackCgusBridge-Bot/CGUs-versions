@@ -1,6 +1,7 @@
 Datenschutz **1\. Allgemeines**  
 Der Schutz Ihrer persönlichen Daten hat für die Telekom Deutschland einen hohen Stellenwert. Es ist uns wichtig, Sie darüber zu informieren, welche persönlichen Daten wir während Ihres Besuchs auf unseren Webseiten erfassen, wie diese verwendet werden und welche Gestaltungsmöglichkeiten Sie dabei haben. Dieser Datenschutzhinweis gibt Ihnen Antworten auf die wichtigsten Fragen.  
   
+  
 **2\. Welche Daten werden erfasst und wie werden sie verwendet?**  
   
 a) Für die Erbringung unserer Leistungen  
@@ -15,11 +16,14 @@ b) Für gesetzlich vorgesehene Zwecke
   
 Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung von Missbrauch und für die Erkennung und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage.  
   
+  
 **3\. Wo werden meine Daten verarbeitet?**  
 Ihre Daten werden grund¬sätzlich in Deutschland verarbeitet. Nur in Einzelfällen und im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im Ausland statt.  
   
+  
 **4\. Wie sicher sind meine Daten?**  
 Zum Schutz Ihrer Daten vor unberechtigtem Zugriff und Missbrauch haben wir umfangreiche technische und betriebliche Sicherheitsvorkehrungen nach deutschem Recht getroffen.  
+  
   
 **5.Werden meine Daten an Dritte weitergegeben, zum Beispiel an Behörden?**  
 Ja, einige Daten müssen unter strengen vertraglichen und gesetzlichen Auflagen weitergegeben werden:  
@@ -32,21 +36,31 @@ In bestimmten Fällen sind wir gesetzlich verpflichtet, Daten an eine anfragende
   
 Darüber hinaus geben wir keine Daten an Dritte weiter, es sei denn, Sie haben ausdrücklich eingewilligt oder dies ist gesetzlich vorgesehen.  
   
+  
 **6\. Wird meine IP-Adresse gespeichert?**  
 Um Missbrauch aufzudecken (Spam, Viren, Würmer etc.) und Störungen in unserem Netz erkennen und beseitigen zu können, wird Ihre IP-Adresse für sieben Tage ab Ende der Verbindung gespeichert.  
   
-**7\. Wird mein Nutzungsverhalten ausgewertet, z.B. für Werbung?**  
-Im Rahmen der gesetzlichen Regelungen legen wir Nutzungsprofile unter einem Pseudonym an. Diese können wir für Werbung und Marktforschung auswerten. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen. Die Telekom verwendet die Dienste der **Firma Webtrekk GmbH**, um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren.  
   
-**Opt-Out-Möglichkeit:**  
-Für den Ausschluss vom Webtrekk Web-Controlling wird ein Cookie mit dem Namen webtrekkOptOut von der Domain Webtrekk.net gesetzt. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen.  
-Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen  
-http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html  
+**7\. Wird mein Nutzungsverhalten ausgewertet, z.B. für Werbung?**  
+Im Rahmen der gesetzlichen Regelungen legen wir Nutzungsprofile unter einem Pseudonym an. Diese können wir für Werbung und Marktforschung auswerten. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen.  
+  
+**Tag-Management mit Tealium**  
+Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbieter auf den Seiten der Telekom Deutschland GmbH geladen werden (bspw. das Webtrekk Messpixel). Zur Optimierung des Ladens der Messpixel erfasst Tealium über ein Cookie einige nicht personenbezogene Daten. Dieses Cookie verliert nach 12 Monaten seine Gültigkeit. Folgende Informationen werden in dem Tealium Cookie gespeichert:  
+  
+
+*   Zeitstempel des Webseitenbesuchs
+*   ID für den Seitenaufruf
+*   ID für den Besucher
+*   ID für die Session
+
+  
+Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der Domain tealium.hs.llnwd.net blockiert werden.  
   
 **Webseiten-Analyse mit Webtrekk:**  
-Die Webtrekk GmbH ist für Datenschutz, im Bereich Web Controlling Software, vom TÜV Saarland zertifiziert. Teil der Zertifizierung ist ein Audit bei Webtrekk vor Ort in Berlin und im Hosting-Standort, in dem die Erfassung und Verarbeitung von Tracking-Daten auf Datenschutzkonformität und Datensicherheit hin geprüft wurden.  
+Die Telekom verwendet die Dienste der Firma Webtrekk GmbH, um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren. Die Webtrekk GmbH ist für Datenschutz, im Bereich Web Controlling Software, vom TÜV Saarland zertifiziert. Teil der Zertifizierung ist ein Audit bei Webtrekk vor Ort in Berlin und im Hosting-Standort, in dem die Erfassung und Verarbeitung von Tracking-Daten auf Datenschutzkonformität und Datensicherheit hin geprüft wurden.  
 Erfasste Daten für die Webanalyse  
 Im Rahmen Ihres Besuchs der Anwendung werden für unser Webcontrolling einige Informationen erhoben und ausgewertet, die Ihr Browser übermittelt. Die Erhebung erfolgt durch einen Pixel, der auf jeder Seite eingebunden ist.  
+  
 **Folgende Daten werden erhoben:**  
   
 
@@ -68,31 +82,45 @@ Im Rahmen Ihres Besuchs der Anwendung werden für unser Webcontrolling einige In
   
 **IP-Adresse**  
 Die IP-Adresse wird bei jeder Serveranfrage übertragen, damit der Server weiß, wohin die Antwort gesendet werden muss. Die IP-Adresse erhält jeder von einem Internet-Service-Provider (ISP), sobald er sich mit dem Internet verbindet und der ISP kann nachvollziehen, welche IP-Adresse zu welchem Zeitpunkt welchem seiner Kunden zugeordnet wurde. Solange die IP-Adresse gespeichert wird, kann über den Umweg des ISPs theoretisch die Identität des Anschlussinhabers ermittelt werden. Wir und unser Statistikdienstleister speichern die IP-Adresse daher nur in gekürzter (anonymisierter) Form und verwenden sie nur zur Sessionerkennung, für die Geolokalisierung (bis auf Stadt-Ebene) und für die Abwehr von Attacken. Die IP-Adresse wird dann umgehend wieder gelöscht, so dass die erfassten Daten dann anonym sind und selbst über den Umweg des ISPs keine Zuordnung zur Identität des Nutzers mehr möglich ist.  
+  
 **Cookies**  
 Folgende Cookies werden mit Webtrekk gesetzt:  
   
 
-*   Session Cookie
-*   Langzeit-Cookie
-*   Opt-out-Cookie
-*   In Ihren Browsereinstellungen können Sie festlegen, ob Cookies gesetzt werden dürfen oder nicht. Wenn Sie spezifisch für diese Anwendung nicht getrackt werden möchten, können Sie widersprechen (siehe erster Absatz unter 7.).
+*   Session Cookie (für Session-Erkennung, Lebensdauer: eine Session)
+*   Langzeit-Cookie (zur Erkennung Neu-/Stammkunde: 6 Monate)
+*   Opt-out-Cookie (bei Widerspruch gegen das Tracking: 60 Monate)
+*   In Ihren Browsereinstellungen können Sie festlegen, ob Cookies gesetzt werden dürfen oder nicht. Wenn Sie spezifisch für diese Anwendung nicht getrackt werden möchten, können Sie widersprechen.
 
   
+**Widerruf zur Datenspeicherung**  
+Nach §15 des Telemediengesetzes können Webseitenbesucher der Datenspeicherung Ihrer pseudonymisiert erfassten Besucherdaten widersprechen, so dass sie in Zukunft nicht mehr erhoben (erfasst) werden. Für den Ausschluss vom Webtrekk Web-Controlling wird ein Cookie mit dem Namen webtrekkOptOut von der Domain Webtrekk.net gesetzt. Dieser Widerspruch gilt so lange, wie Sie das Cookie nicht löschen, maximal jedoch für die Lebensdauer des Cookies von 60 Monaten. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen. Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen  
   
 Weitere Informationen finden Sie auf der Website der Webtrekk GmbH, Hannoversche Str. 19, 10115 Berlin, http://www.webtrekk.com/  
   
-Darüber hinausgehende personenbezogene Daten, wie z.B. Ihr Name, Ihre Anschrift, Telefonnummer oder E-Mail-Adresse, werden nicht erfasst, es sei denn, diese Angaben werden von Ihnen freiwillig gemacht.  
+**Webseiten-Analyse mit AT Internet:**  
+Wir möchten die Angebote unserer Webseiten so erweitern und verbessern, dass sie mit Ihren Interessen übereinstimmen. Dafür setzen wir die Analyseverfahren der Firma AT Internet GmbH, Bordeaux, ein. Hierfür werden Daten von einem externen Dienstleister gespeichert. Die Server des Dienstleisters befinden sich in Mitgliedsstaaten der EU. Bei diesem Verfahren werden die Daten bereits bei ihrer Erhebung anonymisiert und in aggregierter Form ausgewertet.  
+  
+Ihr Internet-Browser übermittelt automatisch Daten an unseren Server, sobald Sie auf unsere Webseiten zugreifen. Datum und Uhrzeit des Zugriffs, URL (Adresse) der verweisenden Webseite, abgerufene Datei, gesendete Datenmenge, den http-Antwortcode, Browser-Typ und -Version, evtl. vorhandene Browser-Erweiterungen, Betriebssystem und Ihre IP-Adresse (in verkürzter und anonymisierter Form) werden dabei übermittelt. Diese Daten werden getrennt von anderen Daten gespeichert, die Sie im Rahmen der Nutzung unseres Angebotes eingeben und enthalten keine Informationen, die Rückschlüsse auf Einzelpersonen zulassen. Die Zuordnung dieser Daten zu Ihrer Person ist uns nicht möglich. Sie werden ausschließlich zu Analysezwecken verwendet.  
+  
+Sie können der Datenverarbeitung durch AT Internet jederzeit unter folgendem Link widersprechen:  
+http://www.xiti.com/de/optout.aspx  
+  
+Die AT Internet GmbH setzt für diese Analysen Cookies ein. Das sind kleine Textdateien, die auf Ihrem Computer gespeichert werden. So können wir erkennen, wenn Sie unsere Webseiten vom gleichen Computer aus wiederholt besuchen und unsere Angebote ganz auf Sie abstimmen. Wenn Sie Cookies nicht zulassen oder löschen möchten, können Sie dies in den Einstellungen Ihres Browsers. Dies könnte jedoch dazu führen, dass die Funktionen unserer Webseiten nicht mehr vollständig nutzbar sind. Weitere Informationen zum Messverfahren von AT Internet finden Sie auf der Webseite der AT Internet GmbH:  
+http://de.atinternet.com/de/politique-du-respect-de-la-vie-privee/.  
   
 **Nutzungsbasierte Online-Werbung:**  
 Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Yieldr , Adform und Xplosion. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
 Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:  
   
+Google:  
 Yieldr:  
 Adform:  
 Xplosion:  
   
 Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen.  
 Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier:  
+  
 **Reichweitenmessung:**  
 Unsere Webseite nutzt das Skalierbare Zentrale Messverfahren (SZM) der Firma INFOnline GmbH.. Dieses Verfahren sammelt statistische Daten über die Nutzung unserer Angebote.  
 Dabei werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder ein Cookie mit der Kennung ivwbox.de oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. Ihre IP-Adresse wird nicht gespeichert und nur in anonymisierter Form verarbeitet.  
@@ -104,12 +132,19 @@ Neben der Veröffentlichung von Statistiken überprüft die IVW das SZM-Verfahre
 Weitere Informationen zum SZM-Verfahren finden Sie auf der Webseite der INFOnline GmbH, die das SZM-Verfahren betreibt, der Datenschutzseite der AGOF und der Datenschutzseite der IVW.  
 Sie können der Datenverarbeitung durch das SZM jederzeit unter folgendem Link widersprechen.  
   
-**Conversion Tracking:**  
-Unsere Webseiten nutzen das Google Conversion Tracking. Wenn Sie über eine Google-Anzeige auf unsere Webseiten gelangt sind, wird von Google AdWords ein Cookie auf Ihrem Rechner gespeichert. Dieses Cookie verliert nach 30 Tagen seine Gültigkeit und dient nur dazu, zu erkennen, ob sie innerhalb dieser Zeit unsere Webseiten besuchen. Ein Rückschluss auf Ihre Person ist dabei nicht möglich.  
-Die mit Hilfe des Conversion-Cookies eingeholten Informationen dienen uns dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer von einer Google-Anzeige kommen.  
-Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookies für Conversion-Tracking deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der Domain googleadservices.com blockiert werden.  
   
-**8\. Datenkontrolle bei den eingesetzten Social Media Plugins**  
+**8\. Was ist Conversion Tracking und wie wird es eingesetzt?**  
+Wenn Sie über eine Google-Anzeige, eine Affiliate-Anzeige oder das E-Mail-Marketing der Telekom auf unsere Webseiten gelangt sind, wird von Google AdWords, Metalyzer oder eCircle ein Cookie auf Ihrem Rechner gespeichert. Dieses Cookie verliert nach 30 Tagen seine Gültigkeit und dient nur dazu, zu erkennen, ob sie innerhalb dieser Zeit unsere Webseiten besuchen.  Ein Rückschluss auf Ihre Person ist dabei nicht möglich.  
+Die mit Hilfe des Conversion-Cookies eingeholten Informationen dienen uns dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer von einer Google-Anzeige, einer Affiliate-Anzeige oder über das E-Mail Marketing der Telekom kommen. Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookies für Conversion-Tracking deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der entsprechenden Domain blockiert werden:  
+  
+
+*   Google Adwords: googleadservices.com
+*   Metalyzer: tracking.mlsat02.de und tracking.metalyzer.com
+*   eCircle: email.telekom.de
+
+  
+  
+**9\. Datenkontrolle bei den eingesetzten Social Media Plugins**  
 Einige der Telekom Angebotseiten enthalten Buttons von Social Media Netzwerken, mit dem Sie Ihren Freunden und Bekannten die Angebote der Telekom empfehlen können. Damit die volle Datenkontrolle bei Ihnen liegt, zeigen wir beim Laden der Seite an Stelle der tatsächlichen Social Plugins ausgegraute Bilder der jeweiligen Funktionen (Facebook-Like-Button, Google +1, Twitter-Button) an. Erst mit einem Klick auf das Häkchen neben den Bildern wird der Datenaustausch durch das Laden des jeweiligen Social Plugins mit der Webseite aktiviert. Wenn Sie mit Ihrem Klick ein Plugin aktivieren, können folgende Daten an die Seitenbetreiber übermittelt werden:  
   
 
@@ -121,24 +156,23 @@ Einige der Telekom Angebotseiten enthalten Buttons von Social Media Netzwerken, 
 *   URL der aktuellen Seite
 
   
-  
 Sie können die Einwilligung zur Anzeige der Social Plugins auf dieser Seite mit Wirkung für die Zukunft widerrufen. Beim nächsten Seitenaufruf wird dann erneut ein ausgegrautes Bild anstelle des aktiven Social Plugins gezeigt und es werden keine Daten mehr übermittelt.  
   
-**9\. Online Chatservice**  
-Sie haben auf unserer Website die Möglichkeit, unseren Online-Chatservice kostenlos und in Echtzeit zu nutzen. Hierfür werden ebenfalls Cookies durch den Chatservicebetreiber LivePerson Inc. verwendet, die eine Analyse der Benutzung der Website durch Sie ermöglichen.  
   
 **10\. Kann ich Auskunft über meine gespeicherten Daten erhalten?**  
 Sie können unentgeltlich Auskunft über den Umfang, die Herkunft und die Empfänger der gespeicherten Daten sowie den Zweck der Speicherung verlangen.  
   
+  
 **11\. Kann ich Daten berichtigen lassen?**  
 Sie können jederzeit verlangen, dass unrichtige Daten berichtigt werden.  
+  
   
 **12\. Wo finde ich weitere Informationen zum Thema Datenschutz bei der Telekom?**  
 Weitere Informationen, auch zum Datenschutz in speziellen Produkten, erhalten Sie unter Datenschutz und unter AGB  
   
+  
 **13\. Wer ist mein Ansprechpartner, wenn ich Fragen zum Datenschutz bei der Telekom habe?**  
-Bei Fragen können Sie sich an unseren Kunden¬service wenden oder an den Datenschutzbeauftragten der Deutschen Telekom AG, Herrn Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn, datenschutz@telekom.de.  
-Für Fragen und Kommentare erreichen Sie uns über dieses Kontakt-Formular.  
+Für Fragen und Kommentare erreichen Sie uns über dieses Kontakt-Formular. Sie können sich alternativ auch an unseren Kundenservice wenden oder an den Datenschutzbeauftragten der Deutschen Telekom AG, Herrn Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn, datenschutz@telekom.de.  
   
 
 Telekom Deutschland GmbH  
