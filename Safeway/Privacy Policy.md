@@ -50,7 +50,7 @@ Pleasanton, California 94588-3229
 
   
 
-For answers to questions related to private health information, please direct your inquiry to Safeway's HIPAA Privacy Officer at the above address. Click here to view Safeway's HIPAA Privacy Policies.  
+For answers to questions related to private health information, please direct your inquiry to Safeway's HIPAA Privacy Officer at the above address. Safeway's current HIPAA Privacy Policy is incorporated here by this reference. Safeway strongly urges you to review the HIPAA Privacy Policy.
 
   
 
