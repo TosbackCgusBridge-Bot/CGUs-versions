@@ -3,11 +3,11 @@ Terms of Service/Policies
 The links below provide you access to Charter's current policies &. agreements.
 
 *   Residential Services Terms and Conditions
-    *   General Terms and Conditions for Charter Residential Services
-    *   Charter Residential Internet Service Agreement
-    *   Charter Residential Internet Acceptable Use Policy
-    *   Charter Residential Voice Service Agreement
-    *   Charter Residential Cable Service Agreement
+    *   General Terms and Conditions for Charter Residential Services   (Español)
+    *   Charter Residential Internet Service Agreement  (Español)
+    *   Charter Residential Internet Acceptable Use Policy  (Español)
+    *   Charter Residential Voice Service Agreement  (Español)
+    *   Charter Residential Cable Service Agreement  (Español)
     *   Residential Services Voice Price Guide
     *   Residential Customer Guarantees
 
