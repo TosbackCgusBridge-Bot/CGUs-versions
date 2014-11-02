@@ -19,6 +19,16 @@ Main Menu
         
         *   View All >
     *   Category
+        *   Babygear
+        *   Baby Toys
+        *   Battery Powered Ride-Ons
+        *   Digital Play
+        *   Dollhouses &. Dolls
+        *   Learning Toys
+        *   Playsets with Figures
+        *   Sports &. Outdoor Toys
+        *   Toy Cars, Trucks &. Vehicles
+        *   Train Sets
         *   View All >
 
 *   Everything Baby
