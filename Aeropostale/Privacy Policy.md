@@ -15,7 +15,6 @@ Aéropostale Go
     *   Cold Weather Shop
     *   Outfit Guide
     *   Uniform Looks
-    *   Web Exclusives
     *   Extended Sizes
     
     *   TOPS
@@ -49,7 +48,6 @@ Aéropostale Go
     *   Outfit Guide
     *   Uniform Looks
     *   Extended Sizes
-    *   Web Exclusives
     
     *   TOPS
     *   Graphic Tees
