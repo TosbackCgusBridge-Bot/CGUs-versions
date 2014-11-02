@@ -251,14 +251,13 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     3.  Large Enterprise
     4.  State &. Local Government
     5.  Federal Government
-    6.  Healthcare
-    7.  K-12 Education
-    8.  Higher Education
-    9.  Students
-    10.  Business Partners
-    11.  Resource Center
-    12.  See All
-    13.  See all For Work
+    6.  K-12 Education
+    7.  Higher Education
+    8.  Students
+    9.  Business Partners
+    10.  Resource Center
+    11.  See all solutions for work
+    12.  See all For Work
 2.  Support
     1.  See all Support
     2.  Lenovo &. Think Product Support
