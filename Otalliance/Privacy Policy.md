@@ -110,10 +110,16 @@ Sun, Nov 9, 2014 publisher forum: Making Media Work
 
 Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
 
-Wed, Nov 12, 2014 2014 Message System User Conference As always, you can expect nothing but the best in digital messaging industry news, training and information, including real world use cases, lively discussions, and not just one but two ISP panel sessions. For a taste of what you can expect, take a look at some of the highlights from 2013. And don't forget to check the event website often, as we'll be posting session descriptions and announcing speakers soon.
+Wed, Nov 12, 2014 pii2014 Silicon Valley Join the Online Trust Alliance in Silicon Valley at the 5th annual Privacy Identity Innovation conference (pii2014), taking place November 12-14 at the Crowne Plaza Palo Alto hotel. Focused on Building Trust in the Data-Driven Economy, pii2014 will examine recent developments in areas like mobile, biometrics, the Internet of Things and big data with experts from leading companies and organizations. Learn about emerging trends and business models driving the personal information economy, and get guidance on developing strategies and best practices to build trust with your users. Confirmed speakers include FTC chairwoman Edith Ramirez, Silent Circle CEO Mike Janke, Microsoft’s chief privacy officer Brendon Lynch, about.me founders Tony Conrad and Ryan Freitas, Box’s chief trust officer Justin Somaini, AT&T’s chief privacy officer Robert Quinn and OTA executive director Craig Spiezle. Save 15% with promo code: OTA2014.
 
 *   OTA Blog
 *   Newsletters
+
+Sun, Nov 2, 2014 Cybersecurity, The Blind Side, The Insider Threat
+
+**Cybersecurity, The Blind Side, The Insider Threat**
+
+Perhaps you remember the football movie, The Blind Side, with Sandra Bullock about an impoverished young boy who was adopted and eventually became a NFL football player. The blind side is also a football term which loosely means “something that approaches from the side you cannot see.” Usually the side of the quarterback away from where he is looking. Do we have a “blind side” in cybersecurity too? Perhaps.
 
 Tue, Oct 28, 2014 Advertiser Vetting Reveals Chinese Counterfeiting Ring
 
@@ -123,11 +129,7 @@ Wed, Oct 22, 2014 Passage of Data Breach Legislation
 
 With the rapid surge in data breaches impacting millions of households this year, OTA was optimistic on the possible passage of data breach legislation.  Unfortunately it is appearing very unlikely we will see any such legislation, driven in part by the partisan efforts and trade groups who are focused on protecting their business member's short-term interests and consumer advocates who appear to be unwilling to compromise.  OTA continues to be a voice of reason advocating a framework modeled off of CAN-SPAM and COPPA, providing businesses with clarity and ease of report
 
-Wed, Oct 15, 2014 Sen Franken Calls DOJ to Shut Down Stalking Apps Sen. Al Franken is pushing the Justice Department to do more to protect smartphone users from "stalking apps" that surreptitiously track their targets. In a letter to U.S. Attorney General Eric Holder on Monday, Franken noted the department's work on the issue - including the recent indictment of a man who operated one spyware app, StealthGenie - but said it needs to go further. OTA supports this effort. Share your views and interest in signing on in support of this effort. Read more >. Fri, Sep 26, 2014 Email Capture at Retail Point of Sale - Call for Best Practices
-
-As we head towards the holiday buying season and increasingly retailers are multi channel, questions regarding email collection at point of sale are being raised.  Collection at time of purchase provides significant benefits to the retailer and done right the same for the consumer.  That said, how can a consumer understand what and how the email is being used?   What forms of notice are appropriate and is it reasonable a sales clerk can understand the nuances of data collection, transactional purposes and sharing with affiliate or unaffiliated third partie
-
-Resources
+Wed, Oct 15, 2014 Sen Franken Calls DOJ to Shut Down Stalking Apps Sen. Al Franken is pushing the Justice Department to do more to protect smartphone users from "stalking apps" that surreptitiously track their targets. In a letter to U.S. Attorney General Eric Holder on Monday, Franken noted the department's work on the issue - including the recent indictment of a man who operated one spyware app, StealthGenie - but said it needs to go further. OTA supports this effort. Share your views and interest in signing on in support of this effort. Read more >. Resources
 
 *   Advertising Integrity &. Fraud
 *   Data Breach &. Protection
