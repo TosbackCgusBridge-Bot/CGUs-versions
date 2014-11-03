@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  MINNIE
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12933093467
+true true C12938450268
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Sat Nov 01 02:17:32 CDT 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p31.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Sun Nov 02 07:04:04 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,78 +45,58 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Ends November 2.
-
-CODE: PUMPKIN
-
-Extra 15% Off\* under $100 select apparel, shoes, accessories, fine jewelry and home.
-
-Extra 20% Off\* $100 or more select apparel, shoes, accessories, fine jewelry and home.
-
-Extra 25% Off\* $150 or more select apparel, shoes, accessories, fine jewelry and home.
-
-In Store and Online
-
-Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details.In Store Only
-
-$10 Off\* $25 or more.
-
-print coupon
-
-*   Big Big Sale
-    
-    In store and online.
-    
-    shop the sale shop women's shop baby shop home decor shop bedding and bath shop window shop kitchen and dining shop jewelry shop men's shop shoes shop lingerie shop kids' shop furniture and mattressesNight and Day Doorbusters
-    
-    In store only. 3PM Friday, October 31, through 1PM Saturday, November 1.
-    
-    view doorbusters store ad
 *   30-50% Off Home Sale
     
     Select styles.
     
-    shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor30-50% Off Kitchen and Dining shop kitchen40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Window
+    shop the sale30-50% Off Kitchen and Dining shop kitchen30-50% Off Home Decor shop home decor40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage30-50% Off Bedding and Bath
     
     Select styles.
     
-    shop window
+    shop bedding and bath
+*   Big Big Sale
+    
+    Last day!
+    
+    shop the sale view store ad30-50% Off Men's St. John's Bay
+    
+    Select styles.
+    
+    shop men's St. John's Bay30-50% Off Women's Sweaters
+    
+    Select styles.
+    
+    shop women's sweaters
 
-30-50% Off Denim For Her shop women's jeans 40-50% Off Select Men's Sweaters shop men's sweaters 30-40% Off Select Women's Coats shop women's coats 40% Off Select Kids' Arizona shop kids' Arizona 25-40% Off Select Women's Boots shop women's boots 40-60% Off Select Fashion Jewelry When You Buy Two Or More shop fashion jewelry Red Zone Clearance 50-70% Off
+Red Zone Furniture Clearance 50-75% Off
 
-Online only.
+In Store and Online.
 
-shop clearance 40-50% Off Luggage
+shop furniture clearance 40-50% Off Select Women's Coats shop women's coats 40-50% Off Select Men's Coats and Jackets shop men's coats and jackets 50% Off Select Kids' Coats and Jackets shop kids' coats and jackets 30-50% Off Select Women's St. John's Bay shop women's St. John's Bay 25-40% Off Select Boots For The Family shop boots 40% Off Select Cold-Weather Accessories shop cold-weather accessories Jingle More Bells
 
-Select styles.
+gifts by price
 
-shop luggage Say Hello To The All-New JCPenney App
+gift cards
 
-Free shipping on $25 or more when you download the app by October 31!
+gifts by trend
 
-Apple and the Apple logo are trademarks of Apple, Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+get jingled
 
-learn more get the app JCP Rewards
+top gifts
+
+shop holiday gifts JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Give Breast Cancer The Boot
-
-Round up your October purchases to the nearest dollar. jcpenney.com/jcpcares
-
-get detailsSportsFanShop
+sign up today SportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop Just $5
+shop the SportsFanShop Say Hello To The All-New JCPenney App
 
-Get ALL your favorite magazines from TimeInc. today.
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
-shop now
+learn more download from the app store Red Zone Clearance Selections 50-70% Off shop clearance
 
 get connected
 
@@ -165,12 +145,9 @@ ABOUT US
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
-*   homecoming dresses
-*   black friday deals
+*   black friday sales
 *   cyber monday sales
 *   gift cards
-*   kids costumes
-*   disney costumes
 *   comforters
 *   converse shoes
 *   window shades
@@ -180,6 +157,9 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   mens winter coats
 *   bathroom rugs
 *   mens wedding bands
+*   womens boots
+*   mens scarves
+*   bath towels
 
 *   copyright
 *   legal notice
