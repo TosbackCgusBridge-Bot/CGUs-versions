@@ -44,8 +44,9 @@ Terms &. Conditions
     CDS’s Copyright Agent for Notice of claims of copyright infringement can be reached as follows:  
     By mail: Copyright Agent  
     Collective Digital Studio, LLC  
-    2255 3rd St.  
-    San Francisco, CA 94103  
+    77 Federal St.  
+    San Francisco, CA 94107  
+    By fax: 1 415 882 7965  
     By email: CR-agent@metacafe.com  
       
       
