@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Ascension Trailer Ascension Trailer
+Syfy Video Town of the Living Dead - Sneak Peek - Nightm ... Town of the Living Dead - Sneak Peek - Nightmare in Jasper
 
-Ascension, a three night event, premieres on December 15 at 9/8c
+Get a sneak peek at the next episode of Town of the Living Dead, airing Tuesdays at 12/11c on Syfy.
 
-Z Nation - Sneak Peek - Zunami Z Nation - Sneak Peek - Zunami
+Town of the Living Dead - Sneak Peek - Zombie ... Town of the Living Dead - Sneak Peek - Zombie Fun Run
 
-Get a sneak peek at the next episode of Z Nation, airing Friday at 10/9c on Syfy
+Get a sneak peek at the next episode of Town of the Living Dead, airing Tuesdays at 11/10c on Syfy
 
-Z Nation - All the Kills - Episode 7 Z Nation - All the Kills - Episode 7
+Survival of the Fittest Survival of the Fittest
 
-Count all of this episode's zombie kills along with us.
+The zombie messiah can be a cruel zombie messiah as Murphy leaves a family high and dry.
 
-Nice Shootin, Tex Nice Shootin, Tex
+New BFFs New BFFs
 
-From grief comes a lot of dead zombies as a heartbroken Roberta reinvents herself as the baddest gunslinger in the west.
+Citizen Z and cosmonaut Yuri enjoy an awesome little bromance until the Russian reveals some information he couldnt possibly know.
 
 *   FAQ
 *   Feedback
