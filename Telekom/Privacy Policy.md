@@ -10,7 +10,7 @@ Technische Merkmale:
 Wenn Sie unsere Webseiten besuchen, verzeichnen unsere Web-Server vorübergehend den Domain-Namen oder die IP- Adresse Ihres Computers, die Dateianfrage des Clients (Dateiname und URL), den http-Antwort-Code und die Internetseite, von der aus Sie uns besuchen. Diese Daten werden nach Ihrer Internetsitzung gelöscht.  
   
 Cookies:  
-Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte Session-Cookies, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mittels derer wir Sie z.B. als Besucher wiedererkennen und die der Webseiten-Analyse mit Webtrekk (Siehe Punkt 7) dienen. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies gar nicht erst gespeichert werden oder dass die Cookies am Ende Ihrer Internetsitzung gelöscht werden. Bitte beachten Sie dabei aber, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Webseiten nutzen können.  
+Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte Session-Cookies, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mittels derer wir Sie z. B. als Besucher wiedererkennen und die der Webseiten-Analyse mit Webtrekk (Siehe Punkt 7) dienen. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies gar nicht erst gespeichert werden oder dass die Cookies am Ende Ihrer Internetsitzung gelöscht werden. Bitte beachten Sie dabei aber, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Webseiten nutzen können.  
   
 b) Für gesetzlich vorgesehene Zwecke  
   
@@ -25,7 +25,7 @@ Ihre Daten werden grund¬sätzlich in Deutschland verarbeitet. Nur in Einzelfäl
 Zum Schutz Ihrer Daten vor unberechtigtem Zugriff und Missbrauch haben wir umfangreiche technische und betriebliche Sicherheitsvorkehrungen nach deutschem Recht getroffen.  
   
   
-**5.Werden meine Daten an Dritte weitergegeben, zum Beispiel an Behörden?**  
+**5\. Werden meine Daten an Dritte weitergegeben, zum Beispiel an Behörden?**  
 Ja, einige Daten müssen unter strengen vertraglichen und gesetzlichen Auflagen weitergegeben werden:  
   
 a) An externe Dienstleister zur Datenverarbeitung:  
