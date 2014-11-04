@@ -4,38 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Nightcrawler
     *   Ouija
-    *   John Wick
     *   Fury (2014)
     *   Gone Girl
     *   The Book of Life
+    *   John Wick
     *   St. Vincent
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
-    *   The Best of Me
     *   The Judge (2014)
     *   Dracula Untold
-    *   Annabelle
+    *   The Best of Me
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Before I Go to Sleep
-    *   Nightcrawler
-    *   Saw 10th Anniversary
-    *   ABCs of Death 2
-    *   Horns
-    *   All You Need Is Love
-    *   The Great Invisible
-    *   Point and Shoot
-    *   Magical Universe
-    *   Revenge of the Mekons
-    *   Goodbye to Language 3D
+    *   Big Hero 6
+    *   Interstellar
+    *   Jessabelle
+    *   The Theory of Everything
+    *   The Better Angels
+    *   The Way He Looks
+    *   21 Years: Richard Linklater
+    *   On Any Sunday: The Next Chapter
+    *   Open Windows
+    *   The Tower
+    *   Viva la Libertà
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Interstellar
-    *   Big Hero 6
     *   Beyond the Lights
     *   Dumb and Dumber To
     *   The Hunger Games: Mockingjay - Part 1
@@ -45,6 +43,8 @@ Gift Cards | Offers | Visa Signature
     *   Exodus: Gods and Kings
     *   Annie (2014)
     *   The Hobbit: The Battle of the Five Armies
+    *   Night at the Museum: Secret of the Tomb
+    *   The Interview
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Check out these first images from 'Terminator: Genisys' -- it's going in a way different direction Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More First Look: The tough cookies of 'Pride and Prejudice and Zombies' Read More Explore More
+*   Movie News Featured Movie News It's official: Channing Tatum's 'Gambit' movie is really happening Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More Watch: Is this Tom Cruise's craziest stunt ever? Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   House of Screams
@@ -313,21 +313,21 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Mockingjay Part 1 Sweepstakes**
+Offers **Christmas Movie My House Contest**
 
-Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
+You could win a Griswold Family Christmas worth over $75,000! SEE DETAILS
 
-**Mockingjay Collectible Cards**
+**Furious 7 Sweepstakes**
 
-These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
+Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT PACKAGE! ENTER NOW
 
 **Mockingjay Fan Art Contest**
 
 Submit your Mockingjay Fan Art on Tumblr for a chance to win! ENTER NOW
 
-**Furious 7 Sweepstakes**
+**Mockingjay Collectible Cards**
 
-Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT PACKAGE! ENTER NOW
+These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
 
 New + Coming Soon
 
@@ -370,7 +370,7 @@ Videos
 Photos
 
 *   Red Carpet
-*   October Celebrity Birthdays
+*   November Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail Submit THANKS FOR SIGNING UP! Sign up fOR FanTexts Send Me FanText Mobile Number Sign Me Up! THANKS FOR SIGNING UP!
 
