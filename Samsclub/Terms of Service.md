@@ -212,14 +212,18 @@ SamsClub.com's Designated Agent for notice of claims of copyright infringement c
 
 By mail:
 
-Myron Eng  
+Jon Pierce  
 Wal-Mart Stores, Inc.  
 702 S.W. 8th Street  
 Bentonville, Arkansas 72716-0520
 
+By Telephone:
+
+479.273.4505
+
 By e-mail:
 
-dmca@walmart.com
+iplegal@walmart.com
 
 **This contact information is only for reporting claims of copyright infringement. Contact information for other matters is provided elsewhere on this Site.**
 
