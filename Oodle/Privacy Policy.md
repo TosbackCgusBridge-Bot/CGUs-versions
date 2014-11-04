@@ -149,7 +149,6 @@ Last update December 21, 2012
 We've recently updated our privacy policy which you can review here.
 
 *   About Us
-*   Blog
 *   Help
 *   Safety Center
 *   Privacy Policy
@@ -157,7 +156,6 @@ We've recently updated our privacy policy which you can review here.
 *   toGather
 *   Send us Feedback
 
-*   Add my listings to a Facebook Page
 *   Get Marketplace on your Phone
 
 © Copyright 2014 California Voices, LLC. All rights reserved.
