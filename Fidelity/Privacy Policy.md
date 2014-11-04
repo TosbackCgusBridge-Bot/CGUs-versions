@@ -274,7 +274,7 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
 *   Bonds
 *   CDs
 
-*   Stock Research
+*   Stocks
 *   Online Trading
 *   Annuities
 *   Life Insurance
