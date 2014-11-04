@@ -1,6 +1,6 @@
-Find Your Denim Sweepstakes
+Military Guests, thank you for your service.
 
-Enter Now
+10% Military Discount
 
 Online Orders 800-522-8090
 
