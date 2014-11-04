@@ -4,11 +4,11 @@ The links below provide you access to Charter's current policies &. agreements.
 
 *   Residential Services Terms and Conditions
     *   General Terms and Conditions for Charter Residential Services   (Español)
-    *   Charter Residential Internet Service Agreement  (Español)
-    *   Charter Residential Internet Acceptable Use Policy  (Español)
-    *   Charter Residential Voice Service Agreement  (Español)
-    *   Charter Residential Cable Service Agreement  (Español)
-    *   Residential Services Voice Price Guide
+    *   Residential Internet Service Agreement  (Español)
+    *   Residential Internet Acceptable Use Policy  (Español)
+    *   Residential Voice Service Agreement  (Español)
+    *   Residential Cable Service Agreement  (Español)
+    *   Residential Voice Service Price Guide
     *   Residential Customer Guarantees
 
 *   Commercial Service Terms and Conditions
@@ -19,7 +19,8 @@ The links below provide you access to Charter's current policies &. agreements.
 *   Charter Telephone Tariffs (includes Customer Terms and Conditions)
 *   Procedure for Submitting a Notice of Claimed Copyright Infringement
 *   Residential Price Guarantee Terms and Conditions
-*   Complaint Procedures for Michigan
+*   State-Specific Complaint Procedures
+    *   Complaint Procedures for Michigan
 *   Network Management Practices
 *   Annual Notices
     *   2014 Annual Notice (PDF)
