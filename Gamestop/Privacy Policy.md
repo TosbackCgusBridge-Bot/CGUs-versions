@@ -1,5 +1,5 @@
 Can't find what  
-you're looking for? Phone 1-800-883-8895 8am - 8pm (CST) 7 days a week Chat 8am - 8pm (CST) Monday - Friday Live Chat Now Privacy Policy
+you're looking for? Phone 1-800-883-8895 8am - 10pm (CST) Monday-Saturday 8am - 8pm (CST) Sunday Chat 8am - 10pm (CST) Monday - Friday Live Chat Now Privacy Policy
 
 Last updated: February 20th, 2013
 
