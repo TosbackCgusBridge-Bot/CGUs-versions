@@ -19,16 +19,16 @@ Main Menu
         
         *   View All >
     *   Category
-        *   Babygear
-        *   Baby Toys
-        *   Battery Powered Ride-Ons
-        *   Digital Play
-        *   Dollhouses &. Dolls
-        *   Learning Toys
+        *   Baby Gear
+        *   Baby Toys by Milestone
+        *   Ride-On Toys: Power Wheels
+        *   Dollhouses &. Furniture
+        *   Educational, Learning &. Developmental Toys
         *   Playsets with Figures
-        *   Sports &. Outdoor Toys
+        *   Outdoor Toys &. Sports
         *   Toy Cars, Trucks &. Vehicles
         *   Train Sets
+        *   BU Baby University
         *   View All >
 
 *   Everything Baby
