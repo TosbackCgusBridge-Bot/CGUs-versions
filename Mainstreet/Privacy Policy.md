@@ -1,6 +1,6 @@
-Main Street
+MainStreet
 
-*   MainStreet.com
+*   MainStreet
 
 *   Login
 *   Join
