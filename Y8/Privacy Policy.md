@@ -12,13 +12,41 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 
 *   games
 *   anims
-
-*   Free Games
 *   New Games
 *   Best of new games
 *   Most Popular Games
 *   Games for girls
-*   Categories
+
+*   2 player
+*   3+ Player
+*   Car
+*   Dress Up
+*   Unity3D
+*   3D
+*   Aircraft
+*   IDnet
+*   Zombies
+*   Fighting
+*   Football
+*   American Football
+*   Truck
+*   Train
+*   Billiards
+*   Match 3
+*   Bomberman
+*   Tower Defense
+*   Baby
+*   Balloons
+*   Barbie
+*   Bowling
+*   Baseball
+*   Basketball
+*   Boxing
+*   Cooking
+
+*     
+      
+    355 categories
 
 PRIVACY POLICY
 
@@ -89,8 +117,14 @@ Parents, if you would like to review your child's personal information, ask to h
 We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
 If you have any questions, you can contact us through our contact form.
 
-If you have questions or other inquiries, please use our contact form
-
-Advertise on Y8 Business contact Submit a game or animation All-site RSS Terms of Use Privacy Policy Follow @y8\_com
+If you have questions or other inquiries, please use our contact form Follow @y8\_com  
 
 Y8.com project: play free games online and watch funny cartoons, since 2006.
+
+*   Advertise on Y8
+*   contact form
+*   Business contact
+*   Submit a game or animation
+*   All-site RSS
+*   Terms of Use
+*   Privacy Policy
