@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News It's official: Channing Tatum's 'Gambit' movie is really happening Read More Marvel announces key dates for its upcoming Phase 3 films: So when are they coming? Read More Watch: Is this Tom Cruise's craziest stunt ever? Read More Explore More
+*   Movie News Featured Movie News It's official: Channing Tatum's 'Gambit' movie is really happening Read More Fassbender may replace Bale as Steve Jobs. watch new 'Minions' trailer Read More Watch: Is this Tom Cruise's craziest stunt ever? Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   House of Screams
@@ -321,9 +321,9 @@ You could win a Griswold Family Christmas worth over $75,000! SEE DETAILS
 
 Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT PACKAGE! ENTER NOW
 
-**Mockingjay Fan Art Contest**
+**Mockingjay Part 1 Sweepstakes**
 
-Submit your Mockingjay Fan Art on Tumblr for a chance to win! ENTER NOW
+Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
 **Mockingjay Collectible Cards**
 
