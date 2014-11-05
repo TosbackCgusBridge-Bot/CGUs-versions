@@ -156,6 +156,4 @@ We've recently updated our privacy policy which you can review here.
 *   toGather
 *   Send us Feedback
 
-*   Get Marketplace on your Phone
-
 © Copyright 2014 California Voices, LLC. All rights reserved.
