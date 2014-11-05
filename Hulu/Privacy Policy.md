@@ -1,4 +1,4 @@
-Privacy Policy December 23, 2013  
+Privacy Policy November 4, 2014  
 
 Hulu provides an online video service offering a selection of television shows, movies, clips, and other content. These video services including our Hulu Plus Service, our video player, and any other features, tools, applications, materials, or other services, offered by Hulu on any website, device or platform are referred to collectively as the “Hulu Services.”
 
@@ -21,7 +21,7 @@ We invite you to click below to get answers to your questions regarding our Priv
 
 About Hulu
 
-Below you will find our updated Privacy Policy, effective as of December 23, 2013. This Privacy Policy covers the information collected from or about you and your activities when you use the Hulu Services. It also provides information about our relationships with certain third parties that provide services in connection with the Hulu Services. If you have any questions or concerns about our Privacy Policy, please let us know by emailing us at privacy@hulu.com or contacting us by mail at the address listed here.
+Below you will find our updated Privacy Policy, effective as of November 4, 2014. This Privacy Policy covers the information collected from or about you and your activities when you use the Hulu Services. It also provides information about our relationships with certain third parties that provide services in connection with the Hulu Services. If you have any questions or concerns about our Privacy Policy, please let us know by emailing us at privacy@hulu.com or contacting us by mail at the address listed here.
 
   
   
@@ -84,6 +84,7 @@ You have choices about the use and sharing of certain information collected from
 *   Hulu's Use of Information Collected From or About You from Websites You Visit Other than Hulu.com. Hulu may store information about websites you visit in browser cookies on your computer. If you don't want Hulu to store information about websites you visit other than Hulu.com using this browser, please visit our Opt-Out Page to set your preference.
 *   Do Not Track. Hulu supports Do Not Track browser settings. If you enable Do Not Track settings in the browser you are using, Hulu will not store or use information about websites you visit using that browser other than Hulu.com. To learn more about Do Not Track, including how to turn on Do Not Track, visit http://allaboutdnt.com/.
 *   Opting Out of Third-Party Behavioral Advertising. If you would like information about your choices with respect to third-party behavioral advertising, please click here.
+*   Audience Measurement. Our business partners such as content owners, including advertisers, seek to measure the performance of their content across many platforms, including the Hulu Services. Accordingly, Hulu may permit the use of proprietary measurement software that would enable third parties such as Nielsen to include your viewing on the Hulu Services in calculating measurement statistics such as TV Ratings. In connection with Nielsen specifically, you can access more information about Nielsen's measurement software and learn about your choices, including opting out, by clicking here or visiting "About Nielsen Measurement" in your application's settings for viewing on mobile devices, or clicking here for viewing on websites.
 *   Terminating Your Hulu Account. You may terminate your Hulu account, in accordance with our Terms of Use, via the link accessible on the Account page, or here. Hulu Plus subscribers should review our Terms of Use for our policies on cancellations and refunds. Please note that, if you terminate your account, we may retain some information about you.
 
   
