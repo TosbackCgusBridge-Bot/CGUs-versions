@@ -110,9 +110,7 @@ Sun, Nov 9, 2014 publisher forum: Making Media Work
 
 Join AdMonsters and an elite group of 100+ digital strategists and operations and technology leaders in Austin, TX, November 9-12 to discuss, debate and shape the future of digital media. No other conference comes close to offering the exposure, exchange of ideas and feedback that you'll find at AdMonsters Publisher Forum. Register now for what attendees say is "the single best venue for learning and connecting with the sharpest, most motivated digital ops professionals."
 
-Wed, Nov 12, 2014 SecureWorld Seattle
-
-**SecureWorld** conference and expo provide more content and facilitate more professional connections than any other event in the cyber-security industry.  As an industry sponsor, OTA members and site visitor save $100 on the two-day conference pass using the code "OTA" or $200 off the full conference and training workshop using the code "OTASWP".  Visit OTA's booth in the expo areas to learn about industry best practices and the importance of data stewardship and user centricity.
+Wed, Nov 12, 2014 2014 Message System User Conference As always, you can expect nothing but the best in digital messaging industry news, training and information, including real world use cases, lively discussions, and not just one but two ISP panel sessions. For a taste of what you can expect, take a look at some of the highlights from 2013. And don't forget to check the event website often, as we'll be posting session descriptions and announcing speakers soon.
 
 *   OTA Blog
 *   Newsletters
