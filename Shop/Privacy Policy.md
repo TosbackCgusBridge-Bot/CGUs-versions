@@ -306,7 +306,7 @@ Your privacy is important to Lenovo. This statement discloses the information pr
 
 Lenovo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by using our short Privacy Submission Form. If you are not satisfied with our response you can contact TRUSTe here.
 
-Personal information Use of Suppliers Using and Sharing Personal Information Mergers and Acquisitions Fulfilling your transaction request Cookies, Web Beacons and Other Technologies Marketing Use Service Quality Monitoring Lenovo Human Resources Web Sites (including Recruitment) Online Advertising Information for Business Partners Personalized URL Link Lenovo Supplier Administration Disclosures Required By Law Lenovo Discussion Forums and Chat Rooms Privacy Technology Other Lenovo Web Site Notices Links to non-Lenovo Web sites Our Worldwide Practices Notification of Changes Information Security and Quality Privacy Questions and Access Supplementing Information    
+Personal information Use of Suppliers Using and Sharing Personal Information Mergers and Acquisitions Fulfilling your transaction request Cookies, Web Beacons and Other Technologies Marketing Use Service Quality Monitoring Lenovo Human Resources Web Sites (including Recruitment) Online Advertising Information for Business Partners Personalized URL Link Lenovo Supplier Administration Disclosures Required By Law Lenovo Discussion Forums and Chat Rooms Privacy Technology Other Lenovo Web Site Notices Links to non-Lenovo Web sites Our Worldwide Practices Frames Information Security and Quality Notification of Changes Supplementing Information Privacy Questions and Access  
 Personal information
 
 In general, you can visit Lenovo on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.
@@ -409,9 +409,13 @@ Technology will increasingly help give you more control over your personal infor
 
 Lenovo Web sites may contain links to other Web sites. Lenovo is not responsible for the privacy practices or the content of those other Web sites.
 
+ **Back to top** Frames
+
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.lenovo.com.
+
  **Back to top** Notification of Changes
 
-This privacy statement was last updated on April 30, 2005. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way.
+This privacy statement was last updated on January 2, 2014. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way.
 
  **Back to top** Privacy Questions and Access
 
