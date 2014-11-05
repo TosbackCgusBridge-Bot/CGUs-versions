@@ -13,7 +13,7 @@ Aéropostale Go
     *   United XXVI
     *   Bethany Mota
     *   Cold Weather Shop
-    *   Outfit Guide
+    *   Lookbook
     *   Uniform Looks
     *   Extended Sizes
     
@@ -45,7 +45,7 @@ Aéropostale Go
     *   NEW ARRIVALS
     *   Cold Weather Shop
     *   United XXVI
-    *   Outfit Guide
+    *   Lookbook
     *   Uniform Looks
     *   Extended Sizes
     
@@ -97,7 +97,6 @@ Aéropostale Go
     *   GIRLS
     *   BC Footwear
     *   Bethany Mota
-    *   Blowfish
     *   DV8
     *   Gola
     *   Invite Only
