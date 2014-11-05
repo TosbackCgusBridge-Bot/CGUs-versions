@@ -3,7 +3,6 @@ Der Schutz Ihrer persönlichen Daten hat für die Telekom Deutschland einen hohe
   
   
 **2\. Welche Daten werden erfasst und wie werden sie verwendet?**  
-  
 a) Für die Erbringung unserer Leistungen  
   
 Technische Merkmale:  
@@ -18,7 +17,7 @@ Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung
   
   
 **3\. Wo werden meine Daten verarbeitet?**  
-Ihre Daten werden grund¬sätzlich in Deutschland verarbeitet. Nur in Einzelfällen und im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im Ausland statt.  
+Ihre Daten werden grundsätzlich in Deutschland verarbeitet. Nur in Einzelfällen und im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im Ausland statt.  
   
   
 **4\. Wie sicher sind meine Daten?**  
@@ -32,7 +31,7 @@ a) An externe Dienstleister zur Datenverarbeitung:
 Wenn Dienstleister mit persönlichen Daten unserer Kunden in Berührung kommen, erfolgt dies im Rahmen einer sogenannten Auftragsdatenverarbeitung. Diese ist gesetzlich ausdrücklich vorgesehen (§ 11 Bundesdatenschutzgesetz). Die Telekom bleibt auch in diesem Fall für den Schutz Ihrer Daten verantwortlich. Der Dienstleister arbeitet ausschließlich gemäß unserer Weisungen, was wir durch strenge vertragliche Regelungen, durch technische und organisatorische Maßnahmen und durch ergänzende Kontrollen sicherstellen.  
   
 b) Aufgrund gesetzlicher Verpflichtung:  
-In bestimmten Fällen sind wir gesetzlich verpflichtet, Daten an eine anfragende staatliche Stelle zu übermitteln. Nach Vorlage eines Gerichtsbeschlusses sind wir gemäß § 101 Urheberrechtsgesetz verpflichtet, Inhabern von Urheber- und Leis¬tungsschutzrechten Auskunft über Kunden zu geben, die urheber¬rechtlich geschützte Werke in Internet-Tauschbörsen angeboten haben sollen. Unsere Auskunft enthält in diesen Fällen die Benutzerkennung einer zum angefragten Zeitpunkt zugeteilten IP-Adresse sowie, wenn bekannt, Namen und Anschrift des Kunden.  
+In bestimmten Fällen sind wir gesetzlich verpflichtet, Daten an eine anfragende staatliche Stelle zu übermitteln. Nach Vorlage eines Gerichtsbeschlusses sind wir gemäß § 101 Urheberrechtsgesetz verpflichtet, Inhabern von Urheber- und Leistungsschutzrechten Auskunft über Kunden zu geben, die urheberrechtlich geschützte Werke in Internet-Tauschbörsen angeboten haben sollen. Unsere Auskunft enthält in diesen Fällen die Benutzerkennung einer zum angefragten Zeitpunkt zugeteilten IP-Adresse sowie, wenn bekannt, Namen und Anschrift des Kunden.  
   
 Darüber hinaus geben wir keine Daten an Dritte weiter, es sei denn, Sie haben ausdrücklich eingewilligt oder dies ist gesetzlich vorgesehen.  
   
@@ -45,7 +44,7 @@ Um Missbrauch aufzudecken (Spam, Viren, Würmer etc.) und Störungen in unserem 
 Im Rahmen der gesetzlichen Regelungen legen wir Nutzungsprofile unter einem Pseudonym an. Diese können wir für Werbung und Marktforschung auswerten. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen.  
   
 **Tag-Management mit Tealium**  
-Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbieter auf den Seiten der Telekom Deutschland GmbH geladen werden (bspw. das Webtrekk Messpixel). Zur Optimierung des Ladens der Messpixel erfasst Tealium über ein Cookie einige nicht personenbezogene Daten. Dieses Cookie verliert nach 12 Monaten seine Gültigkeit. Folgende Informationen werden in dem Tealium Cookie gespeichert:  
+Tealium IQ ist ein Tag-Management-System, mit dem Messpixel von Drittanbietern auf den Seiten der Telekom Deutschland GmbH geladen werden (bspw. das Webtrekk Messpixel). Zur Optimierung des Ladens der Messpixel erfasst Tealium über ein Cookie einige nicht personenbezogene Daten. Dieses Cookie verliert nach 12 Monaten seine Gültigkeit. Folgende Informationen werden in dem Tealium Cookie gespeichert:  
   
 
 *   Zeitstempel des Webseitenbesuchs
@@ -54,7 +53,7 @@ Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbieter auf
 *   ID für die Session
 
   
-Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der Domain tealium.hs.llnwd.net blockiert werden.  
+Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren. Legen Sie in Ihren Browser-Einstellungen fest, dass Cookies von der Domain tealium.hs.llnwd.net blockiert werden.  
   
 **Webseiten-Analyse mit Webtrekk:**  
 Die Telekom verwendet die Dienste der Firma Webtrekk GmbH, um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren. Die Webtrekk GmbH ist für Datenschutz, im Bereich Web Controlling Software, vom TÜV Saarland zertifiziert. Teil der Zertifizierung ist ein Audit bei Webtrekk vor Ort in Berlin und im Hosting-Standort, in dem die Erfassung und Verarbeitung von Tracking-Daten auf Datenschutzkonformität und Datensicherheit hin geprüft wurden.  
@@ -110,22 +109,22 @@ Die AT Internet GmbH setzt für diese Analysen Cookies ein. Das sind kleine Text
 http://de.atinternet.com/de/politique-du-respect-de-la-vie-privee/.  
   
 **Nutzungsbasierte Online-Werbung:**  
-Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Yieldr , Adform und Xplosion. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
+Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Yieldr, Adform und Xplosion. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
 Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:  
   
-Google:  
-Yieldr:  
-Adform:  
-Xplosion:  
+Google  
+Yieldr  
+Adform  
+Xplosion  
   
-Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen.  
+Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit, der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen.  
 Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier:  
   
 **Reichweitenmessung:**  
-Unsere Webseite nutzt das Skalierbare Zentrale Messverfahren (SZM) der Firma INFOnline GmbH.. Dieses Verfahren sammelt statistische Daten über die Nutzung unserer Angebote.  
+Unsere Webseite nutzt das Skalierbare Zentrale Messverfahren (SZM) der Firma INFOnline GmbH. Dieses Verfahren sammelt statistische Daten über die Nutzung unserer Angebote.  
 Dabei werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder ein Cookie mit der Kennung ivwbox.de oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. Ihre IP-Adresse wird nicht gespeichert und nur in anonymisierter Form verarbeitet.  
 Ziel der Reichweitenmessung ist es, die Nutzungsdauer und -häufigkeit sowie die Anzahl der Besucher unserer Webseiten statistisch zu bestimmen. Ihre Identität bleibt dabei immer geschützt.  
-Unser Webportal nimmt an der Studie internet facts der Arbeitsgemeinschaft Online-Forschung e.V. Teil. Das bedeutet, dass unsere Nutzungsstatistiken monatlich von der AGOF, der Arbeitsgemeinschaft Media-Analyse e.V. und von der IVW veräffentlich werden. Sie können diese Statistiken einsehen unter http://www.agof.de , http://www.agma-mmc.de, http://www.ivw.de.  
+Unser Webportal nimmt an der Studie internet facts der Arbeitsgemeinschaft Online-Forschung e.V. Teil. Das bedeutet, dass unsere Nutzungsstatistiken monatlich von der AGOF, der Arbeitsgemeinschaft Media-Analyse e.V. und von der IVW veröffentlich werden. Sie können diese Statistiken einsehen unter http://www.agof.de , http://www.agma-mmc.de, http://www.ivw.de.  
   
 Neben der Veröffentlichung von Statistiken überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.  
   
@@ -134,7 +133,7 @@ Sie können der Datenverarbeitung durch das SZM jederzeit unter folgendem Link w
   
   
 **8\. Was ist Conversion Tracking und wie wird es eingesetzt?**  
-Wenn Sie über eine Google-Anzeige, eine Affiliate-Anzeige oder das E-Mail-Marketing der Telekom auf unsere Webseiten gelangt sind, wird von Google AdWords, Metalyzer oder eCircle ein Cookie auf Ihrem Rechner gespeichert. Dieses Cookie verliert nach 30 Tagen seine Gültigkeit und dient nur dazu, zu erkennen, ob sie innerhalb dieser Zeit unsere Webseiten besuchen.  Ein Rückschluss auf Ihre Person ist dabei nicht möglich.  
+Wenn Sie über eine Google-Anzeige, eine Affiliate-Anzeige oder das E-Mail-Marketing der Telekom auf unsere Webseiten gelangt sind, wird von Google AdWords, Metalyzer oder eCircle ein Cookie auf Ihrem Rechner gespeichert. Dieses Cookie verliert nach 30 Tagen seine Gültigkeit und dient nur dazu, zu erkennen, ob sie innerhalb dieser Zeit unsere Webseiten besuchen. Ein Rückschluss auf Ihre Person ist dabei nicht möglich.  
 Die mit Hilfe des Conversion-Cookies eingeholten Informationen dienen uns dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer von einer Google-Anzeige, einer Affiliate-Anzeige oder über das E-Mail Marketing der Telekom kommen. Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookies für Conversion-Tracking deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der entsprechenden Domain blockiert werden:  
   
 
@@ -168,7 +167,7 @@ Sie können jederzeit verlangen, dass unrichtige Daten berichtigt werden.
   
   
 **12\. Wo finde ich weitere Informationen zum Thema Datenschutz bei der Telekom?**  
-Weitere Informationen, auch zum Datenschutz in speziellen Produkten, erhalten Sie unter Datenschutz und unter AGB  
+Weitere Informationen, auch zum Datenschutz zu speziellen Produkten, erhalten Sie unter Datenschutz und unter AGB.  
   
   
 **13\. Wer ist mein Ansprechpartner, wenn ich Fragen zum Datenschutz bei der Telekom habe?**  
@@ -183,4 +182,4 @@ Sitz der Gesellschaft Bonn
 USt-IdNr. DE 122265872  
   
 E-Mail: info@telekom.de  
-Telefon: 0228/ 181-0
+Telefon: 0228/181-0
