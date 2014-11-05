@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Town of the Living Dead - Sneak Peek - Nightm ... Town of the Living Dead - Sneak Peek - Nightmare in Jasper
+Syfy Video Z Nation - Sneak Peek - Die Zombie Die...Agai ... Z Nation - Sneak Peek - Die Zombie Die...Again
 
-Get a sneak peek at the next episode of Town of the Living Dead, airing Tuesdays at 12/11c on Syfy.
-
-Town of the Living Dead - Sneak Peek - Zombie ... Town of the Living Dead - Sneak Peek - Zombie Fun Run
-
-Get a sneak peek at the next episode of Town of the Living Dead, airing Tuesdays at 11/10c on Syfy
+Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
 
 Survival of the Fittest Survival of the Fittest
 
 The zombie messiah can be a cruel zombie messiah as Murphy leaves a family high and dry.
 
-New BFFs New BFFs
+Z Nation - All the Kills - Episode 8 Z Nation - All the Kills - Episode 8
 
-Citizen Z and cosmonaut Yuri enjoy an awesome little bromance until the Russian reveals some information he couldnt possibly know.
+Count all of this episodes zombie kills along with us.
+
+Haven - Sneak Peek - Morbidity Haven - Sneak Peek - Morbidity
+
+Get a sneak peek at the next episode of Haven, airing Fridays at 7/6c on Syfy
 
 *   FAQ
 *   Feedback
