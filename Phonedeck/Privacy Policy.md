@@ -70,10 +70,8 @@ If you have further questions or comments about the Data Privacy Provisions, ple
 
 Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
-*   Enterprises
-*   Partners
-*   Telcos
 *   About Phonedeck
+*   Documentation
 *   Blog
 *   Jobs
 *   Contact
@@ -81,17 +79,16 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 *   Privacy Policy
 *   Imprint
 
-About Phonedeck
-
-Phonedeck is the productivity boost for mobile calls – on the road and in the office. We work in the edge of CRM and telecommunication technology allowing you to remote control your smartphone.
-
 Recent Blog Posts
 
 *   Phonedeck announced the cooperation with Alcatel-Lucent October 9, 2014
 *   Study finds most sales reps are unable to cope with task reporting October 9, 2014
 *   Startup Safary Berlin at Phonedeck September 19, 2014
 *   Phonedeck is hiring – a Software Tester wanted! September 2, 2014
-*   Phonedeck Exhibits at Salesforce1 World Tour in Munich July 3, 2014
+
+Phonedeck Newsletter Email Address\* First Name\* Last Name\* \* = required field About Phonedeck
+
+Phonedeck is the productivity boost for mobile calls – on the road and in the office. We work in the edge of CRM and telecommunication technology allowing you to remote control your smartphone.
 
 Supported by the EU
 
