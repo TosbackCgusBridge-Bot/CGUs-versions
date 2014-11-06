@@ -67,9 +67,10 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News It's official: Channing Tatum's 'Gambit' movie is really happening Read More Fassbender may replace Bale as Steve Jobs. watch new 'Minions' trailer Read More Watch: Is this Tom Cruise's craziest stunt ever? Read More Explore More
+*   Movie News Featured Movie News It's official: Channing Tatum's 'Gambit' movie is really happening Read More Fassbender may replace Bale as Steve Jobs. watch new 'Minions' trailer Read More LOOK: Bill Murray and 'Ghostbusters' reunite on mag cover, 'Today Show' (watch the video!) Read More Explore More
     *   Family
     *   The Hunger Games Guide
+    *   Holiday Movie Guide
     *   House of Screams
     *   Hero Central
     *   Weekend Ticket
