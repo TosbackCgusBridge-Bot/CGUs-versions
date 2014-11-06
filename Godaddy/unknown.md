@@ -490,7 +490,7 @@ You agree to indemnify, defend and hold harmless Registry and their subcontracto
 
 permit content unsuitable for viewing by a minor to be viewed from the main or top-level directory of a .SEXY domain name. For purposes of clarity, content viewed at the main or top-level directory of a .SEXY domain name is the content immediately visible if a user navigates to http://example.sexy or http://www.example.sexy. No restrictions apply to the content at any other page or subdirectory addressed by a .SEXY Registered Name.
 
-39\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .consulting. .dance. .democrat. .Dentist. .engineer. .futbol. .haus. .immobilien. .kaufen. ,market. .moda. .mortgate. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rocks. .social. .SOFTWARE. .vet
+39\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgate. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rocks. .social. .SOFTWARE. .vet
 
 You agree to comply with the Registration Terms and Conditions, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
