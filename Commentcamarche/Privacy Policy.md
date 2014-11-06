@@ -1,4 +1,4 @@
-USESDEFRITBR Octobre 2014
+USESDEFRITBR Novembre 2014
 
 *   Objet
 *   Mentions légales
@@ -122,17 +122,17 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
 Conditions-generales-d-utilisation.pdf A voir également
 
-*   Conditions générales
-*   Ou trouver les conditions dutilisations ps3
-*   La baignoire simple pour bébé définition et condition dutilisation
-*   Conditions générales de vente » Forum - Webmaster
-*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Conditions générales d'utilisation
+*   Mise en situation les conditions générale de vente sur internet
+*   Définition de Conditions générales dutilisation
+*   Modèle Condition Générale de Vente » Forum - Webmaster
+*   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
+*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
 
 Communautés d'assistance et de conseils.
 
 *   Forum Vos droits sur internet
 *   Forum iPhone
-*   Consommation et internet
+*   Forum iPad
