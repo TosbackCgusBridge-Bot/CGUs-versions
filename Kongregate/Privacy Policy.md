@@ -48,7 +48,7 @@ To personalize the Site, and to simplify the registration process, we give you t
 
 Security
 
-We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at www.onguardonline.gov.
+We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at www.onguardonline.gov.
 
 Children’s Privacy
 
