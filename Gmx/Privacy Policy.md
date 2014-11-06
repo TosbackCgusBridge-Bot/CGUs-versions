@@ -58,15 +58,13 @@ Sie können das Speichern von Cookies auf Ihrer Festplatte verhindern, indem Sie
 
 Zielgruppenbezogene Werbung
 
-Zur Steuerung zielgruppenbezogener Werbung werden durch die 1&1 Mail &. Media GmbH Informationen über Ihre Aktivitäten auf unserer Webseite (z.B. geklickte Werbebanner, besuchte Unterseiten etc.) unter einem Pseudonym erfasst und gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet, um Ihnen im Rahmen unserer Angebote interessengerechte Werbung auszuliefern. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert und nicht für die gesteuerte Einblendung von Werbung verwendet.
+Zur Steuerung zielgruppenbezogener Werbung werden durch die 1&1 Mail &. Media GmbH Informationen über Ihre Aktivitäten auf unserer Webseite (z.B. geklickte Werbebanner, besuchte Unterseiten etc.) unter einem Pseudonym erfasst und gegebenenfalls in Zusammenhang mit anonymen Daten aus Online-Fragebögen verwendet, um Ihnen im Rahmen unserer Angebote interessengerechte Werbung auszuliefern. Die aus technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von einem unabhängigen Dritten vollständig anonymisiert.
 
 Eine persönliche Identifikation ist aufgrund dieser Maßnahmen nicht möglich.
 
-Deaktivierung zielgruppenbezogener Werbung und interessenbasierter Inhalte
+Deaktivierung zielgruppenbezogener Werbung
 
 Wenn Sie keine gesteuerten Werbeeinblendungen erhalten möchten, können Sie der Datenverwendung für diesen Zweck widersprechen, indem Sie bitte auf folgenden Opt Out Link klicken.
-
-Wenn Sie darüber hinaus keine interessensbasierten Inhalte erhalten möchten, können Sie der Datenverwendung widersprechen, indem Sie auf folgenden Opt-Out-Link klicken.
 
 Bitte beachten Sie, dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut aktivieren müssen.
 
@@ -98,4 +96,4 @@ Bitte beachten Sie, dass diese Datenschutzhinweise jederzeit unter Beachtung der
 
 Falls Sie noch Fragen haben, können Sie uns gerne ebenfalls unter den oben genannten Adressen kontaktieren.
 
-05/2012
+11/2014
