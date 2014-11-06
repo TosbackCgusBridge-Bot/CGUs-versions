@@ -87,6 +87,7 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
+    *   Room Clearance
     
     *   GUYS
     *   Clearance Tops
@@ -119,8 +120,7 @@ Aéropostale Go
     *   Free State
     *   Gola
     *   Locker Stock
-    *   Mighty Fine
-    *   Project 87
+    *   NFL
     *   Radii
     *   Superga
     *   True Vintage
