@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Z Nation - Sneak Peek - Die Zombie Die...Agai ... Z Nation - Sneak Peek - Die Zombie Die...Again
+Syfy Video Thr33 Days Dead: The Town of the Living Dead ... Thr33 Days Dead: The Town of the Living Dead Movie
+
+You can watch the movie they spent this season of Town of the Living Dead creating! It airs Tuesday 1a/12a central
+
+Stalking Robert Englund Stalking Robert Englund
+
+Tina and the gang catch Robert Englund outside his hotel and convince him to talk John into finishing the movie.
+
+Cease and Desist Cease and Desist
+
+The cops shut down production in Jasper. At least Chase looks good in his underwear after a week of training with Master Ferrell.
+
+Z Nation - Sneak Peek - Die Zombie Die...Agai ... Z Nation - Sneak Peek - Die Zombie Die...Again
 
 Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
-
-Survival of the Fittest Survival of the Fittest
-
-The zombie messiah can be a cruel zombie messiah as Murphy leaves a family high and dry.
-
-Z Nation - All the Kills - Episode 8 Z Nation - All the Kills - Episode 8
-
-Count all of this episodes zombie kills along with us.
-
-Haven - Sneak Peek - Morbidity Haven - Sneak Peek - Morbidity
-
-Get a sneak peek at the next episode of Haven, airing Fridays at 7/6c on Syfy
 
 *   FAQ
 *   Feedback
