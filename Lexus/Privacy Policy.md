@@ -150,13 +150,6 @@ Starting at $120,440\*
 *   • 19/23 City/Hwy MPG\*
 *   • AWD
 
-IS F
-
-Starting at $63,600\*
-
-*   • 416 hp\*
-*   • RWD
-
 RC F
 
 Starting at $62,400\*
