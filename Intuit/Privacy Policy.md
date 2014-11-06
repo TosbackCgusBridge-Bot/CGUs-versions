@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (3)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  TERRI
+*   Hello  LACEY
 *   (sign out)
     
 *   my account
 
-*   saved items: (3)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13070197353
+true true L13072018474
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Tue Nov 04 10:30:23 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Wed Nov 05 08:07:05 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,52 +45,171 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 Days Only
-    
-    Online only. November 3 through 4.
-    
-    Code: GOLDEN
-    
-    \*See exclusions and details.50% Off\* Bedding and Bath shop bedding and bath50% Off\* Luggage shop luggage40% Off\* Lighting and Lamps shop lighting and lamps40% Off\* Home Decor shop home decor40% Off\* Blinds and Shades shop blinds and shades40% Off\* Furniture and Mattresses shop furniture and mattresses30% Off\* Kitchen and Dining shop kitchen and dining30% Off\* Storage and Organization shop storage and organization30% Off\* Vacuums and Flokitchenorcare shop vacuums and floorcare30% Off\* Curtain Rods and Hardware shop curtain rods and hardwareOr, Extra 20% Off All Online Clearance shop clearance \*See exclusions and details.
-*   Extra 20% Off\*
-    
-    Select styles. Online only.
-    
-    2 days only. November 3 through 4.
-    
-    With Code: GOLDEN
-    
-    \*See exclusions and details. shop women's shop men's shop kids' shop shoes shop accessories shop fashion jewelry shop baby furniture shop women's shop men'sOr, Extra 20% Off All Online Clearance shop clearance
+Our Biggest Sale Of Them All
 
-40-50% Off Select Women's Coats shop women's coats 40-50% Off Select Men's Coats and Jackets shop men's coats and jackets 50% Off Select Kids' Coats and Jackets shop kids' coats and jackets 30-50% Off Select Women's Sweaters shop women's sweaters 25-40% Off Select Boots For The Family shop boots 40% Off Select Cold-Weather Accessories shop cold-weather accessories 40% Off Blinds and Shades
+Entire store on sale! Excludes Nike and Sephora.
 
-With Code: GOLDEN
+shop the sale view store adIn Store Only
 
-shop blinds and shades20% Off Custom Blinds and Shades
+Ends November 8.
 
-With Code: GOLDEN
+$10 Off\* $25 or more.
 
-shop custom blinds and shades Jingle More Bells
+print store coupon
 
-gifts by price
+$10 Bonus Cash\* when you spend $50 in store.
 
-gift cards
+\*See exclusions and detailsOnline Only
 
-gifts by trend
+Code: ALLYOURS
 
-get jingled
+$30 Off\* $100 or more.
 
-top gifts
+$10 Off\* $50 or more.
 
-shop holiday gifts JCP Rewards
+In Store and Online
+
+Code: TAKETEN
+
+Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details Big Buys
+
+In store and online. Excluded from offer. Now through Saturday while they last.
+
+view big buys store ad Women
+
+$14.99 Bras
+
+Select styles
+
+shop bras
+
+50% Off Women's Coats
+
+Select styles
+
+shop women's coats
+
+40-50% Off Sweaters For Her
+
+Select styles
+
+shop women's sweaters
+
+40-50% Off Women's Denim
+
+Select styles
+
+shop women's denim Men
+
+40-50% Off Men's Sportswear
+
+Select styles
+
+shop men's sportswear
+
+50% Off Men's Dress Shirts
+
+Select styles
+
+shop men's dress shirts
+
+40-50% Off Men's Sweaters
+
+Select styles
+
+shop men's sweaters
+
+30-50% Off Men's Denim
+
+Select styles
+
+shop men's denim Home
+
+40-50% Off Window
+
+Select styles
+
+shop window
+
+40-50% Off Furniture and Mattresses
+
+Select styles
+
+shop furniture and mattresses
+
+30-50% Off Bedding and Bath
+
+Select styles
+
+shop bedding and bath
+
+30-50% Off Kitchen and Dining
+
+Select styles
+
+shop kitchen and dining Kids and Teens
+
+40-50% Off Boys' and Girls' Sleepwear
+
+Select styles
+
+shop kids' sleepwear
+
+$14.99 Boys' and Girls' Denim
+
+Select styles
+
+shop kids' denim
+
+40-50% Off Kids' Dress Clothes
+
+Select styles
+
+shop kids' dress clothes
+
+40-50% Off Juniors' Arizona
+
+Select styles
+
+shop juniors' Arizona Jewelry and Accessories
+
+45-65% Off Fine Jewelry and Bijoux Bar
+
+Select styles
+
+shop fine jewelry and Bijoux Bar
+
+25-55% Off Watches
+
+Select styles
+
+shop watches
+
+25-40% Off Boots For The Family
+
+Select styles
+
+shop boots
+
+25-40% Off Handbags
+
+Select styles
+
+shop handbags Clearance 50-70% Off
+
+In store and online.
+
+shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today New E-Gift Cards customize with a message photo or video Say Hello To The All-New JCPenney App
+sign up today New E-Gift Cards customize with a message photo or video Jingle More Bells shop holiday gifts Say Hello To The All-New JCPenney App
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
-learn more download from the app store Red Zone Clearance Selections 50-70% Off shop clearance
+learn more download from the app store
 
 get connected
 
