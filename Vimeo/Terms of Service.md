@@ -1,6 +1,6 @@
 Terms of Service
 
-Last Updated: October 15, 2013
+Last Updated: November 6, 2014
 
 **PLEASE READ THIS DOCUMENT CAREFULLY. Vimeo, LLC ("Vimeo," "we," or "us") offers an online video sharing platform and community through its website located at Vimeo.com (the "Vimeo Site") and related domains (including VimeoPRO.com), mobile applications, desktop applications, and PC television applications (collectively, the "Vimeo Service"). By registering as a member or by using the Vimeo Service in any way, you accept these Terms of Service ("Agreement"), which forms a binding agreement between you and Vimeo. If you do not wish to be bound by this Agreement, do not use the Vimeo Service.**
 
@@ -94,7 +94,7 @@ You may not upload, post, or transmit (collectively, "submit") any video, image,
 *   Exploits minors;
 *   Depicts unlawful acts or extreme violence;
 *   Depicts animal cruelty or extreme violence towards animals;
-*   Promotes fraudulent schemes, multi level marketing (MLM) schemes, get rich quick schemes, online gaming and gambling, cash gifting, work from home businesses, or any other dubious money-making ventures. or
+*   Promotes fraudulent schemes, multi level marketing (MLM) schemes, get rich quick schemes, gambling, cash gifting, work from home businesses, or any other dubious money-making ventures. or
 *   Violates any law.
 
 All videos you submit must also comply with the Vimeo Guidelines, which are incorporated into this Agreement.
