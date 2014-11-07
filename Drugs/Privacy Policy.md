@@ -1,6 +1,6 @@
 Privacy Policy
 
-For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our web site www.drugs.com. The terms "you" and "end-user" refer to you as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugs.com. This privacy policy describes how Drugs.com collects and uses the personally identifiable information you provide on our web site: http://www.drugs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
+For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our web site www.drugs.com. The terms "you" and "end-user" refer to you as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugsite Trust. This privacy policy describes how Drugsite Trust collects and uses the personally identifiable information you provide on our web site: http://www.drugs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
 TRUSTe TRUSTe's program requirements
 
@@ -51,7 +51,7 @@ You may choose to provide us with personally identifiable information, by sendin
 *   Respond to Your message
 *   Follow-up as appropriate
 
-Drugs.com does not create individual profiles with the information you provide. If information is collected, it will be used solely in connection with Drugs.com, or for such other purposes as are described at the point of collection. Drugs.com does not give, sell, or transfer any personally identifiable information to any third party for their promotional purposes unless you allow it. We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy
+Drugs.com does not create individual profiles with the information you provide. If information is collected, it will be used solely in connection with Drugs.com, or for such other purposes as are described at the point of collection. Drugs.com does not give, sell, or transfer any personally identifiable information to any third party for their promotional purposes unless you allow it. We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy.
 
 Your email message, question, or comment may be forwarded to authorized Drugs.com employees, contractors or subcontractors, who may be better able to help you. These contractors or subcontractors are authorized to use your personally identifiable information only as necessary to provide these services to us. Except for authorized law enforcement investigations, we do not share email with any other outside organizations. However, email and online forms are not secure against interception and senders cannot expect guaranteed privacy.
 
