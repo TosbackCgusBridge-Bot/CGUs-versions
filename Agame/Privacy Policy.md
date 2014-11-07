@@ -3,7 +3,7 @@ Your zone to play free online games
 Join or Login
 
 *   Home
-*   Social
+*   Educational
 *   Racing
 *   Action
 *   Puzzle
