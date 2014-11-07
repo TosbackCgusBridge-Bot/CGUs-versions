@@ -29,7 +29,7 @@ Main Menu
         *   Outdoor Toys &. Sports
         *   Toy Cars, Trucks &. Vehicles
         *   Train Sets
-        *   BU Baby University
+        *   Baby Toys by Type
         *   View All >
 
 *   Everything Baby
