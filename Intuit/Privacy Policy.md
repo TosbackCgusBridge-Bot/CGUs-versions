@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  LACEY
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13072018474
+true true C12948719165
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Wed Nov 05 08:07:05 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Nov 06 04:47:35 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -73,23 +73,27 @@ Code: TAKETEN
 
 Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details Big Buys
+\*See exclusions and details Hundreds Of Night and Day Doorbusters
 
-In store and online. Excluded from offer. Now through Saturday while they last.
+In store and online. Friday, 3PM CST through Saturday 1PM.
 
-view big buys store ad Women
+view doorbusters store adBig Buys
 
-$14.99 Bras
+In store and online. Now through Saturday while they last. Excluded from offer.
 
-Select styles
-
-shop bras
+view big buys Women
 
 50% Off Women's Coats
 
 Select styles
 
 shop women's coats
+
+40-50% Off Women's Sleepwear
+
+Select styles
+
+shop women's sleepwear
 
 40-50% Off Sweaters For Her
 
@@ -175,29 +179,29 @@ Select styles
 
 shop juniors' Arizona Jewelry and Accessories
 
-45-65% Off Fine Jewelry and Bijoux Bar
+45-60% Off Fine Jewelry and Bijoux Bar
 
 Select styles
 
 shop fine jewelry and Bijoux Bar
 
-25-55% Off Watches
+20-50% Off Watches
 
 Select styles
 
 shop watches
 
+Save On Women's Clark Shoes
+
+Select styles
+
+shop women's Clark shoes
+
 25-40% Off Boots For The Family
 
 Select styles
 
-shop boots
-
-25-40% Off Handbags
-
-Select styles
-
-shop handbags Clearance 50-70% Off
+shop boots Clearance 50-70% Off
 
 In store and online.
 
