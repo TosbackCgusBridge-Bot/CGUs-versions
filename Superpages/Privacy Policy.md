@@ -187,10 +187,11 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Please visit Contact Us
 
 *   Follow Us
-
-*   Follow
-
+*   Facebook
+*   Twitter
+*   Google+
 *   Pinterest
+*   Instagram
 
 *   Directory
 *   Free Advertising
@@ -207,7 +208,7 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Every Car Listed
 *   Featured Businesses
 *   Popular Categories
-*   Enlighten Me
+*   Enlightenme
 *   Lottery Results
 *   Weather Forecasts
 *   Superpages Mobile
