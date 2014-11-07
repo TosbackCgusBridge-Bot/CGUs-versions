@@ -234,7 +234,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Professional Laptop &. Desktop Deals
         3.  ThinkPad &. ThinkCentre QuickShips
         4.  Mystery eCoupon Codes
-        5.  Accessories Closeout Sale
+        5.  Accessories Stocking Stuffers
         6.  Bing Page Deals
         7.  Deals for Students and Educators
         8.  Outlet
@@ -245,7 +245,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 
 \>Tools
 
-1.  For Work
+1.  Holiday Store
+2.  For Work
     1.  See all For Work
     2.  Small Business
     3.  Large Enterprise
@@ -258,14 +259,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     10.  Resource Center
     11.  See all solutions for work
     12.  See all For Work
-2.  Support
+3.  Support
     1.  See all Support
     2.  Lenovo &. Think Product Support
     3.  Network Storage Support – LenovoEMC
     4.  Network Storage Support – IBM
     5.  x86 Servers (IBM) Support
     6.  See all Support
-3.  Contact Us
+4.  Contact Us
     1.  See all Contact Us
     2.  Sales inquiry?
     3.  Order Assistance inquiry?
@@ -289,9 +290,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     6.  Tech Support Find phone numbers for your location
     7.  Need More Help? More ways to contact Lenovo
     8.  See all Contact Us
-4.  Email Sign-Up
-5.  My Account
-6.  Cart
+5.  Email Sign-Up
+6.  My Account
+7.  Cart
 
 View Your Results Offers
 
