@@ -21,13 +21,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   Outerwear Shop
             *   Cardigan Shop
-            *   Performance Activewear
+            *   Activewear Collection
             *   Shoes &. Boots
             
             *   New Arrivals
             *   Winter Looks
-            *   Nautical Winter Style
-            *   Jeans 101
+            *   Under the Mistletoe
+            *   Personalized Gifts
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -61,15 +61,15 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Jeans Lineup
-            *   Made to Work
+            *   Outerwear Guide
+            *   Sleep Shop
             *   Shoes &. Boots
-            *   Outerwear Shop
+            *   Supima Shop
             
             *   New Arrivals
-            *   Favorite Looks
             *   Tailored Fit Shop
             *   Slim Fit Shop
+            *   Personalized Gifts
             *   Sale
         *   Shop By Size Range
             *   Back to Men Shop By Size Range
@@ -108,6 +108,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Boys Iron Knee
             *   Girls Knit Kit
+            *   Personalized Gifts
             *   Sale
         *   Shop By Age Range
             *   Back to Kids Shop By Age Range
@@ -131,6 +132,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Skirts &. Skorts
             *   Shorts
             *   Blazers &. Jackets
+            *   Activewear
             *   Sleepwear
             *   Swim
             *   Backpacks &. Lunch Boxes
@@ -149,6 +151,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Jeans
             *   Shorts
             *   Blazers &. Jackets
+            *   Activewear
             *   Sleepwear
             *   Swim
             *   Backpacks &. Lunch Boxes
@@ -170,14 +173,15 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Home
         *   Featured Shops
             *   Back to Home Featured Shops
-            *   Bedding
-            *   Bath
+            *   The Christmas Shop
+            *   Supima Bed &. Bath
+            *   Throw Shop
             *   Totes
             
             *   New Arrivals
-            *   Supima Bed &. Bath
             *   Flannel Bedding
-            *   The Christmas Shop
+            *   Bedding Collections
+            *   Personalized Gifts
             *   Sale
     *   *   Categories
             *   Bedding
