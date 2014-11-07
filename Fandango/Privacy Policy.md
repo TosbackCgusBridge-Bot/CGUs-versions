@@ -43,7 +43,7 @@ Gift Cards | Offers | Visa Signature
     *   Exodus: Gods and Kings
     *   Annie (2014)
     *   The Hobbit: The Battle of the Five Armies
-    *   Night at the Museum: Secret of the Tomb
+    *   New Movie 3
     *   The Interview
     *   See All Coming Soon
     
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News It's official: Channing Tatum's 'Gambit' movie is really happening Read More Fassbender may replace Bale as Steve Jobs. watch new 'Minions' trailer Read More LOOK: Bill Murray and 'Ghostbusters' reunite on mag cover, 'Today Show' (watch the video!) Read More Explore More
+*   Movie News Featured Movie News Hold on to your lightsabers, 'Star Wars' has an official title...what does it all mean? Read More New 'The Hobbit: The Battle of the Five Armies' trailer teases seriously epic battle Read More He's everywhere: Now Channing Tatum may star in Tarantino's upcoming Western Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   Holiday Movie Guide
