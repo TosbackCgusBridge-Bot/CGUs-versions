@@ -18,7 +18,6 @@ Main Menu
     *   Brands
         
         *   View All >
-        *   Our Story
     *   Category
         *   Baby Gear
         *   Baby Toys by Milestone
