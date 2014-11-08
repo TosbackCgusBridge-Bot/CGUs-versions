@@ -1,28 +1,25 @@
-Fitbit Log in • Get Started
+Fitbit
 
 *   Products
-    
-    *   Devices
-    *   **Flex™** Wireless Activity + Sleep Wristband
-    *   **Zip™** Wireless Activity Tracker
-    *   **One™** Wireless Activity + Sleep Tracker
-    *   **Force™** Wireless Activity + Sleep Wristband
-    *   **Aria™** Wi-Fi Smart Scale
-    *   **Tory Burch for Fitbit** Accessories
-    *   **Premium** Membership
-    
-    *   Compare Trackers
-*   Store
-*   Buzz
-*   Social
-    
+    *   _**Everyday** fitness_
+    *   _**Active** fitness_
+    *   _**Performance** fitness_
+    *   _**Wi-Fi** Smart Scale_
+    *   _**Product** extras_
+    *   Compare all products
+*   Experiences
+    *   Mobile App + Dashboard
+    *   Premium Membership
+    *   Compatible Apps
+    *   Why Fitbit
+*   Fun
     *   Blog
-    
-    *   Facebook
-    *   Twitter
-    *   Pinterest
-    
-    *   Refer a friend
+    *   Buzz
+*   Help
+
+*   Store
+*   Log in
+*   Setup
 
 Fitbit Privacy Policy Fitbit Privacy Pledge
 
@@ -199,67 +196,26 @@ Previous Privacy Policy
 
 Privacy Policy dated January 3, 2014
 
-Fitbit
+Get the skinny on all things Fitbit
 
-*   About Fitbit
-*   Blog
-*   Jobs
+*   BLOG
 
-Fitbit is dedicated to helping people lead healthier, more active lives.
-
-©2014 Fitbit Inc. All rights reserved.
-
-*   Privacy Policy
-*   Terms of Use
-*   Recall/Safety Info
-
-United States (change) Products
-
-*   Flex™  
-    Wireless Activity + Sleep Wristband
-*   Zip™  
-    Wireless Activity Tracker
-*   One™  
-    Wireless Activity + Sleep Tracker
-*   Force™  
-    Wireless Activity + Sleep Wristband
-*   Aria™  
-    Wi-Fi Smart Scale
-*   Tory Burch for Fitbit  
-    Accessories
-
-Shop Devices Services
-
-*   Mobile Apps
-*   Premium Reports
-*   App Gallery and Partners
-*   Developer APIs
-
-Explore
-
-*   Where to buy
+*   About Us
+*   Careers
+*   Retailers
 *   Affiliates
 *   Corporate Wellness
-*   Foods by Restaurant
-*   Foods by Brand
-*   Calories in Foods
-*   Search Foods
+*   API
+*   Help
 
-Help
+United States (change)
 
-*   Fitbit Online Help
-*   Returns and Warranty
-*   Setup and Downloads
-*   Supported Syncing Devices
-
-Device Help
-
-*   Flex Tracker Help
-*   Zip Tracker Help
-*   One Tracker Help
-*   Ultra Tracker Help
-*   Force Tracker Help
-*   Aria Scale Help
+*   ©2014 Fitbit Inc. All rights reserved.
+*   Privacy Policy
+*   Terms of Use
+*   Returns &. Warranty
+*   Product Care
+*   Recall &. Safety Info
 
 OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Press to change display
 
