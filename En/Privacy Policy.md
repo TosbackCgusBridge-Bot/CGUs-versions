@@ -273,7 +273,7 @@ Searches:
 *   Popular searches
 *   Other searches
 *   Aaaaaall videos
-*   Aaaaaall software
+*   Aaall software
 
 *   About us
     *   Softonic Info
