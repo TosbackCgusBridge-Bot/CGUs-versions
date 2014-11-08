@@ -4,15 +4,15 @@ A Globo.com sabe o quanto é importante para você conhecer e estar seguro sobre
 
 Esta política permitirá que você saiba:
 
-*   Quais informações obtemos;
-*   O que são cookies e qual a sua utilidade;
-*   Como serão utilizadas estas informações;
-*   Quem coleta as informações;
-*   Com quem suas informações podem ser compartilhadas;
-*   Quais são as suas opções a respeito da coleta, uso e distribuição de suas informações;
-*   Como a Globo.com trata suas informações relativas a finanças pessoais e saúde;
-*   Precauções de segurança estabelecidas para sua proteção em caso de perda, má utilização ou alteração de suas informações e;
-*   O que mais você precisa saber sobre sua privacidade na Internet.
+1.  Quais informações obtemos;
+2.  O que são cookies e qual a sua utilidade;
+3.  Como serão utilizadas estas informações;
+4.  Quem coleta as informações;
+5.  Com quem suas informações podem ser compartilhadas;
+6.  Quais são as suas opções a respeito da coleta, uso e distribuição de suas informações;
+7.  Como a Globo.com trata suas informações relativas a finanças pessoais e saúde;
+8.  Precauções de segurança estabelecidas para sua proteção em caso de perda, má utilização ou alteração de suas informações e;
+9.  O que mais você precisa saber sobre sua privacidade na Internet.
 
 1.  Quais são as informações que obtemos
     
@@ -136,7 +136,7 @@ Esta política permitirá que você saiba:
     
     Informe-se: ao acessar a Internet sempre busque a política/declaração de privacidade do Site que você está acessando.
     
-    Diga a seus filhos para não falarem sobre sua senha com estranhos. Ensine-os a não fornecerem qualquer informação pessoal, incluindo seus nomes, e diga-lhes para nunca preencherem formulárioson-line sem primeiro pedirem sua permissão.
+    Diga a seus filhos para não falarem sobre sua senha com estranhos. Ensine-os a não fornecerem qualquer informação pessoal, incluindo seus nomes, e diga-lhes para nunca preencherem formulários on-line sem primeiro pedirem sua permissão.
     
     Use senhas complexas. Senhas simples são fáceis de serem quebradas. Use senhas complexas de combinações bastante longas de letras e números que necessitam combinações pouco usuais do teclado.
     
