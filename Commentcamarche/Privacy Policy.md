@@ -123,8 +123,8 @@ Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharg
 Conditions-generales-d-utilisation.pdf A voir également
 
 *   Conditions générales d'utilisation
-*   Mise en situation les conditions générale de vente sur internet
-*   Définition de Conditions générales dutilisation
+*   Condition générale d'utilisation site web
+*   Conditions generales de mise à disposition d un site
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
