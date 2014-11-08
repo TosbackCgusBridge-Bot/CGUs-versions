@@ -66,7 +66,7 @@ Toggle navigation ×
 *   Resources
     *   Blog
     *   Case Studies – Search
-    *   Case Studies – Insights &. Ratings
+    *   Case Studies – Insights
     *   Case Studies – Display
 *   Stay Connected
     *   Login
