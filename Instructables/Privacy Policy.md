@@ -1,34 +1,225 @@
-Autodesk 2D and 3D Design and Engineering Software
+Where applicable, you can see country-specific product information, offers, and pricing.
+
+Change country/language X
+
+*   Sign in
+*   Sign Out
+*   Worldwide Sites
+*   SEARCH
+
+My Account
+
+Customers
+
+Subscription Customers A360
+
+Education
+
+Students and educators sign in or register for the Education Community
+
+*   Sign In
+*   Need an education account?
+
+*   Get free software
 
 *   Products
-*   Solutions
-*   Purchase
 *   Support &. Learning
-*   Community
+*   Communities
+*   Buy
 *   Store
 
-*   Cart
-*   Company
-*   Contact Us
-*   Partners
+Suites
 
-*   United States
-*   Worldwide Sites 
+*   Building Design
+*   Entertainment Creation
+*   Factory Design
+*   Infrastructure Design
+*   Plant Design
+*   Product Design
+*   AutoCAD Design
+*   Compare all suites
+
+Products
+
+*   AutoCAD
+*   AutoCAD LT
+*   All AutoCAD
+*   3ds Max
+*   Alias
+*   InfraWorks 360
+*   Inventor
+*   Maya
+*   Simulation products
+
+ 
+
+*   Navisworks
+*   Revit
+*   All products
+
+Subscription
+
+*   Autodesk Subscription
+
+Viewers
+
+*   DWF
+*   DWG
+*   All viewers
+
+PRODUCTS BY INDUSTRY
+
+*   Construction
+*   Film &. Television
+*   Industrial Equipment
+*   Roads &. Highways
+*   All industry solutions
+
+MOBILE &. WEB
+
+*   Personal Creativity
+*   Mobile Apps
+
+CLOUD SERVICES
+
+*   Autodesk cloud services
+*   A360
+*   Autodesk PLM 360
+*   AutoCAD 360
+*   BIM 360
+*   Fusion 360
+*   All cloud services
+
+BY PRODUCT
+
+*   AutoCAD
+*   AutoCAD Architecture
+*   AutoCAD Civil 3D
+*   AutoCAD LT
+*   AutoCAD Map 3D
+*   AutoCAD Mechanical
+*   3ds Max
+*   Alias
+
+ 
+
+*   Inventor
+*   Maya
+*   Navisworks
+*   Revit
+*   Moldflow Insight
+*   Vault
+*   All Support &. Learning
+
+POPULAR TOPICS
+
+*   Installation &. Licensing
+*   System Requirements
+*   Downloads
+
+RESOURCES
+
+*   Forums
+*   Articles
+*   Ideas
+*   Developer Network
+
+EVENTS &. TRAINING
+
+*   Autodesk Events
+*   Autodesk University
+*   Training &. Certification
+
+SERVICES
+
+*   Consulting
+*   Licensing Options
+*   Partner Products &. Services
+*   Subscription
+
+SUPPORT OFFERINGS
+
+Flexible support solutions help you maximize productivity and minimize downtime.
+
+*   Learn more
+
+Users
+
+*   Discussion Groups
+*   Blogs
+*   Autodesk University
+*   Artists in Residence
+*   All communities
+
+ 
+
+*   Industrial Design
+*   Labs
+*   Manufacturing
+*   Media &. Entertainment
+*   Simulation
+*   Students &. Educators
+
+Partners
+
+*   Developers
+*   Resellers
+*   Training Centers
+*   Partner Products &. Services
+*   OEM Software Program
+
+ 
+
+*   Strategic Partners
+*   Consulting System Integrator Partners
+*   Industry Partners
+*   Investors
+
+Options
+
+*   Buy Online
+*   Find a Reseller
+*   All Options
+
+Other
+
+*   Buy with Subscription
+*   Education
+*   Financing
+*   Government
+*   Licensing
+*   Special offers
+
+Asia Pacific
+
+*   Australia ($ AUD)
+*   Singapore ($ USD)
+*   日本 (円)
+*   한국 (₩)
+
+Europe
+
+*   Europa (Deutsch €)
+*   Europe (English €)
+*   Europa (Español €)
+*   Europe (Français €)
+*   Europa (Italiano €)
+*   United Kingdom (£)
+
+North America
+
+*   USA &. Canada ($ USD)
+
+South America
+
+*   Brasil (R$)
+
+Close
 
 *   Home
 *   Company
-*   Legal Notices &. Trademarks
-
-Share
-
-*   Facebook
-*   Twitter
-*   LinkedIn
-*   Google +1
-
-*   StumbleUpon
-*   Tumblr
-*   Delicious
+*   Legal notices &. trademarks
+*   Privacy Statement
 
 Legal Notices &. Trademarks
 
@@ -44,10 +235,9 @@ Legal Notices &. Trademarks
 *   Code of Business Conduct
 *   Partner Code of Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
-*   Education Community Special Terms
-*   Autodesk Online Purchase and Auto-Renewal Terms
+*   Online Purchases Terms and Conditions
 
-Privacy Statement - UPDATED OCTOBER 24, 2014
+  Privacy Statement - UPDATED OCTOBER 24, 2014
 
 *   Privacy Statement  
     o Cookie Policy  
@@ -70,11 +260,66 @@ Privacy Statement - UPDATED OCTOBER 24, 2014
 *   Pernyataan Privasi Autodesk
 *   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk
 
-  
-  
-  
+Follow Autodesk
 
-*   Sign Up For Email
+*   Facebook
+*   Twitter
+*   YouTube
+*   LinkedIn
+
+*   All social
+
+Products
+
+*   Free product trials
+*   3D CAD software
+*   3D printing
+*   Construction software
+*   Drafting software
+*   Painting software
+*   Student downloads
+
+*   Design engineering
+*   Civil engineering
+*   PLM
+
+*   Character animation
+*   Movie editing
+*   Visual effects
+
+Support &. Learning
+
+*   Product support
+*   Learning &. productivity
+*   Installation, registration &. activation
+*   System requirements
+*   Downloads
+
+*   Community resources
+*   Consulting
+*   Training &. certification
+
+Buy
+
+*   Online store
+*   Find a reseller
+*   Subscription
+*   Support offerings
+*   Education licensing
+*   Promotions &. special offers
+
+About Autodesk
+
 *   Careers
+*   Contact us
+*   Gallery
+*   Investor relations
+*   Newsroom
+*   Trust Center
 
-© Copyright 2014 Autodesk, Inc. All rights reserved.   Privacy/Cookies (Updated) — Legal Notices &. Trademarks — Site Map
+*   Autodesk Foundation
+*   Autodesk Labs
+*   Autodesk Research
+*   Autodesk University
+
+*   Privacy/Cookies (Updated)  | Legal Notices &. Trademarks | Report Noncompliance | Site map | © 2014 Autodesk Inc. All rights reserved
