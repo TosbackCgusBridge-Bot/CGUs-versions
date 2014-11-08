@@ -63,10 +63,7 @@ Get started now! Upload your resume >>. See All Jobs >. Popular Job Searches
 Advertisement   Tell us your CareerBuilder success story... I applied as a in and got an interview OR a job offer **0** / **245** Now, check out your competition... **The Hire Insider Report** is a free, real-time data generator that allows you to view how many people have applied to the same job and compare your experience, salary and education levels.  
 Sign up today. View Your Competition You account has been removed.  
   
-
-*   HELP
-*   CareerBuilder Support: **(866) 438-1485**
-*   **Get Connected:**
+Help Center
 
 CareerBuilder
 
