@@ -7,7 +7,7 @@
 Your Cart(0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Gift-Boxes
+    *   Gift Boxes
     *   Gift Baskets &. Towers
     *   Business Gifts
         
@@ -31,7 +31,7 @@ Your Cart(0) Search Catalog Search Catalog Navigation
 *   Sweets
     *   Chocolate
     *   Other Sweets
-*   Specialty Items
+*   Specialty Foods
     *   HoneyGold Ham
     *   Condiments
     *   Gluten Free
@@ -47,7 +47,7 @@ Your Cart(0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Gift-Boxes
+    *   Gift Boxes
     *   Gift Baskets &. Towers
     *   Business Gifts
         
@@ -71,7 +71,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Sweets
     *   Chocolate
     *   Other Sweets
-*   Specialty Items
+*   Specialty Foods
     *   HoneyGold Ham
     *   Condiments
     *   Gluten Free
