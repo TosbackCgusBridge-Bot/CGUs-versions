@@ -29,9 +29,7 @@ Salary Calculator Job Title_Ex. Registered Nurse, Sales Manager, etc._ Location_
 Do you need highly robust compensation data segmentation tools?  
 Visit our Compensation Portal
 
-*   HELP
-*   CareerBuilder Support: **(866) 438-1485**
-*   **Get Connected:**
+Help Center
 
 CareerBuilder
 
