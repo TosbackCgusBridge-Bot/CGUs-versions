@@ -263,9 +263,9 @@ Cease and Desist Cease and Desist
 
 The cops shut down production in Jasper. At least Chase looks good in his underwear after a week of training with Master Ferrell.
 
-Z Nation - Sneak Peek - Die Zombie Die...Agai ... Z Nation - Sneak Peek - Die Zombie Die...Again
+Z Nation - Sneak Peek - Going Nuclear Z Nation - Sneak Peek - Going Nuclear
 
-Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
+Get a sneak peek at the next episode of Z Nation, airing Friday at 10/9c on Syfy
 
 *   FAQ
 *   Feedback
