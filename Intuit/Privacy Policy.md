@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (6)
+*   saved items: (7)
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (6)
+*   saved items: (7)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C12955585794
+true true L13090310829
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Fri Nov 07 03:25:42 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Sat Nov 08 07:22:12 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,7 +47,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 Our Biggest Sale Of Them All
 
-Entire store on sale! Excludes Nike and Sephora.
+Entire store on sale! Excludes Nike and Sephora. Ends today.
 
 shop the sale view store adIn Store Only
 
@@ -73,111 +73,127 @@ Code: TAKETEN
 
 Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details Hundreds of Night and Day Doorbusters
+\*See exclusions and details Women
 
-In store and online. Friday, 3PM CST through Saturday, 1PM.
+$14.99 Bras
 
-view doorbusters store adBig Buys
+Select styles
 
-In store and online. Now through Saturday, while they last.
+shop bras
 
-view big buys$10 Off $10 or More
+50% Off Women's Coats
 
-In store only. Coupon giveaway Saturday at the door, while they last.
+Select styles
 
-find a store Home Doorbusters see all home doorbusters
+shop women's coats
 
-$14.99 Small Appliances
+40-50% Off Sweaters For Her
 
-After mail-in rebate. Excluded from coupon offer.
-
-Select styles.
-
-shop small appliances
-
-50-60% Off Flannel Sheets
-
-Select styles.
-
-shop flannel sheets
-
-$24.99 Curtains and Drapes
-
-Select styles.
-
-shop curtains and drapes Women's Doorbusters see all women's doorbusters
-
-50-60% Off JCP, A.N.A, and St. John's Bay Sweaters
-
-Select styles.
+Select styles
 
 shop women's sweaters
 
-50% Off Decree and Arizona Apparel
+40-50% Off Women's Denim
 
-Select styles.
+Select styles
 
-shop women's Arizona and Decree
+shop women's denim Men
 
-60% Off Coats
+40-50% Off Men's Sportswear
 
-Select styles.
+Select styles
 
-shop women's coats Men's Doorbusters see all men's doorbusters
+shop men's sportswear
 
-50-60% Off Haggar Work-To-Weekend Pants
+50% Off Men's Dress Shirts
 
-Select styles.
+Select styles
 
-shop men's pants
+shop men's dress shirts
 
-50-60% Off Coats and Jackets
+40-50% Off Men's Sweaters
 
-Select styles.
+Select styles
 
-shop men's coats
+shop men's sweaters
 
-50-60% Off The Foundry Supply Co.
+30-50% Off Men's Denim
 
-Select styles.
+Select styles
 
-shop the Foundry Kids' Doorbusters see all kids' doorbusters
+shop men's denim Home
 
-50-60% Off Total Girl
+40-50% Off Window
 
-Select styles.
+Select styles
 
-shop Total Girl
+shop window
 
-50-60% Off Kids' Coats and Jackets
+40-50% Off Furniture and Mattresses
 
-Select styles.
+Select styles
 
-shop kids' coats
+shop furniture and mattresses
 
-50-60% Off Boys' and Girls' Xersion
+30-50% Off Bedding and Bath
 
-Select styles.
+Select styles
 
-shop kids' Xersion Doorbusters
+shop bedding and bath
 
-45-70% Off Fine Jewelry
+30-50% Off Kitchen and Dining
 
-Select styles.
+Select styles
 
-shop fine jewelry shop fashion jewelry
+shop kitchen and dining Kids and Teens
 
-50-60% Off Arizona, St. John's Bay and Nine and Co. Shoes
+40-50% Off Boys' and Girls' Sleepwear
 
-Select styles.
+Select styles
 
-shop shoes
+shop kids' sleepwear
 
-50% Off Women's Sleepwear
+$14.99 Boys' and Girls' Denim
 
-Select styles.
+Select styles
 
-shop women's sleepwear Clearance 50-70% Off
+shop kids' denim
+
+40-50% Off Kids' Dress Clothes
+
+Select styles
+
+shop kids' dress clothes
+
+40-50% Off Juniors' Arizona
+
+Select styles
+
+shop juniors' Arizona Jewelry and Accessories
+
+40-60% Off Fine Jewelry and Bijoux Bar
+
+Select styles
+
+shop fine jewelry and Bijoux Bar
+
+20-50% Off Watches
+
+Select styles
+
+shop watches
+
+25-40% Off Boots For The Family
+
+Select styles
+
+shop boots
+
+25-40% Off Handbags
+
+Select styles
+
+shop handbags Clearance 50-70% Off
 
 In store and online.
 
