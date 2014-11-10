@@ -16,7 +16,7 @@ Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies ga
 
 b. Für gesetzlich vorgesehene Zwecke
 
-Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung von Missbrauch und für die Erkennung und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage.  
+Wir verwenden Ihre Daten für gesetzlich vorgesehene Zwecke. Für die Aufdeckung von Missbrauch und für die Erkennung und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage.
 
 **3\. Wo werden meine Daten verarbeitet?**  
 Ihre Daten werden grund­sätzlich in Deutschland verarbeitet. Nur in Einzelfällen und im gesetzlich zulässigen Rahmen findet die Datenverarbeitung auch im Ausland statt.
@@ -52,7 +52,7 @@ Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbietern au
 *   Zeitstempel des Webseitenbesuchs
 *   ID für den Seitenaufruf
 *   ID für den Besucher
-*   ID für die Session 
+*   ID für die Session
 
 Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren. Legen Sie in Ihren Browser-Einstellungen fest, dass Cookies von der Domain „tealium.hs.llnwd.net“ blockiert werden.
 
@@ -117,7 +117,7 @@ Adform: http://site.adform.com/privacy-policy\_de/
 Xplosion (sowie AppNexus und Adnologies): http://www.xplosion.de/so-funktionierts/opt-out.html
 
 Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit, der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen (http://www.youronlinechoices.com/de/praferenzmanagement/).  
-Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier unter: http://www.t-online.de/nutzungsbasierte-online-werbung/id\_56770518/index  
+Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier unter: http://www.t-online.de/nutzungsbasierte-online-werbung/id\_56770518/index
 
 Reichweitenmessung:
 
@@ -154,10 +154,10 @@ Sie können die Einwilligung zur Anzeige der Social Plugins auf dieser Seite mit
 Sie haben auf unserer Website die Möglichkeit, unseren Online-Chatservice kostenlos und in Echtzeit zu nutzen. Hierfür werden Cookies durch den Chatservicebetreiber LivePerson Netherlands B.V. gesetzt, die eine Analyse der Benutzung der Website ermöglichen. Im Rahmen der gesetzlichen Regelungen legt LivePerson Netherlands B.V. Nutzungsprofile unter einem Pseudonym an. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen. Die Telekom verwendet die Dienste der Firma LivePerson Netherlands B.V., um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren.
 
 Opt-Out-Möglichkeit:  
-Für den Ausschluss vom Online Chatservice  wird ein Cookie mit dem Namen „LPOptOut“ von der Domain telekom.de und t-mobile.de gesetzt. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen. Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen (https://www.telekom.de/datenschutz/widerspruch-registriert).
+Für den Ausschluss vom Online Chatservice wird ein Cookie mit dem Namen „LPOptOut“ von der Domain telekom.de und t-mobile.de gesetzt. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen. Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen (https://www.telekom.de/datenschutz/widerspruch-registriert).
 
 **11\. Kann ich Auskunft über meine gespeicherten Daten erhalten?**  
-Sie können unentgeltlich Auskunft über den Umfang, die Herkunft und die Empfänger der gespeicherten Daten sowie den Zweck der Speicherung verlangen.  
+Sie können unentgeltlich Auskunft über den Umfang, die Herkunft und die Empfänger der gespeicherten Daten sowie den Zweck der Speicherung verlangen.
 
 **12\. Kann ich Daten berichtigen lassen?**  
 Sie können jederzeit verlangen, dass unrichtige Daten berichtigt werden.
