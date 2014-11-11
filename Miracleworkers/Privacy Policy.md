@@ -323,5 +323,4 @@ Partner Sites
 MiracleWorkers Office 200 N. LaSalle St  
 Suite 1100  
 Chicago, IL 60601  
-(877) 270-6318  
 © 2014 MiracleWorkers.com. All Rights Reserved. Customer Service: (877) 270-6318 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
