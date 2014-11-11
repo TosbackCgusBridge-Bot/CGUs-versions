@@ -68,6 +68,7 @@ Toggle navigation ×
     *   Case Studies – Search
     *   Case Studies – Insights
     *   Case Studies – Display
+    *   Articles &. White Papers
 *   Stay Connected
     *   Login
     *   Contact Us
