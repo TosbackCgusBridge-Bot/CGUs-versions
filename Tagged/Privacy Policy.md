@@ -73,7 +73,7 @@ H) Tagged Gold
 
 I) VIP Membership
 
-37 You may decide to upgrade your membership to VIP status for an additional monthly cost. For details on pricing and what it means to be a Tagged VIP, please visit http://www.tagged.com/vip/details.html. 38 If you choose to become a Tagged VIP, you will be able to elect to have your membership automatically renewed on a monthly basis by enrolling in the auto-renew program through our partnership with PayPal. If, at any point, you wish to discontinue your VIP membership, you must visit http://www.tagged.com/vip/cancel.html and select 'CANCEL' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly.
+37 You may decide to upgrade your membership to VIP status for an additional monthly cost. For details on pricing and what it means to be a Tagged VIP, please visit http://www.tagged.com/vip/details.html. 38 If you choose to become a Tagged VIP, you will be able to elect to have your membership automatically renewed on a monthly basis by enrolling in the auto-renew program. If, at any point, you wish to discontinue your VIP membership, you must visit http://www.tagged.com/vip/cancel.html and select 'CANCEL' at least 3 days prior to your next scheduled automatic payment so that we can process your cancellation properly.
 
 J) Mobile
 
