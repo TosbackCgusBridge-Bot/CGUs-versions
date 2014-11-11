@@ -4,47 +4,47 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
-    *   Nightcrawler
-    *   Ouija
-    *   Fury (2014)
+    *   Big Hero 6
+    *   Interstellar
     *   Gone Girl
-    *   The Book of Life
-    *   John Wick
+    *   Ouija
     *   St. Vincent
+    *   Nightcrawler
+    *   Fury (2014)
+    *   John Wick
     *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
-    *   The Judge (2014)
-    *   Dracula Untold
-    *   The Best of Me
+    *   The Book of Life
+    *   Birdman
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Big Hero 6
-    *   Interstellar
-    *   Jessabelle
-    *   The Theory of Everything
-    *   The Better Angels
-    *   The Way He Looks
-    *   21 Years: Richard Linklater
-    *   On Any Sunday: The Next Chapter
-    *   Open Windows
-    *   The Tower
-    *   Viva la Libertà
+    *   Beyond the Lights
+    *   Dumb and Dumber To
+    *   Foxcatcher
+    *   The Homesman
+    *   Rosewater
+    *   Occupy the Farm
+    *   Kirk Cameron's Saving Christmas
+    *   Always Woodstock
+    *   Bad Turn Worse
+    *   Beside Still Waters
+    *   Brahmin Bulls
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Beyond the Lights
-    *   Dumb and Dumber To
     *   The Hunger Games: Mockingjay - Part 1
     *   Horrible Bosses 2
     *   Penguins of Madagascar
     *   The Pyramid
     *   Exodus: Gods and Kings
+    *   Top Five
     *   Annie (2014)
     *   The Hobbit: The Battle of the Five Armies
-    *   New Movie 3
     *   The Interview
+    *   Into the Woods
+    *   Unbroken
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Hold on to your lightsabers, 'Star Wars' has an official title...what does it all mean? Read More Rejoice! They're making a 'Toy Story 4' -- here's who is directing, and when you can see it Read More New 'The Hobbit: The Battle of the Five Armies' trailer teases seriously epic battle Read More Explore More
+*   Movie News Featured Movie News Hold on to your lightsabers, 'Star Wars' has an official title...what does it all mean? Read More Rejoice! They're making a 'Toy Story 4' -- here's who is directing, and when you can see it Read More Jared Leto may play the Joker in DC's 'Suicide Squad' -- who else is rumored? Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   Holiday Movie Guide
@@ -326,18 +326,18 @@ You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
 
 Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
-**Mockingjay Collectible Cards**
+**Big Hero 6 Collectible Cards**
 
-These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
+Hiro, Baymax, Go Go Tomago + more. Limited edition character gift cards. Choose your favorite or collect them all. BUY GIFT CARDS
 
 New + Coming Soon
 
-*   Guardians of the Galaxy
-*   Teenage Mutant Ninja Turtles (2014)
 *   Big Hero 6
 *   Interstellar
 *   Penguins of Madagascar
 *   The Hunger Games: Mockingjay - Part 1
+*   Horrible Bosses 2
+*   Exodus: Gods and Kings
 *   The Hobbit: The Battle of the Five Armies
 *   Annie (2014)
 
