@@ -321,5 +321,4 @@ Partner Sites
 HeadHunter Office 200 N. LaSalle St  
 Suite 1100  
 Chicago, IL 60601  
-(866) 438-1485  
-© 2014 HeadHunter.com. All Rights Reserved. Customer Service: 877-857-6861 This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
+© 2014 HeadHunter.com. This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.
