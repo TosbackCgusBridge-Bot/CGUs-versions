@@ -92,7 +92,7 @@ Main Menu
 *   Change Profile
 
 *   About Us
-*   Take a Virtual Tour
+*   Our Story
 *   Careers
 *   Mattel, Parent Co.
 
