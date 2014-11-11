@@ -87,7 +87,6 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
-    *   Room Clearance
     
     *   GUYS
     *   Clearance Tops
@@ -123,7 +122,6 @@ Aéropostale Go
     *   NFL
     *   Radii
     *   Superga
-    *   True Vintage
 *   Aero Now
 
 Safety, Security and Privacy
