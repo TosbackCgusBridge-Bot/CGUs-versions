@@ -16,7 +16,7 @@ Search
 *   Standings
 *   Stats
 *   Schedule
-*   Postseason
+*   Japan Series
 *   Teams
 *   Fantasy
 *   MLB.TV
