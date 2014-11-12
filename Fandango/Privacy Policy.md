@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Hold on to your lightsabers, 'Star Wars' has an official title...what does it all mean? Read More Rejoice! They're making a 'Toy Story 4' -- here's who is directing, and when you can see it Read More Jared Leto may play the Joker in DC's 'Suicide Squad' -- who else is rumored? Read More Explore More
+*   Movie News Featured Movie News Quentin Tarantino discusses retiring. final 'Exodus: Gods and Kings' trailer Read More Here's what 'Big Hero 6''s robot Baymax MIGHT have looked like Read More What movie might Christopher Nolan make -- or not make -- next? Read More Explore More
     *   Family
     *   The Hunger Games Guide
     *   Holiday Movie Guide
