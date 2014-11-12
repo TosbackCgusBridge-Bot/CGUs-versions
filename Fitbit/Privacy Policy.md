@@ -5,7 +5,9 @@ Fitbit
     *   _**Active** fitness_
     *   _**Performance** fitness_
     *   _**Wi-Fi** Smart Scale_
-    *   _**Product** extras_
+    *   *   **accessories**
+        
+        _**Product** extras_
     *   Compare all products
 *   Experiences
     *   Mobile App + Dashboard
