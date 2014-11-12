@@ -80,7 +80,6 @@ Aéropostale Go
     *   GUYS
     *   Bedding
     *   Accessories
-    *   NFL
 *   Clearance
     
     *   GIRLS
@@ -122,6 +121,7 @@ Aéropostale Go
     *   NFL
     *   Radii
     *   Superga
+    *   True Vintage
 *   Aero Now
 
 Safety, Security and Privacy
