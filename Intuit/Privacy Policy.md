@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12971555933
+true true L13102882746
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Mon Nov 10 01:55:50 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p14.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue Nov 11 10:52:52 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,44 +45,42 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+*   Extra 25% Off\* 25 Hours Only
+    
+    Online only. Today only.
+    
+    Code: HURY2SAV
+    
+    Take an extra 25% Off\* $100 or more.
+    
+    Or, Extra 20% Off\* under $100.
+    
+    Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades.
+    
+    \*See exclusions and details.
 *   30-50% Off Home Sale
     
     Select styles.
     
-    shop the sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Home Decor shop home decor40-50% Off Window shop window40-50% Off Luggage shop luggage40-50% Off Furniture and Mattresses shop furniture and mattressesSpecial Promo Financing
+    shop the home sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Home Decor shop home decor40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage30-50% Off Small Appliances
     
-    Available for furniture and mattress purchases of $1000 or more with you JCPenney Credit Card.
+    Excluded from coupon offer.
     
-    get details
-*   Veterans Day Sale
-    
-    Big Buys. Use your coupon and save even more! While they last!
-    
-    In store and online. Ends November 11.
-    
-    shop the sale view store ad50-60% Off Coats For The Family
-    
-    Select styles.
-    
-    shop women's coats shop women's coats shop men's coats shop men's coats shop kids' coats shop kids' coats
+    shop small appliances
 
 Black Friday Sneak Peek
 
 Stores open Thanksgiving Day 5PM.
 
-get details view store ad 30-50% Off Select Juniors' Sweaters shop juniors' sweaters $36.99 Dockers Signature Khakis
+get details view store ad 30-50% Off Select Juniors' Sweaters shop juniors' sweaters 40-50% Off Select Men's Dress Shirts shop men's dress shirts 25-35% Off Select Disney Sleepwear
 
-Orignally $58.
+Disney Collection. Excluded from coupon offer.
 
-shop Dockers 40-50% Off Select Kids' Arizona shop kids' Arizona 25-40% Off Select Clarks and Yuu Shoes
-
-Excluded from coupon offer.
-
-shop shoes 40% Off Select Women's Cold-Weather Accessories shop women's cold-weather accessories 25% Off Select Bras When You Buy 2 Or More shop bras 40-50% Off Curtains and Drapes
+shop Disney sleepwear 25-45% Off Select Handbags shop handbags Jewelry Spectacular Sale 40-60% Off Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 25% Off Select Bras When You Buy 2 Or More shop bras 30-50% Off Comforters and Bedding Sets
 
 Select styles.
 
-shop curtains and drapes Red Zone Clearance 50-70% Off
+shop comforters and bedding sets Jingle More Bells shop holiday gifts Red Zone Clearance 50-70% Off
 
 In store and online.
 
@@ -98,7 +96,7 @@ learn more download from the app store SportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop Jingle More Bells shop holiday gifts
+shop the SportsFanShop New E-Gift Cards customize with a message photo or video
 
 get connected
 
