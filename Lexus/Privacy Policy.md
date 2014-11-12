@@ -110,6 +110,13 @@ Starting at $42,790\*
 *   • 19/29 City/Hwy MPG\*
 *   • RWD or AWD
 
+RC F
+
+Starting at $62,400\*
+
+*   • 467 hp\*
+*   • RWD
+
 IS C
 
 Starting at $42,960\*
@@ -175,10 +182,6 @@ LF-LC
 Concept Vehicle
 
 NX
-
-Coming Soon
-
-THE CRAFTED LINE
 
 Coming Soon
 
