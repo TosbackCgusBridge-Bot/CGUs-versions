@@ -90,9 +90,9 @@ If you wish to contact Situation Publishing Limited regarding any aspect of the 
 By Post
 
 The Data Controller  
-Situation Publishing Limited  
-36 Union Street  
-Southport PR9 0QE
+Situation Publishing Limited Unit 1 Portland Street Trading Estate  
+14 Portland Street  
+Southport PR8 1LJ
 
 By Email
 
