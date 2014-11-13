@@ -80,7 +80,7 @@ Disclosure of your information
 
 Cookies
 
-13\. This site uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly. This may include, for example, remembering your postcode for you so you don’t have to re-enter it every time you check the stock levels for an item you are interested in. In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+13\. This site uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly. This may include, for example, remembering your postcode for you so you don't have to re-enter it every time you check the stock levels for an item you are interested in. In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
 
 14\. We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of the cookies. In order to comply with these requirements we have prepared a cookies policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer.
 
@@ -123,7 +123,7 @@ How can I get my name removed from the argos.co.uk mailing list?
 
 How do I change any details stored on Argos.co.uk?
 
-24\. To change any of your registered details on argos.co.uk, click on ‘Sign in’ and enter your login name and password. Once logged in change any of the details shown and click ‘update my details'. For further information about shopping on argos.co.uk, please read our Terms and conditions and Home delivery information.
+24\. To change any of your registered details on argos.co.uk, click on 'Sign in' and enter your login name and password. Once logged in change any of the details shown and click 'update my details'. For further information about shopping on argos.co.uk, please read our Terms and conditions and Home delivery information.
 
 Contact Us
 
