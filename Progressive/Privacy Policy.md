@@ -10,31 +10,38 @@ Search / Keywords
 *   Home
 *   Privacy &. Security
 
-1-800-Progressive Progressive Privacy Policy Back
+1-855-559–8728 Progressive Privacy Policy
+
+*   Home
+*   Privacy &. Security
 
 Please select from the following list to review the Privacy Policy for your state:
 
-My state is...AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+My state is... My state is...AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
 
-**Trying to opt-out?**  
+Back
+
+Back
+
+Trying to opt-out?
+
 We don't sell our customer lists or share your information with other companies to offer their products to you. You don't need to "opt-out."
 
-**Contact Information**  
+Contact Information
+
 To obtain additional information regarding our Privacy Policy, write to:
 
 Peter Albert, Privacy Officer  
 The Progressive Group of Insurance Companies  
 6300 Wilson Mills Road  
 Mayfield Village, Ohio 44143  
-  
+
 Call: 1-440-461-5000
 
-Back
+Quote &. Buy Online Zip Code AutoHomeRentersCondoMobile HomeMotorcycle/ATVBoat/PWCSnowmobileTravel TrailerMotor HomeCommercial AutoClassic CarLifeHealthPet---- Bundle &. Save----Home + AutoCondo + AutoRenters + Auto
 
-Back Quote &. Buy Online Zip Code AutoMotorcycle/ATVBoat/PWCMotor HomeTravel TrailerSnowmobileCommercial AutoHomeownersCondoRentersMobile Home
-
-*   Quote with a local agent
-*   Retrieve a saved quote
+*   Find a local agent
+*   Retrieve a quote
 
 Privacy &. Security
 
@@ -99,7 +106,7 @@ Quick Links
 *   
 *   
 
-We're Here 24/7. Call 1-800-Progressive.
+We're Here 24/7. Call 1-855-559–8728.
 
 *   Home
 *   Site Map
