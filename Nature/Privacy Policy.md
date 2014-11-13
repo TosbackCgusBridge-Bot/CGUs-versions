@@ -113,7 +113,7 @@ Search:Search Donate Now
     
     *   **SNAP**
         
-        Science and solutions for 21st century problems.
+        The intersection of nature conservation, economic development and human well-being.
         
     *   **Smart Birding Apps**
         
