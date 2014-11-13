@@ -38,7 +38,7 @@ Aéropostale Go
     *   SLEEPWEAR
     *   BRAS
     *   PANTIES
-    *   FOOTWEAR
+    *   SHOES
     *   ACCESSORIES
 *   Guys
     
@@ -63,10 +63,10 @@ Aéropostale Go
     *   Sweatpants
     *   Shorts
     
-    *   OUTERWEAR
-    *   DORM
-    *   FOOTWEAR
-    *   BOXERS + TRUNKS
+    *   JACKETS + COATS
+    *   PAJAMAS
+    *   UNDERWEAR
+    *   SHOES
     *   SOCKS
     *   COLD WEATHER
     *   ACCESSORIES
@@ -118,10 +118,8 @@ Aéropostale Go
     *   Free State
     *   Gola
     *   Locker Stock
-    *   NFL
     *   Radii
     *   Superga
-    *   True Vintage
 *   Aero Now
 
 Safety, Security and Privacy
