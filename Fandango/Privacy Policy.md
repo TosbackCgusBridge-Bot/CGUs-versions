@@ -67,8 +67,9 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Quentin Tarantino discusses retiring. final 'Exodus: Gods and Kings' trailer Read More Here's what 'Big Hero 6''s robot Baymax MIGHT have looked like Read More What movie might Christopher Nolan make -- or not make -- next? Read More Explore More
+*   Movie News Featured Movie News Watch: The first freaky 'Insurgent' trailer may give you nightmares! Read More Here's what 'Big Hero 6''s robot Baymax MIGHT have looked like Read More What movie might Christopher Nolan make -- or not make -- next? Read More Explore More
     *   Family
+    *   FrontRunners
     *   The Hunger Games Guide
     *   Holiday Movie Guide
     *   House of Screams
@@ -76,7 +77,6 @@ Gift Cards | Offers | Visa Signature
     *   Weekend Ticket
     *   Mom's Movie Minute
     *   Reel Kids
-    *   Real D 3D Guide
 *   Sign In Join
 
 Privacy Policy
@@ -318,9 +318,9 @@ Offers **Christmas Movie My House Contest**
 
 You could win a Griswold Family Christmas worth over $75,000! SEE DETAILS
 
-**Interstellar Sweepstakes**
+**Penguins of Madagascar Free Gift**
 
-You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
+Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase BUY TICKETS
 
 **Mockingjay Part 1 Sweepstakes**
 
