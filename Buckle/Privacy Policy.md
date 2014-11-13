@@ -1,6 +1,6 @@
-Military Guests, thank you for your service.
+Who wants a free Affliction tee?
 
-10% Military Discount
+Learn more.
 
 Online Orders 800-522-8090
 
@@ -55,6 +55,7 @@ My Bag (0) Wish List Search
     *   Email Updates
     *   Maintain Your Wish List
 *   Shipping/Handling
+    *   Holiday Shipping
     *   Shipping Rates/Options
     *   International Orders
 *   Returns
