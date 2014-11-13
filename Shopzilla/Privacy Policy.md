@@ -59,15 +59,16 @@ Toggle navigation ×
     *   Publisher Monetization
 *   About
     *   About Connexity
-    *   Team
-    *   Benefits
     *   Open Positions
+    *   Benefits
+    *   Team
     *   Press
 *   Resources
     *   Blog
-    *   Case Studies – Search
-    *   Case Studies – Insights
+    *   Case Studies
     *   Case Studies – Display
+    *   Case Studies – Insights
+    *   Case Studies – Search
     *   Articles &. White Papers
 *   Stay Connected
     *   Login
