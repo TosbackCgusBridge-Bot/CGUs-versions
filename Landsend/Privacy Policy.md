@@ -26,7 +26,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             
             *   New Arrivals
             *   Winter Looks
-            *   Under the Mistletoe
+            *   2015 Swim Shop
             *   Personalized Gifts
             *   Sale
         *   Shop By Size Range
