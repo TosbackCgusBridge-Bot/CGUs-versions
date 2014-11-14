@@ -40,25 +40,22 @@ Special Edition Launch:
 
 BRZ Limited shown
 
-Impreza $17,895 starting price 2014 Impreza
+Impreza $18,195 starting price 2015 Impreza
 
 Starting at
 
-$17,895 MSRP
+$18,195 MSRP
 
 Up to
 
-36/27MPG Hwy/City
+37/28MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety Pick  
-(Excludes WRX/STI models)
-
-2014 Impreza 2.0i Sport Limited shown
+Impreza 2.0i Sport Limited shown
 
 WRX $26,295 starting price 2015 WRX
 
