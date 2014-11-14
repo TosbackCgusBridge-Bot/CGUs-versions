@@ -16,14 +16,15 @@ Aéropostale Go
     *   Lookbook
     *   Uniform Looks
     *   Extended Sizes
+    *   Online Exclusives
     
     *   TOPS
     *   Tees
-    *   Polos
     *   Camis + Tanks
-    *   Hoodies + Sweatshirts
-    *   Sweaters + Cardigans
+    *   Polos
     *   Shirts
+    *   Hoodies + Sweatshirts
+    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
@@ -34,7 +35,7 @@ Aéropostale Go
     *   Skirts
     
     *   DRESSES
-    *   OUTERWEAR
+    *   JACKETS + COATS
     *   SLEEPWEAR
     *   BRAS
     *   PANTIES
@@ -48,13 +49,14 @@ Aéropostale Go
     *   Lookbook
     *   Uniform Looks
     *   Extended Sizes
+    *   Online Exclusives
     
     *   TOPS
     *   Graphic Tees
-    *   Polos
     *   Tees
-    *   Hoodies
+    *   Polos
     *   Shirts
+    *   Hoodies
     *   Sweaters
     
     *   BOTTOMS
@@ -67,8 +69,6 @@ Aéropostale Go
     *   PAJAMAS
     *   UNDERWEAR
     *   SHOES
-    *   SOCKS
-    *   COLD WEATHER
     *   ACCESSORIES
 *   Room
     
