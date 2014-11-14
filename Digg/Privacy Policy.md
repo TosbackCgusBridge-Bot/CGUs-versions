@@ -38,6 +38,8 @@ _Information Collected From Third Party Services:_
 
 Some features of Digg allow you to share your Digg curated content and Digg Reader content through Third Party Services, as well as your content from Third Party Services through Digg. If you choose to connect Digg to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts. We may otherwise collect information about how you are using Digg to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us.
 
+Digg uses Google Analytics, an analytics service provided by Google, Inc. We use Google Analytics Demographics and Interest Reporting which gives us access to approximate demographic and interest information of visitors to digg.com. This information is used to improve the features of digg.com. You can manage your settings for Google Analytics and opt-out of this feature by visiting Google.com Ad Settings or Google Analytics' opt-out tools.
+
 _IP Address Information and Other Information Collected Automatically:_
 
 We automatically receive and record information from the Digg application or your web browser when you interact with Digg, including your IP address and cookie information. This information is used to facilitate collection of data concerning your interaction with Digg (e.g., what content you have clicked on).
@@ -136,4 +138,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 If you have any questions or concerns regarding privacy using Digg, please send us a detailed message to: support@digg.com. We will make every effort to resolve your concerns.
 
-Effective Date: June 25, 2013
+Effective Date: November 13, 2014 (added section re: Google Analytics)
