@@ -364,6 +364,29 @@ Zynga Inc.
 San Francisco, CA 94103  
 back to top
 
+Zynga’s Short Notice on Mobile Privacy **We access and use:**
+
+*   Technical info like IP Address and device IDFA and/or IMEI (automatic).
+*   Geo-location and your contacts (with your permission).
+*   Social Network profile data (if you connect with an Social Network like Facebook).
+
+**How we use**
+
+*   Name and email address help us to provide the service, including helping you and friends get connected.
+*   Technical info, like IP Address and device IDFA and/or IMEI, help us to provide the service, including managing and targeting advertising.
+*   To deliver notifications on game events and new products and features.
+
+**Sharing**
+
+*   We Share info with third party service providers, friends and other Zynga players (typically through game profiles). We also share technical info, like device IDFA, with ad networks.
+
+**Controls**
+
+*   Manage push notifications and local notifications by visiting the “settings” or “options” panel for each game.
+*   Manage geo-location by visiting your device’s settings page for the app in question.
+
+See full Privacy Policy
+
 *   NaturalMotion
 *   zynga.org
 
