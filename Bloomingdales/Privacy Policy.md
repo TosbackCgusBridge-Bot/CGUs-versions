@@ -20,7 +20,7 @@
 *   THE REGISTRY
 *   SALE
 
-Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Orders Shipping &. Delivery Returns Bloomingdale's Credit Card Loyallist Rewards Furniture &. Mattresses Products &. Pricing Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Sunday, 9AM - Midnight ET Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Order Status Shipping &. Delivery Returns Credit Card Loyallist Furniture &. Mattresses Products &. Pricing Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Sunday, 9AM - Midnight ET Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
 The Notice of Privacy Practices was updated on January 31, 2014.
 
