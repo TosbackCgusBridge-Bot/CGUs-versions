@@ -62,7 +62,7 @@ Our Websites are not intended for use by people under eighteen (18) years of age
     
 *   Your IP address and/or unique device identifier at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Websites.
     
-*   Your email address to provide you with certain information or updates (such as alerts, Radar, our newsletters, or deals notices) if requested by you and facilitate your provision of product or merchant reviews.
+*   Your email address to provide you with certain information or updates (such as price alerts, our newsletters, or deals notices) if requested by you and facilitate your provision of product or merchant reviews.
     
 *   The information to manage your account, facilitate the use of certain features of our Websites (e.g., personalized product recommendations, suggestions of content that may be of interest to you, TruePrice prices, submission of product/merchant reviews and creation of your lists) and to send you information about our company, services and products or offers from our partners and advertisers.
     
@@ -86,15 +86,15 @@ In addition to the uses described above, we may use your personally identifiable
 
 *   **WHO WE SHARE YOUR INFORMATION WITH**
 
-Publicly available information: Certain information that you provide, such as your lists, is publicly available unless you choose to make it private. You may control the information that is publicly available by signing into your account and adjusting your settings. Additionally, if you choose to activate the setting, some Websites allow you to publish your activity or interactions with our Websites to your social networking account.
+Publicly Available Information: Certain information that you provide, such as your lists, is publicly available unless you choose to make it private. You may control the information that is publicly available by signing into your account and adjusting your settings. Additionally, if you choose to activate the setting, some Websites allow you to publish your activity or interactions with our Websites to your social networking account.
 
-Aggregated information: We aggregate personal information into statistics about users, their usage of the Websites, traffic patterns, and demographics. We may provide third parties, including merchants, partners and advertisers with such statistics, but never in a way that would make the information personally identifiable. This data is aggregated from millions of users who visit the Websites each month.
+Aggregated Information: We aggregate personal information into statistics about users, their usage of the Websites, traffic patterns, and demographics. We may provide third parties, including merchants, partners and advertisers with such statistics, but never in a way that would make the information personally identifiable. This data is aggregated from millions of users who visit the Websites each month.
 
 Anonymous Information: We may provide your anonymous use and browsing information, including the search queries that you enter or products that you view on our site, to third parties, which may include allowing merchants, partners and advertisers, to place cookies and/or web beacons on the Websites and/or clear gifs in our HTML emails to allow third parties to optimize and/or provide you with advertisements that are tailored to your interests.
 
 Merchants and Partners: If you click from the Websites to visit a merchant or other partner, we may provide information about your use of the Websites, such as your search queries, to the merchant or partner, to allow them to provide results that are more tailored to your interests.
 
-Co-Branded Partners: Co-Branded Partners are third parties with whom we may jointly offer a Website, service or feature. Information that you provide or that we collect on a co-brand site may be provided to both us and the Co-Branded Partner. In some instances we utilize framing techniques, which may make it appear that you are on our site when you are actually on a third party website, or may make it appear that you are on a third party website when you are actually on a Website. The privacy policy that governs the collection and use of the information will be present on these pages so you always know whose privacy practices govern the collection and use of the information that you submit. The Co-Branded Partner's privacy policy may apply to its use of your information.
+Co-Branded Partners: Co-Branded Partners are third parties with whom we may jointly offer a Website, service or feature. Information that you provide or that we collect on a co-brand site may be provided to both us and the Co-Branded Partner. In some instances we utilize framing techniques, which may make it appear that you are on our site when you are actually on a third party website, or may make it appear that you are on a third party website when you are actually on our Website. The privacy policy that governs the collection and use of the information will be present on these pages so you always know whose privacy practices govern the collection and use of the information that you submit. The Co-Branded Partner's privacy policy may apply to its use of your information.
 
 Service Providers: We may use external service providers to facilitate, improve or outsource elements of our service or operation of the Websites, including processing credit card transactions, sending emails, and providing marketing assistance or analysis. We may provide your information to, or exchange your information with, these service providers for use in their provision of services to us, such as fraud protection and credit risk reduction or marketing analysis. These external service providers may have access to personally identifiable information needed to perform their functions or services to us, but may not use it for other purposes.
 
@@ -137,9 +137,9 @@ Please note that opting out may prevent you from receiving email regarding updat
 
 In some cases you have the option to submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g., service providers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
 
-Advertising preferences: We may collect information about your interaction with our advertisements by using advertising cookies. We may also allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of our advertising cookies or partner advertising cookies, please click here.
+Advertising Preferences: We may collect information about your interaction with our advertisements by using advertising cookies. We may also allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of our advertising cookies or partner advertising cookies, please click here.
 
-Personalization preferences: To change your preferences regarding your search, browsing and purchase history and our use of that information, including providing you with advertisements that may be of interest to you, please click here.
+Personalization Preferences: To change your preferences regarding your search and browsing history and our use of that information, including providing you with advertisements that may be of interest to you, please click here.
 
 *   **SECURITY MEASURES TO PROTECT YOUR PERSONAL INFORMATION**
 
