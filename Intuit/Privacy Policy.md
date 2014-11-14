@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12981554789
+true true C12982375756
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p36.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Wed Nov 12 11:22:45 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Thu Nov 13 04:00:41 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,19 +45,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Extra 25% Off\* 25 Hours Only
+Online Only
+
+Extra 25% Off $100 or more with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* $100 or more with any other method of payment.
+
+In Store and Online
+
+Extra 20% Off with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Ends November 17.
+
+Use Code: SAVEBIG
+
+\*See exclusions and details. get store coupon
+
+*   Bring On The Jingle Sale shop the sale view store ad40-50% Off Coats For The Family
     
-    Online only. Today only.
+    Select styles.
     
-    Code: HURY2SAV
+    shop women's coats shop men's coats shop kids' coats shop kids' coats shop women's coats shop men's coatsNight and Day Doorbusters
     
-    Take an extra 25% Off\* $100 or more.
+    Use your coupon and save even more!
     
-    Or, Extra 20% Off\* under $100.
+    In store only. Friday, November 14, 3PM until close, Saturday, November 15 Open until 1PM.
     
-    Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades.
-    
-    \*See exclusions and details.
+    view doorbusters store ad
 *   30-50% Off Home Sale
     
     Select styles.
@@ -72,11 +90,7 @@ Black Friday Sneak Peek
 
 Stores open Thanksgiving Day 5PM.
 
-get details view store ad 30-50% Off Select Juniors' Sweaters shop juniors' sweaters 40-50% Off Select Men's Dress Shirts shop men's dress shirts 25-35% Off Select Disney Sleepwear
-
-Disney Collection. Excluded from coupon offer.
-
-shop Disney sleepwear 25-45% Off Select Handbags shop handbags Jewelry Spectacular Sale 40-60% Off Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 25% Off Select Bras When You Buy 2 Or More shop bras 30-50% Off Comforters and Bedding Sets
+get details view store ad 30-50% Off Select Denim For Her shop women's denim 40-50% Off Select Men's St. John's Bay Sweaters shop men's sweaters 40-50% Off Select Kids' Arizona shop kids' Arizona 25-40% Off Select Liz Claiborne Boot For Her shop women's boots Jewelry Spectacular Sale 40-60% Off Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Sleepwear For Her shop women's sleepwear 30-50% Off Comforters and Bedding Sets
 
 Select styles.
 
@@ -96,7 +110,11 @@ learn more download from the app store SportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop the SportsFanShop New E-Gift Cards customize with a message photo or video
+shop the SportsFanShop Just $5
+
+Get ALL your favorite magazines from TimeInc. today.
+
+shop now
 
 get connected
 
