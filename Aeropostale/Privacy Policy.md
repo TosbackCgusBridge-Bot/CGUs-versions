@@ -15,6 +15,7 @@ Aéropostale Go
     *   Cold Weather Shop
     *   Lookbook
     *   Uniform Looks
+    *   Boot Shop
     *   Extended Sizes
     *   Online Exclusives
     
@@ -24,7 +25,7 @@ Aéropostale Go
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
-    *   Sweaters
+    *   Sweaters + Cardigans
     
     *   BOTTOMS
     *   Jeans
@@ -48,6 +49,7 @@ Aéropostale Go
     *   United XXVI
     *   Lookbook
     *   Uniform Looks
+    *   Sneaker Shop
     *   Extended Sizes
     *   Online Exclusives
     
