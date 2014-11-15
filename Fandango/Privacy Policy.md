@@ -67,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Watch: The first freaky 'Insurgent' trailer may give you nightmares! Read More Here's what 'Big Hero 6''s robot Baymax MIGHT have looked like Read More What movie might Christopher Nolan make -- or not make -- next? Read More Explore More
+*   Movie News Featured Movie News Watch: The first freaky 'Insurgent' trailer may give you nightmares! Read More Rumor Mill: Twitter reports Christoph Waltz will join 'Bond 24' -- who will he play? Read More From 'Frozen' to Stan Lee, did you catch all these awesome cameos in 'Big Hero Six'? Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
