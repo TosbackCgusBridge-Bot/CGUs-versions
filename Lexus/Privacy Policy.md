@@ -13,7 +13,7 @@ Lexus Enform
 
 Scheduled Maintenance
 
-Knowledge Center/Guide
+FAQ
 
 Lexus Magazine
 
