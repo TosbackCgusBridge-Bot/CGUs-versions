@@ -9,6 +9,7 @@
     *   Camera Finder
     *   The Weekly Flickr
     *   Flickr Blog
+*   Create
 *   Upload
 
 *   Sign In
