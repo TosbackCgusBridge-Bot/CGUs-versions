@@ -4,6 +4,8 @@
 *    | 
 *   MY ACCOUNT
 *    | 
+*   WISH LIST
+*    | 
 *   MY BROWN BAG
 
 *   DESIGNERS
