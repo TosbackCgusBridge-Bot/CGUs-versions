@@ -95,11 +95,24 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
+Tue, Nov 18, 2014 Do’s and Don’ts of Data-Driven Email Marketing
+
+Hear from guest speaker Mike Gualtieri of Forrester Research as he shares his insights into which data is most important to today’s marketer, and how to turn that data into more personalized, relevant and wanted content—helping you better engage with your customers and increasing the effectiveness of your marketing efforts. Speakers include Mike Gualtieri, Principal Analyst Serving Application Development &. Delivery Professionals, Forrester Research, Steve Dille, Senior VP and Chief Marketing Officer, Message Systems and Alli Libb, American Marketing Association
+
+Thu, Nov 20, 2014 Hidden Threats of Online Advertising - Malvertising
+
+Join OTA at this webinar to get a the publishers view of the threat of malicious and fraudulent advertising impacting publishers and consumers.  Guest speaker include Jason Kint, Executive Director of Digital Content Next (previously Online Publishers Association) http://digitalcontentnext.org.  
+ 
+
+Mon, Jan 26, 2015 Data Protection &. Privacy Day
+
+Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S., since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. 
+
+**2015 DpD Town Halls &. Breach Workshops**
+
 Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco. Come learn directly from other innovative brands about how they are reinventing marketing with Ensighten.
-
-Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 will take place April 20 – 24, 2015 Moscone Center, San Francisco. Speaker Submissions Coming Soon Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S
 
 *   OTA Blog
 *   Newsletters
