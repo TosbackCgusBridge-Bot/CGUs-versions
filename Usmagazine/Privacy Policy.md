@@ -1,4 +1,4 @@
-_Effective Date_: February 28, 2014
+_Effective Date_: November 14, 2014
 
 *   To understand how we use third party analytic tracking technologies (e.g., cookies) and how you can opt-out, click here
 *   To opt-out of direct mail promotions, click here
@@ -66,11 +66,11 @@ We may send you notices from time to time relating to your account, your subscri
 
 (c) Email Newsletters
 
-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply follow the unsubscribe instructions at the bottom of the email newsletter or click here to manage your newsletter preferences.
+We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply follow the unsubscribe instructions at the bottom of the email newsletter.
 
 (d) Email Marketing Offers
 
-We may send you promotional emails regarding special offers about our products and services or on behalf of third party marketing partners who we think can offer services and products of interest to you. We may also share your name and email address and certain other information, such as when you first subscribed, with reputable companies that provide marketing offers through email. If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you email offers, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can click here to manage your email marketing preferences. Please note that even if you opt out of receiving promotional e-mails, we may continue to send you electronic service notifications that are related to your account(s) and other products and services you have requested or in which you are currently enrolled.
+We may send you promotional emails regarding special offers about our products and services or on behalf of third party marketing partners who we think can offer services and products of interest to you. We may also share your name and email address and certain other information, such as when you first subscribed, with reputable companies that provide marketing offers through email. . If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you email offers, simply follow the unsubscribe instructions that are located at the bottom of those emails. Please note that even if you opt out of receiving promotional e-mails, we may continue to send you electronic service notifications that are related to your account(s) and other products and services you have requested or in which you are currently enrolled.
 
 (e) Direct Mail Marketing Offers
 
@@ -146,7 +146,7 @@ California's "Shine the Light" law, Civil Code section 1798.83, requires certain
 
 **Opting out of Direct Mail Marketing**: If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document or click here. If you write to us, please include your account number, name and mailing address in the body of your letter, and please include “Direct Mail Opt-Out” in the subject line.
 
-**Opting out of Email Marketing**: If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can click here to manage your newsletter and email marketing preferences.
+**Opting out of Email Marketing**: If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails.
 
 California customers may request further information about our approach to this law by writing to us at the address provided in the “Contact Us” section located at the end of this document.
 
