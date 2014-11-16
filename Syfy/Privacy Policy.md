@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Haven Origins - Episode 2, Part 1 - Native Haven Origins - Episode 2, Part 1 - Native
+Syfy Video Inside Haven - Season 5, Episode 10 Inside Haven - Season 5, Episode 10
 
-Take a journey into Haven's past to see the beginning of the Troubles in Part 2 of this digital series.
-
-Haven - Sneak Peek - Mortality Haven - Sneak Peek - Mortality
-
-Get a sneak peek at the next episode of Haven, airing Friday at 7/6c on Syfy.
+The cast talks Season 5, Episode 10
 
 Inside Haven - Season 5, Episode 9 Inside Haven - Season 5, Episode 9
 
 The cast talks Season 5, Episode 9
 
-Z Nation - Sneak Peek - Going Nuclear Z Nation - Sneak Peek - Going Nuclear
+Haven Origins - Episode 2, Part 1 - Native Haven Origins - Episode 2, Part 1 - Native
 
-Get a sneak peek at the next episode of Z Nation, airing Friday at 10/9c on Syfy
+Take a journey into Haven's past to see the beginning of the Troubles in Part 2 of this digital series.
+
+Haven: Origins Episode 1, Part 3 - "Witches A ... Haven: Origins Episode 1, Part 3 - "Witches Are Born"
+
+Take a journey into Haven's past to see the beginning of the Troubles in Part 3 of this digital series.
 
 *   FAQ
 *   Feedback
