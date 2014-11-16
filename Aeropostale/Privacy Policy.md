@@ -10,6 +10,7 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
+    *   Gift Guide
     *   United XXVI
     *   Bethany Mota
     *   Cold Weather Shop
@@ -45,6 +46,7 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
+    *   Gift Guide
     *   Cold Weather Shop
     *   United XXVI
     *   Lookbook
