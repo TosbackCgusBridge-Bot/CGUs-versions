@@ -1,43 +1,16 @@
- Menu
-
-*   Claims
-*   Log In
-
-Your Policies Log In
-
-First time logging in? Start here
-
-Or, skip logging in:
-
-Make a Payment 
-
-
+Search / Keywords
 
 *   Insurance
-    *   Auto
-    *   Homeowners
-    *   Renters
-    *   Motorcycle
-    *   Boat
-    *   RV
-    *   Commercial Auto
-    *   Life
-    *   Health
-    *   View Everything
 *   Claims
-    *   Report/Track a Claim
-    *   The Process
-    *   Service Centers
-    *   Roadside Assistance
-    *   Catastrophe Claims
-Your Policy*   About
-    *   Overview
-    *   Careers
-    *   Newsroom
-    *   Investors
-    *   @Progressive
+*   Your Policy
 
- Search / Keywords Progressive Privacy Policy
+*   Make a Payment
+*   Log In
+
+*   Home
+*   Privacy &. Security
+
+1-855-347–3898 Progressive Privacy Policy
 
 *   Home
 *   Privacy &. Security
@@ -65,43 +38,85 @@ Mayfield Village, Ohio 44143
 
 Call: 1-440-461-5000
 
-
+Quote &. Buy Online Zip Code AutoHomeRentersCondoMobile HomeMotorcycle/ATVBoat/PWCSnowmobileTravel TrailerMotor HomeCommercial AutoClassic CarLifeHealthPet---- Bundle &. Save----Home + AutoCondo + AutoRenters + Auto
 
-#1 Insurance Site
+*   Find a local agent
+*   Retrieve a quote
 
-Get Started
+Privacy &. Security
+
+*   E-mail Fraud
+*   Protect Your Identity
+*   Web Site Security
+*   Report Fraud
+
+Insurance Choices
 
 *   Auto Insurance
-*   Homeowners Insurance
-*   Renters Insurance
+*   Local Car Insurance
 *   Motorcycle Insurance
 *   Boat Insurance
-
 *   RV Insurance
 *   Commercial Auto Insurance
+*   Truck Insurance
+*   Renters Insurance
+*   Homeowners Insurance
+*   Condo Insurance
+*   Collector Car Insurance
+*   Pet Insurance
+*   Business Insurance
 *   Life Insurance
-*   Local Car Insurance
-*   Car Insurance Australia
+*   Health Insurance
+*   Umbrella Insurance
 
-Connect
+About Progressive
 
-*   1-855-347-3939
-*   Contact &. Support
+*   Progressive Overview
 *   Careers
-*   Progressive App
+*   TV Commercials
+*   Progressive Blog
+*   Progressive Websites
+*   Newsroom
 *   Investors
+*   Sponsorships
 
-*   
-*   
-*   
-*   
+Featured Content
+
+*   Dress Like Flo
+*   Rocket Cat Adventures
+*   Mobile Apps &. Services
+*   PerkShare®
+*   Vehicle Resources
+*   Insurance Basics
+*   Car Insurance Australia
+*   Seguros para autos
+
+Quick Links
+
+*   Get a Quote
+*   Retrieve a Saved Quote
+*   Quote with a Local Agent
+*   Log In
+*   Make a Payment
+*   Claims
+*   Contact and Support
+
+*   
+*   
+*   
+*   
+
+We're Here 24/7. Call 1-855-347–3898.
 
 *   Home
 *   Site Map
-*   Technical Help
+*   Website Accessibility
+*   Help
 *   Privacy &. Security
 *   Terms of Use
 
 Copyright 1995 - 2014. Progressive Casualty Insurance Company. All Rights Reserved.
 
-We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Quotes for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Quote with a Local Agent button. Mobile quotes are for policies purchased directly from Progressive. Not available in all states and situations.
+We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Quotes for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Quote with a Local Agent button.
+
+Mobile quotes are for policies purchased directly from Progressive. Not available in all states and situations.
