@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  patricia
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12989964721
+true true 10.60.216.10 C12992209568
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p16.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sat Nov 15 08:03:57 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sun Nov 16 05:43:31 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,56 +45,30 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Extra 25% Off $100 or more with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* $100 or more with any other method of payment.
-
-In Store and Online
-
-Extra 20% Off with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Ends November 17.
-
-Use Code: SAVEBIG
-
-\*See exclusions and details. get store coupon
-
-*   Bring On The Jingle Sale shop the sale view store ad40-50% Off Coats For The Family
-    
-    Select styles.
-    
-    shop women's coats shop men's coats shop kids' coats shop kids' coats shop women's coats shop men's coatsNight and Day Doorbusters
-    
-    Use your coupon and save even more!
-    
-    In store only. Friday, November 14, 3PM until close, Saturday, November 15 Open until 1PM.
-    
-    view doorbusters store ad
+*   Bring On The Jingle Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry30-50% Off Women's Sweaters shop women's sweaters
 *   30-50% Off Home Sale
     
     Select styles.
     
-    shop the home sale30-50% Off Bedding and Bath shop bedding and bath30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Home Decor shop home decor40-50% Off Window shop window40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage30-50% Off Small Appliances
-    
-    Excluded from coupon offer.
-    
-    shop small appliances
+    shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage shop small appliances
 
-Black Friday Sneak Peek
+Jingle More Bells shop holiday gifts 25-33% Off Select Dresses shop dresses Jewelry Spectacular Sale 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 25-40% Off Select Boots For the Family shop boots 50% Off Select Kids' Coats and Jackets shop kids' coats 40-50% Off Select Women's Sleepwear shop women's sleepwear Black Friday Sneak Peek
 
-Stores open Thanksgiving Day 5PM.
+Stores open Thanksgiving day 5PM
 
-get details view store ad 30-50% Off Select Denim For Her shop women's denim 40-50% Off Select Men's St. John's Bay Sweaters shop men's sweaters 40-50% Off Select Kids' Arizona shop kids' Arizona 25-40% Off Select Liz Claiborne Boot For Her shop women's boots Jewelry Spectacular Sale 40-60% Off Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Sleepwear For Her shop women's sleepwear 30-50% Off Comforters and Bedding Sets
+view store ad
+
+Thanksgiving coupon giveaway! Instant savings at the door while supplies last!
+
+1 in every 100 coupons is a super-savings coupon!
+
+$100 Off $100 or more Super-Savings Coupon valid until December 24. Or, $10 Off $10 or more Savings Coupon valid Thursday and Friday only. Includes Doorbusters and Big Buys!
+
+get details 40-50% Off Curtains and Drapes
 
 Select styles.
 
-shop comforters and bedding sets Jingle More Bells shop holiday gifts Red Zone Clearance 50-70% Off
+shop curtains and drapes Red Zone Clearance 50-70% Off
 
 In store and online.
 
@@ -102,19 +76,15 @@ shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Say Hello To The All-New JCPenney App
-
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
-
-learn more download from the app store SportsFanShop
-
-Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
-
-shop the SportsFanShop Just $5
+sign up today Just $5
 
 Get ALL your favorite magazines from TimeInc. today.
 
-shop now
+shop now New E-Gift Cards customize with a message photo or video Say Hello To The All-New JCPenney App
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
+learn more download from the app store
 
 get connected
 
