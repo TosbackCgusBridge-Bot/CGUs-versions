@@ -202,7 +202,11 @@ Close Successfully linked Close Your account is linked!
 
 From now on you can login with your social network account or your Agame.com account.
 
-Create an avatar or Close pop-up Connection error Close Uh oh!
+Create an avatar or Close pop-up SIGN IN Use your social network Log in with Facebook Log in with Google or sign in below Sorry, we were unable to sign you in. Try again!
+
+Forgot your username or password?
+
+Keep me logged in on this computer. Sign in Not a member yet? Join now - it's free! Connection error Close Uh oh!
 
 There's been a connection error. Please try again.
 
