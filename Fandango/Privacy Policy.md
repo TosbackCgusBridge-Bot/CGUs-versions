@@ -4,37 +4,31 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Dumb and Dumber To
     *   Big Hero 6
     *   Interstellar
+    *   Beyond the Lights
     *   Gone Girl
-    *   Ouija
     *   St. Vincent
-    *   Nightcrawler
     *   Fury (2014)
-    *   John Wick
-    *   Alexander and the Terrible, Horrible, No Good, Very Bad Day
-    *   The Book of Life
+    *   Nightcrawler
+    *   Ouija
     *   Birdman
+    *   John Wick
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Beyond the Lights
-    *   Dumb and Dumber To
-    *   Foxcatcher
-    *   The Homesman
-    *   Rosewater
-    *   Occupy the Farm
-    *   Kirk Cameron's Saving Christmas
-    *   Always Woodstock
-    *   Bad Turn Worse
-    *   Beside Still Waters
-    *   Brahmin Bulls
+    *   The Hunger Games: Mockingjay - Part 1
+    *   Happy Valley
+    *   The King and the Mockingbird
+    *   V/H/S: Viral
+    *   The Mule
+    *   A Girl Walks Home Alone at Night
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Hunger Games: Mockingjay - Part 1
     *   Horrible Bosses 2
     *   Penguins of Madagascar
     *   The Pyramid
@@ -45,6 +39,7 @@ Gift Cards | Offers | Visa Signature
     *   The Interview
     *   Into the Woods
     *   Unbroken
+    *   The Woman In Black: Angel of Death
     *   See All Coming Soon
     
     Explore More
@@ -67,7 +62,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Watch: The first freaky 'Insurgent' trailer may give you nightmares! Read More Rumor Mill: Twitter reports Christoph Waltz will join 'Bond 24' -- who will he play? Read More From 'Frozen' to Stan Lee, did you catch all these awesome cameos in 'Big Hero Six'? Read More Explore More
+*   Movie News Featured Movie News More 'Fast &. Furious' coming. Shailene Woodley to star as Edward Snowden's girlfriend Read More He may be back? Schwarzenegger '80s classic could get a reboot/sequel Read More Check out the first new images from the Peanuts movie, with Charlie Brown! Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -314,11 +309,7 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Christmas Movie My House Contest**
-
-You could win a Griswold Family Christmas worth over $75,000! SEE DETAILS
-
-**Penguins of Madagascar Free Gift**
+Offers **Penguins of Madagascar Free Gift**
 
 Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase BUY TICKETS
 
@@ -326,9 +317,13 @@ Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase BUY TICK
 
 Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
-**Big Hero 6 Collectible Cards**
+**Interstellar Sweepstakes**
 
-Hiro, Baymax, Go Go Tomago + more. Limited edition character gift cards. Choose your favorite or collect them all. BUY GIFT CARDS
+You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
+
+**Mockingjay Collectible Cards**
+
+These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
 
 New + Coming Soon
 
