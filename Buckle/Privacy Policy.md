@@ -63,7 +63,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
-    *   Reusable Free Shopping Bag
+    *   BUCKLE BLACK CREDIT CARD Exclusive Gift
     *   Find Your Denim Sweepstakes Rules
     *   #BuckledOut#BENCHSWEEPS Official Rules
     *   Buckle Card Double Points 2014
