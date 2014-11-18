@@ -123,6 +123,7 @@ RESOURCES
 *   Articles
 *   Ideas
 *   Developer Network
+*   Instructables
 
 EVENTS &. TRAINING
 
