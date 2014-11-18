@@ -117,6 +117,10 @@ We are on the brink of a major shift in how marketing technologies and digital e
 *   OTA Blog
 *   Newsletters
 
+Tue, Nov 18, 2014 Big Data Are You Prepared to Seize Opportunities &. Preserve Consumer Trust?
+
+Throughout the world businesses are eagerly capitalizing on the promise and potential of big data.  Combined with powerful analytics big data is proving to drive revenue, reach new markets and identify new consumers.  Data scientists are uncovering subtle patterns, correlations and relationships between consumers and products.  Through targeted marketing and appending data from data brokers, consumers are realizing compelling content, personalized online experiences and promotional offers tailored to their needs and aspirations.  This appears a win-win for business and t
+
 Wed, Nov 12, 2014 Time to Support Breach Legislation - We need Your Help!
 
 Last Thursday more than 40 organizations representing retailers, restaurants and other businesses – including the National Retail Federation, National Restaurant Association and Food Marketing Institute - sent a letter to Congressional leaders, stating legislation is needed to address data breaches covering all entities that handle sensitive information. Now it is your turn!
@@ -130,10 +134,6 @@ Perhaps you remember the football movie, The Blind Side, with Sandra Bullock abo
 Tue, Oct 28, 2014 Advertiser Vetting Reveals Chinese Counterfeiting Ring
 
 Counterfeit products are prevalent throughout the digital marketplace, deceiving consumers, infringing on major brands, and damaging site reputations. However, because of the complexity of the advertising placement process, many ads for counterfeit goods still make their way through ad networks and onto reputable publisher sites.
-
-Wed, Oct 22, 2014 Passage of Data Breach Legislation
-
-With the rapid surge in data breaches impacting millions of households this year, OTA was optimistic on the possible passage of data breach legislation.  Unfortunately it is appearing very unlikely we will see any such legislation, driven in part by the partisan efforts and trade groups who are focused on protecting their business member's short-term interests and consumer advocates who appear to be unwilling to compromise.  OTA continues to be a voice of reason advocating a framework modeled off of CAN-SPAM and COPPA, providing businesses with clarity and ease of report
 
 Resources
 
