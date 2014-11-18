@@ -2,7 +2,7 @@ University of Phoenix PRIVACY POLICY – SUMMARY
 
 **Updated:** Nov. 11, 2014
 
-Summarized below are key elements of our Privacy Policy. To read our full Privacy Policy (“Policy“), **click here**.
+Summarized below are key elements of our Privacy Policy. **To read our full Privacy Policy (“Policy“), click here.**
 
 Scope of Privacy Policy
 
@@ -51,11 +51,11 @@ Your Rights and Choices
 
 Marketing Communications
 
-If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or **click here**.
+If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or **unsubscribe**.
 
-If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt out by emailing the Office of Compliance **here**.
+If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt out by **emailing the Office of Compliance**.
 
-Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email the Office of Compliance **here**.
+Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, **email the Office of Compliance**.
 
 Do Not Track (DNT) and Online Behavioral Advertising
 
@@ -65,13 +65,13 @@ We or our Business Associates may use data collected on this Site for Online Beh
 
 Other Collection, Use and Disclosure
 
-You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or **click here**.
+You may be able to opt out of our collection, use and disclosure of your Personal Information in other situations subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. If you do not wish to receive marketing email communications or direct mail from us, you may express your choice where indicated on the applicable email or other communication, or **unsubscribe**.
 
 Other Important Information
 
 We will take commercially reasonable measures to secure and store your Information to protect against the loss, misuse and alteration of the Information under our control. We utilize industry-standard security measures when accepting your credit card Information during your registration or other transaction you have initiated with us, as well as whenever we ask you to log in to any of our Sites.
 
-If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University policies. To obtain a copy of the Students' Rights to Privacy and Access to Educational Records policy, **click here**. You may also contact us via one of the below methods:
+If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University policies. **To obtain a copy of the Students' Rights to Privacy and Access to Educational Records policy, click here.** You may also contact us via one of the below methods:
 
 University of Phoenix  
 Attn: Registrar's Office  
@@ -115,7 +115,7 @@ Contents
 5.  **How We Use and Disclose This Information**
 6.  **Student Educational Records**
 7.  **Location of Information Processing**
-8.  Do Not Track and **Online Behavioral Advertising**
+8.  **Do Not Track and Online Behavioral Advertising**
 9.  **Opt Out**
 10.  **Your California Privacy Rights**
 11.  **Our Security Measures**
@@ -264,7 +264,7 @@ Your Financial Information will be used to provide requested products and servic
 
 6\. Student Educational Records
 
-If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University's policies. Students have the right to limit access to FERPA-defined directory Information about them. To obtain a copy of your University's FERPA policy, **click here** **.** You may also contact us via one of the below methods:
+If you become a student, your educational records are subject to the U.S. federal Family Educational Rights and Privacy Act (FERPA), state laws and your University's policies. Students have the right to limit access to FERPA-defined directory Information about them. **To obtain a copy of your University's FERPA policy, click here.** You may also contact us via one of the below methods:
 
 University of Phoenix  
 Attn: Registrar's Office  
@@ -289,25 +289,25 @@ We use a third-party assurance service to comply with a cross-industry Self-Regu
 
 Marketing Communications
 
-If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication or **click here**.
+If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication or **unsubscribe**.
 
-If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by emailing the Office of Compliance **here** .
+If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by **emailing the Office of Compliance**.
 
 Marketing opt-out requests will only remove you from our list and the list of any Business Associate performing services on our behalf. We are not responsible for the use any other party may make of the Information once it has been transferred in accordance with this Policy, and you will need to contact such entity to have your Information removed from its database.
 
 Student Educational Records and Social Networking Content
 
-Students who desire to prevent release of their directory and educational record Information in accordance with FERPA may place a FERPA Hold on their academic file. **Click here** to review your University's FERPA Policy.
+Students who desire to prevent release of their directory and educational record Information in accordance with FERPA may place a FERPA Hold on their academic file. **Click here to review your University's FERPA Policy.**
 
 You may change various user settings related to sharing your Personal Information contained in any user profile you set up as part of Social Network activities furnished by us, subject to contractual, academic, legal or technical restrictions and reasonable notice. Note that your withdrawal from Social Network activities might prevent us from providing you with certain products or services.
 
 Other Collection, Use and Disclosure
 
-In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email the Office of Compliance **here**.
+In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email the Office of Compliance.
 
 10\. Your California Privacy Rights
 
-Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email the Office of Compliance **here**.
+Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, **email the Office of Compliance**.
 
 11\. Our Security Measures
 
