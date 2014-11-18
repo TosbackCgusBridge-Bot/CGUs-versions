@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Inside Haven - Season 5, Episode 10 Inside Haven - Season 5, Episode 10
+Syfy Video Town Crier Town Crier
 
-The cast talks Season 5, Episode 10
+Laeta tells Gannicus the truth about Attius, and then things go really insane in the town square in New Spartacus Village.
 
-Inside Haven - Season 5, Episode 9 Inside Haven - Season 5, Episode 9
+I Would Die For You I Would Die For You
 
-The cast talks Season 5, Episode 9
+Crassus is super angry about how Tiberius messed up the first battle of the campaign, and Tiberius learns that Sabinus could die for his mistakes.
 
-Haven Origins - Episode 2, Part 1 - Native Haven Origins - Episode 2, Part 1 - Native
+Z Nation - All the Kills - Episode 10 Z Nation - All the Kills - Episode 10
 
-Take a journey into Haven's past to see the beginning of the Troubles in Part 2 of this digital series.
+Count all of this episode's zombie kills along with us.
 
-Haven: Origins Episode 1, Part 3 - "Witches A ... Haven: Origins Episode 1, Part 3 - "Witches Are Born"
+Z Nation - Sneak Peek - Sisters of Mercy Z Nation - Sneak Peek - Sisters of Mercy
 
-Take a journey into Haven's past to see the beginning of the Troubles in Part 3 of this digital series.
+Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
 
 *   FAQ
 *   Feedback
