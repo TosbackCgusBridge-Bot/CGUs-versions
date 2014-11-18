@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C12992209568
+true true C12996670331
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sun Nov 16 05:43:31 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Mon Nov 17 12:30:43 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,12 +45,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Bring On The Jingle Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry30-50% Off Women's Sweaters shop women's sweaters
-*   30-50% Off Home Sale
+*   3 Days Only
     
-    Select styles.
+    Online only November 17 through 19.
     
-    shop the home sale30-50% Off Kitchen and Dining shop kitchen and dining30-50% Off Bedding and Bath shop bedding and bath30-50% Off Home Decor shop home decor40-50% Off Furniture and Mattresses shop furniture and mattresses40-50% Off Luggage shop luggage shop small appliances
+    Code: 3DAYSALE
+    
+    get details
+    
+    Select styles
+    
+    50% Off\* Bedding and Bath shop bedding and bath50% Off\* Luggage shop luggage40% Off\* Home Decor shop home decor40% Off\* Blinds and Shades shop blinds and shades40% Off\* Furniture and Mattresses shop furniture and mattresses30% Off\* Kitchen and Dining shop kitchen and dining30% Off\* Curtain Rods and Hardware shop curtain rods and hardware30% Off\* Storage and Organization shop storage and organization30% Off\* Vacuums and Floorcare shop vacuums and floorcare
+    
+    Or, Extra 20% Off\* all online clearance
+    
+    shop clearance
+*   3 Days Only
+    
+    Online only November 17 through 19.
+    
+    Code: 3DAYSALE
+    
+    get detailsExtra 20% Off\* select original, regular, sale and clearance-priced items. shop men's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fashion jewelry shop custom blinds and shades \*See exclusions and details
+*   Bring On The Jingle Sale shop the sale view store adIn Store and Online
+    
+    20% Off\* with your JCPenney Credit Card. \*Credit offer subject to credit approval.
+    
+    Or, Extra 15% Off\* with any other method of payment.
+    
+    All offers apply to select original, regular, sale and clearance-priced items.
+    
+    print store coupon30-50% Off Women's Sweaters shop women's sweaters
 
 Jingle More Bells shop holiday gifts 25-33% Off Select Dresses shop dresses Jewelry Spectacular Sale 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 25-40% Off Select Boots For the Family shop boots 50% Off Select Kids' Coats and Jackets shop kids' coats 40-50% Off Select Women's Sleepwear shop women's sleepwear Black Friday Sneak Peek
 
@@ -64,7 +89,7 @@ Thanksgiving coupon giveaway! Instant savings at the door while supplies last!
 
 $100 Off $100 or more Super-Savings Coupon valid until December 24. Or, $10 Off $10 or more Savings Coupon valid Thursday and Friday only. Includes Doorbusters and Big Buys!
 
-get details 40-50% Off Curtains and Drapes
+get details 40-50% Off Curtains and Drapes When You Buy 2 or More
 
 Select styles.
 
