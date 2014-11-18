@@ -123,6 +123,7 @@ RESOURCES
 *   Articles
 *   Ideas
 *   Developer Network
+*   Instructables
 
 EVENTS &. TRAINING
 
@@ -241,23 +242,77 @@ Legal Notices &. Trademarks
 
 *   Privacy Statement  
     o Cookie Policy  
-    o Children’s Privacy Policy
-*   Prohlášení společnosti Autodesk o ochraně osobních údajů
-*   Privacyverklaring Autodesk
-*   Déclaration sur la confidentialité d’Autodesk
-*   Autodesk Datenschutzerklärung
-*   Autodesk adatvédelmi nyilatkozat
-*   Informativa sulla privacy Autodesk
-*   Autodeskプライバシーステートメント
-*   개인 정보 보호 정책
-*   Polityka Autodesk dotycząca ochrony prywatności
-*   Declaração de privacidade da Autodesk
-*   Заявление о конфиденциальности Autodesk
-*   Autodesk 隐私保护声明
-*   Declaración de privacidad de Autodesk
-*   Autodesk 隱私聲明
-*   Tuyên Bố Bảo Mật Autodesk
-*   Pernyataan Privasi Autodesk
+    o Children’s Privacy Policy  
+      
+    
+*   Prohlášení společnosti Autodesk o ochraně osobních údajů  
+    o Zásady týkající se souborů cookie  
+    o Zásady ochrany osobních údajů dětí  
+      
+    
+*   Privacyverklaring Autodesk  
+    o Cookiebeleid  
+    o Privacybeleid met betrekking tot kinderen  
+      
+    
+*   Déclaration sur la confidentialité d’Autodesk  
+    o Politique relative aux cookies  
+    o Politique de protection de la vie privée des enfants  
+      
+    
+*   Autodesk Datenschutzerklärung  
+    o Cookie-Richtlinie  
+    o Richtlinie zum Datenschutz bei Kindern  
+      
+    
+*   Autodesk adatvédelmi nyilatkozat  
+    o Cookie-kra vonatkozó irányelvek  
+    o Gyermek-adatvédelmi irányelv  
+      
+    
+*   Informativa sulla privacy Autodesk  
+    o Informativa sui cookie  
+    o Informativa sulla privacy dei bambini  
+      
+    
+*   Autodeskプライバシーステートメント  
+      
+    
+*   개인 정보 보호 정책  
+      
+    
+*   Polityka Autodesk dotycząca ochrony prywatności  
+    o Polityka w zakresie plików cookie  
+    o Polityka dotycząca prywatności dzieci  
+      
+    
+*   Declaração de privacidade da Autodesk  
+    o Política de cookies  
+    o Política de Privacidade Infantil  
+      
+    
+*   Заявление о конфиденциальности Autodesk  
+    o Политика использования файлов cookie  
+    o Политика защиты личных данных детей  
+      
+    
+*   Autodesk 隐私保护声明  
+      
+    
+*   Declaración de privacidad de Autodesk  
+    o Política de cookies  
+    o Política de privacidad para niños  
+      
+    
+*   Autodesk 隱私聲明  
+      
+    
+*   Tuyên Bố Bảo Mật Autodesk  
+      
+    
+*   Pernyataan Privasi Autodesk  
+      
+    
 *   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk
 
 Follow Autodesk
