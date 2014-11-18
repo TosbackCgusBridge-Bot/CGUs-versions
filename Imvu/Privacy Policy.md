@@ -4,7 +4,7 @@ Last updated as of: September 12, 2014
 
 IMVU, Inc. Privacy Policy
 
-Thank you for visiting IMVU, Inc.s ("IMVU") Internet web site located at www.imvu.com ("Site"). IMVU respects the privacy of our visitors, customers, and partners. this Privacy Policy is meant to outline:
+Thank you for visiting IMVU, Inc.'s ("IMVU") Internet web site located at www.imvu.com ("Site"). IMVU respects the privacy of our visitors, customers, and partners. this Privacy Policy is meant to outline:
 
 *   Privacy Policy Updates
 *   What personally identifiable information ("PII") is collected and how it is used
@@ -65,11 +65,11 @@ Additionally, we may collect aggregate information regarding your transactions o
 
 Cookies
 
-A cookie is a small text file that is stored on a users computer for record-keeping purposes. We use cookies on this Site. We do not link the information we store in cookies to any PII you submit while on our Site.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this Site. We do not link the information we store in cookies to any PII you submit while on our Site.
 
-We use both session ID cookies and persistent cookies. We use cookies to make it possible for you to log into our site, to make it easier for you to navigate our site, and to improve and track the overall Site experience. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers "help" file.
+We use both session ID cookies and persistent cookies. We use cookies to make it possible for you to log into our site, to make it easier for you to navigate our site, and to improve and track the overall Site experience. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-We set a persistent cookie to store your username and site login credentials, so you dont have to enter your password more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our Site.
+We set a persistent cookie to store your username and site login credentials, so you don't have to enter your password more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our Site.
 
 If you reject cookies, you may still use our Site, but your ability to use some areas of our Site will be limited.
 
@@ -123,7 +123,7 @@ The security of your personal information is important to us. When you enter sen
 
 Notice to European Users
 
-The information you enter on this Site or otherwise provide to IMVU may be transferred outside of the European Union to the United States of America and other jurisdictions which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Unions Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the Terms of Service and this Privacy Policy, you consent to the transfer of all such information to the United States of America which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by IMVU on its servers located in the United States of America as described in this Privacy Policy.
+The information you enter on this Site or otherwise provide to IMVU may be transferred outside of the European Union to the United States of America and other jurisdictions which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union's Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the Terms of Service and this Privacy Policy, you consent to the transfer of all such information to the United States of America which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by IMVU on its servers located in the United States of America as described in this Privacy Policy.
 
 Correction/Updating PII
 
@@ -142,4 +142,4 @@ IMVU, Inc.
 PO Box 390012  
 Mountain View, CA 94039.
 
-People | Walk Off | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Blog | Contact Us | Advertise | Affiliates | Jobs | Terms of Service | Privacy | Help | Safety | Avatar © 2014 IMVU All rights reserved
+Mobile | People | Walk Off | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Blog | Contact Us | Advertise | Affiliates | Jobs | Terms of Service | Privacy | Help | Safety | Avatar © 2014 IMVU All rights reserved
