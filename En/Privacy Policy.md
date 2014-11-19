@@ -37,5 +37,4 @@ Read the full privacy policy.
 
 *   About Disney
 *   Terms of Use
-*   Internet Safety
 *   Interest-Based Ads
