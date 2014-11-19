@@ -112,7 +112,7 @@ Data Protection Day (DpD) is an international event held during the last the we
 
 Mon, Apr 13, 2015 AGILITY 2015
 
-We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco. Come learn directly from other innovative brands about how they are reinventing marketing with Ensighten.
+We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
 *   OTA Blog
 *   Newsletters
