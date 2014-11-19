@@ -174,6 +174,8 @@ Next Step
 
 Navegó a una página que no está disponible en español en este momento. Seleccione el enlace si desea ver otro contenido en español.
 
+Página principal
+
 *   Personal
 *   Privacy, Security, and Legal
 *   Privacy Policies
