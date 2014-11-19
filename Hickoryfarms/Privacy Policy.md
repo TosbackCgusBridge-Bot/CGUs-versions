@@ -2,9 +2,8 @@
 
 *   Login
 *   Register
-*   Wishlist
 
-Your Cart(0) Search Catalog Search Catalog Navigation
+Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Gift Boxes
@@ -204,6 +203,5 @@ Quality &. Tradition Guaranteed - Est. 1951 Follow us online
 
 *   Login
 *   Register
-*   Wishlist
 
 © 2014 All rights reserved.Privacy policyTerms of useSite map
