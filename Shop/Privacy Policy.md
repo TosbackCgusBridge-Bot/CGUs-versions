@@ -10,7 +10,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  ThinkPad E: Stylish &. Affordable Productivity
         6.  ThinkPad L: Affordable, All-Purpose Productivity
         7.  ThinkPad Helix: Detachable Business Ultrabooks
-        8.  See all Professional
+        8.  ThinkPad Helix 2nd Gen: Detachable Business Ultrabooks
+        9.  See all Professional
     3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
         1.  Y Series: Gaming Power Made Mobile
         2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
@@ -261,40 +262,44 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     10.  Resource Center
     11.  See all solutions for work
     12.  See all For Work
-3.  Support
-    1.  See all Support
-    2.  Lenovo &. Think Product Support
-    3.  Network Storage Support – LenovoEMC
-    4.  Network Storage Support – IBM
-    5.  x86 Servers (IBM) Support
-    6.  See all Support
-4.  Contact Us
-    1.  See all Contact Us
-    2.  Sales inquiry?
-    3.  Order Assistance inquiry?
-    4.  Call us **Sales Center**  
-        1-855-2-LENOVO (1-855-253-6686)  
-        Mon - Fri: 9am - 9pm (EST)  
-        Sat: 9am - 6pm (EST)  
-        Sun: Closed  
+3.  Sales &. Support
+    1.  See all Sales &. Support
+    2.   **Sales Inquiries**  
+        _Need help with placing an order?_  
+        24 hours a day, 7 days a week  
           
-        **Order Assistance**  
-        1-855-2-LENOVO (1-855-253-6686)  
-        Mon - Fri: 9am - 9pm (EST)  
-        Sat - Sun : 9am - 6pm (EST)  
+        **Call 1-855-2-LENOVO (1-855-253-6686)**  
+        Monday -Friday: 9am - 9pm, Saturday 9-6 (EST)
+    3.   **Order Assistance**  
+        _Need help with an existing order?_  
+        **Check **order status** online** — track by order number
+    4.  Monday - Friday 9am-9pm, Saturday - Sunday 9am-5:30pm (EST)  
           
-        **Credit Card Services**  
-        1-800-426-3325  
-        Open Mon - Fri: 9am - 6pm (EST)
-    5.  Order Status Track by order number
-        1.  Or, Sign in.
-        2.  See all Order Status
-    6.  Tech Support Find phone numbers for your location
-    7.  Need More Help? More ways to contact Lenovo
-    8.  See all Contact Us
-5.  Email Sign-Up
-6.  My Account
-7.  Cart
+        **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
+        Monday -Friday 9am-9pm, Saturday -Sunday 9am-6pm (EST)  
+          
+        **Outlet** Call 1-877-698-4465, option 3  
+        Monday - Friday 9am - 9pm EST  
+        Saturday 9am - 6pm EST  
+          
+        **Credit card Services** Call 1-800-426-3325, option 1  
+        Monday - Friday, 9am - 6pm (EST)  
+        
+    5.   **Tech Support**  
+        **Laptop, Desktop, Tablet, Workstation and ThinkServer Support**  
+        PC, Tablet, Workstation or ThinkServer support information?
+    6.  **System X - X86 Server Support**  
+        Support information for X86 specific issues and questions
+    7.  **Network Storage Support**  
+        Support information for Lenovo, LenovoEMC &. Iomega products
+    8.  **Accessories, Options and Monitors**  
+        Support for these extras
+    9.   **Need More Help?**  
+        More ways to **contact Lenovo**
+    10.  See all Sales &. Support
+4.  Email Sign-Up
+5.  My Account
+6.  Cart
 
 View Your Results Offers
 
