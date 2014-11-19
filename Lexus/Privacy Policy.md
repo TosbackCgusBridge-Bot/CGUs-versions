@@ -82,6 +82,13 @@ Starting at $72,520\*
 *   • 16/24 City/Hwy MPG\*
 *   • RWD or AWD
 
+NX
+
+Starting at $34,480\*
+
+*   • ﻿Turbocharged 4 cylinder
+*   • FWD or AWD
+
 RX
 
 Starting at $40,970\*
@@ -130,6 +137,13 @@ Starting at $32,050\*
 
 *   • 43/40 City/Hwy MPG\*
 *   • FWD
+
+NX HYBRID
+
+Starting at $39,720\*
+
+*   • 35/31 City/Hwy MPG\*
+*   • FWD or AWD
 
 RX HYBRID
 
@@ -180,10 +194,6 @@ F/F SPORT
 LF-LC
 
 Concept Vehicle
-
-NX
-
-Coming Soon
 
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
