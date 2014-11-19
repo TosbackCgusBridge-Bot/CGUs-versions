@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C12996670331
+true true L13123339514
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Mon Nov 17 12:30:43 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p40.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Tue Nov 18 11:45:21 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,17 +67,12 @@ Your version of Internet Explorer is out of date. For best experience please upg
     Code: 3DAYSALE
     
     get detailsExtra 20% Off\* select original, regular, sale and clearance-priced items. shop men's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fashion jewelry shop custom blinds and shades \*See exclusions and details
-*   Bring On The Jingle Sale shop the sale view store adIn Store and Online
-    
-    20% Off\* with your JCPenney Credit Card. \*Credit offer subject to credit approval.
-    
-    Or, Extra 15% Off\* with any other method of payment.
-    
-    All offers apply to select original, regular, sale and clearance-priced items.
-    
-    print store coupon30-50% Off Women's Sweaters shop women's sweaters
 
-Jingle More Bells shop holiday gifts 25-33% Off Select Dresses shop dresses Jewelry Spectacular Sale 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 25-40% Off Select Boots For the Family shop boots 50% Off Select Kids' Coats and Jackets shop kids' coats 40-50% Off Select Women's Sleepwear shop women's sleepwear Black Friday Sneak Peek
+25-33% Off Select Dresses shop dresses 25-40% Off Select Boots For the Family shop boots 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 20% Off Select Watches
+
+With Code: JWLRY42
+
+shop watches \*See exclusions and details 50% Off Select Kids' Coats and Jackets shop kids' coats 40-50% Off Select Women's Sleepwear shop women's sleepwear Black Friday Sneak Peek
 
 Stores open Thanksgiving day 5PM
 
@@ -93,11 +88,7 @@ get details 40-50% Off Curtains and Drapes When You Buy 2 or More
 
 Select styles.
 
-shop curtains and drapes Red Zone Clearance 50-70% Off
-
-In store and online.
-
-shop clearance JCP Rewards
+shop curtains and drapes Jingle More Bells shop holiday gifts JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -105,7 +96,7 @@ sign up today Just $5
 
 Get ALL your favorite magazines from TimeInc. today.
 
-shop now New E-Gift Cards customize with a message photo or video Say Hello To The All-New JCPenney App
+shop now Red Zone Clearance Selections 50-70% Off shop clearance Say Hello To The All-New JCPenney App
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
