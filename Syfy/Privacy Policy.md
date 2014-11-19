@@ -251,13 +251,13 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Town Crier Town Crier
+Syfy Video Et tu, Judas Et tu, Judas
 
-Laeta tells Gannicus the truth about Attius, and then things go really insane in the town square in New Spartacus Village.
+The pirate Heracleo betrays team Spartacus, Caesar stabs Spartacus, Agron does an amazing spin down a rope, and Crixus and Naevia return to fight for the city. A real action packed sequence.
 
-I Would Die For You I Would Die For You
+Haters Gonna Hate, Hate, Hate. Haters Gonna Hate, Hate, Hate.
 
-Crassus is super angry about how Tiberius messed up the first battle of the campaign, and Tiberius learns that Sabinus could die for his mistakes.
+Caesar: spreading news and making everyone hate each other. When Crixus gets wind of his tale, he confronts Agron head-on.
 
 Z Nation - All the Kills - Episode 10 Z Nation - All the Kills - Episode 10
 
