@@ -1,4 +1,4 @@
-Who wants a free Affliction tee?
+Don't miss out on our promotions happening now.
 
 Learn more.
 
