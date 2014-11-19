@@ -62,7 +62,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News More 'Fast &. Furious' coming. Shailene Woodley to star as Edward Snowden's girlfriend Read More He may be back? Schwarzenegger '80s classic could get a reboot/sequel Read More Check out the first new images from the Peanuts movie, with Charlie Brown! Read More Explore More
+*   Movie News Featured Movie News Disney's building a 'Toy Story'-themed hotel -- here's where and when you can stay there Read More Marvel at a glance: all the movies from now through 2020 in one cool image Read More Check out the first new Peanuts movie images and trailer! Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -317,9 +317,9 @@ Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase BUY TICK
 
 Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
-**Interstellar Sweepstakes**
+**Starbucks Treats You to the Movies**
 
-You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
+Make a purchase at Starbucks and get a FREE movie ticket ($10 max)! SEE DETAILS
 
 **Mockingjay Collectible Cards**
 
