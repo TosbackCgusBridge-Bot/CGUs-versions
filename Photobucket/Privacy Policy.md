@@ -70,6 +70,6 @@ you can contact us at:
 
 *   **URL:** http://support.photobucket.com/home
 *   **Email:** support@photobucket.com
-*   **Address:** Photobucket.com, Inc. P.O. Box 13003, Denver, CO 80201
+*   **Address:** Photobucket.com, Inc. 2399 Blake St. Suite 160, Denver, CO 80205
 
 View our Terms of Use here
