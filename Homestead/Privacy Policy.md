@@ -19,7 +19,7 @@ Navigation:
 Log In Webmail
 
 *   Sales: **(800) 986-0958**
-*   Questions? Chat Live Now
+*   Questions? Chat: Available
 
 Privacy Policy
 
