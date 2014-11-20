@@ -8,12 +8,14 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Gifts
     *   Gift Boxes
     *   Gift Baskets &. Towers
+        
     *   Business Gifts
         
     *   Military Gifts
     *   Hickory Farms Reserve
     *   Thanksgiving
-    *   Christmas
+    *   Christmas Gift Baskets
+        
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
@@ -36,6 +38,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Specialty Foods
     *   HoneyGold Ham
     *   Condiments
+        
     *   Gluten Free
     *   Crackers
     *   Pfaelzer Brothers Steak &. Seafood
@@ -53,12 +56,14 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Gifts
     *   Gift Boxes
     *   Gift Baskets &. Towers
+        
     *   Business Gifts
         
     *   Military Gifts
     *   Hickory Farms Reserve
     *   Thanksgiving
-    *   Christmas
+    *   Christmas Gift Baskets
+        
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
@@ -81,6 +86,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Specialty Foods
     *   HoneyGold Ham
     *   Condiments
+        
     *   Gluten Free
     *   Crackers
     *   Pfaelzer Brothers Steak &. Seafood
@@ -133,6 +139,7 @@ Placing Your Order
 *   Sales Tax
 *   Order Status
 *   Security (Verisign)
+*   Free Shipping
 
 My Account
 
