@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Nov 18, 2014 Do’s and Don’ts of Data-Driven Email Marketing
-
-Hear from guest speaker Mike Gualtieri of Forrester Research as he shares his insights into which data is most important to today’s marketer, and how to turn that data into more personalized, relevant and wanted content—helping you better engage with your customers and increasing the effectiveness of your marketing efforts. Speakers include Mike Gualtieri, Principal Analyst Serving Application Development &. Delivery Professionals, Forrester Research, Steve Dille, Senior VP and Chief Marketing Officer, Message Systems and Alli Libb, American Marketing Association
-
 Thu, Nov 20, 2014 Hidden Threats of Online Advertising - Malvertising
 
 Join OTA at this webinar to get a the publishers view of the threat of malicious and fraudulent advertising impacting publishers and consumers.  Guest speaker include Jason Kint, Executive Director of Digital Content Next (previously Online Publishers Association) http://digitalcontentnext.org.  
@@ -113,6 +109,8 @@ Data Protection Day (DpD) is an international event held during the last the we
 Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
+
+Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD".
 
 *   OTA Blog
 *   Newsletters
