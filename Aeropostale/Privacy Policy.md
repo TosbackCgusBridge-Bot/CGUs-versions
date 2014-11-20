@@ -75,13 +75,7 @@ Aéropostale Go
     *   SHOES
     *   ACCESSORIES
 *   Room
-    
-    *   GIRLS
     *   Bethany Room
-    *   Bedding
-    *   Accessories
-    
-    *   GUYS
     *   Bedding
     *   Accessories
 *   Clearance
