@@ -1,4 +1,4 @@
-_Updated May 8, 2014_
+_Updated November 11, 2014_
 
 We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About" or "we") websites, including About.com, About.net, AllExperts.com, CalorieCount.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services" or "Websites"). Specifically, the policy outlines the types of information that may be gathered when you register for or use the Services, and the ways in which that information may be used.
 
