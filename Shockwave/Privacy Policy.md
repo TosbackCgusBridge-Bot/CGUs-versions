@@ -1,4 +1,4 @@
-TV Videos Photos LOLs Games Games brought to you by log in | sign up   
+TV Videos Photos LOLs Games log in | sign up   
 
 *   online games
 *   download games
