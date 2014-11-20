@@ -29,6 +29,7 @@ Gift Cards | Offers | Visa Signature
     
     Coming Soon
     
+    *   The Hunger Games: Mockingjay - Part 1
     *   Horrible Bosses 2
     *   Penguins of Madagascar
     *   The Pyramid
@@ -39,7 +40,6 @@ Gift Cards | Offers | Visa Signature
     *   The Interview
     *   Into the Woods
     *   Unbroken
-    *   The Woman In Black: Angel of Death
     *   See All Coming Soon
     
     Explore More
@@ -67,8 +67,8 @@ Gift Cards | Offers | Visa Signature
     *   FrontRunners
     *   The Hunger Games Guide
     *   Holiday Movie Guide
+    *   The Hobbit Movie Guide
     *   House of Screams
-    *   Hero Central
     *   Weekend Ticket
     *   Mom's Movie Minute
     *   Reel Kids
@@ -317,9 +317,9 @@ Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase BUY TICK
 
 Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
-**Starbucks Treats You to the Movies**
+**Interstellar Sweepstakes**
 
-Make a purchase at Starbucks and get a FREE movie ticket ($10 max)! SEE DETAILS
+You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
 
 **Mockingjay Collectible Cards**
 
