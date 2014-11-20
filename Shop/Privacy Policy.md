@@ -191,7 +191,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  Free System Checkup
         5.  See all Technologies
     5.  Not sure what you need?
-        1.  Accessories Closeout Sale
+        1.  Accessories Stocking Stuffers
         2.  Best Selling Accessories
         3.  Quick Ship Accessories
         4.  View All Accessories
@@ -262,8 +262,15 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     10.  Resource Center
     11.  See all solutions for work
     12.  See all For Work
-3.  Sales &. Support
-    1.  See all Sales &. Support
+3.  Support
+    1.  See all Support
+    2.  Lenovo &. Think Product Support
+    3.  Network Storage Support – LenovoEMC
+    4.  Network Storage Support – IBM
+    5.  x86 Servers (IBM) Support
+    6.  See all Support
+4.  Contact Us
+    1.  See all Contact Us
     2.   **Sales Inquiries**  
         _Need help with placing an order?_  
         24 hours a day, 7 days a week  
@@ -285,21 +292,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         **Credit card Services** Call 1-800-426-3325, option 1  
         Monday - Friday, 9am - 6pm (EST)  
         
-    5.   **Tech Support**  
-        **Laptop, Desktop, Tablet, Workstation and ThinkServer Support**  
-        PC, Tablet, Workstation or ThinkServer support information?
-    6.  **System X - X86 Server Support**  
-        Support information for X86 specific issues and questions
-    7.  **Network Storage Support**  
-        Support information for Lenovo, LenovoEMC &. Iomega products
-    8.  **Accessories, Options and Monitors**  
-        Support for these extras
-    9.   **Need More Help?**  
+    5.   **Need More Help?**  
         More ways to **contact Lenovo**
-    10.  See all Sales &. Support
-4.  Email Sign-Up
-5.  My Account
-6.  Cart
+    6.  See all Contact Us
+5.  Email Sign-Up
+6.  My Account
+7.  Cart
 
 View Your Results Offers
 
