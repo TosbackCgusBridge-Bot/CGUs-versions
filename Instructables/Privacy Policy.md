@@ -276,9 +276,13 @@ Legal Notices &. Trademarks
       
     
 *   Autodeskプライバシーステートメント  
+    o Cookieに関する方針  
+    o 未成年者のプライバシーポリシー  
       
     
 *   개인 정보 보호 정책  
+    o 쿠키 정책  
+    o 아동 개인정보 보호정책  
       
     
 *   Polityka Autodesk dotycząca ochrony prywatności  
@@ -297,6 +301,8 @@ Legal Notices &. Trademarks
       
     
 *   Autodesk 隐私保护声明  
+    o Cookie 政策  
+    o 儿童隐私保护政策  
       
     
 *   Declaración de privacidad de Autodesk  
@@ -305,15 +311,25 @@ Legal Notices &. Trademarks
       
     
 *   Autodesk 隱私聲明  
+    o Cookie 政策  
+    o 兒童隱私政策  
       
     
 *   Tuyên Bố Bảo Mật Autodesk  
+    o Chính sách Cookie  
+    o Chính Sách Quyền Riêng Tư của Trẻ Em  
       
     
 *   Pernyataan Privasi Autodesk  
+    o Kebijakan Cookie  
+    o Kebijakan Privasi Anak-anak  
       
     
-*   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk
+*   คำประกาศการคุ้มครองข้อมูลส่วนบุคคลของ Autodesk  
+    o  นโยบายคุกกี้  
+    o นโยบายการคุ้มครองข้อมูลส่วนบุคคลของเด็ก  
+      
+    
 
 Follow Autodesk
 
