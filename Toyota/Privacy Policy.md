@@ -1,3 +1,4 @@
+*   Set Location
 *   Notebook
 *   Certified Used Vehicles
 *   Owners
@@ -10,36 +11,43 @@
 *   Build &. Price
 *   Local Specials
 
-*   Cars &. Minivan
-*   Trucks
-*   Crossovers &. SUVs
-*   Hybrids &. EVs
-*   Upcoming Vehicles
+Cars &. Minivan
 
-*   2015 Toyota FuelCell Vehicle View More Info
-*   Concept Vehicles See Vehicles
+*     Avalon Build your own
+*     Camry Build your own
+*     Corolla Build your own
+*     Sienna Build your own
+*     Yaris Build your own
 
-View All Vehicles
+Trucks
 
-*   Explore
-*   Build and Price
-*   Compare Vehicles
-*   Find Your Match
-*   View Brochures
+*     Tacoma Build your own
+*     Tundra Build your own
 
-*   Shop
-*   Local Specials
-*   Search Inventory
-*   Request a Quote
-*   Accessories
+Crossovers &. SUVs
 
-*   Buy
-*   Financial Tools
-*   Get Trade-In Value
-*   Toyota Certified Used Vehicles
-*   Contact a Dealer
+*     RAV4 Build your own
+*     FJ Cruiser Build your own
+*     Venza Build your own
+*     Highlander Build your own
+*     4Runner Build your own
+*     Sequoia Build your own
+*     Land Cruiser Build your own
 
-Go Site Help
+Hybrids &. EVs
+
+*     Prius _c_ Build your own
+*     Prius Build your own
+*     Camry Hybrid Build your own
+*     Prius _v_ Build your own
+*     Prius Plug-in Hybrid Build your own
+*     Avalon Hybrid Build your own
+*     Highlander Hybrid Build your own
+*     RAV4 EV Build your own
+
+Upcoming Vehicles
+
+Site Help
 
 *   Contact Us
 *   Site Map
@@ -311,12 +319,15 @@ Torrance, CA 90501
 
 Go
 
-Sign up for Toyota Updates Shopping Tools
+Sign up for toyota updates. Shopping Tools
 
+*   Trade-In Value
+*   Trade-In Value
 *   Build Your Toyota
 *   Search Inventory
 *   Find a Dealer
 *   Local Specials
+*   Request a Quote
 *   Accessories
 *   Find Your Match
 *   Notebook
@@ -329,29 +340,24 @@ Vehicles
 *   Trucks
 *   Cars
 *   Crossovers
-*   Hybrids &. EVs
+*   Hybrids &. Evs
 *   Hybrid Cars
 *   Hybrid SUVs
 *   Upcoming Vehicles
 *   Concept Vehicles
 *   TRD Pro Series
 
-Tools
+Helpful Links
 
 *   Toyota Financial Services
 *   Toyota Rent A Car
-*   Mobile Phone compatibility
+*   Mobile Phone Compatibility
 *   Toyota Mobility Feature
 *   Entune™
 *   Car Tips &. Advice
 *   Dealers
-*   Safety Recalls &.  
+*   Safety Recalls &  
     Service Campaigns
-
-Help
-
-*   Contact Us
-*   FAQs
 
 About Toyota
 
@@ -360,6 +366,23 @@ About Toyota
 *   Toyota USA Newsroom
 *   Toyota Worldwide
 *   Toyota Racing
-*   TRD USA
 
-Language Español Privacy Policy Legal Terms Site Map AdChoices ©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.   \[#\] View All Disclosures
+Language
+
+*   Espanol
+
+Help
+
+*   Contact Us
+*   FAQs
+
+*   Help &. Support
+*   Privacy Policy
+*   Legal Terms
+*   Safety Recalls &. Service Campaigns
+*   Site Map
+*   AdChoices
+
+©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+
+\[#\] View All Disclosures
