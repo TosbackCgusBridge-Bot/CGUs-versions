@@ -22,6 +22,7 @@ SurveyMonkey®
 5.  Survey Services
     *   Buy Survey Responses
     *   Buy a Multi-User Account
+    *   Get Benchmarks
     *   Mobile App
     *   Partner Integrations &. API
     *   Survey Programming
