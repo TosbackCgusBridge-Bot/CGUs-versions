@@ -271,30 +271,32 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     6.  See all Support
 4.  Contact Us
     1.  See all Contact Us
-    2.   **Sales Inquiries**  
-        _Need help with placing an order?_  
+    2.    **Help placing an order**  
         24 hours a day, 7 days a week  
           
         **Call 1-855-2-LENOVO (1-855-253-6686)**  
-        Monday -Friday: 9am - 9pm, Saturday 9-6 (EST)
-    3.   **Order Assistance**  
-        _Need help with an existing order?_  
+        Monday -Friday: 9am - 9pm  
+        Saturday 9am - 6pm (EST)
+    3.    **Help with an existing order**  
         **Check **order status** online** — track by order number
-    4.  Monday - Friday 9am-9pm, Saturday - Sunday 9am-5:30pm (EST)  
+    4.  Monday - Friday 9am-9pm  
+        Saturday - Sunday 9am-5:30pm (EST)  
           
         **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
-        Monday -Friday 9am-9pm, Saturday -Sunday 9am-6pm (EST)  
+        Monday - Friday 9am-9pm  
+        Saturday - Sunday 9am-6pm (EST)
+    5.   **Help with an Outlet order**  
           
-        **Outlet** Call 1-877-698-4465, option 3  
+        Call 1-877-698-4465, option 3  
         Monday - Friday 9am - 9pm EST  
-        Saturday 9am - 6pm EST  
+        Saturday 9am - 6pm EST
+    6.    **Payment issues**  
           
-        **Credit card Services** Call 1-800-426-3325, option 1  
-        Monday - Friday, 9am - 6pm (EST)  
-        
-    5.   **Need More Help?**  
+        Call 1-800-426-3325, option 1  
+        Monday - Friday, 9am - 6pm (EST)
+    7.    **Need More Help?**  
         More ways to **contact Lenovo**
-    6.  See all Contact Us
+    8.  See all Contact Us
 5.  Email Sign-Up
 6.  My Account
 7.  Cart
