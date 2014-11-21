@@ -101,14 +101,10 @@ Free Recorded Webinar
 "Making Sense of the Marketing Cloud Wars" Watch Now »
 
 *   Partners
-    *   SYNC for Agencies
-    *   SYNC for Technology Vendors
-    *   Summer Webinar Series
-    *   Partner Contact
-    *   Certified Vendor Request
-
-Join our Partner Community!  
-Learn more about our fast-growing digital marketing ecosystem »
+    *   Agency Partners
+    *   Technology Partners
+    *   Become an Agency Partner
+    *   Become a Technology Partner
 
 *   Education
     *   Digital Velocity Conference
@@ -310,8 +306,8 @@ Learn More
         *   Media &. Publishing
         *   Technology Services
     *   Partners
-        *   SYNC for Agencies
-        *   SYNC for Technology Vendors
+        *   Tealium Agency Partners
+        *   Technology Partners
     *   Education
         *   Digital Velocity Conference
         *   Tealium University
