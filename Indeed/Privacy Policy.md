@@ -27,7 +27,7 @@ Cookies, Privacy and Terms of Service
 *   Cookie Policy
 *   Privacy Policy
 *   Indeed Terms of Service
-*   Smart Recruit Terms
+*   Indeed MoBolt Terms
 *   Indeed Safe Harbor Notice
 *   Indeed Vulnerability Reward Program
 
@@ -437,11 +437,11 @@ You may not assign or delegate any of your rights or obligations hereunder witho
 
 This Agreement and any dispute arising out of or in connection with this Agreement (“Dispute”) will be governed as to all matters, including, but not limited to the validity, construction and performance of this Agreement, by and under the laws of the State of Texas, United States of America, without giving effect to conflicts of law principles thereof. Any and all actions, lawsuits, or other legal proceedings related to such Dispute shall be filed only in the federal or state courts located in Travis County, Texas. Each of the Parties hereby consent to the exclusive personal jurisdiction of the federal or state courts located in Travis County, Texas, USA.
 
-**Indeed Smart Recruit**
+**Indeed MoBolt**
 
 TERMS AND CONDITIONS
 
-These Terms and Conditions set forth the terms and conditions under which Indeed will provide access to the Indeed Smart Recruit Software and services to Customer. The Agreement sets forth the terms and conditions under which Customer may Use (as defined herein) Indeed’s Smart Recruit Software indicated in the Agreement (“Software”). Any references to “Indeed” shall mean Indeed Inc. when your business address is within the United States and otherwise “Indeed” shall refer to Indeed Ireland.
+These Terms and Conditions set forth the terms and conditions under which Indeed will provide access to the Indeed MoBolt Software and services to Customer. The Agreement sets forth the terms and conditions under which Customer may Use (as defined herein) the Indeed MoBolt Software indicated in the Agreement (“Software”). Any references to “Indeed” shall mean Indeed Inc. when your business address is within the United States and otherwise “Indeed” shall refer to Indeed Ireland.
 
 **1\. LICENSE GRANT AND RIGHT OF USE**
 
@@ -571,7 +571,7 @@ These Terms and Conditions set forth the terms and conditions under which Indeed
 
 9.12. **Choice of Law.** THIS AGREEMENT SHALL BE GOVERNED AND INTERPRETED BY THE LAWS OF THE STATE OF TEXAS WITHOUT REGARD TO THE CONFLICTS OF LAW PROVISIONS OF ANY STATE OR JURISDICTION.
 
-9.13. **Arbitration.** Notwithstanding any other terms found at Indeed.com, any controversy or claim arising out of or relating to this Smart Recruit Agreement or the breach thereof shall be determined by binding arbitration administered by the American Arbitration Association in accordance with its Commercial Rules, including the optional rules regarding emergency relief. The number of arbitrators shall be one (1), and the place of arbitration shall be Austin, Texas, U.S.A., and the language of the arbitration shall be English. The parties may apply to any court of competent jurisdiction for a temporary restraining order, preliminary injunction, or other interim or conservatory relief as necessary, without breach of this Section and without abridgment of the powers of the arbitrator.
+9.13. **Arbitration.** Notwithstanding any other terms found at Indeed.com, any controversy or claim arising out of or relating to this Indeed MoBolt Agreement or the breach thereof shall be determined by binding arbitration administered by the American Arbitration Association in accordance with its Commercial Rules, including the optional rules regarding emergency relief. The number of arbitrators shall be one (1), and the place of arbitration shall be Austin, Texas, U.S.A., and the language of the arbitration shall be English. The parties may apply to any court of competent jurisdiction for a temporary restraining order, preliminary injunction, or other interim or conservatory relief as necessary, without breach of this Section and without abridgment of the powers of the arbitrator.
 
 **Indeed General EEA Safe Harbor Notice**
 
