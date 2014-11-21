@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  GLORIA
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13000704481
+true true 10.60.248.10 L13128644715
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Nov 19 03:56:28 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Thu Nov 20 04:55:33 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,34 +45,84 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 Days Only
-    
-    Online only November 17 through 19.
-    
-    Code: 3DAYSALE
-    
-    get details
-    
-    Select styles
-    
-    50% Off\* Bedding and Bath shop bedding and bath50% Off\* Luggage shop luggage40% Off\* Home Decor shop home decor40% Off\* Blinds and Shades shop blinds and shades40% Off\* Furniture and Mattresses shop furniture and mattresses30% Off\* Kitchen and Dining shop kitchen and dining30% Off\* Curtain Rods and Hardware shop curtain rods and hardware30% Off\* Storage and Organization shop storage and organization30% Off\* Vacuums and Floorcare shop vacuums and floorcare
-    
-    Or, Extra 20% Off\* all online clearance
-    
-    shop clearance
-*   3 Days Only
-    
-    Online only November 17 through 19.
-    
-    Code: 3DAYSALE
-    
-    get detailsExtra 20% Off\* select original, regular, sale and clearance-priced items. shop men's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fashion jewelry shop custom blinds and shades \*See exclusions and details
+Online Only
 
-25-33% Off Select Dresses shop dresses 25-40% Off Select Boots For the Family shop boots 40-50% Off Select Men's St. John's Bay shop men's St. John's Bay 20% Off Select Watches
+Extra 25% Off\* $100 or more with your JCPenney Credit Card. \*Subject to credit approval.
 
-With Code: JWLRY42
+Or, Extra 20% Off\* with any other method of payment.
 
-shop watches \*See exclusions and details 50% Off Select Kids' Coats and Jackets shop kids' coats 40-50% Off Select Women's Sleepwear shop women's sleepwear Black Friday Sneak Peek
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card. \*Subject to credit approval.
+
+Or, Extra 15% Off with any other method of payment.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Ends November 22.
+
+Use Code: SHOPNOW
+
+\*All offers apply to select original, regular, sale and clearance-priced items. Exclusions and details below.
+
+\*See exclusions and details. get store coupon
+
+*   Beat the Rush Sale shop the sale view store ad
+    
+    30-40% Off Worthington
+    
+    Select styles.
+    
+    shop Worthington
+    
+    50% Off Men's Suits and Sports Coats
+    
+    Select styles.
+    
+    shop men's suits and sport coats
+    
+    40% Off Kids' Dress Up
+    
+    Select styles.
+    
+    shop kids' dress up shop Worthington shop men's suits and sport coats shop kids' dress upNight and Day Doorbusters
+    
+    Use your coupon and save even more. In Store Only. Friday, 3PM through Saturday, 1PM.
+    
+    view Doorbusters store ad
+*   30-50% Off Home Sale shop the home sale
+    
+    30-50% Off Bedding
+    
+    Select styles.
+    
+    shop bedding
+    
+    30-50% Off Kitchen and Dining
+    
+    Select styles.
+    
+    shop kitchen and dining
+    
+    40-50% Off Furniture and Mattresses
+    
+    Select styles.
+    
+    shop furniture and mattresses
+    
+    40-50% Off Window
+    
+    Select styles.
+    
+    shop window
+    
+    40-50% Off Luggage
+    
+    Select styles.
+    
+    shop luggage shop blankets and throws
+
+Jingle More Bells shop holiday gifts 40-50% Off Select Women's Coats shop women's coats 25-50% Off Select Women's Comfort Boots shop women's boots 40-50% Off Select Men's Coats and Jackets shop men's coats and jackets 30-50% Off Select Sweaters for Her shop women's sweaters 40% Off Select Cold-Weather Accessories shop cold-weather accessories 40-50% Off Select Kids' Activewear shop kids' activewear Black Friday Sneak Peek
 
 Stores open Thanksgiving day 5PM
 
@@ -84,19 +134,23 @@ Thanksgiving coupon giveaway! Instant savings at the door while supplies last!
 
 $100 Off $100 or more Super-Savings Coupon valid until December 24. Or, $10 Off $10 or more Savings Coupon valid Thursday and Friday only. Includes Doorbusters and Big Buys!
 
-get details 40-50% Off Curtains and Drapes When You Buy 2 or More
+get details 30-50% Off Home Decor
 
 Select styles.
 
-shop curtains and drapes Jingle More Bells shop holiday gifts JCP Rewards
+shop home decor shop rugs shop lighting and lamps shop pillows #Just Got Jingled
+
+At JCPenney, we think giving is simply better than receiving, and we want you to join us on our mission to prove it.
+
+join the conversation JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Just $5
+sign up today SportsFanShop
 
-Get ALL your favorite magazines from TimeInc. today.
+Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
-shop now Red Zone Clearance Selections 50-70% Off shop clearance Say Hello To The All-New JCPenney App
+shop the SportsFanShop Red Zone Clearance Selections shop clearance Say Hello To The All-New JCPenney App
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
