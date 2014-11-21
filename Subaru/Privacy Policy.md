@@ -399,6 +399,7 @@ Responsibility
 *   Diversity
 *   SOA Foundation
 *   Environment
+*   Love Promise
 
 Owners
 
