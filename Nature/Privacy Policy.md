@@ -207,9 +207,9 @@ Search:Search Donate Now
     *   Behind the Lens
 *   **About** Us \[close\]
     
-    *   **2013 Annual Report**
+    *   **_Nature Conservancy_ Magazine**
         
-        Each of these videos tells the story of how we work to preserve our lands and waters.
+        Our award-winning publication covers the best of our work. 
         
     *   **Our Accountability**
         
@@ -255,7 +255,7 @@ About Us
 *   Our Partners in Conservation
 *   Campaign for a Sustainable Planet
 *   Careers
-*   Diversity
+*   Diversity &. Inclusion
 *   Contact Us
 *   Social Media
 *   Volunteer: Connect with Nature
