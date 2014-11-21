@@ -1,4 +1,4 @@
-Last updated June 25, 2014  
+Last updated November 20, 2014  
   
 This privacy policy applies to www.cabelas.com and other technology resources owned and operated by Cabela's Inc. such as mobile applications, social platforms, chat rooms, blogs and the like ("Tech Resources"). This privacy policy describes how Cabela's Inc. ("Cabela's", "we", "us", "our") collects and uses the personally identifiable information you provide on our Tech Resources and the information that we otherwise collect on our Tech Resources. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.  
   
@@ -41,6 +41,8 @@ We will retain your information for as long as your account is active or as need
 In addition, if you provide us with a cell phone number and provide us your prior express written consent by opting-in, we will send you text messages to your mobile device. To opt out of a specific mobile messaging campaign, reply "stop" to 247365 (CABELAS). Your carrier’s text messaging fees will apply.  
   
 **With whom do we share your personally identifiable information?**  
+We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy.  
+  
 In order to operate this web site and in order to provide you with the products and services you have requested, we occasionally need to share information with third parties. We may transmit your personally identifiable information to service providers who assist us with processing orders, shipping products to you, processing your payment information, sending you catalogs, conducting surveys and product reviews, on- and offline sweepstakes, contests or promotions, processing job applications, sending you emails and newsletters, and helping us decide whether to extend credit to you (for example, the Cabela’s CLUB® Visa® card). We have agreements with these service providers that they will protect your privacy in accordance with our standard Privacy Policy. Some of those organizations may have their own Privacy Policies which may give you additional protections, so you are encouraged to read those policies when presented to you. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.  
   
 We use software tools and service providers to help us gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our web site. By reporting and tracking ads served on our site, these service providers help us conduct our business, optimize our ad campaigns through the use of data analytics, and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purposes.  
