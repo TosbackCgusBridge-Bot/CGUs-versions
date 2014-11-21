@@ -62,7 +62,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Disney's building a 'Toy Story'-themed hotel -- here's where and when you can stay there Read More Marvel at a glance: all the movies from now through 2020 in one cool image Read More Check out the first new Peanuts movie images and trailer! Read More Explore More
+*   Movie News Featured Movie News Here's to you, Mike Nichols. 'The Graduate' director has died at 83 Read More 'Zoolander 2' is totally happening. here's what we know so far Read More And Chris Pratt's next comic book movie is.... Plus, 'X-Men' casting buzz Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
