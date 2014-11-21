@@ -115,6 +115,10 @@ Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now
 *   OTA Blog
 *   Newsletters
 
+Fri, Nov 21, 2014 The Promise of Ad Supply Chain Accountability
+
+A few weeks ago, I attended the IAB Ad Operations Summit. The Summit focused on cleaning up the advertising supply chain, combating fraud, and identifying more streamlined ways to accurately measure ad performance. The underlying message of the Summit was the need for collaboration and industry buy-in. Just as standardization is impossible unless everyone is committed to following the same standards, cleaning up the supply chain is impossible unless everyone agrees to identify and shut out disreputable players.
+
 Tue, Nov 18, 2014 Big Data Are You Prepared to Seize Opportunities &. Preserve Consumer Trust?
 
 Throughout the world businesses are eagerly capitalizing on the promise and potential of big data.  Combined with powerful analytics big data is proving to drive revenue, reach new markets and identify new consumers.  Data scientists are uncovering subtle patterns, correlations and relationships between consumers and products.  Through targeted marketing and appending data from data brokers, consumers are realizing compelling content, personalized online experiences and promotional offers tailored to their needs and aspirations.  This appears a win-win for business and t
@@ -128,10 +132,6 @@ Sun, Nov 2, 2014 Cybersecurity, The Blind Side, The Insider Threat
 **Cybersecurity, The Blind Side, The Insider Threat**
 
 Perhaps you remember the football movie, The Blind Side, with Sandra Bullock about an impoverished young boy who was adopted and eventually became a NFL football player. The blind side is also a football term which loosely means “something that approaches from the side you cannot see.” Usually the side of the quarterback away from where he is looking. Do we have a “blind side” in cybersecurity too? Perhaps.
-
-Tue, Oct 28, 2014 Advertiser Vetting Reveals Chinese Counterfeiting Ring
-
-Counterfeit products are prevalent throughout the digital marketplace, deceiving consumers, infringing on major brands, and damaging site reputations. However, because of the complexity of the advertising placement process, many ads for counterfeit goods still make their way through ad networks and onto reputable publisher sites.
 
 Resources
 
