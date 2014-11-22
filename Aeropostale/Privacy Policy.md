@@ -10,12 +10,12 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
+    *   Web Busters
     *   Gift Guide
     *   United XXVI
     *   Bethany Mota
     *   Cold Weather Shop
     *   Lookbook
-    *   Uniform Looks
     *   Boot Shop
     *   Extended Sizes
     *   Online Exclusives
@@ -46,11 +46,11 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
+    *   Web Busters
     *   Gift Guide
     *   Cold Weather Shop
     *   United XXVI
     *   Lookbook
-    *   Uniform Looks
     *   Sneaker Shop
     *   Extended Sizes
     *   Online Exclusives
