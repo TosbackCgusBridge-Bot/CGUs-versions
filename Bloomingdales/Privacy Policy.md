@@ -22,7 +22,7 @@
 *   THE REGISTRY
 *   SALE
 
-Customer Service At Your Service Order Status Store Locations Gift Card Balance Credit Services Shopping Services Help Topics Order Status Shipping &. Delivery Returns Credit Card Loyallist Furniture &. Mattresses Products &. Pricing Stores Wedding &. Gift Registry Gifts &. Gift Cards My Account &. Profile Security &. Privacy Let Us Assist You Contact Us Call 1-800-777-0000 Monday - Sunday, 9AM - Midnight ET Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+CALL: 1.800.777.0000 Customer Service Hours: Monday - Sunday: 9AM - Midnight ET What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
 The Notice of Privacy Practices was updated on January 31, 2014.
 
@@ -202,8 +202,6 @@ Does this answer your question? Tells us how you think we can make this answer m
 *   Terms of Use
 *   How do I return an item purchased at a Bloomingdale's store?
 *   Security Policy
-
-**Contact Us** for assistance with your shopping experience and other answers.
 
 *   CUSTOMER SERVICE
     *   Shipping Policy
