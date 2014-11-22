@@ -20,7 +20,7 @@ We're committed to keeping your personal and financial information safe and secu
 
 **Privacy**Learn how we collect and use information. **Card security**Free Total Security Protection® on all cards. **Mobile security**Convenience, safety and security **Email fraud**Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
 
-As an Online Banking customer, you're entitled to a free year of McAfee Internet Security ››
+As an Online Banking customer, you're entitled to a free year of McAfee® Internet Security ››
 
 Lost or stolen card? Report a lost or stolen card
 
