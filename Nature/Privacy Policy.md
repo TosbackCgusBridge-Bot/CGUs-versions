@@ -234,7 +234,7 @@ Search:Search Donate Now
     
     Why We're Effective Private Lands Conservation Working with Companies Working with Leaders Our Partners in Conservation Careers
     *   GLOBE Internship Program
-    *   LEAF Internships for Urban YouthDiversity Contact Us Social Media Volunteer
+    *   LEAF Internships for Urban YouthDiversity &. Inclusion Contact Us Social Media Volunteer
 
 About Us
 
