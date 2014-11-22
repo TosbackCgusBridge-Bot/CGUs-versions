@@ -11,7 +11,7 @@ Technische Merkmale:
 Wenn Sie unsere Webseiten besuchen, verzeichnen unsere Web-Server vorübergehend den Domain-Namen oder die IP- Adresse Ihres Computers, die Dateianfrage des Clients (Dateiname und URL), den http-Antwort-Code und die Internetseite, von der aus Sie uns besuchen. Diese Daten werden nach Ihrer Internetsitzung gelöscht.
 
 Cookies_:_  
-Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mit einer Lebenszeit von 6 Monaten (Webtrekk) oder 12 Monaten (Tealium), mittels derer wir Sie z.B. als Besucher wiedererkennen (Siehe Punkt 7). Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.  
+Unsere Website verwendet an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die Cookies enthalten keine persönlichen Daten. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Die meisten der von uns verwendeten Cookies sind so genannte Session-Cookies, die gelöscht werden, wenn Sie Ihre Browsersitzung beenden. Sie werden für Transaktionen benötigt und enthalten lediglich eine Transaktions-ID. Daneben gibt es einige langlebige (persistente) Cookies mit einer Lebenszeit von 6 Monaten (Webtrekk) oder 12 Monaten (Tealium), mittels derer wir Sie z.B. als Besucher wiedererkennen (Siehe Punkt 7). Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.  
 Sie haben die Möglichkeit, Ihren Browser so einzustellen, dass diese Cookies gar nicht erst gespeichert werden oder dass die Cookies am Ende Ihrer Internetsitzung gelöscht werden. Bitte beachten Sie dabei aber, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Webseiten nutzen können.
 
 b. Für gesetzlich vorgesehene Zwecke
@@ -27,15 +27,13 @@ Zum Schutz Ihrer Daten vor unberechtigtem Zugriff und Missbrauch haben wir umfan
 **5\. Werden meine Daten an Dritte weitergegeben, zum Beispiel an Behörden?**  
 Ja, einige Daten müssen unter strengen vertraglichen und gesetzlichen Auflagen weitergegeben werden:
 
-*   An externe Dienstleister zur Datenverarbeitung:  
-    
+*   An externe Dienstleister zur Datenverarbeitung:
 
 Wenn Dienstleister mit persönlichen Daten unserer Kunden in Berührung kommen, erfolgt dies im Rahmen einer sogenannten Auftragsdatenverarbeitung. Diese ist gesetzlich ausdrücklich vorgesehen (§ 11 Bundesdatenschutzgesetz). Die Telekom bleibt auch in diesem Fall für den Schutz Ihrer Daten verantwortlich. Der Dienstleister arbeitet ausschließlich gemäß unserer Weisungen, was wir durch strenge vertragliche Regelungen, durch technische und organisatorische Maßnahmen und durch ergänzende Kontrollen sicherstellen.
 
-*   Aufgrund gesetzlicher Verpflichtung:  
-    
+*   Aufgrund gesetzlicher Verpflichtung:
 
-In bestimmten Fällen sind wir gesetzlich verpflichtet, Daten an eine anfragende staatliche Stelle zu übermitteln. Nach Vorlage eines Gerichtsbeschlusses sind wir gemäß § 101 Urheberrechtsgesetz verpflichtet, Inhabern von Urheber- und Leis­tungsschutzrechten Auskunft über Kunden zu geben, die urheber­rechtlich geschützte Werke in Internet-Tauschbörsen angeboten haben sollen. Unsere Auskunft enthält in diesen Fällen die Benutzerkennung einer zum angefragten Zeitpunkt zugeteilten IP-Adresse sowie, wenn bekannt, Namen und Anschrift des Kunden.
+In bestimmten Fällen sind wir gesetzlich verpflichtet, Daten an eine anfragende staatliche Stelle zu übermitteln. Nach Vorlage eines Gerichtsbeschlusses sind wir gemäß § 101 Urheberrechtsgesetz verpflichtet, Inhabern von Urheber- und Leis­tungsschutzrechten Auskunft über Kunden zu geben, die urheber­rechtlich geschützte Werke in Internet-Tauschbörsen angeboten haben sollen. Unsere Auskunft enthält in diesen Fällen die Benutzerkennung einer zum angefragten Zeitpunkt zugeteilten IP-Adresse sowie, wenn bekannt, Namen und Anschrift des Kunden.
 
 Darüber hinaus geben wir keine Daten an Dritte weiter, es sei denn, Sie haben ausdrücklich eingewilligt oder dies ist gesetzlich vorgesehen.
 
@@ -54,7 +52,7 @@ Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbietern au
 *   ID für den Besucher
 *   ID für die Session
 
-Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren. Legen Sie in Ihren Browser-Einstellungen fest, dass Cookies von der Domain „tealium.hs.llnwd.net“ blockiert werden.
+Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren. Legen Sie in Ihren Browser-Einstellungen fest, dass Cookies von der Domain tealium.hs.llnwd.net blockiert werden.
 
 Webseiten-Analyse mit Webtrekk
 
@@ -90,11 +88,9 @@ Folgende Cookies werden mit Webtrekk gesetzt:
 
 Widerruf zur Datenspeicherung:  
 Nach § 15 des Telemediengesetzes können Webseitenbesucher der Datenspeicherung Ihrer pseudonymisiert erfassten Besucherdaten widersprechen, so dass sie in Zukunft nicht mehr erhoben (erfasst) werden.  
-Für den Ausschluss vom Webtrekk Web-Controlling wird ein Cookie mit dem Namen „webtrekkOptOut“ von der Domain Webtrekk.net gesetzt. Dieser Widerspruch gilt so lange, wie Sie das Cookie nicht löschen, maximal jedoch für die Lebensdauer des Cookies von 60 Monaten. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen.  
+Für den Ausschluss vom Webtrekk Web-Controlling wird ein Cookie mit dem Namen webtrekkOptOut von der Domain Webtrekk.net gesetzt. Dieser Widerspruch gilt so lange, wie Sie das Cookie nicht löschen, maximal jedoch für die Lebensdauer des Cookies von 60 Monaten. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen.  
 Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link:  
-Opt-Out-Cookie setzen http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html
-
-Weitere Informationen finden Sie auf der Website der Webtrekk GmbH, Hannoversche Str. 19, 10115 Berlin, http://www.webtrekk.com/
+http://www.webtrekk.com/
 
 Webseiten-Analyse mit AT Internet:
 
@@ -121,15 +117,15 @@ Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Onli
 
 Reichweitenmessung:
 
-Unsere Webseite nutzt das „Skalierbare Zentrale Messverfahren“ (SZM) der Firma INFOnline GmbH. Dieses Verfahren sammelt statistische Daten über die Nutzung unserer Angebote.  
-Dabei werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder ein Cookie mit der Kennung „ivwbox.de“ oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. Ihre IP-Adresse wird nicht gespeichert und nur in anonymisierter Form verarbeitet.  
+Unsere Webseite nutzt das Skalierbare Zentrale Messverfahren (SZM) der Firma INFOnline GmbH. Dieses Verfahren sammelt statistische Daten über die Nutzung unserer Angebote.  
+Dabei werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder ein Cookie mit der Kennung ivwbox.de oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. Ihre IP-Adresse wird nicht gespeichert und nur in anonymisierter Form verarbeitet.  
 Ziel der Reichweitenmessung ist es, die Nutzungsdauer und -häufigkeit sowie die Anzahl der Besucher unserer Webseiten statistisch zu bestimmen. Ihre Identität bleibt dabei immer geschützt.  
-Unser Webportal nimmt an der Studie „internet facts“ der Arbeitsgemeinschaft „Online-Forschung e.V.“ Teil. Das bedeutet, dass unsere Nutzungsstatistiken monatlich von der AGOF, der Arbeitsgemeinschaft Media-Analyse e.V. und von der IVW veröffentlich werden. Sie können diese Statistiken einsehen unter http://www.agof.de, http://www.agma-mmc.de, http://www.ivw.de.  
+Unser Webportal nimmt an der Studie internet facts der Arbeitsgemeinschaft Online-Forschung e.V. Teil. Das bedeutet, dass unsere Nutzungsstatistiken monatlich von der AGOF, der Arbeitsgemeinschaft Media-Analyse e.V. und von der IVW veröffentlich werden. Sie können diese Statistiken einsehen unter http://www.agof.de, http://www.agma-mmc.de, http://www.ivw.de.  
 Neben der Veröffentlichung von Statistiken überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.  
 Weitere Informationen zum SZM-Verfahren finden Sie auf der Webseite der INFOnline GmbH (www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzseite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzseite der IVW (http://www.ivw.eu).  
 Sie können der Datenverarbeitung durch das SZM jederzeit unter folgendem Link widersprechen: http://optout.ivwbox.de
 
-**8\. Was ist „Conversion Tracking“ und wie wird es eingesetzt?**  
+**8\. Was ist Conversion Tracking und wie wird es eingesetzt?**  
 Wenn Sie über eine Google-Anzeige, eine Affiliate-Anzeige oder eine E-Mail der Telekom auf unsere Webseiten gelangt sind, wird von Google AdWords, Metalyzer oder Teradata ein Cookie auf Ihrem Rechner gespeichert. Dieses Cookie verliert nach 30 Tagen seine Gültigkeit. Ein Rückschluss auf Ihre Person ist dabei nicht möglich.  
 Die mit Hilfe des Conversion-Cookies eingeholten Informationen dienen uns dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer von einer Google-Anzeige, einer Affiliate-Anzeige oder über eine E-Mail der Telekom kommen und innerhalb von 30 Tagen ein Produkt über unsere Webseiten erwerben.  
 Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookies für Conversion-Tracking deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der entsprechenden Domain blockiert werden:
@@ -154,7 +150,7 @@ Sie können die Einwilligung zur Anzeige der Social Plugins auf dieser Seite mit
 Sie haben auf unserer Website die Möglichkeit, unseren Online-Chatservice kostenlos und in Echtzeit zu nutzen. Hierfür werden Cookies durch den Chatservicebetreiber LivePerson Netherlands B.V. gesetzt, die eine Analyse der Benutzung der Website ermöglichen. Im Rahmen der gesetzlichen Regelungen legt LivePerson Netherlands B.V. Nutzungsprofile unter einem Pseudonym an. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen. Die Telekom verwendet die Dienste der Firma LivePerson Netherlands B.V., um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren.
 
 Opt-Out-Möglichkeit:  
-Für den Ausschluss vom Online Chatservice wird ein Cookie mit dem Namen „LPOptOut“ von der Domain telekom.de und t-mobile.de gesetzt. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen. Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen (https://www.telekom.de/datenschutz/widerspruch-registriert).
+Für den Ausschluss vom Online Chatservice wird ein Cookie mit dem Namen LPOptOut von der Domain telekom.de und t-mobile.de gesetzt. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen. Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link: Opt-Out-Cookie setzen (https://www.telekom.de/datenschutz/widerspruch-registriert).
 
 **11\. Kann ich Auskunft über meine gespeicherten Daten erhalten?**  
 Sie können unentgeltlich Auskunft über den Umfang, die Herkunft und die Empfänger der gespeicherten Daten sowie den Zweck der Speicherung verlangen.
