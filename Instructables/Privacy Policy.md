@@ -180,7 +180,6 @@ Options
 
 *   Buy Online
 *   Find a Reseller
-*   All Options
 
 Other
 
