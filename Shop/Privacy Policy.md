@@ -286,12 +286,10 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         Monday - Friday 9am-9pm  
         Saturday - Sunday 9am-6pm (EST)
     5.   **Help with an Outlet order**  
-          
         Call 1-877-698-4465, option 3  
         Monday - Friday 9am - 9pm EST  
         Saturday 9am - 6pm EST
     6.    **Payment issues**  
-          
         Call 1-800-426-3325, option 1  
         Monday - Friday, 9am - 6pm (EST)
     7.    **Need More Help?**  
