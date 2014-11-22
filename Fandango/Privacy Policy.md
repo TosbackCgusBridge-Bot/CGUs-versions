@@ -27,19 +27,23 @@ Gift Cards | Offers | Visa Signature
     *   A Girl Walks Home Alone at Night
     *   See All Opening This Week
     
+    Pre Sales Tickets
+    
+    *   Penguins of Madagascar
+    *   Exodus: Gods and Kings
+    *   Into the Woods
+    
     Coming Soon
     
     *   The Hunger Games: Mockingjay - Part 1
     *   Horrible Bosses 2
-    *   Penguins of Madagascar
     *   The Pyramid
-    *   Exodus: Gods and Kings
     *   Top Five
     *   Annie (2014)
     *   The Hobbit: The Battle of the Five Armies
     *   The Interview
-    *   Into the Woods
     *   Unbroken
+    *   The Woman In Black 2 Angel of Death
     *   See All Coming Soon
     
     Explore More
@@ -62,7 +66,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Here's to you, Mike Nichols. 'The Graduate' director has died at 83 Read More 'Zoolander 2' is totally happening. here's what we know so far Read More And Chris Pratt's next comic book movie is.... Plus, 'X-Men' casting buzz Read More Explore More
+*   Movie News Featured Movie News Mel Gibson may direct Andrew Garfield in war movie. plus, new 'Fifty Shades' TV spot Read More 'Zoolander 2' is totally happening. here's what we know so far Read More And Chris Pratt's next comic book movie is.... Plus, 'X-Men' casting buzz Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -311,7 +315,7 @@ Para información en Español en relación a preguntas sobre las Políticas de P
 
 Offers **Penguins of Madagascar Free Gift**
 
-Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase BUY TICKETS
+Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase. BUY TICKETS
 
 **Mockingjay Part 1 Sweepstakes**
 
