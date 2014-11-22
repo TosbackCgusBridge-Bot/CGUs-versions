@@ -1,7 +1,7 @@
 **Privacy Policy  
 Last Revised: January 9, 2014**
 
-Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
 **Acceptance of Privacy Policy**
 
@@ -55,7 +55,7 @@ If you are a California resident and have provided personal information to the S
   
 We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at support@backpage.com or mailing your request to:  
   
-Backpage.com LLC  
+backpage.com LLC  
 PO Box 192307  
 Dallas, TX 75219 USA  
   
