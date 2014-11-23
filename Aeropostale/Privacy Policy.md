@@ -75,7 +75,7 @@ Aéropostale Go
     *   SHOES
     *   ACCESSORIES
 *   Room
-    *   Bethany Room
+    *   Bethany's Room
     *   Bedding
     *   Accessories
 *   Clearance
