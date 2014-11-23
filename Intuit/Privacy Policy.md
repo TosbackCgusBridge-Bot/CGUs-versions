@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (20)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  SHELLY
+*   Hello  ANASTASIA
 *   (sign out)
     
 *   my account
 
-*   saved items: (20)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13131707424
+true true C13009062367
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p11.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Fri Nov 21 11:33:13 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p36.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sat Nov 22 04:30:28 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
