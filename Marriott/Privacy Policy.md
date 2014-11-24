@@ -26,6 +26,7 @@ EUROPE
 
 *   Germany (Deutsch)
 *   Italy (Italian)
+*   Russia (Русский)
 *   Spain (Español)
 *   France (Français)
 *   United Kingdom (English)
@@ -40,6 +41,18 @@ LATIN AMERICA
 *   Brazil (Português)
 *   Mexico (Español)
 *   Argentina (Español)
+
+MIDDLE EAST
+
+*   Latin America (Español)
+
+AFRICA
+
+*   Latin America (Español)
+
+INTERNATIONAL
+
+*   Middle East and Africa (اللغة العربية)
 
 This Statement was last updated on **February 13, 2014**, to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
 
