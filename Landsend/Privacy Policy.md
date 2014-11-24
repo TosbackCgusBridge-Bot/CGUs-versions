@@ -27,7 +27,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Winter Looks
             *   2015 Swim Shop
-            *   50% off Monogramming
+            *   Monogram Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -69,7 +69,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Tailored Fit Shop
             *   Slim Fit Shop
-            *   50% off Monogramming
+            *   Monogram Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Men Shop By Size Range
@@ -108,7 +108,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Boys Iron Knee
             *   Girls Knit Kit
-            *   50% off Monogramming
+            *   Monogram Shop
             *   Sale
         *   Shop By Age Range
             *   Back to Kids Shop By Age Range
@@ -181,7 +181,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Flannel Bedding
             *   Bedding Collections
-            *   50% off Monogramming
+            *   Monogram Shop
             *   Sale
     *   *   Categories
             *   Bedding
