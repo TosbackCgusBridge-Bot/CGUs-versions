@@ -54,7 +54,7 @@ Personally identifiable information collected through the Website may be shared 
 
 1.  Registration and payment information, information on forms you have filled out and requests you have submitted will all be shared with our service providers, for payment collection and processing purposes;
 2.  Contact information you have provided upon registration may be shared with our service providers for the purpose of distributing emails to our registered users and/or app publishers;
-3.  Photos and other multimedia or content you have uploaded through the Website�s forums, blog or other public areas will be shared with all other users of such public area as well;
+3.  Photos and other multimedia or content you have uploaded through the Website’s forums, blog or other public areas will be shared with all other users of such public area as well;
 4.  To operate, maintain and enhance the Website and the Conduit Platform, including by using server maintenance, optimization services, management and operation services of a discussion board or other open forum or blog within the Website, provided by third party service providers;
 5.  If you have breached the Terms of Use, abused your rights to use the Website, or violated any applicable law, your information may be shared with competent authorities and with any third party, as may be required;
 6.  If we reasonably believe that we are required by law to share or disclose your information.
