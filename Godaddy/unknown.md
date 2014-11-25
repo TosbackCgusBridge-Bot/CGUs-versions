@@ -274,7 +274,7 @@ If you submit an application for pre-registration of a domain name, Go Daddy doe
 
 We may offer some or all of the following domain names.  You agree to be bound by the rules, policies and agreements of each Registry from which you purchase a domain name registration, which may include, but is not limited to, Top Level Domain Registries and Second Level Domain Registrations. You further agree to comply with the ICANN requirements, standards, policies, procedures, and practices for which each applicable Registry Operator has monitoring responsibility in accordance with the Registry Agreement between ICANN and itself or any other arrangement with ICANN. You further agree to comply with any operational standards, policies, procedures, and practices for the each Registry TLD established from time to time by the applicable Registry Operators in a non-arbitrary manner, which shall be effective upon posting on this Site.
 
-**13\. provisions specific to Afilias registrations: .blue. .black. .global. .kim. .onl. .pink. .red. .rich. .shiksha. .xn-6frz82g**
+**13\. provisions specific to Afilias registrations: .blue. .black. .global. .hiv. .kim. .onl. .pink. .red. .rich. .shiksha. .xn-6frz82g**
 
 You agree to comply with Registry’s policies, including all applicable public interest commitments, community registration policies and Government Advisory Committee safeguards, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD.
 
@@ -384,15 +384,11 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .JOBS 
 
 _Reservation of Rights_.  We and the .JOBS Registry Operator expressly reserve the right to revoke, cancel, deny, transfer, suspend, terminate or otherwise modify the rights of a Registered Name Holder, without any notice thereto, in the event of non-compliance by the Registered Name Holder with any provision of this Agreement, the Registry-Registrant Agreement, the registrant eligibility requirements and the use restrictions including, but not limited to, submission or use of untruthful, incomplete or fraudulent registration information during the application process or subsequently thereto.
 
- 25. PROVISIONS SPECIFIC TO .London REGISTRATIONS
-
-You agree to be bound by the Registry polices located here.  You agree to indemnify, defend and hold harmless the Registry and its subcontractors, and its and their directors, officers, employees, agents and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to, for any reason whatsoever, your domain name registration.  This obligation shall survive expiration or termination of this Agreement.   
-
-26\. PROVISIONS SPECIFIC TO .LTDA REGISTRATIONS
+25\. PROVISIONS SPECIFIC TO .LTDA REGISTRATIONS
 
 You agree to be bound by the Registry polices located here.  You agree to indemnify, defend and hold harmless the Registry and its subcontractors, and its and their directors, officers, employees, agents and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to, for any reason whatsoever, your domain name registration.  This obligation shall survive expiration or termination of this Agreement. 
 
-27\. provisions specific to .LUXURY Registrations
+26\. provisions specific to .LUXURY Registrations
 
 You agree to be bound by the terms and conditions of the initial launch of the Registry TLD, including without limitation the sunrise period and the land rush period, and the Start-Up Policies, and further to acknowledge that Registry Operator has no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the sunrise period or the land rush period, including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute over a sunrise registration.
 
@@ -400,7 +396,7 @@ Submit to proceedings commenced under other dispute policies as set forth by Reg
 
 Notwithstanding anything in this Agreement to the contrary, Luxury Partners, LLC, the Registry Operator of the .LUXURY TLD, is and shall be an intended third party beneficiary of this Agreement. As such the parties to this agreement acknowledge and agree that the third party beneficiary rights of Luxury Partners, LLC have vested and that Luxury Partners, LLC has relied on its third party beneficiary rights under this Agreement in agreeing to GoDaddy being a registrar for the .LUXURY TLD. Additionally, the third party beneficiary rights of Luxury Partners, LLC shall survive any termination of this Agreement.
 
-**28\. provisions specific to .MOBI Registrations**
+**27\. provisions specific to .MOBI Registrations**
 
 _Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) that the Registry Operator and the Registry Service Provider will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the limited industry launch, Sunrise Period, Land Rush Period, the Sunrise Dispute Resolution Policy, the Premium Name Allocation Process, and the General Registration Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute made during the limited industry launch or over a Sunrise Registration.
 
@@ -414,13 +410,17 @@ _Third Party Beneficiary_.  Notwithstanding anything in this Agreement to the c
 
 _Instant Mobilizer_. You are hereby granted a personal, revocable, non-exclusive, non-transferable, non-assignable, non-sublicensable license to use the Instant Mobilizer service (“Service”), provided, however, You abide by the terms and conditions set forth. You shall not alter, modify, adapt or translate the whole or part of the Service in any way whatsoever. You may not create derivative works based on the Service. You may not rent, lease, assign, dispose of, novate, sub-license or otherwise transfer any of its rights to use the Service to any third party.  In the event that the volume of traffic to You from Your use of the Service is sufficient so as to jeopardize the provision of Service for other end users, we and our licensors reserve the right to, at its sole discretion, permanently or temporarily, discontinue Your use of the Service. For the avoidance of doubt, the volume of traffic generated by You should not exceed two thousand (2,000) page views per day.  You acknowledge and agree the text "Instant Mobilizer from dotMobi" or equivalent, will be inserted at the footer of Your site.  In the event a dotMobi domain to which the Service is being provided is transferred to another domain name registrar, the Service will be interrupted on that dotMobi domain, and Service will not be restored if the new registrar does not offer the Service. 
 
-29\. provisions specific to .MENU Registrations
+28\. provisions specific to .MENU Registrations
 
 You agree to be bound by the terms and conditions of the initial launch of the Registry TLD, including without limitation the sunrise period and the land rush period, and the Start-Up Policies, and further to acknowledge that Registry Operator has no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the sunrise period or the land rush period, including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute over a sunrise registration.
 
 Submit to proceedings commenced under other dispute policies as set forth by Registry Operator from time to time in the Registry Policies, including but not limited to processes for suspension of a domain name intellectual property rights holders, Internet engineering and security experts or other competent claimants for the purpose of upholding the security, stability and integrity of the .MENU Registry.
 
 Notwithstanding anything in this Agreement to the contrary, Wedding TLD2, LLC, the Registry Operator of the .MENU TLD, is and shall be an intended third party beneficiary of this Agreement.  As such the parties to this agreement acknowledge and agree that the third party beneficiary rights of Wedding TLD2, LLC have vested and that Wedding TLD2, LLC has relied on its third party beneficiary rights under this Agreement in agreeing to GoDaddy being a registrar for the .MENU TLD.  Additionally, the third party beneficiary rights of Wedding TLD2, LLC shall survive any termination of this Agreement.
+
+29\. PROVISIONS SPECIFIC TO Minds and Machines TLDS: .casa. .London; .work. .yoga REGISTRATIONS
+
+You agree to be bound by the Registry polices located here.  You agree to indemnify, defend and hold harmless the Registry and its subcontractors, and its and their directors, officers, employees, agents and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to, for any reason whatsoever, your domain name registration.  This obligation shall survive expiration or termination of this Agreement.  
 
 30\. provisions specific to .Moe Registrations
 
@@ -490,7 +490,7 @@ You agree to indemnify, defend and hold harmless Registry and their subcontracto
 
 permit content unsuitable for viewing by a minor to be viewed from the main or top-level directory of a .SEXY domain name. For purposes of clarity, content viewed at the main or top-level directory of a .SEXY domain name is the content immediately visible if a user navigates to http://example.sexy or http://www.example.sexy. No restrictions apply to the content at any other page or subdirectory addressed by a .SEXY Registered Name.
 
-39\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgate. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rocks. .social. .SOFTWARE. .vet
+39\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .band. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgate. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rip. .rocks. .social. .SOFTWARE. .vet
 
 You agree to comply with the Registration Terms and Conditions, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
