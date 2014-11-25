@@ -147,7 +147,7 @@ _Cookies and Web Beacons_
 
 We collect Non-Personal Information about your use of the WebMD Web Sites and your use of other web sites through the use of Cookies and Web Beacons. "Cookies" are small data files that are stored on the hard drive of the computer you use to view a web site. Every computer that accesses the WebMD Web Sites is assigned a different cookie by WebMD. "Web Beacons" are graphic image files imbedded in a web page typically used to monitor activity on a web page and send back to its home server (which can belong to the host site, a network advertiser or some other third party) information from your browser, such as the IP address, the URL of the page on which the beacon is located, the type of browser that is accessing the site and the ID number of any Cookies on your computer previously placed by that server.
 
-Third parties under contract with WebMD may use Cookies or Web Beacons to collect Non-Personal Information about your usage of the WebMD Web Sites, including which health topics you have viewed. These third party advertising service providers may use this information, on our behalf, to help WebMD deliver advertising on the WebMD Web Sites as well as on other sites on the Internet based on your browsing activity on our sites. WebMD may further tailor the advertising on these third party sites based on additional Non-Personal Information to the extent known by WebMD or these third parties.
+Third parties under contract with WebMD may use Cookies or Web Beacons to collect Non-Personal Information about your usage of the WebMD Web Sites, including which health topics you have viewed. These third party advertising service providers may use this information, on our behalf, to help WebMD deliver advertising on the WebMD Web Sites as well as on other sites on the Internet based on your browsing activity on our sites. WebMD may further tailor the advertising on WebMD and these third party sites based on additional Non-Personal Information to the extent known by WebMD or these third parties.
 
 Mobile Device Applications ("Apps") and Mobile Optimized Sites
 
@@ -177,7 +177,7 @@ Most browser software can be set to reject Cookies. Most browsers offer instruct
 
 Certain Ad Servers allow you to prevent them from collecting data through the use of Cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can opt out of Cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site or TRUSTe's Preference Manager at http://preferences.truste.com/. This website will also allow you to review the Ad Server's privacy policies. You can find additional information and resources about how to opt out of advertising and related Cookies by visiting the World Privacy Forum's Site.
 
-We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests. To read about how to opt out of targeted advertising on the WebMD mobile sites see the section of this policy named _TRUSTed Ads Program Ad Choices_ below. The WebMD Web Sites do not respond to web browser "do not track" signals.
+We work with third party ad networks to display advertising on our Sites. Our ad network vendors use technologies to collect non-personally identifiable information about your activities on our web sites to provide you cookie-based targeted advertising based upon your browsing activity and your interests. To read about how to opt out of targeted advertising on the WebMD sites see the section of this policy named _TRUSTed Ads Program Ad Choices_ below. The WebMD Web Sites do not respond to web browser "do not track" signals.
 
 TRUSTed Ads Program Ad Choices
 
@@ -209,13 +209,13 @@ Information that WebMD collects about you may be combined by WebMD with other in
 
 With Whom Do We Share Your Information?
 
-Except as described in this Privacy Policy or as specifically agreed to by you, WebMD will not disclose any Personal Information it gathers from you through the WebMD Web Sites. We may only release Personal Information to third parties: (1) to comply with legal requirements such as a law, regulation, search warrant, subpoena or court order. or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In addition, we may disclose Personal Information as described below.
+Except as described in this Privacy Policy or as specifically agreed to by you, WebMD will not disclose any Personal Information it gathers from you through the WebMD Web Sites. We may only release Personal Information to third parties: (1) to comply with legal requirements such as a law, regulation, search warrant, subpoena or court order. or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In addition, we may disclose Personal Information as described below. We may share Non-Personal Information that we have about you, including about your browsing activity on WebMD, with third party advertising service providers who may use this information, on our behalf, to help WebMD deliver advertising on the WebMD Web Sites as well as on other sites on the Internet.
 
 In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, WebMD reserves the right to transfer your Personal Information to the new party in control or the party acquiring assets. In the event of such a change, your Personal Information will continue to be treated in accordance with this Privacy Policy unless any changes to the Privacy Policy are made in accordance with the section below that discusses "Changes to This Privacy Policy."
 
-Disclosures to WebMD Operations and Maintenance Contractor
+Disclosures to WebMD Contractors
 
-WebMD contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to WebMD. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising and marketing assistance and/or content for the operation and maintenance of the WebMD Web Sites. We contractually require that our operations and maintenance contractors: 1) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and 2) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for WebMD.
+WebMD contractors sometimes have limited access to your Personal and Non-Personal Information in the course of providing products or services to WebMD. These contractors include vendors and suppliers that provide us with technology, services, data analysis, research, advertising and marketing assistance and/or content in connection with our operation and maintenance of the WebMD Web Sites. We contractually require that our contractors: 1) protect the privacy of your Personal and Non-Personal Information consistent with this Privacy Policy and 2) not use or disclose your Personal or Non-Personal Information for any purpose other than providing the limited service or function for WebMD.
 
 Disclosures to Third Party Web Sites
 
@@ -258,6 +258,6 @@ WebMD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy
 
 WebMD.com, MedicineNet.com, and eMedicineHealth.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Effective Date: October 21, 2014
+Effective Date: November 24, 2014
 
 © 2014 WebMD, LLC. All rights reserved.
