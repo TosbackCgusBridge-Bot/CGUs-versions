@@ -233,15 +233,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Home Laptop &. Desktop Deals
-        2.  Professional Laptop &. Desktop Deals
+        1.  Doorbuster Deals
+        2.  Black Friday Sale
         3.  ThinkPad &. ThinkCentre QuickShips
-        4.  Mystery eCoupon Codes
-        5.  Accessories Stocking Stuffers
-        6.  Bing Page Deals
-        7.  Deals for Students and Educators
-        8.  Outlet
-        9.  See all Current Offers
+        4.  Accessories Stocking Stuffers
+        5.  Bing Page Deals
+        6.  Deals for Students and Educators
+        7.  Outlet
+        8.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
@@ -275,16 +274,22 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         24 hours a day, 7 days a week  
           
         **Call 1-855-2-LENOVO (1-855-253-6686)**  
-        Monday -Friday: 9am - 9pm  
-        Saturday 9am - 6pm (EST)
+        Extended Holiday Hours!  
+        Now through December 28:  
+        Monday - Friday 9am-9pm EST  
+        Saturday 9am-7pm EST  
+        Sunday 9am-6pm EST
     3.    **Help with an existing order**  
         **Check **order status** online** — track by order number
     4.  Monday - Friday 9am-9pm  
         Saturday - Sunday 9am-5:30pm (EST)  
           
         **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
-        Monday - Friday 9am-9pm  
-        Saturday - Sunday 9am-6pm (EST)
+        Extended Holiday Hours!  
+        Now through December 28:  
+        Monday - Friday 9am-9pm EST  
+        Saturday 9am-7pm EST  
+        Sunday 9am-6pm EST
     5.   **Help with an Outlet order**  
         Call 1-877-698-4465, option 3  
         Monday - Friday 9am - 9pm EST  
