@@ -1,6 +1,6 @@
-Don't miss out on our promotions happening now.
+We're thankful for our amazing guests.
 
-Learn more.
+Thanksgiving Promotions
 
 Online Orders 800-522-8090
 
