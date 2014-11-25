@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Et tu, Judas Et tu, Judas
+Syfy Video Sin City Sin City
+
+When the Romans take the city, Spartacus decides their best move is to run. And Gannicus proves himself worthy of all the praise thats so often heaped on him.
+
+Finish Him Finish Him
+
+So that pirate was sort of a happy dude and well-liked character. Until this scene, which also happens to be a pretty brutal death. Well done, Laeta.
+
+Et tu, Judas Et tu, Judas
 
 The pirate Heracleo betrays team Spartacus, Caesar stabs Spartacus, Agron does an amazing spin down a rope, and Crixus and Naevia return to fight for the city. A real action packed sequence.
 
 Haters Gonna Hate, Hate, Hate. Haters Gonna Hate, Hate, Hate.
 
 Caesar: spreading news and making everyone hate each other. When Crixus gets wind of his tale, he confronts Agron head-on.
-
-Z Nation - All the Kills - Episode 10 Z Nation - All the Kills - Episode 10
-
-Count all of this episode's zombie kills along with us.
-
-Z Nation - Sneak Peek - Sisters of Mercy Z Nation - Sneak Peek - Sisters of Mercy
-
-Get a sneak peek at the next episode of Z Nation, airing Fridays at 10/9c on Syfy
 
 *   FAQ
 *   Feedback
