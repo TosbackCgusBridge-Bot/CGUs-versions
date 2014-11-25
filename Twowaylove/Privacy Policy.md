@@ -85,7 +85,7 @@ TwoWayLove may at any time with or without a separate notice change this Policy,
 
 Contact
 
-If you have any additional questions about this policy, you are encouraged to contact TwoWayLove.
+If you have any additional questions about this policy, you are encouraged to contact TwoWayLove at Zürichweg 7, 8153 Rümlang, Switzerland or the contact form.
 
 Get more conversions on your dating site Subscribe Now!  Contact  
  Lisa's Blog  
