@@ -4,39 +4,39 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
-    *   Dumb and Dumber To
+    *   The Hunger Games: Mockingjay - Part 1
     *   Big Hero 6
     *   Interstellar
-    *   Beyond the Lights
+    *   Dumb and Dumber To
     *   Gone Girl
+    *   Beyond the Lights
     *   St. Vincent
     *   Fury (2014)
-    *   Nightcrawler
-    *   Ouija
     *   Birdman
-    *   John Wick
+    *   The Theory of Everything
+    *   Nightcrawler
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Hunger Games: Mockingjay - Part 1
-    *   Happy Valley
-    *   The King and the Mockingbird
-    *   V/H/S: Viral
-    *   The Mule
-    *   A Girl Walks Home Alone at Night
+    *   Horrible Bosses 2
+    *   Penguins of Madagascar
+    *   The Imitation Game
+    *   Antarctica: A Year on Ice
+    *   The Babadook
+    *   Before I Disappear
+    *   Remote Area Medical
+    *   Touch the Wall
+    *   Women Who Flirt
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Penguins of Madagascar
     *   Exodus: Gods and Kings
     *   Into the Woods
     
     Coming Soon
     
-    *   The Hunger Games: Mockingjay - Part 1
-    *   Horrible Bosses 2
     *   The Pyramid
     *   Top Five
     *   Annie (2014)
@@ -44,6 +44,9 @@ Gift Cards | Offers | Visa Signature
     *   The Interview
     *   Unbroken
     *   The Woman In Black 2 Angel of Death
+    *   Blackhat
+    *   Paddington
+    *   The Wedding Ringer
     *   See All Coming Soon
     
     Explore More
@@ -325,9 +328,9 @@ Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
 You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
 
-**Mockingjay Collectible Cards**
+**Penguins Collectible Gift Cards**
 
-These cards are on fire. Available for a limited time only. Get them while you can. BUY GIFT CARDS
+Being an undercover Penguin is hard, but gift giving is easy. Penguins of Madagascar collectible gift cards. The perfect stocking stuffer. BUY GIFT CARDS
 
 New + Coming Soon
 
