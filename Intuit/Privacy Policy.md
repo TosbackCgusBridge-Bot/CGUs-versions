@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13136783190
+true true L13144155589
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p42.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sun Nov 23 03:46:00 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Mon Nov 24 11:24:19 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,11 +45,9 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+Online Only
 
-Select original, regular, sale and clearance-priced items. One day only, ends November 23.
-
-Online Code: VIPEVENT
+Held over. Ends November 24. Select original, regular, sale and clearance-priced items.
 
 Extra 25% Off\* with your JCPenney Credit Card. \*25% Off subject to credit approval.
 
@@ -57,7 +55,9 @@ Or, Extra 20% Off\* with any other method of payment.
 
 Or, Extra 10% Off\* watches, furniture, mattresses, custom blinds and shades, optical and portrait.
 
-\*See exclusions and details print store coupon Pre-Black Friday Specials
+Online Code: VIPEVENT
+
+\*See exclusions and details Pre-Black Friday Specials
 
 Online only. New specials every day.
 
@@ -67,33 +67,36 @@ shop now
 
 *   One day only.
     
-    50% Off select cold-weather accessories
+    $24.99 select Hamilton Beach slow cooker
 *   One day only.
     
-    $39.99 complete bedding sets with sheets in any size
+    $21.99 select Stafford microfleece robe
 *   One day only.
     
-    65% Off a.n.a packable down side-rouched jacket
+    $9.99 each Made for Life velour hoodie or pants
 
 *   One day only.
     
-    50% Off select diamond jewelry
+    $24.99 select Pure Perfection 6-pc. towel set
 *   One day only.
     
-    $74.99 10 piece cooks tri-ply stainless steel cookware set
+    $24.99-$29.99 select boys' and girls' puffer jackets
 *   One day only.
     
-    $19.99 jcp and St. John's Bay jeans for her
+    50% Off select men's Clarks slippers
+    
+    Claks excluded from coupon.
+    
 
+*   Jingle More Bells
+    
+    shop holiday gifts
 *   One day only.
     
-    40-50% Off select kids' dress clothes
+    70% Off select gold jewelry 70% Off select silver jewelry
 *   One day only.
     
-    40-50% Off men's coats and jackets
-*   One day only.
-    
-    50% Off select A2 by Aerosoles women's boots
+    60% Off Mixit sleepwear
 
 Stores Open Thursday 5PM see store hours view store adThanksgiving Coupon Giveaway!
 
@@ -107,7 +110,7 @@ Or, $10 Off $10 or more savings coupon. Valid Thursday and Friday only.
 
 Includes Doorbusters and Big Buys!
 
-get details 40-50% Off Select Women's Sleepwear shop women's sleepwear 60% Off Select Stafford Sleep Pants shop Stafford sleep pants 40-50% Off Select Kids' Sleepwear shop kids' sleepwear 25-40% Off Select Women's Boots shop women's boots 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar 40% Off Select Sweaters For Her shop women's sweaters Home Sale
+get details 40-50% Off Select Women's Sleepwear shop women's sleepwear 60% Off Select Stafford Sleep Pants shop Stafford sleep pants 40-50% Off Select Kids' Sleepwear shop kids' sleepwear 25-50% Off Select Women's Boots shop women's boots 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar $14.99 Select Juniors' Sweaters shop juniors' sweaters Home Sale
 
 Select styles.
 
