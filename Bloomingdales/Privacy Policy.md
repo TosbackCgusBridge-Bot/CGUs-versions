@@ -22,7 +22,7 @@
 *   THE REGISTRY
 *   SALE
 
-CALL: 1.800.777.0000 Customer Service Hours: Monday - Sunday: 9AM - Midnight ET What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+CALL: 1.800.777.0000 Customer Service Hours: Monday - Sunday: 9AM - Midnight ET What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
 The Notice of Privacy Practices was updated on January 31, 2014.
 
