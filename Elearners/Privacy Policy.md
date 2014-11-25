@@ -236,6 +236,7 @@ About eLearners:
 *   Affiliate Program
 *   Our Partners
 *   Site Map
+*   FAQ
 
 Privacy Policy | Terms of Use | Legal Notice
 
