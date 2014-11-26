@@ -1,6 +1,6 @@
 **Introduction**
 
-Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by deviantART, including information, text, images, graphics, data or other materials ("Content") and products and services provided through www.deviantART.com and shop.deviantart.com as well as all elements, software, programs and code forming or incorporated in to www.deviantART.com (the "Service"). This Service is operated by deviantART, Inc. ("deviantART"). deviantART is also referred to in these Terms as "we", "our", and "us".
+Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by deviantART, including information, text, images, graphics, data or other materials ("Content") and products and services provided through www.deviantART.com , shop.deviantart.com , Sta.sh and other deviantART mobile applications as well as all elements, software, programs and code forming or incorporated in to www.deviantART.com (the "Service"). This Service is operated by deviantART, Inc. ("deviantART"). deviantART is also referred to in these Terms as "we", "our", and "us".
 
   
 
@@ -99,7 +99,7 @@ If you have any comments or questions about the Service please contact us by ema
 
 **13\. Registration**
 
-To register as a member of the Service or purchase products, you must be 18 years or lawfully permitted to enter into and form contracts under applicable law. In no event may minors submit Content to the Service. You agree that the information that you provide to us upon registration, at the time of purchase, and at all other times will be true, accurate, current and complete. You also agree that you will ensure that this information is kept accurate and up to date at all times. This is especially important with respect to your email address, since that is the primary way in which we will communicate with you about your account and your orders.
+To register as a member of the Service or purchase products, you must be 13 years or lawfully permitted to enter into and form contracts under applicable law. In no event may minors submit Content to the Service. You agree that the information that you provide to us upon registration, at the time of purchase, and at all other times will be true, accurate, current and complete. You also agree that you will ensure that this information is kept accurate and up to date at all times. This is especially important with respect to your email address, since that is the primary way in which we will communicate with you about your account and your orders.
 
   
 
