@@ -124,5 +124,5 @@ Your use of our products and services, and any disputes arising from them, is su
 
 For questions or concerns, please contact Consumer Services/Privacy at: 1-800-806-6453 or Nike Consumer Services/Privacy, One Bowerman Drive, Beaverton, OR 97005.
 
-Was this answer helpful? Rate answer 1 of 5 Rate answer 2 of 5 Rate answer 3 of 5 Rate answer 4 of 5 Rate answer 5 of 5    Please tell us how we can make this answer more useful. FAQ Feedback – How can we improve this answer? \*Required  
+  
 Stores Near You Get Help Terms of Use Privacy Policy ©2013 NIKE, Inc. All Rights Reserved
