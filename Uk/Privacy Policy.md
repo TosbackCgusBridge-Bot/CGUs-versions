@@ -6,7 +6,7 @@ The Privacy Policy also gives information about cookies. Yahoo's and third parti
 
 This Privacy Policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies. You can find more information on the acquired companies page.
 
-Within the section “Topics” you can find detailed information on special topics like cookies and IP addresses. In the section “Products”, you can find additional guidance about our privacy practices relating to particular products or services. "Yahoo” means Yahoo! EMEA Limited (based in Ireland). If you are a Sky | Yahoo Mail user, "Yahoo" means Yahoo UK Limited in relation to your use of Mail, Messenger (in webmail), Calendar and Addresses.
+Within the section “Topics” you can find detailed information on special topics like cookies and IP addresses. In the section “Products”, you can find additional guidance about our privacy practices relating to particular products or services. "Yahoo” means Yahoo! EMEA Limited (based in Ireland). If you are a Sky | Yahoo Mail user, "Yahoo" means Yahoo! UK Services Limited in relation to your use of Mail, Messenger (in webmail), Calendar and Addresses.
 
 We will only use the information that we collect about you (in accordance with the Irish Data Protection Acts 1988 – 2003 (the DP Acts).
 
