@@ -23,7 +23,7 @@ Gift Cards | Offers | Visa Signature
     *   Penguins of Madagascar
     *   The Imitation Game
     *   Antarctica: A Year on Ice
-    *   The Babadook
+    *   The Babadook (2014)
     *   Before I Disappear
     *   Remote Area Medical
     *   Touch the Wall
@@ -324,9 +324,9 @@ Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase. BUY TIC
 
 Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
-**Interstellar Sweepstakes**
+**The Hobbit Free Gift**
 
-You could win an XCOR trip to the FRONTIER OF SPACE! BUY TICKETS
+FREE E-BOOK DOWNLOAD of ‘The Hobbit’ by J. R. R. Tolkien on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
 
 **Penguins Collectible Gift Cards**
 
