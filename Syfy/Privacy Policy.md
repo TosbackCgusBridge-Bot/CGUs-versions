@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Sin City Sin City
+Syfy Video Good Riddance and Goodbye Good Riddance and Goodbye
 
-When the Romans take the city, Spartacus decides their best move is to run. And Gannicus proves himself worthy of all the praise thats so often heaped on him.
+When the Spartacus Rebel Army takes the valley, everyone finally gets a chance to party and celebrate the fact that Crixus is leaving. And Agron and Nasir have one of their best scenes ever
+
+The End The End
+
+Crixus, the undefeated Gaul. The Primus. The dude who saved Naevia. And the tragic and yet somehow noble end of his story.
+
+Sin City Sin City
+
+When the Romans take the city, Spartacus decides their best move is to run. And Gannicus proves himself worthy of all the praise that's so often heaped on him.
 
 Finish Him Finish Him
 
 So that pirate was sort of a happy dude and well-liked character. Until this scene, which also happens to be a pretty brutal death. Well done, Laeta.
-
-Et tu, Judas Et tu, Judas
-
-The pirate Heracleo betrays team Spartacus, Caesar stabs Spartacus, Agron does an amazing spin down a rope, and Crixus and Naevia return to fight for the city. A real action packed sequence.
-
-Haters Gonna Hate, Hate, Hate. Haters Gonna Hate, Hate, Hate.
-
-Caesar: spreading news and making everyone hate each other. When Crixus gets wind of his tale, he confronts Agron head-on.
 
 *   FAQ
 *   Feedback
