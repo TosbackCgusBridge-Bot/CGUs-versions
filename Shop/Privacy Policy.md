@@ -266,15 +266,17 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     2.  Lenovo &. Think Product Support
     3.  Network Storage Support – LenovoEMC
     4.  Network Storage Support – IBM
-    5.  x86 Servers (IBM) Support
+    5.  System x Server Support
     6.  See all Support
 4.  Contact Us
     1.  See all Contact Us
     2.    **Help placing an order**  
         24 hours a day, 7 days a week  
           
-        **Call 1-855-2-LENOVO (1-855-253-6686)**  
-        Extended Holiday Hours!  
+        **Call 1-855-2-LENOVO (1-855-253-6686), Option 1**  
+        **Outlet sales: Call 1-877-698-4465, Option 1**  
+          
+        **Extended Holiday Hours!**  
         Now through December 28:  
         Monday - Friday 9am-9pm EST  
         Saturday 9am-7pm EST  
@@ -285,21 +287,18 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         Saturday - Sunday 9am-5:30pm (EST)  
           
         **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
-        Extended Holiday Hours!  
+          
+        **Extended Holiday Hours!**  
         Now through December 28:  
         Monday - Friday 9am-9pm EST  
         Saturday 9am-7pm EST  
         Sunday 9am-6pm EST
-    5.   **Help with an Outlet order**  
-        Call 1-877-698-4465, option 3  
-        Monday - Friday 9am - 9pm EST  
-        Saturday 9am - 6pm EST
-    6.    **Payment issues**  
+    5.    **Payment issues**  
         Call 1-800-426-3325, option 1  
         Monday - Friday, 9am - 6pm (EST)
-    7.    **Need More Help?**  
+    6.    **Need More Help?**  
         More ways to **contact Lenovo**
-    8.  See all Contact Us
+    7.  See all Contact Us
 5.  Email Sign-Up
 6.  My Account
 7.  Cart
