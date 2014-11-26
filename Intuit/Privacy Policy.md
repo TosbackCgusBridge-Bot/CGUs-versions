@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13144155589
+true true 10.60.248.10 L13144496396
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Mon Nov 24 11:24:19 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Tue Nov 25 03:14:29 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,19 +45,29 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
+Free Shipping on All Orders Over $49
 
-Held over. Ends November 24. Select original, regular, sale and clearance-priced items.
+With Code: SAVEFSH
 
-Extra 25% Off\* with your JCPenney Credit Card. \*25% Off subject to credit approval.
+get detailsIn Store and Online \*See exclusions and details.
 
-Or, Extra 20% Off\* with any other method of payment.
+Extra 25% Off\* select apparel, shoes, accessories, fine jewelry and home.
 
-Or, Extra 10% Off\* watches, furniture, mattresses, custom blinds and shades, optical and portrait.
+OPEN through 1PM In Store.
 
-Online Code: VIPEVENT
+12AM-1PM CST. Online Code: FAMILY
 
-\*See exclusions and details Pre-Black Friday Specials
+print store coupon
+
+Extra 20% Off\* select apparel, shoes, accessories, fine jewelry and home.
+
+1PM until CLOSE In Store.
+
+1PM through 11:59 CST. Online Code: TOGETHER
+
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+
+print store coupon Pre-Black Friday Specials
 
 Online only. New specials every day.
 
@@ -67,38 +77,44 @@ shop now
 
 *   One day only.
     
-    $24.99 select Hamilton Beach slow cooker
+    Disney excluded from coupon above.
+    
+    $39.99 Disney Frozen comforter in any size.
 *   One day only.
     
-    $21.99 select Stafford microfleece robe
+    $21.99 select men's St. John's Bay worry-free pants
 *   One day only.
     
-    $9.99 each Made for Life velour hoodie or pants
+    $65 Off Free Country 3-1 systems jacket
 
 *   One day only.
     
-    $24.99 select Pure Perfection 6-pc. towel set
+    $17.99 select Bella diamonds 2-slice toaster
 *   One day only.
     
-    $24.99-$29.99 select boys' and girls' puffer jackets
+    40% Off select women's slippers
 *   One day only.
     
-    50% Off select men's Clarks slippers
-    
-    Claks excluded from coupon.
-    
+    $12.99 select St. John's Bay, jcp, a.n.a and Worthington sweaters
 
+*   One day only.
+    
+    $8.99 select Disney classic dolls and figurine sets
+    
+    Disney collection. Excluded from coupon. Only at JCPenney.
+    
+*   One day only.
+    
+    45-65% Off select fashion jewelry and fashion silver
 *   Jingle More Bells
     
-    shop holiday gifts
-*   One day only.
-    
-    70% Off select gold jewelry 70% Off select silver jewelry
-*   One day only.
-    
-    60% Off Mixit sleepwear
+    $24.99 select crossbody bags
 
-Stores Open Thursday 5PM see store hours view store adThanksgiving Coupon Giveaway!
+$25 Off $25
+
+In store only. Receive a $25 off $25 coupon when you spend $100 or more on JCPenney gift cards in store, November 25 through 29.
+
+get details Stores Open Thursday 5PM see store hours view store adThanksgiving Coupon Giveaway!
 
 Instant savings at the door, while supplies last!
 
@@ -110,7 +126,7 @@ Or, $10 Off $10 or more savings coupon. Valid Thursday and Friday only.
 
 Includes Doorbusters and Big Buys!
 
-get details 40-50% Off Select Women's Sleepwear shop women's sleepwear 60% Off Select Stafford Sleep Pants shop Stafford sleep pants 40-50% Off Select Kids' Sleepwear shop kids' sleepwear 25-50% Off Select Women's Boots shop women's boots 40-60% Off Select Fine Jewelry and Bijoux Bar shop fine jewelry and Bijoux Bar $14.99 Select Juniors' Sweaters shop juniors' sweaters Home Sale
+get details 40-50% Off Select Women's Coats shop women's coats 40-50% Off Select Men's Dress Shirts shop men's dress shirts 50% Off Select Kids' Coats and Jackets shop kids' coats 25-50% Off Select Women's Boots shop women's boots 20-50% Off Select Fine and Fashion Watches shop watches 40% Off Select Activewear For Her shop women's activewear Home Sale
 
 Select styles.
 
