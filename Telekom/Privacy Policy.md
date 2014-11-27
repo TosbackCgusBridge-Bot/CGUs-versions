@@ -90,7 +90,9 @@ Widerruf zur Datenspeicherung:
 Nach § 15 des Telemediengesetzes können Webseitenbesucher der Datenspeicherung Ihrer pseudonymisiert erfassten Besucherdaten widersprechen, so dass sie in Zukunft nicht mehr erhoben (erfasst) werden.  
 Für den Ausschluss vom Webtrekk Web-Controlling wird ein Cookie mit dem Namen webtrekkOptOut von der Domain Webtrekk.net gesetzt. Dieser Widerspruch gilt so lange, wie Sie das Cookie nicht löschen, maximal jedoch für die Lebensdauer des Cookies von 60 Monaten. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen.  
 Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link:  
-http://www.webtrekk.com/
+Cookie zum Widerspruch (Opt-out) setzen.
+
+Weitere Informationen finden Sie auf der Website der Webtrekk GmbH, Hannoversche Str. 19, 10115 Berlin, http://www.webtrekk.com/
 
 Webseiten-Analyse mit AT Internet:
 
