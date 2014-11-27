@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Good Riddance and Goodbye Good Riddance and Goodbye
+Syfy Video Helix Season 2: The Characters Helix Season 2: The Characters
 
-When the Spartacus Rebel Army takes the valley, everyone finally gets a chance to party and celebrate the fact that Crixus is leaving. And Agron and Nasir have one of their best scenes ever
+Learn who's who in Helix Season 2. Helix returns January 16 at 10/9c
 
-The End The End
+Helix Season 2: The Island Helix Season 2: The Island
 
-Crixus, the undefeated Gaul. The Primus. The dude who saved Naevia. And the tragic and yet somehow noble end of his story.
+Explore the setting for Helix's second season. Helix returns January 16 at 10/9c
 
-Sin City Sin City
+Helix Season 2: What's It About? Helix Season 2: What's It About?
 
-When the Romans take the city, Spartacus decides their best move is to run. And Gannicus proves himself worthy of all the praise that's so often heaped on him.
+Get the details on what will happen when Helix returns on January 16 at 10/9c
 
-Finish Him Finish Him
+Helix Catch Up Marathon: November 28 Helix Catch Up Marathon: November 28
 
-So that pirate was sort of a happy dude and well-liked character. Until this scene, which also happens to be a pretty brutal death. Well done, Laeta.
+Watch our Black Goo Marathon on November 28 and see all of Season 1  and preview Season 2!
 
 *   FAQ
 *   Feedback
