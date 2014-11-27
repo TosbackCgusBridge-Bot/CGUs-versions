@@ -6,7 +6,7 @@ PLEASE READ THIS PRIVACY POLICY BEFORE USING THE PACSUN SERVICES.
 
 OVERVIEW
 
-We value our relationship with you and your privacy is important to us. Below we describe information that we may receive for in connection with your use of the PacSun Services (as defined in our Terms of Use, available at http://www.pacsun.com/company/terms-and-conditions.html), how and why we receive it, your options, and the efforts we make to safeguard it all.
+We value our relationship with you and your privacy is important to us. Below we describe information that we may receive for in connection with your use of the PacSun Services (as defined in our Terms of Use), how and why we receive it, your options, and the efforts we make to safeguard it all.
 
 By using the PacSun Services, you are consenting to the manner in which PacSun will receive, use, disclose and otherwise manage your information, as set forth below in this Privacy Policy. Additionally, when you provide information to PacSun, you agree to provide only true, accurate, current, and complete information.
 
@@ -64,7 +64,7 @@ ELECTRONIC AND CATALOG SUBSCRIPTIONS
 
 If you sign up for our electronic and catalog subscriptions, you'll be the first to hear about up-coming sales, online exclusive discounts, contests and more. For example, you can sign up to receive our PacSun email newsletter, outlet emails, and our seasonal catalog during check-out and in various locations of the Services.
 
-You'll always be able to unsubscribe from these electronic and catalog subscriptions, and we have a Contact Preference Center where you can manage these subscriptions so you only get what you're interested in. For more information, please visit your Contact Preference Center or contact us at www.pacsun.com/contact.
+You'll always be able to unsubscribe from these electronic and catalog subscriptions, and we have a Contact Preference Center where you can manage these subscriptions so you only get what you're interested in. For more information, please visit your Contact Preference Center or contact us.
 
 ONLINE CONTESTS AND SWEEPSTAKES
 
@@ -96,9 +96,9 @@ CHILDREN
 
 The Services are not directed to persons under age 13. Users must be at least 13 years of age to access, use, or register for the Services. We do not knowingly collect, use, or disclose personal information from persons under age 13 without verifiable parental consent. If we learn that we have collected the personal information of a user under the age of 13, without first receiving verifiable parental consent, we will take steps to delete the information as soon as possible.
 
-If you are a parent and you think we have inadvertently collected personal information from your child who is under 13, you may contact us at www.pacsun.com/contact to request that we delete his or her information from our records.
+If you are a parent and you think we have inadvertently collected personal information from your child who is under 13, you may contact us to request that we delete his or her information from our records.
 
-If you are a child who is under 18, and would like more information on how you can delete comments or other content that you have posted on the Services, you may contact us at www.pacsun.com/contact to request instructions on how to delete this content from the Services.
+If you are a child who is under 18, and would like more information on how you can delete comments or other content that you have posted on the Services, you may contact us to request instructions on how to delete this content from the Services.
 
 DO NOT TRACK
 
@@ -110,7 +110,7 @@ We offer several ways for you to update your information that is obtained and st
 
 *   To modify your account information, please let us know by modifying your preferences in the "My Account" section.
 *   To unsubscribe from electronic updates, please visit your Contact Preference Center, where you can manage your subscriptions so you only get what you're interested in.
-*   You may also contact us at www.pacsun.com/contact.
+*   You may also contact us.
 
   
 
@@ -118,4 +118,4 @@ Please note that due to email production schedules you may receive any emails al
 
 CONTACT US
 
-If you have questions regarding our Privacy Policy, please contact us at www.pacsun.com/contact.
+If you have questions regarding our Privacy Policy, please contact us.
