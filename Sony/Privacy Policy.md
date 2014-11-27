@@ -1,4 +1,4 @@
-Your browser does not support JavaScript! Skip to Content Sony
+Skip to Content Sony
 
 *   Who We Are
     *   Overview
@@ -25,7 +25,7 @@ Your browser does not support JavaScript! Skip to Content Sony
 *   Contacts
     *   Overview
 
-Search Clear search input General
+Search Clear search input Your browser does not support JavaScript! General
 
 *   Terms and Conditions
 *   Privacy Policy
