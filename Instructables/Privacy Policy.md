@@ -116,6 +116,7 @@ POPULAR TOPICS
 *   Installation &. Licensing
 *   System Requirements
 *   Downloads
+*   Account Management
 
 RESOURCES
 
@@ -363,6 +364,7 @@ Support &. Learning
 *   Installation, registration &. activation
 *   System requirements
 *   Downloads
+*   Account Management
 
 *   Community resources
 *   Consulting
