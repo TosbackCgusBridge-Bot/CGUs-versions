@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13144496396
+true true L13150912926
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Tue Nov 25 03:14:29 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p39.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Wed Nov 26 11:27:21 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -55,7 +55,7 @@ Extra 25% Off\* select apparel, shoes, accessories, fine jewelry and home.
 
 OPEN through 1PM In Store.
 
-12AM-1PM CST. Online Code: FAMILY
+12AM-1PM CST. Online Code: GOODTIME
 
 print store coupon
 
@@ -63,13 +63,13 @@ Extra 20% Off\* select apparel, shoes, accessories, fine jewelry and home.
 
 1PM until CLOSE In Store.
 
-1PM through 11:59 CST. Online Code: TOGETHER
+1PM through 11:59 CST. Online Code: FEAST
 
 Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
 
 print store coupon Pre-Black Friday Specials
 
-Online only. New specials every day.
+Online only. Last day!
 
 Jingle like your last name's Kringle.
 
@@ -79,36 +79,35 @@ shop now
     
     Disney excluded from coupon above.
     
-    $39.99 Disney Frozen comforter in any size.
+    $59.99 select Basic Essentials 17-pc. nonstick cookware set
 *   One day only.
     
-    $21.99 select men's St. John's Bay worry-free pants
+    65% Off select Avanti zip-front hooded wool coat
 *   One day only.
     
-    $65 Off Free Country 3-1 systems jacket
+    $17.99 select juniors' Arizona denim
 
 *   One day only.
     
-    $17.99 select Bella diamonds 2-slice toaster
+    $29.99 reversible twin comforter available in 5 colors
 *   One day only.
     
-    40% Off select women's slippers
+    30% Off select Seiko watches
 *   One day only.
     
-    $12.99 select St. John's Bay, jcp, a.n.a and Worthington sweaters
+    $12.99 select kids' Arizona and Total Girl sleepwear
 
 *   One day only.
     
-    $8.99 select Disney classic dolls and figurine sets
+    Jingle More Bells
     
-    Disney collection. Excluded from coupon. Only at JCPenney.
-    
+    shop holiday gifts
 *   One day only.
     
-    45-65% Off select fashion jewelry and fashion silver
+    50% Off select boots for the family
 *   Jingle More Bells
     
-    $24.99 select crossbody bags
+    $12.99 select men's St. John's Bay thermal henley
 
 $25 Off $25
 
@@ -126,7 +125,7 @@ Or, $10 Off $10 or more savings coupon. Valid Thursday and Friday only.
 
 Includes Doorbusters and Big Buys!
 
-get details 40-50% Off Select Women's Coats shop women's coats 40-50% Off Select Men's Dress Shirts shop men's dress shirts 50% Off Select Kids' Coats and Jackets shop kids' coats 25-50% Off Select Women's Boots shop women's boots 20-50% Off Select Fine and Fashion Watches shop watches 40% Off Select Activewear For Her shop women's activewear Home Sale
+get details 40-50% Off Select Women's Coats shop women's coats 50% Off Select Men's Sweaters shop men's sweaters 50% Off Select Kids' Coats and Jackets shop kids' coats 25-50% Off Select Women's Boots shop women's boots 20-50% Off Select Fine and Fashion Watches shop watches 40% Off Select Activewear For Her shop women's activewear Home Sale
 
 Select styles.
 
