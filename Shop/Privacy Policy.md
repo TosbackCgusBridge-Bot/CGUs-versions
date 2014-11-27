@@ -29,16 +29,17 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  N Series: Fast-Boot Chromebooks
         8.  See all Student
     5.  Not sure what you need?
-        1.  New Product Showcase
-        2.  Best Selling &. Top Rated Laptops
-        3.  Convertibles
-        4.  Discover Yoga
-        5.  Gaming PCs
-        6.  View All Laptops
-        7.  Bags &. Carrying Cases
-        8.  Battery Finder
-        9.  Deals
-        10.  PC Finder
+        1.  Holiday Gift Guide
+        2.  New Product Showcase
+        3.  Best Selling &. Top Rated Laptops
+        4.  Convertibles
+        5.  Discover Yoga
+        6.  Gaming PCs
+        7.  View All Laptops
+        8.  Bags &. Carrying Cases
+        9.  Battery Finder
+        10.  Deals
+        11.  PC Finder
         
     6.  See all Laptops
     
@@ -74,12 +75,13 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         6.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
         7.  See all 2-in-1 Laptops
     5.  Not sure what you need?
-        1.  New Product Showcase
-        2.  Discover Yoga
-        3.  View All Tablets
-        4.  Bags &. Carrying Cases
-        5.  Deals
-        6.  PC Finder
+        1.  Holiday Gift Guide
+        2.  New Product Showcase
+        3.  Discover Yoga
+        4.  View All Tablets
+        5.  Bags &. Carrying Cases
+        6.  Deals
+        7.  PC Finder
     6.  See all Tablets
     
 3.  Desktops &. All-in-Ones
@@ -107,14 +109,15 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Erazer X Series: Extreme-Performance Gaming PCs
         2.  See all Erazer Desktops
     5.  Not sure what you need?
-        1.  New Product Showcase
-        2.  Best Selling Desktops
-        3.  Gaming PCs
-        4.  View All Desktops
-        5.  Monitors
-        6.  Keyboards &. Mice
-        7.  Deals
-        8.  PC Finder
+        1.  Holiday Gift Guide
+        2.  New Product Showcase
+        3.  Best Selling Desktops
+        4.  Gaming PCs
+        5.  View All Desktops
+        6.  Monitors
+        7.  Keyboards &. Mice
+        8.  Deals
+        9.  PC Finder
         
     6.  See all Desktops &. All-in-Ones
     
@@ -235,12 +238,13 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     2.  Current Offers
         1.  Doorbuster Deals
         2.  Black Friday Sale
-        3.  ThinkPad &. ThinkCentre QuickShips
-        4.  Accessories Stocking Stuffers
-        5.  Bing Page Deals
-        6.  Deals for Students and Educators
-        7.  Outlet
-        8.  See all Current Offers
+        3.  Holiday Gift Guide
+        4.  ThinkPad &. ThinkCentre QuickShips
+        5.  Accessories Stocking Stuffers
+        6.  Bing Page Deals
+        7.  Deals for Students and Educators
+        8.  Outlet
+        9.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
@@ -263,13 +267,6 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     12.  See all For Work
 3.  Support
     1.  See all Support
-    2.  Lenovo &. Think Product Support
-    3.  Network Storage Support – LenovoEMC
-    4.  Network Storage Support – IBM
-    5.  System x Server Support
-    6.  See all Support
-4.  Contact Us
-    1.  See all Contact Us
     2.    **Help placing an order**  
         24 hours a day, 7 days a week  
           
@@ -293,15 +290,24 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         Monday - Friday 9am-9pm EST  
         Saturday 9am-7pm EST  
         Sunday 9am-6pm EST
-    5.    **Payment issues**  
+    5.   **Technical Support**  
+        **Laptop, Desktop, Tablet, Workstation and ThinkServer Support**  
+        PC, Tablet, Workstation or ThinkServer support information?
+    6.  **System x Server Support**  
+        Support information for X86 specific issues and questions
+    7.  **Network Storage Support**  
+        Support information for Lenovo, LenovoEMC &. Iomega products
+    8.  **Accessories, Options and Monitors**  
+        Support for these extras
+    9.    **Payment issues**  
         Call 1-800-426-3325, option 1  
         Monday - Friday, 9am - 6pm (EST)
-    6.    **Need More Help?**  
+    10.    **Need More Help?**  
         More ways to **contact Lenovo**
-    7.  See all Contact Us
-5.  Email Sign-Up
-6.  My Account
-7.  Cart
+    11.  See all Support
+4.  Email Sign-Up
+5.  My Account
+6.  Cart
 
 View Your Results Offers
 
