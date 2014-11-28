@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13150912926
+true true C13027100319
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p39.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Wed Nov 26 11:27:21 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Thu Nov 27 03:05:56 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,111 +45,183 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Free Shipping on All Orders Over $49
+Black Friday Starts Now
 
-With Code: SAVEFSH
+it's our biggest jingle sale ever. Stores open today at 5PM.
 
-get detailsIn Store and Online \*See exclusions and details.
+Doorbusters and Big Buys start now!
 
-Extra 25% Off\* select apparel, shoes, accessories, fine jewelry and home.
+get details
 
-OPEN through 1PM In Store.
+Thanksgiving Coupon Giveaway! Instant savings at the door while supplies last!
 
-12AM-1PM CST. Online Code: GOODTIME
+One in every 100 coupons is a Super-Savings Coupon! $100 Off $100 or more Super-Saving coupon valid until December 24, 2014.
 
-print store coupon
+Or, $10 Off $10 or more Savings coupon valid Thursday and Friday only.
 
-Extra 20% Off\* select apparel, shoes, accessories, fine jewelry and home.
+Coupon includes Doorbusters and Big Buys!
 
-1PM until CLOSE In Store.
-
-1PM through 11:59 CST. Online Code: FEAST
-
-Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-print store coupon Pre-Black Friday Specials
-
-Online only. Last day!
-
-Jingle like your last name's Kringle.
-
-shop now
-
-*   One day only.
-    
-    Disney excluded from coupon above.
-    
-    $59.99 select Basic Essentials 17-pc. nonstick cookware set
-*   One day only.
-    
-    65% Off select Avanti zip-front hooded wool coat
-*   One day only.
-    
-    $17.99 select juniors' Arizona denim
-
-*   One day only.
-    
-    $29.99 reversible twin comforter available in 5 colors
-*   One day only.
-    
-    30% Off select Seiko watches
-*   One day only.
-    
-    $12.99 select kids' Arizona and Total Girl sleepwear
-
-*   One day only.
-    
-    Jingle More Bells
-    
-    shop holiday gifts
-*   One day only.
-    
-    50% Off select boots for the family
-*   Jingle More Bells
-    
-    $12.99 select men's St. John's Bay thermal henley
-
-$25 Off $25
+get details view store ad $25 Off $25
 
 In store only. Receive a $25 off $25 coupon when you spend $100 or more on JCPenney gift cards in store, November 25 through 29.
 
-get details Stores Open Thursday 5PM see store hours view store adThanksgiving Coupon Giveaway!
+get details Doorbusters
 
-Instant savings at the door, while supplies last!
+Online: All day Thanksgiving through Friday 1PM CST. In store: 5PM Thanksgiving through Friday 1PM CST. While supplies last.
 
-1 in every 100 coupons is a super-savings coupon!
+$2.99 select Home Expressions 27"x54" bath towels
 
-$100 Off $100 or more super-savings coupon. Valid until December 24.
+shop now
 
-Or, $10 Off $10 or more savings coupon. Valid Thursday and Friday only.
+$9.99 after $10 mail-in rebate. Select small appliances. Sale $19.99
 
-Includes Doorbusters and Big Buys!
+shop now
 
-get details 40-50% Off Select Women's Coats shop women's coats 50% Off Select Men's Sweaters shop men's sweaters 50% Off Select Kids' Coats and Jackets shop kids' coats 25-50% Off Select Women's Boots shop women's boots 20-50% Off Select Fine and Fashion Watches shop watches 40% Off Select Activewear For Her shop women's activewear Home Sale
+Extra 30% Off select fine jewelry. Already reduced 40-65%. Additional styles available.
 
-Select styles.
+shop now
 
-shop the home sale
+$19.99 select boots for women juniors and kids
 
-30-50% Off Kitchen and Dining
+shop now
 
-shop kitchen and dining
+60% Off select St. John's Bay apparel
 
-30-50% Off Bedding and Bath
+shop now
 
-shop bedding and bath
+Women's Doorbusters
 
-40-50% Off Furniture and Mattresses
+see all
 
-shop furniture and mattresses
+60% Off select Liz Claiborne apparel
 
-40-50% Off Window
+shop now
 
-shop window
+60% Off select coats
 
-40-60% Off Luggage
+shop now
 
-shop luggage Jingle More Bells shop holiday gifts JCP Rewards
+60% Off select Xersion for her
+
+shop now
+
+$14.99 select crossbody bags
+
+shop now
+
+60% Off select juniors' Arizona
+
+shop now
+
+60% Off select Worthington apparel
+
+shop now
+
+60% Off select Carter's apparel and sleepwear
+
+shop now
+
+$29.99 select Bella galleria 16-pc. dinnerware set
+
+shop now
+
+Men's Doorbusters
+
+see all
+
+50% Off select men's underwear when you buy 2 or more
+
+shop now
+
+Any size $9.99 Home Expressions jacqueline rod-pocket sheer 2-pack
+
+shop now
+
+Any size $14.99 Sun Zero emory 2-pack room darkening panels
+
+shop now
+
+$49.99 cooks 10-pc. ceramic nonstick cookware set
+
+shop now
+
+50-70% Off all comforter sets
+
+shop now
+
+$39.99 Protocol Roman 4-pc. luggage set
+
+shop now
+
+50-70% Off select sleepwear and slippers
+
+shop now
+
+kids and baby Doorbusters
+
+shop now shop now
+
+35-50% Off select watches
+
+shop now
+
+$159.99-$379.99 select diamond stud earrings
+
+shop now
+
+$11.99 select girls' Arizona sweaters
+
+shop now
+
+$14.99 guys' Arizona jeans
+
+shop now
+
+$34.99 select men's and women's athletic shoes
+
+shop now
+
+$9.99 select men's St. John's Bay flannel
+
+shop now
+
+$8.99 select men's Stafford sleep pants
+
+shop now
+
+$7.99-$14.99 select bras
+
+shop now
+
+Home Doorbusters
+
+see all
+
+$4.99-$9.99 select Disney mini and medium plush.
+
+Disney Collection. Only at JCPenney. Excluded from coupon
+
+shop now
+
+$9.99 select Stafford broadcloth dress shirts
+
+shop now
+
+$7.99 after $12 mail-in rebate. Sale $19.99.
+
+cooks 10-speed hand mixer
+
+12-pc. power blender
+
+shop now
+
+$14.99 select men's St. John's Bay, Claiborne and JF J.Ferrar sweaters
+
+shop now
+
+$5.99 select boys' and girls' Arizona thermal top and graphic tees
+
+shop now Jingle More Bells shop holiday gifts JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
