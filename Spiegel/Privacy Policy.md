@@ -430,8 +430,6 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Kredit-  
     vergleich
 *   Versicherungen
-*   Ophirum-  
-    Goldshop
 
 *   Home
 *   Politik
