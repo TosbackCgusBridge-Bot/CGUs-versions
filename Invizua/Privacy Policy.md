@@ -15,7 +15,6 @@ Home Omniscope Download Forums Support Company   Knowledge Base
 *   Legal-Small Print
     *   EULA
     *   Support Agreement
-    *   Commercial Publishing
     *   3rd Party Licenses
     *   Privacy Policy
     *   Site attributions
