@@ -1,5 +1,5 @@
 *   Products
-    *   Mobile App
+    *   Mobile CRM app
     *   Phone Remote
 *   Enterprises
 *   Partners
@@ -11,7 +11,7 @@
     *   Contact
 
 *   Products
-    *   Mobile App
+    *   Mobile CRM app
     *   Phone Remote
 *   Enterprises
 *   Partners
