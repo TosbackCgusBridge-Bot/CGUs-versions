@@ -69,7 +69,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Mel Gibson may direct Andrew Garfield in war movie. plus, new 'Fifty Shades' TV spot Read More 'Zoolander 2' is totally happening. here's what we know so far Read More And Chris Pratt's next comic book movie is.... Plus, 'X-Men' casting buzz Read More Explore More
+*   Movie News Featured Movie News 'Star Wars: The Force Awakens' Trailer: You've waited 30 years to watch this Read More 'Zoolander 2' is totally happening. here's what we know so far Read More And Chris Pratt's next comic book movie is.... Plus, 'X-Men' casting buzz Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -328,9 +328,9 @@ Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
 
 FREE E-BOOK DOWNLOAD of ‘The Hobbit’ by J. R. R. Tolkien on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
 
-**Penguins Collectible Gift Cards**
+**Holiday Gift Cards**
 
-Being an undercover Penguin is hard, but gift giving is easy. Penguins of Madagascar collectible gift cards. The perfect stocking stuffer. BUY GIFT CARDS
+Give a Gift, Get a Gift. Free\* Movie Ticket with gift card orders of $75+ BUY GIFT CARDS
 
 New + Coming Soon
 
