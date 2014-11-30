@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  Cecilia
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13031054903
+true true C13040470535
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Fri Nov 28 02:46:34 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p40.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sat Nov 29 11:29:10 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,77 +45,99 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Black Friday
+Our Biggest Super Saturday of Them All
 
-it's our biggest jingle sale ever.
+a little jingle goes a long way
 
-See all the deals.
+shop the sale view store ad Today Only
 
-view store ad $25 Off $25
+In Store Only
 
-In store only. Receive a $25 off $25 coupon when you spend $100 or more on JCPenney gift cards in store. November 25 through 29.
+$10 Off\* $25 or more
+
+get coupon
+
+Online Only
+
+Extra $10 Off\* $50 or more.
+
+Or, Extra $30 Off\* $100 or more.
+
+Use Code: SATURDAY
+
+In Store and Online
+
+Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Use Code: ACTNOW
+
+\*All offers apply to select original, regular, sale and clearance-priced items. Ends November 29.
+
+\*See exclusions and details. Night and Day Doorbusters
+
+In store only. Ends at 1PM.
+
+view Doorbusters store ad $25 Off $25
+
+In store only. Earn a Bonus Cash Coupon for $25 off $25 coupon when you spend $100 or more on JCPenney gift cards in store. November 25 through 29.
 
 get details Big Buys
 
-In store and online: While they last!
+In store and online while they last!
 
-view Big Buys
-
-$49.99 select St. John's Bay peacoats
+50% Off select women's coats
 
 shop now
 
-$79.99 select diamond sets
+$19.99 select boys' Levi's 550™ relaxed fit jeans
+
+Regularly $40. Excluded from coupon.
 
 shop now
 
-$7.99 select Made For Life brushed fleece
+$59.99 after $20 mail-in rebate Cooks 10-pc. hard anodized cookware set
 
 shop now
 
-$49.99 select Claiborne coats
+25% Off all Nike fleece
 
 shop now
 
-$29.99 select men's Haggar work to weekend pants
+$9.99 Made for Life velour jackets or pants
 
 shop now
 
-$31.99 men's Dockers signature khakis
+Big Buys for Women
+
+shop now
+
+$9.99 select men's Stafford sleep pants
+
+shop now
+
+$228.56 select diamond stud earrings
+
+shop now
+
+$6.99 select boys' and girls' comfy fleece
+
+shop now
+
+$31.99 men's Dockers signature khaki pants
 
 Regularly $58.
 
 shop now
 
-$14.99 select women's pajama sets
+$79.99 NutriBullet blender
 
 shop now
 
-25% Off all men's Nike fleece
+$12.99 select sweaters for her
 
 shop now
 
-$7.99 select guys' Arizona thermals
-
-shop now
-
-$9.99 select sweaters for her
-
-shop now
-
-$9.99 select boys' and girls' Xersion cotton fleece
-
-shop now
-
-$9.99 select boys' and girls' Arizona denim
-
-shop now
-
-$9.99 select Disney night shirts and sleep sets
-
-shop now
-
-$19.99 JCPenney Home 300-tc. easy care sheet set
+$19.99 JCPenney Home 300-tc. easy care sheet sets, any size
 
 shop now
 
@@ -123,63 +145,71 @@ $19.99 Royal Velvet encore lined or plaza blackout lined 84" curtain panels
 
 shop now
 
-$99.99 Keurig K-45 single serve coffee brewer
+Big Buys for Men
 
 shop now
 
-60% Off mont claire 13-pc. bedding set with bonus sheet set
+$14.99 select women's pajama sets
 
 shop now
 
-$9.99 select juniors' Arizona sweaters
+50-70% Off select kids' and adult bedding
 
 shop now
 
-$7.99 JCP Home classic standard/queen size 2-pk. pillow
+$4.88 JCPenney Home solid or striped bath towel
 
 shop now
 
-$299 Modena recliner
+$7.99 voile or crushed voile 84" rod-pocket sheer panel
 
 shop now
 
-$34.99 Martha Window hampton leaf or basketweave 84" curtain panels
+$6.99 select boys' and girls' sleep separates
 
 shop now
 
-$12.99 entire stock Playtex 18-hour bra
+50% Off select cold-weather accessories
 
 shop now
 
-$99.99 select jewelry boxes and armoires
+Big Buys for Kids
 
 shop now
 
-50-70% Off select cold-weather accessories
+Big Buys for Baby
 
 shop now
 
-$899.99 select Modern Bride three-stone rings
+$37.99 select birthstone jewelry
+
+Additional styles available.
 
 shop now
 
-$5.99 select knits and camis for her
+50% Off select faux-fur boots for the family
+
+shop now
+
+$39.99 select men's and women's Nike athletic shoes
+
+shop now
+
+$16.99 select wristlets
+
+shop now
+
+$5.99 select camis and knits for her
+
+shop now
+
+60% Off select heated throws and mattress pads
 
 shop now
 
 $39.99 Levi's 501™ original fit jeans
 
-Regularly $68.
-
-shop now
-
-$14.99 select Worthington essential pants
-
-shop now
-
-$29.99 women's Levi's mid rise skinny jeans
-
-Regularly $54. Excluded from coupon.
+Originally $68. Excluded from coupon.
 
 shop now
 
@@ -187,11 +217,27 @@ $12.99 select juniors' Arizona color denim
 
 shop now
 
-$4.88 JCPenney Home 30"x54" solid or striped bath towel
+Big Buys for Home
 
 shop now
 
-$5.99 select boys' and girls' sleep pants
+$9.99 select juniors' Arizona sweaters
+
+shop now
+
+$12.99 entire stock Playtex 18-hour bra
+
+shop now
+
+50% Off select Carter's apparel and sleepwear
+
+shop now
+
+$19.99 select a.n.a, jcp and St. John's Bay jeans for her
+
+shop now
+
+$99.99 select fine watches
 
 shop now Jingle More Bells shop holiday gifts JCP Rewards
 
