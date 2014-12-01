@@ -263,9 +263,9 @@ Helix Season 2: What's It About? Helix Season 2: What's It About?
 
 Get the details on what will happen when Helix returns on January 16 at 10/9c
 
-Helix Catch Up Marathon: November 28 Helix Catch Up Marathon: November 28
+So Say We All So Say We All
 
-Watch our Black Goo Marathon on November 28 and see all of Season 1  and preview Season 2!
+A captured Tiberius tells his men not to participate in the games, is met by Kore, and everyone puts on their best gladiator gear. It's time that Team Spartacus returns to what they're best at: gladiating in front of a rowdy crowd.
 
 *   FAQ
 *   Feedback
