@@ -94,7 +94,7 @@ Keeping your account information up-to-date is very important.  You may review,
 
 Protecting Children's Online Privacy
 
-Capital One encourages protection of children’s information on the internet.  We do not intentionally collect personal information from children under 13 on our website without first obtaining consent from their parents or legal guardians.  For more information about the Children’s Online Privacy Protection Act (COPPA) please refer to the FTC’s website at http://www.ftc.gov/privacy/privacyinitiatives/childrens.html.  
+Capital One encourages protection of children’s information on the internet.  We do not intentionally collect personal information from children under 13 on our website without first obtaining consent from their parents or legal guardians.  For more information about the Children’s Online Privacy Protection Act (COPPA) please refer to the FTC’s website at http://www.business.ftc.gov/privacy-and-security/children%27s-privacy.  
 
 Links  
 
