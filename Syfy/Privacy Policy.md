@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Helix Season 2: The Characters Helix Season 2: The Characters
+Syfy Video Face Off: Return of the Champions Face Off: Return of the Champions
+
+Theyre baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
+
+Helix: Season 2 Extended Sneak Peek Helix: Season 2 Extended Sneak Peek
+
+The CDC team has found a new disease  and its not pretty. Helix returns January 16 at 10/9c.
+
+Helix Season 2: The Characters Helix Season 2: The Characters
 
 Learn who's who in Helix Season 2. Helix returns January 16 at 10/9c
 
 Helix Season 2: The Island Helix Season 2: The Island
 
 Explore the setting for Helix's second season. Helix returns January 16 at 10/9c
-
-Helix Season 2: What's It About? Helix Season 2: What's It About?
-
-Get the details on what will happen when Helix returns on January 16 at 10/9c
-
-So Say We All So Say We All
-
-A captured Tiberius tells his men not to participate in the games, is met by Kore, and everyone puts on their best gladiator gear. It's time that Team Spartacus returns to what they're best at: gladiating in front of a rowdy crowd.
 
 *   FAQ
 *   Feedback
