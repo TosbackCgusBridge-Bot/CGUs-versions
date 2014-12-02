@@ -10,7 +10,7 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
-    *   Web Busters
+    *   Cyber Monday Deals
     *   Gift Guide
     *   United XXVI
     *   Bethany Mota
@@ -46,7 +46,7 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
-    *   Web Busters
+    *   Cyber Monday Deals
     *   Gift Guide
     *   Cold Weather Shop
     *   United XXVI
