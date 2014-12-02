@@ -269,7 +269,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     1.  See all Deals
     2.  Current Offers
         1.  Doorbuster Deals
-        2.  Black Friday Sale
+        2.  Cyber Monday Sale
         3.  Holiday Gift Guide
         4.  ThinkPad &. ThinkCentre QuickShips
         5.  Accessories Stocking Stuffers
