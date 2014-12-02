@@ -5,29 +5,27 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   The Hunger Games: Mockingjay - Part 1
+    *   Penguins of Madagascar
     *   Big Hero 6
     *   Interstellar
+    *   Horrible Bosses 2
     *   Dumb and Dumber To
-    *   Gone Girl
-    *   Beyond the Lights
-    *   St. Vincent
-    *   Fury (2014)
-    *   Birdman
     *   The Theory of Everything
-    *   Nightcrawler
+    *   Gone Girl
+    *   Birdman
+    *   St. Vincent
+    *   Beyond the Lights
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Horrible Bosses 2
-    *   Penguins of Madagascar
-    *   The Imitation Game
-    *   Antarctica: A Year on Ice
-    *   The Babadook (2014)
-    *   Before I Disappear
-    *   Remote Area Medical
-    *   Touch the Wall
-    *   Women Who Flirt
+    *   The Pyramid
+    *   Wild
+    *   Inside the Mind of Leonardo 3D
+    *   Life Partners
+    *   She's Beautiful When She's Angry
+    *   Comet
+    *   Pioneer (2014)
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -37,7 +35,6 @@ Gift Cards | Offers | Visa Signature
     
     Coming Soon
     
-    *   The Pyramid
     *   Top Five
     *   Annie (2014)
     *   The Hobbit: The Battle of the Five Armies
@@ -47,6 +44,7 @@ Gift Cards | Offers | Visa Signature
     *   Blackhat
     *   Paddington
     *   The Wedding Ringer
+    *   Mortdecai
     *   See All Coming Soon
     
     Explore More
@@ -334,14 +332,14 @@ Give a Gift, Get a Gift. Free\* Movie Ticket with gift card orders of $75+ BUY G
 
 New + Coming Soon
 
-*   Big Hero 6
-*   Interstellar
-*   Penguins of Madagascar
 *   The Hunger Games: Mockingjay - Part 1
-*   Horrible Bosses 2
+*   Penguins of Madagascar
 *   Exodus: Gods and Kings
 *   The Hobbit: The Battle of the Five Armies
 *   Annie (2014)
+*   Night at the Museum: Secret of the Tomb
+*   Into the Woods
+*   Taken 3
 
 Experience + Explore
 
