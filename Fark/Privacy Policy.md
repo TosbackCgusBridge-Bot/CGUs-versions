@@ -21,10 +21,10 @@
 > 
 > Copyrights and Copyright Agents. We respect the intellectual property of others, and we ask you to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information (see 17 U.S.C. 512 (c)(3) for further detail):
 > 
-> *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
-> *   Description of the copyrighted work that you claim has been infringed.
-> *   A description of where the material that you claim is infringing is located on Fark.com.
-> *   Your address, telephone number, and email address.
+> *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+> *   Description of the copyrighted work that you claim has been infringed;
+> *   A description of where the material that you claim is infringing is located on Fark.com;
+> *   Your address, telephone number, and email address;
 > *   A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law. and
 > *   A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 > 
