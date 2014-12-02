@@ -197,32 +197,24 @@ All disputes regarding these Terms of Service, with the exception of copyright c
 
 More From National Geographic
 
-*   Help Save the Colorado River
+*   Let's Walk
     
-*   Quiz: Coal vs. Natural Gas
+*   Meet the Adventurers
     
-*   Exploring the Deep
+*   Your Puppy Pictures
     
-*   Video: Meet Mel
-    
-*   Shipping Container Homes
-    
-*   Visualizing Our Water Footprint
-    
-*   Time-Lapse Dam Removal
-    
-*   Photos: Waterscapes
-    
-*   Photos: Great Barrier Reef
-    
-*   Population 7 Billion
-    
-*   Places of a Lifetime
+*   Explorer Moment of the Week
     
 *   Extreme Photos
     
-*   Your Hawaii Photos
+*   Are We Eating Correctly?
     
-*   Photos: Alien "Hot Spots"
+*   Best Winter Trips 2015
     
-*   Your Puppy Pictures
+*   Emerging Explorers
+    
+*   Puffin Therapy
+    
+*   How Do You Define Family?
+    
+*   Discover Your Heritage
