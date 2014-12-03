@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13043998079
+true true C13052488876
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Mon Dec 01 02:41:14 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Tue Dec 02 10:51:10 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,187 +45,48 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-CyberDeals
-
-it's our biggest cyber sale ever! over 50,000 items
-
-Ends December 1.
-
-Online Code: CYBRMNDY
-
-Select original, regular, sale and clearance-priced items.
-
-shop the deals
-
-Online Only
-
-Extra 30% Off\* $100 or more.
-
-In Store and Online
-
-Extra 20% Off\*
-
-Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades
-
-\*See exclusions and details. get store coupon Super Cyber Busters
-
-Sunday and Monday while supplies last.
-
-shop now
-
-$39.99 women's quilted puffer bus stop coat
-
-Originally $175.
-
-shop now
-
-$19.99 women's Mixit robe
-
-Originally $50.
-
-shop now
-
-$14.99 select guys' Arizona fleece
-
-Originally $38-$42.
-
-shop now
-
-$12.99 select Worthington, St. John's Bay, jcp and a.n.a sweaters for her
-
-shop now
-
-$39.99 select men's Free Country jackets
-
-shop now
-
-$12.99 select juniors' Arizona color denim
-
-Online only.
-
-shop now
-
-60% Off select men's slippers
-
-shop now
-
-$14.99 men's Stafford wrinkle free oxford
-
-Originally $30.
-
-shop now
-
-$31.99 men's Dockers signature khakis
-
-Regularly $58.
-
-shop now
-
-$21.99 boys' and girls' V9 puffer coats
-
-Originally $60-70.
-
-shop now
-
-50-55% Off select boys' and girls' dress clothes
-
-shop now
-
-15-20% Off select baby furniture
-
-Online only.
-
-shop now
-
-$9.99 select boys' and girls' Xersion fleece
-
-shop now
-
-Any size $69.99 7-pc. jacquard comforter sets
-
-shop now
-
-$59.99 after $20 mail-in rebate 12 pc. signature cookware set
-
-Sale $79.99.
-
-shop now
-
-$14.99 select plus sweaters and jeans
-
-Online only.
-
-shop now
-
-Any size $59.99 Royal Velvet 400tc. wrinkle guard sheet set
-
-shop now
-
-$99.99 Protocol 6-pc. luggage set
-
-shop now
-
-60% Off all JCPenney Home blinds and shades
-
-shop now
-
-$329.99 triston 6-pc. dining set
-
-shop now
-
-$399.99 select 1/2 CT. T.W. diamond studs
-
-shop now
-
-$6.99 select mocknecks, turtlenecks and tees for her
-
-shop now
-
-40-50% Off select Invicta watches
-
-shop now
-
-50% Off select boots for the family
-
-shop now
-
-$49.99 men's Nunn Bush or Stacy Adams shoes
-
-shop now
-
-50% Off all St. John's Bay women's boots
-
-shop now
-
-$19.99 select a.n.a, St. John's Bay and jcp jeans
-
-shop now
-
-60-70% Off select energy-savings window including blackout and room-darkening panels
-
-shop now
-
-$9.99 select juniors' sweaters
-
-Online only.
-
-shop now
-
-$14.99 men's Stafford sleep sets
-
-Originally $40.
-
-shop now
-
-$79.99 select 3-pc. diamond set
-
-shop now
-
-$17.99 select guys' Arizona denim
-
-Originally $36.
-
-shop now Jingle More Bells shop holiday gifts JCP Rewards
+*   CyberWeek
+    
+    outclick St. Nick! Get your jingle on!
+    
+    Held over! Ends Decembrer 3.
+    
+    Online Code: CYBRMNDY
+    
+    Select original, regular, sale and clearance-priced items.
+    
+    shop the deals
+    
+    Online Only
+    
+    Extra 30% Off\* $100 or more.
+    
+    In Store and Online
+    
+    Extra 20% Off\*
+    
+    Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades
+    
+    \*See exclusions and details. get store coupon
+*   30-50% Off Home Sale
+    
+    Time to deck the halls.
+    
+    Select styles.
+    
+    shop the home sale shop home decor shop luggage shop window shop bedding and bath shop kitchen and dining shop furniture
+    
+    50% Off select 10 pc. comforter sets
+    
+    Regularly $280-$300
+    
+    shop comforters
+
+40-50% Off Select Coats for Her shop women's coats 50% Off Select Boys' and Girls' Coats and Jackets shop kids' coats 30-40% Off Select Yuu Comfort Boots shop boots 40-50% Off Select Sweaters for Her shop women's sweaters 40-50% Off Select The Foundry Supply Co. Big and Tall shop men's big and tall 40% Off Select Cold-Weather Accessories shop cold-weather accessories 40-50% Off Window
+
+Select styles.
+
+shop curtains and drapes shop blinds and shades shop curtain rods and hardware Jingle More Bells shop holiday gifts JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
