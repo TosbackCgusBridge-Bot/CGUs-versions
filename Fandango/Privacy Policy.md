@@ -21,6 +21,7 @@ Gift Cards | Offers | Visa Signature
     
     *   The Pyramid
     *   Wild
+    *   Dying of the Light
     *   Inside the Mind of Leonardo 3D
     *   Life Partners
     *   She's Beautiful When She's Angry
@@ -67,7 +68,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News 'Star Wars: The Force Awakens' Trailer: You've waited 30 years to watch this Read More 'Zoolander 2' is totally happening. here's what we know so far Read More And Chris Pratt's next comic book movie is.... Plus, 'X-Men' casting buzz Read More Explore More
+*   Movie News Featured Movie News Didja know? The new Star Wars ball-droid is based on R2D2 Read More In Bond News: Entire cast to be revealed Dec. 4. what scientist wants to play a villain? Read More A sequel to 'Frozen is in the works...or is it? Plus Jake Gyllenhaal gets ripped Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -314,9 +315,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Penguins of Madagascar Free Gift**
+Offers **Annie Free Gift**
 
-Free movie download of DREAMWORKS HOLIDAY CLASSICS with ticket purchase. BUY TICKETS
+Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
 
 **Mockingjay Part 1 Sweepstakes**
 
@@ -328,7 +329,7 @@ FREE E-BOOK DOWNLOAD of ‘The Hobbit’ by J. R. R. Tolkien on NOOK Reading App
 
 **Holiday Gift Cards**
 
-Give a Gift, Get a Gift. Free\* Movie Ticket with gift card orders of $75+ BUY GIFT CARDS
+Give more, save more. $10 off gift card orders of $150+ OR $5 off gift card orders of $75+ BUY GIFT CARDS
 
 New + Coming Soon
 
