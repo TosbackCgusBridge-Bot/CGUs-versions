@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: June 21, 2013
+Privacy Policy Last updated on: December 2, 2014
 
   
   
@@ -38,6 +38,7 @@ Our Privacy Policy addresses the following:
 *   What is Our Policy with Respect to Data Collection from Children?
 *   Does This Privacy Policy apply to Social Media Sites?
 *   Do We Have Specific Terms For Mobile Services?
+*   Are Telephone Calls Recorded?
 *   Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
 *   Policy Changes  
     
@@ -94,7 +95,7 @@ OSP Group is a dynamic, web-driven home-shopping leader with numerous successful
   
   
 
-*   **Branded Private Label Credit Card Accounts**: We may share your information with the bank that issues branded private label credit card accounts. Shared information includes the date of the order, the type of payment, the amount of the order, and similar items. Non-US customers are not eligible for branded private label credit card accounts.
+*   **Branded Private Label Credit Card Accounts**: We may share your information with the bank that issues branded private label credit card accounts. Shared information includes the date of the order, the type of payment, the amount of the order, and similar items, and may also include your name, address or other contact information. Non-US customers are not eligible for branded private label credit card accounts.
 
   
   
@@ -258,6 +259,10 @@ Yes. We may provide certain services that are available to you via your mobile p
 *   You are responsible for checking with your mobile carrier to determine if the Mobile Services are available for your mobile devices, what restrictions, if any, may be applicable to your use of the Mobile Services, and how much they will cost you.
 *   By using the Mobile Services, you agree that we may communicate with you by SMS, MMS, or other electronic means to your mobile device and that certain information about your usage of the Mobile Services may be communicated to us.
 *   In the event you change or deactivate your mobile telephone number, you agree promptly to update your mobile subscription account information to ensure that the messages we intend to send to you are not sent to another person who acquires your former mobile telephone number.
+
+  Are Telephone Calls Recorded?
+
+Yes. Telephone calls to or from our OSP Group family of companies, including our customer service center, may be monitored and recorded for record-keeping, training and quality assurance purposes.
 
   Whom Do I Contact If I Have Additional Questions or Concerns About This Privacy Policy?
 
