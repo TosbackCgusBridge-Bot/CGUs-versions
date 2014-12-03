@@ -2,7 +2,7 @@ Revision date: November 25, 2014
 
 DeviantArt respects your privacy.
 
-This Privacy Policy applies to our web sites, including www.deviantart.com, www.shop.deviantart.com, http://da-connect.deviantart.com/, www.DreamUp.com, sta.sh, and our DeviantArt mobile applications (collectively, the **“DeviantArt Sites”** or **“Sites”**). This Privacy Policy explains what information we collect through the Sites, how we use that information, and what choices you have. The Sites and our services available via the Sites are collectively called the “**Services**.”
+This Privacy Policy applies to our web sites, including www.deviantart.com, www.shop.deviantart.com, www.DreamUp.com, sta.sh, DA-Connect, and our DeviantArt mobile applications (collectively, the **“DeviantArt Sites”** or **“Sites”**). This Privacy Policy explains what information we collect through the Sites, how we use that information, and what choices you have. The Sites and our services available via the Sites are collectively called the “**Services**.”
 
 Please take a few moments to read this Privacy Policy. By accessing the DeviantArt Sites, you acknowledge that this Privacy Policy applies to only the Services.
 
