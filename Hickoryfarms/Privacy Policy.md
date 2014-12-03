@@ -13,7 +13,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         
     *   Military Gifts
     *   Hickory Farms Reserve
-    *   Thanksgiving
     *   Christmas Gift Baskets
         
     *   Personalized Gifts
@@ -62,7 +61,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         
     *   Military Gifts
     *   Hickory Farms Reserve
-    *   Thanksgiving
     *   Christmas Gift Baskets
         
     *   Personalized Gifts
@@ -101,7 +99,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Cyber Monday Specials! + Free Standard Shipping on orders $35+!\*
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Giving Tuesday. Donate Today to No Kid Hungry and we'll match up to $50,000\*
 
 1.  Home
 2.  Customer Service
