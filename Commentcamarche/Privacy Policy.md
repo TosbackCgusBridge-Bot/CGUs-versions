@@ -1,4 +1,4 @@
-USESDEFRITBR Novembre 2014
+USESDEFRITBR Décembre 2014
 
 *   Objet
 *   Mentions légales
@@ -126,13 +126,13 @@ Conditions-generales-d-utilisation.pdf A voir également
 *   Condition générale d'utilisation site web
 *   Conditions generales de mise à disposition d un site
 *   Modèle Condition Générale de Vente » Forum - Webmaster
-*   Iphone probléme app store (Résolu) » Forum - IPhone
+*   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
 
 Communautés d'assistance et de conseils.
 
-*   Forum Vos droits sur internet
+*   Forum Webmastering
 *   Forum iPhone
-*   Forum iPad
+*   Forum Vos droits sur internet
