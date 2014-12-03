@@ -1,6 +1,6 @@
-We're thankful for our amazing guests.
+The best place to start your holiday shopping is
 
-Thanksgiving Promotions
+one click away.
 
 Online Orders 800-522-8090
 
