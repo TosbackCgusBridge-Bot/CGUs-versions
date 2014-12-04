@@ -2,7 +2,7 @@
 
 American Honda Motor Company, Inc. (American Honda) is considerate of the privacy of our visitors and the individual sensitivities of personal information.  At American Honda, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. Because privacy and consumer trust are important to us, we provide this privacy statement for you to explain our policies in detail. While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust.   Our goal is to protect your information.
 
-This statement explains our privacy policies and procedures in connection with data collection and usage governing the American Honda Family of Web Sites which include honda.com, corporate.honda.com, automobiles.honda.com, hpd.honda.com, powersports.honda.com, hrca.honda.com, powerequipment.honda.com, marine.honda.com, engines.honda.com, owners.honda.com, owners.acura.com, estore.honda.com, hondafinancialservices.com, hondafinancialservices.com/ir, acurafinancialservices.com, acura.com, and civictour.honda.com.  This statement does not apply to our offline information practices.
+This statement explains our privacy policies and procedures in connection with data collection and usage governing the American Honda Family of Web Sites which include honda.com, corporate.honda.com, automobiles.honda.com, hpd.honda.com, powersports.honda.com, hrca.honda.com, powerequipment.honda.com, marine.honda.com, engines.honda.com, owners.honda.com, owners.acura.com, estore.honda.com, hondafinancialservices.com, hondafinancialservices.com/ir, acurafinancialservices.com, acura.com, civictour.honda.com and greendealer.honda.com. This statement does not apply to our offline information practices.
 
   
 
@@ -68,6 +68,7 @@ Hondafinancialservices.com
 Hondafinancialservices.com/ir  
 Civic Tour  
 American Honda Finance Corporation Financial Privacy Policy  
+greendealer.honda.com  
   
   
   
@@ -268,5 +269,18 @@ We may also disclose:
 \* information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
 
 If we modify our privacy policy on how we handle your personal information, we will post the revised information here, with a revised "effective date" at the top of this privacy policy. If there are material changes to this privacy policy or in how we will use your personal information, we may notify you by other means, such as sending an email to you or by posting a notice of such changes on our website. We encourage you to periodically review this statement to be informed of how we are protecting your information.
+
+BACK TO TOP  
+  
+  
+**greendealer.honda.com**  
+
+**Honda Green Dealer**
+
+**Email Newsletters.** You may decide that you wish to sign up to receive email newsletters on Honda environmentally responsible products &. technology, “green dealer” guideline updates, and/or other site features. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization. Requesting email newsletters and providing your personal information is your choice.
+
+**Download the “Green Dealer” Guide.**  You may download the “green dealer” guideline. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization before your download begins. Downloading the “green dealer” guideline and providing your personal information is your choice.
+
+**Locate a “Green Dealer” &. “Green Dealers” by Award Level.**  Dealerships referenced herein are Honda and Acura dealers, which are independent from American Honda. Visiting these dealers online or in person is your personal choice.
 
 BACK TO TOP
