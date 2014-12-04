@@ -22,6 +22,7 @@ Connexity
         *   Badges &. awards
     *   Competitive Intelligence
     *   Advisory Services
+    *   Subscriptions
     
     *   Display Media
     *   Audience Targeting
