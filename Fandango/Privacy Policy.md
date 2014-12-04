@@ -22,9 +22,11 @@ Gift Cards | Offers | Visa Signature
     *   The Pyramid
     *   Wild
     *   Dying of the Light
+    *   Dirty Dealing
     *   Inside the Mind of Leonardo 3D
     *   Life Partners
     *   She's Beautiful When She's Angry
+    *   Take Care
     *   Comet
     *   Pioneer (2014)
     *   See All Opening This Week
@@ -68,7 +70,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Didja know? The new Star Wars ball-droid is based on R2D2 Read More In Bond News: Entire cast to be revealed Dec. 4. what scientist wants to play a villain? Read More A sequel to 'Frozen is in the works...or is it? Plus Jake Gyllenhaal gets ripped Read More Explore More
+*   Movie News Featured Movie News Hot off the presses, a new 'Frozen' short is coming! Find out when you can see it in theaters Read More It's official: the Suicide Squad has been cast, and you won't believe who's starring... Read More Didja know? The new Star Wars ball-droid is based on R2D2 Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
