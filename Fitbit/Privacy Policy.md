@@ -13,11 +13,14 @@ Fitbit
     *   Mobile App + Dashboard
     *   Premium Membership
     *   Compatible Apps
+    *   PurePulse
     *   Why Fitbit
 *   Fun
     *   Blog
     *   Buzz
 *   Help
+    *   Product Help
+    *   Wear and Care
 
 *   Store
 *   Log in
