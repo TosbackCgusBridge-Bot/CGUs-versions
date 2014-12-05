@@ -55,6 +55,9 @@ Up to
 *   Compare
 *   Build Your Own
 
+A 2014 IIHS Top Safety  
+Pick+ with optional EyeSight
+
 Impreza 2.0i Sport Limited shown
 
 WRX $26,295 starting price 2015 WRX
@@ -116,26 +119,24 @@ Pick+ with optional EyeSight
 
 Forester 2.5i Touring shown
 
-XV Crosstrek $21,995 starting price 2014 XV Crosstrek
+XV Crosstrek $21,595 starting price 2015 XV Crosstrek
 
 Starting at
 
-$21,995 MSRP
+$21,595 MSRP
 
 Up to
 
-33/25MPG Hwy/City
+31/23MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety Pick
-
 XV Crosstrek 2.0i Limited shown
 
-XV Crosstrek Hybrid $25,995 starting price 2014 XV Crosstrek Hybrid
+XV Crosstrek Hybrid $25,995 starting price 2015 XV Crosstrek Hybrid
 
 Starting at
 
@@ -143,14 +144,12 @@ $25,995 MSRP
 
 Up to
 
-33/29MPG Hwy/City
+34/30MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-A 2014 IIHS Top Safety Pick
 
 XV Crosstrek Hybrid Shown
 
