@@ -10,11 +10,11 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
-    *   Cyber Monday Deals
     *   Gift Guide
     *   United XXVI
     *   Bethany Mota
     *   Cold Weather Shop
+    *   Uniform Looks
     *   Lookbook
     *   Boot Shop
     *   Extended Sizes
@@ -36,7 +36,6 @@ Aéropostale Go
     *   Shorts
     *   Skirts
     
-    *   DRESSES
     *   JACKETS + COATS
     *   SLEEPWEAR
     *   BRAS
@@ -46,11 +45,11 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
-    *   Cyber Monday Deals
     *   Gift Guide
     *   Cold Weather Shop
     *   United XXVI
     *   Lookbook
+    *   Uniform Looks
     *   Sneaker Shop
     *   Extended Sizes
     *   Online Exclusives
