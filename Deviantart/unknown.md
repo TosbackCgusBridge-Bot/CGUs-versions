@@ -1,14 +1,14 @@
   
 
-**Copyright and Your deviantART Submission**
+**Copyright and Your DeviantArt Submission**
 
-Here at deviantART we respect the rights of all artists and creative people worldwide and we expect our members to also demonstrate that respect and assist us in creating a beneficial and positive atmosphere for all deviantART visitors and members.
+Here at DeviantArt we respect the rights of all artists and creative people worldwide and we expect our members to also demonstrate that respect and assist us in creating a beneficial and positive atmosphere for all DeviantArt visitors and members.
 
 The bottom line is: Just about anything that is on this site, on the web, on TV, on CD's, on DVD's, in books &. in magazines is probably copyrighted by someone.
 
 Copyright can be a confusing territory for many people. In many cases the natural confusion over the sometimes varied circumstances surrounding copyright will lead people to rely on rumor or myth more often than the actual law which naturally confuses the matter even more.
 
-In this document we will attempt to eliminate some of the confusion and counter many of the myths surrounding copyright and to present clearly the deviantART policies and practices with regard to copyright. The availability of this document should not be construed as rendering legal or other professional advice, and this document is not a substitute for the advice of an attorney. If you require legal advice, you should seek the services of a qualified attorney.
+In this document we will attempt to eliminate some of the confusion and counter many of the myths surrounding copyright and to present clearly the DeviantArt policies and practices with regard to copyright. The availability of this document should not be construed as rendering legal or other professional advice, and this document is not a substitute for the advice of an attorney. If you require legal advice, you should seek the services of a qualified attorney.
 
   
 
@@ -65,17 +65,17 @@ There are many exceptions to the 150 year guideline, but you are best advised to
 
   
 
-**What Happens When You Submit Infringing Works to deviantART?**
+**What Happens When You Submit Infringing Works to DeviantArt?**
 
-Any copyright owner following the procedures in this Copyright Policy can require deviantART to remove his or her copyrighted content in use by a member of deviantART. When through the proper notice we become aware that a submission to deviantART infringes upon the copyrights of another artist, creative person or company, we will immediately delete it. This is a legal requirement which we fulfill immediately. you will not receive an advanced warning and you will not be given an opportunity to 'fix it'.
+Any copyright owner following the procedures in this Copyright Policy can require DeviantArt to remove his or her copyrighted content in use by a member of DeviantArt. When through the proper notice we become aware that a submission to DeviantArt infringes upon the copyrights of another artist, creative person or company, we will immediately delete it. This is a legal requirement which we fulfill immediately. you will not receive an advanced warning and you will not be given an opportunity to 'fix it'.
 
-If you believe that a submission on deviantART infringes on your copyright you may either report the submission using our internal reporting system or send us a copyright notice via mail or email. A member of staff will review your notice and act accordingly.
+If you believe that a submission on DeviantArt infringes on your copyright you may either report the submission using our internal reporting system or send us a copyright notice via mail or email. A member of staff will review your notice and act accordingly.
 
 If you believe that one of your submissions was removed in error you may contact our helpdesk or otherwise file a counter notice.
 
 If you are found to repeatedly post infringing content, your account will be suspended and serious offenders will have their account banned and deactivated. We consider three strikes as an indication of being a repeat infringer subject to ban. If you are found deliberately misrepresenting the copyrighted work of another as your own your account will be immediately banned and deactivated.
 
-The copyright owner may also decide to sue you directly if you infringe his or her copyright in posting content to deviantART.  
+The copyright owner may also decide to sue you directly if you infringe his or her copyright in posting content to DeviantArt.  
 
 **What about "Fair Use"**
 
@@ -87,7 +87,7 @@ To learn more about fair use you can go here, here, here, and here.
 
 **If you take my work down am I protected from a lawsuit?**
 
-No. Even if deviantART takes an infringing work down, you may still be responsible for very significant damages if the copyright owner decides to sue you.
+No. Even if DeviantArt takes an infringing work down, you may still be responsible for very significant damages if the copyright owner decides to sue you.
 
   
 
@@ -95,9 +95,9 @@ No. Even if deviantART takes an infringing work down, you may still be responsib
 
 **Instructions for Copyright Owners**
 
-This section contains the formal requirements of the Copyright Act with respect to the rights of copyright owners whose content appears on deviantART without authorization and instruction to copyright owners.
+This section contains the formal requirements of the Copyright Act with respect to the rights of copyright owners whose content appears on DeviantArt without authorization and instruction to copyright owners.
 
-To file a copyright infringement notification with deviantART (also commonly known as a "DMCA takedown notice"), the copyright owner or an authorized agent acting on his or her behalf will need to send a written communication that includes substantially the following:
+To file a copyright infringement notification with DeviantArt (also commonly known as a "DMCA takedown notice"), the copyright owner or an authorized agent acting on his or her behalf will need to send a written communication that includes substantially the following:
 
 1\. A physical or electronic signature of the copyright owner or of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -113,12 +113,12 @@ To file a copyright infringement notification with deviantART (also commonly kno
 
   
 
-To file a DMCA takedown notice, you may use our form here. This form requires a deviantART account, which is available at no charge by signing up. Otherwise you may use the following method:
+To file a DMCA takedown notice, you may use our form here. This form requires a DeviantArt account, which is available at no charge by signing up. Otherwise you may use the following method:
 
-Written notice should be sent by mail or by PDF attached to an email to deviantART's designated agent as follows:
+Written notice should be sent by mail or by PDF attached to an email to DeviantArt's designated agent as follows:
 
 DMCA Complaints  
-deviantART, Inc.  
+DeviantArt, Inc.  
 attn. Daniel Sowers Jr  
 7095 Hollywood Blvd #788  
 Hollywood, CA 90028 Fax: 323.645.6001  
@@ -130,6 +130,6 @@ Under Section 512(f) of the Copyright Act any person who knowingly materially mi
 
 Counter-Notification
 
-If you want to send deviantART a counter notice, please review this information for instructions.
+If you want to send DeviantArt a counter notice, please review this information for instructions.
 
-Under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. Please consult the Terms of Service and deviantART's Etiquette Policy in which we explain that you may be removed from the site if you are a repeat infringer or if you violate deviantART's policies.
+Under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. Please consult the Terms of Service and DeviantArt's Etiquette Policy in which we explain that you may be removed from the site if you are a repeat infringer or if you violate DeviantArt's policies.
