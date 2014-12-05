@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13185031218
+true true 10.60.248.10 L13183695286
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Wed Dec 03 11:23:16 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p39.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Dec 04 03:59:05 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,48 +45,44 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   CyberWeek
+*   Friends and Family
     
-    outclick St. Nick! Get your jingle on!
+    Cyber Week Continues
     
-    Held over! Ends Decembrer 3.
+    In Store and Online Thursday through Monday, December 4 through 8.
     
-    Online Code: CYBRMNDY
+    Online Code: OURFRND
     
-    Select original, regular, sale and clearance-priced items.
+    Extra 25% Off\* select apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades.
     
-    shop the deals
+    Plus Extra 15% Off\* watches, optical and portrait.
     
-    Online Only
+    \*See exclusions and details. print coupon view store adHundreds of Night and Day Doorbusters
     
-    Extra 30% Off\* $100 or more.
+    Use your coupon and save even more!
     
-    In Store and Online
+    In Store Only, Friday, 3PM until CLOSE, Saturday, OPEN until 1PM.
     
-    Extra 20% Off\*
-    
-    Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades
-    
-    \*See exclusions and details. get store coupon
+    view doorbusters store ad
 *   30-50% Off Home Sale
     
     Time to deck the halls.
     
     Select styles.
     
-    shop the home sale shop home decor shop luggage shop window shop bedding and bath shop kitchen and dining shop furniture
+    shop the home sale shop home decor shop luggage shop curtains and drapes shop bedding and bath shop kitchen and dining shop furniture
     
-    50% Off select 10 pc. comforter sets
+    40-50% Off Blinds and Shades
     
-    Regularly $280-$300
+    Select styles.
     
-    shop comforters
+    shop blinds and shades
 
-40-50% Off Select Coats for Her shop women's coats 50% Off Select Boys' and Girls' Coats and Jackets shop kids' coats 30-40% Off Select Yuu Comfort Boots shop boots 40-50% Off Select Sweaters for Her shop women's sweaters 40-50% Off Select The Foundry Supply Co. Big and Tall shop men's big and tall 40% Off Select Cold-Weather Accessories shop cold-weather accessories 40-50% Off Window
+40-50% Off Select Coats for Her shop women's coats 50% Off Select Kids' Coats and Jackets shop kids' coats 30-40% Off Select Yuu Comfort Boots shop boots 40-50% Off Select Activewear for Her shop women's activewear 40-50% Off Select The Foundry Supply Co. Big and Tall shop men's big and tall 40% Off Select Cold-Weather Accessories shop cold-weather accessories 30-50% Off Small Appliances
 
-Select styles.
+Select styles. Excluded from coupon offer
 
-shop curtains and drapes shop blinds and shades shop curtain rods and hardware Jingle More Bells shop holiday gifts JCP Rewards
+shop small appliances Jingle More Bells shop holiday gifts JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
