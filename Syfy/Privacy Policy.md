@@ -255,17 +255,17 @@ Syfy Video Face Off: Return of the Champions Face Off: Return of the Champions
 
 Theyre baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
 
+Face Off Season 8 Tease Face Off Season 8 Tease
+
+Tune in to Face Off Season 8 coming in January!
+
+The Winner of Face Off Is The Winner of Face Off Is
+
+Dina! Hugs and crying and new cars everywhere!
+
 Helix: Season 2 Extended Sneak Peek Helix: Season 2 Extended Sneak Peek
 
 The CDC team has found a new disease  and its not pretty. Helix returns January 16 at 10/9c.
-
-Helix Season 2: The Characters Helix Season 2: The Characters
-
-Learn who's who in Helix Season 2. Helix returns January 16 at 10/9c
-
-Helix Season 2: The Island Helix Season 2: The Island
-
-Explore the setting for Helix's second season. Helix returns January 16 at 10/9c
 
 *   FAQ
 *   Feedback
