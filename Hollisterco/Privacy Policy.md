@@ -1,7 +1,7 @@
 Hollister Co. US  
 Privacy Policy
 
-Updated: October 2014
+Updated: December 2014
 
 Ad Cookie Policy How Third Parties Serve You Our Advertisements On Other Websites and Your Choices
 
@@ -126,7 +126,7 @@ Opt-Out
 
 To make it easier for you, we have moved your opt-out preference choices to this section of the privacy policy.
 
-1.  Collection of Location Information.
+*   Collection of Location Information.
     
     a)       Mobile Device Location Information Through our Mobile Sites and Apps. Your mobile device may allow you to disable location-based services on your device, which will prevent our Websites from accessing your mobile device location information. For specific questions regarding disabling your device's location services, we recommend you review the specific instructions provided for your mobile device. Note that some features on our Websites, such as check-in, may not be available if you disable location-based services.
     
@@ -134,19 +134,19 @@ To make it easier for you, we have moved your opt-out preference choices to this
     
     c)       Location Information Through Email. Your email program may allow you to prevent the images in the emails you receive from us from downloading, which will also prevent our service provider from accessing your location information.  You can also unsubscribe from receiving our emails, as described in the “Email” section below.
     
-2.  Notifications and Access to Data on Your Mobile Device. If you have provided consent and no longer wish to receive Notifications, or no longer want us to access the specific information on your device (e.g., photos, etc) for which you previously gave consent, you will need to adjust the settings on your mobile device. Please note, the process for changing settings on your mobile device may vary. to learn how to change these settings refer to the specific instructions provided for your mobile device.  
+*   Notifications and Access to Data on Your Mobile Device. If you have provided consent and no longer wish to receive Notifications, or no longer want us to access the specific information on your device (e.g., photos, etc) for which you previously gave consent, you will need to adjust the settings on your mobile device. Please note, the process for changing settings on your mobile device may vary. to learn how to change these settings refer to the specific instructions provided for your mobile device.  
       
     
-3.  Email.  You can choose the frequency at which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from Hollister Co., or our affiliated companies (like Abercrombie &. Fitch or Gilly Hicks).  To unsubscribe from Hollister Co. go to the unsubscribe page, or to unsubscribe from our affiliated companies if you created an account or are a member of the Club Cali program, go to the email and phone page within the “My Info” section of the Websites, click on “manage your marketing preferences”, and select the option to no longer receive emails in the dropdown menus for each brand, and press ‘SUBMIT.' Please be aware, however, even if you request to limit the frequency you can receive marketing emails or to be removed from our email marketing list, you may still receive email confirmations for any orders placed on our Websites.  
+*   Email.  You can choose the frequency at which you receive marketing emails or unsubscribe if you no longer want to receive marketing emails from Hollister Co., or our affiliated companies (like Abercrombie &. Fitch or Gilly Hicks).  To unsubscribe from Hollister Co. go to the unsubscribe page, or to unsubscribe from our affiliated companies if you created an account or are a member of the Club Cali program, go to the email and phone page within the “My Info” section of the Websites, click on “manage your marketing preferences”, and select the option to no longer receive emails in the dropdown menus for each brand, and press ‘SUBMIT.' Please be aware, however, even if you request to limit the frequency you can receive marketing emails or to be removed from our email marketing list, you may still receive email confirmations for any orders placed on our Websites.  
       
     
-4.  Text Message Marketing.  If you have signed up to receive text messages from Hollister Co., or any of our affiliated companies (for example, Abercrombie &. Fitch, abercrombie kids, or Gilly Hicks), but no longer wish to receive these messages, simply follow the opt-out instructions in the Texts Terms &. Conditions for each brand.  Or, if you created an account or are a member of the Club Cali program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences", and select the option to no longer receive text messages in the drop-down menu for each brand and press ‘SUBMIT.' Please note, if you unsubscribe by sending a text or by going to the email  and phone page within the "My Info" section of the Websites you may receive a reply message confirming that you have opted out of receiving text messages.  
+*   Text Message Marketing.  If you have signed up to receive text messages from Hollister Co., or any of our affiliated companies (for example, Abercrombie &. Fitch, abercrombie kids, or Gilly Hicks), but no longer wish to receive these messages, simply follow the opt-out instructions in the Texts Terms &. Conditions for each brand.  Or, if you created an account or are a member of the Club Cali program, go to the email and phone page within the "My Info" section of the Websites, click on "manage your marketing preferences", and select the option to no longer receive text messages in the drop-down menu for each brand and press ‘SUBMIT.' Please note, if you unsubscribe by sending a text or by going to the email  and phone page within the "My Info" section of the Websites you may receive a reply message confirming that you have opted out of receiving text messages.  
       
     
-5.  Postal Marketing.  If you no longer wish to receive other marketing materials from Hollister Co. via regular postal mail, please click Privacy\_Policy@HollisterCo.com and tell us to remove you from our postal mailing list and include the postal address you wish to have removed.  
+*   Postal Marketing.  If you no longer wish to receive other marketing materials from Hollister Co. via regular postal mail, please click Privacy\_Policy@HollisterCo.com and tell us to remove you from our postal mailing list and include the postal address you wish to have removed.  
       
     
-6.  Third-Party Postal Sharing.  If you would like to make sure that we do not disclose your name and postal address to unaffiliated third parties for their direct marketing purposes, please email us at Privacy\_Policy@HollisterCo.com and tell us you do not want your postal address shared with unaffiliated third parties, including the postal address.
+*   Third-Party Postal Sharing.  If you would like to make sure that we do not disclose your name and postal address to unaffiliated third parties for their direct marketing purposes, please email us at Privacy\_Policy@HollisterCo.com and tell us you do not want your postal address shared with unaffiliated third parties, including the postal address.
 
 If you Apply for a Job or Attend Casting Calls
 
@@ -186,7 +186,7 @@ In addition, we designed our online store to accept orders only from Web browser
 
 Supported Web Browsers
 
-HollisterCo.com supports the following Web browsers: Mozilla Firefox 3.6+, Microsoft Internet Explorer 8.0+, Google Chrome 14.0+, and Apple Safari 5.0+. Additionally, some of the site content requires Adobe Flash Player 9.0 or later.
+HollisterCo.com supports Microsoft Internet Explorer 8.0+ and Apple Safari 5.1+.  We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.  
 
 Questions/Contact Us
 
