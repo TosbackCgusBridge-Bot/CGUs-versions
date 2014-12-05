@@ -70,7 +70,7 @@ search Search
 *   Mobile Apps Policy
 *   Cookies and Tracking Technologies Policy
 
-SelectEnglishEspañol (Americas) French Privacy Home Last updated: 24 November 2014
+SelectEnglishEspañol (Americas) French Privacy Home Last updated: 5 December 2014
 
 In this privacy policy:
 
