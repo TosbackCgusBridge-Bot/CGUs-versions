@@ -16,15 +16,15 @@ Search Bank of America
 
 Bank of America Privacy &. Security Comprehensive protection. Confident banking.
 
-We're committed to keeping your personal and financial information safe and secure.
+We're committed to keeping your personal and financial information protected and secure.
 
-**Privacy**Learn how we collect and use information. **Card security**Free Total Security Protection® on all cards. **Mobile security**Convenience, safety and security **Email fraud**Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
+**Privacy**Learn how we collect and use information. **Card security**Total Security Protection® on all cards. **Mobile security**Convenience and security **Email fraud**Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
 
 As an Online Banking customer, you're entitled to a free year of McAfee® Internet Security ››
 
 Lost or stolen card? Report a lost or stolen card
 
-Be sure to notify us promptly. You won't be liable for any fraudulent activity ››
+Be sure to notify us promptly. You won't be liable for fraudulent activity ››
 
 Got questions? Protecting Your Information FAQs
 
@@ -304,10 +304,10 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 Rev. 01/2014
 
-Manage your marketing and information-sharing privacy choices Best in class—  
-for 7 straight years
+Manage your marketing and information-sharing privacy choices Best overall —  
+for 9 straight years
 
-Bank of America was named Best in Class in online security for the seventh consecutive year on the latest Javelin Banking Identity Safety Scorecard. The award is based on consistent performance in each layer of online security and outstanding performance in fraud prevention.
+**Bank of America held the title of best overall provider of protection against identity fraud** for its ninth consecutive survey year. The award is based on strong performance in the categories of fraud prevention, detection and resolution.
 
 Browser check
 
