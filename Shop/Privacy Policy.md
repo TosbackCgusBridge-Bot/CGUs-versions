@@ -56,7 +56,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     2.  Android Tablets Customizable, Easy to Use
         1.  Lenovo Yoga Tablet 2 8: 8" Revolutionary Multimode Tablet
         2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
-        3.  Lenovo Yoga Tablet 2 Pro: 13" Revolutionary Multimode Tablet
+        3.  Lenovo Yoga Tablet 2 Pro: 13" Multimode Tablet with Projector
         4.  Lenovo Yoga Tablet 8: 8" Revolutionary Multimode Tablet
         5.  Lenovo Yoga Tablet 10: 10.1" Revolutionary Multimode Tablet
         6.  Lenovo A7: 7" Wideview Android Tablet
