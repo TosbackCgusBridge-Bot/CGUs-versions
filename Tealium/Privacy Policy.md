@@ -118,10 +118,10 @@ Get comprehensive, hands-on product training and learn best practices »
     *   Case Studies
     *   Datasheets
     *   Webinars
-    *   Whitepapers
+    *   White Papers
 
 Digital Data Distribution Platforms in Action  
-Download the whitepaper today »
+Download the white paper today »
 
 *   About Us
 *   Customers
