@@ -108,6 +108,7 @@ Aéropostale Go
     *   Superga
     *   Tigerbear Republik
     *   Tokyo Darling
+    *   United XXVI
     
     *   GUYS
     *   Blue Suede Shoes
@@ -117,6 +118,7 @@ Aéropostale Go
     *   Locker Stock
     *   Radii
     *   Superga
+    *   United XXVI
 *   Aero Now
 
 Safety, Security and Privacy
