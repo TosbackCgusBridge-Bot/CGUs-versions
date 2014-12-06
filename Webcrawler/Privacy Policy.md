@@ -94,26 +94,11 @@ E-mail: Contact us
 
 Policy effective January 1, 2005
 
-*   About WebCrawler
-*   .
-*   Site Map
-*   .
-*   Help
+*   © 2014 InfoSpace, LLC
+*   About
 *   .
 *   Privacy
 *   .
 *   Terms
 *   .
 *   Contact Us
-
-*   About
-*   .
-*   Dogpile
-*   .
-*   Careers
-*   .
-*   Press Room
-*   .
-*   Investor Relations
-
-© 2014 InfoSpace, Inc. All Rights Reserved
