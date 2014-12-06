@@ -1,291 +1,198 @@
-**Effective date: October 15, 2014**
-
-Consumers Union of United States, Inc., doing business as Consumer Reports, is an independent, nonprofit testing, research, and information organization serving consumers. Since 1936, our mission has been to test products, inform the public, protect consumers and advocate on their behalf. Our Privacy Policy provides information on how we collect and use consumer information provided to us through all channels, including online, mobile/wireless, telephonic, direct mail or other communications and interactions. Our organization is referred to throughout this Privacy Policy as "Consumer Reports," "CR," "we" or "us." The CR Web and mobile sites, CR applications, and other products and services covered by this Privacy Policy are referred to within the Policy as "our Sites" and "our products and services."  
+**Effective Date:  December 5, 2014**  
   
-**SCOPE**  
+Please note that the Consumer Reports Privacy Policy has been updated. Please review the revised Privacy Policy carefully before using any of our products and services that link to this Privacy Policy. By using our products and services, you consent to the terms of our updated Privacy Policy.  
   
-This Privacy Policy applies to the entire Consumer Reports family of print, wireless and online information products and services, including any new products or services.  It relates to information we collect from you, including personally identifying information (also referred to in this Privacy Policy as PII) and information that does not identify you personally.  PII may include, for example, some or all of the following:  your name, mailing address, email address, telephone number, mobile phone number, passwords, credit/debit card information (also referred to as payment card information), user name and password, and demographic information.  Please note that information related to our consumer advocacy programs and campaigns, and their associated Web sites, most of which Web sites are accessible from our main advocacy Web site at ConsumersUnion.org, is governed by a separate privacy policy found here.  
-
-**YOUR CONSENT TO THIS PRIVACY POLICY**  
+Please click here if you would like more information about the updates to our Privacy Policy.  
   
-This Privacy Policy is incorporated into and subject to our User Agreement. By using our products and services, you consent to our User Agreement and Privacy Policy, including our use and disclosure of your personal information as delineated in this Privacy Policy.  
+Consumers Union of United States, Inc., doing business as Consumer Reports (“Consumer Reports”), is an independent, nonprofit testing and research organization serving consumers. Since 1936, our mission has been to test products, inform the public, protect consumers and advocate on their behalf.  
   
+We are committed to protecting your privacy. This Privacy Policy describes the types of information we collect about you, how your information may be used and when it may be disclosed, how your information is protected, and how you can control the use and disclosure of your information.
 
-INFORMATION WE COLLECT, HOW WE COLLECT IT AND HOW WE USE IT
+**1. Scope**
 
-**Personally Identifiable Information** **(PII)**  
-There are many features on our products and services for which no personally identifiable information is required to be provided by you. However, you will need to provide us with personal information about yourself if you are interested in obtaining certain information, purchasing our products and services, making a donation, or participating in other activities with CR, such as sweepstakes, contests or other special initiatives. And if you use any third-party social media services that are integrated with our products and services, or purchase certain of our mobile products and services from third party services, we may receive personally identifiable information that you have made available to us via those services.  
+This Privacy Policy covers the Consumer Reports family of print publications as well as online and mobile websites and applications that provide an authorized link to this Privacy Policy (collectively "CR Products"). It does not cover our consumer advocacy programs, campaigns and websites which are governed by a separate Privacy Policy found here.  
   
-If you provide us with PII through any channel, we use it for the purpose for which it was collected, for example, to contact you regarding your use of our products and services, matters that affect you, information about our products and services or in some instances we provide others with your information for the limited purposes described in this Privacy Policy.  We use PII to help customize your experience online and provide you with personalized email and direct-mail messages. We may obtain geo-location information from you, for example, in order to provide you with information about products and services in your geographic area. We may use it to implement your renewal of a subscription for a product or service and track what electronic or direct-mail content you are interested in. We conduct such tracking to focus our communications and provide you content, products, services and offers we believe may be of interest to you.  
+This Privacy Policy applies to personally identifying information (“PII”) and other information collected about you and your devices. PII may include, for example, your name, mailing address, email address, telephone number, credit/debit card information, user name and password, and demographic information.  
   
-When you provide us with information in connection with a particular activity or otherwise purchase our products and services or provide your contact information, including an email address or telephone number in connection with that activity, product or service, you expressly consent to our communicating with you future information about Consumer Reports' products, programs and services using the information you provided to us and acknowledge that we have the authority to contact you via the information you provide. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.  You attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you.  
-  
-We have separate policies for PII provided in response to surveys. Please see the section regarding how we treat surveys below.  
-  
-**Submission of User Product Reviews, Ratings and Comments**  
-We collect information that you voluntarily provide through various tools on our Sites and products and services, including messages you post in any public discussion group (forums), user product reviews and ratings submitted through our review tool, and blog comments ("User Generated Content"). In order to post a user review or blog comment, CR requires you to provide us with a user name (which should be different from your real name) and other information, which may include your email address and/or geographical location. Only your user name and geographical location will be posted with your review. Forums are available only to subscribers and registered users and comments you make on a Forum are identified by your name as it appears on your CR billing records if you are a subscriber and by your user name if you are not a subscriber.  
-  
-User Generated Content is public. If you don't want people to know your email address or any other personally identifiable information, do not include that information in the text of any message you post publicly. If you submit user reviews, please be aware that we may share your submissions with other Web sites or provide links to your submissions from other Web sites. The posting of User Generated Content is subject to our User Agreement.  
+Our websites and other services may contain links to third-party websites which are provided for your information and convenience. Please note that unless otherwise indicated, this Privacy Policy does not cover any information that may be collected through any third party website.
 
-**Information Collected Through Technology**  
-When you use any of our Sites or mobile products and services we or our service providers may collect tracking information such as your browser type, mobile device type, the type of operating system you use, the domain name of your Internet service provider, and pages visited on the Sites. We use this information for aggregate reporting, for example, to know how long the average user spends on our Sites or which pages or features get the most attention. We use this information to make our Sites and other products and services more useful to you, to present you with content we believe you'll be interested in, and to serve banner ads for Consumer Reports products and services on both our Sites and other websites.  
-  
-Most aggregate information is collected via cookies, web beacons and other technical methods. For instance, we use Web beacons on some of our Site pages in conjunction with cookies to compile statistics about site usage. Web beacons are small pieces of code that are embedded on the pages of Websites or applications so we can detect when they have been viewed. We or our service providers use these technical methods to analyze the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites, and to measure site effectiveness or use of our other products and services, such as mobile applications. We also use Web beacons in HTML e-mails that we send our visitors to determine whether our recipients have opened those e-mails and/or clicked on links in those e-mails. On their own, cookies and Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish Consumer Reports with personally identifiable information, this information can be associated with the data collected using the cookies or Web beacons. These technical methods may involve the transmission of information either directly to us or to our service providers. These technical methods allow us to make our Sites and other products and services, and any e-mails you have agreed to receive, more relevant to you.  
-  
-We also use "cookies" to store, and sometimes to track, usage information. We and/or our service providers may use Flash cookies, for example, for user authentication and fraud detection purposes. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie contains a unique number that allows our Sites to recognize your computer. We use both temporary and persistent cookies. A temporary cookie tracks visitor activity during a session or visit and it expires when you close your browser. We use them to provide continuity for your visit as you visit Web site pages. Persistent cookies, for example, store a unique credential that allows us to automatically log you back in if you are a subscriber so you don't have to re-enter your user name and password each time you visit. The Help function on most browsers contains information on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our Sites that are available to other visitors.
+**2. Information Collected**
 
-We work with Flurry to provide analytics in connection with our mobile applications. For more information about Flurry's privacy practices, please visit http://www.flurry.com/privacy-policy.html. To opt-out of Flurry Analytics tracking used with our mobile applications visit http://www.flurry.com/user-opt-out.html.
+**Information you provide directly to us.** You may provide different types of information to us when you subscribe to or purchase a product or service, access various content or features, post product reviews or ratings, participate in our blogs or forums, make a donation, enter a sweepstakes, contest or other special initiative, directly contact us, or otherwise interact with our websites, mobile sites or mobile applications, including:
 
-**Supplemental Information We May Receive From Other Sources**  
-We may supplement information you give us with information from other sources, such as information to validate or update your address, payment card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to enable us to fulfill our products and services, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes consistent with our mission.  
-  
-**Advertising**
+*   Contact information such as name, email address, mailing address, phone number, and mobile number;
+*   User name and password;
+*   When you subscribe to or purchase a product or service, your billing information, subscription preferences and account number where needed for payment, to complete a particular transaction, or to access a particular product or service;
+*   When you post a user review or make a comment in a blog or forum, information you provide such as your user name, email address, geographic location, and the content of your review or comment. and
+*   When you participate in one of our surveys, information you provide to us such as your age, gender and geographic location. information about yourself and your experiences with particular products and services. and your views and opinions on various topics.
 
-Consumer Reports is an independent, nonprofit organization, not beholden to any commercial interests. We pay for all of the products and services we rate and we do not accept advertising from others. Our income derives primarily from the sale of our Consumer Reports products and services and from donations. As a result, we may place ads for Consumer Reports products or services on our Sites and other Web sites. Advertisements displayed to you on our sites and elsewhere may be customized to your interests and preferences based on information collected as you browse online, unless you opt out by following the instructions that can be found below. You have to opt-out using each of your Web browsing applications separately. Tracking technologies like cookies and web beacons are used by our ad partners for these purposes. Some of our products and services, including our ConsumerReports.org Web site, use available Google Analytics Advertising Features and their associated tracking technologies in order to help display the Consumer Reports ads you see on other Sites, and to help us manage and optimize our online advertising efforts. 
+**Information we collect automatically on CR Products_. _** CR Products may collect certain information automatically, including through the use of cookies, web beacons, and other technologies. This information may include the following:
 
-Our Consumer Reports Web sites do not respond to "do-not-track" settings in users' web browsers at this time. However, to opt out of interest-based advertising you can go to our Ad Choices page. To manage the ads Google serves and/or opt-out of Google Analytics Advertising Features, visit Google's Ad Settings page. Web site users can also access the Google Analytics Opt-out browser add-on here.  
+*   Your browser and mobile device type, operating system and name of your Internet service provider;
+*   Web pages you visit within CR Products;
+*   Geo-location information;
+*   Information about your interactions with email messages, such as whether the messages were opened and the links clicked in those emails. and
+*   Standard server log information.
 
-**Licensed Content**  
-Consumer Reports licenses content from various licensors for our products and services. Most such third-party content is hosted directly by us. In a few cases, however, the company licensing content to Consumer Reports may host the content on their Web servers, although our subscribers gain access to the content through our Sites. In such cases, the content licensor may collect aggregate tracking information such as domain name and IP (Internet Protocol) addresses for those who access the hosted content. **Those companies are restricted from sharing or reselling any PII collected.**
+**Information we obtain from other sources.** We may collect information about you from other sources, including when you use social media integrated with our products and services (for example, on our pages on Facebook) and when you purchase certain of our mobile products and services from third party services. Examples of the type of information we may receive from other sources are user name and password and payment card information and demographic and lifestyle information.
 
-THIRD PARTY SITES AND SERVICES
+**Combining Information.** Please note that the information we collect about you may be combined or supplemented with information from other sources, such as information to validate or update your address, payment card or demographic information.
 
-Our Sites and other products and services may contain links to third-party Web sites or access to third-party services for your convenience and information. If you disclose your personal information to third parties, different rules will apply to their use and disclosure of personal information you disclose to them. We are not responsible for and do not control the privacy practices or the content of those other sites or services so you should investigate their policies before you disclose your personal information to them. Similarly, if you subscribe to or purchase a Consumer Reports product or service or communicate with us through a company or service other than Consumer Reports, such as a magazine subscription service, an online book or magazine store, digital application service provider, telecommunication service provider, or social media service, then the privacy policy of that entity will control any information you provide to that third party and will operate independently of this Privacy Policy. We encourage you to review the privacy policy of any company before submitting your personal information.
+**3. Use of Information**
 
-We work with third parties, such as ad networks, analytics companies and social networking platforms, and they may collect information about your online activities over time and across our sites and other online services. 
+Information we collect is used for a variety of purposes, such as to fulfill a product or service you’ve signed up for or purchased from us (e.g. a paid subscription or newsletter), customize your online experience, or provide you with information regarding products and services we believe may be of interest to you. Other purposes for which we may use your information include to:
 
-SHARING YOUR PERSONALLY IDENTIFIABLE INFORMATION
+*   Contact you regarding your use of our products and services and matters that affect you;
+*   Enable you to participate in features such as surveys, user reviews, blogs or forums, make a donation, participate in consumer advocacy campaigns, or enter sweepstakes, contests or other special initiatives;
+*   Analyze the use of the CR Products and information about visitors to the CR Products to understand and improve our service offerings;
+*   Update and maintain the accuracy of our information;
+*   Serve banner ads for Consumer Reports products and services on both the CR Products and other websites. and
+*   Provide others with your information for the limited purposes described in this Privacy Policy.
 
-We take very seriously our responsibility to maintain your privacy with respect to your personally identifiable information. We will share that information only as described in this policy. If you wish to opt out of any sharing of information described in this privacy policy go to Choice/Opt Out for instructions.  
-  
-**Sharing with Consumers Union Action Fund, Inc.**  
-If you participate in one of our consumer advocacy campaigns, and as part of that participation you consent to receive electronic communications regarding our advocacy activities, we may share or rent your PII with our affiliate, Consumers Union Action Fund, Inc. ("CU Action Fund") as described in our Consumers Union Advocacy Privacy Policy. CU Action Fund is a 501(c)(4) nonprofit consumer advocacy organization that works to educate the public regarding consumer rights and consumer safety issues and to advocate policies, legislation and regulation that ensure a fair and safe marketplace for consumers. Please see the separate Consumers Union Advocacy Privacy Policy for additional information.  
+**4. Disclosure of Information**
 
-**Donations**  
-If you are an existing customer of Consumer Reports before January 3, 2013 and make a donation at any time directly to Consumer Reports (under any of the Consumer Reports, Consumer Reports Foundation or Consumers Union names), none of the information from that donation will be rented or exchanged with any other company or organization except CU Action Fund.  
-  
-If you become a new customer of Consumer Reports on or after January 3, 2013 and later make a donation directly to our organization, CR may provide that information to its affiliates, including CU Action Fund and Consumer Media LLC, owner and operator of the Consumerist Web site.  CR may also exchange, rent or otherwise provide information from such donors (including your full name, address and donation information, but excluding your email address, telephone number(s) and any financial account information) with other organizations.
+We are committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you. If you wish to opt out of any sharing of information described in this Privacy Policy, go to the Choice/Opt Out section below.
 
-If you want to opt out of any sharing of information described in this section with unaffiliated third parties, go to Choice/Opt Out for instructions.
+**Consumers Union Action Fund, Inc.** When you participate in one of our consumer-advocacy campaigns, and agree to receive electronic communications regarding our advocacy activities, we may share your information with the Consumers Union Action Fund, Inc. (the “CU Action Fund”), a 501(c)(4) nonprofit consumer advocacy organization that works to ensure a fair and safe marketplace for consumers. Please see the separate Consumers Union Advocacy Privacy Policy and the CU Action Fund Privacy Policy for additional information.
 
-**Sharing with Other Companies for Direct-Mail and Other Promotional Offers**  
-We may share certain information about you for direct-mail and other promotional offers when you subscribe to Consumer Reports magazine or our print newsletters, or purchase any of our print publications. 
+**Donations.** We may share certain information about you when you make a donation to Consumer Reports or one of our related organizations.
 
-If you are an existing customer before August 1, 2014 and subscribe to Consumer Reports magazine or our print newsletters or purchase any of our print publications either by mail, phone, or online, we may exchange or rent your name and mailing address (but not your email address) with other companies that offer products or services through direct-mail.  We screen all such offers and strive to select trustworthy, reputable companies who offer high quality products or services of interest to you.  Each mailing list exchange or rental limits the recipient company's use to one promotional effort only.  If you prefer not to receive these offers, please go to Choice/Opt Out for instructions.
+If you became a customer of Consumer Reports before January 3, 2013 and make a donation directly to Consumer Reports, Consumer Reports Foundation or Consumers Union, none of the information from that donation will be rented or exchanged with any company or organization other that the CU Action Fund.
 
-If you subscribe to Consumer Reports magazine or our print newsletters or purchase any of our other print publications on or after August 1, 2014, we may provide certain information about you to other companies that offer products or services through direct-mail and other channels.  If you prefer not to receive these offers, please go to Choice/Opt Out for instructions.
+If you became a new customer of Consumer Reports on or after January 3, 2013 and later make a donation directly to Consumer Reports, Consumer Reports Foundation or Consumers Union, information from that donation may be shared with our affiliates (including the CU Action Fund and Consumer Media LLC, owner of the Consumerist website). We may also provide information from such donors (including your full name, address and donation information, but excluding your email address, telephone number(s) and any financial account information) to other organizations.
 
-**Sharing with Service Providers**  
-We may contract with other companies to provide certain services on our behalf, including but not limited to payment-card processing, shipping, mail and email distribution, mobile messaging, web site hosting, mobile payment processing via wireless carriers, monitoring of user product reviews and Ratings, digital publishing, analytics and promotions management. For some of our surveys, we may contract with other companies to issue survey participation invitations on our behalf, to host surveys for us, or perform other information-gathering, processing and validation-related services. We provide these companies only with the information they need to perform their services. For some of our paid mobile products and services, our mobile payment process service providers will provide your information directly to your mobile telephone service provider, which bills you directly. Please note in these instances that our Privacy Policy does not apply to your mobile phone service provider's use of your personal information. You should consult its privacy policy.  
+If you want to opt out of any sharing of information described in this section with unaffiliated third parties, please go to Choice/Opt Out for instructions.
 
-**Sale of a Business or Sharing for Legal Purposes**  
-From time to time, we may purchase or establish a business, or sell one or more of our businesses and your personally identifiable information may be transferred as part of the merger or acquisition, creation of a separate business to provide certain of our products and services, or sale or pledge of our assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of Consumer Reports. Information, including personal information, about Consumer Reports' customers, donors and other users of our Sites and other products and services may also need to be disclosed in connection with a transaction in which Consumer Reports or one of our affiliates, is seeking financing, investment, support or funding.  If we sell a business or engage in one of the other types of transactions noted above, personal information will be subject to the promises made in our privacy policy in effect at the time of the transfer of that information. We reserve the right to share your personal identifiable information with legal authorities if required by law, for example, to comply with a court order or subpoena, or if we determine in our sole discretion that it is necessary to investigate, prevent or take action regarding suspected illegal activities, any violations of our User Agreement (including this Privacy Policy), or in connection with any safety or security concerns.  
+**User Reviews.** If you submit user reviews, we may share your submissions with other websites or provide links to your submissions from other websites.
 
-**Mandatory Disclosure for Certain Promotional Offers, Sweepstakes or Contests**  
-If you provide your name for a promotional offer to enter a sweepstakes or contest, and win a prize, we will post a winner's list online, and will file your name, address and phone number with state agencies and/or otherwise disclose and/or file a winner's list as required by law.  
-  
-**Third-Party Use of Aggregate, Anonymous Data**  
-We authorize certain service providers to utilize for their business purposes and in accordance with their privacy policies aggregated, anonymous information derived from data collected when you use the products and services they support on our behalf, for example, to report on usage or industry trends to their customer base. This information includes such anonymous, aggregated information as what products are purchased and/or downloaded, web browser types, screen resolution and mobile device type. None of this information identifies you personally, nor do our service providers link it any of the personally identifying information we collect from you.
+**Direct-Mail and Other Promotional Offers.** We may share certain information about you for direct mail and other promotional offers when you subscribe to Consumer Reports magazine or our print newsletters, or purchase any of our print publications.
 
-CHOICE/OPT OUT
+If you are an existing customer before August 1, 2014 and subscribe to Consumer Reports magazine or our print newsletters or purchase any of our print publications either by mail, phone, or online, we may exchange or rent your name and mailing address (but not your email address) with other companies that offer products or services through direct-mail. We screen all such offers and strive to select trustworthy, reputable companies who offer high quality products or services of interest to you. Each mailing list exchange or rental limits the recipient company's use to one promotional effort only. If you prefer not to receive these offers, please go to Choice/Opt Out for instructions.
 
-**Service Related Announcements**  
-We may send you emails relating to your account. These include emails such as order confirmations, renewal/expiration notices, and payment-card problem notifications. We may also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or the delivery of a service is delayed we might send you a notice, or if there is some service issue with something you might have ordered. You may not opt-out of these communications, which are not promotional in nature.  
+If you subscribe to Consumer Reports magazine or our print newsletters or purchase any of our other print publications on or after August 1, 2014, we may provide certain information about you to other companies that offer products or services through direct-mail and other channels. If you prefer not to receive these offers, please go to Choice/Opt Out for instructions.
 
-**Opting Out of Other Communications**  
-Consumer Reports provides you with the opportunity to opt out of receiving other communications from us and our affiliate, CU Action Fund. Please note that you must separately opt out of communications by publication and business unit (e.g., publications, fundraising, survey research, etc.).  
-  
-For more information about opting out of non-service related communications, please see the following:
+**Authorized Third-Party Service Providers.** We may share your information with third party service providers who help us with specialized services, such as payment processing, shipping, mail and e-mail distribution, mobile messaging, website hosting, monitoring of user reviews and ratings, digital publishing, analytics, promotions management, surveys and mobile payment processing. We provide these companies only with the information they need to perform their services. For mobile payment processing, the mobile payment service providers will provide your information to your mobile telephone service provider to bill you directly.
 
-**Electronic Newsletters**  
-We offer several email newsletters. If you no longer wish to receive a specific newsletter, follow the link to manage your newsletter subscriptions located near the bottom of each newsletter, or call Customer Relations. Opting out of one email newsletter will not terminate all email newsletters for which you have subscribed.  
-  
-**Electronic CU Action Fund Communications**  
-If you no longer wish to receive electronic CU Action Fund communications, follow the 'unsubscribe' link located near the bottom of any electronic CU Action Fund communication.  
+**Promotional Offers, Sweepstakes, or Contests.** If you choose to enter a sweepstakes, contest or other promotion, your information may be disclosed to third parties who help design, administer and implement the promotion, including in connection with winner selection, prize fulfillment and aggregated data analysis. Your information also may be disclosed as required by law, such as on a winners list.
 
-**Promotional Communications**  
-If you prefer not to receive electronic promotional communications you can opt-out by following the unsubscribe instructions included in each communication. If you prefer not to receive text or wireless promotional communications you can opt out by following the STOP instructions included in each communication. Alternatively, you can indicate your preference not to receive promotional communications from us by either going into your Account online and changing your preferences as outlined below or contacting Customer Relations.  
-  
-**To Change Personal Preferences Online**  
-To Change Preferences for receiving Electronic Promotional Communications about Online Products and Services:
+**Aggregated, Anonymous Information.** We authorize certain service providers to utilize for their business purposes and in accordance with their privacy policies certain aggregated, anonymous information derived from data collected when you use the products and services they support on our behalf, such as to report on usage or industry trends to their customer base. This aggregated, anonymous information does not identify you personally.
 
-1.  Go to www.ConsumerReports.org.
-2.  Click on My Account.
-3.  Under "Manage online products", log in with your user name and password.
-4.  In the section entitled "My personal information", click on "Manage my preferences."
-5.  Select or de-select the email/text updates you would like to receive or stop receiving.
-6.  Click the "Update preferences" button.
+**Business Transfers**.  We may share your information in connection with a substantial corporate transaction, such as the sale of one or more of our businesses, a merger, the creation of a separate business to provide certain of our products and services, the sale or pledge of our assets, or in the unlikely event of bankruptcy, insolvency or receivership. Information about our customers, donors, and other users of our websites and other products and services may also be shared in connection with a transaction in which Consumer Reports or one of our affiliates, is seeking financing, investment, support, or funding.
 
-To Change Preferences for receiving Electronic Promotional Communications about Print Products and Services:
+If we engage in any of these types of transactions, your information will be subject to our privacy policy in effect at the time of the transfer of that information.
 
-1.  Go to www.ConsumerReports.org.
-2.  Click on My Account.
-3.  Under "Manage print products", click on the "Access Account" link under the relevant print product(s).
-4.  Enter your last name, account number and security code.
-5.  Click on "Add/Change My E-mail address."
-6.  Under "we contact our customer by email…", change the selection to "no."
-7.  Click "Save My Changes".
+**Legal Requirements.** We may disclose your information if required by law, such as to comply with a court order or subpoena. 
 
-**Contact Customer Relations as follows:** (Be sure to include your full name, address, telephone number and account information.)  
-  
-By Email: _www.consumerreports.org/email_  
-  
-By Mail: Consumer Reports Customer Relations  
-101 Truman Avenue  
-Yonkers, NY 10703  
-By Phone: 1-914-378-2300  
+**Protect our Websites and Users.** We may also disclose your information to investigate, prevent or take action regarding suspected illegal activities or any violation of the User Agreement or to protect and defend the legal rights and safety of our websites and our employees, agents and contractors (including to enforce our agreements) or in connection with any safety or security concerns. 
 
-**Direct Mail Communications From Consumer Reports**  
-If you would like to opt-out of receiving direct mail promotional offers for any Consumer Reports products or services, please call us at 1-800-234-1645. Be sure to state your full name and address and account information (if applicable) along with your request. If you would like information about the Direct Marketing Association's Commitment to Consumer Choice, please visit www.DMAChoice.org.  
-  
-**Direct-Mail Promotional Offers**  
-If you prefer not to receive direct mail offers from third parties, please tell us so by calling us at 1-800-234-1645 or writing to:  
+**5. Choice/Opt out**
 
-Consumer Reports, Mail Preference Service  
+**General Communications from us.** Consumer Reports is committed to protecting your privacy and providing you with choice as to how your personally identifiable information is used or disclosed for certain purposes.
+
+You can opt out of receiving promotional or other communications from Consumer Reports or our affiliates, or request that we not share personally identifiable information about you with third parties for their marketing purposes by calling us at 1-800-234-1645 or writing to us at:
+
+Consumer Reports  
+Attn: Opt out Preference Center  
 PO Box 2109  
-Harlan, IA 51593  
-  
-Be sure to include your full name and address and account information along with your request.  
-  
-It may take several weeks for your request to become effective.
+Harlan, IA 51593
 
-**Donations**  
-When you make a donation or contribution to Consumer Reports, Consumer Reports Foundation, Consumers Union or to CU Action Fund, you may be contacted by mail, phone or email to make an additional donation to Consumer Reports, Consumer Reports Foundation, Consumers Union or to CU Action Fund or to subscribe to our products and services.  
-  
-If you do not wish to receive any postal mail solicitations for donations from us please write:  
+Be sure to state your full name, address, and account information (if applicable) along with your request. Please note that we have a number of business units (such as Consumer Reports magazine, Consumer Reports online, surveys (including the Annual Questionnaires), and our print or email newsletters) so you will need to specify which unit’s communications you no longer wish to receive.
+
+Additionally, you can change your preferences relating to receipt of a specific electronic newsletter or other communication by following the link near the bottom of the newsletter or such other communication. If you prefer not to receive text or wireless promotional communications you can opt out by following the STOP instructions included in each communication. You can also manage your account preferences for receiving electronic promotional communications from Consumer Reports by clicking here.
+
+If you reside in the U.S., you may also opt out of receiving direct mail promotional communications from Consumer Reports and other organizations by using the online opt out method provided by the Direct Marketing Association. If you would like information about the Direct Marketing Association's Commitment to Consumer Choice, or to opt out, please visit https://www.dmachoice.org/.
+
+If you reside in Canada, please visit the Canadian Marketing Association’s website here to learn about their Do Not Contact Service and to have your name and address removed from marketing lists held by Canadian Marketing Association members**.** 
+
+**Direct-Mail Promotional Offers from Third Parties.**  
+If you are a subscriber to one of our print magazines or newsletters and prefer not to receive direct-mail promotional offers from third parties as described in Section 4 above, you can opt out by calling us toll free at 1-800-234-1645 or by writing to us at the address listed in the section above. You can also opt out online here.
+
+It may take several weeks for your request to become effective. If you have any questions about your opt out choices, please call us toll-free at 1-800-234-1645.
+
+Please note that even if you opt out of receiving promotional messages from Consumer Reports and/or third parties, we may still send you service-related e-mails relating to your account, including order confirmations, renewal/expiration notices, payment card notifications, and on rare occasions, service-related announcements (such as if there is a service issue).
+
+**Fundraising Communications.** If you wish to opt out of receiving fundraising communications from us, please call us at 1-800-234-1645 or write to us at:  
   
 Consumer Reports Development Office  
-No Mail Solicitations  
-101 Truman Ave.  
-Yonkers, NY 10703  
-  
-If you do not wish to receive telephone solicitations for donations from us please write:  
-  
-Consumer Reports Development Office  
-No Telephone Solicitations  
-101 Truman Ave.  
-Yonkers, NY 10703  
-  
-If you do not wish to receive email solicitations from us please write:  
-  
-Consumer Reports Development Office  
-No Email Solicitations  
-101 Truman Ave.  
-Yonkers, NY 10703  
-  
-If you do not wish us to share your information with unaffiliated third parties, please write:  
-  
-Consumer Reports Development Office  
-No Information Sharing  
-101 Truman Ave.  
-Yonkers, NY 10703
-
-You may also click here to change your fundraising communications preferences via our online form.  
-
-SURVEYS
-
-We have supplementary policies that specifically address information collected through participation in our surveys because we treat survey response information differently. We conduct different types of surveys using Consumer Reports research staff or through research firms we hire. We conduct surveys in both print and electronic formats. Survey data is stored securely and for a limited period of time.  
-  
-When you participate in one of our surveys, we ask for a variety of information including: (1) demographic information, such as your age, gender, and geographic location, (2) information about yourself and about your experiences with products and services (some of which information may be personally identifying) and (3) your views and opinions on various topics.  
-  
-The following principles govern our use of the information we collect through surveys:  
-  
-First, your survey responses will be used only in combination with those of other survey respondents to produce information to help consumers in today's marketplace. Your individual responses will remain confidential to Consumer Reports (and our agents and service providers) and will not be used for non-research purposes.  
-  
-Second, you will not receive marketing or other non-research materials as a result of participating in a survey, although it is possible that you may receive such materials as a result of your prior business relationship as a customer or subscriber of Consumer Reports' products or services, as a member of Consumer Reports or as a donor to our organization.  
-  
-There are two general exceptions to these principles:  
-  
-(1) As part of our quality control efforts, if you participate in a survey, you may be contacted by Consumer Reports or its agents to validate that you did take part in the survey. and  
-  
-(2) With your prior affirmative consent (if provided in your initial survey response), our researchers may follow up with you based on your specific answers to a survey. For example, if you tell us you have a particular car model and we have additional questions about that car, we may select you to participate in a second survey, but only if you provided us with affirmative permission to do so in the initial survey.  
-  
-If you wish to decline participation in future surveys, we will honor your opt-out request as quickly as possible. If you are a print (or other offline e.g., telephone) survey participant, you may opt out of receiving future offline surveys by calling us at 1-800-234-1645 or by writing to us at:  
-  
-Consumer Reports Customer Relations  
-Attn: Privacy  
+Fundraising Solicitations  
 101 Truman Avenue  
-Yonkers, NY 10703
+Yonkers, NY 10703.
 
-**Online Surveys**  
-If you are an online survey participant, we provide you with instructions on how to opt out of receiving future invitations in each email survey invitation. If you opt out of any online survey, you will be opted out of all of our online surveys with one important exception: the online version of our Annual Questionnaire. Each year Consumer Reports asks subscribers to participate in a survey about cars, and other products and services. It is one of the largest surveys of its kind, and we use the answers to create our unique reliability and service ratings that we make available to subscribers throughout the year. For information on how to opt out of the print or online version of the Annual Questionnaire, see below.  
-  
-**Opting out of Annual Questionnaire and Ballot (print version)**  
-Please note that you must separately opt out of receiving the print version of our Annual Questionnaire, which is a survey we send each year to paid annual subscribers to our magazine and ConsumerReports.org products who do not receive the online version of the Questionnaire. The Annual Questionnaire is handled separately because it contains the ballot for the election of our Board of Directors. If you opt out of the Annual Questionnaire, you will no longer receive a ballot for the election of our Board of Directors unless you separately contact us for a ballot by calling us at 1-800-234-1645 or writing to us at the address indicated above. Please keep in mind that if you elect to continue receiving the Annual Questionnaire and Ballot, you can complete and return the ballot portion without completing the survey portion.  
-**  
-Opting out of Annual Questionnaire and Ballot (online version)**  
-The online version of our Annual Questionnaire is handled separately because like the print Annual Questionnaire, it also contains the ballot for the election of our Board of Directors. If you no longer wish to receive the online Annual Questionnaire, you must separately opt-out of that survey by following instructions at the bottom of the email invitation. If you opt out of the Annual Questionnaire and Ballot, you will no longer receive a ballot for the election of our Board of Directors unless you contact us for a ballot by calling us at 1-800-234-1645 or writing to us at the address indicated above. If you elect to continue receiving the online Annual Questionnaire and Ballot, you can complete and return the online ballot without completing the survey portion.
+Please indicate whether you prefer not to receive fundraising solicitations by postal mail, telephone or email, or don’t want us to share such information with third parties. You may also change your fundraising communications preferences by clicking here.
 
-HOW YOU CAN HAVE ACCESS TO AND CORRECT YOUR INFORMATION
+Please note that because we schedule many of our communications in advance, it may take several weeks for an opt out request to become effective. If you continue to receive any communication after opting out, please let us know so that we can take appropriate action.
 
-Consumer Reports provides you with the ability to access and edit the personal information that you have provided to us in your online account, if you have one. To update your information, please log in online and visit My Account. Or, for any other requests, write to us at:  
-  
+**Advertising.** To maintain its independence and impartiality, CU accepts no outside advertising. However, we may place ads for Consumer Reports products or services on other websites. Advertisements displayed to you on our sites and elsewhere may be customized to your interests and preferences based on information collected as you browse online, unless you opt out of interest-based advertising by following the instructions that can be found here. You can also visit Google's Ad Settings to manage the ads Google serves.
+
+Tracking technologies like cookies and web beacons are used by our ad partners for these purposes. Some of the CR Products, including our ConsumerReports.org website, use available Google Analytics Advertising Features and their associated tracking technologies in order to help display the Consumer Reports ads you see on other sites, and to help us manage and optimize our online advertising efforts. To opt out of Google Analytics Advertising Features, visit the Google Ad Settings page. Website users can also access the Google Analytics opt out browser add-on here.
+
+Some Internet browsers include the ability to transmit “Do Not Track” signals. Since uniform standards for “Do Not Track” signals have not been adopted, the CR Products do not process or respond to “Do Not Track” signals in users’ web browsers at this time.
+
+**Cookies.** You can opt out of accepting cookies, and you can also disable them entirely. The Help function on most browsers contains information on how you can set your browser to notify you before accepting cookies or disable them entirely. However, if you don't accept cookies, you won't be able to take advantage of various features of the CR Products that are available to other visitors.
+
+**6. Accessing Your Information**
+
+If you have provided personal information to us in an online account, you can access and edit that information by logging in and visiting here. For any other requests, please write to us at:
+
 Consumer Reports Customer Relations  
 Attn: Account Information  
 101 Truman Avenue  
-Yonkers, NY 10703
+Yonkers, NY 10703.
 
-YOUR CALIFORNIA PRIVACY RIGHTS
+**7\. Protection of Information**
 
-California Civil Code Section 1798.83 permits users of our Sites who are California residents to request certain information regarding disclosure of personal information to third parties for such third parties' direct marketing purposes. You may make such a request by writing to us at:  
-  
+We are committed to protecting your information from loss, misuse or unauthorized alteration. We have put in place physical, technical and administrative procedures to help safeguard and prevent unauthorized access to the data we collect.
+
+Please note that no method of transmitting or storing electronic data is ever completely secure. Therefore, we cannot promise or guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this Privacy Policy. For more on how the information you provide is secured, you can visit the Protection of Information page.
+
+**8. Third Party Sites and Services**
+
+This Privacy Policy does not cover the practices of third parties, including those that may disclose information to us. We recommend that you review their policies before you visit those sites.
+
+Similarly, if you purchase a Consumer Reports product or service or communicate with us through a company or service other than Consumer Reports (such as a magazine subscription service, online book or magazine store, digital application service provider, telecommunication service provider, or social-media service), then the privacy policy of that company will control any information you provide to that company. We encourage you to review the privacy policy of any company before submitting your personal information.
+
+We work with third parties, such as ad networks, analytics companies and social networking platforms, and they may collect information about your online activities over time and across our sites and other online services.
+
+**9. Changes to this Privacy Policy**
+
+We may revise this Privacy Policy to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Effective Date" posted at the top of the Policy.
+
+If we make a material change in how we use your personal information, we’ll post a notice on the CR websites 30 days prior to the change and will give you a reasonable opportunity to provide your consent. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained your information. By using the CR Products or other products and services after the effective date of such material change, you are deemed to consent to our then-current privacy policy with respect to any information collected after such effective date, provided that we will obtain your affirmative consent where legally required.
+
+**10. Your California Privacy Rights**
+
+Residents of the State of California may request a list of all third parties to whom certain information has been disclosed during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please write to us at:
+
 Consumer Reports  
 Attn: Legal Department  
 101 Truman Avenue  
-Yonkers, NY 10703-1057  
-  
-or emailing us at: _legaldept@consumer.org_  
-  
-Please include the full name and contact information for your CR account in your request.
+Yonkers, NY 10703-1057
 
-SECURITY OF THE PERSONAL INFORMATION YOU PROVIDE
+or email us at: legaldept@consumer.org.
 
-We work to protect your personal information from loss, misuse or unauthorized alteration. We have put in place physical, electronic and managerial procedures to help safeguard and help prevent unauthorized access and maintain security over the data we collect. We use industry-recognized security safeguards such as firewalls and other security procedures to help protect your information from loss or unauthorized access.  
-  
-We use data encryption technology to help protect against loss, misuse or alteration of your sensitive credit or debit card information. We use Secure Sockets Layer (SSL) technology, which creates an encrypted connection between you and our systems for the transmission of any credit or debit card information you input online and we use encryption protection for any payment authorizations for transactions we request through any channel. Once we collect your credit card or debit card information, it is stored encrypted on restricted-access computers that are not directly accessible via the Internet.  
-  
-Any unauthorized access to or use of any of our Sites and other products and services or to the information collected and maintained by us should be immediately brought to our attention by contacting us via email or by writing to us at Consumer Reports Customer Relations, Attn: Security, 101 Truman Avenue, Yonkers, NY 10703. We will investigate, and, if necessary, take action to mitigate the harm from any violation of the security of your personal information of which we become aware.  
-  
-In the unlikely event that we believe the security of your personally identifiable information, such as payment card information, in our possession or control has been compromised, we will endeavor to provide required notice as soon as possible under the circumstances and if appropriate, will post notices on any applicable Consumer Reports Web site.
+For all requests, you must put the statement "Your California Privacy Rights" in the body of your request and include the name of the CR website with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code.
 
-**Security of Passwords and Public Forums**  
-When you set up an online account with us, you are asked to establish a user name and password. When you later log on to your account, you will be asked to enter your user name and password to protect the security of your online account. If you want to change your password or other subscriber information, you may do so at any time through My Account. If you have forgotten your user name and wish to log on, you will be asked to provide the email address you used when you created the account (or an updated email address that you have previously provided), and an email containing your user name will be sent promptly to that email address. If you wish to log on to your account and have forgotten your password, the online system will request both your email address and your user name, and we will promptly send you an email with a temporary password. You will be prompted to reset it to a new password.  
+**11_. _ Privacy Protection for Children**
 
-If you have a print subscription that is managed online, you will need to provide us with your account number to make any changes to your password or other subscriber information. Both online and print subscribers may also call our customer support to retrieve forgotten account information or to otherwise make changes to their information. In that case, you will be asked to provide your name or email address, as well as the street or post office address we have on record for you, prior to a customer service representative providing or changing your user name or password.  
-  
-It is your responsibility to control the dissemination and use of your user name and password and to control access to and use of your account. We urge you to keep your password confidential and not disclose it to anyone. We also recommend that you never reuse the same password across different websites and other online products and services.  Be sure to sign off when finished using our Sites, especially if you are using a shared or public computer. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision, for example, a third party's unauthorized access to your information.  
-  
-You may choose to send us emails. Information disclosed in emails may not be secure or encrypted and thus may be available to others. Exercise caution when deciding to disclose any personal or confidential information in emails.  
-  
-IMPORTANT - Although we take these steps to protect your personal information, no method of transmitting or storing electronic data is ever completely secure, therefore we cannot promise or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this Privacy Policy.
+The CR Products and other products and services are directed toward a general audience and are intended for adults only. We do not knowingly request information from children under the age of 13. In those instances where a CR Product has actual knowledge that it collects information from or offers a service directed toward children as defined under applicable laws, it will comply with those laws.
 
-CHILDREN'S PRIVACY
+**12. Visitors from Outside the United States**
 
-Our Sites and other products and services are oriented toward a general audience and intended for adults only. We do not knowingly request information from children.
+Consumer Reports is a New York not-for-profit organization headquartered in Yonkers, New York, USA. If you are located outside of the United States, the personal information you provide to us will be transferred to the United States and governed by applicable U.S. laws and regulations and this Privacy Policy. Some of this information may be transferred to and processed and stored by our service providers in other countries. By submitting your personal information to us, you consent to its transfer to and storage in the United States and other countries designated by Consumer Reports, its governance by U.S. laws and regulations, and its use in accordance with this Privacy Policy.
 
-NOTE TO INTERNATIONAL USERS
+**13\. Questions regarding this Privacy Policy**
 
-Consumer Reports is a New York not-for-profit organization headquartered in Yonkers, New York, USA. If you are located outside of the United States, the personal information you provide to us will be transferred to the United States and governed by applicable U.S. laws and regulations and this Privacy Policy. Some of this information may be transferred to, processed and stored temporarily by our service providers in other countries. By submitting your personal information, you consent to its transfer to and storage in the United States and other countries designated by Consumer Reports, its governance by U.S. laws and regulations, and its use in accordance with this Privacy Policy.
+If you have any questions or concerns about this Privacy Policy or would like a written copy, please contact us at:
 
-CHANGES TO THIS PRIVACY POLICY
-
-This Privacy Policy may be amended from time to time. The most recent version of the Privacy Policy will always be posted on our Sites, with the "Effective Date" posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new products and services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, you will know because the Effective Date of the Privacy Policy will change. If we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. If we make a significant or material change in the way we use your personal information, we will make you aware by prominently posting a notice on our Web sites 30 days in advance of any such material change. By using our Sites or other products and services after the Effective Date of such material changes, you are deemed to consent to our then-current privacy policy, provided that we will obtain your affirmative consent where legally required.
-
-HOW TO CONTACT US ABOUT PRIVACY
-
-If you have any questions or concerns about the Consumer Reports Privacy Policy, its implementation, or would like a written copy, please feel free to contact us at:  
-  
 Consumer Reports Customer Relations  
 Attn: Privacy  
 101 Truman Avenue  
 Yonkers, NY 10703  
-  
-Or, if you would like to contact us via email, please visit _www.consumerreports.org/email_.  
-  
-If you feel that we have not followed our Privacy Policy, please let us know. Additionally, you may contact The Direct Marketing Association's Committee on Ethical Business Practices at _ethics@the-dma.org_.
 
-DISPUTES
+Or, if you would like to contact us via e-mail, please visit _www.consumerreports.org/e-mail_.  
 
-Any disputes regarding this Privacy Policy are subject to our User Agreement and will be governed by the laws of the State of New York, applicable to agreements made and performed there.  
-  
-© 2013 Consumers Union of United States, Inc.
+If you feel that we have not followed our Privacy Policy, please let us know. Additionally, you may contact The Direct Marketing Association's Committee on Ethical Business Practices at  _ethics@the-dma.org_ .
+
+**14\. Disputes**
+
+Any disputes regarding this Privacy Policy are subject to our User Agreement and will be governed by the laws of the State of New York, applicable to agreements made and performed in New York.
