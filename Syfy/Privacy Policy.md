@@ -253,7 +253,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 Syfy Video Face Off: Return of the Champions Face Off: Return of the Champions
 
-Theyre baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
+They're baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
 
 Face Off Season 8 Tease Face Off Season 8 Tease
 
