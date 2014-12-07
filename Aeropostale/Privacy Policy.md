@@ -36,6 +36,7 @@ Aéropostale Go
     *   Shorts
     *   Skirts
     
+    *   DRESSES
     *   JACKETS + COATS
     *   SLEEPWEAR
     *   BRAS
