@@ -41,6 +41,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         10.  Deals
         11.  PC Finder
         
+        13.  See all Not sure what you need?
     6.  See all Laptops
     7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
             
@@ -90,6 +91,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  Bags &. Carrying Cases
         6.  Deals
         7.  PC Finder
+        8.  See all Not sure what you need?
     6.  See all Tablets
     7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
             
@@ -135,6 +137,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         8.  Deals
         9.  PC Finder
         
+        11.  See all Not sure what you need?
     6.  See all Desktops &. All-in-Ones
     7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
             
@@ -222,6 +225,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Best Selling Accessories
         3.  Quick Ship Accessories
         4.  View All Accessories
+        5.  See all Not sure what you need?
     6.  See all Accessories &. Software
     7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
             
