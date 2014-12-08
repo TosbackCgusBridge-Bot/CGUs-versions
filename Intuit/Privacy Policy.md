@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  SUSANNE
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13193820278
+true true L13192258982
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sat Dec 06 11:30:46 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Sun Dec 07 04:26:46 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,54 +47,118 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 *   Friends and Family
     
-    Cyber Week Continues
-    
     In Store and Online Thursday through Monday, December 4 through 8.
     
     Online Code: OURFRND
     
     Extra 25% Off\* select apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades.
     
-    Plus Extra 15% Off\* watches, optical and portrait.
+    Or, Extra 15% Off\* watches, optical and portrait.
     
-    \*See exclusions and details. print coupon view store adHundreds of Night and Day Doorbusters
+    \*See exclusions and details. print coupon view store ad50% Off Men's St. John's Bay Sweaters
     
-    Use your coupon and save even more!
+    Plus Extra 25% Off with code.
     
-    In Store Only, Friday, 3PM until CLOSE, Saturday, OPEN until 1PM.
+    Select styles.
     
-    view doorbusters store ad
+    shop men's sweaters40-50% Off Kids' Sweaters and Fleece
+    
+    Plus Extra 25% Off with code.
+    
+    Select styles.
+    
+    shop kids' sweaters40-50% Off Sweaters for Her
+    
+    Plus Extra 25% Off with code.
+    
+    Select styles.
+    
+    shop women's sweaters shop women's sweaters
 *   30-50% Off Home Sale
     
-    Time to deck the halls.
+    Plus, Extra 25% Off with Code: OURFRND
+    
+    Bring home the holidays.
     
     Select styles.
     
-    shop the home sale shop home decor shop luggage shop curtains and drapes shop bedding and bath shop kitchen and dining shop furniture
-    
-    40-50% Off Blinds and Shades
-    
-    Select styles.
-    
-    shop blinds and shades
+    shop the home sale shop bedding and bath shop luggage shop window shop kitchen and dining shop furniture
 
-40-50% Off Select Coats for Her shop women's coats 50% Off Select Kids' Coats and Jackets shop kids' coats 30-40% Off Select Yuu Comfort Boots shop boots 40-50% Off Select Activewear for Her shop women's activewear 40-50% Off Select The Foundry Supply Co. Big and Tall shop men's big and tall 40% Off Select Cold-Weather Accessories shop cold-weather accessories 30-50% Off Small Appliances
+#JustGotJingled
 
-Select styles. Excluded from coupon offer
+At JCPenney, we think giving is simply better than receiving, and we want you to join us on our mission to prove it.
 
-shop small appliances Jingle More Bells shop holiday gifts JCP Rewards
+join the conversation Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
+
+25-40% Off select sleepwear for her
+
+Plus, extra 25% Off with code.
+
+shop women's sleepwear
+
+40-50% Off select sleepwear for him
+
+Plus, extra 25% Off with code.
+
+shop men's sleepwear
+
+25-40% Off select dresses
+
+Plus, extra 25% Off with code.
+
+shop dresses
+
+40-50% Off select kids' Arizona
+
+Plus, extra 25% Off with code.
+
+shop kids' Arizona
+
+50% Off select men's gifts
+
+Plus, extra 25% Off with code.
+
+shop men's gifts
+
+40% Off select women's and juniors' boots
+
+Plus, extra 25% Off with code.
+
+shop women's and juniors' boots
+
+New E-Gift Cards
+
+shop gift cardsHoliday Jewelry Sale
+
+December 4 through 24.
+
+40-60% Off select fine jewelry and Bijoux Bar
+
+shop fine jewelry and Bijoux Bar shop top gifts 30-50% Off Holiday Decor
+
+Select styles.
+
+shop holiday decor Red Zone Clearance 50-70% Off
+
+In Store and Online.
+
+shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Say Hello To The All-New JCPenney App
+sign up today JCP Cares
+
+In the spirit of the holiday giving season, JCPenney Cares is focusing on supporting the families of the men and women serving in the U.S. Armed Forces.
+
+get details People StyleWatch Must Have Gifts
+
+Sponsored content.
+
+shop now Say Hello To The All-New JCPenney App
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
-learn more download from the app store SportsFanShop
-
-Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
-
-shop the SportsFanShop Red Zone Clearance Selections shop clearance
+learn more download from the app store
 
 get connected
 
