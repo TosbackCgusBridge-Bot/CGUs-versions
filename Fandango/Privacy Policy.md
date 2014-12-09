@@ -12,33 +12,27 @@ Gift Cards | Offers | Visa Signature
     *   Dumb and Dumber To
     *   The Theory of Everything
     *   Gone Girl
+    *   The Pyramid
     *   Birdman
     *   St. Vincent
-    *   Beyond the Lights
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Pyramid
-    *   Wild
-    *   Dying of the Light
-    *   Dirty Dealing
-    *   Inside the Mind of Leonardo 3D
-    *   Life Partners
-    *   She's Beautiful When She's Angry
-    *   Take Care
-    *   Comet
-    *   Pioneer (2014)
+    *   Exodus: Gods and Kings
+    *   Top Five
+    *   Inherent Vice
+    *   Magician: The Astonishing Life and Work of Orson Welles
+    *   Six Dance Lessons in Six Weeks
+    *   We Are the Giant
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Exodus: Gods and Kings
     *   Into the Woods
     
     Coming Soon
     
-    *   Top Five
     *   Annie (2014)
     *   The Hobbit: The Battle of the Five Armies
     *   The Interview
@@ -70,7 +64,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Big comic casting news: Benedict Cumberbatch is officially Dr. Strange, 'Deadpool' is coming Read More It's official: the Suicide Squad has been cast, and you won't believe who's starring... Read More 'Bond 24' has an official title and cast. Find out what it is, and who's in it Read More Explore More
+*   Movie News Featured Movie News Japanese 'Godzilla' will stomp into theaters. 'Star Trek' needs a new director Read More Guess what? The top 10 stars of 2014 are all women. Find out who they are Read More These characters are the perfect Christmas tree toppers -- see why Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
