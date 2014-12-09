@@ -32,7 +32,9 @@
     *   Board
     *   Trustees
 
-*   *   Press releases
+*   *   Press releases - 2014
+    *   *   Shane Naughton appointed chief financial officer at The Economist Group
+    *   Press releases
     *   Contacts
     *   Media directories
 
