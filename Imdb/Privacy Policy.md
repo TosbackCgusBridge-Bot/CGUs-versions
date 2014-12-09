@@ -1,6 +1,6 @@
 IMDb Privacy Notice
 
-**Last Updated, March 17, 2014**. To see what has changed click here.
+**Last Updated, December 5, 2014**. To see what has changed click here.
 
 IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, you are accepting the practices described in this Privacy Notice.**
 
@@ -11,6 +11,7 @@ The information we learn from users helps us personalize and continually improve
 *   **Information You Give Us**: We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future browsing for you, improving our site, and communicating with you.
 *   **Automatic Information**: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses IMDb or advertisements and other content served by or on behalf of IMDb on other Web sites. Click here to see examples of the information we receive.
 *   **E-mail Communications**: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from IMDb if your computer supports such capabilities. We also compare our user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our users. If you do not want to receive e-mail or other mail from us, please use our User Administration pages to adjust your preferences.
+*   **Mobile**: When you download or use apps created by IMDb, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, local showtimes, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, click here.
 *   **Information from Other Sources**: We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 **What About Cookies?**
