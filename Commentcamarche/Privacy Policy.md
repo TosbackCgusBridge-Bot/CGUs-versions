@@ -122,9 +122,9 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
 Conditions-generales-d-utilisation.pdf A voir également
 
-*   Conditions générales d'utilisation
-*   Condition générale d'utilisation site web
-*   Conditions generales de mise à disposition d un site
+*   Conditions générales
+*   Conditions Générales D'utilisation
+*   Utilisation d'un site web
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
