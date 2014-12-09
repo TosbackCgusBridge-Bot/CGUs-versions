@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13192258982
+true true C13074933711
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Sun Dec 07 04:26:46 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p39.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Dec 08 11:26:20 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,7 +47,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 *   Friends and Family
     
-    In Store and Online Thursday through Monday, December 4 through 8.
+    Last day! In Store and Online.
     
     Online Code: OURFRND
     
@@ -82,63 +82,65 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Select styles.
     
-    shop the home sale shop bedding and bath shop luggage shop window shop kitchen and dining shop furniture
+    shop the home sale shop bedding and bath shop home decor shop window shop kitchen and dining shop furniture
 
-#JustGotJingled
+One-Day Deals--Today Only!
 
-At JCPenney, we think giving is simply better than receiving, and we want you to join us on our mission to prove it.
+Extra savings on your favorite gifts during Green Monday. Online only.
 
-join the conversation Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
-
-25-40% Off select sleepwear for her
-
-Plus, extra 25% Off with code.
-
-shop women's sleepwear
-
-40-50% Off select sleepwear for him
-
-Plus, extra 25% Off with code.
-
-shop men's sleepwear
-
-25-40% Off select dresses
-
-Plus, extra 25% Off with code.
-
-shop dresses
-
-40-50% Off select kids' Arizona
-
-Plus, extra 25% Off with code.
-
-shop kids' Arizona
-
-50% Off select men's gifts
-
-Plus, extra 25% Off with code.
-
-shop men's gifts
-
-40% Off select women's and juniors' boots
-
-Plus, extra 25% Off with code.
-
-shop women's and juniors' boots
-
-New E-Gift Cards
-
-shop gift cardsHoliday Jewelry Sale
-
-December 4 through 24.
-
-40-60% Off select fine jewelry and Bijoux Bar
-
-shop fine jewelry and Bijoux Bar shop top gifts 30-50% Off Holiday Decor
+$12.99 A.N.A Crewneck Sweater
 
 Select styles.
 
-shop holiday decor Red Zone Clearance 50-70% Off
+shop now $31.99 Dockers Signature Khakis
+
+Regularly $58. Select styles.
+
+shop now 50% Off Gemstones
+
+Select styles.
+
+shop gemstones shop pearls $19.99 Bella 12-Cup Coffeemaker
+
+Select styles.
+
+shop now $39.99 Levi's 501™ Original Fit Jeans
+
+Regularly $68. Select styles.
+
+shop now 50% Off Velvet Plush Blankets
+
+Select styles.
+
+shop now 40-50% Off Kids' Sleepwear
+
+Select styles.
+
+shop kids' shop boys' shop boys' shop girls' shop girls' 30-40% Off Totes
+
+Select styles.
+
+shop now 50% Off Women's Coats
+
+Select styles.
+
+shop now All-New E-Gift Cards!
+
+Quick: Emailed within minutes or on a date of your choice.
+
+Personal: Customize with a message, photo or video.
+
+Convenient: Redeem at any JCPenney store or jcp.com.
+
+Order through December 25 for Christmas day delivery!
+
+This link will take you to our partner site operated by CashStar.
+
+shop e-gift cards #JustGotJingled
+
+At JCPenney, we think giving is simply better than receiving, and we want you to join us on our mission to prove it.
+
+join the conversation Red Zone Clearance 50-70% Off
 
 In Store and Online.
 
