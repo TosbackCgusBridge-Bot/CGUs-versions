@@ -272,15 +272,16 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Doorbuster Deals
-        2.  Cyber Monday Sale
-        3.  Holiday Gift Guide
-        4.  ThinkPad &. ThinkCentre QuickShips
-        5.  Accessories Stocking Stuffers
-        6.  Bing Page Deals
-        7.  Deals for Students and Educators
-        8.  Outlet
-        9.  See all Current Offers
+        1.  Home Laptop &. Desktop Deals
+        2.  Professional Laptop &. Desktop Deals
+        3.  Daily Deals
+        4.  Holiday Gift Guide
+        5.  ThinkPad &. ThinkCentre QuickShips
+        6.  Accessories Stocking Stuffers
+        7.  Bing Page Deals
+        8.  Deals for Students and Educators
+        9.  Outlet
+        10.  See all Current Offers
     3.  See all Deals
     4.  *   Save BIG on Doorbusters Hurry, these sell out fast!
             
