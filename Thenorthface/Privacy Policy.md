@@ -1,4 +1,5 @@
 **OUR PRIVACY POLICY**  
+
 Last updated:  August 22, 2014  
    
 The North Face® recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.   
