@@ -110,6 +110,10 @@ Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now
 *   OTA Blog
 *   Newsletters
 
+Tue, Dec 9, 2014 OTA Supports American Bankers Assoication Petition to the FCC
+
+OTA supports the petition for exemption of the Telephone Consumer Protection Act (TCPA) as requested by the ABA, limited to security and fraud prevention notification purposes and respectfully urges the Commission to grant the requested exemption. Doing so will facilitate prompt and efficient communication of time-sensitive information that can both limit the occurrence and impact of online crime and identity theft.
+
 Fri, Nov 21, 2014 The Promise of Ad Supply Chain Accountability
 
 A few weeks ago, I attended the IAB Ad Operations Summit. The Summit focused on cleaning up the advertising supply chain, combating fraud, and identifying more streamlined ways to accurately measure ad performance. The underlying message of the Summit was the need for collaboration and industry buy-in. Just as standardization is impossible unless everyone is committed to following the same standards, cleaning up the supply chain is impossible unless everyone agrees to identify and shut out disreputable players.
@@ -121,12 +125,6 @@ Throughout the world businesses are eagerly capitalizing on the promise and pote
 Wed, Nov 12, 2014 Time to Support Breach Legislation - We need Your Help!
 
 Last Thursday more than 40 organizations representing retailers, restaurants and other businesses – including the National Retail Federation, National Restaurant Association and Food Marketing Institute - sent a letter to Congressional leaders, stating legislation is needed to address data breaches covering all entities that handle sensitive information. Now it is your turn!
-
-Sun, Nov 2, 2014 Cybersecurity, The Blind Side, The Insider Threat
-
-**Cybersecurity, The Blind Side, The Insider Threat**
-
-Perhaps you remember the football movie, The Blind Side, with Sandra Bullock about an impoverished young boy who was adopted and eventually became a NFL football player. The blind side is also a football term which loosely means “something that approaches from the side you cannot see.” Usually the side of the quarterback away from where he is looking. Do we have a “blind side” in cybersecurity too? Perhaps.
 
 Resources
 
