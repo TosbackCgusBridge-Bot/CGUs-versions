@@ -1,6 +1,6 @@
-The best place to start your holiday shopping is
+Make sure their gifts arrive on time.
 
-one click away.
+Shipping Deadlines
 
 Online Orders 800-522-8090
 
