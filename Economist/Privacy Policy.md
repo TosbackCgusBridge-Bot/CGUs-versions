@@ -33,7 +33,8 @@
     *   Trustees
 
 *   *   Press releases - 2014
-    *   *   Shane Naughton appointed chief financial officer at The Economist Group
+    *   *   John Micklethwait to leave The Economist
+        *   Shane Naughton appointed chief financial officer at The Economist Group
     *   Press releases
     *   Contacts
     *   Media directories
