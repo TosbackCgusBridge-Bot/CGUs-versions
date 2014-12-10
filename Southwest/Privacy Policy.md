@@ -84,9 +84,9 @@ When you make a travel reservation with us and you provide your e-mail address d
 
 E-mail Promotions, Offers, and Updates
 
-As a Member of the Rapid Rewards® program, you may receive Rapid Rewards® e-mail communications, which may include program news and special offers, either during the Rapid Rewards® enrollment process or from your Rapid Rewards account preferences web page. During enrollment, the default option is to receive both Rapid Rewards® e-mail products.  If you are not interested in receiving these messages with special Members-only news and offers, the boxes should be unchecked prior to submitting the enrollment form. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.  
+As a Member of the Rapid Rewards® program, you may receive Rapid Rewards e-mail communications, which may include program news and special offers, either during the Rapid Rewards enrollment process or from your Rapid Rewards account preferences web page. During enrollment, the default option is to receive both Rapid Rewards e-mail products.  If you are not interested in receiving these messages with special Members-only news and offers, the boxes should be unchecked prior to submitting the enrollment form. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.  
   
-We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards® or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save® and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.  
+We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.  
   
 For your convenience, a brief description of the periodic e-mails you may choose to receive from us is also provided in the list below along with links to either subscribe or unsubscribe (as applicable) to each option.  
 
@@ -95,22 +95,22 @@ For your convenience, a brief description of the periodic e-mails you may choose
 Subscribe
 
 **In A Nutshell™ News &. Promotions E-mail**  
-Monthly newsletter-style e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers  
+An e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers  
 Subscribe
 
 **Rapid Rewards® E-mail Updates**  
 Rapid Rewards news and offers for Members only  
 Subscribe | Unsubscribe
 
-**Rapid Rewards® Reports  
-**Monthly report containing Rapid Rewards® account balance information, news, promotions and offers for Members only  
+**Rapid Rewards Reports  
+**Monthly report containing Rapid Rewards account balance information, news, promotions and offers for Members only  
 Subscribe | Unsubscribe
 
 Other E-mail Communication
 
 **SWABIZ® Corporate Travel Manager E-mail Updates  
-**News related to SWABIZ®, Southwest's Business Travel website. for registered Corporate Travel Managers only  
-Contact Your Area Marketing Manager to Subscribe or Unsubscribe
+**News related to SWABIZ, Southwest's Business Travel website. for registered Corporate Travel Managers only  
+Contact Your Area Marketing Manager to Subscribe or Unsubscribe.
 
 **SWAMedia and Investor Relations E-mail Alerts  
 **Southwest Airlines news releases and investor information  
@@ -118,7 +118,7 @@ Subscribe | Unsubscribe
 
 Promotional Mailings
 
-As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
+As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
 
 Account Information
 
