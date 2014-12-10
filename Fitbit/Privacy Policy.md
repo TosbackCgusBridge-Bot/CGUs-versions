@@ -39,7 +39,7 @@ To learn more about the data we collect, how that data is used, and the ways it 
 
 Fitbit Privacy Policy
 
-**Last update November 26, 2014**
+**Last update December 9, 2014**
 
 Fitbit designs products and tools that track everyday health and fitness to empower and inspire users to lead healthier, more active lives. This Privacy Policy applies to our personal fitness and electronic body monitoring products (“Devices”), our websites located at www.fitbit.com, corporate.fitbit.com, dev.fitbit.com, community.fitbit.com, and help.fitbit.com (individually a “Site” and collectively “Sites”), the Fitbit Connect software (“Software”) and Fitbit mobile applications (each an “App” and collectively the “Apps”). The Devices, Sites, Software and Apps are collectively referred to in this Policy as the “Fitbit Service,” and by proceeding to use the Fitbit Service you consent that we may process the data that we collect from you in accordance with this Privacy Policy.
 
@@ -102,7 +102,7 @@ Data That Could Identify You
 
 Personally Identifiable Information (PII) is data that includes a personal identifier like your name, email or address, or data that could reasonably be linked back to you. We will only share this data under the following circumstances:
 
-*   With companies that are contractually engaged in providing us with services such as order fulfillment, email management and credit card processing. These companies are obligated by contract to safeguard any PII they receive from us.
+*   With companies that are contractually engaged in providing us with services, such as order fulfillment, email management and credit card processing. These companies are obligated by contract to safeguard any PII they receive from us.
 *   If we believe that disclosure is reasonably necessary to comply with a law, regulation, valid legal process (e.g., subpoenas or warrants served on us), or governmental or regulatory request, to enforce or apply the Terms of Service or Terms of Sale, to protect the security or integrity of the Fitbit Service, and/or to protect the rights, property, or safety of Fitbit, its employees, users, or others. If we are going to release your data, we will do our best to provide you with notice in advance by email, unless we are prohibited by law from doing so.
 *   We may disclose or transfer your PII in connection with the sale, merger, bankruptcy, sale of assets or reorganization of our company. We will notify you if a different company will receive your PII and the promises in this Privacy Policy will apply to your data as transferred to the new entity.
 
@@ -186,13 +186,14 @@ We use the following third-party advertising cookies to present you with opportu
 
 *   AppNexus: The AppNexus Cookies page provides information about their cookie and gives you the option to opt out-of this program.
 *   DataXu: The DataXu Data Collection for our Platform page explains their privacy practices and gives you the option to opt-out of this program.
-*   DoubleClick and DoubleClick Floodlight: This cookie and web beacon is owned by Google. You can adjust Google's use of cookies by with Google's Ads Settings. You may permanently opt-out of the Google DoubleClick cookie.
+*   DoubleClick and DoubleClick Floodlight: This cookie and web beacon is owned by Google. You can adjust Google's use of cookies with Google's Ads Settings. You may permanently opt-out of the Google DoubleClick cookie.
 *   Google Adwords Conversion: You can adjust the Google Ads Settings and opt-out of this program.
 *   AdRoll: The AdRoll Privacy Policy explains how their cookie works and gives you the option to adjust or opt out of this program.
 *   Twitter Advertising: This cookie allows us to present you with retargeting advertising for Fitbit products on Twitter. This Twitter FAQ explains how their advertising program works and gives you the option to adjust your Twitter settings.
 *   LiveRamp: The LiveRamp Advertising Data Privacy Policy explains how their cookie works and gives you the option to opt out of this program.
 *   Advertising.com: Owned by AOL, you can opt-out and read more about this advertising program.
-*   Bidswitch: Owned by iponweb, you can opt-out and read more about this advertising program. Facebook Custom Audiences: You can adjust your Facebook advertising settings from within your Facebook account and opt-out of advertisements from within the Facebook application.
+*   Bidswitch: Owned by iponweb, you can opt-out and read more about this advertising program.
+*   Facebook Custom Audiences: You can adjust your Facebook advertising settings from within your Facebook account and opt-out of advertisements from within the Facebook application.
 *   Genome: Owned by Yahoo!, you can opt-out and personalize this advertising program.
 *   SearchForce: We use this web beacon to help analyze our advertising campaigns.
 
