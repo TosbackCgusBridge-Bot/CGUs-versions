@@ -183,7 +183,7 @@ Search:Search Donate Now
         
         Learn how The Nature Conservancy works to balance the needs of a growing population with those of nature.
         
-    *   **Our Scientists Say Thanks**
+    *   **Thanks to You**
         
         Without you, none of our work would be possible!
         
@@ -338,9 +338,9 @@ An Acre is the Perfect Gift
 
 Adopt an Acre for everyone on your list! Adopt
 
-Honor and Tribute Giving
+Make Your Tax-Deductible Gift
 
-The gift of nature is perfect as an honor or memorial gift. Give
+Give to nature this holiday season! Donate
 
 Sign Up for Nature e-News Get our email updates filled with eco-tips and info on the places you care about most. GO We’re Accountable
 
