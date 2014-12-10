@@ -29,19 +29,20 @@ Gift Cards | Offers | Visa Signature
     
     Pre Sales Tickets
     
+    *   The Hobbit: The Battle of the Five Armies
+    *   Annie (2014)
     *   Into the Woods
+    *   Unbroken
     
     Coming Soon
     
-    *   Annie (2014)
-    *   The Hobbit: The Battle of the Five Armies
     *   The Interview
-    *   Unbroken
     *   The Woman In Black 2 Angel of Death
     *   Blackhat
     *   Paddington
     *   The Wedding Ringer
     *   Mortdecai
+    *   The Boy Next Door
     *   See All Coming Soon
     
     Explore More
@@ -368,7 +369,7 @@ Videos
 Photos
 
 *   Red Carpet
-*   November Celebrity Birthdays
+*   December Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail Submit THANKS FOR SIGNING UP! Sign up fOR FanTexts Send Me FanText Mobile Number Sign Me Up! THANKS FOR SIGNING UP!
 
