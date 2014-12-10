@@ -1,4 +1,4 @@
-**Last Modified:** August 14, 2014  
+**Last Modified:** Nov 2014  
 Click here to learn about the most recent significant updates.
 
 This is the privacy policy ("Privacy Policy") for mtv.com ("Site," "we," "us," or "our"), an Internet website offered in cooperation with the MTV television channel or programming service ("MTV Channel"). The MTV Channel and the Site (together, "MTV") are provided by Viacom Media Networks ("VMN"), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the "Parent Companies").
@@ -144,7 +144,7 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
     
 *   We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Other Information on the Site. Some of these Third Party Advertising Service Providers and Advertisers may participate in the Network Advertising Initiative's Opt-Out Tool and/or the Self-Regulatory Program for Online Behavioral Advertising. Please click on the links to these tools to learn more about your choices.
     
-*   Nielsen Measurement: The player on this website may feature Nielsens proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsens digital measurement privacy policy. For more information about Nielsens measurement software, see http://www.nielsen.com/digitalprivacy and see the Choices section of that digital measurement privacy policy to learn about your choices with respect to Nielsens measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options.
+*   Nielsen Measurement: The player on this website and/or this app may feature Nielsens proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsens digital measurement privacy policy. For more information about Nielsens measurement software, see http://www.nielsen.com/digitalprivacy and see the Choices section of that digital measurement privacy policy to learn about your choices with respect to Nielsens measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. FOR APPS: To exercise choice regarding Nielsen's measurement on apps and for more information on the scope of such choices, see "About Nielsen Measurement and Your Choices" Note that the "About Nielsen Measurement and Your Choices" link is only available and effective from apps and not websites.
     
 *   Please note the following with respect to opting out:
     
