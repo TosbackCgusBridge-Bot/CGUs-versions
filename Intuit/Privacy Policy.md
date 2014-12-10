@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13074933711
+true true C13075921908
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p39.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Dec 08 11:26:20 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Tue Dec 09 03:21:05 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,84 +45,101 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Friends and Family
-    
-    Last day! In Store and Online.
-    
-    Online Code: OURFRND
-    
-    Extra 25% Off\* select apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades.
-    
-    Or, Extra 15% Off\* watches, optical and portrait.
-    
-    \*See exclusions and details. print coupon view store ad50% Off Men's St. John's Bay Sweaters
-    
-    Plus Extra 25% Off with code.
-    
-    Select styles.
-    
-    shop men's sweaters40-50% Off Kids' Sweaters and Fleece
-    
-    Plus Extra 25% Off with code.
-    
-    Select styles.
-    
-    shop kids' sweaters40-50% Off Sweaters for Her
-    
-    Plus Extra 25% Off with code.
-    
-    Select styles.
-    
-    shop women's sweaters shop women's sweaters
-*   30-50% Off Home Sale
-    
-    Plus, Extra 25% Off with Code: OURFRND
-    
-    Bring home the holidays.
-    
-    Select styles.
-    
-    shop the home sale shop bedding and bath shop home decor shop window shop kitchen and dining shop furniture
+Hurry! Ends December 13.
 
-One-Day Deals--Today Only!
+In Store and Online
 
-Extra savings on your favorite gifts during Green Monday. Online only.
+$10 Off\* $25 or more. Code: GIFTBOX
 
-$12.99 A.N.A Crewneck Sweater
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades. Code: SNOWFALL
 
-Select styles.
+Online Only
 
-shop now $31.99 Dockers Signature Khakis
+25% Off\* $100 or more.
 
-Regularly $58. Select styles.
+Or, 20% Off\* under $100.
 
-shop now 50% Off Gemstones
+Code: SNOWFALL
 
-Select styles.
+\*See exclusions and details. get coupon Big Jingle Sale shop the sale view store ad
 
-shop gemstones shop pearls $19.99 Bella 12-Cup Coffeemaker
+$17.99 St. John's Bay Sweater
 
-Select styles.
+Originally $42.
 
-shop now $39.99 Levi's 501™ Original Fit Jeans
+shop now
 
-Regularly $68. Select styles.
+$19.99 JCP Diamond Cable Sweater
 
-shop now 50% Off Velvet Plush Blankets
+Originally $36.
 
-Select styles.
+shop now
 
-shop now 40-50% Off Kids' Sleepwear
+$17.99 Arizona Faux Fur Moccasins
+
+Originally $29.99.
+
+shop now
+
+$7.99 Fashion Scarves
+
+Originally $28.
+
+shop now
+
+$9.99 JCPenney Home Velvet Plush Throw
+
+Originally $20.
+
+shop now
+
+$11.99 Guys' Arizona Thermal Shirt
+
+Originally $22.
+
+shop now
+
+$15.99 Girls' Fashion Top
+
+Originally $28.
+
+shop now shop now
+
+$14.99 Arizona Sweaters
+
+Originally $30.
+
+shop nowGifts Under $20
 
 Select styles.
 
-shop kids' shop boys' shop boys' shop girls' shop girls' 30-40% Off Totes
+shop now 30-50% Off Home Sale
 
-Select styles.
+Select styles. Bring home the holidays.
 
-shop now 50% Off Women's Coats
+shop the home sale
 
-Select styles.
+25-40% Off Select Dresses
+
+shop now
+
+40-50% Off Select Sleepwear for Him
+
+shop now Holiday Jewelry Sale December 4-24
+
+40-60% Off Select Fine Jewelry and Bijoux Bar
+
+shop now
+
+50% Off Select Women's Coats
+
+shop now
+
+40-50% Off Select Kids' Sleepwear
+
+shop now
+
+40% Off Select Women's and Juniors' Boots
 
 shop now All-New E-Gift Cards!
 
@@ -142,7 +159,7 @@ At JCPenney, we think giving is simply better than receiving, and we want you to
 
 join the conversation Red Zone Clearance 50-70% Off
 
-In Store and Online.
+In store and online.
 
 shop clearance JCP Rewards
 
