@@ -41,7 +41,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gluten Free
     *   Crackers
     *   Pfaelzer Brothers Steak &. Seafood
-    *   Hickory Farms Reserve Collection
+    *   Hickory Farms Reserve
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
@@ -89,7 +89,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gluten Free
     *   Crackers
     *   Pfaelzer Brothers Steak &. Seafood
-    *   Hickory Farms Reserve Collection
+    *   Hickory Farms Reserve
 *   Shop By Price
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
