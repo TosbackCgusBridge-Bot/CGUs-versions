@@ -43,15 +43,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         
         13.  See all Not sure what you need?
     6.  See all Laptops
-    7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
-            
-            Shop Now >.
-        *   Need ideas? Check out our holiday gift guide!
-            
-            Shop Now >.
-        *   The Perfect gift! Use our handy holiday quiz to see what gift is right for you, or someone else.
-            
-            Start Quiz >.
+    
 2.  Tablets
     1.  See all Tablets
     2.  Android Tablets Customizable, Easy to Use
@@ -93,15 +85,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  PC Finder
         8.  See all Not sure what you need?
     6.  See all Tablets
-    7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
-            
-            Shop Now >.
-        *   Need ideas? Check out our holiday gift guide!
-            
-            Shop Now >.
-        *   The Perfect gift! Use our handy holiday quiz to see what gift is right for you, or someone else.
-            
-            Start Quiz >.
+    
 3.  Desktops &. All-in-Ones
     1.  See all Desktops &. All-in-Ones
     2.  ThinkCentre Desktops Premium Performance, Solid Reliability
@@ -139,15 +123,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         
         11.  See all Not sure what you need?
     6.  See all Desktops &. All-in-Ones
-    7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
-            
-            Shop Now >.
-        *   Need ideas? Check out our holiday gift guide!
-            
-            Shop Now >.
-        *   The Perfect gift! Use our handy holiday quiz to see what gift is right for you, or someone else.
-            
-            Start Quiz >.
+    
 4.  Workstations
     1.  See all Workstations
     2.  ThinkStation Workstations Professional-Strength Workstations
@@ -227,15 +203,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  View All Accessories
         5.  See all Not sure what you need?
     6.  See all Accessories &. Software
-    7.  *   Save BIG on Doorbusters Hurry, these sell out fast!
-            
-            Shop Now >.
-        *   Need ideas? Check out our holiday gift guide!
-            
-            Shop Now >.
-        *   The Perfect gift! Use our handy holiday quiz to see what gift is right for you, or someone else.
-            
-            Start Quiz >.
+    
 7.  Services &. Warranty
     1.  See all Services &. Warranty
     2.  Product Support Flexible Warranty Support Options
@@ -283,15 +251,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         9.  Outlet
         10.  See all Current Offers
     3.  See all Deals
-    4.  *   Save BIG on Doorbusters Hurry, these sell out fast!
-            
-            Shop Now >.
-        *   Need ideas? Check out our holiday gift guide!
-            
-            Shop Now >.
-        *   The Perfect gift! Use our handy holiday quiz to see what gift is right for you, or someone else.
-            
-            Start Quiz >.
+    
 9.  Which PC is right for me?
 
 \>Tools
