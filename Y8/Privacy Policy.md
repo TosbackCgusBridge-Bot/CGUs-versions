@@ -117,10 +117,6 @@ Parents, if you would like to review your child's personal information, ask to h
 We may change from time to time the terms of Our Privacy Policy. The mention of the terms "Last modified" followed by a date shall indicate You of this occurrence.  
 If you have any questions, you can contact us through our contact form.
 
-If you have questions or other inquiries, please use our contact form Follow @y8\_com  
-
-Y8.com project: play free games online and watch funny cartoons, since 2006.
-
 *   Advertise on Y8
 *   contact form
 *   Business contact
