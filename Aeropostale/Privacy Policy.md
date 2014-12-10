@@ -107,7 +107,6 @@ Aéropostale Go
     *   Report
     *   Rocket Dog
     *   Superga
-    *   Tigerbear Republik
     *   Tokyo Darling
     *   United XXVI
     
