@@ -139,8 +139,6 @@ Last update December 21, 2012
 *   Safety Center
 *   Help
 *   » FAQ
-*   » Oodle Feeds
-*   » Oodle Feed FAQs
 *   » Privacy Policy
 *   » Terms of Use
 *   » Content Policies
