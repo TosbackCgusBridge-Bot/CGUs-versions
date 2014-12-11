@@ -118,7 +118,7 @@ We also use the services of reputable third parties to provide us with data coll
 
 Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which Sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse Sites. As part of this process we, the Turner Affiliates, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may collect information about your online activities across the Turner Network and other sites, and supplement such information with information from third parties, in an effort to make inferences about your interests and deliver to you advertisements targeted to those interests.
 
-For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our Ad Choices page.
+For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our AdChoices page.
 
 **Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads. Additional Choice Options**
 
@@ -126,7 +126,7 @@ Turner is a participant in the online industry's self regulatory program adminis
 
 You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the NAI site.
 
-The tools provided on the Ad Choices page, as well as the DAA opt-out page and the NAI opt-out page, are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.
+The tools provided on the AdChoices page, as well as the DAA opt-out page and the NAI opt-out page, are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.
 
 **Mobile Device Advertising and Tracking**
 
@@ -211,6 +211,6 @@ From time to time, we may update this privacy statement. We will notify you abou
 
 The Privacy Statement posted on this Site was updated on October 29, 2014.
 
-Weather forecast
+**Loading weather data ...**
 
-Home | Video | CNN Trends | U.S. | World | Politics | Justice | Entertainment | Tech | Health | Living | Travel | Opinion | iReport | Money | Sports Tools &. widgets | RSS | Podcasts | Blogs | CNN mobile | My profile | E-mail alerts | CNN Radio | CNN shop | Site map CNN en ESPAÑOL | CNN Chile | CNN Expansion | | | | CNN TV | HLN | Transcripts © 2014 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. Terms of service | Privacy guidelines | Ad choices | Advertise with us | About us | Contact us | Work for us | Help
+Home | Video | World | U.S. | Africa | Asia | Europe | Latin America | Middle East | Business | World Sport | Entertainment | Tech | Travel | iReport Tools &. Widgets | RSS | Podcasts | Blogs | CNN Mobile | My Profile | E-mail Alerts | CNN Radio | CNN Shop | Site map | CNN Partner Hotels CNN en ESPAÑOL | CNN Chile | CNN México | العربية | 日本語 | Türkçe © 2013 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved. Terms of service | Privacy guidelines | Ad choices | Advertise with us | License our content | About us | Contact us | Work for us | Help CNN TV | HLN | Transcripts
