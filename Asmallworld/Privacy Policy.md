@@ -1,17 +1,4 @@
-A Small World . Net A Small World . Net A Small World . Net
-
-Menu
-
-*   About ASW
-*   Member Benefits
-*   More
-    *   ASW Foundation
-    *   The Globalist
-    *   Press
-    *   Contact Us
-    *   Careers
-
-Privacy Policy
+A Small World . Net A Small World . Net Login Apply Privacy Policy
 
 ASMALLWORLD is a private community built on trust. ASMALLWORLD AG of Bellerivestrasse 241, 8008 Zurich, Switzerland and ASMALLWORLD Limited having its registered office at Eighth Floor, 6 New Street Square, New Fetter Lane, London, England EC4A 3AQ are joint data controllers (collectively “ASW” or “we”) and we take your privacy seriously. If you have any questions about this policy, we can be reached by email at privacy@asw.com. Alternatively, you can contact us at:
 
@@ -35,7 +22,7 @@ When you become a member of the Site, we will collect some personal information 
 
 We may also collect data about your navigation of the Site on an aggregate basis, such as your Internet Protocol Address (“IP Address”), which is identified and logged automatically in our server log files whenever you navigate the Site, your Internet Service Provider (“ISP”), your login frequency, the pages you visited within the Site, and the Internet browser or device you are using.
 
-When you participate in the Site member offers, complete forms for optional promotions, RSVP for the Site events, or participate in contests, surveys, or beta testing, we may require that you submit certain personal information to the Site, our mobile application or email. You may also voluntarily provide personal information when you send us an inquiry or support request email.
+When you participate in the Site member offers, complete forms for optional promotions, RSVP for the Site events, or participate in contests, surveys, or beta testing, we may require that you submit certain personal information to the Site, our mobile application or email. You may also voluntarily provide personal information when you send us an enquiry or support request email.
 
 Surveys are periodically conducted to collect information to help us improve the Site. All information collected through surveys will remain confidential and anonymous, even if we use a third party to help us conduct the survey, unless otherwise indicated.
 
@@ -123,50 +110,30 @@ On occasion, we may use personal information for new, unanticipated uses not pre
 
 This policy became effective on 13 May 2013.
 
-Error ×
+Back to top
 
-An Error Has Occurred.
+*   Press
+*   Contact
+*   Careers
+*   The Globalist
+*   ASW Foundation
 
-Close Report Member Issues ×
+A Small World . Net
 
-Please report any abusive behaviour so we can maintain a community of trust and respect.
+Copyright © 2004 - 2014 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password
 
-To: Webmaster
+If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
-Report Member Issues × Thank you! Abuse report is submitted. Close Invitation Sent × Thank you! Your invitation has been sent. You will receive a message if it is accepted. Close Upload A Photo × Cancel Upload
+Email Address The email address that you have provided does not match any in our database. Please try a different address or contact support@asmallworld.net.
 
-0
+If you can no longer access the email you used to create your account or are experiencing other issues, please email support@asw.com.
 
-Start clicking on the image to set your focal point.
+Thank you!
 
-Set a focal point for your photo by clicking on the image above. To the right, you can preview how the photo will appear with the chosen focal point once you save.
+Your username and a temporary password have been emailed to the address you provided. When you receive the message, you can log in and reset your password to one of your choice.
 
-Preview
+Should you need any other assistance, please contact support@asw.com.
 
-Save Cancel Comments × Delete Comment ×
-
-Are you sure you want to delete this comment?
-
-OkCancel Edit Trip ×
-
-*   Destination Country Please select...AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian OceanBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos IslandsColombiaComorosCongo (Dem Rep of the)Congo (Rep of the)Cook IslandsCosta RicaCote d'IvoireCroatiaCubaCuracoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern Terr.GabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuineaGuinea-BissauGuyanaHaitiHeard and McD. Isl.HondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKoreaKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacauMacedoniaMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanOtherPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint HelenaSaint Kitts and NevisSaint LuciaSaint PierreSaint VincentSamoaSan MarinoSao Tome and Princ.Saudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSpainSri LankaSudanSurinameSvalbardSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzaniaThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos Isl.TuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamVirgin IslandsWallis and Futuna Isl.Western SaharaYemenZaireZambiaZimbabwe
-*   Destination City Enter A Country First
-*   City Name
-*   Message
-*   From:  
-    
-    From
-    
-    To:  
-    
-    Until
-    
-*   Save Trip\*
-*   \* Saving your trip will automatically share it with the community.
-    
-
-delete trip ×
-
-Are you sure you want to delete this trip?
-
-Ok Cancel
+× Apply  
+for  
+membership Start Application
