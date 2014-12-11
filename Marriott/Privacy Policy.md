@@ -58,9 +58,10 @@ This Statement was last updated on **February 13, 2014**, to describe how the pr
 
 Related Links
 
-*   SMS Messaging Terms of Use
 *   Terms of Use for United States  
     and Canada
+*   SMS Messaging Terms of Use
+*   Digital Entry Terms of Use
 
 Types of Personal Information We Collect
 
