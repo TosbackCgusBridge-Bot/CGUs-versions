@@ -22,6 +22,7 @@ Gift Cards | Offers | Visa Signature
     *   Exodus: Gods and Kings
     *   Top Five
     *   Inherent Vice
+    *   The Color of Time
     *   Magician: The Astonishing Life and Work of Orson Welles
     *   Six Dance Lessons in Six Weeks
     *   We Are the Giant
@@ -31,6 +32,7 @@ Gift Cards | Offers | Visa Signature
     
     *   The Hobbit: The Battle of the Five Armies
     *   Annie (2014)
+    *   Night at the Museum: Secret of the Tomb
     *   Into the Woods
     *   Unbroken
     
@@ -65,7 +67,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Japanese 'Godzilla' will stomp into theaters. 'Star Trek' needs a new director Read More Guess what? The top 10 stars of 2014 are all women. Find out who they are Read More These characters are the perfect Christmas tree toppers -- see why Read More Explore More
+*   Movie News Featured Movie News SAG Awards nominations: 'Birdman' and 'Boyhood' top list. major surprises include Jennifer Aniston and Naomi Watts Read More What J.J. Abrams' super-secret sci-fi movie may be about. 'Minecraft' loses director Read More Watch the emotional new trailer for 'Inside Out,' Pixar's first movie since 'Monsters U' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
