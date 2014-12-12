@@ -208,7 +208,7 @@ You can email us with any questions or comments at privacy@fitbit.com.
 
 Privacy Officer  
 Fitbit, Inc.  
-450 Howard Street  
+405 Howard Street  
 San Francisco, CA 94105
 
 Previous Privacy Policy
