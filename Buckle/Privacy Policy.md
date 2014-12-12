@@ -1,6 +1,6 @@
-Make sure their gifts arrive on time.
+It’s time for better stocking stuffers.
 
-Shipping Deadlines
+Start here.
 
 Online Orders 800-522-8090
 
