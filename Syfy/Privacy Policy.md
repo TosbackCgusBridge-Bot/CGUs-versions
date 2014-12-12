@@ -263,9 +263,9 @@ The Winner of Face Off Is The Winner of Face Off Is
 
 Dina! Hugs and crying and new cars everywhere!
 
-Helix: Season 2 Extended Sneak Peek Helix: Season 2 Extended Sneak Peek
+Helix: Welcome to the Island Helix: Welcome to the Island
 
-The CDC team has found a new disease  and its not pretty. Helix returns January 16 at 10/9c.
+Helix returns on January 16 at 10/9c on Syfy
 
 *   FAQ
 *   Feedback
