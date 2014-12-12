@@ -285,16 +285,10 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         Sunday 9am-6pm EST
     3.    **Help with an existing order**  
         **Check **order status** online** — track by order number
-    4.  Monday - Friday 9am-9pm  
-        Saturday - Sunday 9am-5:30pm (EST)  
+    4.  **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
           
-        **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
-          
-        **Extended Holiday Hours!**  
-        Now through December 28:  
-        Monday - Friday 9am-9pm EST  
-        Saturday 9am-7pm EST  
-        Sunday 9am-6pm EST
+        Monday - Friday 9am-9pm  
+        Saturday - Sunday 9am-5:30pm (EST)
     5.   **Technical Support**  
         **Laptop, Desktop, Tablet, Workstation and ThinkServer Support**  
         PC, Tablet, Workstation or ThinkServer support information
