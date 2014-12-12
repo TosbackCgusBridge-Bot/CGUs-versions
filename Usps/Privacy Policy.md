@@ -71,7 +71,7 @@ Our History
 *   Delivering the Mail and More
 *   Post Offices and Facilities
 *   Uniforms and Equipment
-*   Research Sources
+*   Additional Resources
 *   Awards
 
 Postal Facts
