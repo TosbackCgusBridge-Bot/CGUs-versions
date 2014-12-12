@@ -136,7 +136,7 @@ back to top | main help
 
 **Policy Changes**
 
-If we decide to change our policy in whole or in part, we will inform you by posting a notice on our web site. The new policy will apply to all current and past users of our web site and will replace any prior policies. This policy was posted in May of 2007 and last updated in April of 2013.
+If we decide to change our policy in whole or in part, we will inform you by posting a notice on our web site. The new policy will apply to all current and past users of our web site and will replace any prior policies. This policy was posted in May of 2007 and last updated in July of 2014.
 
 **Additional Information**
 
