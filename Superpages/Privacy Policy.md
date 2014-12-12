@@ -208,7 +208,7 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Every Car Listed
 *   Featured Businesses
 *   Popular Categories
-*   Enlightenme
+*   Enlighten Me
 *   Lottery Results
 *   Weather Forecasts
 *   Superpages Mobile
