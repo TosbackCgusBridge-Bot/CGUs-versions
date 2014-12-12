@@ -10,11 +10,11 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
+    *   Factory
     *   Gift Guide
     *   United XXVI
     *   Bethany Mota
     *   Cold Weather Shop
-    *   Uniform Looks
     *   Lookbook
     *   Boot Shop
     *   Extended Sizes
@@ -46,11 +46,11 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
+    *   Factory
     *   Gift Guide
     *   Cold Weather Shop
     *   United XXVI
     *   Lookbook
-    *   Uniform Looks
     *   Sneaker Shop
     *   Extended Sizes
     *   Online Exclusives
@@ -119,6 +119,7 @@ Aéropostale Go
     *   Radii
     *   Superga
     *   United XXVI
+*   Factory
 *   Aero Now
 
 Safety, Security and Privacy
