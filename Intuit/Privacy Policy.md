@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  Valery
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13204669373
+true true C13085462562
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p32.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Dec 10 11:09:50 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Dec 11 11:25:55 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -61,87 +61,72 @@ Or, 20% Off\* under $100.
 
 Code: SNOWFALL
 
-\*See exclusions and details. get coupon Big Jingle Sale shop the sale view store ad
+\*See exclusions and details. get coupon
 
-$17.99 St. John's Bay Sweater
+*   Super Saturday Sale
+    
+    Starts now! Shop, save and jingle.
+    
+    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale
+    
+    $149.99 Keurig K350 2.0 Brewer + Touch Display
+    
+    Originally $250. Keurig excluded from coupon.
+    
+    shop Keurig shop kitchen and dining shop bedding and bath shop window shop furniture and mattresses shop luggage shop home decor
 
-Originally $42.
+Thousands of Night and Day Doorbusters
 
-shop now
+Online and In Store, Friday, 3PM through Saturday, 1PM CST. Use your coupon and save even more!
 
-$19.99 JCP Diamond Cable Sweater
+view doorbusters store ad Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
 
-Originally $36.
+$39.99 Levi's 559™ Relaxed Straight Jeans
 
-shop now
+Originally $58. Excluded from coupon.
 
-$17.99 Arizona Faux Fur Moccasins
+shop Levi's
 
-Originally $29.99.
+50% Off select kids' coats and jackets
 
-shop now
+shop kids' coats and jackets
 
-$7.99 Fashion Scarves
+40-50% Off select A.N.A
 
-Originally $28.
+shop A.N.A
 
-shop now
+50% Off select women's coats
 
-$9.99 JCPenney Home Velvet Plush Throw
+shop women's coats
+
+$9.99 select Wembley men's gifts
 
 Originally $20.
 
-shop now
+shop men's gifts
 
-$11.99 Guys' Arizona Thermal Shirt
+$17.99 select juniors' faux fur moccasin shoes
 
-Originally $22.
+shop juniors' shoes
 
-shop now
+New E-Gift Cards
 
-$15.99 Girls' Fashion Top
+shop gift cardsHoliday Jewelry Sale
 
-Originally $28.
+December 4 through 24.
 
-shop now shop now
+40-60% Off select fine jewelry and Bijoux Bar
 
-$14.99 Arizona Sweaters
-
-Originally $30.
-
-shop nowGifts Under $20
+shop fine jewelry and Bijoux Bar shop top gifts 30-50% Off Holiday Decor
 
 Select styles.
 
-shop now 30-50% Off Home Sale
-
-Select styles. Bring home the holidays.
-
-shop the home sale
-
-25-40% Off Select Dresses
-
-shop now
-
-40-50% Off Select Sleepwear for Him
-
-shop now Holiday Jewelry Sale December 4-24
-
-40-60% Off Select Fine Jewelry and Bijoux Bar
-
-shop now
-
-50% Off Select Women's Coats
-
-shop now
-
-40-50% Off Select Kids' Sleepwear
-
-shop now
-
-40% Off Select Women's and Juniors' Boots
-
-shop now All-New E-Gift Cards!
+shop holiday decor All-New E-Gift Cards!
 
 Quick: Emailed within minutes or on a date of your choice.
 
@@ -159,7 +144,7 @@ At JCPenney, we think giving is simply better than receiving, and we want you to
 
 join the conversation Red Zone Clearance 50-70% Off
 
-In store and online.
+In Store and Online.
 
 shop clearance JCP Rewards
 
