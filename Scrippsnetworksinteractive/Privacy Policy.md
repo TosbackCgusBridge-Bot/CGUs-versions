@@ -66,4 +66,6 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 
 **K. SOLE STATEMENT**
 
-> This Privacy Policy as posted is the sole statement of our privacy policy with respect to the Websites, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Websites.
+> This Privacy Policy as posted is the sole statement of our privacy policy with respect to the Websites, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Websites. 
+
+​​​​​​​​
