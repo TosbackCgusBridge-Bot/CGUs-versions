@@ -24,6 +24,7 @@ Gift Cards | Offers | Visa Signature
     *   Inherent Vice
     *   The Color of Time
     *   Magician: The Astonishing Life and Work of Orson Welles
+    *   Free the Nipple
     *   Six Dance Lessons in Six Weeks
     *   We Are the Giant
     *   See All Opening This Week
@@ -67,7 +68,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News SAG Awards nominations: 'Birdman' and 'Boyhood' top list. major surprises include Jennifer Aniston and Naomi Watts Read More What J.J. Abrams' super-secret sci-fi movie may be about. 'Minecraft' loses director Read More Watch the emotional new trailer for 'Inside Out,' Pixar's first movie since 'Monsters U' Read More Explore More
+*   Movie News Featured Movie News Golden Globe nominations: Like the SAG noms yesterday, 'Birdman' and 'Boyhood' top list Read More What J.J. Abrams' super-secret sci-fi movie may be about. 'Minecraft' loses director Read More Watch the emotional new trailer for 'Inside Out,' Pixar's first movie since 'Monsters U' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
