@@ -132,6 +132,7 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
     *   EU Safe Harbor Privacy Policy
     *   Hitwise
     *   List Link
+    *   Experian’s Usage of Marketing Data
     *   Online Credit Reports
     *   Permission Email
     *   ScorecardSM
