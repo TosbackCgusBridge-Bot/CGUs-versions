@@ -6,7 +6,7 @@ Search
 *   Expert Authors
 *   Ask Chris Knight
 
-Home » Privacy Policy Join Sign in Search Helpful Links
+Home Home » Privacy Policy Join Sign in Search Helpful Links
 
 *   FAQ
 *   About Us
