@@ -34,18 +34,18 @@ Gift Cards | Offers | Visa Signature
     *   The Hobbit: The Battle of the Five Armies
     *   Annie (2014)
     *   Night at the Museum: Secret of the Tomb
+    *   The Gambler
+    *   The Interview
     *   Into the Woods
     *   Unbroken
+    *   Selma
+    *   American Sniper
     
     Coming Soon
     
-    *   The Interview
     *   The Woman In Black 2 Angel of Death
-    *   Blackhat
     *   Paddington
     *   The Wedding Ringer
-    *   Mortdecai
-    *   The Boy Next Door
     *   See All Coming Soon
     
     Explore More
@@ -68,7 +68,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Golden Globe nominations: Like the SAG noms yesterday, 'Birdman' and 'Boyhood' top list Read More What J.J. Abrams' super-secret sci-fi movie may be about. 'Minecraft' loses director Read More Watch the emotional new trailer for 'Inside Out,' Pixar's first movie since 'Monsters U' Read More Explore More
+*   Movie News Featured Movie News Golden Globe nominations: 'Birdman' and 'Boyhood' top list Read More Find out the names of key new 'Star Wars: The Force Awakens' characters Read More Watch the emotional new trailer for 'Inside Out,' Pixar's first movie since 'Monsters U' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -319,9 +319,9 @@ Offers **Annie Free Gift**
 
 Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
 
-**Mockingjay Part 1 Sweepstakes**
+**Jurassic World Sweepstakes**
 
-Buy tickets and you could win a 2015 Mazda3 4-door! BUY TICKETS
+You could win a trip to the WORLD PREMIERE of Jurassic World! ENTER NOW
 
 **The Hobbit Free Gift**
 
