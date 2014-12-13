@@ -2,7 +2,7 @@ Text Only
 
 *   Sign In to SPG.com
 *   Help 
-    
+    *   1-800-328-6242
     *   Reservations
     *   Online Chat
     *   Email
