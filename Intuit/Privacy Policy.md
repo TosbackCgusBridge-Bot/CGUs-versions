@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13085462562
+true true C13089243038
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Dec 11 11:25:55 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Fri Dec 12 11:19:44 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -84,7 +84,7 @@ Thousands of Night and Day Doorbusters
 
 Online and In Store, Friday, 3PM through Saturday, 1PM CST. Use your coupon and save even more!
 
-view doorbusters store ad Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
+shop doorbusters view doorbusters store ad Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
 
 $39.99 Levi's 559™ Relaxed Straight Jeans
 
