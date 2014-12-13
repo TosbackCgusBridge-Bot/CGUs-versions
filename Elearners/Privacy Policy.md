@@ -15,7 +15,7 @@ Campus Main Menu
     *   Technology
     *   Vocational Training
 *   Online Certificates
-*   Online Courses
+*   Transfer Credits
 *   Online Colleges
 *   Match Me to a College
 *   Popular Degrees
