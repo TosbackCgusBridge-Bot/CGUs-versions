@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Face Off: Return of the Champions Face Off: Return of the Champions
+Syfy Video The Almighty Johnsons - Sneak Peek - Does Thi ... The Almighty Johnsons - Sneak Peek - Does This Look Like Asgard?
+
+Get a sneak peek at the next episode of The Almighty Johnsons, airing XX at XX on syfy
+
+It's Sacred Enough It's Sacred Enough
+
+Sometimes what seems easy is actually hardness in disguise as Ty renounces his God spirit and becomes mortal.
+
+Face Off: Return of the Champions Face Off: Return of the Champions
 
 They're baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
 
 Face Off Season 8 Tease Face Off Season 8 Tease
 
 Tune in to Face Off Season 8 coming in January!
-
-The Winner of Face Off Is The Winner of Face Off Is
-
-Dina! Hugs and crying and new cars everywhere!
-
-Helix: Welcome to the Island Helix: Welcome to the Island
-
-Helix returns on January 16 at 10/9c on Syfy
 
 *   FAQ
 *   Feedback
