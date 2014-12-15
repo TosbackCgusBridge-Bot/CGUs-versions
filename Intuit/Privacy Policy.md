@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13093007239
+true true C13092808112
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p42.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sat Dec 13 11:22:44 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p39.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Sun Dec 14 03:31:45 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,88 +45,57 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Hurry! Ends December 13.
-
-In Store and Online
-
-$10 Off\* $25 or more. Code: GIFTBOX
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades. Code: SNOWFALL
-
-Online Only
-
-25% Off\* $100 or more.
-
-Or, 20% Off\* under $100.
-
-Code: SNOWFALL
-
-\*See exclusions and details. get coupon
-
-*   Super Saturday Sale
+*   Great Big Christmas Sale
     
-    Starts now! Shop, save and jingle.
+    In store and online.
     
-    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry shop bedding and bath shop window shop furniture shop kitchen and dining shop home decor
+    shop the sale view store ad shop men's sweaters shop women's sweatersBig Buys
+    
+    In store and online while supplies last! Use your coupon and save even more.
+    
+    view Big Buys store ad
+    
+    Get it before Christmas. Standard shipping ends Saturday.
+    
+    get details
 *   Home Sale 30-50% Off
+    
+    Select styles. Time to deck the halls.
+    
+    shop the home sale shop furniture and mattresses shop kitchen and dining shop window shop luggage shop bed and bath shop home decor shop small appliances shop coffee and tea
+    
+    Get it before Christmas. Standard shipping ends Saturday.
+    
+    get details
+*   Holiday Jewelry Sale
+    
+    December 4 through 24.
+    
+    shop the holiday jewelry sale
+    
+    40-60% Off Fine Jewelry
     
     Select styles.
     
-    shop the home sale
+    shop fine jewelry
     
-    $149.99 Keurig K350 2.0 Brewer + Touch Display
+    30-60% Off Fashion Jewelry and Fashion Silver
     
-    Originally $250. Keurig excluded from coupon.
+    Select styles.
     
-    shop Keurig shop kitchen and dining shop bedding and bath shop window shop furniture and mattresses shop luggage shop home decor
+    shop fashion jewelry
+    
+    20-50% Off Fine and Fashion Watches
+    
+    Select styles.
+    
+    shop watches
+    
+    Infinite Promise. Only at JCPenney.
+    
+    shop infinite promise
 
-Thousands of Night and Day Doorbusters
-
-Online and In Store, Friday, 3PM through Saturday, 1PM CST. Use your coupon and save even more!
-
-shop doorbusters view doorbusters store ad Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
-
-$39.99 Levi's 559™ Relaxed Straight Jeans
-
-Originally $58. Excluded from coupon.
-
-shop Levi's
-
-50% Off select kids' coats and jackets
-
-shop kids' coats and jackets
-
-40-50% Off select A.N.A
-
-shop A.N.A
-
-50% Off select women's coats
-
-shop women's coats
-
-$9.99 select Wembley men's gifts
-
-Originally $20.
-
-shop men's gifts
-
-$17.99 select juniors' faux fur moccasin shoes
-
-shop juniors' shoes
-
-New E-Gift Cards
-
-shop gift cardsHoliday Jewelry Sale
-
-December 4 through 24.
-
-40-60% Off select fine jewelry and Bijoux Bar
-
-shop fine jewelry and Bijoux Bar shop top gifts 30-50% Off Holiday Decor
-
-Select styles.
-
-shop holiday decor All-New E-Gift Cards!
+All-New E-Gift Cards!
 
 Quick: Emailed within minutes or on a date of your choice.
 
@@ -134,15 +103,45 @@ Personal: Customize with a message, photo or video.
 
 Convenient: Redeem at any JCPenney store or jcp.com.
 
-Order through December 25 for Christmas day delivery!
+Order through December 25 for Christmas Day delivery!
 
 This link will take you to our partner site operated by CashStar.
 
-shop e-gift cards #JustGotJingled
+shop e-gift cards Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
 
-At JCPenney, we think giving is simply better than receiving, and we want you to join us on our mission to prove it.
+50% Off select men's coats and jackets
 
-join the conversation Red Zone Clearance 50-70% Off
+shop men's coats and jackets
+
+50% Off select sweaters for her
+
+shop women's sweaters
+
+50% Off select women's coats
+
+shop women's coats
+
+$9.99 select Disney Collection sleepwear
+
+Excluded from coupon offer.
+
+shop Disney
+
+40-50% Off select women's boots
+
+shop women's boots
+
+50% Off select men's gifts
+
+shop men's gifts
+
+New E-Gift Cards
+
+shop gift cards shop top gifts 30-50% Off Home Decor
+
+Select styles.
+
+shop home decor Red Zone Clearance 50-70% Off
 
 In Store and Online.
 
@@ -158,11 +157,7 @@ get details People StyleWatch Must Have Gifts
 
 Sponsored content.
 
-shop now Say Hello To The All-New JCPenney App
-
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
-
-learn more download from the app store
+shop now #JustGotJingled join the conversation
 
 get connected
 
