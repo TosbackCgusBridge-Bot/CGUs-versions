@@ -253,7 +253,7 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 Syfy Video The Almighty Johnsons - Sneak Peek - Does Thi ... The Almighty Johnsons - Sneak Peek - Does This Look Like Asgard?
 
-Get a sneak peek at the next episode of The Almighty Johnsons, airing XX at XX on syfy
+Get a sneak peek at the next episode of The Almighty Johnsons, airing Dec. 18 at 11/10c on Syfy.
 
 It's Sacred Enough It's Sacred Enough
 
