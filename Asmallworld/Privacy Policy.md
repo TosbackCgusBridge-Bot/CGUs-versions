@@ -36,13 +36,10 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 We use the following cookies:
 
-Strictly necessary cookies. These are cookies that are required for the operation of the Site. They include, for example, cookies that enable you to log into secure areas of the Site.
-
-Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the Site when they are using it. This helps us to improve the way the Site works, for example, by ensuring that users are finding what they are looking for easily.
-
-Functionality cookies. These are used to recognise you when you return to the Site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-
-Targeting cookies. These cookies record your visit to the Site, the pages you have visited and the links you have followed. We will use this information to make the Site \[and the advertising displayed on it\] more relevant to your interests. We may also share this information with third parties for this purpose.
+*   Strictly necessary cookies. These are cookies that are required for the operation of the Site. They include, for example, cookies that enable you to log into secure areas of the Site.
+*   Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the Site when they are using it. This helps us to improve the way the Site works, for example, by ensuring that users are finding what they are looking for easily.
+*   Functionality cookies. These are used to recognise you when you return to the Site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+*   Targeting cookies. These cookies record your visit to the Site, the pages you have visited and the links you have followed. We will use this information to make the Site \[and the advertising displayed on it\] more relevant to your interests. We may also share this information with third parties for this purpose.
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -64,13 +61,10 @@ Partners may sponsor special member offers, promotions, privileges or contests t
 
 We may disclose your personal information:
 
-in the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
-
-to identify, contact or bring legal action against you if you are violating our Terms of Service or other rules or if we believe you are causing injury or interference with the rights of members, the general public or ASW;
-
-if we or substantially all of our assets are acquired by a third party, in which case personal information held by us will be some of the transferred assets. and
-
-if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Service and other agreements or to protect our rights, property, or safety of our customers, or others.
+*   in the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
+*   to identify, contact or bring legal action against you if you are violating our Terms of Service or other rules or if we believe you are causing injury or interference with the rights of members, the general public or ASW;
+*   if we or substantially all of our assets are acquired by a third party, in which case personal information held by us will be some of the transferred assets. and
+*   if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Service and other agreements or to protect our rights, property, or safety of our customers, or others.
 
 Opting In or Out of Communications
 
@@ -120,7 +114,7 @@ Back to top
 
 A Small World . Net
 
-Copyright © 2004 - 2014 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password
+Copyright © 2004 - 2014 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password?
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
