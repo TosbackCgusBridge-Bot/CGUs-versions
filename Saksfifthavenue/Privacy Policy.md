@@ -29,6 +29,7 @@ FREQUENTLY ASKED QUESTIONS
 *   What is Saks Text Alerts?
 *   How do I subscribe/opt-In to Saks Text Alerts?
 *   How do I unsubscribe/opt-out of Saks Text Alerts?
+*   How do I receive Saks Fifth Avenue Store Events for your Preferred Store Location?
 *   Are there any charges/user fees for receiving or sending Saks Text Alerts?
 *   What are the supported carriers for Saks Text Alerts?
 *   What is the warranty for Saks Text Alerts?
@@ -208,6 +209,7 @@ FREQUENTLY ASKED QUESTIONS
 *   What is Saks Text Alerts?
 *   How do I subscribe/opt-In to Saks Text Alerts?
 *   How do I unsubscribe/opt-out of Saks Text Alerts?
+*   How do I receive Saks Fifth Avenue Store Events for your Preferred Store Location?
 *   Are there any charges/user fees for receiving or sending Saks Text Alerts?
 *   What are the supported carriers for Saks Text Alerts?
 *   What is the warranty for Saks Text Alerts?
