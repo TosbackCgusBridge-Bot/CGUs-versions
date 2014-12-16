@@ -55,7 +55,7 @@ SurveyMonkey®
     *   Federal 508 VPAT Template
     *   SurveyMonkey's W-9 Form
 
-Versions: December 10, 2014 (current)October 29, 2013February 5, 2013March 28, 2012June 27, 2011 Privacy Policy Posted: October 29, 2014 Effective date: December 10, 2014
+Versions: December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011 Privacy Policy Posted: October 29, 2014 Effective date: December 10, 2014
 
 **This privacy policy explains how SurveyMonkey handles your personal information and data. We value your trust, so we've strived to present this policy in clear, plain language instead of legalese. The policy is structured so you can quickly find answers to the questions that interest you the most.**
 
