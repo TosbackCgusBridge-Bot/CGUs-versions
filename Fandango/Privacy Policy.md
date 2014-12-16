@@ -4,37 +4,32 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   Exodus: Gods and Kings
     *   The Hunger Games: Mockingjay - Part 1
     *   Penguins of Madagascar
+    *   Top Five
     *   Big Hero 6
     *   Interstellar
     *   Horrible Bosses 2
     *   Dumb and Dumber To
+    *   The Babadook
     *   The Theory of Everything
-    *   Gone Girl
-    *   The Pyramid
-    *   Birdman
-    *   St. Vincent
+    *   Wild
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Exodus: Gods and Kings
-    *   Top Five
-    *   Inherent Vice
-    *   The Color of Time
-    *   Magician: The Astonishing Life and Work of Orson Welles
-    *   Free the Nipple
-    *   Six Dance Lessons in Six Weeks
-    *   We Are the Giant
+    *   Annie (2014)
+    *   The Hobbit: The Battle of the Five Armies
+    *   Night at the Museum: Secret of the Tomb
+    *   Anything for Alice
+    *   Goodbye to All That
+    *   Inside the Mind of Leonardo 3D
+    *   Mr. Turner
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   The Hobbit: The Battle of the Five Armies
-    *   Annie (2014)
-    *   Night at the Museum: Secret of the Tomb
-    *   The Gambler
     *   The Interview
     *   Into the Woods
     *   Unbroken
@@ -323,9 +318,9 @@ Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtra
 
 You could win a trip to the WORLD PREMIERE of Jurassic World! ENTER NOW
 
-**The Hobbit Free Gift**
+**The Hobbit Collectible Cards**
 
-FREE E-BOOK DOWNLOAD of ‘The Hobbit’ by J. R. R. Tolkien on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
+Limited edition movie gift cards. Claim your piece of Middle-Earth today, BUY GIFT CARDS
 
 **Holiday Gift Cards**
 
