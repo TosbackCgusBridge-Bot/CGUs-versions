@@ -37,7 +37,7 @@ You must be at least 13 years of age to use the Service. Users who are found to 
 
 Information You Share
 
-**LiveJournal:** Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.
+**LiveJournal:** Whenever you post and/or provide personal information through use of this Service, you understand that you are sharing your information with LiveJournal, organizations that may hold an interest in LiveJournal, their divisions and/or subsidiaries, and any of LiveJournal’s divisions and/or subsidiaries, and/or assigns. Their use of your personal information is subject to this Policy and/or applicable law, but may be modified anytime by posting an updated Policy at this URL. It is your responsibility to check this Policy on a regular basis. Use of the Service constitutes your consent to the terms described herein.
 
 **No Resale of Identifiable Personal Information:** We will not share or resell your identifiable personal information to third parties for direct marketing purposes. LiveJournal may display relevant ads based on non-identifiable personal information, such as browser type, region detected on the basis of information located in the Network field of the Internet Address, and your use of, and interaction with, any part of the Service.
 
@@ -80,4 +80,4 @@ Contacting LiveJournal
 
 If you have a question about this policy or have an outstanding issue regarding privacy on LiveJournal, you can submit a customer support request at http://www.livejournal.com/support/submit.bml. If you have a pressing issue that requires prompt assistance, please email us directly at privacy@livejournal.com. Please note that we will respond as quickly as possible, but it may take a few days for us to respond to your request.
 
-_Effective Date: December 12, 2010_
+_Effective Date: December 16, 2014_
