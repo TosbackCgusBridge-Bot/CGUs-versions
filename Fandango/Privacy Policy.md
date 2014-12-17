@@ -314,9 +314,9 @@ Offers **Annie Free Gift**
 
 Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
 
-**Jurassic World Sweepstakes**
+**The Hobbit Free Gift**
 
-You could win a trip to the WORLD PREMIERE of Jurassic World! ENTER NOW
+FREE E-BOOK DOWNLOAD of ‘The Hobbit’ by J. R. R. Tolkien on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
 
 **The Hobbit Collectible Cards**
 
