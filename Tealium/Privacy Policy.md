@@ -42,7 +42,7 @@
     *   Case Studies
     *   Datasheets
     *   Webinars
-    *   Whitepapers
+    *   White Papers
 *   Company Company back
     *   Overview
     *   About Us
