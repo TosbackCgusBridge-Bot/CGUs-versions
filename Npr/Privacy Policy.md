@@ -16,7 +16,7 @@ Skip to Main Content Search Toggle search
     *   Awards
 *   Connect
     *   This Is NPR blog
-    *   Social Media
+    *   NPR Presents
     *   Contact Us
     *   Shop NPR
     *   Visit NPR
