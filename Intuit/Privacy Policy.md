@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  Sylvia
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13225301952
+true true C13102072176
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Mon Dec 15 10:56:25 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue Dec 16 11:26:40 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,15 +45,27 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+Hurry! Ends December 20.
+
+In Store and Online
+
+$10 Off\* $25 or more. Code: JOYFUL
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades. Code: SNOWMAN
+
+Online Only
+
+25% Off\* $100 or more. Code: SNOWMAN
+
+Or, 20% Off\* under $100. Code: SNOWMAN
+
+\*See exclusions and details. get coupon
+
 *   Great Big Christmas Sale
     
     In store and online.
     
-    shop the sale view store ad shop men's sweaters shop women's sweatersBig Buys
-    
-    In store and online while supplies last! Use your coupon and save even more.
-    
-    view Big Buys store ad
+    shop the sale view store ad
     
     Get it before Christmas. Standard shipping ends Saturday.
     
@@ -113,9 +125,9 @@ shop e-gift cards Top Gifts shop gifts under $25 shop gifts under $50 shop gifts
 
 shop men's coats and jackets
 
-50% Off select sweaters for her
+40-50% Off select women's boots
 
-shop women's sweaters
+shop women's boots
 
 50% Off select women's coats
 
@@ -127,13 +139,13 @@ Excluded from coupon offer.
 
 shop Disney
 
-40-50% Off select women's boots
+50% Off select juniors' sweaters
 
-shop women's boots
+shop juniors' sweaters
 
-50% Off select men's gifts
+50% Off select cold-weather accessories
 
-shop men's gifts
+shop cold-weather accessories
 
 New E-Gift Cards
 
