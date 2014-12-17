@@ -321,14 +321,15 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 
 *   Help Center
 *   About
-*   Press
-*   Blog
+    *   Press
+    *   Blog
+    *   Developers
 *   Careers
 *   Advertising
 *   Talent Solutions
+*   Sales Solutions
 *   Small Business
 *   Mobile
-*   Developers
 *   Language
     *   Bahasa Indonesia
     *   Bahasa Malaysia
@@ -372,3 +373,4 @@ LinkedIn Corporation _© 2014_
 *   Community Guidelines
 *   Cookie Policy
 *   Copyright Policy
+*   Unsubscribe
