@@ -95,23 +95,17 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Jan 28, 2015 Data Protection &. Privacy Day - San Francisco
+Wed, Jan 28, 2015 Data Privacy &. Protection Day Town Hall - San Francisco
 
-Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S., since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. 
+Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S.  Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident.
 
-Details, Speakers &. Registration
+Tue, Feb 3, 2015 Data Privacy &. Protection Day Town Hall - NYC
 
-Tue, Feb 3, 2015 Data Protection &. Privacy Day - NYC
+Data Privacy &. Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S. Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. 
 
-Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S., since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. 
+Thu, Feb 5, 2015 Data Privacy &. Protection Day Town Hall - Wash DC
 
-Details, Speakers &. Registration
-
-Thu, Feb 5, 2015 Data Protection &. Privacy Day - Wash DC
-
-Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S., since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. 
-
-Details, Speakers &. Registration
+Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S. Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident.
 
 Mon, Apr 13, 2015 AGILITY 2015
 
