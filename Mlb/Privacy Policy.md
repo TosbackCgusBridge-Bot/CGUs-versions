@@ -68,6 +68,13 @@ Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loa
     *   Opportunities
     *   Diverse Business Summit
 *   MLB Tryout Camps
+*   _MLB Scout School_
+    *   Home
+    *   Scouting Reports &. Videos
+    *   Graduate Testimonials
+    *   Download Sample Scouting Forms
+    *   Syllabus
+    *   Attend MLB Scout School
 *   _Television_
     *   National Broadcasts
 *   _Official Rules_
