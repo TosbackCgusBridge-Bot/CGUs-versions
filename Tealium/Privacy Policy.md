@@ -64,6 +64,9 @@ Tealium
 *   Resources
 *   Company
 
+*   Free Trial
+*   Watch Demo
+
 Tealium
 
 *   Products
@@ -72,9 +75,6 @@ Tealium
 *   Education
 *   Resources
 *   Company
-
-*   Free Trial
-*   Watch Demo
 
 *   Blog
 *   Contact Us
