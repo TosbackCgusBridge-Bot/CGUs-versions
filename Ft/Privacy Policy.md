@@ -22,6 +22,7 @@ Remember me on this computer Sign in
     *   Lexicon
     *   ePaper
     *   Search
+    *   VAT and invoicing for EU customers
     *   Clippings
     *   Alerts hub
     *   Terms and conditions
