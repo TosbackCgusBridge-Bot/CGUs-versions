@@ -30,7 +30,6 @@ Gift Cards | Offers | Visa Signature
     
     Pre Sales Tickets
     
-    *   The Interview
     *   Into the Woods
     *   Unbroken
     *   Selma
@@ -63,7 +62,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Golden Globe nominations: 'Birdman' and 'Boyhood' top list Read More Find out the names of key new 'Star Wars: The Force Awakens' characters Read More Watch the emotional new trailer for 'Inside Out,' Pixar's first movie since 'Monsters U' Read More Explore More
+*   Movie News Featured Movie News More 'Suicide Squad' casting gives us our first villainous news Read More Spacey invaders: See what happens when 8-bit games invade Earth in 'Pixels' posters Read More 'Taken 3' promo: Watch Liam Neeson crack skulls to punk rock "12 Days of Christmas"! Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -324,7 +323,7 @@ Limited edition movie gift cards. Claim your piece of Middle-Earth today, BUY GI
 
 **Holiday Gift Cards**
 
-Give more, save more. $10 off gift card orders of $150+ OR $5 off gift card orders of $75+ BUY GIFT CARDS
+Give more, save more. $10 OFF gift card orders of $150+ OR $5 OFF gift card orders of $75+ BUY GIFT CARDS
 
 New + Coming Soon
 
