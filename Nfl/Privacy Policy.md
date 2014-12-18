@@ -244,7 +244,6 @@ More NFL Sites
 *   NFL Ticket Exchange
 *   NFL Shop
 *   Licensing
-*   Protect Football on Free TV
 
 © 2014 NFL Enterprises LLC. NFL and the NFL shield design are registered trademarks of the National Football League.The team names, logos and uniform designs are registered trademarks of the teams indicated. All other NFL-related trademarks are trademarks of the National Football League. NFL footage © NFL Productions LLC.
 
