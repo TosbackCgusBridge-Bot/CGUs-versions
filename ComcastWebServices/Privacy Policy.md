@@ -1,4 +1,4 @@
-**Effective May 15, 2014 Learn More**Web Services Privacy Policy  
+An update to this privacy policy will take effect on January 17, 2015. To learn more, click here. **Effective May 15, 2014 Learn More**Web Services Privacy Policy  
 May 15, 2014
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for http://m.comcast.net and the XfinityTV Player mobile application, please click here. http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html
