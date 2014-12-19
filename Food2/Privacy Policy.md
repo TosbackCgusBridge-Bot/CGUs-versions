@@ -112,6 +112,8 @@ Our Websites typically collect two (2) kinds of information about you: (a) infor
 *   :
 *   Terms of Use
 *   :
+*   FAQs
+*   :
 *   Contact Us
 
 All Rights Reserved © Scripps Networks Interactive, Inc
