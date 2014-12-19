@@ -867,7 +867,7 @@ We will occasionally update our privacy statements to reflect customer feedback 
 *   Office
 *   Surface
 *   Windows Phone
-*   Nokia devices
+*   Mobile devices
 *   Xbox
 *   Skype
 *   MSN
