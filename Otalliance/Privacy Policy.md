@@ -114,6 +114,12 @@ We are on the brink of a major shift in how marketing technologies and digital e
 *   OTA Blog
 *   Newsletters
 
+Thu, Dec 18, 2014 Sony - It is not about the movie!
+
+**Sony - It is not about a movie. It is an attack on our sovereign nation**. 
+
+It is no longer the threat from ballistic missiles, our physical borders or hijacked airplanes.  It is the Internet, the fabric of our lives and economy.
+
 Tue, Dec 9, 2014 OTA Supports American Bankers Assoication Petition to the FCC
 
 OTA supports the petition for exemption of the Telephone Consumer Protection Act (TCPA) as requested by the ABA, limited to security and fraud prevention notification purposes and respectfully urges the Commission to grant the requested exemption. Doing so will facilitate prompt and efficient communication of time-sensitive information that can both limit the occurrence and impact of online crime and identity theft.
@@ -125,10 +131,6 @@ A few weeks ago, I attended the IAB Ad Operations Summit. The Summit focused on 
 Tue, Nov 18, 2014 Big Data Are You Prepared to Seize Opportunities &. Preserve Consumer Trust?
 
 Throughout the world businesses are eagerly capitalizing on the promise and potential of big data.  Combined with powerful analytics big data is proving to drive revenue, reach new markets and identify new consumers.  Data scientists are uncovering subtle patterns, correlations and relationships between consumers and products.  Through targeted marketing and appending data from data brokers, consumers are realizing compelling content, personalized online experiences and promotional offers tailored to their needs and aspirations.  This appears a win-win for business and t
-
-Wed, Nov 12, 2014 Time to Support Breach Legislation - We need Your Help!
-
-Last Thursday more than 40 organizations representing retailers, restaurants and other businesses – including the National Retail Federation, National Restaurant Association and Food Marketing Institute - sent a letter to Congressional leaders, stating legislation is needed to address data breaches covering all entities that handle sensitive information. Now it is your turn!
 
 Resources
 
