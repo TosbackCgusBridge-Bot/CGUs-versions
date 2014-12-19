@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  
+*   Hello  VERONICA
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13229039161
+true true L13231319233
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Wed Dec 17 03:32:51 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Thu Dec 18 01:00:42 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -65,23 +65,25 @@ Or, 20% Off\* under $100. Code: SNOWMAN
     
     In store and online.
     
-    shop the sale view store ad
+    shop the sale view store ad shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop baby shop bed and bath shop window shop kitchen and diningIn Store Only $25 off $25
     
-    Get it before Christmas. Standard shipping ends Saturday.
+    Get a $25 off $25 coupon when you spend $100 or more on JCPenney gift cards in store, December 18 through 24.
     
-    get details
+    get detailsNight and Day Doorbusters
+    
+    In store and online. Use your coupon and save even more!
+    
+    Friday 3PM CST through Saturday 1PM CST.
+    
+    view doorbusters store ad
 *   Home Sale 30-50% Off
     
     Select styles. Time to deck the halls.
     
-    shop the home sale shop furniture and mattresses shop kitchen and dining shop window shop luggage shop bed and bath shop home decor shop small appliances shop coffee and tea
-    
-    Get it before Christmas. Standard shipping ends Saturday.
-    
-    get details
+    shop the home sale shop furniture and mattresses shop kitchen and dining shop bed and bath shop window shop luggage shop home decor shop dinnerware
 *   Holiday Jewelry Sale
     
-    December 4 through 24.
+    December 18 through 24.
     
     shop the holiday jewelry sale
     
@@ -121,31 +123,29 @@ This link will take you to our partner site operated by CashStar.
 
 shop e-gift cards Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
 
-50% Off select men's coats and jackets
+50% Off select men's Nike apparel
 
-shop men's coats and jackets
+shop men's Nike apparel
+
+40-50% Off select women's sleepwear
+
+shop women's sleepwear
+
+50% Off select women's Xersion
+
+shop women's Xersion
+
+50% Off select kids' sleepwear
+
+shop kids' sleepwear
 
 40-50% Off select women's boots
 
 shop women's boots
 
-50% Off select women's coats
+50% Off select men's gifts
 
-shop women's coats
-
-$9.99 select Disney Collection sleepwear
-
-Excluded from coupon offer.
-
-shop Disney
-
-50% Off select juniors' sweaters
-
-shop juniors' sweaters
-
-50% Off select cold-weather accessories
-
-shop cold-weather accessories
+shop men's gifts
 
 New E-Gift Cards
 
