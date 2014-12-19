@@ -118,6 +118,7 @@ Aéropostale Go
     *   Locker Stock
     *   Radii
     *   Superga
+    *   True Vintage
     *   United XXVI
 *   Factory
 *   Aero Now
