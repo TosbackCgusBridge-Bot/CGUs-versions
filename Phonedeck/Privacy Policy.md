@@ -1,6 +1,6 @@
 *   Products
     *   Mobile CRM app
-    *   Phone Remote
+    *   Mobile CTI
 *   Enterprises
 *   Partners
 *   Telcos
@@ -12,7 +12,7 @@
 
 *   Products
     *   Mobile CRM app
-    *   Phone Remote
+    *   Mobile CTI
 *   Enterprises
 *   Partners
 *   Telcos
@@ -84,11 +84,11 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 Recent Blog Posts
 
+*   How much time do you spend on manual reporting after business trips? December 18, 2014
 *   Speed up your workflow with the new Phonedeck mobile CRM app December 2, 2014
 *   One Phonedeck to organize and log calls via tablet or computer November 19, 2014
 *   Phonedeck announced the cooperation with Alcatel-Lucent October 9, 2014
 *   Study finds most sales reps are unable to cope with task reporting October 9, 2014
-*   Startup Safary Berlin at Phonedeck September 19, 2014
 
 Phonedeck Newsletter Email Address\* First Name\* Last Name\* Company \* = required field About Phonedeck
 
