@@ -86,7 +86,7 @@ NX
 
 Starting at $34,480\*
 
-*   • ﻿Turbocharged 4 cylinder
+*   • ﻿Turbocharged 4-cylinder
 *   • FWD or AWD
 
 RX
