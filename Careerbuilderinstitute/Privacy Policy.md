@@ -45,6 +45,7 @@ The more you use Careerbuilder.com, the better the job matches become!
 Get started now! Upload your resume >>. See All Jobs >. Popular Job Searches
 
 *   Sales Jobs
+*   Legal Jobs
 *   Customer Service Jobs
 *   Accounting Jobs
 *   Entry Level Jobs
@@ -53,6 +54,7 @@ Get started now! Upload your resume >>. See All Jobs >. Popular Job Searches
 *   Manufacturing Jobs
 
 *   Registered Nurse Jobs
+*   Paralegal Jobs
 *   Warehouse Jobs
 *   Part Time Jobs
 *   International Jobs
