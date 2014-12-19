@@ -235,7 +235,7 @@ Legal Notices &. Trademarks
 *   Code of Business Conduct
 *   Partner Code of Conduct
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
-*   Online Purchases Terms and Conditions
+*   Online Purchases and Auto-Renewal Terms and Conditions
 
   Privacy Statement - UPDATED OCTOBER 24, 2014
 
