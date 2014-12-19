@@ -251,21 +251,21 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video The Almighty Johnsons - Sneak Peek - Does Thi ... The Almighty Johnsons - Sneak Peek - Does This Look Like Asgard?
+Syfy Video Inside Ascension: Night 3 Inside Ascension: Night 3
 
-Get a sneak peek at the next episode of The Almighty Johnsons, airing Dec. 18 at 11/10c on Syfy.
+Find out what the cast had to say about Ascensions third and final installment.
 
-It's Sacred Enough It's Sacred Enough
+Smackdown Moves to Thursdays! Smackdown Moves to Thursdays!
 
-Sometimes what seems easy is actually hardness in disguise as Ty renounces his God spirit and becomes mortal.
+Starting January 15, Smackdown moves to Thursdays at 8/7c.
 
-Face Off: Return of the Champions Face Off: Return of the Champions
+Revenge is Best Served HOT! Revenge is Best Served HOT!
 
-They're baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
+Viondra kisses James for revenge on her husband, Jackie delivers extra rations to an unclaimed child, and Samantha is taken hostage by Stokes and sees the ship.
 
-Face Off Season 8 Tease Face Off Season 8 Tease
+Women's Lib Women's Lib
 
-Tune in to Face Off Season 8 coming in January!
+After the massive power surge, the ships carbon dioxide scrubbers are offline. Meanwhile, Viondra takes control of the ship and faces down Councilman Rose.
 
 *   FAQ
 *   Feedback
