@@ -1,4 +1,4 @@
-**Last Modified:** December 02, 2011
+**Last Modified:** December 19, 2014
 
 PLEASE READ THESE TERMS OF USE CAREFULLY BECAUSE THEY DESCRIBE YOUR RIGHTS AND RESPONSIBILITIES
 
@@ -87,6 +87,10 @@ Posting is for noncommercial purposes only and you may not Post in any manner wh
 
 If you believe that any content on the Site (including, without limitation, Postings) violates any of the terms of this Agreement (except for any notices covered by the Copyright Compliance Policy), please click here to send us a message about it or you may email us at webmaster@mtv.com (please refer to our Copyright Compliance Policy for any notices covered by the Copyright Compliance Policy). We cannot guarantee that we will respond to your message and we reserve the right to take or refrain from taking any or all steps available to us once we receive any such message.
 
+Registered users of this Site who are California residents and are under 18 years of age may request and obtain removal of Postings on this Site that they themselves post by emailing us at posting\_removal@viacom.com. All requests must be labeled "California Removal Request" on the email subject line. All requests must provide a description of the content or information in your Posting that you want removed and information reasonably sufficient to permit us to locate the material and, so that we can process your request and contact you if we have questions, include your registered username, name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email), include the name and URL (if applicable) of the website, application or other interactive service and indicate your preference on how our response to your request should be sent (email or postal mail). We shall not accept requests via postal mail, telephone or facsimile. We are not responsible for notices that are not labeled or sent properly, or may not be able to respond if you do not provide complete information. We may also provide you the ability to remove individual specific Postings that are comments by navigating to the comment, selecting the delete option when you hover over the right-hand side of the comment with your cursor and verifying the deletion request.
+
+Please also note that any requests for removal do not ensure complete or comprehensive removal of the content or information from this Site. For example, content that you have posted may be republished or reposted by another user or third party. See also Section 7 of our Privacy Policy regarding how you may delete certain Information.
+
 10\. Contests, Sweepstakes, Auctions And Promotions
 
 From time to time, the MTV Channel, the Parent Companies, the Affiliates, or the Site's operational service providers, suppliers, and Advertisers may conduct promotions on or through the Site, including, without limitation, auctions, contests and sweepstakes ("Promotions"). Each Promotion may have Additional Terms and/or Rules which will be posted or otherwise made available to you and, for purposes of each Promotion, will be deemed incorporated into and form a part of this Agreement.
@@ -163,3 +167,5 @@ This Agreement, together with any Additional Terms, Rules, our Privacy Policy an
 This Agreement and your use of the Site is governed by, construed and enforced in accordance with the internal substantive laws of the State of New York (notwithstanding the State's conflict of laws provisions) applicable to contracts made, executed and wholly performed in New York, and, for the purposes of any and all legal or equitable actions, you specifically agree and submit to the exclusive jurisdiction and venue of the State and Federal Courts situated in the State and County of New York and agree you will not object to such jurisdiction or venue on the grounds of lack of personal jurisdiction, forum non conveniens or otherwise. To the extent it may be applicable, you agree to opt out from and expressly exclude any applicability of the Uniform Computer Information Transactions Act. IN ANY ACTION OR PROCEEDING COMMENCED TO ENFORCE ANY RIGHT OR OBLIGATION OF THE PARTIES UNDER THIS AGREEMENT, YOUR USE OF THE SITE OR WITH RESPECT TO THE SUBJECT MATTER HEREOF, YOU HEREBY WAIVE ANY RIGHT YOU MAY NOW HAVE OR HEREAFTER POSSESS TO A TRIAL BY JURY.
 
 This Terms of Use Agreement was last modified on the date indicated above and is effective immediately.
+
+Copyright © 2014 Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved
