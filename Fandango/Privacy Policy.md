@@ -26,6 +26,7 @@ Gift Cards | Offers | Visa Signature
     *   Goodbye to All That
     *   Inside the Mind of Leonardo 3D
     *   Mr. Turner
+    *   PK
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -33,11 +34,11 @@ Gift Cards | Offers | Visa Signature
     *   Into the Woods
     *   Unbroken
     *   Selma
+    *   The Woman In Black 2 Angel of Death
     *   American Sniper
     
     Coming Soon
     
-    *   The Woman In Black 2 Angel of Death
     *   Paddington
     *   The Wedding Ringer
     *   See All Coming Soon
@@ -313,9 +314,9 @@ Offers **Annie Free Gift**
 
 Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
 
-**The Hobbit Free Gift**
+**Jurassic World Sweepstakes**
 
-FREE E-BOOK DOWNLOAD of ‘The Hobbit’ by J. R. R. Tolkien on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
+Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
 **The Hobbit Collectible Cards**
 
