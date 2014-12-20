@@ -26,7 +26,7 @@
 
 *   Follow VH1
 
-Last Modified: Nov 2014  
+Last Modified: Dec 18, 2014  
 Click here to learn about the most recent significant updates. **Go to Terms of Use Agreement** **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**  
 This is the privacy policy ("Privacy Policy") for VH1.com ("Site," "we," "us," or "our") an Internet website offered in cooperation with the VH1 television channel or programming service ("VH1 Channel"). The VH1 Channel and the Site (together, "VH1") are provided by Viacom Media Networks ("VMN"), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the "Parent Companies").  
   
@@ -220,6 +220,8 @@ Generally, we do not sell, rent, lease or disclose your Personal Information to 
   
 Generally, you may review, update or delete certain Information collected by the Site by clicking "MY ACCOUNT" on the homepage to sign in to your Site account with your User ID and then clicking on "YOUT ACCOUNT INFO" to change, update, or delete your Personal Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID.  
   
+See Section 9 of the Terms of Use for how registered users of this Site who are California residents and are under 18 years of age may request removal of content or Information in Postings  
+  
   
 You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking "Profile" or your display name at the top of the Site, selecting "Edit Profile" or "Manage Account" and selecting the "Privacy" tab.  
 Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 13 years old.  
@@ -263,7 +265,7 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.  
   
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2013 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.  
+Copyright © 2014 Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved.  
   
 
 2.  SHOWS
@@ -318,7 +320,7 @@ Visit VH1 On:
 *   Terms/Policy
 *   Help/FAQ
 *   Terms Of Use
-*   Privacy Policy/Your CA Privacy Rights (updated 08/14/14)
+*   Privacy Policy/Your CA Privacy Rights (updated 12/19/14)
 *   Copyright Compliance Policy
 *   Social Project Privacy Statement
 *   Social Project Terms of Use
