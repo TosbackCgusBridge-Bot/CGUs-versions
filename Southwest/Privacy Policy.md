@@ -92,11 +92,11 @@ For your convenience, a brief description of the periodic e-mails you may choose
 
 **Click 'n Save® Special Offers E-mail  
 **Weekly e-mail highlighting travel deals on flights, car rentals, hotels, cruises, and Southwest Vacations  
-Subscribe
+Subscribe | Unsubscribe
 
 **In A Nutshell™ News &. Promotions E-mail**  
 An e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers  
-Subscribe
+Subscribe | Unsubscribe
 
 **Rapid Rewards® E-mail Updates**  
 Rapid Rewards news and offers for Members only  
