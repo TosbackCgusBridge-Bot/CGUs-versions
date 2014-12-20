@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  VERONICA
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13231319233
+true true L13234739235
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Thu Dec 18 01:00:42 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Fri Dec 19 03:08:45 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -75,7 +75,7 @@ Or, 20% Off\* under $100. Code: SNOWMAN
     
     Friday 3PM CST through Saturday 1PM CST.
     
-    view doorbusters store ad
+    shop doorbusters view doorbusters store ad
 *   Home Sale 30-50% Off
     
     Select styles. Time to deck the halls.
@@ -123,7 +123,7 @@ This link will take you to our partner site operated by CashStar.
 
 shop e-gift cards Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
 
-50% Off select men's Nike apparel
+20% Off select men's Nike apparel
 
 shop men's Nike apparel
 
