@@ -58,7 +58,7 @@ Up to
 A 2014 IIHS Top Safety  
 Pick+ with optional EyeSight
 
-Impreza 2.0i Sport Limited shown
+Impreza 2.0i Limited shown
 
 WRX $26,295 starting price 2015 WRX
 
