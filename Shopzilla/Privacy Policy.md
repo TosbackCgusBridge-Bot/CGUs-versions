@@ -177,7 +177,7 @@ Stay Connected
 *   Twitter
 *   LinkedIn
 
-&copy 2014 Connexity, Inc. / Privacy Policy / Opt Out
+&copy 2014 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
 
