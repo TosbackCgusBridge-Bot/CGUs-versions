@@ -60,6 +60,10 @@ For additional tips on how to help children stay safe on the Internet, we recomm
 *   www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm
 *   http://www.onguardonline.gov/features/feature-0002-featured-info-parents
 
+Right to Remove Posted Information — California Minors
+
+If you are under 18 years of age, reside in California, and have a registered account on the Site or Mobile Applications, you have the right to request removal of unwanted information that you publicly post on Site or Mobile Applications. To request removal of such information, you can contact Kongregate at the email address or postal address above below. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site or Mobile Applications, but the information may not be completely or comprehensively removed from Kongregate systems.
+
 Your Options
 
 If you are receiving Kongregate email advertisements and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email. Please allow ten (10) days for your request to be processed.
