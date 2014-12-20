@@ -289,7 +289,12 @@ Legal Notices &. Trademarks
     o Polityka dotycząca prywatności dzieci  
       
     
-*   Declaração de privacidade da Autodesk  
+*   Declaração de privacidade da Autodesk (Portugal)  
+    o Política de cookies  
+    o Política de Privacidade Infantil  
+      
+    
+*   Declaração de privacidade da Autodesk (Brasil)  
     o Política de cookies  
     o Política de Privacidade Infantil  
       
