@@ -84,6 +84,7 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
+    *   Room Clearance
     
     *   GUYS
     *   Clearance Tops
@@ -111,7 +112,6 @@ Aéropostale Go
     *   United XXVI
     
     *   GUYS
-    *   Blue Suede Shoes
     *   Brooklyn Calling
     *   Free State
     *   Gola
