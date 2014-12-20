@@ -118,7 +118,7 @@ We may change from time to time the terms of Our Privacy Policy. The mention of 
 If you have any questions, you can contact us through our contact form.
 
 *   Advertise on Y8
-*   contact form
+*   If you have questions or other inquiries, please use our contact form
 *   Business contact
 *   Submit a game or animation
 *   All-site RSS
