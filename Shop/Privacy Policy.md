@@ -242,15 +242,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     2.  Current Offers
         1.  Home Laptop &. Desktop Deals
         2.  Professional Laptop &. Desktop Deals
-        3.  Daily Deals
-        4.  Holiday Gift Guide
-        5.  ThinkPad &. ThinkCentre QuickShips
-        6.  Accessories Stocking Stuffers
-        7.  Bing Page Deals
-        8.  Deals for Students and Educators
-        9.  Outlet
-        10.  Google Play Offer
-        11.  See all Current Offers
+        3.  Holiday Gift Guide
+        4.  ThinkPad &. ThinkCentre QuickShips
+        5.  Accessories Stocking Stuffers
+        6.  Bing Page Deals
+        7.  Deals for Students and Educators
+        8.  Outlet
+        9.  Google Play Offer
+        10.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
@@ -300,8 +299,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     8.  **Accessories, Options and Monitors**  
         Support for these extras
     9.    **Payment issues**  
-        Call 1-800-426-3325, option 1  
-        Monday - Friday, 9am - 6pm (EST)
+        Call 1-800-426-3325, option 3  
+        Monday - Friday, 9am - 5:30pm (EST)
     10.    **Need More Help?**  
         More ways to **contact Lenovo**
     11.  See all Support
