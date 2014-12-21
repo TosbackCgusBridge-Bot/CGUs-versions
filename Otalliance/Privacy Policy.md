@@ -116,7 +116,7 @@ We are on the brink of a major shift in how marketing technologies and digital e
 
 Thu, Dec 18, 2014 Sony - It is not about the movie!
 
-**Sony - It is not about a movie. It is an attack on our sovereign nation**. 
+_**Sony - It is not about a movie. It is an attack on our sovereign nation**._ 
 
 It is no longer the threat from ballistic missiles, our physical borders or hijacked airplanes.  It is the Internet, the fabric of our lives and economy.
 
