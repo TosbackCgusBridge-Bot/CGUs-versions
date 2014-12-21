@@ -84,7 +84,6 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
-    *   Room Clearance
     
     *   GUYS
     *   Clearance Tops
@@ -108,6 +107,7 @@ Aéropostale Go
     *   Report
     *   Rocket Dog
     *   Superga
+    *   Tigerbear Republik
     *   Tokyo Darling
     *   United XXVI
     
@@ -118,7 +118,6 @@ Aéropostale Go
     *   Locker Stock
     *   Radii
     *   Superga
-    *   True Vintage
     *   United XXVI
 *   Factory
 *   Aero Now
