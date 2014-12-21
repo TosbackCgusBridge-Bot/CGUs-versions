@@ -313,7 +313,8 @@ My Bag0
     *   Sign Out
 *   Ship To
 
-Lands' End Customer Service Menu
+Lands' End **Free Shipping Every Day on orders $50+**  
+$5 More for UPS 2 Day Customer Service Menu
 
 *   Customer Service
     *   Frequently Asked Questions
