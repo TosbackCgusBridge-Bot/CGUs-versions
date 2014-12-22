@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (26)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  
+*   Hello  FATEN
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (26)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13240143879
+true true C13115930299
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Dec 20 07:29:32 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sun Dec 21 04:24:34 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,42 +45,54 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Hurry! Ends December 20.
+Online Only, Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
 
 In Store and Online
 
-$10 Off\* $25 or more. Code: JOYFUL
+Extra 20% Off\* with your JCPenney Credit Card.
 
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades. Code: SNOWMAN
+Or, Extra 15% Off\* with any other method of payment.
 
-Online Only
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-25% Off\* $100 or more. Code: SNOWMAN
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
 
-Or, 20% Off\* under $100. Code: SNOWMAN
+Ends December 24. Use Code: TICKTOCK
 
 \*See exclusions and details. get coupon
 
-*   Great Big Christmas Sale
+*   Wrap Up The Jingle Sale shop the sale
     
-    In store and online.
+    Stores open at 8AM!
     
-    shop the sale view store ad shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop baby shop bed and bath shop window shop kitchen and diningIn Store Only $25 off $25
+    view store hours$10 Bonus Cash
+    
+    Earn $10 Bonus Cash when you spend $50 or more December 21 through 24.
+    
+    Good for one-time use In Store Only December 26 through January 4.
+    
+    get details view store adIn Store Only $25 off $25
     
     Get a $25 off $25 coupon when you spend $100 or more on JCPenney gift cards in store, December 18 through 24.
     
-    get detailsNight and Day Doorbusters
+    get details
+*   Home Sale 30-50% Off shop the home sale shop bedding and bath shop window shop furniture and mattresses shop luggage shop home decor
     
-    In store and online. Use your coupon and save even more!
+    $349.99 KitchenAid Artisan 5 quart stand mixer
     
-    Friday 3PM CST through Saturday 1PM CST.
+    Regularly $500. Excluded from coupon.
     
-    shop doorbusters view doorbusters store ad
-*   Home Sale 30-50% Off
+    shop Kitchenaid
     
-    Select styles. Time to deck the halls.
+    $149.99 Keurig K350 2.0 brewer
     
-    shop the home sale shop furniture and mattresses shop kitchen and dining shop bed and bath shop window shop luggage shop home decor shop dinnerware
+    Regularly $250. Excluded from coupon.
+    
+    shop Keurig
 *   Holiday Jewelry Sale
     
     December 18 through 24.
@@ -121,55 +133,57 @@ Order through December 25 for Christmas Day delivery!
 
 This link will take you to our partner site operated by CashStar.
 
-shop e-gift cards Top Gifts shop gifts under $25 shop gifts under $50 shop gifts under $100
+shop e-gift cards
 
-20% Off select men's Nike apparel
+Buy $100 in JCPenney E-Gift cards and receive a $25 Off\*\* $25 coupon on purchases December 20 through 25. Redeemable in store and online December 26 through 31.
 
-shop men's Nike apparel
+\*\*See exclusions and details.
 
-40-50% Off select women's sleepwear
+50-60% Off Select Juniors' Sweaters
 
-shop women's sleepwear
+shop now
 
-50% Off select women's Xersion
+25% Off All Men's Nike Fleece
 
-shop women's Xersion
+Excluded from coupon offer.
 
-50% Off select kids' sleepwear
+shop now
 
-shop kids' sleepwear
+50% Off Cold Weather Accessories for Her
 
-40-50% Off select women's boots
+shop now
 
-shop women's boots
+40-50% Off Select Sleepwear and Robes for Her
 
-50% Off select men's gifts
+shop now
 
-shop men's gifts
+40-50% Off Select Kids' Arizona
 
-New E-Gift Cards
+shop now
 
-shop gift cards shop top gifts 30-50% Off Home Decor
+30-55% Off Select Women's Boots
+
+shop now 30-50% Off Comforters and Bedding Sets
 
 Select styles.
 
-shop home decor Red Zone Clearance 50-70% Off
+shop now Red Zone Already-Reduced Clearance 50-70% Off
 
 In Store and Online.
 
-shop clearance JCP Rewards
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today JCP Cares
+sign up today Just $5
 
-In the spirit of the holiday giving season, JCPenney Cares is focusing on supporting the families of the men and women serving in the U.S. Armed Forces.
+Get ALL your favorite magazines from TimeInc. today.
 
-get details People StyleWatch Must Have Gifts
+shop now JCP Cares
 
-Sponsored content.
+Round up at the register or online and we'll donate the difference to the USO.
 
-shop now #JustGotJingled join the conversation
+get details #JustGotJingled join the conversation
 
 get connected
 
