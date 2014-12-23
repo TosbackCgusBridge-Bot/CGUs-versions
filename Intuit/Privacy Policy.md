@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (26)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  FATEN
+*   Hello  Tanya
 *   (sign out)
     
 *   my account
 
-*   saved items: (26)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13115930299
+true true L13244410698
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sun Dec 21 04:24:34 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Mon Dec 22 04:08:52 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -143,9 +143,7 @@ Buy $100 in JCPenney E-Gift cards and receive a $25 Off\*\* $25 coupon on purcha
 
 shop now
 
-25% Off All Men's Nike Fleece
-
-Excluded from coupon offer.
+50% Off Select Men's St. John's Bay Flannel Shirts
 
 shop now
 
@@ -161,7 +159,7 @@ shop now
 
 shop now
 
-30-55% Off Select Women's Boots
+30-55% Off Select Boots for Her
 
 shop now 30-50% Off Comforters and Bedding Sets
 
