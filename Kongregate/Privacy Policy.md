@@ -62,7 +62,7 @@ For additional tips on how to help children stay safe on the Internet, we recomm
 
 Right to Remove Posted Information — California Minors
 
-If you are under 18 years of age, reside in California, and have a registered account on the Site or Mobile Applications, you have the right to request removal of unwanted information that you publicly post on Site or Mobile Applications. To request removal of such information, you can contact Kongregate at the email address or postal address above below. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site or Mobile Applications, but the information may not be completely or comprehensively removed from Kongregate systems.
+If you are under 18 years of age, reside in California, and have a registered account on the Site or Mobile Applications, you have the right to request removal of unwanted information that you publicly post on Site or Mobile Applications. To request removal of such information, you can contact Kongregate using the email address associated with your account at privacy@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site or Mobile Applications, but the information may not be completely or comprehensively removed from Kongregate systems.
 
 Your Options
 
