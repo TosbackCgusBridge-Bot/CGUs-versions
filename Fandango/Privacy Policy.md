@@ -4,29 +4,28 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   The Hobbit: The Battle of the Five Armies
+    *   Night at the Museum: Secret of the Tomb
+    *   Annie (2014)
     *   Exodus: Gods and Kings
     *   The Hunger Games: Mockingjay - Part 1
-    *   Penguins of Madagascar
+    *   Wild
     *   Top Five
     *   Big Hero 6
+    *   Penguins of Madagascar
+    *   PK
     *   Interstellar
-    *   Horrible Bosses 2
-    *   Dumb and Dumber To
-    *   The Babadook
-    *   The Theory of Everything
-    *   Wild
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Annie (2014)
-    *   The Hobbit: The Battle of the Five Armies
-    *   Night at the Museum: Secret of the Tomb
-    *   Anything for Alice
-    *   Goodbye to All That
-    *   Inside the Mind of Leonardo 3D
-    *   Mr. Turner
-    *   PK
+    *   The Gambler
+    *   Into the Woods
+    *   Unbroken
+    *   American Sniper
+    *   Selma
+    *   Big Eyes
+    *   Two Days, One Night
     *   See All Opening This Week
     
     Pre Sales Tickets
@@ -39,8 +38,10 @@ Gift Cards | Offers | Visa Signature
     
     Coming Soon
     
+    *   Blackhat
     *   Paddington
     *   The Wedding Ringer
+    *   Mortdecai
     *   See All Coming Soon
     
     Explore More
@@ -63,7 +64,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News More 'Suicide Squad' casting gives us our first villainous news Read More Spacey invaders: See what happens when 8-bit games invade Earth in 'Pixels' posters Read More 'Taken 3' promo: Watch Liam Neeson crack skulls to punk rock "12 Days of Christmas"! Read More Explore More
+*   Movie News Featured Movie News 'Get Hard' trailer: Kevin Hart takes Will Ferrell to prison school Read More 'Everest': Jake Gyllenhaal and James Brolin are part of a doomed mountain climbing team Read More Trailer: Check out Jonah Hill and James Franco in the identity-theft drama 'True Story' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
