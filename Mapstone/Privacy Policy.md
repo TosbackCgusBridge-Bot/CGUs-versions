@@ -22,4 +22,12 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Share this:
 
+*   Share on Facebook (Opens in new window)
+*   Click to share on Twitter (Opens in new window)
+*   Click to share on Google+ (Opens in new window)
+*   Click to share on StumbleUpon (Opens in new window)
+*   Click to share on Pinterest (Opens in new window)
+*   Click to share on LinkedIn (Opens in new window)
+*   Click to share on Reddit (Opens in new window)
+
 Like this: Like Loading... Share
