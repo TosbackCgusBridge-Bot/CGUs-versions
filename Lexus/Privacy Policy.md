@@ -201,7 +201,9 @@ Concept Convertible
 
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
-During 2013, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
+Lexus Personal Information Sharing Practices - 2014
+
+During 2014, Lexus shared Personal Information about our customers with SiriusXM™ Satellite Radio, Lexus hotel partners, Lexus Financial Services, Lexus Financial Savings Bank and our authorized Lexus dealers, where the information was used for the recipient’s own marketing.
 
 Information Collected
 
