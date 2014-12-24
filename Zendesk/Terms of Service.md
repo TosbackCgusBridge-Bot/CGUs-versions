@@ -1,5 +1,7 @@
 Terms of Service
 
+Our Terms of Service are changing as of January 5, 2015. Review the updated terms here.
+
 **EFFECTIVE:  MAY 1, 2014**
 
   
