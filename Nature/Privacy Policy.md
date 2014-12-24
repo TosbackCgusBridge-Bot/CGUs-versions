@@ -136,9 +136,9 @@ Search:Search Donate Now
     *   Science CouncilConservation by Design Science Features Conservation Gateway
 *   **Membership** &. Giving \[close\]
     
-    *   **Green Gifts**
+    *   **Adopt an Acre**
         
-        This holiday season give a meaningful gift to support the Earth.
+        Help protect the most beautiful places on Earth.
         
     *   **Gift Memberships**
         
