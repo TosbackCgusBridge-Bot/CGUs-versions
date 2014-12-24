@@ -1,6 +1,6 @@
-Don’t panic…yet.
+The easiest gift you’ll ever give.
 
-Shipping Deadlines
+Right Here.
 
 Online Orders 800-522-8090
 
