@@ -287,11 +287,11 @@ steps distance calories burned
   
 fitbit smiley clock Wearability
 
-Wear your zip somewhere near your torso. To prevent losing your Zip, wear it:
+Wear your Zip somewhere near your torso. To prevent losing your Zip, wear it:
 
-1.  1\. inside your pocket
-2.  2\. clipped to your bra
-3.  3\. clipped on your pocket facing inward
+1.  1\. inside your pocket.
+2.  2\. clipped on a bra facing forward. do not wear zip inside your bra.
+3.  3\. clipped on your pocket facing inward.
 
 Sync with your computer
 
