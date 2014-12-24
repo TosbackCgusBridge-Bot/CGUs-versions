@@ -78,7 +78,7 @@ e.  Spam, direct marketing communications or any unsolicited advertising, promo
 
 f.  User Content that constitutes, encourages or provides instructions for a criminal offense, violates the rights of any party or that creates liability or violates any applicable local, state, national or international law.
 
-g.  Viruses, spyware, Trojan horses, easter eggs or any other harmful, disruptive or destructive files. and
+g.  Viruses, spyware, Trojan horses, Easter eggs or any other harmful, disruptive or destructive files. and
 
 h.  User Content that, in the sole judgment of Starbucks, is objectionable, restricts or inhibits any other person from using or enjoying the Sites or which damages the image or rights of Starbucks, other users or third parties.
 
