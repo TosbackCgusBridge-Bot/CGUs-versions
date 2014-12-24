@@ -1,4 +1,4 @@
-Gift Cards | Offers | Visa Signature
+Special Offer FREE $5 VUDU MOVIE CREDIT with ticket purchase! LIMITED TIME. SUBJECT TO AVAILABILITY. TERMS APPLY. Special Offer X Get a FREE $5 VUDU movie credit when you buy tickets to any movie! Offer valid through 9:00am PT on 12/29/14, or while supplies last. Within 24 hours of your ticket purchase transaction, you’ll receive an email from Fandango with one (1) VUDU promotional code valid to redeem for one (1) $5 credit good toward a purchase or rental on VUDU. VUDU code expires on 1/31/2015 and credit must be used within ninety (90) days of VUDU code redemption. VUDU enabled device and account required for digital viewing. Offer valid in the US only to residents 18 years of age or older. Offer is non-transferable and not redeemable for cash. Limit one (1) VUDU code per email address, per ticket purchase transaction. Other terms and conditions may apply. Gift Cards | Offers | Visa Signature
 
 *   Go
 
@@ -64,7 +64,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News 'Get Hard' trailer: Kevin Hart takes Will Ferrell to prison school Read More 'Everest': Jake Gyllenhaal and James Brolin are part of a doomed mountain climbing team Read More Trailer: Check out Jonah Hill and James Franco in the identity-theft drama 'True Story' Read More Explore More
+*   Movie News Featured Movie News 'Get Hard' trailer: Kevin Hart takes Will Ferrell to prison school Read More 'Star Trek' lands 'Fast and Furious' director, meet Marvel's new Luke Cage Read More Trailer: Check out Jonah Hill and James Franco in the identity-theft drama 'True Story' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -311,13 +311,13 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Annie Free Gift**
+Offers **FREE $5 VUDU Movie Credit**
+
+Get a FREE $5 VUDU movie credit when you buy tickets to any movie! BUY TICKETS
+
+**Annie Free Gift**
 
 Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
-
-**Jurassic World Sweepstakes**
-
-Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
 **The Hobbit Collectible Cards**
 
