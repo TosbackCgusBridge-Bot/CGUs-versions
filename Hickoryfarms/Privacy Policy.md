@@ -7,8 +7,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Gift Boxes
-    *   Gift Baskets &. Towers
-        
     *   Business Gifts
         
     *   Military Gifts
@@ -56,8 +54,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Gift Boxes
-    *   Gift Baskets &. Towers
-        
     *   Business Gifts
         
     *   Military Gifts
