@@ -20,14 +20,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   Outerwear Shop
-            *   Cardigan Shop
+            *   2015 Swim Shop
             *   Activewear Collection
             *   Shoes &. Boots
             
             *   New Arrivals
-            *   Winter Looks
-            *   2015 Swim Shop
-            *   Gifts For Her
+            *   Cardigan Shop
+            *   Starfish Collection
+            *   Little Black Dress
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -64,12 +64,11 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Outerwear Guide
             *   Sleep Shop
             *   Shoes &. Boots
-            *   Supima Shop
+            *   Supima Shirts &. Sweaters
             
             *   New Arrivals
             *   Tailored Fit Shop
             *   Slim Fit Shop
-            *   Gifts For Him
             *   Sale
         *   Shop By Size Range
             *   Back to Men Shop By Size Range
@@ -101,14 +100,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Outerwear Shop
-            *   Sleep Shop
             *   Shoes &. Boots
             *   School Uniforms
             
             *   New Arrivals
             *   Boys Iron Knee
             *   Girls Knit Kit
-            *   Gifts For Kids
             *   Sale
         *   Shop By Age Range
             *   Back to Kids Shop By Age Range
@@ -181,7 +178,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   New Arrivals
             *   Flannel Bedding
             *   Bedding Collections
-            *   Gifts For The Home
             *   Sale
     *   *   Categories
             *   Bedding
