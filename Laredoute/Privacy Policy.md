@@ -51,6 +51,26 @@ Vous pouvez à tout moment avoir accès et changer les informations concernant v
 
 **Conformément à la Loi Informatique et Libertés du 06/01/1978, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant et d'opposition à leur traitement. Si vous souhaitez l'exercer, vous pouvez écrire à La Redoute – Service Relations Clients – 59081 Roubaix Cedex 2, en indiquant vos nom, prénom, adresse, email et si possible référence client afin d'accélérer la prise en compte de votre demande.**
 
+*   **Données bancaires**
+
+*   **La collecte des données**
+
+Afin d´assurer la sécurité des paiements, La Redoute utilise les services d’un prestataire, OGONE, certifié PCI-DSS. Cette norme est un standard de sécurité international dont les objectifs sont d’assurer la confidentialité et l’intégrité des données des porteurs de cartes, et ainsi de sécuriser la protection des données cartes et de transaction.  
+
+Lorsque vous passez une commande en  paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système d’OGONE qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes. **Les données sont stockées sur les serveurs OGONE et ne sont à aucun moment transmises sur les serveurs de La Redoute.** OGONE fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.
+
+Afin de vous éviter de saisir à nouveau vos coordonnées bancaires lors de prochaines commandes, vous pouvez choisir, en cochant la case d’acceptation prévue à cet effet, que vos cartes bancaires soient associées à votre compte en ligne. Elles sont enregistrées chez OGONE de façon sécurisée. Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu, dans la partie « Moyens de paiement » de la rubrique « Mes achats » de « Mon Compte ». Dans ce cas, vos cartes supprimées n’apparaîtront plus dans votre compte en ligne ni lors de futures commandes,
+
+*   **Traitement des paiements**
+
+Le prélèvement sur mon compte s'effectue au fur et à mesure de l'expédition des articles. Les retours sont crédités sur votre compte. En cas de produits différés, le débit du montant de la commande peut être effectué en plusieurs fois selon les différentes dates de livraison de vos produits.
+
+*   **Durée de conservation des données**
+
+Afin de pouvoir débiter le compte lors de la facturation ou de la créditer suite à un retour, OGONE garde les données bancaires associées au n° d’autorisation, le temps nécessaire à la réalisation de la transaction (paiements après expédition de la marchandise) et au traitement des éventuelles réclamations (retours, litiges).
+
+Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont désactivées automatiquement à l’expiration de la date de validité de  la carte.
+
 *   **Les Cookies**
 
 Cette rubrique « COOKIES » vous permet d’en savoir plus sur l’origine et l'usage des informations de navigation traitées à l'occasion de votre consultation de notre site et sur vos droits.
