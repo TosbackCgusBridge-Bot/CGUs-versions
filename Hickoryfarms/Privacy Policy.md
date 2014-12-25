@@ -97,7 +97,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Our Holiday Markets are still open! **__Find a local store >__**
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Christmas Clearance Sale - **__Up to 50% off!__** Limited Time Only.\*
 
 1.  Home
 2.  Customer Service
