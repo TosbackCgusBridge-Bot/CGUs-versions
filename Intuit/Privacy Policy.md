@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13253214049
+true true L13257645266
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p40.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Thu Dec 25 07:15:25 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p14.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Fri Dec 26 11:22:30 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,40 +45,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Extra 25% Off\* 25 Hours Only
-    
-    Merry Christmas! Savings in the "St. Nick" of time.
-    
-    Online Only. Ends December 25. Code: CHEER
-    
-    Take an extra 25% Off\*
-    
-    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-    
-    \*Some exclusions apply.
-    
-    get details
-*   Our Biggest After Christmas Sale and Clearance
-    
-    Save online now! Friday, December 26 our doors open early at 6AM.
-    
-    shop the sale shop clearance view store adNight and Day Doorbusters
-    
-    Use your coupon and save even more! All day Friday through 1PM CST Saturday.
-    
-    view doorbusters store ad
+Hurry! Ends December 28. Online Code: AFTERALL
 
-Stock Up White Sale shop now
+Select original, regular, sale and clearance items.
+
+In Store Only
+
+Extra $10 Off\* $25 or more.
+
+Online Only
+
+Or, Extra 25% Off\* $100 or more.
+
+Or, Extra 20% Off\* under $100.
+
+In Store and Online
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print coupon Our Biggest After Christmas Sale and Clearance
+
+Stores open at 6AM!
+
+shop the sale shop clearance view store ad
+
+Got a gift card? Redeem in store or online!
+
+check your gift card balanceNight and Day Doorbusters
+
+Use your coupon and save even more! All day Friday through 1PM CST Saturday.
+
+view doorbusters store ad shop now Stock Up White Sale
+
+Select styles.
+
+shop now
 
 30-50% Off
 
-Select styles.
-
 shop bedding and bath shop kitchen and dining shop window shop furniture and mattresses shop luggage shop home decor Denim For The Family
 
-40-50% Off
-
 Select styles.
+
+40-50% Off
 
 shop denim for the family shop women's denim shop men's denim shop juniors' denim shop guys' denim shop boys' denim shop girls' denim Basics For The Family
 
