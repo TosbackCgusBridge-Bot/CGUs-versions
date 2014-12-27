@@ -9,12 +9,12 @@ Gift Cards | Offers | Visa Signature
     *   Annie (2014)
     *   Exodus: Gods and Kings
     *   The Hunger Games: Mockingjay - Part 1
+    *   Inherent Vice
     *   Wild
     *   Top Five
     *   Big Hero 6
     *   Penguins of Madagascar
     *   PK
-    *   Interstellar
     *   See All Now Playing
     
     Opening This Week = Limited Release
@@ -30,10 +30,8 @@ Gift Cards | Offers | Visa Signature
     
     Pre Sales Tickets
     
-    *   Into the Woods
-    *   Unbroken
-    *   Selma
     *   The Woman In Black 2 Angel of Death
+    *   Taken 3
     *   American Sniper
     
     Coming Soon
@@ -311,21 +309,21 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **FREE $5 VUDU Movie Credit**
+Offers **Jurassic World Sweepstakes**
 
-Get a FREE $5 VUDU movie credit when you buy tickets to any movie! BUY TICKETS
+Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
-**Annie Free Gift**
+**Furious 7 Sweepstakes**
 
-Get a FREE SONG DOWNLOAD of "Tomorrow" from the Original Motion Picture Soundtrack with ticket purchase. BUY TICKETS
+Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT PACKAGE! ENTER NOW
 
 **The Hobbit Collectible Cards**
 
 Limited edition movie gift cards. Claim your piece of Middle-Earth today, BUY GIFT CARDS
 
-**Holiday Gift Cards**
+**Penguins Collectible Gift Cards**
 
-Give more, save more. $10 OFF gift card orders of $150+ OR $5 OFF gift card orders of $75+ BUY GIFT CARDS
+Being an undercover Penguin is hard, but gift giving is easy. Penguins of Madagascar collectible gift cards. The perfect stocking stuffer. BUY GIFT CARDS
 
 New + Coming Soon
 
