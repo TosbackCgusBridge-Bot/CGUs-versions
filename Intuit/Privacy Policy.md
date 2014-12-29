@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13132026473
+true true C13134951526
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Sat Dec 27 01:06:40 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p31.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Sun Dec 28 03:38:43 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,9 +45,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Hurry! Ends December 28. Online Code: AFTERALL
-
-Select original, regular, sale and clearance items.
+Last Day! Online Code: AFTERALL
 
 In Store Only
 
@@ -63,55 +61,36 @@ In Store and Online
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print coupon Our Biggest After Christmas Sale and Clearance
+\*See exclusions and details. get coupon
 
-Stores open at 6AM!
+*   Last Day! Stores open at 10AM.
+    
+    Our Biggest After Christmas Sale and Clearance
+    
+    Shop Sale Shop Clearance View Store Ad
+*   Stock Up White Sale
+    
+    30 to 50% Off
+    
+    Shop White Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Luggage Shop Home Decor Shop Window
 
-shop the sale shop clearance view store ad
+Got a Gift Card? Redeem In Store or Online Check Your Gift Card Balance Arizona Jean Co. Arizona Juniors' Denim Guys' Arizona Denim Kids' Arizona Denim 19.99 Select Arizona Juniors' Denim 19.99 Select Guys' Arizona Denim 17.99 Select Kids' Arizona Denim 50% Off Select Coats for Her 30 to 60% Off Select Fashion Jewelry 25% Off Select Nike Shoes for the Family (Nike excluded from coupon offer) Red Zone Clearance 50-75% Off Shop Now Shop Women's Clearance Shop Men's Clearance Shop Kids' Clearance Shop Lingerie Clearance Shop Baby Clearance Shop Bed and Bath Clearance Shop Window Clearance Shop Shoes Clearance Shop Jewelry Clearance Shop Kitchen and Dining Clearance Shop Furniture and Mattress Clearance40 to 50% Off Window Shop Curtains and Drapes Shop Blinds and Shades Shop Curtain Rods and Hardware JCPenney Rewards
 
-Got a gift card? Redeem in store or online!
+Shop to earn $10 JCPenney Rewards.
 
-check your gift card balanceNight and Day Doorbusters
+Sign Up Today Gear Up to Get Fit
 
-Use your coupon and save even more! All day Friday through 1PM CST Saturday.
+Happy You Year
 
-view doorbusters store ad shop now Stock Up White Sale
+Shop Fitness Just $5
 
-Select styles.
+Get ALL your favorite magazines from Time Inc. today.
 
-shop now
+Shop Now JCP Cares
 
-30-50% Off
+In the spirit of the holiday giving season, JCPenney Cares is focusing on supporting the families of the men and women serving in the U.S. Armed Forces
 
-shop bedding and bath shop kitchen and dining shop window shop furniture and mattresses shop luggage shop home decor Denim For The Family
-
-Select styles.
-
-40-50% Off
-
-shop denim for the family shop women's denim shop men's denim shop juniors' denim shop guys' denim shop boys' denim shop girls' denim Basics For The Family
-
-Buy more and save!
-
-shop women's bras shop women's tops shop men's underwear shop men's socks shop kids' basics Fitness For The Family
-
-20-50% Off
-
-Select styles.
-
-shop fitness for the family shop women's fitness shop men's fitness shop boys' fitness shop girls' fitness shop athletic shoes Red Zone Clearance 50-75% Off shop now shop women's clearance shop men's clearance shop kids' clearance shop lingerie clearance shop baby clearance shop bed and bath clearance shop window clearance shop shoes clearance shop jewelry clearance shop kitchen and dining clearance shop furniture clearance JCP Rewards
-
-Shop to earn $10 JCP Rewards.
-
-sign up today JCP Cares
-
-Round up at the register or online and we'll donate the difference to the USO.
-
-get details Just $5
-
-Get ALL your favorite magazines from TimeInc. today.
-
-shop now #JustGotJingled join the conversation
+Get Details
 
 get connected
 
