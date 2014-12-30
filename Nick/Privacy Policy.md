@@ -2,7 +2,7 @@ Privacy Policy (updated 08/29/2014) Nickelodeon - Universal Privacy Policy
 
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 12/03/2014
+**LAST UPDATED:** Nickelodeon Universal Privacy Policy - Last Updated Date 01/01/2015
 
 Click here to learn about the most recent significant updates.
 
@@ -330,6 +330,8 @@ Information collected at the Nickelodeon Sites will not be stored for longer tha
 **A.  Reviewing Your Information**
 
 You have the right to access, update and correct factual inaccuracies in personally identifiable information that we collect online at the Nickelodeon Sites, subject to certain exceptions.  To do so, you should log into your account or you may e-mail us at nickprivacy@nickonline.com.  To help protect your privacy and the security of your personally identifiable information, we will take reasonable steps to verify your identity before granting access.
+
+See the Terms of Use for how registered users of this Site who are California residents and are under 18 years of age may request removal of content or information in postings.
 
 **B. Parental Access**
 
