@@ -1,6 +1,6 @@
-The easiest gift you’ll ever give.
+Gear up for the New Year.
 
-Right Here.
+SALE.
 
 Online Orders 800-522-8090
 
