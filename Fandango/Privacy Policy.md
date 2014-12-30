@@ -5,32 +5,27 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   The Hobbit: The Battle of the Five Armies
+    *   Unbroken
+    *   Into the Woods
     *   Night at the Museum: Secret of the Tomb
     *   Annie (2014)
-    *   Exodus: Gods and Kings
     *   The Hunger Games: Mockingjay - Part 1
-    *   Inherent Vice
+    *   The Gambler
+    *   The Imitation Game
+    *   Exodus: Gods and Kings
     *   Wild
-    *   Top Five
     *   Big Hero 6
-    *   Penguins of Madagascar
-    *   PK
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Gambler
-    *   Into the Woods
-    *   Unbroken
-    *   American Sniper
-    *   Selma
-    *   Big Eyes
-    *   Two Days, One Night
+    *   The Woman In Black 2 Angel of Death
+    *   A Most Violent Year
+    *   The Search for General Tso
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   The Woman In Black 2 Angel of Death
     *   Taken 3
     *   American Sniper
     
@@ -40,6 +35,8 @@ Gift Cards | Offers | Visa Signature
     *   Paddington
     *   The Wedding Ringer
     *   Mortdecai
+    *   Strange Magic
+    *   The Boy Next Door
     *   See All Coming Soon
     
     Explore More
@@ -321,9 +318,9 @@ Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT
 
 Limited edition movie gift cards. Claim your piece of Middle-Earth today, BUY GIFT CARDS
 
-**Penguins Collectible Gift Cards**
+**Into the Woods Collectible Gift Cards**
 
-Being an undercover Penguin is hard, but gift giving is easy. Penguins of Madagascar collectible gift cards. The perfect stocking stuffer. BUY GIFT CARDS
+Make wishes come true. Give a limited edition Into the Woods movie gift card. BUY GIFT CARDS
 
 New + Coming Soon
 
