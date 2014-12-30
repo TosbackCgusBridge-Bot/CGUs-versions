@@ -278,11 +278,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         **Call 1-855-2-LENOVO (1-855-253-6686), Option 1**  
         **Outlet sales: Call 1-877-698-4465, Option 1**  
           
-        **Extended Holiday Hours!**  
-        Now through December 28:  
         Monday - Friday 9am-9pm EST  
-        Saturday 9am-7pm EST  
-        Sunday 9am-6pm EST
+        Saturday 9am-5:30pm EST  
+        
     3.    **Help with an existing order**  
         **Check **order status** online** — track by order number
     4.  **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
