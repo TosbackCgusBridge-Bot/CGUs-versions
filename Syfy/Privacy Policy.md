@@ -251,7 +251,11 @@ By using the Mobile App and providing information to us, you consent to such tra
 
 **Contact us** &dash. If you have any questions regarding privacy while using the Mobile App, or have questions about our practices, please contact us via email at privacy@nbcuni.com.
 
-Syfy Video Smackdown Moves to Thursdays! Smackdown Moves to Thursdays!
+Syfy Video Wizard Wars Returns Wizard Wars Returns
+
+The magic is back on January 29 at 10/9c.
+
+Smackdown Moves to Thursdays! Smackdown Moves to Thursdays!
 
 Starting January 15, Smackdown moves to Thursdays at 8/7c.
 
@@ -262,10 +266,6 @@ Sometimes what seems easy is actually hardness in disguise as Ty renounces his G
 Smite With Thine Hand Smite With Thine Hand
 
 Its Loki to the rescue as Mike narrowly escapes being killed by a crossbow-wielding, scripture-quoting God hunter.
-
-Face Off: Return of the Champions Face Off: Return of the Champions
-
-They're baaaack. And the bar is getting raised. Face Off Returns January 13 at 9/8c.
 
 *   FAQ
 *   Feedback
