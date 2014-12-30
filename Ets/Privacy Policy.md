@@ -1,6 +1,4 @@
-Skip to main content Skip to site search
-
-Web site navigation links:
+Skip to Contents Skip to Page Navigation Skip to Search Skip to Footer Search: ETS.orgGRE WebsitePRAXIS WebsiteTOEFL WebsiteTOEIC Website brand links
 
 *   Home
 *   About ETS
@@ -39,9 +37,7 @@ Web site navigation links:
     *   TOEIC Contacts
     *   Other ETS Contacts >
 
-Search the ETS web site:
-
-Search: ETS.orgGRE WebsitePRAXIS WebsiteTOEFL WebsiteTOEIC Website Legal ETS Home >. Legal >. Privacy and Security Privacy and Security
+audience links Legal ETS Home >. Legal >. Privacy and Security Privacy and Security
 
 Educational Testing Service ("ETS") recognizes the importance of protecting your privacy. In addition to the commitments set out in this Privacy Policy, ETS has taken steps to meet legal obligations in various countries with the aim of compliance with worldwide data privacy requirements. ETS will strive to treat your "personal data" according to applicable local laws which regulate inter-country process, access and transfer of personal data. This Privacy Policy ("Policy") discloses our information-gathering and dissemination practices for this website at www.ets.org ("Website"). 
 
@@ -255,22 +251,47 @@ See also:
 *   Permissions
 *   Trademark Use
 
-ETS site tools:
+footer
 
-*   Bookmark
+ETS
 
-*   Get Adobe Reader (for PDFs)
-
-ETS. Listening. Learning. Leading.
-
-ETS corporate links:
-
-*   Newsroom
+*   Home
+*   About ETS
+*   Research
 *   Careers
+*   Newsroom
 *   Disabilities
+*   ETS Store
+*   Contact Us
+
+Who We Serve
+
+*   K–12 Community
+*   Educator Licensure Associations
+*   Higher Education Community
+*   English Learners and Teachers
+*   Employers
+*   View All
+
+Tests and Products
+
+*   GRE Tests
+*   HiSET Exam
+*   The Praxis Series Tests
+*   TOEFL Test
+*   TOEIC Tests
+*   ETS Educator Series
+*   ETS Performance Portfolio
+*   ETS SkillBuilders
+*   ETS Tech Connect
+*   View All
+
+Send Feedback
+
 *   Legal
-*   Privacy &. Security
+*   Privacy and Security
 *   ETS Trademarks
+*   Get Adobe Reader (for PDFs)
 
 Copyright © 2014 by Educational Testing Service. All rights reserved.  
 All trademarks are the property of their respective owners.
