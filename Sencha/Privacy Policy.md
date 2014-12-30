@@ -181,7 +181,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Ext JS
     *   Sencha GXT
     *   Sencha Architect
-    *   Sencha Animator
     *   Sencha Cmd
     *   Sencha Space
     *   Sencha Space
