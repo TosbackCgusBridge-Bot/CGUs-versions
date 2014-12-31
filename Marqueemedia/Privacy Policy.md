@@ -1,6 +1,2 @@
 Marqueemedia.com  
-This domain may be for sale. Backorder this Domain  
-
-This Domain Name Has Expired - Renewal Instructions.
-
-Privacy Policy
+This domain may be for sale. Backorder this Domain Privacy Policy
