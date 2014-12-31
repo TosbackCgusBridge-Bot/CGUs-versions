@@ -11,8 +11,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         
     *   Military Gifts
     *   Hickory Farms Reserve
-    *   Christmas Gift Baskets
-        
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
@@ -58,8 +56,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         
     *   Military Gifts
     *   Hickory Farms Reserve
-    *   Christmas Gift Baskets
-        
     *   Personalized Gifts
     *   Shop By Occasion
         *   Birthday Gifts
@@ -151,9 +147,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
