@@ -398,7 +398,6 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Kenken
 
 *   AUTO UND FREIZEIT
-*   Partnersuche
 *   Arztsuche
 *   DSL-Vergleich
 *   Hörgeräte-  
