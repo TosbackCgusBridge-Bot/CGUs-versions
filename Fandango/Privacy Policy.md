@@ -22,6 +22,7 @@ Gift Cards | Offers | Visa Signature
     *   The Woman In Black 2 Angel of Death
     *   A Most Violent Year
     *   The Search for General Tso
+    *   \[REC\] 4: Apocalypse
     *   See All Opening This Week
     
     Pre Sales Tickets
