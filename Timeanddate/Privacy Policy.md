@@ -49,8 +49,11 @@ Register | Log in | Customize Menu
     *   Moon Light World Map
     *   Astronomy Articles
 *   Timers
-    *   Countdown to Any Date
+    *   New Year Countdown World Map
+    *   New Year Countdown (text)
     *   New Year Countdown
+    *   New Year Trivia
+    *   Countdown to Any Date
     *   Timer
     *   Stopwatch
 *   Calculators
