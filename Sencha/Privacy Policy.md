@@ -15,7 +15,6 @@
     
     *   Tools
         *   Sencha Architect
-        *   Sencha Animator
         *   Sencha Cmd
     *   Management
         *   Sencha Space
@@ -63,7 +62,6 @@
     *   Sencha Ext JS
     *   Sencha Touch Support
     *   Sencha GXT
-    *   Sencha Animator
     *   Ordering Information
     *   Licensing FAQ
     *   Authorized Resellers
