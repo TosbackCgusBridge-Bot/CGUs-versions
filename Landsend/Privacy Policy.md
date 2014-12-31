@@ -156,6 +156,17 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Socks &. Underwear
             *   Hats, Gloves &. Scarves
             *   Shoes
+*   Swim
+    *   *   Back to Main Menu Swim
+        *   Shop Swim
+        *   Women
+        *   Men
+        *   Girls
+        *   Boys
+        *   Family Rash Guards &. Cover-ups
+        *   Beach Towels &. Bags
+        *   Water Shoes &. Sandals
+        *   Women's Swim Tee
 *   Outerwear
     *   *   Back to Main Menu Outerwear
         *   Shop Outerwear
@@ -170,7 +181,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Home
         *   Featured Shops
             *   Back to Home Featured Shops
-            *   The Christmas Shop
             *   Supima Bed &. Bath
             *   Throw Shop
             *   Totes
@@ -267,10 +277,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   For Girls
         *   For Boys
         *   For Home
-        *   For Dogs
         *   Personalized Gifts
-        *   Our Favorite Gifts
-        *   The Christmas Shop
 *   My Account
     *   Back to Main Menu My Account
     *   Sign In
