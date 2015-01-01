@@ -354,13 +354,6 @@ Features + Guides
 
 Videos
 
-*   Movie Trailers
-*   Weekend Ticket
-*   Mom's Movie Minute
-*   Reel Kids
-*   FrontRunners
-*   Cine Buzz
-
 Photos
 
 *   Red Carpet
@@ -374,4 +367,4 @@ By entering your mobile number and clicking "SIGN ME UP!", you consent to our Te
 
 Guarantee the perfect movie night with tickets from Fandango. Find theater movie times, watch trailers, read reviews and buy movie tickets in advance.
 
-Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Promo Codes Exhibitor Help Movies.com Fandango Cine en Español Site Index Your Privacy Rights - Privacy Policy Terms of Use Purchase Policy AdChoices Copyright © 2014 Fandango. All rights reserved. Your Personal Box Office
+Help Feedback My Fandango Live Chat About Fandango Careers Advertising Link to Us Affiliate Program Promo Codes Exhibitor Help Movies.com Fandango Cine en Español Site Index Your Privacy Rights - Privacy Policy Terms of Use Purchase Policy AdChoices Copyright © 2015 Fandango. All rights reserved. Your Personal Box Office
