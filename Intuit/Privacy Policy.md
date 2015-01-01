@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  Adonis
+*   Hello  ANN
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13142519308
+true true C13144981151
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p35.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Tue Dec 30 11:03:05 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Wed Dec 31 05:58:43 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,13 +49,13 @@ Ends January 4. Use Code: NEWYEAR
 
 Online Only, Orders Over $100
 
-Extra 25% Off\* with your JCPenney Credit Card
+Extra 25% Off\* with your JCPenney Credit Card.
 
 Or, Extra 20% Off\* with any other method of payment.
 
 In Store and Online
 
-Or, Extra 20% Off\* with your JCPenney Credit Card
+Or, Extra 20% Off\* with your JCPenney Credit Card.
 
 Or, Extra 15% Off\* with any other method of payment.
 
@@ -63,33 +63,42 @@ In Store and Online
 
 Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-\*Credit offers subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
+Credit offer subject to credit approval. All offers apply to select orig, reg, sale and clearance-priced items.
 
-See exclusions and details. Print Store Coupon Stock Up White Sale
+\*See exclusions and details. Get Store Coupon
 
-30 to 50% Off
+*   Happy New Year -- Big Bonus Sale
+    
+    The Perfect Fit For a Brand New Year
+    
+    Shop Sale View Store Ad$10 Bonus Cash when you spend $50 or more in store Wed, Dec 31 - Sun, Jan 4. See exclusions and details:Big Buys while they last! Shop in store and online Wed, Dec 31 - Sun, Jan 4. Shop Big Buys
+*   Stock Up White Sale
+    
+    30 to 50% Off
+    
+    Shop White Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Luggage Shop Home Decor Shop Kitchen and Dining Shop Window
 
-Shop White Sale Shop Bedding and Bath Shop Furniture and Mattresses Shop Luggage Shop Home Decor Shop Window 50 to 75% Off Clearance
+50 to 75% Off Clearance -- In Store and Online Shop Now Happy You Year
 
-In Store and Online
+Gear up to get fit.
 
-Shop Now Arizona Jean Co. Arizona Juniors' Denim Guys' Arizona Denim Kids' Arizona Denim 19.99 Select Arizona Juniors' Denim 19.99 Select Guys' Arizona Denim 17.99 Select Kids' Arizona Denim 50% Off Select Coats for Her 40 to 60% Off Fine Jewelry with code JWLRY48, select styles Get details: 25% Off Select Nike Shoes for the Family (Nike excluded from coupon offer) Got a Gift Card? Redeem in store or online! Check your gift card balance:40 to 50% Off Window Shop Curtains and Drapes Shop Blinds and Shades Shop Curtain Rods and Hardware JCPenney Rewards
+Shop Fitness 49.99 Select Watches 25% Off 2 or More Bras, select styles 25% Off Nike Shoes for the Family (excluded from coupon) 50% Off Kids' Activewear, select styles 25% Off Men's Nike Fleece, select styles 25% Off Women's Nike Fleece, select styles 40 to 50% Off Furniture 40 to 50% Off Mattresses Got a Gift Card? Redeem In Store or Online! Check Your Gift Card Balance JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
-Sign Up Today Gear Up to Get Fit
+Sign Up Today Sports Fan Shop
 
-Happy You Year
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
 
-Shop Fitness Just $5
+Shop Now Just $5
 
-Get ALL your favorite magazines from TimeInc. today.
+Get ALL your favorite magazines from Time Inc. today.
 
-Shop Now JCP Cares
+Shop Now New E-Gift Cards
 
-In the spirit of the holiday giving season, JCPenney Cares is focusing on supporting the families of the men and women serving in the U.S. Armed Forces.
+Customize with a message, photo or video.
 
-Get Details
+Shop Gift Cards
 
 get connected
 
