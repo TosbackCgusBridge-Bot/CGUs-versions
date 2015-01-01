@@ -127,12 +127,12 @@ Conditions-generales-d-utilisation.pdf A voir également
 *   Utilisation d'un site web
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
+*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
+*   Conditions générales (Résolu) » Forum - Mobile
 
 Communautés d'assistance et de conseils.
 
 *   Forum Webmastering
-*   Forum iPhone
 *   Forum Vos droits sur internet
+*   Forum iPhone
