@@ -114,7 +114,7 @@ Back to top
 
 A Small World . Net
 
-Copyright © 2004 - 2014 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password?
+Copyright © 2004 - 2015 Asmallworld AG × Login Login REMEMBER ME Forgot Login details? Login with Facebook × Forgot Username or Password?
 
 If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
 
