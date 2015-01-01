@@ -28,15 +28,10 @@ Privacy Policy
 10 Corporate Drive  
 Burlington, MA 01803  
   
-**PRIVACY POLICY**  
-Last Updated September 17, 2012
-
-On September 17, 2012, Intuit Websites' (now a Homestead Technologies, Inc. company) and Homestead's Privacy Policy was updated. Please review the updated Privacy Policy below. To view the previous Privacy Policy, click here.
-
-If you are a Google Get Your Business Online customer, your Privacy Policy has not changed. To access this Privacy Policy, click here.
+**PRIVACY POLICY**
 
   
-Your privacy is very important to Homestead Technologies, Inc. ("Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
+Your privacy is very important to Homestead Technologies, Inc. and its parent company Endurance International Group - West , Inc (collectively referred to as "Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Homestead collects information from all end users of Homestead's Internet services (the "Services") including those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Services ("Users"). We also describe what we do with the information we collect and the choices Visitors and Users have concerning the collection and use of such information. Homestead requests that you read this Privacy Policy carefully.
 
