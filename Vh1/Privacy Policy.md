@@ -327,5 +327,5 @@ Visit VH1 On:
 *   User Content Submission Agreement
 *   Closed Captioning Contact
 
-©2013 Viacom International Inc. All Rights Reserved.  
+©2015 Viacom International Inc. All Rights Reserved.  
 VH1 and all related titles and logos are trademarks of Viacom International Inc. Ad Choices logo Ad Choices
