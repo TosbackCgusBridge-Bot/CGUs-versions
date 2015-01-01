@@ -243,7 +243,7 @@ Okay
 *   OkTrends
 *   Mobile Apps
 
-OkCupid © 2014 Free online dating
+OkCupid © 2015 Free online dating
 
 *   Local dating
 *   Jewish dating
@@ -261,19 +261,3 @@ OkCupid © 2014 Free online dating
 *   Brooklyn dating
 *   Atlanta dating
 *   Portland dating
-
-Add Photo Add a photo to:
-
-Create a new album Create
-
-Stay fresh with Instagram
-
-Connect Save Cancel
-
-Are you sure you want to delete this album?
-
-Delete Cancel Save Cancel Delete Cancel Save Cancel Report photo Where's your photo? Facebook My PC Instagram
-
-Drop it like it’s hot
-
-Photos must be at least 400 x 400px Next Edit thumbnail Add a caption Done You look fantastic! Upload another Done Try again
