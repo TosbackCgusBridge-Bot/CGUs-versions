@@ -293,5 +293,5 @@ Send Feedback
 *   ETS Trademarks
 *   Get Adobe Reader (for PDFs)
 
-Copyright © 2014 by Educational Testing Service. All rights reserved.  
+Copyright © 2015 by Educational Testing Service. All rights reserved.  
 All trademarks are the property of their respective owners.
