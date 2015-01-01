@@ -158,6 +158,6 @@ Connect
 *   Privacy &. Security
 *   Terms of Use
 
-Copyright 1995 - 2014. Progressive Casualty Insurance Company. All Rights Reserved.
+Copyright 1995 - 2015. Progressive Casualty Insurance Company. All Rights Reserved.
 
 We offer insurance by phone, online and through independent agents. Prices vary based on how you buy. Quotes for policies sold through agents and brokers are available, and can also be retrieved, through ProgressiveAgent.com or via the Quote with a Local Agent button. Mobile quotes are for policies purchased directly from Progressive. Not available in all states and situations.
