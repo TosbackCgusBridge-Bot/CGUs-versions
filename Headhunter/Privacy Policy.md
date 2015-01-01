@@ -321,4 +321,4 @@ Partner Sites
 HeadHunter Office 200 N. LaSalle St  
 Suite 1100  
 Chicago, IL 60601  
-© 2014 HeadHunter.com.
+© 2015 HeadHunter.com.
