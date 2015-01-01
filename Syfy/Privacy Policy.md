@@ -278,5 +278,5 @@ Its Loki to the rescue as Mike narrowly escapes being killed by a crossbow-w
 
 Syfy International: Asia Australia Benelux France Germany Latin America Poland Portugal Spain UK  
   
-©2014, Syfy. All rights reserved.  
+©2015, Syfy. All rights reserved.  
 Independent Programming Report Tell us what you think about your favorite NBCU programs by becoming a TV panel member.
