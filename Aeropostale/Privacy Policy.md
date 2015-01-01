@@ -11,7 +11,6 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     *   Factory
-    *   Gift Guide
     *   United XXVI
     *   Bethany Mota
     *   Cold Weather Shop
@@ -47,7 +46,6 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     *   Factory
-    *   Gift Guide
     *   Cold Weather Shop
     *   United XXVI
     *   Lookbook
@@ -70,7 +68,6 @@ Aéropostale Go
     *   Shorts
     
     *   JACKETS + COATS
-    *   PAJAMAS
     *   UNDERWEAR
     *   SHOES
     *   ACCESSORIES
@@ -84,6 +81,7 @@ Aéropostale Go
     *   Clearance Tops
     *   Clearance Bottoms
     *   Clearance Accessories
+    *   Room Clearance
     
     *   GUYS
     *   Clearance Tops
