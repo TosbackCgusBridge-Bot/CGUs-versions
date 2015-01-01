@@ -145,4 +145,4 @@ Top Level Menu
 
 Latest Tweets Tweets by @ChaCha Facebook
 
-© Copyright 2006-2014 ChaCha Search, Inc. – Experimental Use, All Rights Reserved, May Be Covered by US or Foreign Patents or Patents Pending. Copyright Notice _|_ Terms of Use _|_ Privacy
+© Copyright 2006-2015 ChaCha Search, Inc. – Experimental Use, All Rights Reserved, May Be Covered by US or Foreign Patents or Patents Pending. Copyright Notice _|_ Terms of Use _|_ Privacy
