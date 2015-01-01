@@ -218,4 +218,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Sign up to get Sencha News
 
-© 2014 Sencha Inc. All rights reserved. Sitemap Legal
+© 2015 Sencha Inc. All rights reserved. Sitemap Legal
