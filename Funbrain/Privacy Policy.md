@@ -98,4 +98,4 @@ Security, Purchases and Credit Card Use:
 
 FEN has security measures in place to protect the loss, misuse, and alteration of the information under our control. Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data. When you use your credit card to make a purchase transaction with FEN, your transaction is secure. Our servers use encryption technology to safeguard your personal information and privacy. However, you should understand that "perfect security" cannot be guaranteed.
 
-© 2000-2014 Pearson Education, Inc. All rights reserved
+© 2000-2015 Pearson Education, Inc. All rights reserved
