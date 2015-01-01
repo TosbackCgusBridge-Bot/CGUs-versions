@@ -1,4 +1,4 @@
-Effective Date: January 27, 2014
+Effective Date: January 1, 2015
 
 This Privacy Policy applies to personal and other information that may be collected when you interact with the Barnes &. Noble enterprise, which consists of (a) Barnes &. Noble, Inc. and its subsidiaries, including their respective businesses and operations (collectively, "Barnes &. Noble"). (b) businesses and operations managed or operated by Barnes &. Noble. (c) websites owned, operated and managed by Barnes &. Noble, including each website that links to this Privacy Policy, and any digital content stores operated by Barnes &. Noble (collectively, "Barnes &. Noble Websites"). and (d) Barnes &. Noble and NOOK devices ("Devices"), content, software and mobile applications ("Apps").
 
@@ -238,7 +238,7 @@ You may choose to opt out from receiving marketing and promotional communication
 
 Even if you opt-out of receiving promotional communications, you may continue to receive emails and notifications relating to order confirmations, back order notifications, membership information, and/or other business-related communications.
 
-IBM Coremetrics &. Targeted Advertising  
+_IBM Coremetrics &. Targeted Advertising_  
   
 You may choose to opt out of collection of automatically collected information, including cookies, IBM Coremetrics and targeted advertising, by following the instructions given in Section 3(b) above, or by using the functionality in your browser to reject cookies.
 
@@ -265,6 +265,8 @@ Except as noted below : (i) our products and services are marketed for and direc
 If we direct certain Devices features or Apps to Minors who may be under the age of 13, we require the parent or legal guardian to provide verifiable consent to such Minor's use of our products and services and our collection of personal information in connection with such use. In these cases, we require validation of credit card information already on file with us and we will then e-mail the master account holder to give notice that we have received such consent. If no credit card information is on file, or if the credit card is invalid, we will not register that you have consented. With your consent, we may collect, use and share information regarding Minors under the age of 13 consistent with this Privacy Policy. Please see the sections above for detailed information on how we do so.  
   
 If you are a parent or guardian who believes that your Minor under the age of 13 has submitted personal information or other information to us without your consent, please contact privacy@barnesandnoble.com. Once we verify that you are the parent or legal guardian, at your request, we will promptly provide to you information regarding what, if any, personal information we have collected about your child and how it has been used or shared. We will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same.
+
+If you are a Minor under the age of 18, you may request and obtain removal of certain content or information posted on Barnes &. Noble Websites and Apps by sending an email to privacy@barnesandnoble.com with ?Privacy Rights for Minors? in the subject line. Please be advised that our removal of your post(s) does not ensure complete or comprehensive removal of the content or information you have posted on Barnes &. Noble Websites or Apps.
 
 **Data retention policy**  
   
@@ -308,6 +310,9 @@ Any dispute between you and us regarding the privacy of your personal informatio
 
 **Contact Information**  
   
-The address for Barnes &. Noble is 122 Fifth Avenue, New York, NY 10011. The address for NOOK Media is 76 Ninth Avenue, New York, NY 10011.
+The address for Barnes &. Noble is 122 Fifth Avenue, New York, NY 10011. The address for NOOK Media is 1166 Avenue of the Americas, New York, NY 10011.  
+
+Released: January 2015  
+nook-privacy-enUS-v2
 
 .
