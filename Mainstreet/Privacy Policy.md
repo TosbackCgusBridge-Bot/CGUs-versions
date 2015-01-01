@@ -134,4 +134,4 @@ Back to Top
 *   Privacy Policy
 *   Terms of Use
 *   Sitemap
-*   © 2014 TheStreet Inc.
+*   © 2015 TheStreet Inc.
