@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  ANN
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13144981151
+true true L13271896744
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Wed Dec 31 05:58:43 CST 2014 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p27.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Thu Jan 01 06:08:44 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -98,9 +98,7 @@ Shop Now New E-Gift Cards
 
 Customize with a message, photo or video.
 
-Shop Gift Cards
-
-get connected
+Shop Gift Cards get connected
 
 *   1.800.322.1189
 *   email offers
@@ -171,4 +169,4 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   site map
 *   AdChoices
 
-©jcp Media Inc., 2014. All Rights Reserved
+©jcp Media Inc., 2015. All Rights Reserved
