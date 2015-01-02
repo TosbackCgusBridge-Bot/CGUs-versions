@@ -144,6 +144,6 @@ We hope you have enjoyed reading our epic terms of service. We are not sure why 
 
 **Last updated:** February 12, 2014
 
-Copyright 2001 - 2014 BrainyQuote.com All Rights Reserved.
+Copyright 2001 - 2015 BrainyQuote.com All Rights Reserved.
 
 Do not duplicate or redistribute in any form. We paid a lot to make these terms of service funny for our readers - so go make your own!
