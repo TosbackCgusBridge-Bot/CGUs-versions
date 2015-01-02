@@ -142,4 +142,4 @@ IMVU, Inc.
 PO Box 390012  
 Mountain View, CA 94039.
 
-Mobile | People | Walk Off | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Blog | Contact Us | Advertise | Affiliates | Jobs | Terms of Service | Privacy | Help | Safety | Avatar © 2014 IMVU All rights reserved
+Mobile | People | Walk Off | Groups | Forums | 3D Chat Rooms | 3D Virtual Catalog | Buy Credits | Earn Credits | Creator Center | Download About Us | Blog | Contact Us | Advertise | Affiliates | Jobs | Terms of Service | Privacy | Help | Safety | Avatar © 2015 IMVU All rights reserved
