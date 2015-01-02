@@ -91,4 +91,4 @@ If you are not comfortable with this Privacy Policy or our Terms of Use, please 
 
 Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
 
-Copyright © 2014. Demand Media, Inc.
+Copyright © 2015. Demand Media, Inc.
