@@ -119,7 +119,6 @@ If you have any questions, you can contact us through our contact form.
 
 *   Advertise on Y8
 *   contact form
-*   Business contact
 *   Submit a game or animation
 *   All-site RSS
 *   Terms of Use
