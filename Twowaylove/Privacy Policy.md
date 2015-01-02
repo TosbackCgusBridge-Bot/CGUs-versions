@@ -108,4 +108,4 @@ Free Newsletter  
 RSS Feed    
 Stumbleupon    
 Google+    
-+41 76 794 7813 &nbsp Follow @twowaylove\_com ©2009-2014 TwoWayLove.com Dating Directory - All rights reserved -  Made in Switzerland
++41 76 794 7813 &nbsp Follow @twowaylove\_com ©2009-2015 TwoWayLove.com Dating Directory - All rights reserved -  Made in Switzerland
