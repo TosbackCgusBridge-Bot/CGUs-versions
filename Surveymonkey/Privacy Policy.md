@@ -347,7 +347,7 @@ _°_
 *   Norsk
 *   Suomi
 
-Copyright © 1999-2014 SurveyMonkey
+Copyright © 1999-2015 SurveyMonkey
 
 *   Truste
 *   BBOnline
