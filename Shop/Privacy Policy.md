@@ -256,8 +256,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 
 \>Tools
 
-1.  Holiday Store
-2.  For Work
+1.  For Work
     1.  See all For Work
     2.  Small Business
     3.  Large Enterprise
@@ -270,7 +269,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     10.  Resource Center
     11.  See all solutions for work
     12.  See all For Work
-3.  Support
+2.  Support
     1.  See all Support
     2.    **Help placing an order**  
         24 hours a day, 7 days a week  
@@ -302,9 +301,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     10.    **Need More Help?**  
         More ways to **contact Lenovo**
     11.  See all Support
-4.  Email Sign-Up
-5.  My Account
-6.  Cart
+3.  Email Sign-Up
+4.  My Account
+5.  Cart
 
 View Your Results Offers
 
