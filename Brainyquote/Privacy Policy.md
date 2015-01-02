@@ -107,6 +107,6 @@ We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure
 
 **Last updated:** February 12, 2014
 
-Copyright 2001 - 2014 BrainyQuote.com All Rights Reserved.
+Copyright 2001 - 2015 BrainyQuote.com All Rights Reserved.
 
 Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!
