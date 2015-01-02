@@ -292,7 +292,7 @@ Additional Sites
 
 *   Sign up for Lexus News
 
-©2006-2014 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
+©2006-2015 Lexus, a Division of Toyota Motor Sales, U.S.A., Inc. All information contained herein applies to U.S. vehicles only.
 
 You are now  
 leaving Lexus.com Are you sure you want to leave?  
