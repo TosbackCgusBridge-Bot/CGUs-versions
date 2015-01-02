@@ -188,4 +188,4 @@ Stores are responsible for providing bizrate™ with correct and current prices.
 
 Store ratings and product reviews are submitted by online shoppers. they do not reflect our opinions and we have no responsibility for their content.
 
-© 2014 About Bizrate
+© 2015 About Bizrate
