@@ -61,7 +61,7 @@ back to top
 *   Privacy
 *   Site Map
 
-© 2014 CenturyLink, Inc. All Rights Reserved. The name CenturyLink and the pathways logo are trademarks of CenturyLink, Inc.
+© 2015 CenturyLink, Inc. All Rights Reserved. The name CenturyLink and the pathways logo are trademarks of CenturyLink, Inc.
 
 *   Find a Store
 *   Contact Us
