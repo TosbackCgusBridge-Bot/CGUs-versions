@@ -228,6 +228,6 @@ Sign up to receive special offers and promotions from Superpages.com
 
 Data provided by one or more of the following: Dex Media, Acxiom, Infogroup   |   \* Sponsored Results
 
-©2014 Dex Media. All rights reserved.
+©2015 Dex Media. All rights reserved.
 
 Feedback
