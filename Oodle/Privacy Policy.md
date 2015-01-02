@@ -154,4 +154,4 @@ We've recently updated our privacy policy which you can review here.
 *   toGather
 *   Send us Feedback
 
-© Copyright 2014 California Voices, LLC. All rights reserved.
+© Copyright 2015 California Voices, LLC. All rights reserved.
