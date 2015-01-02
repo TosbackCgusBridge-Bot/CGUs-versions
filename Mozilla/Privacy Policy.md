@@ -54,7 +54,7 @@ Some Mozilla websites allow you to make purchases (such as apps or gear) or make
 
 Back to Mozilla Privacy Policy Mozilla
 
-Portions of this content are ©1998–2014 by individual mozilla.org contributors. Content available under a Creative Commons license.
+Portions of this content are ©1998–2015 by individual mozilla.org contributors. Content available under a Creative Commons license.
 
 *   Contact Us
 *   Partner with Us
