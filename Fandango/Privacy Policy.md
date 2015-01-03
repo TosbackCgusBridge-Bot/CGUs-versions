@@ -29,15 +29,16 @@ Gift Cards | Offers | Visa Signature
     
     *   Taken 3
     *   American Sniper
+    *   Paddington
+    *   The Wedding Ringer
+    *   Blackhat
     
     Coming Soon
     
-    *   Blackhat
-    *   Paddington
-    *   The Wedding Ringer
     *   Mortdecai
     *   Strange Magic
     *   The Boy Next Door
+    *   Project Almanac
     *   See All Coming Soon
     
     Explore More
@@ -354,10 +355,17 @@ Features + Guides
 
 Videos
 
+*   Movie Trailers
+*   Weekend Ticket
+*   Mom's Movie Minute
+*   Reel Kids
+*   FrontRunners
+*   Cine Buzz
+
 Photos
 
 *   Red Carpet
-*   December Celebrity Birthdays
+*   January Celebrity Birthdays
 
 Get Updates On All Things Movies: Sign up for FanMail Submit THANKS FOR SIGNING UP! Sign up fOR FanTexts Send Me FanText Mobile Number Sign Me Up! THANKS FOR SIGNING UP!
 
