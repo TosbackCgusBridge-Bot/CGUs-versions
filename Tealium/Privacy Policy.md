@@ -358,7 +358,7 @@ About Tealium
 
 Tealium is the leader in real-time unified marketing solutions, helping brands seamlessly integrate their siloed applications and data, and drive more profitable interactions across all digital touch points. Tealium's open platform for tag management and data enrichment enables marketers to bring order to chaos and build better customer experiences.
 
-© 2014 Tealium Inc. All rights reserved. Tealium, AudienceStream, and all other Tealium marks contained herein are trademarks or service marks of Tealium. All other marks are the property of their respective owners.
+© 2015 Tealium Inc. All rights reserved. Tealium, AudienceStream, and all other Tealium marks contained herein are trademarks or service marks of Tealium. All other marks are the property of their respective owners.
 
 *   Site Map
 *   Terms of Use
