@@ -1,6 +1,6 @@
-Make your special year-end gift by December 31st.
+Start receiving our award-winning magazine today!
 
-Give Now
+Subscribe
 
 *   Magazine
 *   News &. Media
