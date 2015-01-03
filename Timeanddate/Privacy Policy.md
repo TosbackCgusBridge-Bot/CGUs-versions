@@ -24,8 +24,8 @@ Register | Log in | Customize Menu
     *   Time Zone Articles
 *   Calendar
     *   Calendar Info
-    *   Calendar 2014
     *   Calendar 2015
+    *   Calendar 2016
     *   Monthly Calendar
     *   Easy-Print PDF Calendar
     *   Add your own Calendar Events
@@ -49,11 +49,8 @@ Register | Log in | Customize Menu
     *   Moon Light World Map
     *   Astronomy Articles
 *   Timers
-    *   New Year Countdown World Map
-    *   New Year Countdown (text)
-    *   New Year Countdown
-    *   New Year Trivia
     *   Countdown to Any Date
+    *   New Year Countdown
     *   Timer
     *   Stopwatch
 *   Calculators
