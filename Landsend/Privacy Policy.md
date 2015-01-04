@@ -196,7 +196,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Storage &. Organization
             *   Totes
             *   Home Décor &. Gifts
-            *   Kitchen &. Dining
             *   Luggage &. Bags
             *   Kids Home
             *   Dog Shop
