@@ -68,7 +68,6 @@ Procedure for Making Claims of Copyright Infringement
 
 In accordance with the Digital Millennium Copyright Act (17 U.S.C. 512), iParadigms, LLC is registered with the United States Copyright Office as a Service Provider. Any notifications of claimed copyright infringement must be sent to our Copyright Agent:
 
-George Mazzotta  
 Chief Financial Officer  
 iParadigms  
 1111 Broadway, 3rd Floor  
