@@ -114,6 +114,11 @@ We are on the brink of a major shift in how marketing technologies and digital e
 *   OTA Blog
 *   Newsletters
 
+Tue, Jan 6, 2015 National Series of Town Halls and Workshops to Promote Data Privacy &. Protection Day Announced
+
+**National Series of Town Halls and Workshops to Promote Data Privacy &. Protection Day Announced**  
+Federal Trade Commissioners to keynote with participation from the FBI, Secret Service and thought leaders in consumer protection, privacy and cybersecurity
+
 Thu, Dec 18, 2014 Sony - It is not about the movie!
 
 _**Sony - It is not about a movie. It is an attack on our sovereign nation**._ 
@@ -127,10 +132,6 @@ OTA supports the petition for exemption of the Telephone Consumer Protection Act
 Fri, Nov 21, 2014 The Promise of Ad Supply Chain Accountability
 
 A few weeks ago, I attended the IAB Ad Operations Summit. The Summit focused on cleaning up the advertising supply chain, combating fraud, and identifying more streamlined ways to accurately measure ad performance. The underlying message of the Summit was the need for collaboration and industry buy-in. Just as standardization is impossible unless everyone is committed to following the same standards, cleaning up the supply chain is impossible unless everyone agrees to identify and shut out disreputable players.
-
-Tue, Nov 18, 2014 Big Data Are You Prepared to Seize Opportunities &. Preserve Consumer Trust?
-
-Throughout the world businesses are eagerly capitalizing on the promise and potential of big data.  Combined with powerful analytics big data is proving to drive revenue, reach new markets and identify new consumers.  Data scientists are uncovering subtle patterns, correlations and relationships between consumers and products.  Through targeted marketing and appending data from data brokers, consumers are realizing compelling content, personalized online experiences and promotional offers tailored to their needs and aspirations.  This appears a win-win for business and t
 
 Resources
 
