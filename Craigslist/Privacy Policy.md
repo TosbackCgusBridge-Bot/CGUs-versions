@@ -48,7 +48,7 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 We welcome your feedback on this document in our feedback forum.
 
-*   © 2014 craigslistCL
+*   © 2015 craigslistCL
 *   help
 *   safety
 *   privacy
