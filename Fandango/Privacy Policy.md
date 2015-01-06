@@ -5,29 +5,28 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   The Hobbit: The Battle of the Five Armies
-    *   Unbroken
     *   Into the Woods
+    *   Unbroken
+    *   The Woman In Black 2 Angel of Death
     *   Night at the Museum: Secret of the Tomb
     *   Annie (2014)
+    *   The Imitation Game
     *   The Hunger Games: Mockingjay - Part 1
     *   The Gambler
-    *   The Imitation Game
-    *   Exodus: Gods and Kings
-    *   Wild
     *   Big Hero 6
+    *   Wild
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   The Woman In Black 2 Angel of Death
-    *   A Most Violent Year
-    *   The Search for General Tso
-    *   \[REC\] 4: Apocalypse
+    *   Taken 3
+    *   Beloved Sisters
+    *   It's All So Quiet
+    *   Black November
     *   See All Opening This Week
     
     Pre Sales Tickets
     
-    *   Taken 3
     *   American Sniper
     *   Paddington
     *   The Wedding Ringer
@@ -39,6 +38,9 @@ Gift Cards | Offers | Visa Signature
     *   Strange Magic
     *   The Boy Next Door
     *   Project Almanac
+    *   Black or White
+    *   The Loft
+    *   Jupiter Ascending
     *   See All Coming Soon
     
     Explore More
@@ -312,13 +314,13 @@ Offers **Jurassic World Sweepstakes**
 
 Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
-**Furious 7 Sweepstakes**
-
-Sign up for a 'Furious 7' FanAlert and you could win a HIGH-OCTANE ENTERTAINMENT PACKAGE! ENTER NOW
-
 **The Hobbit Collectible Cards**
 
-Limited edition movie gift cards. Claim your piece of Middle-Earth today, BUY GIFT CARDS
+Limited edition movie gift cards. Claim your piece of Middle-Earth today. BUY GIFT CARDS
+
+**Furious 7 Sweepstakes**
+
+You could win a high-octane entertainment package when you sign up for a FanAlert! ENTER NOW
 
 **Into the Woods Collectible Gift Cards**
 
