@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13283863056
+true true 10.60.216.10 C13158650589
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Sun Jan 04 10:49:08 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Jan 05 04:24:54 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,31 +45,38 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Home Sale
+*   3 Days Only
+    
+    Online Only. Select Styles. Jan 5 to 7. Code: JANBUY49
+    
+    Get details: 50% Off Bedding and Bath 50% Off Luggage 40% Off Home Decor 40% Off Blinds and Shades 40% Off Furniture and Mattresses 30% Off Kitchen and Dining 30% Off Storage and Organization 30% Off Vacuums and Floorcare Or Extra 20% Off All Online Clearance
+*   3 Days Only
+    
+    Online Only. Jan 5 to 7. Code: JANBUY49
+    
+    Get details:
+    
+    Extra 20% Off select orig, reg and sale-priced items.
+    
+    Shop Men Shop Women Shop Kids Shop Shoes Shop Baby Furniture Shop Accessories Shop Fashion Jewelry Or Extra 20% Off All Online Clearance
 
-30 to 50% Off select styles
+Got a Gift Card? Redeem In Store or Online! Check Your Gift Card Balance Happy You Year Shop all Fitness 40 to 50% Off Activewear for Her, select styles 20% Off Watches, with code JWLRY49\* \*Exclusions and details 25% Off 2 or More Bras, select styles Save on Nike Shoes for the Family (excluded from coupon) 50% Off Kids' Xersion Activewear, select styles 20 to 50% Off Men's Workout Clothes, select styles 40 to 50% Off Activewear for Her, select styles 30 to 50% Off Juicers and Blenders, use code JANBUY49 50 to 75% Off Clearance Shop Now Shop Women Shop Men Shop Kids Shop Lingerie Shop Baby Shop Bed and Bath Shop Window Shop Shoes Shop Jewelry Shop Kitchen and Dining Shop Furniture and Mattresses
 
-Shop Home Sale Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses Shop Home Decor Shop Luggage Shop Bedding and BathIn Store Only -- $10 Bonus Cash\*
+\+ Extra 20% Off\* All Online Clearance with Code: JANBUY49
 
-When you spend $50 or more in store through Jan. 4.
-
-\*Exclusions and details: Got a Gift Card? Redeem in store or online! Check your gift card balance: Happy You Year Shop Fitness 20 to 25% Off Fitness Watches, select styles 25% Off 2 or More Bras, select styles Save on Nike Shoes for the Family (excluded from coupon) 50% Off Kids' Xersion Activewear, select styles 40 to 50% Off Activewear for Her, select styles 20 to 25% Off Men's Workout Clothes, select styles 30 to 50% Off Juicers and Blenders
-
-Select styles. Small appliances excluded from coupon.
-
-Shop Juicers and Blenders 50 to 75% Off Clearance
-
-In Store and Online
-
-Shop Now JCPenney Rewards
+\*Exclusions and details: JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
-Sign Up Today SportsFanShop
+Sign Up Today Sports Fan Shop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
 
-Shop the SportsFanShop New E-Gift Cards Customize with a message, photo or video Write A Review For Your Chance To Win $500 Shop now
+Shop Now New E-Gift Cards
+
+Customize with a message, photo or video.
+
+Shop Gift Cards Write A Review For Your Chance To Win $500 Shop Now
 
 get connected
 
