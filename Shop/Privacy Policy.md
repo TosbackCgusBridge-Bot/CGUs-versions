@@ -1,4 +1,4 @@
-Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 1-855-253-6686 See Products>. Cart Menu <Products
+Lenovo Search CallSales 1-855-253-6686Call CallSales 1-855-253-6686 See Products>. Cart Menu <Products
 
 1.  Laptops
     1.  See all Laptops
@@ -29,7 +29,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  N Series: Fast-Boot Chromebooks
         8.  See all Student
     5.  Not sure what you need?
-        1.  Holiday Gift Guide
+        1.  Lenovo Gift Guide
         2.  New Product Showcase
         3.  Best Selling &. Top Rated Laptops
         4.  Convertibles
@@ -76,7 +76,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         6.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
         7.  See all 2-in-1 Laptops
     5.  Not sure what you need?
-        1.  Holiday Gift Guide
+        1.  Lenovo Gift Guide
         2.  New Product Showcase
         3.  Discover Yoga
         4.  View All Tablets
@@ -111,7 +111,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Erazer X Series: Extreme-Performance Gaming PCs
         2.  See all Erazer Desktops
     5.  Not sure what you need?
-        1.  Holiday Gift Guide
+        1.  Lenovo Gift Guide
         2.  New Product Showcase
         3.  Best Selling Desktops
         4.  Gaming PCs
@@ -242,7 +242,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     2.  Current Offers
         1.  Home Laptop &. Desktop Deals
         2.  Professional Laptop &. Desktop Deals
-        3.  Holiday Gift Guide
+        3.  Lenovo Gift Guide
         4.  ThinkPad &. ThinkCentre QuickShips
         5.  Accessories Hot Deals
         6.  Bing Page Deals
@@ -510,4 +510,4 @@ social
 *   flickr
 *   lenovoForums
 
-2014 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of Use AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
+2015 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of Use AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
