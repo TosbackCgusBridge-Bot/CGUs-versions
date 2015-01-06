@@ -188,6 +188,8 @@ From time to time, we may update this privacy statement. We will notify you abou
 
 _The Privacy Statement posted on this site was updated in October, 2013._
 
+More from*   2015 Harbin International Ice and Snow Festival kicks off in China
+
 1.  News
     1.  World
     2.  Sport
