@@ -129,4 +129,4 @@ Last Update: 29-September-2008
 *   General Contacts
 *   Become a Gartner Client
 
-  About | Careers | Contact | Gartner Blog Network | IT Glossary | Newsroom | Policies | Site Index | Webinars © 2014 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
+  About | Careers | Contact | Gartner Blog Network | IT Glossary | Newsroom | Policies | Site Index | Webinars © 2015 Gartner, Inc. and/or its Affiliates. All Rights Reserved.
