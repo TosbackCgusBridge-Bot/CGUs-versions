@@ -210,27 +210,27 @@ All financial companies need to share customers’ personal information to run t
 
 Reasons we can share your personal information Does Bank of America share? Can you limit this sharing? **For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus Yes No **For our marketing purposes** — with service providers we use to offer our products and services to you (please see below to limit the ways we contact you) Yes No **For joint marketing with other financial companies** Yes No **For our affiliates’ everyday business purposes** — Information about your transactions and experiences Yes No **For our affiliates’ everyday business purposes** — Information about your creditworthiness Yes Yes **For nonaffiliates to market to you** — for all credit card accounts Yes Yes **For nonaffiliates to market to you** — for accounts and services endorsed by another organization (e.g., debit card co-branded with a baseball team) “Sponsored Accounts” Yes Yes **For nonaffiliates to market to you** — for accounts other than credit card accounts and Sponsored Accounts, such as insurance, investments, deposit and lending No We don't share To limit our sharing
 
-*   1.888.341.5000 - our menu will prompt you through your choices
+*   Call 888.341.5000 - our menu will prompt you through your choices
 *   Visit us online: bankofamerica.com/privacy
-*   Talk to a customer representative at a banking center
-*   Talk to your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer)
+*   Talk to a banking center associate
+*   Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)
 
 **Please note:**  
-If you are a new customer, we can begin sharing your information 45 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.
+If you are a **_new_** customer, we can begin sharing your information 45 days from the date we sent this notice. When you are **_no longer_** our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.
 
 To limit direct marketing contact
 
-*   Call 1.888.341.5000 - our menu will prompt you through your choices
+*   Call 888.341.5000 - our menu will prompt you through your choices
 *   Visit us online: bankofamerica.com/privacy
-*   Talk to a customer representative at a banking center
-*   Talk to your assigned account representative (e.g., Financial Advisor, Mortgage Loan Officer)
+*   Talk to a banking center associate
+*   Talk to your assigned account representative (e.g., financial advisor, mortgage loan officer)
 
 **Please note:**  
 Direct marketing is email, postal mail and telephone marketing. Your telephone and postal mail opt-out choices will last for five years, subject to applicable law. Even if you limit direct marketing, we may still contact you to service your account or as otherwise allowed by law.
 
 Questions?
 
-Call 1.888.341.5000 or go to bankofamerica.com/privacy
+Call 888.341.5000 or go to bankofamerica.com/privacy
 
 Who we are Who is providing this notice?
 
@@ -238,7 +238,7 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 What we do How does Bank of America protect my personal information?
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security or ml.com.
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information visit bankofamerica.com/security or ml.com/privacy.
 
 How does Bank of America collect my personal information?
 
@@ -288,7 +288,7 @@ Other important information
 
 **Do Not Call Policy.** This notice is the Bank of America Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Bank of America employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Bank of America will be placed on the Bank of America Do Not Call list and will not be called in any future campaigns, including those of Bank of America affiliates. If you communicate with us by telephone, we may monitor or record the call.
 
-**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number-702.486.3132. email: BCPINFO@ ag.state.nv.us. Bank of America, P.O. Box 25118, FL1-300-01-29, Tampa, FL 33633-5118. Phone number: 1.888.341.5000. email: Click on “Contact Us” at bankofamerica.com/privacy.
+**For Nevada residents only.** We are providing you this notice under state law. You may be placed on our internal Do Not Call List by following the directions in the _To limit direct marketing contact_ section. Nevada law requires we provide the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101. Phone number: 702.486.3132. email: BCPINFO@ ag.state.nv.us. Bank of America, P.O. Box 25118, FL1-300-01-29, Tampa, FL 33633-5118. Phone number: 888.341.5000. email: Click on “Contact Us” at bankofamerica.com/privacy.
 
 **Vermont:** Under Vermont law, we will not share information we collect about Vermont residents with companies outside of our corporate family, unless the law allows. For example, we may share information with your consent, to service your accounts or under joint marketing agreements with other financial institutions with which we have joint marketing agreements. We will not share information about your creditworthiness within our corporate family except with your consent, but we may share information about our transactions or experiences with you within our corporate family without your consent.
 
@@ -300,9 +300,9 @@ Other important information
 
 Bank of America U.S. legal entities
 
-Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation, The Princeton Retirement Group, Inc., SA Mortgage Services, LLC
+Bank of America U.S. legal entities that utilize the names: Bank of America, Banc of America, U.S. Trust, LandSafe or Merrill Lynch, as well as the following entities: BACAP Alternative Advisors, Inc., BofA Advisors, LLC, BofA Distributors, Inc., General Fidelity Life Insurance Company, Managed Account Advisors LLC, NationsCredit Financial Services Corporation, The Princeton Retirement Group, Inc.
 
-Rev. 01/2014
+Rev. 01/2015
 
 Manage your marketing and information-sharing privacy choices Best overall —  
 for 9 straight years
