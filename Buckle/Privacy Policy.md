@@ -193,9 +193,9 @@ Contact Us
 
 Buckle.com Phone Orders/Payment Questions:  
 Phone: 800-522-8090  
-Mon-Fri 7 am - 9 pm CT  
-Sat 9 am - 8 pm CT  
-Sun 12 pm - 6 pm CT  
+Mon-Fri 8am - 9pm CT  
+Sat 9am - 8pm CT  
+Sun 12pm - 6pm CT  
 Email: online.orders@buckle.com  
 Fax: 308-236-4493
 
