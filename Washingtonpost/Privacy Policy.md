@@ -1,6 +1,6 @@
 Privacy Policy
 
-Published: September 15, 2014
+Published: January 1, 2015
 
 The WP Company LLC (“The Washington Post”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by WP Company LLC through other means.
 
@@ -32,11 +32,9 @@ We also collect information that you provide us when you comment on articles, pa
 
 **Information About Your Use of the Services.** In addition to the information you provide to us directly, we may collect information about your use of the Services. For example, we may collect:
 
-•_Device information_—such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services.
-
-•_Usage information_—such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored in cookies and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
-
-•_Location information_—such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
+*   _Device information_—such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services.
+*   _Usage information_—such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored in cookies and similar technologies that we have set on your device. For detailed information about our use of cookies, web beacons, and other technologies, see Online Tracking and Advertising.
+*   _Location information_—such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use certain Services.
 
 **Information From Third-Party Sources.** We may receive information about you from publicly and commercially available sources, as permitted by law, which we may combine with other information we receive from or about you. For example, we may receive information about you from a social media site if you connect to the Services through that site.
 
@@ -82,13 +80,15 @@ The following provides information about entities with which we may share inform
 
 Our Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by other websites or other services. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use.
 
-**How to Access or Update Your Information Other Privacy Choices Available To You**
+**How to Access or Update Your Information &. Other Privacy Choices Available To You**
 
 **Manage Your washingtonpost.com Account.** You may access or modify your washingtonpost.com account on the User Profile page. This link will also allow you to update your subscriptions to electronic newsletters provided by the Services and to view your comment history.
 
-**Email Promotions.** You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
+**Email Promotions**
 
-**Targeted Advertising.** You may choose whether to receive some forms of targeted advertising from many ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the Network Advertising Initiative and Digital Advertising Alliance. Please see Online Tracking and Advertising and visit our Ad Choices pages for further information about how to disable cookies and other choices that may be available to you with respect to certain types of targeted advertising.
+You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
+
+**Targeted Advertising.** You may choose whether to receive some forms of targeted advertising from many ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the Network Advertising Initiative and Digital Advertising Alliance . Please see Online Tracking and Advertising and visit our Ad Choices pages for further information about how to disable cookies and other choices that may be available to you with respect to certain types of targeted advertising.
 
 **Data Security**
 
@@ -98,9 +98,9 @@ We have in place physical, electronic and managerial procedures to protect the i
 
 **Children’s Privacy.** We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law. If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
 
-**Your California Privacy Rights.** California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
+**Your California Privacy Rights.** (a) California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes. (b) California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post on the Services. You may request such removal by emailing us at comments@washpost.com. In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and/or Washington Post website user name, year of birth, mailing address (including city, state, and zip code), and the subject line “California Removal Request” so that we can process your request. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
 
-**Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals. In the meantime, please see Online Tracking Advertising for additional information about privacy choices that may be available to you with respect to targeted advertising.
+**Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals. In the meantime, please see Online Tracking &. Advertising for additional information about privacy choices that may be available to you with respect to targeted advertising.
 
 **International Transfers.** The Services are headquartered in the United States. Please be aware that if information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country in accordance with applicable law. By using the Services, you consent to the collection, international transfer, storage, and processing of your information
 
@@ -108,28 +108,26 @@ We have in place physical, electronic and managerial procedures to protect the i
 
 We may modify this Privacy Policy from time to time. We will notify you of changes by posting changes here, or by other appropriate means. Any changes to the Privacy Policy will become effective when the updated policy is posted on the Services. Your use of the Services or your provision of personal information to use the Services following such changes indicates your acceptance of the revised Privacy Policy.
 
-**Online Tracking Advertising**
+**Online Tracking &. Advertising**
 
-_**How We Use Cookies, Web Beacons, and Similar Technologies and How To Disable These Technologies**_
+**_How We Use Cookies, Web Beacons, and Similar Technologies and How To Disable These Technologies_**
 
 We and third parties that provide content, advertising, or functionality on our Services, may use cookies, web beacons, and similar technologies to facilitate administration and navigation on the Site, to better understand and improve our Services, to determine and improve the advertising shown to you here or elsewhere, and to provide you with a customized online experience.
 
 **Cookies.** Cookies are small files that are placed on your computer when you visit a website. Cookies may be used to store a unique identification number tied to your computer or device so that you can be recognized as the same user across one or more browsing sessions, and across one or more sites. Cookies serve many useful purposes. For example:
 
-•Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
-
-•Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
-
-•Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
+*   Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service
+*   Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
+*   Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
 
 Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. If you disable browser cookies or flash cookies, it may interfere with the proper functioning of the Services.
 
 **Beacons.** We, along with third parties, also may use technologies called beacons (or “pixels”) that communicate information from your device to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the time and date on which you viewed the beacon, and the IP address of your device. We and third parties use beacons for a variety of purposes, including to analyze the use of our Services and (in conjunction with cookies) to provide content and ads that are more relevant to you.
 
-**Local Storage Other Tracking Technologies.** We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found here.
+**Local Storage &. Other Tracking Technologies.** We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found here.
 
-_**Additional Choices With Respect To Targeted Advertising**_
+**_Additional Choices With Respect To Targeted Advertising_**
 
 As described above, we and third parties may use cookies and other tracking technologies to facilitate serving relevant ads to you. For example, these technologies help us determine whether you have seen a particular advertisement before, tailor ads to you if you have visited our site before, and avoid sending you duplicate advertisements. You can learn more about certain types of targeted advertising by visiting the Digital Advertising Alliance website or our Ad Choices page.
 
-In addition to disabling cookies and other tracking technologies as described above, you may opt-out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the Network Advertising Initiative and Digital Advertising Alliance. Please visit our Ad Choices page for additional information and privacy choices.
+In addition to disabling cookies and other tracking technologies as described above, you may opt-out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the Network Advertising Initiative and Digital Advertising Alliance . Please visit our Ad Choices page for additional information and privacy choices.
