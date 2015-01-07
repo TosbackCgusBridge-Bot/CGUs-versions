@@ -18,7 +18,7 @@ Data Retention
 
 This website will retain your information on our servers as long as you request us to do so. You may delete data from your account, or delete your entire account at any time.
 
-This website maintains backups of all data for use in recovering from a catastrophic failure. These backups are maintained in a secure location for approximately 1 month before being recycled. Therefor, data that you delete from the website will remain in our backups for approximately 1 month before being permanently deleted.
+This website maintains backups of all data for use in recovering from a catastrophic failure. These backups are maintained in a secure location for approximately 1 month before being recycled. Therefore, data that you delete from the website will remain in our backups for approximately 1 month before being permanently deleted.
 
 This website does not guarantee that our backups will function error free. This website cannot restore data from a backup on request. For these reasons, you are responsible for maintaining your own backups of your data, by using our data export tools.
 
