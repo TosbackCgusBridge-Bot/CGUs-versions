@@ -581,12 +581,4 @@ Learn More
 
 Contact Management Made Simple.
 
-Learn More Sign Up Human verification was unsuccessful. Please try again. Please enter your email address. Please enter a valid email address. Please enter a password (at least four characters). Passwords must not begin or end with a space. Password contains an invalid character. Now choose your website’s type. Site TypeBusinessGroup/OrgPersonalOnline Store Please enter a site title (at least four characters). Site title must not begin or end with a space. Please enter a site title (at least four characters).
-
-Before we create your account, we need to make sure you are not a robot. Just play this quick game to prove it!
-
-Creating your site! Just a moment.
-
-Create My Account
-
-By signing up you agree to our terms of service.
+Learn More
