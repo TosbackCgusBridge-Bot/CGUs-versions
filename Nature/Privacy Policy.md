@@ -333,13 +333,13 @@ Donate Now Featured Articles Give a Gift Membership
 
 With this gift of nature, _Nature Conservancy_ magazine arrives all year long. Join
 
-An Acre is the Perfect Gift
+Adopt an Acre
 
-Adopt an Acre for everyone on your list! Adopt
+One acre at a time can make a big difference for our landscapes! Adopt
 
-Make Your Tax-Deductible Gift
+Climate Change Tips
 
-Give to nature this holiday season! Donate
+It's not hopeless! These tips will help stave off climate change. Read Our Tips
 
 Sign Up for Nature e-News Get our email updates filled with eco-tips and info on the places you care about most. GO We’re Accountable
 
