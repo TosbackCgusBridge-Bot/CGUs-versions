@@ -1,3 +1,9 @@
+Updated Privacy Policy  
+
+At Penton, we always strive to enhance the value of our products to our users. As part of this effort, we now share information we collect from our users with other users of our services and/or third-party business partners, so they can provide service improvements or offer additional opportunities and benefits of potential interest to you. Click here to learn more by reading our updated Privacy Policy.
+
+Click here to agree &. continue enjoying this Penton website.
+
 *   Magazines
     *   American Agriculturist
     *   Dakota Farmer
