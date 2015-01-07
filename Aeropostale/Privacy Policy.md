@@ -13,7 +13,6 @@ Aéropostale Go
     *   Factory
     *   United XXVI
     *   Bethany Mota
-    *   Cold Weather Shop
     *   Lookbook
     *   Boot Shop
     *   Extended Sizes
@@ -46,7 +45,6 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     *   Factory
-    *   Cold Weather Shop
     *   United XXVI
     *   Lookbook
     *   Sneaker Shop
@@ -68,6 +66,7 @@ Aéropostale Go
     *   Shorts
     
     *   JACKETS + COATS
+    *   PAJAMAS
     *   UNDERWEAR
     *   SHOES
     *   ACCESSORIES
