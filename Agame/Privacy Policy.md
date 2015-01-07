@@ -3,7 +3,7 @@ Your zone to play free online games
 Join or Login
 
 *   Home
-*   Christmas
+*   Awards
 *   Racing
 *   Action
 *   Puzzle
@@ -16,7 +16,6 @@ Join or Login
     *   Kogama Games
     *   War Games
     *   Board &. Card
-    *   Awards
     *   High scores
     *   MMO
     *   Mobile &. Tablet Games
