@@ -1,11 +1,12 @@
 At QVC, we are committed to giving you quality service. As part of that commitment, we gather information about our customers, users of our websites and other services, and visitors so we can better serve you. Because we realize that your privacy is important to you, your privacy is also important to us. Whether you visit or buy from our show, one of our stores, or one of our websites such as QVC.com, or through one of our other services such as QVC's mobile services or a QVC software application (i.e., a widget) downloaded to your desktop (all of which together with our websites we will refer to as "services"), you can be assured that we respect the confidentiality of personal information that identifies you and treat that information responsibly. If a customer fails to make payments for purchases under QVC's Easy Pay program, QVC may sell the customer's account and information related to the account (including customer information) to a third-party collection agency. Otherwise, as described in this Privacy Statement, we do not authorize the selling or renting of your personal information to third parties for their business purposes.
 
-By using a QVC service, you accept the practices that are described in this Privacy Statement, which is effective as of November 17, 2014, and is part of the General Terms and Conditions of Use governing use of this website and the terms and conditions governing any other QVC service you use. If, however, another QVC service sets forth a separate or additional privacy statement, terms and conditions, or other policy, then that separate privacy statement, terms and conditions, or other policy shall apply in connection with your use of that service. This Privacy Statement does not apply to personal information that is collected through the websites of QVC's affiliates based outside the United States or through any other services offered by QVC's affiliates outside the United States. We may change or add to this Privacy Statement from time to time. When that happens, we will post the revised Privacy Statement here. Your use of one of our services after changes to this Privacy Statement have been posted constitutes your knowledge and acceptance of those changes (i.e., that the changes may be applied to the information we collect from and about you).
+By using a QVC service, you accept the practices that are described in this Privacy Statement, which is effective as of January 6, 2015, and is part of the General Terms and Conditions of Use governing use of this website and the terms and conditions governing any other QVC service you use. If, however, another QVC service sets forth a separate or additional privacy statement, terms and conditions, or other policy, then that separate privacy statement, terms and conditions, or other policy shall apply in connection with your use of that service. This Privacy Statement does not apply to personal information that is collected through the websites of QVC's affiliates based outside the United States or through any other services offered by QVC's affiliates outside the United States. We may change or add to this Privacy Statement from time to time. When that happens, we will post the revised Privacy Statement here. Your use of one of our services after changes to this Privacy Statement have been posted constitutes your knowledge and acceptance of those changes (i.e., that the changes may be applied to the information we collect from and about you).
 
 QVC is not responsible for the privacy or data collection policies or practices of the services from which you access our services, of services we link to, or of any services that are linked to our services.
 
 This Privacy Statement tells you what kinds of information we collect about our customers, users, and visitors, how we use that information and with whom we may share it, and how you can access and change our information about you. If you have additional questions about QVC's privacy practices or would like more information, please contact Privacy-Statement@QVC.com.
 
+*   How do you treat my information if I check out on QVC.com without entering a password?
 *   What personal information do we collect from our customers?
 *   What other kinds of customer information do we collect?
 *   How do we collect this information?
@@ -20,6 +21,14 @@ This Privacy Statement tells you what kinds of information we collect about our 
 *   What are third party affinity programs?
 *   Do we collect personal information from children?
 *   View our Safe Harbor Statement
+
+How do you treat my information if I check out on QVC.com without entering a password?
+
+When you place an order on QVC.com without entering a password, QVC collects the same type of information from you and treats that information in the same responsible way as if you had entered a password, because when you place any order with QVC, we automatically create a QVC account for you. In order to view or change the information on your QVC account, you will need to create a password and log in to the My Account section on QVC.com.
+
+Please read through this Privacy Statement to learn what kinds of information we collect about all of our customers, users, and visitors, how we use that information and with whom we may share it, and how you can access and change our information about you.
+
+Return to top
 
 What personal information do we collect from our customers?
 
