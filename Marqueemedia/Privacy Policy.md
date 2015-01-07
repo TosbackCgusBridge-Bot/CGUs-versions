@@ -1,2 +1,1 @@
-Marqueemedia.com  
-This domain may be for sale. Backorder this Domain Privacy Policy
+Marqueemedia.com Privacy Policy
