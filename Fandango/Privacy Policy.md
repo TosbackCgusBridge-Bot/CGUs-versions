@@ -20,6 +20,7 @@ Gift Cards | Offers | Visa Signature
     Opening This Week = Limited Release
     
     *   Taken 3
+    *   Selma
     *   Beloved Sisters
     *   It's All So Quiet
     *   Black November
@@ -37,7 +38,7 @@ Gift Cards | Offers | Visa Signature
     *   Mortdecai
     *   Strange Magic
     *   The Boy Next Door
-    *   Project Almanac
+    *   New Movie
     *   Black or White
     *   The Loft
     *   Jupiter Ascending
@@ -63,7 +64,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News 'Get Hard' trailer: Kevin Hart takes Will Ferrell to prison school Read More 'Star Trek' lands 'Fast and Furious' director, meet Marvel's new Luke Cage Read More Trailer: Check out Jonah Hill and James Franco in the identity-theft drama 'True Story' Read More Explore More
+*   Movie News Featured Movie News Look: Here's why 'Mad Max: Fury Road' may be the year's craziest movie Read More Watch: The clever first 'Ant-Man' trailer may infuriate you Read More Tom Hiddleston gets gothic in this first glimpse of del Toro's 'Crimson Peak' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
