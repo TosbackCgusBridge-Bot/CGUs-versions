@@ -35,7 +35,7 @@ Text Search Advanced
 
 Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Closed
 
-The Free File Fillable Forms program has closed for this year. Check back next year for filing your 2014 federal tax return.  The program operates from January through October 20 each year. From October 16-20, Free File Fillable Forms remains available only for correcting and e-filing rejected returns and for printing copies of returns.
+The Free File Fillable Forms program has closed for this year. Come back on January 20, 2015, to file your 2014 federal tax return. The program operates from January through October 20 each year. From October 16-20, Free File Fillable Forms remains available only for correcting and e-filing rejected returns and for printing copies of returns.
 
   
 After October 20, you will not be able to access your Free File Fillable Forms account or the associated tax return information.
@@ -50,7 +50,7 @@ If you were not able to successfully e-file your return but printed a copy, mail
 
 The Free File Fillable Forms program welcomes your comments. WIFreeFileCS1@irs.gov
 
-Page Last Reviewed or Updated: 12-Dec-2014
+Page Last Reviewed or Updated: 06-Jan-2015
 
 *   Resolve an Issue
     
