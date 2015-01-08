@@ -208,7 +208,7 @@ Does this answer your question? Tells us how you think we can make this answer m
 *   CUSTOMER SERVICE
     *   Shipping Policy
     *   Returns &. Exchanges
-    *   Product Recall
+    *   International
 *   MY ACCOUNT
     *   Order Status
     *   My Loyallist
@@ -233,9 +233,10 @@ Does this answer your question? Tells us how you think we can make this answer m
 *   CA Privacy Rights/
 *   CA Transparency in Supply Chains Act/
 *   Customers' Bill of Rights/
+*   Product Recall/
 *   Visually Impaired Customers/
 
 *   Essential Accessibility
 
   
-© 2014 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
+© 2015 Bloomingdale's. 1000 Third Avenue New York, NY 10022. Request our corporate name and address.
