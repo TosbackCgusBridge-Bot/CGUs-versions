@@ -117,4 +117,4 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact TRUSTe here.
 
-**Last updated on January 6th 2015.**
+**Last updated on January 7th 2015.**
