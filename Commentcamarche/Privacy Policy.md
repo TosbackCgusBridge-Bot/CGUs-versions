@@ -123,8 +123,8 @@ Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharg
 Conditions-generales-d-utilisation.pdf A voir également
 
 *   Conditions générales
-*   Conditions Générales D'utilisation
-*   Utilisation d'un site web
+*   Les conditions generales d utilisation
+*   Livebox 0079 orange sagem problème pour canal à la demande
 *   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
