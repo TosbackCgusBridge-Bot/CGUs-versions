@@ -18,7 +18,6 @@ NBCUniversal
     *   Comcast Sportsnet
     *   E!
     *   Esquire Network
-    *   G4
     *   Golf Channel
     *   MSNBC
     *   Mun2
