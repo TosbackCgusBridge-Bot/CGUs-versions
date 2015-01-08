@@ -134,6 +134,9 @@ Up to
 *   Compare
 *   Build Your Own
 
+2015 XV Crosstrek  
+Special Edition
+
 XV Crosstrek 2.0i Limited shown
 
 XV Crosstrek Hybrid $25,995 starting price 2015 XV Crosstrek Hybrid
@@ -150,6 +153,9 @@ Up to
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
+
+2015 XV Crosstrek  
+Special Edition
 
 XV Crosstrek Hybrid Shown
 
