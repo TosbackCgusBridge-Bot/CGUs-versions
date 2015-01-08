@@ -472,7 +472,7 @@ You agree to comply with policies, procedures, and practices for the Registry TL
 
 You agree to indemnify, defend and hold harmless Registry Operator, and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-37\. provisions specific to ALL Radix TLD registrations: .website. .press. .host
+37\. provisions specific to ALL Radix TLD registrations: .host. .press. .space. .website.
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
