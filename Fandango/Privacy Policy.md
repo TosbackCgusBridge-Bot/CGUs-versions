@@ -32,15 +32,16 @@ Gift Cards | Offers | Visa Signature
     *   Paddington
     *   The Wedding Ringer
     *   Blackhat
+    *   Fifty Shades of Grey
     
     Coming Soon
     
     *   Mortdecai
     *   Strange Magic
     *   The Boy Next Door
-    *   New Movie
     *   Black or White
     *   The Loft
+    *   Project Almanac
     *   Jupiter Ascending
     *   See All Coming Soon
     
@@ -64,7 +65,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Look: Here's why 'Mad Max: Fury Road' may be the year's craziest movie Read More Watch: The clever first 'Ant-Man' trailer may infuriate you Read More Tom Hiddleston gets gothic in this first glimpse of del Toro's 'Crimson Peak' Read More Explore More
+*   Movie News Featured Movie News Look: Here's why 'Mad Max: Fury Road' may be the year's craziest movie Read More Watch: The (real) 'Ant-Man' trailer is here, and it's awesome Read More Tom Hiddleston gets gothic in this first glimpse of del Toro's 'Crimson Peak' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -329,14 +330,14 @@ Make wishes come true. Give a limited edition Into the Woods movie gift card. BU
 
 New + Coming Soon
 
-*   The Hunger Games: Mockingjay - Part 1
-*   Penguins of Madagascar
-*   Exodus: Gods and Kings
-*   The Hobbit: The Battle of the Five Armies
-*   Annie (2014)
-*   Night at the Museum: Secret of the Tomb
-*   Into the Woods
 *   Taken 3
+*   The Wedding Ringer
+*   Blackhat
+*   The SpongeBob Movie: Sponge Out of Water
+*   Fifty Shades of Grey
+*   Furious 7
+*   Avengers: Age of Ultron
+*   Star Wars: Episode VII - The Force Awakens
 
 Experience + Explore
 
