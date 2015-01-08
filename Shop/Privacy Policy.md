@@ -1,4 +1,4 @@
-Lenovo Search CallSales 1-855-253-6686Call CallSales 1-855-253-6686 See Products>. Cart Menu <Products
+Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 1-855-253-6686 See Products>. Cart Menu <Products
 
 1.  Laptops
     1.  See all Laptops
