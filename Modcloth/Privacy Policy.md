@@ -114,8 +114,6 @@ You can log in to our site using sign-in services such as Facebook Connect or an
     
     You can access, update, or change your personal information and communication preferences by signing into your ModCloth membership page and modifying your preferences at your discretion. If you wish to cancel your account, or request that we no longer use your information to provide services to you, contact us at support@modcloth.com.
     
-    You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to create a membership with us or to take advantage of some or all of our features.
-    
     We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@modcloth.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
     
     You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to create a membership with us or to take advantage of some or all of our features.
