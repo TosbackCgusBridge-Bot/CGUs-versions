@@ -207,4 +207,4 @@ If you have an unresolved privacy or data use concern that we have not addressed
   
 A j2 Global, Inc. Company
 
-Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2014 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
+Use of the site is governed by our Terms of Use and Privacy Policy. Copyright 1996-2015 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
