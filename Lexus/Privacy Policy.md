@@ -126,7 +126,7 @@ Starting at $62,400\*
 
 IS C
 
-Starting at $42,960\*
+Starting at $43,360\*
 
 *   • 19/27 City/Hwy MPG\*
 *   • RWD
