@@ -282,8 +282,6 @@ From time to time, we may update this privacy statement. We will notify you abou
 
 _The Privacy Statement posted on this Site was updated on January 3, 2015._
 
-In Case You Missed It  Turning 50 in 2015 Steve Jobs' secret yacht: The rare, new images CNN 10: Ideas to change the world Imagine freshman members of Congress on Tinder ... How to buy pot (legally) 50 states, 50 spots: Natural wonders Is your information on the deep web? The U.S. Army's biggest battle Iconic photographer captured Hollywood 28 Internet acronyms parents should know Processed food as landscape photos Meet the U.S. Navy's spy 'fish' My 417-mile trip down 'Apocalypse River' Lavish homes of American archbishops
-
 1.  News
     1.  World
     2.  Sport
