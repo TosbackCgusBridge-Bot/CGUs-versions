@@ -199,6 +199,10 @@ LF-C2
 
 Concept Convertible
 
+GS F
+
+ARRIVING LATE 2015
+
 This statement applies to the websites operated by Lexus, a division of Toyota Motor Sales, U.S.A., Inc. (Lexus) online.
 
 Lexus Personal Information Sharing Practices - 2014
