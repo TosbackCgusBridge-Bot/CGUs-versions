@@ -103,7 +103,7 @@ In addition to your own browser cookie removal, you may also opt out of addition
 
 The Weather Channel contracts with certain Third Party Processors to track, analyze and report data about the usage of our Services using these Internet technologies. These Third Party Processors include Adobe and its Omniture product. To obtain information about the privacy and security practices of Adobe's Omniture Product, use the following link: http://www.adobe.com/privacy.html.
 
-Adobe: http://www.weather.com/common/home/modules/privacyOptoutp1.html  
+Adobe: http://www.weather.com/legal/privacy-optout  
 Opt-outs are device specific and may not work on all devices.
 
 F. Use of Cookies, Web Beacons, and Other Technologies by Advertisers, Ad Networks, Ad Servers, and Analytics Companies
