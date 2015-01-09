@@ -132,7 +132,6 @@ Company
 *   Advertise
 *   Contact
 *   Support
-*   CEO on LinkedIn
 
 Everything Else
 
