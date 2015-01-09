@@ -267,7 +267,7 @@ ETS
 Who We Serve
 
 *   K–12 Community
-*   Educator Licensure Associations
+*   Educator Licensure Assessments
 *   Higher Education Community
 *   English Learners and Teachers
 *   Employers
