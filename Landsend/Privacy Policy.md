@@ -25,9 +25,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes &. Boots
             
             *   New Arrivals
-            *   Cardigan Shop
+            *   Best of Spring 2015
             *   Starfish Collection
-            *   Little Black Dress
+            *   Cardigan Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -62,11 +62,11 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Men Featured Shops
             *   Outerwear Shop
-            *   Sleep Shop
+            *   No Iron Shop
             *   Shoes &. Boots
-            *   Supima Shirts &. Sweaters
             
             *   New Arrivals
+            *   Supima Shirts &. Sweaters
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -100,6 +100,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Outerwear Shop
+            *   Swim Shop
             *   Shoes &. Boots
             *   School Uniforms
             
@@ -182,12 +183,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Home Featured Shops
             *   Supima Bed &. Bath
-            *   Throw Shop
-            *   Totes
+            *   Oxford Bedding Collection
+            *   Bedding Collections
+            *   Canvas Totes &. More
             
             *   New Arrivals
             *   Flannel Bedding
-            *   Bedding Collections
+            *   Percale Bedding Collection
             *   Sale
     *   *   Categories
             *   Bedding
