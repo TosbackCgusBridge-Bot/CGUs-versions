@@ -1,19 +1,7 @@
-Privacy &. Security Privacy Statements
+Privacy Privacy Statements
 
 Learn about our commitment to privacy protection  
 Privacy Statement highlights ›
-
-Security
-
-Read about our security practices and technologies  
-Learn more ›
-
-Vulnerability
-
-Security testing and reporting policies  
-Learn more ›
-
- 
 
 Privacy Statement, effective as of October 1, 2014
 
