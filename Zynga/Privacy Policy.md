@@ -746,7 +746,7 @@ Facebook Twitter YouTube Instagram
 *   Security
 *   Contact
 
-©2014 Zynga Inc. All rights reserved.
+©2015 Zynga Inc. All rights reserved.
 
 *   MENU
     *   HOME
