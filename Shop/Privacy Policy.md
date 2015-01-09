@@ -143,9 +143,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         3.  RD440
         4.  RD540
         5.  RD550
-        6.  RD640
-        7.  RD650
-        8.  See all Racks
+        6.  RD650
+        7.  See all Racks
     3.  Towers Workload Hungry, Budget Friendly
         1.  TS140
         2.  TS440
