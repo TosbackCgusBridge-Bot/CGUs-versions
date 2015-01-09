@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (3)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  Tim
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (3)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13289777684
+true true C13169230367
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Wed Jan 07 05:22:01 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Thu Jan 08 11:07:57 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,38 +45,94 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 Days Only
+In Store and Online
+
+Ends January 11. Code: TENXTRA
+
+$10 Off\* $25 or more.
+
+Online Only
+
+Ends January 11. Code: SUPER20
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends January 11. Code: SUPER20
+
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. get coupon
+
+*   Super Saturday Sale
     
-    Online Only. Select Styles. Jan 5 to 7. Code: JANBUY49
+    Starts now.
     
-    Get details: 50% Off Bedding and Bath 50% Off Luggage 40% Off Home Decor 40% Off Blinds and Shades 40% Off Furniture and Mattresses 30% Off Kitchen and Dining 30% Off Storage and Organization 30% Off Vacuums and Floorcare Or Extra 20% Off All Online Clearance
-*   3 Days Only
+    shop the sale view store ad shop women's shop men's shop kids' shop shoes shop lingerie shop furniture shop jewelry shop baby shop kitchen shop bedding shop window shop home decorNight and Day Doorbusters
     
-    Online Only. Jan 5 to 7. Code: JANBUY49
+    Use your coupon and save even more!
     
-    Get details:
+    In store and online Friday 3PM CST through Saturday 1PM CST.
     
-    Extra 20% Off select orig, reg and sale-priced items.
+    shop doorbusters
+*   Home Sale 30-50% Off
     
-    Shop Men Shop Women Shop Kids Shop Shoes Shop Baby Furniture Shop Accessories Shop Fashion Jewelry Or Extra 20% Off All Online Clearance
+    Select styles.
+    
+    shop the home sale shop bedding and bath shop kitchen and dining shop furniture and mattresses shop home decor shop luggage
+    
+    40-50% Off Window
+    
+    Select styles.
+    
+    shop window
 
-Got a Gift Card? Redeem In Store or Online! Check Your Gift Card Balance Happy You Year Shop all Fitness 40 to 50% Off Activewear for Her, select styles 20% Off Watches, with code JWLRY49\* \*Exclusions and details 25% Off 2 or More Bras, select styles Save on Nike Shoes for the Family (excluded from coupon) 50% Off Kids' Xersion Activewear, select styles 20 to 50% Off Men's Workout Clothes, select styles 40 to 50% Off Activewear for Her, select styles 30 to 50% Off Juicers and Blenders, use code JANBUY49 50 to 75% Off Clearance Shop Now Shop Women Shop Men Shop Kids Shop Lingerie Shop Baby Shop Bed and Bath Shop Window Shop Shoes Shop Jewelry Shop Kitchen and Dining Shop Furniture and Mattresses
+Got a Gift Card? Redeem in Store or Online! check your gift card balance
 
-\+ Extra 20% Off\* All Online Clearance with Code: JANBUY49
+40-50% Off Select Activewear for Her
 
-\*Exclusions and details: JCPenney Rewards
+shop now
 
-Shop to earn $10 JCPenney Rewards.
+20-50% Off Select Men's Workout Clothes
 
-Sign Up Today Sports Fan Shop
+shop now
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+Semi-Annual Intimates Sale
 
-Shop Now New E-Gift Cards
+25% Off Select Bras When You Buy 2 or More.
 
-Customize with a message, photo or video.
+shop now
 
-Shop Gift Cards Write A Review For Your Chance To Win $500 Shop Now
+Save on Nike Shoes for the Family
+
+Excluded from coupon.
+
+shop now
+
+40-60% Off Select Kids' Arizona Denim
+
+shop now
+
+40-60% Off Select Fine Jewelry and Bijoux Bar
+
+shop now 30-50% Off Bedding
+
+Select styles.
+
+shop now Red Zone Clearance 50-75% Off shop now shop now shop now shop now shop now shop now shop now shop now shop now shop now shop now shop now JCP Rewards
+
+Shop to earn $10 JCP Rewards.
+
+sign up today SportsFanShop
+
+Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
+
+shop the SportsFanShop Happy You Year
+
+Gear up to get fit.
+
+shop fitness Write A Review For Your Chance To Win $500 see rules and details
 
 get connected
 
