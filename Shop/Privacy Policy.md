@@ -10,8 +10,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  ThinkPad E: Stylish &. Affordable Productivity
         6.  ThinkPad L: Affordable, All-Purpose Productivity
         7.  ThinkPad Helix: Detachable Business Ultrabooks
-        8.  ThinkPad Helix 2nd Gen: Detachable Business Ultrabooks
-        9.  See all Professional
+        8.  See all Professional
     3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
         1.  Y Series: Gaming Power Made Mobile
         2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
@@ -50,27 +49,25 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Lenovo Yoga Tablet 2 8: 8" Revolutionary Multimode Tablet
         2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
         3.  Lenovo Yoga Tablet 2 Pro: 13" Multimode Tablet with Projector
-        4.  Lenovo Yoga Tablet 8: 8" Revolutionary Multimode Tablet
-        5.  Lenovo Yoga Tablet 10: 10.1" Revolutionary Multimode Tablet
-        6.  Lenovo A7: 7" Wideview Android Tablet
-        7.  Lenovo A8: 8" Wideview Android Tablet
-        8.  Lenovo A10: 10" Wideview Android Tablet
-        9.  Lenovo S8: 8" Enhanced Multimeddia Tablet
-        10.  See all Android Tablets
+        4.  Lenovo A7: 7" Wideview Android Tablet
+        5.  Lenovo A8: 8" Wideview Android Tablet
+        6.  Lenovo A10: 10" Wideview Android Tablet
+        7.  Lenovo S8: 8" Enhanced Multimeddia Tablet
+        8.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
         1.  Lenovo Yoga Tablet 2 8: 8" Revolutionary Multimode Tablet
         2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
         3.  Lenovo Yoga Tablet 2 13: 13" Revolutionary Multimode Tablet
         4.  ThinkPad 10: 10.1" Tablet with Full PC Experience
-        5.  ThinkPad Helix: 11.6" Premium Business Ultrabook
-        6.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
+        5.  ThinkPad Helix 1st Gen: 11.6" Premium Business Ultrabook
+        6.  New ThinkPad Helix: 11.6" Premium Business Ultrabook
         7.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
         8.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
         9.  See all Windows Tablets
     4.  2-in-1 Laptops Laptop / Tablet Hybrids
         1.  Lenovo Yoga: Sleek Convertible Ultraportables
-        2.  ThinkPad Helix: 11.6" Premium Business Ultrabook
-        3.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
+        2.  ThinkPad Helix 1st Gen: 11.6" Premium Business Ultrabook
+        3.  New ThinkPad Helix: 11.6" Premium Business Ultrabook
         4.  ThinkPad Yoga: Multimode Business Ultrabook
         5.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
         6.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
@@ -478,7 +475,6 @@ Please use the Back button on your browser or close this window to return to the
     *   Servers
     *   Accessories &. Software
     *   Services &. Warranty
-    *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Outlet
 *   Resources
