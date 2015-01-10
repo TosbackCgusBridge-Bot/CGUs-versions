@@ -27,7 +27,6 @@ Trucks
 Crossovers &. SUVs
 
 *     RAV4 Build your own
-*     FJ Cruiser Build your own
 *     Venza Build your own
 *     Highlander Build your own
 *     4Runner Build your own
@@ -43,7 +42,6 @@ Hybrids &. EVs
 *     Prius Plug-in Hybrid Build your own
 *     Avalon Hybrid Build your own
 *     Highlander Hybrid Build your own
-*     RAV4 EV Build your own
 
 Upcoming Vehicles
 
@@ -366,6 +364,7 @@ About Toyota
 *   Toyota USA Newsroom
 *   Toyota Worldwide
 *   Toyota Racing
+*   TRD USA
 
 Language
 
@@ -383,6 +382,6 @@ Help
 *   Site Map
 *   AdChoices
 
-©2014 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
+©2015 Toyota Motor Sales, U.S.A., Inc. All information applies to U.S. vehicles only.
 
 \[#\] View All Disclosures
