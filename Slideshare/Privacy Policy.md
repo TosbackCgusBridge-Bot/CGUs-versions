@@ -366,7 +366,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   Universities Directory
 *   Title Directory
 
-LinkedIn Corporation _© 2014_
+LinkedIn Corporation _© 2015_
 
 *   User Agreement
 *   Privacy Policy
