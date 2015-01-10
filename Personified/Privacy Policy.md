@@ -45,5 +45,4 @@ Resources Candidate Sourcing and Screening Tips: How Can YOU Save Time and Money
 *   PARTNERS &. AFFILIATES
 *   ADVERTISE WITH US
 *   SECURITY/PRIVACY
-*   CB SWEDEN
 *   HELP
