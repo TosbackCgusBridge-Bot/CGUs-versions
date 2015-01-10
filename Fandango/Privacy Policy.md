@@ -61,7 +61,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Look: Here's why 'Mad Max: Fury Road' may be the year's craziest movie Read More Watch: The (full-size) 'Ant-Man' trailer is here, and it's great Read More Tom Hiddleston gets gothic in this first glimpse of del Toro's 'Crimson Peak' Read More Explore More
+*   Movie News Featured Movie News What MPAA rating did 'Fifty Shades of Grey' end up with, and why? Read More Watch: The (full-size) 'Ant-Man' trailer is here, and it's great Read More Sequel News: Plot details and more revealed by 'The Lego Movie' creators Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
