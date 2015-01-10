@@ -46,6 +46,12 @@ There are three different categories these cookies are split into:
 
 You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at www.aboutcookies.org.
 
+  
+
+At an advertiser’s discretion, Google Analytics data may be examined in concert with data about the advertiser’s ads that have been shown using the Google Display Network or DoubleClick for Advertisers. Thus, an advertiser can understand how anonymous users interacted with the advertiser’s website after seeing the advertiser’s ads.  
+Advertisers may use this data to inform and optimize their ad campaigns.  
+Users may opt out of the DoubleClick cookie by visiting the Google advertising opt-out page or they may opt out of your use of Analytics by visiting the Google Analytics Opt-out page
+
 **IP Tracking**
 
 When you visit our website, we store web server logs which show your IP address, this gives us information such as which pages you looked at, whether the page request was successful or not and which browser you use to view the page. The use of this data is purely for statistical purposes.
