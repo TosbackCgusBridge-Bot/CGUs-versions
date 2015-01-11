@@ -14,6 +14,7 @@ Aéropostale Go
     *   United XXVI
     *   Bethany Mota
     *   Lookbook
+    *   Uniform
     *   Boot Shop
     *   Extended Sizes
     *   Online Exclusives
@@ -47,6 +48,7 @@ Aéropostale Go
     *   Factory
     *   United XXVI
     *   Lookbook
+    *   Uniform
     *   Sneaker Shop
     *   Extended Sizes
     *   Online Exclusives
