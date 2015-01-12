@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13299879823
+true true C13175717635
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Jan 10 01:08:26 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sun Jan 11 10:24:55 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,62 +45,49 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+Home Sale
 
-Ends January 11. Code: TENXTRA
+30 to 50% Off select styles
 
-$10 Off\* $25 or more.
+shop the home sale shop kitchen and dining shop bed and bath shop window shop furniture and mattresses shop luggage shop home decor
 
-Online Only
+30-50% Off Blenders and Juicers
 
-Ends January 11. Code: SUPER20
+Small appliances excluded from coupon.
 
-Or, Extra 20% Off\* $100 or more.
+shop blenders and juicers Red Zone Clearance 50-75% Off
 
-In Store and Online
+In store and online.
 
-Ends January 11. Code: SUPER20
+shop clearance Happy You Year shop fitness
 
-Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+40-50% Off Kids' Activewear
 
-\*See exclusions and details. get coupon
-
-*   Super Saturday Sale
-    
-    Starts now.
-    
-    shop the sale view store ad shop women's shop men's shop kids' shop shoes shop lingerie shop furniture shop jewelry shop baby shop kitchen shop bedding shop window shop home decorNight and Day Doorbusters
-    
-    Use your coupon and save even more!
-    
-    In store and online Friday 3PM CST through Saturday 1PM CST.
-    
-    shop doorbusters
-*   Home Sale 30-50% Off
-    
-    Select styles.
-    
-    shop the home sale shop bedding and bath shop kitchen and dining shop furniture and mattresses shop home decor shop luggage
-    
-    40-50% Off Window
-    
-    Select styles.
-    
-    shop window
-
-Got a Gift Card? Redeem in Store or Online! check your gift card balance
-
-40-50% Off Select Activewear for Her
+Select styles.
 
 shop now
 
-20-50% Off Select Men's Workout Clothes
+40% Off Men's Xersion
+
+Select styles.
+
+shop now shop now
+
+40-50% Off Activewear For Her.
+
+Select styles.
+
+shop now shop now
+
+Semi-Annual Intimates Sale. 25% Off bras when you buy 2 or more.
+
+Select styles.
 
 shop now
 
-Semi-Annual Intimates Sale
+20-25% Off Fitness Watches
 
-25% Off Select Bras When You Buy 2 or More.
+Select styles.
 
 shop now
 
@@ -108,31 +95,23 @@ Save on Nike Shoes for the Family
 
 Excluded from coupon.
 
-shop now
-
-40-60% Off Select Kids' Arizona Denim
-
-shop now
-
-40-60% Off Select Fine Jewelry and Bijoux Bar
-
-shop now 30-50% Off Bedding
+shop now shop now 40-50% Off Window
 
 Select styles.
 
-shop now Red Zone Clearance 50-75% Off shop now shop now shop now shop now shop now shop now shop now shop now shop now shop now shop now shop now JCP Rewards
+shop now Got a Gift Card? Redeem in Store or Online. check your gift card balance JCPenney Rewards
 
-Shop to earn $10 JCP Rewards.
+Shop to earn $10 JCPenney Rewards.
 
 sign up today SportsFanShop
 
-Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
 
-shop the SportsFanShop Happy You Year
+shop now Just $5
 
-Gear up to get fit.
+Get ALL your favorite magazines from TimeInc. today.
 
-shop fitness Write A Review For Your Chance To Win $500 see rules and details
+shop now Write A Review For Your Chance To Win $500 get details
 
 get connected
 
