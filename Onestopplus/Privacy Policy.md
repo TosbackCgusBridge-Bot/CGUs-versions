@@ -9,17 +9,17 @@ Privacy Policy Last updated on: December 2, 2014
 
   
   
-OneStopPlus.com is part of the OSP Group family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as Terms of Use that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy.  
+OneStopPlus.com is part of the FullBeauty Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as Terms of Use that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy.  
   
   
   
-We are not responsible for the content or privacy practices on any web site not operated by OSP Group to which the Site links or that links to the Site.  
+We are not responsible for the content or privacy practices on any web site not operated by FullBeauty Brands to which the Site links or that links to the Site.  
   
 Our Privacy Policy addresses the following:  
   
 
 *   Safe Harbor Certification
-*   Who is OSP Group?
+*   Who is FullBeauty Brands?
 *   What Information Do We Collect?
 *   How Do We Use the Information Collected?
 *   What Information Is Shared And With Whom Is It Shared?
@@ -46,11 +46,11 @@ Our Privacy Policy addresses the following:
 
   Safe Harbor Certification
 
-The Safe Harbor program is an international data privacy program co-sponsored by the U.S. Department of Commerce and the European Commission. We voluntarily certified adherence to the U.S.-E.U. and the U.S.-Swiss Safe Harbor frameworks for the customer data that we collect. Through these certifications, we commit to uphold the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. You can learn more about those principles and our obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: www.export.gov/safeharbor/. You can also view OSP Group's Safe Harbor certification information through that site. If you have questions about OSP Group's Safe Harbor privacy practices or You can also view our Safe Harbor certification information through that site. If you have questions about our Safe Harbor privacy practices or believe that your information has been mismanaged, you can contact us by sending an e-mail to PrivacyOfficer@ospgroup.com.
+The Safe Harbor program is an international data privacy program co-sponsored by the U.S. Department of Commerce and the European Commission. We voluntarily certified adherence to the U.S.-E.U. and the U.S.-Swiss Safe Harbor frameworks for the customer data that we collect. Through these certifications, we commit to uphold the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. You can learn more about those principles and our obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: www.export.gov/safeharbor/. You can also view FullBeauty Brands' Safe Harbor certification information through that site. If you have questions about FullBeauty Brands' Safe Harbor privacy practices or You can also view our Safe Harbor certification information through that site. If you have questions about our Safe Harbor privacy practices or believe that your information has been mismanaged, you can contact us by sending an e-mail to PrivacyOfficer@FBBrands.com.
 
-  Who is OSP Group?
+  Who is FullBeauty Brands?
 
-OSP Group is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: OneStopPlus.com®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), fullbeauty (fullbeauty.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). OSP Group offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
+FullBeauty Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: OneStopPlus.com®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), fullbeauty (fullbeauty.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). FullBeauty Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
 
   What Information Do We Collect?
 
@@ -76,7 +76,7 @@ OSP Group is a dynamic, web-driven home-shopping leader with numerous successful
   What Information is Shared And With Whom is it Shared?  
   
 
-*   **OSP Group Family of Brands**: Individual Brands share collected information (for example, postal addresses and telephone numbers) within our family of Brands. Your email address is not shared with other Brands.
+*   **Full Beauty Brands**: Individual Brands share collected information (for example, postal addresses and telephone numbers) within our family of Brands. Your email address is not shared with other Brands.
   
   
 
@@ -90,7 +90,7 @@ OSP Group is a dynamic, web-driven home-shopping leader with numerous successful
   
   
 
-*   **Legal Disclosures**: If we are required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, in response to law enforcement inquiry or in compliance with applicable laws, we will make such disclosure. We also reserve the right to share information with legal authorities and other companies for purposes of fraud protection. In the event the ownership of all or a part of a business within the OSP Group Family were to change, customer information pertinent to that business's operations would likely be transferred to, or licensed for use by, the new owner.
+*   **Legal Disclosures**: If we are required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, in response to law enforcement inquiry or in compliance with applicable laws, we will make such disclosure. We also reserve the right to share information with legal authorities and other companies for purposes of fraud protection. In the event the ownership of all or a part of a business within the FullBeauty Brands Family were to change, customer information pertinent to that business's operations would likely be transferred to, or licensed for use by, the new owner.
 
   
   
@@ -262,11 +262,11 @@ Yes. We may provide certain services that are available to you via your mobile p
 
   Are Telephone Calls Recorded?
 
-Yes. Telephone calls to or from our OSP Group family of companies, including our customer service center, may be monitored and recorded for record-keeping, training and quality assurance purposes.
+Yes. Telephone calls to or from our FullBeauty Brands family of companies, including our customer service center, may be monitored and recorded for record-keeping, training and quality assurance purposes.
 
   Whom Do I Contact If I Have Additional Questions or Concerns About This Privacy Policy?
 
-If you have any questions or concerns about our Privacy Policy, please contact PrivacyOfficer@ospgroup.com
+If you have any questions or concerns about our Privacy Policy, please contact PrivacyOfficer@FBBrands.com
 
  Effective Date and Privacy Policy Changes
 
@@ -276,7 +276,7 @@ We may from time to time make changes to our Privacy Policy to reflect changes i
 
 **PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE**
 
-By using this site, (the "Site"), you signify your agreement to these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site. This Site is owned and operated by OSP Group, Inc. and its affiliates and their brands. The words "we", "our", "us" and "OSP Group" refer to OSP Group, Inc. and its affiliates and their brands unless a different meaning is evident from the context. We reserve the right, at any time and in our sole discretion, to change, modify or otherwise alter these Terms of Use. Such changes and/or modifications are effective immediately when posted on the Site. Please review the Terms of Use periodically. If any modification is not acceptable to you, your only recourse is to stop using the Site. Your continued use of the Site after the changes and/or modifications are posted will constitute your acceptance of the revised terms and conditions.
+By using this site, (the "Site"), you signify your agreement to these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site. This Site is owned and operated by FullBeauty Brands, Inc. and its affiliates and their brands. The words "we", "our", "us" and "FullBeauty Brands" refer to FullBeauty Brands, Inc. and its affiliates and their brands unless a different meaning is evident from the context. We reserve the right, at any time and in our sole discretion, to change, modify or otherwise alter these Terms of Use. Such changes and/or modifications are effective immediately when posted on the Site. Please review the Terms of Use periodically. If any modification is not acceptable to you, your only recourse is to stop using the Site. Your continued use of the Site after the changes and/or modifications are posted will constitute your acceptance of the revised terms and conditions.
 
 **ACCEPTABLE USES**
 
@@ -302,11 +302,11 @@ CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSI
 
 **LINKS**
 
-THIS SITE MAY PROVIDE, OR THIRD PARTIES MAY PROVIDE, LINKS TO OTHER WORLD WIDE WEBSITES OR RESOURCES. BECAUSE OSP Group HAS NO CONTROL OVER SUCH SITES AND RESOURCES, YOU ACKNOWLEDGE AND AGREE THAT OSP Group IS NOT RESPONSIBLE FOR THE AVAILABILITY OF SUCH EXTERNAL SITES OR RESOURCES, AND DOES NOT ENDORSE AND IS NOT RESPONSIBLE OR LIABLE FOR ANY CONTENT, ADVERTISING, PRODUCTS, OR OTHER MATERIALS ON OR AVAILABLE FROM SUCH SITES OR RESOURCES. YOU FURTHER ACKNOWLEDGE AND AGREE THAT OSP Group SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH SITE OR RESOURCE.
+THIS SITE MAY PROVIDE, OR THIRD PARTIES MAY PROVIDE, LINKS TO OTHER WORLD WIDE WEBSITES OR RESOURCES. BECAUSE FullBeauty Brands HAS NO CONTROL OVER SUCH SITES AND RESOURCES, YOU ACKNOWLEDGE AND AGREE THAT FullBeauty Brands IS NOT RESPONSIBLE FOR THE AVAILABILITY OF SUCH EXTERNAL SITES OR RESOURCES, AND DOES NOT ENDORSE AND IS NOT RESPONSIBLE OR LIABLE FOR ANY CONTENT, ADVERTISING, PRODUCTS, OR OTHER MATERIALS ON OR AVAILABLE FROM SUCH SITES OR RESOURCES. YOU FURTHER ACKNOWLEDGE AND AGREE THAT FullBeauty Brands SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH SITE OR RESOURCE.
 
 **INDEMNIFICATION**
 
-You agree to indemnify, defend, and hold harmless, OSP Group its affiliates, parents, and their respective officers, directors, employees, agents, licensors, representatives, and third party providers to the Site from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, resulting from any violation of this agreement by you. We reserve the right to assume, at our sole expense, the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with us in asserting any available defenses.
+You agree to indemnify, defend, and hold harmless, FullBeauty Brands its affiliates, parents, and their respective officers, directors, employees, agents, licensors, representatives, and third party providers to the Site from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, resulting from any violation of this agreement by you. We reserve the right to assume, at our sole expense, the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with us in asserting any available defenses.
 
 **PROMOTIONS**
 
@@ -316,15 +316,15 @@ From time to time, we may post a contest, sweepstakes, or other similar promotio
 *   Any applicable taxes are to be paid by Promotion winner;
 *   Void where prohibited;
 *   Eligibility limited to legal residents of the 50 United States and the District of Columbia who are 18 years of age or older.
-*   Employees of OSP Group, its parent, affiliates, subsidiaries and advertising and promotion agencies are not eligible to enter or win.
+*   Employees of FullBeauty Brands, its parent, affiliates, subsidiaries and advertising and promotion agencies are not eligible to enter or win.
 *   Our decisions and/or the decisions of judges with respect to any aspect of the Promotion are final.
 *   Judges, if any, are qualified to apply the Promotion criteria.
 *   We are not responsible for lost, late, misdirected, incomplete, inaccurate, delayed, garbled, stolen or illegible entries or postage-due mail.
 *   Entries in excess of the stated entry limitations will be void.
 *   Mass entries or mechanical reproductions are void.
-*   Prizes cannot be transferred, redeemed for cash or substituted, except by OSP Group who reserves the right to substitute a prize of comparable or greater value.
+*   Prizes cannot be transferred, redeemed for cash or substituted, except by FullBeauty Brands who reserves the right to substitute a prize of comparable or greater value.
 *   Prizes will not be awarded if we do not receive a sufficient number of eligible and qualified entries.
-*   Entries must be original and become the property of OSP Group upon submission. and
+*   Entries must be original and become the property of FullBeauty Brands upon submission. and
 *   We reserve the right to verify eligibility qualifications of any potential winner and such potential winner agrees to cooperate in such verification when asked.
 *   Unless otherwise stated, Promotions are in no way sponsored, endorsed or administered by, or associated with, Facebook or any other Social Media Host (as defined above). You understand that you are providing your information to us and not to Facebook or any other Social Media Host. The information you provide will only be used for the purposes outlined in our Privacy Policy.
 *   A person who accepts a prize as a winner in any Promotion (as defined below), or posts Submitted Materials to any of our social media websites, except where legally prohibited, such person grants permission for us and our designees to use his/her name, address (city and state), photograph, voice and/or other likeness and, if applicable, prize information for advertising, trade and promotional purposes without further compensation, in all media now known or hereafter discovered, worldwide in perpetuity, without notice or review or approval.
@@ -364,11 +364,11 @@ If a dispute arises we strongly encourage you to first contact our Customer Serv
 
 If your dispute is not resolved by Customer Service, before beginning arbitration, you must send written notice describing the claim to the Office of the General Counsel at the following address:
 
-OSP Group  
+FullBeauty Brands  
 2300 Southeastern Avenue  
 Indianapolis, Indiana 46201  
 ATTN: General Counsel  
-Email: GeneralCounsel@OSPGroup.com
+Email: GeneralCounsel@FBBrands.com
 
 If the claim has not been resolved within 30 days of sending the notice you may then commence an arbitration proceeding. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules and forms are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules.
 
@@ -391,10 +391,10 @@ Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints  
 c/o Office of the General Counsel  
-OSP Group  
+FullBeauty Brands  
 2300 Southeastern Ave.  
 Indianapolis, IN 46201  
-Email: GeneralCounsel@ospgroup.com
+Email: GeneralCounsel@FBBrands.com
 
 Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
@@ -411,10 +411,10 @@ Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints  
 c/o Office of the General Counsel  
-OSP Group  
+FullBeauty Brands  
 2300 Southeastern Ave.  
 Indianapolis, IN 46201  
-Email: GeneralCounsel@ospgroup.com
+Email: GeneralCounsel@FBBrands.com
 
 Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
@@ -517,7 +517,7 @@ The following programs are NOT eligible on orders shipped outside of the US:
 
 Not all items offered on our Sites are eligible for international shipping.
 
-Not all OSP Group brands and 3rd Party Merchants offer international shipping.
+Not all FullBeauty Brands and 3rd Party Merchants offer international shipping.
 
 Weight restrictions apply and orders can be restricted for any reason including but not limited to size and quantity. Commercial purchases for resale are not permitted.
 
