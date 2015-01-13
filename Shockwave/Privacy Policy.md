@@ -326,6 +326,8 @@ Or call this number:
 
 Free Online Games and More
 
+This site is part of the Defy Media Gaming network.
+
 *   CONTACT US
 *   About Us
 *   Help
