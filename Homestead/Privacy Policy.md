@@ -28,12 +28,7 @@ Privacy Policy
 10 Corporate Drive  
 Burlington, MA 01803  
   
-**PRIVACY POLICY**  
-Last Updated September 17, 2012
-
-On September 17, 2012, Intuit Websites' (now a Homestead Technologies, Inc. company) and Homestead's Privacy Policy was updated. Please review the updated Privacy Policy below. To view the previous Privacy Policy, click here.
-
-If you are a Google Get Your Business Online customer, your Privacy Policy has not changed. To access this Privacy Policy, click here.
+**PRIVACY POLICY**
 
   
 Your privacy is very important to Homestead Technologies, Inc. ("Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
@@ -121,6 +116,6 @@ This file was last modified September 17, 2012
     *   Account Log In
     *   Webmail Log In
 
-© 2014 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
+© 2015 Homestead Technologies Inc. All Rights Reserved. | Legal | Privacy
 
 Follow Us:
