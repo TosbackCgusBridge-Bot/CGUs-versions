@@ -1,6 +1,6 @@
 About BabyCenter | Advisory Board | Awards | Contact Us | In the News | Jobs  
 Management Team | Mission Statement | Press Releases | Privacy Policy  
-Terms of Use | Terms of Use - Supplemental
+Terms of Use
 
 _Last updated on May 9, 2014_
 
