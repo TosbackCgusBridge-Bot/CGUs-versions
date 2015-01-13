@@ -87,14 +87,7 @@ We use third parties such as network advertisers to serve advertisements on our 
 
 Special Information for California Consumers
 
-California residents may request a list of all third parties to which Salon has disclosed certain personal information about you for the third party’s marketing purposes. You may make one request per calendar year. In your request, please attest that you are a California resident and provide a current California address for our response to you. You may request this information in writing by contacting us at:
-
-Salon Media Group, Inc.  
-Attn: California Consumers  
-101 Spear Street, Suite 203  
-San Francisco, CA 94105  
-415-645-9200  
-privacy@salon.com
+California residents may request a list of all third parties to which Salon has disclosed certain personal information about you for the third party’s marketing purposes. You may make one request per calendar year. In your request, please attest that you are a California resident and provide a current California address for our response to you.
 
 Our Commitment to Children’s Privacy
 
