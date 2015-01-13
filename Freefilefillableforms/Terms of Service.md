@@ -1,4 +1,4 @@
-Free File Fillable Forms is ClosedSkip Navigation
+Free File Fillable Forms is Coming SoonSkip Navigation
 
 *   Subscriptions
     *   IRS Guidewire
@@ -33,27 +33,22 @@ Text Search Advanced
 *   Help &. Resources
 *   for Tax Pros
 
-Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Closed
+Like - Click this link to Add this page to your bookmarks Share - Click this link to Share this page through email or social media Print - Click this link to Print this page Free File Fillable Forms is Coming Soon
 
-The Free File Fillable Forms is closed. Come back on January 20, 2015, to file your 2014 federal tax return. 
+Free File Fillable Forms is currently closed.  Come back on January 20, 2015, to file your 2014 federal tax return. 
 
-When the program opens on January 20, 2015 you can establish a new account to file your 2014 federal tax return. You cannot access your prior tax return information (tax years 2013 and earlier).
-
-The program operates from mid January through October 15 each year. After October 15, each year, all Free File Fillable Forms account information is erased from the servers. 
-
-**We cannot help you access your Free File Fillable Forms account after it has been erased.**
+When Free File Fillable Forms opens on January 20, 2015, make sure you create a new account to file your 2014 federal tax return. You cannot access your prior tax return information (tax years 2013 and earlier).
 
 Information regarding prior year tax returns using Free File Fillable Forms:
 
-*   If you were not able to successfully e-file your return but printed a copy, mail it in. 
-*   If you do not have a copy to mail, you will have to prepare another. Return to Filing Your Taxes to find other e-file options.
+*   If you were not able to successfully e-file your return but printed a copy, mail it in.  
+*   If you do not have a copy to mail, you will have to prepare another. 
+*   For more information, go to our Online Individuals page.
 *   Need to get up-to-date refund information? Go to Where's My Refund
-*   Need a copy of your federal return? If the IRS has accepted your return, Get a Transcript  
+*   Need a copy of your federal return? If the IRS has accepted your return, Get a Transcript 
 *   Do you want to pay your balance or make estimated tax payments? Access Direct Pay
 
-The Free File Fillable Forms program welcomes your comments. WIFreeFileCS1@irs.gov
-
-Page Last Reviewed or Updated: 07-Jan-2015
+Page Last Reviewed or Updated: 12-Jan-2015
 
 *   Resolve an Issue
     
