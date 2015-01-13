@@ -13,7 +13,7 @@
     *   The Gossip Table
 *   Music
     *   Gossip + News
-    *   YOK Live In Concert
+    *   Storytellers Live
     *   Top 20 Countdown
     *   Greatest Lists
     *   Music Videos
