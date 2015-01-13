@@ -4,34 +4,33 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
-    *   The Hobbit: The Battle of the Five Armies
+    *   Taken 3
+    *   Selma
     *   Into the Woods
+    *   The Hobbit: The Battle of the Five Armies
     *   Unbroken
-    *   The Woman In Black 2 Angel of Death
+    *   The Imitation Game
     *   Night at the Museum: Secret of the Tomb
     *   Annie (2014)
-    *   The Imitation Game
+    *   The Woman In Black 2 Angel of Death
     *   The Hunger Games: Mockingjay - Part 1
-    *   The Gambler
-    *   Big Hero 6
-    *   Wild
+    *   Inherent Vice
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Taken 3
-    *   Selma
-    *   Beloved Sisters
-    *   It's All So Quiet
-    *   Black November
+    *   Blackhat
+    *   Paddington
+    *   The Wedding Ringer
+    *   American Sniper
+    *   Spare Parts
+    *   Still Alice
+    *   Three Night Stand
+    *   Little Accidents
     *   See All Opening This Week
     
     Coming Soon
     
-    *   American Sniper
-    *   Paddington
-    *   The Wedding Ringer
-    *   Blackhat
     *   Mortdecai
     *   Strange Magic
     *   The Boy Next Door
@@ -39,6 +38,9 @@ Gift Cards | Offers | Visa Signature
     *   The Loft
     *   Project Almanac
     *   Jupiter Ascending
+    *   Seventh Son
+    *   The SpongeBob Movie: Sponge Out of Water
+    *   Fifty Shades of Grey
     *   See All Coming Soon
     
     Explore More
@@ -61,7 +63,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News What MPAA rating did 'Fifty Shades of Grey' end up with, and why? Read More Watch: The (full-size) 'Ant-Man' trailer is here, and it's great Read More Sequel News: Plot details and more revealed by 'The Lego Movie' creators Read More Explore More
+*   Movie News Featured Movie News 'Fifty Shades of Grey' tickets are on sale NOW, plus watch this extended TV spot! Read More Golden Globes 2015: The biggest winners (and losers) of the night Read More Sequel News: Plot details and more revealed by 'The Lego Movie' creators Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
