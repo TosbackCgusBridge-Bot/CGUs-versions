@@ -244,8 +244,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         6.  Bing Page Deals
         7.  Deals for Students and Educators
         8.  Outlet
-        9.  Google Play Offer
-        10.  See all Current Offers
+        9.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
