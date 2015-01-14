@@ -63,11 +63,11 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News 'Fifty Shades of Grey' tickets are on sale NOW, plus watch this extended TV spot! Read More Golden Globes 2015: The biggest winners (and losers) of the night Read More Sequel News: Plot details and more revealed by 'The Lego Movie' creators Read More Explore More
+*   Movie News Featured Movie News 'Fifty Shades of Grey' tickets are on sale NOW, plus watch this extended TV spot! Read More Golden Globes 2015: The biggest winners (and losers) of the night Read More Watch: See why the new 'Age of Ultron' trailer gives us chills Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
-    *   Holiday Movie Guide
+    *   Hero Central
     *   The Hobbit Movie Guide
     *   House of Screams
     *   Weekend Ticket
