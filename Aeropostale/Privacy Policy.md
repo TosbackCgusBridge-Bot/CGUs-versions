@@ -63,8 +63,8 @@ Aéropostale Go
     
     *   BOTTOMS
     *   Jeans
+    *   Joggers &. Sweats
     *   Pants
-    *   Sweatpants
     *   Shorts
     
     *   JACKETS + COATS
