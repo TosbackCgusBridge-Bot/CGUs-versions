@@ -1,11 +1,11 @@
 **Talent Network Privacy Policy**
 
   
-**Effective Date: January 24, 2014**  
+**Effective Date: December 19, 2014**  
   
 **Overview**
 
-CareerBuilder, LLC and its subsidiaries and divisions (collectively, “CareerBuilder”, “We” or “Our”) has drafted this Privacy Policy to ensure that you can clearly understand our data and security practices and policies as you use the Talent Network. This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase “Personal Information” refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to protect the security of your Personal Information and how you can contact us about our privacy practices. This Privacy Policy incorporates by reference the Terms and Conditions for the Talent Network, which apply to this Privacy Policy. When you visit the Talent Network or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy.
+CareerBuilder, LLC and its subsidiaries and divisions (collectively, “CareerBuilder”, “We” or “Our”) provides the Talent Network on behalf of the employer whose career and employment opportunities are promoted on this Talent Network. We have drafted this Privacy Policy to provide you notice of our data and security practices and policies as you use the Talent Network. This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase “Personal Information” refers to information that may be used to personally identify you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to help protect the security of your Personal Information and how you can contact us about our privacy practices. Please do not provide us with highly sensitive information such as Social Security Numbers, financial information or health records. This Privacy Policy incorporates by reference the Terms and Conditions for the Talent Network, which apply to this Privacy Policy. When you visit the Talent Network or provide us with information, you consent to our use and disclosure of the information we collect or receive as described in this Privacy Policy.
 
 Please review this Privacy Policy periodically as we may update it from time to time without prior notice to reflect changes in our data practices. We will post a prominent notice on the Talent Network to notify you of any significant changes to our Privacy Policy and indicate at the bottom of the notice when it was most recently updated. If we make material changes to the policy that will affect previously collected Personal Information, you will be notified and asked to consent to the updated Privacy Policy.
 
@@ -25,17 +25,14 @@ Click on one of the links below to jump directly to the listed section:
 
 **Information We Collect**
 
-We may obtain information about you from various sources, including the Talent Network, when you call or email us or communicate with us through social media, or when you participate in events, contests or other promotions. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties and publicly available information.
-
-The types of information we may obtain include:
+We may obtain information about you that you upload to our Talent Network or that may be provided to us by the employer whose career and employment opportunities are promoted on this Talent Network. The types of information we may obtain include:
 
 *   Your Personal Information, if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information in order to perform job searches or to read the content portions of the Talent Network.
+*   The name and email address of your friends or family members when you ask us to email a job posting on your behalf. Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the job posting from you.
 *   Username and password for the account you may establish on the Talent Network.
 *   Your demographic information (such as zip or postal code, occupation, education and experience, and if you choose to provide it, age, gender and race or ethnicity). We collect this information either through the registration process, from your resume or in the manner described above.
 *   Job search behavior and preferences, and a record of the searches that you make on the Talent Network. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches.
 *   Other details that you may submit to us or that may be included in the information provided to us by third parties.
-
-We collect information stored in your social media profile that you authorize us to access when you use your social media profile to enact features on the Talent Network, such as the ability to pre-populate our registration form or a job application.
 
 In addition, when you visit the Talent Network, we may collect certain information by automated means, such as cookies and web beacons, as described in more detail below. The information we may collect by automated means includes:
 
@@ -53,20 +50,20 @@ In addition, when you visit the Talent Network, we may collect certain informati
 We may use the information we obtain about you to:
 
 *   Register, manage and maintain your account on the Talent Network.
-*   Provide products or services you request.
 *   Maintain a record of the jobs you view or apply to on the Talent Network.
 *   Inform you of relevant job postings that may be of interest to you.
 *   Provide administrative notices or communications applicable to your use of the Talent Network.
+*   Send job postings to your friends or family members on your behalf.
 *   Respond to your questions and comments and provide customer support.
-*   Contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant services, educational or other career development opportunities). enable you to communicate with us through our blogs, social networks and other interactive media. and solicit your feedback and input. These communications will contain links for preference management and, where appropriate, unsubscribe links should you decide you do not want to receive further communications.
+*   Enable the employer customer to contact you and deliver marketing and promotional communications to you by email, text message or other means that, in some cases, is targeted to your interests (such as relevant services, educational or other career development opportunities) and to solicit your feedback and input. These communications will contain links for preference management and, where appropriate, unsubscribe links should you decide you do not want to receive further communications. Please note that if you unsubscribe from receiving marketing and promotional communications, you may continue to receive transactional and operational emails from us.
 *   Operate, evaluate and improve our business and the products and services we offer.
 *   Analyze and enhance our marketing communications and strategies (including by identifying when emails we have sent to you have been received and read).
-*   Analyze trends and statistics regarding visitors’ use of the Talent Network, mobile applications and social media assets, and the jobs viewed or applied to on the Talent Network.
+*   Analyze trends and statistics regarding visitors’ use of the Talent Network and the jobs viewed or applied to on the Talent Network.
 *   Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users.
 *   Enforce the Talent Network’ Terms and Conditions.
 *   Comply with applicable legal requirements and industry standards and our policies.
 
-We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network. We collect this information by automated means, such as cookies and web beacons, as described in more detail below.
+We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network. We collect this information by automated means, such as cookies and web beacons, as described in more detail below. .
 
 If we seek to use the information we obtain about you in other ways, we will provide specific notice and request your consent at the time of collection.
 
@@ -74,13 +71,13 @@ If we seek to use the information we obtain about you in other ways, we will pro
 
 **INFORMATION WE SHARE**
 
-When you join the Talent Network or apply for a job through the Talent Network, we provide your Personal Information to the employer customer who has hired CareerBuilder to create and operate this Talent Network. The employer customer may use your information to contact you directly.
+When you join the Talent Network or apply for a job through the Talent Network, we provide your Personal Information to the employer customer who has hired CareerBuilder to create and operate this Talent Network on its behalf, (including your e-mail address and other contact information that you publish on your resume). The employer customer may use your information to contact you directly.
 
-Additionally, when you join the Talent Network or apply for a job through the Talent Network, the information supplied by you is stored by CareerBuilder on a dedicated database on behalf of the employer customer. In addition, the information supplied by you also may become part of the employer customer’s database. In that instance, the use of such information by the employer customer will be subject to the privacy policy of that company, and CareerBuilder is not responsible for that company’s use of your information. CareerBuilder is not responsible for what the hosting/co-branding company, or any third party with whom you may share your Personal Information, subsequently does with your information. You should review the privacy policy of the hosting/co-branding company to ensure that you are comfortable with how it intends to use and disclose your information.
+Additionally, when you join the Talent Network or apply for a job through the Talent Network, the information supplied by you is stored by CareerBuilder on a dedicated database on behalf of the employer customer. In addition, the information supplied by you also may become part of the employer customer’s database. In that instance, the use of such information by the employer customer will be subject to the privacy policy of that company, and CareerBuilder is not responsible for that company’s use of your information. CareerBuilder is not responsible for what the employer customer, or any third party with whom you may share your Personal Information, subsequently does with your information. You should review the privacy policy of the employer customer to ensure that you are comfortable with how it intends to use and disclose your information.
 
-The employer customer for whom we operate this Talent Network will receive reports that contain non-personally identifiable information about its Talent Network. We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network.
+The employer customer for whom we act as a service provider to operate this Talent Network will receive reports that contain non-personally identifiable information about its Talent Network. We also use non-personally identifiable information and certain technical information about your computer and your access of the Talent Network (including your internet protocol address) in order to operate, maintain and manage the Talent Network.
 
-Additionally, we may combine certain non-personally identifiable aggregate data about our users and use such anonymous aggregate data to prepare reports for our users (typically employers or educators). “Aggregate Data” is the demographic information (such as zip code, age, gender, race or ethnicity) and employment information (such as occupation, education and experience) of many individuals that is combined together. Aggregate data is used to analyze the characteristics of various populations and does not identify any specific individuals. For example, an employer may purchase a report from CareerBuilder that states the number of accountants with at least five years experience that live within a certain geographic area. All such reports sold only contain aggregate data which cannot be used to identify any individuals.
+Additionally, we may combine certain non-personally identifiable aggregate data about our users and use such anonymous aggregate data to prepare reports for our users (typically employers or educators). “Aggregate Data” is the demographic information (such as zip code, age, gender, race or ethnicity) and employment information (such as occupation, education and experience) of many individuals that is combined together. Aggregate data is used to analyze the characteristics of various populations and does not identify any specific individuals. For example, an employer may purchase a report from CareerBuilder that states the number of accountants with at least five year’s experience that live within a certain geographic area. All such reports sold only contain aggregate data which cannot be used to identify any individuals.
 
 Other than instances where users opt to provide their Personal Information while registering to join the Talent Network, provide it via a job application, or otherwise provide permission to share it, we do not sell our users' Personal Information to anyone for any reason. All users should be aware, however, that when they choose to display or distribute Personal Information (such as their email address or other contact information) via the Talent Network or any other distribution method, that information can be collected and used by others. This may result in unsolicited messages, for which CareerBuilder is not responsible, from third parties.
 
@@ -97,7 +94,7 @@ In addition, Personal Information we have collected may be passed on to a third 
 
 A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” is also called a Web bug or a pixel tag or a clear GIF. Used in combination with cookies, a Web beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel, that is placed on a Web site or in an e-mail that is used to monitor the behavior of the user visiting the Web site or sending the e-mail.
 
-CareerBuilder uses cookies and other similar technologies for the convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. CareerBuilder also uses cookies to store non-personally identifying information about you such as past jobs viewed and job searches conducted by your computer in a cookie that it places on your computer. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches. Lastly, CareerBuilder uses cookies to ensure the proper functioning and efficiency of the Talent Network. Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please be aware, however, that some CareerBuilder features or services may not function properly without cookies.
+CareerBuilder uses cookies and other similar technologies for the convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. CareerBuilder also uses cookies to store non-personally identifying information about you such as past Talent Network jobs viewed and job searches within the Talent Network conducted by your computer in a cookie that it places on your computer. We do this in order to present you with job recommendations based on your interests as expressed previously through your searches. Lastly, CareerBuilder uses cookies to ensure the proper functioning and efficiency of the Talent Network. Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please be aware, however, that some CareerBuilder features or services may not function properly without cookies.
 
 CareerBuilder permits third party cookies on its Talent Network. For example, third party tools located on the Talent Network may use cookies to remember user preference settings. CareerBuilder also uses web analytics services provided by third parties, which use cookies to collect non-personal information about details of our users’ visits to the Talent Network (including IP addresses) and the resources they access on the Talent Network. These third party web analytics services provide us with reports based on this information in order to help us understand how visitors engage with the Talent Network.
 
@@ -109,7 +106,7 @@ Our Site does not respond to web browser do not track signals. However, to obtai
 
 **Update Your Account Information**
 
-You may access, update and amend some of the Personal Information included in your online account at any time by logging into your account and making the necessary changes. Please note, however, that you will not be able to delete certain information, including your resume, once such information has been uploaded to the Talent Network.
+You may access, update and amend some of the Personal Information in our custody and control at any time by logging into your account and making the necessary changes. Please note, however, that you will not be able to delete certain information, including your resume, once such information has been uploaded to the Talent Network.
 
 (Return to Top)
 
@@ -137,7 +134,7 @@ CareerBuilder maintains administrative, technical and physical safeguards design
 
 Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard Personal Information will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private. As a user of the Talent Network, you understand and agree that you assume all responsibility and risk for your use of the Talent Network, the internet generally, and the documents you post or access and for your conduct on and off the Talent Network.
 
-To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to the Talent Network. Please note that we will never ask for your CareerBuilder account user name or password via email.
+To further protect yourself, you should safeguard your CareerBuilder account user name and password and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to the Talent Network. Please note that we will never ask for your CareerBuilder account user name or password via email. You agree to notify CareerBuilder immediately of any unauthorized use of your account or password.
 
 (Return to Top)
 
