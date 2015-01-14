@@ -9,7 +9,7 @@ International Edition
 *   U.S.
 *   International
 *   Arabic
-*   Espanol
+*   Español
 *   Mexico
 *   Set edition preference
 
@@ -327,7 +327,7 @@ International Edition
 *   U.S.
 *   International
 *   Arabic
-*   Espanol
+*   Español
 *   Mexico
 *   Set edition preference
 
