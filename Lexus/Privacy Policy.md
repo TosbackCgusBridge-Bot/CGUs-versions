@@ -114,7 +114,7 @@ RC
 
 Starting at $42,790\*
 
-*   • 19/29 City/Hwy MPG\*
+*   • 19/28 City/Hwy MPG\*
 *   • RWD or AWD
 
 RC F
