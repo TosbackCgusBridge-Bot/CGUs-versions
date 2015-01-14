@@ -1,6 +1,6 @@
-Gear up for the New Year.
+Get what you really wanted.
 
-SALE.
+Shop Sale.
 
 Online Orders 800-522-8090
 
