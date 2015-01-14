@@ -88,11 +88,4 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
   
 **E-Mail Center**
 
-*   E-Mail Center - Kalender  
-    
-      
-    
-
-Der Tag bei t-online.de
-
-"Wir sind angewidert"  Französische Karikaturisten stellen sich gegen Pegida Pressestimmen zur Pariser Mega-Demo  "Dieses Frankreich unterwirft sich niemandem" Weltkriegs-Zwangsanleihe  Griechen fordern 11 Mrd. Euro von Deutschland Fehlschuss im Rom-Derby  Klose in der Kritik: "Niedergang eines Stars" 88 Prozent der Proben belastet  Resistente Keime in Discounter-Pute entdeckt "Süddeutsche Zeitung"  Drogerie-König Müller: Steuer-Selbstanzeige
+*   E-Mail Center - Kalender
