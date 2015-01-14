@@ -31,7 +31,7 @@ Burlington, MA 01803
 **PRIVACY POLICY**
 
   
-Your privacy is very important to Homestead Technologies, Inc. ("Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
+Your privacy is very important to Homestead Technologies, Inc. and its parent company Endurance International Group - West, Inc. (collectively referred to as "Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Homestead collects information from all end users of Homestead's Internet services (the "Services") including those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Services ("Users"). We also describe what we do with the information we collect and the choices Visitors and Users have concerning the collection and use of such information. Homestead requests that you read this Privacy Policy carefully.
 
@@ -87,8 +87,6 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
     
 19.  **REVISIONS TO THIS POLICY**. Homestead reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
     
-
-This file was last modified September 17, 2012
 
 *   Create a Website
     *   Create a Website
