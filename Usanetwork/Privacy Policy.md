@@ -131,6 +131,6 @@ If you have questions about the privacy practices of our online services, please
 more
 
 *   Comcast FCC Independent Programming Reports
-*   Privacy PolicyPrivacy Policy (Spanish)
+*   Privacy Policy
 *   Terms of Service
 *   © 2015 NBCUniversal, Inc. All rights reserved.
