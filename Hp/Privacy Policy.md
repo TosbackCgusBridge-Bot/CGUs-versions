@@ -262,7 +262,7 @@ HP has also committed to refer unresolved privacy complaints from E.U. citizens 
 
   
 
-**Canada, Most of Latin American, and US:**  
+**Canada, Most of Latin America, and US:**  
 HP Privacy Mailbox  
 11445 Compaq Center Drive W.  
 Mailstop 040307  
