@@ -366,7 +366,7 @@ Mandated certain additional safeguards for the following top-level domains: .sur
 
 In addition to the requirement for Regulated TLDs, you agree to comply with the following: (a) you will p Provide administrative contact information, which must be kept up‐to‐date, for the notification of complaints or reports of registration abuse, as well as the contact details of the relevant regulatory, or Industry self‐regulatory, bodies in their main place of business. (b) you represent that you possess any necessary authorizations, charters, licenses and/or other related credentials for participation in the sector associated with such Highly‐regulated TLD. and (c) you will report any material changes to the validity of you authorizations, charters, licenses and/or other related credentials for participation in the sector associated with the Highly‐regulated TLD to ensure you continue to conform to the appropriate regulations and licensing requirements and generally conduct your activities in the interests of the consumers they serve.
 
-23\. provisions specific to famous four TLD registrations: .bid. .trade
+23\. provisions specific to famous four TLD registrations: .bid. .cricket. .party. .science. .trade
 
 You agree to comply with the Registry's Acceptable Use policy and Terms and Service, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
