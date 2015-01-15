@@ -1,7 +1,7 @@
 Home Omniscope Download Forums Support Company   Knowledge Base
 
 *   Features by Edition
-*   Newest Features
+*   Latest Features
 *   Licensing/Activation
 *   Installation
 *   Getting Started
