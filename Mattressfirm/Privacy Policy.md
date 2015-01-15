@@ -39,6 +39,23 @@ The Site may contain links to third-party websites, which may have privacy polic
 **Unforeseen Circumstances**  
 As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities. In such transactions, personal information may be one of the transferred business assets. Also, in the event that Mattress Firm, Inc. or substantially all of its assets are acquired, your personal information may be one of the transferred assets.  
 
+**Third Party Advertising Partners**  
+We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet.  
+  
+These advertising service providers may collect non-identifiable information about your visits to our website, and your interactions with our products and services. Such non-identifiable information does not include your name, address, e-mail address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites.  
+  
+In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for products and services available from Mattress Firm.  
+  
+Currently, we use third party-placed tracking pixels and cookies from the following advertising delivery partners: TruEffect, Amazon and Google. In the future we may partner with other companies to provide interest-based advertising, both on and off sleeptrain.com. If this occurs, Mattress Firm provides you with an opportunity to opt out when these advertisements are served. You may manage your third-party advertising preferences by clicking on the links below:  
+  
+
+*   I would like to opt OUT of TruEffect Ads.
+*   I would like to opt OUT of Google Analytics Display Advertising.
+*   I would like to opt OUT of Amazon Ads.
+
+  
+If you would like more information about this practice and to know your choices for not having this information used by third-party service providers, please visit http://www.networkadvertising.org/managing/opt\_out.asp  
+
 **Changes to this Privacy Policy**  
 We may change this privacy policy from time to time. When we do, we will post the change(s) on the Site. If we change the policy in a material way, we will provide appropriate online notice to you.  
   
