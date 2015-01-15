@@ -310,9 +310,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Jurassic World Sweepstakes**
+Offers **American Sniper Free Gift**
 
-Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
+FREE E-BOOK DOWNLOAD of ‘American Sniper’ on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
 
 **The Hobbit Collectible Cards**
 
@@ -322,9 +322,9 @@ Limited edition movie gift cards. Claim your piece of Middle-Earth today. BUY GI
 
 You could win a high-octane entertainment package when you sign up for a FanAlert! ENTER NOW
 
-**Into the Woods Collectible Gift Cards**
+**Jurassic World Sweepstakes**
 
-Make wishes come true. Give a limited edition Into the Woods movie gift card. BUY GIFT CARDS
+Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
 New + Coming Soon
 
