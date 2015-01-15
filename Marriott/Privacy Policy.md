@@ -42,14 +42,6 @@ LATIN AMERICA
 *   Mexico (Español)
 *   Argentina (Español)
 
-MIDDLE EAST
-
-*   Latin America (Español)
-
-AFRICA
-
-*   Latin America (Español)
-
 INTERNATIONAL
 
 *   Middle East and Africa (اللغة العربية)
