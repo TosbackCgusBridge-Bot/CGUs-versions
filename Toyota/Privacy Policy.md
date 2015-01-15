@@ -58,8 +58,8 @@ Legal
 
 Your Privacy Rights
 
-**Personal Information Sharing Practices for 2013**  
-During 2013, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+**Personal Information Sharing Practices for 2014**  
+During 2014, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
 Learn more
 
   
@@ -276,9 +276,9 @@ Torrance, CA 90501
 
   
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2013**  
-(Effective as of January 01, 2014)  
-During 2013, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2014**  
+(Effective as of January 01, 2015)  
+During 2014, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
@@ -307,7 +307,7 @@ Toyota Customer Relations - Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501
 
-1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $825 for Cars, $885 for Small/Light Trucks (Sienna, RAV4, RAV4 EV, Highlander Gas, Highlander HV, FJ Cruiser, 4Runner, Tacoma and Venza), $1100 for Large Trucks (Tundra), and $925 for Large SUVs (Sequoia and Land Cruiser). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
+1.  Manufacturer's Suggested Retail Price, excludes the Delivery, Processing and Handling Fee of $825 for Cars, $885 for Small/Light Trucks (Sienna, RAV4, Highlander Gas, Highlander HV, 4Runner, Tacoma and Venza), $1100 for Large Trucks (Tundra), and $925 for Large SUVs (Sequoia and Land Cruiser). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. Actual dealer price will vary.
 2.  2014 EPA-estimated city/highway mileage. Actual mileage will vary.  
         2015 EPA-estimated city/highway mileage. Actual mileage will vary.
 3.  EPA-estimated driving range 103 miles when vehicle is fully charged. Excludes driving conditions. Actual mileage will vary.
