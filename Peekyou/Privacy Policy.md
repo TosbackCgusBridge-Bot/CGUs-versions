@@ -39,4 +39,4 @@ Good things to know about online information 1. PeekYou indexes only information
 
 Last update: January 1, 2014
 
-Copyright 2014 PeekYou LLC. A Patented People Search Process. Made in NY. All Rights Reserved.
+Copyright 2015 PeekYou LLC. A Patented People Search Process. Made in NY. All Rights Reserved.
