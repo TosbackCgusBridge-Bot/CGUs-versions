@@ -155,7 +155,7 @@ Did you know that: you can rate every game you play, you can share your favorite
 
 Switch to Mobile View
 
-Copyright © 2015 SPIL GAMES B.V. All rights reserved.
+Copyright © 2015 SPIL GAMES All rights reserved.
 
 *   Terms of Use
 *   Privacy Policy
