@@ -63,7 +63,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News 'Fifty Shades of Grey' tickets are on sale NOW, plus watch this extended TV spot! Read More Golden Globes 2015: The biggest winners (and losers) of the night Read More Watch: See why the new 'Age of Ultron' trailer gives us chills Read More Explore More
+*   Movie News Featured Movie News See the complete list of 2015 Oscar nominations here. what were the big surprises? Read More Hot Rumor of the Week: Is 'Spider-Man' closer to making a Marvel movie? Read More 'Avatar 2' gets bumped to 2017. when will we see the third and fourth movies? Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
