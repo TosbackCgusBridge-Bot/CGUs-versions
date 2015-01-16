@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (11)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  alessia
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (11)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13181576265
+true true L13315442036
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Jan 14 04:58:24 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Jan 15 09:06:16 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,7 +67,7 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
 
 *   Big Weekend Sale and Clearance
     
-    Starts now! January 14 through 19.
+    Ends January 19.
     
     shop the sale view store ad shop clearance shop the sale
     
@@ -80,21 +80,29 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
     
     Select styles.
     
-    shop the home sale shop kitchen and dining shop bedding and bath shop window shop furniture and mattresses shop luggage shop home decor
+    shop the home sale
     
-    30-50% Off Juicers and Blenders
+    40-50% Off Furniture and Mattresses
     
     Select styles.
     
+    shop furniture shop mattresses
+    
+    $1649 leather Possibilities track-arm 84" sofa. Originally $3300.
+    
     shop now
 
-Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
+Night and Day Doorbusters
+
+In store and online, Friday, 3PM through Saturday, 1PM CST. Use your coupon and save even more!
+
+view doorbusters store ad Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
 
 In store only.
 
 find a store
 
-40-50% Off Select Activewear for Her
+30-50% Off Select St. John's Bay for Her
 
 shop now
 
@@ -120,11 +128,11 @@ shop now
 
 40-50% Off Select Kids' Arizona
 
-shop now 70% Off Leather Furniture Clearance
+shop now 30-50% Off Home
 
 Select styles.
 
-shop now JCP Rewards
+shop now shop kitchen and dining shop bed and bath shop window shop furniture and mattresses shop luggage shop home decor shop cookware JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
