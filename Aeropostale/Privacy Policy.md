@@ -59,6 +59,7 @@ Aéropostale Go
     *   Polos
     *   Shirts
     *   Hoodies
+    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
