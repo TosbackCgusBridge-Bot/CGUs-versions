@@ -39,13 +39,13 @@ INFORMATION WE OBTAIN FROM YOU
 
 During the quoting, application, or claims handling processes you may give us Information such as your:
 
-*   name
-*   address
-*   phone number
-*   email address
+*   Name
+*   Address
+*   Phone number
+*   Email address
 *   Social Security number
-*   driver's license number
-*   date of birth
+*   Driver's license number
+*   Date of birth
 
 If you gave us your email address, GEICO may use it from time to time to notify you of such things as new services, special offers, or to confirm transactions. If you do not wish to be contacted by email for non-policy related communications, you may unsubscribe by following the instructions at the bottom of any GEICO email you receive.
 
