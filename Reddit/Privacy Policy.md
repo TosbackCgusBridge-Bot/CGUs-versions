@@ -53,7 +53,7 @@ Your Private Information Is Never for Sale
 
 reddit Will Not Disclose Your Information Unless Required by Law
 
-16 We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, we will do our best to provide you with notice in advance via reddit's private messaging system unless we are prohibited by court order from doing so (e.g., an order under 18 U.S.C. § 2705(b)). In cases involving the exploitation of minors and other exigent circumstances, we reserve the right to delay notice to users.
+16 We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, we will do our best to provide you with notice in advance via reddit's private messaging system unless we are prohibited by court order from doing so (e.g., an order under 18 U.S.C. § 2705(b)). We reserve the right to delay notice to users in cases involving the exploitation of minors and when we believe a delay is necessary to prevent imminent and serious bodily harm to a person.
 
 Your Information May Be Disclosed By Us In An Emergency or to Keep our Services Running
 
