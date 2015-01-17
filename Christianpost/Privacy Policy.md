@@ -61,16 +61,16 @@ The Christian Post does not grant permission for its articles to appear on a non
 
 For any other use, advance permission must be obtained from the author. Please contact the general administrator for copyright permission via our Contact Us page or by sending a letter and self-addressed envelope to the address below:
 
-The Christian Post  
-1919 M Street NW, Suite 100B  
-Washington, DC 20036  
-Fax: (202) 280-1313
+The Christian Post 1400 Eye St NW  
+Suite 375  
+Washington, DC 20005  
+General Information: 202-506-4706
 
 In the event you believe that any content posted on the Web site infringes your copyright or other intellectual-property rights, you may notify ChristianPost.com by providing the information required by the Online Copyright Infringement Liability Limitation Action of the Digital Millennium Copyright Act, 17 U.S.C. 512, to ChristianPost.com's copyright administrator:
 
-The Christian Post  
-1919 M Street NW, Suite 100B  
-Washington, DC 20036  
+The Christian Post 1400 Eye St NW  
+Suite 375  
+Washington, DC 20005  
 Attention: Intellectual Property Rights  
 
 User Generated Content
