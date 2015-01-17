@@ -21,6 +21,8 @@ In order to sign up for a Wikia account, your chosen username, a valid email add
 
 If you request the creation of a Wikia community, all details submitted in regard to this may be made public.
 
+Cookies
+
 Wikia also may send one or more cookies - a small file that lives in your web browser that helps the Service operate with full functionality (such as keeping you logged into the service). Most web browsers allow you to disable cookies, and you are welcome to continue to use the Service if you choose to do so. However, some of the Service’s features may not function properly if cookies are disabled. Wikia uses some of those cookies and the data tracked by some of those cookies in conjunction with various advertisers and advertising networks. Wikia has no control over the cookies and other information collected by advertising and advertising networks which service ads on Wikia, and this policy does not apply to the information collected in regard to either of those services.
 
 Wikia’s user data is stored in the United States, and its servers log some information whenever you access the Service. information such as your IP address, the time of your visit, your browser type and your browser's language setting.
