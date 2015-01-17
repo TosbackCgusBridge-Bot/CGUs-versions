@@ -286,13 +286,7 @@ You agree to comply with Registry’s Registration guidelines and policies loc
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
 
-**15\. provisions specific to .BIO Registrations**
-
-You agree to comply with Registry’s policies, including all applicable public interest commitments, and community registration policies, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD.
-
-You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
-
-**16\. provisions specific to .BIZ registrations**
+**15\. provisions specific to .BIZ registratio\[ns**
 
 _Restrictions_.  Registrations in the .BIZ TLD must be used or intended to be used primarily for bona fide business or commercial purposes. For purposes of these restrictions, "bona fide business or commercial use" means the bona fide use or bona fide intent to use the domain name or any content, software, materials, graphics or other information thereon, to permit Internet users to access one or more host computers through the DNS (i) to exchange goods, services, or property of any kind. (ii) in the ordinary course of trade or business. or (iii) to facilitate the exchange of goods, services, information, or property of any kind or the ordinary course of trade or business. Registering a domain name solely for the purposes of selling, trading or leasing the domain name for compensation, or for the unsolicited offering to sell, trade or lease the domain name for compensation does not constitute a "bona fide business or commercial use" of that domain name.
 
@@ -318,7 +312,7 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless us and the
 
 _One Year Registration_.  If you are registering a .BIZ domain name and you elect to take advantage of special pricing applicable to one-year registrations, we will automatically renew your domain name for an additional one-year period at the end of the first year term by taking payment from the Payment Method you have on file, unless you notify us that you do not wish to renew. You will be notified and given the opportunity to accept or decline the one-year renewal prior to your domain name expiration date. In the event you decide not to renew your one-year .BIZ domain name for a second year, your domain name registration will automatically revert back to us and we will gain full rights of registration to such domain name. You agree that if you delete or transfer your .BIZ domain name during the first year, you will automatically be charged the second year renewal fees.
 
-**17\. provisions specific to .BUILD registrations**
+**16\. provisions specific to .BUILD registrations**
 
 You agree to be bound by the terms and conditions of the initial launch of the Registry TLD, including without limitation the sunrise period and the land rush period, and the Start-Up Policies, and further to acknowledge that Registry Operator has no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the sunrise period or the land rush period, including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute over a sunrise registration.
 
@@ -326,29 +320,29 @@ Submit to proceedings commenced under other dispute policies as set forth by Reg
 
 Notwithstanding anything in this Agreement to the contrary, Plan Bee, LLC, the Registry Operator of the .BUILD TLD, is and shall be an intended third party beneficiary of this Agreement. As such the parties to this agreement acknowledge and agree that the third party beneficiary rights of Plan Bee, LLC have vested and that Plan Bee, LLC has relied on its third party beneficiary rights under this Agreement in agreeing to GoDaddy being a registrar for the .BUILD TLD. Additionally, the third party beneficiary rights of Plan Bee, LLC shall survive any termination of this Agreement.
 
-**18\. provisions specific to .BUzz registrations**
+**17\. provisions specific to .BUzz registrations**
 
 You agree to comply with Registry’s Acceptable Use policies and Terms of Service, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD.
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
 
-**19\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .engineering. .exchange. .gripe. .ink. .RESt. .wiki. .xyz**
+**18\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .engineering. .exchange. .gripe. .ink. .RESt. .wiki. .xyz**
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
 You agree to indemnify, defend and hold harmless Registry Operator, CentralNic and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-**20\. provisions specific to .COM registrations**
+**19\. provisions specific to .COM registrations**
 
 You agree to indemnify, defend and hold harmless the .COM Registry Operator, VeriSign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
 
-21\. provisions specific to .club registrations
+20\. provisions specific to .club registrations
 
 You agree to comply with the Registry's Acceptable Use policy and Terms and Service, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
 You will (within thirty (30) days of demand) indemnify, defend and hold harmless the Registry Operator, Registry Service Provider, Registrar and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without Registrar’s or Registry Operator’s prior written consent, which consent shall not be unreasonably withheld and that this indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
-22\. provisions specific to all Donuts TLD registrations: **.academy; .accountants. .agency. .associates. .bargains. .bike. .boutique. .builders. .business. .cab. .camera. .camp. .capital. .cards. .care. .careers. .cash. .catering. .center. .cheap. .church. .city; .claims. .cleaning. .clinic. .clothing. .coach. .codes. .coffee. .community. .company. .computer. .condos. .construction. .contractors;  .cool. .credit. .creditcard. .cruises. .dating. .deals. .delivery. .dental. .diamonds. .digital. .direct.. .directory. .discount. .domains. .education. .email. .energy. .engineering. .enterprises. .estate. .equipment;  .events. .exchange. .expert. .exposed. .fail. .farm. .finance. .financial. .fish. .fitness. .flights. .florist. .foundation. .fund. .furniture. .gallery. .gift; .glass. .graphics. .gratis. .gripe. .guide. .guru. .haus. .healthcare. .holdings. .holiday. .house. .immo. .industries. .institute. .insure. .international; .investments. .kitchen. .land. .lease. .legal. .life. .lighting. .limited. .limo. .loans. .maison. .management. .marketing; .media. .memorial. .money. .network. .partners. .parts. .photography. .photos. .pictures. .pizza. .place. .plumbing. .productions. .properties; .recipes. .reisen; .rentals. .restaurant. .repair. .report. .sarl. .schule. .services. .shoes. .singles. .solar. .solutions. .supplies. .supply. .support. .surgery. .systems. .tax. .technology. .tienda. .tips. .today. .tools. .town. .toys. .training. .university. .vacations. .ventures. .viajes. .villas. .vision. .voyage. .watch. .works. .world. .wtf. .zone**
+21\. provisions specific to all Donuts TLD registrations: **.academy; .accountants. .agency. .associates. .bargains. .bike. .boutique. .builders. .business. .cab. .camera. .camp. .capital. .cards. .care. .careers. .cash. .catering. .center. .cheap. .church. .city; .claims. .cleaning. .clinic. .clothing. .coach. .codes. .coffee. .community. .company. .computer. .condos. .construction. .contractors;  .cool. .credit. .creditcard. .cruises. .dating. .deals. .delivery. .dental. .diamonds. .digital. .direct.. .directory. .discount. .domains. .education. .email. .energy. .engineering. .enterprises. .estate. .equipment;  .events. .exchange. .expert. .exposed. .fail. .farm. .finance. .financial. .fish. .fitness. .flights. .florist. .foundation. .fund. .furniture. .gallery. .gift; .glass. .graphics. .gratis. .gripe. .guide. .guru. .haus. .healthcare. .holdings. .holiday. .house. .immo. .industries. .institute. .insure. .international; .investments. .kitchen. .land. .lease. .legal. .life. .lighting. .limited. .limo. .loans. .maison. .management. .marketing; .media. .memorial. .money. .network. .partners. .parts. .photography. .photos. .pictures. .pizza. .place. .plumbing. .productions. .properties; .recipes. .reisen; .rentals. .restaurant. .repair. .report. .sarl. .schule. .services. .shoes. .singles. .solar. .solutions. .supplies. .supply. .support. .surgery. .systems. .tax. .technology. .tienda. .tips. .today. .tools. .town. .toys. .training. .university. .vacations. .ventures. .viajes. .villas. .vision. .voyage. .watch. .works. .world. .wtf. .zone**
 
 You shall, within thirty days of demand, indemnify, defend and hold harmless the Registry, Donuts’ service providers, Registrar and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without our prior written consent, which consent shall not be unreasonably withheld.  This indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
@@ -366,19 +360,19 @@ Mandated certain additional safeguards for the following top-level domains: .sur
 
 In addition to the requirement for Regulated TLDs, you agree to comply with the following: (a) you will p Provide administrative contact information, which must be kept up‐to‐date, for the notification of complaints or reports of registration abuse, as well as the contact details of the relevant regulatory, or Industry self‐regulatory, bodies in their main place of business. (b) you represent that you possess any necessary authorizations, charters, licenses and/or other related credentials for participation in the sector associated with such Highly‐regulated TLD. and (c) you will report any material changes to the validity of you authorizations, charters, licenses and/or other related credentials for participation in the sector associated with the Highly‐regulated TLD to ensure you continue to conform to the appropriate regulations and licensing requirements and generally conduct your activities in the interests of the consumers they serve.
 
-23\. provisions specific to famous four TLD registrations: .bid. .cricket. .party. .science. .trade
+22\. provisions specific to famous four TLD registrations: .bid. .cricket. .party. .science. .trade
 
 You agree to comply with the Registry's Acceptable Use policy and Terms and Service, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
 You will indemnify, defend and hold harmless the Registry Operator, and its subcontractors (including the registry back-end services provider) and their respective directors, officers, employees, affiliates and agents of each of them from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without Registrar’s or Registry Operator’s prior written consent, which consent shall not be unreasonably withheld and that this indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
-24\. provisions specific to GMO Registry registrations: .nagoya. .tokyo. .yokohama
+23\. provisions specific to GMO Registry registrations: .nagoya. .tokyo. .yokohama
 
 You agree to comply with Registry’s Acceptable Use policies and Registration Policies, if any, as they may be instituted or updated from time to time and published on the Registry website located here, and incorporated herein by reference.
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with your domain name registration.  This indemnification obligation survive the termination or expiration of the Agreement.
 
-**25\. provisions specific to .INFO registrations**
+**24\. provisions specific to .INFO registrations**
 
 _Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the .INFO Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) acknowledge that the Registry Operator will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise Period or the Land Rush Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute over a Sunrise Registration.
 
@@ -388,7 +382,7 @@ _Reservation of Rights_.  We and the .INFO Registry Operator expressly reserve 
 
 _One Year Registration_.  If you are registering a .INFO domain name and you elect to take advantage of special pricing applicable to one-year registrations, we will automatically renew your domain name for an additional one-year period at the end of the first year term by taking payment from the Payment Method you have on file, unless you notify us that you do not wish to renew. You will be notified and given the opportunity to accept or decline the one-year renewal prior to your domain name expiration date. In the event you decide not to renew your one-year .INFO domain name for a second year, your domain name registration will automatically revert back to us and we will gain full rights of registration to such domain name. You agree that if you delete or transfer your .INFO domain name during the first year, you will automatically be charged the second year renewal fees.
 
-**26\. PROVISIONS SPECIFIC TO .JOBS REGISTRATIONS**
+**25\. PROVISIONS SPECIFIC TO .JOBS REGISTRATIONS**
 
 _Acknowledgements_.  You acknowledge and agree (i) to provide information regarding membership in a Human Resource Association, and the identity of any such association. (ii) to provide the URL of your existing company website. (iii) that you have read, understood and agree to be bound by the .JOBS Registry-Registrant Agreement (which is incorporated herein) as amended from time to time, the registrant eligibility requirements and the use restrictions. (iv) to abide by the SHRM Code of Ethics (which is incorporated herein). and (v) that the Registry Operator is an intended third-party beneficiary of this Agreement, with a right to enforce the terms and provisions contained herein.
 
@@ -396,11 +390,11 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .JOBS 
 
 _Reservation of Rights_.  We and the .JOBS Registry Operator expressly reserve the right to revoke, cancel, deny, transfer, suspend, terminate or otherwise modify the rights of a Registered Name Holder, without any notice thereto, in the event of non-compliance by the Registered Name Holder with any provision of this Agreement, the Registry-Registrant Agreement, the registrant eligibility requirements and the use restrictions including, but not limited to, submission or use of untruthful, incomplete or fraudulent registration information during the application process or subsequently thereto.
 
-27\. PROVISIONS SPECIFIC TO .LTDA REGISTRATIONS
+26\. PROVISIONS SPECIFIC TO .LTDA REGISTRATIONS
 
 You agree to be bound by the Registry polices located here.  You agree to indemnify, defend and hold harmless the Registry and its subcontractors, and its and their directors, officers, employees, agents and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to, for any reason whatsoever, your domain name registration.  This obligation shall survive expiration or termination of this Agreement. 
 
-28\. provisions specific to .LUXURY Registrations
+27\. provisions specific to .LUXURY Registrations
 
 You agree to be bound by the terms and conditions of the initial launch of the Registry TLD, including without limitation the sunrise period and the land rush period, and the Start-Up Policies, and further to acknowledge that Registry Operator has no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the sunrise period or the land rush period, including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute over a sunrise registration.
 
@@ -408,7 +402,7 @@ Submit to proceedings commenced under other dispute policies as set forth by Reg
 
 Notwithstanding anything in this Agreement to the contrary, Luxury Partners, LLC, the Registry Operator of the .LUXURY TLD, is and shall be an intended third party beneficiary of this Agreement. As such the parties to this agreement acknowledge and agree that the third party beneficiary rights of Luxury Partners, LLC have vested and that Luxury Partners, LLC has relied on its third party beneficiary rights under this Agreement in agreeing to GoDaddy being a registrar for the .LUXURY TLD. Additionally, the third party beneficiary rights of Luxury Partners, LLC shall survive any termination of this Agreement.
 
-**29\. provisions specific to .MOBI Registrations**
+**28\. provisions specific to .MOBI Registrations**
 
 _Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) that the Registry Operator and the Registry Service Provider will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the limited industry launch, Sunrise Period, Land Rush Period, the Sunrise Dispute Resolution Policy, the Premium Name Allocation Process, and the General Registration Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute made during the limited industry launch or over a Sunrise Registration.
 
@@ -422,7 +416,7 @@ _Third Party Beneficiary_.  Notwithstanding anything in this Agreement to the c
 
 _Instant Mobilizer_. You are hereby granted a personal, revocable, non-exclusive, non-transferable, non-assignable, non-sublicensable license to use the Instant Mobilizer service (“Service”), provided, however, You abide by the terms and conditions set forth. You shall not alter, modify, adapt or translate the whole or part of the Service in any way whatsoever. You may not create derivative works based on the Service. You may not rent, lease, assign, dispose of, novate, sub-license or otherwise transfer any of its rights to use the Service to any third party.  In the event that the volume of traffic to You from Your use of the Service is sufficient so as to jeopardize the provision of Service for other end users, we and our licensors reserve the right to, at its sole discretion, permanently or temporarily, discontinue Your use of the Service. For the avoidance of doubt, the volume of traffic generated by You should not exceed two thousand (2,000) page views per day.  You acknowledge and agree the text "Instant Mobilizer from dotMobi" or equivalent, will be inserted at the footer of Your site.  In the event a dotMobi domain to which the Service is being provided is transferred to another domain name registrar, the Service will be interrupted on that dotMobi domain, and Service will not be restored if the new registrar does not offer the Service. 
 
-30\. provisions specific to .MENU Registrations
+29\. provisions specific to .MENU Registrations
 
 You agree to be bound by the terms and conditions of the initial launch of the Registry TLD, including without limitation the sunrise period and the land rush period, and the Start-Up Policies, and further to acknowledge that Registry Operator has no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the sunrise period or the land rush period, including, without limitation: (a) the ability or inability of a registrant to obtain a Registered Name during these periods, and (b) the results of any dispute over a sunrise registration.
 
@@ -430,17 +424,17 @@ Submit to proceedings commenced under other dispute policies as set forth by Reg
 
 Notwithstanding anything in this Agreement to the contrary, Wedding TLD2, LLC, the Registry Operator of the .MENU TLD, is and shall be an intended third party beneficiary of this Agreement.  As such the parties to this agreement acknowledge and agree that the third party beneficiary rights of Wedding TLD2, LLC have vested and that Wedding TLD2, LLC has relied on its third party beneficiary rights under this Agreement in agreeing to GoDaddy being a registrar for the .MENU TLD.  Additionally, the third party beneficiary rights of Wedding TLD2, LLC shall survive any termination of this Agreement.
 
-31\. PROVISIONS SPECIFIC TO Minds and Machines TLDS: .casa. .London; .work. .yoga REGISTRATIONS
+30\. PROVISIONS SPECIFIC TO Minds and Machines TLDS: .casa. .London; .work. .yoga REGISTRATIONS
 
 You agree to be bound by the Registry polices located here.  You agree to indemnify, defend and hold harmless the Registry and its subcontractors, and its and their directors, officers, employees, agents and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to, for any reason whatsoever, your domain name registration.  This obligation shall survive expiration or termination of this Agreement.  
 
-32\. provisions specific to .Moe Registrations
+31\. provisions specific to .Moe Registrations
 
 You agree to comply with policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
 You agree to indemnify, defend and hold harmless Registry Operator, and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-**33\. provisions specific to .NAME registrATIONS**
+**32\. provisions specific to .NAME registrATIONS**
 
 _Eligibility Requirements_.  As a .NAME domain name registrant, you hereby certify to the best of your knowledge that the name you are registering is your legal, personal name, or that you own the intellectual property rights to that name. If at any time it is discovered that it is not your legal personal name, or your intellectual property, the .NAME Registry Operator, Global Name Registry (GNR) and us reserve the right to cancel your registration without refund, or transfer it to another party. In addition to the above, you agree to be bound by the provisions of the Eligibility Requirements Dispute Resolution Policy, which is incorporated herein.
 
@@ -454,11 +448,11 @@ _Defensive Registration_.  A Defensive Registration is a registration designed 
 
 _Acceptable Use Policy_.  You agree to be bound by the .NAME Acceptable Use Policy, which is hereby incorporated by reference. Among other limitations, this policy prohibits you from using your .NAME Email to engage in Spamming activities. You will be limited to a maximum of five hundred (500) messages sent from your .NAME at a time.
 
-**34\. provisions specific to.NET registrations**
+**33\. provisions specific to.NET registrations**
 
 You agree to indemnify, defend and hold harmless the .NET Registry Operator, VeriSign, Inc., and its directors, officers, employees, agents, and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to the Registered Name holder's domain name registration.
 
-**35\. provisions specific to .ORG registrations**
+**34\. provisions specific to .ORG registrations**
 
 _Acknowledgements_.  You acknowledge and agree to: (i) consent to the use, copying, distribution, publication, modification and other processing of Registered Name Holder's Personal Data by the Registry Operator and its designees and agents. (ii) submit to proceedings commenced under ICANN's Uniform Domain Name Dispute Resolution Policy. (iii) immediately correct and update the registration information for the Registered Name during the registration term for the Registered Name. and (iv) acknowledge that the Registry Operator will have no liability of any kind for any loss or liability resulting from the proceedings and processes relating to the Sunrise Period or the Land Rush Period including, without limitation, the ability or inability of a registrant to obtain a Registered Name during these periods and the results of any dispute over a Sunrise Registration.
 
@@ -466,25 +460,33 @@ _Indemnification_.  You agree to indemnify, defend and hold harmless the .ORG R
 
 _Reservation of Rights_.  We and the Registry Operator expressly reserve the right to deny, cancel or transfer any registration or transaction, or place any registered domain name on registry lock, hold or similar status, that we deem necessary, in our discretion, to protect the integrity and stability of the registry, to comply with any applicable laws, government rules or requirements, requests of law enforcement, in compliance with any dispute resolution process, to avoid any liability, civil or criminal, on the part of us and/or Registry Operator, as well as their affiliates, subsidiaries, officers, directors, and employees, per the terms of this Agreement, or to correct mistakes made by Registry Operator or us in connection with the domain name registration. We and Registry Operator also reserve the right to place on registry lock, hold or similar status a domain name during resolution of a dispute.
 
-36\. provisions specific to .Qpon:
+35\. provisions specific to .Qpon:
 
 You agree to comply with policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
 You agree to indemnify, defend and hold harmless Registry Operator, and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-37\. provisions specific to .Quebec:
+36\. provisions specific to .Quebec:
 
 You agree to comply with policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator, located here, and hereby incorporated by reference, and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
 You agree to indemnify, defend and hold harmless Registry Operator, and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-38\. provisions specific to ALL Radix TLD registrations: .host. .press. .space. .website.
+You acknowledge having read and understood and agrees to be bound by the terms and conditions of the CentralNic Dispute Resolution Policy, available at http://www.centralnic.com/support/dispute
+
+37\. provisions specific to ALL Radix TLD registrations: .host. .press. .space. .website.
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
 You agree to indemnify, defend and hold harmless Registry Operator, CentralNic and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
 
-You acknowledge having read and understood and agrees to be bound by the terms and conditions of the CentralNic Dispute Resolution Policy, available at http://www.centralnic.com/support/dispute
+38\. provisions specific to ALL Starting Dot TLD registrations: .archi. .bio
+
+You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
+
+You agree to indemnify, defend and hold harmless Registry Operator and their subcontractors, and the directors, officers, employees, affiliates and agents of each of them, from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses, arising out of or relating to your domain name registration. This indemnification obligation survive the termination or expiration of the Agreement.
+
+_By registering this domain name, you certify that the registrant of this_ _domain is an individual professional architect (or an architecture firm) registered as a member of a_ _national architects association authorized by the registry operator, or an architecture-related_ _organization authorized by the registry operator._
 
 39\. provisions specific to ALL Top Level Domain Holdings registrations: .beers. .cooking. .country. .fishing. .horse. .kiwi. .rodeo. .surf. .vodka
 
