@@ -2,7 +2,7 @@ Cookie consent
 
 We use cookies to improve your experience on this website. By continuing to browse our site you agree to our use of cookies. Tell me more | Cookie preferences
 
-Breaking News You've selected the International Edition. Would you like to make this your default edition?  Yes  |  No Please select your default edition:InternationalU.S.Mexico
+Breaking News Please select your default edition:InternationalU.S.Mexico
 
 International Edition
 
