@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (20)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  
+*   Hello  DEBORAH
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (20)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13315442036
+true true L13320370747
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Jan 15 09:06:16 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Fri Jan 16 11:18:52 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,7 +67,7 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
 
 *   Big Weekend Sale and Clearance
     
-    Ends January 19.
+    5-Day Sale! January 15 through 19.
     
     shop the sale view store ad shop clearance shop the sale
     
@@ -76,11 +76,7 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
     Select styles.
     
     shop now shop juniors' denim shop kids' denim shop men's denim
-*   Big Weekend Home Sale 30-50% Off
-    
-    Select styles.
-    
-    shop the home sale
+*   Big Weekend Home Sale shop the home sale
     
     40-50% Off Furniture and Mattresses
     
@@ -96,7 +92,7 @@ Night and Day Doorbusters
 
 In store and online, Friday, 3PM through Saturday, 1PM CST. Use your coupon and save even more!
 
-view doorbusters store ad Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
+shop doorbusters view doorbusters store ad Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
 
 In store only.
 
