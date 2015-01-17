@@ -73,6 +73,7 @@ Instant Savings Offers
 *   There are no rain checks, credits or time extensions on Instant Savings for any reason (e.g., out-of-stock, item cancellation, or regional restrictions).
 *   Instant Savings are non-transferable and may only be redeemed for the product and item numbers designated in the promotion.
 *   Select Instant Savings are redeemable online at SamsClub.com. The individual Sam's Club Instant Savings offer will note which items are available online for redemption. The Instant Savings discount will be applied at checkout. Once applied at checkout, approximately one hour from placing the order, the discount will be deducted from the member's available number of offers.
+*   If the Instant Savings amount exceeds the price of an item, the price of the item shall be zero and the member shall not be paid the difference in price.
 
 Changes to the Instant Savings Program
 
