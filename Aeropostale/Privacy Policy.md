@@ -25,7 +25,7 @@ Aéropostale Go
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
-    *   Sweaters + Cardigans
+    *   Sweaters + Cardigan
     
     *   BOTTOMS
     *   Jeans
