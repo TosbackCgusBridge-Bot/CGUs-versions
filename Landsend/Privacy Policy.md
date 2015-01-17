@@ -258,18 +258,26 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Backpacks &. Bags
             *   Swim
 *   Sale
-    *   *   Back to Main Menu Sale
-        *   Shop Sale
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Home
-        
-        *   Clearance
-        *   On The Counter
-        *   Not Quite Perfect
-        *   Clearance - Last Chance
+    *   Back to Main Menu
+    *   *   Sale
+            *   Back to Sale Sale
+            *   Women
+            *   Men
+            *   Girls
+            *   Boys
+            *   Home
+            *   School Uniform
+    *   *   Clearance
+            *   Back to Clearance Clearance
+            *   Women
+            *   Men
+            *   Girls
+            *   Boys
+            *   Home
+            *   On The Counter
+            *   Not Quite Perfect
+            *   In-season Savings
+            *   Clearance - Last Chance
 *   My Account
     *   Back to Main Menu My Account
     *   Sign In
