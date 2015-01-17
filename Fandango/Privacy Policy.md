@@ -63,7 +63,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News See the complete list of 2015 Oscar nominations here. what were the big surprises? Read More Hot Rumor of the Week: Is 'Spider-Man' closer to making a Marvel movie? Read More 'Avatar 2' gets bumped to 2017. when will we see the third and fourth movies? Read More Explore More
+*   Movie News Featured Movie News See the complete list of 2015 Oscar nominations here. what were the big surprises? Read More Hot Rumor of the Week: Is 'Spider-Man' closer to making a Marvel movie? Read More Tom Hardy drops out of 'Suicide Squad' -- you won't believe who may replace him! Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
@@ -310,13 +310,13 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **American Sniper Free Gift**
+Offers **Parents, You’re Invited!**
 
-FREE E-BOOK DOWNLOAD of ‘American Sniper’ on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
+Receive movie perks and tips just for families. SIGN ME UP
 
-**The Hobbit Collectible Cards**
+**Fifty Shades of Grey Collectible Gift Cards**
 
-Limited edition movie gift cards. Claim your piece of Middle-Earth today. BUY GIFT CARDS
+Give Grey this Valentine's. Fandango Fifty Shades of Grey Movie Gift Cards. BUY GIFT CARDS
 
 **Furious 7 Sweepstakes**
 
