@@ -6,7 +6,7 @@ a.     It is your responsibility to periodically check the rules and make yo
 
 2.     Only members who have registered with full registration data including real name and a valid e-mail address are permitted in community areas. Failure to register, or registration with false information, especially misrepresentation of age, gender or email address, is grounds for immediate blocking of access. Additionally, it is the member's responsibility to update and maintain a valid email address with their membership. 
 
-a.     Chat, forums, videos, blogs, article comments, profile comments, and the prayer wall are all considered "community areas". 
+a.     Forums, videos, blogs, article comments and profile comments are all considered "community areas". 
 
 b.     Use of multiple names is limited to no more than two usernames. Given the benefits of anonymity in discussing certain personal issues which may appropriately be discussed in some community settings, use of a different username to protect privacy may be appropriate. Community volunteers may also wish to use different identities for monitoring and personal interaction. However, individuals who have been locked, barred, secured, or banned are not permitted to create a new account as a way to circumnavigate the consequences for violating the Terms of Service. Salem Web Network reserves the right to terminate any new accounts which have been established in this manner as well as remove any content posted. 
 
@@ -104,17 +104,17 @@ a.     We want this community to be a fun place to learn and interact with o
 
 a.     Move any discussion in community areas to a different folder or room for any reason at our sole discretion. 
 
-b.     Edit any discussion, post, or chat room title for any reason at our sole discretion. 
+b.     Edit any discussion or post title for any reason at our sole discretion. 
 
 c.     Respond to the violation of any of the above Terms of Service with any of the responses available to community administrators and moderators without warning including involuntary movement to another area, "booting" (involuntary expulsion from the online community), and various forms of prevention of access to all community services including "Private Messages" for any duration of time including permanently at its sole discretion. 
 
 d.     To report any violations of the Terms of Service to law enforcement and/or the Internet Community Alliance. 
 
-e.     **To bar, restrict, block any user including Internet Community Alliance offenders for any reason as well as remove any content or chat rooms at our sole discretion.**
+e.     **To bar, restrict, block any user including Internet Community Alliance offenders for any reason as well as remove any content at our sole discretion.**
 
 26.  Please email communitycare@godtube.com with any questions, comments, or concerns regarding our Terms of Service. 
 
-a.     To report a possible violation of the Community Guidelines in forums please use the report link located at the bottom of every post. To report in chat please click on the offender link at the bottom of the page. 
+a.     To report a possible violation of the Community Guidelines in forums please use the report link located at the bottom of every post.
 
 b.     Salem Web Network reserves the right to revise the Community Guidelines at any time, at its sole discretion, and without prior notice. therefore, please refer to this page from time to time. 
 
