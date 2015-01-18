@@ -95,7 +95,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Specials
     *   Valentine's Day Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Winter Clearance Sale - **__Up to 75% off select items!\*__** Limited Time Only.
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Shop Our Winter Clearance Specials. Limited Time Only.
 
 1.  Home
 2.  Customer Service
