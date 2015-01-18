@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (20)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  DEBORAH
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (20)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13320370747
+true true L13321313995
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Fri Jan 16 11:18:52 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Jan 17 04:07:33 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -189,21 +189,21 @@ ABOUT US
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
-*   black friday sales
-*   cyber monday sales
+*   prom dresses
+*   patio furniture
 *   gift cards
 *   comforters
 *   converse shoes
 *   window shades
 *   samsonite luggage
 *   womens dresses
-*   womens winter coats
-*   mens winter coats
 *   bathroom rugs
 *   mens wedding bands
 *   womens boots
 *   mens scarves
 *   bath towels
+*   yoga pants
+*   mens suits
 
 *   copyright
 *   legal notice
