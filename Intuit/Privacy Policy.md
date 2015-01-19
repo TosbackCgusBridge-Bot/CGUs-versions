@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13321313995
+true true L13326281864
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Jan 17 04:07:33 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun Jan 18 05:06:16 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,90 +45,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
+Big Weekend Sale and Clearance
 
-Ends January 19. Code: JANSALE
+Ends January 19.
 
-Extra 25% Off\* $100 or more with your JCPenney Credit Card.
+shop the sale view store ad shop clearance shop clearance
 
-Or, Extra 20% Off\* with any other method of payment.
+40-50% Off Furniture and Mattresses
 
-In Store and Online
+Select styles.
 
-Or, Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-\*See exclusions and details. get coupon
-
-*   Big Weekend Sale and Clearance
-    
-    5-Day Sale! January 15 through 19.
-    
-    shop the sale view store ad shop clearance shop the sale
-    
-    40-50% Off Denim for the Family
-    
-    Select styles.
-    
-    shop now shop juniors' denim shop kids' denim shop men's denim
-*   Big Weekend Home Sale shop the home sale
-    
-    40-50% Off Furniture and Mattresses
-    
-    Select styles.
-    
-    shop furniture shop mattresses
-    
-    $1649 leather Possibilities track-arm 84" sofa. Originally $3300.
-    
-    shop now
-
-Night and Day Doorbusters
-
-In store and online, Friday, 3PM through Saturday, 1PM CST. Use your coupon and save even more!
-
-shop doorbusters view doorbusters store ad Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
+shop now Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
 
 In store only.
 
 find a store
 
-30-50% Off Select St. John's Bay for Her
+25-40% Off Select Valentine's Dresses
 
 shop now
 
-Save on Select Nike Shoes for the Family
+50% Off Select Men's Suits and Sport Coats
+
+shop now
+
+40-60% Off Select Fine Jewelry and Bijoux Bar
+
+shop now
+
+40% Off Select Carter's
+
+shop now
+
+40% Off Select Clarks Shoes
 
 Excluded from coupon.
 
 shop now
 
-30-60% Off Select Fashion Jewelry
-
-shop now
-
-$42.99 Men's Levi's 505™ Regular Fit Jeans
-
-Regularly $58. Excluded from coupon.
-
-shop now
-
 25% Off Select Bras When You Buy 2 or More
 
-shop now
-
-40-50% Off Select Kids' Arizona
-
-shop now 30-50% Off Home
+shop now Home Sale 30-50% Off
 
 Select styles.
 
-shop now shop kitchen and dining shop bed and bath shop window shop furniture and mattresses shop luggage shop home decor shop cookware JCP Rewards
+shop now shop home decor shop window shop bed and bath shop luggage shop kitchen and dining JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -140,7 +101,7 @@ shop the SportsFanShop Just $5
 
 Get ALL your favorite magazines from TimeInc. today.
 
-shop now Write A Review For Your Chance To Win $500 get details
+shop now Give Love shop gifts
 
 get connected
 
