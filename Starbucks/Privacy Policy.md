@@ -1,4 +1,4 @@
-Last Revised: January 1, 2015
+Last Revised: 13 January 2015
 
 This Privacy Statement ("Statement") applies to the website located at starbucks.com, Starbucks Mobile App (US market), and any other websites owned and operated by Starbucks that direct the viewer or user to this Statement. In this Statement, the terms "Starbucks," "we," and "us" refers to Starbucks Corporation and its respective subsidiaries and affiliated companies. Websites that are owned and operated by Starbucks may contain links to websites that are owned and operated by other companies. This Statement does not apply to websites and services that are owned and operated by third parties.
 
