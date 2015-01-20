@@ -4,36 +4,36 @@ Gift Cards | Offers | Visa Signature
 
 *   Movies Now Playing
     
+    *   American Sniper
+    *   The Wedding Ringer
+    *   Paddington
     *   Taken 3
     *   Selma
+    *   The Imitation Game
     *   Into the Woods
     *   The Hobbit: The Battle of the Five Armies
     *   Unbroken
-    *   The Imitation Game
+    *   Blackhat
     *   Night at the Museum: Secret of the Tomb
-    *   Annie (2014)
-    *   The Woman In Black 2 Angel of Death
-    *   The Hunger Games: Mockingjay - Part 1
-    *   Inherent Vice
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Blackhat
-    *   Paddington
-    *   The Wedding Ringer
-    *   American Sniper
-    *   Spare Parts
-    *   Still Alice
-    *   Three Night Stand
-    *   Little Accidents
+    *   Mortdecai
+    *   The Boy Next Door
+    *   Strange Magic
+    *   Americons
+    *   Big Muddy
+    *   Black Sea
+    *   Cake
+    *   The Duke of Burgundy
+    *   Salvation Army
+    *   Mommy
+    *   Red Army
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Mortdecai
-    *   Strange Magic
-    *   The Boy Next Door
     *   Black or White
     *   The Loft
     *   Project Almanac
@@ -41,6 +41,7 @@ Gift Cards | Offers | Visa Signature
     *   Seventh Son
     *   The SpongeBob Movie: Sponge Out of Water
     *   Fifty Shades of Grey
+    *   Kingsman: The Secret Service
     *   See All Coming Soon
     
     Explore More
