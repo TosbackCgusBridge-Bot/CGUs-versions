@@ -72,7 +72,7 @@ As a member, You also have certain other obligations relating to Your account:
 
 YOU SHOULD READ THESE TERMS CLOSELY BEFORE YOU SUBSCRIBE FOR A PREMIUM SERVICE.
 
-This Section does not apply to the Chat on TheStreet Service or one-time purchases of TheStreet Ratings reports. Subscribers to Chat on TheStreet Service have individualized contracts - please contact Your sales representative with any questions.
+This Section does not apply to one-time purchases of TheStreet reports.
 
 During the free-trial portion of Your subscription, if any, You may cancel Your subscription to the Premium Service at any time and not be billed by notifying our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 6:00 p.m. ET.
 
@@ -81,7 +81,7 @@ Please note:
 *   Upon the commencement of Your initial subscription (which occurs at the expiration of Your free trial, or if You are not receiving a free trial, upon Your registration for a subscription) Your credit card will be billed the applicable subscription fee and Your paid subscription will commence.
 *   Monthly Subscribers - If You are a monthly subscriber, You will not receive a refund or reimbursement of Your monthly subscription fee. If You cancel Your monthly subscription, You will not be charged any future monthly subscription fees.
 *   Other Subscribers - If You are a subscriber for a term longer than a month (including annual subscribers), You may receive a refund of Your subscription fee for Your recurring subscription term only if You cancel within thirty (30) days of the commencement of Your initial subscription. If You cancel Your subscription at any time after that initial thirty (30) day period, You will not be entitled to any refund, reimbursement, or other credit on account of the cancellation of Your subscription.
-*   If Your subscription term is longer than a month and You wish to cancel Your initial subscription within thirty (30) days of the commencement of Your initial subscription, You must notify our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 6:00 p.m. ET. You may not cancel a subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number). If Your subscription term is longer than a month and You cancel Your initial subscription in accordance with the foregoing procedure, Your account will be credited within 7-14 business days following Your call.
+*   If Your subscription term is longer than a month and You wish to cancel Your initial subscription within thirty (30) days of the commencement of Your initial subscription, You must notify our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 6:00 p.m. ET. You may not cancel a subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number). If Your subscription term is longer than a month and You cancel Your initial subscription in accordance with the foregoing procedure, Your account will be credited within 7-14 business days following Your call. 
 
 Please also read the Subscription Renewal provisions, below.
 
@@ -89,7 +89,7 @@ Please also read the Subscription Renewal provisions, below.
 
 YOU SHOULD READ THESE TERMS CLOSELY BEFORE YOU SUBSCRIBE FOR A PREMIUM SERVICE.
 
-This Section does not apply to the Chat on TheStreet Service or one-time purchases of TheStreet Ratings reports. Subscribers to Chat on TheStreet Service have individualized contracts - please contact Your sales representative with any questions.
+This Section does not apply to one-time purchases of TheStreet reports.
 
 **Your subscription will continue for the period referenced during registration (the "Term"), and renew automatically at the end of the Term, unless You notify us of Your decision not to renew Your subscription by calling our Customer Service Department by telephone at 1-866-321-8726 Monday through Friday between the hours of 8:00 a.m. and 6:00 p.m. ET. You may not notify us of a decision not to renew Your subscription by any other means (such as by sending a request via email, postal mail or by calling any other phone number).**
 
