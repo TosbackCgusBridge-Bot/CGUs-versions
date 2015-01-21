@@ -315,17 +315,17 @@ Offers **Parents, You’re Invited!**
 
 Receive movie perks and tips just for families. SIGN ME UP
 
-**Fifty Shades of Grey Collectible Gift Cards**
+**Jurassic World Sweepstakes**
 
-Give Grey this Valentine's. Fandango Fifty Shades of Grey Movie Gift Cards. BUY GIFT CARDS
+Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
 **Furious 7 Sweepstakes**
 
 You could win a high-octane entertainment package when you sign up for a FanAlert! ENTER NOW
 
-**Jurassic World Sweepstakes**
+**Fifty Shades of Grey Collectible Gift Cards**
 
-Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
+Give Grey this Valentine's. Fandango Fifty Shades of Grey Movie Gift Cards. BUY GIFT CARDS
 
 New + Coming Soon
 
