@@ -1,5 +1,5 @@
-An update to this privacy policy will take effect on January 17, 2015. To learn more, click here. **Effective May 15, 2014 Learn More**Web Services Privacy Policy  
-May 15, 2014
+**Effective January 17, 2015 Learn More**Web Services Privacy Policy  
+January 17, 2015
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for http://m.comcast.net and the XfinityTV Player mobile application, please click here. http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html
 
@@ -211,19 +211,19 @@ The Comcast Web Services comply with the applicable rules of the Digital Adverti
 
 Ad Choices
 
-7\. Advertisements sold by Comcast
+7\. Advertisements sold or purchased by Comcast
 
-Comcast, or third parties acting at Comcast's request, may deliver advertisements to you through the Comcast Web Services, depending on whether you are a registered user or not, as described in more detail below.
+Comcast, or third parties acting at Comcast's request, may deliver advertisements to you through the Comcast Web Services and other websites, depending on whether you are a registered user or not, as described in more detail below.
 
 All Users
 
-We, or our advertising providers, automatically deliver ads to all users of the Comcast Web Services, whether the users are registered or not, based on non-personal information including: (i) the IP address associated with your device for purposes of determining your approximate geographic location. (ii) the type of web page that is being displayed, such as a news or sports page. or (iii) the content on the page that is shown, such as a sports article about a certain team or a movie review for a particular movie. Because this advertising activity automatically applies to all users and it is purely contextual, this type of advertising delivery cannot be customized or controlled by individual users.
+We, or our advertising providers, automatically deliver ads to all users on the Comcast Web Services, whether the users are registered or not, based on non-personal information including: (i) the IP address associated with your device for purposes of determining your approximate geographic location. (ii) the type of web page that is being displayed, such as a news or sports page. or (iii) the content on the page that is shown, such as a sports article about a certain team or a movie review for a particular movie. Because this advertising activity automatically applies to all users and it is purely contextual, this type of advertising delivery cannot be customized or controlled by individual users.
 
-We may also use one or more advertising networks and/or other audience segmenting technology providers to help select and deliver advertisements sold by Comcast or other content on the Comcast Web Services, and on other websites that display Comcast advertisements. These providers help us deliver advertisements or content tailored to interests you have shown by the way you interact with the Comcast Web Services, and other websites and web-based content that contains their technology, such as opening an HTML-formatted e-mail that contains their web beacon. This is intended to provide you with an opportunity to look at advertising that may be of interest to you. These providers may collect and use data subject to their own privacy policies, not Comcast's Web Services Privacy Policy. If you do not want the benefits of the data collected by these providers, you may opt-out here. Ad Choices
+We may also use one or more advertising networks and/or other audience segmenting technology providers to help select and deliver: advertisements sold by Comcast on the Comcast Web Services and other websites, other content on the Comcast Web Services, and Comcast-purchased advertisements on other websites. These providers help us deliver advertisements or content tailored to interests you have shown by the way you interact with the Comcast Web Services, and other websites and web-based content that contains their technology, such as opening an HTML-formatted e-mail that contains their web beacon. This is intended to provide you with an opportunity to look at advertising that may be of interest to you. These providers may collect and use data subject to their own privacy policies, not Comcast's Web Services Privacy Policy. If you do not want the benefits of the data collected by these providers, you may opt-out here:
 
-Registered Users
+Ad Choices Registered Users
 
-If you are a registered user, Comcast, or service providers acting at Comcast's request, may use Your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Comcast Web Services. For example, Comcast may use portions of Your Data that it gathered on www.comcast.net to determine which ad to show you when you visit xfinitytv.comcast.net. In addition, some of the graphical display, text, and other ads on the Comcast Web Services are customized for you based on the ZIP code of your XFINITY Internet service address, information about your current subscription, or use of Comcast products and services. If you do not want this information to be used to serve you targeted ads, you may opt-out here. Please note this does not opt you out of being served advertising. You will continue to receive generic advertisements.
+If you are a registered user, Comcast, or service providers acting at Comcast's request, may use Your Data, regardless of where we gathered such information, to determine what type of ad to display to you on the Comcast Web Services and other websites. For example, Comcast may use portions of Your Data that it gathered on www.comcast.net to determine which ad to show you when you visit xfinitytv.comcast.net. In addition, some of the graphical display, text, and other ads sold or purchased by Comcast on the Comcast Web Services and other websites are customized for you based on the ZIP code of your XFINITY Internet service address, information about your current subscription, or use of Comcast products and services. If you do not want this information to be used to serve you targeted ads, you may opt-out here. Please note this does not opt you out of being served advertising. You will continue to receive generic advertisements.
 
 8\. Advertising Networks and Advertising Sold By Content Providers
 
@@ -330,4 +330,4 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 
 You can find customer support and help information at http://customer.comcast.com/Pages/Help.aspx. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your device's or network's settings, or collect information from your device or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: May 15, 2014
+Revised and Effective: January 17, 2015
