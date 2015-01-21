@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13328020574
+true true L13329236726
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p32.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Mon Jan 19 05:04:10 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p34.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue Jan 20 03:34:35 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,33 +45,34 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Big Weekend Sale and Clearance
-
-Ends January 19.
-
-shop the sale view store ad shop clearance shop clearance
-
-40-50% Off Furniture and Mattresses
-
-Select styles.
-
-shop now Red Zone 60-80% Off Clearance When You Take an Extra 25% Off
-
-In store only.
-
-find a store
+*   2 Days Only
+    
+    Online only. January 20 through 21. Code: JANBUY51
+    
+    get details \*See exclusions and details
+    
+    Select styles
+    
+    50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades shop lighting and lamps30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcarePlus Extra 20% Off All Online Clearance shop clearance
+*   2 Days Only
+    
+    Online only. January 20 through 21. Code: JANBUY51
+    
+    get details \*See exclusions and detailsExtra 20% Off\* select original, regular and sale items shop men's shop women's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fashion jewelryPlus Extra 20% Off All Online Clearance shop clearance
 
 25-40% Off Select Valentine's Dresses
 
 shop now
 
-50% Off Select Men's Suits and Sport Coats
+40-50% Off Select Men's Dress Shirts
 
 shop now
 
 40-60% Off Select Fine Jewelry and Bijoux Bar
 
-shop now
+With Code 5JEWELRY
+
+shop now \*See exclusions and details
 
 40% Off Select Carter's
 
@@ -85,11 +86,11 @@ shop now
 
 25% Off Select Bras When You Buy 2 or More
 
-shop now Home Sale 30-50% Off
+shop now 40% Off Home Decor
 
-Select styles.
+With Code: JANBUY51
 
-shop now shop home decor shop window shop bed and bath shop luggage shop kitchen and dining JCP Rewards
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
