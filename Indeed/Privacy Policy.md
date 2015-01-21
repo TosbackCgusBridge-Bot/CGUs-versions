@@ -1,4 +1,4 @@
-Find JobsFind ResumesEmployers / Post Job Create your profile Sign in What: Where: Advanced Job Search       job title, keywords or company city, state, or zip **Cookies, Privacy and Terms of Service** About Indeed **Company Info**
+Find JobsFind ResumesEmployers / Post Job Post your resume Sign in What: Where: Advanced Job Search       job title, keywords or company city, state, or zip **Cookies, Privacy and Terms of Service** About Indeed **Company Info**
 
 *   Our Company
 *   Press Releases
