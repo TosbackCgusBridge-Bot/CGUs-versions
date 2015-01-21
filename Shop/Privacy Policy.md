@@ -488,6 +488,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Blogs
     *   Forums
     *   FAQs
+    *   Reset my Homepage
     *   Product Registration
     *   Product Accessibility
     *   Affinity Discount Program
