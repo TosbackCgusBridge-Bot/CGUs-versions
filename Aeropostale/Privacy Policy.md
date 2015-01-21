@@ -11,7 +11,6 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     *   Factory
-    *   United XXVI
     *   Bethany Mota
     *   Lookbook
     *   Uniform
@@ -46,7 +45,6 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     *   Factory
-    *   United XXVI
     *   Lookbook
     *   Uniform
     *   Sneaker Shop
@@ -99,7 +97,6 @@ Aéropostale Go
     *   Invite Only
     *   Junie &. Jade
     *   Live Love Dream
-    *   Lorimer
     *   Madden Girl
     *   Map to Mars
     *   Mia
@@ -108,7 +105,6 @@ Aéropostale Go
     *   Rocket Dog
     *   Superga
     *   Tokyo Darling
-    *   United XXVI
     
     *   GUYS
     *   Brooklyn Calling
@@ -117,7 +113,6 @@ Aéropostale Go
     *   Locker Stock
     *   Radii
     *   Superga
-    *   United XXVI
 *   Factory
 *   Aero Now
 
