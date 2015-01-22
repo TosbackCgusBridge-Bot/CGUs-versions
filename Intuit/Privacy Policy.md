@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13329236726
+true true C13205020284
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p34.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue Jan 20 03:34:35 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p27.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Wed Jan 21 06:14:17 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -155,7 +155,6 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   patio furniture
 *   gift cards
 *   comforters
-*   converse shoes
 *   window shades
 *   samsonite luggage
 *   womens dresses
@@ -166,6 +165,7 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   bath towels
 *   yoga pants
 *   mens suits
+*   bedding sets
 
 *   copyright
 *   legal notice
