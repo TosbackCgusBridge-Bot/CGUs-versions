@@ -260,6 +260,7 @@ ETS
 *   Research
 *   Careers
 *   Newsroom
+*   Conferences
 *   Disabilities
 *   ETS Store
 *   Contact Us
