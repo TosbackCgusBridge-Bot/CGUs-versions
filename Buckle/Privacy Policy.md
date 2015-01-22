@@ -62,15 +62,10 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
-    *   BUCKLE BLACK CREDIT CARD Exclusive Gift
-    *   Buckle Card Free Wallet or Wristlet
-    *   Earn Double B-Rewards Points on BKE Jeans
     *   Find Your Denim Sweepstakes Rules
     *   Store Events
     *   Social Giveaway Official Rules
     *   Sweepstakes Winners
-    *   Buckle Jeans Sweepstakes Official Rules
-    *   #BuckledOut#BENCHSWEEPS Official Rules
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
