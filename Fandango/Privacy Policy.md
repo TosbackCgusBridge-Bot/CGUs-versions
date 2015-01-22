@@ -26,10 +26,10 @@ Gift Cards | Offers | Visa Signature
     *   Big Muddy
     *   Black Sea
     *   Cake
+    *   Song One
     *   The Duke of Burgundy
     *   Salvation Army
     *   Mommy
-    *   Red Army
     *   See All Opening This Week
     
     Coming Soon
@@ -363,7 +363,6 @@ Videos
 *   Mom's Movie Minute
 *   Reel Kids
 *   FrontRunners
-*   Cine Buzz
 
 Photos
 
