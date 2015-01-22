@@ -31,6 +31,8 @@ Vehicle Library
     
 *   Find a dealer
     
+*   Build Your Lexus
+    
 *   Certified Pre-Owned
     
 *   Contact us
