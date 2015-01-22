@@ -195,9 +195,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     5.  Not sure what you need?
         1.  Accessories Hot Deals
         2.  Best Selling Accessories
-        3.  Quick Ship Accessories
-        4.  View All Accessories
-        5.  See all Not sure what you need?
+        3.  View All Accessories
+        4.  See all Not sure what you need?
     6.  See all Accessories &. Software
     
 7.  Services &. Warranty
