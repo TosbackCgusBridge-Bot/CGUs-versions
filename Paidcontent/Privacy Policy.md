@@ -187,8 +187,8 @@ Gigaom welcomes any questions or comments you may have regarding this Privacy Po
 
 Gigaom  
 ATTN: Privacy  
-217 2nd Street  
-Fourth Floor  
+612 Howard Street  
+Suite 200  
 San Francisco, CA 94105
 
 Effective Date of this Privacy Policy
