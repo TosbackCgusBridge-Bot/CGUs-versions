@@ -130,4 +130,4 @@ Privacy Policy Changes
 
 We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy.
 
-Login | Register | RSS About Us | RSS | Contact | Advertise | Privacy Policy         © RealClearPolitics 2008
+Login | Register | RSS About Us | RSS | Contact | Advertise | Privacy Policy         © RealClearPolitics 2015
