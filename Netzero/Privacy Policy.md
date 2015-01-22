@@ -196,4 +196,4 @@ The information we collect from users is processed and maintained in the United 
 NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
 United Online Classmates | MyPoints | NetZero | Juno | MySite
 
-© 1998-2014 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
+© 1998-2015 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
