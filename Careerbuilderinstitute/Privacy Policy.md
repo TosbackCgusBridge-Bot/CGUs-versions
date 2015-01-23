@@ -11,7 +11,7 @@ Employers: Post Jobs | Search Resumes Sign In Help Security
     *   Company Search
 *   Recommendations
 *   Add Resumes
-    *   Resume Writing
+    
 *   Advice &. Resources
     *   Career Resources
     *   Salary Calculator
