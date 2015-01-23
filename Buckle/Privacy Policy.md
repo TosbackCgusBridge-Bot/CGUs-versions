@@ -62,6 +62,7 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
+    *   Bench Gear Giveaway Official Rules
     *   Find Your Denim Sweepstakes Rules
     *   Store Events
     *   Social Giveaway Official Rules
