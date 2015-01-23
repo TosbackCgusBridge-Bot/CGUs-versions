@@ -7,6 +7,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Gift Boxes
+    *   Valentine's Day Gifts
     *   Business Gifts
         
     *   Military Gifts
@@ -47,12 +48,12 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
-    *   Valentine's Day Specials
 
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Gift Boxes
+    *   Valentine's Day Gifts
     *   Business Gifts
         
     *   Military Gifts
@@ -93,7 +94,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
-    *   Valentine's Day Specials
 
 Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Shop Our Winter Clearance Specials. Limited Time Only.
 
