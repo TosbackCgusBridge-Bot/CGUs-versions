@@ -181,8 +181,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Architect
     *   Sencha Cmd
     *   Sencha Space
-    *   Sencha Space
-    *   Sencha Space
 
 *   Services
     *   Find a Partner
