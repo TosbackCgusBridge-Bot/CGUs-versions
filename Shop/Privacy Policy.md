@@ -55,7 +55,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  Lenovo S8: 8" Enhanced Multimeddia Tablet
         8.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
-        1.  Lenovo Yoga Tablet 2 8: 8" Revolutionary Multimode Tablet
+        1.  Lenovo Yoga Tablet 2 8: 8" Tablet with AnyPen Technology
         2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
         3.  Lenovo Yoga Tablet 2 13: 13" Revolutionary Multimode Tablet
         4.  ThinkPad 10: 10.1" Tablet with Full PC Experience
