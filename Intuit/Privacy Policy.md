@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  VICTORIA
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13205020284
+true true 10.60.216.10 C13207242304
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p27.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Wed Jan 21 06:14:17 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Thu Jan 22 05:08:48 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,20 +45,29 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 Days Only
-    
-    Online only. January 20 through 21. Code: JANBUY51
-    
-    get details \*See exclusions and details
-    
-    Select styles
-    
-    50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades shop lighting and lamps30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcarePlus Extra 20% Off All Online Clearance shop clearance
-*   2 Days Only
-    
-    Online only. January 20 through 21. Code: JANBUY51
-    
-    get details \*See exclusions and detailsExtra 20% Off\* select original, regular and sale items shop men's shop women's shop women's shop kids' shop shoes shop baby furniture shop accessories shop fashion jewelryPlus Extra 20% Off All Online Clearance shop clearance
+Online Only
+
+Ends January 25. Code: KEEPWARM
+
+Extra 25% Off\* $100 or more with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+In Store and Online
+
+Or, Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details. get coupon Home Sale 30-50% Off Select Styles for the Home shop the home sale shop kitchen and dining shop bedding and bath shop furniture and mattresses shop luggage shop window shop home decor shop cookware Red Zone 50-75% Off Clearance
+
+In store and online.
+
+find a store
 
 25-40% Off Select Valentine's Dresses
 
@@ -68,13 +77,11 @@ shop now
 
 shop now
 
-40-60% Off Select Fine Jewelry and Bijoux Bar
+20-50% Off Select Watches
 
-With Code 5JEWELRY
+shop now
 
-shop now \*See exclusions and details
-
-40% Off Select Carter's
+40-50% Off Select Kids' Arizona
 
 shop now
 
@@ -84,13 +91,13 @@ Excluded from coupon.
 
 shop now
 
-25% Off Select Bras When You Buy 2 or More
+25% Off Select Shapewear
 
-shop now 40% Off Home Decor
+shop now 40-50% Off Window
 
-With Code: JANBUY51
+Select styles.
 
-shop now JCP Rewards
+shop window shop curtains and drapes shop blinds and shades shop curtain rods and hardware shop curtains and drapes JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
