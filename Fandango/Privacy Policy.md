@@ -64,7 +64,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News See the complete list of 2015 Oscar nominations here. what were the big surprises? Read More Hot Rumor of the Week: Is 'Spider-Man' closer to making a Marvel movie? Read More Tom Hardy drops out of 'Suicide Squad' -- you won't believe who may replace him! Read More Explore More
+*   Movie News Featured Movie News A remake of 'The Blob' will squish into a theater near you care of 'The Expendables 2' director Read More Everything you need to know about the most buzzworthy fest of the year Read More Which actresses are testing for the female lead in Gareth Edwards' 'Star Wars' Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
