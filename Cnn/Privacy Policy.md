@@ -13,7 +13,7 @@ International Edition
 *   Mexico
 *   Set edition preference
 
-Log in
+Sign in
 
 *   News
     *   World
