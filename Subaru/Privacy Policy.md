@@ -35,8 +35,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-Special Edition Launch:  
-2015 BRZ Series.Blue
+Named Best Resale Value  
+by KBB.com
 
 BRZ Limited shown
 
@@ -55,8 +55,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety  
-Pick+ with optional EyeSight
+Best Resale Value in its class  
+according to KBB.com
 
 Impreza 2.0i Limited shown
 
@@ -75,7 +75,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety Pick
+Best Resale Value in its class  
+according to KBB.com
 
 WRX Premium shown
 
@@ -94,8 +95,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety  
-Pick+ with optional EyeSight
+Best Resale Value in its class  
+according to KBB.com
 
 Legacy 3.6R Limited shown
 
@@ -114,8 +115,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety  
-Pick+ with optional EyeSight
+Named Best Resale Value  
+by KBB.com
 
 Forester 2.5i Touring shown
 
@@ -154,8 +155,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-2015 XV Crosstrek  
-Special Edition
+Named Best Resale Value  
+by KBB.com
 
 XV Crosstrek Hybrid Shown
 
@@ -174,8 +175,8 @@ Up to
 *   Compare
 *   Build Your Own
 
-A 2014 IIHS Top Safety  
-Pick+ with optional EyeSight
+Named Best Resale Value  
+by KBB.com
 
 Outback 2.5i Premium shown
 
