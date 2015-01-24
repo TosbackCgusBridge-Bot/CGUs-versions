@@ -1,4 +1,4 @@
-Privacy Policy (updated 08/29/2014) Nickelodeon - Universal Privacy Policy
+Privacy Policy Nickelodeon - Universal Privacy Policy
 
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
