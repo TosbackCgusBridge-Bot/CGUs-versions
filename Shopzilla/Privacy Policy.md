@@ -33,9 +33,9 @@ Connexity
     *   Retargeting
     *   Multi-screen
     
-    *   Publisher Monetization
-    *   CPC Product Monetization
-    *   CPM Display Monetization
+    *   Publisher Monetisation
+    *   CPC Product Monetisation
+    *   CPM Display Monetisation
 *   About
     *   About Connexity
     *   Open Positions
