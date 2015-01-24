@@ -5,7 +5,7 @@ Stack Exchange
 *   Newsletters
 *   Blogs
 
-terms of service API terms of use privacy policy content policy trademark guidance  
+terms of service API terms of use privacy policy content policy trademark guidance contact  
 Stack Exchange APIs Terms of Use Accepting the Terms of Use
 
 The Stack Exchange application programming interfaces (the “API Services”) are a set of programming interfaces which allow you to programatically query and connect to the Stack Exchange Network. Applications (“Applications”) are code, programs or other interfaces which connect to the API Services. Please read these terms of use (“API Agreement”) carefully before using the API Services. By using or accessing the API Services, you agree to become bound by all the terms and conditions of this API Agreement as well as the Stack Exchange Terms of Service. If you do not agree to all the terms and conditions of this API Agreement, do not use the API Services. Stack Exchange reserves the right, at its discretion, to modify these API Terms of Use at any time by posting revised API Terms of Use. The API Services are accessed by You (“Subscriber” or “You”) under the following terms and conditions:
@@ -28,4 +28,4 @@ about us work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2015 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2015.1.21.1221
+2015.1.23.1225
