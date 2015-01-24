@@ -5,7 +5,7 @@ Stack Exchange
 *   Newsletters
 *   Blogs
 
-terms of service API terms of use privacy policy content policy trademark guidance  
+terms of service API terms of use privacy policy content policy trademark guidance contact  
 Stack Exchange Network Terms of Service A Note from the Team
 
 The Stack Exchange Network is the easiest way to get expert answers to your questions. We created it to give everyone a chance to be recognized by their peers: recognized for their knowledge, their passion, and their willingness to help others get better at the things they are passionate about. We do ask that you treat our service and community with respect. Spam, personal attacks, and abusive language do not have a place on the Stack Exchange Network. If you ever stumble across anything on the Stack Exchange Network that looks like it violates our policies, please be sure to let us know.
@@ -169,4 +169,4 @@ about us work here blog legal privacy policy contact us feedback always welcome
 
 site design / logo © 2015 stack exchange, inc. user contributions licensed under cc-wiki with attribution required
 
-2015.1.21.1221
+2015.1.23.1225
