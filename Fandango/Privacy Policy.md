@@ -64,7 +64,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News A remake of 'The Blob' will squish into a theater near you care of 'The Expendables 2' director Read More Everything you need to know about the most buzzworthy fest of the year Read More Which actresses are testing for the female lead in Gareth Edwards' 'Star Wars' Read More Explore More
+*   Movie News Featured Movie News Chiwetel Ejiofor is up for a key role in 'Dr. Strange'. Aquaman may get FOUR movies Read More 'X-Men: Apocalypse' We now know who will play the young Cyclops, Jean Grey and Storm Read More Which actresses are testing for the female lead in Gareth Edwards' 'Star Wars'? Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
