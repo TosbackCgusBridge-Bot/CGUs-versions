@@ -1,9 +1,323 @@
- 
+TermsOfService Follow
 
-*   JPost.com
-*   Terms Of Service
+*   Israel News
+    
+    *   Politics &. Diplomacy
+        *   Report: US officials warn breach of protocol could have consequences for Netanyahu
+            
+        *   Analysis: The Netanyahu speech flap: Republicans are people, too
+            
+        *   40% of Israelis say strike on Syria ���political���
+            
+        *   Baird: ICC move an effort to tie Israel���s hand behind its back
+            
+    *   Health
+        *   \*Rx for Readers: Prenatal preparations\*
+            
+        *   Police free two settlers under investigation for shooting two Palestinians
+            
+        *   Health Ministry report finds emergency rooms beds and cases on the decline
+            
+        *   Agri ministry completes culling of birds infected with avian flu near Hadera
+            
+    *   New-Tech
+        *   Israeli innovators receive grants to aid developing world
+            
+        *   Tel Aviv-bound United Airlines passengers demand NIS 1.2m. for consecutive canceled flights
+            
+        *   Genetic markers in olive breeding to bring cheaper, higher quality oil to consumers
+            
+        *   Tech talk: Shopping online, a guide for Israel
+            
+    *   Culture
+        *   Emma Watson launches second phase of famous gender equality campaign in Davos
+            
+        *   Grapevine: In tragedy and triumph
+            
+        *   Screen Savors: Statecraft, virgins and hip hop
+            
+        *   Movie Review: Teacher���s pet
+            
+    *   Sports
+        *   Eilat gearing up for Israman competition
+            
+        *   Revamped Greens host Beersheba after spending spree
+            
+        *   Israel���s Sela pumped for tough 3rd-round date with ailing Nadal
+            
+        *   Crucial road test for Mac TA in Lithuania
+            
+    
+    *   Emma Watson launches second phase of famous gender equality campaign in Davos
+        
+    *   Police arrest east Jerusalem man who allegedly carried knife near President's Residence
+        
+    *   State witness against key underworld figures dies in alleged gangland hit
+        
+    *   Report: US officials warn breach of protocol could have consequences for Netanyahu
+        
+*   Israel Elections
+    
+    *   Arab parties reach historic deal, unite for upcoming election
+        
+    *   Jpost Election Arena: Livni's consistent vision
+        
+    *   Netanyahu delays festive meeting with angry MKs
+        
+    *   A-G likely to probe rabbi who threatened haredi women for Knesset representation campaign
+        
+    *   Rabbi Moshe Hager-Lau joins Yishai���s Yachad party
+        
+*   Arab-Israeli Conflict
+    
+    *   What was behind Israel���s strike in Syria that killed an Iranian general?
+        
+    *   Hezbollah under pressure to act after alleged Israeli strike on Golan Heights
+        
+    *   Ya'alon: Israel knows how to exact a price from anyone who harms it
+        
+    *   Lebanese government condemns Israeli strike in Golan amid internal sectarian unease
+        
+    *   Quneitra Rashomon
+        
+*   Diaspora
+    
+    *   Kippah-wearing Swedish reporter assaulted in Malmo
+        
+    *   The invitation to Netanyahu to address US Congress was unknown to democratic leadership
+        
+    *   Dutch Jews demand government deploy troops near synagogues
+        
+    *   Belgium searching for accomplice to Jewish museum shooter
+        
+    *   EU official: Without Jews, Europe has no future
+        
+*   Middle East
+    
+    *   How politics explains the baffling Iranian response to Paris attack
+        
+    *   Miss Lebanon will keep her title despite appearing in image with "enemy" Miss Israel.
+        
+    *   German firms helped Assad family build Syrian chemical weapons program, bombshell report alleges
+        
+    *   Past and present Israeli presidents eulogize Saudi King Abdullah
+        
+    *   As ISIS ransom deadline passes, Japanese captive's mother continues to beg for his release
+        
+*   Opinion
+    
+    *   Parting shot: Facebook friends
+        
+    *   Column one: Iran, Obama, Boehner and Netanyahu
+        
+    *   The creation of a nation
+        
+    *   Vetoes and morals
+        
+    *   Some legal truths about the Palestinian ICC exercise
+        
+*   Premium
+    
+    *   Jpost Epaper
+        
+    *   The Jerusalem Report
+        *   When will we hear of Jacob���s daughters?
+            
+        *   Malignant role-reversal
+            
+        *   Two revolutions, two outcomes
+            
+        *   Oil spill fallout
+            
+    *   Magazine
+        *   Arrivals: Securing his own freedom in Israel
+            
+        *   Book Review: The lady doth protest too much
+            
+        *   Book Review: Translating Patrick Modiano
+            
+        *   Hot off the Arab press
+            
+    *   In Jerusalem
+        *   Grapevine: A man of many talents
+            
+        *   A not so tight budget
+            
+        *   This Week in Jerusalem
+            
+        *   Mud-slinging and more
+            
+    *   Metro
+        *   Happily Eva After: Ushering in 2015 the Eva way
+            
+        *   Giving Beit Shemesh children a helping hand
+            
+        *   Red in the South
+            
+        *   Winning Works
+            
+    *   Experts Opinion
+        *   Anti-Semitism and the battle against Jihad
+            
+        *   US, Britain and France will be next if ICC indicts Israel
+            
+        *   Combating terror: The tough battle ahead
+            
+        *   Lebanon reaches the limit
+            
+    *   IVRIT
+        *   A song for Shvat: 'Song of the grasses'
+            
+        *   ���������� ��������������������
+            
+        *   �������� �������������� ����������������
+            
+        *   ������������������ ����������������������������
+            
+    
+    *   Winning Works
+        
+    *   Giving Beit Shemesh children a helping hand
+        
+    *   18 recommendations that could determine Israel���s fate before the ICC
+        
+    *   Happily Eva After: Ushering in 2015 the Eva way
+        
+*   Blogs
+    
+*   Edition Francaise
+    
+    *   Politique
+        *   La liste de Herzog
+            
+        *   Le parti national religieux a un nouveau nom
+            
+        *   Promesses et programmes de campagne
+            
+        *   Eternelle r��forme
+            
+    *   Art et culture
+        *   Les mots valent mieux que la violence
+            
+        *   Coexistence festive �� Ha��fa
+            
+        *   Festival du film juif de J��rusalem, que la lumi��re soit��!
+            
+        *   Un autre regard sur l���Ethiopie
+            
+    *   Social/Eco
+        *   Une d��mocratie tronqu��e
+            
+        *   Hautement qualifi��s, fortement motiv��s
+            
+        *   2014, un excellent cru pour l'aliya
+            
+        *   Loin de la campagne
+            
+    *   Moyen - Orient
+        *   Unis contre la terreur islamique
+            
+        *   Le califat��: r��ve ou cauchemar pour l���islam��?
+            
+        *   Comment Abbas tire avantage de la mort d���Abou Ein
+            
+        *   Frappes en Syrie, Damas accuse Tsahal
+            
+        *   Al-Sissi n���est pas Moubarak
+            
+    *   International
+        *   Le 11 septembre fran��ais��?
+            
+        *   Une semaine de deuil
+            
+        *   Un ��l��phant dans un magasin de porcelaine
+            
+        *   L'aveuglement de l'Occident
+            
+    
+    *   Le 11 septembre fran��ais��?
+        
+    *   Une semaine de deuil
+        
+    *   Un ��l��phant dans un magasin de porcelaine
+        
+    *   L'aveuglement de l'Occident
+        
+*   Christian News
+    
+    *   Birth control ban doesn't mean breed 'like rabbits,' Pope says
+        
+    *   Pakistani Christians protest Charles Hebdo
+        
+    *   WATCH: Orthodox Christians take the plunge to commemorate Jesus's baptism
+        
+    *   Pope says Mass for crowd of over 6 million in Manila, appeals for suffering children
+        
+    *   Anti-Christian prejudice: The last acceptable form of bigotry
+        
+*   Green Israel
+    
+    *   Community
+        *   Friends of JNF Australia Visit Negev Communities
+            
+        *   International Dental Convention Participants Tour the Negev with KKL-JNF
+            
+        *   Holiday Cheer as KKL-JNF Distributes Christmas Trees
+            
+        *   The Moshav Movement Honors KKL-JNF
+            
+    *   International Cooperation
+        *   Serbian PM Plants a Tree in the Grove of Nations
+            
+        *   Sharing and Learning - German Forestry Students Intern with KKL-JNF
+            
+        *   Israel and Finland Connect through the Environment
+            
+        *   KKL-JNF Experts Visit China for Future Environmental Collaborations
+            
+    *   Ecology
+        *   The Shamir Drilling Project
+            
+        *   Graduation Ceremony for Rosh HaAyin���s Volunteer Firefighters
+            
+        *   Nigerian Forestry Delegation Sees KKL-JNF Desert Afforestation First-hand
+            
+        *   In his Footsteps: Heritage Excursions in Memory of Yitzhak Rabin
+            
+    *   KKL- JNF WorldWide
+        *   WMC 2015 Closing Evening Reception
+            
+        *   Living on the Edge in the Gaza Periphery
+            
+        *   Former UN Ambassador Dan Gillerman at WMC 2015
+            
+        *   WMC 2015 Opening Reception at Beit Hatfutsot
+            
+    *   Innovative Research
+        *   Living Green in Israel: the Contest and the Winners
+            
+        *   Addressing Climate Change Conference
+            
+        *   Nurturing the Foresters of the Future
+            
+        *   Saving the Sabras
+            
+    
+    *   WMC 2015 Closing Evening Reception
+        
+    *   Living on the Edge in the Gaza Periphery
+        
+    *   Former UN Ambassador Dan Gillerman at WMC 2015
+        
+    *   Friends of JNF Australia Visit Negev Communities
+        
 
-  Jerusalem Post Online Terms of Service, Revision 1.0, Last modified January 1st, 2011.
+01.24.2015 | 4 Shevat, 5775
+
+01.24.2015 | 4 Shevat, 5775
+
+  
+**Jerusalem Post Online Terms of Service, Revision 1.0, Last modified January 1st, 2011.**
 
 Preamble: These Terms of Service govern your use of the Jerusalem Post website, purchases you make through the website and any content contribution you may make to the website. While the formal and full agreement governs your use of the website, The Jerusalem Post has posted, for your convenience and use, a brief summary of your rights, duties and obligations:
 
@@ -22,74 +336,206 @@ We recommend that you read the full terms of service prior to posting any conten
   
 
 1.  1.**Scope of Services:** These Terms of Service are the biding agreement between The Jerusalem Post Ltd., a duly incorporate Israeli corporation, whose principal place of business is Jerusalem, Israel (“The Jerusalem Post”) and Yourself, an individual or a person acting on behalf of a corporation or organization which authorized you in order to enter into these terms of service (“You”). For the purpose of these Terms of Service, the term “Service” shall refer to any of the following services provided by The Jerusalem Post, as described in this clause, including any of their features.  
-    1.  1.1**News &. Updates:** The Jerusalem Post shall provide You with access to articles, news updates, opinion columns and other content, all through its website located at http://www.jpost.com (“Website”). Such content shall be provided either by The Jerusalem Post or by chosen affiliates and 3rd parties, where marked as such.
-    2.  1.2**Blogs and Commentary:** The Jerusalem Post shall provide You with access to blog posts, videos and other media made by selected 3rd parties. such content is brought at the sole responsibility and liability of such 3rd Parties.
-    3.  1.3**User Submissions, Including Comments:** The Jerusalem Post shall provide You with an option to contribute and post Your commentary in regards to News, Updates, Blogs or other users contributions or commentaries.
-    4.  1.4**Premium Content:** The Jerusalem Post shall provide You with additional content, commentary and information, all defined as “Premium Content” including online editions of the daily "Jerusalem Post" electronic paper, and a selection of exclusive articles from "The Jerusalem Report," The Jerusalem Post's youth magazine "Dash," The Jerusalem Post's "Christian Edition," an easy-Hebrew magazine "Ivrit,", The Jerusalem Post's weekend magazines and more. Such access shall be made against payments and fees, as as described in these Terms of Service
-    5.  1.5**Newsletter:** The Jerusalem Post shall provide You with an option to receive timely updates through Electronic mail, including promotional offers and other relevant information.
-        1.  1.5.1**Registration:** In order to register to the Newsletter, You will be required to enter some relevant information, so that The Jerusalem Post may provide You with better services and promotional activity.
-        2.  1.5.2**Authentication:** Following the Registration process, an email will be sent to Your email box to confirm and authenticate that You requested to register to the Newsletter.
-        3.  1.5.3**Timely Updates:** From time to time, and according to Your preferences, The Jerusalem Post shall send You updates through electronic mail.
-    6.  1.6**Electronic Edition:** The Jerusalem Post shall provide You with an interface to access a digital edition of the Jerusalem Post Print Edition. such access shall be made payments and fees, all as described.
-    7.  1.7**Archive:**The Jerusalem Post shall provide You with access to on-line archives of news articles and any other information stored on the Website.
-    8.  1.8**3rd Party Services:** The Jerusalem Post may, from time to time, offer more services provided by 3rdparties, such as Browser toolbars, educational services, dating services and other services. Such 3rdParty services may be either personalized or non-personalized, and may be branded with The Jerusalem Post's name, but are not provided by it and contain different terms of service which You must accept prior to using them.
-    9.  1.9**Polls:**The Jerusalem Post shall present, from time to time, user polls which shall present its users' views and opinions in regards to statements or questions of interest.
-        1.  1.9.1**Voting:** You may vote once, and once only on each poll. You acknowledge and consent that The Jerusalem Post may track and monitor Your votes and present them to its users, as well as track attempts to fraud it.
-        2.  1.9.2**Results:** The The Jerusalem Post shall avail the results of such polls and may allow access to its polling archive. You acknowledge that the polls made by The Jerusalem Post do not reflect the general public, nor do they reflect the users of The Jerusalem Post's website, as voting in polls is voluntary and not mandatory
-    10.  1.10**News Ticker:**The Jerusalem Post shall avail to you, all with accordance to the features inherent in the code, a short HTML code which you may install, at your own discretion and risk, at any website you may control or own.
-        1.  1.10.1**License:** You are hereby granted a limited, non-exclusive, worldwide, temporary, revocable, non-sublicensable, nontransferable and non-assignable license to use and display such HTML code at websites, according to the stipulations and restrictions setforth.
-        2.  1.10.2**Risk:** You hereby undertake to incur and bear all risk associated with the execution of such computer code.
-        3.  1.10.3**Derivative Works:** You may not amend, modify or otherwise create any derivative works from the HTML code, including any code meant to exploit any vulnerability in Website, inject malicious content or computer code, circumvent The Jerusalem Post's s erver, or otherwise create any work falsifying the origin of the content in the News Ticker
-        4.  1.10.4**Crediting:** Any use of the News-Ticker shall be where The Jerusalem Post is properly credited for the origin of the news.
-    11.  1.11**Send Article:** The Jerusalem Post provides you with an Interface to send articles to your friends by electronic correspondence.
-    12.  1.12**Additional Services:** The Jerusalem Post may, from time to time, add additional services and portions to the Website, which may include additional terms.
-    13.  1.13 **Classified Ads:** The Jerusalem Post may avail you to an interface to publish and/or search classified ads, either for real estate, employment or other matters. In such case, the Jerusalem Post may charge rates in accordance to article 3 to these Terms and the content of any classified ad you submitted shall be subject to the Jerusalem Post's Contribution Policy as set forth in article 4 to these terms.
-2.  2.**Fees and Charges:** Services are provided either free of charge or against a set fee, all with consideration of the Service's scope and field. You hereby acknowledge that the free nature of a specific Service is not guaranteed and should any Service incur any costs, You shall pay them in order to use that Service.  
-    1.  2.1**Fees:** The Jerusalem Post may, from time to time, set fees as deemed in each Service. The fees set-forth are for non-commercial and personal uses of Service and not for commercial effort or endeavor. Such fees may be monthly, daily or yearly, and you shall be billed according to the fee policy of such service.
-    2.  2.2**Payment:** All payments according to these Terms of Service shall be made by a credit card which You own and for purchase of subscription, personalized service or content. By agreeing to pay or committing to purchase, you shall be required to provide The Jerusalem Post with Your Credit Card
-    3.  2.3**Subscription:** When you register to a subscription service, such as The Jerusalem Post's Premium Service or Electronic Edition Subscriptions, You hereby grant The Jerusalem Post permission to bill you on each calendar month for the services rendered on that specific month. The payment shall be processed by The Jerusalem Post and until you shall notify The Jerusalem Post that you wish to cancel such subscription.
-    4.  2.4**Refunds:** As content is considered intangible goods under Israeli Law, The Jerusalem Post shall by no mean, cause or reason issue any refund, rebate, discount, credit or other form of payment to You, should you decide to annul, cancel or void your subscription.
-3.  3.**Your User Account and Use:** In order to use some of the Services, you will be required to register and open User Account(s), where different accounts may be used for different services. When signing up for a User Account and when using each of the services, You hereby undertake to comply with the following stipulations, as well as any other reasonable orders by The Jerusalem Post, as you may be instructed from time to time.
-    1.  3.1**Eligibility:** You are eligible to enter into these Terms of Service and: (i) were not prohibited by any authorized authority, judicial order to law into entering in any agreement. (ii) are over 18 years of age or obtained consent to enter into these Terms of Service from your parent or guardian. (iii) were not previously prohibited by The Jerusalem Post from using Services or held another User Account. (iv) do not reside in and proscribed proscribed state or member of any proscribed organization. and (v) have all proper authorization, if you are acting on behalf of a corporation, into entering into these Terms of Service.
-    2.  3.2**Personal Use:** Your use of the Services shall be personal and non-commercial. You shall not transfer, distribute or publish any content or portion of the Services to any 3rd parties apart from where available through Service itself (such as in the news-ticker or RSS feed) and shall not sell, resell, syndicate or republish any of the Services.
-    3.  3.3**Authentication of Registration:** When registering to services, you may be required to authenticate Your mean of payment, email address or both in order to make sure that emails will be received and payments shall be made.
-    4.  3.4**True and Correct Information:** You hereby warrant that any information you provided to The Jerusalem Post is true and correct. You shall not use Service to impersonate anyone else or to register on behalf of any other person.
-    5.  3.5**Use of Services:** You will use Services only in a bona-fide manner, and avoid any use which may obstruct, interfere or delay the Services to any other person. You will not use the Services to spam, send unsolicited publications, stalk, harass or threaten any other person or computer system.
-    6.  3.6**Harvesting:** You will not use any automated means, including computer code, crawlers, robots or scripts in order to harvest information, parse, cache or otherwise provide service to any 3rd person. You will not create or use any script, software, code or program that otherwise manipulates, falsifies, adds or removes functionality to the Services.
-    7.  3.7**Copyright:** Apart from where specifically permitted, nothing in these Terms of Service shall constitute as a license to use any portion of copyrighted material titled by The Jerusalem Post. You will not modify, create derivative works, distribute or otherwise amend the Services, apart from where specifically permitted, any portion of the Service.
-    8.  3.8**News Ticker:** When using the News-Ticker in any of Your websites, you hereby grant The Jerusalem Post the right to track, monitor and inspect any elements and any visits to such website, as well as retain statistical and analytical information, all as made available by The Jerusalem Post's servic
-    9.  3.9**RSS:** You may use The Jerusalem Post's RSS feed in order to create any application, service or website as well as other services, as longs as such services do not crawl or otherwise parse, display or publish any content from the Website which was not presented in the RSS feed. You may use and display the images attached to the RSS feed in Your website, application or service only with the content and text attached to it.
-    10.  3.10**Newsletter:** You may read the Jerusalem Post's Newsletter and even forward it to your friends, as long as the following conditions are met: (i) you do not falsify any information and keep all original text intact. (ii) you will not use the Service to spam others. and (iii) you shall comply with the specific copyright license as set-forth in the copyright chapter.
-    11.  3.11**Send Article:** You may use The Jerusalem Post's Send Article feature only in a bone-fide manner and avoid spamming, sending mass unsolicited emails or impersonating others when doing so.
-4.  4.**Contribution Policy:** By either providing The Jerusalem Post with textual material or by using The Jerusalem Post's Services to create textual or other content, You hereby accept The Jerusalem Post Contribution Policy as set forth. You acknowledge that any violation of the Contribution Policy may cause termination of Your Service, removal of Your content or contribution and legal action by both The Jerusalem Post and the person whose rights were infringed. For the purpose of this Policy, the term Contribution shall refer to: (i) images and/or text used in creating user generated content, comments or blog posts. (ii) images retrieved from 3rd parties in such comments. (iii) description, text and information processed through Service. (iv) submissions made through Service.
-    1.  4.1**Copyright License:** You hereby grant The Jerusalem Post an irrevocable, permanent, unlimited, world-wide, royalty-free, sublicensable, non-exclusive license to use Your Contribution and to allow Users to view Your Contributions according to the functionality of Service and through or other 3rd party services, including the creation of derivative works and the creation of three dimensional works.
-    2.  4.2**Model Release:** You hereby grant The Jerusalem Post the permission to use and display Your Contribution and Your Name in order to endorse The Jerusalem Post.
-    3.  4.3**Offensive Content:**You hereby warrant that Your Contribution are not offensive and do not infringe the right of any 3rd party, including, but not only:
-        1.  4.3.1**Intellectual Property Infringing:** Your Contribution does not infringe any 3rd party copyright, design, patent, trademark, trade secrets or any other intellectual property rights.
-        2.  4.3.2**Pornography:** Your Contribution does not contain any text, image or depiction including nudity, profanity, sexual activity, sexual innuendos, sexually offensive or otherwise obscene.
-        3.  4.3.3**Slanderous:** Your Contribution does not slander, defame or otherwise harm the good name of others.
-        4.  **Hate Speech and Racist:** Your Contribution does not include any hate speech or racist opinions, as well as does not incite others for violent acts against persons solely in regards to their inclusion of a specific groups.
-        5.  4.3.4**Scams:** Your Contribution is not used to initiate any scam, market manipulation, pyramid scheme, phishing or otherwise any use which may be used to extract goods and/or money from others, including any virtual property.
-    4.  4.4**Warranty:** You hereby warrant that You are either the sole proprietor or a designated licensee of any Contribution You process through service and that no other party's rights are infringed or violated by using Contribution and Service. You moreover warrant that that no legal claim, dispute or lawsuit was filed against You or threatened against You for publishing Contribution.
-    5.  4.5**Notice and Takedown Mechanism:** In order to protect Your rights, The Jerusalem Post has set up this Notice and Takedown Mechanism to help You protect Your Contributions and to ensure that no unauthorized use is made.
-        1.  4.5.1**Prescreen and Moderation:** You acknowledge that The Jerusalem Post cannot pre-screen all Contributions, but that it shall have the right (but not the obligation) in their sole discretion to refuse or remove any Contribution or User Account that is available via the Service. The Jerusalem Post shall have the right to remove any Contribution or User Account that violates these Terms of Service or is otherwise objectionable.
-        2.  4.5.2**Disclosure of Content:** : You acknowledge and agree that The Jerusalem Post may preserve Contribution and may also disclose Contribution if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process. (b) enforce these Terms of Service. (c) respond to claims that any Contribution violates the rights of third-parties. or (d) protect the rights, property, or personal safety of The Jerusalem Post, its Users, and the public. You understand that the technical processing and transmission of the Service, including your Contribution, may involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
-        3.  4.5.3**Harmless:** You agree and warrant to hold The Jerusalem Post and Users harmless and to immediately indemnify The Jerusalem Post or Users for any claim of copyright infringement, trademark dilution or patent infringement for any use of Contribution according to these Terms of Service. You also agree to indemnify The Jerusalem Post and/or Users for any 3rd party lawsuit for Copyright infringement due to their use of Contribution made available by You.
-        4.  4.5.4**Cease and Desist:**The Jerusalem Post values others Your Rights, and therefore shall comply with all state regulations regarding 3rd party rights. Should you encounter any Contribution which you believe to be in violation of any of Your rights, good name or copyrights, Please file an infringement complaint to our Content officer: updates@jpost.com. Our officer shall examine your complaint and shall forward it to the User who published said Contribution for his answer, if possible. Should Your complaint be false, harassing or in order to prevent legal use of Service, you shall bear all liability to compensate the User which you reported as infringing and/or The Jerusalem Post. In your complaint you will be required to inform us with: (i) a written statement regarding what Contribution infringes your rights and proof that You hold those rights. (ii) what is the exact URL of the Contribution. (iii) notification that you believe that the use made by the Contribution is not considered fair-use, criticism, consumer protest or any other protected speech.
-        5.  4.5.5**Moderation:** Pursuant to any Cease and Desist notification, and promptly thereafter, The Jerusalem Post will moderate the Content and review your request. The Jerusalem Post shall notify the User who posted the Content on Your complaint, including Your information and request his response, if possible.
-        6.  4.5.6**Removal or Restoration:** Should the User who posted the content fail to respond within 96 hours, The Jerusalem Post shall remove the Content. had he responded, The Jerusalem Post will inspect his response and had there any material questions of fact or law arise, The Jerusalem Post shall forward his personal information directly to You so you could commence litigation over You complaint.
-    6.  4.6**Indemnification:**You hereby warrant and agree to hold The Jerusalem Post harmless and to indemnify The Jerusalem Post for any damage, loss, expense, legal expense or cost incurred as a result of (i) Your posting of any Contribution in direct violation of The Jerusalem Post Contribution Policy, including any false representation. OR (ii) any claim, complaint or notification filed maliciously or negligently against any User where no such claim had any legal standing.
-5.  5.**Copyright:**Unless specifically stated, all content and title in Service is copyrighted and titled to The Jerusalem Post. The Jerusalem Post provides you with a limited, personal license to use and view Services for your personal use.
-    1.  5.1**Licenses:**The Jerusalem Post hereby licenses you, in regards to these specific Services, the following licenses:
-        1.  5.1.1**RSS:** You are hereby granted a limited, non-exclusive, limited, temporary, nonassignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's RSS feed, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly.
-        2.  5.1.2**News Ticker:** You are hereby granted a limited, non-exclusive, limited, temporary, non-assignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's News Ticker, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly
-        3.  5.1.3**Newsletter:**You are hereby granted a limited, non-exclusive, limited, temporary, non-assignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's Newsletter, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly.
-6.  6.**Warranty and Liability:**
-    1.  6.1**No Warranty:** The Jerusalem Post does not warrant for Service and supplies it on an “as-is” and “as-available” basis. Your Use of Service is at your own risk and under your liability. The Jerusalem Post makes no warranty that (i) the Service will meet your requirements and (ii) the Service will be uninterrupted, timely, secure, or error-free and (iii) the results that may be obtained from the Use of the Service will be accurate or reliable and (iv) the quality of any products, services, information, or other material purchased or obtained by You through Service will meet your expectations, or (v) any errors in the Service will be corrected.
-    2.  6.2**No Liability:** For no case and for no reason shall The Jerusalem Post be held liable for any damage, direct or indirect, consequential, exemplary, physical or special, to You, any User or any 3rd party due to its misperformance of duties herein. The Jerusalem Post provides Service on an AS-IS basis and shall not be held liable, to the extent permitted by law, by any case of misconduct, negligence, gross negligence, malice or any other mean, to any damages or loss of property, including damages to: virtual property, reputation and business reputation, User Account information including login information, loss of profit, loss of good name, all resulting from the use or inability to use Services rendered by The Jerusalem Post.
-7.  7.**Amendments:** The Jerusalem Post may amend, from time to time, these Terms of Service and may, or may not, notify you as these amendments are made. Should you decide that any amendment in these Terms of Service does not constitute as your understanding with The Jerusalem Post, you may, at your own will, terminate these Terms of Service and terminate your User Account. All Contributions you created shall remain stored on Service and shall be used according to The Jerusalem Post' Policies and amended terms of service. In no case will these Terms of Service have any retroactive change nor would they apply on Your conduct without your consent, therefore you undertake to examine, from time to time, any amendments in these Terms of Service.  
-    
-8.  8.**Termination:** The Jerusalem Post may, at its sole discretion, terminate these Terms of Service, Service or any other service rendered by it due to any reason, for any User, including You, or with no reason at all or for any reason, including, without limitation, for lack of use or if The Jerusalem Post believes that you have violated or acted inconsistently with the understandings or spirit of the Terms of Service. The Jerusalem Post may also, in its sole discretion, and at any time discontinue providing the Service, or any part thereof, with or without notice. You agree that any termination of your access to the Service under any provision of these Terms of Service may be effected without prior notice, and acknowledge and agree that The Jerusalem Post may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service. Further, you agree that The Jerusalem Post shall not be liable to you or any 3rd party for any termination of your access to the Service.
-9.  9.**3rd Party Advertisements:** The Jerusalem Post may, at its own discretion and for its causes, include within Service any links for 3rd party websites, advertisements or links for applications (3rd Party Content). The Jerusalem Post does not warrant for 3rd Party Content or availability thereof nor does it endorse it. The Jerusalem Post shall not be held, or claimed to be held, liable for any 3rd Party Content, its legality or illegality, its adequacy with regulations and its quality.
-10.  10.**Entire Agreement, Waiver:** These TOS constitute the entire understandings between parties and will only be amended in writing. No waiver to perform any The Jerusalem Post' rights under this agreement shall constitute amendments of it.
-11.  11.**Governing Laws, Jurisdiction, No Class Action:** These Terms shall be solely governed by the laws of the state of Israel, including their statutes regarding conflict of laws and may be solely brought to the competent courts of the Tel-Aviv-Jaffa District. You undertake not to initiate any class action, for any reason, against The Jerusalem Post and to claim your damages only according to this agreement.
+      
+    2.  1.1**News &. Updates:** The Jerusalem Post shall provide You with access to articles, news updates, opinion columns and other content, all through its website located at http://www.jpost.com (“Website”). Such content shall be provided either by The Jerusalem Post or by chosen affiliates and 3rd parties, where marked as such.
+      
+    4.  1.2**Blogs and Commentary:** The Jerusalem Post shall provide You with access to blog posts, videos and other media made by selected 3rd parties. such content is brought at the sole responsibility and liability of such 3rd Parties.
+      
+    6.  1.3**User Submissions, Including Comments:** The Jerusalem Post shall provide You with an option to contribute and post Your commentary in regards to News, Updates, Blogs or other users contributions or commentaries.
+      
+    8.  1.4**Premium Content:** The Jerusalem Post shall provide You with additional content, commentary and information, all defined as “Premium Content” including online editions of the daily "Jerusalem Post" electronic paper, and a selection of exclusive articles from "The Jerusalem Report," The Jerusalem Post's youth magazine "Dash," The Jerusalem Post's "Christian Edition," an easy-Hebrew magazine "Ivrit,", The Jerusalem Post's weekend magazines and more. Such access shall be made against payments and fees, as as described in these Terms of Service
+      
+    10.  1.5**Newsletter:** The Jerusalem Post shall provide You with an option to receive timely updates through Electronic mail, including promotional offers and other relevant information.
+          
+        2.  1.5.1**Registration:** In order to register to the Newsletter, You will be required to enter some relevant information, so that The Jerusalem Post may provide You with better services and promotional activity.
+          
+        4.  1.5.2**Authentication:** Following the Registration process, an email will be sent to Your email box to confirm and authenticate that You requested to register to the Newsletter.
+          
+        6.  1.5.3**Timely Updates:** From time to time, and according to Your preferences, The Jerusalem Post shall send You updates through electronic mail.
+      
+    12.  1.6**Electronic Edition:** The Jerusalem Post shall provide You with an interface to access a digital edition of the Jerusalem Post Print Edition. such access shall be made payments and fees, all as described.
+      
+    14.  1.7**Archive:**The Jerusalem Post shall provide You with access to on-line archives of news articles and any other information stored on the Website.
+      
+    16.  1.8**3rd Party Services:** The Jerusalem Post may, from time to time, offer more services provided by 3rdparties, such as Browser toolbars, educational services, dating services and other services. Such 3rdParty services may be either personalized or non-personalized, and may be branded with The Jerusalem Post's name, but are not provided by it and contain different terms of service which You must accept prior to using them.
+      
+    18.  1.9**Polls:**The Jerusalem Post shall present, from time to time, user polls which shall present its users' views and opinions in regards to statements or questions of interest.
+          
+        2.  1.9.1**Voting:** You may vote once, and once only on each poll. You acknowledge and consent that The Jerusalem Post may track and monitor Your votes and present them to its users, as well as track attempts to fraud it.
+          
+        4.  1.9.2**Results:** The The Jerusalem Post shall avail the results of such polls and may allow access to its polling archive. You acknowledge that the polls made by The Jerusalem Post do not reflect the general public, nor do they reflect the users of The Jerusalem Post's website, as voting in polls is voluntary and not mandatory
+      
+    20.  1.10**News Ticker:**The Jerusalem Post shall avail to you, all with accordance to the features inherent in the code, a short HTML code which you may install, at your own discretion and risk, at any website you may control or own.
+          
+        2.  1.10.1**License:** You are hereby granted a limited, non-exclusive, worldwide, temporary, revocable, non-sublicensable, nontransferable and non-assignable license to use and display such HTML code at websites, according to the stipulations and restrictions setforth.
+          
+        4.  1.10.2**Risk:** You hereby undertake to incur and bear all risk associated with the execution of such computer code.
+          
+        6.  1.10.3**Derivative Works:** You may not amend, modify or otherwise create any derivative works from the HTML code, including any code meant to exploit any vulnerability in Website, inject malicious content or computer code, circumvent The Jerusalem Post's s erver, or otherwise create any work falsifying the origin of the content in the News Ticker
+          
+        8.  1.10.4**Crediting:** Any use of the News-Ticker shall be where The Jerusalem Post is properly credited for the origin of the news.
+      
+    22.  1.11**Send Article:** The Jerusalem Post provides you with an Interface to send articles to your friends by electronic correspondence.
+      
+    24.  1.12**Additional Services:** The Jerusalem Post may, from time to time, add additional services and portions to the Website, which may include additional terms.
+      
+    26.  1.13 **Classified Ads:** The Jerusalem Post may avail you to an interface to publish and/or search classified ads, either for real estate, employment or other matters. In such case, the Jerusalem Post may charge rates in accordance to article 3 to these Terms and the content of any classified ad you submitted shall be subject to the Jerusalem Post's Contribution Policy as set forth in article 4 to these terms.
+  
+3.  2.**Fees and Charges:** Services are provided either free of charge or against a set fee, all with consideration of the Service's scope and field. You hereby acknowledge that the free nature of a specific Service is not guaranteed and should any Service incur any costs, You shall pay them in order to use that Service.  
+      
+    2.  2.1**Fees:** The Jerusalem Post may, from time to time, set fees as deemed in each Service. The fees set-forth are for non-commercial and personal uses of Service and not for commercial effort or endeavor. Such fees may be monthly, daily or yearly, and you shall be billed according to the fee policy of such service.
+      
+    4.  2.2**Payment:** All payments according to these Terms of Service shall be made by a credit card which You own and for purchase of subscription, personalized service or content. By agreeing to pay or committing to purchase, you shall be required to provide The Jerusalem Post with Your Credit Card
+      
+    6.  2.3**Subscription:** When you register to a subscription service, such as The Jerusalem Post's Premium Service or Electronic Edition Subscriptions, You hereby grant The Jerusalem Post permission to bill you on each calendar month for the services rendered on that specific month. The payment shall be processed by The Jerusalem Post and until you shall notify The Jerusalem Post that you wish to cancel such subscription.
+      
+    8.  2.4**Refunds:** As content is considered intangible goods under Israeli Law, The Jerusalem Post shall by no mean, cause or reason issue any refund, rebate, discount, credit or other form of payment to You, should you decide to annul, cancel or void your subscription.
+  
+5.  3.**Your User Account and Use:** In order to use some of the Services, you will be required to register and open User Account(s), where different accounts may be used for different services. When signing up for a User Account and when using each of the services, You hereby undertake to comply with the following stipulations, as well as any other reasonable orders by The Jerusalem Post, as you may be instructed from time to time.
+      
+    2.  3.1**Eligibility:** You are eligible to enter into these Terms of Service and: (i) were not prohibited by any authorized authority, judicial order to law into entering in any agreement. (ii) are over 18 years of age or obtained consent to enter into these Terms of Service from your parent or guardian. (iii) were not previously prohibited by The Jerusalem Post from using Services or held another User Account. (iv) do not reside in and proscribed proscribed state or member of any proscribed organization. and (v) have all proper authorization, if you are acting on behalf of a corporation, into entering into these Terms of Service.
+      
+    4.  3.2**Personal Use:** Your use of the Services shall be personal and non-commercial. You shall not transfer, distribute or publish any content or portion of the Services to any 3rd parties apart from where available through Service itself (such as in the news-ticker or RSS feed) and shall not sell, resell, syndicate or republish any of the Services.
+      
+    6.  3.3**Authentication of Registration:** When registering to services, you may be required to authenticate Your mean of payment, email address or both in order to make sure that emails will be received and payments shall be made.
+      
+    8.  3.4**True and Correct Information:** You hereby warrant that any information you provided to The Jerusalem Post is true and correct. You shall not use Service to impersonate anyone else or to register on behalf of any other person.
+      
+    10.  3.5**Use of Services:** You will use Services only in a bona-fide manner, and avoid any use which may obstruct, interfere or delay the Services to any other person. You will not use the Services to spam, send unsolicited publications, stalk, harass or threaten any other person or computer system.
+      
+    12.  3.6**Harvesting:** You will not use any automated means, including computer code, crawlers, robots or scripts in order to harvest information, parse, cache or otherwise provide service to any 3rd person. You will not create or use any script, software, code or program that otherwise manipulates, falsifies, adds or removes functionality to the Services.
+      
+    14.  3.7**Copyright:** Apart from where specifically permitted, nothing in these Terms of Service shall constitute as a license to use any portion of copyrighted material titled by The Jerusalem Post. You will not modify, create derivative works, distribute or otherwise amend the Services, apart from where specifically permitted, any portion of the Service.
+      
+    16.  3.8**News Ticker:** When using the News-Ticker in any of Your websites, you hereby grant The Jerusalem Post the right to track, monitor and inspect any elements and any visits to such website, as well as retain statistical and analytical information, all as made available by The Jerusalem Post's servic
+      
+    18.  3.9**RSS:** You may use The Jerusalem Post's RSS feed in order to create any application, service or website as well as other services, as longs as such services do not crawl or otherwise parse, display or publish any content from the Website which was not presented in the RSS feed. You may use and display the images attached to the RSS feed in Your website, application or service only with the content and text attached to it.
+      
+    20.  3.10**Newsletter:** You may read the Jerusalem Post's Newsletter and even forward it to your friends, as long as the following conditions are met: (i) you do not falsify any information and keep all original text intact. (ii) you will not use the Service to spam others. and (iii) you shall comply with the specific copyright license as set-forth in the copyright chapter.
+      
+    22.  3.11**Send Article:** You may use The Jerusalem Post's Send Article feature only in a bone-fide manner and avoid spamming, sending mass unsolicited emails or impersonating others when doing so.
+  
+7.  4.**Contribution Policy:** By either providing The Jerusalem Post with textual material or by using The Jerusalem Post's Services to create textual or other content, You hereby accept The Jerusalem Post Contribution Policy as set forth. You acknowledge that any violation of the Contribution Policy may cause termination of Your Service, removal of Your content or contribution and legal action by both The Jerusalem Post and the person whose rights were infringed. For the purpose of this Policy, the term Contribution shall refer to: (i) images and/or text used in creating user generated content, comments or blog posts. (ii) images retrieved from 3rd parties in such comments. (iii) description, text and information processed through Service. (iv) submissions made through Service.
+      
+    2.  4.1**Copyright License:** You hereby grant The Jerusalem Post an irrevocable, permanent, unlimited, world-wide, royalty-free, sublicensable, non-exclusive license to use Your Contribution and to allow Users to view Your Contributions according to the functionality of Service and through or other 3rd party services, including the creation of derivative works and the creation of three dimensional works.
+      
+    4.  4.2**Model Release:** You hereby grant The Jerusalem Post the permission to use and display Your Contribution and Your Name in order to endorse The Jerusalem Post.
+      
+    6.  4.3**Offensive Content:**You hereby warrant that Your Contribution are not offensive and do not infringe the right of any 3rd party, including, but not only:
+          
+        2.  4.3.1**Intellectual Property Infringing:** Your Contribution does not infringe any 3rd party copyright, design, patent, trademark, trade secrets or any other intellectual property rights.
+          
+        4.  4.3.2**Pornography:** Your Contribution does not contain any text, image or depiction including nudity, profanity, sexual activity, sexual innuendos, sexually offensive or otherwise obscene.
+          
+        6.  4.3.3**Slanderous:** Your Contribution does not slander, defame or otherwise harm the good name of others.
+          
+        8.  **Hate Speech and Racist:** Your Contribution does not include any hate speech or racist opinions, as well as does not incite others for violent acts against persons solely in regards to their inclusion of a specific groups.
+          
+        10.  4.3.4**Scams:** Your Contribution is not used to initiate any scam, market manipulation, pyramid scheme, phishing or otherwise any use which may be used to extract goods and/or money from others, including any virtual property.
+          
+        
+    7.  4.4**Warranty:** You hereby warrant that You are either the sole proprietor or a designated licensee of any Contribution You process through service and that no other party's rights are infringed or violated by using Contribution and Service. You moreover warrant that that no legal claim, dispute or lawsuit was filed against You or threatened against You for publishing Contribution.
+      
+    9.  4.5**Notice and Takedown Mechanism:** In order to protect Your rights, The Jerusalem Post has set up this Notice and Takedown Mechanism to help You protect Your Contributions and to ensure that no unauthorized use is made.
+          
+        2.  4.5.1**Prescreen and Moderation:** You acknowledge that The Jerusalem Post cannot pre-screen all Contributions, but that it shall have the right (but not the obligation) in their sole discretion to refuse or remove any Contribution or User Account that is available via the Service. The Jerusalem Post shall have the right to remove any Contribution or User Account that violates these Terms of Service or is otherwise objectionable.
+          
+        4.  4.5.2**Disclosure of Content:** : You acknowledge and agree that The Jerusalem Post may preserve Contribution and may also disclose Contribution if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process. (b) enforce these Terms of Service. (c) respond to claims that any Contribution violates the rights of third-parties. or (d) protect the rights, property, or personal safety of The Jerusalem Post, its Users, and the public. You understand that the technical processing and transmission of the Service, including your Contribution, may involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+          
+        6.  4.5.3**Harmless:** You agree and warrant to hold The Jerusalem Post and Users harmless and to immediately indemnify The Jerusalem Post or Users for any claim of copyright infringement, trademark dilution or patent infringement for any use of Contribution according to these Terms of Service. You also agree to indemnify The Jerusalem Post and/or Users for any 3rd party lawsuit for Copyright infringement due to their use of Contribution made available by You.
+          
+        8.  4.5.4**Cease and Desist:**The Jerusalem Post values others Your Rights, and therefore shall comply with all state regulations regarding 3rd party rights. Should you encounter any Contribution which you believe to be in violation of any of Your rights, good name or copyrights, Please file an infringement complaint to our Content officer: updates@jpost.com. Our officer shall examine your complaint and shall forward it to the User who published said Contribution for his answer, if possible. Should Your complaint be false, harassing or in order to prevent legal use of Service, you shall bear all liability to compensate the User which you reported as infringing and/or The Jerusalem Post. In your complaint you will be required to inform us with: (i) a written statement regarding what Contribution infringes your rights and proof that You hold those rights. (ii) what is the exact URL of the Contribution. (iii) notification that you believe that the use made by the Contribution is not considered fair-use, criticism, consumer protest or any other protected speech.
+          
+        10.  4.5.5**Moderation:** Pursuant to any Cease and Desist notification, and promptly thereafter, The Jerusalem Post will moderate the Content and review your request. The Jerusalem Post shall notify the User who posted the Content on Your complaint, including Your information and request his response, if possible.
+          
+        12.  4.5.6**Removal or Restoration:** Should the User who posted the content fail to respond within 96 hours, The Jerusalem Post shall remove the Content. had he responded, The Jerusalem Post will inspect his response and had there any material questions of fact or law arise, The Jerusalem Post shall forward his personal information directly to You so you could commence litigation over You complaint.
+      
+    11.  4.6**Indemnification:**You hereby warrant and agree to hold The Jerusalem Post harmless and to indemnify The Jerusalem Post for any damage, loss, expense, legal expense or cost incurred as a result of (i) Your posting of any Contribution in direct violation of The Jerusalem Post Contribution Policy, including any false representation. OR (ii) any claim, complaint or notification filed maliciously or negligently against any User where no such claim had any legal standing.
+  
+9.  5.**Copyright:**Unless specifically stated, all content and title in Service is copyrighted and titled to The Jerusalem Post. The Jerusalem Post provides you with a limited, personal license to use and view Services for your personal use.
+      
+    2.  5.1**Licenses:**The Jerusalem Post hereby licenses you, in regards to these specific Services, the following licenses:
+          
+        2.  5.1.1**RSS:** You are hereby granted a limited, non-exclusive, limited, temporary, nonassignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's RSS feed, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly.
+          
+        4.  5.1.2**News Ticker:** You are hereby granted a limited, non-exclusive, limited, temporary, non-assignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's News Ticker, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly
+          
+        6.  5.1.3**Newsletter:**You are hereby granted a limited, non-exclusive, limited, temporary, non-assignable, non-transferable, restricted and revocable license to use, publish and display the information provided by the Jerusalem Post's Newsletter, as long as no derivative work of the text, images or videos in the feed are changed or modified and as long as both The Jerusalem Post and the original author of the text are attributed properly.
+  
+11.  6.**Warranty and Liability:**
+      
+    2.  6.1**No Warranty:** The Jerusalem Post does not warrant for Service and supplies it on an “as-is” and “as-available” basis. Your Use of Service is at your own risk and under your liability. The Jerusalem Post makes no warranty that (i) the Service will meet your requirements and (ii) the Service will be uninterrupted, timely, secure, or error-free and (iii) the results that may be obtained from the Use of the Service will be accurate or reliable and (iv) the quality of any products, services, information, or other material purchased or obtained by You through Service will meet your expectations, or (v) any errors in the Service will be corrected.
+      
+    4.  6.2**No Liability:** For no case and for no reason shall The Jerusalem Post be held liable for any damage, direct or indirect, consequential, exemplary, physical or special, to You, any User or any 3rd party due to its misperformance of duties herein. The Jerusalem Post provides Service on an AS-IS basis and shall not be held liable, to the extent permitted by law, by any case of misconduct, negligence, gross negligence, malice or any other mean, to any damages or loss of property, including damages to: virtual property, reputation and business reputation, User Account information including login information, loss of profit, loss of good name, all resulting from the use or inability to use Services rendered by The Jerusalem Post.
+  
+13.  7.**Amendments:** The Jerusalem Post may amend, from time to time, these Terms of Service and may, or may not, notify you as these amendments are made. Should you decide that any amendment in these Terms of Service does not constitute as your understanding with The Jerusalem Post, you may, at your own will, terminate these Terms of Service and terminate your User Account. All Contributions you created shall remain stored on Service and shall be used according to The Jerusalem Post' Policies and amended terms of service. In no case will these Terms of Service have any retroactive change nor would they apply on Your conduct without your consent, therefore you undertake to examine, from time to time, any amendments in these Terms of Service.
+  
+15.  8.**Termination:** The Jerusalem Post may, at its sole discretion, terminate these Terms of Service, Service or any other service rendered by it due to any reason, for any User, including You, or with no reason at all or for any reason, including, without limitation, for lack of use or if The Jerusalem Post believes that you have violated or acted inconsistently with the understandings or spirit of the Terms of Service. The Jerusalem Post may also, in its sole discretion, and at any time discontinue providing the Service, or any part thereof, with or without notice. You agree that any termination of your access to the Service under any provision of these Terms of Service may be effected without prior notice, and acknowledge and agree that The Jerusalem Post may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service. Further, you agree that The Jerusalem Post shall not be liable to you or any 3rd party for any termination of your access to the Service.
+  
+17.  9.**3rd Party Advertisements:** The Jerusalem Post may, at its own discretion and for its causes, include within Service any links for 3rd party websites, advertisements or links for applications (3rd Party Content). The Jerusalem Post does not warrant for 3rd Party Content or availability thereof nor does it endorse it. The Jerusalem Post shall not be held, or claimed to be held, liable for any 3rd Party Content, its legality or illegality, its adequacy with regulations and its quality.
+  
+19.  10.**Entire Agreement, Waiver:** These TOS constitute the entire understandings between parties and will only be amended in writing. No waiver to perform any The Jerusalem Post' rights under this agreement shall constitute amendments of it.
+  
+21.  11.**Governing Laws, Jurisdiction, No Class Action:** These Terms shall be solely governed by the laws of the state of Israel, including their statutes regarding conflict of laws and may be solely brought to the competent courts of the Tel-Aviv-Jaffa District. You undertake not to initiate any class action, for any reason, against The Jerusalem Post and to claim your damages only according to this agreement.
+
+  
+Information
+
+*   About Us
+*   Feedback
+*   Staff E-mails
+*   Copyright
+*   Advertise with Us
+*   Statistics
+*   Ad Specs
+*   Terms Of Service
+*   Privacy Policy
+
+The Jerusalem Post Group
+
+*   Learn Hebrew
+*   The Jerusalem Report
+*   Our Magazines
+*   Edition Francaise
+*   Green Israel
+*   Jerusalem Post Lite
+*   Ulpan Online
+*   Magazines Terms
+
+Tools and services
+
+*   JPost Mobile Apps
+*   JPost Premium
+*   JPost Newsletter
+*   JPost News Ticker
+*   JPost RSS feeds
+*   JPost.com Archive
+*   JPost Archives
+*   JPost Alert
+*   Find us on Google+
+
+Conferences
+
+*   NYC Conference
+*   Diplomatic Conference
+
+Sites Of Interest
+
+*   Car rental Israel
+*   Jerusalem Hotels
+*   KKL-JNF
+*   Poalim Online
+*   Old City Tours
+*   itraveljerusalem.com
+*   Jewish Gifts, Jewelry &. Judaica
+*   Skin Care Reviews
+*   Innovation2014
+*   trending stories
+
+Now Available
+
+On iphone, ipad and android
+
+Copyright © 2014 Jpost Inc. All rights reserved • Terms of Use • Privacy Policy
+
+Ux Design &. Strategy    •
