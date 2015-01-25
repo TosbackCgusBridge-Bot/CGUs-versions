@@ -97,6 +97,7 @@ Aéropostale Go
     *   Invite Only
     *   Junie &. Jade
     *   Live Love Dream
+    *   Lorimer
     *   Madden Girl
     *   Map to Mars
     *   Mia
