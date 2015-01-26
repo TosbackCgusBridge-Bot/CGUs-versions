@@ -302,7 +302,7 @@ Support The Programs You Love
     *   Blogs
     *   Help
 
-© 2014 NPR
+© NPR
 
 *   Help
 *   Contact
