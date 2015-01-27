@@ -1,4 +1,4 @@
-**Privacy Policy** Skip to main content **eLearners.com** Sign In  
+Skip to main content **eLearners.com** Sign In  
 
 Campus Main Menu
 
