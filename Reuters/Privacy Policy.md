@@ -159,9 +159,8 @@ Details on Practitioner Insights (PDF)
 *   Connect With Us
 *   About Us
 *   Email Exclusives &. Newsletters
-*   Today's Deals
 *   Headnote of the Day
 *   Editorial Submissions
 *   Legal Notices
 
-Careers | Site Map | Terms of Use | Privacy Statement © 2014 THOMSON REUTERS
+Careers | Site Map | Terms of Use | Privacy Statement © 2015 THOMSON REUTERS
