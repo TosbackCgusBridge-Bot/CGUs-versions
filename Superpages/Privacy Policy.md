@@ -4,7 +4,6 @@
 *   Maps
 *   Local Weather
 *   Lottery Results
-*   SuperGuarantee
 
 *   Sign In
 
@@ -198,7 +197,6 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Delivery Opt-Out
 *   Maps &. Directions
 *   Social Media
-*   SuperGuarantee®
 *   State Directory
 *   White Pages
 *   Yellow Pages
