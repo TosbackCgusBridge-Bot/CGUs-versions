@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  OPAL
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13214757594
+true true C13216369071
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Sun Jan 25 05:35:40 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Mon Jan 26 01:48:15 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,15 +45,26 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Home Sale 30-50% Off shop the home sale shop window shop bedding and bath shop home decor shop kitchen and dining shop luggage
+*   3 Days Only
+    
+    Online only. January 26 through 28. Code: JANBUY52
+    
+    get details \*See exclusions and details
+    
+    Select styles
+    
+    50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades shop area and accent rugs30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcarePlus Extra 20% Off All Online Clearance shop clearance
+*   3 Days Only
+    
+    Online only. January 26 through 28. Code: JANBUY52
+    
+    get details \*See exclusions and detailsExtra 20% Off\* select original, regular and sale items shop women's shop women's shop men's shop kids' shop baby shop shoes shop fashion jewelry shop accessoriesPlus Extra 20% Off All Online Clearance shop clearance
 
-$36 JCPenney Home rod-pocket monroe tailored 84" valance. Originally $60.
-
-shop now Red Zone 50-75% Off Clearance
+Red Zone Clearance 50-75% Off
 
 In store and online.
 
-find a store Win Hearts With The Perfect Gift
+shop now Win Hearts With The Perfect Gift
 
 Converse for the family in your favorite styles.
 
@@ -61,33 +72,31 @@ Excluded from coupon.
 
 shop now
 
-25-40% Off Select Women's Dresses
+25-40% Off Select Dresses
 
 shop now
 
-40-50% Off Select Men's Suit Separates and Sport Coats
+40-60% Off\* Select Fine Jewelry
+
+Code: 52JEWEL
+
+shop now \*See exclusions and details.
+
+40% Off Select Dress Shirts
 
 shop now
 
-40-60% Off Select Fine Jewelry and Bijoux Bar
-
-shop now
-
-Save on Select Kids' Xersion
+40% Off Select Carter's
 
 shop now
 
 25% Off Select Bras When You Buy 2 or More.
 
-shop now Give Love
+shop now 40% Off Curtains
 
-Gifts for everyone on your love list.
+Select styles when you buy 2 or more.
 
-shop gifts 40-60% Off Luggage
-
-Select styles.
-
-shop luggage JCP Rewards
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
