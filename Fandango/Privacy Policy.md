@@ -5,43 +5,41 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   American Sniper
-    *   The Wedding Ringer
+    *   The Boy Next Door
     *   Paddington
+    *   The Wedding Ringer
     *   Taken 3
-    *   Selma
     *   The Imitation Game
+    *   Strange Magic
+    *   Selma
+    *   Mortdecai
     *   Into the Woods
     *   The Hobbit: The Battle of the Five Armies
-    *   Unbroken
-    *   Blackhat
-    *   Night at the Museum: Secret of the Tomb
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Mortdecai
-    *   The Boy Next Door
-    *   Strange Magic
-    *   Americons
-    *   Big Muddy
-    *   Black Sea
-    *   Cake
-    *   Song One
-    *   The Duke of Burgundy
-    *   Salvation Army
-    *   Mommy
+    *   Black or White
+    *   The Loft
+    *   Project Almanac
+    *   Above and Beyond
+    *   The Devil's Violinist
+    *   Girlhood
+    *   Running Man
+    *   Supremacy
+    *   Timbuktu
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Black or White
-    *   The Loft
-    *   Project Almanac
     *   Jupiter Ascending
     *   Seventh Son
     *   The SpongeBob Movie: Sponge Out of Water
     *   Fifty Shades of Grey
     *   Kingsman: The Secret Service
+    *   The Duff
+    *   Hot Tub Time Machine 2
+    *   McFarland, USA
     *   See All Coming Soon
     
     Explore More
@@ -64,7 +62,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News Chiwetel Ejiofor is up for a key role in 'Dr. Strange'. Aquaman may get FOUR movies Read More 'X-Men: Apocalypse' We now know who will play the young Cyclops, Jean Grey and Storm Read More Which actresses are testing for the female lead in Gareth Edwards' 'Star Wars'? Read More Explore More
+*   Movie News Featured Movie News SAG Awards 2015: winners, snubs, surprises Read More 'X-Men: Apocalypse' We now know who will play the young Cyclops, Jean Grey and Storm Read More Which actresses are testing for the female lead in Gareth Edwards' 'Star Wars'? Read More Explore More
     *   Family
     *   FrontRunners
     *   The Hunger Games Guide
