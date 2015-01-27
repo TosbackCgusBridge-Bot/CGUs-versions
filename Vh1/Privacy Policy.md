@@ -14,6 +14,7 @@
 *   Music
     *   Gossip + News
     *   Storytellers Live
+    *   Super Bowl Blitz
     *   Top 20 Countdown
     *   Greatest Lists
     *   Music Videos
@@ -21,7 +22,6 @@
     *   VH1 Classic
     *   VH1 Soul
     *   VH1 You Oughta Know
-    *   SoundClash
 *   Shop
 
 *   Follow VH1
