@@ -95,15 +95,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  See all ThinkCentre Desktops
     3.  Lenovo Desktops Stylish Design, Maximum Fun
         1.  Horizon Table PCs: Multi-User Entertainment PCs
-        2.  Flex Series All-in-Ones: Multi-User All-in-One PCs
-        3.  A Series All-in-Ones: Stylish All-in-One Desktops
-        4.  B Series All-in-Ones: Multimedia All-in-One Desktops
-        5.  C Series All-in-Ones: Entry-Level All-in-One Desktops
-        6.  H Series Towers: Budget-Friendly Ultra Small Towers
-        7.  K Series Towers: Extreme Performance Towers
-        8.  Q Series Minis: Mini Home Theatre PCs
-        9.  N Series All-in-Ones: Android-Based All-in-Ones
-        10.  See all Lenovo Desktops
+        2.  A Series All-in-Ones: Stylish All-in-One Desktops
+        3.  B Series All-in-Ones: Multimedia All-in-One Desktops
+        4.  C Series All-in-Ones: Entry-Level All-in-One Desktops
+        5.  H Series Towers: Budget-Friendly Ultra Small Towers
+        6.  K Series Towers: Extreme Performance Towers
+        7.  Q Series Minis: Mini Home Theatre PCs
+        8.  N Series All-in-Ones: Android-Based All-in-Ones
+        9.  See all Lenovo Desktops
     4.  Erazer Desktops Maximum Performance, Extreme Gaming
         1.  Erazer X Series: Extreme-Performance Gaming PCs
         2.  See all Erazer Desktops
@@ -125,38 +124,13 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     1.  See all Workstations
     2.  ThinkStation Workstations Professional-Strength Workstations
         1.  P Series: Entry-Level Power &. Stability
-        2.  30 Series: High-Performance, Powerful Graphics
-        3.  See all ThinkStation Workstations
+        2.  See all ThinkStation Workstations
     3.  ThinkPad Mobile Workstations The Ultimate Mobile Workstation
         1.  W Series: Portable Workstations
         2.  See all ThinkPad Mobile Workstations
     4.  See all Workstations
     
 5.  Servers &. Storage
-    1.  See all Servers &. Storage
-    2.  Racks Balanced Design, Built for Business
-        1.  RS140
-        2.  RD340
-        3.  RD440
-        4.  RD540
-        5.  RD550
-        6.  RD650
-        7.  See all Racks
-    3.  Towers Workload Hungry, Budget Friendly
-        1.  TS140
-        2.  TS440
-        3.  TD340
-        4.  TD350
-        5.  See all Towers
-    4.  Enterprise Storage Network Attached. Business-Class.
-        1.  Network Storage
-        2.  Direct Storage
-        3.  Video Surveillance
-        4.  See all Enterprise Storage
-    5.  See all Servers &. Storage
-    6.  *   The New X Factor Lenovo Welcomes System X Business
-            
-            Learn More >
 6.  Accessories &. Software
     1.  See all Accessories &. Software
     2.  Accessories Hardware Pairings for Your PC
