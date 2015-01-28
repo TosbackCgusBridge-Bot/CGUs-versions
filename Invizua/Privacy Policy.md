@@ -7,8 +7,8 @@ Home Omniscope Download Forums Support Company   Knowledge Base
 *   Getting Started
 *   Data Sources
 *   Deployment/Publishing
-*   Automation
-*   Integration Options
+*   Server Topics
+*   Integration Topics
 *   Scaling/Performance
 *   Reference
 *   Specifications
