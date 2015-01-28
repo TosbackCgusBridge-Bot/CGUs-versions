@@ -1,9 +1,7 @@
 Go to Whitepages.com  
+Go to Whitepages Help Center  
 Customer Support
 
-*   Known Issues
-*   FAQ
-*   Contact
 *   Give Feedback
 
 Go Back  
@@ -84,13 +82,6 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
   
 
-*   Quick Find
-    *   FAQ
-    *   Known Issues
-    *   Other
-    *   Whitepages
-    *   Whitepages Pro
-*   Remove your information Click here to remove your personal information from Whitepages
 *   Are you a public official residing in California? Click here to remove your personal information from Whitepages
 
 Copyright © Whitepages Customer Support
