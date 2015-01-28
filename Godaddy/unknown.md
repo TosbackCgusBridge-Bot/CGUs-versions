@@ -326,7 +326,7 @@ You agree to comply with Registry’s Acceptable Use policies and Terms of Servi
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
 
-**18\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .engineering. .exchange. .gripe. .ink. .RESt. .wiki. .xyz**
+**18\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .engineering. .exchange. .gripe. .ink. .party. .RESt. .science. .SPace .wiki. .xyz**
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
@@ -366,7 +366,7 @@ You agree to comply with the Registry's Acceptable Use policy and Terms and Serv
 
 You will indemnify, defend and hold harmless the Registry Operator, and its subcontractors (including the registry back-end services provider) and their respective directors, officers, employees, affiliates and agents of each of them from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to your domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without Registrar’s or Registry Operator’s prior written consent, which consent shall not be unreasonably withheld and that this indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
-23\. provisions specific to GMO Registry registrations: .nagoya. .tokyo. .yokohama
+23\. provisions specific to GMO Registry registrations: .nagoya. .ryukyu. .tokyo. .yokohama
 
 You agree to comply with Registry’s Acceptable Use policies and Registration Policies, if any, as they may be instituted or updated from time to time and published on the Registry website located here, and incorporated herein by reference.
 
