@@ -9,17 +9,15 @@ Owner Benefits
 
 Pay My Bill
 
-Lexus Enform
+Lexus Enform®
 
 Scheduled Maintenance
 
-FAQ
+Knowledge Center/Guide
 
 Lexus Magazine
 
 Lexus Navigation
-
-Safety Recalls &. Service Campaigns
 
 Vehicle Search
 
@@ -278,7 +276,6 @@ Additional Sites
 *   Vida Lexus
 *   L Studio
 *   Lexus Merchandise
-*   Lexus International
 
 *   Find Us On Facebook
 *   Follow Us On Twitter
