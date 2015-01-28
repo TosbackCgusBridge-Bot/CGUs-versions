@@ -65,13 +65,13 @@ Gift Cards | Offers | Visa Signature
 *   Movie News Featured Movie News SAG Awards 2015: winners, snubs, surprises Read More 'X-Men: Apocalypse' We now know who will play the young Cyclops, Jean Grey and Storm Read More Which actresses are testing for the female lead in Gareth Edwards' 'Star Wars'? Read More Explore More
     *   Family
     *   FrontRunners
-    *   The Hunger Games Guide
     *   Hero Central
-    *   The Hobbit Movie Guide
     *   House of Screams
+    *   The Hobbit Movie Guide
     *   Weekend Ticket
     *   Mom's Movie Minute
     *   Reel Kids
+    *   Real D 3D Guide
 *   Sign In Join
 
 Privacy Policy
