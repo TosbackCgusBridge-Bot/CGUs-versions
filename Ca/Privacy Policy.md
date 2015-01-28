@@ -60,7 +60,7 @@ Skip to Main Content Search this site:
     
     *   Great Outdoors Camping, hiking, highway conditions, hunting and fishing, sports, recreation, weather
 
-Privacy Policy
+Image© Image© Image© Image© Image© Privacy Policy
 
 For details regarding CA.gov Privacy Policy, please see our Conditions of Use. The text below reflects general requirements for State departments.
 
