@@ -86,13 +86,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 3.  Desktops &. All-in-Ones
     1.  See all Desktops &. All-in-Ones
     2.  ThinkCentre Desktops Premium Performance, Solid Reliability
-        1.  E Series All-in-Ones: Stylish SMB Desktops
-        2.  M Series All-in-Ones: Space-Saving Enterprise Desktops
-        3.  M Series Tiny: Full-Featured Micro Desktops
-        4.  M Series Small Form Factors: Compact Enterprise Desktops
-        5.  M Series Towers: Enterprise Desktops
-        6.  M Series Thin Clients: Thin Client Solutions
-        7.  See all ThinkCentre Desktops
+        1.  M Series All-in-Ones: Space-Saving Enterprise Desktops
+        2.  M Series Tiny: Full-Featured Micro Desktops
+        3.  M Series Small Form Factors: Compact Enterprise Desktops
+        4.  M Series Towers: Enterprise Desktops
+        5.  M Series Thin Clients: Thin Client Solutions
+        6.  See all ThinkCentre Desktops
     3.  Lenovo Desktops Stylish Design, Maximum Fun
         1.  Horizon Table PCs: Multi-User Entertainment PCs
         2.  A Series All-in-Ones: Stylish All-in-One Desktops
