@@ -65,7 +65,7 @@ Learn more
   
 
 **Toyota Privacy Policy – Summary**  
-This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2014
+This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2015
 
   
 
@@ -121,7 +121,7 @@ To read our full Privacy Policy click here.
 
   
 
-UPDATED AS OF: January 1, 2014
+UPDATED AS OF: January 14, 2015
 
   
 
