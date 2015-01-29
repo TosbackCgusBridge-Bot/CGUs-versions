@@ -77,7 +77,7 @@ Toggle navigation ×
 
 Privacy Policy
 
-Last modified on: December 17th 2014
+Last modified on: January 28th 2015
 
 Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
 
@@ -119,13 +119,7 @@ Connexity also participates in the Enhanced Notice program of the Digital Adver
 
 Connexity’s compliance with self-regulation can be monitored by one of several OBA compliance providers at the client’s discretion.
 
-TRUSTe
-
-Evidon
-
-DoubleVerify – Trust in Advertising
-
-A Special Note about the European Union
+TRUSTe Evidon DoubleVerify – Trust in Advertising A Special Note about the European Union
 
 Connexity complies with the EU and Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit http://www.export.gov/safeharbor/. In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens can learn more here www.youronlinechoices.com and should submit inquiries or complaints regarding this Privacy Policy to privacy@connexity.com.
 
