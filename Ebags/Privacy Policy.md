@@ -1,4 +1,4 @@
-**You are here:** Help Center Home » Privacy &. Security » Privacy Policy Privacy Policy Our Privacy Pledge
+Back to Help Center Privacy Policy Our Privacy Pledge
 
 We understand and share your concern about privacy. We want to assure you that eBags respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to privacy@ebags.com.
 
@@ -10,8 +10,6 @@ We understand and share your concern about privacy. We want to assure you that e
 *   A special note about children's privacy
 *   Privacy Policy changes
 *   Contacting eBags with question or comments
-
-  
 
 What type of information does eBags collect? Our goal is to provide you with a safe and enjoyable shopping experience. When we collect information about you it is in an effort to create a customized and meaningful experience with the products and brands that are most relevant to you. You are free to browse the eBags site without revealing any personal information about yourself. However, once you give us your personal information, you are not anonymous to us.
 
