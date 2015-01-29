@@ -19,15 +19,15 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Women
         *   Featured Shops
             *   Back to Women Featured Shops
-            *   Outerwear Shop
             *   2015 Swim Shop
             *   Activewear Collection
-            *   Shoes &. Boots
+            *   Cardigan Shop
+            *   Shoes &. Sandals
             
             *   New Arrivals
             *   Best of Spring 2015
             *   Starfish Collection
-            *   Cardigan Shop
+            *   Outerwear Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -38,11 +38,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Petite Plus
             *   Tall Plus
     *   *   Categories
-            *   Outerwear
+            *   Swimsuits
             *   Knit Tops, Polos &. Turtlenecks
             *   Shirts &. Blouses
             *   Sweaters &. Cardigans
-            *   Sweatshirts
             *   Pants &. Crops
             *   Jeans
             *   Shorts
@@ -50,7 +49,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Skirts
             *   Blazers &. Jackets
             *   Activewear
-            *   Swimsuits
+            *   Outerwear
             *   Sleepwear
             *   Shoes
             *   Socks, Tights &. Underwear
@@ -61,12 +60,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Outerwear Shop
+            *   Jeans 101
             *   No Iron Shop
-            *   Shoes &. Boots
+            *   Shoes &. Sandals
+            *   Activewear Collecion
             
             *   New Arrivals
-            *   Supima Shirts &. Sweaters
+            *   Spring Favorite Looks
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -77,31 +77,30 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Tall
             *   Big &. Tall
     *   *   Categories
-            *   Outerwear
             *   Polos, T-shirts &. Turtlenecks
             *   Dress Shirts
             *   Casual Button-down Shirts
+            *   Outerwear
             *   Sweaters &. Cardigans
             *   Sweatshirts &. Hoodies
+            *   Activewear
             *   Pants
             *   Jeans
             *   Shorts
             *   Sportcoats &. Blazers
             *   Sleepwear
-            *   Swimwear
+            *   Swimsuits
             *   Shoes
             *   Ties
             *   Belts &. Accessories
             *   Hats, Gloves &. Scarves
             *   Socks &. Underwear
-            *   Activewear
 *   Kids
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
-            *   Outerwear Shop
             *   Swim Shop
-            *   Shoes &. Boots
+            *   Shoes &. Sandals
             *   School Uniforms
             
             *   New Arrivals
@@ -119,7 +118,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
                 *   Big Boy (size 7-20)
     *   *   Girls
             *   Back to Kids Girls
-            *   Outerwear
+            *   Swimsuits
             *   Tops
             *   Graphic Tees
             *   Sweaters &. Cardigans
@@ -132,7 +131,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers &. Jackets
             *   Activewear
             *   Sleepwear
-            *   Swim
+            *   Outerwear
             *   Backpacks &. Lunch Boxes
             *   Tights, Socks &. Underwear
             *   Accessories
@@ -140,7 +139,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes
     *   *   Boys
             *   Back to Kids Boys
-            *   Outerwear
+            *   Swimsuits
             *   Tops
             *   Graphic Tees
             *   Sweaters
@@ -151,7 +150,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Blazers &. Jackets
             *   Activewear
             *   Sleepwear
-            *   Swim
+            *   Outerwear
             *   Backpacks &. Lunch Boxes
             *   Ties &. Accessories
             *   Socks &. Underwear
@@ -208,9 +207,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find Your School
-            *   Kids' Outerwear Shop
             *   After School
-            *   Shoes &. Boots
+            *   Shoes &. Sandals
             
             *   Polos that Perform
             *   Iron Knee Pants
@@ -241,7 +239,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes &. Boots
             *   Accessories
             *   Backpacks &. Bags
-            *   Swim
+            *   Swimsuits
     *   *   Boys &. Men
             *   Back to Uniforms Boys &. Men
             *   Shirts
@@ -256,7 +254,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes &. Boots
             *   Accessories
             *   Backpacks &. Bags
-            *   Swim
+            *   Swimsuits
 *   Sale
     *   Back to Main Menu
     *   *   Sale
