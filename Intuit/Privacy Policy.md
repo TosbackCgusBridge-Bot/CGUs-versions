@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (9)
+*   no saved items
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (9)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true 10.60.248.10 L13349351025
+true true L13351190814
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p11.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Tue Jan 27 03:06:56 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Wed Jan 28 09:25:48 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -172,7 +172,6 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   bedding sets
 
 *   copyright
-*   legal notice
 *   privacy policy
 *   your California privacy rights
 *   product recalls
