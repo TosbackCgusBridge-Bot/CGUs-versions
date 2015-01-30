@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  
+*   Hello  TONYA
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13351190814
+true true C13222849933
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Wed Jan 28 09:25:48 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Thu Jan 29 05:16:27 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,22 +45,25 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 Days Only
-    
-    Online only. January 26 through 28. Code: JANBUY52
-    
-    get details \*See exclusions and details
-    
-    Select styles
-    
-    50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades shop area and accent rugs30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcarePlus Extra 20% Off All Online Clearance shop clearance
-*   3 Days Only
-    
-    Online only. January 26 through 28. Code: JANBUY52
-    
-    get details \*See exclusions and detailsExtra 20% Off\* select original, regular and sale items shop women's shop women's shop men's shop kids' shop baby shop shoes shop fashion jewelry shop accessoriesPlus Extra 20% Off All Online Clearance shop clearance
+Ends January 31. Use Code: GR8T4YOU
 
-Red Zone Clearance 50-75% Off
+Online Only, Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+In Store and Online
+
+Or, Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details. get coupon Home Sale 30-50% Off shop the home sale shop bedding and bath shop kitchen and dining shop home decor shop luggage shop window shop dinnerware Red Zone 50-75% Off Clearance
 
 In store and online.
 
@@ -90,13 +93,13 @@ shop now
 
 shop now
 
-25% Off Select Bras When You Buy 2 or More.
+40% Off Select Lingerie
 
-shop now 40% Off Curtains
+shop now 30-50% Off Area and Accent Rugs
 
-Select styles when you buy 2 or more.
+Select styles.
 
-shop now JCP Rewards
+shop rugs JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
