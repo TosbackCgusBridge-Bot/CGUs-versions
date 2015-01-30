@@ -98,6 +98,10 @@ Fitbit uses your data to provide you with the best experience possible, to help 
 *   Data and logs are used in research to understand and improve the Fitbit Device and Fitbit Service. to troubleshoot the Fitbit Service. to detect and protect against error, fraud or other criminal activity. and to enforce the Fitbit Terms of Service.
 *   De-identified data that does not identify you may be used to inform the health community about trends. for marketing and promotional use. or for sale to interested audiences. See “Sharing of De-identified Data That Does Not Identify You” to learn more.
 
+What Data May be Shared With Third Parties?
+
+First and foremost: We don’t sell any data that could identify you. We only share data about you when it is necessary to provide the Fitbit Service, when the data is de-identified and aggregated, or when you direct us to share it.
+
 Data That Could Identify You
 
 Personally Identifiable Information (PII) is data that includes a personal identifier like your name, email or address, or data that could reasonably be linked back to you. We will only share this data under the following circumstances:
