@@ -5,8 +5,6 @@ Procter &. Gamble Skip to main content Search
 *   Partners &. Suppliers
 *   WORLDWIDE SITES
 
-We recently updated our Privacy Policy. Click here for information about these updates
-
 P&G Privacy Notice
 
 Scope
