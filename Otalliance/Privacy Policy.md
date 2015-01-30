@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Jan 28, 2015 Data Privacy &. Protection Day Town Hall - San Francisco
-
-Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S.  Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident.
-
 Tue, Feb 3, 2015 Data Privacy &. Protection Day Town Hall - NYC
 
 Data Privacy &. Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S. Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident. 
@@ -111,8 +107,14 @@ Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
+Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD".
+
 *   OTA Blog
 *   Newsletters
+
+Thu, Jan 29, 2015 Why Data Privacy Day is Important for the State of Web Security
+
+As technology continues to evolve, web security threats are on the rise with an estimated 160,000 samples of malware  detected around the world each day. Unfortunately, 70% of these attacks are targeted at small businesses and other particular industries (e.g. retail, healthcare and hospitality).
 
 Tue, Jan 6, 2015 National Series of Town Halls and Workshops to Promote Data Privacy &. Protection Day Announced
 
@@ -128,10 +130,6 @@ It is no longer the threat from ballistic missiles, our physical borders or hija
 Tue, Dec 9, 2014 OTA Supports American Bankers Assoication Petition to the FCC
 
 OTA supports the petition for exemption of the Telephone Consumer Protection Act (TCPA) as requested by the ABA, limited to security and fraud prevention notification purposes and respectfully urges the Commission to grant the requested exemption. Doing so will facilitate prompt and efficient communication of time-sensitive information that can both limit the occurrence and impact of online crime and identity theft.
-
-Fri, Nov 21, 2014 The Promise of Ad Supply Chain Accountability
-
-A few weeks ago, I attended the IAB Ad Operations Summit. The Summit focused on cleaning up the advertising supply chain, combating fraud, and identifying more streamlined ways to accurately measure ad performance. The underlying message of the Summit was the need for collaboration and industry buy-in. Just as standardization is impossible unless everyone is committed to following the same standards, cleaning up the supply chain is impossible unless everyone agrees to identify and shut out disreputable players.
 
 Resources
 
