@@ -756,6 +756,7 @@ Facebook Twitter YouTube Instagram
         *   LEADERSHIP
         *   INVESTORS
         *   ADVERTISERS
+        *   PLAYER PANEL
     *   JOBS
         *   BENEFITS
         *   OPEN POSITIONS
