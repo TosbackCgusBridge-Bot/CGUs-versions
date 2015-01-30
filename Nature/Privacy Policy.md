@@ -207,7 +207,7 @@ Search:Search Donate Now
     *   Behind the Lens
 *   **About** Us \[close\]
     
-    *   **_Nature Conservancy_ Magazine**
+    *   **Magazine**
         
         Our award-winning publication covers the best of our work. 
         
