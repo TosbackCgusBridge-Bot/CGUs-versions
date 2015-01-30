@@ -54,7 +54,6 @@ Main Menu
 
 *   Store
     *   Our Online Store
-    *   F-P Music Store
     *   Special Offers
 
 *   Products
