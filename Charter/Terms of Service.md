@@ -14,9 +14,11 @@ The links below provide you access to Charter's current policies &. agreements.
 *   Commercial Service Terms and Conditions
     *   Terms and Conditions of Service
     *   Internet Acceptable Use Policy
+    *   Business Voice Service Terms and Conditions
+    *   Business Voice Service Price Guide
 *   Website Use Terms and Conditions
 *   Purchase Order Terms and Conditions for Goods and/or Services
-*   Charter Telephone Tariffs (includes Customer Terms and Conditions)
+*   Charter Competitive Telephone Tariffs (includes Customer Terms and Conditions)
 *   Procedure for Submitting a Notice of Claimed Copyright Infringement
 *   Residential Price Guarantee Terms and Conditions
 *   State-Specific Complaint Procedures
