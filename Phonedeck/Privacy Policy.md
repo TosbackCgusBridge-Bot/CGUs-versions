@@ -84,11 +84,11 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 Recent Blog Posts
 
+*   Phonedeck has won Disruptive Innovator 2015 award during Enterprise Mobility Management Forum January 30, 2015
 *   Phonedeck is hiring – Windows Phone Developer wanted! January 12, 2015
 *   Talkfest – free video calling inside Salesforce January 7, 2015
 *   How much time do you spend on manual reporting after business trips? December 18, 2014
 *   Speed up your workflow with the new Phonedeck mobile CRM app December 2, 2014
-*   One Phonedeck to organize and log calls via tablet or computer November 19, 2014
 
 Phonedeck Newsletter Email Address\* First Name\* Last Name\* Company \* = required field About Phonedeck
 
