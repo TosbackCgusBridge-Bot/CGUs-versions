@@ -92,6 +92,7 @@ Aéropostale Go
     *   GIRLS
     *   BC Footwear
     *   Bethany Mota
+    *   Circus by Sam Edelman
     *   DV8
     *   Gola
     *   Invite Only
