@@ -62,7 +62,7 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News That dirty-birdy teddy bear is back! Watch the new first 'Ted 2' trailer Read More We know who our new 'Ghostbusters' female foursome is -- at least according to the director Read More Liam Hemsworth has been offered the lead in 'ID Forever,' the sequel to 'Independence Day' Read More Explore More
+*   Movie News Featured Movie News That dirty-birdy teddy bear is back! Watch the new first 'Ted 2' trailer Read More Meet "Indominus Rex," the fearsome dinosaur in the new 'Jurassic Park'. plus, 'Star Wars' news Read More Liam Hemsworth has been offered the lead in 'ID Forever,' the sequel to 'Independence Day' Read More Explore More
     *   Family
     *   FrontRunners
     *   Hero Central
@@ -321,9 +321,9 @@ Sign up for a FanAlert for a chance to attend the WORLD PREMIERE! ENTER NOW
 
 You could win a high-octane entertainment package when you sign up for a FanAlert! ENTER NOW
 
-**Fifty Shades of Grey Collectible Gift Cards**
+**Seventh Son Free Gift**
 
-Give Grey this Valentine's. Fandango Fifty Shades of Grey Movie Gift Cards. BUY GIFT CARDS
+FREE E-BOOK DOWNLOAD on NOOK Reading Apps™ with ticket purchase. BUY TICKETS
 
 New + Coming Soon
 
