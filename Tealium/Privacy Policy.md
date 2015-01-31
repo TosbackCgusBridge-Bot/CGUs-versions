@@ -111,9 +111,6 @@ Free Recorded Webinar
     *   Tealium University
     *   Tealium Learning Community
 
-Tealium University  
-Get comprehensive, hands-on product training and learn best practices »
-
 *   Resources
     *   Case Studies
     *   Datasheets
