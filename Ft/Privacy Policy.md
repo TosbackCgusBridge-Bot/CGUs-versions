@@ -26,6 +26,7 @@ Remember me on this computer Sign in
     *   Clippings
     *   Alerts hub
     *   Terms and conditions
+    *   Information for contributors
     *   Commenting
     *   Gift Article
     *   RSS
