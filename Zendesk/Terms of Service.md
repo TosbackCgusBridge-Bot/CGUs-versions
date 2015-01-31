@@ -22,7 +22,7 @@ Confidential Information:  means all information disclosed by You to Zendesk or
 
 Directive: means Directive 95/46/EC on the protection of individuals with regard to the processing of Personal Data and on the free movement of such data.
 
-Documentation:  means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Service provided or made available by Zendesk to You, Agents or End-Users through the or otherwise.
+Documentation: means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Service provided or made available by Zendesk to You, Agents or End-Users through the Site or otherwise.
 
 End-User:  means any person or entity other than Subscriber or Agents with whom Subscriber or its Agents interact using the Service.
 
