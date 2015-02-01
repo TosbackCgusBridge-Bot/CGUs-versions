@@ -14,7 +14,7 @@ Aéropostale Go
     *   Bethany Mota
     *   Lookbook
     *   Uniform
-    *   Boot Shop
+    *   Shoe Bar
     *   Extended Sizes
     *   Online Exclusives
     
