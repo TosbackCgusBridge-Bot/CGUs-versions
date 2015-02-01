@@ -13,7 +13,6 @@ Employers: Post Jobs | Search Resumes Sign In Help Security
 *   Add Resumes
     
 *   Advice &. Resources
-    *   Career Resources
     *   Salary Calculator
     *   hireINSIDER
 
