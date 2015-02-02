@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13357950038
+true true 10.60.216.10 C13232281003
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Jan 31 09:33:31 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sun Feb 01 05:35:06 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,71 +45,99 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends January 31. Use Code: GR8T4YOU
+*   Big Buys
+    
+    Use your coupon and save even more. Special Sunday only!
+    
+    view store adIn Store $10 Off Bonus Cash Coupon
+    
+    When you spend $50 or more in store February 1 through 16. Redeemable February 17 through 24, 2015. Maximum $30 Bonus Cash per transaction. Some restrictions apply. See store associate for details.
+    
+    Big Sunday Sale shop the sale
+    
+    50% Off Xersion fo the family.
+    
+    Select styles.
+    
+    shop men's Xersion shop kids' Xersion shop women's Xersion
+*   Home Sale 30-50% Off shop the home sale shop bed and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+    
+    Introducing Signature Soft towel and bath rug. Royal Velvet, only at JCPenney.
+    
+    shop Royal Velvet
+*   Valentine's Day Jewelry Sale shop the sale
+    
+    25-55% Off Watches
+    
+    Select styles.
+    
+    shop watches
+    
+    45-65% Off Fine Jewelry and Bijoux Bar
+    
+    Select styles.
+    
+    shop fine jewelry and Bijoux Bar shop Forever Mine
 
-Online Only, Orders Over $100
-
-Extra 25% Off\* with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* with any other method of payment.
-
-In Store and Online
-
-Or, Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-\*See exclusions and details. get coupon Home Sale 30-50% Off shop the home sale shop bedding and bath shop kitchen and dining shop home decor shop luggage shop window shop dinnerware Red Zone 50-75% Off Clearance
+Red Zone Clearance 50-80% Off
 
 In store and online.
 
-shop now Win Hearts With The Perfect Gift
+shop now Show Cupid How It's Done shop gifts
 
-Converse for the family in your favorite styles.
+45-55% Off select jewelry
 
-Excluded from coupon.
+shop gemstone jewelry shop heart jewelry
 
-shop now
-
-25-40% Off Select Dresses
+25-40% Off Select Dresses for Her
 
 shop now
 
-40-60% Off\* Select Fine Jewelry
-
-Code: 52JEWEL
-
-shop now \*See exclusions and details.
-
-40% Off Select Dress Shirts
+$12.99 Men's St. John's Bay Polo
 
 shop now
 
-40% Off Select Carter's
+25% Off Select Bras When You Buy 2 or More.
 
 shop now
 
-40% Off Select Lingerie
+40% Off Select Rosetti Handbags
 
-shop now 30-50% Off Area and Accent Rugs
+shop now Gift Card Bonus Cash
+
+In store $15 Off $15 Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store February 1 through 14. Redeemable February 15 through 28, 2015.
+
+Terms and conditions apply to gift cards. See card for details. Some restrictions and exclusions apply. See store associate for details.
+
+Baby Sale shop now
+
+30-50% Off Carter's
 
 Select styles.
 
-shop rugs JCP Rewards
+shop now
+
+Introducing epicurious. Professional-grade cookware available only at JCPenney.
+
+shop epicurious30-50% Off Cookware
+
+Select styles.
+
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today SportsFanShop
+sign up today Just $5
+
+Get ALL yoiur favorite magazines from Time Inc. today.
+
+shop now SportsFanShop
 
 Thousands of NFL, MLB, NHL, NBA, College, UFC and soccer products now available for over 700 teams.
 
 Excluded from coupon.
 
-shop the SportsFanShop The Best Night Ever After shop prom New E-Gift Cards customize with a message, photo or video
+shop the SportsFanShop Get a $15 Off $15 Coupon with a $75 e-gift card purchase get details shop e-gift cards
 
 get connected
 
