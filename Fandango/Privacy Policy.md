@@ -5,41 +5,43 @@ Gift Cards | Offers | Visa Signature
 *   Movies Now Playing
     
     *   American Sniper
-    *   The Boy Next Door
     *   Paddington
+    *   Project Almanac
+    *   Black or White
+    *   The Boy Next Door
     *   The Wedding Ringer
-    *   Taken 3
     *   The Imitation Game
+    *   Taken 3
     *   Strange Magic
+    *   The Loft
     *   Selma
-    *   Mortdecai
-    *   Into the Woods
-    *   The Hobbit: The Battle of the Five Armies
     *   See All Now Playing
     
     Opening This Week = Limited Release
     
-    *   Black or White
-    *   The Loft
-    *   Project Almanac
-    *   Above and Beyond
-    *   The Devil's Violinist
-    *   Girlhood
-    *   Running Man
-    *   Supremacy
-    *   Timbuktu
+    *   Jupiter Ascending
+    *   Seventh Son
+    *   The SpongeBob Movie: Sponge Out of Water
+    *   3 Nights in the Desert
+    *   Ballet 422
+    *   Enter the Dangerous Mind
+    *   One Small Hitch
+    *   Love, Rosie
+    *   The Voices
+    *   The Other Man: F.W. de Klerk and the End of Apartheid in South Africa
+    *   Pass the Light
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Jupiter Ascending
-    *   Seventh Son
-    *   The SpongeBob Movie: Sponge Out of Water
     *   Fifty Shades of Grey
     *   Kingsman: The Secret Service
     *   The Duff
     *   Hot Tub Time Machine 2
     *   McFarland, USA
+    *   Focus
+    *   The Lazarus Effect
+    *   Chappie
     *   See All Coming Soon
     
     Explore More
@@ -62,12 +64,12 @@ Gift Cards | Offers | Visa Signature
     *   Edison, NJ
     *   Houston, TX
     *   Tampa, FLFIND THEATERS + MOVIE TIMES NEAR FIND MOVIE TIMES + TICKETS
-*   Movie News Featured Movie News That dirty-birdy teddy bear is back! Watch the new first 'Ted 2' trailer Read More Meet "Indominus Rex," the fearsome dinosaur in the new 'Jurassic Park'. plus, 'Star Wars' news Read More Liam Hemsworth has been offered the lead in 'ID Forever,' the sequel to 'Independence Day' Read More Explore More
+*   Movie News Featured Movie News 'Fifty Shades': Take a virtual tour of Christian Grey's apartment and watch a spicy new clip Read More Your best moments of the Super Bowl movie trailers, revealed in these GIFs Read More Watch: Jimmy Fallon, Will Ferrell and Kevin Hart in the most epic lip-sync battle ever Read More Explore More
     *   Family
+    *   Valentine's Day Guide
     *   FrontRunners
     *   Hero Central
     *   House of Screams
-    *   The Hobbit Movie Guide
     *   Weekend Ticket
     *   Mom's Movie Minute
     *   Reel Kids
@@ -309,9 +311,9 @@ PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CARE
 
 Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: Fandango Customer Help
 
-Offers **Parents, You’re Invited!**
+Offers **Movie Crush Selfie Sweeps**
 
-Receive movie perks and tips just for families. SIGN ME UP
+Upload your best Movie Crush Selfie to Instagram for your chance to win $2,000! SEE DETAILS
 
 **Jurassic World Sweepstakes**
 
@@ -348,9 +350,9 @@ Experience + Explore
 Features + Guides
 
 *   Family
+*   Valentine's Day Guide
 *   House of Screams
 *   Hero Central
-*   The Hunger Games Guide
 *   Movie News
 *   Indie Movie Guide
 
