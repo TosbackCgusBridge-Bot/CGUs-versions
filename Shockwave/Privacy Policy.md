@@ -42,6 +42,8 @@ TV Videos Photos LOLs Games log in | sign up   
 
 *   Music &. Photos
 
+We're performing scheduled maintenance on the Shockwave.com store on Feb 4, 12AM Pacific Time. We anticipate the work will be completed in 10 hours. Users will be unable to make purchases during this time.
+
 About Shockwave
 
 *   About Shockwave
