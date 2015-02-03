@@ -190,7 +190,6 @@ Search:Search Donate Now
     Photography
     
     *   Natural Light
-    *   Mark Godfrey Selects
     *   Photo of the Month Desktop Wallpaper
     *   Featured Image Desktop Wallpaper
     *   Facebook Timeline Photos
