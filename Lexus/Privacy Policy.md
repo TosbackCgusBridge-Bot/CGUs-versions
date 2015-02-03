@@ -63,7 +63,7 @@ Starting at $36,550\*
 
 ES
 
-Starting at $37,550\*
+Starting at $37,700\*
 
 *   • 21/31 City/Hwy MPG\*
 *   • FWD
@@ -98,14 +98,14 @@ Starting at $40,970\*
 
 GX
 
-Starting at $49,085\*
+Starting at $49,485\*
 
 *   • 4.6-liter V8
 *   • Full-Time 4WD
 
 LX
 
-Starting at $82,930\*
+Starting at $83,180\*
 
 *   • 5.7-liter V8
 *   • Full-Time 4WD
@@ -133,7 +133,7 @@ Starting at $43,360\*
 
 CT HYBRID
 
-Starting at $32,050\*
+Starting at $32,200\*
 
 *   • 43/40 City/Hwy MPG\*
 *   • FWD
@@ -154,7 +154,7 @@ Starting at $47,620\*
 
 ES HYBRID
 
-Starting at $40,430\*
+Starting at $40,580\*
 
 *   • 40/39 City/Hwy MPG\*
 *   • FWD
