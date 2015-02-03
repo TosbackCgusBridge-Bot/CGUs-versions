@@ -1,6 +1,7 @@
 Search
 
 *   Join
+*   Sign In
 *   About Us
 *   Contact Us
 *   Expert Authors
