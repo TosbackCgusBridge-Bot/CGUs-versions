@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true 10.60.216.10 C13232281003
+true true C13235240795
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sun Feb 01 05:35:06 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Mon Feb 02 11:00:48 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,26 +45,27 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Big Buys
-    
-    Use your coupon and save even more. Special Sunday only!
-    
-    view store adIn Store $10 Off Bonus Cash Coupon
-    
-    When you spend $50 or more in store February 1 through 16. Redeemable February 17 through 24, 2015. Maximum $30 Bonus Cash per transaction. Some restrictions apply. See store associate for details.
-    
-    Big Sunday Sale shop the sale
-    
-    50% Off Xersion fo the family.
-    
-    Select styles.
-    
-    shop men's Xersion shop kids' Xersion shop women's Xersion
-*   Home Sale 30-50% Off shop the home sale shop bed and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
-    
-    Introducing Signature Soft towel and bath rug. Royal Velvet, only at JCPenney.
-    
-    shop Royal Velvet
+Ends February 3. Use Code: FEBSHOP
+
+Online Only, Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+In Store and Online
+
+Or, Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 15% Off\* furniture, mattresses and custom blinds and shades and Extra 10% Off\* select watches.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details print store coupon
+
+*   Home Sale 30-50% Off shop the home sale shop bed and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop Royal Velvet
 *   Valentine's Day Jewelry Sale shop the sale
     
     25-55% Off Watches
@@ -109,19 +110,35 @@ In store $15 Off $15 Bonus Cash Coupon when you spend $75 or more on JCPenney gi
 
 Terms and conditions apply to gift cards. See card for details. Some restrictions and exclusions apply. See store associate for details.
 
-Baby Sale shop now
-
-30-50% Off Carter's
+15-25% Off Baby Furniture
 
 Select styles.
 
-shop now
+shop baby furnitureBaby Sale shop the baby sale
+
+Crib Mattresses
+
+Select styles.
+
+shop crib mattresses
+
+Baby Bedding
+
+Select styles.
+
+shop baby bedding
 
 Introducing epicurious. Professional-grade cookware available only at JCPenney.
 
 shop epicurious30-50% Off Cookware
 
 Select styles.
+
+shop now Matrix, Redken and Pureology
+
+Find all your favorite products from Matrix, Redken and Pureology now online at jcp.com.
+
+Our gift to you, enjoy a free 2.5oz. Biolage Agave Nectar Control Gel with any online salon purchase.
 
 shop now JCP Rewards
 
