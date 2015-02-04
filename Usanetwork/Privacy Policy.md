@@ -20,7 +20,7 @@ NBCUniversal
     *   Esquire Network
     *   Golf Channel
     *   MSNBC
-    *   Mun2
+    *   NBC UNIVERSO
     *   Nbc Sports Network
     *   nbcuniversal Digital Distribution
     *   nbcuniversal International Television
