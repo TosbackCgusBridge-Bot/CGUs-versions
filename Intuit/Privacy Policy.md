@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13235240795
+true true C13237783806
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Mon Feb 02 11:00:48 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Tue Feb 03 11:27:46 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,56 +45,69 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends February 3. Use Code: FEBSHOP
-
-Online Only, Orders Over $100
-
-Extra 25% Off\* with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* with any other method of payment.
-
-In Store and Online
-
-Or, Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 15% Off\* furniture, mattresses and custom blinds and shades and Extra 10% Off\* select watches.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-\*See exclusions and details print store coupon
-
-*   Home Sale 30-50% Off shop the home sale shop bed and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop Royal Velvet
-*   Valentine's Day Jewelry Sale shop the sale
+*   Extra 25% Off\* 25 Hours Only
     
-    25-55% Off Watches
+    Online Only Ends February 4 Code: SAVSOME
+    
+    Take an Extra 25% Off\*
+    
+    Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades
+    
+    shop the sale
+    
+    In Store Only Ends February 7
+    
+    Take an Extra $10 Off\* $25 or more.
+    
+    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades
+    
+    print store coupon
+*   Introducing Epicurious
+    
+    shop epicurious shop cookwareHome Sale 30-50% Off shop the home sale shop bed and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+*   Valentine's Day Jewelry Sale
+    
+    20-50% Off Watches
     
     Select styles.
     
     shop watches
     
-    45-65% Off Fine Jewelry and Bijoux Bar
+    40-60% Off Fine Jewelry and Bijoux Bar
     
     Select styles.
     
-    shop fine jewelry and Bijoux Bar shop Forever Mine
+    shop fine jewelry and Bijoux Bar
+    
+    30-60% Off Fashion Jewelry and Fashion Silver
+    
+    Select styles.
+    
+    shop fashion jewelry and fashion silver shop sterling silver shop modern bride shop fashion jewelry sets shop gold shop diamond studs shop watches
 
-Red Zone Clearance 50-80% Off
+Super Saturday Sale
 
-In store and online.
+Starts now!
 
-shop now Show Cupid How It's Done shop gifts
+shop the sale view store ad shop Forever MineValentine's Day Jewelry Sale
 
-45-55% Off select jewelry
+Select styles.
 
-shop gemstone jewelry shop heart jewelry
+shop the sale
 
-25-40% Off Select Dresses for Her
+40-60% Off Fine Jewelry and Bijoux Bar
+
+shop fine jewelry and Bijoux Bar Show Cupid How It's Done shop gifts
+
+45-55% Off Select Gemstone Jewelry
+
+shop gemstone jewelry
+
+30-40% Off Select Worthington
 
 shop now
 
-$12.99 Men's St. John's Bay Polo
+20-25% Off Select Nike Shoes for the Family
 
 shop now
 
@@ -102,7 +115,7 @@ shop now
 
 shop now
 
-40% Off Select Rosetti Handbags
+40-60% Off Select Men's Dress Shirts
 
 shop now Gift Card Bonus Cash
 
@@ -128,13 +141,15 @@ Select styles.
 
 shop baby bedding
 
-Introducing epicurious. Professional-grade cookware available only at JCPenney.
+New! $8.99 Royal Velvet Signature Soft Bath Towel
 
-shop epicurious30-50% Off Cookware
+Originally $16. Royal Velvet, only at JCPenney.
 
-Select styles.
+shop Royal Velvet shop bath towels Red Zone Selections 50-80% Off Clearance
 
-shop now Matrix, Redken and Pureology
+In store and online.
+
+shop clearance Matrix, Redken and Pureology
 
 Find all your favorite products from Matrix, Redken and Pureology now online at jcp.com.
 
