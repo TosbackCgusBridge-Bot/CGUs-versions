@@ -3,7 +3,7 @@ Your zone to play free online games
 Join or Login
 
 *   Home
-*   Super Bowl
+*   Puzzle
 *   Awards
 *   Racing
 *   Action
@@ -13,7 +13,6 @@ Join or Login
 *   Adventure
 *   Multiplayer
 *   More
-    *   Puzzle
     *   Kogama Games
     *   War Games
     *   Board &. Card
