@@ -7,7 +7,7 @@ Search
 *   Expert Authors
 *   Ask Chris Knight
 
-Home Home » Privacy Policy Join Sign in Search Helpful Links
+Home Home » Privacy Policy Join Sign in Helpful Links
 
 *   FAQ
 *   About Us
