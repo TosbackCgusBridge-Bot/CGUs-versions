@@ -38,8 +38,6 @@ This Privacy Policy describes the information collected by OkCupid.com, operated
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-back to top
-
 The information we collect
 
 **In General.** We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
@@ -59,8 +57,6 @@ The information we collect
 **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website or application visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
 
 **Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies, ad networks and other third parties, to display advertisements on our site. These companies may use tracking technologies, such as **cookies**, to collect information about users who view or interact with their advertisements. We do not not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
-
-back to top
 
 How we use the information we collect
 
@@ -85,8 +81,6 @@ Please review "Your choices about collection and use of your information" below.
 
 In all circumstances, we may perform these functions directly or use a third party vendor to perform these functions on our behalf who will be obligated to use your personal information only to perform services for us. Also, if you access our website or mobile applications from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings.
 
-back to top
-
 With whom we share your information
 
 **Personal information.** We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
@@ -109,19 +103,13 @@ In connection with a substantial corporate transaction, such as the sale of our 
 
 **Aggregated and/or non-personal-information.** We may share non-personal information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal, or personal information in hashed, non-human readable form, information with third parties, including advisors, writers, researchers, partners, advertisers and investors for the purpose of conducting general business analysis, studies, articles, and essays media and entertainment or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to http://www.aboutads.info/choices/.
 
-back to top
-
 Third-party websites
 
 There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
 
-back to top
-
 How you can access your information
 
 If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on Settings. More information about how to contact us is provided below. If you have an online account with us, you also may delete or disable your account at any time by visiting the "Settings" page for your account. If you delete or disable your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
-
-back to top
 
 Your choices about collection and use of your information
 
@@ -133,43 +121,29 @@ Our applications may also deliver notifications to your phone or mobile device. 
 
 You can also control information collected by cookies. See Cookies below for information about declining or deleting cookies.
 
-back to top
-
 How we protect your personal information
 
 We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website for information about how to protect yourself against identity theft.
-
-back to top
 
 Information you provide about yourself while using our service
 
 We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms &. Conditions. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
 
-back to top
-
 Children's privacy
 
 Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13.
-
-back to top
 
 Visiting our websites from outside the United States
 
 If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
-back to top
-
 No Rights of Third Parties
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
-back to top
-
 Changes to this Privacy Policy
 
 We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
-
-back to top
 
 How to contact us
 
@@ -182,8 +156,6 @@ Dallas, Texas 75225
 privacy@okcupid.com_
 
 © IAC/InterActiveCorp. All rights reserved.
-
-back to top
 
 Linked information:
 
@@ -202,8 +174,6 @@ Opt Out Now.
 **Web Beacons:** Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's device hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
-
-back to top
 
 Connect your existing OkCupid account Connect
 
