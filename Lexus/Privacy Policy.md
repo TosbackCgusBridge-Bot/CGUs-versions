@@ -9,15 +9,17 @@ Owner Benefits
 
 Pay My Bill
 
-Lexus Enform®
+Lexus Enform
 
 Scheduled Maintenance
 
-Knowledge Center/Guide
+FAQ
 
 Lexus Magazine
 
 Lexus Navigation
+
+Safety Recalls &. Service Campaigns
 
 Vehicle Search
 
@@ -58,7 +60,7 @@ IS
 
 Starting at $36,550\*
 
-*   • 19/27 City/Hwy MPG\*
+*   • 21/30 City/Hwy MPG\*
 *   • RWD or AWD
 
 ES
@@ -128,7 +130,7 @@ IS C
 
 Starting at $43,360\*
 
-*   • 19/27 City/Hwy MPG\*
+*   • 21/30 City/Hwy MPG\*
 *   • RWD
 
 CT HYBRID
@@ -276,6 +278,7 @@ Additional Sites
 *   Vida Lexus
 *   L Studio
 *   Lexus Merchandise
+*   Lexus International
 
 *   Find Us On Facebook
 *   Follow Us On Twitter
