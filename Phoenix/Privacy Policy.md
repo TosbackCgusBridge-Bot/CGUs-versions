@@ -1,6 +1,6 @@
 University of Phoenix PRIVACY POLICY – SUMMARY
 
-**Updated:** Nov. 11, 2014
+**Updated:** Feb. 4, 2015
 
 Summarized below are key elements of our Privacy Policy. **To read our full Privacy Policy (“Policy“), click here.**
 
@@ -96,7 +96,7 @@ Phoenix, AZ 85040
 
 University of Phoenix PRIVACY POLICY – FULL VERSION
 
-**Updated:** Nov. 11, 2014
+**Updated:** Feb. 4, 2015
 
 Scope
 
@@ -256,7 +256,11 @@ We may collect, use and disclose Personal Information for the following purposes
 
 Express Consent to Receive Prerecorded Voice Messages, Text Messages and Calls Using an Autodialer
 
-In connection with the uses set forth above, we may use an automatic telephone dialing system (autodialer), artificial or prerecorded voice messages, and text messages to provide you with various communications. Further, when you provide us with a cellular, wireless or mobile telephone number as your contact number, you agree that you are providing us with your express consent to receive calls using an automated dialing system, prerecorded voice messages or text messages related to your enrollment. If you do not wish to receive these updates on your cellular or mobile phone, please provide us with a land-based telephone number.
+If you have provided prior express written consent in the process of requesting information from the University about its educational offerings or services, or if you have provided prior express consent after becoming a student to receive communications related to purposes other than marketing, we may use an automatic telephone dialing system (auto-dialer), artificial or prerecorded voice messages, and text messages to communicate with you.
+
+In the case of text communications, you may receive text messages periodically regarding the University of Phoenix.  Message and data rates may apply. You may opt out at any time by texting **STOP** to cancel future text messages.  By sending **STOP**, you agree to one additional confirmation message stating that you've opted out and will no longer receive text messages from University of Phoenix. To get help, text **HELP**. You may also get additional support or help by sending an email to TextMsgSupport@phoenix.edu or by calling 866-766-0766.
+
+By consenting to receive texts you specifically authorize University of Phoenix to send text communications using an automatic telephone dialing system or an artificial or prerecorded voice. Your participation and/or your consent is not a condition of purchasing any goods or services. Your consent also provides authorization for the specific telephone number that may be contacted via this program.  
 
 Financial Information
 
