@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  Maggie
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13370685122
+true true C13243752373
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Wed Feb 04 11:16:56 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Thu Feb 05 05:16:03 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,23 +45,32 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Extra 25% Off\* 25 Hours Only
+Ends February 7.
+
+Online Only
+
+Extra 20% Off\* $100 or more with code: BASKET
+
+In Store and Online
+
+Or, Extra $10 Off\* $25 or more with code: CHECKOUT
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades with code: BASKET
+
+\*See exclusions and details print coupon
+
+*   Super Saturday Sale
     
-    Online Only Ends February 4 Code: SAVSOME
+    Starts now, In Store and Online.
     
-    Take an Extra 25% Off\*
+    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry shop bed and bath shop window shop kitchen and dining shop furniture and mattresses shop home decorThousands of Night and Day Doorbusters
     
-    Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades
+    Use your coupon and save even more! In Store and Online, Friday, 3PM CST through Saturday, 1PM CST.
     
-    shop the sale
+    view doorbusters store ad$10 Bonus Cash Coupon
     
-    In Store Only Ends February 7
+    When you spend $50 or more in store, February 1 through 16, 2015. Redeemable February 17 through 24, 2015. Maximum $30 Bonus Cash coupon per transaction. Some restrictions and exclusions apply. See store associate for details.
     
-    Take an Extra $10 Off\* $25 or more.
-    
-    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades
-    
-    print store coupon
 *   Introducing Epicurious
     
     shop epicurious shop cookwareHome Sale 30-50% Off shop the home sale shop bed and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
@@ -85,11 +94,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     shop fashion jewelry and fashion silver shop sterling silver shop modern bride shop fashion jewelry sets shop gold shop diamond studs shop watches
 
-Super Saturday Sale
-
-Starts now!
-
-shop the sale view store ad shop Forever MineValentine's Day Jewelry Sale
+shop Forever MineValentine's Day Jewelry Sale
 
 Select styles.
 
@@ -107,7 +112,7 @@ shop gemstone jewelry
 
 shop now
 
-20-25% Off Select Nike Shoes for the Family
+25-40% Off Select Women's Shoes
 
 shop now
 
@@ -117,11 +122,11 @@ shop now
 
 40-60% Off Select Men's Dress Shirts
 
-shop now Gift Card Bonus Cash
+shop now JCP Besties Love Meter
 
-In store $15 Off $15 Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store February 1 through 14. Redeemable February 15 through 28, 2015.
+This Valentine's Day we're shining a light on friendship with the besties love meter: Take a timed, custom quiz with your bestie for a chance to win an all-expenses-paid trip for the two of you to the destination of your choice!
 
-Terms and conditions apply to gift cards. See card for details. Some restrictions and exclusions apply. See store associate for details.
+learn more
 
 15-25% Off Baby Furniture
 
