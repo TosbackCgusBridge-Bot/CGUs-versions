@@ -1,7 +1,7 @@
   >> Privacy &. Security    Choose a link to select a section.  
-Website and Store Privacy Notice Safe Harbor Privacy Policy  
+Website, Store and Restaurant Privacy Notice Safe Harbor Privacy Policy  
 Mobile Application Privacy Notice  
-**Ralph Lauren Corporation**    Website and Store Privacy Notice    Last modified: October 21, 2014
+**Ralph Lauren Corporation**    WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE    Last modified: February 5, 2015
 
 Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
@@ -29,6 +29,7 @@ Click on one of the links below to jump to the listed section:
     *   Other Ways We Collect Personal Information
         *   QR Codes
         *   Customer Assistance
+        *   Ralph Lauren Restaurants and Bars
         *   Other Ways We Obtain and Use Information
         *   Department Stores
 *   Information We Share
@@ -189,11 +190,21 @@ You may call our customer service line for information about our products or per
 
    
 
-_Other Ways We Obtain and Use Information_
+_Customer Assistance_
 
-In addition to the ways we collect information about you described above, we also may obtain information about you from third parties. We may use your personal information to provide you with products or services you request (such as tailoring services or merchandise returns), enhance your shopping experience and communicate with you about our products, services and promotions. In addition, we may use your personal information for internal purposes, such as fraud and theft prevention, accident reporting, development and administration of our sites and Stores, data analytics, and compliance with our legal obligations, policies and procedures.
+You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your request and process your transaction.
 
-We also may use information we obtain about you in other ways for which we provide specific notice at the time of collection.
+   
+
+_Ralph Lauren Restaurants and Bars_
+
+When you make a reservation at a Ralph Lauren restaurant or bar, including RL Restaurant and The Polo Bar, we ask you to provide your name, telephone number and email address. In connection with your reservation, you may choose to provide additional personal information such as food allergies and information about others. We use this information to communicate with you, to process your reservation and to enhance your experience at our restaurants and bars.
+
+When you visit a Ralph Lauren restaurant or bar, we may ask you to complete a form so that we can communicate with you about our products, services, promotions and special events. If you choose to do so, you may provide information such as your name, telephone number, postal address and email address. We use this information to process your request.
+
+If you communicate with us through the "Contact Us" link on the RL Restaurant’s website, we ask you for personal information such as your name, telephone number, email address, zip code and other information you may choose to provide. We use this information to communicate with you about your questions and comments. In addition, if you order a gift certificate for the RL Restaurant, we ask for your name, telephone number, shipping address and payment card information. We use this information to process your order.
+
+Reservations at our restaurants and bars may be made through third-party reservation platforms. We are not responsible for the content of any third-party platforms that are not affiliated with us, any use of these platforms, or the privacy practices of the operators of these platforms.
 
    
 
