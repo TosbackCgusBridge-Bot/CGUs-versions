@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Thu, Feb 5, 2015 Data Privacy &. Protection Day Town Hall - Wash DC
-
-Data Protection Day (DpD) is an international event held during the last the week of January to raise awareness and promote data privacy education. Named Data Privacy Day in the U.S. Since 2009, OTA has taken a leadership role hosting Town Hall events and educational webinars to help businesses enhance their data protection and be prepared for a data breach incident.
-
 Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
