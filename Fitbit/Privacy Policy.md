@@ -16,6 +16,7 @@ Fitbit
     *   PurePulse
     *   Why Fitbit
 *   Fun
+    
     *   Blog
     *   Buzz
 *   Help
@@ -235,7 +236,7 @@ United States (change)
 *   Privacy Policy
 *   Terms of Use
 *   Returns &. Warranty
-*   Product Care
+*   Wear and Care
 *   Recall &. Safety Info
 
 OneTM 101 One Basics How it works Syncing Prev Next Go to dashboard Press to change display
