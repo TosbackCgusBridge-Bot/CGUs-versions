@@ -1,4 +1,4 @@
-USESDEFRITBR Janvier 2015
+USESDEFRITBR Février 2015
 
 *   Objet
 *   Mentions légales
@@ -122,17 +122,17 @@ Les règles en matière de droit, applicables aux contenus et aux transmissions 
 Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
 Conditions-generales-d-utilisation.pdf A voir également
 
-*   Conditions générales
-*   Les conditions generales d utilisation
-*   Livebox 0079 orange sagem problème pour canal à la demande
+*   Conditions générales d'utilisation
+*   Kaliceo
+*   Comment rediger des conditions générales de prestations de services
 *   Modèle Condition Générale de Vente » Forum - Webmaster
+*   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
+*   Conditions générales (Résolu) » Forum
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-*   Facebook pourrait assouplir ses conditions générales et supprimer définitivement les données demandé » Actualités
-*   Conditions générales (Résolu) » Forum - Mobile
 
 Communautés d'assistance et de conseils.
 
-*   Forum Webmastering
-*   Forum Vos droits sur internet
+*   Forum Mobile
 *   Forum iPhone
+*   Forum Vos droits sur internet
