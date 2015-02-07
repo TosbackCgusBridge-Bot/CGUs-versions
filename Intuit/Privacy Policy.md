@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  Maggie
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13243752373
+true true C13246406115
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Thu Feb 05 05:16:03 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p22.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Fri Feb 06 03:30:12 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,7 +67,7 @@ Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades 
     
     Use your coupon and save even more! In Store and Online, Friday, 3PM CST through Saturday, 1PM CST.
     
-    view doorbusters store ad$10 Bonus Cash Coupon
+    shop doorbusters$10 Bonus Cash Coupon
     
     When you spend $50 or more in store, February 1 through 16, 2015. Redeemable February 17 through 24, 2015. Maximum $30 Bonus Cash coupon per transaction. Some restrictions and exclusions apply. See store associate for details.
     
