@@ -10,13 +10,15 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
-    *   Factory
     *   Bethany Mota
+    *   United XXVI
     *   Lookbook
+    *   Swim Shop
     *   Uniform
     *   Shoe Bar
     *   Extended Sizes
     *   Online Exclusives
+    *   Factory
     
     *   TOPS
     *   Tees
@@ -44,12 +46,13 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
-    *   Factory
+    *   United XXVI
     *   Lookbook
     *   Uniform
     *   Sneaker Shop
     *   Extended Sizes
     *   Online Exclusives
+    *   Factory
     
     *   TOPS
     *   Graphic Tees
@@ -107,14 +110,17 @@ Aéropostale Go
     *   Rocket Dog
     *   Superga
     *   Tokyo Darling
+    *   United XXVI
     
     *   GUYS
+    *   Blue Suede Shoes
     *   Brooklyn Calling
     *   Free State
     *   Gola
     *   Locker Stock
     *   Radii
     *   Superga
+    *   United XXVI
 *   Factory
 *   Aero Now
 
