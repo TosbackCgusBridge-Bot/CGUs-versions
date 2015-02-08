@@ -34,8 +34,9 @@ We reserves the right to disclose information to third parties if we believe we 
 \* Respond to user support requests.  
 \* Protect the rights, property or safety of Pipl, its users and the public.
 
-**Developers Portal &. API**  
-Our Developers Portal and API are powered by Intel Services, please note that when you use the portal or the API you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.
+**Service Providers**  
+Our Developers Portal and API are powered by Intel Services, please note that when you use the portal or the API you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.  
+Our Support Portal is powered by Kayako, please note that when you send us a support request or when you are using the support portal you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.
 
 **Transfer of information**  
 Information collected by Pipl may be stored and processed in the United States or any other country in which Pipl or its agents maintain facilities. By using Pipl, you consent to any such transfer of information outside of your country.  
