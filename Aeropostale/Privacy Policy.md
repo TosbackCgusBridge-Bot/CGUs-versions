@@ -70,7 +70,7 @@ Aéropostale Go
     
     *   JACKETS + COATS
     *   PAJAMAS
-    *   UNDERWEAR
+    *   UNDERWEAR + LOUNGE
     *   SHOES
     *   ACCESSORIES
 *   Room
