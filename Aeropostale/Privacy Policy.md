@@ -113,7 +113,6 @@ Aéropostale Go
     *   United XXVI
     
     *   GUYS
-    *   Blue Suede Shoes
     *   Brooklyn Calling
     *   Free State
     *   Gola
