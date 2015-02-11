@@ -1,11 +1,4 @@
-Search Welcome, {user} MANAGE MY ACCOUNT
-
-*   My Profile
-*   Log Out
-*   Link Facebook
-*   Link Twitter
-
-Loading… Sign In | Register
+Search
 
 *   Fantasy Football
 *   News &. Media
