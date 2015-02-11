@@ -11,7 +11,7 @@
 *   customer service
     
 
-*   Hello  Raytese
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13251257494
+true true C13254231942
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Mon Feb 09 03:40:10 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Tue Feb 10 04:55:13 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -110,7 +110,7 @@ sign up today JCPenney Besties Love Meter
 
 We're shining a light on friendship with the Besties Love Meter.
 
-Take a timed, custom quiz with your bestie for a chance to win an all-expenses-paid trip for the two of you to the destination of your choice!
+Take a timed, custom quiz with your bestie for a chance to win a trip for the two of you to the destination of your choice!
 
 learn more Get a $15 Off $15 Coupon with a $75 e-gift card purchase get details shop e-gift cards Just $5
 
