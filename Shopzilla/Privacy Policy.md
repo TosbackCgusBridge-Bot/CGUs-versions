@@ -51,6 +51,30 @@ Connexity
     *   Articles &. White Papers
 *   Contact
 
+Toggle navigation ×
+
+*   Solutions
+    *   Paid Search &. Marketplace
+    *   Bizrate Insights
+    *   Display Media
+    *   Publisher Monetization
+*   About
+    *   About Connexity
+    *   Open Positions
+    *   Benefits
+    *   Team
+    *   Press
+*   Resources
+    *   Blog
+    *   Case Studies
+    *   Case Studies – Display
+    *   Case Studies – Insights
+    *   Case Studies – Search
+    *   Articles &. White Papers
+*   Stay Connected
+    *   Login
+    *   Contact Us
+
 Privacy Policy
 
 Last modified on: December 17th 2014
