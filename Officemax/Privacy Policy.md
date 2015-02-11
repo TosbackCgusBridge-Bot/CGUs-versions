@@ -12,10 +12,6 @@ SEG1 hp
 
 Live Chat 24/7 Weekly Ad Office Depot Deals
 
-Now One Company. Now More Choice.
-
-Whether you shop in-store or online using our new combined website, our world-class shopping destination gives you the same great value on thousands of your favorite products and services. Learn More
-
 Search Suggestions
 
 Your recent searches
