@@ -44,6 +44,7 @@ Main Menu
     *   Site for Grandparents
     *   Birthday Party Tips
     *   Email Newsletter Sign-up
+    *   Our Story
 
 *   Games &. Activities
     *   Online Games
