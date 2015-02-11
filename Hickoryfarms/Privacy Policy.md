@@ -6,8 +6,9 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Gift Boxes
     *   Valentine's Day Gifts
+    *   Gift Boxes
+    *   Easter Favorites
     *   Business Gifts
         
     *   Military Gifts
@@ -52,8 +53,9 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Gift Boxes
     *   Valentine's Day Gifts
+    *   Gift Boxes
+    *   Easter Favorites
     *   Business Gifts
         
     *   Military Gifts
@@ -149,9 +151,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
