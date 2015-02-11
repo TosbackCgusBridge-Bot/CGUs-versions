@@ -105,7 +105,7 @@ Fanpop has adopted the following general policy toward copyright infringement in
   
 *   Removal
     
-    If a counter-notice is received by the Designated Agent, Fanpop may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the Content provider, member or user, the removed material may be replaced or access to it restored in 10 to 14 business days or more after receipt of the counter-notice, at Fanpop's discretion. Fanpop's designated Copyright Agent to receive notifications of claimed infringement is: David Lu, 1387 8th Ave, San Francisco, CA 94122, email: \[email protected\], phone/fax: (415)908-3693. For clarity, only DMCA notices should go to the Copyright Agent. any other feedback, comments, requests for technical support, and other communications should be directed to Fanpop customer service at \[email protected\] You acknowledge that if you fail to comply with all of the requirements, your DMCA notice may not be valid.
+    If a counter-notice is received by the Designated Agent, Fanpop may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the Content provider, member or user, the removed material may be replaced or access to it restored in 10 to 14 business days or more after receipt of the counter-notice, at Fanpop's discretion. Fanpop's designated Copyright Agent to receive notifications of claimed infringement is: David Lu, 1387 8th Ave, San Francisco, CA 94122, email: legal@fanpop.com, phone/fax: (415)908-3693. For clarity, only DMCA notices should go to the Copyright Agent. any other feedback, comments, requests for technical support, and other communications should be directed to Fanpop customer service at contact@fanpop.com. You acknowledge that if you fail to comply with all of the requirements, your DMCA notice may not be valid.
     
 
 Venue Only
@@ -150,4 +150,4 @@ Fanpop, the Fanpop logo, and other Fanpop logos and names are trademarks of Fanp
 
 xii. contact and violations
 
-Please contact us with any questions regarding these Terms of Service. Please report any violations of the Terms of Service to \[email protected\]
+Please contact us with any questions regarding these Terms of Service. Please report any violations of the Terms of Service to legal@fanpop.com.
