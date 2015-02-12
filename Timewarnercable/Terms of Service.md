@@ -192,11 +192,11 @@ Contact Us
 
 Other Sites
 
+*   TWC Central
 *   TWC Conversations
 *   TWC Media
 *   Community Solutions
 *   Connect a Million Minds
-*   Mi Cultura
 *   TWC SportsNet
 *   TWC Exclusives
 
@@ -206,6 +206,7 @@ Follow Us
 *   Twitter
 *   YouTube
 *   Untangled Blog
+*   Mi Cultura
 
 *   Privacy Policy
 *   Terms, Conditions &. Policies
