@@ -98,6 +98,7 @@ Aéropostale Go
     *   Circus by Sam Edelman
     *   DV8
     *   Gola
+    *   Hobie
     *   Invite Only
     *   Junie &. Jade
     *   Live Love Dream
@@ -109,6 +110,7 @@ Aéropostale Go
     *   Report
     *   Rocket Dog
     *   Superga
+    *   The Bikini Lab
     *   Tokyo Darling
     *   United XXVI
     
