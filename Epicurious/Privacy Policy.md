@@ -187,7 +187,7 @@ Last Revised: January 2, 2014
             
         4.  **Copyright Agent:**
             
-            Jerry Birenz, Esq.   Sabin, Bermant &. Gould LLP Phone: (212) 381-7057 4 Times Square, 23rd Floor Fax: (212) 381-7201 New York, NY 10036-6526 E-mail: copyright@sabinfirm.com
+            Jerry Birenz, Esq.   Sabin, Bermant &. Gould LLP Phone: (212) 381-7057 1 World Trade Center, 44th Floor Fax: (212) 381-7201 New York, NY 10007-2915 E-mail: copyright@sabinfirm.com
             
             **Note: Only copyright complaints should be sent to agent. No other communications will be accepted or responded to.**
             
