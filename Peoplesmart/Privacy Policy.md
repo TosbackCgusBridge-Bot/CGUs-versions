@@ -15,21 +15,63 @@ Find Location \*a-z dash, period, spaces only Birth MonthJanuaryFebruaryMarchApr
 
 Privacy Policy
 
-Effective Date: July 7, 2014
+Effective Date: February 1, 2015
 
-This privacy policy applies to PeopleSmart.com, owned and operated by Inflection LLC. This privacy policy describes how Inflection LLC collects and uses the personal information you provide on our website, www.peoplesmart.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to PeopleSmart.com, owned and operated by Inflection.com, Inc. (“PeopleSmart”, “Inflection”, or “we”). This privacy policy describes how Inflection.com, Inc. collects and uses the personal information you provide on our website, www.peoplesmart.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 You can learn more about how we protect your privacy and how to manage your information in our databases through the PeopleSmart Privacy Education Center.
 
 TRUSTe
 
-Inflection LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@peoplesmart.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through this Web site: www.peoplesmart.com, and does not cover information that may be collected through software downloaded from the site.
+Inflection.com, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website: www.peoplesmart.com, and does not cover information that may be collected through software downloaded from the site.
 
-What does this privacy policy cover?
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
-This policy covers how peoplesmart.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our Opt-Out Policy.
+Overview What does this privacy policy cover? What information do we collect?
 
-Our website also includes links to other websites whose privacy practices may differ from those of Inflection LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+*   Registration Information
+*   Billing Information
+*   Additional Information
+
+How do we collect information about you?
+
+*   Services You Authorize
+*   Social Media Widgets
+*   Cookies and Other Tracking Technologies
+
+What do we use your information for? How do we protect your information?
+
+*   Technical and Administrative Controls
+*   Payment Information
+*   Security
+
+When do we share your information?
+
+*   With Your Consent
+*   Within the Inflection Family of Products>
+*   To Provide Certain Services
+*   Public, Anonymous and Aggregated Data
+*   Testimonials
+*   Business Transfers
+*   Fraud and Abuse Prevention
+*   Legal Compliance and Harm Prevention
+
+How do I access and control my personal information?
+
+*   Access and Choice
+*   Communication Preferences
+
+Compliance Notices
+
+*   California Do Not Track Disclosure
+*   California Information-Sharing Disclosure
+*   Children’s Online Privacy Protection Act
+
+Changes to this Privacy Policy Contact Information What does this privacy policy cover?
+
+This policy covers how PeopleSmart.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our Opt-Out Policy.
+
+Our website also includes links to other websites whose privacy practices may differ from those of Inflection.com, Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 What information do we collect?
 
@@ -37,7 +79,7 @@ We collect some information that is personal (i.e. information that identifies y
 
 Registration Information
 
-When you register for an account to use peoplesmart.com, we may collect the following information:
+When you register for an account to use PeopleSmart.com, we may collect the following information:
 
 *   Your name, email address, mailing address, phone number, and password
 *   Your birthdate
@@ -58,23 +100,13 @@ Additional Information
 
 In order to provide certain services, we may collect additional information from you.
 
-*   When you search for a person using our website, we collect a log of your searches.
+*   When you search for a person using our website, we collect and store a log of your searches, which can include the name, email address, phone number, or address that you searched for.
 *   If you wish to enhance your search results using information from third-party services such as Facebook or LinkedIn, we may ask you to give us authorization to access information about you stored in those third-party services.
 *   To use our identity protection products, we may ask for the following personal information:
     *   Your legal name
     *   Your current residence
     *   Your Social Security Number
     *   Knowledge-based authentication questions that only you would know
-
-Technical and Analytic Information
-
-We automatically collect technical and analytic information from both registered users and anonymous visitors to our website. We generally treat this information as non-personal. This information includes, but is not limited to:
-
-*   Your IP address
-*   The referring link that brought you to our website
-*   The browser and operating system you are using to access our website
-*   Data that we may have previously stored in cookies on your computer
-*   Which pages on our website you visit
 
 How do we collect information about you? Services You Authorize
 
@@ -88,11 +120,12 @@ Cookies and Other Tracking Technologies
 
 We use several methods to collect technical and analytics data, including the following:
 
-*   **Cookies**. We may set and access our cookies on your computer. peoplesmart.com uses both session cookies and persistent cookies. A session cookie expires when you close your browser. We use session cookies to make it easier for you to navigate the site and log in to your account. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to track usage of our site to improve your experience, and to remember your preferences. You can remove persistent cookies by following directions provided in your Internet browser’s "help" directory. Learn more about cookies. You may disable cookies in your browser settings, but your ability to use some areas of our site will be limited.
-*   **Third-Party Cookies**. The use of cookies by our partners, affiliates, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, and service providers use session and persistent cookies to make it easier for you to navigate our site, monitor site usage and performance, and provide targeted ads.
-*   **Web Beacons**. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-*   **Flash Cookies**. We use Flash cookies (also known as local storage objects or LSOs) to store content information and preferences. Third parties, with whom we partner to provide certain features on our site, prevent fraud, or to display advertising based upon your Web browsing activity, may use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here.
-*   **Log Data**. Your browser automatically sends certain data that is recorded by our servers every time you interact with this website, including your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, and search terms.
+*   Technologies such as: cookies, beacons, tags and scripts are used by Inflection.com, Inc. and our affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+*   We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication, and for analyzing site usage. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+*   As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+*   We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+*   Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
+*   To manage Flash LSOs please click here.
 
 What do we use your information for?
 
@@ -119,9 +152,11 @@ Payment Information
 
 For processing payments, we use systems that are compliant with the Payment Card Industry Data Security Standard (PCI DSS). All payment information is safely stored according to PCI DSS requirements.
 
-Disclaimer
+Security
 
-While we use acceptable industry-standard practices to protect your information, no computer system or Internet communication is ever completely secure or error-free. As a result, we cannot and do not guarantee that your information will be absolutely secure.
+When you enter sensitive information such as a credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at privacy@peoplesmart.com.
 
 When do we share your information?
 
@@ -142,6 +177,10 @@ We use certain trusted third parties to provide certain services for us. We may 
 Public, Anonymous and Aggregated Data
 
 We may share or disclose information that is non-private, anonymously aggregated, or otherwise non-personal.
+
+Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@peoplesmart.com.
 
 Business Transfers
 
@@ -164,23 +203,19 @@ We may preserve or share your information in the following circumstances:
 
 Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party or government request to disclose your information.
 
-Advertising
-
-We may use third-party advertising companies to serve targeted ads when you visit our website. These companies may use non-personal information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-While we do not provide any personal information to the advertiser when you interact with or view a targeted advertisement, you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the advertisement (for example, women ages 18-24 from a particular geographic area.)
-
-If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
+If you are a law enforcement officer seeking information from Inflection about one of our users, please reference our Law Enforcement Guidelines for further information.
 
 How do I access and control my personal information? Access and Choice
 
 You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our Privacy Team at privacy@peoplesmart.com. We will respond to your request within 30 days.
 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 Communication Preferences
 
 We may send you information about our products, notify you of any changes to your account, or send confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing emails.
 
-If you would like to stop receiving newsletters and marketing emails from peoplesmart.com please provide us with the email address you would like to unsubscribe by emailing privacy@peoplesmart.com or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
+If you would like to stop receiving newsletters and marketing emails from PeopleSmart.com please provide us with the email address you would like to unsubscribe by emailing privacy@peoplesmart.com or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
 
 Compliance Notices California Do Not Track Disclosure
 
@@ -194,7 +229,7 @@ We do not share your personal information with third parties for their own use w
 
 Children’s Online Privacy Protection Act
 
-peoplesmart.com complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems.
+PeopleSmart.com complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems.
 
 Changes to this Privacy Policy
 
@@ -204,14 +239,14 @@ Contact Information
 
 If you have questions or concerns regarding this policy, you can contact us by emailing privacy@peoplesmart.com, calling 1-888-813-0008, or writing to us at:
 
-peoplesmart.com  
+PeopleSmart.com  
 ATTN: Privacy Department  
 P.O. Box 391146  
 Omaha, NE 68139
 
 PeopleSmart maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
 
-Tweet About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Follow PeopleSmart
+About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Follow PeopleSmart
 
 PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Visit GoodHire.com for all your employment screening needs.
 
