@@ -118,8 +118,7 @@ Il est ainsi conseillé à l'Utilisateur de consulter régulièrement la derniè
 Durée et résiliation  
 Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente  
-Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents.  
-Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
+Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
 Conditions-generales-d-utilisation.pdf A voir également
 
 *   Conditions générales d'utilisation
