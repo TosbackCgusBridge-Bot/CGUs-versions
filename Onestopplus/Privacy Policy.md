@@ -133,13 +133,7 @@ www.brylanehome.com BrylaneHome
 PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0339  
   
 TDD Hearing Impaired:  
-(800) 528-5149 (800) 528-5152 fullbeauty Please visit  
-My Account on  
-www.fullbeauty.com fullbeauty  
-PO Box 8386 Indianapolis, IN 46283-8320 (877) 388-3000  
-  
-TDD Hearing Impaired:  
-(800) 345-9137 (800) 456-9838 Jessica London Please visit  
+(800) 528-5149 (800) 528-5152 Jessica London Please visit  
 My Account on  
 www.jessicalondon.com Jessica London PO Box 8320 Indianapolis, IN 46283-8320 (800) 441-1362  
   
@@ -150,9 +144,9 @@ www.kingsizedirect.com KingSize
 PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0249  
   
 TDD Hearing Impaired:  
-(800) 682-8095 (800) 682-8109 OneStopPlus Please visit  
+(800) 682-8095 (800) 682-8109 fullbeauty Please visit  
 My Account on  
-www.onestopplus.com OneStopPlus  
+www.fullbeauty.com fullbeauty  
 PO Box 8320 Indianapolis, IN 46283-8320 (800) 400-5527  
 TDD Hearing Impaired:  
 (800) 456-7161  
