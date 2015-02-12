@@ -7,8 +7,8 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Valentine's Day Gifts
-    *   Gift Boxes
     *   Easter Favorites
+    *   Gift Boxes
     *   Business Gifts
         
     *   Military Gifts
@@ -54,8 +54,8 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Valentine's Day Gifts
-    *   Gift Boxes
     *   Easter Favorites
+    *   Gift Boxes
     *   Business Gifts
         
     *   Military Gifts
@@ -97,7 +97,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by Wednesday 3PM EST for Valentine's Day 2-Day Delivery.\*
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by TOMORROW 3PM EST for Valentine's Day Next Day Delivery.\*
 
 1.  Home
 2.  Customer Service
@@ -151,9 +151,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
