@@ -104,6 +104,10 @@ Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now
 *   OTA Blog
 *   Newsletters
 
+Thu, Feb 12, 2015 Data Privacy &. Protection Day - Breach Legislation
+
+OTA’s 2015 Data Privacy &. Protection Day Town Halls attracted over 500 attendees, including leading experts in public policy, privacy and security. In each city, a fireside chat with an FTC Commissioner kicked off each Town Hall including Commissioner McSweeney with OTA President Craig Spiezle in Silicon Valley, followed by Commissioners Ohlhausen and Brill in NYC and DC respectively. View the Video Highlights
+
 Thu, Jan 29, 2015 Why Data Privacy Day is Important for the State of Web Security
 
 As technology continues to evolve, web security threats are on the rise with an estimated 160,000 samples of malware  detected around the world each day. Unfortunately, 70% of these attacks are targeted at small businesses and other particular industries (e.g. retail, healthcare and hospitality).
@@ -118,10 +122,6 @@ Thu, Dec 18, 2014 Sony - It is not about the movie!
 _**Sony - It is not about a movie. It is an attack on our sovereign nation**._ 
 
 It is no longer the threat from ballistic missiles, our physical borders or hijacked airplanes.  It is the Internet, the fabric of our lives and economy.
-
-Tue, Dec 9, 2014 OTA Supports American Bankers Assoication Petition to the FCC
-
-OTA supports the petition for exemption of the Telephone Consumer Protection Act (TCPA) as requested by the ABA, limited to security and fraud prevention notification purposes and respectfully urges the Commission to grant the requested exemption. Doing so will facilitate prompt and efficient communication of time-sensitive information that can both limit the occurrence and impact of online crime and identity theft.
 
 Resources
 
