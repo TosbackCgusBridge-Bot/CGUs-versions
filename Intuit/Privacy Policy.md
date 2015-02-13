@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13389854357
+true true L13390899996
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Wed Feb 11 11:23:54 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Thu Feb 12 04:40:38 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,6 +45,8 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+Ends February 16.
+
 In Store and Online
 
 Code: ONLINE
@@ -63,19 +65,40 @@ Code: SHOPPIN
 
 Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details print store coupon President's Day Home Sale 30-50% Off
+\*See exclusions and details print store coupon
+
+*   Valentine's Day Huge Sale
+    
+    Starts now. In store and online.
+    
+    shop the sale view store ad
+    
+    When you spend $50 or more in store February 1 through 16. Redeemable February 17 through 24, 2015. Maximum $30 Bonus Cash per transaction. Some restrictions and exclusions apply. See store associate for details.
+    
+    shop women shop men shop kids' shop shoes shop lingerie shop baby shop jewelry shop window shop kitchen shop bedding shop furniture shop home decor
+*   40-50% Off Furniture and Mattresses
+    
+    Select styles.
+    
+    shop nowPresident's Day Home Sale shop now70% Off Leather Possibilities Clearance shop now
+
+Thousands of Night and Day Doorbusters
+
+Use your coupon and save even more! In store and online Friday, 3PM CST through Saturday, 1PM CST.
+
+view doorbusters Give Everyone a Little Love shop gifts 40-50% Off Juniors' Graphic Tees
 
 Select styles.
 
-shop the sale shop window shop kitchen and dining shop furniture and mattresses shop home decor shop luggage40-50% Off Curtains and Drapes
+shop now Converse Shoes for the Family
+
+Select styles. Excluded from coupon.
+
+shop now 40% Off Chemises and Babydolls
 
 Select styles.
 
-shop curtains and drapes$10 Bonus Cash Coupon
-
-When you spend $50 or more in store February 1 through 16. Redeemable February 17 through 24, 2015. Some restrictions and exclusions apply. See store associate for details. In store only.
-
-Give Everyone a Little Love shop gifts 40-50% Off Juniors' Graphic Tees
+shop now 20-50% Off Watches
 
 Select styles.
 
@@ -84,18 +107,6 @@ shop now 30-50% Off Carter's
 Select styles.
 
 shop now 40% Off Big and Tall the Foundry Supply Co. Polos and Shorts
-
-Select styles.
-
-shop now 25-40% Off Shoes for Her
-
-Select styles from A.N.A and Liz Claiborne.
-
-shop now 20-50% Off Watches
-
-Select styles.
-
-shop now 25% Off Bras When You Buy 2 or More
 
 Select styles.
 
@@ -111,7 +122,11 @@ shop now Gift Card Bonus Cash
 
 In store $15 Off $15 Bonus Cash Coupon when you spend $75 or more on JCPenney gift cards in store February 1 through 14. Redeemable February 15 through 28, 2015. Terms and conditions apply to gift cards. See card for details. Some restrictions and exclusions apply. See store associate for details.
 
-Matrix, Redken and Pureology
+40-50% Off Mattresses
+
+Select styles.
+
+shop now Matrix, Redken and Pureology
 
 Find all your favorite products from Matrix, Redken and Pureology now online at jcp.com.
 
