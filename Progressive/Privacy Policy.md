@@ -132,9 +132,11 @@ Get Started
 *   Renters Insurance
 *   Motorcycle Insurance
 *   Boat Insurance
-
 *   RV Insurance
+
+*   Classic Car Insurance
 *   Commercial Auto Insurance
+*   Business Insurance
 *   Life Insurance
 *   Local Car Insurance
 *   Car Insurance Australia
@@ -142,6 +144,7 @@ Get Started
 Connect
 
 *   1-855-347-3939
+*   About
 *   Contact &. Support
 *   Careers
 *   Progressive App
