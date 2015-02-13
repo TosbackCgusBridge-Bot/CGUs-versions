@@ -1,6 +1,6 @@
 Chegg.com Privacy Policy
 
-Last Updated: January 22, 2015
+Last Updated: February 12, 2015
 
 See also: Terms of Use  
 General Policies  
