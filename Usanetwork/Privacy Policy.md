@@ -53,7 +53,7 @@ Skip to main content
             4.  TeleXitos TeleXitos TeleXitos is the Telemundo Station Group’s national multicast network that serves as a destination for viewers who want to watch their favorite action and adventure television series and movies from the 1970s to 2000s in Spanish and without subtitles. TeleXitos
         8.  Parks
             1.  Universal Orlando Resort Universal Orlando Resort Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Orlando Resort
-            2.  Universal Studios Hollywood Universal Studios Hollywood Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Hollywood
+            2.  Universal Studios Hollywood Universal Studios Hollywood Celebrate the 50th Anniversary of the world-famous Studio Tour and go behind the scenes to explore real film sets where Hollywood movies are made. Universal Studios Hollywood
             3.  Universal Studios Japan Universal Studios Japan Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Japan
             4.  Universal Studios Singapore Universal Studios Singapore Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Singapore
         9.  Content Distribution
