@@ -181,7 +181,7 @@ By using the Sites or Services, you signify your acceptance to this Policy. If y
   
 If you have any questions about this Policy please contact us at:  
 NetZero Legal Department  
-21255 Burbank Boulevard  
+21255 Burbank Boulevard,  
 Woodland Hills, CA 91367  
   
 or  
