@@ -163,10 +163,10 @@ By using the Sites or Services, you signify your acceptance to this Policy. If y
 If you have any questions about this Policy please contact us at:  
   
 Juno Legal Department  
-21301 Burbank Boulevard  
+21255 Burbank Boulevard,  
 Woodland Hills, CA 91367  
 or  
-security@support.juno.com.  
+privacy@support.juno.com.  
   
 **VII. International Users**  
   
