@@ -56,8 +56,9 @@ Aéropostale Go
     
     *   TOPS
     *   Graphic Tees
-    *   Tees
     *   Polos
+    *   Tees
+    *   Tanks
     *   Shirts
     *   Hoodies
     *   Sweaters
