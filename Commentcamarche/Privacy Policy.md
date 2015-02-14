@@ -129,9 +129,3 @@ Conditions-generales-d-utilisation.pdf A voir également
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Conditions générales (Résolu) » Forum
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
-
-Communautés d'assistance et de conseils.
-
-*   Forum Mobile
-*   Forum iPhone
-*   Forum Vos droits sur internet
