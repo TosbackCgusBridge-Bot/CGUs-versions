@@ -63,7 +63,9 @@ Personally identifiable information collected on ford.com may be used to:
 
 5\. Other (Non-Personally Identifiable) Information We Collect From Site Visitors:
 
-ford.com collects other “non-personally identifiable information” from site visitors. This means that we do not track these items on an individual basis that identifies the site visitor, but rather gather and collect this information on an aggregate \[or anonymous\] basis that includes all site visitors. Non-personally identifiable information may include information such as tracking the site pages that are visited, the amount of time spent on our site, clicks, page views, events (which shopping tools you interacted with), and zip code.
+ford.com collects other “non-personally identifiable information” from site visitors. This means that we do not track these items on an individual basis that identifies the site visitor, but rather gather and collect this information on an aggregate \[or anonymous\] basis that includes all site visitors. Non-personally identifiable information may include information such as tracking the site pages that are visited, the amount of time spent on our site, clicks, mouse movements, scrolls, page views, events (which shopping tools you interacted with), and zip code.
+
+Third-Party analytics provider ClickTale also records sessions. This only occurs on areas of the website that do not collect personally identifiable information. The data provided to Ford is anonymized and it does not contain the IP address. Website visitors may opt-out of ClickTale by going to http://www.clicktale.net/disable.html . For more information on ClickTale’s privacy practices go to http://www.clicktale.com/privacy-service .
 
 If you visit a related mobile site or are directed to this site via a QR Code that you scanned, we collect additional non-personally identifiable information which may include the type/model of the mobile device viewing the site and the mobile device’s service provider and operating system.
 
@@ -71,7 +73,7 @@ If your mobile phone has the capability and the GPS feature on the mobile phone 
 
 Our primary goal in collecting non-personally identifiable information from you is to be able to perform site metrics that allow us to improve the functionality of the website.
 
-We may use session and persistent “cookies,” session logs, spot light ads/web beacons/GIF/pixel tags, banner ads or links, third party networks that serve user-requested emails (e.g., a third party email service provider for Tell-a-Friend user-customized emails), and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, and Google Analytics. these companies may also use such tools) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below.
+We may use session and persistent “cookies,” session logs, spot light ads/web beacons/GIF/pixel tags, banner ads or links, third party networks that serve user-requested emails (e.g., a third party email service provider for Tell-a-Friend user-customized emails), and third-party click tracking analytics tools (such as Adobe, DoubleClick, Efficient Frontier, Google Analytics and ClickTale. these companies may also use such tools) to collect aggregate or other non-personally identifiable information about site visitors. An explanation on collection methods and how they work is included in Section 7 - Methods to Collect Information, below.
 
 6\. How We Use the Aggregate or Non-Personally Identifiable Information We Collect:
 
@@ -98,7 +100,7 @@ A “persistent” cookie is stored on your computer's hard drive until a specif
 
 This site may use a third party to activate and/or deliver a service, or deliver site functionality such as fulfilling your request to purchase a product or service, including items from our online store. In performing this function the third party may place a persistent cookie on your computer or have to gather personal information from you in order to activate and deliver the service, or facilitate the processing of your purchase.
 
-This site may use a third-party click tracking analytics tool (such as Adobe, and Google Analytics) to capture clickthrough statistics.
+This site may use a third-party click tracking analytics tool (such as Adobe, DoubleClick, Efficient Frontier, Google Analytics and ClickTale) to capture clickthrough statistics.
 
 ford.com may use spotlight ads/web beacons/GIF/pixel tags which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. Emails or electronic newsletters we send may use tools (e.g., pixel tags or web beacons) to gather email metrics and information to improve the reader’s experience such as how many of the emails are opened, if they were printed or forwarded, the type of device (e.g., mobile or PC) from which they were opened, and the city, state, and county associated with the applicable IP address. In general, any electronic image viewed as part of a webpage, including an ad banner, can act as a web beacon.
 
@@ -206,4 +208,4 @@ ford.com is committed to working with consumers to obtain a fair and rapid resol
 
 Occasionally we may update the privacy statement for ford.com in order to reflect any changes to the website or our privacy practices. If we make any updates to this statement, including any updates reflecting material changes to our Online Behavioral/Interest-Based Advertising practices, the new statement will be posted to the website ten (10) days prior to the changes taking effect.
 
-The effective date of this privacy statement is September 21, 2014
+The effective date of this privacy statement is February 24, 2015
