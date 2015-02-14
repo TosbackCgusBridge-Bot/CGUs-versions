@@ -25,9 +25,9 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shoes &. Sandals
             
             *   New Arrivals
-            *   Best of Spring 2015
+            *   The Garden District
             *   Starfish Collection
-            *   Outerwear Shop
+            *   The Swim Guide
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
