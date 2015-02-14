@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13390899996
+true true L13394330695
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Thu Feb 12 04:40:38 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Fri Feb 13 03:15:01 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -86,7 +86,7 @@ Thousands of Night and Day Doorbusters
 
 Use your coupon and save even more! In store and online Friday, 3PM CST through Saturday, 1PM CST.
 
-view doorbusters Give Everyone a Little Love shop gifts 40-50% Off Juniors' Graphic Tees
+shop doorbusters Give Everyone a Little Love shop gifts 40-50% Off Juniors' Graphic Tees
 
 Select styles.
 
