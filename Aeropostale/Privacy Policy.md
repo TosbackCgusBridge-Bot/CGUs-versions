@@ -13,6 +13,7 @@ Aéropostale Go
     *   Bethany Mota
     *   United XXVI
     *   Lookbook
+    *   Party Dresses
     *   Swim Shop
     *   Uniform
     *   Shoe Bar
