@@ -120,6 +120,6 @@ If you have any questions, you can contact us through our contact form.
 *   Advertise on Y8
 *   contact form
 *   Submit a game or animation
-*   All-site RSS
+*   Games for your website
 *   Terms of Use
 *   Privacy Policy
