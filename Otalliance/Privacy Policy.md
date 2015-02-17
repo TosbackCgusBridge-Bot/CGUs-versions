@@ -95,6 +95,10 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
+Wed, Feb 18, 2015 2015 Data Breach Legislation Update &. Best Practices
+
+Join OTA staff for an update on the data breach landscape including updates on draft breach legislation, highlights of the White House Cyber security Summit and an overview of OTA's Data Breach readiness guide recently released. The webinar will provide the fundamentals of developing a data protection and breach response plan.
+
 Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
@@ -103,6 +107,10 @@ Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now
 
 *   OTA Blog
 *   Newsletters
+
+Tue, Feb 17, 2015 Recap &. White House Cyber Summit
+
+Last Friday I had the privilege to attend the White House Cybersecurity &. Consumer Protection Summit, hosted at Stanford University.  Attendees included CEO's of leading organizations ranging from American Express, AIG, Intel, Bank of America, MasterCard, to Kaiser Permante, PayPal, QVC, Walgreens and the Center of Democracy &. Technology.  Key messages delivered through the day included the importance of government – private sector collaboration, the sharing of threat data with the government and government sharing the data back to the business community.
 
 Thu, Feb 12, 2015 Data Privacy &. Protection Day - Breach Legislation
 
@@ -116,12 +124,6 @@ Tue, Jan 6, 2015 National Series of Town Halls and Workshops to Promote Data Pri
 
 **National Series of Town Halls and Workshops to Promote Data Privacy &. Protection Day Announced**  
 Federal Trade Commissioners to keynote with participation from the FBI, Secret Service and thought leaders in consumer protection, privacy and cybersecurity
-
-Thu, Dec 18, 2014 Sony - It is not about the movie!
-
-_**Sony - It is not about a movie. It is an attack on our sovereign nation**._ 
-
-It is no longer the threat from ballistic missiles, our physical borders or hijacked airplanes.  It is the Internet, the fabric of our lives and economy.
 
 Resources
 
