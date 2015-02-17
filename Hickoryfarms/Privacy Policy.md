@@ -6,7 +6,6 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Valentine's Day Gifts
     *   Easter Favorites
     *   Gift Boxes
     *   Business Gifts
@@ -53,7 +52,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Valentine's Day Gifts
     *   Easter Favorites
     *   Gift Boxes
     *   Business Gifts
