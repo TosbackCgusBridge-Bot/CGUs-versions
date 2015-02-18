@@ -108,7 +108,7 @@ Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now
 *   OTA Blog
 *   Newsletters
 
-Tue, Feb 17, 2015 Recap &. White House Cyber Summit
+Tue, Feb 17, 2015 White House Cyber &. Consumer Protection Summit
 
 Last Friday I had the privilege to attend the White House Cybersecurity &. Consumer Protection Summit, hosted at Stanford University.  Attendees included CEO's of leading organizations ranging from American Express, AIG, Intel, Bank of America, MasterCard, to Kaiser Permante, PayPal, QVC, Walgreens and the Center of Democracy &. Technology.  Key messages delivered through the day included the importance of government – private sector collaboration, the sharing of threat data with the government and government sharing the data back to the business community.
 
