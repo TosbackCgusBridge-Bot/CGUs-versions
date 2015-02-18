@@ -28,8 +28,6 @@ When you place an order on QVC.com without entering a password, QVC collects the
 
 Please read through this Privacy Statement to learn what kinds of information we collect about all of our customers, users, and visitors, how we use that information and with whom we may share it, and how you can access and change our information about you.
 
-Return to top
-
 What personal information do we collect from our customers?
 
 We gather personal information about our customers so we can better serve you, and we make reasonable efforts to ensure the security of your personal information and to treat that information responsibly. We collect the personal information that you give us voluntarily or in response to our request when you choose to purchase a product from us or use one of our services. For example, when you register with QVC we will ask you to provide information such as your name, e-mail address, physical address, and telephone number. Registration with QVC is generally required to make a purchase or to use one of our community functions such as posting a message on a community forum or submitting a product review. Similarly, we will ask you for contact information if you use our notify a friend program or if you request that we send you e-newsletters or other promotional notices or seek information or assistance from us.
@@ -40,8 +38,6 @@ Additional personal information may be collected from you in connection with you
 
 If you are a member of one of our third party affinity programs, we may also collect personal information from you about your membership and your purchases from us.
 
-Return to top
-
 What other kinds of customer information do we collect?
 
 If you ask us to ship a purchase to somebody else or you use our notify a friend feature, we will ask you to provide the name and address or e-mail address of the person to whom you are sending or recommending the product, as well as your name and contact information.
@@ -49,8 +45,6 @@ If you ask us to ship a purchase to somebody else or you use our notify a friend
 We may also obtain personal information about you such as contact information, updated address and shipping instructions, and credit information from agents, consultants, contractors, carriers, and other third parties. We may also collect contact and other information about prospective customers.
 
 Additionally, our system keeps track of technical information about your computer or mobile device, such as the browser type and version, browser plug-in types and versions, and operating system of your computer, the Internet Service Provider (ISP) or other provider you use to access certain of our services, and your internet protocol (ip) address, location, and time zone setting. To help us understand the use of our services by our visitors and improve your shopping experience and to aid us in marketing and managing our services, we also automatically collect information as to how you were directed to them, how you navigate around them, what products you browse, and your purchasing activities.
-
-Return to top
 
 How do we collect this information?
 
@@ -60,8 +54,6 @@ Personal and other information about prospective customers may be collected by u
 
 We automatically gather other information (including the technical information identified above) when you access certain of our services, including through the use of cookies and web beacons.
 
-Return to top
-
 How do we use cookies?
 
 Cookies enhance our ability to serve you. Basically, they're pieces of text that a website stores on your computer – an identification code of sorts. This cookie can be accessed by the website when you revisit it.
@@ -70,25 +62,17 @@ We use two types of cookies: session cookies and persistent cookies. Session coo
 
 We understand that not everyone wants to permit the use of cookies. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting cookies and how to disable cookies, but we recommend that you leave cookies turned on so that you can take full advantage of the shopping features we offer.
 
-Return to top
-
 How do we use web beacons?
 
 Web beacons are small, transparent graphics that are placed on web pages to track how visitors arrive at a website and what they do there. We use web beacons to track customers' visits to and browsing activities at our websites and to compile sales and statistical data. For example, beacons let us know when a purchase is made on one of our websites by a member of one of our third party affinity programs and when a purchase is initiated by an advertisement we placed on a third party's website. This information assists us in marketing and managing our websites and enhancing your shopping experience.
-
-Return to top
 
 What if you don't want to give us personal information?
 
 Personal information is required for you to make a purchase, request information or assistance, or take advantage of certain services and features we offer, such as QVC's mobile services and desktop applications, our notify a friend feature, community functions, contests or sweepstakes, or on-line employment applications. If you do not want to provide personal information through use of these services and features, you are free to look for products offered through any of our marketing channels and place a telephone order by calling 1.888.345.5788 toll-free or by visiting one of our stores. We respect the confidentiality of all your personal information as described in this Privacy Statement whether you give it to us over the telephone, at one of our stores, or via any other means.
 
-Return to top
-
 How do we protect our customers' personal information?
 
 QVC participates in the VeriSign Secured Seal Program. All of your personal information is encrypted by Secure Sockets Layer (SSL) software when it is transmitted to us via the Internet to any website address beginning with https. We maintain the servers that store this information in a facility with restricted access. We also truncate your credit card number to the last four digits when we communicate with you about your order.
-
-Return to top
 
 How do we use information about our customers?
 
@@ -102,8 +86,6 @@ We may also use your personal information to improve our service to you, to cust
 
 Finally, we analyze information we obtain automatically, including from cookies and web beacons, concerning our customers' use of, access to, and navigation of our services and their browsing and purchasing activities to improve, customize, and market our services and content, to enhance our customers' shopping experiences, and for research, marketing, and other business purposes.
 
-Return to top
-
 How do we share customers' personal information with third parties?
 
 In order to receive and process your orders and requests, we may provide your name, address, and other personal information, such as your e-mail address and telephone number, to other entities such as credit card companies and package delivery services (for example, American Express, Visa, UPS, and USPS). Similarly, if you order a product that is shipped directly from another company, or offered by us in conjunction with another company, we will share personal information about that order with the other company.
@@ -116,13 +98,9 @@ It is possible that QVC or part of its business or one of its affiliates could m
 
 We reserve the right to share personal information about you with our affiliates in the course of our business operations. We also reserve the right to share personal information about you when we believe this to be appropriate to comply with the law or in cooperation with legal authorities, to enforce the General Terms and Conditions governing use of this website and the terms and conditions governing the use of our other services, or to protect the rights, property, safety, or other interests of QVC and its customers.
 
-Return to top
-
 How do we share other kinds of information about our customers with third parties?
 
 We may share non-personal, non-individually identifiable information about our customers with the group of people with whom we share personal information, as well as with other third parties such as vendors, advertisers, and marketing firms.
-
-Return to top
 
 How can users check or change the information we collect from or about them?
 
@@ -151,18 +129,10 @@ QVC also works with members of the self-regulatory groups the Network Advertisin
 
 **Facebook**
 
-If you are active on Facebook, QVC may also reach out to you with Facebook ads that are customized to your interests based on how you have interacted with QVC's website and mobile apps. If you do not want QVC to present you with tailored Facebook ads, you can opt out through Facebook.
-
-Return to top
-
-What are third party affinity programs?
+If you are active on Facebook, QVC may also reach out to you with Facebook ads that are customized to your interests based on how you have interacted with QVC's website and mobile apps. If you do not want QVC to present you with tailored Facebook ads, you can opt out through Facebook. What are third party affinity programs?
 
 Occasionally, we participate in rewards programs with other business organizations where customers who are also members of these businesses will get a credit or a reward for their QVC purchases from the other member organizations. We also sometimes advertise QVC products on other services in the form of a link so that visitors can click over to our services and purchase the products if they are interested. In these situations, we share information about our customers' QVC purchases with these other member organizations and other services under the contracts these entities have with QVC.
-
-Return to top
 
 Do we collect personal information from children?
 
 Our services are not intended for use by children, and the terms and conditions governing the use of our services require that you must be at least 18 years old to use them. In addition, we do not solicit or collect information from anyone who tells us that he or she is under 13 years of age.
-
-Return to top
