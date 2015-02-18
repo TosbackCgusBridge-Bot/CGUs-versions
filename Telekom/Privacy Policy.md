@@ -43,8 +43,7 @@ Um Missbrauch aufzudecken (Spam, Viren, Würmer etc.) und Störungen in unserem 
 **7\. Wird mein Nutzungsverhalten ausgewertet, z. B. für Werbung?**  
 Im Rahmen der gesetzlichen Regelungen legen wir Nutzungsprofile unter einem Pseudonym an. Diese können wir für Werbung und Marktforschung auswerten. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen.
 
-Tag-Management mit Tealium
-
+Tag-Management mit Tealium  
 Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbietern auf den Seiten der Telekom Deutschland GmbH geladen werden (bspw. das Webtrekk Messpixel). Zur Optimierung des Ladens der Messpixel erfasst Tealium über ein Cookie einige nicht personenbezogene Daten. Dieses Cookie verliert nach 12 Monaten seine Gültigkeit. Folgende Informationen werden in dem Tealium Cookie gespeichert:
 
 *   Zeitstempel des Webseitenbesuchs
@@ -54,9 +53,9 @@ Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbietern au
 
 Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren. Legen Sie in Ihren Browser-Einstellungen fest, dass Cookies von der Domain tealium.hs.llnwd.net blockiert werden.
 
-Webseiten-Analyse mit Webtrekk
-
+Webseiten-Analyse mit Webtrekk  
 Die Telekom verwendet die Dienste der Firma Webtrekk GmbH, um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren. Die Webtrekk GmbH ist für Datenschutz, im Bereich Web Controlling Software, vom TÜV Saarland zertifiziert. Teil der Zertifizierung ist ein Audit bei Webtrekk vor Ort in Berlin und im Hosting-Standort, in dem die Erfassung und Verarbeitung von Tracking-Daten auf Datenschutzkonformität und Datensicherheit hin geprüft wurden.  
+  
 Erfasste Daten für die Webanalyse  
 Im Rahmen Ihres Besuchs der Anwendung werden für unser Webcontrolling einige Informationen erhoben und ausgewertet, die Ihr Browser übermittelt. Die Erhebung erfolgt durch einen Pixel, der auf jeder Seite eingebunden ist. Folgende Daten werden erhoben:
 
@@ -75,7 +74,7 @@ Im Rahmen Ihres Besuchs der Anwendung werden für unser Webcontrolling einige In
 *   Klicks
 *   Ggf. Formularinhalte (bei Freitextfeldern, z.B. Name und Passwort, wird nur "ausgefüllt" oder "nicht ausgefüllt" übertragen)
 
-IP-Adresse:  
+IP-Adresse  
 Die IP-Adresse wird bei jeder Serveranfrage übertragen, damit der Server weiß, wohin die Antwort gesendet werden muss. Die IP-Adresse erhält jeder von einem Internet-Service-Provider (ISP), sobald er sich mit dem Internet verbindet und der ISP kann nachvollziehen, welche IP-Adresse zu welchem Zeitpunkt welchem seiner Kunden zugeordnet wurde. Solange die IP-Adresse gespeichert wird, kann über den Umweg des ISPs theoretisch die Identität des Anschlussinhabers ermittelt werden. Wir und unser Statistikdienstleister speichern die IP-Adresse daher nur in gekürzter (anonymisierter) Form und verwenden sie nur zur Sessionerkennung, für die Geolokalisierung (bis auf Stadt-Ebene) und für die Abwehr von Attacken. Die IP-Adresse wird dann umgehend wieder gelöscht, so dass die erfassten Daten dann anonym sind und selbst über den Umweg des ISPs keine Zuordnung zur Identität des Nutzers mehr möglich ist.
 
 Cookies:  
@@ -106,13 +105,15 @@ Die AT Internet GmbH setzt für diese Analysen Cookies ein. Das sind kleine Text
 
 Nutzungsbasierte Online-Werbung:
 
-Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies). Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
+Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies)), AudienceScience und The ADEX. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
 Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:
 
 Google: http://www.google.com/settings/ads/onweb/  
 Yieldr (sowie BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus): http://info.evidon.de/more\_info/12701?ecaid\[12701\]=camp\_id%3A1930  
 Adform: http://site.adform.com/privacy-policy\_de/  
-Xplosion (sowie AppNexus und Adnologies): http://www.xplosion.de/so-funktionierts/opt-out.html
+Xplosion (sowie AppNexus und Adnologies): http://www.xplosion.de/so-funktionierts/opt-out.html  
+AudienceScience: http://www.audiencescience.com/de/privacy  
+The ADEX: http://de.theadex.com/company/consumer-opt-out/  
 
 Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit, der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen (http://www.youronlinechoices.com/de/praferenzmanagement/).  
 Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier unter: http://www.t-online.de/nutzungsbasierte-online-werbung/id\_56770518/index
