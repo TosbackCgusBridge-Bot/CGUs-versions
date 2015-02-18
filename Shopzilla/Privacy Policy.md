@@ -149,14 +149,14 @@ Questions &. Comments
 
 Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to privacy@connexity.
 
-Home  /  Privacy Policy Übersicht
+Home  /  Privacy Policy Overview
 
 *   Paid Search &. Marketplace
 *   Bizrate Insights
 *   Display Media
 *   Publisher Monetization
 
-Ressourcen
+Resources
 
 *   Blog
 *   Case Studies
@@ -172,7 +172,7 @@ Connexity
 *   Open Positions
 *   Press
 
-Bleiben Sie in Kontakt
+Stay Connected
 
 *   Contact Us
 *   Facebook
