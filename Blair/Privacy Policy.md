@@ -352,6 +352,7 @@ Access My Account
 Check Order Status  
 Pay Blair Credit Card Bill  
 Buy Gift Cards  
+Check Gift Card Balance  
 Place Catalog Order  
 Request a Catalog  
 VIP Plus Loyalty Program  
