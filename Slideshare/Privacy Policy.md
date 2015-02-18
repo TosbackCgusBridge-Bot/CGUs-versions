@@ -354,6 +354,7 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
     *   Tagalog
     *   ภาษาไทย
     *   Türkçe
+    *   العربية
 *   SlideShare
 
 *   LinkedIn Updates
