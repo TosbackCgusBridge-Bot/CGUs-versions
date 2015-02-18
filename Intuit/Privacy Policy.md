@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13268608200
+true true 203.17.194.255 L13402230056
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Mon Feb 16 11:32:26 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue Feb 17 03:32:49 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,34 +45,26 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Presidents Day Sale 40-50% Off Furniture and Mattresses
+*   2 Days Only
     
-    Select styles.
+    Online only, February 17 through 18. Select styles. Code: ALLINALL
     
-    shop the sale shop furniture shop furniture shop mattresses shop mattresses
-*   Presidents Day Sale shop the sale shop men's denim shop women's denim$10 Bonus Cash When You Spend $50 or More in Store
+    \*See exclusions and details50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades shop furniture and mattresses30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcare
+*   2 Days Only
     
-    In store only. February 1 through 16, 2015. Redeemable February 17 through 24, 2015. Maximum $30 Bonus Cash coupon per transaction. Some restrictions and exclusions apply. See store associate for details.
+    Online only, February 17 through 18. Select styles. Code: ALLINALL
     
-    Big Buys
-    
-    In store and online while they last. Use your coupon and save even more!
-    
-    view store ad
+    \*See exclusions and detailsExtra 20% Off\* select original, regular and sale items shop men's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop custom blinds and shades shop clearance
 
-Ambrielle Week! 50% Off Select Bras When You Buy 2 or More shop now 30-40% Off Select Shoes for Her shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now 30-50% Off Select Denim for Her shop now $19.99 Guys' Arizona Denim
+Ambrielle Week! 50% Off Select Bras When You Buy 2 or More shop now 30-40% Off Select Shoes for Her shop now 40-60% Off Select Fashion When You Buy 2 or More shop now 30-50% Off Select Denim for Her shop now $21.99 Guys' Arizona Denim
 
 Originally $36.
 
-shop now 30-50% Off Select Carter's shop now Home Sale 30-50% Off
+shop now 15-25% Off Select Baby Furniture shop now 40% Off Curtains and Drapes
 
-Select styles.
+Save on select styles when you buy 2 or more.
 
-shop home sale40-50% Off Window
-
-Select styles.
-
-shop window shop bed and bath shop luggage shop home decor shop kitchen and dining Red Zone Selections 50-80% Off Clearance shop now JCP Rewards
+shop now Red Zone Selections 50-80% Off Clearance shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -86,7 +78,11 @@ shop now People StyleWatch Must Haves
 
 Sponsored content.
 
-shop now Write a Review for Your Chance to Win $500 get details
+shop now Oscars® Play to Give
+
+Join JCPenney in a supporting role on Oscars night. Every tap gives back to one of three great charities.
+
+get details
 
 get connected
 
