@@ -274,7 +274,7 @@ If you submit an application for pre-registration of a domain name, Go Daddy doe
 
 We may offer some or all of the following domain names.  You agree to be bound by the rules, policies and agreements of each Registry from which you purchase a domain name registration, which may include, but is not limited to, Top Level Domain Registries and Second Level Domain Registrations. You further agree to comply with the ICANN requirements, standards, policies, procedures, and practices for which each applicable Registry Operator has monitoring responsibility in accordance with the Registry Agreement between ICANN and itself or any other arrangement with ICANN. You further agree to comply with any operational standards, policies, procedures, and practices for the each Registry TLD established from time to time by the applicable Registry Operators in a non-arbitrary manner, which shall be effective upon posting on this Site.
 
-**13\. provisions specific to Afilias registrations: .blue. .black. .global. .hiv. .kim. .lgbt. .onl. .pink. .red. .rich. .shiksha. .vote. .voto. .xn-6frz82g**
+**13\. provisions specific to Afilias registrations: .blue. .black. .global. .green. .hiv. .kim. .lgbt. .onl. .pink. .red. .rich. .shiksha. .vote. .voto. .xn-6frz82g**
 
 You agree to comply with Registry’s policies, including all applicable public interest commitments, community registration policies and Government Advisory Committee safeguards, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD.
 
