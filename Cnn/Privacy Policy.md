@@ -26,11 +26,11 @@ Sign in
 *   Regions
     *   U.S.
     *   China
-    *   Africa
-    *   Latin America
     *   Asia
-    *   Europe
     *   Middle East
+    *   Africa
+    *   Europe
+    *   Americas
 *   Video
     *   Stories Worth Watching
     *   Shows
@@ -40,16 +40,18 @@ Sign in
     *   Schedule
     *   Anchors and Reporters
 *   Features
-    
+    *   Style
+    *   Travel
+    *   All Features
 *   Opinions
     *   iReport
-    *   CNN Profiles A-Z
 *   More…
     
     *   Photos
     *   Weather
     *   CNN Mobile
     *   Tools &. Extras
+    *   CNN Profiles A-Z
     *   CNN Arabic
     *   CNN Español
     *   CNN Mexico
@@ -65,6 +67,7 @@ Sign in
     *   Weather
     *   CNN Mobile
     *   Tools &. Extras
+    *   CNN Profiles A-Z
 
 CNN Privacy Statement
 
@@ -294,11 +297,11 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
 1.  Regions
     1.  U.S.
     2.  China
-    3.  Africa
-    4.  Latin America
-    5.  Asia
+    3.  Asia
+    4.  Middle East
+    5.  Africa
     6.  Europe
-    7.  Middle East
+    7.  Americas
 
 1.  Video
     1.  Stories Worth Watching
@@ -311,16 +314,19 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
     3.  Anchors and Reporters
 
 1.  Features
+    1.  Style
+    2.  Travel
+    3.  All Features
 
 1.  Opinions
     1.  iReport
-    2.  CNN Profiles A-Z
 
 1.  More…
     1.  Photos
     2.  Weather
     3.  CNN Mobile
     4.  Tools &. Extras
+    5.  CNN Profiles A-Z
 
 International Edition
 
