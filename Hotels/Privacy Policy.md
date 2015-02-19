@@ -1,4 +1,4 @@
-Privacy Policy Print all sections  
+Privacy Policy Print all sections
 
 Below you will find the updated Privacy Policy for Hotels.com, which applies to any information provided or collected through this Hotels.com website and/or any Hotels.com application, including the Hotels.com mobile and tablet applications or any application on a social media or other website (each an "**App**"), each of which are provided by Hotels.com, L.P. 5400 LBJ Freeway, Suite 500, Dallas, Texas 75240, USA (“**Hotels.com**”, “**we**”, or “**us**”).
 
