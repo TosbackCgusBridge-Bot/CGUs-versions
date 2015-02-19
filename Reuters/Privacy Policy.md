@@ -3,7 +3,7 @@ This JavaScript enables OnlineOpinion, a method for collecting secure feedback d
 *   Discover Thomson Reuters
 *   Login
 *   Contact Us
-*   Find Your Rep
+*   Find your rep
 *   **Cart 0**
 
 Thomson Reuters Industries
@@ -34,7 +34,11 @@ Connect with Us
 *   LinkedIn
 *   Google+
 
-Skip to content Skip to navigation menu Your browser is not supported by this site. Please update to the latest version, or use a different browser for the best experience. Legal Solutions Free Standard Shipping! Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to WestlawNext WestlawNext online legal research
+Skip to content Skip to navigation menu Your browser is not supported by this site. Please update to the latest version, or use a different browser for the best experience. Legal Solutions
+
+Free Standard Shipping!
+
+Advanced Search Law Books Solutions Support News &. Views Home >. westlaw legal research >. practitioner insights Log in to WestlawNext WestlawNext online legal research
 
 *   Why WestlawNext?
 *   Plans
