@@ -9,18 +9,11 @@ Change country/language X
 
 My Account
 
-Customers
-
-Subscription Customers A360
-
-Education
-
-Students and educators sign in or register for the Education Community
-
-*   Sign In
-*   Need an education account?
-
-*   Get free software
+ Autodesk Account  
+ A360  
+ Education Community  
+  
+Need help? Visit our Sign in FAQs.
 
 *   Products
 *   Support &. Learning
