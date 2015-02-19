@@ -43,7 +43,7 @@ Um Missbrauch aufzudecken (Spam, Viren, Würmer etc.) und Störungen in unserem 
 **7\. Wird mein Nutzungsverhalten ausgewertet, z. B. für Werbung?**  
 Im Rahmen der gesetzlichen Regelungen legen wir Nutzungsprofile unter einem Pseudonym an. Diese können wir für Werbung und Marktforschung auswerten. Ein unmittelbarer Rückschluss auf Sie ist dabei nicht möglich. Eine Verknüpfung der Profildaten mit weiteren Informationen über Ihre Person findet nicht statt. Der Erstellung der Nutzungsprofile können Sie jederzeit widersprechen.
 
-Tag-Management mit Tealium  
+Tag-Management mit Tealium:  
 Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbietern auf den Seiten der Telekom Deutschland GmbH geladen werden (bspw. das Webtrekk Messpixel). Zur Optimierung des Ladens der Messpixel erfasst Tealium über ein Cookie einige nicht personenbezogene Daten. Dieses Cookie verliert nach 12 Monaten seine Gültigkeit. Folgende Informationen werden in dem Tealium Cookie gespeichert:
 
 *   Zeitstempel des Webseitenbesuchs
@@ -53,10 +53,10 @@ Tealium IQ ist ein Tag-Management-System mit dem Messpixel von Drittanbietern au
 
 Wenn Sie den Tealium Cookies widersprechen wollen, können Sie diese deaktivieren. Legen Sie in Ihren Browser-Einstellungen fest, dass Cookies von der Domain tealium.hs.llnwd.net blockiert werden.
 
-Webseiten-Analyse mit Webtrekk  
+Webseiten-Analyse mit Webtrekk:  
 Die Telekom verwendet die Dienste der Firma Webtrekk GmbH, um statistische Daten über die Nutzung dieser Anwendung zu erheben und unser Angebot entsprechend zu optimieren. Die Webtrekk GmbH ist für Datenschutz, im Bereich Web Controlling Software, vom TÜV Saarland zertifiziert. Teil der Zertifizierung ist ein Audit bei Webtrekk vor Ort in Berlin und im Hosting-Standort, in dem die Erfassung und Verarbeitung von Tracking-Daten auf Datenschutzkonformität und Datensicherheit hin geprüft wurden.  
   
-Erfasste Daten für die Webanalyse  
+Erfasste Daten für die Webanalyse:  
 Im Rahmen Ihres Besuchs der Anwendung werden für unser Webcontrolling einige Informationen erhoben und ausgewertet, die Ihr Browser übermittelt. Die Erhebung erfolgt durch einen Pixel, der auf jeder Seite eingebunden ist. Folgende Daten werden erhoben:
 
 *   Request (Dateiname der angeforderten Datei)
@@ -74,7 +74,7 @@ Im Rahmen Ihres Besuchs der Anwendung werden für unser Webcontrolling einige In
 *   Klicks
 *   Ggf. Formularinhalte (bei Freitextfeldern, z.B. Name und Passwort, wird nur "ausgefüllt" oder "nicht ausgefüllt" übertragen)
 
-IP-Adresse  
+IP-Adresse:  
 Die IP-Adresse wird bei jeder Serveranfrage übertragen, damit der Server weiß, wohin die Antwort gesendet werden muss. Die IP-Adresse erhält jeder von einem Internet-Service-Provider (ISP), sobald er sich mit dem Internet verbindet und der ISP kann nachvollziehen, welche IP-Adresse zu welchem Zeitpunkt welchem seiner Kunden zugeordnet wurde. Solange die IP-Adresse gespeichert wird, kann über den Umweg des ISPs theoretisch die Identität des Anschlussinhabers ermittelt werden. Wir und unser Statistikdienstleister speichern die IP-Adresse daher nur in gekürzter (anonymisierter) Form und verwenden sie nur zur Sessionerkennung, für die Geolokalisierung (bis auf Stadt-Ebene) und für die Abwehr von Attacken. Die IP-Adresse wird dann umgehend wieder gelöscht, so dass die erfassten Daten dann anonym sind und selbst über den Umweg des ISPs keine Zuordnung zur Identität des Nutzers mehr möglich ist.
 
 Cookies:  
@@ -89,37 +89,30 @@ Widerruf zur Datenspeicherung:
 Nach § 15 des Telemediengesetzes können Webseitenbesucher der Datenspeicherung Ihrer pseudonymisiert erfassten Besucherdaten widersprechen, so dass sie in Zukunft nicht mehr erhoben (erfasst) werden.  
 Für den Ausschluss vom Webtrekk Web-Controlling wird ein Cookie mit dem Namen webtrekkOptOut von der Domain Webtrekk.net gesetzt. Dieser Widerspruch gilt so lange, wie Sie das Cookie nicht löschen, maximal jedoch für die Lebensdauer des Cookies von 60 Monaten. Das Cookie ist für die genannte Domain, pro Browser und Rechner gesetzt. Falls Sie daher zum Beispiel unsere Webseite von zu Hause und der Arbeit oder mit unterschiedlichen Browsern besuchen, müssten Sie von jedem Rechner und Browser das Cookie gesondert setzen.  
 Zur Vervollständigung des Widerspruchs klicken Sie bitte auf den folgenden Link:  
-Cookie zum Widerspruch (Opt-out) setzen.
-
+Cookie zum Widerspruch (Opt-out) setzen.  
 Weitere Informationen finden Sie auf der Website der Webtrekk GmbH, Hannoversche Str. 19, 10115 Berlin, http://www.webtrekk.com/
 
-Webseiten-Analyse mit AT Internet:
-
-Wir möchten die Angebote unserer Webseiten so erweitern und verbessern, dass sie mit Ihren Interessen übereinstimmen. Dafür setzen wir die Analyseverfahren der Firma AT Internet GmbH, Bordeaux, ein. Hierfür werden Daten von einem externen Dienstleister gespeichert. Die Server des Dienstleisters befinden sich in Mitgliedsstaaten der EU. Bei diesem Verfahren werden die Daten bereits bei ihrer Erhebung anonymisiert und in aggregierter Form ausgewertet.
-
-Ihr Internet-Browser übermittelt automatisch Daten an unseren Server, sobald Sie auf unsere Webseiten zugreifen. Datum und Uhrzeit des Zugriffs, URL (Adresse) der verweisenden Webseite, abgerufene Datei, gesendete Datenmenge, den http-Antwortcode, Browser-Typ und -Version, evtl. vorhandene Browser-Erweiterungen, Betriebssystem und Ihre IP-Adresse (in verkürzter und anonymisierter Form) werden dabei übermittelt. Diese Daten werden getrennt von anderen Daten gespeichert, die Sie im Rahmen der Nutzung unseres Angebotes eingeben und enthalten keine Informationen, die Rückschlüsse auf Einzelpersonen zulassen. Die Zuordnung dieser Daten zu Ihrer Person ist uns nicht möglich. Sie werden ausschließlich zu Analysezwecken verwendet.
-
-Sie können der Datenverarbeitung durch AT Internet jederzeit unter folgendem Link widersprechen: http://www.xiti.com/de/optout.aspx
-
+Webseiten-Analyse mit AT Internet:  
+Wir möchten die Angebote unserer Webseiten so erweitern und verbessern, dass sie mit Ihren Interessen übereinstimmen. Dafür setzen wir die Analyseverfahren der Firma AT Internet GmbH, Bordeaux, ein. Hierfür werden Daten von einem externen Dienstleister gespeichert. Die Server des Dienstleisters befinden sich in Mitgliedsstaaten der EU. Bei diesem Verfahren werden die Daten bereits bei ihrer Erhebung anonymisiert und in aggregierter Form ausgewertet.  
+Ihr Internet-Browser übermittelt automatisch Daten an unseren Server, sobald Sie auf unsere Webseiten zugreifen. Datum und Uhrzeit des Zugriffs, URL (Adresse) der verweisenden Webseite, abgerufene Datei, gesendete Datenmenge, den http-Antwortcode, Browser-Typ und -Version, evtl. vorhandene Browser-Erweiterungen, Betriebssystem und Ihre IP-Adresse (in verkürzter und anonymisierter Form) werden dabei übermittelt. Diese Daten werden getrennt von anderen Daten gespeichert, die Sie im Rahmen der Nutzung unseres Angebotes eingeben und enthalten keine Informationen, die Rückschlüsse auf Einzelpersonen zulassen. Die Zuordnung dieser Daten zu Ihrer Person ist uns nicht möglich. Sie werden ausschließlich zu Analysezwecken verwendet.  
+Sie können der Datenverarbeitung durch AT Internet jederzeit unter folgendem Link widersprechen: http://www.xiti.com/de/optout.aspx  
 Die AT Internet GmbH setzt für diese Analysen Cookies ein. Das sind kleine Textdateien, die auf Ihrem Computer gespeichert werden. So können wir erkennen, wenn Sie unsere Webseiten vom gleichen Computer aus wiederholt besuchen und unsere Angebote ganz auf Sie abstimmen. Wenn Sie Cookies nicht zulassen oder löschen möchten, können Sie dies in den Einstellungen Ihres Browsers. Dies könnte jedoch dazu führen, dass die Funktionen unserer Webseiten nicht mehr vollständig nutzbar sind. Weitere Informationen zum Messverfahren von AT Internet finden Sie auf der Webseite der AT Internet GmbH: http://de.atinternet.com/de/politique-du-respect-de-la-vie-privee/ .
 
-Nutzungsbasierte Online-Werbung:
+Nutzungsbasierte Online-Werbung:  
+Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies)), AudienceScience und The ADEX. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.
 
-Wir arbeiten mit Werbepartnern zusammen, die webseitenübergreifend Nutzungsprofile unter einem Pseudonym anlegen. Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung sind folgende Unternehmen im Auftrag der Telekom zuständig: Google, Yieldr (auch über BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus), Adform und Xplosion (auch über AppNexus und Adnologies)), AudienceScience und The ADEX. Nutzungsbasierte Online-Werbung wird von selbigen Auftragnehmern ausgeliefert.  
-Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:
-
+Möchten Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten, können Sie die Datenerhebung unter den folgenden Links deaktivieren:  
 Google: http://www.google.com/settings/ads/onweb/  
 Yieldr (sowie BidSwitch, Improve Digital, Rubicon, Smart AdServer und AppNexus): http://info.evidon.de/more\_info/12701?ecaid\[12701\]=camp\_id%3A1930  
 Adform: http://site.adform.com/privacy-policy\_de/  
 Xplosion (sowie AppNexus und Adnologies): http://www.xplosion.de/so-funktionierts/opt-out.html  
 AudienceScience: http://www.audiencescience.com/de/privacy  
-The ADEX: http://de.theadex.com/company/consumer-opt-out/  
+The ADEX: http://de.theadex.com/company/consumer-opt-out/
 
 Auf der Webseite www.meine-cookies.org oder www.youronlinechoices.com können Sie weitere Informationen zu Cookies und den einzelnen Anbietern nachlesen. Sie haben dort auch die Möglichkeit, der nutzungsbasierten Online-Werbung durch einzelne oder durch alle Unternehmen zu widersprechen (http://www.youronlinechoices.com/de/praferenzmanagement/).  
 Wir haben uns freiwillig der Selbstregulierung des Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Informationen zu diesem Thema finden Sie hier unter: http://www.t-online.de/nutzungsbasierte-online-werbung/id\_56770518/index
 
-Reichweitenmessung:
-
+Reichweitenmessung:  
 Unsere Webseite nutzt das Skalierbare Zentrale Messverfahren (SZM) der Firma INFOnline GmbH. Dieses Verfahren sammelt statistische Daten über die Nutzung unserer Angebote.  
 Dabei werden anonyme Messwerte erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen entweder ein Cookie mit der Kennung ivwbox.de oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. Ihre IP-Adresse wird nicht gespeichert und nur in anonymisierter Form verarbeitet.  
 Ziel der Reichweitenmessung ist es, die Nutzungsdauer und -häufigkeit sowie die Anzahl der Besucher unserer Webseiten statistisch zu bestimmen. Ihre Identität bleibt dabei immer geschützt.  
