@@ -95,15 +95,19 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Feb 18, 2015 2015 Data Breach Legislation Update &. Best Practices
+Thu, Mar 12, 2015 Roundtable: Employee Data Management (New York)
 
-Join OTA staff for an update on the data breach landscape including updates on draft breach legislation, highlights of the White House Cyber security Summit and an overview of OTA's Data Breach readiness guide recently released. The webinar will provide the fundamentals of developing a data protection and breach response plan.
+An exclusive invitation-only Roundtable event will review the impact of the latest monitoring tools and introduction of wearable tech in the workplace as well as the tools available for transferring HR data across borders including APEC, BCRs and EU Safe Harbor. The session will conclude by sharing best practices for engaging your employees in data privacy management.
+
+Thu, Mar 26, 2015 Cross Border Data Transfer Strategies
+
+One year on from the publication of the APEC-EU referential, this third Webinar in the TRUSTe 2015 Privacy Insight Series will review the latest developments with APEC Cross Border Privacy Rules (CBPR), Binding Corporate Rules (BCR) and the EU Safe Harbor negotiations. Register now to hear from a panel of experts who have either been closely involved in working towards greater interoperability of these different frameworks or have first-hand experience of taking their company through the process.
 
 Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
-Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S
+Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD".
 
 *   OTA Blog
 *   Newsletters
