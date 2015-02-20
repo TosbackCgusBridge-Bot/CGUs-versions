@@ -162,7 +162,7 @@ Back to Top
 
 Legal Statement
 
-Copyright 2014 Williams-Sonoma, Inc. All Rights Reserved.
+Copyright 2015 Williams-Sonoma, Inc. All Rights Reserved.
 
 Williams-Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
