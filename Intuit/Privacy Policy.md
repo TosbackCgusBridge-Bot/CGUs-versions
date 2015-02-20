@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (3)
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (3)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13274490996
+true true L13403239202
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p33.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Wed Feb 18 11:18:24 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p35.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Feb 19 10:22:38 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,26 +45,54 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 Days Only
+Online Only, Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+In Store and Online
+
+Or, Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+Ends February 22. Use Code: FEBBONUS
+
+\*See exclusions and get details print coupon
+
+*   Big Bonus Sale shop the sale view store ad shop women's shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie shop baby shop bed and bath shop window shop furniture shop kitchen shop home decor$15 Off $15 Bonus Cash When You Spend $50 or More in Store
     
-    Online only, February 17 through 18. Select styles. Code: ALLINALL
+    In store only, Februrary 19 through 22, 2015. Redeemable February 23 through March 7, 2015. Some restrictions and exclusions apply. See store associate for details.
     
-    \*See exclusions and details50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades shop furniture and mattresses30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcare
-*   2 Days Only
-    
-    Online only, February 17 through 18. Select styles. Code: ALLINALL
-    
-    \*See exclusions and detailsExtra 20% Off\* select original, regular and sale items shop men's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop custom blinds and shades shop clearance
+    Night and Day Doorbusters view doorbusters
+*   Home Sale 30-50% Off shop dining and entertaining shop the home sale shop window shop bed and bath shop luggage shop home decor shop kitchen and dining
 
-Ambrielle Week! 50% Off Select Bras When You Buy 2 or More shop now 30-40% Off Select Shoes for Her shop now 40-60% Off Select Fashion When You Buy 2 or More shop now 30-50% Off Select Denim for Her shop now $21.99 Guys' Arizona Denim
+The Oscars® Live February 22nd, 7PM EST, 4PM PST on ABC JCPenney is a Proud Sponsor of the Oscars®
 
-Originally $36.
+Follow the action on twitter@jcpenney
 
-shop now 15-25% Off Select Baby Furniture shop now 40% Off Curtains and Drapes
+Oscars® Play to Give
 
-Save on select styles when you buy 2 or more.
+Join JCPenney in a supporting role on Oscars night. Every tap gives back to one of three great charities.
 
-shop now Red Zone Selections 50-80% Off Clearance shop now JCP Rewards
+get details Your Cinderella and Disney Collection Destination
+
+With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
+
+shop Disney shop CinderellaCinderella in theatres March 13.
+
+JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
+
+30-60% Off Fashion Jewelry and Fashion Silver shop now 30% Off Select Women's Swimwear shop now Final Days! Baby Sale 30-50% Off Select Carter's shop now 40-50% Off Window
+
+Select styles.
+
+shop window shop curtains and drapes shop curtains and drapes shop blinds and shades shop curtain rods and hardware JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -78,11 +106,7 @@ shop now People StyleWatch Must Haves
 
 Sponsored content.
 
-shop now Oscars® Play to Give
-
-Join JCPenney in a supporting role on Oscars night. Every tap gives back to one of three great charities.
-
-get details
+shop now Write a Review for Your Chance to Win $500 get details
 
 get connected
 
