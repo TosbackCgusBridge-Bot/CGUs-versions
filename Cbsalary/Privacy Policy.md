@@ -41,7 +41,7 @@ CareerBuilder
 *   Privacy
 *   Fraud
 *   Terms
-*   Text Only (508)
+*   Accessibility
 *   Site Map
 *   Connect via Social Media
 
