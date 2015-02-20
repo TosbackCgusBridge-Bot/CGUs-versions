@@ -33,24 +33,9 @@ Skip to main content
     *   CJ Affiliate Solutions
         *   The CJ Approach
         *   Affiliate Solutions
-            *   Network Access
-            *   Relationship Management
-            *   Program Management
         *   CJ Difference
-            *   Insights
-            *   Reach
-            *   Global
-            *   Expertise
-            *   Quality
-            *   CJU
         *   Personalization
         *   More Ways to Grow
-            *   Lead Generation
-            *   Pay Per Call
-            *   Personalized Media
-            *   Data Feeds
-            *   App Engagement
-            *   Site to Store
 *   Our Approach
     *   Data &. Profiles
     *   Creative Optimization
@@ -195,6 +180,6 @@ Additional Contact Information
 
 The power of personal.
 
-© 2015  Conversant, Inc. All rights reserved.
+© 2015  Conversant, LLC. All rights reserved.
 
 Let's Connect
