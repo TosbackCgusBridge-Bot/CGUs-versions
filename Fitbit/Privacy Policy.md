@@ -17,6 +17,7 @@ Fitbit
     *   Why Fitbit
 *   Fun
     
+    *   Celebrity Challanges
     *   Blog
     *   Buzz
 *   Help
