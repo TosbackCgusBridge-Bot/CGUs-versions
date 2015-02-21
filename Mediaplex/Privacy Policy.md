@@ -5,26 +5,10 @@ Skip to main content
 *   Solutions
     *   Enterprise Solutions
         *   Brand Profiles
-            *   Online/Offline
-            *   Exclusive Data
-            *   Complete Customer View
-            *   Universal Target Access
         *   Personalized Creative
-            *   Creative Decisioning
-            *   "Best Next" Messaging
-            *   Creative Services
         *   Tailored Delivery
-            *   User Identification
-            *   Incremental Optimization
-            *   Across All Devices
-            *   Across All Channels
         *   Business Intelligence
-            *   ROI Measurement
-            *   Audience Insights
         *   Tools &. Tech
-            *   Tag Management
-            *   Data Management
-            *   Ad Serving
     *   Media Solutions
         *   Individualized Approach
         *   Media Solutions
