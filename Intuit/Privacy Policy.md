@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (3)
+*   saved items: (1)
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (3)
+*   saved items: (1)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13403239202
+true true L13406937763
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p35.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Thu Feb 19 10:22:38 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p11.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Fri Feb 20 11:14:47 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,9 +67,13 @@ Ends February 22. Use Code: FEBBONUS
 
 *   Big Bonus Sale shop the sale view store ad shop women's shop women's shop men's shop kids' shop shoes shop jewelry shop lingerie shop baby shop bed and bath shop window shop furniture shop kitchen shop home decor$15 Off $15 Bonus Cash When You Spend $50 or More in Store
     
-    In store only, Februrary 19 through 22, 2015. Redeemable February 23 through March 7, 2015. Some restrictions and exclusions apply. See store associate for details.
+    In store only, Februrary 20 through 22, 2015. Redeemable February 23 through March 7, 2015. Some restrictions and exclusions apply. See store associate for details.
     
-    Night and Day Doorbusters view doorbusters
+    Hundreds of Night and Day Doorbusters
+    
+    Use your coupon and save even more! Friday, 3PM CST through Saturday, 1PM CST.
+    
+    shop doorbusters
 *   Home Sale 30-50% Off shop dining and entertaining shop the home sale shop window shop bed and bath shop luggage shop home decor shop kitchen and dining
 
 The Oscars® Live February 22nd, 7PM EST, 4PM PST on ABC JCPenney is a Proud Sponsor of the Oscars®
