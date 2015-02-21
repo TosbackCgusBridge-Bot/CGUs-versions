@@ -95,6 +95,10 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
+Wed, Feb 25, 2015 Realities of Adblock Plus. A review of the benefits and trade offs to consumers &. advertisers
+
+**OTA Members &. Invited Guests**
+
 Thu, Mar 12, 2015 Roundtable: Employee Data Management (New York)
 
 An exclusive invitation-only Roundtable event will review the impact of the latest monitoring tools and introduction of wearable tech in the workplace as well as the tools available for transferring HR data across borders including APEC, BCRs and EU Safe Harbor. The session will conclude by sharing best practices for engaging your employees in data privacy management.
@@ -107,10 +111,12 @@ Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
-Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD".
-
 *   OTA Blog
 *   Newsletters
+
+Mon, Feb 23, 2015 100 Cities 100 Day - Consumer Online Safety
+
+The Identity Theft Council would like you to join  us in supporting 100 Cities in 100 Days – a unique campaign to educate and engage consumers and communities about issues like identity theft, cyber safety, and privacy.  Nearly 40 cities and communities have already signed up, and participating communities can host a seminar, webinar, or school presentation, distribute education materials, share our message on social media,
 
 Tue, Feb 17, 2015 White House Cyber &. Consumer Protection Summit
 
@@ -123,11 +129,6 @@ OTA’s 2015 Data Privacy &. Protection Day Town Halls attracted over 500 attend
 Thu, Jan 29, 2015 Why Data Privacy Day is Important for the State of Web Security
 
 As technology continues to evolve, web security threats are on the rise with an estimated 160,000 samples of malware  detected around the world each day. Unfortunately, 70% of these attacks are targeted at small businesses and other particular industries (e.g. retail, healthcare and hospitality).
-
-Tue, Jan 6, 2015 National Series of Town Halls and Workshops to Promote Data Privacy &. Protection Day Announced
-
-**National Series of Town Halls and Workshops to Promote Data Privacy &. Protection Day Announced**  
-Federal Trade Commissioners to keynote with participation from the FBI, Secret Service and thought leaders in consumer protection, privacy and cybersecurity
 
 Resources
 
