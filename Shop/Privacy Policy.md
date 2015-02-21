@@ -212,7 +212,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Professional Laptop &. Desktop Deals
         3.  Lenovo Gift Guide
         4.  ThinkPad &. ThinkCentre QuickShips
-        5.  Valentine's Day Accessories Deals
+        5.  Accessories Hot Deals
         6.  Bing Page Deals
         7.  Deals for Students and Educators
         8.  Outlet
@@ -456,6 +456,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Where to Buy
     *   Email Signup
     *   Support
+    *   Statement on Superfish
     *   Training
     *   Blogs
     *   Forums
