@@ -46,7 +46,7 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 
 *     
       
-    355 Categories
+    356 Categories
 
 PRIVACY POLICY
 
