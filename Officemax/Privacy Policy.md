@@ -10,7 +10,7 @@ SEG1 hp
 *   Track Your Order
 *   Login or Register
 
-Live Chat 24/7 Weekly Ad Office Depot Deals
+Weekly Ad Office Depot Deals
 
 Search Suggestions
 
@@ -131,7 +131,7 @@ Investor Relations Media Relations Corporate Citizenship Need Help?
 
 *   Customer Service
 
-Chat not available Talk with a Representative  
+Talk with a Representative  
 Chat Now Formed by the merger of Office Depot and OfficeMax, Office Depot, Inc. is a leading global provider of products, services, and solutions for every workplace  whether your workplace is an office, home, school, or car.  
   
 Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, facilities products, furniture, and school essentials. The company also provides a variety of services including copy and print, technical services, mailing and shipping.  
@@ -226,5 +226,11 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
 *   Office Depot Canada
 
 **Copyright © 2015 by Office Depot, Inc. All rights reserved.**  Prices shown are in U.S. Dollars. Please login for your pricing.  Prices are subject to change. All use of the site is subject to the Terms of Use. Prices and offers on www.officedepot.com may not apply to purchases made on business.officedepot.com. See Terms of Use details.
+
+Session Timeout Warning 900 false Continue
+
+Your session will time out in 120 seconds.
+
+You will be automatically logged out if you do not click on the button below.
 
 http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/
