@@ -319,6 +319,7 @@ If you have questions or comments about this Privacy Policy, please contact us o
 
 For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issues 2029 Stierlin Court Mountain View, CA 94043 USA For Members outside the United States: LinkedIn Ireland Attn: Privacy Policy Issues Wilton Plaza Wilton Place, Dublin 2 Ireland Back to Top
 
+*   Sign up
 *   Help Center
 *   About
     *   Press
@@ -360,12 +361,15 @@ For Members in the United States: LinkedIn Corporation Attn: Privacy Policy Issu
 *   LinkedIn Updates
 *   LinkedIn Influencers
 *   LinkedIn Jobs
-*   Jobs Directory
-*   Pulse Directory
-*   Company Directory
-*   Groups Directory
-*   Universities Directory
-*   Title Directory
+
+*   Directories
+*   Members
+*   Jobs
+*   Pulse
+*   Companies
+*   Groups
+*   Universities
+*   Titles
 
 LinkedIn Corporation _© 2015_
 
