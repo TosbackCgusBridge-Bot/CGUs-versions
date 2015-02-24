@@ -1,6 +1,6 @@
   
 
-Last updated September 12, 2014
+Last updated February 20, 2015
 
 Protecting Your Privacy | Information We Collect And How We Collect It | Automatically Collected Information (including Cookies and Geolocation) | Information Collected by Third Parties on Our Services | Minors | Security | How Your Information Will Be Used | With Whom Your Information Will be Shared | How You Can Opt Out of Marketing Communications and Sharing of Your Information With Third Parties For Those Parties' Direct Marketing Purposes | Links to Other Sites | Contacting Us  
 Protecting Your Privacy  
@@ -36,7 +36,7 @@ The personally identifiable information we collect about you through these vario
 > \- Use of products and services such as self-service devices, flight status notification and online check-in;  
 > \- Information provided via survey, focus group or other marketing research efforts;  
 > \- Information provided to customer-service representatives to research and resolve issues or questions. and  
-> \- Corporate-contract, employer and/or other corporate affiliation (i.e. employer name, title, work address and contact information).
+> \- Corporate-contract, employer and/or other corporate affiliation (i.e. employer name, title, work address and contact information), including Business Extra account information (i.e. tax ID, business type, number of employees, number of business travelers, and travel manager information).
 
 Return to Top
 
@@ -106,11 +106,11 @@ How Your Information Will Be Used
 
 Our Services
 
-We use personally identifiable information to complete transactions and fulfill requests for our products and services. For example, we require you to provide personally identifiable information when making a reservation to purchase airline tickets or related products and services such as renting cars or booking hotel rooms through an American Airlines Reservations Agent, travel agent, the aa.com® website or other travel-related website, or enrolling in the AAdvantage program.
+We use personally identifiable information to complete transactions and fulfill requests for our products and services. For example, we require you to provide personally identifiable information when making a reservation to purchase airline tickets or related products and services such as renting cars or booking hotel rooms through an American Airlines Reservations Agent, travel agent, the aa.com® website or other travel-related website, or enrolling in the AAdvantage and Business Extra programs.
 
 Administrative, Marketing, Analytical Purposes
 
-In addition to processing, confirming and fulfilling the travel or other services or products you request, American may use personally identifiable information for administrative, analytical, and marketing purposes such as information systems management, accounting, billing and audits, credit card processing and verification, customer-relations correspondence, and/or operation of the AAdvantage program. American also uses personally identifiable information to identify, develop and market products and services that we believe you will value in accordance with applicable laws.
+In addition to processing, confirming and fulfilling the travel or other services or products you request, American may use personally identifiable information for administrative, analytical, and marketing purposes such as information systems management, accounting, billing and audits, credit card processing and verification, customer-relations correspondence, and/or operation of the AAdvantage and Business Extra programs. American also uses personally identifiable information to identify, develop and market products and services that we believe you will value in accordance with applicable laws.
 
 Legal Requirements
 
@@ -124,7 +124,7 @@ American does not sell or share your personally identifiable information with th
 
 We may also disclose personally identifiable information to third parties, such as employers, who have arranged for discounts, purchased travel or other services on your behalf.
 
-In addition, from time to time, we may share information with affiliated American companies such as Envoy Air Inc. and American Airlines Vacations, and with carefully-selected third party companies with which we have a business relationship, including AAdvantage participants. Where we are required by applicable law, we will seek your consent prior to sharing your personally identifiable information with such third parties for marketing purposes. Also, as described below, you can opt out of having your information shared with third parties for those parties' direct marketing purposes by emailing us at Privacy@aa.com.
+In addition, from time to time, we may share information with affiliated American companies such as Envoy Air Inc. and American Airlines Vacations, and with carefully-selected third party companies with which we have a business relationship, including AAdvantage and Business Extra participants. These companies may send you offers based on the information you have provided us. Where we are required by applicable law, we will seek your consent prior to sharing your personally identifiable information with such third parties for marketing purposes. Also, as described below, you can opt out of having your information shared with third parties for those parties' direct marketing purposes by emailing us at Privacy@aa.com.
 
 In the event we undergo a business transition involving another company, such as a merger, corporate reorganization, acquisition, the sale of all or a portion of our assets, or in the event of bankruptcy, information that we have collected from or about you or your devices may be disclosed to such other entity as part of the due diligence or business integration process and will be transferred to such entity as one of the transferred assets.
 
@@ -144,11 +144,11 @@ American's websites do not honor web browsers' Do-Not-Track signals. You do have
 
 As noted above, some third parties collect information about users of our Services in order to provide interest-based advertising elsewhere. Some of these companies provide online users with the ability to opt out of receiving interest-based advertising. Please visit the website of the Digital Advertising Alliance to learn more about interest-based advertising and how to opt out of receiving such advertising from participating companies.
 
-If you are an AAdvantage member and you want to opt out of receiving marketing email, click here to log in to the AAdvantage website and update your preferences. You may also contact AAdvantage Customer Service to submit your request. Please note that you will continue to receive AAdvantage program updates and email products for which you have subscribed.
+If you are an AAdvantage member and you want to opt out of receiving marketing email, log in to the AAdvantage website and update your preferences. You may also contact AAdvantage Customer Service to submit your request. Please note that you will continue to receive AAdvantage program updates and email products for which you have subscribed. If you are a Business Extra member and you want to opt out of receiving marketing email, log in to the Business Extra website and update your preferences.
 
-If you are not a member of our AAdvantage program and you want to opt out of receiving marketing email, you may join AAdvantage and register your preferences, or send an email with the word UNSUBSCRIBE in the subject to americanairlines@na.email.aa.com from the address you wish to unsubscribe. In addition, all marketing email from American will have a valid opt-out link in the body of the message. Please be aware that unsubscribing by email will unsubscribe all users at this address, even if they are registered AAdvantage members with registered preferences.
+If you are not a member of our AAdvantage program and you want to opt out of receiving marketing email, you may join AAdvantage and register your preferences, or send an email with the word UNSUBSCRIBE in the subject to Privacy@aa.com from the address you wish to unsubscribe. In addition, all marketing email from American will have a valid opt-out link in the body of the message. Please be aware that unsubscribing by email will unsubscribe all users at this address, even if they are registered AAdvantage members and Business Extra members with registered preferences.
 
-If you want to opt out of receiving forms of communication from American other than marketing email, or if you want American to stop sharing your personally identifiable information with third parties for those parties' direct marketing purposes, please email privacy@aa.com with your request. Regardless of your opt-out preferences, we reserve the right to send you certain communications and share your information with third parties for administrative and analytical purposes.
+If you want to opt out of receiving forms of communication from American other than marketing email, or if you want American to stop sharing your personally identifiable information with third parties for those parties' direct marketing purposes, please email Privacy@aa.com with your request. Regardless of your opt-out preferences, we reserve the right to send you certain communications and share your information with third parties for administrative and analytical purposes.
 
 Other companies or programs in the American Family may require different steps to change your preferences for participation. Please consult the Privacy Policies of the relevant companies or programs for further information.
 
