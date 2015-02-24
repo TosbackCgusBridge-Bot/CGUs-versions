@@ -7,6 +7,8 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Easter Favorites
+    *   St. Patrick's Day
+    *   Snack Madness
     *   Gift Boxes
     *   Business Gifts
         
@@ -17,7 +19,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
-    *   St. Patrick's Day
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -54,6 +55,8 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Easter Favorites
+    *   St. Patrick's Day
+    *   Snack Madness
     *   Gift Boxes
     *   Business Gifts
         
@@ -64,7 +67,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
-    *   St. Patrick's Day
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -172,9 +174,9 @@ Security
 
 About Us
 
-*   Store Locator
-*   Employment Opportunities
 *   The Hickory Farms Story
+*   Employment Opportunities
+*   Store Locator
 
 Need Help?
 
