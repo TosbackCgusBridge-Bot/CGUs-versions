@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (6)
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  
+*   Hello  Jelixa
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (6)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true L13411426782
+true true 10.60.248.10 L13412522268
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sun Feb 22 10:48:24 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Mon Feb 23 11:18:53 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,51 +45,26 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-The Oscars® Live February 22nd, 7PM EST, 4PM PST on ABC JCPenney is a Proud Sponsor of the Oscars®
+*   2 Days Only
+    
+    Online only, February 23 through 24. Select styles. Code: 2SAVE
+    
+    \*See exclusions and details50% Off\* shop luggage shop bedding and bath40% Off\* shop window shop home decor shop furniture and mattresses30% Off\* shop kitchen and dining shop vacuums and floorcare shop storage and organization
+*   2 Days Only
+    
+    Online only, February 23 through 24. Select styles. Code: 2SAVE
+    
+    \*See exclusions and details shop women'sExtra 20% Off\* select original, regular and sale items shop men's shop women's shop kids' shop shoes shop accessories shop fashion jewelry shop baby furniture shop custom blinds and shades shop clearance
 
-Follow the action on twitter@jcpenney
+Ambrielle Week! Now Through March 2. 50% Off Select Ambrielle Sleepwear shop now 30-50% Off Select Stylus For Her shop now 40% Off Select Kids' Easter Dress Clothes shop now Men's Levi's® 514™ Straight Fit Jeans
 
-Oscars® Play to Give
+Regularly $58.
 
-Join JCPenney in a supporting role on Oscars night. Every tap gives back to one of three great charities.
+shop now20% Off Select Men's Levi's™ With Code: 2SAVE 30-40% Off Select Liz Claiborne Shoes shop now 40-60% Off Select Baby Fashion Jewelry When You Buy 2 or More shop now 40% Off Curtains and Drapes
 
-get details 30-40% Off Worthington
+Select styles. With Code: 2SAVE
 
-Select styles.
-
-Fresh styles inspired to fit you. Worthigton™, only at JCPenney.
-
-shop now 30-50% Off Comforters and Bedding Sets
-
-Select styles.
-
-Liz Claiborne® Home, only at JCPenney.
-
-shop now 30-60% Off Fashion Jewelry
-
-Select styles.
-
-shop now 50% Off Ambrielle When You Buy 2 or More
-
-Select styles.
-
-Ambrielle®, only at JCPenney.
-
-shop now 50% Off JF J. Ferrar Suit Separates, Sport Coats and Dress Pants
-
-Select styles.
-
-JF J. Ferrar™, only at JCPenney.
-
-shop now Your Cinderella and Disney Collection Destination
-
-With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
-
-shop Disney shop CinderellaCinderella in theatres March 13.
-
-JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
-
-watch Disney's Cinderella movie trailer JCP Rewards
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
