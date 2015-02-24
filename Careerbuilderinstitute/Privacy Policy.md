@@ -16,13 +16,11 @@ Employers: Post Jobs | Search Resumes Sign In Help Security
     *   Salary Calculator
     *   hireINSIDER
 
-Find Jobs Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Careers by Category - Select a Job Category -AccountingAdmin - ClericalAutomotiveBankingBiotechBusiness DevelopmentBusiness OpportunityConstructionConsultantCustomer ServiceDesignDistribution - ShippingEducationEngineeringEntry LevelExecutiveFacilitiesFinanceFranchiseGeneral BusinessGeneral LaborGovernmentGovernment - FederalGroceryHealth CareHospitality - HotelHuman ResourcesInformation TechnologyInstallation - Maint - RepairInsuranceInventoryLegalLegal AdminManagementManufacturingMarketingMedia - Journalism - NewspaperNonprofit - Social ServicesNurseOtherPharmaceuticalProfessional ServicesPurchasing - ProcurementQA - Quality ControlReal EstateResearchRestaurant - Food ServiceRetailSalesScienceSkilled Labor - TradesStrategy - PlanningSupply ChainTelecommunicationsTrainingTransportationVeterinary ServicesWarehouse Advanced Search Join the CareerBuilder Network
+Find Jobs Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Careers by Category - Select a Job Category -AccountingAdmin - ClericalAutomotiveBankingBiotechBusiness DevelopmentBusiness OpportunityConstructionConsultantCustomer ServiceDesignDistribution - ShippingEducationEngineeringEntry LevelExecutiveFacilitiesFinanceFranchiseGeneral BusinessGeneral LaborGovernmentGovernment - FederalGroceryHealth CareHospitality - HotelHuman ResourcesInformation TechnologyInstallation - Maint - RepairInsuranceInventoryLegalLegal AdminManagementManufacturingMarketingMedia - Journalism - NewspaperNonprofit - Social ServicesNurseOtherPharmaceuticalProfessional ServicesPurchasing - ProcurementQA - Quality ControlReal EstateResearchRestaurant - Food ServiceRetailSalesScienceSkilled Labor - TradesStrategy - PlanningSupply ChainTelecommunicationsTrainingTransportationVeterinary ServicesWarehouse Advanced Search ADD YOUR RESUME TODAY
 
-*   Apply to jobs faster, even from your mobile phone
-*   Post a resume to be found by registered employers
-*   Create a Job Alert and more for free
+*   Employers can find you without even applying to a job
 
-Create a CareerBuilder Account
+Add a Resume Now
 
 Menu Search Sign In Resumes Saved Jobs Saved Searches Send Feedback Jobs
 
