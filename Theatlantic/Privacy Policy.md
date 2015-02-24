@@ -4,7 +4,7 @@ Privacy Policy
 
 **Privacy Policy**
 
-_Please note that our Sites and Mobile Content are under constant development. New services are added frequently and this agreement may therefore be modified and updated on an ongoing basis. It is important to check back to this page regularly._  
+_Please note that our Sites and Mobile Content are under constant development. New services are added frequently and this agreement may therefore be modified and updated on an ongoing basis. It is important to check back to this page regularly._
 
 At the Atlantic Monthly Group, Inc. ("The Atlantic"), we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy.  Our privacy policy below describes the information we collect, how we use it, and the choices you have regarding collection and use of your personal information.  This policy applies to all websites and online services operated by _The Atlantic_, including theatlantic.com, citylab.com and thewire.com, as well as to the content and services we provide to mobile users, through apps available on mobile devices such as Apple's iPhone and iPad (collectively, our "Sites" or "Sites and Mobile Content").  (App purchases are typically also subject to the terms and conditions of the entity that operates the app store, which are accessible on that entity's website.)  
   
@@ -14,7 +14,7 @@ Our Sites may automatically recognize your domain name, IP address, browser vers
 
 Some features of our Sites do offer you the option of registering and/or providing information such as your name, e-mail address, postal address, phone number, organization, location, or any other identifying information.  As described in greater detail below, such information will only be used to provide you with products or services you have requested or additional information about the Sites or their affiliates.  (You may also provide us with such information in the course of subscribing to _The Atlantic_ magazine or other offerings from The Atlantic - details of how we use such information are also provided below.)
 
-Information gathered through the use of cookies is not used by our Sites to track any personally identifiable details unless you explicitly register and login to a Site.  When you login we use local storage or cookies to track your name, your subscription entitlements and newsletter preferences.  All data is cleared when you sign out.      
+Information gathered through the use of cookies is not used by our Sites to track any personally identifiable details unless you explicitly register and login to a Site.  When you login we use local storage or cookies to track your name, your subscription entitlements and newsletter preferences.  All data is cleared when you sign out.    
 
 **How We Use What We Learn**  
   
@@ -71,7 +71,7 @@ As indicated above, if you do not want your personally identifiable information 
 
 **Email:**
 
-theatlantic-feedback(at)theatlantic(dot)com
+techtrouble(at)theatlantic(dot)com
 
 **Print Subscriptions:**
 
