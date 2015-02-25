@@ -1,4 +1,4 @@
-Skip to main content **eLearners.com** Sign In  
+Skip to main content **eLearners.com** Military Students | International Students | Education Resources      
 
 Campus Main Menu
 
@@ -15,7 +15,7 @@ Campus Main Menu
     *   Technology
     *   Vocational Training
 *   Online Certificates
-*   Transfer Credits
+*   Transfer Students
 *   Online Colleges
 *   Match Me to a College
 *   Popular Degrees
