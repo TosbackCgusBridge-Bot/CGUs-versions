@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (6)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  Jelixa
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (6)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true 10.60.248.10 L13412522268
+true true C13284925705
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Mon Feb 23 11:18:53 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Tue Feb 24 11:03:45 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
