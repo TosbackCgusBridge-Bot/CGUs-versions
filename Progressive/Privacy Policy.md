@@ -38,8 +38,6 @@ Your Policy*   About
     *   @Progressive
 Privacy &. Security
 
-*   E-mail Fraud
-*   Protect Your Identity
 *   Web Site Security
 *   Report Fraud
 
@@ -105,10 +103,6 @@ Please select from the following list to review the Privacy Policy for your stat
 Back
 
 Back
-
-Trying to opt-out?
-
-We don't sell our customer lists or share your information with other companies to offer their products to you. You don't need to "opt-out."
 
 Contact Information
 
