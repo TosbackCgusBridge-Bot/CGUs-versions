@@ -1,4 +1,4 @@
-**reddit privacy policy** _effective Jan 29, 2015_
+**reddit privacy policy** _effective Mar 10, 2015_
 
 > your privacy is genuinely important to us.  
 > here's how we manage and use your data.
@@ -127,52 +127,56 @@ Children Under 13
 
 37 Although we welcome users from all walks of life, reddit is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
 
+Involuntary Pornography
+
+38 reddit is committed to your privacy. If you believe that someone has submitted, without your permission, to reddit a link to a photograph, video, or digital image of you in a state of nudity or engaged in any act of sexual conduct, please contact us (contact@reddit.com), and we will expedite its removal as quickly as possible. reddit prohibits the posting of such content without consent.
+
 reddit mobile
 
-38 reddit’s mobile apps provide a unique and convenient way to experience reddit. This portion of our privacy policy describes the information our apps collect, how we use it, and how it all fits in with the reddit you’re already familiar with.
+39 reddit’s mobile apps provide a unique and convenient way to experience reddit. This portion of our privacy policy describes the information our apps collect, how we use it, and how it all fits in with the reddit you’re already familiar with.
 
 User information we collect
 
-39 Our Apps collect the same user information as described in the What Information We Collect section of this privacy policy.
+40 Our Apps collect the same user information as described in the What Information We Collect section of this privacy policy.
 
 Activity and Device Information
 
-40 Our apps collect certain information about your device, including its IP address, device type, and its current operating system. This information is used for analytics and to improve the reddit service. for example, we use device and OS information to track and fix bugs. It is also used to provide advertising as described below. All stored IP addresses, except the account creation IP address, are deleted after 90 days. We only associate this information with your account when you are signed in.
+41 Our apps collect certain information about your device, including its IP address, device type, and its current operating system. This information is used for analytics and to improve the reddit service. for example, we use device and OS information to track and fix bugs. It is also used to provide advertising as described below. All stored IP addresses, except the account creation IP address, are deleted after 90 days. We only associate this information with your account when you are signed in.
 
 App Advertising
 
-41 To understand who clicks our mobile ads and to avoid showing you the same ad over and over again, we share your device's unique advertising identifier, its IP address, and a list of subreddits used to generate a particular page for you (which may include your subscriptions) with our ad partners, who decide which ads to display for you.
+42 To understand who clicks our mobile ads and to avoid showing you the same ad over and over again, we share your device's unique advertising identifier, its IP address, and a list of subreddits used to generate a particular page for you (which may include your subscriptions) with our ad partners, who decide which ads to display for you.
 
-42 We do not associate your device’s unique advertising identifier with your user account, even if you are signed in on an app.
+43 We do not associate your device’s unique advertising identifier with your user account, even if you are signed in on an app.
 
 Opting out
 
-43 While we have very high standards for the types of ads we show, we also want to make it easy for you to opt out of sending your device's unique advertising identifier to us. To opt out on Android and iOS, please follow these instructions.
+44 While we have very high standards for the types of ads we show, we also want to make it easy for you to opt out of sending your device's unique advertising identifier to us. To opt out on Android and iOS, please follow these instructions.
 
 How reddit uses and discloses app information
 
-44 reddit only uses and discloses your information for the same limited set of purposes and circumstances that we describe in the How We Use or Disclose Collected Information section of this privacy policy.
+45 reddit only uses and discloses your information for the same limited set of purposes and circumstances that we describe in the How We Use or Disclose Collected Information section of this privacy policy.
 
 Your app options Notifications
 
-45 If you enable app notifications, you can choose to receive timely updates about things like new private messages, interactions with your comments, and more.
+46 If you enable app notifications, you can choose to receive timely updates about things like new private messages, interactions with your comments, and more.
 
 Deleting an app
 
-46 If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device. If you have backed up your device’s apps, reddit app information may continue to exist where you have backed it up. Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.
+47 If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device. If you have backed up your device’s apps, reddit app information may continue to exist where you have backed it up. Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.
 
 Social media
 
-47 A reddit app may also allow you to post to social media, including Facebook or Twitter, but reddit will not connect to the servers of those services, share information with those services, or post on your behalf. We want to make it easier for you to share your favorite reddit content elsewhere, but we want you to control when and how that occurs.
+48 A reddit app may also allow you to post to social media, including Facebook or Twitter, but reddit will not connect to the servers of those services, share information with those services, or post on your behalf. We want to make it easier for you to share your favorite reddit content elsewhere, but we want you to control when and how that occurs.
 
 This privacy policy and our apps
 
-48 Please keep in mind that the mobile portion of this privacy policy only applies to the apps reddit owns and controls, which includes apps like reddit AMA and Alien Blue.
+49 Please keep in mind that the mobile portion of this privacy policy only applies to the apps reddit owns and controls, which includes apps like reddit AMA and Alien Blue.
 
 Changes to This Policy
 
-49 We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alter your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
+50 We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alter your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
 
 Contact
 
-50 reddit welcomes questions, concerns, and feedback about this policy. Please feel free to contact us.
+51 reddit welcomes questions, concerns, and feedback about this policy. Please feel free to contact us.
