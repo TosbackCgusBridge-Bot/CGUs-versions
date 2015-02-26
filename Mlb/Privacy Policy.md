@@ -17,9 +17,9 @@ Search
 *   Stats
 *   Schedule
 *   Players
-
+*   Teams
 *   Fantasy
-
+*   MLB.TV
 *   Shop
 *   Mobile
 *   Tickets
