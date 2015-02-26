@@ -1,5 +1,5 @@
 COMCAST SOFTWARE LICENSE AGREEMENT  
-Effective Date: January 03, 2013
+Effective Date: February 25, 2015
 
 IMPORTANT: please read this document (the **"Agreement"**) carefully. By downloading, installing, or using any Xfinity- or Comcast-branded software, including Comcast-branded mobile applications, like the Xfinity TV app (**"Software"**), you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms. If you do not understand or agree to the terms and conditions of this Agreement, you: (1) must not download, install, or use the Software. and (2) if the Software is already installed, you must uninstall the Software.
 
@@ -48,11 +48,13 @@ If you use any of the voice control features of the Software, like the voice con
 Some of the Software may contain open source software, as set forth here:  
 http://xfinity.comcast.net/terms/opensource/
 
+Open source software contained within the Software is subject to additional terms and conditions. To the extent there is any conflict between the terms of this Agreement and the terms of the open source software license, the terms of the open source software license will apply as to the open source software.
+
 9\. Support
 
 If you have questions regarding your use of the Software or anything else contained in the Agreement, please contact Comcast at 1-877-599-1845.
 
-10\. Terminiation
+10\. Termination
 
 This Agreement is effective starting on your first download, installation, or use of any Software and remains in effect until terminated. You may terminate this Agreement at any time by destroying or returning to Comcast all copies of the Software and associated documentation in your possession or under your control. This Agreement will terminate: (a) upon the later of termination of your Comcast Agreement for Residential Services or your Web Services Terms of Service. or (b) if Comcast finds that you have violated any of the terms of this Agreement. Upon termination, you agree to destroy or return to Comcast all copies of the Software and documentation and, upon Comcast's request, to certify in writing that all known copies, including backup copies, have been destroyed. No waiver of any breach of any provision of this Agreement shall constitute a waiver of any prior, concurrent of subsequent breach of the same or any other provisions hereof, and no waiver shall be effective unless it is made in writing and is signed by an authorized representative of the waiving party. All provisions relating to proprietary rights shall survive the termination of this Agreement.
 
@@ -60,4 +62,4 @@ This Agreement is effective starting on your first download, installation, or us
 
 If you are an Xfinity customer, you acknowledge and agree that the sections on warranty, limitation of liability, indemnification, binding arbitration, and general legal terms from the Comcast Agreement for Residential Services are incorporated herein by reference and apply to your download, installation, and use of the Software. If you are not an Xfinity customer, you acknowledge and agree that the sections on warranty, limitation of liability, indemnification, binding arbitration, and general legal terms from the Web Services Terms of Service are incorporated herein by reference and apply to your download, installation, and use of the Software.
 
-Revised and Effective: January 03, 2013
+Revised and Effective: February 25, 2015
