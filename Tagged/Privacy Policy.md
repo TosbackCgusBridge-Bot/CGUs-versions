@@ -348,7 +348,7 @@ Users with questions about this Terms of Service and any of the above statements
 
 PRIVACY POLICY
 
-Updated as of February 21, 2014
+Updated as of February 25, 2015
 
 How Tagged Works
 
@@ -378,7 +378,9 @@ Tagged’s Use of Your Information
 
 14 Unless you configure your account settings to remain private, all registered Members will be able to view any personal information that you disclose in your public profile, including without limitation your photos, videos, and friend list pages, which may include personal information (including responses to survey questions). For your privacy and safety, please do not post direct contact information in your profile, such as your email address, URL, instant messenger ID, phone number, full name, or mailing address. 15 We also caution you not to share sensitive information (such as social security numbers, credit card numbers, and driver's license numbers) with other Members whom you do not know well, or place such information in your profile. Be aware that when you publish content or information on the Site using the "everyone" setting, you are allowing everyone, including non-Members and people off Tagged, to access that information and to associate it with you.
 
-16 We use your profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for you and other Members, and to enable other Members to find your profile. 17 We also use your email address to communicate with you about the Site and its features. From time to time, we may share your email address \[and/or other personal information\] with third parties for marketing purposes. 18 You can opt out of having your email address shared with third parties for marketing purposes by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at http://help.tagged.com. In addition, we may share your \[email address with third parties to target advertising and to improve your user experience on the Site\] . We also may use the email addresses that are in your address books, or that you otherwise provide, to invite your friends to join Tagged, as detailed in the Invitations section below.
+Our Browse feature allows you to search for members based on the criteria that you select. When you search for members using our Browse feature, members may be able to see that you are using the Browse feature or searching for people like them and may receive notifications of your search.
+
+16 We use your profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for you and other Members, and to enable other Members to find your profile. 17 We also use your email address to communicate with you about the Site and its features. From time to time, we may share your email address \[and/or other personal information\] with third parties for marketing purposes. 18 You can opt out of having your email address shared with third parties for marketing purposes by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at http://help.tagged.com. In addition, we may share your email address with third parties to target advertising and to improve your user experience on the Site. We also may use the email addresses that are in your address books, or that you otherwise provide, to invite your friends to join Tagged, as detailed in the Invitations section below.
 
 Information That You Share When You Use Tagged
 
@@ -466,7 +468,7 @@ Contacting Tagged
 
 **YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-Effective Date February 21, 2014
+Effective Date February 25, 2015
 
 1.  Tagged’s Privacy Policy describes what information we collect and how we use it. ↩
     
