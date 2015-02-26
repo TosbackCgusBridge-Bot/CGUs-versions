@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true C13284925705
+true true C13285830464
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Tue Feb 24 11:03:45 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p32.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Feb 25 04:03:56 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,26 +45,86 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 Days Only
+In Store and Online
+
+Ends February 28. Use Code: SAVNFEB
+
+$10 Off\* $25 or more.
+
+Online Only, Orders Over $100
+
+Ends February 28. Use Code: 2SPECIAL
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends February 28. Use Code: 2SPECIAL
+
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and get details print coupon
+
+*   Super Saturday Sale
     
-    Online only, February 23 through 24. Select styles. Code: 2SAVE
+    Starts now!
     
-    \*See exclusions and details50% Off\* shop luggage shop bedding and bath40% Off\* shop window shop home decor shop furniture and mattresses30% Off\* shop kitchen and dining shop vacuums and floorcare shop storage and organization
-*   2 Days Only
+    shop the sale view store ad shop women's shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bed and bath shop window shop kitchenNight and Day Doorbusters
     
-    Online only, February 23 through 24. Select styles. Code: 2SAVE
+    In store and online. Use your coupon and save even more. Friday, 3PM CST through Saturday, 1PM CST.
     
-    \*See exclusions and details shop women'sExtra 20% Off\* select original, regular and sale items shop men's shop women's shop kids' shop shoes shop accessories shop fashion jewelry shop baby furniture shop custom blinds and shades shop clearance
+    view doorbusters
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale shop kitchen and dining shop bed and bath shop furniture and mattresses shop luggage shop home decor shop window shop curtains and drapes shop curtains and drapes
 
-Ambrielle Week! Now Through March 2. 50% Off Select Ambrielle Sleepwear shop now 30-50% Off Select Stylus For Her shop now 40% Off Select Kids' Easter Dress Clothes shop now Men's Levi's® 514™ Straight Fit Jeans
+Bonus Cash $10 Off $30
 
-Regularly $58.
+In store only. February 25 through March 7. Redeem now when you spend $30 in store on women's and men's apparel or Sephora. Redeemable February 25 through March 18, 2015 on women's accessories, jewelry and shoes. Some restrictions apply. See store associate for details.
 
-shop now20% Off Select Men's Levi's™ With Code: 2SAVE 30-40% Off Select Liz Claiborne Shoes shop now 40-60% Off Select Baby Fashion Jewelry When You Buy 2 or More shop now 40% Off Curtains and Drapes
+All You Need To Finish Your Look 30-60% Off Fashion Accessories
 
-Select styles. With Code: 2SAVE
+Select styles.
 
-shop now JCP Rewards
+shop now 25-40% Off Women's Shoes from A.N.A, Arizona and More
+
+Select styles.
+
+shop now 30-60% Off Fashion Jewelry
+
+Select styles.
+
+shop now Hop To It
+
+Easter is April 5.
+
+40% Off Kids' Easter Dress Up
+
+Select styles.
+
+shop now The Best Night Ever After
+
+Make prom night one for the storybooks. Arrive in a style that is all you.
+
+shop prom40% Off Prom Dresses
+
+Select styles
+
+shop now40-50% Off Dress Shirts
+
+Select styles
+
+shop now 30-50% Off Comforters and Bedding Sets
+
+Select styles.
+
+shop nowGilded Treasures
+
+Gold and metallic art deco-inspired details give any room its time in the spotlight.
+
+JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
