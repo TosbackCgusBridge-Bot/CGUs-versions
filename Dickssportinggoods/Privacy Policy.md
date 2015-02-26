@@ -1,10 +1,10 @@
 Privacy Policy
 
-Updated As of February 21, 2014.
+Updated As of February 25, 2015.
 
 DICK'S Sporting Goods, Inc. and its **Family of Businesses** (collectively, "DICK'S") provide this privacy policy (this "Policy") to inform you of: (1) the types of information we collect. (2) your choices surrounding such information. and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with DICK'S operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other DICK'S controlled digital properties that link to this Policy. For purposes of this Policy, our websites, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our "Websites." Emails, social media, marketing campaigns and online advertising are referred to collectively as, our "Internet Marketing Channels."
 
-If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
+This Policy does not create a contractual obligation between you and DICK'S, and it is subject to our **Terms of Use** . If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
 
 **Information Collected**
 
@@ -62,7 +62,7 @@ In doing so, we:
 
 We may share your information in ways consistent with this Policy, as disclosed at the time of collection, and in the following ways:
 
-1.  With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. We do require that such providers keep your Personal Information safe and secure, and we require that they not use or disclose your Personal Information for any purpose other than providing their applicable services.
+1.  With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. While we are not involved in the day-to-day operations of such businesses and providers, our agreements generally obligate them to use reasonable methods to keep your Personal Information safe and secure, and not use your Personal Information for purposes other than providing their applicable services.
 2.  As we deem necessary, in the event (or partial event) of a corporate sale (asset or stock), merger, reorganization, change in corporate control, acquisition, insolvency, bankruptcy or similar event.
 3.  Specifically, certain Personal Information, in connection with various co-branded, warranty, delivery/assembly and/or financial products or services, including our private label credit card(s).
 4.  To comply with applicable law or reasonable request based upon governmental regulation, court order, subpoena or similar related action.
@@ -87,7 +87,7 @@ In our efforts to maintain accurate and complete information, we utilize third p
 
 We use a variety of security measures to help protect your information and online transactions with us. Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet. Your personal online and mobile account(s) with us are password protected with restricted online access.
 
-Additionally, we use a variety of security measures to help protect your information that we maintain at our facilities. Such information is subject to reasonable physical, administrative and technical controls.
+Additionally, we use a variety of security measures to help protect your information that we maintain at our facilities. While no company can guarantee your information will not be accessible by unauthorized individuals, we use physical, administrative and technical controls that are consistent with retail practices in an attempt to mitigate such risks.
 
 **Children**
 
