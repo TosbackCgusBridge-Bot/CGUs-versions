@@ -125,7 +125,6 @@ Last Update: 29-September-2008
   Contact Gartner
 
 *   Gartner Privacy Officers
-
 *   General Contacts
 *   Become a Gartner Client
 
