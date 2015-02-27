@@ -12,9 +12,19 @@ My Account
  Autodesk Account  
  A360  
  Education Community  
- Maintenance Subscription  
-  
+ Education Community  
+ Maintenance Subscription
+
 Need help? Visit our Sign in FAQs.
+
+Education
+
+Students and educators sign in or register for the Education Community
+
+*   Sign In
+*   Need an education account?
+
+*   Get free software
 
 *   Products
 *   Support &. Learning
