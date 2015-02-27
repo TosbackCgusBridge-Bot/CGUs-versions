@@ -95,13 +95,13 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
-Wed, Feb 25, 2015 Realities of Adblock Plus. A review of the benefits and trade offs to consumers &. advertisers
-
-**OTA Members &. Invited Guests**
-
 Thu, Mar 12, 2015 Roundtable: Employee Data Management (New York)
 
 An exclusive invitation-only Roundtable event will review the impact of the latest monitoring tools and introduction of wearable tech in the workplace as well as the tools available for transferring HR data across borders including APEC, BCRs and EU Safe Harbor. The session will conclude by sharing best practices for engaging your employees in data privacy management.
+
+Thu, Mar 19, 2015 Agari Gear Up
+
+In a time when email is key to driving commerce and delivering an outstanding customer experience, securing your email channel from cyberattacks is more critical than ever.  Please join us for an educational afternoon with your industry peers, the Agari leadership team, and special guest experts to learn how you can eliminate brand abuse and prevent criminals from spoofing your email domains
 
 Thu, Mar 26, 2015 Cross Border Data Transfer Strategies
 
