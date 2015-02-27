@@ -133,7 +133,7 @@ Investor Relations Media Relations Corporate Citizenship Need Help?
 
 *   Customer Service
 
-Talk with a Representative  
+Chat not available Talk with a Representative  
 Chat Now Formed by the merger of Office Depot and OfficeMax, Office Depot, Inc. is a leading global provider of products, services, and solutions for every workplace  whether your workplace is an office, home, school, or car.  
   
 Office Depot, Inc. is a resource and a catalyst to help customers work better. We are a single source for everything customers need to be more productive, including the latest technology, core office supplies, facilities products, furniture, and school essentials. The company also provides a variety of services including copy and print, technical services, mailing and shipping.  
