@@ -39,7 +39,6 @@ Aéropostale Go
     
     *   DRESSES + ROMPERS
     *   JACKETS + COATS
-    *   SLEEPWEAR
     *   BRAS
     *   PANTIES
     *   SHOES
