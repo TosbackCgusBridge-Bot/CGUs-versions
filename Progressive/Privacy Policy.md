@@ -1,7 +1,7 @@
- Menu
+ Menu
 
 *   Claims
-*   Log In
+*   Log In
 
 Your Policies Log In
 
@@ -9,7 +9,7 @@ First time logging in? Start here
 
 Or, skip logging in:
 
-Make a Payment 
+Make a Payment
 
 
 
