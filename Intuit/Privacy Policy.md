@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (2)
+*   no saved items
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (2)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13288078315
+true true L13420365937
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Feb 26 05:39:02 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Fri Feb 27 03:10:03 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -69,11 +69,11 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
     
     Starts now!
     
-    shop the sale view store ad shop women's shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bed and bath shop window shop kitchenNight and Day Doorbusters
+    shop the sale view store ad shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bed and bath shop window shop kitchenNight and Day Doorbusters
     
     In store and online. Use your coupon and save even more. Friday, 3PM CST through Saturday, 1PM CST.
     
-    view doorbusters
+    shop doorbusters
 *   Home Sale 30-50% Off
     
     Select styles.
@@ -84,39 +84,11 @@ Bonus Cash $10 Off $30
 
 In store only. February 25 through March 7. Redeem now when you spend $30 in store on women's and men's apparel or Sephora. Redeemable February 25 through March 18, 2015 on women's accessories, jewelry and shoes. Some restrictions apply. See store associate for details.
 
-All You Need To Finish Your Look 30-60% Off Fashion Accessories
+Ambrielle Week Now Through March 2 50% Off Select Bras When You Buy 2 or More shop now 25-40% Off Women's Shoes from A.N.A, Arizona and More shop now Disney Collection only at JCPenney
 
-Select styles.
+Excluded from coupon.
 
-shop now 25-40% Off Women's Shoes from A.N.A, Arizona and More
-
-Select styles.
-
-shop now 30-60% Off Fashion Jewelry
-
-Select styles.
-
-shop now Hop To It
-
-Easter is April 5.
-
-40% Off Kids' Easter Dress Up
-
-Select styles.
-
-shop now The Best Night Ever After
-
-Make prom night one for the storybooks. Arrive in a style that is all you.
-
-shop prom40% Off Prom Dresses
-
-Select styles
-
-shop now40-50% Off Dress Shirts
-
-Select styles
-
-shop now 30-50% Off Comforters and Bedding Sets
+shop Cinderella Disney Collection 50% Off Select JF J. Ferrar Suit Separates shop now 40% Off Select Prom Dresses shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now 30-50% Off Comforters and Bedding Sets
 
 Select styles.
 
@@ -124,7 +96,7 @@ shop nowGilded Treasures
 
 Gold and metallic art deco-inspired details give any room its time in the spotlight.
 
-JCP Rewards
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
