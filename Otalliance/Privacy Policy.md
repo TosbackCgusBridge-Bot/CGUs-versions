@@ -114,6 +114,10 @@ We are on the brink of a major shift in how marketing technologies and digital e
 *   OTA Blog
 *   Newsletters
 
+Mon, Mar 2, 2015 When Are Free Online Services Not Free – Are You Willing to Pay the Ultimate Price?
+
+As more and more users throughout the world are enticed by free online services, it is a fact they do not consider what they are trading off in this exchange.  This point was illustrated in the movie "The Kingsman: The Secret Service". Without disclosing too much of the movie, the villain played by Samuel L. Jackson is an internet billionaire known for his philanthropy. He announces a giveaway of SIM cards, granting free cellular and Internet access to everyone around the world.
+
 Mon, Feb 23, 2015 100 Cities 100 Day - Consumer Online Safety
 
 The Identity Theft Council would like you to join  us in supporting 100 Cities in 100 Days – a unique campaign to educate and engage consumers and communities about issues like identity theft, cyber safety, and privacy.  Nearly 40 cities and communities have already signed up, and participating communities can host a seminar, webinar, or school presentation, distribute education materials, share our message on social media,
@@ -125,10 +129,6 @@ Last Friday I had the privilege to attend the White House Cybersecurity &. Consu
 Thu, Feb 12, 2015 Data Privacy &. Protection Day - Breach Legislation
 
 OTA’s 2015 Data Privacy &. Protection Day Town Halls attracted over 500 attendees, including leading experts in public policy, privacy and security. In each city, a fireside chat with an FTC Commissioner kicked off each Town Hall including Commissioner McSweeney with OTA President Craig Spiezle in Silicon Valley, followed by Commissioners Ohlhausen and Brill in NYC and DC respectively. View the Video Highlights
-
-Thu, Jan 29, 2015 Why Data Privacy Day is Important for the State of Web Security
-
-As technology continues to evolve, web security threats are on the rise with an estimated 160,000 samples of malware  detected around the world each day. Unfortunately, 70% of these attacks are targeted at small businesses and other particular industries (e.g. retail, healthcare and hospitality).
 
 Resources
 
