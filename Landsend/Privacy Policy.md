@@ -167,17 +167,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Beach Towels &. Bags
         *   Water Shoes &. Sandals
         *   Women's Swim Tee
-*   Outerwear
-    *   *   Back to Main Menu Outerwear
-        *   Shop Outerwear
-        *   Women
-        *   Men
-        *   Girls
-        *   Boys
-        *   Hats, Gloves &. Scarves
-        *   Long Underwear
-        *   Snow Boots
-*   Shoes
+*   Shoes &. Accessories
     *   *   Back to Main Menu Shoes &. Accessories
         *   Featured Shops
             *   Back to Shoes &. Accessories Featured Shops
