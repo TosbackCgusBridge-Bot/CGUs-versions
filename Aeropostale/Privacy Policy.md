@@ -124,6 +124,16 @@ Aéropostale Go
     *   Superga
     *   United XXVI
 *   Factory
+    
+    *   GIRLS
+    *   Factory Tops
+    *   Factory Bottoms
+    *   Factory Accessories
+    
+    *   GUYS
+    *   Factory Tops
+    *   Factory Bottoms
+    *   Factory Accessories
 *   Aero Now
 
 Safety, Security and Privacy
