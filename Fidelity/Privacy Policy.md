@@ -23,7 +23,6 @@ Search Fidelity.com
     *   Update Accounts / FeaturesLog In Required
     *   StatementsLog In Required
     *   Retirement Distribution CenterLog In Required
-    *   Tax InformationLog In Required
 *   News &. Insights
     *   News
     *   Insights
