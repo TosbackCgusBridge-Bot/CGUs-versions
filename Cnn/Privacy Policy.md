@@ -32,7 +32,7 @@ Sign in
     *   Europe
     *   Americas
 *   Video
-    *   Stories Worth Watching
+    *   Must Watch Videos
     *   Shows
     *   CNN en Español
 *   TV
@@ -304,7 +304,7 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
     7.  Americas
 
 1.  Video
-    1.  Stories Worth Watching
+    1.  Must Watch Videos
     2.  Shows
     3.  CNN en Español
 
