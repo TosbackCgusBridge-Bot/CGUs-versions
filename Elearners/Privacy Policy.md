@@ -203,7 +203,7 @@ Get Set for Learning
 
 Your Name \* Your Email Address \*
 
-By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services.
+By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy.
 
 Popular Topics:
 
