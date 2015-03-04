@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true L13427024604
+true true C13299102073
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p34.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Mon Mar 02 05:11:34 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Tue Mar 03 03:27:40 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,52 +45,30 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-VIP Style Event
-
-March 1 through 2. In Store and Online. Online Code: VIPEVNT
-
-Extra 25% Off\* with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* with any other form of payment.
-
-Or, Extra 10% Off\* select watches, furniture, mattresses, custom blinds and shades, and optical.
-
-Select original, regular, sale and clearance-priced items. \*Credit offer subject to credit approval.
-
-\*See exclusions and get details print coupon
-
-*   Spring Style Sale
+*   2 Days Only
     
-    Fresh looks inspired to fit you.
+    Online only, March 3 through 4. Select styles. Code: TONS2BUY
     
-    30-40% Off Worthington
+    \*See exclusions and details50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcare
+*   2 Days Only
     
-    Worthington, only at JCPenney.
+    Online only, March 3 through 4. Code: TONS2BUY
     
-    shop worthington shop the style book shop all the looksBonus Cash $10 Off $30
-    
-    In store only. March 1 through 7. Redeem now when you spend $30 in store on women's and men's apparel or Sephora. Redeemable March 1 through 18, 2015 on shoes, jewelry and women's accessories. Some restrictions apply. See store associate for details.
-    
-    view store ad
-*   30-50% Off Comforters and Bedding
-    
-    Select styles.
-    
-    shop comforters and beddingHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop luggage shop home decor shop window
+    \*See exclusions and details shop women'sExtra 20% Off\* select original, regular and sale items shop men's shop women's shop kids' shop shoes shop accessories shop fine and fashion jewelry shop clearance
 
-Fresh Spring Style 25-40% Off Liz Claiborne
-
-Select styles. Liz Claiborne, only at JCPenney.
-
-shop now30-60% Off Fashion Jewelry
+Fresh Spring Style 40-60% Off Fine Jewelry and Bijoux Bar
 
 Select styles.
+
+shop now25-40% Off Liz Claiborne
+
+Select styles. Liz Claiborne, only at JCPenney.
 
 shop now50% Off Men's Semi-Annual Wardrobe Sale
 
 Select styles.
 
-shop now Stafford, only at JCPenney 30% Off Women's Swimwear
+shop now Stafford, only at JCPenney $19.99 Juniors' Swimwear
 
 Select styles.
 
@@ -110,7 +88,11 @@ shop Disney shop CinderellaCinderella in theatres March 13.
 
 JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
 
-watch Disney's Cinderella movie trailer 40-50% Off Window shop blinds and shades shop window shop curtains and drapes shop curtain rods and hardware JCP Rewards
+watch Disney's Cinderella movie trailer 40% Off Curtains and Drapes
+
+When you buy 2 or more. Select styles.
+
+shop curtains and drapes JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
