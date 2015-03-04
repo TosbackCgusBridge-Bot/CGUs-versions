@@ -13,7 +13,7 @@ Navigation:
     *   SEO Services
     *   Paid Search Ads
     *   WebListings
-    *   Local Lift
+    *   LocalLift
 *   Design it for You
 *   Plans &. Pricing
 
