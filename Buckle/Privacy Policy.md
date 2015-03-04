@@ -1,6 +1,6 @@
-Want to win a bike?
+Get what you really wanted.
 
-Enter Now
+Shop Sale.
 
 Online Orders 800-607-9788
 
