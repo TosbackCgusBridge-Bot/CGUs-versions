@@ -252,7 +252,6 @@ About Us
 *   Working with Companies
 *   Working with Leaders
 *   Our Partners in Conservation
-*   Campaign for a Sustainable Planet
 *   Careers
 *   Diversity &. Inclusion
 *   Contact Us
