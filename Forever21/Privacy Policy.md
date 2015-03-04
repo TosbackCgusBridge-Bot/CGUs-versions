@@ -1,4 +1,4 @@
-**Updated September 22, 2014**   Your Privacy and the Security of Your Personal Information is Very Important to Us  
+**Updated February 24, 2015**   Your Privacy and the Security of Your Personal Information is Very Important to Us  
   
 Forever 21, Inc., and its U.S. and Canadian retail affiliates, Forever 21 Retail, Inc. and Forever XXI, ULC (collectively, "Forever 21"), value our customers and visitors to our Websites and respect your concerns about the privacy of your personal information and data security. Our Privacy and Security Policy (the "Privacy Policy") is intended to protect your privacy and provide you with a safe and secure experience in fashion, style and shopping. This Privacy Policy applies to our Websites hosted in the United States and Canada, namely, www.forever21.com and http://canada.forever21.com (collectively, the "Websites"), and to our fashion marketing and sales activities, including sales through our store locations, in the United States and Canada under our brands Forever 21, Fashion 21, XXI, XXI Forever, Love 21, Love &. Beauty, Life in Progress, For Love 21 and 21 Men. This Privacy Policy protects consumers providing information through our Websites and stores and is not designed to protect business information. By using our Websites or providing information to us at our stores, you consent to the collection and use of your personal information. In addition to reviewing our Privacy Policy, you should also read our Terms of Use for our Websites. Your use of our Websites constitutes your agreement to its terms and conditions.   Our Privacy Policy Will Change Over Time  
   
@@ -41,14 +41,19 @@ We try to provide you with the information you need to make informed reasonable 
 *   **Online Transactions.**We collect information about you when you shop on our website. You may visit our site without registering, but if you wish to add merchandise to your shopping cart, save your debit or credit card information with us online, create a wish list or use other special features offered on our site, you may need to provide us with certain information, including your name, address, phone number, financial information, and email address, to open an account with us. We will assist you in creating a user id and a password to protect your account information. Similarly, if you wish to apply online for a job position with us, you will be required to submit relevant information about your background and experience.  
       
     
-*   **Store Transactions.** We collect information about you when you purchase merchandise in our stores or sign-up in our stores to receive our marketing materials or apply for a job.
+*   **Store Transactions.** We collect information about you when you purchase merchandise in our stores or sign-up in our stores to receive our marketing materials or apply for a job.  
+      
+    
+*   **Mobile Text Messaging.** If you provide us with your mobile phone number and give us your consent, you will receive promotional alerts and marketing text messages from or on behalf of Forever 21. Your consent is not a condition of a purchase. If you consent to receiving text messages from Forever 21, message and data rates may apply depending on your carrier.
 
   Your Contact Preferences and Opt-Out Choices  
   
 To update your subscription preferences, you may contact us using one of the following methods:
 
-*   Call Customer Service toll free at 1-888-494-3837 (EVER)
-*   Fill out the form here with the words “DIRECT MAIL OPT OUT” in the message box.
+*   To unsubscribe from our direct mailing list, fill out the form here with the words “DIRECT MAIL OPT OUT” in the message box.
+*   To unsubscribe from our email marketing list, click the “UNSUBSCRIBE” link at the bottom of a marketing email that you receive from Forever 21.
+*   To opt-out of mobile text messaging, reply "STOP" to a text message and you will receive a confirmation message.
+*   Or, call Customer Service toll free at 1-888-494-3837 (EVER).
 
 Please note that direct mail requests may take up to six to eight weeks to become effective.   Our Security Practices  
   
@@ -60,7 +65,7 @@ We may use "cookies" to collect or log certain information. A cookie is a small 
   
 Our Websites may contain links to third party sites. Please be aware, however, that Forever 21 is not responsible for and cannot control the privacy policies of these other sites or their practices. We encourage you to read the privacy policies for these other sites, as they may differ from ours. This Privacy Policy applies solely to personal information collected by Forever 21.   Contact Preferences and Accessing Your Personal Information  
   
-You have choices when it comes to how Forever 21 uses your personal information. When you register online with our Websites or sign-up in our stores, you can choose not to receive information about merchandise, services and special promotional offers from us by direct mail and/or email. If you elect not to receive such product marketing information by direct mail or email, Forever 21 may continue to contact you as necessary to service your account and process your transactions. You can change your preferences by following the instructions for opting out at the end of the marketing email, or by following the instructions for Account Information on the Websites or by contacting Customer Service at www.forever21.com/customerservice, or calling in the U.S. or Canada 1-888-494-3837 (EVER) (-Toll Free).  
+You have choices when it comes to how Forever 21 uses your personal information. When you register online with our Websites or sign-up in our stores, you can choose not to receive information about merchandise, services and special promotional offers from us by direct mail, and/or email, and/or mobile text message (i.e., SMS and MMS). If you elect not to receive such product marketing information by direct mail or email, Forever 21 may continue to contact you as necessary to service your account and process your transactions. You can change your preferences by following the instructions for opting out at the end of the marketing email, or by following the instructions for Account Information on the Websites or by contacting Customer Service at www.forever21.com/customerservice, or calling in the U.S. or Canada 1-888-494-3837 (EVER) (-Toll Free).  
   
 Keeping your account information accurate and up to date is very important so we can provide you with excellent service. If your account information is incomplete, inaccurate or not current, please follow the instructions for My Account on our Websites to correct or update your account information online, or you may contact Customer Service at www.forever21.com/customerservice or call in the U.S. or Canada 1-888-494-3837 (EVER) (-Toll Free).  
   
@@ -78,7 +83,7 @@ Children are not eligible to use our Websites. We ask that minors (under the age
   
 You should be careful to maintain the secrecy of your passwords and/or account information and be responsible about protecting your personal information and identity whenever you are online.   Trademark Notice  
   
-Forever 21, Fashion 21, XXI, XXI Forever, Love 21, Love &. Beauty, Life in Progress, For Love 21 and 21 Men, and www.Forever21.com and http://Canada.forever21.com are tradenames and/or trademarks of Forever 21, Inc. and its affiliates.  
+Forever 21, Fashion 21, XXI, XXI Forever, Love 21, Love &. Beauty, Life in Progress, For Love 21, 21 Men, F21 Red, and www.Forever21.com and http://Canada.forever21.com are tradenames and/or trademarks of Forever 21, Inc. and its affiliates.  
   
 Forever21.com  
 Canada.forever21.com  
