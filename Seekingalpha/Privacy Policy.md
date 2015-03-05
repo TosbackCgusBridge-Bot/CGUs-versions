@@ -14,6 +14,8 @@ Seeking Alpha
 *   INSIGHT CENTERS
 *   Alt Investing
 
+*   Earnings Center
+
 *   ETF Hub
 
 *   Dividend Investing
