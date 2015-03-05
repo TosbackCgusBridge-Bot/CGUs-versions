@@ -11,8 +11,6 @@ Sign up Login Upload
 *   Gay
 *   Shemale
 
-AdBlock blows! Please disable the add-on to ensure you get the most out of Tube8's features and functionality. Read about why you shouldn't use AdBlock. Close
-
 *   Advertise
 *   Terms
 *   DMCA
@@ -267,6 +265,8 @@ For further assistance and/or information in finding the content's originating s
 Tube8.com allows content to be flagged as inappropriate. Should any content be flagged as illegal, unlawful, harassing, harmful, offensive or various other reasons, Tube8.com shall remove it from the site without delay.
 
 Users of Tube8.com who come across such content it urged to flag it as inappropriate by clicking "flag as inappropriate" link found below each video.
+
+AdBlock blows! Please disable the add-on to ensure you get the most out of Tube8's features and functionality. Read about why you shouldn't use AdBlock. Close
 
 *   Amateur
 *   Anal
