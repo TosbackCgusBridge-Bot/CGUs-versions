@@ -169,7 +169,6 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
 
 *   *   Products
     *   Ativa®
-    *   Foray™
     *   Gift &. Rewards Cards
     *   GreenerOffice
     *   Products A-Z
