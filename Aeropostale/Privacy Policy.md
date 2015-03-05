@@ -39,6 +39,7 @@ Aéropostale Go
     
     *   DRESSES + ROMPERS
     *   JACKETS + COATS
+    *   SWIM
     *   BRAS
     *   PANTIES
     *   SHOES
@@ -70,6 +71,7 @@ Aéropostale Go
     *   Shorts
     
     *   JACKETS + COATS
+    *   SWIM
     *   PAJAMAS
     *   UNDERWEAR + LOUNGE
     *   SHOES
