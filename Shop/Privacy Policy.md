@@ -166,7 +166,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  Free System Checkup
         5.  See all Technologies
     5.  Not sure what you need?
-        1.  Valentine's Day Accessories Deals
+        1.  Hot Deals on Accessories
         2.  Best Selling Accessories
         3.  View All Accessories
         4.  See all Not sure what you need?
