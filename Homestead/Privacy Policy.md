@@ -12,7 +12,6 @@ Navigation:
     *   Overview
     *   SEO Services
     *   Paid Search Ads
-    *   WebListings
     *   LocalLift
 *   Design it for You
 *   Plans &. Pricing
@@ -102,7 +101,6 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 *   Get Traffic
     *   SEO Services
     *   Paid Search Ads
-    *   WebListings
     *   Local Lift
 *   Design it For You
     *   How it Works
