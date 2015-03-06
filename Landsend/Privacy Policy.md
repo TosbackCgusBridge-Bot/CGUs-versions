@@ -21,13 +21,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   2015 Swim Shop
             *   Activewear Collection
-            *   Cardigan Shop
+            *   Get Dressed Up
             *   Shoes &. Sandals
             
             *   New Arrivals
-            *   The Garden District
             *   Starfish Collection
-            *   The Swim Guide
+            *   Cardigan Shop
+            *   Swim Finder
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -60,10 +60,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Men
         *   Featured Shops
             *   Back to Men Featured Shops
-            *   Jeans 101
+            *   2015 Polo Shop
             *   No Iron Shop
+            *   Activewear Collection
             *   Shoes &. Sandals
-            *   Activewear Collecion
             
             *   New Arrivals
             *   Spring Favorite Looks
@@ -228,12 +228,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Home Featured Shops
             *   Supima Bed &. Bath
-            *   Oxford Bedding Collection
+            *   400 No Iron Bedding
             *   Bedding Collections
             *   Canvas Totes &. More
             
             *   New Arrivals
-            *   Flannel Bedding
+            *   Oxford Bedding Collection
             *   Percale Bedding Collection
             *   Sale
     *   *   Categories
@@ -259,7 +259,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Polos that Perform
             *   Iron Knee Pants
             *   Phys Ed Locker Room
-            *   Sweater &. Fleece Layers
             *   Sale
         *   Shop By Age Range
             *   Back to Uniforms Shop By Age Range
