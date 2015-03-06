@@ -4,28 +4,28 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-*   Hello  THERESA
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13299688385
+true true 10.60.216.10 C13302605740
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Wed Mar 04 04:43:34 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Thu Mar 05 10:10:54 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,54 +45,62 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 Days Only
-    
-    Online only, March 3 through 4. Select styles. Code: TONS2BUY
-    
-    \*See exclusions and details50% Off\* shop bedding and bath shop luggage40% Off\* shop home decor shop blinds and shades30% Off\* shop kitchen and dining shop storage and organization shop vacuums and floorcare
-*   2 Days Only
-    
-    Online only, March 3 through 4. Code: TONS2BUY
-    
-    \*See exclusions and details shop women'sExtra 20% Off\* select original, regular and sale items shop men's shop women's shop kids' shop shoes shop accessories shop fine and fashion jewelry shop clearance
+Online Only
 
-Fresh Spring Style 40-60% Off Fine Jewelry and Bijoux Bar
+Extra 25% Off\* $100 or more with your JCPenney Credit Card.
 
-Select styles.
+Or, Extra 20% Off\* $100 or more with any other method of payment.
 
-shop now25-40% Off Liz Claiborne
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+Ends March 15. Online Code: CRDEVNT2
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and get details print coupon
+
+*   Spring Style Sale shop the sale view store ad shop men's shop women'sThousands of Night and Day Doorbusters
+    
+    Use your coupon and save even more! In store and online, Friday, 3PM CST through Saturday, 1PM CST.
+    
+    view doorbusters
+*   30-50% Off Comforters and Bedding Sets
+    
+    Select styles.
+    
+    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop luggage shop home decor shop window
+
+Fresh Spring Style 25-40% Off Liz Claiborne
 
 Select styles. Liz Claiborne, only at JCPenney.
+
+shop now25-40% Off Handbags
+
+Select styles.
 
 shop now50% Off Men's Semi-Annual Wardrobe Sale
 
 Select styles.
 
-shop now Stafford, only at JCPenney $19.99 Juniors' Swimwear
+shop now Stafford, only at JCPenney 30% Off Women's Swimwear
 
 Select styles.
 
-shop now $39.99 Clarks Flip Flops
+shop now 40-50% Off Kids' Dress Clothes
 
-Originally $55. Excluded from coupon.
+Select styles.
 
-shop now 30% Off Fashion Accessories
+shop now 10-20% Off Nike Shoes For The Family
 
-Select styles
+Select styles. Excluded from coupon.
 
-shop now Your Cinderella and Disney Collection Destination
-
-With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
-
-shop Disney shop CinderellaCinderella in theatres March 13.
-
-JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
-
-watch Disney's Cinderella movie trailer 40% Off Curtains and Drapes
-
-When you buy 2 or more. Select styles.
-
-shop curtains and drapes JCP Rewards
+shop now 40-50% Off Window shop blinds and shades shop blinds and shades shop curtains and drapes shop curtain rods and hardware JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -106,7 +114,7 @@ shop now People StyleWatch Must Haves
 
 Sponsored content.
 
-shop now Write a Review for Your Chance to Win $500 get details
+shop now Download the JCPenney App learn more download on the app store
 
 get connected
 
