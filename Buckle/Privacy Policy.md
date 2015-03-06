@@ -1,6 +1,6 @@
-Get what you really wanted.
+Free Nixon headphones.
 
-Shop Sale.
+Here’s how.
 
 Online Orders 800-607-9788
 
