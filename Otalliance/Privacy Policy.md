@@ -95,6 +95,10 @@ The Site is not targeted nor directed to children under the age of thirteen. To 
 *   Upcoming Events
 *   News
 
+Thu, Mar 12, 2015 Online Trust Audit &. Honor Roll
+
+Join this webinar to review the methodology and criteria to help maximize your site's security, brand protection and privacy. Learn why this is good for your brand reputation, consumer trust and how to better secure your data from abuse and site from hacking.  Details of the 2015 Honor Roll Methodology
+
 Thu, Mar 12, 2015 Roundtable: Employee Data Management (New York)
 
 An exclusive invitation-only Roundtable event will review the impact of the latest monitoring tools and introduction of wearable tech in the workplace as well as the tools available for transferring HR data across borders including APEC, BCRs and EU Safe Harbor. The session will conclude by sharing best practices for engaging your employees in data privacy management.
@@ -106,10 +110,6 @@ In a time when email is key to driving commerce and delivering an outstanding c
 Thu, Mar 26, 2015 Cross Border Data Transfer Strategies
 
 One year on from the publication of the APEC-EU referential, this third Webinar in the TRUSTe 2015 Privacy Insight Series will review the latest developments with APEC Cross Border Privacy Rules (CBPR), Binding Corporate Rules (BCR) and the EU Safe Harbor negotiations. Register now to hear from a panel of experts who have either been closely involved in working towards greater interoperability of these different frameworks or have first-hand experience of taking their company through the process.
-
-Mon, Apr 13, 2015 AGILITY 2015
-
-We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
 *   OTA Blog
 *   Newsletters
