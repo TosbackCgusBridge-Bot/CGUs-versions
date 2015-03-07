@@ -1,4 +1,4 @@
-USESDEFRITBR Février 2015
+USESDEFRITBR Mars 2015
 
 *   Objet
 *   Mentions légales
@@ -125,7 +125,7 @@ Conditions-generales-d-utilisation.pdf A voir également
 *   Kaliceo
 *   Comment rediger des conditions générales de prestations de services
 *   Modèle Condition Générale de Vente » Forum - Webmaster
-*   Iphone probléme app store (Résolu) » Forum - IPhone
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
-*   Conditions générales (Résolu) » Forum
 *   Impossible d accepter les conditions générales de ventes (Résolu) » Forum - IPad / iPod Touch
+*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
+*   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
