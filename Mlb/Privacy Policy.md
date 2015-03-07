@@ -51,7 +51,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Cut 4
 *   Stats Stats Stats
     *   Players
-    *   Spring League Leaders
+    *   Regular Season League Leaders
     *   Regular Season Batting Leaders
     *   Regular Season Pitching Leaders
     *   Milestone Tracker
