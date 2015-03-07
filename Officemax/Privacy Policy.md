@@ -195,13 +195,13 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
     *   Affiliate Program
     *   Careers
     *   Compliance and Ethics
+    *   Corporate Citizenship
     *   Diversity
     *   FAQs
     *   Government Programs
     *   Investor Relations
     *   Media Relations
     *   Office Depot Foundation
-    *   Women in Business
 *   *   Customer Service
     *   Customer Service
     *   Customer Survey
