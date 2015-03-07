@@ -23,9 +23,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13302605740
+true true L13435874834
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Thu Mar 05 10:10:54 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Fri Mar 06 11:23:48 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -69,7 +69,7 @@ Ends March 15. Online Code: CRDEVNT2
     
     Use your coupon and save even more! In store and online, Friday, 3PM CST through Saturday, 1PM CST.
     
-    view doorbusters
+    shop doorbusters
 *   30-50% Off Comforters and Bedding Sets
     
     Select styles.
@@ -80,7 +80,7 @@ Fresh Spring Style 25-40% Off Liz Claiborne
 
 Select styles. Liz Claiborne, only at JCPenney.
 
-shop now25-40% Off Handbags
+shop now20-50% Off Watches
 
 Select styles.
 
