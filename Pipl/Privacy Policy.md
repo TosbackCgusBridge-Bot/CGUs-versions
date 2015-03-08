@@ -35,7 +35,7 @@ We reserves the right to disclose information to third parties if we believe we 
 \* Protect the rights, property or safety of Pipl, its users and the public.
 
 **Service Providers**  
-Our Developers Portal and API are powered by Intel Services, please note that when you use the portal or the API you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.  
+The back-end of our People Data API is powered by Intel Services, please note that when you use the portal or the API you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.  
 Our Support Portal is powered by Kayako, please note that when you send us a support request or when you are using the support portal you agree to their policy in addition to ours, we recommend that you read their privacy page for more information.
 
 **Transfer of information**  
