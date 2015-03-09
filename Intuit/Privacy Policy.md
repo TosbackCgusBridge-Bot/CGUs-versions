@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   saved items: (1)
+*   no saved items
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13307703821
+true true 10.60.216.10 C13308439733
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sat Mar 07 07:12:40 CST 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Mar 08 05:42:44 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,76 +45,62 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only
-
-Extra 25% Off\* $100 or more with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* $100 or more with any other method of payment.
-
-In Store and Online
-
-Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-
-Ends March 15. Online Code: CRDEVNT2
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-\*See exclusions and get details print coupon
-
-*   Spring Style Sale shop the sale view store ad shop men's shop women'sThousands of Night and Day Doorbusters
+*   Spring Style Sale shop the sale view store ad30-40% Off Worthington
     
-    Use your coupon and save even more! In store and online, Friday, 3PM CST through Saturday, 1PM CST.
+    Select styles.
     
-    shop doorbusters
+    shop now shop now25-40% Off Liz Claiborne
+    
+    Select styles.
+    
+    shop now shop now25-40% Off Dresses
+    
+    Select styles.
+    
+    shop now shop now
 *   30-50% Off Comforters and Bedding Sets
     
     Select styles.
     
-    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop luggage shop home decor shop window
+    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 
-Fresh Spring Style 25-40% Off Liz Claiborne
+Your Cinderella and Disney Collection Destination
 
-Select styles. Liz Claiborne, only at JCPenney.
+With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
 
-shop now20-50% Off Watches
+shop Disney shop CinderellaCinderella in theatres March 13.
 
-Select styles.
+JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
 
-shop now50% Off Men's Semi-Annual Wardrobe Sale
-
-Select styles.
-
-shop now Stafford, only at JCPenney 30% Off Women's Swimwear
+watch Disney's Cinderella movie trailer 25-40% Off Select Liz Claiborne Shoes and Handbags shop now 40% Off Select Juniors' Prom shop now 50% Off During Our Men's Semi-Annual Wardrobe Sale
 
 Select styles.
 
-shop now 40-50% Off Kids' Dress Clothes
+shop now 40-50% Off Select Kids' Arizona shop now LOVE YOUR FIT - Bra Fit Event March 8 through 21.
 
-Select styles.
+More sizes, more styles, more you.
 
-shop now 10-20% Off Nike Shoes For The Family
+40% Off Select Bras When You Buy 2 or More shop now 30-60% Off Select Fashion Jewelry shop now 50-80% Off Red Zone Clearance Selections
 
-Select styles. Excluded from coupon.
+In store and online.
 
-shop now 40-50% Off Window shop blinds and shades shop blinds and shades shop curtains and drapes shop curtain rods and hardware JCP Rewards
+shop clearance JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today SportsFanShop
+sign up today Spring Break Shop
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+Everything you need to soak up the sun.
 
-Excluded from coupon.
+shop now Easter Portraits
 
-shop now People StyleWatch Must Haves
+50% off total purchase plus one free sitting fee valid through April 30, 2015.
+
+book your appointment now People StyleWatch Must Haves
 
 Sponsored content.
 
-shop now Download the JCPenney App learn more download on the app store
+shop now
 
 get connected
 
