@@ -27,7 +27,7 @@ Seeking Alpha
 *   Alerts
 *   PRO
 
-*   Early Look !
+*   Smart Portfolio !
 
 To screen ETFs by asset class, performance, yield and more, check out the ETF Hub. ETF Hub Home » Privacy Privacy
 
