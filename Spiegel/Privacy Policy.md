@@ -24,7 +24,7 @@ Mein SPIEGEL
 
 *   Mein SPIEGEL
 
-*   Home
+*   Nachrichten
 *   \>Mein SPIEGEL
 
   
