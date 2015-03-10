@@ -84,30 +84,20 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Probable Pitchers
 *   Tickets Tickets Tickets
     *   General Ticket Information
-    *   2013 Holiday Ticket Options
     *   All-Star Summer Ticket Information
     *   Celebrate Sunday Ticket Offer
     *   Fan Value Corner
-    *   Star Wars Night
-    *   2014 Opening Week Tickets
     *   Spring Training Tickets
     *   Autism Awareness
     *   Bobblehead Games
     *   Spring Training Travel
     *   StubHub.com
     *   All-Star Game Ticket Information
-    *   Celebrate the Fourth of July at the Ballpark
-    *   Postseason Tickets
     *   Labor Day Weekend Tickets
-    *   September Savings
     *   Postseason Ticket Information
     *   Postseason Ticket Reservations
     *   Postseason Ticket Refund Policies
-    *   All You Can Eat Seats
-    *   Take Dad to the Ballpark
-    *   2013 Postseason Chase
-    *   Civil Rights Ticket Packages
-    *   Civil Rights Individual Event Tickets
+    *   Take Dad to the BallparkAutism Awareness
 *   Apps Apps Apps
     *   Mobile
     *   At Bat app
@@ -150,6 +140,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Photos
 *   MLB.TV MLB.TV MLB.TV
     *   Buy MLB.TV
+    *   View MLB.TV Demo
     *   Buy Gameday Audio
     *   Watch/Listen
     *   Alternative Audio
