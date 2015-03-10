@@ -4,7 +4,6 @@ Skip to Content Sony
     *   Overview
     *   Our Businesses
     *   Leadership Team
-    *   Global Marketing Partners
     *   Be Moved
 *   Company News
     *   Overview
