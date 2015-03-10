@@ -3,7 +3,7 @@ Start receiving our award-winning magazine today!
 Subscribe
 
 *   Magazine
-*   News &. Media
+*   Newsroom
 *   Blogs
 *   My Nature
 
@@ -409,7 +409,7 @@ WeChat
 *   Contact Us   |  
 *   Help/FAQs   |  
 *   Provide Feedback   |  
-*   News &. Features   |  
+*   Newsroom   |  
 *   Green Living   |  
 *   Advertise with Us
 
