@@ -84,11 +84,11 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 Recent Blog Posts
 
+*   Phonedeck’s partner Alcatel-Lucent awarded by GSMA March 9, 2015
 *   How to adopt mobility in your organization February 25, 2015
 *   Productivity is about daily task management February 11, 2015
 *   Phonedeck has won Disruptive Innovator 2015 award during Enterprise Mobility Management Forum January 30, 2015
 *   Talkfest – free video calling inside Salesforce January 7, 2015
-*   How much time do you spend on manual reporting after business trips? December 18, 2014
 
 Phonedeck Newsletter Email Address\* First Name\* Last Name\* Company \* = required field About Phonedeck
 
