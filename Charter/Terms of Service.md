@@ -29,4 +29,6 @@ The links below provide you access to Charter's current policies &. agreements.
     *   Espanol 2014 Annual Notice (PDF)
 *   Rate Card Information
 *   Internet Speed &. Pricing Information
+    *   Internet Speed &. Pricing Information (PDF)
+    *   Español Internet Speed &. Pricing Information (PDF)
 *   DOCSIS Modem Policy
