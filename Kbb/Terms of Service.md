@@ -1,94 +1,94 @@
-KBB.com General Terms of Service Last Updated: 10/24/2014 1. DESCRIPTION OF KBB.COM AND THESE TERMS OF SERVICE
+KBB.com General Terms of Service Last Updated: 10/24/2014 1. Description of KBB.com and These Terms of Service
 
 Welcome to kbb.com! Kelley Blue Book Co., Inc. ("KBB" or "Kelley Blue Book", "us", "we", "our") provides its products and services subject to these Terms of Service. By using kbb.com, you agree to the following Terms of Service ("TOS"). These TOS may be updated by us from time to time, and we encourage you to revisit this page often and review the TOS. In addition to these TOS, when using particular kbb.com owned or operated services, you and kbb.com may also be subject to any additional posted guidelines applicable to such services. For example, the KBB.Com Community Pages and MyKBB Terms of Use also apply to your use of those services.
 
 Kbb.com provides you with access to many valuable resources, including KBB **Used Car Values, New Car Pricing and quotes from dealerships, research, reviews and ratings, car buying advice, MyKBB, Blue Book Classifieds**, as well as links to sites where you can obtain vehicle services such as **financing** and **insurance**, and other existing services and those that may later be offered to you (the "Service"). The Service includes advertisements, which are necessary for KBB to provide the Service to you. Unless explicitly stated otherwise, any new features that we may add to kbb.com will also be subject to these TOS, and any other special terms of service referenced in the new feature.
 
-2\. KBB.COM PRIVACY POLICY
+2\. KBB.com Privacy Policy
 
-Click here to view the kbb.com **Privacy Policy**. You understand and agree that when you visit kbb.com, you are consenting to the collection and use of information provided by you and about your use of kbb.com and the Services, in accordance with the Privacy Policy
+Click here to view the kbb.com **Privacy Policy**. You understand and agree that when you visit kbb.com, you are consenting to the collection and use of information provided by you and about your use of kbb.com and the Services, in accordance with the Privacy Policy.
 
-3\. PERSONAL USE ONLY
+3\. Personal Use Only
 
 You may make personal use of all of the information ("Information") you access on kbb.com, but you may not take any of the Information and reformat and display it, or copy it on your Web site or in any other format, and you may not store or migrate any of the Information or other data from kbb.com without KBB's written permission. By using the Service, you agree not to sell, store, distribute, transmit, display, reproduce, modify, migrate, create derivative works from, or otherwise exploit any of the Information content or data related to any portion of the Service. You may print a copy of particular vehicle values and prices and use the Information for your personal, non-commercial use, but you may not otherwise reproduce any material appearing on kbb.com. If you want to make commercial use of the KBB Information or Services, you must enter into an agreement with us to do so in advance, and **we would love to talk to you about that**.
 
-4\. SURVEY RESPONSES, FEEDBACK, AND OTHER CONTRIBUTIONS TO KBB.COM
+4\. Survey Responses, Feedback, and Other Contributions to KBB.com
 
 By submitting ideas, survey responses, suggestions, documents, comments, and/or proposals ("Contributions") to kbb.com through its surveys, "contact us," KBB.com Community Pages, MyKBB, or suggestion or feedback Web pages, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information. (b) KBB is not under any obligation of confidentiality, express or implied, with respect to the Contributions. (c) your Contributions automatically become the property of KBB without any obligation of KBB to you and KBB shall be entitled to use, copy, modify, or disclose (or choose not to use or disclose), delete in its entirety, adapt, publish, translate, create derivative works from and/or sell and/or distribute such Contributions for any purpose, in any way, in any media worldwide. (d) KBB may have something similar to the Contributions already under consideration or in development. and (e) you are not entitled to any compensation or reimbursement of any kind from kbb.com under any circumstances for your Contributions.
 
-5\. MODIFICATIONS AND TERMINATION OF SERVICE
+5\. Modifications and Termination of Service
 
 KBB reserves the right at any time and from time to time to modify, update, suspend or discontinue all or part of the Service for any reason with or without notice to you. All terminations will be made in KBB's sole discretion and you agree that KBB will not be liable for any termination of your use of or access to the Service.
 
-6\. YOUR DEALINGS WITH KBB.COM ADVERTISERS
+6\. Your Dealings with KBB.com Advertisers
 
 Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Service, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. You acknowledge and agree that KBB will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the Service.
 
-7\. LINKS TO OTHER WEBSITES
+7\. Links to Other Websites
 
 kbb.com provides links to other Web sites. You acknowledge and agree that, because KBB has no control over such sites, we are not responsible for them or the resources and information they contain. In particular, we are not responsible for the availability of services related to another Web site that has a link on kbb.com. we do not necessarily endorse such sites, and we are not responsible or liable for any content, advertising, products or other materials on or available from such sites. You further acknowledge and agree that KBB will not be liable for any loss whatsoever for any damages caused by or incurred in connection with the use of or reliance on the information, goods or services available through any such site.
 
-8\. KBB.COM'S PROPRIETARY RIGHTS
+8\. KBB.com's Proprietary Rights
 
 You acknowledge and agree that the Service and all materials on kbb.com, contain proprietary information and data that is protected by applicable copyright, trademark and other intellectual property laws (KBB's "Proprietary Information"). All materials on kbb.com, including such Proprietary Information, may only be used for personal, non-commercial purposes, and you agree not to sell, transfer, reproduce, duplicate, distribute, publish, modify, migrate, store, copy or transmit any material from kbb.com unless and until you have obtained our prior written consent. The Proprietary Information covered by this prohibition includes, without limitation, the software programming and html and other code contained in the Web site, KBB Vehicle Values, KBB New Car Pricing information, compilations of vehicle specifications, any text, graphics, logos, photographs, audio or video material or stills from audiovisual material available on kbb.com.
 
-9\. USE OF KELLEY BLUE BOOK LOGOS
+9\. Use of Kelley Blue Book Logos
 
 Click here to view the Kelley Blue Book logos ("KBB Marks"), and the terms of use governing downloads of the KBB Marks. You agree that all of the KBB Marks are the property of KBB, and agree that you will not use the KBB Marks without KBB’s prior written permission.
 
-10\. NO ILLEGAL USE
+10\. No Illegal Use
 
 As a condition of your use of and access to kbb.com, you agree not to use the Services for any unlawful purpose or in any way that violates these TOS. You also agree not to use the Services in any way that could damage, disable, overburden, or impair kbb.com or any KBB server, or the associated networks, or interfere with any other party's use and enjoyment of any Services.
 
-11\. DISPUTE RESOLUTION – MANDATORY ARBITRATION AND CLASS ACTION WAIVER
+11\. Dispute Resolution – Mandatory Arbitration and Class Action Waiver
 
-1.  **ARBITRATION AGREEMENT.** YOU AND KBB AGREE THAT ANY CLAIMS OR DISPUTES (“Claims”) THAT ARISE OUT OF OR RELATE IN ANY WAY TO THESE TERMS OF SERVICE, KBB.COM, OR THE SERVICES (INCLUDING BUT NOT LIMITED TO BILLING DISPUTES) SHALL BE RESOLVED BY FINAL AND BINDING ARBITRATION INSTEAD OF LITIGATION IN COURT. In arbitration, there is no judge and no jury. Instead, Claims are decided by an arbitrator whose authority is created by and governed by this arbitration agreement. Review of arbitration awards in the courts is very limited.
+1.  **Arbitration Agreement.** You and kbb agree that any claims or disputes (“claims”) that arise out of or relate in any way to these terms of service, kbb.com, or the services (including but not limited to billing disputes) shall be resolved by final and binding arbitration instead of litigation in court.. In arbitration, there is no judge and no jury. Instead, Claims are decided by an arbitrator whose authority is created by and governed by this arbitration agreement. Review of arbitration awards in the courts is very limited.
     
-2.  **CLASS ACTION WAIVER:** YOU AND KBB AGREE THAT ALL CLAIMS BETWEEN US WILL BE RESOLVED IN AN INDIVIDUAL ARBITRATION. WE BOTH AGREE THAT THERE WILL BE NO CLASS, REPRESENTATIVE, OR CONSOLIDATED ACTIONS IN ARBITRATION. In addition, neither you nor KBB may participate in a class or representative action in court as a class member if the claims asserted in the arbitration would fall within the scope of this arbitration agreement if asserted directly by you or KBB. To be clear, you and KBB both waive any right to participate in any class action involving disputes between us.
+2.  **Class Action Waiver:** you and kbb agree that all claims between us will be resolved in an individual arbitration. We both agree that there will be no class, representative, or consolidated actions in arbitration. In addition, neither you nor KBB may participate in a class or representative action in court as a class member if the claims asserted in the arbitration would fall within the scope of this arbitration agreement if asserted directly by you or KBB. To be clear, you and KBB both waive any right to participate in any class action involving disputes between us.
     
     This class action waiver is an essential part of our arbitration agreement and may not be severed. If for any reason this class action waiver is found unenforceable, then the entire arbitration agreement will not apply. However, the Jury Trial Waiver set forth in Section 12 of these TOS will remain in full force and effect.
     
-3.  **ARBITRATOR AUTHORITY**: The arbitrator’s authority is governed by this arbitration agreement. You and KBB agree that the arbitrator may award the same relief that a court of competent jurisdiction could award – consistent with and limited by these TOS (including the limitations of liability set forth in Section 14), but the arbitrator may not award declaratory or injunctive relief that extends beyond you and your dealings with KBB. An arbitrator may award attorneys’ fees and costs to the prevailing party if a court would be authorized to do so under the applicable law.
+3.  **Arbitrator Authority:**: The arbitrator’s authority is governed by this arbitration agreement. You and KBB agree that the arbitrator may award the same relief that a court of competent jurisdiction could award – consistent with and limited by these TOS (including the limitations of liability set forth in Section 14), but the arbitrator may not award declaratory or injunctive relief that extends beyond you and your dealings with KBB. An arbitrator may award attorneys’ fees and costs to the prevailing party if a court would be authorized to do so under the applicable law.
     
-4.  **ARBITRATION PROCEDURES:** You and KBB agree that your agreement affects interstate commerce, and the Federal Arbitration Act applies. All arbitrations shall be conducted by the American Arbitration Association (“AAA”). The AAA’s rules are available on its website at www.adr.org or by calling 1-800-778-7879. If the Claim asserted in arbitration is for less than $75,000, the AAA’s Supplementary Procedures for Consumer-Related Disputes will apply. If the claim is for more than $75,000, then the Commercial Rules will apply. If there is a conflict between the AAA Rules and this arbitration agreement, then this arbitration agreement shall control. For claims less than $75,000, KBB will pay all filing fees and costs associated with commencing an arbitration, but you will be responsible for paying your own attorneys’ fees (if you chose to use an attorney in arbitration) unless you prevail in the arbitration and the arbitrator finds that you are entitled to recover your fees under the law. The arbitration will be held in a mutually agreeable and convenient location.
+4.  **Arbitration Procedures:** You and KBB agree that your agreement affects interstate commerce, and the Federal Arbitration Act applies. All arbitrations shall be conducted by the American Arbitration Association (“AAA”). The AAA’s rules are available on its website at www.adr.org or by calling 1-800-778-7879. If the Claim asserted in arbitration is for less than $75,000, the AAA’s Supplementary Procedures for Consumer-Related Disputes will apply. If the claim is for more than $75,000, then the Commercial Rules will apply. If there is a conflict between the AAA Rules and this arbitration agreement, then this arbitration agreement shall control. For claims less than $75,000, KBB will pay all filing fees and costs associated with commencing an arbitration, but you will be responsible for paying your own attorneys’ fees (if you chose to use an attorney in arbitration) unless you prevail in the arbitration and the arbitrator finds that you are entitled to recover your fees under the law. The arbitration will be held in a mutually agreeable and convenient location.
     
-5.  **SURVIVAL:** This arbitration agreement survives the termination of these TOS between you and KBB.
-    
-
-12\. JURY TRIAL WAIVER. You and KBB expressly and knowingly **WAIVE THE RIGHT TO TRIAL BY JURY.** This means that if for any reason the arbitration agreement contained in Section 11 is not enforced or is found inapplicable, our claims against each other will be resolved by a judge rather than a jury. 13. DISCLAIMER OF WARRANTIES:
-
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
-
-1.  YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. KBB PROVIDES THE SERVICE TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS. KBB AND ITS OWNERS, SHAREHOLDERS, SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
-    
-2.  KBB AND ITS OWNERS, SHAREHOLDERS, SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS MAKE NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR REQUIREMENTS. (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE. (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE. (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL ACCESSED, PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS. AND (v) ANY ERRORS WILL BE CORRECTED.
-    
-3.  ALL MATERIAL AND INFORMATION OBTAINED THROUGH THE USE OF THE SERVICE IS ACCESSED AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE ACCESSING OF ANY SUCH MATERIAL.
-    
-4.  NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM KBB.COM OR ITS AFFILIATES OR PARTNERS THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY WHATSOEVER.
-    
-5.  VEHICLE VALUATIONS ARE OPINIONS AND MAY VARY FROM VEHICLE TO VEHICLE. ACTUAL VALUATIONS ARE BASED UPON CURRENT AVAILABLE INFORMATION AND ANALYSIS OF MARKET CONDITIONS, AND WILL VARY DEPENDING ON SPECIFICATIONS, VEHICLE CONDITION OR OTHER PARTICULAR CIRCUMSTANCES PERTINENT TO A PARTICULAR VEHICLE OR THE TRANSACTION OR THE PARTIES TO THE TRANSACTION. KBB ASSUMES NO RESPONSIBILITY FOR THE ACCURACY OF VEHICLE VALUES AND NO RESPONSIBILITY FOR ERRORS OR OMISSIONS.
+5.  **Survival:** This arbitration agreement survives the termination of these TOS between you and KBB.
     
 
-14\. LIMITATION OF LIABILITY
+12\. JURY TRIAL WAIVER. You and KBB expressly and knowingly **WAIVE THE RIGHT TO TRIAL BY JURY.** This means that if for any reason the arbitration agreement contained in Section 11 is not enforced or is found inapplicable, our claims against each other will be resolved by a judge rather than a jury. 13. Disclaimer of Warranties:
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT KBB AND ITS OWNERS, SHAREHOLDERS, SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF KBB HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICE. (ii) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES OBTAINED OR RECEIVED OR TRANSACTIONS ENTERED INTO AS A RESULT OF YOUR USE OF THE SERVICE. (iii) STATEMENTS OR CONDUCT OF ANY THIRD PARTY RELATED TO THE SERVICE. OR (iv) ANY OTHER MATTER RELATING TO THE SERVICE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 13 AND 14 MAY NOT APPLY.
+You Expressly Understand and Agree That:
 
-15\. INDEMNITY AND RELEASE
+1.  Your use of the service is at your sole risk. Kbb provides the service to you on an "as is" and "as available" basis. Kbb and its owners, shareholders, subsidiaries, affiliates, officers, employees, agents, partners and licensors expressly disclaim all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+    
+2.  Kbb and its owners, shareholders, subsidiaries, affiliates, officers, employees, agents, partners and licensors make no warranty that (i) the service will meet your requirements. (ii) the service will be uninterrupted, timely, secure or error-free. (iii) the results that may be obtained from the use of the service will be accurate or reliable. (iv) the quality of any products, services, information or other material accessed, purchased or obtained by you through the service will meet your expectations. and (v) any errors will be corrected.
+    
+3.  All material and information obtained through the use of the service is accessed at your own discretion and risk, and you will be solely responsible for any damage to your computer system or loss of data that results from the accessing of any such material.
+    
+4.  No advice or information, whether oral or written, obtained by you from kbb.com or its affiliates or partners through or from the service shall create any warranty whatsoever.
+    
+5.  Vehicle valuations are opinions and may vary from vehicle to vehicle. Actual valuations are based upon current available information and analysis of market conditions, and will vary depending on specifications, vehicle condition or other particular circumstances pertinent to a particular vehicle or the transaction or the parties to the transaction. Kbb assumes no responsibility for the accuracy of vehicle values and no responsibility for errors or omissions.
+    
 
-When you use kbb.com, you are agreeing to indemnify KBB, its owners, shareholders, subsidiaries, affiliates, officers, employees, partners, and licensors and hold them harmless from any and all claims and expenses, including attorney's fees, arising from your use of the kbb.com Web site, your use of the Service, or your submission of Contributions as set forth in Section 4 above. By using kbb.com you are agreeing to release KBB and its owners, shareholders, subsidiaries, affiliates, officers, employees, partners, and licensors from any and all claims, fees, costs, damages and obligations of any kind whatsoever that you may have against them arising out of or in any way related to such claims or obligations and to any disputes regarding use of ideas and/or related materials submitted to kbb.com. **YOU HEREBY AGREE TO WAIVE ALL LAWS THAT MAY LIMIT SUCH RELEASES. FOR EXAMPLE, YOU SPECIFICALLY AGREE TO WAIVE THE PROVISIONS OF CALIFORNIA CIVIL CODE SECTION 1542, WHICH PROVIDES:**
+14\. Limitation of Liability
 
-**"A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IS KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR."**
+You expressly understand and agree that kbb and its owners, shareholders, subsidiaries, affiliates, officers, employees, agents, partners and licensors shall not be liable to you for any direct, indirect, incidental, special, consequential or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if kbb has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the service. (ii) the cost of procurement of substitute goods or services resulting from any goods, data, information or services obtained or received or transactions entered into as a result of your use of the service. (iii) statements or conduct of any third party related to the service. or (iv) any other matter relating to the service. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the above limitations of sections 13 and 14 may not apply.
 
-16\. CHANGES AND UPDATES TO THESE TERMS OF SERVICE
+15\. Indemnity and Release
+
+When you use kbb.com, you are agreeing to indemnify KBB, its owners, shareholders, subsidiaries, affiliates, officers, employees, partners, and licensors and hold them harmless from any and all claims and expenses, including attorney's fees, arising from your use of the kbb.com Web site, your use of the Service, or your submission of Contributions as set forth in Section 4 above. By using kbb.com you are agreeing to release KBB and its owners, shareholders, subsidiaries, affiliates, officers, employees, partners, and licensors from any and all claims, fees, costs, damages and obligations of any kind whatsoever that you may have against them arising out of or in any way related to such claims or obligations and to any disputes regarding use of ideas and/or related materials submitted to kbb.com. **You hereby agree to waive all laws that may limit such releases. For example, you specifically agree to waive the provisions of California civil code section 1542, which provides:**
+
+**"A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which is known by him must have materially affected his settlement with the debtor."**
+
+16\. Changes and Updates to These Terms of Service
 
 KBB may occasionally update or change these Terms of Service, so we encourage you to view them often. Your continued use of the Service constitutes your agreement to these TOS and any updates.
 
-17\. GENERAL INFORMATION
+17\. General Information
 
 Choice of Law and Forum. The TOS and the relationship between you and KBB shall be governed by the laws of the State of California without regard to its conflict of law provisions. You and KBB agree to submit to the personal and exclusive jurisdiction of the courts located within Orange County, California. Waiver and Severability of Terms. The failure of KBB to exercise or enforce any right or provision of the TOS shall not constitute a waiver of such right or provision. If any provision of the TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the TOS remain in full force and effect. Entire Agreement. The TOS constitutes the entire agreement between you and KBB and governs your use of the Service, superseding any prior TOS with respect to the Service. You also may be subject to additional terms and conditions that may apply when you use or purchase certain other KBB services, affiliate or third-party services. Statute of Limitations. You agree that any claim, demand, or cause of action (“Claim”) arising out of or related to the Service or your access or visit to kbb.com or these TOS must be filed by you within one (1) year after such claim arose, or it is forever barred.
 
-18\. REPORTING VIOLATIONS OF THE TOS
+Reporting Violations to the TOS
 
 Please report any violations of the TOS to Kelley Blue Book customer service.
 
