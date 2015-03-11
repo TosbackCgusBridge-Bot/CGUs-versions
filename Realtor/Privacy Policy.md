@@ -15,7 +15,18 @@ Introduction
 
 MOVE TAKES MATTERS OF PRIVACY AND INFORMATION SERIOUSLY. Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Sites (as defined below), including by both consumers and Professionals. “Professional(s)” means individuals, companies and other organizations or persons acting as real estate professionals or otherwise engaged in a business relevant to the Sites, including, without limitation, REALTORS® , agents, providers of moving-related services, products or information, homebuilders, lenders, brokers, real estate professionals, re-modelers, seniors-related housing, product or service providers, home service professionals and other service professionals. Except as otherwise indicated, Professionals, consumers and other persons using the Sites are individually and collectively referred to as “you,” and Move, Inc., a subsidiary of News Corp, together with its affiliates, is referred to as, “Move”, “we”, “us” and “our.” “Consumer” (or “consumer”) shall have its ordinary meaning but generally includes any visitor to or user of the Sites other than Professionals. We use the Sites to provide you with information, resources, tools, products and services specific to the real estate industry and related markets, and to provide you with information about us and our advertisers, and our respective products and services.
 
-The Move family of Web sites, and mobile apps, mobile-optimized Web sites and other applications and/or electronic media (such as emails Move sends), linking to or bearing this Privacy Policy and operated by or on behalf of Move (collectively, the “Sites,” and each, a “Site”) are committed to implementing policies and procedures designed to provide for privacy and security and deliver the best possible online experience.  To that end, we want you to understand what kinds of information we gather about you, how this information, particularly Personal Information (defined below), is used and safeguarded, and how you can control its use.  The Move family of Web sites includes, but is not necessarily limited to, http://www.move.com/,http://www.realtor.com/, http://newhomes.move.com/, http://www.moving.com/, http://www.relocation.com/,http://www.doorsteps.com/, http://www.topproducer.com/, http://www.tigerlead.com/,http://www.fivestreet.com/, http://www.listhub.com and http://www.homefair.com/.
+The Move family of Web sites, and mobile apps, mobile-optimized Web sites and other applications and/or electronic media (such as emails Move sends), linking to or bearing this Privacy Policy and operated by or on behalf of Move (collectively, the “Sites,” and each, a “Site”) are committed to implementing policies and procedures designed to provide for privacy and security and deliver the best possible online experience.  To that end, we want you to understand what kinds of information we gather about you, how this information, particularly Personal Information (defined below), is used and safeguarded, and how you can control its use.  The Move family of Web sites includes, but is not necessarily limited to:  
+http://www.move.com  
+http://realtor.com  
+http://newhomes.move.com/  
+http://www.moving.com/  
+http://www.relocation.com/  
+http://www.doorsteps.com/  
+http://www.topproducer.com/  
+http://www.tigerlead.com/  
+http://www.fivestreet.com/  
+http://www.listhub.com  
+http://www.homefair.com/
 
 In conjunction with this Privacy Policy, you should also review our Terms of Use for a more complete understanding of the rules governing our Sites.  Click here for information on Internet safety and security from the Federal Trade Commission.
 
