@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (3)
 *   track order
 *   ship to
 
@@ -16,16 +16,16 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (3)
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13311011798
+true true C13314656660
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Mar 09 04:37:35 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Tue Mar 10 11:11:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -45,42 +45,59 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Spring Style Sale shop the sale view store ad30-40% Off Worthington
-    
-    Select styles.
-    
-    shop now shop now25-40% Off Liz Claiborne
-    
-    Select styles.
-    
-    shop now shop now25-40% Off Dresses
-    
-    Select styles.
-    
-    shop now shop now
-*   30-50% Off Comforters and Bedding Sets
-    
-    Select styles.
-    
-    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+Extra 25% Off\*
 
-Your Cinderella and Disney Collection Destination
+Online only. Ends March 11. Code: COUNTDWN
 
-With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
+Extra 25% Off\* for 25 Hours Only!
 
-shop Disney shop CinderellaCinderella in theatres March 13.
+Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades.
 
-JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
-
-watch Disney's Cinderella movie trailer 25-40% Off Select Liz Claiborne Shoes and Handbags shop now 40% Off Select Juniors' Prom shop now 50% Off During Our Men's Semi-Annual Wardrobe Sale
+\*See exclusions and details. Home Sale 30-50% Off
 
 Select styles.
 
-shop now 40-50% Off Select Kids' Arizona shop now LOVE YOUR FIT - Bra Fit Event March 8 through 21.
+shop comforters shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage Spring Style Sale shop the sale view store ad all you need to finish your look 30-40% Off Worthington
 
-More sizes, more styles, more you.
+Select styles.
 
-40% Off Select Bras When You Buy 2 or More shop now 30-60% Off Select Fashion Jewelry shop now 50-80% Off Red Zone Clearance Selections
+shop Worthington shop Worthington 25-40% Off Liz Claiborne
+
+Select styles.
+
+shop Liz Claiborne shop Liz Claiborne 25-40% Off Dresses
+
+Select styles.
+
+shop dresses shop dresses 30-60% Off Fashion Jewelry
+
+Select styles.
+
+shop now 40% Off Bras When You Buy 2 or More
+
+Select styles.
+
+shop now 25-40% Off Shoes
+
+Select styles.
+
+shop shoes 25-40% Off Handbags
+
+Select styles.
+
+shop handbags shop handbags Your Cinderella and Disney Collection Destination
+
+With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
+
+shop Disney shop CinderellaFree Movie Ticket
+
+Spend $50 on Disney Collection merchandise through April 15 and receive a free movie ticket to see Disney's Cinderella. Ticket will be awarded in the form of a voucher to be redeemed for a movie ticket that is valid for one admission (up to $12).
+
+get detailsCinderella in theatres March 13.
+
+JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
+
+watch Disney's Cinderella movie trailer 50-80% Off Red Zone Clearance Selections
 
 In store and online.
 
