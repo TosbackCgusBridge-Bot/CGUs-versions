@@ -241,12 +241,12 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Bath
             *   Blankets &. Throws
             *   Storage &. Organization
+            *   Beach Towels
             *   Totes
             *   Home Décor &. Gifts
             *   Luggage &. Bags
             *   Kids Home
             *   Dog Shop
-            *   Beach Towels
 *   Uniforms
     *   *   Back to Main Menu Uniforms
         *   Find your School
