@@ -285,6 +285,24 @@ From time to time, we may update this privacy statement. We will notify you abou
 
 _The Privacy Statement posted on this Site was updated on January 3, 2015._
 
+In Case You Missed It 
+
+Powered By The Sun Solar-powered plane makes first leg of round-the-world flight
+
+*   First glimpse of new 'Supergirl'
+*   Is U.S. Air Force superiority under threat?
+*   Photos: Selma commemorates 'Bloody Sunday'
+*   Bergen: Boko Haram is newest ISIS ally
+*   Laser weapon melts truck engine from a mile away
+*   Report: Cycling looked other way on Armstrong
+*   The poor kids of Silicon Valley
+*   Navy's newest crew: 'The Three Presidents'
+*   Photos: Houses made famous by Hollywood
+*   Lion opens car door, terrifies family
+*   'Big Bang' pays tribute to Leonard Nimoy
+*   Son of NBA player is 6-foot-10 -- at age 15
+*   TV networks swing the ax
+
 1.  News
     1.  World
     2.  Sport
