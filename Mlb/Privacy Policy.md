@@ -32,7 +32,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Watch / Listen
     *   Instant Replay
     *   Statcast
-    *   MLB Fan Cave
     *   MLB Network
     *   120 Sports
     *   Podcasts
