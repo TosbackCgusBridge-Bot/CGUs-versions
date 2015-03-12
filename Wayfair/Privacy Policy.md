@@ -612,7 +612,7 @@ Our Lift-Gate service features a skilled delivery team that will unload the item
 
 Front Door: Drop-Off
 
-Our Front Door: Drop-Off offers an extra set of hands. A skilled delivery team will unload the item(s) from the truck and take it to the first available ry area outside your home (front door, porch, or garage). You will then be responsible for further transport beyond that point.
+Our Front Door: Drop-Off offers an extra set of hands. A skilled delivery team will unload the item(s) from the truck and take it to the first available dry area outside your home (front door, porch, or garage). You will then be responsible for further transport beyond that point.
 
 *   Appointment Scheduling: You will be notified of your delivery date and 4-hour appointment window via email once your item(s) arrive at the local terminal. The delivery terminal's contact information will be included in case you need to reschedule your delivery.
 *   Signature Required: No. You are not required to be present to accept the delivery. Your item(s) will be left in the first available dry area, as long as the delivery team determines the area is safe and secure
