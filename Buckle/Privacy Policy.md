@@ -1,6 +1,6 @@
-Free Nixon headphones.
+Don't get pinched.
 
-Here’s how.
+Shop green.
 
 Online Orders 800-607-9788
 
