@@ -4,7 +4,8 @@
 *   registry
 
 *   my account
-*   saved items: (3)
+*   no saved items
+*   recommendations
 *   track order
 *   ship to
 
@@ -16,16 +17,17 @@
     
 *   my account
 
-*   saved items: (3)
+*   no saved items
+*   recommendations
 *   track order
 *   ship to
 
 *   customer service
     
 
-true true C13314656660
+true true C13317209766
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Tue Mar 10 11:11:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Mar 11 09:59:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -119,6 +121,8 @@ Sponsored content.
 
 shop now
 
+Recommendations Discover handpicked items we think you'll love. sign in
+
 get connected
 
 *   1.800.322.1189
@@ -151,6 +155,7 @@ MORE WAYS TO SHOP
 
 *   see our ads
 *   coupons
+*   recommendations
 *   jcpenney rewards
 *   jcpenney credit card
 *   gift cards
