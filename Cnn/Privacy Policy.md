@@ -2,7 +2,7 @@ Cookie consent
 
 We use cookies to improve your experience on this website. By continuing to browse our site you agree to our use of cookies. Tell me more | Cookie preferences
 
-Breaking News Please select your default edition:InternationalU.S.Mexico
+Breaking News
 
 International Edition
 
@@ -10,8 +10,8 @@ International Edition
 *   International
 *   Arabic
 *   Español
-*   Mexico
 *   Set edition preference
+*   Confirm
 
 Sign in
 
@@ -287,21 +287,21 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
 
 In Case You Missed It 
 
-Powered By The Sun Solar-powered plane makes first leg of round-the-world flight
+CNN Films The evolution of hacking I hacked into a nuclear facility in the '80s. You're welcome.
 
-*   First glimpse of new 'Supergirl'
-*   Is U.S. Air Force superiority under threat?
+*   Hacking, '80s style
+*   Daughter: 'I'm a boy' - Parenting a transgender child
+*   The fastest plane in the world
+*   3-deck plane of future could hold 800
+*   Cavers find treasure from era of Alexander the Great
 *   Photos: Selma commemorates 'Bloody Sunday'
-*   Bergen: Boko Haram is newest ISIS ally
-*   Laser weapon melts truck engine from a mile away
-*   Report: Cycling looked other way on Armstrong
-*   The poor kids of Silicon Valley
-*   Navy's newest crew: 'The Three Presidents'
+*   First glimpse of new 'Supergirl'
+*   'Star Wars' universe gets its first gay character
 *   Photos: Houses made famous by Hollywood
-*   Lion opens car door, terrifies family
-*   'Big Bang' pays tribute to Leonard Nimoy
-*   Son of NBA player is 6-foot-10 -- at age 15
-*   TV networks swing the ax
+*   World's largest machine gets ready to restart
+*   Did Jesus really have a brother?
+*   Laser weapon melts truck engine from a mile away
+*   Food mashups: From turducken to Cronut
 
 1.  News
     1.  World
@@ -352,8 +352,8 @@ International Edition
 *   International
 *   Arabic
 *   Español
-*   Mexico
 *   Set edition preference
+*   Confirm
 
 © 2015 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
 
