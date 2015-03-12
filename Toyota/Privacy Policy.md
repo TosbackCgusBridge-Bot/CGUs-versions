@@ -317,7 +317,7 @@ Torrance, CA 90501
 
 Go
 
-Sign up for toyota updates. Shopping Tools
+Sign up for toyota updates. Request a Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Trade-In Value
