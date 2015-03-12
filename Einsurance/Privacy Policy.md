@@ -6,14 +6,14 @@ customers &. websites on
 Trustworthiness?**  |  
   **REPUTATION**  
 
-E-Insure Services, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, EINSURANCE.COM.
+E-Insure Services, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, EINSURANCE.COM and does not cover information that may be collected through our mobile site.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
 
   
 Introduction
 
-E-Insure Services, Inc., recognizes the importance of protecting the privacy of personal information about our clients and others who visit our Web site. Within this context, the term "personal information" includes any personally identifying information you provide, whether online or by any other means. You may give E-Insure personal information when you register for an account or service, or when you communicate with us via telephone, fax, or e-mail. E-Insure's policy is never to share your personal information with any third party except as you _specifically_ permit or as required by law.  
+E-Insure Services, Inc. ("E-Insure"), recognizes the importance of protecting the privacy of personal information about our clients and others who visit our Web site. Within this context, the term "personal information" includes any personally identifying information you provide, whether online or by any other means. You may give E-Insure personal information when you register for an account or service, or when you communicate with us via telephone, fax, or e-mail. E-Insure's policy is never to share your personal information with any third party except as you _specifically_ permit or as required by law and only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.  
 
 Information Collection
 
@@ -27,7 +27,7 @@ E-Insure Services, Inc., is the sole owner of the information collected on **ein
 
 User Registration
 
-Many of the services available on **einsurance.com** require no registration, and may be accessed anonymously. Others, such as insurance quotes, require that a user first complete a registration form. During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code. This information uniquely identifies the user's account with E-Insure Services and enables us to select insurance providers that do business in the user's geographic region. The user may provide more extensive contact and personal information as well, such as cell phone, fax number, home phone number, height and weight and personal business affiliation though this is not required. We will occasionally contact the user via the provided e-mail address regarding the administration of the user's account. Subject to the user's approval, we may also use this information to contact the user about services on our site about which the user has expressed an interest.
+Many of the services available on **einsurance.com** require no registration, and may be accessed anonymously. Others, such as insurance quotes, require that a user first complete a registration form. During registration a user must provide a minimal set of identifying information, including the user's name, e-mail address, and zip code. This information uniquely identifies the user's account with E-Insure Services and enables us to select insurance providers that do business in the user's geographic region. The user may provide more extensive contact and personal information as well, such as cell phone, fax number, home phone number, height and weight, medical history and personal business affiliation though this is not required. We will occasionally contact the user via the provided e-mail address regarding the administration of the user's account. Subject to the user's approval, we may also use this information to contact the user about services on our site about which the user has expressed an interest.
 
 Insurance Quotes
 
@@ -63,12 +63,12 @@ As described above, a user's User Profile serves as a central repository of all 
 
 Cookies
 
-A cookie is a piece of data, stored on the user's computer that is tied to non-personal information about the user. We use both session ID cookies and persistent cookies.  
-Session ID cookies enable E-Insure to identify a specific user across multiple browser requests. Once users close the browser, the session ID cookie simply terminates. E-Insure uses a session ID cookie to ensure that, once a user logs into his account, only that user has access to his personal information. **Sections of this website that require users to log in will not function properly if the user has disabled cookies in his browser.**
+Technologies such as cookies, beacons, tags and scripts are used by E-Insure and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
+We use cookies to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. As a convenience during the log in process, a user may request that his browser remember the e-mail address that identifies his account, or the zip code and notification email address preferences for the quoting process. This function is implemented through the use of a persistent cookie.
+LSOs
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. on their site.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager.html#117118
 
 Log Files
 
@@ -86,9 +86,9 @@ Like most Web sites, E-Insure uses server log files. These logs may record detai
 
 E-Insure uses this information to analyze trends, administer the site, track user movements in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc., are _not_ linked to personal information. In other words, although we know precisely _what_ a user may have done during a particular visit to our site, we do not know _which_ user did it.  To assist us in performing these analyses, E-Insure uses popular log file tracking and analysis utilities including: Google Analytics and ChartBeat.
 
-Web Beacons
+Behavioral Targeting
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. To learn more about our advertising company’s use of clear gifs, please go to chartbeat.com
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 Communications
 
@@ -111,21 +111,21 @@ Our web site includes Social Media Features such as Facebook Like button and Goo
 
 This site uses the “Share This” widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one-time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the “Share This” widget. E-Insure shares no responsibility in regards to the personal information entered through the widget.
 
-You can also import email contacts using this widget. The widget will import email addresses from various email service providers into your account. Once the email addresses are imported you must manually click on each email you address you wish to send a communication to.
+You can also import email contacts using this widget. The widget will import email addresses from various email service providers into your account. Once the email addresses are imported you must manually click on each email you address you wish to send a communication to. The information is only used for the purpose it was collected.
 
 Sharing
 
-Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site. We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form _only_, and is not linked to any personal information about our users.  E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them. Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of _future_ sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party. **E-Insure currently has no third-party information sharing arrangements.**
+Though we at E-Insure Services make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We occasionally share aggregated demographic information with current and prospective partners and advertisers.  Such information is in aggregate form _only_, and is not linked to any personal information about our users.  E-Insure users can opt to have their personal information shared with reputable third parties deemed by E-Insure to have products or services of specific interest to them. Although E-Insure exerts no control over what such third parties do with this information once it is shared, users may at any time opt out of _future_ sharing.  E-Insure Services will personally notify users at any time we share their personal information with a third party. **E-Insure currently has no third-party information sharing arrangements.**
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **If you have reason to believe that any E-Insure affiliate, partner, or a related third party is violating your privacy**, we urge you to promptly notify our Customer Service department. If, following our investigation we determine that an affiliate has in fact violated a user's privacy, we will issue a single warning.  Future violations will result in the immediate termination of the business relationship.  In the event E-Insure goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users?  Personal information will, in most instances, be part of the assets transferred. You will be notified via email and/or a prominent notice on our web site of any chance in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Links
 
-This Web site contains links to other sites. Please be aware that E-Insure Services is not responsible for the privacy practices of such other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each and every Web site that collects personal information.
+This Web site contains links to other sites. Please be aware that E-Insure Services is not responsible for the privacy practices of such other sites. We encourage our users to be aware of when they leave our site and to read the privacy policies of each and every Web site that collects personal information.
 
-**This privacy statement applies solely to information collected by this Web site**. In certain cases—specifically when a user is filling out an application for one of E-Insure's on-line quote engine partners—E-Insure uses framing technology to present content from our and our partner's Web sites simultaneously. In every such case, we will clearly identify the framed partner Web page as an outside entity. E-Insure will _not_ allow any framed any web page to collect a user's personal information unless the page provides a level of security that meets our own high standard. Our site features access to the search engine Google where you have access to search for insurance sites or to browse the world wide web. Keep in mind that if you enter information in this search engine you will be taken off the einsurance.com web site.
+**This privacy policy applies solely to information collected by this Web site**. In certain cases—specifically when a user is filling out an application for one of E-Insure's on-line quote engine partners—E-Insure uses framing technology to present content from our and our partner's Web sites simultaneously. In every such case, we will clearly identify the framed partner Web page as an outside entity. E-Insure will _not_ allow any framed any web page to collect a user's personal information unless the page provides a level of security that meets our own high standard. Our site features access to the search engine Google where you have access to search for insurance sites or to browse the world wide web. Keep in mind that if you enter information in this search engine you will be taken off the einsurance.com web site.
 
 Feedback
 
@@ -133,7 +133,7 @@ E-Insure collects user feedback regarding each interaction with our partners. Th
 
 e Insurance Journal
 
-The mission of the _e Insurance Journal_ is to help people and businesses make well-informed decisions about buying and managing insurance. Although _Journal_ articles are primarily written by insurance industry professionals, the editors highly encourage editorial contributions from the lay public. Although contributors are free to attach personal contact information to their articles and letters, E-Insure accepts no responsibility for the consequences of publishing such potentially sensitive information in the public domain.
+The mission of the _e Insurance Journal_ is to help people and businesses make well-informed decisions about buying and managing insurance. Although _Journal_ articles are primarily written by insurance industry professionals, the editors highly encourage editorial contributions from the lay public. Although contributors are free to attach personal contact information to their articles and letters, E-Insure accepts no responsibility for the consequences of publishing such potentially sensitive information in the public domain. If you want to update or delete the personal information you submitted with your editorial contribution, you can contact us at privacy@einsure.com
 
 Security
 
@@ -163,18 +163,7 @@ Chicago, IL 60603
 (855) 372-7400  
 privacy@einsure.com  
   
-EFFECTIVE DATE 7.10.2014 (Applies Only to the Policy Statements Above)
-
-\[ Back to Top \]
-
-  
-  
-**Privacy Protection Tools**  
-
-Network Advertising Initiative  
-Opt-Out Tool for blocking and removing your behavorial data captured by particpating member advertising networks.
-
-  
+EFFECTIVE DATE 3.11.20145 (Applies Only to the Policy Statements Above)
 
 \[ Back to Top \]
 
