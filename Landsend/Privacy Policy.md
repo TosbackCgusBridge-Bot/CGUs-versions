@@ -130,7 +130,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Activewear
-            *   Sleepwear
             *   Outerwear
             *   Backpacks &. Lunch Boxes
             *   Tights, Socks &. Underwear
@@ -149,7 +148,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Activewear
-            *   Sleepwear
             *   Outerwear
             *   Backpacks &. Lunch Boxes
             *   Ties &. Accessories
