@@ -4,8 +4,7 @@ X Lire les CGUEn poursuivant votre navigation sur ce site, vous acceptez que nou
 *   PagesBlanches
 *   PagesJaunes Pro
 
-*   Annuaire  
-    inversé
+*   Annuaire inversé
 *   Petites  
     Annonces
 *   Guides  
