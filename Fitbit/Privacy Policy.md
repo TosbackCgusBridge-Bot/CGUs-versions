@@ -16,7 +16,6 @@ Fitbit
     *   PurePulse
     *   Why Fitbit
 *   Fun
-    
     *   Celebrity Challenges
     *   Fit Science
     *   Blog
