@@ -13,7 +13,6 @@ Language: English Forgot your password? Email Password Login Join
 *   Home
 *   Jobs
 *   Companies
-*   Events
 
   Privacy Policy
 
