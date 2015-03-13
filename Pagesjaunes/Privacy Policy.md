@@ -7,31 +7,6 @@ X Lire les CGUEn poursuivant votre navigation sur ce site, vous acceptez que nou
 *   Annuaire inversé
 *   Petites  
     Annonces
-*   Guides  
-    Pratiques Fermer le menu Guides pratiques
-    
-    Les Guides Pratiques PagesJaunes
-    
-    Consultez des **services**, des **professionnels** autour de vous et plus de **350 guides et 600 fiches pratiques** rédigés par des spécialistes pour vous aider à mieux comprendre pour bien choisir...
-    
-    *   **Maison et Travaux**  
-        Rénover, Décorer, Aménager sa maison ?  
-        Voir les 115 guides
-    *   **Jardin**  
-        Aménager, Cultiver, Entretenir votre jardin ?  
-        Voir les 25 guides
-    *   **Immobilier**  
-        Acheter, Vendre, Louer un bien immobilier ?  
-        Voir les 16 guides
-    *   **Santé et Beauté**  
-        Rester en bonne santé, Prendre soin de soi ?  
-        Voir les 75 guides
-    *   **Argent**  
-        Gérer son argent, Assurer son patrimoine ?  
-        Voir les 35 guides
-    *   **Consultez tous les guides**  
-        Auto-Moto, BtoB, Démarches, Emploi, High-Tech...  
-        \+ de 300 guides
 *   Plus de  
     services Fermer le menu Plus de services
     
@@ -52,10 +27,6 @@ X Lire les CGUEn poursuivant votre navigation sur ce site, vous acceptez que nou
         *   Recherche détaillée
         *   Recherche par le nom France Entière
         *   Recherche de pros avec vidéos
-    
-    *   Appelez à l'étranger
-        *   Annuaires du monde
-        *   Indicatifs internationaux
     
     *   Professionnels
         *   Référencez-vous gratuitement  
