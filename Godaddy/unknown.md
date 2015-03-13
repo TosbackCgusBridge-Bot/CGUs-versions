@@ -1,4 +1,4 @@
-**Last Revised: March 9, 2015**
+**Last Revised: March 11, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -382,9 +382,9 @@ Mandated certain additional safeguards for the following top‐level domains: .g
 
 For Regulated TLDs you agree to comply with the following: (a) comply with all applicable laws, including those that relate to privacy, data collection, consumer protection (including in relation to misleading and deceptive conduct), fair lending, debt collection, organic farming, disclosure of data, and financial disclosures. (b) if you collect and maintain sensitive health and financial data you must implement reasonable and appropriate security measures commensurate with the offering of those services, as defined by applicable law.
 
-Mandated certain additional safeguards for the following top-level domains: .surgery, .dentist, .hospital, .medical, .doctor, .creditcard, .insurance, .bet, .bingo, .poker, .casino, .charity, .university, .attorney, .cpa, .lawyer, .corp, .gmbh, .inc, .llc, .ltd, .sarl, .fail, .gripe, .sucks, and .wtf (collectively, the “Highly--‐regulated TLDs”)
+Mandated certain additional safeguards for the following top-level domains: .surgery, .dentist, .hospital, .medical, .doctor, .creditcard, .insurance, .bet, .bingo, .poker, .casino, .charity, .university, .attorney, .cpa, .lawyer, .corp, .gmbh, .inc, .llc, .ltd, .sarl, .fail, .gripe, .sucks, and .wtf (collectively, the “Highly-Regulated TLDs”)
 
-In addition to the requirement for Regulated TLDs, you agree to comply with the following: (a) you will p Provide administrative contact information, which must be kept up‐to‐date, for the notification of complaints or reports of registration abuse, as well as the contact details of the relevant regulatory, or Industry self‐regulatory, bodies in their main place of business. (b) you represent that you possess any necessary authorizations, charters, licenses and/or other related credentials for participation in the sector associated with such Highly‐regulated TLD. and (c) you will report any material changes to the validity of you authorizations, charters, licenses and/or other related credentials for participation in the sector associated with the Highly‐regulated TLD to ensure you continue to conform to the appropriate regulations and licensing requirements and generally conduct your activities in the interests of the consumers they serve.
+In addition to the requirement for Regulated TLDs, you agree to comply with the following: (a) you will provide administrative contact information, which must be kept up‐to‐date, for the notification of complaints or reports of registration abuse, as well as the contact details of the relevant regulatory, or Industry self‐regulatory, bodies in their main place of business. (b) you represent that you possess any necessary authorizations, charters, licenses and/or other related credentials for participation in the sector associated with such Highly‐regulated TLD. and (c) you will report any material changes to the validity of you authorizations, charters, licenses and/or other related credentials for participation in the sector associated with the Highly‐regulated TLD to ensure you continue to conform to the appropriate regulations and licensing requirements and generally conduct your activities in the interests of the consumers they serve.
 
 26\. provisions specific to famous four TLD registrations: .bid. .cricket. .party. .science. .trade
 
@@ -450,9 +450,13 @@ Submit to proceedings commenced under other dispute policies as set forth by Reg
 
 Notwithstanding anything in this Agreement to the contrary, Wedding TLD2, LLC, the Registry Operator of the .MENU TLD, is and shall be an intended third party beneficiary of this Agreement.  As such the parties to this agreement acknowledge and agree that the third party beneficiary rights of Wedding TLD2, LLC have vested and that Wedding TLD2, LLC has relied on its third party beneficiary rights under this Agreement in agreeing to GoDaddy being a registrar for the .MENU TLD.  Additionally, the third party beneficiary rights of Wedding TLD2, LLC shall survive any termination of this Agreement.
 
-34\. PROVISIONS SPECIFIC TO Minds and Machines TLDS: .casa. .London; .work. .yoga REGISTRATIONS
+34\. PROVISIONS SPECIFIC TO Minds and Machines TLDS: .casa. .FASHION. .FIT. .GARDEN. .London. .WEDDING. .work. .yoga REGISTRATIONS
 
 You agree to be bound by the Registry polices located here.  You agree to indemnify, defend and hold harmless the Registry and its subcontractors, and its and their directors, officers, employees, agents and affiliates from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses arising out of or relating to, for any reason whatsoever, your domain name registration.  This obligation shall survive expiration or termination of this Agreement.  
+
+Mandatory certain additional safeguards for the following top-level domains: .FASHION, .FIT (collectively, the "Regulated TLDs")
+
+For Regulated TLDs you agree to comply with the following: (a) comply with all applicable laws, including those that relate to privacy, data collection, consumer protection (including in relation to misleading and deceptive conduct), fair lending, debt collection, organic farming, disclosure of data, and financial disclosures. (b) if you collect and maintain sensitive health and financial data you must implement reasonable and appropriate security measures commensurate with the offering of those services, as defined by applicable law.
 
 35\. provisions specific to .Moe Registrations
 
