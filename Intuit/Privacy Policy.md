@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13317209766
+true true L13448561997
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Mar 11 09:59:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p34.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Thu Mar 12 05:50:18 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,47 +47,42 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Extra 25% Off\*
+Online Only, Orders Over $100
 
-Online only. Ends March 11. Code: COUNTDWN
+Extra 25% Off\* with your JCPenney Credit Card.
 
-Extra 25% Off\* for 25 Hours Only!
+Or, Extra 20% Off\* with any other method of payment.
 
-Or, Extra 15% Off\* watches, furniture, mattresses and custom blinds and shades.
+In Store and Online
 
-\*See exclusions and details. Home Sale 30-50% Off
+Extra 20% Off\* with your JCPenney Credit Card.
 
-Select styles.
+Or, Extra 15% Off\* with any other method of payment.
 
-shop comforters shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage Spring Style Sale shop the sale view store ad all you need to finish your look 30-40% Off Worthington
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
 
-Select styles.
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
 
-shop Worthington shop Worthington 25-40% Off Liz Claiborne
+Ends March 15. Online Code: CRDEVNT2
 
-Select styles.
+\*See exclusions and details. print store coupon
 
-shop Liz Claiborne shop Liz Claiborne 25-40% Off Dresses
+*   Spring Refresh Sale shop the sale view store ad30-40% Off Worthington
+    
+    Select styles. Worthington™, only at JCPenney.
+    
+    shop Worthington shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop accessories shop jewelryHundreds of Night and Day Doorbusters
+    
+    Use your coupon and save even more! Friday, 3PM CST through Saturday, 1PM CST.
+    
+    view doorbusters
+*   30-50% Off Comforters and Bedding Sets
+    
+    Select styles.
+    
+    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 
-Select styles.
-
-shop dresses shop dresses 30-60% Off Fashion Jewelry
-
-Select styles.
-
-shop now 40% Off Bras When You Buy 2 or More
-
-Select styles.
-
-shop now 25-40% Off Shoes
-
-Select styles.
-
-shop shoes 25-40% Off Handbags
-
-Select styles.
-
-shop handbags shop handbags Your Cinderella and Disney Collection Destination
+Your Cinderella and Disney Collection Destination
 
 With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
 
@@ -99,7 +94,23 @@ get detailsCinderella in theatres March 13.
 
 JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
 
-watch Disney's Cinderella movie trailer 50-80% Off Red Zone Clearance Selections
+watch Disney's Cinderella movie trailer The Shoe and Handbag Event
+
+All you need to finish your look.
+
+25-40% Off Select Shoes and Handbags shop now 25-40% Off Select Dresses shop now 30-40% Off Select Fashion Accessories shop now 40-50% Off Select Kids' Dress Clothes shop now 50% Off During Our Men's Semi-Annual Warddrobe Sale
+
+Select styles.
+
+shop now LOVE YOUR FIT - Bra Fit Event March 8 through 21.
+
+More sizes, more styles, more you.
+
+40% Off Select Bras When You Buy 2 or More shop now Our Biggest Window Sale 40-50% Off Window
+
+Select styles.
+
+shop window 50-80% Off Red Zone Clearance Selections
 
 In store and online.
 
@@ -115,11 +126,9 @@ shop now Easter Portraits
 
 50% off total purchase plus one free sitting fee valid through April 30, 2015.
 
-book your appointment now People StyleWatch Must Haves
+book your appointment now Say Hello to the All-New JCPenney App learn more download on the app store
 
-Sponsored content.
-
-shop now
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
