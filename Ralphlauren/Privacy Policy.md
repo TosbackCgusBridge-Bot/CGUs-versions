@@ -300,7 +300,7 @@ Attention: General Counsel EMEA
 Switzerland  
   
 Email: eu.privacy@ralphlauren.com  
-Back to Top     Safe Harbor Privacy Policy    Last modified: March 6, 2015 We at Ralph Lauren Corporation (and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.  
+Back to Top     Safe Harbor Privacy Policy    Last modified: March 6, 2015 We at Ralph Lauren Corporation and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.  
   
 For purposes of this Policy:  
   
@@ -309,6 +309,7 @@ For purposes of this Policy:
 "Customer" means any individual who is a potential or actual consumer of Ralph Lauren, or any of its affiliates in the EEA or Switzerland or Partners, and who is located in the EEA or Switzerland.  
   
 "EEA" means the European Economic Area.  
+  
 “Partner” means any licensing or franchising partner or other third party operating a store under any of the Ralph Lauren brands.  
   
 "Personal Information" means information that (i) is transferred to the United States from the EEA or Switzerland, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable individual, and (iv) can be linked to that individual.  
@@ -367,7 +368,7 @@ Ralph Lauren takes reasonable steps to ensure that Personal Information the comp
   
 Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented.  
   
-Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at http://www.jamsadr.com/safeharbor/. (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices  
+Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at http://www.jamsadr.com/safeharbor/. (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant data protection authorities in the EU or Switzerland. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices  
   
 **How to Contact Us**  
   
