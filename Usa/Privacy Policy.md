@@ -10,10 +10,10 @@ Change country/language X
 My Account
 
  Autodesk Account  
+(includes all Subscriptions)  
  A360  
  Education Community  
  Education Community  
- Maintenance Subscription
 
 Need help? Visit our Sign in FAQs.
 
