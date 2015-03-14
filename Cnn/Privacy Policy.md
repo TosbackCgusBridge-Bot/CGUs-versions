@@ -287,21 +287,21 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
 
 In Case You Missed It 
 
-CNN Films The evolution of hacking I hacked into a nuclear facility in the '80s. You're welcome.
+CNN Exclusive Prince Charles opens up about love and life Photos: Charles and Camilla
 
-*   Hacking, '80s style
+*   The week in 32 photos
+*   It's happening! 'Frozen 2' on its way
+*   Rare photos of Osama bin Laden's hideout
+*   These foods aren't as healthy as you think
+*   I hacked into a nuclear facility in the '80s
 *   Daughter: 'I'm a boy' - Parenting a transgender child
 *   The fastest plane in the world
-*   3-deck plane of future could hold 800
-*   Cavers find treasure from era of Alexander the Great
-*   Photos: Selma commemorates 'Bloody Sunday'
-*   First glimpse of new 'Supergirl'
-*   'Star Wars' universe gets its first gay character
 *   Photos: Houses made famous by Hollywood
-*   World's largest machine gets ready to restart
-*   Did Jesus really have a brother?
+*   Cavers find treasure from era of Alexander the Great
+*   Opinion: Why are these NFLers retiring early?
+*   Bette Midler sings Kim Kardashian's tweets
 *   Laser weapon melts truck engine from a mile away
-*   Food mashups: From turducken to Cronut
+*   Stadium to offer hot dog served in doughnut
 
 1.  News
     1.  World
