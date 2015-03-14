@@ -63,14 +63,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Tiebreaker rules
 *   Schedule Schedule Schedule
     *   2015 Spring Training
-    *   First workout dates
     *   2015 Regular Season
     *   Important Dates
     *   Team-by-Team Schedule
     *   National Broadcasts
     *   2014 Postseason
     *   Probable Pitchers
-    *   2014 Arizona Fall League
     *   MLB Singles
 *   Players Players Players
     *   Player Search
