@@ -3,7 +3,6 @@ Skip to Content Sony
 *   Who We Are
     *   Overview
     *   Our Businesses
-    *   Leadership Team
     *   Be Moved
 *   Company News
     *   Overview
