@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (10)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  Georgi
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (10)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13324035707
+true true C13326551169
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Fri Mar 13 03:13:26 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sat Mar 14 11:25:28 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -65,39 +65,20 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
 
 Ends March 15. Online Code: CRDEVNT2
 
-\*See exclusions and details. print store coupon Spring Refresh Sale shop the sale view store ad50% Off Worthington Apparel
+\*See exclusions and details. print store coupon
 
-Select styles. Worthington™, only at JCPenney.
+*   Spring Refresh Sale shop the sale view store ad30-40% Off Worthington
+    
+    Select styles. Worthington™, only at JCPenney.
+    
+    shop Worthington shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop accessories shop jewelry
+*   30-50% Off Comforters and Bedding Sets
+    
+    Select styles.
+    
+    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 
-shop Worthington shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop accessories shop jewelryHundreds of Night and Day Doorbusters
-
-Use your coupon and save even more! Friday, 3PM CST through Saturday, 1PM CST.
-
-shop doorbusters Doorbusters
-
-60% Off Select Sheets and Sheet Sets
-
-shop now Doorbusters
-
-$6.99 Select A.N.A, St. John's Bay and Stylus Tees
-
-shop now Doorbusters
-
-50% Off Select Fashion Flip-Flops and Sunglasses
-
-shop now Doorbusters
-
-50% Off Select Liz Claiborne Sandals
-
-shop now Doorbusters
-
-50% Off Select Kids' Dress Clothes
-
-shop now Doorbusters
-
-$9.99 Select Men's St. John's Bay Polos
-
-shop now Your Cinderella and Disney Collection Destination
+Your Cinderella and Disney Collection Destination
 
 With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
 
@@ -109,7 +90,19 @@ get detailsCinderella in theatres March 13.
 
 JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
 
-watch Disney's Cinderella movie trailer Our Biggest Window Sale 40-50% Off Window
+watch Disney's Cinderella movie trailer The Shoe and Handbag Event
+
+All you need to finish your look.
+
+25-40% Off Select Shoes and Handbags shop now 25-40% Off Select Dresses shop now 30-40% Off Select Fashion Accessories shop now 40-50% Off Select Kids' Dress Clothes shop now 50% Off During Our Men's Semi-Annual Warddrobe Sale
+
+Select styles.
+
+shop now LOVE YOUR FIT - Bra Fit Event March 8 through 21.
+
+More sizes, more styles, more you.
+
+40% Off Select Bras When You Buy 2 or More shop now Our Biggest Window Sale 40-50% Off Window
 
 Select styles.
 
