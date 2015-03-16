@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (10)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  Georgi
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (10)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13326551169
+true true 10.60.248.10 L13455079980
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sat Mar 14 11:25:28 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun Mar 15 05:13:47 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,84 +47,93 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Only, Orders Over $100
-
-Extra 25% Off\* with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* with any other method of payment.
-
-In Store and Online
-
-Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-Ends March 15. Online Code: CRDEVNT2
-
-\*See exclusions and details. print store coupon
-
-*   Spring Refresh Sale shop the sale view store ad30-40% Off Worthington
+*   home sale  
+    30-50% off ›
     
-    Select styles. Worthington™, only at JCPenney.
+    select styles
     
-    shop Worthington shop women's shop men's shop kids' shop baby shop juniors' shop shoes shop accessories shop jewelry
-*   30-50% Off Comforters and Bedding Sets
+*   the dress event  
+    40% off women's dresses ›
+    
+    select styles
+    
+*   the shoe &. handbag event ›  
+    25-40% off
+    
+    select styles
+    
+*   fashion jewelry ›  
+    30-60% off
+    
+    select styles
+    
+
+*   Home Sale 30-50% Off
     
     Select styles.
     
-    shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+    shop the home sale shop window shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+*   The Dress Event
+    
+    Now through April 4.
+    
+    40% Off Women's Dresses
+    
+    Select styles.
+    
+    shop now
+*   The Shoe and Handbag Event
+    
+    All you need to finish your look. March 12 through 28.
+    
+    25-40% Off Shoes and Handbags
+    
+    Select styles.
+    
+    shop shoes and handbags shop the style book
+*   30-60% Off Fashion Jewelry
+    
+    Select styles.
+    
+    shop jewelry
+    
+    Mixit™, only at JCPenney.
+    
+    shop Mixit
 
-Your Cinderella and Disney Collection Destination
+What's New
+
+Refresh your closet for spring. See what's trending now.
+
+shop women's shop jewelry shop men's shop shoes shop kids' shop home Your Cinderella and Disney Collection Destination
 
 With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
 
-shop Disney shop CinderellaFree Movie Ticket
+shop Disney shop CinderellaFree\* Movie Ticket
 
 Spend $50 on Disney Collection merchandise through April 15 and receive a free movie ticket to see Disney's Cinderella. Ticket will be awarded in the form of a voucher to be redeemed for a movie ticket that is valid for one admission (up to $12).
 
-get detailsCinderella in theatres March 13.
+get detailsDisney's Cinderella Now Playing
 
 JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
 
-watch Disney's Cinderella movie trailer The Shoe and Handbag Event
-
-All you need to finish your look.
-
-25-40% Off Select Shoes and Handbags shop now 25-40% Off Select Dresses shop now 30-40% Off Select Fashion Accessories shop now 40-50% Off Select Kids' Dress Clothes shop now 50% Off During Our Men's Semi-Annual Warddrobe Sale
-
-Select styles.
-
-shop now LOVE YOUR FIT - Bra Fit Event March 8 through 21.
-
-More sizes, more styles, more you.
-
-40% Off Select Bras When You Buy 2 or More shop now Our Biggest Window Sale 40-50% Off Window
-
-Select styles.
-
-shop window 50-80% Off Red Zone Clearance Selections
-
-In store and online.
-
-shop clearance JCP Rewards
+watch Disney's Cinderella movie trailer JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Spring Break Shop
+sign up today SportsFanShop
 
-Everything you need to soak up the sun.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
 
 shop now Easter Portraits
 
 50% off total purchase plus one free sitting fee valid through April 30, 2015.
 
-book your appointment now Say Hello to the All-New JCPenney App learn more download on the app store
+book your appointment now Love Your Fit
 
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Bra fit event, March 8 through 21. More sizes, more styles, more you.
+
+find a bra fit event near you
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
