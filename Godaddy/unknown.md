@@ -1,4 +1,4 @@
-**Last Revised: March 11, 2015**
+**Last Revised: March 16, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -504,7 +504,7 @@ You agree to indemnify, defend and hold harmless Registry Operator, and their su
 
 You acknowledge having read and understood and agrees to be bound by the terms and conditions of the CentralNic Dispute Resolution Policy, available at http://www.centralnic.com/support/dispute
 
-41\. provisions specific to ALL Radix TLD registrations: .host. .press. .space. .website.
+41\. provisions specific to ALL Radix TLD registrations: .host. .press. .SITE. .space. .website
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
