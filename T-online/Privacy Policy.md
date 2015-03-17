@@ -113,4 +113,4 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
       
     
 
-_Liebe Leserin, lieber Leser, aufgrund einer technischen Störung ist eine Kommentierung aktuell nicht möglich. Wir bitten Sie um etwas Geduld. Ihre Redaktion von t-online.de._
+_Liebe Leserin, lieber Leser, wir haben die Kommentarfunktion zu diesem Thema bewusst nicht geöffnet oder bereits wieder geschlossen. Warum wir das tun, erfahren Sie in der Stellungnahme der Chefredaktion. Weitere Hinweise finden Sie in unserer Netiquette. Wir danken für Ihr Verständnis._
