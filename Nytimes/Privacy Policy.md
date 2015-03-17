@@ -9,9 +9,9 @@ Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on December 15, 2014_
+_Last Updated on March 16, 2015_
 
-This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), The New York Times Home Delivery website, The New York Times Neediest Cases Fund, Times Skimmer, The New York Times Store, Times Journeys and The New York Times Learning Network websites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
+This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), The New York Times Home Delivery website, The New York Times Neediest Cases Fund, The New York Times Store, Times Journeys and The New York Times Learning Network websites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
 The New York Times Replica Edition, maintained by NewspaperDirect, is governed by its own Privacy Policy.
 
