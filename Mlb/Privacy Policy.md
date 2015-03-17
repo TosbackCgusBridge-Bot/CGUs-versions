@@ -13,18 +13,20 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Transactions
     *   History
     *   Events
+    *   Civil Rights Game
     *   All-Star Game
     *   Hall of Fame
+    *   Game Notes
     
     Featured
     *   Cut 4
     *   Sports on Earth
     *   Voices
     *   MLB.com Pipeline
+    *   Will Ferrell's epic day
     *   Awards
     *   Photos
-    *   Game Notes
-    *   Noticias en Espanol
+    *   Espanol
 *   Video Video Video
     
     In This Section
