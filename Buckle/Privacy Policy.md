@@ -1,6 +1,6 @@
-Don't get pinched.
+Getting away?
 
-Shop green.
+Start spring break here.
 
 Online Orders 800-607-9788
 
