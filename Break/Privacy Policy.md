@@ -106,7 +106,7 @@ Defy Media, LLC
 New York, NY 10018  
 Attn: California Privacy Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: zendeskfeedback@break.com
+E-mail: Privacy@defymedia.com
 
 The California Business &. Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to “Do Not Track” browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
 
@@ -141,4 +141,4 @@ Defy Media, LLC
 New York, NY 10018  
 Attn: California Privacy Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: zendeskfeedback@break.com
+E-mail: Privacy@defymedia.com
