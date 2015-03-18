@@ -108,9 +108,4 @@ Damit wir Ihnen passende Empfehlungen (z. B. Tarifoptimierung) und optimale Dien
   
 **E-Mail Center**
 
-*   E-Mail Center - Kalender  
-    
-      
-    
-
-_Liebe Leserin, lieber Leser, wir haben die Kommentarfunktion zu diesem Thema bewusst nicht geöffnet oder bereits wieder geschlossen. Warum wir das tun, erfahren Sie in der Stellungnahme der Chefredaktion. Weitere Hinweise finden Sie in unserer Netiquette. Wir danken für Ihr Verständnis._
+*   E-Mail Center - Kalender
