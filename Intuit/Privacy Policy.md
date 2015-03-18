@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (15)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  CORINA
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (15)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13330391683
+true true C13330767702
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Mon Mar 16 11:13:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Tue Mar 17 10:39:57 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,65 +47,24 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   home sale  
-    30-50% off ›
+*   St. Patrick's Day Extra 25% Off\*
     
-    select styles
+    Today only! Online only, March 17. CODE: STRT2SAV
     
-*   the dress event  
-    40% off women's dresses ›
+    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
     
-    select styles
-    
-*   the shoe &. handbag event ›  
-    25-40% off
-    
-    select styles
-    
-*   fashion jewelry ›  
-    30-60% off
-    
-    select styles
-    
-
-*   Home Sale 30-50% Off
+    \*See exclusions and details.
+*   40-50% Off Window
     
     Select styles.
     
-    shop the home sale shop window shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
-*   The Dress Event
-    
-    Now through April 4.
-    
-    40% Off Women's Dresses
-    
-    Select styles.
-    
-    shop now
-*   The Shoe and Handbag Event
-    
-    All you need to finish your look. March 12 through 28.
-    
-    25-40% Off Shoes and Handbags
-    
-    Select styles.
-    
-    shop shoes and handbags shop the style book
-*   30-60% Off Fashion Jewelry
-    
-    Select styles.
-    
-    shop jewelry
-    
-    Mixit™, only at JCPenney.
-    
-    shop Mixit
+    shop windowHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 
-What's New
+25-40% Off Select Shoes and Handbags shop now 40% Off Select Dresses shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now
 
-Refresh your closet for spring. See what's trending now.
+With Code: 7JEWELS
 
-shop women's shop jewelry shop men's shop shoes shop kids' shop home Your Cinderella and Disney Collection Destination
+\*See exclusions and details. Your Cinderella and Disney Collection Destination
 
 With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
 
@@ -123,17 +82,19 @@ Shop to earn $10 JCP Rewards.
 
 sign up today SportsFanShop
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+
+Excluded from coupon.
 
 shop now Easter Portraits
 
 50% off total purchase plus one free sitting fee valid through April 30, 2015.
 
-book your appointment now Love Your Fit
+book your appointment People StyleWatch Must Haves
 
-Bra fit event, March 8 through 21. More sizes, more styles, more you.
+Sponsored content.
 
-find a bra fit event near you
+shop now
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
