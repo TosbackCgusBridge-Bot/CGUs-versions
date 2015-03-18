@@ -473,7 +473,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   Dein SPIEGEL
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
-*   KulturSPIEGEL
+*   KULTUR SPIEGEL
 *   UniSPIEGEL
 
 *   **SPIEGEL GRUPPE**
