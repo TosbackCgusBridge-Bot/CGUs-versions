@@ -435,7 +435,7 @@ Our Family of Sites
     *   Science for Nature &. People
     *   Use Your Outside Voice
 
-**Copyright © 2015 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitations**
+**Copyright © 2015 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures**
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
 
