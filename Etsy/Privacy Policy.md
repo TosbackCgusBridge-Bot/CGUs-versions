@@ -1,48 +1,41 @@
 Privacy Policy
 
-We love our community at Etsy. You’ve trusted us with a big responsibility, and we’re committed to upholding a high standard when it comes to our privacy practices. It’s important to us that you’re comfortable on Etsy, so we provide options for you to control how much information you share and your communication preferences. We use secure technologies and follow best practices, as evidenced by TRUSTe's Privacy Seal, recognized and trusted by millions of consumers as a sign of responsible privacy practices. We believe in being transparent about our practices, which is why we provide a detailed Privacy Policy to explain how we gather, use and protect your information. We’ve pulled out the highlights here, in an effort to better communicate the key points.  
-  
+We love our community at Etsy. You’ve trusted us with a big responsibility, and we’re committed to upholding a high standard when it comes to our privacy practices. It’s important to us that you’re comfortable on Etsy, so we provide options for you to control how much information you share and your communication preferences. We use secure technologies and follow best practices, as evidenced by TRUSTe's Privacy Seal, recognized and trusted by millions of consumers as a sign of responsible privacy practices. We believe in being transparent about our practices, which is why we provide a detailed Privacy Policy to explain how we gather, use and protect your information. We’ve pulled out the highlights here, in an effort to better communicate the key points.
+
 By visiting Etsy's website or using Etsy's mobile applications, you are accepting the terms of this Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites. 
 
-Current policy published: June 09, 2014  
-  
+Current policy published: June 09, 2014
 
 Scope
 
-  
-This page highlights key points about the information Etsy collects or receives about you, how it is used, and your choices.  
-  
-**Read Etsy’s full Privacy Policy.**  
-  
+This page highlights key points about the information Etsy collects or receives about you, how it is used, and your choices.
+
+**Read Etsy’s full Privacy Policy.**
 
 Information Collected or Received
 
-  
-Etsy requires a member to provide a valid email address and choose a username connected with your site activity. Depending on the services you choose, additional information may be collected, for example: billing or payment information, a telephone number, and a physical address.  
-  
-You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed.  
-  
+Etsy requires a member to provide a valid email address and choose a username connected with your site activity. Depending on the services you choose, additional information may be collected, for example: billing or payment information, a telephone number, and a physical address.
+
+You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed.
+
 You may connect to Etsy with an external application, in which case Etsy may receive some information from that other service.
 
 We use cookies, clear gifs, log files, and flash cookies for several purposes, including to help understand how people interact with our site and services, in order to provide a better experience. For more information about cookies, see our Cookies &. Tracking Technologies page.
 
 Uses and Sharing
 
-  
 We use the information that we gather from our users in a number of ways, including to provide and improve our services, for targeted online marketing, and to communicate with you. We also partner with service providers and other third parties that collect, use, and analyze information about Etsy users.
 
 Etsy will not sell or disclose your personal information to third parties without your explicit consent, except as specified in our Privacy Policy.
 
 Choices
 
-  
-You may review and change your information in your account settings, and you may remove certain optional pieces of information.  
-  
+You may review and change your information in your account settings, and you may remove certain optional pieces of information.
+
 You may opt-out of receiving certain types of communications from Etsy in your account settings. And although Etsy does not currently respond to “do not track” browser headers, you may control online behavioral ads by opting out through this link: http://www.aboutads.info/choices/. You also may limit certain tracking by disabling cookies in your web browser.
 
 Important Information
 
-  
 Etsy has been awarded TRUSTe's Privacy Seal. If you have questions or concerns regarding our privacy policy or practices, please contact us at legal@etsy.com. If you are not satisfied with our response, you can contact TRUSTe.
 
 We’ll communicate when we make changes to our Privacy Policy, and we’ll update the revision date above.
@@ -51,31 +44,29 @@ Contact Us
 
 You can email us about the Privacy Policy at legal@etsy.com.
 
-**Privacy Policy**
+Privacy Policy
 
 At Etsy, we value our community. You trust us with your information, and we’re serious about that responsibility. We believe in transparency, and we’re committed to being upfront about our privacy practices, including how we treat personal information we collect or receive. We know you care about your privacy, too, so we provide settings that allow you to control how certain information is used on Etsy. This policy explains our privacy practices for Etsy.com (the “Site”), Etsy’s mobile applications (the “Apps”) and services provided by Etsy, Inc. or Etsy Ireland (collectively, “Etsy”). By visiting the Site or using the Apps, you are accepting the terms of this Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
 
 Current policy published: June 09, 2014
 
-**Verified Best Practices  
-  
-**
+Verified Best Practices
 
-Etsy has been awarded TRUSTe's Privacy Seal. This signifies our privacy policy and practices have been reviewed for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or concerns regarding our privacy policy or practices, please contact us at legal@etsy.com. If you are not satisfied with our response you can contact TRUSTe.  
-  
+Etsy has been awarded TRUSTe's Privacy Seal. This signifies our privacy policy and practices have been reviewed for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or concerns regarding our privacy policy or practices, please contact us at legal@etsy.com. If you are not satisfied with our response you can contact TRUSTe.
+
 Etsy complies with the US - EU Safe Harbor framework and the US - Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Etsy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view Etsy’s certification, please visit http://www.export.gov/safeharbor/.  
  
 
 Information Collected or Received
 
-Etsy will not disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy.  
-  
-As an Etsy member you are required to provide a valid email address at registration and choose a username or alias that may represent your identity on Etsy.  
-  
-Depending on which services you choose to use, Etsy may require additional information, such as a shop name, billing and payment information (including billing address, telephone number, credit card information), a telephone number, and/or a physical postal address. As a shop owner if you choose to enable the direct checkout service ("Direct Checkout"), Etsy may require information such as your social security number, identification ID or tax ID, date of birth, bank account information, credit card information and/or other proof of identification in order to verify your identity and provide this service to you. Credit card information on an account may be stored and used for both billing and payment purposes. Etsy may contact individual shop owners to confidentially request more information about their shops or items listed on the Site, to ensure compliance with our rules. Certain products or services on Etsy may require you to complete an application. any information you submit through the application processes will not be displayed publicly and will only be used internally by Etsy, unless otherwise specified.  
-  
-You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed in connection with your account and activity.  
-  
+Etsy will not disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy.
+
+As an Etsy member you are required to provide a valid email address at registration and choose a username or alias that may represent your identity on Etsy.
+
+Depending on which services you choose to use, Etsy may require additional information, such as a shop name, billing and payment information (including billing address, telephone number, credit card information), a telephone number, and/or a physical postal address. As a shop owner if you choose to enable the direct checkout service ("Direct Checkout"), Etsy may require information such as your social security number, identification ID or tax ID, date of birth, bank account information, credit card information and/or other proof of identification in order to verify your identity and provide this service to you. Credit card information on an account may be stored and used for both billing and payment purposes. Etsy may contact individual shop owners to confidentially request more information about their shops or items listed on the Site, to ensure compliance with our rules. Certain products or services on Etsy may require you to complete an application. any information you submit through the application processes will not be displayed publicly and will only be used internally by Etsy, unless otherwise specified.
+
+You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed in connection with your account and activity.
+
 Your username, Etsy ID or alias is publicly displayed and connected to your Etsy activity. Other people may see your date joined, reviews, ratings, profile information, items listed for sale, shop pages, sold item listings, and comments in community spaces. 
 
 Etsy automatically receives and records some information from your browser or your mobile device when you visit the Site or use the Apps, such as your IP address or unique device identifier, cookies and data about which pages you visit on the Site or on the Apps. This information helps us analyze and understand how the Site and the Apps work for members and visitors, and provide a more personalized experience for members and visitors. For more information about online tracking tools (including flash cookies) and how we use them, see our Cookies &. Tracking Technologies page or the section below in this policy on “_Information Sharing &. Disclosure_.”
@@ -92,41 +83,39 @@ Etsy’s Terms of Use require all account owners to be at least 18 years of age 
 
 Choice &. Control
 
-We know members of our community value having control over their own information, and therefore Etsy gives you the choice of providing, editing or removing certain information, as well as choice over how we contact you.  
-  
+We know members of our community value having control over their own information, and therefore Etsy gives you the choice of providing, editing or removing certain information, as well as choice over how we contact you.
+
 You may change or correct your Etsy account information (except your username) on the Site. You may also remove certain optional information on the Site that you no longer wish to be publicly visible, such as your full name.
 
-For various reasons, Etsy may contact you about our services or your activity. Some of these messages are required, service-related messages for members. Other messages are not required, and you can control which optional messages you choose to receive by changing your settings in your account. Learn more in the _Messages from Etsy_ section of this policy.  
-  
+For various reasons, Etsy may contact you about our services or your activity. Some of these messages are required, service-related messages for members. Other messages are not required, and you can control which optional messages you choose to receive by changing your settings in your account. Learn more in the _Messages from Etsy_ section of this policy.
+
 If you have optionally connected your account to an external, third-party application, such as Facebook, or an app developed using the Etsy API, you can remove permission for the app by changing your account settings.
 
 If you no longer wish to use Etsy’s services or receive service-related messages, then you may close your account. Learn how to close your account.
 
 Findability
 
-You may connect directly with your email service provider, your mobile device’s address book, or a social network account to import your contacts to Etsy. we do not retain the login information for your email service, mobile device, or social network site. You may be able to search for people you know by email address or phone number on the Site or by connecting to your mobile device’s contact list through the Apps. Finding your friends on Etsy helps you connect with them in community features. You can follow another member’s public activity, such as public Favorites or Treasury lists. When you begin following another member’s activity, they may receive an email notification (unless a member has opted-out of receiving this type of email).  
-  
+You may connect directly with your email service provider, your mobile device’s address book, or a social network account to import your contacts to Etsy. we do not retain the login information for your email service, mobile device, or social network site. You may be able to search for people you know by email address or phone number on the Site or by connecting to your mobile device’s contact list through the Apps. Finding your friends on Etsy helps you connect with them in community features. You can follow another member’s public activity, such as public Favorites or Treasury lists. When you begin following another member’s activity, they may receive an email notification (unless a member has opted-out of receiving this type of email).
+
 If you do not want your contacts to be able to find you on Etsy through your email address, phone number, or social networking connections, then you may opt-out through your account settings on the Site. If you do not wish to be located on Etsy via your full name, you may remove your name from your public account information on the Site. It is not possible to opt-out of being found via your username.
 
 Messages from Etsy
 
-On occasion, Etsy will contact you. Primarily, messages are delivered by email or by push notifications, and every account is required to keep a valid email address on file to receive messages. In some situations, Etsy may contact you by telephone, SMS message or physical mail in order to provide you with customer support or to provide you with information about products and features you my find of interest. You may update your contact preferences in your account settings.  
-  
-Some messages from Etsy are service-related and required for members. Examples of service-related messages include, but are not limited to: a welcome/confirmation email when you register your account, notification of an order, or correspondence with Etsy’s support team. These messages are not promotional in nature. You may not opt-out of receiving service-related messages from Etsy, unless you close your account.  
-  
-As a member, Etsy may also send you messages related to certain features or your activity on the Site or Apps. Etsy may also send you news or updates about changes to our Site, Apps, or services. By default, members will receive these messages via email or push notifications through the Apps, but you may choose to opt-out of getting certain messages through the settings on your Etsy account or mobile device.  
-  
-Etsy offers optional email newsletters. When you register for an account, or choose to subscribe, you will receive newsletters from us. Newsletters are available to both members and non-members. Members may subscribe or unsubscribe from optional newsletters under your account settings or by following the instructions contained in the newsletter emails. Non-members may subscribe by providing an email address, which will only be used by Etsy for these newsletters. Non-members may unsubscribe from newsletters by following the instructions contained in the newsletter emails.  
-  
+On occasion, Etsy will contact you. Primarily, messages are delivered by email or by push notifications, and every account is required to keep a valid email address on file to receive messages. In some situations, Etsy may contact you by telephone, SMS message or physical mail in order to provide you with customer support or to provide you with information about products and features you my find of interest. You may update your contact preferences in your account settings.
+
+Some messages from Etsy are service-related and required for members. Examples of service-related messages include, but are not limited to: a welcome/confirmation email when you register your account, notification of an order, or correspondence with Etsy’s support team. These messages are not promotional in nature. You may not opt-out of receiving service-related messages from Etsy, unless you close your account.
+
+As a member, Etsy may also send you messages related to certain features or your activity on the Site or Apps. Etsy may also send you news or updates about changes to our Site, Apps, or services. By default, members will receive these messages via email or push notifications through the Apps, but you may choose to opt-out of getting certain messages through the settings on your Etsy account or mobile device.
+
+Etsy offers optional email newsletters. When you register for an account, or choose to subscribe, you will receive newsletters from us. Newsletters are available to both members and non-members. Members may subscribe or unsubscribe from optional newsletters under your account settings or by following the instructions contained in the newsletter emails. Non-members may subscribe by providing an email address, which will only be used by Etsy for these newsletters. Non-members may unsubscribe from newsletters by following the instructions contained in the newsletter emails.
+
 A contact-importer feature is available to help you locate and connect with your friends and contacts who may be members of Etsy (see _Findability_). If someone in your contact list is not already a member, you may invite them to join Etsy. Recipients of email invitations may opt out of receiving future invitations by following instructions in the email invitation message.
 
 Community
 
 Etsy is both a marketplace and a community. We offer several features that allow members to connect and communicate in public or semi-public spaces, such as Forums, Teams and multimedia chat events. Please use common sense and good judgment when posting in these community spaces or sharing your personal information with others on Etsy. Be aware that any personal information you submit there can be read, collected, or used by others, or could be used to send you unsolicited messages. Etsy generally does not remove content from community spaces, and your posts may remain public after your account is closed. You are responsible for the personal information you choose to post in community spaces on Etsy. 
 
-Another Etsy member may follow your public activity on Etsy to receive updates, for example: when you create a public Treasury list or add an item to your public Favorites. You may choose to make certain activities private through your account settings on the Site. After a member has begun following your activity, you have the option to block that member through the Site if you do not wish to share your updates with that specific person.  
-  
- 
+Another Etsy member may follow your public activity on Etsy to receive updates, for example: when you create a public Treasury list or add an item to your public Favorites. You may choose to make certain activities private through your account settings on the Site. After a member has begun following your activity, you have the option to block that member through the Site if you do not wish to share your updates with that specific person.  
 
 Information Sharing &. Disclosure
 
@@ -166,4 +155,12 @@ Etsy reserves the right to modify this privacy policy at any time, so please rev
 
 Contact Etsy
 
-If you have questions about personal information or suggestions you can contact Etsy’s Support team via our Help Center, by sending an email to legal@etsy.com, or contact us at one of the following addresses: In the US: Etsy Support Team – Privacy Policy. 55 Washington Street, Suite 512. Brooklyn, NY 11201, USA, or Outside of the US: Etsy Support Team – Privacy Policy. The Digital Exchange, Crane Street, The Digital Hub, Dublin 2 Ireland. Our telephone: +1 (718) 855-7955.  We will respond to you within 30 days of receipt of your correspondence.
+If you have questions about personal information or suggestions you can contact Etsy’s Support team via our Help Center, by sending an email to legal@etsy.com, or contact us at one of the following addresses: In the US: Etsy Support Team – Privacy Policy. 55 Washington Street, Suite 512. Brooklyn, NY 11201, USA, or Outside of the US: Etsy Support Team – Privacy Policy. The Digital Exchange, Crane Street, The Digital Hub, Dublin 2 Ireland. Our telephone: +1 (718) 855-7955.  We will respond to you within 30 days of receipt of your correspondence. 
+
+Related Articles
+
+*   Privacy Policy
+*   Unavailable Items With No Photos
+*   Terms of Use
+*   Drug Paraphernalia
+*   Etsy Surveys
