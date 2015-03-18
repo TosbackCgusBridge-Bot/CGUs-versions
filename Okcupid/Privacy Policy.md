@@ -201,7 +201,11 @@ Email sent!
 
 An email is on its way to . If you don’t see it, try checking your Spam folder.
 
-Okay
+Okay Your session has expired
+
+Refresh the page to get things working again!
+
+*   Refresh
 
 *   About
 *   Contact
