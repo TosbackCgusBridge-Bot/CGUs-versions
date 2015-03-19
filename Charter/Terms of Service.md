@@ -8,7 +8,7 @@ The links below provide you access to Charter's current policies &. agreements.
     *   Residential Internet Acceptable Use Policy  (Español)
     *   Residential Voice Service Agreement  (Español)
     *   Residential Cable Service Agreement  (Español)
-    *   Residential Voice Service Price Guide
+    *   Residential Voice Service Price Guide  (Español)
     *   Residential Customer Guarantees
 
 *   Commercial Service Terms and Conditions
