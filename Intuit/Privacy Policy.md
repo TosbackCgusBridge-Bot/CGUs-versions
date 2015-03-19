@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (15)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  CORINA
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (15)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13330767702
+true true C13333674049
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Tue Mar 17 10:39:57 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Mar 18 11:07:41 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,20 +47,34 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   St. Patrick's Day Extra 25% Off\*
-    
-    Today only! Online only, March 17. CODE: STRT2SAV
-    
-    Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
-    
-    \*See exclusions and details.
-*   40-50% Off Window
-    
-    Select styles.
-    
-    shop windowHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+Online Preview! ONLINE CODE: MARBONUS
 
-25-40% Off Select Shoes and Handbags shop now 40% Off Select Dresses shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Extra 15% Off\* with any other method of payment.
+
+Extra 25% Off\* with your JCPenney Credit Card on orders over $100.
+
+Extra 20% Off\* with any other method of payment on orders over $100.
+
+Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details.
+
+*   shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop window
+*   Big Easter Sale 50-60% Off Kids' Dress Clothes shop kids' dress clothes shop kids' dress clothes40% Off Women's Dresses shop women's dresses shop women's dresses40% Off Women's Dresses shop men's dress shirts
+
+The Shoe and Handbag Event
+
+All you need to finish your look. Now through March 21.
+
+shop the style book25-40% Off Select Shoes and Handbags
+
+Select styles.
+
+shop now40-60% Off Select Fine Jewelry and Bijoux Bar shop now
 
 With Code: 7JEWELS
 
@@ -68,7 +82,7 @@ With Code: 7JEWELS
 
 With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
 
-shop Disney shop CinderellaFree\* Movie Ticket
+shop Disney shop CinderellaFree Movie Ticket
 
 Spend $50 on Disney Collection merchandise through April 15 and receive a free movie ticket to see Disney's Cinderella. Ticket will be awarded in the form of a voucher to be redeemed for a movie ticket that is valid for one admission (up to $12).
 
@@ -80,21 +94,17 @@ watch Disney's Cinderella movie trailer JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today SportsFanShop
+sign up today People StyleWatch Must Haves
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
-
-Excluded from coupon.
+Sponsored content.
 
 shop now Easter Portraits
 
 50% off total purchase plus one free sitting fee valid through April 30, 2015.
 
-book your appointment People StyleWatch Must Haves
+book your appointment Say Hello to the All-New JCPenney App learn more download on the app store
 
-Sponsored content.
-
-shop now
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
