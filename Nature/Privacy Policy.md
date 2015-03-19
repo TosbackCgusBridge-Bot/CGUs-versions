@@ -229,7 +229,7 @@ Search:Search Donate Now
     
     *   Annual Report &. Financials
     *   Our Charity Ratings
-    *   Charitable Solicitation Disclosure
+    *   Charitable Solicitation Disclosures
     
     Why We're Effective Private Lands Conservation Working with Companies Working with Leaders Our Partners in Conservation Careers
     *   GLOBE Internship Program
@@ -335,9 +335,9 @@ Adopt an Acre
 
 One acre at a time can make a big difference for our landscapes! Adopt
 
-Climate Change Tips
+Help Conserve Water
 
-It's not hopeless! These tips will help stave off climate change. Read Our Tips
+Everyday tips for how you can save water, our most precious resource. Read Our Tips
 
 Sign Up for Nature e-News Get our email updates filled with eco-tips and info on the places you care about most. GO We’re Accountable
 
