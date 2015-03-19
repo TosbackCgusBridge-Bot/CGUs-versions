@@ -90,7 +90,7 @@ Postal Facts
 *   Information Technology
 *   Security. Law Enforcement. Preserving the Trust.
 *   Forensics. Crime Scenes. Evidence.
-*   Military Postal Service Agency
+*   Military and Diplomatic Postal Services
 *   One Day by the Numbers
 *   Fun facts
 *   Top 10 Things to Know
