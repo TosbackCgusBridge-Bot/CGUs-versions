@@ -50,6 +50,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Season Previews
     *   MLB Pipeline
     *   Cut 4
+    *   Clean Starts
+    *   Must C
 *   Stats Stats Stats
     *   Players
     *   Regular Season League Leaders
