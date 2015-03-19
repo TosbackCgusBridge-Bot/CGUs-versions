@@ -7,7 +7,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Easter Favorites
-    *   St. Patrick's Day
     *   Snack Madness
     *   Gift Boxes
     *   Business Gifts
@@ -54,7 +53,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Easter Favorites
-    *   St. Patrick's Day
     *   Snack Madness
     *   Gift Boxes
     *   Business Gifts
