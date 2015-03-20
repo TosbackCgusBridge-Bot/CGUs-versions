@@ -285,24 +285,6 @@ From time to time, we may update this privacy statement. We will notify you abou
 
 _The Privacy Statement posted on this Site was updated on January 3, 2015._
 
-In Case You Missed It 
-
-Lighting Up the Sky Solar storm sparks stunning aurora Incredible time-lapse of the Aurora lights
-
-*   Melting glacier could raise sea level 11 feet
-*   Conquering Mount Kilimanjaro: 10 essential lessons
-*   Prince Charles opens up about love and life
-*   Photos: Charles and Camilla visit U.S.
-*   Flying car closer to reality
-*   U.S. plans mysterious new stealth bomber
-*   Photos: 20 cool things the U.S. gave the world
-*   Research: Loneliness increases risk of death
-*   Will Ferrell's hilarious attempts at spring training
-*   When your young daughter says 'I'm a boy'
-*   New rolling spy-bot can even swim upstream
-*   I hacked into a nuclear facility in the '80s
-*   3,000-year-old tomb uncovered
-
 1.  News
     1.  World
     2.  Sport
