@@ -1,4 +1,4 @@
-**Last Revised: March 16, 2015**
+**Last Revised: March 19, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -276,11 +276,15 @@ If you submit an application for pre-registration of a domain name, GoDaddy does
 
 We may offer some or all of the following domain names.  You agree to be bound by the rules, policies and agreements of each Registry from which you purchase a domain name registration, which may include, but is not limited to, Top Level Domain Registries and Second Level Domain Registrations. You further agree to comply with the ICANN requirements, standards, policies, procedures, and practices for which each applicable Registry Operator has monitoring responsibility in accordance with the Registry Agreement between ICANN and itself or any other arrangement with ICANN. You further agree to comply with any operational standards, policies, procedures, and practices for the each Registry TLD established from time to time by the applicable Registry Operators in a non-arbitrary manner, which shall be effective upon posting on this Site.
 
-**13\. provisions specific to Afilias registrations: .blue. .black. .global. .green. .hiv. .kim. .lgbt. .onl. .pink. .red. .rich. .shiksha. .vote. .voto. .xn-6frz82g**
+**13\. provisions specific to Afilias registrations: .blue. .black. .global. .green. .hiv. .kim. .lgbt. .onl. .pink. .POKER. .red. .rich. .shiksha. .vote. .voto. .xn-6frz82g**
 
 You agree to comply with Registry’s policies, including all applicable public interest commitments, community registration policies and Government Advisory Committee safeguards, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD.
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
+
+Mandated certain additional safeguards for the .poker top-level domain (the “Highly-Regulated TLD”):
+
+For the Highly-Regulated TLD you agree to comply with the following: (a) comply with all applicable laws, including those that relate to privacy, data collection, consumer protection (including in relation to misleading and deceptive conduct), fair lending, debt collection, organic farming, disclosure of data, and financial disclosures. (b) if you collect and maintain sensitive health and financial data you must implement reasonable and appropriate security measures commensurate with the offering of those services, as defined by applicable law. (c) you will provide administrative contact information, which must be kept up‐to‐date, for the notification of complaints or reports of registration abuse, as well as the contact details of the relevant regulatory, or Industry self‐regulatory, bodies in their main place of business.
 
 **14\. provisions specific to .Berlin registrations**
 
@@ -534,13 +538,13 @@ You agree to indemnify, defend and hold harmless Registry and their subcontracto
 
 You shall not permit content unsuitable for viewing by a minor to be viewed from the main or top-level directory of a .SEXY domain name. For purposes of clarity, content viewed at the main or top-level directory of a .SEXY domain name is the content immediately visible if a user navigates to http://example.sexy or http://www.example.sexy. No restrictions apply to the content at any other page or subdirectory addressed by a .SEXY Registered Name.
 
-45\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .band. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgate. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rip. .rocks. .social. .SOFTWARE. .vet
+45\. provisions specific to ALL united TLD registrations: .actor. .airforce. .army. .attorney. .auction. .band. .consulting. .dance. .degree. .democrat. .Dentist. .engineer. .forsale. .futbol. .gives. .haus. .immobilien. .kaufen. ,market. .moda. .mortgaGe. .navy. .ninja. .pub. .rehab. .republican. .reviews. .rip. .rocks. .SALE. .social. .SOFTWARE. .vet. .VIDEO
 
 You agree to comply with the Registration Terms and Conditions, available here, which are hereby incorporated by reference, as they may be instituted or updated from time to time and published on the Registry website specific to the Registry TLD for the Registered Name.
 
 You will (within thirty (30) days of demand) indemnify, defend and hold harmless UTLDH (by express reference), Registrar and their respective affiliates and subsidiaries, as well as each of their respective owners, directors, managers, officers, employees, contractors, service providers and agents from and against any and all claims, damages, liabilities, costs and expenses, including reasonable legal fees and expenses (including on appeal), arising out of or relating in any way to the Registrant's domain name registration, including, without limitation, the use, registration, extension, renewal, deletion, and/or transfer thereof and/or the violation of any applicable terms or conditions governing the registration.  You shall not enter into any settlement or compromise of any such indemnifiable claim without Registrar’s or UTLDH’s prior written consent, which consent shall not be unreasonably withheld and that this indemnification obligation shall survive the termination or expiration of the Agreement for any reason.
 
-Mandated certain additional safeguards for the following top‐level domains: .degree. .engineer. .gives. .market. .mortgage. .rehab. .software. .vet. (collectively, the “Regulated TLDs”)
+Mandated certain additional safeguards for the following top‐level domains: .degree. .engineer. .gives. .market. .mortgage. .rehab. .sale. .software. .vet. .video (collectively, the “Regulated TLDs”):
 
 For Regulated TLDs you agree to comply with the following: (a) comply with all applicable laws, including those that relate to privacy, data collection, consumer protection (including in relation to misleading and deceptive conduct), fair lending, debt collection, organic farming, disclosure of data, and financial disclosures. (b) if you collect and maintain sensitive health and financial data you must implement reasonable and appropriate security measures commensurate with the offering of those services, as defined by applicable law.
 
