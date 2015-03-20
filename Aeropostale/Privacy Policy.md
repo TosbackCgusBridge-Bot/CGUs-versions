@@ -121,7 +121,6 @@ Aéropostale Go
     *   Brooklyn Calling
     *   Free State
     *   Gola
-    *   Locker Stock
     *   Radii
     *   Superga
     *   United XXVI
