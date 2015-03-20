@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13333674049
+true true C13335680423
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Wed Mar 18 11:07:41 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Thu Mar 19 09:40:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,50 +47,51 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Online Preview! ONLINE CODE: MARBONUS
+In Store and Online
 
 Extra 20% Off\* with your JCPenney Credit Card.
 
-Extra 15% Off\* with any other method of payment.
+Or, Extra 15% Off\* with any other method of payment.
 
-Extra 25% Off\* with your JCPenney Credit Card on orders over $100.
+Or,Extra 25% Off\* with your JCPenney Credit Card on orders over $100.
 
 Extra 20% Off\* with any other method of payment on orders over $100.
 
-Or, Extra 10% Off\* watches, furniture, mattresses and custom blinds and shades.
+Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
 
 \*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
 
-\*See exclusions and details.
+Ends March 21. Online Code: MARBONUS
 
-*   shop comfortersHome Sale 30-50% Off shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop window
-*   Big Easter Sale 50-60% Off Kids' Dress Clothes shop kids' dress clothes shop kids' dress clothes40% Off Women's Dresses shop women's dresses shop women's dresses40% Off Women's Dresses shop men's dress shirts
+\*See exclusions and details. print store coupon Big Bonus Sale shop the sale view store ad shop women's shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining$15 Off $15 Bonus Cash
 
-The Shoe and Handbag Event
+Get a Bonus Cash Coupon when you spend $50 or more in store only March 19 through 21. Redeemable March 22 through April 4, 2015. Some restrictions and exclusions apply. See store associate for details.
 
-All you need to finish your look. Now through March 21.
+Night and Day Doorbusters
 
-shop the style book25-40% Off Select Shoes and Handbags
+In Store and Online. Use your coupon and save even more! Friday, 3PM CDT through Saturday, 1PM CDT.
 
-Select styles.
-
-shop now40-60% Off Select Fine Jewelry and Bijoux Bar shop now
+view doorbusters store ad 25-40% Off Select Shoes and Handbags shop now 30-50% Off Select Stylus shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now
 
 With Code: 7JEWELS
 
-\*See exclusions and details. Your Cinderella and Disney Collection Destination
+\*See exclusions and details. 20% Off Select Disney Collection and Cinderella
 
-With over 300 exclusive items only at JCPenney. Plus over 900 Disney favorites at jcp.com! Disney excluded from coupon.
+Excluded from coupon.
 
-shop Disney shop CinderellaFree Movie Ticket
+shop now 40-50% Off Select Men's Dress Shirts shop now Love Your Fit
 
-Spend $50 on Disney Collection merchandise through April 15 and receive a free movie ticket to see Disney's Cinderella. Ticket will be awarded in the form of a voucher to be redeemed for a movie ticket that is valid for one admission (up to $12).
+Bra Fit Event March 8 through 21. More sizes, more styles, more you.
 
-get detailsDisney's Cinderella Now Playing
+40% Off Select Bras When You Buy 2 or More shop now $159.99 Royal Velvet Battista 4 piece jacquard queen comforter set
 
-JCPenney and Disney celebrate the theatrical release of Cinderella with exclusive Disney Collection offerings available in store and at jcp.com. 2015© Disney
+Originally $320.
 
-watch Disney's Cinderella movie trailer JCP Rewards
+shop nowHome Sale 30-50% Off
+
+Select styles.
+
+shop the home sale shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses shop luggage shop home decor Introducing Our New Home Spring-Summer Style Book explore now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -102,7 +103,7 @@ shop now Easter Portraits
 
 50% off total purchase plus one free sitting fee valid through April 30, 2015.
 
-book your appointment Say Hello to the All-New JCPenney App learn more download on the app store
+book your appointment now Say Hello to the All-New JCPenney App learn more download on the app store
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
