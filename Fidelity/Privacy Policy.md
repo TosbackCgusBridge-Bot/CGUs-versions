@@ -275,10 +275,12 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
 *   Bonds
 *   CDs
 
+*   Active Trader Pro
 *   Stocks
 *   Online Trading
 *   Annuities
 *   Life Insurance
+*   Options
 *   529 Plans
 
 *   IRAs
