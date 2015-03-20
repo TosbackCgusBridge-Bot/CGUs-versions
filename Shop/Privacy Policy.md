@@ -63,7 +63,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         6.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
         7.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
         8.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        9.  See all Windows Tablets
+        9.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
+        10.  See all Windows Tablets
     4.  2-in-1 Laptops Laptop / Tablet Hybrids
         1.  Lenovo Yoga: Sleek Convertible Ultraportables
         2.  ThinkPad Helix 1st Gen: 11.6" Premium Business Ultrabook
@@ -71,7 +72,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  ThinkPad Yoga: Multimode Business Ultrabook
         5.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
         6.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        7.  See all 2-in-1 Laptops
+        7.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
+        8.  See all 2-in-1 Laptops
     5.  Not sure what you need?
         1.  Lenovo Gift Guide
         2.  New Product Showcase
@@ -478,4 +480,4 @@ social
 *   flickr
 *   lenovoForums
 
-2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
+2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLebanonLesothoLiberiaLibyaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
