@@ -161,6 +161,6 @@ Related articles
 
 *   Privacy Policy
 *   Unavailable Items With No Photos
-*   Gift Cards Terms of Use (French) - Canadian Dollars (CAD)
 *   Terms of Use
-*   Gift Cards Terms of Use - Canadian Dollars (CAD)
+*   Selling Imitation Firearms on Etsy
+*   Electronic Communications Policy
