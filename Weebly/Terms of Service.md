@@ -85,7 +85,7 @@ All fees are exclusive of all taxes, levies, or duties imposed by taxing authori
 
 10\. Money back guarantee
 
-Weebly Pro Accounts include a 30-day money back guarantee. If you are dissatisfied with the pro account service for any reason, you can receive a full refund if you cancel your pro account within 30 days of activation. Please direct refund requests to support@weebly.com with the subject line: Refund Request.
+Weebly Starter, Pro and Business plans include a 30-day money back guarantee. If you are dissatisfied with the pro account service for any reason, you can receive a full refund if you cancel your premium account within 30 days of activation. Please submit a ticket at help.weebly.com.
 
 If you elect to purchase your own domain name, this purchase is non-refundable and not subject to this money back guarantee.
 
