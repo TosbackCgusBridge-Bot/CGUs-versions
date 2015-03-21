@@ -167,4 +167,4 @@ Details on Practitioner Insights (PDF)
 *   Editorial Submissions
 *   Legal Notices
 
-Careers | Site Map | Terms of Use | Privacy Statement © 2015 Thomson Reuters
+Careers | Site Map | Terms of Use | Privacy Statement | © 2015 Thomson Reuters Feedback
