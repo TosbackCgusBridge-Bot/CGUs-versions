@@ -5,7 +5,6 @@
 International
 
 *   Suomi
-*   Svenska
 *   Français
 
 Language: English Forgot your password? Email Password Login Join
