@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  Kimberly
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13339171593
+true true L13467444718
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p31.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Fri Mar 20 10:46:25 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Mar 21 06:19:36 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -63,39 +63,23 @@ Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and 
 
 Ends March 21. Online Code: MARBONUS
 
-\*See exclusions and details. print store coupon Big Bonus Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses$15 Off $15 Bonus Cash
+\*See exclusions and details. print store coupon Big Bonus Sale shop the sale view store ad shop women's shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining$15 Off $15 Bonus Cash
 
 Get a Bonus Cash Coupon when you spend $50 or more in store only March 19 through 21. Redeemable March 22 through April 4, 2015. Some restrictions and exclusions apply. See store associate for details.
 
-Night and Day Doorbusters
+25-40% Off Select Shoes and Handbags shop now 30-50% Off Select Stylus shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now
 
-In Store and Online. Use your coupon and save even more! Friday, 3PM CDT through Saturday, 1PM CDT.
+With Code: 7JEWELS
 
-shop doorbusters Doorbuster $14.99 St. John's Bay Secretly Slender Capris for Her
+\*See exclusions and details. 20% Off Select Disney Collection and Cinderella
 
-Select styles.
+Excluded from coupon.
 
-shop now Doorbuster $14.99 Arizona or St. John's Bay Flat-Front Shorts for Him
+shop now 40-50% Off Select Men's Dress Shirts shop now Love Your Fit
 
-Select styles.
+Bra Fit Event March 8 through 21. More sizes, more styles, more you.
 
-shop now Doorbuster $3.59 Home Expressions Cotton Bath Towels
-
-Select styles.
-
-shop now Doorbuster 50% Off Carter's Baby Apparel
-
-Select styles.
-
-shop now Doorbuster 50% Off St. John's Bay Sandals for Her
-
-Select styles.
-
-shop now Doorbuster 40-65% Off Fashion Jewelry and Fashion Silver
-
-Select styles.
-
-shop now $159.99 Royal Velvet Battista 4 piece jacquard queen comforter set
+40% Off Select Bras When You Buy 2 or More shop now $159.99 Royal Velvet Battista 4 piece jacquard queen comforter set
 
 Originally $320.
 
