@@ -74,7 +74,7 @@ Please note that you will be liable for damages (including costs and attorneys' 
   
 To expedite our ability to process your request, please use the following format (including section numbers):  
   
-1\. Provide materials evidencing that you have right of trade mark, copyright or other legitimate right you are authorized to exercise of the allegedly infringing content;  
+1\. Provide materials evidencing that you have right of trade mark, copyright or other legitimate right you are authorized to exercise of the allegedly infringing content.  
 2\. Identify in sufficient detail and clearly the content of which the protected legitimate right that you believe have been infringed and the websites that contain the infringing content.  
 3\. Identify the material that you claim is infringing the legitimated right listed in Item 2 above.  
 4\. Provide detailed contact information of the Rights Holder, including name, a copy of the identity card or the passport (if an individual), a copy of the entity registration certificate (if an entity), address, telephone number, fax and email address.  
