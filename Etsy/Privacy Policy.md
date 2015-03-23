@@ -161,6 +161,6 @@ Related articles
 
 *   Privacy Policy
 *   Unavailable Items With No Photos
-*   Copyright and Intellectual Property Policy
 *   Electronic Communications Policy
-*   Gift Cards Terms of Use - Canadian Dollars (CAD)
+*   Complying with International Trade Laws
+*   Gift Cards Terms of Use (French) - Canadian Dollars (CAD)
