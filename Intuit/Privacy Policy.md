@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13467444718
+true true L13469106457
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat Mar 21 06:19:36 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p16.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sun Mar 22 07:55:26 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,53 +47,86 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+*   friends &. family  
+    extra 25% off
+    
+    select styles
+    
+*   big  
+    easter  
+    sale  
+    40-50% off
+    
+    select styles
+    
+*   home sale  
+    30-50% off
+    
+    select styles
+    
+*   billion dollar  
+    jewelry sale  
+    20-60% off
+    
+    select styles
+    
 
-Extra 20% Off\* with your JCPenney Credit Card.
+*   Friends and Family
+    
+    Starts now! In Store and Online. March 22 through 24. ONLINE CODE: 2FRIENDS
+    
+    Extra 25% Off original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades. Or an Extra 15% Off watches, salon products, optical and portrait.
+    
+    \*See exclusions and details. print store coupon
+*   Big Easter Sale shop the sale view store ad40-50% Off Kids' Easter Dress Up
+    
+    Select styles.
+    
+    shop now shop now40% Off Women's Dresses
+    
+    Select styles.
+    
+    shop now shop now
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    Over 900 dinnerware and serverware styles to set your table for Spring.
+    
+    shop home40-50% Off Easter Dining and Entertaining
+    
+    Select styles.
+    
+    shop now
+*   Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossum40-60% Off Fine Jewelry and Bijoux Bar
+    
+    Select styles.
+    
+    shop fine jewelry20-50% Off Watches
+    
+    Select styles.
+    
+    shop watches30-60% Off Fashion Jewelry
+    
+    Select styles.
+    
+    shop fashion jewelry
 
-Or, Extra 15% Off\* with any other method of payment.
+What's New
 
-Or,Extra 25% Off\* with your JCPenney Credit Card on orders over $100.
+Refresh your closet for spring. See what's trending now.
 
-Extra 20% Off\* with any other method of payment on orders over $100.
-
-Or, Extra 10% Off\* select watches, furniture, mattresses and custom blinds and shades.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-Ends March 21. Online Code: MARBONUS
-
-\*See exclusions and details. print store coupon Big Bonus Sale shop the sale view store ad shop women's shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining$15 Off $15 Bonus Cash
-
-Get a Bonus Cash Coupon when you spend $50 or more in store only March 19 through 21. Redeemable March 22 through April 4, 2015. Some restrictions and exclusions apply. See store associate for details.
-
-25-40% Off Select Shoes and Handbags shop now 30-50% Off Select Stylus shop now 40-60% Off Select Fine Jewelry and Bijoux Bar shop now
-
-With Code: 7JEWELS
-
-\*See exclusions and details. 20% Off Select Disney Collection and Cinderella
-
-Excluded from coupon.
-
-shop now 40-50% Off Select Men's Dress Shirts shop now Love Your Fit
-
-Bra Fit Event March 8 through 21. More sizes, more styles, more you.
-
-40% Off Select Bras When You Buy 2 or More shop now $159.99 Royal Velvet Battista 4 piece jacquard queen comforter set
-
-Originally $320.
-
-shop nowHome Sale 30-50% Off
+shop home shop kids' shop shoes shop men's shop jewelry shop women's 30-40% Off Swimwear for the Family
 
 Select styles.
 
-shop the home sale shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses shop luggage shop home decor Introducing Our New Home Spring-Summer Style Book explore now JCP Rewards
+shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today People StyleWatch Must Haves
+sign up today SportsFanShop
 
-Sponsored content.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
 
 shop now Easter Portraits
 
