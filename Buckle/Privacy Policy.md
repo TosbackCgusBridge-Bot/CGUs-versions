@@ -1,6 +1,6 @@
-Getting away?
+How do you wear it?
 
-Start spring break here.
+Women
 
 Online Orders 800-607-9788
 
