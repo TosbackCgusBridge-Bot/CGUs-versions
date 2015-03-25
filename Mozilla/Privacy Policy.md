@@ -60,7 +60,7 @@ Portions of this content are ©1998–2015 by individual mozilla.org contributor
 *   Partner with Us
 *   Donate
 *   Firefox Affiliates
-*   Contribute to this page
+*   Contribute to this site
 
 *   Privacy
 *   Cookies
