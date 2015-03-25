@@ -70,7 +70,7 @@ We might also collect your IP address through the placement of cookies (see sect
 
 7.1 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
 
-7.2 If you would prefer to just restrict third party cookies, visit www.myonlinechoices.com or click on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies.
+7.2 If you would prefer to just restrict third party cookies, visit www.youronlinechoices.com or click on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies.
 
 7.3 ComScore, Inc (www.comscore.com) is one of the third parties we use to provide us with information about how users use our website. Click here to learn more information about how we use their third party service to collect and use information about this website.
 
