@@ -9,6 +9,8 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Easter Favorites
     *   Snack Madness
     *   Gift Boxes
+    *   Gift Baskets
+        
     *   Business Gifts
         
     *   Military Gifts
@@ -55,6 +57,8 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Easter Favorites
     *   Snack Madness
     *   Gift Boxes
+    *   Gift Baskets
+        
     *   Business Gifts
         
     *   Military Gifts
