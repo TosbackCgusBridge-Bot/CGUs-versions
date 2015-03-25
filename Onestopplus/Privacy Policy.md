@@ -9,7 +9,7 @@ Privacy Policy Last updated on: December 2, 2014
 
   
   
-OneStopPlus.com is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as Terms of Use that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy.  
+fullbeauty.com is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as Terms of Use that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy.  
   
   
   
@@ -50,7 +50,7 @@ The Safe Harbor program is an international data privacy program co-sponsored by
 
   Who is FULLBEAUTY Brands?
 
-FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: OneStopPlus.com®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), fullbeauty (fullbeauty.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
+FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), fullbeauty (fullbeauty.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
 
   What Information Do We Collect?
 
@@ -150,9 +150,9 @@ www.kingsizedirect.com KingSize
 PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0249  
   
 TDD Hearing Impaired:  
-(800) 682-8095 (800) 682-8109 OneStopPlus Please visit  
+(800) 682-8095 (800) 682-8109 fullbeauty Please visit  
 My Account on  
-www.onestopplus.com OneStopPlus  
+www.fullbeauty.com fullbeauty  
 PO Box 8320 Indianapolis, IN 46283-8320 (800) 400-5527  
 TDD Hearing Impaired:  
 (800) 456-7161  
@@ -194,7 +194,7 @@ To obtain a privacy policy, opt-out information, or contact information, for any
 Jessica London  
 BrylaneHome  
 KingSize  
-OneStopPlus.com  
+fullbeauty.com  
 OneStopPlus.com Visa  
 Roaman‘s  
 Woman Within  
@@ -456,11 +456,11 @@ i-parcel can only ship to the "bill to" address. they cannot ship to multiple ad
 
 Email is the easiest way for international customers to reach us. Please use the email links for the applicable brand provided below. Should you need to reach us by phone, you can contact a customer service representative during our business hours by calling the numbers listed below. Our customer service representatives can assist you in English or Spanish, no other languages are supported at this time. Please check and use the country code applicable to your location or device prior to calling.
 
-**OneStopPlus.com**
+**fullbeauty.com**
 
   
   
-Customer Service Email Link OneStopPlus.com - Click here 915-225-4970 OneStopPlus.com - Local Toll 888-826-7008 OneStopPlus.com - Canada 00 800 3377 1010 OneStopPlus.com - UK 0011 800 3388 0000 OneStopPlus.com - Australia
+Customer Service Email Link fullbeauty.com - Click here 915-225-4970 fullbeauty.com - Local Toll 888-826-7008 fullbeauty.com - Canada 00 800 3377 1010 fullbeauty.com - UK 0011 800 3388 0000 fullbeauty.com - Australia
 
 **Woman Within**
 
