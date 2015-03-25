@@ -31,7 +31,7 @@ Aéropostale Go
     
     *   BOTTOMS
     *   Jeans
-    *   Leggings
+    *   Leggings + Yoga
     *   Joggers + Sweats
     *   Pants
     *   Shorts
@@ -39,11 +39,17 @@ Aéropostale Go
     
     *   DRESSES + ROMPERS
     *   JACKETS + COATS
-    *   SWIM
-    *   BRAS
-    *   PANTIES
     *   SHOES
     *   ACCESSORIES
+    
+    *   LIVE LOVE DREAM
+    *   Active
+    *   Yoga
+    *   Lounge
+    *   Bras
+    *   Panties
+    *   Swim
+    *   Accessories
 *   Guys
     
     *   NEW ARRIVALS
@@ -100,6 +106,7 @@ Aéropostale Go
     *   Bethany Mota
     *   Circus by Sam Edelman
     *   DV8
+    *   Free State
     *   Gola
     *   Hobie
     *   Invite Only
