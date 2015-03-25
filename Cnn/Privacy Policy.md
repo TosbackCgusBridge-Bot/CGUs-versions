@@ -71,8 +71,6 @@ Sign in
 
 CNN Privacy Statement
 
-Updated 1306 GMT (2106 HKT) January 7, 2015
-
 (CNN) **What's New in the Updated Privacy Statement? We have updated the privacy statement applicable to our online and mobile websites, services, and applications and clarified data sharing practices among Turner and its affiliates. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy statement when you use any of our Sites (as described below), including when you access any content or videos.**
 
 Thank you for visiting this website presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner's network of affiliated and operated websites and applications ("Turner Network"), which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Turner or its Affiliates (each a "Site", collectively the "Sites"). A representative list of Turner Affiliates is available here.
