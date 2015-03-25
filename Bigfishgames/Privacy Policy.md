@@ -92,7 +92,7 @@ With respect to Social Games, you may manage your own social network privacy pre
 
 THIRD-PARTIES
 
-Big Fish Offerings may allow you to play or share information through social media (such as by logging in through a social media account or using a “Like” button”) or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Big Fish has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties.
+Big Fish Offerings may allow you to play or share information through social media (such as by logging in through a social media account or using a "Like" button") or contain links to social media services or other third parties. The use of these features and links are subject to the privacy policies of those companies and your settings on those services. Big Fish has no control over, and is not responsible for, the information submitted to or collected by social networks or other third parties. We encourage you to review those third party privacy policies to understand the way your information may be collected and handled by such third parties.
 
 CHAT &. MESSAGING
 
@@ -100,7 +100,7 @@ Big Fish Offerings may operate message boards and/or chat areas where users can 
 
 CHILDREN
 
-Big Fish Offerings are designed to avoid the collection and use of “personal information” as defined in the Children’s Online Privacy Protection Act (“COPPA”) from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13, you may not register for an account or otherwise provide any personal information to us.
+Big Fish Offerings are designed to avoid the collection and use of "personal information" as defined in the Children’s Online Privacy Protection Act ("COPPA") from children under 13 other than for support of internal operations. We do not knowingly collect personal information from children. If you are under 13, you may not register for an account or otherwise provide any personal information to us.
 
 Big Fish respects the privacy of parents and children and is committed to complying with COPPA . If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at privacy@bigfishgames.com or postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
