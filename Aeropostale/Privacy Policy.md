@@ -32,7 +32,7 @@ Aéropostale Go
     *   BOTTOMS
     *   Jeans
     *   Leggings + Yoga
-    *   Joggers + Sweats
+    *   Joggers + Lounge
     *   Pants
     *   Shorts
     *   Skirts
@@ -102,24 +102,14 @@ Aéropostale Go
 *   Brands
     
     *   GIRLS
-    *   BC Footwear
     *   Bethany Mota
-    *   Circus by Sam Edelman
-    *   DV8
     *   Free State
-    *   Gola
     *   Hobie
     *   Invite Only
     *   Junie &. Jade
     *   Live Love Dream
     *   Lorimer
-    *   Madden Girl
     *   Map to Mars
-    *   Mia
-    *   Puma
-    *   Report
-    *   Rocket Dog
-    *   Superga
     *   The Bikini Lab
     *   Tokyo Darling
     *   United XXVI
@@ -127,9 +117,6 @@ Aéropostale Go
     *   GUYS
     *   Brooklyn Calling
     *   Free State
-    *   Gola
-    *   Radii
-    *   Superga
     *   United XXVI
 *   Factory
     
