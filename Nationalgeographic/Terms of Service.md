@@ -197,11 +197,9 @@ All disputes regarding these Terms of Service, with the exception of copyright c
 
 More From National Geographic
 
+*   Reading an Ancient Comic Strip
+    
 *   Let's Walk
-    
-*   Meet the Adventurers
-    
-*   Your Puppy Pictures
     
 *   Explorer Moment of the Week
     
