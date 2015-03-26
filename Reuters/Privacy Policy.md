@@ -166,5 +166,6 @@ Details on Practitioner Insights (PDF)
 *   Headnote of the Day
 *   Editorial Submissions
 *   Legal Notices
+*   Feedback
 
 Careers | Site Map | Terms of Use | Privacy Statement | © 2015 Thomson Reuters Feedback
