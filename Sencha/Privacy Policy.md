@@ -205,6 +205,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
     *   Sencha Devs
     *   Sencha Market
     *   Sencha Try
+    *   App Gallery
 
 *   Company
     *   Team
