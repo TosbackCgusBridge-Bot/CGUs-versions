@@ -38,7 +38,7 @@ Sign in
 *   TV
     *   TV Shows
     *   Schedule
-    *   Anchors and Reporters
+    *   Faces of CNN Worldwide
 *   Features
     *   Style
     *   Travel
@@ -309,7 +309,7 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
 1.  TV
     1.  TV Shows
     2.  Schedule
-    3.  Anchors and Reporters
+    3.  Faces of CNN Worldwide
 
 1.  Features
     1.  Style
