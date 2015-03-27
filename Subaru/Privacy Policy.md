@@ -433,6 +433,7 @@ Connect with Subaru Get Email Updates Customer Support
 *   Ad Choices
 
 *   English
+*   Español
 *   中文 Chinese
 
 © Subaru of America, Inc. Use of this site signifies your acceptance of the Terms &. Conditions
