@@ -23,7 +23,7 @@ Webs
 
 Please enter a valid email address and password Forgot Password? Sign In Sign Up Free Our Terms &. Policies Boring, but important. Grab a coffee, and we'll try to make it quick. Terms of Service Privacy Policy Developer Terms Anti-Spam Policy Terms of Service Last updated: July 31, 2013 Welcome to Webs (formerly Freewebs)
 
-The services offered by Vistaprint Netherlands B.V., which is affiliated with Webs ("Webs" or "us" or "we" or "our") include the websites at http://www.webs.com and http://www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "the Sites") and any other features, content, services or applications offered, from time to time, by us, or by third party Paid Service providers (collectively, the "Services").
+The services offered by Vistaprint Netherlands B.V., which is affiliated with Webs ("Webs" or "us" or "we" or "our") include the websites at www.webs.com and www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "the Sites") and any other features, content, services or applications offered, from time to time, by us, or by third party Paid Service providers (collectively, the "Services").
 
 This agreement (the "Terms of Service" or "Agreement") sets forth legally binding terms for your use of the Services. By using the Services, you agree to be bound by these Terms of Service, whether you are a "Website Creator" (which means that you have registered to utilize our tools to build a website ("Website")), a "Member" (which means that you have registered on one of the Sites hosted Websites), a "Visitor" (which means that you are visiting the Sites or any hosted Website), or an "Application Developer" (which means that you have been approved to build or deploy your application or anything else that receives data (an "Application") on the Sites). The term "User" refers to a Visitor or a Member or a Website Creator. By browsing or registering with, creating or using any Website, Application or Service on the Sites you are agreeing to these Terms of Service, and these Terms of Service along with any other guidelines we may post from time to time, such as our Privacy Policy and Application Developer Terms (collectively, the "Guidelines") will govern your use of the Services. If you do not agree to these Terms of Service or any of the Guidelines, you must cease use of the Services.
 
@@ -231,7 +231,7 @@ As a Website Creator, you agree to have a policy for removing infringing Content
 
 21\. Your Website Subdomains
 
-When you create Your Website, Webs gives you the flexibility to choose your own subdomain for Your Website (e.g.," developer" in the example: http://developer.webs.com) (" Website Subdomain"). Webs maintains ownership of your Website Subdomain and grants you a limited, non-exclusive, non-sublicensable, non-transferable, freely revocable, license solely to use the Website Subdomain on the Sites. The Website Subdomain you choose for your Website and your account are non-transferable. You will be solely responsible and liable for any activity that occurs under your Website Subdomain and account. At any time, however, you may upgrade your account to purchase your own custom domain name.
+When you create Your Website, Webs gives you the flexibility to choose your own subdomain for Your Website (e.g.," developer" in the example: developer.webs.com) (" Website Subdomain"). Webs maintains ownership of your Website Subdomain and grants you a limited, non-exclusive, non-sublicensable, non-transferable, freely revocable, license solely to use the Website Subdomain on the Sites. The Website Subdomain you choose for your Website and your account are non-transferable. You will be solely responsible and liable for any activity that occurs under your Website Subdomain and account. At any time, however, you may upgrade your account to purchase your own custom domain name.
 
 22\. Webs Communications
 
@@ -313,7 +313,7 @@ You agree to comply with all policies applicable to Webs and the Sites, and thos
 
 Privacy Policy Last updated: February 19, 2010
 
-Webs is a website building and hosting service provided at http://www.webs.com and http://www.freewebs.com and its directly associated domains, widgets, tools, services and applications that are operated by Webs (collectively, "Webs" or "Services"). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe.
+Webs is a website building and hosting service provided at www.webs.com and www.freewebs.com and its directly associated domains, widgets, tools, services and applications that are operated by Webs (collectively, "Webs" or "Services"). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe.
 
 This "Privacy Policy" explains what information we gather from our users and how we use it. By using or accessing our Services, you are accepting the practices described in this Privacy Policy. (Capitalized terms not defined herein have the meaning set forth in our Terms of Service).
 
@@ -416,7 +416,7 @@ To submit an inquiry about our Privacy Policy, please contact our support depart
 
 Developer Terms Last updated: February 19, 2010
 
-Thank you for your interest in developing an application on our software platform ("Platform"). Our Platform is an extension of our powerful website building tools, which provides you with unique access to tens of millions of Website Creators and Users. The services offered by Webs ("Webs" or "us" or "we" or "our") include the websites at http://www.webs.com and http://www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "Webs") and any other features, content, services or applications offered, from time to time, by us (collectively, the "Services"). You may access and develop on our Platform through various means, such as the Webs Developer Platform, approved APIs ("Webs APIs"), RSS feeds, the Widget Bank, and other means.
+Thank you for your interest in developing an application on our software platform ("Platform"). Our Platform is an extension of our powerful website building tools, which provides you with unique access to tens of millions of Website Creators and Users. The services offered by Webs ("Webs" or "us" or "we" or "our") include the websites at www.webs.com and www.freewebs.com as well as any other related websites, toolbars, widgets, or other distribution channels we may, from time to time, operate (collectively, "Webs") and any other features, content, services or applications offered, from time to time, by us (collectively, the "Services"). You may access and develop on our Platform through various means, such as the Webs Developer Platform, approved APIs ("Webs APIs"), RSS feeds, the Widget Bank, and other means.
 
 If you are a developer or operator ("Developer" or "you") of an application or any other technical integration with our Services ("Application"), the following terms ("Agreement" or "Application Developer Terms") apply to you, which are legally binding terms for your use and access to our Platform and Services. By developing an Application or otherwise accessing our Platform, you agree to be bound by these Application Developer Terms in addition to our Terms of Service, Privacy Policy and other Guidelines. (Capitalized terms not defined herein have the meaning set forth in our Terms of Service.) If you do not agree to these Application Developer Terms, Terms of Service or any of the Guidelines, you must cease use and or access to our Platform immediately.
 
@@ -518,7 +518,7 @@ We can change these Application Developer Terms at any time without prior notice
 
 17\. Contacting Webs
 
-You may contact Webs with regards to your Application by sending an email to bizdev at webs.com, using the submission form on our Developer page or joining the Webs Platform Google Group at http://groups.google.com/group/webs-platform.
+You may contact Webs with regards to your Application by sending an email to bizdev at webs.com, using the submission form on our Developer page or joining the Webs Platform Google Group at groups.google.com/group/webs-platform.
 
 Anti-Spam Policy Last updated: July 31, 2013 What is webspam?
 
