@@ -1,4 +1,4 @@
-**Last Revised: March 24, 2015**
+**Last Revised: March 25, 2015**
 
 **PLEASE READ THIS AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -338,7 +338,7 @@ You agree to comply with Registry’s Acceptable Use policies and Terms of Servi
 
 You agree to indemnify, defend and hold harmless the Registry Operator and Registry Service Provider and their subcontractors, subsidiaries, affiliates, divisions, shareholders, directors, officers, employees, accountants, attorneys, insurers, agents, predecessors, successors and assigns, from and against any and all claims, demands, damages, losses, costs, expenses, causes of action or other liabilities of any kind, whether known or unknown, including reasonable legal and attorney’s fees and expenses, in any way arising out of, relating to, or otherwise in connection with the your domain name registration.  The registration agreement shall further require that this indemnification obligation survive the termination or expiration of the registration agreement.
 
-**19\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .engineering. .exchange. .gripe. .ink. .party. .RESt. .science. .SPace .wiki. .xyz**
+**19\. PROVISIONS SPECIFIC TO CentralNic REGISTRATIONS: .BAR. .capital. .cricket. .DESIGN. .engineering. .exchange. .gripe. .ink. .party. .RESt. .science. .SPace .wiki. .xyz**
 
 You agree to comply with the following requirements: a) ICANN standards, policies, procedures, and practices for which Registry Operator has monitoring responsibility in accordance. and b) operational standards, policies, procedures, and practices for the Registry TLD established from time to time by Registry Operator and any additional or revised operational standards, policies, procedures, and practices for the Registry TLD.
 
@@ -382,7 +382,7 @@ You acknowledge and agree that domain names are variably priced in the Donuts TL
 
 You acknowledge and agree that the Donuts TLDs will have non-uniform renewal registration pricing such that the Fee for a domain name registration renewal may differ from other domain names in the same or other Donuts TLDs (e.g., renewal registration Fee is different for different domain names). 
 
-Mandated certain additional safeguards for the following top‐level domains: .games, .juegos, .school, .schule, .toys, .eco, .care, .diet, .fitness, .health, .clinic, .dental, .healthcare, .capital, .cash, .broker, .claims, .exchange, .finance, .financial, .fund, .investments, .lease, .loans, .market, .money, .trading, .credit, .insure, .tax, mortgage, .degree, .mba, .audio, .book, .broadway, .film, .movie, .music, .software, .fashion, .video, .app, .art, .band, .cloud, .data, .design, .digital, .fan, .free, .gratis, .discount, .sale, .media, .news, .online, .pictures, .radio, .show, .theater, .tours, .accountants, .architect, .associates, .broker, .legal, .realty, .vet, .engineering, .law, .limited, .town, .city, and .reisen (collectively, the  “Regulated TLDs”)
+Mandated certain additional safeguards for the following top‐level domains: .games, .juegos, .school, .schule, .toys, .eco, .care, .diet, .fitness, .health, .clinic, .dental, .healthcare, .capital, .cash, .broker, .claims, .exchange, .finance, .financial, .fund, .investments, .lease, .loans, .market, .money, .trading, .credit, .insure, .tax, mortgage, .degree, .mba, .audio, .book, .broadway, .film, .movie, .music, .software, .fashion, .video, .app, .art, .band, .cloud, .data, .digital, .fan, .free, .gratis, .discount, .sale, .media, .news, .online, .pictures, .radio, .show, .theater, .tours, .accountants, .architect, .associates, .broker, .legal, .realty, .vet, .engineering, .law, .limited, .town, .city, and .reisen (collectively, the  “Regulated TLDs”)
 
 For Regulated TLDs you agree to comply with the following: (a) comply with all applicable laws, including those that relate to privacy, data collection, consumer protection (including in relation to misleading and deceptive conduct), fair lending, debt collection, organic farming, disclosure of data, and financial disclosures. (b) if you collect and maintain sensitive health and financial data you must implement reasonable and appropriate security measures commensurate with the offering of those services, as defined by applicable law.
 
