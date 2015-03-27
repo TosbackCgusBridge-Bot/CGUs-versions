@@ -59,21 +59,19 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
         3.  Lenovo Yoga Tablet 2 13: 13" Revolutionary Multimode Tablet
         4.  ThinkPad 10: 10.1" Tablet with Full PC Experience
-        5.  ThinkPad Helix 1st Gen: 11.6" Premium Business Ultrabook
-        6.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
-        7.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
-        8.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        9.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
-        10.  See all Windows Tablets
+        5.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
+        6.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
+        7.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
+        8.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
+        9.  See all Windows Tablets
     4.  2-in-1 Laptops Laptop / Tablet Hybrids
         1.  Lenovo Yoga: Sleek Convertible Ultraportables
-        2.  ThinkPad Helix 1st Gen: 11.6" Premium Business Ultrabook
-        3.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
-        4.  ThinkPad Yoga: Multimode Business Ultrabook
-        5.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
-        6.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        7.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
-        8.  See all 2-in-1 Laptops
+        2.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
+        3.  ThinkPad Yoga: Multimode Business Ultrabook
+        4.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
+        5.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
+        6.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
+        7.  See all 2-in-1 Laptops
     5.  Not sure what you need?
         1.  Lenovo Gift Guide
         2.  New Product Showcase
