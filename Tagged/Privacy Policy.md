@@ -464,7 +464,7 @@ Changes to This Privacy Policy
 
 Contacting Tagged
 
-52 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at http://help.tagged.com.
+52 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com.
 
 **YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
