@@ -161,6 +161,6 @@ Related articles
 
 *   Privacy Policy
 *   Unavailable Items With No Photos
-*   Electronic Communications Policy
-*   Selling Imitation Firearms on Etsy
-*   Etsy Surveys
+*   Community Guidelines
+*   Etsy Wholesale Terms of Use
+*   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
