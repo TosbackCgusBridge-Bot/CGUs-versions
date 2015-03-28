@@ -62,11 +62,12 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
+    *   Buckle Credit Card Water Bottle Offer
     *   Bench Gear Giveaway Official Rules
-    *   Find Your Denim Sweepstakes Rules
     *   Store Events
-    *   Social Giveaway Official Rules
     *   Sweepstakes Winners
+    *   Social Giveaway Official Rules
+    *   Find Your Denim Sweepstakes Rules
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
