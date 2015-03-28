@@ -17,36 +17,56 @@ Gartner Policies
 
 *   Overview
 *   Corrections
+*   Corrections 2015
+*   Corrections 2014
+*   Corrections 2013
+*   Corrections 2012
+*   Corrections 2011
+*   Corrections 2010
+*   Corrections 2009
+*   Corrections 2008
+*   Corrections 2007
+*   Corrections 2006
+*   Corrections 2005
+*   Corrections 2004
+*   Corrections 2003
+*   Corrections 2002
 *   Privacy
-*   **Online Privacy Policy**
+*   Online Privacy Policy
 *   Privacy Officers
 *   Policy for Social Security Numbers
 *   Global Privacy Policy
 *   Global Privacy Policy:  
     Safe Harbor Certification
+*   Events Online Registration
+*   System Requirements
 *   Terms of Use
 *   Copyright &. Quote Policy
 *   Usage Guidelines for  
     Gartner Services
-*   Download Usage Guidelines
-*   English  
-    Chinese (Simplified)  
-    Japanese  
-    
+*   Research Documents Internal Use
+*   Research Documents External Use
+*   Analyst Inquiry
+*   Usernames &. Passwords
+*   Download Usage Guidelines (PDF)
+*   English
+*   Chinese (Simplified)
+*   Japanese
+*   Japanese (with examples)
+*   Korean
 
 *   **Related Areas**
 
-*   Office of the Ombudsman  
-    Ombudsman Web Site  
-    Ombudsman Blog
+*   Office of the Ombudsman
+*   Ombudsman Web Site
+*   Ombudsman Blog
 
-*   Analyst Relations  
-    Analyst Relations info  
-    
+*   Analyst Relations
+*   Analyst Relations info
 
-*   Investor Relations  
-    Governance  
-    Stock and SEC Information
+*   Investor Relations
+*   Governance
+*   Stock and SEC Information
 
 Online Privacy Policy
 
