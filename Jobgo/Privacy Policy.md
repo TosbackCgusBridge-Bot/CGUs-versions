@@ -1,13 +1,28 @@
-*   Switzerland
-*   Finland
-*   Sweden
-
-International
+JobCompany
 
 *   Suomi
 *   Français
 
-Language: English Forgot your password? Email Password Login Join
+English
+
+*   Suomi
+*   Français
+
+Login
+
+*   Create profile
+*   Sign In
+
+Introducing JobGo \*Display name \*First name \*Last name \*E-mail \*Password Min. 8 characters \*Password again \*Gender MaleFemale Location
+
+\* Required information.
+
+  
+
+By clicking Register, you are indicating that you have read, understood,  
+and agree to JobGo's Terms of Use and Privacy policy.
+
+Login or register Remember me Forgot your password?
 
 *   Home
 *   Jobs
@@ -57,11 +72,4 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-Global customer service: support@jobgo.com
-
-*   Recruiter membership
-*   Privacy policy
-*   Terms of Use
-*   About The service
-
-Copyright © 2013 JobGo International Oy. All rights reserved.
+About The service Terms of Use Privacy policy Recruiter membership Global customer service: support@jobgo.com Copyright © 2014 JobGo International Oy. All rights reserved.
