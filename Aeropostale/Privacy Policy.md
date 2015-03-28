@@ -86,6 +86,7 @@ Aéropostale Go
     *   Bethany's Room
     *   Bedding
     *   Accessories
+    *   Wall Decals &. Decor
 *   Clearance
     
     *   GIRLS
