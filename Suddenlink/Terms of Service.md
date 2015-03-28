@@ -1,16 +1,39 @@
-Skip to main content Call Now! 877-694-9474 Search form Search  
-  
-  
-Products  
-TV Lineup  
-Contact Us  
-Television  
-Internet  
-Phone  
-Security  
-Total Home  
-VIPperks  
-Innovations Terms and Policies Residential Services Agreement RESIDENTIAL SERVICES AGREEMENT Last modified: May 27, 2014  
+Skip to main content
+
+*   Shop
+*   My Suddenlink
+*   Help
+*   Business
+    *   Advertising
+    *   Business Services
+    *   Career Services
+
+*   Español
+*   TV Lineup
+*   Suddenlink FYI
+*   Find Offers
+*   Suddenlink2GO
+*   Contact Us
+*   My Account
+*   My Bill
+
+Search form Search
+
+*   Find Offers
+*   Television
+*   Internet
+*   Phone
+*   Security
+*   Total Home
+*   VIPperks
+*   Innovations
+*   Our Company
+
+*   My Account
+*   Email
+*   Shopping Cart
+
+Terms and Policies Residential Services Agreement RESIDENTIAL SERVICES AGREEMENT Last modified: May 27, 2014  
   
 **TERMS OF SERVICE APPLICABLE TO SERVICE(S):**  
 You ("You" or "Customer") understand and agree that Sections 1 through 26 of this Residential Service Agreement ("Agreement") apply to Suddenlink Communications' ("Suddenlink") provision of each and every service ("Service(s)") ordered by Customer or provided by Suddenlink as part of a Service, which may include cable television service ("Video Service"), high speed data service ("High Speed Internet Service"), voice service ("Phone Service") and any equipment rented from or otherwise supplied by or on behalf of Suddenlink to you ("Equipment"). For purposes of clarity, "Services" as defined herein excludes any services or equipment provided by Suddenlink Security, which are covered by separate agreement.
@@ -150,6 +173,48 @@ You ("You" or "Customer") understand and agree that Sections 1 through 26 of thi
     4.  Directory Listing. The Suddenlink Parties shall not be liable for damages arising from errors or omissions in the making up or printing of directories or for error or omission on intercept service or in accepting listings as presented by Customers or prospective. In no event shall liability exceed an amount equal to the Phone Service charges during the period covered by the directory in connection with which the error or omission occurs.
     5.  Non-Published Listings.  For an additional fee, Customer may choose to have a non-published telephone number. Suddenlink will make reasonable efforts to prevent the disclosure of non-published numbers, but in no case will the Suddenlink Parties be liable should such number be divulged or published.
 
-Full Site  |   Terms &. Policies  |    
-  
-Copyright© 2014 Suddenlink Communications. All rights reserved.
+BBB Rating +
+
+Netflix + TiVo One of the most recommended Internet Service Providers PC Mag
+
+Netflix now available on TiVo HD/DVR
+
+Social Links
+
+Find us on  
+   
+
+We Promise
+
+“We Promise”  
+Satisfaction  
+Guarantee
+
+*   Our Company
+    *   Careers
+    *   Innovations
+    *   Investor Relations
+    *   Areas We Serve
+    *   Network Information
+*   Services
+    *   Find Offers
+    *   Moving?
+    *   Pay Bill
+    *   My Account
+    *   Email
+*   Products
+    *   Television
+    *   Internet
+    *   Phone
+    *   Security
+    *   Total Home
+    *   VIPperks
+*   Support
+    *   Contact Us
+    *   Online Help
+    *   Site Map
+    *   TV Lineup
+    *   Terms &. Policies
+    *   Law Enforcement
+
+© 2015 Suddenlink Communications
