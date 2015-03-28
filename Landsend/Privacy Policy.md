@@ -21,13 +21,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   2015 Swim Shop
             *   Activewear Collection
-            *   Get Dressed Up
-            *   Shoes &. Sandals
+            *   Shorts 101
+            *   Swim Finder
             
             *   New Arrivals
             *   Starfish Collection
-            *   Cardigan Shop
-            *   Swim Finder
+            *   Summer Sneak Peak
+            *   Tunic Shop
             *   Sale
         *   Shop By Size Range
             *   Back to Women Shop By Size Range
@@ -63,10 +63,10 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   2015 Polo Shop
             *   No Iron Shop
             *   Activewear Collection
-            *   Shoes &. Sandals
+            *   Supima Dress Shirts &. Polos
             
             *   New Arrivals
-            *   Spring Favorite Looks
+            *   Summer Style
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -80,7 +80,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Polos, T-shirts &. Turtlenecks
             *   Dress Shirts
             *   Casual Button-down Shirts
-            *   Outerwear
+            *   Swimsuits
             *   Sweaters &. Cardigans
             *   Sweatshirts &. Hoodies
             *   Activewear
@@ -89,7 +89,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Sportcoats &. Blazers
             *   Sleepwear
-            *   Swimsuits
+            *   Outerwear
             *   Shoes
             *   Ties
             *   Belts &. Accessories
@@ -100,7 +100,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Kids Featured Shops
             *   Swim Shop
-            *   Shoes &. Sandals
             *   School Uniforms
             
             *   New Arrivals
@@ -227,12 +226,11 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Home Featured Shops
             *   Supima Bed &. Bath
             *   400 No Iron Bedding
-            *   Bedding Collections
+            *   Beach Essentials
             *   Canvas Totes &. More
             
             *   New Arrivals
-            *   Oxford Bedding Collection
-            *   Percale Bedding Collection
+            *   Bedding Collection
             *   Sale
     *   *   Categories
             *   Bedding
@@ -252,7 +250,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Uniforms Featured Shops
             *   Find Your School
             *   After School
-            *   Shoes &. Sandals
             
             *   Polos that Perform
             *   Iron Knee Pants
