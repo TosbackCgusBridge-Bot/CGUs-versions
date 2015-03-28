@@ -104,5 +104,4 @@ If you have any questions regarding this Policy, please contact us at 1-877-481-
 
 *   Site Feedback
 
-© ConsumerInfo.com, Inc. Survey Software  
-CRM Integration
+© ConsumerInfo.com, Inc.
