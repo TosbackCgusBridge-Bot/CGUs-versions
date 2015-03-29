@@ -1,13 +1,21 @@
-*   Local Businesses
-*   Find People
-*   Buy Cars
-*   Maps
-*   Local Weather
-*   Lottery Results
+Toggle navigation  
 
+*   Find
+    *   People
+    
+    *   Lottery
+    
+    *   Weather
+    
+    *   Maps
+    
+    *   Cars
+
+*   Join
+*   •
 *   Sign In
 
-Superpages.com Advanced Search Add Your FREE Listing
+X Change City
 
 *   Home
 *   About Us &. Help
@@ -185,23 +193,14 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 
 *   Please visit Contact Us
 
-*   Follow Us
-*   Facebook
-*   Twitter
-*   Google+
-*   Pinterest
-*   Instagram
-
-*   Directory
+*   DIRECTORY
 *   Free Advertising
 *   Delivery Opt-Out
 *   Maps &. Directions
-*   Social Media
 *   State Directory
 *   White Pages
-*   Yellow Pages
 
-*   Features
+*   FEATURES
 *   City Guides
 *   Every Car Listed
 *   Featured Businesses
@@ -211,21 +210,19 @@ Contact Information Who do I contact if I am concerned, or have questions, about
 *   Weather Forecasts
 *   Superpages Mobile
 
-*   About
+*   ABOUT
 *   About Superpages
 *   Advertise With Us
 *   Contact Us
 *   Patents
-*   Privacy Policy
 *   Site Map
-*   Terms of Use
 
-E-mail Exclusives
+Claim your Free Listing
 
-Sign up to receive special offers and promotions from Superpages.com
+Claim your free business listing on Superpages. The more information you provide about your business, the easier it will be for your customers to find you online.
 
-Data provided by one or more of the following: Dex Media, Acxiom, Infogroup   |   \* Sponsored Results
+Get your Free Listing Copyright © 2015 Dex Media, Inc. All rights reserved. | Terms &. Conditions | Privacy Policy
 
-©2015 Dex Media. All rights reserved.
+Connect with us on
 
-Feedback
+*   Facebook
