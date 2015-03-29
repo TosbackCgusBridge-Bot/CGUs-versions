@@ -161,6 +161,6 @@ Related articles
 
 *   Privacy Policy
 *   Unavailable Items With No Photos
-*   Community Guidelines
-*   Etsy Wholesale Terms of Use
-*   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
+*   Copyright and Intellectual Property Policy
+*   Gift Cards Terms of Use (French) - Canadian Dollars (CAD)
+*   Prohibited Items on Etsy
