@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13483166207
+true true L13486224628
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Fri Mar 27 04:30:18 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sat Mar 28 01:46:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -65,47 +65,27 @@ Ends March 28. CODE: SUPER4U
 
 Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print store coupon Super Saturday Sale
+\*See exclusions and details. print store coupon
 
-In store and online.
+*   Super Saturday Sale
+    
+    In store and online.
+    
+    shop the sale view store ad shop the sale shop women's shop men's shop kids' shop shoes shop lingerie shop baby shop jewelry shop window shop kitchen shop bedding shop furniture shop home decor$10 Off $25 Bonus Cash!
+    
+    When you spend $30 or more in store on women's, men's and kids' apparel or Sephora, March 25 through 31, 2015. Redeemable March 25 through April 4, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
+    
+*   40-50% Off Easter Dining and Entertaining shop nowHome Sale 30-50% Off
+    
+    Select styles.
+    
+    shop all home shop bedding and bath shop kitchen and dining shop luggage shop home decor shop furniture and mattresses shop window
 
-shop the sale view store ad shop the sale shop women's shop men's shop kids' shop shoes shop lingerie shop baby shop jewelry shop window shop kitchen shop bedding shop furniture shop home decor$10 Off $25 Bonus Cash!
-
-When you spend $30 or more in store on women's, men's and kids' apparel or Sephora, March 25 through 31, 2015. Redeemable March 25 through April 4, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
-
-Night and Day Doorbusters
-
-Use your coupon and save even more! In store and online now through Saturday, 1PM CDT.
-
-shop doorbusters 60% Off Men's Suit Separates and Sport Coats
-
-Select styles.
-
-shop now 45-65% Off Fine Jewelry and Bijoux Bar
-
-Select styles.
-
-shop now $19.99 Cooks Power Blender or Non-Stick Griddle
-
-Originally $40. Excluded from coupon.
-
-shop now 50-60% Off Dresses
+50% Off Stafford Suit Separates, Sport Coats and Dress Pants shop now 40-50% Off Select Kids' Easter Dress Up shop now 25-40% Off Select Liz Claiborne shop now 25% Off Select Shapewear shop now 30-40% Off Select Easter Shoes For Her shop now 30-40% Off Select Swimwear For Her shop now Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry shop now 40-50% Off Window
 
 Select styles.
 
-shop now $8.99 Home Expressions Microfiber Solid or Print Twin Sheet Set
-
-Originally $30.
-
-shop now 60% Off Girls' Dresses
-
-Select styles.
-
-shop now 30-50% Off Home Sale
-
-Select styles.
-
-shop the home sale shop window shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage Red Zone Clearance 50-80% Off
+shop curtains and drapes shop blinds and shades shop curtain rods and hardware Red Zone Clearance 50-80% Off
 
 In store and online.
 
