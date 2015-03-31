@@ -20,6 +20,8 @@ Seeking Alpha
 
 *   Dividend Investing
 
+*   My Authors
+
 *   Portfolio
 *   News
 *   Articles
@@ -28,7 +30,6 @@ Seeking Alpha
 *   PRO
 
 *   Smart Portfolio !
-
 To screen ETFs by asset class, performance, yield and more, check out the ETF Hub. ETF Hub Home » Privacy Privacy
 
 Thank you for visiting http://seekingalpha.com (together with all other websites and services operated by or on behalf of Seeking Alpha, Ltd., the "Site"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at the Site. This Privacy Policy forms part of the Terms of Use.
