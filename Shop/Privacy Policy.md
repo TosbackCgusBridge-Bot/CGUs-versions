@@ -421,6 +421,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Community
     *   History
     *   Social Responsibility
+    *   Product Security
     *   Legal Information
     *   Jobs at Lenovo
 *   Shop by Industry
