@@ -50,7 +50,7 @@ The Safe Harbor program is an international data privacy program co-sponsored by
 
   Who is FULLBEAUTY Brands?
 
-FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), fullbeauty (fullbeauty.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
+FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous successful brands and specialized e-commerce sites in its portfolio: fullbeauty®, Woman Within® (womanwithin.com), Jessica London® (jessicalondon.com), Roaman's® (roamans.com), KingSize® (kingsizedirect.com), BrylaneHome® (brylanehome.com) and Bargain Catalog Outlet - BCO® (bcoutlet.com). FULLBEAUTY Brands offers a wide range of value and quality driven merchandise categories, including men's and women's plus-size apparel, and home and lifestyle products.
 
   What Information Do We Collect?
 
@@ -133,13 +133,7 @@ www.brylanehome.com BrylaneHome
 PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0339  
   
 TDD Hearing Impaired:  
-(800) 528-5149 (800) 528-5152 fullbeauty Please visit  
-My Account on  
-www.fullbeauty.com fullbeauty  
-PO Box 8386 Indianapolis, IN 46283-8320 (877) 388-3000  
-  
-TDD Hearing Impaired:  
-(800) 345-9137 (800) 456-9838 Jessica London Please visit  
+(800) 528-5149 (800) 528-5152 Jessica London Please visit  
 My Account on  
 www.jessicalondon.com Jessica London PO Box 8320 Indianapolis, IN 46283-8320 (800) 441-1362  
   
@@ -183,7 +177,7 @@ Please know that it may take up to 30 days to remove you from our emailing solic
   
 Are Branded Private Label Credit Cards Available?  
 
-Yes, but only for United States customers. Non-US residents are not eligible for Branded Private Label Credit Cards. Eligible customers can apply for a Branded Private Label Credit Card from BrylaneHome, Jessica London, KingSize, Woman Within, Roaman's and OneStopPlus.com. These credit cards are issued by our banking partner ("Bank"), currently Comenity Bank, and provide the holder with special offers and exclusive Brand benefits.
+Yes, but only for United States customers. Non-US residents are not eligible for Branded Private Label Credit Cards. Eligible customers can apply for a Branded Private Label Credit Card from BrylaneHome, Jessica London, KingSize, Woman Within, Roaman's and fullbeauty.com. These credit cards are issued by our banking partner ("Bank"), currently Comenity Bank, and provide the holder with special offers and exclusive Brand benefits.
 
 When you apply for one of these credit cards online, you provide your financial and personal information directly to the Bank. We are independent of and not affiliated with the Bank.
 
