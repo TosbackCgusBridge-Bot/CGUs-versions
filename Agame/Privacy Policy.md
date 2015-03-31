@@ -21,6 +21,9 @@ Join or Login
     *   Mobile &. Tablet Games
 
 *   Home
+*   privacy-policy
+
+privacy-policy
 
 **PRIVACY POLICY**
 
