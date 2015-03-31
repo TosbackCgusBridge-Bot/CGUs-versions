@@ -70,12 +70,9 @@ If you have a Kay Jewelers credit card, a separate privacy policy which we previ
 
 That notice is available here or you may call 1-800-844-7130, or write:
 
-Kay Jewelers
-
-Attn: Corporate Customer Care
-
-375 Ghent Road
-
+Kay Jewelers  
+Attn: Corporate Customer Care  
+375 Ghent Road  
 Akron, OH 44333
 
 We Respect Children
