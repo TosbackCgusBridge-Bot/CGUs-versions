@@ -94,7 +94,7 @@ You may not upload, post, or transmit (collectively, "submit") any video, image,
 *   Exploits minors;
 *   Depicts unlawful acts or extreme violence;
 *   Depicts animal cruelty or extreme violence towards animals;
-*   Promotes fraudulent schemes, multi level marketing (MLM) schemes, get rich quick schemes, gambling, cash gifting, work from home businesses, or any other dubious money-making ventures. or
+*   Promotes fraudulent or dubious business schemes. or
 *   Violates any law.
 
 All videos you submit must also comply with the Vimeo Guidelines, which are incorporated into this Agreement.
