@@ -1,6 +1,6 @@
-How do you wear it?
+Free drawstring bag when you
 
-Women
+shop these brands.
 
 Online Orders 800-607-9788
 
@@ -243,7 +243,9 @@ Track Your Order
 
 Shipping Rates
 
-Returns
+Easy Returns
+
+Return Policy
 
 Buckle Credit Card
 
@@ -253,11 +255,9 @@ Apply
 
 Online Bill Pay
 
-Gift Card
+Gift Cards Always Fit
 
-Buy Digital or Plastic
-
-Check Balance
+Buy Now   |   Check Balance
 
 Stay in Touch Exclusive Email Updates
 
