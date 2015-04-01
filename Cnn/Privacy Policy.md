@@ -1,7 +1,3 @@
-Cookie consent
-
-We use cookies to improve your experience on this website. By continuing to browse our site you agree to our use of cookies. Tell me more | Cookie preferences
-
 Breaking News
 
 International Edition
@@ -13,7 +9,7 @@ International Edition
 *   Set edition preference
 *   Confirm
 
-Sign in
+Sign inMyCNN
 
 *   News
     *   World
