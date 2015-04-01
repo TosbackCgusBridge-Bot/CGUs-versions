@@ -149,6 +149,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Devices
     *   FAQs
     *   MLB.com Support Forum
+    *   MLB.TV Blackouts
     *   MLB.TV Tutorials
     *   MLB.TV Download Center
     *   Contact UsMLB.TV Spring Training Schedule
