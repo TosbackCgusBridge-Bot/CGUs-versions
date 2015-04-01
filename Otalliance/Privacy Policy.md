@@ -99,17 +99,16 @@ Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
-Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Tue, Apr 21, 2015 OTA RSA Events
+Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Tue, Apr 21, 2015 OTA Member RSA Events
 
-Join OTA and attend these recomedned events and sessions
+**Join OTA and attend these recommended events and sessions**
 
-**Tuesday April 21st - Non-Profits on the Loose @ RSA Conference 2015 -** The OTA in partnership with the Anti-Phishing Working Group (APWG), the FIDO Alliance, Kantara Initiative, NCSA and others welcome you to join us at 5 to 8 p.m.
+**Get Your free Expo Passes from OTA Members**
 
-Minna Gallery  
-111 Minna Street (between Howard and Mission at 2nd Street)  
-San Francisco, CA 94105
+Return Path - Use registration code: X5ERETURN
 
-**Wednesday April 22**
+Symantec - Use registration code: X5SSYMNTC  
+Visit Booth #3811 in the North Hall to participate in Symantec's Security Intelligence Challenge for a chance to win fabulous prizes.
 
 *   OTA Blog
 *   Newsletters
