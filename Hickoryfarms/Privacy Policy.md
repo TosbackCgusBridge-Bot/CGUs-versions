@@ -7,7 +7,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Easter Favorites
-    *   Snack Madness
     *   Gift Boxes
     *   Gift Baskets
         
@@ -55,7 +54,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Easter Favorites
-    *   Snack Madness
     *   Gift Boxes
     *   Gift Baskets
         
@@ -153,9 +151,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
