@@ -169,7 +169,6 @@ Return to Top
 Shopping International
 
 *   Australia
-*   Canada
 *   France
 *   Germany
 *   Italy
