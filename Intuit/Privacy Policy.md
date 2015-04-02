@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (2)
 *   recommendations
 *   track order
 *   ship to
@@ -17,7 +17,7 @@
     
 *   my account
 
-*   no saved items
+*   saved items: (2)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13369920705
+true true C13370179937
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p24.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue Mar 31 02:43:22 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Wed Apr 01 04:41:18 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,85 +47,72 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   easter's  
-    best sale
-*   home sale  
-    30-50% off
-    
-    select styles
-    
-*   billion dollar  
-    jewelry sale  
-    40-60% off  
-    fine jewelry  
-    &. bijoux bar
-*   swimwear  
-    for the family  
-    30-40% off
-    
-    select styles
-    
+In Store and Online
 
-*   Easter's Best Sale
+Ends April 4. CODE: 4THESALE
+
+$10 Off\* $25 or more.
+
+Online Only
+
+Ends April 4. CODE: 4BIGSAVE
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends April 4. CODE: 4BIGSAVE
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print store coupon
+
+*   Our Biggest Sale Of The Season
     
-    Sunday through Tuesday, March 29 through 31.
+    Entire Store on sale! Excludes Nike and Sephora.
     
-    \*See exclusions and details. view store ad
+    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattressesUp To $50 Bonus Cash!
     
-    Plus, $5 2-Day Express Shipping now through March 31, 2015.
+    April 1 through 4. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 6 through April 19, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
     
-    get details40% Off Select Dresses shop now40-50% Off Select Kids' Easter Dress Up shop now
+    Thousands of Night and Day Doorbusters
+    
+    Use your coupon and save even more! In store and online all day Friday through Saturday 1PM CDT.
+    
+    view doorbusters
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    Over 900 dinnerware and serverware styles to set your table for Spring.
-    
-    shop home40-50% Off Easter Dining and Entertaining
-    
-    Select styles.
-    
-    shop now shop bedding and bath shop kitchen and dining shop luggage shop home decor shop furniture and mattresses shop window
-*   Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossum40-60% Off Fine Jewelry and Bijoux Bar
-    
-    Select styles.
-    
-    shop fine jewelry20-50% Off Watches
-    
-    Select styles.
-    
-    shop watches30-60% Off Fashion Jewelry
-    
-    Select styles.
-    
-    shop fashion jewelry
-*   30-40% Off Swimwear for the Family
-    
-    Select styles.
-    
-    shop kids' swimwear shop women's swimwear shop men's swimwear shop swimwear
+    shop all home shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book
 
-What's New
+40% Off Dress Event
 
-Refresh your closet for spring. See what's trending now.
+Select styles.
 
-shop women's shop jewelry shop men's shop shoes shop kids' shop home Nike Sale
+shop now 50% Off Select Kids' Easter Dress Up shop now 50% Off Select Suit Separates, Sport Coats and Dress Pants shop now 30-40% Off Select Swimwear for Her shop now Nike Sale
 
-Select Nike styles only. Excluded from coupon.
+Select Nike styles only.
 
-shop nike shoes20-25% Off Select Nike Shoes and Apparel shop nike shoes shop women's nike apparel shop men's nike apparel JCP Rewards
+20-25% Off Select Nike Shoes for the Family
+
+Excluded from coupon.
+
+shop now 40-50% Off Select Blinds and Shades shop now Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
 sign up today SportsFanShop
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+
+Excluded from coupon.
 
 shop now Say Hello to the All-New JCPenney App learn more download on the app store
 
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
-Optical
+JCPenney Optical
 
 50% off select frames, lenses and lens options. Plus, an extra $25 off select optical purchases.
 
@@ -193,7 +180,7 @@ JCPenney credit card pay bill check balance apply now Popular Searches
 *   womens boots
 *   mens scarves
 *   bath towels
-*   yoga pants
+*   JCPenney Blog
 *   mens suits
 *   bedding sets
 
