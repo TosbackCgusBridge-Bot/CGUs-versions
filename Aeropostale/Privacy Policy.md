@@ -83,10 +83,13 @@ Aéropostale Go
     *   SHOES
     *   ACCESSORIES
 *   Room
+    
     *   Bethany's Room
+    *   Aztec Room
+    
     *   Bedding
-    *   Accessories
     *   Wall Decals &. Decor
+    *   Accessories
 *   Clearance
     
     *   GIRLS
@@ -96,7 +99,6 @@ Aéropostale Go
     
     *   GUYS
     *   Clearance Tops
-    *   Clearance Bottoms
     *   Clearance Accessories
     
     *   ROOM
