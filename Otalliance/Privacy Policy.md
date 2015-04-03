@@ -81,7 +81,7 @@ We need to collect certain information that personally identifies you in order t
 OTA occasionally hires other companies, consultants and contractors to provide limited services on our behalf. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose   \[Learn More\] 
 
 **Tracking Technologies**  
-Through the use of “cookies”, we may collect data on, among other things, the following information: To make it easier to navigate our Site and to optimize the user experience across multiple devices OTA supports the development of a “do not track” standard. At this time OTA does not respond to DNT mechanisms. Once a standardized "do not track" feature is released, OTA intends to adhere to the browser settings accordingly. \[Learn More\]
+Through the use of “cookies”, we may collect data on, among other things, the following information: To make it easier to navigate our Site and to optimize the user experience across multiple devices OTA supports the development of a “do not track” standard. At this time OTA does not respond to DNT mechanisms. Once a standardized "Do Not Track" (DNT) feature is released, OTA intends to adhere to the browser settings accordingly. \[Learn More\]
 
 **User Options**  
 Receiving email messages from OTA, is optional and we provide choice options. Users can also access the personal information they have provided to OTA for the purposes of reviewing, updating and deleting such information.  \[Learn More\]
@@ -90,7 +90,7 @@ Receiving email messages from OTA, is optional and we provide choice options. Us
 We have implemented a number of security features throughout the site that are intended to prevent the unauthorized release of or access to the user information we collect online.  Summary of best practices
 
 **Other Information**  
-The Site is not targeted nor directed to children under the age of thirteen. To contact us, please visit the Contact Us page
+The Site is not targeted nor directed to children under the age of eighteen. To contact us, please visit the Contact Us page
 
 *   Upcoming Events
 *   News
@@ -99,16 +99,14 @@ Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
-Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Tue, Apr 21, 2015 OTA Member RSA Events
+Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Tue, Apr 21, 2015 OTA Member RSA Events
 
 **Join OTA and attend these recommended events and sessions**
 
 **Get Your free Expo Passes from OTA Members**
 
-Return Path - Use registration code: X5ERETURN
-
-Symantec - Use registration code: X5SSYMNTC  
-Visit Booth #3811 in the North Hall to participate in Symantec's Security Intelligence Challenge for a chance to win fabulous prizes.
+DigiCert - Use registration code X5EDGCRT  
+Visit Booth #S839 in the South Hall.  Learn how you can optimize your SSL and site security.
 
 *   OTA Blog
 *   Newsletters
