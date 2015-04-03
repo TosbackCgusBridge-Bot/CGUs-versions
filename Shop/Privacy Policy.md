@@ -28,19 +28,20 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  N Series: Fast-Boot Chromebooks
         8.  See all Student
     5.  Not sure what you need?
-        1.  Lenovo Gift Guide
-        2.  New Product Showcase
-        3.  Best Selling &. Top Rated Laptops
-        4.  Convertibles
-        5.  Discover Yoga
-        6.  Gaming PCs
-        7.  View All Laptops
-        8.  Bags &. Carrying Cases
-        9.  Battery Finder
-        10.  Deals
-        11.  PC Finder
+        1.  Home Laptops Sale
+        2.  Professional Laptops Sale
+        3.  Lenovo Gift Guide
+        4.  New Product Showcase
+        5.  Best Selling &. Top Rated Laptops
+        6.  Convertibles
+        7.  Discover Yoga
+        8.  Gaming PCs
+        9.  View All Laptops
+        10.  Bags &. Carrying Cases
+        11.  Battery Finder
+        12.  PC Finder
         
-        13.  See all Not sure what you need?
+        14.  See all Not sure what you need?
     6.  See all Laptops
     
 2.  Tablets
@@ -73,12 +74,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         6.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
         7.  See all 2-in-1 Laptops
     5.  Not sure what you need?
-        1.  Lenovo Gift Guide
-        2.  New Product Showcase
-        3.  Discover Yoga
-        4.  View All Tablets
-        5.  Bags &. Carrying Cases
-        6.  Deals
+        1.  Tablets Sale
+        2.  Lenovo Gift Guide
+        3.  New Product Showcase
+        4.  Discover Yoga
+        5.  View All Tablets
+        6.  Bags &. Carrying Cases
         7.  PC Finder
         8.  See all Not sure what you need?
     6.  See all Tablets
@@ -106,14 +107,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Erazer X Series: Extreme-Performance Gaming PCs
         2.  See all Erazer Desktops
     5.  Not sure what you need?
-        1.  Lenovo Gift Guide
-        2.  New Product Showcase
-        3.  Best Selling Desktops
-        4.  Gaming PCs
-        5.  View All Desktops
-        6.  Monitors
-        7.  Keyboards &. Mice
-        8.  Deals
+        1.  Desktops Sale
+        2.  Lenovo Gift Guide
+        3.  New Product Showcase
+        4.  Best Selling Desktops
+        5.  Gaming PCs
+        6.  View All Desktops
+        7.  Monitors
+        8.  Keyboards &. Mice
         9.  PC Finder
         
         11.  See all Not sure what you need?
@@ -208,15 +209,17 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 8.  Deals
     1.  See all Deals
     2.  Current Offers
-        1.  Home Laptop &. Desktop Deals
-        2.  Professional Laptop &. Desktop Deals
-        3.  Lenovo Gift Guide
-        4.  ThinkPad &. ThinkCentre QuickShips
-        5.  Accessories Hot Deals
-        6.  Bing Page Deals
-        7.  Deals for Students and Educators
-        8.  Outlet
-        9.  See all Current Offers
+        1.  Home Laptops Sale
+        2.  Professional Laptops Sale
+        3.  Tablets Sale
+        4.  Desktops Sale
+        5.  Lenovo Gift Guide
+        6.  ThinkPad &. ThinkCentre QuickShips
+        7.  Accessories Hot Deals
+        8.  Bing Page Deals
+        9.  Deals for Students and Educators
+        10.  Outlet
+        11.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
