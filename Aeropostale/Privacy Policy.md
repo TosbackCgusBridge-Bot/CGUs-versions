@@ -130,7 +130,6 @@ Aéropostale Go
     
     *   GUYS
     *   Factory Tops
-    *   Factory Bottoms
     *   Factory Accessories
 *   Aero Now
 
