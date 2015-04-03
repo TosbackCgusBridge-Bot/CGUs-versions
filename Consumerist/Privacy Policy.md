@@ -108,7 +108,7 @@ Any unauthorized access to or use of our Sites or apps or the information collec
 
 If you register to engage in certain activities on a Site, you are asked to establish a user name and password. If you forget your password, we can send you an email to the email address we have on record that allows you to reset your password.  If we do not have a valid email address associated with your user name and password, then you will have to re-register if you forget your user name and password.  We urge you to keep your password confidential and not disclose it to anyone.  We encourage you to use strong passwords (click here for secure password guidelines from Consumer Reports).  We also recommend that you never reuse the same password across different web sites and other online products and services.
 
-**IMPORTANT** \- **Although we take these steps to protect your personal information, no method of transmitting or storing electronic data is ever completely secure, therefore we cannot promise or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this Privacy Policy.** 
+**IMPORTANT** – **Although we take these steps to protect your personal information, no method of transmitting or storing electronic data is ever completely secure, therefore we cannot promise or guarantee that such information will never be accessed, used or released in a manner that is inconsistent with this Privacy Policy.** 
 
 **CHILDREN’S PRIVACY**
 
