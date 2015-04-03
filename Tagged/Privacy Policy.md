@@ -7,7 +7,7 @@ The Social Network for **meeting** new people
 
   TERMS OF SERVICE Jump to Privacy Policy Terms of Service
 
-Updated as of December 3, 2014
+Updated as of March 19, 2015
 
 1 This Terms of Service Agreement (the "Agreement") controls your access and use of any of the various services (the "Services") made available to you (the "Member") by Ifwe, Inc. ("Tagged") through http://www.tagged.com, Tagged mobile applications or otherwise. 2 ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR TAGGED. By accessing the services and/or completing the registration process for the Tagged website, 3 you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. By registering on Tagged, you represent and warrant that you are not required to register as a sex offender with any government entity. 4 No Member may participate where doing so would be prohibited by any applicable law or regulation.
 
@@ -45,9 +45,10 @@ C) Member Conduct
 20.  Members shall not use any portion of the Tagged website or the Services for any unlawful purpose.
 21.  26 Members shall not engage in any activity that solicits or is designed to solicit password or personal identifying information for commercial or unlawful purposes from other Members.
 22.  Members shall not use the account, username, or password of another Member at any time or disclose their password to any third party or permit any third party to access their account.
-23.  Members shall not publicly post information that poses or creates a privacy or security risk to another person.
-24.  27 Members shall not attempt to buy Tagged Gold outside of the Tagged.com website
-25.  Members shall not attempt to sell Tagged Gold or a Tagged user account.
+23.  Members shall not post any contact information on Profile pages, Groups or Newsfeed. Contact information includes email addresses, instant messenger IDs, phone numbers and physical addresses.
+24.  Members shall not publicly post information that poses or creates a privacy or security risk to another person.
+25.  27 Members shall not attempt to buy Tagged Gold outside of the Tagged.com website
+26.  Members shall not attempt to sell Tagged Gold or a Tagged user account.
 
 28 All decisions concerning the applicability of these guidelines shall be at the sole and exclusive discretion of Tagged and its designees. Tagged has the right in its sole discretion to pre-screen, refuse or remove any content that is available via the Tagged Services. Tagged and its designees shall have the right to remove any Content that violates this Agreement or is otherwise objectionable. An account may be terminated at any time, without notice, depending on the severity of the offense, which is determined exclusively at the discretion of Tagged. Tagged is not obligated to provide a Member with a warning prior to removal.
 
@@ -348,7 +349,7 @@ Users with questions about this Terms of Service and any of the above statements
 
 PRIVACY POLICY
 
-Updated as of February 25, 2015
+Updated as of March 19, 2015
 
 How Tagged Works
 
@@ -376,7 +377,7 @@ Tagged’s Use of Your Information
 
 11 Tagged uses certain of your personal information to enable you to interact, or to enhance your experience, with the Site and its features. Tagged allows Members to provide information to a personal profile that is accessible to other Members. 12 We publicly display some of your personal information, such as your picture and name, in your Member profile. To make searching and finding friends and acquaintances on the Site easier we allow Members to search for other Members using a first and last name, an email address, a location or schools that the Member may have attended. Members may choose to arrange their settings so that their profiles, photos, contact information and ability to be located in searches cannot be seen by anyone other than accepted friends. 13 Members also can pre-approve comments before they appear on their profiles and block other Members from accessing profile information. These privacy procedures enable individual Members to determine how much information to share with potential friends and unknown users and Members.
 
-14 Unless you configure your account settings to remain private, all registered Members will be able to view any personal information that you disclose in your public profile, including without limitation your photos, videos, and friend list pages, which may include personal information (including responses to survey questions). For your privacy and safety, please do not post direct contact information in your profile, such as your email address, URL, instant messenger ID, phone number, full name, or mailing address. 15 We also caution you not to share sensitive information (such as social security numbers, credit card numbers, and driver's license numbers) with other Members whom you do not know well, or place such information in your profile. Be aware that when you publish content or information on the Site using the "everyone" setting, you are allowing everyone, including non-Members and people off Tagged, to access that information and to associate it with you.
+14 Unless you configure your account settings to remain private, all registered Members will be able to view any personal information that you disclose in your public profile, including without limitation your photos, videos, and friend list pages, which may include personal information (including responses to survey questions). For your privacy and safety, please do not post direct contact information in your profile, such as your email addresses, URLs, instant messenger IDs, phone numbers, full names, or mailing addresses. 15 Posting of such information to Profile pages, Groups or Newsfeed shall be considered a violation of our Terms of Service. We also caution you not to share sensitive information (such as full names, social security numbers, credit card numbers, and driver's license numbers) with other Members whom you do not know well, or place such information in your profile. Be aware that when you publish content or information on the Site using the "everyone" setting, you are allowing everyone, including non-Members and people off Tagged, to access that information and to associate it with you.
 
 Our Browse feature allows you to search for members based on the criteria that you select. When you search for members using our Browse feature, members may be able to see that you are using the Browse feature or searching for people like them and may receive notifications of your search.
 
@@ -468,7 +469,7 @@ Contacting Tagged
 
 **YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-Effective Date February 25, 2015
+Effective Date March 19, 2015
 
 1.  Tagged’s Privacy Policy describes what information we collect and how we use it. ↩
     
