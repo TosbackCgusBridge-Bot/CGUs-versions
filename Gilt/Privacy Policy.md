@@ -6,13 +6,13 @@ Click on one of the links below to jump directly to the listed section:
 
 *   Information We Collect
 *   How We Use the Information We Collect
-*   Online Advertising and Tracking
+*   Online Advertising
 *   Information We Share
 *   Your Choices
     *   Sharing Information with Business Partners
     *   Email Marketing
     *   Web Analytics
-    *   Targeted Advertising and Tracking
+    *   Targeted Advertising
     *   Geo-Location Information
     *   Cookies
     *   California Residents
@@ -41,7 +41,7 @@ The types of personal information we may obtain include:
 *   Shopping behavior and preferences, and a record of the purchases you make on our websites
 *   Other details that you may submit to us or that may be included in the information provided to us by third parties
 
-In addition, when you visit our websites or use our mobile applications, we may collect certain information by automated means, such as cookies, web beacons and other technologies. A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:
+In addition, when you visit our websites or use our mobile applications, we may collect certain information by automated means, such as cookies and web beacons. A “cookie” is a text file that websites send to a visitor‘s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:
 
 *   Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type)
 *   URLs that refer visitors to our sites
@@ -77,15 +77,15 @@ We may combine the information we collect with publicly available information an
 
 We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
-Online Advertising and Tracking
+Online Advertising
 
-On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. We also engage with third-party advertising networks. Ad networks may include third-party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these third parties, and we encourage you to read their privacy policies, which may apply to these third-party programs. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. After you visit our websites, these ad networks may continue to track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, identifiers, web server logs, web beacons and other methods. Ad networks use this information to show you advertisements for GILT, our business partners, and other companies that participate in the ad networks. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks may include third-party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these third parties, and we encourage you to read their privacy policies, which may apply to these third-party programs. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for GILT and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
 Information We Share
 
 We do not sell or otherwise disclose personal information about you, except as described in this Privacy Notice.
 
-We may share the personal information we collect with our parent, affiliate and subsidiary companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Notice, and to communicate with you about products and services, offers, events and promotions. We also may share personal information with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+We may share the personal information we collect with our parent, affiliate and subsidiary companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Notice, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you. We also may share personal information with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
 
 We also may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell, merge or transfer all or a portion of our business or assets. Following such a sale, merger or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
 
@@ -99,7 +99,7 @@ Here are the choices we offer:
 
 Sharing Information with Business Partners
 
-You may direct us not to share the personal information we maintain about you with our business partners for those partners’ own purposes. To do so, please email us at \[email protected\]. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+You may direct GILT not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at \[email protected\]. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
 Marketing Emails
 
@@ -109,9 +109,9 @@ Web Analytics
 
 You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by clicking here and here and selecting the opt-out link at the bottom of the linked site.  For opting out of the aggregation and analysis of data collected about you on our mobile sites, click here and here.
 
-Targeted Advertising &. Tracking
+Targeted Advertising
 
-You may exercise your choices with respect to how third-party ad networks with which we engage collect information about your web use by clicking here. You can opt-out of receiving targeted ads on Facebook by clicking here.  
+We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by clicking here, and learn about additional online advertising opt-out options by clicking here. Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above.  You can opt-out of targeted ads on Facebook by clicking here.  
 
 Geo-Location Information
 
@@ -166,4 +166,4 @@ Attn: Legal Department
 2 Park Avenue, 4th Floor  
 New York, New York 10016
 
-**Last Updated: April 2, 2015**
+**Effective Date: January 28, 2012**
