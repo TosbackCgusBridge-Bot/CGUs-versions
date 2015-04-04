@@ -76,7 +76,6 @@ Aéropostale Go
     *   Pants
     *   Shorts
     
-    *   JACKETS + COATS
     *   SWIM
     *   PAJAMAS
     *   UNDERWEAR + LOUNGE
