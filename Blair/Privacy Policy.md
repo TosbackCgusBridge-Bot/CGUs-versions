@@ -22,7 +22,7 @@ Creative inspiration for the home. Products that make life easier: problem-solve
 *   Mens
 *   For Your Home
 *   Scandia Woods
-*   Jewelry
+*   Footwear
 *   Clearance
 
 Font Size: A A A Customer Service>. Privacy and Security Appleseed's | Customer Service Privacy and Security
