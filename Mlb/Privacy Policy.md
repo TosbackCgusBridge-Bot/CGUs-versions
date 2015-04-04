@@ -145,7 +145,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Buy Gameday Audio
     *   Watch/Listen
     *   Alternative Audio
-    *   MLB.TV Spring Training Schedule
     *   MLB.TV with Extra Innings
     *   MLB.TV Devices
     *   FAQs
@@ -153,7 +152,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Blackouts
     *   MLB.TV Tutorials
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV Spring Training Schedule
+    *   Contact UsMLB.TV
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
     *   Free Agent Frenzy
