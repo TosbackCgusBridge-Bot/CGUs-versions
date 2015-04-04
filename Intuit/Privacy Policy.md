@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (26)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  CAROLYN
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (26)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13374348007
+true true 10.60.216.10 C13377672087
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p21.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Apr 02 03:01:51 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Fri Apr 03 02:11:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -69,6 +69,8 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
 
 *   Our Biggest Sale Of The Season
     
+    Starts now!
+    
     Entire Store on sale! Excludes Nike and Sephora.
     
     shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattressesUp To $50 Bonus Cash!
@@ -79,12 +81,12 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
     
     Use your coupon and save even more! In store and online all day Friday through Saturday 1PM CDT.
     
-    view doorbusters
+    shop now
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    shop all home shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book
+    shop all home shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 
 40% Off Dress Event
 
@@ -98,7 +100,7 @@ Select Nike styles only.
 
 Excluded from coupon.
 
-shop now 40-50% Off Select Blinds and Shades shop now Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry shop now JCP Rewards
+shop now 40-50% Off Select Blinds and Shades shop now Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry and Fashion Silver shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
