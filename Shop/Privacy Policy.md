@@ -101,8 +101,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  H Series Towers: Budget-Friendly Ultra Small Towers
         6.  K Series Towers: Extreme Performance Towers
         7.  Q Series Minis: Mini Home Theatre PCs
-        8.  N Series All-in-Ones: Android-Based All-in-Ones
-        9.  See all Lenovo Desktops
+        8.  See all Lenovo Desktops
     4.  Erazer Desktops Maximum Performance, Extreme Gaming
         1.  Erazer X Series: Extreme-Performance Gaming PCs
         2.  See all Erazer Desktops
@@ -213,9 +212,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Professional Laptops Sale
         3.  Tablets Sale
         4.  Desktops Sale
-        5.  Lenovo Gift Guide
-        6.  ThinkPad &. ThinkCentre QuickShips
-        7.  Accessories Hot Deals
+        5.  Accessories Deals
+        6.  Lenovo Gift Guide
+        7.  ThinkPad &. ThinkCentre QuickShips
         8.  Bing Page Deals
         9.  Deals for Students and Educators
         10.  Outlet
@@ -426,6 +425,7 @@ Please use the Back button on your browser or close this window to return to the
     *   Social Responsibility
     *   Product Security
     *   Legal Information
+    *   Privacy
     *   Jobs at Lenovo
 *   Shop by Industry
     *   Small Business Store
@@ -469,7 +469,6 @@ Please use the Back button on your browser or close this window to return to the
     *   Product Registration
     *   Product Accessibility
     *   Affinity Discount Program
-    *   Lenovo Trade-In Program
     *   Customer Feedback
 
 social
