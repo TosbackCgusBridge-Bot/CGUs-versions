@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (26)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  CAROLYN
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (26)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13377672087
+true true C13378784485
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Fri Apr 03 02:11:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sat Apr 04 04:41:27 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,21 +47,23 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
+Last Day!
+
 In Store and Online
 
-Ends April 4. CODE: 4THESALE
+CODE: 4THESALE
 
 $10 Off\* $25 or more.
 
 Online Only
 
-Ends April 4. CODE: 4BIGSAVE
+CODE: 4BIGSAVE
 
 Or, Extra 20% Off\* $100 or more.
 
 In Store and Online
 
-Ends April 4. CODE: 4BIGSAVE
+CODE: 4BIGSAVE
 
 Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
 
@@ -73,22 +75,14 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
     
     Entire Store on sale! Excludes Nike and Sephora.
     
-    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattressesUp To $50 Bonus Cash!
-    
-    April 1 through 4. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 6 through April 19, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
-    
-    Thousands of Night and Day Doorbusters
-    
-    Use your coupon and save even more! In store and online all day Friday through Saturday 1PM CDT.
-    
-    shop now
+    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses
 *   Home Sale 30-50% Off
     
     Select styles.
     
     shop all home shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 
-40% Off Dress Event
+Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry and Fashion Silver shop now 40% Off Dress Event
 
 Select styles.
 
@@ -100,7 +94,7 @@ Select Nike styles only.
 
 Excluded from coupon.
 
-shop now 40-50% Off Select Blinds and Shades shop now Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry and Fashion Silver shop now JCP Rewards
+shop now 40-50% Off Select Blinds and Shades shop now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
