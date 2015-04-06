@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
+*   Tips for Buying Safely on Etsy
 *   Community Guidelines
-*   What is the DMCA?
