@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  KIRK
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13378784485
+true true 10.60.216.10 C13382230964
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sat Apr 04 04:41:27 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sun Apr 05 05:50:51 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,72 +47,89 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Last Day!
-
-In Store and Online
-
-CODE: 4THESALE
-
-$10 Off\* $25 or more.
-
-Online Only
-
-CODE: 4BIGSAVE
-
-Or, Extra 20% Off\* $100 or more.
-
-In Store and Online
-
-CODE: 4BIGSAVE
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. print store coupon
-
-*   Our Biggest Sale Of The Season
+*   happy easter  
+    extra 25% off
     
-    Starts now!
+    today only
     
-    Entire Store on sale! Excludes Nike and Sephora.
+    select styles
     
-    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses
+*   home sale  
+    30-50% off
+    
+    select styles
+    
+*   spring apparel  
+    for the family  
+    40-50% off
+    
+    select styles
+    
+*   swimwear  
+    for the family  
+    30-40% off
+    
+    select styles
+    
+
+*   Happy Easter!
+    
+    All day, online only. Code: 4EASTER
+    
+    Extra 25% Off\* select styles.
+    
+    Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+    
+    get detailsshop women's shop shoes shop jewelry shop bedding shop men's shop lingerie shop window shop furniture shop kids' shop baby shop kitchen shop home decor
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    shop all home shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+    shop home40-50% Off Easter Dining and Entertaining
+    
+    Select styles.
+    
+    shop now shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book
+*   Spring Stock Up 40-50% Off Spring Apparel for the Family
+    
+    Select styles.
+    
+    shop women's shop men's shop kids'
+*   30-40% Off Women's Swimwear
+    
+    Select styles when you buy 2 or more.
+    
+    Make a splash with swimwear fo the family.
+    
+    shop women's swimwear shop kids' swimwear shop men's swimwear shop men's swimwear shop swimwear
 
-Billion Dollar Jewelry Sale shop the saleDiamond Blossom shop Diamond Blossom40-60% Off Fine Jewelry and Bijoux Bar shop now20-50% Off Watches shop now30-60% Off Fashion Jewelry and Fashion Silver shop now 40% Off Dress Event
+What's New
 
-Select styles.
+Refresh your closet for spring! See what's trending now.
 
-shop now 50% Off Select Kids' Easter Dress Up shop now 50% Off Select Suit Separates, Sport Coats and Dress Pants shop now 30-40% Off Select Swimwear for Her shop now Nike Sale
-
-Select Nike styles only.
-
-20-25% Off Select Nike Shoes for the Family
-
-Excluded from coupon.
-
-shop now 40-50% Off Select Blinds and Shades shop now JCP Rewards
+shop women's shop jewelry shop men's shop shoes shop kids' shop home JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
 sign up today SportsFanShop
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
 
-Excluded from coupon.
+shop now Just $5
 
-shop now Say Hello to the All-New JCPenney App learn more download on the app store
+Get ALL your favorite magazines from TimeInc. today.
 
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+shop now JCPenney Optical
 
-JCPenney Optical
+A sale just for you. 50% off or more!
 
-50% off select frames, lenses and lens options. Plus, an extra $25 off select optical purchases.
+get details Download the JCPenney App
 
-get details
+Fast browse and shop. Quick scan in-store product lookup. Find coupons. Save your faves.
+
+Apple and the Apple logo are trademarks of Apple Inc, registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
+learn more download on the App store
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
