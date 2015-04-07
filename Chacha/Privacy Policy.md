@@ -1,27 +1,24 @@
+About ChaCha
+
 *   Home
 *   About
-    *   Fast Facts
-    *   Leadership Team
-    *   Board of Directors
-    *   Careers
-        *   Full-Time Positions
-        *   Internships &. Temporary
-        *   Become a Guide
+*   Board of Directors
+*   Leadership Team
+*   Become a Guide
 *   Advertising
-*   Self Serve Ads
-    *   Resources
+*   Press Releases
 *   News
-    *   Press Releases
-    *   ChaCha In the News
-    *   Blog
-    *   Events
-    *   Press Room
+*   ChaCha In the News
+*   Blog
+*   Events
+*   Press Room
 *   Contact Us
-    *   ChaCha on Facebook
-    *   ChaCha on Twitter
-    *   ChaCha on YouTube
-    *   File a Complaint
+*   ChaCha on Facebook
+*   ChaCha on Twitter
+*   ChaCha on YouTube
+*   File a Complaint
 *   Try ChaCha Now!
+*   Fast Facts
 
 Privacy Policy
 
@@ -35,7 +32,7 @@ This Privacy Policy summarizes ChaCha’s privacy practices and the uses of the 
 
 In connection with your access to or use of the Site or the Services, ChaCha may request and/or collect from you personal information that may include: first and last name, address, phone number, email address, location or other information (”Personal Information”). By accessing or using the Site or the Services you are accepting the terms of ChaCha’s Privacy Policy.
 
-Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the "ChaCha.me Service"), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
+Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the “ChaCha.me Service”), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
 
 IF YOU DO NOT AGREE TO THE PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE CHACHA SITE OR SERVICES.
 
@@ -117,32 +114,3 @@ If you ever wish to access your Personal Information, or to have your Personal I
 E-mail: customer.relations@chacha.com
 
 Effective Date: June 10, 2014
-
-Search Latest From ChaCha The Future of Wearable Technology October 3, 2013 · Comments Off
-
-While geeks accepted wearable technology first, will the general public get on board? You probably thought your Uncle Henry was a little weird (and annoying) when he kept showing you …
-
-Paid Peer-to-Peer Q&A: A Question Worth Asking September 17, 2013 · Comments Off
-
-When choosing an “expert” over crowdsourced advice, first read the Q&A site’s the fine print, get a money-back guarantee, and find out whether your Q or A lives on in …
-
-ChaCha and Social Reactor Expand Sales Team, Grow Digital Expertise July 10, 2013 · Comments Off
-
-Addition of Four Senior Executives Strengthens Commitment to Premium Social Engagement and Contextually Relevant Advertising NEW YORK &. CARMEL, Ind., July 10, 2013 – ChaCha, the leading human-powered Q&A site …
-
-Top Level Menu
-
-*   Home
-*   About ChaCha
-*   Advertising
-    *   Advertising Policy
-*   Resources
-*   News
-*   Careers
-*   ChaCha on Facebook
-*   ChaCha on Twitter
-*   Contact Us
-
-Latest Tweets Tweets by @ChaCha Facebook
-
-© Copyright 2006-2015 ChaCha Search, Inc. – Experimental Use, All Rights Reserved, May Be Covered by US or Foreign Patents or Patents Pending. Copyright Notice _|_ Terms of Use _|_ Privacy
