@@ -201,9 +201,9 @@ Email sent!
 
 An email is on its way to . If you don’t see it, try checking your Spam folder.
 
-Okay Your session has expired
+Okay This page is out of date
 
-Refresh the page to get things working again!
+Refresh the page to get OkCupid working again!
 
 *   Refresh
 
