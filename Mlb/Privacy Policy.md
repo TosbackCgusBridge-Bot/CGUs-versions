@@ -46,13 +46,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
-    *   2015 Spring Training
-    *   Season Previews
-    *   MLB Pipeline
-    *   Cut 4
-    *   Clean Starts
+    *   Opening Week
     *   Must C
     *   Chatting Cage
+    *   Clean Starts
+    *   Cut 4
+    *   MLB Pipeline
 *   Stats Stats Stats
     *   Players
     *   Regular Season League Leaders
@@ -60,7 +59,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Regular Season Pitching Leaders
     *   Milestone Tracker
     *   Top Rookies Tracker
-    *   Offseason LeaguesSortable Stats
+    *   Offseason LeaguesSteal A Home Sweeps Sortable Stats
 *   Standings Standings Standings
     *   Regular Season Standings
     *   Wild Card Standings
@@ -168,6 +167,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Player News &. Updates
     *   Closer Report
     *   Injury Report
+    *   Player Preview
     *   WGT Baseball: MLB
     *   Prospect Watch
     *   Fantasy 411 Blog
