@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  KIRK
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13382230964
+true true C13384978964
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sun Apr 05 05:50:51 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Apr 06 11:15:07 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,15 +47,13 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   happy easter  
-    extra 25% off
-    
-    today only
+*   3 days only  
+    30-50% off
     
     select styles
     
-*   home sale  
-    30-50% off
+*   3 days only  
+    extra 20% off
     
     select styles
     
@@ -72,24 +70,16 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Happy Easter!
+*   3 Days Only
     
-    All day, online only. Code: 4EASTER
+    Online only, April 6 through 8. Code:BUYITNOW
     
-    Extra 25% Off\* select styles.
+    get details50% Off\* Select and Regular-Priced Items shop luggage shop window shop bedding and bath40% Off\* Select and Regular-Priced Items shop home decor shop furniture and mattresses30% Off\* Select and Regular-Priced Items shop kitchen and dining shop vacuums and floorcare shop storage and organization get details
+*   3 Days Only
     
-    Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+    Online only, April 6 through 8. Code:BUYITNOW
     
-    get detailsshop women's shop shoes shop jewelry shop bedding shop men's shop lingerie shop window shop furniture shop kids' shop baby shop kitchen shop home decor
-*   Home Sale 30-50% Off
-    
-    Select styles.
-    
-    shop home40-50% Off Easter Dining and Entertaining
-    
-    Select styles.
-    
-    shop now shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book
+    get detailsExtra 20% Off\* select original, regular, sale and clearance-priced items shop women's shop men's shop women's shop kids' shop shoes shop accessories shop fashion jewelry shop baby furniture and bedding shop custom blinds and shades shop clearance
 *   Spring Stock Up 40-50% Off Spring Apparel for the Family
     
     Select styles.
