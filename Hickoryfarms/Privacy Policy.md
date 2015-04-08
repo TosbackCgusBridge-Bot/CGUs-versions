@@ -6,7 +6,8 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Easter Favorites
+    *   Mother's Day Favorites
+    *   Spring Favorites
     *   Gift Boxes
     *   Gift Baskets
         
@@ -53,7 +54,8 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Easter Favorites
+    *   Mother's Day Favorites
+    *   Spring Favorites
     *   Gift Boxes
     *   Gift Baskets
         
