@@ -561,6 +561,7 @@ Create a free website Google Plus Facebook Twitter
 *   Report a Site
 *   Affiliates
 
+With a powerful free website builder and professional website templates, Webs can help you easily create the website you’ve always wanted to promote your small business, sell something online, or simply showcase your creativity.  
 Ready to get started? Get helpful tips for small business websites and more in our resource center.
 
 ©2015 Webs. A Vistaprint company. All Rights Reserved.
