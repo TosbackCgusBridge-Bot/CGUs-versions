@@ -134,20 +134,19 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     1.  See all Accessories &. Software
     2.  Accessories Hardware Pairings for Your PC
         1.  Audio &. Video
-        2.  Battery Finder
-        3.  Power Store
-        4.  Cameras &. Scanners
-        5.  Bags &. Carrying Cases
-        6.  Docks &. Port Replicators
-        7.  Keyboards &. Mice
-        8.  Memory
-        9.  Monitors
-        10.  Printer Store
-        11.  Security &. Protection
-        12.  Storage
-        13.  Tablet Accessories
-        14.  Wireless &. Networking
-        15.  See all Accessories
+        2.  Power Store
+        3.  Cameras &. Scanners
+        4.  Bags &. Carrying Cases
+        5.  Docks &. Port Replicators
+        6.  Keyboards &. Mice
+        7.  Memory
+        8.  Monitors
+        9.  Printer Store
+        10.  Security &. Protection
+        11.  Storage
+        12.  Tablet Accessories
+        13.  Wireless &. Networking
+        14.  See all Accessories
     3.  Software Tools to Help You Do
         1.  Lenovo Apps
         2.  Enterprise Software
