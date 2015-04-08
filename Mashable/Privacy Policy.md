@@ -1,6 +1,6 @@
 **Mashable. Privacy Policy**
 
-This Privacy Policy was last updated on October 27, 2014.
+This Privacy Policy was last updated on April 7, 2015.
 
 We take your privacy very seriously and are committed to being transparent with how we use your information. This website (www.mashable.com), mobile application and any of our services and sites directing you to this Privacy Policy are controlled by Mashable, Inc (collectively "we" or "us"). This Privacy Policy also incorporates the terms contained in the Terms of Use http://mashable.com/terms/. and Cookies Policy http://mashable.com/cookie-policy
 
@@ -63,13 +63,15 @@ http://mashable.com/cookie-policy
 
 We and our service providers may use advertising cookies to deliver ads that we believe are more relevant to you and your interests. For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our Site, to limit the number of times you see the same ad on our Site and to help measure the effectiveness of our advertising campaigns. These cookies remember what you have looked at on the Site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.
 
-For more information about targeting and advertising cookies and how you can opt out, visit:
+Please visit the links below to opt-out of cookies from over 50+ major third party behavioral advertising providers:
 
 \- Network Advertising Initiative: http://www.networkadvertising.org/choices/
 
 \- European Interactive Digital Advertising Alliance: http://www.youronlinechoices.eu/
 
 \- http://www.youronlinechoices.com/uk/your-ad-choices
+
+\- Digital Advertising Alliance: http://www.aboutads.info/choices/
 
 **Local Storage - HTML5/Flash Cookies**
 
