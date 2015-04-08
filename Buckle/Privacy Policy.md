@@ -1,6 +1,6 @@
-Free drawstring bag when you
+Buckle Cardholders
 
-shop these brands.
+receive your exclusive gift.
 
 Online Orders 800-607-9788
 
