@@ -1,6 +1,6 @@
 Skip to Content
 
-*   My CareerBuilder
+*   My CareerBuilderMy CareerBuilder
 *   Find Jobs
 *   Resumes
 *   Recommendations
