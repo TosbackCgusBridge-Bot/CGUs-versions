@@ -46,6 +46,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   GetGreat.com
     
     Featured
+    *   THIS
     *   Opening Week
     *   Must C
     *   Chatting Cage
