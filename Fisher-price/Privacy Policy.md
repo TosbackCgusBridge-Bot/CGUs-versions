@@ -98,7 +98,7 @@ Main Menu
 
 *   Other F-P Sites
 *   International
-*   U.S. (En Espanol)
+*   U.S. (en español)
 *   Submit Product Ideas
 
 *   Fisher-Price Terms and Conditions (UPDATED) |
