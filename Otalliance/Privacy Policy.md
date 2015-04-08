@@ -99,7 +99,7 @@ Mon, Apr 13, 2015 AGILITY 2015
 
 We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
 
-Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Tue, Apr 21, 2015 OTA Member RSA Events
+Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Tue, Apr 21, 2015 OTA Member RSA Events
 
 **Join OTA and attend these recommended events and sessions**
 
@@ -110,6 +110,10 @@ Visit Booth #S839 in the South Hall.  Learn how you can optimize your SSL and s
 
 *   OTA Blog
 *   Newsletters
+
+Tue, Apr 7, 2015 OTA Expands Board with Industry Experts
+
+The Online Trust Alliance (OTA) today announced the expansion of its board of directors, welcoming leaders in digital marketing, security, privacy and compliance.   Reflecting the diversity of our growing membership and the issues impacting business models, OTA welcomes David Fowler, Chief Privacy &. Digital Compliance Officer at Act-On. Neill Feather, President of SiteLock, and Danny McPherson, Senior Vice President and Chief Security Officer at Verisign to the Board.Collectively, these new board members complement our existing extensive knowledge base that OTA members have ac
 
 Mon, Mar 2, 2015 When Are Free Online Services Not Free – Are You Willing to Pay the Ultimate Price?
 
@@ -122,10 +126,6 @@ The Identity Theft Council would like you to join  us in supporting 100 Cities 
 Tue, Feb 17, 2015 White House Cyber &. Consumer Protection Summit
 
 Last Friday I had the privilege to attend the White House Cybersecurity &. Consumer Protection Summit, hosted at Stanford University.  Attendees included CEO's of leading organizations ranging from American Express, AIG, Intel, Bank of America, MasterCard, to Kaiser Permante, PayPal, QVC, Walgreens and the Center of Democracy &. Technology.  Key messages delivered through the day included the importance of government – private sector collaboration, the sharing of threat data with the government and government sharing the data back to the business community.
-
-Thu, Feb 12, 2015 Data Privacy &. Protection Day - Breach Legislation
-
-OTA’s 2015 Data Privacy &. Protection Day Town Halls attracted over 500 attendees, including leading experts in public policy, privacy and security. In each city, a fireside chat with an FTC Commissioner kicked off each Town Hall including Commissioner McSweeney with OTA President Craig Spiezle in Silicon Valley, followed by Commissioners Ohlhausen and Brill in NYC and DC respectively. View the Video Highlights
 
 Resources
 
