@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Complying with International Trade Laws
-*   Community Guidelines
+*   Terms of Use
+*   Privacy Policy for Mobile Apps
