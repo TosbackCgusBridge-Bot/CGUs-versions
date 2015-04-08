@@ -22,7 +22,7 @@ Get Your Allergy Alert Mobile App Add Allergy Alerts to Your Website Get Your 2 
 *   Join the Program
 *   Affiliate Login
 
-Advertisement Your trust and privacy is of the greatest importance to Pollen.com. Advertisement  
+Advertisement Your trust and privacy is of the greatest importance to Pollen.com. Advertisement
 
 Our success depends on our ability to deliver useful and accurate information, and maintain your trust. We will always tell you what information, if any, we collect about you, and how we'll use that information. And, we will always give you the clear choice not to participate in special offers, or have us share your information with our marketing partners.
 
@@ -80,4 +80,4 @@ Or send us a message by clicking here.
 Important Information About Accepting/Declining Cookies
 
 Home  |   About Us   |   Contact Us   |   F.A.Q.   |   Terms of Use   |   Privacy Policy   |   Advertising   |   Site Map   |   Links Copyright © 2015 IMS Health Incorporated. All rights reserved. Pollen.com Mobile Site  
-Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 5/1/2014
+Pollen.com and Allergy Alert are registered trademarks of IMS Health Incorporated. Page Last Modified: 4/7/2015
