@@ -1,3 +1,5 @@
+Changes were made to this privacy policy on Apr 8th, 2015. A clause was added, stating that personally identifiable information will be de-identified, analyzed and compared at an aggregate level for statistical purposes. More detail included regarding Flash LSOs (Local shared objects). Added more information about public profiles. Historical changes can be viewed here.
+
 Privacy Policy
 
 For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our web site www.drugs.com. The terms "you" and "end-user" refer to you as a user of this web site. This privacy policy applies to www.drugs.com owned and operated by Drugsite Trust. This privacy policy describes how Drugsite Trust collects and uses the personally identifiable information you provide on our web site: http://www.drugs.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
