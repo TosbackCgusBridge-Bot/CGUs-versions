@@ -69,7 +69,7 @@ Compliance Notices
 
 Changes to this Privacy Policy Contact Information What does this privacy policy cover?
 
-This policy covers how treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our Opt-Out Policy.
+This policy covers how PeopleSmart.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our Opt-Out Policy.
 
 Our website also includes links to other websites whose privacy practices may differ from those of Inflection.com, Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
@@ -79,7 +79,7 @@ We collect some information that is personal (i.e. information that identifies y
 
 Registration Information
 
-When you register for an account to use , we may collect the following information:
+When you register for an account to use PeopleSmart.com, we may collect the following information:
 
 *   Your name, email address, mailing address, phone number, and password
 *   Your birthdate
@@ -156,7 +156,7 @@ Security
 
 When you enter sensitive information such as a credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at privacy@.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at privacy@peoplesmart.com.
 
 When do we share your information?
 
@@ -180,7 +180,7 @@ We may share or disclose information that is non-private, anonymously aggregated
 
 Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@peoplesmart.com.
 
 Business Transfers
 
@@ -207,7 +207,7 @@ If you are a law enforcement officer seeking information from Inflection about o
 
 How do I access and control my personal information? Access and Choice
 
-You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our Privacy Team at privacy@. We will respond to your request within 30 days.
+You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our Privacy Team at privacy@peoplesmart.com. We will respond to your request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -215,7 +215,7 @@ Communication Preferences
 
 We may send you information about our products, notify you of any changes to your account, or send confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing emails.
 
-If you would like to stop receiving newsletters and marketing emails from please provide us with the email address you would like to unsubscribe by emailing privacy@ or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
+If you would like to stop receiving newsletters and marketing emails from PeopleSmart.com please provide us with the email address you would like to unsubscribe by emailing privacy@peoplesmart.com or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
 
 Compliance Notices California Do Not Track Disclosure
 
@@ -229,7 +229,7 @@ We do not share your personal information with third parties for their own use w
 
 Children’s Online Privacy Protection Act
 
-complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems.
+PeopleSmart.com complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems.
 
 Changes to this Privacy Policy
 
@@ -237,9 +237,9 @@ We may update this privacy policy to reflect changes to our information practice
 
 Contact Information
 
-If you have questions or concerns regarding this policy, you can contact us by emailing privacy@, calling 1-888-813-0008, or writing to us at:
+If you have questions or concerns regarding this policy, you can contact us by emailing privacy@peoplesmart.com, calling 1-888-813-0008, or writing to us at:
 
-  
+PeopleSmart.com  
 ATTN: Privacy Department  
 P.O. Box 391146  
 Omaha, NE 68139
