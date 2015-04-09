@@ -23,7 +23,6 @@ Remember me on this computer Sign in
     *   Lexicon
     *   ePaper
     *   Search
-    *   VAT and invoicing for EU customers
     *   Clippings
     *   Alerts hub
     *   Terms and conditions
@@ -103,7 +102,7 @@ The elements of your Data that we collect may include:
 *   Market research data such as readership patterns
 *   Usage statistics
 
-We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our Cookies Policy for more details.
+We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our Cookie Policy for more details.
 
 **Use and Disclosure of Personal Information**  
 We use your Data for purposes which may include:
@@ -119,7 +118,7 @@ We use your Data for purposes which may include:
 *   contacting you about specific recruitment opportunities if you register search criteria information on our recruitment sites.
 *   monitoring compliance with our Terms and Conditions and Copyright Policy
 
-See our Cookies Policy for more details.
+See our Cookie Policy for more details.
 
 If you wish to receive information about FT group products or services or from other carefully selected organisations about products or services they offer, please indicate your preferences using the consent boxes when providing us with your Data.
 
@@ -136,7 +135,7 @@ We use technology on the registration, subscription and manage my account pages 
 
 **Use of Cookies and Other Tracking Devices**
 
-Please refer to our Cookies Policy.
+Please refer to our Cookie Policy.
 
 **Security Policy**
 
