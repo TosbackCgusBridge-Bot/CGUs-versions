@@ -82,7 +82,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Top Prospects
     *   Mobile Player Alerts
     *   MLB Players Association
-    *   Probable Pitchers
+    *   Probable PitchersFranchise Four
 *   Tickets Tickets Tickets
     *   General Ticket Information
     *   All-Star Summer Ticket Information
