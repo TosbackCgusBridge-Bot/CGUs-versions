@@ -16,7 +16,7 @@ Aéropostale Go
     *   Prom Dress Shop
     *   Swim Shop
     *   Uniform
-    *   Shoe Bar
+    *   Shoes
     *   Extended Sizes
     *   Online Exclusives
     *   Factory
