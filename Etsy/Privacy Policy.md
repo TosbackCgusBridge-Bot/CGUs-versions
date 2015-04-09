@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Terms of Use
-*   Privacy Policy for Mobile Apps
+*   Tips for Buying Safely on Etsy
+*   Copyright and Intellectual Property Policy
