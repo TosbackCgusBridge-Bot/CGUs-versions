@@ -84,7 +84,7 @@ We reserve the right to modify this Policy at any time, so please review it freq
 
 General Terms and Conditions of Use
 
-The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at https://www.opendns.com/terms/
+The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at https://www.opendns.com/terms-of-service/
 
 Effective Date of This Privacy Policy
 
