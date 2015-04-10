@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  John
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13388844109
+true true L13516989181
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Wed Apr 08 06:09:13 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Thu Apr 09 11:07:19 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,13 +47,29 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 days only  
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+Online Only Orders Over $100
+
+Or, Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+Starts today! Ends April 11. ONLINE CODE: BONUS15
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details. print coupon
+
+*   big anniversary bonus sale
+*   home sale  
     30-50% off
-    
-    select styles
-    
-*   3 days only  
-    extra 20% off
     
     select styles
     
@@ -70,21 +86,32 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   3 Days Only
+*   Big Anniversary Bonus Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and diningDoorbusters
     
-    Online only, April 6 through 8. Code:BUYITNOW
+    In store and online. Friday, 3PM CDT through Saturday, 1PM CDT. Use your coupon and save even more.
     
-    get details50% Off\* Select and Regular-Priced Items shop luggage shop window shop bedding and bath40% Off\* Select and Regular-Priced Items shop home decor shop furniture and mattresses30% Off\* Select and Regular-Priced Items shop kitchen and dining shop vacuums and floorcare shop storage and organization get details
-*   3 Days Only
+    view doorbusters$15 Bonus Cash
     
-    Online only, April 6 through 8. Code:BUYITNOW
+    In store only April 9 through 11. Earn a $15 Bonus Cash Coupon when you spend $50 or more in store. Redeemable April 12 through 25, 2015. Some restrictions and exclusions apply. See store associate for details.
     
-    get detailsExtra 20% Off\* select original, regular, sale and clearance-priced items shop women's shop men's shop women's shop kids' shop shoes shop accessories shop fashion jewelry shop baby furniture and bedding shop custom blinds and shades shop clearance
-*   Spring Stock Up 40-50% Off Spring Apparel for the Family
+*   Home Sale 30-50% Off
     
     Select styles.
     
-    shop women's shop men's shop kids'
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook shop bedding and bath
+*   Spring Stock Up 40-50% Off Stylus Apparel
+    
+    Select styles.
+    
+    shop stylus apparel40-50% Off Men's St. John's Bay
+    
+    Select styles.
+    
+    shop St. John's Bay50% Off Arizona and Total Girl Shorts and Tees
+    
+    Select styles.
+    
+    shop shorts and tees shop shorts and tees
 *   30-40% Off Women's Swimwear
     
     Select styles when you buy 2 or more.
