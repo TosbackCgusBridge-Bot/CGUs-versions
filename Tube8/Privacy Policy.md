@@ -284,19 +284,31 @@ AdBlock blows! Please disable the add-on to ensure you get the most out of Tube8
 *   Strip
 *   Teen
 
+Legal
+
+*   Terms &. Conditions
+*   Privacy Policy
+*   2257 Statement
+*   DMCA
+
+Support
+
+*   FAQ
 *   Blog
-*   Trending
+*   Feedback Forum
+*   Contact Us
+
+Collaborate
+
 *   Content Partner Program
 *   Advertise
-*   Mobile Porn
 *   Webmasters
-
-*   Terms
-*   Privacy
-*   18 USC 2257 Statement
-*   DMCA
-*   Feedback Forum
 *   Site Map
-*   Contact Us
+
+Discover
+
+*   Mobile Version
+*   Tablet Version
+*   Hall of Fap
 
 Copyright © 2007-2015 Tube8.com, All Rights Reserved.
