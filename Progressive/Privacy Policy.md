@@ -100,10 +100,6 @@ Please select from the following list to review the Privacy Policy for your stat
 *   Wisconsin
 *   Wyoming
 
-Back
-
-Back
-
 Contact Information
 
 To obtain additional information regarding our Privacy Policy, write to:
@@ -114,6 +110,10 @@ The Progressive Group of Insurance Companies
 Mayfield Village, Ohio 44143  
 
 Call: 1-440-461-5000
+
+Back
+
+Back
 
 
 
