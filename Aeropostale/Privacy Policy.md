@@ -16,7 +16,6 @@ Aéropostale Go
     *   Prom Dress Shop
     *   Swim Shop
     *   Uniform
-    *   Shoes
     *   Extended Sizes
     *   Online Exclusives
     *   Factory
@@ -98,6 +97,7 @@ Aéropostale Go
     
     *   GUYS
     *   Clearance Tops
+    *   Clearance Bottoms
     *   Clearance Accessories
     
     *   ROOM
@@ -129,6 +129,7 @@ Aéropostale Go
     
     *   GUYS
     *   Factory Tops
+    *   Factory Bottoms
     *   Factory Accessories
 *   Aero Now
 
