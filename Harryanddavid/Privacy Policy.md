@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective: September 12, 2013
+Effective: December 30, 2013
 
 *   Information We Collect
 *   Using the Information We Collect
