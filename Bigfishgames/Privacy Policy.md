@@ -1,6 +1,6 @@
 Big Fish Games, Inc. Privacy Policy
 
-Last modified: September 18th, 2014
+Last modified: April 9th, 2015
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering. **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
@@ -8,7 +8,7 @@ The term **"Big Fish"** means Big Fish Games, Inc. and/or its Affiliates. The te
 
 INFORMATION THAT WE MAY COLLECT Personally Identifiable Information:
 
-We may collect the following information when you sign up with a Big Fish Offering: first name, last name, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment.
+We may collect the following information when you sign up with a Big Fish Offering: first name, last name, date of birth, email address, mailing address, phone number, credit or debit card information or other payment details, depending on your form of payment.
 
 Technical Information:
 
@@ -40,7 +40,7 @@ We may collect aggregated, anonymized information via Big Fish Offerings that do
 
 USE AND SECURITY OF COLLECTED INFORMATION
 
-We may use your username, email address, and password to uniquely identify you as a user on a Big Fish Offering, to provide you with services and to process transactions. We may use or display your username and icon or profile photo, if applicable, for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores.
+We may use your username, email address, and password to uniquely identify you as a user on a Big Fish Offering, to provide you with services and to process transactions. We may use or display your username and icon or profile photo, if applicable, for the purposes of rankings, competitions or sweepstakes, chat identification, and/or game high scores. We may use your date of birth to confirm your eligibility to participate in Big Fish Offerings.
 
 Subject to the terms of this Privacy Policy, we may use your contact information to process our promotional newsletters and/or email campaigns and to send you updates, security alerts, or administrative messages relating to Big Fish Offerings. Your contact information will allow us to notify you about new features, enhancements, resolution of Big Fish Offerings problems, handle and/or route your customer support questions and issues, and inform you of upgrade opportunities, sweepstakes, contests, prizes, and/or special events.
 
