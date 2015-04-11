@@ -10,19 +10,23 @@ Yes, we do. All customer and order information is securely stored behind a firew
 
 **What kind of information do you collect from me when I visit your web site?**
 
-We do not collect any information from those merely visiting our site. We do ask for additional information if you would like to place an order, request an order status or a free catalog, or if you need to communicate with us regarding an account issue.
+We do not collect any personally identifiable information from those merely visiting our site. We do ask for additional information if you would like to place an order, request an order status or a free catalog, or if you need to communicate with us regarding an account issue.
+
+**What are cookies and how do you use them?**
+
+"Cookies" are files that are stored on your device's hard drive by your web browser and are used to improve your online experience. Cookies help us identify account holders and optimize their shopping experience by allowing functions such as online shopping carts. Accepting cookies through your web browser is your personal choice. You can set your browser to disable cookies. However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie.  
+  
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.  
+  
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
 
 **Does The Lakeside Collection® share information it collects from me with outside parties?**
 
-The information you provided on the web site is used to fulfill a product order, a catalog request or research a customer inquiry. The information that you provide is stored in house separate from the Internet. We do occasionally share name and address information with other catalog companies that offer similar products. We will not share any personal financial information. If you are on our catalog mailing list, or order from one of our catalogs, and would prefer not to have your name shared with other catalog companies, please email at **MarketingDepartment@lakeside.com** and ask that your name not be shared. From time to time, we may modify or amend this privacy and security policy in order to comply with new laws or regulations or to reflect future changes in our business practices. All such modifications and amendments to the privacy and security policy shall be posted here in the Customer Service section of www.lakeside.com. The current policy has been in effect since January 2007.
-
-**What are 'cookies' and how do you use them?**
-
-'Cookies' are small bits of information that are sent from the Web server and kept on your browser. They are used by the Web server so it can remember who you are as you browse from page to page of our website. The cookie we send to your browser is not written to any file on your computer. It is only kept in memory and goes away when you exit your browser program. The content is simply a single number that helps us remember your order information.
+The information you provided on the website is used to fulfill a product order, a catalog request or research a customer inquiry. The information that you provide is stored in-house separate from the Internet. We do occasionally share name and address information with other catalog companies that offer similar products. We will not share any personal financial information. If you are on our catalog mailing list, or order from one of our catalogs, and would prefer not to have your name shared with other catalog companies, please email at **MarketingDepartment@lakeside.com** and ask that your name not be shared. From time to time, we may modify or amend this privacy and security policy in order to comply with new laws or regulations or to reflect future changes in our business practices. All such modifications and amendments to the privacy and security policy shall be posted here in the Customer Service section of www.lakeside.com. The current policy has been in effect since April 2015.
 
 **What do you do with my email address?**
 
-The Lakeside Collection® collects your email address as part of your registration with us. We use this address to communicate with you about your account. We do not sell or otherwise give out your email address to others.
+The Lakeside Collection® collects your email address as part of your registration with us. We use this address to communicate with you about your account. We do not sell your email address to others.
 
 **How else do you use information about me?**
 
