@@ -214,22 +214,38 @@ Find information on financing or leasing your new Subaru.
 *   Trade-In Appraisal
 *   View a Brochure
 
-All Things Subaru  
+Design
 
-See all the things that make Subaru vehicles so loved.
+featuring Symmetrical AWD
 
-Enjoy Life  
+ 
 
-Explore the versatility to make every day an adventure.
+Learn about everything that goes into designing a Subaru.
 
-Stay Safe  
+Technology
 
-Learn what goes into every Subaru to protect you.
+featuring STARLINK™
 
-Love Every Mile  
+ 
 
-See why an owner's love for Subaru lasts forever.
+Explore intuitive options that can make your life easier.
 
+Safety
+
+featuring EyeSight®
+
+ 
+
+See what a Subaru can do to protect you.
+
+Awards &. Accolades  
+
+See how the experts rate Subaru and our models.
+
+*   All Things Subaru
+    
+    See all the things that make Subaru vehicles so loved.
+    
 *   Environment
     
     See what we're doing to be a leader in green initiatives.
@@ -244,13 +260,11 @@ See why an owner's love for Subaru lasts forever.
     
 
 *   Compare Vehicles
-*   Engineering and  
-    Technology
-*   Social Responsibility
-*   Awards and Accolades
-*   Dear Subaru
-*   Love Promise
 *   Benefits of Ownership
+*   Love Promise
+*   Dear Subaru
+*   Live. Love.
+*   Social Responsibility
 
 Company
 
