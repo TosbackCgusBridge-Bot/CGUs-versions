@@ -160,7 +160,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Free Agent Frenzy
     *   MLB.com Beat Reporters' BTS Picks
     *   Head to Head Challenge
-    *   Yahoo Fantasy Baseball
+    *   Yahoo! Fantasy Baseball
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
     *   MLB Ballpark Empire
