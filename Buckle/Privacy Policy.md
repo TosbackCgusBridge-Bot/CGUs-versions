@@ -1,6 +1,6 @@
-Buckle Cardholders
+Spring Brand Event - Online Sweepstakes
 
-receive your exclusive gift.
+Enter Now
 
 Online Orders 800-607-9788
 
@@ -62,11 +62,13 @@ My Bag (0) Wish List Search
     *   How to Return
     *   Watch Warranty
 *   Promotions
+    *   Spring Brand Event Official Rules 2015
     *   Buckle Credit Card Water Bottle Offer
+    *   Bethany Hamilton Event
     *   Bench Gear Giveaway Official Rules
+    *   Social Giveaway Official Rules
     *   Store Events
     *   Sweepstakes Winners
-    *   Social Giveaway Official Rules
     *   Find Your Denim Sweepstakes Rules
 *   Gift Cards/Services
     *   Gift Services
