@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13522520461
+true true L13522663595
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p36.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Fri Apr 10 11:15:41 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Apr 11 05:23:43 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,15 +47,13 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Ends April 11. ONLINE CODE: BONUS15
-
 In Store and Online
 
 Extra 20% Off\* with your JCPenney Credit Card.
 
 Or, Extra 15% Off\* with any other method of payment.
 
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
 
 Online Only Orders Over $100
 
@@ -63,55 +61,88 @@ Or, Extra 25% Off\* with your JCPenney Credit Card.
 
 Or, Extra 20% Off\* with any other method of payment.
 
+Starts today! Ends April 11. ONLINE CODE: BONUS15
+
 \*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
 
-\*See exclusions and details. print coupon Big Anniversary Bonus Sale shop the sale shop the sale view store ad$15 Bonus Cash!
+\*See exclusions and details. print coupon
 
-Ends April 11. Earn a $15 Bonus Cash Coupon when you spend $50 or more in store. Redeemable April 12 through April 25, 2015. Some restrictions and exclusions apply. See store associate for details.
+*   big anniversary bonus sale
+*   home sale  
+    30-50% off
+    
+    select styles
+    
+*   spring apparel  
+    for the family  
+    40-50% off
+    
+    select styles
+    
+*   swimwear  
+    for the family  
+    30-40% off
+    
+    select styles
+    
 
-Night and Day Doorbusters
+*   Big Anniversary Bonus Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining $15 Bonus Cash
+    
+    Last day! In store only. Earn a $15 Bonus Cash Coupon when you spend $50 or more in store. Redeemable April 12 through 25, 2015. Some restrictions and exclusions apply. See store associate for details.
+    
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook shop bedding and bath
+*   Spring Stock Up 40-50% Off Stylus Apparel
+    
+    Select styles.
+    
+    shop stylus apparel40-50% Off Men's St. John's Bay
+    
+    Select styles.
+    
+    shop St. John's Bay50% Off Arizona and Total Girl Shorts and Tees
+    
+    Select styles.
+    
+    shop shorts and tees shop shorts and tees
+*   30-40% Off Women's Swimwear
+    
+    Select styles when you buy 2 or more.
+    
+    Make a splash with swimwear fo the family.
+    
+    shop women's swimwear shop kids' swimwear shop men's swimwear shop men's swimwear shop swimwear
 
-Use your coupon and save even more! In store and online Friday, 3PM CDT through Saturday, 1PM CDT.
+What's New
 
-shop nowDoorbuster $9.99 St. John's Bay Polo
+Refresh your closet for spring! See what's trending now.
 
-Select styles.
-
-shop St. John's Bay polosDoorbuster 50% Off Sandals for the Family
-
-Select styles.
-
-shop sandalsDoorbuster 50% Off Xersion for Her
-
-Select styles.
-
-shop women's Xersion shop women's XersionDoorbuster 50% Off Carter's
-
-Select styles.
-
-shop Carter'sDoorbuster $5.99 JCPenney Home 30x54" Solid and Striped Bath Towels
-
-Select styles.
-
-shop bath towels Home Sale 30-50% Off
-
-Select styles.
-
-shop the home sale shop bed and bath shop kitchen and dining shop furniture and mattresses shop luggage shop home decor shop window JCP Rewards
+shop women's shop jewelry shop men's shop shoes shop kids' shop home JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
 sign up today SportsFanShop
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
 
-Excluded from coupon.
+shop now Just $5
 
-shop now JCPenney Home Style Book shop the home style book JCPenney Optical
+Get ALL your favorite magazines from TimeInc. today.
 
-A sale just for you 50% off or more!
+shop now JCPenney Optical
 
-get details
+A sale just for you. 50% off or more!
+
+get details Download the JCPenney App
+
+Fast browse and shop. Quick scan in-store product lookup. Find coupons. Save your faves.
+
+Apple and the Apple logo are trademarks of Apple Inc, registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
+learn more download on the App store
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
