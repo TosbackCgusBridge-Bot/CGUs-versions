@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Tips for Buying Safely on Etsy
-*   Copyright and Intellectual Property Policy
+*   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
+*   Complying with International Trade Laws
