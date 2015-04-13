@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13522663595
+true true 10.60.216.10 C13401600098
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p04.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Apr 11 05:23:43 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p32.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sun Apr 12 07:59:36 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,78 +49,104 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
-
-Online Only Orders Over $100
-
-Or, Extra 25% Off\* with your JCPenney Credit Card.
+Extra 25% Off\* with your JCPenney Credit Card.
 
 Or, Extra 20% Off\* with any other method of payment.
 
-Starts today! Ends April 11. ONLINE CODE: BONUS15
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses, custom blinds and shades, portrait and optical.
+
+Ends April 14. USE CODE: VIP4U
 
 \*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
 
 \*See exclusions and details. print coupon
 
-*   big anniversary bonus sale
+*   anniversary vip  
+    sale
 *   home sale  
     30-50% off
     
     select styles
     
-*   spring apparel  
-    for the family  
-    40-50% off
+*   wedges for  
+    spring  
+    40% off
     
     select styles
     
-*   swimwear  
-    for the family  
-    30-40% off
+*   kids' arizona  
+    50% off
     
     select styles
     
 
-*   Big Anniversary Bonus Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining $15 Bonus Cash
+*   Big Anniversary Bonus Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry shop home
     
-    Last day! In store only. Earn a $15 Bonus Cash Coupon when you spend $50 or more in store. Redeemable April 12 through 25, 2015. Some restrictions and exclusions apply. See store associate for details.
+    A.N.A a new approach. Only at JCPenney.
     
-*   Home Sale 30-50% Off
+    shop A.N.AUp To $50 Bonus Cash
     
-    Select styles.
+    In store only! Ends April 19. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 20 through May 2, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
     
-    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook shop bedding and bath
-*   Spring Stock Up 40-50% Off Stylus Apparel
-    
-    Select styles.
-    
-    shop stylus apparel40-50% Off Men's St. John's Bay
+*   40-50% Off Window
     
     Select styles.
     
-    shop St. John's Bay50% Off Arizona and Total Girl Shorts and Tees
+    shop windowHome Sale 30-50% Off
     
     Select styles.
     
-    shop shorts and tees shop shorts and tees
-*   30-40% Off Women's Swimwear
+    shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook
+*   Step Up To Style 40% Off Wedges
     
-    Select styles when you buy 2 or more.
+    Select styles.
     
-    Make a splash with swimwear fo the family.
+    shop wedge sandals$29.99 Arizona Cailyn Platform Wedge Sandals
     
-    shop women's swimwear shop kids' swimwear shop men's swimwear shop men's swimwear shop swimwear
+    Originally $50.
+    
+    shop wedge sandals$35.99 Liz Claiborne Camden Wedge Sandals
+    
+    Originally $60.
+    
+    shop wedge sandals$35.99 Liz Claiborne Kay Braided Wedge Sandals
+    
+    Originally $60.
+    
+    shop wedge sandals$29.99 Pop Katrina Crisscross Lace Platform Wedge Sandals
+    
+    Originally $50.
+    
+    shop wedge sandals$29.99 Arizona Caterina Cork Wedge Sandals
+    
+    Originally $50.
+    
+    shop wedge sandals$29.99 Arizona Carah Strappy Wedge Sandals
+    
+    Originally $50.
+    
+    shop wedge sandals
+*   50% Off Kids' Arizona
+    
+    Select styles.
+    
+    Arizona Jean Co. only at JCPenney.
+    
+    shop kids' Arizona shop kids' Arizona shop girls' Arizona shop girls' Arizona shop boys' Arizona shop boys' Arizona
 
 What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop women's shop jewelry shop men's shop shoes shop kids' shop home JCP Rewards
+shop home shop women's shop men's shop kids' shop shoes shop jewelry All You Need To Finish Your Look
+
+30-60% Off Fashion Jewelry
+
+shop fashion jewelry
+
+Monet® only at JCPenney
+
+shop Monet JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -128,21 +154,11 @@ sign up today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
 
-shop now Just $5
+shop now More Brands To Love
 
-Get ALL your favorite magazines from TimeInc. today.
+jcp salon
 
-shop now JCPenney Optical
-
-A sale just for you. 50% off or more!
-
-get details Download the JCPenney App
-
-Fast browse and shop. Quick scan in-store product lookup. Find coupons. Save your faves.
-
-Apple and the Apple logo are trademarks of Apple Inc, registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
-
-learn more download on the App store
+shop now Download the JCPenney App learn more download on the App store
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
