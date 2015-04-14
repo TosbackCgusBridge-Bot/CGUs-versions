@@ -120,6 +120,7 @@ Symptoms| Doctors| Health Care Reform
     *   Men's Health
     *   Aging Well
     *   Teens
+    *   Fit Kids
     
     Featured Topics
     
