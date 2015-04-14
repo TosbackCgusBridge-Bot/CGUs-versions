@@ -175,7 +175,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
 7.  Services &. Warranty
     1.  See all Services &. Warranty
     2.  Product Support Flexible Warranty Support Options
-        1.  Warranty Upgrades
+        1.  Upgrade Your Warranty
         2.  Warranty Services
         3.  Priority Technical Support
         4.  Tablet Services
