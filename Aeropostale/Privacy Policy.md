@@ -10,6 +10,7 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
+    *   Strappiest Place on Earth
     *   Bethany Mota
     *   United XXVI
     *   Lookbook
@@ -52,6 +53,7 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
+    *   Think Tanks
     *   United XXVI
     *   Lookbook
     *   Uniform
