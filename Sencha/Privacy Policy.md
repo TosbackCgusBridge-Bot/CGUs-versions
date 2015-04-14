@@ -1,4 +1,3 @@
-*   Join us for SenchaCon!
 *   Blog
 *   Forum
 *   Contact Us
