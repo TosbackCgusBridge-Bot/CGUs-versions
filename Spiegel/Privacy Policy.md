@@ -474,7 +474,7 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
 *   SPIEGEL GESCHICHTE
 *   SPIEGEL WISSEN
 *   KULTUR SPIEGEL
-*   UniSPIEGEL
+*   UNI SPIEGEL
 
 *   **SPIEGEL GRUPPE**
 *   Abo
