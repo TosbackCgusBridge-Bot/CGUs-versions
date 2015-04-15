@@ -160,7 +160,7 @@ If you have questions about personal information or suggestions you can contact 
 Related articles
 
 *   Privacy Policy
-*   Unavailable Items With No Photos
 *   Cookies &. Tracking Technologies
-*   Drug Paraphernalia
-*   Etsy Surveys
+*   Unavailable Items With No Photos
+*   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
+*   Complying with International Trade Laws
