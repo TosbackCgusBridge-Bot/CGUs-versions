@@ -50,6 +50,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Opening Week
     *   Must C
     *   Chatting Cage
+    *   DraftKings
     *   Clean Starts
     *   Head &. Shoulders
     *   Daily Dash
