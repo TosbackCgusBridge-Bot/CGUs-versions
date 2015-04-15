@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Apr 13, 2015 AGILITY 2015
-
-We are on the brink of a major shift in how marketing technologies and digital experiences are optimized. Ensighten’s open platform is revolutionizing digital marketing by empowering brands to collect, own and act on their customer data everywhere. The Ensighten user conference – AGILITY – will attract over 800 world-class marketers to the Palace Hotel in San Francisco.
-
 Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Tue, Apr 21, 2015 OTA Member RSA Events
 
 **Join OTA and attend these recommended events and sessions**
@@ -107,6 +103,10 @@ Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now
 
 DigiCert - Use registration code X5EDGCRT  
 Visit Booth #S839 in the South Hall.  Learn how you can optimize your SSL and site security.
+
+Tue, Jun 2, 2015 Internet Retailer Conference &. Exhibition - IRCE 2015
+
+Returning to Chicago, June 2-5, 2015 the Internet Retailer Conference &. Exhibition is the flagship event of the e-commerce industry. A gathering of retail trailblazers across every industry segment, IRCE is the event to network with and learn from industry leaders of all sizes. Total attendance at IRCE 2015 in Chicago is projected reach nearly 10,000.  The consistently high quality of the IRCE conference drives this continual growth.
 
 *   OTA Blog
 *   Newsletters
