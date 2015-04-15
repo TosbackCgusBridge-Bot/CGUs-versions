@@ -124,7 +124,7 @@ Does Care2 use cookies and other Tracking Technologies?
 
 Yes, cookies and other tracking technologies are used on Care2 in several ways.
 
-(1) As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We \[do/ do not\] link this automatically collected data to other information we collect about you.
+(1) As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
 (2) We use cookies to be reminded of whom you are and to access your account information (stored on our computers) to deliver a better and more personalized service to you. Users can control the use of cookies at the individual browser level. If you elect to disable cookies on web browser, you may be unable to use certain Care2 site features that require membership, such as accessing your email account, viewing member profiles, and changing your user preferences.
 
