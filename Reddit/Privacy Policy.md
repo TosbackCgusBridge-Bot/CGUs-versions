@@ -1,4 +1,4 @@
-**reddit privacy policy** _effective Apr 10, 2015_
+**reddit privacy policy** _effective Apr 14, 2015_
 
 > your privacy is genuinely important to us.  
 > here's how we manage and use your data.
@@ -111,74 +111,78 @@ Third Party Sites
 
 32 Certain third party sites may offer users the option to log in using their reddit id (for example, redditgifts). This option is only an authentication tool and does not transmit any new personal information to or from reddit, or give reddit access to details of subsequent actions taken on these sites.
 
+Email Communications
+
+33 When you contact reddit support or subscribe to one of our email newsletters, reddit may use a third party service to send you email messages. All of our email communications are opt-in only. If you do opt into one of our subscription emails, only your email address will be stored with the third party service. We will always make it easy to opt out of our subscription emails, for example, by including a 1-click unsubscribe link.
+
 Data Security
 
-33 reddit will make every effort to secure any private information submitted to us by our users. We also maintain internal security practices designed to keep your data secure and private. As part of this, we limit employee access to user data. However, no data transmission over the internet is completely secure, so we cannot guarantee the absolute security of this data. You use the service at your own risk, and are responsible for taking reasonable measures to secure your account (such as carefully maintaining the secrecy of your password).
+34 reddit will make every effort to secure any private information submitted to us by our users. We also maintain internal security practices designed to keep your data secure and private. As part of this, we limit employee access to user data. However, no data transmission over the internet is completely secure, so we cannot guarantee the absolute security of this data. You use the service at your own risk, and are responsible for taking reasonable measures to secure your account (such as carefully maintaining the secrecy of your password).
 
 International Visitors
 
-34 reddit is a San Francisco, California-based company whose servers are housed in the United States. All personal information we collect from our international users is transferred to the United States and processed according to US law.
+35 reddit is a San Francisco, California-based company whose servers are housed in the United States. All personal information we collect from our international users is transferred to the United States and processed according to US law.
 
-35 reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. reddit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view reddit's certification, please visit http://www.export.gov/safeharbor/.
+36 reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. reddit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view reddit's certification, please visit http://www.export.gov/safeharbor/.
 
-36 In compliance with the Safe Harbor Principles, reddit commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us.
+37 In compliance with the Safe Harbor Principles, reddit commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us.
 
-37 reddit has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed reddit, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+38 reddit has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed reddit, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 Children Under 13
 
-38 Although we welcome users from all walks of life, reddit is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
+39 Although we welcome users from all walks of life, reddit is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us.
 
 Involuntary Pornography
 
-39 reddit is committed to your privacy. If you believe that someone has submitted, without your permission, to reddit a link to a photograph, video, or digital image of you in a state of nudity or engaged in any act of sexual conduct, please contact us (contact@reddit.com), and we will expedite its removal as quickly as possible. reddit prohibits the posting of such content without consent.
+40 reddit is committed to your privacy. If you believe that someone has submitted, without your permission, to reddit a link to a photograph, video, or digital image of you in a state of nudity or engaged in any act of sexual conduct, please contact us (contact@reddit.com), and we will expedite its removal as quickly as possible. reddit prohibits the posting of such content without consent.
 
 reddit mobile
 
-40 reddit’s mobile apps provide a unique and convenient way to experience reddit. This portion of our privacy policy describes the information our apps collect, how we use it, and how it all fits in with the reddit you’re already familiar with.
+41 reddit’s mobile apps provide a unique and convenient way to experience reddit. This portion of our privacy policy describes the information our apps collect, how we use it, and how it all fits in with the reddit you’re already familiar with.
 
 User information we collect
 
-41 Our Apps collect the same user information as described in the What Information We Collect section of this privacy policy.
+42 Our Apps collect the same user information as described in the What Information We Collect section of this privacy policy.
 
 Activity and Device Information
 
-42 Our apps collect certain information about your device, including its IP address, device type, and its current operating system. This information is used for analytics and to improve the reddit service. for example, we use device and OS information to track and fix bugs. It is also used to provide advertising as described below. All stored IP addresses, except the account creation IP address, are deleted after 90 days. We only associate this information with your account when you are signed in.
+43 Our apps collect certain information about your device, including its IP address, device type, and its current operating system. This information is used for analytics and to improve the reddit service. for example, we use device and OS information to track and fix bugs. It is also used to provide advertising as described below. All stored IP addresses, except the account creation IP address, are deleted after 90 days. We only associate this information with your account when you are signed in.
 
 App Advertising
 
-43 To understand who clicks our mobile ads and to avoid showing you the same ad over and over again, we share your device's unique advertising identifier, its IP address, and a list of subreddits used to generate a particular page for you (which may include your subscriptions) with our ad partners, who decide which ads to display for you.
+44 To understand who clicks our mobile ads and to avoid showing you the same ad over and over again, we share your device's unique advertising identifier, its IP address, and a list of subreddits used to generate a particular page for you (which may include your subscriptions) with our ad partners, who decide which ads to display for you.
 
-44 We do not associate your device’s unique advertising identifier with your user account, even if you are signed in on an app.
+45 We do not associate your device’s unique advertising identifier with your user account, even if you are signed in on an app.
 
 Opting out
 
-45 While we have very high standards for the types of ads we show, we also want to make it easy for you to opt out of sending your device's unique advertising identifier to us. To opt out on Android and iOS, please follow these instructions.
+46 While we have very high standards for the types of ads we show, we also want to make it easy for you to opt out of sending your device's unique advertising identifier to us. To opt out on Android and iOS, please follow these instructions.
 
 How reddit uses and discloses app information
 
-46 reddit only uses and discloses your information for the same limited set of purposes and circumstances that we describe in the How We Use or Disclose Collected Information section of this privacy policy.
+47 reddit only uses and discloses your information for the same limited set of purposes and circumstances that we describe in the How We Use or Disclose Collected Information section of this privacy policy.
 
 Your app options Notifications
 
-47 If you enable app notifications, you can choose to receive timely updates about things like new private messages, interactions with your comments, and more.
+48 If you enable app notifications, you can choose to receive timely updates about things like new private messages, interactions with your comments, and more.
 
 Deleting an app
 
-48 If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device. If you have backed up your device’s apps, reddit app information may continue to exist where you have backed it up. Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.
+49 If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device. If you have backed up your device’s apps, reddit app information may continue to exist where you have backed it up. Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.
 
 Social media
 
-49 A reddit app may also allow you to post to social media, including Facebook or Twitter, but reddit will not connect to the servers of those services, share information with those services, or post on your behalf. We want to make it easier for you to share your favorite reddit content elsewhere, but we want you to control when and how that occurs.
+50 A reddit app may also allow you to post to social media, including Facebook or Twitter, but reddit will not connect to the servers of those services, share information with those services, or post on your behalf. We want to make it easier for you to share your favorite reddit content elsewhere, but we want you to control when and how that occurs.
 
 This privacy policy and our apps
 
-50 Please keep in mind that the mobile portion of this privacy policy only applies to the apps reddit owns and controls, which includes apps like reddit AMA and Alien Blue.
+51 Please keep in mind that the mobile portion of this privacy policy only applies to the apps reddit owns and controls, which includes apps like reddit AMA and Alien Blue.
 
 Changes to This Policy
 
-51 We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alter your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
+52 We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alter your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
 
 Contact
 
-52 reddit welcomes questions, concerns, and feedback about this policy. Please feel free to contact us.
+53 reddit welcomes questions, concerns, and feedback about this policy. Please feel free to contact us.
