@@ -14,7 +14,7 @@ Aéropostale Go
     *   Bethany Mota
     *   United XXVI
     *   Lookbook
-    *   Prom Dress Shop
+    *   Party Dress Shop
     *   Swim Shop
     *   Uniform
     *   Extended Sizes
