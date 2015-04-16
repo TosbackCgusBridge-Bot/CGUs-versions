@@ -1,72 +1,58 @@
-*   Blog
-*   Forum
-*   Contact Us
+Sencha
 
 *   Products
-    
     *   Why Sencha
+    *   Sencha Platform
     *   Integrated Products
         *   Sencha Complete
         *   Sencha Touch Bundle
     *   Frameworks
-        *   Sencha Touch
         *   Sencha Ext JS
         *   Sencha GXT
-    
+        *   Sencha Touch
     *   Tools
         *   Sencha Architect
         *   Sencha Cmd
     *   Management
         *   Sencha Space
-    
+    *   Sencha Market
 *   Services
-    
-    *   *   Overview
-        *   Find a Partner
-        *   Find a Developer
-    
-*   Support
-    *   Overview
-    *   FAQs
+    *   Professional Services
+    *   Partners
+    *   Developers
 *   Training
     *   Overview
     *   Open Enrollment Courses
     *   Live Online Training
     *   Private On-Site Training
-*   Partners
-    *   Overview
-    *   Benefits
-    *   Partners
-    *   Become a Partner
-    *   Resellers
-*   Community
-    *   Blog
-    *   Forum
-    *   Documentation
-    *   Videos
-    *   Sencha Devs
-    *   Sencha Market
-    *   Sencha Try
+*   Customers
+*   Resources
 *   Company
     *   Overview
     *   Team
-    *   Customers
     *   Events
-    *   News
+    *   In the News
+    *   Press Releases
     *   Careers
-    *   Contact Us
 *   Store
     *   Sencha Complete
     *   Sencha Touch Bundle
-    *   Sencha Architect
     *   Sencha Ext JS
-    *   Sencha Touch Support
     *   Sencha GXT
+    *   Sencha Touch Support
+    *   Sencha Architect
     *   Ordering Information
-    *   Licensing FAQ
+    *   Licensing FAQs
     *   Authorized Resellers
 
-Home / Legal Privacy Policy
+*   Support
+*   Blog
+*   Forum
+*   Contact Us
+*   Try For Free
+*   Buy Now
+
+SenchaHome / Sencha Licensing / Privacy PolicyPrivacy Policy
 
 Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure.
 
@@ -134,7 +120,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 Choice/Opt-out
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at .(JavaScript must be enabled to view this email address)
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at newsletter@sencha.com
 
 Log Files
 
@@ -158,7 +144,7 @@ If you use our Forums, you should be aware that any personally identifiable info
 
 Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can send email us at .(JavaScript must be enabled to view this email address).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can send email us at privacy@sencha.com.
 
 Business Transitions
 
@@ -170,49 +156,70 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at .(JavaScript must be enabled to view this email address).
+If you have any questions or suggestions regarding our privacy policy, please contact us at privacy@sencha.com.
+
+*   Facebook
+*   Twitter
+*   LinkedIn
+*   YouTube
+*   Google+
+*   Vimeo
+
+Get Sencha NewsBuy Online
 
 *   Products
+    *   Why Sencha
+    *   Sencha Platform
     *   Sencha Complete
     *   Sencha Touch Bundle
-    *   Sencha Touch
     *   Sencha Ext JS
     *   Sencha GXT
+    *   Sencha Touch
     *   Sencha Architect
     *   Sencha Cmd
     *   Sencha Space
+    *   Sencha Market
 
 *   Services
-    *   Find a Partner
-    *   Find a Developer
-*   Support
-    *   Licensing and Maintenance &. Support FAQs
+    *   Professional Services
+    *   Partners
+    *   Developer
+
 *   Training
     *   Overview
     *   Open Enrollment Courses
     *   Live Online Training
     *   Private On-Site Training
 
-*   Partners
-    *   Benefits
-    *   Partners
-    *   Resellers
-*   Community
-    *   Blog
-    *   Forum
+*   Customers
+
+*   Support
     *   Documentation
-    *   Sencha Devs
-    *   Sencha Market
-    *   Sencha Try
+    *   Forum
+
+*   Resources
 
 *   Company
+    *   Overview
     *   Team
-    *   Customers
     *   Events
-    *   Press
+    *   In the News
+    *   Press Releases
     *   Careers
-    *   Contact
+    *   Licensing
+    *   Contact Us
 
-Sign up to get Sencha News
+*   Store
+    *   Sencha Complete
+    *   Sencha Touch Bundle
+    *   Sencha Ext JS
+    *   Sencha GXT
+    *   Sencha Touch Support
+    *   Sencha Architect
+    *   Ordering Information
+    *   Licensing FAQ
+    *   Authorized Resellers
 
-© 2015 Sencha Inc. All rights reserved. Sitemap Legal
+© 2015 Sencha Inc. All rights reserved.
+
+⊖ Sign up for Sencha News
