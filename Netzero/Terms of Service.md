@@ -4,7 +4,7 @@ Sign in to your Email
 
 Main Menu
 
-Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Copyright Parental Consent Privacy Acceptable Use Terms of Service
+Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Terms of Service
 
 NetZero Services and NetZero Site Terms of Service
 
@@ -221,12 +221,12 @@ Pursuant to 17 U.S.C. § 512 as amended by Title II of the Digital Millennium Co
 If you believe that your copyright has been infringed through the use of a NetZero account or the NetZero Services, please contact NetZero's Copyright Agent in writing at:  
   
 Copyright Agent:  
-Anthony De Toro, Esq. - NetZero, Inc.  
-21255 Burbank Boulevard,  
+Jeanne Berges, Esq. - NetZero, Inc.  
+21255 Burbank Boulevard, Suite 400  
 Woodland Hills, CA 91367  
 Fax: (818) 287-3010  
   
-You must provide NetZero with all the information requested on the attached Notification of Infringement. The information requested is intended to substantially conform to the requirements set forth in the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (c)(3)(A). NetZero therefore requires from you:
+You must provide NetZero with all the information requested below. The information requested is intended to substantially conform to the requirements set forth in the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (c)(3)(A). NetZero therefore requires from you:
 
 1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
 2.  Identification of the copyrighted work you claim is being infringed, or, if you want to cover multiple copyrighted works in a single notice, a representative list of such works;
