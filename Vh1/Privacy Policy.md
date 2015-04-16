@@ -1,18 +1,18 @@
 *   home
 *   shows
+    *   News
     *   Full Episodes
     *   All Shows
     *   Music From The Shows
-    *   Shows Blog
     *   TV Schedule
 *   celebrity
-    *   Gossip + News
+    *   News
     *   Celebrity Photos
     *   Greatest Lists
     *   Big Morning Buzz Live
     *   The Gossip Table
 *   music
-    *   Gossip + News
+    *   News
     *   Storytellers Live
     *   Super Bowl Blitz
     *   Top 20 Countdown
@@ -297,7 +297,7 @@ Visit VH1 On:
 *   The Gossip Table
 *   T.I. &. Tiny
 *   Top 20 Countdown
-*   VH1 Blog
+*   VH1 Show News
 *   VH1 Celebrity
 *   VH1 Classic
 *   VH1 Mobile
