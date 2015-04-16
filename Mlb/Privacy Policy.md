@@ -63,7 +63,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Regular Season Pitching Leaders
     *   Milestone Tracker
     *   Top Rookies Tracker
-    *   Offseason LeaguesSteal A Home Sweeps Sortable Stats
+    *   Offseason Leagues
+    *   Scoring ChangesSteal A Home Sweeps Sortable Stats
 *   Standings Standings Standings
     *   Regular Season Standings
     *   Wild Card Standings
@@ -132,7 +133,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Books &. DVDs
     *   Clearance
     *   Photo Store
-    *   Gift Cards
+    *   Gift Certificates
     
     Auctions
     *   Authentication
@@ -161,7 +162,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Free Agent Frenzy
     *   MLB.com Beat Reporters' BTS Picks
     *   Head to Head Challenge
-    *   Yahoo! Fantasy Baseball
+    *   Yahoo Fantasy Baseball
     *   R.B.I. Baseball 15
     *   MLB.com Home Run Derby
     *   MLB Ballpark Empire
