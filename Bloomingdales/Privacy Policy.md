@@ -24,7 +24,7 @@
 *   THE REGISTRY
 *   SALE
 
-CALL: 1.800.777.0000 Monday - Friday 9AM - 9PM, Saturday 9AM - 7PM, Sunday 11AM - 7PM ET What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
+CALL US ANY TIME:1.800.777.0000 We're available 24 hours, 7 days a week. What's New My bWallet In-Store Pickup Wish List Help Topics Credit Card Returns Order Status Loyallist   Shipping &. Delivery Stores My Account &. Profile Furniture &. Mattresses Products &. Pricing Wedding &. Gift Registry Gifts &. Gift Cards Security &. Privacy   International Contact Us Bloomingdale's and bloomingdales.com Notice of Privacy Practices
 
 The Notice of Privacy Practices was updated on December 30, 2014.
 
