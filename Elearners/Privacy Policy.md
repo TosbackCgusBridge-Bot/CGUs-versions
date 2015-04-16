@@ -1,9 +1,8 @@
-Skip to main content **eLearners.com** Military Students | International Students | Education Resources      
-
-Campus Main Menu
+Skip to main content Military Students | International Students | Education Resources        Refine Subject
 
 *   Online Degrees
     *   Business
+    *   Early Childhood Education Degrees
     *   Criminal Justice &. Legal
     *   Education
     *   Fine Arts &. Design
@@ -18,11 +17,11 @@ Campus Main Menu
 *   Transfer Students
 *   Online Colleges
 *   Match Me to a College
+*   Local Colleges
 *   Popular Degrees
     *   Accounting Degrees
     *   Business Administration
     *   Criminal Justice Degrees
-    *   Early Childhood Education Degrees
     *   Nursing Degrees
     *   Psychology Degrees
     *   Video Game Design Degrees
@@ -197,13 +196,9 @@ This updated policy is effective as of October 24, 2012
 
 Newsletter Signup
 
-Bonus! Free e-book:
+Your Name \* Your Email Address \* Submit
 
-Get Set for Learning
-
-Your Name \* Your Email Address \*
-
-By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy.
+By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services.
 
 Popular Topics:
 
@@ -237,6 +232,8 @@ About eLearners:
 *   Our Partners
 *   Site Map
 *   FAQ
+
+By entering my email address and clicking "Subscribe" I agree to be contacted by eLearners, EducationDynamics, and preferred third-party partners of eLearners for additional education products and services. Privacy Policy.
 
 Privacy Policy | Terms of Use | Legal Notice
 
