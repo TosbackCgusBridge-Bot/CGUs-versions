@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13405158665
+true true L13530409752
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p28.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue Apr 14 11:36:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p32.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Apr 15 04:59:32 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,104 +49,95 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Extra 25% Off\* with your JCPenney Credit Card.
+CODE: JCPSALE
 
-Or, Extra 20% Off\* with any other method of payment.
+$10 Off\* $25 or more.
 
-Or, Extra 10% Off\* watches, salon products, furniture, mattresses, custom blinds and shades, portrait and optical.
+Online Only
 
-Ends April 14. USE CODE: VIP4U
+CODE: SHOPJCP
 
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+CODE: SHOPJCP
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
 
 \*See exclusions and details. print coupon
 
-*   anniversary vip  
-    sale
+*   anniversary  
+    huge sale
 *   home sale  
     30-50% off
     
     select styles
     
-*   wedges for  
-    spring  
-    40% off
+*   st. john's bay  
+    apparel  
+    40-50% off
     
     select styles
     
-*   kids' arizona  
-    50% off
+*   spring for  
+    sandals  
+    30-40% off
     
     select styles
     
 
-*   Big Anniversary Bonus Sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop lingerie shop jewelry shop home
+*   $50 Off Coupon Giveaway
     
-    A.N.A a new approach. Only at JCPenney.
+    Saturday only! In store only, open at 9AM, while supplies last. Hurry in Saturday, April 18 for a $10, $20 or $50 coupon giveaway. Some restrictions and exclusions apply.
     
-    shop A.N.AUp To $50 Bonus Cash
+    get detailsHuge Anniversary Sale
     
-    In store only! Ends April 19. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 20 through May 2, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
+    Starts now!
     
-*   40-50% Off Window
+    shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and diningDoorbusters
     
-    Select styles.
+    In store and online. Friday, all day, Saturday, 1PM CDT.
     
-    shop windowHome Sale 30-50% Off
+    view doorbustersUp to $50 Bonus Cash!
     
-    Select styles.
+    In store only. Ends April 19. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 20 through May 2, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
     
-    shop the home sale shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook
-*   Step Up To Style 40% Off Wedges
-    
-    Select styles.
-    
-    shop wedge sandals$29.99 Arizona Cailyn Platform Wedge Sandals
-    
-    Originally $50.
-    
-    shop wedge sandals$35.99 Liz Claiborne Camden Wedge Sandals
-    
-    Originally $60.
-    
-    shop wedge sandals$35.99 Liz Claiborne Kay Braided Wedge Sandals
-    
-    Originally $60.
-    
-    shop wedge sandals$29.99 Pop Katrina Crisscross Lace Platform Wedge Sandals
-    
-    Originally $50.
-    
-    shop wedge sandals$29.99 Arizona Caterina Cork Wedge Sandals
-    
-    Originally $50.
-    
-    shop wedge sandals$29.99 Arizona Carah Strappy Wedge Sandals
-    
-    Originally $50.
-    
-    shop wedge sandals
-*   50% Off Kids' Arizona
+*   Home Sale 30-50% Off
     
     Select styles.
     
-    Arizona Jean Co. only at JCPenney.
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook
+*   Spring Stock Up 40-50% Off St. John's Bay Apparel
     
-    shop kids' Arizona shop kids' Arizona shop girls' Arizona shop girls' Arizona shop boys' Arizona shop boys' Arizona
+    Select styles.
+    
+    St. John's Bay, only at JCPenney.
+    
+    shop men's St. John's Bay shop men's St. John's Bay shop women's St. John's Bay shop women's St. John's Bay
+*   30-40% Off Sandals for Her
+    
+    Select styles.
+    
+    shop women's sandals
+    
+    Arizona Jean Co., Liz Claiborne, St. John's Bay, and A.N.A, only at JCPenney.
+    
+    shop Arizona shoes shop Liz Claiborne shoes shop St. John's Bay shoes shop A.N.A shoes
 
 What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop home shop women's shop men's shop kids' shop shoes shop jewelry All You Need To Finish Your Look
+shop home shop women's shop men's shop kids' shop shoes shop jewelry 30-40% Off Swimwear for Her shop women's swimwear
 
-30-60% Off Fashion Jewelry
+Arizona Jean Co., only at JCPenney.
 
-shop fashion jewelry
+shop Arizona swim
 
-Monet® only at JCPenney
+A.N.A a new approach, only at JCPenney.
 
-shop Monet JCP Rewards
+shop A.N.A swim JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
