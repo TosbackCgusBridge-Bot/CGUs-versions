@@ -160,7 +160,7 @@ If you have questions about personal information or suggestions you can contact 
 Related articles
 
 *   Privacy Policy
-*   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
-*   Complying with International Trade Laws
+*   Cookies &. Tracking Technologies
+*   Gift Cards Terms of Use (French) - Canadian Dollars (CAD)
+*   Electronic Communications Policy
