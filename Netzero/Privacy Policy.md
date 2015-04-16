@@ -4,7 +4,7 @@ Sign in to your Email
 
 Main Menu
 
-Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Copyright Parental Consent Privacy Acceptable Use Terms of Service
+Access Numbers Getting Started Requirements Get Software Anti Fraud Anti Spam Parental Consent Privacy Acceptable Use Terms of Service
 
 PRIVACY POLICY
 
@@ -181,7 +181,7 @@ By using the Sites or Services, you signify your acceptance to this Policy. If y
   
 If you have any questions about this Policy please contact us at:  
 NetZero Legal Department  
-21255 Burbank Boulevard,  
+21255 Burbank Boulevard, Suite 400  
 Woodland Hills, CA 91367  
   
 or  
