@@ -30,9 +30,6 @@ Vote Now
     *   Creative Optimization
     *   Identification &. Delivery
     *   Measurement &. Insights
-*   Insights &. Ideas
-    *   Whitepapers
-    *   Blog
 *   About Us
     *   Why Conversant
     *   Leadership
@@ -93,9 +90,6 @@ Search form Search Search
     *   Creative Optimization
     *   Identification &. Delivery
     *   Measurement &. Insights
-*   Insights &. Ideas
-    *   Whitepapers
-    *   Blog
 *   About Us
     *   Why Conversant
     *   Leadership
@@ -137,9 +131,6 @@ Our Clients                                              
     *   Creative Optimization
     *   Identification &. Delivery
     *   Measurement &. Insights
-*   Insights &. Ideas
-    *   Whitepapers
-    *   Blog
 *   About Us
     *   Why Conversant
     *   Leadership
@@ -170,5 +161,3 @@ Additional Contact Information
 The power of personal.
 
 © 2015  Conversant, LLC. All rights reserved.
-
-Let's Connect
