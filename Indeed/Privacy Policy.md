@@ -9,8 +9,7 @@ Find JobsFind ResumesEmployers / Post Job Upload your resume Sign in What: Where
 
 **Job Seekers**
 
-*   FAQ/Help
-*   Job Search Tips
+*   Help Center
 
 **Employers &. Advertisers**
 
