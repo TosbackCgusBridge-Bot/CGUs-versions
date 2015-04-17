@@ -181,7 +181,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Fantasy Baseball 2013
     *   CBSSports.com Commissioner
     *   Player Preview
-    *   Postseason Bracket ChallengeR.B.I. Baseball 15
+    *   Postseason Bracket ChallengeR.B.I. Baseball 15 DraftKings
 *   Teams Teams American League AL East
     
     *   Baltimore
