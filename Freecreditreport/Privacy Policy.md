@@ -1,60 +1,20 @@
-**IMPORTANT INFORMATION**  
-When you order your $1 Credit Report and FICO® Score, you will begin your 7-day trial membership in Experian Credit Tracker℠. If you don't cancel your membership within the 7-day trial period\*, you will be billed $ for each month that you continue your membership. You may cancel your trial membership anytime within the trial period without charge.  
-Click here to access your free annual credit report available under federal law.
+Member Sign In We're Sorry We could not find the page you were looking for. Contact Us
 
-Credit score calculated based on the FICO 8 model. Your lender or insurer may use a different FICO Score than FICO 8, or another type of credit score altogether. Learn More.
-
+*   About Us
+*   Savings
+*   Education
+*   FAQs
 *   Blog
-*   Member  
-    Sign In
 
-Take the first step toward knowing your credit! Try one of these great offers to find out how your credit looks. Take the first step toward  
-knowing your credit with one  
-of these great offers! Get Your Free Credit Report!  
-from Get Your $1 Credit Report +  
-FICO® Score  
-from Free Credit Report  
-from
+*   Contact Us
+*   Terms &. Conditions
+*   Privacy Policy
+*   Ad Targeting Policy
+*   Site Map
 
-*   Credit Score not included in this offer
-*   No membership or credit card required
-*   Credit Report valid for limited time
-*   Pay nothing for your Credit Report
+© ConsumerInfo.com, Inc. - All Rights Reserved
 
-$1 Credit Report + FICO® Score  
-from
-
-*   FICO Scores are used in 90% of credit decisions
-*   Experian Credit Report Included
-*   Personalized Customer Service with membership
-*   Find out which factors affect your FICO Score
-
-Get Your Free  
-Credit Report Get Your Report  
-\+ FICO Score from Experian Your Experian Credit Report Increase your credit knowledge.
-
-See what's included in a Credit Report, and discover what kind of information lenders see when they review your credit.
-
-Learn more Best-in-Class Customer Service We're ready to help when you need us.
-
-Whether you need help with your membership or have questions about your membership benefits, our Customer Care team has your back.
-
-View more Get your FICO® Credit Score FICO Scores are used by 90% of top lenders.
-
-Most top lenders use FICO Scores for their credit decisions. Knowing your FICO Score can help you when negotiating interest rates.
-
-Learn more IMPORTANT INFORMATION
-
-When you order your $1 Credit Report and FICO® Score here, you will begin your 7-day trial membership in Experian Credit Tracker℠. If you don't cancel your membership within the 7-day trial period\*, you will be billed $ for each month that you continue your membership. You may cancel your trial membership anytime within the trial period without charge.
-
-Credit score calculated based on the FICO 8 model. Your lender or insurer may use a different FICO Score than FICO 8, or another type of credit score altogether. Learn More.
-
-Tap here to access your free annual credit report available under federal law.
-
-\*The credit monitoring benefit may only be available for 5 days during your trial period since enrollment can take up to 2 days. You may cancel your trial membership any time during your first 7 days without charge.
-
-Contact Us
-
+*   Home
 *   About Us
 *   Contact Us
 *   Terms &. Conditions
@@ -65,23 +25,4 @@ Contact Us
 *   Education
 *   FAQs
 
-© Consumerinfo.com, Inc. - All Rights Reserved.
-
-*   About Us
-*   Savings
-*   Education
-*   FAQs
-*   Contact Us
-
-*   Terms &. Conditions
-*   Privacy Policy
-*   Ad Targeting Policy
-*   Site Map
-
-× FICO
-
-FICO® Scores are developed by Fair Isaac Corporation. The FICO Score provided by Experian is based on FICO Score 8. Many but not all lenders use FICO Score 8. There are many different credit scoring models that can give a different assessment of your credit rating and relative risk (risk of default) for the same credit report. Your lender or insurer may use a different FICO Score than FICO Score 8, or another type of credit score altogether. Just remember that your credit rating is often the same even if the number is not. For some consumers, however, the credit rating of FICO Score 8 could vary from the score used by your lender. The statements that "90% of top lenders use FICO Scores" and "FICO Scores are used in 90% of credit decisions" are based on a third-party study of all versions of FICO Scores sold to lenders, including but not limited to scores based on FICO Score 8.
-
-FICO Score 8 ranges from 300 to 850. Higher scores represent a greater likelihood that you'll pay back your debts so you are viewed as being a lower credit risk to lenders. A lower FICO Score indicates to lenders that you may be a higher credit risk. There are three different major credit reporting agencies — Experian, TransUnion® and Equifax® — that maintain a record of your credit history known as your credit report. Your FICO Score is based on the information in your credit report at the time it is requested. Your credit report information can vary from agency to agency because some lenders report your credit history to only one or two of the agencies. So your FICO Score can vary if the information they have on file for you is different. Since the information in your report can change over time, your FICO Score may also change.
-
-Close
+© ConsumerInfo.com, Inc. - All Rights Reserved
