@@ -311,4 +311,8 @@ Discover
 *   Tablet Version
 *   Hall of Fap
 
-Copyright © 2007-2015 Tube8.com, All Rights Reserved.
+Copyright © 2007-2015 Tube8.com, All Rights Reserved. en
+
+*   DE Deutsch
+*   ES Español
+*   FR Français
