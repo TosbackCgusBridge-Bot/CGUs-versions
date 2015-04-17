@@ -26,7 +26,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             
             *   New Arrivals
             *   Starfish Collection
-            *   Summer Sneak Peak
+            *   Summer Sneak Peek
             *   Tunic Shop
             *   Sale
         *   Shop By Size Range
