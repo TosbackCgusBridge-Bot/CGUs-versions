@@ -220,7 +220,7 @@ South America
 
 Close
 
-*   Maintenance
+*   Home
 *   Company
 *   Legal notices &. trademarks
 *   Privacy Statement
