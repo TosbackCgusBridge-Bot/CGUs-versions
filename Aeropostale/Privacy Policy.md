@@ -13,21 +13,22 @@ Aéropostale Go
     *   Strappiest Place on Earth
     *   Bethany Mota
     *   United XXVI
-    *   Lookbook
+    *   Shop by Outfit
     *   Party Dress Shop
     *   Swim Shop
     *   Uniform
-    *   Extended Sizes
-    *   Online Exclusives
+    *   Online Only
     *   Factory
     
     *   TOPS
     *   Tees
+    *   Graphic Tees
     *   Camis + Tanks
     *   Polos
     *   Shirts
     *   Hoodies + Sweatshirts
-    *   Sweaters + Cardigan
+    *   Sweaters
+    *   Active Tops
     
     *   BOTTOMS
     *   Jeans
@@ -36,9 +37,10 @@ Aéropostale Go
     *   Pants
     *   Shorts
     *   Skirts
+    *   Active Bottoms
     
     *   DRESSES + ROMPERS
-    *   JACKETS + COATS
+    *   JACKETS + VESTS
     *   SHOES
     *   ACCESSORIES
     
@@ -55,11 +57,10 @@ Aéropostale Go
     *   NEW ARRIVALS
     *   Think Tanks
     *   United XXVI
-    *   Lookbook
+    *   Brooklyn Calling
+    *   Shop by Outfit
     *   Uniform
-    *   Sneaker Shop
-    *   Extended Sizes
-    *   Online Exclusives
+    *   Online Only
     *   Factory
     
     *   TOPS
@@ -73,12 +74,11 @@ Aéropostale Go
     
     *   BOTTOMS
     *   Jeans
-    *   Joggers + Sweats
+    *   Joggers
     *   Pants
     *   Shorts
     
     *   SWIM
-    *   PAJAMAS
     *   UNDERWEAR + LOUNGE
     *   SHOES
     *   ACCESSORIES
@@ -99,7 +99,6 @@ Aéropostale Go
     
     *   GUYS
     *   Clearance Tops
-    *   Clearance Bottoms
     *   Clearance Accessories
     
     *   ROOM
