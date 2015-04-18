@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Selling Imitation Firearms on Etsy
+*   Privacy Policy for Mobile Apps
 *   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
