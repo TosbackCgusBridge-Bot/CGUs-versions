@@ -206,7 +206,6 @@ Get Sencha NewsBuy Online
     *   In the News
     *   Press Releases
     *   Careers
-    *   Licensing
     *   Contact Us
 
 *   Store
@@ -216,10 +215,11 @@ Get Sencha NewsBuy Online
     *   Sencha GXT
     *   Sencha Touch Support
     *   Sencha Architect
+    *   Sencha Licensing
     *   Ordering Information
-    *   Licensing FAQ
     *   Authorized Resellers
 
-© 2015 Sencha Inc. All rights reserved.
+© 2015 Sencha Inc. All rights reserved.  
+Privacy Policy | Terms of Use
 
 ⊖ Sign up for Sencha News
