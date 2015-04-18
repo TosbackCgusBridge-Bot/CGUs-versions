@@ -20,13 +20,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   2015 Swim Shop
-            *   Activewear Collection
+            *   Dress Diaries
             *   Shorts 101
             *   Swim Finder
             
             *   New Arrivals
-            *   Starfish Collection
-            *   Summer Sneak Peek
+            *   New UPF 50 Swim Tee
+            *   Activewear Collection
             *   Tunic Shop
             *   Sale
         *   Shop By Size Range
@@ -230,7 +230,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Canvas Totes &. More
             
             *   New Arrivals
-            *   Bedding Collection
+            *   Bedding Collections
             *   Sale
     *   *   Categories
             *   Bedding
@@ -239,7 +239,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Storage &. Organization
             *   Beach Towels
             *   Totes
-            *   Home Décor &. Gifts
             *   Luggage &. Bags
             *   Kids Home
             *   Dog Shop
