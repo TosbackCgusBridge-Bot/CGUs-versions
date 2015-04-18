@@ -15,7 +15,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Y Series: Gaming Power Made Mobile
         2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
         3.  Z Series: Multimedia Made Affordable
-        4.  Flex Series: Dual-Mode, Multi-Use Laptops
+        4.  Flex Series: Affordable, All-Purpose 2-in-1s
         5.  U Series: Elegantly Crafted Mobile PCs
         6.  See all Entertainment &. Gaming
     4.  Student Durable &. Functional for Any Grade
