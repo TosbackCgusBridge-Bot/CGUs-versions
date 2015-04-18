@@ -27,12 +27,9 @@ End of sub links*   Newsroom go to Careers header
     *   Photo Gallery
     *   Service Alerts
 End of sub links*   Careers go to Doing Business with Us header
-    *   Job Search &. Application
-    *   Employment Requirements
-    *   Compensation &. Benefits
-    *   Career Development
-    *   Workplace Culture
-    *   USPS Employees
+    *   Career Opportunities
+    *   Working at USPS
+    *   Search &. Apply
 End of sub links*   Doing Business with Us
     *   Suppliers
     *   Licensing
