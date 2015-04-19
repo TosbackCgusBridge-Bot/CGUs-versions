@@ -48,7 +48,7 @@ Express Freight FedEx Express or FedEx Ground
 *   Obtain Proof of Delivery
 *   Track by TCN
 *   Access FedEx Tracking
-*   Customize your Delivery
+*   Access FedEx Delivery Manager®
 *   Access FedEx InSight
 *   Track Using FedEx Desktop
 
@@ -115,9 +115,8 @@ Starting Point All the Basics
 *   Open an Account
 *   New Customer Center
 *   U.S. Shipping Services
-*   International Services
+*   International Shipping
 *   FedEx Freight Services
-*   FAQs
 
 Shipping 101 Learn How to:
 
@@ -131,8 +130,8 @@ Shipping 101 Learn How to:
 
 Knowledge Sharing Resources and Information
 
-*   Expert Advice
-*   Articles
+*   Small Business Solutions
+*   E-Newsletter
 *   Newsroom
 *   Citizenship Blog
 *   Developer Resource Center
