@@ -1,7 +1,6 @@
 Help   >.  
 
-Legal Information Sorry, our live chat is currently unavailable as we perform some maintenance on our system.  
-Timmy is working hard to get it back online soon. Age Restrictions
+Legal Information Age Restrictions
 
 Registration and participation on www.thinkgeek.com (the "Site") is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions on the Site, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Site is not intended for children under 13. If you are under 13 years of age, do not use the Site. If you do not qualify or do not agree to these terms, you may not use the Site.
 
@@ -33,7 +32,7 @@ Need to Bug Us About Something Urgent?
 
 Our helpful Live Support Monkeys are here to help through live online chat.
 
-Live Chat Unavailable
+Chat With Someone Now
 
 Bug Us the Old Fashioned Ways
 
