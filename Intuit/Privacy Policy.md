@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  KATHY
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13535499687
+true true 10.60.248.10 L13540133133
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Fri Apr 17 05:41:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p14.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat Apr 18 04:42:49 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,85 +47,80 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+*   anniversary  
+    huge sale
+*   home sale  
+    30-50% off
+    
+    select styles
+    
+*   liz claiborne  
+    handbags &  
+    wallets  
+    40% off
+    
+    select styles
+    
+*   fine jewelry  
+    40-60% off
+    
+    select styles
+    
 
-Ends April 19. CODE: JCPSALE
+*   Huge Anniversary Sale
+    
+    In store and online. Ends April 19.
+    
+    shop the sale view store adUp to $50 Bonus Cash!
+    
+    In store only. Ends April 19. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 20 through May 2, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
+    
+    shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook
+*   40% Off Liz Claiborne Handbags and Wallets
+    
+    Select styles. Liz Claiborne, only at JCPenney.
+    
+    shop now
+*   Pretty in Pearls
+    
+    Mother's Day is May 10.
+    
+    $137.49 Cultured Freshwater Pearl 4-PC. Set
+    
+    Originally $274.98.
+    
+    shop now40-60% Off Fine Jewelry and Bijoux Bar
+    
+    Select styles.
+    
+    shop now
 
-$10 Off\* $25 or more.
+What's New
 
-Online Only
+Refresh your closet for spring! See what's trending now.
 
-Ends April 19. CODE: SHOPJCP
+shop home shop women's shop men's shop kids' shop shoes shop jewelry Make Mom Shine
 
-Or, Extra 20% Off\* $100 or more.
+Mother's Day is May 10.
 
-In Store and Online
-
-Ends April 19. CODE: JCPSALE
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details. print couponCoupon Giveaway
-
-Saturday only! Hurry in Saturday, April, 18 for a $10, $20 or $50 Off coupon giveaway. In store only, open at 9AM, while supplies last. Some restrictions and exclusions apply.
-
-get details get detailsHuge Anniversary Sale shop the sale view store adUp To $50 Bonus Cash
-
-In store only! Ends April 19. Up to $50 Bonus Cash! Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 20 through May 2, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
-
-Doorbusters
-
-Use your coupon and save even more! Friday all day, Saturday until 1PM CDT.
-
-shop now shop nowDoorbuster $14.99 St. John's Bay Capris
-
-Originally $36.
-
-shop now shop nowDoorbuster $5.88 JCPenney Home 30x54" Solid or Stripe Towel
-
-Originally $12.
-
-shop nowDoorbuster $9.99 Men's St. John's Bay Polo
-
-Originally $26.
-
-shop now shop nowDoorbuster 50-70% Off Fine Jewelry and Bijoux Bar
-
-Select styles.
-
-shop nowDoorbuster $19.99 Flat Sandals for Her
-
-Select styles.
-
-shop nowDoorbuster $4.99 Okie Dokie Match Ups
-
-Select styles. Okie Dokie, only at JCPenney.
-
-shop now 40-50% Off Window
-
-Select styles.
-
-shop windowHome Sale 30-50% Off
-
-Select styles.
-
-shop the home sale shop bed and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book JCP Rewards
+shop all gifts shop gift cards JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
 sign up today SportsFanShop
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams.
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
 
-Excluded from coupon.
+shop now JCPenney Portraits
 
-shop now More Brands To Love
+Make mom smile. $79.99 Full Album CD
 
-jcp salon
-
-shop now Say Hello to the All-New JCPenney App learn more download on the app store
-
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+get coupon Download the JCPenney App learn more download on the App store
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
