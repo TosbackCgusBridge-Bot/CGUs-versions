@@ -41,8 +41,8 @@ Sencha
     *   Sencha GXT
     *   Sencha Touch Support
     *   Sencha Architect
+    *   Licensing
     *   Ordering Information
-    *   Licensing FAQs
     *   Authorized Resellers
 
 *   Support
@@ -215,7 +215,7 @@ Get Sencha NewsBuy Online
     *   Sencha GXT
     *   Sencha Touch Support
     *   Sencha Architect
-    *   Sencha Licensing
+    *   Licensing
     *   Ordering Information
     *   Authorized Resellers
 
