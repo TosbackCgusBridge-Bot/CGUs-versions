@@ -21,8 +21,8 @@ Aéropostale Go
     *   Factory
     
     *   TOPS
-    *   Tees
     *   Graphic Tees
+    *   Tees
     *   Camis + Tanks
     *   Polos
     *   Shirts
