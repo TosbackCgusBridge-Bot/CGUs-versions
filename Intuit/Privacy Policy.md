@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13543501040
+true true L13545230930
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sun Apr 19 04:50:43 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Mon Apr 20 05:43:20 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,64 +47,76 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   anniversary  
-    huge sale
-*   home sale  
+*   3 days only  
     30-50% off
     
-    select styles
+    select home
     
-*   liz claiborne  
-    handbags &  
-    wallets  
-    40% off
+*   3 days only  
+    extra 20% off
     
     select styles
     
-*   fine jewelry  
-    40-60% off
+*   swim  
+    for the family  
+    30-40% off
     
     select styles
     
+*   personalized  
+    jewelry  
+    for mom
 
-*   Huge Anniversary Sale
+*   3 Days Only
     
-    In store and online. Ends April 19.
+    Online only. April 20 through 22. CODE: LOTS2HAV
     
-    shop the sale view store adUp to $50 Bonus Cash!
+    get details get details50% Off\*
     
-    In store only. Ends April 19. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable April 20 through May 2, 2015. Some restrictions and exclusions apply. Maximum $50 Bonus Cash Coupon per transaction. See store associate for details.
+    Select original and regular-priced items. Exclusions apply.
     
-    shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop furniture and mattresses shop home decor shop bedding and bath shop window shop kitchen and dining
-*   Home Sale 30-50% Off
+    shop luggage shop bedding and bath shop window40% Off\*
+    
+    Select original and regular-priced items. Exclusions apply.
+    
+    shop home decor shop furniture and mattresses30% Off\*
+    
+    Select original and regular-priced items. Exclusions apply.
+    
+    shop kitchen and dining shop vacuums and floorcare shop storage and organization shop custom blinds and shades
+*   3 Days Only
+    
+    Online only. April 20 through 22. CODE: LOTS2HAV
+    
+    get details get details
+    
+    Extra 20% Off\* select original, regular, sale and clearance-priced items.
+    
+    shop men's shop women's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop clearance
+*   30-40% Off Women's Swim
     
     Select styles.
     
-    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home stylebook
-*   40% Off Liz Claiborne Handbags and Wallets
+    shop now40% Off Kids' Swim
     
-    Select styles. Liz Claiborne, only at JCPenney.
+    Select styles.
     
-    shop now
-*   Pretty in Pearls
-    
-    Mother's Day is May 10.
-    
-    $137.49 Cultured Freshwater Pearl 4-PC. Set
-    
-    Originally $274.98.
-    
-    shop now40-60% Off Fine Jewelry and Bijoux Bar
+    shop now shop now40% Off Men's Swim
     
     Select styles.
     
     shop now
+*   Personalized Jewelry for Mom
+    
+    Choose from rings, pendandts, bracelets and charms specially designed for your mom.
+    
+    shop personalized jewelry shop name and initial jewelry
 
 What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop home shop women's shop men's shop kids' shop shoes shop jewelry Make Mom Shine
+shop shoes shop kids' shop handbags shop jewelry shop men's shop home Make Mom Shine
 
 Mother's Day is May 10.
 
@@ -112,9 +124,9 @@ shop all gifts shop gift cards JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today SportsFanShop
+sign up today People StyleWatch Must Haves
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 items. Excluded from coupon.
+Sponsored content.
 
 shop now JCPenney Portraits
 
