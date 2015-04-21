@@ -48,7 +48,7 @@ Search Fidelity.com
     *   Taxes
     *   Saving For College
     *   Charitable Giving
-    *   Life Insurance
+    *   Life Insurance &. Long Term Care
     *   Calculators &. Tools
 *   Investment Products
     *   Mutual Funds
@@ -63,7 +63,7 @@ Search Fidelity.com
     *   Managed Accounts
     *   529 College Savings
     *   Annuities
-    *   Life Insurance
+    *   Life Insurance &. Long Term Care
 
 *   Customer Service
 *   Open An Account
@@ -273,19 +273,19 @@ View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF).
 *   Fixed Income
 *   Bonds
 *   CDs
+*   Options
 
 *   Active Trader Pro
 *   Stocks
 *   Online Trading
 *   Annuities
-*   Life Insurance
-*   Options
-*   529 Plans
+*   Life Insurance &. Long Term Care
 
 *   IRAs
 *   Retirement Products
 *   Retirement Planning
 *   Small Business Retirement Plans
+*   529 Plans
 
 Stay Connected Locate an Investor Center by ZIP Code Please enter a valid ZIP code
 
