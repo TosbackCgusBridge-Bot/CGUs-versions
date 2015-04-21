@@ -16,7 +16,7 @@ Search form Search Privacy
     *   Privacy Resources for Teens
     *   Additional Resources
 
-Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어Portuguese, InternationalEspañolTürkçe
+Privacy Policy English简体中文FrançaisDeutschItaliano日本語한국어PortuguêsEspañolTürkçe
 
 This Privacy Policy will be effective from August 11th 2014. To review a copy of the prior version of Zynga’s Privacy Policy, click here.
 
