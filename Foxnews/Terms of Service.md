@@ -1,3 +1,5 @@
+Terms of Use
+
 **Description of FOX News Services and Acceptance of Terms of Use**
 
 Welcome to this Fox News Network, L.L.C. Site, which is owned and operated by Fox News Network, L.L.C. ("FOX News" or "we"). The services offered by FOX News include foxnews.com, foxbusiness.com, foxnation.com, foxnews.mobi, m.foxbusiness.com, the FOX News iPhone application, the FOX Business iPhone application, and any FOX News - branded URL, WAP site and mobile application (collectively, the "Site"), FOX News messaging services, video services, RSS feeds, podcasting services, mobile services, and any other feature, content, or applications offered from time to time by FOX News in connection with FOX News and FOX Business (collectively, the "FOX News Services"). FOX News is based in the United States and the FOX News Services are hosted in the United States.
