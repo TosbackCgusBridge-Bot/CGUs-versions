@@ -235,7 +235,7 @@ United States (change)
 
 *   ©2015 Fitbit Inc. All rights reserved.
 *   Privacy Policy
-*   Terms of Use
+*   Terms of Service
 *   Returns &. Warranty
 *   Wear and Care
 *   Recall &. Safety Info
