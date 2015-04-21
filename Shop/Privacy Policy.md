@@ -174,36 +174,20 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     
 7.  Services &. Warranty
     1.  See all Services &. Warranty
-    2.  Product Support Flexible Warranty Support Options
-        1.  Upgrade Your Warranty
-        2.  Warranty Services
-        3.  Priority Technical Support
-        4.  Tablet Services
-        5.  ThinkServer Services
-        6.  ThinkStation Services
-        7.  Premium Support
-        8.  See all Product Support
-    3.  Protection Services Protect Your PC. Protect Your Data
-        1.  Accidental Damage Protection
-        2.  Keep Your Drive
-        3.  Online Data Backup
-        4.  See all Protection Services
-    4.  Transition Services Streamline While Saving Time
-        1.  Image Design
-        2.  Asset Tagging
-        3.  In-Place Migration
-        4.  Asset Recovery Services
-        5.  Financial Services
-        6.       
-               
-               
-               
-               
-               
-               
-             
-        7.  See all Transition Services
-    5.  See all Services &. Warranty
+    2.  SMALL BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
+        1.  Services Overview Offering complete solutions to meet your needs
+        2.  Warranty &. Protection Safeguarding your IT investment
+        3.  Configuration Services Reducing IT complexity, saving you time and money
+        4.  Deployment Services Freeing up IT staff, increasing business agility
+        5.  Hardware Services Delivering product-specific expertise and support
+        6.  Financial Services Preserving your cashflow, reducing your TCO
+        7.  See all SMALL BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
+    3.  PERSONAL | HOME OFFICE
+        1.  Services Overview Flexible solutions to meet your needs
+        2.  Warranty &. Protection Peace of mind for you/your business
+        3.  Hardware Services Product-specific expertise and support
+        4.  See all PERSONAL | HOME OFFICE
+    4.  See all Services &. Warranty
     
 8.  Deals
     1.  See all Deals
