@@ -95,14 +95,19 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Tue, Apr 21, 2015 OTA Member RSA Events
+Mon, Apr 20, 2015 2015 RSA Conference eFraud Global Forum eFraud Global Forum is a closed door, invitation-only event dedicated to the discussion of online fraud: this one day session encourages learning through sharing information about how online fraud occurs and how to prevent it using best practice examples from leading organizations. The agenda is driven by a global Program Committee who has collaborated over several months to develop a focused, impactful program. eFraud Global Forum is held every year in conjunction with RSA® Conference in the U.S Mon, Apr 20, 2015 RSA Conference 2015 - San Francisco RSA Conference 2015 is now open for registration. Don't miss this opportunity to join OTA and thousands of industry professionals at the premier information security event of 2015! Register today and take advantage of the biggest discount on a Full Conference Pass! Save an additional $100 with the OTA member discount using the code "1U5OTAFCD". Tue, Apr 21, 2015 OTA Member RSA Events
 
 **Join OTA and attend these recommended events and sessions**
 
-**Get Your free Expo Passes from OTA Members**
+**Tuesday April 21st**
 
-DigiCert - Use registration code X5EDGCRT  
-Visit Booth #S839 in the South Hall.  Learn how you can optimize your SSL and site security.
+**Non-Profits on the Loose @ RSA Conference 2015 -** The OTA in partnership with the Anti-Phishing Working Group (APWG), the FIDO Alliance, Kantara Initiative, NCSA and others welcome you to join us at 5 to 8 p.m.
+
+Minna Gallery  
+111 Minna Street (between Howard and Mission at 2nd Street)  
+San Francisco, CA 94105
+
+**Wednesday April 22**
 
 Tue, Jun 2, 2015 Internet Retailer Conference &. Exhibition - IRCE 2015
 
@@ -110,6 +115,10 @@ Returning to Chicago, June 2-5, 2015 the Internet Retailer Conference &. Exhibit
 
 *   OTA Blog
 *   Newsletters
+
+Mon, Apr 20, 2015 Bulding for the future - OTA is looking to build our team
+
+This year OTA has accomplished a great deal and as we are about to embark on our 10th year of operation we are looking to build out our team with smart, energetic and passionate individuals.  OTA plays a pivotal role in both the public and private sectors and we need to build for the future.   If you want to make a difference, lead, collaborate and learn from industry and market leaders we want to hear from you.   Got Trust?  Learn more >
 
 Tue, Apr 7, 2015 OTA Expands Board with Industry Experts
 
@@ -122,10 +131,6 @@ NTIA and its Internet Policy Task Force (IPTF) is soliciting asked input on whic
 Mon, Mar 2, 2015 When Are Free Online Services Not Free – Are You Willing to Pay the Ultimate Price?
 
 As more and more users throughout the world are enticed by free online services, it is a fact they do not consider what they are trading off in this exchange.  This point was illustrated in the movie "The Kingsman: The Secret Service". Without disclosing too much of the movie, the villain played by Samuel L. Jackson is an internet billionaire known for his philanthropy. He announces a giveaway of SIM cards, granting free cellular and Internet access to everyone around the world.
-
-Mon, Feb 23, 2015 100 Cities 100 Day - Consumer Online Safety
-
-The Identity Theft Council would like you to join  us in supporting 100 Cities in 100 Days – a unique campaign to educate and engage consumers and communities about issues like identity theft, cyber safety, and privacy.  Nearly 40 cities and communities have already signed up, and participating communities can host a seminar, webinar, or school presentation, distribute education materials, share our message on social media,
 
 Resources
 
