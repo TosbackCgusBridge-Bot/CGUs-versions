@@ -16,7 +16,6 @@ Skip to main content Military Students | International Students | Education Reso
 *   Transfer Students
 *   Online Colleges
 *   Match Me to a College
-*   Local Colleges
 *   Popular Degrees
     *   Accounting Degrees
     *   Business Administration
@@ -36,7 +35,7 @@ Help Section
 *   Terms of Use
 *   Site Map
 
-Sponsored Listings Privacy Policy
+Privacy Policy
 
 eLearners.com, a part of the Student Prospecting Division of EducationDynamics, LLC, is a licensee of the TRUSTe Privacy Program.eLearners.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@elearners.com. If you are not satisfied with our response you can contact TRUSTe here.
 
