@@ -172,53 +172,33 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Boots &. Booties
             *   Luggage &. Bags
             *   Totes
-    *   *   Women's Shoes
-            *   Back to Shoes Women's Shoes
+    *   *   Women
+            *   Back to Shoes &. Accessories Women
             *   Shoes
-            *   Sandals
-            *   Boots
-            *   Slippers
-        *   Men's Shoes
-            *   Back to Shoes Men's Shoes
-            *   Shoes
-            *   Sandals
-            *   Boots
-            *   Slippers
-        *   Girls' Shoes
-            *   Back to Shoes Girls' Shoes
-            *   Shoes
-            *   Sandals
-            *   Boots
-            *   Slippers
-        *   Boys' Shoes
-            *   Back to Shoes Boys' Shoes
-            *   Shoes
-            *   Sandals
-            *   Boots
-            *   Slippers
-    *   *   Women's Accessories
-            *   Back to Women's Accessories Women's Accessories
             *   Accessories &. Handbags
-            *   Socks Tights &. Underwear
+            *   Socks, Tights &. Underwear
             *   Totes
             *   Hats, Gloves &. Scarves
-        *   Men's Accessories
-            *   Back to Men's Accessories Men's Accessories
+        *   Men
+            *   Back to Shoes &. Accessories Men
+            *   Shoes
             *   Belts &. Accessories
             *   Socks &. Underwear
             *   Ties
             *   Hats, Gloves &. Scarves
-        *   Girls' Accessories
-            *   Back to Girls' Accessories Girls' Accessories
+        *   Girls'
+            *   Back to Shoes &. Accessories Girls'
+            *   Shoes
             *   Accessories
             *   Tights, Socks &. Underwear
             *   Backpacks &. Lunch Boxes
             *   Hats, Gloves &. Scarves
-        *   Boys' Accessories
-            *   Back to Boys' Accessories Boys' Accessories
+        *   Boys'
+            *   Back to Shoes &. Accessories Boys'
+            *   Shoes
             *   Ties &. Accessories
             *   Socks &. Underwear
-            *   Backpacks &. Lunchboxes
+            *   Backpacks &. Lunch Boxes
             *   Hats, Gloves &. Scarves
 *   Home
     *   *   Back to Main Menu Home
@@ -303,7 +283,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Girls
             *   Boys
             *   Home
-            *   School Uniform
+            *   School Uniforms
     *   *   Clearance
             *   Back to Clearance Clearance
             *   Women
