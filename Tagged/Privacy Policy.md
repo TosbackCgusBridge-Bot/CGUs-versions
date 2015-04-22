@@ -87,8 +87,7 @@ K) Copyrights, Trademarks, Patents and Intellectual Property Rights
 44 Tagged respects copyright law and expects Members to do the same. Illegal or unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please notify Tagged's Agent for Notice of claims of copyright or other intellectual property infringement ("Agent"), at:
 
 45 Tagged Copyright Agent  
-110 Pacific Ave Mall  
-Box #117  
+101A Clay St Box #117  
 San Francisco, CA 94111  
 (650) 273-4289  
 copyrightagent@tagged.com
@@ -122,7 +121,7 @@ L) Disputes
 
 You agree that you and Tagged have voluntarily and intentionally waived any and all right to a trial by jury, and (except as otherwise specifically provided in this Agreement) any and all right to participate in a class action. 49 The Federal Arbitration Act governs the interpretation and enforcement of this Dispute provision. This Dispute provision shall survive termination of this Agreement.
 
-For you or Tagged to initiate arbitration against the other party it must first send by certified mail to the other party a written Notice of Dispute ("Notice"). 50 The Notice must identify and detail the nature of the party's Claim, the basis for that Claim, and the specific relief being sought for that Claim, including, without limitation, any Claim for injunctive relief. For the parties' convenience, a form for providing Notice is available at http://www.tagged.com/disputeresolution\_forms.html to download and complete. 51 A Notice being sent to Tagged must be addressed to: Dispute Resolution Department, Ifwe, Inc., 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 ("Tagged Notice Address"). A Notice being sent to you shall be sent to your Tagged e-mail account and to any other e-mail address provided in your registration (collectively, "Member Notice Address"). You may also opt to receive a copy of any Notice via mail by sending a written request to the Tagged Notice Address including your name, postal address, Member Notice Address and Tagged User ID number (UID).
+For you or Tagged to initiate arbitration against the other party it must first send by certified mail to the other party a written Notice of Dispute ("Notice"). 50 The Notice must identify and detail the nature of the party's Claim, the basis for that Claim, and the specific relief being sought for that Claim, including, without limitation, any Claim for injunctive relief. For the parties' convenience, a form for providing Notice is available at http://www.tagged.com/disputeresolution\_forms.html to download and complete. 51 A Notice being sent to Tagged must be addressed to: Dispute Resolution Department, Ifwe, Inc., 101A Clay St, Box #117, San Francisco, CA 94111 ("Tagged Notice Address"). A Notice being sent to you shall be sent to your Tagged e-mail account and to any other e-mail address provided in your registration (collectively, "Member Notice Address"). You may also opt to receive a copy of any Notice via mail by sending a written request to the Tagged Notice Address including your name, postal address, Member Notice Address and Tagged User ID number (UID).
 
 52 After receipt of the Notice you and Tagged must attempt in good faith to resolve the dispute set forth in the Notice. If you and Tagged are not able to resolve the dispute within 30 days after the Notice is received, then you or Tagged may initiate an arbitration proceeding 53 against the other by downloading and completing the "American Arbitration Association ("AAA") Consumer-Related-Disputes Form-California (For Use Only In California)" demand for arbitration form available at https://www.adr.org/aaa/ShowPDF?doc=ADRSTG\_015822 ("Demand"), and sending a copy of the Demand to the AAA, together with a copy of the Tagged Terms of Service and a check or money order payable to the AAA in the amount of the appropriate filing fee, and sending a copy of the Demand to the other party. 54 The copy of the Demand being sent to the AAA must be addressed as stated on the Demand. A copy of the Demand being sent to Tagged must be addressed to the Tagged Notice Address. A copy of the Demand being sent to you shall be addressed to the Member Notice Address.
 
@@ -180,7 +179,7 @@ R) Agreement
 
 Contacting Tagged
 
-Users with questions about this Terms of Service and any of the above statements may contact Tagged by writing to: Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111.
+Users with questions about this Terms of Service and any of the above statements may contact Tagged by writing to: Tagged.com, 101A Clay St, Box #117, San Francisco, CA 94111.
 
 1.  In order to access or register for Tagged you have to agree to the rules in this Agreement. ↩
     
@@ -367,7 +366,7 @@ Our registration process is designed to restrict children under age 18 from beco
 
 7 We prohibit Members who are under 18 years of age. For more information about protecting your privacy, please visit the Federal Trade Commission’s web site. In addition to the previously mentioned safeguards for the detection and removal of Members under the age of 18, 8 we have a process for parents to contact Tagged directly so that we can take the proper steps required to be in compliance with the Children’s Online Privacy Protection Act (COPPA).
 
-Parents: If your child is under the age of 13 and has joined Tagged using a false age, please notify Tagged at parentcare@tagged.com, and we will terminate your child's account and delete all personal information displaying on the site. If you would like to know more about our site, stored information about your child, or how to terminate your child's account, please send your request by mail to Customer Experience Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or submit your request online at http://contact.tagged.com/ics/support/ticketnewwizard.asp?style=classic. We will happily respond to all communications from parents with privacy questions or concerns.
+Parents: If your child is under the age of 13 and has joined Tagged using a false age, please notify Tagged at parentcare@tagged.com, and we will terminate your child's account and delete all personal information displaying on the site. If you would like to know more about our site, stored information about your child, or how to terminate your child's account, please send your request by mail to Customer Experience Tagged.com, 101A Clay St, Box #117, San Francisco, CA 94111 or submit your request online at http://contact.tagged.com/ics/support/ticketnewwizard.asp?style=classic. We will happily respond to all communications from parents with privacy questions or concerns.
 
 Information Tagged Collects and How Tagged Uses That Information Registration Information
 
@@ -381,7 +380,7 @@ Tagged’s Use of Your Information
 
 Our Browse feature allows you to search for members based on the criteria that you select. When you search for members using our Browse feature, members may be able to see that you are using the Browse feature or searching for people like them and may receive notifications of your search.
 
-16 We use your profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for you and other Members, and to enable other Members to find your profile. 17 We also use your email address to communicate with you about the Site and its features. From time to time, we may share your email address \[and/or other personal information\] with third parties for marketing purposes. 18 You can opt out of having your email address shared with third parties for marketing purposes by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at http://help.tagged.com. In addition, we may share your email address with third parties to target advertising and to improve your user experience on the Site. We also may use the email addresses that are in your address books, or that you otherwise provide, to invite your friends to join Tagged, as detailed in the Invitations section below.
+16 We use your profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for you and other Members, and to enable other Members to find your profile. 17 We also use your email address to communicate with you about the Site and its features. From time to time, we may share your email address \[and/or other personal information\] with third parties for marketing purposes. 18 You can opt out of having your email address shared with third parties for marketing purposes by sending your request by mail to Customer Experience, Tagged.com, 101A Clay St, Box #117, San Francisco, CA 94111 or by submitting your request online at http://help.tagged.com. In addition, we may share your email address with third parties to target advertising and to improve your user experience on the Site. We also may use the email addresses that are in your address books, or that you otherwise provide, to invite your friends to join Tagged, as detailed in the Invitations section below.
 
 Information That You Share When You Use Tagged
 
@@ -465,7 +464,7 @@ Changes to This Privacy Policy
 
 Contacting Tagged
 
-52 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Tagged.com, 110 Pacific Ave Mall, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com.
+52 If you have any questions about our Privacy Policy or how to access your personal information, you can contact us by sending your request by mail to Customer Experience, Tagged.com, 101A Clay St, Box #117, San Francisco, CA 94111 or by submitting your request online at https://support.tagged.com.
 
 **YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
