@@ -2,7 +2,7 @@ Privacy Policy
 
 This policy was last updated on February 27, 2014.
 
-This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, BetaBoston.com, BDCwire.com our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BDCwire.com, BetaBoston.com, BostonGlobe.com (the ?Web Sites?) as well as The Boston Globe newspaper and Boston Globe Services.
+This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, BetaBoston.com, BDCwire.com our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BDCwire.com, BetaBoston.com, BostonGlobe.com (the Web Sites) as well as The Boston Globe newspaper and Boston Globe Services.
 
 The Boston Globe has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on www.boston.com, www.bostonglobe.com and bostonglobe.com/services. If you have questions or complaints regarding our privacy policy or practices, please contact us at feedback@boston.com. If you are not satisfied with our response you can contact TRUSTe here..
 
@@ -95,7 +95,7 @@ Ads may be displayed within our apps. The ads you see are not targeted to you ba
 
 **Information Collected by Third Parties Using Technology:** Some of the services and advertisements included in the Services, are delivered or served by third-party companies that may place or recognize cookies, Web beacons, or other technology to track certain non-personally identifiable information about our Web Site users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser in order to collect certain non personally identifiable information about your visits to our Web Sites and other Web sites. In many cases, this information could be used to show you ads based on your interests on other Web sites.
 
-We do not have access to, nor control over, advertisers? or service providers? cookies or other tracking technologies or how they may be used.
+We do not have access to, nor control over, advertisers or service providers cookies or other tracking technologies or how they may be used.
 
 Please click here to see a list of third parties that may be using cookies to serve advertising on the Services. For example, Google is one of the companies that serves advertisements onto the Services. It uses the DART cookie to serve ads based on your visit to the Services and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
