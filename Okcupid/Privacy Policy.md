@@ -1,7 +1,3 @@
-_New!_   **Incognito Mode.** Now you can hand-select who sees you on OkCupid. That means total control of your visibility.
-
-Learn more
-
 OkCupid.com: Free Online Dating
 
 Join us! Sign in
@@ -205,7 +201,7 @@ Email sent!
 
 An email is on its way to . If you don’t see it, try checking your Spam folder.
 
-Okay This page is out of date
+Okay Like Liked Bookmark Remove Bookmark Hide Unhide This page is out of date
 
 Refresh the page to get OkCupid working again!
 
