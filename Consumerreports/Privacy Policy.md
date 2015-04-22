@@ -188,8 +188,10 @@ Consumer Reports Customer Relations
 Attn: Privacy  
 101 Truman Avenue  
 Yonkers, NY 10703  
+ 
 
 Or, if you would like to contact us via e-mail, please visit _www.consumerreports.org/e-mail_.  
+ 
 
 If you feel that we have not followed our Privacy Policy, please let us know. Additionally, you may contact The Direct Marketing Association's Committee on Ethical Business Practices at  _ethics@the-dma.org_ .
 
