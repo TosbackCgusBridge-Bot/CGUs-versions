@@ -171,7 +171,7 @@ The Company primarily stores Data About salesforce.com Customers and Data About 
 
   8. Communications preferences
 
-Salesforce.com offers Visitors, Customers, and Attendees who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request to unsubscribe@salesforce.com.
+Salesforce.com offers Visitors, Customers, and Attendees who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. ou may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you can unsubscribe here.
 
   9. Correcting and updating your information
 
