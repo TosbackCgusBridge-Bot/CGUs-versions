@@ -26,7 +26,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  ThinkPad Yoga: 2-in-1 Business-Ready Laptops
         6.  ThinkPad L: Affordable, All-Purpose Productivity
         7.  N Series: Fast-Boot Chromebooks
-        8.  See all Student
+        8.  B Series: Small-Business Laptops
+        9.  See all Student
     5.  Not sure what you need?
         1.  Home Laptops Sale
         2.  Professional Laptops Sale
