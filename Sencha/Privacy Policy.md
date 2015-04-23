@@ -27,6 +27,8 @@ Sencha
     *   Private On-Site Training
 *   Customers
 *   Resources
+    *   Webinars
+    *   Videos
 *   Company
     *   Overview
     *   Team
@@ -198,6 +200,8 @@ Get Sencha NewsBuy Online
     *   Forum
 
 *   Resources
+    *   Webinars
+    *   Videos
 
 *   Company
     *   Overview
