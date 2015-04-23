@@ -142,9 +142,9 @@ SERVICES
 *   Partner Products &. Services
 *   Subscription
 
-SUPPORT OFFERINGS
+AUTOCAD ANSWER DAY
 
-Flexible support solutions help you maximize productivity and minimize downtime.
+Take part in a real-time Q&A session about AutoCAD and AutoCAD LT on May 7.
 
 *   Learn more
 
