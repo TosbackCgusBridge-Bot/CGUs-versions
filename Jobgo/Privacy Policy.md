@@ -67,4 +67,4 @@ Copyright © 2014 JobGo International. All rights reserved. 
 
  **Last revision: 19.01.2014**
 
-About The service Terms of Use Privacy policy Recruiter membership Global customer service: support@jobgo.com Copyright © 2015 JobGo International Oy. All rights reserved. Sign up to get more benefits!
+About The service Terms of Use Privacy policy Recruiter membership Global customer service: support@jobgo.com Copyright © 2015 JobGo International Oy. All rights reserved. Sign up to get more benefits! Sign up to get more benefits! Sign up to get more benefits! Sign up to get more benefits! Sign up to get more benefits!
