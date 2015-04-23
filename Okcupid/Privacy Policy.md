@@ -201,7 +201,7 @@ Email sent!
 
 An email is on its way to . If you don’t see it, try checking your Spam folder.
 
-Okay Like Liked Bookmark Remove Bookmark Hide Unhide This page is out of date
+Okay This page is out of date
 
 Refresh the page to get OkCupid working again!
 
