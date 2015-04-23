@@ -95,20 +95,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Apr 21, 2015 OTA Member RSA Events
-
-**Join OTA and attend these recommended events and sessions**
-
-**Tuesday April 21st**
-
-**Non-Profits on the Loose @ RSA Conference 2015 -** The OTA in partnership with the Anti-Phishing Working Group (APWG), the FIDO Alliance, Kantara Initiative, NCSA and others welcome you to join us at 5 to 8 p.m.
-
-Minna Gallery  
-111 Minna Street (between Howard and Mission at 2nd Street)  
-San Francisco, CA 94105
-
-**Wednesday April 22**
-
 Tue, Jun 2, 2015 Internet Retailer Conference &. Exhibition - IRCE 2015
 
 Returning to Chicago, June 2-5, 2015 the Internet Retailer Conference &. Exhibition is the flagship event of the e-commerce industry. A gathering of retail trailblazers across every industry segment, IRCE is the event to network with and learn from industry leaders of all sizes. Total attendance at IRCE 2015 in Chicago is projected reach nearly 10,000.  The consistently high quality of the IRCE conference drives this continual growth.
