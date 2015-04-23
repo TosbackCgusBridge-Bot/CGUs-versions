@@ -399,6 +399,16 @@ Please use the Back button on your browser or close this window to return to the
 
  **Back to top**
 
+*   facebook
+*   twitter
+*   googlePlus
+*   youtube
+*   pinterest
+*   flickr
+*   lenovoForums
+
+Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEstoniaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
+
 *   About Lenovo
     *   Our Company
     *   Culture
@@ -412,6 +422,20 @@ Please use the Back button on your browser or close this window to return to the
     *   Legal Information
     *   Privacy
     *   Jobs at Lenovo
+*   Products &. Services
+    *   Laptops &. Ultrabooks
+    *   Tablets
+    *   Desktops
+    *   Workstations
+    *   Servers
+    *   Accessories &. Software
+    *   Services &. Warranty
+    *   Smartphones
+    *   Lenovo Photo Service
+    *   Gaming Computers
+    *   New Product Showcase
+    *   New Product Announcements
+    *   Outlet
 *   Shop by Industry
     *   Small Business Store
     *   Large Enterprise
@@ -422,48 +446,22 @@ Please use the Back button on your browser or close this window to return to the
     *   Students
     *   Business Partners
     *   Military
-*   Products &. Services
-    *   Laptops &. Ultrabooks
-    *   Tablets
-    *   Desktops
-    *   Workstations
-    *   Smartphones
-    *   Yoga Tablet
-    *   Gaming Computers
-    *   New Product Showcase
-    *   New Product Announcements
-    *   Servers
-    *   Accessories &. Software
-    *   Services &. Warranty
-    *   Lenovo Photo Service
-    *   Outlet
 *   Resources
-    *   Contact Us
-    *   Shopping Help
     *   Resource Center
-    *   Order Status
     *   Where to Buy
-    *   Email Signup
-    *   Support
-    *   Statement on Superfish
+    *   Product Registration
+    *   Product Accessibility
     *   Training
     *   Blogs
     *   Forums
-    *   FAQs
-    *   Reset my Homepage
-    *   Product Registration
-    *   Product Accessibility
-    *   Affinity Discount Program
     *   Customer Feedback
+    *   Reset my Homepage
+    *   Affinity Discount Program
+*   Customer Support
+    *   Contact Us
+    *   Shopping Help
+    *   FAQs
+    *   Order Status
+    *   Support
 
-social
-
-*   facebook
-*   twitter
-*   googlePlus
-*   youtube
-*   pinterest
-*   flickr
-*   lenovoForums
-
-2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - DutchBelgium - FrancaisBeninBoliviaBotswanaBrazilBulgariaBurkinaBurundiCameroonCanada - EnglishCanada - FrançaisCape VerdeCentral African RepublicChadChileChinaColombiaComorosCongo, Dem. Rep. (Kinshasa)Congo, Rep. (Brazzaville)Côte d'Ivoire (Ivory Coast)CroatiaCzech RepublicDenmarkDeutschlandDjiboutiEcuadorEgyptEquatorial GuineaEritreaEstoniaEthiopiaFinlandFranceGabonGambia, TheGhanaGreeceGuineaGuinea-BissauHong Kong S.A.R of China - EnglishHong Kong S.A.R of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLesothoLiberiaLibyaLithuaniaMadagascarMalawiMalaysiaMaliMauritaniaMauritiusMexicoMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNigerNigeriaNorwayOmanPakistanParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussian FederationRwandaSaint HelenaSão Tomé and PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSomaliaSouth AfricaSouth SudanSpainSri LankaSudanSwazilandSwedenSwitzerland - DeutschSwitzerland - FrançaisTaiwanTanzaniaThailandTogoTunisiaTurkeyUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayVenezuelaVietnamWestern SaharaZambiaZimbabwe
+2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
