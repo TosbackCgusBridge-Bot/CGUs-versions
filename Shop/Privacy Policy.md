@@ -464,4 +464,4 @@ Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - 
     *   Order Status
     *   Support
 
-2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
+trusteValidation 2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
