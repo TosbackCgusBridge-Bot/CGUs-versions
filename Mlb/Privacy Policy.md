@@ -61,6 +61,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Regular Season League Leaders
     *   Regular Season Batting Leaders
     *   Regular Season Pitching Leaders
+    *   Sortable Team Stats
     *   Milestone Tracker
     *   Top Rookies Tracker
     *   Offseason Leagues
@@ -71,7 +72,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Spring Training Standings
     *   Tiebreaker rules
 *   Schedule Schedule Schedule
-    *   2015 Spring Training
     *   2015 Regular Season
     *   Important Dates
     *   Team-by-Team Schedule
