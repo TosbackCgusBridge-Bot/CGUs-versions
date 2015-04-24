@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13551119093
+true true C13429532639
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p30.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Wed Apr 22 10:34:23 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Apr 23 06:39:46 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,70 +47,86 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 days only  
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+Online Only Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+Ends April 25. ONLINE CODE: CREDIT12
+
+\*See exclusions and details print store coupon
+
+*   3 day sale!  
+    love mom sale
+*   liz claiborne event  
+    40-50% off
+    
+    select apparel
+    
+*   finish your  
+    look with  
+    liz claiborne
+*   home sale  
     30-50% off
     
-    select home
-    
-*   3 days only  
-    extra 20% off
-    
     select styles
     
-*   swim  
-    for the family  
-    30-40% off
-    
-    select styles
-    
-*   personalized  
-    jewelry  
-    for mom
 
-*   3 Days Only
+*   30-40% Off Worthington
     
-    Online only. April 20 through 22. CODE: LOTS2HAV
+    Select styles. Worthington, only at JCPenney.
     
-    get details get details50% Off\*
+    shop nowLove Mom Sale shop the sale view store adNight and Day Doorbusters
     
-    Select original and regular-priced items. Exclusions apply.
+    In store and online. Use your coupon and save even more! Friday, 3PM CDT through Saturday, 1PM CDT.
     
-    shop luggage shop bedding and bath shop window40% Off\*
+    view doorbusters
+*   Love, Liz Claiborne Event
     
-    Select original and regular-priced items. Exclusions apply.
+    Now through May 10th.
     
-    shop home decor shop furniture and mattresses30% Off\*
-    
-    Select original and regular-priced items. Exclusions apply.
-    
-    shop kitchen and dining shop vacuums and floorcare shop storage and organization shop custom blinds and shades
-*   3 Days Only
-    
-    Online only. April 20 through 22. CODE: LOTS2HAV
-    
-    get details get details
-    
-    Extra 20% Off\* select original, regular, sale and clearance-priced items.
-    
-    shop men's shop women's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop clearance
-*   30-40% Off Women's Swim
-    
-    Select styles.
-    
-    shop now40% Off Kids' Swim
-    
-    Select styles.
-    
-    shop now shop now40% Off Men's Swim
+    40-50% Off Liz Claiborne Apparel
     
     Select styles.
     
     shop now
-*   Personalized Jewelry for Mom
+*   Love, Liz Claiborne Event
     
-    Choose from rings, pendandts, bracelets and charms specially designed for your mom.
+    Now through May 10th.
     
-    shop personalized jewelry shop name and initial jewelry
+    40% Off Liz Claiborne Fashion Jewelry
+    
+    Select styles.
+    
+    shop now shop now40% Off Liz Claiborne Fashion Accessories
+    
+    Select styles.
+    
+    shop now$29.99 Liz Claiborne Sandals
+    
+    Select styles.
+    
+    shop now40% Off Liz Claiborne Handbags
+    
+    Select styles.
+    
+    shop now
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book
 
 What's New
 
