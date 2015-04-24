@@ -56,7 +56,7 @@ My Bag (0) Wish List Search
     *   Maintain Your Wish List
 *   Shipping/Handling
     *   Shipping Rates/Options
-    *   International Orders
+    *   International Return Policy
 *   Returns
     *   Return Policy
     *   How to Return
@@ -64,12 +64,12 @@ My Bag (0) Wish List Search
 *   Promotions
     *   Spring Brand Event Official Rules 2015
     *   Buckle Credit Card Water Bottle Offer
-    *   Bethany Hamilton Event
     *   Bench Gear Giveaway Official Rules
     *   Social Giveaway Official Rules
     *   Store Events
     *   Sweepstakes Winners
     *   Find Your Denim Sweepstakes Rules
+    *   Bethany Hamilton Event
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
