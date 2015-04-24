@@ -10,20 +10,27 @@ Clients
 Links  
 Projects  
   
-MonkeyBrains Links **Local** **Support** **Offsite** Press Wireless: MissionLocal.org - MonkeyBrains Me  
-Wireless: InformationWeek Interview  
-Satellite: BoingBoing and TechDirt  
-Fiber: SF Chronicle - Pushing for faster Internet  
-Wireless: MissionLocal.org - Internet for All  
-Wireless: MissionMission.org - Forget Internet Cafes  
+MonkeyBrains Links **Local** **Support** **Offsite** Press  
+Wireless: SF Chronicle - MonkeyBrains can help with Internet (2015)  
+Civic Duty: SF Examiner - SF shelter to gain free Wi-Fi for homeless (2015)  
+Podcast: Burrito Justice Radio (2015)  
+Gigabit: IndieGoGo - Gigabit Wireless to the Home (2015)  
+Gigabit: SF Examiner - Will citizens pay for gigabit Internet? (2014)  
+Quoted: SF Gate - Net Neutrality state of affairs (2014)  
+Wireless: MissionLocal.org - MonkeyBrains Me (2011)  
+Wireless: InformationWeek Interview (2010)  
+Satellite: BoingBoing and TechDirt (2012)  
+Fiber: SF Chronicle - Pushing for faster Internet (2011)  
+Wireless: MissionLocal.org - Internet for All (2010)  
+Wireless: MissionMission.org - Forget Internet Cafes (2010)  
 Video: Interview of Rudy and Alex (2007)  
-Quoted: New York Times - Digital Divide  
-Quoted: SFBG article - fiber for SF!  
-Quoted: Wall Street Journal - Alex expounds: chicken wire...  
+Quoted: New York Times - Digital Divide (2011)  
+Quoted: SFBG article - fiber for SF! (2011)  
+Quoted: Wall Street Journal - Alex expounds: chicken wire... (2009)  
 Reviews: Yelp Review of MonkeyBrains  
 Reviews: WebHostingTalk Forum  
-Noted: Vloggercon  
-Video: MonkeyBrains' Commercial  
+Noted: Vloggercon (2006)  
+Video: MonkeyBrains' Commercial (2007)  
 Best Of: Best Local ISP Award (2004)  
 Radio: Listen to KFJC (hosted on our network)  
 Swag: MonkeyBrains' Mugs  
