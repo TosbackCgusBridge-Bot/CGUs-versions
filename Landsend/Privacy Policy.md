@@ -210,7 +210,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Canvas Totes &. More
             
             *   New Arrivals
-            *   Bedding Collections
+            *   Home Buying Guide
             *   Sale
     *   *   Categories
             *   Bedding
