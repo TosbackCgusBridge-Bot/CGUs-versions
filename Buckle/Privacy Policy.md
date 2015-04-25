@@ -89,9 +89,7 @@ My Bag (0) Wish List Search
     *   Safe Shopping
 *   Technical Help
     *   Technical Difficulties
-    *   Compatible Browser
     *   Javascript
-    *   Flash Instructions
     *   Cookies
     *   Accessibility
 *   Buckle Information
