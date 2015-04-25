@@ -260,7 +260,7 @@ Effective June 2014 
 Questions?
 
 *   800-343-3548 800-343-3548
-*   Find an Investor Center.
+*   Find an Investor Center
 
 2014 Privacy Notice
 
