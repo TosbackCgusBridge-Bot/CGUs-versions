@@ -52,7 +52,6 @@ Search
 *   Library
 *   Mobile Apps
 *   Advertise
-*   About Us
 *   Subscriptions
 
 PRIVACY POLICY Penton (also referred to in this Privacy Policy with the terms “we,” “us,” or “our”) is committed to protecting the privacy of all those who provide us with their contact information while using our websites, products, events, or services (“you” or “Users”). This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online and digital media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared. A current list of the Penton websites covered by this Privacy Policy (the “Sites”) can be found here.  
@@ -136,7 +135,6 @@ Products
 
 Toolbox
 
-*   Classified
 *   Land for Sale
 *   Magazine Online
 *   Mobile Alerts
