@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13429532639
+true true C13434214070
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Thu Apr 23 06:39:46 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p35.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Fri Apr 24 03:43:13 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,96 +47,37 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
+Ends April 25. Online Code: CREDIT12.
 
-Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
-
-Online Only Orders Over $100
+Online Only, Orders Over $100
 
 Extra 25% Off\* with your JCPenney Credit Card.
 
 Or, Extra 20% Off\* with any other method of payment.
 
+In Store and Online
+
+Or, Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
 \*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
 
-Ends April 25. ONLINE CODE: CREDIT12
+\*See exclusions and details. print store coupon 50% Off Worthington
 
-\*See exclusions and details print store coupon
+Select styles. Worthington, only at JCPenney.
 
-*   3 day sale!  
-    love mom sale
-*   liz claiborne event  
-    40-50% off
-    
-    select apparel
-    
-*   finish your  
-    look with  
-    liz claiborne
-*   home sale  
-    30-50% off
-    
-    select styles
-    
+shop nowLove Mom Sale shop the sale view store ad Hundreds of Night and Day Doorbusters
 
-*   30-40% Off Worthington
-    
-    Select styles. Worthington, only at JCPenney.
-    
-    shop nowLove Mom Sale shop the sale view store adNight and Day Doorbusters
-    
-    In store and online. Use your coupon and save even more! Friday, 3PM CDT through Saturday, 1PM CDT.
-    
-    view doorbusters
-*   Love, Liz Claiborne Event
-    
-    Now through May 10th.
-    
-    40-50% Off Liz Claiborne Apparel
-    
-    Select styles.
-    
-    shop now
-*   Love, Liz Claiborne Event
-    
-    Now through May 10th.
-    
-    40% Off Liz Claiborne Fashion Jewelry
-    
-    Select styles.
-    
-    shop now shop now40% Off Liz Claiborne Fashion Accessories
-    
-    Select styles.
-    
-    shop now$29.99 Liz Claiborne Sandals
-    
-    Select styles.
-    
-    shop now40% Off Liz Claiborne Handbags
-    
-    Select styles.
-    
-    shop now
-*   Home Sale 30-50% Off
-    
-    Select styles.
-    
-    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book
+Friday, 3PM CDT through Saturday, 1PM CDT. Use your coupon and save even more!
 
-What's New
+shop nowDoorbuster 50% Off Select Sunglasses and Fashion Flip Flops for Her shop nowDoorbuster 40-50% Off Select Swim for Her shop nowDoorbuster 50% Off Select Dresses shop nowDoorbuster 50% Off Select Nicole by Nicole Miller Handbags and Wallets shop nowDoorbuster $9.99 Select St. John's Bay Solid Polos shop nowDoorbuster $4.99 Select Arizona Boys' and Girls' Tees shop now 30-50% Off Home Sale
 
-Refresh your closet for spring! See what's trending now.
+Select styles.
 
-shop shoes shop kids' shop handbags shop jewelry shop men's shop home Make Mom Shine
-
-Mother's Day is May 10.
-
-shop all gifts shop gift cards JCP Rewards
+shop the home sale JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
@@ -146,9 +87,9 @@ Sponsored content.
 
 shop now JCPenney Portraits
 
-Make mom smile. $79.99 Full Album CD
+Make Mom smile. $79.99 Full Album CD.
 
-get coupon Download the JCPenney App learn more download on the App store
+get coupon Download the JCPenney App learn more download on the app store
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
