@@ -5,7 +5,7 @@ Toggle navigation
 *   About|
 *   Security|
 *   Blog|
-*   News|
+*   Newsroom|
 *   Support|
 *   Contact|
 
