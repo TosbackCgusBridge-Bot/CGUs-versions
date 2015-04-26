@@ -160,7 +160,7 @@ If you have questions about personal information or suggestions you can contact 
 Related articles
 
 *   Privacy Policy
-*   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Electronic Communications Policy
-*   Gift Cards Terms of Use (French) - Canadian Dollars (CAD)
+*   Cookies &. Tracking Technologies
+*   Etsy Surveys
+*   Complying with International Trade Laws
