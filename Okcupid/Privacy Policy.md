@@ -1,3 +1,7 @@
+_New!_   **Incognito Mode.** Now you can hand-select who sees you on OkCupid. That means total control of your visibility.
+
+Learn more
+
 OkCupid.com: Free Online Dating
 
 Join us! Sign in
