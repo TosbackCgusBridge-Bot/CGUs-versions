@@ -160,7 +160,7 @@ If you have questions about personal information or suggestions you can contact 
 Related articles
 
 *   Privacy Policy
-*   Unavailable Items With No Photos
 *   Cookies &. Tracking Technologies
-*   Etsy Surveys
-*   Complying with International Trade Laws
+*   Unavailable Items With No Photos
+*   Community Guidelines
+*   Etsy Wholesale Terms of Use
