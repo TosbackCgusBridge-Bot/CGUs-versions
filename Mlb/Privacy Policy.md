@@ -21,11 +21,11 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     Featured
     *   Cut 4
     *   Sports on Earth
+    *   What's Next
     *   Voices
     *   MLB.com Pipeline
     *   Will Ferrell's epic day
     *   Awards
-    *   Photos
     *   Espanol
 *   Video Video Video
     
