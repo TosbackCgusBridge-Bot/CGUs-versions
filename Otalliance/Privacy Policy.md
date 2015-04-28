@@ -95,6 +95,10 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
+Fri, May 15, 2015 Distil Networks 2015 Bad Bot Report: 5 High-Risk Lessons
+
+Distil Networks has produced their annual Bad Bot Report. It’s the IT Security Industry’s most in-depth analysis on the sources, types, and sophistication levels of last year’s bot attacks-- and there are serious implications  for anyone responsible for securing their web infrastructure.   Join Craig Spiezle, President of the Online Trust Alliance (OTA) and Rami Essaid, CEO of Distil Networks as they dive into the data to reveal:
+
 Tue, Jun 2, 2015 Internet Retailer Conference &. Exhibition - IRCE 2015
 
 Returning to Chicago, June 2-5, 2015 the Internet Retailer Conference &. Exhibition is the flagship event of the e-commerce industry. A gathering of retail trailblazers across every industry segment, IRCE is the event to network with and learn from industry leaders of all sizes. Total attendance at IRCE 2015 in Chicago is projected reach nearly 10,000.  The consistently high quality of the IRCE conference drives this continual growth.
