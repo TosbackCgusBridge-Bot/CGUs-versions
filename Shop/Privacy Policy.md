@@ -186,8 +186,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     3.  PERSONAL | HOME OFFICE
         1.  Services Overview Flexible solutions to meet your needs
         2.  Warranty &. Protection Peace of mind for you/your business
-        3.  Hardware Services Product-specific expertise and support
-        4.  See all PERSONAL | HOME OFFICE
+        3.  Premium Software Support Product usage &. setup
+        4.  Hardware Services Product-specific expertise and support
+        5.  See all PERSONAL | HOME OFFICE
     4.  See all Services &. Warranty
     
 8.  Deals
