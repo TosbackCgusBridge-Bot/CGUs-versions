@@ -1,6 +1,6 @@
 OUR PRIVACY POLICY
 
-Last Updated: February 18, 2015
+Last Updated: April 29, 2015
 
 This Privacy Policy describes how J.Crew Group, Inc. and our brands and subsidiaries (including but not limited to J.Crew, crewcuts, Factory and Madewell) (collectively, "J.Crew," "we" or "us") collect, use and share information about you. This policy applies to information we collect when you use our websites, shop in our stores or otherwise interact with us as described below.
 
@@ -12,7 +12,7 @@ We collect information you provide directly to us. For example, we collect infor
 
 The types of information we may collect include your name, email address, zip code, billing address, shipping address, phone number, payment card information, product preferences, demographic information and any other information you choose to provide.
 
-In some cases, we may also collect information you provide about others, such as when you purchase a gift card for someone and request that we deliver it electronically, create and share a "wish list" or decide to purchase and ship products to someone. We will use this information to fulfill your requests and will not send marketing communications to your contacts unless they separately opt in to receive communications from us.
+In some cases, we may also collect information you provide about others, such as when you purchase a gift card for someone and request that we deliver it electronically, create and share a "wish list" or decide to purchase and ship products to someone. We will use this information to fulfill your requests and may also use that information to send marketing communications to your contact, unless he or she has previously opted out of marketing communications from J.Crew.
 
 information we collect automatically
 
@@ -24,7 +24,7 @@ We automatically collect certain information about you when you access or use ou
 
 information we collect from our partners and other sources
 
-We may also obtain information about you from other sources and combine that with information we collect about you. For example, we collect information from the U.S. Postal Service's national change of address database to verify and update mailing addresses. In addition, if you apply for a J.Crew credit card, we obtain limited information about you from the partner that manages our co-brand credit card program.
+We may also obtain information about you from other sources and combine that with information we collect about you. For example, we collect information from the U.S. Postal Service's national change of address database to verify and update mailing addresses. In addition, if you apply for a J.Crew credit card, we obtain limited information about you from the partner that manages our private label credit card program.
 
 use of information
 
@@ -49,6 +49,7 @@ We may share information about you as follows:
 
 *   With vendors, consultants and other service providers who need access to such information to carry out work on our behalf.
 *   With our business partners and other third parties for purposes of sending their own direct mail, unless you opt out of this type of sharing by logging into your online account and changing your preferences or by contacting us.
+*   With our banking partner Comenity Bank, the issuer of the J.Crew Credit Card. Comenity Bank is independent of J.Crew and has its own privacy and security policies.
 *   In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation.
 *   If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or any third party.
 *   In connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our business to another company. and
