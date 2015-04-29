@@ -18,7 +18,6 @@ Aéropostale Go
     *   Swim Shop
     *   Uniform
     *   Online Only
-    *   Factory
     
     *   TOPS
     *   Graphic Tees
@@ -61,7 +60,6 @@ Aéropostale Go
     *   Shop by Outfit
     *   Uniform
     *   Online Only
-    *   Factory
     
     *   TOPS
     *   Graphic Tees
