@@ -13,7 +13,6 @@
     *   CP Blog
     *   iPost
     *   My Post
-    *   Books
 
 About Us
 
@@ -188,7 +187,5 @@ You agree that any claim, action, or proceeding arising out of these Terms and C
 *   Photo
 *   Audio Bible
 *   iPost
-*   Books
-*   Travel
 
 Copyright © 2015 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
