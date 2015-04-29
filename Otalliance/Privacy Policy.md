@@ -122,9 +122,9 @@ Mon, Apr 6, 2015 Internet Policy Task Force Seeks Comment on Multistakeholder Pr
 
 NTIA and its Internet Policy Task Force (IPTF) is soliciting asked input on which topics would be most conducive to discussion by a wide range of stakeholders.  OTA encourages and welcomes input into this effort.  Reminder the deadline for comments is 5 PM eastern,  May 18, 2015. The RFI is soliciting input into the following:
 
-Mon, Mar 2, 2015 When Are Free Online Services Not Free – Are You Willing to Pay the Ultimate Price?
+Mon, Mar 30, 2015 Certification Model for IoT
 
-As more and more users throughout the world are enticed by free online services, it is a fact they do not consider what they are trading off in this exchange.  This point was illustrated in the movie "The Kingsman: The Secret Service". Without disclosing too much of the movie, the villain played by Samuel L. Jackson is an internet billionaire known for his philanthropy. He announces a giveaway of SIM cards, granting free cellular and Internet access to everyone around the world.
+Following the exponential growth of the internet, mobile devices and applications, consumers worldwide are being presented with 1000’s of options and solutions purporting to support the promise of the connected home and wearable technologies.  Unfortunately with this rapid race to market, all too many of these products and services lack basic security and privacy considerations.  The implications range from identity theft and personal security compromises to consumer distrust with products being difficult to use and set up.  Regulators including the FTC and State Attorney Gen
 
 Resources
 
