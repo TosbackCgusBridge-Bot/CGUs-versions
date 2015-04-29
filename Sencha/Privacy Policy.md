@@ -1,5 +1,7 @@
 Sencha
 
+*   Buy Now
+*   Try For Free
 *   Products
     *   Why Sencha
     *   Sencha Platform
@@ -26,9 +28,6 @@ Sencha
     *   Live Online Training
     *   Private On-Site Training
 *   Customers
-*   Resources
-    *   Webinars
-    *   Videos
 *   Company
     *   Overview
     *   Team
@@ -48,13 +47,12 @@ Sencha
     *   Authorized Resellers
 
 *   Support
-*   Blog
 *   Forum
+*   Resources
+*   Blog
 *   Contact Us
-*   Try For Free
-*   Buy Now
 
-SenchaHome / Sencha Licensing / Privacy PolicyPrivacy Policy
+Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy
 
 Sencha Inc., and its affiliates and subsidiaries (collectively “Sencha”) recognize the importance of keeping the personal information you provide to us private and secure. Sencha has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure.
 
