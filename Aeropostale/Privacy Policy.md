@@ -68,7 +68,6 @@ Aéropostale Go
     *   Tanks
     *   Shirts
     *   Hoodies
-    *   Sweaters
     
     *   BOTTOMS
     *   Jeans
@@ -107,11 +106,8 @@ Aéropostale Go
     *   Bethany Mota
     *   Free State
     *   Hobie
-    *   Invite Only
-    *   Junie &. Jade
     *   Live Love Dream
     *   Lorimer
-    *   Map to Mars
     *   The Bikini Lab
     *   Tokyo Darling
     *   United XXVI
