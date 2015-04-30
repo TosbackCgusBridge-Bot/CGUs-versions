@@ -191,7 +191,15 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  Hardware Services Product-specific expertise and support
         5.  See all PERSONAL | HOME OFFICE
     4.  See all Services &. Warranty
-    
+    5.  *   1 PC? or 1,000? We're here to help: 24/7/365
+            
+            Contact Us
+        *   Warranty Coverage Upgrades &. Extensions
+            
+            Learn More
+        *   Smarter Cash Flow, Lower TCO Lenovo Financial Solutions
+            
+            Call Now
 8.  Deals
     1.  See all Deals
     2.  Current Offers
