@@ -101,11 +101,11 @@ Distil Networks has produced their annual Bad Bot Report. It’s the IT Security
 
 Tue, Jun 2, 2015 Internet Retailer Conference &. Exhibition - IRCE 2015
 
-Returning to Chicago, June 2-5, 2015 the Internet Retailer Conference &. Exhibition is the flagship event of the e-commerce industry. A gathering of retail trailblazers across every industry segment, IRCE is the event to network with and learn from industry leaders of all sizes. Total attendance at IRCE 2015 in Chicago is projected reach nearly 10,000.  The consistently high quality of the IRCE conference drives this continual growth.
+For the third consecutive year OTA is a proud association sponsor of the 2015 Internet Retailer Conference &. Exhibition (IRCE) being hosted in Chicago, June 2-5, 2015.  IRCE is the flagship event of the e-commerce industry and multi-channel merchants. A gathering of retail trailblazers across every industry segment, IRCE is the event to network with and learn from industry leaders of all sizes.
 
 Wed, Jun 17, 2015 Internet of Things Privacy Summit
 
-The Internet of Things is a game-changing moment in our relationship with technology and personal data as we stand on the edge of a data explosion from interconnected devices. As with all revolutionary new technologies, the IoT brings with it new challenges for businesses, regulators, consumers – in fact anyone who cares about the responsible use of data.
+As a founding non-profit partner of the TRUSTe IoT Privacy Summit, OTA is proud to support the 2015 Summit being hosted on June 17th and encourages companies of all sizes to attend.  OTA members may register and save 50% using the code ota50.  Register > 
 
 *   OTA Blog
 *   Newsletters
