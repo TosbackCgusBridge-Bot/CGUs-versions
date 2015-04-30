@@ -126,6 +126,6 @@ Conditions-generales-d-utilisation.pdf A voir également
 *   Condition generale
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
-*   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
-*   Conditions générales (Résolu) » Forum - Mobile
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
+*   Conditions générales (Résolu) » Forum - Mobile
+*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
