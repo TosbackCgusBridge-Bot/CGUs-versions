@@ -138,7 +138,7 @@ Click here for this site's privacy policy
 
 F. E-Commerce Directive Information back to top
 
-Bloomberg LP is authorized and regulated by the Financial Services Authority (the "FSA") under reference number 206006 on its Register of Firms http://www.fsa.gov.uk/register/. The FSA can be contacted by calling +44 20 7676 1000, by visiting www.fsa.gov.uk, or by writing to The Financial Services Authority, 25 The North Colonnade, London E14 5HS, England.
+Bloomberg LP is authorized and regulated by the Financial Conduct Authority (the "FCA") under reference number 206006 on the Financial Services Register at http://www.fsa.gov.uk/register/. The FSA can be contacted by calling +44 20 7676 1000, by visiting www.fsa.gov.uk, or by writing to The Financial Services Authority, 25 The North Colonnade, London E14 5HS, England.
 
 The contact at our New York office is: Paul Ramundo Phone: +1 (212) 617-7816 Fax: +1 (917) 369-3801 Email: Pramundo@bloomberg.net.
 
