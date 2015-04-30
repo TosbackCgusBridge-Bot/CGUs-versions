@@ -48,6 +48,7 @@ Sign inMyCNN
     *   CNN Mobile
     *   Tools &. Extras
     *   CNN Profiles A-Z
+    *   CNN Leadership
     *   CNN Arabic
     *   CNN Español
     *   CNN Mexico
@@ -64,6 +65,7 @@ Sign inMyCNN
     *   CNN Mobile
     *   Tools &. Extras
     *   CNN Profiles A-Z
+    *   CNN Leadership
 
 CNN Privacy Statement
 
@@ -321,6 +323,7 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
     3.  CNN Mobile
     4.  Tools &. Extras
     5.  CNN Profiles A-Z
+    6.  CNN Leadership
 
 International Edition
 
