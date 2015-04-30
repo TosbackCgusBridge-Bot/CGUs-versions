@@ -4,14 +4,24 @@ Our Satisfaction Guarantee
 
 At Sierra Trading Post, we want you to be completely satisfied with your purchase. If you have any concerns about the item(s) you have received, please return the item(s) as soon as possible. We will make it right! Learn more about us!
 
-Return Policy
+365-Day Return Policy
 
-Please return any items as soon as possible. It is important that all items be checked for fit, color, missing pieces or damage that occurred during shipment prior to use of the product.
+You have one full year from the date of purchase to make an exchange, return or replacement. Items must be returned in clean, sellable condition.
 
 *   Products returned within six (6) months of the order date will be refunded by original payment method
 *   Products returned six (6) months or more after the order date will be refunded by merchandise credit
+*   Make every effort to inspect items for fit, color, missing pieces or damage prior to use
+*   Include all hangtags and original packaging where possible
 
-For U.S. customer convenience, there is a prepaid UPS return shipping label included within your original order. Returns for refund will be subject to a $6.95 return shipping fee ($10.95 will be charged for AK, HI, all U.S. territories and possessions. This fee covers return shipping from you to us.)
+For U.S. customer convenience, there is a prepaid UPS return shipping label included within your original order. Returns for refund will be subject to a $6.95 return shipping fee ($10.95 will be charged for AK, HI). This fee covers return shipping from you to us.
+
+Condition of Returns
+
+*   Items with damage caused by misuse are not eligible for return
+*   Items that cannot be returned will be clearly marked on the website
+*   Swimwear and undergarments must be returned in unused condition
+*   We cannot accept merchandise that has been altered in any way
+*   Any items not meeting the above criteria will be returned at the customer’s expense
 
 Exchange and Replacement Products
 
@@ -23,15 +33,19 @@ For an online exchange, you will receive $2.95 shipping on the items you are ret
 
 Create Instant Store Credit Now
 
+International Exchanges &. Returns
+
+Please view our international policies page.
+
 Returns Online
 
-Returns will be refunded to the original method of payment with the exception of product purchased using third party payment methods like PayPal and PayPal Credit. See details on those payment options.
+Returns made within 6 months of purchase will be refunded to the original method of payment, with the exception of product purchased using third party payment methods like PayPal and PayPal Credit. See details on those payment options.
 
 Once you have completed the online process for exchange, replacement or return and printed a label, you must return the items to us within 10 days.
 
 2\. Traditional Exchanges, Replacements, &. Returns
 
-If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI, all U.S. territories and possessions). We will process your return or exchange after it arrives (please note: requests for item exchange using the traditional method will be subject to availability). For traditional exchange and replacement requests, a $2.95 shipping fee will apply to the new order.
+If you prefer a Traditional Exchange, Replacement, or Return simply fill out the form on the back of your invoice and use the prepaid UPS return shipping label included within your package (merchandise returns for refund may be subject to a return shipping fee of $6.95 for 48 contiguous U.S. and $10.95 for AK, HI). We will process your return or exchange after it arrives (please note: requests for item exchange using the traditional method will be subject to availability). For traditional exchange and replacement requests, a $2.95 shipping fee will apply to the new order.
 
 If you choose not to use our prepaid label, you will be responsible for paying all return shipping costs up front.
 
@@ -40,10 +54,6 @@ If you choose not to use our prepaid label, you will be responsible for paying a
 *   Attn: Returns
 *   5025 Campstool Rd
 *   Cheyenne, WY 82007-1898
-
-International Exchanges &. Returns
-
-For more information on International Exchanges and Returns, please view our international policies page.
 
 Please follow the packing and return instructions to ensure prompt service:
 
@@ -71,13 +81,6 @@ DirectShip items must be returned within 30 days to the vendor for your return t
 *   5\. The shipping company will pick up the item
 *   6\. Customer pays a return shipping fee equal to the original shipping cost on all returned DirectShip items, unless the product was sent in error, damaged during shipping or is defective (to be determined during the return process)
 *   7\. A credit (less any return shipping fees) will only be issued after the item has been inspected and the return process is completed by the vendor
-
-Return Information
-
-*   Please make every effort to inspect items for fit, color, missing pieces or damage prior to using the product.
-*   Include all tags and original packaging where possible.
-*   Swimwear and undergarments must be returned in unused condition. Any of these items showing evidence of wear will be returned.
-*   We cannot accept merchandise that has been altered in any way. Altered items will be returned. Examples: pants, suits, sport coats, skis, snowboards, gear, etc. Product which cannot be accepted will be notated on each product page.
 
 Terms of Use
 
