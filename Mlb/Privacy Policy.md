@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. Español 한국어 繁體中文
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Vote Teams
 
 *   Scores
 *   News News News
@@ -13,17 +13,17 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Transactions
     *   History
     *   Events
-    *   Civil Rights Game
+    *   First-Year Player Draft
     *   All-Star Game
     *   Hall of Fame
     *   Game Notes
     
     Featured
     *   Cut 4
-    *   Sports on Earth
-    *   What's Next
     *   Voices
     *   MLB.com Pipeline
+    *   Sports on Earth
+    *   What's Next
     *   Will Ferrell's epic day
     *   Awards
     *   Espanol
@@ -182,6 +182,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   CBSSports.com Commissioner
     *   Player Preview
     *   Postseason Bracket ChallengeR.B.I. Baseball 15 DraftKings
+*   Vote
 *   Teams Teams American League AL East
     
     *   Baltimore
