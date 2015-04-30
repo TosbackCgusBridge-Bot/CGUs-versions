@@ -14,11 +14,11 @@ Seeking Alpha
 *   INSIGHT CENTERS
 *   Alt Investing
 
+*   Dividend Investing
+
 *   Earnings Center
 
 *   ETF Hub
-
-*   Dividend Investing
 
 *   My Authors
 
