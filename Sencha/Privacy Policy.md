@@ -3,8 +3,8 @@ Sencha
 *   Buy Now
 *   Try For Free
 *   Products
-    *   Why Sencha
     *   Sencha Platform
+    *   Why Sencha
     *   Integrated Products
         *   Sencha Complete
         *   Sencha Touch Bundle
