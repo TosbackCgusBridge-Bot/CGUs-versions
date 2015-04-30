@@ -38,8 +38,7 @@ We will not sell, rent or lease your Personal Information to others except as pr
 *   To prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement Policy)
 *   To investigate suspicious information that denotes illegal activity such as financial aid fraud
 *   To analyze academic and learning outcomes and preferences
-    *   For external academic research and scholarship done by Business Associates or Unrelated Entities  
-        
+*   For external academic research and scholarship done by Business Associates or Unrelated Entities
 *   To obtain payment for services that we provide to you
 *   To provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education
 *   To maintain educational and business records for reasonable periods
