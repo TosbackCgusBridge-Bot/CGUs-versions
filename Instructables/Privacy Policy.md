@@ -241,7 +241,7 @@ Legal Notices &. Trademarks
 *   Autodesk Terms and Conditions Governing the Provision of Consulting Services
 *   Online Purchases and Auto-Renewal Terms and Conditions
 
-  Privacy Statement - UPDATED OCTOBER 24, 2014
+  Privacy Statement - UPDATED APRIL 24, 2015
 
 *   Privacy Statement  
     o Cookie Policy  
