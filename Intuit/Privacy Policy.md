@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13564098895
+true true 10.60.248.10 L13568601656
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Tue Apr 28 12:11:53 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Wed Apr 29 05:32:48 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,28 +47,39 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-Friends and Family
+In Store and Online
 
-Hurry! Offer ends April 28. In store and online. ONLINE CODE: MYFAMILY
+Ends May 2. CODE: SUPERTEN
 
-Extra 25% Off\* original, regular, sale and clearance-priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades. or and Extra 15% Off\* watches, salon products, optical and portrait.
+$10 Off\* $25 or more.
+
+Online Only
+
+Ends May 2. CODE: NOWSHOP
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends May 2. CODE: NOWSHOP
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
 
 \*See exclusions and details print coupon
 
-*   liz claiborne event  
-    25-50% off
-    
-    select styles
-    
+*   starts now!  
+    super  
+    saturday  
+    sale
 *   love mom  
     jewelry sale  
     40-60% off
     
     select styles
     
-*   spring for  
-    handbags  
-    30-40% off
+*   liz claiborne  
+    event  
+    25-50% off
     
     select styles
     
@@ -78,30 +89,28 @@ Extra 25% Off\* original, regular, sale and clearance-priced apparel, shoes, acc
     select styles
     
 
-*   Love, Liz Claiborne Event
+*   Super Saturday Sale
     
-    Now through May 10th.
+    Starts now! In store and online.
     
-    40-50% Off Liz Claiborne Apparel
+    shop now view store adUp To $30 Bonus Cash!
     
-    select styles
+    Ends May 10. In store only.
     
-    shop now shop now25-40% Off Liz Claiborne Handbags
+    Earn $10 Bonus Cash for every $50 you spend in store. Redeemable May 11 through May 25, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
     
-    select styles
+    shop women's shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattressesNight and Day Doorbusters
     
-    shop now40% Off Liz Claiborne Fashion Accessories
+    In store and online. Friday, 3PM CDT through Saturday, 1PM CDT. Use your coupon and save even more!
     
-    select styles
-    
-    shop now shop now40% Off Liz Claiborne Fashion Jewelry
-    
-    select styles
-    
-    shop now shop now
+    shop doorbusters
 *   Love Mom Jewelry Sale shop the jewelry sale
     
-    $52.49 Ea. After Extra 25% Off\* WITH CODE FRNDJEWL. Sale $69.99 ea., originally $124.98 ea. Select styles. 1/10 CT. T.W. Diamond Pendants and Rings.
+    $55.99 Ea. After Extra 20% Off\* with your JCPenney Credit Card and CODE: ALL4MOMS. Sale $69.99 ea. Originally $124.98 ea.
+    
+    Select styles
+    
+    1/10 CT. T.W. Diamond Pendants and Rings
     
     shop diamond pendants and rings get details shop the jewelry ad40-60% Off Fine Jewelry and Bijoux Bar
     
@@ -116,28 +125,40 @@ Extra 25% Off\* original, regular, sale and clearance-priced apparel, shoes, acc
     Select styles.
     
     shop now
-*   Bold and Graphic Handbags
+*   Love, Liz Claiborne Event
     
-    30-40% Off Handbags
+    Now through May 10th.
+    
+    40-50% Off Liz Claiborne Apparel
     
     Select styles.
     
-    shop now
+    shop now25% Off Liz Claiborne Watches
+    
+    Select styles.
+    
+    shop now25-40% Off Liz Claiborne Shoes
+    
+    Select styles.
+    
+    shop now shop now25-40% Off Liz Claiborne Handbags
+    
+    Select styles.
+    
+    shop now shop now40% Off Liz Claiborne Fashion Accessories
+    
+    Select styles.
+    
+    shop now40% Off Liz Claiborne Fashion Jewelry
+    
+    Select styles.
+    
+    shop now shop now
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style bookKeurig
-    
-    $149.99 Keurig K350 2.0 brewer with touch display. Originally $250.
-    
-    $169.99 Keurig K450 2.0 brewer with programmable clock. Originally $300.
-    
-    $199.99 Keurig K550 2.0 brewer with hot water on demand. Originally $350.
-    
-    Receive a FREE storage drawer with any Keurig purchase.\*
-    
-    shop keurig
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book shop bedding
 
 What's New
 
@@ -163,11 +184,23 @@ get details JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today People StyleWatch Must Haves
+sign up today Love Your Fit Bra Fit Event
+
+April 28 through May 10.
+
+More sizes, more styles, more you.
+
+find a bra fit event near you People StyleWatch Must Haves
 
 Sponsored content.
 
-shop now Download the JCPenney App learn more download on the App store Introducing Styled by JCPenney read the blog
+shop now Introducing Styled by JCPenney read the blog Download the JCPenney App
+
+Fast browse and shop. Quick scan in-store product lookup. Find coupons. Save your faves.
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
+learn more download on the App store
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
