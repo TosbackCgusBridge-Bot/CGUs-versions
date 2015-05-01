@@ -10,9 +10,9 @@ Aéropostale Go
 *   Girls
     
     *   NEW ARRIVALS
-    *   Strappiest Place on Earth
     *   Bethany Mota
     *   United XXVI
+    *   Throwback Tees
     *   Shop by Outfit
     *   Party Dress Shop
     *   Swim Shop
@@ -54,8 +54,8 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
-    *   Think Tanks
     *   United XXVI
+    *   Throwback Tees
     *   Brooklyn Calling
     *   Shop by Outfit
     *   Uniform
