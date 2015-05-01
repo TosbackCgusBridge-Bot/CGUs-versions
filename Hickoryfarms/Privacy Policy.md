@@ -33,7 +33,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Nuts
 *   Wine
 *   Sweets
-    *   Chocolate
 *   Specialty Foods
     *   HoneyGold Ham
     *   Condiments
@@ -81,7 +80,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Nuts
 *   Wine
 *   Sweets
-    *   Chocolate
 *   Specialty Foods
     *   HoneyGold Ham
     *   Condiments
