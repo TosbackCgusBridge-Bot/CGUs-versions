@@ -133,6 +133,52 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     4.  See all Workstations
     
 5.  Servers &. Storage
+    1.  See all Servers &. Storage
+    2.  Servers
+        1.  Racks
+        2.  Towers
+        3.  Blades
+        4.  Mission Critical
+        5.  High Density
+        6.  Options
+        7.  See all Servers
+    3.  Networking
+        1.  Ethernet RackSwitch
+        2.  Ethernet Switches for Flex System
+        3.  Ethernet Switches for Blade System
+        4.  Networking Options
+        5.  Networking Software
+        6.  See all Networking
+    4.  Software
+        1.  Operating Systems
+        2.  Systems Management
+        3.  Cloud &. Virtualization
+        4.  Security
+        5.  High-Performance Computing (HPC)
+        6.  See all Software
+    5.  Storage
+        1.  Direct-Attached Storage
+        2.  Network-Attached Storage
+        3.  Storage-Area Network
+        4.  Tape
+        5.  See all Storage
+    6.  Solutions
+        1.  Alliances
+        2.  Big Data &. Analytics
+        3.  Business Applications
+        4.  Client Virtualization &. Infrastructure
+        5.  Cloud
+        6.  Converged Systems
+        7.  Database
+        8.  High-Performance Computing (HPC)
+        9.  OEM
+        10.  See all Solutions
+    7.  Services
+        1.  VDI, Cloud, Virtualization, &. Converged Infrastructure
+        2.  HPC, Big Data &. Analytics, Software-Defined Storage, &. Security
+        3.  Warranty &. Maintenance Services
+        4.  See all Services
+    8.  See all Servers &. Storage
 6.  Accessories &. Software
     1.  See all Accessories &. Software
     2.  Accessories Hardware Pairings for Your PC
@@ -437,7 +483,7 @@ Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - 
     *   Tablets
     *   Desktops
     *   Workstations
-    *   Servers
+    *   Servers, Storage, &. Networking
     *   Accessories &. Software
     *   Services &. Warranty
     *   Smartphones
