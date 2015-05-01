@@ -14,8 +14,7 @@
 *   music
     *   News
     *   Storytellers Live
-    *   Super Bowl Blitz
-    *   Top 20 Countdown
+    *   The 20
     *   Greatest Lists
     *   Music Videos
     *   Artists A-Z
