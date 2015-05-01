@@ -1,224 +1,102 @@
+Worldwide Sites
+
 Where applicable, you can see country-specific product information, offers, and pricing.
 
 Change country/language X
 
+*   Search
 *   Sign in
-*   Sign Out
-*   Worldwide Sites
-*   SEARCH
-
-My Account
-
- Autodesk Account  
-(includes all Subscriptions)  
- A360  
- Education Community  
- Education Community  
-
-Need help? Visit our Sign in FAQs.
-
-Education
-
-Students and educators sign in or register for the Education Community
-
-*   Sign In
-*   Need an education account?
-
-*   Get free software
+    *   My Account
+    *   Autodesk Account
+        
+        (includes all Subscriptions)
+        
+    *   A360
+    *   Education Community Education Community
+    *   Need help? Visit our sign-in FAQs
+*   Sign out
+*   Menu
 
 *   Products
-*   Support &. Learning
-*   Communities
-*   Buy
-*   Store
-
-Suites
-
-*   Building Design
-*   Entertainment Creation
-*   Factory Design
-*   Infrastructure Design
-*   Plant Design
-*   Product Design
-*   AutoCAD Design
-*   Compare all suites
-
-Products
-
-*   AutoCAD
-*   AutoCAD LT
-*   All AutoCAD
-*   3ds Max
-*   Alias
-*   InfraWorks 360
-*   Inventor
-*   Maya
-*   Simulation products
-
- 
-
-*   Navisworks
-*   Revit
-*   All products
-
-Subscription
-
-*   Autodesk Subscription
-
-Viewers
-
-*   DWF
-*   DWG
-*   All viewers
-
-PRODUCTS BY INDUSTRY
-
-*   Construction
-*   Film &. Television
-*   Industrial Equipment
-*   Roads &. Highways
-*   All industry solutions
-
-MOBILE &. WEB
-
-*   Personal Creativity
-*   Mobile Apps
-
-CLOUD SERVICES
-
-*   Autodesk cloud services
-*   A360
-*   Autodesk PLM 360
-*   AutoCAD 360
-*   BIM 360
-*   Fusion 360
-*   All cloud services
-
-BY PRODUCT
-
-*   AutoCAD
-*   AutoCAD Architecture
-*   AutoCAD Civil 3D
-*   AutoCAD LT
-*   AutoCAD Map 3D
-*   AutoCAD Mechanical
-*   3ds Max
-*   Alias
-
- 
-
-*   Inventor
-*   Maya
-*   Navisworks
-*   Revit
-*   Moldflow Insight
-*   Vault
-*   All Support &. Learning
-
-POPULAR TOPICS
-
-*   Installation &. Licensing
-*   System Requirements
+    *   Top products
+    *   AutoCAD
+        *   AutoCAD
+        *   AutoCAD LT
+        *   A360
+        *   AutoCAD Design Suite
+        *   All AutoCAD
+    *   3ds Max
+    *   Building Design Suite
+    *   AutoCAD Civil 3D
+    *   Inventor
+    *   Maya
+    *   Navisworks
+    *   Product Design Suite
+    *   Revit
+    *   SketchBook Pro
+    *   All products &. suites
+    *   File viewers
+    *   DWG
+    *   DWF
+    *   All viewers
+    *   Solutions
+    *   Industry solutions
+        *   Simulation
+        *   Building Information Modeling (BIM)
+        *   All solutions
+    *   Cloud &. collaboration
+    *   Makers &. indie designers
+        *   3D printing
+        *   Indie game maker
+        *   Makers
+*   Support &. learning
+    *   Support
+    *   By product
+    *   System requirements
+    *   Updates, hotfixes &. service packs
+    *   Customer service
+    *   Installation, activation, licensing
+    *   Account management
+    *   All customer service
+    *   Training
+    *   Classes on demand
+    *   Training &. certification
+    *   Community resources
+    *   Blogs
+    *   Developer network
+    *   Forums
+    *   Students &. educators
+    *   All communities
+    *   Services
+    *   Consulting
+    *   Partner products &. services
 *   Downloads
-*   Account Management
+    *   Free product trials
+    *   Free student software
+    *   File viewers
+    *   Updates &. service packs
+*   Buy
+    *   Buy
+    *   Buy online
+    *   Find a reseller
+    *   Special offers
+    *   Subscription plans
+    *   Support offerings
+    *   Options
+    *   Education
+    *   Financing
+*   About Autodesk
+    *   Careers
+    *   Company
+        *   About us
+        *   Newsroom
+        *   Autodesk Labs
+    *   Investor relations
+    *   Trust center
 
-RESOURCES
-
-*   Forums
-*   Articles
-*   Ideas
-*   Developer Network
-
-EVENTS &. TRAINING
-
-*   Autodesk Events
-*   Autodesk University
-*   Training &. Certification
-
-SERVICES
-
-*   Consulting
-*   Licensing Options
-*   Partner Products &. Services
-*   Subscription
-
-AUTOCAD ANSWER DAY
-
-Take part in a real-time Q&A session about AutoCAD and AutoCAD LT on May 7.
-
-*   Learn more
-
-Users
-
-*   Discussion Groups
-*   Blogs
-*   Autodesk University
-*   Artists in Residence
-*   All communities
-
- 
-
-*   Industrial Design
-*   Labs
-*   Manufacturing
-*   Media &. Entertainment
-*   Simulation
-*   Students &. Educators
-
-Partners
-
-*   Developers
-*   Resellers
-*   Training Centers
-*   Partner Products &. Services
-*   OEM Software Program
-
- 
-
-*   Strategic Partners
-*   Consulting System Integrator Partners
-*   Industry Partners
-*   Investors
-
-Options
-
-*   Buy Online
-*   Find a Reseller
-
-Other
-
-*   Buy with Subscription
-*   Education
-*   Financing
-*   Government
-*   Licensing
-*   Special offers
-
-Asia Pacific
-
-*   Australia ($ AUD)
-*   Singapore ($ USD)
-*   日本 (円)
-*   한국 (₩)
-
-Europe
-
-*   Europa (Deutsch €)
-*   Europe (English €)
-*   Europa (Español €)
-*   Europe (Français €)
-*   Europa (Italiano €)
-*   United Kingdom (£)
-
-North America
-
-*   USA &. Canada ($ USD)
-
-South America
-
-*   Brasil (R$)
-
-Close
+*    Free trials
+*    Students and educators
+*    Worldwide sites
 
 *   Home
 *   Company
