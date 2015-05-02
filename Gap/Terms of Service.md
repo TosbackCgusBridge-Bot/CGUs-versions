@@ -1,8 +1,8 @@
 Terms of Use
 
-_Last updated: December 19, 2014_
+_Last updated: May 1, 2015_
 
-Welcome to the Gap Inc. Web sites, which include but are not limited to Gap.com, BananaRepublic.com, OldNavy.com, Piperlime.com and Athleta.gap.com (the "Sites"). The Sites are provided as a service to our customers. Please review the following terms and conditions of use, which govern your use of the Sites (the "Agreement").
+Welcome to the Gap Inc. Web sites, which include but are not limited to Gap.com, BananaRepublic.com, OldNavy.com, and Athleta.gap.com (the "Sites"). The Sites are provided as a service to our customers. Please review the following terms and conditions of use, which govern your use of the Sites (the "Agreement").
 
 Your use of the Sites constitutes your agreement to follow and be bound by the Agreement. We reserve the right to update or modify this Agreement at any time without prior notice. For this reason, we encourage you to review the Agreement whenever you use any of the Sites. If you do not agree to these terms, please do not use the Sites.
 
@@ -16,7 +16,7 @@ We reserve the right, at any time in our sole discretion, to: modify, suspend or
 
 Site Contents
 
-Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by Gap Inc. GAP, GAPKIDS, BABYGAP, BANANA REPUBLIC, OLD NAVY, PIPERLIME, ATHLETA and other trademarks appearing on the Sites are the trademarks of Gap Inc. and/or its subsidiaries.
+Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by Gap Inc. GAP, GAPKIDS, BABYGAP, BANANA REPUBLIC, OLD NAVY, ATHLETA and other trademarks appearing on the Sites are the trademarks of Gap Inc. and/or its subsidiaries.
 
 The Sites and the Contents are intended solely for personal, non-commercial use. You may download or copy the Contents and other downloadable materials displayed on the Sites for your personal use only. No right, title or interest in any downloaded Content is transferred to you as a result of any such downloading or copying. You may not reproduce (except as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or exploit in any way any of the Contents or the Sites.
 
@@ -42,7 +42,7 @@ Product Information
 
 Many products displayed on the Sites are available in select Gap, Banana Republic, or Old Navy stores in the United States and, in some cases, select foreign markets. The prices displayed on the Sites are quoted in U.S. Dollars.
 
-Certain products are available exclusively online through the Sites. These products may have limited quantities and are subject to return or exchange only through the Sites according to the applicable return policy. In addition, products displayed on Piperlime.com and Athleta.gap.com are available exclusively online.
+Certain products are available exclusively online through the Sites. These products may have limited quantities and are subject to return or exchange only through the Sites according to the applicable return policy. In addition, products displayed on Athleta.gap.com are available exclusively online.
 
 Merchandise Store Locator and Reserve in Store
 
