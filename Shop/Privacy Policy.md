@@ -10,7 +10,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  ThinkPad E: Stylish &. Affordable Productivity
         6.  ThinkPad L: Affordable, All-Purpose Productivity
         7.  ThinkPad Helix: Detachable Business Ultrabooks
-        8.  See all Professional
+        8.  LaVie: World's Lightest 13.3" Laptop
+        9.  See all Professional
     3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
         1.  Y Series: Gaming Power Made Mobile
         2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
@@ -31,18 +32,19 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     5.  Not sure what you need?
         1.  Home Laptops Sale
         2.  Professional Laptops Sale
-        3.  Lenovo Gift Guide
-        4.  New Product Showcase
-        5.  Best Selling &. Top Rated Laptops
-        6.  Convertibles
-        7.  Discover Yoga
-        8.  Gaming PCs
-        9.  View All Laptops
-        10.  Bags &. Carrying Cases
-        11.  Battery Finder
-        12.  PC Finder
+        3.  Great Gifts for Mom
+        4.  Lenovo Gift Guide
+        5.  New Product Showcase
+        6.  Best Selling &. Top Rated Laptops
+        7.  Convertibles
+        8.  Discover Yoga
+        9.  Gaming PCs
+        10.  View All Laptops
+        11.  Bags &. Carrying Cases
+        12.  Battery Finder
+        13.  PC Finder
         
-        14.  See all Not sure what you need?
+        15.  See all Not sure what you need?
     6.  See all Laptops
     
 2.  Tablets
@@ -54,10 +56,11 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  Lenovo A7: 7" Wideview Android Tablet
         5.  Lenovo A8: 8" Wideview Android Tablet
         6.  Lenovo A10: 10" Wideview Android Tablet
-        7.  Lenovo TAB 2 A7: 7" Wideview Android Tablet
-        8.  Lenovo TAB 2 A10: 10" Wideview Android Tablet
-        9.  Lenovo S8: 8" Enhanced Multimeddia Tablet
-        10.  See all Android Tablets
+        7.  Lenovo TAB 2 A7-10: 7" Wideview Android Tablet
+        8.  Lenovo TAB 2 A7-30: 7" Wideview Android Tablet
+        9.  Lenovo TAB 2 A10: 10" Wideview Android Tablet
+        10.  Lenovo S8: 8" Enhanced Multimeddia Tablet
+        11.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
         1.  Lenovo Yoga Tablet 2 8: 8" Tablet with AnyPen Technology
         2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
@@ -78,13 +81,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  See all 2-in-1 Laptops
     5.  Not sure what you need?
         1.  Tablets Sale
-        2.  Lenovo Gift Guide
-        3.  New Product Showcase
-        4.  Discover Yoga
-        5.  View All Tablets
-        6.  Bags &. Carrying Cases
-        7.  PC Finder
-        8.  See all Not sure what you need?
+        2.  Great Gifts for Mom
+        3.  Lenovo Gift Guide
+        4.  New Product Showcase
+        5.  Discover Yoga
+        6.  View All Tablets
+        7.  Bags &. Carrying Cases
+        8.  PC Finder
+        9.  See all Not sure what you need?
     6.  See all Tablets
     
 3.  Desktops &. All-in-Ones
@@ -110,16 +114,17 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  See all Erazer Desktops
     5.  Not sure what you need?
         1.  Desktops Sale
-        2.  Lenovo Gift Guide
-        3.  New Product Showcase
-        4.  Best Selling Desktops
-        5.  Gaming PCs
-        6.  View All Desktops
-        7.  Monitors
-        8.  Keyboards &. Mice
-        9.  PC Finder
+        2.  Great Gifts for Mom
+        3.  Lenovo Gift Guide
+        4.  New Product Showcase
+        5.  Best Selling Desktops
+        6.  Gaming PCs
+        7.  View All Desktops
+        8.  Monitors
+        9.  Keyboards &. Mice
+        10.  PC Finder
         
-        11.  See all Not sure what you need?
+        12.  See all Not sure what you need?
     6.  See all Desktops &. All-in-Ones
     
 4.  Workstations
@@ -254,12 +259,13 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         3.  Tablets Sale
         4.  Desktops Sale
         5.  Accessories Deals
-        6.  Lenovo Gift Guide
-        7.  ThinkPad &. ThinkCentre QuickShips
-        8.  Bing Page Deals
-        9.  Deals for Students and Educators
-        10.  Outlet
-        11.  See all Current Offers
+        6.  Great Gifts for Mom
+        7.  Lenovo Gift Guide
+        8.  ThinkPad &. ThinkCentre QuickShips
+        9.  Bing Page Deals
+        10.  Deals for Students and Educators
+        11.  Outlet
+        12.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
