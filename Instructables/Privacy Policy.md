@@ -22,7 +22,7 @@ Change country/language X
     *   AutoCAD
         *   AutoCAD
         *   AutoCAD LT
-        *   A360
+        *   AutoCAD 360
         *   AutoCAD Design Suite
         *   All AutoCAD
     *   3ds Max
@@ -38,6 +38,7 @@ Change country/language X
     *   File viewers
     *   DWG
     *   DWF
+    *   Online viewer
     *   All viewers
     *   Solutions
     *   Industry solutions
