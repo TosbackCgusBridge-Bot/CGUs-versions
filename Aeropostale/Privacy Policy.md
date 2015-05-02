@@ -14,7 +14,7 @@ Aéropostale Go
     *   United XXVI
     *   Throwback Tees
     *   Shop by Outfit
-    *   Party Dress Shop
+    *   Grad &. Party Dresses
     *   Swim Shop
     *   Uniform
     *   Online Only
