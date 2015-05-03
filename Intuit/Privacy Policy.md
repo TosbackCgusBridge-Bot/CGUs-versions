@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  SONYA
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13451777672
+true true 10.60.248.10 L13577239469
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Fri May 01 08:56:02 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat May 02 05:22:55 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -49,49 +49,144 @@ Your version of Internet Explorer is out of date. For best experience please upg
 
 In Store and Online
 
-Ends May 2. CODE: SUPERTEN
+Last Day! CODE: SUPERTEN
 
 $10 Off\* $25 or more.
 
 Online Only
 
-Ends May 2. CODE: NOWSHOP
+Last Day! CODE: NOWSHOP
 
 Or, Extra 20% Off\* $100 or more.
 
 In Store and Online
 
-Ends May 2. CODE: NOWSHOP
+Last Day! CODE: NOWSHOP
 
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses, custom blinds and shades.
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
 
-\*See exclusions and details. print coupon Super Saturday Sale
+\*See exclusions and details print coupon
 
-Starts now! 9 days until Mother's Day. In store and online.
+*   last day!  
+    super  
+    saturday  
+    sale
+*   love mom  
+    jewelry sale  
+    40-60% off
+    
+    select styles
+    
+*   liz claiborne  
+    event  
+    25-50% off
+    
+    select styles
+    
+*   home sale  
+    30-50% off
+    
+    select styles
+    
 
-shop now view store adUp To $30 Bonus Cash!
+*   Super Saturday Sale
+    
+    Last day! 8 days until Mother's Day In store and online.
+    
+    shop now view store adUp To $30 Bonus Cash!
+    
+    Ends May 10. In store only.
+    
+    Earn $10 Bonus Cash for every $50 you spend in store. Redeemable May 11 through May 25, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+    
+    shop women's shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses
+*   Love Mom Jewelry Sale shop the jewelry sale
+    
+    $55.99 Ea. After Extra 20% Off\* with your JCPenney Credit Card and CODE: ALL4MOMS. Sale $69.99 ea. Originally $124.98 ea.
+    
+    Select styles
+    
+    1/10 CT. T.W. Diamond Pendants and Rings
+    
+    shop diamond pendants and rings get details shop the jewelry ad40-60% Off Fine Jewelry and Bijoux Bar
+    
+    Select styles.
+    
+    shop now20-50% Off Watches
+    
+    Select styles.
+    
+    shop now30-60% Off Fashion Jewelry
+    
+    Select styles.
+    
+    shop now
+*   Love, Liz Claiborne Event
+    
+    Now through May 10th.
+    
+    40-50% Off Liz Claiborne Apparel
+    
+    Select styles.
+    
+    shop now25% Off Liz Claiborne Watches
+    
+    Select styles.
+    
+    shop now25-40% Off Liz Claiborne Shoes
+    
+    Select styles.
+    
+    shop now shop now25-40% Off Liz Claiborne Handbags
+    
+    Select styles.
+    
+    shop now shop now40% Off Liz Claiborne Fashion Accessories
+    
+    Select styles.
+    
+    shop now40% Off Liz Claiborne Fashion Jewelry
+    
+    Select styles.
+    
+    shop now shop now
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop the home style book shop bedding
 
-Ends May 10. In store only.
+What's New
 
-Earn $10 Bonus Cash for every $50 you spend in store. Redeemable May 11 through May 25, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+Refresh your closet for spring! See what's trending now.
 
-Hundreds of Night and Day Doorbusters
+shop shoes shop kids' shop handbags shop jewelry shop men's shop home Make Mom Shine
 
-In store and online. Friday, 3PM CDT through Saturday, 1PM CDT. Use your coupon and save even more!
+Mother's Day is May 10.
 
-shop doorbustersDoorbuster 50% Off Select Worthington shop nowDoorbuster $9.99 Select Men's St. John's Bay Polos shop nowDoorbuster 40-65% Off Select Fine and Fashion Jewelry and Bijoux Bar shop nowDoorbuster $5.99 JCPenney Home 30x54" Solid or Striped Bath Towels shop nowDoorbuster 50-60% Off Select Sleepwear for Her shop nowDoorbuster $5.99 Select Kids' Arizona Graphic Tees shop now 30-50% Off Home Sale
+shop all gifts$10 Off $10 Coupon
 
-Select styles.
+April 26 through May 10. Online only!
 
-shop the home sale shop furniture and mattresses shop kitchen and dining shop luggage shop bedding and bath shop home decor shop window shop cookware JCP Rewards
+Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards from April 26 through May 10, 2015. Redeemable in store and online. Some restrictions apply.
+
+$10 Off $10 Bonus Cash!
+
+April 26 through May 10. In store only!
+
+Earn a $10 off $10 Bonus Cash Coupon when you purchase $75 in JCPenney gift cards. Redeemable May 11 through May 24, 2015. Some restrictions apply.
+
+get details JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
-sign up today Make Mom Shine
+sign up today Love Your Fit Bra Fit Event
 
-Mother's Day is May 10
+April 28 through May 10.
 
-shop gifts Download the JCPenney App learn more download on the app store Introducing: Styled by JCPenney read the blog Round Up and Let Your Change Make Real Change
+More sizes, more styles, more you.
+
+find a bra fit event near you Introducing Styled by JCPenney read the blog Download the JCPenney App learn more download on the App store Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in May by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
