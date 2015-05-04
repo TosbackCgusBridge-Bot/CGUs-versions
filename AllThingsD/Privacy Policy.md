@@ -73,7 +73,7 @@ Certain features on the Dow Jones Online Services give you an opportunity to int
 
 Our Disclosure of Information
 
-Dow Jones &. Company, Inc. and its subsidiaries may share your Personal Information with one another, as well as with Dow Jones Affiliates for the purposes described in this Privacy Policy, including for each company's marketing purposes. Please see the Introduction for more information about the companies that make up the Dow Jones subsidiaries and Dow Jones Affiliates. Users who visit Dow Jones Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. Dow Jones &. Company, Inc. is the party responsible for the management of the jointly-used Personal Information.
+Dow Jones &. Company, Inc. and its subsidiaries may share your Personal Information with one another, as well as with Dow Jones Affiliates for the purposes described in this Privacy Policy, including for each company's marketing purposes. Please see the Introduction for more information about the companies that make up the Dow Jones subsidiaries and Dow Jones Affiliates. Users who visit Dow Jones Affiliates? services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. Dow Jones &. Company, Inc. is the party responsible for the management of the jointly-used Personal Information.
 
 In addition, we may share your Personal Information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. We share your Personal Information:
 
@@ -110,7 +110,7 @@ Here are links to pages where subscribers and registered users may update their 
 *   DJX - Factiva Customer Support
 *   AllThingsD.com
 
-You may also contact Dow Jones Customer Service at service@dowjones.com or by calling 1-800-DOWJONES (U.S. only) or 212-416-3858 (outside the U.S.). Local contact information for The Wall Street Journal and Barron’s is also available in the Contact Directory. Local contact information for corporate enterprise products is available on the Customer Support site.
+You may also contact Dow Jones Customer Service at service@dowjones.com or by calling 1-800-DOWJONES (U.S. only) or 212-416-3858 (outside the U.S.). Local contact information for The Wall Street Journal and Barron?s is also available in the Contact Directory. Local contact information for corporate enterprise products is available on the Customer Support site.
 
 Your California Privacy Rights
 
@@ -131,7 +131,7 @@ and include your name and the address to which you would like us to respond.
 
 **Data Retention**. We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-**Collection of Personal Financial Information by a Payment Service**. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment in such a case, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
+**Collection of Personal Financial Information by a Payment Service**. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (?Payment Service?). If you wish to purchase a product or make a payment in such a case, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service?s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service?s use of information collected through any Payment Service.
 
 **Linked Services**. The Dow Jones Online Services may also be linked to sites operated by third parties, and may carry advertisements or offer content, functionality, games or applications developed and maintained by third parties. Some of these third party sites may be co-branded with a Dow Jones logo, even though they are not operated or maintained by us. For example:
 
