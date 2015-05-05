@@ -37,14 +37,15 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  New Product Showcase
         6.  Best Selling &. Top Rated Laptops
         7.  Convertibles
-        8.  Discover Yoga
-        9.  Gaming PCs
-        10.  View All Laptops
-        11.  Bags &. Carrying Cases
-        12.  Battery Finder
-        13.  PC Finder
+        8.  Discover Lenovo LaVie
+        9.  Discover Yoga
+        10.  Gaming PCs
+        11.  View All Laptops
+        12.  Bags &. Carrying Cases
+        13.  Battery Finder
+        14.  PC Finder
         
-        15.  See all Not sure what you need?
+        16.  See all Not sure what you need?
     6.  See all Laptops
     
 2.  Tablets
@@ -84,11 +85,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Great Gifts for Mom
         3.  Lenovo Gift Guide
         4.  New Product Showcase
-        5.  Discover Yoga
-        6.  View All Tablets
-        7.  Bags &. Carrying Cases
-        8.  PC Finder
-        9.  See all Not sure what you need?
+        5.  Discover Lenovo LaVie
+        6.  Discover Yoga
+        7.  View All Tablets
+        8.  Bags &. Carrying Cases
+        9.  PC Finder
+        10.  See all Not sure what you need?
     6.  See all Tablets
     
 3.  Desktops &. All-in-Ones
@@ -118,13 +120,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         3.  Lenovo Gift Guide
         4.  New Product Showcase
         5.  Best Selling Desktops
-        6.  Gaming PCs
-        7.  View All Desktops
-        8.  Monitors
-        9.  Keyboards &. Mice
-        10.  PC Finder
+        6.  Discover Lenovo LaVie
+        7.  Gaming PCs
+        8.  View All Desktops
+        9.  Monitors
+        10.  Keyboards &. Mice
+        11.  PC Finder
         
-        12.  See all Not sure what you need?
+        13.  See all Not sure what you need?
     6.  See all Desktops &. All-in-Ones
     
 4.  Workstations
@@ -218,11 +221,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         3.  Thin Client Solutions
         4.  Free System Checkup
         5.  See all Technologies
-    5.  Not sure what you need?
-        1.  Hot Deals on Accessories
-        2.  Best Selling Accessories
-        3.  View All Accessories
-        4.  See all Not sure what you need?
+    5.  Shop Deals &. Solutions
+        1.  Accessories Tech Corner
+        2.  Hot Deals on Accessories
+        3.  Best Selling Accessories
+        4.  View All Accessories
+        5.  See all Shop Deals &. Solutions
     6.  See all Accessories &. Software
     
 7.  Services &. Warranty
