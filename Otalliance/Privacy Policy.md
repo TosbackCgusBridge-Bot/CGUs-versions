@@ -110,7 +110,7 @@ As a founding non-profit partner of the TRUSTe IoT Privacy Summit, OTA is prou
 *   OTA Blog
 *   Newsletters
 
-Mon, Apr 20, 2015 Bulding for the future - OTA is looking to build our team
+Tue, May 5, 2015 Wearables. the Next Fashion Statement Do consumers know the true price they may be paying? Innovation in personal connected devices, aka the Internet of Things (IoT), has the enticing promise of enabling consumers with a wide range of function and benefits. These advancements are leap frogging what we have realized from smartphones and mobile apps. We are a data driven society and economy, and increasingly conscious of the opportunity the data these devices can provide. Wearables and cross device tracking can provide significant insights into the lives, behaviors and tastes of consumers than ever before. Done right the vendors, marketers, retailers and consumers can equally benefit. As companies who are rushing to the market are they considering the consequences and responsibilities when consumers entrust them with their data. If the past news headlines are an indicator of the future, one might say no. Mon, Apr 20, 2015 Bulding for the future - OTA is looking to build our team
 
 This year OTA has accomplished a great deal and as we are about to embark on our 10th year of operation we are looking to build out our team with smart, energetic and passionate individuals.  OTA plays a pivotal role in both the public and private sectors and we need to build for the future.   If you want to make a difference, lead, collaborate and learn from industry and market leaders we want to hear from you.   Got Trust?  Learn more >
 
@@ -121,10 +121,6 @@ The Online Trust Alliance (OTA) today announced the expansion of its board of di
 Mon, Apr 6, 2015 Internet Policy Task Force Seeks Comment on Multistakeholder Process Addressing Key Cybersecurity Issues
 
 NTIA and its Internet Policy Task Force (IPTF) is soliciting asked input on which topics would be most conducive to discussion by a wide range of stakeholders.  OTA encourages and welcomes input into this effort.  Reminder the deadline for comments is 5 PM eastern,  May 18, 2015. The RFI is soliciting input into the following:
-
-Mon, Mar 30, 2015 Certification Model for IoT
-
-Following the exponential growth of the internet, mobile devices and applications, consumers worldwide are being presented with 1000’s of options and solutions purporting to support the promise of the connected home and wearable technologies.  Unfortunately with this rapid race to market, all too many of these products and services lack basic security and privacy considerations.  The implications range from identity theft and personal security compromises to consumer distrust with products being difficult to use and set up.  Regulators including the FTC and State Attorney Gen
 
 Resources
 
