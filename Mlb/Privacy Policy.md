@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. Español 한국어 繁體中文
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Vote Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Vote Auction Teams
 
 *   Scores
 *   News News News
@@ -182,6 +182,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Player Preview
     *   Postseason Bracket ChallengeR.B.I. Baseball 15 DraftKings
 *   Vote
+*   Auction
 *   Teams Teams American League AL East
     
     *   Baltimore
