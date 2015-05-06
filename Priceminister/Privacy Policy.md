@@ -29,13 +29,15 @@ A défaut de nous communiquer certaines de ces informations, nous ne serons pas 
    
 À tout moment, vous disposez de la faculté de modifier ces informations depuis la rubrique "Mes informations" de votre compte PriceMinister.  
   
+Enfin, vos informations sont analysées dans le cadre de la prévention des risques de fraude. Les vérifications opérées à cette fin sont susceptibles d’entraîner la suspension de l’exécution de votre commande voire, si le résultat de l’analyse ne permet pas de garantir sa sécurité, de l’annuler. La survenance d’un incident (impayé au motif d’une utilisation frauduleuse d’un moyen de paiement, fraude à la livraison, etc.) entraînera l’inscription de vos données au sein d’une liste noire, ce qui pourra, lors de prochaines commandes, conduire PriceMinister à réaliser des vérifications supplémentaires, voire à potentiellement refuser votre commande.  
+  
 **2\. Jeux concours**  
    
 Lors de l’organisation de jeux-concours, PriceMinister est susceptible de collecter certaines données à caractère personnel vous concernant et de les partager avec ses partenaires. Ces données sont nécessaires à la prise en compte de votre participation, et, le cas échéant, à la remise de la dotation. Elles peuvent également être utilisées afin de vous envoyer des offres personnalisées, si vous y consentez expressément.  
   
 **3\. Newsletters  
 **  
-Enfin, afin de vous proposer davantage de contenus personnalisés et/ou d’offres privilégiées relatives à nos services, PriceMinister peut vous adresser, par courrier électronique :  
+Enfin, afin de vous proposer davantage de contenus personnalisés et/ou d’offres privilégiées relatives à nos services, PriceMinister vous adressera, par courrier électronique :  
   
 \- des lettres d'information ("PriceLetters") ;  
 \- des conseils et astuces ;  
@@ -52,7 +54,14 @@ Vous gardez la possibilité de vous désabonner de toutes les newsletters à tou
   
 **4\. Destinataires de vos données**  
   
-Nous sommes amenés à rendre certains sous-traitants destinataires de vos données, à des fins marketing (notamment pour la gestion de l’envoi de nos newsletters et la mesure de leur taux d’ouverture afin d’adapter leur envoi à vos besoins), mais également pour la sécurisation de vos paiements, la gestion des assurances souscrites et le traitement des appels téléphoniques dans le cadre de notre service clients, ainsi qu’à Rakuten, Inc., notre société-mère, à des fins de reporting interne.  
+Nous sommes amenés à rendre un certain nombre de sous-traitants destinataires de certaines de vos données de compte et de navigation, pour les finalités suivantes :  
+  
+\- la sécurisation des paiements;  
+\- la gestion des assurances souscrites;  
+\- l'optimisation de notre plateforme et de l'envoi de nos newsletetrs. A cette fin, nous avons recours à un prestataire situé aux Etats-Unis, titulaire de la certification Safe Harbor;  
+\- le traitement des appelrs téléphoniques dans le cadre de notre service clients.  
+  
+Nous sommes également amenés à partager certaines informations avec Rakuten, Inc., notre société-mère située au Japon, à des fins marketing et de reporting interne.  
   
 Nous veillons à ce que ces destinataires traitent vos informations conformément à nos instructions, dans le respect de la loi «Informatique et Libertés » du 6 janvier 1978 et s'engagent à mettre en œuvre des mesures appropriées de sécurisation et de protection de la confidentialité de vos données.  
   
@@ -110,7 +119,7 @@ Il s’agit des cookies qui nous permettent de connaître l’utilisation et les
   
 Il s’agit des cookies qui nous permettent de choisir en temps réel quelle publicité afficher sur notre plateforme ou sur des sites tiers, en fonction des contenus et services que vous avez consultés précédemment ou de vous proposer des produits et des contenus susceptibles de vous intéresser.  
   
-**Partenaire** **A quoi servent ces cookies ?** **Durée de vie maximale des cookies** **Nom des cookies** **1000Mercis/**E-mail Attitude**** Analyse des comportements des utilisateurs de la plateforme afin d'adresser des messages commerciaux personnalisés et mesure de l'efficacité des campagnes de marketing relationnel 13 mois "mruid", "ruid" **Criteo/Tedemis** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 13 mois "uic", "uid", "acdc", "udc" **Exelate** Adapter les publicités affichées sur la plateforme à vos préférences 3 mois Cookies commençant par "ud" **Ligatus** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 6 mois Cookies commençant par "ligatus" **Quantcast** Identifier des profils d'internautes intéressant en fonction de leur comportement sur Internet 13 mois "mc" **Quantum-Advertising** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 45 jours "adnxs","krx","hmrtgp" **Rich Relevance** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 12 mois "mvtid", "cv", "m", "n", "s", "uc" et cookies commençant par "rr\_" sur l'application  
+**Partenaire** **A quoi servent ces cookies ?** **Durée de vie maximale des cookies** **Nom des cookies** **1000Mercis/**E-mail Attitude**** Analyse des comportements des utilisateurs de la plateforme afin d'adresser des messages commerciaux personnalisés et mesure de l'efficacité des campagnes de marketing relationnel 13 mois "mruid", "ruid" **Criteo/Tedemis** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation et envoi de courriels correspondants à celles-ci 13 mois "uic", "uid", "acdc", "udc" **Exelate** Adapter les publicités affichées sur la plateforme à vos préférences 3 mois Cookies commençant par "ud" **Ligatus** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 6 mois Cookies commençant par "ligatus" **Nextperf** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 12 mois Cookies commençant par "nxtck" **Quantum-Advertising** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 45 jours "adnxs","krx","hmrtgp" **Rich Relevance** Adapter les recommandations de produits et les publicités en fonction de vos affinités et de votre historique de navigation 12 mois "mvtid", "cv", "m", "n", "s", "uc" et cookies commençant par "rr\_" sur l'application **Twenga** Mesure des performances des différents produits recommandés 12 mois « tw\_session\_id », « tw\_session\_sequence » et « tw\_visitor\_id »  
 Par ailleurs, pour l’allocation des emplacements publicitaires figurant sur notre plateforme, afin d’afficher des publicités adaptées à vos centres d’intérêts, nous faisons appel aux solutions de 3W Régie et de Google. Les cookies déposés à cet effet dépendent des régies publicitaires. Nous ne pouvons pas les lister de manière exhaustive.  
   
 **4.3 Les cookies dits « des réseaux sociaux »**  
