@@ -1,4 +1,4 @@
-Spring Brand Event - Online Sweepstakes
+RIDE YOUR DREAM FOX GIVEAWAY
 
 Enter Now
 
