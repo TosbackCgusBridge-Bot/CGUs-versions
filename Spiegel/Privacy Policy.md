@@ -402,6 +402,8 @@ TOP Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern
     rechner
 *   Neu-/Gebraucht-  
     Fahrzeuge
+*   Werkstatt-  
+    vergleich
 
 *   FREIZEIT
 *   Eurojackpot
