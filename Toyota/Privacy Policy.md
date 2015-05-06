@@ -321,7 +321,7 @@ Sign up for toyota updates. Request a Quote Trade-In Value Shopping Tools
 
 *   Trade-In Value
 *   Trade-In Value
-*   Build Your Toyota
+*   Customize Your Own Toyota
 *   Search Inventory
 *   Find a Dealer
 *   Local Specials
