@@ -1,29 +1,4 @@
-OkCupid.com: Free Online Dating
-
-Join us! Sign in
-
-“The Google of  
-online dating”
-
-— The Boston Globe
-
-“The best  
-free dating site”
-
-— About.com
-
-“A favorite hangout  
-for internet goers”
-
-— The Village Voice
-
-“Pretty legit”
-
-— Some guy on Yelp
-
-OkCupid needs JavaScript to function, but you have it disabled. Check your browser settings.
-
-Legal Information
+OkCupid Join the best free dating site on Earth. Sign in Sign up Legal Information
 
 *   Terms &. Conditions (0)
 *   Arbitration (0)
@@ -187,7 +162,8 @@ or
 
 Sign in Welcome Back!
 
-Restore your account to continue meeting new people.
+Restore your account to continue  
+meeting new people.
 
 Restore Account Reset your password
 
@@ -199,13 +175,11 @@ Or, try logging in again.
 
 Email sent!
 
-An email is on its way to . If you don’t see it, try checking your Spam folder.
+An email is on its way to .  
+If you don’t see it, try checking  
+your Spam folder.
 
-Okay This page is out of date
-
-Refresh the page to get OkCupid working again!
-
-*   Refresh
+Okay
 
 *   About
 *   Contact
@@ -235,3 +209,9 @@ OkCupid © 2015 Free online dating
 *   Brooklyn dating
 *   Atlanta dating
 *   Portland dating
+
+This page is out of date
+
+Refresh the page to get OkCupid working again!
+
+*   Refresh
