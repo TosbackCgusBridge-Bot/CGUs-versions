@@ -59,7 +59,7 @@ Your access of and use of our website means you agree to the terms in this Notic
 
 ****Information We Collect****
 
-We collect information from a variety of sources, including information provided by you, information we collect when you visit our website or stores, transaction information, and informationwe collect about you from third party sources.
+We collect information from a variety of sources, including information provided by you, information we collect when you visit our website or stores, transaction information, and information we collect about you from third party sources.
 
 The following are examples of the types of information we may collect:
 
@@ -119,7 +119,7 @@ Note: It may take up to 10 business days to process your request.
 
 **Mobile Marketing**: To opt-out of mobile marketing for a specific mobile number, you may:
 
-*   Reply STOP to 25666 on your mobile phone/wireless device. You will receive a confimation text that you have been opted out.
+*   Reply STOP to 25666 on your mobile phone/wireless device. You will receive a confirmation text that you have been opted out.
 
 Note: Please allow 3-5 business days after contacting us to process your request. We do not share your mobile number with any third parties for marketing purposes.
 
@@ -140,7 +140,7 @@ Note: Because mailings often are prepared well in advance of an offering (12 - 1
 
 **Online Behavioral Advertising (OBA)**: Online behavioral advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive advertising from bloomingdales.com, however, these ads may not be as relevant to you.
 
-Do Not Track (DNT): bloomingdales.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking accross sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
+Do Not Track (DNT): bloomingdales.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking across sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
 
 IBM Digital Analytics (formerly Coremetrics): As a bloomingdales.com user, you may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website or you may choose to allow IBM Digital Analytics to analyze your behavior anonymously. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
 
@@ -174,7 +174,7 @@ If you are a minor under 18 and have a profile on bloomingdales.com, you may ask
 
 To fill international orders, bloomingdales.com partners with Borderfree, Inc. ("Borderfree"). Borderfree will carefully process your personal information, with at least the same level of privacy protection set forth in the the U.S. - EU Safe Harbor Privacy Principles and the U.S. - Swiss Safe Harbor Privacy Principles and as established by the U.S. Department of Commerce. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for processing international shipments.
 
-When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfr. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from bloomingdales.com.
+When you indicate you are shipping internationally, you will be redirected to a checkout page hosted by Borderfree. On the checkout page you will be required to submit personal information to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from bloomingdales.com.
 
 Borderfree will notify bloomingdales.com of the approval of your order, and bloomingdales.com will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions. You must agree to them to receive the product(s) you ordered.
 
