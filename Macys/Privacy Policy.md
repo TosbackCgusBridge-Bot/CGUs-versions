@@ -136,9 +136,9 @@ Third Party Sharing: If you prefer that we not disclose your information to thir
 
 Online Behavioral Advertising (OBA): Online behavioral advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click here for additional information on online behavioral advertising. If you would like to opt-out of online behavioral advertising, please click here. Please note that you will be opted out of all online behavioral advertising from all business members of the Network Advertising Initiative. If you opt-out, you may continue to see or receive online advertising from macys.com. however, these ads may not be as relevant to you.  
   
-Do Not Track (DNT): macys.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking accross sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
+Do Not Track (DNT): macys.com does not currently have the capabilities to recognize the various Do Not Track signals from different web browsers. Customers may manage their preferences for tracking across sites in the Online Behavioral Advertising section above. For more information on Do Not Track please visit http://www.allaboutdnt.org/
 
-IBM Digital Analytics (formerly Coremetrics): As a macys.com user, you may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website or you may choose to allow IBM Digital Analytics to analyze your behavior anonymously. Click here to learn more anout your privacy preference options with respect to IBM Digital Analytics use on our site.
+IBM Digital Analytics (formerly Coremetrics): As a macys.com user, you may choose to opt-out of IBM Digital Analytics' analysis of your browsing and purchasing behavior on our website or you may choose to allow IBM Digital Analytics to analyze your behavior anonymously. Click here to learn more about your privacy preference options with respect to IBM Digital Analytics use on our site.
 
 Back to Top
 
@@ -154,7 +154,7 @@ If you are an international customer, and want to access your information, pleas
   
 Information About Children Under 13  
   
-The Children's Online Privacy Protection Act imposes requirements on Web sites that collect personal information about children under 13 (for example - name, address, e-mail address, social security number, etc.) Our policy is not to collect any personal information on any person under 13. For this reason, our online sweepstakes, e-mail and mobile sign ups are restricted to entrants who are at least 13.  
+The Children's Online Privacy Protection Act imposes requirements on Web sites that collect personal information about children under 13 (for example - name, address, e-mail address, social security number, etc.) Our policy is not to collect any personal information on any person under 13. For this reason, our online sweepstakes, e-mail and mobile sign-ups are restricted to entrants who are at least 13.  
   
 If this policy changes, macys.com will revise this portion of its Notice of Privacy Practices and will comply with the requirements of the Children's Online Privacy Protection Act, which includes providing notice and choice to each child's parent or guardian before collecting any personal information.  
   
