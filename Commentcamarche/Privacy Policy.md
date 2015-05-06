@@ -1,4 +1,4 @@
-USESDEFRITBR Avril 2015
+USESDEFRITBR Mai 2015
 
 *   Objet
 *   Mentions légales
@@ -119,7 +119,23 @@ Durée et résiliation
 Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
-Conditions-generales-d-utilisation.pdf A voir également
+Conditions-generales-d-utilisation.pdf Précédent
+
+*   8
+*   9
+*   10
+*   11
+*   12
+*   13
+*   14
+*   15
+*   16
+
+Suivant
+
+Réalisé sous la direction de Jean-François PILLOU (@jeffpillou), fondateur de CommentCaMarche.net.
+
+A voir également
 
 *   Conditions générales
 *   Écrire les conditions générales utilisation
