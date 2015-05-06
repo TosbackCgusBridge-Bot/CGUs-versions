@@ -20,6 +20,8 @@ Seeking Alpha
 
 *   ETF Hub
 
+*   Income Investing
+
 *   My Authors
 
 *   Portfolio
