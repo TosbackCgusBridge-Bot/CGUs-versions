@@ -7,7 +7,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
     *   Mother's Day Favorites
-    *   Spring Favorites
     *   Gift Boxes
     *   Gift Baskets
         
@@ -54,7 +53,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
     *   Mother's Day Favorites
-    *   Spring Favorites
     *   Gift Boxes
     *   Gift Baskets
         
@@ -97,7 +95,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by Wednesday May 6th 3PM EST for Mother's Day 2nd Day Delivery!
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by Thurs May 7th 3PM EST for Mother's Day Overnight Delivery!
 
 1.  Home
 2.  Customer Service
