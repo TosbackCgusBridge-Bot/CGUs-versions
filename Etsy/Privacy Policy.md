@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Community Guidelines
-*   Terms of Use
+*   Privacy Policy for Mobile Apps
+*   ETHICAL EXPECTATIONS: What We Expect From Sellers Who Partner With Manufacturers
