@@ -59,8 +59,9 @@ Change country/language X
     *   Installation, activation, licensing
     *   Account management
     *   All customer service
-    *   Training
+    *   Events &. Training
     *   Classes on demand
+    *   Events
     *   Training &. certification
     *   Community resources
     *   Blogs
