@@ -136,7 +136,7 @@ and include your name and the address to which you would like us to respond.
 **Linked Services**. The Dow Jones Online Services may also be linked to sites operated by third parties, and may carry advertisements or offer content, functionality, games or applications developed and maintained by third parties. Some of these third party sites may be co-branded with a Dow Jones logo, even though they are not operated or maintained by us. For example:
 
 *   A portion of The Wall Street Journal Archive is hosted by an unrelated company - ProQuest - through its ProQuest Archiver service, and all article purchases are processed by ProQuest. ProQuest collects and uses your information in accordance with its privacy policy, and makes your information available to us. We will treat all information that ProQuest provides about you in accordance with this Privacy Policy.
-*   The Portfolio feature is provided by a third party, LikeAssets. LikeAssets collects and uses your information in accordance with its privacy policy, which is separate from this one.
+*   The Portfolio feature is provided by a third party, NextCapital. NextCapital collects and uses your information in accordance with its privacy policy, which is separate from this one.
 
 Dow Jones is not responsible for the privacy practices of any such third parties, and once you leave the Dow Jones Online Services or click an advertisement, you should check the applicable privacy policy of the other service.
 
