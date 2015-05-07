@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13586102065
+true true L13591460829
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue May 05 05:16:24 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p11.jcpenney.com SERVER NAME :->. dtcompr1l1j2 TIME :->. Wed May 06 11:10:34 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,20 +47,42 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 days only!  
-    love  
-    mom sale
-*   finish your  
-    look  
-    30-60% off
-    
-    select styles
-    
+In Store and Online
+
+Ends May 10. Code: MOMSLUV
+
+$10 Off\* $25 or more.
+
+Online Only
+
+Ends May 10. Code: YEAHMOM
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends May 10. Code: YEAHMOM
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details. print coupon
+
+*   starts now!  
+    biggest  
+    mother's  
+    day sale
 *   love mom  
     jewelry sale  
     20-60% off
     
     select styles
+    
+*   bra fit event  
+    50% off
+    
+    select styles  
+    when you buy  
+    2 or more
     
 *   home sale  
     30-50% off
@@ -68,20 +90,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   40% Off Worthington
+*   Our Biggest Mother's Day Sale
     
-    Select styles.
+    Starts now! Mother's Day is May 10.
     
-    shop WorthingtonLove Mom Sale
+    shop now view store ad shop dresses shop apparel shop shoes shop jewelry and watches shop handbags and accessories shop pajamas, robes and slippers shop home giftsUp To $30 Bonus Cash!
     
-    In store and online. Great gifts to make Mom's day shine.
+    Ends May 10. In store only! Earn $10 Bonus Cash for every $50 you spend in store. Redeemable May 11 through 25, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
     
-    shop now view store ad shop apparel shop shoes shop jewelry and watches shop handbags and accessories shop pajamas, robes and slippers shop home gifts
-*   All You Need To Finish Your Look
+    Night and Day Doorbusters
     
-    30-60% Off Handbags, Shoes and Jewelry.
+    In store and online. Friday, 3PM CDT through Saturday, 1PM CDT. Use your coupon and save even more!
     
-    finish your look shop handbags shop shoes shop jewelry
+    shop now
 *   Love Mom Jewelry Sale $55.99 ea. after Extra 20% Off\*\* with your JCPenney Credit Card and Code ALL4MOMS. Sale $69.99 ea. Originally $124.98 ea.
     
     Select styles. \*Exclusions apply.
@@ -99,15 +120,20 @@ Your version of Internet Explorer is out of date. For best experience please upg
     Select styles.
     
     shop fashion jewelry
-*   40-50% Off Window
+*   Bra Fit Event
+    
+    Final days! Now through May 10.
+    
+    find an in-store event near you50% Off Bras
+    
+    Select styles when you buy 2 or more.
+    
+    shop now shop Ambrielle shop Maidenform shop Warner's
+*   Home Sale 30-50% Off
     
     Select styles.
     
-    shop windowHome Sale 30-50% Off
-    
-    Select styles.
-    
-    shop all home shop the home style book shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+    shop all home shop bedding and bath shop window shop kitchen and dining shop home decor shop luggage shop furniture and mattresses shop the home style book shop bedding
 
 What's New
 
@@ -137,13 +163,11 @@ sign up today People StyleWatch Must Haves
 
 Sponsored content.
 
-shop now Love Your Fit Bra Fit Event
+shop now #IGotItFromMyMama
 
-April 28 through May 10.
+Share what your mama gave ya for a chance to be sketched for our lookbook with #IGotItFromMyMama and #JCPSketchMe.
 
-More sizes, more styles, more you.
-
-find a bra fit event near you Introducing Styled by JCPenney read the blog Round Up and Let Your Change Make Real Change
+get details Download the JCPenney App learn more download on the App store Round Up and Let Your Change Make Real Change
 
 Support JCPenney Cares in May by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
 
