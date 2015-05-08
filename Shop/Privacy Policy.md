@@ -34,18 +34,19 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         2.  Professional Laptops Sale
         3.  Great Gifts for Mom
         4.  Lenovo Gift Guide
-        5.  New Product Showcase
-        6.  Best Selling &. Top Rated Laptops
-        7.  Convertibles
-        8.  Discover Lenovo LaVie
-        9.  Discover Yoga
-        10.  Gaming PCs
-        11.  View All Laptops
-        12.  Bags &. Carrying Cases
-        13.  Battery Finder
-        14.  PC Finder
+        5.  Lenovo Coupon Codes
+        6.  New Product Showcase
+        7.  Best Selling &. Top Rated Laptops
+        8.  Convertibles
+        9.  Discover Lenovo LaVie
+        10.  Discover Yoga
+        11.  Gaming PCs
+        12.  View All Laptops
+        13.  Bags &. Carrying Cases
+        14.  Battery Finder
+        15.  PC Finder
         
-        16.  See all Not sure what you need?
+        17.  See all Not sure what you need?
     6.  See all Laptops
     
 2.  Tablets
@@ -84,13 +85,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Tablets Sale
         2.  Great Gifts for Mom
         3.  Lenovo Gift Guide
-        4.  New Product Showcase
-        5.  Discover Lenovo LaVie
-        6.  Discover Yoga
-        7.  View All Tablets
-        8.  Bags &. Carrying Cases
-        9.  PC Finder
-        10.  See all Not sure what you need?
+        4.  Lenovo Coupon Codes
+        5.  New Product Showcase
+        6.  Discover Lenovo LaVie
+        7.  Discover Yoga
+        8.  View All Tablets
+        9.  Bags &. Carrying Cases
+        10.  PC Finder
+        11.  See all Not sure what you need?
     6.  See all Tablets
     
 3.  Desktops &. All-in-Ones
@@ -118,16 +120,17 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Desktops Sale
         2.  Great Gifts for Mom
         3.  Lenovo Gift Guide
-        4.  New Product Showcase
-        5.  Best Selling Desktops
-        6.  Discover Lenovo LaVie
-        7.  Gaming PCs
-        8.  View All Desktops
-        9.  Monitors
-        10.  Keyboards &. Mice
-        11.  PC Finder
+        4.  Lenovo Coupon Codes
+        5.  New Product Showcase
+        6.  Best Selling Desktops
+        7.  Discover Lenovo LaVie
+        8.  Gaming PCs
+        9.  View All Desktops
+        10.  Monitors
+        11.  Keyboards &. Mice
+        12.  PC Finder
         
-        13.  See all Not sure what you need?
+        14.  See all Not sure what you need?
     6.  See all Desktops &. All-in-Ones
     
 4.  Workstations
@@ -225,8 +228,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         1.  Accessories Tech Corner
         2.  Hot Deals on Accessories
         3.  Best Selling Accessories
-        4.  View All Accessories
-        5.  See all Shop Deals &. Solutions
+        4.  Lenovo Coupon Codes
+        5.  View All Accessories
+        6.  See all Shop Deals &. Solutions
     6.  See all Accessories &. Software
     
 7.  Services &. Warranty
@@ -263,13 +267,14 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         3.  Tablets Sale
         4.  Desktops Sale
         5.  Accessories Deals
-        6.  Great Gifts for Mom
-        7.  Lenovo Gift Guide
-        8.  ThinkPad &. ThinkCentre QuickShips
-        9.  Bing Page Deals
-        10.  Deals for Students and Educators
-        11.  Outlet
-        12.  See all Current Offers
+        6.  Lenovo Coupon Codes
+        7.  Great Gifts for Mom
+        8.  Lenovo Gift Guide
+        9.  ThinkPad &. ThinkCentre QuickShips
+        10.  Bing Page Deals
+        11.  Deals for Students and Educators
+        12.  Outlet
+        13.  See all Current Offers
     3.  See all Deals
     
 9.  Which PC is right for me?
