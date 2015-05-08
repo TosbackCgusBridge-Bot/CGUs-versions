@@ -22,6 +22,16 @@ Seeking Alpha
 
 *   Income Investing
 
+*   PREMIUM
+*   Premium Authors
+*   *   Most Popular
+    *   Newest
+
+*   Pro
+*   *   Top Ideas
+    *   First Look
+    *   Idea Filter
+
 *   My Authors
 
 *   Portfolio
