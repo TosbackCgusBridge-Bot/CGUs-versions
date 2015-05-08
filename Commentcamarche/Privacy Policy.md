@@ -119,7 +119,7 @@ Durée et résiliation
 Le présent contrat est conclu pour une durée indéterminée à compter de l'Utilisation du Service par l'Utilisateur.  
 Droit applicable et juridiction compétente  
 Les règles en matière de droit, applicables aux contenus et aux transmissions de données sur et autour du site, sont déterminées par la loi française. En cas de litige, n'ayant pu faire l'objet d'un accord à l'amiable, seuls les tribunaux français du ressort de la cour d'appel de Paris sont compétents. Pour une lecture illimitée hors ligne, vous avez la possibilité de télécharger gratuitement cet article au format PDF :  
-Conditions-generales-d-utilisation.pdf Précédent
+Conditions-generales-d-utilisation .pdf Précédent
 
 *   8
 *   9
@@ -133,13 +133,13 @@ Conditions-generales-d-utilisation.pdf Précédent
 
 Suivant
 
-Réalisé sous la direction de Jean-François PILLOU (@jeffpillou), fondateur de CommentCaMarche.net.
+Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarche.net.
 
 A voir également
 
-*   Conditions générales
-*   Écrire les conditions générales utilisation
-*   Condition generale
+*   Conditions d'utilisation
+*   D'Utilisation
+*   Conditions d'utilisation site web
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
