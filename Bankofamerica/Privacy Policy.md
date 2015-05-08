@@ -304,7 +304,12 @@ Bank of America U.S. legal entities that utilize the names: Bank of America, Ban
 
 Rev. 01/2015
 
-Manage your marketing and information-sharing privacy choices Best overall —  
+Manage your marketing and information-sharing privacy choices What's new
+
+*   Coming soon: More security tools and simpler sign-in.
+*   Learn more about security and sign-in
+
+Best overall —  
 for 9 straight years
 
 **Bank of America held the title of best overall provider of protection against identity fraud** for its ninth consecutive survey year. The award is based on strong performance in the categories of fraud prevention, detection and resolution.
