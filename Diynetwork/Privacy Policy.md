@@ -13,7 +13,6 @@ Turn on more accessible mode Turn off more accessible mode Skip Ribbon Commands 
     *   Our Brands
     *   Investors
     *   Careers
-    *   Partners
     *   Outreach
 
  Privacy Policy Page Content
