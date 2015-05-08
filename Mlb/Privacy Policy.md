@@ -167,7 +167,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
     *   MLB Connect
-    *   MLB PrePlay
     *   Player News &. Updates
     *   Closer Report
     *   Injury Report
@@ -439,13 +438,11 @@ MLB Advanced Media, L.P. is the organization that produces and publishes the Off
 
 Last updated and effective date: June 30, 2014 Below is an advertisement.
 
-Connect with MLB.com
+facebook
 
-Facebook
+twitter
 
-Twitter
-
-Google Plus
+google-plus
 
 *   Terms of Use
 *   Privacy Policy (updated June 30, 2014)
