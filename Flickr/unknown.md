@@ -10,11 +10,12 @@
     *   The Weekly Flickr
     *   Flickr Blog
 *   Create
+
 *   Upload
 
 *   Sign In
 
-Grass could be greener on this side
+Explore Recent Photos The Commons 20under20 Galleries The Weekly Flickr Flickr Blog Grass could be greener on this side
 
 You seem to be using an unsupported browser. To get the most out of Flickr please upgrade to the latest version of Chrome, Safari, Firefox, or Internet Explorer.
 
