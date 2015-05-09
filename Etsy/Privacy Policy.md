@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   What is the DMCA?
-*   Terms of Use
+*   Drug Paraphernalia
+*   Copyright and Intellectual Property Policy
