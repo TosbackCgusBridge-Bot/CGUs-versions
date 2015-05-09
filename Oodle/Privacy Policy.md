@@ -144,7 +144,7 @@ Last update December 21, 2012
 *   » Content Policies
 *   » Copyright Infringement
 
-We've recently updated our privacy policy which you can review here.
+Oodle is now owned and operated by Oodle Holdings. You can review our new terms of use here.
 
 *   About Us
 *   Help
