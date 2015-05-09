@@ -20,13 +20,13 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Women Featured Shops
             *   2015 Swim Shop
-            *   Dress Diaries
+            *   Activewear Collection
             *   Shorts 101
             *   Swim Finder
             
             *   New Arrivals
             *   New UPF 50 Swim Tee
-            *   Activewear Collection
+            *   Summer Must Haves
             *   Tunic Shop
             *   Sale
         *   Shop By Size Range
@@ -99,6 +99,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
+            *   Digital Summer Catalog
             *   Swim Shop
             *   School Uniforms
             
