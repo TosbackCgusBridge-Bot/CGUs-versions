@@ -61,7 +61,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         7.  Lenovo TAB 2 A7-10: 7" Wideview Android Tablet
         8.  Lenovo TAB 2 A7-30: 7" Wideview Android Tablet
         9.  Lenovo TAB 2 A10: 10" Wideview Android Tablet
-        10.  Lenovo S8: 8" Enhanced Multimeddia Tablet
+        10.  Lenovo S8: 8" Enhanced Multimedia Tablet
         11.  See all Android Tablets
     3.  Windows Tablets All PC, Tablet Convenience
         1.  Lenovo Yoga Tablet 2 8: 8" Tablet with AnyPen Technology
@@ -225,7 +225,7 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         4.  Free System Checkup
         5.  See all Technologies
     5.  Shop Deals &. Solutions
-        1.  Accessories Tech Corner
+        1.  NEW! Accessories Tech Corner
         2.  Hot Deals on Accessories
         3.  Best Selling Accessories
         4.  Lenovo Coupon Codes
@@ -249,8 +249,12 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         3.  Premium Software Support Product usage &. setup
         4.  Hardware Services Product-specific expertise and support
         5.  See all PERSONAL | HOME OFFICE
-    4.  See all Services &. Warranty
-    5.  *   1 PC? or 1,000? We're here to help: 24/7/365
+    4.  Resources
+        1.  Upgrade Your Warranty Check Warranty Status &. Upgrades
+        2.  4 Hour Response Coverage Activate your 4 Hour Onsite Response Service
+        3.  See all Resources
+    5.  See all Services &. Warranty
+    6.  *   1 PC? or 1,000? We're here to help: 24/7/365
             
             Contact Us
         *   Warranty Coverage Upgrades &. Extensions
