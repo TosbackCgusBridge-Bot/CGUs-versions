@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13470621708
+true true L13596893214
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p25.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Fri May 08 06:10:20 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Sat May 09 10:57:58 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -67,10 +67,10 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
 
 \*See exclusions and details. print coupon
 
-*   starts now!  
-    biggest  
-    mother's  
-    day sale
+*   last day!  
+    our biggest  
+    mother's day  
+    sale
 *   love mom  
     jewelry sale  
     20-60% off
@@ -80,9 +80,7 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
 *   bra fit event  
     50% off
     
-    select styles  
-    when you buy  
-    2 or more
+    select styles
     
 *   home sale  
     30-50% off
@@ -98,11 +96,6 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
     
     Ends May 10. In store only! Earn $10 Bonus Cash for every $50 you spend in store. Redeemable May 11 through 25, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
     
-    Night and Day Doorbusters
-    
-    In store and online. Friday, 3PM CDT through Saturday, 1PM CDT. Use your coupon and save even more!
-    
-    shop now
 *   Love Mom Jewelry Sale $55.99 ea. after Extra 20% Off\*\* with your JCPenney Credit Card and Code ALL4MOMS. Sale $69.99 ea. Originally $124.98 ea.
     
     Select styles. \*Exclusions apply.
