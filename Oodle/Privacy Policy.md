@@ -151,7 +151,5 @@ Oodle is now owned and operated by Oodle Holdings. You can review our new terms 
 *   Safety Center
 *   Privacy Policy
 *   Terms of Use
-*   toGather
-*   Send us Feedback
 
-© Copyright 2015 California Voices, LLC. All rights reserved.
+© Copyright 2015 Oodle Holdings, LLC. All rights reserved.
