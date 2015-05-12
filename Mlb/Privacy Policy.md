@@ -47,12 +47,12 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     
     Featured
     *   THIS
-    *   Opening Week
+    *   #ASGWorthy
     *   Must C
     *   Chatting Cage
     *   DraftKings
     *   Clean Starts
-    *   Head &. Shoulders
+    *   Season of the Whiff
     *   Daily Dash
     *   Cut 4
     *   MLB Pipeline
@@ -439,11 +439,13 @@ MLB Advanced Media, L.P. is the organization that produces and publishes the Off
 
 Last updated and effective date: June 30, 2014 Below is an advertisement.
 
-facebook
+Connect with MLB.com
 
-twitter
+Facebook
 
-google-plus
+Twitter
+
+Google Plus
 
 *   Terms of Use
 *   Privacy Policy (updated June 30, 2014)
