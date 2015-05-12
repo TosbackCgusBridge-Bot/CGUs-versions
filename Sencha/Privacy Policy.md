@@ -27,6 +27,9 @@ Sencha
     *   Open Enrollment Courses
     *   Live Online Training
     *   Private On-Site Training
+*   Resources
+    *   Webinars
+    *   Videos
 *   Customers
 *   Company
     *   Overview
