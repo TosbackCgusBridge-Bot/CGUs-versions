@@ -1,4 +1,4 @@
-Skip to main content Military Students | International Students | Education Resources        Refine Subject
+Skip to main content Military Students | International Students | Education Resources      
 
 *   Online Degrees
     *   Business
