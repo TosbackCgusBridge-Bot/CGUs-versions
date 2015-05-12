@@ -146,6 +146,26 @@ FEES AND PAYMENTS
 
 The Christian Post reserves the right at any time to charge fees for access to portions of the Website. You will only be charged for access to the Website after we obtain your prior agreement to pay such charges. Thus, if at any time we require a fee for portions of the Website that is now free, we will give you advance notice of such fees. You may cancel your account at any time. All new fees will be posted prominently on the Website and in other appropriate locations. You agree to pay all fees and charges incurred through your account at the rates in effect for the billing period. You also agree to pay all applicable taxes relating to the user of the Website through your account.
 
+CANCELLATION AND REFUND POLICY
+
+**1.1. Cancellation and Refunds of Digital Subscriptions**  
+You can change or cancel your digital subscription at any time by emailing Customer Care at cancellation@christianpost.com.  
+  
+When you cancel a subscription, you cancel only future charges associated with your subscription. You may notify us of your intent to cancel at any time, but the cancellation will become effective at the end of your current billing period.  
+  
+Cancellations are effective the following billing cycle. You will not receive a refund for the current billing cycle. You will continue to have the same access and benefits of your product for the remainder of the current billing period.  
+  
+We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.
+
+**1.2. Changes to Content or Access**  
+We reserve the right to make changes to our digital products at any time. If we temporarily reduce or eliminate the charge for content or access that you are currently paying for under different terms, you will not receive a refund.
+
+**1.3. Cancellations by Us**  
+We reserve the right to suspend or terminate your subscription or product for any reason, with or without notice and without further obligation. You will not be entitled to a refund in these circumstances. If the subscription is temporarily unavailable, you will not receive a refund. We reserve the right to issue refunds or credits at our sole discretion. If we issue a refund or credit, we are under no obligation to issue the same or similar refund in the future.
+
+**1.4. Changes to Content or Access**  
+We reserve the right to make changes to our subscription products at any time. If we temporarily reduce or eliminate the charge for content or access that you are currently paying for under different terms, you will not receive a refund.
+
 FEATURED SERVICES
 
 The Christian Post is committed to providing visitors to its site with as many features as possible. The companies that The Christian Post selects as featured services providers offer products and services that site visitors may find useful. The Christian Post in certain cases may have a business relationship with certain third parties that it selects as a featured service provider. The Christian Post is not responsible for the accuracy or reliability of any advice or information given, or of any statement made, by the companies providing featured services, or for the content, services, products, or advertising on or available from their Websites, or for the availability and operations of their Websites. Jurisdiction
