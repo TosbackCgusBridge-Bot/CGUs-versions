@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13598455266
+true true L13600636874
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Sun May 10 10:19:06 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p13.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Mon May 11 05:36:01 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,11 +47,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   Happy  
-    mother's  
-    day!
-*   home sale  
-    30-50% off
+*   3 days only  
+    30-50% off  
+    select home
+*   3 days only  
+    extra 20% off
     
     select styles
     
@@ -68,30 +68,16 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Make Mom Shine
+*   3 Days Only
     
-    Happy Mother's Day! It's not too late! Find the perfect gift for mom.
+    Online only. May 11 through 13. CODE: GETITALL
     
-    view store ad find a store40-50% Off Liz Claiborne
+    get details50% Off\* Select Original and Regular-Priced Items. shop luggage shop window40% Off\* Select Original and Regular-Priced Items. shop home decor shop furniture and mattresses shop bedding and bath30% Off\* Select Original and Regular-Priced Items. shop kitchen and dining shop vacuums and floorcare shop storage and organization \*See exclusions and details
+*   3 Days Only
     
-    Select styles.
+    Online only. May 11 through 13. CODE: GETITALL
     
-    shop now$10 Off $10 Coupon
-    
-    Last day. Online Only!
-    
-    Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable May 11 through 24, 2015 in store and online. Some restrictions apply.
-    
-    get details
-    
-    This link will take you to our partner site operated by Cashstar.
-    
-    send an e-gift card
-*   Home Sale 30-50% Off
-    
-    Select styles.
-    
-    shop all home shop the home style book shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop bedding
+    get detailsExtra 20% Off\* Select Original, Regular, Sale and Clearance-Priced Items. shop women's shop men's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop custom blinds and shades shop baby furniture shop baby bedding shop clearance \*See exclusions and details
 *   Baby Sale shop the sale15-25% Off Baby Furniture
     
     Select styles.
@@ -111,23 +97,7 @@ What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop women's shop jewelry shop kids' shop shoes shop men's shop home Love Mom Jewelry Sale
-
-Last day!
-
-shop the sale$55.99 ea. after Extra 20% Off\*\* with your JCPenney Credit Card and Code ALL4MOMS. Sale $69.99 ea. Originally $124.98 ea.
-
-Select styles. \*Exclusions apply.
-
-shop 1/10 CT. T.W. diamond pendants and rings get details40-60% Off Fine Jewelry and Bijoux Bar
-
-Select styles.
-
-shop now30-60% Off Fashion Jewelry
-
-Select styles.
-
-shop now20-50% Off Watches
+shop women's shop jewelry shop kids' shop shoes shop men's shop home All You Need To Finish Your Look finish your look30-40% Off Handbags
 
 Select styles.
 
