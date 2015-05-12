@@ -108,6 +108,7 @@ Legal Practice areas
 *   Finance &. banking
 *   Health law
 *   Immigration
+*   Insurance
 *   Intellectual property
 *   Mergers &. acquisitions
 *   Products liability
