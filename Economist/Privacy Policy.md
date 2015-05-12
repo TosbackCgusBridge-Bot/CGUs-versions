@@ -39,7 +39,7 @@
 *   *   Working at The Economist Group
     *   *   Training and development
     *   Global job opportunities
-    *   *   Contacts
+    
 
 The Economist Newspaper privacy statement
 
