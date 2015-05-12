@@ -21,14 +21,14 @@ Main Menu
     *   Category
         *   Baby Gear
         *   Baby Toys by Milestone
-        *   Ride-On Toys: Power Wheels
-        *   Educational, Learning &. Developmental Toys
-        *   Playsets with Figures
-        *   Outdoor Toys &. Sports
-        *   Toy Cars, Trucks &. Vehicles
-        *   Train Sets
         *   Baby Toys by Type
         *   Bath Toys, Bathtubs &. Potties
+        *   Educational, Learning &. Developmental Toys
+        *   Outdoor Toys &. Sports
+        *   Playsets with Figures
+        *   Ride-On Toys: Power Wheels
+        *   Toy Cars, Trucks &. Vehicles
+        *   Train Sets
         *   View All >
 
 *   Everything Baby
