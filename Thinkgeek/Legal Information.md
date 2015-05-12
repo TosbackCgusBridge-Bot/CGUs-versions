@@ -32,11 +32,11 @@ Need to Bug Us About Something Urgent?
 
 Our helpful Live Support Monkeys are here to help through live online chat.
 
-Chat With Someone Now
+Live Chat Unavailable
 
 Bug Us the Old Fashioned Ways
 
-24 hours a day, 365 days a year.
+9am to 9pm EST, 365 days a year.
 
 *   1-888-GEEKSTUFF
     
