@@ -56,7 +56,7 @@ My Bag (0) Wish List Search
     *   Maintain Your Wish List
 *   Shipping/Handling
     *   Shipping Rates/Options
-    *   International Return Policy
+    *   International Shipping
 *   Returns
     *   Return Policy
     *   How to Return
