@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Drug Paraphernalia
-*   Copyright and Intellectual Property Policy
+*   Prohibited Items on Etsy
+*   Electronic Communications Policy
