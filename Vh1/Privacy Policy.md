@@ -7,20 +7,16 @@
     *   TV Schedule
 *   celebrity
     *   News
-    *   Celebrity Photos
-    *   Greatest Lists
     *   Big Morning Buzz Live
     *   The Gossip Table
 *   music
     *   News
     *   Storytellers Live
     *   The 20
-    *   Greatest Lists
-    *   Music Videos
-    *   Artists A-Z
     *   VH1 Classic
     *   VH1 Soul
     *   Vh1 You Oughta Know
+    *   Artists A-Z
 *   shop
 
 *   follow **vh1**
@@ -289,19 +285,14 @@ Visit VH1 On:
 *   Youtube
 
 *   VH1 Sites
-*   Atlanta Exes
-*   Love &. Hip Hop
-*   Love &. Hip Hop Atlanta
-*   Palladia
-*   The Gossip Table
-*   T.I. &. Tiny
-*   Top 20 Countdown
-*   VH1 Show News
+*   VH1 Shows
+*   VH1 News
 *   VH1 Celebrity
-*   VH1 Classic
-*   VH1 Mobile
 *   VH1 Music
+*   VH1 Show News
+*   VH1 Classic
 *   VH1 Soul
+*   Palladia
 
 *   Stay Connected
 *   VH1 on Facebook
@@ -309,7 +300,6 @@ Visit VH1 On:
 *   VH1 on Tumblr
 *   VH1 on Google+
 *   Newsletters
-*   Add RSS Headlines
 *   VH1 App
 
 *   Corporate
