@@ -210,7 +210,7 @@ OkCupid © 2015 Free online dating
 *   Atlanta dating
 *   Portland dating
 
-Like Liked Bookmark Remove Bookmark Hide Unhide This page is out of date
+This page is out of date
 
 Refresh the page to get OkCupid working again!
 
