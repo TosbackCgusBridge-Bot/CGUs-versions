@@ -10,15 +10,15 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         5.  ThinkPad E: Stylish &. Affordable Productivity
         6.  ThinkPad L: Affordable, All-Purpose Productivity
         7.  ThinkPad Helix: Detachable Business Ultrabooks
-        8.  LaVie: World's Lightest 13.3" Laptop
-        9.  See all Professional
+        8.  See all Professional
     3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
         1.  Y Series: Gaming Power Made Mobile
         2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
         3.  Z Series: Multimedia Made Affordable
         4.  Flex Series: Affordable, All-Purpose 2-in-1s
         5.  U Series: Elegantly Crafted Mobile PCs
-        6.  See all Entertainment &. Gaming
+        6.  LaVie: World's Lightest 13.3" Laptop
+        7.  See all Entertainment &. Gaming
     4.  Student Durable &. Functional for Any Grade
         1.  ThinkPad 11E: Rugged Student Laptops
         2.  G Series: Affordable Everyday Laptops
