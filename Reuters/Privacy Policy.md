@@ -155,7 +155,7 @@ Details on Practitioner Insights (PDF)
 *   Browse By Category
 *   Small Law Firms
 *   Large &. Midsize Law Firms
-*   Corporate
+*   Corporate Counsel
 *   Government
 
 *   Practice Area
