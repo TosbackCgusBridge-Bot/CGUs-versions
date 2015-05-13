@@ -426,7 +426,7 @@ Owners
 *   MySubaru
 *   Resource Center
 *   Benefits of Ownership
-*   Parts &. Service
+*   Service, Parts and Accessories
 *   Guaranteed Trade-In Program
 *   Vehicle Recalls
 
