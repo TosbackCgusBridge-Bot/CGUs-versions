@@ -60,6 +60,7 @@ My Bag (0) Wish List Search
 *   Returns
     *   Return Policy
     *   How to Return
+    *   International Return Policy
 *   Promotions
     *   Fox Ride Your Dream Giveaway Official Rules
     *   Buckle Card Double Points May 2015
