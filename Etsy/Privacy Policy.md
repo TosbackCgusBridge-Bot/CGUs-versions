@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
-*   Prohibited Items on Etsy
 *   Electronic Communications Policy
+*   Gift Cards Terms of Use - Canadian Dollars (CAD)
