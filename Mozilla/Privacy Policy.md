@@ -77,4 +77,4 @@ Portions of this content are ©1998–2015 by individual mozilla.org contributor
     *   Facebook (Firefox)
     *   YouTube (firefoxchannel)
 
-Other languages: বাংলা (বাংলাদেশ)বাংলা (ভারত)DeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)Русскийதமிழ் Go
+Other languages: عربيবাংলা (বাংলাদেশ)বাংলা (ভারত)DeutschΕλληνικάEnglishEspañol (de España)Françaisहिन्दीBahasa IndonesiaItaliano日本語МакедонскиPolskiPortuguês (do Brasil)Русскийதமிழ் Go
