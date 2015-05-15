@@ -95,7 +95,7 @@ If you are accessing a Turner Network Site from a mobile device or through a mob
 
 You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party platforms and social networking sites, such as Facebook, or other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins or applications, you may allow us to have access to certain personally identifiable information and Non-Personally Identifiable Information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, user files like photos and videos, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make, etc.) to deliver the content or as part of the operation of the Site. We may also obtain Non-Personally Identifiable Information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on through third-party platforms) from your interaction with our content.
 
-Through some social networking sites' privacy settings, you can control what information you share. For a description on how social networking sites handle your inforTurner's Participation in the Industry Self Regulatory Program for Interest Based Ads. Additional Choice Optionsmation, please refer to their privacy policies and terms of use.
+Through some social networking sites' privacy settings, you can control what information you share. For a description on how social networking sites handle your information, please refer to their privacy policies and terms of use.
 
 **How We Use the Information**
 
