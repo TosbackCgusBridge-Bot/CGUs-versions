@@ -54,6 +54,7 @@ Sencha
 *   Resources
 *   Blog
 *   Contact Us
+*   Sencha ▾
 
 Sencha Home / Sencha Licensing / Privacy PolicyPrivacy Policy
 
@@ -228,3 +229,7 @@ Get Sencha NewsBuy Online
 Privacy Policy | Terms of Use
 
 ⊖ Sign up for Sencha News
+
+Sencha
+
+Page
