@@ -6,7 +6,7 @@ Skip to main content Privacy &. Security
 *   Contact Us
 *   Help
 
-Search Bank of America
+Search Term
 
 *   Overview
 *   Privacy link and menu. Press enter to navigate to this link. Press control + space to open submenu. To move through submenu items press tab and then press up or down arrow. Privacy Overview Online Privacy Notice Consumer Privacy Notice Your Privacy Choices End of submenu
@@ -18,7 +18,7 @@ Bank of America Privacy &. Security Comprehensive protection. Confident banking.
 
 We're committed to keeping your personal and financial information protected and secure.
 
-**Privacy**Learn how we collect and use information. **Card security**Total Security Protection® on all cards. **Mobile security**Convenience and security **Email fraud**Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
+**Privacy** Learn how we collect and use information. **Card security** Total Security Protection® on all cards. **Mobile security** Convenience and security **Email fraud** Learn to recognize it in your inbox. Suspicious email? Here's how to recognize and report ›› Protect your PC McAfee Internet Security
 
 As an Online Banking customer, you're entitled to a free year of McAfee® Internet Security ››
 
@@ -306,8 +306,8 @@ Rev. 01/2015
 
 Manage your marketing and information-sharing privacy choices What's new
 
-*   Coming soon: More security tools and simpler sign-in.
-*   Learn more about security and sign-in
+*   More tools to help manage your security all in one place.
+*   Learn more about your Security Center
 
 Best overall —  
 for 9 straight years
