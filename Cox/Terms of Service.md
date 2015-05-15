@@ -296,9 +296,17 @@ Once you have enrolled in EasyPay, Cox is required to send you a written copy of
 
 It may take up to two billing cycles for your bank or credit card to begin automatic payments. When EasyPay is activated, you will see an EasyPay enrollment confirmation on your Cox bill. Until you see that confirmation, please continue to pay your bill as usual.
 
+  
+
 **PAPERLESS BILLING ENROLLMENT TERMS OF SERVICE**
 
 If you elect to receive your Cox bills electronically, you agree that you will receive subsequent Cox bills solely in electronic format and you will not receive a paper bill. You will receive a confirmation when your Electronic Bill request is processed. Once Electronic Billing is activated, you will receive a monthly email reminder that your Electronic Bill is ready for viewing. Regardless of whether you receive a confirmation or whether you receive email notification that your Electronic Bill is ready for viewing, you are still responsible for timely paying your Bill. You are responsible for ensuring that your email address used for Electronic Bill notification is current at all times. You have the right, at no charge, to return to a paper bill by visiting **Cox.com** and changing your preference to "Receive Paper Bill" or by contacting **Cox customer support**. Please allow one bill cycle for Bill delivery preferences to be updated. You may print a copy of your Electronic Bill using your computer's browser or save a copy of the Electronic Bill to your hard drive.
+
+  e911 Notification
+
+The Federal Communications Commission has asked phone service providers to share these important facts about E911:
+
+Enhanced 911 allows emergency personnel to locate you in the event of an emergency. They will not be able to locate you if you move your modem to a new location. Please contact Cox if you need to relocate your telephone modem. It can take up to 2 business days for your new address to be updated. - The telephone modem does not include a backup battery but can support one if you wish to have home telephone service during a power outage for access to Enhanced 911 and other calling. Please contact Cox at 855-324-7700 or visit a Cox store to obtain a compatible battery. If you purchase a battery, or receive a battery as an eligible Lifeline customer, you are responsible for installing, monitoring battery health and contacting Cox when it needs to be replaced. - Telephone service, including access to e911 service will not be available during a power outage if the telephone modem does not have a battery or if the modem is moved or inoperable.
 
   Price Lock Guarantee Agreement
 
