@@ -140,8 +140,10 @@ Please keep in mind that this Privacy Notice only applies to your use of your pr
 *   Opting Out
     *   Direct Mail
     *   Email
+    *   Online Targeted Advertising
     *   Preapproved Offers
     *   Telemarketing
+*   Request Experian Marketing Data Report
 *   Recent Updates
 *   Contact Us About Privacy
 
@@ -173,8 +175,10 @@ More Pages
 *   Opting Out
     *   Direct Mail
     *   Email
+    *   Online Targeted Advertising
     *   Preapproved Offers
     *   Telemarketing
+*   Request Experian Marketing Data Report
 *   Recent Updates
 *   Contact Us About Privacy
 
