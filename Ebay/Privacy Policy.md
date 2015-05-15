@@ -224,7 +224,7 @@ When you sign in to your account on our Services, we may give you the option to 
     
 *   Check out or add items to your cart
     
-*   Purchase an item with PayPal using Turbo Checkout (if enabled in your account)
+*   Purchase an item with PayPal using Faster Checkout (if enabled in your account)
     
 *   View the activity header
     
@@ -249,7 +249,7 @@ You can typically end your signed in session by either signing out and/or cleari
 
 **Withdraw consent**
 
-If you withdraw your consent for the use or disclosure of your personal information for purposes set out in this Privacy Notice you may not have access to our all our Services and we might not be able to provide you all of the Services and customer support offered to our users and authorized under this Privacy Notice and our User Agreement.
+If you withdraw your consent for the use or disclosure of your personal information for purposes set out in this Privacy Notice you may not have access to all our Services and we might not be able to provide you all of the Services and customer support offered to our users and authorized under this Privacy Notice and our User Agreement.
 
 Return to Summary
 
