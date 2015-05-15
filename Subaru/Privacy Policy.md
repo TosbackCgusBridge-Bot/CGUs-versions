@@ -60,23 +60,20 @@ according to KBB.com
 
 Impreza 2.0i Limited shown
 
-WRX $26,295 starting price 2015 WRX
+WRX $26,595 starting price 2016 WRX
 
 Starting at
 
-$26,295 MSRP
+$26,595 MSRP
 
 Up to
 
-28/21MPG Hwy/City
+27/20MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build Your Own
-
-Best Resale Value in its class  
-according to KBB.com
 
 WRX Premium shown
 
