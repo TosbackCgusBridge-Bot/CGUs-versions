@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  Joshua
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13480434991
+true true C13486822691
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue May 12 06:10:28 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p16.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Thu May 14 10:26:22 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,16 +47,38 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 days only  
-    30-50% off  
-    select home
-*   3 days only  
-    extra 20% off
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Online Only, Orders Over $100
+
+Or, Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+In Store and Online
+
+Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+Ends May 17. ONLINE CODE: BONUSSAV
+
+\*See exclusions and details. print coupon
+
+*   4 day sale!  
+    big bonus  
+    sale
+*   home sale  
+    30-50% off
     
     select styles
     
 *   baby sale  
-    15-25% off
+    15-50% off
     
     select styles
     
@@ -68,25 +90,29 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   3 Days Only
+*   Big Bonus Sale shop the sale shop the sale view store ad shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses$15 Bonus Cash
     
-    Online only. May 11 through 13. CODE: GETITALL
+    May 14 through 17. In store only. Earn a $15 Bonus Cash Coupon when you spend $50 or more in store. Redeemable May 18 through 30, 2015. Some restrictions and exclusions apply. See store associate for details
     
-    get details50% Off\* Select Original and Regular-Priced Items. shop luggage shop window40% Off\* Select Original and Regular-Priced Items. shop home decor shop furniture and mattresses shop bedding and bath30% Off\* Select Original and Regular-Priced Items. shop kitchen and dining shop vacuums and floorcare shop storage and organization \*See exclusions and details
-*   3 Days Only
+    Night and Day Doorbusters
     
-    Online only. May 11 through 13. CODE: GETITALL
-    
-    get detailsExtra 20% Off\* Select Original, Regular, Sale and Clearance-Priced Items. shop women's shop men's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop custom blinds and shades shop baby furniture shop baby bedding shop clearance \*See exclusions and details
-*   Baby Sale shop the sale15-25% Off Baby Furniture
-    
-    Select styles.
-    
-    shop now25-30% Off Baby Bedding
-    
-    Select styles.
+    Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
     
     shop now
+*   Home Sale 30-50% Off
+    
+    Select styles.
+    
+    shop the home sale shop the home style book shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggageIntroducing Eva Longoria Home shop Eva Longoria Home
+*   Baby Sale shop the sale40-50% Off Carter's
+    
+    Select styles.
+    
+    shop now15-30% Off Baby Bedding and Baby Furniture
+    
+    Select styles.
+    
+    shop now shop now
 *   Ready For Summer 40-50% Off Swim For The Family
     
     Select styles.
@@ -97,7 +123,7 @@ What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop women's shop jewelry shop kids' shop shoes shop men's shop home All You Need To Finish Your Look finish your look30-40% Off Handbags
+shop women's shop jewelry shop kids' shop shoes shop men's shop home May Is Gold Month™ 60% Off Gold Jewelry
 
 Select styles.
 
