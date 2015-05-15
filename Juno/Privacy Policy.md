@@ -186,7 +186,7 @@ JumpTap: https://opt.jumptap.com/optout/opt
   
   
   
-Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Advertisers | Affiliates | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
+Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Advertisers | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
 United Online Classmates | MyPoints | NetZero | Juno | MySite
 
 © 1995-2015 Juno Online Services, Inc. Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
