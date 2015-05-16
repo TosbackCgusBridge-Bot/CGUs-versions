@@ -75,7 +75,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-WRX Premium shown
+WRX with accessory fog lights shown
 
 Legacy $21,695 starting price 2015 Legacy
 
