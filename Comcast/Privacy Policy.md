@@ -314,7 +314,7 @@ If you believe that you have been aggrieved by any act of ours in violation of t
 Back to Top  
 **Will Comcast notify me if it changes this notice?**  
 
-As required by the Cable Act, we will provide you with a copy of this customer privacy notice at the time we enter into an agreement to provide any cable service or other service to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of this notice by going to http://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy.html.
+As required by the Cable Act, we will provide you with a copy of this customer privacy notice at the time we enter into an agreement to provide any cable service or other service to you, and annually afterwards, or as otherwise permitted by law. You can view the most current version of this notice by going to http://www.comcast.com/Corporate/Customers/Policies/CustomerPrivacy.html.
 
 We may modify this notice at any time. We will notify you of any material changes through written, electronic, or other means and as otherwise permitted by law. If you find the changes to this notice unacceptable, you have the right to cancel your service. If you continue to use the service following notice of the changes, we will deem that to be your acceptance of and consent to the changes in the revised privacy notice. This includes your consent for any personally identifiable information that we may collect and use starting on the effective date of the revised notice, as well as for any personally identifiable information that we have collected prior to the effective date of the revised notice. However, we will only deem your continued use of the service to be your acceptance of and consent to changes in the revised privacy notice for changes made after December 31, 2006.
 
@@ -324,7 +324,7 @@ Back to Top
 If you have any questions or suggestions regarding this privacy notice, or wish to contact us about your personal information, please reach us as follows:
 
 Phone:  1-800-XFINITY  
-Website: http://customer.xfinity.com/contact-us/  
+Website: http://customer.comcast.com/contact-us/  
 Mail:  Comcast Cable Communications, LLC  
 Attn: Law Department - Customer Privacy Notice  
 One Comcast Center  
