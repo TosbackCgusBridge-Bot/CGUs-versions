@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13488351596
+true true L13613708558
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Fri May 15 06:45:52 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sat May 16 06:19:03 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -69,8 +69,7 @@ Ends May 17. ONLINE CODE: BONUSSAV
 
 \*See exclusions and details. print coupon
 
-*   4 day sale!  
-    big bonus  
+*   big bonus  
     sale
 *   home sale  
     30-50% off
@@ -94,11 +93,6 @@ Ends May 17. ONLINE CODE: BONUSSAV
     
     May 14 through 17. In store only. Earn a $15 Bonus Cash Coupon when you spend $50 or more in store. Redeemable May 18 through 30, 2015. Some restrictions and exclusions apply. See store associate for details
     
-    Night and Day Doorbusters
-    
-    Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
-    
-    shop now
 *   Home Sale 30-50% Off
     
     Select styles.
