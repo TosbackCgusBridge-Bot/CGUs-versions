@@ -223,7 +223,7 @@ Wenn Sie sich in Ihrem eBay-Konto anmelden, bieten wir Ihnen die Möglichkeit an
     
 *   Einen Kauf abwickeln oder einen Artikel in den Warenkorb legen.
     
-*   Einen Artikel unter Verwendung der Turbo-Kaufabwicklung mit PayPal kaufen (wenn für Ihr eBay-Konto dafür zuvor aktiviert wurde).
+*   Einen Artikel unter Verwendung der schnelleren Kaufabwicklung mit PayPal kaufen (wenn für Ihr eBay-Konto aktiviert)
     
 *   Letzte Aktivitäten ansehen.
     
