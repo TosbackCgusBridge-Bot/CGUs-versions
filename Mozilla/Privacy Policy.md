@@ -61,7 +61,7 @@ Portions of this content are ©1998–2015 by individual mozilla.org contributor
 *   Contact Us
 *   Partner with Us
 *   Donate
-*   Firefox Affiliates
+*   Firefox Friends
 *   Contribute to this site
 
 *   Privacy
