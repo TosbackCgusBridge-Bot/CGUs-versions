@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13618305340
+true true 10.60.216.10 C13497693127
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sun May 17 11:27:10 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p26.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Mon May 18 09:31:40 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,15 +47,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   today only!  
-    vip event
-*   home sale  
-    30-50% off
-    
-    select styles
-    
-*   baby sale  
-    15-50% off
+*   2 days only  
+    30-50% off  
+    select home
+*   2 days only  
+    extra 20% off
     
     select styles
     
@@ -65,38 +61,56 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     select styles
     
+*   summer ready  
+    40-50% off  
+    kids' apparel
+    
+    select styles
+    
 
-*   VIP Event -- Exclusive Savings Fit Just For You!
+*   2 Days Only
     
-    Today Only! | In Store and Online | Code: VIPSALE
+    Online Only | May 18 - 19 | Code: GET2SHOP
     
-    Extra 25% Off\* with your JCPenney Credit Card.  
-    Or, Extra 20% Off\* with any other form of payment.
+    get details
     
-    Apparel, shoes, accessories, fine jewelry and home.
+    50% Off\*
     
-    Or an Extra 10% Off\* watches, salon products, portrait, optical, furniture, mattresses and custom blinds and shades.
+    shop bedding and bath shop luggage shop window
     
-    \*Coupon required. Some restrictions and exclusions apply. Extra 25% off subject to credit approval.
+    40% Off\*
     
-    get details print coupon shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses
-*   Home Sale
+    shop home decor
     
-    30 to 50% Off Home Collections
+    30% Off\*
     
-    Select styles.
+    shop kitchen and dining shop vacuums and floorcare shop storage and organization
     
-    shop the home sale   shop bedding and bath shop the home style book shop kitchen and dining shop luggage shop home decor shop furniture and mattresses shop window
-*   Baby Sale
+    Select orig and reg-priced items. \*Exclusions apply.
     
-    15 to 50% Off, select styles
+*   2 Days Only
     
-    shop the baby sale shop baby apparel shop baby furniture shop baby bedding shop baby gifts
+    Online Only | May 18 - 19 | Code: GET2SHOP
+    
+    get details
+    
+    extra 20% off\*  
+    select orig, reg, sale and clearance-priced items
+    
+    shop men shop women shop kids shop baby shop shoes shop accessories shop fine and fashion jewelry shop clearance
+    
+    \*Exclusions apply.
+    
 *   Make a Splash 30 to 50% Off Swim For The Family
     
     Select styles.
     
     shop swim for the family shop men's swim shop women's swim shop kids' swim shop baby swim        
+*   Hooray For Summer
+    
+    40 to 50% Off, select styles
+    
+    shop kids' arizona shop total girl
 
 What's New
 
