@@ -1,8 +1,8 @@
-RIDE YOUR DREAM FOX GIVEAWAY
+Feeling lucky?
 
-Enter Now
+Fox Ride Your Dream Giveaway
 
-Online Orders 800-607-9788
+Guest Services 800-607-9788
 
 *   US Store Locator
 *   Buckle Card Bill Pay
