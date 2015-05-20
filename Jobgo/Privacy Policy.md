@@ -21,6 +21,7 @@ Login or register Remember me Forgot your password?
 
 *   Home
 *   Jobs
+*   Talents
 *   Companies
 
   Privacy Policy
