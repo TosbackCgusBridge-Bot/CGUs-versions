@@ -2,9 +2,9 @@ Help Center >  Privacy Policy
 
 Privacy Policy
 
-Effective Date:  July 15, 2014  
+Effective Date:  May 19, 2015  
 
-This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by Recreational Equipment, Inc. ("REI") when you access or use our websites or other online or mobile services or applications ("Services"), sign up to become an REI member, shop in our stores, sign up for activities and events, or otherwise interact with us. We may supply different or additional notices of our information practices specific to certain programs or activities.
+This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by Recreational Equipment, Inc. and our subsidiaries and affiliates (collectively, "REI," "we" or "us") when you access or use our websites or other online or mobile services or applications ("Services"), sign up to become an REI member, shop in our stores, sign up for activities and events, or otherwise interact with us. We may supply different or additional notices of our information practices specific to certain programs or activities. We may also provide different notices of our information practices with respect to certain subsidiaries or affiliates, in which case this Policy will not apply.
 
 **Contents**
 
@@ -57,7 +57,7 @@ We are based in the United States and the information we collect is governed by 
 
 **Sharing of Information**
 
-We may share personal information about you outside of REI and its affiliates, including as follows:
+We may share personal information about you outside of REI, including as follows:
 
 *   with third parties who complete transactions or perform services on our behalf;
 *   we may make our postal mailing list and general shopping information available to selected companies we believe may offer products and services of interest to you;
