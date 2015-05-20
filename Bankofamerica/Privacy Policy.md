@@ -306,8 +306,8 @@ Rev. 01/2015
 
 Manage your marketing and information-sharing privacy choices What's new
 
-*   More tools to help manage your security all in one place.
-*   Learn more about your Security Center
+*   Coming soon: More security tools and simpler sign-in.
+*   Manage security options in your Security Center
 
 Best overall —  
 for 9 straight years
