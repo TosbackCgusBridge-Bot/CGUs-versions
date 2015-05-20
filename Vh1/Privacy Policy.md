@@ -17,6 +17,7 @@
     *   VH1 Soul
     *   Vh1 You Oughta Know
     *   Artists A-Z
+*   news
 *   shop
 
 *   follow **vh1**
