@@ -14,20 +14,20 @@ Opt-Out for Non-PII Collection for Network Services
   
 NADAguides.com uses third-party advertising companies and advertising networks such as Google to serve ads to the user on NADAguides.com's behalf when the user visits NADAguides.com's Web site. These companies may use information (not including the user's name, address, email address or telephone number) about the user's visits to this and other Web sites in order to provide advertisements about goods and services of interest to the user. For more information about this practice and information about not having this information used by these companies, please visit http://www.networkadvertising.org/optout\_nonppii.asp.  
   
-If you do not want your information to be used for marketing by NADAguides, do not provide the information, "opt in" or otherwise agree to such use, or "opt out," as appropriate.  
+If you do not want your information to be used for marketing by National Appraisal Guides, Inc., do not provide the information, "opt in" or otherwise agree to such use, or "opt out," as appropriate.  
   
 
 Security  
   
-NADAguides takes commercially reasonable steps to ensure information we gather on our website is stored in a secure manner. Any credit card information you may provide us is secured for transmission over the Internet using industry-standard Secure Sockets Layer (SSL) encryption. While we work hard to protect your privacy, no physical or electronic security system is impenetrable, or invulnerable to attack, including your own, and the ones used to transmit your data to us. We cannot and do not guarantee that our systems, or your information, will be secure.  
+National Appraisal Guides, Inc. takes commercially reasonable steps to ensure information we gather on our website is stored in a secure manner. Any credit card information you may provide us is secured for transmission over the Internet using industry-standard Secure Sockets Layer (SSL) encryption. While we work hard to protect your privacy, no physical or electronic security system is impenetrable, or invulnerable to attack, including your own, and the ones used to transmit your data to us. We cannot and do not guarantee that our systems, or your information, will be secure.  
   
-In the unlikely event that NADAguides, one of its business units or substantially all of its assets is acquired by another company, information on our visitors would be among the transferred assets.
+In the unlikely event that National Appraisal Guides, Inc., one of its business units or substantially all of its assets is acquired by another company, information on our visitors would be among the transferred assets.
 
   
 
 Changes to this privacy policy  
   
-NADAguides may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the bottom of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates.  
+National Appraisal Guides, Inc. may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the bottom of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates.  
   
 
 Privacy Policies  
@@ -59,19 +59,19 @@ Properly securing the information we collect online is a primary commitment. To 
 *   \- We employ external access safeguards to identify and prevent unauthorized tries of outsiders to hack into, or cause harm to, the information in our systems
 
   
-Tampering with NADAguides’ website is against the law. Depending on the offense, it is punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.  
+Tampering with National Appraisal Guides, Inc.’ website is against the law. Depending on the offense, it is punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.  
   
 
 Merger or Bankruptcy
 
   
-In the event of a merger with another company or NADAguides entering bankruptcy, this entire privacy policy will remain in force with regard to the customer’s proprietary information.  
+In the event of a merger with another company or National Appraisal Guides, Inc. entering bankruptcy, this entire privacy policy will remain in force with regard to the customer’s proprietary information.  
   
 
 Information Collection and Use
 
   
-NADAguides is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. NADAguides collects information from our users at several different points on our website.  
+National Appraisal Guides, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. National Appraisal Guides, Inc. collects information from our users at several different points on our website.  
   
 
 Legal Disclaimer
@@ -213,7 +213,7 @@ Customer Feedback (Contact Us) Policy
 
 Data Collection  
   
-At the bottom of every page on the NADAguides.com website, we offer a link to "Contact Us". This gives site visitors the opportunity to submit a question or comment to the NADAguides analysts and staff. To best serve these inquiries and comments, we ask that site visitors provide their name and email address. No personal information is shared with any third party. Visitor information is collected for the purpose of responding to customer inquiries only.  
+At the bottom of every page on the NADAguides.com website, we offer a link to "Contact Us". This gives site visitors the opportunity to submit a question or comment to the National Appraisal Guides, Inc. analysts and staff. To best serve these inquiries and comments, we ask that site visitors provide their name and email address. No personal information is shared with any third party. Visitor information is collected for the purpose of responding to customer inquiries only.  
   
 
  Return to Main Policy
