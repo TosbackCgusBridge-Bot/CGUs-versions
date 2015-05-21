@@ -1,6 +1,6 @@
 Terms and Conditions of Use
 
-AMC Entertainment Inc. and its affiliates (collectively, "AMC", "we", "us" or "our") have adopted the following terms and conditions of use (the "General Terms") in order for each visitor ("you") to enjoy a visit to www.amctheatres.com or the mobile version thereof (the "Site"), enjoy the use of our mobile application, or both (the Site and the mobile application will be collectively referred to as the "Service"), and to ensure you know what to expect from your visit to or use of the Service.
+AMC Entertainmenta Inc. and its affiliates (collectively, "AMC", "we", "us" or "our") have adopted the following terms and conditions of use (the "General Terms") in order for each visitor ("you") to enjoy a visit to www.amctheatres.com or the mobile version thereof (the "Site"), enjoy the use of our mobile application, or both (the Site and the mobile application will be collectively referred to as the "Service"), and to ensure you know what to expect from your visit to or use of the Service.
 
 Our Agreement. Acceptance of Terms
 
