@@ -1,3 +1,111 @@
+Menu
+
+*   Personal
+*   Business - Selected
+*   Commercial - Selected
+
+*   Personal - Selected
+    *   Personal Home
+    *   Credit Cards Expand Credit Cards Menu Find a Card
+        
+        *   Credit Cards Home
+        *   View Top Rewards Cards
+        *   Compare Credit Cards
+        *   See if You're Pre-qualified
+        *   Small Business Credit Cards
+        *   Find the Right Card
+        *   Respond to a Mail Offer
+        
+        Benefits And Services
+        *   View Cardholder Benefits
+        *   See Credit Card FAQ
+        *   Learn About Image Card
+        *   Redeem and Learn About Rewards
+        *   Pay Your Bill
+        *   Learn About Credit Tracker
+    *   Bank Expand Bank Menu Personal Banking
+        *   Bank Home
+        *   Checking Accounts
+        *   Savings Accounts
+        *   Online and Mobile Banking Tools
+    *   Borrow Expand Borrow Menu Mortgages &. Home Equity
+        
+        *   Borrow Home
+        *   Home Loans Overview
+        *   Mortgage Rates
+        *   Mortgage Calculators
+        *   Learn More About Mortgages
+        *   Home Equity Overview
+        *   Home Equity Loan
+        *   Home Equity Line of Credit
+        
+        Auto Financing
+        *   Auto Financing Home
+        *   New &. Used Auto Financing
+        *   Auto Loan Refinancing
+        *   Auto Loan Calculators
+        *   Auto Rates
+    *   Invest Expand Invest Menu With a Local Advisor
+        
+        *   Invest Home
+        *   Invest with a Financial Advisor
+        *   Wealth and Asset Management
+        
+        Discover Sharebuilder
+        *   Why Sharebuilder?
+        *   View Pricing
+        *   Plan Your Retirement
+        *   Sign in to Sharebuilder
+    *   Learn
+    *   Contact
+*   Business - Selected
+    *   Business Home
+    *   Bank Expand Bank Menu Banking Accounts
+        
+        *   Bank Home
+        *   Business Savings
+        
+        Financing &. Credit
+        *   Business Credit Cards
+    *   Borrow Expand Borrow Menu Financing &. Credit
+        *   Borrow
+        *   Business Credit Cards
+    *   Invest Expand Invest Menu Investing Accounts
+        
+        *   401(k) Plans
+        
+        Banking Accounts
+        *   Business Savings
+    *   Manage Expand Manage Menu Business Services
+        *   Merchant Services
+    *   Contact
+*   Commercial - Selected
+    *   Commercial Home
+    *   About
+    *   Industry Expertise Expand Industry Expertise Menu
+        
+        *   Commercial &. Industrial
+        *   Commercial Real Estate
+        *   Energy
+        
+        *   Healthcare
+        *   Technology
+        *   See All Industries
+    *   Solutions Expand Solutions Menu
+        
+        *   Solutions Home
+        *   Commercial Lending
+        *   Depository Services
+        *   Treasury Management
+        
+        *   Capital Markets
+        *   Private Banking &. Wealth Management
+    *   Insights
+    *   Contact
+*   Locations
+*   Contact
+*   Search
+
 Terms and Conditions
 
 *   Print
