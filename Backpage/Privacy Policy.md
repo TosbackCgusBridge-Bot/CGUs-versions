@@ -66,7 +66,7 @@ The East Stable Thrales End Farm
 Harpenden, United Kingdom, AL5 3NS  
   
 Payment Solutions BV.  
-Strawinskylaan 601, 1077XX,  
+Zuidplein 116 - 1077XV,  
 Amsterdam, Netherlands
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.  
