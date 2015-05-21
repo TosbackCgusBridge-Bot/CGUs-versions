@@ -246,8 +246,4 @@ Omaha, NE 68139
 
 PeopleSmart maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
 
-About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap Explore Home Join Sign In Manage Listing Directories Find People Court Records Criminal Records County Records Company About Blog Privacy Education Affiliates Support Help Sitemap Follow PeopleSmart
-
-PeopleSmart is designed to help you find and connect with others. Search by name, email, phone number, and address. PeopleSmart is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA). To learn more, please see our Terms of Use and Privacy Policy. Information offered by PeopleSmart is not to be used for assessing or evaluating a person's eligibility for employment, housing, insurance, credit, or for any other purpose covered under the FCRA. Visit GoodHire.com for all your employment screening needs.
-
-All rights reserved. © 2015 PeopleSmart
+About Manage Your Listing Affiliate Program Help Center Privacy Education How We Think About Privacy Terms of Use Privacy Policy Opt-Out Policy Payment Policy FCRA Regulations Contact Us Sitemap © 2015 PeopleSmart Home Join Terms Privacy Sitemap Help Sign In
