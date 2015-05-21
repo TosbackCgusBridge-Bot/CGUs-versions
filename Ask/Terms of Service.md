@@ -189,9 +189,13 @@ If you believe that your work has been used on Ask’s Site or in connection wit
 
 The contact information for Ask’s copyright agent for notice of claims of copyright infringement on the Site and/or in connection with the Services is:
 
-Mail: Ask.com Copyright Agent, Attn. Legal Dept, IAC Search &. Media, Inc., 555 12th  
+Mail:
+
+Ask.com Copyright Agent  
+IAC Search &. Media, Inc.  
+Attn: Legal Department  
+555 12th Street, Suite 500  
 Oakland, CA 94607  
-E-mail: copyrightclaim@ask.com  
 Telephone: 510-985-7918  
 Facsimile: 510-985-7410
 
