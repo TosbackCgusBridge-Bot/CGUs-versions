@@ -34,7 +34,7 @@ Connect with Us
 *   LinkedIn
 *   Google+
 
-Skip to content Skip to navigation menu Your browser is not supported by this site. Please update to the latest version, or use a different browser for the best experience. Legal Solutions
+Skip to content Skip to navigation menu **Your browser is not supported by this site.** Please update to the latest version, or use a different browser for the best experience. Learn more Legal Solutions
 
 Free Standard Shipping!
 
