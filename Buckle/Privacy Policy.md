@@ -1,6 +1,6 @@
-Feeling lucky?
+Military Guests, thank you for your service.
 
-Fox Ride Your Dream Giveaway
+10% Military Discount
 
 Guest Services 800-607-9788
 
