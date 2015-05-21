@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  james
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13620628965
+true true C13499278347
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p16.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue May 19 11:17:55 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Wed May 20 07:06:06 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,76 +47,76 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 days only  
-    30-50% off  
-    select home
-*   2 days only  
-    extra 20% off
+*   25 hour sale  
+    extra 25% off
+*   memorial day  
+    sale!
+*   home sale  
+    30-50% off
     
     select styles
     
-*   make a splash  
-    30-50% off  
-    family swim
-    
-    select styles
-    
-*   summer ready  
+*   go bright  
     40-50% off  
-    kids' apparel
+    A.N.A
     
     select styles
     
 
-*   2 Days Only
+*   Extra 25% Off\* 25 Hours Only
     
-    Online Only | May 18 - 19 | Code: GET2SHOP
+    Online only. Ends May 21 Midnight CDT. CODE: FOR25HRS
     
-    get details
+    Select original, regular, sale and clearance-priced items.
     
-    50% Off\*
+    Or Extra 15% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
     
-    shop bedding and bath shop luggage shop window
+    \*See exclusions and details.
+*   Memorial Day Sale
     
-    40% Off\*
+    Starts now.
     
-    shop home decor
-    
-    30% Off\*
-    
-    shop kitchen and dining shop vacuums and floorcare shop storage and organization
-    
-    Select orig and reg-priced items. \*Exclusions apply.
-    
-*   2 Days Only
-    
-    Online Only | May 18 - 19 | Code: GET2SHOP
-    
-    get details
-    
-    extra 20% off\*  
-    select orig, reg, sale and clearance-priced items
-    
-    shop men shop women shop kids shop baby shop shoes shop accessories shop fine and fashion jewelry shop clearance
-    
-    \*Exclusions apply.
-    
-*   Make a Splash 30 to 50% Off Swim For The Family
+    shop the sale view store ad30-50% Off Swim for the Family
     
     Select styles.
     
-    shop swim for the family shop men's swim shop women's swim shop kids' swim shop baby swim        
-*   Hooray For Summer
+    shop swim for the family shop men's swim shop women's swim shop kids' swim shop kids' swim shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses$10 Off $25 Bonus Cash!
     
-    40 to 50% Off, select styles
+    May 20 through 25. In store only. Earn a $10 Off $25 Bonus Cash Coupon when you spend $25 or more in store on men's and women's apparel or Sephora. Redeemable May 20 through 31, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
     
-    shop kids' arizona shop total girl
+    Thousands of Night and Day Doorbusters
+    
+    Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
+    
+    shop doorbusters
+*   Memorial Day Home Sale 30-50% Off shop the home sale40-50% Off Furniture and Mattresses
+    
+    Select styles.
+    
+    shop furniture and mattresses shop the home style book shop bedding and bath shop kitchen and dining shop luggage shop home decor shop window
+*   Cool and Bright $6.99 Select A.N.A Tanks
+    
+    Originally $14.
+    
+    shop a.n.a tanks40-50% Off A.N.A
+    
+    Select styles. A.N.A® a new approach, only at JCPenney.
+    
+    shop a.n.a
 
 What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop women's shop jewelry shop men's shop shoes shop kids' shop home Gifts For Dad Father's Day is June 21 shop all gifts shop gift cards JCP Rewards
+shop women's shop jewelry shop men's shop shoes shop kids' shop home Add A Little Summer Style All You Need To Finish Your Look shop now$29.99 Sandals For Her
+
+Select styles.
+
+shop sandals40% Off Sunglasses
+
+Select styles.
+
+shop sunglasses JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
