@@ -175,7 +175,7 @@ You ("You" or "Customer") understand and agree that Sections 1 through 26 of thi
 
 BBB Rating +
 
-Netflix + TiVo One of the most recommended Internet Service Providers PC Mag
+PC Mag
 
 Netflix now available on TiVo HD/DVR
 
