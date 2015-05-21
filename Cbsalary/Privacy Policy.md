@@ -11,7 +11,7 @@ Skip to Content
     *   Sign Out
 *   Employers
     *   Employers
-    *   Search Resume
+    *   Search Resumes
     *   Post Jobs
 
 *   Sign in
@@ -44,7 +44,7 @@ Find Jobs on CareerBuilder.com Skip to Content
     *   Sign Out
 *   Employers
     *   Employers
-    *   Search Resume
+    *   Search Resumes
     *   Post Jobs
 
 *   Sign in
