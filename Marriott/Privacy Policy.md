@@ -4,7 +4,7 @@ We have prepared this Statement to inform you of the privacy principles that gov
 
 Our Websites are available to visitors located throughout the world, and operated for different purposes. For instance, some may be specific to a hotel brand or property, and others may enable you to shop for travel-related products. Our Websites are generally operated from the United States in accordance with laws of the United States and visitors to our Websites should be aware that the laws of the United States may differ from those of your country of residence. Marriott International, Inc. and its Affiliates are certified to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks for the transfer of personal data to the United States, and such transfers are subject to our European Union and Switzerland Privacy Statement. Where we operate country-specific Websites, those Websites are operated in accordance with the laws of that specific country.
 
-This Statement was last updated on **February 13, 2014**, to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
+This Statement was last updated on **May 21, 2015**, to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
 
 Accordion
 
@@ -90,6 +90,12 @@ Drawers
         *   Assess your entitlement to benefits;
         *   Administer points earned through the Marriott Rewards Credit Card;
         *   Manage your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs). Where you elect to earn points via participating partners, certain transaction information will be transmitted to these companies to accurately record your point and transaction activity
+*   Social Media
+    
+    An App may permit you to log in from, or connect with, social media services to which you belong so that it is easy for you to share your experiences and to see the experiences of others. If you sign up for Marriott Rewards on www.marriott.com using your social media account, link your Marriott Rewards account to your social media account, or use certain other www.marriott.com social media features, we may access information about you via that social media provider in accordance with the provider's policies.
+    
+    The information collected from or about you by social media networks with which you connect the App is governed by the policies of those social media networks. Depending on the privacy settings of you and your friends, we may access information that you provide to a social media provider regarding your respective locations ("Location Data") to provide you with relevant content.
+    
 *   Click to Chat
     
     We use third party software to proactively initiate or offer online chat if we believe you would benefit from assistance. All information you enter via online chat may be associated to your email address and will be stored in our systems with any other information you provide and any transaction details.
@@ -160,7 +166,7 @@ Drawers
     *   http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html
     
     Do Not Track Signals:   
-    Some web browsers offer a "Do Not Track" ("DNT") signal that is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. We currently do not recognize DNT signals. however, as stated above, we do allow you to exercise some choice in the information collected by adjusting your browser’s cookie settings. As stated above, we also work with third parties that use tracking technologies on our Web sites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications. If you wish for more information about this practice and to understand your options, please visit http://www.aboutads.info.
+    Some web browsers offer a "Do Not Track" ("DNT") signal that is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. We currently do not recognize DNT signals. however, as stated above, we do allow you to exercise some choice in the information collected by adjusting your browser’s cookie settings. As stated above, we also work with third parties that use tracking technologies on our Web sites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications. If you wish for more information about this practice and to understand your options, please visit http://www.aboutads.info .
     
 *   Beacons
     
