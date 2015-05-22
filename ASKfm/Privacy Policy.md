@@ -1,6 +1,6 @@
 Ask Jeeves Privacy Policy Back to About Home
 
-_Last updated: 2 October, 2014_
+_Last updated: 1 June, 2015_
 
   
 
@@ -106,13 +106,13 @@ Children under 13
 
 The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. You hereby represent that you are at least 13.
 
-Do we send your personal information outside Europe?
+Notice and Consent to Transfer of Information
 
-Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated group companies or third party service providers are located or maintain facilities. While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy.
+Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated group companies or third party service providers are located or maintain facilities, including but not limited to the United States and Ireland. While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy. By using our Services, you consent to the transfer of your personal data as described in this Privacy Policy.
 
-Our immediate parent company IAC Search and Media, Inc., doing business as Ask.com, complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ask has certified that it adheres to the Safe Harbor Privacy Principles with respect to personal information transferred to it in the U.S from the following EU/EEA websites: http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, http://int.ask.com
+Our immediate parent company, IAC Search and Media, Inc.( “Ask US"),complies with the U.S.-EU Safe Harbour Framework and the U.S.-Swiss Safe Harbour Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Ask US has certified that it adheres to the Safe Harbor Privacy Principles with respect to personal information transferred to it in the U.S from EU/EEA websites.
 
-To learn more about the Safe Harbor program, and to view Ask's certification, please visit http://www.export.gov/safeharbor/.
+To learn more about the Safe Harbor program, and to view Ask's certification, please visit http://www.export.gov/safeharbor/
 
 How to edit, delete or access your personal information
 
@@ -120,19 +120,19 @@ You have the right to ask for a copy of any personal information that we hold ab
 
 Please note that in some countries we may be permitted to charge a fee specified by law for providing you with copies of personal information we may hold about you.
 
-Requests to Remove Search Results Pursuant to European Court of Justice Ruling (New)
+Requests to Remove Search Results Pursuant to European Court of Justice Ruling
 
-Following a recent ruling by the Court of Justice of the European Union (ECJ), users of our web search and reference services operated by IAC Search and Media Europe Ltd, specifically the sub-domains http://uk.ask.com, http://de.ask.com, http://es.ask.com, http://fr.ask.com, http://it.ask.com, http://nl.ask.com, http://se.ask.com, http://no.ask.com, http://at.ask.com, http://pl.ask.com, http://dk.ask.com, and http://pt.ask.com, may request that certain results do not appear on the sub-domains specified above following a web search for the user’s name.
+Following a recent ruling by the Court of Justice of the European Union (ECJ), users of our web search and reference services operated by Ask who are EU residents may request that certain results do not appear following a web search for the user’s name.
 
 If you would like to request the removal of a search result generated using your name as the search term, please send your request in writing to the address below. To assist us in processing your request in timely manner, please make your request in English if you are able to do so. Your request should include any information relevant to your request, including, without limitation: (i) your name, email and postal address. (ii) the URL (i.e., “web address”) for each link that you are requesting to be removed. (iii) a brief explanation of why you believe such results should be removed. and (iv) an explanation as to why the contents of the link you wish to have removed relate to you.
 
 To help us prevent fraudulent removal requests, please also include a legible copy of a document that verifies your identity. You need not provide a government-issued document. a utility bill or similar mailing will suffice. You may also obscure parts of the document such as identifying numbers so long as the document continues to clearly identify you. If you are requesting the removal of search results that contain photographs of you, please ensure that the identifying document includes your photograph. If you are making the request on behalf of another person, please indicate your relationship to that person and provide evidence of your authority to make such request. All requests for removal will be reviewed by Ask.com’s legal and compliance team and we reserve the right, in compliance with applicable laws, to accept or reject, or make further inquiries regarding, any requests.
 
-Contact us If you have any question about our privacy practices for Ask Jeeves (whose personal data is controlled by IAC Search and Media Europe Limited) or the Search Application Services provided by APN, LLC and Mindspark Interactive Network, Inc (whose personal data is controlled by those respective entities), or if you would like to review or update the personal information we have collected about you, you can contact us via e-mail by clicking here or writing to our Privacy Officer at:
+Contact us If you have any question about our privacy practices for Ask (whose personal data is controlled by IAC Search and Media Europe Limited) or the Search Application Services provided by APN, LLC and Mindspark Interactive Network, Inc (whose personal data is controlled by those respective entities), or if you would like to review or update the personal information we have collected about you, you can contact us via e-mail by clicking here or writing to our Privacy Officer at:
 
-Ask Europe  
+Ask  
 Attn: Privacy Officer  
 Unit 1, College Business &. Technology Park, Blanchardstown North Road,  
 Dublin 15, Ireland  
 
-About - Privacy - Popular Questions - About P.G Wodehouse ©2015 IAC Search &. Media
+About - Privacy - Popular Questions - About P.G Wodehouse ©2014 IAC Search &. Media
