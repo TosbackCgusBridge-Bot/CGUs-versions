@@ -1,6 +1,12 @@
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY  
   
 Effective Date: June 28, 2013  
+
+Previous Privacy and Cookie Policy: Effective Date: July 31, 2012
+
+  
+  
+  
 By registering for an Origin Account (formerly known as an EA Account) ( **_"Account"_** ), using this site and/or any of EA's online or mobile products and services, you agree to EA's Privacy Policy and that we may transfer and store your information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms of Service.  
   
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.  
