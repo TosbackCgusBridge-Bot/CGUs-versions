@@ -138,8 +138,8 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
 A voir également
 
 *   Conditions générales
-*   Conditions utilisation htc
-*   Qu'est-ce que les conditions d'utilisation
+*   Les présentes conditions générales
+*   Conditon general
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
