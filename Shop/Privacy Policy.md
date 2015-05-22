@@ -42,10 +42,9 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
         10.  Gaming PCs
         11.  View All Laptops
         12.  Bags &. Carrying Cases
-        13.  Battery Finder
-        14.  PC Finder
+        13.  PC Finder
         
-        16.  See all Not sure what you need?
+        15.  See all Not sure what you need?
     6.  See all Laptops
     
 2.  Tablets
