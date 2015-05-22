@@ -27,7 +27,6 @@ X Lire les CGUEn poursuivant votre navigation sur ce site, vous acceptez que nou
     *   Découvrez les autres modes de recherche
         *   Recherche détaillée
         *   Recherche par le nom France Entière
-        *   Recherche de pros avec vidéos
     
     *   Professionnels
         *   Référencez-vous gratuitement  
