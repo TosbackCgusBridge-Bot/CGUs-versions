@@ -44,6 +44,7 @@ back to top
 
 *   Acceptable Use Policy
 *   Privacy Policy
+    *   Safe Habor Privacy Notice
 *   Copyright Notices
 *   Website User Agreement
 *   Payment Agreement
