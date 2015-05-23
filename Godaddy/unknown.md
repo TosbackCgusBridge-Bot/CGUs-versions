@@ -1,4 +1,4 @@
-**Last Revised: June 19, 2014**
+**Last Revised: May 22, 2015**
 
 Please read this Domain Name Proxy Agreement ("Agreement") carefully. By using the Services and/or website of Domains By Proxy, LLC, a Delaware limited liability company ("DBP"), You (as defined below) agree to all the terms and conditions set forth both herein and in the DBP privacy policy, which is incorporated by reference and can be found by clicking here.  You acknowledge that DBP may amend this Agreement at any time upon posting the amended terms on its website, and that any new, different or additional features changing the services provided by DBP will automatically be subject to this Agreement. If You do not agree to be bound by, or if You object to, the terms and conditions of this Agreement and any amendments hereto, do not use or access DBP's services. Continued use of DBP's services and its website after any such changes to this Agreement have been posted, constitutes Your acceptance of those changes.
 
@@ -73,7 +73,7 @@ You agree You are entirely responsible for maintaining the confidentiality of Yo
  You understand and agree that DBP has the absolute right and power, in its sole discretion and without any liability to You whatsoever, to:
 
 1.  Cancel the privacy service (which means that Your information will be available in the "Whois" directory) and/or reveal Your name and personal information that You provided to DBP when:    
-    A. Required by law, in the good faith belief that such action is necessary in order to conform to the edicts of the law.  
+    A. Required by law, in the good faith belief that such action is necessary in order to conform to the edicts of the law or in the interest of public safety.  
     B. To comply with a legal process served upon DBP. or  
     C. In order to comply with ICANN rules, policies or procedures
 2.  Resolve any and all third party claims, whether threatened or made, arising out of Your use of a domain name for which DBP is the registrant listed in the "Whois" directory on Your behalf. or
