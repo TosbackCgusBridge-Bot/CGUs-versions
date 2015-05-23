@@ -1,10 +1,6 @@
 Go to Whitepages.com  
 Go to Whitepages Help Center  
-Customer Support
-
-*   California Public Officials
-
-Go Back  
+Customer Support Go Back  
   
 Data Policy
 
@@ -82,6 +78,4 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
   
 
-*   Are you a public official residing in California? Click here to remove your personal information from Whitepages
-
-Copyright © Whitepages Customer Support
+Copyright ©
