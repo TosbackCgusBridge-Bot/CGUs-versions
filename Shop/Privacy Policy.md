@@ -248,7 +248,8 @@ Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 
     4.  Resources
         1.  Upgrade Your Warranty Check Warranty Status &. Upgrades
         2.  4 Hour Response Coverage Activate your 4 Hour Onsite Response Service
-        3.  See all Resources
+        3.  International Warranty Coverage Look up International Warranty coverage availability
+        4.  See all Resources
     5.  See all Services &. Warranty
     6.  *   1 PC? or 1,000? We're here to help: 24/7/365
             
