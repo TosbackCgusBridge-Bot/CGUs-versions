@@ -165,7 +165,7 @@ Sign in Welcome Back!
 Restore your account to continue  
 meeting new people.
 
-Restore Account Reset your password
+Restore Account Yes! I would like to re-enable my current A-List subscription! Reset your password
 
 We’ll email you a link to reset it.
 
