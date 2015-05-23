@@ -66,7 +66,6 @@ Shop Core Packages
 *   Latino Packages
 *   International Packages
 *   Channels by Package
-*   Internet Bundles
 
 Shop Add–on Channels
 
