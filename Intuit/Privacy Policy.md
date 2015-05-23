@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13506231798
+true true C13508691232
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Thu May 21 03:20:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p27.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Fri May 22 10:59:01 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,12 +47,47 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   25 hour sale  
-    extra 25% off
-*   memorial day  
-    sale!
+In Store and Online
+
+Ends May 25. Code: STARS
+
+$10 Off\* $25 or more
+
+In Store and Online
+
+Ends May 25. Code: STRIPES
+
+Or, Extra 20% Off\* with your JCPenney Credit Card.
+
+Online Only
+
+Ends May 25. Code: STRIPES
+
+Or, Extra 15% Off\* with any other method of payment.
+
+In Store and Online
+
+Ends May 25. Code: STRIPES
+
+Or,Extra 10% Off\* select watches, salon products.
+
+Or,Extra 15% Off\* select furniture, mattresses and custom blinds and shades.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+\*See exclusions and details. print coupon
+
+*   starts now!  
+    memorial day  
+    sale
 *   home sale  
     30-50% off
+    
+    select styles
+    
+*   summer ready  
+    40-50% off  
+    kids' apparel
     
     select styles
     
@@ -63,15 +98,6 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Extra 25% Off\* 25 Hours Only
-    
-    Online only. Ends May 21 Midnight CDT. CODE: FOR25HRS
-    
-    Select original, regular, sale and clearance-priced items.
-    
-    Or Extra 15% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
-    
-    \*See exclusions and details.
 *   Memorial Day Sale
     
     Starts now.
@@ -80,7 +106,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Select styles.
     
-    shop swim for the family shop men's swim shop women's swim shop kids' swim shop kids' swim shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses$10 Off $25 Bonus Cash!
+    shop swim for the family shop men's swim shop women's swim shop kids' swim shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses$10 Off $25 Bonus Cash!
     
     May 20 through 25. In store only. Earn a $10 Off $25 Bonus Cash Coupon when you spend $25 or more in store on men's and women's apparel or Sephora. Redeemable May 20 through 31, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
     
@@ -94,6 +120,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
     Select styles.
     
     shop furniture and mattresses shop the home style book shop bedding and bath shop kitchen and dining shop luggage shop home decor shop window
+*   Hooray For Summer
+    
+    40 to 50% Off, select styles
+    
+    shop kids' arizona shop total girl
 *   Cool and Bright $6.99 Select A.N.A Tanks
     
     Originally $14.
