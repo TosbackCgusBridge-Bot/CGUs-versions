@@ -3,12 +3,12 @@ Search JobCompany English
 *   Suomi
 *   Français
 
-Login
+Sign In
 
 *   Create profile
 *   Sign In
 
-Introducing JobGo \*Display name \*First name \*Last name \*E-mail \*Password Min. 8 characters \*Password again \*Gender MaleFemale Location
+\*Display name \*First name \*Last name \*E-mail \*Password Min. 8 characters \*Password again \*Gender MaleFemale Location
 
 \* Required information.
 
@@ -17,7 +17,7 @@ Introducing JobGo \*Display name \*First name \*Last name \*E-mail \*Password Mi
 By clicking Register, you are indicating that you have read, understood,  
 and agree to JobGo's Terms of Use and Privacy policy.
 
-Login or register Remember me Forgot your password?
+Sign in or register Remember me Forgot your password?
 
 *   Home
 *   Jobs
