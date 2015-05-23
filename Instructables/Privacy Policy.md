@@ -27,7 +27,8 @@ Change country/language X
         *   All AutoCAD
     *   3ds Max
     *   Building Design Suite
-    *   AutoCAD Civil 3D
+    *   Civil 3D
+    *   Fusion 360
     *   Inventor
     *   Maya
     *   Navisworks
@@ -71,7 +72,7 @@ Change country/language X
     *   All communities
     *   Services
     *   Consulting
-    *   Partner products &. services
+    *   Partner apps
 *   Downloads
     *   Free product trials
     *   Free student software
