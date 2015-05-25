@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13509191859
+true true L13636420864
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p36.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Sat May 23 08:01:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sun May 24 11:02:38 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,53 +47,23 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
-
-Ends May 25. Code: STARS
-
-$10 Off\* $25 or more
-
-In Store and Online
-
-Ends May 25. Code: STRIPES
-
-Or, Extra 20% Off\* with your JCPenney Credit Card.
-
-Online Only
-
-Ends May 25. Code: STRIPES
-
-Or, Extra 15% Off\* with any other method of payment.
-
-In Store and Online
-
-Ends May 25. Code: STRIPES
-
-Or,Extra 10% Off\* select watches, salon products.
-
-Or,Extra 15% Off\* select furniture, mattresses and custom blinds and shades.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-\*See exclusions and details. print coupon
-
-*   starts now!  
-    memorial day  
-    sale
-*   home sale  
+*   memorial day  
+    sale!
+*   memorial day  
+    home sale  
     30-50% off
     
     select styles
     
-*   summer ready  
-    40-50% off  
-    kids' apparel
+*   cool summer  
+    styles  
+    40-50% off
     
-    select styles
+    select A.N.A
     
-*   go bright  
-    40-50% off  
-    A.N.A
+*   swim into  
+    summer  
+    up to 50% off
     
     select styles
     
@@ -102,52 +72,51 @@ Or,Extra 15% Off\* select furniture, mattresses and custom blinds and shades.
     
     Starts now.
     
-    shop the sale view store ad30-50% Off Swim for the Family
+    shop the sale view store adBig Buy $4.99 Juniors' Arizona Tops
+    
+    Originally $18.
+    
+    shop arizona tops shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop bedding shop furniture shop window shop kitchen and dining shop home decor$10 Off $25 Bonus Cash!
+    
+    Ends May 25. In store only. Earn a $10 Off $25 Bonus Cash Coupon when you spend $25 or more in store on men's and women's apparel or Sephora. Redeemable May 20 through 31, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
+    
+*   Memorial Day Home Sale 30-50% Off
     
     Select styles.
     
-    shop swim for the family shop men's swim shop women's swim shop kids' swim shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses$10 Off $25 Bonus Cash!
-    
-    May 20 through 25. In store only. Earn a $10 Off $25 Bonus Cash Coupon when you spend $25 or more in store on men's and women's apparel or Sephora. Redeemable May 20 through 31, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
-    
-    Thousands of Night and Day Doorbusters
-    
-    Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
-    
-    shop doorbusters
-*   Memorial Day Home Sale 30-50% Off shop the home sale40-50% Off Furniture and Mattresses
+    shop the home sale40-60% Off Furniture and Mattresses
     
     Select styles.
     
-    shop furniture and mattresses shop the home style book shop bedding and bath shop kitchen and dining shop luggage shop home decor shop window
-*   Hooray For Summer
+    shop furniture and mattresses shop bedding and bath shop window shop kitchen and dining shop home decor shop luggage
+*   Trending Tropical
     
-    40 to 50% Off, select styles
+    $21.99 A.N.A sash soft shorts
     
-    shop kids' arizona shop total girl
-*   Cool and Bright $6.99 Select A.N.A Tanks
+    Originally $38.
     
-    Originally $14.
-    
-    shop a.n.a tanks40-50% Off A.N.A
+    shop a.n.a sash soft shorts shop a.n.a shorts shop a.n.a tees and tanks40-50% Off A.N.A Apparel
     
     Select styles. A.N.A® a new approach, only at JCPenney.
     
-    shop a.n.a
+    Breezy style: Hot looks that keep you cool all summer long.
+    
+    shop a.n.a  
+*   Time To Swim Up to 50% Off Swim For The Family
+    
+    Select styles.
+    
+    shop women's swim shop men's swim shop kids' swim shop swim shop women's swim shop men's swim shop kids' swim shop baby swim
 
 What's New
 
 Refresh your closet for spring! See what's trending now.
 
-shop women's shop jewelry shop men's shop shoes shop kids' shop home Add A Little Summer Style All You Need To Finish Your Look shop now$29.99 Sandals For Her
+shop women's shop shoes shop kids' shop handbags shop men's shop home Gifts for Dad
 
-Select styles.
+Father's Day is June 21.
 
-shop sandals40% Off Sunglasses
-
-Select styles.
-
-shop sunglasses JCP Rewards
+shop all gifts shop gift cards Introducing Our New Home Spring/Summer Style Book explore now JCP Rewards
 
 Shop to earn $10 JCP Rewards.
 
