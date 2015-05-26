@@ -522,6 +522,7 @@ Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - 
     *   Where to Buy
     *   Product Registration
     *   Product Accessibility
+    *   Environmental Information
     *   Training
     *   Blogs
     *   Forums
