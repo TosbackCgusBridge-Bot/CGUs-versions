@@ -5,7 +5,7 @@ you are looking for, please
 
 Privacy Policy
 
-Privacy Policy Last updated on: December 2, 2014
+Privacy Policy Last updated on: May 25, 2015
 
   
   
@@ -124,40 +124,40 @@ You can update or correct your name, address, telephone number or email address 
 Brand Edit Information Online Postal Address Customer Service Number Fax Number Bargain Catalog Outlet Please visit  
 My Account on  
 www.bcoutlet.com BCO  
-PO Box 8320 Indianapolis, IN 46283-8320 (888) 289-2815  
+PO Box 12901 El Paso, TX 79913 (888) 289-2815  
   
 TDD Hearing Impaired:  
 (888) 355-3096 (888) 355-3098 BrylaneHome Please visit  
 My Account on  
 www.brylanehome.com BrylaneHome  
-PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0339  
+PO Box 12901 El Paso, TX 79913 (800) 677-0339  
   
 TDD Hearing Impaired:  
 (800) 528-5149 (800) 528-5152 Jessica London Please visit  
 My Account on  
-www.jessicalondon.com Jessica London PO Box 8320 Indianapolis, IN 46283-8320 (800) 441-1362  
+www.jessicalondon.com Jessica London PO Box 12901 El Paso, TX 79913 (800) 441-1362  
   
 TDD Hearing Impaired:  
 (800) 978-8798 (800) 448-5767 KingSize Please visit  
 My Account on  
 www.kingsizedirect.com KingSize  
-PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0249  
+PO Box 12901 El Paso, TX 79913 (800) 677-0249  
   
 TDD Hearing Impaired:  
 (800) 682-8095 (800) 682-8109 fullbeauty Please visit  
 My Account on  
 www.fullbeauty.com fullbeauty  
-PO Box 8320 Indianapolis, IN 46283-8320 (800) 400-5527  
+PO Box 12901 El Paso, TX 79913 (800) 400-5527  
 TDD Hearing Impaired:  
 (800) 456-7161  
 (800) 456-9838 Roaman’s Please visit  
 My Account on  
 www.roamans.com Roaman’s  
-PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0229  
+PO Box 12901 El Paso, TX 79913 (800) 677-0229  
   
 TDD Hearing Impaired:  
 (800) 274-0260 (800) 274-3102 Woman Within Please visit the My Account section on www.womanwithin.com Woman Within,  
-PO Box 8320 Indianapolis, IN 46283-8320 (800) 677-0216  
+PO Box 12901 El Paso, TX 79913 (800) 677-0216  
   
 TDD Hearing Impaired:  
 (800) 456-7161 (800) 456-9838   How Can I Opt Out of Receiving Further Communications?  
