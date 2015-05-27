@@ -8,7 +8,7 @@ Sign In
 *   Create profile
 *   Sign In
 
-\*Display name \*First name \*Last name \*E-mail \*Password Min. 8 characters \*Password again \*Gender MaleFemale Location
+\*E-mail \*Password Min. 8 characters \*Password again
 
 \* Required information.
 
