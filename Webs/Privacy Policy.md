@@ -562,8 +562,7 @@ Create a free website Google Plus Facebook Twitter
 *   Affiliates
 
 With a powerful free website builder and professional website templates, Webs can help you easily create the website you’ve always wanted to promote your small business, sell something online, or simply showcase your creativity.  
-Ready to get started? Get helpful tips for small business websites and more in our resource center.  
-Want a professional website that matches your print materials? Vistaprint's powerful website builder features designs that are coordinated with everything Vistaprint offers to market your business.
+Ready to get started? Get helpful tips for small business websites and more in our resource center.
 
 ©2015 Webs. A Vistaprint company. All Rights Reserved.
 
