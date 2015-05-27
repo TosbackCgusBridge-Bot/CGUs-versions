@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13639082746
+true true C13516004151
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p35.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Mon May 25 11:23:23 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p31.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Tue May 26 06:47:52 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,10 +47,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   memorial day  
-    sale!
-*   memorial day  
-    home sale  
+*   extra 25% off  
+    or 20% off  
+    +free shipping  
+    over $49
+*   home sale  
     30-50% off
     
     select styles
@@ -68,21 +69,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Memorial Day Sale
+*   48 Hour Event -- Ends 5/27
     
-    Starts now.
+    Online Only | Two Days Only! | Code: CUPCAKE
     
-    shop the sale view store adBig Buy $4.99 Juniors' Arizona Tops
+    Extra 20% Off\* up to $150  
+    OR Extra 25% Off\* $150 or more  
+    OR Extra 15% Off\* select watches, salon products, furniture, mattresses and custom blinds &. shades.  
+    \+ Free Shipping Over $49\*
     
-    Originally $18.
+    get details
+*   Home Sale
     
-    shop arizona tops shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop bedding shop furniture shop window shop kitchen and dining shop home decor$10 Off $25 Bonus Cash!
-    
-    Ends May 25. In store only. Earn a $10 Off $25 Bonus Cash Coupon when you spend $25 or more in store on men's and women's apparel or Sephora. Redeemable May 20 through 31, 2015 on shoes, women's accessories and jewelry. Some restrictions and exclusions apply. See store associate for details.
-    
-*   Memorial Day Home Sale 30-50% Off
-    
-    Select styles.
+    30-50% Off select styles.
     
     shop the home sale40-60% Off Furniture and Mattresses
     
