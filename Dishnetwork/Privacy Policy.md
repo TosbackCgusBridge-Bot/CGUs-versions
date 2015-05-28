@@ -31,7 +31,6 @@ Shop Internet &. Phone
 
 *   Internet Bundles
 *   Complete Bundles
-*   Phone Bundles
 
 Hopper® Whole-Home  
 HD DVR  
@@ -81,7 +80,6 @@ Shop Internet &. Phone
 
 *   Internet Bundles
 *   Complete Bundles
-*   Phone Bundles
 
 Why pay more for DIRECTV? Call and ask to takeThe DISH Challenge!
 
