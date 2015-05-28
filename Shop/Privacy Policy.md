@@ -1,340 +1,79 @@
-Lenovo Lenovo recommends Windows. Search CallSales 1-855-253-6686Call CallSales 1-855-253-6686 See Products>. Cart Menu <Products
+LENOVO Menu
 
-1.  Laptops
-    1.  See all Laptops
-    2.  Professional Productivity — Home or On-the-Go
-        1.  ThinkPad X: Ultraportable Productivity Tools
-        2.  ThinkPad T: Legendary Professional Laptops
-        3.  ThinkPad W: Workstation Power Made Mobile
-        4.  ThinkPad Yoga: 2-in-1 Business-Ready Laptops
-        5.  ThinkPad E: Stylish &. Affordable Productivity
-        6.  ThinkPad L: Affordable, All-Purpose Productivity
-        7.  ThinkPad Helix: Detachable Business Ultrabooks
-        8.  See all Professional
-    3.  Entertainment &. Gaming Casual, Social or Extreme Multimedia
-        1.  Y Series: Gaming Power Made Mobile
-        2.  Yoga Series: 2-in-1 Ultra-Sleek Laptops
-        3.  Z Series: Multimedia Made Affordable
-        4.  Flex Series: Affordable, All-Purpose 2-in-1s
-        5.  U Series: Elegantly Crafted Mobile PCs
-        6.  LaVie: World's Lightest 13.3" Laptop
-        7.  See all Entertainment &. Gaming
-    4.  Student Durable &. Functional for Any Grade
-        1.  ThinkPad 11E: Rugged Student Laptops
-        2.  G Series: Affordable Everyday Laptops
-        3.  S Series: Sleek &. Compact Ultraportables
-        4.  ThinkPad E: Stylish &. Affordable Productivity
-        5.  ThinkPad Yoga: 2-in-1 Business-Ready Laptops
-        6.  ThinkPad L: Affordable, All-Purpose Productivity
-        7.  N Series: Fast-Boot Chromebooks
-        8.  B Series: Small-Business Laptops
-        9.  See all Student
-    5.  Not sure what you need?
+*   Products
+    *   Laptops
+    *   Tablets
+    *   Desktops &. All-in-Ones
+    *   Workstations
+    *   Systems, Servers &. Storage
+    *   Accessories &. Software
+    *   Services &. Warranty
+*   Deals
+    *   Current Offers
         1.  Home Laptops Sale
         2.  Professional Laptops Sale
-        3.  Lenovo Gift Guide
-        4.  Lenovo Coupon Codes
-        5.  New Product Showcase
-        6.  Best Selling &. Top Rated Laptops
-        7.  Convertibles
-        8.  Discover Lenovo LaVie
-        9.  Discover Yoga
-        10.  Gaming PCs
-        11.  View All Laptops
-        12.  Bags &. Carrying Cases
-        13.  PC Finder
-        
-        15.  See all Not sure what you need?
-    6.  See all Laptops
-    
-2.  Tablets
-    1.  See all Tablets
-    2.  Android Tablets Customizable, Easy to Use
-        1.  Lenovo Yoga Tablet 2 8: 8" Revolutionary Multimode Tablet
-        2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
-        3.  Lenovo Yoga Tablet 2 Pro: 13" Multimode Tablet with Projector
-        4.  Lenovo A7: 7" Wideview Android Tablet
-        5.  Lenovo A8: 8" Wideview Android Tablet
-        6.  Lenovo A10: 10" Wideview Android Tablet
-        7.  Lenovo TAB 2 A7-10: 7" Wideview Android Tablet
-        8.  Lenovo TAB 2 A7-30: 7" Wideview Android Tablet
-        9.  Lenovo TAB 2 A10: 10" Wideview Android Tablet
-        10.  Lenovo S8: 8" Enhanced Multimedia Tablet
-        11.  See all Android Tablets
-    3.  Windows Tablets All PC, Tablet Convenience
-        1.  Lenovo Yoga Tablet 2 8: 8" Tablet with AnyPen Technology
-        2.  Lenovo Yoga Tablet 2 10: 10" Revolutionary Multimode Tablet
-        3.  Lenovo Yoga Tablet 2 13: 13" Revolutionary Multimode Tablet
-        4.  ThinkPad 10: 10.1" Tablet with Full PC Experience
-        5.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
-        6.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
-        7.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        8.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
-        9.  See all Windows Tablets
-    4.  2-in-1 Laptops Laptop / Tablet Hybrids
-        1.  Lenovo Yoga: Sleek Convertible Ultraportables
-        2.  ThinkPad Helix 2nd Gen: 11.6" Premium Business Ultrabook
-        3.  ThinkPad Yoga: Multimode Business Ultrabook
-        4.  Lenovo Miix 2 10.1": 10.1" Tablet with PC-Level Processor
-        5.  Lenovo Miix 2 11": 11.6" Tablet with PC-Level Processor
-        6.  Lenovo Miix 3 10": 10.1" Tablet with PC-Level Processor
-        7.  See all 2-in-1 Laptops
-    5.  Not sure what you need?
-        1.  Tablets Sale
-        2.  Lenovo Gift Guide
-        3.  Lenovo Coupon Codes
-        4.  New Product Showcase
-        5.  Discover Lenovo LaVie
-        6.  Discover Yoga
-        7.  View All Tablets
-        8.  Bags &. Carrying Cases
-        9.  PC Finder
-        10.  See all Not sure what you need?
-    6.  See all Tablets
-    
-3.  Desktops &. All-in-Ones
-    1.  See all Desktops &. All-in-Ones
-    2.  ThinkCentre Desktops Premium Performance, Solid Reliability
-        1.  M Series All-in-Ones: Space-Saving Enterprise Desktops
-        2.  M Series Tiny: Full-Featured Micro Desktops
-        3.  M Series Small Form Factors: Compact Enterprise Desktops
-        4.  M Series Towers: Enterprise Desktops
-        5.  M Series Thin Clients: Thin Client Solutions
-        6.  See all ThinkCentre Desktops
-    3.  Lenovo Desktops Stylish Design, Maximum Fun
-        1.  Horizon Table PCs: Multi-User Entertainment PCs
-        2.  A Series All-in-Ones: Stylish All-in-One Desktops
-        3.  B Series All-in-Ones: Multimedia All-in-One Desktops
-        4.  C Series All-in-Ones: Entry-Level All-in-One Desktops
-        5.  H Series Towers: Budget-Friendly Ultra Small Towers
-        6.  K Series Towers: Extreme Performance Towers
-        7.  Q Series Minis: Mini Home Theatre PCs
-        8.  See all Lenovo Desktops
-    4.  Erazer Desktops Maximum Performance, Extreme Gaming
-        1.  Erazer X Series: Extreme-Performance Gaming PCs
-        2.  See all Erazer Desktops
-    5.  Not sure what you need?
-        1.  Desktops Sale
-        2.  Lenovo Gift Guide
-        3.  Lenovo Coupon Codes
-        4.  New Product Showcase
-        5.  Best Selling Desktops
-        6.  Discover Lenovo LaVie
-        7.  Gaming PCs
-        8.  View All Desktops
-        9.  Monitors
-        10.  Keyboards &. Mice
-        11.  PC Finder
-        
-        13.  See all Not sure what you need?
-    6.  See all Desktops &. All-in-Ones
-    
-4.  Workstations
-    1.  See all Workstations
-    2.  ThinkStation Workstations Professional-Strength Workstations
-        1.  P Series: Entry-Level Power &. Stability
-        2.  See all ThinkStation Workstations
-    3.  ThinkPad Mobile Workstations The Ultimate Mobile Workstation
-        1.  W Series: Portable Workstations
-        2.  See all ThinkPad Mobile Workstations
-    4.  See all Workstations
-    
-5.  Servers &. Storage
-    1.  See all Servers &. Storage
-    2.  Servers
-        1.  Racks
-        2.  Towers
-        3.  Blades
-        4.  Mission Critical
-        5.  High Density
-        6.  Options
-        7.  See all Servers
-    3.  Networking
-        1.  Ethernet RackSwitch
-        2.  Ethernet Switches for Flex System
-        3.  Ethernet Switches for Blade System
-        4.  Networking Options
-        5.  Networking Software
-        6.  See all Networking
-    4.  Software
-        1.  Operating Systems
-        2.  Systems Management
-        3.  Cloud &. Virtualization
-        4.  Security
-        5.  High-Performance Computing (HPC)
-        6.  See all Software
-    5.  Storage
-        1.  Direct-Attached Storage
-        2.  Network-Attached Storage
-        3.  Storage-Area Network
-        4.  Tape
-        5.  See all Storage
-    6.  Solutions
-        1.  Alliances
-        2.  Big Data &. Analytics
-        3.  Business Applications
-        4.  Client Virtualization &. Infrastructure
-        5.  Cloud
-        6.  Converged Systems
-        7.  Database
-        8.  High-Performance Computing (HPC)
-        9.  OEM
-        10.  See all Solutions
-    7.  Services
-        1.  VDI, Cloud, Virtualization, &. Converged Infrastructure
-        2.  HPC, Big Data &. Analytics, Software-Defined Storage, &. Security
-        3.  Warranty &. Maintenance Services
-        4.  See all Services
-    8.  See all Servers &. Storage
-6.  Accessories &. Software
-    1.  See all Accessories &. Software
-    2.  Accessories Hardware Pairings for Your PC
-        1.  Audio &. Video
-        2.  Power Store
-        3.  Cameras &. Scanners
-        4.  Bags &. Carrying Cases
-        5.  Docks &. Port Replicators
-        6.  Keyboards &. Mice
-        7.  Memory
-        8.  Monitors
-        9.  Printer Store
-        10.  Security &. Protection
-        11.  Storage
-        12.  Tablet Accessories
-        13.  Wireless &. Networking
-        14.  See all Accessories
-    3.  Software Tools to Help You Do
-        1.  Lenovo Apps
-        2.  Enterprise Software
-        3.  Developers
-        4.  Electronic Downloads
-        5.  Windows 8 Apps
-        6.  Office Suites
-        7.  Accounting &. Finance
-        8.  Graphics &. Desktop Publishing
-        9.  Security
-        10.  See all Software
-    4.  Technologies The Lenovo Difference Inside
-        1.  REACHit
-        2.  Lenovo Mobile Access
-        3.  Thin Client Solutions
-        4.  Free System Checkup
-        5.  See all Technologies
-    5.  Shop Deals &. Solutions
-        1.  NEW! Accessories Tech Corner
-        2.  Hot Deals on Accessories
-        3.  Best Selling Accessories
-        4.  Lenovo Coupon Codes
-        5.  View All Accessories
-        6.  See all Shop Deals &. Solutions
-    6.  See all Accessories &. Software
-    
-7.  Services &. Warranty
-    1.  See all Services &. Warranty
-    2.  SMALL BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
-        1.  Services Overview Offering complete solutions to meet your needs
-        2.  Warranty &. Protection Safeguarding your IT investment
-        3.  Configuration Services Reducing IT complexity, saving you time and money
-        4.  Deployment Services Freeing up IT staff, increasing business agility
-        5.  Hardware Services Delivering product-specific expertise and support
-        6.  Financial Services Preserving your cashflow, reducing your TCO
-        7.  See all SMALL BUSINESSES | ENTERPRISES | GOVERNMENT | SCHOOLS
-    3.  PERSONAL | HOME OFFICE
-        1.  Services Overview Flexible solutions to meet your needs
-        2.  Warranty &. Protection Peace of mind for you/your business
-        3.  Premium Software Support Product usage &. setup
-        4.  Hardware Services Product-specific expertise and support
-        5.  See all PERSONAL | HOME OFFICE
-    4.  Resources
-        1.  Upgrade Your Warranty Check Warranty Status &. Upgrades
-        2.  4 Hour Response Coverage Activate your 4 Hour Onsite Response Service
-        3.  International Warranty Coverage Look up International Warranty coverage availability
-        4.  See all Resources
-    5.  See all Services &. Warranty
-    6.  *   1 PC? or 1,000? We're here to help: 24/7/365
-            
-            Contact Us
-        *   Warranty Coverage Upgrades &. Extensions
-            
-            Learn More
-        *   Smarter Cash Flow, Lower TCO Lenovo Financial Solutions
-            
-            Call Now
-8.  Deals
-    1.  See all Deals
-    2.  Current Offers
-        1.  Home Laptops Sale
-        2.  Professional Laptops Sale
-        3.  Tablets Sale
-        4.  Desktops Sale
+        3.  Desktops Sale
+        4.  Tablets Sale
         5.  Accessories Deals
-        6.  Lenovo Coupon Codes
-        7.  Lenovo Gift Guide
-        8.  ThinkPad &. ThinkCentre QuickShips
-        9.  Bing Page Deals
-        10.  Deals for Students and Educators
-        11.  Outlet
-        12.  See all Current Offers
-    3.  See all Deals
-    
-9.  Which PC is right for me?
-
-\>Tools
-
-1.  For Work
-    1.  See all For Work
-    2.  Small Business
-    3.  Large Enterprise
-    4.  State &. Local Government
-    5.  Federal Government
-    6.  K-12 Education
-    7.  Higher Education
-    8.  Students
-    9.  Business Partners
-    10.  Resource Center
-    11.  See all solutions for work
-    12.  See all For Work
-2.  Support
-    1.  See all Support
-    2.    **Help placing an order**  
-        24 hours a day, 7 days a week  
+        6.  Ecoupon Page
+        7.  Deals for Students and Educators
+        8.  Outlet
+    *   Deals and Steals Nab these Deals Before they're Gone
+        
+        Save up to 81% Site-Wide
+        
+    *   Need it Quick?
+        
+        We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
+        
+    *   Warranty Sale Protect and Save
+        
+        With up to 20% Select Warranties
+        
+*   Support
+    *   Help placing an order 24 hours a day, 7 days a week  
           
-        **Call 1-855-2-LENOVO (1-855-253-6686), Option 1**  
-        **Outlet sales: Call 1-877-698-4465, Option 1**  
+        Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
+        Outlet sales: Call 1-877-698-4465, Option 1  
           
         Monday - Friday 9am-9pm EST  
-        Saturday 9am-5:30pm EST  
-        
-    3.    **Help with an existing order**  
-        **Check **order status** online** — track by order number
-    4.  **Call 1-855-2-LENOVO (1-855-253-6686), Option 2**  
+        Saturday 9am-5:30pm EST
+    *   Help with an existing order Check order status online - track by order number  
+          
+        Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
           
         Monday - Friday 9am-9pm  
         Saturday - Sunday 9am-5:30pm (EST)
-    5.   **Technical Support**  
-        **Laptop, Desktop, Tablet, Workstation and ThinkServer Support**  
-        PC, Tablet, Workstation or ThinkServer support information
-    6.  **System x Server Support**  
-        Support information for System x issues and questions
-    7.  **Network Storage Support**  
-        Support information for Lenovo, LenovoEMC &. Iomega products
-    8.  **Accessories, Options and Monitors**  
-        Support for these extras
-    9.    **Payment issues**  
-        Call 1-800-426-3325, option 3  
+    *   Technical Support
+        1.  Laptop, Desktop, Tablet, Workstation and ThinkServer Support PC, Tablet, Workstation or ThinkServer support information
+        2.  System x Server Support Support information for System x issues and questions
+        3.  Network Storage Support Support information for Lenovo, LenovoEMC &. Iomega products
+        4.  Accessories, Options and Monitors Support for these extras
+    *   Payment issues Call 1-800-426-3325, option 3  
+          
         Monday - Friday, 9am - 5:30pm (EST)
-    10.    **Need More Help?**  
-        More ways to **contact Lenovo**
-    11.  See all Support
-3.  Email Sign-Up
-4.  My Account
-5.  Cart
+    *   Need More Help? More ways to contact Lenovo
 
-View Your Results Offers
+Lenovo recommends Windows.
 
-1.  View cart
+*   Email Sign-Up
+*   For Work
+    *   Small Business
+    *   Large Enterprise
+    *   State &. Local Government
+    *   Federal Government
+    *   K-12 Education
+    *   Higher Education
+    *   Students
+    *   Business Partners
+    *   Resource Center
+    *   See all solutions for work
+*   Account
 
-Home Privacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
+*   Search
+    
+
+View Your Results Offers Home Privacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
   Privacy details    
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
@@ -493,6 +232,7 @@ Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - 
     *   Legal Information
     *   Privacy
     *   Jobs at Lenovo
+    *   Articles
 *   Products &. Services
     *   Laptops &. Ultrabooks
     *   Tablets
@@ -502,20 +242,25 @@ Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - 
     *   Accessories &. Software
     *   Services &. Warranty
     *   Smartphones
+    *   Lenovo Holiday Deals
+    *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
     *   New Product Showcase
     *   New Product Announcements
     *   Outlet
 *   Shop by Industry
+    *   Home &. Home Office
     *   Small Business Store
     *   Large Enterprise
     *   State &. Local Government
     *   Federal Government
+    *   Healthcare
     *   K-12 Education
     *   Higher Education
     *   Students
     *   Business Partners
+    *   Partner Portal
     *   Military
 *   Resources
     *   Resource Center
@@ -536,4 +281,4 @@ Select Country AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelgium - 
     *   Order Status
     *   Support
 
-trusteValidation 2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
+trusteValidation 2015 Lenovo. All rights reserved. Email this pagePrint this pagePrivacySite MapTerms of Use
