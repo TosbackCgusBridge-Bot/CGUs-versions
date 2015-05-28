@@ -2,7 +2,7 @@ skip to content skip to navigation skip to search
 
 Cookies are not enabled on your browser
 
-You must have Cookies enabled on your Web browser to fully interact with our site and place an order. (To enable Cookies, please adjust the security or privacy setting for your browser.
+You must have Cookies enabled on your Web browser to fully interact with our site and place an order. (To enable Cookies, please adjust the security or privacy setting for your browser.)
 
 JavaScript is not enabled on your browser
 
@@ -296,6 +296,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Not Quite Perfect
             *   In-season Savings
             *   Clearance - Last Chance
+
+*   Search
 *   My Account
     *   Back to Main Menu My Account
     *   Sign In
@@ -315,14 +317,14 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
 *   Business Outfitters
 *   Ship To
 
-My Bag0
+Bag0
 
-*   Help Center
+*   Help
     *   Contact Us
     *   Order Tracking
     *   FAQ
     *   Live Chat
-*   Store Locator
+*   Store
 *   Gift Cards
 *   Business Outfitters
 *   My Account
@@ -334,8 +336,7 @@ My Bag0
     *   Sign Out
 *   Ship To
 
-menu Lands' End **Free Shipping Every Day on orders $50+**  
-$5 More for UPS 2 Day Customer Service Menu
+menu Lands' End Customer Service Menu
 
 *   Customer Service
     *   Frequently Asked Questions
