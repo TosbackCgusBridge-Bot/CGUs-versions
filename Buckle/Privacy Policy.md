@@ -1,6 +1,6 @@
-Memorial Weekend Sale
+Military Guests, enjoy a
 
-up to 60% off!
+10% military discount
 
 Guest Services 800-607-9788
 
