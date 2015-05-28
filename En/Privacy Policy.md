@@ -14,7 +14,6 @@
     *   Softonic Culture
     *   Office Tour
     *   Jobs
-    *   Internship Program
     *   Send us your CV
 *   Advertising solutions
     *   Display Advertising
