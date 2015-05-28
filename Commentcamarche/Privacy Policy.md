@@ -138,10 +138,10 @@ Réalisé sous la direction de Jean-François PILLOU, fondateur de CommentCaMarc
 A voir également
 
 *   Conditions générales
-*   Ticket liberte famille condition dutilisation
-*   Comment accepter les conditions générales d'utilisation des forums orange aide.com
+*   Les présentes conditions générales
+*   Conditon general
+*   Modèle Condition Générale de Vente » Forum - Webmaster
 *   Les conditions générales de vente pour un site d'e-commerce » Conseils pratiques - e-administration
 *   Cdiscount condamné à retirer des clauses abusives de ses conditions générales de vente » Actualités
 *   Sos conditions génerales de ventes (Résolu) » Forum - Vos droits sur internet
 *   Conditions générales (Résolu) » Forum - Mobile
-*   Redaction conditions generales (Résolu) » Forum - Vos droits sur internet
