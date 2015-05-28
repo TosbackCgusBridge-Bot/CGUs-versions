@@ -33,7 +33,7 @@ RealNetworks uses your personal information to:
 We collect non-personal information that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are examples of non-personal information that we may collect:
 
 *   Information about your computer, hardware, software, platform, device, Internet Protocol (IP) address;
-*   Geo-location information associated with a photograph or video, solely to enable the location grouping feature in RealPlayer Cloud;
+*   Geo-location information associated with a photograph or video, solely to enable the location grouping feature in RealTimes;
 *   Language preference;
 *   Gender;
 *   Anonymous information regarding customer activities on our websites, which is aggregated and considered non-personal information for purposes of this Privacy Policy.
