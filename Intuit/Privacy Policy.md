@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  SHANNON
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13519180447
+true true C13519775755
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j2 TIME :->. Wed May 27 02:45:17 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Thu May 28 07:10:56 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,10 +47,28 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   extra 25% off  
-    or 20% off  
-    +free shipping  
-    over $49
+$10 Off\* $25 or more
+
+In Store and Online
+
+Code: URCOLORS | Ends 5/31
+
+Or, Extra 20% Off\* $100 or more
+
+Online Only
+
+Code: LOOKATU | Ends 5/31
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds &. shades.
+
+In Store and Online
+
+Code: LOOKATU | Ends 5/31
+
+\*See exclusions and details. print coupon
+
+*   4 days only!  
+    huge sale
 *   home sale  
     30-50% off
     
@@ -69,25 +87,28 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   48 Hour Event -- Ends 5/27
+*   Huge Sale -- Thurs-Sun, May 28-31, In Store &. Online shop now view store ad
     
-    Online Only | Two Days Only! | Code: CUPCAKE
+    $20 Off $50 Bonus Cash! | Ends May 31 | In Store Only!
     
-    Extra 20% Off\* up to $150  
-    OR Extra 25% Off\* $150 or more  
-    OR Extra 15% Off\* select watches, salon products, furniture, mattresses and custom blinds &. shades.  
-    \+ Free Shipping Over $49\*
+    Earn a $20 off $50 Bonus Cash coupon when you spend $100 or more in store on Home purchases. Redeemable 6/1/15-6/13/15 on Home merchandise only.
     
-    get details
+    Some restrictions and exclusions apply. See store associate for details.
+    
+    shop women shop baby shop lingerie shop home decor shop kids shop shoes shop bedding shop kitchen &. dining shop men shop jewelry shop window shop furnitureHundreds of Night and Day Doorbusters
+    
+    Fri 3pm CDT through Sat 1pm CDT
+    
+    shop doorbusters
 *   Home Sale
     
-    30-50% Off select styles.
+    30-50% Off, select styles.
     
-    shop the home sale40-60% Off Furniture and Mattresses
+    shop the home sale30-50% Off Quilts and Bedspreads
     
     Select styles.
     
-    shop furniture and mattresses shop bedding and bath shop window shop kitchen and dining shop home decor shop luggage
+    shop quilts and bedspreads shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
 *   Trending Tropical
     
     $21.99 A.N.A sash soft shorts
