@@ -1,7 +1,7 @@
 GoDaddy  
 Universal Terms of Service Agreement
 
-**Last Revised: May 13, 2015**
+**Last Revised: May 28, 2015**
 
 **PLEASE READ THIS UNIVERSAL TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.**
 
@@ -747,19 +747,23 @@ Nothing in this Agreement shall be deemed to confer any third-party rights or be
 
 This Site and the Services found at this Site are subject to the export laws, restrictions, regulations and administrative acts of the United States Department of Commerce, Department of Treasury Office of Foreign Assets Control (“OFAC”), State Department, and other United States authorities (collectively, “U.S. Export Laws”).  Users shall not use the Services found at this Site to collect, store or transmit any technical information or data that is controlled under U.S. Export Laws.  Users shall not export or re-export, or allow the export or re-export of, the Services found at this Site in violation of any U.S. Export Laws.  None of the Services found at this Site may be downloaded or otherwise exported or re-exported (i) into (or to a national or resident of) any country with which the United States has embargoed trade. or (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Denied Persons List, or any other denied parties lists under U.S. Export Laws.  By using this Site and the Services found at this Site, you agree to the foregoing and represent and warrant that you are not a national or resident of, located in, or under the control of, any restricted country. and you are not on any denied parties list. and you agree to comply with all U.S. Export Laws (including “anti-boycott”, “deemed export” and “deemed re-export” regulations).  If you access this Site or the Services found at this Site from other countries or jurisdictions, you do so on your own initiative and you are responsible for compliance with the local laws of that jurisdiction, if and to the extent those local laws are applicable and do not conflict with U.S. Export Laws.  If such laws conflict with U.S. Export Laws, you shall not access this Site or the Services found at this Site.  The obligations under this section shall survive any termination or expiration of this Agreement or your use of this Site or the Services found at this Site.
 
-****22**. COMPLIANCE WITH LOCAL LAWS**
+****22**. FOR INDIA RESIDENTS ONLY**
+
+You expressly agree that: (i) GoDaddy (or its service provider) may contact you by phone in order to resolve your complaint or dispute, or your current service or billing issue. and (ii) in order to resolve such complaint, dispute or issue, GoDaddy may use and may disclose to its service provider the following information: call recordings, customer name, phone number(s) and contact preferences, tenure of your relationship with GoDaddy, products used, and information about the nature of your complaint, dispute, or service issue.
+
+****23**. COMPLIANCE WITH LOCAL LAWS**
 
 GoDaddy makes no representation or warranty that the content available on this Site or the Services found at this Site are appropriate in every country or jurisdiction, and access to this Site or the Services found at this Site from countries or jurisdictions where its content is illegal is prohibited.  Users who choose to access this Site or the Services found at this Site are responsible for compliance with all local laws, rules and regulations. 
 
-****23**. GOVERNING LAW. JURISDICTION. VENUE. WAIVER OF TRIAL BY JURY**
+****24**. GOVERNING LAW. JURISDICTION. VENUE. WAIVER OF TRIAL BY JURY**
 
 Except for disputes governed by the Uniform Domain Name Dispute Resolution Policy referenced above and available here, this Agreement shall be governed by and construed in accordance with the federal law of the United States and the state law of Arizona, whichever is applicable, without regard to conflict of laws principles.  You agree that any action relating to or arising out of this Agreement shall be brought in the state or federal courts of Maricopa County, Arizona, and you hereby consent to (and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to) jurisdiction and venue in the state and federal courts of Maricopa County, Arizona.  You agree to waive the right to trial by jury in any action or proceeding that takes place relating to or arising out of this Agreement.
 
-****24**. TITLES AND HEADINGS. INDEPENDENT COVENANTS. SEVERABILITY**
+****25**. TITLES AND HEADINGS. INDEPENDENT COVENANTS. SEVERABILITY**
 
 The titles and headings of this Agreement are for convenience and ease of reference only and shall not be utilized in any way to construe or interpret the agreement of the parties as otherwise set forth herein.  Each covenant and agreement in this Agreement shall be construed for all purposes to be a separate and independent covenant or agreement.  If a court of competent jurisdiction holds any provision (or portion of a provision) of this Agreement to be illegal, invalid, or otherwise unenforceable, the remaining provisions (or portions of provisions) of this Agreement shall not be affected thereby and shall be found to be valid and enforceable to the fullest extent permitted by law.
 
-****25**. CONTACT INFORMATION**
+****26**. CONTACT INFORMATION**
 
 If you have any questions about this Agreement, please contact us by email or regular mail at the following address:
 
@@ -770,5 +774,5 @@ Scottsdale, AZ 85260
 legal@godaddy.com 
 
   
-Revised: 5/13/15  
+Revised: 5/28/15  
 Copyright © 2005-2015 GoDaddy.com, LLC All Rights Reserved.
