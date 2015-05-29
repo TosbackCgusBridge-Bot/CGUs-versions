@@ -38,8 +38,3 @@ No thanks, take me to the site anyway
 *   Help
 
 Flickr, a Yahoo company
-
-*   Tumblr
-*   Facebook
-*   Twitter
-*   Google Plus
