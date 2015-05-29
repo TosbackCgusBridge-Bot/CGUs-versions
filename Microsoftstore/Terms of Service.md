@@ -282,4 +282,4 @@ Copyright and trademark notices
 All contents of the Website and Service are Copyright © 2014 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, WA 98052, USA. All rights reserved. We or our suppliers own the title, copyright, and other intellectual property rights in the Website, Service and content. Microsoft and the names, logos, and icons of all Microsoft products and services may be either trademarks or registered trademarks of Microsoft in the United States, Canada and/or other countries.
 
 A list of Microsoft trademarks can be found at:  
-http://www.microsoft.com/about/legal/en/us/IntellectualProperty/Trademarks/EN-US.aspx. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in this Contract are reserved.
+https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx. The names of actual companies and products may be the trademarks of their respective owners. Any rights not expressly granted in this Contract are reserved.
