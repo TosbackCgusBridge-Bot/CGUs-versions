@@ -1,6 +1,8 @@
 Connexity
 
 *   US
+    *   FR
+    *   DE
     *   UK
 *   Login
 
@@ -151,18 +153,19 @@ Connexity technology, and the way we use it, meets or exceeds all industry stand
 
 Home  /  Privacy Policy Overview
 
-*   Paid Search &. Marketplace
-*   Bizrate Insights
-*   Display Media
-*   Publisher Monetization
+*   Login
+*   About
+*   Team
+*   Open Positions
+*   Press
 
 Resources
 
-*   Blog
-*   Case Studies
-*   Industry Trends
-*   Bizrate Insights FAQ
-*   Publisher Program FAQs
+*   Login
+*   About
+*   Team
+*   Open Positions
+*   Press
 
 Connexity
 
@@ -174,11 +177,14 @@ Connexity
 
 Stay Connected
 
-*   Contact Us
-*   Facebook
-*   Twitter
-*   LinkedIn
+*   Login
+*   About
+*   Team
+*   Open Positions
+*   Press
 
 &copy 2015 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
+
+accept Connexity’s privacy policy is in compliance with EU Cookie legislation. Please read this to review the updates about which cookies we use and what information we collect on our site. By continuing to use this site, you are agreeing to our updated privacy policy
