@@ -1,7 +1,7 @@
 **Terms of Use**  
-Welcome to the Journeys Web Site ("Site"). The Site reflects the family of brands including Journeys, Journeys Kidz and Shi by Journeys (collectively “Journeys”).Please review the following basic rules that govern your use of our Site (the "Agreement"). Please note that your use of our Site means that you agree to these rules.  
+Welcome to the Journeys Web Site ("Site"). The Site reflects the family of brands including Journeys, Journeys Kidz and Shi by Journeys (collectively “Journeys”). Please review the following basic rules that govern your use of our Site (the "Agreement"). Please note that your use of our Site means that you agree to these rules.  
   
-This Privacy Policy was lasted updated on: January 09, 2014.  
+This Privacy Policy was lasted updated on: May 28, 2015.  
   
 **Changes to Privacy Policy**  
 We may from time to time change these rules. We will notify users of the Site of any changes by posting the revised policy reflecting them with a new effective date on this page. Your use of our Site following any such change means that you agree to the rules as changed. These rules--specifically including the "Customer Information Policy", "Use of Cookies", "Use of IP Addresses", and "Security" paragraphs below--apply to this website only and not to any other website or business activity of Genesco Inc. or any of its divisions, including Journeys, Journeys Kidz and/or Shi by Journeys.  
@@ -52,9 +52,8 @@ California Civil Code Section 1798.83, also known as S.B. 27, allows our Califor
 
 **How We Respond to a "Do Not Track" Signal from Your Browser**  
 Currently, this site does not respond to "Do Not Track" signals from your browser.   
-  
-
-**Use Of Cookies  
+**  
+Use Of Cookies  
 **What is a cookie? A cookie is a piece of information that is sent to your computer's hard drive to help our site recognize you when you return to our Site. Cookies are used as a standard practice by many sites. An example of how we use this function could be if you started to place items in your shopping cart, but then for some reason had to leave our Site or shut off your computer. When you return to our Site, the cookie would enable our Site to recognize that you have returned and all the items you placed in your cart during an earlier session would still be in your shopping cart. 
 
 We also use cookies to determine the number of people that come to our Site. It is important for us to understand the number of new customers using our Site. When your computer accepts the cookie, we are able to record that session as a new visitor to our Site.  
@@ -82,7 +81,7 @@ Certain features of this website, including but not limited to the product revie
 You agree that the Company may use and/or disclose information about your demographics and use of the Site in any manner that does not reveal your identity.  
   
 **Product Information**  
-The products displayed at the Site are available in select Journeys’ stores in the United States while supplies last. The prices displayed at the Site are quoted in U.S. Dollars and are valid and effective only in the United States.  
+The products displayed at the Site are available in select Journeys’ stores in Canada while supplies last. The prices displayed at the Site are quoted in Canadian and are valid and effective only in Canada.  
   
 **Colors**  
 We have made every effort to display as accurately as possible the colors of our products that appear at the Site. However, as the actual colors you see will depend on your monitor, we cannot guarantee that your monitor's display of any color will be accurate.  
