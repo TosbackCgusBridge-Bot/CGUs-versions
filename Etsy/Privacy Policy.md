@@ -162,5 +162,5 @@ Related articles
 *   Privacy Policy
 *   Cookies &. Tracking Technologies
 *   Unavailable Items With No Photos
+*   Copyright and Intellectual Property Policy
 *   Electronic Communications Policy
-*   Gift Cards Terms of Use - Canadian Dollars (CAD)
