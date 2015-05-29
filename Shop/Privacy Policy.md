@@ -5,7 +5,7 @@ LENOVO Menu
     *   Tablets
     *   Desktops &. All-in-Ones
     *   Workstations
-    *   Systems, Servers &. Storage
+    *   Servers, Storage &. Networking
     *   Accessories &. Software
     *   Services &. Warranty
 *   Deals
@@ -46,7 +46,7 @@ LENOVO Menu
         Saturday - Sunday 9am-5:30pm (EST)
     *   Technical Support
         1.  Laptop, Desktop, Tablet, Workstation and ThinkServer Support PC, Tablet, Workstation or ThinkServer support information
-        2.  System x Server Support Support information for System x issues and questions
+        2.  Servers, Storage &. Networking Support information for System x issues and questions
         3.  Network Storage Support Support information for Lenovo, LenovoEMC &. Iomega products
         4.  Accessories, Options and Monitors Support for these extras
     *   Payment issues Call 1-800-426-3325, option 3  
@@ -73,7 +73,11 @@ Lenovo recommends Windows.
 *   Search
     
 
-View Your Results Offers Home Privacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
+View Your Results Offers
+
+*   View cart
+
+Home Privacy Details PrivacyPrivacy detailsCookiesSocial Sign On  
   Privacy details    
 
 Your privacy is important to Lenovo. This statement discloses the information practices for Lenovo Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
