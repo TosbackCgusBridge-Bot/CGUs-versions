@@ -97,7 +97,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Father's Day Free Standard Delivery $35+.\* Apply _**GRILL15**_ at checkout.
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
 
 1.  Home
 2.  Customer Service
