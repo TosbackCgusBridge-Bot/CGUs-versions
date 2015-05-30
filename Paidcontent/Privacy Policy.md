@@ -1,8 +1,8 @@
 Privacy Policy
 
-As used in this Privacy Policy, “Gigaom” refers to all websites (including Gigaom.com, Gigaom Research, and Gigaom Events), mobile sites, applications, and other properties or services owned or operated by Giga Omni Media, Inc.
+As used in this Privacy Policy, “Gigaom” refers to all websites (including Gigaom.com and Gigaom Research), mobile sites, applications, and other properties or services owned or operated by Knowingly Corporation.
 
-By visiting Gigaom, viewing our content or research, attending or viewing any of our events or programs and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+By visiting Gigaom, viewing our content or research, viewing any of our programs and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 What Does This Privacy Policy Cover?
 
@@ -186,11 +186,12 @@ How to Contact Us
 Gigaom welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to privacy@gigaom.com or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
 
 Gigaom  
-ATTN: Privacy  
-612 Howard Street  
-Suite 200  
-San Francisco, CA 94105
+ATTN: Privacy
+
+Knowingly Corporation  
+538 W. 21st Street #54600  
+Houston, TX 77008
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of October 15, 2013.
+This Privacy Policy is effective as of May 17, 2015.
