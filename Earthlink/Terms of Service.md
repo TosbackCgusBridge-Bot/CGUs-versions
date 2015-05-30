@@ -1,83 +1,83 @@
 **INTRODUCTION**
 
-Your use of the services offered on or though the EarthLink Consumer Website ("EarthLink Consumer Services") is subject to the terms of this Acceptable Use Policy ("AUP"). This AUP should be read in conjunction with the Services Agreement for your particular EarthLink Consumer Service and EarthLink Privacy Policy. If you do not agree to comply with this AUP, you should immediately stop your use of the EarthLink Consumer Services and notify EarthLink to close your account. EarthLink, in its sole discretion, may deny or restrict your use of the EarthLink Consumer Services or immediately terminate your EarthLink Consumer Services if any use under your EarthLink account violates this AUP.
+Your use of the EarthLink Residential Websites and any services offered on or through the EarthLink Residential Web Sites (collectively, the "EarthLink Residential Services") is subject to the terms of this Acceptable Use Policy ("AUP"). The EarthLink Residential Web Sites include: http://www.earthlink.net/ , http://my.earthlink.net/ , http://www.peoplepc.com/ , any Web pages provided by EarthLink through earthlink.net and peoplepc.com subdomains, any third party or co-branded versions of these sites, and any successor or replacement sites.
+
+This AUP should be read in conjunction with the Services Agreement for your particular EarthLink Residential Service(s) and the EarthLink Privacy Policy . If you do not agree to comply with this AUP, you must immediately stop your use of the EarthLink Residential Services and notify EarthLink to close your account. In its sole discretion, EarthLink may deny or restrict your use of the EarthLink Residential Services or immediately terminate your EarthLink Residential Services if any use under your EarthLink account violates this AUP.
 
 **2\. VIOLATIONS OF THIS ACCEPTABLE USE POLICY**
 
-The following are examples of uses of the EarthLink Consumer Services that constitute violations of this AUP:
+The following are examples of uses of the EarthLink Residential Services that constitute violations of this AUP:
 
-> **Illegal Use.** Transmitting, uploading, posting, receiving, storing, or presenting material or data that, intentionally or unintentionally, violates any local, state, national or international law, or any rules or regulations that have the force of law, including, but not limited to, material or data regarding illegal goods or services, illegal substances, prostitution, illegal drugs, illegal weapons, terrorism, or other conduct that would constitute a criminal offense.
-> 
-> **Fraudulent Financial Activity.** Making fraudulent offers to sell or buy products, items, or services or to advance any type of illegal financial activity such as "pyramid schemes," "Ponzi schemes," or fraudulently charging credit cards.
-> 
-> **Gambling.** Engaging or promoting gambling in violation of any laws.
-> 
-> **Harm to Minors.** Harming, attempting to harm or exploiting minors in any way, including, but not limited to, the use of the EarthLink Consumer Services (i) to receive, distribute, solicit, present, or store illegal images or URLs containing child pornography, or (ii) to post or disclose personal identifiable information or private information of individuals under the age of 13 or in connection with materials directed towards children under the age of 13 without verifiable parental consent.
-> 
-> **Threats and Harassment.** Uploading, transmitting or posting any material that (i) threatens, harasses, defames or encourages bodily harm or destruction of property of governments, groups, organizations or individuals, or (ii) espouses, promotes or incites racism or bigotry.
-> 
-> **Spamming.** Transmitting or facilitating unsolicited commercial email or unsolicited bulk email, including, but not limited to, use of another Internet service to send spam to divert users to your site hosted on or through EarthLink's network, whether or not the messages were originated by you, under your direction, or by or under the direction of a third party.
-> 
-> **Phishing.** Attempting to impersonate any person or entity, engaging in sender address or network header falsification, or forging anyone else's digital or manual signature.
-> 
-> **Copyright or trademark infringement.** Transmitting, uploading or posting any material that infringes any copyright, trademark, patent, trade secret, or other proprietary rights of any third party, including, but not limited to, the unauthorized copying of copyrighted material, incorporating a third party's trademark within an email address without the prior permission of the trademark owner, the digitization and distribution of photographs from magazines, books, or other copyrighted sources, and the unauthorized transmittal of copyrighted software. EarthLink is registered under the Digital Millennium Copyright Act of 1998. EarthLink's Digital Millennium Copyright Act Policy is located at http://www.earthlink.net/about/policies/dmca.faces.
-> 
-> **Collection of personal data without consent.** Collecting, or attempting to collect, personal information about third parties without their knowledge or consent or under false pretenses.
-> 
-> **Canceling Other's Email Messages.** Canceling email messages other than your own email messages.
-> 
-> **Unauthorized Access.** Accessing, or to attempting to access, the accounts of others without their knowledge or consent. or penetrating, or attempting to penetrate, security measures of EarthLink's or another entity's or person's computer software or hardware, electronic communications system, or telecommunications system, including, but not limited to, misusing or abusing account access and passwords of others. using or distributing tools designed to compromise security of computer systems or networks. or compromising the security of any Internet account or website.
-> 
-> **Using or Distributing Internet Viruses, Worms, Trojan Horses or Other Destructive Activity that Compromise Security.** Engaging in activities that disrupt or degrade the use of or interfere with the ability of other people to effectively use the network or any connected network system, service or equipment including using or distributing, among other things, Internet viruses, worms, Trojan Horse programs, password guessing programs, decoders, keystroke loggers, cracking tools, packet sniggers, flooding of a network, encryption circumvention devices or unauthorized port scanning.
-> 
-> **Spidering.** Participating in the collection of a very large number of email addresses, screen names, or other identifiers of others without their prior consent, or participating in the use of software, including spyware, designed to facilitate this activity.
-> 
-> **Denial of Service.** Routing or relaying traffic between unknown third parties or as a source of denial of service attacks, worms, or other service sending traffic to unknown third parties. You may not permit your network, through action or inaction, to be configured in such a way that gives a third party the capability to use your network in an illegal or inappropriate manner.
-> 
-> **Long Connections and Multiple Logins.** Using a personal account for high volume or commercial use is prohibited. The EarthLink Consumer Services are intended for periodic, active use of email, newsgroups, file transfers, Internet chat, games, and browsing the World Wide Web. You may stay connected so long as you are actively using that connection for the above purposes. You may not use the EarthLink Consumer Services on a standby or inactive basis in order to maintain a connection. Pinging is expressly prohibited.
-> 
-> **Network Probing.** Any type of detective network activity, including, but not limited to, port scanning and pinging.
-> 
-> **Newsgoups.** Violating a newsgroup’s terms of use or policies.
+Illegal Use. Transmitting, uploading, posting, receiving, storing, or presenting content or other material that EarthLink believes would violate any applicable local, state, federal or international law or regulation including, but not limited to, content or material regarding illegal gambling, human trafficking, illegal drugs or goods, fraud, illegal prostitution, acts of terrorism or other illegal conduct.
 
-In addition, any material or conduct in connection with the use of the EarthLink Consumer Services that EarthLink believes to be unlawful, offensive or harmful will be considered a violation of this AUP.
+**Fraudulent Financial Activity.** Making fraudulent offers to sell or buy products, items, or services, advancing any type of illegal financial activity such as "pyramid" or "Ponzi schemes," or fraudulently charging any method of payment (e.g. debit or credit cards).
+
+**Harm to Minors.** Harming, attempting to harm, exploiting or encouraging the exploitation of minors in any way, including, but not limited to, the use of the EarthLink Residential Services to (i) receive, distribute, solicit, present, or store illegal images or URLs containing child pornography, or (ii) post or disclose personal identifiable or private information of individuals under the age of 13 or in connection with materials directed towards children under the age of 13 without verifiable parental consent.
+
+**Threats and Harassment.** Uploading, posting or transmitting any material that (i) threatens, harasses, defames or encourages bodily harm or destruction of property of an individual or a group, including on the basis of age, disability, ethnicity, gender, race, religion, or sexual orientation, or (ii) espouses or promotes racism or bigotry.
+
+**Spamming.** Transmitting or facilitating unsolicited or illegal commercial or bulk email.
+
+**Phishing.** Attempting to impersonate any person, group or entity, engaging in sender address or network header falsification, or forging anyone else's digital or manual signature.
+
+**Copyright or Trademark Infringement.** Transmitting, uploading or posting any material that infringes any copyright, trademark, patent, trade secret, or other proprietary or intellectual property rights of any third party. EarthLink is registered under the Digital Millennium Copyright Act of 1998. EarthLink's Digital Millennium Copyright Act Policy is located at http://www.earthlink.net/about/policies/dmca.faces .
+
+**Unauthorized Use of EarthLink's Intellectual Property.** Using any EarthLink trademark, trade name or other intellectual property in any way and in any media without EarthLink's prior written authorization, or otherwise taking any action that implies that EarthLink sponsors or is affiliated with you or your use of the EarthLink Residential Services.
+
+**Collection of Personal Data without Consent.** Collecting or attempting to collect personal information about third parties without their knowledge or consent or under false pretenses.
+
+**Unauthorized Account Access.** Accessing, attempting to access or assisting another in accessing through any means the accounts, including email or websites, of others without their knowledge or consent.
+
+**Unauthorized System or Network Access.** Penetrating, attempting to penetrate, or assisting another in penetrating through any means EarthLink's or another entity's or person's systems, networks, devices, or software. or circumventing, attempting to circumvent, or assisting another in circumventing EarthLink's or another entity's or person's security measures.
+
+**Using or Distributing Internet Viruses, Worms, Trojan Horses or Other Destructive Activity that Compromise Security.** Engaging in activities that disrupt or degrade the use of or interfere with the ability of other people to effectively use EarthLink's network or any connected network system, service or equipment including using or distributing, among other things, Internet viruses, worms, Trojan Horse programs, password guessing programs, decoders, keystroke loggers, cracking tools, packet sniggers, flooding of a network, encryption circumvention devices or unauthorized port scanning.
+
+**Denial of Service.** Routing or relaying traffic between unknown third parties or as a source of denial of service attacks, or otherwise sending traffic to unknown third parties. You may not permit any network utilizing or accessing the EarthLink Residential Services, whether through action or inaction, to be configured in such a way that it gives a third party the capability to use your network in an illegal or inappropriate manner.
+
+**Long Connections and Multiple Logins.** Using an EarthLink Residential Service account for high volume or commercial use is prohibited. The EarthLink Residential Services are intended for periodic, active residential use. You may not use the EarthLink Residential Services on a standby or inactive basis in order to maintain a connection. Pinging is expressly prohibited.
+
+**Network Probing.** Any type of detective network activity, including, but not limited to, port scanning and pinging.
+
+**Terms of Use Violation.** Violating the terms of use or policies of any third party from or through which EarthLink provides content, including newsgroup providers.
+
+In addition, EarthLink will consider any use of the EarthLink Residential Services that it believes is unlawful, offensive or harmful to be a violation of this AUP.
 
 **3\. REPORTING VIOLATIONS OF THIS ACCEPTABLE USE POLICY**
 
-EarthLink requests anyone who believes that there is a violation of this AUP or has a question about this AUP to please direct the relevant information to: abuse@earthlink.net. Anyone who believes the violation involves child pornography should direct the report to abuse.cp@earthlink.net.
+EarthLink requests anyone who believes that there is a violation of this AUP or has a question about this AUP to please direct the relevant information to: abuse@earthlink.net . We ask that anyone who believes the violation involves child pornography to direct the report to abuse.cp@earthlink.net .
 
 If available, the following information should be provided in the report:
 
-> The IP address used to commit the alleged violation  
-> The date and time of the alleged violation, including the time zone or offset from GMT  
-> Evidence of the alleged violation
+*   The IP address used to commit the alleged violation
+*   The date and time of the alleged violation, including the time zone or offset from GMT
+*   Evidence of the alleged violation
 
-If reporting an email, the email with full header information provides all of the above, as do syslog files. Other situations may require different methods of providing the above information.
+Please note that if you are reporting an email, the email with full header information provides all of the above, as do syslog files.
 
 **4\. HOW EARTHLINK ADDRESSES VIOLATIONS OF THIS ACCEPTABLE USE POLICY**
 
-EarthLink may, but is not required to, monitor your compliance with the terms this AUP. You acknowledge that EarthLink has the right, but not the obligation, to pre-screen, refuse, or remove any content available from your use of the EarthLink Consumer Services, including, but not limited to, content that violates the law or the terms of this AUP.
+EarthLink may, but is not required to, monitor your compliance with the terms this AUP. You acknowledge that EarthLink has the right, but not the obligation, to pre-screen, refuse, or remove any content available from your use of the EarthLink Residential Services, including, but not limited to, content that violates the law or the terms of this AUP.
 
-If EarthLink receives a complaint or otherwise becomes aware of any possible violation of this AUP, EarthLink may, in its sole discretion, initiate an investigation. If EarthLink determines that a violation of this AUP has occurred (regardless of whether it is unlawful), EarthLink may take any one or more of the following actions without notice:
+If EarthLink receives a complaint or otherwise becomes aware of any possible violation of this AUP, EarthLink may, in its sole discretion, initiate an investigation. If EarthLink determines that a violation of this AUP has occurred (regardless of whether it is unlawful), EarthLink may take any one or more of the following actions without notice to you:
 
-*   Issue warnings: written or verbal
-*   Remove any content that violates this AUP
-*   Suspend your EarthLink Consumer Services for a certain period of time
-*   Terminate your EarthLink Consumer Services
+*   Issue a written or verbal warning
+*   Remove content
+*   Suspend your EarthLink Residential Services
+*   Terminate your EarthLink Residential Services
 *   Remove, block or otherwise prevent access to websites
 *   Bill you for administrative costs and/or reactivation charges
-*   Bring legal action to enjoin violations and/or to collect damages, if any, caused by violations.
+*   Bring or assist in legal action relating to such violations, including to enjoin violations and/or to collect damages, if any, caused by violations.
 
 **5\. REVISIONS TO THIS ACCEPTABLE USE POLICY**
 
-EarthLink may revise, amend, or modify this AUP from time to time. Notice of any revision, amendment, or modification will be posted on the EarthLink Website at www.earthlink.net/about/policies/, on your start pages, by email, and/or in mailings to your primary EarthLink email account and will be effective on the date noted in the posting. **By continuing to use the EarthLink Consumer Services after the revisions, amendments or modifications are effective, you accept and agree to abide by them.**
+EarthLink may revise, amend, or modify this AUP at any time by posting the revised version of this AUP on http://www.earthlink.net/about/policies/use.faces **.** The revised version will be effective on the date that it is posted as stated at the end of the revised version. The material changes to this AUP will be noted in endnotes of the revised version. Your continued use of the EarthLink Residential Services after the date of the revised version constitutes your acceptance of all of the revisions. If you do not agree to the revisions in the revised version, your sole and exclusive remedy will be to terminate your account and use of the EarthLink Residential Services. 1
 
 **6\. MISCELLANEOUS**
 
-The failure of EarthLink to enforce this AUP will not be construed as a waiver of any right to do so at any time. If any section of this AUP is held invalid or unenforceable, the remaining sections will remain in full force and effect. You agree to indemnify, defend and hold harmless EarthLink, its subsidiaries, directors, officers and employees against all claims and expenses, including reasonable attorney fees, resulting from any violation of this AUP. This indemnification will survive any termination of your EarthLink Consumer Services or account with EarthLink. Georgia law governs this AUP.
+The failure of EarthLink to enforce this AUP will not be construed as a waiver of any right to do so at any time. If any section of this AUP is held invalid or unenforceable, the remaining sections will remain in full force and effect. Y ou agree to defend, indemnify and hold EarthLink and its officers, directors, employees, subsidiaries, affiliates, agents, suppliers and vendors ("EarthLink Parties") harmless from and against all third party claims, demands, suits, actions, judgments, losses, costs, damages including, but not limited to, direct, indirect and consequential damages, attorney's fees and expenses that an EarthLink Party may sustain or incur by reason of your violation of this AUP or violation of this AUP by anyone else through your account. This AUP is governed by Georgia law without regard to conflict of law provisions.
 
-Effective Date: December 28, 2012  
+Effective Date: May 29, 2015
 
-The following endnote summarizes the revisions made in this December 28, 2012 version of the Agreement compared to the previous version of the Agreement dated September 1, 2010.
+The following endnote summarize the material revision made in this May 29, 2015 version of this AUP compared to the previous version of this AUP dated December 28, 2012 .
 
-1The first sentence in the first paragraph was revised to clarify that this AUP just applies to the use of the services for consumers offered on or though the EarthLink Consumer Website because EarthLink also has another website for business services.  The term "Service" throughout the AUP was changed to "EarthLink Consumer Services" to clarify that the definition of Services does not include EarthLink's business services.
+1 Section 5 was revised to explain that future revisions to this AUP will be posted on http://www.earthlink.net/about/policies/use.faces with endnotes summarizing the material changes from the previous version.
