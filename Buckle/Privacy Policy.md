@@ -1,6 +1,6 @@
-Military Guests, enjoy a
+RIDE YOUR DREAM FOX GIVEAWAY
 
-10% military discount.
+Enter Now.
 
 Guest Services 800-607-9788
 
