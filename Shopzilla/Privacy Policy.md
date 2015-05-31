@@ -186,5 +186,3 @@ Stay Connected
 &copy 2015 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
-
-accept Connexity’s privacy policy is in compliance with EU Cookie legislation. Please read this to review the updates about which cookies we use and what information we collect on our site. By continuing to use this site, you are agreeing to our updated privacy policy
