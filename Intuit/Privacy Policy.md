@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  ELENA
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13528307475
+true true C13531638914
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p29.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Sat May 30 09:18:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sun May 31 11:07:20 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,112 +47,94 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or more
-
-In Store and Online
-
-Code: URCOLORS | Ends 5/31
-
-Or, Extra 20% Off\* $100 or more
-
-Online Only
-
-Code: LOOKATU | Ends 5/31
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds &. shades.
-
-In Store and Online
-
-Code: LOOKATU | Ends 5/31
-
-\*See exclusions and details. print coupon
-
-*   4 days only!  
-    huge sale
+*   last day!  
+    huge sale  
+    up to 50% off
+    
+    select styles
+    
 *   home sale  
     30-50% off
     
     select styles
     
-*   cool summer  
-    styles  
+*   men's summer  
+    essentials  
     40-50% off
     
-    select A.N.A
+    select styles
     
-*   swim into  
-    summer  
-    up to 50% off
+*   splash into  
+    savings  
+    up to 50% off  
+    family swim
     
     select styles
     
 
-*   Huge Sale -- Thurs-Sun, May 28-31, In Store &. Online shop now view store ad
+*   Last Day! In Store &. Online
     
-    $20 Off $50 Bonus Cash! | Ends May 31 | In Store Only!
+    Huge Sale -- Up to 50% Off Select Styles shop now view store ad shop women shop baby shop kids shop shoes shop men shop jewelry shop lingerie shop bedding shop kitchen &. dining shop home decor shop window shop furniture
     
-    Earn a $20 off $50 Bonus Cash coupon when you spend $100 or more in store on Home purchases. Redeemable 6/1/15-6/13/15 on Home merchandise only.
+    Last Day | In Store Only! | $20 Off $50 Bonus Cash!
+    
+    Earn a $20 off $50 Bonus Cash Coupon when you spend $100 or more in store on Home. Redeemable 6/1/15-6/13/15 on home purchases only.
     
     Some restrictions and exclusions apply. See store associate for details.
     
-    shop women shop baby shop lingerie shop home decor shop kids shop shoes shop bedding shop kitchen &. dining shop men shop jewelry shop window shop furnitureHundreds of Night and Day Doorbusters
-    
-    Fri 3pm CDT through Sat 1pm CDT
-    
-    shop doorbusters
 *   Home Sale
     
-    30-50% Off, select styles.
+    30-50% Off select styles.
     
-    shop the home sale30-50% Off Quilts and Bedspreads
+    shop the home sale shop the home style book shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage  
+*   Summer Essentials
+    
+    40 to 50% Off Men's St. John's Bay
+    
+    Select styles
+    
+    shop men's st. john's bay
+    
+    12.99 St. John's Bay Solid Polo
+    
+    orig. $26
+    
+    shop st. john's bay solid polo  
+    
+    17.99 St. John's Bay Flat-Front Shorts
+    
+    orig. $30
+    
+    shop st. john's bay flat-front shorts
+    
+    19.99 St. John's Bay Cargo Shorts
+    
+    orig. $34
+    
+    shop st. john's bay cargo shorts
+*   Splash Into Savings Up to 50% Off Swim For The Family
     
     Select styles.
     
-    shop quilts and bedspreads shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
-*   Trending Tropical
-    
-    $21.99 A.N.A sash soft shorts
-    
-    Originally $38.
-    
-    shop a.n.a sash soft shorts shop a.n.a shorts shop a.n.a tees and tanks40-50% Off A.N.A Apparel
-    
-    Select styles. A.N.A® a new approach, only at JCPenney.
-    
-    Breezy style: Hot looks that keep you cool all summer long.
-    
-    shop a.n.a  
-*   Time To Swim Up to 50% Off Swim For The Family
-    
-    Select styles.
-    
-    shop women's swim shop men's swim shop kids' swim shop swim shop women's swim shop men's swim shop kids' swim shop baby swim
+      shop women's swim shop men's swim shop kids' swim shop swim shop women's swim shop men's swim shop kids' swim shop baby swim
 
 What's New
 
-Refresh your closet for spring! See what's trending now.
+Refresh your closet for spring. See whats trending now.
 
-shop women's shop shoes shop kids' shop handbags shop men's shop home Gifts for Dad
+shop women shop women's shoes shop jewelry shop men shop home shop men's shoes Gifts for Dad
 
 Father's Day is June 21.
 
-shop all gifts shop gift cards Introducing Our New Home Spring/Summer Style Book explore now JCP Rewards
+shop all gifts shop gift cards JCPenney Rewards
 
-Shop to earn $10 JCP Rewards.
+Shop to earn $10 JCPenney Rewards.
 
 sign up today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-shop now Introducing: Styled by JCPenney read the blog Round Up and Let Your Change Make Real Change
-
-Support JCPenney Cares in May by rounding up your purchase to help fund programs that keep kids safe, healthy and engaged beyond the classroom.
-
-learn more Your Pocket-Sized Personal Shopper
-
-Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
-
-learn more about the app download on the App store get it on Google play
+shop now Star Wars shop now Your Pocket-Sized Personal Shopper learn more about the app download on the App store get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
