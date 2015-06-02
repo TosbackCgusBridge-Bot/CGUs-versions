@@ -1,4 +1,4 @@
-Home >. Privacy Policy Privacy Policy Your privacy is important to us
+Home >. Customer Data Privacy Policy Customer Data Privacy Policy Your privacy is important to us
 
 United Airlines is committed to protecting the privacy and personal data it receives from customers. We want you to know that when you use one of the United family Internet websites, and when you provide us with information offline, the privacy of your personally identifiable information will be respected and protected. While United strives to take reasonable measures to protect the privacy of our customers, this Privacy Policy is not a contract and does not create any legal rights or obligations. Rather, the following are guidelines for protecting the information you provide to us.
 
