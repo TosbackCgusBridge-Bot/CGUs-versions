@@ -153,19 +153,18 @@ Connexity technology, and the way we use it, meets or exceeds all industry stand
 
 Home  /  Privacy Policy Overview
 
-*   Login
-*   About
-*   Team
-*   Open Positions
-*   Press
+*   Paid Search &. Marketplace
+*   Bizrate Insights
+*   Display Media
+*   Publisher Monetization
 
 Resources
 
-*   Login
-*   About
-*   Team
-*   Open Positions
-*   Press
+*   Blog
+*   Case Studies
+*   Industry Trends
+*   Bizrate Insights FAQ
+*   Publisher Program FAQs
 
 Connexity
 
@@ -177,11 +176,10 @@ Connexity
 
 Stay Connected
 
-*   Login
-*   About
-*   Team
-*   Open Positions
-*   Press
+*   Contact Us
+*   Facebook
+*   Twitter
+*   LinkedIn
 
 &copy 2015 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
