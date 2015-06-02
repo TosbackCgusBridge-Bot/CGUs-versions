@@ -58,8 +58,8 @@ Nous sommes amenés à rendre un certain nombre de sous-traitants destinataires 
   
 \- la sécurisation des paiements;  
 \- la gestion des assurances souscrites;  
-\- l'optimisation de notre plateforme et de l'envoi de nos newsletetrs. A cette fin, nous avons recours à un prestataire situé aux Etats-Unis, titulaire de la certification Safe Harbor;  
-\- le traitement des appelrs téléphoniques dans le cadre de notre service clients.  
+\- l'optimisation de notre plateforme et de l'envoi de nos newsletters. A cette fin, nous avons recours à un prestataire situé aux Etats-Unis, titulaire de la certification Safe Harbor;  
+\- le traitement des appels téléphoniques dans le cadre de notre service clients.  
   
 Nous sommes également amenés à partager certaines informations avec Rakuten, Inc., notre société-mère située au Japon, à des fins marketing et de reporting interne.  
   
