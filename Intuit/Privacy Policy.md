@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  ELENA
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13531638914
+true true L13655801069
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p08.jcpenney.com SERVER NAME :->. dtcompr1c2j2 TIME :->. Sun May 31 11:07:20 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p36.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Mon Jun 01 11:01:55 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,14 +47,13 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   last day!  
-    huge sale  
-    up to 50% off
-    
-    select styles
-    
-*   home sale  
+*   3 days only  
     30-50% off
+    
+    select home
+    
+*   3 days only  
+    extra 20% off
     
     select styles
     
@@ -72,21 +71,38 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Last Day! In Store &. Online
+*   3 Days Only
     
-    Huge Sale -- Up to 50% Off Select Styles shop now view store ad shop women shop baby shop kids shop shoes shop men shop jewelry shop lingerie shop bedding shop kitchen &. dining shop home decor shop window shop furniture
+    Online Only | June 1-3 | Code: RDY2SAVE
     
-    Last Day | In Store Only! | $20 Off $50 Bonus Cash!
+    get details:
     
-    Earn a $20 off $50 Bonus Cash Coupon when you spend $100 or more in store on Home. Redeemable 6/1/15-6/13/15 on home purchases only.
+    50% Off\*
     
-    Some restrictions and exclusions apply. See store associate for details.
+    shop window shop bedding and bath shop luggage
     
-*   Home Sale
+    40% Off\*
     
-    30-50% Off select styles.
+    shop home decor shop furniture and mattresses
     
-    shop the home sale shop the home style book shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage  
+    30% Off\*
+    
+    shop kitchen &. dining shop vacuums and floorcare shop storage and orgainzation
+    
+    \*Selecct orig and reg-priced items. Exclusions apply.
+    
+*   3 Days Only
+    
+    Online Only | June 1-3 | Code: RDY2SAVE
+    
+    get details:
+    
+    20% Off\* select orig, reg, sale and clearance-priced items.
+    
+    shop men shop women shop kids shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop custom blinds and shades shop clearance
+    
+    \*exclusions apply
+    
 *   Summer Essentials
     
     40 to 50% Off Men's St. John's Bay
@@ -111,7 +127,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     orig. $34
     
-    shop st. john's bay cargo shorts
+    shop st. john's bay cargo shorts  
 *   Splash Into Savings Up to 50% Off Swim For The Family
     
     Select styles.
