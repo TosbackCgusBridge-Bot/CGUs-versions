@@ -190,4 +190,4 @@ If you have comments on the Service or ideas on how to improve it, please send e
 
 The information contained in this web site is subject to change without notice.  
 Copyright © 2006-2015 Spiceworks, Inc. All rights reserved.  
-Spiceworks, Inc. 7300 FM 2222, Bldg 3, Suite 100, Austin, TX 78730, USA
+Spiceworks, Inc. 3700 North Capital of Texas Highway #100, Austin, TX 78746, USA
