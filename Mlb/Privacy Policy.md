@@ -51,8 +51,8 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Must C
     *   Chatting Cage
     *   DraftKings
-    *   Clean Starts
-    *   Season of the Whiff
+    *   Soak Up Summer
+    *   #Whiffs
     *   Daily Dash
     *   Cut 4
     *   MLB Pipeline
