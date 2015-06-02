@@ -18,7 +18,7 @@ Change country/language X
 *   Menu
 
 *   Products
-    *   Top products
+    *   All products
     *   AutoCAD
         *   AutoCAD
         *   AutoCAD LT
@@ -35,12 +35,11 @@ Change country/language X
     *   Product Design Suite
     *   Revit
     *   SketchBook Pro
-    *   All products &. suites
     *   File viewers
+    *   All viewers
     *   DWG
     *   DWF
     *   Online viewer
-    *   All viewers
     *   Solutions
     *   Industry solutions
         *   Simulation
@@ -57,19 +56,19 @@ Change country/language X
     *   System requirements
     *   Updates, hotfixes &. service packs
     *   Customer service
+    *   All customer service
     *   Installation, activation, licensing
     *   Account management
-    *   All customer service
     *   Events &. Training
     *   Classes on demand
     *   Events
     *   Training &. certification
     *   Community resources
+    *   All communities
     *   Blogs
     *   Developer network
     *   Forums
     *   Students &. educators
-    *   All communities
     *   Services
     *   Consulting
     *   Partner apps
@@ -79,7 +78,6 @@ Change country/language X
     *   File viewers
     *   Updates &. service packs
 *   Buy
-    *   Buy
     *   Buy online
     *   Find a reseller
     *   Special offers
