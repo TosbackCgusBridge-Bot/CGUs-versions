@@ -1,6 +1,6 @@
-RIDE YOUR DREAM FOX GIVEAWAY
+It’s all about the blues.
 
-Enter Now.
+Shop jeans now.
 
 Guest Services 800-607-9788
 
