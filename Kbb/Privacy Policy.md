@@ -1,6 +1,6 @@
 KBB Privacy Statement
 
-This statement is effective as of 5/6/2014.
+This statement is effective as of 6/2/2015. Please see previous version here.
 
 Introduction
 
@@ -48,9 +48,7 @@ Information We Collect
 
 Information is gathered from the KBB Sites by us, our service providers, advertisers, sponsors and partners.
 
-Information You Provide.
-
-We may collect information that you choose to provide on the KBB Sites in a variety of ways, such as when you:
+Information You Provide. We may collect information that you choose to provide on the KBB Sites in a variety of ways, such as when you:
 
 1.  register for one of our products or services. This information may include your name, address, telephone number, email address, Social Security Number, and credit information;
 2.  make information available to us via social networking logins, such as Facebook or Twitter;
@@ -60,38 +58,26 @@ We may collect information that you choose to provide on the KBB Sites in a vari
 6.  subscribe to newsletters or provide feedback. and
 7.  participate in surveys, sweepstakes or other promotions.
 
-Automated Information.
-
-Information regarding your use of the KBB Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
+Automated Information. Information regarding your use of the KBB Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
 
 1.  your IP address, the type of browser and operating system used;
 2.  date and time you access the KBB Site and pages you visit, and if you linked from or to another website, the address of that website;
 3.  email you open and links you click on within those email. and
 4.  your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
-Data Technologies.
-
-Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as "Data Technologies"). "Cookies" are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. "Local shared objects," sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
+Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as "Data Technologies"). "Cookies" are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. "Local shared objects," sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
 
 One or more Data Technologies may be used on the KBB Sites and other websites and mobile applications (that may not be the KBB Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.
 
 We may use a uniquely generated trackable toll-free telephone number on dealer sites or in advertisements. If you call one of these uniquely generated toll-free numbers, we (or a service provider acting on our behalf) may collect non-personally identifiable information about the call (e.g. date, time, duration), as well as personally identifiable information (e.g. your name, the number from which your call originated).
 
-Videos
+Videos We may target and track the videos you view on the Site. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law.
 
-We may target and track the videos you view on the Site. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law.
+Location Information. When you download or use the KBB Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device ("Location Information"). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the KBB Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, dealers in the area, and directions.
 
-Location Information.
+Publicly Posted Information. Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law.
 
-When you download or use the KBB Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device ("Location Information"). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the KBB Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, dealers in the area, and directions.
-
-Publicly Posted Information.
-
-Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law.
-
-Combined Information and Information from Other Sources.
-
-We may combine information that you provide to us, directly or indirectly, through our affiliates and other sources, and also with other information that is automatically collected. The combined information may include information about your use of the KBB Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources.
+Combined Information and Information from Other Sources. We may combine information that you provide to us, directly or indirectly, through our affiliates and other sources, and also with other information that is automatically collected. The combined information may include information about your use of the KBB Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources.
 
 How We May Use the Information We Collect
 
@@ -126,7 +112,7 @@ Information We Share
 
 We do not sell or otherwise share information about you that we collect or receive, except as described below:
 
-1.  Affiliates. We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.
+1.  Affiliates. We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies. Please visit http://www.coxautoinc.com/ for more information about our affiliates.
 2.  Our Service Providers. We may engage third parties to provide the services offered through or in connection with the KBB Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.
 3.  Co-Sponsored Promotions. In the event that you participate in a survey, sweepstakes, contest or other promotion that is co-sponsored by KBB and a third party, we may share information collected in conjunction with the survey, sweepstakes, contest or promotion, including personal information, with that third party. After the information is provided to those third parties, the subsequent use or disclosure of such information is subject to their privacy policies and practices. Surveys, sweepstakes and other promotions conducted on behalf of KBB and a third party will include branding from both KBB and the third party.
 4.  Promotions on behalf of Third Parties. Periodically, third parties may conduct surveys, contests, sweepstakes and other promotions for their own purpose on the KBB Sites. Information you provide in response to those activities is governed by their privacy policies. Surveys, sweepstakes and other promotions conducted solely for the purpose of a third party will include only the third party’s branding.
@@ -153,7 +139,7 @@ You are entitled to make certain choices about how we communicate with you.
 1.  You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.
 2.  If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.
 3.  If you do not want to receive interest-based advertisements, you can opt out as discussed in the "Advertising Networks" section above.
-4.  You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at Evidon.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
+4.  You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at www.ghosteryenterprise.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
 5.  If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
 
 Your California Privacy Rights
