@@ -31,30 +31,7 @@ Salary Calculator Job Title_Ex. Registered Nurse, Sales Manager, etc._ Location_
 Do you need highly robust compensation data segmentation tools?  
 Visit our Compensation Portal
 
-Find Jobs on CareerBuilder.com Skip to Content
-
-*   My CareerBuilderMy CareerBuilder
-*   Find Jobs
-*   Resumes
-*   Recommendations
-*   Resources
-*   Sign in
-    *   Sign in
-    *   My Account
-    *   Sign Out
-*   Employers
-    *   Employers
-    *   Search Resumes
-    *   Post Jobs
-
-*   Sign in
-*   Resumes
-*   Recommendations
-*   Saved Jobs
-*   Saved Searches
-*   Send Feedback
-
-Search Keywords Ex. Registered Nurse or Sales Location Ex. Chicago IL or 60607 Save a Search >>. Saved Searches Need Help? help center
+Need Help? help center
 
 *   job seekers
 *   Find Jobs
