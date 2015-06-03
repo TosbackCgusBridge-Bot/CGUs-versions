@@ -9,8 +9,6 @@ Seeking Alpha
 
 *   Portfolio Strategy
 
-*   Dividends &. Income
-
 *   INSIGHT CENTERS
 *   Alt Investing
 
