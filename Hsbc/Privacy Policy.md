@@ -67,9 +67,7 @@ Menu Explore HSBC.com Search
     *   Investing in HSBC expandInvesting in HSBC
         *   Annual General Meeting
         *   Latest financial information
-        *   Investor update 2013
-        *   Investor Day 2012
-        *   Investor Day 2011
+        *   Investor Update 2015
         *   Fast facts
     *   Share information expandShare information
         *   Equity analyst coverage
