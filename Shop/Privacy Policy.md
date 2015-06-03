@@ -34,16 +34,19 @@ LENOVO Menu
     *   Help placing an order 24 hours a day, 7 days a week  
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
-        Outlet sales: Call 1-877-698-4465, Option 1  
+        Monday - Friday 9am-9pm (EST)  
+        Saturday 9am-5:30pm (EST)  
           
+        Outlet sales: Call 1-877-698-4465, Option 1  
         Monday - Friday 9am-9pm EST  
         Saturday 9am-5:30pm EST
     *   Help with an existing order Check order status online - track by order number  
           
-        Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
+        Monday - Friday 9am - 6pm (EST)  
           
-        Monday - Friday 9am-9pm  
-        Saturday - Sunday 9am-5:30pm (EST)
+        Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
+        Monday - Friday 9am-9pm (EST)  
+        Saturday 9am-5:30pm (EST)
     *   Technical Support
         1.  Laptop, Desktop, Tablet, Workstation and ThinkServer Support PC, Tablet, Workstation or ThinkServer support information
         2.  Servers, Storage &. Networking Support information for System x issues and questions
