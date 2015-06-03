@@ -13,9 +13,9 @@ Skip to main content Military Students | International Students | Education Reso
     *   Technology
     *   Vocational Training
 *   Online Certificates
-*   Transfer Students
 *   Online Colleges
-*   Match Me to a College
+*   Transfer Students
+*   Military Scholarship
 *   Popular Degrees
     *   Accounting Degrees
     *   Business Administration
