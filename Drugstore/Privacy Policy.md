@@ -1,11 +1,3 @@
-**TRUSTe Licensee**
-
-**TRUSTe Licensee** drugstore.com, inc. wants you to feel secure when visiting www.drugstore.com and is committed to maintaining your privacy when you do so. This privacy policy explains our policies and practices regarding the collection, use, storage, and disclosure of your personal information by drugstore.com, inc. ("drugstore.com", "we", "us").  
-  
-We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. This statement discloses the privacy practices for www.drugstore.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
-  
-If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@drugstore.com. If you are not satisfied with our response you can contact TRUSTe here.  
-  
 **Information We Collect**  
 We recognize your right to confidentiality and are committed to protecting your privacy. We use the information that we collect on our websites to provide you with a superior shopping experience and to communicate with you about products, services, and promotions.  
   
@@ -105,5 +97,5 @@ Bellevue, WA 98004
   
 1-800-drugstore (1-800-378-4786)  
   
-Last updated: April 11, 2013  
-Copyright © 2013 drugstore.com, inc. All rights reserved.
+Last updated: June 2, 2015  
+Copyright © 2015 drugstore.com, inc. All rights reserved.
