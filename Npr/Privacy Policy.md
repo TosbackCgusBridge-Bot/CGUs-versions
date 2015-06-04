@@ -261,7 +261,7 @@ Support The Programs You Love
     *   First Listen
     *   Songs We Love
     *   Music Articles
-    *   Tiny Desk Concerts
+    *   Tiny Desk
     *   Videos
 *   Programs
     *   All Things Considered
