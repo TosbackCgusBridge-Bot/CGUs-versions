@@ -15,7 +15,7 @@ LENOVO Menu
         3.  Desktops Sale
         4.  Tablets Sale
         5.  Accessories Deals
-        6.  Ecoupon Page
+        6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
     *   Deals and Steals Nab these Deals Before they're Gone
@@ -35,18 +35,19 @@ LENOVO Menu
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 1  
         Monday - Friday 9am-9pm (EST)  
-        Saturday 9am-5:30pm (EST)  
+        Saturday 9am-6pm (EST)  
           
         Outlet sales: Call 1-877-698-4465, Option 1  
-        Monday - Friday 9am-9pm EST  
-        Saturday 9am-5:30pm EST
+        Monday - Friday 9am-9pm (EST)  
+        Saturday 9am-6pm (EST)
     *   Help with an existing order Check order status online - track by order number  
           
-        Monday - Friday 9am - 6pm (EST)  
           
         Call 1-855-2-LENOVO (1-855-253-6686), Option 2  
+          
         Monday - Friday 9am-9pm (EST)  
-        Saturday 9am-5:30pm (EST)
+        Saturday 9am-5:30pm (EST)  
+        Sunday Closed
     *   Technical Support
         1.  Laptop, Desktop, Tablet, Workstation and ThinkServer Support PC, Tablet, Workstation or ThinkServer support information
         2.  Servers, Storage &. Networking Support information for System x issues and questions
@@ -57,7 +58,8 @@ LENOVO Menu
         Monday - Friday, 9am - 5:30pm (EST)
     *   Need More Help? More ways to contact Lenovo
 
-Lenovo recommends Windows.
+*   Call1-855-253-6686
+*   Lenovo recommends Windows.
 
 *   Email Sign-Up
 *   For Work
