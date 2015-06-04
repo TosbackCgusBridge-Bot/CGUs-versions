@@ -1,4 +1,4 @@
-Search × Site / Articles City / Country Social × Share this page / Follow us on: Facebook Tweet Follow Twitter Google+ Visit us on:
+Search × Site / Articles City / Country Social × Share this page / Follow us on: Facebook TweetFollow Twitter Google+ Visit us on:
 
 *   My accountBack
     *   My Location
@@ -72,8 +72,7 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
     *   Weekday Calculator
     *   Week Number Calculator
 *   Apps &. APIBack
-    *   iPad Apps
-    *   iPhone Apps
+    *   iOS Apps
     *   Android Apps
     *   Windows 8 Apps
     *   Free Clock
