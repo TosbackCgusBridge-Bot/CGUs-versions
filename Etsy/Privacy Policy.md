@@ -155,12 +155,4 @@ Etsy reserves the right to modify this privacy policy at any time, so please rev
 
 Contact Etsy
 
-If you have questions about personal information or suggestions you can contact Etsy’s Support team via our Help Center, by sending an email to legal@etsy.com, or contact us at one of the following addresses: In the US: Etsy Support Team – Privacy Policy. 55 Washington Street, Suite 512. Brooklyn, NY 11201, USA, or Outside of the US: Etsy Support Team – Privacy Policy. The Digital Exchange, Crane Street, The Digital Hub, Dublin 2 Ireland. Our telephone: +1 (718) 855-7955.  We will respond to you within 30 days of receipt of your correspondence. 
-
-Related articles
-
-*   Privacy Policy
-*   Cookies &. Tracking Technologies
-*   Unavailable Items With No Photos
-*   Gift Cards Terms of Use - Canadian Dollars (CAD)
-*   Gift Cards Terms of Use (French) - Canadian Dollars (CAD)
+If you have questions about personal information or suggestions you can contact Etsy’s Support team via our Help Center, by sending an email to legal@etsy.com, or contact us at one of the following addresses: In the US: Etsy Support Team – Privacy Policy. 55 Washington Street, Suite 512. Brooklyn, NY 11201, USA, or Outside of the US: Etsy Support Team – Privacy Policy. The Digital Exchange, Crane Street, The Digital Hub, Dublin 2 Ireland. Our telephone: +1 (718) 855-7955.  We will respond to you within 30 days of receipt of your correspondence.
