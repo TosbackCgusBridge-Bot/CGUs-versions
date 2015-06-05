@@ -1,4 +1,4 @@
- Menu
+Skip to main content  Menu
 
 *   Claims
 *   Log In
@@ -151,6 +151,7 @@ Connect
 
 *   Home
 *   Site Map
+*   Website Accessibility
 *   Technical Help
 *   Privacy &. Security
 *   Terms of Use
