@@ -1,6 +1,4 @@
-**Hey there!** We’ve updated our Privacy Policy — you can check out the new version here.
-
-OK Terms of Service
+Terms of Service
 
 **Last Updated on November 27, 2012**. These terms and conditions are effective immediately for those registering accounts after that date and will become effective December 27, 2012 for those with pre-existing accounts. To review the previous terms, please click here.
 
