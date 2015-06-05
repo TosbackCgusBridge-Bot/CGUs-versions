@@ -18,17 +18,15 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
-    *   Deals and Steals Nab these Deals Before they're Gone
+    *   Spring Into Summer Take the Leap! These Savings Won't Last.
         
-        Save up to 81% Site-Wide
+        Save up to 80% Site-Wide
         
     *   Need it Quick?
         
         We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
         
-    *   Warranty Sale Protect and Save
-        
-        With up to 20% Select Warranties
+    *   Dads and Grads Gift Guide Celebrate Dads &. Grads with a Gift They'll Love
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
@@ -61,6 +59,7 @@ LENOVO Menu
 *   Call1-855-253-6686
 *   Lenovo recommends Windows.
 
+*   Phone
 *   Email Sign-Up
 *   For Work
     *   Small Business
