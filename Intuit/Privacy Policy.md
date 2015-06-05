@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  SHELLY
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13657889934
+true true C13542904877
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p34.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Wed Jun 03 07:39:22 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p09.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Thu Jun 04 10:45:22 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,13 +47,33 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   3 days only  
+In Store and Online
+
+Extra 20% Off\* with your JCPenney Credit Card.
+
+Or, Extra 15% Off\* with any other method of payment.
+
+Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
+
+Online Only Orders Over $100
+
+Extra 25% Off\* with your JCPenney Credit Card.
+
+Or, Extra 20% Off\* with any other method of payment.
+
+\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
+
+Ends June 6. ONLINE CODE: NEWCOLOR
+
+\*See exclusions and details. print coupon
+
+*   3 day sale
+    
+    dive into  
+    dad's day sale
+    
+*   home sale  
     30-50% off
-    
-    select home
-    
-*   3 days only  
-    extra 20% off
     
     select styles
     
@@ -65,44 +85,30 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
 *   splash into  
     savings  
-    up to 50% off  
-    family swim
+    up to 50% off
     
+    family swim  
     select styles
     
 
-*   3 Days Only
+*   Dive Into Dad's Day Sale Up To 50% Off\*
     
-    Online Only | June 1-3 | Code: RDY2SAVE
+    Select styles.
     
-    get details:
+    shop the sale view store adshop men's shop shoes shop grilling shop cutlery shop kids' shop luggage shop jewelry and watches shop furniture shop women's shop baby shop lingerie shop bedding Night and Day Doorbusters
     
-    50% Off\*
+    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
     
-    shop window shop bedding and bath shop luggage
+    shop doorbusters
+*   Home Sale 30-50% Off
     
-    40% Off\*
+    Select styles.
     
-    shop home decor shop furniture and mattresses
+    shop the home sale shop the home style book shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage40-50% Off Chairs and Recliners
     
-    30% Off\*
+    Select styles.
     
-    shop kitchen &. dining shop vacuums and floorcare shop storage and orgainzation
-    
-    \*Selecct orig and reg-priced items. Exclusions apply.
-    
-*   3 Days Only
-    
-    Online Only | June 1-3 | Code: RDY2SAVE
-    
-    get details:
-    
-    20% Off\* select orig, reg, sale and clearance-priced items.
-    
-    shop men shop women shop kids shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop custom blinds and shades shop clearance
-    
-    \*exclusions apply
-    
+    shop chairs and recliners
 *   Summer Essentials
     
     40 to 50% Off Men's St. John's Bay
@@ -115,7 +121,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     orig. $26
     
-    shop st. john's bay solid polo  
+    shop st. john's bay solid polo shop st. john's bay solid polo
     
     17.99 St. John's Bay Flat-Front Shorts
     
@@ -127,7 +133,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     orig. $34
     
-    shop st. john's bay cargo shorts  
+    shop st. john's bay cargo shorts St. John's Bay only at JCPenney
 *   Splash Into Savings Up to 50% Off Swim For The Family
     
     Select styles.
@@ -150,7 +156,11 @@ sign up today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-shop now Star Wars shop now Your Pocket-Sized Personal Shopper learn more about the app download on the App store get it on Google play
+shop now Just $5
+
+Get ALL your favorite magazines from TimeInc. today.
+
+shop now Your Pocket-Sized Personal Shopper learn more about the app download on the App store get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
