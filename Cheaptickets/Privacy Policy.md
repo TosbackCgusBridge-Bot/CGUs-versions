@@ -1,4 +1,4 @@
-wfqzxrceaabbfxyytxrf CheapTickets® Privacy Policy
+CheapTickets® Privacy Policy
 
 Effective April 3, 2013
 
