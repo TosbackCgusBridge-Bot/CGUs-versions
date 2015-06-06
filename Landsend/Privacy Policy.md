@@ -99,8 +99,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Kids
         *   Featured Shops
             *   Back to Kids Featured Shops
-            *   Digital Summer Catalog
             *   Swim Shop
+            *   Backpacks &. Lunch Boxes
             *   School Uniforms
             
             *   New Arrivals
@@ -169,8 +169,8 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
     *   *   Back to Main Menu Shoes &. Accessories
         *   Featured Shops
             *   Back to Shoes &. Accessories Featured Shops
+            *   Backpacks &. Lunch Boxes
             *   Water Shoes &. Sandals
-            *   Boots &. Booties
             *   Luggage &. Bags
             *   Totes
     *   *   Women
@@ -206,7 +206,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Home Featured Shops
             *   Supima Bed &. Bath
-            *   400 No Iron Bedding
+            *   No Iron Bedding
             *   Beach Essentials
             *   Canvas Totes &. More
             
@@ -229,6 +229,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
         *   Featured Shops
             *   Back to Uniforms Featured Shops
             *   Find Your School
+            *   Backpacks &. Lunch Boxes
             *   After School
             
             *   Polos that Perform
