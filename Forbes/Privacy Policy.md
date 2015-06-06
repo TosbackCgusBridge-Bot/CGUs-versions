@@ -121,7 +121,7 @@ Kids under 13: Do not send any information about yourself to us--including infor
 
 How to Contact Us
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at privacy@forbes.com. We read every message submitted and try to reply promptly to every one. Our mailing address is Forbes.com LLC, Customer Service, 60 Fifth Avenue, New York, NY 10011.
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at privacy@forbes.com. We read every message submitted and try to reply promptly to every one. Our mailing address is Forbes Media LLC, Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310.
 
 How Will I Know if the Privacy Policy Is Changed?
 
