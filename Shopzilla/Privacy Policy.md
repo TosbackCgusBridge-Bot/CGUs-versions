@@ -40,6 +40,7 @@ Connexity
     *   Publisher Monetization
     *   CPC Product Monetization
     *   CPM Display Monetization
+    *   Product Ads for Retailers
 *   About
     *   About Connexity
     *   Open Positions
