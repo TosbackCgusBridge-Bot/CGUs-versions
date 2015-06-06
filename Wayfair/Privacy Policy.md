@@ -450,7 +450,7 @@ The following terms and conditions (the "Terms") apply to any Wayfair electronic
 
 *   Gift cards are only valid in the United States of America and Canada. Void where prohibited.
 *   Gift cards can only be redeemed through one of the Wayfair websites.
-*   Gift cards cannot be used to purchase gift cards or gift cards.
+*   Gift cards cannot be used to purchase gift cards.
 *   Gift cards are not redeemable for cash and cannot be returned for a cash refund, except to the extent required by law.
 *   Use of the gift card is limited to the amount of funds held on the gift card. The full amount of each purchase, including taxes, will be deducted from the funds held on the gift card, up to the total funds available on the gift card. Any unused balance will be placed in the recipient's gift card account and is not transferable. If you make a purchase and there are insufficient funds held on the gift card to cover that purchase, you must pay the difference by a valid credit card or debit card.
 *   The risk of loss and title for gift cards pass to the purchaser upon our electronic transmission to the purchaser. We are not responsible for and will not replace lost or stolen gift cards. Protect your gift card as if it were cash and safeguard the gift card from authorized use.
