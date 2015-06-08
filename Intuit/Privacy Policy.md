@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13549626082
+true true C13550480645
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p17.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sat Jun 06 10:46:56 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p06.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Sun Jun 07 05:46:12 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,108 +47,81 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
-
-Extra 20% Off\* with your JCPenney Credit Card.
-
-Or, Extra 15% Off\* with any other method of payment.
-
-Or, Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.
-
-Online Only Orders Over $100
-
-Extra 25% Off\* with your JCPenney Credit Card.
-
-Or, Extra 20% Off\* with any other method of payment.
-
-\*Credit offers subject to credit approval. All offers apply to select original, regular, sale and clearance-priced items.
-
-Ends June 6. ONLINE CODE: NEWCOLOR
-
-\*See exclusions and details. print coupon
-
-*   3 day sale
+*   friends &  
+    family  
+    extra 25% off
+*   father's day  
+    is june 21
     
-    dive into  
-    dad's day sale
+    shop gifts
     
 *   home sale  
     30-50% off
     
     select styles
     
-*   men's summer  
-    essentials  
-    40-50% off
+*   diamond sale  
+    40-60% off
     
-    select styles
-    
-*   splash into  
-    savings  
-    up to 50% off
-    
-    family swim  
     select styles
     
 
-*   Dive Into Dad's Day Sale Up To 50% Off\*
+*   Friends and Family Extra 25% Off\*
     
-    Select styles.
+    Ends Tuesday! In store and online. ONLINE CODE: OURFMLY
     
-    shop the sale view store adshop men's shop shoes shop grilling shop cutlery shop kids' shop luggage shop jewelry and watches shop furniture shop women's shop baby shop lingerie shop bedding Night and Day Doorbusters
+    Extra 25% Off\* original, regular, sale and clearance priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades or an Extra 15% Off\* watches, salon products, optical and portrait.
     
-    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
+    \*See exclusions and details. view store ad print coupon shop men's shop women's shop men's shop kids' shop baby shop shoes shop jewelry and watches shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses
+*   Gifts For Dad
     
-    shop doorbusters
+    Father's Day is June 21.
+    
+    shop gifts for dad shop personal care shop apparel shop tech and travel accessories shop grilling and BBQ shop jewelry and watches shop for the home
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    shop the home sale shop the home style book shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage40-50% Off Chairs and Recliners
+    shop the home sale shop the home catalog shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
+    
+    Keurig
+    
+    shop coffee and tea
+*   Diamond Sale
+    
+    Ends Sunday, June 21.
+    
+    shop the diamond sale40-60% Off Fine Jewelry and Bijoux Bar
     
     Select styles.
     
-    shop chairs and recliners
-*   Summer Essentials
-    
-    40 to 50% Off Men's St. John's Bay
-    
-    Select styles
-    
-    shop men's st. john's bay
-    
-    12.99 St. John's Bay Solid Polo
-    
-    orig. $26
-    
-    shop st. john's bay solid polo shop st. john's bay solid polo
-    
-    17.99 St. John's Bay Flat-Front Shorts
-    
-    orig. $30
-    
-    shop st. john's bay flat-front shorts
-    
-    19.99 St. John's Bay Cargo Shorts
-    
-    orig. $34
-    
-    shop st. john's bay cargo shorts St. John's Bay only at JCPenney
-*   Splash Into Savings Up to 50% Off Swim For The Family
+    shop fine jewelry and Bijoux Bar20-50% Off Watches
     
     Select styles.
     
-      shop women's swim shop men's swim shop kids' swim shop swim shop women's swim shop men's swim shop kids' swim shop baby swim
+    shop watches30-60% Off Fashion Jewelry
+    
+    Select styles.
+    
+    shop fashion jewelry shop the jewelry ad
+    
+    $249.99 ea. 10K yellow or white gold 1/2 CT. T.W. diamond studs. Regularly $624.98 ea.
+    
+    shop diamond studs shop diamond jewelry
 
 What's New
 
 Refresh your closet for spring. See whats trending now.
 
-shop women shop women's shoes shop jewelry shop men shop home shop men's shoes Gifts for Dad
+shop women shop women's shoes shop jewelry shop men shop home shop men's shoes E-Gift Cards
 
-Father's Day is June 21.
+June 7 through 21. Online only! $10 Off $10 Coupon. Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable June 22 through July 5, 2015 in store and online. Some restrictions apply.
 
-shop all gifts shop gift cards JCPenney Rewards
+Gift Cards
+
+June 7 through 21. In store only! $10 Off $10 Bonus Cash!. Earn a $10 off $10 Bonus Cash Coupon when you purchase $75 in JCPenney gift cards. Redeemable June 22 through July 5, 2015. Some restrictions apply.
+
+get details and shop gift cards JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
@@ -156,11 +129,15 @@ sign up today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-shop now Just $5
+shop now People StyleWatch Must Haves
 
-Get ALL your favorite magazines from TimeInc. today.
+Sponsored content.
 
-shop now Your Pocket-Sized Personal Shopper learn more about the app download on the App store get it on Google play
+shop now Star Wars™ I Am Your Father's Day 2015 shop now Download and Get Shopping
+
+Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
+
+check out the app download on the App store get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
