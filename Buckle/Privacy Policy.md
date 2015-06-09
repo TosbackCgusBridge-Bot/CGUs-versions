@@ -1,6 +1,4 @@
-It’s all about the blues.
-
-Shop jeans now.
+Apply for a Buckle Credit Card today!
 
 Guest Services 800-607-9788
 
