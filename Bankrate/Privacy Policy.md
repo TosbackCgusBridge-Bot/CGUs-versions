@@ -167,8 +167,9 @@ If you have questions or concerns about our privacy practices or wish to make a 
 Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at webmaster@bankrate.com or in writing at:
 
 Bankrate, Inc.  
-11760 US HWY 1, Suite 200  
-North Palm Beach, FL 33408  
+3801 PGA Boulevard  
+Suite 555  
+Palm Beach Gardens, FL 33410  
 Attention: VP, Customer Service  
 Fax Number: (561) 630-2493
 
