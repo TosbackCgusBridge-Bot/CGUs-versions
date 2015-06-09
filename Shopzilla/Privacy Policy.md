@@ -37,7 +37,7 @@ Connexity
     *   Retargeting
     *   Multi-screen
     
-    *   Publisher Monetization
+    *   Site Monetization
     *   CPC Product Monetization
     *   CPM Display Monetization
     *   Product Ads for Retailers
