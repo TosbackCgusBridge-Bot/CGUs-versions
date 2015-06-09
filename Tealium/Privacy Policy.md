@@ -20,7 +20,7 @@
     *   Solution Briefs
     *   Webinars and Videos
 *   Company
-    *   About Us
+    *   About Tealium
     *   Blog
     *   Careers
     *   Leadership Team
