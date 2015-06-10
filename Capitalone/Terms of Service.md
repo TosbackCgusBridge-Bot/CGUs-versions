@@ -45,17 +45,18 @@ Menu
         *   Auto Loan Refinancing
         *   Auto Loan Calculators
         *   Auto Rates
-    *   Invest Expand Invest Menu With a Local Advisor
+    *   Invest Expand Invest Menu Team with an Advisor
         
         *   Invest Home
-        *   Invest with a Financial Advisor
+        *   Why Choose Our Advisors
         *   Wealth and Asset Management
         
-        Discover Sharebuilder
-        *   Why Sharebuilder?
-        *   View Pricing
+        Do It Yourself Online
+        *   Why Invest with Us
+        *   Compare Trade Prices
         *   Plan Your Retirement
-        *   Sign in to Sharebuilder
+        *   Open an Account
+        *   Sign In to Your Account
     *   Learn
     *   Contact
 *   Business - Selected
