@@ -1,4 +1,4 @@
-**reddit user agreement** _Last Revised Jan 15, 2015. Effective Jan 29, 2015_
+**reddit user agreement** _Last Revised June 9, 2015. Effective June 9, 2015_
 
 > reddit powers thousands of distinct online communities.  
 > these terms and your conduct make that possible.
@@ -133,7 +133,7 @@ DMCA copyright, the dmca, &. takedowns
 
 39 Misrepresentations of infringement can result in liability for monetary damages. You may want to consult an attorney before taking any action pursuant to the DMCA. Any DMCA request should be sent to this contact information:
 
-`Copyright Agent reddit, Inc. c/o Wired 520 Third St. San Francisco, CA 94107 copyright@reddit.com`
+`Copyright Agent reddit, Inc. 548 Market St., #16093 San Francisco, CA 94104-5401 copyright@reddit.com`
 
 40 Please send our Copyright Agent the following information:
 
