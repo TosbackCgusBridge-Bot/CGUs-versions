@@ -1,4 +1,4 @@
-Breaking News
+Breaking News Sign inMyCNN
 
 International Edition
 
@@ -9,7 +9,7 @@ International Edition
 *   Set edition preference
 *   Confirm
 
-Sign inMyCNN
+Toggle Search Search
 
 *   News
     *   World
