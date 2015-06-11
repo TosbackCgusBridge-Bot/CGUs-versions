@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (21)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  JENNIFER
+*   Hello  DENNIS
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (21)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13678066319
+true true 10.60.248.10 L13680179577
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p27.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Tue Jun 09 07:08:53 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Wed Jun 10 09:44:51 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,9 +47,30 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   friends &  
-    family  
-    extra 25% off
+In Store and Online
+
+Ends June 13. CODE: SUNSHINE
+
+$10 Off\* $25 or more.
+
+print couponOnline Only
+
+Ends June 13. CODE: SUNNYDAY
+
+Or, Extra 20% Off\* $100 or more.
+
+In Store and Online
+
+Ends June 13. CODE: SUNNYDAY
+
+Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details.
+
+*   starts now!  
+    super  
+    saturday  
+    sale
 *   father's day  
     is june 21
     
@@ -66,13 +87,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Friends and Family Extra 25% Off\*
+*   Super Saturday Sale
     
-    Ends Tuesday! In store and online. ONLINE CODE: OURFMLY
+    Starts now! In store and online. Father's Day is June 21.
     
-    Extra 25% Off\* original, regular, sale and clearance priced apparel, shoes, accessories, fine jewelry, home, furniture, mattresses and custom blinds and shades or an Extra 15% Off\* watches, salon products, optical and portrait.
+    shop the super saturday sale view store adUp To $30 Bonus Cash!
     
-    \*See exclusions and details. view store ad print coupon shop men's shop women's shop men's shop kids' shop baby shop shoes shop jewelry and watches shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattresses
+    June 10 through 21. In store only. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable June 22 through July 4, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+    
+    shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattressesNight and Day Doorbusters
+    
+    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
+    
+    shop doorbusters
 *   Gifts For Dad
     
     Father's Day is June 21.
@@ -82,11 +109,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Select styles.
     
-    shop the home sale shop the home catalog shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
-    
-    Keurig
-    
-    shop coffee and tea
+    shop the home sale shop the home catalog shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop comforters and bedding sets shop royal velvet
 *   Diamond Sale
     
     Ends Sunday, June 21.
