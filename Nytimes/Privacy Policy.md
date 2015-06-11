@@ -9,7 +9,7 @@ Search All NYTimes.com
 
 Help Help >. Permissions and Policies >. Privacy >. Privacy Policy Privacy Policy
 
-_Last Updated on April 29, 2015_
+_Last Updated on June 10, 2015_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), The New York Times Home Delivery website, The New York Times Neediest Cases Fund, The New York Times Store, Times Journeys and The New York Times Learning Network, our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -98,8 +98,6 @@ We may transmit non-personally identifiable website usage information to third p
 
 **Analytics, Log Files and Reading History**
 
-We have hired third parties to provide us information, reports and analysis about the usage, browsing patterns of users of the NYT Services.
-
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses (the region or general location where your computer or device is accessing the Internet), browser type, operating system and other usage information about the use of the NYT Services, including a history of the pages you view.
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, including customized Recommendations, advertising and currency display, to improve marketing, and to track access and use of the NYT Services across the devices that you use to access the NYT Services.
@@ -156,7 +154,7 @@ The New York Times will periodically send you email newsletters or promotional e
 
 **Within The New York Times**
 
-If you have registered to use the NYT Services, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission.
+If you have registered to use the NYT Services, we will not sell, rent, swap or authorize any third party to use your email address without your permission.
 
 In the future, we may sell, buy, merge or partner with other companies or businesses. In such transactions, we may include your information among the transferred assets.
 
@@ -189,6 +187,8 @@ We reserve the right to disclose your opt-out information to third parties so th
 **HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
 
 **The New York Times Home Delivery Web Account.** You may update and/or edit your Home Delivery account information online at the Home Delivery website by clicking on the link for Update Account. Should you require assistance, please call our toll free number, 1-800-NYTIMES.
+
+**Manage Your NYTimes.com Account in the My Account Area.** You may review and update your NYTimes.com membership or account information and access your transaction history in the My Account area.
 
 **Manage Your New York Times Events Account.** Events include TimesTalks, Great Read in the Park, Arts and Leisure Weekend, Sunday with The Magazine and The New York Times Travel Show. To subscribe or unsubscribe from The New York Times Events email newsletter, please visit www.nytimes.com/events. Enter your email address in the field provided, select "unsubscribe" and click "submit."
 
