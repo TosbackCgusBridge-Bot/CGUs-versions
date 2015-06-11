@@ -35,7 +35,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Sweets
 *   Specialty Foods
     *   HoneyGold Ham
-    *   Condiments
+    *   Mustards and Sauces
         
     *   Gluten Free
     *   Crackers
@@ -82,7 +82,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Sweets
 *   Specialty Foods
     *   HoneyGold Ham
-    *   Condiments
+    *   Mustards and Sauces
         
     *   Gluten Free
     *   Crackers
