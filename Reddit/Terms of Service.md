@@ -194,5 +194,3 @@ severability and enforcement
 changes to this user agreement
 
 55 This user agreement is the entire agreement between you and us concerning reddit. It supersedes all prior or contemporaneous agreements between you and us. We may modify this user agreement at any time. If we make changes to this agreement that materially affect your rights, we will provide advance notice and keep this edition available as an archive on the reddit website. By continuing to use reddit after a change to this agreement, you agree to those changes.
-
-56 this user agreement is effective as of Jan 29, 2015.
