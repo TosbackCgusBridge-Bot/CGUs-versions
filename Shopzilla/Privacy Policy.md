@@ -82,7 +82,7 @@ Toggle navigation ×
 
 Privacy Policy
 
-Last modified on: December 17th 2014
+Last modified on: June 10th 2015
 
 Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
 
