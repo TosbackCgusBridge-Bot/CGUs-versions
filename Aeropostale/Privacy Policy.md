@@ -75,16 +75,17 @@ Aéropostale Go
     *   Pants
     *   Shorts
     
-    *   SWIM
     *   UNDERWEAR + LOUNGE
     *   SHOES
     *   ACCESSORIES
 *   Room
     
-    *   Bethany's Room
+    *   Forever Island Room
     *   Aztec Room
+    *   Bethany's Room
     
     *   Bedding
+    *   Decorative Pillows
     *   Wall Decals &. Decor
     *   Accessories
 *   Clearance
