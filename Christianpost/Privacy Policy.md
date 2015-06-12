@@ -208,4 +208,4 @@ You agree that any claim, action, or proceeding arising out of these Terms and C
 *   Audio Bible
 *   iPost
 
-Copyright © 2015 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices. BREATHEcast wants to give you Christian Post Ad Free? Click Here
+Copyright © 2015 The Christian Post , INC. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. Ad choices.
