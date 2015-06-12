@@ -56,6 +56,7 @@ Need Help? help center
 *   legal
 *   Security &. Fraud
 *   Privacy Policy
+*   Text Only (508)
 *   Terms
 *   Ad Choices
 
