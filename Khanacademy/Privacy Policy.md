@@ -1,6 +1,8 @@
-Khan Academy Privacy Notice Last Updated: May 8, 2014
+Khan Academy Privacy Notice Last Updated: June 10, 2015
 
 _Our mission at Khan Academy is to provide a free, world-class education for anyone, anywhere._
+
+Khan Academy is a proud supporter of the Student Privacy Pledge to safeguard student privacy.
 
 Khan Academy Privacy Principles Our Privacy Notice is fueled by our commitment to the following Privacy Principles:
 
