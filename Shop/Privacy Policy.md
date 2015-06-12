@@ -18,7 +18,7 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
-    *   Spring Into Summer Take the Leap! These Savings Won't Last.
+    *   Dads and Grads Gifts for them. Savings for You.
         
         Save up to 80% Site-Wide
         
