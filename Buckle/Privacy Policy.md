@@ -61,16 +61,12 @@ My Bag (0) Wish List Search
     *   International Return Policy
 *   Promotions
     *   Fox Ride Your Dream Giveaway Official Rules
-    *   Buckle Card Double Points May 2015
     *   Spring Brand Event Official Rules 2015
     *   Tax Free Weekends 2015
-    *   Buckle Credit Card Water Bottle Offer
     *   Bench Gear Giveaway Official Rules
     *   Social Giveaway Official Rules
     *   Store Events
     *   Sweepstakes Winners
-    *   Find Your Denim Sweepstakes Rules
-    *   Bethany Hamilton Event
 *   Gift Cards/Services
     *   Gift Services
     *   Gift Card Donation Requests
