@@ -1,11 +1,11 @@
 Sign Up For  
 **FREE** Pattern Info! Tell A Friend!   Home   FAQ   Letters   Site Map    Cart     Click Here For A FREE E-mail Price List Of Pieces In Your Pattern(s)!    
 Replacements, Ltd.  
-Privacy and Security Statement
+Privacy Policy
 
-At Replacements, Ltd., we recognize that privacy is very important to our customers. Since we would like every customer to thoroughly enjoy their experience with us, we are dedicated to ensuring that your privacy is protected. The information below explains Replacements, Ltd.’s privacy and security statement.
+At Replacements, Ltd., we recognize that privacy is very important to our customers. Since we would like every customer to thoroughly enjoy their experience with us, we are dedicated to ensuring that your privacy is protected. The information below explains Replacements, Ltd.’s Privacy Policy.
 
-Our Privacy and Security Statement
+Our Privacy Policy
 
 When you place an order with us, or register for products or services, Replacements, Ltd. requests information from you that is required to complete your order or registration. We do not sell or rent your information to any third party. We never disclose any information to third parties for a third party’s direct marketing purposes.
 
@@ -79,9 +79,9 @@ As is standard practice on the Internet, our web servers record, in an industry-
 
 Your Consent
 
-By using our website, you signify your consent to the Privacy and Security Statement of Replacements, Ltd. Please check this page regularly, If we post an updated Privacy and Security Statement, you agree to the terms of the posted Privacy and Security Statement by your continued use of our website.
+By using our website, you signify your consent to the Privacy Policy of Replacements, Ltd. Please check this page regularly. If we post an updated Privacy Policy, you agree to the terms of the posted Privacy Policy by your continued use of our website.
 
-Last Updated: 05/11/2015
+Last Updated: 06/11/2015
 
 Home | FAQ | Letters | Site Map | Contact Us | Customer Service | Top  
   
