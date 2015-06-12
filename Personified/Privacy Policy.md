@@ -2,7 +2,8 @@ X Let us help you determine what you need Are you looking to buy a Job Posting o
 
 Sales: (877) 345-5256Support: (800) 891-8880
 
-*   Sign In
+*   Search for Jobs
+*   Employers Sign In
 
 _shoppingcart_ $0.00 Checkout Search form Search Main menu
 
