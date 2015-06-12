@@ -383,7 +383,7 @@ Rewards Rewards Dollars Earned 3% of Net Amount Shipping Fees for Qualifying Pur
 
 **Rewards Dollars Balance** Members can check the Rewards Dollars balance in their accounts at any time by logging in at My Account. A valid email address and password are required to view the Rewards Dollars balance in an account. Wayfair is not liable for any failure, delay or error in crediting Rewards Dollars to an account. Each Member is responsible for any and all activity occurring in or through his/her account, including the redemption of Rewards Dollars, whether or not the activity was authorized.
 
-**Expiration** If a Member does not make a Rewards-Eligible Purchase or use his/her Rewards Dollars during the applicable Redemption Period (see above), Wayfair will zero out any and all Rewards Dollars. A member may cancel out their Rewards Dollars Balance by calling 877-WAYFAIR (877-929-3247) and/or sending an email to service@wayfair.com, but Members recognized on any of the Participating Sites are unable to opt-out of the program.
+**Expiration** If a Member does not make a Rewards-Eligible Purchase or use his/her Rewards Dollars during the applicable Redemption Period (see above), Wayfair will zero out any and all Rewards Dollars. A member may cancel out their Rewards Dollars Balance by calling 866-263-8325 and/or sending an email to service@wayfair.com, but Members recognized on any of the Participating Sites are unable to opt-out of the program.
 
 **Non-Transferability and Non-Aggregation of Rewards Dollars** Rewards Dollars and any other right, obligation or benefit of the Rewards Program may not be transferred, assigned, sold, traded or bartered by any Member or any other person, without Wayfair's prior written consent, which Wayfair may withhold in its sole discretion, and any attempt to do any of the foregoing shall be null and void. In addition, Rewards Dollars are for the Member's personal use only. Members may not aggregate Rewards Dollars from multiple accounts or use Rewards Dollars for the purpose of purchasing products from the Participating Sites on behalf of others or for the purpose of reselling such products to others.
 
@@ -507,7 +507,7 @@ Thank you for your business.
 
 If you would like to submit a Purchase Order, please fax it to (866) 513-2570, or contact us:
 
-By Phone: 877-WAYFAIR (877-929-3247) or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594  
+By Phone: 866-263-8325 or (617) 880-8109 By Email: Email Us By Fax: (617)-880 8594  
 For Purchase Orders - (866) 513-2570 By Mail: Wayfair LLC  
 4 Copley Place, Floor 7  
 Boston, MA 02116
@@ -708,7 +708,7 @@ International Shipping
 
 Placing orders for delivery to Canada is quick and easy!
 
-Our zillions of products also ship to Canada. Duty, tax and shipping will be calculated in your shopping cart for a seamless checkout process. Feel free to call us at 877-WAYFAIR (877-929-3247) or email us with any questions you may have.
+Our zillions of products also ship to Canada. Duty, tax and shipping will be calculated in your shopping cart for a seamless checkout process. Feel free to call us at 866-263-8325 or email us with any questions you may have.
 
 How do I find items that ship to Canada?
 
