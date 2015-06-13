@@ -8,7 +8,7 @@ Skip to main content
 *   Businesses
     *   1.  Broadcast
             1.  NBC Entertainment NBC Entertainment Develops and schedules programming for the network’s primetime, late-night, and daytime schedules. NBC Entertainment
-            2.  NBC News NBC News Global leader in news across all broadcast and digital platforms including NBC Nightly News with Brian Williams, TODAY and Meet the Press. NBC News
+            2.  NBC News NBC News Global leader in news across all broadcast and digital platforms including NBC Nightly News, TODAY and Meet the Press. NBC News
             3.  NBC Olympics NBC Olympics Produces, programs and promotes NBCUniversal's multiplatform Olympics coverage, delivering the largest audiences in U.S. television history. NBC Olympics
             4.  NBC Sports NBC Sports Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more. NBC Sports
             5.  Telemundo Telemundo An industry leader in the production and distribution of high-quality Spanish-language content across its multiplatform portfolio. Telemundo
@@ -56,12 +56,6 @@ Skip to main content
             2.  Universal Studios Hollywood Universal Studios Hollywood Celebrate the 50th Anniversary of the world-famous Studio Tour and go behind the scenes to explore real film sets where Hollywood movies are made. Universal Studios Hollywood
             3.  Universal Studios Japan Universal Studios Japan Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Japan
             4.  Universal Studios Singapore Universal Studios Singapore Offers guests unique and popular entertainment experiences. Its renowned theme parks feature some of the world’s most thrilling film and TV based attractions. Universal Studios Singapore
-        9.  Content Distribution
-            1.  NBCUniversal Digital Distribution NBCUniversal Digital Distribution Oversees the digital licensing for current and future linear and on demand providers, operational delivery, and current season TV windowing strategy. NBCUniversal Digital Distribution
-            2.  NBCUniversal Domestic Television Distribution NBCUniversal Domestic Television Distribution Responsible for the sales and distribution of NBCUniversal product to broadcast television within the United States. NBCUniversal Domestic Television Distribution
-            3.  NBCUniversal Television &. New Media Distribution, US &. Canada NBCUniversal Television &. New Media Distribution, US &. Canada Responsible for the sales and distribution of NBCUniversal product to all forms of television within the U.S. and Canada. NBCUniversal Television &. New Media Distribution, US &. Canada
-            4.  NBCUniversal Television Networks Distribution NBCUniversal Television Networks Distribution Drives the distribution, marketing and local ad sales for the company's top-rated content portfolio to all multichannel video programming distributors. NBCUniversal Television Networks Distribution
-            5.  Telemundo Internacional Telemundo Internacional The international syndication and distribution arm of the US-based Telemundo and NBC UNIVERSO networks Telemundo Internacional
 *   Search
 *   Twitter
 *   Facebook
@@ -122,12 +116,7 @@ Skip to main content
                 *   Telemundo Studios
                 *   Universal Cable Productions
                 *   Universal Television
-            *   CONTENT DISTRIBUTION
-                *   NBCUniversal Digital Distribution
-                *   NBCUniversal Domestic Television Distribution
-                *   NBCUniversal Television &. New Media Distribution, US &. Canada
-                *   NBCUniversal Television Networks Distribution
-                *   Telemundo Internacional
+            
             *   INTERNATIONAL
                 *   CNBC International
                 *   NBCUniversal International Television
