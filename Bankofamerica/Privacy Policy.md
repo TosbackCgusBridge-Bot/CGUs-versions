@@ -339,11 +339,11 @@ Bank of America, N.A. Member FDIC. Equal Housing Lender
 
 Important Notice
 
-**You're continuing to another website**
+**You're going to another website**
 
-You're continuing to another website that Bank of America doesn't own or operate. Its owner is solely responsible for the website's content, offerings and level of security, so please refer to the website's posted privacy policy and terms of use.
+Before you go, we want you to know the site owner is responsible for what's on their site. Also, their privacy practices and level of security may be different from ours, so please review their policies.
 
-Continue Return to Bank of America Opt out of online behavioral advertising
+Continue Go back to Bank of America Opt out of online behavioral advertising
 
 When you opt out, we will not use information based on online Site behavior to provide online and offline tailored content and advertising to you, but you may still receive untailored advertising from Bank of America. In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.
 
