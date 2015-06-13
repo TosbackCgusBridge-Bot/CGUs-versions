@@ -18,6 +18,7 @@ Aéropostale Go
     *   Swim Shop
     *   Uniform
     *   Online Only
+    *   Extended Sizes
     
     *   TOPS
     *   Graphic Tees
@@ -60,6 +61,7 @@ Aéropostale Go
     *   Shop by Outfit
     *   Uniform
     *   Online Only
+    *   Extended Sizes
     
     *   TOPS
     *   Graphic Tees
