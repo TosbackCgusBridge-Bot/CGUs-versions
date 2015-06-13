@@ -303,6 +303,7 @@ PRIVACY FOR SURVEY RESPONDENTS
 *   Anti-Spam Policy
 *   Security Statement
 *   Email Opt-In
+*   Accessibility
 
 _°_
 
