@@ -53,6 +53,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   DraftKings
     *   Soak Up Summer
     *   #Whiffs
+    *   Big League Legends
     *   Daily Dash
     *   Cut 4
     *   MLB Pipeline
@@ -109,7 +110,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   At Bat app
     *   At Bat on Tablets
     *   At Bat on Apple iPad®
-    *   At Bat on Galaxy Phones
     *   MLB.com Ballpark app
     *   Beat the Streak
     *   MLB.com Home Run Derby
