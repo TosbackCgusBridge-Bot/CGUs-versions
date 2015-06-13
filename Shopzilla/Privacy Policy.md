@@ -82,21 +82,15 @@ Toggle navigation ×
 
 Privacy Policy
 
-Last modified on: June 11th 2015
+Last modified on: June 12th 2015
 
 Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint.
 
-The information here can be read at any time on our website, at www.connexity.com or via the link to “Privacy Policy”.
+The information here can be read at any time on our website, at http://connexity.com/privacy-policy/ or via the link to “Privacy Policy”.
 
 Data Controller
 
-The data controller for the collection, processing and use of data in connection with the use of our internet site is Connexity, Inc., 12200 West Olympic Boulevard, Suite 300, Los Angeles, CA 90064, California, USA,
-
-How we collect data
-
-We only collect data from websites we have a business relationship with. We anonymously collect data over time and across the network. We also use anonymous data from third party data providers who are contractually obligated to adhere to comparable privacy principles. This additional anonymous data is used to improve our audience database and make ads more interesting to you.
-
-Connexity uses a number of common technologies to identify devices that have been on the network before. These include HTTP cookies, HTML5 cookies, browser cache and entity tags. These are collectively called “persistence files” and are only used to synchronize the browser session with our server-side audience database. When you voluntarily Opt-Out of receiving behaviorally targeted advertising from Connexity, we also use these persistence tools to maintain your Opt-Out state indefinitely.
+The data controller for the collection, processing and use of data in connection with the use of our internet site is Connexity, Inc., 12200 West Olympic Boulevard, Suite 300, Los Angeles, CA 90064, California, USA, Tel: (310) 571-1235.
 
 General
 
@@ -119,10 +113,6 @@ On our website, you have the possibility of registering to receive our Newslette
 Disclosure to third parties
 
 Any disclosure to third parties of personal data communicated during use of our website will only occur under observance of the strict requirements of applicable national law. This would only be if you have consented to the disclosure of such data, if we are entitled to such disclosure under the statutory provisions and/or if such disclosure is required on the basis of laws, regulations, official or court orders. Disclosure to third parties for the purposes of advertising will not occur.
-
-Notice of changes to the privacy policy
-
-This Privacy Policy may change from time to time. In the event that we make material changes to the Privacy Policy which require either more prominent notification or your explicit consent, we will do so.
 
 Links to external websites
 
