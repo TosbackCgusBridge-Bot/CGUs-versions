@@ -136,9 +136,12 @@ Last update December 21, 2012
 *   Marketplace for Mobile
 *   Press
 *   Partner with Oodle
+*   Developer Center
 *   Safety Center
 *   Help
 *   » FAQ
+*   » Oodle Feeds
+*   » Oodle Feed FAQs
 *   » Privacy Policy
 *   » Terms of Use
 *   » Content Policies
