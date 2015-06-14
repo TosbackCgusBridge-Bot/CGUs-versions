@@ -19,6 +19,7 @@ Aéropostale Go
     *   Uniform
     *   Online Only
     *   Extended Sizes
+    *   Clearance
     
     *   TOPS
     *   Graphic Tees
@@ -62,6 +63,7 @@ Aéropostale Go
     *   Uniform
     *   Online Only
     *   Extended Sizes
+    *   Clearance
     
     *   TOPS
     *   Graphic Tees
