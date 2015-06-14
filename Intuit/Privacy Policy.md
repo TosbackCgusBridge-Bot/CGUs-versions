@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13565604702
+true true L13688299799
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Fri Jun 12 11:06:15 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Jun 13 08:37:43 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -41,6 +41,7 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 *   handbags &. accessories
 *   jewelry &. watches
 *   gifts
+*   beauty
 *   clearance
 
 **JavaScript is disabled in your browser.** Enable Javascript or upgrade to a Javascript capable browser to use jcp.com. click here for assistance.
@@ -67,7 +68,7 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
 
 \*See exclusions and details.
 
-*   starts now!  
+*   last day!  
     super  
     saturday  
     sale
@@ -89,7 +90,7 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
 
 *   Super Saturday Sale
     
-    Starts now! In store and online. Father's Day is June 21.
+    Last day! In store and online. Father's Day is June 21.
     
     shop the super saturday sale view store adUp To $30 Bonus Cash!
     
@@ -112,7 +113,7 @@ Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and cu
     shop the home sale shop the home catalog shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop comforters and bedding sets shop royal velvet
 *   Diamond Sale
     
-    Ends Sunday, June 21.
+    Sunday, June 7 through Sunday, June 21.
     
     shop the diamond sale40-60% Off Fine Jewelry and Bijoux Bar
     
