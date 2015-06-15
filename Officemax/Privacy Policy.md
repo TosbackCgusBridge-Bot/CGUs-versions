@@ -160,17 +160,12 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
 *   Sign up to receive SPECIAL OFFERS to your inbox.
 *   Sign up to receive SPECIAL OFFERS to your mobile phone.
 
- 
-
 *   Social
 *   Mobile Apps
-
- 
 
 *   *   Products
     *   Ativa®
     *   Gift &. Rewards Cards
-    *   GreenerOffice
     *   Products A-Z
     *   Top Categories
     *   Write a Product Review
@@ -178,6 +173,7 @@ Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports prog
         Special Programs
     *   5% Back to Schools Program
     *   Environmental Programs
+    *   Veterans Advantage
 *   *   Business Services
     *   Business Solutions Center
     *   Business Form Templates
