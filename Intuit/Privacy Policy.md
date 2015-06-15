@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13688299799
+true true C13568037998
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p15.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Jun 13 08:37:43 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p01.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sun Jun 14 07:15:26 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -41,127 +41,91 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 *   handbags &. accessories
 *   jewelry &. watches
 *   gifts
-*   beauty
 *   clearance
 
 **JavaScript is disabled in your browser.** Enable Javascript or upgrade to a Javascript capable browser to use jcp.com. click here for assistance.
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store and Online
-
-Ends June 13. CODE: SUNSHINE
-
-$10 Off\* $25 or more.
-
-print couponOnline Only
-
-Ends June 13. CODE: SUNNYDAY
-
-Or, Extra 20% Off\* $100 or more.
-
-In Store and Online
-
-Ends June 13. CODE: SUNNYDAY
-
-Or, Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details.
-
-*   last day!  
-    super  
-    saturday  
-    sale
-*   father's day  
-    is june 21
+*   vip event  
+    extra 25% off  
+    or 20% off
+*   nike sale  
+    20-25% off
     
-    shop gifts
+    select styles
     
 *   home sale  
     30-50% off
     
     select styles
     
-*   diamond sale  
-    40-60% off
+*   dorm shop  
+    30-50% off
     
     select styles
     
 
-*   Super Saturday Sale
+*   Dad's Day VIP Event
     
-    Last day! In store and online. Father's Day is June 21.
+    June 14-16 | In Store and Online | Father's Day is June 21
     
-    shop the super saturday sale view store adUp To $30 Bonus Cash!
+    Shop the Dad's Day VIP Event View Store AdExtra 25% Off\* with your JCPenney Credit Card
     
-    June 10 through 21. In store only. Earn $10 Bonus Cash for every $50 you spend in store. Redeemable June 22 through July 4, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+    Use Code: 1COOLDAD
     
-    shop women's shop men's shop kids' shop baby shop shoes shop jewelry shop lingerie shop home decor shop bedding and bath shop window shop kitchen and dining shop furniture and mattressesNight and Day Doorbusters
+    Or Extra 20% Off\* with any other form of payment.  
+    Or an Extra 10% Off\* watches, salon products, portrait, optical, furniture, mattresses and custom blinds and shades.
     
-    In store and online. Friday 3PM CDT through Saturday 1PM CDT. Use your coupon and save even more!
+    \*Credit offer subject to credit approval. All offers apply to select, org, reg, sale and clearance-priced items.
     
-    shop doorbusters
-*   Gifts For Dad
+    See exclusions and details: Print Coupon   Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Lingerie Shop HomeUp To $30 Bonus Ca$h!
     
-    Father's Day is June 21.
+    Ends June 21 | In Store Only!
     
-    shop gifts for dad shop personal care shop apparel shop tech and travel accessories shop grilling and BBQ shop jewelry and watches shop for the home
+    Earn $10 bonus cash for every $50 you spend in store. Redeemable June 22 through July 4, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+    
+*   Nike Sale -- 20 to 25% Off
+    
+    Select Nike styles only | Excluded from coupon | Ends Sat, June 20
+    
+    Shop Nike Sale Shop Men's Nike Shoes Shop Women's Nike Shoes Shop Kids' Nike Shoes Shop Men's Nike Apparel Shop Women's Nike Apparel Shop Kids' Nike Apparel
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    shop the home sale shop the home catalog shop bedding and bath shop window shop furniture and mattresses shop kitchen and dining shop home decor shop luggage shop comforters and bedding sets shop royal velvet
-*   Diamond Sale
+    Shop the Home Sale Shop the Home Catalog Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters and Bedding Dets
+*   Hello Dorm
     
-    Sunday, June 7 through Sunday, June 21.
+    Dorm 30 to 50% Off, select styles. Stock up on everything you need to transform your space.
     
-    shop the diamond sale40-60% Off Fine Jewelry and Bijoux Bar
-    
-    Select styles.
-    
-    shop fine jewelry and Bijoux Bar20-50% Off Watches
-    
-    Select styles.
-    
-    shop watches30-60% Off Fashion Jewelry
-    
-    Select styles.
-    
-    shop fashion jewelry shop the jewelry ad
-    
-    $249.99 ea. 10K yellow or white gold 1/2 CT. T.W. diamond studs. Regularly $624.98 ea.
-    
-    shop diamond studs shop diamond jewelry
+    Shop Dorm Dorm Checklist   Shop Backpacks Shop Coffee Shop Bedding Shop Organization Shop Bath Shop Decor Shop Kitchen
 
-What's New
+Just For You
 
-Refresh your closet for spring. See whats trending now.
+Discover personalized recommendations that fit your style.
 
-shop women shop women's shoes shop jewelry shop men shop home shop men's shoes E-Gift Cards
+Try it now: Gifts for Dad
 
-June 7 through 21. Online only! $10 Off $10 Coupon. Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable June 22 through July 5, 2015 in store and online. Some restrictions apply.
+Father's Day is June 21
+
+Shop all Gifts Shop Men's Apparel Shop Grilling and BBQ Shop Jewelry and Watches Shop Tech and Travel AccessoriesE-Gift Cards
+
+Ends June 21. Online only! $10 Off $10 Coupon. Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable June 22 through July 5, 2015 in store and online. Some restrictions apply.
 
 Gift Cards
 
-June 7 through 21. In store only! $10 Off $10 Bonus Cash!. Earn a $10 off $10 Bonus Cash Coupon when you purchase $75 in JCPenney gift cards. Redeemable June 22 through July 5, 2015. Some restrictions apply.
+Ends June 21. In store only! $10 Off $10 Bonus Cash! Earn a $10 off $10 Bonus Cash Coupon when you purchase $75 in JCPenney gift cards. Redeemable June 22 through July 5, 2015. Some restrictions apply.
 
-get details and shop gift cards JCPenney Rewards
+Get details and shop gift cards: JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
-sign up today SportsFanShop
+Sign up today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-shop now People StyleWatch Must Haves
-
-Sponsored content.
-
-shop now Star Wars™ I Am Your Father's Day 2015 shop now Download and Get Shopping
-
-Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
-
-check out the app download on the App store get it on Google play
+Shop now Star Wars™ I Am Your Father's Day 2015 Shop now Your Pocket-Sized Personal Shopper Learn more about the app: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
