@@ -1,4 +1,6 @@
-Apply for a Buckle Credit Card today!
+Shop our top
+
+gifts for Dad.
 
 Guest Services 800-607-9788
 
