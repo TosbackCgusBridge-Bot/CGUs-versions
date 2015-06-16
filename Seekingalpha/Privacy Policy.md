@@ -20,23 +20,25 @@ Seeking Alpha
 
 *   Income Investing
 
+*   MY ACCOUNT
+*   Email Settings
+
 *   PREMIUM
 *   Premium Authors
 *   *   Most Popular
     *   Newest
 
-*   Pro
+*   PRO
 *   *   Top Ideas
     *   First Look
     *   Idea Filter
 
 *   My Authors
-
 *   Portfolio
 *   News
 *   Articles
 *   StockTalk
-*   Alerts
+*   Marketplace
 *   PRO
 
 To screen ETFs by asset class, performance, yield and more, check out the ETF Hub. ETF Hub Home » Privacy Privacy
