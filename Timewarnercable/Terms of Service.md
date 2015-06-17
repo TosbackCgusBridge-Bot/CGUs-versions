@@ -207,7 +207,7 @@ Other Sites
 *   Connect a Million Minds
 *   TWC Sportsnet
 *   TWC Exclusives
-*   Espanol
+*   Español
 
 Follow Us
 
