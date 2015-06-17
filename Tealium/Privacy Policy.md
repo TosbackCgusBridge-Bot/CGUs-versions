@@ -182,7 +182,7 @@ From time to time, we may change this Privacy Statement to accommodate new techn
 
 If you have questions regarding this Privacy Statement or the information practices of the Tealium Website please contact the Tealium’s privacy team at privacy@tealium.com or by mailing Tealium’s Privacy Office, 11085 Torreyana Road, San Diego, CA 92121.
 
-Free Trial Join a Live Demo Contact Us | 888-622-2050 Copyright All Rights Reserved © 2008-2015
+Free Trial Schedule a Demo Contact Us | 888-622-2050 Copyright All Rights Reserved © 2008-2015
 
 *   Site Map
 *   Contact
