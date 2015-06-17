@@ -53,7 +53,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   DraftKings
     *   Soak Up Summer
     *   #Whiffs
-    *   Big League Legends
+    *   MLB Legends
     *   Daily Dash
     *   Cut 4
     *   MLB Pipeline
