@@ -81,6 +81,8 @@ My Bag (0) Wish List Search
     *   Alterations
     *   Layaway
 *   Buckle Credit Card
+    *   Buckle Credit Card
+    *   Buckle Card Payment Options
 *   Privacy &. Security
     *   Privacy Policy
     *   Privacy Policy - Applicant
