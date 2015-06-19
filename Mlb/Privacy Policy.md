@@ -70,6 +70,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
 *   Standings Standings Standings
     *   Regular Season Standings
     *   Wild Card Standings
+    *   Postseason Probabilities
     *   Spring Training Standings
     *   Tiebreaker rules
 *   Schedule Schedule Schedule
