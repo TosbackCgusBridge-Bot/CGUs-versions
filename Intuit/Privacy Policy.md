@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13576324210
+true true C13579795557
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Tue Jun 16 11:20:31 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1c2j1 TIME :->. Thu Jun 18 01:09:29 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,9 +48,25 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   vip event  
-    extra 25% off  
-    or 20% off
+In Store Only
+
+$10 Off\* $25 or more.
+
+Print CouponEnds June 21 | Online Only | CODE: DADSFAV
+
+Extra 15% Off\* Under $100  
+Or Extra 20% Off\* $100 or more  
+Or Extra 25% Off\* $200 or more.
+
+OR In Store and Online | CODE: DADSFAV
+
+Extra 10% Off\* select watches, salong products, furniture, mattresses and custom blinds and shades.
+
+\*See exclusions and details.
+
+*   our biggest  
+    dad's day  
+    sale
 *   nike sale  
     20-25% off
     
@@ -67,25 +83,23 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Dad's Day VIP Event
+*   Our Biggest Dad’s Day Sale
     
-    June 14-16 | In Store and Online | Father's Day is June 21
+    Ends June 21 | Father's Day is June 21
     
-    Shop the Dad's Day VIP Event View Store AdExtra 25% Off\* with your JCPenney Credit Card
-    
-    Use Code: 1COOLDAD
-    
-    Or Extra 20% Off\* with any other form of payment.  
-    Or an Extra 10% Off\* watches, salon products, portrait, optical, furniture, mattresses and custom blinds and shades.
-    
-    \*Credit offer subject to credit approval. All offers apply to select, org, reg, sale and clearance-priced items.
-    
-    See exclusions and details: Print Coupon   Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Lingerie Shop HomeUp To $30 Bonus Ca$h!
+    Shop the Dad's Day Sale View Store Ad   Shop Apparel Shop Jewelry and Watches Shop For the Home Shop Grilling and BBQ Shop Personal Care Shop Tech and Travel AccessoriesUp To $30 Bonus Ca$h!
     
     Ends June 21 | In Store Only!
     
-    Earn $10 bonus cash for every $50 you spend in store. Redeemable June 22 through July 4, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+    Earn $10 Bonus Cash for every $50 you spend in store. Redeemable June 22 through July 4, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
     
+    Night and Day Doorbusters
+    
+    Use your coupon and save even more!
+    
+    In Store and Online | Friday All Day through Saturday 1pm CDT.
+    
+    Shop Doorbusters Now
 *   Nike Sale -- 20 to 25% Off
     
     Select Nike styles only | Excluded from coupon | Ends Sat, June 20
@@ -95,7 +109,11 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Select styles.
     
-    Shop the Home Sale Shop the Home Catalog Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage Shop Comforters and Bedding Dets
+    Shop the Home Sale Shop the Home Catalog Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
+    
+    $39.99 JCPenney Home cotton classics twin reversible comforter, orig. $80
+    
+    Shop Comforters and Bedding Sets
 *   Hello Dorm
     
     Dorm 30 to 50% Off, select styles. Stock up on everything you need to transform your space.
@@ -126,7 +144,7 @@ Sign up today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop now Star Wars™ I Am Your Father's Day 2015 Shop now Your Pocket-Sized Personal Shopper Learn more about the app: Download on the App Store Get It On Google play
+Shop SportsFanShop Swim Styles for the Whole Family Shop Swim New Markdowns! Red Zone Clearance -- 50 to 80% Off Shop Clearance
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
