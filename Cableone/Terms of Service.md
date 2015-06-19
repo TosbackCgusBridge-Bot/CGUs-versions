@@ -6,22 +6,18 @@
     *   My Domain
 
 |  Home |  Contact Us Your Location:  
-Set New Location Set Your Location Set Your Location - Step 1 of 2 Close Window You are here: Set Your State Set Your State
+New Location Set Your Location Set Your Location - Step 1 of 2 Close Window You are here: Set Your State Set Your State
 
 Find and click on your state's button in the US map (below)  
 Setting your location will allow us to provide you with the most accurate information about our products and services. The dark blue shows the states currently served by Cable ONE. You may also set your location directly in the fields below.
 
-State:  
-AlabamaArizonaArkansasIdahoIowaKansasLouisianaMinnesotaMississippiMissouriNebraskaNew MexicoNorth DakotaOklahomaOregonSouth DakotaTennesseeTexasWashingtonClear Existing Location   - or - Zipcode:  
-    
-Save My Location You are here: Set Your State >. Set Your Location Set Your Location    Hover over a system to see the areas served. Click the system to set your location.  
+State: AlabamaArizonaArkansasIdahoIowaKansasLouisianaMinnesotaMississippiMissouriNebraskaNew MexicoNorth DakotaOklahomaOregonSouth DakotaTennesseeTexasWashington Clear Existing Location - or - Zipcode: You are here: Set Your State >. Set Your Location Set Your Location    Hover over a system to see the ares served. Click the system to set your location.  
 System Areas Served  
-You may also set your location directly in the fields below.  
 State:  
 City:  
 \- or - Zipcode:  
     
-Save My Location You are here: Set Your State >. Set Your City >. Set Your Location Set Your Location
+You are here: Set Your State >. Set Your City >. Set Your Location Set Your Location
 
 Click on the Continue button to set your location (below)  
 You may also set your location directly in the fields below.
