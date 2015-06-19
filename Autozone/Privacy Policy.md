@@ -15,6 +15,7 @@ Information Use
 AutoZone may share personal customer information provided to AutoZone with third parties who provide services and products to AutoZone. Examples of ways in which your information may be used include, but are not limited to, the following:
 
 *   Order fulfillment
+*   Redeeming AutoZone Gift Cards or AutoZone Merchandise Credits
 *   Marketing activities including direct mail, e-mail, database cleaning and maintenance, and analysis
 *   Customer experience enhancements
 *   Warranty management
