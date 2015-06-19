@@ -21,7 +21,7 @@ Skip to Content
 *   Saved Searches
 *   Send Feedback
 
-Find the Right Job. **Right Now.** KEYWORD LOCATION Advanced Search Add your resume today. Employers can find you without even applying to a job. ADD YOUR RESUME Popular **job searches** By Category
+Find the Right Job. **Right Now.** Keyword Location Advanced Search Add your resume today. Employers can find you without even applying to a job. Add Your Resume Popular **job searches** By Category
 
 Sales • Customer Service • Accounting • Entry Level • Administrative Assistant • Registered Nurse • Work from Home
 
