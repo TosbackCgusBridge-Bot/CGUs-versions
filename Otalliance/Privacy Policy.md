@@ -95,14 +95,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jun 16, 2015 IoT Trust Working Group
-
-The multi-stakeholder initiative to working to develop a security, privacy and sustainability trust framework for Internet of Things (IoT) devices. Intended to provide clarity and confidence to consumers as they shop and use connected devices, the framework will initially focus on connected home and wearable/fitness technologies. OTA’s vision is to use this framework as the basis for a potential certification program for IoT devices and their applications. Hosted in Mountain View, CA.   Attend this meeting to provide your input and help shape best practices.
-
-Wed, Jun 17, 2015 Internet of Things Privacy Summit
-
-As a founding non-profit partner of the TRUSTe IoT Privacy Summit, OTA is proud to support the 2015 Summit being hosted on June 17th and encourages companies of all sizes to attend.  OTA members may register and save 50% using the code ota50.  Register > 
-
 Tue, Jun 23, 2015 2015 Honor Roll &. Trust Audit – Accolades, Concerns &. Recommendations
 
 Join this webinar to better understand top level trends in consumer protection, data security and privacy. Speakers will share key learnings and provide attendees recommendations. Learn why this is good for your brand reputation, consumer trust and how to better secure your data from abuse and site from hacking.  Speakers include Sal Tripi AVP from Publishers Clearing House, Jeff Wilbur, VP Marketing of Iconix and Craig Spiezle, Executive Director, Online Trust Alliance.
