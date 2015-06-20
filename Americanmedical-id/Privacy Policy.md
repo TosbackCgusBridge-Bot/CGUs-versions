@@ -8,8 +8,6 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 This Privacy Policy covers www.AmericanMedical-ID.com - owned and operated by American Medical ID. This privacy policy describes how American Medical ID collects and uses the personal information you provide on our web site: www.AmericanMedical-ID.com. A separate privacy policy covering American Medical ID's Interactive Health Record is at http://www.myihr.com/home\_omr/privacypolicy.php. The personal health information that is stored in the Registry is solely for the use of those who place their health records in a personal file there. Any use of personal information described below does not apply to the Interactive Health Record.
 
-American Medical ID complies with the U.S.E.U. Safe Harbor framework and the U.S.Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. American Medical ID has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view American Medical IDs certification, please visit http://www.export.gov/safeharbor/.
-
 What is personally identifiable information (PII)?  
 What is aggregate information?  
 The information American Medical ID collects and how  
@@ -82,7 +80,7 @@ Your browser lets you erase or even block cookies if you don't want them on your
 
 Log Files - As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-We use local storage objects (LSs) such as HTML5 to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+We use local storage objects (LSs) such as HTML5 to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 and Flash to collect and store information.
 
 Various browsers may offer their own management tools for removing HTML5 LSs. To manage Flash LSOs please Click Here.
 
@@ -94,7 +92,7 @@ Back to top
 
 **How we secure personally identifiable information:**
 
-American Medical ID secures and encrypts personal information using Secure Socket Layer (SSL) technology whenever that information is transferred on the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+American Medical ID secures and encrypts personal information (such as credit card number) using Secure Socket Layer (SSL) technology whenever that information is transferred on the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 We use respected service providers outside of our company to verify credit card information and to detect fraudulent use of personal information.
 
@@ -112,9 +110,9 @@ We require, in particular, your email address and phone number so that we can co
 
 If you order an ID that will be worn by someone else, we retain any information you have us engrave on an ID for that person for as long as their account is active, but we don't use this data in any way once your order for the ID has been filled. Nor do we ever use contact information for relatives or health care providers that you place on an ID except to engrave your ID.
 
-We will retain your information for as long as your account is active or as needed to provide you services. After your order has been completed, American Medical ID must store your personally identifiable information (PII) in order to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at PrivacyOfficer@IdentifyYourself.com. Any further use of your PII is the subject of the statements below. Any further use of your PII is the subject of the statements below.
+We will retain your information for as long as your account is active or as needed to provide you services. After your order has been completed, American Medical ID must store your personally identifiable information (PII) in order to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at PrivacyOfficer@IdentifyYourself.com. Any further use of your PII is the subject of the statements below.
 
-We do not sell or share the personally identifiable information (PII)in the ways that are described in this Privacy Policy. All the information we collect from customers remains within our hands.
+We do not sell or share the personally identifiable information (PII)except in the ways that are described in this Privacy Policy. All the information we collect from customers remains within our hands.
 
 We don't supplement the PII we have about our customers with information from any third-party source.
 
@@ -132,9 +130,7 @@ Our system for handling mail and email requires that you receive an initial mail
 
 Even if you do initially choose to receive our mailings, you will have the opportunity to opt out of all further communications whenever you like. The means we provide for unsubscribing or opting out will take a minimum of time and effort on your part, as described above. Whatever method you use will remove you from our mail and email lists simultaneously, and from any other use of your personally identifiable information. Your request to stop receiving materials from us will be effective within 10 days after we receive the request.
 
-\>
-
-If you choose to use our gift card service to give a friend a gift card, we will ask you for your friends name and email address. American Medical ID stores this information for the sole purpose of the girt card.
+If you choose to use our gift card service to give a friend a gift card, we will ask you for your friends name and email address. American Medical ID stores this information for the sole purpose of the gift card.
 
 Your friend may contact us at PrivacyOfficer@IdentifyYourself.com to request that we remove this information from our database.
 
@@ -192,4 +188,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 American Medical ID, 949 Wakefield, Suite 100, Houston, Texas 77018 (800.363.5985)
 
-Last updated 16 October 2014
+Last updated 19 June 2015
