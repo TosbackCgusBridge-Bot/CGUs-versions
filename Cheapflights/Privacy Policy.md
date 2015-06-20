@@ -2,11 +2,9 @@ Privacy Policy
 
 Cheapflights.com, which is operated by Momondo Group Limited has created this privacy statement in order to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for Cheapflights.com as well as email newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
 
-  
 This Privacy Policy only applies to information collected on Cheapflights.com and not to information that is collected by Cheapflights through any other means. Your visit to Cheapflights.com is subject to this Privacy Policy and our Terms of Use  
   
 **1\. Personal Information Collection and Use**  
-  
 
 We do not collect personally identifiable information about you, except when you provide it to us. For example, if you submit a question to us, sign up for our weekly newsletters or a sweepstakes on Cheapflights.com, you may be asked to provide certain information such as your contact information (name, email address, mailing address, etc.).  
   
@@ -18,7 +16,7 @@ We may retain other companies and individuals to perform functions on our behalf
   
 In addition, we may disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal proceeding or governmental request.
 
-**2\. E-mail addresses**
+**2\. Email addresses**
 
 We do not want you to receive unwanted email from us. We try to make it easy to opt-out of any service you have asked to receive. If you sign-up to our email newsletters we do not sell, exchange or give your email address to a third party.
 
@@ -47,7 +45,7 @@ If your e-mail address changes, or if you no longer desire our service, you may 
 Tracking technologies are set up via the Cheapflights newsletter to monitor open and click performance. Cookies are only used once a user enters the Cheapflights.com Web site in order to identify, discriminate and count the unique users visiting our Web site.
 
 **5\. Cookies**  
-  
+
 Cheapflights uses cookies to improve user experience such as improving navigation and relevancy of product and information on the site. Your web browser should allow you to choose whether or not to allow cookies - you can still use our site if you have them disabled. For more information on cookies, visit www.cookiecentral.com.
 
 **6\. Third Party Sites and Booking Tools**  
