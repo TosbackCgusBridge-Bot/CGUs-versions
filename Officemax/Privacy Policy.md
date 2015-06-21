@@ -12,11 +12,11 @@ SEG1 hp
 
 Weekly Ad Office Depot Deals
 
-Search Suggestions
-
-Your recent searches
+Recommended Products
 
 Category Matches
+
+Your recent searches
 
 *   Stores
 *   Account
@@ -142,78 +142,71 @@ The company serves consumers and businesses in 57 countries with more than 2,000
   
 Office Depot, Inc.s charitable arm, The Office Depot Foundation, supports programs that enhance quality of life for children, strengthen communities, encourage local and international economic growth, and empower schools and non-profit organizations. Office Depot and OfficeMax also provides resources and support to small businesses through its Business Solutions Center. The center provides informative tips, advice, articles, videos and more designed to help businesses achieve their goals.
 
-*   Give them a gift card.  
-    Never expires, ships for free
-    
-*   Sign up for a credit card  
-    and get special financing options
-    
-*   10% back in rewards every day  
-    paper | ink | toner | copy | print | ship
-    
+Give them a gift card.  
+Never expires, ships for free
 
-*   1-800-GO-DEPOT (1-800-463-3768)
+Sign up for a credit card  
+and get special financing options
 
-*   Live Chat
-*   Email Us
+10% back in reward points on ink, toner,  
+paper and copy/print/ship purchases
 
-*   Sign up to receive SPECIAL OFFERS to your inbox.
-*   Sign up to receive SPECIAL OFFERS to your mobile phone.
+1-800-GO-DEPOT (1-800-463-3768) Live Chat   Email Us     Sign up to receive SPECIAL OFFERS to your inbox.   Sign up to receive SPECIAL OFFERS to your mobile phone. Social       Mobile Apps   
 
-*   Social
-*   Mobile Apps
+*   Products
+*   Ativa®
+*   Foray™
+*   Gift &. Rewards Cards
+*   GreenerOffice
+*   Products A-Z
+*   Top Categories
+*   Write a Product Review
+*   Special Programs
+*   5% Back to Schools Program
+*   Environmental Programs
 
-*   *   Products
-    *   Ativa®
-    *   Gift &. Rewards Cards
-    *   Products A-Z
-    *   Top Categories
-    *   Write a Product Review
-    *     
-        Special Programs
-    *   5% Back to Schools Program
-    *   Environmental Programs
-    *   Veterans Advantage
-*   *   Business Services
-    *   Business Solutions Center
-    *   Business Form Templates
-    *   Copy &. Print Depot™
-    *   MaxAssurance
-    *   Prevention of Online Threats
-    *   Property Damage Protection
-    *   Small Business Handbook
-    *   Security Solutions
-    *   Shredding Services
-    *   Tech Depot™ Services
-    *   Tech Trade-In
-*   *   About Us
-    *   About Office Depot®
-    *   Affiliate Program
-    *   Careers
-    *   Compliance and Ethics
-    *   Corporate Citizenship
-    *   Diversity
-    *   FAQs
-    *   Government Programs
-    *   Investor Relations
-    *   Media Relations
-    *   Office Depot Foundation
-*   *   Customer Service
-    *   Customer Service
-    *   Customer Survey
-    *   Delivery Info
-    *   Mail-in Savings Center
-    *   Order by item#
-    *   Order Tracking
-    *   Recall Notices
-    *   Refunds and Exchanges
-    *   Reorder
-    *   Request a Catalog
-    *   Website Feedback
+*   Business Services
+*   Business Form Templates
+*   Business Resource Center
+*   Copy &. Print Depot™
+*   MaxAssurance
+*   Prevention of Online Threats
+*   Property Damage Protection
+*   Small Business Handbook
+*   Security Solutions
+*   Shredding Services
+*   Tech Depot™ Services
+*   Tech Trade-In
 
-*   **Norton Secure**  
+*   About Us
+*   About Office Depot®
+*   Affiliate Program
+*   Careers
+*   Compliance and Ethics
+*   Diversity
+*   FAQs
+*   Government Programs
+*   Investor Relations
+*   Media Relations
+*   Office Depot Foundation
+*   Women in Business
+
+*   Customer Service
+*   Customer Service
+*   Customer Survey
+*   Delivery Info
+*   Mail-in Savings Center
+*   Order by item#
+*   Order Tracking
+*   Recall Notices
+*   Refunds and Exchanges
+*   Reorder
+*   Request a Catalog
+*   Website Feedback
+
+*   **VeriSign Secure**  
     Your information is protected by  
-    Norton encryption
+    VeriSign encryption
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
@@ -231,3 +224,5 @@ Your session will time out in 120 seconds.
 You will be automatically logged out if you do not click on the button below.
 
 http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/
+
+This promotion is for loyalty members only. If you want to take advantage of exclusive offers like these, join Office Depot OfficeMax Rewards now! Already a member? sign in here.
