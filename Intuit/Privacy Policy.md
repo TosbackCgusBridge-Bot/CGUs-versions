@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13584135231
+true true L13710377614
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p05.jcpenney.com SERVER NAME :->. dtcompr1c1j1 TIME :->. Sat Jun 20 12:14:39 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Sun Jun 21 11:07:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,103 +48,95 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-In Store Only
-
-$10 Off\* $25 or more.
-
-Print CouponEnds June 21 | Online Only | CODE: DADSFAV
-
-Extra 15% Off\* Under $100  
-Or Extra 20% Off\* $100 or more  
-Or Extra 25% Off\* $200 or more.
-
-OR In Store and Online | CODE: DADSFAV
-
-Extra 10% Off\* select watches, salong products, furniture, mattresses and custom blinds and shades.
-
-\*See exclusions and details.
-
-*   our biggest  
-    dad's day  
-    sale
-*   nike sale  
-    20-25% off
-    
-    select styles
-    
+*   happy  
+    father's  
+    day!
 *   home sale  
     30-50% off
     
     select styles
     
-*   dorm shop  
-    30-50% off
+*   semi-annual  
+    intimates sale  
+    20% off
+    
+    2 or more  
+    select styles
+    
+*   19.99 sandals  
+    for the family
     
     select styles
     
 
-*   Our Biggest Dad’s Day Sale
+*   Last Day! Our Biggest Dad's Day Sale
     
-    Ends June 21 | Father's Day is June 21
+    Happy Father's Day!
     
-    Shop the Dad's Day Sale View Store Ad   Shop Apparel Shop Jewelry and Watches Shop For the Home Shop Grilling and BBQ Shop Personal Care Shop Tech and Travel AccessoriesUp To $30 Bonus Ca$h!
+    Shop the Dad's Day Sale View Store Ad Shop MenIt's not too late! Find the perfect gift for Dad.
     
-    Ends June 21 | In Store Only!
+    Last Day | Online only!
     
-    Earn $10 Bonus Cash for every $50 you spend in store. Redeemable June 22 through July 4, 2015. Some restrictions and exclusions apply. Maximum $30 Bonus Cash Coupon per transaction. See store associate for details.
+    $10 Off $10 Coupon  
+    Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable June 22 through July 5, 2015 in store and online. Some restrictions apply.
     
-    Night and Day Doorbusters
+    Get $10 off $10 coupon details: Send an E-Gift Card
     
-    Use your coupon and save even more!
+    This link will take you to our partner site operated by Cashstar.
     
-    In Store and Online | Friday All Day through Saturday 1pm CDT.
-    
-    Shop Doorbusters Now
-*   Nike Sale -- 20 to 25% Off
-    
-    Select Nike styles only | Excluded from coupon | Ends Sat, June 20
-    
-    Shop Nike Sale Shop Men's Nike Shoes Shop Women's Nike Shoes Shop Kids' Nike Shoes Shop Men's Nike Apparel Shop Women's Nike Apparel Shop Kids' Nike Apparel
 *   Home Sale 30-50% Off
     
     Select styles.
     
-    Shop the Home Sale Shop the Home Catalog Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
+    Shop the Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
     
-    $39.99 JCPenney Home cotton classics twin reversible comforter, orig. $80
+    30 to 50% Off Comforters and Bedding Sets
     
-    Shop Comforters and Bedding Sets
-*   Hello Dorm
+    Shop Comforters and Bedding SetsExplore
     
-    Dorm 30 to 50% Off, select styles. Stock up on everything you need to transform your space.
+    Our spring/summer catalog is here.
     
-    Shop Dorm Dorm Checklist   Shop Backpacks Shop Coffee Shop Bedding Shop Organization Shop Bath Shop Decor Shop Kitchen
+    Shop the Home Catalog
+*   Semi-Annual Intimates Sale
+    
+    Now through July 7
+    
+    Shop the Semi-Annual Intimates Sale20% Off Bras
+    
+    Select styles when you buy two or more.
+    
+    Shop Bras Shop BrasPlaytex Week Ends June 30
+    
+    FREE Playtex Bra by mail when you buy 1 bra for $24.99, reg. $33-$38
+    
+    Get Playtex week details
+*   Sandals for Every Sunny Day
+    
+    $19.99 Sandals for the Family, select styles, reg. $30 to $50
+    
+    Shop Sandals for the Family Shop Arizona Sandals Shop A.N.A Sandals Shop Liz Claiborne Sandals Shop St. John's Bay Sandals
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Gifts for Dad
-
-Father's Day is June 21
-
-Shop all Gifts Shop Men's Apparel Shop Grilling and BBQ Shop Jewelry and Watches Shop Tech and Travel AccessoriesE-Gift Cards
-
-Ends June 21. Online only! $10 Off $10 Coupon. Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable June 22 through July 5, 2015 in store and online. Some restrictions apply.
-
-Gift Cards
-
-Ends June 21. In store only! $10 Off $10 Bonus Cash! Earn a $10 off $10 Bonus Cash Coupon when you purchase $75 in JCPenney gift cards. Redeemable June 22 through July 5, 2015. Some restrictions apply.
-
-Get details and shop gift cards: JCPenney Rewards
+Try it now: Hello Dorm Shop all Dorm Shop Bedding Shop Small Appliances JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
-Sign up today SportsFanShop
+Sign up today: School Uniforms
 
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+Play hard. Dress smart.
 
-Shop SportsFanShop Swim Styles for the Whole Family Shop Swim New Markdowns! Red Zone Clearance -- 50 to 80% Off Shop Clearance
+Shop School Uniforms: Just $5
+
+Get ALL your favorite magazines from TimeInc. today.
+
+Shop Magazines: Star Wars™ I Am Your Father's Day 2015 Shop Star Wars: Download and Get Shopping
+
+Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
+
+Check out the app Download on the App Store Get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
