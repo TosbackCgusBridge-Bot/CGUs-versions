@@ -157,7 +157,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.TV Blackouts
     *   MLB.TV Tutorials
     *   MLB.TV Download Center
-    *   Contact UsMLB.TV
+    *   Contact UsDevices
 *   Fantasy Fantasy Fantasy
     *   Beat the Streak
     *   Free Agent Frenzy
