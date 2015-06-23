@@ -371,9 +371,8 @@ Palo Alto, CA 94301
 
 Press Inquiries
 
-*   Please contact Thom Scher
-    *   Email media@wikiHow.com
-    *   Call 650-492-8008
+*   Email media@wikiHow.com
+*   Call 650-492-8008
 
 Community Liaison
 
