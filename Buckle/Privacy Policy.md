@@ -1,6 +1,6 @@
-Shop our top
+Browse the summer’s
 
-gifts for Dad.
+new arrivals.
 
 Guest Services 800-607-9788
 
