@@ -8,7 +8,7 @@ Skip to main content
 *   Businesses
     *   1.  Broadcast
             1.  NBC Entertainment NBC Entertainment Develops and schedules programming for the network’s primetime, late-night, and daytime schedules. NBC Entertainment
-            2.  NBC News NBC News Global leader in news across all broadcast and digital platforms including NBC Nightly News, TODAY and Meet the Press. NBC News
+            2.  NBC News NBC News Global leader in news across all broadcast and digital platforms including NBC Nightly News with Lester Holt, TODAY and Meet the Press. NBC News
             3.  NBC Olympics NBC Olympics Produces, programs and promotes NBCUniversal's multiplatform Olympics coverage, delivering the largest audiences in U.S. television history. NBC Olympics
             4.  NBC Sports NBC Sports Serves today's passionate sports fans with coverage of the Summer and Winter Olympics, NHL, Premier League, Formula One, MLS, Tour de France and more. NBC Sports
             5.  Telemundo Telemundo An industry leader in the production and distribution of high-quality Spanish-language content across its multiplatform portfolio. Telemundo
