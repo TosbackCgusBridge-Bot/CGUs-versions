@@ -110,8 +110,6 @@ Menu Explore HSBC.com Search
     *   Media resources expandMedia resources
         *   Media releases
         *   Speeches
-    *   Emerging markets PMI
-        
     *   Insight archive
         
 *   Careers in Careers
@@ -319,7 +317,6 @@ Investor relations
 News and insight
 
 *   Media resources
-*   Emerging markets PMI
 *   Insight archive
 
 Careers
