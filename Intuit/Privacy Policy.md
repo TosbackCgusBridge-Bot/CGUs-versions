@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13710377614
+true true C13588916686
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p04.jcpenney.com SERVER NAME :->. dtcomexpr1l2j3 TIME :->. Sun Jun 21 11:07:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p03.jcpenney.com SERVER NAME :->. dtcompr1c1j3 TIME :->. Mon Jun 22 06:38:34 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,11 +48,13 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   happy  
-    father's  
-    day!
-*   home sale  
+*   2 days only!  
     30-50% off
+    
+    select styles
+    
+*   2 days only!  
+    extra 20% off
     
     select styles
     
@@ -69,34 +71,16 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select styles
     
 
-*   Last Day! Our Biggest Dad's Day Sale
+*   2 Days Only
     
-    Happy Father's Day!
+    Online only. Ends June 23. CODE: HRY2SAV
     
-    Shop the Dad's Day Sale View Store Ad Shop MenIt's not too late! Find the perfect gift for Dad.
+    \*See details and exclusions.50% Off\* Select Original and Regular-Priced Items shop bedding and bath shop luggage shop window40% Off\* Select Original and Regular-Priced Items shop home decor shop patio furniture30% Off\* Select Original and Regular-Priced Items shop kitchen and dining shop vacuums and floorcare shop storage and organization
+*   2 Days Only
     
-    Last Day | Online only!
+    Online only. Ends June 23. CODE: HRY2SAV
     
-    $10 Off $10 Coupon  
-    Earn a $10 off $10 coupon when you purchase $75 in E-Gift Cards. Redeemable June 22 through July 5, 2015 in store and online. Some restrictions apply.
-    
-    Get $10 off $10 coupon details: Send an E-Gift Card
-    
-    This link will take you to our partner site operated by Cashstar.
-    
-*   Home Sale 30-50% Off
-    
-    Select styles.
-    
-    Shop the Home Sale Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
-    
-    30 to 50% Off Comforters and Bedding Sets
-    
-    Shop Comforters and Bedding SetsExplore
-    
-    Our spring/summer catalog is here.
-    
-    Shop the Home Catalog
+    \*See details and exclusions.Extra 20% Off\* Select Original, Regular, Sale and Clearance-Priced Items shop men shop women shop kids shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop clearance \*See details and exclusions. shop women
 *   Semi-Annual Intimates Sale
     
     Now through July 7
@@ -120,7 +104,11 @@ Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Hello Dorm Shop all Dorm Shop Bedding Shop Small Appliances JCPenney Rewards
+Try it now: Fun in the Sun
+
+Up to 50% Off swimwear for the family. Select styles.
+
+shop swim shop women's swim shop kids' swim shop men's swim JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
@@ -132,7 +120,7 @@ Shop School Uniforms: Just $5
 
 Get ALL your favorite magazines from TimeInc. today.
 
-Shop Magazines: Star Wars™ I Am Your Father's Day 2015 Shop Star Wars: Download and Get Shopping
+Shop Magazines: Star Wars™ Shop Star Wars: Download and Get Shopping
 
 Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
 
