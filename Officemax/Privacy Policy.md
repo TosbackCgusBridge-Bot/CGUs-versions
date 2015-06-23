@@ -157,13 +157,13 @@ paper and copy/print/ship purchases
 *   Ativa®
 *   Foray™
 *   Gift &. Rewards Cards
-*   GreenerOffice
 *   Products A-Z
 *   Top Categories
 *   Write a Product Review
 *   Special Programs
 *   5% Back to Schools Program
 *   Environmental Programs
+*   Veterans Advantage
 
 *   Business Services
 *   Business Form Templates
