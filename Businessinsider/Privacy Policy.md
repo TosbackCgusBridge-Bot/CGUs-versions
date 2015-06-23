@@ -81,6 +81,8 @@ There are very few specific circumstances when your information is shared outsid
 
 **6\. Email Policy**
 
+Business Insider is committed to complying with all U.S. privacy laws, such as the CAN-SPAM Act, and all other applicable privacy laws, such as Canada’s Anti-Spam Legislation, and it is our intention that our email communications be pursuant to such laws.
+
 With the exceptions noted above, Business Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please login to your profile to change your newsletter settings.
 
 **7\. Children Under 13**
@@ -106,3 +108,5 @@ Network Advertising Initiative (NAI) is part of the industry’s self-regulatory
 **11\. Contact Us**
 
 If you have any questions or suggestions for this Privacy Policy, please contact the editor of Business Insider or email questions to feedback@businessinsider.com. You can also reach us by mail at 150 Fifth Avenue, 8th Floor, New York, NY 10011.
+
+NOW WATCH: Take a tour of the $367 million jet that will soon be called Air Force One Please enable Javascript to watch this video
