@@ -1,5 +1,4 @@
 *   Set Location
-*   Notebook
 *   Certified Used Vehicles
 *   Owners
 *   Español
@@ -328,7 +327,6 @@ Sign up for toyota updates. Request a Quote Trade-In Value Shopping Tools
 *   Request a Quote
 *   Accessories
 *   Find Your Match
-*   Notebook
 *   Toyota Certified Used Vehicles
 
 Vehicles
