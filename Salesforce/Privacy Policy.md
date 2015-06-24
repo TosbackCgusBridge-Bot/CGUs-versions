@@ -15,9 +15,9 @@ The TRUSTe seals only apply to information that is collected, handled, or mainta
 
   1. Web sites covered
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: http://www.salesforce.com. http://www.appexchange.com. http://www.dreamforce.com. http://www.campaignforce.com. http://www.salesforcefoundation.org. and http://www.force.com (collectively referred to as “salesforce.com’s Web sites” or “the Company’s Web sites”).
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: https://www.salesforce.com. https://www.appexchange.com. https://www.dreamforce.com. http://www.campaignforce.com. http://www.salesforcefoundation.org. and https://www.force.com (collectively referred to as “salesforce.com’s Web sites” or “the Company’s Web sites”).
 
-AppExchange, http://www.appexchange.com, is an online marketplace for on-demand Web applications that run on the Company’s Force.com platform. Applications may be posted by salesforce.com and third parties. When applications are posted by salesforce.com and the application links to this Privacy Statement, this Privacy Statement applies. When applications are posted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply.
+AppExchange, https://www.appexchange.com, is an online marketplace for on-demand Web applications that run on the Company’s Force.com platform. Applications may be posted by salesforce.com and third parties. When applications are posted by salesforce.com and the application links to this Privacy Statement, this Privacy Statement applies. When applications are posted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply.
 
 Force.com Sites and Site.com enable salesforce.com and salesforce.com customers to create Web sites and applications that run natively on the salesforce.com platform. When Force.com Sites or Site.com Web sites are posted by salesforce.com, the site will link to this Privacy Statement, and this Privacy Statement applies. When Force.com Sites or Site.com Web sites are posted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply.
 
