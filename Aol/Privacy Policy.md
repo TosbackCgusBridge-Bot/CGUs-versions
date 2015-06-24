@@ -1,4 +1,6 @@
-Print AOL Privacy Policy **Last updated:** September 15, 2014  
+Print AOL Privacy Policy **Last updated:** June 23, 2015  
+  
+AOL is now part of the Verizon family of companies. Additional privacy practices are described in the Verizon Privacy Policy.  In the event of a conflict between this Privacy Policy and the Verizon Privacy Policy, the AOL Privacy Policy will control when you are on an AOL site or using and AOL product or service.  
   
 At AOL, it's our mission to provide users with rich, interactive online experiences. From Pulitzer-Prize winning journalism on the Huffington Post, to the latest technology news on TechCrunch, to up-to-the-minute traffic information on MapQuest, our websites, apps, and other services and software are designed to keep you informed, entertained and delighted. We also operate some of the industry's best-known advertising services, including Adap.tv and Advertising.com.  
   
@@ -61,7 +63,7 @@ Learn more about advertising and privacy on our Services.
 We don't rent or sell personal information to third parties for their marketing purposes. But we may share certain information we collect or receive with third parties to provide products and services you have requested, when we have your consent, or as described in this Privacy Policy.  
 We may share information with:
 
-*   **Affiliates** . The information one AOL affiliate receives can be shared among other AOL affiliates.
+*   **Affiliates** . The information one AOL affiliate receives can be shared among other AOL affiliates, including the Verizon family of companies.
 *   **Business partners** . We may share non-personally identifiable information with select business partners, who may use the information for a variety of purposes, including to provide you with relevant advertising.
 *   **Other parties in response to legal process or when necessary to protect our Services** . We may disclose your information-including the contents of your communications with other parties-to other parties, such as when we have a good faith belief that:
     *   It is necessary to respond to lawful governmental requests or legal process (for example, a court order, search warrant, or subpoena);
@@ -115,7 +117,7 @@ Although no one can guarantee the security of the information collected and rece
 
 **Children's Privacy**  
   
-Our Services are intended for a general audience. We do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children's Online Privacy Protection Act. If you are a parent who consents to the collection of personal information from your child, you agree that your child may use all of our Services and that we may collect, use, and disclose your child's personal information consistent with this Privacy Policy.  
+Our Services are intended for a general audience. We do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children's Online Privacy Protection Act. If you are a parent who consents to the collection of personal information from your child, you agree that your child may use all of our Services and that we may collect, use, and disclose your child's personal information consistent with AOL's Important Note to Parents and this Privacy Policy.  
   
 If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child's personal information, you may contact us:  
   
