@@ -41,6 +41,7 @@ Need Help? help center
 *   Partner Job Boards
 *   Blog
 *   Sitemap
+*   Accessibility
 
 *   employers
 *   Search Resumes
@@ -52,7 +53,6 @@ Need Help? help center
 *   legal
 *   Security &. Fraud
 *   Privacy Policy
-*   Text Only (508)
 *   Terms
 *   Ad Choices
 
