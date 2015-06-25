@@ -20,6 +20,7 @@ Fitbit
     *   Fit Science
     *   Blog
     *   Buzz
+    *   Fitness Quiz
 *   Help
     *   Product Help
     *   Wear and Care
