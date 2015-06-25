@@ -215,7 +215,7 @@ Communication Preferences
 
 We may send you information about our products, notify you of any changes to your account, or send confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing emails.
 
-If you would like to stop receiving newsletters and marketing emails from PeopleSmart.com please provide us with the email address you would like to unsubscribe by emailing privacy@peoplesmart.com or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
+If you would like to stop receiving newsletters and marketing emails from PeopleSmart please provide us with the email address you would like to unsubscribe by emailing privacy@peoplesmart.com or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
 
 Compliance Notices California Do Not Track Disclosure
 
@@ -229,7 +229,7 @@ We do not share your personal information with third parties for their own use w
 
 Children’s Online Privacy Protection Act
 
-PeopleSmart.com complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems.
+PeopleSmart complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems.
 
 Changes to this Privacy Policy
 
