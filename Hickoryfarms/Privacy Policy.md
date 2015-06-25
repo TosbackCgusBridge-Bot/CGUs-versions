@@ -6,7 +6,6 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
-    *   Fourth of July
     *   Gift Boxes
     *   Gift Baskets
         
@@ -19,6 +18,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
+    *   Fourth of July
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -44,7 +44,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
     *   Gifts $40 &. Under
-    *   Gifts $50 &. Under
+    *   Gifts Under $50
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
@@ -52,7 +52,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
-    *   Fourth of July
     *   Gift Boxes
     *   Gift Baskets
         
@@ -65,6 +64,7 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
+    *   Fourth of July
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -90,12 +90,12 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
     *   Gifts $20 &. Under
     *   Gifts $30 &. Under
     *   Gifts $40 &. Under
-    *   Gifts $50 &. Under
+    *   Gifts Under $50
     *   Gifts Over $50
     *   Gifts Over $90
 *   Specials
 
-Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go
+Search Catalog Search \* Zip Code Radius 15 Miles30 Miles100 Miles300 MilesUSA Go Order by 6/29 3PM for 4th of July Standard Delivery.
 
 1.  Home
 2.  Customer Service
@@ -149,9 +149,9 @@ My Account
 
 Guarantees
 
-*   100% Satisfaction
-*   Substitution Policy
 *   Security
+*   Substitution Policy
+*   100% Satisfaction
 
 Privacy
 
