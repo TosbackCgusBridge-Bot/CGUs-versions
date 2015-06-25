@@ -549,7 +549,7 @@ Call 1.800.963.4816 Text Chat Now
     *   Shoes
 
 *   Policies
-    *   Privacy
+    *   **Updated Privacy Policy**
     *   Terms Of Use
     *   Shipping
     *   Returns
