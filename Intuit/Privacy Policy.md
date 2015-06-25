@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13716602223
+true true L13722371561
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1l1j6 TIME :->. Tue Jun 23 10:10:33 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p19.jcpenney.com SERVER NAME :->. dtcompr1l1j3 TIME :->. Wed Jun 24 03:23:40 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,13 +48,14 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 days only!  
+*   sizzling  
+    summer  
+    sale
+*   stock up on  
+    essentials  
+    for the family
+*   home sale  
     30-50% off
-    
-    select styles
-    
-*   2 days only!  
-    extra 20% off
     
     select styles
     
@@ -65,22 +66,39 @@ Your version of Internet Explorer is out of date. For best experience please upg
     2 or more  
     select styles
     
-*   19.99 sandals  
-    for the family
-    
-    select styles
-    
 
-*   2 Days Only
+*   Sizzling Summer Sale Shop the Sizzling Summer Sale View Store Ad &bnsp. Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Lingerie Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses$15 Off $15 Bonus Ca$h!
     
-    Online only. Ends June 23. CODE: HRY2SAV
+    June 24-July 5 | In Store Only!
     
-    \*See details and exclusions.50% Off\* Select Original and Regular-Priced Items shop bedding and bath shop luggage shop window40% Off\* Select Original and Regular-Priced Items shop home decor shop patio furniture30% Off\* Select Original and Regular-Priced Items shop kitchen and dining shop vacuums and floorcare shop storage and organization
-*   2 Days Only
+    Earn a $15 off $15 bonus cash coupon when you purchase $75 in JCPenney Gift Cards. Redeemable July 6 through July 18, 2015 on home purchases only. Terms and conditions apply to gift cards. See card details. Some restrictions and exclusions apply. See store associate for details.
     
-    Online only. Ends June 23. CODE: HRY2SAV
+*   Stock Up for Summer
     
-    \*See details and exclusions.Extra 20% Off\* Select Original, Regular, Sale and Clearance-Priced Items shop men shop women shop kids shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop clearance \*See details and exclusions. shop women
+    $6.99 Stylus, A.N.A and St. John's Bay Tees, select styles, reg $14
+    
+    Shop Women's Tees Shop A.N.A
+    
+    $9.99 St. John's Bay Polos, select styles, reg $26
+    
+    Shop St. John's Bay Polos
+    
+    $4.49 Boys' or Girls' Arizona Tee, select styles, reg $12
+    
+    Shop Kids Arizona Tees
+*   Home Sale | 30-50% Off Home Collections
+    
+    Select styles.
+    
+    Shop All Home
+    
+    40 to 50% Off Window, select styles
+    
+    Shop Window Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Luggage Shop Home DecorExplore
+    
+    Our spring/summer catalog is here.
+    
+    Shop the Home Catalog
 *   Semi-Annual Intimates Sale
     
     Now through July 7
@@ -89,26 +107,17 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Select styles when you buy two or more.
     
-    Shop Bras Shop BrasPlaytex Week Ends June 30
+    Shop Bras  Playtex Week Ends June 30
     
     FREE Playtex Bra by mail when you buy 1 bra for $24.99, reg. $33-$38
     
     Get Playtex week details
-*   Sandals for Every Sunny Day
-    
-    $19.99 Sandals for the Family, select styles, reg. $30 to $50
-    
-    Shop Sandals for the Family Shop Arizona Sandals Shop A.N.A Sandals Shop Liz Claiborne Sandals Shop St. John's Bay Sandals
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Fun in the Sun
-
-Up to 50% Off swimwear for the family. Select styles.
-
-shop swim shop women's swim shop kids' swim shop men's swim JCPenney Rewards
+Try it now: Hello Dorm Shop all Dorm Shop Bedding Shop Small Appliances JCPenney Rewards
 
 Shop to earn $10 JCPenney Rewards.
 
