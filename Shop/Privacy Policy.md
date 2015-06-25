@@ -254,6 +254,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Lenovo Gift Cards
     *   Lenovo Photo Service
     *   Gaming Computers
+    *   Discover Lenovo
     *   New Product Showcase
     *   New Product Announcements
     *   Outlet
