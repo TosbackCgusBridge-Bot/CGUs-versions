@@ -6,6 +6,7 @@
 Your Cart (0) Search Catalog Search Catalog Navigation
 
 *   Gifts
+    *   Fourth of July
     *   Gift Boxes
     *   Gift Baskets
         
@@ -18,7 +19,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
-    *   Fourth of July
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -52,6 +52,7 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 Menu Search Stores Cart Gifts Sausage &. Cheese
 
 *   Gifts
+    *   Fourth of July
     *   Gift Boxes
     *   Gift Baskets
         
@@ -64,7 +65,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
         *   Birthday Gifts
         *   Wedding Gifts
     *   Gifts on the Healthier Side
-    *   Fourth of July
 *   Sausage &. Cheese
     *   Sausage &. Cheese Gifts
     *   Cheese
@@ -149,9 +149,9 @@ My Account
 
 Guarantees
 
-*   Security
-*   Substitution Policy
 *   100% Satisfaction
+*   Substitution Policy
+*   Security
 
 Privacy
 
