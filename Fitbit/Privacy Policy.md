@@ -225,6 +225,7 @@ Get the skinny on all things Fitbit
 *   BLOG
 
 *   About Us
+*   Investor Relations
 *   Careers
 *   Retailers
 *   Affiliates
