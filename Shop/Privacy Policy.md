@@ -18,7 +18,7 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
-    *   Dads and Grads Gifts for them. Savings for You.
+    *   Hot Summer, Cool Savings. Get these deals before they cool off!
         
         Save up to 80% Site-Wide
         
@@ -26,7 +26,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
         
-    *   Dads and Grads Gift Guide Celebrate Dads &. Grads with a Gift They'll Love
+    *   Warranty Sale Protect and Save
+        
+        With up to 20% Select Warranties
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
