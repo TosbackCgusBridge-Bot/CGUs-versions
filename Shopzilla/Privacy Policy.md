@@ -3,6 +3,7 @@ Connexity
 *   US
     *   FR
     *   DE
+    *   IT
     *   UK
 *   Login
 
