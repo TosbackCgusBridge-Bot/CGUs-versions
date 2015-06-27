@@ -117,7 +117,6 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   RBI Baseball 15
     *   MLB Ballpark Empire
     *   MLB.com Franchise MVP
-    *   Mobile Web
     *   Mobile Dashboard
     *   FAQ
 *   Shop Shop Shop
