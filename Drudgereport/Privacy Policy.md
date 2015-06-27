@@ -1,4 +1,4 @@
-Intermarkets Blog Up-to-date industry insights, news, and events Skip to content
+Intermarkets, Inc. Up-to-date industry insights, news, and events Site Navigation Skip to content
 
 *   Advertisers
 *   Publishers
@@ -7,13 +7,11 @@ Intermarkets Blog Up-to-date industry insights, news, and events Skip to content
 *   Contact
 *   Blog
 
-Twitter Facebook LinedIn Google Plus Intermarkets Slider
+Twitter Facebook LinedIn Google Plus Intermarkets Privacy Policy
 
-Reach the right market. Every day.
+  
 
-Intermarkets Privacy Policy
-
-Revised: July 17, 2013
+Revised: May 4, 2015
 
 Intermarkets Terms and Conditions
 
@@ -39,7 +37,7 @@ We may augment our click stream data with non-personally-identifiable behavioral
 
 The use and collection of information by our third-party advertising Service Providers is governed by the individual privacy policies of those providers.
 
-The majority of our advertising Service Providers are members of the NAI. You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at http://www.networkadvertising.org/managing/opt\_out.asp
+The majority of our advertising Service Providers are members of the NAI. You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website athttp://www.networkadvertising.org/managing/opt\_out.asp
 
 Cookies and Web Beacons:
 
@@ -54,6 +52,12 @@ We use Personally Identifiable Information and Non-Personally Identifiable Infor
 Service Providers:
 
 Intermarkets may share Personally Identifiable Information with its service providers that help Intermarkets provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
+
+_A Note Concerning Analytics Service Providers:_ We participate in advertising services administered by third parties, such as Google.  For example, we have implemented or are in the process of implementing the following features based on Google Analytics for Display Advertising:  Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
+
+The ad services may track your online activities over time by collecting information through automated means, including through the use of the automated technologies described above, and they may use this information to show you advertisements that are tailored to your individual interests and/or based on prior visits to our Websites.  We and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together (i) to inform, optimize, and serve ads based on past visits to our website and (ii) to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.  For example, we use Remarketing with Google Analytics to allow Google to show our ads to our visitors across the Internet.  We also may use data from Google’s Interest-based advertising or third-party audience data (such as age, gender, and interests) with Google Analytics to understand our audiences and to customize the delivery of our ads.
+
+To learn more about interest-based advertising generally, including how to opt out, click here.  To opt out of Google Analytics for Display Advertising or customize Google Display Network ads, you can visit the Google Ads Settings page.
 
 Non-Personally Identifiable Information Only:
 
@@ -105,7 +109,7 @@ Processing in the United States
 
 We process and store all information in the United States. By using our Site, you agree that the collection, use, transfer, and disclosure of your Personally Identifiable Information will be governed by the applicable laws in the United States.
 
-Children's Privacy Statement
+Children’s Privacy Statement
 
 The Intermarkets Site is directed to, and intended for use by, adults only. We do not knowingly collect information from children under the age of 13. If we become aware that we have inadvertently received information from a child under the age of 13, we will delete such information from our records. Because we do not knowingly collect any information from children under the age of 13, we also do not knowingly distribute such information to third parties.
 
@@ -115,7 +119,7 @@ Intermarkets may update this Privacy Policy from time to time, and so you should
 
 Acceptance of Privacy Policy
 
-When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net.  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at info@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net.  Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database.  If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us atinfo@intermarkets.net or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
 
 Additional information
 
@@ -123,55 +127,44 @@ For the privacy policies for each of our Portfolio publishers, please visit thei
 
 RETURN TO TOP
 
-  
-Ready to Buy?
+Ready to Buy? Request for Proposal Questions?
 
-Build your own campaign with the Intermarkets Self-Service Ad Platform.
+Customize and build your campaign with our Self-Service Ad Platform.
 
-Get Started
+Submit your information, and our expert account reps will contact you to get your campaign started.
 
-Request for Proposal
+Not looking to buy just yet? Let us know what information we can provide to help get you started.
 
-We’ll deliver your message to the appropriate department.
-
-Request Proposal
-
-Questions?
-
-We’ll deliver your message to the appropriate department.
-
-Contact Us
+CONFIGURE MY CAMPAIGN REQUEST PROPOSAL CONTACT US
 
   
 Advertisers
 
 *   Premium Direct Advertising
-*   Email Advertising
+*   The Intermarkets Portfolio
 *   Audience Targeting
-*   Media Buying
+*   Email List Brokerage
 
 Publishers
 
-*   Publisher Services
 *   Publisher Tools
-*   Guidelines &. Requirements
-*   Join Portfolio
+*   Frequently Asked Questions
+*   Requirements &. Guidelines
+*   Publisher Solutions
 
 Political &. Advocacy
 
-*   Campaign Services
-*   Campaign Strategy
-*   Fundraising
+*   Political Campaign Services
+*   Digital Advertising for Political Campaigns
+*   Political Fundraising
 
 Our Company
 
-*   About Us
-*   Latest News &. Events
+*   About
+*   Contact
 *   Careers
-*   Privacy Policy
-*   Terms &. Conditions
-*   Contact Us
+*   News &. Events
 
-Intermarkets' Copyright
+  
 
-Copyright © 2014 Intermarkets, Inc. All rights reserved.
+Copyright © 2015 Intermarkets, Inc. All rights reserved. Terms and Conditions | Privacy Policy | Log In
