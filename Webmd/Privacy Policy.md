@@ -515,16 +515,16 @@ Customer Care
 
 Hot Topics
 
-*   Which Drugstore Tooth Whiteners Work Best?
-*   Is Your Psoriasis Treatment Working?
-*   Eating Out? Cut Calories, Heartburn
-*   18 Most Common Skin Conditions
-*   Top 12 Dog Behavior Problems
-*   Generic Drugs: What You Need to Know
-*   Causes and Cures of Bad Breath
-*   Depression, Pain &. Anxiety: What's the Link?
-*   How Diabetes Affects Your Teeth
-*   Ulcerative Colitis: Check Your Symptoms
+*   Rheumatoid Arthritis: How It Affects Your Joints
+*   Treatments for Moderate-to-Severe Psoriasis
+*   Birth Control Options
+*   Multiple Sclerosis: Symptoms to Look For
+*   Are You Fed Up With Overeating?
+*   How to Treat Atrial Fibrillation
+*   What's Killing Your Concentration? 12 Culprits
+*   19 Habits That Wreck Your Teeth
+*   Celebrities With Diabetes
+*   Alzheimer's Disease: Early Warning Signs
 
 URAC Health Website Accreditation
 
