@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13723495822
+true true L13726802274
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p12.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Thu Jun 25 03:51:57 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p10.jcpenney.com SERVER NAME :->. dtcompr1l2j1 TIME :->. Fri Jun 26 10:37:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -129,11 +129,11 @@ Shop School Uniforms: Just $5
 
 Get ALL your favorite magazines from TimeInc. today.
 
-Shop Magazines: Star Wars™ Shop Star Wars: Download and Get Shopping
+Shop Magazines: Star Wars™ Shop Star Wars: Free Shipping on $25 or More
 
-Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
+When you download the App by July 5!
 
-Check out the app Download on the App Store Get it on Google play
+Check out the App Download on the App Store Get it on Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
