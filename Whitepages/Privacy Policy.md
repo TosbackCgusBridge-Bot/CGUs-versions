@@ -11,10 +11,10 @@ Search
 *   name or category Business
 *   city, state or zip Where Search
 
+*   e.g. 206-555-1234 Reverse Phone Search
+
 *   e.g. 1234 main st Address
 *   city, state or zip Where Search
-
-*   e.g. 206-555-1234 Reverse Phone Search
 
 *   Account
 *   Logout
