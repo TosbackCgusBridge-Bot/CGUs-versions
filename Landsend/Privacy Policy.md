@@ -55,7 +55,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Socks, Tights &. Underwear
             *   Accessories &. Handbags
             *   Hats, Gloves &. Scarves
-            *   Totes
 *   Men
     *   *   Back to Main Menu Men
         *   Featured Shops
@@ -257,7 +256,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Activewear
             *   Outerwear
             *   Hats, Gloves &. Scarves
-            *   Shoes &. Boots
+            *   Shoes
             *   Accessories
             *   Backpacks &. Bags
             *   Swimsuits
@@ -272,7 +271,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Activewear
             *   Outerwear
             *   Hats, Gloves &. Scarves
-            *   Shoes &. Boots
+            *   Shoes
             *   Accessories
             *   Backpacks &. Bags
             *   Swimsuits
