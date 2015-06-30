@@ -1,6 +1,4 @@
-Breaking News Sign inMyCNN Toggle Search
-
-International Edition
+Breaking News Sign inMyCNN Toggle Search International Edition
 
 *   U.S.
 *   International
