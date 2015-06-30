@@ -13,7 +13,6 @@ Join or Login
 *   Adventure
 *   Multiplayer
 *   More
-    *   Kogama Games
     *   War Games
     *   Board &. Card
     *   High scores
