@@ -4,7 +4,7 @@ Wanneer u Google-services gebruikt, vertrouwt u ons met uw gegevens. Dit Privacy
 
 Privacybeleid Voorbeelden verbergen Voorbeelden weergeven Voorbeelden verbergen
 
-Laatst aangepast: 5 juni 2015 (gearchiveerde versies weergeven)
+Laatst aangepast: 30 juni 2015 (gearchiveerde versies weergeven)
 
 Pdf-versie downloaden
 
@@ -16,9 +16,9 @@ In ons Privacybeleid wordt uitgelegd:
 *   Hoe we die gegevens gebruiken.
 *   De keuzemogelijkheden die we bieden, waaronder hoe u gegevens kunt openen en bijwerken.
 
-We hebben geprobeerd het zo eenvoudig mogelijk te houden, maar als u niet bekend bent met termen zoals cookies, IP-adressen, pixeltags en browsers, moet u eerst informatie over deze belangrijke termen lezen. Uw privacy is belangrijk voor Google. Daarom vragen we u (ongeacht of u een nieuwe of bestaande gebruiker van Google bent) de tijd te nemen ons privacybeleid door te nemen. Als u vragen heeft, kunt u deze pagina raadplegen.
+We hebben geprobeerd het zo eenvoudig mogelijk te houden, maar als u niet bekend bent met termen zoals cookies, IP-adressen, pixeltags en browsers, moet u eerst informatie over deze belangrijke termen lezen. Uw privacy is belangrijk voor Google. Daarom vragen we u (ongeacht of u een nieuwe of bestaande gebruiker van Google bent) de tijd te nemen ons privacybeleid door te nemen. Als u vragen heeft, kunt u contact met ons opnemen.
 
-Gegevens die we verzamelen
+Bovenkant pagina Gegevens die we verzamelen
 
 We verzamelen gegevens om betere services te kunnen leveren aan al onze gebruikers, van het vaststellen van basisinformatie, zoals de taal die u spreekt, tot meer complexe dingen, zoals welke advertenties u het nuttigst vindt, welke mensen online het belangrijkst zijn voor u of welke YouTube-video's u mogelijk leuk vindt.
 
@@ -60,7 +60,7 @@ We verzamelen gegevens op de volgende manieren:
 
 Gegevens die we verzamelen wanneer u bent ingelogd bij Google, kunnen worden gekoppeld aan uw Google-account. Wanneer gegevens zijn gekoppeld aan uw Google-account, behandelen we deze als persoonlijke gegevens. Ga naar het gedeelte Duidelijkheid en keuzemogelijkheden van dit beleid voor meer informatie over hoe u gegevens die zijn gekoppeld aan uw Google-account, kunt openen, beheren of verwijderen.
 
-Hoe we gegevens gebruiken die we verzamelen
+Bovenkant pagina Hoe we gegevens gebruiken die we verzamelen
 
 We gebruiken de gegevens die we uit al onze services verzamelen om de services te leveren, te onderhouden, te beveiligen en te verbeteren, om nieuwe services te ontwikkelen en om Google en onze gebruikers te beschermen. We gebruiken deze gegevens ook om gepersonaliseerde inhoud aan u te leveren, zoals relevantere zoekresultaten en advertenties.
 
@@ -80,7 +80,7 @@ We vragen u om toestemming voordat we gegevens gebruiken voor andere doeleinden 
 
 Google verwerkt persoonlijke gegevens op onze servers in allerlei verschillende landen over de hele wereld. We kunnen uw persoonlijke gegevens verwerken op een server die zich buiten het land bevindt waar u woont.
 
-Duidelijkheid en keuzemogelijkheden
+Bovenkant pagina Duidelijkheid en keuzemogelijkheden
 
 Mensen maken zich op verschillende manieren zorgen over hun privacy. Het is ons doel duidelijk te zijn over de gegevens die we verzamelen, zodat u weloverwogen beslissingen kunt nemen over hoe uw gegevens worden gebruikt. U kunt bijvoorbeeld:
 
@@ -94,11 +94,11 @@ Mensen maken zich op verschillende manieren zorgen over hun privacy. Het is ons 
 
 U kunt ook instellen dat uw browser alle cookies blokkeert, waaronder cookies die zijn gekoppeld aan onze services, of aangeeft wanneer we een cookie plaatsen. Het is echter belangrijk te onthouden dat veel van onze services mogelijk niet correct functioneren als uw cookies zijn uitgeschakeld. We kunnen uw taalvoorkeuren dan bijvoorbeeld niet onthouden.
 
-Gegevens die u deelt
+Bovenkant pagina Gegevens die u deelt
 
 Via veel van onze services kunt u gegevens met anderen delen. Vergeet niet dat wanneer u gegevens openbaar deelt, deze kunnen worden geïndexeerd door zoekmachines, waaronder Google. Onze services bieden u verschillende opties voor het delen en verwijderen van uw inhoud.
 
-Uw persoonlijke gegevens openen en bijwerken.
+Bovenkant pagina Uw persoonlijke gegevens openen en bijwerken.
 
 Wanneer u onze services gebruikt, proberen we u toegang te geven tot uw persoonlijke gegevens. Als die gegevens onjuist zijn, proberen we u te voorzien van manieren om deze gegevens snel bij te werken of te verwijderen, tenzij we die gegevens moeten bewaren voor legitieme zakelijke of juridische doeleinden. Wanneer u uw persoonlijke gegevens bijwerkt, kunnen we u vragen uw identiteit te verifiëren voordat we uw verzoek kunnen verwerken.
 
@@ -106,7 +106,7 @@ We kunnen verzoeken weigeren die onredelijkerwijs worden herhaald, onevenredige 
 
 Wanneer we u mogelijkheden kunnen geven voor het krijgen van toegang tot en het corrigeren van gegevens, doen we dit gratis, behalve in gevallen waar dit een onevenredige inspanning zou vereisen. We streven ernaar onze services te handhaven op een manier die gegevens beschermt tegen onopzettelijke of kwaadwillige vernietiging. Daarom is het mogelijk dat we, nadat u gegevens uit onze services heeft verwijderd, resterende kopieën niet onmiddellijk van onze actieve servers verwijderen en gegevens niet uit onze back-upsystemen verwijderen.
 
-Gegevens die we delen
+Bovenkant pagina Gegevens die we delen
 
 We delen persoonlijke gegevens niet met bedrijven, organisaties en individuen buiten Google, behalve in een van de volgende omstandigheden:
 
@@ -144,7 +144,7 @@ We kunnen verzamelde niet-persoonlijke gegevens openbaar delen en met onze partn
 
 Als Google betrokken is bij een fusie, overname of verkoop van activa, blijven we de vertrouwelijkheid van persoonlijke gegevens waarborgen en stellen we de betreffende gebruikers op de hoogte voordat persoonlijke gegevens worden overgedragen of onderworpen aan een ander privacybeleid.
 
-Beveiliging van gegevens
+Bovenkant pagina Beveiliging van gegevens
 
 We werken er hard aan Google en onze gebruikers te beschermen tegen ongeautoriseerde toegang tot of ongeautoriseerde aanpassing, openbaarmaking of vernietiging van gegevens die in ons bezit zijn. In het bijzonder geldt het volgende:
 
@@ -153,32 +153,32 @@ We werken er hard aan Google en onze gebruikers te beschermen tegen ongeautorise
 *   We evalueren onze handelswijzen met betrekking tot verzameling, opslag en verwerking van gegevens, waaronder fysieke beveiligingsmaatregelen, als bescherming tegen ongeautoriseerde toegang tot systemen.
 *   We beperken de toegang tot persoonlijke gegevens tot medewerkers van Google, contractanten en agenten die deze gegevens moeten kennen om ze voor ons te verwerken. Deze personen zijn onderworpen aan strenge contractuele vertrouwelijkheidsverplichtingen en kunnen worden bestraft of ontslagen als ze niet voldoen aan deze verplichtingen.
 
-Wanneer dit Privacybeleid van toepassing is
+Bovenkant pagina Wanneer dit Privacybeleid van toepassing is
 
 Ons Privacybeleid is van toepassing op alle services die worden geleverd door Google Inc. en zijn partners, waaronder YouTube en services die worden geleverd op andere sites (zoals onze advertentieservices), maar niet op services met een afzonderlijk privacybeleid waarin dit Privacybeleid niet is opgenomen.
 
 Ons Privacybeleid is niet van toepassing op services die worden geleverd door andere bedrijven of individuen, waaronder producten of sites die aan u kunnen worden weergegeven in zoekresultaten, sites die Google-services bevatten of andere sites waarnaar een link is opgenomen in onze services. Ons Privacybeleid dekt niet het gegevensbeleid van andere bedrijven en organisaties die adverteren in onze services en die cookies, pixeltags en andere technologieën kunnen gebruiken om relevante advertenties weer te geven en te leveren.
 
-Naleving en samenwerking met toezichthoudende authoriteiten
+Bovenkant pagina Naleving en samenwerking met toezichthoudende authoriteiten
 
 We controleren regelmatig of we voldoen aan ons Privacybeleid. We houden ons ook aan meerdere zelfregulerende richtlijnen. Wanneer we formele schriftelijke klachten ontvangen, zullen we contact opnemen met de persoon die de klacht heeft ingediend om vervolgacties te bespreken. We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten met betrekking tot de overdracht van persoonlijke gegevens te verhelpen die we niet rechtstreeks met onze gebruikers kunnen oplossen.
 
-Wijzigingen
+Bovenkant pagina Wijzigingen
 
 Ons Privacybeleid kan van tijd tot tijd worden gewijzigd. We beperken uw rechten onder dit Privacybeleid niet zonder uw uitdrukkelijke toestemming. We zullen alle wijzigingen van het Privacybeleid op deze pagina aangeven en, als de wijzigingen aanzienlijk zijn, zullen we zorgen voor een meer opvallende kennisgeving (inclusief, voor bepaalde services, kennisgevingen via e-mail over de wijzigingen van het Privacybeleid). We bewaren ook eerdere versies van dit Privacybeleid in een archief dat u kunt raadplegen.
 
-Specifieke productbeleidsregels
+Bovenkant pagina Specifieke productbeleidsregels
 
 In de volgende kennisgevingen worden specifieke privacybeleidsregels uitgelegd met betrekking tot bepaalde Google-producten en -services die u mogelijk gebruikt:
 
 *   Chrome en Chrome OS
 *   Google Boeken
-*   Google Wallet
+*   Payments
 *   Fiber
 
 U kunt naar de Privacyhandleiding voor Google-producten gaan voor meer informatie over sommige van onze populairste services.
 
-Ander nuttig materiaal met betrekking tot privacy en beveiliging
+Bovenkant pagina Ander nuttig materiaal met betrekking tot privacy en beveiliging
 
 U kunt meer nuttig materiaal met betrekking tot privacy en beveiliging vinden op de pagina's met beleid en principes van Google, waaronder:
 
