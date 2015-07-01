@@ -35,7 +35,7 @@ Atlas DMT Privacy Policy
 
 MediaMind Privacy Policy
 
-If you encounter any problems with advertising please email ads@theregister.co.uk
+If you encounter any problems with advertising please email \[email protected\]
 
 Email and Online Forms
 
@@ -96,4 +96,4 @@ Southport PR8 1LJ
 
 By Email
 
-cwilson@sitpub.com
+\[email protected\]
