@@ -4,7 +4,7 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Règles de confidentialité Masquer les exemples Afficher les exemples Masquer les exemples
 
-Date de la dernière modification : 5 juin 2015 (voir les versions archivées)
+Date de la dernière modification : 30 juin 2015 (voir les versions archivées)
 
 Télécharger la version PDF
 
@@ -16,9 +16,9 @@ Nos Règles de confidentialité expliquent :
 *   la façon dont nous utilisons ces données.
 *   les fonctionnalités que nous vous proposons, y compris comment accéder à vos données et comment les mettre à jour.
 
-Nous nous efforçons d'être le plus clair possible. Toutefois, si vous n'êtes pas familier, par exemple, des termes "cookies", "adresses IP", "balises pixel" ou "navigateurs", renseignez-vous préalablement sur ces termes clés. Chez Google, nous sommes soucieux de préserver la confidentialité de vos données privées. Ainsi, que vous soyez nouvel utilisateur ou un habitué de Google, prenez le temps de découvrir nos pratiques et, si vous avez des questions, veuillez consulter cette page.
+Nous nous efforçons d’être le plus clair possible. Toutefois, si vous n’êtes pas familier, par exemple, des termes “cookies”, “adresses IP”, “balises pixel” ou “navigateurs”, renseignez-vous préalablement sur ces termes clés. Chez Google, nous sommes soucieux de préserver la confidentialité de vos données privées. Ainsi, que vous soyez nouvel utilisateur ou un habitué de Google, prenez le temps de découvrir nos pratiques et, si vous avez des questions, n’hésitez pas à nous contacter.
 
-Données que nous collectons
+Haut de la page Données que nous collectons
 
 Les informations que nous collectons servent à améliorer les services proposés à tous nos utilisateurs. Il peut s'agir d'informations de base, telles que la langue que vous utilisez, ou plus complexes, comme les annonces que vous trouvez les plus utiles, les personnes qui vous intéressent le plus sur le Web ou les vidéos YouTube qui sont susceptibles de vous plaire.
 
@@ -60,7 +60,7 @@ Nous collectons des données des manières suivantes :
 
 Les informations que nous recueillons lorsque vous êtes connecté à Google peuvent être associées à votre compte Google. Nous les traitons alors comme des données personnelles. Pour en savoir plus sur la manière dont vous pouvez accéder aux informations associées à votre compte Google, les gérer ou les supprimer, consultez la section Transparence et liberté de choix des présentes règles.
 
-Comment nous utilisons les données que nous collectons
+Haut de la page Comment nous utilisons les données que nous collectons
 
 Les données que nous collectons nous permettent de fournir, gérer, protéger et améliorer nos services, d'en développer de nouveaux, et de protéger aussi bien nos utilisateurs que nous-mêmes. Ces données nous permettent également de vous proposer des contenus adaptés, tels que des annonces et des résultats de recherche plus pertinents.
 
@@ -80,7 +80,7 @@ Toute utilisation de données dans un but autre que ceux qui sont exposés dans 
 
 Nous traitons vos données personnelles sur des serveurs Google situés dans de nombreux pays à travers le monde. Vos données personnelles sont donc susceptibles d’être traitées sur un serveur situé hors de votre pays de résidence.
 
-Transparence et liberté de choix
+Haut de la page Transparence et liberté de choix
 
 Les préoccupations en matière de confidentialité diffèrent d’une personne à l’autre. Nous souhaitons faire preuve de transparence sur la façon dont nous collectons et utilisons les données qui vous concernent, afin que vous disposiez de tous les éléments pour faire des choix informés. Vous pouvez par exemple effectuer les actions ci-dessous :
 
@@ -94,11 +94,11 @@ Les préoccupations en matière de confidentialité diffèrent d’une personne 
 
 Vous pouvez également paramétrer votre navigateur de façon à bloquer tous les cookies, y compris les cookies liés à nos services, ou pour être informé lorsque nous vous en envoyons. Il convient toutefois de rappeler que bon nombre de nos services sont susceptibles de ne pas fonctionner correctement si vous désactivez les cookies. Ils ne tiendront pas compte, par exemple, de vos préférences linguistiques.
 
-Données que vous partagez
+Haut de la page Données que vous partagez
 
 De nombreux services Google vous permettent de partager vos données avec d'autres personnes. Rappelez-vous que lorsque vous partagez des informations publiquement, elles peuvent être indexées par des moteurs de recherche tels que Google. Nos services vous proposent plusieurs façons de partager et de supprimer vos contenus.
 
-Consultation et mise à jour de vos données personnelles
+Haut de la page Consultation et mise à jour de vos données personnelles
 
 Lorsque vous utilisez nos services, nous souhaitons que vous ayez accès à vos informations personnelles. En cas d'erreur, nous faisons en sorte que vous puissiez les mettre à jour rapidement ou les supprimer, sauf si nous devons les conserver à des fins commerciales légitimes ou si la loi nous l'impose. Avant de répondre à une demande de mise à jour de vos informations personnelles, nous pouvons vous inviter à vous identifier.
 
@@ -106,7 +106,7 @@ Nous nous réservons le droit de décliner toute demande déraisonnable par son 
 
 L’accès aux données et leur rectification constituent un service gratuit, sauf dans le cas où ce service impliquerait un effort démesuré. Nous prenons toutes les dispositions pour protéger les données gérées dans le cadre de nos services contre toute destruction accidentelle ou volontaire. Par conséquent, même lorsque vous supprimez des données utilisées par nos services, nous ne supprimons pas immédiatement les copies résiduelles se trouvant sur nos serveurs actifs ni celles stockées dans nos systèmes de sauvegarde.
 
-Données que nous partageons
+Haut de la page Données que nous partageons
 
 Nous ne communiquons vos données personnelles à des entreprises, des organisations ou des personnes tierces que dans les circonstances suivantes :
 
@@ -144,7 +144,7 @@ Nous sommes susceptibles de partager publiquement, ainsi qu'avec nos partenaires
 
 Dans le cas où Google prendrait part à une opération de fusion, d’acquisition ou à toute autre forme de cession d’actifs, nous nous engageons à garantir la confidentialité de vos données personnelles et à vous informer avant que celles-ci ne soient transférées ou soumises à de nouvelles règles de confidentialité.
 
-Sécurité des données
+Haut de la page Sécurité des données
 
 Nous mettons en œuvre toutes les mesures de sécurité nécessaires pour protéger Google ainsi que nos utilisateurs contre tout accès et toute modification, divulgation ou destruction non autorisés des données que nous détenons. En particulier :
 
@@ -153,32 +153,32 @@ Nous mettons en œuvre toutes les mesures de sécurité nécessaires pour proté
 *   Nous menons des audits internes sur la collecte, le stockage et le traitement des données, y compris les mesures de sécurité physiques, afin d’empêcher tout accès non autorisé à nos systèmes.
 *   L’accès aux données personnelles est strictement réservé aux salariés, sous-traitants et agents de Google qui ont besoin d’y accéder afin de les traiter en notre nom. Ces personnes sont soumises à de strictes obligations de confidentialité et sont susceptibles de faire l’objet de sanctions disciplinaires pouvant aller jusqu’au licenciement en cas de manquement à ces obligations.
 
-Champ d'application des présentes Règles de confidentialité
+Haut de la page Champ d'application des présentes Règles de confidentialité
 
 Les présentes Règles de confidentialité s’appliquent à tous les services proposés par Google Inc. et par ses filiales, y compris à YouTube et aux services proposés sur d’autres sites (comme par exemple nos services publicitaires), mais excluent les services régis par d’autres règles de confidentialité n’incorporant pas les présentes.
 
 Les présentes Règles de confidentialité ne s’appliquent pas aux services proposés par d’autres sociétés ou personnes, notamment aux produits ou aux sites qui peuvent vous être proposés dans les résultats de recherche, aux sites qui peuvent incorporer des services Google ou aux autres sites accessibles à partir de nos services. Les présentes Règles de confidentialité ne couvrent pas les pratiques en matière de protection des données d’autres sociétés ou organisations qui font la publicité de nos services et qui peuvent utiliser des cookies, des balises pixel ou d’autres technologies pour afficher et proposer des annonces pertinentes.
 
-Respect et coopération avec des organismes de régulation
+Haut de la page Respect et coopération avec des organismes de régulation
 
 Nous vérifions régulièrement que nous respectons les présentes Règles de confidentialité. Nous nous conformons par ailleurs à plusieurs chartes d’autorégulation. Lorsque nous recevons une réclamation écrite, nous prenons contact avec l’utilisateur pour donner suite à sa démarche. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert de données personnelles que nous ne pouvons pas régler directement avec l’utilisateur.
 
-Modifications
+Haut de la page Modifications
 
 Les présentes Règles de confidentialité peuvent être amenées à changer. Toute diminution de vos droits dans le cadre des présentes Règles de confidentialité ne saurait être appliquée sans votre consentement exprès. Nous publierons toute modification des règles de confidentialité sur cette page et, dans le cas où il s’agirait de modifications significatives, nous publierons un avertissement mis en évidence (y compris, pour certains services, par le biais d’une notification par e-mail). Les versions antérieures des présentes Règles de confidentialité seront archivées et mises à la disposition des utilisateurs.
 
-Pratiques spécifiques à certains produits
+Haut de la page Pratiques spécifiques à certains produits
 
 Les documents suivants exposent des pratiques spécifiques en matière de confidentialité applicables à certains produits ou services Google que vous pouvez utiliser :
 
 *   Google Chrome et Chrome OS
 *   Google Livres
-*   Google Portefeuille
+*   Payments
 *   Fiber
 
 Pour obtenir plus d'information sur certains de nos services les plus populaires, vous pouvez consulter le guide de confidentialité des produits Google.
 
-Autres ressources utiles liées à la confidentialité et à la protection des données
+Haut de la page Autres ressources utiles liées à la confidentialité et à la protection des données
 
 Vous trouverez d'autres ressources utiles liées à la confidentialité et à la protection des données sur les pages Règles et principes de Google, notamment :
 
