@@ -4,7 +4,7 @@ Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Da
 
 Datenschutzerklärung Beispiele ausblenden Beispiele anzeigen Beispiele ausblenden
 
-Zuletzt geändert am: 5. Juni 2015 (archivierte Versionen anzeigen)
+Zuletzt geändert am: 30. Juni 2015 (archivierte Versionen anzeigen)
 
 PDF-Version herunterladen
 
@@ -16,9 +16,9 @@ In unserer Datenschutzerklärung wird erläutert:
 *   Wie wir diese Informationen nutzen.
 *   Welche Wahlmöglichkeiten wir anbieten, auch im Hinblick darauf, wie auf Informationen zugegriffen werden kann und wie diese aktualisiert werden können.
 
-Wir haben uns um eine möglichst einfache Darstellung bemüht, wenn Sie jedoch mit Begriffen wie Cookies, IP-Adressen, Pixel-Tags und Browsern nicht vertraut sind, sollten Sie sich zunächst über diese Schlüsselbegriffe informieren. Der Schutz Ihrer Daten ist Google wichtig und daher bitten wir Sie, unabhängig davon, ob Sie ein neuer oder langjähriger Nutzer von Google sind, sich die Zeit zu nehmen, um unsere Praktiken kennenzulernen – und wenn Sie dazu Fragen haben sollten, rufen Sie diese Seite auf.
+Wir haben uns um eine möglichst einfache Darstellung bemüht, wenn Sie jedoch mit Begriffen wie Cookies, IP-Adressen, Pixel-Tags und Browsern nicht vertraut sind, sollten Sie sich zunächst über diese Schlüsselbegriffe informieren. Der Schutz Ihrer Daten ist Google wichtig und daher bitten wir Sie, unabhängig davon, ob Sie ein neuer oder langjähriger Nutzer von Google sind, sich die Zeit zu nehmen, um unsere Praktiken kennenzulernen – und wenn Sie dazu Fragen haben sollten, können Sie uns kontaktieren.
 
-Von uns erhobene Informationen
+Zurück nach oben Von uns erhobene Informationen
 
 Wir erfassen Informationen, um allen unseren Nutzern bessere Dienste zur Verfügung zu stellen – von der Feststellung grundlegender Aspekte wie zum Beispiel der Sprache, die Sie sprechen, bis hin zu komplexeren Fragen wie zum Beispiel der Werbung, die Sie besonders nützlich finden, den Personen, die Ihnen online am wichtigsten sind, oder den YouTube-Videos, die Sie interessant finden könnten.
 
@@ -60,7 +60,7 @@ Wir erfassen Informationen auf folgende Arten:
 
 Die Daten, die wir erfassen, wenn Sie in Ihrem Google-Konto angemeldet sind, werden gegebenenfalls mit Ihrem Konto verknüpft. Die mit Ihrem Google-Konto verknüpften Daten werden von uns stets als personenbezogene Daten behandelt. Weitere Informationen dazu, wie Sie die mit Ihrem Google-Konto verknüpften Daten einsehen, verwalten oder löschen können, finden Sie im Abschnitt Transparenz und Wahlmöglichkeit in dieser Datenschutzerklärung.
 
-Wie wir die von uns erhobenen Informationen nutzen
+Zurück nach oben Wie wir die von uns erhobenen Informationen nutzen
 
 Wir nutzen die im Rahmen unserer Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung unserer Dienste, zur Entwicklung neuer Dienste sowie zum Schutz von Google und unseren Nutzern. Wir verwenden diese Daten außerdem, um Ihnen maßgeschneiderte Inhalte anzubieten – beispielsweise, um Ihnen relevantere Suchergebnisse und Werbung zur Verfügung zu stellen.
 
@@ -80,7 +80,7 @@ Bevor wir Informationen zu anderen als den in dieser Datenschutzerklärung aufge
 
 Google verarbeitet personenbezogene Daten auf unseren Servern, die sich in zahlreichen Ländern auf der ganzen Welt befinden. Daher verarbeiten wir Ihre personenbezogenen Daten gegebenenfalls auf einem Server, der sich außerhalb des Landes befindet, in dem Sie leben.
 
-Transparenz und Wahlmöglichkeit
+Zurück nach oben Transparenz und Wahlmöglichkeit
 
 Jeder hat unterschiedliche Bedenken im Hinblick auf den Datenschutz. Unser Ziel ist, Klarheit darüber zu schaffen, welche Informationen wir erheben, damit Sie sinnvolle Entscheidungen über deren Verwendung treffen können. Sie können beispielsweise:
 
@@ -94,11 +94,11 @@ Jeder hat unterschiedliche Bedenken im Hinblick auf den Datenschutz. Unser Ziel 
 
 Sie können Ihren Browser auch so einstellen, dass alle Cookies einschließlich der mit unseren Diensten verknüpften Cookies blockiert werden oder dass eine Meldung angezeigt wird, sobald ein Cookie von uns gesetzt wird. Bedenken Sie jedoch, dass viele unserer Dienste möglicherweise nicht ordnungsgemäß funktionieren, wenn Sie Cookies bei sich deaktiviert haben. Wir können dann beispielsweise Ihre bevorzugte Spracheinstellung nicht speichern.
 
-Informationen, die Sie anderen mitteilen
+Zurück nach oben Informationen, die Sie anderen mitteilen
 
 Viele unserer Dienste erlauben es Ihnen, Informationen mit anderen zu teilen. Bedenken Sie, wenn Sie Informationen öffentlich mitteilen, dass diese Informationen möglicherweise von Suchmaschinen, einschließlich Google, indexiert werden. Unsere Dienste bieten Ihnen verschiedene Möglichkeiten, Ihre Inhalte zu teilen und zu entfernen.
 
-Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
+Zurück nach oben Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
 
 Wann auch immer Sie unsere Dienste nutzen, sind wir bestrebt, Ihnen Zugriff auf Ihre personenbezogenen Daten zu geben. Sollten diese Daten fehlerhaft sein, bemühen wir uns darum, Ihnen Möglichkeiten zu eröffnen, diese schnell zu aktualisieren oder zu entfernen – es sei denn, wir müssen diese Daten zu berechtigten geschäftlichen oder rechtlichen Zwecken aufbewahren. Im Falle der Aktualisierung Ihrer personenbezogenen Daten verlangen wir möglicherweise einen Nachweis Ihrer Identität, bevor wir Ihre Anfrage umsetzen.
 
@@ -106,7 +106,7 @@ Wir lehnen gegebenenfalls Anfragen ab, die unangemessen oft wiederholt werden, d
 
 Sofern wir den Zugriff auf und die Berichtigung von Daten gewähren können, erfolgt dies grundsätzlich kostenlos, außer in Fällen, in denen dies einen unverhältnismäßigen Aufwand erfordern würde. Wir sind bestrebt, unsere Dienste auf eine Art und Weise bereitzustellen, durch die die Daten vor zufälliger oder mutwilliger Zerstörung geschützt sind. Aus diesem Grund löschen wir möglicherweise verbliebene Vervielfältigungsstücke von Daten, die Sie aus unseren Diensten gelöscht haben, nicht sofort von unseren aktiven Servern und entfernen diese Daten nicht von unseren Sicherungssystemen.
 
-Von uns weitergegebene Informationen
+Zurück nach oben Von uns weitergegebene Informationen
 
 Wir geben keine personenbezogenen Daten an Unternehmen, Organisationen oder Personen außerhalb von Google weiter, außer in einem der folgenden Umstände:
 
@@ -144,7 +144,7 @@ Wir geben möglicherweise zusammengefasste, nicht personenbezogene Daten an die 
 
 Falls Google an einem Unternehmenszusammenschluss, einem Unternehmenserwerb oder einem Verkauf von Vermögensgegenständen beteiligt ist, werden wir weiterhin dafür sorgen, die Vertraulichkeit jeglicher personenbezogener Daten sicherzustellen und wir werden betroffene Nutzer benachrichtigen, bevor personenbezogene Daten übermittelt oder Gegenstand einer anderen Datenschutzerklärung werden.
 
-Datensicherheit
+Zurück nach oben Datensicherheit
 
 Wir bemühen uns intensiv darum, Google und unsere Nutzer vor unbefugtem Zugriff auf oder vor unbefugter Veränderung, Weitergabe oder Zerstörung von Daten zu schützen. Insbesondere:
 
@@ -153,32 +153,32 @@ Wir bemühen uns intensiv darum, Google und unsere Nutzer vor unbefugtem Zugriff
 *   überprüfen wir unsere Praktiken zur Erhebung, Speicherung und Verarbeitung, einschließlich der physischen Sicherheitsmaßnahmen, zum Schutz vor unbefugtem Zugriff auf Systeme.
 *   beschränken wir den Zugriff auf personenbezogene Daten auf Mitarbeiter und Auftragnehmer von Google, die die Daten zwingend kennen müssen, um diese Daten für uns zu verarbeiten, und die strengen Vertraulichkeitsverpflichtungen unterworfen sind und disziplinarischen Maßnahmen unterzogen oder gekündigt werden können, falls sie diese Verpflichtungen nicht einhalten.
 
-Anwendungsbereich der Datenschutzerklärung
+Zurück nach oben Anwendungsbereich der Datenschutzerklärung
 
 Unsere Datenschutzerklärung gilt für alle Dienste, die von Google Inc. und den verbundenen Unternehmen angeboten werden, einschließlich YouTube und Diensten, die auf anderen Webseiten angeboten werden, beispielsweise unsere Werbedienste. Diese Datenschutzerklärung gilt nicht für Dienste, für die gesonderte Datenschutzerklärungen gelten, die die vorliegende Datenschutzerklärung nicht mit umfassen.
 
 Unsere Datenschutzerklärung gilt nicht für Dienste, die von anderen Unternehmen oder Personen angeboten werden, einschließlich Produkte oder Webseiten, die Ihnen in Suchergebnissen angezeigt werden, Webseiten, die möglicherweise Google-Dienste beinhalten, oder andere mit unseren Diensten verlinkte Webseiten. Unsere Datenschutzerklärung umfasst nicht den Umgang mit Informationen durch andere Unternehmen oder Organisationen, die unsere Dienste bewerben und gegebenenfalls Cookies, Pixel-Tags und andere Technologien verwenden, um relevante Anzeigen zur Verfügung zu stellen und anzubieten.
 
-Einhaltung von Vorschriften und Zusammenarbeit mit Regulierungsbehörden
+Zurück nach oben Einhaltung von Vorschriften und Zusammenarbeit mit Regulierungsbehörden
 
 Wir überprüfen die Einhaltung unserer Datenschutzerklärung regelmäßig. Wir halten darüber hinaus mehrere Selbstverpflichtungsregularien ein. Sobald wir formale schriftliche Beschwerden erhalten, werden wir mit der Person, die die Beschwerde eingereicht hat, zum Zwecke der Nachverfolgung der Beschwerde Kontakt aufnehmen. Wir arbeiten mit den geeigneten regulatorischen Behörden zusammen, einschließlich den lokalen Datenschutzbehörden, um jeglichen Beschwerden betreffend die Übermittlung von personenbezogenen Daten abzuhelfen, die wir nicht unmittelbar mit unseren Nutzern klären können.
 
-Änderungen
+Zurück nach oben Änderungen
 
 Unsere Datenschutzerklärung kann sich von Zeit zu Zeit ändern. Wir werden Ihre Rechte nach dieser Datenschutzerklärung nicht ohne Ihre ausdrückliche Einwilligung einschränken. Alle Änderungen der Datenschutzerklärung werden von uns auf dieser Seite veröffentlicht werden. Falls die Änderungen wesentlich sein sollten, werden wir eine noch deutlichere Benachrichtigung zur Verfügung stellen (einschließlich, im Falle bestimmter Dienste, einer Benachrichtigung per E-Mail über die Änderungen der Datenschutzerklärung). Außerdem werden wir ältere Versionen dieser Datenschutzerklärung zu Ihrer Einsicht in einem Archiv aufbewahren.
 
-Produktspezifische Praktiken
+Zurück nach oben Produktspezifische Praktiken
 
 Die folgenden Hinweise erläutern gesonderte Datenschutzpraktiken im Zusammenhang mit bestimmten Google-Produkten und Diensten, die Sie möglicherweise nutzen:
 
 *   Chrome und Chrome OS
 *   Books
-*   Wallet
+*   Payments
 *   Fiber
 
 Weitere Informationen zu einigen der am häufigsten genutzten Google-Dienste erhalten Sie im Leitfaden zum Datenschutz in Google-Produkten.
 
-Weitere hilfreiche Informationen zu Datenschutz und Sicherheit
+Zurück nach oben Weitere hilfreiche Informationen zu Datenschutz und Sicherheit
 
 Weitere hilfreiche Informationen zu Datenschutz und Sicherheit erhalten Sie auf den Seiten zur Datenschutzerklärung und zu den Prinzipien von Google, darunter:
 
