@@ -15,38 +15,21 @@ Play any type of Game at Y8.com. The biggest Game Collection to play free online
 *   New Games
 *   Best of new games
 *   Most Popular Games
-*   Games for girls
 
-*   2 player
-*   3+ Player
-*   IDnet
-*   Car
-*   Dress Up
-*   Role Playing
-*   Multiplayer
-*   Unity3D
-*   3D
-*   Cooking
-*   Parking
-*   Zombies
-*   Farm
-*   Fighting
-*   Football
-*   Truck
-*   Aircraft
-*   Helicopter
-*   Match 3
-*   Billiards
-*   Defense
-*   Bomberman
-*   Baby
-*   Barbie
-*   Bowling
-*   Basketball
-
-*     
-      
-    356 Categories
+*   Racing &. Driving games
+*   Girls games
+*   Strategy/RPG games
+*   Management games
+*   Thinking games
+*   Action &. Adventure games
+*   Sports games
+*   Shooting games
+*   Fighting games
+*   Skill games
+*   Arcade &. Classic games
+*   Fun/Crazy games
+*   View all  
+    356 Tags
 
 PRIVACY POLICY
 
