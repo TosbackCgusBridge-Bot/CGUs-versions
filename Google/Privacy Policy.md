@@ -4,7 +4,7 @@ When you use Google services, you trust us with your information. This Privacy P
 
 Privacy Policy Hide examples Show examples Hide examples
 
-Last modified: 5 June 2015 (view archived versions)
+Last modified: 30 June 2015 (view archived versions)
 
 Download PDF version
 
@@ -16,9 +16,9 @@ Our Privacy Policy explains:
 *   How we use that information.
 *   The choices we offer, including how to access and update information.
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions, consult this page.
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms, such as cookies, IP addresses, pixel tags and browsers, then read about these key terms first. Your privacy matters to Google, so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions, contact us.
 
-Information that we collect
+Back to top Information that we collect
 
 We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you'll find most useful, the people who matter most to you online, or which YouTube videos you might like.
 
@@ -60,7 +60,7 @@ We collect information in the following ways:
 
 Information we collect when you are signed-in to Google may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy.
 
-How we use information that we collect
+Back to top How we use information that we collect
 
 We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones and to protect Google and our users. We also use this information to offer you tailored content – such as giving you more relevant search results and ads.
 
@@ -80,7 +80,7 @@ We will ask for your consent before using information for a purpose other than t
 
 Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
 
-Transparency and choice
+Back to top Transparency and choice
 
 People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
@@ -94,11 +94,11 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 You may also set your browser to block all cookies, including cookies associated with our services or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
 
-Information that you share
+Back to top Information that you share
 
 Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content.
 
-Accessing and updating your personal information
+Back to top Accessing and updating your personal information
 
 Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
@@ -106,7 +106,7 @@ We may reject requests that are unreasonably repetitive, require disproportionat
 
 Where we can provide information access and correction, we will do so free of charge, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-Information that we share
+Back to top Information that we share
 
 We do not share personal information with companies, organisations and individuals outside of Google unless one of the following circumstances applies:
 
@@ -144,7 +144,7 @@ We may share aggregated, non-personally identifiable information publicly and wi
 
 If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
-Information security
+Back to top Information security
 
 We work hard to protect Google and our users from unauthorised access to or unauthorised alteration, disclosure or destruction of information that we hold. In particular:
 
@@ -153,32 +153,32 @@ We work hard to protect Google and our users from unauthorised access to or unau
 *   We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems.
 *   We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. They may be disciplined or their contract terminated if they fail to meet these obligations.
 
-When this Privacy Policy applies
+Back to top When this Privacy Policy applies
 
 Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organisations that advertise our services and that may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
-Compliance and cooperation with regulatory authorities
+Back to top Compliance and cooperation with regulatory authorities
 
 We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-Changes
+Back to top Changes
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-Specific product practices
+Back to top Specific product practices
 
 The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
 
 *   Chrome and Chrome OS
 *   Books
-*   Wallet
+*   Payments
 *   Fiber
 
 For more information about some of our most popular services, you can visit the Google Product Privacy Guide.
 
-Other useful privacy and security-related materials
+Back to top Other useful privacy and security-related materials
 
 Further useful privacy and security-related materials can be found through Google’s policies and principles pages, including:
 
