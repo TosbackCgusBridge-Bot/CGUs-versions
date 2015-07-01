@@ -8,9 +8,9 @@ TV Videos Photos LOLs Games log in | sign up   
 
 *   Daily Games
 
-*   Jigsaw
-
 *   Sale
+
+*   Jigsaw
 
 *   Puzzle
 
