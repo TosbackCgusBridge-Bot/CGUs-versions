@@ -19,7 +19,7 @@ Search
 *   Account
 *   Logout
 *   Join
-*   Login
+*   Log In
 
 Go to Pro Data Policy Give Feedback
 
@@ -111,15 +111,15 @@ If you have any questions about this policy, please write to Whitepages Privacy 
 
 **Your Whitepages**
 
-*   Manage Your Profile
 *   Help
+*   Remove From Directory
 *   Privacy Policy
 *   Terms of Use
 
 **More**
 
 *   Whitepages Pro
-*   Phone Scam Monitoring
+*   Phone Scams
 *   Developers
 *   Yellow Pages Search by State City Yellow Pages
     
