@@ -4,7 +4,7 @@ Quando o usuário usa nossos serviços, confia a nós informações dele. Esta P
 
 Política de Privacidade Ocultar exemplos Mostrar exemplos Ocultar exemplos
 
-Última modificação: 5 de junho de 2015 (visualizar versões arquivadas)
+Última modificação: 30 de junho de 2015 (visualizar versões arquivadas)
 
 Fazer o download da versão em PDF
 
@@ -16,9 +16,9 @@ Nossa Política de Privacidade explica:
 *   Como usamos essas informações.
 *   As opções que oferecemos, incluindo o modo de acessar e atualizar informações.
 
-Tentamos manter tudo o mais simples possível, mas se o usuário não estiver familiarizado com termos como cookies, endereços de IP, pixel tags e navegadores então leia sobre esses termos-chave primeiro. Sua privacidade é importante para a Google, portanto, tratando-se de um usuário novo ou antigo, solicitamos que o usuário reserve um tempo para conhecer nossas práticas. Se ainda restar alguma dúvida, recomendamos a consulta desta página.
+Tentamos manter tudo o mais simples possível, mas se você não estiver familiarizado com termos como cookies, endereços de IP, pixel tags e navegadores então leia sobre esses termos-chave primeiro. Sua privacidade é importante para o Google, portanto, sendo você um usuário novo ou antigo do Google, por favor reserve um tempo para conhecer nossas práticas. E, se você tiver alguma dúvida, entre em contato conosco.
 
-Informações que coletamos
+Voltar ao início Informações que coletamos
 
 Coletamos informações para fornecer serviços melhores a todos os nossos usuários, desde descobrir coisas básicas, como o idioma que eles falam, até coisas mais complexas, como anúncios que o usuário pode considerar mais úteis, as pessoas on-line que são mais importantes para o usuário ou os vídeos do YouTube dos quais o usuário poderá gostar.
 
@@ -60,7 +60,7 @@ Coletamos informações das seguintes maneiras:
 
 As informações que coletamos quando o usuário está conectado ao Google podem estar associadas à Conta do Google dele. Quando as informações estão associadas à Conta do Google do usuário, nós as tratamos como informações pessoais. Para ver mais informações sobre como o usuário pode acessar, gerenciar ou excluir informações que estejam associadas à Conta do Google dele, visite a seção Transparência e escolha desta política.
 
-Como usamos as informações que coletamos
+Voltar ao início Como usamos as informações que coletamos
 
 Usamos as informações que coletamos em todos nossos serviços para fornecer, manter, proteger e melhorar esses serviços, desenvolver novos e proteger a Google e nossos usuários. Também usamos essas informações para oferecer ao usuário um conteúdo específico, por exemplo, fornecer resultados mais relevantes de pesquisa e anúncios.
 
@@ -80,7 +80,7 @@ Solicitaremos sua autorização antes de usar informações para outros fins que
 
 A Google processa informações pessoais em nossos servidores de muitos países do mundo. Podemos processar as informações pessoais do usuário em um servidor localizado fora do país em que este vive.
 
-Transparência e escolha
+Voltar ao início Transparência e escolha
 
 As pessoas têm diferentes preocupações sobre privacidade. Nosso objetivo é a clareza quanto às informações que coletamos, de modo que o usuário possa fazer escolhas importantes sobre como elas são usadas. Por exemplo, o usuário pode:
 
@@ -94,11 +94,11 @@ As pessoas têm diferentes preocupações sobre privacidade. Nosso objetivo é a
 
 O usuário também pode configurar seu navegador para bloquear todos os cookies, inclusive cookies associados com nossos serviços, ou para indicar quando um cookie estiver sendo configurado por nós. Entretanto, é importante lembrar que muitos de nossos serviços podem não funcionar de maneira adequada se seus cookies estiverem desativados. Por exemplo, pode ser que não nos lembremos das preferências de idioma do usuário.
 
-Informações que o usuário compartilha
+Voltar ao início Informações que o usuário compartilha
 
 Muitos de nossos serviços permitem que o usuário compartilhe informações com outras pessoas. Lembre-se de que quando se compartilham informações publicamente, elas podem ser indexadas por mecanismos de pesquisa, inclusive o da Google. Nossos serviços oferecem várias opções de compartilhamento e remoção de conteúdo próprio ao usuário.
 
-Acesso e atualização de suas informações pessoais
+Voltar ao início Acesso e atualização de suas informações pessoais
 
 Sempre que o usuário usa nossos serviços, nosso objetivo é oferecer-lhe acesso a suas informações pessoais. Se essas informações estiverem erradas, nos empenhamos em prover maneiras rápidas de atualizá-las ou excluí-las – exceto quando temos de mantê-las para fins comerciais legítimos ou jurídicos. Ao atualizar suas informações pessoais, podemos solicitar o usuário que confirme sua identidade antes de atendermos a solicitação.
 
@@ -106,7 +106,7 @@ Podemos recusar as solicitações que sejam repetitivas, que requeiram esforço 
 
 Nos casos em que pudermos fornecer acesso e correção de informações, faremos isso gratuitamente, exceto quando isso exigir esforço desproporcional. Nosso objetivo é manter nossos serviços de modo a proteger informações de destruição acidental ou maliciosa. Assim, depois de excluir informações de nossos serviços, não podemos excluir imediatamente cópias residuais de nossos servidores ativos e pode não ser possível remover informações de nossos sistemas de backup.
 
-Informações que compartilhamos
+Voltar ao início Informações que compartilhamos
 
 Não compartilhamos informações pessoais com empresas, organizações e indivíduos externos à Google, salvo em uma das seguintes circunstâncias:
 
@@ -144,7 +144,7 @@ Podemos compartilharinformações que não sejam pessoalmente identificáveis ag
 
 Se a Google estiver envolvida em uma fusão, aquisição ou venda de ativos, continuaremos a garantir a confidencialidade de qualquer informação pessoal e avisaremos os usuários afetados antes que as informações pessoais sejam transferidas ou sejam submetidas a uma política de privacidade diferente.
 
-Segurança das informações
+Voltar ao início Segurança das informações
 
 Trabalhamos com afinco para proteger a Google e nossos usuários de acesso não autorizado ou alteração, divulgação ou destruição não autorizada das informações que detemos. Especificamente:
 
@@ -153,32 +153,32 @@ Trabalhamos com afinco para proteger a Google e nossos usuários de acesso não 
 *   Analisamos nossa coleta de informações, práticas de armazenamento e processamento, inclusive medidas de segurança física, para proteção contra acesso não autorizado aos sistemas.
 *   Restringimos o acesso a informações pessoais por parte de empregados, contratados e representantes da Google que necessitam saber essas informações para processá-las para nós, e que estão sujeitos a rigorosas obrigações contratuais de confidencialidade, podendo ser processados ou dispensados se deixarem de cumprir tais obrigações.
 
-Quando esta Política de Privacidade se aplica
+Voltar ao início Quando esta Política de Privacidade se aplica
 
 Nossa Política de Privacidade se aplica a todos os serviços oferecidos pela Google Inc. e suas afiliadas, inclusive YouTube e serviços oferecidos em outros locais (por exemplo, nossos serviços de anúncio), mas exclui serviços que tenham políticas de privacidade separadas que não incorporam esta Política de Privacidade.
 
 Nossa Política de Privacidade não se aplica a serviços oferecidos por outras empresas ou indivíduos, inclusive produtos ou sites que podem ser exibidos ao usuário nos resultados de pesquisa, sites que podem incluir serviços da Google, ou outros sites com links de nossos serviços. Nossa Política de Privacidade não abrange as práticas de informação de outras empresas e organizações que anunciam nossos serviços e que podem usar cookies, pixels tags e outras tecnologias para oferecer anúncios relevantes.
 
-Compliance e cooperação com as autoridades reguladoras
+Voltar ao início Compliance e cooperação com as autoridades reguladoras
 
 Revisamos regularmente nosso cumprimento com a Política de Privacidade. Aderimos também a várias estruturas de autorregulamentação. Quando recebemos reclamações formais por escrito, entramos em contato com o autor da reclamação para acompanhamento. Trabalhamos com autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados para resolver quaisquer reclamações referentes à transferência de dados pessoais que não podemos resolver diretamente com nossos usuários.
 
-Alterações
+Voltar ao início Alterações
 
 Nossa Política de Privacidade pode ser alterada de tempos em tempos. Nós não reduziremos os direitos do usuário nesta Política de Privacidade sem seu consentimento explícito. Publicaremos quaisquer alterações da política de privacidade nesta página e, se as alterações forem significativas, forneceremos um aviso com mais destaque (incluindo, para alguns serviços, notificação por e-mail das alterações da política de privacidade). Também manteremos as versões anteriores desta Política de Privacidade arquivadas para que o usuário possa visualizá-las.
 
-Práticas específicas de produto
+Voltar ao início Práticas específicas de produto
 
 Os seguintes avisos explicam as práticas de privacidade específicas em relação a determinados produtos e serviços da Google que o usuário pode utilizar:
 
 *   Google Chrome e Chrome OS
 *   Google Livros
-*   Carteira virtual do Google
+*   Payments
 *   Fiber
 
 Para mais informações sobre alguns dos nossos serviços mais populares, visite o Guia de Privacidade do Produto Google.
 
-Outros materiais úteis relacionados a privacidade e segurança
+Voltar ao início Outros materiais úteis relacionados a privacidade e segurança
 
 Além disso, materiais úteis relacionados a privacidade e segurança podem ser encontrados nas páginas de políticas e princípios da Google, incluindo:
 
