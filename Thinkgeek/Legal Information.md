@@ -45,7 +45,7 @@ Bug Us the Old Fashioned Ways
 
 **ThinkGeek, Inc.** 11216 Waples Mill Rd. Suite 100  
 Fairfax, VA 22030  
-703-293-6299
+508-970-2002
 
 Need a map?  
 Sorry locals, we don't have a walk-in store. Just our offices. If you need to come by for an interview, please call first. Thanks!
