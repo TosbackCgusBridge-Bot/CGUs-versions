@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13738181251
+true true 10.60.216.10 C13612726792
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Tue Jun 30 10:14:26 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p07.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Wed Jul 01 07:35:27 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,96 +48,95 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   sizzling  
-    summer  
-    sale
-*   stock up on  
-    essentials  
-    for the family
+*   starts now!  
+    4th of  
+    July sale
 *   home sale  
     30-50% off
     
     select styles
     
-*   semi-annual  
-    intimates sale  
-    20% off
+*   cool summer styles  
+    40-50% off
     
-    2 or more  
+    select styles
+    
+*   school uniforms  
+    40-50% off
+    
     select styles
     
 
-*   Sizzling Summer Sale Shop the Sizzling Summer Sale View Store Ad &bnsp. Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Lingerie Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Furniture and Mattresses$15 Off $15 Bonus Ca$h!
+*   &bnsp;4th of July Sale
     
-    June 24-July 5 | In Store Only!
+    Starts now! In store and online.
     
-    Earn a $15 off $15 bonus cash coupon when you purchase $75 in JCPenney Gift Cards. Redeemable July 6 through July 18, 2015 on home purchases only. Terms and conditions apply to gift cards. See card details. Some restrictions and exclusions apply. See store associate for details.
+    Shop the 4th of July Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Lingerie Shop Home50% Off Swim for the Family
     
-*   Stock Up for Summer
+    Select styles
     
-    $6.99 Stylus, A.N.A and St. John's Bay Tees, select styles, reg $14
+    Shop Swim$10 Off $25 Bonus Ca$h!
     
-    Shop Women's Tees Shop A.N.A
+    July 1-5 | In Store Only!
     
-    $9.99 St. John's Bay Polos, select styles, reg $26
+    Earn a $10 off $25 Bonus Cash coupon when you spend $25 or more in store on men's &. women's apparel or Sephora. Redeemable July 1-15, 2015 on women's accessories, fine jewelry and shoes. Some restrictions and exclusions apply. See store associate for details.
     
-    Shop St. John's Bay Polos
+    Use your coupon and save even more!
     
-    $4.49 Boys' or Girls' Arizona Tee, select styles, reg $12
+    Night and Day Doorbusters | In Store and Online | All Day Friday through Saturday 1pm CDT
     
-    Shop Kids Arizona Tees
-*   Home Sale | 30-50% Off Home Collections
+    Shop now:
+*   4th of July Home Sale | 30-50% Off Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage
     
-    Select styles.
+    40 to 50% Off Furniture and Mattresses, select styles
     
-    Shop All Home
+    Shop Furniture and Mattresses
     
-    40 to 50% Off Window, select styles
+    Plus no interest if paid in full within 36 months on furniture and mattress purchases of $1500 or more (after discounts) made on a JCPenney Credit Card.
     
-    Shop Window Shop Bedding and Bath Shop Furniture and Mattresses Shop Kitchen and Dining Shop Luggage Shop Home DecorExplore
+    Get details:
+*   Get Set for Summer    
     
-    Our spring/summer catalog is here.
+    40 to 50% Off Kids' Arizona, select styles
     
-    Shop the Home Catalog
-*   Semi-Annual Intimates Sale
+    Shop Kids' Arizona
     
-    Now through July 7
+    40 to 50% Off St. John's Bay Apparel, select styles
     
-    Shop the Semi-Annual Intimates Sale20% Off Bras
+    Shop Women's St. John's Bay Apparel Shop Men's St. John's Bay Apparel
+*   Play Hard. Dress Smart.
     
-    Select styles when you buy two or more.
+    40 to 50% Off School Uniforms
     
-    Shop Bras  Playtex Week Ends June 30
-    
-    FREE Playtex Bra by mail when you buy 1 bra for $24.99, reg. $33-$38
-    
-    Get Playtex week details
+    Shop Girls Shop Boys Shop Juniors Shop Guys         Shop Shoes
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Hello Dorm Shop all Dorm Shop Bedding Shop Small Appliances JCPenney Rewards
+Try it now: Clearance 50 to 80% Off
 
-Shop to earn $10 JCPenney Rewards.
+New Markdowns! In Store and Online
 
-Sign up today: School Uniforms
+Shop Clearance Free Shipping on $25 or More
 
-Play hard. Dress smart.
+When you download the App by July 5!
 
-Shop School Uniforms: Just $5
+Check out the App Download on the App Store Get it on Google play Sign Up For Email Offers
+
+Get the styles, sizes and prices you love delivered right to your inbox, plus be one of the first to know about sales and savings in store and online.
+
+Sign Up Today SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Star Wars™ Shop Star Wars: Just $5
 
 Get ALL your favorite magazines from TimeInc. today.
 
-Shop Magazines: Star Wars™ Shop Star Wars: Download and Get Shopping
+Shop Magazines:
 
-Find and save your faves. Save coupons on your phone. Quick scan in-store product lookup.
-
-Check out the app Download on the App Store Get it on Google play
-
-Recommendations Discover handpicked items we think you'll love. sign in
-
-get connected
+Recommendations Discover handpicked items we think you'll love. sign in get connected
 
 *   1.800.322.1189
 *   email offers
