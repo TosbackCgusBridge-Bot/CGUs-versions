@@ -18,7 +18,7 @@ Sencha
         *   Sencha Architect
         *   Sencha Cmd
     *   Management
-        *   Sencha Space
+        *   Sencha Web Application Manager
     *   Sencha Market
 *   Services
     *   Professional Services
@@ -41,12 +41,13 @@ Sencha
     *   Press Releases
     *   Careers
 *   Store
-    *   Sencha Complete
-    *   Sencha Touch Bundle
     *   Sencha Ext JS
     *   Sencha GXT
-    *   Sencha Touch Support
     *   Sencha Architect
+    *   Sencha Touch Support
+    *   Sencha Web Application Manager
+    *   Sencha Complete
+    *   Sencha Touch Bundle
     *   Licensing
     *   Ordering Information
     *   Authorized Resellers
@@ -183,7 +184,7 @@ Get Sencha NewsBuy Online
     *   Sencha Touch
     *   Sencha Architect
     *   Sencha Cmd
-    *   Sencha Space
+    *   Sencha Web Application Manager
     *   Sencha Market
 
 *   Services
@@ -217,12 +218,13 @@ Get Sencha NewsBuy Online
     *   Contact Us
 
 *   Store
-    *   Sencha Complete
-    *   Sencha Touch Bundle
     *   Sencha Ext JS
     *   Sencha GXT
-    *   Sencha Touch Support
     *   Sencha Architect
+    *   Sencha Touch Support
+    *   Sencha Web Application Manager
+    *   Sencha Complete
+    *   Sencha Touch Bundle
     *   Licensing
     *   Ordering Information
     *   Authorized Resellers
