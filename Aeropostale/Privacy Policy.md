@@ -12,9 +12,10 @@ Aéropostale Go
     *   NEW ARRIVALS
     *   Bethany Mota
     *   United XXVI
+    *   Tokyo Darling
+    *   Free State
     *   Throwback Tees
     *   Shop by Outfit
-    *   Party Dresses
     *   Swim Shop
     *   Uniform
     *   Online Only
@@ -59,6 +60,7 @@ Aéropostale Go
     *   United XXVI
     *   Throwback Tees
     *   Brooklyn Calling
+    *   Free State
     *   Shop by Outfit
     *   Uniform
     *   Online Only
@@ -79,7 +81,7 @@ Aéropostale Go
     *   Pants
     *   Shorts
     
-    *   UNDERWEAR + LOUNGE
+    *   UNDERWEAR
     *   SHOES
     *   ACCESSORIES
 *   Room
