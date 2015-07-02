@@ -34,7 +34,6 @@ Search
     *   Schedule
     *   Faces of CNN Worldwide
 *   Features
-    *   Style
     *   Travel
     *   All Features
 *   Opinions
@@ -308,9 +307,8 @@ _The Privacy Statement posted on this Site was updated on January 3, 2015._
     3.  Faces of CNN Worldwide
 
 1.  Features
-    1.  Style
-    2.  Travel
-    3.  All Features
+    1.  Travel
+    2.  All Features
 
 1.  Opinions
     1.  iReport
