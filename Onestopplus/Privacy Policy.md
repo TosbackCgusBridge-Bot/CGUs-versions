@@ -112,6 +112,7 @@ If you are receiving third party advertising and you do not want these companies
 *   Didit:  
      • Opt-out 1  
      • Opt-out 2
+*   Yahoo Opt-out
 
 As an additional step, if you would prefer not to participate in the services offered through these solutions, you can reach a larger group of advertisers with your opt out request by visiting the Network Advertising Initiative (NAI) website by clicking the following link:
 
