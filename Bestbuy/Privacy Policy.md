@@ -73,7 +73,7 @@ We use the information we collect for things like:
 *   Conducting research and analysis
 *   Establishing and managing your accounts with us
 *   Communicating things like special events, sweepstakes, promotions and surveys
-*   Processing Best Buy credit card or My Best Buy® MasterCard applications
+*   Processing My Best Buy® Credit Card applications
 *   Identifying you on our websites and tailoring advertisements and offers to you (both on our websites and on other websites) based on your interactions with us in our stores and online
 *   Facilitating interactions with Best Buy and others, such as enabling you to e-mail a link to a friend
 *   Operating, evaluating and improving our business
