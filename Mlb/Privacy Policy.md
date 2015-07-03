@@ -1,6 +1,6 @@
 To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. Español 한국어 繁體中文
 
-Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Vote Auction Teams
+Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
 
 *   Scores
 *   News News News
@@ -180,8 +180,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   MLB.com Fantasy Baseball 2013
     *   CBSSports.com Commissioner
     *   Player Preview
-    *   Postseason Bracket ChallengeR.B.I. Baseball 15 DraftKings
-*   Vote
+    *   Postseason Bracket ChallengeMLB.com Home Run Derby DraftKings R.B.I. Baseball 15
 *   Auction
 *   Teams Teams American League AL East
     
