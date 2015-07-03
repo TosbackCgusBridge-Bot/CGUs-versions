@@ -18,7 +18,7 @@ We may collect information in different ways:
 
 **Information you Voluntarily Provide.** Personally identifiable information you voluntarily provide may be collected if it is necessary to administer the Services. For example, when you sign up for an account or other Services that require registration or payment, we ask you for personal information such as your name, address, billing information, account name or password. We DO NOT use your personal information other than to administer the Services. We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services. If payment is required for the Services you have selected, we request credit card or other payment or billing information, which we maintain in encrypted form on secure servers.
 
-The information voluntarily provided by you during the registration process may also include or naturally entail other demographic information which is not personally identifying, such as gender, preferred language, age, occupation, household income, ZIP code or country. .
+The information voluntarily provided by you during the registration process may also include or naturally entail other demographic information which is not personally identifying, such as gender, preferred language, age, occupation, household income, ZIP code or country.
 
 **Information we may collect from your use of our Services:**
 
@@ -83,6 +83,6 @@ If we propose to use personal information for any purposes other than those desc
 
 6\. Changes to this Privacy Policy
 
-This Privacy Policy may change from time to time. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
+This Privacy Policy may change from time to time and an updated Privacy Policy will be available and accessible on our website. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
-Last updated: March 30, 2013
+Last updated: June 26, 2015
