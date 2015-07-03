@@ -35,7 +35,7 @@ Macy's • UnitedHealth Group • Firestone • Chipotle • Vitamin Shoppe • 
 
 **Browse All Categories** **Browse All Locations** **Browse All Companies** You account has been removed.  
   
-Need Help? help center
+**Speed up your job search.** Let us send you an email with the newest job postings. Email Job Title Location **Finding a new job just got easier.** You'll start receiving emails for new job postings this week. Need Help? help center
 
 *   job seekers
 *   Find Jobs
