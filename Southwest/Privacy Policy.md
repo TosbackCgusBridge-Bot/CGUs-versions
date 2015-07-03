@@ -118,7 +118,7 @@ Subscribe | Unsubscribe
 
 Promotional Mailings
 
-As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
+As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 1-855-234-4654 (Monday - Friday, 7am-8pm CT).
 
 Account Information
 
@@ -190,7 +190,7 @@ If you think we may have incorrect personally identifiable information about you
 
 Your Online Password
 
-Your Rapid Rewards® or Southwest account online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight credits, partner credits, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
+Your Rapid Rewards® or Southwest account online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight points, partner points, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
 
   
 We do not require your social security number to enroll in the Rapid Rewards Program, create a Southwest or SWABIZ account or when you make a purchase. You do, however, have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account. This information will help us confirm your identity on **southwest.com**.
@@ -205,4 +205,4 @@ This privacy policy is current as of the effective date set forth below. Southwe
 
 Additional Privacy Policy for Mexico
 
-Updated: February 20, 2014
+Updated: July 1, 2015
