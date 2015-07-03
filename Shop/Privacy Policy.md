@@ -18,7 +18,7 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
-    *   Hot Summer, Cool Savings. Get these deals before they cool off!
+    *   Fourth of July Sale Check Out These Sparkling Deals Before They Fizzle Out!
         
         Save up to 80% Site-Wide
         
@@ -26,9 +26,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
         
-    *   Warranty Sale Protect and Save
+    *   ThinkCentre Sale Rock-solid reliability and security
         
-        With up to 20% Select Warranties
+        With Up to 22% off
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
