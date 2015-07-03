@@ -130,7 +130,7 @@ Home  /  Privacy Policy Overview
 *   Display Media
 *   Publisher Monetization
 
-I nostri servizi
+Resources
 
 *   Blog
 *   Case Studies
