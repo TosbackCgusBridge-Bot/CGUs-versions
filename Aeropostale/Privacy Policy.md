@@ -81,6 +81,7 @@ Aéropostale Go
     *   Pants
     *   Shorts
     
+    *   JACKETS
     *   UNDERWEAR
     *   SHOES
     *   ACCESSORIES
