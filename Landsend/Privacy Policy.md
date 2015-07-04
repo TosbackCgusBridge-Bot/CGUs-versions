@@ -26,7 +26,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             
             *   New Arrivals
             *   New UPF 50 Swim Tee
-            *   Summer Must Haves
+            *   Little Black Dress
             *   Tunic Shop
             *   Sale
         *   Shop By Size Range
