@@ -1,6 +1,6 @@
-Browse the summer’s
+Independence Day Sale
 
-new arrivals.
+Up to 60% Off
 
 Guest Services 800-607-9788
 
