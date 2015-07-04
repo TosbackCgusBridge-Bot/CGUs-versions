@@ -1,4 +1,4 @@
-T-Mobile Privacy Policy December 30, 2013  
+T-Mobile Privacy Policy July 4, 2015  
 Please click here for Spanish version of the T-Mobile Privacy Policy  
 Please click here for the T-Mobile Privacy Policy Highlights  
   
