@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.248.10 L13742932756
+true true L13746401913
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p02.jcpenney.com SERVER NAME :->. dtcompr1l2j2 TIME :->. Fri Jul 03 08:51:51 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Jul 04 09:02:16 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,9 +48,11 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   starts now!  
-    4th of  
-    July sale
+*   happy  
+    4th of july!  
+    extra 25% off
+*   4th of  
+    july sale
 *   home sale  
     30-50% off
     
@@ -61,15 +63,19 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     select styles
     
-*   school uniforms  
-    40-50% off
-    
-    select styles
-    
 
+*   Happy 4th of July
+    
+    Today Only! | Online Only | July 4 | Code: 4THJULY
+    
+    Extra 25% Off\* select styles  
+    OR Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.  
+    \*Some exclusions apply.
+    
+    Get details:
 *   &bnsp;4th of July Sale
     
-    Starts now! In store and online.
+    In store and online.
     
     Shop the 4th of July Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Lingerie Shop Home50% Off Swim for the Family
     
@@ -77,7 +83,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     Shop Swim$10 Off $25 Bonus Ca$h!
     
-    July 1-5 | In Store Only!
+    Ends July 5 | In Store Only!
     
     Earn a $10 off $25 Bonus Cash coupon when you spend $25 or more in store on men's &. women's apparel or Sephora. Redeemable July 1-15, 2015 on women's accessories, fine jewelry and shoes. Some restrictions and exclusions apply. See store associate for details.
     
@@ -104,11 +110,6 @@ Your version of Internet Explorer is out of date. For best experience please upg
     40 to 50% Off St. John's Bay Apparel, select styles
     
     Shop Women's St. John's Bay Apparel Shop Men's St. John's Bay Apparel
-*   Play Hard. Dress Smart.
-    
-    40 to 50% Off School Uniforms
-    
-    Shop Girls Shop Boys Shop Juniors Shop Guys         Shop Shoes
 
 Just For You
 
@@ -130,11 +131,11 @@ Sign Up Today SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Star Wars™ Shop Star Wars: Just $5
+Shop SportsFanShop School Uniforms
 
-Get ALL your favorite magazines from TimeInc. today.
+Play hard. Dress smart.
 
-Shop Magazines:
+Shop School Uniforms: Star Wars™ Shop Star Wars:
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
