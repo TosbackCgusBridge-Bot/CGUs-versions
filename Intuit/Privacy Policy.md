@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13746401913
+true true L13747946910
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p07.jcpenney.com SERVER NAME :->. dtcompr1l1j1 TIME :->. Sat Jul 04 09:02:16 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sun Jul 05 03:48:50 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,94 +48,78 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   happy  
-    4th of july!  
-    extra 25% off
-*   4th of  
-    july sale
+*   last day!  
+    4th of july  
+    sale
 *   home sale  
     30-50% off
     
     select styles
     
-*   cool summer styles  
-    40-50% off
+*   semi-annual  
+    intimates  
+    sale  
+    20% off
+    
+    select styles
+    
+*   dorm  
+    30-50% off
     
     select styles
     
 
-*   Happy 4th of July
+*   4th of July Sale
     
-    Today Only! | Online Only | July 4 | Code: 4THJULY
+    Last day!
     
-    Extra 25% Off\* select styles  
-    OR Extra 10% Off\* watches, salon products, furniture, mattresses and custom blinds and shades.  
-    \*Some exclusions apply.
+    Shop the 4th of July Sale View Store Ad Shop Swim Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Lingerie Shop Jewelry and Watches Shop Home$10 Off $25 Bonus Ca$h!
     
-    Get details:
-*   &bnsp;4th of July Sale
-    
-    In store and online.
-    
-    Shop the 4th of July Sale View Store Ad Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Jewelry Shop Lingerie Shop Home50% Off Swim for the Family
-    
-    Select styles
-    
-    Shop Swim$10 Off $25 Bonus Ca$h!
-    
-    Ends July 5 | In Store Only!
+    Last day! July 5 | In Store Only!
     
     Earn a $10 off $25 Bonus Cash coupon when you spend $25 or more in store on men's &. women's apparel or Sephora. Redeemable July 1-15, 2015 on women's accessories, fine jewelry and shoes. Some restrictions and exclusions apply. See store associate for details.
     
-    Use your coupon and save even more!
-    
-    Night and Day Doorbusters | In Store and Online | All Day Friday through Saturday 1pm CDT
-    
-    Shop now:
-*   4th of July Home Sale | 30-50% Off Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage
+*   Home Sale | 30-50% Off Select Styles Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage
     
     40 to 50% Off Furniture and Mattresses, select styles
     
     Shop Furniture and Mattresses
+*   Semi-Annual Intimates Sale
     
-    Plus no interest if paid in full within 36 months on furniture and mattress purchases of $1500 or more (after discounts) made on a JCPenney Credit Card.
+    Final Days! Ends July 7
     
-    Get details:
-*   Get Set for Summer    
+    Shop the Semi-Annual Intimates Sale
     
-    40 to 50% Off Kids' Arizona, select styles
+    20% Off Bras, select styles, when you buy 2 or more
     
-    Shop Kids' Arizona
+    Shop Bras Shop Ambrielle
+*   Hello Dorm
     
-    40 to 50% Off St. John's Bay Apparel, select styles
+    30 to 50% Off select styles
     
-    Shop Women's St. John's Bay Apparel Shop Men's St. John's Bay Apparel
+    Shop All Dorm Dorm Checklist Shop Decor Shop Bedding Shop Organization Shop Kitchen Shop Bath
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Clearance 50 to 80% Off
+Try it now: Back to School
+
+It's how you put it together that sets you apart.
+
+Find Your Style: Shop Uniforms Shop Converse, excluded from coupon Clearance 50 to 80% Off
 
 New Markdowns! In Store and Online
 
-Shop Clearance Free Shipping on $25 or More
-
-When you download the App by July 5!
-
-Check out the App Download on the App Store Get it on Google play Sign Up For Email Offers
-
-Get the styles, sizes and prices you love delivered right to your inbox, plus be one of the first to know about sales and savings in store and online.
-
-Sign Up Today SportsFanShop
+Shop Clearance SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop School Uniforms
+Shop SportsFanShop People StyleWatch Must Haves
 
-Play hard. Dress smart.
+Sponsored content.
 
-Shop School Uniforms: Star Wars™ Shop Star Wars:
+Shop People StyleWatch Now Check out our blog, Styled by JCPenney Read It Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
