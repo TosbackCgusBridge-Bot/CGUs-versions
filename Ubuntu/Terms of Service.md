@@ -3,7 +3,9 @@
 *   Overview
 *   Terms and policies
 *   Ubuntu Advantage
+*   Bootstack
 *   Contributors
+*   Short terms
 
 Ubuntu legal terms and policies
 
@@ -19,4 +21,12 @@ A legal description of the services included in the Ubuntu Advantage support pac
 
 Contributors agreement ›
 
-Details of the agreement you need to send to us before you begin contributing to Ubuntu.
+Details of the agreement you need to send to us before you begin contributing to projects at Canonical.
+
+Bootstack terms ›
+
+A legal description of the services included in Bootstack.
+
+Short terms ›
+
+This agreement sets out Canonical’s standard service terms for both Ubuntu Advantage and Bootstack customers.
