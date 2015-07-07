@@ -70,7 +70,7 @@ You may terminate the Agreement for breach on written notice if: (i) we material
 
 **13\. ACCESS TO YOUR CUSTOMER DATA OR USE OF THE SERVICES.** Rackspace is not responsible to you for unauthorized access to your data or the unauthorized use of the Services unless the unauthorized access or use results from Rackspace's failure to meet its security obligations stated in the Agreement. You are responsible for the use of the Services by any employee of yours, any person to whom you have given access to the Services, and any person who gains access to your data or the Services as a result of your failure to use reasonable security precautions, even if such use was not authorized by you.
 
-Rackspace agrees that it will not use or disclose Customer Data. Customer Data is and at all times shall remain the exclusive property of Customer and will remain in the exclusive care, custody, and control of Customer.
+Rackspace agrees that it will not use or disclose Customer Data other than as directed as part of the Services. Customer Data is and at all times shall remain the exclusive property of Customer and will remain in the exclusive care, custody, and control of Customer.
 
 **14\. DISCLAIMERS.**
 
