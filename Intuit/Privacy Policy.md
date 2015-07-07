@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  leta
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13747946910
+true true C13627310646
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtappr1p18.jcpenney.com SERVER NAME :->. dtcompr1l2j3 TIME :->. Sun Jul 05 03:48:50 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtappr1p20.jcpenney.com SERVER NAME :->. dtcompr1c2j3 TIME :->. Mon Jul 06 12:47:27 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,11 +48,13 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   last day!  
-    4th of july  
-    sale
-*   home sale  
-    30-50% off
+*   2 days only!  
+    up to 50% off
+    
+    select home
+    
+*   2 days only!  
+    extra 20% off
     
     select styles
     
@@ -63,27 +65,44 @@ Your version of Internet Explorer is out of date. For best experience please upg
     
     select styles
     
-*   dorm  
-    30-50% off
+*   stock up
     
-    select styles
+    on dorm  
+    essentials
     
 
-*   4th of July Sale
+*   2 Days Only!
     
-    Last day!
+    Online Only | Ends July 7 | Code: SAVNJUL
     
-    Shop the 4th of July Sale View Store Ad Shop Swim Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Juniors Shop Lingerie Shop Jewelry and Watches Shop Home$10 Off $25 Bonus Ca$h!
+    Get details:
     
-    Last day! July 5 | In Store Only!
+    50% Off\* select orig and reg-priced items
     
-    Earn a $10 off $25 Bonus Cash coupon when you spend $25 or more in store on men's &. women's apparel or Sephora. Redeemable July 1-15, 2015 on women's accessories, fine jewelry and shoes. Some restrictions and exclusions apply. See store associate for details.
+    Shop Bedding and Bath Shop Luggage Shop Window
     
-*   Home Sale | 30-50% Off Select Styles Shop All Home Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Home Decor Shop Luggage
+    40% Off\* select orig and reg-priced items
     
-    40 to 50% Off Furniture and Mattresses, select styles
+    Shop Home Decor Shop Furniture and Mattresses
     
-    Shop Furniture and Mattresses
+    30% Off\* select orig and reg-priced items
+    
+    Shop Kitchen and Dining Shop Vacuums and Floorcare Shop Storage and Organization
+    
+    \*exclusions apply
+    
+*   2 Days Only!
+    
+    Online Only | Ends July 7 | Code: SAVNJUL
+    
+    Get details:
+    
+    Extra 20% Off\* select orig, reg, sale and clearance-priced items
+    
+    Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Fashion Jewelry Shop Baby Furniture Shop Baby Bedding Shop Clearance
+    
+    \*exclusions apply
+    
 *   Semi-Annual Intimates Sale
     
     Final Days! Ends July 7
@@ -95,7 +114,7 @@ Your version of Internet Explorer is out of date. For best experience please upg
     Shop Bras Shop Ambrielle
 *   Hello Dorm
     
-    30 to 50% Off select styles
+    Stock up on everything you need to transform your space.
     
     Shop All Dorm Dorm Checklist Shop Decor Shop Bedding Shop Organization Shop Kitchen Shop Bath
 
