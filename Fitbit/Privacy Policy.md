@@ -12,6 +12,7 @@ Fitbit
 *   Experiences
     *   Mobile App + Dashboard
     *   Premium Membership
+    *   FitStar
     *   Compatible Apps
     *   PurePulse
     *   Why Fitbit
