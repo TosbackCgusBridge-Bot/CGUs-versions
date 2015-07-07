@@ -1,3 +1,8 @@
+We use cookies to deliver the best possible experience on our website. To lean more, visit our Privacy Policy.  
+By continuing to use this site, or closing this box, you consent to our use of cookies.
+
+x
+
 *   Sign In |
 *   Register |
 *   Select a Gartner site
