@@ -1,15 +1,8 @@
 Seeking Alpha
 
-*   DASHBOARDS
+*   THEMES
 *   Home
 
-*   Macro View
-
-*   Investing Ideas
-
-*   Portfolio Strategy
-
-*   INSIGHT CENTERS
 *   Alt Investing
 
 *   Dividend Investing
@@ -19,6 +12,12 @@ Seeking Alpha
 *   ETF Hub
 
 *   Income Investing
+
+*   Investing Ideas
+
+*   Macro View
+
+*   Portfolio Strategy
 
 *   MY ACCOUNT
 *   Email Settings
