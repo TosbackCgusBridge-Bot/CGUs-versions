@@ -103,7 +103,8 @@ Symptoms| Doctors| Health Care Reform
     
     Diet, Food &. Fitness
     
-    *   Weight Loss &. Diet Plans
+    *   Diet &. Weight Management
+    *   Weight Loss &. Obesity
     *   Food &. Recipes
     *   Fitness &. Exercise
     
@@ -120,7 +121,6 @@ Symptoms| Doctors| Health Care Reform
     *   Men's Health
     *   Aging Well
     *   Teens
-    *   Fit Kids
     
     Featured Topics
     
