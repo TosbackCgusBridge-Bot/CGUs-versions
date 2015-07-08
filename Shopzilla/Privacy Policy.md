@@ -156,3 +156,10 @@ Stay Connected
 &copy 2015 Connexity, Inc. / Privacy Policy / Opt Out / Site Map
 
 Connexity® and Audience Discovery® are registered trademarks of Connexity, Inc.
+
+It looks like you are located in the Some Country.
+
+Would you like to go to  
+Some Location?
+
+Some Location Stay on this page
