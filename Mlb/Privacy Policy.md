@@ -54,9 +54,10 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Soak Up Summer
     *   #Whiffs
     *   MLB Legends
-    *   Daily Dash
+    *   #MLBMemoryBank
     *   Cut 4
     *   MLB Pipeline
+    *   Daily Dash
 *   Stats Stats Stats
     *   Players
     *   Regular Season League Leaders
