@@ -102,7 +102,7 @@ Menu Explore HSBC.com Search
         *   Consensus financial estimates
         *   Investor contacts
         *   Electronic communication
-        *   Frequently asked questions - Investor relations
+        *   Frequently asked questions - investor relations
 *   News and insight in News and insight
     
     Get the latest news, analysis and commentary. Our business specialists share their views.
