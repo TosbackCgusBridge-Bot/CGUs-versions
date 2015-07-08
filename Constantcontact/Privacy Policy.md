@@ -16,19 +16,24 @@ Information Collection and Use by Us
 *   We may monitor or record any of your telephone conversations with us for quality control purposes, for purposes of training our employees and for our own protection.
 *   We acknowledge your ownership rights in your contact lists, content and phone numbers. We will never sell or rent this information without your permission, and will never use it for any purpose other than providing you with and improving our products and services or as described in this privacy statement.
 
-Security and Privacy  
+Security and Privacy
+
 We employ reasonable technical, administrative and physical safeguards to protect the confidentiality and security of your personal information.
 
-Sharing of Information  
+Sharing of Information
+
 We will never sell or rent your personal information to third parties for their use without your consent. We may share your contact and other information with our partners for limited purposes, with certain third parties (who may only use the information for the purpose for which it was provided), with courts, law enforcement and other relevant third parties, or with our acquirer if we are ever acquired.
 
-Cookies and Web Beacons  
+Cookies and Web Beacons
+
 We use cookies and other technology to keep track of your online interaction with our Sites. Information gathered through usage of a cookie is not linked to any personal identifying information, unless you become a trial or paying customer.
 
-Online Advertising  
+Online Advertising
+
 We use pixels, or transparent GIF files, to help manage online advertising with certain partners.
 
-Choice/Opt-out  
+Choice/Opt-out
+
 You always have the opportunity to opt-out or change preferences in our non-transactional email messages to you by following a link in the footer of all non-transactional email messages sent by us or by emailing us at support@constantcontact.com.
 
 Access to Personal Information
@@ -37,27 +42,32 @@ Access to Personal Information
 *   You can update your SinglePlatform account information, suspend or cancel your account or obtain further information about or access to your personal information, by contacting the SinglePlatform account management team at (866) 289-2087.
 *   We will retain and use your information for as long as your account is active or as needed to provide you services, as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. Notwithstanding the foregoing, we may continue to disclose your storefront information to third parties in a manner that does not reveal personal information after you suspend or cancel your SinglePlatform account unless you request otherwise.
 
-Refer a Friend  
+Refer a Friend
+
 If you choose to use our referral service to tell a friend about our Sites or our products and services, we will automatically send your friend a one-time email inviting him or her to visit our website.
 
-Third Party Links and Information Collection and Use by Our Customers  
+Third Party Links and Information Collection and Use by Our Customers
+
 Some of our Sites provide links to third-party websites. We are not responsible for the privacy practices of any third parties or our customers.
 
-Children  
+Children
+
 Our Sites and our products and services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13.
 
-International Use  
+International Use
+
 We are headquartered in the United States of America and you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States.
 
 Accountability
 
-*   Questions and inquiries concerning your privacy may be directed by email to privacy@constantcontact.com or write us:  
-    Constant Contact, Inc.  
-    1601 Trapelo Road Waltham, MA 02451  
+*   Questions and inquiries concerning your privacy may be directed by email to privacy@constantcontact.com or write us: Constant Contact, Inc.  
+    1601 Trapelo Road  
+    Waltham, MA 02451  
     Attention: Privacy Manager
 *   We are a licensee of the TRUSTe privacy program. If we do not promptly answer your question, you can contact TRUSTe.
 
-Notification of Changes  
+Notification of Changes
+
 If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on the Constant Contact website. For major changes in how we use personally identifying data, we will provide advance notice. In all cases, your continued use of any Site or our products and services constitutes consideration and your binding acceptance to any such changes.
 
 Information Collection and Use by Us
