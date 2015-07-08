@@ -1,6 +1,6 @@
-Independence Day Sale
+Military Guests, thank you for your service.
 
-Up to 60% Off
+10% Military Discount
 
 Guest Services 800-607-9788
 
