@@ -8,6 +8,7 @@
     *   About
     *   Blog
     *   Jobs
+    *   Support
     *   Contact
 
 *   Products
@@ -20,6 +21,7 @@
     *   About
     *   Blog
     *   Jobs
+    *   Support
     *   Contact
 
 Privacy Policy 1. Data Collection, Processing and Use
@@ -74,7 +76,7 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 *   Enterprises
 *   Partners
 *   Telcos
-*   Documentation
+*   Support
 *   Blog
 *   Jobs
 *   Contact
@@ -84,11 +86,11 @@ Do you like Phonedeck? Try it right now for free! Get 30 days trial! Menu
 
 Recent Blog Posts
 
+*   How to improve business process efficiency with enterprise mobility July 7, 2015
 *   Phonedeck is hiring – Senior Fullstack Software Engineer July 1, 2015
 *   Phonedeck’s partner Alcatel-Lucent awarded by GSMA March 9, 2015
 *   How to adopt mobility in your organization February 25, 2015
 *   Productivity is about daily task management February 11, 2015
-*   Phonedeck has won the Disruptive Innovator 2015 award during Enterprise Mobility Management Forum January 30, 2015
 
 Phonedeck Newsletter Email Address\* First Name\* Last Name\* Company \* = required field About Phonedeck
 
