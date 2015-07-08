@@ -3,7 +3,9 @@ Skip to main content  Menu
 *   Claims
 *   Log In
 
-Your Policies Log In
+Your Policies
+
+Log In
 
 First time logging in? Start here
 
@@ -11,37 +13,7 @@ Or, skip logging in:
 
 Make a Payment
 
-
-
-*   Insurance
-    *   Auto
-    *   Homeowners
-    *   Renters
-    *   Motorcycle
-    *   Boat
-    *   RV
-    *   Commercial Auto
-    *   Life
-    *   Health
-    *   View Everything
-*   Claims
-    *   Report/Track a Claim
-    *   The Process
-    *   Service Centers
-    *   Roadside Assistance
-    *   Catastrophe Claims
-Your Policy*   About
-    *   Overview
-    *   Careers
-    *   Newsroom
-    *   Investors
-    *   @Progressive
-Privacy &. Security
-
-*   Web Site Security
-*   Report Fraud
-
- Search / Keywords Progressive Privacy Policy
+Progressive Privacy Policy
 
 *   Home
 *   Privacy &. Security
@@ -143,6 +115,38 @@ Connect
 *   Careers
 *   Progressive App
 *   Investors
+
+
+
+*   Insurance
+    *   Auto
+    *   Homeowners
+    *   Renters
+    *   Motorcycle
+    *   Boat
+    *   RV
+    *   Commercial Auto
+    *   Life
+    *   Health
+    *   View Everything
+*   Claims
+    *   Report/Track a Claim
+    *   The Process
+    *   Service Centers
+    *   Roadside Assistance
+    *   Catastrophe Claims
+Your Policy*   About
+    *   Overview
+    *   Careers
+    *   Newsroom
+    *   Investors
+    *   @Progressive
+Privacy &. Security
+
+*   Web Site Security
+*   Report Fraud
+
+ Search / Keywords
 
 *   
 *   
