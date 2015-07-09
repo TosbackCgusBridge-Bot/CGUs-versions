@@ -1,6 +1,6 @@
 Privacy Policy Information Collection and Use
 
-This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves such as their email address. This information will never be shared or sold. Users may remove themselves and their information from the web site's database by contacting us. This website and the advertisers on this website conform to the Children's Online Privacy Protection Act.
+This site logs the IP addresses and types of browser used by its guests. This information is used to monitor and make improvements to the site. This site does not secretly collect any personally identifiable information. User's may choose to become a registered user, in which case they may choose to reveal information about themselves, such as their email address and other information. This information will never be shared or sold beyond what is described below. Users may remove themselves and their information from the website's database by contacting us. This website and the advertisers on this website conform to the Children's Online Privacy Protection Act.
 
 Cookies
 
@@ -17,6 +17,8 @@ We use IP addresses and browser type to analyze trends and administer the site. 
 Analytics
 
 Toodledo uses Google Analytics to monitor the website and make improvements. Google collections information such as your IP number and browser. Google also infers information such as gender and age and aggregates this information in a way that enables us to improve our service. You may opt-out of Google's tracking here and here. Toodledo does not facilitate the merging of personally identifiable information with non-personally identifiable information collected by Google.
+
+If you agree to become a beta tester, we may use additional 3rd party analytics software to collection additional information that we may need to improve our service.
 
 Sharing
 
