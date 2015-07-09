@@ -87,6 +87,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Depth Charts
     *   Transactions
     *   Top Prospects
+    *   Interactive All-Star rosters
     *   Mobile Player Alerts
     *   MLB Players Association
     *   Probable Pitchers
