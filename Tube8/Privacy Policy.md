@@ -226,7 +226,7 @@ Parents, you can easily block access to this site. Please read this page for mor
 
 TUBE8 - Content Partner Program
 
-**Boost your brand. get Tube8 to send you traffic!** Tube8's Content Partner Program enables content owners to have their videos shown to a huge worldwide audience with a text link above and below each video and the possibility of an underplayer ad below each video, both pointing back to your site.
+**Boost your brand. Get Tube8 to send you traffic!** Tube8's Content Partner Program enables content owners to have their videos shown to a huge worldwide audience with a text link above and below each video and the possibility of an underplayer ad below each video, both pointing back to your site.
 
 Tube8 does not charge any upfront fees to join or upload. We receive compensation through your existing PPS or RevShare affiliate program. We only get paid when you get paid.
 
