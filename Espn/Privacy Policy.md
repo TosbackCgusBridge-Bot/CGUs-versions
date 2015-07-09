@@ -35,6 +35,5 @@ Read the full privacy policy.
 
 © Disney. All rights reserved.
 
-*   About Disney
 *   Terms of Use
 *   Interest-Based Ads
