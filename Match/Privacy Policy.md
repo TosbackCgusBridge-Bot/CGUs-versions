@@ -4,7 +4,7 @@ Match.com, L.L.C., as regards users originating from within the United States, a
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-Last Updated: February 5, 2014InfoWeCollectHeader
+Last Updated: February 5, 2014Information we collect about you
 
 In General. We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
