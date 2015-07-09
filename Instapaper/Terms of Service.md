@@ -164,4 +164,4 @@ f. No Waiver. Our failure to enforce any part of these Terms of Service shall no
 
 g. Headings. The section and paragraph headings in these Terms of Service are for convenience only and shall not affect their interpretation.
 
-Contact. You may contact us at the following address: 416 W 13th Suite 203, New York NY 10014 Effective Date of Terms of Service: 9/9/2013
+Contact. You may contact us at the following address: 29 Little West 12th St., New York NY 10014 Effective Date of Terms of Service: 9/9/2013
