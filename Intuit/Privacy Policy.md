@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  SANDRA
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13754911995
+true true C13632864602
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p08.jcpenney.com SERVER NAME :->. dtcomexpr1l2j1 TIME :->. Tue Jul 07 09:16:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p23.jcpenney.com SERVER NAME :->. dtcomexpr1c1j2 TIME :->. Wed Jul 08 11:18:35 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,75 +48,62 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   2 days only!  
-    up to 50% off
-    
-    select home
-    
-*   2 days only!  
-    extra 20% off
+$10 Off\* $25 or More
+
+Ends July 12 | In Store
+
+Print CouponOR Extra 15% Off\* Under $100  
+OR Extra 20% Off\* $100 or More  
+OR Extra 25% Off\* $200 or More
+
+Ends July 12 | Online Only | Code: SANDAL
+
+OR Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
+
+Ends July 12 | In Store and Online | Code: SANDAL
+
+Exclusions and details:
+
+*   super  
+    saturday  
+    sale
+*   home sale  
+    30-50% off
     
     select styles
     
-*   semi-annual  
-    intimates  
-    sale  
-    20% off
+*   dive in  
+    50% off swim
     
     select styles
     
-*   stock up
+*   clearance  
+    50-80% off
     
-    on dorm  
-    essentials
+    select styles
     
 
-*   2 Days Only!
+*   Starts now! Super Saturday Sale Shop the Super Saturday Sale: View Store Ad: Shop Men Shop Women Shop Kids Shop Baby Shop Juniors Shop Shoes Shop Lingerie Shop Jewelry and Watches Shop HomeNight and Day Doorbusters
     
-    Online Only | Ends July 7 | Code: SAVNJUL
+    In Store and Online | Friday 3pm CDT through Saturday 1pm CDT  
+    Use your coupon and save even more!
     
-    Get details:
+    Shop Doorbusters Now:
+*   Home Sale
     
-    50% Off\* select orig and reg-priced items
+    30 to 50% off select styles
     
-    Shop Bedding and Bath Shop Luggage Shop Window
+    Shop Home Sale Shop the Home Catalog Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
+*   Dive In
     
-    40% Off\* select orig and reg-priced items
+    50% Off Swim, select styles
     
-    Shop Home Decor Shop Furniture and Mattresses
+    Shop Swim     Shop Women's Swim Shop Men's Swim
+*   Clearance 50 to 80% Off
     
-    30% Off\* select orig and reg-priced items
+    New Markdowns! In Store and Online
     
-    Shop Kitchen and Dining Shop Vacuums and Floorcare Shop Storage and Organization
-    
-    \*exclusions apply
-    
-*   2 Days Only!
-    
-    Online Only | Ends July 7 | Code: SAVNJUL
-    
-    Get details:
-    
-    Extra 20% Off\* select orig, reg, sale and clearance-priced items
-    
-    Shop Men Shop Women Shop Kids Shop Baby Shop Shoes Shop Accessories Shop Fashion Jewelry Shop Baby Furniture Shop Baby Bedding Shop Clearance
-    
-    \*exclusions apply
-    
-*   Semi-Annual Intimates Sale
-    
-    Final Days! Ends July 7
-    
-    Shop the Semi-Annual Intimates Sale
-    
-    20% Off Bras, select styles, when you buy 2 or more
-    
-    Shop Bras Shop Ambrielle
-*   Hello Dorm
-    
-    Stock up on everything you need to transform your space.
-    
-    Shop All Dorm Dorm Checklist Shop Decor Shop Bedding Shop Organization Shop Kitchen Shop Bath
+    Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Lingerie Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining
 
 Just For You
 
@@ -126,19 +113,11 @@ Try it now: Back to School
 
 It's how you put it together that sets you apart.
 
-Find Your Style: Shop Uniforms Shop Converse, excluded from coupon Clearance 50 to 80% Off
-
-New Markdowns! In Store and Online
-
-Shop Clearance SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop People StyleWatch Must Haves
+Find Your Style: Shop Uniforms Shop Dorm Check out our blog, Styled by JCPenney Read It Now People StyleWatch Must Haves
 
 Sponsored content.
 
-Shop People StyleWatch Now Check out our blog, Styled by JCPenney Read It Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
+Shop People StyleWatch Now Disney Collection inside JCPenney Shop Disney Collection Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
