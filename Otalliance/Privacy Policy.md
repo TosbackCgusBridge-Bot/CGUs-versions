@@ -95,10 +95,6 @@ The Site is not targeted nor directed to children under the age of eighteen. To 
 *   Upcoming Events
 *   News
 
-Tue, Jul 7, 2015 Email Security. Deep Dive from the 2015 Online Trust Audit
-
-Join this webinar to better understand top level trends in email security and authentication best practices. This webinar will provide insights into the adoption and implementation of SPF, DKIM and DMARC as well as TLS and related technologies to help protect consumers and users from receiving malicious email. Speakers will share key learnings and provide attendees recommendations.
-
 *   OTA Blog
 *   Newsletters
 
