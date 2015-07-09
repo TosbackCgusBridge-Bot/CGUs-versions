@@ -67,7 +67,7 @@ We reserve the right to publish emails and letters sent to The Register. If the 
 
 Rackspace
 
-Rackspace host The Register's websites. Privacy Policy
+Peer 1 hosts The Register's websites. It outlines its regulatory responsibilities here.
 
 Data Protection
 
@@ -90,7 +90,8 @@ If you wish to contact Situation Publishing Limited regarding any aspect of the 
 By Post
 
 The Data Controller  
-Situation Publishing Limited Unit 1 Portland Street Trading Estate  
+Situation Publishing Limited  
+Unit 1 Portland Street Trading Estate  
 14 Portland Street  
 Southport PR8 1LJ
 
