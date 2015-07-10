@@ -18,7 +18,7 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
-    *   Fourth of July Sale Check Out These Sparkling Deals Before They Fizzle Out!
+    *   Dive Into Savings. Skip the Pool. Dip into these deals.
         
         Save up to 80% Site-Wide
         
@@ -26,9 +26,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
         
-    *   ThinkCentre Sale Rock-solid reliability and security
+    *   ThinkCentre Sale
         
-        With Up to 22% off
+        Leaves a small footprint without comprising power and security.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
@@ -58,7 +58,10 @@ LENOVO Menu
         Monday - Friday, 9am - 5:30pm (EST)
     *   Need More Help? More ways to contact Lenovo
 
-*   Call1-855-253-6686
+*   Sales1-855-253-6686
+
+*   Email Sign-Up
+
 *   Lenovo recommends Windows.
 
 *   Phone
