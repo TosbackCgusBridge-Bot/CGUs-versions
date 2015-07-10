@@ -20,6 +20,7 @@ Search Fidelity.com
     *   Cash ManagementLog In Required
     *   BillPayLog In Required
     *   Full ViewLog In Required
+    *   Profile &. PreferencesLog In Required
     *   Update Accounts / FeaturesLog In Required
     *   StatementsLog In Required
     *   Retirement Distribution CenterLog In Required
