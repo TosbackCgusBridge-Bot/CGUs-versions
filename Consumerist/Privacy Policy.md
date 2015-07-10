@@ -1,6 +1,6 @@
 **Consumer Media LLC Privacy Policy**
 
-Last updated on April 15, 2013
+Last updated on July 9, 2015
 
 **SCOPE**
 
@@ -79,6 +79,8 @@ We contract with other companies to provide certain services on our behalf, incl
 **Sale of a Business** 
 
 We may purchase or establish a business or sell one or more of our businesses and your personal information may be transferred as a part of the purchase or sale, creation of a separate business to provide certain of our products and services, or sale or pledge of our assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of Consumer Media.  Information, including personal information, about Consumer Media’s users of our Sites and applications may also be need to be disclosed in connection with a transaction in which Consumer Media or one of our affiliates is seeking financing, investment, support or funding.   If we sell a business or engage in one of the other types of transactions noted above, personal information will be subject to the promises made in our privacy policy in effect at the time of the transfer of that information.
+
+**We will notify you if Consumer Media transfers ownership and control of your personally identifying information to an unaffiliated third party in connection with a substantial corporate transaction.**
 
 **Sharing for Legal Purposes**
 
