@@ -63,6 +63,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Regular Season League Leaders
     *   Regular Season Batting Leaders
     *   Regular Season Pitching Leaders
+    *   Statcast Leaderboards
     *   Sortable Team Stats
     *   Milestone Tracker
     *   Top Rookies Tracker
@@ -260,7 +261,7 @@ Official Info Skip to main content
     *   Umpire Camps
     *   Feature Archive
     *   How to Become
-    *   Virtual Umpire Camp CD-ROM
+    *   Virtual Umpire Camp
 *   _Reviving Baseball in Inner Cities (RBI)_
     *   RBI Home
     *   RBI World Series
