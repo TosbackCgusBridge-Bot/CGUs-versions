@@ -10,6 +10,10 @@ Les Données communiquées par vous, le cas échéant, lors de l'utilisation d'u
 
   
 
+Afin d'améliorer votre expérience sur le portail Orange.fr, Orange est susceptible de collecter des informations relatives au fonctionnement des pages web du site Orange.fr. Ces informations permettent par exemple à Orange, de détecter l'origine technique des pages d'erreur affichées aux internautes pour y apporter les corrections nécessaires. Ces informations techniques ne font l'objet d'aucune utilisation commerciale.
+
+  
+
 En outre, lorsque vous visualisez ou cliquez sur des bandeaux publicitaires lors de votre visite du Portail, des cookies peuvent être placés afin de vous faire bénéficier de contenus publicitaires ciblés. Vous trouverez, en cliquant sur le lien ci-après cookies, des informations détaillées sur ces cookies et notamment les moyens vous permettant de paramétrer votre navigateur pour neutraliser ou refuser le placement de ces cookies.
 
   
