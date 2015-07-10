@@ -32,7 +32,6 @@ Your Cart (0) Search Catalog Search Catalog Navigation
 *   Wine
 *   Sweets
 *   Specialty Foods
-    *   HoneyGold Ham
     *   Mustards &. Spreads
         
     *   Gluten Free
@@ -77,7 +76,6 @@ Menu Search Stores Cart Gifts Sausage &. Cheese
 *   Wine
 *   Sweets
 *   Specialty Foods
-    *   HoneyGold Ham
     *   Mustards &. Spreads
         
     *   Gluten Free
