@@ -63,7 +63,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     *   Regular Season League Leaders
     *   Regular Season Batting Leaders
     *   Regular Season Pitching Leaders
-    *   Statcast Leaderboards
+    *   Statcast Leaders
     *   Sortable Team Stats
     *   Milestone Tracker
     *   Top Rookies Tracker
