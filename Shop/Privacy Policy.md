@@ -288,6 +288,7 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Customer Feedback
     *   Reset my Homepage
     *   Affinity Discount Program
+    *   Help Me Find a PC
 *   Customer Support
     *   Contact Us
     *   Shopping Help
