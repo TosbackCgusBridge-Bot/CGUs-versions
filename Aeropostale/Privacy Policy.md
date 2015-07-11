@@ -82,6 +82,7 @@ Aéropostale Go
     *   Shorts
     
     *   JACKETS
+    *   SWIM
     *   UNDERWEAR + LOUNGE
     *   SHOES
     *   ACCESSORIES
