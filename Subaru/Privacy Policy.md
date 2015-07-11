@@ -77,11 +77,11 @@ Up to
 
 WRX with accessory fog lights shown
 
-Legacy $21,695 starting price 2015 Legacy
+Legacy $21,745 starting price 2016 Legacy
 
 Starting at
 
-$21,695 MSRP
+$21,745 MSRP
 
 Up to
 
