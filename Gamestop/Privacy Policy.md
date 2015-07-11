@@ -1,5 +1,10 @@
 Can't find what  
-you're looking for? Phone 1-800-883-8895 8am - 9pm (CST) Monday-Saturday 8am - 8pm (CST) Sunday Privacy Policy
+you're looking for? Phone 1-800-883-8895 8am - 9pm (CST) Monday-Saturday 8am - 8pm (CST) Sunday Email  
+EMAIL US  
+
+We will respond to your inquiry as quickly as possible
+
+Privacy Policy
 
 Last updated: December 31, 2014
 
