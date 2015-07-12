@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   no saved items
+*   saved items: (14)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  
+*   Hello  LYNN
 *   (sign out)
     
 *   my account
 
-*   no saved items
+*   saved items: (14)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13762863238
+true true 10.60.216.10 C13639779131
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p16.jcpenney.com SERVER NAME :->. dtcomexpr1l2j5 TIME :->. Fri Jul 10 07:01:52 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Sat Jul 11 08:04:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -83,9 +83,9 @@ Exclusions and details:
     select styles
     
 
-*   Starts now! Super Saturday Sale Shop the Super Saturday Sale: View Store Ad: Shop Men Shop Women Shop Kids Shop Baby Shop Juniors Shop Shoes Shop Lingerie Shop Jewelry and Watches Shop HomeNight and Day Doorbusters
+*   In Store and Online! Super Saturday Sale Shop the Super Saturday Sale: View Store Ad: Shop Men Shop Women Shop Kids Shop Baby Shop Juniors Shop Shoes Shop Lingerie Shop Jewelry and Watches Shop HomeNight and Day Doorbusters
     
-    In Store and Online | Friday 3pm CDT through Saturday 1pm CDT  
+    In Store and Online | Ends Saturday 1pm CDT  
     Use your coupon and save even more!
     
     Shop Doorbusters Now:
