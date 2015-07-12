@@ -37,8 +37,6 @@ Your recent searches
 *   Don't show this again
 *   Privacy Policy
 
-*   ×
-
 Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) false true Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif od Please enter a quantity true true
 
 *   Facebook
@@ -167,7 +165,7 @@ paper and copy/print/ship purchases
 
 *   Business Services
 *   Business Form Templates
-*   Business Resource Center
+*   Business Solutions Center
 *   Copy &. Print Depot™
 *   MaxAssurance
 *   Prevention of Online Threats
@@ -181,6 +179,7 @@ paper and copy/print/ship purchases
 *   About Us
 *   About Office Depot®
 *   Affiliate Program
+*   CA Supply Chain Disclosure
 *   Careers
 *   Compliance and Ethics
 *   Diversity
