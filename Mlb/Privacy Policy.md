@@ -1,4 +1,4 @@
-To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. Español 한국어 繁體中文
+To learn about our efforts to improve the accessibility and usability of our website, please visit our Accessibility Information page. Skip to section navigation or Skip to main content Below is an advertisement. 日本語 Español 한국어 繁體中文
 
 Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop MLB.TV Fantasy Auction Teams
 
