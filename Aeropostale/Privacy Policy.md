@@ -115,7 +115,7 @@ Aéropostale Go
     *   Bethany Mota
     *   Free State
     *   Hobie
-    *   Live Love Dream
+    *   LIVE LOVE DREAM
     *   Lorimer
     *   The Bikini Lab
     *   Tokyo Darling
