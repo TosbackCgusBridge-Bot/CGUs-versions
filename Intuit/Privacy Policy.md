@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (14)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  LYNN
+*   Hello  GWENDOLYN
 *   (sign out)
     
 *   my account
 
-*   saved items: (14)
+*   no saved items
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13639779131
+true true C13644226407
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p03.jcpenney.com SERVER NAME :->. dtcomexpr1c1j4 TIME :->. Sat Jul 11 08:04:05 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Sun Jul 12 12:21:26 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,76 +48,73 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-$10 Off\* $25 or More
-
-Ends July 12 | In Store
-
-Print CouponOR Extra 15% Off\* Under $100  
-OR Extra 20% Off\* $100 or More  
-OR Extra 25% Off\* $200 or More
-
-Ends July 12 | Online Only | Code: SANDAL
-
-OR Extra 10% Off\* select watches, salon products, furniture, mattresses and custom blinds and shades.
-
-Ends July 12 | In Store and Online | Code: SANDAL
-
-Exclusions and details:
-
-*   super  
-    saturday  
-    sale
 *   home sale  
     30-50% off
     
     select styles
     
-*   dive in  
-    50% off swim
+*   now online!  
+    sephora
+*   back to  
+    school  
+    40-50% off
     
-    select styles
+    select  
+    uniforms
     
-*   clearance  
-    50-80% off
+*   up to 40% off
     
-    select styles
+    select bras
     
 
-*   In Store and Online! Super Saturday Sale Shop the Super Saturday Sale: View Store Ad: Shop Men Shop Women Shop Kids Shop Baby Shop Juniors Shop Shoes Shop Lingerie Shop Jewelry and Watches Shop HomeNight and Day Doorbusters
-    
-    In Store and Online | Ends Saturday 1pm CDT  
-    Use your coupon and save even more!
-    
-    Shop Doorbusters Now:
 *   Home Sale
     
-    30 to 50% off select styles
+    30-50% Off Home Collections. Select styles.
     
-    Shop Home Sale Shop the Home Catalog Shop Bedding and Bath Shop Window Shop Furniture and Mattresses Shop Kitchen and Dining Shop Home Decor Shop Luggage
-*   Dive In
+    shop the home sale shop bedding and bath shop window shop kitchen and dining shop home decor shop luggage shop furniture and mattresses shop bedding and bath
+*   Sephora Has Arrived
     
-    50% Off Swim, select styles
+    Shop the best beauty, without ever leaving jcpenney.com!
     
-    Shop Swim     Shop Women's Swim Shop Men's Swim
-*   Clearance 50 to 80% Off
+    shop Sephora
+*   School Rules!
     
-    New Markdowns! In Store and Online
+    40-50% Off School Uniforms. Select styles.
     
-    Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Lingerie Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining
+    Also available in extended sizes.
+    
+    shop school uniforms shop juniors' school uniforms shop juniors' school uniforms shop guys' school uniforms shop guys' school uniforms shop kids' school uniforms shop kids' school uniforms
+    
+    Save on Converse for the Family. Select styles. Excluded from coupon.
+    
+    shop Converse
+*   Everyday Essentials
+    
+    Up to 40% Off Bras. Select styles.
+    
+    shop bras
+    
+    Ambrielle only at JCPenney.
+    
+    shop Ambrielle shop Ambrielle
+    
+    $15 Perk Rewards for Bras
+    
+    get details
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Back to School
-
-It's how you put it together that sets you apart.
-
-Find Your Style: Shop Uniforms Shop Dorm Check out our blog, Styled by JCPenney Read It Now People StyleWatch Must Haves
+Try it now: Hello Dorm shop bedding shop all dorm shop small appliances People StyleWatch Must Haves
 
 Sponsored content.
 
-Shop People StyleWatch Now Disney Collection inside JCPenney Shop Disney Collection Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
+Shop People StyleWatch Now SportsFanShop
+
+Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
+
+Shop SportsFanShop Disney Collection inside JCPenney Shop Disney Collection Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
