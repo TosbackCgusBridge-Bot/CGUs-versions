@@ -17,7 +17,7 @@ For U.S. customer convenience, there is a prepaid UPS return shipping label incl
 
 Condition of Returns
 
-*   Items with damage caused by misuse are not eligible for return
+*   Items must be returned in clean, sellable condition. Items with damage caused by misuse are not eligible for return
 *   Items that cannot be returned will be clearly marked on the website
 *   Swimwear and undergarments must be returned in unused condition including any original packaging and hangtags
 *   We cannot accept merchandise that has been altered in any way
