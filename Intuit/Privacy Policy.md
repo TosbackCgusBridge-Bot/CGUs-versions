@@ -12,7 +12,7 @@
 *   customer service
     
 
-*   Hello  GWENDOLYN
+*   Hello  
 *   (sign out)
     
 *   my account
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true C13644226407
+true true 10.60.248.10 L13769143927
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p28.jcpenney.com SERVER NAME :->. dtcomexpr1c2j2 TIME :->. Sun Jul 12 12:21:26 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j4 TIME :->. Mon Jul 13 06:20:30 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -48,10 +48,15 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
 
-*   home sale  
+*   3 days only!  
     30-50% off
     
-    select styles
+    select home
+    
+*   3 days only!  
+    extra 20% off
+    
+    select apparel
     
 *   now online!  
     sephora
@@ -62,16 +67,17 @@ Your version of Internet Explorer is out of date. For best experience please upg
     select  
     uniforms
     
-*   up to 40% off
-    
-    select bras
-    
 
-*   Home Sale
+*   3 Days Only
     
-    30-50% Off Home Collections. Select styles.
+    Online only. Ends July 15. CODE: SHOP2DAY
     
-    shop the home sale shop bedding and bath shop window shop kitchen and dining shop home decor shop luggage shop furniture and mattresses shop bedding and bath
+    \*See exclusions and details50% Off\* select original and regular-priced items shop bedding and bath shop luggage shop window40% Off\* select original and regular-priced items shop home decor shop furniture and mattresses30% Off\* select original and regular-priced items shop kitchen and dining shop storage and organization shop vacuums and floorcare
+*   3 Days Only
+    
+    Online only. Ends July 15. CODE: SHOP2DAY
+    
+    \*See exclusions and detailsExtra 20% Off\* select original, regular, sale and clearance-priced items shop men's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop online clearance shop kids'
 *   Sephora Has Arrived
     
     Shop the best beauty, without ever leaving jcpenney.com!
@@ -88,33 +94,20 @@ Your version of Internet Explorer is out of date. For best experience please upg
     Save on Converse for the Family. Select styles. Excluded from coupon.
     
     shop Converse
-*   Everyday Essentials
-    
-    Up to 40% Off Bras. Select styles.
-    
-    shop bras
-    
-    Ambrielle only at JCPenney.
-    
-    shop Ambrielle shop Ambrielle
-    
-    $15 Perk Rewards for Bras
-    
-    get details
 
 Just For You
 
 Discover personalized recommendations that fit your style.
 
-Try it now: Hello Dorm shop bedding shop all dorm shop small appliances People StyleWatch Must Haves
-
-Sponsored content.
-
-Shop People StyleWatch Now SportsFanShop
+Try it now: Hello Dorm shop bedding shop all dorm shop small appliances SportsFanShop
 
 Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
 
-Shop SportsFanShop Disney Collection inside JCPenney Shop Disney Collection Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
+Shop SportsFanShop People StyleWatch Must Haves
+
+Sponsored content.
+
+Shop People StyleWatch Now Check out our blog, Styled by JCPenney Read It Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
