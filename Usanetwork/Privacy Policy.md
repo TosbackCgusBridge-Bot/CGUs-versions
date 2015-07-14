@@ -1,4 +1,4 @@
-Skip to main content Collapse
+Skip to main content
 
 *   Who We Are
 *   Our History
