@@ -47,7 +47,7 @@ Sections Scores News Video Stats Standings Schedule Players Tickets Apps Shop ML
     
     Featured
     *   THIS
-    *   #ASGWorthy
+    *   #FilthiestPlays
     *   Must C
     *   Chatting Cage
     *   DraftKings
