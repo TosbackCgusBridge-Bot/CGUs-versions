@@ -179,7 +179,7 @@ limitation of liability
 
 governing law
 
-50 We want you to enjoy reddit, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns here or by emailing us at feedback@reddit.com.
+50 We want you to enjoy reddit, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns here or by emailing us at contact@reddit.com.
 
 51 The headings in this agreement are for convenience and do not control any of its provisions.
 
