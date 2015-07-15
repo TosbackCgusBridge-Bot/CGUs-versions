@@ -83,6 +83,18 @@ Mayfield Village, Ohio 44143
 
 Call: 1-440-461-5000
 
+Security
+
+The security of your sensitive information is very important to us. If you have a security question or concern, we ask that you please contact us right away.
+
+Reporting Suspicious Email Messages
+
+If you receive an email from Progressive that you're unsure about, please forward it to phishing@email.progressive.com. We'll be able to tell you if it is a legitimate email sent from Progressive.
+
+Reporting Security Vulnerabilities
+
+If you believe you have found a security vulnerability on one of our websites or mobile applications, we ask you to let us know immediately. We will investigate all legitimate reports and do our best to quickly fix the problem. Please email securityconcern@email.progressive.com to contact us with your security concern.
+
 Back
 
 Back
