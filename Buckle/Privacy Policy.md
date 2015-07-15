@@ -1,6 +1,4 @@
-Military Guests, thank you for your service.
-
-10% Military Discount
+Get your FREE GIFT with a qualifying denim purchase.
 
 Guest Services 800-607-9788
 
