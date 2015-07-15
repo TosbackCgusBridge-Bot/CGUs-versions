@@ -93,7 +93,7 @@ Harlan, IA 51593.   If you are writing to us, please include your full name and
 If you wish to opt out of receiving fundraising communications from us, please go to www.ConsumerReports.org/fundraising. You may also call us at 1-800-234-1645 or write to us at:   Consumer Reports Foundation  
 Fundraising Solicitations  
 P. O. Box 96552  
-Washington, DC 20090-6552.   If you are writing to us, please specify whether you want to opt out of receiving postal mail, telephone and/or email fundraising solicitations from us. Please also let us know if you do not wish us to share your information with third parties as described in Section 4 above. Because we schedule many fundraising communications in advance, it may take up to 8 weeks for an opt out request to become effective.   **Opting out of consumer surveys**  
+Washington, DC 20090-6552.   If you are writing to us, please specify whether you want to opt out of receiving postal mail, telephone and/or email fundraising solicitations from us. Please also let us know if you do not wish us to share your information with third parties as described in Section 4 above.   Because we schedule many fundraising communications in advance, it may take up to 8 weeks for an opt out request to become effective.   **Opting out of consumer surveys**  
 We have supplementary policies that specifically address information collected through participation in our surveys. You can stop receiving consumer surveys by following the opt out instructions in each survey email invitation. You can also stop opt out of receiving future surveys by calling us at 1-800-234-1645 or by writing to us at:   Consumer Reports Customer Relations  
 Attn: Privacy  
 101 Truman Avenue  
