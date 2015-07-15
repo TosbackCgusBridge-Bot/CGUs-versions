@@ -1,9 +1,3 @@
-Worldwide Sites
-
-Where applicable, you can see country-specific product information, offers, and pricing.
-
-Change country/language X
-
 *   Search
 *   Sign in
     *   My Account
