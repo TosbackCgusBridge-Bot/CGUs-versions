@@ -130,8 +130,9 @@ If you would like to review, change or delete personal information we have colle
 
 Ask.com  
 Attn: Privacy Officer  
-555 12th Street, 11th Floor  
-Oakland, CA 94607
+555 12th Street, Suite 500  
+Oakland, CA 94607  
+Privacyhelp@ask.com
 
 If you would like to permanently delete your Ask.com account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
 
