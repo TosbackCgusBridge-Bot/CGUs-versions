@@ -3,10 +3,10 @@ Search × Site / Articles City / Country Social × Share this page / Follow us o
 *   My accountBack
     *   My Location
     *   My Units
-    *   My Account
     *   My Events
     *   My World Clock
     *   Log in
+    *   Register
 *   HomeBack
     *   Newsletter
     *   About Us
