@@ -247,22 +247,67 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   Jobs at Lenovo
     *   Articles
 *   Products &. Services
+    
     *   Laptops &. Ultrabooks
-    *   Tablets
-    *   Desktops
-    *   Workstations
-    *   Servers, Storage, &. Networking
-    *   Accessories &. Software
-    *   Services &. Warranty
-    *   Smartphones
-    *   Lenovo Holiday Deals
-    *   Lenovo Gift Cards
-    *   Lenovo Photo Service
-    *   Gaming Computers
-    *   Discover Lenovo
-    *   New Product Showcase
-    *   New Product Announcements
-    *   Outlet
+        1.  View all laptops
+        2.  Lenovo B Series
+        3.  Lenovo Flex Series
+        4.  Lenovo G Series
+        5.  Lenovo LaVie
+        6.  Lenovo N Series
+        7.  Lenovo S Series
+        8.  Lenovo U Series
+        9.  Lenovo Y Series
+        10.  Lenovo Yoga Series
+        11.  Lenovo Z Series
+        12.  ThinkPad 11e
+        13.  ThinkPad E
+        14.  ThinkPad Helix
+        15.  ThinkPad L
+        16.  ThinkPad T
+        17.  ThinkPad W
+        18.  ThinkPad X
+        19.  ThinkPad Yoga
+
+*   Tablets
+    1.  View all tablets
+    2.  Lenovo A Series
+    3.  Lenovo Miix
+    4.  Lenovo S Series
+    5.  Lenovo Yoga
+    6.  ThinkPad Helix 2nd Gen
+    7.  ThinkPad 10
+    8.  ThinkPad Yoga
+
+*   Desktops
+    1.  View all desktops
+    2.  A Series All-in-Ones
+    3.  B Series All-in-Ones
+    4.  C Series All-in-Ones
+    5.  H Series Towers
+    6.  Horizon Table PCs
+    7.  K Series Towers
+    8.  M Series All-in-Ones
+    9.  M Series SFF
+    10.  M Series Thin Clients
+    11.  M Series Tiny
+    12.  M Series Towers
+    13.  Q Series Minis
+    14.  Erazer X Series
+*   Workstations
+*   Servers, Storage, &. Networking
+*   Accessories &. Software
+*   Services &. Warranty
+*   Smartphones
+*   Lenovo Holiday Deals
+*   Lenovo Gift Cards
+*   Lenovo Photo Service
+*   Gaming Computers
+*   Discover Lenovo
+*   New Product Showcase
+*   New Product Announcements
+*   Outlet
+
 *   Shop by Industry
     *   Home &. Home Office
     *   Small Business Store
@@ -295,5 +340,4 @@ Selected Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshB
     *   FAQs
     *   Order Status
     *   Support
-
 trusteValidation 2015 Lenovo. All rights reserved. Print this pagePrivacySite MapTerms of Use
