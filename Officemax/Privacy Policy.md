@@ -224,4 +224,4 @@ You will be automatically logged out if you do not click on the button below.
 
 http://officedepot.ugc.bazaarvoice.com 2563 http://static.www.odcdn.com/images/us/od/
 
-This promotion is for loyalty members only. If you want to take advantage of exclusive offers like these, join Office Depot OfficeMax Rewards now! Already a member? sign in here.
+This promotion is for loyalty members only. If you want to take advantage of exclusive offers like these, join null now! Already a member? sign in here.
