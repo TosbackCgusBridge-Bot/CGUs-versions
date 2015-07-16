@@ -1,4 +1,4 @@
-Analytics Skip to content GOOGLE ANALYTICS TERMS OF SERVICE
+Analytics Google Analytics Terms of Service
 
 These Google Analytics Terms of Service (this _"Agreement"_) are entered into by Google Inc. ("Google") and the entity executing this Agreement (_"You"_). This Agreement governs Your use of the standard Google Analytics (the _"Service"_). BY CLICKING THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE REVIEWED AND ACCEPT THIS AGREEMENT AND ARE AUTHORIZED TO ACT ON BEHALF OF, AND BIND TO THIS AGREEMENT, THE OWNER OF THIS ACCOUNT. In consideration of the foregoing, the parties agree as follows:
 
@@ -102,7 +102,48 @@ Google will be excused from performance in this Agreement to the extent that per
 
 Last Updated: 4/6/2015
 
+Follow us on:
+
+*   Apps Status Dashboard
+*   Terms of Service
+
+Learning &. Support
+
+Help Center
+
+User Forum
+
+Solutions Gallery
+
+Analytics Academy
+
+Partner Gallery
+
+Developers
+
+Google Analytics Developer Site
+
+Demos &. Tools
+
+Help &. Communities
+
+Partner Program
+
+Related Products
+
+AdWords
+
+DoubleClick
+
+AdSense
+
+More Solutions from Google
+
+Google Business Solutions
+
+Google Apps for Work
+
+*   Help
 *   Google
-*   About Google
 *   Privacy
 *   Terms
