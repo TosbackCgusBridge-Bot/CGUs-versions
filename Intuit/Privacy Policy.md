@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true L13773172040
+true true 10.60.216.10 C13653742116
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. lenldtadepr1p01.jcpenney.com SERVER NAME :->. dtcomexpr1l1j2 TIME :->. Tue Jul 14 10:47:37 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p31.jcpenney.com SERVER NAME :->. dtcomexpr1c1j5 TIME :->. Wed Jul 15 12:25:36 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -47,67 +47,6 @@ _**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\
 **JavaScript is disabled in your browser.** Enable Javascript or upgrade to a Javascript capable browser to use jcp.com. click here for assistance.
 
 Your version of Internet Explorer is out of date. For best experience please upgrade to Internet Explorer 7 or above.
-
-*   3 days only!  
-    30-50% off
-    
-    select home
-    
-*   3 days only!  
-    extra 20% off
-    
-    select apparel
-    
-*   now online!  
-    sephora
-*   back to  
-    school  
-    40-50% off
-    
-    select  
-    uniforms
-    
-
-*   3 Days Only
-    
-    Online only. Ends July 15. CODE: SHOP2DAY
-    
-    \*See exclusions and details50% Off\* select original and regular-priced items shop bedding and bath shop luggage shop window40% Off\* select original and regular-priced items shop home decor shop furniture and mattresses30% Off\* select original and regular-priced items shop kitchen and dining shop storage and organization shop vacuums and floorcare
-*   3 Days Only
-    
-    Online only. Ends July 15. CODE: SHOP2DAY
-    
-    \*See exclusions and detailsExtra 20% Off\* select original, regular, sale and clearance-priced items shop men's shop women's shop kids' shop baby shop shoes shop accessories shop fashion jewelry shop baby furniture shop baby bedding shop online clearance shop kids'
-*   Sephora Has Arrived
-    
-    Shop the best beauty, without ever leaving jcpenney.com!
-    
-    shop Sephora
-*   School Rules!
-    
-    40-50% Off School Uniforms. Select styles.
-    
-    Also available in extended sizes.
-    
-    shop school uniforms shop juniors' school uniforms shop juniors' school uniforms shop guys' school uniforms shop guys' school uniforms shop kids' school uniforms shop kids' school uniforms
-    
-    Save on Converse for the Family. Select styles. Excluded from coupon.
-    
-    shop Converse
-
-Just For You
-
-Discover personalized recommendations that fit your style.
-
-Try it now: Hello Dorm shop bedding shop all dorm shop small appliances SportsFanShop
-
-Thousands of NFL, MLB, NBA, college, UFC and soccer products available for over 700 teams. Excluded from coupon.
-
-Shop SportsFanShop People StyleWatch Must Haves
-
-Sponsored content.
-
-Shop People StyleWatch Now Check out our blog, Styled by JCPenney Read It Now Download and Get Shopping Check Out the App: Download on the App Store Get It On Google play
 
 Recommendations Discover handpicked items we think you'll love. sign in
 
@@ -158,21 +97,21 @@ ABOUT US
 
 JCPenney credit card pay bill check balance apply now Popular Searches
 
-*   prom dresses
-*   patio furniture
-*   gift cards
-*   comforters
-*   window shades
-*   samsonite luggage
+*   homecoming dresses
 *   womens dresses
-*   bathroom rugs
-*   mens wedding bands
-*   womens boots
-*   mens scarves
-*   bath towels
-*   JCPenney Blog
 *   mens suits
+*   backpacks
+*   school uniforms
+*   athletic shoes
+*   girls shoes
+*   boys shoes
+*   mens watches
+*   womens watches
+*   curtains &. drapes
+*   mattresses
+*   area rugs
 *   bedding sets
+*   jcpenney blog
 
 *   copyright
 *   privacy policy
