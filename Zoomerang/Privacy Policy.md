@@ -44,8 +44,7 @@ Customer Value
 
 POWERED BY UNIQUE ANALYTICS AND INSIGHTS
 
-We leverage data from any source, anywhere and at any time and apply our proprietary technologies  
-to deliver solutions that extend market research into new areas of marketing insight.
+We leverage data from any source, anywhere and at any time and apply our proprietary technologies to deliver solutions that extend market research into new areas of marketing insight.
 
 1 Data We source data from surveys, social media, enterprise systems, mobile, public sources, GPS/geo location and other applicable repositories.
 
