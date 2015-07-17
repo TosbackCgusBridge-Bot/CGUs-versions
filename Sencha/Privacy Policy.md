@@ -41,11 +41,11 @@ Sencha
     *   Press Releases
     *   Careers
 *   Store
-    *   Sencha Ext JS
+    *   Sencha Ext JS
     *   Sencha GXT
     *   Sencha Architect
     *   Sencha Touch Support
-    *   Sencha Web Application Manager
+    *   Sencha Web Application Manager
     *   Sencha Complete
     *   Sencha Touch Bundle
     *   Licensing
@@ -218,11 +218,11 @@ Get Sencha NewsBuy Online
     *   Contact Us
 
 *   Store
-    *   Sencha Ext JS
+    *   Sencha Ext JS
     *   Sencha GXT
     *   Sencha Architect
     *   Sencha Touch Support
-    *   Sencha Web Application Manager
+    *   Sencha Web Application Manager
     *   Sencha Complete
     *   Sencha Touch Bundle
     *   Licensing
