@@ -93,7 +93,7 @@ If you receive an email from Progressive that you're unsure about, please forwar
 
 Reporting Security Vulnerabilities
 
-If you believe you have found a security vulnerability on one of our websites or mobile applications, we ask you to let us know immediately. We will investigate all legitimate reports and do our best to quickly fix the problem. Please email securityconcern@email.progressive.com to contact us with your security concern.
+If you believe you have found a security vulnerability with one of our products or services, please email your security concern to securityconcern@email.progressive.com.
 
 Back
 
