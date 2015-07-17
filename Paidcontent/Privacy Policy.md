@@ -1,12 +1,12 @@
-PrivacyÂ Policy
+Privacy Policy
 
-As used in this Privacy Policy, â€œGigaomâ€ refers to all websites (including Gigaom.comÂ andÂ GigaomÂ Research), mobile sites, applications, and other properties or services owned or operated byÂ Knowingly Corporation.
+As used in this Privacy Policy, “Gigaom” refers to all websites (including Gigaom.com and Gigaom Research), mobile sites, applications, and other properties or services owned or operated by Knowingly Corporation.
 
-By visitingÂ Gigaom, viewing our content or research, viewing any of our programs and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+By visiting Gigaom, viewing our content or research, viewing any of our programs and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 What Does This Privacy Policy Cover?
 
-This Privacy Policy is part of Gigaomâ€™s Terms of Service and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by Gigaom, including information obtained when you access or log in to Gigaom, and/or register for content or events provided by Gigaom.
+This Privacy Policy is part of Gigaom’s Terms of Service and covers the treatment of user information, including Personally Identifiable Information (defined below), obtained by Gigaom, including information obtained when you access or log in to Gigaom, and/or register for content or events provided by Gigaom.
 
 This Privacy Policy does not apply to the practices of companies that Gigaom does not own or control, or to individuals whom Gigaom does not employ or manage, including any of the third parties to which Gigaom may disclose user information as set forth in this Policy.
 
@@ -56,7 +56,7 @@ If you register for events or webinars provided by Gigaom, we may receive Inform
 
 Third Party Websites/Social Networking Sites
 
-If you choose to use any third party website or service that is integrated with Gigaom, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (â€œThird Party Websitesâ€)â€”or if you use any Gigaom application provided through any Third Party Websiteâ€”we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
+If you choose to use any third party website or service that is integrated with Gigaom, including a third party social networking or blogging site, such as LinkedIn, Facebook, Twitter or WordPress (“Third Party Websites”)â€”or if you use any Gigaom application provided through any Third Party Websiteâ€”we may receive Information, including Personally Identifying Information, from such Third Party Websites, including, but not limited to:
 
 *   Name
 *   Nickname or Username
@@ -67,9 +67,9 @@ If you choose to use any third party website or service that is integrated with 
 *   Contacts/Friends/Associations
 *   Any Information That Is Publicly Available on Third Party Websites
 
-For example, Gigaom may offer the ability to use certain Third Party Websites to facilitate your registration on Gigaom. We may also use information about your profile and connections on Third Party Websites to allow you to share or connect with your friends and contacts on Gigaom or to personalize your experience. In addition, Gigaom offers â€œplug insâ€ and â€œwidgetsâ€ from various Third Party Websites that allow you to share Gigaom content off of our service, as discussed in “Disclosure of Information to Third Parties”.
+For example, Gigaom may offer the ability to use certain Third Party Websites to facilitate your registration on Gigaom. We may also use information about your profile and connections on Third Party Websites to allow you to share or connect with your friends and contacts on Gigaom or to personalize your experience. In addition, Gigaom offers “plug ins” and “widgets” from various Third Party Websites that allow you to share Gigaom content off of our service, as discussed in “Disclosure of Information to Third Parties”.
 
-Your decision to use, or share with, a Third Party Website when accessing or using Gigaom products and services is completely voluntary. Gigaom is not responsible for compliance with the policies or practices of any Third Party Website. You should ensure that you are comfortable with the information such Third Party Websites may make available to Gigaom by reviewing those Websitesâ€™ privacy policies and service terms, and by modifying your privacy settings and preferences on those Services.
+Your decision to use, or share with, a Third Party Website when accessing or using Gigaom products and services is completely voluntary. Gigaom is not responsible for compliance with the policies or practices of any Third Party Website. You should ensure that you are comfortable with the information such Third Party Websites may make available to Gigaom by reviewing those Websites’ privacy policies and service terms, and by modifying your privacy settings and preferences on those Services.
 
 Any information we receive from Third Party Websites will be governed by this Privacy Policy.
 
@@ -79,9 +79,9 @@ We use the Information we obtain from or concerning you or your computer or devi
 
 In addition, we may use Information from or concerning you or your computer or device to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers. For example, we may periodically send promotional materials or notifications related to our products and services to the email address associated with your account.
 
-Gigaomâ€™s Use of Cookies
+Gigaom’s Use of Cookies
 
-Gigaom may place â€œcookiesâ€ on your computer or device that may contain anonymous Information that is associated with you. Cookies are small text files a website uses to recognize users, and are typically placed on your hard disk by a web server. Cookies contain information that can later be read by a web server in the domain (here, Gigaom) that issued the cookie to you or that, in some cases, can be read by a third party domain.
+Gigaom may place “cookies” on your computer or device that may contain anonymous Information that is associated with you. Cookies are small text files a website uses to recognize users, and are typically placed on your hard disk by a web server. Cookies contain information that can later be read by a web server in the domain (here, Gigaom) that issued the cookie to you or that, in some cases, can be read by a third party domain.
 
 Our cookies may record Information about your use of Gigaom so that we can provide a continuous and more personalized experience for you, including for one or more of the following purposes: to help identify visitors. assess usage patterns. identify preferences. control the display of ads. diagnose problems with our servers. gather demographic information. analyze trends and usage patterns. conduct research. deliver editorial content. record registration and personalized information. and otherwise administer Gigaom products and services.
 
@@ -99,7 +99,7 @@ We offer several ways for you to update Personally Identifying Information that 
 
 Disclosure of Information to Third Parties
 
-Gigaom may disclose Information (including Personally Identifying Information) from or concerning you or your computer or device to third parties in the circumstances described below. By visiting, accessing, attending or using Gigaomâ€™s products, services or events, you consent to the disclosure of your Information to certain categories of third parties in the manner described below. This Privacy Policy does not apply to the policies or practices of any of these third parties.
+Gigaom may disclose Information (including Personally Identifying Information) from or concerning you or your computer or device to third parties in the circumstances described below. By visiting, accessing, attending or using Gigaom’s products, services or events, you consent to the disclosure of your Information to certain categories of third parties in the manner described below. This Privacy Policy does not apply to the policies or practices of any of these third parties.
 
 Corporate Subscriptions
 
@@ -107,7 +107,7 @@ If your employer or another party provides you with a subscription to Gigaom Res
 
 Service Providers
 
-Gigaom relies on third party vendors and service providers to provide support and assistance for its products, services and events (â€œService Providersâ€), and we may disclose your Information (including Personally Identifying Information) to these Service Providers to the extent necessary to support our products, services or events, or as otherwise set forth below.
+Gigaom relies on third party vendors and service providers to provide support and assistance for its products, services and events (“Service Providers”), and we may disclose your Information (including Personally Identifying Information) to these Service Providers to the extent necessary to support our products, services or events, or as otherwise set forth below.
 
 Payment Processors
 
@@ -119,7 +119,7 @@ Gigaom uses third parties, such as EventBrite, to process registration for Gigao
 
 Web Hosts
 
-Gigaomâ€™s website services are hosted by WordPress VIP, an enterprise web publishing platform. All Information obtained and stored by Gigaomâ€™s websites ( see What Types of User Information Does Gigaom Obtain?) is processed and stored on servers that are owned and operated by WordPress.
+Gigaom’s website services are hosted by WordPress VIP, an enterprise web publishing platform. All Information obtained and stored by Gigaom’s websites ( see What Types of User Information Does Gigaom Obtain?) is processed and stored on servers that are owned and operated by WordPress.
 
 Webinars
 
@@ -131,11 +131,11 @@ If you have elected to register for one of our sponsored webinars or events, or 
 
 Third Party Websites
 
-Gigaom offers the ability to share Gigaom content on Third Party Websites, including social networking and blogging services such as LinkedIn or Facebook, through â€œpluginsâ€ or â€œwidgetsâ€ (such as LinkedInâ€™s â€œinâ€ button or Facebookâ€™s â€œLikeâ€ button). When you elect to share content and information with others on Third Party Websites, Gigaom may transmit your Information (including Personally Identifying Information) to such Third Party Websites. This Information may be visible on the Third Party Website to anyone who has access to that content or Information. Your decision to share information in this manner is completely voluntary. You should ensure that you are comfortable with how Third Party Websites may share your Information by reviewing their privacy policies and/or modifying your privacy settings directly on those Third Party Websites.
+Gigaom offers the ability to share Gigaom content on Third Party Websites, including social networking and blogging services such as LinkedIn or Facebook, through “plugins” or “widgets” (such as LinkedIn’s “in” button or Facebook’s “Like” button). When you elect to share content and information with others on Third Party Websites, Gigaom may transmit your Information (including Personally Identifying Information) to such Third Party Websites. This Information may be visible on the Third Party Website to anyone who has access to that content or Information. Your decision to share information in this manner is completely voluntary. You should ensure that you are comfortable with how Third Party Websites may share your Information by reviewing their privacy policies and/or modifying your privacy settings directly on those Third Party Websites.
 
 URL/Referrer Header Information
 
-When you visit Gigaom websites, certain information about the content or activities you have engaged in on Gigaom may be reflected in the Uniform Resource Locator (â€œURLâ€) for the page you are viewing on Gigaom (i.e., the Internet â€œaddress,â€ commonly displayed in the browser window). For example, the date or title of an article you are viewing may appear in the URL for that page. In addition, if you are logged into a Gigaom account, certain account information (may be visible in the URL when you visit your account on Gigaom. If you leave Gigaom to visit a third party website, including when you click on an advertisement or link or when you share information through a social plug-in (like the Linked In â€œinâ€ button), the information contained in the URL may be transmitted to the third party website by your browser.
+When you visit Gigaom websites, certain information about the content or activities you have engaged in on Gigaom may be reflected in the Uniform Resource Locator (“URL”) for the page you are viewing on Gigaom (i.e., the Internet “address,” commonly displayed in the browser window). For example, the date or title of an article you are viewing may appear in the URL for that page. In addition, if you are logged into a Gigaom account, certain account information (may be visible in the URL when you visit your account on Gigaom. If you leave Gigaom to visit a third party website, including when you click on an advertisement or link or when you share information through a social plug-in (like the Linked In “in” button), the information contained in the URL may be transmitted to the third party website by your browser.
 
 Advertisers and Analytics Services
 
@@ -159,7 +159,7 @@ Gigaom may allow third party advertising serving companies, including ad network
 
 Advertisers may use the information collected to display advertisements that are tailored to your interests or background and/or associate such information with your subsequent visits, purchases or other activities on other websites. Advertisers may also share this information with their clients or other third parties.
 
-**Gigaom has no responsibility for the technologies, tools or practices of the Advertisers that provide advertising and related services on Gigaom**. This Privacy Policy does not cover any collection, use or disclosure of Information by Advertisers who provide advertising and related services on Gigaom. These Advertisersâ€™ information gathering practices, including their policies regarding the use of cookies and other tracking technologies, are governed entirely by their own privacy policies, not this one.
+**Gigaom has no responsibility for the technologies, tools or practices of the Advertisers that provide advertising and related services on Gigaom**. This Privacy Policy does not cover any collection, use or disclosure of Information by Advertisers who provide advertising and related services on Gigaom. These Advertisers’ information gathering practices, including their policies regarding the use of cookies and other tracking technologies, are governed entirely by their own privacy policies, not this one.
 
 Gigaom currently may be using one or more of the following Advertisers to provide advertising and related services on Gigaom. If you would like to know about their information gathering and privacy practices, please visit the links below
 
