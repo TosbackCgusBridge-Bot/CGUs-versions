@@ -1,6 +1,6 @@
 Spiceworks Terms of Use
 
-_Last Updated: November 12, 2014_
+_Last Updated: July 15, 2015_
 
 Spiceworks Terms of Use
 
@@ -150,7 +150,9 @@ International Use
 
 You shall abide by all applicable laws and regulations regarding use of the Service. Spiceworks and its licensors make no representation that the Service is appropriate or available for use in any location. The Service is controlled and operated from within the United States. Spiceworks makes no representations that materials contained within the Service are appropriate or available for use in other locations, and access to the Service from locations where such activity is illegal is prohibited. Those who choose to use the Service from other locations do so on their own initiative and are solely responsible for compliance with all applicable laws.
 
-Internet Delays
+By accessing the Service, you agree that you are responsible for complying with all applicable laws export and trade and economic sanctions regulations, including the U.S. Export Administration Regulations ("EAR"), 15 CFR Parts 730-799,  and economic sanctions regulations administered by the U.S. Treasury Department's Office of Foreign Assets Controls ("OFAC"), 15 CFR Parts 500-599.  As such you agree that you will not download or use the Service without all required approvals in any proscribed destination (including Cuba, Iran, North Korea, Sudan, and Syria), on behalf of any proscribed entity or person, including those listed on the Treasury Department’s List of Specially Designated Nationals and the Commerce Department’s List of Denied Persons and/or Entity List,  for any proscribed end use, including weapons of mass destruction or any proliferation related activity, or in any other manner contrary to these export regulations and sanctions programs.  For further information on these restrictions, see http://www.bis.doc.gov/ and http://www.treasury.gov/about/organizational-structure/offices/Pages/Office-of-Foreign-Assets-Control.aspx. You further certify that you are not a proscribed end-user or the Service for a proscribed end use or other unauthorized end use under the regulations, as described above.
+
+Internet Delays and Problems
 
 SPICEWORKS' SERVICES MAY BE SUBJECT TO LIMITATIONS, DELAYS, AND OTHER PROBLEMS INHERENT IN THE USE OF THE INTERNET AND ELECTRONIC COMMUNICATIONS. SPICEWORKS IS NOT RESPONSIBLE FOR ANY DELAYS, DELIVERY FAILURES, DATA LOSS OR OTHER DAMAGE RESULTING FROM SUCH PROBLEMS.
 
