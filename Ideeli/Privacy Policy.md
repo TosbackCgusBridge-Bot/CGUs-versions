@@ -34,7 +34,7 @@ ideel primarily operates in New York, but given the expansive nature of the Inte
 
 We want you to consent to how we use your information.
 
-The entire ideel experience is based upon us sharing information with you and you sharing information with us. We need to receive information from you in order to process entries and purchases in our sales. Prior to becoming a member of ideel, we will get your consent to our terms and conditions, remind you to review our data practices (as described in this privacy policy). We will also remind you when you participate in a Sale– we want to make sure that you understand our programs and privacy policy.
+The entire ideel experience is based upon us sharing information with you and you sharing information with us. We need to receive information from you in order to process entries and purchases in our sales. Prior to becoming a member of ideel, we will get your consent to our terms of use, remind you to review our data practices (as described in this privacy policy). We will also remind you when you participate in a Sale– we want to make sure that you understand our programs and privacy policy.
 
 If you ever want to terminate your relationship with ideel, please send us an email at support@ideel.com . We will stop your participation in any Sale that you are currently participating in, but will retain and use your data as otherwise described in this privacy policy.
 
