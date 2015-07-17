@@ -246,9 +246,9 @@ Experian and the Experian marks used herein are service marks or registered trad
 
 Close ×Close Log In To Our Products
 
+*   Marketing Suite (cross-channel marketing platform)
 *   Alchemy Social
 *   CheetahMail
-*   Cross-channel marketing platform
 *   Hitwise
 *   Simmons OneView
 
