@@ -34,7 +34,7 @@ Cookies and Privacy Information for Collaborate - Web Conferencing
 Cookies and Privacy Information for Collaborate - Wimba Classroom  
 Cookies and Privacy Information for Mobile Central  
 Cookies and Privacy Information for Mobile Learn  
-Cookies and Privacy Information for Mobile Portal  
+Cookies and Privacy Information for Mobile Portal
 
 Support for SSL Encryption
 
@@ -52,9 +52,10 @@ Privacy Contacts
 
 If you have specific questions or concerns regarding these policies please contact:
 
-Barbara Lee  
+**Stuart Kupinsky**  
+SVP &. General Counsel  
 Blackboard Inc.  
-650 Massachusetts Avenue NW  
-6th Floor  
-Washington, DC 20001-3796  
-Phone: 202-463-4860
+650 Massachusetts Ave NW, 6th floor  
+Washington DC 20001-3796  
+P: +1 202.303.9372  
+Efax: +1 623.476.1481
