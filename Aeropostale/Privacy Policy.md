@@ -11,7 +11,6 @@ Aéropostale Go
     
     *   NEW ARRIVALS
     *   Bethany Mota
-    *   United XXVI
     *   Tokyo Darling
     *   Free State
     *   Throwback Tees
@@ -57,7 +56,6 @@ Aéropostale Go
 *   Guys
     
     *   NEW ARRIVALS
-    *   United XXVI
     *   Throwback Tees
     *   Brooklyn Calling
     *   Free State
@@ -87,14 +85,23 @@ Aéropostale Go
     *   ACCESSORIES
 *   Room
     
+    *   Dreamweaver
+    *   Touch of Whimsy
+    *   Lofty Ideas
+    *   Spirited Away
+    *   Festival Feels
+    *   Bethany's Room
     *   Forever Island Room
     *   Aztec Room
-    *   Bethany's Room
     
     *   Bedding
     *   Decorative Pillows
     *   Wall Decals &. Decor
-    *   Accessories
+    *   Throws &. Rugs
+    *   Lighting
+    *   Photo Display
+    *   Jewelry Holders &. Accessories
+    *   Art Gallery
 *   Clearance
     
     *   GIRLS
@@ -113,17 +120,13 @@ Aéropostale Go
     *   GIRLS
     *   Bethany Mota
     *   Free State
-    *   Hobie
     *   LIVE LOVE DREAM
     *   Lorimer
-    *   The Bikini Lab
     *   Tokyo Darling
-    *   United XXVI
     
     *   GUYS
     *   Brooklyn Calling
     *   Free State
-    *   United XXVI
 *   Factory
     
     *   GIRLS
