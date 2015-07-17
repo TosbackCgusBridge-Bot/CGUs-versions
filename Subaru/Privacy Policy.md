@@ -154,11 +154,11 @@ by KBB.com
 
 XV Crosstrek Hybrid Shown
 
-Outback $24,895 starting price 2015 Outback
+Outback $24,995 starting price 2016 Outback
 
 Starting at
 
-$24,895 MSRP
+$24,995 MSRP
 
 Up to
 
@@ -169,10 +169,7 @@ Up to
 *   Compare
 *   Build Your Own
 
-Named Best Resale Value  
-by KBB.com
-
-Outback 2.5i Premium shown
+Outback 2.5i Limited shown
 
 Certified Pre-Owned Certified Pre-Owned
 
