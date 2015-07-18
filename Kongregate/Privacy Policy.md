@@ -1,6 +1,6 @@
 Kongregate Privacy Policy
 
-If you're reading this, it's because you want to know what information we, Kongregate, Inc., are collecting on www.kongregate.com or from Kongregate mobile games, what we're doing with it, and what your options are. If you have any questions or concerns after reading this, please email us at privacy@kongregate.com.
+If you're reading this, it's because you want to know what information we, Kongregate, Inc., are collecting on www.kongregate.com or from Kongregate mobile games, what we're doing with it, and what your options are. If you have any questions or concerns after reading this, please email us at support@kongregate.com.
 
 This Privacy Policy applies to the Kongregate website located at www.kongregate.com (“Site”) and to all mobile games published by Kongregate (“Mobile Applications”). It also applies to information we collect about you offline, such as in telephone calls or through email correspondence.
 
@@ -52,7 +52,7 @@ We strive to maintain the security of your personal information through a variet
 
 Children’s Privacy
 
-The Site and Mobile Applications are designed for and directed at people 18 years of age or older. We do not knowingly collect information from children under 13. If Kongregate learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at privacy@kongregate.com.
+The Site and Mobile Applications are designed for and directed at people 18 years of age or older. We do not knowingly collect information from children under 13. If Kongregate learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at support@kongregate.com.
 
 For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
 
@@ -62,7 +62,7 @@ For additional tips on how to help children stay safe on the Internet, we recomm
 
 Right to Remove Posted Information — California Minors
 
-If you are under 18 years of age, reside in California, and have a registered account on the Site or Mobile Applications, you have the right to request removal of unwanted information that you publicly post on Site or Mobile Applications. To request removal of such information, you can contact Kongregate using the email address associated with your account at privacy@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site or Mobile Applications, but the information may not be completely or comprehensively removed from Kongregate systems.
+If you are under 18 years of age, reside in California, and have a registered account on the Site or Mobile Applications, you have the right to request removal of unwanted information that you publicly post on Site or Mobile Applications. To request removal of such information, you can contact Kongregate using the email address associated with your account at support@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site or Mobile Applications, but the information may not be completely or comprehensively removed from Kongregate systems.
 
 Your Options
 
@@ -72,7 +72,7 @@ If you wish to review and edit or delete information you have provided to Kongre
 
 If you do not agree with the privacy practices described in this Privacy Policy, it may be best to limit your level of interaction with our Site or Mobile Applications, which could include simply not providing us with personal information. While this will limit the services that our Site and Mobile Applications are able to provide (chat, friends lists, challenges, etc.), most of the games will remain playable. This option may be best for those who do not wish to provide the mandatory information required to set up an account.
 
-For questions or concerns regarding the use of personal information you submit to us, please contact us at privacy@kongregate.com.
+For questions or concerns regarding the use of personal information you submit to us, please contact us at support@kongregate.com.
 
 Kongregate  
 450 Sansome Street, 12th Floor   
