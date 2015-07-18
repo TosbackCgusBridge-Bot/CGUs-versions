@@ -254,7 +254,6 @@ About Us
 *   Our Partners in Conservation
 *   Careers
 *   Diversity &. Inclusion
-*   Youth Programs
 *   Contact Us
 *   Social Media
 *   Volunteer: Connect with Nature
@@ -439,25 +438,3 @@ Our Family of Sites
 **Copyright © 2015 The Nature Conservancy. Terms of Use | Privacy Policy | Charitable Solicitation Disclosures**
 
 The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
-
-x **Sign up** for Nature eNews!
-
-Learn about the places you love  
-Find out how you can help.
-
-Share nature's story.
-
-Thank you for joining our online community!
-
-We’ll be in touch soon with more Nature Conservancy news, updates and exciting stories.
-
-*   First
-*   Last
-*   Email
-*   State AKALARAZCACOCTDCDEFLGAHIIAIDILINKSKYLAMAMDMEMIMNMOMSMTNCNDNENHNJNMNVNYOHOKORPARISCSDTNTXUTVAVTWAWIWVWYASFMGUMHMPPRPWVIAAAEAPABBCMBNBNLNSNTNUONPEQCSKYTNone
-
-Spam Control Text: Please leave this field empty GO! Sign Up
-
-I'm already on the list!
-
-Read our privacy policy.
