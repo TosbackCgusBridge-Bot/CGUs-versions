@@ -73,10 +73,9 @@ Except as described above, we will not disclose your Personal Information to thi
   
   
 **E.U. and Swiss Safe Harbor**  
-  
-In addition to Dell’s other data protection measures, Dell Cloud Clinical Archive (DCCA) services comply with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. For provision of DCCA services to its clients, Dell has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Dell Clinical Cloud Archive Services certification, please visit http://www.export.gov/safeharbor.
+In addition to Dell’s other data protection measures, Dell Cloud Clinical Archive (DCCA) services comply with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. For provision of DCCA services to its clients, Dell has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Dell Cloud Clinical Archive Services certification, please visit http://www.export.gov/safeharbor.
 
-TRUSTe serves as an independent third-party recourse to provide localized dispute resolution of consumer complaints about DCCA online data collection, as required for Safe Harbor compliance. Should you have any questions about DCCA’s Safe Harbor status, please contact us at privacy@Dell.com. If you are not satisfied with our response, you can contact TRUSTe here. To learn more about the Safe Harbor program, and to view the Dell Clinical Cloud Archive Services certification, please visit www.export.gov/safeharbor.
+TRUSTe serves as an independent third-party recourse to provide localized dispute resolution of consumer complaints about DCCA online data collection, as required for Safe Harbor compliance. Should you have any questions about DCCA’s Safe Harbor status, please contact us at privacy@Dell.com. If you are not satisfied with our response, you can contact TRUSTe here. To learn more about the Safe Harbor program, and to view the Dell Cloud Clinical Archive Services certification, please visit www.export.gov/safeharbor.
 
 How You Can Access Your Information
 
@@ -96,8 +95,7 @@ Please allow up to 10 business days for your email preferences to take effect. B
   
 
 **How We Secure Your Personal Information  
-**  
-Dell takes all reasonable steps to protect your Personal Information from misuse, interference and loss, as well as unauthorized access, modification or disclosure. The ways we do this include:
+**Dell takes all reasonable steps to protect your Personal Information from misuse, interference and loss, as well as unauthorized access, modification or disclosure. The ways we do this include:
 
 *   using encryption when collecting or transferring sensitive information, such as credit card details.
 *   limiting physical access to our premises.
@@ -123,7 +121,7 @@ Cookies allow you to take advantage of some of Dell's essential features, includ
 **Targeted Display Advertising by Dell and Others  
 **Dell also works with advertising and personalization Business Partners that use cookies to help us display personalized content and appropriate advertising during your visits to Dell.com and other websites based on your visits to Dell.com. Cookies placed by these Business Partners also assist us with measuring the performance of our advertising campaigns and with identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page. These cookies can be effective whether you are on Dell.com or another website.
 
-Learn more about targeted advertising and how to opt out.  
+Learn more about targeted advertising and how to opt out.  
   
 **“Do Not Track” Signals  
 **Please note that while you may have the opportunity to opt-out of targeted advertising through the “Learn more” link above and you may be able to control the use of cookies through your web browser as described in the “How We and Our Partners Use Cookies” section above, some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Dell does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit www.allaboutdnt.org.  
@@ -152,7 +150,7 @@ Our website includes social media features, including Facebook “Like” button
 
 Links to Third-Party Websites and Services
 
-Please be aware that Dell provides links to other websites, which if you click on them may collect Personal Information about you. The information practices of those third-party websites linked to Dell.com are not covered by this Privacy Statement. We generally use the " " symbol to mark links that go to third party websites.
+Please be aware that Dell provides links to other websites, which if you click on them may collect Personal Information about you. The information practices of those third-party websites linked to Dell.com are not covered by this Privacy Statement. .
 
 Changes to Our Privacy Statement Regarding Customer and Online User Information
 
@@ -170,4 +168,4 @@ USA
 
 You may also email us at privacy@dell.com.
 
-**Effective Date: February 26, 2015.**
+**Effective Date: July 17, 2015.**
