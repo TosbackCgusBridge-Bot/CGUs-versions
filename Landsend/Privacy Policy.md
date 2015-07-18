@@ -21,7 +21,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Back to Women Featured Shops
             *   2015 Swim Shop
             *   Activewear Collection
-            *   Shorts 101
+            *   Jeans Guide
             *   Swim Finder
             
             *   New Arrivals
@@ -65,7 +65,6 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Supima Dress Shirts &. Polos
             
             *   New Arrivals
-            *   Summer Style
             *   Tailored Fit Shop
             *   Slim Fit Shop
             *   Sale
@@ -129,6 +128,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Activewear
+            *   Sleepwear
             *   Outerwear
             *   Backpacks &. Lunch Boxes
             *   Tights, Socks &. Underwear
@@ -147,6 +147,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Shorts
             *   Blazers &. Jackets
             *   Activewear
+            *   Sleepwear
             *   Outerwear
             *   Backpacks &. Lunch Boxes
             *   Ties &. Accessories
@@ -219,6 +220,7 @@ You must have JavaScript enabled on your Web browser to fully interact with our 
             *   Storage &. Organization
             *   Beach Towels
             *   Totes
+            *   Home Décor &. Gifts
             *   Luggage &. Bags
             *   Kids Home
             *   Dog Shop
