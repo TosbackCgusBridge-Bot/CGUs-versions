@@ -18,7 +18,8 @@ LENOVO Menu
         6.  Coupon Page
         7.  Deals for Students and Educators
         8.  Outlet
-    *   Dive Into Savings. Skip the Pool. Dip into these deals.
+        9.  Warranty-Sale
+    *   Christmas in July We're Six Months Away. Why Not Celebrate Today!
         
         Save up to 80% Site-Wide
         
@@ -26,9 +27,9 @@ LENOVO Menu
         
         We have prebuilt models of our most popular ThinkPad and ThinkCentre PCs!
         
-    *   ThinkCentre Sale
+    *   BACK-TO-SCHOOL GUIDE
         
-        Leaves a small footprint without comprising power and security.
+        Handy Tools to Get You Ready for School.
         
 *   Support
     *   Help placing an order 24 hours a day, 7 days a week  
