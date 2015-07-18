@@ -85,14 +85,13 @@ Aéropostale Go
     *   ACCESSORIES
 *   Room
     
-    *   Dreamweaver
     *   Touch of Whimsy
-    *   Lofty Ideas
+    *   Lofty Ideals
     *   Spirited Away
     *   Festival Feels
-    *   Bethany's Room
-    *   Forever Island Room
-    *   Aztec Room
+    *   Floral Fixation
+    *   Forever Island
+    *   Peace, Love, &. Neon
     
     *   Bedding
     *   Decorative Pillows
