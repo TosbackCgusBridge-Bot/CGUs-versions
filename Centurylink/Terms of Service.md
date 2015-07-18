@@ -187,6 +187,8 @@ back to top
   
 
 About Us | Careers | Investor Relations | Legal | Legal Notices | Privacy Policy | Site Map | Tariffs | Customers with Disabilities | Contact Us  
-Store Locator | Yellow Pages | Email Offers | Referral Program | CenturyLink Retailer | Fed Govt | State &. Fed Govt | Education | Partners  
+Store Locator | White/Yellow Pages White/Yellow Pages | Email Offers | Referral Program | CenturyLink Retailer | Fed Govt | State &. Fed Govt | Education | Partners  
+  
 For Home | Small Business | Medium Business | Enterprise | Wholesale  
+  
 © 2015, CenturyLink. All Rights Reserved. Feedback
