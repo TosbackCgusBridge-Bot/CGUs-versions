@@ -12,7 +12,7 @@ SEG1 hp
 
 Weekly Ad Office Depot Deals
 
-Recommended Products
+Ez286oHIyvJbizt5nCobbvH Recommended Products
 
 Category Matches
 
@@ -37,7 +37,9 @@ Your recent searches
 *   Don't show this again
 *   Privacy Policy
 
-Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) false true Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif od Please enter a quantity true true
+*   ×
+
+Product Plans &. Leasing Options Page of There are no items in your cart. Previous Next $ Coupon Code: ZIP CODE You have not selected a store or a zipcode yet Your Coupons See all coupons Includes Coupon(s) Qty. Product Price Price With Tax item(s) Your Price: Quick View See More Results http://static.www.odcdn.com/images/us/od/lb\_loading.gif od Please enter a quantity true true
 
 *   Facebook
 *   Tweet
@@ -149,21 +151,23 @@ and get special financing options
 10% back in reward points on ink, toner,  
 paper and copy/print/ship purchases
 
-1-800-GO-DEPOT (1-800-463-3768) Live Chat   Email Us     Sign up to receive SPECIAL OFFERS to your inbox.   Sign up to receive SPECIAL OFFERS to your mobile phone. Social       Mobile Apps   
+ **1-800-GO-DEPOT**  
+(1-800-463-3768)  Live Chat  Signup to receive  
+**Special Offers**  
+to your inbox  Signup to receive  
+**Special Offers**  
+to your Mobile Phone      
 
-*   Products
+*   PRODUCTS
 *   Ativa®
-*   Foray™
+*   Foray &. trade
 *   Gift &. Rewards Cards
+*   Greener Office
 *   Products A-Z
 *   Top Categories
 *   Write a Product Review
-*   Special Programs
-*   5% Back to Schools Program
-*   Environmental Programs
-*   Veterans Advantage
 
-*   Business Services
+*   BUSINESS SERVICES
 *   Business Form Templates
 *   Business Solutions Center
 *   Copy &. Print Depot™
@@ -173,13 +177,13 @@ paper and copy/print/ship purchases
 *   Small Business Handbook
 *   Security Solutions
 *   Shredding Services
-*   Tech Depot™ Services
+*   Tech Depot &. trade Services
 *   Tech Trade-In
 
-*   About Us
+*   ABOUT US
+*   Find a Store
 *   About Office Depot®
 *   Affiliate Program
-*   CA Supply Chain Disclosure
 *   Careers
 *   Compliance and Ethics
 *   Diversity
@@ -190,7 +194,7 @@ paper and copy/print/ship purchases
 *   Office Depot Foundation
 *   Women in Business
 
-*   Customer Service
+*   CUSTOMER SERVICE
 *   Customer Service
 *   Customer Survey
 *   Delivery Info
@@ -203,16 +207,23 @@ paper and copy/print/ship purchases
 *   Request a Catalog
 *   Website Feedback
 
-*   **VeriSign Secure**  
-    Your information is protected by  
-    VeriSign encryption
+*   SPECIAL PROGRAMS
+*   5% Back to Schools Program
+*   Environmental Programs
+
+MOBILE APPS   
+
 *   Site Map
 *   Terms of Use
 *   Privacy Policy
 *   Office Depot Anywhere
 *   Office Depot Tracking Tools
 *   International
-*   Office Depot Canada
+*   Grand &. Toy Canada
+
+**Norton Secure**  
+Your information is protected by  
+Norton encryption
 
 **Copyright © 2015 by Office Depot, Inc. All rights reserved.**  Prices shown are in U.S. Dollars. Please login for your pricing.  Prices are subject to change. All use of the site is subject to the Terms of Use. Prices and offers on www.officedepot.com may not apply to purchases made on business.officedepot.com. See Terms of Use details.
 
