@@ -94,6 +94,7 @@ Aéropostale Go
     *   Peace, Love, &. Neon
     
     *   Bedding
+    *   Five Star Sheets &. Pillowcases
     *   Decorative Pillows
     *   Wall Decals &. Decor
     *   Throws &. Rugs
