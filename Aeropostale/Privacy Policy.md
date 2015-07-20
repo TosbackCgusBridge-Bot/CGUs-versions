@@ -121,7 +121,6 @@ Aéropostale Go
     *   Bethany Mota
     *   Free State
     *   LIVE LOVE DREAM
-    *   Lorimer
     *   Tokyo Darling
     
     *   GUYS
