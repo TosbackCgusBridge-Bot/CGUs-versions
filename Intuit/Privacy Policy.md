@@ -4,7 +4,7 @@
 *   registry
 
 *   my account
-*   saved items: (6)
+*   saved items: (4)
 *   recommendations
 *   track order
 *   ship to
@@ -12,12 +12,12 @@
 *   customer service
     
 
-*   Hello  Christina
+*   Hello  
 *   (sign out)
     
 *   my account
 
-*   saved items: (6)
+*   saved items: (4)
 *   recommendations
 *   track order
 *   ship to
@@ -25,9 +25,9 @@
 *   customer service
     
 
-true true 10.60.216.10 C13666027955
+true true C13670273780
 
-_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p06.jcpenney.com SERVER NAME :->. dtcomexpr1c2j3 TIME :->. Sun Jul 19 12:07:58 CDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_**my bag**_ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* HOST NAME :->. colldtadepr1p24.jcpenney.com SERVER NAME :->. dtcomexpr1c2j4 TIME :->. Mon Jul 20 06:17:09 EDT 2015 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 *   for the home
 *   bed &. bath
@@ -82,7 +82,7 @@ Or, Extra 10% Off\* watches and salon products.
     select home
     
 *   clearance  
-    50-70% off
+    50-80% off
     
     select styles
     
@@ -104,11 +104,15 @@ Or, Extra 10% Off\* watches and salon products.
     30-50% Off Home Collections. Select styles.
     
     shop the home sale shop window shop bedding and bath shop furniture and mattresses shop kitchen and dining shop home decor shop luggage
-*   Clearance 50 to 70% Off
+*   Clearance 50 to 80% Off
     
     In Store and Online
     
-    Shop Clearance Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Lingerie Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Clearance
+    Shop Clearance
+    
+    Plus an Extra 15% Off with code: JULYSAVE
+    
+    Get details: Shop Women Shop Men Shop Kids Shop Baby Shop Shoes Shop Jewelry and Watches Shop Lingerie Shop Furniture and Mattresses Shop Home Decor Shop Bedding and Bath Shop Window Shop Kitchen and Dining Shop Clearance
 *   Up to 50% Off Arizona
     
     Select styles. Extended sizes available.
