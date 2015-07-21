@@ -48,9 +48,17 @@ Like many website providers, we use your IP address to help diagnose problems wi
 
 We use web beacons (a.k.a. clear GIFs, web bugs or pixel tags) to personalize your experience of the Service and to generate information about Service traffic and trends. Web beacons collect General Information, such as the type of browser that you use and your IP address. Web beacons may be used alone or in conjunction with cookies. when web beacons are used with cookies, they may link General Information to Personal Information. Web beacons usually are not visible to you.
 
-We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service. A cookie is a small file stored by your internet browser on your computer. A "session cookie" stores temporary information that is erased when you close your web browser or turn off your computer. A "persistent cookie" enables the Service to recognize you when you return to it and remains stored on your computer until you delete it. Your web browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the Service will not be able to recognize your account or to personalize the content that you see. A "flash cookie," also known as a "local storage object," is not stored in your browser, unlike other cookies, and instead placed on your computer by websites that use Adobe Flash. You may disable flash cookies via your Flash Player preferences or by using third-party software. We do not and cannot use cookies to gather other information that may be stored on your hard drive.
+We also use cookies to keep track of your shopping cart and for other purposes like personalizing the Service. A cookie is a small file stored by your internet browser on your computer. A "session cookie" stores temporary information that is erased when you close your web browser or turn off your computer. A "persistent cookie" enables the Service to recognize you when ou return to it and remains stored on your computer until you delete it. Your web browser is usually set up to initially accept cookies. If you set your browser to reject cookies, the Service will not be able to recognize your account or to personalize the content that you see. A "flash cookie," also known as a "local storage object," is not stored in your browser, unlike other cookies, and instead placed on your computer by websites that use Adobe Flash. You may disable flash cookies via your Flash Player preferences or by using third-party software. We do not and cannot use cookies to gather other information that may be stored on your hard drive.
 
-Third-party advertisers also help us display tailored content to our customers and serve advertising on our behalf. These advertisers may also utilize cookies and/or web beacons to collect General Information about your activities on the Service, to target advertising based upon your interests and to measure effectiveness of the Service. Our systems do not currently recognize browser "Do Not Track" signals, but if you wish to not have General Information used for the purpose of serving you targeted ads, you may be able to opt-out by visiting http://www.youradchoices.com or similar online resources about behavioral advertising. Please note that opting out prevents targeted advertising but does not prevent all advertising.
+Third-party advertising management partners may help us display tailored content to our customers’ interests and serve interest-based advertising on our behalf. Wayfair and our advertising management partners may use cookies, web beacons and other tools to collect General Information about your activities on the Service, to deliver advertising on the Service or elsewhere on the Internet based upon your interests that may be more relevant to you and to measure effectiveness of our marketing efforts and the Service.
+
+You may "opt out" of receiving some interest-based advertisements by following the instructions at www.aboutads.info/choices or www.networkadvertising.org/choices/. (An "opt-out cookie" will be placed on your computer indicating that you do not want to receive interest-based advertisements. If you delete cookies on your computer, you will need to opt-out again.) You may opt out of certain interest-based advertisements that use Wayfair.com's cookie by clicking here. You may opt out of certain interest-based advertisements that use AllModern.com's cookie by clicking here. To learn more about cookies in general, including how to manage and delete cookies, visit www.allaboutcookies.org.
+
+Opting out of receiving interest-based advertisements through the links above does not mean you will no longer see digital advertisements from Wayfair or our ad management partners. rather, opting out means that most of the digital advertisements that you do see will not be based on your particular interests. In addition, certain data collection tools on the Service (including cookies) still may collect information about your use of the Service, such as for analytics and fraud prevention.
+
+How We Respond to Do Not Track Signals
+
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a "Do Not Track" ("DNT") or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser's user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many digital service operators, including Wayfair, do not recognize or respond to DNT signals.
 
 Third Party Features
 
@@ -160,7 +168,7 @@ Boston, MA 02116
 
 Terms of Use
 
-Last Updated: March 22, 2013
+Last Updated: July 20, 2015
 
 Welcome to Wayfair!
 
@@ -302,7 +310,7 @@ If you have questions, comments or complaints about these Terms or the Sites, pl
 
 Wayfair's Copyright Policy
 
-Last Updated: March 22, 2013
+Last Updated: July 20, 2015
 
 This Copyright Policy describes Wayfair's policy of prohibiting any information or materials that violate another party's intellectual property rights from appearing on www.Wayfair.com, www.AllModern.com, www.JossandMain.com, www.WayfairSupply.com, www.BirchLane.com, and their related domains (collectively, the "**Site**").
 
