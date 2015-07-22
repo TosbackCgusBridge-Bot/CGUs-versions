@@ -490,7 +490,7 @@ Destination Guides
     *   Alberta
         *   Calgary
         *   Edmonton
-    *   Bristish Columbia
+    *   British Columbia
         *   Vancouver
         *   Victoria
         *   Whistler
