@@ -53,7 +53,7 @@ Anonymous Data. As is true of most web sites, we gather certain information auto
 
 EducationDynamics will not sell or disclose your personally identifiable information except as described below:
 
-If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. To request removal of your personal information from our blog or forum, contact us at info@eLearners.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. To request removal of your personal information from our blog or forum, contact us at info@educationdynamics.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
 
@@ -75,7 +75,7 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 **Choice and Opt-out**
 
-You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to unsubscribe@eLearners.com or via postal mail.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to unsubscribe@educationdynamics.com or via postal mail.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following link to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to:
 
@@ -128,7 +128,7 @@ If you are located outside of the United States, please note that the personal d
 
 **Review and Correction**
 
-You may review, update and delete the personal data you have provided to us contacting us via e-mail at info@eLearners.com or by sending us written notice via postal mail to:
+You may review, update and delete the personal data you have provided to us contacting us via e-mail at info@educationdynamics.com or by sending us written notice via postal mail to:
 
 Attn: Information Inquiry or Update  
 EducationDynamics, LLC  
@@ -143,7 +143,7 @@ We will retain your information for as long as your account is active or as need
 
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can send email us at info@eLearners.com.
+If you have any questions about security on our Web site, you can send email us at info@educationdynamics.com
 
 **Business Transfers**
 
