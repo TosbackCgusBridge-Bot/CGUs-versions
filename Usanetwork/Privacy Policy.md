@@ -38,7 +38,6 @@ Skip to main content
             1.  Fandango Fandango The nation's leading moviegoer destination. Sells tickets to more than 24,000 screens nationwide. Fandango
             2.  GolfNow GolfNow Uses leading-edge technology to offers nearly 2 million registered golfers more ways to stay connected to their favorite courses and tee times. GolfNow
             3.  Hulu Hulu A premium streaming TV destination that seeks to captivate and connect viewers with the stories they love. Hulu
-            4.  Radius Radius Radius is a premium subscription digital video service from NBCUniversal that makes first-class fitness experiences accessible anytime, anywhere, on any screen. Radius
         5.  Film
             1.  Focus Features Focus Features Produces, acquires, and releases movies from rising and established talent and filmmakers. Offers a diverse slate for a wide range of moviegoers. Focus Features
             2.  Universal Pictures Universal Pictures Creates and distributes theatrical and non-theatrical filmed entertainment for a growing global marketplace. Universal Pictures
@@ -101,7 +100,6 @@ Skip to main content
                 *   Fandango
                 *   GolfNow
                 *   Hulu
-                *   Radius
             *   FILM
                 *   Focus Features
                 *   Universal Pictures
