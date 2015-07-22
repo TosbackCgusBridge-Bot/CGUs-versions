@@ -1,4 +1,6 @@
-Get your FREE GIFT with a qualifying denim purchase.
+Sidewalk Sales just got better.
+
+Extra 10% off sale.
 
 Guest Services 800-607-9788
 
