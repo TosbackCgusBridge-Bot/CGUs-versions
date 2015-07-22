@@ -75,7 +75,7 @@ Aéropostale Go
     
     *   BOTTOMS
     *   Jeans
-    *   Joggers
+    *   joggers + sweats
     *   Pants
     *   Shorts
     
@@ -85,6 +85,7 @@ Aéropostale Go
     *   ACCESSORIES
 *   Room
     
+    *   Dreamweaver
     *   Touch of Whimsy
     *   Lofty Ideals
     *   Spirited Away
@@ -121,6 +122,7 @@ Aéropostale Go
     *   Bethany Mota
     *   Free State
     *   LIVE LOVE DREAM
+    *   Lorimer
     *   Tokyo Darling
     
     *   GUYS
