@@ -78,4 +78,4 @@ Let’s get in touch!
 
 Search Search for:
 
-Copyright © 2014 MetrixLab. All rights reserved. Privacy Statement
+Copyright © 2015 MetrixLab. All rights reserved. Privacy Statement
